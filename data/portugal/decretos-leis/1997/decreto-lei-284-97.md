@@ -53,11 +53,11 @@ integrity:
   source_sha256: 71005d61b49484aca9168bad617b6e10cec3c025a895e9590682c3fa6feea267
   source_sha256_scope: imported_derived_markdown
 provenance:
-  collector: leis-portugal importador legalize-pt
+  collector: leis-portugal importação inicial
   collector_version: 0.1.0
-  generated_by: leis-portugal import legalize
+  generated_by: leis-portugal importação inicial
   generated_at: '2026-10-21T00:00:00Z'
-  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1997/DRE-1997-284-672449.md).'
+  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -83,7 +83,7 @@ subjects:
 relationships:
 - type: amended_by
   target: pt:dre:694049:por
-  label: Última alteração registada pelo legalize-pt
+  label: Última alteração registada na importação inicial
   source: null
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/176/1996/09/21/p/dre
@@ -100,10 +100,10 @@ relationships:
 article_structure:
   article_count: 20
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+  extraction_method: Cabeçalhos Markdown '###### Artigo'
 derived_material:
   machine_generated: true
-  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
 validation:
   status: validated
   checked_at: '2026-10-21T00:00:00Z'

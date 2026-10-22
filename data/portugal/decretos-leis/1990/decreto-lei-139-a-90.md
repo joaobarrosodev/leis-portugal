@@ -55,11 +55,11 @@ integrity:
   source_sha256: a28b6e2c6f703a4c7b73775369c908ce6a783884b229c1d791ec93a5a6aca253
   source_sha256_scope: imported_derived_markdown
 provenance:
-  collector: leis-portugal importador legalize-pt
+  collector: leis-portugal importação inicial
   collector_version: 0.1.0
-  generated_by: leis-portugal import legalize
+  generated_by: leis-portugal importação inicial
   generated_at: '2026-10-21T00:00:00Z'
-  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1990/DRE-1990-139-A-411815.md).'
+  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ subjects: []
 relationships:
 - type: amended_by
   target: pt:dre:1006464121:por
-  label: Última alteração registada pelo legalize-pt
+  label: Última alteração registada na importação inicial
   source: null
 article_structure:
   article_count: 158
   section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+  extraction_method: Cabeçalhos Markdown '###### Artigo'
 derived_material:
   machine_generated: true
-  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
 validation:
   status: validated
   checked_at: '2026-10-21T00:00:00Z'

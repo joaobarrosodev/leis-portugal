@@ -53,11 +53,11 @@ integrity:
   source_sha256: a262afe0bc480ad39c867b7dbc3c8af268156779cab8a1ae1d825c1bd9dd15b1
   source_sha256_scope: imported_derived_markdown
 provenance:
-  collector: leis-portugal importador legalize-pt
+  collector: leis-portugal importação inicial
   collector_version: 0.1.0
-  generated_by: leis-portugal import legalize
+  generated_by: leis-portugal importação inicial
   generated_at: '2026-10-21T00:00:00Z'
-  notes: 'Importação inicial: texto do DRE convertido pelo projeto legalize-pt (https://github.com/legalize-dev/legalize-pt/blob/62e96e31607e96d8b3ce046c69ce34cf6f064634/pt/1993/DRE-1993-582-A-476962.md).'
+  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,7 +70,7 @@ subjects:
 relationships:
 - type: amended_by
   target: pt:dre:506625:por
-  label: Última alteração registada pelo legalize-pt
+  label: Última alteração registada na importação inicial
   source: null
 - type: cites
   target: eli:http://data.dre.pt/eli/dec-lei/189/1992/09/03/p/dre
@@ -79,10 +79,10 @@ relationships:
 article_structure:
   article_count: 33
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo' do legalize-pt
+  extraction_method: Cabeçalhos Markdown '###### Artigo'
 derived_material:
   machine_generated: true
-  notes: Markdown convertido pelo legalize-pt a partir do DRE e normalizado pelo leis-portugal; confirmar na fonte oficial.
+  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
 validation:
   status: validated
   checked_at: '2026-10-21T00:00:00Z'
