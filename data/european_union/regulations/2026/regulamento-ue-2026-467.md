@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-26'
+version_history:
+  file: regulamento-ue-2026-467.versoes.json
+  count: 1
+  source_lastmod: '2026-02-26'
+  versions:
+  - date: '2026-02-26'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026R0467
   eli: http://data.europa.eu/eli/reg/2026/467/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/93effac6-12b3-11f1-8870-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ef5ce50a-95ce-11f1-9262-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0467-20260226
-  retrieved_at: '2026-10-22T03:29:29Z'
+  retrieved_at: '2026-10-22T17:22:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-26T02:46:16.793+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:29:29Z'
-  notes: Texto consolidado 02026R0467-20260226.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:22:25Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2026-467.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -240,29 +249,19 @@ relationships:
   date: '2026-07-17'
 article_structure:
   article_count: 30
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:29:29Z'
+  checked_at: '2026-10-22T17:22:25Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2026/467 do Parlamento Europeu e do Conselho, de 24 de fevereiro de 2026
-
-> 02026R0467 — PT — 26.02.2026 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026R0467R%2801%29) — [Rectificação, JO L 90590, 17.7.2026, p. 1 (2026/467)](http://publications.europa.eu/resource/celex/32026R0467R%2801%29)
-
-## REGULAMENTO (UE) 2026/467 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de fevereiro de 2026
 

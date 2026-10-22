@@ -39,6 +39,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2026-1022.versoes.json
+  count: 1
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2026-07-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026R1022
   eli: http://data.europa.eu/eli/reg_del/2026/1022/oj
@@ -53,7 +62,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3b9f822b-74e8-11f1-bf5e-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/73bb729a-76d2-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R1022-20260701
-  retrieved_at: '2026-10-22T03:49:11Z'
+  retrieved_at: '2026-10-22T17:23:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-07-03T15:07:50.872+02:00'
 integrity:
@@ -62,9 +71,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:49:11Z'
-  notes: Texto consolidado 02026R1022-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:23:13Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2026-1022.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,28 +125,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:49:11Z'
+  checked_at: '2026-10-22T17:23:13Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2026/1022 da Comissão, de 30 de abril de 2026
-
-> 02026R1022 — PT — 01.07.2026 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026R1022R%2801%29) — [Rectificação, JO L 90556, 3.7.2026, p. 1 ((UE) 2026/10222026/1022)](http://publications.europa.eu/resource/celex/32026R1022R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) 2026/1022 DA COMISSÃO
 
 de 30 de abril de 2026
 

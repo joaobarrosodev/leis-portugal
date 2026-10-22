@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-15'
+version_history:
+  file: regulamento-ue-2026-831.versoes.json
+  count: 1
+  source_lastmod: '2026-04-15'
+  versions:
+  - date: '2026-04-15'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026R0831
   eli: http://data.europa.eu/eli/reg_impl/2026/831/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6b9c824e-3864-11f1-be39-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/f13e9a3e-8ac8-11f1-910d-01aa75ed71a1.0003.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0831-20260415
-  retrieved_at: '2026-10-22T03:37:30Z'
+  retrieved_at: '2026-10-22T17:23:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-04-15T03:03:16.617+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:37:30Z'
-  notes: Texto consolidado 02026R0831-20260415.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:23:00Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2026-831.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,28 +151,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:37:30Z'
+  checked_at: '2026-10-22T17:23:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2026/831 da Comissão, de 14 de abril de 2026
-
-> 02026R0831 — PT — 15.04.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R1371) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1371 DA COMISSÃO de 22 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1371) — L 1371 — 1 — 24.6.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2026/831 DA COMISSÃO
 
 de 14 de abril de 2026
 

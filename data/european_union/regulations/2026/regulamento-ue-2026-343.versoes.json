@@ -1,0 +1,434 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0343:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0343-20260217",
+ "dre_path": null,
+ "source_lastmod": "2026-02-17",
+ "versions": [
+  {
+   "date": "2026-02-17",
+   "future": false,
+   "celex": "02026R0343-20260217",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "7eceb3e8416c466a",
+    "4b6cb7dd73f6e80a",
+    "d9f42aa8be50ca83",
+    "5202e796b7ebcbd8",
+    "e62d7a053f5a347f",
+    "eb17dc0a5ea23dcb",
+    "96dba53f96b2cf1a",
+    "c817c4fe69521fb0",
+    "67dbcb6fde33bc6c",
+    "2321d17309ef2a00",
+    "cc9a6ebeda0487b5",
+    "d31096f30ae42a7c",
+    "62ed1b1ef1b22b98",
+    "c403af4d187570fd",
+    "55d8fc4d1831c139",
+    "d6064fd34ab3f52f",
+    "38292c34c9c24781",
+    "085203a219c79534",
+    "e4bd805bfad65b53",
+    "d664376e2a8dcecd",
+    "c1fbc0163be9e7bc",
+    "745ba8e067f882ab",
+    "852174729551523b",
+    "eca3d72b15ed034d",
+    "c632918c2ebb33f5",
+    "720af75c92791b10",
+    "a50e679f9b2c20f6",
+    "e03a0eb4d5b2eef3",
+    "105474b9d3c4311c",
+    "64610ae29a6cb67c",
+    "00b7f1bf59f725ed",
+    "90c7d2baf4d44ee2",
+    "208e822174c8b5a7",
+    "d46ca50274582635",
+    "e49503cb38d865da",
+    "1b41b51ec3248d43",
+    "a20779cceb363b86",
+    "953641e58475eff6",
+    "922998477bdcd15c",
+    "82c866f33a162c59",
+    "07da4a82db2bfd2b",
+    "347fa34d45987b5d",
+    "df35445b4d906615",
+    "39eb8fae8947a464",
+    "d97b2e064f1a0cb6",
+    "de16b4991dfed602"
+   ]
+  }
+ ],
+ "fragments": {
+  "7eceb3e8416c466a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 6 de outubro de 2025\n\nque complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no respeitante às normas de comercialização para a carne de aves de capoeira, e que revoga o Regulamento (CE) n.º 543/2008 da Comissão"
+  },
+  "4b6cb7dd73f6e80a": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento complementa o Regulamento (UE) n.º 1308/2013 com regras para a aplicação das normas de comercialização para a carne de aves de capoeira, nomeadamente no que se refere ao seguinte:\n\na) Critérios de classificação e definições;\n\nb) Requisitos de apresentação, marcação e embalagem;\n\nc) Modo de criação e método de produção;\n\nd) Conservação e manuseamento;\n\ne) Utilização de menções reservadas facultativas;\n\nf) Níveis de tolerância;\n\ng) Condições de importação."
+  },
+  "d9f42aa8be50ca83": {
+   "fragment_id": "Artigo 2.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito\n\nO presente regulamento é aplicável aos produtos enumerados no presente artigo. Os produtos que não os referidos no presente artigo só podem ser comercializados na União sob denominações que não induzam o consumidor em erro ao permitirem a confusão com os produtos a que se refere o presente artigo ou com as menções estabelecidas no artigo 10.º, em conformidade com o disposto no Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#E0001)).\n\nPara efeitos do presente regulamento, os produtos referidos no artigo 75.º, n.º 1, alínea g), do Regulamento (UE) n.º 1308/2013 são definidos do seguinte modo (os termos correspondentes nas outras línguas oficiais da União são enumerados no anexo I):\n\n1) Carcaças de aves de capoeira:\n\na) GALOS, GALINHAS E FRANGOS (*Gallus domesticus*):\n\ni) Frango: ave em que a extremidade do esterno é flexível (não ossificada),\n\nii) Galo, galinha: ave em que a extremidade do esterno é rígida (ossificada),\n\niii) Capão: ave macho castrada cirurgicamente antes de ter atingido a maturidade sexual, abatida com uma idade mínima de 140 dias. Após a castração, os capões devem ter sido submetidos a engorda durante pelo menos 77 dias,\n\niv) Pinto, *coquelet*: frango com peso inferior a 650 gramas/carcaça (sem miudezas, cabeça e patas). Um frango com um peso igual ou superior a 650 gramas, mas inferior ou igual a 750 g, pode ser designado «franguito», se a sua idade aquando do abate não exceder 28 dias. Os Estados-Membros podem aplicar o artigo 4.º do Regulamento de Execução (UE) 2026/344 para o controlo desta idade de abate,\n\nv) Irmão de poedeira: frango macho de estirpes de galinhas poedeiras, com a extremidade do esterno rígida mas não completamente ossificada e cuja idade mínima aquando do abate é de 70 dias;\n\nb) PERUS (*Meleagris gallopavo dom.*):\n\ni) Peru (jovem): ave em que a extremidade do esterno é flexível (não ossificada),\n\nii) Peru adulto: ave em que a extremidade do esterno é rígida (ossificada);\n\nc) PATOS (*Anas platyrhynchos dom.*, *Cairina moschata*), patos *Mulard* (*Cairina moschata* × *Anas platyrhynchos*):\n\ni) Pato jovem, [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) pato *Barbary* **◄** (jovem), pato *Mulard* (jovem): ave em que a extremidade do esterno é flexível (não ossificada),\n\nii) Pato adulto, [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) pato adulto *Barbary*, pato adulto *Mulard* **◄**: ave em que a extremidade do esterno é rígida (ossificada);\n\nd) GANSOS (*Anser anser dom.*):\n\ni) Ganso (jovem): ave em que a extremidade do esterno é flexível (não ossificada). A camada adiposa em torno de toda a carcaça é fina ou pouco espessa. A gordura do ganso jovem pode ter uma cor indicativa de uma dieta especial,\n\nii) Ganso adulto: ave em que a extremidade do esterno é rígida (ossificada). Observa-se à volta de toda a carcaça uma camada adiposa de pouco espessa a espessa;\n\ne) PINTADAS (*Numida meleagris domesticus*):\n\ni) Pintada (jovem): ave em que a extremidade do esterno é flexível (não ossificada),\n\nii) Pintada adulta: ave em que a extremidade do esterno é rígida (ossificada).\n\n2) Pedaços de aves de capoeira:\n\na) Metade: meia carcaça, obtida por um corte longitudinal no plano formado pelo esterno e pela coluna vertebral;\n\nb) Quarto: o quarto traseiro ou o quarto dianteiro obtido pelo corte transversal de uma metade;\n\nc) Quartos da coxa não separados: ambos os quartos da coxa ligados por uma porção do dorso, com ou sem o uropígio;\n\nd) Peito: o esterno e as costelas, ou parte destas, distribuídas de ambos os lados, com a massa muscular envolvente. O peito pode ser apresentado inteiro ou como metade;\n\ne) Perna inteira: o fémur, a tíbia e o perónio com a massa muscular envolvente. Os dois cortes devem ser feitos nas articulações;\n\nf) Perna inteira de frango com uma porção do dorso: o peso da porção de dorso não excede 25 % do peso do pedaço;\n\ng) Coxa: o fémur com a massa muscular envolvente. Os dois cortes devem ser feitos nas articulações;\n\nh) Coxa não desossada com uma porção do dorso: obtém-se cortando um quarto traseiro na articulação entre a tíbia e o fémur. O peso da porção de dorso não excede 35 % do peso do pedaço. Remove-se a perna, a rótula e a gordura abdominal. A coxa com uma porção do dorso consiste na coxa, na parte do dorso contígua e na respetiva gordura. A glândula uropigial, a cauda e a carne adjacente ao ílio (carne ilíaca) podem estar ou não estar presentes;\n\ni) Perna: a tíbia e o perónio com a massa muscular envolvente. Os dois cortes devem ser feitos nas articulações;\n\nj) Asa: o úmero, o rádio, e o cúbito, juntamente com a massa muscular envolvente, o úmero ou o rádio/o cúbito, juntamente com a massa muscular envolvente podem ser apresentados separadamente. A extremidade, incluindo os ossos cárpicos, pode ter sido ou não retirada. Os cortes devem ser feitos nas articulações;\n\nk) Asas não separadas: ambas as asas ligadas por uma porção de dorso, não excedendo o peso desta última 45 % de todo o pedaço;\n\nl) Carne de peito: a totalidade ou metade do peito interior ou exterior desossado, ou seja, sem esterno e costelas. No caso do peito de peru, a carne de peito pode incluir apenas o músculo peitoral profundo;\n\nm) Carne de peito com fúrcula: a carne de peito sem pele, apenas com a clavícula e a ponta cartilaginosa do esterno, não excedendo o peso da clavícula e da cartilagem 3 % do pedaço;\n\nn) *Magret*, *maigret*: carne de peito de pato ou ganso a que se refere o ponto 3, incluindo a pele e a gordura subcutânea que cobrem o músculo do peito, excluído o músculo peitoral profundo;\n\no) Filete interior: o lombo é produzido separando o músculo peitoral interno do peito e do esterno. O filete interior é constituído por um único músculo intacto, com ou sem tendão;\n\np) Patas: a pata obtém-se cortando uma perna da carcaça na articulação entre o metatarso e a tíbia. A carcaça é removida. A pata é constituída pelo metatarso e por quatro dedos (falanges) com a respetiva carne e pele;\n\nq) Pés: obtêm-se cortando uma perna da carcaça aproximadamente no esporão metatársico. A carcaça é removida. O pé é constituído por parte do metatarso e por quatro dedos (falanges) com a respetiva carne e pele;\n\nr) Pescoço: obtém-se cortando o pescoço da carcaça na articulação do ombro e retirando a cabeça. O pescoço é constituído pelos ossos do pescoço com a sua carne;\n\ns) Cabeça: obtém-se cortando a carcaça ao nível superior do pescoço e removendo a carcaça. A cabeça é constituída pelos ossos e pelo conteúdo do crânio, com o bico, carne e pele;\n\nt) Supremo: metade do filete desossado, com a primeira falange da asa agarrada e com pele;\n\nu) Fúrcula: clavícula com músculos envolventes;\n\nv) Escápula: ossos da escápula com os músculos envolventes.\n\n3) Pasta de fígado (*foie gras*)\n\na) os fígados de pato devem pesar pelo menos 300 gramas líquidos;\n\nb) os fígados de ganso devem pesar pelo menos 400 gramas líquidos."
+  },
+  "5202e796b7ebcbd8": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\na) «Carcaça»: o corpo completo de uma ave de capoeira das espécies referidas no artigo 2.º, ponto 1, depois de sangrada, depenada e eviscerada; é facultativa, todavia, a ablação dos rins; a carcaça eviscerada pode ser colocada à venda com ou sem miudezas, ou seja, coração, fígado e moela, inseridas na cavidade abdominal, e com ou sem pescoço;\n\nb) «Pedaços de carcaça»: carne de aves de capoeira que, dadas as dimensões e as características de tecido muscular, pode ser identificada como tendo sido obtida a partir das respetivas partes da carcaça;\n\nc) «Comercialização»: a detenção ou exposição para venda, oferta para venda, venda, entrega ou qualquer outra forma de comercialização;\n\nd) «Rotulagem»: a definição constante do artigo 2.º, n.º 2, alínea j), do Regulamento (UE) n.º 1169/2011."
+  },
+  "e62d7a053f5a347f": {
+   "fragment_id": "Artigo 4.º — Apresentação das carcaças de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apresentação das carcaças de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apresentação das carcaças de aves de capoeira\n\n1.\n\nAs carcaças das aves de capoeira devem ser apresentadas para venda numa das seguintes formas:\n\na) Parcialmente evisceradas («limpas»);\n\nb) Com miudezas;\n\nc) Sem miudezas.\n\n2. Pode ser aditado, na embalagem, o termo «evisceradas».\n\n3. Por carcaças parcialmente evisceradas entende-se as carcaças de que não foram removidos o coração, o fígado, os pulmões, a moela, o esófago e os rins.\n\n4. Em todos os tipos de apresentação de carcaças referidos no n.º 1, no caso de a cabeça não ser removida, podem incluir a traqueia, o esófago e o papo.\n\n5. As miudezas devem incluir apenas o coração, a moela e o fígado, o oviduto, as gemas e os ovos prontos para a postura, provenientes de galinhas de reforma no matadouro, bem como todas as outras partes consideradas comestíveis pelos consumidores no mercado em que o produto se destina ao consumo final. A vesícula deve ser retirada do fígado. A moela deve apresentar-se sem a membrana rija e o seu conteúdo deve ter sido retirado. O coração pode apresentar-se com ou sem o saco pericárdico."
+  },
+  "eb17dc0a5ea23dcb": {
+   "fragment_id": "Artigo 5.º — Nomes das carcaças e dos pedaços de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Nomes das carcaças e dos pedaços de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Nomes das carcaças e dos pedaços de aves de capoeira\n\n1.\n\nAs denominações dos géneros alimentícios, na aceção do artigo 9.º, n.º 1, alínea a), do Regulamento (UE) n.º 1169/2011, sob as quais são vendidos os produtos abrangidos pelo presente regulamento, devem ser as estabelecidas no artigo 2.º do presente regulamento e os termos correspondentes nas outras línguas oficiais da União enumeradas no anexo I do presente regulamento, qualificados no caso:\n\na) Das carcaças inteiras, por referência a uma das formas de apresentação previstas no artigo 4.º, n.º 1;\n\nb) Dos pedaços de aves de capoeira, por referência às respetivas espécies.\n\n2. As denominações dos produtos referidos no artigo 2.º, pontos 1 e 2, podem ser completadas por outras menções, desde que estas respeitem as práticas leais de informação referidas no artigo 7.º do Regulamento (UE) n.º 1169/2011."
+  },
+  "96dba53f96b2cf1a": {
+   "fragment_id": "Artigo 6.º — Comercialização, rotulagem e apresentação da carne de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Comercialização, rotulagem e apresentação da carne de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Comercialização, rotulagem e apresentação da carne de aves de capoeira\n\n1. No caso da carne de aves de capoeira pré-embalada, as condições de comercialização em conformidade com o anexo VII, parte V, secção III, do Regulamento (UE) n.º 1308/2013 devem constar da pré-embalagem ou de um rótulo nela fixado.\n\n2. Em derrogação do n.º 1, no caso de entrega de carne de aves de capoeira a instalações de desmancha ou de transformação, não será necessário apor as menções previstas naquela disposição."
+  },
+  "c817c4fe69521fb0": {
+   "fragment_id": "Artigo 7.º — Temperatura da carne de aves de capoeira congelada",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Temperatura da carne de aves de capoeira congelada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Temperatura da carne de aves de capoeira congelada\n\nA carne de aves de capoeira congelada deve cumprir o disposto no anexo VII, parte V, secção II, ponto 3, do Regulamento (UE) n.º 1308/2013:\n\nA carne de aves de capoeira congelada deve ser mantida a uma temperatura constante de – 12 °C ou inferior, em todos os pontos do produto, com breves subidas de, no máximo, 3 °C. Estas tolerâncias de temperatura do produto devem respeitar as boas práticas de armazenamento e distribuição durante a distribuição local e nos expositores de venda a retalho."
+  },
+  "67dbcb6fde33bc6c": {
+   "fragment_id": "Artigo 8.º — Classificação da carne de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Classificação da carne de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Classificação da carne de aves de capoeira\n\n1. A carne de aves de capoeira pode ser classificada como de classe A ou de classe B, consoante a conformação e o aspeto das carcaças ou dos pedaços.\n\n2.\n\nPara serem classificados «A» ou «B», as carcaças e os pedaços de aves de capoeira devem estar:\n\na) Intactos, atendendo à apresentação;\n\nb) Limpos, isentos de matéria estranha visível, sujidade ou sangue;\n\nc) Isentos de qualquer cheiro estranho;\n\nd) Isentos de manchas visíveis de sangue, exceto aquelas que sejam pequenas e pouco visíveis;\n\ne) Isentos de ossos partidos salientes;\n\nf) Isentos de contusões graves.\n\nNo caso das aves de capoeira no estado fresco, não deve haver vestígios de refrigeração prévia.\n\n3.\n\nAlém de deverem cumprir os critérios estabelecidos no n.º 2, para serem classificados na classe A, as carcaças e os pedaços de aves de capoeira devem satisfazer os seguintes critérios:\n\na) Devem ter boa conformação. Devem apresentar muita carne, peito bem desenvolvido, largo, longo e cheio e pernas cheias. Os frangos e patos e perus jovens devem apresentar uma camada adiposa fina e regular no peito, dorso e coxas. Nos galos, galinhas, patos adultos e gansos jovens, é admitida uma camada adiposa mais espessa. Nos gansos adultos, deve observar-se à volta de toda a carcaça uma camada adiposa de pouco espessa a espessa; No caso da carne de peito, pode aceitar-se até 2 %, em peso, de cartilagem (extremidade flexível do esterno);\n\nb) No caso do peito, pernas, uropígio, articulações das patas e extremidades das asas podem apresentar algumas pequenas penas, tubos (cálamos das penas) e pelos (filoplumas). No caso dos galos e galinhas, patos, perus e gansos podem também apresentar algumas penas, tubos (cálamos das penas) e pelos (filoplumas) noutras partes;\n\nc) São permitidos alguns danos, contusões e descolorações desde que os mesmos sejam poucos, pequenos e pouco visíveis e não se localizem no peito ou nas pernas. Pode faltar a extremidade da asa. É admitida uma ligeira vermelhidão na extremidade das asas e folículos;\n\nd) No caso das aves de capoeira congeladas ou ultracongeladas não deve haver vestígios de queimadura de congelador, conforme descrito no anexo III, exceto aquelas que são casuais, pequenas, pouco visíveis e não localizadas no peito ou nas pernas."
+  },
+  "2321d17309ef2a00": {
+   "fragment_id": "Artigo 9.º — Indicação dos métodos de refrigeração",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Indicação dos métodos de refrigeração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Indicação dos métodos de refrigeração\n\nO rótulo pode conter uma indicação da utilização de um dos seguintes métodos de refrigeração e os termos correspondentes nas outras línguas oficiais da União enumeradas no anexo IV:\n\na) Refrigeração por ventilação: refrigeração das carcaças de aves de capoeira com ar frio;\n\nb) Refrigeração por pulverização de ar: refrigeração das carcaças de aves de capoeira com ar frio intercalado com neblina de água ou aerossol;\n\nc) Refrigeração por imersão: refrigeração das carcaças de aves de capoeira em tanques de água ou de gelo e água em conformidade com o processo de fluxo de água em contracorrente."
+  },
+  "cc9a6ebeda0487b5": {
+   "fragment_id": "Artigo 10.º — Menções reservadas facultativas",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Menções reservadas facultativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Menções reservadas facultativas\n\n1.\n\nSem prejuízo de outros sistemas de rotulagem que abranjam outros modos de criação e que sejam regulados pela legislação da União, as seguintes menções e os termos correspondentes nas outras línguas oficiais da União enumeradas no anexo V só podem figurar na rotulagem dos produtos referidos no artigo 2.º se estiverem preenchidas as condições pertinentes estabelecidas no anexo VI:\n\na) «Alimentado com … % de …»;\n\nb) «Produção extensiva em interior»;\n\nc) «Produção em semiliberdade»;\n\nd) «Produção ao ar livre»;\n\ne) «Produção em liberdade».\n\nAs menções referidas no primeiro parágrafo podem ser completadas por indicações relativas às características especiais dos respetivos modos de criação.\n\nAs únicas menções que podem ser utilizadas para designar produtos provenientes de animais criados ao ar livre são as enumeradas no n.º 1, alíneas c), d) e e).\n\nNo caso de um produto que não satisfaça as condições para ser rotulado com as menções enumeradas no n.º 1, alíneas c), d) e e), não pode ser utilizado nenhum rótulo, documento comercial, material publicitário, nem qualquer forma de publicidade ou de apresentação em que se alegue, dê a entender ou sugira que o produto provém de animais criados ao ar livre.\n\nQuando, no rótulo da carne proveniente de patos e gansos criados para produção de *foie gras*, for indicado um modo de criação ao ar livre referido no n.º 1, alíneas c), d) e e), essa indicação deve ser acompanhada da expressão «criados para produção de *foie gras*».\n\n2. A indicação da idade aquando do abate ou da duração do período de engorda só será permitida na rotulagem se for utilizada uma das menções referidas no n.º 1 e para idades não inferiores às indicadas no anexo VI, alíneas b), c) ou d). No entanto, tal não se aplica aos produtos referidos no artigo 2.º, ponto 1, alínea a), subalínea iv).\n\n3. Os n.^os^ 1 e 2 aplicam-se sem prejuízo das medidas técnicas nacionais que forem além dos requisitos mínimos estabelecidos no anexo VI, aplicáveis apenas aos produtores do Estado-Membro em causa, e sob reserva de serem compatíveis com o direito da União.\n\n4. As medidas técnicas nacionais a que se refere o n.º 3 devem ser comunicadas à Comissão.\n\n5.\n\nOs Estados-Membros podem prever a utilização, por operadores de empresas do setor alimentar, de menções que não as referidas nos n.^os^ 1 e 2 e constantes do anexo VI, desde que:\n\na) Essas menções sejam coerentes com o método de obtenção do produto e não induzam os consumidores em erro;\n\nb) Essas menções não criem qualquer confusão com as menções referidas nos n.^os^ 1 e 2;\n\nc) As especificações do produto estejam documentadas;\n\nd) Sejam realizados controlos adequados sob o escrutínio das autoridades competentes do Estado-Membro em causa.\n\n6. Cumpridas as condições a que se refere o n.º 5, os Estados-Membros devem comunicar à Comissão essas menções nacionais antes de qualquer utilização pelos operadores de empresas do setor alimentar. A Comissão informará os outros Estados-Membros de qualquer notificação dessas menções e publicá-las-á no sítio Web Europa.\n\n7. A qualquer momento, e a pedido da Comissão, os Estados-Membros devem prestar todas as informações necessárias para avaliar a compatibilidade com o direito da União das medidas técnicas nacionais a que se refere o n.º 3 e das menções nacionais a que se refere o n.º 5."
+  },
+  "d31096f30ae42a7c": {
+   "fragment_id": "Artigo 11.º — Registos das menções reservadas facultativas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Registos das menções reservadas facultativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Registos das menções reservadas facultativas\n\n1.\n\nOs operadores de empresas do setor alimentar que comercializem produtos que utilizem as menções referidas no artigo 10.º, n.º 1, devem manter um registo separado, por modo de criação, com os seguintes elementos:\n\na) Nomes e endereços dos produtores das aves de capoeira, que devem ser registados pela autoridade competente do Estado-Membro;\n\nb) A pedido da autoridade competente, o número de aves mantidas por cada produtor, por lote de produção;\n\nc) Número e peso da carcaça ou peso vivo total das aves entregues e transformadas;\n\nd) Informações relativas à venda, incluindo os nomes e endereços dos compradores, durante um período mínimo de seis meses a seguir à expedição.\n\n2. Os produtores a que se refere o n.º 1, alínea a), devem manter registos atualizados, durante um período mínimo de seis meses a seguir à expedição, do número de aves, repartidas por modo de criação, incluindo o número de aves vendidas, os nomes e endereços dos compradores e as quantidades e origem dos alimentos para animais.\n\nOs produtores que utilizem os modos de criação referidos no artigo 10.º, n.º 1, alíneas c), d) e e), devem, para além das informações previstas no primeiro parágrafo do presente número, manter registos da data em que as aves tiveram pela primeira vez acesso a um espaço ao ar livre.\n\n3. Os fabricantes e fornecedores de alimentos para animais devem manter, durante um período mínimo de seis meses a seguir à sua expedição, registos que mostrem que a composição dos alimentos fornecidos aos produtores para os modos de criação de animais referidos no artigo 10.º, n.º 1, alínea a), cumpre os requisitos estabelecidos no anexo VI.\n\n4. Os centros de incubação devem manter, durante um período mínimo de seis meses a seguir à expedição das aves, registos das aves das raças reconhecidas como raças de crescimento lento fornecidas aos produtores para os modos de criação referidos no artigo 10.º, n.º 1, alíneas d) e e)."
+  },
+  "62ed1b1ef1b22b98": {
+   "fragment_id": "Artigo 12.º — Organismos de supervisão das menções reservadas facultativas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Organismos de supervisão das menções reservadas facultativas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Organismos de supervisão das menções reservadas facultativas\n\nOs organismos designados pelos Estados-Membros para supervisionar as menções referidas no artigo 10.º devem cumprir os critérios definidos na norma ISO/IEC 17065 ([^2^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#E0002)) e ser licenciados e supervisados pelas autoridades competentes do Estado-Membro em causa."
+  },
+  "c403af4d187570fd": {
+   "fragment_id": "Artigo 13.º — Indicações facultativas para a carne de aves de capoeira importada",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Indicações facultativas para a carne de aves de capoeira importada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Indicações facultativas para a carne de aves de capoeira importada\n\nA carne de aves de capoeira importada de países terceiros pode apresentar uma ou mais indicações facultativas previstas nos artigos 9.º e 10.°, desde que seja acompanhada de um certificado emitido pela autoridade competente do país de origem que ateste a conformidade dos produtos em causa com as disposições pertinentes do presente regulamento.\n\nA pedido de um país terceiro, a Comissão elabora uma lista dessas autoridades."
+  },
+  "55d8fc4d1831c139": {
+   "fragment_id": "Artigo 14.º — Teor máximo de água da carne de aves de capoeira",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Teor máximo de água da carne de aves de capoeira",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Teor máximo de água da carne de aves de capoeira\n\n1. As carcaças de frango congeladas e ultracongeladas só podem ser comercializadas na União se o teor de água, determinado pelo método de análise definido no artigo 5.º do Regulamento de Execução (UE) 2026/344, não exceder os valores tecnicamente inevitáveis estabelecidos no anexo VII do presente regulamento.\n\n2.\n\nOs pedaços de aves de capoeira frescos, congelados e ultracongelados a seguir enumerados só podem ser comercializados na União se o teor de água, determinado pelo método de análise definido no artigo 8.º do Regulamento de Execução (UE) 2026/344, não exceder os valores tecnicamente inevitáveis estabelecidos no anexo VIII do presente regulamento:\n\na) Carne de peito de frango, com ou sem fúrcula, sem pele;\n\nb) Peito de frango, com pele;\n\nc) Coxas, pernas, pernas inteiras, pernas inteiras com uma porção do dorso e quartos da coxa, de frango, com pele;\n\nd) Carne de peito de peru, sem pele;\n\ne) Peito de peru, com pele;\n\nf) Coxas, pernas e pernas inteiras de peru, com pele;\n\ng) Carne desossada da perna inteira de peru, sem pele.\n\n3. Os teores máximos de água absorvida das carcaças de frangos nos matadouros são estabelecidos no anexo IX.\n\n4. A autoridade competente de um Estado-Membro pode autorizar a comercialização de carne de aves de capoeira não conforme com os n.^os^ 1 ou 2, desde que a embalagem esteja marcada com uma fita ou um rótulo que ostente, em letras maiúsculas vermelhas, pelo menos uma das indicações que constam do anexo X.\n\nEssas indicações são colocadas de modo a serem facilmente visíveis, claramente legíveis e indeléveis, não devendo ser ocultadas, obscurecidas ou interrompidas por outras inscrições ou imagens. As letras devem ter uma altura de, pelo menos, 1 cm nas embalagens individuais e 2 cm nas embalagens coletivas."
+  },
+  "d6064fd34ab3f52f": {
+   "fragment_id": "Artigo 15.º — Notificação de controlos do teor de água",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Notificação de controlos do teor de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Notificação de controlos do teor de água\n\n1. As autoridades competentes dos Estados-Membros devem informar sem demora o laboratório nacional de referência dos resultados dos controlos previstos nos artigos 5.º, 6.° e 7.° do Regulamento de Execução (UE) 2026/344 por elas efetuados ou efetuados sob a sua responsabilidade.\n\nOs laboratórios nacionais de referência devem notificar à Comissão, até 30 de junho de cada ano, os resultados dos controlos previstos nos artigos 5.º, 6.° e 7.° do Regulamento de Execução (UE) 2026/344. A Comissão informa o comité a que se refere o artigo 229.º, n.º 1, do Regulamento (UE) n.º 1308/2013 sobre os resultados dos controlos.\n\n2. Os Estados-Membros devem adotar todas as medidas necessárias para os controlos previstos nos artigos 5.º, 6.° e 7.° do Regulamento de Execução (UE) 2026/344. Os Estados-Membros devem informar os outros Estados-Membros e a Comissão sobre essas medidas. Quaisquer alterações destas medidas devem ser comunicadas aos outros Estados-Membros e à Comissão."
+  },
+  "38292c34c9c24781": {
+   "fragment_id": "Artigo 16.º — Comité de peritos no controlo do teor de água",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Comité de peritos no controlo do teor de água",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Comité de peritos no controlo do teor de água\n\nO comité de peritos no controlo do teor de água da carne de aves de capoeira deve atuar como organismo de coordenação das atividades de ensaio dos laboratórios nacionais de referência. O comité será constituído por representantes da Comissão e dos laboratórios nacionais de referência. As tarefas do comité e dos laboratórios nacionais de referência, bem como a estrutura organizativa do comité, são estabelecidas no anexo XI."
+  },
+  "085203a219c79534": {
+   "fragment_id": "Artigo 17.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Revogação\n\nÉ revogado o Regulamento (CE) n.º 543/2008.\n\nAs remissões para o regulamento revogado devem entender-se como sendo feitas para o presente regulamento e para o Regulamento de Execução (UE) 2026/344, conforme aplicável, e ler-se de acordo com o quadro de correspondência constante do anexo XII do presente regulamento."
+  },
+  "e4bd805bfad65b53": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável nos Estados-Membros, em conformidade com os Tratados."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "c1fbc0163be9e7bc": {
+   "fragment_id": "Nomes das carcaças de aves de capoeira a que se refere o artigo 2.º, ponto 1",
+   "type": "divisao",
+   "heading": "Nomes das carcaças de aves de capoeira a que se refere o artigo 2.º, ponto 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nomes das carcaças de aves de capoeira a que se refere o artigo 2.º, ponto 1\n\n|  | bg | es | cs | da | de | et | el | en | fr | hr | it | lv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1. | Пиле, бройлер | Pollo (de carne) | Kuře, brojler | Kylling, slagtekylling | Hähnchen Masthuhn | Broiler | Κοτόπουλο Πετεινοί και κότες (κρεατοπαραγωγής) | Chicken, broiler | Poulet (de chair) | Pile, brojler | Pollo, ‘*Broiler*’ | Cālis, broilers |\n| 2. | Петел, кокошка | Gallo, gallina | Kohout, slepice, drůbež na pečení, nebo vaření | Hane, høne, suppehøne | Suppenhuhn | Kukk, kana, hautamiseks või keetmiseks mõeldud kodulind | Πετεινοί και κότες (για βράσιμο) | Cock, hen, casserole, or boiling fowl | Coq, poule (à bouillir) | Pijetao, kokoš, kokoš za pečenje ili kuhanje | Gallo, gallina Pollame da brodo | Gailis, vista (sautēšanai vai vārīšanai) |\n| 3. | Петел (угоен, скопен) | Capón | Kapoun | Kapun | Kapaun | Kohikukk | Καπόνια | Capon | Chapon | Kopun | Cappone | Kapauns |\n| 4. | Ярка, петле | Picantón, coquelet | Kuřátko, kohoutek | Poussin, Coquelet | Stubenküken | Kana- ja kukktibud | Νεοσσός, πετεινάρι | Poussin, Coquelet | Poussin, coquelet | Mlado pile i mladi pijetao | Galletto | Cālītis |\n| 5. | мъжко пиленце от генетична линия на кокошки носачки | Gallo joven | Mladý kohout | Hanekylling fra æglæggerlinjer | Bruderhahn | Noorkukk | Πετεινάρι ωοπαραγωγικής φυλής | Brother rooster | Poulet mâle de race pondeuse | Mladi pijetao | Maschio di gallina ovaiola | Jauns gailis |\n| 1. | (Млада) пуйка | Pavo (joven) | (Mladá) krůta | (Mini) kalkun | (Junge) Pute, (Junger) Truthahn | (Noor)kalkun | (Νεαροί) γάλοι και γαλοπούλες | (Young) turkey | Dindonneau, (jeune) dinde | (Mladi) puran | (Giovane) tacchino | (Jauns) tītars |\n| 2. | Пуйка | Pavo | Krůta | Avlskalkun | Pute, Truthahn | Kalkun | Γάλοι και γαλοπούλες | Turkey | Dinde (à bouillir) | Puran | Tacchino/a | Tītars |\n| 1. | (Млада) патица, пате (млада) мускусна патица, (млад) мюлар | Pato (joven o anadino), pato de Barbaria (joven), pato cruzado (joven) | (Mladá) kachna, kachnê, (mladá) Pižmová kachna, (mladá) kachna Mulard | (Ung) and (Ung) berberiand (Ung) mulardand | Frühmastente, Jungente, (Junge) Flugente (Junge Mulardente) | (Noor)part, pardipoeg. (noor) muskuspart, (noor) mullard | (Νεαρές) πάπιες ή παπάκια, (νεαρές) πάπιες Βαρβαρίας, (νεαρές) άπιες mulard | (Young) duck, duckling, (Young) Muscovy duck (Young) Mulard duck | (Jeune) canard, caneton, (jeune) canard de Barbarie, (jeune) canard mulard | (Mlada) patka, (mlada) mošusna patka, (mlada) patka mulard | (Giovane) anatra (Giovane) Anatra muta (Giovane) Anatra ‘*mulard*’ | (Jauna) pīle, pīlēns, (jauna) muskuspīle, (jauna) *Mulard* pīle |\n| 2. | Патица, мускусна патица, мюлар | Pato, pato de Barbaria, pato cruzado | Kachna, Pižmová kachna, kachna Mulard | Avlsand Avlsberberiand Avlsmulardand | Ente, Flugente Mulardente | Part, muskuspart, mullard | Πάπιες, πάπιες Βαρβαρίας πάπιες mulard | Duck, Muscovy duck, Mulard duck | Canard, canard de Barbarie (à bouillir), canard mulard (à bouillir) | Patka, mošusna patka, patka mulard | Anatra Anatra muta Anatra ‘*mulard*’ | Pīle, muskuspīle, *Mulard* pīle |\n| 1. | (Млада) гъска, гъсе | Oca (joven), ansarón | Mladá husa, house | (Ung) gås | Frühmastgans, (Junge) Gans, Jungmastgans | (Noor)hani, hanepoeg | (Νεαρές) χήνες ή χηνάκια | (Young) goose, gosling | (Jeune) oie ou oison | (Mlada) guska | (Giovane) oca | (Jauna) zoss, zoslēns |\n| 2. | Гъска | Oca | Husa | Avlsgås | Gans | Hani | Χήνες | Goose | Oie | Guska | Oca | Zoss |\n| 1. | (Млада) токачка | Pintada (joven) | Mladá perlička | (Ung) perlehøne | (Junges) Perlhuhn | (Noor) pärlkana | (Νεαρές) φραγκόκοτες | (Young) guinea fowl | (Jeune) pintade Pintadeau | (Mlada) biserka | (Giovane) faraona | (Jauna) pērļu vistiņa |\n| 2. | Токачка | Pintada | Perlička | Avlsperlehøne | Perlhuhn | Pärlkana | Φραγκόκοτες | Guinea fowl | Pintade | Biserka | Faraona | Pērļu vistiņa |\n\n|  | lt | hu | mt | nl | pl | pt | ro | sk | sl | fi | sv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1. | Viščiukas, viščiukas broileris | Csirke, brojlercsirke | Fellus, brojler | Kuiken, braadkuiken | Kurczę, broiler | Frango | Pui de carne, broiler | Kurča, brojler | Pitovni piščanec – brojler | Broileri | Kyckling, slaktkyckling (broiler) |\n| 2. | Gaidys, višta, gaidys (arba višta) troškinti arba virti | Kakas, tyúk, sütésre vagy főzésre szánt szárnyas | Serduk, tiġieġa (tal-brodu) | Haan, hen soep- of stoofkip | Kura rosołowa | Galo, galinha | Cocoș, găină sau carne de pasăre pentru fiert | Kohút, sliepka | Petelin, kokoš, perutnina za pečenje ali kuhanje | Kukko, kana | Tupp, höna, gryt-, eller kokhöna |\n| 3. | Kaplūnas | Kappan | Ħasi | Kapoen | Kapłon | Capão | Clapon | Kapún | Kopun | Chapon (syöttökukko) | Kapun |\n| 4. | Viščiukas tabaka (arba *poussin* (*coquelet*) tipo viščiukas) | Csibe | Għattuqa, *coquelet* | Piepkuiken | Kurczątko | Franguitos | Pui tineri | Kurčiatko | Mlad piščanec, mlad petelin (kokelet) | Kananpoika, kukonpoika | Poussin, coquelet |\n| 5. | Gaidžiukas | Fiatal kakas (bébikakas) | Serduq tat-tip brother | Jonge haan | Kogut typu nieśnego | Irmão de poedeira | Pui masculi de carne | Kohútik | Petelin lahkega tipa | Munintarotuinen kukkopoika | Värphönstuppar |\n| 1. | Kalakučiukas | (Fiatal) pulyka | Dundjan (żgħir fl-eta) | (Jonge) kalkoen | (Młody) indyk | Peru | Curcan (tânăr) | Mladá morka | (Mlada) pura | (Nuori) kalkkuna | (Ung) kalkon |\n| 2. | Kalakutas | Pulyka | Dundjan | Kalkoen | Indyk | Peru adulto | Curcan | Morka | Pura | Kalkkuna | Kalkon |\n| 1. | Ančiukas, muskusinis ančiukas, mulardinis ančiukas | Fiatal kacsa, (fiatal) pézsmakacsa, (fiatal) Mulard-kacsa | Papra (żgħira fl-eta), papra żgħira (fellus ta’ papra) *muskovy* (żgħira fl-eta), papra mulard | (Jonge) eend, (Jonge) Barbarijse eend (Jonge) „*Mulard*”-eend | (Młoda) kaczka tuczona, (Młoda) kaczka piżmova, (Młoda) kaczka mulard | Pato, Pato *Barbary*, Pato *Mulard* | Rață (tânără), rață (tânără) din specia Cairina moschata, rață (tânără) Mulard | (Mladá kačica), káča, (Mladá) pižmová kačica, (Mladý) mulard | (Mlada) raca, račka, (mlada) muškatna raca, (mlada) mulard raca | (Nuori) ankka, (Nuori) myskiankka | (Ung) anka, ankunge (ung) mulardanka (ung) myskanka |\n| 2. | Antis, muskusinė antis, mulardinė antis | Kacsa, pézsmakacsa, Mulard-kacsa | Papra, papra *muscovy*, papra *mulard* | Eend Barbarijse eend „*Mulard*”-eend | Kaczka, Kaczka piżmowa, Kaczka mulard | Pato adulto, pato adulto *Barbary*, pato adulto *Mulard* | Rață, rață din specia Cairina moschata, rață Mulard | Kačica, Pyžmová kačica, Mulard | Raca, muškatna raca, mulard raca | Ankka, myskiankka | Anka, mulardanka, myskanka |\n| 1. | Žąsiukas | (Fiatal) liba | Wiżża (żgħira fl-eta), fellusa ta’ wiżża | (Jonge) gans | Młoda gęś | Ganso | Gâscă (tânără) | (Mladá) hus, húsa | (Mlada) gos, goska | (Nuori) hanhi | (Ung) gås, gåsunge |\n| 2. | Žąsis | Liba | Wiżża | Gans | Gęś | Ganso adulto | Gâscă | Hus | Gos | Hanhi | Gås |\n| 1. | Perlinis viščiukas | (Fiatal) gyöngytyúk | Farghuna (żgħira fl-eta) | (Jonge) parelhoen | (Młoda) perliczka | Pintada | Bibilică adultă | (Mladá) perlička | (Mlada) pegatka | (Nuori) helmikana | (Ung) pärlhöna |\n| 2. | Perlinė višta | Gyöngytyúk | Fargħuna | Parelhoen | Perlica | Pintada adulta | Bibilică | Perlička | Pegatka | Helmikana | Pärlhöna |"
+  },
+  "745ba8e067f882ab": {
+   "fragment_id": "Nomes dos pedaços de aves de capoeira a que se refere o artigo 2.º, ponto 2",
+   "type": "divisao",
+   "heading": "Nomes dos pedaços de aves de capoeira a que se refere o artigo 2.º, ponto 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Nomes dos pedaços de aves de capoeira a que se refere o artigo 2.º, ponto 2\n\n|  | bg | es | cs | da | de | et | el | en | fr | hr | it | lv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (a) | Половинка | Medio | Půlka | Halvt | Hälfte oder Halbes | Pool | Μισά | Half | Demi ou moitié | Polovica | Metà | Puse |\n| (b) | Четвъртинка | Cuarto | Čtvrtka | Kvart | (Vorder-, Hinter-) Viertel | Veerand | Τεταρτημόριο | Quarter | Quart | Četvrt | Quarto | Ceturtdaļa |\n| (c) | Неразделени задни четвъртинки | Cuartos traseros unidos | Neoddělená zadní čtvrtka | Sammenhængende lårstykker | Hinterviertel am Stück | Lahti lõikamata koivad | Αδιαχώριστα τεταρτημόρια ποδιών | Unseparated leg quarters | Quarts postérieurs non séparés | Neodvojene stražnje četvrti | Cosciotto | Nesadalītas kāju ceturtdaļas |\n| (d) | Гърди | Pechuga | Prsa | Bryst | Brust, halbe Brust, halbierte Brust | Rind | Στήθος | Breast | Poitrine, blanc ou filet sur os | Prsa | Petto con osso | Krūtiņa |\n| (e) | Бутче | Muslo y contramuslo | Stehno | Helt lår | Schenkel, Keule | Koib | Πόδι | Leg | Cuisse | Batak sa zabatkom | Coscia | Kāja |\n| (f) | Пилешко бутче с част от гърба, прикрепен към него | Cuarto trasero de pollo | Stehno kuřete s částí zad | Kyllingelår med en del af ryggen | Hähnchenschenkel mit Rückenstück, Hühnerkeule mit Rückenstück | Koib koos seljaosaga | Πόδι από κοτόπουλο με ένα κομμάτι της ράχης | Chicken leg with a portion of the back | Cuisse de poulet avec une portion du dos | Pileći batak sa zabatkom s dijelom leđa | Coscetta | Cāļa kāja ar muguras daļu |\n| (g) | Бедро | Contramuslo | Horní stehno | Overlår | Oberschenkel, Oberkeule | Kints | Μηρός (μπούτι) | Thigh | Haut de cuisse | Zabatak | Sovraccoscia | ciska jeb šķiņķis |\n| (h) | бедро с костта с част от гърба, прикрепен към него | Contramuslo sin deshuesar con una porción de espalda | Nevykostěné stehno s částí hřbetu | Ikke-udbenet lår med en del af ryggen | Nicht entbeinter Oberschenkel mit Rückenstück | Kondiga kints koos seljaosaga | Μηρός (μπούτι) με κόκαλο με μέρος της πλάτης | Bone-in thigh with a portion of the back | Cuisse non désossée avec une portion du dos attachée | Zabatak s kosti i dijelom leđa | Sovraccoscia non disossata con unita parte del dorso | Neatkaulota ciska jeb šķiņķis ar muguras daļu |\n| (i) | Кълка | Muslo | Dolní stehno (Palička) | Underlår | Unterschenkel, Unterkeule | poolkoib | Κνήμη | Drumstick | Pilon | Batak | Fuso | Stilbs |\n| (j) | Крило | Ala | Křídlo | Vinge | Flügel | Tiib | Φτερούγα | Wing | Aile | Krilo | Ala | Spārns |\n| (k) | Неразделени крила | Alas unidas | Neoddělená křídla | Sammenhængende vinger | Beide Flügel, ungetrennt | Lahti lõikamata tiivad | Αδιαχώριστες φτερούγες | Unseparated wings | Ailes non séparées | Neodvojena krila | Ali non separate | Nesadalīti spārni |\n| (l) | Филе от гърди | Filete de pechuga | Prsní řízek | Brystfilet | Brustfilet, Filet aus der Brust, Filet | Rinnafilee | Φιλέτο στήθους | Breast fillet | Filet de poitrine, blanc, filet, noix | File od prsa | Filetto, fesa | Krūtiņas fileja |\n| (m) | Филе от гърди с вилчата кост | Filete de pechuga con clavícula | Filety z prsou s klíční kostí | Brystfilet med ønskeben | Brustfilet mit Schlüsselbein | Rinnafilee koos rangluuga | Φιλέτο στήθους με κλειδοκόκαλο | Breast fillet with wishbone | Filet de poitrine avec clavicule | File od prsa s prsnom kosti | Petto (con forcella), fesa (con forcella) | Krūtiņas fileja ar atslēgas kaulu |\n| (n) | Нетлъсто филе | Magret, maigret | Magret, maigret | Magret, maigret | Magret, Maigret | Rinnaliha („magret“ või „maigret“) | Maigret, magret | Magret, maigret | Magret, maigret | Magret | Magret, maigret | *Magret, maigret* |\n| (o) | вътрешно филе | Filete interior | Vnitřní filet | Inderfilet | Innenfilet | Rinnafilee sisetükk | Φιλετάκι | Inner fillet | Filet intérieur | Minifile | Filetto interno | Iekšējā fileja |\n| (p) | ходила | Patas | Běháky | Fødder | Fuß | Kannused | Άκρα | Feet | Pattes | Nogica | Zampe | Pēdas |\n| (q) | крачета | Garras | Pařáty | Ben | Klaue | Pöiad | Πόδια | Paws | Parties inférieures de pattes | Stopala | Piedi | Pēdas pamatnes |\n| (r) | шия | Cuello | Krk | Hals | Hals | Kael | Λαιμός | Neck | Cou | Vrat | Collo | Kakls |\n| (s) | глава | Cabeza | Hlava | Hoved | Kopf | Pea | Κεφαλή | Head | Tête | Glava | Testa | Galva |\n| (t) | пилешко филе с кожа | Suprema | Supreme | Supreme | Supreme | Väärttükk | Ανώτατο μέρος | Supreme | Suprême | File *supreme* | Suprema (supreme) | Krūtiņas fileja ar spārnu |\n| (u) | вилчата кост | Fúrcula | Klíční kost | Ønskeben | Schlüsselbein | Rangluu | οστούν του στέρνου | Wishbone | Furcula (ou fourchette) | Prsna kost | Forcella | Atslēgas kauls |\n| (v) | лопатка (скапула) | Escápula | Lopatka | Bovblad | Scapula | Abaluu | ωμοπλάτη | Scapula | Omoplate | Lopatica | Scapola | Lāpstiņa |\n\n|  | lt | hu | mt | nl | pl | pt | ro | sk | sl | fi | sv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (a) | Pusė | Fél | Nofs | Helft | Połówka | Metade | Jumătăți | Polená hydina | Polovica | Puolikas | Halva |\n| (b) | Ketvirtis | Negyed | Kwart | Kwart | Ćwiartka | Quarto | Sferturi | Štvrťka hydiny | Četrt | Neljännes | Kvart |\n| (c) | Neatskirti ketvirčiai su šlaunelėmis | Összefüggő combnegyedek | Il-kwarti ta’ wara tas-saqajn, mhux separati | Niet-gescheiden achterkwarten | Ćwiartka tylna w całości | Quartos da coxa não separados | Sferturi posterioare neseparate | Neoddelené hydinové stehná | Neločene četrti nog | Takaneljännes | Bakdelspart |\n| (d) | Krūtinėlė | Mell | Sidra | Borst | Pierś, połówka piersi | Peito | Piept | Prsia | Prsi | Rinta | Bröst |\n| (e) | Kulšelė | Comb | Koxxa | Hele poot, hele dij | Noga | Perna inteira | Pulpă | Hydinové stehno | Bedro | Koipireisi | Klubba |\n| (f) | Viščiuko kulšelė su nugarėlės dalimi | Csirkecomb a hát egy részével | Koxxa tat-tiġieġa b’porzjon tad-dahar | Poot/dij met rugdeel (bout) | Noga kurczęca z częścią grzbietu | Perna inteira de frango com uma porção do dorso | Pulpă de pui cu o porțiune din spate atașată | Kuracie stehno s panvou | Piščančja bedra z delom hrbta | Koipireisi, jossa selkäosa | Kycklingklubba med del av ryggben |\n| (g) | Šlaunelė | Felsőcomb | Il-biċċa ta’ fuq tal-koxxa | Bovenpoot, bovendij | Udo | Coxa | Pulpă superioară | Horné hydinové stehno | Stegno | Reisi | Lår |\n| (h) | Šlaunelė su kaulu ir nugarėlės dalimi | Csontos felsőcomb a hát egy részével | Koxxa bl-għadma b’biċċa mid-dahar imqabbda magħha | Bovenpoot/bovendij met rugdeel (bout) met been | Udo z kością z częścią grzbietu | Coxa não desossada com uma porção do dorso | Partea de sus a pulpei cu os, cu o porțiune de spate atașată | Nevykostené stehno s panvou | Stegno s kostmi z delom hrbta | Luullinen reisi, jossa on kiinni osa selkää | Överlår med del av ryggben |\n| (i) | Blauzdelė | Alsócomb | Il-biċċa t’isfel tal-koxxa (drumstick) | Onderpoot, onderdij (Drumstick) | Podudzie | Perna | Pulpă inferioară | Dolné hydinové stehno | Krača | Koipi | Ben |\n| (j) | Sparnelis | Szárny | Ġewnaħ | Vleugel | Skrzydło | Asa | Aripi | Hydinové krídelko | Peruti | Siipi | Vinge |\n| (k) | Neatskirti sparneliai | Összefüggő szárnyak | Ġwienaħ mhux separate | Niet-gescheiden vleugels | Skrzydła w całości | Asas não separadas | Aripi neseparate | Neoddelené hydinové krídla | Neločene peruti | Siivet kiinni toisissaan | Sammanhängande vingar |\n| (l) | Krūtinėlės filė | Mellfilé | Flett tas-sidra | Borstfilet | Filet z piersi | Carne de peito | Piept dezosat | Hydinový rezeň | Prsni file | Rintafilee | Bröstfilé |\n| (m) | Krūtinėlės filė su raktikauliu | Mellfilé villacsonttal | Flett tas-sidra bil-*wishbone* | Borstfilet met vorkbeen | Filet z piersi z obojczykiem | Carne de peito com fúrcula | Piept dezosat cu osul iadeș | Hydinový rezeň s kosťou | Prsni file s prsno kostjo | Rintafilee solisluineen | Bröstfilé med nyckelben |\n| (n) | *Magret*, *maigret* tipo anties (arba žąsies) krūtinėlės filė | Bőrös kacsamellfilé vagy bőrös libamellfilé (magret, maigret) | *Magret, maigret* | Magret | Magret | *Magret, maigret* | Tacâm de pasăre, Spinări de pasăre | Magret | Magret | Magret, maigret | Magret, maigret |\n| (o) | Vidinė filė | Belső filé | Flett intern | Binnenfilet | Filet wewnętrzny | Filete interior | File interior | Vnútorné filé | Notranji file | Sisäfilee | Innerfilé |\n| (p) | Kojos | Láb | Saqajn | Voet | Stopy | Patas | Picior | Nohy | Stopalo | Jalka | Fötter |\n| (q) | Pėdos | Talp | Is-saqajn bid-dwiefer tal-annimal | Klauw | Łapy | Pés | Labe | Nôžky | Spodnji del stopala | Varvasosa | Tåpartier |\n| (r) | Kaklelis | Nyak | Għonq | Hals | Szyja | Pescoço | Gât | Krk | Vrat | Kaula | Hals |\n| (s) | Galva | Fej | Ras | Kop | Głowa | Cabeça | Cap | Hlava | Glava | Pää | Huvud |\n| (t) | Krūtinėlė su sparno dalimi | Mellfilé szárnytővel („supreme”) | Suprem | Suprême | Filet *supreme* | Supremo | Supremă | *Supreme* | Prsi brez kosti s kožo in nadlahtnico | Supreme | Suprême |\n| (u) | Krūtinkaulio išsišakojimas | Villacsont | Klavikola | Vorkbeen | Obojczyk | Fúrcula | Claviculă | Kľúčna kosť | Ključnica | Solisluu | Nyckelben |\n| (v) | Mentė | Lapocka | Skapula | Schouderblad | Łopatka | Escápula | Scapulă | Lopatka | Lopatica | Lapaluu | Skulderblad |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "eca3d72b15ed034d": {
+   "fragment_id": "Corte que separa a coxa/perna do dorso, a que se refere o artigo 2.º, ponto 2, segundo parágrafo",
+   "type": "divisao",
+   "heading": "Corte que separa a coxa/perna do dorso, a que se refere o artigo 2.º, ponto 2, segundo parágrafo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Corte que separa a coxa/perna do dorso, a que se refere o artigo 2.º, ponto 2, segundo parágrafo\n\n— delimitação da articulação da anca"
+  },
+  "c632918c2ebb33f5": {
+   "fragment_id": "Corte que separa a coxa da perna",
+   "type": "divisao",
+   "heading": "Corte que separa a coxa da perna",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Corte que separa a coxa da perna\n\n— delimitação da articulação do joelho"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a50e679f9b2c20f6": {
+   "fragment_id": "Descrição da queimadura de congelador a que se refere o artigo 8.º, n.º 3, alínea d)",
+   "type": "divisao",
+   "heading": "Descrição da queimadura de congelador a que se refere o artigo 8.º, n.º 3, alínea d)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Descrição da queimadura de congelador a que se refere o artigo 8.º, n.º 3, alínea d)\n\nQueimadura de congelador: (na aceção de redução da qualidade) desidratação mais ou menos localizada e irreversível da pele ou da carne, de que resultam alterações no que respeita:\n\n— à cor original (tornando-se geralmente mais pálida), ou\n\n— ao sabor e cheiro (perda de sabor ou sabor a ranço), ou\n\n— à consistência (seca, esponjosa)."
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "105474b9d3c4311c": {
+   "fragment_id": "Métodos de refrigeração referidos no artigo 9.º",
+   "type": "divisao",
+   "heading": "Métodos de refrigeração referidos no artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Métodos de refrigeração referidos no artigo 9.º\n\n|  | bg | es | cs | da | de | et | el | en | fr | hr | it | lv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1. | Въздушно охлаждане | Refrigeración por aire | Vzduchem (Chlazení vzduchem) | Luftkøling | Luftkühlung | Ōhkjahutus | Ψύξη με αέρα | Air chilling | Refroidissement à l’air | Hlađenje strujanjem zraka | Raffreddamento ad aria | Dzesēšana ar gaisu |\n| 2. | Въздушно-душово охлаждане | Refrigeración por aspersión ventilada | Vychlazeným proudem vzduchu s postřikem | Luftspraykøling | Luft-Sprühkühlung | Ōhkpiserdusjahutus | Ψύξη με ψεκασμό | Air spray chilling | Refroidissement par aspersion ventilée | Hlađenje raspršivanjem zraka | Raffreddamento per aspersione e ventilazione | Dzesēšana ar gaisu un smidzināšanu |\n| 3. | Охлаждане чрез потапяне | Refrigeración por immersión | Ve vodní lázni ponořením | Neddypningskøling | Gegenstrom-Tauchkühlung | Sukeljahutus | Ψύξη με βύθιση | Immersion chilling | Refroidissement par immersion | Hlađenje uranjanjem u vodu | Raffreddamento per immersione | Dzesēšana iegremdējot |\n\n|  | lt | hu | mt | nl | pl | pt | ro | sk | sl | fi | sv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| 1. | Atšaldymas oru | Levegős hűtés | Tkessih bl-arja | Luchtkoeling | Owiewowa | Refrigeração por ventilação | Refrigerare în aer | Chladené vzduchom | Zračno hlajenje | Ilmajäähdytys | Luftkylning |\n| 2. | Atšaldymas drėgnu oru | Permetezéses hűtés | Tkessih b’air spray | Lucht-sproeikoeling | Owiewowo-natryskowa | Refrigeração por aspersão e ventilação | Refrigerare prin dușare cu aer | Chladené sprejovaním | Hlajenje s pršenjem | Ilmasprayjäähdytys | Evaporativ kylning |\n| 3. | Atšaldymas panardinant | Bemerítéses hűtés | Tkessiħ b’immersjoni | Dompelkoeling | Zanurzeniowa | Refrigeração por imersão | Refrigerare prin imersiune | Chladené vo vode | Hlajenje s potapljanjem | Vesijäähdytys | Vattenkylning |"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "00b7f1bf59f725ed": {
+   "fragment_id": "Modos de criação a que se refere o artigo 10.º, n.º 1",
+   "type": "divisao",
+   "heading": "Modos de criação a que se refere o artigo 10.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modos de criação a que se refere o artigo 10.º, n.º 1\n\n|  | bg | es | cs | da | de | et | el | en | fr | hr | it | lv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (a) | Хранена с … % … гъска, хранена с овес | Alimentado con … % de … Oca engordada con avena | Krmena (čím) … % (čeho) … Husa krmená ovsem | Fodret med … % … Havrefodret gås | Mast mit … % … Hafermastgans | Söödetud …, mis sisaldab … % … Kaeraga toidetud hani | Έχει τραφεί με … % … Χήνα που παχαίνεται με βρώμη | Fed with … % of … Oats fed goose | Alimenté avec … % de … Oie nourrie à l’avoine | Hranjeno s...%... Guska hranjena zobi | Alimentato con il … % di … Oca ingrassata con avena | Barība ar … % … ar auzām barotas zosis |\n| (b) | Екстензивно закрито (отгледан на закрито) | Extensivo en interior | Extenzivní v hale | Ekstensivt staldopdræt (skrabe …) | Extensive Bodenhaltung | Ekstensiivne seespidamine (lindlas pidamine) | Εκτατικής εκτροφής | Extensive indoor (barnreared) | Élevé à l’intérieur: système extensif | Ekstenzivan uzgoj u zatvorenim objektima | Estensivo al coperto | Turēšana galvenokārt telpās (“Audzēti kūtī”) |\n| (c) | Свободен начин на отглеждане | Campero | Volný výběh | Fritgående | Freilandhaltung | Vabapidamine | Ελεύθερης βοσκής | Free range | Sortant à l’extérieur | Slobodan uzgoj | All’aperto | Brīvā turēšana |\n| (d) | Традиционен свободен начин на отглеждане | Campero tradicional | Tradiční volný výběh | Frilands … | Bäuerliche Freilandhaltung | Traditsiooniline vabapidamine | Πτηνοτροφείο παραδοσιακά ελεύθερης βοσκής | Traditional free range | Fermier–élevé en plein air | Tradicionalni slobodan uzgoj | Rurale all’aperto | Tradicionālā brīvā turēšana |\n| (e) | Свободен начин на отглеждане – пълна свобода | Campero criado en total libertad | Volný výběh – úplná volnost | Frilands … opdrættet i fuld frihed | Bäuerliche Freilandhaltung Unbegrenzter Auslauf | Täieliku liikumisvabadusega traditsiooniline vabapidamine | Πτηνοτροφείο απεριόριστης τροφής | Free-range — total freedom | Fermier–élevé en liberté | Slobodan uzgoj — neograničeni ispust | Rurale in libertà | Pilnīgā brīvība |\n\n|  | lt | hu | mt | nl | pl | pt | ro | sk | sl | fi | sv |\n| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |\n| (a) | Lesinta … % … Avižomis penėtos žąsys | … %-ban …-val/vel etetve Zabbal etetett liba | Mitmugħa bi … % ta’ … Wiżża mitmugħa bilħafur | Gevoed met … % … Met haver vetgemeste gans | Żywione z udziałem … % … tucz owsiany (gęsi) | Alimentado com … % de … Ganso engordado com aveia | Furajate cu … % de … Gâște furajate cu ovăz | Kŕmené … % … husi kŕmené ovsom | Krmljeno z … % gos, krmljena z ovsom | Ruokittu rehulla, joka sisältää … % Kauralla ruokittu hanhi | Utfodrad med … % … Havreutfodrad gås |\n| (b) | Ekstensyvus paukščių auginimas patalpose (tvartuose) | Istállóban külterjesen tartott | Imrobbija ġewwa: sistema estensiva | Scharrel … binnengehouden | Ekstensywny chów ściółkowy | Produção extensiva em interior | Crescute în spații închise – sistem extensiv | Chované na hlbokej podstielke (chov v hale) | Ekstenzivna zaprta reja | Laajaperäinen sisäkasvatus | Extensivt uppfödd inomhus |\n| (c) | Laisvai auginami paukščiai | Szabadtartás | Trobbija fil-beraħ (*free range*) | Scharrel … met uitloop | Chów wybiegowy | Produção em semiliberdade | Creștere liberă | Výbehový chov (chov v exteriéri) | Prosta reja | Vapaa laidun | Tillgång till utomhusvistelse |\n| (d) | Tradiciškai laisvai auginami paukščiai | Hagyományos szabadtartás | Trobbija fil-beraħ tradizzjonali | Boerenscharrel … met uitloop Hoeve … met uitloop | Tradycyjny chów wybiegowy | Produção ao ar livre | Creștere liberă tradițională | Chované navol’no | Tradicionalna prosta reja | Vapaa laidun – perinteinen kasvatustapa | Traditionell utomhusvistelse |\n| (e) | Visiškoje laisvėje auginami paukščiai | Teljes szabadtartás | Trobbija fil-beraħ – libertà totali | Boerenscharrel … met vrije uitloop Hoeve … met vrije uitloop | Chów wybiegowy bez ograniczeń | Produção em liberdade | Creștere liberă totală | Úplne vol’ný chov | Prosta reja – neomejen izpust | Vapaa laidun – täydellinen liikkumavapaus | Uppfödd i full frihet |"
+  },
+  "90c7d2baf4d44ee2": {
+   "fragment_id": "ANEXO VI",
+   "type": "divisao",
+   "heading": "ANEXO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VI"
+  },
+  "208e822174c8b5a7": {
+   "fragment_id": "Condições referidas no artigo 10.º, n.º 1",
+   "type": "divisao",
+   "heading": "Condições referidas no artigo 10.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Condições referidas no artigo 10.º, n.º 1\n\na) Alimentado com … % de …\n\ni) no caso dos cereais, estes correspondam a, pelo menos, 65 %, em peso, da fórmula alimentar administrada durante a maior parte do período de engorda, não podendo incluir mais de 15 % de subprodutos de cereais; no entanto, quando for feita referência a um cereal específico, este deve corresponder a, pelo menos, 35 % da fórmula alimentar administrada e a, pelo menos, 50 % no caso do milho;\n\nii) no caso das leguminosas ou dos vegetais verdes, estes correspondam a, pelo menos, 5 %, em peso, da fórmula alimentar administrada durante a maior parte do período de engorda;\n\niii) no caso dos produtos lácteos, estes correspondam a, pelo menos, 5 %, em peso, da fórmula alimentar administrada durante o período de acabamento.\n\nb) Produção extensiva em interior\n\ni) a densidade populacional por m^2^ de chão não exceda:\n\n— no caso dos frangos, galos jovens e capões: 15 aves, mas não mais de 25 kg de peso vivo,\n\n— no caso dos patos, pintadas e perus: 25 kg de peso vivo,\n\n— no caso dos gansos: 15 kg de peso vivo;\n\nii) As aves sejam abatidas após:\n\n— frangos: pelo menos, 56 dias,\n\n— perus: pelo menos, 70 dias,\n\n— gansos: pelo menos, 112 dias,\n\n— patos-de-pequim: pelo menos, 49 dias,\n\n— [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) patos *Barbary* **◄**: pelo menos, 70 dias para as fêmeas e 84 dias para os machos,\n\n— patos *Mulard* fêmeas: pelo menos, 65 dias,\n\n— pintadas: pelo menos, 82 dias,\n\n— gansos jovens: pelo menos, 60 dias,\n\n— galos jovens: pelo menos, 90 dias,\n\n— capões: pelo menos, 140 dias.\n\nc) Produção em semiliberdade\n\ni) a densidade populacional no interior das instalações e a idade de abate estejam em conformidade com os limites fixados na alínea b), exceto no caso dos frangos, em relação aos quais a densidade populacional pode aumentar para 27,5 kg de peso vivo por m^2^, mas não exceder 13 aves, e no dos capões, para os quais a densidade populacional não pode exceder 7,5 aves, não podendo ser superior a 27,5 kg de peso vivo por m^2^;\n\nii) as aves tenham tido, durante pelo menos metade da sua vida, acesso contínuo durante o dia a espaços ao ar livre com uma área, coberta sobretudo por vegetação, não inferior a:\n\n— 1 m^2^ por frango ou pintada,\n\n— 2 m^2^ por pato ou capão,\n\n— 4 m^2^ por peru ou ganso.\n\niii) a fórmula alimentar administrada na fase de engorda contenha, pelo menos, 70 % de cereais;\n\niv) os aviários disponham de aberturas com um comprimento total de, pelo menos, 4 m por 100 m^2^ de superfície das instalações. Cada abertura para os gansos deve ser de, pelo menos, 4 m.\n\nd) Produção ao ar livre\n\ni) A densidade populacional no interior das instalações, por m^2^, não exceda no caso dos:\n\n— frangos: 12 aves, mas não mais de 25 kg de peso vivo; no entanto, no caso das instalações móveis com área de chão não superior a 150 m^2^ que permaneçam abertas durante a noite, a densidade populacional pode aumentar para 20 aves, não podendo exceder 40 kg de peso vivo por m^2^,\n\n— capões: 6,25 (até 91 dias de idade: 12) aves, mas não mais de 35 kg de peso vivo,\n\n— [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) patos *Barbary* **◄** e patos-de-pequim: 8 machos, mas não mais de 35 kg de peso vivo, 10 fêmeas, mas não mais de 25 kg de peso vivo,\n\n— patos *Mulard*: 8 aves, mas não mais de 35 kg de peso vivo,\n\n— pintadas: 13 aves, mas não mais de 25 kg de peso vivo,\n\n— perus: 6,25 (até 7 semanas de idade: 10) aves, mas não mais de 35 kg de peso vivo,\n\n— no caso dos gansos: 5 (até 6 semanas de idade: 10), 3 durante as últimas 3 semanas de período de engorda se a fase final for em cativeiro, mas não mais de 30 kg de peso vivo;\n\nii) a área total utilizável dos aviários numa única unidade de produção não exceda 1 600 m^2^;\n\niii) cada aviário não contenha mais de:\n\n— 4 800 frangos,\n\n— 5 200 pintadas,\n\n— 4 000 [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) patos *Barbary* **◄** ou patos-de-pequim, fêmeas, ou 3 200 patos *Muscovy* ou patos-de-pequim, machos, ou 3 200 patos *Mulard*,\n\n— 2 500 capões, gansos e perus;\n\niv) os aviários disponham de aberturas com um comprimento total de, pelo menos, 4 m por 100 m^2^ de superfície das instalações;\n\nv) haja um acesso contínuo durante o dia a espaços ao ar livre pelo menos a partir da idade de:\n\n— 6 semanas, no caso dos frangos e capões,\n\n— 8 semanas, no caso dos patos, gansos, pintadas e perus;\n\nvi) os espaços ao ar livre correspondam a uma área, coberta sobretudo por vegetação, com, pelo menos:\n\n— 2 m^2^ por frango, [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) pato *Barbary* **◄**, pato-de-pequim ou pintada,\n\n— 3 m^2^ por pato *Mulard*,\n\n— 4 m^2^ por capão a partir de 92 dias (2 m^2^ até ao 91.° dia),\n\n— 6 m^2^ por peru,\n\n— 10 m^2^ por ganso.\n\nvii) as aves engordadas sejam de uma raça de crescimento lento;\n\nviii) a fórmula alimentar administrada na fase de engorda contenha, pelo menos, 70 % de cereais;\n\nix) a idade mínima aquando do abate seja de:\n\n— 81 dias para frangos,\n\n— 150 dias para os capões,\n\n— 49 dias para os patos-de-pequim,\n\n— 70 dias para os [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) patos *Barbary* **◄** fêmeas,\n\n— 84 dias para os [**►C1**](http://publications.europa.eu/resource/celex/32026R0343R%2801%29) patos *Barbary* **◄** machos,\n\n— 92 dias para os patos *Mulard*,\n\n— 94 dias para as pintadas,\n\n— 140 dias para os perus e gansos comercializados inteiros para cozinhar,\n\n— 98 dias para as peruas destinadas a desmancha,\n\n— 126 dias para os perus destinados a desmancha,\n\n— 95 dias para os gansos adultos destinados à produção de *foie gras* e *magret*,\n\n— 60 dias para os gansos jovens;\n\nx) o acabamento em cativeiro não exceda:\n\n— no caso dos frangos com mais de 90 dias: 15 dias,\n\n— no caso dos capões: 4 semanas,\n\n— no caso dos gansos e patos *Mulard* destinados à produção de *foie gras* e *magret*, com mais de 70 dias: 4 semanas.\n\ne) Produção em liberdade"
+  },
+  "d46ca50274582635": {
+   "fragment_id": "ANEXO VII",
+   "type": "divisao",
+   "heading": "ANEXO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VII"
+  },
+  "e49503cb38d865da": {
+   "fragment_id": "Teor máximo de água das carcaças de frango a que se refere o artigo 14.º, n.º 1",
+   "type": "divisao",
+   "heading": "Teor máximo de água das carcaças de frango a que se refere o artigo 14.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Teor máximo de água das carcaças de frango a que se refere o artigo 14.º, n.º 1\n\nO teor total de água dos frangos, determinado pelo método de análise descrito no anexo I do Regulamento de Execução (UE) 2026/344, é comparado com o valor-limite obtido aplicando as seguintes fórmulas:\n\na) Refrigeração por ventilação\n\nb) Refrigeração por aspersão e ventilação\n\nc) Refrigeração por imersão\n\nd) Outros métodos de refrigeração ou uma combinação de dois ou mais dos métodos definidos no artigo 9.º\n\nSe o valor médio do teor de água (WA) das sete carcaças, calculado de acordo com o anexo I, ponto 6.2, do Regulamento de Execução (UE) 2026/344 não for superior ao valor obtido no ponto 1 (WG), a quantidade de aves de capoeira submetida a controlo é considerada conforme."
+  },
+  "1b41b51ec3248d43": {
+   "fragment_id": "ANEXO VIII",
+   "type": "divisao",
+   "heading": "ANEXO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO VIII"
+  },
+  "a20779cceb363b86": {
+   "fragment_id": "Teor máximo de água dos pedaços de carne de aves de capoeira a que se refere o artigo 14.º, n.º 2",
+   "type": "divisao",
+   "heading": "Teor máximo de água dos pedaços de carne de aves de capoeira a que se refere o artigo 14.º, n.º 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Teor máximo de água dos pedaços de carne de aves de capoeira a que se refere o artigo 14.º, n.º 2\n\nO teor total de água dos pedaços de carne de aves de capoeira, determinado pelo método de análise descrito no anexo II do [**►C2**](http://publications.europa.eu/resource/celex/32026R0343R%2803%29) Regulamento de Execução (UE) 2026/344**◄**, é comparado com os valores-limite do seguinte modo:\n\nNo caso de o teor mínimo, tecnicamente inevitável, de água absorvido durante a preparação corresponder a 2 %, 4 % ou 6 % ([^4^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#E0004)), consoante o tipo de produto e o método de refrigeração aplicado, os valores máximos admissíveis da relação W/RP (rácio entre o teor total de água e proteínas) determinada por este método é o seguinte:\n\n|  | Refrigeração por ventilação | Refrigeração por aspersão e ventilação | Refrigeração por imersão |\n| --- | --- | --- | --- |\n| Refrigeração por imersão sem pele | 3,40 | 3,40 | 3,40 |\n| Peito de frango; com pele | 3,40 | 3,50 | 3,60 |\n| Coxas, pernas, pernas inteiras, pernas inteiras com uma porção do dorso e quartos da coxa, de frango, com pele | 4,05 | 4,15 | 4,30 |\n| Carne de peito de peru; sem pele | 3,40 | 3,40 | 3,40 |\n| Peito de peru, com pele | 3,40 | 3,50 | 3,60 |\n| Coxas, pernas e pernas inteiras de peru, com pele | 3,80 | 3,90 | 4,05 |\n| Coxas, pernas e pernas inteiras de peru, sem pele | 3,95 | 3,95 | 3,95 |\n\nNo caso de outros métodos de refrigeração ou de uma combinação de dois ou mais dos métodos definidos no artigo 9.º, admite-se que o teor inevitável de água corresponde a 2 % e que os valores máximos admissíveis da relação W/RP são os fixados para o método de refrigeração por ventilação no quadro *supra*.\n\nSe o valor médio do rácio WA/RPA dos cinco pedaços calculado a partir dos valores fixados no anexo II, ponto 6.2, do [**►C2**](http://publications.europa.eu/resource/celex/32026R0343R%2803%29) Regulamento de Execução (UE) 2026/344**◄** não exceder o rácio indicado no presente anexo, a quantidade de pedaços de aves de capoeira sujeita ao controlo será considerada conforme."
+  },
+  "953641e58475eff6": {
+   "fragment_id": "ANEXO IX",
+   "type": "divisao",
+   "heading": "ANEXO IX",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IX"
+  },
+  "922998477bdcd15c": {
+   "fragment_id": "Níveis máximos de água absorvida das carcaças de frangos a que se refere o artigo 14.º, n.º 3",
+   "type": "divisao",
+   "heading": "Níveis máximos de água absorvida das carcaças de frangos a que se refere o artigo 14.º, n.º 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Níveis máximos de água absorvida das carcaças de frangos a que se refere o artigo 14.º, n.º 3\n\nO teor total de água absorvida das carcaças de frangos, determinado pelo método de análise descrito no anexo III do Regulamento de Execução (UE) 2026/344, é comparado com os valores-limite do seguinte modo:\n\n1) O resultado não deve exceder as percentagens do peso inicial da carcaça a seguir indicadas ou qualquer outro valor que permita a conformidade com o teor total de água estranha:\n\n— refrigeração por ventilação: 0 %,\n\n— refrigeração por aspersão e ventilação: 2,0 %,\n\n— refrigeração por imersão: 4,5 %.\n\n2) No caso de as carcaças serem refrigeradas por outro método de refrigeração ou por uma combinação de dois ou mais dos métodos definidos no artigo 9.º, o teor máximo de água não pode exceder 0 % do peso inicial da carcaça."
+  },
+  "82c866f33a162c59": {
+   "fragment_id": "ANEXO X",
+   "type": "divisao",
+   "heading": "ANEXO X",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO X"
+  },
+  "07da4a82db2bfd2b": {
+   "fragment_id": "Indicações a que se refere o artigo 14.º, n.º 4",
+   "type": "divisao",
+   "heading": "Indicações a que se refere o artigo 14.º, n.º 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Indicações a que se refere o artigo 14.º, n.º 4\n\n— Em búlgaro: Съдържанието на вода превишава нормите на ЕC\n\n— Em espanhol: Contenido en agua superior al límite UE\n\n— Em checo: Obsah vody překračuje limit EU\n\n— Em dinamarquês: Vandindhold overstiger EU-Normen\n\n— Em alemão: Wassergehalt über dem EU-Höchstwert\n\n— Em estónio: Veesisaldus ületab EL normi\n\n— Em grego: Περιεκτικότητα σε νερό ανώτερη του ορίου ΕΕ\n\n— Em inglês: Water content exceeds EU limit\n\n— Em francês: Teneur en eau supérieure à la limite UE\n\n— Em croata: Sadržaj vode prelazi ograničenje EU\n\n— Em italiano: Tenore d’acqua superiore al limite UE\n\n— Em letão: Ūdens saturs pārsniedz ES noteikto normu\n\n— Em lituano: Vandens kiekis viršija ES nustatytą ribą\n\n— Em húngaro: Víztartalom meghaladja az EU által előírt határértéket\n\n— Em maltês: Il-kontenut ta’ l-ilma superjuri għal-limitu UE\n\n— Em neerlandês: Watergehalte hoger dan het EU-maximum\n\n— Em polaco: Zawartość wody przekracza normę UE\n\n— Em português: Teor de água superior ao limite UE\n\n— Em romeno: Conținutul de apă depășește limita UE\n\n— Em eslovaco: Obsah vody presahuje limit EU\n\n— Em esloveno: Vsebnost vode presega EU omejitev\n\n— Em finlandês: Vesipitoisuus ylittää EU-normin\n\n— Em sueco: Vattenhalten överstiger den halt som är tillåten inom EU"
+  },
+  "347fa34d45987b5d": {
+   "fragment_id": "ANEXO XI",
+   "type": "divisao",
+   "heading": "ANEXO XI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XI"
+  },
+  "df35445b4d906615": {
+   "fragment_id": "Tarefas e estrutura organizativa do comité de peritos no controlo do teor de água da carne de aves de capoeira a que se refere o artigo 16.º",
+   "type": "divisao",
+   "heading": "Tarefas e estrutura organizativa do comité de peritos no controlo do teor de água da carne de aves de capoeira a que se refere o artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Tarefas e estrutura organizativa do comité de peritos no controlo do teor de água da carne de aves de capoeira a que se refere o artigo 16.º\n\nO comité de peritos é responsável pelas seguintes tarefas:\n\na) Fornecer aos laboratórios nacionais de referência informações sobre os métodos de análise e os ensaios comparativos relativos ao teor de água da carne de aves de capoeira;\n\nb) Coordenar a aplicação, pelos laboratórios nacionais de referência, dos métodos a que se refere a alínea a), organizando ensaios comparativos e, em particular, ensaios de aptidão;\n\nc) Apoiar os laboratórios nacionais de referência no que se refere aos ensaios de aptidão, fornecendo apoio científico para a avaliação de dados estatísticos e para a elaboração de relatórios;\n\nd) Coordenar o desenvolvimento de novos métodos de análise e informar os laboratórios nacionais de referência dos progressos realizados neste domínio;\n\ne) Prestar assistência técnica e científica aos serviços da Comissão, nomeadamente em casos de contestação de resultados de análises, entre Estados-Membros.\n\nO comité de peritos é organizado da seguinte forma:\n\nO comité de peritos no controlo do teor de água da carne de aves de capoeira será constituído por representantes do Centro Comum de Investigação (JRC) — Instituto de Materiais e Medições de Referência (IRMM), da Direção-Geral Agricultura e Desenvolvimento Rural e de três laboratórios nacionais de referência. O representante do IRMM preside o comité e nomeia os laboratórios nacionais de referência numa base rotativa. Posteriormente, as autoridades dos Estados-Membros responsáveis pelo laboratório nacional de referência selecionado nomeiam peritos no controlo do teor de água dos alimentos para fazer parte do comité. O sistema rotativo permitirá substituir, anualmente, um laboratório nacional de referência participante por um outro, a fim de garantir uma certa continuidade no comité. As despesas efetuadas pelos peritos dos Estados-Membros e/ou dos laboratórios nacionais de referência no exercício das suas funções, a que se refere o primeiro parágrafo, serão financiadas pelos respetivos Estados-Membros."
+  },
+  "39eb8fae8947a464": {
+   "fragment_id": "ANEXO XII",
+   "type": "divisao",
+   "heading": "ANEXO XII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO XII"
+  },
+  "d97b2e064f1a0cb6": {
+   "fragment_id": "Quadro de correspondência a que se refere o artigo 17.º",
+   "type": "divisao",
+   "heading": "Quadro de correspondência a que se refere o artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Quadro de correspondência a que se refere o artigo 17.º\n\n| Regulamento (CE) n.º 543/2008 | Presente regulamento | Regulamento de Execução (UE) 2026/344 da Comissão |\n| --- | --- | --- |\n| Artigo 1.º | Artigo 2.º | — |\n| Artigo 2.º | Artigo 3.º | Artigo 3.º, n.º 1 |\n| Artigo 3.º | Artigo 4.º | — |\n| Artigo 4.º | Artigo 5.º | — |\n| Artigo 5.º | Artigo 6.º | — |\n| Artigo 6.º | Artigo 7.º | — |\n| Artigo 7.º | Artigo 8.º | — |\n| Artigo 8.º | — | Artigo 3.º |\n| Artigo 9.º | — | — |\n| Artigo 10.º | Artigo 9.º | — |\n| Artigo 11.º | Artigo 10.º | — |\n| Artigo 12.º | Artigo 11.º | Artigo 4.º |\n| Artigo 13.º | Artigo 12.º | — |\n| Artigo 14.º | Artigo 13.º | — |\n| Artigo 15.º | Artigo 14.º | Artigo 5.º |\n| Artigo 16.º | Artigo 14.º, n.º 4 | Artigo 6.º |\n| Artigo 17.º | — | Artigo 7.º |\n| Artigo 18.º | Artigo 15.º | — |\n| Artigo 19.º | Artigo 16.º | — |\n| Artigo 20.º | Artigo 14.º | Artigo 8.º |\n\n---"
+  },
+  "de16b4991dfed602": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#src.E0001)) Regulamento (UE) n.º 1169/2011 do Parlamento Europeu e do Conselho, de 25 de outubro de 2011, relativo à prestação de informação aos consumidores sobre os géneros alimentícios, que altera os Regulamentos (CE) n.º 1924/2006 e (CE) n.º 1925/2006 do Parlamento Europeu e do Conselho e revoga as Diretivas 87/250/CEE da Comissão, 90/496/CEE do Conselho, 1999/10/CE da Comissão, 2000/13/CE do Parlamento Europeu e do Conselho, 2002/67/CE e 2008/5/CE da Comissão e o Regulamento (CE) n.º 608/2004 da Comissão (JO L 304 de 22.11.2011, p. 18, ELI: [http://data.europa.eu/eli/reg/2011/1169/oj](http://data.europa.eu/eli/reg/2011/1169/oj)).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#src.E0002)) ISO/IEC 17065:2012, Avaliação da conformidade — Requisitos para organismos de certificação de produtos, processos e serviços.\n\n> ([^3^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#src.E0003)) Relativamente à carcaça, excluindo a água estranha absorvida.\n\n> ([^4^](http://publications.europa.eu/resource/cellar/0358dad1-1e39-11f1-8c3a-01aa75ed71a1.0004.02/DOC_2#src.E0004)) Relativamente ao pedaço, excluindo a água estranha absorvida. No caso da carne de peito (sem pele) e da carne desossada da perna inteira de peru, a percentagem é de 2 % para todos os métodos de refrigeração."
+  }
+ }
+}

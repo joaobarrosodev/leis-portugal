@@ -1,0 +1,165 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0636:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0636-20260619",
+ "dre_path": null,
+ "source_lastmod": "2026-06-19",
+ "versions": [
+  {
+   "date": "2026-03-27",
+   "future": false,
+   "celex": "32026R0636",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c77a8818fad8db26",
+    "9ad24d711cd13892",
+    "f136ea96e061c9f8",
+    "326ed96fe01d0d6c",
+    "b4ce177c56d5322c"
+   ]
+  },
+  {
+   "date": "2026-06-19",
+   "future": false,
+   "celex": "02026R0636-20260619",
+   "acts": [
+    {
+     "id": "eu:celex:32026R1228:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2026/1228 DA COMISSÃO de 11 de junho de 2026",
+     "published": null,
+     "celex": "32026R1228"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Entrada em vigor e aplicação",
+    "Adita ANEXO I",
+    "Adita Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea a), do Regulamento Delegado (UE) 2026/131",
+    "Adita ANEXO II",
+    "Adita Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea b), do Regulamento Delegado (UE) 2026/131",
+    "Adita ANEXO III",
+    "Adita Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a5867d85b92e4153",
+    "9ad24d711cd13892",
+    "f136ea96e061c9f8",
+    "44998004eb580878",
+    "d664376e2a8dcecd",
+    "4a927c45205292a8",
+    "852174729551523b",
+    "cd4d25ec6a677ae2",
+    "720af75c92791b10",
+    "006b5ed09ffd8c5b"
+   ]
+  }
+ ],
+ "fragments": {
+  "c77a8818fad8db26": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de março de 2026\n\nque adota listas de países terceiros ou territórios que cumprem determinadas condições para a circulação sem caráter comercial de animais de companhia\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal («Lei da Saúde Animal») [([^1])](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202600636PT.000101-E0001), nomeadamente o artigo 253.º, n.º 1, alínea d),\n\nConsiderando o seguinte:\n\n(1) O Regulamento (UE) 2016/429 revoga o Regulamento (UE) n.º 576/2013 do Parlamento Europeu e do Conselho [([^2])](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202600636PT.000101-E0002) com efeitos a partir de 22 de abril de 2026. O Regulamento (UE) n.º 576/2013 estabelece que o teste de titulação de anticorpos não é exigido para os animais de companhia que circulem para um Estado-Membro provenientes de um país terceiro ou território a enumerar por meio de um ato de execução adotado nos termos do artigo 13.º do mesmo regulamento. O Regulamento de Execução (UE) n.º 577/2013 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202600636PT.000101-E0003) estabeleceu duas listas no seu anexo II. A primeira lista inclui os países terceiros ou territórios que tenham demonstrado que aplicam regras cujo conteúdo e efeito são os mesmos das aplicadas pelos Estados-Membros e a segunda lista inclui os países terceiros ou territórios que tenham demonstrado que cumprem pelo menos os critérios estabelecidos no artigo 13.º, n.º 2, do Regulamento (UE) n.º 576/2013. O Regulamento de Execução (UE) 2026/705 [([^4])](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202600636PT.000101-E0004) revoga o Regulamento de Execução (UE) n.º 577/2013 a partir de 22 de abril de 2026.\n\n(2) O Regulamento (UE) 2016/429 estabelece regras para a prevenção e o controlo de doenças animais transmissíveis aos animais ou aos seres humanos, incluindo nomeadamente os requisitos de saúde animal aplicáveis à circulação sem caráter comercial de animais de companhia para um Estado-Membro a partir de outro Estado-Membro ou de um país terceiro ou território.\n\n(3) O Regulamento Delegado (UE) 2026/131 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202600636PT.000101-E0005) complementa o Regulamento (UE) 2016/429 no que diz respeito aos requisitos de saúde animal aplicáveis à circulação sem caráter comercial de animais de companhia. O artigo 17.º, n.º 1, do referido regulamento delegado estabelece que os cães, gatos ou furões de companhia que circulem para a União para fins não comerciais a partir de países terceiros ou territórios incluídos nas listas constantes dos anexos do presente regulamento não são obrigatoriamente submetidos a um teste de titulação de anticorpos da raiva. Por conseguinte, é adequado estabelecer essas listas nos anexos I e II do presente regulamento.\n\n(4) Uma vez que as listas previstas no artigo 17.º, n.º 1, do Regulamento Delegado (UE) 2026/131 e os requisitos para a sua inclusão nessas listas são essencialmente os mesmos que os previstos no artigo 13.º, n.^os^ 1 e 2, do Regulamento (UE) n.º 576/2013, as listas de países terceiros ou territórios incluídas no anexo II do Regulamento de Execução (UE) n.º 577/2013 devem ser estabelecidas no presente regulamento e aplicáveis a partir de 22 de abril de 2026, data em que o Regulamento de Execução (UE) n.º 577/2013 é revogado e o Regulamento Delegado (UE) 2026/131 começa a ser aplicável, a fim de evitar perturbações desnecessárias da circulação sem caráter comercial de cães, gatos e furões de companhia.\n\n(5) O Regulamento Delegado (UE) 2021/1933 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntr6-L_202600636PT.000101-E0006) prevê uma isenção do seu âmbito de aplicação para determinadas deslocações sem caráter comercial de aves de companhia, com base na origem das aves de companhia. Em especial, exclui a aplicação das disposições estabelecidas nesse regulamento à circulação sem caráter comercial de aves de companhia a partir de um certo número de países terceiros ou territórios, sempre que essa circulação apresente apenas um risco mínimo para a saúde animal na União. Exclui igualmente do âmbito de aplicação do referido regulamento a circulação sem caráter comercial a partir da Noruega que, de acordo com os pontos 10 e 10-A do anexo I do Acordo EEE, não deve ser considerada um país terceiro no que respeita à aplicação do Regulamento (UE) n.º 576/2013 ou do Regulamento de Execução (UE) n.º 577/2013. O Regulamento Delegado (UE) 2026/131 revoga o Regulamento Delegado (UE) 2021/1933 com efeitos a partir de 22 de abril de 2026. A fim de evitar perturbações desnecessárias da circulação sem caráter comercial de aves de companhia provenientes de países terceiros ou territórios considerados como apresentando um risco sanitário mínimo, é adequado estabelecer, no anexo III do presente regulamento, que esses mesmos países terceiros ou territórios são abrangidos pela derrogação prevista no artigo 28.º do Regulamento Delegado (UE) 2026/131 e assegurar que a circulação sem caráter comercial a partir desses países terceiros ou territórios está isenta de determinados requisitos de saúde animal relacionados com determinadas espécies a partir de 22 de abril de 2026, data em que o Regulamento Delegado (UE) 2021/1933 é revogado e o Regulamento Delegado (UE) 2026/131 começa a ser aplicável.\n\n(6) Uma vez que o Regulamento Delegado (UE) 2026/131 é aplicável a partir de 22 de abril de 2026, o presente regulamento deve entrar em vigor com caráter de urgência e deve também ser aplicável a partir de 22 de abril de 2026.\n\n(7) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "9ad24d711cd13892": {
+   "fragment_id": "Artigo 1.º — Listas de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alíneas a) e b), do Regulamento Delegado (UE) 2026/131",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Listas de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alíneas a) e b), do Regulamento Delegado (UE) 2026/131",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Listas de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alíneas a) e b), do Regulamento Delegado (UE) 2026/131\n\n1. A lista de países terceiros ou territórios referida no artigo 17.º, n.º 1, alínea a), do Regulamento Delegado (UE) 2026/131 consta do anexo I do presente regulamento.\n\n2. A lista de países terceiros ou territórios referida no artigo 17.º, n.º 1, alínea b), do Regulamento Delegado (UE) 2026/131 consta do anexo II do presente regulamento."
+  },
+  "f136ea96e061c9f8": {
+   "fragment_id": "Artigo 2.º — Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131\n\nA lista de países terceiros ou territórios referida no artigo 28.º do Regulamento Delegado (UE) 2026/131 consta do anexo III do presente regulamento."
+  },
+  "326ed96fe01d0d6c": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável partir de 22 de abril de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 20 de março de 2026.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "b4ce177c56d5322c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202600636PT.000101-E0001) [JO L 84 de 31.3.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_084_R_TOC), ELI: [http://data.europa.eu/eli/reg/2016/429/oj](http://data.europa.eu/eli/reg/2016/429/oj).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202600636PT.000101-E0002) Regulamento (UE) n.º 576/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo à circulação sem caráter comercial de animais de companhia e que revoga o Regulamento (CE) n.º 998/2003 ([JO L 178 de 28.6.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_178_R_TOC), ELI: [http://data.europa.eu/eli/reg/2013/576/oj](http://data.europa.eu/eli/reg/2013/576/oj)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202600636PT.000101-E0003) Regulamento de Execução (UE) n.º 577/2013 da Comissão, de 28 de junho de 2013, relativo aos modelos de documentos de identificação para a circulação sem caráter comercial de cães, gatos e furões, ao estabelecimento de listas de territórios e países terceiros e aos requisitos em matéria de formato, configuração e línguas das declarações que atestam o cumprimento de determinadas condições previstas no Regulamento (UE) n.º 576/2013 do Parlamento Europeu e do Conselho ([JO L 178 de 28.6.2013, p. 109](http://publications.europa.eu/resource/oj/JOL_2013_178_R_TOC), ELI: [http://data.europa.eu/eli/reg_impl/2013/577/oj](http://data.europa.eu/eli/reg_impl/2013/577/oj)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202600636PT.000101-E0004) Regulamento de Execução (UE) 2026/705 da Comissão, de 20 de março de 2026, que estabelece os modelos de documentos de identificação e os modelos de declarações para a circulação sem caráter comercial de animais de companhia ([JO L, 2026/705, 27.3.2026, ELI: http://data.europa.eu/eli/reg_impl/2026/705/oj](https://data.europa.eu/eli/reg_impl/2026/705/oj)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202600636PT.000101-E0005) Regulamento de Delegado (UE) 2026/131 da Comissão, de 20 de janeiro de 2026, que complementa o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que diz respeito aos requisitos de saúde animal aplicáveis à circulação sem caráter comercial de animais de companhia ([JO L, 2026/131, 27.3.2026, ELI: http://data.europa.eu/eli/reg_del/2026/131/oj](https://data.europa.eu/eli/reg_del/2026/131/oj)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020.03/DOC_1#ntc6-L_202600636PT.000101-E0006) Regulamento Delegado (UE) 2021/1933 da Comissão, de 14 de julho de 2021, que complementa o Regulamento (UE) n.º 576/2013 do Parlamento Europeu e do Conselho no que diz respeito às regras aplicáveis à circulação sem caráter comercial de aves de companhia para um Estado-Membro a partir de um território ou país terceiro ([JO L 396 de 10.11.2021, p. 4](http://publications.europa.eu/resource/oj/JOL_2021_396_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2021/1933/oj](http://data.europa.eu/eli/reg_del/2021/1933/oj))."
+  },
+  "a5867d85b92e4153": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de março de 2026\n\nque adota listas de países terceiros ou territórios que cumprem determinadas condições para a circulação sem caráter comercial de animais de companhia\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "44998004eb580878": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável partir de 22 de abril de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "4a927c45205292a8": {
+   "fragment_id": "Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea a), do Regulamento Delegado (UE) 2026/131",
+   "type": "divisao",
+   "heading": "Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea a), do Regulamento Delegado (UE) 2026/131",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea a), do Regulamento Delegado (UE) 2026/131\n\nCódigo ISO País terceiro ou território\n\nAD Andorra\n\nCH Suíça\n\nFO Ilhas Faroé\n\nGI Gibraltar\n\nGL Gronelândia\n\nIS Islândia\n\nLI Listenstaine\n\nMC Mónaco\n\nSM São Marinho\n\nVA Estado da Cidade do Vaticano"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "cd4d25ec6a677ae2": {
+   "fragment_id": "Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea b), do Regulamento Delegado (UE) 2026/131",
+   "type": "divisao",
+   "heading": "Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea b), do Regulamento Delegado (UE) 2026/131",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea b), do Regulamento Delegado (UE) 2026/131\n\n| Código ISO | País terceiro ou território | Territórios incluídos |\n| --- | --- | --- |\n| AC | Ilha da Ascensão |  |\n| AE | Emirados Árabes Unidos |  |\n| AG | Antígua e Barbuda |  |\n| AR | Argentina |  |\n| AU | Austrália |  |\n| AW | Aruba |  |\n| BA | Bósnia-Herzegovina |  |\n| BB | Barbados |  |\n| BH | Barém |  |\n| BM | Bermudas |  |\n| BQ | Bonaire, Santo Eustáquio e Saba (Ilhas BES) |  |\n| CA | Canadá |  |\n| CL | Chile |  |\n| CW | Curaçau |  |\n| FJ | Fiji |  |\n| FK | Ilhas Falkland |  |\n| GB | Reino Unido [(^1^)](http://publications.europa.eu/resource/cellar/7eed7bdb-74c8-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1#E0001) |  |\n| GG | Guernesey |  |\n| HK | Hong Kong |  |\n| IM | Ilha de Man |  |\n| JM | Jamaica |  |\n| JP | Japão |  |\n| JE | Jersey |  |\n| KN | São Cristóvão e Neves |  |\n| KY | Ilhas Caimão |  |\n| LC | Santa Lúcia |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32026R1228) |  |  |\n| ME | Montenegro |  |\n| [▼B](http://publications.europa.eu/resource/celex/32026R0636) |  |  |\n| MS | Monserrate |  |\n| MK | Macedónia do Norte |  |\n| MU | Maurícia |  |\n| MX | México |  |\n| MY | Malásia |  |\n| NC | Nova Caledónia |  |\n| NZ | Nova Zelândia |  |\n| PF | Polinésia Francesa |  |\n| PM | São Pedro e Miquelão |  |\n| [▼M1](http://publications.europa.eu/resource/celex/32026R1228) |  |  |\n| RS | Sérvia |  |\n| [▼B](http://publications.europa.eu/resource/celex/32026R0636) |  |  |\n| SG | Singapura |  |\n| SH | Santa Helena |  |\n| SX | São Martinho (Sint Maarten) |  |\n| TT | Trindade e Tobago |  |\n| TW | Taiwan |  |\n| US | Estados Unidos da América | AS – Samoa Americana GU – Guame MP – Ilhas Marianas do Norte PR – Porto Rico VI – Ilhas Virgens Americanas |\n| VC | São Vicente e Granadinas |  |\n| VG | Ilhas Virgens Britânicas |  |\n| VU | Vanuatu |  |\n| WF | Wallis e Futuna |  |\n| (^1^) Em conformidade com o Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica, nomeadamente o artigo 5.º, n.º 4, do Quadro de Windsor [ver Declaração Comum n.º 1/2023 da União e do Reino Unido no Comité Misto criado pelo Acordo sobre a Saída do Reino Unido da Grã-Bretanha e da Irlanda do Norte da União Europeia e da Comunidade Europeia da Energia Atómica (JO L 102 de 17.4.2023, p. 87)], em conjugação com o anexo 2 desse quadro, para efeitos do presente anexo, as referências ao Reino Unido não incluem a Irlanda do Norte. |  |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "006b5ed09ffd8c5b": {
+   "fragment_id": "Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131",
+   "type": "divisao",
+   "heading": "Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131\n\nCódigo ISO País terceiro ou território\n\nAD Andorra\n\nCH Suíça\n\nFO Ilhas Faroé\n\nGI Gibraltar\n\nGL Gronelândia\n\nIS Islândia\n\nLI Listenstaine\n\nMC Mónaco\n\nSM São Marinho\n\nVA Estado da Cidade do Vaticano"
+  }
+ }
+}

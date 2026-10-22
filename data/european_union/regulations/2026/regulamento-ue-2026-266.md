@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-30'
+version_history:
+  file: regulamento-ue-2026-266.versoes.json
+  count: 1
+  source_lastmod: '2026-01-30'
+  versions:
+  - date: '2026-01-30'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026R0266
   eli: http://data.europa.eu/eli/reg/2026/266/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/267e551a-fd80-11f0-8da5-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c21d3cdb-3e39-11f1-814f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0266-20260130
-  retrieved_at: '2026-10-22T03:25:24Z'
+  retrieved_at: '2026-10-22T17:21:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-01-30T03:30:19.231+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:25:24Z'
-  notes: Texto consolidado 02026R0266-20260130.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:21:58Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2026-266.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -136,29 +145,19 @@ relationships:
   date: '2026-02-24'
 article_structure:
   article_count: 26
-  section_count: 38
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 39
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:25:24Z'
+  checked_at: '2026-10-22T17:21:58Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2026/266 do Conselho, de 26 de janeiro de 2026
-
-> 02026R0266 — PT — 30.01.2026 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026R0266R%2801%29) — [Rectificação, JO L 90160, 24.2.2026, p. 1 (2026/266)](http://publications.europa.eu/resource/celex/32026R0266R%2801%29)
-
-## REGULAMENTO (UE) 2026/266 DO CONSELHO
 
 de 26 de janeiro de 2026
 

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0351:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0351-20260219",
+ "dre_path": null,
+ "source_lastmod": "2026-02-19",
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "future": false,
+   "celex": "02026R0351-20260219",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "81875ce4e607b51e",
+    "dc39d274077f0f6c",
+    "5cdd191482277798",
+    "ad3642de7f11cf4b",
+    "96f9aa50b2665446",
+    "b40d23b39d41b61e"
+   ]
+  }
+ ],
+ "fragments": {
+  "81875ce4e607b51e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de fevereiro de 2026\n\nque renova a aprovação da substância ativa espinosade, em conformidade com o Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho, e que altera o Regulamento de Execução (UE) n.º 540/2011 da Comissão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "dc39d274077f0f6c": {
+   "fragment_id": "Artigo 1.º — Renovação da aprovação da substância ativa",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Renovação da aprovação da substância ativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Renovação da aprovação da substância ativa\n\nÉ renovada a aprovação da substância ativa espinosade, como especificada no anexo I do presente regulamento, nas condições estabelecidas no mesmo anexo."
+  },
+  "5cdd191482277798": {
+   "fragment_id": "Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011\n\nO anexo do Regulamento de Execução (UE) n.º 540/2011 é alterado em conformidade com o anexo II do presente regulamento."
+  },
+  "ad3642de7f11cf4b": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor e data de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor e data de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e data de aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de abril de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "96f9aa50b2665446": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/1df42aa6-6f9f-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0001) | Data de aprovação | Termo da aprovação | Disposições específicas |\n| --- | --- | --- | --- | --- | --- |\n| Espinosade N.º CAS: Espinosade: 168316-95-8 Espinosina A: 131929-60-7 Espinosina D: 131929-63-0 N.º CIPAC: 636 | Espinosina A: (50-95 %) (2*R*,3a*S*,5a *R*,5b*S*,9*S*,13*S*,14*R*,16a>*S*,16b*R*)-2- (6 - deoxi-2,3,4-tri-*O*-metil-α-L-manopiranosiloxi)-13-(4 - dimetilamino-2,3,4,6-tetradeoxi-β-D-eritropiranosiloxi)-9- etil-2,3,3a,5a,5b,6,7,9,10,11,12,13,14,15,16a,16b-hexadeca-hidro-14-metil-1*H*-as-indaceno-[3,2-d]oxaciclododecino-7,15-diona Espinosina D: (50-5 %) (2*R*,3a*R*,5a*S*,5b*S*,9*S*,13*S*,14*R*,16a*S*,16b*S*) - 2-(6-deoxi-2,3,4-tri-*O*-metil-α-L-manopiranosiloxi) - 13-(4-dimetilamino-2,3,4,6-tetradeoxi-β-D-eritropiranosiloxi) - 9- etil-2,3,3a,5a,5b,6,7,9,10,11,12,13,14,15,16a,16b-hexadeca-hidro-4,14-dimetil-1*H*-as-indaceno-[3,2-d]oxaciclododecino-7,15-diona | ≥ 850 g/kg com 50-95 % de espinosina A e 5-50 % de espinosina D | 1 de abril de 2026 | 1 de abril de 2041 | [**►C1**](http://publications.europa.eu/resource/celex/32026R0351R%2801%29) Na aplicação dos princípios uniformes referidos no artigo 29.º, n.º 6, do Regulamento (CE) n.º 1107/2009, devem ser tidas em conta as conclusões do relatório de renovação do espinosade, de 21 de janeiro de 2026, nomeadamente os apêndices I e II do relatório. **◄** Nessa avaliação global, os Estados-Membros devem estar particularmente atentos: — à avaliação da ingestão por parte dos consumidores, tendo em conta os resíduos dos metabolitos de espinosade e o impacto da armazenagem e da transformação, — à proteção dos operadores, em especial no caso de aplicações manuais em culturas baixas, — à proteção de mamíferos selvagens, organismos aquáticos, abelhas e artrópodes não visados. As condições de utilização devem incluir, se necessário, medidas de redução dos riscos. O requerente deve apresentar informações confirmatórias no que se refere: 1. A um estudo comparativo *in vitro* do metabolismo interespécies; 2. A uma avaliação global da neurotoxicidade para o desenvolvimento, incluindo a apresentação de dados de uma bateria de testes *in vitro* da neurotoxicidade para o desenvolvimento; 3. À toxicidade e magnitude dos resíduos de espinosina B e K, espinosina A e MET A-Li-4(5b) nas matrizes vegetais e animais a fim de confirmar as definições de resíduos no âmbito da avaliação dos riscos; 4. Ao efeito dos processos de tratamento da água na natureza dos resíduos presentes na água potável; 5. Aos efeitos crónicos nas abelhas (adultos e larvas). O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas nos pontos 1, 3 e 4 até 11 de março de 2028. O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas no ponto 2 no prazo de dois anos após a adoção de um documento de orientação sobre a avaliação da neurotoxicidade para o desenvolvimento. O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas no ponto 5 no prazo de dois anos após a adoção de um documento de orientação com uma metodologia revista de avaliação dos riscos para as abelhas. |\n| (^1^) O relatório de renovação fornece dados suplementares sobre a identidade e as especificações da substância ativa. |  |  |  |  |  |"
+  },
+  "b40d23b39d41b61e": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nO anexo do Regulamento de Execução (UE) n.º 540/2011 é alterado do seguinte modo:\n\n1) Na parte A, é suprimida a entrada 139 relativa ao espinosade.\n\n2) Na parte B, é aditada a seguinte entrada:\n\n| N.º | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/1df42aa6-6f9f-11f1-ae88-01aa75ed71a1.0020.02/DOC_1#E0002) | Data de aprovação | Termo da aprovação | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «177 | Espinosade N.º CAS: Espinosade: 168316-95-8 Espinosina A: 131929-60-7 Espinosina D: 131929-63-0 N.º CIPAC: 636 | Espinosina A: (50-95 %) (2*R*,3a*S*,5a*R*,5b*S*,9*S*,13*S*,14*R*,16a*S*,16b*R*) - 2-(6-deoxi-2,3,4-tri-*O*-metil-α-L- manopiranosiloxi) -13-(4-dimetilamino-2,3,4,6-tetradeoxi-β-D- eritropiranosiloxi)- 9-etil-2,3,3a,5a, 5b,6,7,9,10,11,12,13,14,15,16a,16b-hexadeca-hidro-14-metil-1*H*-as-indaceno-[3,2-d]oxaciclododecino-7,15-diona Espinosina D: (50-5 %) (2*R*,3a*R*,5a*S*,5b*S*,9*S*,13*S*,14*R*,16a*S*,16b*S*) - 2-(6-deoxi-2,3,4-tri-*O*-metil-α-L - manopiranosiloxi) -13-(4-dimetilamino-2,3,4,6-tetradeoxi-β-D -eritropiranosiloxi)- 9-etil-2,3,3a,5a, 5b,6,7,9,10,11,12,13,14,15,16a,16b-hexadeca-hidro-4,14-dimetil-1*H*-as-indaceno-[3,2-d]oxaciclododecino-7,15-diona | ≥ 850 g/kg com 50-95 % de espinosina A e 5-50 % de espinosina D | 1 de abril de 2026 | 1 de abril de 2041 | [**►C1**](http://publications.europa.eu/resource/celex/32026R0351R%2801%29) Na aplicação dos princípios uniformes referidos no artigo 29.º, n.º 6, do Regulamento (CE) n.º 1107/2009, devem ser tidas em conta as conclusões do relatório de renovação do espinosade, de 21 de janeiro de 2026, nomeadamente os apêndices I e II do relatório. **◄** Nessa avaliação global, os Estados-Membros devem estar particularmente atentos: — à avaliação da ingestão por parte dos consumidores, tendo em conta os resíduos dos metabolitos de espinosade e o impacto da armazenagem e da transformação, — à proteção dos operadores, em especial no caso de aplicações manuais em culturas baixas, — à proteção de mamíferos selvagens, organismos aquáticos, abelhas e artrópodes não visados. As condições de utilização devem incluir, se necessário, medidas de redução dos riscos. O requerente deve apresentar informações confirmatórias no que se refere: 1. A um estudo comparativo *in vitro* do metabolismo interespécies; 2. A uma avaliação global da neurotoxicidade para o desenvolvimento, incluindo a apresentação de dados de uma bateria de testes *in vitro* da neurotoxicidade para o desenvolvimento; 3. À toxicidade e magnitude dos resíduos de espinosina B e K, espinosina A e MET A-Li-4(5b) nas matrizes vegetais e animais a fim de confirmar as definições de resíduos no âmbito da avaliação dos riscos; 4. Ao efeito dos processos de tratamento da água na natureza dos resíduos presentes na água potável; 5. Aos efeitos crónicos nas abelhas (adultos e larvas). O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas nos pontos 1, 3 e 4 até 11 de março de 2028. O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas no ponto 2 no prazo de dois anos após a adoção de um documento de orientação sobre a avaliação da neurotoxicidade para o desenvolvimento. O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas no ponto 5 no prazo de dois anos após a adoção de um documento de orientação com uma metodologia revista de avaliação dos riscos para as abelhas.» |\n| (^1^) O relatório de renovação fornece dados suplementares sobre a identidade e as especificações da substância ativa. |  |  |  |  |  |  |"
+  }
+ }
+}

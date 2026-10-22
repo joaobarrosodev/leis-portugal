@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0312:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0312-20260211",
+ "dre_path": null,
+ "source_lastmod": "2026-02-11",
+ "versions": [
+  {
+   "date": "2026-02-11",
+   "future": false,
+   "celex": "02026R0312-20260211",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "375e0644c030b137",
+    "09bcd83ffa2723d1",
+    "5cdd191482277798",
+    "f491674aa4213b1f",
+    "ba77630c175f8ec4",
+    "2caaac562b06dec8"
+   ]
+  }
+ ],
+ "fragments": {
+  "375e0644c030b137": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de fevereiro de 2026\n\nque renova a aprovação da substância ativa maltodextrina como substância ativa de baixo risco, em conformidade com o Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho, e que altera o Regulamento de Execução (UE) n.º 540/2011 da Comissão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "09bcd83ffa2723d1": {
+   "fragment_id": "Artigo 1.º — Renovação da aprovação da substância ativa",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Renovação da aprovação da substância ativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Renovação da aprovação da substância ativa\n\nÉ renovada a aprovação da substância ativa maltodextrina, como especificada no anexo I do presente regulamento, nas condições estabelecidas no mesmo anexo."
+  },
+  "5cdd191482277798": {
+   "fragment_id": "Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011\n\nO anexo do Regulamento de Execução (UE) n.º 540/2011 é alterado em conformidade com o anexo II do presente regulamento."
+  },
+  "f491674aa4213b1f": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor e data de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor e data de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e data de aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 3 de março de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "ba77630c175f8ec4": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/b82ce6c1-5942-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1#E0001) | Data de aprovação | Termo da aprovação | Disposições específicas |\n| --- | --- | --- | --- | --- | --- |\n| Maltodextrina N.º CAS: 9050-36-6 N.º CIPAC: 801 | Nenhuma atribuída | ≥ 853 g/kg de maltodextrina com cadeias com um comprimento de 3 a 20 unidades monoméricas; com equivalência de dextrose (ED) de 18-20. | 3 de março de 2026 | 3 de março de 2041 | Na aplicação dos princípios uniformes referidos no artigo 29.º, n.º 6, do Regulamento (CE) n.º 1107/2009, devem ser tidas em conta as conclusões do relatório de renovação da maltodextrina, de 11 de dezembro de 2025, nomeadamente os apêndices I e II do relatório. Na avaliação global, os Estados-Membros devem estar particularmente atentos à proteção das abelhas. As condições de utilização devem incluir, se necessário, medidas de redução dos riscos. |\n| (^1^) O relatório de renovação fornece dados suplementares sobre a identidade e as especificações da substância ativa. |  |  |  |  |  |"
+  },
+  "2caaac562b06dec8": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nO anexo do Regulamento de Execução (UE) n.º 540/2011 é alterado do seguinte modo:\n\n1) Na parte B, é suprimida a entrada 44 relativa à maltodextrina.\n\n2) Na parte D, é aditada a seguinte entrada:\n\n| N.º | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/b82ce6c1-5942-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1#E0002) | Data de aprovação | Termo da aprovação | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «57 | Maltodextrina N.º CAS: 9050-36-6 N.º CIPAC: 801 | Nenhuma atribuída | ≥ 853 g/kg de maltodextrina com cadeias com um comprimento de 3 a 20 unidades monoméricas; com equivalência de dextrose (ED) de 18-20. | 3 de março de 2026 | 3 de março de 2041 | Na aplicação dos princípios uniformes referidos no artigo 29.º, n.º 6, do Regulamento (CE) n.º 1107/2009, devem ser tidas em conta as conclusões do relatório de renovação da maltodextrina, de 11 de dezembro de 2025, nomeadamente os apêndices I e II do relatório. Na avaliação global, os Estados-Membros devem estar particularmente atentos à proteção das abelhas. As condições de utilização devem incluir, se necessário, medidas de redução dos riscos.» |\n| (^1^) O relatório de renovação fornece dados suplementares sobre a identidade e as especificações da substância ativa. |  |  |  |  |  |  |"
+  }
+ }
+}

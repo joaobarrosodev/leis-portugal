@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-30'
+version_history:
+  file: regulamento-ue-2026-530.versoes.json
+  count: 2
+  source_lastmod: '2026-07-30'
+  versions:
+  - date: '2026-03-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-30'
+    amending: eu:celex:32026R1803:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1803 DA COMISSÃO de 24 de julho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita Lista da legislação da União referida no artigo 2.º, n.º 1, que enumera as zonas e os períodos regulamentados
 identifiers:
   celex: 32026R0530
   eli: http://data.europa.eu/eli/reg_impl/2026/530/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aacfc018-1ceb-11f1-8c3a-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/e261130a-a6b5-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0530-20260730
-  retrieved_at: '2026-10-22T03:31:44Z'
+  retrieved_at: '2026-10-22T17:22:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-03-11T02:55:18.110+01:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:31:44Z'
-  notes: Texto consolidado 02026R0530-20260730.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:22:33Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2026-530.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,29 +163,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/82365385-3a92-11f0-8a44-01aa75ed71a1
 article_structure:
   article_count: 5
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:31:44Z'
+  checked_at: '2026-10-22T17:22:33Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2026/530 da Comissão, de 10 de março de 2026
-
-> 02026R0530 — PT — 30.07.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R1803) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1803 DA COMISSÃO de 24 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1803) — L 1803 — 1 — 27.7.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2026/530 DA COMISSÃO
 
 de 10 de março de 2026
 

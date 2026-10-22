@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0355:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0355-20260219",
+ "dre_path": null,
+ "source_lastmod": "2026-02-19",
+ "versions": [
+  {
+   "date": "2026-02-19",
+   "future": false,
+   "celex": "02026R0355-20260219",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "53631da5a812c59d",
+    "9661e5ff4b68a16c",
+    "5cdd191482277798",
+    "8faf15910aa60e9d",
+    "30c9f12599bb46a5",
+    "ae555c3fd60ca044"
+   ]
+  }
+ ],
+ "fragments": {
+  "53631da5a812c59d": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 18 de fevereiro de 2026\n\nque renova a aprovação da substância ativa pirimetanil, em conformidade com o Regulamento (CE) n.º 1107/2009 do Parlamento Europeu e do Conselho, e que altera o Regulamento de Execução (UE) n.º 540/2011 da Comissão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "9661e5ff4b68a16c": {
+   "fragment_id": "Artigo 1.º — Renovação da aprovação da substância ativa",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Renovação da aprovação da substância ativa",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Renovação da aprovação da substância ativa\n\nÉ renovada a aprovação da substância ativa pirimetanil, como especificada no anexo I do presente regulamento, nas condições estabelecidas no mesmo anexo."
+  },
+  "5cdd191482277798": {
+   "fragment_id": "Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Alterações do Regulamento de Execução (UE) n.º 540/2011\n\nO anexo do Regulamento de Execução (UE) n.º 540/2011 é alterado em conformidade com o anexo II do presente regulamento."
+  },
+  "8faf15910aa60e9d": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor e data de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor e data de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e data de aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 1 de maio de 2026.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "30c9f12599bb46a5": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I\n\n| Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/011c1140-5948-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1#E0001) | Data de aprovação | Termo da aprovação | Disposições específicas |\n| --- | --- | --- | --- | --- | --- |\n| Pirimetanil N.º CAS: 53112-28-0 N.º CIPAC: 714 | *N*-(4,6-dimetilpirimidin-2-il)anilina | ≥ 975 g/kg As seguintes impurezas não podem exceder os teores indicados no produto técnico: — cianamida: 0,5 g/kg, — anilina: 4 g/kg, — acetilacetona: 0,1 g/kg. | 1 de maio de 2026 | 30 de abril de 2041 | Na aplicação dos princípios uniformes referidos no artigo 29.º, n.º 6, do Regulamento (CE) n.º 1107/2009, devem ser tidas em conta as conclusões do relatório de renovação do pirimetanil, nomeadamente os apêndices I e II do relatório. Nessa avaliação global, os Estados-Membros devem estar particularmente atentos: — à proteção dos operadores, garantindo que as condições de utilização prescrevem o uso de equipamento de proteção individual adequado, — à proteção das pessoas que se encontrem nas proximidades e dos residentes, assegurando a aplicação de medidas de redução da dispersão, quando necessário, — à proteção dos organismos aquáticos, das abelhas e de outros polinizadores. As condições de utilização devem incluir, se necessário, medidas de redução dos riscos. O requerente deve apresentar informações confirmatórias no que se refere: 1. À toxicidade do metabolito M605F004, incluindo os seus conjugados, e do metabolito M605F007, a fim de confirmar as definições de resíduos pertinentes para a avaliação dos riscos; 2. Ao efeito dos processos de tratamento da água nos resíduos de pirimetanil ou nos seus metabolitos presentes na água captada para a produção de água potável, em conformidade com o documento de orientação da EFSA e da ECHA «Guidance document on the impact of water treatment processes on residues of active substances or their metabolites in water abstracted for the production of drinking water»; 3. À degradação do pirimetanil no solo, incluindo, se for caso disso, a identificação e caracterização dos metabolitos. Se as informações indicarem a pertinência do metabolito U2, deve ser apresentada uma avaliação dos riscos e da exposição do solo, da águas de superfície, dos sedimentos e das águas subterrâneas para o metabolito U2. O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas nos pontos 1, 2 e 3 até 11 de março de 2028. |\n| (^1^) O relatório de renovação fornece dados suplementares sobre a identidade e as especificações da substância ativa. |  |  |  |  |  |"
+  },
+  "ae555c3fd60ca044": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\nO anexo do Regulamento de Execução (UE) n.º 540/2011 é alterado do seguinte modo:\n\n1) Na parte A, é suprimida a entrada 135 relativa ao pirimetanil.\n\n2) Na parte B, é aditada a seguinte entrada:\n\n| N.º | Denominação comum; números de identificação | Denominação IUPAC | Pureza [(^1^)](http://publications.europa.eu/resource/cellar/011c1140-5948-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1#E0002) | Data de aprovação | Termo da aprovação | Disposições específicas |\n| --- | --- | --- | --- | --- | --- | --- |\n| «179 | Pirimetanil N.º CAS: 53112-28-0 N.º CIPAC: 714 | *N*-(4,6-dimetilpirimidin-2-il)anilina | ≥ 975 g/kg As seguintes impurezas não podem exceder os teores indicados no produto técnico: — cianamida: 0,5 g/kg, — anilina: 4 g/kg, — acetilacetona: 0,1 g/kg. | 1 de maio de 2026 | 30 de abril de 2041 | Na aplicação dos princípios uniformes referidos no artigo 29.º, n.º 6, do Regulamento (CE) n.º 1107/2009, devem ser tidas em conta as conclusões do relatório de renovação do pirimetanil, nomeadamente os apêndices I e II do relatório. Nessa avaliação global, os Estados-Membros devem estar particularmente atentos: — à proteção dos operadores, garantindo que as condições de utilização prescrevem o uso de equipamento de proteção individual adequado, — à proteção das pessoas que se encontrem nas proximidades e dos residentes, assegurando a aplicação de medidas de redução da dispersão, quando necessário, — à proteção dos organismos aquáticos, das abelhas e de outros polinizadores. As condições de utilização devem incluir, se necessário, medidas de redução dos riscos. O requerente deve apresentar informações confirmatórias no que se refere: 1. À toxicidade do metabolito M605F004, incluindo os seus conjugados, e do metabolito M605F007, a fim de confirmar as definições de resíduos pertinentes para a avaliação dos riscos; 2. Ao efeito dos processos de tratamento da água nos resíduos de pirimetanil ou nos seus metabolitos presentes na água captada para a produção de água potável, em conformidade com o documento de orientação da EFSA e da ECHA “Guidance document on the impact of water treatment processes on residues of active substances or their metabolites in water abstracted for the production of drinking water”; 3. À degradação do pirimetanil no solo, incluindo, se for caso disso, a identificação e caracterização dos metabolitos. Se as informações indicarem a pertinência do metabolito U2, deve ser apresentada uma avaliação dos riscos e da exposição do solo, das águas de superfície, dos sedimentos e das águas subterrâneas para o metabolito U2. O requerente deve apresentar à Comissão, aos Estados-Membros e à Autoridade as informações referidas nos pontos 1, 2 e 3 até 11 de março de 2028.» |\n| (^1^) O relatório de renovação fornece dados suplementares sobre a identidade e as especificações da substância ativa. |  |  |  |  |  |  |"
+  }
+ }
+}

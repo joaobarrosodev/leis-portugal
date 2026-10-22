@@ -38,6 +38,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-15'
+version_history:
+  file: regulamento-ue-2026-154.versoes.json
+  count: 2
+  source_lastmod: '2026-02-15'
+  versions:
+  - date: '2026-01-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-02-15'
+    amending: eu:celex:32026R1751:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1751 DA COMISSÃO de 20 de julho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Entrada em vigor
+    - Adita Artigo 3.º-A — Medidas transitórias
+    - Adita ANEXO Ι
+    - Adita ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32026R0154
   eli: http://data.europa.eu/eli/reg_impl/2026/154/oj
@@ -52,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/48f366f0-fa64-11f0-8da5-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/63ab620f-a0ef-11f1-b25c-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0154-20260215
-  retrieved_at: '2026-10-22T03:24:01Z'
+  retrieved_at: '2026-10-22T17:21:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-01-26T04:53:15.843+01:00'
 integrity:
@@ -61,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:24:01Z'
-  notes: Texto consolidado 02026R0154-20260215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:21:43Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2026-154.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -102,28 +121,18 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:24:01Z'
+  checked_at: '2026-10-22T17:21:43Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2026/154 da Comissão, de 23 de janeiro de 2026
-
-> 02026R0154 — PT — 15.02.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R1751) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1751 DA COMISSÃO de 20 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1751) — L 1751 — 1 — 21.7.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2026/154 DA COMISSÃO
 
 de 23 de janeiro de 2026
 

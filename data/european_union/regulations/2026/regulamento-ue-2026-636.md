@@ -36,6 +36,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-19'
+version_history:
+  file: regulamento-ue-2026-636.versoes.json
+  count: 2
+  source_lastmod: '2026-06-19'
+  versions:
+  - date: '2026-03-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-06-19'
+    amending: eu:celex:32026R1228:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1228 DA COMISSÃO de 11 de junho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Entrada em vigor e aplicação
+    - Adita ANEXO I
+    - Adita Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea a), do Regulamento Delegado
+      (UE) 2026/131
+    - Adita ANEXO II
+    - Adita Lista de países terceiros ou territórios a que se refere o artigo 17.º, n.º 1, alínea b), do Regulamento Delegado
+      (UE) 2026/131
+    - Adita ANEXO III
+    - Adita Lista de países terceiros ou territórios a que se refere o artigo 28.º do Regulamento Delegado (UE) 2026/131
+    - Suprime Notas
 identifiers:
   celex: 32026R0636
   eli: http://data.europa.eu/eli/reg_impl/2026/636/oj
@@ -50,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6a22e3e3-2980-11f1-8803-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/7eed7bdb-74c8-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0636-20260619
-  retrieved_at: '2026-10-22T03:34:49Z'
+  retrieved_at: '2026-10-22T17:22:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-03-27T03:12:18.907+01:00'
 integrity:
@@ -59,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:34:49Z'
-  notes: Texto consolidado 02026R0636-20260619.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:22:41Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2026-636.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,28 +140,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:34:49Z'
+  checked_at: '2026-10-22T17:22:41Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2026/636 da Comissão, de 20 de março de 2026
-
-> 02026R0636 — PT — 19.06.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R1228) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1228 DA COMISSÃO de 11 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1228) — L 1228 — 1 — 12.6.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2026/636 DA COMISSÃO
 
 de 20 de março de 2026
 

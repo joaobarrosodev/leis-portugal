@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-19'
+version_history:
+  file: regulamento-ue-2026-355.versoes.json
+  count: 1
+  source_lastmod: '2026-02-19'
+  versions:
+  - date: '2026-02-19'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026R0355
   eli: http://data.europa.eu/eli/reg_impl/2026/355/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c6aaa08f-0d33-11f1-8870-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/011c1140-5948-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0355-20260219
-  retrieved_at: '2026-10-22T03:27:54Z'
+  retrieved_at: '2026-10-22T17:22:11Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-19T03:02:16.548+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:27:54Z'
-  notes: Texto consolidado 02026R0355-20260219.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:22:11Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2026-355.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -116,28 +125,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:27:54Z'
+  checked_at: '2026-10-22T17:22:11Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2026/355 da Comissão, de 18 de fevereiro de 2026
-
-> 02026R0355 — PT — 19.02.2026 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026R0355R%2801%29) — [Rectificação, JO L 90340, 30.4.2026, p. 1 ((UE) 2026/3552026/355)](http://publications.europa.eu/resource/celex/32026R0355R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2026/355 DA COMISSÃO
 
 de 18 de fevereiro de 2026
 

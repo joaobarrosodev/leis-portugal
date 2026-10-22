@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026R0916:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026R0916-20260428",
+ "dre_path": null,
+ "source_lastmod": "2026-04-28",
+ "versions": [
+  {
+   "date": "2026-04-28",
+   "future": false,
+   "celex": "02026R0916-20260428",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "c469355276c50bec",
+    "c10eef6f1a3d93a3",
+    "90b9733320e09542",
+    "5911e2a8c671f970",
+    "68b6f0d974592260",
+    "10220b9774fa9034",
+    "832b46624f990284"
+   ]
+  }
+ ],
+ "fragments": {
+  "c469355276c50bec": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 27 de abril de 2026\n\nque institui um direito *anti-dumping* provisório sobre as importações de proteína de ervilha originária da República Popular da China"
+  },
+  "c10eef6f1a3d93a3": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. É instituído um direito *anti-dumping* provisório sobre as importações de proteína de ervilha de elevado valor proteico, que contém mais de 65 % de proteína com base no peso seco, abrangendo todos os tipos de proteína de ervilha proveniente de ervilhas (incluindo, entre outras, ervilha-forrageira-amarela e ervilha-forrageira-verde), em todas as formas físicas [incluindo formas sólidas (por exemplo, em pó) e (soluções) líquidas], mesmo texturizadas, atualmente classificada nos seguintes códigos NC e TARIC e nos códigos adicionais TARIC enunciados no n.º 2 e no anexo do presente regulamento:\n\nex 3504 00 90 (código TARIC 3504 00 90 91 ),\n\nex 2106 10 20 (código TARIC 2106 10 20 40 ),\n\nex 2106 10 80 (códigos TARIC 2106 10 80 31, 2106 10 80 39 e 2106 10 80 71 ),\n\nex 2106 90 92 (código TARIC 2106 90 92 75 ),\n\nex 2303 10 90 (código TARIC 2303 10 90 10 ),\n\nex 2309 10 11, ex 2309 10 13, ex 2309 10 15, ex 2309 10 19, ex 2309 10 31, ex 2309 10 33, ex 2309 10 39, ex 2309 10 51, ex 2309 10 53, ex 2309 10 59, ex 2309 10 70, ex 2309 10 90, ex 2309 90 10, e ex 2309 90 20,\n\nex 2309 90 31 (códigos TARIC 2309 90 31 12, 2309 90 31 14, 2309 90 31 17, 2309 90 31 19, 2309 90 31 30, 2309 90 31 81 e 2309 90 31 91 ),\n\nex 2309 90 33, ex 2309 90 35, ex 2309 90 39, ex 2309 90 41, ex 2309 90 43, ex 2309 90 49, ex 2309 90 51, ex 2309 90 53, ex 2309 90 59, ex 2309 90 70, e ex 2309 90 91,\n\nex 2309 90 96 (códigos TARIC 2309 90 96 31, 2309 90 96 39, 2309 90 96 91 e 2309 90 96 95 ),\n\ne originário da República Popular da China.\n\n2.\n\nAs taxas do direito *anti-dumping* provisório aplicáveis ao preço líquido, franco-fronteira da União do produto não desalfandegado, no que respeita ao produto referido no n.º 1 e produzido pelas empresas a seguir indicadas, são as seguintes:\n\n| País de origem | Empresa | Direito *anti-dumping* provisório | Código adicional TARIC |\n| --- | --- | --- | --- |\n| República Popular da China | Grupo Sanjia: — Jiujiang Tiantai Food Co., Ltd. — Yantai Oriental Protein Tech Co., Ltd | 40,5 % | 88BQ |\n| Yantai Shuangta Food Co. Ltd. | 67,4 % | 88BR |  |\n| Outras empresas que colaboraram no inquérito, constantes da lista do anexo | 40,5 % | Ver anexo |  |\n| Todas as outras importações originárias da República Popular da China | 67,4 % | 88ZZ |  |\n\n3. A aplicação das taxas do direito individual previstas para as empresas mencionadas no n.º 2 está subordinada à apresentação, às autoridades aduaneiras dos Estados-Membros, de uma fatura comercial válida, que deve incluir uma declaração datada e assinada por um responsável da entidade que emitiu a fatura, identificado pelo seu nome e função, com a seguinte redação: *«Eu, abaixo assinado(a), certifico que o (volume em toneladas) de proteína de ervilha vendido para exportação para a União Europeia e abrangido pela presente fatura foi produzido por (firma e endereço) (código adicional TARIC) na República Popular da China. Declaro que a informação prestada na presente fatura é completa e exata.»* Até à apresentação dessa fatura, aplica-se o direito aplicável a todas as outras importações originárias da República Popular da China.\n\n4. A introdução em livre prática na União do produto referido no n.º 1 fica sujeita à constituição de um depósito equivalente ao montante do direito provisório.\n\n5. Salvo indicação em contrário, são aplicáveis as disposições em vigor em matéria de direitos aduaneiros."
+  },
+  "90b9733320e09542": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. As partes interessadas devem apresentar as suas observações sobre o presente regulamento, por escrito, à Comissão no prazo de 15 dias de calendário a contar da data de entrada em vigor do presente regulamento.\n\n2. As partes interessadas que desejem solicitar uma audição à Comissão devem fazê-lo no prazo de cinco dias de calendário a contar da data de entrada em vigor do presente regulamento.\n\n3. As partes interessadas que desejem solicitar uma audição ao conselheiro auditor em matéria de processos comerciais são convidadas a fazê-lo no prazo de cinco dias de calendário a contar da data de entrada em vigor do presente regulamento. O conselheiro auditor pode examinar os pedidos apresentados fora deste prazo e pode decidir se aceita ou não esses pedidos, se for caso disso."
+  },
+  "5911e2a8c671f970": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. As autoridades aduaneiras são instruídas no sentido de cessar o registo das importações, estabelecido em conformidade com o artigo 1.º do Regulamento de Execução (UE) 2025/2144.\n\n2. Os dados recolhidos relativamente aos produtos destinados ao consumo que tenham sido importados na União no máximo 90 dias antes da data de entrada em vigor do presente regulamento são conservados até ao momento da entrada em vigor das eventuais medidas definitivas, ou até ao encerramento do presente processo."
+  },
+  "68b6f0d974592260": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "832b46624f990284": {
+   "fragment_id": "Outros produtores-exportadores que colaboraram no inquérito não incluídos na amostra",
+   "type": "divisao",
+   "heading": "Outros produtores-exportadores que colaboraram no inquérito não incluídos na amostra",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Outros produtores-exportadores que colaboraram no inquérito não incluídos na amostra\n\n| País | Firma | Código adicional TARIC |\n| --- | --- | --- |\n| República Popular da China | Anhui Wanshen Biotechnology Co., Ltd | 88BS |\n| Grupo Jianyuan: — HENGYUAN BIOTECHNOLOGY CO., LTD, — JIANYUAN INTERNATIONAL CO., LTD | 88BT |  |\n| Linyi Yuwang Vegetable Protein Co., Ltd | 88BU |  |\n| SHANDONG FURUN BIOTECHNOLOGY CO., LTD | 88BV |  |\n| SHANDONG HUA-THAI FOODPRODUCTS CO., LTD | 88BW |  |\n| Shandong Jindu Talin Foods Co., Ltd | 88BX |  |\n| YANTAI T.FULL BIOTECH CO., LTD | 88BY |  |\n| [**►C1**](http://publications.europa.eu/resource/celex/32026R0916R%2801%29) Yosin Biotechnology (Yantai) Co., Ltd.**◄** | [**►C1**](http://publications.europa.eu/resource/celex/32026R0916R%2801%29) 88BZ**◄** |  |\n| ZHAOYUAN XIRIBEN FOOD STUFF CO., LTD | 88CA |  |"
+  }
+ }
+}
