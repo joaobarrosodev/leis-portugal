@@ -35,6 +35,33 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2010-07-28'
+version_history:
+  file: diretiva-ue-2009-40.versoes.json
+  count: 2
+  source_lastmod: '2010-07-28'
+  versions:
+  - date: '2009-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-28'
+    amending: eu:celex:32010L0048:por
+    amending_title: DIRECTIVA 2010/48/UE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Julho de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita PONTOS DE CONTROLO OBRIGATÓRIOS
+    - Adita 1. INTRODUÇÃO
+    - Adita 2. ÂMBITO DA INSPECÇÃO
+    - Adita 3. CERTIFICADO DE CONTROLO TÉCNICO
+    - Adita 4. REQUISITOS MÍNIMOS DE INSPECÇÃO
+    - Adita ANEXO III
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO IV
 identifiers:
   celex: 32009L0040
   eli: http://data.europa.eu/eli/dir/2009/40/oj
@@ -49,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6cb190c9-eef0-4a48-8f63-a8d0f8152c30.0018
   content_url: http://publications.europa.eu/resource/cellar/50c15e81-39b8-4eef-b446-1d20e4567160.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0040-20100728
-  retrieved_at: '2026-10-22T02:40:43Z'
+  retrieved_at: '2026-10-22T15:36:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T17:22:03.125+02:00'
 integrity:
@@ -58,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:43Z'
-  notes: Texto consolidado 02009L0040-20100728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:43Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-40.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -178,29 +205,19 @@ relationships:
   source: null
 article_structure:
   article_count: 12
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:43Z'
+  checked_at: '2026-10-22T15:36:43Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/40/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009
-
-> 2009L0040 — PT — 28.07.2010 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010L0048) — [DIRECTIVA 2010/48/UE DA COMISSÃO Texto relevante para efeitos do EEE de 5 de Julho de 2010](http://publications.europa.eu/resource/celex/32010L0048) — L 173 — 47 — 8.7.2010
-
-## DIRECTIVA 2009/40/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Maio de 2009
 

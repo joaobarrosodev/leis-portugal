@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-05'
+version_history:
+  file: diretiva-ue-2009-21.versoes.json
+  count: 1
+  source_lastmod: '2025-01-05'
+  versions:
+  - date: '2025-01-05'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32009L0021
   eli: http://data.europa.eu/eli/dir/2009/21/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9a624803-ab00-46ff-ad41-cdb62b40f82c.0018
   content_url: http://publications.europa.eu/resource/cellar/7d178b20-0f15-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0021-20250105
-  retrieved_at: '2026-10-22T02:48:07Z'
+  retrieved_at: '2026-10-22T15:35:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T03:30:20.117+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:07Z'
-  notes: Texto consolidado 02009L0021-20250105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:48Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2009-21.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -131,29 +140,20 @@ relationships:
   date: '2024-03-15'
 article_structure:
   article_count: 20
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:07Z'
-  warnings: []
+  checked_at: '2026-10-22T15:35:48Z'
+  warnings:
+  - '02009L0021-20090528: versão indisponível (Sem expressão na língua por para CELEX 02009L0021-20090528.)'
   errors: []
 ---
 
 # Directiva 2009/21/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0021 — PT — 05.01.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L3100) — [DIRETIVA (UE) 2024/3100 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L3100) — L 3100 — 1 — 16.12.2024
-
-## DIRECTIVA 2009/21/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

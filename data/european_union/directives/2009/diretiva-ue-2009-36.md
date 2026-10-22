@@ -34,6 +34,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2013-07-11'
+version_history:
+  file: diretiva-ue-2009-36.versoes.json
+  count: 3
+  source_lastmod: '2013-07-11'
+  versions:
+  - date: '2009-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-05-07'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
+  - date: '2013-07-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º
+    - Suprime Artigo 2.º
+    - Suprime Artigo 3.º
+    - Suprime Artigo 4.º
+    - Suprime ANEXO
+    - Suprime Notas
 identifiers:
   celex: 32009L0036
   eli: http://data.europa.eu/eli/dir/2009/36/oj
@@ -48,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab922018-c3ec-4c84-81fe-37ac53abdcf0.0018
   content_url: http://publications.europa.eu/resource/cellar/1e035197-1ae4-45ca-a3f3-d9473674f715.0014.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0036-20130711
-  retrieved_at: '2026-10-22T03:14:17Z'
+  retrieved_at: '2026-10-22T15:36:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T00:21:19.114+02:00'
 integrity:
@@ -57,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:17Z'
-  notes: Texto consolidado 02009L0036-20130711.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:34Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-36.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -100,16 +128,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:17Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:36:34Z'
+  warnings: []
   errors: []
 ---
 

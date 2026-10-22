@@ -35,6 +35,225 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-05'
+version_history:
+  file: diretiva-ue-2009-16.versoes.json
+  count: 8
+  source_lastmod: '2025-01-05'
+  versions:
+  - date: '2009-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-06-17'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Comunicação de chegada do navio
+    - Altera Artigo 10.º — Perfil de risco de um navio
+    - Altera Artigo 11.º — Frequência das inspecções
+    - Altera Artigo 13.º — Inspecções inicial e aprofundada
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 25.º — Intercâmbio de informações e cooperação
+    - Altera Artigo 31.º — Procedimento de comité
+    - Altera Artigo 39.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ELEMENTOS DO REGIME COMUNITÁRIO DE INSPECÇÃO PELO ESTADO DO PORTO
+    - Adita (a que se refere o artigo 5.º)
+    - Adita I. Perfil de risco do navio
+    - Adita 1. Parâmetros genéricos
+    - Adita 2. Parâmetros históricos
+    - Adita II. Inspecção dos navios
+    - Adita 1. Inspecções periódicas
+    - Adita 2. Inspecções adicionais
+    - Adita 2A. Factores prevalecentes
+    - Adita 2B. Factores imprevistos
+    - Adita 3. Método de selecção
+    - 'Adita 3A. Os navios da Prioridade I serão inspeccionados do seguinte modo:'
+    - 'Adita 3B. Caso a autoridade competente decida inspeccionar um navio da Prioridade II, aplica-se o seguinte:'
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita COMUNICAÇÃO
+    - Adita (a que se refere o n.º 1 do artigo 9.º)
+    - Adita ANEXO IV
+    - Adita LISTA DE CERTIFICADOS E DOCUMENTOS)
+    - Adita (a que se refere o n.º 1 do artigo 13.º
+    - Adita ANEXO V
+    - Adita EXEMPLOS DE «MOTIVOS INEQUÍVOCOS»
+    - Adita (a que se refere o n.º 3 do artigo 13.º)
+    - Adita A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - Adita B. Exemplos de motivos inequívocos para o controlo dos navios em aspectos ligados à protecção do transporte marítimo
+    - Adita ANEXO VI
+  - date: '2013-08-20'
+    amending: eu:celex:32013L0038:por
+    amending_title: DIRETIVA 2013/38/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 12 de agosto
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 8.º — Adiamento de inspecções e circunstâncias excepcionais
+    - Altera Artigo 9.º — Comunicação de chegada do navio
+    - Altera Artigo 10.º — Perfil de risco de um navio
+    - Altera Artigo 14.º — Inspecções alargadas
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 17.º — Relatório de inspecção para o comandante
+    - Altera Artigo 18.º — Denúncias
+    - Altera Artigo 19.º — Correcção das anomalias e detenção
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 23.º — Relatórios dos pilotos e das autoridades portuárias
+    - Altera Artigo 25.º — Intercâmbio de informações e cooperação
+    - Altera Artigo 27.º — Publicação da lista de companhias com um nível de desempenho baixo e muito baixo
+    - Altera Artigo 33.º — Regras de execução
+    - Altera 2B. Factores imprevistos
+    - Altera (a que se refere o n.º 1 do artigo 13.º
+    - Altera A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - Altera 2. Aplicação dos critérios principais
+    - Altera 1.1. Número de inspectores ao seu serviço no quadro da inspecção pelo Estado do porto
+    - Altera Notas
+    - Adita Artigo 18.º-A — Procedimentos de tramitação em terra de queixas relativas à CTM 2006
+    - Adita Artigo 30.º-A — Atos delegados
+    - Adita Artigo 30.º-B — Exercício da delegação
+    - Adita Artigo 31.º — Comité
+    - Suprime Artigo 31.º — Procedimento de comité
+    - Suprime Artigo 32.º — Procedimento de alteração
+  - date: '2015-07-01'
+    amending: eu:celex:32015R0757:por
+    amending_title: REGULAMENTO (UE) 2015/757 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Comunicação de chegada do navio
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 25.º — Intercâmbio de informações e cooperação
+    - Altera Artigo 31.º — Comité
+    - Altera (a que se refere o n.º 1 do artigo 13.º
+    - Altera A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - Altera 1.1. Número de inspectores ao seu serviço no quadro da inspecção pelo Estado do porto
+    - Altera Notas
+  - date: '2015-12-31'
+    amending: eu:celex:32013R1257:por
+    amending_title: REGULAMENTO (UE) N. o 1257/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de novembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Comunicação de chegada do navio
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 25.º — Intercâmbio de informações e cooperação
+    - Altera Artigo 31.º — Comité
+    - Altera (a que se refere o n.º 1 do artigo 13.º
+    - Altera A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - Altera 1.1. Número de inspectores ao seu serviço no quadro da inspecção pelo Estado do porto
+    - Altera Notas
+  - date: '2019-12-21'
+    amending: eu:celex:32017L2110:por
+    amending_title: DIRETIVA (UE) 2017/2110 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 15
+      de novembro de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 9.º — Comunicação de chegada do navio
+    - Altera Artigo 13.º — Inspecções inicial e aprofundada
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 25.º — Intercâmbio de informações e cooperação
+    - Altera Artigo 31.º — Comité
+    - Altera (a que se refere o n.º 1 do artigo 13.º
+    - Altera A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - Altera 1.1. Número de inspectores ao seu serviço no quadro da inspecção pelo Estado do porto
+    - Altera Notas
+    - Adita Artigo 14.º-A — Inspeção de navios ro-ro de passageiros e de embarcações de passageiros de alta velocidade em
+      serviços regulares
+    - Adita ANEXO XVII
+    - Adita Inspeção de navios ro-ro de passageiros e de embarcações de passageiros de alta velocidade em serviços regulares
+  - date: '2025-01-01'
+    amending: eu:celex:32023R1805:por
+    amending_title: REGULAMENTO (UE) 2023/1805 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023
+    changes:
+    - Altera Artigo 9.º — Comunicação de chegada do navio
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 25.º — Intercâmbio de informações e cooperação
+    - Altera Artigo 31.º — Comité
+    - Altera I. Perfil de risco do navio
+    - Altera II. Inspecção dos navios
+    - Altera (a que se refere o n.º 1 do artigo 13.º
+    - Altera A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - 'Altera 1. Todos os anos, os Estados-Membros fornecerão à Comissão, até 1 de Abril, os seguintes dados relativos ao
+      ano transacto:'
+    - Altera Inspeção de navios ro-ro de passageiros e de embarcações de passageiros de alta velocidade em serviços regulares
+    - Altera Notas
+    - Adita EXEMPLOS DE «MOTIVOS INEQUÍVOCOS »
+    - Suprime 1. Parâmetros genéricos
+    - Suprime 2. Parâmetros históricos
+    - Suprime 1. Inspecções periódicas
+    - Suprime 2. Inspecções adicionais
+    - Suprime 2A. Factores prevalecentes
+    - Suprime 2B. Factores imprevistos
+    - Suprime 3. Método de selecção
+    - 'Suprime 3A. Os navios da Prioridade I serão inspeccionados do seguinte modo:'
+    - 'Suprime 3B. Caso a autoridade competente decida inspeccionar um navio da Prioridade II, aplica-se o seguinte:'
+    - Suprime EXEMPLOS DE «MOTIVOS INEQUÍVOCOS»
+    - Suprime 1.1. Número de inspectores ao seu serviço no quadro da inspecção pelo Estado do porto
+    - Suprime 1.2. Número total de navios distintos entrados nos respectivos portos, a nível nacional. Este número equivale
+      ao número de navios abrangidos pela presente directiva que entraram nos respectivos portos a nível nacional, contados
+      uma única vez.
+  - date: '2025-01-05'
+    amending: eu:celex:32024L3099:por
+    amending_title: DIRETIVA (UE) 2024/3099 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 5.º — Regime de inspecções e obrigação de inspecção anual
+    - Altera Artigo 8.º — Adiamento de inspecções e circunstâncias excepcionais
+    - Altera Artigo 10.º — Perfil de risco de um navio
+    - Altera Artigo 13.º — Inspecções inicial e aprofundada
+    - Altera Artigo 14.º — Inspecções alargadas
+    - Altera Artigo 14.º-A — Inspeção de navios ro-ro de passageiros e de embarcações de passageiros de alta velocidade em
+      serviços regulares
+    - Altera Artigo 15.º — Orientações e procedimentos em matéria de segurança e protecção
+    - Altera Artigo 16.º — Recusa de acesso para certos navios
+    - Altera Artigo 17.º — Relatório de inspecção para o comandante
+    - Altera Artigo 19.º — Correcção das anomalias e detenção
+    - Altera Artigo 20.º — Direito de recurso
+    - Altera Artigo 21.º — Acompanhamento das inspecções e detenções
+    - Altera Artigo 22.º — Perfil profissional dos inspectores
+    - Altera Artigo 23.º — Relatórios dos pilotos e das autoridades portuárias
+    - Altera Artigo 24.º — Base de dados das inspecções
+    - Altera Artigo 31.º — Comité
+    - Altera (a que se refere o artigo 5.º)
+    - Altera ANEXO II
+    - Altera A. Exemplos de motivos inequívocos para inspecção aprofundada
+    - 'Altera 1. Todos os anos, os Estados-Membros fornecerão à Comissão, até 1 de Abril, os seguintes dados relativos ao
+      ano transacto:'
+    - Altera Inspeção de navios ro-ro de passageiros e de embarcações de passageiros de alta velocidade em serviços regulares
+    - Altera Notas
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 24.º-A
+    - Adita Artigo 25.º
+    - Adita Artigo 30.º
+    - Adita Artigo 30.º-A
+    - Adita Artigo 31.º-A
+    - Adita Artigo 33.º
+    - Adita Artigo 35.º
+    - Adita ELEMENTOS DO REGIME DA UNIÃO DE INSPEÇÃO PELO ESTADO DO PORTO
+    - Adita DETERMINAÇÃO DO PERFIL DE RISCO DO NAVIO
+    - Adita (a que se refere o artigo 10.º, n.º 2)
+    - Adita LISTA DE CERTIFICADOS E DOCUMENTOS
+    - Adita (a que se refere o artigo 13.º, n.º 1)
+    - Adita PROCEDIMENTOS PARA A INSPEÇÃO DOS NAVIOS
+    - Adita (a que se refere o artigo 15.º, n.º 1)
 identifiers:
   celex: 32009L0016
   eli: http://data.europa.eu/eli/dir/2009/16/oj
@@ -49,7 +268,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/061599fd-0b4a-49fe-8ea3-394dbdff7d0b.0018
   content_url: http://publications.europa.eu/resource/cellar/2341addb-0991-11f0-b1a3-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0016-20250105
-  retrieved_at: '2026-10-22T02:38:01Z'
+  retrieved_at: '2026-10-22T15:35:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T17:14:27.386+02:00'
 integrity:
@@ -58,9 +277,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:01Z'
-  notes: Texto consolidado 02009L0016-20250105.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:41Z'
+  notes: 8 versão(ões); histórico completo em diretiva-ue-2009-16.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -264,38 +483,19 @@ relationships:
   source: null
 article_structure:
   article_count: 43
-  section_count: 65
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 66
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:01Z'
+  checked_at: '2026-10-22T15:35:41Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0016 — PT — 05.01.2025 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0038) — [DIRETIVA 2013/38/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de agosto de 2013](http://publications.europa.eu/resource/celex/32013L0038) — L 218 — 1 — 14.8.2013
-- [M2](http://publications.europa.eu/resource/celex/32013R1257) — [REGULAMENTO (UE) N.º 1257/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1257) — L 330 — 1 — 10.12.2013
-- [M3](http://publications.europa.eu/resource/celex/32015R0757) — [REGULAMENTO (UE) 2015/757 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0757) — L 123 — 55 — 19.5.2015
-- [►M4](http://publications.europa.eu/resource/celex/32017L2110) — [DIRETIVA (UE) 2017/2110 DO PARLAMENTO EUROPEU E DO CONSELHO de 15 de novembro de 2017](http://publications.europa.eu/resource/celex/32017L2110) — L 315 — 61 — 30.11.2017
-- [M5](http://publications.europa.eu/resource/celex/32023R1805) — [REGULAMENTO (UE) 2023/1805 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1805) — L 234 — 48 — 22.9.2023
-- [►M6](http://publications.europa.eu/resource/celex/32024L3099) — [DIRETIVA (UE) 2024/3099 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024L3099) — L 3099 — 1 — 16.12.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0016R%2801%29) — [Rectificação, JO L 032, 1.2.2013, p. 23 (2009/16/CE)](http://publications.europa.eu/resource/celex/32009L0016R%2801%29)
-
-## DIRECTIVA 2009/16/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

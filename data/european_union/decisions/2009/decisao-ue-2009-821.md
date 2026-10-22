@@ -35,6 +35,1316 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-14'
+version_history:
+  file: decisao-ue-2009-821.versoes.json
+  count: 24
+  source_lastmod: '2019-12-14'
+  versions:
+  - date: '2009-11-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-12-02'
+    amending: eu:celex:32009D0870:por
+    amending_title: DECISÃO DA COMISSÃO de 27 de Novembro de 2009
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU
+      – Land: BELGIË – Kraj: BELGIA – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land:
+      BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG
+      – Pajjiż: ĠERMANJA – Land: DUITSLAND – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA
+      – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИРЛАНДИЯ – Země: IRSKO – Land: IRLAND – Land: IRLAND – Riik: IIRIMAA – Χώρα: ΙΡΛΑΝΔIΑ – Country: IRELAND
+      – País: IRLANDA – Pays: IRLANDE – Paese: IRLANDA – Valsts: ĪRIJA – Šalis: AIRIJA – Ország: ÍRORSZÁG – Pajjiż: IRLANDA
+      – Land: IERLAND – Kraj: IRLANDIA – País: IRLANDA – Țara: IRLANDA – Krajina: ÍRSKO – Država: IRSKA – Maa: IRLANTI – Land:
+      IRLAND'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG
+      – Pajjiż: FRANZA – Land: FRANKRIJK – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA
+      – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA –
+      Ország: PORTUGÁLIA – Pajjiż: PORTUGALL – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina:
+      PORTUGALSKO – Država: PORTUGALSKA – Maa: PORTUGALI – Land: PORTUGAL'
+    - Altera Notas
+  - date: '2010-05-18'
+    amending: eu:celex:32010D0277:por
+    amending_title: DECISÃO DA COMISSÃO de 12 de Maio de 2010
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU
+      – Land: BELGIË – Kraj: BELGIA – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land:
+      BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG
+      – Pajjiż: FRANZA – Land: FRANKRIJK – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA
+      – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis:
+      NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara:
+      ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ПОЛША – Země: POLSKO – Land: POLEN – Land: POLEN – Riik: POOLA – Χώρα: ΠΟΛΩΝIΑ – Country: POLAND – País:
+      POLONIA – Pays: POLOGNE – Paese: POLONIA – Valsts: POLIJA – Šalis: LENKIJA – Ország: LENGYELORSZÁG – Pajjiż: POLONJA
+      – Land: POLEN – Kraj: POLSKA – País: POLÓNIA – Țara: POLONIA – Krajina: POĽSKO – Država: POLJSKA – Maa: PUOLA – Land:
+      POLEN'
+    - Altera DE00003 NIEDERSACHSEN
+    - Altera IT00003 LOMBARDIA
+    - Altera Notas
+    - Adita DK00001 REGION VEST
+    - Adita DK00002 REGION ØST
+    - Suprime DK00001 REGION NORD
+    - Suprime DK00002 REGION SYD
+    - Suprime DK00003 REGION ØST
+  - date: '2010-10-15'
+    amending: eu:celex:32010D0617:por
+    amending_title: DECISÃO DA COMISSÃO de 14 de Outubro de 2010
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis:
+      NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara:
+      ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – Paese:
+      REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország: EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT
+      – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO – Țara: REGATUL UNIT – Krajina: SPOJENÉ
+      KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land: FÖRENADE KUNGARIKET'
+    - Altera DE00009 BAYERN
+    - Altera DE00003 NIEDERSACHSEN
+    - Altera DE00005 NORDRHEIN-WESTFALEN
+    - Altera DE00007 RHEINLAND-PFALZ
+    - Altera DE00016 THÜRINGEN
+    - Altera IT00001 PIEMONTE
+    - Altera PL02000 DOLNOŚLĄSKIE
+    - Altera PL04000 KUJAWSKO-POMORSKIE
+    - Altera PL06000 LUBELSKIE
+    - Altera PL08000 LUBUSKIE
+    - Altera PL14000 MAZOWIECKIE
+    - Altera PL18000 PODKARPACKIE
+    - Altera PL22000 POMORSKIE
+    - Altera PL26000 ŚWIĘTOKRZYSKIE
+    - Altera PL30000 WIELKOPOLSKIE
+    - Altera PT10000 NORTE
+    - Altera PT20000 CENTRO
+    - Altera PT40000 ALENTEJO
+    - Altera Notas
+    - Adita FR00001 ALSACE
+    - Adita FR00002 AQUITAINE
+    - Adita FR00003 AUVERGNE
+    - Adita FR00004 BASSE-NORMANDIE
+    - Adita FR00005 BOURGOGNE
+    - Adita FR00006 BRETAGNE
+    - Adita FR00007 CENTRE
+    - Adita FR00008 CHAMPAGNE-ARDENNE
+    - Adita FR00009 CORSE
+    - Adita FR00010 FRANCHE-COMTÉ
+    - Adita FR00011 HAUTE-NORMANDIE
+    - Adita FR00012 ÎLE-DE-FRANCE
+    - Adita FR00013 LANGUEDOC ROUSSILLON
+    - Adita FR00014 LIMOUSIN
+  - date: '2011-02-11'
+    amending: eu:celex:32011D0093:por
+    amending_title: DECISÃO DA COMISSÃO de 10 de Fevereiro de 2011
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU
+      – Land: BELGIË – Kraj: BELGIA – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land:
+      BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG
+      – Pajjiż: ĠERMANJA – Land: DUITSLAND – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA
+      – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż:
+      GREĊJA – Land: GRIEKENLAND – Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA
+      – Land: GREKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG
+      – Pajjiż: FRANZA – Land: FRANKRIJK – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA
+      – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – Paese:
+      REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország: EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT
+      – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO – Țara: REGATUL UNIT – Krajina: SPOJENÉ
+      KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land: FÖRENADE KUNGARIKET'
+    - Altera DE00009 BAYERN
+    - Altera DE00015 SACHSEN-ANHALT
+    - Altera IT00018 CALABRIA
+    - Altera IT00003 LOMBARDIA
+    - Altera PT30000 LISBOA E VALE DO TEJO
+    - Altera Notas
+    - Adita BE20001 REGIO VLAANDEREN/RÉGION FLAMANDE
+    - Adita BE20002 REGIO BRUSSEL/RÉGION BRUXELLES
+    - Adita BE20003 RÉGION WALLONNE/REGIO WALLONIË
+    - Suprime BE200001 REGIO VLAANDEREN/RÉGION FLAMANDE
+    - Suprime BE200002 REGIO BRUSSEL/RÉGION BRUXELLES
+    - Suprime BE200003 RÉGION WALLONNE/REGIO WALLONIË
+  - date: '2011-07-05'
+    amending: eu:celex:32011D0394:por
+    amending_title: DECISÃO DE EXECUÇÃO 2011/394/UE DA COMISSÃO de 1 de Julho de 2011
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG
+      – Pajjiż: ĠERMANJA – Land: DUITSLAND – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA
+      – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG
+      – Pajjiż: FRANZA – Land: FRANKRIJK – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA
+      – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: УНГАРИЯ – Země: MAĎARSKO – Land: UNGARN – Land: UNGARN – Riik: UNGARI – Χώρα: ΟΥΓΓΑΡIΑ – Country: HUNGARY
+      – País: HUNGRÍA – Pays: HONGRIE – Paese: UNGHERIA – Valsts: UNGĀRIJA – Šalis: VENGRIJA – Ország: MAGYARORSZÁG – Pajjiż:
+      UNGERIJA – Land: HONGARIJE – Kraj: WĘGRY – País: HUNGRIA – Țara: UNGARIA – Krajina: MAĎARSKO – Država: MADŽARSKA – Maa:
+      UNKARI – Land: UNGERN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis:
+      NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara:
+      ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: АВСТРИЯ – Země: RAKOUSKO – Land: ØSTRIG – Land: ÖSTERREICH – Riik: AUSTRIA – Χώρα: ΑΥΣΤΡIΑ – Country:
+      AUSTRIA – País: AUSTRIA – Pays: AUTRICHE – Paese: AUSTRIA – Valsts: AUSTRIJA – Šalis: AUSTRIJA – Ország: AUSZTRIA –
+      Pajjiż: AWSTRIJA – Land: OOSTENRIJK – Kraj: AUSTRIA – País: ÁUSTRIA – Țara: AUSTRIA – Krajina: RAKÚSKO – Država: AVSTRIJA
+      – Maa: ITÄVALTA – Land: ÖSTERRIKE'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA –
+      Ország: PORTUGÁLIA – Pajjiż: PORTUGALL – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina:
+      PORTUGALSKO – Država: PORTUGALSKA – Maa: PORTUGALI – Land: PORTUGAL'
+    - Altera DE00003 NIEDERSACHSEN
+    - Altera FR00002 AQUITAINE
+    - Altera AT00100 BURGENLAND
+    - Altera AT00400 OBERÖSTERREICH
+    - Altera Notas
+  - date: '2011-10-28'
+    amending: eu:celex:32011D0707:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 26 de Outubro de 2011
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU
+      – Land: BELGIË – Kraj: BELGIA – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land:
+      BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ЕСТОНИЯ – Země: ESTONSKO – Land: ESTLAND – Land: ESTLAND – Riik: EESTI – Χώρα: ΕΣΘΟΝIΑ – Country: ESTONIA
+      – País: ESTONIA – Pays: ESTONIE – Paese: ESTONIA – Valsts: IGAUNIJA – Šalis: ESTIJA – Ország: ÉSZTORSZÁG – Pajjiż: ESTONJA
+      – Land: ESTLAND – Kraj: ESTONIA – País: ESTÓNIA – Țara: ESTONIA – Krajina: ESTÓNSKO – Država: ESTONIJA – Maa: VIRO –
+      Land: ESTLAND'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis:
+      NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara:
+      ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA –
+      Ország: PORTUGÁLIA – Pajjiż: PORTUGALL – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina:
+      PORTUGALSKO – Država: PORTUGALSKA – Maa: PORTUGALI – Land: PORTUGAL'
+    - 'Altera Страна: ШВЕЦИЯ – Země: ŠVÉDSKO – Land: SVERIGE – Land: SCHWEDEN – Riik: ROOTSI – Χώρα: ΣΟΥΗΔIΑ – Country: SWEDEN
+      – País: SUECIA – Pays: SUÈDE – Paese: SVEZIA – Valsts: ZVIEDRIJA – Šalis: ŠVEDIJA – Ország: SVÉDORSZÁG – Pajjiż: SVEZJA
+      – Land: ZWEDEN – Kraj: SZWECJA – País: SUÉCIA – Țara: SUEDIA – Krajina: ŠVÉDSKO – Država: ŠVEDSKA – Maa: RUOTSI – Land:
+      SVERIGE'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – Paese:
+      REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország: EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT
+      – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO – Țara: REGATUL UNIT – Krajina: SPOJENÉ
+      KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land: FÖRENADE KUNGARIKET'
+    - Altera DE00013 MECKLENBURG-VORPOMMERN
+    - Altera PL30000 WIELKOPOLSKIE
+    - Altera Notas
+    - Adita DK00001 FØDEVARESTYRELSEN, VEST
+    - Adita DK00002 FØDEVARESTYRELSEN, ØST
+    - Suprime DK00001 REGION VEST
+    - Suprime DK00002 REGION ØST
+  - date: '2012-04-18'
+    amending: eu:celex:32012D0197:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 16 de abril de 2012
+    changes:
+    - Altera preambulo
+    - Altera СПИСЪК НА ОДОБРЕНИТЕ ГРАНИЧНИ ИНСПЕКЦИОННИ ПУНКТОВЕ – SUTARTŲ PASIENIO VETERINARIJOS POSTŲ SĄRAŠAS – SEZNAM SCHVÁLENÝCH
+      STANOVIŠŤ HRANIČNÍCH KONTROL – A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK – LISTE OVER GODKENDTE GRÆNSEKONTOLSTEDER
+      – LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA – VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+      – LIJST VAN DE ERKENDE GRENSINSPECTIEPOSTEN – KOKKULEPITUD PIIRIKONTROLLIPUNKTIDE NIMEKIRI – WYKAZ UZGODNIONYCH PUNKTÓW
+      KONTROLI GRANICZNEJ – ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠIΘΕΩΡΗΣΗΣ – LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+      – LIST OF AGREED BORDER INSPECTION POSTS – LISTA POSTURILOR DE INSPECȚIE LA FRONTIERĂ APROBATE – LISTA DE PUESTOS DE
+      INSPECCIÓN FRONTERIZOS AUTORIZADOS – ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC – LISTES DES POSTES D'INSPECTION
+      FRONTALIERS AGRÉÉS – SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK – ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI
+      – LUETTELO HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA – APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS – FÖRTECKNING ÖVER GODKÄNDA
+      GRÄNSKONTROLLSTATIONER
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU
+      – Land: BELGIË – Kraj: BELGIA – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land:
+      BELGIEN'
+    - 'Altera Страна: БЪЛГАРИЯ – Země: BULHARSKO – Land: BULGARIEN – Land: BULGARIEN – Riik: BULGAARIA – Χώρα: ΒΟΥΛΓΑΡΙΑ –
+      Country: BULGARIA – País: BULGARIA – Pays: BULGARIE – Paese: BULGARIA – Valsts: BULGĀRIJA – Šalis: BULGARIJA – Ország:
+      BULGÁRIA – Pajjiż: BULGARIJA – Land: BULGARIJE – Kraj: BUŁGARIA – País: BULGÁRIA – Țara: BULGARIA – Krajina: BULHARSKO
+      – Država: BOLGARIJA – Maa: BULGARIA – Land: BULGARIEN'
+    - 'Altera Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż:
+      GREĊJA – Land: GRIEKENLAND – Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA
+      – Land: GREKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis:
+      NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara:
+      ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: РУМЪНИЯ – Země: RUMUNSKO – Land: RUMÆNIEN – Land: RUMÄNIEN – Riik: RUMEENIA – Χώρα: ΡΟΥΜΑΝIΑ – Country:
+      ROMANIA – País: RUMANÍA – Pays: ROUMANIE – Paese: ROMANIA – Valsts: RUMĀNIJA – Šalis: RUMUNIJA – Ország: ROMÁNIA – Pajjiż:
+      RUMANIJA – Land: ROEMENIË – Kraj: RUMUNIA – País: ROMÉNIA – Țara: ROMÂNIA – Krajina: RUMUNSKO – Država: ROMUNIJA – Maa:
+      ROMANIA – Land: RUMÄNIEN'
+    - Altera DE00013 MECKLENBURG-VORPOMMERN
+    - Altera DE00003 NIEDERSACHSEN
+    - Altera DE00014 SACHSEN
+    - Altera AT00600 STEIERMARK
+    - Altera Notas
+  - date: '2012-07-31'
+    amending: eu:celex:32012D0450:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 27 de julho de 2012
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ЧЕШКА РЕПУБЛИКА – Země: ČESKÁ REPUBLIKA – Land: TJEKKIET – Land: TSCHECHISCHE REPUBLIK – Riik: TŠEHHI
+      VABARIIK – Χώρα: ΤΣΕΧΙΚΗ ΔΗΜΟΚΡΑΤΙΑ – Country: CZECH REPUBLIC – País: REPÚBLICA CHECA – Pays: RÉPUBLIQUE TCHÈQUE – Paese:
+      REPUBBLICA CECA – Valsts: ČEHIJA – Šalis: ČEKIJOS RESPUBLIKA – Ország: CSEH KÖZTÁRSASÁG – Pajjiż: REPUBBLIKA ĊEKA –
+      Land: TSJECHIË – Kraj: REPUBLIKA CZESKA – País: REPÚBLICA CHECA – Țara: REPUBLICA CEHĂ – Krajina: ČESKÁ REPUBLIKA –
+      Država: ČEŠKA – Maa: TŠEKKI – Land: TJECKIEN'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG
+      – Pajjiż: ĠERMANJA – Land: DUITSLAND – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA
+      – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA –
+      Ország: PORTUGÁLIA – Pajjiż: PORTUGALL – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina:
+      PORTUGALSKO – Država: PORTUGALSKA – Maa: PORTUGALI – Land: PORTUGAL'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – Paese:
+      REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország: EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT
+      – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO – Țara: REGATUL UNIT – Krajina: SPOJENÉ
+      KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land: FÖRENADE KUNGARIKET'
+    - Altera Notas
+  - date: '2012-12-08'
+    amending: eu:celex:32012D0762:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 6 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera СПИСЪК НА ОДОБРЕНИТЕ ГРАНИЧНИ ИНСПЕКЦИОННИ ПУНКТОВЕ – SUTARTŲ PASIENIO VETERINARIJOS POSTŲ SĄRAŠAS – SEZNAM SCHVÁLENÝCH
+      STANOVIŠŤ HRANIČNÍCH KONTROL – A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK – LISTE OVER GODKENDTE GRÆNSEKONTOLSTEDER
+      – LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA – VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+      – LIJST VAN DE ERKENDE GRENSINSPECTIEPOSTEN – KOKKULEPITUD PIIRIKONTROLLIPUNKTIDE NIMEKIRI – WYKAZ UZGODNIONYCH PUNKTÓW
+      KONTROLI GRANICZNEJ – ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠIΘΕΩΡΗΣΗΣ – LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+      – LIST OF AGREED BORDER INSPECTION POSTS – LISTA POSTURILOR DE INSPECȚIE LA FRONTIERĂ APROBATE – LISTA DE PUESTOS DE
+      INSPECCIÓN FRONTERIZOS AUTORIZADOS – ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC – LISTES DES POSTES D'INSPECTION
+      FRONTALIERS AGRÉÉS – SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK – ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI
+      – LUETTELO HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA – APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS – FÖRTECKNING ÖVER GODKÄNDA
+      GRÄNSKONTROLLSTATIONER
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG
+      – Pajjiż: ĠERMANJA – Land: DUITSLAND – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA
+      – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG
+      – Pajjiż: FRANZA – Land: FRANKRIJK – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA
+      – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: СЛОВАКИЯ – Země: SLOVENSKO – Land: SLOVAKIET – Land: SLOWAKEI – Riik: SLOVAKKIA – Χώρα: ΣΛΟΒΑΚIΑ – Country:
+      SLOVAKIA – País: ESLOVAQUIA – Pays: SLOVAQUIE – Paese: SLOVACCHIA – Valsts: SLOVĀKIJA – Šalis: SLOVAKIJA – Ország: SZLOVÁKIA
+      – Pajjiż: SLOVAKJA – Land: SLOWAKIJE – Kraj: SŁOWACJA – País: ESLOVÁQUIA – Țara: SLOVACIA – Krajina: SLOVENSKO – Država:
+      SLOVAŠKA – Maa: SLOVAKIA – Land: SLOVAKIEN'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – Paese:
+      REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország: EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT
+      – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO – Țara: REGATUL UNIT – Krajina: SPOJENÉ
+      KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land: FÖRENADE KUNGARIKET'
+    - Altera DE00013 MECKLENBURG-VORPOMMERN
+    - Altera IT00013 ABRUZZO
+    - Altera IT00017 BASILICATA
+    - Altera IT00015 CAMPANIA
+    - Altera IT00008 EMILIA-ROMAGNA
+    - Altera IT00011 MARCHE
+    - Altera IT00014 MOLISE
+    - Altera IT00016 PUGLIA
+    - Altera IT00019 SICILIA
+    - Altera IT00004 TRENTINO-ALTO ADIGE
+    - Altera IT00010 UMBRIA
+    - Altera IT00002 VALLE D’AOSTA
+    - Altera IT00005 VENETO
+    - Altera Notas
+  - date: '2013-05-25'
+    amending: eu:celex:32013D0235:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 23 de maio de 2013
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA
+      – Land: DENEMARKEN – Kraj: DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA
+      – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG
+      – Pajjiż: ĠERMANJA – Land: DUITSLAND – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA
+      – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż:
+      SPANJA – Land: SPANJE – Kraj: HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa:
+      ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG
+      – Pajjiż: FRANZA – Land: FRANKRIJK – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA
+      – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA
+      – Land: ITALIË – Kraj: WŁOCHY – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land:
+      ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż:
+      LATVJA – Land: LETLAND – Kraj: ŁOTWA – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA
+      – Land: LETTLAND'
+    - 'Altera Страна: ЛИТВА – Země: LITVA – Land: LITAUEN – Land: LITAUEN – Riik: LEEDU – Χώρα: ΛΙΘΟΥΑΝIΑ – Country: LITHUANIA
+      – País: LITUANIA – Pays: LITUANIE – Paese: LITUANIA – Valsts: LIETUVA – Šalis: LIETUVA – Ország: LITVÁNIA – Pajjiż:
+      LITWANJA – Land: LITOUWEN – Kraj: LITWA – País: LITUÂNIA – Țara: LITUANIA – Krajina: LITVA – Država: LITVA – Maa: LIETTUA
+      – Land: LITAUEN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis:
+      NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara:
+      ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA –
+      Ország: PORTUGÁLIA – Pajjiż: PORTUGALL – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina:
+      PORTUGALSKO – Država: PORTUGALSKA – Maa: PORTUGALI – Land: PORTUGAL'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – Paese:
+      REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország: EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT
+      – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO – Țara: REGATUL UNIT – Krajina: SPOJENÉ
+      KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land: FÖRENADE KUNGARIKET'
+    - Altera DK00002 FØDEVARESTYRELSEN, ØST
+    - Altera DE00003 NIEDERSACHSEN
+    - Altera IT00010 UMBRIA
+    - Altera AT00600 STEIERMARK
+    - Altera GB00004 NORTHERN IRELAND — DEPARTMENT OF AGRICULTURE AND RURAL DEVELOPMENT
+    - Altera Notas
+    - Adita NL00001 NVWA NOORD
+    - Adita NL00002 NVWA NOORDWEST
+    - Adita NL00003 NVWA OOST
+    - Adita NL00004 NVWA ZUID
+    - Adita NL00005 NVWA ZUIDWEST
+    - Suprime NL00001 VWA NOORD
+    - Suprime NL00002 VWA NOORDWEST
+    - Suprime NL00003 VWA OOST
+    - Suprime NL00004 VWA ZUID
+    - Suprime NL00005 VWA ZUIDWEST
+  - date: '2013-07-01'
+    amending: eu:celex:32013R0519:por
+    amending_title: REGULAMENTO (UE) N. o 519/2013 DA COMISSÃO de 21 de fevereiro de 2013; DECISÃO DE EXECUÇÃO DA COMISSÃO
+      de 14 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita ПРИЛОЖЕНИЕ – PRIEDAS – PŘÍLOHA – MELLÉKLET – BILAG – ANNESS – ANHANG – BIJLAGE – LISA – ZAŁĄCZNIK – ΠΑΡΑΡΤΗΜΑ
+      – ANEXO – ANNEX – ANEXĂ – ANEXO – PRÍLOHA – ANNEXE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      PRILOG –◄ PRILOGA – ALLEGATO – LIITE – PIELIKUMS – BILAGA
+    - Adita СПИСЪК НА ОДОБРЕНИТЕ ГРАНИЧНИ ИНСПЕКЦИОННИ ПУНКТОВЕ – SUTARTŲ PASIENIO VETERINARIJOS POSTŲ SĄRAŠAS – SEZNAM SCHVÁLENÝCH
+      STANOVIŠŤ HRANIČNÍCH KONTROL – A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK – LISTE OVER GODKENDTE GRÆNSEKONTOLSTEDER
+      – LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA – VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+      – LIJST VAN DE ERKENDE GRENSINSPECTIEPOSTEN – KOKKULEPITUD PIIRIKONTROLLIPUNKTIDE NIMEKIRI – WYKAZ UZGODNIONYCH PUNKTÓW
+      KONTROLI GRANICZNEJ – ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠIΘΕΩΡΗΣΗΣ – LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+      – LIST OF AGREED BORDER INSPECTION POSTS – LISTA POSTURILOR DE INSPECȚIE LA FRONTIERĂ APROBATE – LISTA DE PUESTOS DE
+      INSPECCIÓN FRONTERIZOS AUTORIZADOS – ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC – LISTES DES POSTES D'INSPECTION
+      FRONTALIERS AGRÉÉS – [►M12](http://publications.europa.eu/resource/celex/32013R0519) POPIS ODOBRENIH GRANIČNIH INSPEKCIJSKIH
+      POSTAJA –◄ SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK – ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI – LUETTELO
+      HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA – APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS – FÖRTECKNING ÖVER GODKÄNDA GRÄNSKONTROLLSTATIONER
+    - 'Adita Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Adita Страна: БЪЛГАРИЯ – Země: BULHARSKO – Land: BULGARIEN – Land: BULGARIEN – Riik: BULGAARIA – Χώρα: ΒΟΥΛΓΑΡΙΑ –
+      Country: BULGARIA – País: BULGARIA – Pays: BULGARIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: BUGARSKA – ◄ Paese: BULGARIA – Valsts: BULGĀRIJA – Šalis: BULGARIJA – Ország: BULGÁRIA – Pajjiż: BULGARIJA –
+      Land: BULGARIJE – Kraj: BUŁGARIA – País: BULGÁRIA – Țara: BULGARIA – Krajina: BULHARSKO – Država: BOLGARIJA – Maa: BULGARIA
+      – Land: BULGARIEN'
+    - 'Adita Страна: ЧЕШКА РЕПУБЛИКА – Země: ČESKÁ REPUBLIKA – Land: TJEKKIET – Land: TSCHECHISCHE REPUBLIK – Riik: TŠEHHI
+      VABARIIK – Χώρα: ΤΣΕΧΙΚΗ ΔΗΜΟΚΡΑΤΙΑ – Country: CZECH REPUBLIC – País: REPÚBLICA CHECA – Pays: RÉPUBLIQUE TCHÈQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: ČEŠKA REPUBLIKA – ◄ Paese: REPUBBLICA CECA – Valsts: ČEHIJA – Šalis: ČEKIJOS RESPUBLIKA – Ország: CSEH KÖZTÁRSASÁG
+      – Pajjiż: REPUBBLIKA ĊEKA – Land: TSJECHIË – Kraj: REPUBLIKA CZESKA – País: REPÚBLICA CHECA – Țara: REPUBLICA CEHĂ –
+      Krajina: ČESKÁ REPUBLIKA – Država: ČEŠKA – Maa: TŠEKKI – Land: TJECKIEN'
+    - 'Adita Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Adita Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Adita Страна: ЕСТОНИЯ – Země: ESTONSKO – Land: ESTLAND – Land: ESTLAND – Riik: EESTI – Χώρα: ΕΣΘΟΝIΑ – Country: ESTONIA
+      – País: ESTONIA – Pays: ESTONIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ESTONIJA –
+      ◄ Paese: ESTONIA – Valsts: IGAUNIJA – Šalis: ESTIJA – Ország: ÉSZTORSZÁG – Pajjiż: ESTONJA – Land: ESTLAND – Kraj: ESTONIA
+      – País: ESTÓNIA – Țara: ESTONIA – Krajina: ESTÓNSKO – Država: ESTONIJA – Maa: VIRO – Land: ESTLAND'
+    - 'Adita Страна: ИРЛАНДИЯ – Země: IRSKO – Land: IRLAND – Land: IRLAND – Riik: IIRIMAA – Χώρα: ΙΡΛΑΝΔIΑ – Country: IRELAND
+      – País: IRLANDA – Pays: IRLANDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: IRSKA – ◄
+      Paese: IRLANDA – Valsts: ĪRIJA – Šalis: AIRIJA – Ország: ÍRORSZÁG – Pajjiż: IRLANDA – Land: IERLAND – Kraj: IRLANDIA
+      – País: IRLANDA – Țara: IRLANDA – Krajina: ÍRSKO – Država: IRSKA – Maa: IRLANTI – Land: IRLAND'
+    - 'Adita Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: GRČKA
+      – ◄ Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż: GREĊJA – Land: GRIEKENLAND –
+      Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA – Land: GREKLAND'
+    - 'Adita Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Adita Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Adita Страна: ХЪРВАТИЯ — Země: CHORVATSKO — Land: KROATIEN — Land: KROATIEN — Riik: HORVAATIA — Χώρα: ΚΡΟΑΤΙΑ — Country:
+      CROATIA — País: CROACIA — Pays: CROATIE — Zemlja: HRVATSKA — Paese: CROAZIA — Valsts: HORVĀTIJA — Šalis: KROATIJA —
+      Ország: HORVÁTORSZÁG — Pajjiż: KROAZJA — Land: KROATIË — Kraj: CHORWACJA — País: CROÁCIA — Țara: CROAȚIA — Krajina:
+      CHORVÁTSKO — Država: HRVAŠKA — Maa: KROATIA — Land: KROATIEN'
+    - 'Adita Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Adita Страна: КИПЪР – Země: KYPR – Land: CYPERN – Land: ZYPERN – Riik: KÜPROS – Χώρα: ΚΥΠΡΟΣ – Country: CYPRUS – País:
+      CHIPRE – Pays: CHYPRE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: CIPAR – ◄ Paese: CIPRO
+      – Valsts: KIPRA – Šalis: KIPRAS – Ország: CIPRUS – Pajjiż: ĊIPRU – Land: CYPRUS – Kraj: CYPR – País: CHIPRE – Țara:
+      CIPRU – Krajina: CYPRUS – Država: CIPER – Maa: KYPROS – Land: CYPERN'
+    - 'Adita Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LATVIJA –
+      ◄ Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż: LATVJA – Land: LETLAND – Kraj: ŁOTWA
+      – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA – Land: LETTLAND'
+    - 'Adita Страна: ЛИТВА – Země: LITVA – Land: LITAUEN – Land: LITAUEN – Riik: LEEDU – Χώρα: ΛΙΘΟΥΑΝIΑ – Country: LITHUANIA
+      – País: LITUANIA – Pays: LITUANIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LITVA –
+      ◄ Paese: LITUANIA – Valsts: LIETUVA – Šalis: LIETUVA – Ország: LITVÁNIA – Pajjiż: LITWANJA – Land: LITOUWEN – Kraj:
+      LITWA – País: LITUÂNIA – Țara: LITUANIA – Krajina: LITVA – Država: LITVA – Maa: LIETTUA – Land: LITAUEN'
+    - 'Adita Страна: ЛЮКСЕМБУРГ – Země: LUCEMBURSKO – Land: LUXEMBOURG – Land: LUXEMBURG – Riik: LUKSEMBURG – Χώρα: ΛΟΥΞΕΜΒΟΥΡΓΟ
+      – Country: LUXEMBOURG – País: LUXEMBURGO – Pays: LUXEMBOURG – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: LUKSEMBURG – ◄ Paese: LUSSEMBURGO – Valsts: LUKSEMBURGA – Šalis: LIUKSEMBURGAS – Ország: LUXEMBURG – Pajjiż:
+      LUSSEMBURGU – Land: LUXEMBURG – Kraj: LUKSEMBURG – País: LUXEMBURGO – Țara: LUXEMBURG – Krajina: LUXEMBURSKO – Država:
+      LUKSEMBURG – Maa: LUXEMBURG – Land: LUXEMBURG'
+    - 'Adita Страна: УНГАРИЯ – Země: MAĎARSKO – Land: UNGARN – Land: UNGARN – Riik: UNGARI – Χώρα: ΟΥΓΓΑΡIΑ – Country: HUNGARY
+      – País: HUNGRÍA – Pays: HONGRIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: MAĐARSKA –
+      ◄ Paese: UNGHERIA – Valsts: UNGĀRIJA – Šalis: VENGRIJA – Ország: MAGYARORSZÁG – Pajjiż: UNGERIJA – Land: HONGARIJE –
+      Kraj: WĘGRY – País: HUNGRIA – Țara: UNGARIA – Krajina: MAĎARSKO – Država: MADŽARSKA – Maa: UNKARI – Land: UNGERN'
+    - 'Adita Страна: МАЛТА – Země: MALTA – Land: MALTA – Land: MALTA – Riik: MALTA – Χώρα: ΜAΛΤΑ – Country: MALTA – País:
+      MALTA – Pays: MALTE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: MALTA – ◄ Paese: MALTA
+      – Valsts: MALTA – Šalis: MALTA – Ország: MÁLTA – Pajjiż: MALTA – Land: MALTA – Kraj: MALTA – País: MALTA – Țara: MALTA
+      – Krajina: MALTA – Država: MALTA – Maa: MALTA – Land: MALTA'
+    - 'Adita Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Adita Страна: АВСТРИЯ – Země: RAKOUSKO – Land: ØSTRIG – Land: ÖSTERREICH – Riik: AUSTRIA – Χώρα: ΑΥΣΤΡIΑ – Country:
+      AUSTRIA – País: AUSTRIA – Pays: AUTRICHE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: AUSTRIJA
+      – ◄ Paese: AUSTRIA – Valsts: AUSTRIJA – Šalis: AUSTRIJA – Ország: AUSZTRIA – Pajjiż: AWSTRIJA – Land: OOSTENRIJK – Kraj:
+      AUSTRIA – País: ÁUSTRIA – Țara: AUSTRIA – Krajina: RAKÚSKO – Država: AVSTRIJA – Maa: ITÄVALTA – Land: ÖSTERRIKE'
+    - 'Adita Страна: ПОЛША – Země: POLSKO – Land: POLEN – Land: POLEN – Riik: POOLA – Χώρα: ΠΟΛΩΝIΑ – Country: POLAND – País:
+      POLONIA – Pays: POLOGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: POLJSKA – ◄ Paese:
+      POLONIA – Valsts: POLIJA – Šalis: LENKIJA – Ország: LENGYELORSZÁG – Pajjiż: POLONJA – Land: POLEN – Kraj: POLSKA – País:
+      POLÓNIA – Țara: POLONIA – Krajina: POĽSKO – Država: POLJSKA – Maa: PUOLA – Land: POLEN'
+    - 'Adita Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: PORTUGAL – ◄ Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA – Ország: PORTUGÁLIA – Pajjiż: PORTUGALL
+      – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina: PORTUGALSKO – Država: PORTUGALSKA
+      – Maa: PORTUGALI – Land: PORTUGAL'
+    - 'Adita Страна: РУМЪНИЯ – Země: RUMUNSKO – Land: RUMÆNIEN – Land: RUMÄNIEN – Riik: RUMEENIA – Χώρα: ΡΟΥΜΑΝIΑ – Country:
+      ROMANIA – País: RUMANÍA – Pays: ROUMANIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: RUMUNJSKA
+      – ◄ Paese: ROMANIA – Valsts: RUMĀNIJA – Šalis: RUMUNIJA – Ország: ROMÁNIA – Pajjiż: RUMANIJA – Land: ROEMENIË – Kraj:
+      RUMUNIA – País: ROMÉNIA – Țara: ROMÂNIA – Krajina: RUMUNSKO – Država: ROMUNIJA – Maa: ROMANIA – Land: RUMÄNIEN'
+    - 'Adita Страна: СЛОВЕНИЯ – Země: SLOVINSKO – Land: SLOVENIEN – Land: SLOWENIEN – Riik: SLOVEENIA – Χώρα: ΣΛΟΒΕΝIΑ – Country:
+      SLOVENIA – País: ESLOVENIA – Pays: SLOVÉNIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      SLOVENIJA – ◄ Paese: SLOVENIA – Valsts: SLOVĒNIJA – Šalis: SLOVĖNIJA – Ország: SZLOVÉNIA – Pajjiż: SLOVENJA – Land:
+      SLOVENIË – Kraj: SŁOWENIA – País: ESLOVÉNIA – Țara: SLOVENIA – Krajina: SLOVINSKO – Država: SLOVENIJA – Maa: SLOVENIA
+      – Land: SLOVENIEN'
+    - 'Adita Страна: СЛОВАКИЯ – Země: SLOVENSKO – Land: SLOVAKIET – Land: SLOWAKEI – Riik: SLOVAKKIA – Χώρα: ΣΛΟΒΑΚIΑ – Country:
+      SLOVAKIA – País: ESLOVAQUIA – Pays: SLOVAQUIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      SLOVAČKA – ◄ Paese: SLOVACCHIA – Valsts: SLOVĀKIJA – Šalis: SLOVAKIJA – Ország: SZLOVÁKIA – Pajjiż: SLOVAKJA – Land:
+      SLOWAKIJE – Kraj: SŁOWACJA – País: ESLOVÁQUIA – Țara: SLOVACIA – Krajina: SLOVENSKO – Država: SLOVAŠKA – Maa: SLOVAKIA
+      – Land: SLOVAKIEN'
+    - 'Adita Страна: ФИНЛАНДИЯ – Země: FINSKO – Land: FINLAND – Land: FINNLAND – Riik: SOOME – Χώρα: ΦΙΝΛΑΝΔIΑ – Country:
+      FINLAND – País: FINLANDIA – Pays: FINLANDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      FINSKA – ◄ Paese: FINLANDIA – Valsts: SOMIJA – Šalis: SUOMIJA – Ország: FINNORSZÁG – Pajjiż: FINLANDJA – Land: FINLAND
+      – Kraj: FINLANDIA – País: FINLÂNDIA – Țara: FINLANDA – Krajina: FÍNSKO – Država: FINSKA – Maa: SUOMI – Land: FINLAND'
+    - 'Adita Страна: ШВЕЦИЯ – Země: ŠVÉDSKO – Land: SVERIGE – Land: SCHWEDEN – Riik: ROOTSI – Χώρα: ΣΟΥΗΔIΑ – Country: SWEDEN
+      – País: SUECIA – Pays: SUÈDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠVEDSKA – ◄ Paese:
+      SVEZIA – Valsts: ZVIEDRIJA – Šalis: ŠVEDIJA – Ország: SVÉDORSZÁG – Pajjiż: SVEZJA – Land: ZWEDEN – Kraj: SZWECJA – País:
+      SUÉCIA – Țara: SUEDIA – Krajina: ŠVÉDSKO – Država: ŠVEDSKA – Maa: RUOTSI – Land: SVERIGE'
+    - 'Adita Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: UJEDINJENA KRALJEVINA – ◄ Paese: REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország:
+      EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO
+      – Țara: REGATUL UNIT – Krajina: SPOJENÉ KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land:
+      FÖRENADE KUNGARIKET'
+    - Adita ПРИЛОЖЕНИЕ – PRIEDAS – PŘÍLOHA – MELLÉKLET – BILAG – ANNESS – ANHANG – BIJLAGE – LISA – ZAŁĄCZNIK – ΠΑΡΑΡΤΗΜΑ
+      – ANEXO – ANNEX – ANEXĂ – ANEXO – PRÍLOHA – ANNEXE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      PRILOG – ◄PRILOGA – ALLEGATO – LIITE – PIELIKUMS – BILAGA
+    - 'Adita Страна: БЕЛГИЯ – Šalis: BELGIJA – Země: BELGIE – Ország: BELGIUM – Land: BELGIEN – Pajjiż: BELĠJU – Land: BELGIEN
+      – Land: BELGIË – Riik: BELGIA – Kraj: BELGIA – Χώρα: ΒEΛΓΙΟ – País: BÉLGICA – Country: BELGIUM – Țara: BELGIA – País:
+      BÉLGICA – Krajina: BELGICKO – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      BELGIJA – ◄ Država: BELGIJA – Paese: BELGIO – Maa: BELGIA – Valsts: BEĻĢIJA – Land: BELGIEN'
+    - Adita ЦЕНТРАЛНА ЕДИНИЦА – CENTRINIS VIENETAS – ÚSTŘEDNÍ JEDNOTKA – KÖZPONTI EGYSÉG – CENTRALENHED – UNITÀ ĊENTRALI –
+      ZENTRALE EINHEIT – CENTRALE EENHEID – KESKASUTUS – JEDNOSTKA CENTRALNA – ΚΕΝΤΡΙΚΗ ΜΟΝΑΔΑ – UNIDADE CENTRAL – CENTRAL
+      UNIT – UNITATE CENTRALĂ – UNIDAD CENTRAL – ÚSTREDNÁ JEDNOTKA – UNITÉ CENTRALE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      SREDIŠNJA JEDINICA – ◄GLAVNI URAD – UNITÀ CENTRALE – KESKUSYKSIKKÖ – CENTRĀLĀ VIENĪBA – CENTRALENHET
+    - Adita РЕГИОНАЛНИ И ЛОКАЛНИ УЧАСТЪЦИ – REGIONINIAI IR VIETINIAI VIENETAI – KRAJSKÁ A MÍSTNÍ JEDNOTKA – REGIONÁLIS ÉS
+      HELYI EGYSÉGEK – REGIONALE OG LOKALE ENHEDER – UNITA' REĠJONALI U LOKALI – REGIONALE UND ÖRTLICHE EINHEITEN – REGIONALE
+      EN LOKALE EENHEDEN – PIIRKONDLIKUD JA KOHALIKUD ASUTUSED – REGIONALNE I LOKALNE JEDNOSTKI – ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΚΑΙ ΤΟΠΙΚΕΣ
+      ΜΟΝΑΔΕΣ – UNIDADES LOCAIS E REGIONAIS – REGIONAL AND LOCAL UNITS – UNITĂȚI LOCALE ȘI REGIONALE – UNIDADES REGIONALES
+      Y LOCALES – REGIONÁLNE A MIESTNE JEDNOTKY – UNITÉS RÉGIONALES ET LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      REGIONALNE I LOKALNE JEDINICE – ◄REGIONALNI IN OBMOČNI URADI – UNITÀ REGIONALI E LOCALI – ALUEELLISET JA PAIKALLISET
+      YKSIKÖT – LOKĀLĀ VIENĪBA – REGIONALA OCH LOKALA ENHETER
+    - 'Adita Страна: БЪЛГАРИЯ – Šalis: BULGARIJA – Země: BULHARSKO – Ország: BULGÁRIA – Land: BULGARIEN – Pajjiż: BULGARIJA
+      – Land: BULGARIEN – Land: BULGARIJE – Riik: BULGAARIA – Kraj: BUŁGARIA – Χώρα: ΒΟΥΛΓΑΡIA – País: BULGÁRIA – Country:
+      BULGARIA – Țara: BULGARIA – País: BULGARIA – Krajina: BULHARSKO – Pays: BULGARIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: BUGARSKA – ◄ Država: BOLGARIJA – Paese: BULGARIA – Maa: BULGARIA – Valsts: BULGĀRIJA – Land: BULGARIEN'
+    - Adita ЛОКАЛНА ЕДИНИЦА – VIETINIAI VIENETAI – MÍSTNÍ JEDNOTKA – HELYI EGYSÉGEK – LOKALE ENHEDER – UNITÀ LOKALI – ÖRTLICHE
+      EINHEITEN – LOKALE EENHEDEN – KOHALIK ASUTUS – JEDNOSTKA LOKALNA – ΤΟΠΙΚΕΣ ΜΟΝΑΔΕΣ – UNIDADES LOCAIS – LOCAL UNITS –
+      UNITĂȚI LOCALE – UNIDADES LOCALES – MIESTNA JEDNOTKA – UNITÉS LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      LOKALNE JEDINICE – ◄OBMOČNA ENOTA – UNITÀ LOCALI – PAIKALLISET YKSIKÖT – LOKĀLĀ VIENĪBA – LOKALA ENHETER
+    - 'Adita Страна: ЧЕШКА РЕПУБЛИКА – Šalis: ČEKIJOS RESPUBLIKA – Země: ČESKÁ REPUBLIKA – Ország: CSEH KÖZTÁRSASÁG – Land:
+      TJEKKIET – Pajjiż: REPUBBLIKA ĊEKA – Land: TSCHECHISCHE REPUBLIK – Land: TSJECHIË – Riik: TŠEHHI VABARIIK – Kraj: REPUBLIKA
+      CZESKA – Χώρα: ΤΣΕΧΙΚH ΔΗΜΟΚΡΑΤΊΑ – País: REPÚBLICA CHECA – Country: CZECH REPUBLIC – Țara: REPUBLICA CEHĂ – Pais: REPÚBLICA
+      CHECA – Krajina: ČESKÁ REPUBLIKA – Pays: RÉPUBLIQUE TCHÈQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: ČEŠKA REPUBLIKA – ◄ Država: ČEŠKA – Paese: REPUBBLICA CECA – Maa: TŠEKKI – Valsts: ČEHIJA – Land: TJECKIEN'
+    - 'Adita Страна: ДАНИЯ – Šalis: DANIJA – Země: DÁNSKO – Ország: DÁNIA – Land: DANMARK – Pajjiż: DANIMARKA – Land: DÄNEMARK
+      – Land: DENEMARKEN – Riik: TAANI – Kraj: DANIA – Χώρα: ΔΑΝIΑ – País: DINAMARCA – Country: DENMARK – Țara: DANEMARCA
+      – País: DINAMARCA – Krajina: DÁNSKO – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: DANSKA – ◄ Država: DANSKA – Paese: DANIMARCA – Maa: TANSKA – Valsts: DĀNIJA – Land: DANMARK'
+  - date: '2013-10-09'
+    amending: eu:celex:32013D0491:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 7 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ХЪРВАТИЯ — Země: CHORVATSKO — Land: KROATIEN — Land: KROATIEN — Riik: HORVAATIA — Χώρα: ΚΡΟΑΤΙΑ — Country:
+      CROATIA — País: CROACIA — Pays: CROATIE — Zemlja: HRVATSKA — Paese: CROAZIA — Valsts: HORVĀTIJA — Šalis: KROATIJA —
+      Ország: HORVÁTORSZÁG — Pajjiż: KROAZJA — Land: KROATIË — Kraj: CHORWACJA — País: CROÁCIA — Țara: CROAȚIA — Krajina:
+      CHORVÁTSKO — Država: HRVAŠKA — Maa: KROATIA — Land: KROATIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: ПОЛША – Země: POLSKO – Land: POLEN – Land: POLEN – Riik: POOLA – Χώρα: ΠΟΛΩΝIΑ – Country: POLAND – País:
+      POLONIA – Pays: POLOGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: POLJSKA – ◄ Paese:
+      POLONIA – Valsts: POLIJA – Šalis: LENKIJA – Ország: LENGYELORSZÁG – Pajjiż: POLONJA – Land: POLEN – Kraj: POLSKA – País:
+      POLÓNIA – Țara: POLONIA – Krajina: POĽSKO – Država: POLJSKA – Maa: PUOLA – Land: POLEN'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: UJEDINJENA KRALJEVINA – ◄ Paese: REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország:
+      EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO
+      – Țara: REGATUL UNIT – Krajina: SPOJENÉ KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land:
+      FÖRENADE KUNGARIKET'
+    - Altera ЦЕНТРАЛНА ЕДИНИЦА – CENTRINIS VIENETAS – ÚSTŘEDNÍ JEDNOTKA – KÖZPONTI EGYSÉG – CENTRALENHED – UNITÀ ĊENTRALI
+      – ZENTRALE EINHEIT – CENTRALE EENHEID – KESKASUTUS – JEDNOSTKA CENTRALNA – ΚΕΝΤΡΙΚΗ ΜΟΝΑΔΑ – UNIDADE CENTRAL – CENTRAL
+      UNIT – UNITATE CENTRALĂ – UNIDAD CENTRAL – ÚSTREDNÁ JEDNOTKA – UNITÉ CENTRALE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      SREDIŠNJA JEDINICA – ◄GLAVNI URAD – UNITÀ CENTRALE – KESKUSYKSIKKÖ – CENTRĀLĀ VIENĪBA – CENTRALENHET
+    - Altera Notas
+    - Adita ПРИЛОЖЕНИЕ – PRIEDAS – PŘÍLOHA – MELLÉKLET – BILAG – ANNESS – ANHANG – BIJLAGE – LISA – ZAŁĄCZNIK – ΠΑΡΑΡΤΗΜΑ
+      – ANEXO – ANNEX – ANEXĂ – ANEXO – PRÍLOHA – ANNEXE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      PRILOG – ◄ PRILOGA – ALLEGATO – LIITE – PIELIKUMS – BILAGA
+    - Adita ЦЕНТРАЛНА ЕДИНИЦА – CENTRINIS VIENETAS – ÚSTŘEDNÍ JEDNOTKA – KÖZPONTI EGYSÉG – CENTRALENHED – UNITÀ ĊENTRALI –
+      ZENTRALE EINHEIT – CENTRALE EENHEID – KESKASUTUS – JEDNOSTKA CENTRALNA – ΚΕΝΤΡΙΚΗ ΜΟΝΑΔΑ – UNIDADE CENTRAL – CENTRAL
+      UNIT – UNITATE CENTRALĂ – UNIDAD CENTRAL – ÚSTREDNÁ JEDNOTKA – UNITÉ CENTRALE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      SREDIŠNJA JEDINICA – ◄ GLAVNI URAD – UNITÀ CENTRALE – KESKUSYKSIKKÖ – CENTRĀLĀ VIENĪBA – CENTRALENHET
+    - Adita РЕГИОНАЛНИ И ЛОКАЛНИ УЧАСТЪЦИ – REGIONINIAI IR VIETINIAI VIENETAI – KRAJSKÁ A MÍSTNÍ JEDNOTKA – REGIONÁLIS ÉS
+      HELYI EGYSÉGEK – REGIONALE OG LOKALE ENHEDER – UNITA' REĠJONALI U LOKALI – REGIONALE UND ÖRTLICHE EINHEITEN – REGIONALE
+      EN LOKALE EENHEDEN – PIIRKONDLIKUD JA KOHALIKUD ASUTUSED – REGIONALNE I LOKALNE JEDNOSTKI – ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΚΑΙ ΤΟΠΙΚΕΣ
+      ΜΟΝΑΔΕΣ – UNIDADES LOCAIS E REGIONAIS – REGIONAL AND LOCAL UNITS – UNITĂȚI LOCALE ȘI REGIONALE – UNIDADES REGIONALES
+      Y LOCALES – REGIONÁLNE A MIESTNE JEDNOTKY – UNITÉS RÉGIONALES ET LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      REGIONALNE I LOKALNE JEDINICE – ◄ REGIONALNI IN OBMOČNI URADI – UNITÀ REGIONALI E LOCALI – ALUEELLISET JA PAIKALLISET
+      YKSIKÖT – LOKĀLĀ VIENĪBA – REGIONALA OCH LOKALA ENHETER
+    - Adita ЛОКАЛНА ЕДИНИЦА – VIETINIAI VIENETAI – MÍSTNÍ JEDNOTKA – HELYI EGYSÉGEK – LOKALE ENHEDER – UNITÀ LOKALI – ÖRTLICHE
+      EINHEITEN – LOKALE EENHEDEN – KOHALIK ASUTUS – JEDNOSTKA LOKALNA – ΤΟΠΙΚΕΣ ΜΟΝΑΔΕΣ – UNIDADES LOCAIS – LOCAL UNITS –
+      UNITĂȚI LOCALE – UNIDADES LOCALES – MIESTNA JEDNOTKA – UNITÉS LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      LOKALNE JEDINICE – ◄ OBMOČNA ENOTA – UNITÀ LOCALI – PAIKALLISET YKSIKÖT – LOKĀLĀ VIENĪBA – LOKALA ENHETER
+    - Adita РЕГИОНАЛНИ И ЛОКАЛНИ УЧАСТЪЦИ – REGIONINIAI IR VIETINIAI VIENETAI – KRAJSKÁ A MÍSTNÍ JEDNOTKA – REGIONÁLIS ÉS
+      HELYI EGYSÉGEK – REGIONALE OG LOKALE ENHEDER – UNITA' REĠJONALI U LOKALI – REGIONALE UND ÖRTLICHE EINHEITEN – REGIONALE
+      EN LOKALE EENHEDEN' – PIIRKONDLIKUD JA KOHALIKUD ASUTUSED – REGIONALNE I LOKALNE JEDNOSTKI – ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΚΑΙ ΤΟΠΙΚΕΣ
+      ΜΟΝΑΔΕΣ – UNIDADES LOCAIS E REGIONAIS – REGIONAL AND LOCAL UNITS – UNITĂȚI LOCALE ȘI REGIONALE – UNIDADES REGIONALES
+      Y LOCALES – REGIONÁLNE A MIESTNE JEDNOTKY – UNITÉS RÉGIONALES ET LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      REGIONALNE I LOKALNE JEDINICE – ◄ REGIONALNI IN OBMOČNI URADI – UNITÀ REGIONALI E LOCALI – ALUEELLISET JA PAIKALLISET
+      YKSIKÖT – LOKĀLĀ VIENĪBA – REGIONALA OCH LOKALA ENHETER
+    - Suprime ПРИЛОЖЕНИЕ – PRIEDAS – PŘÍLOHA – MELLÉKLET – BILAG – ANNESS – ANHANG – BIJLAGE – LISA – ZAŁĄCZNIK – ΠΑΡΑΡΤΗΜΑ
+      – ANEXO – ANNEX – ANEXĂ – ANEXO – PRÍLOHA – ANNEXE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      PRILOG – ◄PRILOGA – ALLEGATO – LIITE – PIELIKUMS – BILAGA
+    - Suprime РЕГИОНАЛНИ И ЛОКАЛНИ УЧАСТЪЦИ – REGIONINIAI IR VIETINIAI VIENETAI – KRAJSKÁ A MÍSTNÍ JEDNOTKA – REGIONÁLIS ÉS
+      HELYI EGYSÉGEK – REGIONALE OG LOKALE ENHEDER – UNITA' REĠJONALI U LOKALI – REGIONALE UND ÖRTLICHE EINHEITEN – REGIONALE
+      EN LOKALE EENHEDEN – PIIRKONDLIKUD JA KOHALIKUD ASUTUSED – REGIONALNE I LOKALNE JEDNOSTKI – ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΚΑΙ ΤΟΠΙΚΕΣ
+      ΜΟΝΑΔΕΣ – UNIDADES LOCAIS E REGIONAIS – REGIONAL AND LOCAL UNITS – UNITĂȚI LOCALE ȘI REGIONALE – UNIDADES REGIONALES
+      Y LOCALES – REGIONÁLNE A MIESTNE JEDNOTKY – UNITÉS RÉGIONALES ET LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      REGIONALNE I LOKALNE JEDINICE – ◄REGIONALNI IN OBMOČNI URADI – UNITÀ REGIONALI E LOCALI – ALUEELLISET JA PAIKALLISET
+      YKSIKÖT – LOKĀLĀ VIENĪBA – REGIONALA OCH LOKALA ENHETER
+    - Suprime ЛОКАЛНА ЕДИНИЦА – VIETINIAI VIENETAI – MÍSTNÍ JEDNOTKA – HELYI EGYSÉGEK – LOKALE ENHEDER – UNITÀ LOKALI – ÖRTLICHE
+      EINHEITEN – LOKALE EENHEDEN – KOHALIK ASUTUS – JEDNOSTKA LOKALNA – ΤΟΠΙΚΕΣ ΜΟΝΑΔΕΣ – UNIDADES LOCAIS – LOCAL UNITS –
+      UNITĂȚI LOCALE – UNIDADES LOCALES – MIESTNA JEDNOTKA – UNITÉS LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      LOKALNE JEDINICE – ◄OBMOČNA ENOTA – UNITÀ LOCALI – PAIKALLISET YKSIKÖT – LOKĀLĀ VIENĪBA – LOKALA ENHETER
+    - Suprime РЕГИОНАЛНИ И ЛОКАЛНИ УЧАСТЪЦИ – REGIONINIAI IR VIETINIAI VIENETAI – KRAJSKÁ A MÍSTNÍ JEDNOTKA – REGIONÁLIS ÉS
+      HELYI EGYSÉGEK – REGIONALE OG LOKALE ENHEDER – UNITA' REĠJONALI U LOKALI – REGIONALE UND ÖRTLICHE EINHEITEN – REGIONALE
+      EN LOKALE EENHEDEN' – PIIRKONDLIKUD JA KOHALIKUD ASUTUSED – REGIONALNE I LOKALNE JEDNOSTKI – ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΚΑΙ ΤΟΠΙΚΕΣ
+      ΜΟΝΑΔΕΣ – UNIDADES LOCAIS E REGIONAIS – REGIONAL AND LOCAL UNITS – UNITĂȚI LOCALE ȘI REGIONALE – UNIDADES REGIONALES
+      Y LOCALES – REGIONÁLNE A MIESTNE JEDNOTKY – UNITÉS RÉGIONALES ET LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      REGIONALNE I LOKALNE JEDINICE – ◄REGIONALNI IN OBMOČNI URADI – UNITÀ REGIONALI E LOCALI – ALUEELLISET JA PAIKALLISET
+      YKSIKÖT – LOKĀLĀ VIENĪBA – REGIONALA OCH LOKALA ENHETER
+  - date: '2014-04-05'
+    amending: eu:celex:32014D0187:por
+    amending_title: Decisão de Execução da Comissão de 3 de abril de 2014
+    changes:
+    - Altera preambulo
+    - Altera СПИСЪК НА ОДОБРЕНИТЕ ГРАНИЧНИ ИНСПЕКЦИОННИ ПУНКТОВЕ – SUTARTŲ PASIENIO VETERINARIJOS POSTŲ SĄRAŠAS – SEZNAM SCHVÁLENÝCH
+      STANOVIŠŤ HRANIČNÍCH KONTROL – A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK – LISTE OVER GODKENDTE GRÆNSEKONTOLSTEDER
+      – LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA – VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+      – LIJST VAN DE ERKENDE GRENSINSPECTIEPOSTEN – KOKKULEPITUD PIIRIKONTROLLIPUNKTIDE NIMEKIRI – WYKAZ UZGODNIONYCH PUNKTÓW
+      KONTROLI GRANICZNEJ – ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠIΘΕΩΡΗΣΗΣ – LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+      – LIST OF AGREED BORDER INSPECTION POSTS – LISTA POSTURILOR DE INSPECȚIE LA FRONTIERĂ APROBATE – LISTA DE PUESTOS DE
+      INSPECCIÓN FRONTERIZOS AUTORIZADOS – ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC – LISTES DES POSTES D'INSPECTION
+      FRONTALIERS AGRÉÉS – [►M12](http://publications.europa.eu/resource/celex/32013R0519) POPIS ODOBRENIH GRANIČNIH INSPEKCIJSKIH
+      POSTAJA –◄ SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK – ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI – LUETTELO
+      HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA – APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS – FÖRTECKNING ÖVER GODKÄNDA GRÄNSKONTROLLSTATIONER
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: PORTUGAL – ◄ Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA – Ország: PORTUGÁLIA – Pajjiż: PORTUGALL
+      – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina: PORTUGALSKO – Država: PORTUGALSKA
+      – Maa: PORTUGALI – Land: PORTUGAL'
+    - Altera FR00022 RHÔNE-ALPES
+    - Altera Notas
+    - 'Adita Страна: Гренландия — Země: Grónsko — Land: Grønland — Land: GRÖNLAND — Riik: Gröönimaa — Χώρα: Γροινλανδία —
+      Country: GREENLAND — País: Groenlandia — Pays: Groenland — Zemlja: Grenland — Paese: Groenlandia — Valsts: Grenlande
+      — Šalis: Grenlandija — Ország: Grönland — Pajjiż: Greenland — Land: Groenland — Kraj: Grenlandia — País: Gronelândia
+      — Țara: Groenlanda — Krajina: Grónsko — Država: Grenlandija — Maa: Grönlanti — Land: Grönland'
+    - Suprime ЦЕНТРАЛНА ЕДИНИЦА – CENTRINIS VIENETAS – ÚSTŘEDNÍ JEDNOTKA – KÖZPONTI EGYSÉG – CENTRALENHED – UNITÀ ĊENTRALI
+      – ZENTRALE EINHEIT – CENTRALE EENHEID – KESKASUTUS – JEDNOSTKA CENTRALNA – ΚΕΝΤΡΙΚΗ ΜΟΝΑΔΑ – UNIDADE CENTRAL – CENTRAL
+      UNIT – UNITATE CENTRALĂ – UNIDAD CENTRAL – ÚSTREDNÁ JEDNOTKA – UNITÉ CENTRALE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      SREDIŠNJA JEDINICA – ◄GLAVNI URAD – UNITÀ CENTRALE – KESKUSYKSIKKÖ – CENTRĀLĀ VIENĪBA – CENTRALENHET
+  - date: '2014-10-10'
+    amending: eu:celex:32014D0704:por
+    amending_title: DECISÃO DE EXECUÇÃO DA COMISSÃO de 8 de outubro de 2014
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: Гренландия — Země: Grónsko — Land: Grønland — Land: GRÖNLAND — Riik: Gröönimaa — Χώρα: Γροινλανδία —
+      Country: GREENLAND — País: Groenlandia — Pays: Groenland — Zemlja: Grenland — Paese: Groenlandia — Valsts: Grenlande
+      — Šalis: Grenlandija — Ország: Grönland — Pajjiż: Greenland — Land: Groenland — Kraj: Grenlandia — País: Gronelândia
+      — Țara: Groenlanda — Krajina: Grónsko — Država: Grenlandija — Maa: Grönlanti — Land: Grönland'
+    - 'Altera Страна: ХЪРВАТИЯ — Země: CHORVATSKO — Land: KROATIEN — Land: KROATIEN — Riik: HORVAATIA — Χώρα: ΚΡΟΑΤΙΑ — Country:
+      CROATIA — País: CROACIA — Pays: CROATIE — Zemlja: HRVATSKA — Paese: CROAZIA — Valsts: HORVĀTIJA — Šalis: KROATIJA —
+      Ország: HORVÁTORSZÁG — Pajjiż: KROAZJA — Land: KROATIË — Kraj: CHORWACJA — País: CROÁCIA — Țara: CROAȚIA — Krajina:
+      CHORVÁTSKO — Država: HRVAŠKA — Maa: KROATIA — Land: KROATIEN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - Altera Notas
+  - date: '2015-06-16'
+    amending: eu:celex:32015D0919:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/919 DA COMISSÃO de 12 de junho de 2015
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: GRČKA
+      – ◄ Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż: GREĊJA – Land: GRIEKENLAND –
+      Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA – Land: GREKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LATVIJA –
+      ◄ Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż: LATVJA – Land: LETLAND – Kraj: ŁOTWA
+      – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA – Land: LETTLAND'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: UJEDINJENA KRALJEVINA – ◄ Paese: REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország:
+      EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO
+      – Țara: REGATUL UNIT – Krajina: SPOJENÉ KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land:
+      FÖRENADE KUNGARIKET'
+    - Altera IT00015 CAMPANIA
+    - Altera IT00008 EMILIA-ROMAGNA
+    - Altera IT00006 FRIULI VENEZIA GIULIA
+    - Altera IT00016 PUGLIA
+    - Altera IT00009 TOSCANA
+    - Altera IT00005 VENETO
+    - Altera Notas
+    - Adita NL00001 NEDERLANDSE VOEDSEL-EN WARENAUTORITEIT
+    - Suprime NL00001 NVWA NOORD
+    - Suprime NL00002 NVWA NOORDWEST
+    - Suprime NL00003 NVWA OOST
+    - Suprime NL00004 NVWA ZUID
+    - Suprime NL00005 NVWA ZUIDWEST
+  - date: '2015-11-07'
+    amending: eu:celex:32015D1997:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2015/1997 DA COMISSÃO de 5 de novembro de 2015
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: ЛИТВА – Země: LITVA – Land: LITAUEN – Land: LITAUEN – Riik: LEEDU – Χώρα: ΛΙΘΟΥΑΝIΑ – Country: LITHUANIA
+      – País: LITUANIA – Pays: LITUANIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LITVA –
+      ◄ Paese: LITUANIA – Valsts: LIETUVA – Šalis: LIETUVA – Ország: LITVÁNIA – Pajjiż: LITWANJA – Land: LITOUWEN – Kraj:
+      LITWA – País: LITUÂNIA – Țara: LITUANIA – Krajina: LITVA – Država: LITVA – Maa: LIETTUA – Land: LITAUEN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: UJEDINJENA KRALJEVINA – ◄ Paese: REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország:
+      EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO
+      – Țara: REGATUL UNIT – Krajina: SPOJENÉ KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land:
+      FÖRENADE KUNGARIKET'
+    - Altera Notas
+  - date: '2016-05-03'
+    amending: eu:celex:32016D0685:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/685 DA COMISSÃO Texto relevante para efeitos do EEE de 29 de abril de 2016
+    changes:
+    - Altera preambulo
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LATVIJA –
+      ◄ Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż: LATVJA – Land: LETLAND – Kraj: ŁOTWA
+      – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA – Land: LETTLAND'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ПОЛША – Země: POLSKO – Land: POLEN – Land: POLEN – Riik: POOLA – Χώρα: ΠΟΛΩΝIΑ – Country: POLAND – País:
+      POLONIA – Pays: POLOGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: POLJSKA – ◄ Paese:
+      POLONIA – Valsts: POLIJA – Šalis: LENKIJA – Ország: LENGYELORSZÁG – Pajjiż: POLONJA – Land: POLEN – Kraj: POLSKA – País:
+      POLÓNIA – Țara: POLONIA – Krajina: POĽSKO – Država: POLJSKA – Maa: PUOLA – Land: POLEN'
+    - Altera DK00002 FØDEVARESTYRELSEN, ØST
+    - Altera IT00012 LAZIO
+    - Altera IT00003 LOMBARDIA
+    - Altera IT00009 TOSCANA
+    - Altera Notas
+  - date: '2016-11-01'
+    amending: eu:celex:32016D1917:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2016/1917 DA COMISSÃO Texto relevante para efeitos do EEE de 27 de outubro de
+      2016
+    changes:
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Altera Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: GRČKA
+      – ◄ Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż: GREĊJA – Land: GRIEKENLAND –
+      Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA – Land: GREKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: УНГАРИЯ – Země: MAĎARSKO – Land: UNGARN – Land: UNGARN – Riik: UNGARI – Χώρα: ΟΥΓΓΑΡIΑ – Country: HUNGARY
+      – País: HUNGRÍA – Pays: HONGRIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: MAĐARSKA –
+      ◄ Paese: UNGHERIA – Valsts: UNGĀRIJA – Šalis: VENGRIJA – Ország: MAGYARORSZÁG – Pajjiż: UNGERIJA – Land: HONGARIJE –
+      Kraj: WĘGRY – País: HUNGRIA – Țara: UNGARIA – Krajina: MAĎARSKO – Država: MADŽARSKA – Maa: UNKARI – Land: UNGERN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - Altera DE00011 BERLIN
+    - Altera DE00012 BRANDENBURG
+    - Altera DE00003 NIEDERSACHSEN
+    - Adita IT00041 PROVINCIA AUTONOMA DI BOLZANO
+    - Adita IT00042 PROVINCIA AUTONOMA DI TRENTO
+    - Suprime IT00004 TRENTINO-ALTO ADIGE
+    - Suprime Notas
+  - date: '2017-05-11'
+    amending: eu:celex:32017D0800:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2017/800 DA COMISSÃO Texto relevante para efeitos do EEE de 8 de maio de 2017
+    changes:
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - Altera IT00020 SARDEGNA
+    - Altera IT00005 VENETO
+    - Altera AT00300 NIEDERÖSTERREICH
+  - date: '2018-03-02'
+    amending: eu:celex:32018D0313:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/313 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de fevereiro de
+      2018
+    changes:
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ИРЛАНДИЯ – Země: IRSKO – Land: IRLAND – Land: IRLAND – Riik: IIRIMAA – Χώρα: ΙΡΛΑΝΔIΑ – Country: IRELAND
+      – País: IRLANDA – Pays: IRLANDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: IRSKA – ◄
+      Paese: IRLANDA – Valsts: ĪRIJA – Šalis: AIRIJA – Ország: ÍRORSZÁG – Pajjiż: IRLANDA – Land: IERLAND – Kraj: IRLANDIA
+      – País: IRLANDA – Țara: IRLANDA – Krajina: ÍRSKO – Država: IRSKA – Maa: IRLANTI – Land: IRLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - Altera ЛОКАЛНА ЕДИНИЦА — VIETINIAI VIENETAI — MÍSTNÍ JEDNOTKA — HELYI EGYSÉGEK — LOKALE ENHEDER — UNITA’ LOKALI — ÖRTLICHE
+      EINHEITEN — LOKALE EENHEDEN — KOHALIK ASUTUS — JEDNOSTKA LOKALNA — ΤΟΠΙΚΕΣ ΜΟΝΑΔΕΣ — UNIDADES LOCAIS — LOCAL UNITS —
+      UNITĂȚI LOCALE — UNIDADES LOCALES — MIESTNA JEDNOTKA — UNITÉS LOCALES — LOKALNE JEDINICE — OBMOĆNA ENOTA — UNITÀ LOCALI
+      — PAIKALLISET YKSIKÖT — LOKĀLĀ VIENĪBA — LOKALA ENHETER
+  - date: '2019-10-08'
+    amending: eu:celex:32018D0719:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2018/719 DA COMISSÃO Texto relevante para efeitos do EEE de 14 de maio de 2018;
+      DECISÃO DE EXECUÇÃO (UE) 2019/14 DA COMISSÃO Texto relevante para efeitos do EEE de 3 de janeiro de 2019; DECISÃO DE
+      EXECUÇÃO (UE) 2019/1678 DA COMISSÃO Texto relevante para efeitos do EEE de 4 de outubro de 2019
+    changes:
+    - Altera СПИСЪК НА ОДОБРЕНИТЕ ГРАНИЧНИ ИНСПЕКЦИОННИ ПУНКТОВЕ – SUTARTŲ PASIENIO VETERINARIJOS POSTŲ SĄRAŠAS – SEZNAM SCHVÁLENÝCH
+      STANOVIŠŤ HRANIČNÍCH KONTROL – A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK – LISTE OVER GODKENDTE GRÆNSEKONTOLSTEDER
+      – LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA – VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+      – LIJST VAN DE ERKENDE GRENSINSPECTIEPOSTEN – KOKKULEPITUD PIIRIKONTROLLIPUNKTIDE NIMEKIRI – WYKAZ UZGODNIONYCH PUNKTÓW
+      KONTROLI GRANICZNEJ – ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠIΘΕΩΡΗΣΗΣ – LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+      – LIST OF AGREED BORDER INSPECTION POSTS – LISTA POSTURILOR DE INSPECȚIE LA FRONTIERĂ APROBATE – LISTA DE PUESTOS DE
+      INSPECCIÓN FRONTERIZOS AUTORIZADOS – ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC – LISTES DES POSTES D'INSPECTION
+      FRONTALIERS AGRÉÉS – [►M12](http://publications.europa.eu/resource/celex/32013R0519) POPIS ODOBRENIH GRANIČNIH INSPEKCIJSKIH
+      POSTAJA –◄ SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK – ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI – LUETTELO
+      HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA – APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS – FÖRTECKNING ÖVER GODKÄNDA GRÄNSKONTROLLSTATIONER
+    - 'Altera Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Altera Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Altera Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: GRČKA
+      – ◄ Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż: GREĊJA – Land: GRIEKENLAND –
+      Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA – Land: GREKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Altera Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Altera Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: PORTUGAL – ◄ Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA – Ország: PORTUGÁLIA – Pajjiż: PORTUGALL
+      – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina: PORTUGALSKO – Država: PORTUGALSKA
+      – Maa: PORTUGALI – Land: PORTUGAL'
+    - 'Altera Страна: ФИНЛАНДИЯ – Země: FINSKO – Land: FINLAND – Land: FINNLAND – Riik: SOOME – Χώρα: ΦΙΝΛΑΝΔIΑ – Country:
+      FINLAND – País: FINLANDIA – Pays: FINLANDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      FINSKA – ◄ Paese: FINLANDIA – Valsts: SOMIJA – Šalis: SUOMIJA – Ország: FINNORSZÁG – Pajjiż: FINLANDJA – Land: FINLAND
+      – Kraj: FINLANDIA – País: FINLÂNDIA – Țara: FINLANDA – Krajina: FÍNSKO – Država: FINSKA – Maa: SUOMI – Land: FINLAND'
+    - 'Altera Страна: ШВЕЦИЯ – Země: ŠVÉDSKO – Land: SVERIGE – Land: SCHWEDEN – Riik: ROOTSI – Χώρα: ΣΟΥΗΔIΑ – Country: SWEDEN
+      – País: SUECIA – Pays: SUÈDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠVEDSKA – ◄ Paese:
+      SVEZIA – Valsts: ZVIEDRIJA – Šalis: ŠVEDIJA – Ország: SVÉDORSZÁG – Pajjiż: SVEZJA – Land: ZWEDEN – Kraj: SZWECJA – País:
+      SUÉCIA – Țara: SUEDIA – Krajina: ŠVÉDSKO – Država: ŠVEDSKA – Maa: RUOTSI – Land: SVERIGE'
+    - 'Altera Страна: ОБЕДИНЕНО КРАЛСТВО – Země: SPOJENÉ KRÁLOVSTVÍ – Land: DET FORENEDE KONGERIGE – Land: VEREINIGTES KÖNIGREICH
+      – Riik: SUURBRITANNIA – Χώρα: ΗΝΩΜEΝΟ ΒΑΣIΛΕΙΟ – Country: UNITED KINGDOM – País: REINO UNIDO – Pays: ROYAUME-UNI – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: UJEDINJENA KRALJEVINA – ◄ Paese: REGNO UNITO – Valsts: APVIENOTĀ KARALISTE – Šalis: JUNGTINĖ KARALYSTĖ – Ország:
+      EGYESÜLT KIRÁLYSÁG – Pajjiż: RENJU UNIT – Land: VERENIGD KONINKRIJK – Kraj: ZJEDNOCZONE KRÓLESTWO – País: REINO UNIDO
+      – Țara: REGATUL UNIT – Krajina: SPOJENÉ KRÁĽOVSTVO – Država: ZDRUŽENO KRALJESTVO – Maa: YHDISTYNYT KUNINGASKUNTA – Land:
+      FÖRENADE KUNGARIKET'
+    - Altera РЕГИОНАЛНИ И ЛОКАЛНИ УЧАСТЪЦИ – REGIONINIAI IR VIETINIAI VIENETAI – KRAJSKÁ A MÍSTNÍ JEDNOTKA – REGIONÁLIS ÉS
+      HELYI EGYSÉGEK – REGIONALE OG LOKALE ENHEDER – UNITA' REĠJONALI U LOKALI – REGIONALE UND ÖRTLICHE EINHEITEN – REGIONALE
+      EN LOKALE EENHEDEN – PIIRKONDLIKUD JA KOHALIKUD ASUTUSED – REGIONALNE I LOKALNE JEDNOSTKI – ΠΕΡΙΦΕΡΕΙΑΚΕΣ ΚΑΙ ΤΟΠΙΚΕΣ
+      ΜΟΝΑΔΕΣ – UNIDADES LOCAIS E REGIONAIS – REGIONAL AND LOCAL UNITS – UNITĂȚI LOCALE ȘI REGIONALE – UNIDADES REGIONALES
+      Y LOCALES – REGIONÁLNE A MIESTNE JEDNOTKY – UNITÉS RÉGIONALES ET LOCALES – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      REGIONALNE I LOKALNE JEDINICE – ◄ REGIONALNI IN OBMOČNI URADI – UNITÀ REGIONALI E LOCALI – ALUEELLISET JA PAIKALLISET
+      YKSIKÖT – LOKĀLĀ VIENĪBA – REGIONALA OCH LOKALA ENHETER
+    - Altera DE00010 SAARLAND
+    - Altera IT00013 ABRUZZO
+    - Altera IT00015 CAMPANIA
+    - Altera IT00011 MARCHE
+    - Altera IT00014 MOLISE
+    - Altera IT00016 PUGLIA
+    - Altera IT00020 SARDEGNA
+    - Altera IT00005 VENETO
+    - Suprime BE20001 REGIO VLAANDEREN/RÉGION FLAMANDE
+    - Suprime BE20002 REGIO BRUSSEL/RÉGION BRUXELLES
+    - Suprime BE20003 RÉGION WALLONNE/REGIO WALLONIË
+  - date: '2019-12-02'
+    amending: eu:celex:32019D2001:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2019/2001 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de novembro de
+      2019
+    changes:
+    - 'Altera Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Altera Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: GRČKA
+      – ◄ Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż: GREĊJA – Land: GRIEKENLAND –
+      Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA – Land: GREKLAND'
+    - 'Altera Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Altera Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - Altera ЛОКАЛНА ЕДИНИЦА — VIETINIAI VIENETAI — MÍSTNÍ JEDNOTKA — HELYI EGYSÉGEK — LOKALE ENHEDER — UNITA’ LOKALI — ÖRTLICHE
+      EINHEITEN — LOKALE EENHEDEN — KOHALIK ASUTUS — JEDNOSTKA LOKALNA — ΤΟΠΙΚΕΣ ΜΟΝΑΔΕΣ — UNIDADES LOCAIS — LOCAL UNITS —
+      UNITĂȚI LOCALE — UNIDADES LOCALES — MIESTNA JEDNOTKA — UNITÉS LOCALES — LOKALNE JEDINICE — OBMOĆNA ENOTA — UNITÀ LOCALI
+      — PAIKALLISET YKSIKÖT — LOKĀLĀ VIENĪBA — LOKALA ENHETER
+  - date: '2019-12-14'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.º — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.º — Definições
+    - Suprime Artigo 3.º — Lista de postos de inspecção fronteiriços
+    - Suprime Artigo 4.º — Inspecções nos postos de inspecção fronteiriços
+    - Suprime Artigo 5.º — Inspecções noutros pontos de entrada na Comunidade
+    - Suprime Artigo 6.º — Componentes do Traces
+    - Suprime Artigo 7.º — Lista de unidades centrais, regionais e locais do Traces
+    - Suprime Artigo 8.º — Revogações
+    - Suprime Artigo 9.º — Destinatários
+    - Suprime ANEXO I
+    - Suprime LISTA DE POSTOS DE INSPECÇÃO FRONTEIRIÇOS
+    - Suprime ПРИЛОЖЕНИЕ – PRIEDAS – PŘÍLOHA – MELLÉKLET – BILAG – ANNESS – ANHANG – BIJLAGE – LISA – ZAŁĄCZNIK – ΠΑΡΑΡΤΗΜΑ
+      – ANEXO – ANNEX – ANEXĂ – ANEXO – PRÍLOHA – ANNEXE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      PRILOG –◄ PRILOGA – ALLEGATO – LIITE – PIELIKUMS – BILAGA
+    - Suprime СПИСЪК НА ОДОБРЕНИТЕ ГРАНИЧНИ ИНСПЕКЦИОННИ ПУНКТОВЕ – SUTARTŲ PASIENIO VETERINARIJOS POSTŲ SĄRAŠAS – SEZNAM
+      SCHVÁLENÝCH STANOVIŠŤ HRANIČNÍCH KONTROL – A MEGÁLLAPODÁS SZERINTI HATÁRELLENŐRZŐ PONTOK – LISTE OVER GODKENDTE GRÆNSEKONTOLSTEDER
+      – LISTA TA' POSTIJIET MIFTIEHMA GĦAL SPEZZJONIJIET TA' FRUNTIERA – VERZEICHNIS DER ZUGELASSENEN GRENZKONTROLLSTELLEN
+      – LIJST VAN DE ERKENDE GRENSINSPECTIEPOSTEN – KOKKULEPITUD PIIRIKONTROLLIPUNKTIDE NIMEKIRI – WYKAZ UZGODNIONYCH PUNKTÓW
+      KONTROLI GRANICZNEJ – ΚΑΤΑΛΟΓΟΣ ΤΩΝ ΕΓΚΕΚΡΙΜΕΝΩΝ ΜΕΘΟΡΙΑΚΩΝ ΣΤΑΘΜΩΝ ΕΠIΘΕΩΡΗΣΗΣ – LISTA DOS POSTOS DE INSPECÇÃO APROVADOS
+      – LIST OF AGREED BORDER INSPECTION POSTS – LISTA POSTURILOR DE INSPECȚIE LA FRONTIERĂ APROBATE – LISTA DE PUESTOS DE
+      INSPECCIÓN FRONTERIZOS AUTORIZADOS – ZOZNAM SCHVÁLENÝCH HRANIČNÝCH INŠPEKČNÝCH STANÍC – LISTES DES POSTES D'INSPECTION
+      FRONTALIERS AGRÉÉS – [►M12](http://publications.europa.eu/resource/celex/32013R0519) POPIS ODOBRENIH GRANIČNIH INSPEKCIJSKIH
+      POSTAJA –◄ SEZNAM DOGOVORJENIH MEJNIH KONTROLNIH TOČK – ELENCO DEI POSTI DI ISPEZIONE FRONTALIERI RICONOSCIUTI – LUETTELO
+      HYVÄKSYTYISTÄ RAJATARKASTUSASEMISTA – APSTIPRINĀTO ROBEŽKONTROLES PUNKTU SARAKSTS – FÖRTECKNING ÖVER GODKÄNDA GRÄNSKONTROLLSTATIONER
+    - 'Suprime Страна: БЕЛГИЯ – Země: BELGIE – Land: BELGIEN – Land: BELGIEN – Riik: BELGIA – Χώρα: ΒΕΛΓΙΟ – Country: BELGIUM
+      – País: BÉLGICA – Pays: BELGIQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: BELGIJA –
+      ◄ Paese: BELGIO – Valsts: BEĻĢIJA – Šalis: BELGIJA – Ország: BELGIUM – Pajjiż: BELĠJU – Land: BELGIË – Kraj: BELGIA
+      – País: BÉLGICA – Țara: BELGIA – Krajina: BELGICKO – Država: BELGIJA – Maa: BELGIA – Land: BELGIEN'
+    - 'Suprime Страна: БЪЛГАРИЯ – Země: BULHARSKO – Land: BULGARIEN – Land: BULGARIEN – Riik: BULGAARIA – Χώρα: ΒΟΥΛΓΑΡΙΑ
+      – Country: BULGARIA – País: BULGARIA – Pays: BULGARIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: BUGARSKA – ◄ Paese: BULGARIA – Valsts: BULGĀRIJA – Šalis: BULGARIJA – Ország: BULGÁRIA – Pajjiż: BULGARIJA –
+      Land: BULGARIJE – Kraj: BUŁGARIA – País: BULGÁRIA – Țara: BULGARIA – Krajina: BULHARSKO – Država: BOLGARIJA – Maa: BULGARIA
+      – Land: BULGARIEN'
+    - 'Suprime Страна: ЧЕШКА РЕПУБЛИКА – Země: ČESKÁ REPUBLIKA – Land: TJEKKIET – Land: TSCHECHISCHE REPUBLIK – Riik: TŠEHHI
+      VABARIIK – Χώρα: ΤΣΕΧΙΚΗ ΔΗΜΟΚΡΑΤΙΑ – Country: CZECH REPUBLIC – País: REPÚBLICA CHECA – Pays: RÉPUBLIQUE TCHÈQUE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: ČEŠKA REPUBLIKA – ◄ Paese: REPUBBLICA CECA – Valsts: ČEHIJA – Šalis: ČEKIJOS RESPUBLIKA – Ország: CSEH KÖZTÁRSASÁG
+      – Pajjiż: REPUBBLIKA ĊEKA – Land: TSJECHIË – Kraj: REPUBLIKA CZESKA – País: REPÚBLICA CHECA – Țara: REPUBLICA CEHĂ –
+      Krajina: ČESKÁ REPUBLIKA – Država: ČEŠKA – Maa: TŠEKKI – Land: TJECKIEN'
+    - 'Suprime Страна: ДАНИЯ – Země: DÁNSKO – Land: DANMARK – Land: DÄNEMARK – Riik: TAANI – Χώρα: ΔΑΝIΑ – Country: DENMARK
+      – País: DINAMARCA – Pays: DANEMARK – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: DANSKA
+      – ◄ Paese: DANIMARCA – Valsts: DĀNIJA – Šalis: DANIJA – Ország: DÁNIA – Pajjiż: DANIMARKA – Land: DENEMARKEN – Kraj:
+      DANIA – País: DINAMARCA – Țara: DANEMARCA – Krajina: DÁNSKO – Država: DANSKA – Maa: TANSKA – Land: DANMARK'
+    - 'Suprime Страна: ГЕРМАНИЯ – Země: NĚMECKO – Land: TYSKLAND – Land: DEUTSCHLAND – Riik: SAKSAMAA – Χώρα: ΓΕΡΜΑΝIΑ – Country:
+      GERMANY – País: ALEMANIA – Pays: ALLEMAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja:
+      NJEMAČKA – ◄ Paese: GERMANIA – Valsts: VĀCIJA – Šalis: VOKIETIJA – Ország: NÉMETORSZÁG – Pajjiż: ĠERMANJA – Land: DUITSLAND
+      – Kraj: NIEMCY – País: ALEMANHA – Țara: GERMANIA – Krajina: NEMECKO – Država: NEMČIJA – Maa: SAKSA – Land: TYSKLAND'
+    - 'Suprime Страна: ЕСТОНИЯ – Země: ESTONSKO – Land: ESTLAND – Land: ESTLAND – Riik: EESTI – Χώρα: ΕΣΘΟΝIΑ – Country: ESTONIA
+      – País: ESTONIA – Pays: ESTONIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ESTONIJA –
+      ◄ Paese: ESTONIA – Valsts: IGAUNIJA – Šalis: ESTIJA – Ország: ÉSZTORSZÁG – Pajjiż: ESTONJA – Land: ESTLAND – Kraj: ESTONIA
+      – País: ESTÓNIA – Țara: ESTONIA – Krajina: ESTÓNSKO – Država: ESTONIJA – Maa: VIRO – Land: ESTLAND'
+    - 'Suprime Страна: ИРЛАНДИЯ – Země: IRSKO – Land: IRLAND – Land: IRLAND – Riik: IIRIMAA – Χώρα: ΙΡΛΑΝΔIΑ – Country: IRELAND
+      – País: IRLANDA – Pays: IRLANDE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: IRSKA – ◄
+      Paese: IRLANDA – Valsts: ĪRIJA – Šalis: AIRIJA – Ország: ÍRORSZÁG – Pajjiż: IRLANDA – Land: IERLAND – Kraj: IRLANDIA
+      – País: IRLANDA – Țara: IRLANDA – Krajina: ÍRSKO – Država: IRSKA – Maa: IRLANTI – Land: IRLAND'
+    - 'Suprime Страна: ГЪРЦИЯ – Země: ŘECKO – Land: GRÆKENLAND – Land: GRIECHENLAND – Riik: KREEKA – Χώρα: ΕΛΛAΣ – Country:
+      GREECE – País: GRECIA – Pays: GRÈCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: GRČKA
+      – ◄ Paese: GRECIA – Valsts: GRIEĶIJA – Šalis: GRAIKIJA – Ország: GÖRÖGORSZÁG – Pajjiż: GREĊJA – Land: GRIEKENLAND –
+      Kraj: GRECJA – País: GRÉCIA – Țara: GRECIA – Krajina: GRÉCKO – Država: GRČIJA – Maa: KREIKKA – Land: GREKLAND'
+    - 'Suprime Страна: ИСПАНИЯ – Země: ŠPANĚLSKO – Land: SPANIEN – Land: SPANIEN – Riik: HISPAANIA – Χώρα: ΙΣΠΑΝIΑ – Country:
+      SPAIN – País: ESPAÑA – Pays: ESPAGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ŠPANJOLSKA
+      – ◄ Paese: SPAGNA – Valsts: SPĀNIJA – Šalis: ISPANIJA – Ország: SPANYOLORSZÁG – Pajjiż: SPANJA – Land: SPANJE – Kraj:
+      HISZPANIA – País: ESPANHA – Țara: SPANIA – Krajina: ŠPANIELSKO – Država: ŠPANIJA – Maa: ESPANJA – Land: SPANIEN'
+    - 'Suprime Страна: ФРАНЦИЯ – Země: FRANCIE – Land: FRANKRIG – Land: FRANKREICH – Riik: PRANTSUSMAA – Χώρα: ΓΑΛΛIΑ – Country:
+      FRANCE – País: FRANCIA – Pays: FRANCE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: FRANCUSKA
+      – ◄ Paese: FRANCIA – Valsts: FRANCIJA – Šalis: PRANCŪZIJA – Ország: FRANCIAORSZÁG – Pajjiż: FRANZA – Land: FRANKRIJK
+      – Kraj: FRANCJA – País: FRANÇA – Țara: FRANȚA – Krajina: FRANCÚZSKO – Država: FRANCIJA – Maa: RANSKA – Land: FRANKRIKE'
+    - 'Suprime Страна: Гренландия — Země: Grónsko — Land: Grønland — Land: GRÖNLAND — Riik: Gröönimaa — Χώρα: Γροινλανδία
+      — Country: GREENLAND — País: Groenlandia — Pays: Groenland — Zemlja: Grenland — Paese: Groenlandia — Valsts: Grenlande
+      — Šalis: Grenlandija — Ország: Grönland — Pajjiż: Greenland — Land: Groenland — Kraj: Grenlandia — País: Gronelândia
+      — Țara: Groenlanda — Krajina: Grónsko — Država: Grenlandija — Maa: Grönlanti — Land: Grönland'
+    - 'Suprime Страна: ХЪРВАТИЯ — Země: CHORVATSKO — Land: KROATIEN — Land: KROATIEN — Riik: HORVAATIA — Χώρα: ΚΡΟΑΤΙΑ — Country:
+      CROATIA — País: CROACIA — Pays: CROATIE — Zemlja: HRVATSKA — Paese: CROAZIA — Valsts: HORVĀTIJA — Šalis: KROATIJA —
+      Ország: HORVÁTORSZÁG — Pajjiż: KROAZJA — Land: KROATIË — Kraj: CHORWACJA — País: CROÁCIA — Țara: CROAȚIA — Krajina:
+      CHORVÁTSKO — Država: HRVAŠKA — Maa: KROATIA — Land: KROATIEN'
+    - 'Suprime Страна: ИТАЛИЯ – Země: ITÁLIE – Land: ITALIEN – Land: ITALIEN – Riik: ITAALIA – Χώρα: ΙΤΑΛIΑ – Country: ITALY
+      – País: ITALIA – Pays: ITALIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: ITALIJA – ◄
+      Paese: ITALIA – Valsts: ITĀLIJA – Šalis: ITALIJA – Ország: OLASZORSZÁG – Pajjiż: ITALJA – Land: ITALIË – Kraj: WŁOCHY
+      – País: ITÁLIA – Țara: ITALIA – Krajina: TALIANSKO – Država: ITALIJA – Maa: ITALIA – Land: ITALIEN'
+    - 'Suprime Страна: КИПЪР – Země: KYPR – Land: CYPERN – Land: ZYPERN – Riik: KÜPROS – Χώρα: ΚΥΠΡΟΣ – Country: CYPRUS –
+      País: CHIPRE – Pays: CHYPRE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: CIPAR – ◄ Paese:
+      CIPRO – Valsts: KIPRA – Šalis: KIPRAS – Ország: CIPRUS – Pajjiż: ĊIPRU – Land: CYPRUS – Kraj: CYPR – País: CHIPRE –
+      Țara: CIPRU – Krajina: CYPRUS – Država: CIPER – Maa: KYPROS – Land: CYPERN'
+    - 'Suprime Страна: ЛАТВИЯ – Země: LOTYŠSKO – Land: LETLAND – Land: LETTLAND – Riik: LÄTI – Χώρα: ΛΕΤΤΟΝIΑ – Country: LATVIA
+      – Pais: LETONIA – Pays: LETTONIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LATVIJA –
+      ◄ Paese: LETTONIA – Valsts: LATVIJA – Šalis: LATVIJA – Ország: LETTORSZÁG – Pajjiż: LATVJA – Land: LETLAND – Kraj: ŁOTWA
+      – País: LETÓNIA – Țara: LETONIA – Krajina: LOTYŠSKO – Država: LATVIJA – Maa: LATVIA – Land: LETTLAND'
+    - 'Suprime Страна: ЛИТВА – Země: LITVA – Land: LITAUEN – Land: LITAUEN – Riik: LEEDU – Χώρα: ΛΙΘΟΥΑΝIΑ – Country: LITHUANIA
+      – País: LITUANIA – Pays: LITUANIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: LITVA –
+      ◄ Paese: LITUANIA – Valsts: LIETUVA – Šalis: LIETUVA – Ország: LITVÁNIA – Pajjiż: LITWANJA – Land: LITOUWEN – Kraj:
+      LITWA – País: LITUÂNIA – Țara: LITUANIA – Krajina: LITVA – Država: LITVA – Maa: LIETTUA – Land: LITAUEN'
+    - 'Suprime Страна: ЛЮКСЕМБУРГ – Země: LUCEMBURSKO – Land: LUXEMBOURG – Land: LUXEMBURG – Riik: LUKSEMBURG – Χώρα: ΛΟΥΞΕΜΒΟΥΡΓΟ
+      – Country: LUXEMBOURG – País: LUXEMBURGO – Pays: LUXEMBOURG – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: LUKSEMBURG – ◄ Paese: LUSSEMBURGO – Valsts: LUKSEMBURGA – Šalis: LIUKSEMBURGAS – Ország: LUXEMBURG – Pajjiż:
+      LUSSEMBURGU – Land: LUXEMBURG – Kraj: LUKSEMBURG – País: LUXEMBURGO – Țara: LUXEMBURG – Krajina: LUXEMBURSKO – Država:
+      LUKSEMBURG – Maa: LUXEMBURG – Land: LUXEMBURG'
+    - 'Suprime Страна: УНГАРИЯ – Země: MAĎARSKO – Land: UNGARN – Land: UNGARN – Riik: UNGARI – Χώρα: ΟΥΓΓΑΡIΑ – Country: HUNGARY
+      – País: HUNGRÍA – Pays: HONGRIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: MAĐARSKA –
+      ◄ Paese: UNGHERIA – Valsts: UNGĀRIJA – Šalis: VENGRIJA – Ország: MAGYARORSZÁG – Pajjiż: UNGERIJA – Land: HONGARIJE –
+      Kraj: WĘGRY – País: HUNGRIA – Țara: UNGARIA – Krajina: MAĎARSKO – Država: MADŽARSKA – Maa: UNKARI – Land: UNGERN'
+    - 'Suprime Страна: МАЛТА – Země: MALTA – Land: MALTA – Land: MALTA – Riik: MALTA – Χώρα: ΜAΛΤΑ – Country: MALTA – País:
+      MALTA – Pays: MALTE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: MALTA – ◄ Paese: MALTA
+      – Valsts: MALTA – Šalis: MALTA – Ország: MÁLTA – Pajjiż: MALTA – Land: MALTA – Kraj: MALTA – País: MALTA – Țara: MALTA
+      – Krajina: MALTA – Država: MALTA – Maa: MALTA – Land: MALTA'
+    - 'Suprime Страна: НИДЕРЛАНДИЯ – Země: NIZOZEMSKO – Land: NEDERLANDENE – Land: NIEDERLANDE – Riik: HOLLAND – Χώρα: ΚAΤΩ
+      ΧΩΡΕΣ – Country: NETHERLANDS – País: PAÍSES BAJOS – Pays: PAYS-BAS – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: NIZOZEMSKA – ◄ Paese: PAESI BASSI – Valsts: NĪDERLANDE – Šalis: NYDERLANDAI – Ország: HOLLANDIA – Pajjiż: OLANDA
+      – Land: NEDERLAND – Kraj: NIDERLANDY – País: PAÍSES BAIXOS – Țara: ȚĂRILE DE JOS – Krajina: HOLANDSKO – Država: NIZOZEMSKA
+      – Maa: ALANKOMAAT – Land: NEDERLÄNDERNA'
+    - 'Suprime Страна: АВСТРИЯ – Země: RAKOUSKO – Land: ØSTRIG – Land: ÖSTERREICH – Riik: AUSTRIA – Χώρα: ΑΥΣΤΡIΑ – Country:
+      AUSTRIA – País: AUSTRIA – Pays: AUTRICHE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: AUSTRIJA
+      – ◄ Paese: AUSTRIA – Valsts: AUSTRIJA – Šalis: AUSTRIJA – Ország: AUSZTRIA – Pajjiż: AWSTRIJA – Land: OOSTENRIJK – Kraj:
+      AUSTRIA – País: ÁUSTRIA – Țara: AUSTRIA – Krajina: RAKÚSKO – Država: AVSTRIJA – Maa: ITÄVALTA – Land: ÖSTERRIKE'
+    - 'Suprime Страна: ПОЛША – Země: POLSKO – Land: POLEN – Land: POLEN – Riik: POOLA – Χώρα: ΠΟΛΩΝIΑ – Country: POLAND –
+      País: POLONIA – Pays: POLOGNE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: POLJSKA – ◄
+      Paese: POLONIA – Valsts: POLIJA – Šalis: LENKIJA – Ország: LENGYELORSZÁG – Pajjiż: POLONJA – Land: POLEN – Kraj: POLSKA
+      – País: POLÓNIA – Țara: POLONIA – Krajina: POĽSKO – Država: POLJSKA – Maa: PUOLA – Land: POLEN'
+    - 'Suprime Страна: ПОРТУГАЛИЯ - Země: PORTUGALSKO – Land: PORTUGAL – Land: PORTUGAL – Riik: PORTUGAL – Χώρα: ΠΟΡΤΟΓΑΛIΑ
+      – Country: PORTUGAL – País: PORTUGAL – Pays: PORTUGAL – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: PORTUGAL – ◄ Paese: PORTOGALLO – Valsts: PORTUGĀLE – Šalis: PORTUGALIJA – Ország: PORTUGÁLIA – Pajjiż: PORTUGALL
+      – Land: PORTUGAL – Kraj: PORTUGALIA – País: PORTUGAL – Țara: PORTUGALIA – Krajina: PORTUGALSKO – Država: PORTUGALSKA
+      – Maa: PORTUGALI – Land: PORTUGAL'
+    - 'Suprime Страна: РУМЪНИЯ – Země: RUMUNSKO – Land: RUMÆNIEN – Land: RUMÄNIEN – Riik: RUMEENIA – Χώρα: ΡΟΥΜΑΝIΑ – Country:
+      ROMANIA – País: RUMANÍA – Pays: ROUMANIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519) Zemlja: RUMUNJSKA
+      – ◄ Paese: ROMANIA – Valsts: RUMĀNIJA – Šalis: RUMUNIJA – Ország: ROMÁNIA – Pajjiż: RUMANIJA – Land: ROEMENIË – Kraj:
+      RUMUNIA – País: ROMÉNIA – Țara: ROMÂNIA – Krajina: RUMUNSKO – Država: ROMUNIJA – Maa: ROMANIA – Land: RUMÄNIEN'
+    - 'Suprime Страна: СЛОВЕНИЯ – Země: SLOVINSKO – Land: SLOVENIEN – Land: SLOWENIEN – Riik: SLOVEENIA – Χώρα: ΣΛΟΒΕΝIΑ –
+      Country: SLOVENIA – País: ESLOVENIA – Pays: SLOVÉNIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: SLOVENIJA – ◄ Paese: SLOVENIA – Valsts: SLOVĒNIJA – Šalis: SLOVĖNIJA – Ország: SZLOVÉNIA – Pajjiż: SLOVENJA
+      – Land: SLOVENIË – Kraj: SŁOWENIA – País: ESLOVÉNIA – Țara: SLOVENIA – Krajina: SLOVINSKO – Država: SLOVENIJA – Maa:
+      SLOVENIA – Land: SLOVENIEN'
+    - 'Suprime Страна: СЛОВАКИЯ – Země: SLOVENSKO – Land: SLOVAKIET – Land: SLOWAKEI – Riik: SLOVAKKIA – Χώρα: ΣΛΟΒΑΚIΑ –
+      Country: SLOVAKIA – País: ESLOVAQUIA – Pays: SLOVAQUIE – [►M12](http://publications.europa.eu/resource/celex/32013R0519)
+      Zemlja: SLOVAČKA – ◄ Paese: SLOVACCHIA – Valsts: SLOVĀKIJA – Šalis: SLOVAKIJA – Ország: SZLOVÁKIA – Pajjiż: SLOVAKJA
+      – Land: SLOWAKIJE – Kraj: SŁOWACJA – País: ESLOVÁQUIA – Țara: SLOVACIA – Krajina: SLOVENSKO – Država: SLOVAŠKA – Maa:
+      SLOVAKIA – Land: SLOVAKIEN'
 identifiers:
   celex: 32009D0821
   eli: http://data.europa.eu/eli/dec/2009/821/oj
@@ -49,7 +1359,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/00e5bb13-2122-429b-b538-fc0796de735f.0018
   content_url: http://publications.europa.eu/resource/cellar/ce2eca52-6690-11ed-b14f-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0821-20191214
-  retrieved_at: '2026-10-22T02:59:08Z'
+  retrieved_at: '2026-10-22T15:35:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T14:17:18.155+02:00'
 integrity:
@@ -58,9 +1368,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:08Z'
-  notes: Texto consolidado 02009D0821-20191214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:04Z'
+  notes: 24 versão(ões); histórico completo em decisao-ue-2009-821.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -404,16 +1714,14 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:08Z'
-  warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  checked_at: '2026-10-22T15:35:04Z'
+  warnings: []
   errors: []
 ---
 

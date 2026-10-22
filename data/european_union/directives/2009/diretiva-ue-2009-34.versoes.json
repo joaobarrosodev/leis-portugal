@@ -1,0 +1,362 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32009L0034:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0034-20190726",
+ "dre_path": null,
+ "source_lastmod": "2019-07-26",
+ "versions": [
+  {
+   "date": "2009-04-28",
+   "future": false,
+   "celex": "32009L0034",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "d357db9ab9e38826",
+    "226c39ffd0a88dad",
+    "6e02c9ba736dd2ac",
+    "257d90ea01044066",
+    "f0f8c960bfdbce9b",
+    "0418dc86274cc097",
+    "8fd6690a57744f85",
+    "f552f62f822b5f0e",
+    "a682de17e01d5163",
+    "15bf49b4f0cbcd30",
+    "5a07ae84ecca4590",
+    "cae0a5a05df098ef",
+    "1e7a0903d2eed348",
+    "33d1198fc88f7875",
+    "97a96028fac64d72",
+    "ad023a742126a1db",
+    "14a5d6f7923116a2",
+    "ace746a8e8dcc5a2",
+    "1ecfc79da3f1ac7f",
+    "570e052509260efd",
+    "102df35f7540e776",
+    "1755305837f74000",
+    "314fe89fdedc4092",
+    "40ed6b62e188ac6f",
+    "611eeba530b2e66d",
+    "216d44c3a98b17e2",
+    "b76d202a844f758e",
+    "09aa51016eb965a4",
+    "9f63c63e4310f6d6",
+    "05d3c64bbfc07d46",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "89154c6dc68f74d6",
+    "85c30a9d7252f072",
+    "ddf41fef04f90b99",
+    "d1462bfbf6fa7548",
+    "0205f6f03bb9d881",
+    "439c2b277d37d4c8"
+   ]
+  }
+ ],
+ "fragments": {
+  "d357db9ab9e38826": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 23 de Abril de 2009\n\nrespeitante às disposições comuns sobre os instrumentos de medição e os métodos de controlo metrológico\n\n(reformulação)\n\n(Texto relevante para efeitos do EEE)\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado que institui a Comunidade Europeia, nomeadamente o artigo 95.º,\n\nTendo em conta a proposta da Comissão,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntr1-L_2009106PT.01000701-E0001),\n\nDeliberando nos termos do artigo 251.º do Tratado [([^2])](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntr2-L_2009106PT.01000701-E0002),\n\nConsiderando o seguinte:\n\n(1) A Directiva 71/316/CEE do Conselho, de 26 de Julho de 1971, relativa à aproximação das legislações dos Estados-Membros respeitantes às disposições comuns sobre os instrumentos de medição e os métodos de controlo metrológico [([^3])](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntr3-L_2009106PT.01000701-E0003), foi por diversas vezes alterada de modo substancial [([^4])](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntr4-L_2009106PT.01000701-E0004). Uma vez que são necessárias novas alterações, deverá proceder-se, por razões de clareza, à sua reformulação.\n\n(2) Em cada Estado-Membro, disposições imperativas determinam as características técnicas dos instrumentos de medição bem como os métodos de controlo metrológico. Estas disposições diferem de um Estado-Membro para outro. A sua disparidade entrava o comércio e pode criar condições desiguais de concorrência na Comunidade.\n\n(3) Uma das finalidades dos controlos existentes em cada Estado-Membro é garantir aos compradores que as quantidades fornecidas correspondem realmente ao preço pago. Consequentemente, o objectivo da presente directiva não é abolir esses controlos, mas eliminar as diferenças de regulamentação na medida em que estas constituem um obstáculo ao comércio.\n\n(4) Estes obstáculos ao funcionamento do mercado interno podem ser reduzidos e eliminados se as mesmas prescrições forem aplicáveis nos Estados-Membros, inicialmente em complemento das disposições nacionais em vigor e, posteriormente, quando estiverem reunidas as condições necessárias, em substituição dessas disposições nacionais.\n\n(5) Mesmo durante o período em que coexistem com as disposições nacionais, as prescrições comunitárias oferecem às empresas a possibilidade de fabricar produtos cujas características técnicas são uniformes e que podem, portanto, ser comercializados e utilizados em toda a Comunidade, após terem sido submetidos aos controlos CE.\n\n(6) As prescrições comunitárias de realização técnica e de funcionamento devem assegurar que os instrumentos forneçam, em utilização continuada, medições suficientemente exactas para o uso a que se destinam.\n\n(7) É normalmente efectuado pelos Estados-Membros um controlo do cumprimento das prescrições técnicas antes da comercialização ou da primeira utilização e, se for caso disso, durante a utilização dos instrumentos de medição, nomeadamente através de processos de aprovação de modelo e de verificação. Para realizar a livre circulação destes instrumentos na Comunidade, torna-se igualmente necessário prever, entre os Estados-Membros, o reconhecimento mútuo das operações de controlo e instituir, com este objectivo, processos adequados de aprovação CE de modelo e de primeira verificação CE, bem como métodos de controlo metrológico, em conformidade com o disposto na presente directiva e nas directivas especiais.\n\n(8) A presença, num instrumento de medição ou num produto, de sinais ou marcas correspondentes aos controlos que lhe são aplicáveis cria a presunção de que esse instrumento ou esse produto está conforme às prescrições técnicas comunitárias correspondentes, tornando assim desnecessária, aquando da importação e da entrada em serviço, a repetição de controlos já efectuados.\n\n(9) As regulamentações metrológicas nacionais têm por objecto numerosas categorias de instrumentos de medição e de produtos. A presente directiva fixa as disposições gerais que dizem respeito, nomeadamente, aos processos de aprovação CE de modelo e de primeira verificação CE, bem como os métodos de controlo metrológico CE. Directivas de aplicação, específicas para cada categoria de instrumento e de produtos, estabelecerão as prescrições respeitantes à realização técnica, ao funcionamento e à precisão, as modalidades de controlo e, eventualmente, as condições em que as prescrições técnicas comunitárias substituem as disposições nacionais preexistentes.\n\n(10) As medidas necessárias à execução da presente directiva deverão ser aprovadas nos termos da Decisão 1999/468/CE do Conselho, de 28 de Junho de 1999, que fixa as regras de exercício das competências de execução atribuídas à Comissão [([^5])](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntr5-L_2009106PT.01000701-E0005).\n\n(11) Em especial, deverá ser atribuída competência à Comissão para alterar os anexos I e II da presente directiva e os anexos das directivas especiais. Atendendo a que têm alcance geral e se destinam a alterar elementos não essenciais da presente directiva e das directivas especiais, essas medidas devem ser aprovadas pelo procedimento de regulamentação com controlo previsto no artigo 5.º-A da Decisão 1999/468/CE.\n\n(12) Os novos elementos a introduzir na presente directiva apenas dizem respeito aos procedimentos de comitologia. Não precisam, portanto, de ser objecto de transposição pelos Estados-Membros.\n\n(13) A presente directiva não deverá prejudicar as obrigações dos Estados-Membros relativas aos prazos de transposição para o direito nacional das directivas, indicados na parte B do anexo III,\n\nAPROVARAM A PRESENTE DIRECTIVA:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "6e02c9ba736dd2ac": {
+   "fragment_id": "PRINCÍPIOS DE BASE",
+   "type": "divisao",
+   "heading": "PRINCÍPIOS DE BASE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRINCÍPIOS DE BASE"
+  },
+  "257d90ea01044066": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\n1. A presente directiva é aplicável:\n\na) Aos instrumentos, na acepção do n.º 2;\n\nb) Às unidades de medida, à harmonização dos métodos de medição e de controlo metrológico e, eventualmente, dos meios necessários à sua aplicação;\n\nc) À fixação, aos métodos de medição, ao controlo metrológico e à marcação das quantidades de produtos em pré-embalagens.\n\n2. Para efeitos da presente directiva, entende-se por «instrumentos» os instrumentos de medição, as partes destes instrumentos de medição, os dispositivos complementares e o equipamento de medição.\n\n3. Os Estados-Membros não podem, por motivos decorrentes da presente directiva e das directivas especiais que se lhe refiram, recusar, proibir ou restringir a colocação no mercado e/ou a entrada em serviço de um instrumento ou de um dispositivo complementar referido no n.º 1 munidos das marcas e/ou símbolos CE nas condições previstas na presente directiva e nas directivas especiais relativas ao instrumento ou ao dispositivo complementar em causa.\n\n4. Os Estados-Membros atribuem à aprovação CE de modelo e à primeira verificação CE o mesmo valor que aos actos nacionais correspondentes.\n\n5. As directivas especiais relativas às matérias referidas no n.º 1 especificam:\n\n— em especial, os procedimentos e as qualidades metrológicas e as prescrições técnicas de realização e de funcionamento, no que toca aos instrumentos referidos na alínea a) do n.º 1,\n\n— as prescrições relativas ao disposto nas alíneas b) e c) do n.º 1.\n\n6. As directivas especiais podem fixar a data em que as disposições comunitárias substituirão as disposições nacionais existentes."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "0418dc86274cc097": {
+   "fragment_id": "APROVAÇÃO CE DE MODELO",
+   "type": "divisao",
+   "heading": "APROVAÇÃO CE DE MODELO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### APROVAÇÃO CE DE MODELO"
+  },
+  "8fd6690a57744f85": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros procedem à aprovação CE de modelo de acordo com o disposto na presente directiva e nas directivas especiais.\n\n2. A aprovação CE de modelo de instrumentos constitui a admissão à primeira verificação CE e, quando esta não é exigida, a autorização de colocação no mercado e/ou de entrada em serviço do referido instrumento. Se a(s) directiva(s) especial(especiais) que lhe diga(m) respeito dispensar(em) uma categoria de instrumentos dessa aprovação CE de modelo, os instrumentos dessa categoria são directamente admitidos à primeira verificação CE.\n\n3. Se os equipamentos de controlo de que dispõem o permitirem, os Estados-Membros concedem a aprovação CE de modelo a todos os instrumentos que corresponderem às prescrições da presente directiva e das directivas especiais que se lhes referem.\n\n4. Um pedido de aprovação CE de modelo só pode ser apresentado pelo fabricante ou pelo seu mandatário estabelecido na Comunidade. Para um mesmo instrumento, o pedido só pode ser feito num único Estado-Membro.\n\n5. O Estado-Membro que tiver concedido uma aprovação CE de modelo toma as medidas necessárias para ser informado de qualquer alteração ou complemento ao modelo aprovado. Deles dá conhecimento aos outros Estados-Membros.\n\nAs alterações ou complementos a um modelo aprovado, quando influenciem ou possam influenciar os resultados das medições ou as condições prescritas para a utilização do instrumento, devem ser objecto de uma aprovação CE de modelo complementar por parte do Estado-Membro que tiver concedido a aprovação CE de modelo.\n\nSerá, contudo, concedida uma nova aprovação CE de modelo para o modelo alterado, em vez de um complemento ao certificado original de aprovação CE de modelo, se a alteração do modelo tiver sido efectuada após uma alteração ou adaptação das disposições da presente directiva ou da directiva especial que se lhe refere de natureza tal que o modelo alterado só possa ser aprovado pela aplicação das novas disposições."
+  },
+  "f552f62f822b5f0e": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nQuando for concedida uma aprovação CE de modelo para dispositivos complementares, a aprovação especifica:\n\na) Os modelos de instrumentos aos quais estes dispositivos podem ser associados ou nos quais podem ser incorporados;\n\nb) As condições gerais de funcionamento de conjunto dos instrumentos para os quais são aprovados."
+  },
+  "a682de17e01d5163": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nQuando um instrumento tiver sido submetido com êxito ao exame de aprovação CE de modelo previsto na presente directiva e nas directivas especiais que se lhe referem, o Estado-Membro que tiver procedido a este exame emite um certificado de aprovação CE de modelo.\n\nO Estado-Membro notifica este certificado ao requerente.\n\nEste tem a obrigação, nos casos previstos no artigo 11.º da presente directiva ou numa directiva especial, e a faculdade, nos outros casos, de apor ou mandar apor em cada instrumento conforme ao modelo aprovado o sinal de aprovação CE indicado no certificado."
+  },
+  "15bf49b4f0cbcd30": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\n1. A aprovação CE de modelo é válida durante dez anos. Pode ser prorrogada por períodos sucessivos de dez anos. O número de instrumentos que podem ser fabricados em conformidade com o modelo aprovado é ilimitado.\n\nAs aprovações CE de modelo emitidas com base nas prescrições da presente directiva e de uma directiva especial não podem ser prorrogadas após a data da entrada em vigor de qualquer alteração ou adaptação destas prescrições comunitárias, nos casos em que estas aprovações CE de modelo não tivessem podido ser emitidas com base nestas novas prescrições.\n\nQuando a aprovação CE de modelo não for prorrogada, esta aprovação continua, contudo, a aplicar-se aos instrumentos em serviço.\n\n2. Quando sejam utilizadas novas técnicas não previstas numa directiva especial, pode ser concedida uma aprovação CE de modelo de efeito limitado, após consulta prévia dos outros Estados-Membros.\n\nEsta aprovação pode incluir as seguintes restrições:\n\na) Limitação do número de instrumentos que dela beneficiam;\n\nb) Obrigação de notificar os locais de instalação às autoridades competentes;\n\nc) Limitação da utilização;\n\nd) Restrições especiais no que se refere à técnica utilizada.\n\nA referida aprovação só pode, contudo, ser concedida:\n\na) Se a directiva especial para a categoria de instrumentos em causa já tiver entrado em vigor;\n\nb) Se os erros máximos admissíveis fixados nas directivas especiais forem respeitados.\n\nO prazo de validade de tal aprovação será limitado a dois anos, no máximo. Pode ser prorrogado por um período máximo de três anos.\n\n3. O Estado-Membro que tiver concedido a aprovação CE de modelo com efeito limitado referido no n.º 2 apresenta um pedido com vista a adaptar os anexos I e II da presente directiva, se for caso disso, e as directivas especiais ao progresso técnico em conformidade com o procedimento referido no n.º 2 do artigo 17.º, logo que considere que a experiência deu provas positivas."
+  },
+  "5a07ae84ecca4590": {
+   "fragment_id": "Artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º\n\nQuando, para uma categoria de instrumentos que corresponda às prescrições de uma directiva especial, não for exigida a aprovação CE de modelo, o fabricante pode apor nos instrumentos desta categoria, sob sua responsabilidade, o sinal especial descrito no ponto 3.3 do anexo I."
+  },
+  "cae0a5a05df098ef": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\n1. O Estado-Membro que tiver concedido uma aprovação CE de modelo pode revogá-la:\n\na) Se os instrumentos cujo modelo foi objecto de aprovação não forem conformes ao modelo aprovado ou às disposições da directiva especial que lhes diz respeito;\n\nb) Se as exigências metrológicas especificadas no certificado de aprovação ou as disposições do n.º 2 do artigo 5.º não forem respeitadas;\n\nc) Se verificar que foi indevidamente concedida.\n\n2. O Estado-Membro que tiver concedido uma aprovação CE de modelo deve revogá-la se os instrumentos cujo modelo foi objecto de aprovação apresentarem, em serviço, um defeito de carácter geral que os torne impróprios para o seu fim.\n\n3. Se o Estado-Membro que tiver concedido uma aprovação CE de modelo for informado por um outro Estado-Membro da existência de um dos casos referidos nos n.^os^ 1 e 2, toma igualmente as medidas neles previstas, após consulta desse outro Estado-Membro.\n\n4. O Estado-Membro que tiver verificado a existência do caso previsto no n.º 2 pode suspender a colocação no mercado e a entrada em serviço dos instrumentos.\n\nDesse facto informa imediatamente os outros Estados-Membros e a Comissão, especificando os motivos da sua decisão.\n\nO mesmo se aplica nos casos previstos no n.º 1 para os instrumentos dispensados da primeira verificação CE, se o fabricante, após ter sido avisado, não os tornar conformes ao modelo aprovado ou às exigências de directiva especial que lhes diz respeito.\n\n5. Se o Estado-Membro que tiver concedido a aprovação CE de modelo contestar a existência do caso previsto no n.º 2 de que foi informado, ou o fundamento das medidas tomadas ao abrigo do disposto no n.º 4, os Estados-Membros interessados esforçam-se por resolver o diferendo.\n\nA Comissão é mantida informada. Procede, tanto quanto necessário, às consultas apropriadas com vista a encontrar uma solução."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "33d1198fc88f7875": {
+   "fragment_id": "PRIMEIRA VERIFICAÇÃO",
+   "type": "divisao",
+   "heading": "PRIMEIRA VERIFICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRIMEIRA VERIFICAÇÃO"
+  },
+  "97a96028fac64d72": {
+   "fragment_id": "Artigo 8.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º\n\n1. A primeira verificação CE é o exame e a confirmação da conformidade de um instrumento novo ou recondicionado com o modelo aprovado e/ou com o disposto na presente directiva e nas directivas especiais que se lhe referem. É materializada pela marca de primeira verificação CE.\n\n2. A primeira verificação CE dos instrumentos pode ser efectuada de outro modo que não seja a verificação por unidade nos casos previstos nas directivas especiais e de acordo com as modalidades estabelecidas.\n\n3. Se o seu equipamento o permitir, os Estados-Membros procedem à primeira verificação CE dos instrumentos apresentados como possuindo as qualidades metrológicas e correspondendo às prescrições de realização técnica e de funcionamento fixadas pelas directivas especiais relativa a essa categoria de instrumentos.\n\n4. Para os instrumentos portadores da marca de primeira verificação CE, a obrigação dos Estados-Membros prevista no n.º 3 do artigo 1.º é válida até ao final do ano que segue aquele em que foi aposta a marca de primeira verificação CE, a não ser que directivas especiais prevejam um período mais longo."
+  },
+  "ad023a742126a1db": {
+   "fragment_id": "Artigo 9.º",
+   "type": "artigo",
+   "heading": "Artigo 9.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º\n\n1. Quando um instrumento é apresentado à primeira verificação CE, o Estado-Membro que proceder ao exame determina:\n\na) Se o instrumento pertence a uma categoria dispensada da aprovação CE de modelo e, no caso afirmativo, se corresponde às prescrições de realização técnica e de funcionamento fixadas pelas directivas especiais relativas a este instrumento;\n\nb) Se o instrumento foi objecto de uma aprovação CE de modelo e, no caso afirmativo, se é conforme ao modelo aprovado e às directivas especiais relativas a este instrumento, em vigor à data da emissão desta aprovação CE de modelo.\n\n2. O exame efectuado aquando da primeira verificação CE incide nomeadamente, em conformidade com as directivas especiais, sobre:\n\na) As qualidades metrológicas;\n\nb) Os erros máximos admissíveis;\n\nc) A construção, na medida em que esta garante que as propriedades metrológicas não são susceptíveis de diminuir sensivelmente por utilização normal do instrumento;\n\nd) A existência das indicações sinaléticas prescritas e das placas de puncionamento ou de espaço que permita a aposição das marcas da primeira verificação CE."
+  },
+  "14a5d6f7923116a2": {
+   "fragment_id": "Artigo 10.º",
+   "type": "artigo",
+   "heading": "Artigo 10.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º\n\nQuando um instrumento tiver sido submetido com êxito à primeira verificação CE, em conformidade com o disposto na presente directiva e nas directivas especiais, as marcas de verificação parcial ou final CE descritas no ponto 3 do anexo II são apostas no instrumento sob responsabilidade do Estado-Membro em causa de acordo com as modalidades previstas no referido ponto."
+  },
+  "ace746a8e8dcc5a2": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º\n\nQuando, para uma categoria de instrumentos que satisfaça as prescrições de uma directiva especial, não for exigida a primeira verificação CE, o fabricante deve apor nos instrumentos dessa categoria, sob sua responsabilidade, o sinal especial descrito no ponto 3.4 do anexo I."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "570e052509260efd": {
+   "fragment_id": "DISPOSIÇÕES COMUNS À APROVAÇÃO CE DE MODELO E À PRIMEIRA VERIFICAÇÃO CE",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES COMUNS À APROVAÇÃO CE DE MODELO E À PRIMEIRA VERIFICAÇÃO CE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES COMUNS À APROVAÇÃO CE DE MODELO E À PRIMEIRA VERIFICAÇÃO CE"
+  },
+  "102df35f7540e776": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º\n\nOs Estados-Membros tomam todas as medidas necessárias para impedir a utilização, nos instrumentos, de marcas ou inscrições susceptíveis de serem confundidas com os sinais ou marcas CE."
+  },
+  "1755305837f74000": {
+   "fragment_id": "Artigo 13.º",
+   "type": "artigo",
+   "heading": "Artigo 13.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º\n\nCada Estado-Membro notifica aos outros Estados-Membros e à Comissão os serviços, organismos e institutos devidamente habilitados a efectuar os exames previstos na presente directiva e nas directivas especiais e a emitir os certificados de aprovação CE de modelo, bem como a apor as marcas de primeira verificação CE."
+  },
+  "314fe89fdedc4092": {
+   "fragment_id": "Artigo 14.º",
+   "type": "artigo",
+   "heading": "Artigo 14.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º\n\nOs Estados-Membros podem exigir que as inscrições prescritas sejam redigidas na(s) sua(s) língua(s) oficial (oficiais)."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "611eeba530b2e66d": {
+   "fragment_id": "CONTROLOS DE INSTRUMENTOS EM SERVIÇO",
+   "type": "divisao",
+   "heading": "CONTROLOS DE INSTRUMENTOS EM SERVIÇO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONTROLOS DE INSTRUMENTOS EM SERVIÇO"
+  },
+  "216d44c3a98b17e2": {
+   "fragment_id": "Artigo 15.º",
+   "type": "artigo",
+   "heading": "Artigo 15.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º\n\nAs directivas especiais fixam as exigências dos controlos de instrumentos em serviço portadores de marcas e sinais CE e, nomeadamente, os erros máximos admissíveis em serviço. Se as disposições nacionais relativas aos instrumentos não munidos das marcas e sinais CE forem menos severas, podem estas prescrições servir de critério para os controlos."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "09aa51016eb965a4": {
+   "fragment_id": "ADAPTAÇÃO DAS DIRECTIVAS AO PROGRESSO TÉCNICO",
+   "type": "divisao",
+   "heading": "ADAPTAÇÃO DAS DIRECTIVAS AO PROGRESSO TÉCNICO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### ADAPTAÇÃO DAS DIRECTIVAS AO PROGRESSO TÉCNICO"
+  },
+  "9f63c63e4310f6d6": {
+   "fragment_id": "Artigo 16.º",
+   "type": "artigo",
+   "heading": "Artigo 16.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º\n\nAs alterações necessárias para adaptar ao progresso técnico os anexos I e II da presente directiva e os anexos das directivas especiais referidas no artigo 1.º são aprovadas pela Comissão. Estas medidas, que têm por objecto alterar elementos não essenciais da presente directiva e das directivas especiais, são aprovadas pelo procedimento de regulamentação com controlo o que se refere o n.º 2 do artigo 17.º.\n\nTodavia, este procedimento não se aplica ao capítulo respeitante às unidades de medida do sistema imperial do anexo da directiva relativa às unidades de medida, nem aos anexos respeitantes às gamas de quantidades de produtos pré-embalados das directivas relativas aos produtos pré-embalados."
+  },
+  "05d3c64bbfc07d46": {
+   "fragment_id": "Artigo 17.º",
+   "type": "artigo",
+   "heading": "Artigo 17.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º\n\n1. A Comissão é assistida pelo Comité de Adaptação ao Progresso Técnico das directivas referidas no artigo 16.º.\n\n2. Sempre que se faça referência ao presente artigo, são aplicáveis os n.^os^ 1 a 4 do artigo 5.º-A e o artigo 7.º da Decisão 1999/468/CE, tendo-se em conta o disposto no seu artigo 8.º."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "89154c6dc68f74d6": {
+   "fragment_id": "Artigo 18.º",
+   "type": "artigo",
+   "heading": "Artigo 18.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º\n\nQualquer decisão de recusa da aprovação CE de modelo, de recusa de prorrogação ou de revogação CE de modelo, de recusa de proceder à primeira verificação CE ou de proibição de colocação no mercado ou em serviço, tomada por força das disposições adoptadas em execução da presente directiva e das directivas especiais relativas aos instrumentos em questão, é fundamentada de forma precisa. É notificada ao interessado, com a indicação das vias de recurso previstas na legislação em vigor nos Estados-Membros e dos prazos nos quais estes recursos podem ser interpostos."
+  },
+  "85c30a9d7252f072": {
+   "fragment_id": "Artigo 19.º",
+   "type": "artigo",
+   "heading": "Artigo 19.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º\n\nOs Estados-Membros comunicam à Comissão o texto das principais disposições de direito nacional que aprovarem nas matérias reguladas pela presente directiva."
+  },
+  "ddf41fef04f90b99": {
+   "fragment_id": "Artigo 20.º",
+   "type": "artigo",
+   "heading": "Artigo 20.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º\n\nÉ revogada a Directiva 71/316/CEE, com a redacção que lhe foi dada pelos actos referidos na parte A do anexo III, sem prejuízo das obrigações dos Estados-Membros no que respeita aos prazos de transposição para o direito nacional das directivas, indicados na parte B do anexo III.\n\nAs remissões para a directiva revogada devem entender-se como sendo feitas para a presente directiva e ser lidas de acordo com a tabela de correspondência que consta do anexo IV."
+  },
+  "d1462bfbf6fa7548": {
+   "fragment_id": "Artigo 21.º",
+   "type": "artigo",
+   "heading": "Artigo 21.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º\n\nA presente directiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "0205f6f03bb9d881": {
+   "fragment_id": "Artigo 22.º",
+   "type": "artigo",
+   "heading": "Artigo 22.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º\n\nOs Estados-Membros são os destinatários da presente directiva.\n\nFeito em Estrasburgo, em 23 de Abril de 2009.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**H.-G. PÖTTERING**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**P. NEČAS**\n\n---"
+  },
+  "439c2b277d37d4c8": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntc1-L_2009106PT.01000701-E0001) Parecer de 22 de Outubro de 2008 (ainda não publicado no Jornal Oficial).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntc2-L_2009106PT.01000701-E0002) Parecer do Parlamento Europeu de 4 de Dezembro de 2008 (ainda não publicado no Jornal Oficial) e Decisão do Conselho de 23 de Março de 2009.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntc3-L_2009106PT.01000701-E0003) [JO L 202 de 6.9.1971, p. 1](http://publications.europa.eu/resource/oj/JOL_1971_202_R_TOC).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntc4-L_2009106PT.01000701-E0004) Ver parte A do anexo III.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1#ntc5-L_2009106PT.01000701-E0005) [JO L 184 de 17.7.1999, p. 23](http://publications.europa.eu/resource/oj/JOL_1999_184_R_TOC)."
+  }
+ }
+}

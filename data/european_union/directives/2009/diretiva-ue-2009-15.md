@@ -36,6 +36,42 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-07-26'
+version_history:
+  file: diretiva-ue-2009-15.versoes.json
+  count: 3
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2009-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2014-12-21'
+    amending: eu:celex:32014L0111:por
+    amending_title: DIRETIVA DE EXECUÇÃO 2014/111/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de dezembro de
+      2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 6.º
+    - Altera Artigo 16.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita PARTE A
+    - Adita Directiva revogada e respectivas alterações sucessivas
+    - Adita (conforme referido no artigo 14.º)
+    - Adita PARTE B
+    - Adita Lista dos prazos de transposição para o direito nacional
+    - Adita ANEXO II
+  - date: '2019-07-26'
+    amending: eu:celex:32019R1243:por
+    amending_title: REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º
+    - Altera Notas
+    - Adita Artigo 5.º-A
 identifiers:
   celex: 32009L0015
   eli: http://data.europa.eu/eli/dir/2009/15/oj
@@ -50,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e540179f-10ce-4147-9ff9-6609baedd4e4.0018
   content_url: http://publications.europa.eu/resource/cellar/a103b9ea-e60d-11e9-9c4e-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0015-20190726
-  retrieved_at: '2026-10-22T02:41:36Z'
+  retrieved_at: '2026-10-22T15:35:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:52:19.758+02:00'
 integrity:
@@ -59,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:36Z'
-  notes: Texto consolidado 02009L0015-20190726.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:31Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-15.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,30 +190,19 @@ relationships:
   source: null
 article_structure:
   article_count: 17
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:36Z'
+  checked_at: '2026-10-22T15:35:31Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/15/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0015 — PT — 26.07.2019 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32014L0111) — [DIRETIVA DE EXECUÇÃO 2014/111/UE DA COMISSÃO Texto relevante para efeitos do EEE de 17 de dezembro de 2014](http://publications.europa.eu/resource/celex/32014L0111) — L 366 — 83 — 20.12.2014
-- [►M2](http://publications.europa.eu/resource/celex/32019R1243) — [REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1243) — L 198 — 241 — 25.7.2019
-
-## DIRECTIVA 2009/15/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

@@ -35,6 +35,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2011-04-05'
+version_history:
+  file: decisao-ue-2009-996.versoes.json
+  count: 2
+  source_lastmod: '2011-04-05'
+  versions:
+  - date: '2009-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2011-04-05'
+    amending: eu:celex:32011D0212:por
+    amending_title: DECISÃO DA COMISSÃO de 4 de Abril de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
 identifiers:
   celex: 32009D0996
   eli: http://data.europa.eu/eli/dec/2009/996/oj
@@ -49,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/76e8b88f-9594-4ded-9a03-39a8c82fb256.0018
   content_url: http://publications.europa.eu/resource/cellar/e5a57b66-d5e5-4404-b77d-52deb66cf9a9.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009D0996-20110405
-  retrieved_at: '2026-10-22T03:14:11Z'
+  retrieved_at: '2026-10-22T15:35:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-17T14:00:18.137+02:00'
 integrity:
@@ -58,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:11Z'
-  notes: Texto consolidado 02009D0996-20110405.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:10Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2009-996.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -110,29 +128,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/67a6cc98-4ea3-43ea-ad91-c45ba322f9e2
 article_structure:
   article_count: 4
-  section_count: 1
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 2
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:11Z'
+  checked_at: '2026-10-22T15:35:10Z'
   warnings: []
   errors: []
 ---
 
 # Decisão da Comissão, de 17 de Dezembro de 2009
-
-> 2009D0996 — PT — 05.04.2011 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011D0212) — [DECISÃO DA COMISSÃO de 4 de Abril de 2011](http://publications.europa.eu/resource/celex/32011D0212) — L 89 — 24 — 5.4.2011
-
-## DECISÃO DA COMISSÃO
 
 de 17 de Dezembro de 2009
 

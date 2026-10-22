@@ -37,6 +37,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2015-10-09'
+version_history:
+  file: diretiva-ue-2009-38.versoes.json
+  count: 2
+  source_lastmod: '2015-10-09'
+  versions:
+  - date: '2009-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2015-10-09'
+    amending: eu:celex:32015L1794:por
+    amending_title: DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de
+      outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Definição de «empresa que exerce o controlo»
+    - Altera Artigo 5.º — Grupo especial de negociação
+    - Altera Artigo 10.º — Papel e protecção dos representantes dos trabalhadores
+    - Altera Artigo 14.º — Acordos vigentes
+    - Altera Artigo 19.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita DISPOSIÇÕES SUPLETIVAS
+    - Adita (referidas no artigo 7.º)
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
 identifiers:
   celex: 32009L0038
   eli: http://data.europa.eu/eli/dir/2009/38/oj
@@ -51,7 +81,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fff55ca4-a291-499a-8c52-25e71391771a.0018
   content_url: http://publications.europa.eu/resource/cellar/6a46ce43-8cdc-4c1d-a032-733f42c67663.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0038-20151009
-  retrieved_at: '2026-10-22T02:52:38Z'
+  retrieved_at: '2026-10-22T15:36:38Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T17:51:45.181+02:00'
 integrity:
@@ -60,9 +90,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:38Z'
-  notes: Texto consolidado 02009L0038-20151009.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:38Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-38.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,29 +180,19 @@ relationships:
   source: null
 article_structure:
   article_count: 19
-  section_count: 13
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 14
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:38Z'
+  checked_at: '2026-10-22T15:36:38Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/38/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009
-
-> 2009L0038 — PT — 09.10.2015 — 001.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32015L1794) — [DIRETIVA (UE) 2015/1794 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 6 de outubro de 2015](http://publications.europa.eu/resource/celex/32015L1794) — L 263 — 1 — 8.10.2015
-
-## DIRECTIVA 2009/38/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Maio de 2009
 

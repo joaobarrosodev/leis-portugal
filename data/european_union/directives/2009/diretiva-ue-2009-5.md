@@ -36,6 +36,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2009-02-20'
+version_history:
+  file: diretiva-ue-2009-5.versoes.json
+  count: 2
+  source_lastmod: '2009-02-20'
+  versions:
+  - date: '2009-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2009-02-20'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita «ANEXO III
+    - Adita Infracções
 identifiers:
   celex: 32009L0005
   eli: http://data.europa.eu/eli/dir/2009/5/oj
@@ -50,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/97da39f7-be4e-4a42-8250-9b81beacb4db.0018
   content_url: http://publications.europa.eu/resource/cellar/2c26de98-3357-4b31-ad62-a4565d9c77f5.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0005-20090220
-  retrieved_at: '2026-10-22T02:48:06Z'
+  retrieved_at: '2026-10-22T15:35:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T17:51:18.791+02:00'
 integrity:
@@ -59,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:48:06Z'
-  notes: Texto consolidado 02009L0005-20090220.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:17Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-5.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -127,29 +146,19 @@ relationships:
   date: '2015-01-22'
 article_structure:
   article_count: 4
-  section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 4
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:48:06Z'
+  checked_at: '2026-10-22T15:35:17Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/5/CE da Comissão, de 30 de Janeiro de 2009
-
-> 2009L0005 — PT — 20.02.2009 — 000.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Rectificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32009L0005R%2802%29) — [Rectificação, JO L 256, 29.9.2009, p. 38 (09/5)](http://publications.europa.eu/resource/celex/32009L0005R%2802%29)
-
-## DIRECTIVA 2009/5/CE DA COMISSÃO
 
 de 30 de Janeiro de 2009
 

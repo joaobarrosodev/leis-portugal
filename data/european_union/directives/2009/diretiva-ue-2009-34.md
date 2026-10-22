@@ -35,6 +35,15 @@ version:
   label: Texto original publicado no Jornal Oficial
   language: por
   consolidation_date: null
+version_history:
+  file: diretiva-ue-2009-34.versoes.json
+  count: 1
+  source_lastmod: '2019-07-26'
+  versions:
+  - date: '2009-04-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32009L0034
   eli: http://data.europa.eu/eli/dir/2009/34/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018
   content_url: http://publications.europa.eu/resource/cellar/49061c4b-4fa4-42b5-86dd-cf592d527e08.0018.03/DOC_1
   consolidated_url: null
-  retrieved_at: '2026-10-22T02:52:38Z'
+  retrieved_at: '2026-10-22T15:36:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T23:16:19.386+02:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:38Z'
-  notes: null
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:30Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2009-34.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -196,21 +205,20 @@ relationships:
   date: '2007-03-14'
 article_structure:
   article_count: 22
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:38Z'
+  checked_at: '2026-10-22T15:36:30Z'
   warnings:
-  - 'Versão consolidada 02009L0034-20190726 indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg); usado o texto
-    do JO.'
+  - '02009L0034-20190726: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
-# DIRECTIVA 2009/34/CE DO PARLAMENTO EUROPEU E DO CONSELHO
+# Directiva 2009/34/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
 
 de 23 de Abril de 2009
 

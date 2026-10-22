@@ -35,6 +35,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-20'
+version_history:
+  file: diretiva-ue-2009-12.versoes.json
+  count: 2
+  source_lastmod: '2024-05-20'
+  versions:
+  - date: '2009-03-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-20'
+    amending: eu:celex:32024D1254:por
+    amending_title: DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 15.º — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32009L0012
   eli: http://data.europa.eu/eli/dir/2009/12/oj
@@ -49,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b3f91d83-d246-449e-888f-4665d194b3f2.0018
   content_url: http://publications.europa.eu/resource/cellar/0daf329f-1776-11ef-a251-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0012-20240520
-  retrieved_at: '2026-10-22T02:40:42Z'
+  retrieved_at: '2026-10-22T15:35:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T00:29:18.954+02:00'
 integrity:
@@ -58,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:42Z'
-  notes: Texto consolidado 02009L0012-20240520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:25Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-12.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -150,28 +167,19 @@ relationships:
 article_structure:
   article_count: 15
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:42Z'
-  warnings: []
+  checked_at: '2026-10-22T15:35:25Z'
+  warnings:
+  - '02009L0012-20090315: versão indisponível (Sem expressão na língua por para CELEX 02009L0012-20090315.)'
   errors: []
 ---
 
 # Directiva 2009/12/CE do Parlamento Europeu e do Conselho, de 11 de Março de 2009
-
-> 02009L0012 — PT — 20.05.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024D1254) — [DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024D1254) — L 1254 — 1 — 30.4.2024
-
-## DIRECTIVA 2009/12/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de Março de 2009
 

@@ -39,6 +39,1640 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-18'
+version_history:
+  file: regulamento-ue-2008-1333.versoes.json
+  count: 67
+  source_lastmod: '2026-08-18'
+  versions:
+  - date: '2008-12-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-07-20'
+    amending: eu:celex:32010R0238:por
+    amending_title: REGULAMENTO (UE) N. o 238/2010 DA COMISSÃO de 22 de Março de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Teores de utilização de aditivos alimentares
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 18.º — Princípio da transferência
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera Artigo 35.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita Géneros alimentícios tradicionais relativamente aos quais determinados Estados-Membros podem continuar a proibir
+      a utilização de determinadas categorias de aditivos alimentares
+    - Adita ANEXO V
+    - Adita Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+  - date: '2011-12-02'
+    amending: eu:celex:32011R1129:por
+    amending_title: REGULAMENTO (UE) N. o 1129/2011 DA COMISSÃO de 11 de Novembro de 2011; REGULAMENTO (UE) N. o 1130/2011
+      DA COMISSÃO de 11 de Novembro de 2011; REGULAMENTO (UE) N. o 1131/2011 DA COMISSÃO de 11 de Novembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+    - Adita Lista da União dos aditivos alimentares autorizados para utilização nos géneros alimentícios e condições de utilização
+    - Adita PARTE A
+    - Adita 1. Introdução
+    - Adita 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Adita PARTE B
+    - Adita LISTA DE TODOS OS ADITIVOS
+    - Adita 1. Corantes
+    - Adita 2. Edulcorantes
+    - Adita 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Adita PARTE C
+    - Adita DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Adita 1. Grupo I
+    - 'Adita 2. Grupo II: Corantes alimentares autorizados segundo o princípio quantum satis'
+    - 'Adita 3. Grupo III: Corantes alimentares com um teor máximo em combinação'
+    - 'Adita 4. Grupo IV: Polióis'
+    - Adita 5. Outros aditivos que podem ser regulados em combinação
+    - Adita PARTE D
+    - Adita CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Adita PARTE E
+    - Adita ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Adita Lista da União de aditivos alimentares, incluindo agentes de transporte, autorizados para utilização nos aditivos
+      alimentares, enzimas alimentares, aromas alimentares e nutrientes e suas condições de utilização
+    - Adita Definições
+    - Adita PARTE 1
+    - Adita PARTE 2
+    - Adita PARTE 3
+    - Adita PARTE 4
+    - Adita PARTE 5
+    - Adita Aditivos alimentares nos nutrientes
+    - Adita PARTE 6
+    - Adita Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+  - date: '2012-05-24'
+    amending: eu:celex:32012R0380:por
+    amending_title: REGULAMENTO (UE) N. o 380/2012 DA COMISSÃO de 3 de maio de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2012-06-25'
+    amending: eu:celex:32012R0470:por
+    amending_title: REGULAMENTO (UE) N. o 470/2012 DA COMISSÃO de 4 de junho de 2012; REGULAMENTO (UE) N. o 471/2012 DA COMISSÃO
+      de 4 de junho de 2012; REGULAMENTO (UE) N. o 472/2012 DA COMISSÃO de 4 de junho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2012-07-23'
+    amending: eu:celex:32012R0570:por
+    amending_title: REGULAMENTO (UE) N. o 570/2012 DA COMISSÃO de 28 de junho de 2012; REGULAMENTO (UE) N. o 583/2012 DA COMISSÃO
+      de 2 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2012-08-13'
+    amending: eu:celex:32012R0675:por
+    amending_title: REGULAMENTO (UE) N. o 675/2012 DA COMISSÃO de 23 de julho de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2012-12-03'
+    amending: eu:celex:32012R1049:por
+    amending_title: REGULAMENTO (UE) N. o 1049/2012 DA COMISSÃO de 8 de novembro de 2012; REGULAMENTO (UE) N. o 1057/2012
+      DA COMISSÃO de 12 de novembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 2. Edulcorantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2012-12-28'
+    amending: eu:celex:32012R1147:por
+    amending_title: REGULAMENTO (UE) N. o 1147/2012 DA COMISSÃO de 4 de dezembro de 2012; REGULAMENTO (UE) N. o 1148/2012
+      DA COMISSÃO de 4 de dezembro de 2012; REGULAMENTO (UE) N. o 1149/2012 DA COMISSÃO de 4 de dezembro de 2012; REGULAMENTO
+      (UE) N. o 1166/2012 DA COMISSÃO de 7 de dezembro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-02-06'
+    amending: eu:celex:32013R0025:por
+    amending_title: REGULAMENTO (UE) N. o 25/2013 DA COMISSÃO de 16 de janeiro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-06-01'
+    amending: eu:celex:32012R0232:por
+    amending_title: REGULAMENTO (UE) N. o 232/2012 DA COMISSÃO de 16 de março de 2012; REGULAMENTO (UE) N. o 244/2013 DA COMISSÃO
+      de 19 de março de 2013; REGULAMENTO (UE) N. o 256/2013 DA COMISSÃO de 20 de março de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 2. Edulcorantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - 'Altera 3. Grupo III: Corantes alimentares com um teor máximo em combinação'
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-06-03'
+    amending: eu:celex:32013R0438:por
+    amending_title: REGULAMENTO (UE) N. o 438/2013 DA COMISSÃO de 13 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-06-24'
+    amending: eu:celex:32013R0509:por
+    amending_title: REGULAMENTO (UE) N. o 509/2013 DA COMISSÃO de 3 de junho de 2013; REGULAMENTO (UE) N. o 510/2013 DA COMISSÃO
+      de 3 de junho de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera ANEXO I
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-10-14'
+    amending: eu:celex:32013R0723:por
+    amending_title: REGULAMENTO (UE) N. o 723/2013 DA COMISSÃO de 26 de julho de 2013; REGULAMENTO (UE) N. o 738/2013 DA COMISSÃO
+      de 30 de julho de 2013; REGULAMENTO (UE) N. o 739/2013 DA COMISSÃO de 30 de julho de 2013; REGULAMENTO (UE) N. o 816/2013
+      DA COMISSÃO de 28 de agosto de 2013; REGULAMENTO (UE) N. o 817/2013 DA COMISSÃO de 28 de agosto de 2013; REGULAMENTO
+      (UE) N. o 818/2013 DA COMISSÃO de 28 de agosto de 2013; REGULAMENTO (UE) N. o 913/2013 DA COMISSÃO de 23 de setembro
+      de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-11-21'
+    amending: eu:celex:32013R1068:por
+    amending_title: REGULAMENTO (UE) N. o 1068/2013 DA COMISSÃO de 30 de outubro de 2013; REGULAMENTO (UE) N. o 1069/2013
+      DA COMISSÃO de 30 de outubro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 2. Edulcorantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - 'Altera 3. Grupo III: Corantes alimentares com um teor máximo em combinação'
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2013-12-27'
+    amending: eu:celex:32013R1274:por
+    amending_title: REGULAMENTO (UE) N. o 1274/2013 DA COMISSÃO de 6 de dezembro de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - 'Altera 3. Grupo III: Corantes alimentares com um teor máximo em combinação'
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2014-02-13'
+    amending: eu:celex:32014R0059:por
+    amending_title: REGULAMENTO (UE) N. o 59/2014 DA COMISSÃO de 23 de janeiro de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2014-04-14'
+    amending: eu:celex:32014R0264:por
+    amending_title: REGULAMENTO (UE) N. o 264/2014 DA COMISSÃO de 14 de março de 2014; REGULAMENTO (UE) N. o 298/2014 DA COMISSÃO
+      de 21 de março de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2014-06-25'
+    amending: eu:celex:32014R0497:por
+    amending_title: Regulamento (UE) n. o 497/2014 da Comissão de 14 de maio de 2014; Regulamento (UE) n. o 505/2014 da Comissão
+      de 15 de maio de 2014; Regulamento (UE) n. o 506/2014 da Comissão de 15 de maio de 2014; Regulamento (UE) n. o 601/2014
+      da Comissão de 4 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 2. Edulcorantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2014-07-11'
+    amending: eu:celex:32014R0685:por
+    amending_title: REGULAMENTO (UE) N. o 685/2014 DA COMISSÃO de 20 de junho de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2014-09-15'
+    amending: eu:celex:32014R0923:por
+    amending_title: REGULAMENTO (UE) N. o 923/2014 DA COMISSÃO de 25 de agosto de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2014-11-06'
+    amending: eu:celex:32014R0957:por
+    amending_title: REGULAMENTO (UE) N. o 957/2014 DA COMISSÃO de 10 de setembro de 2014; REGULAMENTO (UE) N. o 969/2014 DA
+      COMISSÃO de 12 de setembro de 2014; REGULAMENTO (UE) N. o 1084/2014 DA COMISSÃO de 15 de outubro de 2014; REGULAMENTO
+      (UE) N. o 1092/2014 DA COMISSÃO de 16 de outubro de 2014; REGULAMENTO (UE) N. o 1093/2014 DA COMISSÃO de 16 de outubro
+      de 2014
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2015-04-21'
+    amending: eu:celex:32015R0537:por
+    amending_title: REGULAMENTO (UE) 2015/537 DA COMISSÃO de 31 de março de 2015; REGULAMENTO (UE) 2015/538 DA COMISSÃO de
+      31 de março de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2015-05-15'
+    amending: eu:celex:32015R0639:por
+    amending_title: REGULAMENTO (UE) 2015/639 DA COMISSÃO de 23 de abril de 2015; REGULAMENTO (UE) 2015/647 DA COMISSÃO de
+      24 de abril de 2015; REGULAMENTO (UE) 2015/649 DA COMISSÃO de 24 de abril de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2015-09-01'
+    amending: eu:celex:32015R1362:por
+    amending_title: REGULAMENTO (UE) 2015/1362 DA COMISSÃO de 6 de agosto de 2015; REGULAMENTO (UE) 2015/1378 DA COMISSÃO
+      de 11 de agosto de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2015-10-20'
+    amending: eu:celex:32015R1739:por
+    amending_title: REGULAMENTO (UE) 2015/1739 DA COMISSÃO de 28 de setembro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2015-11-02'
+    amending: eu:celex:32015R1832:por
+    amending_title: REGULAMENTO (UE) 2015/1832 DA COMISSÃO de 12 de outubro de 2015
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2016-02-09'
+    amending: eu:celex:32016R0056:por
+    amending_title: REGULAMENTO (UE) 2016/56 DA COMISSÃO de 19 de janeiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2016-03-17'
+    amending: eu:celex:32016R0263:por
+    amending_title: REGULAMENTO (UE) 2016/263 DA COMISSÃO de 25 de fevereiro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2016-04-22'
+    amending: eu:celex:32016R0324:por
+    amending_title: REGULAMENTO (UE) 2016/324 DA COMISSÃO de 7 de março de 2016; REGULAMENTO (UE) 2016/441 DA COMISSÃO de
+      23 de março de 2016; REGULAMENTO (UE) 2016/479 DA COMISSÃO de 1 de abril de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2016-05-25'
+    amending: eu:celex:32016R0683:por
+    amending_title: REGULAMENTO (UE) 2016/683 DA COMISSÃO de 2 de maio de 2016; REGULAMENTO (UE) 2016/691 DA COMISSÃO de 4
+      de maio de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2016-10-27'
+    amending: eu:celex:32013R1152:por
+    amending_title: M3; REGULAMENTO (UE) 2016/1776 DA COMISSÃO de 6 de outubro de 2016
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2017-03-20'
+    amending: eu:celex:32017R0335:por
+    amending_title: REGULAMENTO (UE) 2017/335 DA COMISSÃO de 27 de fevereiro de 2017
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2017-06-12'
+    amending: eu:celex:32017R0839:por
+    amending_title: REGULAMENTO (UE) 2017/839 DA COMISSÃO de 17 de maio de 2017; REGULAMENTO (UE) 2017/871 DA COMISSÃO de
+      22 de maio de 2017; REGULAMENTO (UE) 2017/874 DA COMISSÃO de 22 de maio de 2017
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2017-08-18'
+    amending: eu:celex:32017R1270:por
+    amending_title: REGULAMENTO (UE) 2017/1270 DA COMISSÃO de 14 de julho de 2017; REGULAMENTO (UE) 2017/1271 DA COMISSÃO
+      de 14 de julho de 2017; REGULAMENTO (UE) 2017/1399 DA COMISSÃO de 28 de julho de 2017
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2018-02-12'
+    amending: eu:celex:32018R0074:por
+    amending_title: REGULAMENTO (UE) 2018/74 DA COMISSÃO de 17 de janeiro de 2018; REGULAMENTO (UE) 2018/97 DA COMISSÃO de
+      22 de janeiro de 2018
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2018-05-27'
+    amending: eu:celex:32018R0627:por
+    amending_title: M76; REGULAMENTO (UE) 2018/677 DA COMISSÃO de 3 de maio de 2018; REGULAMENTO (UE) 2018/682 DA COMISSÃO
+      de 4 de maio de 2018
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2018-08-12'
+    amending: eu:celex:32018R0098:por
+    amending_title: REGULAMENTO (UE) 2018/98 DA COMISSÃO de 22 de janeiro de 2018
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2018-10-29'
+    amending: eu:celex:32018R1461:por
+    amending_title: REGULAMENTO (UE) 2018/1461 DA COMISSÃO de 28 de setembro de 2018; REGULAMENTO (UE) 2018/1481 DA COMISSÃO
+      de 4 de outubro de 2018; REGULAMENTO (UE) 2018/1497 DA COMISSÃO de 8 de outubro de 2018
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2019-06-18'
+    amending: eu:celex:32019R0800:por
+    amending_title: REGULAMENTO (UE) 2019/800 DA COMISSÃO de 17 de maio de 2019; REGULAMENTO (UE) 2019/801 DA COMISSÃO de
+      17 de maio de 2019; REGULAMENTO (UE) 2019/891 DA COMISSÃO de 28 de maio de 2019
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera ANEXO I
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2019-10-23'
+    amending: eu:celex:32018R1472:por
+    amending_title: REGULAMENTO (UE) 2018/1472 DA COMISSÃO de 28 de setembro de 2018
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - 'Altera 3. Grupo III: Corantes alimentares com um teor máximo em combinação'
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2019-10-28'
+    amending: eu:celex:32019R1676:por
+    amending_title: M87
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2020-03-19'
+    amending: eu:celex:32020R0268:por
+    amending_title: REGULAMENTO (UE) 2020/268 DA COMISSÃO de 26 de fevereiro de 2020; REGULAMENTO (UE) 2020/279 DA COMISSÃO
+      de 27 de fevereiro de 2020
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2020-03-25'
+    amending: eu:celex:32020R0351:por
+    amending_title: REGULAMENTO (UE) 2020/351 DA COMISSÃO Texto relevante para efeitos do EEE de 28 de fevereiro de 2020;
+      REGULAMENTO (UE) 2020/355 DA COMISSÃO de 26 de fevereiro de 2020; REGULAMENTO (UE) 2020/356 DA COMISSÃO de 4 de março
+      de 2020
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2020-07-02'
+    amending: eu:celex:32020R0771:por
+    amending_title: REGULAMENTO (UE) 2020/771 DA COMISSÃO de 11 de junho de 2020
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2020-10-28'
+    amending: eu:celex:32020R1419:por
+    amending_title: REGULAMENTO (UE) 2020/1419 DA COMISSÃO de 7 de outubro de 2020
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2020-12-23'
+    amending: eu:celex:32020R1819:por
+    amending_title: REGULAMENTO (UE) 2020/1819 DA COMISSÃO de 2 de dezembro de 2020
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera 1. Introdução
+    - Altera 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Altera 1. Corantes
+    - Altera 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Altera 1. Grupo I
+    - Altera 5. Outros aditivos que podem ser regulados em combinação
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2021-08-08'
+    amending: eu:celex:32021R1156:por
+    amending_title: REGULAMENTO (UE) 2021/1156 DA COMISSÃO de 13 de julho de 2021; REGULAMENTO (UE) 2021/1175 DA COMISSÃO
+      de 16 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+    - Suprime 1. Introdução
+    - Suprime 2. Disposições gerais aplicáveis aos aditivos alimentares enumerados na lista e às condições de utilização
+    - Suprime 1. Corantes
+    - Suprime 2. Edulcorantes
+    - Suprime 3. Aditivos alimentares, com excepção dos corantes e dos edulcorantes
+    - Suprime 1. Grupo I
+    - 'Suprime 2. Grupo II: Corantes alimentares autorizados segundo o princípio quantum satis'
+    - 'Suprime 3. Grupo III: Corantes alimentares com um teor máximo em combinação'
+    - 'Suprime 4. Grupo IV: Polióis'
+    - Suprime 5. Outros aditivos que podem ser regulados em combinação
+  - date: '2022-02-22'
+    amending: eu:celex:32022R0063:por
+    amending_title: REGULAMENTO (UE) 2022/63 DA COMISSÃO de 14 de janeiro de 2022; REGULAMENTO (UE) 2022/141 DA COMISSÃO de
+      21 de janeiro de 2022
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2022-07-20'
+    amending: eu:celex:32022R1023:por
+    amending_title: REGULAMENTO (UE) 2022/1023 DA COMISSÃO de 28 de junho de 2022; REGULAMENTO (UE) 2022/1037 DA COMISSÃO
+      de 29 de junho de 2022; REGULAMENTO (UE) 2022/1038 DA COMISSÃO de 29 de junho de 2022
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2022-10-31'
+    amending: eu:celex:32022R1923:por
+    amending_title: REGULAMENTO (UE) 2022/1923 DA COMISSÃO de 10 de outubro de 2022
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2023-03-22'
+    amending: eu:celex:32023R0440:por
+    amending_title: REGULAMENTO (UE) 2023/440 DA COMISSÃO de 28 de fevereiro de 2023; REGULAMENTO (UE) 2023/447 DA COMISSÃO
+      de 1 de março de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2023-07-20'
+    amending: eu:celex:32023R1329:por
+    amending_title: REGULAMENTO (UE) 2023/1329 DA COMISSÃO de 29 de junho de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2023-10-05'
+    amending: eu:celex:32023R1774:por
+    amending_title: M107
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2023-10-29'
+    amending: eu:celex:32023R2086:por
+    amending_title: REGULAMENTO (UE) 2023/2086 DA COMISSÃO de 28 de setembro de 2023; REGULAMENTO (UE) 2023/2108 DA COMISSÃO
+      de 6 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2024-02-12'
+    amending: eu:celex:32024R0346:por
+    amending_title: REGULAMENTO (UE) 2024/346 DA COMISSÃO de 22 de janeiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2024-04-23'
+    amending: eu:celex:32023R2379:por
+    amending_title: REGULAMENTO (UE) 2023/2379 DA COMISSÃO de 29 de setembro de 2023; REGULAMENTO (UE) 2024/374 DA COMISSÃO
+      de 24 de janeiro de 2024; REGULAMENTO (UE) 2024/843 DA COMISSÃO de 6 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2024-06-02'
+    amending: eu:celex:32024R1081:por
+    amending_title: M114
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2024-10-28'
+    amending: eu:celex:32024R2597:por
+    amending_title: REGULAMENTO (UE) 2024/2597 DA COMISSÃO de 4 de outubro de 2024; REGULAMENTO (UE) 2024/2608 DA COMISSÃO
+      de 7 de outubro de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2024-12-16'
+    amending: eu:celex:32024R1451:por
+    amending_title: REGULAMENTO (UE) 2024/1451 DA COMISSÃO de 24 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Definição dos grupos de aditivos alimentares para efeitos das partes 1 a 5
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2025-04-23'
+    amending: eu:celex:32025R0651:por
+    amending_title: REGULAMENTO (UE) 2025/651 DA COMISSÃO de 2 de abril de 2025; REGULAMENTO (UE) 2025/652 DA COMISSÃO de
+      2 de abril de 2025
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2025-07-02'
+    amending: eu:celex:32025R1150:por
+    amending_title: REGULAMENTO (UE) 2025/1150 DA COMISSÃO de 11 de junho de 2025
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2025-07-31'
+    amending: eu:celex:32025R1337:por
+    amending_title: REGULAMENTO (UE) 2025/1337 DA COMISSÃO de 10 de julho de 2025
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2025-11-04'
+    amending: eu:celex:32025R2058:por
+    amending_title: REGULAMENTO (UE) 2025/2058 DA COMISSÃO de 14 de outubro de 2025; REGULAMENTO (UE) 2025/2060 DA COMISSÃO
+      de 14 de outubro de 2025
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera Definições
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2025-11-09'
+    amending: eu:celex:32025R2084:por
+    amending_title: REGULAMENTO (UE) 2025/2084 DA COMISSÃO de 17 de outubro de 2025
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera Definições
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2026-02-18'
+    amending: eu:celex:32026R0189:por
+    amending_title: REGULAMENTO (UE) 2026/189 DA COMISSÃO de 28 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera Definições
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
+  - date: '2026-08-18'
+    amending: eu:celex:32026R0196:por
+    amending_title: REGULAMENTO (UE) 2026/196 DA COMISSÃO de 28 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Objecto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 17.º — Utilização de corantes para marcações
+    - Altera Artigo 23.º — Rotulagem de aditivos alimentares destinados à venda ao consumidor final
+    - Altera PARTE A
+    - Altera LISTA DE TODOS OS ADITIVOS
+    - Altera DEFINIÇÃO DOS GRUPOS DE ADITIVOS
+    - Altera CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera ADITIVOS ALIMENTARES AUTORIZADOS E CONDIÇÕES DE UTILIZAÇÃO NAS CATEGORIAS DE GÉNEROS ALIMENTÍCIOS
+    - Altera Definições
+    - Altera PARTE 1
+    - Altera PARTE 2
+    - Altera PARTE 3
+    - Altera PARTE 4
+    - Altera Aditivos alimentares nos nutrientes
+    - Altera Lista dos corantes alimentares a que se refere o artigo 24.º acerca dos quais deve ser incluída informação adicional
+      na rotulagem dos géneros alimentícios
+    - Altera Notas
 identifiers:
   celex: 32008R1333
   eli: http://data.europa.eu/eli/reg/2008/1333/oj
@@ -53,7 +1687,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d5592f1d-052b-4267-91e8-97a4ffe1cfaa.0018
   content_url: http://publications.europa.eu/resource/cellar/73f94bed-709d-11f1-9800-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02008R1333-20260818
-  retrieved_at: '2026-10-22T02:39:14Z'
+  retrieved_at: '2026-10-22T15:37:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-29T12:50:35.337+01:00'
 integrity:
@@ -62,9 +1696,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:14Z'
-  notes: Texto consolidado 02008R1333-20260818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:37:06Z'
+  notes: 67 versão(ões); histórico completo em regulamento-ue-2008-1333.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -993,167 +2627,19 @@ relationships:
   date: '2002-04-03'
 article_structure:
   article_count: 35
-  section_count: 39
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:14Z'
+  checked_at: '2026-10-22T15:37:06Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (CE) n. o 1333/2008 do Parlamento Europeu e do Conselho de 16 de Dezembro de 2008
-
-> 02008R1333 — PT — 18.08.2026 — 066.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010R0238) — [REGULAMENTO (UE) N.º 238/2010 DA COMISSÃO de 22 de Março de 2010](http://publications.europa.eu/resource/celex/32010R0238) — L 75 — 17 — 23.3.2010
-- [►M2](http://publications.europa.eu/resource/celex/32011R1129) — [REGULAMENTO (UE) N.º 1129/2011 DA COMISSÃO de 11 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1129) — L 295 — 1 — 12.11.2011
-- [M3](http://publications.europa.eu/resource/celex/32013R1152) — Alterado por: [REGULAMENTO (UE) N.º 1152/2013 DA COMISSÃO de 19 de novembro de 2013](http://publications.europa.eu/resource/celex/32013R1152) — L 311 — 1 — 20.11.2013
-- [►M4](http://publications.europa.eu/resource/celex/32011R1130) — [REGULAMENTO (UE) N.º 1130/2011 DA COMISSÃO de 11 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1130) — L 295 — 178 — 12.11.2011
-- [►M5](http://publications.europa.eu/resource/celex/32011R1131) — [REGULAMENTO (UE) N.º 1131/2011 DA COMISSÃO de 11 de Novembro de 2011](http://publications.europa.eu/resource/celex/32011R1131) — L 295 — 205 — 12.11.2011
-- [►M6](http://publications.europa.eu/resource/celex/32012R0232) — [REGULAMENTO (UE) N.º 232/2012 DA COMISSÃO de 16 de março de 2012](http://publications.europa.eu/resource/celex/32012R0232) — L 78 — 1 — 17.3.2012
-- [►M7](http://publications.europa.eu/resource/celex/32012R0380) — [REGULAMENTO (UE) N.º 380/2012 DA COMISSÃO de 3 de maio de 2012](http://publications.europa.eu/resource/celex/32012R0380) — L 119 — 14 — 4.5.2012
-- [►M8](http://publications.europa.eu/resource/celex/32012R0470) — [REGULAMENTO (UE) N.º 470/2012 DA COMISSÃO de 4 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0470) — L 144 — 16 — 5.6.2012
-- [►M9](http://publications.europa.eu/resource/celex/32012R0471) — [REGULAMENTO (UE) N.º 471/2012 DA COMISSÃO de 4 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0471) — L 144 — 19 — 5.6.2012
-- [►M10](http://publications.europa.eu/resource/celex/32012R0472) — [REGULAMENTO (UE) N.º 472/2012 DA COMISSÃO de 4 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0472) — L 144 — 22 — 5.6.2012
-- [►M11](http://publications.europa.eu/resource/celex/32012R0570) — [REGULAMENTO (UE) N.º 570/2012 DA COMISSÃO de 28 de junho de 2012](http://publications.europa.eu/resource/celex/32012R0570) — L 169 — 43 — 29.6.2012
-- [►M12](http://publications.europa.eu/resource/celex/32012R0583) — [REGULAMENTO (UE) N.º 583/2012 DA COMISSÃO de 2 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0583) — L 173 — 8 — 3.7.2012
-- [►M13](http://publications.europa.eu/resource/celex/32012R0675) — [REGULAMENTO (UE) N.º 675/2012 DA COMISSÃO de 23 de julho de 2012](http://publications.europa.eu/resource/celex/32012R0675) — L 196 — 52 — 24.7.2012
-- [►M14](http://publications.europa.eu/resource/celex/32012R1049) — [REGULAMENTO (UE) N.º 1049/2012 DA COMISSÃO de 8 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1049) — L 310 — 41 — 9.11.2012
-- [M15](http://publications.europa.eu/resource/celex/32012R1057) — [REGULAMENTO (UE) N.º 1057/2012 DA COMISSÃO de 12 de novembro de 2012](http://publications.europa.eu/resource/celex/32012R1057) — L 313 — 11 — 13.11.2012
-- [►M16](http://publications.europa.eu/resource/celex/32012R1147) — [REGULAMENTO (UE) N.º 1147/2012 DA COMISSÃO de 4 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1147) — L 333 — 34 — 5.12.2012
-- [►M17](http://publications.europa.eu/resource/celex/32012R1148) — [REGULAMENTO (UE) N.º 1148/2012 DA COMISSÃO de 4 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1148) — L 333 — 37 — 5.12.2012
-- [►M18](http://publications.europa.eu/resource/celex/32012R1149) — [REGULAMENTO (UE) N.º 1149/2012 DA COMISSÃO de 4 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1149) — L 333 — 40 — 5.12.2012
-- [M19](http://publications.europa.eu/resource/celex/32012R1166) — [REGULAMENTO (UE) N.º 1166/2012 DA COMISSÃO de 7 de dezembro de 2012](http://publications.europa.eu/resource/celex/32012R1166) — L 336 — 75 — 8.12.2012
-- [►M20](http://publications.europa.eu/resource/celex/32013R0025) — [REGULAMENTO (UE) N.º 25/2013 DA COMISSÃO de 16 de janeiro de 2013](http://publications.europa.eu/resource/celex/32013R0025) — L 13 — 1 — 17.1.2013
-- [M21](http://publications.europa.eu/resource/celex/32013R0244) — [REGULAMENTO (UE) N.º 244/2013 DA COMISSÃO de 19 de março de 2013](http://publications.europa.eu/resource/celex/32013R0244) — L 77 — 3 — 20.3.2013
-- [M22](http://publications.europa.eu/resource/celex/32013R0256) — [REGULAMENTO (UE) N.º 256/2013 DA COMISSÃO de 20 de março de 2013](http://publications.europa.eu/resource/celex/32013R0256) — L 79 — 24 — 21.3.2013
-- [►M23](http://publications.europa.eu/resource/celex/32013R0438) — [REGULAMENTO (UE) N.º 438/2013 DA COMISSÃO de 13 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0438) — L 129 — 28 — 14.5.2013
-- [►M24](http://publications.europa.eu/resource/celex/32013R0509) — [REGULAMENTO (UE) N.º 509/2013 DA COMISSÃO de 3 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0509) — L 150 — 13 — 4.6.2013
-- [►M25](http://publications.europa.eu/resource/celex/32013R0510) — [REGULAMENTO (UE) N.º 510/2013 DA COMISSÃO de 3 de junho de 2013](http://publications.europa.eu/resource/celex/32013R0510) — L 150 — 17 — 4.6.2013
-- [►M26](http://publications.europa.eu/resource/celex/32013R0723) — [REGULAMENTO (UE) N.º 723/2013 DA COMISSÃO de 26 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0723) — L 202 — 8 — 27.7.2013
-- [►M27](http://publications.europa.eu/resource/celex/32013R0738) — [REGULAMENTO (UE) N.º 738/2013 DA COMISSÃO de 30 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0738) — L 204 — 32 — 31.7.2013
-- [►M28](http://publications.europa.eu/resource/celex/32013R0739) — [REGULAMENTO (UE) N.º 739/2013 DA COMISSÃO de 30 de julho de 2013](http://publications.europa.eu/resource/celex/32013R0739) — L 204 — 35 — 31.7.2013
-- [►M29](http://publications.europa.eu/resource/celex/32013R0816) — [REGULAMENTO (UE) N.º 816/2013 DA COMISSÃO de 28 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0816) — L 230 — 1 — 29.8.2013
-- [►M30](http://publications.europa.eu/resource/celex/32013R0817) — [REGULAMENTO (UE) N.º 817/2013 DA COMISSÃO de 28 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0817) — L 230 — 7 — 29.8.2013
-- [►M31](http://publications.europa.eu/resource/celex/32013R0818) — [REGULAMENTO (UE) N.º 818/2013 DA COMISSÃO de 28 de agosto de 2013](http://publications.europa.eu/resource/celex/32013R0818) — L 230 — 12 — 29.8.2013
-- [►M32](http://publications.europa.eu/resource/celex/32013R0913) — [REGULAMENTO (UE) N.º 913/2013 DA COMISSÃO de 23 de setembro de 2013](http://publications.europa.eu/resource/celex/32013R0913) — L 252 — 11 — 24.9.2013
-- [►M33](http://publications.europa.eu/resource/celex/32013R1068) — [REGULAMENTO (UE) N.º 1068/2013 DA COMISSÃO de 30 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1068) — L 289 — 58 — 31.10.2013
-- [►M34](http://publications.europa.eu/resource/celex/32013R1069) — [REGULAMENTO (UE) N.º 1069/2013 DA COMISSÃO de 30 de outubro de 2013](http://publications.europa.eu/resource/celex/32013R1069) — L 289 — 61 — 31.10.2013
-- [►M35](http://publications.europa.eu/resource/celex/32013R1274) — [REGULAMENTO (UE) N.º 1274/2013 DA COMISSÃO de 6 de dezembro de 2013](http://publications.europa.eu/resource/celex/32013R1274) — L 328 — 79 — 7.12.2013
-- [►M36](http://publications.europa.eu/resource/celex/32014R0059) — [REGULAMENTO (UE) N.º 59/2014 DA COMISSÃO de 23 de janeiro de 2014](http://publications.europa.eu/resource/celex/32014R0059) — L 21 — 9 — 24.1.2014
-- [►M37](http://publications.europa.eu/resource/celex/32014R0264) — [REGULAMENTO (UE) N.º 264/2014 DA COMISSÃO de 14 de março de 2014](http://publications.europa.eu/resource/celex/32014R0264) — L 76 — 22 — 15.3.2014
-- [►M38](http://publications.europa.eu/resource/celex/32014R0298) — [REGULAMENTO (UE) N.º 298/2014 DA COMISSÃO de 21 de março de 2014](http://publications.europa.eu/resource/celex/32014R0298) — L 89 — 36 — 25.3.2014
-- [►M39](http://publications.europa.eu/resource/celex/32014R0497) — [REGULAMENTO (UE) N.º 497/2014 DA COMISSÃO de 14 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0497) — L 143 — 6 — 15.5.2014
-- [►M40](http://publications.europa.eu/resource/celex/32014R0505) — [REGULAMENTO (UE) N.º 505/2014 DA COMISSÃO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0505) — L 145 — 32 — 16.5.2014
-- [►M41](http://publications.europa.eu/resource/celex/32014R0506) — [REGULAMENTO (UE) N.º 506/2014 DA COMISSÃO de 15 de maio de 2014](http://publications.europa.eu/resource/celex/32014R0506) — L 145 — 35 — 16.5.2014
-- [►M42](http://publications.europa.eu/resource/celex/32014R0601) — [REGULAMENTO (UE) N.º 601/2014 DA COMISSÃO de 4 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0601) — L 166 — 11 — 5.6.2014
-- [►M43](http://publications.europa.eu/resource/celex/32014R0685) — [REGULAMENTO (UE) N.º 685/2014 DA COMISSÃO de 20 de junho de 2014](http://publications.europa.eu/resource/celex/32014R0685) — L 182 — 23 — 21.6.2014
-- [►M44](http://publications.europa.eu/resource/celex/32014R0923) — [REGULAMENTO (UE) N.º 923/2014 DA COMISSÃO de 25 de agosto de 2014](http://publications.europa.eu/resource/celex/32014R0923) — L 252 — 11 — 26.8.2014
-- [►M45](http://publications.europa.eu/resource/celex/32014R0957) — [REGULAMENTO (UE) N.º 957/2014 DA COMISSÃO de 10 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R0957) — L 270 — 1 — 11.9.2014
-- [►M46](http://publications.europa.eu/resource/celex/32014R0969) — [REGULAMENTO (UE) N.º 969/2014 DA COMISSÃO de 12 de setembro de 2014](http://publications.europa.eu/resource/celex/32014R0969) — L 272 — 8 — 13.9.2014
-- [►M47](http://publications.europa.eu/resource/celex/32014R1084) — [REGULAMENTO (UE) N.º 1084/2014 DA COMISSÃO de 15 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1084) — L 298 — 8 — 16.10.2014
-- [►M48](http://publications.europa.eu/resource/celex/32014R1092) — [REGULAMENTO (UE) N.º 1092/2014 DA COMISSÃO de 16 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1092) — L 299 — 19 — 17.10.2014
-- [►M49](http://publications.europa.eu/resource/celex/32014R1093) — [REGULAMENTO (UE) N.º 1093/2014 DA COMISSÃO de 16 de outubro de 2014](http://publications.europa.eu/resource/celex/32014R1093) — L 299 — 22 — 17.10.2014
-- [►M50](http://publications.europa.eu/resource/celex/32015R0537) — [REGULAMENTO (UE) 2015/537 DA COMISSÃO de 31 de março de 2015](http://publications.europa.eu/resource/celex/32015R0537) — L 88 — 1 — 1.4.2015
-- [►M51](http://publications.europa.eu/resource/celex/32015R0538) — [REGULAMENTO (UE) 2015/538 DA COMISSÃO de 31 de março de 2015](http://publications.europa.eu/resource/celex/32015R0538) — L 88 — 4 — 1.4.2015
-- [►M52](http://publications.europa.eu/resource/celex/32015R0639) — [REGULAMENTO (UE) 2015/639 DA COMISSÃO de 23 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0639) — L 106 — 16 — 24.4.2015
-- [►M53](http://publications.europa.eu/resource/celex/32015R0647) — [REGULAMENTO (UE) 2015/647 DA COMISSÃO de 24 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0647) — L 107 — 1 — 25.4.2015
-- [►M54](http://publications.europa.eu/resource/celex/32015R0649) — [REGULAMENTO (UE) 2015/649 DA COMISSÃO de 24 de abril de 2015](http://publications.europa.eu/resource/celex/32015R0649) — L 107 — 17 — 25.4.2015
-- [►M55](http://publications.europa.eu/resource/celex/32015R1362) — [REGULAMENTO (UE) 2015/1362 DA COMISSÃO de 6 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1362) — L 210 — 22 — 7.8.2015
-- [►M56](http://publications.europa.eu/resource/celex/32015R1378) — [REGULAMENTO (UE) 2015/1378 DA COMISSÃO de 11 de agosto de 2015](http://publications.europa.eu/resource/celex/32015R1378) — L 213 — 1 — 12.8.2015
-- [►M57](http://publications.europa.eu/resource/celex/32015R1739) — [REGULAMENTO (UE) 2015/1739 DA COMISSÃO de 28 de setembro de 2015](http://publications.europa.eu/resource/celex/32015R1739) — L 253 — 3 — 30.9.2015
-- [►M58](http://publications.europa.eu/resource/celex/32015R1832) — [REGULAMENTO (UE) 2015/1832 DA COMISSÃO de 12 de outubro de 2015](http://publications.europa.eu/resource/celex/32015R1832) — L 266 — 27 — 13.10.2015
-- [►M59](http://publications.europa.eu/resource/celex/32016R0056) — [REGULAMENTO (UE) 2016/56 DA COMISSÃO de 19 de janeiro de 2016](http://publications.europa.eu/resource/celex/32016R0056) — L 13 — 46 — 20.1.2016
-- [►M60](http://publications.europa.eu/resource/celex/32016R0263) — [REGULAMENTO (UE) 2016/263 DA COMISSÃO de 25 de fevereiro de 2016](http://publications.europa.eu/resource/celex/32016R0263) — L 50 — 25 — 26.2.2016
-- [►M61](http://publications.europa.eu/resource/celex/32016R0324) — [REGULAMENTO (UE) 2016/324 DA COMISSÃO de 7 de março de 2016](http://publications.europa.eu/resource/celex/32016R0324) — L 61 — 1 — 8.3.2016
-- [►M62](http://publications.europa.eu/resource/celex/32016R0441) — [REGULAMENTO (UE) 2016/441 DA COMISSÃO de 23 de março de 2016](http://publications.europa.eu/resource/celex/32016R0441) — L 78 — 47 — 24.3.2016
-- [►M63](http://publications.europa.eu/resource/celex/32016R0479) — [REGULAMENTO (UE) 2016/479 DA COMISSÃO de 1 de abril de 2016](http://publications.europa.eu/resource/celex/32016R0479) — L 87 — 1 — 2.4.2016
-- [►M64](http://publications.europa.eu/resource/celex/32016R0683) — [REGULAMENTO (UE) 2016/683 DA COMISSÃO de 2 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0683) — L 117 — 28 — 3.5.2016
-- [►M65](http://publications.europa.eu/resource/celex/32016R0691) — [REGULAMENTO (UE) 2016/691 DA COMISSÃO de 4 de maio de 2016](http://publications.europa.eu/resource/celex/32016R0691) — L 120 — 4 — 5.5.2016
-- [►M66](http://publications.europa.eu/resource/celex/32016R1776) — [REGULAMENTO (UE) 2016/1776 DA COMISSÃO de 6 de outubro de 2016](http://publications.europa.eu/resource/celex/32016R1776) — L 272 — 2 — 7.10.2016
-- [M67](http://publications.europa.eu/resource/celex/32017R0335) — [REGULAMENTO (UE) 2017/335 DA COMISSÃO de 27 de fevereiro de 2017](http://publications.europa.eu/resource/celex/32017R0335) — L 50 — 15 — 28.2.2017
-- [M68](http://publications.europa.eu/resource/celex/32017R0839) — [REGULAMENTO (UE) 2017/839 DA COMISSÃO de 17 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0839) — L 125 — 7 — 18.5.2017
-- [M69](http://publications.europa.eu/resource/celex/32017R0871) — [REGULAMENTO (UE) 2017/871 DA COMISSÃO de 22 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0871) — L 134 — 3 — 23.5.2017
-- [►M70](http://publications.europa.eu/resource/celex/32017R0874) — [REGULAMENTO (UE) 2017/874 DA COMISSÃO de 22 de maio de 2017](http://publications.europa.eu/resource/celex/32017R0874) — L 134 — 18 — 23.5.2017
-- [►M71](http://publications.europa.eu/resource/celex/32017R1270) — [REGULAMENTO (UE) 2017/1270 DA COMISSÃO de 14 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1270) — L 184 — 1 — 15.7.2017
-- [►M72](http://publications.europa.eu/resource/celex/32017R1271) — [REGULAMENTO (UE) 2017/1271 DA COMISSÃO de 14 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1271) — L 184 — 3 — 15.7.2017
-- [►M73](http://publications.europa.eu/resource/celex/32017R1399) — [REGULAMENTO (UE) 2017/1399 DA COMISSÃO de 28 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1399) — L 199 — 8 — 29.7.2017
-- [►M74](http://publications.europa.eu/resource/celex/32018R0074) — [REGULAMENTO (UE) 2018/74 DA COMISSÃO de 17 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0074) — L 13 — 21 — 18.1.2018
-- [►M75](http://publications.europa.eu/resource/celex/32018R0097) — [REGULAMENTO (UE) 2018/97 DA COMISSÃO de 22 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0097) — L 17 — 11 — 23.1.2018
-- [►M76](http://publications.europa.eu/resource/celex/32018R0098) — [REGULAMENTO (UE) 2018/98 DA COMISSÃO de 22 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018R0098) — L 17 — 14 — 23.1.2018
-- [M77](http://publications.europa.eu/resource/celex/32018R0627) — [REGULAMENTO (UE) 2018/627 DA COMISSÃO de 20 de abril de 2018](http://publications.europa.eu/resource/celex/32018R0627) — L 104 — 57 — 24.4.2018
-- [►M78](http://publications.europa.eu/resource/celex/32018R0677) — [REGULAMENTO (UE) 2018/677 DA COMISSÃO de 3 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0677) — L 114 — 10 — 4.5.2018
-- [M79](http://publications.europa.eu/resource/celex/32018R0682) — [REGULAMENTO (UE) 2018/682 DA COMISSÃO de 4 de maio de 2018](http://publications.europa.eu/resource/celex/32018R0682) — L 116 — 5 — 7.5.2018
-- [►M80](http://publications.europa.eu/resource/celex/32018R1461) — [REGULAMENTO (UE) 2018/1461 DA COMISSÃO de 28 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1461) — L 245 — 1 — 1.10.2018
-- [►M81](http://publications.europa.eu/resource/celex/32018R1472) — [REGULAMENTO (UE) 2018/1472 DA COMISSÃO de 28 de setembro de 2018](http://publications.europa.eu/resource/celex/32018R1472) — L 247 — 1 — 3.10.2018
-- [►M82](http://publications.europa.eu/resource/celex/32018R1481) — [REGULAMENTO (UE) 2018/1481 DA COMISSÃO de 4 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1481) — L 251 — 13 — 5.10.2018
-- [►M83](http://publications.europa.eu/resource/celex/32018R1497) — [REGULAMENTO (UE) 2018/1497 DA COMISSÃO de 8 de outubro de 2018](http://publications.europa.eu/resource/celex/32018R1497) — L 253 — 36 — 9.10.2018
-- [►M84](http://publications.europa.eu/resource/celex/32019R0800) — [REGULAMENTO (UE) 2019/800 DA COMISSÃO de 17 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0800) — L 132 — 15 — 20.5.2019
-- [M85](http://publications.europa.eu/resource/celex/32019R0801) — [REGULAMENTO (UE) 2019/801 DA COMISSÃO de 17 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0801) — L 132 — 18 — 20.5.2019
-- [►M86](http://publications.europa.eu/resource/celex/32019R0891) — [REGULAMENTO (UE) 2019/891 DA COMISSÃO de 28 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0891) — L 142 — 54 — 29.5.2019
-- [M87](http://publications.europa.eu/resource/celex/32019R1676) — [REGULAMENTO (UE) 2019/1676 DA COMISSÃO de 7 de outubro de 2019](http://publications.europa.eu/resource/celex/32019R1676) — L 257 — 11 — 8.10.2019
-- [►M88](http://publications.europa.eu/resource/celex/32020R0268) — [REGULAMENTO (UE) 2020/268 DA COMISSÃO de 26 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0268) — L 56 — 4 — 27.2.2020
-- [►M89](http://publications.europa.eu/resource/celex/32020R0279) — [REGULAMENTO (UE) 2020/279 DA COMISSÃO de 27 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0279) — L 59 — 6 — 28.2.2020
-- [►M90](http://publications.europa.eu/resource/celex/32020R0351) — [REGULAMENTO (UE) 2020/351 DA COMISSÃO de 28 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0351) — L 65 — 1 — 4.3.2020
-- [►M91](http://publications.europa.eu/resource/celex/32020R0355) — [REGULAMENTO (UE) 2020/355 DA COMISSÃO de 26 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0355) — L 67 — 28 — 5.3.2020
-- [►M92](http://publications.europa.eu/resource/celex/32020R0356) — [REGULAMENTO (UE) 2020/356 DA COMISSÃO de 4 de março de 2020](http://publications.europa.eu/resource/celex/32020R0356) — L 67 — 31 — 5.3.2020
-- [►M93](http://publications.europa.eu/resource/celex/32020R0771) — [REGULAMENTO (UE) 2020/771 DA COMISSÃO de 11 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0771) — L 184 — 25 — 12.6.2020
-- [►M94](http://publications.europa.eu/resource/celex/32020R1419) — [REGULAMENTO (UE) 2020/1419 DA COMISSÃO de 7 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1419) — L 326 — 11 — 8.10.2020
-- [►M95](http://publications.europa.eu/resource/celex/32020R1819) — [REGULAMENTO (UE) 2020/1819 DA COMISSÃO de 2 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R1819) — L 406 — 26 — 3.12.2020
-- [►M96](http://publications.europa.eu/resource/celex/32021R1156) — [REGULAMENTO (UE) 2021/1156 DA COMISSÃO de 13 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1156) — L 249 — 87 — 14.7.2021
-- [►M97](http://publications.europa.eu/resource/celex/32021R1175) — [REGULAMENTO (UE) 2021/1175 DA COMISSÃO de 16 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1175) — L 256 — 53 — 19.7.2021
-- [►M98](http://publications.europa.eu/resource/celex/32022R0063) — [REGULAMENTO (UE) 2022/63 DA COMISSÃO de 14 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0063) — L 11 — 1 — 18.1.2022
-- [►M99](http://publications.europa.eu/resource/celex/32022R0141) — [REGULAMENTO (UE) 2022/141 DA COMISSÃO de 21 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0141) — L 23 — 22 — 2.2.2022
-- [►M100](http://publications.europa.eu/resource/celex/32022R1023) — [REGULAMENTO (UE) 2022/1023 DA COMISSÃO de 28 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1023) — L 172 — 5 — 29.6.2022
-- [►M101](http://publications.europa.eu/resource/celex/32022R1037) — [REGULAMENTO (UE) 2022/1037 DA COMISSÃO de 29 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1037) — L 173 — 52 — 30.6.2022
-- [►M102](http://publications.europa.eu/resource/celex/32022R1038) — [REGULAMENTO (UE) 2022/1038 DA COMISSÃO de 29 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1038) — L 173 — 56 — 30.6.2022
-- [►M103](http://publications.europa.eu/resource/celex/32022R1923) — [REGULAMENTO (UE) 2022/1923 DA COMISSÃO de 10 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R1923) — L 264 — 8 — 11.10.2022
-- [►M104](http://publications.europa.eu/resource/celex/32023R0440) — [REGULAMENTO (UE) 2023/440 DA COMISSÃO de 28 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0440) — L 64 — 4 — 1.3.2023
-- [►M105](http://publications.europa.eu/resource/celex/32023R0447) — [REGULAMENTO (UE) 2023/447 DA COMISSÃO de 1 de março de 2023](http://publications.europa.eu/resource/celex/32023R0447) — L 65 — 16 — 2.3.2023
-- [►M106](http://publications.europa.eu/resource/celex/32023R1329) — [REGULAMENTO (UE) 2023/1329 DA COMISSÃO de 29 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1329) — L 166 — 66 — 30.6.2023
-- [M107](http://publications.europa.eu/resource/celex/32023R1774) — [REGULAMENTO (UE) 2023/1774 DA COMISSÃO de 14 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1774) — L 228 — 196 — 15.9.2023
-- [►M108](http://publications.europa.eu/resource/celex/32023R2086) — [REGULAMENTO (UE) 2023/2086 DA COMISSÃO de 28 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2086) — L 241 — 73 — 29.9.2023
-- [►M109](http://publications.europa.eu/resource/celex/32023R2379) — [REGULAMENTO (UE) 2023/2379 DA COMISSÃO de 29 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2379) — L 2379 — 1 — 3.10.2023
-- [►M110](http://publications.europa.eu/resource/celex/32023R2108) — [REGULAMENTO (UE) 2023/2108 DA COMISSÃO de 6 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2108) — L 2108 — 1 — 9.10.2023
-- [►M111](http://publications.europa.eu/resource/celex/32024R0346) — [REGULAMENTO (UE) 2024/346 DA COMISSÃO de 22 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0346) — L 346 — 1 — 23.1.2024
-- [►M112](http://publications.europa.eu/resource/celex/32024R0374) — [REGULAMENTO (UE) 2024/374 DA COMISSÃO de 24 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0374) — L 374 — 1 — 25.1.2024
-- [►M113](http://publications.europa.eu/resource/celex/32024R0843) — [REGULAMENTO (UE) 2024/843 DA COMISSÃO de 6 de março de 2024](http://publications.europa.eu/resource/celex/32024R0843) — L 843 — 1 — 8.3.2024
-- [M114](http://publications.europa.eu/resource/celex/32024R1081) — [REGULAMENTO (UE) 2024/1081 DA COMISSÃO de 8 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1081) — L 1081 — 1 — 13.5.2024
-- [►M115](http://publications.europa.eu/resource/celex/32024R1451) — [REGULAMENTO (UE) 2024/1451 DA COMISSÃO de 24 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1451) — L 1451 — 1 — 27.5.2024
-- [►M116](http://publications.europa.eu/resource/celex/32024R2597) — [REGULAMENTO (UE) 2024/2597 DA COMISSÃO de 4 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2597) — L 2597 — 1 — 7.10.2024
-- [►M117](http://publications.europa.eu/resource/celex/32024R2608) — [REGULAMENTO (UE) 2024/2608 DA COMISSÃO de 7 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2608) — L 2608 — 1 — 8.10.2024
-- [►M118](http://publications.europa.eu/resource/celex/32025R0651) — [REGULAMENTO (UE) 2025/651 DA COMISSÃO de 2 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0651) — L 651 — 1 — 3.4.2025
-- [►M119](http://publications.europa.eu/resource/celex/32025R0652) — [REGULAMENTO (UE) 2025/652 DA COMISSÃO de 2 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0652) — L 652 — 1 — 3.4.2025
-- [M120](http://publications.europa.eu/resource/celex/32025R1150) — [REGULAMENTO (UE) 2025/1150 DA COMISSÃO de 11 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1150) — L 1150 — 1 — 12.6.2025
-- [►M121](http://publications.europa.eu/resource/celex/32025R1337) — [REGULAMENTO (UE) 2025/1337 DA COMISSÃO de 10 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1337) — L 1337 — 1 — 11.7.2025
-- [►M122](http://publications.europa.eu/resource/celex/32025R2058) — [REGULAMENTO (UE) 2025/2058 DA COMISSÃO de 14 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2058) — L 2058 — 1 — 15.10.2025
-- [►M123](http://publications.europa.eu/resource/celex/32025R2060) — [REGULAMENTO (UE) 2025/2060 DA COMISSÃO de 14 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2060) — L 2060 — 1 — 15.10.2025
-- [►M124](http://publications.europa.eu/resource/celex/32025R2084) — [REGULAMENTO (UE) 2025/2084 DA COMISSÃO de 17 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2084) — L 2084 — 1 — 20.10.2025
-- [►M125](http://publications.europa.eu/resource/celex/32026R0189) — [REGULAMENTO (UE) 2026/189 DA COMISSÃO de 28 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0189) — L 189 — 1 — 29.1.2026
-- [►M126](http://publications.europa.eu/resource/celex/32026R0196) — [REGULAMENTO (UE) 2026/196 DA COMISSÃO de 28 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0196) — L 196 — 1 — 29.1.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32011R1129R%2801%29) — [Rectificação, JO L 082, 22.3.2013, p. 63 (1129/2011)](http://publications.europa.eu/resource/celex/32011R1129R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32013R0738R%2801%29) — [Rectificação, JO L 039, 8.2.2014, p. 79 (738/2013)](http://publications.europa.eu/resource/celex/32013R0738R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32011R1130R%2802%29) — [Rectificação, JO L 041, 12.2.2014, p. 22 (1130/2011)](http://publications.europa.eu/resource/celex/32011R1130R%2802%29)
-- [►C4](http://publications.europa.eu/resource/celex/32012R1149R%2801%29) — [Rectificação, JO L 041, 12.2.2014, p. 23 (1149/2012)](http://publications.europa.eu/resource/celex/32012R1149R%2801%29)
-- [►C5](http://publications.europa.eu/resource/celex/32013R0723R%2801%29) — [Rectificação, JO L 046, 18.2.2014, p. 22 (723/2013)](http://publications.europa.eu/resource/celex/32013R0723R%2801%29)
-- [►C6](http://publications.europa.eu/resource/celex/32011R1129R%2803%29) — [Rectificação, JO L 074, 14.3.2014, p. 71 (1129/2011)](http://publications.europa.eu/resource/celex/32011R1129R%2803%29)
-- [C7](http://publications.europa.eu/resource/celex/32011R1131R%2803%29) — [Rectificação, JO L 178, 11.7.2017, p. 17 (1131/2011)](http://publications.europa.eu/resource/celex/32011R1131R%2803%29)
-- [►C8](http://publications.europa.eu/resource/celex/32012R1049R%2802%29) — [Rectificação, JO L 178, 11.7.2017, p. 17 (1049/2012)](http://publications.europa.eu/resource/celex/32012R1049R%2802%29)
-- [►C9](http://publications.europa.eu/resource/celex/32011R1129R%2809%29) — [Rectificação, JO L 179, 12.7.2017, p. 41 (1129/2011)](http://publications.europa.eu/resource/celex/32011R1129R%2809%29)
-- [C10](http://publications.europa.eu/resource/celex/32018R1497R%2801%29) — [Rectificação, JO L 060, 28.2.2019, p. 35 (2018/1497)](http://publications.europa.eu/resource/celex/32018R1497R%2801%29)
-
-## REGULAMENTO (CE) N.º 1333/2008 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 16 de Dezembro de 2008
 

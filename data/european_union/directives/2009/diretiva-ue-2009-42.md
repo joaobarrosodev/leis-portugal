@@ -35,6 +35,84 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2012-01-01'
+version_history:
+  file: diretiva-ue-2009-42.versoes.json
+  count: 4
+  source_lastmod: '2012-01-01'
+  versions:
+  - date: '2009-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-04-16'
+    amending: eu:celex:32010D0216:por
+    amending_title: DECISÃO DA COMISSÃO de 14 de Abril de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Transmissão dos resultados da recolha de dados
+    - Altera Artigo 14.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita VARIÁVEIS E DEFINIÇÕES
+    - Adita 1. Variáveis estatísticas
+    - Adita a) Variáveis estatísticas
+    - 'Adita b) Informações relativas aos navios:'
+    - Adita 2. Definições
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita ZONAS COSTEIRAS MARÍTIMAS
+    - Adita ANEXO V
+    - Adita NACIONALIDADE DE REGISTO DO NAVIO
+    - Adita ANEXO VI
+    - Adita ANEXO VII
+    - Adita CLASSES DOS NAVIOS
+    - Adita expressas em toneladas de porte bruto (TPB) ou em arqueação bruta (TB)
+    - Adita ANEXO VIII
+    - Adita ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS
+    - Adita ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS
+    - Adita ANEXO IX
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO X
+  - date: '2010-12-29'
+    amending: eu:celex:32010R1090:por
+    amending_title: REGULAMENTO (UE) N. o 1090/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Características da recolha de dados
+    - Altera Artigo 4.º — Portos
+    - Altera Artigo 5.º — Exactidão das estatísticas
+    - Altera Artigo 7.º — Transmissão dos resultados da recolha de dados
+    - Altera Artigo 10.º — Procedimento de comité
+    - Altera ANEXO II
+    - Altera ZONAS COSTEIRAS MARÍTIMAS
+    - Altera NACIONALIDADE DE REGISTO DO NAVIO
+    - Altera ANEXO VI
+    - Altera ESTRUTURA DOS CONJUNTOS DE DADOS ESTATÍSTICOS
+    - Altera Notas
+    - Adita Artigo 10.ºA — Exercício da delegação
+    - Adita Artigo 10.ºB — Revogação da delegação
+    - Adita Artigo 10.°C — Objecções aos actos delegados
+  - date: '2012-01-01'
+    amending: eu:celex:32012D0186:por
+    amending_title: DECISÃO DELEGADA DA COMISSÃO de 3 de fevereiro de 2012
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Transmissão dos resultados da recolha de dados
+    - Altera 2. Definições
+    - Altera ANEXO II
+    - Altera ZONAS COSTEIRAS MARÍTIMAS
+    - Altera NACIONALIDADE DE REGISTO DO NAVIO
+    - Altera ANEXO VI
+    - Altera ESTATÍSTICAS SUMÁRIAS E PORMENORIZADAS
+    - Altera Notas
+    - Adita a) Informações relativas a mercadorias e passageiros
+    - Adita b) Informações relativas aos navios
+    - Adita ESTATUTO JURÍDICO DO CONJUNTO DE DADOS
+    - Suprime a) Variáveis estatísticas
+    - 'Suprime b) Informações relativas aos navios:'
 identifiers:
   celex: 32009L0042
   eli: http://data.europa.eu/eli/dir/2009/42/oj
@@ -49,7 +127,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5cd41b4c-d85b-497e-9234-2026c8b05d84.0018
   content_url: http://publications.europa.eu/resource/cellar/57aa4cf1-5022-4459-80b5-45da651e7c00.0018.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0042-20120101
-  retrieved_at: '2026-10-22T03:14:18Z'
+  retrieved_at: '2026-10-22T15:36:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T19:40:21.268+02:00'
 integrity:
@@ -58,9 +136,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:14:18Z'
-  notes: Texto consolidado 02009L0042-20120101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:50Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2009-42.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -148,31 +226,19 @@ relationships:
   date: '1998-06-24'
 article_structure:
   article_count: 17
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:14:18Z'
+  checked_at: '2026-10-22T15:36:50Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/42/CE do Parlamento Europeu e do Conselho, de 6 de Maio de 2009
-
-> 2009L0042 — PT — 01.01.2012 — 003.001
-
-> Este documento constitui um instrumento de documentação e não vincula as instituições
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010D0216) — [DECISÃO DA COMISSÃO de 14 de Abril de 2010](http://publications.europa.eu/resource/celex/32010D0216) — L 94 — 33 — 15.4.2010
-- [►M2](http://publications.europa.eu/resource/celex/32010R1090) — [REGULAMENTO (UE) N.º 1090/2010 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de Novembro de 2010](http://publications.europa.eu/resource/celex/32010R1090) — L 325 — 1 — 9.12.2010
-- [►M3](http://publications.europa.eu/resource/celex/32012D0186) — [DECISÃO DELEGADA DA COMISSÃO de 3 de fevereiro de 2012](http://publications.europa.eu/resource/celex/32012D0186) — L 101 — 5 — 11.4.2012
-
-## DIRECTIVA 2009/42/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 6 de Maio de 2009
 

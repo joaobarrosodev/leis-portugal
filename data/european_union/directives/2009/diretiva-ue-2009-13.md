@@ -35,6 +35,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-02-15'
+version_history:
+  file: diretiva-ue-2009-13.versoes.json
+  count: 2
+  source_lastmod: '2018-02-15'
+  versions:
+  - date: '2009-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2018-02-15'
+    amending: eu:celex:32018L0131:por
+    amending_title: DIRETIVA (UE) 2018/131 DO CONSELHO Texto relevante para efeitos do EEE de 23 de janeiro de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 8.º
+    - Adita ANEXO
+    - Adita ACORDO
+    - Adita celebrado pela ECSA e pela ETF relativo à Convenção sobre Trabalho Marítimo, 2006
+    - Adita DEFINIÇÕES E ÂMBITO DE APLICAÇÃO
+    - Adita REGRAS E NORMAS
+    - Adita TÍTULO 1
+    - Adita REQUISITOS MÍNIMOS PARA TRABALHAR A BORDO DE NAVIOS
+    - Adita TÍTULO 2
+    - Adita CONDIÇÕES DE EMPREGO
+    - Adita TÍTULO 3
+    - Adita ALOJAMENTO, INSTALAÇÕES DE LAZER, ALIMENTAÇÃO E RESTAURAÇÃO
+    - Adita TÍTULO 4
+    - Adita PROTECÇÃO DA SAÚDE, ASSISTÊNCIA MÉDICA E BEM-ESTAR
+    - Adita TÍTULO 5
+    - Adita CUMPRIMENTO E EXECUÇÃO
+    - Adita DISPOSIÇÕES FINAIS
+    - Adita ANEXO A
+    - Adita ALTERAÇÕES AO ACORDO SOBRE A ORGANIZAÇÃO DO TEMPO DE TRABALHO DOS MARÍTIMOS CELEBRADO EM 30 DE SETEMBRO DE 1998
+    - Adita 1. Cláusula 1
+    - Adita 2. Cláusula 2, alínea c)
+    - Adita 3. Cláusula 2, alínea d)
+    - Adita 4. Cláusula 6
+    - Adita 5. Cláusula 13
+    - Adita 6. Cláusula 16
+    - Suprime Notas
 identifiers:
   celex: 32009L0013
   eli: http://data.europa.eu/eli/dir/2009/13/oj
@@ -49,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/eeccde1e-5a38-424a-9f2f-51cd58be9a2b.0018
   content_url: http://publications.europa.eu/resource/cellar/21963933-e469-49fb-a1c9-27cc5ba11db1.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0013-20180215
-  retrieved_at: '2026-10-22T02:59:10Z'
+  retrieved_at: '2026-10-22T15:35:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T12:31:31.168+02:00'
 integrity:
@@ -58,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:59:10Z'
-  notes: Texto consolidado 02009L0013-20180215.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:28Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-13.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -118,28 +159,18 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:59:10Z'
+  checked_at: '2026-10-22T15:35:28Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/13/CE do Conselho, de 16 de Fevereiro de 2009
-
-> 02009L0013 — PT — 15.02.2018 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32018L0131) — [DIRETIVA (UE) 2018/131 DO CONSELHO Texto relevante para efeitos do EEE de 23 de janeiro de 2018](http://publications.europa.eu/resource/celex/32018L0131) — L 22 — 28 — 26.1.2018
-
-## DIRECTIVA 2009/13/CE DO CONSELHO
 
 de 16 de Fevereiro de 2009
 

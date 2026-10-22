@@ -35,6 +35,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-01-01'
+version_history:
+  file: diretiva-ue-2009-22.versoes.json
+  count: 4
+  source_lastmod: '2022-01-01'
+  versions:
+  - date: '2009-05-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2013-07-08'
+    amending: eu:celex:32013L0011:por
+    amending_title: DIRETIVA 2013/11/UE DO PARLAMENTO EUROPEU E DO CONSELHO Diretiva RAL de 21 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 11.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita Directiva revogada e suas alterações sucessivas
+    - Adita (referidas no artigo 9.º)
+    - Adita PARTE B
+    - Adita Prazos de transposição para o direito nacional e de aplicação
+    - Adita (referidos no artigo 9.º)
+    - Adita ANEXO III
+  - date: '2016-01-09'
+    amending: eu:celex:32013R0524:por
+    amending_title: REGULAMENTO (UE) N. o 524/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Relatórios
+    - Altera Notas
+    - Adita [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º
+      ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))
+    - Suprime LISTA DAS DIRECTIVAS REFERIDAS NO ARTIGO 1.º ([^5^](http://publications.europa.eu/resource/cellar/f25b4bcf-b93c-4f99-b861-90a6e9e0a2cb.0018.03/DOC_1#E0005))
+  - date: '2022-01-01'
+    amending: eu:celex:32018R0302:por
+    amending_title: REGULAMENTO (UE) 2018/302 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2018; DIRETIVA (UE)
+      2019/770 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019; DIRETIVA (UE) 2019/771 DO PARLAMENTO EUROPEU E DO
+      CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Notas
+    - Adita [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO 1.º
+      ([^1^](http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1#E0001))
+    - Suprime [►M2](http://publications.europa.eu/resource/celex/32013R0524) LISTA DOS ATOS DA UNIÃO◄ REFERIDAS NO ARTIGO
+      1.º ([^5^](http://publications.europa.eu/resource/cellar/ee8b05f6-e289-44a8-8b26-86aa8b8d0c76.0015.03/DOC_1#E0005))
 identifiers:
   celex: 32009L0022
   eli: http://data.europa.eu/eli/dir/2009/22/oj
@@ -49,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9f4748ef-f612-41cb-bc89-b2a7a2a64949.0018
   content_url: http://publications.europa.eu/resource/cellar/f1ed8c7c-5387-11ec-91ac-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0022-20220101
-  retrieved_at: '2026-10-22T02:45:28Z'
+  retrieved_at: '2026-10-22T15:35:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T06:36:20.063+02:00'
 integrity:
@@ -58,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:45:28Z'
-  notes: Texto consolidado 02009L0022-20220101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:35:52Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2009-22.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,37 +214,19 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:45:28Z'
+  checked_at: '2026-10-22T15:35:52Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/22/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0022 — PT — 01.01.2022 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32013L0011) — [DIRETIVA 2013/11/UE DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013](http://publications.europa.eu/resource/celex/32013L0011) — L 165 — 63 — 18.6.2013
-- [►M2](http://publications.europa.eu/resource/celex/32013R0524) — [REGULAMENTO (UE) N.º 524/2013 DO PARLAMENTO EUROPEU E DO CONSELHO de 21 de maio de 2013](http://publications.europa.eu/resource/celex/32013R0524) — L 165 — 1 — 18.6.2013
-- [►M3](http://publications.europa.eu/resource/celex/32018R0302) — [REGULAMENTO (UE) 2018/302 DO PARLAMENTO EUROPEU E DO CONSELHO de 28 de fevereiro de 2018](http://publications.europa.eu/resource/celex/32018R0302) — L 60I — 1 — 2.3.2018
-- [►M4](http://publications.europa.eu/resource/celex/32019L0770) — [DIRETIVA (UE) 2019/770 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0770) — L 136 — 1 — 22.5.2019
-- [►M5](http://publications.europa.eu/resource/celex/32019L0771) — [DIRETIVA (UE) 2019/771 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019L0771) — L 136 — 28 — 22.5.2019
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32019L0771R%2801%29) — [Rectificação, JO L 305, 26.11.2019, p. 65 (2019/771)](http://publications.europa.eu/resource/celex/32019L0771R%2801%29)
-
-## DIRECTIVA 2009/22/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

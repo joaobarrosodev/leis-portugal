@@ -36,6 +36,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-02-16'
+version_history:
+  file: diretiva-ue-2009-32.versoes.json
+  count: 4
+  source_lastmod: '2023-02-16'
+  versions:
+  - date: '2009-06-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2010-09-16'
+    amending: eu:celex:32010L0059:por
+    amending_title: Directiva 2010/59/UE da Comissão Texto relevante para efeitos do EEE de 26 de Agosto de 2010
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Artigo 11.º
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita SOLVENTES DE EXTRACÇÃO QUE PODEM SER UTILIZADOS DURANTE O PROCESSAMENTO DE MATÉRIAS-PRIMAS, DE GÉNEROS ALIMENTÍCIOS
+      OU DE COMPONENTES ALIMENTARES OU DE INGREDIENTES ALIMENTARES
+    - Adita PARTE I
+    - Adita Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos ([^7^](http://publications.europa.eu/resource/cellar/186c6d4b-a784-4b6e-b6e8-d0bec044a66c.0019.03/DOC_1#E0007))
+    - Adita PARTE II
+    - Adita Solventes de extracção cujas condições de utilização são especificadas
+    - Adita PARTE III
+    - Adita ANEXO II
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita ANEXO III
+  - date: '2016-11-09'
+    amending: eu:celex:32016L1855:por
+    amending_title: DIRETIVA (UE) 2016/1855 DA COMISSÃO Texto relevante para efeitos do EEE de 19 de outubro de 2016
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º
+    - Altera Solventes de extracção cujas condições de utilização são especificadas
+    - Altera PARTE B
+    - Altera Notas
+    - Adita Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos ([^2^](http://publications.europa.eu/resource/cellar/2136d39e-78d1-428b-9b01-0cebb3ec4081.0015.02/DOC_1#E0002))
+    - Suprime Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos ([^7^](http://publications.europa.eu/resource/cellar/186c6d4b-a784-4b6e-b6e8-d0bec044a66c.0019.03/DOC_1#E0007))
+  - date: '2023-02-16'
+    amending: eu:celex:32023L0175:por
+    amending_title: DIRETIVA (UE) 2023/175 DA COMISSÃO de 26 de janeiro de 2023
+    changes:
+    - Altera Artigo 6.º
+    - Altera Solventes de extracção cujas condições de utilização são especificadas
+    - Altera PARTE B
+    - Altera Notas
+    - Adita Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos ([^2^](http://publications.europa.eu/resource/cellar/5b6dcd40-bd27-11ed-8912-01aa75ed71a1.0019.02/DOC_1#E0002))
+    - Adita PARTE IV
+    - Adita Critérios de pureza específicos para os solventes de extração constantes do anexo I
+    - Suprime Solventes de extracção a utilizar respeitando as boas práticas de fabrico, para todos os usos ([^2^](http://publications.europa.eu/resource/cellar/2136d39e-78d1-428b-9b01-0cebb3ec4081.0015.02/DOC_1#E0002))
 identifiers:
   celex: 32009L0032
   eli: http://data.europa.eu/eli/dir/2009/32/oj
@@ -50,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cbf632d5-30e6-44f5-85fb-0bfe6c3caf69.0018
   content_url: http://publications.europa.eu/resource/cellar/5b6dcd40-bd27-11ed-8912-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0032-20230216
-  retrieved_at: '2026-10-22T02:52:37Z'
+  retrieved_at: '2026-10-22T15:36:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T18:39:18.685+02:00'
 integrity:
@@ -59,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:52:37Z'
-  notes: Texto consolidado 02009L0032-20230216.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:23Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2009-32.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,31 +206,19 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 14
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 15
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:52:37Z'
+  checked_at: '2026-10-22T15:36:23Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/32/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0032 — PT — 16.02.2023 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32010L0059) — [DIRECTIVA 2010/59/UE DA COMISSÃO de 26 de Agosto de 2010](http://publications.europa.eu/resource/celex/32010L0059) — L 225 — 10 — 27.8.2010
-- [►M2](http://publications.europa.eu/resource/celex/32016L1855) — [DIRETIVA (UE) 2016/1855 DA COMISSÃO de 19 de outubro de 2016](http://publications.europa.eu/resource/celex/32016L1855) — L 284 — 19 — 20.10.2016
-- [►M3](http://publications.europa.eu/resource/celex/32023L0175) — [DIRETIVA (UE) 2023/175 DA COMISSÃO de 26 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023L0175) — L 25 — 67 — 27.1.2023
-
-## DIRECTIVA 2009/32/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 

@@ -36,6 +36,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-07-01'
+version_history:
+  file: diretiva-ue-2009-28.versoes.json
+  count: 2
+  source_lastmod: '2021-07-01'
+  versions:
+  - date: '2009-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Suprime Artigo 1.o — Objecto e âmbito de aplicação
+    - Suprime Artigo 2.o — Definições
+    - Suprime Artigo 3.o — Objectivos globais nacionais obrigatórios e medidas para a utilização de energia proveniente de
+      fontes renováveis
+    - Suprime Artigo 4.o — Planos de acção nacionais para as energias renováveis
+    - Suprime Artigo 5.o — Cálculo da quota de energia proveniente de fontes renováveis
+    - Suprime Artigo 6.o — Transferências estatísticas entre Estados-Membros
+    - Suprime Artigo 7.o — Projectos conjuntos entre Estados-Membros
+    - Suprime Artigo 8.o — Efeitos dos projectos conjuntos entre Estados-Membros
+    - Suprime Artigo 9.o — Projectos conjuntos entre Estados-Membros e países terceiros
+    - Suprime Artigo 10.o — Efeitos dos projectos conjuntos entre Estados-Membros e países terceiros
+    - Suprime Artigo 11.o — Regimes de apoio conjuntos
+    - Suprime Artigo 12.o — Aumentos de capacidade
+    - Suprime Artigo 13.o — Procedimentos administrativos, regulamentos e códigos
+    - Suprime Artigo 14.o — Informação e formação
+    - Suprime Artigo 15.o — Garantia de origem da electricidade e da energia de aquecimento e arrefecimento produzidas a partir
+      de fontes de energia renováveis
+    - Suprime Artigo 16.o — Acesso e funcionamento das redes
+    - Suprime Artigo 17.o — Critérios de sustentabilidade para os biocombustíveis e biolíquidos
+    - Suprime Artigo 18.o — Verificação do cumprimento dos critérios de sustentabilidade para os biocombustíveis e biolíquidos
+    - Suprime Artigo 19.o — Cálculo do impacto dos biocombustíveis e biolíquidos nos gases com efeito de estufa
+    - Suprime Artigo 20.o — Medidas de execução
+    - Suprime Artigo 21.o — Disposições específicas relativas à energia proveniente de fontes renováveis nos transportes
+    - Suprime Artigo 22.o — Apresentação de relatórios pelos Estados-Membros
+    - Suprime Artigo 23.o — Monitorização e apresentação de relatórios pela Comissão
+    - Suprime Artigo 24.o — Plataforma de transparência
+    - Suprime Artigo 25.o — Comités
+    - Suprime Artigo 26.o — Alterações e revogações
+    - Suprime Artigo 27.o — Transposição
+    - Suprime Artigo 28.o — Entrada em vigor
+    - Suprime Artigo 29.o — Destinatários
+    - Suprime Notas
 identifiers:
   celex: 32009L0028
   eli: http://data.europa.eu/eli/dir/2009/28/oj
@@ -50,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/574c0c59-59e2-4828-8160-95aff8f6f7ac.0018
   content_url: http://publications.europa.eu/resource/cellar/72b7d0cd-0667-11ec-b5d3-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0028-20210701
-  retrieved_at: '2026-10-22T02:35:41Z'
+  retrieved_at: '2026-10-22T15:36:07Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-21T04:37:18.401+02:00'
 integrity:
@@ -59,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:41Z'
-  notes: Texto consolidado 02009L0028-20210701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:07Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2009-28.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -465,16 +511,17 @@ relationships:
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:41Z'
+  checked_at: '2026-10-22T15:36:07Z'
   warnings:
-  - Não foram detetados artigos com as classes XHTML esperadas.
-  - Não foi detetado o título principal no XHTML.
+  - '02009L0028-20090625: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0028-20130701: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02009L0028-20151005: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 

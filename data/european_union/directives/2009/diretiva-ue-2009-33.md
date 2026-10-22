@@ -35,6 +35,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-20'
+version_history:
+  file: diretiva-ue-2009-33.versoes.json
+  count: 3
+  source_lastmod: '2024-05-20'
+  versions:
+  - date: '2009-05-15'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-01'
+    amending: eu:celex:32019L1161:por
+    amending_title: DIRETIVA (UE) 2019/1161 DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 20
+      de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 13.º — Destinatários
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto e objetivos
+    - Adita Artigo 5.º — Objetivos mínimos em matéria de contratação pública
+    - Adita Artigo 8.º — Intercâmbio de conhecimentos e melhores práticas
+    - Adita Artigo 10.º — Apresentação de relatórios e revisão
+    - Adita ANEXO
+    - Adita INFORMAÇÕES PARA A APLICAÇÃO DOS OBJETIVOS MÍNIMOS EM MATÉRIA DE CONTRATAÇÃO PÚBLICA DE VEÍCULOS DE TRANSPORTE
+      RODOVIÁRIO NÃO POLUENTES A FAVOR DA MOBILIDADE COM NÍVEL BAIXO DE EMISSÕES NOS ESTADOS-MEMBROS
+    - 'Adita Quadro 1: Códigos do Vocabulário Comum para os Contratos Públicos (CPV – Common Procurement Vocabulary) de serviços
+      a que se refere o artigo 3.º, n.º 1, alínea c)'
+    - 'Adita Quadro 2: Limiares de emissões aplicáveis aos veículos ligeiros não poluentes'
+    - 'Adita Quadro 3: Objetivo mínimo em matéria de contratação pública para a percentagem de veículos ligeiros não poluentes
+      nos termos do quadro 2 no âmbito de todos os veículos ligeiros abrangidos pelos contratos a que se refere o artigo 3.º,
+      a nível dos Estados-Membros'
+    - 'Adita Quadro 4: Objetivo mínimo em matéria de contratação pública para a percentagem de veículos pesados não poluentes
+      no número total de veículos pesados abrangidos pelos contratos a que se refere o artigo 3.º, a nível dos Estados-Membros
+      ()'
+    - Suprime Artigo 1.º — Objecto e finalidade
+    - Suprime Artigo 5.º — Compra de veículos de transporte rodoviário não poluentes e energeticamente eficientes
+    - Suprime Artigo 6.º — Método de cálculo dos custos operacionais durante o tempo de vida
+    - Suprime Artigo 7.º — Adaptações ao progresso técnico
+    - Suprime Artigo 8.º — Intercâmbio das melhores práticas
+    - Suprime Artigo 10.º — Relatórios e revisão
+  - date: '2024-05-20'
+    amending: eu:celex:32024D1254:por
+    amending_title: DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Isenções
+    - Altera Artigo 3.º — Âmbito
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Procedimento de comité
+    - Altera Artigo 10.º — Apresentação de relatórios e revisão
+    - 'Altera Quadro 2: Limiares de emissões aplicáveis aos veículos ligeiros não poluentes'
+    - 'Altera Quadro 4: Objetivo mínimo em matéria de contratação pública para a percentagem de veículos pesados não poluentes
+      no número total de veículos pesados abrangidos pelos contratos a que se refere o artigo 3.º, a nível dos Estados-Membros
+      ()'
+    - Altera Notas
 identifiers:
   celex: 32009L0033
   eli: http://data.europa.eu/eli/dir/2009/33/oj
@@ -49,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/65d53e25-ff1e-4c62-adfa-ae2bc60c7d65.0018
   content_url: http://publications.europa.eu/resource/cellar/042cb1fb-2805-11ef-a195-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0033-20240520
-  retrieved_at: '2026-10-22T02:39:48Z'
+  retrieved_at: '2026-10-22T15:36:26Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T18:34:19.588+02:00'
 integrity:
@@ -58,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:48Z'
-  notes: Texto consolidado 02009L0033-20240520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:26Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2009-33.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -184,30 +241,20 @@ relationships:
   source: null
 article_structure:
   article_count: 11
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:48Z'
-  warnings: []
+  checked_at: '2026-10-22T15:36:26Z'
+  warnings:
+  - '02009L0033-20090604: versão indisponível (Sem expressão na língua por para CELEX 02009L0033-20090604.)'
   errors: []
 ---
 
 # Directiva 2009/33/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0033 — PT — 20.05.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019L1161) — [DIRETIVA (UE) 2019/1161 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019L1161) — L 188 — 116 — 12.7.2019
-- [►M2](http://publications.europa.eu/resource/celex/32024D1254) — [DECISÃO (UE) 2024/1254 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024D1254) — L 1254 — 1 — 30.4.2024
-
-## DIRETIVA 2009/33/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de abril de 2009
 

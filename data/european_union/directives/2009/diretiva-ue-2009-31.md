@@ -37,6 +37,83 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2018-12-24'
+version_history:
+  file: diretiva-ue-2009-31.versoes.json
+  count: 4
+  source_lastmod: '2018-12-24'
+  versions:
+  - date: '2009-06-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2012-02-17'
+    amending: eu:celex:32011L0092:por
+    amending_title: DIRECTIVA 2011/92/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de
+      dezembro de 2011
+    changes:
+    - Altera preambulo
+    - Altera Artigo 8.º — Condições das licenças de armazenamento
+    - Altera Artigo 19.º — Garantia financeira
+    - Altera Artigo 32.º — Alteração da Directiva 2000/60/CE
+    - Altera Artigo 33.º — Alteração da Directiva 2001/80/CE
+    - Altera Artigo 34.º — Alteração da Directiva 2004/35/CE
+    - Altera Artigo 35.º — Alteração da Directiva 2006/12/CE
+    - Altera Artigo 36.º — Alteração do Regulamento (CE) n.º 1013/2006
+    - Altera Artigo 37.º — Alteração da Directiva 2008/1/CE
+    - Altera Artigo 41.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CRITÉRIOS PARA A CARACTERIZAÇÃO E A AVALIAÇÃO DOS COMPLEXOS DE ARMAZENAMENTO POTENCIAIS E DAS ZONAS CIRCUNDANTES
+      A QUE SE REFERE O N.º 3 DO ARTIGO 4.º
+    - 'Adita Fase 1: Recolha de dados'
+    - 'Adita Fase 2: Construção do modelo geológico tridimensional estático'
+    - 'Adita Fase 3: Caracterização do comportamento dinâmico do armazenamento, caracterização da sensibilidade, avaliação
+      do risco'
+    - 'Adita Fase 3.1: Caracterização do comportamento dinâmico do armazenamento'
+    - 'Adita Fase 3.2: Caracterização da sensibilidade'
+    - 'Adita Fase 3.3: Avaliação dos riscos'
+    - Adita 3.3.1. Caracterização do perigo
+    - Adita ANEXO II
+    - Adita CRITÉRIOS PARA A ELABORAÇÃO E ACTUALIZAÇÃO DO PLANO DE MONITORIZAÇÃO REFERIDO NO N.º 2 DO ARTIGO 13.º E PARA A
+      MONITORIZAÇÃO PÓS-ENCERRAMENTO
+    - Adita 1. Elaboração e actualização do plano de monitorização
+    - Adita 2. Monitorização pós-encerramento
+    - Suprime Artigo 31.º — Alteração da Directiva 85/337/CEE
+    - Suprime «Artigo 9.ºA
+  - date: '2018-07-04'
+    amending: eu:celex:32018D0853:por
+    amending_title: DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018
+    changes:
+    - Altera preambulo
+    - Altera Artigo 27.º — Comunicação de dados pelos Estados-Membros
+    - Altera Artigo 30.º — Procedimento de comité
+    - Altera Artigo 32.º — Alteração da Directiva 2000/60/CE
+    - Altera Artigo 33.º — Alteração da Directiva 2001/80/CE
+    - Altera Artigo 34.º — Alteração da Directiva 2004/35/CE
+    - Altera Artigo 35.º — Alteração da Directiva 2006/12/CE
+    - Altera Artigo 36.º — Alteração do Regulamento (CE) n.º 1013/2006
+    - Altera Artigo 37.º — Alteração da Directiva 2008/1/CE
+    - 'Altera Fase 1: Recolha de dados'
+    - Altera Notas
+    - Adita Artigo 29.º — Alteração dos Anexos
+    - Adita Artigo 29.º-A — Exercício da delegação
+    - Suprime Artigo 29.º — Alteração dos anexos
+  - date: '2018-12-24'
+    amending: eu:celex:32018R1999:por
+    amending_title: REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018
+    changes:
+    - Altera Artigo 27.º — Comunicação de dados pelos Estados-Membros
+    - Altera Artigo 29.º-A — Exercício da delegação
+    - Altera Artigo 30.º — Procedimento de comité
+    - Altera Artigo 32.º — Alteração da Directiva 2000/60/CE
+    - Altera Artigo 33.º — Alteração da Directiva 2001/80/CE
+    - Altera Artigo 34.º — Alteração da Directiva 2004/35/CE
+    - Altera Artigo 35.º — Alteração da Directiva 2006/12/CE
+    - Altera Artigo 36.º — Alteração do Regulamento (CE) n.º 1013/2006
+    - Altera Artigo 37.º — Alteração da Directiva 2008/1/CE
+    - Altera Artigo 38.º — Revisão
+    - 'Altera Fase 1: Recolha de dados'
+    - Altera Notas
 identifiers:
   celex: 32009L0031
   eli: http://data.europa.eu/eli/dir/2009/31/oj
@@ -51,7 +128,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2c32c0c9-8be9-415c-be08-84adbbdb6eb1.0018
   content_url: http://publications.europa.eu/resource/cellar/d5ece860-3433-11e9-8d04-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02009L0031-20181224
-  retrieved_at: '2026-10-22T02:42:50Z'
+  retrieved_at: '2026-10-22T15:36:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-10-20T19:06:19.334+02:00'
 integrity:
@@ -60,9 +137,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:42:50Z'
-  notes: Texto consolidado 02009L0031-20181224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T15:36:19Z'
+  notes: 4 versão(ões); histórico completo em diretiva-ue-2009-31.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -243,31 +320,19 @@ relationships:
   source: null
 article_structure:
   article_count: 41
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:42:50Z'
+  checked_at: '2026-10-22T15:36:19Z'
   warnings: []
   errors: []
 ---
 
 # Directiva 2009/31/CE do Parlamento Europeu e do Conselho, de 23 de Abril de 2009
-
-> 02009L0031 — PT — 24.12.2018 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32011L0092) — [DIRECTIVA 2011/92/UE DO PARLAMENTO EUROPEU E DO CONSELHO Texto relevante para efeitos do EEE de 13 de dezembro de 2011](http://publications.europa.eu/resource/celex/32011L0092) — L 26 — 1 — 28.1.2012
-- [►M2](http://publications.europa.eu/resource/celex/32018D0853) — [DECISÃO (UE) 2018/853 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2018](http://publications.europa.eu/resource/celex/32018D0853) — L 150 — 155 — 14.6.2018
-- [►M3](http://publications.europa.eu/resource/celex/32018R1999) — [REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de dezembro de 2018](http://publications.europa.eu/resource/celex/32018R1999) — L 328 — 1 — 21.12.2018
-
-## DIRECTIVA 2009/31/CE DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de Abril de 2009
 
