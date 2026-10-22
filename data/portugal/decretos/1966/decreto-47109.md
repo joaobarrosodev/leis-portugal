@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/07/16800/12851286.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-02-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e481da8b4cbe29017bed067e3c0fab7d76c63f54e17a33188fcdf185ea1473c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77b0389a537116851703b9381da58d669730c2487e69b1ad0ea48be03010456d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Aposentação
+- Caixa Geral de Aposentações
+- Cálculo de Pensões
+- Funcionário Público
+- Funcionário Ultramarino
+- Ministério do Ultramar
+- Pensão de Aposentação
 relationships:
 - type: amended_by
   target: pt:dre:159883:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:159883:por
+  label: "Revogado a partir de 01.03.1975 pelo DEC.52/75.08.02.1975.MCINT, DG.IS [33] de 08.02.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/52-1975-159883
+  date: '1975-02-08'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:45Z'
   warnings: []
   errors: []
 ---
@@ -101,9 +114,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os funcionários e agentes civis dos serviços da administração pública das províncias ultramarinas, do Ministério do Ultramar e organismos dele dependentes, com direito a aposentação, podem requerer a constituição de uma pensão de sobrevivência, que será concedida e paga nos mesmos termos da aposentação.
+Artigo 1.º Os funcionários e agentes civis dos serviços da administração pública das províncias ultramarinas, do Ministério do Ultramar e organismos dele dependentes, com direito a aposentação, podem requerer a constituição de uma pensão de sobrevivência, que será concedida e paga nos mesmos termos da aposentação.
 
-###### Art. 2.º O desconto para a pensão de sobrevivência é de 3 por cento sobre a média das remunerações correspondentes aos cargos que os interessados tenham exercido até à data do pedido de constituição da pensão, desde que o respectivo tempo de serviço possa ser contado para a aposentação.
+Art. 2.º O desconto para a pensão de sobrevivência é de 3 por cento sobre a média das remunerações correspondentes aos cargos que os interessados tenham exercido até à data do pedido de constituição da pensão, desde que o respectivo tempo de serviço possa ser contado para a aposentação.
 
 § 1.º A partir da data do pedido da constituição da pensão, a percentagem incidirá sobre a mesma remuneração em que incide o desconto para a aposentação.
 
@@ -111,11 +124,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º O funcionário ou agente interessado pode requerer a cessação dos descontos em qualquer altura, perdendo o direito à pensão e não sendo reembolsado do que já houver descontado para esse efeito, a não ser em hipótese idêntica à do artigo 438.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 3.º Os funcionários e agentes já aposentados podem igualmente constituir a pensão de sobrevivência, pagando em 96 prestações mensais uma taxa calculada nos termos do artigo anterior correspondente ao mesmo número de anos que serviu de base à sua aposentação.
+Art. 3.º Os funcionários e agentes já aposentados podem igualmente constituir a pensão de sobrevivência, pagando em 96 prestações mensais uma taxa calculada nos termos do artigo anterior correspondente ao mesmo número de anos que serviu de base à sua aposentação.
 
-###### Art. 4.º Os descontos para a pensão de sobrevivência cessam no mês em que for concedida a aposentação, desde que estejam pagos os encargos correspondentes ao mesmo número de anos contados para esta.
+Art. 4.º Os descontos para a pensão de sobrevivência cessam no mês em que for concedida a aposentação, desde que estejam pagos os encargos correspondentes ao mesmo número de anos contados para esta.
 
-###### Art. 5.º A pensão de sobrevivência só pode ser constituída a favor de:
+Art. 5.º A pensão de sobrevivência só pode ser constituída a favor de:
 
 a) Cônjuge, não separado judicialmente de pessoas e bens;
 
@@ -129,15 +142,15 @@ c) Ascendentes que vivam a cargo do funcionário ou agente.
 
 § 3.º Só podem ser beneficiários da pensão os ascendentes que vivam a cargo do funcionário ou agente e não possuam remuneração, rendimento, subsídio ou pensão superior a 1500$00 mensais, o que será comprovado por certidões passadas pelos serviços competentes ou atestado da junta de freguesia.
 
-###### Art. 6.º A pensão de sobrevivência é igual a metade da pensão de aposentação do funcionário ou agente, já constituída ou a que tenha direito na data do falecimento, e não está sujeita a quaisquer imposições legais, com excepção do imposto do selo.
+Art. 6.º A pensão de sobrevivência é igual a metade da pensão de aposentação do funcionário ou agente, já constituída ou a que tenha direito na data do falecimento, e não está sujeita a quaisquer imposições legais, com excepção do imposto do selo.
 
-###### Art. 7.º Quando a pensão tenha sido requerida nos termos legais e paga a respectiva compensação, o direito ao recebimento adquire-se na data do falecimento do funcionário ou agente aposentado ou pelo falecimento no activo, desde que reúna a essa data as condições legais para obter a aposentação.
+Art. 7.º Quando a pensão tenha sido requerida nos termos legais e paga a respectiva compensação, o direito ao recebimento adquire-se na data do falecimento do funcionário ou agente aposentado ou pelo falecimento no activo, desde que reúna a essa data as condições legais para obter a aposentação.
 
-###### Art. 8.º Se o funcionário ou o agente falecer antes de ter pago a taxa a que se refere o artigo 2.º, poderão os beneficiários da pensão continuar a pagá-la nos mesmos termos, mas as prestações serão calculadas de modo que nunca excedam o limite de idade até ao qual a pensão vem a ser concedida, se for esse o caso.
+Art. 8.º Se o funcionário ou o agente falecer antes de ter pago a taxa a que se refere o artigo 2.º, poderão os beneficiários da pensão continuar a pagá-la nos mesmos termos, mas as prestações serão calculadas de modo que nunca excedam o limite de idade até ao qual a pensão vem a ser concedida, se for esse o caso.
 
 § único. Os descontos a fazer sairão da própria pensão.
 
-###### Art. 9.º A pensão de sobrevivência pode ser legada às pessoas indicadas no artigo 5.º, nas seguintes condições:
+Art. 9.º A pensão de sobrevivência pode ser legada às pessoas indicadas no artigo 5.º, nas seguintes condições:
 
 a) Metade da pensão, nas percentagens que o funcionário ou agente entender;
 
@@ -153,7 +166,7 @@ Pensão de sobrevivência - Declaração a que se refere o artigo 9.º do Decret
 
 § 4.º A declaração pode ser retirada ou substituída em qualquer altura, prevalecendo sempre a declaração ou o testamento de data mais recente.
 
-###### Art. 10.º A pensão de sobrevivência ou a sua quota-parte cessa:
+Art. 10.º A pensão de sobrevivência ou a sua quota-parte cessa:
 
 a) Pela morte, cedência ou renúncia do respectivo beneficiário;
 
@@ -169,19 +182,19 @@ e) Pela alteração da situação económica dos ascendentes indicada no § 3.º
 
 § 2.º Cessando a pensão ou as respectivas quotas em relação a todos os beneficiários de cada grupo indicado no artigo 5.º, a pensão de sobrevivência transmite-se às pessoas do grupo imediato que reúnam as condições legais para a receber.
 
-###### Art. 11.º A pensão de sobrevivência deve ser requerida, sob pena de caducidade, no prazo de 180 dias após a morte do funcionário ou agente por qualquer das pessoas que se julguem com direito a ela, juntando certidão de óbito, documento comprovativo do parentesco e indicação dos outros beneficiários, se os houver.
+Art. 11.º A pensão de sobrevivência deve ser requerida, sob pena de caducidade, no prazo de 180 dias após a morte do funcionário ou agente por qualquer das pessoas que se julguem com direito a ela, juntando certidão de óbito, documento comprovativo do parentesco e indicação dos outros beneficiários, se os houver.
 
 Deferida a pensão e determinados os beneficiários, será paga por inteiro a partir do próprio mês em que ocorreu o falecimento.
 
 § único. Se houver declaração no processo individual, o próprio serviço notificará pelos meios legais os beneficiários indicados logo que tenha conhecimento seguro da morte do funcionário ou agente, tendo então aqueles o prazo de 90 dias para instruírem o processo com os documentos que se mostrem necessários, sob cominação de caducidade do direito à pensão.
 
-###### Art. 12.º A pensão de sobrevivência é paga por força da dotação orçamental que suporta o encargo da pensão de aposentação.
+Art. 12.º A pensão de sobrevivência é paga por força da dotação orçamental que suporta o encargo da pensão de aposentação.
 
-###### Art. 13.º Os descontos para a pensão de sobrevivência entrarão nos cofres da Fazenda na mesma rubrica destinada aos descontos para aposentação.
+Art. 13.º Os descontos para a pensão de sobrevivência entrarão nos cofres da Fazenda na mesma rubrica destinada aos descontos para aposentação.
 
-###### Art. 14.º As dúvidas que surgirem na interpretação do presente diploma serão resolvidas por despacho do Ministro do Ultramar, ouvidos os serviços a que o agente pertença e a Direcção-Geral de Fazenda.
+Art. 14.º As dúvidas que surgirem na interpretação do presente diploma serão resolvidas por despacho do Ministro do Ultramar, ouvidos os serviços a que o agente pertença e a Direcção-Geral de Fazenda.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

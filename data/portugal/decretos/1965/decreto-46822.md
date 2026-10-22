@@ -23,7 +23,7 @@ publication:
   reference: Diário do Governo n.º 296/1965, 1º Suplemento, Série I de 1965-12-31
   number: '296'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1873 - 1895
   pdf_url: https://files.diariodarepublica.pt/1s/1965/12/29601/18731895.pdf
 entry_into_force_dates: []
@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48afac7799e9b7600a220a51465b1165eb04990db8178c654e0797850fcfb63e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f88a8b546271b2571683df92f3081778bff09ece759896f9e2fd2fe876e393c6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:160354:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:246870:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669145:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 22
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:32Z'
   warnings: []
   errors: []
 ---
@@ -98,23 +134,23 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro do Ultramar é autorizado a celebrar com a Companhia dos Petróleos de Angola (Petrangol), S. A. R. L., um contrato de concessão nos termos estabelecidos nos artigos seguintes.
+Artigo 1.º O Ministro do Ultramar é autorizado a celebrar com a Companhia dos Petróleos de Angola (Petrangol), S. A. R. L., um contrato de concessão nos termos estabelecidos nos artigos seguintes.
 
 ### CAPÍTULO I — Do objecto da concessão
 
-###### Art. 2.º - 1. A concessão abrange o direito de prospectar, pesquisar, desenvolver e explorar, em regime de exclusivo, nos termos e nas condições deste decreto, jazigos e hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, assim como enxofre, hélio, dióxido de carbono e substâncias salinas.
+Art. 2.º - 1. A concessão abrange o direito de prospectar, pesquisar, desenvolver e explorar, em regime de exclusivo, nos termos e nas condições deste decreto, jazigos e hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, assim como enxofre, hélio, dióxido de carbono e substâncias salinas.
 
 2. Não é aplicável a esta concessão a disposto no artigo 62.º do Decreto de 20 de Setembro de 1906.
 
 3. Os direitos agora concedidos não prejudicam quaisquer direitos da mesma natureza anteriormente adquiridos por outras entidades.
 
-###### Art. 3.º - 1. A área da concessão compreende a totalidade das áreas terrestres e marítimas definidas pelas coordenadas dos vértices das poligonais que delimitam as áreas cujas demarcações foram pedidas pela Petrangol nas bacias do Congo e do Cuanza, ao abrigo do § 1.º do artigo 6.º do [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), de 18 de Julho de 1952, conforme a redacção do artigo 7.º do [Decreto n.º 41295](https://diariodarepublica.pt/dr/detalhe/decreto/41295-1957-254848), de 25 de Setembro de 1957.
+Art. 3.º - 1. A área da concessão compreende a totalidade das áreas terrestres e marítimas definidas pelas coordenadas dos vértices das poligonais que delimitam as áreas cujas demarcações foram pedidas pela Petrangol nas bacias do Congo e do Cuanza, ao abrigo do § 1.º do artigo 6.º do [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), de 18 de Julho de 1952, conforme a redacção do artigo 7.º do [Decreto n.º 41295](https://diariodarepublica.pt/dr/detalhe/decreto/41295-1957-254848), de 25 de Setembro de 1957.
 
 2. Na concessão incluem-se, respeitados os limites das demarcações referidas no número anterior, os leitos dos lagos, rios e quaisquer cursos de água, bem como as ilhas da faixa marítima.
 
 3. O Governo poderá igualmente negociar com a Petrangol a extensão da nova concessão à área total inicialmente prevista no artigo 3.º da [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), podendo ser incluída, se for caso disso, a parte correspondente da plataforma continental, havendo, porém, lugar ao pagamento de uma renda anual a estabelecer por mútuo acordo.
 
-###### Art. 4.º - 1. O direito de prospecção, pesquisa e desenvolvimento é concedido até 31 de Dezembro de 1970, sem prejuízo do disposto nos artigos 5.º e 7.º
+Art. 4.º - 1. O direito de prospecção, pesquisa e desenvolvimento é concedido até 31 de Dezembro de 1970, sem prejuízo do disposto nos artigos 5.º e 7.º
 
 2. O período fixado no número anterior poderá ser prorrogado por mais cinco anos, até 31 de Dezembro de 1975, nas seguintes condições:
 
@@ -124,21 +160,21 @@ b) Se a Petrangol tiver executado, até à concorrência da sua participação n
 
 3. A prorrogação a que se refere o número anterior só poderá abranger 50 por cento das áreas terrestres e 75 por cento das áreas marítimas concedidas por este decreto que em 31 de Dezembro de 1970 ainda não estiverem em exploração efectiva, sendo as restantes, à escolha da Petrangol, tornadas livres.
 
-###### Art. 5.º - 1. O pedido de prorrogação, a apresentar ao Ministro do Ultramar até 31 de Outubro de 1970, deve incluir todos os elementos necessários à sua apreciação e será acompanhado de uma carta, na escala de 1:250000, indicando as demarcações dos jazigos em exploração e as áreas a conservar e a libertar, bem como as coordenadas dos vértices que as definem.
+Art. 5.º - 1. O pedido de prorrogação, a apresentar ao Ministro do Ultramar até 31 de Outubro de 1970, deve incluir todos os elementos necessários à sua apreciação e será acompanhado de uma carta, na escala de 1:250000, indicando as demarcações dos jazigos em exploração e as áreas a conservar e a libertar, bem como as coordenadas dos vértices que as definem.
 
 2. Em princípio, nenhuma área a libertar poderá ser inferior a 50 km2.
 
 3. Terminado o período indicado no n.º 1 do artigo 4.º ou a sua prorrogação, as áreas que não correspondam a jazigos na fase de exploração, tal como vem referido na alínea d) do artigo 23.º, serão consideradas inteiramente livres, sem prejuízo do que se estabelece no n.º 3 do artigo 7.º
 
-###### Art. 6.º O direito de prospectar, pesquisar, desenvolver e explorar jazigos de enxofre, hélio, dióxido de carbono e substâncias salinas cessará automàticamente se a Petrangol, uma vez intimada para iniciar ou continuar a prospecção, pesquisa, desenvolvimento ou exploração de jazigos de qualquer dessas substâncias, o não fizer, em termos normais, no prazo de 120 dias.
+Art. 6.º O direito de prospectar, pesquisar, desenvolver e explorar jazigos de enxofre, hélio, dióxido de carbono e substâncias salinas cessará automàticamente se a Petrangol, uma vez intimada para iniciar ou continuar a prospecção, pesquisa, desenvolvimento ou exploração de jazigos de qualquer dessas substâncias, o não fizer, em termos normais, no prazo de 120 dias.
 
-###### Art. 7.º - 1. O direito de exploração é concedido por um período de 50 anos, que terá início, para cada jazigo, na data da respectiva demarcação definitiva.
+Art. 7.º - 1. O direito de exploração é concedido por um período de 50 anos, que terá início, para cada jazigo, na data da respectiva demarcação definitiva.
 
 2. O período fixado no número anterior poderá ser prorrogado por mais vinte anos, se for reconhecido que a Petrangol cumpriu as suas obrigações legais e contratuais e actuou de acordo com os superiores interesses do Estado.
 
 3. O disposto nos números anteriores é aplicável a todos os jazigos em curso de exploração, bem como aos que, no final dos períodos referidos nos n.os 1 e 2 do artigo 4.º, tenham sido objecto de um pedido de aprovação do correspondente plano de desenvolvimento e, executado esse plano nos termos em que ficar aprovado, venham a ser reconhecidos como econòmicamente exploráveis.
 
-###### Art. 8.º - 1. Qualquer jazigo que tenha sido definitivamente demarcado nos termos do artigo 27.º poderá ser considerado abandonado e a sua área declarada livre a requerimento da Petrangol ou por decisão do Governo, quando, salvo expressa autorização deste:
+Art. 8.º - 1. Qualquer jazigo que tenha sido definitivamente demarcado nos termos do artigo 27.º poderá ser considerado abandonado e a sua área declarada livre a requerimento da Petrangol ou por decisão do Governo, quando, salvo expressa autorização deste:
 
 a) No decurso de um ano o jazigo se mantenha improdutivo 180 dias;
 
@@ -152,13 +188,13 @@ c) Se verifique, relativamente a esse jazigo, falta de apresentação do plano d
 
 4. Se o abandono for declarado por decisão do Governo, poderá a Petrangol recorrer à arbitragem, de acordo com o estabelecido no capítulo XI deste decreto.
 
-###### Art. 9.º A Petrangol não poderá, sem autorização do Governo, transferir a qualquer título, total ou parcialmente, o objecto da concessão constante deste decreto.
+Art. 9.º A Petrangol não poderá, sem autorização do Governo, transferir a qualquer título, total ou parcialmente, o objecto da concessão constante deste decreto.
 
 ### CAPÍTULO II — Da sociedade concessionária
 
-###### Art. 10.º A Petrangol terá por objecto ùnicamente o exercício dos direitos de prospecção, pesquisa, desenvolvimento e exploração dos jazigos minerais concedidos por este decreto, a instalação e exploração de refinarias e oficinas de preparação dos produtos extraídos, a comercialização dos produtos brutos e acabados e outras actividades de natureza subsidiária ou complementar da sua exploração.
+Art. 10.º A Petrangol terá por objecto ùnicamente o exercício dos direitos de prospecção, pesquisa, desenvolvimento e exploração dos jazigos minerais concedidos por este decreto, a instalação e exploração de refinarias e oficinas de preparação dos produtos extraídos, a comercialização dos produtos brutos e acabados e outras actividades de natureza subsidiária ou complementar da sua exploração.
 
-###### Art. 11.º - 1. O capital social da Petrangol será elevado para 900000 contos, competindo ao Governo, ouvida a sociedade, resolver quanto à oportunidade da efectivação do aumento, ponderadas as condições económicas do empreendimento.
+Art. 11.º - 1. O capital social da Petrangol será elevado para 900000 contos, competindo ao Governo, ouvida a sociedade, resolver quanto à oportunidade da efectivação do aumento, ponderadas as condições económicas do empreendimento.
 
 2. O aumento do capital realizar-se-á dentro do prazo de 90 dias após a notificação feita pelo Governo à Petrangol.
 
@@ -174,21 +210,21 @@ c) Se verifique, relativamente a esse jazigo, falta de apresentação do plano d
 
 8. Ao capital social da Petrangol será aplicável o disposto no artigo 3.º e no § 1.º do artigo 21.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 12.º - 1. É reconhecido à província de Angola o direito de receber gratuitamente uma terça parte das acções representativas do aumento de capital referido no artigo anterior e dos que se lhe seguirem, inteiramente liberadas e emitidas de harmonia com as disposições legais em vigor, as quais serão entregues no prazo de 60 dias a contar da data das respectivas escrituras.
+Art. 12.º - 1. É reconhecido à província de Angola o direito de receber gratuitamente uma terça parte das acções representativas do aumento de capital referido no artigo anterior e dos que se lhe seguirem, inteiramente liberadas e emitidas de harmonia com as disposições legais em vigor, as quais serão entregues no prazo de 60 dias a contar da data das respectivas escrituras.
 
 2. As acções entregues à província de Angola, bem como as já detidas por esta, conferirão todos os poderes e regalias atribuídos às restantes, sem prejuízo do determinado em relação à participação da província nos resultados da exploração.
 
 3. A província de Angola não exercerá o direito de voto para a designação dos membros do conselho de administração e do conselho fiscal.
 
-###### Art. 13.º As acções representativas do actual capital social da Petrangol darão aos seus titulares, sem prejuízo do disposto no artigo 47.º, direito de prioridade na atribuição de um dividendo de 10 por cento durante o prazo de 2 dias a partir do exercício de 1966.
+Art. 13.º As acções representativas do actual capital social da Petrangol darão aos seus titulares, sem prejuízo do disposto no artigo 47.º, direito de prioridade na atribuição de um dividendo de 10 por cento durante o prazo de 2 dias a partir do exercício de 1966.
 
-###### Art. 14.º A Petrangol poderá recorrer a financiamentos internos ou externos, designadamente sob a forma de contratos de empréstimo ou de emissão de obrigações, ficando as respectivas operações sujeitas à prévia aprovação do Ministro do Ultramar, sem prejuízo de outros requisitos exigidos pela legislação em vigor.
+Art. 14.º A Petrangol poderá recorrer a financiamentos internos ou externos, designadamente sob a forma de contratos de empréstimo ou de emissão de obrigações, ficando as respectivas operações sujeitas à prévia aprovação do Ministro do Ultramar, sem prejuízo de outros requisitos exigidos pela legislação em vigor.
 
-###### Art. 15.º - 1. A Petrangol deverá manter a sede e a administração em território nacional.
+Art. 15.º - 1. A Petrangol deverá manter a sede e a administração em território nacional.
 
 2. Consoante a sede ou administração sejam estabelecidas na metrópole ou na província de Angola, a Petrangol manterá, respectivamente, na província de Angola ou na metrópole uma delegação gerida por representante munido dos necessários poderes.
 
-###### Art. 16.º - 1. O conselho de administração será constituído, no máximo, por oito administradores, sendo dois nomeados pelo Estado e os restantes eleitos pelos accionistas, nos termos da lei e dos estatutos.
+Art. 16.º - 1. O conselho de administração será constituído, no máximo, por oito administradores, sendo dois nomeados pelo Estado e os restantes eleitos pelos accionistas, nos termos da lei e dos estatutos.
 
 2. O presidente do conselho de administração e o administrador-delegado serão escolhidos pelo conselho de administração e terão a nacionalidade portuguesa, originária ou adquirida há mais de dez anos.
 
@@ -196,7 +232,7 @@ c) Se verifique, relativamente a esse jazigo, falta de apresentação do plano d
 
 4. Independentemente das funções especiais que lhes cabem por lei, os administradores designados pelo Governo terão os mesmos direitos e obrigações que os administradores eleitos pela sociedade.
 
-###### Art. 17.º - 1. Compete ao conselho de administração a definição da política geral da empresa e a sua gestão.
+Art. 17.º - 1. Compete ao conselho de administração a definição da política geral da empresa e a sua gestão.
 
 2. Além de outras matérias que os estatutos discriminem, será da exclusiva competência do conselho de administração:
 
@@ -216,17 +252,17 @@ g) Propor o plano de distribuição de lucros;
 
 h) Propor o abandono das concessões.
 
-###### Art. 18.º - 1. Será constituída uma comissão executiva, formada pelo presidente, pelo vice-presidente do conselho de administração designado pelo Estado e por um administrador-delegado.
+Art. 18.º - 1. Será constituída uma comissão executiva, formada pelo presidente, pelo vice-presidente do conselho de administração designado pelo Estado e por um administrador-delegado.
 
 2. A comissão executiva terá a seu cargo a função coordenadora de toda a actividade da empresa e a direcção da sua orgânica interna, cabendo ao administrador-delegado decidir os assuntos de expediente e despacho corrente, observando a orientação geral definida pela comissão executiva.
 
-###### Art. 19.º - 1. O conselho fiscal será composto por cinco membros, devendo a maioria ser de nacionalidade portuguesa, originária ou adquirida há mais de dez anos.
+Art. 19.º - 1. O conselho fiscal será composto por cinco membros, devendo a maioria ser de nacionalidade portuguesa, originária ou adquirida há mais de dez anos.
 
 2. Pertence ao Governo o direito de designar o presidente do conselho fiscal.
 
-###### Art. 20.º Sem prejuízo dos poderes da assembleia geral, caberá a um conselho geral, constituído pelo conjunto dos membros dos conselhos de administração e fiscal, sob a presidência do presidente da assembleia geral, confirmar as decisões do conselho de administração relativas às matérias referidas nas alíneas c), d), e) e h) do n.º 2 do artigo 17.º
+Art. 20.º Sem prejuízo dos poderes da assembleia geral, caberá a um conselho geral, constituído pelo conjunto dos membros dos conselhos de administração e fiscal, sob a presidência do presidente da assembleia geral, confirmar as decisões do conselho de administração relativas às matérias referidas nas alíneas c), d), e) e h) do n.º 2 do artigo 17.º
 
-###### Art. 21.º - 1. Para estudar e dar parecer sobre todos os problemas relativos a preços, custos e outros valores sobre os quais seja consultada pelo Governo ou pelo conselho de administração da sociedade, funcionará, com carácter permanente, uma comissão especial, constituída pela comissão executiva referida no artigo 18.º, pelo presidente do conselho fiscal e pelo comissário do Governo, sob a presidência do presidente da assembleia geral.
+Art. 21.º - 1. Para estudar e dar parecer sobre todos os problemas relativos a preços, custos e outros valores sobre os quais seja consultada pelo Governo ou pelo conselho de administração da sociedade, funcionará, com carácter permanente, uma comissão especial, constituída pela comissão executiva referida no artigo 18.º, pelo presidente do conselho fiscal e pelo comissário do Governo, sob a presidência do presidente da assembleia geral.
 
 2. No caso de empate na votação de deliberações da comissão especial relativa aos pareceres solicitados, competirá ao Ministro do Ultramar examinar os pareceres divergentes e decidir em tempo útil.
 
@@ -246,9 +282,9 @@ b) Exercer as atribuições, em matéria de fixação de preços das ramas e dos
 
 ### CAPÍTULO III — Das actividades mineiras
 
-###### Art. 22.º As actividades de prospecção, pesquisa, desenvolvimento e exploração serão exercidas por conta e risco da Petrangol, sem prejuízo do que fica estabelecido no capítulo X em matéria de associação com outras entidades.
+Art. 22.º As actividades de prospecção, pesquisa, desenvolvimento e exploração serão exercidas por conta e risco da Petrangol, sem prejuízo do que fica estabelecido no capítulo X em matéria de associação com outras entidades.
 
-###### Art. 23.º - 1. Para os efeitos deste decreto, considera-se que:
+Art. 23.º - 1. Para os efeitos deste decreto, considera-se que:
 
 a) Prospecção de uma área é o conjunto de trabalhos e operações tendentes à determinação, nessa área, de estruturas favoráveis à acumulação de hidrocarbonetos, neles se incluindo os trabalhos de cartografia, geologia, prospecção geofísica, prospecção geoquímica e sondagens geológicas;
 
@@ -262,7 +298,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 3. Para cada estrutura os trabalhas de desenvolvimento terminam com a aprovação, pelo Governo, do plano de exploração do respectivo jazigo e correspondente demarcação definitiva, salvo quando, na defesa de interesses gerais a acautelar, o Ministro do Ultramar autorize expressamente a exploração antes de completado o plano de desenvolvimento, sendo tido em canta o disposto no n.º 6 do artigo 26.º
 
-###### Art. 24.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento ou exploração poderá, salvo por motivos de segurança, ser executado sem que tenha sido objecto de um plano de trabalhos aprovado pelo Governo.
+Art. 24.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento ou exploração poderá, salvo por motivos de segurança, ser executado sem que tenha sido objecto de um plano de trabalhos aprovado pelo Governo.
 
 2. Considera-se tàcitamente aprovado qualquer plano de trabalhos sempre que, decorridos 30 dias após a data da sua apresentação na instância competente, não tenha sido comunicada à Petrangol qualquer decisão.
 
@@ -274,7 +310,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 6. Os planos de trabalhos, que serão entregues, em triplicado, na Direcção dos Serviços de Geologia e Minas da província de Angola, devem ser pormenorizados, elucidativos e fundamentados.
 
-###### Art. 25.º - 1. Os trabalhos de prospecção e pesquisa serão, em cada ano, objecto de um plano de trabalhos, que deverá ser apresentado à aprovação do Governo 60 dias antes de terminar o período de validade do plano anteriormente aprovado.
+Art. 25.º - 1. Os trabalhos de prospecção e pesquisa serão, em cada ano, objecto de um plano de trabalhos, que deverá ser apresentado à aprovação do Governo 60 dias antes de terminar o período de validade do plano anteriormente aprovado.
 
 2. O primeiro plano de trabalhos de prospecção e pesquisa deverá ser apresentado até 90 dias depois da assinatura do novo contrato de concessão e vigorará, depois de aprovado, até 31 de Dezembro de 1966.
 
@@ -288,7 +324,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 7. Na eventual prorrogação do período previsto no n.º 1 do artigo 4.º, o Governo indicará quais as obrigações mínimas para os efeitos do n.º 5 deste artigo, de acordo com a situação em que se encontrem os trabalhos e proporcionalmente às áreas conservadas.
 
-###### Art. 26.º - 1. Sempre que na pesquisa de uma estrutura se verifique o aparecimento do primeiro poço produtivo, a Petrangol submeterá o plano de trabalhos de desenvolvimento dessa estrutura à aprovação do Governo nos 90 dias seguintes à conclusão desse poço.
+Art. 26.º - 1. Sempre que na pesquisa de uma estrutura se verifique o aparecimento do primeiro poço produtivo, a Petrangol submeterá o plano de trabalhos de desenvolvimento dessa estrutura à aprovação do Governo nos 90 dias seguintes à conclusão desse poço.
 
 2. O plano de trabalhos, que constará de uma memória descritiva e justificativa e das peças desenhadas necessárias à perfeita compreensão dos trabalhos projectados, será acompanhado de um relatório de fim de sondagem do poço referido no número anterior, bem como de uma planta da demarcação provisória.
 
@@ -300,7 +336,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 6. As substâncias úteis produzidas durante a fase de desenvolvimento de qualquer jazigo são, para todos os efeitos deste decreto, consideradas nos mesmos termos das produzidas na fase de exploração.
 
-###### Art. 27.º - 1. Logo que os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo econòmicamente explorável, deverá ser feita a respectiva comunicação ao Governo.
+Art. 27.º - 1. Logo que os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo econòmicamente explorável, deverá ser feita a respectiva comunicação ao Governo.
 
 2. A Petrangol deverá submeter à aprovação do Governo, no prazo de 90 dias, a contar da data da comunicação referida no número anterior, o plano de trabalhos de exploração desse jazigo, requerendo, simultâneamente, a respectiva demarcação definitiva.
 
@@ -318,29 +354,29 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 9. Relativamente a cada jazigo que estiver em exploração, a Petrangol submeterá anualmente à aprovação do Governo, até 30 de Novembro, o respectivo plano de exploração para o ano imediato, do qual constarão, designadamente, o programa de produção previsto, a modificação eventual de instalações e de transporte de produtos.
 
-###### Art. 28.º Os limites das áreas em que forem realizados trabalhos de prospecção, pesquisa, desenvolvimento ou exploração submarinos serão assinalados pela Petrangol, com balizas ou outras marcas aprovadas pelo Governo, logo que para tal tenha sido notificada.
+Art. 28.º Os limites das áreas em que forem realizados trabalhos de prospecção, pesquisa, desenvolvimento ou exploração submarinos serão assinalados pela Petrangol, com balizas ou outras marcas aprovadas pelo Governo, logo que para tal tenha sido notificada.
 
-###### Art. 29.º O Governo poderá também impor à Petrangol, se o julgar conveniente, a obrigação de iluminar, entre a ocaso e o nascer do Sol, todas ou algumas das balizas ou marcas a que se refere o artigo anterior, bem como os limites exteriores das pontes, torres e quaisquer outras das suas instalações.
+Art. 29.º O Governo poderá também impor à Petrangol, se o julgar conveniente, a obrigação de iluminar, entre a ocaso e o nascer do Sol, todas ou algumas das balizas ou marcas a que se refere o artigo anterior, bem como os limites exteriores das pontes, torres e quaisquer outras das suas instalações.
 
-###### Art. 30.º - 1. A Petrangol deverá promover as medidas apropriadas, de acordo com as indicações das autoridades competentes e de harmonia com a mais actualizada técnica, para evitar que dos seus trabalhos de prospecção, pesquisa, desenvolvimento e exploração, bem como das respectivas oficinas, possa resultar a contaminação das águas públicas, a poluição atmosférica ou quaisquer prejuízos para pessoas, animais e plantas.
+Art. 30.º - 1. A Petrangol deverá promover as medidas apropriadas, de acordo com as indicações das autoridades competentes e de harmonia com a mais actualizada técnica, para evitar que dos seus trabalhos de prospecção, pesquisa, desenvolvimento e exploração, bem como das respectivas oficinas, possa resultar a contaminação das águas públicas, a poluição atmosférica ou quaisquer prejuízos para pessoas, animais e plantas.
 
 2. O preceituado no número anterior aplica-se igualmente à actividade refinadora da Petrangol.
 
 ### CAPÍTULO IV — Dos investimentos obrigatórios
 
-###### Art. 31.º - 1. Durante o período referido no n.º 1 do artigo 4.º, a Petrangol ficará obrigada a investir na execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento, aprovados pelo Governo, a importância média anual de 150000 contos, sendo, em princípio, 100000 contos para a área do Cuanza e 50000 contos para a área do Congo.
+Art. 31.º - 1. Durante o período referido no n.º 1 do artigo 4.º, a Petrangol ficará obrigada a investir na execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento, aprovados pelo Governo, a importância média anual de 150000 contos, sendo, em princípio, 100000 contos para a área do Cuanza e 50000 contos para a área do Congo.
 
 2. Em cada ano o investimento na execução de trabalhos de prospecção e pesquisa não poderá ser inferior a 75000 contos, destinando-se, em princípio, 50000 contos para a área do Cuanza e 25000 contos para a área do Congo.
 
 3. Se, em qualquer ano, os trabalhos de desenvolvimento a efectuar corresponderem a um investimento superior à diferença entre o mínimo de 75000 contos fixado no número anterior e os 150000 contos previstos no n.º 1 deste artigo, a Petrangol obriga-se a investir também o montante necessário para completar o financiamento desses trabalhos.
 
-###### Art. 32.º A partir do momento da instituição das associações em participação previstas no capítulo X, os investimentos referidos a cargo da Petrangol, destinados à execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento, serão representados em médias anuais por:
+Art. 32.º A partir do momento da instituição das associações em participação previstas no capítulo X, os investimentos referidos a cargo da Petrangol, destinados à execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento, serão representados em médias anuais por:
 
 a) Na área do Cuanza - 60000 contos em novas despesas efectivas e 40000 contos por conta da valorização dos trabalhos já realizados, em conformidade com os princípios definidos no artigo 69.º;
 
 b) Na área do Congo - 44000 contos em novas despesas efectivadas e 6000 contos por conta da valorização dos trabalhos já realizados e avaliados num total de 30000 contos.
 
-###### Art. 33.º Só se consideram como investimentos para os efeitos dos artigos anteriores as seguintes despesas com as respectivas actividades:
+Art. 33.º Só se consideram como investimentos para os efeitos dos artigos anteriores as seguintes despesas com as respectivas actividades:
 
 a) Vencimentos, honorários, salários, transportes e quaisquer remunerações a pessoal, bem como os serviços de terceiros, pagos na província;
 
@@ -350,9 +386,9 @@ c) Despesas com todos os materiais e equipamentos que, temporária ou definitiva
 
 d) Pagamentos, até um montante anual não superior a 2500 contos, das despesas indirectas efectuadas.
 
-###### Art. 34.º No caso de a Petrangol, em qualquer dos anos do período estabelecido no n.º 1 do artigo 4.º, despender, em trabalhos de prospecção, pesquisa e desenvolvimento, um montante superior à importância que resultar das obrigações de investimento médio estabelecidas nos artigos 31.º e 32.º, o saldo excedente será deduzido da importância média a despender no ano ou anos seguintes.
+Art. 34.º No caso de a Petrangol, em qualquer dos anos do período estabelecido no n.º 1 do artigo 4.º, despender, em trabalhos de prospecção, pesquisa e desenvolvimento, um montante superior à importância que resultar das obrigações de investimento médio estabelecidas nos artigos 31.º e 32.º, o saldo excedente será deduzido da importância média a despender no ano ou anos seguintes.
 
-###### Art. 35.º - 1. No caso de em qualquer dos anos do período estabelecido no n.º 1 do artigo 4.º a Petrangol não tiver despendido as quantias mínimas referidas no n.º 2 do artigo 31.º, fica obrigada a pagar à província de Angola, no prazo de seis meses após o termo do ano em que a falta se verificou, uma quantia igual à soma não despendida, calculada em relação aos mesmos mínimos.
+Art. 35.º - 1. No caso de em qualquer dos anos do período estabelecido no n.º 1 do artigo 4.º a Petrangol não tiver despendido as quantias mínimas referidas no n.º 2 do artigo 31.º, fica obrigada a pagar à província de Angola, no prazo de seis meses após o termo do ano em que a falta se verificou, uma quantia igual à soma não despendida, calculada em relação aos mesmos mínimos.
 
 2. A partir do segundo ano do referido período, e tendo também em conta as importâncias eventualmente em falta relativas ao investimento do primeiro ano, a Petrangol depositará no Banco de Angola, no prazo de três meses após o termo de qualquer ano em que o investimento nos trabalhos de prospecção, pesquisa e desenvolvimento não tenha atingido as importâncias médias estabelecidas nos artigos 31.º e 32.º e sem prejuízo do disposto no n.º 2 do Artigo seguinte, a diferença entre o investimento efectuado e as referidas importâncias médias.
 
@@ -360,27 +396,27 @@ d) Pagamentos, até um montante anual não superior a 2500 contos, das despesas 
 
 4. Do saldo que a conta considerada no número anterior apresentar em 31 de Dezembro de 1970, 50 por cento reverterão para a província de Angola a título de indemnização, independentemente de outras cominações previstas no presente decreto.
 
-###### Art. 36.º - 1. As obrigações de investimento mínimo estabelecidas nos artigos anteriores poderão cessar ou diminuir, conforme resolução do Governo, a partir do momento em que o mesmo considere provada a existência de reservas econòmicamente recuperáveis no montante de 75 milhões de toneladas e na medida em que, tendo em conta a produção anual efectiva, aquelas reservas mínimas sejam mantidas.
+Art. 36.º - 1. As obrigações de investimento mínimo estabelecidas nos artigos anteriores poderão cessar ou diminuir, conforme resolução do Governo, a partir do momento em que o mesmo considere provada a existência de reservas econòmicamente recuperáveis no montante de 75 milhões de toneladas e na medida em que, tendo em conta a produção anual efectiva, aquelas reservas mínimas sejam mantidas.
 
 2. O Governo poderá também autorizar planos de trabalhos com investimentos inferiores desde que considere provada a inviabilidade técnica da realização dos investimentos mínimos obrigatòriamente fixados.
 
 3. Não poderão, porém, em qualquer caso, ser autorizados investimentos anuais em prospecção e pesquisas que se traduzam em despesas, a cargo da Petrangol, em princípio, inferiores a 50000 contos anuais, no Cuanza, e 25000 contos, no Congo.
 
-###### Art. 37.º Para o segundo período de cinco anos, previsto no n.º 2 do artigo 4.º, as obrigações de investimento mínimo mantidas nas condições dos artigos anteriores e na proporção das áreas conservadas.
+Art. 37.º Para o segundo período de cinco anos, previsto no n.º 2 do artigo 4.º, as obrigações de investimento mínimo mantidas nas condições dos artigos anteriores e na proporção das áreas conservadas.
 
 ### CAPÍTULO V — Da actividade refinadora
 
-###### Art. 38.º - 1. O Governo poderá determinar à Petrangol o aumento da capacidade da sua actual refinaria ou a instalação de novas unidades, quando a capacidade de refinação se mostrar insuficiente para a satisfação das necessidades económicas e militares da província de Angola, facilitando, se necessário, a obtenção dos meios de financiamento indispensáveis.
+Art. 38.º - 1. O Governo poderá determinar à Petrangol o aumento da capacidade da sua actual refinaria ou a instalação de novas unidades, quando a capacidade de refinação se mostrar insuficiente para a satisfação das necessidades económicas e militares da província de Angola, facilitando, se necessário, a obtenção dos meios de financiamento indispensáveis.
 
 2. Em qualquer caso, o desenvolvimento da refinaria efectuar-se-á de modo que esta venha a adaptar-se à produção das matérias-primas necessárias às indústrias complementares instaladas, ou a instalar, na província.
 
 3. As condições de fornecimento das matérias-primas referidas no número anterior serão estabelecidas pelo Governo, de modo a permitirem o desenvolvimento de novas indústrias, sem prejuízo das condições de rentabilidade da refinaria.
 
-###### Art. 39.º - 1. A Petrangol utilizará na construção das suas unidades fabris os serviços das indústrias nacionais construtoras de equipamentos, na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas, a preços adequados e dentro dos prazos necessários ao cumprimento dos programas de construção.
+Art. 39.º - 1. A Petrangol utilizará na construção das suas unidades fabris os serviços das indústrias nacionais construtoras de equipamentos, na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas, a preços adequados e dentro dos prazos necessários ao cumprimento dos programas de construção.
 
 2. A Petrangol utilizará no transporte do equipamento que tiver de ser importado, e nas condições referidas no número anterior, a capacidade disponível dos envios de transporte nacionais.
 
-###### Art. 40.º - 1. Os preços de custo dos produtos refinados obtidos na refinaria de Luanda e devidos à Petrangol serão fixados para cada produto de harmonia com o somatório dos seguintes elementos:
+Art. 40.º - 1. Os preços de custo dos produtos refinados obtidos na refinaria de Luanda e devidos à Petrangol serão fixados para cada produto de harmonia com o somatório dos seguintes elementos:
 
 a) Custo unitário das ramas utilizadas na refinaria;
 
@@ -406,15 +442,15 @@ b) a base da média dos preços «afixados» F. O. B. Atlântico (actualmente Ve
 
 6. O preço de qualquer produto refinado não poderá exceder em qualquer caso o preço pago pelas companhias distribuidoras, calculado de harmonia com as normas actualmente vigentes em Angola, salvo se o Governo reconhecer, em face de circunstâncias excepcionais, que se justifica solução diversa.
 
-###### Art. 41.º A diferença entre o preço de custo, calculado de harmonia com as regras constantes do artigo anterior e os preços de venda à distribuição, constituirá um diferencial destinado à província de Angola.
+Art. 41.º A diferença entre o preço de custo, calculado de harmonia com as regras constantes do artigo anterior e os preços de venda à distribuição, constituirá um diferencial destinado à província de Angola.
 
-###### Art. 42.º - 1. Os critérios de fixação dos preços de venda à saída da refinaria serão revistos de cinco em cinco anos, se o Governo o entender justificado por condições especiais do mercado internacional que afectem, em prejuízo dos interesses da província de Angola, a conveniência dos mesmos critérios.
+Art. 42.º - 1. Os critérios de fixação dos preços de venda à saída da refinaria serão revistos de cinco em cinco anos, se o Governo o entender justificado por condições especiais do mercado internacional que afectem, em prejuízo dos interesses da província de Angola, a conveniência dos mesmos critérios.
 
 2. A comissão especial referida no artigo 21.º proporá à aprovação do Governo e por solicitação deste os novos critérios de fixação de preços.
 
 3. A revisão de preços prevista neste artigo não poderá ser feita em condições que afectem o equilíbrio económico da concessão da Petrangol e da sua refinaria.
 
-###### Art. 43.º - 1. Só será autorizada a importação de ramas se estiver assegurada a colocação do petróleo bruto extraído em qualquer território nacional.
+Art. 43.º - 1. Só será autorizada a importação de ramas se estiver assegurada a colocação do petróleo bruto extraído em qualquer território nacional.
 
 2. A Petrangol deverá informar o Governo, com a necessária antecedência, acerca das quantidades e qualidades das ramas que pretenda importar, bem como dos respectivos preços.
 
@@ -422,7 +458,7 @@ b) a base da média dos preços «afixados» F. O. B. Atlântico (actualmente Ve
 
 ### CAPÍTULO VI — Da participação do Estado nos resultados da exploração e da distribuição de lucro
 
-###### Art. 44.º - 1. A Petrangol pagará ao Estado, em relação a todos os produtos extraídos na área da sua concessão, quer provenientes dos jazigos a que se refere o artigo 66.º, considerados na fase de exploração, quer resultantes dos que vierem a ser descobertos e integrados ou não no regime de associação em participação, uma taxa de produção, a qual será estabelecida de harmonia com as regras seguintes e liquidada em moeda ou espécie à escolha do Governo.
+Art. 44.º - 1. A Petrangol pagará ao Estado, em relação a todos os produtos extraídos na área da sua concessão, quer provenientes dos jazigos a que se refere o artigo 66.º, considerados na fase de exploração, quer resultantes dos que vierem a ser descobertos e integrados ou não no regime de associação em participação, uma taxa de produção, a qual será estabelecida de harmonia com as regras seguintes e liquidada em moeda ou espécie à escolha do Governo.
 
 2. A taxa de produção será igualmente paga em relação aos produtos extraídos nos trabalhos de pesquisa e desenvolvimento e será regulada pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no presente diploma.
 
@@ -430,7 +466,7 @@ b) a base da média dos preços «afixados» F. O. B. Atlântico (actualmente Ve
 
 4. Cabe ao Estado estabelecer equitativamente as taxas de produção devidas pelas outras empresas associadas nas actividades de prospecção, pesquisa, desenvolvimento e exploração, as quais não poderão ser inferiores às aplicáveis à Petrangol.
 
-###### Art. 45.º - 1. A taxa de produção será fixada em 12,5 por cento e incidirá sobre os seguintes valores à boca do poço de todo o petróleo bruto extraído pela Petrangol, sem prejuízo do estabelecido no artigo anterior:
+Art. 45.º - 1. A taxa de produção será fixada em 12,5 por cento e incidirá sobre os seguintes valores à boca do poço de todo o petróleo bruto extraído pela Petrangol, sem prejuízo do estabelecido no artigo anterior:
 
 a) Valor fixado para o petróleo bruto destinado à refinaria de Luanda;
 
@@ -448,7 +484,7 @@ c) Preço da realização nas exportações para outros destinos.
 
 6. Porém, se o Governo considerar que os preços praticados são inferiores aos que poderiam ser obtidos no mercado, poderá pedir o pagamento, em espécie da taxa de produção apenas na parte correspondente às ramas exportadas para os mercados referidos na alínea c) do n.º 1.
 
-###### Art. 46.º - 1. A Petrangol ficará sujeita ao imposto de rendimento de 50 por cento dos lucros, nos termos do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, deduzindo-se do imposto a pagar o montante da taxa de produção, de harmonia com o disposto naquele decreto.
+Art. 46.º - 1. A Petrangol ficará sujeita ao imposto de rendimento de 50 por cento dos lucros, nos termos do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, deduzindo-se do imposto a pagar o montante da taxa de produção, de harmonia com o disposto naquele decreto.
 
 2. Para efeitos do imposto de rendimento a pagar à província de Angola, os lucros líquidos, sempre independentes de quaisquer amortizações financeiras, serão apurados, nos termos previstos nos artigos 4.º e 5.º do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), com as seguintes modificações:
 
@@ -480,13 +516,13 @@ b) Os valores que no activo representarem a contrapartida das acções entregues
 
 3. Os valores referidos na alínea a) do n.º 5 do artigo 69.º e na alínea b) do n.º 2 do artigo 71.º só começarão a ser amortizados a partir das datas em que forem considerados como investimentos segundo as regras do mesmo artigo.
 
-###### Art. 47.º - 1. A Petrangol não pagará dividendos às acções detidas pela província de Angola, considerando-se esta remunerada pelo imposto acima referido. No entanto, a província receberá quaisquer outras importâncias que sejam eventualmente atribuídas às acções, designadamente bónus ou prémios de amortização.
+Art. 47.º - 1. A Petrangol não pagará dividendos às acções detidas pela província de Angola, considerando-se esta remunerada pelo imposto acima referido. No entanto, a província receberá quaisquer outras importâncias que sejam eventualmente atribuídas às acções, designadamente bónus ou prémios de amortização.
 
 2. É extinta a participação especial do Estado prevista no n.º 1, c), da alínea f) do artigo 2.º do [Decreto n.º 40416](https://diariodarepublica.pt/dr/detalhe/decreto/40416-1955-246870), de 3 de Dezembro de 1955.
 
 3. No caso de dissolução da Petrangol, as acções entregues à província participarão no activo da sociedade, na proporção das amortizações efectuadas sobre o seu valor nominal.
 
-###### Art. 48.º - 1. A Petrangol adoptará as regras sobre escrituração mercantil estabelecidas nos artigos 7.º a 12.º do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269).
+Art. 48.º - 1. A Petrangol adoptará as regras sobre escrituração mercantil estabelecidas nos artigos 7.º a 12.º do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269).
 
 2. A Petrangol subordinar-se-á às regras gerais sobre contabilidade que vierem a ser estabelecidas em Angola para as empresas concessionárias em geral.
 
@@ -496,7 +532,7 @@ b) Os valores que no activo representarem a contrapartida das acções entregues
 
 5. De igual modo, as receitas provenientes de quaisquer operações petrolíferas realizadas na área da concessão da Petrangol deverão ser totalmente levadas à conta de resultados da Petrangol, não podendo ser deduzida qualquer parcela a título de reembolso de dívidas e quaisquer que sejam os contratos a este respeito estabelecidos com os credores.
 
-###### Art. 49.º - 1. Salvo o que eventualmente possa ser acordado sobre justa retribuição devida por serviços prestados, se for caso disso, nos termos de contratos expressamente autorizados pelo Governo, bem como no caso de remunerações de gerência estabelecidas nos termos da lei e dos estatutos, qualquer sociedade accionista da Petrangol apenas terá direito aos dividendos distribuídos correspondentes às acções que detiver, extinguindo-se designadamente, o direito da sociedade Petrofina à comparticipação especial estipulada no n.º 2, c), da alínea f do artigo 2.º do [Decreto n.º 40416](https://diariodarepublica.pt/dr/detalhe/decreto/40416-1955-246870).
+Art. 49.º - 1. Salvo o que eventualmente possa ser acordado sobre justa retribuição devida por serviços prestados, se for caso disso, nos termos de contratos expressamente autorizados pelo Governo, bem como no caso de remunerações de gerência estabelecidas nos termos da lei e dos estatutos, qualquer sociedade accionista da Petrangol apenas terá direito aos dividendos distribuídos correspondentes às acções que detiver, extinguindo-se designadamente, o direito da sociedade Petrofina à comparticipação especial estipulada no n.º 2, c), da alínea f do artigo 2.º do [Decreto n.º 40416](https://diariodarepublica.pt/dr/detalhe/decreto/40416-1955-246870).
 
 2. Os contratos admitidos por este artigo, quando se refiram a assistência técnica e comercial, obedecerão às normas constantes das alíneas seguintes:
 
@@ -504,7 +540,7 @@ a) As despesas directas de assistência técnica e comercial serão satisfeitas 
 
 b) As despesas de administração correspondentes ou de assistência técnica e comercial indirectas serão liquidadas à forfait, não podendo, porém, exceder 2500 contos anuais.
 
-###### Art. 50.º - 1. Os lucros líquidos apurados em balanço, deduzidos em primeiro lugar os pagamentos ao Estado, e após serem feitas, além das previstas no artigo 46.º, quaisquer outras amortizações ou provisões que a empresa entenda por convenientes, serão distribuídos nos termos e pela ordem seguintes:
+Art. 50.º - 1. Os lucros líquidos apurados em balanço, deduzidos em primeiro lugar os pagamentos ao Estado, e após serem feitas, além das previstas no artigo 46.º, quaisquer outras amortizações ou provisões que a empresa entenda por convenientes, serão distribuídos nos termos e pela ordem seguintes:
 
 a) 5 por cento para o fundo de reserva legal;
 
@@ -520,15 +556,15 @@ e) O restante, para retribuição complementar ao capital accionista e para qual
 
 3. O conselho de administração, ouvido o conselho fiscal, poderá propor ao Ministro do Ultramar, justificando a proposta, a diminuição do limite fixado na alínea c) do n.º 1 deste artigo.
 
-###### Art. 51.º - 1. Sobre os dividendos atribuídos às acções da Petrangol pertencentes a accionistas com sede ou domicílio no estrangeiro não incidirão quaisquer impostos portugueses, com excepção do imposto do selo.
+Art. 51.º - 1. Sobre os dividendos atribuídos às acções da Petrangol pertencentes a accionistas com sede ou domicílio no estrangeiro não incidirão quaisquer impostos portugueses, com excepção do imposto do selo.
 
 2. Os dividendos dos accionistas portugueses estarão sujeitos a tributação nos termos da lei geral.
 
-###### Art. 52.º À Petrangol serão aplicáveis as regras legais que vigorarem para as empresas concessionárias em cujos lucros o Estado participe e que se destinem a assegurar que a participação do Estado não seja diminuída indevidamente por acréscimos injustificados nos custos ou diminuições nas receitas. Essas regras serão aplicáveis equitativamente à Petrangol e sem qualquer discriminação.
+Art. 52.º À Petrangol serão aplicáveis as regras legais que vigorarem para as empresas concessionárias em cujos lucros o Estado participe e que se destinem a assegurar que a participação do Estado não seja diminuída indevidamente por acréscimos injustificados nos custos ou diminuições nas receitas. Essas regras serão aplicáveis equitativamente à Petrangol e sem qualquer discriminação.
 
 ### CAPÍTULO VII — Da fiscalização por parte do Estado
 
-###### Art. 53.º - 1. A Petrangol estará sujeita às regras legais sobre fiscalização das sociedades anónimas vigentes em Portugal, bem como às disposições sobre fiscalização da actividade das empresas concessionárias, designadamente através do comissário do Governo, que exercerá as funções e terá os poderes atribuídos pelas leis em vigor.
+Art. 53.º - 1. A Petrangol estará sujeita às regras legais sobre fiscalização das sociedades anónimas vigentes em Portugal, bem como às disposições sobre fiscalização da actividade das empresas concessionárias, designadamente através do comissário do Governo, que exercerá as funções e terá os poderes atribuídos pelas leis em vigor.
 
 2. À Petrangol serão também aplicáveis as normas legais em vigor sobre fiscalização da actividade das empresas que explorem recursos naturais ou de importância estratégica, geral ou militar.
 
@@ -536,9 +572,9 @@ e) O restante, para retribuição complementar ao capital accionista e para qual
 
 4. A Petrangol facultará ao Governo todos os elementos de informação que aquele considerar necessários para o exercício eficaz da fiscalização técnica e administrativa da sua actividade, os quais serão, quando a sociedade o solicitar, classificados de secretos.
 
-###### Art. 54.º O governador-geral da província de Angola poderá designar um representante especial junto da direcção da Petrangol em Luanda, que poderá tomar conhecimento directo da contabilidade e demais documentos e de quaisquer elementos que repute necessários para a fiscalização de que for incumbido, o qual actuará sempre em estreita ligação com o comissário do Governo e conforme as instruções que lhe forem transmitidas por intermédio do governador-geral.
+Art. 54.º O governador-geral da província de Angola poderá designar um representante especial junto da direcção da Petrangol em Luanda, que poderá tomar conhecimento directo da contabilidade e demais documentos e de quaisquer elementos que repute necessários para a fiscalização de que for incumbido, o qual actuará sempre em estreita ligação com o comissário do Governo e conforme as instruções que lhe forem transmitidas por intermédio do governador-geral.
 
-###### Art. 55.º - 1. A actividade da Petrangol ficará sujeita à fiscalização da Direcção dos Serviços de Geologia e Minas da província de Angola.
+Art. 55.º - 1. A actividade da Petrangol ficará sujeita à fiscalização da Direcção dos Serviços de Geologia e Minas da província de Angola.
 
 2. Para os efeitos do número anterior, deverá a Petrangol designadamente:
 
@@ -554,13 +590,13 @@ c) Facultar a inspecção de todas as instalações e equipamento e de todas as 
 
 ### CAPÍTULO VIII — Da colocação das ramas e produtos refinados
 
-###### Art. 56.º - 1. Sempre que para tal seja solicitado, procurará o Governo, pelos meios ao seu alcance, auxiliar a sociedade na colocação, a preços equitativos, noutros mercados, designadamente nos mercados nacionais, das ramas de produção angolana, bem como dos produtos refinados a partir das mesmas ramas que excedam as necessidades do consumo da província.
+Art. 56.º - 1. Sempre que para tal seja solicitado, procurará o Governo, pelos meios ao seu alcance, auxiliar a sociedade na colocação, a preços equitativos, noutros mercados, designadamente nos mercados nacionais, das ramas de produção angolana, bem como dos produtos refinados a partir das mesmas ramas que excedam as necessidades do consumo da província.
 
 2. Sem prejuízo do disposto no artigo 72.º, caberá às empresas associadas à Petrangol a responsabilidade da colocação das ramas que lhes pertencerem segundo os respectivos contratos de associação.
 
-###### Art. 57.º Sem prejuízo dos direitos contratuais de outras entidades, o Governo providenciará para que não sejam importadas do estrangeiro quaisquer quantidades de ramas em refinarias portuguesas, enquanto não estiver assegurada a colocação integral de ramas extraídas por qualquer empresa em Angola.
+Art. 57.º Sem prejuízo dos direitos contratuais de outras entidades, o Governo providenciará para que não sejam importadas do estrangeiro quaisquer quantidades de ramas em refinarias portuguesas, enquanto não estiver assegurada a colocação integral de ramas extraídas por qualquer empresa em Angola.
 
-###### Art. 58.º - 1. Sem prejuízo do normal abastecimento da refinaria de Luanda, o Estado gozará de preferência absoluta na compra até 50 por cento da produção anual de petróleo bruto e seus produtos, subprodutos, derivados e resíduos.
+Art. 58.º - 1. Sem prejuízo do normal abastecimento da refinaria de Luanda, o Estado gozará de preferência absoluta na compra até 50 por cento da produção anual de petróleo bruto e seus produtos, subprodutos, derivados e resíduos.
 
 2. Os preços de venda ao Estado de produtos em relalação aos quais tenha sido exercido o direito de preferência referido no número anterior serão estabelecidos pela média das cotações praticadas nas exportações para território nacional ou para o estrangeiro no trimestre em que o fornecimento se efectuar.
 
@@ -568,13 +604,13 @@ c) Facultar a inspecção de todas as instalações e equipamento e de todas as 
 
 4. Os fornecimentos serão efectuados à medida das necessidades, mas de maneira que não excedam metade da produção provável em cada trimestre.
 
-###### Art. 59.º Em caso de guerra em que o Estado Português esteja envolvido, toda a produção fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, a sociedade compensada em termos equitativos.
+Art. 59.º Em caso de guerra em que o Estado Português esteja envolvido, toda a produção fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, a sociedade compensada em termos equitativos.
 
-###### Art. 60.º Em igualdade de condições, a Petrangol venderá, de preferência, os produtos não refinados a empresas refinadoras instaladas em território português.
+Art. 60.º Em igualdade de condições, a Petrangol venderá, de preferência, os produtos não refinados a empresas refinadoras instaladas em território português.
 
 ### CAPÍTULO IX — Das isenções e facilidades concedidas
 
-###### Art. 61.º - 1. Salvo o disposto nos capítulos V e VI deste diploma, sobre a Petrangol não incidirão quaisquer outros impostos, contribuições ou taxas, seja qual for o seu título ou natureza, nacionais, provinciais ou locais.
+Art. 61.º - 1. Salvo o disposto nos capítulos V e VI deste diploma, sobre a Petrangol não incidirão quaisquer outros impostos, contribuições ou taxas, seja qual for o seu título ou natureza, nacionais, provinciais ou locais.
 
 2. A importação de máquinas, aparelhos, instrumentos, ferramentas, veículos, incluindo os de tracção mecânica e os aviões, e quaisquer outros artigos destinados exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos, apetrechamento de campos de minas, equipamento de refinarias, incluindo condutas, fica apenas sujeita ao regime especial de pagamento do imposto estatístico de 1 por mil ad valorem e ao imposto do selo do despacho, quando a importação seja efectuada pela Petrangol ou por entidade com que ela tenha contratado exclusivamente a execução dos trabalhos em que as mercadorias despachadas tenham aplicação.
 
@@ -588,13 +624,13 @@ c) Facultar a inspecção de todas as instalações e equipamento e de todas as 
 
 7. O governador-geral de Angola pode condicionar a aplicação do regime especial estabelecido no n.º 1 deste artigo a prévio parecer dos serviços das alfândegas, ouvidos os serviços de geologia e minas.
 
-###### Art. 62.º - 1. A Petrangol utilizará, de preferência, os serviços das indústrias nacionais construtoras de equipamentos na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas a preços adequados e dentro dos prazos necessários ao cumprimento dos planos fixados.
+Art. 62.º - 1. A Petrangol utilizará, de preferência, os serviços das indústrias nacionais construtoras de equipamentos na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas a preços adequados e dentro dos prazos necessários ao cumprimento dos planos fixados.
 
 2. A sociedade utilizará no transporte do equipamento que tiver de ser importado e nas condições referidas no número anterior a capacidade disponível dos meios de transporte nacionais.
 
 3. Nas aquisições que tenham de ser feitas no estrangeiro a Petrangol acatará, respeitadas as condições mencionadas no n.º 1, as orientações de política comercial que lhe forem transmitidas pelo comissário do Governo, sem o que não beneficiará das isenções aduaneiras consignadas no artigo anterior.
 
-###### Art. 63.º - 1. O Governo facilitará o livre, eficaz e completo exercício da actividade da Petrangol e nomeadamente:
+Art. 63.º - 1. O Governo facilitará o livre, eficaz e completo exercício da actividade da Petrangol e nomeadamente:
 
 a) Permitirá o uso, exclusivamente para fins mineiros ou auxiliares destes, dos terrenos públicos existentes nas áreas da concessão e procederá, nos termos e para os fins previstos no Decreto de 20 de Setembro de 1906, às expropriações por utilidade pública que se mostrem indispensáveis;
 
@@ -610,17 +646,17 @@ e) Autorizará, nos termos regulamentares, o trânsito por territórios e vias d
 
 ### CAPÍTULO X — Da associação de outras entidades nas actividades de prospecção, pesquisa, desenvolvimento e exploração nas áreas concedidas
 
-###### Art. 64.º - 1. A Petrangol obriga-se a associar, nas actividades de prospecção, pesquisa, desenvolvimento e exploração, em todas as zonas abrangidas na área da sua concessão, exceptuados os jazigos referidos o n.º 1 do artigo 66.º, a empresa ou as empresas que, por acordo entre ela e o Governo, for resolvido designar.
+Art. 64.º - 1. A Petrangol obriga-se a associar, nas actividades de prospecção, pesquisa, desenvolvimento e exploração, em todas as zonas abrangidas na área da sua concessão, exceptuados os jazigos referidos o n.º 1 do artigo 66.º, a empresa ou as empresas que, por acordo entre ela e o Governo, for resolvido designar.
 
 2. Até à constituição da associação assim prevista mantém-se o regime de exercício de actividades definido neste decreto a cargo exclusivo da Petrangol.
 
-###### Art. 65.º - 1. Fica desde já acordado que, em relação a todas as zonais da área da concessão correspondentes à chamada bacia do Cuanza, incluindo as áreas marítimas, a Petrangol se obriga a associar alguma, algumas ou todas as empresas indicadas na convenção anexa a este decreto, individualmente ou agrupadas em sociedade, conforme o que for indicado pelo Governo.
+Art. 65.º - 1. Fica desde já acordado que, em relação a todas as zonais da área da concessão correspondentes à chamada bacia do Cuanza, incluindo as áreas marítimas, a Petrangol se obriga a associar alguma, algumas ou todas as empresas indicadas na convenção anexa a este decreto, individualmente ou agrupadas em sociedade, conforme o que for indicado pelo Governo.
 
 2. A Petrangol celebrará com as referidas empresas ou com a sociedade por elas constituída o contrato previsto no artigo 68.º, no prazo de 30 dias, a contar da data em que, para tal, for notificada pelo Governo.
 
 3. Decorridos dezoito meses após a assinatura do novo contrato de concessão sem que se tenha verificado a notificação a que se refere o número anterior, a Petrangol ficará desobrigada da associação com outras entidades, a que se refere este capítulo, conservando todos os seus direitos nos termos deste diploma.
 
-###### Art. 66.º - 1. Ficam excluídos da obrigação mencionada no artigo anterior os jazigos de hidrocarbonetos de Benfica, Luanda, Cacuaco, Galinda, Tobias e Puaça, bem como quaisquer outros que se encontrem em exploração à data da assinatura do contrato de associação.
+Art. 66.º - 1. Ficam excluídos da obrigação mencionada no artigo anterior os jazigos de hidrocarbonetos de Benfica, Luanda, Cacuaco, Galinda, Tobias e Puaça, bem como quaisquer outros que se encontrem em exploração à data da assinatura do contrato de associação.
 
 2. Ficarão também excluídos da referida obrigação os jazigos que entrarem em exploração até um ano após a data da assinatura do contrato de associação desde que, em relação às respectivas estruturas, se verifiquem as condições indicadas nas alíneas seguintes:
 
@@ -638,15 +674,15 @@ d) Terem sido desenvolvidas, segundo o plano de trabalhos de desenvolvimento apr
 
 5. As demarcações provisórias dos jazigos eventualmente descobertos, considerados nos n.os 1 e 2, deverão ser indicadas pela Petrangol juntamente com os respectivos planos de trabalhos de desenvolvimento.
 
-###### Art. 67.º - 1. A associação será feita em regime de participação ou de associação não societária de interesses.
+Art. 67.º - 1. A associação será feita em regime de participação ou de associação não societária de interesses.
 
 2. Fica obrigatòriamente estabelecido que cada uma das duas partes associadas terá uma participação inicial de 50 por cento nas actividades respectivas.
 
 3. Sempre que as circunstâncias o aconselharem, a Petrangol, mediante autorização do Governo e nos termos do contrato de associação, poderá aceitar das restantes associadas ou ceder-lhes uma parcela da sua participação, em condições de prazo e de percentagem a acordar.
 
-###### Art. 68.º O regime a que obedecerá a associação será regulado pelo texto do contrato constante da convenção anexa a este decreto, o qual fará parte integrante do novo contrato de concessão.
+Art. 68.º O regime a que obedecerá a associação será regulado pelo texto do contrato constante da convenção anexa a este decreto, o qual fará parte integrante do novo contrato de concessão.
 
-###### Art. 69.º - 1. Para o cálculo dos investimentos a efectuar e para efeito de determinação da percentagem que lhe pertence na produção serão valorizados, na sua justa medida, os trabalhos já efectuados pela Petrangol, ou por sua conta, de harmonia com as regras adiante previstas.
+Art. 69.º - 1. Para o cálculo dos investimentos a efectuar e para efeito de determinação da percentagem que lhe pertence na produção serão valorizados, na sua justa medida, os trabalhos já efectuados pela Petrangol, ou por sua conta, de harmonia com as regras adiante previstas.
 
 2. A Petrangol e as empresas com ela associadas de harmonia com o disposto no artigo 65.º deverão, durante o período de cinco anos previsto no n.º 1 do artigo 4.º, realizar, em conjunto, na área do Cuanza, o investimento médio anual de 200000 contos em trabalhos de prospecção, pesquisa e desenvolvimento, nas condições previstas nos n.os 2 e 3 do artigo 31.º e no artigo 32.º
 
@@ -664,13 +700,13 @@ c) Os restantes 250000 contos serão pagos à Petrangol pela afectação priorit
 
 6. A Petrangol e as empresas associadas poderão, decorridos três anos após a assinatura do novo contrato de concessão com o Estado, negociar e acordar regras diferentes das estabelecidas no número anterior, devendo, porém, nesse caso, o acordo ser aprovado pelo Governo.
 
-###### Art. 70.º - 1. A associação será superiormente dirigida e fiscalizada por uma comissão constituída por dois representantes de cada uma das empresas associadas e por um representante do Estado, os quais terão direito de voto nas condições previstas no acordo referido no artigo 68.º
+Art. 70.º - 1. A associação será superiormente dirigida e fiscalizada por uma comissão constituída por dois representantes de cada uma das empresas associadas e por um representante do Estado, os quais terão direito de voto nas condições previstas no acordo referido no artigo 68.º
 
 2. À comissão directiva competirão os poderes de direcção e fiscalização das actividades de prospecção, pesquisa, desenvolvimento e exploração, sem prejuízo da obediência às regras dos contratos de concessão e dos acordos da associação.
 
 3. A direcção técnica e a execução dos trabalhos caberão à Petrangol na qualidade de operador, nos termos previstos nos contratos de associação, sob a autoridade e fiscalização da comissão directiva.
 
-###### Art. 71.º - 1. Em relação às zonas marítima e terrestre da área da concessão correspondentes à chamada bacia do Congo, fica também desde já acordado que a Petrangol se obriga a associar as empresas para tal efeito referidas na convenção anexa a este decreto.
+Art. 71.º - 1. Em relação às zonas marítima e terrestre da área da concessão correspondentes à chamada bacia do Congo, fica também desde já acordado que a Petrangol se obriga a associar as empresas para tal efeito referidas na convenção anexa a este decreto.
 
 2. Aplicam-se a esta associação as regras estabelecidas nos artigos anteriores, relativamente à área do Cuanza, com as modificações constantes das alíneas seguintes:
 
@@ -684,17 +720,17 @@ d) Tem aplicação nos montantes a investir o que se dispõe no artigo 32.º
 
 3. Nesta zona o operador poderá ser, ou não, a Petrangol, conforme o que se estabelecer no respectivo contrato de associação.
 
-###### Art. 72.º - 1. Os produtos obtidos pelas empresas associadas à Petrangol na actividade de exploração serão afectados prioritàriamente ao abastecimento da refinaria de Luanda, se tal se tornar necessário, pela insuficiência da produção própria da Petrangol face ao consumo daquela.
+Art. 72.º - 1. Os produtos obtidos pelas empresas associadas à Petrangol na actividade de exploração serão afectados prioritàriamente ao abastecimento da refinaria de Luanda, se tal se tornar necessário, pela insuficiência da produção própria da Petrangol face ao consumo daquela.
 
 2. Os preços de venda das ramas a fornecer à Petrangol pelas empresas associadas serão fixados de forma idêntica à prevista nos n.os 3 e 4 do artigo 40.º
 
 ### CAPÍTULO XI — Do juízo arbitral e da rescisão da concessão
 
-###### Art. 73.º - 1. As divergências que venham a surgir entre o Estado e a Petrangol sobre a interpretação, integração ou aplicação das disposições legais e contratuais que regulam as relações entre ambos na qualidade de contraentes serão resolvidas em juízo arbitral constituído de harmonia com a legislação portuguesa ao tempo vigente e a funcionar em Lisboa.
+Art. 73.º - 1. As divergências que venham a surgir entre o Estado e a Petrangol sobre a interpretação, integração ou aplicação das disposições legais e contratuais que regulam as relações entre ambos na qualidade de contraentes serão resolvidas em juízo arbitral constituído de harmonia com a legislação portuguesa ao tempo vigente e a funcionar em Lisboa.
 
 2. O juízo arbitral será composto por um árbitro nomeado pelo Ministro do Ultramar, outro nomeado pelo concessionário e um terceiro, com voto de desempate, escolhido por acordo ou, na falta deste, designado pelo presidente do Supremo Tribunal de Justiça.
 
-###### Art. 74.º - 1. O não cumprimento por parte da Petrangol de qualquer das cláusulas do novo contrato ou das disposições legais que o autorizem constituirá fundamento de rescisão da concessão, mediante simples notificação administrativa, desde que decorram seis meses, a partir da data da mesma notificação, sem que a sociedade tenha sanado o desrespeito das obrigações assumidas.
+Art. 74.º - 1. O não cumprimento por parte da Petrangol de qualquer das cláusulas do novo contrato ou das disposições legais que o autorizem constituirá fundamento de rescisão da concessão, mediante simples notificação administrativa, desde que decorram seis meses, a partir da data da mesma notificação, sem que a sociedade tenha sanado o desrespeito das obrigações assumidas.
 
 2. Na hipótese prevista no número anterior e sempre que a Petrangol julgue lesados pelo Governo os seus direitos, poderá recorrer à arbitragem, com efeito suspensivo, nos termos e para os efeitos do disposto no artigo anterior.
 
@@ -708,7 +744,7 @@ c) Se a Petrangol se recusar a celebrar os contratos de associação previstos n
 
 ### CAPÍTULO XII — Da revisão das disposições contratuais
 
-###### Art. 75.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente aplicadas nos principais países produtores, fica desde já entendido que, no final de cinco anos após a assinatura do novo contrato de concessão, pode o Estado exigir a revisão das disposições contratuais.
+Art. 75.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente aplicadas nos principais países produtores, fica desde já entendido que, no final de cinco anos após a assinatura do novo contrato de concessão, pode o Estado exigir a revisão das disposições contratuais.
 
 2. As alterações contratuais resultantes da revisão prevista no número anterior, que serão estabelecidas em função das eventuais variações da produção, só serão aplicáveis quando se reconhecer estar definido, na totalidade das áreas concedidas à Petrangol, um volume de reservas recuperáveis suficiente para garantir, durante cinco anos consecutivos, uma produção anual de 5000000 m3.
 
@@ -716,13 +752,13 @@ c) Se a Petrangol se recusar a celebrar os contratos de associação previstos n
 
 ### CAPÍTULO XIII — Das relações da Petrangol com os seus accionistas
 
-###### Art. 76.º - 1. A Petrangol não poderá celebrar contratos com qualquer dos seus accionistas, directa ou indirectamente representados na seu conselho de administração, sem expressa aprovação do Ministro do Ultramar.
+Art. 76.º - 1. A Petrangol não poderá celebrar contratos com qualquer dos seus accionistas, directa ou indirectamente representados na seu conselho de administração, sem expressa aprovação do Ministro do Ultramar.
 
 2. Na data da outorga do novo contrato de concessão considerar-se-ão revogados todos os contratos celebrados entre a Petrofina e a Petrangol, inclusivamente os resultantes da autorização concedida à Petrangol pelo artigo 4.º e seus parágrafos do [Decreto n.º 40416](https://diariodarepublica.pt/dr/detalhe/decreto/40416-1955-246870).
 
-###### Art. 77.º O Ministro do Ultramar é autorizado a outorgar em representação do Estado num contrato relativo à fixação das dívidas da Petrangol para com a Petrofina e às modalidades do seu reembolso, escalonado, nos termos da convenção já acordada entre o Estado e aquelas sociedades.
+Art. 77.º O Ministro do Ultramar é autorizado a outorgar em representação do Estado num contrato relativo à fixação das dívidas da Petrangol para com a Petrofina e às modalidades do seu reembolso, escalonado, nos termos da convenção já acordada entre o Estado e aquelas sociedades.
 
-###### Art. 78.º - 1. A Petrangol porá à disposição da província de Angola, até um ano após a data da celebração do novo contrato de concessão e logo que o respectivo governador-geral o solicite, sob a forma de um empréstimo com juro à taxa anual de 4 por cento, pagável em duas prestações semestrais, a importância de 250000 contos.
+Art. 78.º - 1. A Petrangol porá à disposição da província de Angola, até um ano após a data da celebração do novo contrato de concessão e logo que o respectivo governador-geral o solicite, sob a forma de um empréstimo com juro à taxa anual de 4 por cento, pagável em duas prestações semestrais, a importância de 250000 contos.
 
 2. O empréstimo referido no número anterior será amortizado em duas anuidades iguais de 80000 contos e uma terceira, que será a última, de 90000 contos, vencendo-se a primeira passados que sejam cinco anos sobre a data da entrega dos fundos mutuados ao Governo da província.
 
@@ -734,19 +770,19 @@ c) Se a Petrangol se recusar a celebrar os contratos de associação previstos n
 
 6. No orçamento da província de Angola serão inscritas as verbas indispensáveis para ocorrer aos encargos deste empréstimo.
 
-###### Art. 79.º A Petrangol porá ainda à disposição da província de Angola, até 30 dias após a data da assinatura do novo contrato de concessão, a importância de 40000 contos, sob a forma de empréstimo sem juros, pelo prazo de dez anos, tendo aplicação a esta operação o disposto no n.º 3 do artigo anterior.
+Art. 79.º A Petrangol porá ainda à disposição da província de Angola, até 30 dias após a data da assinatura do novo contrato de concessão, a importância de 40000 contos, sob a forma de empréstimo sem juros, pelo prazo de dez anos, tendo aplicação a esta operação o disposto no n.º 3 do artigo anterior.
 
-###### Art. 80.º O pagamento dos juros e o reembolso do capital relativos aos empréstimos acima mencionados serão isentos de impostos portugueses.
+Art. 80.º O pagamento dos juros e o reembolso do capital relativos aos empréstimos acima mencionados serão isentos de impostos portugueses.
 
-###### Art. 81.º Serão garantidas as transferências para o estrangeiro das importâncias correspondentes aos reembolsos a efectuar por efeito do disposto no artigo 77.º, bem como as dos dividendos correspondentes às acções da Petrangol subscritas por entidades estrangeiras de harmonia com o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
+Art. 81.º Serão garantidas as transferências para o estrangeiro das importâncias correspondentes aos reembolsos a efectuar por efeito do disposto no artigo 77.º, bem como as dos dividendos correspondentes às acções da Petrangol subscritas por entidades estrangeiras de harmonia com o disposto nos artigos 13.º e 14.º do [Decreto-Lei n.º 46312](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46312-1965-236701), de 28 de Abril de 1965.
 
-###### Art. 82.º A Petrangol deverá entregar, nos termos da legislação em vigor, ao Fundo Cambial de Angola o produto de todas as suas exportações de ramas e de produtos acabados efectuadas para o estrangeiro ou para outros territórios nacionais.
+Art. 82.º A Petrangol deverá entregar, nos termos da legislação em vigor, ao Fundo Cambial de Angola o produto de todas as suas exportações de ramas e de produtos acabados efectuadas para o estrangeiro ou para outros territórios nacionais.
 
-###### Art. 83.º - 1. A Petrangol só poderá conservar na metrópole as disponibilidades necessárias ao funcionamento da administração e dos seus serviços, nos montantes que forem autorizados pelo Ministro do Ultramar, sob proposta da sociedade.
+Art. 83.º - 1. A Petrangol só poderá conservar na metrópole as disponibilidades necessárias ao funcionamento da administração e dos seus serviços, nos montantes que forem autorizados pelo Ministro do Ultramar, sob proposta da sociedade.
 
 2. As disponibilidades actualmente existentes na metrópole, que não entrarem no esquema de reembolso a que se refere o artigo 77.º e que excedam os montantes autorizados, deverão ser entregues ao Fundo Cambial de Angola.
 
-###### Art. 84.º O governador-geral de Angola deve facilitar nos termos do regime cambial em vigor, a concessão das divisas necessárias à actividade da sociedade, designadamente no que se refere à satisfação dos encargos seguintes:
+Art. 84.º O governador-geral de Angola deve facilitar nos termos do regime cambial em vigor, a concessão das divisas necessárias à actividade da sociedade, designadamente no que se refere à satisfação dos encargos seguintes:
 
 a) Compra no exterior da província de material e equipamento a empregar na actividade da sociedade;
 
@@ -760,37 +796,37 @@ e) Pagamento de remunerações devidas a não residentes na província.
 
 ### CAPÍTULO XIV — Disposições finais e transitórias
 
-###### Art. 85.º Como prémio de renovação da concessão, a Petrangol pagará à província de Angola 30000 contos durante o 1.º trimestre de 1966, ou em duas prestações iguais, vencendo-se a primeira na data da assinatura do contrato de concessão e a segunda um ano depois.
+Art. 85.º Como prémio de renovação da concessão, a Petrangol pagará à província de Angola 30000 contos durante o 1.º trimestre de 1966, ou em duas prestações iguais, vencendo-se a primeira na data da assinatura do contrato de concessão e a segunda um ano depois.
 
-###### Art. 86.º A Petrangol, colaborando com o propósito do Governo na criação de um fundo de fomento mineiro, destinado, entre outras finalidades, a trabalhos de investigação científica, contribuirá, durante o período de pesquisas considerado no artigo 4.º, com 1000 contos anuais para esse fundo. A sua contribuição depois do referido período será oportunamente acordada com o Governo.
+Art. 86.º A Petrangol, colaborando com o propósito do Governo na criação de um fundo de fomento mineiro, destinado, entre outras finalidades, a trabalhos de investigação científica, contribuirá, durante o período de pesquisas considerado no artigo 4.º, com 1000 contos anuais para esse fundo. A sua contribuição depois do referido período será oportunamente acordada com o Governo.
 
-###### Art. 87.º O Estado prescindirá dos direitos que possa ter, por força do artigo 5.º do [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), relativamente às exportações efectuadas em 1962.
+Art. 87.º O Estado prescindirá dos direitos que possa ter, por força do artigo 5.º do [Decreto n.º 38832](https://diariodarepublica.pt/dr/detalhe/decreto/38832-1952-669145), relativamente às exportações efectuadas em 1962.
 
-###### Art. 88.º As disposições fiscais estabelecidas no capítulo VI, bem como as do capítulo V, vigorarão a partir de 1 de Janeiro de 1966.
+Art. 88.º As disposições fiscais estabelecidas no capítulo VI, bem como as do capítulo V, vigorarão a partir de 1 de Janeiro de 1966.
 
-###### Art. 89.º - 1. A Petrangol garante à província de Angola, considerados todos os pagamentos que lhe são devidos nesse ano por força do novo contrato de concessão e as receitas do diferencial referidas no artigo 41.º, o recebimento da importância mínima de 100000 contos no ano de 1966.
+Art. 89.º - 1. A Petrangol garante à província de Angola, considerados todos os pagamentos que lhe são devidos nesse ano por força do novo contrato de concessão e as receitas do diferencial referidas no artigo 41.º, o recebimento da importância mínima de 100000 contos no ano de 1966.
 
 2. A Petrangol renuncia a impugnar, por qualquer forma, a cobrança já efectuada ou a efectuar até 31 de Dezembro de 1965 do diferencial criado pelo Diploma Legislativo n.º 3511, de 5 de Setembro de 1964.
 
-###### Art. 90.º - 1. Mediante acordo prévio entre o Estado e a Petrangol, as actividades desta poderão ser separadas em duas sociedades, uma dedicada à prospecção, pesquisa, desenvolvimento e exploração e a outra à refinação de hidrocarbonetos.
+Art. 90.º - 1. Mediante acordo prévio entre o Estado e a Petrangol, as actividades desta poderão ser separadas em duas sociedades, uma dedicada à prospecção, pesquisa, desenvolvimento e exploração e a outra à refinação de hidrocarbonetos.
 
 2. É também admissível, em termos a aprovar pelo Governo, a fusão da actividade refinadora da Petrangol a uma empresa distribuidora, com alargamento da sua actividade a todo o território nacional.
 
-###### Art. 91.º Os estatutos da Petrangol deverão ser alterados de acordo com o que se estabelece no presente decreto e submetidos a aprovação do Governo até 90 dias após a data da assinatura do novo contrato de concessão.
+Art. 91.º Os estatutos da Petrangol deverão ser alterados de acordo com o que se estabelece no presente decreto e submetidos a aprovação do Governo até 90 dias após a data da assinatura do novo contrato de concessão.
 
-###### Art. 92.º Findo o prazo da exploração referido no artigo 7.º, todos os móveis e imóveis que estejam afectos àquela revertem para o Estado, sem qualquer formalidade ou indemnização.
+Art. 92.º Findo o prazo da exploração referido no artigo 7.º, todos os móveis e imóveis que estejam afectos àquela revertem para o Estado, sem qualquer formalidade ou indemnização.
 
-###### Art. 93.º Em tudo o que não for contrariado pelas disposições do presente decreto serão aplicáveis os Decretos de 20 de Setembro de 1906, de 9 de Dezembro de 1909 e n.º 32251, de 9 de Setembro de 1942, e bem assim quaisquer diplomas que os substituam.
+Art. 93.º Em tudo o que não for contrariado pelas disposições do presente decreto serão aplicáveis os Decretos de 20 de Setembro de 1906, de 9 de Dezembro de 1909 e n.º 32251, de 9 de Setembro de 1942, e bem assim quaisquer diplomas que os substituam.
 
-###### Art. 94.º A Petrangol fica sujeita a todas as leis, regulamentos e outros diplomas de qualquer espécie que vigorem ou venham a vigorar, excepto na parte em que essas disposições contrariem os direitos a ela conferidos pelo presente decreto.
+Art. 94.º A Petrangol fica sujeita a todas as leis, regulamentos e outros diplomas de qualquer espécie que vigorem ou venham a vigorar, excepto na parte em que essas disposições contrariem os direitos a ela conferidos pelo presente decreto.
 
-###### Art. 95.º Consideram-se revogados por mútuo acordo os contratos entre o Estado e a Petrangol de 24 de Março de 1953, de 3 de Dezembro de 1955 e de 17 de Outubro de 1957, outorgados, respectivamente, ao abrigo dos Decretos n.os 38832, de 18 de Julho de 1953, 40416, de 3 de Dezembro de 1955, e 41295, de 25 de Setembro de 1957, os quais, bem como o [Decreto n.º 44613](https://diariodarepublica.pt/dr/detalhe/decreto/44613-1962-160354), de 3 de Outubro de 1962, são revogados por este decreto.
+Art. 95.º Consideram-se revogados por mútuo acordo os contratos entre o Estado e a Petrangol de 24 de Março de 1953, de 3 de Dezembro de 1955 e de 17 de Outubro de 1957, outorgados, respectivamente, ao abrigo dos Decretos n.os 38832, de 18 de Julho de 1953, 40416, de 3 de Dezembro de 1955, e 41295, de 25 de Setembro de 1957, os quais, bem como o [Decreto n.º 44613](https://diariodarepublica.pt/dr/detalhe/decreto/44613-1962-160354), de 3 de Outubro de 1962, são revogados por este decreto.
 
 ### CAPÍTULO XV — Da convenção anexa
 
-###### Art. 96.º É aprovado o texto, anexo a este decreto, da convenção entre o Estado e a Petrangol, prevista no artigo 68.º, relativa à associação de novas entidades nas actividades de prospecção, pesquisa, desenvolvimento e exploração da sociedade nas áreas concedidas, a qual fará parte integrante do novo contrato de concessão.
+Art. 96.º É aprovado o texto, anexo a este decreto, da convenção entre o Estado e a Petrangol, prevista no artigo 68.º, relativa à associação de novas entidades nas actividades de prospecção, pesquisa, desenvolvimento e exploração da sociedade nas áreas concedidas, a qual fará parte integrante do novo contrato de concessão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -798,7 +834,7 @@ Para ser publicado no Boletim Oficial de Angola. - J. da Silva Cunha.
 
 Convenção a que se refere o artigo 96.º do Decreto n.º 46822, desta data
 
-###### Artigo 1.º De harmonia com o disposto no artigo 64.º do Decreto n.º 46822, adiante designado por decreto de concessão, e para os efeitos do artigo 65.º, o Estado e a Petrangol acordam em designar as empresas seguintes:
+Artigo 1.º De harmonia com o disposto no artigo 64.º do Decreto n.º 46822, adiante designado por decreto de concessão, e para os efeitos do artigo 65.º, o Estado e a Petrangol acordam em designar as empresas seguintes:
 
 a) Ashland Oil Company;
 
@@ -816,7 +852,7 @@ g) Sociedade Nacional de Petróleos - Sonap, S. A. R. L.;
 
 h) Société Nationale des Pétroles d'Aquitaine.
 
-###### Art. 2.º De harmonia com o disposto no artigo 64.º do decreto de concessão e para os efeitos do artigo 71.º, o Estado e a Petrangol acordam em designar as empresas seguintes:
+Art. 2.º De harmonia com o disposto no artigo 64.º do decreto de concessão e para os efeitos do artigo 71.º, o Estado e a Petrangol acordam em designar as empresas seguintes:
 
 a) Ashland Oil Company;
 
@@ -836,11 +872,11 @@ h) Société Nationale des Pétroles d'Aquitaine;
 
 i) Tesh Beleggings (EDMS) D P E.
 
-###### Art. 3.º O Governo indicará oportunamente à Petrangol, nos termos do artigo 64.º do decreto da concessão, quais as empresas, das referidas nos artigos anteriores, que irão constituir com a concessionária as associações em participação previstas no referido decreto, respectivamente para as áreas do Cuanza e do Congo.
+Art. 3.º O Governo indicará oportunamente à Petrangol, nos termos do artigo 64.º do decreto da concessão, quais as empresas, das referidas nos artigos anteriores, que irão constituir com a concessionária as associações em participação previstas no referido decreto, respectivamente para as áreas do Cuanza e do Congo.
 
-###### Art. 4.º Para os efeitos do artigo 68.º do decreto de concessão, é aprovado o texto anexo ao contrato que regulará a associação em participação prevista no artigo 65.º do mesmo decreto.
+Art. 4.º Para os efeitos do artigo 68.º do decreto de concessão, é aprovado o texto anexo ao contrato que regulará a associação em participação prevista no artigo 65.º do mesmo decreto.
 
-###### Art. 5.º O contrato que regulará a associação em participação prevista no artigo 71.º do decreto de concessão será idêntico ao referido no número anterior, feitas as convenientes adaptações que decorrem do disposto no mesmo artigo 71.º, relativamente aos seguintes artigos do texto anexo: 1.º, 15.º, 28.º, 30.º, 34.º e 35.º
+Art. 5.º O contrato que regulará a associação em participação prevista no artigo 71.º do decreto de concessão será idêntico ao referido no número anterior, feitas as convenientes adaptações que decorrem do disposto no mesmo artigo 71.º, relativamente aos seguintes artigos do texto anexo: 1.º, 15.º, 28.º, 30.º, 34.º e 35.º
 
 Contrato de «associação em participação» para a prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos em Angola, nas áreas da bacia do Cuanza incluídas na actual concessão da Petrangol.
 
@@ -848,7 +884,7 @@ Entre a Petrangol - Companhia de Petróleos de Angola, S. A. R. L., concessioná
 
 ### CAPÍTULO I — Do objecto e da gestão da associação
 
-###### Artigo 1.º - 1. A Petrangol forma com a(s) sociedade(s) ... uma associação que terá por objecto as actividades de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos em relação a todas as zonas demarcadas da área de que é concessionária correspondentes à chamada bacia do Cuanza, incluindo as respectivas áreas off-shore.
+Artigo 1.º - 1. A Petrangol forma com a(s) sociedade(s) ... uma associação que terá por objecto as actividades de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos em relação a todas as zonas demarcadas da área de que é concessionária correspondentes à chamada bacia do Cuanza, incluindo as respectivas áreas off-shore.
 
 2. Ficam excluídos desta associação os jazigos de hidrocarbonetos de Benfica, Luanda, Cacuaco, Galinda, Tobias e Puaça e quaisquer outros eventualmente descobertos antes da celebração deste contrato de associação, nos termos referidos nos n.os 2, 3 e 4 do artigo 66.º do decreto de concessão.
 
@@ -856,7 +892,7 @@ Entre a Petrangol - Companhia de Petróleos de Angola, S. A. R. L., concessioná
 
 4. O presente contrato entra em vigor à data da sua assinatura, e durará enquanto durarem as concessões dos direitos de prospecção, pesquisa, desenvolvimento e exploração das áreas que lhes respeitam e suas eventuais prorrogações.
 
-###### Art. 2.º - 1. A participação de cada sociedade signatária, adiante designada por associada, é definida à data da assinatura deste contrato pela respectiva «percentagem inicial», nos termos a seguir indicados:
+Art. 2.º - 1. A participação de cada sociedade signatária, adiante designada por associada, é definida à data da assinatura deste contrato pela respectiva «percentagem inicial», nos termos a seguir indicados:
 
 ... Percentagens
 
@@ -896,7 +932,7 @@ c) Denomina-se «percentagem resultante na exploração» de um jazigo a relaç�
 
 4.º E representa as despesas de exploração desse mesmo jazigo suportadas pelo conjunto das associadas até à data considerada.
 
-###### Art. 3.º - 1. Qualquer associada poderá a todo o tempo ceder a sua posição neste contrato, no todo ou em parte, nas condições definidas nas alíneas seguintes:
+Art. 3.º - 1. Qualquer associada poderá a todo o tempo ceder a sua posição neste contrato, no todo ou em parte, nas condições definidas nas alíneas seguintes:
 
 a) A cessão, quer seja em benefício de uma «subsidiária» ou da «sociedade-mãe» da cedente, quer em benefício de uma «subsidiária» da referida «sociedade-mãe», adiante definidas, não dependerá de consentimento da(s) outra(s) associada(s), ficando a cedente, contudo, solidàriamente responsável com a cessionária pelo exacto cumprimento de todas as obrigações que lhe incumbiam pelo presente contrato:
 
@@ -908,19 +944,19 @@ b) A cessão em benefício de qualquer outra entidade só poderá fazer-se depoi
 
 2. Qualquer cessão prevista neste artigo ficará dependente de autorização expressa do Governo.
 
-###### Art. 4.º - 1. A associação será superiormente dirigida e fiscalizada por uma comissão directiva constituída por dois representantes de cada associada e por um representante do Estado, que será o presidente.
+Art. 4.º - 1. A associação será superiormente dirigida e fiscalizada por uma comissão directiva constituída por dois representantes de cada associada e por um representante do Estado, que será o presidente.
 
 2. A direcção técnica, e a execução dos trabalhos da associação serão asseguradas por um operador, sob a autoridade e fiscalização da comissão directiva.
 
 ### CAPÍTULO II — Da comissão directiva
 
-###### Art. 5.º - 1. A comissão directiva reúne-se com a frequência considerada conveniente para a boa marcha das operações, num domínio de doze reuniões anuais, que poderão compreender as sessões que o presidente entender convenientes.
+Art. 5.º - 1. A comissão directiva reúne-se com a frequência considerada conveniente para a boa marcha das operações, num domínio de doze reuniões anuais, que poderão compreender as sessões que o presidente entender convenientes.
 
 2. A comissão directiva disporá em Lisboa de escritórios próprios onde decorrerão normalmente os seus trabalhos e onde se manterão os arquivos da associação.
 
 3. Durante o período de instrução a comissão directiva funcionará nos escritórios da Petrangol em Lisboa.
 
-###### Art. 6.º - 1. Compete ao presidente da comissão directiva:
+Art. 6.º - 1. Compete ao presidente da comissão directiva:
 
 a) Coordenar e orientar todas as actividades da comissão directiva;
 
@@ -936,7 +972,7 @@ f) Obter das comissões consultivas as informações, pareceres e estudos que co
 
 2. Em caso de impedimento do presidente da comissão directiva, os trabalhos de qualquer reunião serão dirigidos por um dos membros por ele designado para o efeito.
 
-###### Art. 7.º - 1. As convocações para as reuniões da comissão directiva devem ser feitas por carta dez dias antes da data fixada para a reunião, podendo eventualmente ser feitas por telegrama a confirmar por carta.
+Art. 7.º - 1. As convocações para as reuniões da comissão directiva devem ser feitas por carta dez dias antes da data fixada para a reunião, podendo eventualmente ser feitas por telegrama a confirmar por carta.
 
 2. A carta de convocação indicará a «ordem do dia» da reunião e será acompanhada de todos os documentos e esclarecimentos necessários ao exame dos assuntos inscritos.
 
@@ -946,9 +982,9 @@ f) Obter das comissões consultivas as informações, pareceres e estudos que co
 
 5. Nas reuniões da comissão directiva qualquer membro poderá fazer-se representar por outro por meio de carta, que deverá ser recebida pelo presidente antes do início da reunião.
 
-###### Art. 8.º Nas reuniões da comissão directiva só poderão ser tomadas deliberações sobre assuntos inscritos na respectiva «ordem do dia», a não ser que, estando presentes todos os seus membros, estes acordem em deliberar sobre assuntos não inscritos.
+Art. 8.º Nas reuniões da comissão directiva só poderão ser tomadas deliberações sobre assuntos inscritos na respectiva «ordem do dia», a não ser que, estando presentes todos os seus membros, estes acordem em deliberar sobre assuntos não inscritos.
 
-###### Art. 9.º - 1. Sem prejuízo do que adiante se dispõe nos artigos 39.º, 42.º e 46.º, nas reuniões da comissão directiva cada associada dispõe de um número de votos correspondente à respectiva «percentagem resultante nas pesquisas», tendo o presidente voto de desempate.
+Art. 9.º - 1. Sem prejuízo do que adiante se dispõe nos artigos 39.º, 42.º e 46.º, nas reuniões da comissão directiva cada associada dispõe de um número de votos correspondente à respectiva «percentagem resultante nas pesquisas», tendo o presidente voto de desempate.
 
 2. Antes de se realizar a primeira reunião da comissão directiva, cada associada comunicará ao presidente quem são os seus representantes nessa comissão e como deve ser entre eles repartido o exercício do respectivo direito de voto.
 
@@ -990,19 +1026,19 @@ c) São tomadas pela simples maioria da totalidade dos votos atribuídos ao conj
 
 6. Quando o presidente da comissão directiva negar aprovação de qualquer das decisões a que se refere o número anterior poderão as associadas que o desejarem recorrer à arbitragem, conforme o estabelecido no artigo 55.º
 
-###### Art. 10.º - 1. O presidente da comissão directiva terá direito de veto em relação a qualquer deliberação da comissão directiva que seja contrária à lei, a este contrato, aos contratos das associadas com o Estado ou manifestamente lesiva do interesse nacional.
+Art. 10.º - 1. O presidente da comissão directiva terá direito de veto em relação a qualquer deliberação da comissão directiva que seja contrária à lei, a este contrato, aos contratos das associadas com o Estado ou manifestamente lesiva do interesse nacional.
 
 2. Qualquer associada poderá, no prazo de oito dias, requerer ao Ministro do Ultramar a suspensão do veto.
 
 3. Decorridos vinte dias, após a data da aposição do veto, se este tiver sido confirmado pelo Ministro do Ultramar ou se o requerimento a que se refere o número anterior não tiver obtido resposta, poderá a reclamante recorrer à arbitragem, conforme o estabelecido no artigo 55.º
 
-###### Art. 11.º - 1. As actas das reuniões da comissão directiva serão elaboradas de acordo com a lei comercial e exaradas em livro próprio, assinadas por todos os membros.
+Art. 11.º - 1. As actas das reuniões da comissão directiva serão elaboradas de acordo com a lei comercial e exaradas em livro próprio, assinadas por todos os membros.
 
 2. As minutas das actas deverão ser elaboradas sempre que possível no dia em que teve lugar a reunião a que dizem respeito e as suas cópias serão enviadas às associadas dentro dos oito dias seguintes.
 
 3. Sempre que o presidente da comissão directiva negar aprovação a qualquer decisão sobre os assuntos indicados no n.º 5 do artigo 9.º ou usar o direito de veto, as minutas das actas que a tal se refiram deverão ser remetidas às associadas nas 24 horas seguintes à correspondente reunião.
 
-###### Art. 12.º - 1. Como órgão consultivo da comissão directiva, constituir-se-á uma comissão técnica, composta por um número igual de representantes de cada uma das associadas e por um representante do Estado.
+Art. 12.º - 1. Como órgão consultivo da comissão directiva, constituir-se-á uma comissão técnica, composta por um número igual de representantes de cada uma das associadas e por um representante do Estado.
 
 2. Competirão à comissão técnica as funções constantes das alíneas seguintes:
 
@@ -1042,25 +1078,25 @@ f) Elaborar, para a comissão directiva, um relatório anual sobre a evolução 
 
 3. O operador deverá colaborar com a comissão técnica na realização das suas atribuições, ficando obrigado a fornecer todos os elementos técnicos e estatísticos que por esta lhe forem solicitados.
 
-###### Art. 13.º Como órgão consultivo da comissão directiva e com as atribuições que por esta vierem a ser definidas, poderá ainda funcionar uma comissão comercial, constituída por igual número de representantes de cada associada e por um representante do Estado.
+Art. 13.º Como órgão consultivo da comissão directiva e com as atribuições que por esta vierem a ser definidas, poderá ainda funcionar uma comissão comercial, constituída por igual número de representantes de cada associada e por um representante do Estado.
 
-###### Art. 14.º - 1. Todas as despesas da comissão directiva e dos seus órgãos consultivos serão pagas pelo operador e suportadas por cada associada na proporção da respectiva «percentagem inicial», sendo consideradas para os efeitos do investimento mínimo previsto para os trabalhos de prospecção e pesquisa.
+Art. 14.º - 1. Todas as despesas da comissão directiva e dos seus órgãos consultivos serão pagas pelo operador e suportadas por cada associada na proporção da respectiva «percentagem inicial», sendo consideradas para os efeitos do investimento mínimo previsto para os trabalhos de prospecção e pesquisa.
 
 2. A comissão directiva terá contabilidade própria, devendo anualmente ser aprovado o respectivo orçamento de despesas.
 
 ### CAPÍTULO III — Do operador
 
-###### Art. 15.º - 1. Na sua qualidade de concessionária, a Petrangol será o operador.
+Art. 15.º - 1. Na sua qualidade de concessionária, a Petrangol será o operador.
 
 2. A comissão directiva poderá, decorridos cinco anos após a assinatura deste contrato, confiar as funções de operador a outra associada, quando a actuação da Petrangol não seja satisfatória ou quando a sua participação se encontre reduzida a menos de 40 por cento da respectiva «percentagem inicial».
 
-###### Art. 16.º Competirá ao operador, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes da associação, exceptuadas as referidas nas alíneas seguintes:
+Art. 16.º Competirá ao operador, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes da associação, exceptuadas as referidas nas alíneas seguintes:
 
 a) As obrigações para com o Estado que forem atribuições específicas da concessionária;
 
 b) Os pagamentos ao Estado da taxa de produção (royalty) e do imposto de rendimento, a que se referem os artigos 50.º e 51.º
 
-###### Art. 17.º - 1. O operador elaborará todos os anos, com a colaboração da comissão técnica, o plano de trabalhos de prospecção e pesquisa para o ano imediato e o respectivo orçamento, os quais submeterá à aprovação da comissão directiva até 90 dias antes de terminar o plano de trabalhos em curso.
+Art. 17.º - 1. O operador elaborará todos os anos, com a colaboração da comissão técnica, o plano de trabalhos de prospecção e pesquisa para o ano imediato e o respectivo orçamento, os quais submeterá à aprovação da comissão directiva até 90 dias antes de terminar o plano de trabalhos em curso.
 
 2. A comissão directiva deverá no prazo de vinte dias aprovar, rejeitar ou modificar o referido plano de trabalhos e respectivo orçamento.
 
@@ -1072,13 +1108,13 @@ b) Os pagamentos ao Estado da taxa de produção (royalty) e do imposto de rendi
 
 6. As alterações dos planos de trabalhos e respectivos orçamentos que ultrapassem o montante global das despesas orçamentadas só poderão ser apresentadas duas vezes em cada ano.
 
-###### Art. 18.º - 1. No início do segundo mês de cada bimestre, o operador indicará à comissão directiva a quota-parte que dentro do orçamento aprovado caberá a cada associada nas despesas previstas para o bimestre seguinte e fornecerá uma situação da tesouraria, mostrando os montantes despendidos por cada uma das associadas, as despesas realizadas por conta da associação e as despesas previstas para o bimestre seguinte.
+Art. 18.º - 1. No início do segundo mês de cada bimestre, o operador indicará à comissão directiva a quota-parte que dentro do orçamento aprovado caberá a cada associada nas despesas previstas para o bimestre seguinte e fornecerá uma situação da tesouraria, mostrando os montantes despendidos por cada uma das associadas, as despesas realizadas por conta da associação e as despesas previstas para o bimestre seguinte.
 
 2. Antes do início do referido bimestre, todas as associadas devem entregar ao operador a parte que lhes competir nas despesas.
 
 3. O operador assegurará o pagamento de todas as despesas da associação.
 
-###### Art. 19.º - 1. O operador manterá uma contabilidade analítica para todas as operações da associação.
+Art. 19.º - 1. O operador manterá uma contabilidade analítica para todas as operações da associação.
 
 2. Nos dez primeiros dias de cada mês será enviada à comissão directiva uma situação contabilística referente à actividade do mês anterior indicando todas as despesas efectuadas.
 
@@ -1088,13 +1124,13 @@ b) Os pagamentos ao Estado da taxa de produção (royalty) e do imposto de rendi
 
 5. Qualquer associada pode a todo o tempo proceder à verificação da contabilidade da associação sem perturbar as suas operações correntes por sua conta e por intermédio de um contabilista pertencente ao quadro normal do seu pessoal.
 
-###### Art. 20.º - 1. Os planos de trabalhos serão executados pelo operador de acordo com as instruções que a comissão directiva entenda dever fixar quando da sua aprovação.
+Art. 20.º - 1. Os planos de trabalhos serão executados pelo operador de acordo com as instruções que a comissão directiva entenda dever fixar quando da sua aprovação.
 
 2. Antes do início de qualquer sondagem, o operador fornecerá à comissão directiva um «Relatório de implantação», indicando especialmente os objectivos da sondagem, o material a utilizar e os programas de detecção de hidrocarbonetos e de reconhecimento do reservatório.
 
 3. Os assuntos relativos à realização dos programas de ensaio a efectuar sobre poços de pesquisa ou relativos ao seu abandono devem ser submetidos pelo operador à aprovação da comissão directiva.
 
-###### Art. 21.º - 1. O operador enviará à comissão directiva todos os relatórios técnicos que esta lhe solicitar, designadamente os indicados nas alíneas seguintes:
+Art. 21.º - 1. O operador enviará à comissão directiva todos os relatórios técnicos que esta lhe solicitar, designadamente os indicados nas alíneas seguintes:
 
 a) Relatórios de prospecção sísmica, incluindo os registos, time sections, orientação e nivelamento dos alinhamentos e as cargas de explosivos empregadas, bem como, no final dos trabalhos de prospecção sísmica, o relatório pormenorizado das interpretações parcial e final dos estudos verificados;
 
@@ -1110,19 +1146,19 @@ e) Relatórios de fim de sondagem para cada poço seco ou produtivo, contendo to
 
 3. Representantes qualificados das associadas terão livre acesso a todos os trabalhos realizados no âmbito do presente contrato, mas não poderão interferir na sua execução.
 
-###### Art. 22.º - 1. O operador subscreverá e manterá em vigor as apólices de seguros cobrindo os riscos provenientes dos trabalhos executados em resultado do presente contrato.
+Art. 22.º - 1. O operador subscreverá e manterá em vigor as apólices de seguros cobrindo os riscos provenientes dos trabalhos executados em resultado do presente contrato.
 
 2. Os riscos a segurar e a respectiva cobertura serão estabelecidos periòdicamente pela comissão directiva, conforme o previsto na alínea c) do n.º 4 do artigo 9.º
 
-###### Art. 23.º O operador poderá, dentro dos planos de trabalhos e orçamentos aprovados e das normas regulamentares sobre empreitadas a estabelecer pela comissão directiva, entregar a terceiros a realização de determinadas empreitadas, desde que o preço de cada uma não exceda 100000$00.
+Art. 23.º O operador poderá, dentro dos planos de trabalhos e orçamentos aprovados e das normas regulamentares sobre empreitadas a estabelecer pela comissão directiva, entregar a terceiros a realização de determinadas empreitadas, desde que o preço de cada uma não exceda 100000$00.
 
-###### Art. 24.º O operador poderá, dentro dos planos de trabalhos e orçamentos aprovados e das normas regulamentares sobre a aquisição de materiais e equipamento a estabelecer pela comissão directiva, efectuar quaisquer compras, desde que o valor dos materiais e equipamentos a adquirir não exceda 100000$00 por cada encomenda.
+Art. 24.º O operador poderá, dentro dos planos de trabalhos e orçamentos aprovados e das normas regulamentares sobre a aquisição de materiais e equipamento a estabelecer pela comissão directiva, efectuar quaisquer compras, desde que o valor dos materiais e equipamentos a adquirir não exceda 100000$00 por cada encomenda.
 
 ### CAPÍTULO IV — Da sociedade concessionária
 
-###### Art. 25.º A Petrangol exercerá todos os direitos e obrigações inerentes à sua qualidade de concessionária, não podendo a qualquer título resultar prejuízo para a(s) outra(s) associada(s) por falta da Petrangol no exercício desses direitos e obrigações.
+Art. 25.º A Petrangol exercerá todos os direitos e obrigações inerentes à sua qualidade de concessionária, não podendo a qualquer título resultar prejuízo para a(s) outra(s) associada(s) por falta da Petrangol no exercício desses direitos e obrigações.
 
-###### Art. 26.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes do contrato de concessão dos direitos de prospecção, pesquisa, desenvolvimento e exploração relativos às áreas da concessão que são objecto deste contrato.
+Art. 26.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes do contrato de concessão dos direitos de prospecção, pesquisa, desenvolvimento e exploração relativos às áreas da concessão que são objecto deste contrato.
 
 2. Quando uma falta da Petrangol no cumprimento das referidas disposições e obrigações implique aplicação de multas ou outros prejuízos, umas e outros serão da inteira responsabilidade da Petrangol e por ela suportados na sua totalidade.
 
@@ -1130,7 +1166,7 @@ e) Relatórios de fim de sondagem para cada poço seco ou produtivo, contendo to
 
 4. Quando uma falta da Petrangol implicar a perda dos direitos mineiros sobre qualquer jazigo em exploração, manter-se-á o presente contrato, dando o Estado, em nova concessão, o direito de exploração do referido jazigo à associada que o Governo entender e revertendo a favor da província de Angola os lucros correspondentes à «percentagem resultante na exploração» do referido jazigo que cabia à Petrangol à data em que a falta foi praticada.
 
-###### Art. 27.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as formalidades legais e contratuais necessárias à execução dos trabalhos de prospecção e pesquisa nas áreas da concessão respeitantes a este contrato, bem como dos trabalhos de desenvolvimento e exploração de todos os jazigos encontrados nessas áreas.
+Art. 27.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as formalidades legais e contratuais necessárias à execução dos trabalhos de prospecção e pesquisa nas áreas da concessão respeitantes a este contrato, bem como dos trabalhos de desenvolvimento e exploração de todos os jazigos encontrados nessas áreas.
 
 2. Quando por falta da Petrangol no cumprimento das referidas formalidades resultar a perda de direitos sobre determinada área ou jazigo, o Governo disporá dos direitos perdidos a favor da entidade que entender, nos termos do artigo anterior, mas manterá para as restantes associadas as obrigações e interesses que nesses direitos lhes cabiam nos termos da associação.
 
@@ -1140,11 +1176,11 @@ e) Relatórios de fim de sondagem para cada poço seco ou produtivo, contendo to
 
 ### CAPÍTULO V — Dos trabalhos a realizar
 
-###### Art. 28.º - 1. Nas áreas da bacia do Cuanza afectadas à associação serão realizados, por conta e risco das associadas e de acordo com as regras constantes deste contrato, trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, assim como enxofre, hélio, dióxido de carbono e substâncias salinas.
+Art. 28.º - 1. Nas áreas da bacia do Cuanza afectadas à associação serão realizados, por conta e risco das associadas e de acordo com as regras constantes deste contrato, trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, assim como enxofre, hélio, dióxido de carbono e substâncias salinas.
 
 2. Consideram-se aplicáveis à associação as definições das operações mineiras referidas no artigo 23.º do decreto de concessão.
 
-###### Art. 29.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento e exploração poderá, salvo por motivos de segurança, ser executado sem que tenha sido considerado num plano de trabalhos aprovado pelo Governo.
+Art. 29.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento e exploração poderá, salvo por motivos de segurança, ser executado sem que tenha sido considerado num plano de trabalhos aprovado pelo Governo.
 
 2. Considera-se tàcitamente aprovado qualquer plano de trabalhos sempre que, decorridos 30 dias após a data da sua apresentação na instância competente, não tenha sido comunicada à Petrangol qualquer decisão.
 
@@ -1156,7 +1192,7 @@ e) Relatórios de fim de sondagem para cada poço seco ou produtivo, contendo to
 
 6. Os planos de trabalhos, que devem ser pormenorizados, elucidativos e justificativos, serão entregues em triplicado na Direcção dos Serviços de Geologia e Minas de Angola.
 
-###### Art. 30.º - 1. Os trabalhos de prospecção e pesquisa serão, em cada ano, objecto de um plano de trabalhos conforme o estabelecido no n.º 1 do artigo 17.º, o qual deverá ser apresentado a aprovação do Governo até 60 dias antes de terminar o período de validade do plano anteriormente aprovado.
+Art. 30.º - 1. Os trabalhos de prospecção e pesquisa serão, em cada ano, objecto de um plano de trabalhos conforme o estabelecido no n.º 1 do artigo 17.º, o qual deverá ser apresentado a aprovação do Governo até 60 dias antes de terminar o período de validade do plano anteriormente aprovado.
 
 2. O primeiro plano de trabalhos de prospecção e pesquisa deverá ser submetido à aprovação do Governo até 90 dias após a data da assinatura deste contrato.
 
@@ -1174,7 +1210,7 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 7. Na eventual prorrogação da concessão dos direitos de prospecção e pesquisa, o Governo indicará, para os efeitos do n.º 5, qual o mínimo que se deverá verificar nos trabalhos de prospecção e pesquisa, de acordo com o desenvolvimento que nessa altura os diversos trabalhos apresentarem e proporcionalmente às áreas conservadas.
 
-###### Art. 31.º - 1. Sempre que na pesquisa de uma estrutura se verifique o aparecimento do primeiro poço produtivo e no prazer máximo de 60 dias contados a partir da conclusão do mesmo poço, o operador estabelecerá, com a colaboração da comissão técnica, o plano de trabalhos de desenvolvimento dessa estrutura e o respectivo orçamento, os quais serão submetidos a aprovação da comissão directiva.
+Art. 31.º - 1. Sempre que na pesquisa de uma estrutura se verifique o aparecimento do primeiro poço produtivo e no prazer máximo de 60 dias contados a partir da conclusão do mesmo poço, o operador estabelecerá, com a colaboração da comissão técnica, o plano de trabalhos de desenvolvimento dessa estrutura e o respectivo orçamento, os quais serão submetidos a aprovação da comissão directiva.
 
 2. A comissão directiva deverá aprovar, rejeitar ou modificar o referido plano de trabalhos e o respectivo orçamento até vinte dias após a data da sua recepção.
 
@@ -1192,7 +1228,7 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 9. As substancias úteis resultantes do primeiro poço produtivo e dos trabalhos de desenvolvimento de cada estrutura serão partilhadas entre as associadas que participaram no financiamento desses trabalhos de desenvolvimento proporcionalmente à «percentagem resultante no desenvolvimento» de cada uma, calculada na data da aprovação pelo Governo do correspondente «plano de trabalhos de exploração» ou na data de abandono da estrutura, se a sua exploração não for considerada, e são para todos os efeitos consideradas nos mesmos termos das produzidas na fase de exploração, designadamente para fins fiscais e para os da sua comercialização.
 
-###### Art. 32.º - 1. Logo que os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo econòmicamente explorável, deverá ser feita pela concessionária a respectiva comunicação ao Governo.
+Art. 32.º - 1. Logo que os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo econòmicamente explorável, deverá ser feita pela concessionária a respectiva comunicação ao Governo.
 
 2. No prazo máximo de 60 dias, a contar da data da comunicação referida no número anterior, o operador elaborará, com a colaboração da comissão técnica, o plano de trabalhos de exploração desse jazigo e o respectivo orçamento, bem como um relatório de que conste:
 
@@ -1224,11 +1260,11 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 12. Relativamente a cada jazigo em exploração, a concessionária deverá apresentar anualmente ao Governo, até ao dia 1 de Março, o relatório de exploração respeitante ao ano anterior, o qual será elaborado pelo operador com a colaboração da comissão técnica e submetido a aprovação da comissão directiva.
 
-###### Art. 33.º No omisso valerá o disposto sobre actividades mineiras no decreto de concessão.
+Art. 33.º No omisso valerá o disposto sobre actividades mineiras no decreto de concessão.
 
 ### CAPÍTULO VI — Dos financiamentos
 
-###### Art. 34.º - 1. As associadas financiarão todas as despesas resultantes do estabelecimento e execução deste contrato.
+Art. 34.º - 1. As associadas financiarão todas as despesas resultantes do estabelecimento e execução deste contrato.
 
 2. Nenhuma despesa poderá ser feita pelo operador, por conta das associadas, sem estar prevista num orçamento aprovado pela comissão directiva.
 
@@ -1242,7 +1278,7 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 7. O Governo poderá também autorizar programas com investimentos inferiores desde que considere provada a inviabilidade técnica da realização dos investimentos mínimos obrigatòriamente fixados.
 
-###### Art. 35.º - 1. A participação de cada associada no investimento referido no n.º 3 do artigo anterior será determinada, para cada plano de trabalhos, proporcionalmente à sua «percentagem resultante nas pesquisas», tal como vem definida no n.º 3 do artigo 2.º
+Art. 35.º - 1. A participação de cada associada no investimento referido no n.º 3 do artigo anterior será determinada, para cada plano de trabalhos, proporcionalmente à sua «percentagem resultante nas pesquisas», tal como vem definida no n.º 3 do artigo 2.º
 
 2. No financiamento do primeiro plano de trabalhos de prospecção e pesquisa a executar pela associação, cada associada deverá participar na proporção da respectiva «percentagem inicial».
 
@@ -1254,7 +1290,7 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 6. A Petrangol e a(s) outra(s) associada(s) poderão, decorridos três anos após a assinatura deste contrato, negociar e acordar regras diferentes das acima estabelecidas, devendo porém, nesse, caso, o novo acordo ser aprovado pelo Governo.
 
-###### Art. 36.º - 1. Quando um orçamento anual de trabalhos de prospecção e pesquisa, ou a sua revisão, exceder o investimento médio previsto no artigo 34.º, qualquer associada terá o direito de reduzir até 25 por cento a participação que lhe couber na parte desse orçamento que exceda aquele investimento médio.
+Art. 36.º - 1. Quando um orçamento anual de trabalhos de prospecção e pesquisa, ou a sua revisão, exceder o investimento médio previsto no artigo 34.º, qualquer associada terá o direito de reduzir até 25 por cento a participação que lhe couber na parte desse orçamento que exceda aquele investimento médio.
 
 2. A associada que desejar utilizar a faculdade indicada no número anterior deve notificar a comissão directiva, por carta registada com aviso de recepção, nos oito dias seguintes à aprovação do respectivo orçamento.
 
@@ -1262,13 +1298,13 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 4. A associada que aumentar ou diminuir a sua participação num determinado orçamento, nos termos dos números anteriores, terá o direito de retomar, no financiamento do orçamento para trabalhos de prospecção e pesquisa que seja seguidamente submetido à aprovação, a participação proporcional à respectiva «percentagem inicial».
 
-###### Art. 37.º - 1. Quando dos trabalhos de pesquisa numa estrutura resultar a descoberta de um poço produtivo, proceder-se-á, de acordo com o estabelecido no artigo 31.º, aos trabalhos necessários para o desenvolvimento dessa estrutura.
+Art. 37.º - 1. Quando dos trabalhos de pesquisa numa estrutura resultar a descoberta de um poço produtivo, proceder-se-á, de acordo com o estabelecido no artigo 31.º, aos trabalhos necessários para o desenvolvimento dessa estrutura.
 
 2. Qualquer associada poderá participar nos trabalhos de desenvolvimento de qualquer estrutura (com a exclusão das resultantes dos trabalhos suplementares considerados no capítulo VII), proporcionalmente à respectiva «percentagem resultante nas pesquisas» calculada na data da apresentação à comissão directiva do plano dos trabalhos de desenvolvimento dessa estrutura e do respectivo orçamento.
 
 3. Para os efeitos do número anterior, no cálculo da «percentagem resultante nas pesquisas» não são consideradas as despesas com trabalhos suplementares a que se refere o capítulo VII.
 
-###### Art. 38.º - 1. Qualquer associada poderá reduzir a sua participação no financiamento dos trabalhos de desenvolvimento de cada estrutura até um valor proporcional a 50 por cento da respectiva «percentagem resultante nas pesquisas».
+Art. 38.º - 1. Qualquer associada poderá reduzir a sua participação no financiamento dos trabalhos de desenvolvimento de cada estrutura até um valor proporcional a 50 por cento da respectiva «percentagem resultante nas pesquisas».
 
 2. A associada que renunciar a participar no financiamento dos trabalhos de desenvolvimento de uma estrutura perderá todos os seus direitos em relação a essa estrutura, sem qualquer espécie de compensação, mas conservará inalterados os seus direitos relativamente à parte restante das áreas afectadas à associação.
 
@@ -1276,13 +1312,13 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 4. As associadas deverão declarar, na data da aprovação de cada plano de trabalhos de desenvolvimento e do respectivo orçamento pela comissão directiva, como desejam participar no seu financiamento ou se a tal renunciam.
 
-###### Art. 39.º Sobre os assuntos tratados na comissão directiva, relativos ao desenvolvimento de uma estrutura, terão direito de voto, na proporção da respectiva «percentagem resultante no desenvolvimento» dessa estrutura, calculada à data da votação, a(s) associada(s) que participou(aram) no financiamento dos seus trabalhos de desenvolvimento e apenas essa(s).
+Art. 39.º Sobre os assuntos tratados na comissão directiva, relativos ao desenvolvimento de uma estrutura, terão direito de voto, na proporção da respectiva «percentagem resultante no desenvolvimento» dessa estrutura, calculada à data da votação, a(s) associada(s) que participou(aram) no financiamento dos seus trabalhos de desenvolvimento e apenas essa(s).
 
-###### Art. 40.º - 1. Desde que os trabalhos de desenvolvimento de uma estrutura revelem a existência de um jazigo econòmicamente explorável proceder-se-á aos trabalhos necessários à sua exploração.
+Art. 40.º - 1. Desde que os trabalhos de desenvolvimento de uma estrutura revelem a existência de um jazigo econòmicamente explorável proceder-se-á aos trabalhos necessários à sua exploração.
 
 2. Qualquer associada que tenha participado no financiamento do desenvolvimento de uma estrutura tem o direito de participar no financiamento dos trabalhos de exploração do respectivo jazigo, num montante proporcional à sua «percentagem resultante no desenvolvimento».
 
-###### Art. 41.º - 1. Qualquer associada que tenha o direito de participar no financiamento dos trabalhos de exploração de um jazigo poderá reduzir a sua participação no orçamento respectivo até um valor proporcional a 50 por cento da respectiva «percentagem resultante no desenvolvimento».
+Art. 41.º - 1. Qualquer associada que tenha o direito de participar no financiamento dos trabalhos de exploração de um jazigo poderá reduzir a sua participação no orçamento respectivo até um valor proporcional a 50 por cento da respectiva «percentagem resultante no desenvolvimento».
 
 2. A associada que renuncie a participar no financiamento dos trabalhos de exploração de um jazigo perderá todos os seus direitos na exploração desse jazigo sem qualquer espécie de compensação, mas conservará intactos os seus direitos relativamente à parte restante das áreas afectadas à associação.
 
@@ -1290,11 +1326,11 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 4. As associadas deverão declarar na data da aprovação do plano de trabalhos de exploração e do respectivo orçamento pela comissão directiva como desejam participar no seu financiamento ou se a tal renunciam.
 
-###### Art. 42.º Sobre os assuntos tratados na comissão directiva, relativos à exploração de um jazigo, terão direito de voto, na proporção da respectiva «percentagem resultante na exploração» desse jazigo, calculada à data da votação, a(s) associada(s) que participou(aram) no financiamento dos seus trabalhos de exploração e apenas essa(s).
+Art. 42.º Sobre os assuntos tratados na comissão directiva, relativos à exploração de um jazigo, terão direito de voto, na proporção da respectiva «percentagem resultante na exploração» desse jazigo, calculada à data da votação, a(s) associada(s) que participou(aram) no financiamento dos seus trabalhos de exploração e apenas essa(s).
 
 ### CAPÍTULO VII — Dos trabalhos suplementares
 
-###### Art. 43.º - 1. Quando a comissão directiva resolver não executar determinados trabalhos, ou decidir suspender ou paralisar trabalhos em execução, qualquer associada tem o direito de, à sua custa, fazer executar pelo operador, esses trabalhos, desde que não resulte qualquer prejuízo para a continuação dos restantes trabalhos.
+Art. 43.º - 1. Quando a comissão directiva resolver não executar determinados trabalhos, ou decidir suspender ou paralisar trabalhos em execução, qualquer associada tem o direito de, à sua custa, fazer executar pelo operador, esses trabalhos, desde que não resulte qualquer prejuízo para a continuação dos restantes trabalhos.
 
 2. A associada que pretender utilizar a faculdade estabelecida no número anterior notificará a comissão directiva da sua decisão, indicando o plano de trabalhos e o respectivo orçamento.
 
@@ -1302,19 +1338,21 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 4. Os trabalhos suplementares deverão começar dentro de 120 dias após a data da notificação referida no número anterior, salvo qualquer atraso justificável por dificuldade de aquisição de equipamento ou materiais.
 
-###### Art. 44.º - 1. Quando da realização de trabalhos suplementares resultar a descoberta de um ou mais poços produtivos, a produção desse ou desses poços caberá exclusivamente à(s) associada(s) que participou(aram) no financiamento dos mesmos trabalhos suplementares, até ao limite em que um montante igual ao triplo das despesas efectuadas com esses trabalhos suplementares e o total das despesas de exploração até esse momento estejam cobertos pelo rendimento desse ou desses poços.
+Art. 44.º - 1. Quando da realização de trabalhos suplementares resultar a descoberta de um ou mais poços produtivos, a produção desse ou desses poços caberá exclusivamente à(s) associada(s) que participou(aram) no financiamento dos mesmos trabalhos suplementares, até ao limite em que um montante igual ao triplo das despesas efectuadas com esses trabalhos suplementares e o total das despesas de exploração até esse momento estejam cobertos pelo rendimento desse ou desses poços.
 
 2. Cumprido o disposto no número anterior, o poço ou poços serão explorados em benefício de todas as associadas proporcionalmente aos encargos que para cada um foram considerados na determinação da «percentagem resultante» referida no n.º 3 do artigo anterior, adicionados para cada associada que financiou os trabalhos suplementares em causa, ao valor dos encargos que suportou referentes aos mesmos trabalhos suplementares.
 
-###### Art. 45.º - 1. Os trabalhos suplementares e a eventual exploração dos poços resultantes desses trabalhos até reembolso das somas referidas no n.º 1 do artigo anterior serão objecto de uma contabilidade própria.
+Art. 45.º - 1. Os trabalhos suplementares e a eventual exploração dos poços resultantes desses trabalhos até reembolso das somas referidas no n.º 1 do artigo anterior serão objecto de uma contabilidade própria.
 
 2. A(s) associada(s) que não entrar(em) no financiamento dos trabalhos suplementares poderá(ão) examinar a contabilidade referida no número anterior.
 
-###### Art. 46.º Sobre os assuntos tratados na comissão directiva relativos a trabalhos suplementares, terão direito de voto as associadas que participarem no financiamento desses trabalhos, na proporção das respectivas participações, e apenas essas.
+Art. 46.º Sobre os assuntos tratados na comissão directiva relativos a trabalhos suplementares, terão direito de voto as associadas que participarem no financiamento desses trabalhos, na proporção das respectivas participações, e apenas essas.
 
-### CAPÍTULO VIII — Da falta de pagamento
+CAPÍTULO VIII
 
-###### Art. 47.º - 1. Quando por parte de qualquer associada se verificar a falta de cumprimento do estabelecido no n.º 2 do artigo 18.º não justificado por motivo de força maior, o operador avisará a comissão directiva, a qual convidará a associada a efectuar o pagamento da quantia em dívida nos 90 dias seguintes.
+Da falta de pagamento
+
+Art. 47.º - 1. Quando por parte de qualquer associada se verificar a falta de cumprimento do estabelecido no n.º 2 do artigo 18.º não justificado por motivo de força maior, o operador avisará a comissão directiva, a qual convidará a associada a efectuar o pagamento da quantia em dívida nos 90 dias seguintes.
 
 2. Para continuar na posse de todos os seus direitos a associada em falta deverá, no prazo indicado no número anterior, proceder ao pagamento do montante da dívida, acrescido dos juros correspondentes à taxa de desconto do Banco de Portugal aumentada de 6 por cento.
 
@@ -1322,7 +1360,7 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 4. O disposto no número anterior não se aplicará aos jazigos que estiverem em exploração à data em que a falta se verificar enquanto a associada faltosa continuar a participar nas despesas de exploração desses jazigos.
 
-###### Art. 48.º - 1. Em caso de força maior a associada em falta deverá, no mais curto prazo de tempo, informar a comissão directiva.
+Art. 48.º - 1. Em caso de força maior a associada em falta deverá, no mais curto prazo de tempo, informar a comissão directiva.
 
 2. O presidente convocará a comissão directiva para uma reunião de urgência, que deverá ter lugar nos dez dias seguintes à recepção da informação.
 
@@ -1332,47 +1370,55 @@ b) A perfuração na zona marítima deve começar dentro de dezoito meses a cont
 
 5. Se a associada faltosa não proceder conforme o estabelecido nos números anteriores, ficará sujeita ao disposto no n.º 3 do artigo anterior.
 
-### CAPÍTULO IX — Da partilha dos resultados da exploração
+CAPÍTULO IX
 
-###### Art. 49.º Cada associada tem direito à parte dos resultados da exploração de cada jazigo correspondente à respectiva «percentagem resultante na exploração», definida na alínea d) do n.º 3 do artigo 2.º, sem prejuízo do estabelecido no artigo 44.º
+Da partilha dos resultados da exploração
 
-###### Art. 50.º Cada associada pagará a taxa de produção fixada no respectivo contrato com o Estado, relativamente aos produtos da exploração que lhe couberem de harmonia com as regras deste contrato.
+Art. 49.º Cada associada tem direito à parte dos resultados da exploração de cada jazigo correspondente à respectiva «percentagem resultante na exploração», definida na alínea d) do n.º 3 do artigo 2.º, sem prejuízo do estabelecido no artigo 44.º
 
-###### Art. 51.º Para efeitos da liquidação do imposto de rendimento sobre os lucros de cada associada, respeitadas as regras estabelecidas nos respectivos contratos com o Estado, serão consideradas as despesas que cada uma das associadas suportar de harmonia com as disposições deste contrato, bem como a participação que a cada uma couber nos resultados da exploração.
+Art. 50.º Cada associada pagará a taxa de produção fixada no respectivo contrato com o Estado, relativamente aos produtos da exploração que lhe couberem de harmonia com as regras deste contrato.
 
-### CAPÍTULO X — Da comercialização dos produtos
+Art. 51.º Para efeitos da liquidação do imposto de rendimento sobre os lucros de cada associada, respeitadas as regras estabelecidas nos respectivos contratos com o Estado, serão consideradas as despesas que cada uma das associadas suportar de harmonia com as disposições deste contrato, bem como a participação que a cada uma couber nos resultados da exploração.
 
-###### Art. 52.º - 1. Cada associada terá direito a comercializar a parte que lhe competir nos resultados da exploração.
+CAPÍTULO X
+
+Da comercialização dos produtos
+
+Art. 52.º - 1. Cada associada terá direito a comercializar a parte que lhe competir nos resultados da exploração.
 
 2. A comissão directiva poderá encarregar-se da comercialização, em conjunto, de toda ou parte da produção das associadas, para o que disporá das informações, pareceres e estudos da comissão comercial.
 
 3. O disposto nos números anteriores entende-se sem prejuízo das obrigações especiais sobre comercialização dos produtos que cabem a cada associada, ou aos seus accionistas, nos termos dos contratos ou convenções celebrados ou que venha a celebrar com o Estado.
 
-###### Art. 53.º - 1. Os produtos obtidos pelas empresas associadas à Petrangol serão afectados prioritàriamente ao abastecimento da refinaria de Luanda, se tal se tornar necessário, devido à insuficiência da produção própria da Petrangol para satisfazer o consumo daquela refinaria.
+Art. 53.º - 1. Os produtos obtidos pelas empresas associadas à Petrangol serão afectados prioritàriamente ao abastecimento da refinaria de Luanda, se tal se tornar necessário, devido à insuficiência da produção própria da Petrangol para satisfazer o consumo daquela refinaria.
 
 2. Os preços de venda das ramas a fornecer à Petrangol pelas associadas serão estabelecidos nos termos do artigo 40.º do decreto de concessão.
 
-### CAPÍTULO XI — Da propriedade dos bens
+CAPÍTULO XI
 
-###### Art. 54.º - 1. Os bens adquiridos pelo operador, por conta das associadas, para execução dos planos de trabalhos de prospecção, pesquisa, desenvolvimento e exploração, serão propriedade da associação e constarão de um inventário próprio.
+Da propriedade dos bens
+
+Art. 54.º - 1. Os bens adquiridos pelo operador, por conta das associadas, para execução dos planos de trabalhos de prospecção, pesquisa, desenvolvimento e exploração, serão propriedade da associação e constarão de um inventário próprio.
 
 2. No caso da alienação de bens prevista na alínea b) do n.º 4 do artigo 9.º ou resultante de dissolução autorizada da associação antes do termo previsto no artigo 1.º, o produto dessa cessão pertencera às associadas nas proporções em que comparticiparam na aquisição desses bens.
 
 3. Ao terminar o presente contrato, após o período referido no artigo 1.º, os bens que forem propriedade da associada reverterão para o Estado.
 
-### CAPÍTULO XII — Da arbitragem
+CAPÍTULO XII
 
-###### Art. 55.º - 1. As divergências que venham a surgir entre o Governo e as associadas sobre a interpretação, validade ou execução das disposições deste contrato serão resolvidas por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
+Da arbitragem
+
+Art. 55.º - 1. As divergências que venham a surgir entre o Governo e as associadas sobre a interpretação, validade ou execução das disposições deste contrato serão resolvidas por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
 
 2. O juízo arbitra], que funcionará em Lisboa, será constituído por um árbitro nomeado pelo Ministro do Ultramar, outro nomeado pelas associadas e o terceiro, com voto de desempate, escolhido por acordo ou, na sua falta, designado pelo presidente do Supremo Tribunal de Justiça.
 
 3. O disposto nos números anteriores terá aplicação nos casos previstos no n.º 6 do artigo 9.º e no artigo 10.º
 
-###### Art. 56.º - 1. As divergências que vierem a surgir entre as associadas e que não possam ser resolvidas pelo voto de desempate do presidente da comissão directiva serão dirimidas por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
+Art. 56.º - 1. As divergências que vierem a surgir entre as associadas e que não possam ser resolvidas pelo voto de desempate do presidente da comissão directiva serão dirimidas por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
 
 2. O juízo arbitral, que funcionará em Lisboa, será constituído por um árbitro nomeado por cada uma das associadas em causa e o terceiro, com voto de desempate, escolhido por comum acordo ou, na sua falta, designado pelo presidente do Supremo Tribunal de Justiça.
 
-###### Art. 57.º - 1. Para os efeitos do n.º 5 do artigo 30.º, incluindo a alínea b) do n.º 3 do artigo 34.º, e do n.º 5 do artigo 35.º, os períodos de tempo neles mencionados entendem-se como referidos ao mesmo período previsto no n.º 1 do artigo 4.º do decreto de concessão.
+Art. 57.º - 1. Para os efeitos do n.º 5 do artigo 30.º, incluindo a alínea b) do n.º 3 do artigo 34.º, e do n.º 5 do artigo 35.º, os períodos de tempo neles mencionados entendem-se como referidos ao mesmo período previsto no n.º 1 do artigo 4.º do decreto de concessão.
 
 2. Se, porém, o contrato de associação for celebrado posteriormente ao início daquele período, os prazos referidos no número anterior serão ajustados na proporção correspondente.
 

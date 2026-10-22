@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27100/18561857.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,63 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47329-1966-477617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-10-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 120d57c689ceaac4d099c2221782400b89ed3a87416e9eeda36106453f93178e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75c2f8496858d5d901f1a32cd35827bb8780f2a19f4d3f72561959fbb9c389dc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Transitária
+- Definição de Competências
+- Licenciamento
+- Transporte de Carga
+- Transporte de Passageiros
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:462197:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:351953:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:468608:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:462197:por
+  label: "Revogado pelo DEC LEI.448/80.06.10.1980.MTC, DR.IS [231] de 06.10.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/448-1980-462197
+  date: '1980-10-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:27Z'
   warnings: []
   errors: []
 ---
@@ -119,11 +142,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 9.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Todas as licenças que, posteriormente à entrada em vigor deste decreto, forem concedidas para o exercício da indústria de transportes de aluguer em automóveis ligeiros de passageiros e em automóveis pesados e ligeiros de carga serão consideradas bens fora do comércio e, consequentemente, insusceptíveis de constituírem objecto de quaisquer actos a título gratuito ou oneroso, entre vivos ou mortis causa, e, ainda, por disposição dos seus titulares, serem postas em comum em qualquer sociedade.
+Artigo 1.º Todas as licenças que, posteriormente à entrada em vigor deste decreto, forem concedidas para o exercício da indústria de transportes de aluguer em automóveis ligeiros de passageiros e em automóveis pesados e ligeiros de carga serão consideradas bens fora do comércio e, consequentemente, insusceptíveis de constituírem objecto de quaisquer actos a título gratuito ou oneroso, entre vivos ou mortis causa, e, ainda, por disposição dos seus titulares, serem postas em comum em qualquer sociedade.
 
-###### Art. 2.º A morte, nas pessoas singulares, a liquidação ou qualquer outra forma de extinção, nas pessoas colectivas, implicam o cancelamento automático das licenças de que forem titulares.
+Art. 2.º A morte, nas pessoas singulares, a liquidação ou qualquer outra forma de extinção, nas pessoas colectivas, implicam o cancelamento automático das licenças de que forem titulares.
 
-###### Art. 3.º Gozam, no entanto, de preferência na concessão de títulos idênticos aos cancelados, nos termos do artigo anterior, desde que tal não implique modificação dos contingentes e dependendo de homologação da Direcção-Geral de Transportes Terrestres:
+Art. 3.º Gozam, no entanto, de preferência na concessão de títulos idênticos aos cancelados, nos termos do artigo anterior, desde que tal não implique modificação dos contingentes e dependendo de homologação da Direcção-Geral de Transportes Terrestres:
 
 a) Quanto às pessoas singulares, aquelas que, por morte do titular da licença e por força de sucessão legitima ou legitimária, se tornem legítimos donos do equipamento indispensável ao exercício da actividade transportadora.
 
@@ -131,12 +154,12 @@ Para que esta preferência tenha eficácia plena, deverá a licença ser requeri
 
 b) Quanto às pessoas colectivas, as empresas que resultem da fusão de outras já titulares de licenças do mesmo tipo, desde que reúnam uma dimensão mínima, em número de veículos ou capacidade, a fixar por despacho do Ministro das Comunicações.
 
-###### Art. 4.º Serão canceladas todas as licenças que se mostrem ser exploradas por entidade diversa do respectivo titular.
+Art. 4.º Serão canceladas todas as licenças que se mostrem ser exploradas por entidade diversa do respectivo titular.
 
-###### Art. 5.º Gozam de preferência idêntica à consagrada no artigo 3.º as sociedades cooperativas formadas por condutores, titulares de, pelo menos, vinte licenças, relativamente às dos sócios que serão canceladas em virtude do disposto no artigo anterior.
+Art. 5.º Gozam de preferência idêntica à consagrada no artigo 3.º as sociedades cooperativas formadas por condutores, titulares de, pelo menos, vinte licenças, relativamente às dos sócios que serão canceladas em virtude do disposto no artigo anterior.
 
-###### Art. 6.º Às licenças concedidas anteriormente à vigência deste diploma aplicar-se-á o regime actualmente em vigor, durante dois anos, findos os quais ficam as licenças sujeitas integralmente ao regime definido nos artigos precedentes, consolidando-se no último titular.
+Art. 6.º Às licenças concedidas anteriormente à vigência deste diploma aplicar-se-á o regime actualmente em vigor, durante dois anos, findos os quais ficam as licenças sujeitas integralmente ao regime definido nos artigos precedentes, consolidando-se no último titular.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

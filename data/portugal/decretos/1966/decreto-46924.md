@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/03/07300/04250448.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,77 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-08-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77ce61c459428493d96f1e3c55f054440215ccd6d897421e0ef69fed54ffac1d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a4f6afdbfc62569ed6d5f092d96ba9f198776f07042865c3edd46916119ea74
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Estabelecimento Industrial
+- Poluição Industrial
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:329987:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "SUBSTITUIDA A TABELA PELA PORTARIA NUMERO 24223, PUBLICADA NO DIARIO DO GOVERNO, I SERIE, NUMERO 181, DE 690804.\
+    \ REVOGADO PELO DECRETO LEI NUMERO 109/91, PUBLICADO NO DIARIO DA REPUBLICA, I SERIE, NUMERO 62, DE 910315.U\0315.U\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1969-08-04'
+- type: amended_by
+  target: pt:dre:405755:por
+  label: "Substituída a tabela anexa ao presente diploma, pela PORT.24223.04.08.1969.MECO, DG.IS [181]Supl de 04.08.1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24223-1969-405755
+  date: '1969-08-04'
+- type: amended_by
+  target: pt:dre:217108:por
+  label: "Eliminada a indústria de fabricação de produtos radioactivos da tabela anexa deste diploma, com a redacção conferida\
+    \ pela Port 24223 de 04-Ago de 1969, pelo DEC LEI.49398.24.11.1969.PC, DG.IS [275] de 24.11.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49398-1969-217108
+  date: '1969-11-24'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:475542:por
+  label: "Revogado, a partir de 01.01.1991, pelo DEC LEI.109/91.1991.03.15.MIE, DR.IS-A [62]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/109-1991-475542
+  date: '1991-03-15'
+- type: repealed_by
+  target: pt:dre:321917:por
+  label: "Revogadas as disposições relativas ao exercício da actividade da indústria transformadora da pesca, em terra, pelo\
+    \ DEC LEI.427/91.31.10.1991.MAPA, DR.IS-A [251] de 31.10.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/427-1991-321917
+  date: '1991-10-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:17Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +131,7 @@ I
 
 Da definição e classificação dos estabelecimentos industriais
 
-###### Artigo 1.º - 1. Para efeitos do presente regulamento entende-se por estabelecimento industrial todo o estabelecimento onde se exerça actividade constante das rubricas da tabela anexa, independentemente das limitações nela estabelecidas com base na dimensão do equipamento, no número de operários ou em outros factores de produção.
+Artigo 1.º - 1. Para efeitos do presente regulamento entende-se por estabelecimento industrial todo o estabelecimento onde se exerça actividade constante das rubricas da tabela anexa, independentemente das limitações nela estabelecidas com base na dimensão do equipamento, no número de operários ou em outros factores de produção.
 
 2. Os estabelecimentos industriais classificam-se de 1.ª, 2.ª e 3.ª classe.
 
@@ -116,21 +153,21 @@ Os estabelecimentos em que se empreguem mais de dez trabalhadores.
 
 c) Consideram-se de 3.ª classe todos os estabelecimentos aos quais não deva ser dada outra classificação.
 
-###### Art. 2.º A tabela anexa a este diploma e as disposições estabelecidas nas diversas alíneas do artigo anterior poderão ser alteradas mediante portaria conjunta dos Ministros das Corporações e Previdência Social e da Saúde e Assistência e do Secretário de Estado da Indústria, devendo ainda essa portaria ser assinada pelo Secretário de Estado da Agricultura quando as alterações afectem indústrias cuja superintendência técnica seja da competência de serviços dependentes da respectiva Secretaria de Estado.
+Art. 2.º A tabela anexa a este diploma e as disposições estabelecidas nas diversas alíneas do artigo anterior poderão ser alteradas mediante portaria conjunta dos Ministros das Corporações e Previdência Social e da Saúde e Assistência e do Secretário de Estado da Indústria, devendo ainda essa portaria ser assinada pelo Secretário de Estado da Agricultura quando as alterações afectem indústrias cuja superintendência técnica seja da competência de serviços dependentes da respectiva Secretaria de Estado.
 
 II
 
 A) Da instalação dos estabelecimentos industriais de 1.ª classe
 
-###### Art. 3.º As instalações, alterações ou ampliações dos estabelecimentos industriais de 1.ª classe só podem efectuar-se depois da aprovação dos respectivos projectos pela direcção-geral que superintenda na indústria considerada.
+Art. 3.º As instalações, alterações ou ampliações dos estabelecimentos industriais de 1.ª classe só podem efectuar-se depois da aprovação dos respectivos projectos pela direcção-geral que superintenda na indústria considerada.
 
-###### Art. 4.º - 1. A localização dos referidos estabelecimentos em centros urbanos ou abrangidos por planos de urbanização aprovados só poderá ser autorizada dentro das zonas industriais que tiverem sido previstas ou, na sua falta, mediante aprovação da Direcção-Geral dos Serviços de Urbanização ou da entidade que no local exercer a pertinente jurisdição.
+Art. 4.º - 1. A localização dos referidos estabelecimentos em centros urbanos ou abrangidos por planos de urbanização aprovados só poderá ser autorizada dentro das zonas industriais que tiverem sido previstas ou, na sua falta, mediante aprovação da Direcção-Geral dos Serviços de Urbanização ou da entidade que no local exercer a pertinente jurisdição.
 
 2. Na localização dos estabelecimentos industriais serão tidos em conta os aspectos sociais, quer no que respeita à distribuição da mão-de-obra, quer quanto às necessidades habitacionais.
 
 3. Na aprovação da localização dos estabelecimentos industriais será considerado o disposto no artigo 9.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961, a aplicar quer a indústrias sujeitas a condicionamento industrial, quer às que movimentem grandes quantidades de mercadorias.
 
-###### Art. 5.º - 1. Os pedidos de licenciamento serão feitos em requerimento dirigido ao director-geral competente e entregues nos serviços externos em cuja área se situar o estabelecimento, dele devendo constar o nome, nacionalidade e domicílio do requerente, qualidade em que faz o pedido, localização do estabelecimento, modalidade ou modalidades industriais a explorar e, se estas estiverem sujeitas a condicionamento industrial, indicação do respectivo despacho de autorização.
+Art. 5.º - 1. Os pedidos de licenciamento serão feitos em requerimento dirigido ao director-geral competente e entregues nos serviços externos em cuja área se situar o estabelecimento, dele devendo constar o nome, nacionalidade e domicílio do requerente, qualidade em que faz o pedido, localização do estabelecimento, modalidade ou modalidades industriais a explorar e, se estas estiverem sujeitas a condicionamento industrial, indicação do respectivo despacho de autorização.
 
 2. Os pedidos referidos no número anterior serão acompanhados dos seguintes documentos:
 
@@ -178,9 +215,9 @@ c) Memória descritiva que mencione:
 
 4. A memória descritiva referida na alínea c) do número anterior deverá limitar-se a mencionar o que não constar do processo de autorização, quando a modalidade industrial estiver sujeita ao condicionamento industrial.
 
-###### Art. 6.º O chefe do serviço onde tiver sido apresentado o pedido remetê-lo-á imediatamente aos serviços competentes da respectiva direcção-geral.
+Art. 6.º O chefe do serviço onde tiver sido apresentado o pedido remetê-lo-á imediatamente aos serviços competentes da respectiva direcção-geral.
 
-###### Art. 7.º - 1. Os serviços da direcção-geral, recebido o pedido, remeterão logo um dos exemplares do projecto à Direcção-Geral de Saúde.
+Art. 7.º - 1. Os serviços da direcção-geral, recebido o pedido, remeterão logo um dos exemplares do projecto à Direcção-Geral de Saúde.
 
 2. Esta Direcção-Geral deverá devolver este exemplar com o seu parecer, no prazo de 30 dias, salvo se, pela complexidade especial do projecto, carecer de novo prazo, o que, para os devidos efeitos, comunicará dentro dos 30 dias iniciais.
 
@@ -188,13 +225,13 @@ c) Memória descritiva que mencione:
 
 4. Os serviços da Direcção-Geral de Saúde poderão visitar o local da futura instalação quando entenderem que tal é necessário para uma conveniente apreciação do pedido e elaboração do respectivo parecer.
 
-###### Art. 8.º - 1. Recebido o parecer referido no artigo anterior, os serviços da Direcção-Geral submeterão o processo a despacho do director-geral nos dez dias seguintes, com a sua proposta fundamentada, tomando em consideração os regulamentos vigentes, as particularidades de cada caso ou as condições do local.
+Art. 8.º - 1. Recebido o parecer referido no artigo anterior, os serviços da Direcção-Geral submeterão o processo a despacho do director-geral nos dez dias seguintes, com a sua proposta fundamentada, tomando em consideração os regulamentos vigentes, as particularidades de cada caso ou as condições do local.
 
 2. Na falta de regulamentos para a actividade considerada, os critérios de ordem geral a adoptar serão estabelecidos de acordo com as Direcções-Gerais do Trabalho e Corporações e da Saúde.
 
 3. Estas Direcções-Gerais poderão sempre apresentar o seu parecer sobre a orientação seguida pelos serviços competentes na aplicação dos regulamentos ou directivas de ordem geral.
 
-###### Art. 9.º - 1. O director-geral deverá, no caso de o processo revelar deficiências, mandar notificar imediatamente o requerente para, em prazo certo, as suprir ou proceder às modificações que se mostrarem necessárias, sob pena de indeferimento.
+Art. 9.º - 1. O director-geral deverá, no caso de o processo revelar deficiências, mandar notificar imediatamente o requerente para, em prazo certo, as suprir ou proceder às modificações que se mostrarem necessárias, sob pena de indeferimento.
 
 2. O despacho do director-geral será sempre fundamentado e averbado nos exemplares do projecto, arquivando-se um deles e remetendo-se os restantes ao requerente, ao serviço externo e à câmara municipal.
 
@@ -204,19 +241,19 @@ c) Memória descritiva que mencione:
 
 B) Da instalação das estabelecimentos industriais de 2.ª e 3.ª classe
 
-###### Art. 10.º Os estabelecimentos de 2.ª e 3.ª classe não carecem de aprovação de projecto.
+Art. 10.º Os estabelecimentos de 2.ª e 3.ª classe não carecem de aprovação de projecto.
 
 III
 
 A) Da laboração dos estabelecimentos industriais de 1.ª e 2.ª classe
 
-###### Art. 11.º - 1. A laboração dos estabelecimentos industriais de 1.ª e 2.ª classe não poderá iniciar-se sem aprovação das condições de salubridade, higiene, segurança, comodidade e técnico-funcionais, próprias de cada modalidade industrial.
+Art. 11.º - 1. A laboração dos estabelecimentos industriais de 1.ª e 2.ª classe não poderá iniciar-se sem aprovação das condições de salubridade, higiene, segurança, comodidade e técnico-funcionais, próprias de cada modalidade industrial.
 
 2. O disposto neste artigo é igualmente aplicável às alterações ou ampliações introduzidas nos referidos estabelecimentos.
 
-###### Art. 12.º Depois de terminadas, as instalações serão vistoriadas a pedido dos interessados, conjuntamente por técnicos da direcção-geral por onde correr o processo, da Direcção-Geral do Trabalho e Corporações e da Direcção-Geral de Saúde, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos.
+Art. 12.º Depois de terminadas, as instalações serão vistoriadas a pedido dos interessados, conjuntamente por técnicos da direcção-geral por onde correr o processo, da Direcção-Geral do Trabalho e Corporações e da Direcção-Geral de Saúde, podendo, sempre que necessário, ser requisitada a intervenção de outros técnicos.
 
-###### Art. 13.º - 1. O pedido de vistoria será feito em requerimento, dirigido ao chefe do serviço externo competente, e deverá, no caso de se referir a um estabelecimento de 2.ª classe, fazer-se acompanhar do duplicado da guia de depósito da importância correspondente ao pagamento da taxa devida.
+Art. 13.º - 1. O pedido de vistoria será feito em requerimento, dirigido ao chefe do serviço externo competente, e deverá, no caso de se referir a um estabelecimento de 2.ª classe, fazer-se acompanhar do duplicado da guia de depósito da importância correspondente ao pagamento da taxa devida.
 
 2. Verificado que foram observados os preceitos legais e regulamentares, será acordado com os serviços das direcções-gerais que devam intervir quando poderá realizar-se a vistoria, dentro do prazo de vinte dias seguintes ao da apresentação do requerimento referido no n.º 1.
 
@@ -232,39 +269,39 @@ d) Quaisquer condições que se julgue necessário impor e prazo a fixar para o 
 
 e) Prazo a fixar para a laboração, a título experimental, quando esta se mostrar conveniente.
 
-###### Art. 14.º - 1. Recebido o auto referido no artigo anterior, se os pareceres dos peritos forem unânimes, o chefe do serviço competente notificará, no prazo de oito dias, o requerente e os reclamantes, se os houver.
+Art. 14.º - 1. Recebido o auto referido no artigo anterior, se os pareceres dos peritos forem unânimes, o chefe do serviço competente notificará, no prazo de oito dias, o requerente e os reclamantes, se os houver.
 
 2. Se os pareceres não forem unânimes, o processo subirá ao director-geral competente, que o submeterá a despacho do respectivo Secretário de Estado. No caso, porém, de o parecer divergente ser o do representante da Direcção-Geral de Saúde, e se esta, prèviamente consultada, entender que a divergência incide sobre matéria de relevante interesse para a saúde pública ou dos trabalhadores e confirmar aquele parecer, o processo subirá a despacho do Ministro da Saúde e Assistência, que determinará quais as condições mínimas indispensáveis para poder ser autorizada a laboração.
 
 3. A direcção-geral competente imporá o cumprimento das condições que forem expressamente indicadas nos despachos ministeriais.
 
-###### Art. 15.º A aprovação concedida não impede que, em qualquer altura, as entidades a quem compete a fiscalização dos estabelecimentos industriais imponham a aplicação de novas providências tendentes a eliminar os inconvenientes que posteriormente se tenham verificado ou a adopção de novos processos de protecção dos trabalhadores ou das zonas circundantes da instalação.
+Art. 15.º A aprovação concedida não impede que, em qualquer altura, as entidades a quem compete a fiscalização dos estabelecimentos industriais imponham a aplicação de novas providências tendentes a eliminar os inconvenientes que posteriormente se tenham verificado ou a adopção de novos processos de protecção dos trabalhadores ou das zonas circundantes da instalação.
 
-###### Art. 16.º - 1. Findo o prazo fixado para o cumprimento de quaisquer condições ou para a laboração a título experimental, previsto nas alíneas d) e e) do n.º 3 do artigo 13.º, proceder-se-á a nova vistoria por técnico da direcção-geral competente, da Direcção-Geral de Saúde ou da Direcção-Geral do Trabalho e Corporações, consoante tenha sido acordado na vistoria realizada nos termos do artigo 12.º, podendo intervir, quando for julgado necessário ou não tiver havido acordo, mais do que um destes técnicos ou quaisquer outros especialmente requisitados.
+Art. 16.º - 1. Findo o prazo fixado para o cumprimento de quaisquer condições ou para a laboração a título experimental, previsto nas alíneas d) e e) do n.º 3 do artigo 13.º, proceder-se-á a nova vistoria por técnico da direcção-geral competente, da Direcção-Geral de Saúde ou da Direcção-Geral do Trabalho e Corporações, consoante tenha sido acordado na vistoria realizada nos termos do artigo 12.º, podendo intervir, quando for julgado necessário ou não tiver havido acordo, mais do que um destes técnicos ou quaisquer outros especialmente requisitados.
 
 2. Esta vistoria deverá realizar-se nos 30 dias seguintes ao termo do prazo fixado e o respectivo auto será entregue nos 8 dias seguintes ao chefe do serviço externo competente, mencionando-se nele tudo o que interessa à apreciação das condições de laboração.
 
 3. Do auto será dado conhecimento, por cópia, às Direcções-Gerais de Saúde e do Trabalho e Corporações, quando delegados destas não tenham intervindo na vistoria, podendo estas Direcções-Gerais, no prazo de oito dias, fazer as observações que tiverem por convenientes.
 
-###### Art. 17.º - 1. No caso do não cumprimento das condições que tiverem sido fixadas, o chefe dos servimos externos ordenará as providências necessárias para remediar os inconvenientes que se pretenda evitar, incluindo, nomeadamente, a selagem de parte ou de todo o equipamento fabril.
+Art. 17.º - 1. No caso do não cumprimento das condições que tiverem sido fixadas, o chefe dos servimos externos ordenará as providências necessárias para remediar os inconvenientes que se pretenda evitar, incluindo, nomeadamente, a selagem de parte ou de todo o equipamento fabril.
 
 2. Cessarão as providências referidas no número anterior quando o chefe dos serviços externos após a apresentação do auto de nova vistoria realizada por um técnico ou técnicos designados de acordo com o n.º 1 do artigo anterior, a requerimento do interessado, e durante os 30 dias seguintes ao da apresentação da guia de depósito correspondente ao pagamento da taxa devida, verificar que se mostram removidos os inconvenientes que se pretendia evitar.
 
 3. Da decisão final será sempre dado conhecimento às Direcções-Gerais referidas no n.º 3 do artigo anterior, no caso de nenhum dos seus técnicos ter intervindo na vistoria.
 
-###### Art. 18.º - 1. Quando se tratar de indústrias que utilizam matérias-primas de origem animal destinadas à alimentação, participará na vistoria também um técnico da Direcção-Geral dos Serviços Pecuários.
+Art. 18.º - 1. Quando se tratar de indústrias que utilizam matérias-primas de origem animal destinadas à alimentação, participará na vistoria também um técnico da Direcção-Geral dos Serviços Pecuários.
 
 2. A renovação anual da licença a conceder pela Direcção-Geral dos Serviços Pecuários só poderá fazer-se com prévia vistoria a realizar pelo intendente de pecuária da área do estabelecimento.
 
 B) Da laboração dos estabelecimentos industriais de 3.ª classe
 
-###### Art. 19.º A laboração dos estabelecimentos de 3.ª classe não fica dependente de aprovação, sem prejuízo da obrigação de satisfazerem às condições de salubridade, higiene, segurança, comodidade e técnico-funcionais exigidas pelas leis e regulamentos e da sua fiscalização nos termos fixados para os demais estabelecimentos.
+Art. 19.º A laboração dos estabelecimentos de 3.ª classe não fica dependente de aprovação, sem prejuízo da obrigação de satisfazerem às condições de salubridade, higiene, segurança, comodidade e técnico-funcionais exigidas pelas leis e regulamentos e da sua fiscalização nos termos fixados para os demais estabelecimentos.
 
 IV
 
 Da transmissão de estabelecimentos industriais
 
-###### Art. 20.º - 1. A transmissão, por qualquer título, da propriedade ou fruição de estabelecimento industrial de 1.ª ou 2.ª classe, de harmonia com as disposições legais em vigor, será averbada no respectivo processo, a requerimento do interessado, sem prejuízo do disposto em legislação especial.
+Art. 20.º - 1. A transmissão, por qualquer título, da propriedade ou fruição de estabelecimento industrial de 1.ª ou 2.ª classe, de harmonia com as disposições legais em vigor, será averbada no respectivo processo, a requerimento do interessado, sem prejuízo do disposto em legislação especial.
 
 2. O requerimento referido no número anterior deverá ser dirigido ao chefe do serviço externo competente e instruído com documento probatório da transmissão, averbando-se esta imediatamente.
 
@@ -272,11 +309,11 @@ V
 
 Disposições gerais e transitórias
 
-###### Art. 21.º Os directores-gerais, no exercício da sua competência, poderão solicitar da Direcção-Geral dos Serviços Eléctricos a notificação, pelos seus serviços competentes, das empresas concessionárias da distribuição de energia eléctrica para interromperem o fornecimento desta a qualquer estabelecimento industrial, cuja laboração, nos termos do preceituado neste regulamento, tiver sido suspensa, temporária ou definitivamente, mas, naquele caso, com indicação do período durante o qual deverá manter-se a suspensão.
+Art. 21.º Os directores-gerais, no exercício da sua competência, poderão solicitar da Direcção-Geral dos Serviços Eléctricos a notificação, pelos seus serviços competentes, das empresas concessionárias da distribuição de energia eléctrica para interromperem o fornecimento desta a qualquer estabelecimento industrial, cuja laboração, nos termos do preceituado neste regulamento, tiver sido suspensa, temporária ou definitivamente, mas, naquele caso, com indicação do período durante o qual deverá manter-se a suspensão.
 
-###### Art. 22.º Às direcções-gerais compete adaptar aos processos pendentes o preceituado neste regulamento, suprindo, quando necessário, as faltas e omissões.
+Art. 22.º Às direcções-gerais compete adaptar aos processos pendentes o preceituado neste regulamento, suprindo, quando necessário, as faltas e omissões.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho - Domingos Rosado Vitória Pires - Manuel Rafael Amaro da Costa.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46766-1965-508190
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e0b378fdcf231edaee2b23d22731340dd1a7bb5e4fdc57c3f5afe4ba13d4688
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f4aa34b1b6c8f9291358f32c73f47dd99b8d1ed2726a03f110682cba602a90de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:01Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +96,10 @@ Tendo em vista o disposto no artigo 22.º do [Decreto-Lei n.º 41375](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Fortificações e Obras Militares do Ministério do Exército a celebrar contrato com a Sociedade de Construções Fernando Pires Coelho, Lda., para execução, nos anos de 1965, 1966, 1967 e 1968, da obra das novas instalações do Laboratório Militar de Produtos Químicos e Farmacêuticos, em Lisboa, pela importância de 32522705$80, incluindo a percentagem para fundo privativo de expediente e administração.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Fortificações e Obras Militares do Ministério do Exército a celebrar contrato com a Sociedade de Construções Fernando Pires Coelho, Lda., para execução, nos anos de 1965, 1966, 1967 e 1968, da obra das novas instalações do Laboratório Militar de Produtos Químicos e Farmacêuticos, em Lisboa, pela importância de 32522705$80, incluindo a percentagem para fundo privativo de expediente e administração.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá o conselho administrativo da Direcção do Serviço de Fortificações e Obras Militares despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 9000000$00 no ano de 1965, 12000000$00 no ano de 1966, 10000000$00 no ano de 1967 e 1522705$80, ou o que se apurar como saldo, no ano de 1968.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá o conselho administrativo da Direcção do Serviço de Fortificações e Obras Militares despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 9000000$00 no ano de 1965, 12000000$00 no ano de 1966, 10000000$00 no ano de 1967 e 1522705$80, ou o que se apurar como saldo, no ano de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.

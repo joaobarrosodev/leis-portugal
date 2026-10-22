@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46554-1965-510241
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f6dcd4a7d7f61d9b21d5f7c27a7c2eda3c39fbfbd59c1b521e69fdc745f4ea5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3d5f99b736eece0f46803c038cfd386acc58b3f55c9c18d2bc7cdadb5de57277
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:51Z'
   warnings: []
   errors: []
 ---
@@ -84,11 +84,11 @@ validation:
 
 Usando da faculdade que me confere o n.º 3.º do artigo 81.º da Constituição, hei por bem decretar o seguinte:
 
-###### Artigo 1.º É fixado o dia 7 de Novembro do ano corrente para a eleição geral dos Deputados à Assembleia Nacional.
+Artigo 1.º É fixado o dia 7 de Novembro do ano corrente para a eleição geral dos Deputados à Assembleia Nacional.
 
-###### Art. 2.º Este diploma aplica-se a todo o território da República e entra em vigor imediatamente.
+Art. 2.º Este diploma aplica-se a todo o território da República e entra em vigor imediatamente.
 
-**Publique-se.**
+Publique-se.
 
 Paços do Governo da República, 27 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Joaquim Moreira da Silva Cunha.
 

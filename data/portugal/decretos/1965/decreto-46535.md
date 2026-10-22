@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46535-1965-509843
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08982e910d0f7b866118a77badd7f0102dd93d0ba8bfe8a2ab7dacb506de60aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6cf73c380b2bac536b49dc5a4dd861d58218cc2e6f5d56fd80fdf983cfa3241e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:41Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +101,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A alínea c) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, passa a ter a seguinte redacção:
+Artigo 1.º A alínea c) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, passa a ter a seguinte redacção:
 
 c) Radiotelegrafistas de 3.ª classe - certificado de cursos adequados professados em estabelecimentos dependentes de serviços oficiais, civis ou militares, e, na sua falta, o 2.º ciclo dos liceus ou outras habilitações equivalentes e ainda a aprovação no exame das matérias constantes do artigo 259.º
 
-###### Art. 2.º Ao artigo 221.º do mesmo decreto é aditado o seguinte parágrafo:
+Art. 2.º Ao artigo 221.º do mesmo decreto é aditado o seguinte parágrafo:
 
 § único. Sempre que as necessidades dos serviços o exijam, o Ministro do Ultramar, mediante proposta devidamente fundamentada dos directores dos serviços ou dos chefes das repartições provinciais, conforme os casos, e com parecer favorável do governador da província respectiva, poderá determinar que a qualquer concurso para ingresso nos quadros privativos dos correios, telégrafos e telefones do ultramar só sejam admitidos indivíduos do sexo masculino.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

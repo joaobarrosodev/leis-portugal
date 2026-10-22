@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46849-1966-489517
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bd5a5720ebd61d22e5b3f42144abce994acdd6e012abb7c78d5c848d20cd6ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95d57eadadff8dca57765c02b2f5694ceea4e0f62ca051b46fee2fb0e0ad2bcd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:415233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490198:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:44Z'
   warnings: []
   errors: []
 ---
@@ -99,29 +111,29 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao pessoal dos quadros comum e privativo dos serviços da Fazenda e contabilidade das províncias ultramarinas, compreendendo o dos quadros especiais de recebedores e das Inspecções Provinciais de Angola e Moçambique, é atribuída uma percentagem de 3 por cento sobre o total da cobrança dos impostos directos gerais e do imposto do selo.
+Artigo 1.º Ao pessoal dos quadros comum e privativo dos serviços da Fazenda e contabilidade das províncias ultramarinas, compreendendo o dos quadros especiais de recebedores e das Inspecções Provinciais de Angola e Moçambique, é atribuída uma percentagem de 3 por cento sobre o total da cobrança dos impostos directos gerais e do imposto do selo.
 
 § 1.º Das receitas referidas no corpo do artigo são excluídas as provenientes do imposto geral mínimo, do imposto domiciliário ou de outros impostos de idêntica natureza.
 
 § 2.º Quando o total da cobrança for inferior à previsão, a percentagem será reduzida de 1,5 por cento.
 
-###### Art. 2.º O rateio de percentagem será feito proporcionalmente aos vencimentos base e complementar de cada agente, não podendo o seu produto exceder mensalmente um terço da soma desses vencimentos, respeitados sempre os limites expressos nos artigos 154.º e 155.º do Estatuto do Funcionalismo Ultramarino.
+Art. 2.º O rateio de percentagem será feito proporcionalmente aos vencimentos base e complementar de cada agente, não podendo o seu produto exceder mensalmente um terço da soma desses vencimentos, respeitados sempre os limites expressos nos artigos 154.º e 155.º do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º Os funcionários que ocupem interinamente lugares superiores ou intermédios da respectiva hierarquia, e bem assim os que, por substituição, exerçam funções superiores, terão direito à percentagem calculada proporcionalmente à totalidade dos vencimentos do cargo assim provido.
 
 § 2.º Não terão direito ao abono da percentagem os agentes que demonstrem falta de zelo e dedicação pelo serviço, revertendo para o Estado a parte que lhes competir no rateio.
 
-###### Art. 3.º A percentagem será paga mensalmente, depois de terem dado entrada na Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade todos os elementos de contabilidade da receita e despesa relativas ao mês anterior e de ter sido elaborada a competente tabela M/29.
+Art. 3.º A percentagem será paga mensalmente, depois de terem dado entrada na Direcção ou Repartição Provincial dos Serviços de Fazenda e Contabilidade todos os elementos de contabilidade da receita e despesa relativas ao mês anterior e de ter sido elaborada a competente tabela M/29.
 
-###### Art. 4.º Cessam, a partir da entrada em vigor do presente diploma em cada uma das províncias ultramarinas, todas as percentagens ou comparticipações em receitas que vêm sendo abonadas aos agentes dos serviços de Fazenda e contabilidade pela sua intervenção na arrecadação dos réditos públicos, incluindo os destinados aos corpos administrativos.
+Art. 4.º Cessam, a partir da entrada em vigor do presente diploma em cada uma das províncias ultramarinas, todas as percentagens ou comparticipações em receitas que vêm sendo abonadas aos agentes dos serviços de Fazenda e contabilidade pela sua intervenção na arrecadação dos réditos públicos, incluindo os destinados aos corpos administrativos.
 
-###### Art. 5.º As disposições das alíneas b) e c) do § 1.º do artigo 153.º do Estatuto do Funcionalismo Ultramarino não são aplicáveis na recepção de custas executivas cobradas nos juízos das execuções fiscais, observando-se, contudo, no seu abono, os limites expressos nos seus artigos 154.º e 155.º
+Art. 5.º As disposições das alíneas b) e c) do § 1.º do artigo 153.º do Estatuto do Funcionalismo Ultramarino não são aplicáveis na recepção de custas executivas cobradas nos juízos das execuções fiscais, observando-se, contudo, no seu abono, os limites expressos nos seus artigos 154.º e 155.º
 
 § 1.º Ao abono das custas referido no corpo deste artigo são aplicáveis as disposições do artigo 157.º do Estatuto do Funcionalismo Ultramarino, não podendo proceder-se à sua liquidação sem que prèviamente se tenha observado o rigoroso cumprimento do preceituado no artigo 159.º do Código das Execuções Fiscais, aprovado pelo [Decreto n.º 38088](https://diariodarepublica.pt/dr/detalhe/decreto/38088-1950-490198), de 12 de Dezembro de 1950.
 
 § 2.º É revogado o § 1.º do artigo 269.º do Código das Execuções Fiscais, aprovado pelo [Decreto n.º 38088](https://diariodarepublica.pt/dr/detalhe/decreto/38088-1950-490198), de 12 de Dezembro de 1950.
 
-###### Art. 6.º São aumentadas as seguintes unidades à Inspecção Provincial de Fazenda e Contabilidade de Angola:
+Art. 6.º São aumentadas as seguintes unidades à Inspecção Provincial de Fazenda e Contabilidade de Angola:
 
 a) Quadro do pessoal inspectivo de Fazenda:
 
@@ -135,13 +147,13 @@ b) Quadro do pessoal inspectivo contabilista:
 
 2 de inspector.
 
-###### Art. 7.º As alíneas a) e d) do artigo 3.º do [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, passam a ter a seguinte redacção:
+Art. 7.º As alíneas a) e d) do artigo 3.º do [Decreto n.º 36253](https://diariodarepublica.pt/dr/detalhe/decreto/36253-1947-415233), de 26 de Abril de 1947, passam a ter a seguinte redacção:
 
 a) Terem menos de 35 e mais de 18 anos de idade;
 
 b) Estarem sujeitos às leis de recrutamento militar e terem satisfeito às suas prescrições.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

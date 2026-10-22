@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d43401b4359712a331ff259f885dd7c2b65647b499a74ba8d5a0242be918142d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7fa792f9d69c5d8563efde4ce1c6e594f8f75ae439bc365ea7d1e2fc1594e4d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,57 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:174317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:404294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:409954:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:03Z'
   warnings: []
   errors: []
 ---
@@ -99,41 +139,41 @@ Dado o que dispõe o § 1.º do artigo 150.º da Constituição, por motivo de u
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Ministro do Ultramar é autorizado a celebrar com a Angol - Sociedade de Lubrificantes e Combustíveis, S. A. R. L., um contrato de concessão nos termos dos artigos seguintes:
+Artigo 1.º O Ministro do Ultramar é autorizado a celebrar com a Angol - Sociedade de Lubrificantes e Combustíveis, S. A. R. L., um contrato de concessão nos termos dos artigos seguintes:
 
 ### CAPÍTULO I — Do objecto da concessão
 
-###### Art. 2.º - 1. A concessão abrange o direito de prospectar, pesquisar, desenvolver e explorar, em regime de exclusivo, nos termos e nas condições deste decreto, todos os jazigos de hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, e ainda enxofre, hélio, dióxido de carbono e substâncias salinas que existam na área da concessão definida no artigo seguinte.
+Art. 2.º - 1. A concessão abrange o direito de prospectar, pesquisar, desenvolver e explorar, em regime de exclusivo, nos termos e nas condições deste decreto, todos os jazigos de hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, e ainda enxofre, hélio, dióxido de carbono e substâncias salinas que existam na área da concessão definida no artigo seguinte.
 
 2. Não é aplicável a esta concessão o disposto no artigo 62.º do Decreto de 20 de Setembro de 1906.
 
 3. Os direitos concedidos por este diploma não prejudicam quaisquer direitos da mesma natureza anteriormente adquiridos por outras entidades.
 
-###### Art. 3.º - 1. A área da concessão compreende as seguintes zonas da província de Angola, as quais são definidas pelas coordenadas dos vértices das poligonais que as delimitam de harmonia com os quadros seguintes:
+Art. 3.º - 1. A área da concessão compreende as seguintes zonas da província de Angola, as quais são definidas pelas coordenadas dos vértices das poligonais que as delimitam de harmonia com os quadros seguintes:
 
 a) Zonas terrestre e marítima do Ambriz:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf))](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf)
 
 b) Zona marítima da área do Congo entre o limite oeste da concessão da Companhia de Petróleos de Angola (Petrangol), S. A. R. L., adiante designada por Petrangol, e a isóbata de 200 m:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf))](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf)
 
 c) Zona oriental da bacia do Cuanza entre o limite este da concessão da Petrangol e a linha-limite da faixa sedimentar:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf))](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/00900/00570067.pdf)
 
 2. Na concessão incluem-se, respeitados os limites referidos no número anterior, os leitos dos lagos, rios e quaisquer cursos de água, bem como as ilhas da faixa marítima.
 
 3. O limite lateral norte da área definida na alínea b) do n.º 1 deste artigo poderá sofrer algum ajustamento que resulte de eventual acordo com país limítrofe, de harmonia com as convenções internacionais ratificadas pelo [Decreto-Lei n.º 44490](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44490-1962-164001), de 3 de Agosto de 1962.
 
-###### Art. 4.º - 1. O direito de prospecção, pesquisa e desenvolvimento é concedido até 31 de Dezembro de 1971, sem prejuízo do disposto nos artigos 5.º e 7.º deste decreto.
+Art. 4.º - 1. O direito de prospecção, pesquisa e desenvolvimento é concedido até 31 de Dezembro de 1971, sem prejuízo do disposto nos artigos 5.º e 7.º deste decreto.
 
 2. O período fixado no número anterior será prorrogado por mais três anos a pedido da concessionária, se esta tiver cumprido, integralmente, todas as obrigações contratuais e legais em vigor.
 
 3. O pedido de prorrogação a que se refere o número anterior só poderá abranger 75 por cento das áreas terrestres e marítimas definidas no n.º 1 do artigo 3.º que em 31 de Dezembro de 1971 não correspondam a jazigos definitivamente demarcados, sendo as restantes, à escolha da concessionária, tornadas livres.
 
-###### Art. 5.º - 1. O pedido de prorrogação, a apresentar ao Ministro do Ultramar até 30 de Setembro de 1971, deve incluir todos os elementos necessários à sua apreciação e será acompanhado de uma carta, na escala de 1:100000, indicando as demarcações dos jazigos em exploração e as áreas a conservar e a libertar, bem como as coordenadas dos vértices que as definem.
+Art. 5.º - 1. O pedido de prorrogação, a apresentar ao Ministro do Ultramar até 30 de Setembro de 1971, deve incluir todos os elementos necessários à sua apreciação e será acompanhado de uma carta, na escala de 1:100000, indicando as demarcações dos jazigos em exploração e as áreas a conservar e a libertar, bem como as coordenadas dos vértices que as definem.
 
 2. Nenhuma área a libertar poderá ser inferior a 100 km2.
 
@@ -143,11 +183,11 @@ c) Zona oriental da bacia do Cuanza entre o limite este da concessão da Petrang
 
 5. Terminado o período indicado no n.º 1 do artigo 4.º, ou as suas prorrogações, as áreas que não correspondam a jazigos na fase de exploração, tal como vem referido na alínea d) do artigo 19.º, serão consideradas inteiramente livres, sem prejuízo do que se estabelece no n.º 3 do artigo 7.º
 
-###### Art. 6.º - 1. A prospecção, pesquisa, desenvolvimento e exploração de jazigos de enxofre, hélio, dióxido de carbono e substâncias salinas serão feitas de acordo com a lei geral de minas que vigorar e cessarão automàticamente se a concessionária, uma vez intimada para iniciar ou continuar os trabalhos em qualquer jazigo, o não fizer, em termos normais, no prazo de 120 dias.
+Art. 6.º - 1. A prospecção, pesquisa, desenvolvimento e exploração de jazigos de enxofre, hélio, dióxido de carbono e substâncias salinas serão feitas de acordo com a lei geral de minas que vigorar e cessarão automàticamente se a concessionária, uma vez intimada para iniciar ou continuar os trabalhos em qualquer jazigo, o não fizer, em termos normais, no prazo de 120 dias.
 
 2. O Estado e a concessionária poderão regular, em contratos especiais, a disciplina das operações referidas no número anterior.
 
-###### Art. 7.º - 1. O direito de exploração é concedido por um período de 40 anos, que terá início, para cada jazigo, na data da respectiva demarcação definitiva.
+Art. 7.º - 1. O direito de exploração é concedido por um período de 40 anos, que terá início, para cada jazigo, na data da respectiva demarcação definitiva.
 
 2. O período fixado no número anterior será prorrogado por mais dez anos, se for reconhecido que a concessionária cumpriu as suas obrigações legais e contratuais e actuou de acordo com os superiores interesses do Estado.
 
@@ -155,7 +195,7 @@ c) Zona oriental da bacia do Cuanza entre o limite este da concessão da Petrang
 
 4. A concessionária terá o direito de explorar, na área de qualquer jazigo definitivamente demarcado e enquanto se mantiver o direito de exploração desse jazigo, todas as substâncias referidas no n.º 1 do artigo 2.º, sem prejuízo do estabelecido no artigo 6.º
 
-###### Art. 8.º - 1. Qualquer jazigo que tenha sido definitivamente demarcado nos termos do artigo 19.º poderá ser considerado abandonado e a sua área declarada livre a requerimento da concessionária, ou por decisão do Governo.
+Art. 8.º - 1. Qualquer jazigo que tenha sido definitivamente demarcado nos termos do artigo 19.º poderá ser considerado abandonado e a sua área declarada livre a requerimento da concessionária, ou por decisão do Governo.
 
 2. O Governo considerará como abandonado qualquer jazigo quando:
 
@@ -173,7 +213,7 @@ c) Se verifique, relativamente a esse jazigo, falta de apresentação do plano d
 
 ### CAPÍTULO II — Da sociedade concessionária
 
-###### Art. 9.º - 1. A Angol poderá, no prazo de dezoito meses a partir da publicação deste diploma, transferir para uma ou mais sociedades portuguesas para tal fim constituídas direitos e obrigações dele decorrentes; a constituição das sociedades, bem como os termos e condições da transferência, serão sujeitos à aprovação do Governo, dada por decreto, pelo qual se considerará, na parte correspondente, desdobrada a concessão conferida por este diploma.
+Art. 9.º - 1. A Angol poderá, no prazo de dezoito meses a partir da publicação deste diploma, transferir para uma ou mais sociedades portuguesas para tal fim constituídas direitos e obrigações dele decorrentes; a constituição das sociedades, bem como os termos e condições da transferência, serão sujeitos à aprovação do Governo, dada por decreto, pelo qual se considerará, na parte correspondente, desdobrada a concessão conferida por este diploma.
 
 2. Os decretos previstos na parte final do número anterior fixarão as condições a observar nos estatutos das sociedades a constituir, bem como o capital respectivo.
 
@@ -183,15 +223,15 @@ c) Se verifique, relativamente a esse jazigo, falta de apresentação do plano d
 
 5. A província de Angola não exercerá o direito de voto para a designação dos membros do conselho de administração e do conselho fiscal.
 
-###### Art. 10.º Quer a concessionária, quer a sociedade ou sociedades para quem, de acordo com o n.º 1 do artigo anterior, esta venha a transferir direitos o obrigações, terão por objecto, ùnicamente, o exercício dos direitos de prospecção, pesquisa, desenvolvimento e exploração de jazigos minerais concedidos pelo Governo, a instalação e exploração de oficinas de preparação dos produtos extraídos, a comercialização dos produtos brutos e acabados e outras actividades de carácter subsidiário ou complementar da sua exploração.
+Art. 10.º Quer a concessionária, quer a sociedade ou sociedades para quem, de acordo com o n.º 1 do artigo anterior, esta venha a transferir direitos o obrigações, terão por objecto, ùnicamente, o exercício dos direitos de prospecção, pesquisa, desenvolvimento e exploração de jazigos minerais concedidos pelo Governo, a instalação e exploração de oficinas de preparação dos produtos extraídos, a comercialização dos produtos brutos e acabados e outras actividades de carácter subsidiário ou complementar da sua exploração.
 
-###### Art. 11.º - 1. O capital social da concessionária será aumentado imediatamente até 220000 contos, mediante subscrição particular e, logo que o conselho de administração o tiver por conveniente, até 320000 contos, mediante subscrição pública, em termos e condições a indicar pelo Governo.
+Art. 11.º - 1. O capital social da concessionária será aumentado imediatamente até 220000 contos, mediante subscrição particular e, logo que o conselho de administração o tiver por conveniente, até 320000 contos, mediante subscrição pública, em termos e condições a indicar pelo Governo.
 
 2. A concessionária é autorizada a conceder os privilégios de voto e de designação exclusiva de alguns dos membros dos seus corpos gerentes às acções representativas das séries A e B previstas nos seus estatutos, independentemente das formalidades previstas no artigo 3.º do [Decreto n.º 1645](https://diariodarepublica.pt/dr/detalhe/decreto/1645-1915-409954), de 15 de Junho de 1915, e no artigo 2.º do [Decreto n.º 4118](https://diariodarepublica.pt/dr/detalhe/decreto/4118-1918-404294), de 18 de Abril de 1918.
 
 3. A concessionária, bem como as sociedades a que se refere o artigo 9.º, poderão recorrer a financiamentos internos ou externos, designadamente sob a forma de contrato de empréstimo ou de emissão de obrigações, mediante prévia aprovação do Ministro do Ultramar, sem prejuízo de outros requisitos exigidos pela legislação em vigor.
 
-###### Art. 12.º - 1. A concessionária deverá preencher os seus quadros de pessoal com nacionais portugueses, podendo, no entanto, contratar no estrangeiro o pessoal técnico especializado indispensável.
+Art. 12.º - 1. A concessionária deverá preencher os seus quadros de pessoal com nacionais portugueses, podendo, no entanto, contratar no estrangeiro o pessoal técnico especializado indispensável.
 
 2. A concessionária promoverá, pelos meios que julgar convenientes, a formação profissional dos trabalhadores, bem como a especialização dos técnicos nacionais, consignando para tal fim, no seu orçamento de despesas, um montante adequado, que será considerado como investimento, nos termos e para os efeitos do artigo 29.º deste decreto.
 
@@ -199,13 +239,13 @@ c) Se verifique, relativamente a esse jazigo, falta de apresentação do plano d
 
 4. Os nacionais e os estrangeiros empregados pela concessionária com a mesma categoria gozarão de idênticas regalias de natureza social e profissional.
 
-###### Art. 13.º Qualquer alteração dos estatutos da concessionária a que se referem os despachos de 19 de Setembro de 1966 do Ministro do Ultramar deverá ser submetida a aprovação do Governo.
+Art. 13.º Qualquer alteração dos estatutos da concessionária a que se referem os despachos de 19 de Setembro de 1966 do Ministro do Ultramar deverá ser submetida a aprovação do Governo.
 
 ### CAPÍTULO III — Das actividades mineiras
 
-###### Art. 14.º As actividades de prospecção, pesquisa, desenvolvimento e exploração serão exercidas por conta e risco da concessionária, sem prejuízo do que fica estabelecido no capítulo IX em matéria de associação com outras entidades.
+Art. 14.º As actividades de prospecção, pesquisa, desenvolvimento e exploração serão exercidas por conta e risco da concessionária, sem prejuízo do que fica estabelecido no capítulo IX em matéria de associação com outras entidades.
 
-###### Art. 15.º - 1. Para os efeitos deste contrato e no que se refere exclusivamente a hidrocarbonetos, considera-se que:
+Art. 15.º - 1. Para os efeitos deste contrato e no que se refere exclusivamente a hidrocarbonetos, considera-se que:
 
 a) Prospecção de uma área é o conjunto de trabalhos e operações tendentes à determinação, nessa área, de estruturas favoráveis à acumulação de hidrocarbonetos, neles se incluindo os trabalhos de cartografia, geologia, prospecção geofísica, prospecção geoquímica e sondagens geológicas;
 
@@ -221,7 +261,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 4. Para as outras substâncias diferentes de hidrocarbonetos adoptar-se-ão os conceitos normais em lavra de minas.
 
-###### Art. 16.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento ou exploração poderá, salvo por motivos de segurança, ser executado sem que tenha sido objecto de um plano de trabalhos aprovado pelo Governo.
+Art. 16.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento ou exploração poderá, salvo por motivos de segurança, ser executado sem que tenha sido objecto de um plano de trabalhos aprovado pelo Governo.
 
 2. Considera-se tàcitamente aprovado qualquer plano de trabalhos sempre que, decorridos 45 dias após a data da sua apresentação na instância competente, não tenha sido comunicada à concessionária qualquer decisão.
 
@@ -235,7 +275,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 7. Os planos de trabalhos, que serão entregues em triplicado na Direcção dos Serviços de Geologia e Minas da província de Angola, devem ser pormenorizados, elucidativos e fundamentados.
 
-###### Art. 17.º - 1. Os trabalhos de prospecção e pesquisa serão, em cada ano, objecto de um plano de trabalhos, que deverá ser apresentado a aprovação do Governo 90 dias antes de terminar o período de validade do plano anteriormente aprovado.
+Art. 17.º - 1. Os trabalhos de prospecção e pesquisa serão, em cada ano, objecto de um plano de trabalhos, que deverá ser apresentado a aprovação do Governo 90 dias antes de terminar o período de validade do plano anteriormente aprovado.
 
 2. O primeiro plano de trabalhos de prospecção e pesquisa deverá ser apresentado até 90 dias depois da assinatura do contrato de concessão e vigorará, depois de aprovado, até 31 de Dezembro de 1967.
 
@@ -243,7 +283,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 4. No caso de não cumprimento de qualquer plano de trabalhos de prospecção e pesquisa, fica a concessionária obrigada a realizar, no ano seguinte àquele a que o facto disser respeito, todos os trabalhos e operações em falta, excepto quando o Governo considerar provada a falta de interesse na execução desses trabalhos ou a impossibilidade técnica da sua execução.
 
-###### Art. 18.º - 1. Sempre que na pesquisa de uma estrutura se verifique o aparecimento do primeiro poço produtivo, a concessionária submeterá o plano de trabalhos de desenvolvimento dessa estrutura à aprovação do Governo, nos 90 dias seguintes à conclusão desse poço.
+Art. 18.º - 1. Sempre que na pesquisa de uma estrutura se verifique o aparecimento do primeiro poço produtivo, a concessionária submeterá o plano de trabalhos de desenvolvimento dessa estrutura à aprovação do Governo, nos 90 dias seguintes à conclusão desse poço.
 
 2. O plano de trabalhos, que constará de uma memória descritiva e justificativa e das peças desenhadas necessárias à perfeita compreensão dos trabalhos projectados, será acompanhado de um relatório de fim de sondagem do poço referido no número anterior, bem como de uma planta da demarcação provisória.
 
@@ -255,7 +295,7 @@ d) Exploração de um jazigo é o conjunto de trabalhos e operações destinados
 
 6. As substâncias úteis produzidas durante a fase de desenvolvimento de qualquer jazigo são, para todos os efeitos deste decreto, consideradas nos mesmos termos das produzidas na fase de exploração.
 
-###### Art. 19.º - 1. Logo que os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo econòmicamente explorável, deverá ser feita a respectiva comunicação ao Governo.
+Art. 19.º - 1. Logo que os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo econòmicamente explorável, deverá ser feita a respectiva comunicação ao Governo.
 
 2. A concessionária deverá submeter à aprovação do Governo, no prazo de 90 dias, a contar da data da comunicação referida no n.º 1 deste artigo, o primeiro plano de trabalhos de exploração desse jazigo, requerendo, simultâneamente, a respectiva demarcação definitiva.
 
@@ -285,7 +325,7 @@ f) Programa geral da produção dos jazigos, com indicação dos métodos e das 
 
 9. Simultâneamente com o plano de trabalhos de exploração de qualquer jazigo deverão ser submetidos à aprovação do Governo os planos de trabalhos de reconhecimento secundário dos mesmos jazigos, bem como os planos de prospecção e pesquisa de outros jazigos possìvelmente existentes na sua área.
 
-###### Art. 20.º - 1. A concessionária comunicará aos serviços de geologia e minas, com uma antecedência não inferior a 30 dias, a data prevista para o início de qualquer sondagem de pesquisa a realizar.
+Art. 20.º - 1. A concessionária comunicará aos serviços de geologia e minas, com uma antecedência não inferior a 30 dias, a data prevista para o início de qualquer sondagem de pesquisa a realizar.
 
 2. A comunicação referida no número anterior deverá ser acompanhada das seguintes informações:
 
@@ -297,7 +337,7 @@ c) Cota do início da perfuração e a profundidade prevista;
 
 d) Datas previstas do início e conclusão dos trabalhos.
 
-###### Art. 21.º - 1. A concessionária comunicará aos serviços de geologia e minas, com uma antecedência não inferior a 30 dias, a data prevista para o início de qualquer poço de desenvolvimento.
+Art. 21.º - 1. A concessionária comunicará aos serviços de geologia e minas, com uma antecedência não inferior a 30 dias, a data prevista para o início de qualquer poço de desenvolvimento.
 
 2. A comunicação referida no número anterior deverá ser acompanhada das seguintes informações:
 
@@ -309,9 +349,9 @@ c) Programa de tubagem e cabeça do poço;
 
 d) Datas previstas para início e conclusão dos trabalhos.
 
-###### Art. 22.º O disposto nos artigos 20.º e 21.º aplica-se, igualmente, ao aprofundamento de poços já existentes.
+Art. 22.º O disposto nos artigos 20.º e 21.º aplica-se, igualmente, ao aprofundamento de poços já existentes.
 
-###### Art. 23.º - 1. No prazo de 30 dias após a perfuração de um novo poço ou o aprofundamento de um poço já existente, a concessionária deverá enviar aos serviços de geologia e minas um relatório pormenorizado dos trabalhos realizados, indicando, entre outros, os elementos seguintes:
+Art. 23.º - 1. No prazo de 30 dias após a perfuração de um novo poço ou o aprofundamento de um poço já existente, a concessionária deverá enviar aos serviços de geologia e minas um relatório pormenorizado dos trabalhos realizados, indicando, entre outros, os elementos seguintes:
 
 a) Designação do poço, cotas e diâmetros de perfuração;
 
@@ -333,21 +373,21 @@ h) No caso do poço seco, o método de abandono.
 
 3. Quando a concessionária desejar abandonar um poço que tenha tido produção comercial de petróleo ou que tenha sido utilizado para estimular a produção noutros poços, deverá, antes de o fazer, comunicar aos serviços competentes o seu propósito de o abandonar e as razões que para o efeito tenha, as quantidades de tubagem que calcula que possam ser recuperadas, o processo de abandono projectado e os elementos sobre a possibilidade de obter água doce.
 
-###### Art. 24.º - 1. A concessionária deverá controlar, aproveitar ou devolver aos jazigos, se esta última possibilidade for económica e tècnicamente recomendável, todo o gás produzido nos poços de petróleo ou de gás, de acordo com as técnicas mais modernas utilizadas na indústria, e apenas poderá queimá-lo por razões de segurança ou mediante expressa autorização do Governo.
+Art. 24.º - 1. A concessionária deverá controlar, aproveitar ou devolver aos jazigos, se esta última possibilidade for económica e tècnicamente recomendável, todo o gás produzido nos poços de petróleo ou de gás, de acordo com as técnicas mais modernas utilizadas na indústria, e apenas poderá queimá-lo por razões de segurança ou mediante expressa autorização do Governo.
 
 2. Fica entendido que a concessionária se obriga a fazer uso económico de todo o gás produzido, por meio de venda, reinjecção ou qualquer utilização industrial, a não ser que o Governo reconheça que as quantidades de gás produzidas são insuficientes para tais fins.
 
 3. No caso de haver excesso de gás que a concessionária não possa utilizar nas suas operações, não venda ou não utilize para qualquer tratamento industrial, o Governo terá o direito de dispor desse excesso de gás, que será considerado propriedade exclusiva do Estado.
 
-###### Art. 25.º Os limites das áreas em que forem realizados trabalhos de prospecção, pesquisa, desenvolvimento ou exploração submarinos são assinalados pela concessionária, com balizas ou outras marcas aprovadas pelo Governo, logo que para tal tenha sido notificada.
+Art. 25.º Os limites das áreas em que forem realizados trabalhos de prospecção, pesquisa, desenvolvimento ou exploração submarinos são assinalados pela concessionária, com balizas ou outras marcas aprovadas pelo Governo, logo que para tal tenha sido notificada.
 
-###### Art. 26.º O Governo poderá também impor à concessionária, se o julgar conveniente, a obrigação de iluminar, entre o ocaso e o nascer do Sol, todas ou algumas das balizas ou marcas a que se refere o artigo anterior, bem como os limites exteriores das pontes, torres e quaisquer outras das suas instalações.
+Art. 26.º O Governo poderá também impor à concessionária, se o julgar conveniente, a obrigação de iluminar, entre o ocaso e o nascer do Sol, todas ou algumas das balizas ou marcas a que se refere o artigo anterior, bem como os limites exteriores das pontes, torres e quaisquer outras das suas instalações.
 
-###### Art. 27.º A concessionária deverá promover as medidas apropriadas, de acordo com as indicações das autoridades competentes e de harmonia com a mais actualizada técnica, para evitar que dos seus trabalhos de prospecção, pesquisa, desenvolvimento e exploração, bem como das respectivas oficinas, possa resultar a contaminação das águas públicas, a poluição atmosférica ou quaisquer prejuízos para pessoas, animais e plantas.
+Art. 27.º A concessionária deverá promover as medidas apropriadas, de acordo com as indicações das autoridades competentes e de harmonia com a mais actualizada técnica, para evitar que dos seus trabalhos de prospecção, pesquisa, desenvolvimento e exploração, bem como das respectivas oficinas, possa resultar a contaminação das águas públicas, a poluição atmosférica ou quaisquer prejuízos para pessoas, animais e plantas.
 
 ### CAPÍTULO IV — Dos investimentos obrigatórios
 
-###### Art. 28.º - 1. Durante o período referido no n.º 1 do artigo 4.º, a concessionária ficará obrigada a investir na execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento aprovados pelo Governo, nas zonas do Congo, Ambriz e Cuanza, os seguintes montantes mínimos:
+Art. 28.º - 1. Durante o período referido no n.º 1 do artigo 4.º, a concessionária ficará obrigada a investir na execução dos planos de trabalhos de prospecção, pesquisa e desenvolvimento aprovados pelo Governo, nas zonas do Congo, Ambriz e Cuanza, os seguintes montantes mínimos:
 
 a) Durante o 1.º ano, 30000000$00;
 
@@ -363,7 +403,7 @@ e) Durante o 5.º ano, 85000000$00.
 
 3. Se, em qualquer ano, os trabalhos de desenvolvimento a efectuar de acordo com os planos aprovados pelo Governo corresponderem a um investimento superior à diferença entre os correspondentes valores mínimos fixados nos números anteriores, a concessionária obriga-se a investir também o montante necessário para completar o financiamento desses trabalhos.
 
-###### Art. 29.º - 1. Só se consideram como investimentos para os efeitos dos artigos anteriores as despesas relativas aos trabalhos de prospecção, pesquisa e desenvolvimento constantes das alíneas seguintes:
+Art. 29.º - 1. Só se consideram como investimentos para os efeitos dos artigos anteriores as despesas relativas aos trabalhos de prospecção, pesquisa e desenvolvimento constantes das alíneas seguintes:
 
 a) Vencimentos, honorários, salários, transportes e quaisquer remunerações a pessoal, bem como os serviços de terceiros prestados em território português;
 
@@ -373,31 +413,31 @@ c) Despesas pagas por serviços de terceiros, nacionais ou estrangeiros, prestad
 
 2. Quando o equipamento for de utilização temporária só se considera como investimento, para efeitos do número anterior, a diferença entre o seu valor de aquisição e o valor residual.
 
-###### Art. 30.º - 1. No caso de a concessionária despender em trabalhos de prospecção, pesquisa e desenvolvimento, durante o período estabelecido no n.º 1 do artigo 4.º, um montante anual superior às importâncias fixadas no n.º 1 do artigo 28.º, o saldo excedente será deduzido nos investimentos previstos no ano ou anos seguintes.
+Art. 30.º - 1. No caso de a concessionária despender em trabalhos de prospecção, pesquisa e desenvolvimento, durante o período estabelecido no n.º 1 do artigo 4.º, um montante anual superior às importâncias fixadas no n.º 1 do artigo 28.º, o saldo excedente será deduzido nos investimentos previstos no ano ou anos seguintes.
 
 2. O disposto no número anterior aplica-se igualmente aos excedentes verificados em cada ano nos montantes mínimos despendidos em trabalhos de prospecção e pesquisa, tal como estabelecidos no n.º 2 do artigo 28.º
 
-###### Art. 31.º - 1. Se em qualquer dos anos do primeiro período da concessão a concessionária não tiver despendido as quantias mínimas referidas no n.º 1 do artigo 28.º, fica obrigada a pagar à província de Angola, no prazo de seis meses após o termo do ano em que a falta se verificou, uma quantia igual à soma não despendida, calculada em relação aos mesmos mínimos.
+Art. 31.º - 1. Se em qualquer dos anos do primeiro período da concessão a concessionária não tiver despendido as quantias mínimas referidas no n.º 1 do artigo 28.º, fica obrigada a pagar à província de Angola, no prazo de seis meses após o termo do ano em que a falta se verificou, uma quantia igual à soma não despendida, calculada em relação aos mesmos mínimos.
 
 2. Passados os primeiros três anos do período inicial, a concessionária poderá, se o desejar, dar por findo este contrato de concessão sem sofrer qualquer penalidade, desde que tenha cumprido todas as suas obrigações contratuais até essa data.
 
 3. No caso de a sociedade desejar utilizar o direito previsto no número anterior, deverá comunicar ao Governo que deseja dar o contrato como findo até três meses antes do termo do terceiro ano do período inicial.
 
-###### Art. 32.º O Governo poderá autorizar planos de trabalhos com investimentos inferiores aos previstos neste capítulo, desde que considere provada a inviabilidade técnica da realização dos investimentos obrigatòriamente fixados.
+Art. 32.º O Governo poderá autorizar planos de trabalhos com investimentos inferiores aos previstos neste capítulo, desde que considere provada a inviabilidade técnica da realização dos investimentos obrigatòriamente fixados.
 
-###### Art. 33.º - 1. Relativamente às prorrogações do período inicial da concessão previstas no n.º 2 do artigo 4.º e no n.º 3 do artigo 5.º vigorarão as regras sobre investimentos fixadas nos artigos anteriores.
+Art. 33.º - 1. Relativamente às prorrogações do período inicial da concessão previstas no n.º 2 do artigo 4.º e no n.º 3 do artigo 5.º vigorarão as regras sobre investimentos fixadas nos artigos anteriores.
 
 2. Os investimentos anuais obrigatórios serão, para cada uma das prorrogações, os correspondentes aos montantes mínimos previstos nas alíneas d) e e) do n.º 1 do artigo 28.º, reduzidos proporcionalmente às áreas conservadas para pesquisas.
 
-###### Art. 34.º - 1. Se se vierem a formar as associações em participação previstas no capítulo IX deste decreto, a partir da data da sua instituição, a concessionária apenas ficará obrigada, nas áreas da sua concessão, aos investimentos proporcionais à sua participação nas referidas associações.
+Art. 34.º - 1. Se se vierem a formar as associações em participação previstas no capítulo IX deste decreto, a partir da data da sua instituição, a concessionária apenas ficará obrigada, nas áreas da sua concessão, aos investimentos proporcionais à sua participação nas referidas associações.
 
 2. Os investimentos obrigatórios a efectuar pelas associações serão fixados nos contratos a que se referem os artigos 61.º e 62.º deste decreto.
 
-###### Art. 35.º Sem prejuízo dos montantes referidos nos artigos anteriores, a concessionária obriga-se ainda a participar nos trabalhos de prospecção, pesquisa, desenvolvimento e exploração nas áreas das bacias do Cuanza e do Congo concedidas à Petrangol, de acordo com o contrato de associação celebrado nos termos do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965.
+Art. 35.º Sem prejuízo dos montantes referidos nos artigos anteriores, a concessionária obriga-se ainda a participar nos trabalhos de prospecção, pesquisa, desenvolvimento e exploração nas áreas das bacias do Cuanza e do Congo concedidas à Petrangol, de acordo com o contrato de associação celebrado nos termos do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965.
 
 ### CAPÍTULO V — Das disposições fiscais
 
-###### Art. 36.º - 1. A concessionária pagará à província de Angola uma renda anual relativa às áreas concedidas, nos termos das alíneas seguintes:
+Art. 36.º - 1. A concessionária pagará à província de Angola uma renda anual relativa às áreas concedidas, nos termos das alíneas seguintes:
 
 a) Durante o período inicial da concessão, a renda será de 100$00 por quilómetro quadrado das áreas terrestres e 50$00 por quilómetro quadrado das áreas marítimas;
 
@@ -409,7 +449,7 @@ c) Durante o período da segunda prorrogação da concessão, a renda será de 2
 
 3. Cada um dos subsequentes pagamentos de renda será efectuado durante os primeiros três meses de cada ano do período inicial da concessão ou das suas prorrogações.
 
-###### Art. 37.º - 1. A concessionária obriga-se a pagar ao Estado, a título de direitos de concessão e como quota mínima por conta do que será liquidado em relação a esse ano pelo imposto sobre o rendimento previsto no artigo 39.º, uma taxa de produção de 12,5 por cento sobre todos os produtos extraídos nas áreas da sua concessão, integrados ou não em regime de associação em participação com outras empresas. Esta taxa do produção será liquidada em dinheiro ou em espécie, à opção do Governo, e estabelecida de harmonia com o disposto nos números seguintes.
+Art. 37.º - 1. A concessionária obriga-se a pagar ao Estado, a título de direitos de concessão e como quota mínima por conta do que será liquidado em relação a esse ano pelo imposto sobre o rendimento previsto no artigo 39.º, uma taxa de produção de 12,5 por cento sobre todos os produtos extraídos nas áreas da sua concessão, integrados ou não em regime de associação em participação com outras empresas. Esta taxa do produção será liquidada em dinheiro ou em espécie, à opção do Governo, e estabelecida de harmonia com o disposto nos números seguintes.
 
 2. A taxa de produção será igualmente paga em relação aos produtos extraídos nos trabalhos de pesquisa e desenvolvimento e será regulada pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957 (Regulamento dos Direitos de Concessão sobre a Exploração de Petróleos nas Províncias do Ultramar), sem prejuízo do estabelecido neste diploma.
 
@@ -421,7 +461,7 @@ c) Durante o período da segunda prorrogação da concessão, a renda será de 2
 
 6. Cabe ao Estado estabelecer equitativamente as taxas de produção devidas pelas outras empresas associadas nas actividades de prospecção, pesquisa, desenvolvimento e exploração, as quais não poderão ser inferiores às aplicáveis à concessionária.
 
-###### Art. 38.º - 1. Para efeitos do cálculo da taxa de produção e do rendimento bruto da concessionária, o valor do petróleo bruto será determinado por uma comissão especial, de acordo com o estabelecido nas alíneas seguintes:
+Art. 38.º - 1. Para efeitos do cálculo da taxa de produção e do rendimento bruto da concessionária, o valor do petróleo bruto será determinado por uma comissão especial, de acordo com o estabelecido nas alíneas seguintes:
 
 a) Os preços de venda do petróleo para as refinarias existentes na província de Angola serão fixados de forma idêntica à estabelecida para o fornecimento à refinaria da Petrangol;
 
@@ -441,15 +481,15 @@ b) Para o petróleo bruto vendido para outros territórios portugueses ou export
 
 5. A comissão especial, constituída para o efeito indicado no n.º 1 deste artigo, será formada por três membros, sendo um nomeado pelo Governo, outro pela concessionária e o terceiro escolhido por mútuo acordo ou, na falta deste, designado pelo presidente do Supremo Tribunal de Justiça.
 
-###### Art. 39.º - 1. A concessionária ficará sujeita a imposto de rendimento, nos termos previstos no [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957 (Regulamento do Imposto de Rendimento sobre os Petróleos), sem prejuízo do estabelecido neste decreto de concessão.
+Art. 39.º - 1. A concessionária ficará sujeita a imposto de rendimento, nos termos previstos no [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957 (Regulamento do Imposto de Rendimento sobre os Petróleos), sem prejuízo do estabelecido neste decreto de concessão.
 
 2. O imposto de rendimento será uniformemente calculado pela incidência da taxa de 50 por cento sobre o rendimento líquido tributável.
 
-###### Art. 40.º - 1. Para efeitos do imposto de rendimento, na determinação dos rendimentos brutos anuais, considerar-se-ão os valores de venda dos diversos produtos conforme o estabelecido no artigo 38.º
+Art. 40.º - 1. Para efeitos do imposto de rendimento, na determinação dos rendimentos brutos anuais, considerar-se-ão os valores de venda dos diversos produtos conforme o estabelecido no artigo 38.º
 
 2. Os lucros líquidos serão apurados de acordo com o previsto no artigo 4.º do Regulamento do Imposto de Rendimento sobre os Petróleos e no artigo seguinte deste diploma, que substitui o artigo 5.º do citado regulamento.
 
-###### Art. 41.º - 1. Para cálculo do rendimento líquido tributável, com ressalva do que está disposto no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos e suas alíneas, serão deduzidos ao rendimento bruto anual os encargos relativos a despesas de prospecção, pesquisa, desenvolvimento e exploração constantes das alíneas seguintes:
+Art. 41.º - 1. Para cálculo do rendimento líquido tributável, com ressalva do que está disposto no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos e suas alíneas, serão deduzidos ao rendimento bruto anual os encargos relativos a despesas de prospecção, pesquisa, desenvolvimento e exploração constantes das alíneas seguintes:
 
 a) As rendas pagas a terceiros pela ocupação de imobiliários necessários ao exercício da actividade;
 
@@ -559,13 +599,13 @@ i) Dívidas incobráveis.
 
 7. A dedução adicional a que se refere o número anterior deverá ser considerada no primeiro subsequente ano tributável e, no caso de não poder ser incluída nesse ano, no ano tributável seguinte e assim sucessivamente, mas, não excedendo cinco anos, só poderá efectuar-se desde que se verifique que essas importâncias não foram já deduzidas por outra forma.
 
-###### Art. 42.º No cálculo do rendimento líquido a tributar não devem ser deduzidas do rendimento bruto anual, para além dos encargos previstos no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos, as despesas seguintes:
+Art. 42.º No cálculo do rendimento líquido a tributar não devem ser deduzidas do rendimento bruto anual, para além dos encargos previstos no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos, as despesas seguintes:
 
 a) As multas, sanções fiscais ou de qualquer natureza impostas à concessionária como consequência de faltas cometidas por ela;
 
 b) Os impostos pagos no estrangeiro sobre rendimentos provenientes da concessão em Angola.
 
-###### Art. 43.º - 1. A concessionária adoptará as regras sobre contabilidade que vierem a ser estabelecidas na província de Angola para as empresas concessionárias em geral.
+Art. 43.º - 1. A concessionária adoptará as regras sobre contabilidade que vierem a ser estabelecidas na província de Angola para as empresas concessionárias em geral.
 
 2. Antes de fazer adoptar as normas de uniformização contabilística previstas no número anterior, o Governo consultará a concessionária para efeitos de eventuais adaptações provenientes das especialidades da indústria dos petróleos.
 
@@ -573,13 +613,13 @@ b) Os impostos pagos no estrangeiro sobre rendimentos provenientes da concessão
 
 4. De igual modo, as receitas provenientes de quaisquer operações petrolíferas realizadas na área da concessão deverão ser totalmente levadas à conta de resultados da concessionária, não podendo ser deduzida qualquer parcela a título de reembolso de dívidas e quaisquer que sejam os contratos a este respeito estabelecidos com os credores.
 
-###### Art. 44.º Salvo o que eventualmente possa ser acordado sobre justa retribuição devida por serviços prestados, se for caso disso, nos termos de contratos expressamente autorizados pelo Governo, bem como no caso de remunerações de gerência estabelecidas nos termos da lei e dos estatutos, qualquer sociedade accionista da concessionária apenas terá direito aos dividendos distribuídos correspondentes às acções que detiver.
+Art. 44.º Salvo o que eventualmente possa ser acordado sobre justa retribuição devida por serviços prestados, se for caso disso, nos termos de contratos expressamente autorizados pelo Governo, bem como no caso de remunerações de gerência estabelecidas nos termos da lei e dos estatutos, qualquer sociedade accionista da concessionária apenas terá direito aos dividendos distribuídos correspondentes às acções que detiver.
 
-###### Art. 45.º À concessionária serão aplicáveis as regras legais que vigorarem para as empresas concessionárias em cujos lucros o Estado participa e destinadas a assegurar que a participação do Estado não é diminuída indevidamente por acréscimos injustificados nos custos ou diminuição nas receitas.
+Art. 45.º À concessionária serão aplicáveis as regras legais que vigorarem para as empresas concessionárias em cujos lucros o Estado participa e destinadas a assegurar que a participação do Estado não é diminuída indevidamente por acréscimos injustificados nos custos ou diminuição nas receitas.
 
 ### CAPÍTULO VI — Da fiscalização por parte do Estado
 
-###### Art. 46.º - 1. A concessionária estará sujeita às regras legais vigentes sobre fiscalização das sociedades anónimas, bem como às disposições sobre fiscalização da actividade das empresas concessionárias.
+Art. 46.º - 1. A concessionária estará sujeita às regras legais vigentes sobre fiscalização das sociedades anónimas, bem como às disposições sobre fiscalização da actividade das empresas concessionárias.
 
 2. À concessionária serão também aplicáveis as normas legais em vigor sobre fiscalização da actividade das empresas que exploram recursos naturais ou de importância estratégica, geral ou militar.
 
@@ -587,9 +627,9 @@ b) Os impostos pagos no estrangeiro sobre rendimentos provenientes da concessão
 
 4. A concessionária facultará ao Governo todos os elementos de informação que aquele considerar necessários para o exercício eficaz da fiscalização técnica e administrativa da sua actividade, os quais serão classificados de secretos.
 
-###### Art. 47.º O governador-geral da província de Angola poderá designar um representante especial junto da direcção da concessionária em Luanda, que poderá tomar conhecimento directo da contabilidade e de quaisquer elementos que repute necessários para a fiscalização de que for incumbido, o qual actuará sempre em estreita ligação com o delegado do Governo, de acordo com as instruções que lhe forem transmitidas pelo governador-geral.
+Art. 47.º O governador-geral da província de Angola poderá designar um representante especial junto da direcção da concessionária em Luanda, que poderá tomar conhecimento directo da contabilidade e de quaisquer elementos que repute necessários para a fiscalização de que for incumbido, o qual actuará sempre em estreita ligação com o delegado do Governo, de acordo com as instruções que lhe forem transmitidas pelo governador-geral.
 
-###### Art. 48.º - 1. A actividade da concessionária ficará sujeita à fiscalização da Direcção dos Serviços de Geologia e Minas da província de Angola.
+Art. 48.º - 1. A actividade da concessionária ficará sujeita à fiscalização da Direcção dos Serviços de Geologia e Minas da província de Angola.
 
 2. Para os efeitos do número anterior, deverá a concessionária, designadamente:
 
@@ -613,7 +653,7 @@ c) Comunicar aos serviços de geologia e minas a execução de quaisquer trabalh
 
 5. Todos os elementos fornecidos sobre os resultados obtidos serão considerados como estritamente confidenciais e não poderão ser tornados públicos ou comunicados a terceiros sem prévia autorização expressa da concessionária, enquanto durarem as respectivas concessões e suas prorrogações.
 
-###### Art. 49.º A concessionária deverá enviar aos serviços de geologia e minas, durante os dez primeiros dias de cada mês, um relatório dos trabalhos realizados durante o mês anterior, com indicação dos elementos seguintes:
+Art. 49.º A concessionária deverá enviar aos serviços de geologia e minas, durante os dez primeiros dias de cada mês, um relatório dos trabalhos realizados durante o mês anterior, com indicação dos elementos seguintes:
 
 a) Petróleo bruto produzido;
 
@@ -625,19 +665,19 @@ d) Poços iniciados, aprofundados, em perfuração, completados e abandonados;
 
 e) Destino dado ao petróleo bruto, gás natural e derivados produzidos, com indicação das quantidades utilizadas nos trabalhos da concessionária, das enviadas ao consumo das refinarias locais e da parte exportada.
 
-###### Art. 50.º - 1. A concessionária fica obrigada a dar conhecimento imediato aos serviços de geologia e minas de qualquer acidente grave ocorrido durante a perfuração de um poço. Aqueles serviços, quando o julgarem oportuno, poderão impor que as operações de reparação ou salvamento se efectuem na presença do pessoal de fiscalização.
+Art. 50.º - 1. A concessionária fica obrigada a dar conhecimento imediato aos serviços de geologia e minas de qualquer acidente grave ocorrido durante a perfuração de um poço. Aqueles serviços, quando o julgarem oportuno, poderão impor que as operações de reparação ou salvamento se efectuem na presença do pessoal de fiscalização.
 
 2. A concessionária fica também obrigada a comunicar imediatamente a descoberta de qualquer substância útil que ocorrer durante a perfuração de um poço.
 
 ### CAPÍTULO VII — Da colocação das ramas produzidas
 
-###### Art. 51.º - 1. À concessionária será assegurada a colocação na refinaria de Luanda das ramas de petróleo de que venha a dispor pelas explorações em que participe, tanto em regime de associação como em concessão própria, desde que a produção própria da Petrangol seja insuficiente, e na quantidade necessária para completar as necessidades da mesma refinaria.
+Art. 51.º - 1. À concessionária será assegurada a colocação na refinaria de Luanda das ramas de petróleo de que venha a dispor pelas explorações em que participe, tanto em regime de associação como em concessão própria, desde que a produção própria da Petrangol seja insuficiente, e na quantidade necessária para completar as necessidades da mesma refinaria.
 
 2. Sempre que para tal seja solicitado, procurará o Governo, pelos meios ao seu alcance, auxiliar a concessionária na colocação, a preços equitativos, noutros mercados, designadamente nos mercados nacionais, das ramas de sua produção.
 
-###### Art. 52.º Sem prejuízo dos direitos contratuais de outras entidades, o Governo providenciará para que não sejam importadas do estrangeiro quaisquer quantidades de ramas em refinarias portuguesas, enquanto não estiver assegurada a colocação integral de ramas extraídas pela concessionária.
+Art. 52.º Sem prejuízo dos direitos contratuais de outras entidades, o Governo providenciará para que não sejam importadas do estrangeiro quaisquer quantidades de ramas em refinarias portuguesas, enquanto não estiver assegurada a colocação integral de ramas extraídas pela concessionária.
 
-###### Art. 53.º - 1. Sem prejuízo do normal abastecimento da refinaria de Luanda ou quaisquer outras que se venham a instalar em Angola, o Estado gozará de preferência absoluta na compra até 37,5 por cento da produção anual de petróleo bruto e seus produtos, subprodutos, derivados e resíduos.
+Art. 53.º - 1. Sem prejuízo do normal abastecimento da refinaria de Luanda ou quaisquer outras que se venham a instalar em Angola, o Estado gozará de preferência absoluta na compra até 37,5 por cento da produção anual de petróleo bruto e seus produtos, subprodutos, derivados e resíduos.
 
 2. Os preços de venda ao Estado de produtos em relação aos quais tenha sido exercido o direito de preferência referido no número anterior serão estabelecidos pela média ponderada das cotações praticadas nas exportações para território nacional ou para o estrangeiro no trimestre em que o fornecimento se efectuar ou, no caso de não terem sido efectuadas neste período quaisquer exportações, no último trimestre em que se realizaram.
 
@@ -645,13 +685,13 @@ e) Destino dado ao petróleo bruto, gás natural e derivados produzidos, com ind
 
 4. Os fornecimentos serão efectuados à medida das necessidades, mas de maneira que não excedam metade da produção provável em cada trimestre.
 
-###### Art. 54.º Em caso de guerra em que o Estado Português esteja envolvido, toda a produção fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, a concessionária compensada em termos equitativos.
+Art. 54.º Em caso de guerra em que o Estado Português esteja envolvido, toda a produção fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, a concessionária compensada em termos equitativos.
 
-###### Art. 55.º Em igualdade de condições, a concessionária venderá os produtos extraídos, de preferência, a empresas refinadoras instaladas em território português.
+Art. 55.º Em igualdade de condições, a concessionária venderá os produtos extraídos, de preferência, a empresas refinadoras instaladas em território português.
 
 ### CAPÍTULO VIII — Das isenções e facilidades concedidas
 
-###### Art. 56.º - 1. Salvo o disposto no capítulo V deste diploma, sobre a concessionária não incidirão quaisquer impostos, contribuições ou taxas, seja qual for o seu título ou natureza, nacionais, provinciais ou locais.
+Art. 56.º - 1. Salvo o disposto no capítulo V deste diploma, sobre a concessionária não incidirão quaisquer impostos, contribuições ou taxas, seja qual for o seu título ou natureza, nacionais, provinciais ou locais.
 
 2. A importação de máquinas, aparelhos, instrumentos, ferramentas, veículos, incluindo os de tracção mecânica e os aviões, e quaisquer outros artigos destinados exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos, apetrechamento de campos de minas, incluindo condutas, fica apenas sujeita ao regime especial de pagamento do imposto estatístico de 1 por mil ad valorem e ao imposto do selo do despacho, quando a importação seja efectuada pela concessionária ou por entidade com que ela tenha contratado exclusivamente a execução dos trabalhos em que as mercadorias despachadas tenham aplicação.
 
@@ -667,13 +707,13 @@ e) Destino dado ao petróleo bruto, gás natural e derivados produzidos, com ind
 
 8. O governador-geral de Angola pode condicionar a aplicação do regime especial estabelecido no n.º 2 deste artigo a prévio parecer dos serviços das alfândegas, ouvidos os serviços de geologia e minas.
 
-###### Art. 57.º - 1. A concessionária utilizará, de preferência, os serviços das indústrias nacionais construtoras de equipamento, na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas, a preços adequados, e dentro dos prazos necessários ao cumprimento dos planos fixados.
+Art. 57.º - 1. A concessionária utilizará, de preferência, os serviços das indústrias nacionais construtoras de equipamento, na medida em que estas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas, a preços adequados, e dentro dos prazos necessários ao cumprimento dos planos fixados.
 
 2. A concessionária utilizará no transporte do equipamento que tiver de ser importado, e nas condições referidas no número anterior, a capacidade disponível dos meios de transporte nacionais.
 
 3. Nas aquisições que venham a ser feitas no estrangeiro, a concessionária acatará, respeitadas as condições mencionadas no n.º 1, as orientações de política comercial que lhe forem transmitidas pelo delegado do Governo, sem o que não beneficiará dos regimes especiais aduaneiros consignados no artigo anterior.
 
-###### Art. 58.º - 1. O Governo facilitará o livre, eficaz e completo exercício da actividade da concessionária, nos termos das leis e regulamentos em vigor, e, nomeadamente:
+Art. 58.º - 1. O Governo facilitará o livre, eficaz e completo exercício da actividade da concessionária, nos termos das leis e regulamentos em vigor, e, nomeadamente:
 
 a) Permitirá o uso, exclusivamente para fins mineiros ou auxiliares destes, dos terrenos públicos existentes nas áreas da concessão e procederá, nos termos e para os fins previstos na legislação em vigor, às expropriações por utilidade pública que se mostrem indispensáveis;
 
@@ -689,31 +729,31 @@ e) Autorizará o trânsito por territórios e vias de comunicação pertencentes
 
 ### CAPÍTULO IX — Da associação da concessionária com outras entidades nas actividades de prospecção, pesquisa, desenvolvimento e exploração
 
-###### Art. 59.º - 1. A associação da concessionária com a Petrangol, relativamente às áreas a que respeitam os contratos celebrados em 26 de Maio de 1966, é regulada nos termos do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965.
+Art. 59.º - 1. A associação da concessionária com a Petrangol, relativamente às áreas a que respeitam os contratos celebrados em 26 de Maio de 1966, é regulada nos termos do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965.
 
 2. A taxa de produção, o imposto de rendimento, bem como quaisquer outras imposições fiscais devidas pela concessionária por força dos contratos de associação referidos no número anterior, serão idênticos aos aplicáveis à Petrangol.
 
-###### Art. 60.º - 1. A concessionária obriga-se a associar, no prazo de dezoito meses, a contar da data de assinatura do contrato de concessão, nas actividades de prospecção, pesquisa, desenvolvimento e exploração, em todas as zonas abrangidas na sua concessão, a empresa ou empresas que, por acordo entre ela e o Governo, for resolvido designar.
+Art. 60.º - 1. A concessionária obriga-se a associar, no prazo de dezoito meses, a contar da data de assinatura do contrato de concessão, nas actividades de prospecção, pesquisa, desenvolvimento e exploração, em todas as zonas abrangidas na sua concessão, a empresa ou empresas que, por acordo entre ela e o Governo, for resolvido designar.
 
 2. Sem prejuízo do estabelecido neste decreto sobre trabalhos a realizar e investimentos mínimos obrigatórios, será reconhecido à concessionária o direito de negociar com outras empresas idóneas, aprovadas pelo Governo, contratos de associação nas zonas que lhe são concedidas.
 
 Decorridos 18 meses após a assinatura do contrato de concessão sem que se tenham estabelecido os contratos de associação previstos no n.º 1 deste artigo, o Estado poderá, a todo o tempo, designar qualquer empresa para se associar com a concessionária em joint-venture, de acordo com as normas dos contratos-tipo referidos no artigo seguinte.
 
-###### Art. 61.º O regime a que obedecerão os contratos de associação referidos no artigo anterior será determinado de acordo com as regras constantes de contratos-tipo para este efeito aprovados pelo Governo.
+Art. 61.º O regime a que obedecerão os contratos de associação referidos no artigo anterior será determinado de acordo com as regras constantes de contratos-tipo para este efeito aprovados pelo Governo.
 
-###### Art. 62.º Se a concessionária vier a associar-se com a Petrangol, tendo a associação por objecto as áreas referidas no artigo 3.º deste contrato, no todo ou em parte, obedecerá a mesma a condicionalismo contratual análogo ao dos contratos de associação celebrados entre as duas sociedades em 26 de Maio de 1966.
+Art. 62.º Se a concessionária vier a associar-se com a Petrangol, tendo a associação por objecto as áreas referidas no artigo 3.º deste contrato, no todo ou em parte, obedecerá a mesma a condicionalismo contratual análogo ao dos contratos de associação celebrados entre as duas sociedades em 26 de Maio de 1966.
 
-###### Art. 63.º O Governo procurará, quando dê concessões em relação a outras bacias petrolíferas da província de Angola, promover a associação da concessionária nessas explorações e, bem assim, a colaboração financeira dos respectivos titulares nos encargos dos trabalhos referidos no artigo 35.º deste decreto.
+Art. 63.º O Governo procurará, quando dê concessões em relação a outras bacias petrolíferas da província de Angola, promover a associação da concessionária nessas explorações e, bem assim, a colaboração financeira dos respectivos titulares nos encargos dos trabalhos referidos no artigo 35.º deste decreto.
 
 ### CAPÍTULO X — Do juízo arbitral e da rescisão da concessão
 
-###### Art. 64.º - 1. As divergências que venham a surgir entre o Estado e a concessionária sobre a interpretação, integração ou aplicação das disposições legais e contratuais que regulam as relações entre ambos, na qualidade de contraentes, serão resolvidas em juízo arbitral, a funcionar em Lisboa, de harmonia com a lei processual.
+Art. 64.º - 1. As divergências que venham a surgir entre o Estado e a concessionária sobre a interpretação, integração ou aplicação das disposições legais e contratuais que regulam as relações entre ambos, na qualidade de contraentes, serão resolvidas em juízo arbitral, a funcionar em Lisboa, de harmonia com a lei processual.
 
 2. O juízo arbitral será composto por um árbitro nomeado pelo Ministro do Ultramar, outro nomeado pela concessionária e um terceiro, com voto de desempate, escolhido por acordo ou, na falta deste, designado pelo presidente do Supremo Tribunal de Justiça.
 
 3. O pedido de arbitragem terá efeito suspensivo.
 
-###### Art. 65.º - 1. Os serviços competentes para a fiscalização da concessionária, nos termos do capítulo VI, notificá-la-ão logo que verificarem o não cumprimento de qualquer das condições deste decreto para, no prazo de seis meses, sanar o desrespeito das obrigações assumidas.
+Art. 65.º - 1. Os serviços competentes para a fiscalização da concessionária, nos termos do capítulo VI, notificá-la-ão logo que verificarem o não cumprimento de qualquer das condições deste decreto para, no prazo de seis meses, sanar o desrespeito das obrigações assumidas.
 
 2. Se a concessionária o não fizer no prazo fixado no número anterior, salvo caso de força maior, a concessão será rescindida mediante simples notificação administrativa.
 
@@ -721,23 +761,23 @@ Decorridos 18 meses após a assinatura do contrato de concessão sem que se tenh
 
 ### CAPÍTULO XI — Da revisão das disposições contratuais
 
-###### Art. 66.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente aplicadas nos principais países produtores, pode o Estado exigir, decenalmente, a revisão das disposições contratuais, de modo a equipará-las, total ou parcialmente, às dos demais contratos vigentes no continente africano para jazigos de características idênticas.
+Art. 66.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente aplicadas nos principais países produtores, pode o Estado exigir, decenalmente, a revisão das disposições contratuais, de modo a equipará-las, total ou parcialmente, às dos demais contratos vigentes no continente africano para jazigos de características idênticas.
 
 2. As alterações contratuais resultantes da revisão prevista no número anterior só serão aplicáveis quando se reconhecer estar definido, na totalidade da área concedida à Angol, incluindo a referente à associação com a Petrangol, um volume de reservas recuperáveis suficiente para garantir durante cinco anos consecutivos uma produção anual de 5000000 m3.
 
 ### CAPÍTULO XII — Das disposições diversas
 
-###### Art. 67.º A concessionária, colaborando com o propósito do Governo na criação de um fundo de fomento mineiro destinado, entre outras finalidades, a trabalhos de investigação científica, contribuirá anualmente com 1500 contos para esse fundo.
+Art. 67.º A concessionária, colaborando com o propósito do Governo na criação de um fundo de fomento mineiro destinado, entre outras finalidades, a trabalhos de investigação científica, contribuirá anualmente com 1500 contos para esse fundo.
 
-###### Art. 68.º Findo o prazo da exploração referido no artigo 7.º, todos os móveis e imóveis que estejam afectos àquela revertem para o Estado, sem qualquer formalidade ou indemnização.
+Art. 68.º Findo o prazo da exploração referido no artigo 7.º, todos os móveis e imóveis que estejam afectos àquela revertem para o Estado, sem qualquer formalidade ou indemnização.
 
-###### Art. 69.º Em tudo o que não for contrariado pelas disposições do presente decreto serão aplicáveis os Decretos de 20 de Setembro de 1906, de 9 de Dezembro de 1909 e n.º 32251, de 9 de Setembro de 1942, e, bem assim, quaisquer diplomas que os substituam.
+Art. 69.º Em tudo o que não for contrariado pelas disposições do presente decreto serão aplicáveis os Decretos de 20 de Setembro de 1906, de 9 de Dezembro de 1909 e n.º 32251, de 9 de Setembro de 1942, e, bem assim, quaisquer diplomas que os substituam.
 
-###### Art. 70.º - 1. A concessionária fica sujeita a todas as leis, regulamentos e outros diplomas de qualquer espécie que vigorem ou venham a vigorar, excepto na parte em que essas disposições contrariem os direitos conferidos expressamente pelo presente decreto.
+Art. 70.º - 1. A concessionária fica sujeita a todas as leis, regulamentos e outros diplomas de qualquer espécie que vigorem ou venham a vigorar, excepto na parte em que essas disposições contrariem os direitos conferidos expressamente pelo presente decreto.
 
 2. Serão imediatamente aplicáveis à concessionária quaisquer regulamentos genéricos respeitantes a trabalhos mineiros.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

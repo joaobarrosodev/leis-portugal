@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46242-1965-238614
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a230e399ba1ec47183a765461359a5c3b524183aca92372b5e9f0a197f803498
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f19d72caf3825100901a06bf5697cb7ef6054d44e3d31fc5e26cd127b5e28f9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,13 +70,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:35Z'
   warnings: []
   errors: []
 ---
@@ -87,6 +87,6 @@ Usando da faculdade que me confere o n.º 1.º do artigo 81.º da Constituição
 
 Hei por bem, sob proposta do Presidente do Conselho, nomear o Dr. José Coelho de Almeida Cota e o Dr. Rui Manuel de Medeiros d'Espinay Patrício, respectivamente, Subsecretários de Estado da Administração Ultramarina e do Fomento Ultramarino.
 
-**Publique-se.**
+Publique-se.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

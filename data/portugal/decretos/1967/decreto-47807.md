@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47807-1967-314407
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d908f8458df31a40eea1599fdf1ccd16788778d12fea9f3f312717b2f65a33c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14a9b2a6f9453bfc39fbf163dc73426c2f4bb648ac9c31934d8fd9601f5a3b2e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475166:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:683777:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685850:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:38Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +124,11 @@ Disposições especiais
 
 A) Angola
 
-###### Artigo 1.º Ao artigo 25.º do [Decreto n.º 45396](https://diariodarepublica.pt/dr/detalhe/decreto/45396-1963-683777), de 30 de Novembro de 1963, é aditado o seguinte parágrafo:
+Artigo 1.º Ao artigo 25.º do [Decreto n.º 45396](https://diariodarepublica.pt/dr/detalhe/decreto/45396-1963-683777), de 30 de Novembro de 1963, é aditado o seguinte parágrafo:
 
 § único. Ao etnógrafo do Museu de Angola, integrado no Instituto de Investigação Científica de Angola por força do disposto no artigo 23.º do presente decreto, é atribuída a categoria e vencimento da letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 2.º São aumentadas as seguintes unidades ao quadro do pessoal da Inspecção Provincial de Fazenda e Contabilidade:
+Art. 2.º São aumentadas as seguintes unidades ao quadro do pessoal da Inspecção Provincial de Fazenda e Contabilidade:
 
 1 de inspector-chefe.
 
@@ -104,29 +136,29 @@ A) Angola
 
 § único. A dotação dos lugares criados por este artigo efectuar-se-á à medida que as disponibilidades orçamentais o permitam.
 
-###### Art. 3.º Fica o Governo-Geral da província autorizado a abrir um crédito especial de 2000000$00, destinado a reforçar a verba de «Despesas eventuais - Não especificadas - A pagar na província», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida o saldo das contas de exercícios findos.
+Art. 3.º Fica o Governo-Geral da província autorizado a abrir um crédito especial de 2000000$00, destinado a reforçar a verba de «Despesas eventuais - Não especificadas - A pagar na província», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida o saldo das contas de exercícios findos.
 
-###### Art. 4.º São ratificados os Diplomas Legislativos Provinciais n.os 3619, de 5 de Fevereiro de 1966, e 3667, de 13 de Agosto de 1966.
+Art. 4.º São ratificados os Diplomas Legislativos Provinciais n.os 3619, de 5 de Fevereiro de 1966, e 3667, de 13 de Agosto de 1966.
 
 B) Moçambique
 
-###### Art. 5.º Os escriturários no exercício de funções nos serviços de saúde e assistência, admitidos depois da entrada em vigor do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, transitam para outros tantos lugares de aspirante do quadro administrativo privativo dos mesmos serviços.
+Art. 5.º Os escriturários no exercício de funções nos serviços de saúde e assistência, admitidos depois da entrada em vigor do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, transitam para outros tantos lugares de aspirante do quadro administrativo privativo dos mesmos serviços.
 
 § único. A transição far-se-á pela simples publicação no Boletim Oficial da relação dos funcionários, independentemente de qualquer outra formalidade de visto ou posse, mantendo estes todos os direitos desde a data de investidura nas suas actuais funções.
 
 C) Macau
 
-###### Art. 6.º Fica o Governo da província autorizado a fixar em portaria os quantitativos das gratificações a atribuir ao pessoal dos serviços públicos da província que seja colocado no Centro de Recuperação Social ou neste exerça funções em regime de acumulação.
+Art. 6.º Fica o Governo da província autorizado a fixar em portaria os quantitativos das gratificações a atribuir ao pessoal dos serviços públicos da província que seja colocado no Centro de Recuperação Social ou neste exerça funções em regime de acumulação.
 
 § único. Exceptuam-se do disposto no corpo do artigo os vogais e o secretário do conselho administrativo, os quais terão direito ao abono de senhas de presença por cada sessão a que assistam, no máximo de quatro por mês.
 
-###### Art. 7.º É tornado extensivo aos encarregados de bairros do pessoal dos serviços dos correios, telégrafos e telefones da província o regime de remunerações estabelecido pelo artigo 12.º e seus §§ 1.º e 2.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962.
+Art. 7.º É tornado extensivo aos encarregados de bairros do pessoal dos serviços dos correios, telégrafos e telefones da província o regime de remunerações estabelecido pelo artigo 12.º e seus §§ 1.º e 2.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962.
 
 D) Timor
 
-###### Art. 8.º É autorizado o Governo da província a utilizar parte dos saldos das contas de exercícios findos na abertura de créditos na tabela de despesa ordinária do orçamento geral para o ano de 1967, destinados a ocorrer aos encargos derivados da criação da delegação do Instituto Nacional de Estatística, nos termos do artigo 1.º do [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966.
+Art. 8.º É autorizado o Governo da província a utilizar parte dos saldos das contas de exercícios findos na abertura de créditos na tabela de despesa ordinária do orçamento geral para o ano de 1967, destinados a ocorrer aos encargos derivados da criação da delegação do Instituto Nacional de Estatística, nos termos do artigo 1.º do [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966.
 
-###### Art. 9.º É aumentado ao quadro comum dos serviços de Fazenda e contabilidade um director de 3.ª classe.
+Art. 9.º É aumentado ao quadro comum dos serviços de Fazenda e contabilidade um director de 3.ª classe.
 
 § único. O lugar criado por este artigo será desempenhado em comissão de serviço, sob a superintendência do chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade, competindo-lhe, em especial, idênticas funções às que pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, estão cometidas aos inspectores-chefes das inspecções provinciais de Angola e Moçambique, além de outras que forem superiormente determinadas.
 
@@ -134,15 +166,15 @@ II
 
 Disposições comuns
 
-###### Art. 10.º Ficam os Governos da Guiné, S. Tomé e Príncipe e Angola autorizados a participarem até às importâncias de 375000$00, 500000$00 e 8125000$00, respectivamente, no aumento do capital social dos Transportes Aéreos Portugueses, S. A. R. L., de 120000 para 250000 contos.
+Art. 10.º Ficam os Governos da Guiné, S. Tomé e Príncipe e Angola autorizados a participarem até às importâncias de 375000$00, 500000$00 e 8125000$00, respectivamente, no aumento do capital social dos Transportes Aéreos Portugueses, S. A. R. L., de 120000 para 250000 contos.
 
 § único. São autorizados os mesmos Governos a abrirem desde já os créditos especiais necessários à execução do disposto no corpo do artigo, utilizando como contrapartida os saldos das contas de exercícios findos ou outros recursos orçamentais.
 
-###### Art. 11.º O fundo a que se referem os artigos 8.º do [Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936, e 72.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, passa a designar-se «Fundo da Escola Nacional de Saúde Pública e de Medicina Tropical», mantendo-se em vigor as disposições que regulam a constituição e administração do referido Fundo.
+Art. 11.º O fundo a que se referem os artigos 8.º do [Decreto n.º 26288](https://diariodarepublica.pt/dr/detalhe/decreto/26288-1936-685850), de 28 de Janeiro de 1936, e 72.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, passa a designar-se «Fundo da Escola Nacional de Saúde Pública e de Medicina Tropical», mantendo-se em vigor as disposições que regulam a constituição e administração do referido Fundo.
 
-###### Art. 12.º Os oficiais médicos, reformados, dos extintos quadros militares dos serviços de saúde do ultramar podem também constituir a pensão de sobrevivência, nos termos do [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966, e, a partir da sua entrada em vigor, desde que as suas pensões de reforma constituam encargo dos orçamentos gerais das províncias ultramarinas.
+Art. 12.º Os oficiais médicos, reformados, dos extintos quadros militares dos serviços de saúde do ultramar podem também constituir a pensão de sobrevivência, nos termos do [Decreto n.º 47109](https://diariodarepublica.pt/dr/detalhe/decreto/47109-1966-475166), de 21 de Julho de 1966, e, a partir da sua entrada em vigor, desde que as suas pensões de reforma constituam encargo dos orçamentos gerais das províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

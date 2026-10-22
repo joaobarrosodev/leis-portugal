@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47519-1967-501182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b70ab3e205b5c0788d47b8e7d41970090ae9c7a2aa636844c7acc42d29250653
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6e7085cc83e5ccc2bb013fd2e69a094c9cefd39e64157df79955740ee02bc14
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,24 @@ relationships:
   target: pt:dre:264366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:203189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:13Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +103,9 @@ Por motivo de urgência e tendo em vista o disposto no § 1.º do artigo 150.º 
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições abaixo mencionadas do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, passam a ter a seguinte redacção:
+Artigo 1.º As disposições abaixo mencionadas do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964, passam a ter a seguinte redacção:
 
-###### Artigo 1.º Compete aos serviços de obras públicas e transportes do ultramar, quando não seja das atribuições de outros organismos ou serviços públicos:
+Artigo 1.º Compete aos serviços de obras públicas e transportes do ultramar, quando não seja das atribuições de outros organismos ou serviços públicos:
 
 ...
 
@@ -113,11 +121,11 @@ Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultr
 
 ...
 
-###### Art. 6.º No âmbito das atribuições gerais mencionadas no artigo 1.º, compete, designadamente, às Direcções Provinciais dos Serviços de Obras Públicas e Transportes:
+Art. 6.º No âmbito das atribuições gerais mencionadas no artigo 1.º, compete, designadamente, às Direcções Provinciais dos Serviços de Obras Públicas e Transportes:
 
 ...
 
-###### Art. 8.º Os serviços centrais são constituídos pelos seguintes departamentos:
+Art. 8.º Os serviços centrais são constituídos pelos seguintes departamentos:
 
 Repartição dos Serviços Administrativos;
 
@@ -131,7 +139,7 @@ Parque e Oficinas
 
 ...
 
-###### Art. 22.º Junto à Repartição de Urbanismo, por onde correrá o respectivo expediente, funciona a Comissão Provincial de Urbanização, que é um órgão consultivo e orientador dos problemas de urbanização, constituído pelas seguintes entidades:
+Art. 22.º Junto à Repartição de Urbanismo, por onde correrá o respectivo expediente, funciona a Comissão Provincial de Urbanização, que é um órgão consultivo e orientador dos problemas de urbanização, constituído pelas seguintes entidades:
 
 Presidente - director dos Serviços de Obras Públicas e Transportes
 
@@ -151,15 +159,15 @@ Dois arquitectos representantes das câmaras municipais
 
 ...
 
-###### Art. 25.º a) Fazer o estudo dos problemas de viação e trânsito, elaborando as normas e regulamentos necessários.
+Art. 25.º a) Fazer o estudo dos problemas de viação e trânsito, elaborando as normas e regulamentos necessários.
 
 ...
 
-###### Art. 35.º No âmbito das atribuições gerais mencionadas no artigo 1.º, compete, designadamente, às repartições provinciais dos serviços de obras públicas e transportes:
+Art. 35.º No âmbito das atribuições gerais mencionadas no artigo 1.º, compete, designadamente, às repartições provinciais dos serviços de obras públicas e transportes:
 
 ...
 
-###### Art. 52.º O Conselho Técnico de Obras Públicas das províncias de Angola e Moçambique é constituído por:
+Art. 52.º O Conselho Técnico de Obras Públicas das províncias de Angola e Moçambique é constituído por:
 
 Presidente - um inspector provincial dos serviços interessados, a designar anualmente pelo governador-geral.
 
@@ -235,7 +243,7 @@ Um engenheiro e um arquitecto de nomeação trienal do Governo-Geral que não ex
 
 ...
 
-###### Art. 54.º ...
+Art. 54.º ...
 
 ...
 
@@ -249,7 +257,7 @@ Um engenheiro e um arquitecto de nomeação trienal do Governo-Geral que não ex
 
 ...
 
-###### Art. 57.º O Conselho dos Transportes Terrestres das províncias de Angola e Moçambique é constituído por:
+Art. 57.º O Conselho dos Transportes Terrestres das províncias de Angola e Moçambique é constituído por:
 
 Presidente - director dos Serviços de Obras Públicas e Transportes da província.
 
@@ -281,7 +289,7 @@ Um delegado da Câmara Municipal da capital da província em representação dos
 
 ...
 
-###### Art. 61.º ...
+Art. 61.º ...
 
 § 1.º O pessoal técnico compreende os engenheiros, os arquitectos, os inspectores de trânsito e viação, os adjuntos técnicos e outros funcionários obrigatòriamente habilitados com cursos superiores e médios de carácter técnico ou de preparação técnica especial.
 
@@ -289,15 +297,15 @@ Um delegado da Câmara Municipal da capital da província em representação dos
 
 § 3.º O pessoal técnico auxiliar compreende: topógrafos, agrimensores, chefes de trabalhos, chefes de secção de obras, auxiliares de obras públicas, desenhadores, hidrometristas, capatazes, maquinistas-chefes, chefes de máquinas, condutores de equipamento mecânico, encarregados-gerais de oficinas, chefes e mestres de oficinas e outros coadjuvantes dos serviços técnicos.
 
-###### Art. 62.º As designações a adoptar para o pessoal técnico auxiliar, auxiliar de administração e operário e serventuário dos serviços de obras públicas e transportes do ultramar são uniformizadas conforme estabelece o mapa X que faz parte integrante deste diploma.
+Art. 62.º As designações a adoptar para o pessoal técnico auxiliar, auxiliar de administração e operário e serventuário dos serviços de obras públicas e transportes do ultramar são uniformizadas conforme estabelece o mapa X que faz parte integrante deste diploma.
 
 ...
 
-###### Art. 67.º Ao pessoal técnico dos serviços de obras públicas e transportes são atribuídas as gratificações mensais indicadas no mapa I que faz parte integrante deste diploma.
+Art. 67.º Ao pessoal técnico dos serviços de obras públicas e transportes são atribuídas as gratificações mensais indicadas no mapa I que faz parte integrante deste diploma.
 
-###### Art. 68.º Além das gratificações indicadas no artigo anterior, são fixados, cumulativamente, os seguintes quantitativos do subsídio diário, a abonar ao pessoal técnico dos serviços de obras públicas e transportes:
+Art. 68.º Além das gratificações indicadas no artigo anterior, são fixados, cumulativamente, os seguintes quantitativos do subsídio diário, a abonar ao pessoal técnico dos serviços de obras públicas e transportes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf))](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
 
 § 1.º O abono de subsídio diário acarreta a proibição de qualquer actividade particular.
 
@@ -305,7 +313,7 @@ Um delegado da Câmara Municipal da capital da província em representação dos
 
 ...
 
-###### Art. 70.º O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa II anexo a este diploma:
+Art. 70.º O quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e transportes do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa II anexo a este diploma:
 
 Engenheiro director;
 
@@ -325,11 +333,11 @@ Arquitecto de 2.ª classe;
 
 ...
 
-###### Art. 73.º As vagas nas categorias de engenheiro-chefe e de arquitecto-chefe são preenchidas por escolha, respectivamente entre engenheiros e arquitectos de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe.
+Art. 73.º As vagas nas categorias de engenheiro-chefe e de arquitecto-chefe são preenchidas por escolha, respectivamente entre engenheiros e arquitectos de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe.
 
 ...
 
-###### Art. 79.º ...
+Art. 79.º ...
 
 § 1.º Se as vagas a preencher forem em número superior às dos candidatos com o tempo de serviço indicado no corpo do artigo, pode o Ministro do Ultramar autorizar que a escolha recaia no pessoal da mesma categoria que não tenha ainda o tempo de serviço indicado.
 
@@ -337,7 +345,7 @@ Arquitecto de 2.ª classe;
 
 ...
 
-###### Art. 88.º Ao engenheiro director dos serviços compete (Angola e Moçambique):
+Art. 88.º Ao engenheiro director dos serviços compete (Angola e Moçambique):
 
 ...
 
@@ -345,17 +353,17 @@ Arquitecto de 2.ª classe;
 
 ...
 
-###### Art. 103.º Se os lugares dos quadros não estiverem preenchidos ou forem insuficientes para as eventuais necessidades do trabalho nos serviços, os governadores-gerais de Angola e Moçambique, bem como os governadores das outras províncias, poderão contratar a execução de estudos e projectos com técnicos estranhos aos quadros dos serviços públicos que exerçam a sua actividade na província ou solicitar que tal colaboração lhes seja prestada através dos serviços do Ministério do Ultramar.
+Art. 103.º Se os lugares dos quadros não estiverem preenchidos ou forem insuficientes para as eventuais necessidades do trabalho nos serviços, os governadores-gerais de Angola e Moçambique, bem como os governadores das outras províncias, poderão contratar a execução de estudos e projectos com técnicos estranhos aos quadros dos serviços públicos que exerçam a sua actividade na província ou solicitar que tal colaboração lhes seja prestada através dos serviços do Ministério do Ultramar.
 
 ...
 
-###### Art. 105.º São responsáveis por cargas:
+Art. 105.º São responsáveis por cargas:
 
 a) Nas Direcções Provinciais:
 
-**O chefe da Secção de Compras e Depósito da Repartição dos Serviços Administrativos;**
+O chefe da Secção de Compras e Depósito da Repartição dos Serviços Administrativos;
 
-**O chefe da Secção de Armazém do Parque e Oficinas;**
+O chefe da Secção de Armazém do Parque e Oficinas;
 
 Os chefes da Secção de Expediente das Direcções Regionais e Repartições Distritais;
 
@@ -367,29 +375,29 @@ Chefe de Oficinas e Parque;
 
 Chefe de Armazéns e Compras.
 
-###### Art. 2.º As vagas que vierem a verificar-se nos lugares de adjunto administrativo serão preenchidas, mediante concurso, por indivíduos licenciados em Direito, Ciências Económicas e Financeiras, Ciências Sociais e Política Ultramarina e em Economia e Finanças pela Faculdade de Economia da Universidade do Porto.
+Art. 2.º As vagas que vierem a verificar-se nos lugares de adjunto administrativo serão preenchidas, mediante concurso, por indivíduos licenciados em Direito, Ciências Económicas e Financeiras, Ciências Sociais e Política Ultramarina e em Economia e Finanças pela Faculdade de Economia da Universidade do Porto.
 
-###### Art. 3.º Relativamente aos referidos no [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), são, desde já, aumentados os seguintes lugares:
+Art. 3.º Relativamente aos referidos no [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), são, desde já, aumentados os seguintes lugares:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf))](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
 
 e suprimidos os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf))](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
 
 § único. Além dos lugares indicados no quadro anterior, serão também extintos os lugares do pessoal das Repartições de Hidráulica de Angola e Moçambique que transitar para os serviços hidráulicos e da Repartição de Estradas de Moçambique que transitar para a Junta Autónoma de Estradas desta província.
 
-###### Art. 4.º A distribuição do pessoal das Direcções de Serviços de Obras Públicas e Transportes de Angola e Moçambique continuará a ser feita de acordo com os quadros parciais anexos ao [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), nos quais deverão ser introduzidas as alterações constantes do presente decreto.
+Art. 4.º A distribuição do pessoal das Direcções de Serviços de Obras Públicas e Transportes de Angola e Moçambique continuará a ser feita de acordo com os quadros parciais anexos ao [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), nos quais deverão ser introduzidas as alterações constantes do presente decreto.
 
-###### Art. 5.º As vagas de chefe de secção de obras serão preenchidas mediante concurso de provas práticas a que serão admitidos os topógrafos principais e de 1.ª classe, os desenhadores-chefes e os chefes de trabalhos principais.
+Art. 5.º As vagas de chefe de secção de obras serão preenchidas mediante concurso de provas práticas a que serão admitidos os topógrafos principais e de 1.ª classe, os desenhadores-chefes e os chefes de trabalhos principais.
 
-###### Art. 6.º Os lugares de chefe de secção de contabilidade criados pelo presente decreto serão desempenhados, em comissão, por primeiros-oficiais dos serviços de Fazenda, a designar pelos governadores-gerais, sob proposta dos directores daqueles serviços, sendo-lhes atribuída uma gratificação mensal de 500$00.
+Art. 6.º Os lugares de chefe de secção de contabilidade criados pelo presente decreto serão desempenhados, em comissão, por primeiros-oficiais dos serviços de Fazenda, a designar pelos governadores-gerais, sob proposta dos directores daqueles serviços, sendo-lhes atribuída uma gratificação mensal de 500$00.
 
-###### Art. 7.º A realização do movimento resultante da criação e extinção de lugares determinadas pelo presente decreto fica dependente das possibilidades financeiras das províncias e só se efectuará à medida que forem sendo orçamentadas as respectivas verbas; os governadores-gerais e de província ficam, no entanto, autorizados, desde já, a abrir os créditos necessários com contrapartida nos recursos orçamentais.
+Art. 7.º A realização do movimento resultante da criação e extinção de lugares determinadas pelo presente decreto fica dependente das possibilidades financeiras das províncias e só se efectuará à medida que forem sendo orçamentadas as respectivas verbas; os governadores-gerais e de província ficam, no entanto, autorizados, desde já, a abrir os créditos necessários com contrapartida nos recursos orçamentais.
 
-###### Art. 8.º Ficam revogados o § único do artigo 8.º, os artigos 12.º, 13.º, 23º, 24.º, 25.º, alíneas g) e h), 28.º e seu § único, 31.º, alínea e), e 69.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.
+Art. 8.º Ficam revogados o § único do artigo 8.º, os artigos 12.º, 13.º, 23º, 24.º, 25.º, alíneas g) e h), 28.º e seu § único, 31.º, alínea e), e 69.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -401,7 +409,7 @@ Gratificações especiais mensais a abonar ao pessoal dos serviços de obras pú
 
 (Artigo 67.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf))](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
 
 MAPA II
 
@@ -409,7 +417,7 @@ Quadro comum dos engenheiros e arquitectos dos serviços de obras públicas e tr
 
 (Artigo 70.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf))](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
 
 MAPA III
 
@@ -881,6 +889,6 @@ Designação e categoria do pessoal técnico auxiliar, do pessoal auxiliar de ad
 
 (Artigo 62.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf))](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/02/02700/01490156.pdf)
 
 Ministério do Ultramar, 1 de Fevereiro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

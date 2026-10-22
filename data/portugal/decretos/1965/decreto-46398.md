@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46398-1965-296208
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c32511fc483d8b285491a5f7ce252799049f2429714f1986ffc87b4e0dbfe141
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16abe60cc8d04cbbf752e5615e2d7c898dc83579c80de471a61c32049e3572fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:159687:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:34Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +104,15 @@ Nestes termos, ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os bilhetes de identidade dos nubentes poderão ser apresentados posteriormente à declaração para casamento, mas antes da sua celebração ou da passagem, quando necessária, do certificado para a realização do casamento canónico.
+Artigo 1.º Os bilhetes de identidade dos nubentes poderão ser apresentados posteriormente à declaração para casamento, mas antes da sua celebração ou da passagem, quando necessária, do certificado para a realização do casamento canónico.
 
-###### Art. 2.º - 1. A assinatura dos bilhetes de identidade poderá ser delegada nos conservadores e, onde os não houver, nos administradores do concelho que organizarem a instrução dos pedidos de passagem, averbamento, renovação ou substituição desses documentos.
+Art. 2.º - 1. A assinatura dos bilhetes de identidade poderá ser delegada nos conservadores e, onde os não houver, nos administradores do concelho que organizarem a instrução dos pedidos de passagem, averbamento, renovação ou substituição desses documentos.
 
 2. Observar-se-á o disposto no artigo 4.º do [Decreto n.º 44555](https://diariodarepublica.pt/dr/detalhe/decreto/44555-1962-159687), de 6 de Setembro de 1962, quanto ao envio do processo burocrático aos serviços centrais e serão aplicáveis as sanções previstas no artigo 6.º do mesmo diploma para o caso de falsas declarações.
 
-###### Art. 3.º Os casamentos canónicos dos vizinhos das regedorias celebrados com violação da lei civil, após a extinção do indigenato e antes da entrada em vigor do [Decreto n.º 45063](https://diariodarepublica.pt/dr/detalhe/decreto/45063-1963-627460), de 6 de Junho de 1963, deverão ser transcritos nos livros da repartição do registo civil da área do lugar da celebração, no prazo de seis meses, mediante prévio atestado dos párocos ou missionários de que não apuraram a existência dos impedimentos de casamento civil anterior não dissolvido, ou de demência judicialmente verificada, após o que produzirão todos os efeitos civis.
+Art. 3.º Os casamentos canónicos dos vizinhos das regedorias celebrados com violação da lei civil, após a extinção do indigenato e antes da entrada em vigor do [Decreto n.º 45063](https://diariodarepublica.pt/dr/detalhe/decreto/45063-1963-627460), de 6 de Junho de 1963, deverão ser transcritos nos livros da repartição do registo civil da área do lugar da celebração, no prazo de seis meses, mediante prévio atestado dos párocos ou missionários de que não apuraram a existência dos impedimentos de casamento civil anterior não dissolvido, ou de demência judicialmente verificada, após o que produzirão todos os efeitos civis.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

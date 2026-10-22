@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 189/1967, 1º Suplemento, Série I de 1967-08-14
   number: '189'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1457 - 1487
   pdf_url: https://files.diariodarepublica.pt/1s/1967/08/18901/14571487.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes:
 - Há desconformidade entre o número do diploma que consta no sumário e o que consta no texto respectivo.
 language: por
@@ -47,40 +47,106 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46847-1967-236491
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1987-08-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7400dbb1ba8b0ee21cf0ac8275ea5f1b0e4a58f163acf7f0e52a6f508312e80a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ccbe4cb9a88357d95bb555b3c25845765e1a4c7945d85e8258610b4b757076b4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- CAÇA
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:417646:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228631:por
+  label: "Dado por findo o prazo de proibição fixado no art. 267º pelo DEC.128/70.23.03.1970.MECO, DG.IS [69] de 23.03.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/128-1970-228631
+  date: '1970-03-23'
+- type: amended_by
+  target: pt:dre:643949:por
+  label: "Alterados os arts. 116º, 118º e 142º do presente diploma, pelo DEC LEI.231/71.28.05.1971.MECO, DG.IS [125] de 28.05.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/231-1971-643949
+  date: '1971-05-28'
+- type: amended_by
+  target: pt:dre:471365:por
+  label: "Amnistiadas as infracções resultantes do exercício de caça nos terrenos a que se referia o art. 64º pelo DEC LEI.560/74.31.10.1974.MJ,\
+    \ DG.IS [254] de 31.10.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/560-1974-471365
+  date: '1974-10-31'
+- type: amended_by
+  target: pt:dre:160712:por
+  label: "Alterado o art. 9º e aditado o art. 9º-A pelo DEC LEI.116/75.08.03.1975.MF, DG.IS [57] de 08.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1975-160712
+  date: '1975-03-08'
+- type: amended_by
+  target: pt:dre:383647:por
+  label: "Transferidas para a Direcção-Geral do Ordenamento e Gestão Florestal as atribuições e competências das comissões\
+    \ venatórias constantes deste diploma, com excepção das competências definidas nas als. d) e m) do nº 1 do art. 260º e\
+    \ als. c) e e) do art. 262º, que serão mantidas até publicação da nova lei da caça, bem como das competências das comissões\
+    \ venatórias das regiões autónomas, que manterão a totalidade das atribuições e competências, previstas neste diploma,\
+    \ até publicação da nova lei da caça, pelo DEC LEI.149/79.26.05.1979.PCM, DR.IS [121] de 26.05.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/149-1979-383647
+  date: '1979-05-26'
+- type: amended_by
+  target: pt:dre:377554:por
+  label: "Determinado que o modelo dos cartões da carta de caçador, referida nos arts. 18.º e 19.º do presente diploma, passe\
+    \ a ser o modelo anexo à presente portaria pela PORT.429/79.14.08.1979.MAP, DR.IS [187] de 14.08.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/429-1979-377554
+  date: '1979-08-14'
+- type: amended_by
+  target: pt:dre:441519:por
+  label: "Alterado o n.º 1 do artigo 9.º pelo DEC LEI.383/83.15.10.1983.PCM, DR.IS [238] de 15.10.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/383-1983-441519
+  date: '1983-10-15'
+- type: cites
+  target: pt:dre:232501:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312807:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432642:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:417646:por
+  label: "Revogado pelo DEC LEI.311/87.10.08.1987.MAPA, DR.IS [182] de 10.08.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/311-1987-417646
+  date: '1987-08-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 39
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:56Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +165,19 @@ REGULAMENTO DA CAÇA
 
 #### SECÇÃO I — Disposições gerais
 
-###### Artigo 1.º - 1. A caça é a ocupação ou apreensão de animais bravios que se encontram em estado de liberdade natural e que não vivem habitualmente sob as águas.
+Artigo 1.º - 1. A caça é a ocupação ou apreensão de animais bravios que se encontram em estado de liberdade natural e que não vivem habitualmente sob as águas.
 
 2. Considera-se exercício da caça toda a actividade que tenha por fim aquela ocupação ou apreensão, designadamente os actos de esperar, procurar, perseguir, apanhar ou matar aqueles animais.
 
-###### Art. 2.º A todas as pessoas é facultado o direito de caçar, desde que se conformem com as normas convencionais, legais e regulamentares quanto aos requisitos pessoais, modo, tempo e lugar em que se pode exercer esse direito e quanto aos processos utilizáveis e às espécies que podem ser apreendidas.
+Art. 2.º A todas as pessoas é facultado o direito de caçar, desde que se conformem com as normas convencionais, legais e regulamentares quanto aos requisitos pessoais, modo, tempo e lugar em que se pode exercer esse direito e quanto aos processos utilizáveis e às espécies que podem ser apreendidas.
 
-###### Art. 3.º Consideram-se caçadores todos os que praticam actos de caça, qualquer que seja o modo por que a exerçam.
+Art. 3.º Consideram-se caçadores todos os que praticam actos de caça, qualquer que seja o modo por que a exerçam.
 
-###### Art. 4.º - 1. Os caçadores podem ser ajudados por auxiliares, com a função de procurar, perseguir e levantar a caça (batedores) ou de transportar mantimentos, armas descarregadas, munições, apetrechos de caça ou caça abatida («secretários» ou mochileiros) e, bem assim, fazer-se acompanhar de cães, furões e aves de presa.
+Art. 4.º - 1. Os caçadores podem ser ajudados por auxiliares, com a função de procurar, perseguir e levantar a caça (batedores) ou de transportar mantimentos, armas descarregadas, munições, apetrechos de caça ou caça abatida («secretários» ou mochileiros) e, bem assim, fazer-se acompanhar de cães, furões e aves de presa.
 
 2. Não podem os «secretários», porém, praticar quaisquer actos de caça ou exercer as funções de batedores, nem estes, salvo se tiverem licença de caça e nas batidas a animais que se tornem nocivos ou à caça maior, devidamente autorizadas, ser portadores de espingarda nem apanhar ou matar quaisquer exemplares de espécies cinegéticas.
 
-###### Art. 5.º - 1. O caçador apropria-se do animal pelo facto da sua ocupação ou apreensão, mas adquire direito a ele logo que o ferir, mantendo esse direito enquanto for em sua perseguição.
+Art. 5.º - 1. O caçador apropria-se do animal pelo facto da sua ocupação ou apreensão, mas adquire direito a ele logo que o ferir, mantendo esse direito enquanto for em sua perseguição.
 
 2. Considera-se ocupado ou apreendido o animal que for morto pelo caçador ou apanhado pelos seus cães ou aves de presa, durante o acto venatório, ou que for retido nas suas artes de caça.
 
@@ -121,7 +187,7 @@ REGULAMENTO DA CAÇA
 
 #### SECÇÃO II — Pessoas que podem exercer a caça
 
-###### Art. 6.º Só é lícito caçar a quem reúna os seguintes requisitos:
+Art. 6.º Só é lícito caçar a quem reúna os seguintes requisitos:
 
 a) Ser maior de 16 anos, ou maior de 12 desde que não utilize armas de fogo;
 
@@ -131,11 +197,11 @@ c) Não estar sujeito a proibição do mesmo exercício por disposição legal o
 
 d) Ter residência fixa conhecida.
 
-###### Art. 7.º - 1. A proibição do exercício da caça por anomalia psíquica ou deficiência orgânica ou fisiológica será limitada ao emprego de armas de fogo quando ao mesmo estiver especialmente ligado o perigo a evitar.
+Art. 7.º - 1. A proibição do exercício da caça por anomalia psíquica ou deficiência orgânica ou fisiológica será limitada ao emprego de armas de fogo quando ao mesmo estiver especialmente ligado o perigo a evitar.
 
 2. Consideram-se sempre abrangidos pelo disposto no número anterior os indivíduos que sofram de surdez.
 
-###### Art. 8.º - 1. É proibido o exercício da caça a quem tenha sofrido condenação ou aplicação de medida de segurança:
+Art. 8.º - 1. É proibido o exercício da caça a quem tenha sofrido condenação ou aplicação de medida de segurança:
 
 a) Em pena superior a seis meses, por crime doloso de furto, roubo, fogo posto ou dano contra a propriedade;
 
@@ -147,7 +213,7 @@ d) Por alcoolismo habitual ou por abuso de estupefacientes.
 
 2. A proibição prevista no número anterior poderá ser levantada quando tiverem decorrido cinco anos sobre o cumprimento ou extinção da pena ou da medida de segurança e cessará sempre que tenha sido obtida a reabilitação judicial.
 
-###### Art. 9.º - 1. Só podem exercer a caça desde que esteja garantida, mediante seguro e por importância não inferior a 200000$00, a indemnização pelos danos que venham a causar:
+Art. 9.º - 1. Só podem exercer a caça desde que esteja garantida, mediante seguro e por importância não inferior a 200000$00, a indemnização pelos danos que venham a causar:
 
 a) Os menores de 21 anos, quando utilizarem armas de fogo;
 
@@ -155,7 +221,7 @@ b) Os nacionais ou estrangeiros que não residam em território português.
 
 2. A obrigatoriedade de seguro não abrange os estrangeiros que venham caçar no País a convite de autoridades oficiais portuguesas.
 
-###### Art. 10.º - 1. Não podem exercer a caça:
+Art. 10.º - 1. Não podem exercer a caça:
 
 a) As autoridades e agentes de autoridade com competência para a polícia e fiscalização da caça, durante os períodos de exercício das suas funções, salvo se estiverem autorizados pelos dirigentes dos respectivos serviços;
 
@@ -169,9 +235,9 @@ b) Os guardas particulares de propriedades e os pastores, durante o exercício d
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 11.º Os indivíduos a quem é lícito caçar nos termos deste diploma só poderão fazê-lo se forem titulares de carta de caçador e das licenças legalmente exigidas, salvo se delas estiverem dispensados por lei.
+Art. 11.º Os indivíduos a quem é lícito caçar nos termos deste diploma só poderão fazê-lo se forem titulares de carta de caçador e das licenças legalmente exigidas, salvo se delas estiverem dispensados por lei.
 
-###### Art. 12.º - 1. São dispensados de carta de caçador e das licenças previstas neste diploma:
+Art. 12.º - 1. São dispensados de carta de caçador e das licenças previstas neste diploma:
 
 a) Os membros do corpo diplomático e consular acreditados em Portugal;
 
@@ -183,7 +249,7 @@ c) Os nacionais e estrangeiros que não residam em território português.
 
 3. Para beneficiarem da isenção prevista neste artigo, os nacionais e estrangeiros que não residam em território português devem requerer a revalidação para o referido território da licença de caça de que sejam titulares, emitida no país da sua naturalidade ou residência, ou a concessão de autorização especial de caça.
 
-###### Art. 13.º - 1. A revalidação a que se refere o n.º 3 do artigo anterior pode ser requerida em qualquer comissão venatória regional ou câmara municipal.
+Art. 13.º - 1. A revalidação a que se refere o n.º 3 do artigo anterior pode ser requerida em qualquer comissão venatória regional ou câmara municipal.
 
 2. O pedido de revalidação será feito em impresso próprio, com o qual o interessado deverá apresentar:
 
@@ -203,17 +269,17 @@ c) Documento comprovativo do seguro exigido no n.º 1 do artigo 9.º, com a indi
 
 A parte correspondente às comissões concelhias reverterá para a comissão regional nos concelhos onde aquelas não existam.
 
-###### Art. 14.º - 1. A autorização especial de caça a que se refere o n.º 3 do artigo 12.º pode ser requerida em qualquer comissão venatória regional ou câmara municipal.
+Art. 14.º - 1. A autorização especial de caça a que se refere o n.º 3 do artigo 12.º pode ser requerida em qualquer comissão venatória regional ou câmara municipal.
 
 2. O pedido de autorização é feito em impresso próprio, com o qual os interessados deverão apresentar os documentos a que se referem as alíneas a) e c) do n.º 2 do artigo anterior.
 
 3. Às autorizações previstas neste preceito é aplicável, com a necessária adaptação, o disposto nos n.os 4 a 6 do artigo anterior, mas a taxa devida é de 200$00.
 
-###### Art. 15.º - 1. Não serão concedidas revalidações de licenças nem autorizações de caça, nos termos dos dois artigos anteriores, aos estrangeiros cujos países de naturalidade ou residência não concedam reciprocidade quanto a este regime.
+Art. 15.º - 1. Não serão concedidas revalidações de licenças nem autorizações de caça, nos termos dos dois artigos anteriores, aos estrangeiros cujos países de naturalidade ou residência não concedam reciprocidade quanto a este regime.
 
 2. Compete à Direcção-Geral dos Serviços Florestais e Aquícolas indicar às comissões venatórias regionais e às câmaras municipais os países que concedem tal reciprocidade.
 
-###### Art. 16.º - 1. Durante o exercício venatório o caçador é obrigado a trazer consigo e a apresentar às pessoas com competência para a fiscalização, sempre que lhe for exigido:
+Art. 16.º - 1. Durante o exercício venatório o caçador é obrigado a trazer consigo e a apresentar às pessoas com competência para a fiscalização, sempre que lhe for exigido:
 
 a) A carta de caçador;
 
@@ -229,13 +295,13 @@ e) A licença de uso e porte de arma e a respectiva ficha ou o livrete de manife
 
 Nesses casos, porém, deverão também trazer consigo o respectivo passaporte, para prova da sua identidade.
 
-###### Art. 17.º A carta de caçador e as licenças reguladas neste diploma, incluindo os títulos previstos nos artigos 13.º e 14.º, estão isentas de emolumentos, imposto do selo e adicionais e dispensadas de registo em qualquer serviço diferente daquele que as concede.
+Art. 17.º A carta de caçador e as licenças reguladas neste diploma, incluindo os títulos previstos nos artigos 13.º e 14.º, estão isentas de emolumentos, imposto do selo e adicionais e dispensadas de registo em qualquer serviço diferente daquele que as concede.
 
 ##### SUBSECÇÃO II — Carta de caçador
 
-###### Art. 18.º Acarta de caçador destina-se a identificar o caçador e a registar o seu comportamento venatório e outras circunstâncias com interesse para a observância do regime estabelecido neste diploma.
+Art. 18.º Acarta de caçador destina-se a identificar o caçador e a registar o seu comportamento venatório e outras circunstâncias com interesse para a observância do regime estabelecido neste diploma.
 
-###### Art. 19.º - 1. Da carta de caçador deverão constar:
+Art. 19.º - 1. Da carta de caçador deverão constar:
 
 a) O número de emissão;
 
@@ -271,15 +337,15 @@ i) As decisões proferidas com base nesses autos, bem como todas as condenaçõe
 
 j) Quaisquer outras menções determinadas pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 20.º - 1. A concessão da carta de caçador e os respectivos registos e averbamentos são da competência das comissões venatórias regionais.
+Art. 20.º - 1. A concessão da carta de caçador e os respectivos registos e averbamentos são da competência das comissões venatórias regionais.
 
 2. São efectuados nas câmaras municipais os averbamentos a que se refere a alínea e) do n.º 2 do artigo anterior e ainda, quando nelas se verificarem os respectivos factos, aqueles a que se refere a alínea g) do mesmo preceito.
 
-###### Art. 21.º - 1. A carta de caçador só pode ser requerida na câmara municipal do concelho da residência habitual do interessado, ou, directamente, na respectiva comissão venatória regional.
+Art. 21.º - 1. A carta de caçador só pode ser requerida na câmara municipal do concelho da residência habitual do interessado, ou, directamente, na respectiva comissão venatória regional.
 
 2. Nos concelhos sedes das referidas comissões venatórias só nestas podem ser apresentados os requerimentos.
 
-###### Art. 22.º - 1. A carta de caçador é requerida em impresso próprio, ao qual deverão ser juntos:
+Art. 22.º - 1. A carta de caçador é requerida em impresso próprio, ao qual deverão ser juntos:
 
 a) Bilhete de identidade;
 
@@ -295,11 +361,11 @@ e) Três fotografias.
 
 3. Para os nacionais e estrangeiros não residentes em território português, o bilhete de identidade e o atestado de residência podem ser substituídos pelo passaporte, e o atestado médico pode ser passado por qualquer médico.
 
-###### Art. 23.º - 1. Nas câmaras municipais, verificada a regularidade dos requerimentos e dos documentos juntos, proceder-se-á à sua remessa para a comissão venatória regional da respectiva área.
+Art. 23.º - 1. Nas câmaras municipais, verificada a regularidade dos requerimentos e dos documentos juntos, proceder-se-á à sua remessa para a comissão venatória regional da respectiva área.
 
 2. Se faltarem, porém, algum ou alguns dos documentos exigidos, dar-se-á conhecimento ao interessado dos documentos em falta e aguardar-se-á a sua apresentação, após a qual se procederá à remessa ordenada no número anterior.
 
-###### Art. 24.º - 1. A comissão venatória regional, se o requerente reunir os requisitos legalmente exigidos no artigo 6.º, concederá a carta de caçador e emitirá a mesma, para entrega ao interessado, mediante o pagamento da respectiva taxa.
+Art. 24.º - 1. A comissão venatória regional, se o requerente reunir os requisitos legalmente exigidos no artigo 6.º, concederá a carta de caçador e emitirá a mesma, para entrega ao interessado, mediante o pagamento da respectiva taxa.
 
 2. No caso contrário, será indeferido o requerimento, com expressa indicação dos fundamentos da recusa, e notificada a decisão ao interessado, por via postal.
 
@@ -307,13 +373,13 @@ e) Três fotografias.
 
 4. Pela concessão da carta de caçador é devida a taxa de 100$00.
 
-###### Art. 25.º - 1. Da recusa de concessão de carta de caçador cabe recurso para a Direcção-Geral dos Serviços Florestais e Aquícolas, a interpor no prazo de oito dias, a contar da notificação da decisão.
+Art. 25.º - 1. Da recusa de concessão de carta de caçador cabe recurso para a Direcção-Geral dos Serviços Florestais e Aquícolas, a interpor no prazo de oito dias, a contar da notificação da decisão.
 
 2. O requerimento será apresentado na comissão venatória regional, ou enviado à mesma pelo correio, de forma a ser recebido dentro do prazo fixado no número anterior, e nele deverão ser expostos os respectivos fundamentos, podendo o recorrente juntar quaisquer documentos.
 
 3. Junto o requerimento ao processo, será este enviado à Direcção-Geral, onde será submetido a despacho do Director-Geral, depois de prestada a devida informação pelos serviços, no prazo de dez dias.
 
-###### Art. 26.º - 1. Se a concessão da carta de caçador não for deliberada por unanimidade, poderá recorrer da deliberação qualquer dos membros da comissão regional que tiver ficado vencido.
+Art. 26.º - 1. Se a concessão da carta de caçador não for deliberada por unanimidade, poderá recorrer da deliberação qualquer dos membros da comissão regional que tiver ficado vencido.
 
 2. O recurso será interposto por declaração na própria sessão ou requerimento apresentado no prazo de oito dias.
 
@@ -321,19 +387,19 @@ e) Três fotografias.
 
 4. Se o recurso for interposto antes do envio da carta ao requerente, sustar-se-á a sua entrega, até à decisão.
 
-###### Art. 27.º Se nos recursos previstos nos dois artigos anteriores estiver em causa o requisito a que se refere a alínea b) do artigo 6.º, poderá ser ordenado o exame médico do interessado, nos termos do artigo 34.º
+Art. 27.º Se nos recursos previstos nos dois artigos anteriores estiver em causa o requisito a que se refere a alínea b) do artigo 6.º, poderá ser ordenado o exame médico do interessado, nos termos do artigo 34.º
 
-###### Art. 28.º O disposto nos artigos 25.º a 27.º é aplicável aos casos em que o interessado pretenda impugnar a proibição, que lhe tenha sido estabelecida, de utilizar armas de fogo, ou em que, contra o voto de algum ou alguns dos membros da comissão venatória regional, tenha sido concedida carta de caçador sem a referida proibição.
+Art. 28.º O disposto nos artigos 25.º a 27.º é aplicável aos casos em que o interessado pretenda impugnar a proibição, que lhe tenha sido estabelecida, de utilizar armas de fogo, ou em que, contra o voto de algum ou alguns dos membros da comissão venatória regional, tenha sido concedida carta de caçador sem a referida proibição.
 
-###### Art. 29.º - 1. Por cada carta de caçador serão passadas duas fichas, para nelas irem sendo registados todos os averbamentos que se efectuem.
+Art. 29.º - 1. Por cada carta de caçador serão passadas duas fichas, para nelas irem sendo registados todos os averbamentos que se efectuem.
 
 2. Uma das fichas fica arquivada nos serviços da comissão venatória regional e a outra é enviada aos serviços de inspecção da caça da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 3. Aos mesmos serviços serão oportunamente enviadas cópias de todos os averbamentos, para actualização dos registos.
 
-###### Art. 30.º A carta de caçador é válida para todo o território do continente e ilhas adjacentes e não tem prazo de validade, salvo o disposto nos artigos 31.º a 33.º
+Art. 30.º A carta de caçador é válida para todo o território do continente e ilhas adjacentes e não tem prazo de validade, salvo o disposto nos artigos 31.º a 33.º
 
-###### Art. 31.º - 1. Os titulares de carta de caçador deverão apresentar a mesma, com novo atestado médico, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 22.º, dentro do mês anterior àquele em que perfizerem 30, 40, 50 e 60 anos, e, a partir desta idade, de cinco em cinco anos.
+Art. 31.º - 1. Os titulares de carta de caçador deverão apresentar a mesma, com novo atestado médico, nos termos da alínea c) do n.º 1 e do n.º 2 do artigo 22.º, dentro do mês anterior àquele em que perfizerem 30, 40, 50 e 60 anos, e, a partir desta idade, de cinco em cinco anos.
 
 2. Será dispensada a primeira apresentação de atestado, que o caçador teria de fazer nos termos do número anterior, se entre a data da concessão da carta e o termo do prazo para essa apresentação não decorrerem mais de dois anos.
 
@@ -347,13 +413,13 @@ e) Três fotografias.
 
 7. Da decisão cabe recurso nos termos dos artigos 25.º a 28.º
 
-###### Art. 32.º - 1. A carta de caçador cujo titular não tenha observado o disposto no artigo anterior considera-se sem validade até à decisão que venha a ser proferida após a apresentação do atestado médico exigido naquele preceito, não podendo ser concedida ao mesmo qualquer licença de caça.
+Art. 32.º - 1. A carta de caçador cujo titular não tenha observado o disposto no artigo anterior considera-se sem validade até à decisão que venha a ser proferida após a apresentação do atestado médico exigido naquele preceito, não podendo ser concedida ao mesmo qualquer licença de caça.
 
 2. As cartas nessas condições deverão ser apreendidas por qualquer autoridade ou agente de autoridade com competência para o exercício da polícia e fiscalização da caça.
 
 3. A manutenção de carta de caçador mediante a apresentação de atestado médico fora dos prazos fixados no n.º 1 do artigo 31.º considera-se como concessão de nova carta, estando sujeita à correspondente taxa.
 
-###### Art. 33.º - 1. As comissões venatórias regionais deverão declarar privados da carta os caçadores que deixem de reunir qualquer dos requisitos exigidos para a sua concessão.
+Art. 33.º - 1. As comissões venatórias regionais deverão declarar privados da carta os caçadores que deixem de reunir qualquer dos requisitos exigidos para a sua concessão.
 
 2. A decisão será notificada ao interessado, com indicação concreta dos respectivos fundamentos e a ordem de entregar a carta, nos termos do artigo 38.º
 
@@ -361,7 +427,7 @@ e) Três fotografias.
 
 4. Todas as autoridades e agentes de autoridades que tiverem conhecimento de algum titular de carta de caçador não possuir os requisitos exigidos para a sua concessão deverão dar conhecimento do facto à respectiva comissão venatória regional ou à Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 34.º - 1. Quando haja fundadas suspeitas de qualquer titular de carta de caçador ser portador de anomalia ou deficiência orgânica ou fisiológica que torne perigoso o exercício dos actos venatórios, ou, em especial, o emprego de armas de fogo, que não lhe esteja ainda proibido, poderá a Direcção-Geral dos Serviços Florestais e Aquícolas, oficiosamente ou mediante proposta da comissão venatória regional, determinar a sujeição do mesmo a exame médico.
+Art. 34.º - 1. Quando haja fundadas suspeitas de qualquer titular de carta de caçador ser portador de anomalia ou deficiência orgânica ou fisiológica que torne perigoso o exercício dos actos venatórios, ou, em especial, o emprego de armas de fogo, que não lhe esteja ainda proibido, poderá a Direcção-Geral dos Serviços Florestais e Aquícolas, oficiosamente ou mediante proposta da comissão venatória regional, determinar a sujeição do mesmo a exame médico.
 
 2. A decisão que ordenar a realização do exame pode suspender o caçador da posse da carta até à decisão final, determinando a sua entrega nos termos do artigo 38.º
 
@@ -369,43 +435,43 @@ e) Três fotografias.
 
 4. Em face do resultado do exame será o interessado mantido na titularidade da carta, privado dela ou proibido do exercício da caça com armas de fogo.
 
-###### Art. 35.º - 1. Na carta de caçador concedida a menor de 21 anos será feito o averbamento de não lhe poder ser passada licença de caça, exceptuada a licença de caça sem espingarda, sem a exibição de documento comprovativo do seguro a que se refere o n.º 1 do artigo 9.º, válido para período que abranja o prazo de validade da licença.
+Art. 35.º - 1. Na carta de caçador concedida a menor de 21 anos será feito o averbamento de não lhe poder ser passada licença de caça, exceptuada a licença de caça sem espingarda, sem a exibição de documento comprovativo do seguro a que se refere o n.º 1 do artigo 9.º, válido para período que abranja o prazo de validade da licença.
 
 2. A apresentação do documento comprovativo do seguro será averbada na carta, com indicação da companhia seguradora, número da apólice e prazo de validade, e comunicada, com estas indicações, à comissão venatória regional da área da residência do titular, se a apresentação tiver sido feita na câmara municipal.
 
 3. A exigência estabelecida no n.º 1 é limitada ao período que decorra até à data em que o titular perfaça os 21 anos, a qual será expressamente indicada no averbamento.
 
-###### Art. 36.º O disposto nos n.os 1 e 2 do artigo anterior é aplicável à carta de caçador concedida a nacionais ou estrangeiros não residentes em território português, com a diferença, porém, de a prova do seguro ser exigida para a concessão de qualquer licença de caça.
+Art. 36.º O disposto nos n.os 1 e 2 do artigo anterior é aplicável à carta de caçador concedida a nacionais ou estrangeiros não residentes em território português, com a diferença, porém, de a prova do seguro ser exigida para a concessão de qualquer licença de caça.
 
-###### Art. 37.º - 1. Os titulares de carta de caçador são obrigados a comunicar à comissão venatória regional, no prazo de sessenta dias, quando mudem de residência permanente, apresentando a carta para nela ser feito o respectivo averbamento.
+Art. 37.º - 1. Os titulares de carta de caçador são obrigados a comunicar à comissão venatória regional, no prazo de sessenta dias, quando mudem de residência permanente, apresentando a carta para nela ser feito o respectivo averbamento.
 
 2. A comunicação e o envio da carta poderão ser feitos pelo correio, sob registo e com aviso de recepção.
 
 3. Feito o averbamento, se a nova residência do caçador se situar na área de outra região venatória, será enviada à respectiva comissão regional a ficha a que se refere o n.º 2 do artigo 29.º, depois de cumprido o disposto no n.º 3 do mesmo artigo.
 
-###### Art. 38.º - 1. Os titulares de carta de caçador, quando dela sejam privados ou quando seja necessário proceder a qualquer averbamento, são obrigados a apresentá-la na câmara municipal da sua residência ou na respectiva comissão venatória regional, no prazo de oito dias, a contar da notificação que para esse efeito lhe seja feita.
+Art. 38.º - 1. Os titulares de carta de caçador, quando dela sejam privados ou quando seja necessário proceder a qualquer averbamento, são obrigados a apresentá-la na câmara municipal da sua residência ou na respectiva comissão venatória regional, no prazo de oito dias, a contar da notificação que para esse efeito lhe seja feita.
 
 2. A notificação será feita por ofício a expedir sob registo do correio e com aviso de recepção.
 
 3. Nos concelhos sede das regiões venatórias a apresentação das cartas deverá ser feita na respectiva comissão venatória.
 
-###### Art. 39.º Sempre que a carta de caçador seja apreendida, por virtude da prática de qualquer infracção, ou por falta de oportuna apresentação do atestado médico, nos termos do artigo 31.º, ou tenha de ser entregue pelo titular, nos termos do artigo anterior, será passado ao titular recibo comprovativo da apreensão ou entrega.
+Art. 39.º Sempre que a carta de caçador seja apreendida, por virtude da prática de qualquer infracção, ou por falta de oportuna apresentação do atestado médico, nos termos do artigo 31.º, ou tenha de ser entregue pelo titular, nos termos do artigo anterior, será passado ao titular recibo comprovativo da apreensão ou entrega.
 
-###### Art. 40.º - 1. As cartas de caçador que se extraviem ou deteriorem podem ser renovadas, mediante requerimento dirigido à comissão venatória regional da área da residência do titular, que fornecerá uma segunda via, com todos os averbamentos devidos.
+Art. 40.º - 1. As cartas de caçador que se extraviem ou deteriorem podem ser renovadas, mediante requerimento dirigido à comissão venatória regional da área da residência do titular, que fornecerá uma segunda via, com todos os averbamentos devidos.
 
 2. A apresentação do requerimento deverá ser feita nos termos regulados no artigo 21.º
 
 3. A emissão da segunda via implica a caducidade do título original e por ela é devida a taxa de 20$00.
 
-###### Art. 41.º - 1. Sempre que seja requerida concessão de carta de caçador por quem dela já tenha sido titular, por terem desaparecido os motivos que determinaram a privação da carta, é obrigatória a menção do facto no requerimento.
+Art. 41.º - 1. Sempre que seja requerida concessão de carta de caçador por quem dela já tenha sido titular, por terem desaparecido os motivos que determinaram a privação da carta, é obrigatória a menção do facto no requerimento.
 
 2. Da nova carta deverão constar todos os averbamentos relativos à anterior.
 
-###### Art. 42.º - 1. Da importância das taxas cobradas pela concessão ou renovação de carta de caçador será atribuída metade ao Fundo Especial da Caça e Pesca e a outra metade, em parte iguais, à comissão venatória regional e à câmara municipal que interveio no processo.
+Art. 42.º - 1. Da importância das taxas cobradas pela concessão ou renovação de carta de caçador será atribuída metade ao Fundo Especial da Caça e Pesca e a outra metade, em parte iguais, à comissão venatória regional e à câmara municipal que interveio no processo.
 
 2. Se a câmara municipal não tiver tido intervenção no processo, será também atribuída à comissão venatória a parte que caberia à câmara.
 
-###### Art. 43.º - 1. O Governo poderá tornar a concessão da carta de caçador dependente de exame, para verificação dos conhecimentos indispensáveis ao adequado exercício da caça, designadamente no que respeita à regulamentação legal da actividade venatória e ao manejo de armas de fogo.
+Art. 43.º - 1. O Governo poderá tornar a concessão da carta de caçador dependente de exame, para verificação dos conhecimentos indispensáveis ao adequado exercício da caça, designadamente no que respeita à regulamentação legal da actividade venatória e ao manejo de armas de fogo.
 
 2. A sujeição ao exame previsto no número anterior poderá ser tornada extensiva aos indivíduos já titulares de carta de caçador, como condição da sua manutenção, em especial aos portadores de licença de caça com fim lucrativo e aos que sejam condenados por infracções às disposições sobre caça.
 
@@ -413,9 +479,9 @@ e) Três fotografias.
 
 ##### SUBSECÇÃO III — Licenças para o exercício da caça
 
-###### Art. 44.º Só pode exercer a caça, seja qual for o processo utilizado, quem for possuidor de licença de caça e das demais licenças exigíveis, consoante as circunstâncias, salvos os casos de isenção previstos neste diploma.
+Art. 44.º Só pode exercer a caça, seja qual for o processo utilizado, quem for possuidor de licença de caça e das demais licenças exigíveis, consoante as circunstâncias, salvos os casos de isenção previstos neste diploma.
 
-###### Art. 45.º - 1. A licença de caça pode ser:
+Art. 45.º - 1. A licença de caça pode ser:
 
 a) Licença geral de caça;
 
@@ -433,7 +499,7 @@ e) Licença de caça sem espingarda.
 
 4. A licença de caça sem espingarda apenas permite a caça de espécies de pelo, com a ajuda de cães («a corricão»), com ou sem pau, na área do concelho para que for emitida e na dos concelhos limítrofes.
 
-###### Art. 46.º - 1. A licença de caça com fim lucrativo é exigível aos que se dediquem à mesma com esse fim, por conta própria ou alheia.
+Art. 46.º - 1. A licença de caça com fim lucrativo é exigível aos que se dediquem à mesma com esse fim, por conta própria ou alheia.
 
 2. Consideram-se como dedicando-se à caça com fim lucrativo:
 
@@ -441,13 +507,13 @@ a) Os que exerçam a caça mediante remuneração;
 
 b) Os que, com habitualidade ou frequência, vendam ou cedam mediante remuneração toda ou parte da caça que capturam.
 
-###### Art. 47.º - 1. O Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Florestais e Aquícolas e ouvido o Conselho Superior da Caça, poderá limitar o número de licenças de caça com fim lucrativo a emitir por cada concelho, em cada ano ou em anos sucessivos.
+Art. 47.º - 1. O Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Florestais e Aquícolas e ouvido o Conselho Superior da Caça, poderá limitar o número de licenças de caça com fim lucrativo a emitir por cada concelho, em cada ano ou em anos sucessivos.
 
 2. A medida pode abranger apenas certos concelhos e estabelecer limitações diferenciadas, consoante as respectivas áreas e características e as necessidades concretas verificadas.
 
 3. Estabelecida esta limitação, a emissão das licenças será feita pela ordem de entrada dos pedidos, mas com preferência, nos anos seguintes, para os que não as obtiveram anteriormente.
 
-###### Art. 48.º Pela concessão das licenças de caça serão devidas as taxas seguintes:
+Art. 48.º Pela concessão das licenças de caça serão devidas as taxas seguintes:
 
 I) Licença geral de caça ... 300$00
 
@@ -467,7 +533,7 @@ IV) Licença de caça com fim lucrativo ... 300$00
 
 V) Licença de caça sem espingarda ... 40$00
 
-###### Art. 49.º São ainda exigíveis licenças:
+Art. 49.º São ainda exigíveis licenças:
 
 a) Para batedor;
 
@@ -477,13 +543,13 @@ c) De criador de furões;
 
 d) Para caçar com aves de presa.
 
-###### Art. 50.º - 1. A licença para batedor é exigível para caçar de batida, qualquer que seja a espécie, salvo para a caça maior e para a caça aos animais que se tornem nocivos.
+Art. 50.º - 1. A licença para batedor é exigível para caçar de batida, qualquer que seja a espécie, salvo para a caça maior e para a caça aos animais que se tornem nocivos.
 
 2. A licença é exigível ao caçador por cada batedor que o acompanhe, mas é utilizável por qualquer pessoa que exerça a respectiva função e é válida para todo o território do continente e ilhas adjacentes.
 
 3. Pela concessão desta licença é devida a taxa de 40$00.
 
-###### Art. 51.º - 1. A licença para caçar com furão é exigível a todos os que pratiquem actos de caça com o auxílio desses animais.
+Art. 51.º - 1. A licença para caçar com furão é exigível a todos os que pratiquem actos de caça com o auxílio desses animais.
 
 2. Se vários caçadores caçarem com o auxílio de um ou mais furões, a cada um deles é exigível a licença.
 
@@ -493,17 +559,17 @@ d) Para caçar com aves de presa.
 
 5. Pela concessão desta licença é devida à taxa de 60$00 por cada furão.
 
-###### Art. 52.º - 1. A licença de criador de furões é exigível aos que se dediquem a essa actividade para venda.
+Art. 52.º - 1. A licença de criador de furões é exigível aos que se dediquem a essa actividade para venda.
 
 2. Pela concessão da licença, que é válida para todo o território do continente e ilhas adjacentes, é devida a taxa de 250$00.
 
-###### Art. 53.º - 1. É proibido possuir ou transportar furões, bem como dar guarida a esse animais ou andar munido dos mesmos sem uma ou outra das licenças a que se referem os dois artigos anteriores.
+Art. 53.º - 1. É proibido possuir ou transportar furões, bem como dar guarida a esse animais ou andar munido dos mesmos sem uma ou outra das licenças a que se referem os dois artigos anteriores.
 
 2. Nos concelhos onde não seja autorizado o uso de furões na caça só é permitido transitar com os mesmos em estradas e caminhos públicos, caminhos de ferro e vias fluviais.
 
-###### Art. 54.º As comissões venatórias estão dispensadas de licença para possuírem furões ou para os utilizarem na captura de coelhos para repovoamento, mas tais furões não podem ser utilizados em outros actos de caça.
+Art. 54.º As comissões venatórias estão dispensadas de licença para possuírem furões ou para os utilizarem na captura de coelhos para repovoamento, mas tais furões não podem ser utilizados em outros actos de caça.
 
-###### Art. 55.º - 1. A licença para caçar com aves de presa é exigível a todos os que pratiquem actos de caça com o auxílio desses animais e para a detenção e transporte dos mesmos.
+Art. 55.º - 1. A licença para caçar com aves de presa é exigível a todos os que pratiquem actos de caça com o auxílio desses animais e para a detenção e transporte dos mesmos.
 
 2. Se vários caçadores exercerem a caça com o auxílio de uma ou mais aves de presa, a cada um deles é exigível a licença.
 
@@ -513,29 +579,29 @@ d) Para caçar com aves de presa.
 
 5. Não poderão ser transportadas aves de presa, durante o período de defeso, em terrenos frequentados por caça.
 
-###### Art. 56.º Todas as licenças reguladas neste diploma são válidas de 1 de Junho de cada ano a 31 de Maio do ano seguinte.
+Art. 56.º Todas as licenças reguladas neste diploma são válidas de 1 de Junho de cada ano a 31 de Maio do ano seguinte.
 
-###### Art. 57.º - 1. Da importância das taxas devidas pela concessão das licenças é atribuída metade ao Fundo Especial da Caça e Pesca e a outra metade, em partes iguais, à câmara municipal e à comissão venatória concelhia.
+Art. 57.º - 1. Da importância das taxas devidas pela concessão das licenças é atribuída metade ao Fundo Especial da Caça e Pesca e a outra metade, em partes iguais, à câmara municipal e à comissão venatória concelhia.
 
 2. Nos concelhos onde não haja comissão venatória concelhia, a parte não atribuída ao Fundo será dividida entre a comissão venatória regional e a câmara municipal, na proporção, respectivamente, de quatro quintos e um quinto.
 
-###### Art. 58.º - 1. As licenças serão requeridas nas câmaras municipais a pedido verbal dos interessados, devendo ser entregues no prazo de três dias, se não houver fundamento de recusa.
+Art. 58.º - 1. As licenças serão requeridas nas câmaras municipais a pedido verbal dos interessados, devendo ser entregues no prazo de três dias, se não houver fundamento de recusa.
 
 2. Para a concessão de qualquer licença é obrigatória a exibição de carta de caçador, salvo para a licença de criador de furões.
 
-###### Art. 59.º A recusa de concessão de licença será sempre fundamentada e notificada ao interessado, que dela poderá recorrer, nos termos estabelecidos no Código Administrativo.
+Art. 59.º A recusa de concessão de licença será sempre fundamentada e notificada ao interessado, que dela poderá recorrer, nos termos estabelecidos no Código Administrativo.
 
 #### SECÇÃO IV — Locais de caça
 
-###### Art. 60.º A caça pode ser exercida em todos os terrenos, nas águas interiores, no mar e nas áreas das circunscrições marítimas, observadas as condições e restrições convencionais e legais.
+Art. 60.º A caça pode ser exercida em todos os terrenos, nas águas interiores, no mar e nas áreas das circunscrições marítimas, observadas as condições e restrições convencionais e legais.
 
-###### Art. 61.º - 1. O proprietário ou os seus representantes podem opor-se ao exercício da caça, nos seus terrenos, por quem não se encontrar munido da competente licença, ou não tenha sido por ele autorizado, quando a autorização seja necessária.
+Art. 61.º - 1. O proprietário ou os seus representantes podem opor-se ao exercício da caça, nos seus terrenos, por quem não se encontrar munido da competente licença, ou não tenha sido por ele autorizado, quando a autorização seja necessária.
 
 2. Para esse efeito, os proprietários e os seus representantes podem exigir a exibição da licença aos que no exercício da caça entrem nos respectivos terrenos.
 
 3. Presumem-se representantes dos proprietários, salvo prova em contrário, todos os que se encontrem dentro dos respectivos terrenos.
 
-###### Art. 62.º - 1. É proibido caçar:
+Art. 62.º - 1. É proibido caçar:
 
 a) Nas queimadas e nos terrenos com elas confinantes numa orla de 250 m, enquanto durar o incêndio e nos dez dias seguintes;
 
@@ -557,7 +623,7 @@ h) Nas áreas de regolfo das albufeiras cujas águas sejam públicas.
 
 O exercício da caça nesses aeródromos depende, porém, de autorização dos dirigentes, tendo em vista garantir a segurança do tráfego e dos serviços e a dos próprios caçadores.
 
-###### Art. 63.º - 1. É proibido caçar sem autorização dos respectivos proprietários ou possuidores:
+Art. 63.º - 1. É proibido caçar sem autorização dos respectivos proprietários ou possuidores:
 
 a) Nos terrenos murados ou por outro modo vedados ou completa e permanentemente cercados de água, e nos quintais, viveiros, pomares, parques e jardins anexos a casas de habitação e, bem assim, em quaisquer terrenos que circundem estas e situados numa área de 300 m de raio;
 
@@ -571,7 +637,7 @@ c) Nos terrenos das coutadas.
 
 2. A autorização para caçar nas coutadas só pode ser dada por escrito, salvo para os caçadores que acompanhem o titular da coutada no exercício da caça.
 
-###### Art. 64.º - 1. Consideram-se murados ou vedados, para os efeitos da alínea a) do n.º 1 do artigo anterior, os terrenos circundados em toda a sua extensão por muros ou paredes, redes metálicas ou aramados, valados ou linhas de água, ou vedações de género equivalente, desde que satisfaçam aos requisitos definidos nos números seguintes.
+Art. 64.º - 1. Consideram-se murados ou vedados, para os efeitos da alínea a) do n.º 1 do artigo anterior, os terrenos circundados em toda a sua extensão por muros ou paredes, redes metálicas ou aramados, valados ou linhas de água, ou vedações de género equivalente, desde que satisfaçam aos requisitos definidos nos números seguintes.
 
 2. Os muros, paredes, redes, aramados e vedações semelhantes devem ter a altura mínima de 1,50 m e os valados ou linhas de água a largura mínima de 2 m.
 
@@ -581,7 +647,7 @@ c) Nos terrenos das coutadas.
 
 5. O arame dos aramados não pode ter secção com diâmetro inferior a 3 mm, excepto para os arames farpados, cuja secção mínima, como a do fio das redes, não pode ser de diâmetro inferior a 2 mm.
 
-###### Art. 65.º - 1. Os terrenos com área superior à área mínima fixada, conforme as regiões, para a constituição de coutadas, que sejam vedados nas condições prescritas no artigo anterior, após a publicação do presente regulamento, serão considerados coutadas, para o efeito de os respectivos possuidores ficarem sujeitos às obrigações estabelecidas nas alíneas a) e f) do artigo 139.º, desde que a vedação tenha o objectivo de obter para o terreno um regime correspondente ao das coutadas, com proibição do direito de livre caça.
+Art. 65.º - 1. Os terrenos com área superior à área mínima fixada, conforme as regiões, para a constituição de coutadas, que sejam vedados nas condições prescritas no artigo anterior, após a publicação do presente regulamento, serão considerados coutadas, para o efeito de os respectivos possuidores ficarem sujeitos às obrigações estabelecidas nas alíneas a) e f) do artigo 139.º, desde que a vedação tenha o objectivo de obter para o terreno um regime correspondente ao das coutadas, com proibição do direito de livre caça.
 
 2. Considera-se que a vedação tem este objectivo quando não seja necessária em razão de exploração agrícola ou pecuária efectivamente adoptada no terreno ou de actividades industriais nele exercidas.
 
@@ -593,11 +659,11 @@ c) Nos terrenos das coutadas.
 
 6. A comunicação deverá ser feita por carta registada, com aviso de recepção, no prazo de 30 dias, após a conclusão dos trabalhos, e nela deverá o interessado, quando pretenda eximir-se às obrigações a que se refere o n.º 1, indicar as razões justificativas da vedação.
 
-###### Art. 66.º - 1. A proibição a que se referem as alíneas b) a d) do n.º 1 do artigo 63.º estender-se-á a todos os períodos de caça desde que os terrenos se encontrem devidamente delimitados, mediante tabuletas indicativas da proibição de caçar, ou outros sinais convencionais dessa proibição, dos modelos oficialmente aprovados.
+Art. 66.º - 1. A proibição a que se referem as alíneas b) a d) do n.º 1 do artigo 63.º estender-se-á a todos os períodos de caça desde que os terrenos se encontrem devidamente delimitados, mediante tabuletas indicativas da proibição de caçar, ou outros sinais convencionais dessa proibição, dos modelos oficialmente aprovados.
 
 2. As tabuletas ou sinais convencionais devem ser colocados sobre postes, à altura mínima de 1,5 m, em lugares bem visíveis, em todos os locais de passagem e no perímetro do terreno, a distâncias iguais ou inferiores a 100 m, de forma que de cada uma delas se possa avistar a imediata e a antecedente.
 
-###### Art. 67.º - 1. O exercício da caça é ainda restrito:
+Art. 67.º - 1. O exercício da caça é ainda restrito:
 
 a) Aos caçadores que possuam licença especial passada pela Direcção-Geral dos Serviços Florestais e Aquícolas, nos terrenos e matas do Estado e dos corpos administrativos, submetidos ao regime florestal e sob administração directa daquela Direcção-Geral;
 
@@ -615,13 +681,13 @@ b) Aos caçadores que obtenham autorização das respectivas entidades dirigente
 
 #### SECÇÃO V — Períodos venatórios
 
-###### Art. 68.º - 1. A caça só pode ser exercida durante a época geral e nos períodos especiais fixados para a caça de certas espécies ou em determinadas circunstâncias, salvas as excepções previstas na lei.
+Art. 68.º - 1. A caça só pode ser exercida durante a época geral e nos períodos especiais fixados para a caça de certas espécies ou em determinadas circunstâncias, salvas as excepções previstas na lei.
 
 2. Considera-se período de defeso o que se situa fora da época geral da caça ou dos períodos venatórios especiais, conforme as circunstâncias.
 
-###### Art. 69.º No continente, a época geral da caça começa no dia 15 de Outubro e termina no dia 15 de Janeiro seguinte.
+Art. 69.º No continente, a época geral da caça começa no dia 15 de Outubro e termina no dia 15 de Janeiro seguinte.
 
-###### Art. 70.º - 1. É permitido caçar até 15 de Fevereiro:
+Art. 70.º - 1. É permitido caçar até 15 de Fevereiro:
 
 a) Tordos, nos pinhais e olivais situados em áreas delimitadas para esse efeito pelas comissões venatórias regionais;
 
@@ -633,15 +699,15 @@ c) Todas as espécies cinegéticas não indígenas, nas lagoas, albufeiras, estu
 
 3. A delimitação de áreas previstas no n.º 1 será feita por editais publicados até à data do encerramento da época geral da caça, depois de ouvidas as comissões venatórias concelhias.
 
-###### Art. 71.º É permitido caçar lebres até 15 de Fevereiro nos terrenos das coutadas, mas ùnicamente a cavalo e «a corricão».
+Art. 71.º É permitido caçar lebres até 15 de Fevereiro nos terrenos das coutadas, mas ùnicamente a cavalo e «a corricão».
 
-###### Art. 72.º - 1. Até 15 de Março é permitido caçar pombos bravos, com ou sem negaça, nos montados e pinhais situado ao sul do Tejo e nos concelhos de Castelo Branco, Vila Velha de Ródão, Idanha-a-Nova e Penamacor.
+Art. 72.º - 1. Até 15 de Março é permitido caçar pombos bravos, com ou sem negaça, nos montados e pinhais situado ao sul do Tejo e nos concelhos de Castelo Branco, Vila Velha de Ródão, Idanha-a-Nova e Penamacor.
 
 2. A partir, porém, da data do encerramento da época geral da caça, os pombos bravos só podem ser caçados «à espera» e sem cão, continuando a ser permitido o uso de negaça.
 
 3. Aos que pratiquem a caça nos termos do número anterior é aplicável o disposto na última parte do n.º 2 do artigo 70.º
 
-###### Art. 73.º - 1. É permitido caçar:
+Art. 73.º - 1. É permitido caçar:
 
 a) Rolas, a partir de 15 de Agosto, mas sòmente «à espera», sem rede nem cão, nos terrenos para esse efeito delimitados pelas comissões venatórias regionais;
 
@@ -653,11 +719,11 @@ b) Codornizes, a partir de 1 de Setembro, nos juncais, pauis, restolhos e milhar
 
 4. Aos que pratiquem a caça às rolas nos termos deste artigo é aplicável o disposto na última parte do n.º 2 do artigo 70.º
 
-###### Art. 74.º Nos períodos, fora da época geral de caça, em que é permitida a caça de tordos, galinholas, pombos bravos, rolas ou codornizes, poderão caçar-se também todas as espécies não indígenas, mas ùnicamente nos terrenos e pelos processos em que nesses períodos é autorizada a caça daquelas primeiras espécies.
+Art. 74.º Nos períodos, fora da época geral de caça, em que é permitida a caça de tordos, galinholas, pombos bravos, rolas ou codornizes, poderão caçar-se também todas as espécies não indígenas, mas ùnicamente nos terrenos e pelos processos em que nesses períodos é autorizada a caça daquelas primeiras espécies.
 
-###### Art. 75.º Desde 15 de Agosto até 15 de Fevereiro é permitido caçar espécies aquáticas de arribação nas rias, lagoas, albufeiras e nos estuários e litoral.
+Art. 75.º Desde 15 de Agosto até 15 de Fevereiro é permitido caçar espécies aquáticas de arribação nas rias, lagoas, albufeiras e nos estuários e litoral.
 
-###### Art. 76.º - 1. Poderá o Secretário de Estado da Agricultura, mediante portaria e ouvido o Conselho Superior da Caça:
+Art. 76.º - 1. Poderá o Secretário de Estado da Agricultura, mediante portaria e ouvido o Conselho Superior da Caça:
 
 a) Adiar a abertura da época geral da caça ou da caça a qualquer espécie;
 
@@ -669,15 +735,15 @@ c) Proibir a caça em certas zonas, por períodos de um a três anos.
 
 3. As providências previstas neste artigo poderão ser tomadas oficiosamente ou sugeridas pelas comissões venatórias regionais ou pelos organismos representativos da lavoura. Em especial, poderão os proprietários ou os grémios da lavoura das regiões onde predominem terrenos nas condições a que se referem as alíneas b) e c) do n.º 1 do artigo 63.º, solicitar o adiamento da abertura da época geral da caça de harmonia com o termo das colheitas.
 
-###### Art. 77.º O proprietário ou possuidor de prédios murados ou vedados, ou cercados de água completa e permanentemente, por forma que os animais bravios de pêlo não possam sair e entrar livremente, pode dar-lhes caça em qualquer tempo e por qualquer modo.
+Art. 77.º O proprietário ou possuidor de prédios murados ou vedados, ou cercados de água completa e permanentemente, por forma que os animais bravios de pêlo não possam sair e entrar livremente, pode dar-lhes caça em qualquer tempo e por qualquer modo.
 
-###### Art. 78.º Os períodos venatórios nas ilhas adjacentes são fixados em regulamento privativo.
+Art. 78.º Os períodos venatórios nas ilhas adjacentes são fixados em regulamento privativo.
 
 #### SECÇÃO VI — Processos de caça
 
-###### Art. 79.º A caça só pode ser exercida pelos processos autorizados no presente regulamento e com sujeição às limitações e proibições nele estabelecidas, para aplicação genérica ou consoante as espécies cinegéticas e as circunstâncias de tempo e de lugar.
+Art. 79.º A caça só pode ser exercida pelos processos autorizados no presente regulamento e com sujeição às limitações e proibições nele estabelecidas, para aplicação genérica ou consoante as espécies cinegéticas e as circunstâncias de tempo e de lugar.
 
-###### Art. 80.º Para os efeitos deste diploma entende-se por:
+Art. 80.º Para os efeitos deste diploma entende-se por:
 
 a) Caça «de salto», aquela em que um ou mais caçadores se deslocam para procurar, perseguir, apanhar ou matar a caça que eles próprios levantam, com ou sem a ajuda de cães;
 
@@ -695,9 +761,9 @@ g) Caça de barco, aquela em que o caçador se desloca utilizando este meio de t
 
 h) Caça a cavalo, aquela em que o caçador se desloca utilizando animais de sela, para perseguir e capturar caça com o auxílio de cães, sem o emprego de armas de fogo.
 
-###### Art. 81.º A caça «à espera» só é permitida, com ou sem abrigo, para as aves de arribação e para as espécies de caça maior.
+Art. 81.º A caça «à espera» só é permitida, com ou sem abrigo, para as aves de arribação e para as espécies de caça maior.
 
-###### Art. 82.º - 1. A caça com furão só é permitida:
+Art. 82.º - 1. A caça com furão só é permitida:
 
 a) Nos terrenos das coutadas, durante a época geral da caça, mas sem o auxilio de redes;
 
@@ -709,27 +775,27 @@ c) Na caça de animais que se tornem nocivos e na captura de espécies para repo
 
 3. A presunção abrange também o uso de redes, quanto aos que delas sejam portadores.
 
-###### Art. 83.º A caça de barco só é permitida para as espécies não indígenas, exceptuados os pombos bravos.
+Art. 83.º A caça de barco só é permitida para as espécies não indígenas, exceptuados os pombos bravos.
 
-###### Art. 84.º A caça a cavalo só é permitida para as lebres e para as raposas.
+Art. 84.º A caça a cavalo só é permitida para as lebres e para as raposas.
 
-###### Art. 85.º - 1. Nos terrenos de lezíria ou inundáveis dos distritos de Lisboa e Santarém, a sul da linha de caminho de ferro de Lisboa a Marvão, onde o direito de caçar seja livre, com excepção dos situados nos concelhos da Chamusca, Barquinha, Entroncamento, Constância, Abrantes e Torres Novas, só é permitido caçar lebres a cavalo, com galgos e cães de busca.
+Art. 85.º - 1. Nos terrenos de lezíria ou inundáveis dos distritos de Lisboa e Santarém, a sul da linha de caminho de ferro de Lisboa a Marvão, onde o direito de caçar seja livre, com excepção dos situados nos concelhos da Chamusca, Barquinha, Entroncamento, Constância, Abrantes e Torres Novas, só é permitido caçar lebres a cavalo, com galgos e cães de busca.
 
 2. O Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, poderá delimitar outras áreas onde a caça às lebres também só seja permitida pelo processo referido no número anterior.
 
-###### Art. 86.º - 1. O Secretário de Estado da Agricultura, mediante portaria e ouvido o Conselho Superior da Caça, poderá delimitar zonas onde a caça à raposa apenas poderá ser praticada a cavalo.
+Art. 86.º - 1. O Secretário de Estado da Agricultura, mediante portaria e ouvido o Conselho Superior da Caça, poderá delimitar zonas onde a caça à raposa apenas poderá ser praticada a cavalo.
 
 2. A delimitação sòmente poderá ser feita a requerimento de entidades que se responsabilizem por todos os prejuízos dela resultantes, podendo ser-lhes exigida a prestação de seguro ou outra forma de caução, no valor considerado adequado.
 
 3. Os terrenos das coutadas existentes nas áreas delimitadas ficarão excluídos da restrição, salvo se os respectivos concessionários e os requerentes da delimitação acordarem na sujeição.
 
-###### Art. 87.º A caça «de batida» é permitida:
+Art. 87.º A caça «de batida» é permitida:
 
 a) Para perdizes, sòmente nos terrenos das coutadas, mas com observância das limitações resultantes dos artigos 120.º e 121.º;
 
 b) Para as outras espécies, em todos os terrenos onde a sua caça não seja proibida.
 
-###### Art. 88.º - 1. É proibido:
+Art. 88.º - 1. É proibido:
 
 a) Utilizar na caça veículos de tracção animal ou mecânica ou aviões;
 
@@ -755,7 +821,7 @@ b) No que se refere às alíneas c) e g), o uso de «negaças», chamarizes e ou
 
 3. As proibições estabelecidas no n.º 1 poderão ser afastadas para a caça dos animais que se tornem nocivos, nos termos previstos na respectiva secção.
 
-###### Art. 89.º - 1. É proibido, nos terrenos onde seja livre o direito de caçar:
+Art. 89.º - 1. É proibido, nos terrenos onde seja livre o direito de caçar:
 
 a) Realizar batidas com o fim de levar a caça daqueles terrenos para os de coutada ou para outros onde o direito de caçar dependa também de autorização dos proprietários ou administradores;
 
@@ -773,15 +839,15 @@ g) Os «secretários» fazerem parte da linha de caçadores.
 
 2. O Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, poderá proibir, nos concelhos em que tal se justifique, o uso de galgos na caça que não seja às lebres, a cavalo.
 
-###### Art. 90.º Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, estabelecer quaisquer outras limitações aos processos ou meios de exercício da respectiva caça, incluindo a proibição de determinados tipos de armas de fogo.
+Art. 90.º Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, estabelecer quaisquer outras limitações aos processos ou meios de exercício da respectiva caça, incluindo a proibição de determinados tipos de armas de fogo.
 
 #### SECÇÃO VII — Espécies cinegéticas
 
-###### Art. 91.º Podem ser objecto de caça todos os animais bravios que não pertençam a espécies cuja caça esteja proibida.
+Art. 91.º Podem ser objecto de caça todos os animais bravios que não pertençam a espécies cuja caça esteja proibida.
 
-###### Art. 92.º São proibidas a captura e a destruição dos ninhos, luras, ovos e crias de qualquer espécie, salvo nos casos previstos na lei.
+Art. 92.º São proibidas a captura e a destruição dos ninhos, luras, ovos e crias de qualquer espécie, salvo nos casos previstos na lei.
 
-###### Art. 93.º - 1. É proibida a caça, em quaisquer terrenos, das espécies seguintes: corço (Capreolus capreolus L.); perdiz cinzenta, ou charrela (Perdix perdix hispaniensis Reichenow); e caimão, ou galinha-sultana (Porphyrio caeruleus Vandelli).
+Art. 93.º - 1. É proibida a caça, em quaisquer terrenos, das espécies seguintes: corço (Capreolus capreolus L.); perdiz cinzenta, ou charrela (Perdix perdix hispaniensis Reichenow); e caimão, ou galinha-sultana (Porphyrio caeruleus Vandelli).
 
 2. Desde que se encontrem fora de prédios murados ou vedados donde não possam sair nem entrar livremente, é também proibida a caça das seguintes espécies: lince (Linx pardina Temm); gato bravo (Felis sylvestris Schreber); veado (Cervos elaphus L.); gamo (Dama dama L.); e javali (Sus scrofa L.).
 
@@ -791,31 +857,31 @@ a) Nos terrenos onde o direito de caçar seja livre, em qualquer tempo;
 
 b) Nos restantes terrenos, fora da época geral da caça.
 
-###### Art. 94.º - 1. Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, proibir a respectiva caça ou limitar o número de exemplares dessa espécie que cada caçador pode abater diàriamente.
+Art. 94.º - 1. Quando a diminuição da densidade de qualquer espécie cinegética aconselhar a sua protecção, poderá o secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, proibir a respectiva caça ou limitar o número de exemplares dessa espécie que cada caçador pode abater diàriamente.
 
 2. As proibições e limitações poderão restringir a área a elas sujeita e a respectiva duração.
 
 3. Considera-se desde já interdita a destruição das aves e mamíferos incluídos no quadro anexo ao presente diploma.
 
-###### Art. 95.º Considera-se para todos os efeitos como caça de espécies proibidas:
+Art. 95.º Considera-se para todos os efeitos como caça de espécies proibidas:
 
 a) A caça de qualquer animal em local onde não seja permitida a caça da respectiva espécie, salvo se praticada sob a autorização prevista no artigo seguinte;
 
 b) A inobservância do limite de exemplares a abater em cada dia, estabelecido ao abrigo do n.º 1 do artigo anterior.
 
-###### Art. 96.º - 1. A captura das espécies mencionadas nos artigos 93.º e 94.º, bem como dos respectivos ninhos e ovos, pode ser autorizada pelo Secretário de Estado da Agricultura, ouvido o Conselho Superior da Caça, desde que se comprove destinarem-se a institutos de investigação científica, museus de história natural ou de caça, à colecção de ornitologistas de comprovada competência e idoneidade ou a outros fins científicos ou didácticos.
+Art. 96.º - 1. A captura das espécies mencionadas nos artigos 93.º e 94.º, bem como dos respectivos ninhos e ovos, pode ser autorizada pelo Secretário de Estado da Agricultura, ouvido o Conselho Superior da Caça, desde que se comprove destinarem-se a institutos de investigação científica, museus de história natural ou de caça, à colecção de ornitologistas de comprovada competência e idoneidade ou a outros fins científicos ou didácticos.
 
 2. Na autorização serão fixados o período da sua validade e a espécie e o número dos exemplares cuja captura for autorizada.
 
-###### Art. 97.º Os exemplares de espécies cuja caça esteja proibida que forem abatidos sem autorização prevista no artigo anterior serão apreendidos e remetidos à Direcção-Geral dos Serviços Florestais e Aquícolas, que poderá entregá-los a museus de história natural ou de caça ou a estabelecimentos de ensino ou científicos, conforme for conveniente.
+Art. 97.º Os exemplares de espécies cuja caça esteja proibida que forem abatidos sem autorização prevista no artigo anterior serão apreendidos e remetidos à Direcção-Geral dos Serviços Florestais e Aquícolas, que poderá entregá-los a museus de história natural ou de caça ou a estabelecimentos de ensino ou científicos, conforme for conveniente.
 
-###### Art. 98.º Poderá o Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça:
+Art. 98.º Poderá o Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça:
 
 a) Fazer cessar a proibição da caça para as espécies cuja densidade tenha atingido um nível adequado;
 
 b) Autorizar, em condições a fixar, a caça de espécies relativamente às quais a mesma esteja proibida, nas regiões em que se verifique a sua excepcional densidade ou onde se comprove causarem prejuízos às culturas.
 
-###### Art. 99.º Para os efeitos do presente regulamento são consideradas:
+Art. 99.º Para os efeitos do presente regulamento são consideradas:
 
 a) Espécies indígenas: a perdiz (Alectoris rufa hispanica Seoane), a abetarda (Otis tarda L.), o sisão (Otis tetrax L.), a lebre (Lepus capensis L.) e o coelho (Oryctolagus cuniculus L.);
 
@@ -823,67 +889,67 @@ b) Espécies de caça maior: veado (Cervos elaphus L.), gamo (Dama dama L.), cor
 
 #### SECÇÃO VIII — Defesa contra animais que se tornem nocivos
 
-###### Art. 100.º - 1. É permitido, em todo o tempo e nos termos da lei, destruir os animais que se tornem nocivos à agricultura, à caça e à pesca.
+Art. 100.º - 1. É permitido, em todo o tempo e nos termos da lei, destruir os animais que se tornem nocivos à agricultura, à caça e à pesca.
 
 2. O direito previsto neste artigo pode ser exercido, independentemente de carta de caçador e de licença de caça, pelos proprietários ou agricultores e pelas pessoas por eles autorizadas, nos terrenos em que os animais nocivos causem prejuízos.
 
 3. Serão definidas em portaria as espécies a que é aplicável o presente artigo e as condições em que os respectivos animais se podem considerar nocivos.
 
-###### Art. 101.º Os pombos mansos que forem encontrados a causar prejuízos em quaisquer propriedades podem ser abatidos, nos termos dos n.os 1 e 2 do artigo anterior.
+Art. 101.º Os pombos mansos que forem encontrados a causar prejuízos em quaisquer propriedades podem ser abatidos, nos termos dos n.os 1 e 2 do artigo anterior.
 
-###### Art. 102.º São considerados como nocivos, podendo ser abatidos, os gatos encontrados a vaguear em terrenos frequentados por caça, a mais de 300 m de casa habitada.
+Art. 102.º São considerados como nocivos, podendo ser abatidos, os gatos encontrados a vaguear em terrenos frequentados por caça, a mais de 300 m de casa habitada.
 
-###### Art. 103.º - 1. O Secretário de Estado da Agricultura poderá autorizar, mesmo em tempo de defeso, as providências necessárias à verificação e à correcção da densidade dos animais de espécies cinegéticas, incluindo o uso de processos ou meios de caça legalmente proibidos, nos terrenos em que eles, pela sua abundância, se tornem nocivos.
+Art. 103.º - 1. O Secretário de Estado da Agricultura poderá autorizar, mesmo em tempo de defeso, as providências necessárias à verificação e à correcção da densidade dos animais de espécies cinegéticas, incluindo o uso de processos ou meios de caça legalmente proibidos, nos terrenos em que eles, pela sua abundância, se tornem nocivos.
 
 2. A apreciação do pedido de autorização deverá fazer-se no prazo de quinze dias, a contar da sua entrada na Direcção-Geral dos Serviços Florestais e Aquícolas, considerando-se deferido se nada for comunicado dentro desse prazo.
 
 3. A autorização especificará os processos ou meios de caçar que poderão ser utilizados, além dos legalmente permitidos, entendendo-se, na falta de comunicação em contrário, que poderão ser usados todos aqueles cuja utilização foi pedida.
 
-###### Art. 104.º Os proprietários ou agricultores prejudicados pelos animais de espécies cinegéticas nas condições previstas no n.º 1 do artigo anterior poderão optar, em vez do uso da faculdade concedida na parte final do mesmo preceito, pela indemnização dos danos causados por aqueles animais, a pagar pela comissão venatória do concelho da situação dos prédios e a fixar por acordo com a mesma.
+Art. 104.º Os proprietários ou agricultores prejudicados pelos animais de espécies cinegéticas nas condições previstas no n.º 1 do artigo anterior poderão optar, em vez do uso da faculdade concedida na parte final do mesmo preceito, pela indemnização dos danos causados por aqueles animais, a pagar pela comissão venatória do concelho da situação dos prédios e a fixar por acordo com a mesma.
 
 #### SECÇÃO IX — Disposições diversas
 
-###### Art. 105.º Os guardas particulares com direito ao uso de espingarda de caça para guarda das propriedades, bem como os pastores, embora possuam licença de caça, só poderão ser portadores, durante as respectivas actividades de guarda e pastorícia, de cartuchos com bala maciça ou zagalotes.
+Art. 105.º Os guardas particulares com direito ao uso de espingarda de caça para guarda das propriedades, bem como os pastores, embora possuam licença de caça, só poderão ser portadores, durante as respectivas actividades de guarda e pastorícia, de cartuchos com bala maciça ou zagalotes.
 
-###### Art. 106.º É proibido conduzir os trabalhos de campo com o propósito de apanhar caça durante a sua execução ou em seu resultado.
+Art. 106.º É proibido conduzir os trabalhos de campo com o propósito de apanhar caça durante a sua execução ou em seu resultado.
 
-###### Art. 107.º É proibida a detenção de perdizes ou perdigões vivos, ou dos respectivos ovos, exceptuados os jardins zoológicos, postos de criação artificial de caça, organismos venatórios que os utilizem para fins de repovoamento e as entidades a tal autorizadas pela Direcção-Geral dos Serviços Florestais e Aquícolas, para fins devidamente justificados.
+Art. 107.º É proibida a detenção de perdizes ou perdigões vivos, ou dos respectivos ovos, exceptuados os jardins zoológicos, postos de criação artificial de caça, organismos venatórios que os utilizem para fins de repovoamento e as entidades a tal autorizadas pela Direcção-Geral dos Serviços Florestais e Aquícolas, para fins devidamente justificados.
 
-###### Art. 108.º - 1. Nenhum caçador poderá capturar em cada dia, com o auxílio de aves de presa, mais de oito exemplares de espécies cinegéticas.
+Art. 108.º - 1. Nenhum caçador poderá capturar em cada dia, com o auxílio de aves de presa, mais de oito exemplares de espécies cinegéticas.
 
 2. É aplicável aos que sejam portadores de aves de presa, com a necessária adaptação, o disposto no n.º 2 do artigo 82.º
 
 3. Poderá o Secretário de Estado da Agricultura, por meio de portaria e ouvido o Conselho Superior da Caça, alterar o limite fixado no n.º 1.
 
-###### Art. 109.º - 1. A Direcção-Geral dos Serviços Florestais e Aquícolas poderá autorizar o treino de aves de presa fora da época geral de caça.
+Art. 109.º - 1. A Direcção-Geral dos Serviços Florestais e Aquícolas poderá autorizar o treino de aves de presa fora da época geral de caça.
 
 2. Os treinos só poderão ter lugar nos terrenos e nas condições expressamente indicados na autorização.
 
-###### Art. 110.º São permitidos torneios de tiro aos pombos, desde que se efectuem em recintos legalmente autorizados.
+Art. 110.º São permitidos torneios de tiro aos pombos, desde que se efectuem em recintos legalmente autorizados.
 
 ### CAPÍTULO II — Coutadas e reservas de caça
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 111.º Para protecção e fomento das espécies cinegéticas poderão ser constituídas coutadas ou coutos de caça.
+Art. 111.º Para protecção e fomento das espécies cinegéticas poderão ser constituídas coutadas ou coutos de caça.
 
-###### Art. 112.º Com o mesmo objectivo e para a promoção de fins científicos serão constituídas reservas de caça.
+Art. 112.º Com o mesmo objectivo e para a promoção de fins científicos serão constituídas reservas de caça.
 
 #### SECÇÃO II — Coutadas ou coutos de caça
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 113.º A concessão de coutadas de caça atribui ao seu titular o direito de caçar nos respectivos terrenos com exclusão de todos os outros caçadores, que sòmente aí poderão caçar se dele obtiverem autorização, nos termos do n.º 2 do artigo 63.º
+Art. 113.º A concessão de coutadas de caça atribui ao seu titular o direito de caçar nos respectivos terrenos com exclusão de todos os outros caçadores, que sòmente aí poderão caçar se dele obtiverem autorização, nos termos do n.º 2 do artigo 63.º
 
-###### Art. 114.º - 1. Compete ao Secretário de Estado da Agricultura, por meio de portaria, a concessão de coutadas, ouvido o Conselho Superior da Caça.
+Art. 114.º - 1. Compete ao Secretário de Estado da Agricultura, por meio de portaria, a concessão de coutadas, ouvido o Conselho Superior da Caça.
 
 2. Na apreciação dos pedidos atender-se-á não só à idoneidade moral do requerente, como às suas possibilidades técnicas e económicas perante as obrigações que terá de assumir.
 
 3. Não poderá conceder-se coutada quando os terrenos não estiverem nas condições indispensáveis à protecção e desenvolvimento das espécies.
 
-###### Art. 115.º Os terrenos das coutadas consideram-se submetidos ao regime florestal parcial, de harmonia com as suas características, sem sujeição ao limite fixado no § 1.º do artigo 42.º do regulamento aprovado pelo Decreto n.º 39931, de 24 de Novembro de 1954, tratando-se de terrenos de feição predominantemente agrícola.
+Art. 115.º Os terrenos das coutadas consideram-se submetidos ao regime florestal parcial, de harmonia com as suas características, sem sujeição ao limite fixado no § 1.º do artigo 42.º do regulamento aprovado pelo Decreto n.º 39931, de 24 de Novembro de 1954, tratando-se de terrenos de feição predominantemente agrícola.
 
-###### Art. 116.º - 1. Poderão requerer a concessão de coutadas:
+Art. 116.º - 1. Poderão requerer a concessão de coutadas:
 
 a) O proprietário dos terrenos, bem como o usufrutuário, o enfiteuta, ou o arrendatário com o consentimento daqueles, individualmente ou em grupo;
 
@@ -897,13 +963,13 @@ d) As câmaras municipais, as juntas de freguesia, as juntas gerais dos distrito
 
 3. A Direcção-Geral dos Serviços Florestais e Aquícolas deverá estimular a constituição de coutadas pelas comissões venatórias, especialmente nas regiões onde predomina a pequena propriedade, concedendo-lhes para o efeito, na medida do possível, os meios necessários.
 
-###### Art. 117.º - 1. Cada associação de caçadores não poderá administrar mais de 3000 ha de terrenos em regime de coutada.
+Art. 117.º - 1. Cada associação de caçadores não poderá administrar mais de 3000 ha de terrenos em regime de coutada.
 
 2. Para os efeitos do número anterior, cada caçador não poderá pertencer a mais de três associações e nenhuma associação poderá constituir-se ou funcionar com menos de vinte sócios.
 
 3. O limite fixado no n.º 1 não se aplica às coutadas destinadas à exploração de caça maior.
 
-###### Art. 118.º - 1. Na concessão de coutadas observar-se-á a seguinte ordem de preferências:
+Art. 118.º - 1. Na concessão de coutadas observar-se-á a seguinte ordem de preferências:
 
 a) Pedidos respeitantes a terrenos que beneficiem da declaração de interesse turístico cinegético;
 
@@ -927,35 +993,35 @@ b) Aos pedidos primeiramente formulados.
 
 4. O interesse turístico cinegético das coutadas será declarado pela Presidência do Conselho, da qual ficam a depender nos aspectos ligados à exploração turística.
 
-###### Art. 119.º As coutadas de caça serão concedidas por prazo não superior a seis anos, prorrogável por períodos sucessivos de igual duração, sem prejuízo do que se estabelece nos artigos 160.º e seguintes.
+Art. 119.º As coutadas de caça serão concedidas por prazo não superior a seis anos, prorrogável por períodos sucessivos de igual duração, sem prejuízo do que se estabelece nos artigos 160.º e seguintes.
 
-###### Art. 120.º - 1. Poderá ser fixado, tendo em atenção a densidade das espécies das respectivas áreas, o número máximo de exemplares de certa ou certas espécies que em cada época venatória é permitido abater nas coutadas.
+Art. 120.º - 1. Poderá ser fixado, tendo em atenção a densidade das espécies das respectivas áreas, o número máximo de exemplares de certa ou certas espécies que em cada época venatória é permitido abater nas coutadas.
 
 2. Estes máximos serão sempre fixados em função do número de hectares das áreas das coutadas.
 
 3. A fixação prevista neste artigo será feita por portaria do Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas e ouvido o Conselho Superior da Caça.
 
-###### Art. 121.º - 1. Independentemente dos limites a que se refere o artigo anterior, não poderão ser abatidas, em qualquer coutada e por cada época venatória, perdizes em número superior ao número de hectares da respectiva área.
+Art. 121.º - 1. Independentemente dos limites a que se refere o artigo anterior, não poderão ser abatidas, em qualquer coutada e por cada época venatória, perdizes em número superior ao número de hectares da respectiva área.
 
 2. A Direcção-Geral dos Serviços Florestais e Aquícolas poderá aumentar este limite, a requerimento do concessionário, se a densidade de população da espécie o justificar.
 
 3. A autorização só poderá ser dada depois de verificado o respectivo fundamento através das diligências convenientes, cujas despesas serão suportadas pelo requerente.
 
-###### Art. 122.º - 1. Os concessionários, ou os que em seu lugar exerçam a exploração da coutada, poderão cobrar uma quantia pela concessão de autorização para caçar nos respectivos terrenos.
+Art. 122.º - 1. Os concessionários, ou os que em seu lugar exerçam a exploração da coutada, poderão cobrar uma quantia pela concessão de autorização para caçar nos respectivos terrenos.
 
 2. Nas coutadas que beneficiem da declaração de interesse turístico e nas que sejam exploradas pelas comissões venatórias, o exercício daquela faculdade depende de aprovação, respectivamente, da Presidência da Conselho e da Secretaria de Estado da Agricultura.
 
-###### Art. 123.º - 1. As decisões da Presidência do Conselho que aprovem a cobrança prevista no artigo anterior fixarão as importâncias a pagar pelas autorizações e as condições da sua concessão.
+Art. 123.º - 1. As decisões da Presidência do Conselho que aprovem a cobrança prevista no artigo anterior fixarão as importâncias a pagar pelas autorizações e as condições da sua concessão.
 
 2. As decisões deverão ser comunicadas pelo Comissariado do Turismo à Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 124.º - 1. As autorizações de caça nas coutadas exploradas por comissões venatórias serão concedidas para o período de um dia e por elas não poderão ser cobradas, para caçadores nacionais, quantias superiores a 50$00, nas caçadas «de salto», e 200$00, nas «de batida».
+Art. 124.º - 1. As autorizações de caça nas coutadas exploradas por comissões venatórias serão concedidas para o período de um dia e por elas não poderão ser cobradas, para caçadores nacionais, quantias superiores a 50$00, nas caçadas «de salto», e 200$00, nas «de batida».
 
 2. Estas quantias serão reduzidas, respectivamente, a 20$00 e 80$00, para os caçadores que, residindo no respectivo concelho, provem, por atestado da junta de freguesia da sua residência, ter rendimento mensal inferior a 1500$00.
 
 3. Os valores fixados nos números anteriores poderão ser alterados mediante portaria do Secretário de Estado da Agricultura.
 
-###### Art. 125.º - 1. Os caçadores residentes no respectivo concelho terão preferência na concessão de autorizações de caça nas coutadas exploradas pelas comissões venatórias concelhias, até dois terços dos números diários autorizados para a caça «de salto» ou para as portas das batidas.
+Art. 125.º - 1. Os caçadores residentes no respectivo concelho terão preferência na concessão de autorizações de caça nas coutadas exploradas pelas comissões venatórias concelhias, até dois terços dos números diários autorizados para a caça «de salto» ou para as portas das batidas.
 
 2. Para esse efeito, a comissão venatória deverá abrir a inscrição para a concessão de autorizações de caça até dez dias antes do início da época de caça, sendo de observar, quando for necessário, os critérios de preferência estabelecidos no n.º 3 do artigo 47.º
 
@@ -963,13 +1029,13 @@ b) Aos pedidos primeiramente formulados.
 
 ##### SUBSECÇÃO II — Limitação à concessão de coutadas
 
-###### Art. 126.º A concessão de coutadas está sujeita a limites quanto à área de cada uma delas e quanto à área máxima que dentro de cada concelho pode ser submetida ao respectivo regime.
+Art. 126.º A concessão de coutadas está sujeita a limites quanto à área de cada uma delas e quanto à área máxima que dentro de cada concelho pode ser submetida ao respectivo regime.
 
-###### Art. 127.º - 1. A área máxima que em cada concelho pode ser sujeita ao regime de coutada será fixada, mediante portaria do Secretário de Estado da Agricultura, em percentagem das respectivas superfícies, consoante a sua extensão e características, designadamente a inaptidão dos terrenos para a exploração agrícola ou florestal, a densidade de população e as condições de desenvolvimento das espécies, não podendo, porém, exceder 40 por cento, salvo circunstâncias especiais, derivadas da natureza dos terrenos.
+Art. 127.º - 1. A área máxima que em cada concelho pode ser sujeita ao regime de coutada será fixada, mediante portaria do Secretário de Estado da Agricultura, em percentagem das respectivas superfícies, consoante a sua extensão e características, designadamente a inaptidão dos terrenos para a exploração agrícola ou florestal, a densidade de população e as condições de desenvolvimento das espécies, não podendo, porém, exceder 40 por cento, salvo circunstâncias especiais, derivadas da natureza dos terrenos.
 
 2. Não poderá beneficiar de declaração de interesse turístico cinegético mais de metade da área que em cada concelho possa ser sujeita ao regime de coutada.
 
-###### Art. 128.º - 1. As coutadas ou conjuntos de coutadas contíguas não poderão ter áreas inferiores nem superiores às seguintes:
+Art. 128.º - 1. As coutadas ou conjuntos de coutadas contíguas não poderão ter áreas inferiores nem superiores às seguintes:
 
 a) 30 ha e 1500 ha, a norte do rio Tejo, com excepção dos distritos de Castelo Branco e Santarém;
 
@@ -983,7 +1049,7 @@ a) 1500 ha e 6000 ha, para as coutadas declaradas de interesse turístico cineg�
 
 b) 2000 ha e 10000 ha, para as coutadas destinadas à exploração de caça maior.
 
-###### Art. 129.º - 1. Para a efectiva garantia dos limites estabelecidos no artigo anterior, as coutadas ou conjuntos de coutadas contíguas que atinjam a área máxima fixada para a região respectiva terão de ser separadas de outras coutadas por «corredores» ou espaços de terrenos onde o direito de caçar seja livre, com a largura mínima de 600 m.
+Art. 129.º - 1. Para a efectiva garantia dos limites estabelecidos no artigo anterior, as coutadas ou conjuntos de coutadas contíguas que atinjam a área máxima fixada para a região respectiva terão de ser separadas de outras coutadas por «corredores» ou espaços de terrenos onde o direito de caçar seja livre, com a largura mínima de 600 m.
 
 2. A obrigatoriedade e localização dos «corredores» serão determinadas pela Direcção-Geral dos Serviços Florestais e Aquícolas, com observância das normas seguintes:
 
@@ -993,13 +1059,13 @@ b) Se a área da coutada menor for igual ou superior a 50 por cento e inferior a
 
 c) Se a área da coutada menor for igual ou superior a 75 por cento da área da maior, o «corredor» será demarcado em igual largura em cada uma delas.
 
-###### Art. 130.º - 1. Os concessionários que forem notificados da obrigatoriedade e localização dos «corredores» poderão recorrer para o Secretário de Estado da Agricultura, mediante requerimento a apresentar na Direcção-Geral dos Serviços Florestais e Aquícolas, no prazo de quinze dias.
+Art. 130.º - 1. Os concessionários que forem notificados da obrigatoriedade e localização dos «corredores» poderão recorrer para o Secretário de Estado da Agricultura, mediante requerimento a apresentar na Direcção-Geral dos Serviços Florestais e Aquícolas, no prazo de quinze dias.
 
 2. Os concessionários poderão também propor uma diversa localização dos «corredores», mediante requerimento a apresentar dentro do mesmo prazo. Mas se a localização proposta abranger terrenos pertencentes a outras pessoas, deverá ser junto documento comprovativo da concordância das mesmas.
 
 ##### SUBSECÇÃO III — Processo de concessão de coutadas
 
-###### Art. 131.º - 1. A concessão de coutadas é requerida ao Secretário de Estado da Agricultura, mediante requerimento a apresentar na Direcção-Geral dos Serviços Florestais e Aquícolas ou nos seus serviços externos.
+Art. 131.º - 1. A concessão de coutadas é requerida ao Secretário de Estado da Agricultura, mediante requerimento a apresentar na Direcção-Geral dos Serviços Florestais e Aquícolas ou nos seus serviços externos.
 
 2. Os requerimentos poderão também ser enviados pelo correio para a Direcção-Geral, mas, neste caso, não são admitidas reclamações sobre a sua falta ou sobre a data de apresentação quando não tenham sido remetidos sob registo e com aviso de recepção.
 
@@ -1015,7 +1081,7 @@ d) A existência de qualquer dos motivos de preferência previstos no n.º 1 do 
 
 e) A indicação das coutadas de que o requerente já beneficia, com menção das respectivas áreas, ou de não beneficiar ainda de nenhuma.
 
-###### Art. 132.º - 1. Os interessados deverão juntar aos requerimentos os seguintes elementos;
+Art. 132.º - 1. Os interessados deverão juntar aos requerimentos os seguintes elementos;
 
 a) Planta cadastral da área a submeter ao regime de coutada, em papel de tela e na escala de 1:5000, com indicação nítida das delimitações das diferentes parcelas arborizadas e dos diferentes terrenos de cultura e menção das respectivas superfícies e, ainda, a redução do contorno dos terrenos à escala de 1:25000 e a sua referenciação à Carta Militar de Portugal, nessa escala;
 
@@ -1031,7 +1097,7 @@ f) Projecto de contrato com a entidade que pretende efectuar a administração e
 
 2. A planta cadastral a que se refere a alínea a) do n.º 1 poderá ser substituída, nos concelhos onde ainda não vigore o cadastro geométrico, por planta topográfica que satisfaça às exigências ali definidas.
 
-###### Art. 133.º - 1. O projecto do regulamento a que se refere a alínea e) do n.º 1 do artigo anterior deverá conter todas as normas segundo as quais se pretende efectuar a administração e exploração da coutada e o seu ordenamento cinegético.
+Art. 133.º - 1. O projecto do regulamento a que se refere a alínea e) do n.º 1 do artigo anterior deverá conter todas as normas segundo as quais se pretende efectuar a administração e exploração da coutada e o seu ordenamento cinegético.
 
 2. O projecto deverá abranger discriminadamente os aspectos seguintes:
 
@@ -1055,17 +1121,17 @@ i) Plano sumário das batidas;
 
 j) Autorização ou proibição de uso de armas de repetição, automáticas ou semiautomáticas, com mais de dois cartuchos.
 
-###### Art. 134.º Poderão ser determinadas as alterações que se mostrem convenientes nos projectos do regulamento de administração da coutada e do contrato para a sua exploração, condicionando-se a concessão à aceitação daquelas alterações.
+Art. 134.º Poderão ser determinadas as alterações que se mostrem convenientes nos projectos do regulamento de administração da coutada e do contrato para a sua exploração, condicionando-se a concessão à aceitação daquelas alterações.
 
-###### Art. 135.º A Direcção-Geral dos Serviços Florestais e Aquícolas publicará mensalmente no Diário do Governo a lista dos pedidos de concessão de coutadas apresentados durante o mês anterior, mencionando, para cada um, a data de apresentação, a identificação dos requerentes, a denominação e situação das propriedades ou terrenos objecto do pedido e, quando invocado, o fundamento de preferência alegado, dentro do quadro estabelecido no n.º 1 do artigo 118.º
+Art. 135.º A Direcção-Geral dos Serviços Florestais e Aquícolas publicará mensalmente no Diário do Governo a lista dos pedidos de concessão de coutadas apresentados durante o mês anterior, mencionando, para cada um, a data de apresentação, a identificação dos requerentes, a denominação e situação das propriedades ou terrenos objecto do pedido e, quando invocado, o fundamento de preferência alegado, dentro do quadro estabelecido no n.º 1 do artigo 118.º
 
-###### Art. 136.º - 1. A Direcção-Geral dos Serviços Florestais e Aquícolas procederá sempre a vistoria dos terrenos para verificar se possuem as condições convenientes à protecção e ao desenvolvimento das espécies e a adequação do projecto de regulamento de administração e exploração.
+Art. 136.º - 1. A Direcção-Geral dos Serviços Florestais e Aquícolas procederá sempre a vistoria dos terrenos para verificar se possuem as condições convenientes à protecção e ao desenvolvimento das espécies e a adequação do projecto de regulamento de administração e exploração.
 
 2. As despesas da vistoria serão suportadas pelo requerente, que depositará prèviamente a importância provável que for calculada, no prazo de dez dias a contar do aviso que receba para esse fim.
 
 Feita a vistoria, será restituído o saldo, se o houver, ou avisado o requerente para completar o depósito.
 
-###### Art. 137.º Publicada a portaria de concessão de uma coutada, será passado o respectivo alvará, que deverá mencionar:
+Art. 137.º Publicada a portaria de concessão de uma coutada, será passado o respectivo alvará, que deverá mencionar:
 
 a) A identificação do concessionário;
 
@@ -1081,13 +1147,13 @@ f) A aprovação do contrato para a exploração, quando exista;
 
 g) As obrigações a que fica sujeito o concessionário, incluindo as condições que tenham sido fixadas na decisão de concessão.
 
-###### Art. 138.º - 1. Entregue o alvará ao interessado e paga por este a taxa devida, correspondente ao primeiro ano, a Direcção-Geral dos Serviços Florestais e Aquícolas fará anunciar a constituição da coutada por meio de editais a afixar nos lugares públicos de estilo.
+Art. 138.º - 1. Entregue o alvará ao interessado e paga por este a taxa devida, correspondente ao primeiro ano, a Direcção-Geral dos Serviços Florestais e Aquícolas fará anunciar a constituição da coutada por meio de editais a afixar nos lugares públicos de estilo.
 
 2. O início da vigência do regime de coutada só poderá ter lugar no período entre 15 de Março e 15 de Agosto, depois de decorridos 30 dias sobre a afixação dos editais a que se refere o número anterior.
 
 ##### SUBSECÇÃO IV — Obrigações dos concessionários de coutadas
 
-###### Art. 139.º O concessionário da coutada é obrigado:
+Art. 139.º O concessionário da coutada é obrigado:
 
 a) A pagar a taxa anual devida, salvo se beneficiar de isenção;
 
@@ -1111,7 +1177,7 @@ j) A pagar a taxa devida pelo arrendamento da coutada;
 
 l) A comunicar a transmissão do direito de propriedade e de usufruto dos terrenos da coutada e a extinção desse usufruto.
 
-###### Art. 140.º - 1. A taxa anual a satisfazer pelos concessionários de coutadas será determinada em função das respectivas áreas, nos termos seguintes:
+Art. 140.º - 1. A taxa anual a satisfazer pelos concessionários de coutadas será determinada em função das respectivas áreas, nos termos seguintes:
 
 a) Para as coutadas em geral:
 
@@ -1135,11 +1201,11 @@ Por cada hectare a mais ... 6$00
 
 4. O produto das taxas previstas neste artigo constitui receita do Fundo Especial da Caça e Pesca.
 
-###### Art. 141.º - 1. As taxas a que se refere o artigo anterior serão pagas adiantadamente, de 1 a 31 de Maio de cada ano, mediante guias a remeter aos interessados pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 141.º - 1. As taxas a que se refere o artigo anterior serão pagas adiantadamente, de 1 a 31 de Maio de cada ano, mediante guias a remeter aos interessados pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 2. Não produzirá nenhuns efeitos a concessão de qualquer coutada sem o prévio pagamento da taxa devida, para o que poderá o interessado solicitar a passagem de guias logo após a publicação da portaria respectiva.
 
-###### Art. 142.º - 1. Ficam isentos da taxa prevista no artigo 140.º:
+Art. 142.º - 1. Ficam isentos da taxa prevista no artigo 140.º:
 
 a) Permanentemente, as coutadas exploradas pelas comissões venatórias ou pelas entidades a que se refere a alínea d) do n.º 1 do artigo 116.º e as que beneficiem da declaração de interesse turístico;
 
@@ -1147,13 +1213,13 @@ b) Durante os primeiros cinco anos, as coutadas constituídas por associação d
 
 2. As regiões a que se refere a alínea b) do número anterior serão definidas em portaria do Secretário de Estado da Agricultura.
 
-###### Art. 143.º - 1. Os concessionários das coutadas são obrigados a delimitar e sinalizar as mesmas com tabuletas do modelo oficialmente aprovado, colocadas nos termos estabelecidos no n.º 2 do artigo 66.º
+Art. 143.º - 1. Os concessionários das coutadas são obrigados a delimitar e sinalizar as mesmas com tabuletas do modelo oficialmente aprovado, colocadas nos termos estabelecidos no n.º 2 do artigo 66.º
 
 2. A delimitação e sinalização deverão estar concluídas dentro do prazo de 60 dias, a contar da entrega do alvará de concessão da coutada, podendo esse prazo ser prorrogado pela Direcção-Geral dos Serviços Florestais e Aquícolas, a requerimento dos interessados, havendo motivo justificado.
 
 3. Os concessionários são obrigados a manter as tabuletas em bom estado de conservação e a substituir as que se inutilizem ou desapareçam.
 
-###### Art. 144.º - 1. Os concessionários são igualmente obrigados a demarcar e sinalizar os «corredores» que tenham sido determinados pela Direcção-Geral dos Serviços Florestais e Aquícolas, nos termos do artigo 129.º
+Art. 144.º - 1. Os concessionários são igualmente obrigados a demarcar e sinalizar os «corredores» que tenham sido determinados pela Direcção-Geral dos Serviços Florestais e Aquícolas, nos termos do artigo 129.º
 
 2. A demarcação e sinalização deverão ser concluídas dentro de 60 dias, a contar:
 
@@ -1165,17 +1231,17 @@ b) Da notificação efectuada para o efeito, quando a demarcação dos «corredo
 
 4. É aplicável às tabuletas impostas neste artigo o disposto no n.º 3 do artigo anterior.
 
-###### Art. 145.º - 1. O concessionário de cada coutada é obrigado a assegurar a permanente fiscalização dos respectivos terrenos pelo número de guardas que for fixado no alvará de concessão.
+Art. 145.º - 1. O concessionário de cada coutada é obrigado a assegurar a permanente fiscalização dos respectivos terrenos pelo número de guardas que for fixado no alvará de concessão.
 
 2. Esses guardas poderão ser guardas florestais requisitados pelo concessionário à Direcção-Geral dos Serviços Florestais e Aquícolas, ou guardas florestais auxiliares.
 
 3. Os guardas florestais requisitados e os guardas florestais auxiliares devem obediência aos concessionários das coutadas onde prestem serviço, mas sempre sem prejuízo das suas funções de agentes de autoridade para o exercício da polícia florestal e rural e da polícia e fiscalização da caça e pesca.
 
-###### Art. 146.º - 1. Os guardas florestais que a Direcção-Geral dos Serviços Florestais e Aquícolas mandar exercer funções nas coutadas, consoante as conveniências e possibilidades do serviço, serão destacados para o Funde Especial da Caça e Pesca e a sua situação será regulada pelo § 2.º do artigo 57.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956.
+Art. 146.º - 1. Os guardas florestais que a Direcção-Geral dos Serviços Florestais e Aquícolas mandar exercer funções nas coutadas, consoante as conveniências e possibilidades do serviço, serão destacados para o Funde Especial da Caça e Pesca e a sua situação será regulada pelo § 2.º do artigo 57.º do [Decreto-Lei n.º 40721](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40721-1956-232501), de 2 de Agosto de 1956.
 
 2. Os concessionários de coutadas que tenham ao seu serviço guardas florestais destacados nestas condições depositarão na Caixa Geral de Depósitos, Crédito e Previdência, até ao dia 20 de cada mês e mediante guias a enviar pela Direcção-Geral dos Serviços Florestais e Aquícolas, as importâncias correspondentes às respectivas remunerações, como receita do Fundo Especial da Caça e Pesca, e remeterão à mesma Direcção-Geral, nos cinco dias seguintes, o duplicado comprovativo do depósito.
 
-###### Art. 147.º - 1. Os guardas florestais auxiliares serão propostos pelos concessionários à Direcção-Geral dos Serviços Florestais e Aquícolas, que aprovará os contratos de prestação de serviço a celebrar entre os concessionários e os guardas e arquivará o duplicado de cada contrato, depois de celebrado.
+Art. 147.º - 1. Os guardas florestais auxiliares serão propostos pelos concessionários à Direcção-Geral dos Serviços Florestais e Aquícolas, que aprovará os contratos de prestação de serviço a celebrar entre os concessionários e os guardas e arquivará o duplicado de cada contrato, depois de celebrado.
 
 2. As remunerações dos guardas florestais auxiliares não poderão ser inferiores às dos guardas florestais requisitados.
 
@@ -1183,15 +1249,15 @@ b) Da notificação efectuada para o efeito, quando a demarcação dos «corredo
 
 4. Quando seja aplicada uma multa a um guarda florestal auxiliar, a Direcção-Geral notificará o concessionário para proceder ao desconto da respectiva importância na primeira remuneração a pagar ao arguido, devendo aquele efectuar o depósito no prazo de dez dias, na Caixa Geral de Depósitos, Crédito e Previdência, mediante guias a enviar pela Direcção-Geral, e remeter a esta, nos cinco dias seguintes, o duplicado comprovativo do depósito.
 
-###### Art. 148.º - 1. Nenhum guarda poderá ausentar-se do serviço de fiscalização da coutada para que se encontre requisitado ou contratado sem autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, à qual serão requeridas as licenças, com informação dos respectivos concessionários.
+Art. 148.º - 1. Nenhum guarda poderá ausentar-se do serviço de fiscalização da coutada para que se encontre requisitado ou contratado sem autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, à qual serão requeridas as licenças, com informação dos respectivos concessionários.
 
 2. É necessário o consentimento destes para a concessão de licença durante os períodos em que é permitida a caça.
 
-###### Art. 149.º - 1. Os concessionários são obrigados a efectuar os repovoamentos cinegéticos e a adoptar as restantes medidas de defesa e fomento das espécies determinados no regulamento de administração e exploração da coutada ou na sua concessão.
+Art. 149.º - 1. Os concessionários são obrigados a efectuar os repovoamentos cinegéticos e a adoptar as restantes medidas de defesa e fomento das espécies determinados no regulamento de administração e exploração da coutada ou na sua concessão.
 
 2. Quando os repovoamentos e as outras medidas forem executados pelos serviços da Direcção-Geral dos Serviços Florestais e Aquícolas ou pelas comissões venatórias, ficam os concessionários obrigados ao pagamento das respectivas despesas.
 
-###### Art. 150.º - 1. Os concessionários das coutadas são obrigados a contribuir em espécies para o repovoamento cinegético dos terrenos onde é livre o direito de caçar.
+Art. 150.º - 1. Os concessionários das coutadas são obrigados a contribuir em espécies para o repovoamento cinegético dos terrenos onde é livre o direito de caçar.
 
 2. Esta contribuição será anual e prestada a requisição da Direcção-Geral dos Serviços Florestais e Aquícolas, que não poderá exigir um número de exemplares superior ao correspondente a três centésimos do número de hectares da respectiva coutada, com arredondamento por excesso, ou quatro ovos por cada um dos exemplares exigíveis.
 
@@ -1201,11 +1267,11 @@ b) Da notificação efectuada para o efeito, quando a demarcação dos «corredo
 
 No primeiro caso, da falta de cumprimento da obrigação, proceder-se-á a captura pelos serviços, ficando o concessionário responsável pelas despesas efectuadas, sem prejuízo da sanção aplicável.
 
-###### Art. 151.º - 1. Os administradores das coutadas são obrigados a participar à Direcção-Geral dos Serviços Florestais e Aquícolas, dentro dos cinco dias posteriores à sua realização, os resultados de cada batida efectuada, com indicação das espécies e número de exemplares abatidos, a proporção dos respectivos sexos e quaisquer outros elementos determinados pela Direcção-Geral.
+Art. 151.º - 1. Os administradores das coutadas são obrigados a participar à Direcção-Geral dos Serviços Florestais e Aquícolas, dentro dos cinco dias posteriores à sua realização, os resultados de cada batida efectuada, com indicação das espécies e número de exemplares abatidos, a proporção dos respectivos sexos e quaisquer outros elementos determinados pela Direcção-Geral.
 
 2. A participação será feita em impressos próprios, a fornecer pela Direcção-Geral.
 
-###### Art. 152.º - 1. Sempre que se verifique a transmissão, por acto entre vivos ou por morte, do direito de propriedade ou de usufruto de terrenos submetidos ao regime de coutada, deverá a mesma ser comunicada à Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 152.º - 1. Sempre que se verifique a transmissão, por acto entre vivos ou por morte, do direito de propriedade ou de usufruto de terrenos submetidos ao regime de coutada, deverá a mesma ser comunicada à Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 2. Nas transmissões entre vivos a comunicação compete ao alienante e ao adquirente e deve ser feita no prazo de 60 dias, a contar do acto de transmissão, mas a comunicação feita por um dos obrigados desonera o outro.
 
@@ -1217,21 +1283,21 @@ No primeiro caso, da falta de cumprimento da obrigação, proceder-se-á a captu
 
 6. A falta das comunicações ordenadas neste artigo é punida com multa até 5000$00, aplicada administrativamente nos termos do n.º 3 do artigo 159.º
 
-###### Art. 153.º - 1. Quando se extinga o usufruto sobre os terrenos da coutada é obrigatória a comunicação à Direcção-Geral dos Serviços Florestais e Aquícolas, no prazo de 60 dias, a contar do facto extintivo.
+Art. 153.º - 1. Quando se extinga o usufruto sobre os terrenos da coutada é obrigatória a comunicação à Direcção-Geral dos Serviços Florestais e Aquícolas, no prazo de 60 dias, a contar do facto extintivo.
 
 2. A comunicação compete ao titular do extinto usufruto ou, na sua falta, ao proprietário dos terrenos.
 
-###### Art. 154.º - 1. Todas as comunicações e participações a que os concessionários e outras pessoas são obrigados por este regulamento deverão ser enviadas pelo registo do correio, com aviso de recepção, ou apresentadas directamente nos próprios serviços.
+Art. 154.º - 1. Todas as comunicações e participações a que os concessionários e outras pessoas são obrigados por este regulamento deverão ser enviadas pelo registo do correio, com aviso de recepção, ou apresentadas directamente nos próprios serviços.
 
 2. Não deixarão de ser recebidas as que forem enviadas por forma diferente, mas os interessados só poderão fazer a prova do cumprimento da obrigação pelo aviso de recepção ou pelo recibo da entrega nos serviços.
 
 ##### SUBSECÇÃO V — Arrendamento de coutadas
 
-###### Art. 155.º - 1. É licito o arrendamento das coutadas, mas o mesmo só é válido se constar de documento escrito e o prazo de arrendamento não poderá ser inferior a três anos.
+Art. 155.º - 1. É licito o arrendamento das coutadas, mas o mesmo só é válido se constar de documento escrito e o prazo de arrendamento não poderá ser inferior a três anos.
 
 2. O concessionário locador continua a ser o titular da concessão, respondendo pelo cumprimento de todas as obrigações que em tal qualidade lhe são impostas.
 
-###### Art. 156.º - 1. O Secretário de Estado da Agricultura, oficiosamente ou a requerimento do concessionário locador, poderá, mediante simples notificação ao arrendatário:
+Art. 156.º - 1. O Secretário de Estado da Agricultura, oficiosamente ou a requerimento do concessionário locador, poderá, mediante simples notificação ao arrendatário:
 
 a) Fazer cessar o arrendamento, no caso de o arrendatário comprometer sèriamente a função a coutada como meio de protecção e desenvolvimento das espécies;
 
@@ -1239,7 +1305,7 @@ b) Estabelecer, para o último ano do prazo do contrato, no caso da sua não ren
 
 2. A adopção das providências previstas neste artigo não dá ao arrendatário direito a qualquer indemnização.
 
-###### Art. 157.º - 1. O concessionário que der de arrendamento uma coutada é obrigado:
+Art. 157.º - 1. O concessionário que der de arrendamento uma coutada é obrigado:
 
 a) A pagar a taxa de 5 por cento do preço convencionado pela locação;
 
@@ -1249,13 +1315,13 @@ c) A comunicar à mesma Direcção-Geral a não renovação do contrato, até 15
 
 2. A taxa a que se refere a alínea a) do n.º 1 constitui receita do Fundo Especial da Caça e Pesca e será paga no prazo de 30 dias, a contar do recebimento das guias para esse efeito enviadas pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 158.º - 1. É proibido o subarrendamento das coutadas.
+Art. 158.º - 1. É proibido o subarrendamento das coutadas.
 
 2. É permitida a cessão do direito ao arrendamento, com o consentimento do concessionário locador, mas a cessão só é válida se constar de documento escrito.
 
 3. O arrendatário cedente é obrigado a comunicar a cessão à Direcção-Geral dos Serviços Florestais e Aquícolas, nos termos da alínea b) do n.º 1 do artigo anterior.
 
-###### Art. 159.º - 1. São punidos com multa até 50000$00:
+Art. 159.º - 1. São punidos com multa até 50000$00:
 
 a) O arrendamento verbal de coutada ou por prazo inferior a três anos;
 
@@ -1281,7 +1347,7 @@ b) Ao arrendatário, nos casos das restantes alíneas.
 
 ##### SUBSECÇÃO VI — Extinção da concessão de coutadas
 
-###### Art. 160.º As concessões de coutadas extinguem-se:
+Art. 160.º As concessões de coutadas extinguem-se:
 
 a) A pedido do concessionário;
 
@@ -1291,23 +1357,23 @@ c) Pela sua caducidade, nos termos do n.º 2 do artigo 163.º;
 
 d) Por imposição da Administração, nos termos do artigo 164.º
 
-###### Art. 161.º - 1. A concessão de coutada será declarada extinta sempre que o respectivo concessionário o requeira.
+Art. 161.º - 1. A concessão de coutada será declarada extinta sempre que o respectivo concessionário o requeira.
 
 2. Quando a concessão tenha sido feita a pedido de vários interessados, é necessário o acordo de todos para a extinção ser declarada.
 
-###### Art. 162.º - 1. A prorrogação do prazo da concessão deve ser requerida pelos interessados nos seis meses anteriores ao respectivo termo.
+Art. 162.º - 1. A prorrogação do prazo da concessão deve ser requerida pelos interessados nos seis meses anteriores ao respectivo termo.
 
 2. Quando a concessão tenha sido requerida por outros interessados, com o consentimento do proprietário, usufrutuário ou enfiteuta dos terrenos, é necessário novo consentimento dos mesmos para a prorrogação do prazo.
 
 3. Não poderá ser porrogado o prazo da concessão se o concessionário se não tiver mostrado diligente no cumprimento das respectivas obrigações ou se a administração e exploração da coutada não tiver produzido resultados convenientes na protecção e desenvolvimento das espécies.
 
-###### Art. 163.º - 1. A transferência, por acto entre vivos ou por morte, do direito de propriedade ou de usufruto de terrenos submetidos ao regime de coutada não envolve a caducidade da concessão, mas a transferência cumulativa dos respectivos direitos e obrigações.
+Art. 163.º - 1. A transferência, por acto entre vivos ou por morte, do direito de propriedade ou de usufruto de terrenos submetidos ao regime de coutada não envolve a caducidade da concessão, mas a transferência cumulativa dos respectivos direitos e obrigações.
 
 2. Se o regime de coutada tiver sido requerido pelo usufrutuário dos terrenos sem intervenção do respectivo proprietário, caducará a concessão com a extinção do usufruto, desde que o proprietário não requeira a sua renovação.
 
 3. A renovação da concessão deve ser requerida dentro do prazo de 60 dias a partir da extinção do usufruto.
 
-###### Art. 164.º - 1. O Secretário de Estado da Agricultura, mediante portaria e sob proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, poderá em qualquer altura declarar extinta a concessão de coutada de caça:
+Art. 164.º - 1. O Secretário de Estado da Agricultura, mediante portaria e sob proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, poderá em qualquer altura declarar extinta a concessão de coutada de caça:
 
 a) Quando o respectivo regime se torne inconveniente para o interesse público em relação a determinados terrenos e não seja suficiente para o efeito reduzir a área da coutada;
 
@@ -1335,29 +1401,29 @@ i) A manutenção de tabuletas sinalizadoras de coutada de modelo diferente do a
 
 j) A falta do número de guardas fixado para a coutada, ou o não uso, pelos mesmos, dos fardamentos regulamentares, quando da responsabilidade do concessionário.
 
-###### Art. 165.º - 1. A inobservância das obrigações impostas na lei ou na concessão poderá ser punida com multa até 50000$00, consoante a natureza e a gravidade da falta, os prejuízos desta resultantes e a área da coutada, salvos os casos em que a natureza e a gravidade da falta aconselhem a imediata extinção do regime de coutada.
+Art. 165.º - 1. A inobservância das obrigações impostas na lei ou na concessão poderá ser punida com multa até 50000$00, consoante a natureza e a gravidade da falta, os prejuízos desta resultantes e a área da coutada, salvos os casos em que a natureza e a gravidade da falta aconselhem a imediata extinção do regime de coutada.
 
 2. A multa será aplicada administrativamente, nos termos do n.º 3 do artigo 159.º
 
-###### Art. 166.º - 1. Extinta a concessão de coutada, os que tinham a qualidade de concessionário deverão proceder ao arrancamento das tabuletas de sinalização, no prazo de 30 dias, a contar da notificação que para esse fim lhes seja feita pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 166.º - 1. Extinta a concessão de coutada, os que tinham a qualidade de concessionário deverão proceder ao arrancamento das tabuletas de sinalização, no prazo de 30 dias, a contar da notificação que para esse fim lhes seja feita pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 2. Se as tabuletas não forem retiradas dentro do prazo legal, procederá a Direcção-Geral ao seu arrancamento, sendo os obrigados responsáveis pelas despesas, sem prejuízo das sanções aplicáveis.
 
 #### SECÇÃO III — Reservas de caça
 
-###### Art. 167.º - 1. Para protecção e fomento das espécies cinegéticas e para a prossecução dos fins científicos que se tornem convenientes serão constituídas reservas de caça, pela Secretaria de Estado da Agricultura, em terrenos do Estado ou de outras entidades, públicas ou privadas, que para isso prestem o seu consentimento.
+Art. 167.º - 1. Para protecção e fomento das espécies cinegéticas e para a prossecução dos fins científicos que se tornem convenientes serão constituídas reservas de caça, pela Secretaria de Estado da Agricultura, em terrenos do Estado ou de outras entidades, públicas ou privadas, que para isso prestem o seu consentimento.
 
 2. Mediante autorização do Secretário de Estado da Agricultura, poderão também ser constituídas reservas de caça por outras entidades, públicas ou privadas, em terrenos próprios ou alheios, desde que, neste último caso, os proprietários prestem o seu consentimento.
 
 3. A constituição de reservas é feita mediante portaria, ouvido o Conselho Superior da Caça e sob proposta ou parecer da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-###### Art. 168.º - 1. As reservas de caça podem ser integrais e parciais.
+Art. 168.º - 1. As reservas de caça podem ser integrais e parciais.
 
 2. Nas reservas integrais de caça (reservas zoológicas) são inteiramente proibidas não só a caça de qualquer espécie, como também a prática de actividades que possam perturbar o desenvolvimento da flora e da fauna da área ou alterar o meio ambiente e natural das suas espécies.
 
 3. Nas reservas parciais de caça (zonas de protecção) são proibidas, além da caça de determinada ou de determinadas espécies, as actividades que prejudiquem o seu desenvolvimento.
 
-###### Art. 169.º - 1. Cada reserva terá um regulamento privativo, aprovado pelo Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, e publicado na portaria de constituição.
+Art. 169.º - 1. Cada reserva terá um regulamento privativo, aprovado pelo Secretário de Estado da Agricultura, sob proposta da Direcção-Geral dos Serviços Florestais e Aquícolas, e publicado na portaria de constituição.
 
 2. O regulamento de cada reserva deverá mencionar expressamente, além do mais que for conveniente:
 
@@ -1369,7 +1435,7 @@ c) Os actos e actividades cuja prática carece de autorização e a entidade com
 
 d) A entidade que administra a reserva.
 
-###### Art. 170.º - 1. Os terrenos abrangidos pelas reservas consideram-se submetidos ao regime florestal.
+Art. 170.º - 1. Os terrenos abrangidos pelas reservas consideram-se submetidos ao regime florestal.
 
 2. As reservas serão sempre delimitadas e sinalizadas pela Direcção-Geral dos Serviços Florestais e Aquícolas, com tabuletas do modelo oficialmente aprovado, nos termos estabelecidos no n.º 2 do artigo 66.º, mas a conservação das tabuletas compete às entidades administradoras das reservas.
 
@@ -1379,11 +1445,11 @@ d) A entidade que administra a reserva.
 
 ### CAPÍTULO III — Criação artificial de caça
 
-###### Art. 171.º - 1. Poderão ser instalados postos de criação artificial de caça, destinados à criação de espécies cinegéticas para fomento ou exploração industrial.
+Art. 171.º - 1. Poderão ser instalados postos de criação artificial de caça, destinados à criação de espécies cinegéticas para fomento ou exploração industrial.
 
 2. A Direcção-Geral dos Serviços Florestais e Aquícolas deverá promover a instalação de postos de criação artificial de caça, de harmonia com as necessidades de repovoamento das espécies.
 
-###### Art. 172.º - 1. Os postos de criação exclusivamente destinados a fomento cinegético estão isentos de quaisquer impostos, contribuições ou taxas nos primeiros dez anos de funcionamento.
+Art. 172.º - 1. Os postos de criação exclusivamente destinados a fomento cinegético estão isentos de quaisquer impostos, contribuições ou taxas nos primeiros dez anos de funcionamento.
 
 2. Decorrido este prazo, poderá a isenção ser prorrogada, a requerimento dos interessados, por despacho do Secretário de Estado da Agricultura, se tal se justificar pela acção desenvolvida pelo posto no fomento cinegético.
 
@@ -1393,7 +1459,7 @@ d) A entidade que administra a reserva.
 
 5. Consideram-se exclusivamente destinados a fomento cinegético os postos cuja produção for utilizada sòmente em repovoamentos, ainda que essa actividade seja remunerada.
 
-###### Art. 173.º - 1. Os postos de criação artificial de caça deverão ter assistência técnica de médico veterinário, cuja identificação deverá ser comunicada à Direcção-Geral dos Serviços Florestais e Aquícolas e à Direcção-Geral dos Serviços Pecuários, no prazo de 30 dias, a contar do início do funcionamento do posto ou da substituição daquele técnico.
+Art. 173.º - 1. Os postos de criação artificial de caça deverão ter assistência técnica de médico veterinário, cuja identificação deverá ser comunicada à Direcção-Geral dos Serviços Florestais e Aquícolas e à Direcção-Geral dos Serviços Pecuários, no prazo de 30 dias, a contar do início do funcionamento do posto ou da substituição daquele técnico.
 
 2. Poderá ser imposta a obrigatoriedade de assistência técnica por engenheiro silvicultor quando a mesma se torne necessária pelas características da exploração.
 
@@ -1401,9 +1467,9 @@ d) A entidade que administra a reserva.
 
 4. Os postos administrados por esta Direcção-Geral terão a assistência técnica da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 174.º A instalação dos postos que não seja feita directamente pela Direcção-Geral dos Serviços Florestais e Aquícolas, bem como o seu funcionamento, dependem de autorização da mesma, ouvida, sobre os aspectos sanitários, a Direcção-Geral dos Serviços Pecuários.
+Art. 174.º A instalação dos postos que não seja feita directamente pela Direcção-Geral dos Serviços Florestais e Aquícolas, bem como o seu funcionamento, dependem de autorização da mesma, ouvida, sobre os aspectos sanitários, a Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 175.º - 1. Os requerimentos para a instalação de postos deverão ser apresentados em duplicado e mencionar:
+Art. 175.º - 1. Os requerimentos para a instalação de postos deverão ser apresentados em duplicado e mencionar:
 
 a) A identidade da pessoa ou pessoas que pretendem instalar e administrar o posto;
 
@@ -1431,17 +1497,17 @@ c) Memória descritiva do plano de exploração, com referência expressa, além
 
 6. Serão suportadas pelos interessados as despesas com a vistoria a efectuar nos termos do n.º 4 deste artigo, observando-se o disposto na n.º 2 do artigo 136.º
 
-###### Art. 176.º - 1. O funcionamento dos postos não poderá iniciar-se sem autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, que passará o correspondente alvará depois de efectuada vistoria às instalações, após a sua conclusão, e de verificadas, com audiência da Direcção-Geral dos Serviços Pecuários, a correspondência das mesmas com o projecto aprovado e as restantes condições exigidas.
+Art. 176.º - 1. O funcionamento dos postos não poderá iniciar-se sem autorização da Direcção-Geral dos Serviços Florestais e Aquícolas, que passará o correspondente alvará depois de efectuada vistoria às instalações, após a sua conclusão, e de verificadas, com audiência da Direcção-Geral dos Serviços Pecuários, a correspondência das mesmas com o projecto aprovado e as restantes condições exigidas.
 
 2. À vistoria efectuada nos termos deste preceito é aplicável o disposto no n.º 6 do artigo anterior.
 
-###### Art. 177.º - 1. Os postos ficam sujeitos à fiscalização da Direcção-Geral dos Serviços Florestais e Aquícolas e à inspecção sanitária da Direcção-Geral dos Serviços Pecuários.
+Art. 177.º - 1. Os postos ficam sujeitos à fiscalização da Direcção-Geral dos Serviços Florestais e Aquícolas e à inspecção sanitária da Direcção-Geral dos Serviços Pecuários.
 
 2. Qualquer destes organismos poderá notificar os administradores dos postos para a comparência a vistorias, em datas a designar, dos técnicos que lhes prestem assistência.
 
 3. Poderão ser encerrados os postos que não funcionem nas indispensáveis condições de sanidade ou por outras razões deixem de reunir as condições indispensáveis ao seu funcionamento.
 
-###### Art. 178.º - 1. Os animais e os ovos produzidos nos postos de criação artificial de caça não poderão sair das respectivas instalações sem terem sido prévia e individualmente marcados com a marca privativa do posto.
+Art. 178.º - 1. Os animais e os ovos produzidos nos postos de criação artificial de caça não poderão sair das respectivas instalações sem terem sido prévia e individualmente marcados com a marca privativa do posto.
 
 2. Quando os animais sejam transportados em caixas de modelos aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas é suficiente a aposição da marca em cada caixa.
 
@@ -1457,9 +1523,9 @@ c) Memória descritiva do plano de exploração, com referência expressa, além
 
 8. A taxa a que se refere o número anterior poderá ser alterada por meio de portaria do Secretário de Estado da Agricultura.
 
-###### Art. 179.º Os exemplares de espécies cinegéticas produzidos nos postos de criação artificial de caça só poderão sair das respectivas instalações no estado de vivos.
+Art. 179.º Os exemplares de espécies cinegéticas produzidos nos postos de criação artificial de caça só poderão sair das respectivas instalações no estado de vivos.
 
-###### Art. 180.º - 1. Os administradores dos postos são obrigados a comunicar à Direcção-Geral dos Serviços Florestais e Aquícolas:
+Art. 180.º - 1. Os administradores dos postos são obrigados a comunicar à Direcção-Geral dos Serviços Florestais e Aquícolas:
 
 a) Dentro dos primeiros quinze dias de cada mês, os elementos estatísticos referentes ao mês anterior e indicados nos impressos que para esse fim lhes são fornecidos, dos quais constarão, pelo menos, os repovoamentos efectuados, com menção dos efectivos largados e dos terrenos a que se destinaram, e os quantitativos dos animais vendidos ao comércio e à indústria;
 
@@ -1471,9 +1537,9 @@ b) Com a antecedência mínima de quinze dias da data em que terão lugar, os re
 
 4. Às comunicações ordenadas neste artigo é aplicável o disposto no artigo 154.º
 
-###### Art. 181.º Os administradores dos postos de criação artificial de caça têm direito a receber dos organismos dependentes do Ministério da Economia, para os mesmos postos, alimentos e forragens nas condições estabelecidas para o seu fornecimento às explorações de avicultura.
+Art. 181.º Os administradores dos postos de criação artificial de caça têm direito a receber dos organismos dependentes do Ministério da Economia, para os mesmos postos, alimentos e forragens nas condições estabelecidas para o seu fornecimento às explorações de avicultura.
 
-###### Art. 182.º - 1. Os administradores dos postos de criação artificial de caça poderão ser autorizados pela Direcção-Geral dos Serviços Florestais e Aquícolas a proceder à recolha de ovos e à captura de animais em áreas de coutadas ou de reservas parciais, para aumento dos efectivos de reprodução ou melhoramento das respectivas espécies.
+Art. 182.º - 1. Os administradores dos postos de criação artificial de caça poderão ser autorizados pela Direcção-Geral dos Serviços Florestais e Aquícolas a proceder à recolha de ovos e à captura de animais em áreas de coutadas ou de reservas parciais, para aumento dos efectivos de reprodução ou melhoramento das respectivas espécies.
 
 2. As autorizações poderão ser concedidas para utilização em período de defeso.
 
@@ -1487,7 +1553,7 @@ Os administradores dos postos são obrigados ao pagamento das despesas a que der
 
 ### CAPÍTULO IV — Comércio e transporte da caça
 
-###### Art. 183.º - 1. Os exemplares de espécies cinegéticas só podem ser vendidos, adquiridos, transportados e fornecidos ou expostos ao público durante os respectivos períodos de caça e nos primeiros dois dias após o seu encerramento.
+Art. 183.º - 1. Os exemplares de espécies cinegéticas só podem ser vendidos, adquiridos, transportados e fornecidos ou expostos ao público durante os respectivos períodos de caça e nos primeiros dois dias após o seu encerramento.
 
 2. Ficam exceptuados desta limitação:
 
@@ -1497,17 +1563,17 @@ b) Os exemplares contidos em instalações frigoríficas industriais;
 
 c) Os exemplares produzidos nos postos de criação artificial de caça.
 
-###### Art. 184.º - 1. As perdizes só podem ser vendidas, compradas e expostas à venda ou fornecidas ao público, em cada época venatória, a partir do dia 1 de Novembro.
+Art. 184.º - 1. As perdizes só podem ser vendidas, compradas e expostas à venda ou fornecidas ao público, em cada época venatória, a partir do dia 1 de Novembro.
 
 2. Até essa data, as perdizes só podem ser despachadas em nome dos próprios caçadores e no mesmo comboio ou outro meio de transporte em que eles viajem.
 
 3. Ficam exceptuados das limitações estabelecidas nos números anteriores os casos previstos no n.º 2 do artigo antecedente.
 
-###### Art. 185.º - 1. Só podem ser comprados, vendidos e fornecidos ou expostos ao público os exemplares de espécies cinegéticas que se encontrem selados nos termos do artigo 189.º, ou, quando se trate de exemplares produzidos nos postos de criação artificial de caça, marcados nos termos do artigo 178.º
+Art. 185.º - 1. Só podem ser comprados, vendidos e fornecidos ou expostos ao público os exemplares de espécies cinegéticas que se encontrem selados nos termos do artigo 189.º, ou, quando se trate de exemplares produzidos nos postos de criação artificial de caça, marcados nos termos do artigo 178.º
 
 2. Ficam exceptuados desta limitação os exemplares em conserva nas respectivas embalagens.
 
-###### Art. 186.º - 1. Os exemplares de espécies cinegéticas que tenham sido objecto de transacção ou se destinem a qualquer actividade comercial ou industrial só podem transitar, seja qual for o meio de transporte utilizado, quando se encontrem selados ou marcados nos termos referidos no n.º 1 do artigo anterior.
+Art. 186.º - 1. Os exemplares de espécies cinegéticas que tenham sido objecto de transacção ou se destinem a qualquer actividade comercial ou industrial só podem transitar, seja qual for o meio de transporte utilizado, quando se encontrem selados ou marcados nos termos referidos no n.º 1 do artigo anterior.
 
 2. Presumem-se sempre naquelas condições os exemplares:
 
@@ -1521,11 +1587,11 @@ a) Os exemplares em conserva nas respectivas embalagens;
 
 b) Os exemplares que estejam a ser transportados pelos caçadores à comissão venatória do concelho onde tenham sido caçados, para selagem.
 
-###### Art. 187.º - 1. As remessas de caça que não forem acompanhadas pelo remetente só poderão transitar se nelas estiverem mencionados o seu nome e residência.
+Art. 187.º - 1. As remessas de caça que não forem acompanhadas pelo remetente só poderão transitar se nelas estiverem mencionados o seu nome e residência.
 
 2. As empresas de transporte público não poderão proceder ao despacho ou entrega de quaisquer remessas de caça que não obedeçam a essa condição, devendo os respectivos empregados retê-las e participar o facto à entidade competente para a fiscalização.
 
-###### Art. 188.º - 1. Para o transporte de exemplares vivos, de espécies cinegéticas, incluindo os provenientes dos postos de criação artificial de caça, é necessária guia passada pela Direcção-Geral dos Serviços Florestais e Aquícolas, devendo a guia acompanhar os exemplares durante todo o transporte.
+Art. 188.º - 1. Para o transporte de exemplares vivos, de espécies cinegéticas, incluindo os provenientes dos postos de criação artificial de caça, é necessária guia passada pela Direcção-Geral dos Serviços Florestais e Aquícolas, devendo a guia acompanhar os exemplares durante todo o transporte.
 
 2. Para os efeitos deste artigo consideram-se exemplares vivos os ovos das mesmas espécies.
 
@@ -1533,7 +1599,7 @@ b) Os exemplares que estejam a ser transportados pelos caçadores à comissão v
 
 4. A guia deve ser solicitada pelos interessados à Direcção-Geral com uma antecedência mínima de quinze dias antes da data em que se pretenda efectuar o transporte.
 
-###### Art. 189.º - 1. As comissões venatórias concelhias aporão selos de chumbo, do modelo oficialmente aprovado, em todos os exemplares de espécies cinegéticas que para esse fim nelas forem apresentados durante o respectivo período venatório ou nos dois primeiros dias após o seu encerramento, desde que não tenham sido ilìcitamente caçados.
+Art. 189.º - 1. As comissões venatórias concelhias aporão selos de chumbo, do modelo oficialmente aprovado, em todos os exemplares de espécies cinegéticas que para esse fim nelas forem apresentados durante o respectivo período venatório ou nos dois primeiros dias após o seu encerramento, desde que não tenham sido ilìcitamente caçados.
 
 2. Os selos serão fornecidos às comissões venatórias pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
@@ -1541,17 +1607,17 @@ b) Os exemplares que estejam a ser transportados pelos caçadores à comissão v
 
 4. É aplicável à taxa a que se refere o número anterior o disposto no n.º 8 do artigo 178.º
 
-###### Art. 190.º É proibido transaccionar e expor ao público exemplares mortos de aves da ordem Passeres (pássaros).
+Art. 190.º É proibido transaccionar e expor ao público exemplares mortos de aves da ordem Passeres (pássaros).
 
-###### Art. 191.º - 1. É proibida a importação de exemplares vivos de qualquer espécie cinegética sem prévia autorização da Secretaria de Estado da Agricultura, ouvida a Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 191.º - 1. É proibida a importação de exemplares vivos de qualquer espécie cinegética sem prévia autorização da Secretaria de Estado da Agricultura, ouvida a Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 2. A autorização a que se refere o número anterior não prejudica as exigências estabelecidas noutros preceitos legais, designadamente a fiscalização sanitária da Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 192.º O Secretário de Estado da Agricultura, por meio de portaria, poderá, sempre que se mostre conveniente, proibir a exportação de todas ou de certas espécies cinegéticas ou sujeitar a mesma a autorização.
+Art. 192.º O Secretário de Estado da Agricultura, por meio de portaria, poderá, sempre que se mostre conveniente, proibir a exportação de todas ou de certas espécies cinegéticas ou sujeitar a mesma a autorização.
 
-###### Art. 193.º Serão apreendidos todos os exemplares de espécies cinegéticas que forem encontrados em situações de violação do disposto neste capítulo, qualquer que seja o local onde se encontrem.
+Art. 193.º Serão apreendidos todos os exemplares de espécies cinegéticas que forem encontrados em situações de violação do disposto neste capítulo, qualquer que seja o local onde se encontrem.
 
-###### Art. 194.º Aos caçadores é permitido:
+Art. 194.º Aos caçadores é permitido:
 
 a) Despachar como bagagem a caça de que sejam portadores, quando siga no mesmo comboio, camioneta ou barco em que viajem;
 
@@ -1559,7 +1625,7 @@ b) Transportar consigo a própria caça, desde que, quando utilizem o comboio, v
 
 ### CAPÍTULO V — Cães
 
-###### Art. 195.º O trânsito de cães de caça é permitido nos seguintes termos:
+Art. 195.º O trânsito de cães de caça é permitido nos seguintes termos:
 
 a) Durante o defeso, só podem transitar atrelados e com açaimo, salvo nas povoações, em que podem circular sem açaimo, e nas provas e treinos a que se referem os artigos 202.º e 203.º, que podem realizar sem açaimo e sem trela;
 
@@ -1569,25 +1635,25 @@ c) Nos compartimentos das carruagens de caminho de ferro reservados para caçado
 
 d) Nas carruagens de 2.ª classe de caminho de ferro e nas camionetas e barcos de passageiros podem transitar atrelados e açaimados, desde que não haja reclamação justificada dos restantes passageiros perante o revisor do comboio, condutor da camioneta ou mestre do barco.
 
-###### Art. 196.º Não podem ser utilizados no exercício da caça quaisquer cães que nas respectivas licenças sejam classificados como de guarda ou de luxo, nem os caçadores se podem fazer acompanhar dos mesmos durante o acto venatório.
+Art. 196.º Não podem ser utilizados no exercício da caça quaisquer cães que nas respectivas licenças sejam classificados como de guarda ou de luxo, nem os caçadores se podem fazer acompanhar dos mesmos durante o acto venatório.
 
-###### Art. 197.º Na caça às codornizes ou outras espécies de arribação, antes da abertura da época geral da caça ou depois do seu encerramento, nos períodos e locais em que é permitida, não poderão ser utilizados cães pertencentes a qualquer das raças de galgos coelheiros ou seus cruzamentos, mas apenas cães «de parar».
+Art. 197.º Na caça às codornizes ou outras espécies de arribação, antes da abertura da época geral da caça ou depois do seu encerramento, nos períodos e locais em que é permitida, não poderão ser utilizados cães pertencentes a qualquer das raças de galgos coelheiros ou seus cruzamentos, mas apenas cães «de parar».
 
-###### Art. 198.º - 1. Os agentes competentes para a fiscalização, sempre que lhes seja possível, deverão capturar os cães, das raças vulgarmente utilizadas na caça, que fora da época geral de caça encontrarem soltos, com ou sem açaimo, em terrenos frequentados por caça, e entregá-los nos depósitos das câmaras municipais ou nos locais para tal fim destinados pelas mesmas.
+Art. 198.º - 1. Os agentes competentes para a fiscalização, sempre que lhes seja possível, deverão capturar os cães, das raças vulgarmente utilizadas na caça, que fora da época geral de caça encontrarem soltos, com ou sem açaimo, em terrenos frequentados por caça, e entregá-los nos depósitos das câmaras municipais ou nos locais para tal fim destinados pelas mesmas.
 
 2. Ficam exceptuados do disposto no número anterior os cães utilizados na caça às galinholas, codornizes, lebres e espécies de arribação, nos períodos e locais em que a mesma é permitida.
 
-###### Art. 199.º - 1. Nenhum guardador de gado, ou pastor, poderá fazer-se acompanhar por mais de um cão por cada rebanho, ou por cada 50 cabeças de gado, que conduzir ou guardar.
+Art. 199.º - 1. Nenhum guardador de gado, ou pastor, poderá fazer-se acompanhar por mais de um cão por cada rebanho, ou por cada 50 cabeças de gado, que conduzir ou guardar.
 
 2. Nas regiões onde seja necessário defender os rebanhos dos lobos, poderá a Direcção-Geral dos Serviços Florestais e Aquícolas, ouvida a comissão venatória regional, autorizar a utilização de maior número de cães de guarda de rebanho, independentemente do número de cabeças de gado, com a condição de usarem coleiras de bicos e pertencerem ùnicamente às raças vulgarmente conhecidas de cães de gado.
 
 3. Não podem os pastores, porém, em nenhum caso, perseguir qualquer espécie de caça indígena com o auxílio dos seus cães de gado, nem permitir que estes a persigam.
 
-###### Art. 200.º Cada guarda florestal ou guarda particular de propriedades, no exercício das suas funções, só poderá fazer-se acompanhar de um cão.
+Art. 200.º Cada guarda florestal ou guarda particular de propriedades, no exercício das suas funções, só poderá fazer-se acompanhar de um cão.
 
-###### Art. 201.º Não poderão pertencer às raças vulgarmente utilizadas na caça, nem aos seus cruzamentos, os cães de que os guardadores de gado, pastores, guardas florestais ou guardas particulares se façam acompanhar no exercício das suas funções, nos termos, respectivamente, dos artigos 199.º e 200.º
+Art. 201.º Não poderão pertencer às raças vulgarmente utilizadas na caça, nem aos seus cruzamentos, os cães de que os guardadores de gado, pastores, guardas florestais ou guardas particulares se façam acompanhar no exercício das suas funções, nos termos, respectivamente, dos artigos 199.º e 200.º
 
-###### Art. 202.º - 1. Pode ser autorizada a realização de provas práticas para cães de caça, desde que sejam organizadas por associações de canicultura ou clubes de caçadores, ou tenham a sua cooperação, quando da iniciativa de outras entidades, e o programa ou regulamento da prova seja aprovado pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 202.º - 1. Pode ser autorizada a realização de provas práticas para cães de caça, desde que sejam organizadas por associações de canicultura ou clubes de caçadores, ou tenham a sua cooperação, quando da iniciativa de outras entidades, e o programa ou regulamento da prova seja aprovado pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 2. As provas poderão realizar-se durante a época geral da caça e ainda, após o encerramento desta, até ao dia 15 de Fevereiro de cada ano.
 
@@ -1599,7 +1665,7 @@ d) Nas carruagens de 2.ª classe de caminho de ferro e nas camionetas e barcos d
 
 6. Quando as provas se devam realizar em tempo de defeso e a sua efectivação exija a largada de exemplares de espécies cinegéticas, cuja caça seja então proibida, a entidade organizadora deverá solicitar a autorização para a captura dos exemplares necessários, a qual, como a prova, só poderá efectuar-se em terrenos de coutada e com o consentimento do respectivo concessionário.
 
-###### Art. 203.º - 1. A Direcção-Geral dos Serviços Florestais e Aquícolas poderá autorizar o treino de cães de caça nos 30 dias que precedam a abertura da época geral da caça.
+Art. 203.º - 1. A Direcção-Geral dos Serviços Florestais e Aquícolas poderá autorizar o treino de cães de caça nos 30 dias que precedam a abertura da época geral da caça.
 
 2. As autorizações serão concedidas depois de ouvidas as comissões venatórias regionais respectivas.
 
@@ -1611,7 +1677,7 @@ d) Nas carruagens de 2.ª classe de caminho de ferro e nas camionetas e barcos d
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 204.º Constituem circunstâncias agravantes das infracções à disciplina da caça:
+Art. 204.º Constituem circunstâncias agravantes das infracções à disciplina da caça:
 
 a) O cometimento da infracção por duas ou mais pessoas;
 
@@ -1619,11 +1685,11 @@ b) A sua prática durante a noite ou em coutadas ou reservas de caça;
 
 c) O emprego de substâncias venenosas ou tóxicas.
 
-###### Art. 205.º - 1. A interdição do direito de caçar pode ser temporária, de um a cinco anos, ou definitiva.
+Art. 205.º - 1. A interdição do direito de caçar pode ser temporária, de um a cinco anos, ou definitiva.
 
 2. O não acatamento da interdição é punível com prisão até seis meses.
 
-###### Art. 206.º - 1. A perda dos instrumentos da infracção abrange todos os instrumentos utilizados no seu cometimento, incluindo a espingarda e o veículo que tenha servido à prática daquela.
+Art. 206.º - 1. A perda dos instrumentos da infracção abrange todos os instrumentos utilizados no seu cometimento, incluindo a espingarda e o veículo que tenha servido à prática daquela.
 
 2. Exceptuam-se os instrumentos pertencentes a terceiro e utilizados para aquele fim contra sua vontade ou com seu desconhecimento, se o mesmo não tiver tirado vantagens da infracção.
 
@@ -1631,7 +1697,7 @@ c) O emprego de substâncias venenosas ou tóxicas.
 
 4. Os furões serão entregues à comissão venatória concelhia da área, que os abaterá quando deles não necessitar para a captura de coelhos para repovoamento.
 
-###### Art. 207.º - 1. Decretar-se-á sempre a perda dos produtos das infracções previstas nos artigos 210.º a 215.º, 218.º, 227.º e 228.º e na alínea g) do artigo 229.º
+Art. 207.º - 1. Decretar-se-á sempre a perda dos produtos das infracções previstas nos artigos 210.º a 215.º, 218.º, 227.º e 228.º e na alínea g) do artigo 229.º
 
 2. A caça morta será entregue à Misericórdia ou, na falta desta, a instituições de beneficência local, salvo o disposto no artigo 97.º
 
@@ -1639,13 +1705,13 @@ c) O emprego de substâncias venenosas ou tóxicas.
 
 No caso contrário, ou quando a captura tenha ocorrido em terreno onde seja livre o direito de caçar, serão entregues à comissão venatória concelhia, para fins de repovoamento.
 
-###### Art. 208.º Nos processos crimes pelas infracções previstas no artigo 211.º podem constituir-se assistentes as comissões venatórias da área onde a infracção foi cometida.
+Art. 208.º Nos processos crimes pelas infracções previstas no artigo 211.º podem constituir-se assistentes as comissões venatórias da área onde a infracção foi cometida.
 
-###### Art. 209.º As multas pagas por infracção das disposições legais sobre caça serão divididas, em partes iguais, pelo Fundo Especial da Caça e Pesca, câmara municipal, comissão venatória concelhia, autuante e Misericórdia ou, na falta desta, instituições de beneficência local.
+Art. 209.º As multas pagas por infracção das disposições legais sobre caça serão divididas, em partes iguais, pelo Fundo Especial da Caça e Pesca, câmara municipal, comissão venatória concelhia, autuante e Misericórdia ou, na falta desta, instituições de beneficência local.
 
 ##### SUBSECÇÃO II — Infracções
 
-###### Art. 210.º - 1. A caça em época de defeso, ou com emprego de meios proibidos, ou a espécies a que não seja permitida, é punível, salvo o disposto no artigo seguinte, com prisão de um a seis meses e multa de 500$00 a 10000$00 e acarreta sempre a interdição do direito de caçar, bem como a perda dos instrumentos e produtos da infracção.
+Art. 210.º - 1. A caça em época de defeso, ou com emprego de meios proibidos, ou a espécies a que não seja permitida, é punível, salvo o disposto no artigo seguinte, com prisão de um a seis meses e multa de 500$00 a 10000$00 e acarreta sempre a interdição do direito de caçar, bem como a perda dos instrumentos e produtos da infracção.
 
 2. Decretar-se-á a interdição definitiva quando ao infractor hajam sido impostas duas interdições temporárias, nos termos do número anterior, e volte a cometer uma das infracções nele previstas.
 
@@ -1655,25 +1721,25 @@ No caso contrário, ou quando a captura tenha ocorrido em terreno onde seja livr
 
 5. Considera-se caça com meios proibidos a exercida com processos não permitidos ou com violação das limitações estabelecidas para os processos autorizados.
 
-###### Art. 211.º - 1. A caça com inobservância das proibições e limitações estabelecidas nos artigos 85.º e 86.º e nas alíneas c) a g) do n.º 1 do artigo 89.º constitui contravenção punível com multa de 200$00 a 1000$00, salvo o disposto no n.º 3.
+Art. 211.º - 1. A caça com inobservância das proibições e limitações estabelecidas nos artigos 85.º e 86.º e nas alíneas c) a g) do n.º 1 do artigo 89.º constitui contravenção punível com multa de 200$00 a 1000$00, salvo o disposto no n.º 3.
 
 2. Poderá também ser decretada a interdição do direito de caçar se o infractor, pela repetição das infracções, revelar manifesta indiferença pelas limitações estabelecidas ao exercício da caça.
 
 3. Se a inobservância da alínea g) do n.º 1 do artigo 89.º implicar violação da limitação estabelecida na sua alínea b), será aplicável a pena cominada no artigo 210.º
 
-###### Art. 212.º - 1. A captura e a destruição de ninhos, luras, ovos e crias de qualquer espécie, exceptuados os casos autorizados por lei, constitui contravenção punível com prisão até um mês e multa de 100$00 a 500$00, se ao caso não couber pena mais grave.
+Art. 212.º - 1. A captura e a destruição de ninhos, luras, ovos e crias de qualquer espécie, exceptuados os casos autorizados por lei, constitui contravenção punível com prisão até um mês e multa de 100$00 a 500$00, se ao caso não couber pena mais grave.
 
 2. Se o infractor for caçador, será decretada a interdição do direito de caçar.
 
-###### Art. 213.º - 1. A venda, a aquisição, o transporte e o fornecimento ou exposição ao público de qualquer exemplar de espécie cinegética, fora do respectivo período de caça ou dos primeiros dois dias após o seu encerramento, exceptuados os casos autorizados por este regulamento, constituem contravenção punível com prisão até 15 dias e multa de 500$00 a 5000$00.
+Art. 213.º - 1. A venda, a aquisição, o transporte e o fornecimento ou exposição ao público de qualquer exemplar de espécie cinegética, fora do respectivo período de caça ou dos primeiros dois dias após o seu encerramento, exceptuados os casos autorizados por este regulamento, constituem contravenção punível com prisão até 15 dias e multa de 500$00 a 5000$00.
 
 2. Se o infractor for caçador, será decretada a interdição do direito de caçar.
 
-###### Art. 214.º - 1. A caça com arma de fogo por quem, nos termos da respectiva carta de caçador, estiver proibido do seu uso, constitui contravenção punível com prisão de um a três meses e multa de 500$00 a 2500$00 e acarreta a perda da arma usada.
+Art. 214.º - 1. A caça com arma de fogo por quem, nos termos da respectiva carta de caçador, estiver proibido do seu uso, constitui contravenção punível com prisão de um a três meses e multa de 500$00 a 2500$00 e acarreta a perda da arma usada.
 
 2. Decretar-se-á a interdição do direito de caçar se o infractor for condenado segunda vez por esta infracção e, à terceira condenação, será decretada a interdição definitiva.
 
-###### Art. 215.º - 1. A caça por quem não seja titular de carta de caçador constitui contravenção punível:
+Art. 215.º - 1. A caça por quem não seja titular de carta de caçador constitui contravenção punível:
 
 a) Com prisão até dez dias e multa de 300$00 a 2000$00 se o infractor tiver sido portador de arma de fogo;
 
@@ -1683,17 +1749,17 @@ b) Com multa de 300$00 nos restantes casos.
 
 Mas a pena aplicável será sòmente a da multa respectiva se o infractor regularizar a situação até ao julgamento e neste apresentar a carta já revalidada.
 
-###### Art. 216.º - 1. Os que, não sendo titulares de licença de caça com fim lucrativo, a exerçam mediante remuneração, ou, com habitualidade ou frequência, vendam ou cedam, mediante remuneração, toda ou parte da caça que capturem, são punidos com prisão até quinze dias e multa de 500$00 a 5000$00.
+Art. 216.º - 1. Os que, não sendo titulares de licença de caça com fim lucrativo, a exerçam mediante remuneração, ou, com habitualidade ou frequência, vendam ou cedam, mediante remuneração, toda ou parte da caça que capturem, são punidos com prisão até quinze dias e multa de 500$00 a 5000$00.
 
 2. O tribunal poderá decretar a interdição do direito de caçar, que será obrigatòriamente decretada na segunda condenação por esta infracção.
 
-###### Art. 217.º - 1. Os que caçarem sem serem titulares das licenças exigidas por este regulamento são punidos com multa correspondente ao quádruplo do quantitativo das taxas das licenças exigíveis.
+Art. 217.º - 1. Os que caçarem sem serem titulares das licenças exigidas por este regulamento são punidos com multa correspondente ao quádruplo do quantitativo das taxas das licenças exigíveis.
 
 2. A determinação destas será feita em função das circunstâncias concretas em que for exercida a caça, designadamente dos locais em que tiver decorrido o acto venatório e dos processos nele usados.
 
 3. São equiparáveis à licença de caça, para os efeitos deste preceito, os títulos de revalidação de licença estrangeira e de autorização especial de caça, previstos, respectivamente, nos artigos 13.º e 14.º
 
-###### Art. 218.º - 1. Constituem contravenção punível com multa de 500$00 a 5000$00, sem prejuízo da aplicação da pena mais grave correspondente ao crime que no caso concorra e da obrigação de indemnizar pelos prejuízos causados:
+Art. 218.º - 1. Constituem contravenção punível com multa de 500$00 a 5000$00, sem prejuízo da aplicação da pena mais grave correspondente ao crime que no caso concorra e da obrigação de indemnizar pelos prejuízos causados:
 
 a) A caça em locais onde a mesma for proibida;
 
@@ -1703,13 +1769,13 @@ b) A prática de outros actos proibidos ou o exercício de outras actividades n�
 
 3. Para os efeitos da alínea a) do n.º 1, consideram-se não só os locais em que seja absoluta a proibição de caçar, como também os terrenos nos quais o exercício da caça dependa de autorização dos respectivos proprietários ou exploradores, ou das entidades que neles superintendam, quando a mesma não tenha sido concedida.
 
-###### Art. 219.º Os crimes de dano cometidos no exercício da caça, quando não constituam crimes públicos, são puníveis, nos termos gerais, mediante simples denúncia das pessoas ofendidas, as quais poderão logo formular o pedido de indemnização, nos termos do artigo 29.º do Código de Processo Penal.
+Art. 219.º Os crimes de dano cometidos no exercício da caça, quando não constituam crimes públicos, são puníveis, nos termos gerais, mediante simples denúncia das pessoas ofendidas, as quais poderão logo formular o pedido de indemnização, nos termos do artigo 29.º do Código de Processo Penal.
 
-###### Art. 220.º A recusa do caçador a identificar-se, quando a tal solicitado pela pessoa lesada por danos por ele causados no exercício da caça, ou seu representante, é punível com a pena do crime de desobediência.
+Art. 220.º A recusa do caçador a identificar-se, quando a tal solicitado pela pessoa lesada por danos por ele causados no exercício da caça, ou seu representante, é punível com a pena do crime de desobediência.
 
-###### Art. 221.º A prática de danos, por negligência, nos terrenos onde os caçadores entrem no exercício da caça, ou em quaisquer coisas neles existentes, constitui contravenção punível com multa de 100$00 a 1000$00, independentemente da obrigação de indemnizar pelos prejuízos causados.
+Art. 221.º A prática de danos, por negligência, nos terrenos onde os caçadores entrem no exercício da caça, ou em quaisquer coisas neles existentes, constitui contravenção punível com multa de 100$00 a 1000$00, independentemente da obrigação de indemnizar pelos prejuízos causados.
 
-###### Art. 222.º - 1. São punidas com multa de 2000$00 a 10000$00, quando não autorizadas pela Direcção-Geral dos Serviços Florestais e Aquícolas:
+Art. 222.º - 1. São punidas com multa de 2000$00 a 10000$00, quando não autorizadas pela Direcção-Geral dos Serviços Florestais e Aquícolas:
 
 a) A importação de exemplares vivos de qualquer espécie cinegética, ou de ovos das mesmas;
 
@@ -1719,13 +1785,13 @@ b) A instalação e o funcionamento de postos de criação artificial de caça.
 
 3. No caso da alínea b), a aplicação da multa não prejudica o encerramento das instalações pela Direcção-Geral, quando se justifique.
 
-###### Art. 223.º São punidos nos termos previstos, respectivamente, nos artigos 31.º e 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957:
+Art. 223.º São punidos nos termos previstos, respectivamente, nos artigos 31.º e 33.º do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957:
 
 a) A exportação de caça, quando estabelecida a sua proibição, ao abrigo do artigo 192.º, ou sem autorização da Secretaria de Estado da Agricultura, quando for exigida, nos termos do mesmo artigo;
 
 b) O transporte de exemplares vivos de espécies cinegéticas sem a guia de trânsito exigida no artigo 188.º
 
-###### Art. 224.º - 1. São punidos com multa de 2000$00 a 5000$00:
+Art. 224.º - 1. São punidos com multa de 2000$00 a 5000$00:
 
 a) Os que coloquem tabuletas ou sinais indicativos de proibição de caça fora dos casos permitidos neste regulamento, ou tabuletas ou sinais que, pela sua semelhança com os modelos aprovados para aquele efeito, possam suscitar a convicção da existência dessa proibição;
 
@@ -1741,11 +1807,11 @@ a) Nos casos das alíneas a) a c), a obrigação de os infractores retirarem as 
 
 b) No caso da alínea d), a obrigação de os infractores pagarem as taxas que sejam devidas desde a conclusão da vedação.
 
-###### Art. 225.º - 1. O uso de tabuletas ou sinais convencionais de modelo diferente do aprovado será punido com a multa de 300$00, se os mesmos forem substituídos dentro do prazo que para o efeito for fixado pela Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 225.º - 1. O uso de tabuletas ou sinais convencionais de modelo diferente do aprovado será punido com a multa de 300$00, se os mesmos forem substituídos dentro do prazo que para o efeito for fixado pela Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 2. Não sendo feita a substituição, a multa será de 2000$00 a 5000$00, sem prejuízo da obrigação de retirar as tabuletas ou sinais, no prazo que for fixado, sob pena de a Direcção-Geral os retirar, sendo os infractores responsáveis pelas despesas efectuadas.
 
-###### Art. 226.º - 1. São punidos com multa de 500$00 a 2000$00:
+Art. 226.º - 1. São punidos com multa de 500$00 a 2000$00:
 
 a) Os administradores dos postos de criação artificial de caça que não façam as comunicações impostas pelo n.º 1 do artigo 180.º;
 
@@ -1755,7 +1821,7 @@ c) Os que efectuem largadas de exemplares cinegéticos, para repovoamentos, em h
 
 2. No caso da alínea c) será aplicável multa ao proprietário do terreno e ao administrador do posto de criação artificial de caça que forneça os exemplares.
 
-###### Art. 227.º - 1. São punidos com multa de 50$00 por cada exemplar:
+Art. 227.º - 1. São punidos com multa de 50$00 por cada exemplar:
 
 a) A compra, venda e fornecimento ou exposição ao público de exemplares de espécies cinegéticas, sem selo ou marca, quando exigidos por este regulamento;
 
@@ -1769,7 +1835,7 @@ d) A venda, compra, transporte e exposição à venda ou fornecimento ao públic
 
 3. No caso da alínea d), poderá ser decretada a interdição do direito de caçar aos infractores que forem caçadores.
 
-###### Art. 228.º - 1. São punidos com multa de 200$00 por cada exemplar:
+Art. 228.º - 1. São punidos com multa de 200$00 por cada exemplar:
 
 a) A detenção de perdizes ou perdigões vivos, fora dos casos autorizados por este regulamento;
 
@@ -1779,7 +1845,7 @@ c) O transporte de animais desta espécie por locais onde o mesmo seja proibido.
 
 2. A detenção de ovos de perdiz é punida com multa de 50$00 por unidade.
 
-###### Art. 229.º - 1. São punidos com multa de 200$00 a 500$00:
+Art. 229.º - 1. São punidos com multa de 200$00 a 500$00:
 
 a) Os que caçarem com inobservância do impedimento estabelecido no artigo 10.º;
 
@@ -1801,21 +1867,21 @@ a) Nos casos da alínea a), a responsabilidade disciplinar em que possa incorrer
 
 b) Nos casos das alíneas e) e f), a obrigação de indemnizar pelos prejuízos causados.
 
-###### Art. 230.º Os que inutilizem, retirem ou desloquem tabuletas ou sinais convencionais colocados em cumprimento ou ao abrigo de normas deste regulamento são punidos com multa de 50$00 por tabuleta ou sinal, sem prejuízo da obrigação de indemnizar pelos prejuízos causados e salva a aplicação de pena mais grave que possa caber ao facto.
+Art. 230.º Os que inutilizem, retirem ou desloquem tabuletas ou sinais convencionais colocados em cumprimento ou ao abrigo de normas deste regulamento são punidos com multa de 50$00 por tabuleta ou sinal, sem prejuízo da obrigação de indemnizar pelos prejuízos causados e salva a aplicação de pena mais grave que possa caber ao facto.
 
-###### Art. 231.º São punidos com a multa de 50$00:
+Art. 231.º São punidos com a multa de 50$00:
 
 a) Os que no exercício da caça não forem portadores de qualquer das licenças ou documentos de que sejam titulares e de que devam fazer-se acompanhar nos termos deste regulamento;
 
 b) Os caçadores que não comuniquem dentro do prazo legal a mudança da residência, para averbamento na respectiva carta de caçador.
 
-###### Art. 232.º As infracções às disposições do presente regulamento que nele não forem especialmente previstas são punidas com multa de 200$00 a 500$00.
+Art. 232.º As infracções às disposições do presente regulamento que nele não forem especialmente previstas são punidas com multa de 200$00 a 500$00.
 
 #### SECÇÃO II — Responsabilidade civil
 
-###### Art. 233.º A responsabilidade civil por danos causados no exercício da caça é regulada nos termos gerais, salvo a respeitante aos danos causados por armas de fogo ou outros instrumentos de caça, à qual se, aplicam as disposições sobre responsabilidade objectiva ou pelo risco.
+Art. 233.º A responsabilidade civil por danos causados no exercício da caça é regulada nos termos gerais, salvo a respeitante aos danos causados por armas de fogo ou outros instrumentos de caça, à qual se, aplicam as disposições sobre responsabilidade objectiva ou pelo risco.
 
-###### Art. 234.º - 1. Os que explorem ou possuam coutadas de caça, reservas de caça e postos de criação artificial de caça são obrigados a indemnizar os danos que pela caça neles existente forem causados nos terrenos vizinhos.
+Art. 234.º - 1. Os que explorem ou possuam coutadas de caça, reservas de caça e postos de criação artificial de caça são obrigados a indemnizar os danos que pela caça neles existente forem causados nos terrenos vizinhos.
 
 2. Os proprietários ou possuidores dos terrenos que neles consentiram o estabelecimento das referidas coutadas, reservas e postos respondem solidàriamente pelos danos, com direito de regresso contra os que exerçam a exploração.
 
@@ -1823,7 +1889,7 @@ b) Os caçadores que não comuniquem dentro do prazo legal a mudança da residê
 
 ### CAPÍTULO VII — Fiscalização
 
-###### Art. 235. - 1. A polícia e a fiscalização da caça competem a todas as autoridades administrativas e policiais e aos seus agentes e, em especial, aos funcionários e agentes da Direcção-Geral dos Serviços Florestais e Aquícolas com funções de polícia florestal, membros das comissões venatórias e das comissões regionais de pesca, guardas especiais de caça das comissões venatórias e guarda-rios da Direcção-Geral dos Serviços Hidráulicos, e à Guarda Nacional Republicana, Polícia de Segurança Pública, de Viação e Trânsito e Marítima, Guarda Fiscal e Inspecção-Geral das Actividades Económicas.
+Art. 235. - 1. A polícia e a fiscalização da caça competem a todas as autoridades administrativas e policiais e aos seus agentes e, em especial, aos funcionários e agentes da Direcção-Geral dos Serviços Florestais e Aquícolas com funções de polícia florestal, membros das comissões venatórias e das comissões regionais de pesca, guardas especiais de caça das comissões venatórias e guarda-rios da Direcção-Geral dos Serviços Hidráulicos, e à Guarda Nacional Republicana, Polícia de Segurança Pública, de Viação e Trânsito e Marítima, Guarda Fiscal e Inspecção-Geral das Actividades Económicas.
 
 2. Os guardas florestais auxiliares contratados para a fiscalização de coutadas ou reservas de caça só têm competência para a polícia e fiscalização nas áreas das respectivas coutadas ou reservas, devendo participar à Direcção-Geral dos Serviços Florestais e Aquícolas, porém, todas as infracções, cometidas fora dessa área, que tenham presenciado ou de que tenham conhecimento por outro modo.
 
@@ -1831,7 +1897,7 @@ b) Os caçadores que não comuniquem dentro do prazo legal a mudança da residê
 
 4. Os membros das comissões venatórias e os guardas especiais de caça consideram-se agentes de autoridade, para os efeitos de polícia e fiscalização da caça, depois de ajuramentados perante o juiz de direito da comarca do seu domicílio.
 
-###### Art. 236.º As autoridades e agentes de autoridade competentes para a fiscalização do cumprimento deste regulamento poderão:
+Art. 236.º As autoridades e agentes de autoridade competentes para a fiscalização do cumprimento deste regulamento poderão:
 
 a) Verificar a posse, pelos que exerçam a caça, da carta de caçador e das licenças exigidas para o efeito;
 
@@ -1841,11 +1907,11 @@ c) Ordenar a paragem de quaisquer veículos para proceder à verificação dos o
 
 d) Proceder a buscas em prédios rústicos, locais de comércio de caça, meios de transportes públicos e em todos os lugares públicos onde suspeite existir caça que deva ser apreendida.
 
-###### Art. 237.º - 1. As autoridades e agentes de autoridades competentes para a fiscalização da caça deverão levantar autos de notícia por todas as infracções que presenciarem relativamente àquela matéria, cumprindo-lhes também proceder à captura dos arguidos, quando a ela houver lugar, bem como à apreensão da carta de caçador do infractor e dos instrumentos e produtos da infracção, quando os mesmos possam constituir meios de prova ou devam ser declarados perdidos.
+Art. 237.º - 1. As autoridades e agentes de autoridades competentes para a fiscalização da caça deverão levantar autos de notícia por todas as infracções que presenciarem relativamente àquela matéria, cumprindo-lhes também proceder à captura dos arguidos, quando a ela houver lugar, bem como à apreensão da carta de caçador do infractor e dos instrumentos e produtos da infracção, quando os mesmos possam constituir meios de prova ou devam ser declarados perdidos.
 
 2. O autuante, no momento do levantamento do auto, notificará do facto o arguido, com a indicação do preceito infringido e da pena correspondente e ainda, se for aplicável sòmente pena de multa, de que poderá proceder ao respectivo pagamento na câmara municipal, no prazo de dez dias.
 
-###### Art. 238.º - 1. Os autos de notícia deverão ser levantados nos termos prescritos no artigo 166.º do Código de Processo Penal, indicando ainda:
+Art. 238.º - 1. Os autos de notícia deverão ser levantados nos termos prescritos no artigo 166.º do Código de Processo Penal, indicando ainda:
 
 a) O número e a data da carta de caçador do infractor e a comissão venatória que a emitiu;
 
@@ -1863,31 +1929,31 @@ f) As apreensões efectuadas pelo autuante.
 
 3. Os autos serão levantados em duplicado, devendo a cópia ser remetida à comissão venatória regional da área, no prazo de 48 horas, acompanhada da carta de caçador do arguido.
 
-###### Art. 239.º - 1. Os autos de notícia serão enviados ao tribunal competente para conhecer da infracção, mas, se esta for punida simplesmente com multa, serão enviados à câmara municipal do concelho, em cuja secretaria aguardarão, durante dez dias, o pagamento voluntário.
+Art. 239.º - 1. Os autos de notícia serão enviados ao tribunal competente para conhecer da infracção, mas, se esta for punida simplesmente com multa, serão enviados à câmara municipal do concelho, em cuja secretaria aguardarão, durante dez dias, o pagamento voluntário.
 
 2. O envio dos autos de notícia, ao tribunal ou à câmara municipal, será feito directamente pelo autuante, ou através dos respectivos superiores, se os tiver na área, devendo sempre ser passado recibo, mas, se houver arguidos presos, serão estes apresentados em juízo, com o respectivo auto, nos termos da lei processual penal.
 
-###### Art. 240.º - 1. Se as autoridades e agentes de autoridade competentes para a fiscalização da caça tiverem conhecimento da prática de qualquer infracção respeitante àquela matéria, mas que não tenham presenciado, deverão levantar o respectivo auto de denúncia e remetê-lo ao Ministério Público competente.
+Art. 240.º - 1. Se as autoridades e agentes de autoridade competentes para a fiscalização da caça tiverem conhecimento da prática de qualquer infracção respeitante àquela matéria, mas que não tenham presenciado, deverão levantar o respectivo auto de denúncia e remetê-lo ao Ministério Público competente.
 
 2. O auto será lavrado em duplicado, sendo a cópia remetida à comissão venatória regional da área.
 
-###### Art. 241.º - 1. As secretarias judiciais deverão enviar às comissões venatórias regionais, no prazo de dez dias, a contar do respectivo trânsito em julgado, certidão ou fotocópia das decisões finais proferidas nos processos instaurados por infracção a disposições sobre caça.
+Art. 241.º - 1. As secretarias judiciais deverão enviar às comissões venatórias regionais, no prazo de dez dias, a contar do respectivo trânsito em julgado, certidão ou fotocópia das decisões finais proferidas nos processos instaurados por infracção a disposições sobre caça.
 
 2. As mesmas comissões e a Direcção-Geral dos Serviços Florestais e Aquícolas podem solicitar informações às secretarias judiciais sobre o andamento dos referidos processos.
 
-###### Art. 242.º Os médicos veterinários municipais e todas as demais entidades com funções de fiscalização sanitária, ao inspeccionarem as peças de caça, deverão verificar, quando tal seja possível, se foram utilizados meios ilícitos na sua captura, procedendo, em caso afirmativo, à respectiva apreensão, e participando o facto à autoridade competente.
+Art. 242.º Os médicos veterinários municipais e todas as demais entidades com funções de fiscalização sanitária, ao inspeccionarem as peças de caça, deverão verificar, quando tal seja possível, se foram utilizados meios ilícitos na sua captura, procedendo, em caso afirmativo, à respectiva apreensão, e participando o facto à autoridade competente.
 
 ## TÍTULO II — Organização e competência dos serviços
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 243.º - 1. Constituem atribuições da Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, o fomento e a protecção das espécies venatórias e o licenciamento e a fiscalização do exercício da caça.
+Art. 243.º - 1. Constituem atribuições da Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, o fomento e a protecção das espécies venatórias e o licenciamento e a fiscalização do exercício da caça.
 
 2. A competência dá Direcção-Geral dos Serviços Florestais e Aquícolas nas matérias de que trata o presente regulamento é exercida através do Serviço de Inspecção da Caça e Pesca.
 
 3. A Secretaria de Estado da Agricultura é coadjuvada no exercício das atribuições referidas no n.º 1 pelas comissões venatórias e pelas câmaras municipais.
 
-###### Art. 244.º Compete aos presidentes das câmaras municipais promover o cumprimento das disposições deste regulamento no que respeita às funções atribuídas às câmaras e, em especial:
+Art. 244.º Compete aos presidentes das câmaras municipais promover o cumprimento das disposições deste regulamento no que respeita às funções atribuídas às câmaras e, em especial:
 
 a) Na concessão e registo das licenças e dos títulos previstos nos artigos 13.º e 14.º;
 
@@ -1901,15 +1967,15 @@ e) Nos averbamentos nas cartas de caçador, da competência das câmaras;
 
 f) No preenchimento e envio às comissões venatórias regionais dos mapas a que se refere o artigo 246.º
 
-###### Art. 245.º - 1. As quantias atribuídas ao Fundo Especial da Caça e Pesca serão depositadas pelas câmaras municipais na Caixa Geral de Depósitos, Crédito e Previdência, à ordem daquele, até ao dia 10 do mês seguinte àquele em que for feita a cobrança, devendo as câmaras enviar à comissão administrativa do Fundo, nos cinco dias seguintes, o duplicado da correspondente guia de depósito.
+Art. 245.º - 1. As quantias atribuídas ao Fundo Especial da Caça e Pesca serão depositadas pelas câmaras municipais na Caixa Geral de Depósitos, Crédito e Previdência, à ordem daquele, até ao dia 10 do mês seguinte àquele em que for feita a cobrança, devendo as câmaras enviar à comissão administrativa do Fundo, nos cinco dias seguintes, o duplicado da correspondente guia de depósito.
 
 2. As quantias atribuídas às comissões venatórias serão depositadas nos termos que forem estabelecidos no regulamento previsto no n.º 1 do artigo 263.º
 
-###### Art. 246.º As câmaras municipais deverão enviar às comissões venatórias regionais da respectiva área, até ao fim de cada mês, mapas relativos ao mês anterior, com indicação das licenças concedidas, cartas de caçador entregues aos requerentes, autos de notícia recebidos e enviados a juízo e multas pagas voluntàriamente.
+Art. 246.º As câmaras municipais deverão enviar às comissões venatórias regionais da respectiva área, até ao fim de cada mês, mapas relativos ao mês anterior, com indicação das licenças concedidas, cartas de caçador entregues aos requerentes, autos de notícia recebidos e enviados a juízo e multas pagas voluntàriamente.
 
 ### CAPÍTULO II — Conselho Superior da Caça
 
-###### Art. 247.º - 1. O Conselho Superior da Caça será presidido pelo Secretário de Estado da Agricultura e compõe-se dos seguintes vogais permanentes:
+Art. 247.º - 1. O Conselho Superior da Caça será presidido pelo Secretário de Estado da Agricultura e compõe-se dos seguintes vogais permanentes:
 
 a) O director-geral do Serviços Florestais e Aquícolas;
 
@@ -1941,19 +2007,19 @@ l) Um delegado da Corporação da Lavoura por cada uma das regiões venatórias 
 
 5. Cada vogal terá um suplente para o substituir nas suas faltas e impedimentos.
 
-###### Art. 248.º - 1. O Secretário de Estado da Agricultura poderá chamar a participar nas reuniões do Conselho, sempre que tal se mostre conveniente, representantes de outros organismos ou serviços públicos ou pessoas de reconhecida competência sobre as matérias a apreciar.
+Art. 248.º - 1. O Secretário de Estado da Agricultura poderá chamar a participar nas reuniões do Conselho, sempre que tal se mostre conveniente, representantes de outros organismos ou serviços públicos ou pessoas de reconhecida competência sobre as matérias a apreciar.
 
 2. Os que forem convocados para sessões do Conselho nos termos do número anterior não têm direito de voto, mas são considerados vogais para efeitos de abonos.
 
-###### Art. 249.º O Conselho Superior da Caça será consultado sempre que o Secretário de Estado da Agricultura entenda conveniente sobre quaisquer matérias relativas ao fomento e protecção das espécies venatórias e ao licenciamento e fiscalização do exercício da caça, mas será obrigatòriamente ouvido nos casos especialmente previstos neste diploma.
+Art. 249.º O Conselho Superior da Caça será consultado sempre que o Secretário de Estado da Agricultura entenda conveniente sobre quaisquer matérias relativas ao fomento e protecção das espécies venatórias e ao licenciamento e fiscalização do exercício da caça, mas será obrigatòriamente ouvido nos casos especialmente previstos neste diploma.
 
-###### Art. 250.º - 1. As normas sobre o funcionamento do Conselho Superior da Caça serão aprovadas por despacho do Secretário de Estado da Agricultura.
+Art. 250.º - 1. As normas sobre o funcionamento do Conselho Superior da Caça serão aprovadas por despacho do Secretário de Estado da Agricultura.
 
 2. As reuniões do Conselho serão secretariadas pelo chefe dos Serviços Administrativos do Serviço de Inspecção da Caça e Pesca, que assegurará o expediente relativo às sessões e à execução das deliberações.
 
 ### CAPÍTULO III — Fundo Especial da Caça e Pesca
 
-###### Art. 251.º Constituem receitas do Fundo Especial da Caça e Pesca:
+Art. 251.º Constituem receitas do Fundo Especial da Caça e Pesca:
 
 a) A parte do produto das taxas previstas neste regulamento, que pelo mesmo lhe é atribuída;
 
@@ -1969,7 +2035,7 @@ f) Os juros dos capitais arrecadados;
 
 g) Quaisquer outras quantias que por lei lhe sejam atribuídas.
 
-###### Art. 252.º O Fundo Especial da Caça e Pesca suportará, além daqueles a que se refere a base XIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), os encargos seguintes:
+Art. 252.º O Fundo Especial da Caça e Pesca suportará, além daqueles a que se refere a base XIII da [Lei n.º 2097](https://diariodarepublica.pt/dr/detalhe/lei/2097-1959-432642), os encargos seguintes:
 
 a) Da inspecção e fiscalização em matéria de caça, a cargo da Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas;
 
@@ -1987,9 +2053,9 @@ g) Da publicação de trabalhos e estudos de reconhecido mérito que tenham por 
 
 h) De quaisquer outras previdências convenientes para o fomento e protecção da caça ou da pesca ou para assegurar a eficácia das correspondentes fiscalizações.
 
-###### Art. 253.º Os subsídios eventuais e as dotações previstas na alínea b) do artigo anterior só poderão ser destinados a planos de trabalhos prèviamente aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas e a sua utilização fica sujeita à prestação das correspondentes contas à comissão administrativa do Fundo Especial da Caça e Pesca.
+Art. 253.º Os subsídios eventuais e as dotações previstas na alínea b) do artigo anterior só poderão ser destinados a planos de trabalhos prèviamente aprovados pela Direcção-Geral dos Serviços Florestais e Aquícolas e a sua utilização fica sujeita à prestação das correspondentes contas à comissão administrativa do Fundo Especial da Caça e Pesca.
 
-###### Art. 254.º - 1. O Fundo Especial da Caça e Pesca é gerido por uma comissão administrativa dotada de autonomia administrativa e financeira e com a seguinte composição:
+Art. 254.º - 1. O Fundo Especial da Caça e Pesca é gerido por uma comissão administrativa dotada de autonomia administrativa e financeira e com a seguinte composição:
 
 a) O director-geral dos Serviços Florestais e Aquícolas, que presidirá;
 
@@ -2003,7 +2069,7 @@ e) Um representante dos pescadores, designado pelas comissões regionais de pesc
 
 2. O chefe dos serviços administrativos do Serviço de Inspecção da Caça e Pesca exercerá as funções de secretário da comissão, sem direito de voto.
 
-###### Art. 255.º - 1. A comissão administrativa reunirá mensalmente em sessão ordinária e extraordinàriamente sempre que for convocada pelo presidente.
+Art. 255.º - 1. A comissão administrativa reunirá mensalmente em sessão ordinária e extraordinàriamente sempre que for convocada pelo presidente.
 
 2. As deliberações serão tomadas por maioria de votos dos membros presentes, mas a comissão só poderá deliberar quando estiver presente a maioria dos seus membros.
 
@@ -2011,11 +2077,11 @@ e) Um representante dos pescadores, designado pelas comissões regionais de pesc
 
 4. De todas as sessões serão lavradas actas em livro próprio, sujeitas à aprovação na sessão seguinte e assinadas por todos os membros presentes à sessão.
 
-###### Art. 256.º O expediente do Fundo Especial da Caça e Pesca e a execução das deliberações da sua comissão administrativa são assegurados pelo Serviço de Inspecção da Caça e Pesca, cujo chefe dos serviços administrativos desempenhará as funções de secretário do Fundo.
+Art. 256.º O expediente do Fundo Especial da Caça e Pesca e a execução das deliberações da sua comissão administrativa são assegurados pelo Serviço de Inspecção da Caça e Pesca, cujo chefe dos serviços administrativos desempenhará as funções de secretário do Fundo.
 
 ### CAPÍTULO IV — Comissões venatórias
 
-###### Art. 257.º - 1. O território do continente divide-se em três regiões venatórias, com as seguintes denominações, sedes e áreas:
+Art. 257.º - 1. O território do continente divide-se em três regiões venatórias, com as seguintes denominações, sedes e áreas:
 
 a) Região venatória do Norte, com sede no Porto, abrangendo a zona situada a norte do limite sul dos concelhos de Espinho, Feira, S. João da Madeira, Oliveira de Azeméis, Vale de Cambra, Arouca, Cinfães, Resende, Lamego, Tarouca, Armamar, Tabuaço, S. João da Pesqueira, Penedono, Meda, Vila Nova de Foz Côa e Figueira de Castelo Rodrigo;
 
@@ -2025,11 +2091,11 @@ c) Região venatória do Sul, com sede em Lisboa e abrangendo a zona situada a s
 
 2. O número e as áreas, sedes e designações das regiões venatórias poderão ser alterados mediante portaria do Secretário de Estado da Agricultura.
 
-###### Art. 258.º - 1. Em cada região venatória existirá uma comissão venatória regional, com a designação correspondente.
+Art. 258.º - 1. Em cada região venatória existirá uma comissão venatória regional, com a designação correspondente.
 
 2. Em cada concelho haverá uma comissão venatória concelhia, excepto nos concelhos sedes das regiões venatórias, onde as comissões regionais exercerão também a competência atribuída às comissões concelhias.
 
-###### Art. 259.º - 1. Nas ilhas adjacentes existirão apenas comissões venatórias distritais, nas sedes dos respectivos distritos autónomos e com as designações correspondentes.
+Art. 259.º - 1. Nas ilhas adjacentes existirão apenas comissões venatórias distritais, nas sedes dos respectivos distritos autónomos e com as designações correspondentes.
 
 2. As comissões distritais acumularão a competência atribuída às comissões regionais e às comissões concelhias.
 
@@ -2037,7 +2103,7 @@ c) Região venatória do Sul, com sede em Lisboa e abrangendo a zona situada a s
 
 4. A criação das delegações será feita mediante portaria, na qual será definida a respectiva competência.
 
-###### Art. 260.º - 1. Compete às comissões venatórias regionais coadjuvar a Direcção-Geral dos Serviços Florestais e Aquícolas no fomento e protecção das espécies venatórias e no licenciamento e fiscalização do exercício da caça e, em especial:
+Art. 260.º - 1. Compete às comissões venatórias regionais coadjuvar a Direcção-Geral dos Serviços Florestais e Aquícolas no fomento e protecção das espécies venatórias e no licenciamento e fiscalização do exercício da caça e, em especial:
 
 a) Colaborar na fiscalização do cumprimento do presente diploma e das restantes normas legais sobre caça na área da respectiva região, podendo, para esse efeito, contratar guardas especiais de caça;
 
@@ -2081,13 +2147,13 @@ o) Exercer quaisquer outras funções ou praticar quaisquer outros actos imposto
 
 2. Sempre que se mostre conveniente, e especialmente para os efeitos do disposto nas alíneas b) a d) do número anterior, as comissões venatórias regionais deverão ouvir prèviamente as comissões concelhias.
 
-###### Art. 261.º - 1. As propostas a que se referem os n.os 1) e 2) da alínea d) do n.º 1 do artigo anterior serão submetidas à aprovação do Secretário de Estado da Agricultura.
+Art. 261.º - 1. As propostas a que se referem os n.os 1) e 2) da alínea d) do n.º 1 do artigo anterior serão submetidas à aprovação do Secretário de Estado da Agricultura.
 
 2. Depois de aprovadas, as respectivas normas serão tornadas públicas pelas comissões venatórias, mediante a publicação num jornal diário publicado na localidade da sua sede e a afixação de editais em todas as freguesias da área, por intermédio das regedorias e das comissões venatórias concelhias.
 
 3. As deliberações só são executórias depois de decorridos quinze dias sobre a afixação dos editais.
 
-###### Art. 262.º Compete às comissões venatórias concelhias coadjuvar a respectiva comissão venatória regional no fomento e protecção das espécies e na fiscalização do exercício da caça e, em especial:
+Art. 262.º Compete às comissões venatórias concelhias coadjuvar a respectiva comissão venatória regional no fomento e protecção das espécies e na fiscalização do exercício da caça e, em especial:
 
 a) Proceder ao repovoamento cinegético das zonas da sua área, de harmonia com as respectivas necessidades e possibilidades;
 
@@ -2103,13 +2169,13 @@ f) Comunicar à câmara municipal do respectivo concelho e às entidades que na 
 
 g) Exercer quaisquer outras funções ou praticar quaisquer outros actos impostos ou permitidos por este diploma ou pelo regulamento a que se refere o n.º 1 do artigo seguinte.
 
-###### Art. 263.º - 1. A constituição, organização dos serviços, contabilidade e funcionamento das comissões venatórias serão regulamentados por portaria do Ministro das Corporações e Previdência Social e do Secretário de Estado da Agricultura.
+Art. 263.º - 1. A constituição, organização dos serviços, contabilidade e funcionamento das comissões venatórias serão regulamentados por portaria do Ministro das Corporações e Previdência Social e do Secretário de Estado da Agricultura.
 
 2. Nas comissões venatórias estarão sempre representados, porém, o município, a lavoura, o turismo e os caçadores, sendo o representante do município designado pela câmara municipal e os da lavoura, turismo e caçadores indicados pelas respectivas corporações, ou eleitos, quando estas não existirem.
 
 ## TÍTULO III — Disposições finais e transitórias
 
-###### Art. 264.º - 1. O Secretário de Estado da Agricultura, por despacho a publicar no Diário do Governo, fixará, em atenção à montagem e organização dos serviços necessários, as datas a partir das quais:
+Art. 264.º - 1. O Secretário de Estado da Agricultura, por despacho a publicar no Diário do Governo, fixará, em atenção à montagem e organização dos serviços necessários, as datas a partir das quais:
 
 a) Poderão ser requeridas cartas de caçador e títulos de revalidação de licenças estrangeiras e de autorização especial de caça, previstos, respectivamente, nos artigos 13.º e 14.º;
 
@@ -2119,27 +2185,27 @@ c) Deixarão de poder ser utilizados para a concessão das licenças os modelos 
 
 2. Nos cartões das licenças que forem concedidas até à data que for fixada para os fins da alínea c) do número anterior será corrigida a indicação da taxa devida, de harmonia com o disposto no artigo 48.º
 
-###### Art. 265.º Consideram-se com validade até 31 de Maio de 1968:
+Art. 265.º Consideram-se com validade até 31 de Maio de 1968:
 
 a) As licenças emitidas para o ano de 1967;
 
 b) As taxas pagas, para o mesmo ano, relativamente à reserva de caça nas propriedades submetidas ao regime florestal de simples polícia.
 
-###### Art. 266.º - 1. É proibida durante três anos a caça à abetarda.
+Art. 266.º - 1. É proibida durante três anos a caça à abetarda.
 
 2. Findo este período, o Secretário de Estado da Agricultura, mediante proposta da Direcção-Geral dos Serviços Florestais e Aquícolas e ouvido o Conselho Superior da Caça, regulamentará em portaria os locais e períodos em que tal caça poderá ser praticada e os processos que nela poderão ser utilizados.
 
-###### Art. 267.º É proibida durante três anos a exportação de todas as espécies cinegéticas indígenas, vivas ou mortas, bem como a de ovos de perdiz.
+Art. 267.º É proibida durante três anos a exportação de todas as espécies cinegéticas indígenas, vivas ou mortas, bem como a de ovos de perdiz.
 
-###### Art. 268.º - 1. Os períodos venatórios nas ilhas adjacentes, enquanto não for publicado o respectivo regulamento, serão fixados pelas comissões venatórias distritais.
+Art. 268.º - 1. Os períodos venatórios nas ilhas adjacentes, enquanto não for publicado o respectivo regulamento, serão fixados pelas comissões venatórias distritais.
 
 2. A fixação carece de aprovação do Secretário de Estado da Agricultura e será publicada nos termos previstos no artigo 261.º
 
-###### Art. 269.º - 1. Consideram-se caducas as autorizações concedidas até à publicação do presente regulamento para a captura de espécies cinegéticas fora das condições normais do exercício da caça, devendo os interessados solicitar nova autorização, quando justificada, nos termos deste diploma.
+Art. 269.º - 1. Consideram-se caducas as autorizações concedidas até à publicação do presente regulamento para a captura de espécies cinegéticas fora das condições normais do exercício da caça, devendo os interessados solicitar nova autorização, quando justificada, nos termos deste diploma.
 
 2. Os que possuam perdizes ou perdigões vivos ao abrigo de autorização concedida até à publicação deste diploma têm o prazo de 60 dias para requerer a concessão de nova autorização, nos termos do artigo 107.º
 
-###### Art. 270.º - 1. As propriedades que à data da publicação deste regulamento estejam submetidas ao regime florestal de simples polícia, com reserva de caça, são consideradas, para todos os efeitos, como coutadas constituídas ao abrigo dos artigos 113.º e seguintes.
+Art. 270.º - 1. As propriedades que à data da publicação deste regulamento estejam submetidas ao regime florestal de simples polícia, com reserva de caça, são consideradas, para todos os efeitos, como coutadas constituídas ao abrigo dos artigos 113.º e seguintes.
 
 2. A Secretaria de Estado da Agricultura, pela Direcção-Geral dos Serviços Florestais e Aquícolas, procederá à revisão da situação das mesmas propriedades, para verificar o cumprimento das condições impostas no decreto que as submeteu a esse regime, excluindo aquelas em que não se mostrem cumpridas as referidas condições.
 
@@ -2149,23 +2215,23 @@ b) As taxas pagas, para o mesmo ano, relativamente à reserva de caça nas propr
 
 5. Quando seja necessário demarcar «corredores» em conjuntos de coutadas já existentes, deverão os mesmos ser estabelecidos em primeiro lugar sobre as coutadas de maior área.
 
-###### Art. 271.º As tabuletas sinalizadoras de proibição de caçar que estiverem colocadas à data da publicação do presente diploma, ou que forem utilizadas até à aprovação dos novos modelos, nos termos do artigo 277.º, podem ser mantidas após esta aprovação.
+Art. 271.º As tabuletas sinalizadoras de proibição de caçar que estiverem colocadas à data da publicação do presente diploma, ou que forem utilizadas até à aprovação dos novos modelos, nos termos do artigo 277.º, podem ser mantidas após esta aprovação.
 
-###### Art. 272.º - 1. Os postos de criação artificial de caça em funcionamento à data da publicação do presente regulamento ficam sujeitos ao regime nele estabelecido.
+Art. 272.º - 1. Os postos de criação artificial de caça em funcionamento à data da publicação do presente regulamento ficam sujeitos ao regime nele estabelecido.
 
 2. Os seus administradores deverão requerer à Direcção-Geral dos Serviços Florestais e Aquícolas, no prazo de 90 dias, autorização para a continuação da actividade, sob pena de os postos serem encerrados.
 
 3. Os requerimentos deverão ser formulados nos termos prescritos no artigo 175.º com as necessárias adaptações, sendo os projectos das construções, porém, substituídos por um esboço das construções existentes.
 
-###### Art. 273.º Fica extinta a secção venatória do Conselho Técnico dos Serviços Florestais logo que esteja constituído o Conselho Superior da Caça, com a designação inicial de todos os seus membros.
+Art. 273.º Fica extinta a secção venatória do Conselho Técnico dos Serviços Florestais logo que esteja constituído o Conselho Superior da Caça, com a designação inicial de todos os seus membros.
 
-###### Art. 274.º - 1. As comissões venatórias manterão a sua actual constituição até à data que for fixada na portaria que, nos termos do artigo 263.º, regular a sua constituição.
+Art. 274.º - 1. As comissões venatórias manterão a sua actual constituição até à data que for fixada na portaria que, nos termos do artigo 263.º, regular a sua constituição.
 
 2. O seu funcionamento e contabilidade continuarão a reger-se pelas disposições anteriores à [Lei n.º 2132](https://diariodarepublica.pt/dr/detalhe/lei/2132-1967-312807), de 26 de Maio de 1967, em tudo o que não for contrário a essa lei ou a este regulamento, até à publicação da portaria a que se refere o número anterior, ou até à data que nela venha a ser fixada para o efeito.
 
-###### Art. 275.º Consideram-se como feitas ao abrigo do disposto no presente regulamento as delimitações de áreas ou zonas para o exercício da caça antes da abertura da época geral da caça, para as espécies em relação às quais a mesma é possível, devidamente anunciadas antes da vigência deste regulamento, desde que tais delimitações sejam compatíveis com as suas disposições.
+Art. 275.º Consideram-se como feitas ao abrigo do disposto no presente regulamento as delimitações de áreas ou zonas para o exercício da caça antes da abertura da época geral da caça, para as espécies em relação às quais a mesma é possível, devidamente anunciadas antes da vigência deste regulamento, desde que tais delimitações sejam compatíveis com as suas disposições.
 
-###### Art. 276.º Serão regulamentados em portaria:
+Art. 276.º Serão regulamentados em portaria:
 
 a) Os quadros tipos das anomalias e deficiências orgânicas e fisiológicas impeditivas do exercício da caça e do uso de armas de fogo para esse fim, bem como as tolerâncias a observar na passagem dos atestados e exames médicos previstos no presente diploma;
 
@@ -2173,7 +2239,7 @@ b) A constituição e funcionamento das juntas médicas para os exames previstos
 
 c) Os termos processuais a observar para a realização dos mesmos exames.
 
-###### Art. 277.º - 1. Serão aprovados por portaria do Secretário de Estado da Agricultura os modelos:
+Art. 277.º - 1. Serão aprovados por portaria do Secretário de Estado da Agricultura os modelos:
 
 a) Das tabuletas e outros sinais convencionais previstos no presente regulamento;
 
@@ -2183,15 +2249,15 @@ b) Dos cartões das cartas de caçador, das licenças e dos títulos previstos n
 
 3. Os modelos dos restantes impressos necessários à execução deste diploma serão aprovados por despacho.
 
-###### Art. 278.º Os cartões a que se refere a alínea b) do artigo anterior constituem modelos exclusivos da Imprensa Nacional e só podem ser a ela adquiridos pelas comissões venatórias.
+Art. 278.º Os cartões a que se refere a alínea b) do artigo anterior constituem modelos exclusivos da Imprensa Nacional e só podem ser a ela adquiridos pelas comissões venatórias.
 
-###### Art. 279.º As quantias das taxas, das multas aplicadas administrativamente e das despesas previstas neste diploma como encargos dos interessados, que não forem pagas voluntàriamente pelos respectivos responsáveis dentro dos prazos fixados, serão cobradas coercivamente, após despacho confirmativo do Secretário de Estado da Agricultura, nos termos do § único do artigo 144.º do Código de Processo das Contribuições e Impostos e com base em certidão donde constem as menções exigidas no artigo 156.º do mesmo Código.
+Art. 279.º As quantias das taxas, das multas aplicadas administrativamente e das despesas previstas neste diploma como encargos dos interessados, que não forem pagas voluntàriamente pelos respectivos responsáveis dentro dos prazos fixados, serão cobradas coercivamente, após despacho confirmativo do Secretário de Estado da Agricultura, nos termos do § único do artigo 144.º do Código de Processo das Contribuições e Impostos e com base em certidão donde constem as menções exigidas no artigo 156.º do mesmo Código.
 
-###### Art. 280.º O Secretário de Estado da Agricultura, por despacho, aprovará as instruções necessárias à execução deste regulamento e resolverá as dúvidas que se suscitem quanto à sua execução e interpretação.
+Art. 280.º O Secretário de Estado da Agricultura, por despacho, aprovará as instruções necessárias à execução deste regulamento e resolverá as dúvidas que se suscitem quanto à sua execução e interpretação.
 
-###### Art. 281.º O presente diploma entra imediatamente em vigor.
+Art. 281.º O presente diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José João Gonçalves de Proença - Domingos Rosado Vitória Pires.
 

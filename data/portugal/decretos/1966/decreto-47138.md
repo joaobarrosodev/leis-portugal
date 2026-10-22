@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47138-1966-474545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 17597991e5ed44107a5ea0a56fefd3924a99b4435dcb732e07a4cccfedc7225a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5a300b91d24b917bc4df50f0ed5ae938f9b286437f139437720433eb38d4076d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
 article_structure:
-  article_count: 18
-  section_count: 24
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:57Z'
   warnings: []
   errors: []
 ---
@@ -87,134 +91,134 @@ Em execução do artigo 8.º do [Decreto-Lei n.º 47137](https://diariodarepubli
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 266000000$00, destinados a satisfazer os encargos com o subsídio eventual de custo de vida, que se distribuirão e inscreverão da seguinte forma, nos departamentos e Ministérios que se passam a indicar:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 266000000$00, destinados a satisfazer os encargos com o subsídio eventual de custo de vida, que se distribuirão e inscreverão da seguinte forma, nos departamentos e Ministérios que se passam a indicar:
 
 Encargos Gerais da Nação
 
-### Capítulo 10.º-A «Subsídio eventual de custo de vida»:
+Capítulo 10.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 304.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 12800000$00
+Artigo 304.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 12800000$00
 
 Ministério das Finanças
 
-### Capítulo 7.º «Intendência-Geral do Orçamento»:
+Capítulo 7.º «Intendência-Geral do Orçamento»:
 
-###### Artigo 62.º «Outros encargos», n.º 2) «Provisão para rectificação das dotações globais inscritas em execução do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 29200000$00
+Artigo 62.º «Outros encargos», n.º 2) «Provisão para rectificação das dotações globais inscritas em execução do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 29200000$00
 
-### Capítulo 18.º-A «Subsídio eventual de custo de vida»:
+Capítulo 18.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 206.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 24000000$00
+Artigo 206.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 24000000$00
 
 ... 53200000$00
 
 Ministério do Interior
 
-### Capítulo 10.º-A «Subsídio eventual de custo de vida»:
+Capítulo 10.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 117.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 26400000$00
+Artigo 117.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 26400000$00
 
 Ministério da Justiça
 
-### Capítulo 9.º-A «Subsídio eventual de custo de vida»:
+Capítulo 9.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 499.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 8000000$00
+Artigo 499.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 8000000$00
 
 Ministério do Exército
 
-### Capítulo 11.º-A «Subsídio eventual de custo de vida»:
+Capítulo 11.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 369.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 28000000$00
+Artigo 369.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 28000000$00
 
 Ministério da Marinha
 
-### Capítulo 10.º-A «Subsídio eventual de custo de vida»:
+Capítulo 10.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 260.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 20000000$00
+Artigo 260.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 20000000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 6.º-A «Subsídio eventual de custo de vida»:
+Capítulo 6.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 46.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 800000$00
+Artigo 46.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 800000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 6.º «Junta Autónoma de Estradas»:
+Capítulo 6.º «Junta Autónoma de Estradas»:
 
-###### Artigo 74.º «Outras despesas com o pessoal», n.º 8) «Subsídio eventual de custo de vida» ... 5440000$00
+Artigo 74.º «Outras despesas com o pessoal», n.º 8) «Subsídio eventual de custo de vida» ... 5440000$00
 
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 87.º «Outras despesas com o pessoal», n.º 5) «Subsídio eventual de custo de vida» ... 1000000$00
+Artigo 87.º «Outras despesas com o pessoal», n.º 5) «Subsídio eventual de custo de vida» ... 1000000$00
 
-### Capítulo 10.º-A «Subsídio eventual de custo de vida»:
+Capítulo 10.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 100.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 3160000$00
+Artigo 100.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 3160000$00
 
 ... 9600000$00
 
 Ministério do Ultramar
 
-### Capítulo 15.º-A «Subsídio eventual de custo de vida»:
+Capítulo 15.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 132.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 2400000$00
+Artigo 132.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 2400000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 9.º-A «Subsídio eventual de custo de vida»:
+Capítulo 9.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 958.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 80000000$00
+Artigo 958.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 80000000$00
 
 Ministério da Economia
 
-### Capítulo 22.º-A «Subsídio eventual de custo de vida»:
+Capítulo 22.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 320.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 12800000$00
+Artigo 320.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 12800000$00
 
 Ministério das Comunicações
 
-### Capítulo 12.º-A «Subsídio eventual de custo de vida»:
+Capítulo 12.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 175.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 5600000$00
+Artigo 175.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 5600000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 8.º-A «Subsídio eventual de custo de vida»:
+Capítulo 8.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 111.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 4000000$00
+Artigo 111.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 4000000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 7.º-A «Subsídio eventual de custo de vida»:
+Capítulo 7.º-A «Subsídio eventual de custo de vida»:
 
-###### Artigo 78.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 2400000$00
+Artigo 78.º-A «Para satisfação dos encargos desta natureza, nos termos do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966» ... 2400000$00
 
 ... 266000000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de inscrição e aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de inscrição e aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 3.º «Indústrias em regime tributário especial», artigo 25.º-A «Imposto de transacções» ... 257480000$00
+Capítulo 3.º «Indústrias em regime tributário especial», artigo 25.º-A «Imposto de transacções» ... 257480000$00
 
-### Capítulo 7.º, artigo 162.º «Reembolso de despesas com o pessoal de quadros do Ministério das Corporações e Previdência Social» ... 1200000$00
+Capítulo 7.º, artigo 162.º «Reembolso de despesas com o pessoal de quadros do Ministério das Corporações e Previdência Social» ... 1200000$00
 
-### Capítulo 7.º, artigo 190.º «Reembolso das despesas com os serviços de urbanização» ... 1000000$00
+Capítulo 7.º, artigo 190.º «Reembolso das despesas com os serviços de urbanização» ... 1000000$00
 
-### Capítulo 7.º, artigo 198.º «Reembolso das despesas realizadas com a Comissão de Coordenação Económica» ... 160000$00
+Capítulo 7.º, artigo 198.º «Reembolso das despesas realizadas com a Comissão de Coordenação Económica» ... 160000$00
 
-### Capítulo 7.º, artigo 199.º «Reembolso de despesas com a Inspecção-Geral das Actividades Económicas» ... 480000$00
+Capítulo 7.º, artigo 199.º «Reembolso de despesas com a Inspecção-Geral das Actividades Económicas» ... 480000$00
 
-### Capítulo 7.º, artigo 200.º-A «Reembolso de parte das despesas com o pessoal da Direcção-Geral de Transportes Terrestres» ... 240000$00
+Capítulo 7.º, artigo 200.º-A «Reembolso de parte das despesas com o pessoal da Direcção-Geral de Transportes Terrestres» ... 240000$00
 
 ... 260560000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 6.º, artigo 72.º, n.º 4) ... 5440000$00
+Capítulo 6.º, artigo 72.º, n.º 4) ... 5440000$00
 
 ... 266000000$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.

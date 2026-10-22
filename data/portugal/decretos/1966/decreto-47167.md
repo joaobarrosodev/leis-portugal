@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47167-1966-469428
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e962f014d1e070fe1030a81fc9db53f7664fd98a52364703d89ed9ebe976192
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4bf5d6773dd9e9d945fe289d3dc6ee0c63132e65f1d1e23eb6eaf8230137c7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518398:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:10Z'
   warnings: []
   errors: []
 ---
@@ -89,29 +101,29 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A alínea a) do n.º 1.º do artigo 13.º do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, passa a ter a seguinte redacção:
+Artigo 1.º A alínea a) do n.º 1.º do artigo 13.º do [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398), de 16 de Março de 1962, passa a ter a seguinte redacção:
 
 a) Organizar planos de parcelamento de zonas rústicas com excepção daquelas que, pelas suas características especiais ou de proximidade de centros populacionais, devam estar sob a jurisdição e competência urbanística de outros serviços.
 
-###### Art. 2.º O § 2.º do artigo 13.º do referido [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398) passa a ter a seguinte redacção:
+Art. 2.º O § 2.º do artigo 13.º do referido [Decreto n.º 44239](https://diariodarepublica.pt/dr/detalhe/decreto/44239-1962-518398) passa a ter a seguinte redacção:
 
 § 2.º Para os fins do disposto na parte final da alínea a) do n.º 1.º do corpo deste artigo, é obrigatória a audição da Comissão Provincial de Urbanização referida no artigo 22.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 26 de Fevereiro de 1964.
 
-###### Art. 3.º O n.º 3.º do artigo 28.º do Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, passa a ter a seguinte redacção:
+Art. 3.º O n.º 3.º do artigo 28.º do Regulamento da Ocupação e Concessão de Terrenos nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), de 6 de Setembro de 1961, passa a ter a seguinte redacção:
 
 3.º Pareceres dos serviços competentes sobre as condições económicas e sociais da povoação e sobre as obras já realizadas ou a realizar para a sua conveniente urbanização, sendo sempre obrigatória a audição da Repartição de Urbanismo da Direcção dos Serviços de Obras Públicas e Transportes.
 
-###### Art. 4.º O § 1.º do artigo 28.º do mesmo regulamento, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), passa a ter a seguinte redacção:
+Art. 4.º O § 1.º do artigo 28.º do mesmo regulamento, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), passa a ter a seguinte redacção:
 
 § 1.º Quando as povoações abranjam, no todo ou em parte, terrenos sobre os quais tenham jurisdição os serviços de marinha, os dos portos, caminhos de ferro e transportes ou os de aeronáutica, devem ser pedidos pareceres destes e em quaisquer casos o dos serviços de obras públicas e transportes.
 
-###### Art. 5.º São acrescentados ao artigo 28.º do mesmo regulamento, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), os §§ 3.º e 4.º do seguinte teor:
+Art. 5.º São acrescentados ao artigo 28.º do mesmo regulamento, aprovado pelo [Decreto n.º 43894](https://diariodarepublica.pt/dr/detalhe/decreto/43894-1961-180993), os §§ 3.º e 4.º do seguinte teor:
 
 § 3.º No caso de os serviços de obras públicas e transportes reconhecerem a necessidade de prévia elaboração de plantas de divisão em talhões ou esboços para demarcação referidos no n.º 2.º, serão esses elementos preparados por aqueles serviços com base nas plantas ou esboços topográficos a fornecer pelos serviços geográficos e cadastrais.
 
 § 4.º Os elementos para demarcação referidos no parágrafo anterior são exigíveis sempre que as povoações sejam pelo menos sedes de administração de circunscrição ou concelho ou outras que, não o sendo, apresentem iniciativas ou ocupação merecedoras de atenção especial em matéria urbanística.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

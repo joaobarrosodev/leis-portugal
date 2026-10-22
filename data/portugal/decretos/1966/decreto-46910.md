@@ -50,40 +50,81 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a4ae97da43bccb959e9fc335dff02ff353ad636c99b0e73156628266bfd5702a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 62ab16f1d3a2265cf02d43070df222cc5f66f9e083631b587c17dd385aa9055a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Ajudas de Custo
+- Comissão Consultiva de Política Económica
+- Comissão Interministerial de Planeamento e Integração Económica
+- Concurso
+- Contrato de Prestação de Serviços
+- Despesas de Deslocação
+- Diretor Geral
+- Gratificação
+- Integração de Trabalhadores
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Recrutamento de Pessoal
+- Remuneração
+- Secretariado Técnico da Presidência do Conselho
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:234972:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234972:por
+  label: Suprimido o lugar de director no mapa anexo ao presente diploma pelo DEC LEI.48301.1968.03.30.PC DG.IS [77]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48301-1968-234972
+  date: '1968-03-30'
+- type: cites
+  target: pt:dre:440476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486774:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:551428:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682375:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:10Z'
   warnings: []
   errors: []
 ---
@@ -94,29 +135,29 @@ Em execução do disposto no artigo 30.º do [Decreto-Lei n.º 46909](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Secretariado Técnico da Presidência do Conselho disporá do pessoal dirigente, técnico, administrativo, auxiliar e menor constante do mapa anexo ao presente decreto.
+Artigo 1.º O Secretariado Técnico da Presidência do Conselho disporá do pessoal dirigente, técnico, administrativo, auxiliar e menor constante do mapa anexo ao presente decreto.
 
 § 1.º O pessoal administrativo e menor continua integrado no quadro único a que se referem os artigos 14.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, e 16.º do [Decreto-Lei n.º 39889](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39889-1954-682375), de 5 de Novembro de 1954.
 
 § 2.º O director-geral determinará, por despacho, a orgânica interna dos serviços e a distribuição do pessoal.
 
-###### Art. 2.º Os lugares de director-geral, director do gabinete de estudos, directores de serviços e chefe de serviços administrativos são providos por nomeação, mediante livre escolha do Presidente do Conselho, em indivíduos de reconhecida competência, diplomados com um curso superior.
+Art. 2.º Os lugares de director-geral, director do gabinete de estudos, directores de serviços e chefe de serviços administrativos são providos por nomeação, mediante livre escolha do Presidente do Conselho, em indivíduos de reconhecida competência, diplomados com um curso superior.
 
-###### Art. 3.º Os lugares de chefes de divisão, especialistas e técnicos de 1.ª e 2.ª classes são providos pelo Presidente de Conselho, sobre proposta fundamentada do director-geral, entre diplomados com um curso superior adequado ao exercício das respectivas funções.
+Art. 3.º Os lugares de chefes de divisão, especialistas e técnicos de 1.ª e 2.ª classes são providos pelo Presidente de Conselho, sobre proposta fundamentada do director-geral, entre diplomados com um curso superior adequado ao exercício das respectivas funções.
 
-###### Art. 4.º O lugar de chefe de secção é provido pelo Presidente do Conselho, sobre proposta do director-geral, entre os primeiros-oficiais do quadro a que se refere o § 1.º do artigo 1.º e que reúnam as condições necessárias ao bom desempenho do cargo, ou, no caso de não existir nenhum nas condições requeridas, entre diplomados com curso superior adequado.
+Art. 4.º O lugar de chefe de secção é provido pelo Presidente do Conselho, sobre proposta do director-geral, entre os primeiros-oficiais do quadro a que se refere o § 1.º do artigo 1.º e que reúnam as condições necessárias ao bom desempenho do cargo, ou, no caso de não existir nenhum nas condições requeridas, entre diplomados com curso superior adequado.
 
-###### Art. 5.º As nomeações para os cargos a que se referem os artigos 2.º a 4.º do presente diploma são feitas provisòriamente ou em comissão de serviço, pelo prazo de três anos, prorrogável, podendo o funcionário ser provado definitivamente no fim daquele prazo, ou de qualquer das suas prorrogações, se tiver bom e efectivo serviço.
+Art. 5.º As nomeações para os cargos a que se referem os artigos 2.º a 4.º do presente diploma são feitas provisòriamente ou em comissão de serviço, pelo prazo de três anos, prorrogável, podendo o funcionário ser provado definitivamente no fim daquele prazo, ou de qualquer das suas prorrogações, se tiver bom e efectivo serviço.
 
 § único. No caso de o provimento recair em indivíduos já funcionários públicos, os respectivos lugares podem ser interinamente preenchidos pelo tempo que durar a comissão.
 
-###### Art. 6.º O lugar de primeiro-calculador é provido, mediante concurso de prestação de provas, de entre os segundos-calculadores com um ano, pelo menos, de bom e efectivo serviço, ou, no caso de não existir nenhum nessas condições ou de o concurso ficar deserto, de entre indivíduos com o 2.º ciclo dos liceus ou habilitação equivalente. Os lugares de segundo-calculador são providos, mediante concurso de prestação de provas, de entre indivíduos com o 2.º ciclo liceal ou habilitação equivalente.
+Art. 6.º O lugar de primeiro-calculador é provido, mediante concurso de prestação de provas, de entre os segundos-calculadores com um ano, pelo menos, de bom e efectivo serviço, ou, no caso de não existir nenhum nessas condições ou de o concurso ficar deserto, de entre indivíduos com o 2.º ciclo dos liceus ou habilitação equivalente. Os lugares de segundo-calculador são providos, mediante concurso de prestação de provas, de entre indivíduos com o 2.º ciclo liceal ou habilitação equivalente.
 
 § 1.º As nomeações são feitas provisòriamente, pelo período de um ano, prorrogável, podendo converter-se em definitivas findo aquele período, ou qualquer das suas prorrogações, se o funcionário tiver bom e efectivo serviço. Exceptuam-se do disposto na primeira parte deste parágrafo as promoções de funcionários já providos definitivamente.
 
 § 2.º Os programas dos concursos serão fixados por despacho do Presidente do Conselho.
 
-###### Art. 7.º Para ocorrer a necessidades eventuais ou extraordinárias do serviço, poderá o director-geral propor superiormente, para além do pessoal técnico e administrativo a que se refere o artigo 1.º, a admissão do pessoal da mesma natureza requisitado aos Ministérios e organismos de coordenação, económica.
+Art. 7.º Para ocorrer a necessidades eventuais ou extraordinárias do serviço, poderá o director-geral propor superiormente, para além do pessoal técnico e administrativo a que se refere o artigo 1.º, a admissão do pessoal da mesma natureza requisitado aos Ministérios e organismos de coordenação, económica.
 
 § 1.º O número de requisitados não poderá ser superior a oito.
 
@@ -124,13 +165,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º Os requisitados perceberão mensalmente uma gratificação de montante, a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças; e paga de conta da verba por onde serão liquidados os seus vencimentos, na hipótese prevista no § 3.º do artigo 2.º do [Decreto-Lei n.º 39222](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39222-1953-643880), de 26 de Maio de 1953.
 
-###### Art. 8.º O director-geral poderá propor ao Presidente do Conselho o convite a entidades nacionais ou estrangeiras para realizarem, individualmente ou em comissões, estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Secretariado Técnico.
+Art. 8.º O director-geral poderá propor ao Presidente do Conselho o convite a entidades nacionais ou estrangeiras para realizarem, individualmente ou em comissões, estudos, inquéritos ou trabalhos de carácter eventual necessários ao bom desempenho das atribuições confiadas ao Secretariado Técnico.
 
 § 1.º A duração, termos e remuneração dos contratos de prestação de serviços, bem como as dos estudos, inquéritos e trabalhos de carácter eventual, previstos no corpo deste artigo, serão fixados por despacho do Presidente do Conselho.
 
 § 2.º As remunerações fixadas nos termos do parágrafo anterior serão pagas por força da verba global a inscrever para tal fim no orçamento do Secretariado Técnico.
 
-###### Art. 9.º O presidente da Comissão Interministerial de Planeamento e Integração Económica e os presidentes e secretários dos respectivos grupos e subgrupos de trabalho permanentes perceberão mensalmente uma gratificação a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
+Art. 9.º O presidente da Comissão Interministerial de Planeamento e Integração Económica e os presidentes e secretários dos respectivos grupos e subgrupos de trabalho permanentes perceberão mensalmente uma gratificação a fixar por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
 § 1.º Os vogais da Comissão Interministerial e respectivos suplentes, que não sejam membros dos grupos e subgrupos de trabalho, bem como os componentes destes órgãos de estudo não mencionados nos corpo do presente artigo, terão direito, por cada reunião a que assistirem, ao abono de uma senha de presença, de montante a fixar igualmente por despacho do Presidente do Conselho, ouvido o Ministro das Finanças.
 
@@ -142,15 +183,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 5.º As remunerações e abonos referidos no corpo do presente artigo e seus parágrafos serão pagos por força da dotação orçamental respectiva do Secretariado Técnico.
 
-###### Art. 10.º O secretariado e o expediente da Comissão Consultiva de Política Económica serão assegurados pelo Secretariado Técnico. Quando as sessões da Comissão Consultiva se realizarem numa província ultramarina, o Governo da província assegurará ao Secretariado Técnico o pessoal auxiliar e de secretaria considerado necessário.
+Art. 10.º O secretariado e o expediente da Comissão Consultiva de Política Económica serão assegurados pelo Secretariado Técnico. Quando as sessões da Comissão Consultiva se realizarem numa província ultramarina, o Governo da província assegurará ao Secretariado Técnico o pessoal auxiliar e de secretaria considerado necessário.
 
-###### Art. 11.º Os vogais da Comissão Consultiva de Política Económica, quando hajam de deslocar-se dos territórios onde residam a fim de participarem nas sessões da Comissão Consultiva serão abonados das despesas de transporte e ajudas de custo correspondentes à sua categoria.
+Art. 11.º Os vogais da Comissão Consultiva de Política Económica, quando hajam de deslocar-se dos territórios onde residam a fim de participarem nas sessões da Comissão Consultiva serão abonados das despesas de transporte e ajudas de custo correspondentes à sua categoria.
 
 § 1.º Aos vogais que não sejam funcionários públicos aplicar-se-á o disposto no § 3.º do artigo 9.º do presente diploma.
 
 § 2.º As despesas de transporte e ajudas de custo previstas neste artigo serão suportadas por dotação orçamental adequada do Secretariado Técnico.
 
-###### Art. 12.º Após a entrada em vigor do presente diploma, será aprovada pelo Presidente do Conselho e publicada no Diário do Governo a relação nominativa do pessoal dirigente, técnico, administrativo, auxiliar e menor do Secretariado Técnico, com indicação dos lugares e situações em que fica provido, dentro das categorias incluídas no mapa anexo a este decreto.
+Art. 12.º Após a entrada em vigor do presente diploma, será aprovada pelo Presidente do Conselho e publicada no Diário do Governo a relação nominativa do pessoal dirigente, técnico, administrativo, auxiliar e menor do Secretariado Técnico, com indicação dos lugares e situações em que fica provido, dentro das categorias incluídas no mapa anexo a este decreto.
 
 § 1.º Todos os funcionários do quadro transitarão para a nova lista de pessoal em categoria não inferior à que actualmente ocupam.
 
@@ -160,14 +201,14 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º O provimento do pessoal nos lugares do mapa anexo a este decreto efectuar-se-á sem dependência de outras formalidades além de anotação pelo Tribunal de Contas da relação dos funcionários que transitam para aqueles lugares e do averbamento da nova situação de cada um nos respectivos diplomas de funções públicas.
 
-###### Art. 13.º São revogados os Decretos n.os 44944 e 45209, respectivamente de 29 de Março e 23 de Agosto de 1963.
+Art. 13.º São revogados os Decretos n.os 44944 e 45209, respectivamente de 29 de Março e 23 de Agosto de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.
 
 Mapa anexo ao Decreto n.º 46910, de 19 de Março de 1966
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/06600/03880389.pdf))](https://files.diariodarepublica.pt/1s/1966/03/06600/03880389.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/06600/03880389.pdf)
 
 Presidência do Conselho, 19 de Março de 1966. - O Presidente do Conselho, António de Oliveira Salazar.

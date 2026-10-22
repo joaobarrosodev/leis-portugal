@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46601-1965-510867
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80a1634fcf4159a3c67d21f3993d53f7f35cf172613ee4e1b687257d51c082c4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1691ecf53437392015a8e0c675d0022ade0bac194654e7ba719d555a61a477c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:16Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizada a Santa Casa da Misericórdia de Lisboa a adquirir, em regime de importação, a Établissements Ryo-Catteau - Ateliers de Construction de Machines Textiles, um equipamento para as extracções, constituído por seis esferas e respectivos órgãos electromecânicos, cujo encargo, no valor de 947000$00, deverá ser satisfeito pelas seguintes verbas do orçamento da Lotaria Nacional:
+Artigo único. É autorizada a Santa Casa da Misericórdia de Lisboa a adquirir, em regime de importação, a Établissements Ryo-Catteau - Ateliers de Construction de Machines Textiles, um equipamento para as extracções, constituído por seis esferas e respectivos órgãos electromecânicos, cujo encargo, no valor de 947000$00, deverá ser satisfeito pelas seguintes verbas do orçamento da Lotaria Nacional:
 
 No ano económico de 1965 - verba de n.º 1), do artigo 3.º, classe II ... 473500$00
 
@@ -101,6 +101,6 @@ No ano económico de 1966 - verba a inscrever na referida rubrica ... 473500$00
 
 Total ... 947000$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Francisco Pereira Neto de Carvalho.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47858-1967-315078
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a70fc7d78563a61fb31683f4ce482ece61019cbb66608bb579a52dfcc3549ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a05361ec3499eb9604417e8c8cc9be61af3cfb9a2d8fc51656d0d0fec48fdb5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164395:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535269:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:00Z'
   warnings: []
   errors: []
 ---
@@ -106,17 +118,17 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aplicável às províncias da Guiné e de Moçambique o disposto no artigo 8.º e seu § único do Diploma Legislativo Ministerial n.º 45, publicado na província de Angola em 19 de Maio de 1961.
+Artigo 1.º É aplicável às províncias da Guiné e de Moçambique o disposto no artigo 8.º e seu § único do Diploma Legislativo Ministerial n.º 45, publicado na província de Angola em 19 de Maio de 1961.
 
 § único. O desconto para a compensação de aposentação referido no artigo 437.º do Estatuto do Funcionalismo Ultramarino não incide sobre o subsídio especial de emergência de que trata o corpo do artigo.
 
-###### Art. 2.º A todos os funcionários e agentes a quem seja reconhecido o direito ao subsídio especial de emergência será, durante o período em que o perceberem, ou tenham percebido, aumentado em 100 por cento o tempo de serviço para efeitos de aposentação, sem que por tal aumento haja lugar ao pagamento de quotas.
+Art. 2.º A todos os funcionários e agentes a quem seja reconhecido o direito ao subsídio especial de emergência será, durante o período em que o perceberem, ou tenham percebido, aumentado em 100 por cento o tempo de serviço para efeitos de aposentação, sem que por tal aumento haja lugar ao pagamento de quotas.
 
 § 1.º Aos funcionários e agentes que até à data deste diploma estiverem colocados e em efectivo serviço em regiões das províncias da Guiné e Moçambique cujas condições se considerarem idênticas àquelas em que nos termos ora estabelecidos for reconhecido o direito ao subsídio especial de emergência, ser-lhes-á contado o mesmo aumento referido no corpo do artigo pelo tempo em que na referida situação se mantiveram.
 
 § 2.º À percentagem prevista no corpo do artigo aplica-se o disposto no § único do artigo 435.º do Estatuto do Funcionalismo Ultramarino. Não é, porém, acumulável com percentagem já porventura percebida em virtude de situação idêntica à que implica o direito.
 
-###### Art. 3.º Aos funcionários e agentes a quem seja reconhecido o direito ao subsídio especial de emergência e que se distingam na luta contra a subversão será também concedida, como prémio, uma licença graciosa especial.
+Art. 3.º Aos funcionários e agentes a quem seja reconhecido o direito ao subsídio especial de emergência e que se distingam na luta contra a subversão será também concedida, como prémio, uma licença graciosa especial.
 
 § 1.º A concessão da licença graciosa especial subordinar-se-á às seguintes regras, sendo-lhe aplicáveis, no que não for incompatível, as disposições relativas à licença graciosa:
 
@@ -132,29 +144,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 2.º A licença graciosa especial não interrompe a efectividade de serviço, quer para a obtenção do direito à licença graciosa ordinária, quer para outros fins.
 
-###### Art. 4.º Quando os motivos que determinarem a concessão da licença graciosa especial referida no artigo anterior constituam também, nos termos da lei, fundamento para a concessão da medalha de serviços distintos ou relevantes, o governador da respectiva província, de sua iniciativa, remeterá ao Ministério os elementos necessários para apreciação e consequente decisão.
+Art. 4.º Quando os motivos que determinarem a concessão da licença graciosa especial referida no artigo anterior constituam também, nos termos da lei, fundamento para a concessão da medalha de serviços distintos ou relevantes, o governador da respectiva província, de sua iniciativa, remeterá ao Ministério os elementos necessários para apreciação e consequente decisão.
 
-###### Art. 5.º Procedimento igual ao mencionado no artigo anterior deverá ser tomado pelo governador de qualquer província ultramarina relativamente aos funcionários e agentes que, por outros motivos, satisfaçam as exigências legais para a concessão da medalha de serviços distintos ou relevantes.
+Art. 5.º Procedimento igual ao mencionado no artigo anterior deverá ser tomado pelo governador de qualquer província ultramarina relativamente aos funcionários e agentes que, por outros motivos, satisfaçam as exigências legais para a concessão da medalha de serviços distintos ou relevantes.
 
-###### Art. 6.º O tempo de serviço efectivo prestado pelos funcionários e agentes de qualquer ramo de serviço em zonas infestadas de glossinas será contado em dobro para efeitos de aposentação.
+Art. 6.º O tempo de serviço efectivo prestado pelos funcionários e agentes de qualquer ramo de serviço em zonas infestadas de glossinas será contado em dobro para efeitos de aposentação.
 
 § 1.º Os governos das províncias ultramarinas onde se verifiquem as condições referidas no corpo do artigo definirão em portaria as zonas como tais consideradas.
 
 § 2.º À percentagem do aumento de tempo para efeitos de aposentação aplica-se o disposto no § 2.º do artigo 2.º deste diploma.
 
-###### Art. 7.º Será aumentado em 50 por cento o tempo de serviço para efeitos de aposentação aos funcionários e agentes da província de Timor.
+Art. 7.º Será aumentado em 50 por cento o tempo de serviço para efeitos de aposentação aos funcionários e agentes da província de Timor.
 
 § 1.º O aumento a que se refere o corpo do artigo só se aplica aos funcionários e agentes de categoria igual ou superior a segundo-oficial ou equivalente.
 
 § 2.º A percentagem constante do corpo do artigo rege-se, na parte aplicável, pelo disposto no 2.º do artigo 2.º deste diploma.
 
-###### Art. 8.º Aos funcionários de nomeação definitiva, provisória ou em comissão ordinária e contratados de todas as províncias ultramarinas que se distinguirem excepcionalmente pelo zelo, probidade e competência demonstrados no exercício do seu cargo poderá ser concedida licença graciosa especial, restrita anualmente a dez funcionários nas províncias de governo-geral e a três nas restantes.
+Art. 8.º Aos funcionários de nomeação definitiva, provisória ou em comissão ordinária e contratados de todas as províncias ultramarinas que se distinguirem excepcionalmente pelo zelo, probidade e competência demonstrados no exercício do seu cargo poderá ser concedida licença graciosa especial, restrita anualmente a dez funcionários nas províncias de governo-geral e a três nas restantes.
 
 § único. A licença referida no corpo do artigo rege-se, na parte aplicável, pelo disposto no artigo 3.º deste diploma.
 
-###### Art. 9.º O artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, na redacção dada pelo artigo único do [Decreto n.º 46039](https://diariodarepublica.pt/dr/detalhe/decreto/46039-1964-535269), de 18 de Novembro de 1964, passa a ter a redacção seguinte:
+Art. 9.º O artigo 14.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, na redacção dada pelo artigo único do [Decreto n.º 46039](https://diariodarepublica.pt/dr/detalhe/decreto/46039-1964-535269), de 18 de Novembro de 1964, passa a ter a redacção seguinte:
 
-###### Art. 14.º As vagas de administrador de circunscrição serão preenchidas pelos governadores, alternadamente:
+Art. 14.º As vagas de administrador de circunscrição serão preenchidas pelos governadores, alternadamente:
 
 a) Por promoção dos adjuntos de administrador de circunscrição com o curso de Administração Ultramarina, com três anos de serviço na categoria e boas informações, pela ordem da sua entrada para o quadro nesta categoria;
 
@@ -168,9 +180,9 @@ b) Por promoção dos adjuntos de administrador de circunscrição oriundos da c
 
 § 4.º Sempre que, por falta de candidatos de um dos grupos a que se refere o corpo do artigo, o provimento não possa fazer-se alternadamente, as vagas existentes poderão ser preenchidas pelos funcionários do outro grupo.
 
-###### Art. 10.º O Diploma Legislativo Ministerial n.º 21, publicado em Angola em 8 de Maio de 1961, é tornado extensivo a todas as províncias ultramarinas onde ainda se não encontre em vigor.
+Art. 10.º O Diploma Legislativo Ministerial n.º 21, publicado em Angola em 8 de Maio de 1961, é tornado extensivo a todas as províncias ultramarinas onde ainda se não encontre em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

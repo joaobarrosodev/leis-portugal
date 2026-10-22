@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47213-1966-480167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 08d6dcf4a1969f096a6bc92e89729014a61e4b03101bac362f97bb4fe7ed2b0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 697ca206ae4a856ab17477bbba4a55e859b94e033982a658be9c15f261bf3d08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:27Z'
   warnings: []
   errors: []
 ---
@@ -168,15 +172,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seseguinte:
 
-###### Artigo 1.º Os termos da base XV da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, é criada a Corporação das Ciências, Letras e Artes, que constitui a organização integral das actividades culturais de natureza privada e tem por fim coordenar, representar e defender os seus interesses para a realização do bem comum.
+Artigo 1.º Os termos da base XV da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, é criada a Corporação das Ciências, Letras e Artes, que constitui a organização integral das actividades culturais de natureza privada e tem por fim coordenar, representar e defender os seus interesses para a realização do bem comum.
 
-###### Art. 2.º A Corporação das Ciências, Letras e Artes, adiante designada apenas por Corporação, é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
+Art. 2.º A Corporação das Ciências, Letras e Artes, adiante designada apenas por Corporação, é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
 
-###### Art. 3.º A Corporação é composta pelas academias, fundações ou associações de natureza privada e quaisquer outras instituições da mesma natureza e fins culturais nela integradas.
+Art. 3.º A Corporação é composta pelas academias, fundações ou associações de natureza privada e quaisquer outras instituições da mesma natureza e fins culturais nela integradas.
 
-###### Art. 4.º A Corporação exerce a sua actividade no plano nacional em colaboração com o Estado, através do Ministério da Educação Nacional, e com as demais corporações, no respeito absoluto pelos superiores interesses nacionais.
+Art. 4.º A Corporação exerce a sua actividade no plano nacional em colaboração com o Estado, através do Ministério da Educação Nacional, e com as demais corporações, no respeito absoluto pelos superiores interesses nacionais.
 
-###### Art. 5.º Na Corporação haverá as seguintes secções:
+Art. 5.º Na Corporação haverá as seguintes secções:
 
 Ciências;
 
@@ -188,7 +192,7 @@ Divulgação cultural.
 
 § único. Dentro de cada secção poderão ser criadas as subsecções que forem consideradas convenientes.
 
-###### Art. 6.º São atribuições da Corporação:
+Art. 6.º São atribuições da Corporação:
 
 a) Representar e defender, nomeadamente na Câmara Corporativa, na Junta Nacional da Educação e no Instituto de Alta Cultura, perante o Governo, os órgãos da Administração e as demais entidades públicas, corporativas ou privadas, os interesses das instituições incorporadas;
 
@@ -208,7 +212,7 @@ h) Colaborar com as entidades legalmente competentes na realização de congress
 
 i) Representar as actividades incorporadas em organizações, congressos ou reuniões internacionais, sempre que para tanto seja superiormente autorizada.
 
-###### Art. 7.º São órgãos da Corporação:
+Art. 7.º São órgãos da Corporação:
 
 O conselho da Corporação;
 
@@ -218,11 +222,11 @@ A direcção;
 
 A junta arbitral.
 
-###### Art. 8.º - 1. O conselho da Corporação é composto por cinco representantes de cada uma das secções da Corporação e tem como vice-presidentes os presidentes das secções.
+Art. 8.º - 1. O conselho da Corporação é composto por cinco representantes de cada uma das secções da Corporação e tem como vice-presidentes os presidentes das secções.
 
 2. Por cada representante efectivo serão designados dois substitutos, com indicação da ordem por que deve ter lugar a substituição.
 
-###### Art. 9.º Compete ao conselho:
+Art. 9.º Compete ao conselho:
 
 a) Eleger o presidente da Corporação e os vogais da junta arbitral;
 
@@ -252,15 +256,15 @@ n) Discutir e votar os orçamentos, relatórios e contas da gerência;
 
 o) Desempenhar as mais funções que pelo presente diploma ou pelo regimento da Corporação lhe sejam atribuídas.
 
-###### Art. 10.º - 1. O conselho reunirá ordinàriamente no primeiro e no último trimestre de cada ano para apreciar a actividade da Corporação e para discutir e votar, respectivamente, o relatório e contas da gerência do ano anterior e o orçamento do ano seguinte, e reunirá no fim de cada quadriénio para eleger os corpos directivos e designar os representantes à Câmara Corporativa para o quadriénio imediato, bem como, quando se tornar necessário, para designar os representantes à Junta Nacional da Educação e Instituto de Alta Cultura.
+Art. 10.º - 1. O conselho reunirá ordinàriamente no primeiro e no último trimestre de cada ano para apreciar a actividade da Corporação e para discutir e votar, respectivamente, o relatório e contas da gerência do ano anterior e o orçamento do ano seguinte, e reunirá no fim de cada quadriénio para eleger os corpos directivos e designar os representantes à Câmara Corporativa para o quadriénio imediato, bem como, quando se tornar necessário, para designar os representantes à Junta Nacional da Educação e Instituto de Alta Cultura.
 
 2. O conselho reunirá extraordinàriamente por convocação da direcção ou quando metade, pelo menos, dos seus membros o requeira.
 
-###### Art. 11.º Cada secção tem um conselho, do qual fazem parte representantes das instituições incorporadas, por elas designados nos termos a fixar pelo regimento da Corporação.
+Art. 11.º Cada secção tem um conselho, do qual fazem parte representantes das instituições incorporadas, por elas designados nos termos a fixar pelo regimento da Corporação.
 
-###### Art. 12.º Cada conselho de secção elegerá de entre os seus membros um presidente e dois vogais, que constituirão a mesa da secção, à qual compete assegurar o funcionamento da secção, nomeadamente quanto à preparação dos trabalhos do conselho.
+Art. 12.º Cada conselho de secção elegerá de entre os seus membros um presidente e dois vogais, que constituirão a mesa da secção, à qual compete assegurar o funcionamento da secção, nomeadamente quanto à preparação dos trabalhos do conselho.
 
-###### Art. 13.º Compete aos conselhos das secções, no âmbito das respectivas actividades:
+Art. 13.º Compete aos conselhos das secções, no âmbito das respectivas actividades:
 
 a) Realizar os estudos que lhe forem cometidos pelo conselho da Corporação;
 
@@ -270,9 +274,9 @@ c) Coadjuvar a direcção fornecendo-lhe os pareceres que esta solicitar;
 
 d) Pedir ao presidente da Corporação a convocação de reuniões conjuntas, a que se refere a base XII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956.
 
-###### Art. 14.º A direcção da Corporação é constituída pelo presidente, eleito pelo conselho de entre os seus membros, e pelos presidentes das mesas das secções, de entre os quais o presidente escolherá o vice-presidente da Corporação, que será também o seu substituto no conselho.
+Art. 14.º A direcção da Corporação é constituída pelo presidente, eleito pelo conselho de entre os seus membros, e pelos presidentes das mesas das secções, de entre os quais o presidente escolherá o vice-presidente da Corporação, que será também o seu substituto no conselho.
 
-###### Art. 15.º Compete ao presidente da Corporação:
+Art. 15.º Compete ao presidente da Corporação:
 
 a) Representar a Corporação perante os órgãos da administração pública, os tribunais e quaisquer outras entidades;
 
@@ -288,7 +292,7 @@ f) Zelar por que a Corporação exerça a função nacional que lhe compete;
 
 g) Providenciar por que a direcção desenvolva a actividade que pelo conselho lhe for definida.
 
-###### Art. 16.º Compete à direcção:
+Art. 16.º Compete à direcção:
 
 a) Dar execução às deliberações do conselho da Corporação;
 
@@ -304,22 +308,22 @@ f) Arrecadar as receitas da Corporação e satisfazer as respectivas despesas, n
 
 g) Submeter ao conselho os assuntos que, pela sua especial relevância, entenda deverem ser resolvidos por aquele órgão.
 
-###### Art. 17.º A junta arbitral é presidida por um juiz, que presidirá, designado pelo Conselho Corporativo e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes de instituições incorporadas.
+Art. 17.º A junta arbitral é presidida por um juiz, que presidirá, designado pelo Conselho Corporativo e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes de instituições incorporadas.
 
-###### Art. 18.º Compete à junta arbitral conhecer, quando solicitada, dos diferendos que surjam entre instituições incorporadas ou entre estas e a Corporação, bem como dos demais casos que lhe sejam submetidos, designadamente a resolução das dúvidas relativas à inscrição das instituições nas diversas secções.
+Art. 18.º Compete à junta arbitral conhecer, quando solicitada, dos diferendos que surjam entre instituições incorporadas ou entre estas e a Corporação, bem como dos demais casos que lhe sejam submetidos, designadamente a resolução das dúvidas relativas à inscrição das instituições nas diversas secções.
 
-###### Art. 19.º Para todos os cargos das secções e da junta arbitral preceder-se-á à eleição de um titular efectivo e dois substitutos, devendo estes entrar em funções na simples ausência do titular do cargo e pela ordem por que tenham sido eleitos.
+Art. 19.º Para todos os cargos das secções e da junta arbitral preceder-se-á à eleição de um titular efectivo e dois substitutos, devendo estes entrar em funções na simples ausência do titular do cargo e pela ordem por que tenham sido eleitos.
 
-###### Art. 20.º - 1. O mandato dos corpos directivos da Corporação tem a mesma duração e deve coincidir com o dos Procuradores à Câmara Corporativa.
+Art. 20.º - 1. O mandato dos corpos directivos da Corporação tem a mesma duração e deve coincidir com o dos Procuradores à Câmara Corporativa.
 
 2. O presidente da Corporação e os presidentes das secções não podem ser eleitos para mais de dois mandatos consecutivos.
 
-###### Art. 21.º Constituem receitas da Corporação as contribuições das organizações incorporadas, bem como quaisquer outras que sejam previstas no seu regimento.
+Art. 21.º Constituem receitas da Corporação as contribuições das organizações incorporadas, bem como quaisquer outras que sejam previstas no seu regimento.
 
-###### Art. 22.º As instituições a integrar na Corporação, enquanto esta não entrar em funcionamento, apresentarão, dentro de seis meses, o seu pedido de inscrição ao Ministro da Educação Nacional, que, de entre elas, nomeará, nos 30 dias seguintes, uma comissão para promover as diligências necessárias à constituição do conselho da Corporação. Do pedido de inscrição constarão o nome dos representantes que a organização se propõe enviar à Corporação, bem como o dos seus substitutos.
+Art. 22.º As instituições a integrar na Corporação, enquanto esta não entrar em funcionamento, apresentarão, dentro de seis meses, o seu pedido de inscrição ao Ministro da Educação Nacional, que, de entre elas, nomeará, nos 30 dias seguintes, uma comissão para promover as diligências necessárias à constituição do conselho da Corporação. Do pedido de inscrição constarão o nome dos representantes que a organização se propõe enviar à Corporação, bem como o dos seus substitutos.
 
-###### Art. 23.º O regimento da Corporação será elaborado, por forma a poder ser aprovado, dentro de seis meses, a partir da constituição da comissão referida no artigo anterior, pelo Ministro das Corporações e Previdência Social com o parecer favorável do Ministro da Educação Nacional e resolução do Conselho Corporativo, nos termos da base XIII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331).
+Art. 23.º O regimento da Corporação será elaborado, por forma a poder ser aprovado, dentro de seis meses, a partir da constituição da comissão referida no artigo anterior, pelo Ministro das Corporações e Previdência Social com o parecer favorável do Ministro da Educação Nacional e resolução do Conselho Corporativo, nos termos da base XIII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

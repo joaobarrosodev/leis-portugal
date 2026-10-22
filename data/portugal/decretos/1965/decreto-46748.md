@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46748-1965-508021
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1988-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:48:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46e7cf03c35711b25979b2f3e2e9536002aee791d27359a6ace0bfd1593c0644
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0f13bfdacf387d44329bfdd49339be684ec2c242b74e5c120212630dc28b6ad5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:48:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cidadão Estrangeiro
+- Passaporte
+- TAXA de Prestação de Serviços
 relationships:
 - type: amended_by
   target: pt:dre:357279:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477844:por
+  label: "Dada nova redacção ao § único do art. 8º, ao § 4º do art. 10º, aos §§ 1º e 2º do art. 12º, aos arts. 23º e 27º e\
+    \ ao corpo do art. 28º pelo DEC.47411.23.12.1966.MI, DG.IS [296] de 23.12.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47411-1966-477844
+  date: '1966-12-23'
+- type: amended_by
+  target: pt:dre:215540:por
+  label: "Dada nova redacção ao art. 12º (com a redacção constante do Dec 47411 de 23-Dez de 1966) pelo DEC.49317.25.10.1969.MI,\
+    \ DG.IS [251] de 25.10.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/49317-1969-215540
+  date: '1969-10-25'
+- type: amended_by
+  target: pt:dre:141616:por
+  label: "Dada nova redacção ao § 4º do art. 13º e ao art. 30º, e revogado o § 3º do art. 15º, o art. 27º e o art. 28º e seu\
+    \ § único (os dois últimos com a redacção constante do Dec 47411 de 23-Dez de 1966) todos do presente diploma pelo DEC\
+    \ LEI.347/70.25.07.1970.PC, DG.IS [172] de 25.07.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/347-1970-141616
+  date: '1970-07-25'
+- type: amended_by
+  target: pt:dre:311642:por
+  label: "Alterada a tabela de taxas a que se refere o artigo 54.º, pelo DEC LEI.577/75.08.10.1975.MAI, DG.IS [233] de 08.10.1975\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/577-1975-311642
+  date: '1975-10-08'
+- type: amended_by
+  target: pt:dre:446919:por
+  label: Substituído o impresso do passaporte especial constante do modelo III anexo pelo(a) Decreto n.º 35/78 - Diário da
+    República n.º 82/1978, Série I de 1978-04-08
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/35-1978-446919
+  date: '1978-04-08'
+- type: amended_by
+  target: pt:dre:406122:por
+  label: "Actualizada a tabela de taxas a que se refere o artigo 54.º, pelo DEC LEI.398/87.31.12.1987.MAI, DR.IS [300]2ºSupl\
+    \ de 31.12.1987\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/398-1987-406122
+  date: '1987-12-31'
+- type: cites
+  target: pt:dre:508020:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:353735:por
+  label: "Revogados os artigos 4.º a 7.º pelo DEC LEI.523/79.31.12.1979.MAI, DR.IS [300] de 31.12.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/523-1979-353735
+  date: '1979-12-31'
+- type: repealed_by
+  target: pt:dre:517227:por
+  label: "Revogados os arts. 32.º, 33.º, 34.º, 35.º e 36.º, pelo DEC LEI.264-B/81.1981.09.03.MAI DR.IS [202]Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/264-b-1981-517227
+  date: '1981-09-03'
+- type: repealed_by
+  target: pt:dre:357279:por
+  label: "Revogado (e suas alterações) pelo DEC LEI.438/88.29.11.1988.MAI, DR.IS [276] de 29.11.1988\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/438-1988-357279
+  date: '1988-11-29'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:48:49Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +149,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Disposições gerais
 
-###### Artigo 1.º Os portugueses ou estrangeiros que pretenderem entrar no território português ou dele sair só poderão fazê-lo pelos postos de fronteira, oficialmente estabelecidos e depois de cumpridas as formalidades exigidas por lei, designadamente a apresentação de passaportes sempre que, nos termos do artigo 1.º do [Decreto-Lei n.º 46747](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46747-1965-508020), não for dispensada.
+Artigo 1.º Os portugueses ou estrangeiros que pretenderem entrar no território português ou dele sair só poderão fazê-lo pelos postos de fronteira, oficialmente estabelecidos e depois de cumpridas as formalidades exigidas por lei, designadamente a apresentação de passaportes sempre que, nos termos do artigo 1.º do [Decreto-Lei n.º 46747](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46747-1965-508020), não for dispensada.
 
-###### Art. 2.º Considera-se passaporte o documento pelo qual a autoridade competente identifica o respectivo titular e o autoriza a deslocar-se de um para outro ou outros países.
+Art. 2.º Considera-se passaporte o documento pelo qual a autoridade competente identifica o respectivo titular e o autoriza a deslocar-se de um para outro ou outros países.
 
-###### Art. 3.º Os passaportes portugueses são dos seguintes tipos:
+Art. 3.º Os passaportes portugueses são dos seguintes tipos:
 
 a) Diplomático;
 
@@ -112,7 +171,7 @@ f) Certificado colectivo de identidade e viagem.
 
 Do passaporte especial
 
-###### Art. 4.º O passaporte especial destina-se exclusivamente:
+Art. 4.º O passaporte especial destina-se exclusivamente:
 
 a) Aos membros do Conselho de Estado;
 
@@ -124,15 +183,15 @@ d) Às pessoas incumbidas pelo Governo de missão extraordinária, de serviço p
 
 § único. O passaporte especial pode ser extensivo à mulher e aos filhos legítimos menores, quando viajem na companhia do seu titular.
 
-###### Art. 5.º A concessão de passaporte especial é da competência do Ministro do Interior, que o fará emitir através da Polícia Internacional e de Defesa do Estado.
+Art. 5.º A concessão de passaporte especial é da competência do Ministro do Interior, que o fará emitir através da Polícia Internacional e de Defesa do Estado.
 
 § único. O passaporte especial será assinado pelo Ministro do Interior ou, por sua delegação, pelo secretário-geral do Mistério ou pelo director da Polícia Internacional e de Defesa do Estado.
 
-###### Art. 6.º As requisições de passaportes especiais serão dirigidas ao Ministro do Interior e só podem ser formuladas pelos Presidentes do Conselho, da Assembleia Nacional e da Câmara Corporativa, e pelo Ministro, Secretário ou Subsecretário de Estado que tiver ordenado a missão ou em cuja dependência se encontrem as entidades referidas na alínea c) do artigo 4.º
+Art. 6.º As requisições de passaportes especiais serão dirigidas ao Ministro do Interior e só podem ser formuladas pelos Presidentes do Conselho, da Assembleia Nacional e da Câmara Corporativa, e pelo Ministro, Secretário ou Subsecretário de Estado que tiver ordenado a missão ou em cuja dependência se encontrem as entidades referidas na alínea c) do artigo 4.º
 
 § único. Nas requisições, além da indicação dos países que devem ser abrangidos, far-se-á referência à categoria da entidade a quem se destina o passaporte e, sendo caso disso, à natureza da missão e ao despacho ou portaria que a ordenou.
 
-###### Art. 7.º O passaporte especial é válido:
+Art. 7.º O passaporte especial é válido:
 
 a) Por dois anos e para número ilimitado de viagens, quando concedido às entidades referidas nas alíneas a) a c) do artigo 4.º;
 
@@ -142,11 +201,11 @@ b) Para uma única viagem de ida e regresso, nos restantes casos, cessando tamb�
 
 Do passaporte ordinário
 
-###### Art. 8.º O passaporte ordinário destina-se aos indivíduos de nacionalidade portuguesa, originária ou adquirida, residentes ou não em território nacional, que pretendam deslocar-se a outro ou outros países.
+Art. 8.º O passaporte ordinário destina-se aos indivíduos de nacionalidade portuguesa, originária ou adquirida, residentes ou não em território nacional, que pretendam deslocar-se a outro ou outros países.
 
 § único. O passaporte ordinário destina-se ainda aos nacionais que pretendam deslocar-se da metrópole para as províncias ultramarinas ou vice-versa, nos casos em que a deslocação se faça através de território estrangeiro ou com escala em território estrangeiro.
 
-###### Art. 9.º São competentes para a concessão de passaporte ordinário:
+Art. 9.º São competentes para a concessão de passaporte ordinário:
 
 1.º No continente e nas ilhas adjacentes, os governadores civis dos distritos da residência habitual dos interessados, ou da residência acidental quando aquela se situe nas províncias ultramarinas ou no estrangeiro, e ainda quando os interessados se encontrem no continente e sejam residentes nas ilhas adjacentes, ou vice-versa;
 
@@ -156,7 +215,7 @@ Do passaporte ordinário
 
 § único. Os governadores das províncias ultramarinas podem delegar a sua competência no secretário-geral, nos governadores de distrito ou no chefe de serviços de administração civil, conforme os casos; os governadores civis podem delegá-la no secretário do governo civil.
 
-###### Art. 10.º O passaporte ordinário pode ser individual ou familiar.
+Art. 10.º O passaporte ordinário pode ser individual ou familiar.
 
 § 1.º O passaporte individual respeita apenas a uma pessoa e é exigível a partir dos 16 anos de idade, se os menores não viajarem em companhia de seu pai ou mãe.
 
@@ -166,7 +225,7 @@ Do passaporte ordinário
 
 § 4.º Se o portador do passaporte ordinário não estiver na circunscrição da autoridade que o emitiu, pode a autoridade da circunscrição onde se encontre usar da faculdade a que se refere o parágrafo anterior, devendo, porém, comunicar imediatamente tal facto à primeira, para que fique a constar do respectivo processo.
 
-###### Art. 11.º A concessão de passaporte ordinário obtém-se por via de requerimento.
+Art. 11.º A concessão de passaporte ordinário obtém-se por via de requerimento.
 
 § 1.º Do requerimento deverão constar todos os elementos de identificação que hão-de figurar no passaporte, as referências do bilhete de identidade, ou do documento que o substitua, nos termos do artigo seguinte, bem como os países que o passaporte deve abranger.
 
@@ -174,7 +233,7 @@ Do passaporte ordinário
 
 § 3.º O despacho que recusar a concessão de passaporte será fundamentado e, quando proferido pelas entidades a que alude o n.º 1.º do artigo 9.º, dele será dado conhecimento imediato à Junta da Emigração.
 
-###### Art. 12.º A concessão de passaportes ordinários depende da prova da identidade mediante apresentação do respectivo bilhete, passado pelo Arquivo de Identificação, ou do bilhete de identidade militar que legalmente o substitua. Quanto aos menores de 10 anos, o bilhete de identidade poderá ser substituído pela cédula pessoal ou por certidão do registo de nascimento.
+Art. 12.º A concessão de passaportes ordinários depende da prova da identidade mediante apresentação do respectivo bilhete, passado pelo Arquivo de Identificação, ou do bilhete de identidade militar que legalmente o substitua. Quanto aos menores de 10 anos, o bilhete de identidade poderá ser substituído pela cédula pessoal ou por certidão do registo de nascimento.
 
 § 1.º Tratando-se de mulher casada ou de menor de 21 anos, não emancipado, o pedido de concessão de passaporte poderá ser feito, respectivamente, pelo marido ou por quem exerça o pátrio poder, mas se o impetrante for o próprio interessado, ou, ainda, na segunda hipótese, se se pretender que ele seja incluído em passaporte de pessoa que não detenha aquele poder, deverá provar-se documentalmente que está autorizado por quem de direito. A assinatura da autorização será reconhecida por notário, e sê-lo-á também no primeiro caso desde que o requerente não exiba o seu bilhete de identidade e dele não faça expressa menção.
 
@@ -196,7 +255,7 @@ Do passaporte ordinário
 
 § 10.º Em casos devidamente justificados, poderá o Ministro do Interior permitir a concessão de passaporte ou o averbamento com dispensa das autorizações a que se referem os §§ 1.º e 8.º deste artigo.
 
-###### Art. 13.º O passaporte ordinário é válido pelo período de cinco anos, e pode ser utilizado em número ilimitado de viagens.
+Art. 13.º O passaporte ordinário é válido pelo período de cinco anos, e pode ser utilizado em número ilimitado de viagens.
 
 § 1.º A entidade que emitir o passaporte ordinário pode, em casos justificados, reduzir o prazo de validade a que se refere o corpo deste artigo.
 
@@ -206,9 +265,9 @@ Do passaporte ordinário
 
 § 4.º Em circunstâncias especiais, que ao Ministro do Interior cumpre apreciar, as autoridades consulares portuguesas poderão, mediante autorização daquele, prorrogar o período de validade a que alude o corpo deste artigo, pelo tempo que em cada caso for fixado.
 
-###### Art. 14.º A todo o tempo poderá a entidade que emitiu o passaporte, a requerimento do interessado ou das pessoas a que se refere o § 1.º do artigo 12.º, e mediante a prova respectiva, sempre que for caso disso, alterar, por averbamento, os elementos de identificação que tiverem sofrido modificação.
+Art. 14.º A todo o tempo poderá a entidade que emitiu o passaporte, a requerimento do interessado ou das pessoas a que se refere o § 1.º do artigo 12.º, e mediante a prova respectiva, sempre que for caso disso, alterar, por averbamento, os elementos de identificação que tiverem sofrido modificação.
 
-###### Art. 15.º A autoridade que conceder o passaporte pode, a requerimento do seu titular, ampliar a respectiva validade para novos países.
+Art. 15.º A autoridade que conceder o passaporte pode, a requerimento do seu titular, ampliar a respectiva validade para novos países.
 
 § 1.º Quando se trate de passaportes concedidos exclusivamente para Espanha, haverá lugar ao pagamento da diferença da respectiva taxa.
 
@@ -216,41 +275,41 @@ Do passaporte ordinário
 
 § 3.º Os aditamentos em passaportes concedidos por autoridades consulares portuguesas, quando os seus titulares se encontrem no País, só podem efectuar-se depois de ouvida a Junta da Emigração.
 
-###### Art. 16.º Não será concedido passaporte ordinário a qualquer pessoa que se julgue ter o propósito de emigrar.
+Art. 16.º Não será concedido passaporte ordinário a qualquer pessoa que se julgue ter o propósito de emigrar.
 
-###### Art. 17.º O titular de passaporte ordinário que o utilize para emigrar fica sujeito às penas cominadas na lei para a emigração clandestina.
+Art. 17.º O titular de passaporte ordinário que o utilize para emigrar fica sujeito às penas cominadas na lei para a emigração clandestina.
 
 § único. Quando se verificar a hipótese prevista no corpo do artigo e o passaporte tiver sido emitido com base em declarações feitas por particulares, estes incorrerão na respectiva responsabilidade penal.
 
-###### Art. 18.º Não será permitida a saída de portadores de passaportes ordinários, com visto de «permanente» ou «residente» da autoridade consular de qualquer país estrangeiro, salvo se do passaporte constar que os seus titulares estão para isso devidamente autorizados pelo Ministro do Interior ou pela Junta da Emigração.
+Art. 18.º Não será permitida a saída de portadores de passaportes ordinários, com visto de «permanente» ou «residente» da autoridade consular de qualquer país estrangeiro, salvo se do passaporte constar que os seus titulares estão para isso devidamente autorizados pelo Ministro do Interior ou pela Junta da Emigração.
 
-###### Art. 19.º A Polícia Internacional e de Defesa do Estado pode conceder passaportes ordinários, válidos pelo período máximo de um ano, a indivíduos impossibilitados de cumprir as formalidades exigidas por lei para a sua emissão, aos que beneficiem de bolsas de estudo no estrangeiro e ainda aos que, necessitando deslocar-se a país estrangeiro ou nele transitar, em serviço oficial, não tenham direito a passaporte diplomático ou especial.
+Art. 19.º A Polícia Internacional e de Defesa do Estado pode conceder passaportes ordinários, válidos pelo período máximo de um ano, a indivíduos impossibilitados de cumprir as formalidades exigidas por lei para a sua emissão, aos que beneficiem de bolsas de estudo no estrangeiro e ainda aos que, necessitando deslocar-se a país estrangeiro ou nele transitar, em serviço oficial, não tenham direito a passaporte diplomático ou especial.
 
-###### Art. 20.º Os passaportes emitidos pela Polícia Internacional e de Defesa do Estado, com dispensa das formalidades exigidas por lei, serão requisitados pela autoridade que tiver concedido ou proposto a bolsa de estudo ou pelo dirigente do serviço através do qual houver sido ordenada ou consentida a deslocação ao estrangeiro, ou requeridos pelos próprios interessados, dependendo, em qualquer dos casos, a sua passagem de autorização do Ministro do Interior.
+Art. 20.º Os passaportes emitidos pela Polícia Internacional e de Defesa do Estado, com dispensa das formalidades exigidas por lei, serão requisitados pela autoridade que tiver concedido ou proposto a bolsa de estudo ou pelo dirigente do serviço através do qual houver sido ordenada ou consentida a deslocação ao estrangeiro, ou requeridos pelos próprios interessados, dependendo, em qualquer dos casos, a sua passagem de autorização do Ministro do Interior.
 
 § único. Nas requisições far-se-á referência à categoria do indivíduo a quem se destina o passaporte, à natureza do serviço que vai desempenhar e ao despacho ou portaria que determina a viagem, quando os houver.
 
-###### Art. 21.º Para os passaportes emitidos pela Polícia Internacional e de Defesa do Estado será utilizado o impresso de passaporte ordinário e, em tudo que não se encontrar especialmente regulado, aplicar-se-ão as disposições respeitantes a passaportes especiais.
+Art. 21.º Para os passaportes emitidos pela Polícia Internacional e de Defesa do Estado será utilizado o impresso de passaporte ordinário e, em tudo que não se encontrar especialmente regulado, aplicar-se-ão as disposições respeitantes a passaportes especiais.
 
 Disposições especiais sobre passaportes concedidos pelas autoridades das províncias ultramarinas e autoridades consulares
 
-###### Art. 22.º A competência atribuída ao Ministro do Interior nos artigos 5.º e 20.º deste diploma pertence ao Ministro do Ultramar ou ao governador da respectiva província ultramarina, quando os passaportes se destinem a entidades com residência no ultramar ou se trate de missões extraordinárias por ele determinadas, podendo, por sua delegação, os passaportes ser assinados pelo secretário-geral do Ministério, pelo secretário-geral da província ou pelo chefe dos serviços de administração civil, conforme os casos.
+Art. 22.º A competência atribuída ao Ministro do Interior nos artigos 5.º e 20.º deste diploma pertence ao Ministro do Ultramar ou ao governador da respectiva província ultramarina, quando os passaportes se destinem a entidades com residência no ultramar ou se trate de missões extraordinárias por ele determinadas, podendo, por sua delegação, os passaportes ser assinados pelo secretário-geral do Ministério, pelo secretário-geral da província ou pelo chefe dos serviços de administração civil, conforme os casos.
 
-###### Art. 23.º É da competência do respectivo governador de província o uso, no que respeita aos passaportes emitidos na mesma, da faculdade consignada no § 10.º do artigo 12.º
+Art. 23.º É da competência do respectivo governador de província o uso, no que respeita aos passaportes emitidos na mesma, da faculdade consignada no § 10.º do artigo 12.º
 
-###### Art. 24.º No que respeita à emissão de passaportes pelas autoridades das províncias ultramarinas observar-se-á, em tudo o que não seja incompatível com o estabelecido na legislação que nelas vigore, o disposto neste diploma relativamente a passaportes ordinários.
+Art. 24.º No que respeita à emissão de passaportes pelas autoridades das províncias ultramarinas observar-se-á, em tudo o que não seja incompatível com o estabelecido na legislação que nelas vigore, o disposto neste diploma relativamente a passaportes ordinários.
 
-###### Art. 25.º Os passaportes concedidos pelas autoridades ultramarinas permitem a saída para o estrangeiro aos titulares que se encontrem na metrópole, sem prejuízo do disposto nos artigos 18.º e 43.º a 46.º
+Art. 25.º Os passaportes concedidos pelas autoridades ultramarinas permitem a saída para o estrangeiro aos titulares que se encontrem na metrópole, sem prejuízo do disposto nos artigos 18.º e 43.º a 46.º
 
-###### Art. 26.º A concessão de passaportes pelas autoridades consulares continua a fazer-se nos termos do Regulamento Consular e demais legislação especial, salvo o disposto nos artigos seguintes.
+Art. 26.º A concessão de passaportes pelas autoridades consulares continua a fazer-se nos termos do Regulamento Consular e demais legislação especial, salvo o disposto nos artigos seguintes.
 
-###### Art. 27.º Aos indivíduos que se apresentem munidos de passaporte ordinário ou indocumentados, as autoridades consulares apenas poderão conceder passaportes válidos pelo prazo máximo de noventa dias.
+Art. 27.º Aos indivíduos que se apresentem munidos de passaporte ordinário ou indocumentados, as autoridades consulares apenas poderão conceder passaportes válidos pelo prazo máximo de noventa dias.
 
-###### Art. 28.º Os passaportes concedidos pelas autoridades consulares permitem a entrada em Portugal e o regresso ao lugar de residência, sem prejuízo do disposto nos artigos 18.º e 44.º a 46.º
+Art. 28.º Os passaportes concedidos pelas autoridades consulares permitem a entrada em Portugal e o regresso ao lugar de residência, sem prejuízo do disposto nos artigos 18.º e 44.º a 46.º
 
 § único. Exceptuam-se os passaportes a que se refere o artigo anterior, com os quais não será permitida a saída de Portugal.
 
-###### Art. 29.º As autoridades consulares só com a autorização do Ministro dos Negócios Estrangeiros poderão conceder passaportes com validade para países diferentes daquele em que residem aos nacionais em qualquer das seguintes circunstâncias:
+Art. 29.º As autoridades consulares só com a autorização do Ministro dos Negócios Estrangeiros poderão conceder passaportes com validade para países diferentes daquele em que residem aos nacionais em qualquer das seguintes circunstâncias:
 
 a) Serem refugiados políticos;
 
@@ -260,45 +319,45 @@ b) Serem suspeitos de constituírem perigo para a ordem social estabelecida.
 
 § 2.º Se o interessado estiver nas condições da alínea b), o passaporte só poderá ser concedido para regresso ao País, do que se fará expressa menção.
 
-###### Art. 30.º As autoridades consulares que concederem passaportes em casos de expulsão e repatriação, ou nos casos mencionados no artigo 27.º, disso farão expressa referência no passaporte, comunicando o facto ao Ministério dos Negócios Estrangeiros, que o transmitirá à Polícia Internacional e de Defesa do Estado e à Junta da Emigração.
+Art. 30.º As autoridades consulares que concederem passaportes em casos de expulsão e repatriação, ou nos casos mencionados no artigo 27.º, disso farão expressa referência no passaporte, comunicando o facto ao Ministério dos Negócios Estrangeiros, que o transmitirá à Polícia Internacional e de Defesa do Estado e à Junta da Emigração.
 
-###### Art. 31.º Sempre que o passaporte emitido por autorização consular se destine a substituir outro, anotar-se-á, por averbamento, a p. 5, essa circunstância, indicando-se a entidade que emitiu o passaporte anterior e ainda, quando possível, o número e a data de tal documento.
+Art. 31.º Sempre que o passaporte emitido por autorização consular se destine a substituir outro, anotar-se-á, por averbamento, a p. 5, essa circunstância, indicando-se a entidade que emitiu o passaporte anterior e ainda, quando possível, o número e a data de tal documento.
 
 Do passaporte para estrangeiros
 
-###### Art. 32.º O passaporte para estrangeiros destina-se àqueles que, residindo em território português, sejam apátridas ou nacionais de países sem representação diplomática ou consular em Portugal ou que demonstrem não poder obter outro passaporte.
+Art. 32.º O passaporte para estrangeiros destina-se àqueles que, residindo em território português, sejam apátridas ou nacionais de países sem representação diplomática ou consular em Portugal ou que demonstrem não poder obter outro passaporte.
 
-###### Art. 33.º As autoridades competentes para emitir passaportes para estrangeiros são:
+Art. 33.º As autoridades competentes para emitir passaportes para estrangeiros são:
 
 a) Em território nacional, a Polícia Internacional e de Defesa do Estado;
 
 b) No estrangeiro, os cônsules, mediante autorização do Ministério dos Negócios Estrangeiros.
 
-###### Art. 34.º O passaporte para estrangeiros emitido em território português permite o regresso do seu titular, desde que nele vá expresso esse direito, ou mediante visto consular, prèviamente autorizado pelo Ministro dos Negócios Estrangeiros, que ouvirá sempre o Ministro do Interior ou o do Ultramar, conforme os casos.
+Art. 34.º O passaporte para estrangeiros emitido em território português permite o regresso do seu titular, desde que nele vá expresso esse direito, ou mediante visto consular, prèviamente autorizado pelo Ministro dos Negócios Estrangeiros, que ouvirá sempre o Ministro do Interior ou o do Ultramar, conforme os casos.
 
-###### Art. 35.º O passaporte para estrangeiros é válido pelo período de dois anos, improrrogáveis, e pode ser utilizado em número ilimitado de viagens.
+Art. 35.º O passaporte para estrangeiros é válido pelo período de dois anos, improrrogáveis, e pode ser utilizado em número ilimitado de viagens.
 
-###### Art. 36.º Em tudo o que não estiver especialmente regulado, aplicam-se aos passaportes para estrangeiros as disposições respeitantes aos passaportes ordinários.
+Art. 36.º Em tudo o que não estiver especialmente regulado, aplicam-se aos passaportes para estrangeiros as disposições respeitantes aos passaportes ordinários.
 
 Do certificado colectivo de identidade e viagem
 
-###### Art. 37.º O certificado colectivo de identidade e viagem destina-se a um conjunto de nacionais, cujo número não deverá, em regra, ser inferior a dez nem exceder vinte e cinco, pertencentes a qualquer organismo legalmente reconhecido ou agrupados por iniciativa de agência de viagens ou de turismo ou de qualquer outra entidade particular.
+Art. 37.º O certificado colectivo de identidade e viagem destina-se a um conjunto de nacionais, cujo número não deverá, em regra, ser inferior a dez nem exceder vinte e cinco, pertencentes a qualquer organismo legalmente reconhecido ou agrupados por iniciativa de agência de viagens ou de turismo ou de qualquer outra entidade particular.
 
 § único. O certificado colectivo de identidade e viagem será concedido apenas para países que lhe reconheçam validade como passaporte.
 
-###### Art. 38.º Aplica-se aos indivíduos incluídos em certificados colectivos de identidade e viagem o disposto no artigo 12.º e seus parágrafos.
+Art. 38.º Aplica-se aos indivíduos incluídos em certificados colectivos de identidade e viagem o disposto no artigo 12.º e seus parágrafos.
 
-###### Art. 39.º A concessão de certificados colectivos de identidade e viagem é da competência do Ministro do Interior, ou, nas províncias ultramarinas, do respectivo governador.
+Art. 39.º A concessão de certificados colectivos de identidade e viagem é da competência do Ministro do Interior, ou, nas províncias ultramarinas, do respectivo governador.
 
-###### Art. 40.º O certificado colectivo de identidade e viagem é válido para uma só viagem de ida e regresso e pelo período que, considerando a natureza da mesma, se fixar em cada caso, não podendo, porém, exceder um ano. A sua validade caduca se não for utilizado dentro dos 30 dias seguintes ao da respectiva emissão.
+Art. 40.º O certificado colectivo de identidade e viagem é válido para uma só viagem de ida e regresso e pelo período que, considerando a natureza da mesma, se fixar em cada caso, não podendo, porém, exceder um ano. A sua validade caduca se não for utilizado dentro dos 30 dias seguintes ao da respectiva emissão.
 
-###### Art. 41.º O certificado colectivo de identidade e viagem deverá ser requerido pelo organizador da viagem.
+Art. 41.º O certificado colectivo de identidade e viagem deverá ser requerido pelo organizador da viagem.
 
-###### Art. 42.º O organizador da viagem será pessoalmente responsável pelo regresso de todos os abrangidos no certificado, ficando sujeito à multa de 5000$00 por cada indivíduo que deixe de o acompanhar à entrada em território português.
+Art. 42.º O organizador da viagem será pessoalmente responsável pelo regresso de todos os abrangidos no certificado, ficando sujeito à multa de 5000$00 por cada indivíduo que deixe de o acompanhar à entrada em território português.
 
 Das formalidades a que estão sujeitos os funcionários e outros serventuários dos serviços públicos, os indivíduos em idade militar e os menores para poderem transpor as fronteiras.
 
-###### Art. 43.º Os funcionários e outros serventuários civis, com excepção dos aposentados e dos que se encontrem na situação de licença ilimitada, bem como os militares não reformados, quando portadores de passaporte ordinário, apenas poderão transpor as fronteiras do território português se exibirem autorização do superior hierárquico legalmente competente, passada em impresso dos modelos I ou II anexos a este decreto, autenticada com o selo branco.
+Art. 43.º Os funcionários e outros serventuários civis, com excepção dos aposentados e dos que se encontrem na situação de licença ilimitada, bem como os militares não reformados, quando portadores de passaporte ordinário, apenas poderão transpor as fronteiras do território português se exibirem autorização do superior hierárquico legalmente competente, passada em impresso dos modelos I ou II anexos a este decreto, autenticada com o selo branco.
 
 § 1.º Tratando-se de pessoal em serviço nos governos civis e administrações de bairro ou nos corpos administrativos, a concessão da autorização compete, respectivamente, ao governador civil ou ao presidente do corpo administrativo.
 
@@ -306,39 +365,39 @@ Das formalidades a que estão sujeitos os funcionários e outros serventuários 
 
 § 3.º A validade das autorizações caduca no prazo de três meses ou, nos casos previstos no parágrafo anterior, no prazo de seis meses, se outro inferior não houver sido fixado.
 
-###### Art. 44.º Os titulares de passaporte ordinário em idade militar não poderão sair do território português sem exibir documento comprovativo da respectiva licença, quando a ela sujeitos, ou o documento que for exigível por lei.
+Art. 44.º Os titulares de passaporte ordinário em idade militar não poderão sair do território português sem exibir documento comprovativo da respectiva licença, quando a ela sujeitos, ou o documento que for exigível por lei.
 
-###### Art. 45.º Os menores de 21 anos não emancipados, se não viajarem na companhia de quem sobre eles exerça o pátrio poder, não poderão sair do território português sem apresentarem a autorização a que se refere o § 1.º do artigo 12.º, ou documento comprovativo do seu suprimento, conforme o disposto no § 10.º do mesmo preceito, excepto na primeira viagem após e emissão do passaporte, se esta se efectuar dentro do prazo de 90 dias.
+Art. 45.º Os menores de 21 anos não emancipados, se não viajarem na companhia de quem sobre eles exerça o pátrio poder, não poderão sair do território português sem apresentarem a autorização a que se refere o § 1.º do artigo 12.º, ou documento comprovativo do seu suprimento, conforme o disposto no § 10.º do mesmo preceito, excepto na primeira viagem após e emissão do passaporte, se esta se efectuar dentro do prazo de 90 dias.
 
 § 1.º Salvo no caso previsto na parte final do corpo deste artigo ou no de haver suprimento de autorização, torna-se sempre indispensável a apresentação, na fronteira, do documento a que alude o § 5.º do citado artigo 12.º
 
 § 2.º A validade dos documentos exigidos pelo corpo deste artigo caduca no prazo de 90 dias.
 
-###### Art. 46.º As pessoas que acompanharem menores até aos 16 anos de idade, que não disponham de passaporte individual, se não forem seus pais, serão obrigadas a apresentar autorização nos termos dos §§ 1.º e 8.º do artigo 12.º, ou documento comprovativo do seu suprimento, conforme o disposto no § 10.º do mesmo preceito, salvo na primeira viagem após o averbamento mencionado no § 7.º daquele artigo 12.º, se esta se efectuar dentro do prazo de 90 dias.
+Art. 46.º As pessoas que acompanharem menores até aos 16 anos de idade, que não disponham de passaporte individual, se não forem seus pais, serão obrigadas a apresentar autorização nos termos dos §§ 1.º e 8.º do artigo 12.º, ou documento comprovativo do seu suprimento, conforme o disposto no § 10.º do mesmo preceito, salvo na primeira viagem após o averbamento mencionado no § 7.º daquele artigo 12.º, se esta se efectuar dentro do prazo de 90 dias.
 
 § único. É aplicável às situações de que trata este artigo o disposto nos §§ 1.º e 2.º do artigo anterior.
 
 Dos impressos do passaporte, sua distribuição pelas autoridades emissoras e providências respeitantes à fiscalização a exercer pela Polícia Internacional e de Defesa do Estado.
 
-###### Art. 47.º Os passaportes cuja concessão é regulada por este diploma serão emitidos em impressos dos modelos III a VI.
+Art. 47.º Os passaportes cuja concessão é regulada por este diploma serão emitidos em impressos dos modelos III a VI.
 
-###### Art. 48.º Os impressos de passaporte serão seriados e numerados e o seu fornecimento, que constitui exclusivo da Imprensa Nacional, apenas poderá fazer-se às Secretarias-Gerais dos Ministérios do Interior, dos Negócios Estrangeiros e do Ultramar, às quais compete distribuí-los, respectivamente, pelos governos civis, Polícia Internacional e de Defesa do Estado e Junta da Emigração, pelos consulados e pelas províncias ultramarinas.
+Art. 48.º Os impressos de passaporte serão seriados e numerados e o seu fornecimento, que constitui exclusivo da Imprensa Nacional, apenas poderá fazer-se às Secretarias-Gerais dos Ministérios do Interior, dos Negócios Estrangeiros e do Ultramar, às quais compete distribuí-los, respectivamente, pelos governos civis, Polícia Internacional e de Defesa do Estado e Junta da Emigração, pelos consulados e pelas províncias ultramarinas.
 
-###### Art. 49.º A Imprensa Nacional remeterá à Policia Internacional e de Defesa do Estado, no próprio dia do fornecimento, nota em que se discriminem as entidades a que foi feito, a quantidade de exemplares e correspondentes séries e números. As Secretarias-Gerais dos Ministérios procederão do mesmo modo quando satisfaçam requisições de impressos.
+Art. 49.º A Imprensa Nacional remeterá à Policia Internacional e de Defesa do Estado, no próprio dia do fornecimento, nota em que se discriminem as entidades a que foi feito, a quantidade de exemplares e correspondentes séries e números. As Secretarias-Gerais dos Ministérios procederão do mesmo modo quando satisfaçam requisições de impressos.
 
-###### Art. 50.º Os governos civis enviarão directamente à Polícia Internacional e de Defesa do Estado, até ao final de cada mês, relação dos passaportes emitidos no mês anterior, utilizando para esse efeito o impresso modelo VII anexo a este decreto.
+Art. 50.º Os governos civis enviarão directamente à Polícia Internacional e de Defesa do Estado, até ao final de cada mês, relação dos passaportes emitidos no mês anterior, utilizando para esse efeito o impresso modelo VII anexo a este decreto.
 
-###### Art. 51.º Os consulados e os governadores das províncias ultramarinas enviarão, até ao dia 10 de cada mês, ao Ministério dos Negócios Estrangeiros e ao Ministério do Ultramar, respectivamente, relações em duplicado dos passaportes emitidos no mês antecedente, utilizando o mesmo impresso a que se refere o artigo anterior.
+Art. 51.º Os consulados e os governadores das províncias ultramarinas enviarão, até ao dia 10 de cada mês, ao Ministério dos Negócios Estrangeiros e ao Ministério do Ultramar, respectivamente, relações em duplicado dos passaportes emitidos no mês antecedente, utilizando o mesmo impresso a que se refere o artigo anterior.
 
 § único. Os Ministérios dos Negócios Estrangeiros e do Ultramar enviarão à Polícia Internacional e de Defesa do Estado, logo após a sua recepção, um exemplar das relações de passaportes.
 
-###### Art. 52.º No caso de inutilização de qualquer impresso de passaporte, a primeira folha será enviada à Polícia Internacional e de Defesa do Estado para efeito de ser dada baixa nas relações dos impressos distribuídos e dos passaportes concedidos.
+Art. 52.º No caso de inutilização de qualquer impresso de passaporte, a primeira folha será enviada à Polícia Internacional e de Defesa do Estado para efeito de ser dada baixa nas relações dos impressos distribuídos e dos passaportes concedidos.
 
 § único. A remessa prevista neste artigo será feita directamente, tratando-se dos governos civis ou da Junta da Emigração, e por intermédio dos respectivos Ministérios, nos demais casos.
 
 Do preenchimento do impresso de passaporte
 
-###### Art. 53.º O passaporte só é válido quando as indicações respeitantes ao organismo que o emitir e os espaços reservados à identificação do portador estiverem devidamente preenchidos, a parte manuscrita seja bem legível, não contenha rasuras ou emendas que suscitem dúvidas, as fotografias, de cabeça descoberta, obtidas em tons de preto e branco, e, salvo se o interessado provar a necessidade permanente do seu uso, sem óculos de lentes de cor escura, possam reputar-se actualizadas, sem retoques ou modificações capazes de induzir em erro, e tenham sido, bem como a assinatura da entidade que o emitir, autenticadas com o respectivo selo branco. A assinatura do titular ou titulares poderá, porém, ser aposta depois da entrega do passporte pela entidade emitente.
+Art. 53.º O passaporte só é válido quando as indicações respeitantes ao organismo que o emitir e os espaços reservados à identificação do portador estiverem devidamente preenchidos, a parte manuscrita seja bem legível, não contenha rasuras ou emendas que suscitem dúvidas, as fotografias, de cabeça descoberta, obtidas em tons de preto e branco, e, salvo se o interessado provar a necessidade permanente do seu uso, sem óculos de lentes de cor escura, possam reputar-se actualizadas, sem retoques ou modificações capazes de induzir em erro, e tenham sido, bem como a assinatura da entidade que o emitir, autenticadas com o respectivo selo branco. A assinatura do titular ou titulares poderá, porém, ser aposta depois da entrega do passporte pela entidade emitente.
 
 § 1.º Na indicação do organismo que emite o passaporte é proibido o uso de carimbo circular.
 
@@ -350,27 +409,27 @@ Do preenchimento do impresso de passaporte
 
 Do custo dos passaportes e certificados colectivos de identidade e viagem
 
-###### Art. 54.º O custo dos passaportes ordinários e para estrangeiros, bem como dos respectivos averbamentos, e o dos certificados colectivos de identidade e viagem é o constante da tabela anexa a este diploma, e pela sua concessão não são devidos emolumentos nem imposto do selo.
+Art. 54.º O custo dos passaportes ordinários e para estrangeiros, bem como dos respectivos averbamentos, e o dos certificados colectivos de identidade e viagem é o constante da tabela anexa a este diploma, e pela sua concessão não são devidos emolumentos nem imposto do selo.
 
 § 1.º Pela emissão de passaportes a favor de indivíduos impossibilitados de cumprir as formalidades legais cobrar-se-á um quinto das taxas previstas na mencionada tabela.
 
 § 2.º As taxas pela concessão de passaportes em relação aos quais a entidade competente use da faculdade que lhe confere o § 1.º do artigo 13.º serão proporcionais ao período da respectiva validade.
 
-###### Art. 55.º Pela concessão de passaporte especial apenas é devido o custo do respectivo impresso.
+Art. 55.º Pela concessão de passaporte especial apenas é devido o custo do respectivo impresso.
 
 § único. O disposto neste artigo é aplicável aos passaportes concedidos ao abrigo do artigo 19.º, quando respeitem a indivíduos que se desloquem em serviço oficial, aos que beneficiem de bolsas de estudo e ainda a outros que, pela natureza da missão ou serviço, o Ministro do Interior considere em condições de beneficiarem do mesmo regime.
 
-###### Art. 56.º Sem prejuízo do disposto no n.º 1.º do artigo 39.º do Decreto n.º 39749, de 9 de Agosto de 1954, as importâncias cobradas pela concessão de passaportes e respectivos averbamentos serão entregues, por meio de guia, até ao dia 10 do mês seguinte, nos cofres do Estado.
+Art. 56.º Sem prejuízo do disposto no n.º 1.º do artigo 39.º do Decreto n.º 39749, de 9 de Agosto de 1954, as importâncias cobradas pela concessão de passaportes e respectivos averbamentos serão entregues, por meio de guia, até ao dia 10 do mês seguinte, nos cofres do Estado.
 
 § único. As importâncias das taxas a que se refere o artigo 4.º do [Decreto-Lei n.º 46747](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46747-1965-508020), desta data, serão, pelas entidades que as arrecadarem, depositadas na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da Liga dos Combatentes, por meio de guia e no prazo estabelecido no corpo deste artigo.
 
-###### Art. 57.º As multas a que se refere o artigo 42.º serão aplicadas pela director da Polícia Internacional e de Defesa do Estado e revertem a favor do cofre geral da mesma Polícia.
+Art. 57.º As multas a que se refere o artigo 42.º serão aplicadas pela director da Polícia Internacional e de Defesa do Estado e revertem a favor do cofre geral da mesma Polícia.
 
 § único. Na falta de pagamento, dentro do prazo legal, das multas a que alude o corpo deste artigo, serão os autos de transgressão enviados ao respectivo tribunal de execuções fiscais, para cobrança coerciva.
 
-###### Art. 58.º As dúvidas que suscite a aplicação deste diploma serão resolvidas por despacho do Ministro do Interior, sob proposta fundamentada da Direcção-Geral de Administração Política e Civil e, se for caso disso, com prévia audiência de outros departamentos porventura interessados.
+Art. 58.º As dúvidas que suscite a aplicação deste diploma serão resolvidas por despacho do Ministro do Interior, sob proposta fundamentada da Direcção-Geral de Administração Política e Civil e, se for caso disso, com prévia audiência de outros departamentos porventura interessados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Ulisses Cruz de Aguiar Cortês - Alberto Marciano Gorjão Franco Nogueira - Joaquim Moreira da Silva Cunha.
 
@@ -378,12 +437,12 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 Tabela de taxas a que se refere o artigo 54.º do Decreto n.º 46748
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf))](https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf)
 
 Observação. - Acresce o custo do impresso.
 
 Do Modelo I ao Modelo VII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf))](https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/12/28300/16641677.pdf)
 
 Ministério do Interior, 15 de Dezembro de 1965. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

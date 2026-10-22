@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46519-1965-509801
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e1824506a03b4f35713de43c06afae632859f5ddd3213250a860420dc4f9d4b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a364eff22ae1dbfedbec0c71a08bb4ba6d0147f4be396a3bf553d9ae568874c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:34Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +100,19 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada na cidade de S. Tomé, da província de S. Tomé e Príncipe, uma escola técnica elementar de frequência mista.
+Artigo 1.º É criada na cidade de S. Tomé, da província de S. Tomé e Príncipe, uma escola técnica elementar de frequência mista.
 
-###### Art. 2.º É criada na cidade de Díli, da província de Timor, uma escola técnica elementar de frequência mista.
+Art. 2.º É criada na cidade de Díli, da província de Timor, uma escola técnica elementar de frequência mista.
 
-###### Art. 3.º São criadas na província de Angola duas escolas técnicas elementares, sendo uma localizada no Cubal e outra em Henrique de Carvalho, ambas de frequência mista.
+Art. 3.º São criadas na província de Angola duas escolas técnicas elementares, sendo uma localizada no Cubal e outra em Henrique de Carvalho, ambas de frequência mista.
 
-###### Art. 4.º É elevada à categoria de escola comercial e industrial a Escola Comercial do Lobito, da província de Angola, de frequência mista.
+Art. 4.º É elevada à categoria de escola comercial e industrial a Escola Comercial do Lobito, da província de Angola, de frequência mista.
 
-###### Art. 5.º É elevada à categoria de escola comercial e industrial a Escola Técnica Elementar de Novo Redondo, de frequência mista.
+Art. 5.º É elevada à categoria de escola comercial e industrial a Escola Técnica Elementar de Novo Redondo, de frequência mista.
 
-###### Art. 6.º É criado na província de Angola o Liceu de Silva Porto, de frequência mista, para o 1.º, 2.º e 3.º ciclos.
+Art. 6.º É criado na província de Angola o Liceu de Silva Porto, de frequência mista, para o 1.º, 2.º e 3.º ciclos.
 
-###### Art. 7.º O pessoal de cada uma das escolas técnicas elementares agora criadas será o seguinte:
+Art. 7.º O pessoal de cada uma das escolas técnicas elementares agora criadas será o seguinte:
 
 a) Do quadro comum:
 
@@ -152,9 +152,9 @@ Três contínuos, sendo um feminino.
 
 Três serventes, sendo um feminino.
 
-###### Art. 8.º São aplicáveis às escolas criadas pelo presente diploma as disposições legais vigentes sobre gratificação por exercício dos cargos desempenhados pelos professores dessas escolas.
+Art. 8.º São aplicáveis às escolas criadas pelo presente diploma as disposições legais vigentes sobre gratificação por exercício dos cargos desempenhados pelos professores dessas escolas.
 
-###### Art. 9.º Na província de Angola, para se dar cumprimento ao disposto no artigo 6.º, são aumentados os quadros do pessoal com os seguintes lugares:
+Art. 9.º Na província de Angola, para se dar cumprimento ao disposto no artigo 6.º, são aumentados os quadros do pessoal com os seguintes lugares:
 
 a) Do quadro comum dos professores:
 
@@ -202,7 +202,7 @@ Quatro contínuos de 2.ª classe;
 
 Dez serventes de 1.ª classe (assalariados).
 
-###### Art. 10.º Os quadros das escolas comerciais e industriais do Lobito e de Novo Redondo terão a seguinte constituição:
+Art. 10.º Os quadros das escolas comerciais e industriais do Lobito e de Novo Redondo terão a seguinte constituição:
 
 1) Escola Industrial e Comercial do Lobito:
 
@@ -300,13 +300,13 @@ Três contínuos de 2.ª classe (um do sexo feminino);
 
 Oito serventes de 2.ª classe.
 
-###### Art. 11.º Poderão os governos das províncias determinar que os professores do ensino secundário prestem serviço nas escolas de habilitação de professores de posto escolar em regime de complemento de serviço.
+Art. 11.º Poderão os governos das províncias determinar que os professores do ensino secundário prestem serviço nas escolas de habilitação de professores de posto escolar em regime de complemento de serviço.
 
-###### Art. 12.º Poderão os Governos das províncias de S. Tomé e Príncipe e de Timor autorizar os reitores dos liceus a acumular as suas funções com as de directores das escolas técnicas elementares.
+Art. 12.º Poderão os Governos das províncias de S. Tomé e Príncipe e de Timor autorizar os reitores dos liceus a acumular as suas funções com as de directores das escolas técnicas elementares.
 
-###### Art. 13.º Ficam os Governos das províncias de S. Tomé e Príncipe, Angola e Timor autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 13.º Ficam os Governos das províncias de S. Tomé e Príncipe, Angola e Timor autorizados a abrir, cumpridas as formalidades legais, os créditos necessários para execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

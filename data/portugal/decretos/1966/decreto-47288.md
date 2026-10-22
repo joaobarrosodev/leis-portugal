@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47288-1966-478646
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 429b76cd8aa0df8f94b1d5a176a9d18c5ebd3048a9490454509b3ce2c6eb91d6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a49ed623d0e0557f82401d266690baad3246edfe2b835a8cc927988b34760a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:07Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +104,7 @@ Por motivo de urgência e de harmonia com o disposto no n.º 1.º do artigo 150.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizados os órgãos legislativos da província de Timor a expedir diplomas:
+Artigo 1.º São autorizados os órgãos legislativos da província de Timor a expedir diplomas:
 
 a) Aprovando nova pauta aduaneira de importação para as mercadorias originárias de países estrangeiros;
 
@@ -104,17 +112,17 @@ b) A englobar nos direitos da pauta preferencial, a título de sobretaxa, todas 
 
 § único. Na pauta referida na alínea a) adoptar-se-á a Nomenclatura de Bruxelas (Convenção sobre a nomenclatura para a classificação das mercadorias nas tarifas aduaneiras, assinada em Bruxelas em 15 de Dezembro de 1950).
 
-###### Art. 2.º As alterações da nova pauta, dentro dos primeiros seis meses da sua vigência, são da competência dos órgãos legislativos da província.
+Art. 2.º As alterações da nova pauta, dentro dos primeiros seis meses da sua vigência, são da competência dos órgãos legislativos da província.
 
 § único. A competência conferida neste artigo pode ser prorrogada por iguais períodos, mediante portaria do Ministro do Ultramar.
 
-###### Art. 3.º São aprovadas as instruções preliminares da pauta a que se refere a alínea a) do artigo 1.º, as quais, juntas a este decreto, baixam assinadas pelo Ministro do Ultramar.
+Art. 3.º São aprovadas as instruções preliminares da pauta a que se refere a alínea a) do artigo 1.º, as quais, juntas a este decreto, baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 4.º Continuarão em vigor para a pauta preferencial as actuais instruções preliminares, aprovadas pelo artigo 1.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
+Art. 4.º Continuarão em vigor para a pauta preferencial as actuais instruções preliminares, aprovadas pelo artigo 1.º do [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
 
-###### Art. 5.º O Governo da província providenciará, em portaria, no sentido de serem mantidos às entidades actualmente beneficiárias os rendimentos provenientes das imposições englobadas nos direitos das pautas de importação.
+Art. 5.º O Governo da província providenciará, em portaria, no sentido de serem mantidos às entidades actualmente beneficiárias os rendimentos provenientes das imposições englobadas nos direitos das pautas de importação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

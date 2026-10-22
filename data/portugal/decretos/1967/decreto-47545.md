@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47545-1967-504475
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 36428b3cfffebe40db5372336e05e24f08895243ec20a152dbb3058e914c279f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cbdff4499fbbcd7b5bade9b92b256b564f71cded904e1d8a0fb1dd16c15b52b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:292363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:22Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +96,15 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição e por mo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Moçambique a utilizar parte dos saldos das contas de exercícios findos na abertura de créditos na tabela de despesa ordinária do orçamento geral da província, destinados a ocorrer aos encargos derivados da integração das companhias móveis de polícia no Corpo de Polícia de Segurança Pública.
+Artigo 1.º É autorizado o Governo-Geral de Moçambique a utilizar parte dos saldos das contas de exercícios findos na abertura de créditos na tabela de despesa ordinária do orçamento geral da província, destinados a ocorrer aos encargos derivados da integração das companhias móveis de polícia no Corpo de Polícia de Segurança Pública.
 
-###### Art. 2.º Enquanto se mantiverem as actuais circunstâncias de alteração de ordem pública, poderá ser recrutado, em regime de prestação de serviço, o pessoal que se torne indispensável a uma eficiente actuação do Corpo de Polícia de Segurança Pública.
+Art. 2.º Enquanto se mantiverem as actuais circunstâncias de alteração de ordem pública, poderá ser recrutado, em regime de prestação de serviço, o pessoal que se torne indispensável a uma eficiente actuação do Corpo de Polícia de Segurança Pública.
 
 § 1.º O pessoal a admitir perceberá remuneração idêntica à do correspondente pessoal dos quadros.
 
 § 2.º Os encargos serão satisfeitos por uma verba global, a inscrever no orçamento geral da província, com contrapartida nos recursos indicados no artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

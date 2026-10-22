@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46900-1966-486753
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 72307968b9425801f5449b0353dcccba04910a0a5eb65f3bdf40789ccc54f870
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83c1180c5b27e7a507f0be25536c0d47035a8074922dcffe86c6270356ad22b8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:172682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578122:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:07Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +106,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nas comarcas de Luanda, Lourenço Marques e Beira haverá um tribunal cível e um tribunal criminal.
+Artigo 1.º Nas comarcas de Luanda, Lourenço Marques e Beira haverá um tribunal cível e um tribunal criminal.
 
-###### Art. 2.º - 1. O tribunal cível das comarcas de Luanda e Lourenço Marques é composto por quatro varas e o da comarca da Beira por duas varas.
+Art. 2.º - 1. O tribunal cível das comarcas de Luanda e Lourenço Marques é composto por quatro varas e o da comarca da Beira por duas varas.
 
 2. O tribunal criminal das comarcas de Luanda e Lourenço Marques compõe-se de três juízos criminais e um juízo de polícia e o da comarca da Beira de um juízo criminal.
 
-###### Art. 3.º No tribunal cível, ias varas compete a preparação e julgamento de todos os processos cíveis não exceptuados por legislação especial.
+Art. 3.º No tribunal cível, ias varas compete a preparação e julgamento de todos os processos cíveis não exceptuados por legislação especial.
 
-###### Art. 4.º - 1. No tribunal criminal das comarcas de Luanda e Lourenço Marques compete:
+Art. 4.º - 1. No tribunal criminal das comarcas de Luanda e Lourenço Marques compete:
 
 a) Aos juízos criminais, a preparação e julgamento dos processos de querela e de polícia correccional;
 
@@ -110,49 +122,49 @@ b) Aos juízos de polícia, a jurisdição relativa às infracções a que corre
 
 2. No tribunal criminal da comarca da Beira, ao juízo compete toda a jurisdição criminal.
 
-###### Art. 5.º Em cada vara cível ou juízo criminal há um juiz de direito e um cartório.
+Art. 5.º Em cada vara cível ou juízo criminal há um juiz de direito e um cartório.
 
 Cada cartório é servido por um escrivão de direito, quatro ajudantes de escrivão, três oficiais de diligências, dois dactilógrafos e dois serventes.
 
-###### Art. 6.º - 1. A representação do Ministério Público junto de cada juízo criminal é exercida por um delegado do procurador da República.
+Art. 6.º - 1. A representação do Ministério Público junto de cada juízo criminal é exercida por um delegado do procurador da República.
 
 2. Junto das varas cíveis há um só delegado do procurador da República para cada duas varas, sendo, nas comarcas de Luanda e Lourenço Marques, um para a 1.ª e 2.ª e outro para a 3.ª e 4.ª varas.
 
 3. Em cada uma das delegações da Procuradora da República há uma secretaria, servida por um aspirante e um servente.
 
-###### Art. 7.º Cada juízo criminal dispõe de um guarda de polícia e um intérprete
+Art. 7.º Cada juízo criminal dispõe de um guarda de polícia e um intérprete
 
 Em cada vara cível há também um guarda de polícia e em cada duas varas um intérprete.
 
-###### Art. 8.º - 1. Haverá sempre um juiz de turno para as varas cíveis e outro para os juízos criminais, a quem incumbe presidir à distribuição e efectuar o serviço de expediente dos actos que possam ser praticados independentemente de distribuição.
+Art. 8.º - 1. Haverá sempre um juiz de turno para as varas cíveis e outro para os juízos criminais, a quem incumbe presidir à distribuição e efectuar o serviço de expediente dos actos que possam ser praticados independentemente de distribuição.
 
 2. Os turnos são quinzenais, com início nos dias 1 e 16 de cada mês, seguindo a ordem de numeração das varas e dos juízos.
 
-###### Art. 9.º Os magistrados judiciais e do Ministério Público nas comarcas de Luanda, Lourenço Marques e Beira conservam as inerências legalmente fixadas, competindo ao juiz da 1.ª vara cível na comarca da Beira e aos juízes da 4.ª vara nas restantes comarcas a correição ordinária aos tribunais inferiores.
+Art. 9.º Os magistrados judiciais e do Ministério Público nas comarcas de Luanda, Lourenço Marques e Beira conservam as inerências legalmente fixadas, competindo ao juiz da 1.ª vara cível na comarca da Beira e aos juízes da 4.ª vara nas restantes comarcas a correição ordinária aos tribunais inferiores.
 
-###### Art. 10.º Mantêm-se, com a subordinação hierárquica e atribuições que a legislação vigente especifica, os lugares de distribuidor geral e contador nas comarcas de Luanda e Lourenço Marques, o de contador na comarca da Beira e de todo o pessoal que lhes está afecto.
+Art. 10.º Mantêm-se, com a subordinação hierárquica e atribuições que a legislação vigente especifica, os lugares de distribuidor geral e contador nas comarcas de Luanda e Lourenço Marques, o de contador na comarca da Beira e de todo o pessoal que lhes está afecto.
 
-###### Art. 11.º Os juízos da polícia de Luanda e Lourenço Marques funcionam com a constituição definida nos artigos 16.º e 17.º do [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), de 19 de Agosto de 1960.
+Art. 11.º Os juízos da polícia de Luanda e Lourenço Marques funcionam com a constituição definida nos artigos 16.º e 17.º do [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), de 19 de Agosto de 1960.
 
-###### Art. 12.º - 1. Nas comarcas de Luanda e Lourenço Marques os juízes do tribunal cível substituem-se uns aos outros, e de igual modo os juízes do tribunal criminal, segundo a ordem numérica e sucessiva das varas ou juízos, de modo que o último substitua o primeiro.
+Art. 12.º - 1. Nas comarcas de Luanda e Lourenço Marques os juízes do tribunal cível substituem-se uns aos outros, e de igual modo os juízes do tribunal criminal, segundo a ordem numérica e sucessiva das varas ou juízos, de modo que o último substitua o primeiro.
 
 2. Na comarca da Beira os juízes do tribunal cível substituem-se recìprocamente, e o juiz do juízo criminal é substituído pelo conservador designado nos termos do número seguinte.
 
 3. A substituição dos juízes uns pelos outros referida nos números anteriores não poderá exceder quinze dias. Decorrido este lapso de tempo, ou quando as conveniências do serviço o exijam, os juízes serão substituídos pelo conservador que o presidente da Relação designar.
 
-###### Art. 13.º - 1. Os delegados do procurador da República junto dos tribunais de Luanda, Lourenço Marques e Beira, na falta de subdelegado, são substituídos sucessivamente pelo delegado junto dos tribunais de menores e execução de penas, onde o houver, delegados junto das varas cíveis e juízos criminais, notários ou substitutos nomeados.
+Art. 13.º - 1. Os delegados do procurador da República junto dos tribunais de Luanda, Lourenço Marques e Beira, na falta de subdelegado, são substituídos sucessivamente pelo delegado junto dos tribunais de menores e execução de penas, onde o houver, delegados junto das varas cíveis e juízos criminais, notários ou substitutos nomeados.
 
 2. O procurador da República, observada essa ordem de precedência, indicará os substitutos, quando o caso couber.
 
-###### Art. 14.º - 1. O imposto de justiça devido nos termos da parte cível, e destinado aos cartórios e contadorias, a que se refere o artigo 46.º, n.º 2, do Código das Custas Judiciais do Ultramar, aprovado pelo [Decreto n.º 43809](https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682), de 20 de Julho de 1961, relativamente às comarcas de Luanda, Lourenço Marques e Beira, passa a constituir receita do respectivo cofre geral dos tribunais.
+Art. 14.º - 1. O imposto de justiça devido nos termos da parte cível, e destinado aos cartórios e contadorias, a que se refere o artigo 46.º, n.º 2, do Código das Custas Judiciais do Ultramar, aprovado pelo [Decreto n.º 43809](https://diariodarepublica.pt/dr/detalhe/decreto/43809-1961-172682), de 20 de Julho de 1961, relativamente às comarcas de Luanda, Lourenço Marques e Beira, passa a constituir receita do respectivo cofre geral dos tribunais.
 
 2. A receita arrecadada, na sua totalidade, em cada uma das comarcas, fica afecta ao pagamento de participações emolumentares.
 
 Será partilhada, mensalmente e em conformidade com o tempo de exercício de funções, pelos oficiais de justiça das varas cíveis e juízos criminais, incluindo o distribuidor geral, onde o houver, contador privativo e respectivos ajudantes, independentemente da sua intervenção nos actos processuais, e proporcionalmente às percentagens especificadas no n.º 2 do artigo 46.º do Código das Custas, até ao limite de remunerações fixado no artigo 205.º do mesmo código. Aquele limite passa a ser considerado em função do vencimento mensal.
 
-###### Art. 15.º O provimento dos lugares de ajudante de escrivão, na falta de indivíduos habilitados com o concurso a que se refere o [Decreto n.º 45788](https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122), de 1 de Julho de 1964, poderá ser feito entre escriturários de 1.ª classe dos tribunais judiciais da metrópole.
+Art. 15.º O provimento dos lugares de ajudante de escrivão, na falta de indivíduos habilitados com o concurso a que se refere o [Decreto n.º 45788](https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122), de 1 de Julho de 1964, poderá ser feito entre escriturários de 1.ª classe dos tribunais judiciais da metrópole.
 
-###### Art. 16.º O pessoal actualmente em serviço nas varas de Luanda, Lourenço Marques e Beira transitará, independentemente das formalidades de visto e posse, para as varas cíveis e juízos criminais de cada uma das comarcas, pela forma seguinte:
+Art. 16.º O pessoal actualmente em serviço nas varas de Luanda, Lourenço Marques e Beira transitará, independentemente das formalidades de visto e posse, para as varas cíveis e juízos criminais de cada uma das comarcas, pela forma seguinte:
 
 a) Os juízes de direito, para as varas cíveis;
 
@@ -166,7 +178,7 @@ O escrivão de direito da comarca de Lourenço Marques que não tiver colocaçã
 
 d) Os ajudantes de escrivão, oficiais de diligências, dactilógrafos, guardas de polícia, intérpretes e serventes serão distribuídos, proporcionalmente ao número de lugares correspondentes à jurisdição cível e criminal, conforme o presidente da Relação determinar.
 
-###### Art. 17.º - 1. Os processos crimes pendentes nas varas existentes transitam para os juízos criminais, salvo aqueles cujo julgamento tenha sido iniciado, os quais prosseguirão os seus termos na correspondente vara cível até à decisão final, considerando-se prorrogada para o efeito a respectiva jurisdição criminal.
+Art. 17.º - 1. Os processos crimes pendentes nas varas existentes transitam para os juízos criminais, salvo aqueles cujo julgamento tenha sido iniciado, os quais prosseguirão os seus termos na correspondente vara cível até à decisão final, considerando-se prorrogada para o efeito a respectiva jurisdição criminal.
 
 2. A transferência dos processos obedecerá às seguintes regras:
 
@@ -178,11 +190,11 @@ c) Se feito o rateio se mantiver a desigualdade, será ela considerada nas futur
 
 Os presidentes das relações e procuradores da República tomarão, na parte que lhes respeita, as medidas que entenderem adequadas à execução dos números anteriores.
 
-###### Art. 18.º Os tribunais cíveis e criminais referidos no presente diploma entrarão em funcionamento 60 dias após a dotação orçamental dos encargos que dele resultam, continuando, entretanto, a actividade jurisdicional que àqueles pertence a ser exercida pelos tribunais existentes e nos termos da legislação em vigor.
+Art. 18.º Os tribunais cíveis e criminais referidos no presente diploma entrarão em funcionamento 60 dias após a dotação orçamental dos encargos que dele resultam, continuando, entretanto, a actividade jurisdicional que àqueles pertence a ser exercida pelos tribunais existentes e nos termos da legislação em vigor.
 
-###### Art. 19.º Os governadores-gerais de Angola e Moçambique ficam autorizados a abrir, quando o julgarem conveniente e observadas as disposições legais aplicáveis, os créditos necessários para suportarem os encargos com a execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 19.º Os governadores-gerais de Angola e Moçambique ficam autorizados a abrir, quando o julgarem conveniente e observadas as disposições legais aplicáveis, os créditos necessários para suportarem os encargos com a execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

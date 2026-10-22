@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47397-1966-477849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f86b232da9e747d300cea9f0dc25f2f024aa05ea75fe6b9f2c33bde83fad9ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01c419d1af01bf33f459c0ee8e3c8a01ea8ae9243e786e7691a489a743a02a1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:03Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma Indústrias Térmicas Nunes Correia para a execução da obra de instalações sanitárias dos edifícios do Triton III - O. G. M. A. (Alverca), pela importância de 1152340$20.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma Indústrias Térmicas Nunes Correia para a execução da obra de instalações sanitárias dos edifícios do Triton III - O. G. M. A. (Alverca), pela importância de 1152340$20.
 
-###### Art. 2.º O encargo com esta obra, no montante de 1152340$20, a custear por conta da verba adequada do orçamento suplementar de defesa, será liquidado pelo referido conselho administrativo da seguinte forma:
+Art. 2.º O encargo com esta obra, no montante de 1152340$20, a custear por conta da verba adequada do orçamento suplementar de defesa, será liquidado pelo referido conselho administrativo da seguinte forma:
 
 Em 1966 - 576170$10, pelo capítulo 12.º, artigo 313.º, n.º 1).
 

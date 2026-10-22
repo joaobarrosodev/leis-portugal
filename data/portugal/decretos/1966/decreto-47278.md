@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47278-1966-478444
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 39a1bfd86b4679fe43d5e1405620aa968ce0da06bab879fb235d73316bcc871e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b85c4a717875800813e1e2dc23544a4ea3159c89864edced95db2c561fe81f2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:02Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ Nos termos do § 1.º do artigo 150.º da Constituição;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São inseridas nas pautas mínimas de importação das províncias de Cabo Verde, Guiné, Angola e Moçambique as seguintes notas:
+Artigo 1.º São inseridas nas pautas mínimas de importação das províncias de Cabo Verde, Guiné, Angola e Moçambique as seguintes notas:
 
 Ao artigo 21.06.01:
 
@@ -104,17 +104,17 @@ Ao artigo 70.13.01:
 
 Classificam-se exclusivamente por este artigo os artefactos para os quais se faça prova por boletim de análise oficial ou facultado por laboratório ou entidade de reconhecida idoneidade de que se trata de vidro cujo coeficiente de dilatação é inferior a 50 cm x 10(elevado a -7) por centímetro e por grau centígrado.
 
-###### Art. 2.º É inserida nas pautas mínimas de Angola e Moçambique a seguinte nota ao artigo 38.11.02:
+Art. 2.º É inserida nas pautas mínimas de Angola e Moçambique a seguinte nota ao artigo 38.11.02:
 
 Os produtos abrangidos no artigo são livres de direitos quando destinados a defesa da agricultura, silvicultura, veterinária e saúde pública, quando constem de listas elaboradas nos serviços respectivos, aprovadas pelo governador-geral, não se encontrem acondicionados para venda a retalho e não sejam produzidos localmente em boas condições de qualidade.
 
-###### Art. 3.º É alterada a taxa do seguinte artigo da pauta mínima de importação de Angola:
+Art. 3.º É alterada a taxa do seguinte artigo da pauta mínima de importação de Angola:
 
 38.11.02 - quilograma 10$00.
 
-###### Art. 4.º Pode o Ministro do Ultramar, mediante portaria, tornar extensivos a outras províncias ultramarinas os regimes aduaneiros previstos no presente diploma.
+Art. 4.º Pode o Ministro do Ultramar, mediante portaria, tornar extensivos a outras províncias ultramarinas os regimes aduaneiros previstos no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

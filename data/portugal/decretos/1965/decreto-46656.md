@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46656-1965-512051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 658b847a4fcec6d0aa7cdf7fa90dbbe6b96f64beb77bdfbc9f6a56e4b8f81eb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ada34f1d8a19522990e904f573dd96bbb13c9cf1dcfff02b5b6eb0c5e5273164
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469851:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537196:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:46Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +106,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Estatuto Disciplinar da Organização Provincial de Voluntários e Defesa Civil das Províncias Ultramarinas, que faz parte integrante deste diploma e vai assinado pelo Ministro do Ultramar.
+Artigo único. É aprovado o Estatuto Disciplinar da Organização Provincial de Voluntários e Defesa Civil das Províncias Ultramarinas, que faz parte integrante deste diploma e vai assinado pelo Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -106,7 +118,7 @@ ESTATUTO DISCIPLINAR DAS ORGANIZAÇÕES PROVINCIAIS DE VOLUNTÁRIOS E DEFESA CIV
 
 ### CAPÍTULO I — Generalidades
 
-###### Artigo 1.º A Organização Provincial de Voluntários e Defesa Civil compreende os seguintes quadros de pessoal:
+Artigo 1.º A Organização Provincial de Voluntários e Defesa Civil compreende os seguintes quadros de pessoal:
 
 Quadro permanente (QP);
 
@@ -114,9 +126,9 @@ Quadro geral (QG);
 
 Quadro especial (QE).
 
-###### Art. 2.º Pertence ao quadro permanente o pessoal dos órgãos de comando, dos órgãos de direcção e dos órgãos de instrução que preste serviço na Organização Provincial de Voluntários e Defesa Civil, em comissão, contratado ou assalariado ao abrigo do Estatuto do Funcionalismo Ultramarino, ou ainda por inerência de funções, quando para tal expressamente designado pelo governador.
+Art. 2.º Pertence ao quadro permanente o pessoal dos órgãos de comando, dos órgãos de direcção e dos órgãos de instrução que preste serviço na Organização Provincial de Voluntários e Defesa Civil, em comissão, contratado ou assalariado ao abrigo do Estatuto do Funcionalismo Ultramarino, ou ainda por inerência de funções, quando para tal expressamente designado pelo governador.
 
-###### Art. 3.º O quadro geral compreende os seguintes escalões:
+Art. 3.º O quadro geral compreende os seguintes escalões:
 
 1.º escalão - Autodefesa, defesa civil e forças de intervenção, abrangendo três classes:
 
@@ -144,29 +156,29 @@ Garantir o funcionamento, em caso de emergência, da indispensável assistência
 
 Realizar ou colaborar na acção psicossocial, dentro do âmbito da sua actividade.
 
-###### Art. 4.º Pertence ao quadro especial o pessoal das unidades de recuperação económica eventualmente constituídas a fim de proteger as actividades de normalização das regiões afectadas pelo terrorismo.
+Art. 4.º Pertence ao quadro especial o pessoal das unidades de recuperação económica eventualmente constituídas a fim de proteger as actividades de normalização das regiões afectadas pelo terrorismo.
 
-###### Art. 5.º No quadro permanente, o pessoal militar fica sujeito às penas e normas aplicáveis do Regulamento de Disciplina Militar e o pessoal civil às do Estatuto do Funcionalismo Ultramarino.
+Art. 5.º No quadro permanente, o pessoal militar fica sujeito às penas e normas aplicáveis do Regulamento de Disciplina Militar e o pessoal civil às do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º Os militares pertencendo ao quadro permanente da Organização, por inerência das funções administrativas civis que desempenhem, são considerados, para todos os efeitos disciplinares, abrangidos exclusivamente pelo Estatuto do Funcionalismo Ultramarino.
 
 § 2.º Os casos em que se venha a verificar incompatibilidade do Regulamento de Disciplina Militar ou Estatuto do Funcionalismo Ultramarino com a natureza especial da Organização Provincial de Voluntários e Defesa Civil serão solucionados pelo comandante da Organização e, havendo recurso, pelo governador.
 
-###### Art. 6.º Ao quadro geral aplicar-se-ão as disposições gerais estabelecidas no presente estatuto, salvo aos funcionários públicos, aos quais serão aplicáveis as normas disciplinares do Estatuto do Funcionalismo Ultramarino.
+Art. 6.º Ao quadro geral aplicar-se-ão as disposições gerais estabelecidas no presente estatuto, salvo aos funcionários públicos, aos quais serão aplicáveis as normas disciplinares do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 7.º O quadro especial fica sujeito às penas e normas do Regulamento de Disciplina Militar, com as alterações previstas neste estatuto.
+Art. 7.º O quadro especial fica sujeito às penas e normas do Regulamento de Disciplina Militar, com as alterações previstas neste estatuto.
 
-###### Art. 8.º Os casos omissos nas determinações legais referentes à Organização Provincial de Voluntários e Defesa Civil que não puderem ser abrangidos pelos princípios gerais estabelecidos para a sua disciplina serão regulados por analogia com as normas disciplinares do Exército.
+Art. 8.º Os casos omissos nas determinações legais referentes à Organização Provincial de Voluntários e Defesa Civil que não puderem ser abrangidos pelos princípios gerais estabelecidos para a sua disciplina serão regulados por analogia com as normas disciplinares do Exército.
 
-###### Art. 9.º Em tempo de guerra, declarado o estado de sítio ou em situação de emergência, reconhecida pelo governador e confirmada pelo Governo Central, e particularmente quando a Organização Provincial seja colocada na dependência da autoridade militar, todo o pessoal, qualquer que seja, o quadro ou classe a que pertença, ficará sujeito ao Regulamento de Disciplina Militar, bem como ao Código de Justiça Militar.
+Art. 9.º Em tempo de guerra, declarado o estado de sítio ou em situação de emergência, reconhecida pelo governador e confirmada pelo Governo Central, e particularmente quando a Organização Provincial seja colocada na dependência da autoridade militar, todo o pessoal, qualquer que seja, o quadro ou classe a que pertença, ficará sujeito ao Regulamento de Disciplina Militar, bem como ao Código de Justiça Militar.
 
-###### Art. 10.º O pessoal da Organização Provincial de Voluntários e Defesa Civil é disciplinarmente responsável, perante os seus superiores hierárquicos, ou como tal designados, pelas infracções cometidas.
+Art. 10.º O pessoal da Organização Provincial de Voluntários e Defesa Civil é disciplinarmente responsável, perante os seus superiores hierárquicos, ou como tal designados, pelas infracções cometidas.
 
 § único. Os superiores são sempre responsáveis pelas infracções praticadas pelos subordinados ou inferiores quando estas infracções resultem de faltas cometidas por esses mesmos superiores.
 
-###### Art. 11.º Infracção de disciplina é toda a omissão ou acção contrária aos deveres preceituados neste estatuto que, por lei, não seja qualificada como crime.
+Art. 11.º Infracção de disciplina é toda a omissão ou acção contrária aos deveres preceituados neste estatuto que, por lei, não seja qualificada como crime.
 
-###### Art. 12.º São princípios fundamentais da disciplina:
+Art. 12.º São princípios fundamentais da disciplina:
 
 1.º A obediência pronta e completa às ordens recebidas em conformidade com a lei e regulamentos da Organização;
 
@@ -174,9 +186,9 @@ Realizar ou colaborar na acção psicossocial, dentro do âmbito da sua activida
 
 ### CAPÍTULO II — Deveres disciplinares
 
-###### Art. 13.º O pessoal das organizações deve guardar e fazer guardar as leis do País, regulando o seu procedimento rigorosa e activamente de acordo com os deveres assumidos perante as mesmas organizações.
+Art. 13.º O pessoal das organizações deve guardar e fazer guardar as leis do País, regulando o seu procedimento rigorosa e activamente de acordo com os deveres assumidos perante as mesmas organizações.
 
-###### Art. 14.º São deveres especiais do pessoal das organizações:
+Art. 14.º São deveres especiais do pessoal das organizações:
 
 1.º Observar e fazer observar as leis em vigor;
 
@@ -254,7 +266,7 @@ Realizar ou colaborar na acção psicossocial, dentro do âmbito da sua activida
 
 ### CAPÍTULO III — Penas disciplinares
 
-###### Art. 15.º As penas aplicáveis ao pessoal do quadro geral são as seguintes:
+Art. 15.º As penas aplicáveis ao pessoal do quadro geral são as seguintes:
 
 1.º Advertência;
 
@@ -270,27 +282,27 @@ Realizar ou colaborar na acção psicossocial, dentro do âmbito da sua activida
 
 § único. Sem que produza efeitos de natureza disciplinar, todo o graduado ou voluntário investido em funções de chefia pode admoestar verbalmente os seus inferiores por qualquer acto praticado que não deva ser punido nos termos deste estatuto.
 
-###### Art. 16.º A advertência consiste numa admoestação por escrito feita por superior a quem esteja atribuída competência disciplinar, com motivo em deficiente cumprimento deste estatuto.
+Art. 16.º A advertência consiste numa admoestação por escrito feita por superior a quem esteja atribuída competência disciplinar, com motivo em deficiente cumprimento deste estatuto.
 
-###### Art. 17.º A repreensão simples consiste numa comunicação por escrito desta pena por qualquer acto praticado que constitua infracção dos deveres do infractor, o qual receberá nota de punição de que conste o facto que a motivou, bem como dos deveres infringidos.
+Art. 17.º A repreensão simples consiste numa comunicação por escrito desta pena por qualquer acto praticado que constitua infracção dos deveres do infractor, o qual receberá nota de punição de que conste o facto que a motivou, bem como dos deveres infringidos.
 
-###### Art. 18.º A repreensão agravada consiste numa repreensão ao infractor, publicada em ordem de serviço.
+Art. 18.º A repreensão agravada consiste numa repreensão ao infractor, publicada em ordem de serviço.
 
-###### Art. 19.º A multa consiste no desconto da importância correspondente ao vencimento de exercício a que o infractor tiver direito, não podendo exceder quinze dias para cada punição.
+Art. 19.º A multa consiste no desconto da importância correspondente ao vencimento de exercício a que o infractor tiver direito, não podendo exceder quinze dias para cada punição.
 
 § 1.º Esta pena é apenas aplicável aos voluntários da classe B do 1.º escalão.
 
 § 2.º As multas reverterão em favor da Organização, com destino ao fundo social, quando exista, ou, se o não houver, ao fundo de instrução.
 
-###### Art. 20.º A suspensão consiste na privação temporária do exercício das suas funções na Organização. Cada dia de suspensão será acompanhado de um dia de perda de vencimentos.
+Art. 20.º A suspensão consiste na privação temporária do exercício das suas funções na Organização. Cada dia de suspensão será acompanhado de um dia de perda de vencimentos.
 
-###### Art. 21.º A expulsão será aplicada exclusivamente por infracções de extrema gravidade ou reincidência consideradas insanáveis.
+Art. 21.º A expulsão será aplicada exclusivamente por infracções de extrema gravidade ou reincidência consideradas insanáveis.
 
 ### CAPÍTULO IV — Efeitos das penas
 
-###### Art. 22.º As penas aplicadas nos termos deste regulamento, quando nele de outro modo não estiver expresso, terão efeitos análogos aos do Regulamento de Disciplina Militar, consideradas a sua natureza e equivalência.
+Art. 22.º As penas aplicadas nos termos deste regulamento, quando nele de outro modo não estiver expresso, terão efeitos análogos aos do Regulamento de Disciplina Militar, consideradas a sua natureza e equivalência.
 
-###### Art. 23.º Quando for necessário comparar penas de diferente natureza, deve entender-se que são equivalentes:
+Art. 23.º Quando for necessário comparar penas de diferente natureza, deve entender-se que são equivalentes:
 
 Um dia de prisão disciplinar;
 
@@ -304,15 +316,15 @@ Quatro repreensões agravadas.
 
 #### SECÇÃO I
 
-###### Art. 24.º Para o pessoal dos quadros sujeito às penas do Regulamento de Disciplina Militar o limite de competência disciplinar das autoridades da Organização é o que consta do quadro I anexo a este estatuto.
+Art. 24.º Para o pessoal dos quadros sujeito às penas do Regulamento de Disciplina Militar o limite de competência disciplinar das autoridades da Organização é o que consta do quadro I anexo a este estatuto.
 
-###### Art. 25.º Para o pessoal dos quadros sujeito às penas do Estatuto do Funcionalismo Ultramarino o limite da competência disciplinar das autoridades da Organização será o das respectivas categorias no quadro do funcionalismo.
+Art. 25.º Para o pessoal dos quadros sujeito às penas do Estatuto do Funcionalismo Ultramarino o limite da competência disciplinar das autoridades da Organização será o das respectivas categorias no quadro do funcionalismo.
 
-###### Art. 26.º Para o pessoal do quadro geral o limite da competência das autoridades da Organização será o designado no quadro II anexo a este estatuto.
+Art. 26.º Para o pessoal do quadro geral o limite da competência das autoridades da Organização será o designado no quadro II anexo a este estatuto.
 
-###### Art. 27.º Para o pessoal do quadro especial observar-se-ão as alterações que constam do capítulo IV deste estatuto.
+Art. 27.º Para o pessoal do quadro especial observar-se-ão as alterações que constam do capítulo IV deste estatuto.
 
-###### Art. 28.º A competência disciplinar das diversas autoridades da Organização, no que respeita a recompensa, é seguinte:
+Art. 28.º A competência disciplinar das diversas autoridades da Organização, no que respeita a recompensa, é seguinte:
 
 1.º Governador:
 
@@ -338,7 +350,7 @@ Louvar em ordem de serviço o pessoal seu subordinado que o mereça, conceder di
 
 (Alteração na aplicação das normas do Regulamento de Disciplina Militar)
 
-###### Art. 29.º Os voluntários que atingirem a 4.ª classe de comportamento serão eliminados da Organização, não podendo vir a alistar-se noutro qualquer quadro.
+Art. 29.º Os voluntários que atingirem a 4.ª classe de comportamento serão eliminados da Organização, não podendo vir a alistar-se noutro qualquer quadro.
 
 § único. Os voluntários eliminados, nos termos do corpo deste artigo perdem todos os direitos pelo contrato do seu alistamento, sendo da sua conta o transporte da sede da unidade a que pertenciam para qualquer outro ponto da província ou fora dela a que desejem dirigir-se.
 
@@ -346,9 +358,9 @@ Ministério do Ultramar, 20 de Novembro de 1965. - O Ministro do Ultramar, Joaqu
 
 Quadro I a que se refere o artigo 24.º do estatuto Disciplinar das Organizações Provinciais de Voluntários e Defesa Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/26400/15011505.pdf))](https://files.diariodarepublica.pt/1s/1965/11/26400/15011505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/26400/15011505.pdf)
 
-## Apêndice ao quadro I
+Apêndice ao quadro I
 
 Governador ... I
 
@@ -366,9 +378,9 @@ Comandante de companhia incorporada, comandante de destacamento ou pelotão inde
 
 Quadro II a que se refere o artigo 26.º do Estatuto Disciplinar das Organizações Provinciais de Voluntários e Defesa Civil
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/11/26400/15011505.pdf))](https://files.diariodarepublica.pt/1s/1965/11/26400/15011505.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/11/26400/15011505.pdf)
 
-## Apêndice ao quadro II
+Apêndice ao quadro II
 
 I) Governador.
 

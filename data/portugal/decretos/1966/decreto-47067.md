@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47067-1966-474923
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 678cd1876e905210e8e81332092690f62f372e4ee279c0013712773f51d1ea2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd9acd9709ec92e51e395339ee87370cb1874bcb9935a29a5bb69845b90db786
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:671618:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:25Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +102,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º e seu § 1.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O prazo de importação temporária previsto no [Decreto n.º 38914](https://diariodarepublica.pt/dr/detalhe/decreto/38914-1952-671618), de 16 de Setembro de 1952, para veículos automóveis pertencentes a funcionários civis ou militares em comissão de serviço no ultramar, pode ser prorrogado por despacho do governador da província, até ao termo das respectivas comissões de serviço, mediante o pagamento dos emolumentos gerais devidos.
+Artigo 1.º O prazo de importação temporária previsto no [Decreto n.º 38914](https://diariodarepublica.pt/dr/detalhe/decreto/38914-1952-671618), de 16 de Setembro de 1952, para veículos automóveis pertencentes a funcionários civis ou militares em comissão de serviço no ultramar, pode ser prorrogado por despacho do governador da província, até ao termo das respectivas comissões de serviço, mediante o pagamento dos emolumentos gerais devidos.
 
-###### Art. 2.º É revogado o artigo 107.º das instruções preliminares das pautas aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
+Art. 2.º É revogado o artigo 107.º das instruções preliminares das pautas aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957.
 
-###### Art. 3.º É isento de direitos e mais imposições aduaneiras, com excepção do imposto do selo do despacho, o gesso em bruto, importado a granel, quando destinado à agricultura, mediante parecer favorável dos serviços de agricultura e florestas e desde que não haja jazigos em exploração em território nacional que o produzam em boas condições de qualidade e preço.
+Art. 3.º É isento de direitos e mais imposições aduaneiras, com excepção do imposto do selo do despacho, o gesso em bruto, importado a granel, quando destinado à agricultura, mediante parecer favorável dos serviços de agricultura e florestas e desde que não haja jazigos em exploração em território nacional que o produzam em boas condições de qualidade e preço.
 
 § único. O regime previsto no corpo do artigo é aplicável aos bilhetes de despacho pendentes de liquidação e pagamento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

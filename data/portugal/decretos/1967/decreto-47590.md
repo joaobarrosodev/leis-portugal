@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47590-1967-503404
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07e3e0b05f2b587e4a3b78c6da56a354a693689833ed5eb9c38c8152cba5dea2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8baa2b6c25a5b80551eb71b44dd0e2b9891e72cce20e1efc7dd2ca065e1ffe01
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:575768:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:47Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +92,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No Código do Trabalho Rural, aprovado pelo [Decreto n.º 44309](https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768), de 27 de Abril de 1962, são introduzidas as seguintes alterações e aditamentos:
+Artigo 1.º No Código do Trabalho Rural, aprovado pelo [Decreto n.º 44309](https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768), de 27 de Abril de 1962, são introduzidas as seguintes alterações e aditamentos:
 
 ...
 
-###### Art. 4.º - 1. ...
+Art. 4.º - 1. ...
 
 2. ...
 
@@ -102,7 +106,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. Não são considerados trabalhadores efectivos os contratados em substituição de outros, qualquer que seja o tempo de prestação de trabalho. Porém, decorrido o prazo de seis meses, adquirem os direitos e regalias que o presente código assegura àqueles, continuando, todavia, o contrato a ser a prazo, caducando logo que o substituído regresse ao serviço, se este tiver sido identificado no contrato do substituto, indicando-se o motivo da suspensão.
 
-###### Art. 13.º - 1. ...
+Art. 13.º - 1. ...
 
 2. ...
 
@@ -118,13 +122,13 @@ Se, posteriormente à situação prevista nos §§ 4 e 5, os trabalhadores quise
 
 ...
 
-###### Art. 105.º - 1. A empresa que faltar, no todo ou em parte, à obrigação de conceder férias, além de se sujeitar à multa cominada no artigo 314.º, pagará ainda ao trabalhador prejudicado uma indemnização equivalente ao quádruplo dos salários correspondentes ao período de férias não gozado.
+Art. 105.º - 1. A empresa que faltar, no todo ou em parte, à obrigação de conceder férias, além de se sujeitar à multa cominada no artigo 314.º, pagará ainda ao trabalhador prejudicado uma indemnização equivalente ao quádruplo dos salários correspondentes ao período de férias não gozado.
 
 2. O disposto no parágrafo anterior não prejudica o direito irrenunciável aos dias de férias devidos ao trabalhador, cujo gozo iniciará imediatamente a seguir à constatação da falta.
 
 ...
 
-###### Art. 210.º - 1. ...
+Art. 210.º - 1. ...
 
 2. ...
 
@@ -136,7 +140,7 @@ Se, posteriormente à situação prevista nos §§ 4 e 5, os trabalhadores quise
 
 ...
 
-###### Art. 248.º - 1. ...
+Art. 248.º - 1. ...
 
 2. ...
 
@@ -148,11 +152,11 @@ Se, posteriormente à situação prevista nos §§ 4 e 5, os trabalhadores quise
 
 ...
 
-###### Art. 314.º As empresas que infringirem as disposições deste código relativas à concessão de férias anuais incorrerão na multa de 500$00 a 2000$00.
+Art. 314.º As empresas que infringirem as disposições deste código relativas à concessão de férias anuais incorrerão na multa de 500$00 a 2000$00.
 
-###### Art. 2.º Fica revogado o § 2 do artigo 314.º do Código do Trabalho Rural, aprovado pelo [Decreto n.º 44309](https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768), de 27 de Abril de 1962.
+Art. 2.º Fica revogado o § 2 do artigo 314.º do Código do Trabalho Rural, aprovado pelo [Decreto n.º 44309](https://diariodarepublica.pt/dr/detalhe/decreto/44309-1962-575768), de 27 de Abril de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

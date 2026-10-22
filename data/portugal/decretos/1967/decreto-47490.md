@@ -47,40 +47,54 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47490-1967-239377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-10-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7ad90d2775bf93cff0d720ed9294b20c80fadda57f9a6626f2f4785596c4f5c0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ba45672eea47c9d3d54b3b4b60311d5ba20e20d8f19c613630a52a522f4fcb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Depósito Franco
+- Equipamento Eletrónico
+- Estabelecimento Industrial
+- Sociedade Anónima
 relationships:
 - type: amended_by
   target: pt:dre:441327:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "ALTERADOS O PARAG 2 DO ART 1 E O CORPO DO ART 6 E SEU PARAG 3, E A DENOMINAÇÃO DA EMPRESA GENERAL INSTRUMENT LUSITANA,\
+    \ SARL, PARA DCP - PRODUTO S INDUSTRIAIS, SARL, PELO DEC 153/78 DE 15-DEZ DR.IS [287]\0DR.IS [287]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1978-12-15'
+- type: cites
+  target: pt:dre:234506:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:00Z'
   warnings: []
   errors: []
 ---
@@ -89,27 +103,27 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a General Instrument Luzitana, S. A. R. L., a estabelecer um depósito franco na sua fábrica situada em Arruda dos Vinhos, Quinta de S. João.
+Artigo 1.º É autorizada a General Instrument Luzitana, S. A. R. L., a estabelecer um depósito franco na sua fábrica situada em Arruda dos Vinhos, Quinta de S. João.
 
 § 1.º A instalação referida no corpo deste artigo será exteriormente resguardada por uma vedação, de conformidade com o artigo 144.º da Reforma Aduaneira, aprovada pelo [Decreto-Lei n.º 46311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46311-1965-234506), de 27 de Abril de 1965.
 
 § 2.º Neste depósito franco a empresa propõe-se fabricar, construir e montar instrumentos electrónicos e suas peças, tais como forquetas de desvio, transformadores de saída horizontal, conjuntos de bobina de convergência, transformadores intermédios de frequência e outros componentes de aparelhos de rádio e televisão, compreendendo bobinas, semicondutores, capacitadores e sintonizadores.
 
-###### Art. 2.º Junto do depósito franco funcionará um posto fiscal com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
+Art. 2.º Junto do depósito franco funcionará um posto fiscal com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
 
 § 1.º Todas as despesas com a criação e manutenção do posto são de conta da empresa proprietária do depósito franco.
 
 § 2.º A empresa fornecerá instalações para o serviço da Guarda Fiscal, as quais deverão ser aprovadas pelo seu Comando-Geral.
 
-###### Art. 3.º No recinto da instalação haverá um gabinete para ser utilizado apenas pelos funcionários aduaneiros que ali vão fazer serviço.
+Art. 3.º No recinto da instalação haverá um gabinete para ser utilizado apenas pelos funcionários aduaneiros que ali vão fazer serviço.
 
 § único. As despesas de instalação e manutenção deste gabinete serão suportadas pela empresa proprietária do depósito franco.
 
-###### Art. 4.º Quando se reconhecer necessária a criação de uma estância aduaneira junto do depósito franco, constituirá encargo da respectiva empresa a sua conveniente instalação e manutenção, nos termos que forem indicados pela Direcção-Geral das Alfândegas.
+Art. 4.º Quando se reconhecer necessária a criação de uma estância aduaneira junto do depósito franco, constituirá encargo da respectiva empresa a sua conveniente instalação e manutenção, nos termos que forem indicados pela Direcção-Geral das Alfândegas.
 
-###### Art. 5.º Sempre que o entenda conveniente, a alfândega mandará visitar as instalações da fábrica, a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação.
+Art. 5.º Sempre que o entenda conveniente, a alfândega mandará visitar as instalações da fábrica, a fim de averiguar das condições de segurança fiscal, podendo visitar todas as dependências, examinar livros e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação.
 
-###### Art. 6.º Os materiais e peças vindos do estrangeiro entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.
+Art. 6.º Os materiais e peças vindos do estrangeiro entrarão no recinto do depósito franco mediante bilhete de entrada referido no § 5.º do artigo 146.º da Reforma Aduaneira.
 
 § 1.º A alfândega verificará a qualidade dessas mercadorias, que se devem destinar à fabricação, construção e montagem dos instrumentos e peças indicados no § 2.º do artigo 1.º
 
@@ -117,21 +131,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º A simplificação de formalidades do despacho de entrada no depósito franco de materiais e peças estrangeiros não dispensa o cumprimento das disposições relativas ao registo na Repartição do Comércio Externo.
 
-###### Art. 7.º A entrada no recinto do depósito franco de peças e materiais de fabrico nacional ou nacionalizados far-se-á mediante a apresentação de relações desse material, em triplicado, as quais serão conferidas e visadas no posto fiscal, ficando ali arquivado um dos exemplares, enviando outro à respectiva estância aduaneira e entregando o restante ao interessado.
+Art. 7.º A entrada no recinto do depósito franco de peças e materiais de fabrico nacional ou nacionalizados far-se-á mediante a apresentação de relações desse material, em triplicado, as quais serão conferidas e visadas no posto fiscal, ficando ali arquivado um dos exemplares, enviando outro à respectiva estância aduaneira e entregando o restante ao interessado.
 
 § único. No caso de o interessado prever que alguma peça ou material tenha de ser retirado do recinto, poderá pedir que a estância aduaneira tome as confrontações necessárias para futura identificação.
 
-###### Art. 8.º Do mesmo modo se procederá para a entrada no recinto de ferramentas e utensílios nacionais ou nacionalizados.
+Art. 8.º Do mesmo modo se procederá para a entrada no recinto de ferramentas e utensílios nacionais ou nacionalizados.
 
 § único. Os que não puderem ser identificados ou que tenham entrado com isenção de direitos ficam sujeitos a estes, se forem retirados para consumo no País.
 
-###### Art. 9.º Os materiais, peças e máquinas estrangeiros entrados no depósito franco ao abrigo desta autorização, quando desviados do seu destino ou aplicação, serão considerados em delito de descaminho.
+Art. 9.º Os materiais, peças e máquinas estrangeiros entrados no depósito franco ao abrigo desta autorização, quando desviados do seu destino ou aplicação, serão considerados em delito de descaminho.
 
 Por estas infracções, quando praticadas pelos seus empregados, é subsidiàriamente responsável a empresa.
 
-###### Art. 10.º A Direcção-Geral dos Serviços Industriais participará à das Alfândegas qualquer infracção fiscal de que tenha conhecimento.
+Art. 10.º A Direcção-Geral dos Serviços Industriais participará à das Alfândegas qualquer infracção fiscal de que tenha conhecimento.
 
-###### Art. 11.º A entrada no depósito franco de máquinas, aparelhos, utensílios e ferramentas para utilização temporária na fábrica, bem como de artefactos ou peças que hajam de servir de modelo ou para estudo, far-se-á mediante o processamento de guia especial, independentemente de prestação de garantia, mas com verificação e reverificação pela alfândega e tomada de sinais para futuras confrontações.
+Art. 11.º A entrada no depósito franco de máquinas, aparelhos, utensílios e ferramentas para utilização temporária na fábrica, bem como de artefactos ou peças que hajam de servir de modelo ou para estudo, far-se-á mediante o processamento de guia especial, independentemente de prestação de garantia, mas com verificação e reverificação pela alfândega e tomada de sinais para futuras confrontações.
 
 § 1.º Estas guias serão registadas e transcritas num livro existente no posto fiscal, sendo nele dada a respectiva baixa sempre que se faça a correspondente saída do depósito franco.
 
@@ -139,17 +153,17 @@ Por estas infracções, quando praticadas pelos seus empregados, é subsidiària
 
 § 3.º O prazo a que se refere o parágrafo anterior poderá ser prorrogado pela alfândega a solicitação da empresa, em pedido devidamente justificado.
 
-###### Art. 12.º É livre de direitos a saída do depósito franco:
+Art. 12.º É livre de direitos a saída do depósito franco:
 
 1.º Das peças e materiais referidos no artigo 7.º e respectivos desperdícios;
 
 2.º Das taras, quando não tenham inscrição especial na pauta de importação e sejam de uso habitual.
 
-###### Art. 13.º Os materiais e peças estrangeiros inutilizados ficam sujeitos aos direitos devidos no estado em que se encontram.
+Art. 13.º Os materiais e peças estrangeiros inutilizados ficam sujeitos aos direitos devidos no estado em que se encontram.
 
-###### Art. 14.º Os direitos devidos pelos produtos da fábrica destinados ao mercado interno, sempre que sejam considerados de fabrico nacional, em conformidade com o artigo 1.º do Decreto-Lei n.º 37683, de 24 de Dezembro de 1949, serão iguais aos mais favoráveis aplicáveis a idênticos produtos quando importados do estrangeiro.
+Art. 14.º Os direitos devidos pelos produtos da fábrica destinados ao mercado interno, sempre que sejam considerados de fabrico nacional, em conformidade com o artigo 1.º do Decreto-Lei n.º 37683, de 24 de Dezembro de 1949, serão iguais aos mais favoráveis aplicáveis a idênticos produtos quando importados do estrangeiro.
 
-###### Art. 15.º É permitida a saída temporária do depósito franco de:
+Art. 15.º É permitida a saída temporária do depósito franco de:
 
 a) Peças ou equipamento para reparação;
 
@@ -159,7 +173,7 @@ b) Peças para incorporação de produto nacional.
 
 § 2.º Esta guia será registada e transcrita em livro existente no posto fiscal e nele será dada baixa quando a peça regressar ao recinto do depósito franco.
 
-###### Art. 16.º Para a saída do depósito franco dos produtos ali fabricados será processada pela empresa uma guia especial, da qual constem a quantidade, a qualidade, o peso, o valor, a forma de embalagem e o destino desses produtos, a qual servirá de título de propriedade para conferir o respectivo bilhete de despacho, que será:
+Art. 16.º Para a saída do depósito franco dos produtos ali fabricados será processada pela empresa uma guia especial, da qual constem a quantidade, a qualidade, o peso, o valor, a forma de embalagem e o destino desses produtos, a qual servirá de título de propriedade para conferir o respectivo bilhete de despacho, que será:
 
 1.º De importação, se o destino for o consumo interno;
 
@@ -169,16 +183,16 @@ b) Peças para incorporação de produto nacional.
 
 § único. Qualquer dos despachos referidos no corpo deste artigo será processado nos termos do Regulamento das Alfândegas e sujeito ao cumprimento de todas as formalidades legais.
 
-###### Art. 17.º Os produtos despachados para exportação seguirão acompanhados de fiscalização até à fronteira ou local de embarque, consoante a via utilizada.
+Art. 17.º Os produtos despachados para exportação seguirão acompanhados de fiscalização até à fronteira ou local de embarque, consoante a via utilizada.
 
 § único. Quando a exportação não possa efectuar-se no todo ou em parte, deverão os aludidos produtos regressar ao depósito franco, salvo se se preferir pagar os respectivos direitos de importação.
 
-###### Art. 18.º O expediente do despacho poderá correr em qualquer estância aduaneira dependente da Alfândega de Lisboa para isso autorizada pela respectiva direcção.
+Art. 18.º O expediente do despacho poderá correr em qualquer estância aduaneira dependente da Alfândega de Lisboa para isso autorizada pela respectiva direcção.
 
 Para as outras casas fiscais não pertencentes àquela Alfândega a autorização referida compete à Direcção-Geral das Alfândegas e poderá ser concedida, a requerimento da empresa interessada, por períodos anuais para determinada estância aduaneira.
 
-###### Art. 19.º A alfândega dará ao serviço da Guarda Fiscal junto do depósito franco as instruções que julgue convenientes para a defesa dos interesses da Fazenda Nacional e resolverá as dúvidas que pelos mesmos serviços forem postas.
+Art. 19.º A alfândega dará ao serviço da Guarda Fiscal junto do depósito franco as instruções que julgue convenientes para a defesa dos interesses da Fazenda Nacional e resolverá as dúvidas que pelos mesmos serviços forem postas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

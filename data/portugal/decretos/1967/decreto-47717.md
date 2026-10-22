@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/11900/10911092.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,51 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47717-1967-312868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-10-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f043c4b533c0e4e8f9cb8864dde9b56e64c8363b027ba0109510ff0f870d5230
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ad4005716940a19dc3964d0bbf8f8bbbb207842528fd26b6d8773de979d4f0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Força Aérea
+- Tribunal de Contas
 relationships:
 - type: amended_by
   target: pt:dre:328030:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:351973:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:328030:por
+  label: "Revogado pelo DEC LEI.305/78.1978.10.19.CR, DR.IS [241]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/305-1978-328030
+  date: '1978-10-19'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:48Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +108,7 @@ Tornando-se necessário que a Direcção do Serviço de Intendência e Contabili
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. As contas a que se refere o artigo 2.º do [Decreto-Lei n.º 41809](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41809-1958-351973), de 9 de Agosto de 1958, serão remetidas, pelos conselhos administrativos, à Direcção do Serviço de Intendência e Contabilidade da Força Aérea ou suas delegações, nas regiões e zonas aéreas onde existam, dentro dos seguintes prazos:
+Artigo único. As contas a que se refere o artigo 2.º do [Decreto-Lei n.º 41809](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41809-1958-351973), de 9 de Agosto de 1958, serão remetidas, pelos conselhos administrativos, à Direcção do Serviço de Intendência e Contabilidade da Força Aérea ou suas delegações, nas regiões e zonas aéreas onde existam, dentro dos seguintes prazos:
 
 Continente - até 31 de Maio do ano seguinte àquele a que dizem respeito;
 
@@ -111,6 +122,6 @@ As referidas contas, depois de verificadas, serão remetidas pela Direcção do 
 
 § 2.º A presente disposição é aplicável às contas ainda não apresentadas àquela Direcção-Geral.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Fernando Alberto de Oliveira.

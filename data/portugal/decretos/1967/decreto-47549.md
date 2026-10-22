@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47549-1967-504492
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0bc5293d7c830b187392db1c6f95cdce984db1e07aadc4a153c3421969dc70de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97c195d64bab8488a74083937f5bac92f4072bbfc24071bb146a55542494f3cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:23Z'
   warnings: []
   errors: []
 ---
@@ -98,13 +122,13 @@ Dado o que dispõe o § 1.º do artigo 150.º da Constituição, por motivo de u
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar, em representação da província de S. Tomé e Príncipe, autorizado a celebrar um contrato de concessão com uma sociedade a constituir em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar, em representação da província de S. Tomé e Príncipe, autorizado a celebrar um contrato de concessão com uma sociedade a constituir em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
 
 § único. A sociedade a que se refere o corpo deste artigo deverá constituir-se dentro de 90 dias a contar da data deste decreto.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

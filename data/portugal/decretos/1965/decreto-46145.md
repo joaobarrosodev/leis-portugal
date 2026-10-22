@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46145-1965-226621
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3e88324adb81c9f548f65db4ef68d7bdef25a3e273734224e6f1e3bdd671d039
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2e7483ecae7232ee2536de5baf6726dd8247dd49f4d99c83c93dd3196fc5eb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:265142:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:537650:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:50Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Considerando que o crescente condicionalismo na obtenção de oficiais do quadro
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O § 2.º do artigo 1.º do [Decreto n.º 45925](https://diariodarepublica.pt/dr/detalhe/decreto/45925-1964-537650), de 16 de Setembro de 1964, passa a ter a seguinte redacção:
+Artigo único. O § 2.º do artigo 1.º do [Decreto n.º 45925](https://diariodarepublica.pt/dr/detalhe/decreto/45925-1964-537650), de 16 de Setembro de 1964, passa a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -99,6 +103,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º O limite de oficiais a admitir poderá ir até 50 por cento do número de subalternos do quadro orgânico da corporação. Igual percentagem do número de capitães do quadro orgânico poderá ser considerada para o preenchimento de vagas por oficiais do quadro de complemento nos termos do parágrafo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

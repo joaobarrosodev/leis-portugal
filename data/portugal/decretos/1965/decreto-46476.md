@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46476-1965-292554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1984-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f2e9222371b3d6b9cdaae6c98e1d805788e175fd508879587bc3bb3a34d5377
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8096e998e2a59a3f5bae64341f3e9543af5da1f62df2bf2f5e8404685624c8f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Desporto
+- Desporto Escolar
+- Direcção Geral da Educação Física Desportos e Saúde Escolar
+- Orgânica
+- Organização Desportiva
 relationships:
 - type: amended_by
   target: pt:dre:396487:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:396487:por
+  label: "Dada nova redacção ao art. 3º, com as alterações introduzidas pelo art. único do Dec 48887, de 01-Mar 1969, pelo\
+    \ DR.92/84.1984.12.27.MQV, DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/92-1984-396487
+  date: '1984-12-27'
+- type: cites
+  target: pt:dre:398802:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577131:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:16Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +114,17 @@ Convindo ainda adoptar algumas disposições sobre matérias afins;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943:
+Artigo 1.º São alterados, pela forma abaixo indicada, os seguintes artigos do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 12.º Exercer as demais actividades que lhe forem determinadas dentro da sua competência técnica, nomeadamente nos estabelecimentos de ensino de educação física pelo que respeita aos serviços de medicina desportiva.
 
-###### Art. 7.º O director-geral poderá determinar que as funções atribuías no artigo anterior aos médicos dos desportos sejam desempenhadas pelos médicos escolares em acumulação com as próprias.
+Art. 7.º O director-geral poderá determinar que as funções atribuías no artigo anterior aos médicos dos desportos sejam desempenhadas pelos médicos escolares em acumulação com as próprias.
 
 ...
 
-###### Art. 13.º ...
+Art. 13.º ...
 
 c) Um médico dos serviços de medicina desportiva da Organização Nacional Mocidade Portuguesa;
 
@@ -115,23 +134,23 @@ e) [Antiga alínea d)].
 
 ...
 
-###### Art. 17.º Os delegados regionais ou locais são livremente nomeados pelo Ministro da Educação Nacional, sobre proposta do director-geral, pelo período de dois anos.
+Art. 17.º Os delegados regionais ou locais são livremente nomeados pelo Ministro da Educação Nacional, sobre proposta do director-geral, pelo período de dois anos.
 
 § único. Os referidos delegados podem ser reconduzidos uma ou mais vezes, por iguais períodos, e livremente exonerados em qualquer momento, e exercem gratuitamente as suas funções.
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 2.º Promover por todos os meios ao seu alcance, incluindo a imprensa e a radiodifusão e radiotelevisão, a divulgação do gosto pelas práticas gimno-desportivas e propor à Direcção-Geral as providências que para este fim entenderem convenientes.
 
 ...
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 § 1.º As associações e as federações terão ainda, obrigatoriamente, um conselho técnico e um conselho jurisdicional, este constituído na sua maioria por licenciados em Direito.
 
 ...
 
-###### Art. 26.º ...
+Art. 26.º ...
 
 § 1.º A eleição dos corpos gerentes dos organismos desportivos está sujeita a homologação do Ministro da Educação Nacional e só produz efeito depois de publicada no Diário do Governo a declaração de essa homologação haver sido concedida.
 
@@ -143,21 +162,21 @@ e) [Antiga alínea d)].
 
 ...
 
-###### Art. 41.º O Fundo de Auxílio a Organismos Desportivos continuará a reger-se pelo disposto nos Decretos-Leis n.os 35992 e 42085, respectivamente de 23 de Novembro de 1946 e de 3 de Janeiro de 1959.
+Art. 41.º O Fundo de Auxílio a Organismos Desportivos continuará a reger-se pelo disposto nos Decretos-Leis n.os 35992 e 42085, respectivamente de 23 de Novembro de 1946 e de 3 de Janeiro de 1959.
 
 ...
 
-###### Art. 51.º As federações e associações devem submeter à aprovação da Direcção-Geral, até dez dias antes do início da época desportiva, os calendários das provas oficiais e, até à antevéspera de cada uma destas, o respectivo programa, com indicação dos locais e horários das competições a realizar.
+Art. 51.º As federações e associações devem submeter à aprovação da Direcção-Geral, até dez dias antes do início da época desportiva, os calendários das provas oficiais e, até à antevéspera de cada uma destas, o respectivo programa, com indicação dos locais e horários das competições a realizar.
 
 § único. Serão entregues aos organismos desportivos (duplicados dos programas aprovados, devidamente autenticados pelo director-geral, para efeito de visto da Inspecção dos Espectáculos.
 
 ...
 
-###### Art. 57.º É reservada à Mocidade Portuguesa a organização de competições desportivas escolares, com excepção das realizadas no âmbito do ensino superior.
+Art. 57.º É reservada à Mocidade Portuguesa a organização de competições desportivas escolares, com excepção das realizadas no âmbito do ensino superior.
 
 ...
 
-###### Art. 59.º São condições para a obtenção da licença a que se refere o artigo anterior:
+Art. 59.º São condições para a obtenção da licença a que se refere o artigo anterior:
 
 a) Ter, pelo menos, 16 anos de idade;
 
@@ -167,7 +186,7 @@ b) Possuir a necessária aptidão física, comprovada por um centro de medicina 
 
 ...
 
-###### Art. 60.º As condições de inscrição de estrangeiros para a disputa de competições oficiais ou particulares serão as estabelecidas pelas respectivas federações, com a aprovação do Ministro da Educação Nacional.
+Art. 60.º As condições de inscrição de estrangeiros para a disputa de competições oficiais ou particulares serão as estabelecidas pelas respectivas federações, com a aprovação do Ministro da Educação Nacional.
 
 § 1.º Nas provas de equipa o número de jogadores estrangeiros não poderá ultrapassar um terço do total.
 
@@ -175,27 +194,27 @@ b) Possuir a necessária aptidão física, comprovada por um centro de medicina 
 
 ...
 
-###### Art. 62.º O desportista que alguma vez tenha estado inscrito como representante de um clube para a disputa de competições oficiais só poderá mudar de clube depois a isso autorizado pela respectiva federação, observadas as disposições regulamentares estabelecidas de acordo com o artigo 1.º do [Decreto-Lei n.º 45750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45750-1964-577131), de 3 de Junho de 1964.
+Art. 62.º O desportista que alguma vez tenha estado inscrito como representante de um clube para a disputa de competições oficiais só poderá mudar de clube depois a isso autorizado pela respectiva federação, observadas as disposições regulamentares estabelecidas de acordo com o artigo 1.º do [Decreto-Lei n.º 45750](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45750-1964-577131), de 3 de Junho de 1964.
 
 (Eliminados os parágrafos).
 
 ...
 
-###### Art. 67.º As comissões centrais funcionam junto da respectiva federação e são compostas de um presidente, escolhido pelo director-geral, e do número de vogais fixado nos respectivos estatutos ou regulamentos, onde se estabelecerá também o modo da sua designação.
+Art. 67.º As comissões centrais funcionam junto da respectiva federação e são compostas de um presidente, escolhido pelo director-geral, e do número de vogais fixado nos respectivos estatutos ou regulamentos, onde se estabelecerá também o modo da sua designação.
 
 § único. Aos referidos vogais é aplicável o disposto no § 1.º do artigo 26.º
 
-###### Art. 68.º As comissões centrais podem exercer a sua actividade através de comissões distritais que funcionem junto das respectivas associações e são compostas de um presidente, escolhido pelo director-geral, e do número de vogais fixado nos respectivos estatutos ou regulamentos, onde se estabelecerá também o modo da sua designação.
+Art. 68.º As comissões centrais podem exercer a sua actividade através de comissões distritais que funcionem junto das respectivas associações e são compostas de um presidente, escolhido pelo director-geral, e do número de vogais fixado nos respectivos estatutos ou regulamentos, onde se estabelecerá também o modo da sua designação.
 
 § único. Aos referidos vogais é aplicável o disposto no § 1.º do artigo 25.º
 
-###### Art. 92.º O Ministro da Educação Nacional fixará em portaria as pessoas com acesso a todos os recintos desportivos do território metropolitano e as condições desse acesso.
+Art. 92.º O Ministro da Educação Nacional fixará em portaria as pessoas com acesso a todos os recintos desportivos do território metropolitano e as condições desse acesso.
 
 (Eliminado o parágrafo).
 
-###### Artigo 2.º Os vogais referidos nos §§ 1.º e 2.º dos artigos 9.º, 11.º e 13.º do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943, serão designados por um período de dois anos, renovável por períodos de igual duração.
+Artigo 2.º Os vogais referidos nos §§ 1.º e 2.º dos artigos 9.º, 11.º e 13.º do [Decreto n.º 32946](https://diariodarepublica.pt/dr/detalhe/decreto/32946-1943-398802), de 3 de Agosto de 1943, serão designados por um período de dois anos, renovável por períodos de igual duração.
 
-###### Art. 3.º Independentemente do período de duração dos seus mandatos, os corpos gerentes dos clube seu exercício no começo do ano civil ou no começo da época de uma das modalidades em que participem em provas oficiais, conforme nos estatutos dos mesmos clubes se estabelecer.
+Art. 3.º Independentemente do período de duração dos seus mandatos, os corpos gerentes dos clube seu exercício no começo do ano civil ou no começo da época de uma das modalidades em que participem em provas oficiais, conforme nos estatutos dos mesmos clubes se estabelecer.
 
 § 1.º Os corpos gerentes dos restantes organismos desportivos iniciarão o seu exercício no começo das épocas das respectivas modalidades.
 
@@ -203,6 +222,6 @@ b) Possuir a necessária aptidão física, comprovada por um centro de medicina 
 
 § 3.º Nos corpos gerentes das federações só pode figurar, em cada mandato, o máximo de um terço dos indivíduos que exerceram o mandato anterior, ainda que se trate de cargos diversos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

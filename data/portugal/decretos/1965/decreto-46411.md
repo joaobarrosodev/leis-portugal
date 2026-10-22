@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46411-1965-295663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbfcd9b2f6afa8f3d224e8fdcece07c898d3a2f35819d32af7b71843047104eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c46f208622d40fb4027c2e680a72472e6190586d85e381c5740ae9b735b87845
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:41Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Considerando o disposto nos artigos 1.º, 2.º, alíneas a) e b), e 6.º, alíne
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A área de segurança confinante com o campo de tiro de Espinho, que fica sujeita a servidão militar nos termos do artigo 12.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, é constituída da seguinte forma, tomando por origem das distâncias a linha que limita a norte o terreno do campo de tiro de Espinho, que pertence ao Ministério do Exército:
+Artigo 1.º A área de segurança confinante com o campo de tiro de Espinho, que fica sujeita a servidão militar nos termos do artigo 12.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, é constituída da seguinte forma, tomando por origem das distâncias a linha que limita a norte o terreno do campo de tiro de Espinho, que pertence ao Ministério do Exército:
 
 a) A norte, por uma linha paralela à linha de origem acima definida e distanciada dela 350 m para o norte;
 
@@ -99,7 +107,7 @@ c) A nascente, pela linha do Norte, da Companhia dos Caminhos de Ferro Portugues
 
 d) A poente, pelo oceano Atlântico.
 
-###### Art. 2.º Na área limitada pelos alinhamentos referidos no artigo 1.º e nos termos do artigo 13.º da referida [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), é proibida, sem licença da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
+Art. 2.º Na área limitada pelos alinhamentos referidos no artigo 1.º e nos termos do artigo 13.º da referida [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), é proibida, sem licença da autoridade militar competente, a execução dos trabalhos e actividades seguintes:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas, subterrâneas ou aquáticas ou ampliar os edifícios já existentes com mais andares;
 
@@ -111,7 +119,7 @@ d) Instalar cabos de energia eléctrica aéreos ou subterrâneos;
 
 e) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segurança das instalações militares, ou a execução das missões que lhes competem.
 
-###### Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta militar de Portugal n.º 143, na escala de 1/25000 dos Serviços Cartográficos do Exército, tirando-se oito exemplares com a classificação de confidencial e destinados:
+Art. 3.º As zonas indicadas no artigo 1.º serão demarcadas na carta militar de Portugal n.º 143, na escala de 1/25000 dos Serviços Cartográficos do Exército, tirando-se oito exemplares com a classificação de confidencial e destinados:
 
 Um ao Secretariado-Geral da Defesa Nacional;
 
@@ -129,18 +137,18 @@ Um ao Ministério das Obras Públicas;
 
 Um ao Ministério do Interior.
 
-###### Art. 4.º Ao Comando da 1.ª Região Militar compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que neste decreto se faz referência.
+Art. 4.º Ao Comando da 1.ª Região Militar compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que neste decreto se faz referência.
 
-###### Art. 5.º A demolição das obras feitas ilegalmente e a aplicação de multas são da competência do serviço de fortificações e obras militares, através da sua repartição do património e das respectivas delegações.
+Art. 5.º A demolição das obras feitas ilegalmente e a aplicação de multas são da competência do serviço de fortificações e obras militares, através da sua repartição do património e das respectivas delegações.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 4.º cabe recurso hierárquico para o Ministro do Exército; das decisões tomadas nos termos do artigo 5.º cabe recurso hierárquico para o comandante da respectiva região militar.
+Art. 6.º Das decisões tomadas nos termos do artigo 4.º cabe recurso hierárquico para o Ministro do Exército; das decisões tomadas nos termos do artigo 5.º cabe recurso hierárquico para o comandante da respectiva região militar.
 
-###### Art. 7.º A fiscalização do cumprimento das disposições legais respeitantes às servidões referidas nos artigos anteriores, bem como do cumprimento das condições impostas nas licenças para a execução de quaisquer trabalhos ou actividades, compete ao serviço de fortificações e obras militares, bem como ao director da carreira de tiro de Espinho.
+Art. 7.º A fiscalização do cumprimento das disposições legais respeitantes às servidões referidas nos artigos anteriores, bem como do cumprimento das condições impostas nas licenças para a execução de quaisquer trabalhos ou actividades, compete ao serviço de fortificações e obras militares, bem como ao director da carreira de tiro de Espinho.
 
 Qualquer destas entidades pode proceder à fiscalização por intermédio de delegados seus.
 
 § único. Verificada qualquer infracção, deve o facto ser imediatamente comunicado à entidade competente para pôr em prática as sanções e os meios de repressão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - Eduardo de Arantes e Oliveira.

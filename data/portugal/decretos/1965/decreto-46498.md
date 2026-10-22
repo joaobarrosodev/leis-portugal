@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46498-1965-292363
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37962bec3e9f68fc29db00a29ecd2732979c64f724e56198348dd0d5d569351e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7f044c6a37f79941c93ff059a1d04fbbc262703796b6de55d857055a10319342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:149817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516706:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:552986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:585817:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:25Z'
   warnings: []
   errors: []
 ---
@@ -102,9 +122,9 @@ De harmonia com o disposto no § 1.º do artigo 150.º da Constituição Políti
 
 Usando da faculdade conferida pelo seu n.º 3.º, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao pessoal das companhias móveis de polícia, com excepção dos respectivos comandantes, poderá ser concedido o ingresso nos quadros da Polícia de Segurança Pública de Moçambique nos lugares vagos ou já criados que vierem a ser dotados.
+Artigo 1.º Ao pessoal das companhias móveis de polícia, com excepção dos respectivos comandantes, poderá ser concedido o ingresso nos quadros da Polícia de Segurança Pública de Moçambique nos lugares vagos ou já criados que vierem a ser dotados.
 
-###### Art. 2.º O ingresso far-se-á depois de findo o período da comissão na província ou da sua renovação, mediante requerimento, dirigido ao governador-geral, nas categorias respectivas, observando-se, porém, quanto aos subchefes e guardas o seguinte:
+Art. 2.º O ingresso far-se-á depois de findo o período da comissão na província ou da sua renovação, mediante requerimento, dirigido ao governador-geral, nas categorias respectivas, observando-se, porém, quanto aos subchefes e guardas o seguinte:
 
 a) Os primeiros e segundos-subchefes ingressarão na categoria de subchefe de esquadra;
 
@@ -112,15 +132,15 @@ b) Os guardas de 1.ª classe em igual categoria;
 
 c) Os guardas de 2.ª classe e os guardas provisórios na categoria de guardas de 2.ª classe.
 
-###### Art. 3.º Para efeitos dos artigos 47.º e 48.º do Estatuto do Corpo de Polícia de Segurança Pública, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, é considerado o tempo de serviço já prestado à data da nomeação na Polícia de Segurança Pública da metrópole.
+Art. 3.º Para efeitos dos artigos 47.º e 48.º do Estatuto do Corpo de Polícia de Segurança Pública, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, é considerado o tempo de serviço já prestado à data da nomeação na Polícia de Segurança Pública da metrópole.
 
 § único. A antiguidade do pessoal na categoria ou classe conta-se desde a data da passagem à respectiva classe ou da promoção na Polícia de Segurança Pública da metrópole, observado-se, em relação aos primeiros-subchefes, a data da promoção a segundo-subchefe, e, quanto aos guardas de 2.ª classe e provisórios, a data do alistamento.
 
-###### Art. 4.º Os quadros estabelecidos pelas Portarias n.os 18665, 18791 e 21208, respectivamente, de 14 de Agosto e 30 de Outubro de 1961 e 15 de Abril de 1965, consideram-se reduzidos no número de unidades igual às que forem ingressando no Corpo de Polícia de Segurança Pública de Moçambique.
+Art. 4.º Os quadros estabelecidos pelas Portarias n.os 18665, 18791 e 21208, respectivamente, de 14 de Agosto e 30 de Outubro de 1961 e 15 de Abril de 1965, consideram-se reduzidos no número de unidades igual às que forem ingressando no Corpo de Polícia de Segurança Pública de Moçambique.
 
-###### Art. 5.º A redacção do artigo 15.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, é alterada para a seguinte:
+Art. 5.º A redacção do artigo 15.º do [Decreto n.º 44241](https://diariodarepublica.pt/dr/detalhe/decreto/44241-1962-516706), de 19 de Março de 1962, é alterada para a seguinte:
 
-###### Art. 15.º As vagas de intendente de distrito e de inspector administrativo serão preenchidas, respectivamente, por administradores de circunscrição com mais de cinco anos de serviço efectivo na categoria e boas informações e por intendentes de distrito e chefes de secção da Direcção-Geral de Administração Política e Civil do Ministério do Ultramar com, pelo menos, três anos de serviço efectivo naquelas categorias e boas informações.
+Art. 15.º As vagas de intendente de distrito e de inspector administrativo serão preenchidas, respectivamente, por administradores de circunscrição com mais de cinco anos de serviço efectivo na categoria e boas informações e por intendentes de distrito e chefes de secção da Direcção-Geral de Administração Política e Civil do Ministério do Ultramar com, pelo menos, três anos de serviço efectivo naquelas categorias e boas informações.
 
 § 1.º O tempo de serviço prestado no quadro do Ministério do Ultramar como chefe de secção da Direcção-Geral de Administração Política e Civil é contado para efeitos de promoção a inspector administrativo.
 
@@ -136,17 +156,17 @@ b) Que, pelas informações reunidas, não mostrem ter a idoneidade moral precis
 
 c) Que não tenham revelado capacidade profissional.
 
-###### Art. 6.º O mapa I anexo ao [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, na parte respeitante ao comandante e adjunto, passa a ter a seguinte redacção:
+Art. 6.º O mapa I anexo ao [Decreto n.º 42223](https://diariodarepublica.pt/dr/detalhe/decreto/42223-1959-585817), de 18 de Abril de 1959, na parte respeitante ao comandante e adjunto, passa a ter a seguinte redacção:
 
 Um comandante (major ou capitão de qualquer arma ou serviço, do activo ou da reserva);
 
 Um adjunto (tenente de qualquer arma ou serviço, do activo ou da reserva).
 
-###### Art. 7.º Ao artigo 99.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, é acrescido um parágrafo, com a seguinte redacção:
+Art. 7.º Ao artigo 99.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, é acrescido um parágrafo, com a seguinte redacção:
 
 § único. O presente artigo não se aplica ao primeiro provimento dos lugares de enfermeiros ou enfermeiras-chefes criados pelo artigo 9.º do [Decreto-Lei n.º 44786](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44786-1962-552986), de 7 de Dezembro de 1962, nos quais serão providos os actuais enfermeiros ou enfermeiras de 1.ª classe, já concursados para os referidos lugares, segundo a ordem da respectiva classificação no concurso.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -50,36 +50,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47186-1966-479635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b32ddf014285423fc98ec77dba461ad90178e9ffd69109983b4652b6baa5eaf9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e010a110e37522fee8f9855a3314caa03ff638eddd47019868b7c7f2765cc43a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colónia Penitenciária de Alcoentre
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:17Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +95,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
 
 Encargos Gerais da Nação
 
@@ -148,21 +153,21 @@ Subsídios de deslocação, rendas de casas e encargos não especificados, do an
 
 ... 157845$70
 
-###### Art. 2.º Ficam autorizadas as repartições da Direcção-Geral da Contabilidade Pública junto dos Ministérios abaixo designados a mandarem satisfazer, em conta das respectivas dotações descritas nos orçamentos do actual ano económico, as quantias seguintes:
+Art. 2.º Ficam autorizadas as repartições da Direcção-Geral da Contabilidade Pública junto dos Ministérios abaixo designados a mandarem satisfazer, em conta das respectivas dotações descritas nos orçamentos do actual ano económico, as quantias seguintes:
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 246.º, n.º 2):
+Capítulo 4.º, artigo 246.º, n.º 2):
 
 Abono para falhas, do ano de 1964, do encarregado da tesouraria da Colónia Penitenciária de Alcoentre ... 200$00
 
 Ministério das Obras Públicas
 
-### Capítulo 7.º, artigo 93.º, n.º 2):
+Capítulo 7.º, artigo 93.º, n.º 2):
 
 Encargos referentes a telefones do ano de 1965 ... 645$00
 
-###### Art. 3.º São igualmente autorizados a satisfazer as quantias abaixo indicadas, em conta da verba de despesas de anos económicos findos inscrita nos seus actuais orçamentos privativos, os serviços seguintes:
+Art. 3.º São igualmente autorizados a satisfazer as quantias abaixo indicadas, em conta da verba de despesas de anos económicos findos inscrita nos seus actuais orçamentos privativos, os serviços seguintes:
 
 Colónia Penitenciária de Alcoentre
 
@@ -172,6 +177,6 @@ Instituto de Assistência Nacional aos Tuberculosos
 
 Pensão respeitante ao ano de 1965 arbitrada a uma ex-criada do Sanatório das Penhas da Saúde, por acidente de trabalho ... 600$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

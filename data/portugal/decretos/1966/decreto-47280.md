@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47280-1966-478436
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f218cf6bd04e99785c59f0a3ff0ffae13d0889bacbf53cf9da21b5ba674e843
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f14cead6c73301867a11b85650b4cbfb7b205f68e35f1d62faec7de4263308ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474531:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 30
-  section_count: 40
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:05Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +108,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério do Interior
 
@@ -154,111 +174,111 @@ Do artigo 142.º, n.º 1) «Pessoal dos quadros ...» ... -115000$00
 
 Para o artigo 143.º, n.º 2) «Remunerações por trabalhos extraordinários», alínea 1 «Pessoal dos serviços externos» ... +115000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 58681988$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 58681988$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 13.º «Encargos de empréstimos a realizar» ... 25000000$00
+Artigo 13.º «Encargos de empréstimos a realizar» ... 25000000$00
 
-### Capítulo 8.º «Direcção-Geral da Fazenda Pública»:
+Capítulo 8.º «Direcção-Geral da Fazenda Pública»:
 
-###### Artigo 71.º, n.º 4) «Pagamento de serviços ...» ... 30000$00
+Artigo 71.º, n.º 4) «Pagamento de serviços ...» ... 30000$00
 
-### Capítulo 12.º «Direcção-Geral das Alfândegas»:
+Capítulo 12.º «Direcção-Geral das Alfândegas»:
 
-###### Artigo 153.º, n.º 3) «Transportes» ... 285000$00
+Artigo 153.º, n.º 3) «Transportes» ... 285000$00
 
-### Capítulo 13.º «Guarda Fiscal»:
+Capítulo 13.º «Guarda Fiscal»:
 
-###### Artigo 163.º, n.º 2) «De semoventes»:
+Artigo 163.º, n.º 2) «De semoventes»:
 
 Alínea 1 «Veículos com motor» ... 50000$00
 
 Alínea 2 «Embarcações com motor» ... 20000$00
 
-###### Artigo 165.º, n.º 1) «Serviços clínicos ...», alínea 2 «Outras despesas» ... 70000$00
+Artigo 165.º, n.º 1) «Serviços clínicos ...», alínea 2 «Outras despesas» ... 70000$00
 
 ... 25455000$00
 
 Ministério do Interior
 
-### Capítulo 5.º «Polícia de Segurança Pública»:
+Capítulo 5.º «Polícia de Segurança Pública»:
 
-###### Artigo 67.º, n.º 3) «De móveis» ... 35000$00
+Artigo 67.º, n.º 3) «De móveis» ... 35000$00
 
-###### Artigo 68.º, n.º 2) «Impressos» ... 30000$00
+Artigo 68.º, n.º 2) «Impressos» ... 30000$00
 
-###### Artigo 70.º, n.º 3) «Transportes» ... 65000$00
+Artigo 70.º, n.º 3) «Transportes» ... 65000$00
 
-###### Artigo 73.º, n.º 3), alínea 1 «Despesas de ordem pública ...» ... 160000$00
+Artigo 73.º, n.º 3), alínea 1 «Despesas de ordem pública ...» ... 160000$00
 
-### Capítulo 7.º «Guarda Nacional Republicana»:
+Capítulo 7.º «Guarda Nacional Republicana»:
 
-###### Artigo 100.º, n.º 2) «Luz, ...» ... 60000$00
+Artigo 100.º, n.º 2) «Luz, ...» ... 60000$00
 
-###### Artigo 101.º, n.º 3) «Transportes» ... 70000$00
+Artigo 101.º, n.º 3) «Transportes» ... 70000$00
 
-###### Artigo 104.º, n.º 2) «Prémios e condecorações» ... 5000$00
+Artigo 104.º, n.º 2) «Prémios e condecorações» ... 5000$00
 
 ... 425000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º «Direcção-Geral da Justiça»:
+Capítulo 3.º «Direcção-Geral da Justiça»:
 
 Direcção-Geral
 
-###### Artigo 47.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 47.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante quatro meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf))](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf)
 
 Supremo Tribunal de Justiça
 
-###### Artigo 57.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 57.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante quatro meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf))](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf)
 
 Polícia Judiciária
 
 Quadro único
 
-###### Artigo 106.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros»:
+Artigo 106.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros»:
 
 (Durante quatro meses):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf))](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/24900/17451747.pdf)
 
 Subdirectoria de Lisboa
 
-###### Artigo 124.º, n.º 2) «Fardamentos, ...» ... 2363$00
+Artigo 124.º, n.º 2) «Fardamentos, ...» ... 2363$00
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais»:
 
 Cadeia do Forte de Peniche
 
-###### Artigo 322.º, n.º 1) «Alimentação, ...» ... 85525$00
+Artigo 322.º, n.º 1) «Alimentação, ...» ... 85525$00
 
 Colónia Penal do Bié
 
-###### Artigo 325.º «Outras despesas com o pessoal», n.º 5) «Abono para falhas» ... 4800$00
+Artigo 325.º «Outras despesas com o pessoal», n.º 5) «Abono para falhas» ... 4800$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Serviço de remoção de menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Serviço de remoção de menores»:
 
-###### Artigo 346.º, n.º 1) «Transportes» ... 15000$00
+Artigo 346.º, n.º 1) «Transportes» ... 15000$00
 
 ... 149488$00
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços da Armada - Sargentos e praças da Armada»:
+Capítulo 3.º «Superintendência dos Serviços da Armada - Sargentos e praças da Armada»:
 
-###### Artigo 28.º «Outras despesas com o pessoal»:
+Artigo 28.º «Outras despesas com o pessoal»:
 
 N.º 2), alínea 1 «Rações, ...» ... 5300000$00
 
@@ -268,136 +288,136 @@ N.º 3) «Subsídio para alimentação de sargentos ...» ... 1000000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 51.º «Construções e obras novas», n.º 3) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal», alínea 13 «Edifícios do Instituto de Assistência Nacional aos Tuberculosos» ... 208000$00
+Artigo 51.º «Construções e obras novas», n.º 3) «Construções e melhoramentos a efectuar por contrapartida da inscrição de iguais quantias no orçamento das receitas do Estado, incluindo despesas de pessoal», alínea 13 «Edifícios do Instituto de Assistência Nacional aos Tuberculosos» ... 208000$00
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado», alínea 14 «Edifícios da Direcção-Geral dos Serviços Florestais e Aquícolas» ... 250000$00
+Artigo 53.º «Despesas de conservação e aproveitamento do material», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado», alínea 14 «Edifícios da Direcção-Geral dos Serviços Florestais e Aquícolas» ... 250000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Hidráulicos»:
 
-###### Artigo 71.º-A «Outros encargos», n.º 1) «Indemnização proveniente de acidente fluvial provocado por um batelão» ... 17500$00
+Artigo 71.º-A «Outros encargos», n.º 1) «Indemnização proveniente de acidente fluvial provocado por um batelão» ... 17500$00
 
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 90.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 12000$00
+Artigo 90.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 12000$00
 
-### Capítulo 12.º «Plano Intercalar de Fomento»:
+Capítulo 12.º «Plano Intercalar de Fomento»:
 
-###### Artigo 102.º, n.º 1) «Conclusão da 1.ª fase do Plano de rega do Alentejo», alínea 3 «Rio Caia (7400 ha)» ... 25000000$00
+Artigo 102.º, n.º 1) «Conclusão da 1.ª fase do Plano de rega do Alentejo», alínea 3 «Rio Caia (7400 ha)» ... 25000000$00
 
 ... 25487500$00
 
 Ministério da Economia
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
 Comissão Técnica de Cooperação Económica Externa
 
-###### Artigo 11.º, n.º 1) «Pagamento de todos os encargos ...» ... 500000$00
+Artigo 11.º, n.º 1) «Pagamento de todos os encargos ...» ... 500000$00
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 5.º «Direcção-Geral dos Serviços Pecuários»:
 
 Postos zootécnicos (Miranda do Douro e Viana do Castelo)
 
-###### Artigo 141.º, n.º 1) «Participações em cobranças ou receitas» ... 85000$00
+Artigo 141.º, n.º 1) «Participações em cobranças ou receitas» ... 85000$00
 
 Secretaria de Estado da Indústria
 
-### Capítulo 14.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
+Capítulo 14.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
 
-###### Artigo 256.º, n.º 1) «Rendas de casa ...» ... 30000$00
+Artigo 256.º, n.º 1) «Rendas de casa ...» ... 30000$00
 
 ... 615000$00
 
 Ministério das Comunicações
 
-### Capítulo 13.º «Despesas de anos económicos findos»:
+Capítulo 13.º «Despesas de anos económicos findos»:
 
-###### Artigo 176.º «Despesas de anos económicos findos» ... 250000$00
+Artigo 176.º «Despesas de anos económicos findos» ... 250000$00
 
 ... 58681988$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 19.º «Imposto do selo» ... 25000000$00
+Capítulo 2.º, artigo 19.º «Imposto do selo» ... 25000000$00
 
-### Capítulo 7.º, artigo 168.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 4800$00
+Capítulo 7.º, artigo 168.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 4800$00
 
-### Capítulo 7.º, artigo 177.º «Reembolsos das despesas de construção, conservação, reparação e melhoramentos de edifícios» ... 458000$00
+Capítulo 7.º, artigo 177.º «Reembolsos das despesas de construção, conservação, reparação e melhoramentos de edifícios» ... 458000$00
 
-### Capítulo 8.º, artigo 249.º «Estabelecimentos zootécnicos» ... 85000$00
+Capítulo 8.º, artigo 249.º «Estabelecimentos zootécnicos» ... 85000$00
 
-### Capítulo 9.º, artigo 276.º «Produto da venda de títulos ou de empréstimos» ... 25000000$00
+Capítulo 9.º, artigo 276.º «Produto da venda de títulos ou de empréstimos» ... 25000000$00
 
 ... 50547800$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 500000$00
+Capítulo 1.º, artigo 13.º ... 500000$00
 
-### Capítulo 8.º, artigo 63.º, n.º 1) ... 30000$00
+Capítulo 8.º, artigo 63.º, n.º 1) ... 30000$00
 
-### Capítulo 12.º, artigo 146.º, n.º 1) ... 285000$00
+Capítulo 12.º, artigo 146.º, n.º 1) ... 285000$00
 
-### Capítulo 13.º, artigo 158.º, n.º 1) ... 140000$00
+Capítulo 13.º, artigo 158.º, n.º 1) ... 140000$00
 
 ... 955000$00
 
 Ministério do Interior
 
-### Capítulo 5.º, artigo 63.º, n.º 1) ... 290000$00
+Capítulo 5.º, artigo 63.º, n.º 1) ... 290000$00
 
-### Capítulo 7.º, artigo 93.º, n.º 1) ... 135000$00
+Capítulo 7.º, artigo 93.º, n.º 1) ... 135000$00
 
 ... 425000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º, artigo 47.º, n.º 1) ... 5200$00
+Capítulo 3.º, artigo 47.º, n.º 1) ... 5200$00
 
-### Capítulo 3.º, artigo 57.º, n.º 1) ... 13000$00
+Capítulo 3.º, artigo 57.º, n.º 1) ... 13000$00
 
-### Capítulo 3.º, artigo 106.º, n.º 1) ... 25963$00
+Capítulo 3.º, artigo 106.º, n.º 1) ... 25963$00
 
-### Capítulo 4.º, artigo 187.º, n.º 1) ... 85525$00
+Capítulo 4.º, artigo 187.º, n.º 1) ... 85525$00
 
-### Capítulo 5.º, artigo 435.º, n.º 1), alínea 1 ... 15000$00
+Capítulo 5.º, artigo 435.º, n.º 1), alínea 1 ... 15000$00
 
 ... 144688$00
 
 Ministério da Marinha
 
-### Capítulo 3.º, artigo 24.º, n.º 2) ... 300000$00
+Capítulo 3.º, artigo 24.º, n.º 2) ... 300000$00
 
-### Capítulo 5.º, artigo 198.º, n.º 1) ... 6000000$00
+Capítulo 5.º, artigo 198.º, n.º 1) ... 6000000$00
 
 ... 6300000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 5.º, artigo 65.º, n.º 1), alínea 1 ... 17500$00
+Capítulo 5.º, artigo 65.º, n.º 1), alínea 1 ... 17500$00
 
-### Capítulo 7.º, artigo 85.º, n.º 1) ... 12000$00
+Capítulo 7.º, artigo 85.º, n.º 1) ... 12000$00
 
 ... 29500$00
 
 Ministério da Economia
 
-### Capítulo 14.º, artigo 246.º, n.º 1) ... 30000$00
+Capítulo 14.º, artigo 246.º, n.º 1) ... 30000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 53.º, n.º 1) - Continente ... 250000$00
+Capítulo 4.º, artigo 53.º, n.º 1) - Continente ... 250000$00
 
 ... 58681988$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

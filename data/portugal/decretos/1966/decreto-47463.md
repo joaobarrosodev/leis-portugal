@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47463-1966-487973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 77f5956b57e64b31eb6b4a6bc663dc48968c36019122538c00ee3bbabda6d0bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 14f04607b351ec45a897e5b3236f785088a3ca536371cf46962f6cb67182a41e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:46Z'
   warnings: []
   errors: []
 ---
@@ -87,78 +99,78 @@ Com fundamento na alínea a) do artigo 33.º e nas alíneas b) e c) do artigo 35
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 5571298$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 5571298$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 1.º «Juros», n.º 4) «Dívida externa ...», alínea 2 «...: Empréstimo de 10,875 milhões de dólares» ... 378198$60
+Artigo 1.º «Juros», n.º 4) «Dívida externa ...», alínea 2 «...: Empréstimo de 10,875 milhões de dólares» ... 378198$60
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 5.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 25000$00
+Artigo 5.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 25000$00
 
-###### Artigo 7.º, n.º 2) «Telefones» ... 11000$00
+Artigo 7.º, n.º 2) «Telefones» ... 11000$00
 
 ... 36000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, «Direcção-Geral dos Serviços Prisionais - Cadeia do Forte de Peniche»:
+Capítulo 4.º, «Direcção-Geral dos Serviços Prisionais - Cadeia do Forte de Peniche»:
 
-###### Artigo 320.º, n.º 2) «Luz, ...» ... 25000$00
+Artigo 320.º, n.º 2) «Luz, ...» ... 25000$00
 
 Ministério do Exército
 
-### Capítulo 8.º «Encargos gerais do Ministério - Oficiais»:
+Capítulo 8.º «Encargos gerais do Ministério - Oficiais»:
 
-###### Artigo 326.º, n.º 1) «Pessoal dos quadros ...» ... 4500000$00
+Artigo 326.º, n.º 1) «Pessoal dos quadros ...» ... 4500000$00
 
 Ministério do Ultramar
 
-### Capítulo 1.º «Gabinete do Ministro - Gabinete e Secção de Expediente e Cifra»:
+Capítulo 1.º «Gabinete do Ministro - Gabinete e Secção de Expediente e Cifra»:
 
-###### Artigo 4.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motor» ... 632100$00
+Artigo 4.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motor» ... 632100$00
 
 ... 5571298$60
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 15.º «Direitos de importação de vários géneros e mercadorias» ... 378198$60
+Capítulo 2.º, artigo 15.º «Direitos de importação de vários géneros e mercadorias» ... 378198$60
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 5132100$00
+Capítulo 1.º, artigo 13.º ... 5132100$00
 
-### Capítulo 7.º, artigo 62.º, n.º 1) ... 25000$00
+Capítulo 7.º, artigo 62.º, n.º 1) ... 25000$00
 
 ... 5157100$00
 
 Ministério do Interior
 
-### Capítulo 1.º, artigo 4.º, n.º 1) ... 3600$00
+Capítulo 1.º, artigo 4.º, n.º 1) ... 3600$00
 
-### Capítulo 1.º, artigo 5.º, n.º 2) ... 2400$00
+Capítulo 1.º, artigo 5.º, n.º 2) ... 2400$00
 
-### Capítulo 2.º, artigo 18.º, n.º 1) ... 4000$00
+Capítulo 2.º, artigo 18.º, n.º 1) ... 4000$00
 
-### Capítulo 2.º, artigo 18.º, n.º 2) ... 1000$00
+Capítulo 2.º, artigo 18.º, n.º 2) ... 1000$00
 
 ... 11000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 187.º, n.º 1) ... 25000$00
+Capítulo 4.º, artigo 187.º, n.º 1) ... 25000$00
 
 ... 5571298$60
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

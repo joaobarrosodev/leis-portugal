@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46349-1965-294970
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-02-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4adb60573ce8c1c6c1bfcf5c2ca22d49960f250ac553ba8123a37cb116997907
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 138ad124939d47221a48a12012241efa40533b9326cdfa85c1874889dea7e4a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo
+- Belas-artes
+- Biblioteca
+- Desporto
+- Ensino Primário
+- Ensino Superior
+- Ensino Técnico Profissional
+- Junta Nacional de Educação
+- Obra de Arte
+- Regimento
 relationships:
 - type: amended_by
   target: pt:dre:141653:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141653:por
+  label: "Extinta a Junta Nacional da Educação, regulamentada pelo presente diploma, pelo DEC LEI.70/77.25.02.1977.PCM, DR.IS\
+    \ [47] de 25.02.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/70-1977-141653
+  date: '1977-02-25'
+- type: cites
+  target: pt:dre:294969:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:15Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +116,9 @@ I
 
 Finalidade geral e organização
 
-###### Artigo 1.º A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
+Artigo 1.º A Junta Nacional da Educação é um órgão técnico e consultivo que funciona junto do Ministro da Educação Nacional e tem por fim estudar problemas relativos ao ensino e à educação e sobre eles emitir parecer.
 
-###### Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
+Art. 2.º A Junta é constituída pelo Conselho Permanente da Acção Educativa e pelas seguintes secções:
 
 1.ª Ensino superior;
 
@@ -136,7 +156,7 @@ Finalidade geral e organização
 
 3.ª Ensino comercial.
 
-###### Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados nos artigos seguintes.
+Art. 3.º A Junta tem um presidente, um vice-presidente e os demais membros indicados nos artigos seguintes.
 
 § 1.º O presidente é nomeado pelo Ministro de entre pessoas que tenham dado relevantes provas de interesse pelos problemas da educação nacional, podendo, quando professor, ser dispensado do exercício das funções docentes.
 
@@ -148,9 +168,9 @@ Finalidade geral e organização
 
 § 5.º As nomeações para vacaturas que ocorrerem no decurso do triénio entendem- se feitas até ao termo deste.
 
-###### Art. 4.º O Conselho Permanente da Acção Educativa é constituída pelo presidente da Junta, pelos presidentes das secções desta e pelo inspector superior do Ensino Particular.
+Art. 4.º O Conselho Permanente da Acção Educativa é constituída pelo presidente da Junta, pelos presidentes das secções desta e pelo inspector superior do Ensino Particular.
 
-###### Art. 5.º A 1.ª secção é constituída pelo director-geral do Ensino Superior e das Belas-Artes, seu presidente, e por:
+Art. 5.º A 1.ª secção é constituída pelo director-geral do Ensino Superior e das Belas-Artes, seu presidente, e por:
 
 1.º Um vice-presidente, nomeado pelo Ministro;
 
@@ -160,7 +180,7 @@ Finalidade geral e organização
 
 4.º Um representante do ensino particular.
 
-###### Art. 6.º A 2.ª secção é constituída pelo director-geral do Ensino Superior e das Belas-Artes, seu presidente, e pelos componentes das cinco subsecções.
+Art. 6.º A 2.ª secção é constituída pelo director-geral do Ensino Superior e das Belas-Artes, seu presidente, e pelos componentes das cinco subsecções.
 
 § 1.º A 1.ª subsecção é composta do modo seguinte:
 
@@ -264,7 +284,7 @@ Finalidade geral e organização
 
 10.º Os directores dos Teatros Nacionais de S. Carlos e de D. Maria II.
 
-###### Art. 7.º A 3.ª secção é constituída pelo director-geral do Ensino Superior e das Belas-Artes, seu presidente, e por:
+Art. 7.º A 3.ª secção é constituída pelo director-geral do Ensino Superior e das Belas-Artes, seu presidente, e por:
 
 1.º Um vice-presidente e quatro vogais, nomeados pelo Ministro;
 
@@ -282,7 +302,7 @@ Finalidade geral e organização
 
 8.º Um director de biblioteca municipal.
 
-###### Art. 8.º A 4.ª secção é constituída pelo director-geral do Ensino Liceal, seu presidente, e por:
+Art. 8.º A 4.ª secção é constituída pelo director-geral do Ensino Liceal, seu presidente, e por:
 
 1.º Um vice-presidente e quatro a seis vogais, nomeados pelo Ministro;
 
@@ -298,7 +318,7 @@ Finalidade geral e organização
 
 7.º Um representante do ensino particular.
 
-###### Art. 9.º A 5.ª secção é constituída pelo director-geral do Ensino Técnico Profissional, seu presidente, e pelos componentes das três subsecções.
+Art. 9.º A 5.ª secção é constituída pelo director-geral do Ensino Técnico Profissional, seu presidente, e pelos componentes das três subsecções.
 
 § 1.º A 1.ª subsecção é composta do modo seguinte:
 
@@ -362,7 +382,7 @@ Finalidade geral e organização
 
 § 4.º Os inspectores do ensino técnico profissional são vogais da 5.ª secção, com o encargo de representação que a cada um for atribuído pelo Ministro.
 
-###### Art. 10.º A 6.ª secção é constituída pelo director-geral do Ensino Primário, seu presidente, e por:
+Art. 10.º A 6.ª secção é constituída pelo director-geral do Ensino Primário, seu presidente, e por:
 
 1.º Um vice-presidente e quatro a seis vogais, nomeados pelo Ministro;
 
@@ -378,7 +398,7 @@ Finalidade geral e organização
 
 7.º Um representante do ensino particular.
 
-###### Art. 11.º A 7.ª secção é constituída pelo director-geral da Educação Física, Desportos e Saúde Escolar, seu presidente, e por:
+Art. 11.º A 7.ª secção é constituída pelo director-geral da Educação Física, Desportos e Saúde Escolar, seu presidente, e por:
 
 1.º Um vice-presidente e quatro vogais, nomeados pelo Ministro;
 
@@ -402,7 +422,7 @@ Finalidade geral e organização
 
 11.º Um representante do ensino particular.
 
-###### Art. 12.º A 8.ª secção é constituída por um presidente, nomeado pelo Ministro, e por:
+Art. 12.º A 8.ª secção é constituída por um presidente, nomeado pelo Ministro, e por:
 
 1.º Um vice-presidente e quatro a seis vogais, nomeados pelo Ministro;
 
@@ -432,17 +452,17 @@ Finalidade geral e organização
 
 14.º Um representante do ensino particular.
 
-###### Art. 13.º Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
+Art. 13.º Com autorização do Ministro podem ser agregadas temporàriamente ao Conselho Permanente da Acção Educativa ou a qualquer das secções ou subsecções, como vogais extraordinários, individualidades de especial competência nos assuntos a tratar, as quais terão direito de voto nesses assuntos.
 
-###### Art. 14.º Dentro de cada secção não dividida ou dentro de cada subsecção não podem coincidir duas ou mais representações na mesma pessoa.
+Art. 14.º Dentro de cada secção não dividida ou dentro de cada subsecção não podem coincidir duas ou mais representações na mesma pessoa.
 
-###### Art. 15.º As funções de secretário da Junta Nacional da Educação, do Conselho Permanente da Acção Educativa e das secções e subsecções são desempenhadas pelo chefe da Secretaria-Geral do Ministério.
+Art. 15.º As funções de secretário da Junta Nacional da Educação, do Conselho Permanente da Acção Educativa e das secções e subsecções são desempenhadas pelo chefe da Secretaria-Geral do Ministério.
 
 II
 
 Competência
 
-###### Art. 16.º Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados em cumprimento de disposição de lei ou por determinação ministerial, designadamente sobre:
+Art. 16.º Compete à Junta Nacional da Educação pronunciar-se sobre os assuntos que lhe sejam apresentados em cumprimento de disposição de lei ou por determinação ministerial, designadamente sobre:
 
 1.º Reformas do ensino e da acção educativa;
 
@@ -470,7 +490,7 @@ Competência
 
 § 3.º A Junta pode por sua iniciativa, independentemente de determinação ministerial ou legal, formular propostas ou sugestões sobre quaisquer problemas relativos à educação nacional.
 
-###### Art. 17.º O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade da acção do Ministério e emitir parecer sobre determinados assuntos.
+Art. 17.º O Conselho Permanente da Acção Educativa é o órgão central da Junta e, dentro de uma função coordenadora e consultiva, compete-lhe especialmente assegurar, através da hierarquia, a unidade e continuidade da acção do Ministério e emitir parecer sobre determinados assuntos.
 
 § único. São atribuições do Conselho:
 
@@ -486,7 +506,7 @@ Competência
 
 6.º Formular por sua iniciativa, independentemente de determinação ministerial ou legal, propostas ou sugestões sobre quaisquer problemas relativos à educação nacional.
 
-###### Art. 18.º À 1.ª secção compete:
+Art. 18.º À 1.ª secção compete:
 
 1.º Organizar e rever os quadros das disciplinas e os programas do ensino superior;
 
@@ -500,7 +520,7 @@ Competência
 
 § único. O exercício das atribuições definidas nos n.os 1.º, 2.º e 4.º depende de determinação ministerial.
 
-###### Art. 19.º À 2.ª secção compete definir as directrizes para a defesa, conservação e enriquecimento do património estético, histórico, arqueológico e paisagístico da Nação.
+Art. 19.º À 2.ª secção compete definir as directrizes para a defesa, conservação e enriquecimento do património estético, histórico, arqueológico e paisagístico da Nação.
 
 § 1.º São atribuições da 1.ª, 2.ª, 3.ª e 4.ª subsecções:
 
@@ -592,7 +612,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 6.º Fomentar a estreita colaboração entre os vários organismos nela representados, para o melhor aproveitamento das suas possibilidades.
 
-###### Art. 20.º À 3.ª secção compete definir as directrizes para a defesa, protecção e enriquecimento do património bibliográfico e documental da Nação.
+Art. 20.º À 3.ª secção compete definir as directrizes para a defesa, protecção e enriquecimento do património bibliográfico e documental da Nação.
 
 § único. São atribuições desta secção:
 
@@ -640,7 +660,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 15.º Exercer os poderes conferidos pela legislação anterior à Junta Consultiva das Bibliotecas e Arquivos que não tenham passado para outro órgão ou serviço.
 
-###### Art. 21.º À 4.ª secção compete:
+Art. 21.º À 4.ª secção compete:
 
 1.º Organizar e rever o quadro das disciplinas e os programas do ensino liceal;
 
@@ -658,7 +678,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 § único. O exercício das atribuições definidas nos n.os 1.º e 4.º depende de determinação ministerial.
 
-###### Art. 22.º À 5.ª secção compete:
+Art. 22.º À 5.ª secção compete:
 
 1.º Organizar e rever os quadros das disciplinas e os programas do ensino técnico profissional;
 
@@ -674,7 +694,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 § único. O exercício das atribuições definidas nos n.os 1.º e 4.º depende de determinação ministerial.
 
-###### Art. 23.º À 6.ª secção compete:
+Art. 23.º À 6.ª secção compete:
 
 1.º Organizar e rever os quadros das disciplinas do ensino primário e das escolas do magistério primário, bem como os respectivos programas;
 
@@ -688,7 +708,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 § único. O exercício das atribuições definidas nos n.os 1.º e 3.º depende de determinação ministerial.
 
-###### Art. 24.º À 7.ª secção compete:
+Art. 24.º À 7.ª secção compete:
 
 1.º Estudar e emitir parecer sobre a actividade da educação física nacional, bem como apreciar o plano anual de acção da Direcção-Geral da Educação Física, Desportos e Saúde Escolar;
 
@@ -700,7 +720,7 @@ e) A localização, construção, aquisição, adaptação ou modificação de e
 
 § único. O exercício das atribuições definidas nos n.os 1.º e 2.º depende de determinação ministerial.
 
-###### Art. 25.º À 8.ª secção compete:
+Art. 25.º À 8.ª secção compete:
 
 1.º Organizar e rever os programas de educação moral e cívica para as escolas dos diversos graus e ramos de ensino, bem como o de educação familiar para as escolas de frequência feminina;
 
@@ -722,7 +742,7 @@ III
 
 Funcionamento
 
-###### Art. 26.º A Junta funciona em sessões plenárias, em sessões do Conselho Permanente da Acção Educativa e em sessões de secções ou de subsecções.
+Art. 26.º A Junta funciona em sessões plenárias, em sessões do Conselho Permanente da Acção Educativa e em sessões de secções ou de subsecções.
 
 § 1.º As sessões plenárias realizam-se quando o Ministro ou o presidente da Junta o decidam.
 
@@ -730,27 +750,27 @@ Funcionamento
 
 § 3.º As secções e as subsecções reúnem em sessão ordinária uma vez por mês, em dia designado pelo respectivo presidente, e extraordinàriamente quando as necessidades do serviço o imponham. Poderá, porém, o Ministro autorizar, sobre proposta fundamentada do presidente de qualquer secção, que as respectivas sessões ordinárias se realizem com mais largo intervalo.
 
-###### Art. 27.º O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho Permanente da Acção Educativa ou às das secções ou subsecções, e nesse caso assumirá a presidência.
+Art. 27.º O Ministro pode, sempre que o julgue conveniente, comparecer às sessões plenárias, às do Conselho Permanente da Acção Educativa ou às das secções ou subsecções, e nesse caso assumirá a presidência.
 
-###### Art. 28.º O presidente, da Junta deve comparecer às sessões plenárias e às do Conselho Permanente da Acção Educativa e pode, quando o julgue conveniente, comparecer às das secções ou subsecções. Caber-lhe-á a presidência de qualquer sessão a que assista, desde que não esteja presente o Ministro.
+Art. 28.º O presidente, da Junta deve comparecer às sessões plenárias e às do Conselho Permanente da Acção Educativa e pode, quando o julgue conveniente, comparecer às das secções ou subsecções. Caber-lhe-á a presidência de qualquer sessão a que assista, desde que não esteja presente o Ministro.
 
-###### Art. 29.º Os presidentes das secções devem comparecer às sessões destas e às das respectivas subsecções, cabendo-lhes a presidência sempre que não estejam presentes o Ministro ou o presidente da Junta.
+Art. 29.º Os presidentes das secções devem comparecer às sessões destas e às das respectivas subsecções, cabendo-lhes a presidência sempre que não estejam presentes o Ministro ou o presidente da Junta.
 
-###### Art. 30.º Os componentes da Junta, de direito presentes a qualquer sessão, não podem abster-se de votar.
+Art. 30.º Os componentes da Junta, de direito presentes a qualquer sessão, não podem abster-se de votar.
 
 § único. É atribuído o voto de qualidade, para os casos de empate, a quem couber a presidência à sessão.
 
-###### Art. 31.º Para cada assunto a apresentar à Junta deverá organizar-se um processo, do qual constarão todos os documentos relacionados com ele e existentes no Ministério, bem como, tratando-se de assunto de natureza pedagógica ou administrativa, a informação dos respectivos serviços.
+Art. 31.º Para cada assunto a apresentar à Junta deverá organizar-se um processo, do qual constarão todos os documentos relacionados com ele e existentes no Ministério, bem como, tratando-se de assunto de natureza pedagógica ou administrativa, a informação dos respectivos serviços.
 
 § 1.º Os processos serão distribuídos ao Conselho Permanente da Acção Educativa ou às secções pelo presidente da Junta, cabendo a designação do relator no primeiro caso a este presidente e no segundo ao da respectiva secção.
 
 § 2.º Os pareceres da Junta, que serão assinados pelo relator, devem conter a exposição, clara e concisa, do assunto a apresentar, sempre fundamentada e como solução sugerida pela Junta, a que tiver feito vencimento. As declarações de voto, embora ditadas para a acta, não podem constar dos pareceres.
 
-###### Art. 32.º Os pareceres da Junta emitidos em sessão plenária ou do Conselho Permanente da Acção Educativa serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
+Art. 32.º Os pareceres da Junta emitidos em sessão plenária ou do Conselho Permanente da Acção Educativa serão submetidos a despacho do Ministro pelo presidente ou vice-presidente da Junta e os restantes pelo presidente da respectiva secção.
 
-###### Art. 33.º A Junta poderá requisitar das instâncias competentes elementos indispensáveis ao estudo dos assuntos sobre que houver de pronunciar-se, bem como delegar em algum ou alguns dos seus membros a realização de diligências junto de quaisquer serviços em ordem à obtenção daqueles elementos.
+Art. 33.º A Junta poderá requisitar das instâncias competentes elementos indispensáveis ao estudo dos assuntos sobre que houver de pronunciar-se, bem como delegar em algum ou alguns dos seus membros a realização de diligências junto de quaisquer serviços em ordem à obtenção daqueles elementos.
 
-###### Art. 34.º A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
+Art. 34.º A 2.ª secção poderá ter delegados permanentes nos concelhos, escolhidos de entre pessoas de reconhecida competência que se prestem a auxiliá-la no desempenho das suas atribuições.
 
 § 1.º Aos delegados concelhios, que serão nomeados pelo Ministro ouvida a secção, cabe:
 
@@ -766,12 +786,12 @@ Funcionamento
 
 § 2.º Os directores dos museus de arte, história ou arqueologia pertencentes ao Ministério da Educação Nacional são delegados natos da secção.
 
-###### Art. 35.º O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
+Art. 35.º O serviço prestado pelos membros, pelos agregados e pelos delegados da Junta que forem funcionários públicos considera-se, para todos os efeitos legais, como exercício do cargo de que são titulares.
 
-###### Art. 36.º Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
+Art. 36.º Aos membros, aos agregados e aos delegados da Junta que em serviço dela se ausentarem do lugar da sua residência serão abonadas despesas de transporte, bem como ajudas de custo, cuja importância será fixada pelos Ministros das Finanças e da Educação Nacional.
 
-###### Art. 37.º O presente regimento entrará em vigor 90 dias depois de publicado no Diário do Governo.
+Art. 37.º O presente regimento entrará em vigor 90 dias depois de publicado no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

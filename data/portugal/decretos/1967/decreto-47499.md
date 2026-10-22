@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47499-1967-501628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d3ea25f521d2c6a6b7a2645cdb29613fc269a511a917d8438d76ed60315e0c58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a71bae385c8a8a7ccd8ca56fcd56f3626f1d2a46758319fe3b7072ec44d68f22
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,60 @@ relationships:
   target: pt:dre:264366:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238596:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238980:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281779:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:442675:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469853:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508255:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508256:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:569488:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 20
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:06Z'
   warnings: []
   errors: []
 ---
@@ -139,9 +183,9 @@ DIPLOMA, ORGÂNICO DOS SERVIÇOS HIDRÁULICOS DAS PROVÍNCIAS DE ANGOLA E MOÇAM
 
 #### SECÇÃO I — Dos fins e atribuições
 
-###### Artigo 1.º É criada, em cada uma das províncias de Angola e de Moçambique, a Direcção Provincial dos Serviços Hidráulicos, adiante designada abreviadamente por D. S. H.
+Artigo 1.º É criada, em cada uma das províncias de Angola e de Moçambique, a Direcção Provincial dos Serviços Hidráulicos, adiante designada abreviadamente por D. S. H.
 
-###### Art. 2.º As D. S. H. têm como objecto fundamental a promoção geral de tudo quanto respeite à boa utilização dos recursos hidráulicos das províncias respectivas e em especial:
+Art. 2.º As D. S. H. têm como objecto fundamental a promoção geral de tudo quanto respeite à boa utilização dos recursos hidráulicos das províncias respectivas e em especial:
 
 a) Fazer cumprir a legislação em vigor sobre hidráulica, e, bem assim, propor ao Governo as alterações que nela se julgue conveniente introduzir;
 
@@ -175,7 +219,7 @@ o) Criar cursos de preparação e selecção de hidrometristas e outros elemento
 
 p) Representar a província na metrópole ou no estrangeiro em reuniões que respeitem ao seu campo de acção.
 
-###### Art. 3.º Para efeito do artigo anterior, são cometidas à D. S. H. de cada província as atribuições legais e, bem assim, os campos de acção até agora afectos aos seguintes organismos, que, por este diploma, se consideram extintos:
+Art. 3.º Para efeito do artigo anterior, são cometidas à D. S. H. de cada província as atribuições legais e, bem assim, os campos de acção até agora afectos aos seguintes organismos, que, por este diploma, se consideram extintos:
 
 Na província de Angola:
 
@@ -199,23 +243,23 @@ Comissão dos Rios Internacionais de Moçambique (criada pelo despacho de 30 de 
 
 Nas referidas condições, a Brigada ficará sujeita a remodelação, nos termos das disposições contidas no artigo 12.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
 
-###### Art. 4.º Os sectores de estudos, projectos e construções relativos à hidroelectricidade existentes na Junta Provincial de Electrificação, criada pelo Diploma Legislativo n.º 3242, de 11 de Maio de 1962, e nos serviços autónomos de electricidade, criados pelo Diploma Legislativo n.º 2160, de 27 de Outubro de 1961, incluindo necessàriamente o que respeitar à hidrologia, passam para as D. S. H., ficando nestas todas as atribuições relativas àqueles sectores.
+Art. 4.º Os sectores de estudos, projectos e construções relativos à hidroelectricidade existentes na Junta Provincial de Electrificação, criada pelo Diploma Legislativo n.º 3242, de 11 de Maio de 1962, e nos serviços autónomos de electricidade, criados pelo Diploma Legislativo n.º 2160, de 27 de Outubro de 1961, incluindo necessàriamente o que respeitar à hidrologia, passam para as D. S. H., ficando nestas todas as atribuições relativas àqueles sectores.
 
 § 1.º Não são alteradas as actuais atribuições dos organismos referidos no corpo do artigo, no que se refere ao estabelecimento da prioridade dos empreendimentos energéticos - hidroeléctricos ou térmicos -, respeitada a concepção dos aproveitamentos hidráulicos concebidos para cada bacia pelas D. S. H.
 
 § 2.º Todo o pessoal actuando nos sectores referidos no corpo do artigo - técnicos com experiência hidráulica e seus colaboradores - e correspondentes dotações transitam para as D. S. H.
 
-###### Art. 5.º Os sectores de engenharia hidráulica das missões e brigadas de fomento e povoamento, bem como o das juntas de povoamento agrário, desde que o seu campo de acção envolva empreendimentos que impliquem obras de elevada tecnicidade ou envergadura, passam para as D. S. H.
+Art. 5.º Os sectores de engenharia hidráulica das missões e brigadas de fomento e povoamento, bem como o das juntas de povoamento agrário, desde que o seu campo de acção envolva empreendimentos que impliquem obras de elevada tecnicidade ou envergadura, passam para as D. S. H.
 
-###### Art. 6.º As D. S. H. receberão apoio técnico da Direcção dos Serviços Hidráulicos da Direcção-Geral de Obras Públicas e Comunicações. A encomenda dos projectos específicos a empresas especializadas privadas, quando a sua importância o justifique, será feita de acordo com aquela Direcção-Geral.
+Art. 6.º As D. S. H. receberão apoio técnico da Direcção dos Serviços Hidráulicos da Direcção-Geral de Obras Públicas e Comunicações. A encomenda dos projectos específicos a empresas especializadas privadas, quando a sua importância o justifique, será feita de acordo com aquela Direcção-Geral.
 
 #### SECÇÃO II — Da orgânica geral
 
-###### Art. 7.º As D. S. H., para integral cumprimento das suas missões e cobertura técnica dos territórios das respectivas províncias, dispõem de serviços centrais e serviços regionais.
+Art. 7.º As D. S. H., para integral cumprimento das suas missões e cobertura técnica dos territórios das respectivas províncias, dispõem de serviços centrais e serviços regionais.
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 8.º Cada uma das D. S. H. de Angola e Moçambique compreende três repartições técnicas e uma administrativa:
+Art. 8.º Cada uma das D. S. H. de Angola e Moçambique compreende três repartições técnicas e uma administrativa:
 
 1.ª Repartição - Estudos Hidrológicos;
 
@@ -239,11 +283,11 @@ Nas referidas condições, a Brigada ficará sujeita a remodelação, nos termos
 
 § 4.º Cada repartição técnica disporá de uma secção de expediente e arquivo privativa.
 
-###### Art. 9.º Poderão ser criadas nas direcções provinciais, observadas as disposições legais, brigadas de estudo e de fiscalização, assim como grupos de trabalho, estes com a possibilidade de integrar também elementos pertencentes ao Ministério, mediante despacho de concordância do Ministro do Ultramar.
+Art. 9.º Poderão ser criadas nas direcções provinciais, observadas as disposições legais, brigadas de estudo e de fiscalização, assim como grupos de trabalho, estes com a possibilidade de integrar também elementos pertencentes ao Ministério, mediante despacho de concordância do Ministro do Ultramar.
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 10.º Os serviços regionais, que funcionam sob a autoridade técnica e administrativa das direcções provinciais de serviço das províncias respectivas, são órgãos de execução e de vigilância e actuam em zonas a definir no diploma regulamentar e com sedes fixadas nos seguintes locais:
+Art. 10.º Os serviços regionais, que funcionam sob a autoridade técnica e administrativa das direcções provinciais de serviço das províncias respectivas, são órgãos de execução e de vigilância e actuam em zonas a definir no diploma regulamentar e com sedes fixadas nos seguintes locais:
 
 Em Angola:
 
@@ -269,7 +313,7 @@ Repartição Regional do Sul - com sede em João Belo.
 
 #### SECÇÃO I — Da Inspecção provincial
 
-###### Art. 11.º Aos inspectores provinciais dos serviços hidráulicos, sob a imediata superintendência do Governo-Geral, compete:
+Art. 11.º Aos inspectores provinciais dos serviços hidráulicos, sob a imediata superintendência do Governo-Geral, compete:
 
 a) Fazer inspecções aos departamentos das D. S. H. que tenham sido determinadas pelo governador-geral;
 
@@ -283,9 +327,9 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 #### SECÇÃO II — Da direcção provincial
 
-###### Art. 12.º Compete ao director orientar os serviços, coadjuvado pelo subdirector, competindo a cada um deles o que consta dos artigos seguintes.
+Art. 12.º Compete ao director orientar os serviços, coadjuvado pelo subdirector, competindo a cada um deles o que consta dos artigos seguintes.
 
-###### Art. 13.º O director provincial, sob a imediata superintendência do governador-geral, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários departamentos dos serviços e entre estes e o público, com vista à eficiente e económica realização dos seus fins, competindo-lhe designadamente:
+Art. 13.º O director provincial, sob a imediata superintendência do governador-geral, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários departamentos dos serviços e entre estes e o público, com vista à eficiente e económica realização dos seus fins, competindo-lhe designadamente:
 
 a) Dirigir e orientar todas as actividades dos serviços para a integral execução das missões confiadas aos serviços hidráulicos, fazendo cumprir as leis, regulamentos e instruções em vigor;
 
@@ -325,7 +369,7 @@ r) Louvar em ordem de serviço ou propor superiormente o louvor dos funcionário
 
 s) Apresentar ao governo da província o relatório da actividade dos serviços do ano anterior, até 30 de Junho de cada ano.
 
-###### Art. 14.º Ao subdirector dos Serviços compete:
+Art. 14.º Ao subdirector dos Serviços compete:
 
 a) Coadjuvar o director dos Serviços na execução de todas as funções atribuídas à Direcção;
 
@@ -337,7 +381,7 @@ d) Estudar, informar e preparar todos os processos e assuntos que lhe sejam dist
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 15.º À 1.ª Repartição - Estudos Hidrológicos -, a cargo de um engenheiro civil ou geógrafo-chefe, incumbe:
+Art. 15.º À 1.ª Repartição - Estudos Hidrológicos -, a cargo de um engenheiro civil ou geógrafo-chefe, incumbe:
 
 a) Garantir a ocupação hidrológica das bacias hidrográficas da província respectiva;
 
@@ -355,7 +399,7 @@ g) Organizar e manter em dia os arquivos, incluindo o de originais de desenhos;
 
 h) Tratar do expediente relativo a todos os assuntos da Repartição, instruindo e informando os que devam ser submetidos a apreciação superior.
 
-###### Art. 16.º À 2.ª Repartição - Estudos Agronómicos e Económico-Sociais -, a cargo de um engenheiro agrónomo-chefe, incumbe:
+Art. 16.º À 2.ª Repartição - Estudos Agronómicos e Económico-Sociais -, a cargo de um engenheiro agrónomo-chefe, incumbe:
 
 a) Proceder ou promover a execução dos estudos dos solos pelos organismos competentes e ainda ao que respeitar à aptidão ao regadio;
 
@@ -381,7 +425,7 @@ k) Organizar e manter em dia os arquivos, incluindo o de originais de desenho;
 
 l) Tratar do expediente relativo a todos os assuntos da Repartição, instruindo e informando os que devam ser submetidos a apreciação superior.
 
-###### Art. 17.º À 3.ª Repartição - Estudos de Engenharia -, a cargo de um engenheiro civil-chefe, incumbe:
+Art. 17.º À 3.ª Repartição - Estudos de Engenharia -, a cargo de um engenheiro civil-chefe, incumbe:
 
 a) Reunir os dados de base para a elaboração dos esquemas ou planos gerais de aproveitamento dos cursos hidráulicos;
 
@@ -403,7 +447,7 @@ i) Organizar e manter em dia os arquivos, incluindo o de originais de desenhos;
 
 j) Tratar do expediente relativo a todos os assuntos da Repartição, instruindo e informando os que devam ser submetidos a apreciação superior.
 
-###### Art. 18.º À 4.ª Repartição - Administração Central -, chefiada por um funcionário de curso universitário e formação profissional adequada ao exercício do cargo, incumbe assegurar o funcionamento dos diversos sectores dos serviços, no que diz respeito aos assuntos de pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
+Art. 18.º À 4.ª Repartição - Administração Central -, chefiada por um funcionário de curso universitário e formação profissional adequada ao exercício do cargo, incumbe assegurar o funcionamento dos diversos sectores dos serviços, no que diz respeito aos assuntos de pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
 
 § 1.º À 1.ª Secção - Secretaria-Geral - incumbe:
 
@@ -461,13 +505,13 @@ d) Armazenar e conservar o material de escritório e expediente a utilizar pelos
 
 e) Adquirir, dentro das formalidades legais, todos os materiais indispensáveis ao funcionamento dos serviços centrais ou dos serviços regionais, quando estes o solicitarem.
 
-###### Art. 19.º Ao contencioso, a cargo de um licenciado em Direito, incumbe:
+Art. 19.º Ao contencioso, a cargo de um licenciado em Direito, incumbe:
 
 a) Estudar e informar os assuntos de natureza jurídica respeitantes às actividades dos serviços, especialmente no que se refere ao regime jurídico do aproveitamento de águas correntes e da utilização de águas públicas;
 
 b) Coligir e anotar a legislação respeitante à jurisdição dos serviços e respectiva jurisprudência, propondo a necessária regulamentação.
 
-###### Art. 20.º À biblioteca incumbe:
+Art. 20.º À biblioteca incumbe:
 
 a) Receber tudo o que interessar à documentação do sector hidráulico e à normalização dos seus processos de actuação técnica, com vista, logo que possível, à publicação de um boletim privativo;
 
@@ -475,7 +519,7 @@ b) Manter informação bibliográfica que faculte a todos os funcionários dos s
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 21.º A cada repartição regional, a cargo de um engenheiro civil-chefe, incumbe:
+Art. 21.º A cada repartição regional, a cargo de um engenheiro civil-chefe, incumbe:
 
 a) Assegurar a execução das disposições legais, aplicáveis à área da sua jurisdição, sobre os aproveitamentos de águas correntes e utilização das águas públicas, assim como a realização do expediente e da contabilidade do serviço;
 
@@ -501,11 +545,11 @@ k) Tratar do expediente relativo a todos os assuntos da repartição, instruindo
 
 #### SECÇÃO V — Dos grupos de trabalho e brigadas
 
-###### Art. 22.º Pertence aos grupos de trabalho e brigadas previstos no artigo 9.º deste diploma a execução dos trabalhos e estudos que lhes forem confiados, de harmonia com os respectivos programas.
+Art. 22.º Pertence aos grupos de trabalho e brigadas previstos no artigo 9.º deste diploma a execução dos trabalhos e estudos que lhes forem confiados, de harmonia com os respectivos programas.
 
 ### CAPÍTULO III — Dos empreendimentos hidráulicos
 
-###### Art. 23.º Para os fins gerais que se contêm neste diploma, os aproveitamentos hidráulicos serão classificados como se segue:
+Art. 23.º Para os fins gerais que se contêm neste diploma, os aproveitamentos hidráulicos serão classificados como se segue:
 
 1) De finalidades tìpicamente agrícolas (abrangendo também o campo florestal e pecuário e ainda a pesca em águas interiores):
 
@@ -519,7 +563,7 @@ b) Não implicando obras de elevada tecnicidade ou envergadura.
 
 § único. Se um esquema classificado de tìpicamente hidráulico e/ou hidroeléctrico tiver implicações consideráveis de outro carácter, poderá ser solicitado o parecer do Conselho Técnico de Obras Públicas sobre a classificação apresentada.
 
-###### Art. 24.º Com base na classificação geral do artigo anterior, com vista à execução dos respectivos empreendimentos a escolha dos organismos obedecerá ao seguinte critério:
+Art. 24.º Com base na classificação geral do artigo anterior, com vista à execução dos respectivos empreendimentos a escolha dos organismos obedecerá ao seguinte critério:
 
 1) Para os aproveitamentos de finalidade tìpicamente agrícolas:
 
@@ -547,7 +591,7 @@ Direcção dos Serviços dos Portos, Caminhos de Ferro e Transportes (quando se 
 
 Direcção Provincial dos Serviços Hidráulicos.
 
-###### Art. 25.º No caso de empreendimentos de finalidades múltiplas:
+Art. 25.º No caso de empreendimentos de finalidades múltiplas:
 
 1) O governador-geral determinará que os respectivos serviços interessados prestem plena cooperação, através dos seus organismos especializados, com a brevidade que se torne necessária à apreciação e concretização dos objectivos florestais, agrícolas, pecuários e industriais;
 
@@ -557,7 +601,7 @@ Direcção Provincial dos Serviços Hidráulicos.
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 26.º O pessoal dos serviços hidráulicos de Angola e Moçambique é classificado pela seguinte forma:
+Art. 26.º O pessoal dos serviços hidráulicos de Angola e Moçambique é classificado pela seguinte forma:
 
 a) Pessoal técnico superior;
 
@@ -587,7 +631,7 @@ f) Pessoal operário e serventuário.
 
 § 8.º O mesmo pessoal poderá ainda ser pessoal de carácter permanente ou de carácter eventual.
 
-###### Art. 27.º Os quadros do pessoal dos serviços hidráulicos de Angola e Moçambique, constantes dos mapas I e II anexos a este diploma e dele fazendo parte integrante, compreendem o pessoal referido no corpo do artigo anterior, distribuído pelos dois quadros seguintes:
+Art. 27.º Os quadros do pessoal dos serviços hidráulicos de Angola e Moçambique, constantes dos mapas I e II anexos a este diploma e dele fazendo parte integrante, compreendem o pessoal referido no corpo do artigo anterior, distribuído pelos dois quadros seguintes:
 
 Quadro comum, abrangendo o pessoal técnico superior, pessoal técnico, o chefe da Repartição de Administração Central e o chefe do contencioso (mapa I);
 
@@ -595,11 +639,11 @@ Quadro privativo, que abrange todo o restante pessoal de nomeação ou contratad
 
 § único. Os lugares constantes dos mapas I e II serão preenchidos à medida do desenvolvimento do serviço e das disponibilidades financeiras existentes.
 
-###### Art. 28.º Além do pessoal previsto nos artigos anteriores, poderá ser contratado ou assalariado, nos termos legais, o pessoal que as necessidades de serviço exigirem, dentro das disponibilidades orçamentais existentes.
+Art. 28.º Além do pessoal previsto nos artigos anteriores, poderá ser contratado ou assalariado, nos termos legais, o pessoal que as necessidades de serviço exigirem, dentro das disponibilidades orçamentais existentes.
 
-###### Art. 29.º O pessoal assalariado constituirá um quadro dos serviços, a criar por diploma regulamentar e custeado por verba global.
+Art. 29.º O pessoal assalariado constituirá um quadro dos serviços, a criar por diploma regulamentar e custeado por verba global.
 
-###### Art. 30.º Destinado a completar a acção dos serviços é criado, com carácter temporário, um quadro complementar com as categorias e número de unidades constantes do mapa III anexo ao presente diploma, a preencher segundo as necessidades e com recurso a disponibilidades orçamentais extraordinárias.
+Art. 30.º Destinado a completar a acção dos serviços é criado, com carácter temporário, um quadro complementar com as categorias e número de unidades constantes do mapa III anexo ao presente diploma, a preencher segundo as necessidades e com recurso a disponibilidades orçamentais extraordinárias.
 
 § único. Para as vagas que venham a verificar-se no quadro do pessoal permanente poderão ingressar os contratados de igual ou equivalente categoria pertencentes ao quadro complementar que assim o requeiram e possuam boas informações de serviço, ficando, porém, dispensados de concurso e de limite de idade, mas respeitando-se o disposto no § 1.º do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
 
@@ -607,15 +651,15 @@ Quadro privativo, que abrange todo o restante pessoal de nomeação ou contratad
 
 A) Quadro comum do pessoal
 
-###### Art. 31.º O quadro comum do pessoal técnico superior compreenderá os engenheiros e geólogos dos serviços hidráulicos de Angola e Moçambique, com o número de unidades e distribuição constantes do mapa I anexo a este diploma.
+Art. 31.º O quadro comum do pessoal técnico superior compreenderá os engenheiros e geólogos dos serviços hidráulicos de Angola e Moçambique, com o número de unidades e distribuição constantes do mapa I anexo a este diploma.
 
 § 1.º São desempenhados por engenheiros civis, com a categoria de director, os cargos de inspector provincial, director de serviços e subdirector de serviços; por engenheiros civis, com a categoria de engenheiro-chefe, os cargos de chefe das 1.as e 3.as Repartições dos Serviços Centrais e de chefe da Repartição dos Serviços Regionais; por engenheiros agrónomos, com a categoria de engenheiro-chefe, o chefe da 2.ª Repartição dos Serviços Centrais; por engenheiros civis, electrotécnicos, agrónomos, geógrafos, de minas ou geólogos, de 1.ª e 2.ª classes, os restantes cargos do quadro comum designado no corpo do artigo.
 
 § 2.º Os cargos de chefe das 1.as Repartições dos Serviços Centrais podem também ser desempenhados por engenheiros geógrafos com a categoria de engenheiro-chefe.
 
-###### Art. 32.º As nomeações para os lugares do quadro comum são da competência do Ministro do Ultramar; o preenchimento dos restantes lugares é feito pelos governos provinciais, sob proposta dos directores de serviços respectivos.
+Art. 32.º As nomeações para os lugares do quadro comum são da competência do Ministro do Ultramar; o preenchimento dos restantes lugares é feito pelos governos provinciais, sob proposta dos directores de serviços respectivos.
 
-###### Art. 33.º A entrada no quadro comum do pessoal referido no artigo 31.º faz-se pela categoria de engenheiro de 2.ª classe, mediante concurso documental aberto no Ministério do Ultramar entre os que se mostrem habilitados com o correspondente curso superior.
+Art. 33.º A entrada no quadro comum do pessoal referido no artigo 31.º faz-se pela categoria de engenheiro de 2.ª classe, mediante concurso documental aberto no Ministério do Ultramar entre os que se mostrem habilitados com o correspondente curso superior.
 
 § 1.º Os engenheiros de 2.ª classe com mais de três anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
@@ -625,11 +669,11 @@ A) Quadro comum do pessoal
 
 § 4.º Se as vagas a preencher nos termos dos parágrafos anteriores forem em número superior ao dos candidatos que reúnam as condições neles impostas, poderá o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros de categoria imediatamente inferior à das vagas a prover, sem o mínimo de tempo legalmente exigido.
 
-###### Art. 34.º O provimento das vagas na categoria de director e de subdirector é feito, em regra, por escolha entre os engenheiros-chefes com, pelo menos, cinco anos de serviço nesta categoria.
+Art. 34.º O provimento das vagas na categoria de director e de subdirector é feito, em regra, por escolha entre os engenheiros-chefes com, pelo menos, cinco anos de serviço nesta categoria.
 
-###### Art. 35.º Qualquer dos engenheiros que obtenha especialização que interesse aos serviços através de escolas ou organismos acreditados para o efeito ou de atestados obtidos em trabalhos de mérito nos ramos que ao serviço interessarem, adquirirá o direito à remuneração diferencial de especialização, nos termos do artigo 44.º deste diploma.
+Art. 35.º Qualquer dos engenheiros que obtenha especialização que interesse aos serviços através de escolas ou organismos acreditados para o efeito ou de atestados obtidos em trabalhos de mérito nos ramos que ao serviço interessarem, adquirirá o direito à remuneração diferencial de especialização, nos termos do artigo 44.º deste diploma.
 
-###### Art. 36.º O provimento dos restantes lugares do quadro comum obedecerá às seguintes regras:
+Art. 36.º O provimento dos restantes lugares do quadro comum obedecerá às seguintes regras:
 
 1.ª Chefe da Repartição de Administração Central - em comissão ou por nomeação de diplomados com o curso universitário adequado ao exercício das funções com boas informações em cargos anteriores;
 
@@ -641,15 +685,15 @@ A) Quadro comum do pessoal
 
 B) Quadro do pessoal privativo permanente
 
-###### Art. 37.º Os quadros privativos permanentes dos serviços hidráulicos de Angola e Moçambique compreendem as categorias com o número de unidades e distribuição, constantes do mapa II anexo ao presente diploma.
+Art. 37.º Os quadros privativos permanentes dos serviços hidráulicos de Angola e Moçambique compreendem as categorias com o número de unidades e distribuição, constantes do mapa II anexo ao presente diploma.
 
-###### Art. 38.º O preenchimento dos diferentes lugares dos quadros privativos permanentes far-se-á nos termos que vierem a ser regulamentados pelas províncias.
+Art. 38.º O preenchimento dos diferentes lugares dos quadros privativos permanentes far-se-á nos termos que vierem a ser regulamentados pelas províncias.
 
-###### Art. 39.º Os funcionários de nomeação definitiva ou provisória dos quadros permanentes dos organismos que se extinguem com a publicação do presente diploma, ou de outros quadros da mesma força e mesma natureza que se venham a integrar, serão colocados nos quadros permanentes das D. S. H. em categorias equivalentes ou imediatamente superiores, se houver conveniência para o serviço, sem mais formalidades, incluindo o visto do Tribunal Administrativo, por simples despacho do governador-geral publicado no Boletim Oficial.
+Art. 39.º Os funcionários de nomeação definitiva ou provisória dos quadros permanentes dos organismos que se extinguem com a publicação do presente diploma, ou de outros quadros da mesma força e mesma natureza que se venham a integrar, serão colocados nos quadros permanentes das D. S. H. em categorias equivalentes ou imediatamente superiores, se houver conveniência para o serviço, sem mais formalidades, incluindo o visto do Tribunal Administrativo, por simples despacho do governador-geral publicado no Boletim Oficial.
 
 § único. Igualmente beneficiam do disposto no corpo do artigo os funcionários contratados dos organismos a que se refere o artigo 3.º do presente diploma que possuam louvores individuais, publicados na folha oficial, ou classificação de Muito bom nas informações anuais de serviço nos últimos quatro anos. O ingresso far-se-á sem interrupção de funções, por despacho do governador-geral publicado no Boletim Oficial, com dispensa de visto do Tribunal Administrativo.
 
-###### Art. 40.º As vagas que porventura possam resultar depois de efectuado o movimento referido no artigo anterior serão preenchidas por meio de concurso de provas práticas, a que poderão candidatar-se os funcionários dos organismos mencionados no mesmo artigo que não beneficiem das suas disposições, bem como os funcionários de quaisquer serviços públicos e autarquias locais de categoria igual ou imediatamente inferior que apresentem boas informações nos dois últimos anos de serviço prestado.
+Art. 40.º As vagas que porventura possam resultar depois de efectuado o movimento referido no artigo anterior serão preenchidas por meio de concurso de provas práticas, a que poderão candidatar-se os funcionários dos organismos mencionados no mesmo artigo que não beneficiem das suas disposições, bem como os funcionários de quaisquer serviços públicos e autarquias locais de categoria igual ou imediatamente inferior que apresentem boas informações nos dois últimos anos de serviço prestado.
 
 § 1.º Em casos de igualdade de provas terão preferência os funcionários que até à data da sua extinção vinham prestando serviço nos organismos mencionados no artigo 3.º deste diploma.
 
@@ -657,7 +701,7 @@ B) Quadro do pessoal privativo permanente
 
 C) Quadros complementares
 
-###### Art. 41.º Os quadros complementares das D. S. H. de Angola e Moçambique compreendem os funcionários eventuais dos serviços hidráulicos e o pessoal das suas brigadas com carácter temporário.
+Art. 41.º Os quadros complementares das D. S. H. de Angola e Moçambique compreendem os funcionários eventuais dos serviços hidráulicos e o pessoal das suas brigadas com carácter temporário.
 
 § 1.º As categorias dos lugares dos quadros complementares previstas no artigo 30.º do presente diploma são equiparadas, em regra, às do pessoal do quadro comum e dos quadros privativos anteriormente definidos.
 
@@ -667,7 +711,7 @@ C) Quadros complementares
 
 D) Quadro do pessoal operário e serventuário
 
-###### Art. 42.º O pessoal operário e serventuário dos serviços hidráulicos de Angola e Moçambique será pago por verba global.
+Art. 42.º O pessoal operário e serventuário dos serviços hidráulicos de Angola e Moçambique será pago por verba global.
 
 § 1.º O recrutamento do pessoal assalariado de carácter permanente será feito por escolha do governador-geral, entre os propostos para o efeito pelo director de serviços.
 
@@ -675,13 +719,13 @@ D) Quadro do pessoal operário e serventuário
 
 #### SECÇÃO III — Dos vencimentos e remunerações
 
-###### Art. 43.º O pessoal dos serviços hidráulicos de Angola e Moçambique perceberá os vencimentos, subsídios e mais abonos estabelecidos pela legislação em vigor.
+Art. 43.º O pessoal dos serviços hidráulicos de Angola e Moçambique perceberá os vencimentos, subsídios e mais abonos estabelecidos pela legislação em vigor.
 
-###### Art. 44.º Ao pessoal técnico das D. S. H. são atribuídas as seguintes gratificações mensais:
+Art. 44.º Ao pessoal técnico das D. S. H. são atribuídas as seguintes gratificações mensais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf))](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
 
-###### Art. 45.º Além das gratificações indicadas no artigo 44.º, são fixados cumulativamente os seguintes quantitativos do subsídio diário, a abonar ao pessoal técnico das D. S. H.:
+Art. 45.º Além das gratificações indicadas no artigo 44.º, são fixados cumulativamente os seguintes quantitativos do subsídio diário, a abonar ao pessoal técnico das D. S. H.:
 
 Pessoal técnico com curso superior:
 
@@ -711,7 +755,7 @@ Em Moçambique: 20$00 a 50$00.
 
 § 2.º Não tem direito a subsídio diário o pessoal técnico assalariado.
 
-###### Art. 46.º Ao pessoal administrativo serão abonadas as seguintes gratificações mensais:
+Art. 46.º Ao pessoal administrativo serão abonadas as seguintes gratificações mensais:
 
 Chefe da Repartição de Administração Central ... 1500$00
 
@@ -719,21 +763,21 @@ Pagador (para falhas) ... 500$00
 
 Contínuo designado pelo director para chefe do pessoal menor ... 200$00
 
-###### Art. 47.º Enquanto o lugar de chefe do contencioso não estiver provido, o chefe da 4.ª Repartição Central acumulará com as suas funções as da chefia do contencioso.
+Art. 47.º Enquanto o lugar de chefe do contencioso não estiver provido, o chefe da 4.ª Repartição Central acumulará com as suas funções as da chefia do contencioso.
 
-###### Art. 48.º Para além das gratificações a que se referem os artigos anteriores, ao director e a cada um dos professores da escola de técnicos auxiliares de hidráulica será abonada a gratificação mensal do 1000$00, sendo 600$00 e 500$00 mensais a gratificação a abonar, respectivamente, aos instrutores e ao secretário da mesma escola.
+Art. 48.º Para além das gratificações a que se referem os artigos anteriores, ao director e a cada um dos professores da escola de técnicos auxiliares de hidráulica será abonada a gratificação mensal do 1000$00, sendo 600$00 e 500$00 mensais a gratificação a abonar, respectivamente, aos instrutores e ao secretário da mesma escola.
 
 ### CAPÍTULO V — Da preparação técnica e aperfeiçoamento de pessoal e intercâmbio dos serviços
 
 #### SECÇÃO I — Dos cursos de aperfeiçoamento ou de especialização
 
-###### Art. 49.º O pessoal com mais de quatro anos de actividade nos serviços e com boas informações anuais poderá, sob proposta dos directores provinciais, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou a realizar estágios na mesma província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
+Art. 49.º O pessoal com mais de quatro anos de actividade nos serviços e com boas informações anuais poderá, sob proposta dos directores provinciais, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou a realizar estágios na mesma província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
 
-###### Art. 50.º Sob proposta das D. S. H., poderão ser organizados colóquios de informação técnica ou científica das respectivas actividades, para os quais poderão ser convidados especialistas nacionais ou estrangeiros de reconhecida competência.
+Art. 50.º Sob proposta das D. S. H., poderão ser organizados colóquios de informação técnica ou científica das respectivas actividades, para os quais poderão ser convidados especialistas nacionais ou estrangeiros de reconhecida competência.
 
 #### SECÇÃO II — Da escola de técnicos auxiliares
 
-###### Art. 51.º Os serviços procurarão preparar o seu pessoal técnico auxiliar das diferentes categorias de acordo com as respectivas exigências. Esta preparação poderá ser extensiva a indivíduos estranhos aos serviços e, neste caso, deverão ser organizados cursos para a formação de hidrometristas, auxiliares técnicos para trabalhos hidráulicos e outros, os quais serão regulamentados em cada província e ministrados na escola de técnicos auxiliares de hidráulica.
+Art. 51.º Os serviços procurarão preparar o seu pessoal técnico auxiliar das diferentes categorias de acordo com as respectivas exigências. Esta preparação poderá ser extensiva a indivíduos estranhos aos serviços e, neste caso, deverão ser organizados cursos para a formação de hidrometristas, auxiliares técnicos para trabalhos hidráulicos e outros, os quais serão regulamentados em cada província e ministrados na escola de técnicos auxiliares de hidráulica.
 
 § 1.º O subdirector provincial dos Serviços é o director da escola, competindo-lhe orientar o ensino, assegurar o seu funcionamento e promover a publicação de textos ou livros para uso na mesma escola.
 
@@ -741,13 +785,13 @@ Contínuo designado pelo director para chefe do pessoal menor ... 200$00
 
 § 3.º O regulamento da escola, prevendo o local ou locais de ensino, natureza dos cursos e sua duração, trabalhos práticos, exames, certificados de aproveitamento, subsídios de frequência, de campo ou ajudas de custo e demais pormenores, será publicado em cada uma das províncias, de harmonia com as necessidades dos serviços.
 
-###### Art. 52.º Os serviços hidráulicos poderão promover a publicação de um boletim para a divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos, no âmbito das suas actividades, efectuados por outras entidades oficiais ou particulares. Poderão também publicar, independentemente do boletim, quaisquer estudos e trabalhos de assinalado interesse técnico e científico que seja útil divulgar, efectuados ou custeados pelos serviços hidráulicos.
+Art. 52.º Os serviços hidráulicos poderão promover a publicação de um boletim para a divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos, no âmbito das suas actividades, efectuados por outras entidades oficiais ou particulares. Poderão também publicar, independentemente do boletim, quaisquer estudos e trabalhos de assinalado interesse técnico e científico que seja útil divulgar, efectuados ou custeados pelos serviços hidráulicos.
 
-###### Art. 53.º Ficam autorizados os governadores das províncias a criar e regulamentar um fundo destinado a custear as publicações dos serviços.
+Art. 53.º Ficam autorizados os governadores das províncias a criar e regulamentar um fundo destinado a custear as publicações dos serviços.
 
 ### CAPÍTULO VI — Das disposições gerais e transitórias
 
-###### Art. 54.º Ao Conselho Técnico de Obras Públicas, além do referido no artigo 45.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), no que se refere aos assuntos da D. S. H., incumbe:
+Art. 54.º Ao Conselho Técnico de Obras Públicas, além do referido no artigo 45.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), no que se refere aos assuntos da D. S. H., incumbe:
 
 a) Apreciar os esquemas ou planos gerais de aproveitamento dos recursos hidráulicos das bacias hidrográficas, com vista a serem aprovados pelo Ministério do Ultramar;
 
@@ -761,41 +805,41 @@ Sobre a fixação do organismo explorador.
 
 c) Apreciar o projecto de ocupação hidrológica para o ano seguinte, tendo em atenção as bacias hidrográficas prioritárias superiormente definidas.
 
-###### Art. 55.º O pessoal dos organismos extintos com a publicação do presente diploma que não tiver ingressado nos quadros permanentes das D. S. H. pelas formas previstas e esteja em exercício pode ingressar nas vagas dos quadros permanentes das respectivas províncias existentes à data deste diploma, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, se o requerer e assim convier as interesses do Estado. Desde que tenha mais de cinco anos de serviço nas missões ou brigadas e boas informações, poderá ocupar vagas de 1.ª classe, quando não haja nos quadros funcionários com as condições legais para serem providos.
+Art. 55.º O pessoal dos organismos extintos com a publicação do presente diploma que não tiver ingressado nos quadros permanentes das D. S. H. pelas formas previstas e esteja em exercício pode ingressar nas vagas dos quadros permanentes das respectivas províncias existentes à data deste diploma, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, se o requerer e assim convier as interesses do Estado. Desde que tenha mais de cinco anos de serviço nas missões ou brigadas e boas informações, poderá ocupar vagas de 1.ª classe, quando não haja nos quadros funcionários com as condições legais para serem providos.
 
 § único. Aos funcionários que, mesma assim, não ficarem colocados, será aplicado o previsto na lei para os seus casos.
 
-###### Art. 56.º Nos casos em que se verifique diminuição dos actuais vencimentos do pessoal que transitar ao abrigo dos artigos 4.º e 5.º do presente diploma, poderá ser abonado, a título de compensação aos respectivos funcionários, enquanto não mudarem de situação, um complemento igual à diferença entre o vencimento que auferiam e o que passam a auferir.
+Art. 56.º Nos casos em que se verifique diminuição dos actuais vencimentos do pessoal que transitar ao abrigo dos artigos 4.º e 5.º do presente diploma, poderá ser abonado, a título de compensação aos respectivos funcionários, enquanto não mudarem de situação, um complemento igual à diferença entre o vencimento que auferiam e o que passam a auferir.
 
-###### Art. 57.º Passarão para o património das D. S. H. de Angola e Moçambique, em condições a estabelecer mediante despacho do governador-geral, os bens do inventário que actualmente pertencem aos organismos referidos no artigo 3.º deste diploma.
+Art. 57.º Passarão para o património das D. S. H. de Angola e Moçambique, em condições a estabelecer mediante despacho do governador-geral, os bens do inventário que actualmente pertencem aos organismos referidos no artigo 3.º deste diploma.
 
-###### Art. 58.º As D. S. H. concentrarão nos seus arquivos os dados hidrológicos colhidos nas províncias respectivas e ainda as características principais de todas as obras hidráulicas nelas executadas, devendo, para esse efeito, os restantes organismos e entidades privadas, desde que concessionárias, enviar obrigatòriamente cópia dos seus dados no mais curto prazo possível.
+Art. 58.º As D. S. H. concentrarão nos seus arquivos os dados hidrológicos colhidos nas províncias respectivas e ainda as características principais de todas as obras hidráulicas nelas executadas, devendo, para esse efeito, os restantes organismos e entidades privadas, desde que concessionárias, enviar obrigatòriamente cópia dos seus dados no mais curto prazo possível.
 
-###### Art. 59.º São exactores de Fazenda:
+Art. 59.º São exactores de Fazenda:
 
-**O chefe da Repartição de Administração Central;**
+O chefe da Repartição de Administração Central;
 
 Os chefes das repartições regionais.
 
-###### Art. 60.º São responsáveis por carga:
+Art. 60.º São responsáveis por carga:
 
-**O chefe da 3.ª Secção - Aquisições e Património - e da 4.ª Repartição - Administração Central;**
+O chefe da 3.ª Secção - Aquisições e Património - e da 4.ª Repartição - Administração Central;
 
 Os chefes de secção de expediente e arquivo das repartições regionais.
 
-###### Art. 61.º Serão extensíveis às D. S. H. de Angola e Moçambique as disposições aplicáveis da Portaria Ministerial n.º 208, de 23 de Dezembro de 1905, referentes ao serviço de contabilidade e administração de Fazenda das obras públicas.
+Art. 61.º Serão extensíveis às D. S. H. de Angola e Moçambique as disposições aplicáveis da Portaria Ministerial n.º 208, de 23 de Dezembro de 1905, referentes ao serviço de contabilidade e administração de Fazenda das obras públicas.
 
-###### Art. 62.º Os sectores referidos nos artigos 4.º e 5.º deste diploma deverão estar integrados nas D. S. H. de Angola e Moçambique 180 dias após a entrada em vigor do presente diploma.
+Art. 62.º Os sectores referidos nos artigos 4.º e 5.º deste diploma deverão estar integrados nas D. S. H. de Angola e Moçambique 180 dias após a entrada em vigor do presente diploma.
 
-###### Art. 63.º O actual chefe da Brigada de Estudos dos Rios de Angola transitará para chefe da 1.ª Repartição - Estudos Hidrológicos.
+Art. 63.º O actual chefe da Brigada de Estudos dos Rios de Angola transitará para chefe da 1.ª Repartição - Estudos Hidrológicos.
 
-###### Art. 64.º No prazo de 90 dias, a partir da entrada em vigor do presente diploma em cada província, deve ser submetido à aprovação do governador-geral o projecto de regulamento necessário à sua execução.
+Art. 64.º No prazo de 90 dias, a partir da entrada em vigor do presente diploma em cada província, deve ser submetido à aprovação do governador-geral o projecto de regulamento necessário à sua execução.
 
-###### Art. 65.º Este diploma revoga as Portarias n.os 21042, 21178 e 21743, respectivamente de 13 de Janeiro de 1965, 18 de Março de 1965 e 24 de Dezembro de 1965, e ainda o despacho de 30 de Março de 1963 da província de Moçambique. Revoga igualmente todas as disposições em contrário, nomeadamente as contidas nos n.os 1.º e 2.º do artigo 3.º e no artigo 6.º e seu § único dos Diplomas Legislativos n.os 2160 e 3242, respectivamente de 27 de Novembro de 1961 e 11 de Maio de 1962, e também nos n.os 3 e 16 a 21 do artigo 1.º e nos artigos 13.º e 24.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 24 de Fevereiro de 1964.
+Art. 65.º Este diploma revoga as Portarias n.os 21042, 21178 e 21743, respectivamente de 13 de Janeiro de 1965, 18 de Março de 1965 e 24 de Dezembro de 1965, e ainda o despacho de 30 de Março de 1963 da província de Moçambique. Revoga igualmente todas as disposições em contrário, nomeadamente as contidas nos n.os 1.º e 2.º do artigo 3.º e no artigo 6.º e seu § único dos Diplomas Legislativos n.os 2160 e 3242, respectivamente de 27 de Novembro de 1961 e 11 de Maio de 1962, e também nos n.os 3 e 16 a 21 do artigo 1.º e nos artigos 13.º e 24.º do [Decreto n.º 45575](https://diariodarepublica.pt/dr/detalhe/decreto/45575-1964-469853), de 24 de Fevereiro de 1964.
 
-###### Art. 66.º O presente diploma entra em vigor, nas províncias de Angola e Moçambique, 90 dias depois da sua publicação no Diário do Governo.
+Art. 66.º O presente diploma entra em vigor, nas províncias de Angola e Moçambique, 90 dias depois da sua publicação no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -807,7 +851,7 @@ Quadro comum do pessoal dos serviços hidráulicos de Angola e Moçambique
 
 (Artigo 27.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf))](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
 
 MAPA II
 
@@ -815,7 +859,7 @@ Quadro privativo permanente dos serviços hidráulicos de Angola e Moçambique
 
 (Artigo 27.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf))](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
 
 MAPA III
 
@@ -823,6 +867,6 @@ Quadro complementar dos serviços hidráulicos de Angola e Moçambique
 
 (Artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf))](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/01400/00860097.pdf)
 
 Ministério do Ultramar, 17 de Janeiro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

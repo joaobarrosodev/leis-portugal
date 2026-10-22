@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47371-1966-477663
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2f3106ed0feb4f58211d2383c8e3d3e291f3a0f2a3cee1a1f9528ef065790554
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e723cbcd24c5cf67ab5370c9c1c50be9ea75bb57cac0c853c765c8baa0f8d2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:314213:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:330456:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:48Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +99,9 @@ Nestas condições, e de harmonia com o disposto no [Decreto-Lei n.º 23049](htt
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 4.º e seus parágrafos, alínea k) do artigo 8.º, o artigo 9.º, a alínea b) do artigo 11.º, a alínea i) do artigo 19.º, o artigo 22.º, a alínea h) do artigo 31.º e os artigos 39.º, 42.º, 44.º e 51.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942, passam a ter a seguinte redacção:
+Artigo 1.º O artigo 4.º e seus parágrafos, alínea k) do artigo 8.º, o artigo 9.º, a alínea b) do artigo 11.º, a alínea i) do artigo 19.º, o artigo 22.º, a alínea h) do artigo 31.º e os artigos 39.º, 42.º, 44.º e 51.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942, passam a ter a seguinte redacção:
 
-###### Art. 4.º O Grémio compreende três secções constituídas pelos agremiados que exercem a sua actividade em cada uma das seguintes modalidades do transporte público em automóveis:
+Art. 4.º O Grémio compreende três secções constituídas pelos agremiados que exercem a sua actividade em cada uma das seguintes modalidades do transporte público em automóveis:
 
 1.ª secção (transportes de passageiros em automóveis ligeiros);
 
@@ -109,7 +117,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 ...
 
@@ -117,11 +125,11 @@ k) Fiscalizar o cumprimento das disposições legais relativas aos transportes e
 
 ...
 
-###### Art. 9.º Serão admitidos como sócios do Grémio as entidades singulares ou colectivas proprietárias de veículos automóveis licenciados para transportes públicos.
+Art. 9.º Serão admitidos como sócios do Grémio as entidades singulares ou colectivas proprietárias de veículos automóveis licenciados para transportes públicos.
 
 ...
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 ...
 
@@ -129,7 +137,7 @@ b) Pagar uma quota variável com a respectiva actividade industrial e as taxas e
 
 ...
 
-###### Art. 19.º ...
+Art. 19.º ...
 
 ...
 
@@ -137,7 +145,7 @@ i) Organizar os serviços da sede e delegações, para o que elaborará os neces
 
 ...
 
-###### Art. 22.º Cada delegação será chefiada por um sócio do Grémio, nomeado pela direcção, que terá a seu cargo dirigir os serviços internos da delegação e as atribuições que a esta forem conferidas.
+Art. 22.º Cada delegação será chefiada por um sócio do Grémio, nomeado pela direcção, que terá a seu cargo dirigir os serviços internos da delegação e as atribuições que a esta forem conferidas.
 
 § 1.º Os chefes de delegação poderão ser assistidos por dois adjuntos, também nomeados pela direcção nas condições referidas no corpo deste artigo, representando secções diferentes daquela a que pertencer o chefe da delegação.
 
@@ -145,7 +153,7 @@ i) Organizar os serviços da sede e delegações, para o que elaborará os neces
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 ...
 
@@ -153,11 +161,11 @@ h) Aprovar os regulamentos internos que sejam submetidos à sua apreciação nos
 
 ...
 
-###### Art. 39.º Junto do Grémio, com poderes de conhecer todos os actos e contas dos seus órgãos directivos e receber todas as reclamações dos sócios, com o fim não só de defender a indústria de transportes em automóveis ou os seus órgãos representativos contra tudo quanto possa diminuir o seu prestígio, como ainda de fazer observar o carácter nacional da acção do Grémio, promover a realização dos fins da sua instituição e zelar pelo bom e legal emprego das suas receitas, haverá um delegado do Governo, que assistirá a todas as reuniões da direcção e do conselho geral e informará o Ministro das Comunicações da actividade exercida pelo Grémio, devendo, para esse efeito, apresentar trimestralmente um relatório.
+Art. 39.º Junto do Grémio, com poderes de conhecer todos os actos e contas dos seus órgãos directivos e receber todas as reclamações dos sócios, com o fim não só de defender a indústria de transportes em automóveis ou os seus órgãos representativos contra tudo quanto possa diminuir o seu prestígio, como ainda de fazer observar o carácter nacional da acção do Grémio, promover a realização dos fins da sua instituição e zelar pelo bom e legal emprego das suas receitas, haverá um delegado do Governo, que assistirá a todas as reuniões da direcção e do conselho geral e informará o Ministro das Comunicações da actividade exercida pelo Grémio, devendo, para esse efeito, apresentar trimestralmente um relatório.
 
 ...
 
-###### Art. 42.º Constituem receitas do Grémio:
+Art. 42.º Constituem receitas do Grémio:
 
 a) As jóias;
 
@@ -171,9 +179,9 @@ d) Donativos e quaisquer outros rendimentos.
 
 ...
 
-###### Art. 44.º Os saldos da gerência e do produto das multas referidas no artigo 51.º constituirão um fundo especial - fundo corporativo - que se destinará à concessão de créditos aos agremiados nas condições a fixar em regulamento, podendo ainda ser aplicado aos fins que expressamente lhe sejam atribuídos ou autorizados pelo Ministro das Comunicações.
+Art. 44.º Os saldos da gerência e do produto das multas referidas no artigo 51.º constituirão um fundo especial - fundo corporativo - que se destinará à concessão de créditos aos agremiados nas condições a fixar em regulamento, podendo ainda ser aplicado aos fins que expressamente lhe sejam atribuídos ou autorizados pelo Ministro das Comunicações.
 
-###### Art. 51.º As infracções às regras estabelecidas neste decreto e seus regulamentos e às deliberações da direcção e do conselho geral ficam sujeitas às seguintes penalidades:
+Art. 51.º As infracções às regras estabelecidas neste decreto e seus regulamentos e às deliberações da direcção e do conselho geral ficam sujeitas às seguintes penalidades:
 
 a) Censura;
 
@@ -187,8 +195,8 @@ d) Eliminação.
 
 § 2.º Para os efeitos do disposto no parágrafo anterior a aplicação das penas das alíneas c) e d) será obrigatòriamente comunicada à Direcção-Geral de Transportes Terrestres.
 
-###### Art. 2.º Ficam revogados a alínea l) do artigo 19.º, o § único do artigo 22.º e os artigos 45.º e 46.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942.
+Art. 2.º Ficam revogados a alínea l) do artigo 19.º, o § único do artigo 22.º e os artigos 45.º e 46.º do [Decreto n.º 32015](https://diariodarepublica.pt/dr/detalhe/decreto/32015-1942-314213), de 13 de Maio de 1942.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 149/1965, 1º Suplemento, Série I de 1965-07-07
   number: '149'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 915 - 969
   pdf_url: https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf
 entry_into_force_dates: []
@@ -46,36 +46,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46425-1965-444689
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fedc1a226f019cc0ae4d7dea11a02ec9b9396f05d0e78662359330aabe2a03b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 267269b3970781e4c6bf7c1779f3251c1c60530705951e029c696f4561053d5b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Comunicações
+- Convenção
+- Genebra
+- Portugal
+- Regulamento
+relationships:
+- type: cites
+  target: pt:dre:148782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:51Z'
   warnings: []
   errors: []
 ---
@@ -84,11 +93,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovada a revisão parcial do Regulamento das Radiocomunicações de Genebra (1959).
+Artigo único. É aprovada a revisão parcial do Regulamento das Radiocomunicações de Genebra (1959).
 
 Essa revisão, que segue em anexo ao presente decreto e dele faz parte integrante, foi assinada em Genebra em 8 de Novembro de 1963 e altera o referido Regulamento das Radiocomunicações, aprovado pelo [Decreto n.º 45205](https://diariodarepublica.pt/dr/detalhe/decreto/45205-1963-148782), de 21 de Agosto de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Julho de 1963. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira - Carlos Gomes da Silva Ribeiro.
 
@@ -246,7 +255,7 @@ O quadro de repartição das faixas de frequências entre 9995 kHz e 10005 kHz �
 
 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 204 214
 
@@ -256,7 +265,7 @@ O quadro de repartição das faixas de frequências entre 15450 kHz e 16460 kHz 
 
 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 215A Na Bulgária, Cuba, Hungria, Polónia, Roménia, Checoslováquia e U. R. S. S. o serviço de investigação espacial é um serviço primário nas faixas 15762-15768 kHz e 18030-18036 kHz.
 
@@ -264,7 +273,7 @@ O quadro de repartição das faixas de frequências entre 18030 kHz e 20010 kHz 
 
 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 220
 
@@ -276,7 +285,7 @@ O quadro de repartição das faixas de frequências entre 29,7 MHz e 41 MHz é s
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 228 229 230 231 232 233 236
 
@@ -288,7 +297,7 @@ O quadro de repartição das faixas de frequências entre 68 MHz e 74,6 MHz é s
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 SUP 253
 
@@ -300,7 +309,7 @@ O quadro de repartição das faixas de frequências entre 117,975 MHz e 144 MHz 
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 273
 
@@ -346,7 +355,7 @@ O quadro de repartição das faixas de frequências entre 144 MHz e 150,05 MHz �
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 284 Na faixa 144-146 MHz o serviço de amador pode utilizar satélites artificiais.
 
@@ -364,7 +373,7 @@ O quadro de repartição das faixas de frequências entre 150,05 MHz e 174 MHz �
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 MOD 285 (Ver página anterior).
 
@@ -382,7 +391,7 @@ O quadro de repartição das faixas de frequências entre 174 MHz e 216 MHz é s
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 291 292 293 295 296
 
@@ -392,7 +401,7 @@ O quadro de repartição das faixas de frequências entre 235 MHz e 328,6 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 305 309
 
@@ -406,7 +415,7 @@ O quadro de repartição das faixas de frequências entre 335,4 MHz e 401 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 311A As estações dos serviços fixo e móvel em exploração podem continuar a utilizar esta faixa até 1 de Janeiro de 1969. Este prazo não se aplica à Bulgária, Cuba, Grécia, Hungria, Irão, Kuwait, Líbano, Marrocos, República Árabe Unida e Jugoslávia, onde os serviços fixo e móvel continuarão a ter o mesmo estatuto que o serviço de radionavegação por satélites (ver a Recomendação n.º 6A).
 
@@ -422,7 +431,7 @@ O quadro de repartição das faixas de frequências entre 401 MHz e 406 MHz é s
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 MOD 314 (Ver coluna anterior).
 
@@ -440,7 +449,7 @@ O quadro de repartição das faixas de frequências entre 420 MHz e 470 MHz é s
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 318 319 320 321 322 323 324
 
@@ -452,7 +461,7 @@ O quadro de repartição das faixas de frequências entre 470 MHz e 890 MHz é s
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 326 329
 
@@ -482,7 +491,7 @@ O quadro de repartição das faixas de frequências entre 890 MHz e 1215 MHz é 
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 333 340
 
@@ -494,7 +503,7 @@ O quadro de repartição das faixas de frequências entre 1400 MHz e 1660 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 SUP 350
 
@@ -524,7 +533,7 @@ O quadro de repartição das faixas de frequências entre 1660 MHz e 1710 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 324A Prevê-se que as estações espaciais de satélite de meteorologia que funcionem nesta faixa emitirão para estações terrenas especialmente escolhidas. A localização dessas estações terrenas deve determinar-se por acordo entre as administrações interessadas e aquelas cujos serviços, que funcionam de acordo com o presente Quadro, possam ser afectados.
 
@@ -548,7 +557,7 @@ O quadro de repartição das faixas de frequências entre 1710 MHz e 2290 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 356
 
@@ -560,7 +569,7 @@ O quadro de repartição das faixas de frequências entre 2290 MHz e 2300 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 356B Em Cuba a faixa 2290-2300 MHz é atribuída adicionalmente aos serviços fixo e móvel.
 
@@ -570,7 +579,7 @@ O quadro de repartição das faixas de frequências entre 2550 MHz e 2700 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 362
 
@@ -588,7 +597,7 @@ O quadro de repartição das faixas de frequências entre 3300 MHz e 4200 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 370 371 372 374 375 376 377 378.
 
@@ -604,7 +613,7 @@ O quadro de repartição das faixas de frequências entre 4200 MHz e 5000 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 MOD 365 (Ver coluna anterior).
 
@@ -618,7 +627,7 @@ O quadro de repartição das faixas de frequências entre 5000 MHz e 5350 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 MOD 384 Na Albânia, Áustria, Bulgária, Hungria, Polónia, Roménia, Suíça, Checoslováquia e U. R. S. S. a faixa 5250-5350 MHz é atribuída adicionalmente ao serviço de radionavegação.
 
@@ -628,7 +637,7 @@ O quadro de repartição das faixas de frequências entre 5650 MHz e 6425 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 354 388 389 391
 
@@ -642,7 +651,7 @@ O quadro de repartição das faixas de frequências entre 6425 MHz e 7750 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 392B A faixa 7120-7130 MHz pode ser utilizada para o telecomando que interesse ao serviço espacial, sob reserva de acordo entre as administrações interessadas e aquelas cujos serviços que funcionam de acordo com o presente Quadro são susceptíveis de serem afectados.
 
@@ -668,7 +677,7 @@ O quadro de repartição das faixas de frequências entre 7750 MHz e 8500 MHz é
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 392H Na Argélia, Bulgária, Cuba, Etiópia, Finlândia, Hungria, Japão, Kuwait, Líbano, Marrocos, Polónia, República Árabe Unida, Jugoslávia, Roménia, Suécia, Suíça, Checoslováquia e U. R. S. S. a faixa 7975-8025 MHz é atribuída adicionalmente aos serviços fixo e móvel.
 
@@ -686,7 +695,7 @@ O quadro de repartição das faixas de frequências entre 9800 MHz e 10500 MHz �
 
 MHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 INA 400 401 402 403
 
@@ -696,7 +705,7 @@ O quadro de repartição das faixas de frequências entre 10,55 GHz e 10,7 GHz �
 
 GHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 SUP 405
 
@@ -708,7 +717,7 @@ O quadro de repartição das faixas de frequências entre 14 GHz e 15,7 GHz é s
 
 GHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 MOD 407 Na Albânia, Bulgária, Hungria, Polónia, Roménia, Checoslováquia e U. R. S. S. as faixas 13,25-13,5 GHz, 14,175-14,3 GHz, 15,4-17,7 GHz, 21-22 GHz, 23-24,25 GHz e 33,4-36 GHz são atribuídas adicionalmente aos serviços fixo e móvel.
 
@@ -722,7 +731,7 @@ O quadro de repartição das faixas de frequências entre 17,7 GHz e 21 GHz é s
 
 GHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 409D Na Bulgária, Cuba, Hungria, Kuwait, Líbano, Polónia, República Árabe Unida, Roménia, Checoslováquia e U. R. S. S. a faixa 19,3-19,4 GHz é atribuída adicionalmente aos serviços fixo e móvel.
 
@@ -730,7 +739,7 @@ O quadro de repartição das faixas de frequências entre 25,25 GHz e 40 GHz é 
 
 GHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ADI 405C Em Cuba a faixa 31,5-31,8 GHz é atribuída adicionalmente, a título secundário, aos serviços fixo e móvel.
 
@@ -1052,7 +1061,7 @@ MOD 615 § 38. (1) Após a utilização real, durante um período razoável, de 
 
 Em seguida ao artigo 9 é adicionado ao Regulamento das radiocomunicacões o novo artigo seguinte:
 
-ARTIGO 9A
+###### ARTIGO 9A
 
 Notificação e inscrição no Ficheiro de referência internacional das frequências das consignações de frequência às estações do serviço espacial e do serviço de radioastronomia.
 
@@ -1408,7 +1417,7 @@ MOD (paragr. 5) Apenas são características fundamentais as informações espec
 
 É adicionado ao Regulamento das Radiocomunicações e em seguida ao Apêndice 1 o novo apêndice seguinte:
 
-## APÊNDICE 1A
+APÊNDICE 1A
 
 Fichas de notificação relativas às estações do serviço espacial e do serviço de radioastronomia
 
@@ -1774,7 +1783,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 (nota 1) Para os casos em que devem ser fornecidos os dados, ver os n.os 639AA, 639AB e 639AC.
 
@@ -1784,7 +1793,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética ou numérica da sua designação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 3 - Estações terrenas de meteorologia por satélites
 
@@ -1792,7 +1801,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 4 - Estações espaciais de satélite de meteorologia
 
@@ -1800,7 +1809,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética ou numérica da sua designação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 5 - Estações terrenas de radionavegação por satélites
 
@@ -1808,7 +1817,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 6 - Estações espaciais de satélite de radionavegação
 
@@ -1816,7 +1825,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética ou numérica da sua designação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 7 - Estações terrenas de investigação espacial
 
@@ -1824,7 +1833,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 8 - Estações espaciais de investigação espacial
 
@@ -1832,7 +1841,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética ou numérica da sua designação.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 9 - Estações de radioastronomia
 
@@ -1840,7 +1849,7 @@ Nomes dos países notificadores por ordem alfabética dos símbolos que designam
 
 Nomes das estações por ordem alfabética.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 ## ANEXO A — Revisão do Apêndice 10 ao Regulamento das Radiocomunicações
 
@@ -2036,7 +2045,7 @@ convida a C. C. I. R.
 
 a estudar o problema da distância de coordenação e, logo que disponha de melhores métodos de cálculo e de dados mais precisos sobre a propagação, a emitir pareceres destinados a substituir o método descrito no anexo à presente recomendação.
 
-## ANEXO À RECOMENDAÇÃO N.º 1-A
+ANEXO À RECOMENDAÇÃO N.º 1-A
 
 Método de cálculo da distância de coordenação entre estações terrenas e estacões de terra que utilizem em partilha, a mesma faixa de frequência na faixa de 1 GHz a 10 GHz.
 
@@ -2086,19 +2095,19 @@ QUADRO 1
 
 Interferência causada pelo emissor de uma estação terrena de telecomunicação por satélites num feixe hertziano de Terra em visibilidade directa
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 QUADRO 2
 
 Interferência causada por um emissor de feixe hertziano de Terra, em visibilidade directa, no receptor de uma estação terrena de telecomunicação por satélites
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 QUADRO 3
 
 Interferência causada pelo emissor de uma estação de Terra no receptor de uma estação terrena de investigação espacial
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 4. Resumo.
 
@@ -2128,7 +2137,7 @@ No caso em que as estações terrenas estão situadas abaixo do nível do terren
 
 Como se indicou precedentemente, quando existe um obstáculo no terreno, o valor requerido da atenuação da transmissão de referência L(índice b) pode ser diminuído de um certo factor F(índice s) (dB) que tem em conta esse obstáculo. Adoptam-se, para esse factor, os valores indicados no quadro seguinte quando o obstáculo que limita o ângulo de elevação está situado a mais de 5 km da estação terrena.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 Para obstáculos mais próximos o valor a adoptar para o factor F(índice s) pode obter-se multiplicando os valores do quadro acima pela fracção d/5, em que d designa a distância, em quilómetros, que separa a estação terrena do obstáculo.
 
@@ -2170,7 +2179,7 @@ Em apêndice encontra-se um exemplo de cálculo da distância de coordenação n
 
 c) Em certas zonas geográficas em que se sabe que as atenuações de propagação são inferiores aos valores dados pelas curvas de propagação pertinentes, devem-se calcular as distâncias de coordenação utilizando dados conhecidos da propagação.
 
-## APÊNDICE
+APÊNDICE
 
 Exemplo de cálculo da distância de coordenação no caso de um trajecto misto
 
@@ -2188,27 +2197,27 @@ Como indicado na fig. 6-A, a estação terrena está situada a 50 km da costa e 
 
 Factor de correcção a adicionar à atenuação de transmissão necessária, L(índice b), à frequência f para se obter a atenuação equivalente L'(índice b) à frequência 4 GHz (L'(índice b) = L(índice b) + factor de correcção).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 Curvas de propagação troposférica simplificadas para o cálculo da distância de coordenação. Atenuação de transmissão de referência não ultrapassada durante 0,1% do tempo à frequência 4 GHz.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 Diagrama para o cálculo da distância de coordenação. Trajectos mistos (zonas A e B). Atenuação de transmissão de referência não ultrapassada durante 0,1% do tempo, à frequência 4 GHz (L'(índice b)), em dB.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 Diagrama para o cálculo da distância de coordenação. Trajectos mistos (zonas A e C). Atenuação de transmissão de referência não ultrapassada durante 0,1% do tempo, à frequência 4 GHz (L'(índice b)), em dB.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 Diagrama para o cálculo da distância de coordenação. Trajectos mistos (zonas B e C). Atenuação de transmissão de referência não ultrapassada durante 0,1% do tempo, à frequência 4 GHz (L'(índice b)), em dB.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 Exemplo de cálculo da distância de coordenação no caso de um trajecto misto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14901/09150969.pdf)
 
 RECOMENDAÇÃO N.º 2-A
 

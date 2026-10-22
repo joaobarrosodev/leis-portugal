@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,522 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0e35c3f1ba242fc49c0a78cb4e9a805764c2face9ff919d72508bcb880459cb0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71a0b9e6ac32911d04c34db9bf89b4d488ddead74b3a13f5de1fd22509fbdf79
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Estatuto do Oficial da Armada
+- Forças Armadas
+- Marinha
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:469410:por
+  label: "Prorrogados os prazos referidos nos arts. 237.º e 238.º do Estatuto, pela Port.22181.24.08.1966.MM, DR.IS [196]\
+    \ de 24.08.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/22181-1966-469410
+  date: '1966-08-24'
+- type: amended_by
+  target: pt:dre:272859:por
+  label: "Alterados: o corpo do art. 11º, o § 1º do art. 15º, o corpo do art. 16º, o § 2º do art. 20º, o art. 66º, o art.\
+    \ 67º, o art. 68º, o art. 93º, o corpo do art. 94º, o corpo do art. 95º, o art. 97º, o art. 98º, o art. 103º, o art. 104º,\
+    \ o art. 112º, o art. 113º, a al. a) do art. 132º, a al. a) do § 2º do art. 134º e o § único do art. 212º; e aditados:\
+    \ uma al. j) ao art. 25º, um § 3º ao art. 151º e, a classe de fuzileiros ao mapa nº 1 a que se refere o art. 81º e ao\
+    \ mapa nº 3 a que se refere o § único do art. 146º , todos do Estatuto do Oficial da Armada aprovado pelo presente diploma,\
+    \ pelo DEC.48470.1968.07.05.MMAR DG.IS [158]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48470-1968-272859
+  date: '1968-07-05'
+- type: amended_by
+  target: pt:dre:276063:por
+  label: "Prorrogados os prazos referidos nos arts. 237.º e 238.º do Estatuto , pela Port.23547.21.08.1968.MM, DR.IS [197]\
+    \ de 21.08.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23547-1968-276063
+  date: '1968-08-21'
+- type: amended_by
+  target: pt:dre:527601:por
+  label: "Dada nova redacção ao parágrafo 4.º do art. 9.º, als. a), c) e d) do parágrafo 1.º e parágrafo 2.º do art. 28.º,\
+    \ art. 34.º, art. 51.º, n.º 5) da al. a) do art. 78.º, art. 101.º, parágrafo único do art. 133.º, parágrafo único do art.\
+    \ 136.º, parágrafo 3.º do art. 141.º, al. c) do corpo do art. 166.º, art. 174.º, art. 176.º, art. 178.º, parágrafo 3.º\
+    \ do art. 179.º e aditado o quadro que faz parte do art. 16.º do Estatuto aprovado pelo presente diploma, pela Port.23946.28.02.1969.MM,\
+    \ DR.IS [50] de 28.02.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23946-1969-527601
+  date: '1969-02-28'
+- type: amended_by
+  target: pt:dre:526593:por
+  label: "Acrescentada uma al. q) ao art. 70.º do Estatuto aprovado pelo presente diploma, pela Port.24018.08.04.1969.MM,\
+    \ DR.IS [83] de 08.04.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24018-1969-526593
+  date: '1969-04-08'
+- type: amended_by
+  target: pt:dre:199578:por
+  label: "Aditada uma coluna ao mapa n.º 3 anexo ao Estatuto, pela Port.24187.17.07.1969.MM, DR.IS [166] de 17.07.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24187-1969-199578
+  date: '1969-07-17'
+- type: amended_by
+  target: pt:dre:214207:por
+  label: "Dada nova redacção ao parágrafo 4.º do art. 9.º do Estatuto, pela Port.24272.08.09.1969.MM, DR.IS [210] de 08.09.1969\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/24272-1969-214207
+  date: '1969-09-08'
+- type: amended_by
+  target: pt:dre:147995:por
+  label: "Prorrogados os prazos referidos nos arts. 237.º e 238.º do Estatuto , pela Port.478/70.24.09.1970.MM, DR.IS [222]\
+    \ de 24.09.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/478-1970-147995
+  date: '1970-09-24'
+- type: amended_by
+  target: pt:dre:147444:por
+  label: "Dada nova redacção aos arts. 33.º e 50.º do Estatuto, pela Port.533/70.24.10.1970.MM, DR.IS [247] de 24.10.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/533-1970-147444
+  date: '1970-10-24'
+- type: amended_by
+  target: pt:dre:147815:por
+  label: "Aditada uma subalínea à al. b) do art. 174.º do Estatuto, pela Port.548/70.28.10.1970.MM, DR.IS [250] de 28.10.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/548-1970-147815
+  date: '1970-10-28'
+- type: amended_by
+  target: pt:dre:146906:por
+  label: "Dada nova redacção aos arts. 131.º, 132.º e 151.º do Estatuto, pela Port.612/70.02.12.1970.MM, DR.IS [279] de 02.12.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/612-1970-146906
+  date: '1970-12-02'
+- type: amended_by
+  target: pt:dre:446771:por
+  label: "Alterada a al. b) e aditado um parágrafo único ao art. 170.º do Estatuto , pela Port.100/71.18.02.1971.MM, DR.IS\
+    \ [41] de 18.02.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/100-1971-446771
+  date: '1971-02-18'
+- type: amended_by
+  target: pt:dre:445562:por
+  label: "Substituído o parágrafo único do art. 135.º do Estatuto, pela Port.116/71.02.03.1971.MM, DR.IS [51] de 02.03.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/116-1971-445562
+  date: '1971-03-02'
+- type: amended_by
+  target: pt:dre:445368:por
+  label: "Alterado o mapa n.º 3 a que se refere o art. 146.º do Estatuto, pela Port.154/71.23.03.1971.MM, DR.IS [69] de 23.03.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/154-1971-445368
+  date: '1971-03-23'
+- type: amended_by
+  target: pt:dre:643561:por
+  label: "Dada nova redacção à al. m) do mapa n.º 3 a que se refere o parágrafo único do art. 146.º do Estatuto, pela Port.344/71.28.06.1971.MM,\
+    \ DR.IS [150] de 28.06.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/344-1971-643561
+  date: '1971-06-28'
+- type: amended_by
+  target: pt:dre:633149:por
+  label: "Dada nova redacção ao art. 102.º do Estatuto, pela Port.538/71.04.10.1971.MM, DR.IS [234] de 04.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/538-1971-633149
+  date: '1971-10-04'
+- type: amended_by
+  target: pt:dre:631615:por
+  label: "Dada nova redacção ao parágrafo 2.º do art. 80.º do Estatuto, pela Port.623/71.15.11.1971.MM, DR.IS [268] de 15.11.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/623-1971-631615
+  date: '1971-11-15'
+- type: amended_by
+  target: pt:dre:631791:por
+  label: "Alterado o mapa n.º 3 a que se refere o parágrafo único do art. 146.º do Estatuto, pela Port.642/71.24.11.1971.MM,\
+    \ DR.IS [276] de 24.11.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/642-1971-631791
+  date: '1971-11-24'
+- type: amended_by
+  target: pt:dre:396290:por
+  label: "Prorrogados os prazos referidos nos arts. 237.º e 238.º do Estatuto , pela Port.168/72.23.03.1972.MM, DR.IS [70]\
+    \ de 23.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/168-1972-396290
+  date: '1972-03-23'
+- type: amended_by
+  target: pt:dre:691388:por
+  label: "Dada nova redacção aos arts. 9.º, 16.º, 28.º, 33.º, 34.º, 50.º, 51.º, 70.º, 72.º, 78.º, 80.º, 84.º, 101.º, 102.º,\
+    \ 131.º, 132.º, 133.º, 135.º, 136.º, 141.º, 151.º, 166.º, 170.º, 174.º, 176.º, 178.º, 179.º, 237.º, 238.º, aditada uma\
+    \ al. h) ao parágrafo 1.º do art. 93.º, eliminado o parágrafo 3.º do art. 191.º e os arts. 239.º, 241.º, 242.º, 243.º,\
+    \ 245.º, 246.º e substituÍdo o mapa n.º 3 a que se refere o art. 146.º do Estatuto, pela PORT.546/72.21.09.1972.MM, DG.IS\
+    \ [221] de 21.09.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/546-1972-691388
+  date: '1972-09-21'
+- type: amended_by
+  target: pt:dre:467071:por
+  label: Alterado o artigo 102.º do Estatuto pelo(a) Portaria n.º 801/74 - Diário do Governo n.º 287/1974, Série I de 1974-12-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/801-1974-467071
+  date: '1974-12-10'
+- type: amended_by
+  target: pt:dre:337190:por
+  label: Alterada a al. b) do art. 131.º e o corpo do art. 132.º e aditado um § único ao art. 169.º do Estatuto pelo(a) Portaria
+    n.º 387/75 - Diário do Governo n.º 144/1975, Série I de 1975-06-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/387-1975-337190
+  date: '1975-06-25'
+- type: amended_by
+  target: pt:dre:310606:por
+  label: Alterada a al. q) do art. 70.º do Estatuto, aprovado pelo presente diploma, pelo(a) Portaria n.º 656/75 - Diário
+    do Governo n.º 260/1975, Série I de 1975-11-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/656-1975-310606
+  date: '1975-11-10'
+- type: amended_by
+  target: pt:dre:309515:por
+  label: "Alterada a condição 12) da alínea a) e eliminada a condição 13) da alínea a) do artigo 78.º, pela PORT.713/75.02.12.1975.CR,\
+    \ DG.IS [278] de 02.12.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/713-1975-309515
+  date: '1975-12-02'
+- type: amended_by
+  target: pt:dre:311012:por
+  label: Alterado o corpo e o § 2.º do art. 1.º, o art. 5.º, o corpo do art. 7.º, o § 2.º do art. 11.º, o corpo do art. 19.º,
+    o § 2.º do art. 20.º, a al. d) do § 1.º do art. 28.º, o corpo do art. 31.º, a al. b) do corpo do art. 56.º, o corpo e
+    o § 4.º do art. 58.º, a condição 2) da al. p) do art. 70.º, as condições 8) e 9) da al. a) do art. 78.º, as als. c) e
+    d) do corpo do art. 80.º, o § 2.º do art. 122.º, o corpo do art. 124.º, o corpo do art. 126.º, o corpo do art. 130.º,
+    o § 3.º do art. 150.º, o art. 231.º e o art. 234.º, substituído pelos mapas anexos à presente portaria os mapas n.ºs 1
+    e 3 a que se referem os arts. 81.º e 146.º, aditado um § único ao art. 29.º, aditado uma condição 19) à al. a) do art.
+    78.º, aditado o mapa n.º 4 anexo à presente portaria, revogadas as als e) e f) do corpo do art. 38.º, o § único do art.
+    56.º e as als c) e d) do art. 68.º todos do Estatuto do Oficial da Armada, aprovado pelo presente diploma, pelo(a) Portaria
+    n.º 756/75 - Diário do Governo n.º 291/1975, Série I de 1975-12-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/756-1975-311012
+  date: '1975-12-18'
+- type: amended_by
+  target: pt:dre:480948:por
+  label: Alterado o art. 134.º do Estatuto do Oficial da Armada pelo(a) Portaria n.º 13/76 - Diário do Governo n.º 8/1976,
+    Série I de 1976-01-10
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/13-1976-480948
+  date: '1976-01-10'
+- type: amended_by
+  target: pt:dre:506646:por
+  label: "Alterada a alínea f) do artigo 174.º do Estatuto, pela PORT.70/76.09.02.1976.CR, DR.IS [33] de 09.02.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/70-1976-506646
+  date: '1976-02-09'
+- type: amended_by
+  target: pt:dre:507625:por
+  label: Alterada a subal. 10) da al. a) do art. 78.º do Estatuto pelo(a) Portaria n.º 106/76 - Diário do Governo n.º 49/1976,
+    Série I de 1976-02-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/106-1976-507625
+  date: '1976-02-27'
+- type: amended_by
+  target: pt:dre:426924:por
+  label: Alterado o art. 41.º do Estatuto pelo(a) Portaria n.º 316/76 - Diário da República n.º 121/1976, Série I de 1976-05-24
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/316-1976-426924
+  date: '1976-05-24'
+- type: amended_by
+  target: pt:dre:408953:por
+  label: Alterada a condição 19) da al. a) do art. 78º do Estatuto, pelo(a) Portaria n.º 593/76 - Diário da República n.º
+    234/1976, Série I de 1976-10-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/593-1976-408953
+  date: '1976-10-06'
+- type: amended_by
+  target: pt:dre:138488:por
+  label: Alterado o § único do art. 170.º do Estatuto pelo(a) Portaria n.º 58/77 - Diário da República n.º 29/1977, Série
+    I de 1977-02-04
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/58-1977-138488
+  date: '1977-02-04'
+- type: amended_by
+  target: pt:dre:252993:por
+  label: "Alterado o artigo 16.º do Estatuto pela PORT.312/77.30.05.1977.CR, DR.IS [125] de 30.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/312-1977-252993
+  date: '1977-05-30'
+- type: amended_by
+  target: pt:dre:252450:por
+  label: "Aditatos os artigos n.ºs 37.º-A, 53.º-A e 120.º-A ao Estatuto, pela PORT.326/77.02.06.1977.CR, DR.IS [128] de 02.06.1977\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/326-1977-252450
+  date: '1977-06-02'
+- type: amended_by
+  target: pt:dre:250459:por
+  label: "Alterado artigo 21.º do Estatuto pela PORT.406/77.08.07.1977.CR, DR.IS [156] de 08.07.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/406-1977-250459
+  date: '1977-07-08'
+- type: amended_by
+  target: pt:dre:250989:por
+  label: Alterada a subal. 12) do art. 78.º do Estatuto do Oficial da Armada, aprovado pelo presente diploma, pelo(a) Portaria
+    n.º 448/77 - Diário da República n.º 167/1977, Série I de 1977-07-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/448-1977-250989
+  date: '1977-07-21'
+- type: amended_by
+  target: pt:dre:287634:por
+  label: Alterados os arts. 20.º, 25.º, 56.º, 57.º, 131.º, 133.º e 135.º, aditados os arts. 15.º - A e 240.º - A, alterados
+    o n.º 8 do mapa que consta no artigo 11.º e o mapa n.º 4 a que se refere a condição 19) da al. a) do art. 78.º, o mapa
+    n.º 1 a que se refere o art. 81.º e o mapa n.º 3 a que se refere o § único do art. 146.º do presente diploma, pelo(a)
+    Portaria n.º 602/77 - Diário da República n.º 219/1977, 1º Suplemento, Série I de 1977-09-21
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/602-1977-287634
+  date: '1977-09-21'
+- type: amended_by
+  target: pt:dre:278699:por
+  label: "Alterado o art. 68º pela PORT.625/77.1977.09.29.CR DR.IS [226]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/625-1977-278699
+  date: '1977-09-29'
+- type: amended_by
+  target: pt:dre:279387:por
+  label: Alteradas a al. n) do art. 70.º e a condição 5) da al. a) do art. 78.º do Estatuto do Oficial da Armada pelo(a) Portaria
+    n.º 648/77 - Diário da República n.º 239/1977, Série I de 1977-10-15
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/648-1977-279387
+  date: '1977-10-15'
+- type: amended_by
+  target: pt:dre:281215:por
+  label: Dispensados os oficiais da Armada do quadro do activo das condições especiais de promoção referidas nas als. b) e
+    c) do art. 146.º do Estatuto do Oficial da Armada, aprovado e posto em execução pelo presente diploma, pelo(a) Portaria
+    n.º 737/77 - Diário da República n.º 279/1977, Série I de 1977-12-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/737-1977-281215
+  date: '1977-12-03'
+- type: amended_by
+  target: pt:dre:280240:por
+  label: "Alterado o tempo de permanência e eliminada a al. b) do mapa nº 3 a que se refere o § único do art. 146º do Estatuto,\
+    \ pela PORT.767/77.21.12.1977.CR, DR.IS [293] de 21.12.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/767-1977-280240
+  date: '1977-12-21'
+- type: amended_by
+  target: pt:dre:468842:por
+  label: Eliminada a al. e) e alterada a al. h) do art. 174.º do presente diploma, pelo(a) Portaria n.º 15/78 - Diário da
+    República n.º 9/1978, Série I de 1978-01-11
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/15-1978-468842
+  date: '1978-01-11'
+- type: amended_by
+  target: pt:dre:447875:por
+  label: "Alterados os arts. 101º e 107º pela PORT.36/78.1978.01.19.CR, DR.IS [16]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/36-1978-447875
+  date: '1978-01-19'
+- type: amended_by
+  target: pt:dre:447518:por
+  label: "Alterado o artigo 68.º do Estatuto, pelo DEC.29/78.17.03.1978.CR, DR.IS [64] de 17.03.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/29-1978-447518
+  date: '1978-03-17'
+- type: amended_by
+  target: pt:dre:294543:por
+  label: Alterado o tempo de permanência dos tirocínios em terra constantes do mapa n.º 3 a que se refere o § único do art.
+    146.º do Estatuto do Oficial da Armada pelo(a) Portaria n.º 286/78 - Diário da República n.º 122/1978, Série I de 1978-05-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/286-1978-294543
+  date: '1978-05-29'
+- type: amended_by
+  target: pt:dre:298407:por
+  label: Alterada a al. i) do art. 25.º do Estatuto do Oficial da Armada pelo(a) Portaria n.º 339/78 - Diário da República
+    n.º 144/1978, Série I de 1978-06-26
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/339-1978-298407
+  date: '1978-06-26'
+- type: amended_by
+  target: pt:dre:297025:por
+  label: Alterados o art. 101.º e o mapa que consta do art. 16.º do EOA pelo(a) Portaria n.º 411/78 - Diário da República
+    n.º 171/1978, Série I de 1978-07-27
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/411-1978-297025
+  date: '1978-07-27'
+- type: amended_by
+  target: pt:dre:299647:por
+  label: Alterada a al. d) do art. 146.º e as notas do mapa n.º3 a que se refere o § único do mesmo artigo, e revogadas as
+    notas ao mapa mencionado no n.º 2.º do presente diploma, alterado pelas Ports 612/70, de 2-dez, e 244/75, de 15-abr, pelo(a)
+    Portaria n.º 442/78 - Diário da República n.º 180/1978, Série I de 1978-08-07
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/442-1978-299647
+  date: '1978-08-07'
+- type: amended_by
+  target: pt:dre:326707:por
+  label: Alterada a al. a) do art. 160.º do presente diploma, pelo(a) Portaria n.º 689/78 - Diário da República n.º 276/1978,
+    Série I de 1978-11-30
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/689-1978-326707
+  date: '1978-11-30'
+- type: amended_by
+  target: pt:dre:393204:por
+  label: "Alterados os artigos 14.º e 48.º, a alínea a) e o § 2.º do artigo 50.º e os artigos 51.º e 53.º do Estatuto, pelo\
+    \ PORT.76/79.12.02.1979.CR, DR.IS [36] de 12.02.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/76-1979-393204
+  date: '1979-02-12'
+- type: amended_by
+  target: pt:dre:365295:por
+  label: Suspensa temporariamente a aplicação das disposições que dão origem à observação (g) do mapa n.º 3 mencionado no
+    § único do art. 146.º do Estatuto do Oficial da Armada, aprovado pelo presente diploma, pelo(a) Portaria n.º 529/79 -
+    Diário da República n.º 229/1979, Série I de 1979-10-03
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/529-1979-365295
+  date: '1979-10-03'
+- type: amended_by
+  target: pt:dre:363893:por
+  label: Alterada a al. c) do art. 174.º do presente diploma pelo(a) Portaria n.º 582/79 - Diário da República n.º 256/1979,
+    Série I de 1979-11-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/582-1979-363893
+  date: '1979-11-06'
+- type: amended_by
+  target: pt:dre:475126:por
+  label: Alterado o art. 58.º, o § único do art. 87.º e as als. a) e b) do art. 131.º, aditado um n.º 11 ao quadro do art.
+    11.º, acrescentada uma al. l) ao art. 25.º, e acrescentada nos mapas n.ºs 1 e 3 a que se referem os arts. 81.º e 146.º
+    a classe dos músicos, a seguir à classe de fuzileiros, do presente diploma, pelo(a) Portaria n.º 223/80 - Diário da República
+    n.º 104/1980, Série I de 1980-05-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/223-1980-475126
+  date: '1980-05-06'
+- type: amended_by
+  target: pt:dre:388447:por
+  label: "Alterados: o art. 17º, a al. d) do art. 70º, a condição 6 da al. a) do art. 78º, os arts. 80º e 84º, a al. c) do\
+    \ art. 86º, o corpo e a al. b) do art. 124º, o corpo do art. 126º, o corpo, a al. c) e os §§ 1º e 2º do art. 140º, o §\
+    \ 1º do art. 142º e os arts. 143º e 203º; aditados: a condição 20 à al. a) do art. 78º, os §§ 1º a 3º ao art. 124º, o\
+    \ § 3º ao art. 140º e a al. c) ao art. 147º; e eliminado o § único do art. 124º, todos do Estatuto do Oficial da Armada\
+    \ aprovado pelo presente diploma, com as alterações introduzidas pelas Port 689/78 de 30-Nov e 715/75 de 02-Dez, pela\
+    \ PORT.241/81.07.03.1981.CR, DR.IS [55] de 07.03.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/241-1981-388447
+  date: '1981-03-07'
+- type: amended_by
+  target: pt:dre:388838:por
+  label: "Alterada a alínea b) do artigo 124.º do Estatuto, com a redacção constante pela Portaria 241/81, de 07 de Março,\
+    \ pela PORT.337/81.10.04.1981.CR, DR.IS [84] de 10.04.1981\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/337-1981-388838
+  date: '1981-04-10'
+- type: amended_by
+  target: pt:dre:575940:por
+  label: Alterado o art. 133.º do presente diploma pelo(a) Portaria n.º 721/81 - Diário da República n.º 194/1981, Série I
+    de 1981-08-25
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/721-1981-575940
+  date: '1981-08-25'
+- type: amended_by
+  target: pt:dre:608918:por
+  label: "Alterada a al. a) do art. 78º, pela PORT.274/82.1982.03.15.CR, DR.IS [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/274-1982-608918
+  date: '1982-03-15'
+- type: amended_by
+  target: pt:dre:607347:por
+  label: "Alterados os arts. 71º e 75º pela PORT.371/82.1982.04.15.CR, DR.IS [87] de 15/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/371-1982-607347
+  date: '1982-04-15'
+- type: amended_by
+  target: pt:dre:606761:por
+  label: "Alterado o § 1º do art. 61º pela PORT.431/82.1982.04.29.CR, DR.IS [99] de 29/Abr/1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/431-1982-606761
+  date: '1982-04-29'
+- type: amended_by
+  target: pt:dre:376785:por
+  label: "Alterado o § único do art. 170.º do Estatuto, aprovado pelo presente diploma, alterado pela Port 546/72, de 21-Set\
+    \ e Port 100/71, de 18-Fev, pela PORT.966/82.14.10.1982.CR, DR.IS [238] de 14.10.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/966-1982-376785
+  date: '1982-10-14'
+- type: amended_by
+  target: pt:dre:376612:por
+  label: "Alterado o n.º 12 da al. a) do art. 78.º do Estatuto, aprovado pelo presente diploma, alterado pela Port 713/75,\
+    \ de 02-Dez, Port 546/72, de 21-Set e Port 23946, de 28-Fev 1969, pela PORT.970/82.15.10.1982.CR, DR.IS [239] de 15.10.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/970-1982-376612
+  date: '1982-10-15'
+- type: amended_by
+  target: pt:dre:243370:por
+  label: "Alterados os arts. 83º e 194º do Estatuto pela PORT.1012-G/82.29.10.1982.CR, DR.IS [251-2.º Supl] de 29.10.1982\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1012-g-1982-243370
+  date: '1982-10-29'
+- type: amended_by
+  target: pt:dre:451838:por
+  label: Alterada a al. a) do art. 131.º, e o tempo de permanência no posto para a promoção a segundo-tenente da classe do
+    serviço especial referido no mapa n.º 3 a que se refere o § único do art. 146.º do presente diploma, pelo(a) Portaria
+    n.º 670/83 - Diário da República n.º 132/1983, Série I de 1983-06-09
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/670-1983-451838
+  date: '1983-06-09'
+- type: amended_by
+  target: pt:dre:442312:por
+  label: "Alterado o artigo 68.º do Estatuto, pelo DEC LEI.362/83.20.09.1983.MDN, DR.IS [217] de 20.09.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/362-1983-442312
+  date: '1983-09-20'
+- type: amended_by
+  target: pt:dre:381744:por
+  label: "Dada nova redacção ao parágrafo 3.º do art. 135.º do Estatuto do presente diploma, pela PORT.538/84.31.07.1984.MDN,\
+    \ DR.IS [176] de 31.07.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/538-1984-381744
+  date: '1984-07-31'
+- type: amended_by
+  target: pt:dre:382264:por
+  label: "Dada nova redacção às als. h) e j) do mapa nº 3 anexo ao Estatuto do Oficial da Armada do presente diploma, pela\
+    \ PORT.574/84.07.08.1984.MDN, DR.IS [182] de 07.08.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/574-1984-382264
+  date: '1984-08-07'
+- type: amended_by
+  target: pt:dre:399631:por
+  label: "Aditado o posto de segundo-tenente na classe de fuzileiros na coluna \"Postos\" no quadro do art. 11.º, nova al.\
+    \ d) do art. 131.º e alteradas as colunas relativamente à classe de fuzileiros do mapa n.º 3 a que se refere o § único\
+    \ do art. 146.º do presente diploma, pela PORT.739/84.21.09.1984.MDN, DR.IS [220] de 21.09.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/739-1984-399631
+  date: '1984-09-21'
+- type: amended_by
+  target: pt:dre:400210:por
+  label: "Alterado o quadro do art. 11.º, art. 31.º (na redacção da Port 756/75, de 18-Dez), o art. 131.º (na redacção da\
+    \ Port 612/70, de 02-Dez, da Port 546/72, de 21-Set e da Port 223/80, de 06-Mai, de 21-Set) e eliminado o art. 68.º (na\
+    \ redacção do Dec 29/78, de 17-Mar) do Estatuto aprovado pelo presente diploma, pelo DEC LEI.340/84.22.10.1984.MDN, DR.IS\
+    \ [245] de 22.10.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/340-1984-400210
+  date: '1984-10-22'
+- type: amended_by
+  target: pt:dre:396311:por
+  label: "Substituídos os limites de idade das classes de médicos navais e farmacêuticos navais incluídos nos mapas 1 e 4\
+    \ do Estatuto do Oficial da Armada, aprovado pelo presente diploma, com a redacção constante pelas Port 756/75, de 18-Dez\
+    \ , 602/77, de 21-Set e 223/80, de 06-Mai, pela PORT.940/84.19.12.1984.MDN, DR.IS [292] de 19.12.1984\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/940-1984-396311
+  date: '1984-12-19'
+- type: amended_by
+  target: pt:dre:326928:por
+  label: Alterado o § 4.º do art. 133.º e o art. 134.º do presente diploma, pelo(a) Decreto-Lei n.º 66/85 - Diário da República
+    n.º 64/1985, Série I de 1985-03-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/66-1985-326928
+  date: '1985-03-18'
+- type: amended_by
+  target: pt:dre:193826:por
+  label: "Alterados os arts. 14º, 48º, a al. a) e o § 2º do art. 50º e os arts. 51º e 53º do Estatuto, pela PORT.59/86.1986.02.20.MDN,\
+    \ DR.IS [42] de 20.02.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/59-1986-193826
+  date: '1986-02-20'
+- type: amended_by
+  target: pt:dre:226859:por
+  label: "Alterados os arts. 14º e 48º, a al. a) e o § 2º do art. 50º e os arts. 51º e 53º do Estatuto do Oficial da Armada\
+    \ pela PORT.270/86.04.06.1986.MDN, DR.IS [127] de 04.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/270-1986-226859
+  date: '1986-06-04'
+- type: amended_by
+  target: pt:dre:229088:por
+  label: "Reposta em vigor, com nova redacção a condição 13) da al. do art. 78º do Estatuto aprovado pelo presente diploma,\
+    \ pela PORT.284/86.17.06.1986.MDN, DR.IS [136] de 17.06.1986\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/284-1986-229088
+  date: '1986-06-17'
+- type: amended_by
+  target: pt:dre:625601:por
+  label: "Alterado o art. 78º do Estatuto, pelo DEC LEI.137/89.1989.04.28.MDN, DR.IS [98]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/137-1989-625601
+  date: '1989-04-28'
+- type: cites
+  target: pt:dre:353481:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507824:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:608491:por
+  label: "Revogado o § 2º do art. 24º pela PORT.330/82.1982.03.29.CR, DR.IS [73]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/330-1982-608491
+  date: '1982-03-29'
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.24.01.1990.MDN, DR.IS [20]Supl de 24.01.1990
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 49
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:32Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +572,11 @@ Tendo em conta o disposto no artigo 1.º do [Decreto-Lei n.º 46672](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado e posto em execução o Estatuto do Oficial da Armada, que faz parte integrante deste decreto.
+Artigo único. É aprovado e posto em execução o Estatuto do Oficial da Armada, que faz parte integrante deste decreto.
 
 § único. O Estatuto do Oficial da Armada apenas respeita aos oficiais dos quadros permanentes, com excepção do capítulo I, que também é aplicável aos oficiais de complemento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias.
 
@@ -104,9 +586,9 @@ ESTATUTO DO OFICIAL DA ARMADA
 
 #### SECÇÃO I — Quadros
 
-###### Artigo 1.º Na corporação dos oficiais da Armada existem os seguintes quadros de oficiais:
+Artigo 1.º Na corporação dos oficiais da Armada existem os seguintes quadros de oficiais:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 1.º Os oficiais pertencentes aos quadros de oficiais do activo, da reserva da Armada com direito a pensão, refomados e separados do serviço são genèricamente designados por oficiais dos quadros permanentes.
 
@@ -116,25 +598,25 @@ ESTATUTO DO OFICIAL DA ARMADA
 
 § 4.º As classes referidos no parágrafo anterior podem ser divididas em subclasses. As classes ou as subclasses podem compreender um ou mais ramos.
 
-###### Art. 2.º A assistência moral e religiosa ao pessoal da Armada será prestada por sacerdotes da religião católica, graduados em oficiais.
+Art. 2.º A assistência moral e religiosa ao pessoal da Armada será prestada por sacerdotes da religião católica, graduados em oficiais.
 
-###### Art. 3.º O número de oficiais de cada classe, agrupados pelos respectivos postos, constitui o quadro da classe; o número de oficiais de cada posto em cada classe constitui o quadro desse posto.
+Art. 3.º O número de oficiais de cada classe, agrupados pelos respectivos postos, constitui o quadro da classe; o número de oficiais de cada posto em cada classe constitui o quadro desse posto.
 
 § único. Quando as classes sejam divididas em subclasses, a cada subclasse corresponde um quadro próprio com os respectivos quadros dos postos. Os somatórios total e por postos dos oficiais das subclasses não podem exceder os efectivos fixados para a classe.
 
-###### Art. 4.º A constituição do quadro de oficiais do activo é função das necessidades da Marinha para o desempenho das tarefas que lhe estão atribuídas e os efectivos do mesmo quadro são fixados por decreto-lei.
+Art. 4.º A constituição do quadro de oficiais do activo é função das necessidades da Marinha para o desempenho das tarefas que lhe estão atribuídas e os efectivos do mesmo quadro são fixados por decreto-lei.
 
 § único. Sem prejuízo do estabelecido no corpo deste artigo, a constituição dos quadros deverá assegurar que o acesso a postos correspondentes em quadros de idênticas características se realize com o mínimo desfasamento.
 
-###### Art. 5.º Os quadros de oficiais das reservas da Armada, da reserva naval, da reserva marítima, da reserva legionária, dos reformados e dos separados do serviço não têm efectivos fixos.
+Art. 5.º Os quadros de oficiais das reservas da Armada, da reserva naval, da reserva marítima, da reserva legionária, dos reformados e dos separados do serviço não têm efectivos fixos.
 
 #### SECÇÃO II — Ordenamento hierárquico e classes
 
-###### Art. 6.º O ordenamento hierárquico dos oficiais da Armada é feito segundo categorias, postos e antiguidade.
+Art. 6.º O ordenamento hierárquico dos oficiais da Armada é feito segundo categorias, postos e antiguidade.
 
-###### Art. 7.º As categorias e os postos dos oficiais da Armada, por ordem decrescente, e a correspondência dos postos com os do Exército e da Força Aérea, são os seguintes:
+Art. 7.º As categorias e os postos dos oficiais da Armada, por ordem decrescente, e a correspondência dos postos com os do Exército e da Força Aérea, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 1.º Os postos de guarda-marinha e subtenente são equivalentes.
 
@@ -142,7 +624,7 @@ ESTATUTO DO OFICIAL DA ARMADA
 
 § 3.º O posto de cadete é de categoria imediatamente inferior à de aspirante a oficial.
 
-###### Art. 8.º Em igualdade de postos a hierarquia é definida pela antiguidade relativa.
+Art. 8.º Em igualdade de postos a hierarquia é definida pela antiguidade relativa.
 
 § 1.º Nos oficiais do mesmo posto, pertencendo ao mesmo quadro, classe e subclasse, a antiguidade relativa é determinada pela sua posição na escala de antiguidades elaborada pela Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal). Estas escalas são organizadas tendo em conta a data da antiguidade expressa nos diplomas de promoção e as modificações que nelas devam ser introduzidas por efeito de disposições legais. Na relação das posições que os oficiais ocupam numa escala de antiguidades, qualquer oficial é considerado como estando à esquerda de todos os que são mais antigos do que ele e à direita dos que são mais modernos.
 
@@ -156,7 +638,7 @@ ESTATUTO DO OFICIAL DA ARMADA
 
 § 6.º A antiguidade dos oficiais de complemento é regulada pelo estabelecido nos parágrafos anteriores e pelas disposições que forem fixadas na legislação especial que lhes respeita.
 
-###### Art. 9.º À hierarquia definida pelo disposto no artigo anterior sobrepõe-se a que resulta do desempenho de determinados cargos, desde que a mesma conste de diplomas legais.
+Art. 9.º À hierarquia definida pelo disposto no artigo anterior sobrepõe-se a que resulta do desempenho de determinados cargos, desde que a mesma conste de diplomas legais.
 
 § 1.º O vice-almirante ou general chefe do Estado-Maior General das Forças Armadas é hieràrquicamente superior a todos os outros oficiais em serviço nas forças armadas.
 
@@ -182,37 +664,37 @@ g) Outros contra-almirantes.
 
 § 5.º Os oficiais investidos em funções de comando-chefe de forças de dois ou mais ramos são hieràrquicamente superiores aos oficiais do mesmo posto que comandam cada uma dessas forças, independentemente da sua antiguidade relativa.
 
-###### Art. 10.º Do ponto de vista técnico os oficiais agrupam-se em classes.
+Art. 10.º Do ponto de vista técnico os oficiais agrupam-se em classes.
 
-###### Art. 11.º As classes e respectivos postos do quadro de oficiais do activo são os seguintes:
+Art. 11.º As classes e respectivos postos do quadro de oficiais do activo são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 1.º Nos quadros de oficiais das reservas da Armada, reformados e separados do serviço existem as mesmas classes e postos que no quadro de oficiais do activo.
 
 § 2.º As classes e postos dos quadros de oficiais das reservas naval, marítima e legionária são fixados nos diplomas relativos a estas reservas.
 
-###### Art. 12.º A graduação em oficiais dos sacerdotes a que se refere o artigo 2.º será regulada por diploma especial.
+Art. 12.º A graduação em oficiais dos sacerdotes a que se refere o artigo 2.º será regulada por diploma especial.
 
-###### Art. 13.º Os oficiais de qualquer quadro, classe ou subclasse, que ingressem noutro quadro, classe ou subclasse com posto inferior, ficam graduados no posto que possuíam até alcançarem esse posto no seu novo quadro, classe ou subclasse.
+Art. 13.º Os oficiais de qualquer quadro, classe ou subclasse, que ingressem noutro quadro, classe ou subclasse com posto inferior, ficam graduados no posto que possuíam até alcançarem esse posto no seu novo quadro, classe ou subclasse.
 
-###### Art. 14.º Na classe dos engenheiros de material naval existem os seguintes ramos:
+Art. 14.º Na classe dos engenheiros de material naval existem os seguintes ramos:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
-###### Art. 15.º A classe do serviço especial divide-se nas seguintes subclasses:
+Art. 15.º A classe do serviço especial divide-se nas seguintes subclasses:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 1.º Os ramos em que se dividem as subclasses do serviço especial, bem como as classes dos sargentos e praças que a eles podem concorrer, são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 2.º Além dos ramos indicados no parágrafo anterior, poderão ser criados outros, sempre que as necessidades do serviço o determinarem. Os nomes, as letras designativas e as classes dos sargentos e praças, que poderão concorrer a estes ramos, serão definidos por portaria do Ministro da Marinha.
 
-###### Art. 16.º Para ampliar os conhecimentos profissionais dos oficiais subalternos do quadro de oficiais do activo para o desempenho de determinados cargos, deverão os mesmos frequentar cursos de especialização. As especializações e as classes em que podem ser obtidas são as seguintes:
+Art. 16.º Para ampliar os conhecimentos profissionais dos oficiais subalternos do quadro de oficiais do activo para o desempenho de determinados cargos, deverão os mesmos frequentar cursos de especialização. As especializações e as classes em que podem ser obtidas são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 1.º Para o fim indicado no corpo deste artigo, os oficiais da classe de marinha poderão frequentar o curso de engenheiro hidrógrafo, cujas letras designativas são EH.
 
@@ -220,11 +702,11 @@ g) Outros contra-almirantes.
 
 #### SECÇÃO III — Designações
 
-###### Art. 17.º Aos oficiais generais e superiores é devido o tratamento de «excelência», e dos oficiais subalternos, o de «senhoria».
+Art. 17.º Aos oficiais generais e superiores é devido o tratamento de «excelência», e dos oficiais subalternos, o de «senhoria».
 
-###### Art. 18.º No quadro de oficiais do activo, os oficiais da classe de marinha são designados pelo respectivo posto, e os das outras classes, pelo posto seguido da indicação da classe.
+Art. 18.º No quadro de oficiais do activo, os oficiais da classe de marinha são designados pelo respectivo posto, e os das outras classes, pelo posto seguido da indicação da classe.
 
-###### Art. 19.º Na designação dos oficiais que não pertencem ao quadro de oficiais do activo serão usadas regras idênticas às expressas no artigo anterior, mas seguidamente ao posto, na classe de marinha, ou à designação da classe, nas outras classes, são dadas, conforme os casos, as indicações seguintes:
+Art. 19.º Na designação dos oficiais que não pertencem ao quadro de oficiais do activo serão usadas regras idênticas às expressas no artigo anterior, mas seguidamente ao posto, na classe de marinha, ou à designação da classe, nas outras classes, são dadas, conforme os casos, as indicações seguintes:
 
 a) Da reserva da Armada;
 
@@ -240,7 +722,7 @@ f) Separado do serviço.
 
 § único. As expressões referidas nas alíneas do corpo deste artigo podem ser substituídas pelas letras designativas indicadas no quadro do artigo 1.º
 
-###### Art. 20.º Seguidamente aos nomes dos oficiais é indicada:
+Art. 20.º Seguidamente aos nomes dos oficiais é indicada:
 
 a) A respectiva especialização, quando a possuam;
 
@@ -254,15 +736,15 @@ d) A classe dos sargentos e praças de origem, quando se trate de oficiais do se
 
 § 2.º A indicação a que se refere a alínea d) do corpo deste artigo é dada pelas abreviaturas que a seguir se estabelecem, colocadas entre parêntesis:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 § 3.º A indicação da especialização não é usada quando se trate de oficiais generais e superiores.
 
-###### Art. 21.º Sem prejuízo do disposto nos artigos anteriores, cabe aos almirantes, vice-almirantes e contra-almirantes a designação abreviada de almirante, competindo a de comandante aos oficiais exercendo funções de comando e aos oficiais superiores quando, pelas funções que desempenham, lhes não deva ser dado outro tratamento. Os primeiros-tenentes, segundos-tenentes e subtenentes podem ser tratados, abreviadamente, por tenente.
+Art. 21.º Sem prejuízo do disposto nos artigos anteriores, cabe aos almirantes, vice-almirantes e contra-almirantes a designação abreviada de almirante, competindo a de comandante aos oficiais exercendo funções de comando e aos oficiais superiores quando, pelas funções que desempenham, lhes não deva ser dado outro tratamento. Os primeiros-tenentes, segundos-tenentes e subtenentes podem ser tratados, abreviadamente, por tenente.
 
 Os oficiais com cursos de Engenharia, Medicina e Farmácia podem ser tratados pelos títulos correspondentes a estes cursos.
 
-###### Art. 22.º Os sacerdotes a que se refere o artigo 2.º são designados por capelães da Armada.
+Art. 22.º Os sacerdotes a que se refere o artigo 2.º são designados por capelães da Armada.
 
 § único. O capelão de maior hierarquia é designado por capelão-chefe da Armada.
 
@@ -270,17 +752,17 @@ Os oficiais com cursos de Engenharia, Medicina e Farmácia podem ser tratados pe
 
 #### SECÇÃO I — Obrigações e direitos
 
-###### Art. 23.º Ao oficial da Armada pertencem as obrigações e os direitos expressos no capítulo II do Estatuto dos Oficiais das Forças Armadas.
+Art. 23.º Ao oficial da Armada pertencem as obrigações e os direitos expressos no capítulo II do Estatuto dos Oficiais das Forças Armadas.
 
 #### SECÇÃO II — Funções
 
-###### Art. 24.º Aos oficiais da Armada compete o desempenho de funções nos comandos, forças, unidades e serviços da Armada e nos diversos organismos do Ministério da Marinha, de acordo com os respectivos quadros, classes e postos.
+Art. 24.º Aos oficiais da Armada compete o desempenho de funções nos comandos, forças, unidades e serviços da Armada e nos diversos organismos do Ministério da Marinha, de acordo com os respectivos quadros, classes e postos.
 
 § 1.º Aos mesmos oficiais também compete desempenhar as funções que à Marinha respeitam nos comandos e estados-maiores de coligação internacional (combinados) ou interforças armadas e noutros departamentos do Estado.
 
 § 2.º Aos oficiais com o posto de almirante compete desempenhar funções de inspecção, de que darão exclusiva conta aos Ministros da Defesa Nacional e da Marinha.
 
-###### Art. 25.º De uma maneira geral, aos oficiais do quadro de oficiais do activo competem as seguintes funções:
+Art. 25.º De uma maneira geral, aos oficiais do quadro de oficiais do activo competem as seguintes funções:
 
 a) Marinha:
 
@@ -354,7 +836,7 @@ Exercício de cargos de natureza técnica e militar nas unidades e serviços.
 
 § 2.º As funções relativas ao serviço nas unidades de fuzileiros, de desembarque e de mergulhadores-sapadores, incluindo as de comando, pertencem a oficiais das classes que forem especificadas na regulamentação daquelas unidades.
 
-###### Art. 26.º Aos oficiais da Armada competem mais as seguintes funções:
+Art. 26.º Aos oficiais da Armada competem mais as seguintes funções:
 
 a) De justiça, disciplina e instrução;
 
@@ -366,7 +848,7 @@ a) As funções de juízes do Supremo Tribunal Militar e de presidentes dos trib
 
 b) O exercício dos cargos de chefes e subchefes de estados-maiores.
 
-###### Art. 27.º As classes e postos dos oficiais do quadro de oficiais do activo respeitantes aos diversos cargos são fixados nos diplomas regulamentares dos organismos do Ministério da Marinha, na Ordenança do Serviço Naval, no Regulamento de Infantaria da Armada e nos diplomas que fixam as lotações dos comandos, forças, unidades ou serviços.
+Art. 27.º As classes e postos dos oficiais do quadro de oficiais do activo respeitantes aos diversos cargos são fixados nos diplomas regulamentares dos organismos do Ministério da Marinha, na Ordenança do Serviço Naval, no Regulamento de Infantaria da Armada e nos diplomas que fixam as lotações dos comandos, forças, unidades ou serviços.
 
 § 1.º Nenhum oficial pode ser nomeado para desempenhar funções que competem a oficiais de posto inferior àquele a que tenha ascendido.
 
@@ -374,7 +856,7 @@ b) O exercício dos cargos de chefes e subchefes de estados-maiores.
 
 § 3.º Os oficiais que, nas condições do parágrafo anterior, desempenharem funções de posto superior ao seu são considerados, enquanto naquela situação, com autoridade correspondente a esse posto em relação a todos os que lhe estão directamente subordinados.
 
-###### Art. 28.º Os oficiais do quadro de oficiais da reserva da Armada com direito a pensão, quando prestando serviço efectivo, desempenham funções correspondentes à sua classe e posto.
+Art. 28.º Os oficiais do quadro de oficiais da reserva da Armada com direito a pensão, quando prestando serviço efectivo, desempenham funções correspondentes à sua classe e posto.
 
 § 1.º Em tempo de paz as funções dos oficiais a que se refere o corpo deste amigo são limitadas aos seguintes organismos e actividades:
 
@@ -398,39 +880,39 @@ i) Os que expressamente forem designados em diplomas legais.
 
 § 2.º Em tempo de guerra ou de grave emergência, os oficiais a que se refere o corpo deste amigo desempenharão qualquer dos serviços que competem aos oficiais do quadro de oficiais do activo, desde que compatíveis com a sua aptidão física.
 
-###### Art. 20.º Aos oficiais do quadro de oficiais do activo deve ser cometido o desempenho dos vários tipos de funções características das suas classes ou ramos e postos, com vista à sua adequada preparação em cada posto e para os postos imediatos.
+Art. 20.º Aos oficiais do quadro de oficiais do activo deve ser cometido o desempenho dos vários tipos de funções características das suas classes ou ramos e postos, com vista à sua adequada preparação em cada posto e para os postos imediatos.
 
-###### Art. 30.º A habilitação com cursos de especialização não implica o desempenho de funções diferentes das que competem a cada classe, porquanto os referidos cursos se destinam, sòmente, a aumentar os conhecimentos técnicos de determinadas actividades da respectiva classe.
+Art. 30.º A habilitação com cursos de especialização não implica o desempenho de funções diferentes das que competem a cada classe, porquanto os referidos cursos se destinam, sòmente, a aumentar os conhecimentos técnicos de determinadas actividades da respectiva classe.
 
 § único. A habilitação com o curso de engenheiro hidrógrafo, a que se refere o § 1.º do artigo 16.º, pode constituir condição de preferência para o desempenho de funções relativas aos serviços de hidrografia e de oceanografia, de acordo com as disposições legais que estejam em vigor.
 
 #### SECÇÃO III — Ingresso nas classes
 
-###### Art. 31.º O ingresso nas classes de marinha, dos engenheiros maquinistas navais e de administração naval, do quadro de oficiais do activo, é feito no posto de guarda-marinha, por promoção dos cadetes que tenham completado, respectivamente, os cursos de marinha, de engenheiro maquinista naval e de administração naval, da Escola Naval.
+Art. 31.º O ingresso nas classes de marinha, dos engenheiros maquinistas navais e de administração naval, do quadro de oficiais do activo, é feito no posto de guarda-marinha, por promoção dos cadetes que tenham completado, respectivamente, os cursos de marinha, de engenheiro maquinista naval e de administração naval, da Escola Naval.
 
 § único. A posição dos guardas-marinhas referidos no corpo deste artigo na escala de antiguidades da respectiva classe é estabelecida de acordo com o disposto no Regulamento da Escola Naval.
 
-###### Art. 32.º O ingresso na classe dos engenheiros construtores navais do quadro de oficiais do activo é feito no posto de segundo-tenente, após concurso documental de admissão ao curso de engenheiro construtor naval, frequência do mesmo curso e realização dos respectivos estágios.
+Art. 32.º O ingresso na classe dos engenheiros construtores navais do quadro de oficiais do activo é feito no posto de segundo-tenente, após concurso documental de admissão ao curso de engenheiro construtor naval, frequência do mesmo curso e realização dos respectivos estágios.
 
 § 1.º A data do ingresso na classe dos engenheiros construtores navais é a do dia em que for aprovada, por despacho do Ministro da Marinha, a classificação final dos oficiais que frequentaram o respectivo curso e estágios.
 
 § 2.º A ordem por que se realiza o ingresso na classe dos engenheiros construtores navais que frequentaram o mesmo curso corresponde à ordem decrescente das classificações finais, a qual define a antiguidade relativa dos mesmos oficiais na data do seu ingresso naquela classe.
 
-###### Art. 33.º Ao concurso documental a que se refere o artigo anterior apenas podem ser admitidos segundos-tenentes das classes de marinha e dos engenheiros maquinistas navais, do quadro de oficiais do activo, com idade não superior a 25 e a 26 anos, respectivamente, contados por anos completos, feitos no ano civil do concurso.
+Art. 33.º Ao concurso documental a que se refere o artigo anterior apenas podem ser admitidos segundos-tenentes das classes de marinha e dos engenheiros maquinistas navais, do quadro de oficiais do activo, com idade não superior a 25 e a 26 anos, respectivamente, contados por anos completos, feitos no ano civil do concurso.
 
 § 1.º O concurso a que se refere o corpo deste artigo é aberto e organizado na Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
 
 § 2.º Por despacho do Ministro da Marinha poderão ser fixados os números das vacaturas que devem ser reservadas para os oficiais das classes de marinha e dos engenheiros maquinistas navais, para o que serão abertos concursos separados para cada uma destas classes.
 
-###### Art. 34.º A escola superior nacional ou estrangeira onde é frequentado o curso de engenheiro construtor naval é da escolha do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada, com base em informação da Inspecção de Construção Naval.
+Art. 34.º A escola superior nacional ou estrangeira onde é frequentado o curso de engenheiro construtor naval é da escolha do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada, com base em informação da Inspecção de Construção Naval.
 
-###### Art. 35.º A maneira como os oficiais são classificados no concurso a que se refere o artigo 32.º, as condições de preferência quando se verificar igualdade de classificações, a forma como são aprovadas as classificações finais para efeito do disposto no § 2.º do artigo 32.º e outras condições relativas ao curso de engenheiro construtor naval e aos respectivos estágios são fixadas em portaria do Ministro da Marinha.
+Art. 35.º A maneira como os oficiais são classificados no concurso a que se refere o artigo 32.º, as condições de preferência quando se verificar igualdade de classificações, a forma como são aprovadas as classificações finais para efeito do disposto no § 2.º do artigo 32.º e outras condições relativas ao curso de engenheiro construtor naval e aos respectivos estágios são fixadas em portaria do Ministro da Marinha.
 
-###### Art. 36.º Os oficiais que estejam frequentando o curso de engenheiro construtor naval e respectivos estágios têm direito, além dos vencimentos e outros abonos correspondentes à situação de serviço efectivo, ao pagamento das despesas de transportes, propinas e outras a satisfazer nas escolas ou nos estaleiros onde forem realizados o curso e os estágios, por conta do Ministério da Marinha.
+Art. 36.º Os oficiais que estejam frequentando o curso de engenheiro construtor naval e respectivos estágios têm direito, além dos vencimentos e outros abonos correspondentes à situação de serviço efectivo, ao pagamento das despesas de transportes, propinas e outras a satisfazer nas escolas ou nos estaleiros onde forem realizados o curso e os estágios, por conta do Ministério da Marinha.
 
-###### Art. 37.º Os oficiais admitidos à frequência do curso de engenheiro construtor naval que sejam promovidos a primeiro-tenente nos quadros das suas classes antes do seu ingresso na classe dos engenheiros construtores navais ingressarão nesta classe, na data referida no § 1.º do artigo 32.º, como segundos-tenentes engenheiros construtores navais, graduados em primeiro-tenente da classe de origem, e perdem esta graduação quando forem promovidos a primeiro-tenente engenheiro construtor naval.
+Art. 37.º Os oficiais admitidos à frequência do curso de engenheiro construtor naval que sejam promovidos a primeiro-tenente nos quadros das suas classes antes do seu ingresso na classe dos engenheiros construtores navais ingressarão nesta classe, na data referida no § 1.º do artigo 32.º, como segundos-tenentes engenheiros construtores navais, graduados em primeiro-tenente da classe de origem, e perdem esta graduação quando forem promovidos a primeiro-tenente engenheiro construtor naval.
 
-###### Art. 38.º O ingresso na classe dos médicos navais do quadro de oficiais do activo é feito no posto de segundo-tenente, por concurso entre os indivíduos habilitados com o curso médico-cirúrgico das Faculdades de Medicina nacionais que satisfaçam mais às seguintes condições:
+Art. 38.º O ingresso na classe dos médicos navais do quadro de oficiais do activo é feito no posto de segundo-tenente, por concurso entre os indivíduos habilitados com o curso médico-cirúrgico das Faculdades de Medicina nacionais que satisfaçam mais às seguintes condições:
 
 a) Ser cidadão português, filho de pais portugueses;
 
@@ -452,37 +934,37 @@ g) Ter satisfeito às leis do recrutamento militar.
 
 § 3.º Quando pelo concurso a que se refere o corpo deste artigo não for possível admitir médicos navais em número suficiente para o preenchimento das vacaturas, poderá o Ministro da Marinha, por despacho, elevar o limite de idade fixado na alínea b) do corpo deste artigo para 32 anos.
 
-###### Art. 39.º A admissão ao concurso referido no artigo anterior é requerida ao superintendente dos Serviços da Armada, devendo os interessados juntar aos respectivos requerimentos a documentação comprovativa de que satisfazem às condições indicadas no mesmo artigo, com excepção da que é referida na alínea d), e ainda quaisquer outros documentos que comprovem o seu mérito profissional e científico ou que provem satisfazer às condições de preferência estabelecidas para o caso de igualdade de classificação.
+Art. 39.º A admissão ao concurso referido no artigo anterior é requerida ao superintendente dos Serviços da Armada, devendo os interessados juntar aos respectivos requerimentos a documentação comprovativa de que satisfazem às condições indicadas no mesmo artigo, com excepção da que é referida na alínea d), e ainda quaisquer outros documentos que comprovem o seu mérito profissional e científico ou que provem satisfazer às condições de preferência estabelecidas para o caso de igualdade de classificação.
 
-###### Art. 40.º Os candidatos que a Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) verificar satisfazerem às condições indicadas no artigo 38.º, com excepção da referida na alínea d), serão presentes aos organismos apropriados para verificação desta condição.
+Art. 40.º Os candidatos que a Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) verificar satisfazerem às condições indicadas no artigo 38.º, com excepção da referida na alínea d), serão presentes aos organismos apropriados para verificação desta condição.
 
 § único. A inspecção médica dos candidates será feita de acordo com o estabelecido nas tabelas de inaptidão e de incapacidade para o serviço da Armada.
 
-###### Art. 41.º Os candidatos que satisfaçam à condição indicada na alínea d) do artigo 38.º serão admitidos à prestação de provas perante um júri para esse fim designado.
+Art. 41.º Os candidatos que satisfaçam à condição indicada na alínea d) do artigo 38.º serão admitidos à prestação de provas perante um júri para esse fim designado.
 
 § único. Por portaria do Ministro da Marinha serão fixadas a composição do júri referido no corpo deste artigo, as provas a prestar pelos candidatos, a maneira como são classificadas e as condições de preferência em igualdade de classificação.
 
-###### Art. 42.º Depois de efectuadas as provas referidas no corpo do artigo anterior, a Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) elaborará a relação dos candidatos aprovados, segundo a ordem por que se deve realizar a sua admissão na Armada, relação que, depois de aprovada superiormente, será publicada no Diário do Governo.
+Art. 42.º Depois de efectuadas as provas referidas no corpo do artigo anterior, a Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) elaborará a relação dos candidatos aprovados, segundo a ordem por que se deve realizar a sua admissão na Armada, relação que, depois de aprovada superiormente, será publicada no Diário do Governo.
 
 § único. A ordenação dos candidates a que se refere este artigo é fixada de acordo com as classificações obtidas nas provas e com as condições de preferência no caso de igualdade de classificação.
 
-###### Art. 43.º Os candidates cuja posição na relação referida no corpo do artigo anterior esteja compreendida no número de vacaturas existentes no respectivo quadro na data da publicação no Diário do Governo daquela relação são alistados na Armada, na mesma data, com o posto de segundo-tenente.
+Art. 43.º Os candidates cuja posição na relação referida no corpo do artigo anterior esteja compreendida no número de vacaturas existentes no respectivo quadro na data da publicação no Diário do Governo daquela relação são alistados na Armada, na mesma data, com o posto de segundo-tenente.
 
 § único. A antiguidade relativa dos segundos-tenentes médicos, admitidos no mesmo concurso, é definida pela sua posição na relação a que se refere o corpo do artigo anterior.
 
-###### Art. 44.º Seguidamente ao seu alistamento na Armada, os segundos-tenentes médicos recebem instrução militar e naval, adequada às funções que lhes competem, numa unidade ou serviço da Armada, designada pelo superintendente dos Serviços da Armada, que também fixará, por despacho, a duração e natureza dessa instrução.
+Art. 44.º Seguidamente ao seu alistamento na Armada, os segundos-tenentes médicos recebem instrução militar e naval, adequada às funções que lhes competem, numa unidade ou serviço da Armada, designada pelo superintendente dos Serviços da Armada, que também fixará, por despacho, a duração e natureza dessa instrução.
 
 § único. São dispensados da instrução a que se refere este artigo os oficiais que tenham frequentado o curso de oficiais da reserva naval da mesma classe.
 
-###### Art. 45.º O ingresso na classe dos farmacêuticos navais do quadro de oficiais do activo é feito no posto de segundo-tenente, por concurso entre os indivíduos licenciados em Farmácia que satisfaçam às condições expressas nos alíneas a) a g) do artigo 38.º deste estatuto.
+Art. 45.º O ingresso na classe dos farmacêuticos navais do quadro de oficiais do activo é feito no posto de segundo-tenente, por concurso entre os indivíduos licenciados em Farmácia que satisfaçam às condições expressas nos alíneas a) a g) do artigo 38.º deste estatuto.
 
 § único. Ao concurso referido neste artigo aplica-se o disposto nos parágrafos do artigo 38.º
 
-###### Art. 46.º A admissão ao concurso referido no artigo anterior é regulada pelo preceituado no artigo 39.º
+Art. 46.º A admissão ao concurso referido no artigo anterior é regulada pelo preceituado no artigo 39.º
 
-###### Art. 47.º Aos candidatos ao concurso referido no artigo anterior aplica-se o disposto nos artigos 40.º a 44.º e seus parágrafos.
+Art. 47.º Aos candidatos ao concurso referido no artigo anterior aplica-se o disposto nos artigos 40.º a 44.º e seus parágrafos.
 
-###### Art. 48.º O ingresso na classe dos engenheiros de material naval do quadro de oficiais do activo é feito no posto de segundo-tenente, após concurso documental de admissão aos cursos de engenheiro electrotécnico naval, de engenheiro electrónico naval ou de engenheiro de armamento naval, frequência dos mesmos cursos e realização dos respectivos estágios.
+Art. 48.º O ingresso na classe dos engenheiros de material naval do quadro de oficiais do activo é feito no posto de segundo-tenente, após concurso documental de admissão aos cursos de engenheiro electrotécnico naval, de engenheiro electrónico naval ou de engenheiro de armamento naval, frequência dos mesmos cursos e realização dos respectivos estágios.
 
 § 1.º A data do ingresso na classe é a do dia em que for aprovada, por despacho do Ministro da Marinha, a classificação final dos oficiais que frequentaram os cursos e estágios referidos no corpo deste artigo.
 
@@ -492,9 +974,9 @@ g) Ter satisfeito às leis do recrutamento militar.
 
 2.º Ordem decrescente das classificações obtidas no mesmo curso e estágios.
 
-###### Art. 49.º A abertura dos concursos referidos no artigo anterior é precedida de proposta da Superintendência, dos Serviços da Armada (Direcção do Serviço do Pessoal), informada pelo Estado-Maior da Armada, quando aos ramos da classe dos engenheiros de material naval em que, de acordo com as conveniências do serviço, deve ser feito o preenchimento das vacaturas existentes ou previstas no quadro daquela classe, proposta essa que é submetida à decisão do Ministro da Marinha.
+Art. 49.º A abertura dos concursos referidos no artigo anterior é precedida de proposta da Superintendência, dos Serviços da Armada (Direcção do Serviço do Pessoal), informada pelo Estado-Maior da Armada, quando aos ramos da classe dos engenheiros de material naval em que, de acordo com as conveniências do serviço, deve ser feito o preenchimento das vacaturas existentes ou previstas no quadro daquela classe, proposta essa que é submetida à decisão do Ministro da Marinha.
 
-###### Art. 50.º Aos concursos para a frequência dos cursos de engenheiro de material naval apenas podem ser admitidos segundos-tenentes do quadro de oficiais do activo satisfazendo às condições seguintes:
+Art. 50.º Aos concursos para a frequência dos cursos de engenheiro de material naval apenas podem ser admitidos segundos-tenentes do quadro de oficiais do activo satisfazendo às condições seguintes:
 
 a) Pertencerem às classes de marinha ou dos engenheiros maquinistas navais, para o curso de engenheiro electrotécnico naval;
 
@@ -506,21 +988,21 @@ c) Pertencerem à classe de marinha e serem especializados em artilharia ou em a
 
 § 2.º Cada concurso respeita exclusivamente a um dos três cursos referidos no corpo deste artigo.
 
-###### Art. 51.º A organização dos cursos de engenheiro electrotécnico naval, de engenheiro electrónico naval e de engenheiro de armamento naval é fixada por portaria do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada, ouvida a Direcção do Serviço de Electricidade e Comunicações, no que se refere aos dois primeiros cursos, e a Direcção do Serviço de Material de Guerra e Tiro Naval, no que se refere ao último.
+Art. 51.º A organização dos cursos de engenheiro electrotécnico naval, de engenheiro electrónico naval e de engenheiro de armamento naval é fixada por portaria do Ministro da Marinha, mediante proposta do superintendente dos Serviços da Armada, ouvida a Direcção do Serviço de Electricidade e Comunicações, no que se refere aos dois primeiros cursos, e a Direcção do Serviço de Material de Guerra e Tiro Naval, no que se refere ao último.
 
-###### Art. 52.º A maneira como os oficiais são classificados nos concursos a que se refere o artigo 48.º, as condições de preferência quando se verificar igualdade de classificações e a maneira como são aprovadas as classificações finais para efeitos do disposto no n.º 2.º do § 2.º do artigo 48.º são estabelecidas em portaria do Ministro da Marinha.
+Art. 52.º A maneira como os oficiais são classificados nos concursos a que se refere o artigo 48.º, as condições de preferência quando se verificar igualdade de classificações e a maneira como são aprovadas as classificações finais para efeitos do disposto no n.º 2.º do § 2.º do artigo 48.º são estabelecidas em portaria do Ministro da Marinha.
 
-###### Art. 53.º Aos oficiais que estejam frequentando os cursos de engenheiro electrotécnico naval, de engenheiro electrónico naval ou de engenheiro de armamento naval são aplicáveis as disposições do artigo 36.º deste estatuto e disposições correspondentes às estabelecidas no artigo 37.º
+Art. 53.º Aos oficiais que estejam frequentando os cursos de engenheiro electrotécnico naval, de engenheiro electrónico naval ou de engenheiro de armamento naval são aplicáveis as disposições do artigo 36.º deste estatuto e disposições correspondentes às estabelecidas no artigo 37.º
 
-###### Art. 54.º Aos tenentes das classes de marinha ou dos engenheiros maquinistas navais que por sua iniciativa tenham completado qualquer dos cursos referidos no artigo 51.º poderá ser autorizado pelo Ministro da Marinha, mediante requerimento dirigido ao superintendente dos Serviços da Armada, o ingresso na classe dos engenheiros de material naval, desde que exista vacatura no quadro desta classe que deva ser preenchida por um oficial do ramo respectivo.
+Art. 54.º Aos tenentes das classes de marinha ou dos engenheiros maquinistas navais que por sua iniciativa tenham completado qualquer dos cursos referidos no artigo 51.º poderá ser autorizado pelo Ministro da Marinha, mediante requerimento dirigido ao superintendente dos Serviços da Armada, o ingresso na classe dos engenheiros de material naval, desde que exista vacatura no quadro desta classe que deva ser preenchida por um oficial do ramo respectivo.
 
 § 1.º Os oficiais a que se refere o corpo deste artigo, no seu ingresso na classe dos engenheiros de material naval, ficarão na escala de antiguidades à esquerda de todos os oficiais que, nessa data, já tenham sido aprovados nos concursos a que se refere o artigo 48.º
 
 § 2.º Quando os oficiais a que se refere o corpo deste artigo sejam primeiros-tenentes, o seu ingresso na classe dos engenheiros de material naval é feito como segundos-tenentes desta classe graduados em primeiros-tenentes da classe de origem e perdem esta graduação quando forem promovidos a primeiros-tenentes engenheiros de material naval. A estes oficiais também é aplicável o disposto no parágrafo anterior.
 
-###### Art. 55.º Por portaria, o Ministro da Marinha poderá regular o ingresso na classe dos engenheiros de material naval de oficiais do quadro de oficiais da reserva naval que possuam os cursos apropriados.
+Art. 55.º Por portaria, o Ministro da Marinha poderá regular o ingresso na classe dos engenheiros de material naval de oficiais do quadro de oficiais da reserva naval que possuam os cursos apropriados.
 
-###### Art. 56.º O ingresso na classe dos oficiais do serviço geral realiza-se no posto de subtenente:
+Art. 56.º O ingresso na classe dos oficiais do serviço geral realiza-se no posto de subtenente:
 
 a) Por promoção dos sargentos-ajudantes e primeiros-sargentos da Armada habilitados com o curso geral de sargentos, por ordem cronológica dos cursos que frequentaram e, em cada curso, por ordem decrescente das respectivas classificações finais;
 
@@ -530,9 +1012,9 @@ c) Por promoção dos sargentos, quando a mesma se realize por distinção.
 
 § único. As promoções a que se referem as alíneas a) e b) do corpo deste artigo apenas têm lugar para preenchimento de vacaturas que se verifiquem na classe dos oficiais do serviço geral.
 
-###### Art. 57.º As condições que regulam a admissão ao curso geral de sargentos e a sua frequência são estabelecidas no Estatuto dos Sargentos e Praças da Armada.
+Art. 57.º As condições que regulam a admissão ao curso geral de sargentos e a sua frequência são estabelecidas no Estatuto dos Sargentos e Praças da Armada.
 
-###### Art. 58.º Ao concurso para preenchimento, da vacatura a que se refere a alínea b) do artigo 56.º são admitidos todos os sargentos-ajudantes e primeiros-sargentos músicos da Armada que satisfaçam as seguintes condições:
+Art. 58.º Ao concurso para preenchimento, da vacatura a que se refere a alínea b) do artigo 56.º são admitidos todos os sargentos-ajudantes e primeiros-sargentos músicos da Armada que satisfaçam as seguintes condições:
 
 a) Classificação de comportamento não inferior à 2.ª classe;
 
@@ -548,13 +1030,13 @@ c) Idade superior a 32 e inferior a 56 anos.
 
 § 4.º Quando o preenchimento da vacatura referida na alínea b) do artigo 56.º se realizar segundo o concurso de que trata o § 1.º deste amigo, o concorrente admitido, seguidamente à sua promoção a subtenente do serviço geral, receberá a instrução militar e naval necessária para o desempenho das funções que lhe pertencerão, em condições a definir pelo superintendente dos Serviços da Armada.
 
-###### Art. 59.º O ingresso na classe dos oficiais do serviço especial realiza-se:
+Art. 59.º O ingresso na classe dos oficiais do serviço especial realiza-se:
 
 a) Mediante a frequência dos cursos de formação de oficiais do serviço especial (C. F. O. S. E.), por sargentos e praças da Armada;
 
 b) Por transferência dos oficiais das reservas naval e marítima.
 
-###### Art. 60.º Com vista ao ingresso na classe dos oficiais do serviço especial, realizar-se-ão admissões nas datas julgadas convenientes, mediante proposta do superintendente dos Serviços da Armada ao Ministro da Marinha.
+Art. 60.º Com vista ao ingresso na classe dos oficiais do serviço especial, realizar-se-ão admissões nas datas julgadas convenientes, mediante proposta do superintendente dos Serviços da Armada ao Ministro da Marinha.
 
 § 1.º Às admissões a que se refere este amigo correspondem, no que se refere aos sargentos e praças da Armada, a concurso para frequência dos C. F. O. S. E., e no que respeita aos oficiais das reservas naval e marítima, o ingresso na classe do serviço especial.
 
@@ -566,29 +1048,29 @@ b) A distribuição dessas vacaturas pelos diversos ramos da classe do serviço 
 
 c) Os números de vacaturas, em cada ramo, que deverão ser preenchidas por oficiais das reservas naval e marítima e por sargentos e praças da Armada.
 
-###### Art. 61.º Aos concursos de admissão aos C. F. O. S. E. podem concorrer os sargentos e praças da Armada das classes e com as especializações adequadas, que satisfaçam às condições que forem estabelecidas por portaria do Ministro da Marinha.
+Art. 61.º Aos concursos de admissão aos C. F. O. S. E. podem concorrer os sargentos e praças da Armada das classes e com as especializações adequadas, que satisfaçam às condições que forem estabelecidas por portaria do Ministro da Marinha.
 
 § 1.º Os concursos a que se refere este artigo são constituídos pela prestação de provas de cultura geral de nível equivalente às exigidas para o ingresso nos institutos industriais e comerciais e por provas de natureza técnica.
 
 § 2.º A constituição dos júris para a apreciação dos concorrentes à admissão aos C. F. O. S. E., os programas dos concursos e as normas reguladoras da classificação das respectivas provas são estabelecidos por despacho do Ministro da Marinha.
 
-###### Art. 62.º Os concorrentes que obtenham aprovação nas provas referidas no artigo anterior são admitidos à frequência dos C. F. O. S. E., segundo a ordem decrescente das classificações obtidas nessas provas, até ao limite das vacaturas que, em cada ramo, devem ser preenchidas por intermédio da frequência daqueles cursos.
+Art. 62.º Os concorrentes que obtenham aprovação nas provas referidas no artigo anterior são admitidos à frequência dos C. F. O. S. E., segundo a ordem decrescente das classificações obtidas nessas provas, até ao limite das vacaturas que, em cada ramo, devem ser preenchidas por intermédio da frequência daqueles cursos.
 
-###### Art. 63.º Os C. F. O. S. E. são de natureza essencialmente militar e técnica e destinam-se a formar oficiais devidamente preparados para as funções específicas de cada ramo do serviço especial.
+Art. 63.º Os C. F. O. S. E. são de natureza essencialmente militar e técnica e destinam-se a formar oficiais devidamente preparados para as funções específicas de cada ramo do serviço especial.
 
 § único. A organização dos C. F. O. S. E. é fixada por portaria do Ministro da Marinha.
 
-###### Art. 64.º Os sargentos e praças da Armada que concluam com aproveitamento os C. F. O. S. E. são promovidos a subtenentes do serviço especial, correspondendo a data de antiguidade à da conclusão dos cursos.
+Art. 64.º Os sargentos e praças da Armada que concluam com aproveitamento os C. F. O. S. E. são promovidos a subtenentes do serviço especial, correspondendo a data de antiguidade à da conclusão dos cursos.
 
-###### Art. 65.º O ingresso dos oficiais das reservas naval e marítima na classe do serviço especial realiza-se mediante requerimento dos interessados ao Ministro da Marinha, quando satisfaçam às condições que forem fixadas em portaria do mesmo Ministro.
+Art. 65.º O ingresso dos oficiais das reservas naval e marítima na classe do serviço especial realiza-se mediante requerimento dos interessados ao Ministro da Marinha, quando satisfaçam às condições que forem fixadas em portaria do mesmo Ministro.
 
-###### Art. 66.º Os oficiais das reservas naval e marítima escolhidos pelo Ministro da Marinha para ingressarem na classe do serviço especial ingressam nesta classe com o posto de subtenente do mesmo serviço.
+Art. 66.º Os oficiais das reservas naval e marítima escolhidos pelo Ministro da Marinha para ingressarem na classe do serviço especial ingressam nesta classe com o posto de subtenente do mesmo serviço.
 
 § único. Os oficiais a que se refere este artigo, quando tenham posto superior ao de subtenente, ingressam na classe no serviço especial com o posto de subtenente graduados no posto que alcançaram nas reservas a que pertencem, perdendo esta graduação quando forem promovidos ao mesmo posto do serviço especial.
 
-###### Art. 67.º A data da antiguidade da promoção ao posto de subtenente do serviço especial dos oficiais das reservas naval e marítima que forem transferidos para o mesmo serviço corresponde à do despacho do Ministro da Marinha que determinou a sua escolha para o ingresso nesse serviço.
+Art. 67.º A data da antiguidade da promoção ao posto de subtenente do serviço especial dos oficiais das reservas naval e marítima que forem transferidos para o mesmo serviço corresponde à do despacho do Ministro da Marinha que determinou a sua escolha para o ingresso nesse serviço.
 
-###### Art. 68.º Na elaboração da escala de antiguidades dos segundos-tenentes e subtenentes será respeitada a ordem cronológica das admissões. Dentro de cada admissão, a posição na escala de antiguidades dos segundos-tenentes e subtenentes do serviço especial é definida da maneira seguinte:
+Art. 68.º Na elaboração da escala de antiguidades dos segundos-tenentes e subtenentes será respeitada a ordem cronológica das admissões. Dentro de cada admissão, a posição na escala de antiguidades dos segundos-tenentes e subtenentes do serviço especial é definida da maneira seguinte:
 
 a) Os oficiais das reservas naval e marítima ficam à direita dos restantes, mantendo entre eles a antiguidade relativa, contada a partir da sua promoção a aspirante das mesmas reservas, desde que tenham sido mantidos no serviço efectivo desde o seu alistamento;
 
@@ -602,7 +1084,7 @@ b) Os oficiais que ingressem naquele serviço mediante a frequência dos C. F. O
 
 #### SECÇÃO I — Situações
 
-###### Art. 69.º Consideram-se no quadro de oficiais do activo os oficiais dos quadros permanentes que, não tendo atingido os limites de idade estabelecidos no artigo 81.º deste estatuto, nem tendo sido julgados incapazes para o serviço activo, se encontrem nele presentes ou em condições de serem ou de virem a ser chamados ao seu desempenho.
+Art. 69.º Consideram-se no quadro de oficiais do activo os oficiais dos quadros permanentes que, não tendo atingido os limites de idade estabelecidos no artigo 81.º deste estatuto, nem tendo sido julgados incapazes para o serviço activo, se encontrem nele presentes ou em condições de serem ou de virem a ser chamados ao seu desempenho.
 
 § 1.º Em relação à prestação de serviço, os oficiais do quadro de oficiais do activo podem estar nas seguintes situações:
 
@@ -634,7 +1116,7 @@ a) Sejam transferidos para os quadros seguintes:
 
 b) Sejam abatidos aos quadros permanentes, nos termos expresses no artigo 86.º desde estatuto.
 
-###### Art. 70.º São considerados em comissão normal os oficiais do quadro de oficiais do activo prestando serviço nos departamentos militares ou desempenhando funções próprias da Marinha noutros departamentos do Estado.
+Art. 70.º São considerados em comissão normal os oficiais do quadro de oficiais do activo prestando serviço nos departamentos militares ou desempenhando funções próprias da Marinha noutros departamentos do Estado.
 
 Designadamente, estão em comissão normal os oficiais que desempenhem os seguintes cargos ou funções:
 
@@ -676,7 +1158,7 @@ p) Adjuntos aos organismos do Ministério da Marinha, por qualquer dos seguintes
 
 4) Aguardando passagem à inactividade temporária, à reserva ou à reforma.
 
-###### Art. 71.º São considerados em comissão especial os oficiais do quadro de oficiais do activo que estejam desempenhando funções públicas que não sejam de natureza militar fora dos departamentos militares e designadamente exercendo os seguintes cargos ou funções:
+Art. 71.º São considerados em comissão especial os oficiais do quadro de oficiais do activo que estejam desempenhando funções públicas que não sejam de natureza militar fora dos departamentos militares e designadamente exercendo os seguintes cargos ou funções:
 
 a) Presidente da República;
 
@@ -692,7 +1174,7 @@ e) Comissão civil remunerada, nos cases não abrangidos nas alíneas anteriores
 
 § 2.º Dos oficiais em comissão especial são considerados em comissão civil aqueles que desempenhem funções que pela sua natureza tanto podem ser exercidas por militares como por civis.
 
-###### Art. 72.º Consideram-se na inactividade temporária os oficiais do quadro de oficiais do activo afastados temporariamente do serviço por doença, licença da competente junta médica ou por motivo disciplinar. Os oficiais são colocados na inactividade temporária nos seguintes casos:
+Art. 72.º Consideram-se na inactividade temporária os oficiais do quadro de oficiais do activo afastados temporariamente do serviço por doença, licença da competente junta médica ou por motivo disciplinar. Os oficiais são colocados na inactividade temporária nos seguintes casos:
 
 a) Por motivo de doença ou de licença da junta - quando no período de um ano excedam 180 dias de impedimento por doença ou licença da junta ou de um adicionado ao outro;
 
@@ -700,19 +1182,19 @@ b) Por motivo disciplinar - quando lhes for aplicada a pena de inactividade prev
 
 § único. Os oficiais que forem colocados na inactividade temporária por motivo disciplinar perdem tantos lugares na escala de antiguidades quantos os determinados pela fórmula estabelecida pelo Regulamento de Disciplina Militar, independentemente de outros oficiais do seu quadro estarem supranumerários ou adidos ao quadro.
 
-###### Art. 73.º Consideram-se de licença ilimitada os oficiais a quem seja concedida esta licença, nos termos do artigo 194.º deste estatuto.
+Art. 73.º Consideram-se de licença ilimitada os oficiais a quem seja concedida esta licença, nos termos do artigo 194.º deste estatuto.
 
-###### Art. 74.º As situações a que se refere o § 1.º do artigo 69.º são incompatíveis entre si, mas o Ministro da Marinha pode autorizar que um oficial que se encontre numa dessas situações desempenhe eventualmente serviço a que corresponda outra situação.
+Art. 74.º As situações a que se refere o § 1.º do artigo 69.º são incompatíveis entre si, mas o Ministro da Marinha pode autorizar que um oficial que se encontre numa dessas situações desempenhe eventualmente serviço a que corresponda outra situação.
 
-###### Art. 75.º Nenhum oficial do quadro de oficiais do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que preste um mínimo de três anos de serviço nesta comissão.
+Art. 75.º Nenhum oficial do quadro de oficiais do activo pode estar afastado da comissão normal por mais de doze anos, nos quais se não podem compreender mais de seis consecutivos. Para que seja contada a interrupção no afastamento da comissão normal é indispensável que preste um mínimo de três anos de serviço nesta comissão.
 
 § 1.º Na aplicação deste artigo não será levado em conta o tempo de exercício dos cargos de Presidente da República, Presidente do Conselho de Ministros, de Ministro, Secretário ou Subsecretário de Estado, de governador de província ultramarina e de embaixador ou ministro plenipotenciário em país estrangeiro.
 
 § 2.º Os oficiais que regressam à comissão normal, desde que tenham estado fora dessa comissão por período superior a um ano, devem ser presentes a uma junta médica da Armada, que apreciará a sua aptidão física para o Serviço da Armada.
 
-###### Art. 76.º Os oficiais do quadro de oficiais do activo consideram-se no quadro do posto quando são contados nos efectivos a que se refere o artigo 4.º deste estatuto.
+Art. 76.º Os oficiais do quadro de oficiais do activo consideram-se no quadro do posto quando são contados nos efectivos a que se refere o artigo 4.º deste estatuto.
 
-###### Art. 77.º Consideram-se supranumerários os oficiais do quadro de oficiais do activo em comissão normal que, não estando adidos, não possam ocupar vaga no quadro do posto por falta de vacatura.
+Art. 77.º Consideram-se supranumerários os oficiais do quadro de oficiais do activo em comissão normal que, não estando adidos, não possam ocupar vaga no quadro do posto por falta de vacatura.
 
 § 1.º A situação de supranumerário pode resultar de qualquer das seguintes circunstâncias:
 
@@ -728,7 +1210,7 @@ e) Regresso da situação de adido.
 
 § 2.º Os oficiais supranumerários preenchem as primeiras vacaturas que ocorram nos respectivos quadros do posto.
 
-###### Art. 78.º Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o artigo 4.º deste estatuto, os oficiais do quadro de oficiais do activo que:
+Art. 78.º Consideram-se adidos aos quadros, não se contando nos efectivos a que se refere o artigo 4.º deste estatuto, os oficiais do quadro de oficiais do activo que:
 
 a) Estando em comissão normal:
 
@@ -770,9 +1252,9 @@ a) Estando em comissão normal:
 
 b) Estejam nas situações de comissão especial, inactividade temporária ou de licença ilimitada.
 
-###### Art. 79.º As mudanças de situação dos oficiais em relação ao quadro do posto a que pertencem são sempre determinadas por portaria, sendo tais mudanças referidas à data em que, nos termos legais, os oficiais forem considerados abrangidos pela condição que as motivou.
+Art. 79.º As mudanças de situação dos oficiais em relação ao quadro do posto a que pertencem são sempre determinadas por portaria, sendo tais mudanças referidas à data em que, nos termos legais, os oficiais forem considerados abrangidos pela condição que as motivou.
 
-###### Art. 80.º Os oficiais do quadro de oficiais do activo transitam para o quadro de oficiais da reserva da Armada, com direito a pensão, por qualquer das condições indicadas nas alíneas seguintes:
+Art. 80.º Os oficiais do quadro de oficiais do activo transitam para o quadro de oficiais da reserva da Armada, com direito a pensão, por qualquer das condições indicadas nas alíneas seguintes:
 
 a) Tendo prestado quinze ou mais anos de serviço:
 
@@ -804,9 +1286,9 @@ c) Requeira o ingresso no quadro de oficiais da reserva da Armada com direito a 
 
 § 3.º A data da passagem ao quadro de oficiais da reserva da Armada com direito a pensão é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 81.º Os limites de idade para a passagem ao quadro de oficiais da reserva da Armada com direito a pensão são os indicados no mapa n.º 1 deste estatuto.
+Art. 81.º Os limites de idade para a passagem ao quadro de oficiais da reserva da Armada com direito a pensão são os indicados no mapa n.º 1 deste estatuto.
 
-###### Art. 82.º São mantidos no quadro de oficiais do activo sem dependência de idade:
+Art. 82.º São mantidos no quadro de oficiais do activo sem dependência de idade:
 
 a) Os oficiais que desempenhem as funções de Presidente da República, de Presidente do Conselho de Ministros, de Ministro, de Secretário ou de Subsecretário de departamentos militares enquanto exercem esses cargos;
 
@@ -816,7 +1298,7 @@ b) Os almirantes.
 
 § 2.º No caso de a alta dignidade de almirante ser conferida a oficial general que se encontre noutra situação, tal facto implica o seu regresso ao quadro de oficiais do activo.
 
-###### Art. 83.º Os oficiais do quadro de oficiais da reserva da Armada com direito a pensão podem encontrar-se numa das seguintes situações:
+Art. 83.º Os oficiais do quadro de oficiais da reserva da Armada com direito a pensão podem encontrar-se numa das seguintes situações:
 
 a) Efectividade de serviço;
 
@@ -828,7 +1310,7 @@ c) Licença ilimitada.
 
 § 2.º Os oficiais que ao transitarem do quadro de oficiais do activo para o quadro de oficiais da reserva dá Armada com direito a pensão estejam na situação de licença ilimitada são colocados naquela reserva na mesma situação.
 
-###### Art. 84.º Transitam para o quadro de oficiais reformados os oficiais que deixem de pertencer aos quadros de oficiais do activo ou da reserva da Armada com direito a pensão por serem abrangidos por qualquer das seguintes condições:
+Art. 84.º Transitam para o quadro de oficiais reformados os oficiais que deixem de pertencer aos quadros de oficiais do activo ou da reserva da Armada com direito a pensão por serem abrangidos por qualquer das seguintes condições:
 
 a) Tendo prestado 15 ou mais anos de serviço, atinjam 70 anos de idade;
 
@@ -846,13 +1328,13 @@ c) Reúnam as condições estabelecidas na lei para a reforma extraordinária.
 
 § 2.º A data da passagem ao quadro de oficiais reformados é a data em que, nos termos legais, o oficial for considerado abrangido pela condição que a motivou.
 
-###### Art. 85.º São colocados no quadro de oficiais separados do serviço os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados do serviço.
+Art. 85.º São colocados no quadro de oficiais separados do serviço os oficiais que, por motivo disciplinar ou pela prática de actos atentatórios do prestígio das instituições militares, devam ser afastados do serviço.
 
 § 1.º A separação do serviço só tem lugar após julgamento no Conselho Superior de Disciplina da Armada ou em virtude de disposições legais que expressamente determinem essa situação.
 
 § 2.º Aos oficiais separados do serviço é aplicável o disposto no § único do artigo 50.º do Estatuto dos Oficiais das Forças Armadas.
 
-###### Art. 86.º São abatidos aos quadros permanentes os oficiais da Armada que:
+Art. 86.º São abatidos aos quadros permanentes os oficiais da Armada que:
 
 a) Sejam julgados incapazes de todo o serviço e não possam transitar para o quadro de oficiais reformados;
 
@@ -862,7 +1344,7 @@ c) Tenham sofrido a pena de demissão;
 
 d) Tenham passagem ao quadro de oficiais da reserva da Armada sem direito a pensão.
 
-###### Art. 87.º Têm passagem ao quadro de oficiais da reserva da Armada sem direito a pensão os oficiais dos quadros permanentes que:
+Art. 87.º Têm passagem ao quadro de oficiais da reserva da Armada sem direito a pensão os oficiais dos quadros permanentes que:
 
 a) Depois de terem prestado como oficial um mínimo de oito anos de serviço efectivo na Armada assim o tenham requerido e a tanto sejam autorizados;
 
@@ -874,7 +1356,7 @@ c) Tendo sido considerados incapazes do serviço activo, não reúnam as condiç
 
 #### SECÇÃO II — Tempo de serviço
 
-###### Art. 88.º Conta-se como tempo de serviço:
+Art. 88.º Conta-se como tempo de serviço:
 
 a) O tempo de permanência do oficial no quadro de oficiais do activo quando:
 
@@ -896,15 +1378,15 @@ b) O de ausência ilegítima no serviço;
 
 c) O de licença registada.
 
-###### Art. 89.º Conta-se como tempo de serviço efectivo na Armada o referido no artigo anterior, com exclusão, para o oficial do quadro de oficiais do activo, do respeitante a comissão especial e, para o oficial dos quadros de oficiais da reserva da Armada com direito a pensão ou reformados, do relativo ao desempenho de funções que, quando exercidas por oficiais do quadro de oficiais do activo, correspondem a comissão especial.
+Art. 89.º Conta-se como tempo de serviço efectivo na Armada o referido no artigo anterior, com exclusão, para o oficial do quadro de oficiais do activo, do respeitante a comissão especial e, para o oficial dos quadros de oficiais da reserva da Armada com direito a pensão ou reformados, do relativo ao desempenho de funções que, quando exercidas por oficiais do quadro de oficiais do activo, correspondem a comissão especial.
 
-###### Art. 90.º O tempo de serviço na Armada, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes do mapa n.º 2 anexo a este diploma.
+Art. 90.º O tempo de serviço na Armada, quando prestado em circunstâncias especiais de dificuldade ou perigo, é contado com as percentagens de aumento constantes do mapa n.º 2 anexo a este diploma.
 
 ### CAPÍTULO V — Cursos
 
 #### SECÇÃO I — Classificação dos cursos
 
-###### Art. 91.º A preparação complementar dos oficiais da Armada que tenham ingressado nas classes do quadro de oficiais do activo realiza-se pela frequência dos seguintes cursos:
+Art. 91.º A preparação complementar dos oficiais da Armada que tenham ingressado nas classes do quadro de oficiais do activo realiza-se pela frequência dos seguintes cursos:
 
 a) Cursos navais de guerra;
 
@@ -918,7 +1400,7 @@ e) Cursos de actualização.
 
 #### SECÇÃO II — Cursos navais de guerra
 
-###### Art. 92.º Os cursos navais de guerra são frequentados no Instituto Superior Naval de Guerra e destinam-se a:
+Art. 92.º Os cursos navais de guerra são frequentados no Instituto Superior Naval de Guerra e destinam-se a:
 
 a) Melhorar a cultura geral dos oficiais no campo doutrinário das ciências militares;
 
@@ -928,7 +1410,7 @@ c) Preparar oficiais para o comando de forças navais, desempenho de funções e
 
 d) Exercer papel selectivo para a promoção a oficial general e a oficial superior.
 
-###### Art. 93.º Para os fins referidos no artigo anterior existem os seguintes cursos:
+Art. 93.º Para os fins referidos no artigo anterior existem os seguintes cursos:
 
 a) Curso geral naval de guerra (C. G. N. G.);
 
@@ -962,7 +1444,7 @@ e) Administração naval.
 
 § 3.º A organização dos cursos navais de guerra é estabelecida no Regulamento do Instituto Superior Naval de Guerra.
 
-###### Art. 94.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) designar, com a maior antecedência possível, os oficiais que devem frequentar os cursos navais de guerra, segundo ordem decrescente das respectivas antiguidades.
+Art. 94.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) designar, com a maior antecedência possível, os oficiais que devem frequentar os cursos navais de guerra, segundo ordem decrescente das respectivas antiguidades.
 
 § 1.º Não devem ser convocados para a frequência dos cursos navais de guerra os oficiais que atinjam o limite de idade para a passagem ao quadro de oficiais da reserva da Armada com direito a pensão antes de concluírem as condições especiais de promoção ao posto imediato.
 
@@ -978,43 +1460,43 @@ d) Para os oficiais a quem tal adiamento seja concedido pelo chefe do Estado-Mai
 
 § 3.º Os prazos referidos nas alíneas a), b) e c) do parágrafo anterior serão reduzidos sempre que da não frequência dos cursos possa resultar prejuízo na promoção ao posto imediato. Para esse fim, a aplicação do disposto nas mesmas alíneas deverá ser ponderado, caso por caso, pela Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
 
-###### Art. 95.º Podem ser dispensados, pelo chefe do Estado-Maior da Armada, da frequência dos cursos navais de guerra os oficiais que, por escrito, solicitarem essa dispensa.
+Art. 95.º Podem ser dispensados, pelo chefe do Estado-Maior da Armada, da frequência dos cursos navais de guerra os oficiais que, por escrito, solicitarem essa dispensa.
 
 § único. Os oficiais a que se refere este artigo não voltarão a ser convocados para a frequência dos cursos navais de guerra e, desde que não haja inconveniente para o serviço, serão transferidos para os quadros de oficiais da reserva da Armada.
 
-###### Art. 96.º Os oficiais que estejam em comissão especial ou de licença ilimitada deverão ser notificados com a devida antecedência de que se estivessem ao serviço do Ministério da Marinha pertencer-lhes-ia a nomeação para os referidos cursos.
+Art. 96.º Os oficiais que estejam em comissão especial ou de licença ilimitada deverão ser notificados com a devida antecedência de que se estivessem ao serviço do Ministério da Marinha pertencer-lhes-ia a nomeação para os referidos cursos.
 
 § 1.º Os oficiais em comissão especial poderão apresentar a sua situação às entidades de que dependem, as quais, reconhecendo conveniência no adiamento da frequência dos cursos navais de guerra, assim o exporão ao Ministério da Marinha.
 
 § 2.º O chefe do Estado-Maior da Armada poderá, a pedido dos interessados, conceder, por uma só vez, adiamento da frequência dos cursos navais de guerra aos oficiais em licença ilimitada.
 
-###### Art. 97.º O oficial que nos cursos navais de guerra for considerado como não apto poderá repetir uma vez o curso se se tratar do curso geral, não o podendo fazer tratando-se do curso superior.
+Art. 97.º O oficial que nos cursos navais de guerra for considerado como não apto poderá repetir uma vez o curso se se tratar do curso geral, não o podendo fazer tratando-se do curso superior.
 
-###### Art. 98.º Os cursos navais de guerra poderão ser repetidos pelos oficiais que não os tenham podido completar por motivo de doença ou por imposição de serviço.
+Art. 98.º Os cursos navais de guerra poderão ser repetidos pelos oficiais que não os tenham podido completar por motivo de doença ou por imposição de serviço.
 
 #### SECÇÃO III — Cursos de especialização
 
-###### Art. 99.º Os cursos de especialização, indicados no artigo 16.º, destinam-se a ampliar os conhecimentos profissionais dos oficiais para o desempenho de cargos que competem às respectivas classes.
+Art. 99.º Os cursos de especialização, indicados no artigo 16.º, destinam-se a ampliar os conhecimentos profissionais dos oficiais para o desempenho de cargos que competem às respectivas classes.
 
-###### Art. 100.º Os cursor de especialização são frequentados nas escolas e centros de instrução da Armada.
+Art. 100.º Os cursor de especialização são frequentados nas escolas e centros de instrução da Armada.
 
 § único. Mediante proposta do superintendente dos Serviços da Armada poderá o Ministro da Marinha dar equivalência aos cursos de especialização de cursos frequentados em estabelecimentos de ensino estranhos à Armada, nacionais ou estrangeiros.
 
-###### Art. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por segundos-tenentes, ou primeiros-tenentes com menos de dois anos de posto, da classe de marinha. Em caso de absoluta necessidade, também poderão ser nomeados guardas-marinhas da mesma classe.
+Art. 101.º Os cursos de especialização em artilharia, armas submarinas, comunicações e electrotecnia são frequentados, em regra, por segundos-tenentes, ou primeiros-tenentes com menos de dois anos de posto, da classe de marinha. Em caso de absoluta necessidade, também poderão ser nomeados guardas-marinhas da mesma classe.
 
-###### Art. 102.º O curso de especialização em submersíveis é frequentado por segundos-tenentes das classes de marinha e dos engenheiros maquinistas navais, devendo os da classe de marinha estar já habilitados com qualquer dos seguintes cursos de especialização: armas submarinas, comunicações ou electrotecnia.
+Art. 102.º O curso de especialização em submersíveis é frequentado por segundos-tenentes das classes de marinha e dos engenheiros maquinistas navais, devendo os da classe de marinha estar já habilitados com qualquer dos seguintes cursos de especialização: armas submarinas, comunicações ou electrotecnia.
 
-###### Art. 103.º O curso de especialização em mergulhador-sapador é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos engenheiros maquinistas navais ou de administração naval, que sejam qualificados em mergulhadores-vigias.
+Art. 103.º O curso de especialização em mergulhador-sapador é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos engenheiros maquinistas navais ou de administração naval, que sejam qualificados em mergulhadores-vigias.
 
-###### Art. 104.º O curso de especialização em educação física é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos médicos navais, dos engenheiros maquinistas navais e de administração naval.
+Art. 104.º O curso de especialização em educação física é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos médicos navais, dos engenheiros maquinistas navais e de administração naval.
 
-###### Art. 105.º O curso de especialização em fuzileiro especial é frequentado por primeiros-tenentes, segundos-tenentes e subtenentes de todas as classes, com excepção das seguintes: engenheiros construtores navais, farmacêuticos navais e engenheiros de material naval. Em caso de absoluta necessidade, também poderão ser nomeados guardas-marinhas.
+Art. 105.º O curso de especialização em fuzileiro especial é frequentado por primeiros-tenentes, segundos-tenentes e subtenentes de todas as classes, com excepção das seguintes: engenheiros construtores navais, farmacêuticos navais e engenheiros de material naval. Em caso de absoluta necessidade, também poderão ser nomeados guardas-marinhas.
 
-###### Art. 106.º A nomeação de oficiais para os cursos de especialização em submersíveis, mergulhador-sapador, eduducação física e fuzileiro especial poderá ser condicionada a limite de idade e à satisfação de condições especiais de aptidão física, a estabelecer por despacho do Ministro da Marinha.
+Art. 106.º A nomeação de oficiais para os cursos de especialização em submersíveis, mergulhador-sapador, eduducação física e fuzileiro especial poderá ser condicionada a limite de idade e à satisfação de condições especiais de aptidão física, a estabelecer por despacho do Ministro da Marinha.
 
 § único. Também por despacho do Ministro da Marinha poderão ser fixadas as causas de inaptidão para o desempenho de funções nas especializações referidas no corpo deste artigo.
 
-###### Art. 107.º A nomeação de oficiais para os cursos de especialização compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) e será feita de acordo com as necessidades do serviço, tendo em conta os seguintes factores:
+Art. 107.º A nomeação de oficiais para os cursos de especialização compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) e será feita de acordo com as necessidades do serviço, tendo em conta os seguintes factores:
 
 a) Preferência manifestada pelos oficiais;
 
@@ -1034,45 +1516,45 @@ e) Maior antiguidade quando se trate de voluntários e menor antiguidade quando 
 
 § 4.º A nomeação de primeiros-tenentes para a especialização em fuzileiro especial obedecerá a condições especiais a fixar por despacho do Ministro da Marinha.
 
-###### Art. 108.º Sem prejuízo de outras consequências previstas na legislação que esteja em vigor, o oficial que não consiga, por falta de aplicação, aproveitamento em qualquer dos cursos de especialização para que haja sido nomeado independentemente da sua vontade fica sujeito a, por decisão do Ministro da Marinha, sobre proposta do superintendente dos Serviços da Armada e parecer favorável do chefe do Estado-Maior da Armada, ser imediatamente descido na escala de antiguidades do quadro da sua classe ou subclasse de um número de lugares não superior a cinco.
+Art. 108.º Sem prejuízo de outras consequências previstas na legislação que esteja em vigor, o oficial que não consiga, por falta de aplicação, aproveitamento em qualquer dos cursos de especialização para que haja sido nomeado independentemente da sua vontade fica sujeito a, por decisão do Ministro da Marinha, sobre proposta do superintendente dos Serviços da Armada e parecer favorável do chefe do Estado-Maior da Armada, ser imediatamente descido na escala de antiguidades do quadro da sua classe ou subclasse de um número de lugares não superior a cinco.
 
 § único. Em relação a oficiais que não consigam, por falta de aplicação, aproveitamento em curso de especialização cuja frequência hajam requerido, deverá ser usado procedimento semelhante, mas nesse caso o número de lugares a descer poderá ir até dez.
 
-###### Art. 109.º Os oficiais habilitados com cursos de especialização deverão servir em cargos em que apliquem os conhecimentos que adquiriram nesses cursos durante os três anos seguintes ao da conclusão dos mesmos cursos.
+Art. 109.º Os oficiais habilitados com cursos de especialização deverão servir em cargos em que apliquem os conhecimentos que adquiriram nesses cursos durante os três anos seguintes ao da conclusão dos mesmos cursos.
 
-###### Art. 110.º A organização dos cursos de especialização é estabelecida por despacho do Ministro da Marinha.
+Art. 110.º A organização dos cursos de especialização é estabelecida por despacho do Ministro da Marinha.
 
 #### SECÇÃO IV — Curso de engenheiro hidrógrafo
 
-###### Art. 111.º O curso de engenheiro hidrógrafo destina-se a ampliar os conhecimentos dos oficiais da classe de marinha nas actividades relativas a hidrografia e oceanografia física.
+Art. 111.º O curso de engenheiro hidrógrafo destina-se a ampliar os conhecimentos dos oficiais da classe de marinha nas actividades relativas a hidrografia e oceanografia física.
 
-###### Art. 112.º A admissão à frequência do curso de engenheiro hidrógrafo é feita por concurso entre os primeiros-tenentes e segundos-tenentes da classe de marinha com menos de 35 anos de idade, feitos no ano civil do concurso, devendo os segundos-tenentes satisfazer às condições especiais de promoção.
+Art. 112.º A admissão à frequência do curso de engenheiro hidrógrafo é feita por concurso entre os primeiros-tenentes e segundos-tenentes da classe de marinha com menos de 35 anos de idade, feitos no ano civil do concurso, devendo os segundos-tenentes satisfazer às condições especiais de promoção.
 
-###### Art. 113.º A organização do curso de engenheiro hidrógrafo e a classificação dos candidatos que concorram à frequência do mesmo curso são fixadas por diplomas próprios.
+Art. 113.º A organização do curso de engenheiro hidrógrafo e a classificação dos candidatos que concorram à frequência do mesmo curso são fixadas por diplomas próprios.
 
-###### Art. 114.º Os oficiais habilitados com o curso de engenheiro hidrógrafo são obrigados a permanecer no serviço do Ministério da Marinha durante os oito anos seguintes à data da conclusão do referido curso, em cargos em que apliquem os conhecimentos que adquiriram no curso.
+Art. 114.º Os oficiais habilitados com o curso de engenheiro hidrógrafo são obrigados a permanecer no serviço do Ministério da Marinha durante os oito anos seguintes à data da conclusão do referido curso, em cargos em que apliquem os conhecimentos que adquiriram no curso.
 
 #### SECÇÃO V — Cursos de aperfeiçoamento
 
-###### Art. 115.º Os cursos de aperfeiçoamento destinam-se a melhorar a preparação dos oficiais em determinadas actividades navais.
+Art. 115.º Os cursos de aperfeiçoamento destinam-se a melhorar a preparação dos oficiais em determinadas actividades navais.
 
 § único. Os cursos de aperfeiçoamento podem ser frequentados nos estabelecimentos de ensino da Armada, nas unidades ou serviços ou em escolas estranhas ao Ministério da Marinha, nacionais ou estrangeiras.
 
-###### Art. 116.º A organização e funcionamento dos cursos do aperfeiçoamento, quando frequentados no Ministério da Marinha, serão estabelecidos por despacho do Ministro da Marinha.
+Art. 116.º A organização e funcionamento dos cursos do aperfeiçoamento, quando frequentados no Ministério da Marinha, serão estabelecidos por despacho do Ministro da Marinha.
 
 #### SECÇÃO VI — Cursos de actualização
 
-###### Art. 117.º Os cursos de actualização destinam-se a actualizar os conhecimentos profissionais dos oficiais para o desempenho das funções que competem as seu posto o especialização.
+Art. 117.º Os cursos de actualização destinam-se a actualizar os conhecimentos profissionais dos oficiais para o desempenho das funções que competem as seu posto o especialização.
 
 § único. Os cursos de actualização são frequentados nos estabelecimentos de ensino da Armada.
 
-###### Art. 118.º A organização e funcionamento dos cursos de actualização são fixados por despacho do Ministro da Marinha.
+Art. 118.º A organização e funcionamento dos cursos de actualização são fixados por despacho do Ministro da Marinha.
 
 #### SECÇÃO VII — Disposições gerais
 
-###### Art. 119.º Os cursos de ingresso nas classes, referidos no capítulo III, são tratados em diplomas especiais.
+Art. 119.º Os cursos de ingresso nas classes, referidos no capítulo III, são tratados em diplomas especiais.
 
-###### Art. 120.º Por despacho singular do Ministro da Marinha, os segundos-tenentes satisfazendo as condições especiais de promoção e os oficiais com o posto de primeiro-tenente ou superior poderão ser autorizados a frequentar em escolas estranhas ao Ministério da Marinha outros cursos que interessem ao serviço da Armada, desde que de tal facto não resulte prejuízo para o serviço.
+Art. 120.º Por despacho singular do Ministro da Marinha, os segundos-tenentes satisfazendo as condições especiais de promoção e os oficiais com o posto de primeiro-tenente ou superior poderão ser autorizados a frequentar em escolas estranhas ao Ministério da Marinha outros cursos que interessem ao serviço da Armada, desde que de tal facto não resulte prejuízo para o serviço.
 
 § único. A autorização a que se refere o corpo deste artigo é válida sòmente para o período de um ano, tendo que ser renovada a pedido dos interessados.
 
@@ -1080,11 +1562,11 @@ e) Maior antiguidade quando se trate de voluntários e menor antiguidade quando 
 
 #### SECÇÃO I — Sistemas de promoção
 
-###### Art. 121.º Os oficiais da Armada ascendem aos postos referidos no artigo 7.º por promoção, nos termos estabelecidos neste estatuto.
+Art. 121.º Os oficiais da Armada ascendem aos postos referidos no artigo 7.º por promoção, nos termos estabelecidos neste estatuto.
 
 § único. Pode, contudo, atribuir-se aos oficiais graduação em posto superior do seu, nos termos previstos neste diploma.
 
-###### Art. 122.º Com excepção da promoção aos postos de almirante e de vice-almirante, os oficiais podem ser promovidos:
+Art. 122.º Com excepção da promoção aos postos de almirante e de vice-almirante, os oficiais podem ser promovidos:
 
 a) Por diuturnidade, que consiste no acesso automático a posto superior, decorrido o período de permanência fixado neste estatuto, mantendo-se no novo posto a antiguidade relativa do posto anterior, salvos os casos de preterição;
 
@@ -1098,7 +1580,7 @@ d) Por distinção, que consiste na promoção, independentemente da posição q
 
 § 2.º As promoções que resultam do ingresso nas classes obedecem a regras especiais, já indicadas no capítulo III, e também se realizam, com excepção das de ingresso na classe do serviço geral, independentemente da existência de vacatura nos quadros dos respectivos postos.
 
-###### Art. 123.º Para que os oficiais possam ser promovidos por diuturnidade, por antiguidade ou por escolha, é necessário que satisfaçam as condições de promoção, as quais se dividem em:
+Art. 123.º Para que os oficiais possam ser promovidos por diuturnidade, por antiguidade ou por escolha, é necessário que satisfaçam as condições de promoção, as quais se dividem em:
 
 a) Gerais - comuns a todas as classes e postos;
 
@@ -1108,7 +1590,7 @@ b) Especiais - para cada classe e posto.
 
 § 2.º A dispensa de condições especiais de promoção apenas se pode verificar nas circunstâncias expressas neste estatuto e no Estatuto dos Oficiais das Forças Armadas.
 
-###### Art. 124.º A promoção dos oficiais apenas se verifica no quadro de oficiais do activo, com as seguintes excepções:
+Art. 124.º A promoção dos oficiais apenas se verifica no quadro de oficiais do activo, com as seguintes excepções:
 
 a) Ao posto de almirante também podem ser promovidos os vice-almirantes e os contra-almirantes dos quadros de oficiais da reserva da Armada com direito a pensão e reformados;
 
@@ -1120,7 +1602,7 @@ d) Ao abrigo da legislação a que se refere o artigo 114.º do Estatuto dos Ofi
 
 § único. A promoção por distinção também pode ter lugar a título póstumo.
 
-###### Art. 125.º A promoção dos oficiais realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 7.º, tendo em conta as seguintes excepções:
+Art. 125.º A promoção dos oficiais realiza-se de posto em posto, segundo o ordenamento hierárquico estabelecido no artigo 7.º, tendo em conta as seguintes excepções:
 
 a) Os contra- almirantes podem ascender directamente a almirante;
 
@@ -1128,7 +1610,7 @@ b) Os capitães-de-mar-e-guerra podem ascender directamente ao posto de contra- 
 
 c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a posto superior ao posto imediato do oficial a promover.
 
-###### Art. 126.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro (no quadro, adidos ou supranumerários).
+Art. 126.º A promoção dos oficiais efectua-se independentemente da sua situação em relação ao quadro (no quadro, adidos ou supranumerários).
 
 § 1.º Nas promoções por diuturnidade, por distinção ou por ingresso nas classes quando os oficiais promovidos não devam ficar na situação de adidos e não haja vacatura nos quadros ficando na situação de supranumerários.
 
@@ -1138,29 +1620,29 @@ c) A promoção por distinção pode, em casos muito excepcionais, realizar-se a
 
 § 4.º Os oficiais adidos ao quadro aos quais caiba a promoção por antiguidade ou por escolha e que continuem adidos no novo posto serão promovidos independentemente de a vacatura poder ser ou não preenchida por outro oficial.
 
-###### Art. 127.º Quando nas promoções por antiguidade ou por escolha a vacatura não possa ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores para todos os oficiais a quem ela pertenceria como se se tivesse dado o movimento.
+Art. 127.º Quando nas promoções por antiguidade ou por escolha a vacatura não possa ser preenchida, a promoção realizar-se-á nos graus hierárquicos inferiores para todos os oficiais a quem ela pertenceria como se se tivesse dado o movimento.
 
 § único. O efectivo fixado para o posto mais elevado no qual se realizaram promoções ao abrigo do disposto neste artigo fica aumentado, transitòriamente do número de oficiais que forem promovidos nessas condições.
 
 #### SECÇÃO II — Promoção a almirante e a vice-almirante
 
-###### Art. 128.º O posto de almirante constitui uma alta dignidade e só poderá ser conferido a titulo excepcional ao vice-almirante ou contra-almirante que, no exercício de funções de comando ou de direcção suprema, tenha revelado predicados, praticado feitos ou prestado à Nação serviços tão excepcionais que por eles mereça a recompense dessa alta dignidade.
+Art. 128.º O posto de almirante constitui uma alta dignidade e só poderá ser conferido a titulo excepcional ao vice-almirante ou contra-almirante que, no exercício de funções de comando ou de direcção suprema, tenha revelado predicados, praticado feitos ou prestado à Nação serviços tão excepcionais que por eles mereça a recompense dessa alta dignidade.
 
-###### Art. 129.º A promoção a almirante realize-se por deliberação do Conselho de Ministros, mediante proposta do Ministro da Marinha, com a concordância do Ministro da Defesa Nacional. Para efeitos da elaboração do respectivo processo é obrigatòriamente ouvido o Conselho Superior da Armada, devendo a proposta ter parecer favorável, quanto à natureza dos fundamentos, do Supremo Tribunal Militar.
+Art. 129.º A promoção a almirante realize-se por deliberação do Conselho de Ministros, mediante proposta do Ministro da Marinha, com a concordância do Ministro da Defesa Nacional. Para efeitos da elaboração do respectivo processo é obrigatòriamente ouvido o Conselho Superior da Armada, devendo a proposta ter parecer favorável, quanto à natureza dos fundamentos, do Supremo Tribunal Militar.
 
-###### Art. 130.º São promovidos a vice-almirante os contra-almirantes que forem nomeados para exercer os cargos de chefe do Estado-Maior General das Forças Armadas, de presidente do Supremo Tribunal Militar e de chefe do Estado-Maior da Armada, sendo o diploma de nomeação simultâneamente o de promoção.
+Art. 130.º São promovidos a vice-almirante os contra-almirantes que forem nomeados para exercer os cargos de chefe do Estado-Maior General das Forças Armadas, de presidente do Supremo Tribunal Militar e de chefe do Estado-Maior da Armada, sendo o diploma de nomeação simultâneamente o de promoção.
 
 § único. O exercício interino dos cargos referidos no corpo deste artigo não dá direito à promoção a vice-almirante.
 
 #### SECÇÃO III — Promoção por diuturnidade
 
-###### Art. 131.º A promoção por diuturnidade tem lugar na promoção a segundo-tenente dos guardas-marinhas e subtenentes das classes a seguir mencionadas, quando completem um ano de permanência nestes postos: marinha, engenheiros maquinistas navais, administração naval, serviço geral e serviço especial.
+Art. 131.º A promoção por diuturnidade tem lugar na promoção a segundo-tenente dos guardas-marinhas e subtenentes das classes a seguir mencionadas, quando completem um ano de permanência nestes postos: marinha, engenheiros maquinistas navais, administração naval, serviço geral e serviço especial.
 
 § único. A promoção por diuturnidade é da competência do Ministro da Marinha.
 
 #### SECÇÃO IV — Promoção por antiguidade
 
-###### Art. 132.º A promoção por antiguidade tem lugar na promoção aos seguintes postos:
+Art. 132.º A promoção por antiguidade tem lugar na promoção aos seguintes postos:
 
 a) Capitão-de-fragata das seguintes classes: marinha, engenheiros construtores navais, médicos navais, engenheiros maquinistas navais, administração naval e engenheiros de material naval;
 
@@ -1170,7 +1652,7 @@ b) Primeiro-tenente de todas as classes.
 
 #### SECÇÃO V — Promoção por escolha
 
-###### Art. 133.º A promoção por escolha tem lugar na promoção aos seguintes postos:
+Art. 133.º A promoção por escolha tem lugar na promoção aos seguintes postos:
 
 a) Contra-almirante;
 
@@ -1184,7 +1666,7 @@ e) Capitão-tenente.
 
 § único. A promoção por escolha aos postos de contra-almirante e de comodoro é da competência do Conselho de Ministros, ouvido o Conselho de Promoções da Armada; a promoção por escolha aos restantes postos é da competência do Ministro da Marinha, ouvido o referido Conselho.
 
-###### Art. 134.º O Conselho de Promoções da Armada, sob a presidência do chefe do Estado-Maior da Armada, é normalmente constituído por:
+Art. 134.º O Conselho de Promoções da Armada, sob a presidência do chefe do Estado-Maior da Armada, é normalmente constituído por:
 
 a) Todos os contra-almirantes, do quadro de oficiais do activo, que se encontrem em comissão normal e que estejam no continente;
 
@@ -1208,7 +1690,7 @@ e) Administração naval - para promoções a oficiais superiores de administra�
 
 § 4.º O Conselho de Promoções da Armada funciona segundo directivas aprovadas pelo Ministro da Marinha.
 
-###### Art. 135.º A escolha é feita, em relação a cada vacatura, entre os oficiais seguintes:
+Art. 135.º A escolha é feita, em relação a cada vacatura, entre os oficiais seguintes:
 
 a) Promoção a contra-almirante: todos os comodoros da classe de marinha e os doze mais antigos capitães-de-mar-e-guerra da mesma classe;
 
@@ -1224,7 +1706,7 @@ e) Promoção a capitão-tenente: os vinte e um mais antigos primeiros-tenentes 
 
 #### SECÇÃO VI — Promoção por distinção
 
-###### Art. 136.º A promoção por distinção pode realizar-se a todos os postos, com excepção dos de almirante e de vice-almirante.
+Art. 136.º A promoção por distinção pode realizar-se a todos os postos, com excepção dos de almirante e de vice-almirante.
 
 § único. A promoção por distinção é da competência:
 
@@ -1232,15 +1714,15 @@ a) Do Conselho de Ministros, mediante proposta do Ministro da Marinha e ouvido o
 
 b) Do Ministro da Marinha, com parecer favorável do Conselho Superior da Armada, nos restantes casos.
 
-###### Art. 137.º A promoção pode ter lugar por iniciativa do Ministro da Marinha ou mediante proposta do chefe sob cujas ordens serve o oficial a promover.
+Art. 137.º A promoção pode ter lugar por iniciativa do Ministro da Marinha ou mediante proposta do chefe sob cujas ordens serve o oficial a promover.
 
 § único. Quando as propostas a que se refere o corpo deste artigo não pertençam ao chefe do Estado-Maior da Armada, deverão ser informadas por este oficial general.
 
-###### Art. 138.º A promoção por distinção não exige a satisfação das condições de promoção.
+Art. 138.º A promoção por distinção não exige a satisfação das condições de promoção.
 
 #### SECÇÃO VII — Condições gerais de promoção
 
-###### Art. 139.º As condições gerais de promoção são as seguintes:
+Art. 139.º As condições gerais de promoção são as seguintes:
 
 1.ª Bom comportamento militar e civil e perfeito espírito militar;
 
@@ -1250,7 +1732,7 @@ b) Do Ministro da Marinha, com parecer favorável do Conselho Superior da Armada
 
 4.ª Aptidão física adequada.
 
-###### Art. 140.º Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são normalmente elementos de apreciação suficientes:
+Art. 140.º Para verificação da 1.ª, 2.ª e 3.ª condições gerais de promoção são normalmente elementos de apreciação suficientes:
 
 a) As informações periódicas dos oficiais a que se refere o artigo 200.º;
 
@@ -1262,7 +1744,7 @@ c) Outros elementos que constem do processo individual do oficial.
 
 § 2.º Nos casos em que o superintendente dos serviços da Armada considere que não são satisfeitas as condições gerais de promoção referidas no parágrafo anterior, ou tenha dúvidas sobre essa satisfação, deverá o assunto ser presente ao chefe do Estado-Maior da Armada; quando este oficial general reconhecer que as citadas condições não são satisfeitas, submeterá o mesmo assunto à apreciação do Ministro da Marinha.
 
-###### Art. 141.º A verificação da 4.ª condição geral de promoção é feita:
+Art. 141.º A verificação da 4.ª condição geral de promoção é feita:
 
 a) Pelas competentes juntas médicas, quando se trate de promoções aos postos de comodoro ou de capitão-tenente;
 
@@ -1274,27 +1756,27 @@ b) Pelos elementos que constam das informações periódicas e dos livretes de s
 
 § 3.º Nas promoções a comodoro e a capitão-tenente, a verificação da aptidão física nas condições referidas na alínea a) deste artigo terá lugar posteriormente à decisão, respectivamente, do Conselho de Ministros e do Ministro da Marinha, mas antes de se efectuar a promoção.
 
-###### Art. 142.º O oficial que não satisfaça à 1.ª ou à 2.ª condição geral de promoção deixará de pertencer ao quadro de oficiais do activo.
+Art. 142.º O oficial que não satisfaça à 1.ª ou à 2.ª condição geral de promoção deixará de pertencer ao quadro de oficiais do activo.
 
 § 1.º Sempre que o julgar conveniente, o Ministro da Marinha mandará submeter a julgamento no Conselho Superior de Disciplina da Armada os oficiais a que se refere o corpo deste artigo.
 
 § 2.º A situação dos oficiais abatidos ao quando de oficiais do activo por não satisfazerem à 1.ª ou à 2.ª condição geral de promoção será regulada de acordo com as circunstâncias e as disposições que constam deste estatuto e da legislação das reservas da Marinha.
 
-###### Art. 143.º O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído temporàriamente da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer a mesma condição, será transferido para os quadros dos oficiais da reserva da Armada (RAa ou RAb, conforme o tempo de serviço que tenha realizado).
+Art. 143.º O oficial que não satisfaça à 3.ª condição geral de promoção ficará excluído temporàriamente da promoção pelo prazo máximo de dois anos, findos os quais, se continuar a não satisfazer a mesma condição, será transferido para os quadros dos oficiais da reserva da Armada (RAa ou RAb, conforme o tempo de serviço que tenha realizado).
 
 § único. Nenhum oficial pode ser dado como não satisfazendo à 3.ª condição geral de promoção sem ser ouvido o Conselho Superior da Armada.
 
-###### Art. 144.º O oficial que não satisfaça à 4.ª condição geral de promoção será, conforme as circunstâncias:
+Art. 144.º O oficial que não satisfaça à 4.ª condição geral de promoção será, conforme as circunstâncias:
 
 a) Transferido para os quadros de oficiais da reserva da Armada (RAa ou RAb); ou
 
 b) Transferido para o quadro de oficiais reformados ou abatidos aos quadros de oficiais da Armada.
 
-###### Art. 145.º O oficial contra o qual se esteja a proceder a auto de corpo delito, processo de averiguações ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o Ministro da Marinha assim o entender, por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª ou 3.ª condições gerais de promoção.
+Art. 145.º O oficial contra o qual se esteja a proceder a auto de corpo delito, processo de averiguações ou tenha pendente processo criminal ou disciplinar poderá ser promovido se o Ministro da Marinha assim o entender, por verificar que a matéria do auto ou processo não põe em dúvida a satisfação da 1.ª, 2.ª ou 3.ª condições gerais de promoção.
 
 #### SECÇÃO VII — Condições especiais de promoção
 
-###### Art. 146.º As condições especiais de promoção compreendem:
+Art. 146.º As condições especiais de promoção compreendem:
 
 a) Tempo de permanência no posto;
 
@@ -1312,7 +1794,7 @@ d) Cursos.
 
 § único. As condições especiais de promoção para os diversos postos e classes são as indicadas no mapa 3 anexo a este diploma.
 
-###### Art. 147.º Conta-se como tempo de permanência no posto o decorrido:
+Art. 147.º Conta-se como tempo de permanência no posto o decorrido:
 
 a) Em comissão normal;
 
@@ -1328,7 +1810,7 @@ b) O de licença registada;
 
 § 2.º O tempo de permanência no posto é contado a partir da data de antiguidade neste posto.
 
-###### Art. 148.º Qualquer oficial não pode ser promovido aos postos a seguir designados sem o seguinte tempo mínimo, contado a partir da promoção a segundo-tenente:
+Art. 148.º Qualquer oficial não pode ser promovido aos postos a seguir designados sem o seguinte tempo mínimo, contado a partir da promoção a segundo-tenente:
 
 ... Anos
 
@@ -1348,13 +1830,13 @@ Contra-almirante ... 18
 
 § 2.º Nas promoções por distinção não são exigidos os tempos mínimos de posto referidos neste artigo.
 
-###### Art. 149.º Os tirocínios de embarque só podem ser contados em navios armados e quando o oficial pertença à guarnição da força ou unidade naval ou esteja embarcado em diligência, desempenhando funções que competem aos oficiais da lotação daquela força ou unidade.
+Art. 149.º Os tirocínios de embarque só podem ser contados em navios armados e quando o oficial pertença à guarnição da força ou unidade naval ou esteja embarcado em diligência, desempenhando funções que competem aos oficiais da lotação daquela força ou unidade.
 
 § 1.º Pode o Ministro da Marinha, por despacho singular, autorizar a contagem de tirocínio de embarque noutras circunstâncias, mediante proposta devidamente fundamentada do superintendente dos serviços da Armada.
 
 § 2.º O embarque realizado nos transportes de guerra pelos oficiais nomeados capitães-de-bandeira para efeitos de contagem de tirocínios apenas dá direito aos referidos nas subalíneas 1) e 3) da alínea b) do artigo 146.º
 
-###### Art. 150.º Como tempo de navegação apenas é contado o que for realizado no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação preliminar ou complementar da navegação no mar.
+Art. 150.º Como tempo de navegação apenas é contado o que for realizado no mar e aquele que, efectuado dentro de barras, rios ou portos fechados, corresponda a navegação preliminar ou complementar da navegação no mar.
 
 § 1.º Pode o Ministro da Marinha, por despacho publicado na Ordem da Direcção do Serviço do Pessoal, autorizar que seja contado como tempo de navegação o realizado dentro de barras, rios ou portos fechados, quando se trate de navios que operem normalmente nessas áreas e desde que as condições em que a navegação é feita o justifiquem.
 
@@ -1362,37 +1844,37 @@ Contra-almirante ... 18
 
 § 3.º Para os oficiais da classe dos engenheiros maquinistas navais da classe do serviço geral que sejam provenientes de artífices condutores de máquinas e de fogueiros-motoristas e do ramo de máquinas da subclasse dos oficiais técnicos do serviço especial, do tempo de navegação apenas é contado aquele em que o navio navegou com as suas máquinas propulsoras.
 
-###### Art. 151.º Aos primeiros-tenentes e segundos-tenentes que prestem ou tenham prestado serviço nas unidades de fuzileiros ou como instrutores de cursos de fuzileiros especiais, o tempo de embarque pode ser substituído até metade por tempo de serviço naquelas unidades ou como instrutores dos referidos cursos.
+Art. 151.º Aos primeiros-tenentes e segundos-tenentes que prestem ou tenham prestado serviço nas unidades de fuzileiros ou como instrutores de cursos de fuzileiros especiais, o tempo de embarque pode ser substituído até metade por tempo de serviço naquelas unidades ou como instrutores dos referidos cursos.
 
 § 1.º Para as oficiais a que se refere este artigo que tenham prestado, pelo menos, um ano de serviço nas unidades de fuzileiros ou como instrutores dos cursos de fuzileiros especiais, o tempo de navegação exigido para a promoção ao posto imediato é reduzido de metade.
 
 § 2.º O disposto neste artigo e no parágrafo anterior apenas é aplicável uma vez ao mesmo oficial, no posto de primeiro-tenente ou no posto de segundo-tenente.
 
-###### Art. 152.º Os tirocínios de embarque e em terra apenas podem ser contados para os oficiais em comissão normal e que não estejam nas situações indicadas no § 1.º do artigo 147.º
+Art. 152.º Os tirocínios de embarque e em terra apenas podem ser contados para os oficiais em comissão normal e que não estejam nas situações indicadas no § 1.º do artigo 147.º
 
 § 1.º Os tirocínios de embarque não são contados aos oficiais que estejam de licença de qualquer natureza, hospitalizados ou impedidos de prestar serviço por motivo de doença ou que desembarquem dos navios a cujas lotações pertençam para prestar eventualmente serviço em terra.
 
 § 2.º Os tirocínios em terra não serão contados aos oficiais que estejam de licença de qualquer natureza, hospitalizados ou impedidos de prestar serviço por motivo de doença.
 
-###### Art. 153.º Os cursos que constituam condições de promoção apenas podem ser realizadas nas condições indicadas no corpo do artigo anterior.
+Art. 153.º Os cursos que constituam condições de promoção apenas podem ser realizadas nas condições indicadas no corpo do artigo anterior.
 
-###### Art. 154.º Pertence à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) nomear, com o devido tempo, os oficiais para situações onde possam satisfazer às condições especiais de promoção.
+Art. 154.º Pertence à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) nomear, com o devido tempo, os oficiais para situações onde possam satisfazer às condições especiais de promoção.
 
 § único. O disposto no corpo deste artigo não implica a obrigação de nomear qualquer oficial para o comando de força naval ou de navio, cuja proposta é da exclusiva competência do chefe do Estado-Maior da Armada.
 
-###### Art. 155.º Para efeitos do disposto no artigo anterior, quando o movimento dos oficiais não for da responsabilidade da Superintendência dos Serviços da Armada, deverá esta informar as entidades competentes da necessidade de os oficiais efectuarem as condições especiais de promoção.
+Art. 155.º Para efeitos do disposto no artigo anterior, quando o movimento dos oficiais não for da responsabilidade da Superintendência dos Serviços da Armada, deverá esta informar as entidades competentes da necessidade de os oficiais efectuarem as condições especiais de promoção.
 
 § único. Para as oficiais que se encontrem em comissão especial e de licença ilimitada deverá a Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) informar os oficiais interessados de que a continuarem nessas situações poderão ser prejudicados na promoção.
 
-###### Art. 156.º O Ministro da Marinha pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal, dispensar dos tirocínios - de embarque ou em terra num só posto qualquer oficial que, por conveniência excepcional do serviço, seja impedido de os realizar.
+Art. 156.º O Ministro da Marinha pode, por despacho fundamentado e publicado na Ordem da Direcção do Serviço do Pessoal, dispensar dos tirocínios - de embarque ou em terra num só posto qualquer oficial que, por conveniência excepcional do serviço, seja impedido de os realizar.
 
-###### Art. 157.º A satisfação das condições especiais de promoção dos oficiais da Armada investidos nas funções de Presidente da República, de Presidente do Conselho de Ministros, de Ministro, de Secretário e de Subsecretário de Estado é regulada pelo disposto no artigo 82.º do Estatuto dos Oficiais das Forças Armadas.
+Art. 157.º A satisfação das condições especiais de promoção dos oficiais da Armada investidos nas funções de Presidente da República, de Presidente do Conselho de Ministros, de Ministro, de Secretário e de Subsecretário de Estado é regulada pelo disposto no artigo 82.º do Estatuto dos Oficiais das Forças Armadas.
 
-###### Art. 158.º Pertence à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) verificar a satisfação das condições especiais de promoção.
+Art. 158.º Pertence à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) verificar a satisfação das condições especiais de promoção.
 
 #### SECÇÃO IX — Exclusão temporária de promoção
 
-###### Art. 159.º Os oficiais podem ser excluídos temporàriamente da promoção, ficando numa das seguintes situações:
+Art. 159.º Os oficiais podem ser excluídos temporàriamente da promoção, ficando numa das seguintes situações:
 
 a) Demorados;
 
@@ -1404,7 +1886,7 @@ b) Preteridos.
 
 § 3.º Os oficiais que, em resultado da promoção por escolha de outros oficiais, sofram perda de antiguidade relativamente a estes, não são considerados como excluídos temporàriamente da promoção, não lhes sendo aplicáveis as disposições respeitantes a esta exclusão.
 
-###### Art. 160.º A demora na promoção tem lugar nos seguintes casos:
+Art. 160.º A demora na promoção tem lugar nos seguintes casos:
 
 a) Quando os oficiais aguardem julgamento do Conselho Superior de Disciplina da Armada, nas condições a que se refere o § 1.º do artigo 142.º;
 
@@ -1428,7 +1910,7 @@ g) Noutros casos em que a lei expressamente o determine.
 
 § 4.º Os oficiais demorados na promoção não devem, tanto quando possível, servir sob as ordens de oficiais mais modernos que, entretanto, tenham sido promovidos.
 
-###### Art. 161.º A preterição na promoção tem lugar quando se verifiquem as seguintes circunstâncias:
+Art. 161.º A preterição na promoção tem lugar quando se verifiquem as seguintes circunstâncias:
 
 a) A exclusão da promoção seja motivada por o oficial não ter satisfeito à 3.ª condição geral de promoção, conforme o disposto no artigo 143.º;
 
@@ -1444,13 +1926,13 @@ c) Noutros casos em que a lei expressamente o determine.
 
 #### SECÇÃO X — Outras disposições sobre promoções
 
-###### Art. 162.º Os oficiais prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual será presente o respectivo processo, com menção, quando possível, das circunstâncias em que o oficial foi feito prisioneiro, dos seus serviços em campanha e do seu procedimento enquanto prisioneiro.
+Art. 162.º Os oficiais prisioneiros só podem ser promovidos mediante parecer favorável do Supremo Tribunal Militar, ao qual será presente o respectivo processo, com menção, quando possível, das circunstâncias em que o oficial foi feito prisioneiro, dos seus serviços em campanha e do seu procedimento enquanto prisioneiro.
 
 Nos casos em que o Supremo Tribunal Militar não possa emitir parecer ou este for desfavorável, o oficial só pode ser promovido depois de julgado, após a libertação.
 
 § único. Os oficiais nas condições deste artigo são promovidos com dispensa das condições especiais de promoção referidas nas alíneas b) e c) do artigo 146.º
 
-###### Art. 163.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) organizar os processos de promoção dos oficiais, dos quais devem constar todos os elementos que forem julgados convenientes para uma complete apreciação das qualidades e méritos dos oficiais.
+Art. 163.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) organizar os processos de promoção dos oficiais, dos quais devem constar todos os elementos que forem julgados convenientes para uma complete apreciação das qualidades e méritos dos oficiais.
 
 § 1.º Nos processos de promoção por distinção deverão ser incluídos todos os elementos que permitam conhecer, com todo o detalhe, o feito praticado que dá origem a essa promoção.
 
@@ -1458,7 +1940,7 @@ Nos casos em que o Supremo Tribunal Militar não possa emitir parecer ou este fo
 
 § 3.º Os processes de promoção são confidenciais.
 
-###### Art. 164.º Nas promoções realizadas para preenchimento de vacaturas devem seguir-se as normas seguintes:
+Art. 164.º Nas promoções realizadas para preenchimento de vacaturas devem seguir-se as normas seguintes:
 
 a) Em primeiro lugar as vacaturas são preenchidas pelos oficiais supranumerários;
 
@@ -1470,11 +1952,11 @@ d) Quando no caso da alínea anterior houver mais do que um oficial a promover, 
 
 e) Só depois de terem ingressado no quadro os supranumerários e de terem sido promovidos os oficiais referidos na alínea c) a abertura de vacaturas motivará a promoção de oficiais que não estejam naquelas situações.
 
-###### Art. 165.º Quando no dia em que se apresentar um oficial que deva entrar no quadro do seu posto ocorrer uma vacatura nesse quadro, esta vacatura será preenchida por aquele oficial desde que não existam supranumerários.
+Art. 165.º Quando no dia em que se apresentar um oficial que deva entrar no quadro do seu posto ocorrer uma vacatura nesse quadro, esta vacatura será preenchida por aquele oficial desde que não existam supranumerários.
 
 § único. Se o oficial se apresentar depois de aberta a vacatura e até à véspera da data em que se apresentou nenhum oficial tiver satisfeito às condições de promoção, aquele oficial ocupará a vaga a partir da data da sua apresentação.
 
-###### Art. 166.º A data de antiguidade no posto a que se refere o artigo 8.º corresponde:
+Art. 166.º A data de antiguidade no posto a que se refere o artigo 8.º corresponde:
 
 a) À data do diploma de promoção, na promoção aos postos de almirante e de vice-almirante;
 
@@ -1502,11 +1984,11 @@ b) À data em que, depois de terem cessado os motivos da exclusão, ocorreu a va
 
 § 2.º A data da vacatura aberta por incapacidade física de um oficial é aquela em que a opinião da junta médica foi confirmada pelo Ministro da Marinha.
 
-###### Art. 167.º Quando um oficial atinja o limite de idade a que se refere o artigo 81.º, posteriormente à data em que lhe caiba promoção por diuturnidade, não passará ao quadro de oficiais da reserva da Armada com direito a pensão até que essa promoção seja publicada, após o que passará então a esse quadro ou continuará no quadro de oficiais do activo, conforme o limite de idade do novo posto seja ou não igual ao do posto anterior.
+Art. 167.º Quando um oficial atinja o limite de idade a que se refere o artigo 81.º, posteriormente à data em que lhe caiba promoção por diuturnidade, não passará ao quadro de oficiais da reserva da Armada com direito a pensão até que essa promoção seja publicada, após o que passará então a esse quadro ou continuará no quadro de oficiais do activo, conforme o limite de idade do novo posto seja ou não igual ao do posto anterior.
 
-###### Art. 168.º A passagem ao quadro de oficiais da reserva da Armada com direito a pensão de um oficial que atinja o limite de idade a que se refere o artigo 81.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse oficial ao posto seguinte.
+Art. 168.º A passagem ao quadro de oficiais da reserva da Armada com direito a pensão de um oficial que atinja o limite de idade a que se refere o artigo 81.º é sustada quando se verifique a existência de uma vacatura em data anterior àquela em que foi atingido o limite de idade e de cujo preenchimento possa vir a resultar a promoção por escolha ou por antiguidade desse oficial ao posto seguinte.
 
-###### Art. 169.º O diploma de promoção tem a forma de:
+Art. 169.º O diploma de promoção tem a forma de:
 
 a) Decreto-lei, para promoção a almirante;
 
@@ -1522,7 +2004,7 @@ d) Para a promoção aos restantes postos:
 
 #### SECÇÃO XI — Graduações
 
-###### Art. 170.º Os oficiais podem ser graduados em posto superior:
+Art. 170.º Os oficiais podem ser graduados em posto superior:
 
 a) Nos casos previstos no artigo 13.º deste estatuto;
 
@@ -1530,17 +2012,17 @@ b) Em tempo de guerra, segundo legislação especial.
 
 ### CAPÍTULO VII — Registo e movimento dos oficiais. Duração das comissões
 
-###### Art. 171.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) realizar o registo e movimento dos oficiais.
+Art. 171.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) realizar o registo e movimento dos oficiais.
 
-###### Art. 172.º A colocação dos oficiais nos comandos, unidades e serviços da Armada e noutros organismos do Ministério da Marinha ou noutros departamentos deve ser realizada de maneira a garantir a estabilidade do pessoal indispensável a um conveniente funcionamento daqueles organismos.
+Art. 172.º A colocação dos oficiais nos comandos, unidades e serviços da Armada e noutros organismos do Ministério da Marinha ou noutros departamentos deve ser realizada de maneira a garantir a estabilidade do pessoal indispensável a um conveniente funcionamento daqueles organismos.
 
-###### Art. 173.º Como regra geral, e quando não houver disposições legais que determinem procedimento diferente, a duração mínima das comissões deverá ser:
+Art. 173.º Como regra geral, e quando não houver disposições legais que determinem procedimento diferente, a duração mínima das comissões deverá ser:
 
 a) A bordo - um ano para oficiais superiores e dois anos para subalternos;
 
 b) Em terra - dois anos.
 
-###### Art. 174.º Para as comissões a seguir referidas são fixados os seguintes períodos:
+Art. 174.º Para as comissões a seguir referidas são fixados os seguintes períodos:
 
 a) Estado-Maior da Armada e Instituto Superior Naval de Guerra - quatro anos;
 
@@ -1576,15 +2058,15 @@ i) Secção de Marinha da Repartição do Gabinete do Ministério do Ultramar - 
 
 § 4.º As comissões a que se refere este artigo podem ser interrompidas em qualquer altura, desde que as conveniências do serviço o exijam.
 
-###### Art. 175.º Como regra, não devem ser simultâneamente substituídos na mesma unidade ou serviço os oficiais desempenhando os cargos de comandante ou imediato, director ou subdirector e chefe ou subchefe.
+Art. 175.º Como regra, não devem ser simultâneamente substituídos na mesma unidade ou serviço os oficiais desempenhando os cargos de comandante ou imediato, director ou subdirector e chefe ou subchefe.
 
-###### Art. 176.º A Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) deverá elaborar e submeter à apreciação superior as normas que devem regular a selecção de voluntários ou a nomeação por imposição de serviço, para certas comissões de natureza especial, como as que se referem ao serviço no ultramar, a bordo e em terra, à Direcção-Geral da Marinha, ao Instituto Hidrográfico e navios hidrográficos e outras de natureza análoga. Estas normas, depois de aprovadas superiormente, serão publicadas na Ordem da Armada.
+Art. 176.º A Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) deverá elaborar e submeter à apreciação superior as normas que devem regular a selecção de voluntários ou a nomeação por imposição de serviço, para certas comissões de natureza especial, como as que se referem ao serviço no ultramar, a bordo e em terra, à Direcção-Geral da Marinha, ao Instituto Hidrográfico e navios hidrográficos e outras de natureza análoga. Estas normas, depois de aprovadas superiormente, serão publicadas na Ordem da Armada.
 
-###### Art. 177.º Os comandantes e directores ou chefes de unidades e serviços poderão indicar à Direcção do Serviço do Pessoal os oficiais que pretendem que sejam incluídos nas suas guarnições, o que deverá ser satisfeito desde que desse destacamento não resulte prejuízo para o serviço ou para outros oficiais, nem infracção às disposições em vigor sobre o movimento dos oficiais.
+Art. 177.º Os comandantes e directores ou chefes de unidades e serviços poderão indicar à Direcção do Serviço do Pessoal os oficiais que pretendem que sejam incluídos nas suas guarnições, o que deverá ser satisfeito desde que desse destacamento não resulte prejuízo para o serviço ou para outros oficiais, nem infracção às disposições em vigor sobre o movimento dos oficiais.
 
-###### Art. 178.º As direcções de serviços e organismos equivalentes da Superintendência dos Serviços da Armada poderão ser consultados sobre o movimento dos oficiais das classes e especialidades que respeitam as respectivas actividades. Os mesmos organismos poderão, por iniciativa própria, apresentar à Direcção do Serviço do Pessoal as sugestões que sobre o assunto julguem conveniente formular, competindo, no entanto, a esta Direcção a decisão sobre o movimento dos oficiais.
+Art. 178.º As direcções de serviços e organismos equivalentes da Superintendência dos Serviços da Armada poderão ser consultados sobre o movimento dos oficiais das classes e especialidades que respeitam as respectivas actividades. Os mesmos organismos poderão, por iniciativa própria, apresentar à Direcção do Serviço do Pessoal as sugestões que sobre o assunto julguem conveniente formular, competindo, no entanto, a esta Direcção a decisão sobre o movimento dos oficiais.
 
-###### Art. 179.º Os comandantes de forças navais, fora do porto de Lisboa, poderão transferir os oficiais entre as unidades navais que lhes estão atribuídas. Igual faculdade poderá ser concedida, por despacho do chefe do Estado-Maior da Armada, aos comandantes de forças navais no porto de Lisboa.
+Art. 179.º Os comandantes de forças navais, fora do porto de Lisboa, poderão transferir os oficiais entre as unidades navais que lhes estão atribuídas. Igual faculdade poderá ser concedida, por despacho do chefe do Estado-Maior da Armada, aos comandantes de forças navais no porto de Lisboa.
 
 § 1.º As deslocações de oficiais realizadas ao abrigo do corpo deste artigo serão imediatamente comunicadas à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
 
@@ -1592,21 +2074,21 @@ i) Secção de Marinha da Repartição do Gabinete do Ministério do Ultramar - 
 
 § 3.º O disposto neste artigo e parágrafos anteriores é aplicável, nas mesmas condições, aos comandantes navais e de defesas marítimas territoriais relativamente às unidades navais que lhes estão atribuídas.
 
-###### Art. 180.º Os oficiais necessários ao desempenho dos serviços da sua especialidade em organismos estranhos ao Ministério da Marinha podem ser nomeados, voluntária ou obrigatòriamente, para servirem nesses organismos.
+Art. 180.º Os oficiais necessários ao desempenho dos serviços da sua especialidade em organismos estranhos ao Ministério da Marinha podem ser nomeados, voluntária ou obrigatòriamente, para servirem nesses organismos.
 
 § 1.º Quando se trate de nomeações que não devam ser feitas por escala, deverão ser atendidas, na medida do justo e do possível, as requisições nominais feitas pelos organismos interessados, desde que os oficiais sejam voluntários.
 
 § 2.º Quando for necessário que regressem ao serviço da Armada os oficiais que estejam prestando serviço em organismos estranhos ao Ministério da Marinha, tal regresso deve ser solicitado a estes organismos, os quais lhe darão efectivação.
 
-###### Art. 181.º As disposições referidas nos artigos anteriores deste capítulo sobre nomeação de oficiais e duração das suas comissões não invalidam a faculdade de o Ministro da Marinha e o chefe do Estado-Maior da Armada escolherem, de acordo com as conveniências do serviço, os oficiais que devam exercer cargos de comando, de chefia e de responsabilidade análoga.
+Art. 181.º As disposições referidas nos artigos anteriores deste capítulo sobre nomeação de oficiais e duração das suas comissões não invalidam a faculdade de o Ministro da Marinha e o chefe do Estado-Maior da Armada escolherem, de acordo com as conveniências do serviço, os oficiais que devam exercer cargos de comando, de chefia e de responsabilidade análoga.
 
-###### Art. 182.º Quando se der o movimento de qualquer oficial, este deverá ser portador de uma guia de marcha do modelo aprovado oficialmente.
+Art. 182.º Quando se der o movimento de qualquer oficial, este deverá ser portador de uma guia de marcha do modelo aprovado oficialmente.
 
-###### Art. 183.º Os oficiais que embarquem como passageiros em navios mercantes devem apresentar-se ao comandante militar de bordo.
+Art. 183.º Os oficiais que embarquem como passageiros em navios mercantes devem apresentar-se ao comandante militar de bordo.
 
 § único. Se a bordo estiverem outros oficiais ou sargentos ou praças da Armada, o oficial mais graduado ou antigo será o encarregada do pessoal da Armada e será ele que se apresentará ao comandante militar de bordo.
 
-###### Art. 184.º A Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) tomará as necessárias providências para ter conhecimento da residência de todos os oficiais que deixarem de prestar serviço efectivo.
+Art. 184.º A Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) tomará as necessárias providências para ter conhecimento da residência de todos os oficiais que deixarem de prestar serviço efectivo.
 
 ### CAPÍTULO VIII — Disposições diversas
 
@@ -1614,7 +2096,7 @@ i) Secção de Marinha da Repartição do Gabinete do Ministério do Ultramar - 
 
 ##### SUBSECÇÃO I — Classificação das licenças
 
-###### Art. 185.º As licenças que são aplicáveis aos oficiais destinam-se a:
+Art. 185.º As licenças que são aplicáveis aos oficiais destinam-se a:
 
 a) Usar dos indispensáveis períodos de repouso;
 
@@ -1626,7 +2108,7 @@ d) Frequentar cursos ou estágios em estabelecimentos de ensino superior, ou de 
 
 e) Interromper a prestação de serviço por motivo de natureza particular.
 
-###### Art. 186.º As licenças que podem ser concedidas aos oficiais do quadro de oficiais do activo são as seguintes:
+Art. 186.º As licenças que podem ser concedidas aos oficiais do quadro de oficiais do activo são as seguintes:
 
 a) As que constam do Regulamento de Disciplina Militar;
 
@@ -1650,7 +2132,7 @@ f) Ilimitada.
 
 Art. .187.º A concessão da licença disciplinar tem lugar nos termos do Regulamento de Disciplina Militar, sendo os requerimentos para essa concessão informados pela Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal), que deverá atender à verificação das condições a que o mesmo regulamento se refere.
 
-###### Art. 188.º Compete aos comandantes ou chefes directos dos oficiais regular o regime em que pode ser usada a licença disciplinar, de acordo com as conveniências do serviço e disposições em vigor.
+Art. 188.º Compete aos comandantes ou chefes directos dos oficiais regular o regime em que pode ser usada a licença disciplinar, de acordo com as conveniências do serviço e disposições em vigor.
 
 § único. Na concessão da licença disciplinar aos oficiais deve ser dada preferência:
 
@@ -1660,11 +2142,11 @@ Art. .187.º A concessão da licença disciplinar tem lugar nos termos do Regula
 
 3.º Aos que tenham requerido para a usar na terra da sua naturalidade, quando a mesma não seja a localidade onde prestam serviço.
 
-###### Art. 180.º Os oficiais provenientes da Escola Naval só têm direito à licença disciplinar doze meses depois da data a partir da qual contam a sua antiguidade como guardas-marinhas; os segundos-tenentes médicos navais e farmacêuticos navais só têm direito àquela licença depois de terem completado doze meses de serviço efectivo na Armada.
+Art. 180.º Os oficiais provenientes da Escola Naval só têm direito à licença disciplinar doze meses depois da data a partir da qual contam a sua antiguidade como guardas-marinhas; os segundos-tenentes médicos navais e farmacêuticos navais só têm direito àquela licença depois de terem completado doze meses de serviço efectivo na Armada.
 
 ##### SUBSECÇÃO III — Da licença por serviço no ultramar
 
-###### Art. 190.º Designa-se licença por serviço no ultramar a licença concedida pela prestação de serviço no ultramar no desempenho de funções próprias da comissão normal de 7 dias por cada semestre e até ao máximo de 60 dias.
+Art. 190.º Designa-se licença por serviço no ultramar a licença concedida pela prestação de serviço no ultramar no desempenho de funções próprias da comissão normal de 7 dias por cada semestre e até ao máximo de 60 dias.
 
 § 1.º Esta licença só pode ser usada no prazo de um ano, contado desde a data de regresso do oficial do ultramar.
 
@@ -1676,7 +2158,7 @@ Art. .187.º A concessão da licença disciplinar tem lugar nos termos do Regula
 
 ##### SUBSECÇÃO IV — Das licenças das juntas médicas da Armada
 
-###### Art. 191.º As licenças das juntas médicas da Armada são arbitradas por opinião daquelas juntas e concedidas pelas entidades indicadas no regulamento das mesmas juntas.
+Art. 191.º As licenças das juntas médicas da Armada são arbitradas por opinião daquelas juntas e concedidas pelas entidades indicadas no regulamento das mesmas juntas.
 
 § 1.º As licenças a que se refere este artigo começam a ser contadas no dia seguinte ao da publicação na Ordem da Direcção do Serviço do Pessoal (Junta de Saúde Naval) ou na Ordem do respectivo comando (junta de saúde dos comandos) do despacho que as concedeu.
 
@@ -1686,7 +2168,7 @@ Art. .187.º A concessão da licença disciplinar tem lugar nos termos do Regula
 
 ##### SUBSECÇÃO V — Licenças para estudos
 
-###### Art. 192.º Designa-se licença para estudos a licença concedida, a requerimento dos interessados, para efeitos de frequência de cursos, cadeiras ou estágios em estabelecimentos de ensino superior ou de categoria equivalente, nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros da Armada.
+Art. 192.º Designa-se licença para estudos a licença concedida, a requerimento dos interessados, para efeitos de frequência de cursos, cadeiras ou estágios em estabelecimentos de ensino superior ou de categoria equivalente, nacionais ou estrangeiros, estranhos aos departamentos militares, de que resulte valorização profissional e técnica dos quadros da Armada.
 
 § 1.º A concessão da licença para estudos é da competência do Ministro da Marinha.
 
@@ -1700,13 +2182,13 @@ Art. .187.º A concessão da licença disciplinar tem lugar nos termos do Regula
 
 ##### SUBSECÇÃO VI — Licença registada
 
-###### Art. 193.º Designa-se «licença registada» a licença concedida, por despacho do Ministro da Marinha, a requerimento dos interessados, por motivo de natureza particular que justifique tal pretensão.
+Art. 193.º Designa-se «licença registada» a licença concedida, por despacho do Ministro da Marinha, a requerimento dos interessados, por motivo de natureza particular que justifique tal pretensão.
 
 § único. A licença registada não pode ser concedida por mais de seis meses, seguidos ou interpolados, dentro de um período de cinco anos.
 
 ##### SUBSECÇÃO VII — Licença ilimitada
 
-###### Art. 194.º Designa-se «licença ilimitada» a licença concedida por período não inferior a um ano pelo Ministro da Marinha ao oficial que a requeira e possa ser dispensado do serviço.
+Art. 194.º Designa-se «licença ilimitada» a licença concedida por período não inferior a um ano pelo Ministro da Marinha ao oficial que a requeira e possa ser dispensado do serviço.
 
 § 1.º A licença ilimitada apenas pode ser concedida ao oficial que tenha prestado, pelo menos, oito anos de serviço efectivo na Armada como oficial.
 
@@ -1720,25 +2202,25 @@ b) Um ano após o oficial ter entrada nesta situação, quando concedida ao ofic
 
 ##### SUBSECÇÃO VIII — Disposições gerais
 
-###### Art. 195.º As licenças que constam do Regulamento de Disciplina Militar, as resultantes de serviço no ultramar e as das juntas médicas são concedidas com vencimentos; as licenças registada e ilimitada são concedidas sem quaisquer vencimentos ou pensões; a licença para estudos pode ser concedida com ou sem vencimento, tendo em conta o interesse para a Armada dos estudos para que a licença é concedida.
+Art. 195.º As licenças que constam do Regulamento de Disciplina Militar, as resultantes de serviço no ultramar e as das juntas médicas são concedidas com vencimentos; as licenças registada e ilimitada são concedidas sem quaisquer vencimentos ou pensões; a licença para estudos pode ser concedida com ou sem vencimento, tendo em conta o interesse para a Armada dos estudos para que a licença é concedida.
 
-###### Art. 196.º Todas as licenças de que trata esta secção, com excepção das referidas na alínea c) do artigo 186.º, apenas são concedidas quando não haja prejuízo para o serviço.
+Art. 196.º Todas as licenças de que trata esta secção, com excepção das referidas na alínea c) do artigo 186.º, apenas são concedidas quando não haja prejuízo para o serviço.
 
-###### Art. 197.º As licenças a que se referem as alíneas a) e b) do artigo 186.º são normalmente usadas na situação em que o oficial presta serviço; a licença das juntas médicas igual ou inferior a 90 dias pode ser usada na situação em que o oficial prestar serviço, desde que haja nisso vantagem; nos demais casos e nas situações de licença para estudos, licença registada ou licença ilimitada deverá o oficial recolher à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
+Art. 197.º As licenças a que se referem as alíneas a) e b) do artigo 186.º são normalmente usadas na situação em que o oficial presta serviço; a licença das juntas médicas igual ou inferior a 90 dias pode ser usada na situação em que o oficial prestar serviço, desde que haja nisso vantagem; nos demais casos e nas situações de licença para estudos, licença registada ou licença ilimitada deverá o oficial recolher à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
 
-###### Art. 198.º A autorização ,para usar qualquer licença em parcela do território nacional diferente daquela em que os oficiais prestem serviço ou no estrangeiro é da competência do Ministro da Marinha.
+Art. 198.º A autorização ,para usar qualquer licença em parcela do território nacional diferente daquela em que os oficiais prestem serviço ou no estrangeiro é da competência do Ministro da Marinha.
 
 § único. O Ministro da Marinha pode delegar noutras entidades a competência a que se refere este artigo.
 
-###### Art. 199.º O oficial a quem seja concedida licença recebe uma guia de licença, com que se apresentará às autoridades do marinha ou militares da localidade onde vai usar a licença. A autoridade averbará a apresentação e tomará nota da residência para ficar habilitada a intimar-lhe qualquer acto de serviço.
+Art. 199.º O oficial a quem seja concedida licença recebe uma guia de licença, com que se apresentará às autoridades do marinha ou militares da localidade onde vai usar a licença. A autoridade averbará a apresentação e tomará nota da residência para ficar habilitada a intimar-lhe qualquer acto de serviço.
 
 § único. Antes de regressar à sua unidade ou serviço o oficial irá visar a guia à autoridade a que se apresentou.
 
 #### SECÇÃO II — Informações
 
-###### Art. 200.º Os oficiais do quadro de oficiais do activo em comissão normal e os oficiais do quadro de oficiais da reserva da Armada com direito a pensão prestando serviço efectivo são objecto de informação periódica dos comandantes, directores ou chefes a que estão subordinados directamente.
+Art. 200.º Os oficiais do quadro de oficiais do activo em comissão normal e os oficiais do quadro de oficiais da reserva da Armada com direito a pensão prestando serviço efectivo são objecto de informação periódica dos comandantes, directores ou chefes a que estão subordinados directamente.
 
-###### Art. 201.º A informação periódica dos oficiais destina-se essencialmente, a:
+Art. 201.º A informação periódica dos oficiais destina-se essencialmente, a:
 
 a) Contribuir para a selecção dos oficiais, de maneira que os melhores e mais aptos para exercerem as funções que competem aos altos postos sejam promovidos mais ràpidamente;
 
@@ -1748,77 +2230,77 @@ c) Permitir que o valor dos oficiais, considerados no conjunto da sua classe, po
 
 d) Estimular o aperfeiçoamento individual dos oficiais pelo oportuno esclarecimento das suas deficiências.
 
-###### Art. 202.º A informação periódica dos oficiais deve abranger a apreciação das suas qualidades intelectuais, de carácter, sociais, morais, militares, profissionais e físicas.
+Art. 202.º A informação periódica dos oficiais deve abranger a apreciação das suas qualidades intelectuais, de carácter, sociais, morais, militares, profissionais e físicas.
 
-###### Art. 203.º A informação periódica dos oficiais é confidencial, devendo os informadores esclarecer os oficiais que informam, sempre que o julgarem conveniente, quanto aos defeitos susceptíveis de serem corrigidos.
+Art. 203.º A informação periódica dos oficiais é confidencial, devendo os informadores esclarecer os oficiais que informam, sempre que o julgarem conveniente, quanto aos defeitos susceptíveis de serem corrigidos.
 
-###### Art. 204.º Os oficiais generais não estão sujeitos a informação periódica, com excepção dos comodoros da classe de marinha.
+Art. 204.º Os oficiais generais não estão sujeitos a informação periódica, com excepção dos comodoros da classe de marinha.
 
-###### Art. 205.º Sempre que a cadeia do comando o permita, na informação periódica dos oficiais devem intervir vários informadores, os quais se pronunciarão quanto à maneira como o informador antecedente apreciou os seus oficiais, considerados no seu conjunto, caso julguem que a orientação seguida não foi uniforme ou que foi excessivamente benevolente ou rigorosa.
+Art. 205.º Sempre que a cadeia do comando o permita, na informação periódica dos oficiais devem intervir vários informadores, os quais se pronunciarão quanto à maneira como o informador antecedente apreciou os seus oficiais, considerados no seu conjunto, caso julguem que a orientação seguida não foi uniforme ou que foi excessivamente benevolente ou rigorosa.
 
-###### Art. 206.º O superintendente dos Serviços da Armada tomará conhecimento das informações referidas nos artigos anteriores, e, sempre que delas constar qualquer referência digna de reparo, deverá submetê-las à apreciação do chefe do Estado-Maior da Armada, que poderá convocar os oficiais, quer para os louvar, quer para os precaver contra as suas deficiências, sempre no sentido de promover o seu aperfeiçoamento e de os incitar no cumprimento dos seus deveres.
+Art. 206.º O superintendente dos Serviços da Armada tomará conhecimento das informações referidas nos artigos anteriores, e, sempre que delas constar qualquer referência digna de reparo, deverá submetê-las à apreciação do chefe do Estado-Maior da Armada, que poderá convocar os oficiais, quer para os louvar, quer para os precaver contra as suas deficiências, sempre no sentido de promover o seu aperfeiçoamento e de os incitar no cumprimento dos seus deveres.
 
 § único. Independentemente do procedimento indicado neste artigo, o chefe do Estado-Maior da Armada, em face das informações que forem submetidas à sua apreciação, tomará as providências que julgar convenientes, podendo propor o julgamento das oficiais no Conselho Superior de Disciplina da Armada quando tiver dúvidas sobre se o seu comportamento militar e civil e as suas qualidades morais, profissionais ou intelectuais são compatíveis com o desempenho das funções que competem a oficiais do seu posto.
 
-###### Art. 207.º O superintendente dos Serviços da Armada, sempre que verificar qualquer deficiência na maneira como as informações são dadas, chamará para tal circunstância a atenção dos oficiais informadores.
+Art. 207.º O superintendente dos Serviços da Armada, sempre que verificar qualquer deficiência na maneira como as informações são dadas, chamará para tal circunstância a atenção dos oficiais informadores.
 
-###### Art. 208.º As informações periódicas dos oficiais serão formuladas segundo modelo e instruções a aprovar por despacho do Ministro da Marinha.
+Art. 208.º As informações periódicas dos oficiais serão formuladas segundo modelo e instruções a aprovar por despacho do Ministro da Marinha.
 
 § único. Nas instruções a que se refere este artigo atender-se-á à diferente finalidade das informações periódicas, conforme se trate de oficiais do quadro de oficiais do activo ou de oficiais do quadro de oficiais da reserva da Armada com direito a pensão.
 
 #### SECÇÃO III — Carta patente
 
-###### Art. 209.º A Carta patente é o documento de encarte dos oficiais dos quadros permanentes e é equivalente, para todos os efeitos legais, ao diploma de funções públicas estabelecido para os funcionários civis.
+Art. 209.º A Carta patente é o documento de encarte dos oficiais dos quadros permanentes e é equivalente, para todos os efeitos legais, ao diploma de funções públicas estabelecido para os funcionários civis.
 
 § único. As disposições relativas à carta patente, incluindo o modelo e o imposto do selo, são fixadas por diploma próprio.
 
-###### Art. 210.º A carta patente é conferida no acto de acesso ao primeiro posto do quadro de oficiais do activo.
+Art. 210.º A carta patente é conferida no acto de acesso ao primeiro posto do quadro de oficiais do activo.
 
 #### SECÇÃO IV — Livretes
 
-###### Art. 211.º O livrete de saúde, do modelo fixado por despacho do Ministro da Marinha, destina-se ao registo dos elementos referentes à história médica dos oficiais da Armada.
+Art. 211.º O livrete de saúde, do modelo fixado por despacho do Ministro da Marinha, destina-se ao registo dos elementos referentes à história médica dos oficiais da Armada.
 
-###### Art. 212.º Para os oficiais das classes de marinha, dos engenheiros maquinistas navais e de administração naval, o livrete de saúde é-lhes distribuído aquando do seu alistamento, como cadetes, na Escola Naval, sendo iniciado nessa data o respectivo registo. Para os oficiais das classes dos médicos navais e dos farmacêuticos navais, o livrete de saúde é-lhes distribuído na data do seu alistamento como segundos-tenentes. Os oficiais da classe do serviço geral continuam com os seus anteriores livretes, devidamente rectificados pela Superintendência dos Serviços da Armada (Direcção do Serviço de Saúde Naval) na ocasião da sua promoção a subtenente, o mesmo sucedendo aos oficiais da classe do serviço especial provenientes dos sargentos e praças da Armada.
+Art. 212.º Para os oficiais das classes de marinha, dos engenheiros maquinistas navais e de administração naval, o livrete de saúde é-lhes distribuído aquando do seu alistamento, como cadetes, na Escola Naval, sendo iniciado nessa data o respectivo registo. Para os oficiais das classes dos médicos navais e dos farmacêuticos navais, o livrete de saúde é-lhes distribuído na data do seu alistamento como segundos-tenentes. Os oficiais da classe do serviço geral continuam com os seus anteriores livretes, devidamente rectificados pela Superintendência dos Serviços da Armada (Direcção do Serviço de Saúde Naval) na ocasião da sua promoção a subtenente, o mesmo sucedendo aos oficiais da classe do serviço especial provenientes dos sargentos e praças da Armada.
 
 § único. O oficiais que ingressarem nas classes dos engenheiros construtores navais e dos engenheiros de material naval mantêm os livretes de saúde que já possuíam.
 
-###### Art. 213.º Os oficiais das reservas naval e marítima que, nas condições do presente estatuto, ingressem nos quadros permanentes mantêm os livretes de saúde, que serão devidamente rectificados pela Superintendência dos Serviços da Armada (Direcção do Serviço de Saúde Naval).
+Art. 213.º Os oficiais das reservas naval e marítima que, nas condições do presente estatuto, ingressem nos quadros permanentes mantêm os livretes de saúde, que serão devidamente rectificados pela Superintendência dos Serviços da Armada (Direcção do Serviço de Saúde Naval).
 
-###### Art. 214.º Os livretes de saúde acompanham os oficiais, quaisquer que sejam as suas situações, e devem estar sempre escriturados em dia, tarefa que compete ao serviço de saúde da unidade ou serviço onde o oficial se encontre.
+Art. 214.º Os livretes de saúde acompanham os oficiais, quaisquer que sejam as suas situações, e devem estar sempre escriturados em dia, tarefa que compete ao serviço de saúde da unidade ou serviço onde o oficial se encontre.
 
 § único. O livrete de saúde acompanha o oficial quando baixe ao Hospital da Marinha ou ali receba tratamento e precede-o na ida às juntas médicas da Armada.
 
-###### Art. 215.º Por despacho do Ministro da Marinha podem ser criados outros livretes relativos às actividades profissionais e técnicas dos oficiais.
+Art. 215.º Por despacho do Ministro da Marinha podem ser criados outros livretes relativos às actividades profissionais e técnicas dos oficiais.
 
 #### SECÇÃO V — Elementos de identificação
 
-###### Art. 216.º Os oficiais da Armada são identificados pelo respectivo posto, classe e nome.
+Art. 216.º Os oficiais da Armada são identificados pelo respectivo posto, classe e nome.
 
-###### Art. 217.º Os meios de identificação dos oficiais da Armada são:
+Art. 217.º Os meios de identificação dos oficiais da Armada são:
 
 a) Bilhete de identidade;
 
 b) Placa de identificação.
 
-###### Art. 218.º Os oficiais dos quadros de oficiais do activo, da reserva da Armada com direito a pensão e reformados têm um bilhete de identidade que, para todos os efeitos, substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil. Para esse efeito, o bilhete de identidade militar conterá todos os dados essenciais de identificação.
+Art. 218.º Os oficiais dos quadros de oficiais do activo, da reserva da Armada com direito a pensão e reformados têm um bilhete de identidade que, para todos os efeitos, substitui o bilhete de identidade ou qualquer outra forma de identificação estabelecida pela lei civil. Para esse efeito, o bilhete de identidade militar conterá todos os dados essenciais de identificação.
 
 § único. Esta disposição é igualmente extensiva aos cadetes da Escola Naval.
 
-###### Art. 219.º O bilhete de identidade a que se refere o artigo anterior é de uso obrigatório e nele deverá manter-se a actualização do posto do seu possuidor.
+Art. 219.º O bilhete de identidade a que se refere o artigo anterior é de uso obrigatório e nele deverá manter-se a actualização do posto do seu possuidor.
 
-###### Art. 220.º O modelo do bilhete de identidade a que se refere o artigo 218.º é fixado em diploma especial.
+Art. 220.º O modelo do bilhete de identidade a que se refere o artigo 218.º é fixado em diploma especial.
 
-###### Art. 221.º A placa de identificação dos oficiais é de modelo aprovado por diploma especial.
+Art. 221.º A placa de identificação dos oficiais é de modelo aprovado por diploma especial.
 
 #### SECÇÃO VI — Registo de elementos respeitantes à vida militar dos oficiais
 
-###### Art. 222.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) efectuar no livrete de assentamentos dos oficiais o registo de todos os elementos respeitantes à vida militar, ou que à mesma possam interessar, dos oficiais da Armada.
+Art. 222.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) efectuar no livrete de assentamentos dos oficiais o registo de todos os elementos respeitantes à vida militar, ou que à mesma possam interessar, dos oficiais da Armada.
 
-###### Art. 223.º Os averbamentos nos livretes referidos no artigo anterior são feitos por transcrição da Ordem da Armada, da Ordem da Direcção do Serviço do Pessoal ou de documentos arquivados na mesma Direcção, sendo necessário, neste último caso, despacho favorável do superintendente dos Serviços da Armada.
+Art. 223.º Os averbamentos nos livretes referidos no artigo anterior são feitos por transcrição da Ordem da Armada, da Ordem da Direcção do Serviço do Pessoal ou de documentos arquivados na mesma Direcção, sendo necessário, neste último caso, despacho favorável do superintendente dos Serviços da Armada.
 
 § único. O averbamento de circunstâncias e assuntos que não interessam ou não digam respeito pròpriamente à vida militar dos oficiais só será feito a requerimento do interessado ao superintendente dos Serviços da Armada,
 
-###### Art. 224.º As condições em que os louvores dos oficiais são publicados na Ordem da Armada ou na Ordem da Direcção do Serviço do Pessoal são fixadas por despacho do Ministro da Marinha.
+Art. 224.º As condições em que os louvores dos oficiais são publicados na Ordem da Armada ou na Ordem da Direcção do Serviço do Pessoal são fixadas por despacho do Ministro da Marinha.
 
 § 1.º A publicação de louvores na Ordem da Armada só pode ser determinada pelo Ministro da Marinha ou pelo chefe do Estado-Maior da Armada.
 
@@ -1826,25 +2308,25 @@ b) Placa de identificação.
 
 #### SECÇÃO VIII — Outras disposições
 
-###### Art. 225.º Os oficiais dos quadros permanentes, com excepção dos separados do serviço, estão sujeitos as foro militar.
+Art. 225.º Os oficiais dos quadros permanentes, com excepção dos separados do serviço, estão sujeitos as foro militar.
 
-###### Art. 226.º As condições em que os oficiais podem recorrer para o Supremo Tribunal Militar, em matéria de promoção, demoras, proterições, posição na escala de antiguidades e mudanças de situação, são as que figuram no capítulo x do Estatuto dos Oficiais das Forças Armadas.
+Art. 226.º As condições em que os oficiais podem recorrer para o Supremo Tribunal Militar, em matéria de promoção, demoras, proterições, posição na escala de antiguidades e mudanças de situação, são as que figuram no capítulo x do Estatuto dos Oficiais das Forças Armadas.
 
-###### Art. 227.º As pretensões dos oficiais dirigidas a quaisquer entidades que não sejam o seu comandante ou chefe são, depois de devidamente informadas, enviadas, segundo a via hierárquica, à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
+Art. 227.º As pretensões dos oficiais dirigidas a quaisquer entidades que não sejam o seu comandante ou chefe são, depois de devidamente informadas, enviadas, segundo a via hierárquica, à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal).
 
-###### Art. 228.º Os casos em que se deve verificar a promoção a título excepcional, por serviços prestados, dos oficiais que passaram aos quadros de oficiais da reserva da Armada com direito a pensão e dos reformados, por motivo de invalidez, desastre em serviço e doença contraída em serviço ou por motivo do mesmo, bem como a dos oficiais reabilitados em consequência de revisão de processo criminal ou disciplinar, são regulados par legislação especial.
+Art. 228.º Os casos em que se deve verificar a promoção a título excepcional, por serviços prestados, dos oficiais que passaram aos quadros de oficiais da reserva da Armada com direito a pensão e dos reformados, por motivo de invalidez, desastre em serviço e doença contraída em serviço ou por motivo do mesmo, bem como a dos oficiais reabilitados em consequência de revisão de processo criminal ou disciplinar, são regulados par legislação especial.
 
-###### Art. 229.º As condições em que os oficiais fìsicamente diminuídos em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública, ou em outro serviço com aqueles directamente relacionado, podem continuar no quadro de oficiais do activo são reguladas por legislação especial.
+Art. 229.º As condições em que os oficiais fìsicamente diminuídos em consequência de ferimentos ou acidentes produzidos em serviço de campanha ou de manutenção da ordem pública, ou em outro serviço com aqueles directamente relacionado, podem continuar no quadro de oficiais do activo são reguladas por legislação especial.
 
-###### Art. 230.º A situação dos oficiais assistidos pela assistência aos tuberculosos é objecto de disposições especiais.
+Art. 230.º A situação dos oficiais assistidos pela assistência aos tuberculosos é objecto de disposições especiais.
 
-###### Art. 231.º O casamento dos oficiais da Armada só pode realizar-se mediante licença das autoridades da Armada,
+Art. 231.º O casamento dos oficiais da Armada só pode realizar-se mediante licença das autoridades da Armada,
 
 § único. As condições em que será concedida a licença referida neste artigo são estabelecidas em diploma especial.
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### Art. 232.º Enquanto não forem fixados os efectivos dos quadros da classe dos engenheiros de material naval, é criado o ramo de engenheiros de material naval nas classes de marinha e dos engenheiros maquinistas navais.
+Art. 232.º Enquanto não forem fixados os efectivos dos quadros da classe dos engenheiros de material naval, é criado o ramo de engenheiros de material naval nas classes de marinha e dos engenheiros maquinistas navais.
 
 § 1.º O ingresso no ramo a que se refere este artigo é feito em condições idênticas às estabelecidas nesta estatuto para a classe dos engenheiros de material naval. O ingresso tem lugar em qualquer posto sem alteração da antiguidade.
 
@@ -1852,41 +2334,41 @@ b) Placa de identificação.
 
 § 3.º Os oficiais que ingressarem no ramo referido neste artigo transitam obrigatòriamente para a classe dos engenheiros de material naval logo que sejam fixados os quadros desta classe.
 
-###### Art. 233.º Os limites de idade referidos no artigo 81.º deste estatuto entram em vigor em 1 de Janeiro de 1967 quando sejam diferentes dos estabelecidos na legislação em vigor à data da publicação deste diploma.
+Art. 233.º Os limites de idade referidos no artigo 81.º deste estatuto entram em vigor em 1 de Janeiro de 1967 quando sejam diferentes dos estabelecidos na legislação em vigor à data da publicação deste diploma.
 
-###### Art. 234.º Para efeitos da aplicação do disposto no § 1.º do artigo 88.º consideram-se todos os cursos da Escola Naval que não tenham sido objecto de aplicação daquele preceito, mediante indemnização do que for devido à Caixa Geral de Aposentações.
+Art. 234.º Para efeitos da aplicação do disposto no § 1.º do artigo 88.º consideram-se todos os cursos da Escola Naval que não tenham sido objecto de aplicação daquele preceito, mediante indemnização do que for devido à Caixa Geral de Aposentações.
 
-###### Art. 235.º Os oficiais com cursos classificados de aperfeiçoamento na data da publicação deste diploma são considerados como especializados nas respectivas actividades.
+Art. 235.º Os oficiais com cursos classificados de aperfeiçoamento na data da publicação deste diploma são considerados como especializados nas respectivas actividades.
 
-###### Art. 236.º Os oficiais que à data da publicação deste diploma já tenham realizado os tirocínios que constituem condições especiais de promoção ao posto imediato de acordo com a legislação que estava em vigor não são obrigados à realização dos tirocínios para a promoção a esse posto definidos no presente estatuto.
+Art. 236.º Os oficiais que à data da publicação deste diploma já tenham realizado os tirocínios que constituem condições especiais de promoção ao posto imediato de acordo com a legislação que estava em vigor não são obrigados à realização dos tirocínios para a promoção a esse posto definidos no presente estatuto.
 
 § único. Procedimento idêntico ao estabelecido neste artigo pode ser adoptado em relação aos oficiais que à data da publicação deste diploma estejam realizando os referidos tirocínios, mediante despacho do superintendente dos Serviços da Armada.
 
-###### Art. 237.º Até 31 de Dezembro de 1966 não é exigida como condição de promoção a capitão-tenente a frequência do curso geral naval de guerra, mas os primeiros-tenentes que foram promovidos terão de realizar o curso no posto de capitão-tenente, sendo passados à reserva nesse posto os que não lograrem aproveitamento.
+Art. 237.º Até 31 de Dezembro de 1966 não é exigida como condição de promoção a capitão-tenente a frequência do curso geral naval de guerra, mas os primeiros-tenentes que foram promovidos terão de realizar o curso no posto de capitão-tenente, sendo passados à reserva nesse posto os que não lograrem aproveitamento.
 
-###### Art. 238.º Os tirocínios de embarque exigidos como condições especiais de promoção são reduzidos a metade até 31 de Dezembro de 1966.
+Art. 238.º Os tirocínios de embarque exigidos como condições especiais de promoção são reduzidos a metade até 31 de Dezembro de 1966.
 
-###### Art. 239.º Os prazos fixados nos artigos 237.º e 238.º podem ser prorrogados por portaria do Ministro da Marinha, desde que as conveniências do serviço o justifiquem.
+Art. 239.º Os prazos fixados nos artigos 237.º e 238.º podem ser prorrogados por portaria do Ministro da Marinha, desde que as conveniências do serviço o justifiquem.
 
-###### Art. 240.º Os oficiais que satisfaçam às condições especiais de promoção ao abrigo do disposto nos artigos 237.º e 238.º, dentro dos prazos legalmente fixados, são considerados como satisfazendo a essas condições, mesmo no caso de a promoção lhes competir posteriormente ao termo desses prazos.
+Art. 240.º Os oficiais que satisfaçam às condições especiais de promoção ao abrigo do disposto nos artigos 237.º e 238.º, dentro dos prazos legalmente fixados, são considerados como satisfazendo a essas condições, mesmo no caso de a promoção lhes competir posteriormente ao termo desses prazos.
 
-###### Art. 241.º Até 31 de Dezembro de 1966, nas condições especiais de promoção a comodoro e a capitão-tenente da classe dos engenheiros construtores navais, a frequência, com aproveitamento, dos cursos superior e geral naval de guerra é substituída por prestação de provas.
+Art. 241.º Até 31 de Dezembro de 1966, nas condições especiais de promoção a comodoro e a capitão-tenente da classe dos engenheiros construtores navais, a frequência, com aproveitamento, dos cursos superior e geral naval de guerra é substituída por prestação de provas.
 
 § único. As condições reguladoras da prestação destas provas serão estabelecidas por despacho do Ministro da Marinha.
 
-###### Art. 242.º Para os oficiais que ingressem na classe do serviço especial nos primeiros concursos que para esse efeito se realizem poderá o Ministro da Marinha, por despacho, estabelecer nas condições especiais de promoção relativas à mesma classe menores tempos de permanência no posto do que os indicados no mapa n.º 3 deste estatuto.
+Art. 242.º Para os oficiais que ingressem na classe do serviço especial nos primeiros concursos que para esse efeito se realizem poderá o Ministro da Marinha, por despacho, estabelecer nas condições especiais de promoção relativas à mesma classe menores tempos de permanência no posto do que os indicados no mapa n.º 3 deste estatuto.
 
-###### Art. 243,º Enquanto não for regulamentado o disposto no artigo 208.º deste estatuto, continuam a ser adoptados os modelos e normas que estão em vigor sobre as informações dos oficiais.
+Art. 243,º Enquanto não for regulamentado o disposto no artigo 208.º deste estatuto, continuam a ser adoptados os modelos e normas que estão em vigor sobre as informações dos oficiais.
 
-###### Art. 244.º O disposto na secção IV do capítulo VIII sobre livretes de saúde não é aplicável aos oficiais que ingressaram nos quadros de oficiais antes do estabelecimento daqueles livretes.
+Art. 244.º O disposto na secção IV do capítulo VIII sobre livretes de saúde não é aplicável aos oficiais que ingressaram nos quadros de oficiais antes do estabelecimento daqueles livretes.
 
-###### Art. 245.º As condições especiais de promoção que constam do mapa n.º 3 deste estatuto são provisórias e apenas estarão em vigor até que, por portaria do Ministro da Marinha, sejam estabelecidas as definitivas.
+Art. 245.º As condições especiais de promoção que constam do mapa n.º 3 deste estatuto são provisórias e apenas estarão em vigor até que, por portaria do Ministro da Marinha, sejam estabelecidas as definitivas.
 
-###### Art. 246.º Enquanto não for publicada a legislação relativa aos sacerdotes da religião católica referidos no artigo 2.º, continuará a aplicar-se a legislação em vigor à data da publicação deste estatuto.
+Art. 246.º Enquanto não for publicada a legislação relativa aos sacerdotes da religião católica referidos no artigo 2.º, continuará a aplicar-se a legislação em vigor à data da publicação deste estatuto.
 
-###### Art. 247.º As alterações a este estatuto, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Ministro da Marinha.
+Art. 247.º As alterações a este estatuto, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Ministro da Marinha.
 
-###### Art. 248.º Os casos omissos serão resolvidos por despacho do Ministro da Marinha.
+Art. 248.º Os casos omissos serão resolvidos por despacho do Ministro da Marinha.
 
 Ministério da Marinha, 14 de Abril de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
@@ -1896,7 +2378,7 @@ MAPA N.º 1
 
 Limites de idade para a passagem ao quadro de oficiais da reserva da Armada com direito a pensão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 MAPA N.º 2
 
@@ -1904,7 +2386,7 @@ MAPA N.º 2
 
 Percentagem de aumento de tempo de serviço na Armada
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 MAPA N.º 3
 
@@ -1912,6 +2394,6 @@ MAPA N.º 3
 
 Condições especiais de promoção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf))](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/08800/05330560.pdf)
 
 Ministério da Marinha, 14 de Abril de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

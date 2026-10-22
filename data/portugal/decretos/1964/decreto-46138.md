@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/30500/19741976.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,73 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46138-1964-554173
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6786a2d039ab6aaca07d2990b4a946f320f6b936370aeed9d74a5865453b8537
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c97f098d50b082b97332678251bf0e8a5778f7eb1ada6984f9de0f8363ff88d4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Indústria Gráfica
+- Regulamento
+- Regulamento do Exercicio da Indústria de Tipografia
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:155189:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:570133:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659528:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:48Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +129,11 @@ Nestes termos, de harmonia com o disposto na base I da [Lei n.º 2052](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento do Exercício da Indústria de Tipografia, que vai assinado pelo Secretário de Estado da Indústria.
+Artigo 1.º É aprovado o Regulamento do Exercício da Indústria de Tipografia, que vai assinado pelo Secretário de Estado da Indústria.
 
-###### Art. 2.º Fica revogado o [Decreto n.º 44780](https://diariodarepublica.pt/dr/detalhe/decreto/44780-1962-155189), de 7 de Dezembro de 1962.
+Art. 2.º Fica revogado o [Decreto n.º 44780](https://diariodarepublica.pt/dr/detalhe/decreto/44780-1962-155189), de 7 de Dezembro de 1962.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Luís Esteves da Fonseca.
 
@@ -108,11 +141,11 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE TIPOGRAFIA
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O exercício da indústria de tipografia fica sujeito às prescrições do presente regulamento, com observância do disposto no artigo 24.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, no Regulamenta da Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 2 de Setembro de 1922, e nas Portarias n.os 3376, de 16 de Novembro de 1922, e 3657, de 6 de Julho de 1923.
+Artigo 1.º O exercício da indústria de tipografia fica sujeito às prescrições do presente regulamento, com observância do disposto no artigo 24.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, no Regulamenta da Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 2 de Setembro de 1922, e nas Portarias n.os 3376, de 16 de Novembro de 1922, e 3657, de 6 de Julho de 1923.
 
-###### Art. 2.º Para os efeitos do presente regulamento, entende-se por estabelecimento de tipografia aquele onde se proceda, total ou parcialmente, à reprodução de caracteres ou gravuras de materiais rígidos ou semi-rígidos por impressão a tinta, pelo processo tipográfico, sobre qualquer matéria susceptível de a receber.
+Art. 2.º Para os efeitos do presente regulamento, entende-se por estabelecimento de tipografia aquele onde se proceda, total ou parcialmente, à reprodução de caracteres ou gravuras de materiais rígidos ou semi-rígidos por impressão a tinta, pelo processo tipográfico, sobre qualquer matéria susceptível de a receber.
 
-###### Art. 3.º Os requerimentos em que se solicite alvará de licença e os desenhos e plantas que devem acompanhá-los, bem como os requerimentos em que se solicitem ampliações ou substituições, serão apresentados em duplicado. Nos requerimentos será obrigatòriamente discriminado e identificado o equipamento a instalar, com indicação das suas características, e a eles se juntarão, se o equipamento for novo, documentos suficientes para o comprovar e, caso seja usado, a indicação do local onde pode ser examinado pelo Grémio Nacional dos Industriais Gráficos.
+Art. 3.º Os requerimentos em que se solicite alvará de licença e os desenhos e plantas que devem acompanhá-los, bem como os requerimentos em que se solicitem ampliações ou substituições, serão apresentados em duplicado. Nos requerimentos será obrigatòriamente discriminado e identificado o equipamento a instalar, com indicação das suas características, e a eles se juntarão, se o equipamento for novo, documentos suficientes para o comprovar e, caso seja usado, a indicação do local onde pode ser examinado pelo Grémio Nacional dos Industriais Gráficos.
 
 § 1.º Os duplicados referidos neste artigo serão enviados ao Grémio Nacional dos Industriais Gráficos, para que este informe o que julgar conveniente sobre o equipamento de que se trate, designadamente se este corresponde ao estabelecido no presente regulamento. A informação do Grémio, elaborada por um grupo de industriais gráficos designado pelo Grémio com a sanção da Corporação da Imprensa e Artes Gráficas, será prestada dentro dos 60 dias que se seguirem ao do recebimento dos duplicados. A falta de informação dentro deste prazo corresponde ao reconhecimento de que as condições indicadas pelo requerente são satisfatórias. Só será dada resolução ao pedido depois de ter sido prestada a informação do Grémio ou de ter decorrido o prazo fixado.
 
@@ -124,9 +157,9 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE TIPOGRAFIA
 
 #### SECÇÃO I — Condições gerais
 
-###### Art. 4.º Aplica-se a todos os estabelecimentos de tipografia o disposto no Regulamento de Higiene, Salubridade e Segurança nos Estabelecimentos Industriais, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 2 de Setembro de 1922, e no regulamento-tipo de segurança para os estabelecimentos industriais mandado adoptar pela [Portaria n.º 13074](https://diariodarepublica.pt/dr/detalhe/portaria/13074-1950-659528), de 17 de Fevereiro de 1950.
+Art. 4.º Aplica-se a todos os estabelecimentos de tipografia o disposto no Regulamento de Higiene, Salubridade e Segurança nos Estabelecimentos Industriais, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 2 de Setembro de 1922, e no regulamento-tipo de segurança para os estabelecimentos industriais mandado adoptar pela [Portaria n.º 13074](https://diariodarepublica.pt/dr/detalhe/portaria/13074-1950-659528), de 17 de Fevereiro de 1950.
 
-###### Art. 5.º Em cada estabelecimento de tipografia o exercício da indústria será orientado por um técnico responsável, que fará parte do quadro do pessoal, não poderá ter habilitações inferiores às de primeiro-oficial, segundo a classificação dada pelo respectivo sindicato, e deverá possuir a correspondente carteira profissional e estar no pleno gozo dos respectivos direitos.
+Art. 5.º Em cada estabelecimento de tipografia o exercício da indústria será orientado por um técnico responsável, que fará parte do quadro do pessoal, não poderá ter habilitações inferiores às de primeiro-oficial, segundo a classificação dada pelo respectivo sindicato, e deverá possuir a correspondente carteira profissional e estar no pleno gozo dos respectivos direitos.
 
 § único. O técnico responsável poderá ser substituído pelo proprietário, o explorador ou um dos sócios gerentes da sociedade proprietária ou exploradora do estabelecimento, se o Grémio Nacional dos Industriais Gráficos o declarar habilitado com os conhecimentos indispensáveis para bem exercer as respectivas funções.
 
@@ -134,7 +167,7 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE TIPOGRAFIA
 
 ##### SUBSECÇÃO I — Estabelecimentos existentes
 
-###### Art. 6.º Sem prejuízo do estabelecido no artigo 8.º, os estabelecimentos de tipografia existentes à data da publicação deste regulamento poderão funcionar com as secções e o equipamento que possuem, ainda que sejam transferidos de local.
+Art. 6.º Sem prejuízo do estabelecido no artigo 8.º, os estabelecimentos de tipografia existentes à data da publicação deste regulamento poderão funcionar com as secções e o equipamento que possuem, ainda que sejam transferidos de local.
 
 § único. Enquanto um estabelecimento de tipografia existente à data da publicação deste regulamento não possuir todo o equipamento estabelecido como mínimo no § 2.º do artigo 8.º para as tipografias do grupo C, só será autorizada nesse estabelecimento a instalação simultânea ou sucessiva do equipamento necessário para completar aquele mínimo.
 
@@ -142,7 +175,7 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE TIPOGRAFIA
 
 Estabelecimentos novos, reabertos, que sejam objecto de transmissão do direito de propriedade ou de exploração e estabelecimentos resultantes da fusão de estabelecimentos já existentes.
 
-###### Art. 7.º Os novos estabelecimentos de tipografia que não resultarem de fusão em um só de dois ou mais estabelecimentos existentes à data da publicação deste regulamento e os que pretendam reabrir depois de suspensa a laboração por mais de dois anos classificar-se-ão, para os efeitos do presente regulamento e consoante as actividades que se proponham exercer, em:
+Art. 7.º Os novos estabelecimentos de tipografia que não resultarem de fusão em um só de dois ou mais estabelecimentos existentes à data da publicação deste regulamento e os que pretendam reabrir depois de suspensa a laboração por mais de dois anos classificar-se-ão, para os efeitos do presente regulamento e consoante as actividades que se proponham exercer, em:
 
 Tipografias do grupo A, para obra de livro e revista;
 
@@ -170,7 +203,7 @@ c) Secção de corte, com uma guilhotina.
 
 § 3.º Se uma tipografia do grupo B vier a dedicar-se habitualmente a obra de livro e revista deverá equipar a sua secção de composição com uma máquina de compor.
 
-###### Art. 8.º Os estabelecimentos existentes à data da publicação deste regulamento cujo direito de propriedade ou de exploração total ou parcial vier a transmitir-se por qualquer facto que não seja a sucessão por morte, e exceptuada a transmissão a qualquer título entre cônjuges, irmãos ou parentes por consanguinidade em linha recta, serão classificados pela Direcção-Geral dos Serviços Industriais, ouvido o Grémio Nacional dos Industriais Gráficos, para os efeitos do presente regulamento e consoante o equipamento que possuírem e a quantidade e qualidade do trabalho que produzirem, em:
+Art. 8.º Os estabelecimentos existentes à data da publicação deste regulamento cujo direito de propriedade ou de exploração total ou parcial vier a transmitir-se por qualquer facto que não seja a sucessão por morte, e exceptuada a transmissão a qualquer título entre cônjuges, irmãos ou parentes por consanguinidade em linha recta, serão classificados pela Direcção-Geral dos Serviços Industriais, ouvido o Grémio Nacional dos Industriais Gráficos, para os efeitos do presente regulamento e consoante o equipamento que possuírem e a quantidade e qualidade do trabalho que produzirem, em:
 
 Tipografias do grupo C;
 
@@ -200,25 +233,25 @@ c) Secção de corte, com uma guilhotina.
 
 § 4.º Cada estabelecimento será classificado no grupo para o qual é exigido equipamento mínimo mais semelhante àquele que tenha instalado. Em caso de dúvida, serão também tomadas em consideração a quantidade e a qualidade dos trabalhos que produz.
 
-###### Art. 9.º Os novos estabelecimentos de tipografia que resultarem da fusão em um só de dois ou mais estabelecimentos existentes à data da publicação deste regulamento não terão de obedecer aos mínimos estabelecidos no seu artigo 7.º se o equipamento a instalar no novo estabelecimento for todo o que estava instalado nos que se fundem e que, consequentemente, se extinguem.
+Art. 9.º Os novos estabelecimentos de tipografia que resultarem da fusão em um só de dois ou mais estabelecimentos existentes à data da publicação deste regulamento não terão de obedecer aos mínimos estabelecidos no seu artigo 7.º se o equipamento a instalar no novo estabelecimento for todo o que estava instalado nos que se fundem e que, consequentemente, se extinguem.
 
-###### Art. 10.º Para os efeitos dos artigos 7.º e 8.º, entende-se por máquina de impressão de formato grande a de superfície de impressão de 560 mm x 760 mm ou maior e por máquina de impressão de formato pequeno a de superfície de impressão de 260 mm x 380 mm ou menor.
+Art. 10.º Para os efeitos dos artigos 7.º e 8.º, entende-se por máquina de impressão de formato grande a de superfície de impressão de 560 mm x 760 mm ou maior e por máquina de impressão de formato pequeno a de superfície de impressão de 260 mm x 380 mm ou menor.
 
 ### CAPÍTULO III — Fiscalização
 
-###### Art. 11.º A fiscalização do cumprimento das disposições do presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde.
+Art. 11.º A fiscalização do cumprimento das disposições do presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições da Direcção-Geral de Saúde.
 
-###### Art. 12.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como a adopção das providências destinadas a impedir o exercício da indústria tipográfica com inobservância do que no mesmo se prescreve.
+Art. 12.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como a adopção das providências destinadas a impedir o exercício da indústria tipográfica com inobservância do que no mesmo se prescreve.
 
 § único. A Direcção-Geral dos Serviços Industriais ouvirá o Grémio Nacional dos Industriais Gráficos em tudo quanto seja útil para a boa execução deste regulamento.
 
-###### Art. 13.º Quando circunstâncias ponderosas aconselharem o não cumprimento do disposto nos artigos 7.º ou 8.º deste regulamento, poderá o director-geral dos Serviços Industriais, ouvido o Grémio Nacional dos Industriais Gráficos, indicar, para cada caso, as condições em que, sem grave prejuízo da eficiência técnica e das condições de higiene e segurança do estabelecimento, será permitida a exploração.
+Art. 13.º Quando circunstâncias ponderosas aconselharem o não cumprimento do disposto nos artigos 7.º ou 8.º deste regulamento, poderá o director-geral dos Serviços Industriais, ouvido o Grémio Nacional dos Industriais Gráficos, indicar, para cada caso, as condições em que, sem grave prejuízo da eficiência técnica e das condições de higiene e segurança do estabelecimento, será permitida a exploração.
 
-###### Art. 14.º Os estabelecimentos de tipografia que não satisfaçam às prescrições do presente regulamento no prazo fixado para cada caso pela Direcção-Geral dos Serviços Industriais serão impedidos de funcionar, inclusive por imposição de selos.
+Art. 14.º Os estabelecimentos de tipografia que não satisfaçam às prescrições do presente regulamento no prazo fixado para cada caso pela Direcção-Geral dos Serviços Industriais serão impedidos de funcionar, inclusive por imposição de selos.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 15.º Não se aplica o disposto nos artigos 7.º e 8.º:
+Art. 15.º Não se aplica o disposto nos artigos 7.º e 8.º:
 
 1.º Aos estabelecimentos que reúnam simultâneamente os requisitos de terem instaladas uma ou mais máquinas rotativas e nelas imprimirem com permanência um ou mais jornais diários.
 
@@ -226,10 +259,10 @@ c) Secção de corte, com uma guilhotina.
 
 3.º Às secções dos estabelecimentos industriais não tipográficos que executem trabalhos tipográficos destinados exclusivamente a serem incorporados nos produtos do seu fabrico.
 
-###### Art. 16.º Salvo prova em contrário, presumem-se novos, para os efeitos do artigo 7.º, os estabelecimentos existentes cuja laboração não dependa de alvará de licença por não estarem incluídos na tabela I anexa ao [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 2 de Setembro de 1922, se não forem registados nos termos do [Decreto n.º 7989](https://diariodarepublica.pt/dr/detalhe/decreto/7989-1922-570133), de 25 de Janeiro de 1922, no prazo de 90 dias, a contar da data da publicação do presente diploma.
+Art. 16.º Salvo prova em contrário, presumem-se novos, para os efeitos do artigo 7.º, os estabelecimentos existentes cuja laboração não dependa de alvará de licença por não estarem incluídos na tabela I anexa ao [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 2 de Setembro de 1922, se não forem registados nos termos do [Decreto n.º 7989](https://diariodarepublica.pt/dr/detalhe/decreto/7989-1922-570133), de 25 de Janeiro de 1922, no prazo de 90 dias, a contar da data da publicação do presente diploma.
 
-###### Art. 17.º Das decisões do director-geral dos Serviços Industriais caberá recurso para o Secretário de Estado da Indústria, nos termos gerais de direito.
+Art. 17.º Das decisões do director-geral dos Serviços Industriais caberá recurso para o Secretário de Estado da Indústria, nos termos gerais de direito.
 
-###### Art. 18.º Quaisquer casos omissos ou dúvidas que se levantem na execução do presente regulamento serão resolvidos pelo Secretário de Estado da Indústria, ouvidos a Direcção-Geral dos Serviços Industriais e o Grémio Nacional dos Industriais Gráficos.
+Art. 18.º Quaisquer casos omissos ou dúvidas que se levantem na execução do presente regulamento serão resolvidos pelo Secretário de Estado da Indústria, ouvidos a Direcção-Geral dos Serviços Industriais e o Grémio Nacional dos Industriais Gráficos.
 
 Secretaria de Estado da Indústria, 31 de Dezembro de 1964. - O Secretário de Estado da Indústria, José Luís Esteves da Fonseca.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46518-1965-509800
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 673ef0d273f411f412e2a883195e4ba694a7c0e908bbfe953ff12319762d098b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4cead1937a32c63ae9cf98f66a87a51700a963d1a33cd64ed30d367c8ff8e078
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:631631:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:31Z'
   warnings: []
   errors: []
 ---
@@ -114,17 +126,17 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É concedido à Mabor - Manufactura Angolana de Borracha, S. A. R. L., com sede em Luanda, o direito de exclusivo de fabrico de pneus e câmaras-de-ar para veículos automóveis na província de Angola, pelo período de dez anos, a contar do início da sua laboração.
+Artigo 1.º - 1. É concedido à Mabor - Manufactura Angolana de Borracha, S. A. R. L., com sede em Luanda, o direito de exclusivo de fabrico de pneus e câmaras-de-ar para veículos automóveis na província de Angola, pelo período de dez anos, a contar do início da sua laboração.
 
 2. O início da laboração deverá ter lugar dentro do período de dezoito meses, a contar da publicação do presente diploma, salvo motivos excepcionais devidamente justificados e aceitos pelo Ministro do Ultramar.
 
-###### Art. 2.º - 1. Durante os primeiros dez anos de fabrico, é proibida a importação em Angola de pneus e câmaras-de-ar das medidas que vierem a ser fabricadas pela Mabor Angolana, desde que a qualidade dos mesmos não seja inferior à de idênticos artigos produzidos pela indústria nacional e a sua quantidade suficiente para satisfazer as necessidades do consumo local.
+Art. 2.º - 1. Durante os primeiros dez anos de fabrico, é proibida a importação em Angola de pneus e câmaras-de-ar das medidas que vierem a ser fabricadas pela Mabor Angolana, desde que a qualidade dos mesmos não seja inferior à de idênticos artigos produzidos pela indústria nacional e a sua quantidade suficiente para satisfazer as necessidades do consumo local.
 
 2. A proibição referida no corpo do artigo não abrange o contingente de 5 por cento das unidades de igual medida consumidas em Angola no ano anterior àquele a que a abertura do contingente disser respeito.
 
 3. A partir do sétimo ano, o contingente será aumentado para 10, 20 e 30 por cento, respectivamente no oitavo, nono e décimo anos do período de exclusivo, findo o qual cessarão automàticamente todas as restrições à importação de pneus e câmaras-de-ar fabricados pela indústria nacional.
 
-###### Art. 3.º - 1. Durante o período de exclusivo, o Governo da província deverá fiscalizar os preços de venda em Angola das unidades fabricadas pela Mabor Angolana, podendo estabelecer o tabelamento dos mesmos preços, tendo em conta os elementos fornecidos pela empresa.
+Art. 3.º - 1. Durante o período de exclusivo, o Governo da província deverá fiscalizar os preços de venda em Angola das unidades fabricadas pela Mabor Angolana, podendo estabelecer o tabelamento dos mesmos preços, tendo em conta os elementos fornecidos pela empresa.
 
 2. Na fixação dos preços de venda deverá o Governo da província tomar em consideração a qualidade dos produtos, os preços praticados na metrópole, os custos de produção consideradas as diferenças justificadas em relação aos da produção metropolitana, os aumentos verificados na produtividade, a rentabilidade geral da empresa e os benefícios económicos a assegurar aos consumidores.
 
@@ -132,23 +144,23 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Os preços poderão ser ajustados a partir da base acima referida, de harmonia com os mencionados princípios e considerando os aumentos ou diminuições que possam verificar-se no custo das matérias-primas e outros factores que afectem os custos de produção.
 
-###### Art. 4.º - 1. A Mabor Angolana deverá informar o Governo-Geral de Angola, no prazo de 90 dias, a contar da publicação deste diploma, das medidas com que vai iniciar a sua laboração.
+Art. 4.º - 1. A Mabor Angolana deverá informar o Governo-Geral de Angola, no prazo de 90 dias, a contar da publicação deste diploma, das medidas com que vai iniciar a sua laboração.
 
 2. Relativamente às medidas a fabricar em Angola e até à entrada em laboração da respectiva fábrica, não será autorizada a importação de pneus e câmaras-de-ar em quantidades superiores às das necessidades de consumo, as quais serão determinadas em função das importações dos anos anteriores, devendo o Governo-Geral de Angola tomar as providências necessárias para este efeito.
 
 3. A Mabor Angolana informará com a antecedência mínima de um ano o Governo da província da data do início da sua laboração.
 
-###### Art. 5.º Sempre que a Mabor Angolana pretenda introduzir o fabrico de novas medidas de pneus e câmaras-de-ar, deverá comunicá-lo ao Governo da província com uma antecedência mínima de três meses.
+Art. 5.º Sempre que a Mabor Angolana pretenda introduzir o fabrico de novas medidas de pneus e câmaras-de-ar, deverá comunicá-lo ao Governo da província com uma antecedência mínima de três meses.
 
-###### Art. 6.º - 1. O Governo-Geral de Angola, por intermédio da Direcção dos Serviços de Agricultura e Florestas, prestará à Mabor Angolana toda a assistência técnica de que disponha no fomento da cultura da Hevea Brasiliensis ou espécies produtoras de borracha oficialmente aprovadas devendo a Mabor limitar ao indispensável a importação de matérias-primas que possam ser obtidas na província.
+Art. 6.º - 1. O Governo-Geral de Angola, por intermédio da Direcção dos Serviços de Agricultura e Florestas, prestará à Mabor Angolana toda a assistência técnica de que disponha no fomento da cultura da Hevea Brasiliensis ou espécies produtoras de borracha oficialmente aprovadas devendo a Mabor limitar ao indispensável a importação de matérias-primas que possam ser obtidas na província.
 
 2. O Governo da província fixará as áreas que podem ser utilizadas pela Mabor para o fomento da cultura das espécies produtoras de borracha e definirá as demais condições que devem disciplinar essa cultura e a titularidade jurídica dos terrenos onde se venha a fazer.
 
 3. Para os efeitos previstos neste artigo, a empresa fornecerá à Direcção dos Serviços de Agricultura e Florestas os elementos técnicos que lhe forem solicitados, sem prejuízo das inspecções directas que aqueles serviços entendam realizar.
 
-###### Art. 7.º A empresa será obrigada a fabricar, de preferência a quaisquer outros produtos, os artigos da sua especialidade que forem necessários à defesa nacional.
+Art. 7.º A empresa será obrigada a fabricar, de preferência a quaisquer outros produtos, os artigos da sua especialidade que forem necessários à defesa nacional.
 
-###### Art. 8.º - 1. Enquanto durar o período do exclusivo do fabrico, dos lucros líquidos anuais apurados em balanço, depois de deduzidas a percentagem para o fundo de reserva legal e a quantia necessária para atribuir às acções da sociedade Mabor Angolana um primeiro dividendo até 10 por cento, a importância correspondente ao mínimo de 60 por cento do remanescente será destinada a uma reserva especial para novos investimentos.
+Art. 8.º - 1. Enquanto durar o período do exclusivo do fabrico, dos lucros líquidos anuais apurados em balanço, depois de deduzidas a percentagem para o fundo de reserva legal e a quantia necessária para atribuir às acções da sociedade Mabor Angolana um primeiro dividendo até 10 por cento, a importância correspondente ao mínimo de 60 por cento do remanescente será destinada a uma reserva especial para novos investimentos.
 
 2. Sem prejuízo do disposto no n.º 1 deste artigo, a Mabor Angolana não poderá distribuir aos accionistas dividendos superiores a 10 por cento enquanto o seu capital social, em conjunto com a reserva especial prevista neste artigo, não atingir o montante de 200000 contos.
 
@@ -156,13 +168,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. A Mabor Angolana subordinar-se-á às regras gerais sobre contabilidade que vierem a ser estabelecidas em Angola para as empresas concessionárias.
 
-###### Art. 9.º - 1. No prazo de três meses, a contar da publicação deste diploma, a Mabor Angolana depositará na sede do Banco de Angola, e à ordem da província, a quantia de 5 milhões de escudos metropolitanos, destinada a caucionar o início da laboração no prazo referido no n.º 2 do artigo 1.º
+Art. 9.º - 1. No prazo de três meses, a contar da publicação deste diploma, a Mabor Angolana depositará na sede do Banco de Angola, e à ordem da província, a quantia de 5 milhões de escudos metropolitanos, destinada a caucionar o início da laboração no prazo referido no n.º 2 do artigo 1.º
 
 2. O depósito poderá ser substituído por garantia bancária de igual valor prestada perante o Banco de Angola a favor da província.
 
 3. O depósito pode ser levantado ou o título de garantia restituído logo que, perante o Banco de Angola, seja exibido certificado emitido pelo Governo da província comprovando que a Mabor Angolana iniciou a sua laboração.
 
-###### Art. 10.º Os estatutos da Mabor Angolana conterão obrigatòriamente as seguintes regras:
+Art. 10.º Os estatutos da Mabor Angolana conterão obrigatòriamente as seguintes regras:
 
 a) A sociedade terá a sua sede em território nacional;
 
@@ -174,9 +186,9 @@ d) A maioria dos membros do conselho de administração, incluindo o presidente,
 
 e) Em qualquer aumento de capital deverão ser reservados à subscrição pública, em qualquer território nacional, pelo menos 35 por cento das novas acções emitidas. A subscrição será feita por intermédio de instituições de crédito designadas pelo governador-geral de Angola.
 
-###### Art. 11.º Fica revogado o [Decreto n.º 43467](https://diariodarepublica.pt/dr/detalhe/decreto/43467-1961-631631), de 6 de Janeiro de 1961.
+Art. 11.º Fica revogado o [Decreto n.º 43467](https://diariodarepublica.pt/dr/detalhe/decreto/43467-1961-631631), de 6 de Janeiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

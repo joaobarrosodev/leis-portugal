@@ -21,12 +21,12 @@ publication:
   reference: Diário do Governo n.º 22/1966, 1º Suplemento, Série I de 1966-01-27
   number: '22'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 105 - 164
   pdf_url: https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,111 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46847-1966-244930
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1991-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7908567e7f70c1576906e2fe87d2492ec045f07367df405e5c28bac2af047825
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 43d733f0e1bbca21cb10b34efa3ab2cce5cfe041bcd3b7b1cef8fde23a237cd5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Distribuição de Energia Elétrica
+- Energia Elétrica
+- Equipamento Eléctrico
+- Normas de Segurança
+- Regulamento de Segurança de Linhas Eléctricas de ALTA Tensão
+- Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão
 relationships:
 - type: amended_by
   target: pt:dre:640954:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:242189:por
+  label: "Alterados os artigos 4.º, 5.º, 7.º e 8.º do Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica\
+    \ em Baixa Tensão, os quais passam a ter a redacção constante dos artigos 3.º a 6.º do Regulamento de Segurança de Instalações\
+    \ Colectivas de Edifícios e Entradas anexo ao DEC LEI.740/74.26.12.1974.MECO, DG.IS [299]Supl de 26.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/740-1974-242189
+  date: '1974-12-26'
+- type: amended_by
+  target: pt:dre:141784:por
+  label: "Alterados os arts. 178º e 185º, pelo DR.14/77.1977.02.18.MIT, DR.IS [41]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/14-1977-141784
+  date: '1977-02-18'
+- type: amended_by
+  target: pt:dre:400467:por
+  label: "Alterados os artigos 91.º, 127.º, 128.º, 129.º, 130.º, 199.º, 200.º, e aditado o artigo 130.º-A ao Regulamento de\
+    \ Segurança de Linhas Eléctricas de Alta Tensão pelo DR.85/84.1984.10.31.MIE, DR.IS [253]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/85-1984-400467
+  date: '1984-10-31'
+- type: cites
+  target: pt:dre:172974:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195639:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:231686:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:264568:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272436:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:282328:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:396518:por
+  label: "Revogado o Regulamento de Segurança de Redes de Distribuição de Energia Eléctrica em Baixa Tensão, pelo DR.90/84.1984.12.26.MIE,\
+    \ DR.IS [297]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/90-1984-396518
+  date: '1984-12-26'
+- type: repealed_by
+  target: pt:dre:640954:por
+  label: "Revogado pelo DEC LEI.180/91.14.05.1991.MIE, DR.IS-A [110] de 14.05.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/180-1991-640954
+  date: '1991-05-14'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:42Z'
   warnings: []
   errors: []
 ---
@@ -110,17 +181,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O estabelecimento e exploração de linhas eléctricas de alta tensão e de redes de distribuição de energia eléctrica em baixa tensão deverão obedecer às disposições dos regulamentos anexos a este decreto, que dele fazem parte integrante, e baixam assinados pelo Secretário de Estado da Indústria.
+Artigo 1.º O estabelecimento e exploração de linhas eléctricas de alta tensão e de redes de distribuição de energia eléctrica em baixa tensão deverão obedecer às disposições dos regulamentos anexos a este decreto, que dele fazem parte integrante, e baixam assinados pelo Secretário de Estado da Indústria.
 
-###### Art. 2.º Nas instalações eléctricas referidas no artigo anterior que, na data da publicação deste decreto, já possuam licença de estabelecimento ou para as quais já tenha sido requerida a vistoria, se não carecerem de licenciamento prévio, o cumprimento das disposições inovadoras dos novos regulamento só será obrigatório relativamente às obras de ampliação, modificação ou renovação.
+Art. 2.º Nas instalações eléctricas referidas no artigo anterior que, na data da publicação deste decreto, já possuam licença de estabelecimento ou para as quais já tenha sido requerida a vistoria, se não carecerem de licenciamento prévio, o cumprimento das disposições inovadoras dos novos regulamento só será obrigatório relativamente às obras de ampliação, modificação ou renovação.
 
 § único. A fiscalização do Governo terá sempre a faculdade de impor, de acordo com os preceitos dos novos regulamentos, a execução das modificações ou adaptações que se tornarem necessárias para imediata segurança das pessoas ou da exploração.
 
-###### Art. 3.º As despesas que derivarem das modificações a efectuar nos atravessamentos de vias férreas, aéreos ou subterrâneos, por linhas de energia, existentes à data do início dos trabalhos de electrificação de caminhos de ferro, serão de conta das entidades exploradoras das linhas de energia.
+Art. 3.º As despesas que derivarem das modificações a efectuar nos atravessamentos de vias férreas, aéreos ou subterrâneos, por linhas de energia, existentes à data do início dos trabalhos de electrificação de caminhos de ferro, serão de conta das entidades exploradoras das linhas de energia.
 
-###### Art. 4.º Todas as dúvidas que se suscitarem na aplicação dos mencionados regulamentos serão resolvidas pela Direcção-Geral dos Serviços Eléctricos, com recurso para o Secretário de Estado da Indústria.
+Art. 4.º Todas as dúvidas que se suscitarem na aplicação dos mencionados regulamentos serão resolvidas pela Direcção-Geral dos Serviços Eléctricos, com recurso para o Secretário de Estado da Indústria.
 
-###### Art. 5.º Deixam de ter aplicação às instalações a que se referem os regulamentos anexos a este decreto as disposições seguintes:
+Art. 5.º Deixam de ter aplicação às instalações a que se referem os regulamentos anexos a este decreto as disposições seguintes:
 
 a) Regulamento de Segurança para a Montagem de Instalações Eléctricas com Correntes Fortes e Prescrições de Segurança para o Funcionamento de Instalações Eléctricas com Correntes Fortes, aprovados por Decreto de 23 de Junho de 1913, publicado no Diário do Governo do dia imediato;
 
@@ -128,7 +199,7 @@ b) Regulamento de Segurança de Linhas Eléctricas no Domínio de Estradas, Rios
 
 c) [Decreto n.º 40650](https://diariodarepublica.pt/dr/detalhe/decreto/40650-1956-231686), de 21 de Junho de 1956.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Rafael Amaro da Costa
 
@@ -138,13 +209,13 @@ REGULAMENTO DE SEGURANÇA DE LINHAS ELECTRICAS DE ALTA TENSÃO
 
 1.1 - Objectivo
 
-###### Artigo 1.º Objectivo. - O presente regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
+Artigo 1.º Objectivo. - O presente regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
 
 § único. Os comentários - que não constituem obrigação legal - têm por fim esclarecer as condições impostas nos artigos e seus parágrafos, indicar como devem ser verificadas ou recomendar o sentido em que convém melhorá-las.
 
 1.2 - Campo de aplicação
 
-###### Art. 2.º Campo de aplicação. - O regulamentos aplica-se às linhas eléctricas de alta tensão, aéreas ou subterrâneas.
+Art. 2.º Campo de aplicação. - O regulamentos aplica-se às linhas eléctricas de alta tensão, aéreas ou subterrâneas.
 
 § 1.º As linhas de telecomunicação adstritas à exploração das linhas eléctricas de alta tensão e estabelecidas nos mesmos apoios consideram-se abrangidas por este regulamento.
 
@@ -156,7 +227,7 @@ Comentário. - A designação de instalações de tracção eléctrica engloba o
 
 1.3 - Classes
 
-###### Art. 3.º Classes. - Para efeito de aplicação do regulamento, as linhas são classificadas nas três classes seguintes:
+Art. 3.º Classes. - Para efeito de aplicação do regulamento, as linhas são classificadas nas três classes seguintes:
 
 1.ª classe: linhas de tensão nominal igual ou inferior a 1 kV.
 
@@ -166,143 +237,143 @@ Comentário. - A designação de instalações de tracção eléctrica engloba o
 
 1.4 - Definições
 
-###### Art. 4.º Linha de alta tensão ou, simplesmente, linha. - Instalação destinada ao transporte ou distribuição de energia eléctrica e em que o valor eficaz ou constante da tensão, em regime normal de serviço, excede os valores seguintes:
+Art. 4.º Linha de alta tensão ou, simplesmente, linha. - Instalação destinada ao transporte ou distribuição de energia eléctrica e em que o valor eficaz ou constante da tensão, em regime normal de serviço, excede os valores seguintes:
 
 a) 250 V entre algum dos condutores e a terra, se a instalação tiver ponto neutro ou ponto médio à terra;
 
 b) 500 V entre dois condutores, se a instalação não tiver ponto neutro ou ponto médio à terra.
 
-###### Art. 5.º Linha aérea. - Linha em que os condutores são mantidos a uma altura conveniente acima da solo por meio de isoladores e de apoios apropriados.
+Art. 5.º Linha aérea. - Linha em que os condutores são mantidos a uma altura conveniente acima da solo por meio de isoladores e de apoios apropriados.
 
-###### Art. 6.º Linha subterrânea. - Linha constituída por cabos isolados de tipo apropriado enterrados no solo ou instalados em galerias.
+Art. 6.º Linha subterrânea. - Linha constituída por cabos isolados de tipo apropriado enterrados no solo ou instalados em galerias.
 
-###### Art. 7.º Tensão nominal de uma linha. - Tensão pela qual a linha é designada e em relação à qual são referidas as suas características.
+Art. 7.º Tensão nominal de uma linha. - Tensão pela qual a linha é designada e em relação à qual são referidas as suas características.
 
 Comentário. - As tensões nominais normalizadas são as que constam do quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 Nas linhas de transporte ou de grande distribuição os valores da tensão nominal a adoptar são os fixados no artigo 83.º do [Decreto-Lei n.º 43335](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43335-1960-514387), de 19 de Novembro de 1960.
 
-###### Art. 8.º Linha de baixa tensão. - Instalação destinada ao transporte ou distribuição de energia eléctrica e em que o valor eficaz ou constante da tensão, em regime normal de serviço, não excede os valores seguintes:
+Art. 8.º Linha de baixa tensão. - Instalação destinada ao transporte ou distribuição de energia eléctrica e em que o valor eficaz ou constante da tensão, em regime normal de serviço, não excede os valores seguintes:
 
 a) 250 V entre qualquer condutor e a terra, se a instalação tiver ponto neutro ou ponto médio à terra;
 
 b) 500 V entre dois quaisquer condutores, se a instalação não tiver ponto neutro ou ponto médio à terra.
 
-###### Art. 9.º Linha provisória. - Linha destinada a ser utilizada por tempo limitado, no fim do qual é desmontada, removida ou substituída por outra definitiva.
+Art. 9.º Linha provisória. - Linha destinada a ser utilizada por tempo limitado, no fim do qual é desmontada, removida ou substituída por outra definitiva.
 
 Comentário. - São exemplos típicos de linhas provisórias as que se destinam a servir estaleiros de obras e as que se estabelecem, com carácter transitório, pela conveniência ou necessidade de iniciar numa dada oportunidade a exploração de uma actividade ou de manter a continuidade do fornecimento de energia.
 
-###### Art. 10.º Linha de telecomunicação. - Instalação eléctrica destinada exclusivamente à transmissão telegráfica, telefónica ou outras de natureza semelhante.
+Art. 10.º Linha de telecomunicação. - Instalação eléctrica destinada exclusivamente à transmissão telegráfica, telefónica ou outras de natureza semelhante.
 
-###### Art. 11.º Condutor unifilar ou fio. - Condutor constituído por um único fio.
+Art. 11.º Condutor unifilar ou fio. - Condutor constituído por um único fio.
 
-###### Art. 12.º Condutor multifilar. - Condutor constituído por vários fios sem isolamento entre si.
+Art. 12.º Condutor multifilar. - Condutor constituído por vários fios sem isolamento entre si.
 
-###### Art. 13.º Condutor nu. - Condutor que não possui qualquer isolamento exterior.
+Art. 13.º Condutor nu. - Condutor que não possui qualquer isolamento exterior.
 
-###### Art. 14.º Condutor isolado. - Condutor revestido de uma ou várias camadas de isolamento.
+Art. 14.º Condutor isolado. - Condutor revestido de uma ou várias camadas de isolamento.
 
-###### Art. 15.º Cabo nu. - Condutor nu multifilar em que os vários fios constituintes estão enrolados em hélice.
+Art. 15.º Cabo nu. - Condutor nu multifilar em que os vários fios constituintes estão enrolados em hélice.
 
-###### Art. 16.º Cabo isolado. - Condutor isolado com revestimento protector ou conjunto de condutores isolados elèctricamente distintos e com uma envolvente de protecção comum.
+Art. 16.º Cabo isolado. - Condutor isolado com revestimento protector ou conjunto de condutores isolados elèctricamente distintos e com uma envolvente de protecção comum.
 
-###### Art. 17.º Cabo armado. - Cabo isolado dotado de armadura.
+Art. 17.º Cabo armado. - Cabo isolado dotado de armadura.
 
-###### Art. 18.º Cabo de guarda ou cabo de terra. - Cabo nu colocado, em regra, acima dos condutores de uma linha aérea e ligado à terra.
+Art. 18.º Cabo de guarda ou cabo de terra. - Cabo nu colocado, em regra, acima dos condutores de uma linha aérea e ligado à terra.
 
-###### Art. 19.º Secção efectiva de um condutor ou de um cabo de guarda. - Área da secção recta do fio ou soma das áreas das secções rectas dos fios que constituem o condutor ou o cabo de guarda.
+Art. 19.º Secção efectiva de um condutor ou de um cabo de guarda. - Área da secção recta do fio ou soma das áreas das secções rectas dos fios que constituem o condutor ou o cabo de guarda.
 
-###### Art. 20.º Secção nominal de um condutor ou de um cabo de guarda. - Secção efectiva arredondada para efeitos de normalização.
+Art. 20.º Secção nominal de um condutor ou de um cabo de guarda. - Secção efectiva arredondada para efeitos de normalização.
 
-###### Art. 21.º Flecha de um condutor ou de um cabo de guarda. - Distância entre o ponto do condutor ou cabo de guarda onde a tangente é paralela à recta que passa pelos pontos de fixação e a intersecção da vertical desse ponto com esta recta, supostos o condutor ou o cabo de guarda não desviados pelo vento.
+Art. 21.º Flecha de um condutor ou de um cabo de guarda. - Distância entre o ponto do condutor ou cabo de guarda onde a tangente é paralela à recta que passa pelos pontos de fixação e a intersecção da vertical desse ponto com esta recta, supostos o condutor ou o cabo de guarda não desviados pelo vento.
 
-###### Art. 22.º Comprimento de vão. - Distância, medida na horizontal, entre dois apoios consecutivos de uma linha aérea.
+Art. 22.º Comprimento de vão. - Distância, medida na horizontal, entre dois apoios consecutivos de uma linha aérea.
 
-###### Art. 23.º União. - Dispositivo destinado a ligar, mecânica e elèctricamente, dois troços de um condutor ou de um cabo de guarda.
+Art. 23.º União. - Dispositivo destinado a ligar, mecânica e elèctricamente, dois troços de um condutor ou de um cabo de guarda.
 
-###### Art. 24.º Ligador. - Dispositivo que, por meio de parafusos de aperto, se destina a ligar, mecânica e elèctricamente, dois troços de um condutor ou de um cabo de guarda ou a estabelecer uma derivação.
+Art. 24.º Ligador. - Dispositivo que, por meio de parafusos de aperto, se destina a ligar, mecânica e elèctricamente, dois troços de um condutor ou de um cabo de guarda ou a estabelecer uma derivação.
 
-###### Art. 25.º Pinça. - Peça metálica de aperto destinada a fixar um condutor a um isolador ou um cabo de guarda a um apoio.
+Art. 25.º Pinça. - Peça metálica de aperto destinada a fixar um condutor a um isolador ou um cabo de guarda a um apoio.
 
-###### Art. 26.º Fiador. - Fio ou cabo destinado a assegurar uma ligação suplementar, mecânica e eléctrica, entre dois troços de um condutor em vãos contíguos.
+Art. 26.º Fiador. - Fio ou cabo destinado a assegurar uma ligação suplementar, mecânica e eléctrica, entre dois troços de um condutor em vãos contíguos.
 
-###### Art. 27.º Tensão de rotura de um condutor ou de um cabo de guarda. - Tensão mínima de rotura estipulada para efeitos de recepção.
+Art. 27.º Tensão de rotura de um condutor ou de um cabo de guarda. - Tensão mínima de rotura estipulada para efeitos de recepção.
 
 Comentário. - Este valor da tensão corresponde normalmente ao garantido pelo fabricante.
 
-###### Art. 28.º Tensão máxima de tracção. - Maior tensão de tracção que pode existir no condutor ou no cabo de guarda, na hipótese de cálculo mais desfavorável, e que se verifica no ponto de fixação de cota mais elevada.
+Art. 28.º Tensão máxima de tracção. - Maior tensão de tracção que pode existir no condutor ou no cabo de guarda, na hipótese de cálculo mais desfavorável, e que se verifica no ponto de fixação de cota mais elevada.
 
-###### Art. 29.º Tracção máxima de um condutor ou de um cabo de guarda. - Produto da secção efectiva do condutor ou do cabo de guarda pela sua tensão máxima de tracção.
+Art. 29.º Tracção máxima de um condutor ou de um cabo de guarda. - Produto da secção efectiva do condutor ou do cabo de guarda pela sua tensão máxima de tracção.
 
-###### Art. 30.º Tensão de colocação. - Tensão de tracção dada aos condutores ou aos cabos de guarda de uma linha aérea na ocasião da sua montagem.
+Art. 30.º Tensão de colocação. - Tensão de tracção dada aos condutores ou aos cabos de guarda de uma linha aérea na ocasião da sua montagem.
 
-###### Art. 31.º Isolador rígido. - Isolador fixado rìgidamente ao apoio.
+Art. 31.º Isolador rígido. - Isolador fixado rìgidamente ao apoio.
 
-###### Art. 32.º Isolador de cadeia. - Isolador concebido para ser fixado por um dispositivo articulado.
+Art. 32.º Isolador de cadeia. - Isolador concebido para ser fixado por um dispositivo articulado.
 
-###### Art. 33.º Cadeia de isoladores. - Conjunto de isoladores de cadeia ligados uns aos outros.
+Art. 33.º Cadeia de isoladores. - Conjunto de isoladores de cadeia ligados uns aos outros.
 
-###### Art. 34.º Anel (de guarda). - Anel metálico colocado num ou noutro extremo, ou em ambos, de uma cadeia de isoladores para assegurar uma protecção contra os arcos de descarga eléctrica e uma melhor repartição do potencial pelos elementos da cadeia.
+Art. 34.º Anel (de guarda). - Anel metálico colocado num ou noutro extremo, ou em ambos, de uma cadeia de isoladores para assegurar uma protecção contra os arcos de descarga eléctrica e uma melhor repartição do potencial pelos elementos da cadeia.
 
-###### Art. 35.º Haste (de descarga). - Peça metálica disposta num ou noutro extremo, ou em ambos, de um isolador ou de uma cadeia de isoladores para assegurar uma protecção contra os arcos de descarga eléctrica.
+Art. 35.º Haste (de descarga). - Peça metálica disposta num ou noutro extremo, ou em ambos, de um isolador ou de uma cadeia de isoladores para assegurar uma protecção contra os arcos de descarga eléctrica.
 
-###### Art. 36.º Apoio. - Elemento de uma linha aérea destinado a suportar os condutores, cabos de guarda e isoladores.
+Art. 36.º Apoio. - Elemento de uma linha aérea destinado a suportar os condutores, cabos de guarda e isoladores.
 
-###### Art. 37.º Apoio de alinhamento. - Apoio situado num troço rectilíneo da linha.
+Art. 37.º Apoio de alinhamento. - Apoio situado num troço rectilíneo da linha.
 
-###### Art. 38.º Apoio de ângulo. - Apoio situado num ângulo da linha.
+Art. 38.º Apoio de ângulo. - Apoio situado num ângulo da linha.
 
-###### Art. 39.º Apoio de derivação. - Apoio de uma linha onde se estabelecem uma ou mais derivações.
+Art. 39.º Apoio de derivação. - Apoio de uma linha onde se estabelecem uma ou mais derivações.
 
-###### Art. 40.º Apoio de reforço. - Apoio destinado a suportar esforços longitudinais para reduzir as consequências resultantes da rotura de condutores ou de cabos de guarda.
+Art. 40.º Apoio de reforço. - Apoio destinado a suportar esforços longitudinais para reduzir as consequências resultantes da rotura de condutores ou de cabos de guarda.
 
-###### Art. 41.º Apoio de travessia ou de cruzamento. - Apoio que limita um vão de travessia ou de cruzamento.
+Art. 41.º Apoio de travessia ou de cruzamento. - Apoio que limita um vão de travessia ou de cruzamento.
 
-###### Art. 42.º Apoio de fim de linha. - Apoio destinado a suportar a totalidade dos esforços que os condutores e os cabos de guarda lhe transmitem de um só lado da linha.
+Art. 42.º Apoio de fim de linha. - Apoio destinado a suportar a totalidade dos esforços que os condutores e os cabos de guarda lhe transmitem de um só lado da linha.
 
-###### Art. 43.º Travessia. - Há travessia quando os traçados das linhas interceptam os de vias públicas ou particulares.
+Art. 43.º Travessia. - Há travessia quando os traçados das linhas interceptam os de vias públicas ou particulares.
 
-###### Art. 44.º Cruzamento. - Há cruzamento quando a projecção horizontal de uma linha intercepta a de outra linha, de energia ou de telecomunicação.
+Art. 44.º Cruzamento. - Há cruzamento quando a projecção horizontal de uma linha intercepta a de outra linha, de energia ou de telecomunicação.
 
-###### Art. 45.º Vizinhança. - Há vizinhança:
+Art. 45.º Vizinhança. - Há vizinhança:
 
 a) De uma linha aérea com outra linha aérea, de energia ou de telecomunicação, ou com uma via pública ou particular, quando a primeira se situa, sem cruzamento ou travessia, de modo que qualquer dos seus elementos, por rotura ou queda, cedência ou derrubamento, as possa atingir;
 
 b) De uma linha subterrânea com outra linha subterrânea, de energia ou de telecomunicação, ou com qualquer canalização também subterrânea, quando, pela proximidade, mas sem cruzamento no caso de linhas eléctricas, possa perigar a segurança de qualquer delas.
 
-###### Art. 46.º Aproximação. - Há aproximação de uma linha com uma linha de telecomunicação quando os efeitos electromagnéticos provocados pela linha de energia sobre a linha de telecomunicação têm importância suficiente para criar nesta, ou por seu intermédio, situações de perigo ou de perturbação.
+Art. 46.º Aproximação. - Há aproximação de uma linha com uma linha de telecomunicação quando os efeitos electromagnéticos provocados pela linha de energia sobre a linha de telecomunicação têm importância suficiente para criar nesta, ou por seu intermédio, situações de perigo ou de perturbação.
 
-###### Art. 47.º Paralelismo. - Há paralelismo de uma linha com uma linha de telecomunicação, num troço de aproximação, quando a variação do afastamento entre elas, nesse troço, não exceder 5 por cento da média dos valores extremos desse afastamento.
+Art. 47.º Paralelismo. - Há paralelismo de uma linha com uma linha de telecomunicação, num troço de aproximação, quando a variação do afastamento entre elas, nesse troço, não exceder 5 por cento da média dos valores extremos desse afastamento.
 
-###### Art. 48.º Zona da estrada. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior das valetas, passeios ou banquetas.
+Art. 48.º Zona da estrada. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior das valetas, passeios ou banquetas.
 
 Comentário. - A definição de zona da estrada é a que consta do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949.
 
-###### Art. 49.º Zona do caminho de ferro. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior dos fossos ou valetas, ou, na falta destas referências, pela linha traçada a 1,50 m da aresta exterior dos carris externos da via férrea.
+Art. 49.º Zona do caminho de ferro. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior dos fossos ou valetas, ou, na falta destas referências, pela linha traçada a 1,50 m da aresta exterior dos carris externos da via férrea.
 
 Comentário. - A definição de zona do caminho de ferro está de acordo com o prescrito no [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954.
 
-###### Art. 50.º Faixa de protecção de uma linha. - Faixa ao longo da linha onde não é permitido o crescimento de arvoredo que possa prejudicar a sua exploração.
+Art. 50.º Faixa de protecção de uma linha. - Faixa ao longo da linha onde não é permitido o crescimento de arvoredo que possa prejudicar a sua exploração.
 
-###### Art. 51.º Terra. - Massa condutora da Terra.
+Art. 51.º Terra. - Massa condutora da Terra.
 
-###### Art. 52.º Ligação à terra. - Ligação permanente com a terra, realizada por condutores de terra e eléctrodos de terra.
+Art. 52.º Ligação à terra. - Ligação permanente com a terra, realizada por condutores de terra e eléctrodos de terra.
 
-###### Art. 53.º Condutor de terra. - Condutor destinado a ligar um elemento de uma linha ou um aparelho nela intercalado com o eléctrodo de terra.
+Art. 53.º Condutor de terra. - Condutor destinado a ligar um elemento de uma linha ou um aparelho nela intercalado com o eléctrodo de terra.
 
-###### Art. 54.º Eléctrodo de terra. - Condutor ou conjunto de condutores enterrados destinados a estabelecer bom contacto com a terra.
+Art. 54.º Eléctrodo de terra. - Condutor ou conjunto de condutores enterrados destinados a estabelecer bom contacto com a terra.
 
-###### Art. 55.º Circuito de terra. - Conjunto dos condutores de terra e respectivo eléctrodo de terra.
+Art. 55.º Circuito de terra. - Conjunto dos condutores de terra e respectivo eléctrodo de terra.
 
-###### Art. 56.º Resistência de terra. - Resistência eléctrica entre o eléctrodo de terra e a terra.
+Art. 56.º Resistência de terra. - Resistência eléctrica entre o eléctrodo de terra e a terra.
 
 Comentários. - 1. A resistência de terra de um eléctrodo de terra X, que é constituída, pràticamente, pela resistência de contacto e pela das camadas de terreno que ficam na proximidade do eléctrodo e nas quais a existência de uma densidade de corrente elevada provoca quedas de tensão sensíveis, poderá medir-se (fig. 1) fazendo circular entre X e um eléctrodo de terra auxiliar A (eléctrodo auxiliar de corrente) uma corrente IXA e medindo a tensão VXB entre X e outro eléctrodo auxiliar B (eléctrodo auxiliar de tensão).
 
 Fig. 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 O quociente VXB/IXA, quando os eléctrodos estiverem suficientemente afastados uns dos outros, toma um valor limite que é a resistência de terra do eléctrodo X.
 
@@ -312,7 +383,7 @@ O quociente VXB/IXA, quando os eléctrodos estiverem suficientemente afastados u
 
 4. A medição é geralmente feita por intermédio de aparelhos de leitura directa baseados no princípio exposto.
 
-###### Art. 57.º Zona de influência de uma terra. - Área dentro da qual o potencial do solo sofre uma variação superior a 5 por cento da que experimenta o eléctrodo de terra respectivo, quando percorrido por uma corrente eléctrica.
+Art. 57.º Zona de influência de uma terra. - Área dentro da qual o potencial do solo sofre uma variação superior a 5 por cento da que experimenta o eléctrodo de terra respectivo, quando percorrido por uma corrente eléctrica.
 
 Comentário. - Num solo homogéneo pode dizer-se que o potencial varia sensìvelmente na razão inversa da distância ao eléctrodo de terra e na razão directa das dimensões lineares deste; no caso concreto de um eléctrodo hemisférico, como X da fig. 1, é v = V(índice o) x (r/l). Portanto,
 
@@ -320,7 +391,7 @@ os eléctrodos extensos (redes de cabos, eléctrodos de grandes subestações, e
 
 1.5 - Disposições gerais
 
-###### Art. 58.º Condições gerais de estabelecimento das linhas. - As linhas serão estabelecidas de modo a eliminar todo o perigo previsível para as pessoas e a acautelar de danos os bens materiais, não devendo perturbar a livre e regular circulação nas vias públicas ou particulares, nem afectar a segurança do caminho de ferro, prejudicar outras linhas de energia ou de telecomunicação, ou causar danos às canalizações de água, gás ou outras.
+Art. 58.º Condições gerais de estabelecimento das linhas. - As linhas serão estabelecidas de modo a eliminar todo o perigo previsível para as pessoas e a acautelar de danos os bens materiais, não devendo perturbar a livre e regular circulação nas vias públicas ou particulares, nem afectar a segurança do caminho de ferro, prejudicar outras linhas de energia ou de telecomunicação, ou causar danos às canalizações de água, gás ou outras.
 
 Comentários. - 1. No estabelecimento das linhas deve escolher-se o traçado mais conveniente e evitar-se, tanto quanto possível, vãos adjacentes com comprimentos muito diferentes e ângulos pronunciados.
 
@@ -328,11 +399,11 @@ Comentários. - 1. No estabelecimento das linhas deve escolher-se o traçado mai
 
 3. Recomenda-se que as travessias e os cruzamento sejam executados, tanto quanto possível, segundo a normal sempre que, para o conseguir, não seja necessário criar ângulos ou desvios onerosos no traçado da linha.
 
-###### Art. 59.º Respeito de outros direitos. - No estabelecimento e exploração das linhas deverá respeitar-se, na medida do possível, a estética dos edifícios, em especial quando tiverem valor histórico ou arquitectónico, e causar-lhes, bem como aos terrenos e outras propriedades afectadas, o menor dano, procurando reduzir ao mínimo as perturbações nos diversos serviços, tanto de interesse público como particular.
+Art. 59.º Respeito de outros direitos. - No estabelecimento e exploração das linhas deverá respeitar-se, na medida do possível, a estética dos edifícios, em especial quando tiverem valor histórico ou arquitectónico, e causar-lhes, bem como aos terrenos e outras propriedades afectadas, o menor dano, procurando reduzir ao mínimo as perturbações nos diversos serviços, tanto de interesse público como particular.
 
-###### Art. 60.º Acordos com outras entidades. - Quando a realização de quaisquer trabalhos possa pôr em risco a segurança do pessoal que os executa devido à proximidade de instalações eléctricas, ou pôr em perigo ou causar perturbações a essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
+Art. 60.º Acordos com outras entidades. - Quando a realização de quaisquer trabalhos possa pôr em risco a segurança do pessoal que os executa devido à proximidade de instalações eléctricas, ou pôr em perigo ou causar perturbações a essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
 
-###### Art. 61.º Materiais. - Os condutores, isoladores, apoios e outros elementos das linhas, assim como os materiais que os constituem, deverão obedecer às prescrições deste regulamento e ainda às normas e especificações nacionais, ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
+Art. 61.º Materiais. - Os condutores, isoladores, apoios e outros elementos das linhas, assim como os materiais que os constituem, deverão obedecer às prescrições deste regulamento e ainda às normas e especificações nacionais, ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
 
 § 1.º Sob autorização prévia da fiscalização do Governo poderão empregar-se elementos e materiais que não satisfaçam ao disposto no corpo do artigo.
 
@@ -340,7 +411,7 @@ Comentários. - 1. No estabelecimento das linhas deve escolher-se o traçado mai
 
 2 - Acção dos agentes atmosféricos
 
-###### Art. 62.º Acção do vento. - No cálculo das linhas aéreas, o vento deverá considerar-se actuando numa direcção horizontal e a força proveniente da acção do vento considerar-se-á paralela a este e será determinada pela expressão
+Art. 62.º Acção do vento. - No cálculo das linhas aéreas, o vento deverá considerar-se actuando numa direcção horizontal e a força proveniente da acção do vento considerar-se-á paralela a este e será determinada pela expressão
 
 F = (alfa) cqS
 
@@ -360,15 +431,15 @@ S a área da superfície batida pelo vento, em metros quadrados (m2).
 
 Comentário. - O coeficiente de redução traduz, em cada caso, a variação da velocidade de actuação do vento ao longo de uma frente extensa e o coeficiente de forma a influência da geometria do elemento considerado e da direcção do vento.
 
-###### Art. 63.º Acção do vento sobre os condutores e cabos de guarda. - Nas disposições deste regulamento em que não se especifique expressamente qual a direcção horizontal do vento, deverá esta ser considerada normal aos condutores e cabos de guarda.
+Art. 63.º Acção do vento sobre os condutores e cabos de guarda. - Nas disposições deste regulamento em que não se especifique expressamente qual a direcção horizontal do vento, deverá esta ser considerada normal aos condutores e cabos de guarda.
 
 § único. A força do vento sobre os condutores e cabos de guarda, no caso de se considerar o vento actuando não normalmente a estes, será a definida no artigo anterior multiplicada pelo quadrado do seno do ângulo que a direcção do vento faz com os condutores e cabos de guarda.
 
-###### Art. 64.º Vento máximo habitual. Vento reduzido. - O vento a considerar no cálculo das linhas será o vento máximo habitual, excepto no cálculo mecânico dos condutores e cabos de guarda, na hipótese de temperatura mínima, em que deverá ser considerado o vento reduzido.
+Art. 64.º Vento máximo habitual. Vento reduzido. - O vento a considerar no cálculo das linhas será o vento máximo habitual, excepto no cálculo mecânico dos condutores e cabos de guarda, na hipótese de temperatura mínima, em que deverá ser considerado o vento reduzido.
 
-###### Art. 65.º Pressão dinâmica do vento. - Os valores da pressão dinâmica do vento, em função da altura acima do solo a que se encontra o elemento da linha sobre o qual se pretende calcular a acção do vento, serão, para os três escalões de altura que se consideram, os indicados no quadro seguinte:
+Art. 65.º Pressão dinâmica do vento. - Os valores da pressão dinâmica do vento, em função da altura acima do solo a que se encontra o elemento da linha sobre o qual se pretende calcular a acção do vento, serão, para os três escalões de altura que se consideram, os indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 § único. Para os condutores e cabos de guarda a altura a considerar será a dos seus pontos de fixação.
 
@@ -380,35 +451,35 @@ q = (v(elevado a 2)/16)
 
 em que v é a velocidade do vento, em metros por segundo (m/s), considerando para os escalões de altura acima do solo, respectivamente, as velocidades (v) de 34,6, 37,9 e 41,0 para o vento máximo habitual, e metade destes valores, para o vento reduzido.
 
-###### Art. 66.º Coeficiente de redução. - Os valores do coeficiente de redução serão os seguintes:
+Art. 66.º Coeficiente de redução. - Os valores do coeficiente de redução serão os seguintes:
 
 a) Para efeito de cálculo das tracções dos condutores e cabos de guarda:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 b) Para efeito de cálculo de estruturas e isoladores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
-###### Art. 67.º Coeficiente de forma. - Os valores do coeficiente de forma serão os seguintes:
+Art. 67.º Coeficiente de forma. - Os valores do coeficiente de forma serão os seguintes:
 
 a) Para condutores, cabos de guarda e isoladores:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 b) Para apoios e travessas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 Comentário. - Não se incluem, na alínea a), coeficientes de forma relativos a feixes de condutores por se considerar que, nos casos correntes, não se justifica a alteração dos coeficientes de forma estabelecidos para condutores simples.
 
-###### Art. 68.º Acção do gelo. - A manga de gelo a considerar no cálculo dos condutores e cabos de guarda das linhas aéreas deverá ter uma espessura uniforme de 10 mm e a sua densidade será de 0,9.
+Art. 68.º Acção do gelo. - A manga de gelo a considerar no cálculo dos condutores e cabos de guarda das linhas aéreas deverá ter uma espessura uniforme de 10 mm e a sua densidade será de 0,9.
 
 3 - Condutores e cabos de guarda para linhas aéreas
 
 3.1 - Natureza e materiais dos condutores
 
-###### Art. 69.º Materiais dos condutores. - Os condutores serão de cobre, alumínio, ou suas ligas, ou outros materiais que possuam características eléctricas e mecânicas adequadas e resistência às acções da intempérie.
+Art. 69.º Materiais dos condutores. - Os condutores serão de cobre, alumínio, ou suas ligas, ou outros materiais que possuam características eléctricas e mecânicas adequadas e resistência às acções da intempérie.
 
 § único. Os condutores de aço não inoxidável deverão ser protegidos contra a corrosão.
 
@@ -420,7 +491,7 @@ Comentários. - 1. No quadro I, anexo, indicam-se as características dos condut
 
 4. Em locais onde se produzam frequentemente emanações corrosivas, como, por exemplo, na proximidade de chaminés e de fábricas de produtos químicos, a zincagem não é protecção duradoura contra a corrosão. Nestas instalações recomenda-se, portanto, empregar condutores de material resistente à corrosão ou adoptar, em substituição do revestimento de zinco, outro mais resistente aos agentes químicos.
 
-###### Art. 70.º Natureza dos condutores. - Os condutores a empregar nas linhas aéreas deverão, em regra, ser nus.
+Art. 70.º Natureza dos condutores. - Os condutores a empregar nas linhas aéreas deverão, em regra, ser nus.
 
 § único. Poderão ser empregados condutores isolados, com constituição que garanta boa resistência às acções da intempérie, com a autorização prévia da fiscalização do Governo.
 
@@ -428,13 +499,13 @@ Comentário. - A experiência tem demonstrado que os condutores isolados, mesmo 
 
 No entanto, no estabelecimento de troços de linhas ou de linhas em zonas urbanizadas ou quando outras circunstâncias o aconselhem, podem utilizar-se cabos isolados suspensos de cabos tensores de aço, incorporados ou não naqueles.
 
-###### Art. 71.º Emprego dos condutores nus segundo a sua constituição. - Os condutores nus de cobre ou de bronze com secção nominal superior a 16 mm2, os de alumínio ou de suas ligas e os de aço deverão ser empregados sob a forma de cabo.
+Art. 71.º Emprego dos condutores nus segundo a sua constituição. - Os condutores nus de cobre ou de bronze com secção nominal superior a 16 mm2, os de alumínio ou de suas ligas e os de aço deverão ser empregados sob a forma de cabo.
 
 § único. Os condutores nus de cobre ou de bronze de secção nominal igual ou inferior a 16 mm2 poderão ser empregados sob a forma de fio em linhas com vãos de comprimento não superior a 100 m.
 
 3.2 - Aquecimento dos condutores
 
-###### Art. 72.º Aquecimento dos condutores. - Na determinação da secção dos condutores das linhas deverá atender-se ao aquecimento de modo que não resulte exagerado para os materiais que os constituem.
+Art. 72.º Aquecimento dos condutores. - Na determinação da secção dos condutores das linhas deverá atender-se ao aquecimento de modo que não resulte exagerado para os materiais que os constituem.
 
 § único. Enquanto não existirem normas e especificações nacionais sobre condutores, as intensidades máximas de corrente admissíveis em regime permanente serão as aceites pela fiscalização do Governo.
 
@@ -444,7 +515,7 @@ Não se indicam valores para as intensidades máximas de corrente admissíveis e
 
 3.3 - Resistência mecânica
 
-###### Art. 73.º Hipóteses de cálculo. - Os condutores deverão ser calculados para a mais desfavorável das hipóteses seguintes:
+Art. 73.º Hipóteses de cálculo. - Os condutores deverão ser calculados para a mais desfavorável das hipóteses seguintes:
 
 a) Fora de zonas de gelo:
 
@@ -464,11 +535,11 @@ Comentários. - 1. Recomenda-se considerar como zonas de gelo as regiões de alt
 
 3. As zonas de gelo foram definidas tendo em atenção que o aparecimento de gelo sobre os condutores está relacionado não só com as temperaturas mínimas verificadas na região, mas também com a altitude desta, tendo a experiência demonstrado que para altitudes abaixo de 700m não é de considerar a formação de gelo sobre os condutores.
 
-###### Art. 74.º Flecha máxima. Flecha mínima. - A flecha máxima dos condutores deverá ser determinada para a temperatura de +50ºC sem sobrecarga de vento e a flecha mínima para a temperatura de -5ºC sem sobrecarga de vento e de gelo.
+Art. 74.º Flecha máxima. Flecha mínima. - A flecha máxima dos condutores deverá ser determinada para a temperatura de +50ºC sem sobrecarga de vento e a flecha mínima para a temperatura de -5ºC sem sobrecarga de vento e de gelo.
 
 § único. Em zonas de gelo, a flecha mínima dos condutores deverá ser determinada para a temperatura de -10ºC sem sobrecarga de vento e de gelo.
 
-###### Art. 75.º Secções mínimas. - Os condutores não terão secções nominais inferiores às seguintes:
+Art. 75.º Secções mínimas. - Os condutores não terão secções nominais inferiores às seguintes:
 
 Para cobre e bronze, 10 mm2;
 
@@ -482,7 +553,7 @@ Para alumínio-aço, 15 mm2.
 
 § único. A secção dos condutores de outros materiais ou ligas não poderá ser inferior à que assegure resistência mecânica equivalente à dos condutores de cobre com a secção mínima indicada no corpo do artigo.
 
-###### Art. 76.º Tensões máximas de tracção. - As tensões máximas de tracção admissíveis para os condutores não deverão ser superiores, para a hipótese de cálculo mais desfavorável, ao quociente das suas tensões de rotura por 3 e 2,5, para fios e cabos, respectivamente.
+Art. 76.º Tensões máximas de tracção. - As tensões máximas de tracção admissíveis para os condutores não deverão ser superiores, para a hipótese de cálculo mais desfavorável, ao quociente das suas tensões de rotura por 3 e 2,5, para fios e cabos, respectivamente.
 
 Comentários. - 1. A tensão de tracção dos condutores nos pontos de fixação aos apoios e, em especial, no situado a cota mais elevada, quando eles não estão ao mesmo nível, é superior à sua tensão de tracção no ponto mais baixo da curva de equilíbrio. A tensão máxima de atracção a que se refere este artigo será portanto a maior das tensões a que fica sujeito o condutor nos pontos de fixarão aos apoios.
 
@@ -508,15 +579,15 @@ Cabo do alumínio-aço corrente, 11 a 12 kgf/mm2;
 
 Cabo de aço corrente, 30 kgf/mm2.
 
-###### Art. 77.º Vibrações. - Em regiões onde sejam de prever vibrações perigosas nos condutores provocadas pelo vento deverão ser tomadas providências adequadas.
+Art. 77.º Vibrações. - Em regiões onde sejam de prever vibrações perigosas nos condutores provocadas pelo vento deverão ser tomadas providências adequadas.
 
 Comentário. - A experiência tem mostrado que os condutores, devido à acção do vento, podem ficar sujeitos a vibrações perigosas. Esse perigo, que consiste no aparecimento de esforços alternados susceptíveis de provocar a rotura dos condutores junto das suas fixações, pode ser atenuado ou até eliminado por meio de antivibradores convenientemente instalados.
 
 3.4 - Protecção contra contactos acidentais
 
-###### Art. 78.º Inacessibilidade dos condutores. - Os condutores serão estabelecidos de forma a não serem atingíveis, sem meios especiais, de quaisquer lugares acessíveis a pessoas.
+Art. 78.º Inacessibilidade dos condutores. - Os condutores serão estabelecidos de forma a não serem atingíveis, sem meios especiais, de quaisquer lugares acessíveis a pessoas.
 
-###### Art. 79.º Distância dos condutores aos edifícios. - Na proximidade de edifícios, com excepção dos exclusivamente adstritos ao serviço de exploração de instalações eléctricas, as linhas serão estabelecidas por forma a observar-se, nas condições de flecha máxima, o seguinte:
+Art. 79.º Distância dos condutores aos edifícios. - Na proximidade de edifícios, com excepção dos exclusivamente adstritos ao serviço de exploração de instalações eléctricas, as linhas serão estabelecidas por forma a observar-se, nas condições de flecha máxima, o seguinte:
 
 a) Os condutores, desviados ou não pelo vento, distarão das coberturas e chaminés, pelo menos:
 
@@ -530,13 +601,13 @@ b) Os troços de condutores que se situem ao lado dos edifícios a um nível igu
 
 § único. O disposto na alínea b) do corpo do artigo não será aplicável ao último vão de linhas de 2.ª classe que alimentem postos de transformação situados na proximidade de edifícios ou incorporados nestes, desde que, nesse vão, os condutores façam com as paredes mais próximas ângulos não inferiores a 60º, devendo, porém, manter-se entre os condutores, nas condições de flecha máxima e simultâneamente desviados pelo vento, e as janelas, varandas e terraços a distância horizontal mínima de 5 m.
 
-###### Art. 80.º Distância dos condutores ao solo. - A distância mínima dos condutores, nas condições de flecha máxima e desviados ou não pelo vento, ao solo, com excepção dos casos especiais expressamente previstos neste regulamento, deverá ser:
+Art. 80.º Distância dos condutores ao solo. - A distância mínima dos condutores, nas condições de flecha máxima e desviados ou não pelo vento, ao solo, com excepção dos casos especiais expressamente previstos neste regulamento, deverá ser:
 
 Para linhas de tensão nominal igual ou inferior a 60 kV, 6 m;
 
 Para linhas de tensão nominal superior a 60 kV, 7 m.
 
-###### Art. 81.º Distância dos condutores às árvores. - Entre os condutores das linhas, nas condições de flecha máxima e desviados ou não pelo vento, e as árvores, deverão observar-se as distâncias mínimas seguintes:
+Art. 81.º Distância dos condutores às árvores. - Entre os condutores das linhas, nas condições de flecha máxima e desviados ou não pelo vento, e as árvores, deverão observar-se as distâncias mínimas seguintes:
 
 Para linhas de 1.ª e 2.ª classe, 2 m;
 
@@ -560,9 +631,9 @@ Comentários. - 1. Normalmente a faixa de protecção é dividida ao meio pelo e
 
 2. De acordo com o Regulamento de Licenças para Instalações Eléctricas, os proprietários dos terrenos onde se acham estabelecidas linhas de uma instalação declarada de utilidade pública e os proprietários dos terrenos confinantes com quaisquer vias de comunicação ao longo das quais estejam estabelecidas as referidas linhas são obrigados a não consentir nem conservar neles plantações que possam prejudicar aquelas linhas na sua exploração, cumprindo igual obrigação aos chefes de serviços públicos a que pertencerem plantações nas condições referidas, mas sòmente nos casos de reconhecida necessidade.
 
-###### Art. 82.º Distância entre condutores. - Os condutores serão estabelecidos por forma a não poderem aproximar-se perigosamente, atendendo às oscilações provocadas pelo vento, não devendo a distância entre eles ser inferior à calculada pelas expressões:
+Art. 82.º Distância entre condutores. - Os condutores serão estabelecidos por forma a não poderem aproximar-se perigosamente, atendendo às oscilações provocadas pelo vento, não devendo a distância entre eles ser inferior à calculada pelas expressões:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 § 1.º Fora de zonas de gelo, a distância entre condutores poderá ser inferior ao valor obtido pelas expressões indicadas no corpo do artigo, desde que a distância entre os planos horizontais passando pelos respectivos pontos de fixação não seja menor que 2/3 daquele, valor.
 
@@ -578,21 +649,21 @@ Comentário. - Em linhas estabelecidas em zonas de gelo existe sempre o perigo d
 
 Portanto, no cálculo da distância entre condutores de linhas estabelecidas em zonas de gelo há que atender aos fenómenos indicados para evitar que os condutores possam aproximar-se perigosamente uns dos outros.
 
-###### Art. 83.º Distância entre os condutores e os cabos de guarda. - A distância entre os condutores e os cabos de guarda, próximo da fixação aos apoios, não deverá ser inferior à distância entre condutores calculada de acordo com o artigo anterior.
+Art. 83.º Distância entre os condutores e os cabos de guarda. - A distância entre os condutores e os cabos de guarda, próximo da fixação aos apoios, não deverá ser inferior à distância entre condutores calculada de acordo com o artigo anterior.
 
 § único. Quando a flecha dos cabos de guarda for inferior à dos condutores, poderá reduzir-se a distância entre estes e aqueles, próximo da fixação aos apoios, desde que se mantenha entre os condutores e os cabos de guarda, a meio do vão e nas condições de flecha mínima, a distância entre condutores calculada de acordo com o artigo anterior.
 
-###### Art. 84.º Distância entre os condutores e os apoios. - Os condutores, desviados ou não pelo vento, deverão manter em relação aos apoios a distância mínima, em metros (m), dada pela expressão 0,10 + (U/150), em que U é a tensão nominal da linha, em kilovolts (kV), com um mínimo de 0,20 m.
+Art. 84.º Distância entre os condutores e os apoios. - Os condutores, desviados ou não pelo vento, deverão manter em relação aos apoios a distância mínima, em metros (m), dada pela expressão 0,10 + (U/150), em que U é a tensão nominal da linha, em kilovolts (kV), com um mínimo de 0,20 m.
 
 3.5 - Fixação dos condutores aos isoladores
 
-###### Art. 85.º Materiais dos acessórios de fixação. - Os acessórios de fixação dos condutores aos isoladores serão de materiais que, em contacto com os condutores, não originem corrosão.
+Art. 85.º Materiais dos acessórios de fixação. - Os acessórios de fixação dos condutores aos isoladores serão de materiais que, em contacto com os condutores, não originem corrosão.
 
 § único. Os acessórios de fixação, quando de ferro ou de aço não inoxidável, deverão ser protegidos contra a corrosão por meio de um revestimento eficaz.
 
 Comentário. - Recomenda-se empregar a zincagem a quente dos acessórios de ferro ou de aço não inoxidável utilizados na fixação dos condutores aos isoladores.
 
-###### Art. 86.º Fixação dos condutores a isoladores rígidos. - Os condutores deverão ser fixados aos isoladores rígidos por meio de filaças ou outros acessórios de fixação apropriados.
+Art. 86.º Fixação dos condutores a isoladores rígidos. - Os condutores deverão ser fixados aos isoladores rígidos por meio de filaças ou outros acessórios de fixação apropriados.
 
 § único. Nos apoios de reforço, os condutores deverão ser fixados aos isoladores rígidos por forma a não poderem deslizar em caso de rotura num vão adjacente.
 
@@ -600,17 +671,17 @@ Comentários. - 1. Na fixação dos condutores aos isoladores rígidos há que a
 
 2. Nos apoios em que se pretenda uma melhor fixação dos condutores aos isoladores (apoios de reforço, de ângulo, etc.), recomenda-se o emprego de dois isoladores rígidos ou de cadeias de isoladores.
 
-###### Art. 87.º Fixação dos condutores a isoladores de cadeia. - Os condutores deverão ser fixados aos isoladores de cadeia por meio de pinças ou outros acessórios de fixação apropriados.
+Art. 87.º Fixação dos condutores a isoladores de cadeia. - Os condutores deverão ser fixados aos isoladores de cadeia por meio de pinças ou outros acessórios de fixação apropriados.
 
 § único. Nos apoios de reforço, os condutores deverão ser fixados aos isoladores de cadeia por forma a não poderem deslizar em caso de rotura num vão adjacente.
 
 3.6 - Cabos de guarda
 
-###### Art. 88.º Materiais dos cabos de guarda. - Os cabos de guarda, quando existam, serão de aço zincado ou inoxidável, ou de qualquer dos materiais admitidos para os condutores.
+Art. 88.º Materiais dos cabos de guarda. - Os cabos de guarda, quando existam, serão de aço zincado ou inoxidável, ou de qualquer dos materiais admitidos para os condutores.
 
 § único. Aos cabos de guarda será aplicável o disposto nos artigos 69.º e 71.º
 
-###### Art. 89.º Estabelecimento dos cabos de guarda. - Os cabos de guarda deverão, em regra, ser estabelecidos na parte mais alta dos apoios e ligados à terra, normalmente através dos apoios.
+Art. 89.º Estabelecimento dos cabos de guarda. - Os cabos de guarda deverão, em regra, ser estabelecidos na parte mais alta dos apoios e ligados à terra, normalmente através dos apoios.
 
 Comentário. - O emprego de cabos de guarda nas linhas não é obrigatório. Quando existam, recomenda-se:
 
@@ -618,11 +689,11 @@ a) Havendo, só um cabo de guarda, estabelecê-lo por forma que os pontos de fix
 
 b) Havendo dois ou mais cabos de guarda, estabelecê-los por forma que cada um dos condutores fique, relativamente a algum dos cabos de guarda, nas condições da alínea a).
 
-###### Art. 90.º Resistência mecânica dos cabos de guarda. - Para efeito de cálculo mecânico, os cabos de guarda serão considerados sujeitos às mesmas solicitações que os condutores, pelo que obedecerão ao disposto nos artigos 73.º a 77.º
+Art. 90.º Resistência mecânica dos cabos de guarda. - Para efeito de cálculo mecânico, os cabos de guarda serão considerados sujeitos às mesmas solicitações que os condutores, pelo que obedecerão ao disposto nos artigos 73.º a 77.º
 
 3.7 - Junções e derivações
 
-###### Art. 91.º Junções. - As junções dos condutores deverão ser evitadas na medida do possível, não sendo permitidas mais do que duas junções num mesmo vão da linha e para um mesmo condutor ou cabo de guarda.
+Art. 91.º Junções. - As junções dos condutores deverão ser evitadas na medida do possível, não sendo permitidas mais do que duas junções num mesmo vão da linha e para um mesmo condutor ou cabo de guarda.
 
 § 1.º Não serão permitidas junções por torçada ou soldadura, exceptuada a soldadura alumínio-térmica para os condutores ou cabos de guarda de alumínio ou de suas ligas.
 
@@ -632,33 +703,33 @@ b) Havendo dois ou mais cabos de guarda, estabelecê-los por forma que cada um d
 
 Comentário. - Recomenda-se empregar a zincagem a quente das uniões e dos ligadores de ferro ou de aço não inoxidável.
 
-###### Art. 92.º Derivações. - Salvo casos especiais devidamente justificados, as derivações deverão ser executadas nos apoios de forma a não haver diminuição da resistência mecânica dos condutores e os ligadores não ficarem submetidos aos esforços da tracção dos condutores derivados.
+Art. 92.º Derivações. - Salvo casos especiais devidamente justificados, as derivações deverão ser executadas nos apoios de forma a não haver diminuição da resistência mecânica dos condutores e os ligadores não ficarem submetidos aos esforços da tracção dos condutores derivados.
 
 4 - Isoladores e seus suportes
 
-###### Art. 93.º Materiais dos isoladores. - Os isoladores serão de porcelana, vidro, ou de outros materiais isolantes equivalentes, que resistam bem às acções da intempérie, especialmente às variações de temperatura, e à corrosão.
+Art. 93.º Materiais dos isoladores. - Os isoladores serão de porcelana, vidro, ou de outros materiais isolantes equivalentes, que resistam bem às acções da intempérie, especialmente às variações de temperatura, e à corrosão.
 
-###### Art. 94.º Características dos isoladores. - As características dos isoladores, particularmente a forma e dimensões, deverão ser apropriadas à tensão nominal da linha e aos esforços mecânicos que terão de suportar em exploração normal.
+Art. 94.º Características dos isoladores. - As características dos isoladores, particularmente a forma e dimensões, deverão ser apropriadas à tensão nominal da linha e aos esforços mecânicos que terão de suportar em exploração normal.
 
-###### Art. 95.º Suportes dos isoladores rígidos. - Os suportes dos isoladores rígidos deverão possuir um revestimento eficaz contra a corrosão ou ser de material resistente à corrosão.
+Art. 95.º Suportes dos isoladores rígidos. - Os suportes dos isoladores rígidos deverão possuir um revestimento eficaz contra a corrosão ou ser de material resistente à corrosão.
 
-###### Art. 96.º Resistência mecânica dos isoladores e seus suportes. - Os isoladores e os suportes dos isoladores deverão resistir às solicitações que os condutores lhes transmitem nas hipóteses de cálculo dos respectivos apoios, com os coeficientes de segurança adoptados para estes.
+Art. 96.º Resistência mecânica dos isoladores e seus suportes. - Os isoladores e os suportes dos isoladores deverão resistir às solicitações que os condutores lhes transmitem nas hipóteses de cálculo dos respectivos apoios, com os coeficientes de segurança adoptados para estes.
 
 § único. No dimensionamento mecânico dos isoladores e dos suportes de isoladores dos apoios de reforço deverá considerar-se a solicitação resultante da rotura dos condutores num qualquer dos lados da fixação aos isoladores.
 
-###### Art. 97.º Materiais de fixação dos isoladores rígidos. - O material de fixação dos isoladores rígidos não deverá ser constituído por substâncias que ataquem estes, ou os respectivos suportes, e se deteriorem ou sofram variações de volume que afectem o estado dos isoladores ou a segurança da fixação.
+Art. 97.º Materiais de fixação dos isoladores rígidos. - O material de fixação dos isoladores rígidos não deverá ser constituído por substâncias que ataquem estes, ou os respectivos suportes, e se deteriorem ou sofram variações de volume que afectem o estado dos isoladores ou a segurança da fixação.
 
 5 - Apoios
 
 5.1 - Disposições gerais
 
-###### Art. 98.º Materiais dos apoios. - Os apoios serão de aço, betão armado ou madeira, carecendo o emprego de outros materiais de autorização prévia da fiscalização do Governo.
+Art. 98.º Materiais dos apoios. - Os apoios serão de aço, betão armado ou madeira, carecendo o emprego de outros materiais de autorização prévia da fiscalização do Governo.
 
 Comentário. - Para os apoios de madeira recomenda-se, em especial, o pinho (Pinus pinaster Ait.) tratado e o castanho, sendo de excluir madeiras que pelo seu comportamento possam prejudicar a exploração das linhas.
 
-###### Art. 99.º Tensões de segurança. - As tensões de segurança a adoptar para os materiais dos apoios serão as indicadas nas normas nacionais para os materiais nas mesmas considerados, ou, na sua falta, as normalmente adoptadas em estruturas constituídas por esses materiais.
+Art. 99.º Tensões de segurança. - As tensões de segurança a adoptar para os materiais dos apoios serão as indicadas nas normas nacionais para os materiais nas mesmas considerados, ou, na sua falta, as normalmente adoptadas em estruturas constituídas por esses materiais.
 
-###### Art. 100.º Protecção dos apoios contra a deterioração. - Os apoios deverão ser protegidos, quando necessário, contra a corrosão e outras formas de deterioração.
+Art. 100.º Protecção dos apoios contra a deterioração. - Os apoios deverão ser protegidos, quando necessário, contra a corrosão e outras formas de deterioração.
 
 Comentários. - 1. Para os apoios metálicos recomenda-se a sua protecção por metalização, pintura de base metálica ou outra conveniente.
 
@@ -668,17 +739,17 @@ Comentários. - 1. Para os apoios metálicos recomenda-se a sua protecção por 
 
 Para os postes de madeira recomenda-se ainda que a parte enterrada seja pintada com alcatrão ou submetida a outro tratamento adequado, devendo essa protecção ser feita até cerca de 0,50 m acima do terreno, a fim de ficar suficientemente defendida da humidade a zona do poste na proximidade do solo.
 
-###### Art. 101.º Numeração dos apoios. - Os apoios deverão possuir uma inscrição, durável e visível, com o número indicativo da sua posição na linha.
+Art. 101.º Numeração dos apoios. - Os apoios deverão possuir uma inscrição, durável e visível, com o número indicativo da sua posição na linha.
 
 § único. Quando os apoios possuírem maciço de betão poderá a inscrição referida no corpo do artigo fazer-se no próprio maciço, desde que seja durável e visível.
 
 Comentário. - Recomenda-se que os apoios de madeira constem de um cadastro em que se registarão indicações respeitantes à localização, tipo e data de colocação e outras julgadas convenientes. O número de cadastro, que deve inscrever-se no próprio apoio, tem interesse para o identificar no respectivo cadastro, permitindo assim acompanhar o comportamento ao longo da sua vida.
 
-###### Art. 102.º Chapa de perigo de morte. - Os apoios das linhas deverão possuir uma chapa ou gravação, com uma flecha em ziguezague e a inscrição «Perigo de morte», durável e situada a uma altura acima do solo tal que não seja fàcilmente acessível e seja bem visível.
+Art. 102.º Chapa de perigo de morte. - Os apoios das linhas deverão possuir uma chapa ou gravação, com uma flecha em ziguezague e a inscrição «Perigo de morte», durável e situada a uma altura acima do solo tal que não seja fàcilmente acessível e seja bem visível.
 
 5.2 - Resistência mecânica
 
-###### Art. 103.º Hipóteses de cálculo dos apoios de alinhamento. - Os apoios de alinhamento deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 103.º Hipóteses de cálculo dos apoios de alinhamento. - Os apoios de alinhamento deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -694,7 +765,7 @@ b) Solicitações excepcionais: não serão de considerar neste tipo de apoio.
 
 Comentário. - Com a inclusão na hipótese 1 da resultante das tracções dos condutores e dos cabos de guarda tem-se em vista aqueles casos, pouco frequentes, em que não é nula aquela resultante, isto é, os casos em que há desequilíbrio de tracções nas dois meios vãos adjacentes ao apoio.
 
-###### Art. 104.º Hipóteses de cálculo dos apoios de ângulo. - Os apoios de ângulo deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 104.º Hipóteses de cálculo dos apoios de ângulo. - Os apoios de ângulo deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -716,7 +787,7 @@ b) Solicitações excepcionais: não serão de considerar neste tipo de apoio.
 
 Comentário. - Embora, de acordo com o disposto no artigo 62.º, a força devida ao vento tenha a direcção deste, e no caso dos apoios de ângulo essa direcção não seja normal aos condutores e cabos de guarda, justifica-se o disposto no § 1.º deste artigo pelo facto de resultarem para as tracções dos condutores e cabos de guarda valores muito próximos dos que se obteriam pela consideração da força devida ao vento com a direcção deste. Com efeito, o ângulo teta que a direcção do vento faz com os condutores e cabos de guarda é normalmente próximo de 90º e, quando o não é (ângulos muito pronunciados), o factor sen(elevado a 2) (teta) torna pequeno o valor da força do vento, pelo que a direcção desta pouco influenciará o efeito, nos condutores e cabos de guarda, da resultante dessa força e do peso destes.
 
-###### Art. 105.º Hipótese de cálculo dos apoios de derivação. - Os apoios de derivação deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 105.º Hipótese de cálculo dos apoios de derivação. - Os apoios de derivação deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -744,7 +815,7 @@ b) Solicitações excepcionais: não serão de considerar neste tipo de apoio.
 
 Comentário. - São válidas neste artigo as considerações feitas no comentário do artigo anterior.
 
-###### Art. 106.º Hipóteses de cálculo dos apoios de reforço em alinhamento. - Os apoios de reforço em alinhamento deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 106.º Hipóteses de cálculo dos apoios de reforço em alinhamento. - Os apoios de reforço em alinhamento deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -774,7 +845,7 @@ A fig. 2 representa o corte de um apoio reticulado pelo plano horizontal que con
 
 Fig. 2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 A força F é equivalente ao sistema constituído pela mesma força, mas aplicada em O e por um momento de torção M dada por M = F (1 + (a/2)).
 
@@ -794,7 +865,7 @@ Em qualquer outro plano horizontal a nível inferior ao do que contém a força 
 
 3. Recomenda-se considerar, no cálculo dos apoios de reforço de linhas situadas em zonas de gelo, a manga de gelo referida no artigo 68.º
 
-###### Art. 107.º Hipóteses de cálculo dos apoios de reforço em ângulo. - Os apoios de reforço em ângulo deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 107.º Hipóteses de cálculo dos apoios de reforço em ângulo. - Os apoios de reforço em ângulo deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -818,7 +889,7 @@ Simultâneamente, peso próprio do apoio, travessas, isoladores, condutores e ca
 
 Comentário. - São válidas neste artigo as considerações feitas nos comentários dos artigos 104.º e 106.º
 
-###### Art. 108.º Hipóteses de cálculo dos apoios de reforço em derivação. - Os apoios de reforço em derivação deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 108.º Hipóteses de cálculo dos apoios de reforço em derivação. - Os apoios de reforço em derivação deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -846,7 +917,7 @@ Simultâneamente, peso próprio do apoio, travessas, isoladores, condutores e ca
 
 Comentário. - São válidas neste artigo as considerações feitas nos comentários dos artigos 104.º e 106.º
 
-###### Art. 109.º Hipóteses de cálculo dos apoios de fim de linha. - Os apoios de fim de linha deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
+Art. 109.º Hipóteses de cálculo dos apoios de fim de linha. - Os apoios de fim de linha deverão ser calculados para as hipóteses seguintes, consideradas não simultâneamente:
 
 a) Solicitações normais:
 
@@ -866,7 +937,7 @@ Comentários. - 1. São válidas neste artigo as considerações feitas no comen
 
 2. Recomenda-se considerar, no cálculo dos apoios de fim de linhas situadas em zonas de gelo, a manga de gelo referida no artigo 68.º
 
-###### Art. 110.º Afastamento entre apoios de reforço. - O afastamento entre dois apoios de reforço consecutivos deverá ser, em regra, de quinze vãos.
+Art. 110.º Afastamento entre apoios de reforço. - O afastamento entre dois apoios de reforço consecutivos deverá ser, em regra, de quinze vãos.
 
 § único. O disposto no corpo do artigo não será aplicável às linhas de 3.ª classe estabelecidas de acordo com o artigo seguinte.
 
@@ -874,19 +945,19 @@ Comentário. - O afastamento entre apoios de reforço depende de um grande núme
 
 Os apoios de reforço serão, de preferência, colocados em pontos onde a linha faça um cotovelo brusco (ângulos do traçado, desnivelamentos), nas bifurcações, etc., isto é, nos pontos em que se produzem mais frequentemente esforços consideráveis.
 
-###### Art. 111.º Hipóteses de cálculo dos apoios de linhas sem apoios de reforço. - Dispensar-se-ão os apoios de reforço nas linhas de 3.ª classe se os apoios de alinhamento, ângulo e derivação, além de obedecerem ao disposto, respectivamente, nos artigos 103.º, 104.º e 105.º, satisfizerem à hipótese de solicitações excepcionais seguintes:
+Art. 111.º Hipóteses de cálculo dos apoios de linhas sem apoios de reforço. - Dispensar-se-ão os apoios de reforço nas linhas de 3.ª classe se os apoios de alinhamento, ângulo e derivação, além de obedecerem ao disposto, respectivamente, nos artigos 103.º, 104.º e 105.º, satisfizerem à hipótese de solicitações excepcionais seguintes:
 
 Forças de tracção máxima exercidas pelos condutores e cabos de guarda, considerando a rotura de um qualquer dos condutores ou dos cabos de guarda. Simultâneamente, peso próprio do apoio, travessas, isoladores, condutores e cabos de guarda.
 
 § único. No caso de apoios dotados de cadeias de suspensão atender-se-á à redução de tracção resultante do desvio angular da cadeia provocado pela rotura de um condutor, devendo considerar-se 85 por cento ou 70 por cento da tracção máxima, consoante a tensão nominal da linha for igual ou superior a 60 kV, como valor da tracção do condutor fixado à cadeia desviada, podendo ainda admitir-se para a tracção do referido condutor valores inferiores aos indicados, desde que sejam devidamente justificados.
 
-###### Art. 112.º Dimensionamento das travessas. - As travessas serão dimensionadas para as solicitações que os condutores lhes transmitem nas hipóteses de cálculo dos respectivos apoios, com os coeficientes de segurança adoptados para estes.
+Art. 112.º Dimensionamento das travessas. - As travessas serão dimensionadas para as solicitações que os condutores lhes transmitem nas hipóteses de cálculo dos respectivos apoios, com os coeficientes de segurança adoptados para estes.
 
 § único. A verificação da hipótese 3 dos artigos 106.º, 107.º e 108.º, embora dispensada no cálculo dos apoios de reforço nos casos previstos naqueles artigos, será obrigatória no dimensionamento das travessas e braços dos apoios de reforço sempre que estes disponham de travessas ou de braços não articulados.
 
 5.3 - Espiamento
 
-###### Art. 113.º Espiamento. - O espiamento apenas será permitido:
+Art. 113.º Espiamento. - O espiamento apenas será permitido:
 
 a) Nas linhas provisórias;
 
@@ -900,7 +971,7 @@ c) Nas linhas de 2.ª e 3.ª classe em casos especiais devidamente justificados,
 
 Comentário. - Recomenda-se a limitação do emprego da espia aos apoios de ângulo, de derivação e de fim de linha. A utilização da espia é, no entanto, sempre uma solução de recurso e não uma técnica normal.
 
-###### Art. 114.º Constituição das espias. - As espias serão constituídas por fio, cabo ou varetas com elos de ligação robustos, de ferro galvanizado, e terão secção que garanta resistência aos esforços a suportar, com um mínimo de 20 mm2.
+Art. 114.º Constituição das espias. - As espias serão constituídas por fio, cabo ou varetas com elos de ligação robustos, de ferro galvanizado, e terão secção que garanta resistência aos esforços a suportar, com um mínimo de 20 mm2.
 
 Comentários. - 1. Recomenda-se que a extremidade da espia amarrada no solo seja protegida por tubo de aço, desde o ponto de amarração até à altura de 2,50 m do solo.
 
@@ -908,11 +979,11 @@ Comentários. - 1. Recomenda-se que a extremidade da espia amarrada no solo seja
 
 3. Recomenda-se o emprego nas espias de tensores eficientes.
 
-###### Art. 115.º Fixação das espias. - As espias serão fixadas em condições que ofereçam garantia de duração e resistência e por forma a manter-se as distâncias de segurança relativamente aos condutores, devendo a fixação aos apoios efectuar-se abaixo de todos os condutores.
+Art. 115.º Fixação das espias. - As espias serão fixadas em condições que ofereçam garantia de duração e resistência e por forma a manter-se as distâncias de segurança relativamente aos condutores, devendo a fixação aos apoios efectuar-se abaixo de todos os condutores.
 
 § único. As espias dos apoios de betão armado deverão ser ligadas, junto da fixação ao apoio, ao condutor de terra deste.
 
-###### Art. 116.º Isolamento das espias. - As espias atingíveis, sem meios especiais, do solo ou de outros lugares acessíveis a pessoas serão interrompidas por isoladores de retenção apropriados, colocados por forma que as espias, no caso de se soltarem na extremidade acessível, não possam, por oscilação em torno da fixação ao apoio, estabelecer contacto com o condutor inferior na parte compreendida entre a extremidade acessível e o isolador.
+Art. 116.º Isolamento das espias. - As espias atingíveis, sem meios especiais, do solo ou de outros lugares acessíveis a pessoas serão interrompidas por isoladores de retenção apropriados, colocados por forma que as espias, no caso de se soltarem na extremidade acessível, não possam, por oscilação em torno da fixação ao apoio, estabelecer contacto com o condutor inferior na parte compreendida entre a extremidade acessível e o isolador.
 
 § 1.º Os isoladores não poderão distar do condutor mais próximo menos de 0,50 m e do solo menos de 4 m.
 
@@ -922,7 +993,7 @@ Comentários. - 1. Recomenda-se que a extremidade da espia amarrada no solo seja
 
 6 - Fundações
 
-###### Art. 117.º Fundações de postes. - Os postes serão implantados directamente no solo ou consolidados por fundações especiais de modo a ficar assegurada a estabilidade correspondente às solicitações actuantes e à natureza do solo, devendo observar-se o seguinte na sua implantação:
+Art. 117.º Fundações de postes. - Os postes serão implantados directamente no solo ou consolidados por fundações especiais de modo a ficar assegurada a estabilidade correspondente às solicitações actuantes e à natureza do solo, devendo observar-se o seguinte na sua implantação:
 
 a) Os postes metálicos, se constituídos por estruturas simples, poderão ser implantados directamente no solo ou mediante fundações adequadas, e, se constituídos por outras estruturas, em particular os postes reticulados, deverão ser implantados mediante fundações adequadas;
 
@@ -948,7 +1019,7 @@ As base de fixação dos postes de madeira devem sobressair um pouco do solo e t
 
 O encastramento de postes de madeira directamente em maciço de betão dá lugar ao seu rápido apodrecimento, razão por que não se admite.
 
-###### Art. 118.º Cálculo das fundações. - As fundações dos postes deverão ser calculadas de modo a satisfazerem às condições seguintes:
+Art. 118.º Cálculo das fundações. - As fundações dos postes deverão ser calculadas de modo a satisfazerem às condições seguintes:
 
 a) O coeficiente de segurança ao derrubamento não deverá ser inferior a:
 
@@ -984,11 +1055,11 @@ O peso específico do betão e do betão armado que convém considerar no cálcu
 
 7 - Linhas subterrâneas e acessórios
 
-###### Art. 119.º Cabos subterrâneos. - Os cabos subterrâneos serão dotados de isolamento apropriado, constituídos por materiais adequados, protegidos contra a corrosão provocada pelo terreno e terão resistência mecânica suficiente para suportarem os esforços de compressão a que possam estar submetidos.
+Art. 119.º Cabos subterrâneos. - Os cabos subterrâneos serão dotados de isolamento apropriado, constituídos por materiais adequados, protegidos contra a corrosão provocada pelo terreno e terão resistência mecânica suficiente para suportarem os esforços de compressão a que possam estar submetidos.
 
-###### Art. 120.º Caixas de cabos subterrâneos. - As caixas de cabos subterrâneos deverão garantir o isolamento e a estanquidade dos cabos e assegurar a continuidade das suas bainhas metálicas, quando existam, se não houver contra-indicação por motivo de corrosão electrolítica.
+Art. 120.º Caixas de cabos subterrâneos. - As caixas de cabos subterrâneos deverão garantir o isolamento e a estanquidade dos cabos e assegurar a continuidade das suas bainhas metálicas, quando existam, se não houver contra-indicação por motivo de corrosão electrolítica.
 
-###### Art. 121.º Estabelecimento de cabos subterrâneos. - No estabelecimento de cabos subterrâneos deverá observar-se o seguinte:
+Art. 121.º Estabelecimento de cabos subterrâneos. - No estabelecimento de cabos subterrâneos deverá observar-se o seguinte:
 
 a) Os cabos enterrados deverão assentar em fundo convenientemente preparado de valas e, quando não enfiados em condutas, ficar envolvidos em areia ou terra fina ou cirandada e ser instalados por forma que não sejam danificados pela pressão ou abatimento das terras;
 
@@ -1000,23 +1071,23 @@ b) Os cabos instalados em galerias, quando não tenham características adequada
 
 Comentário. - Ao longo de estradas nacionais e municipais os cabos subterrâneos só podem ser instalados nos taludes, banquetas, valetas, bermas ou passeios, conforme o disposto no Estatuto das Estradas Nacionais e no Regulamento Geral das Estradas e Caminhos Municipais ([Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de Agosto de 1961).
 
-###### Art. 122.º Profundidade de enterramento dos cabos. - A profundidade mínima de enterramento dos cabos, enfiados ou não em condutas, será de 0,80 m, com excepção do disposto nos artigos 168.º, 170.º e 180.º
+Art. 122.º Profundidade de enterramento dos cabos. - A profundidade mínima de enterramento dos cabos, enfiados ou não em condutas, será de 0,80 m, com excepção do disposto nos artigos 168.º, 170.º e 180.º
 
 § único. A profundidade indicada no corpo do artigo poderá ser reduzida em casos especiais em que a dificuldade de execução o justifique, sem prejuízo da conveniente protecção dos cabos.
 
-###### Art. 123.º Sinalização dos cabos subterrâneos. - A posição de cada cabo ou conjunto de cabos da mesma tensão nominal, quando não enfiados em condutas, deverá ser assinalada por meio de um dispositivo de aviso colocado pelo menos a 0,10 m acima deles, constituído por tijolos, placas de betão, lousa, ou materiais equivalentes, que os resguarde convenientemente.
+Art. 123.º Sinalização dos cabos subterrâneos. - A posição de cada cabo ou conjunto de cabos da mesma tensão nominal, quando não enfiados em condutas, deverá ser assinalada por meio de um dispositivo de aviso colocado pelo menos a 0,10 m acima deles, constituído por tijolos, placas de betão, lousa, ou materiais equivalentes, que os resguarde convenientemente.
 
 § único. Quando na mesma vala estejam enterrados vários cabos, serão estes identificados de maneira inequívoca para que possam individualizar-se com facilidade em todo o percurso.
 
 Comentário. - Recomenda-se, nas mudanças de direcção e nos percursos irregulares, uma sinalização durável nos pavimentos, para referenciação do desenvolvimento dos traçados de cabos subterrâneos.
 
-###### Art. 124.º Ligação de cabos subterrâneos. - As ligações - junções e derivações - de cabos subterrâneos serão efectuadas em caixas que obedeçam ao disposto no artigo 120.º, podendo, porém, empregar-se outro sistema apropriado à natureza do cabo.
+Art. 124.º Ligação de cabos subterrâneos. - As ligações - junções e derivações - de cabos subterrâneos serão efectuadas em caixas que obedeçam ao disposto no artigo 120.º, podendo, porém, empregar-se outro sistema apropriado à natureza do cabo.
 
 § único. As extremidades dos cabos deverão ser preparadas e protegidas contra a humidade e corrosão, se necessário.
 
-###### Art. 125.º Planta das linhas subterrâneas. - As entidades que possuam linhas subterrâneas deverão ter plantas dessas linhas, actualizadas e pormenorizadas, que permitam a fácil localização dos cabos no terreno e com a indicação das distâncias nos cruzamentos e vizinhanças com outros cabos.
+Art. 125.º Planta das linhas subterrâneas. - As entidades que possuam linhas subterrâneas deverão ter plantas dessas linhas, actualizadas e pormenorizadas, que permitam a fácil localização dos cabos no terreno e com a indicação das distâncias nos cruzamentos e vizinhanças com outros cabos.
 
-###### Art. 126.º Aquecimento dos cabos. - Na determinação da secção dos cabos subterrâneos deverá atender-se ao disposto no artigo 72.º
+Art. 126.º Aquecimento dos cabos. - Na determinação da secção dos cabos subterrâneos deverá atender-se ao disposto no artigo 72.º
 
 Comentário. - Recomenda-se adoptar, na falta de normas e especificações nacionais, as intensidades máximas de corrente, em regime permanente, constantes dos quadros V a XXIII, anexos, para os cabos e modo de estabelecimento nos mesmos indicados.
 
@@ -1026,7 +1097,7 @@ Para os cabos instalados em galerias, caleiras, condutas, tubos ou em camadas so
 
 8.1 - Disposições comuns
 
-###### Art. 127.º Travessias e cruzamentos a considerar. - As travessias e cruzamentos a considerar, para efeito de aplicação deste regulamento, serão as seguintes:
+Art. 127.º Travessias e cruzamentos a considerar. - As travessias e cruzamentos a considerar, para efeito de aplicação deste regulamento, serão as seguintes:
 
 a) Travessias de estradas nacionais ou municipais;
 
@@ -1044,9 +1115,9 @@ g) Cruzamentos com linhas de telecomunicação.
 
 § único. Os artigos 128.º a 130.º não são aplicáveis a cursos de água não navegáveis.
 
-###### Art. 128.º Junções. - Nas travessias e cruzamentos não serão permitidas, em pleno vão, junções de condutores ou de cabos de guarda das linhas situadas superiormente, salvo em casos devidamente aceites pela fiscalização do Governo.
+Art. 128.º Junções. - Nas travessias e cruzamentos não serão permitidas, em pleno vão, junções de condutores ou de cabos de guarda das linhas situadas superiormente, salvo em casos devidamente aceites pela fiscalização do Governo.
 
-###### Art. 129.º Condições especiais de fixação dos condutores a isoladores rígidos. - Nas travessias e cruzamentos, os condutores das linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores rígidos, deverão ser fixados, em cada apoio, a dois isoladores com o auxilio de um fiador do mesmo material e secção do condutor, devendo as ligações do fiador ao condutor distar dos isoladores cerca de 1 m, para um e outro lado.
+Art. 129.º Condições especiais de fixação dos condutores a isoladores rígidos. - Nas travessias e cruzamentos, os condutores das linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores rígidos, deverão ser fixados, em cada apoio, a dois isoladores com o auxilio de um fiador do mesmo material e secção do condutor, devendo as ligações do fiador ao condutor distar dos isoladores cerca de 1 m, para um e outro lado.
 
 § 1.º Os condutores poderão ser fixados a um único isolador se se verificarem, simultâneamente, as condições seguintes:
 
@@ -1068,7 +1139,7 @@ Comentários. - 1. Recomenda-se fixar os condutores aos isoladores de modo que, 
 
 3. Recomenda-se, para a fixação de um condutor a dois isoladores rígidos com o auxílio de um fiador, a disposição assimétrica, nos apoios de alinhamento.
 
-###### Art. 130.º Condições especiais de fixação dos condutores a isoladores de cadeia. - Nas travessias e cruzamentos, os condutores das linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores de cadeia, deverão ser fixados, em cada apoio, a duas cadeias simples de amarração, uma de cada lado do apoio, adoptando-se, simultâneamente, uma das soluções seguintes:
+Art. 130.º Condições especiais de fixação dos condutores a isoladores de cadeia. - Nas travessias e cruzamentos, os condutores das linhas situadas superiormente, quando os respectivos apoios de travessia e cruzamento forem dotados de isoladores de cadeia, deverão ser fixados, em cada apoio, a duas cadeias simples de amarração, uma de cada lado do apoio, adoptando-se, simultâneamente, uma das soluções seguintes:
 
 a) Montagem nas cadeias, pelo menos do lado do condutor, de hastes (de descarga) ou anéis (de guarda) dispostos de modo a não reduzir sensìvelmente a tensão de contornamento das cadeias;
 
@@ -1110,17 +1181,17 @@ Comentários. - 1. A condição da alínea c) do § 2.º tem por objectivo evita
 
 8.2 - Travessias de estradas nacionais ou municipais
 
-###### Art. 131.º Distância dos condutores às estradas nacionais ou municipais. - A distância mínima dos condutores, nas condições de flecha máxima, a estradas nacionais ou municipais deverá ser:
+Art. 131.º Distância dos condutores às estradas nacionais ou municipais. - A distância mínima dos condutores, nas condições de flecha máxima, a estradas nacionais ou municipais deverá ser:
 
 Para linhas de tensão nominal igual ou inferior a 60 kV, 7 m;
 
 Para linhas de tensão nominal superior a 60 kV, 8 m.
 
-###### Art. 132.º Distância dos apoios à zona da estrada. - Os apoios das linhas não deverão distar, horizontalmente, da zona da estrada menos de 3 m.
+Art. 132.º Distância dos apoios à zona da estrada. - Os apoios das linhas não deverão distar, horizontalmente, da zona da estrada menos de 3 m.
 
 8.3 - Travessias de cursos de água
 
-###### Art. 133.º Altura dos condutores. - Nas travessias de cursos de água navegáveis, a altura dos condutores das linhas, nas condições de flecha máxima, acima do mais alto nível de água navegável não deverá ser inferior a h + d, em que h, em metros, é a maior altura acima do nível das águas dos barcos que passam no local, e d tem os valores seguintes:
+Art. 133.º Altura dos condutores. - Nas travessias de cursos de água navegáveis, a altura dos condutores das linhas, nas condições de flecha máxima, acima do mais alto nível de água navegável não deverá ser inferior a h + d, em que h, em metros, é a maior altura acima do nível das águas dos barcos que passam no local, e d tem os valores seguintes:
 
 Para linhas de tensão nominal igual ou inferior a 60 kV, 2 m;
 
@@ -1134,7 +1205,7 @@ Comentário. - Os troços navegáveis dos cursos de água e a altura máxima dos
 
 8.4 - Travessias de teleféricos
 
-###### Art. 134.º Distâncias dos condutores aos teleféricos. - Nas travessias de teleféricos observar-se-ão as distâncias seguintes:
+Art. 134.º Distâncias dos condutores aos teleféricos. - Nas travessias de teleféricos observar-se-ão as distâncias seguintes:
 
 a) Se as linhas passarem superiormente, a distância entre os condutores, nas condições de flecha máxima, e a instalação do teleférico não deverá ser inferior a 3 m;
 
@@ -1142,25 +1213,25 @@ b) Se as linhas passarem inferiormente, a distância entre os condutores ou os c
 
 Comentário. - Nas travessias de instalações de teleféricos as linhas devem, sempre que possível, passar superiormente.
 
-###### Art. 135.º Ligação à terra. - A instalação do teleférico deverá ser eficazmente ligada à terra, pelo menos, nos apoios adjacentes à travessia.
+Art. 135.º Ligação à terra. - A instalação do teleférico deverá ser eficazmente ligada à terra, pelo menos, nos apoios adjacentes à travessia.
 
 8.5 - Travessias e cruzamentos de caminhos de ferro
 
-###### Art. 136.º Ângulo de travessia ou de cruzamento. - As linhas não deverão formar com o eixo da via férrea um engulo inferior a 15º.
+Art. 136.º Ângulo de travessia ou de cruzamento. - As linhas não deverão formar com o eixo da via férrea um engulo inferior a 15º.
 
 § único. O disposto no corpo do artigo não será aplicável no caso de linhas estabelecidas ao longo de uma via pública ou obra de arte que atravesse a via férrea segundo um ângulo menor.
 
-###### Art. 137.º Travessias e cruzamentos de caminhos de ferro por linhas de 2.ª classe. - Nos cruzamentos e travessias de linhas de 2.ª classe com caminhos de ferro electrificados ou cuja electrificação esteja prevista deverão utilizar-se condutores de secção nominal não inferior a 16 mm2, se de cobre, ou de secção com equivalente resistência mecânica, se de outro material, fixados a cadeias de amarração, devendo estas suportar, sob chuva, uma tensão de ensaio de isolamento, à frequência industrial, pelo menos, 20 por cento superior à dos outros isoladores da linha.
+Art. 137.º Travessias e cruzamentos de caminhos de ferro por linhas de 2.ª classe. - Nos cruzamentos e travessias de linhas de 2.ª classe com caminhos de ferro electrificados ou cuja electrificação esteja prevista deverão utilizar-se condutores de secção nominal não inferior a 16 mm2, se de cobre, ou de secção com equivalente resistência mecânica, se de outro material, fixados a cadeias de amarração, devendo estas suportar, sob chuva, uma tensão de ensaio de isolamento, à frequência industrial, pelo menos, 20 por cento superior à dos outros isoladores da linha.
 
-###### Art. 138.º Travessias e cruzamentos de caminhos de ferro por linhas de 1.ª classe. - Nos cruzamentos e travessias de linhas de 1.ª classe com caminhos de ferro electrificados ou cuja electrificação esteja prevista deverá observar-se o seguinte:
+Art. 138.º Travessias e cruzamentos de caminhos de ferro por linhas de 1.ª classe. - Nos cruzamentos e travessias de linhas de 1.ª classe com caminhos de ferro electrificados ou cuja electrificação esteja prevista deverá observar-se o seguinte:
 
 a) Os cruzamentos só serão permitidos se feitos com condutores isolados fixados ou embebidos em obras de arte ou quando os apoios, condutores e outros elementos da linha não possam, no caso de derrubamento, cedência, rotura ou queda, atingir a instalação da linha de contacto;
 
 b) As travessias, quando não forem estabelecidas nas condições da alínea anterior, deverão ser removidas logo que a fiscalização do Governo o imponha.
 
-###### Art. 139.º Travessias e cruzamentos entre agulhas extremas de estações. - As travessias e os cruzamentos de caminhos de ferro entre agulhas extremas de estações só serão permitidos nos casos excepcionais em que dificuldades técnicas ou despesas inerentes os tornem aconselháveis, quando aceites pela fiscalização do Governo.
+Art. 139.º Travessias e cruzamentos entre agulhas extremas de estações. - As travessias e os cruzamentos de caminhos de ferro entre agulhas extremas de estações só serão permitidos nos casos excepcionais em que dificuldades técnicas ou despesas inerentes os tornem aconselháveis, quando aceites pela fiscalização do Governo.
 
-###### Art. 140.º Distância dos condutores aos carris, nas travessias. - Nas travessias de caminhos de ferro, a distância mínima dos condutores, nas condições de flecha máxima, aos carris deverá ser:
+Art. 140.º Distância dos condutores aos carris, nas travessias. - Nas travessias de caminhos de ferro, a distância mínima dos condutores, nas condições de flecha máxima, aos carris deverá ser:
 
 Para linhas de tensão nominal igual ou inferior a 60 kV, 7 m;
 
@@ -1174,7 +1245,7 @@ Para linhas de tensão nominal superior a 60 kV, 11,50 m.
 
 Comentário. - No quadro XXV, anexo, indicam-se as linhas de caminho de ferro electrificadas e as linhas cuja electrificação está prevista.
 
-###### Art. 141.º Distância dos condutores à instalação da linha de contacto, nos cruzamentos. - Nos cruzamentos de caminhos de ferro, a distância dos condutores, nas condições de flecha máxima, à instalação da linha de contacto não deverá ser inferior a:
+Art. 141.º Distância dos condutores à instalação da linha de contacto, nos cruzamentos. - Nos cruzamentos de caminhos de ferro, a distância dos condutores, nas condições de flecha máxima, à instalação da linha de contacto não deverá ser inferior a:
 
 Para linhas de tensão nominal igual ou inferior a 60 kV, 3 m;
 
@@ -1182,27 +1253,27 @@ Para linhas de tensão nominal superior a 60 kV, 4 m.
 
 Comentário. - No caso de haver um feeder aéreo disposto ao lado da linha de contacto, considera-se este como fazendo parte desta instalação.
 
-###### Art. 142.º Distância dos apoios à via férrea, nas travessias e cruzamentos. - Nas travessias e cruzamentos, os apoios das linhas não poderão distar, horizontalmente, da zona do caminho de ferro menos de 5 m, devendo ainda, nos cruzamentos, manter-se uma distância horizontal entre os apoios e a instalação da linha de contacto não inferior a 1,50 m.
+Art. 142.º Distância dos apoios à via férrea, nas travessias e cruzamentos. - Nas travessias e cruzamentos, os apoios das linhas não poderão distar, horizontalmente, da zona do caminho de ferro menos de 5 m, devendo ainda, nos cruzamentos, manter-se uma distância horizontal entre os apoios e a instalação da linha de contacto não inferior a 1,50 m.
 
-###### Art. 143.º Apoios de madeira nas travessias e cruzamentos. - Os apoios de travessia ou de cruzamento não poderão ser de madeira, excepto nas travessias de caminhos de ferro cuja electrificação não esteja prevista quando esses apoios não forem simultâneamente apoios de ângulo.
+Art. 143.º Apoios de madeira nas travessias e cruzamentos. - Os apoios de travessia ou de cruzamento não poderão ser de madeira, excepto nas travessias de caminhos de ferro cuja electrificação não esteja prevista quando esses apoios não forem simultâneamente apoios de ângulo.
 
-###### Art. 144.º Resistência mecânica dos apoios de travessia ou de cruzamento. - Os apoios de travessia ou de cruzamento deverão ser de reforço, excepto nas travessias de caminhos de ferro cuja electrificação não esteja prevista quando esses apoios, ao cair, não possam atingir o carril mais próximo ou prejudicar directamente a circulação ferroviária.
+Art. 144.º Resistência mecânica dos apoios de travessia ou de cruzamento. - Os apoios de travessia ou de cruzamento deverão ser de reforço, excepto nas travessias de caminhos de ferro cuja electrificação não esteja prevista quando esses apoios, ao cair, não possam atingir o carril mais próximo ou prejudicar directamente a circulação ferroviária.
 
 § único. O disposto no corpo do artigo não será aplicável nas travessias e cruzamentos de linhas de 3.ª classe com caminhos de ferro quando essas linhas forem estabelecidas de acordo com o disposto no artigo 111.º
 
 8.6 - Cruzamentos com linhas de tracção eléctrica urbana ou suburbana
 
-###### Art. 145.º Distância dos condutores à instalação da linha de contacto. - Nos cruzamentos com linhas de tracção eléctrica urbana ou suburbana, a distância mínima dos condutores à instalação da linha de contacto, nas condições de flecha máxima, deverá ser:
+Art. 145.º Distância dos condutores à instalação da linha de contacto. - Nos cruzamentos com linhas de tracção eléctrica urbana ou suburbana, a distância mínima dos condutores à instalação da linha de contacto, nas condições de flecha máxima, deverá ser:
 
 Para linhas de tensão nominal igual ou inferior 60 kV, 3 m;
 
 Para linhas de tensão nominal superior a 60 kV, 4 m.
 
-###### Art. 146.º Distância dos apoios à instalação da linha de contacto. - Os apoios das linhas não deverão distar menos de 1,50 m de qualquer parte sob tensão da instalação da linha de contacto.
+Art. 146.º Distância dos apoios à instalação da linha de contacto. - Os apoios das linhas não deverão distar menos de 1,50 m de qualquer parte sob tensão da instalação da linha de contacto.
 
 8.7 - Cruzamentos com linhas de alta ou baixa tensão
 
-###### Art. 147.º Posição relativa das linhas. - Nos cruzamentos de linhas de alta tensão com outras de alta ou baixa tensão, as linhas de tensão mais elevada deverão passar superiormente.
+Art. 147.º Posição relativa das linhas. - Nos cruzamentos de linhas de alta tensão com outras de alta ou baixa tensão, as linhas de tensão mais elevada deverão passar superiormente.
 
 § 1.º A título excepcional, poderão permitir-se cruzamentos de linhas de menor tensão passando superiormente a linhas de tensão mais elevada, se dificuldades técnicas e despesas inerentes o aconselharem, devendo, porém, em tal caso, no vão de cruzamento, as linhas que passam superiormente ser, quanto à segurança mecânica, estabelecidas em condições semelhantes às linhas que passam inferiormente.
 
@@ -1210,7 +1281,7 @@ Para linhas de tensão nominal superior a 60 kV, 4 m.
 
 Comentário. - Nos cruzamentos de linhas de igual tensão recomenda-se que passe superiormente a que for estabelecida em último lugar.
 
-###### Art. 148.º Distância entre as duas linhas. - Nos cruzamentos de linhas de alta tensão com outras linhas de alta ou baixa tensão, a distância mínima entre as linhas, nas condições de flecha mais desfavoráveis, deverá ser:
+Art. 148.º Distância entre as duas linhas. - Nos cruzamentos de linhas de alta tensão com outras linhas de alta ou baixa tensão, a distância mínima entre as linhas, nas condições de flecha mais desfavoráveis, deverá ser:
 
 Se a tensão nominal da linha de maior tensão for igual ou inferior a 60 kV, 2 m;
 
@@ -1222,49 +1293,49 @@ Se a tensão nominal da linha de maior tensão for igual ou inferior a 60 kV, 0,
 
 Se a tensão nominal da linha de maior tensão for superior a 60 kV, 1,50 m.
 
-###### Art. 149.º Distância entre os condutores da linha inferior e os apoios da linha superior. - Nos cruzamentos de linhas de alta tensão com outras linhas de alta ou baixa tensão, a distância entre os condutores da linha que passa inferiormente, nas condições de flecha máxima e desviados pelo vento, e os apoios da linha que passa superiormente não deverá ser inferior a 2 m.
+Art. 149.º Distância entre os condutores da linha inferior e os apoios da linha superior. - Nos cruzamentos de linhas de alta tensão com outras linhas de alta ou baixa tensão, a distância entre os condutores da linha que passa inferiormente, nas condições de flecha máxima e desviados pelo vento, e os apoios da linha que passa superiormente não deverá ser inferior a 2 m.
 
 8.8 - Cruzamentos com linhas de telecomunicação
 
-###### Art. 150.º Posição relativa das linhas. - Nos cruzamentos com linhas de telecomunicação, as linhas de energia deverão passar superiormente.
+Art. 150.º Posição relativa das linhas. - Nos cruzamentos com linhas de telecomunicação, as linhas de energia deverão passar superiormente.
 
 § único. Nos casos em que a aplicação do disposto no corpo do artigo for tècnicamente difícil, poderá a fiscalização do Governo, ouvidas as entidades exploradoras das linhas de alta tensão e de telecomunicação, autorizar que as linhas de telecomunicação cruzem superiormente as linhas de energia, desde que se tomem as precauções adequadas.
 
-###### Art. 151.º Ângulo de cruzamento. - O ângulo de cruzamento de linhas de energia e de telecomunicação não deverá ser inferior a 15º, excepto se os condutores da linha de telecomunicação forem constituídos por cabo blindado ou com bainha metálica.
+Art. 151.º Ângulo de cruzamento. - O ângulo de cruzamento de linhas de energia e de telecomunicação não deverá ser inferior a 15º, excepto se os condutores da linha de telecomunicação forem constituídos por cabo blindado ou com bainha metálica.
 
 § único. Em casos especiais, nomeadamente naqueles em que for grande a distância entre a linha de energia e a de telecomunicação, a fiscalização do Governo poderá, ouvida a entidade exploradora da linha de telecomunicação, autorizar cruzamentos segundo ângulos inferiores a 15º.
 
-###### Art. 152.º Distância entre as linhas de energia e as de telecomunicação. - Nos cruzamentos de linhas de energia com linhas de telecomunicação, a distância mínima entre as duas linhas deverá obedecer ao disposto no artigo 148.º
+Art. 152.º Distância entre as linhas de energia e as de telecomunicação. - Nos cruzamentos de linhas de energia com linhas de telecomunicação, a distância mínima entre as duas linhas deverá obedecer ao disposto no artigo 148.º
 
-###### Art. 153.º Distância dos condutores da linha de telecomunicação aos apoios da linha de energia. - Nos cruzamentos, os apoios das linhas de energia não deverão distar dos condutores da linha de telecomunicação menos de 2 m.
+Art. 153.º Distância dos condutores da linha de telecomunicação aos apoios da linha de energia. - Nos cruzamentos, os apoios das linhas de energia não deverão distar dos condutores da linha de telecomunicação menos de 2 m.
 
 9 - Vizinhanças das linhas aéreas
 
 9.1 - Vizinhanças de estradas nacionais ou municipais
 
-###### Art. 154.º Vizinhanças de estradas nacionais ou municipais. - Nas vizinhanças de estradas nacionais ou municipais em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, à zona da estrada for inferior a 15 m ou à altura dos apoios fora do solo, aplicar-se-á o disposto nos artigos 128.º a 132.º, devendo as distâncias dos condutores à estrada observar-se supondo estes desviados ou não pelo vento.
+Art. 154.º Vizinhanças de estradas nacionais ou municipais. - Nas vizinhanças de estradas nacionais ou municipais em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, à zona da estrada for inferior a 15 m ou à altura dos apoios fora do solo, aplicar-se-á o disposto nos artigos 128.º a 132.º, devendo as distâncias dos condutores à estrada observar-se supondo estes desviados ou não pelo vento.
 
 9.2 - Vizinhanças de cursos de água navegáveis
 
-###### Art. 155.º Vizinhanças de cursos de água navegáveis. - Nas vizinhanças de cursos de água navegáveis em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, às margens dos referidos cursos for inferior a 15 m ou à altura dos apoios fora do solo, deverá aplicar-se o disposto nos artigos 128.º a 130.º e 133.º
+Art. 155.º Vizinhanças de cursos de água navegáveis. - Nas vizinhanças de cursos de água navegáveis em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, às margens dos referidos cursos for inferior a 15 m ou à altura dos apoios fora do solo, deverá aplicar-se o disposto nos artigos 128.º a 130.º e 133.º
 
 9.3 - Vizinhanças de teleféricos
 
-###### Art. 156.º Vizinhanças de teleféricos. - Nas vizinhanças de teleféricos observar-se-á uma distância horizontal entre os condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, e a instalação do teleférico não inferior a 15 m nem à altura dos apoios fora do solo.
+Art. 156.º Vizinhanças de teleféricos. - Nas vizinhanças de teleféricos observar-se-á uma distância horizontal entre os condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, e a instalação do teleférico não inferior a 15 m nem à altura dos apoios fora do solo.
 
 9.4 - Vizinhanças de caminhos de ferro
 
-###### Art. 157.º Vizinhanças de caminhos de ferro. - Nas vizinhanças de caminhos de ferro, electrificados ou não, em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, à zona do caminho de ferro for inferior a 15 m ou à altura dos apoios fora do solo, aplicar-se-á o disposto nos artigos 128.º a 130.º e 137.º a 144.º, devendo as distâncias dos condutores aos carris ou à instalação da linha de contacto observar-se supondo-os desviados ou não pelo vento.
+Art. 157.º Vizinhanças de caminhos de ferro. - Nas vizinhanças de caminhos de ferro, electrificados ou não, em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, à zona do caminho de ferro for inferior a 15 m ou à altura dos apoios fora do solo, aplicar-se-á o disposto nos artigos 128.º a 130.º e 137.º a 144.º, devendo as distâncias dos condutores aos carris ou à instalação da linha de contacto observar-se supondo-os desviados ou não pelo vento.
 
 § único. A distância mínima de 15 m referida no corpo do artigo deverá aumentar-se nos casos especiais em que a topografia do terreno o aconselhe.
 
 9.5 - Vizinhanças de linhas de tracção eléctrica urbana ou suburbana
 
-###### Art. 158.º Vizinhanças de linhas de tracção eléctrica urbana ou suburbana. - Nas vizinhanças de linhas de tracção eléctrica urbana ou suburbana em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, à instalação da linha de contacto for inferior a 15 m ou à altura dos apoios fora do solo, aplicar-se-á o disposto nos artigos 128.º a 130.º, 145.º e 146.º, devendo as distâncias dos condutores à instalação da linha de contacto observar-se supondo estes desviados ou não pelo vento.
+Art. 158.º Vizinhanças de linhas de tracção eléctrica urbana ou suburbana. - Nas vizinhanças de linhas de tracção eléctrica urbana ou suburbana em que a distância horizontal dos condutores ou cabos de guarda, supostos à flecha máxima e desviados pelo vento, à instalação da linha de contacto for inferior a 15 m ou à altura dos apoios fora do solo, aplicar-se-á o disposto nos artigos 128.º a 130.º, 145.º e 146.º, devendo as distâncias dos condutores à instalação da linha de contacto observar-se supondo estes desviados ou não pelo vento.
 
 9.6 - Vizinhanças de linhas de alta ou baixa tensão
 
-###### Art. 159.º Vizinhanças de linhas de alta ou baixa tensão em apoios diferentes. - Nas vizinhanças de outras linhas de energia, de alta ou baixa tensão, estabelecidas em apoios diferentes, em que, nas condições de flecha máxima, a distância horizontal dos condutores ou cabos de guarda de cada linha, supostos desviados pelo vento, aos condutores, cabos de guarda e apoios da outra linha resulte inferior a:
+Art. 159.º Vizinhanças de linhas de alta ou baixa tensão em apoios diferentes. - Nas vizinhanças de outras linhas de energia, de alta ou baixa tensão, estabelecidas em apoios diferentes, em que, nas condições de flecha máxima, a distância horizontal dos condutores ou cabos de guarda de cada linha, supostos desviados pelo vento, aos condutores, cabos de guarda e apoios da outra linha resulte inferior a:
 
 Se a tensão nominal da linha de maior tensão for igual ou inferior a 60 kV, 2 m;
 
@@ -1272,17 +1343,17 @@ Se a tensão nominal da linha de maior tensão for superior a 60 kV, 3 m,
 
 deverá aplicar-se o disposto nos artigos 128.º a 130.º e 147.º a 149.º, não sendo, porém, permitido, quando uma das linhas for de baixa tensão, que se situe a nível superior ao das linhas de alta tensão.
 
-###### Art. 160.º Vizinhanças de linhas de alta ou baixa tensão em apoios comuns. - Permitir-se-á o estabelecimento de duas ou mais linhas de alta tensão em apoios comuns, não se permitindo, excepto em casos especiais devidamente justificados e aceites pela fiscalização do Governo, o estabelecimento, em apoios comuns, de linhas de alta e baixa tensão.
+Art. 160.º Vizinhanças de linhas de alta ou baixa tensão em apoios comuns. - Permitir-se-á o estabelecimento de duas ou mais linhas de alta tensão em apoios comuns, não se permitindo, excepto em casos especiais devidamente justificados e aceites pela fiscalização do Governo, o estabelecimento, em apoios comuns, de linhas de alta e baixa tensão.
 
 Comentário. - Convém evitar, na medida do possível, o estabelecimento de linhas de energia de tensões diferentes em apoios comuns, sobretudo quando alguma for de baixa tensão. Com efeito, podem surgir riscos graves provenientes de indução, de contacto de condutores de tensões diferentes ou de passagem de tensões de uma linha para a outra por defeito de isolamento, além de sujeições de exploração, especialmente a necessidade de pôr as linhas fora do serviço para trabalhos de conservação.
 
 Existem, no entanto, situações particulares em que se verifica a impossibilidade de estabelecer as linhas em apoios diferentes, podendo, por outro lado, ser vantajoso, por razões económicas ou técnicas, principalmente na electrificação rural, estabelecer em apoios comuns troços de linhas de tensões diferentes.
 
-###### Art. 161.º Posição relativa das linhas nas vizinhanças em apoios comuns. - Sempre que uma linha de alta tensão tenha apoios comuns com outra linha de alta ou baixa tensão, deverá a linha de tensão mais elevada ocupar a posição superior.
+Art. 161.º Posição relativa das linhas nas vizinhanças em apoios comuns. - Sempre que uma linha de alta tensão tenha apoios comuns com outra linha de alta ou baixa tensão, deverá a linha de tensão mais elevada ocupar a posição superior.
 
 § único. No caso de as linhas serem ambas de alta tensão permitir-se-á que se situem ao mesmo nível, uma de cada lado dos apoios, ou que a de tensão mais elevada ocupe a posição inferior, desde que dificuldades técnicas ou despesas inerentes tornem desaconselhável a aplicação do disposto no corpo do artigo.
 
-###### Art. 162.º Distância entre linhas nas vizinhanças em apoios comuns. - Se uma linha de alta tensão tiver apoios comuns com outra linha de alta ou baixa tensão, a distância entre os condutores de uma das linhas e os condutores da outra, assim como a distância entre os cabos de guarda de cada uma das linhas e os condutores da outra linha, não deverá ser inferior à distância entre condutores da linha de tensão mais elevada, com o mínimo, nas condições de flecha máxima, de:
+Art. 162.º Distância entre linhas nas vizinhanças em apoios comuns. - Se uma linha de alta tensão tiver apoios comuns com outra linha de alta ou baixa tensão, a distância entre os condutores de uma das linhas e os condutores da outra, assim como a distância entre os cabos de guarda de cada uma das linhas e os condutores da outra linha, não deverá ser inferior à distância entre condutores da linha de tensão mais elevada, com o mínimo, nas condições de flecha máxima, de:
 
 Se a tensão nominal da linha de maior tensão for igual ou inferior a 60 kV, 2 m;
 
@@ -1290,17 +1361,17 @@ Se a tensão nominal da linha de maior tensão for superior a 60 kV, 3 m.
 
 § único. O disposto no corpo do artigo deverá aplicar-se às linhas duplas constituídas por condutores de materiais diferentes.
 
-###### Art. 163.º Isoladores das linhas de baixa tensão nas vizinhanças em apoios comuns. - Nas vizinhanças de linhas de alta tensão com linhas de baixa tensão estabelecidas em apoios comuns deverão os isoladores destas suportar, sob chuva, uma tensão de ensaio de isolamento, à frequência industrial, de 6 kV, no caso de a linha de alta tensão possuir cabo de guarda, e de 1/10 da tensão nominal da linha de alta tensão, nunca inferior, porém, a 6 kV, no caso de a linha de alta tensão não possuir cabo de guarda.
+Art. 163.º Isoladores das linhas de baixa tensão nas vizinhanças em apoios comuns. - Nas vizinhanças de linhas de alta tensão com linhas de baixa tensão estabelecidas em apoios comuns deverão os isoladores destas suportar, sob chuva, uma tensão de ensaio de isolamento, à frequência industrial, de 6 kV, no caso de a linha de alta tensão possuir cabo de guarda, e de 1/10 da tensão nominal da linha de alta tensão, nunca inferior, porém, a 6 kV, no caso de a linha de alta tensão não possuir cabo de guarda.
 
 9.7 - Vizinhanças de linhas de telecomunicação
 
-###### Art. 164.º Vizinhanças de linhas de telecomunicação em apoios diferentes. - Nas vizinhanças de linhas de telecomunicação estabelecidas em apoios diferentes deverá aplicar-se o disposto nos artigos 128.º a 130.º, 150.º, 152.º e 153.º sempre que a distância horizontal dos condutores ou cabos de guarda da linha de energia, supostos à flecha máxima e desviados pelo vento, aos condutores da linha de telecomunicação resulte inferior a:
+Art. 164.º Vizinhanças de linhas de telecomunicação em apoios diferentes. - Nas vizinhanças de linhas de telecomunicação estabelecidas em apoios diferentes deverá aplicar-se o disposto nos artigos 128.º a 130.º, 150.º, 152.º e 153.º sempre que a distância horizontal dos condutores ou cabos de guarda da linha de energia, supostos à flecha máxima e desviados pelo vento, aos condutores da linha de telecomunicação resulte inferior a:
 
 Para linhas de tensão nominal igual ou inferior a 60 kV, 2 m;
 
 Para linhas de tensão nominal superior a 60 kV, 3 m.
 
-###### Art. 165.º Vizinhanças de linhas de telecomunicação em apoios comuns. - O estabelecimento de linhas de telecomunicação nos apoios de linhas de alta tensão só será permitido quando aquelas estiverem adstritas exclusivamente à exploração das linhas de alta tensão.
+Art. 165.º Vizinhanças de linhas de telecomunicação em apoios comuns. - O estabelecimento de linhas de telecomunicação nos apoios de linhas de alta tensão só será permitido quando aquelas estiverem adstritas exclusivamente à exploração das linhas de alta tensão.
 
 § 1.º As linhas de telecomunicação estabelecidas em apoios de linhas de alta tensão deverão ocupar a posição inferior.
 
@@ -1314,35 +1385,35 @@ Pelo mesmo motivo devem os aparelhos telefónicos, quando ligados às linhas sem
 
 10 - Linhas aéreas na proximidade de linhas e de canalizações subterrâneas
 
-###### Art. 166.º Estabelecimento de apoios na proximidade de cabos de energia subterrâneos e de outras canalizações. - A implantação de apoios por cima de cabos de energia subterrâneos, de canalizações de água, gás e esgoto, ou de outras canalizações subterrâneas deverá ser evitada a não ser que se dotem os cabos ou canalizações de protecções adequadas.
+Art. 166.º Estabelecimento de apoios na proximidade de cabos de energia subterrâneos e de outras canalizações. - A implantação de apoios por cima de cabos de energia subterrâneos, de canalizações de água, gás e esgoto, ou de outras canalizações subterrâneas deverá ser evitada a não ser que se dotem os cabos ou canalizações de protecções adequadas.
 
 § único. Entre os apoios ou suas fundações e os cabos de energia ou as canalizações referidas no corpo do artigo deverão manter-se distâncias suficientes para evitar avarias provocadas por trabalhos nas linhas aéreas.
 
-###### Art. 167.º Estabelecimento de apoios na proximidade de linhas de telecomunicação subterrâneas. - Entre os apoios ou suas fundações e os cabos de telecomunicação subterrâneos observar-se-á a distância horizontal mínima de 5 m.
+Art. 167.º Estabelecimento de apoios na proximidade de linhas de telecomunicação subterrâneas. - Entre os apoios ou suas fundações e os cabos de telecomunicação subterrâneos observar-se-á a distância horizontal mínima de 5 m.
 
 Comentário. - Recomenda-se manter o maior afastamento possível entre os apoios ou suas fundações e os cabos de telecomunicação subterrâneos, a fim de evitar que as correntes, provenientes de defeitos ou de descargas atmosféricas nas linhas e circulando através dos apoios para a terra, possam causar danos aos cabos de telecomunicação, os quais são tanto mais de recear quanto maior for a resistividade do terreno.
 
 11 - Travessias, cruzamentos e vizinhanças nas linhas subterrâneas
 
-###### Art. 168.º Travessias de estradas nacionais ou municipais. - Nas travessias subterrâneas de estradas nacionais ou municipais, os cabos enterrados serão enfiados em condutas à profundidade mínima de 1 m.
+Art. 168.º Travessias de estradas nacionais ou municipais. - Nas travessias subterrâneas de estradas nacionais ou municipais, os cabos enterrados serão enfiados em condutas à profundidade mínima de 1 m.
 
 § único. As condutas deverão ser resistentes e duráveis, tanto no que respeita aos elementos constituintes como às suas ligações, impedir a entrada de detritos e ter diâmetro que permita fácil enfiamento ou desenfiamento dos cabos sem danificação dos pavimentos.
 
 Comentário. - Recomenda-se o emprego de condutas de grés, betão ou ferro.
 
-###### Art. 169.º Travessias de cursos de água. - Na instalação de cabos no leito dos cursos de água deverão empregar-se cabos apropriados, dispostos de modo a não perturbar a circulação de embarcações, nem pôr em perigo a segurança das pessoas que utilizem os barcos ou transitem nas margens.
+Art. 169.º Travessias de cursos de água. - Na instalação de cabos no leito dos cursos de água deverão empregar-se cabos apropriados, dispostos de modo a não perturbar a circulação de embarcações, nem pôr em perigo a segurança das pessoas que utilizem os barcos ou transitem nas margens.
 
-###### Art. 170.º Travessias e cruzamentos de caminhos de ferro. - As travessias e cruzamentos subterrâneos de caminhos de ferro efectuar-se-ão, tanto quanto possível, normalmente à via férrea e a uma profundidade igual ou superior a 1,30 m, em relação à face inferior da travessa, devendo o local da travessia ou cruzamento ser referenciado e os cabos passar dentro de condutas que satisfaçam ao disposto no § único do artigo 168.º ou em canais cobertos e revestidos por forma a não comprometer a solidez da plataforma e a não constituir um obstáculo aos trabalhos de conservação da via férrea.
+Art. 170.º Travessias e cruzamentos de caminhos de ferro. - As travessias e cruzamentos subterrâneos de caminhos de ferro efectuar-se-ão, tanto quanto possível, normalmente à via férrea e a uma profundidade igual ou superior a 1,30 m, em relação à face inferior da travessa, devendo o local da travessia ou cruzamento ser referenciado e os cabos passar dentro de condutas que satisfaçam ao disposto no § único do artigo 168.º ou em canais cobertos e revestidos por forma a não comprometer a solidez da plataforma e a não constituir um obstáculo aos trabalhos de conservação da via férrea.
 
 § único. Do disposto no corpo do artigo exceptuam-se as travessias e cruzamentos em que os cabos estejam enterrados em pavimentos sob pontes e viadutos do caminho de ferro ou pavimentos de pontes e viadutos que passem superiormente.
 
 Comentário. - Recomenda-se efectuar as travessias e cruzamentos nos locais onde tenha menor largura a zona do caminho de ferro e evitá-los entre agulhas de estação.
 
-###### Art. 171.º Cruzamentos e vizinhanças de cabos de energia. - Nos cruzamentos e vizinhanças de cabos subterrâneos de alta tensão com outros cabos subterrâneos de alta ou baixa tensão, se for inferior a 0,25 m a distância entre eles, deverão os cabos ficar separados por tubos, condutas ou divisórias, robustos e constituídos por materiais incombustíveis e de fusão difícil.
+Art. 171.º Cruzamentos e vizinhanças de cabos de energia. - Nos cruzamentos e vizinhanças de cabos subterrâneos de alta tensão com outros cabos subterrâneos de alta ou baixa tensão, se for inferior a 0,25 m a distância entre eles, deverão os cabos ficar separados por tubos, condutas ou divisórias, robustos e constituídos por materiais incombustíveis e de fusão difícil.
 
 Comentário. - Recomenda-se que os cabos de alta tensão ocupem posição inferior, se ficarem a uma distância horizontal dos de baixa tensão menor que 0,25 m.
 
-###### Art. 172.º Cruzamentos e vizinhanças com linhas subterrâneas de telecomunicação. - Nos cruzamentos e vizinhanças de cabos subterrâneos de alta tensão com cabos subterrâneos de telecomunicação observar-se-á o seguinte:
+Art. 172.º Cruzamentos e vizinhanças com linhas subterrâneas de telecomunicação. - Nos cruzamentos e vizinhanças de cabos subterrâneos de alta tensão com cabos subterrâneos de telecomunicação observar-se-á o seguinte:
 
 a) Nos cruzamentos, a distância mínima entre os cabos de alta tensão e os de telecomunicação deverá ser de 0,20 m;
 
@@ -1356,7 +1427,7 @@ Colocar, nos cruzamentos, por cima do cabo de telecomunicação, se o de alta te
 
 Manter, nas vizinhanças, a distância mínima horizontal de 0,40m entre o cabo de alta tensão e o de telecomunicação.
 
-###### Art. 173.º Vizinhanças de canalizações de água, gás e esgoto. - Nas vizinhanças de cabos de alta tensão com canalizações de gás, água e esgoto observar-se-á o seguinte:
+Art. 173.º Vizinhanças de canalizações de água, gás e esgoto. - Nas vizinhanças de cabos de alta tensão com canalizações de gás, água e esgoto observar-se-á o seguinte:
 
 a) Os cabos não deverão ficar a uma distância das canalizações inferior a 0,20 m;
 
@@ -1366,7 +1437,7 @@ b) Se, por motivos especiais, devidamente comprovados, a distância prevista na 
 
 12 - Interferências nas linhas de telecomunicação
 
-###### Art. 174.º Aproximações e paralelismos com linhas de telecomunicação. - Nas aproximações e nos paralelismos, as linhas de alta tensão deverão distanciar-se das de telecomunicação o suficiente para evitar que a indução electromagnética constitua perigo para as pessoas ou introduza perturbação prejudicial nas telecomunicações.
+Art. 174.º Aproximações e paralelismos com linhas de telecomunicação. - Nas aproximações e nos paralelismos, as linhas de alta tensão deverão distanciar-se das de telecomunicação o suficiente para evitar que a indução electromagnética constitua perigo para as pessoas ou introduza perturbação prejudicial nas telecomunicações.
 
 § único. O disposto no corpo do artigo não se aplicará às aproximações e paralelismos com linhas de telecomunicação adstritas à exploração de instalações eléctricas quando dotadas de equipamentos terminais que impeçam o aparecimento de tensões perigosas nos aparelhos a elas ligados, devendo, em tais casos, as linhas de telecomunicação ser consideradas linhas de alta tensão.
 
@@ -1374,69 +1445,69 @@ Comentário. - No projecto de linhas de alta tensão deve atender-se ao perigo e
 
 Não é possível fixar regras simples e práticas cuja aplicação nos projectos assegure imediatamente que ficam eliminados os riscos de perigo e perturbação. As condições de coexistência de uma linha de telecomunicação existente e de uma linha de alta tensão projectada só poderão, pois, em rigor, ser determinadas pelo cálculo. Enquanto não existir um regulamento de interferências, recomenda-se utilizar os métodos de cálculo e respeitar os limites admissíveis indicados nas «Directrizes sobre a protecção de linhas de telecomunicação contra os efeitos prejudiciais das linhas de energia», redigidas pelo Comité Consultivo Internacional Telegráfico e Telefónico (C. C. I. T. T.) em colaboração com a União Internacional dos Produtores e Distribuidores de Energia Eléctrica (U. N. I. P. E. D. E.), a Conferência Internacional das Grandes Redes Eléctricas (C. I. G. R. E.) e a União Internacional dos Caminhos de Ferro (U. I. C.).
 
-Para as linhas aéreas, como indicação de ordem genérica válida para a grande maioria dos casos, pode aceitar-se que um afastamento mínimo, entre linhas, de 2 [([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf), em que U é a tensão nominal, em volts, da linha de alta tensão, torna pràticamente nula a possibilidade de se verificarem interferências prejudiciais.
+Para as linhas aéreas, como indicação de ordem genérica válida para a grande maioria dos casos, pode aceitar-se que um afastamento mínimo, entre linhas, de 2 [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf), em que U é a tensão nominal, em volts, da linha de alta tensão, torna pràticamente nula a possibilidade de se verificarem interferências prejudiciais.
 
 13 - Linhas nas povoações e na proximidade de edifícios, locais frequentados por pessoas e locais sujeitos a perigo de incêndio e explosão
 
-###### Art. 175.º Linhas aéreas nas povoações. - No estabelecimento de linhas aéreas por cima de edifícios isolados ou fazendo parte de aglomerados populacionais ou industriais, ou por cima de arruamentos no interior de povoações, deverá observar-se o disposto nos artigos 128.º a 130.º
+Art. 175.º Linhas aéreas nas povoações. - No estabelecimento de linhas aéreas por cima de edifícios isolados ou fazendo parte de aglomerados populacionais ou industriais, ou por cima de arruamentos no interior de povoações, deverá observar-se o disposto nos artigos 128.º a 130.º
 
 § único. O disposto no corpo do artigo não será aplicável no caso de as linhas passarem por cima de edifícios isolados pouco importantes e não especificadamente destinados a habitação.
 
 Comentário. - Recomenda-se reduzir ao mínimo indispensável o estabelecimento de linhas aéreas nas povoações ou por cima de edifícios não exclusivamente adstritos ao serviço de exploração de instalações eléctricas.
 
-###### Art. 176.º Apoios fixados a edifícios. - Os apoios das linhas não poderão ser fixados a edifícios que não estejam exclusivamente adstritos ao serviço de exploração de instalações eléctricas.
+Art. 176.º Apoios fixados a edifícios. - Os apoios das linhas não poderão ser fixados a edifícios que não estejam exclusivamente adstritos ao serviço de exploração de instalações eléctricas.
 
 § único. Os apoios das linhas de 1.ª e 2.ª classe poderão fixar-se a edifícios de carácter industrial com o consentimento da entidade proprietária.
 
-###### Art. 177.º Apoios de ângulo na proximidade de edifícios, vias públicas ou locais frequentados pelo público. - Quando na proximidade de um apoio de ângulo haja edifícios industriais ou destinados a habitação, vias públicas ou quaisquer locais frequentados pelo público, cuja segurança possa ser posta em perigo pelo desprendimento dos condutores dos isoladores ou pela rotura destes, deverá, na fixação destes condutores aos isoladores do referido apoio, aplicar-se o disposto-nos artigos 129.º e 130.º
+Art. 177.º Apoios de ângulo na proximidade de edifícios, vias públicas ou locais frequentados pelo público. - Quando na proximidade de um apoio de ângulo haja edifícios industriais ou destinados a habitação, vias públicas ou quaisquer locais frequentados pelo público, cuja segurança possa ser posta em perigo pelo desprendimento dos condutores dos isoladores ou pela rotura destes, deverá, na fixação destes condutores aos isoladores do referido apoio, aplicar-se o disposto-nos artigos 129.º e 130.º
 
-###### Art. 178.º Linhas aéreas sobre recintos escolares e campos de desporto. - O estabelecimento de linhas aéreas sobre recintos escolares e campos de desporto não será permitido.
+Art. 178.º Linhas aéreas sobre recintos escolares e campos de desporto. - O estabelecimento de linhas aéreas sobre recintos escolares e campos de desporto não será permitido.
 
 § único. A fiscalização do Governo poderá permitir o estabelecimento de linhas aéreas por cima de campos de desporto de importância secundária desde que despesas inerentes ou dificuldades técnicas o tornem aconselhável, tomando-se, porém, as convenientes medidas de segurança.
 
-###### Art. 179.º Linhas aéreas na proximidade de aeródromos e de instalações de apoio à navegação aérea. - O estabelecimento de linhas aéreas na proximidade de aeródromos e de instalações de apoio à navegação aérea deverá obedecer às disposições oficiais aplicáveis.
+Art. 179.º Linhas aéreas na proximidade de aeródromos e de instalações de apoio à navegação aérea. - O estabelecimento de linhas aéreas na proximidade de aeródromos e de instalações de apoio à navegação aérea deverá obedecer às disposições oficiais aplicáveis.
 
-###### Art. 180.º Linhas subterrâneas nas povoações. - Nas povoações, os cabos subterrâneos serão estabelecidos ao longo dos arruamentos e sempre que possível nos passeios, devendo nas travessias obedecer ao disposto no artigo 168.º
+Art. 180.º Linhas subterrâneas nas povoações. - Nas povoações, os cabos subterrâneos serão estabelecidos ao longo dos arruamentos e sempre que possível nos passeios, devendo nas travessias obedecer ao disposto no artigo 168.º
 
-###### Art. 181.º Linhas na proximidade de locais sujeitos a perigo de incêndio e explosão. - Em locais sujeitos a perigo de incêndio e explosão e na proximidade desses locais até 40 m de distância não será permitido o estabelecimento de linhas aéreas.
+Art. 181.º Linhas na proximidade de locais sujeitos a perigo de incêndio e explosão. - Em locais sujeitos a perigo de incêndio e explosão e na proximidade desses locais até 40 m de distância não será permitido o estabelecimento de linhas aéreas.
 
 14 - Aparelhos intercalados nas linhas
 
-###### Art. 182.º Inacessibilidade dos aparelhos intercalados nas linhas. - Os elementos sob tensão dos aparelhos intercalados nas linhas não revestidos por isolamento apropriado, ou não resguardados, deverão ser inacessíveis sem meios especiais.
+Art. 182.º Inacessibilidade dos aparelhos intercalados nas linhas. - Os elementos sob tensão dos aparelhos intercalados nas linhas não revestidos por isolamento apropriado, ou não resguardados, deverão ser inacessíveis sem meios especiais.
 
-###### Art. 183.º Seccionadores. - Os seccionadores serão de corte simultâneo, em todas as fases e deverão ser instalados de forma que, na posição de abertura, a acção do peso próprio das facas e dos comandos não se exerça no sentido do fecho ou ser munidos de dispositivo mecânico que impeça o seu fecho intempestivo.
+Art. 183.º Seccionadores. - Os seccionadores serão de corte simultâneo, em todas as fases e deverão ser instalados de forma que, na posição de abertura, a acção do peso próprio das facas e dos comandos não se exerça no sentido do fecho ou ser munidos de dispositivo mecânico que impeça o seu fecho intempestivo.
 
 Comentários. - 1. Recomenda-se que os seccionadores sejam instalados de modo que, na posição de abertura, as facas não fiquem sob tensão.
 
 2. Recomenda-se a instalação de dispositivos de seccionamento nas derivações, tanto de linhas aéreas como de linhas subterrâneas, sempre que a importância da linha principal ou da linha derivada o justifique.
 
-###### Art. 184.º Manobra de seccionadores e de interruptores. - O comando de seccionadores e de interruptores deverá ser manobrável do solo e ser mantido, sob chave, quer com os aparelhos na posição «Ligado», quer na posição «Desligado», a fim de evitar manobras intempestivas.
+Art. 184.º Manobra de seccionadores e de interruptores. - O comando de seccionadores e de interruptores deverá ser manobrável do solo e ser mantido, sob chave, quer com os aparelhos na posição «Ligado», quer na posição «Desligado», a fim de evitar manobras intempestivas.
 
 § único. O comando de seccionadores e interruptores deverá ter, bem visíveis, as indicações «Ligado», sobre fundo vermelho, e «Desligado», sobre fundo verde, nas respectivas posições, podendo estas, quando as referidas indicações não forem fàcilmente realizáveis, ser identificadas, respectivamente, pelos sinais I, sobre fundo vermelho, e O, sobre fundo verde.
 
 15 - Terras
 
-###### Art. 185.º Ligação à terra dos apoios metálicos e de betão armado. - Os apoios metálicos e de betão armado deverão ser individualmente ligados à terra.
+Art. 185.º Ligação à terra dos apoios metálicos e de betão armado. - Os apoios metálicos e de betão armado deverão ser individualmente ligados à terra.
 
 § 1.º A ligação individual à terra dos apoios metálicos implantados directamente no solo será dispensada quando apresentarem uma resistência de terra não superior a 20 (Ómega) e não houver instalados neles interruptores ou seccionadores.
 
 § 2.º Os suportes metálicos dos isoladores dos apoios de betão armado deverão ser ligados à terra dos próprios apoios.
 
-###### Art. 186.º Ligação à terra de interruptores e de seccionadores aéreos. - A estrutura metálica dos interruptores e dos seccionadores estabelecidos em apoios metálicos ou de betão armado, ou em apoios de madeira com ligação metálica entre os suportes dos isoladores e a terra, deverá ser ligada à terra dos apoios ou dos suportes dos isoladores.
+Art. 186.º Ligação à terra de interruptores e de seccionadores aéreos. - A estrutura metálica dos interruptores e dos seccionadores estabelecidos em apoios metálicos ou de betão armado, ou em apoios de madeira com ligação metálica entre os suportes dos isoladores e a terra, deverá ser ligada à terra dos apoios ou dos suportes dos isoladores.
 
 § único. No de interruptores ou de seccionadores estabelecidos em apoios de madeira que não possuam ligação metálica entre os suportes dos isoladores, e a terra, a respectiva estrutura metálica ou não será ligada à terra ou sê-lo-á num dos apoios próximos. No mecanismo de comando do interruptor ou do seccionador deverão instalar-se isoladores dotados de resistência mecânica suficiente e que suportem, sob chuva, uma tensão de ensaio de isolamento, à frequência industrial, igual à tensão nominal da linha, devendo a parte situada abaixo desses isoladores ser ligada à terra na base do apoio.
 
 Comentário. - Recomenda-se que a terra efectuada na base dos apoios que suportem interruptores ou seccionadores aéreos e à qual se liga a estrutura metálica destes ou apenas o seu mecanismo de comando seja constituída por eléctrodos de fita em ziguezague ou por uma rede metálica, por forma a obter-se uma zona equipotencial suficientemente extensa para sobre ela o pessoal poder manobrar em segurança.
 
-###### Art. 187.º Ligação à terra das bainhas metálicas dos cabos e das caixas fim de cabo estabelecidas em apoios. - As bainhas metálicas dos cabos, quando existam, e as caixas fim de cabo estabelecidas em apoios deverão ser ligadas à terra que será a do próprio apoio, se existir.
+Art. 187.º Ligação à terra das bainhas metálicas dos cabos e das caixas fim de cabo estabelecidas em apoios. - As bainhas metálicas dos cabos, quando existam, e as caixas fim de cabo estabelecidas em apoios deverão ser ligadas à terra que será a do próprio apoio, se existir.
 
-###### Art. 188.º Características dos condutores de terra. - Os condutores de terra deverão ser de material durável, de boa condutibilidade eléctrica, amplamente dimensionados para as correntes de terra previstas e a sua secção deverá ser proporcionada a essas correntes sem descer, no entanto, abaixo do limite mínimo considerado indispensável para garantir duradoura continuidade eléctrica, tendo em conta a deterioração mecânica e química a que estão sujeitos os condutores.
+Art. 188.º Características dos condutores de terra. - Os condutores de terra deverão ser de material durável, de boa condutibilidade eléctrica, amplamente dimensionados para as correntes de terra previstas e a sua secção deverá ser proporcionada a essas correntes sem descer, no entanto, abaixo do limite mínimo considerado indispensável para garantir duradoura continuidade eléctrica, tendo em conta a deterioração mecânica e química a que estão sujeitos os condutores.
 
-###### Art. 189.º Dimensões mínimas dos condutores de terra. - Os condutores de terra, se de cobre, não terão secção nominal inferior a 16 mm2, fora do solo, nem inferior a 35 mm2 na parte enterrada e, se de outro material, terão, pelo menos, secção elèctricamente equivalente.
+Art. 189.º Dimensões mínimas dos condutores de terra. - Os condutores de terra, se de cobre, não terão secção nominal inferior a 16 mm2, fora do solo, nem inferior a 35 mm2 na parte enterrada e, se de outro material, terão, pelo menos, secção elèctricamente equivalente.
 
-###### Art. 190.º Utilização das armaduras dos apoios de betão armado como condutores de terra. - As armaduras dos apoios de betão armado poderão ser utilizadas como condutores de terra desde que garantam uma condutância pelo menos igual à de um condutor de cobre de 16 mm2 de secção.
+Art. 190.º Utilização das armaduras dos apoios de betão armado como condutores de terra. - As armaduras dos apoios de betão armado poderão ser utilizadas como condutores de terra desde que garantam uma condutância pelo menos igual à de um condutor de cobre de 16 mm2 de secção.
 
-###### Art. 191.º Características dos eléctrodos de terra. - Os eléctrodos de terra serão de cobre, ferro zincado, ferro fundido ou outro material apropriado, sob a forma de chapas, varetas, tubos, perfilados, cabos ou fitas, com secção suficiente para resistir às acções destrutivas e as suas características deverão manter-se inalteráveis pela passagem das correntes de terra e ser prejudicadas o menos possível pelas variações climatéricas.
+Art. 191.º Características dos eléctrodos de terra. - Os eléctrodos de terra serão de cobre, ferro zincado, ferro fundido ou outro material apropriado, sob a forma de chapas, varetas, tubos, perfilados, cabos ou fitas, com secção suficiente para resistir às acções destrutivas e as suas características deverão manter-se inalteráveis pela passagem das correntes de terra e ser prejudicadas o menos possível pelas variações climatéricas.
 
 § 1.º Os eléctrodos deverão dar escoamento às correntes de terra previstas, de forma que o seu potencial e o gradiente de potencial à superfície do solo sejam os menores possíveis.
 
@@ -1446,7 +1517,7 @@ Comentários. - 1. Recomenda-se para resistência de terra dos eléctrodos um va
 
 2. Para reduzir o perigo provocado pelas tensões de passo e de contacto procurar-se-á evitar que elas tomem valores elevados. Na prática, os métodos utilizados neste sentido baseiam-se no conhecimento de que, em solo homogéneo, o gradiente de potencial diminui com o quadrado da distância ao eléctrodo; o valor máximo verifica-se, portanto, na proximidade imediata deste e é inversamente proporcional ao quadrado das suas dimensões lineares. Deste modo, conclui-se que o método mais eficaz de evitar o aparecimento de elevadas tensões de passo e de contacto está na utilização de eléctrodos extensos. No caso em que só seja de considerar a tensão de passo, esta poderá ser consideràvelmente reduzida enterrando profundamente o eléctrodo e isolando o condutor de terra até emergir do solo.
 
-###### Art. 192.º Implantação dos eléctrodos de terra. - As chapas, varetas, tubos e perfilados deverão ficar enterrados verticalmente no solo, a uma profundidade tal que entre a superfície do solo e o eléctrodo haja uma distância mínima de 0,80 m. A profundidade para os cabos ou fitas não será inferior a 0,60 m.
+Art. 192.º Implantação dos eléctrodos de terra. - As chapas, varetas, tubos e perfilados deverão ficar enterrados verticalmente no solo, a uma profundidade tal que entre a superfície do solo e o eléctrodo haja uma distância mínima de 0,80 m. A profundidade para os cabos ou fitas não será inferior a 0,60 m.
 
 § único. Os eléctrodos do mesmo tipo ou de tipos diferentes poderão associar-se convenientemente afastados uns dos outros.
 
@@ -1454,7 +1525,7 @@ Comentários. - 1. A associação de eléctrodos visa a obter baixas resistênci
 
 2. Na escolha do tipo de eléctrodo recomenda-se ter em conta as condições do terreno onde o mesmo será implantado.
 
-###### Art. 193.º Dimensões mínimas dos eléctrodos de terra. - As dimensões mínimas dos eléctrodos de terra serão as seguintes:
+Art. 193.º Dimensões mínimas dos eléctrodos de terra. - As dimensões mínimas dos eléctrodos de terra serão as seguintes:
 
 a) Chapas - espessura de 2 mm, se de cobre, e de 3 mm, se de ferro;
 
@@ -1470,21 +1541,21 @@ f) Fitas - secção de 90 mm2 e espessura de 3 mm, se de cobre, e de 150 mm2 e 5
 
 16 - Linhas provisórias
 
-###### Art. 194.º Condições gerais de estabelecimento. - As linhas provisórias deverão satisfazer ao presente regulamento, permitindo-se, no entanto, variantes desde que não se relacionem com contactos acidentais e perigosos, travessias, cruzamentos, vizinhanças, aproximações, paralelismos e ligações à terra e sejam prèviamente autorizadas pela fiscalização do Governo.
+Art. 194.º Condições gerais de estabelecimento. - As linhas provisórias deverão satisfazer ao presente regulamento, permitindo-se, no entanto, variantes desde que não se relacionem com contactos acidentais e perigosos, travessias, cruzamentos, vizinhanças, aproximações, paralelismos e ligações à terra e sejam prèviamente autorizadas pela fiscalização do Governo.
 
-###### Art. 195.º Duração. - A duração das linhas provisórias será reduzida ao estritamente necessário, não devendo exceder cinco anos.
+Art. 195.º Duração. - A duração das linhas provisórias será reduzida ao estritamente necessário, não devendo exceder cinco anos.
 
 17 - Estabelecimento, exploração e conservação das linhas
 
-###### Art. 196.º Trabalhos nas linhas. - Os trabalhos de estabelecimento, reparação ou conservação das linhas serão executados de modo a procurar eliminar todo o perigo previsível para as pessoas.
+Art. 196.º Trabalhos nas linhas. - Os trabalhos de estabelecimento, reparação ou conservação das linhas serão executados de modo a procurar eliminar todo o perigo previsível para as pessoas.
 
-###### Art. 197.º Trabalhos em linhas aéreas na proximidade de outras linhas aéreas. - Nos trabalhos a realizar em linhas aéreas na proximidade de outras linhas aéreas deverão tomar-se as indispensáveis precauções para impedir que os operários possam aproximar-se perigosamente destas linhas e que apareçam na linha onde se realizam esses trabalhos tensões perigosas provenientes de contactos ou de indução.
+Art. 197.º Trabalhos em linhas aéreas na proximidade de outras linhas aéreas. - Nos trabalhos a realizar em linhas aéreas na proximidade de outras linhas aéreas deverão tomar-se as indispensáveis precauções para impedir que os operários possam aproximar-se perigosamente destas linhas e que apareçam na linha onde se realizam esses trabalhos tensões perigosas provenientes de contactos ou de indução.
 
 § único. Os trabalhos a realizar em linhas aéreas na proximidade de outras linhas aéreas, quando não for exequível o disposto no corpo do artigo, deverão ser também considerados trabalhos nas linhas próximas, aplicando-se a estas o artigo 199.º
 
-###### Art. 198.º Trabalhos de estabelecimento de linhas aéreas. - Durante os trabalhos de estabelecimento de linhas aéreas que, pela proximidade com outras linhas aéreas, possam ficar em tensão, devido a eventuais contactos ou a indução, deverão os condutores e cabos de guarda do troço já instalado da linha em montagem ser ligados à terra e em curto circuito, sempre que o referido troço possa transmitir tensão ao local dos trabalhos.
+Art. 198.º Trabalhos de estabelecimento de linhas aéreas. - Durante os trabalhos de estabelecimento de linhas aéreas que, pela proximidade com outras linhas aéreas, possam ficar em tensão, devido a eventuais contactos ou a indução, deverão os condutores e cabos de guarda do troço já instalado da linha em montagem ser ligados à terra e em curto circuito, sempre que o referido troço possa transmitir tensão ao local dos trabalhos.
 
-###### Art. 199.º Trabalhos em linhas estabelecidas. - Os trabalhos em linhas estabelecidas, tanto aéreas como subterrâneas, serão executados, normalmente, sem tensão, devendo, neste caso, seccionar-se de todos os lados as linhas ou troços de linhas.
+Art. 199.º Trabalhos em linhas estabelecidas. - Os trabalhos em linhas estabelecidas, tanto aéreas como subterrâneas, serão executados, normalmente, sem tensão, devendo, neste caso, seccionar-se de todos os lados as linhas ou troços de linhas.
 
 § 1.º Quando os seccionadores ou interruptores, por meio dos quais se eliminou a tensão, estiverem instalados em recintos vedados, afixar-se-ão, junto dos respectivos comandos, placas ou letreiros de aviso que se manterão até ao fim dos trabalhos.
 
@@ -1514,7 +1585,7 @@ Comentários. - 1. Com o disposto no corpo do artigo pretende-se dizer que o loc
 
 A falta de tensão poderá resultar de um acidente imprevisto e, portanto, não deve, só por si, servir de indicação para iniciar os trabalhos.
 
-###### Art. 200.º Trabalhos sob tensão. - Serão admitidos trabalhos sob tensão nas linhas desde que se cumpram as regras e condições de segurança que a técnica impuser para evitar que corram perigo as pessoas encarregadas de os executar.
+Art. 200.º Trabalhos sob tensão. - Serão admitidos trabalhos sob tensão nas linhas desde que se cumpram as regras e condições de segurança que a técnica impuser para evitar que corram perigo as pessoas encarregadas de os executar.
 
 § 1.º Os trabalhos sob tensão só poderão ser efectuados por pessoas especialmente deles encarregadas e conhecedoras do perigo possível e na presença de uma pessoa expressamente incumbida de os fiscalizar.
 
@@ -1530,7 +1601,7 @@ Para linhas de 3.ª classe, 3 m.
 
 Comentário. - Recomenda-se que o pessoal afecto às linhas tenha perfeito conhecimento das instruções aprovadas oficialmente para os primeiros socorros a prestar em acidentes pessoais produzidos por correntes eléctricas e pratique com regularidade os exercícios de respiração artificial nelas indicados.
 
-###### Art. 201.º Inspecções periódicas. - As linhas deverão ser sujeitas a inspecções periódicas com o fim de verificar se se mantêm em boas condições de exploração.
+Art. 201.º Inspecções periódicas. - As linhas deverão ser sujeitas a inspecções periódicas com o fim de verificar se se mantêm em boas condições de exploração.
 
 Comentário. - Recomenda-se que as inspecções periódicas, no caso das linhas aéreas, incidam principalmente sobre:
 
@@ -1548,7 +1619,7 @@ f) Resistências de terra.
 
 18 - Disposição transitória
 
-###### Art. 202.º Linhas rurais. - Enquanto não for publicado o regulamento de segurança de instalações rurais deverá aplicar-se às linhas rurais o disposto no artigo 194.º
+Art. 202.º Linhas rurais. - Enquanto não for publicado o regulamento de segurança de instalações rurais deverá aplicar-se às linhas rurais o disposto no artigo 194.º
 
 § único. Para efeitos deste artigo, entende-se por linha rural a linha destinada a alimentar uma ou mais redes de distribuição rurais.
 
@@ -1558,151 +1629,151 @@ QUADRO I
 
 Características de condutores e de cabos de guarda
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO II
 
 Zonas de gelo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO III
 
 Características de terrenos para efeito do cálculo de fundações
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO IV
 
 Intensidades máximas de corrente permanente admissíveis em condutores nus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO V
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado e bainha de chumbo envolvente, do tipo corrente, para a tensão nominal de 1 kV, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO VI
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado e bainha de chumbo envolvente, do tipo corrente, para a tensão nominal de 1 kV, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO VII
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado, com «écrans» de chumbo e com bainha de chumbo envolvente, para tensões nominais superiores a 1 kV, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO VIII
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado, com «écrans» de alumínio e com bainha de alumínio envolvente, para tensões nominais superiores a 1 kV, no caso de um único cabo, quando enterrado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO IX
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado, com «écrans» de papel metalizado e com bainha metálica envolvente (cabos do tipo H), para tensões nominais superiores a 1 kV, no caso de um único cabo, quando enterrado.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO X
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado e bainha de chumbo envolvente, no caso de três cabos não armados, de um condutor, constituindo um sistema trifásico e dispostos lado a lado, quando enterrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XI
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado e bainha de alumínio envolvente, no caso de três cabos não armados, de um condutor, constituindo um sistema trifásico e dispostos lado a lado, quando enterrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XII
 
 Correcção dos valores dos quadros V a IX no caso de vários cabos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XIII
 
 Correcção dos valores dos quadros X e XI no caso de vários conjuntos de três cabos não armados, de um condutor, constituindo sistemas trifásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XIV
 
 Correcção dos valores dos quadros V a XIII em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XV
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha de chumbo envolvente para a tensão nominal de 1 kV, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XVI
 
 Correcção dos valores do quadro XV no caso de vários cabos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XVII
 
 Correcção dos valores do quadro XV e XVI em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XVIII
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha envolvente do mesmo material do isolamento, para a tensão nominal de 1 kV, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XIX
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento e bainha envolvente de material termoplástico, para tensões nominais superiores a 1 kV, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XX
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha envolvente do mesmo material do isolamento, no caso de três cabos não armados, de um condutor, constituindo um sistema trifásico e dispostos lado a lado, quando enterrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XXI
 
 Correcção dos valores dos quadros XVIII e XIX no caso de vários cabos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XXII
 
 Correcção dos valores do quadro XX no caso de vários conjuntos de três cabos não armados, de um condutor, constituindo sistemas trifásicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XXIII
 
 Correcção dos valores dos quadros XVIII a XXII em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XXIV
 
 Cursos de água navegáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XXV
 
 Linhas de caminho de ferro electrificadas ou cuja electrificação está prevista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 Secretaria de Estado da Indústria, 27 de Janeiro de 1966. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.
 
@@ -1712,13 +1783,13 @@ REGULAMENTO DE SEGURANÇA DE REDES DE DISTRIBUIÇÃO DE ENERGIA ELECTRICA EM BAI
 
 1.1 - Objectivo
 
-###### Artigo 1.º Objectivo. - O presente regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
+Artigo 1.º Objectivo. - O presente regulamento destina-se a fixar as condições técnicas a que devem obedecer o estabelecimento e a exploração das instalações eléctricas indicadas no artigo seguinte, com vista à protecção de pessoas e coisas e à salvaguarda dos interesses colectivos.
 
 § único. Os comentários - que não constituem obrigação legal - têm por fim esclarecer as condições impostas nos artigos e seus parágrafos, indicar como devem ser verificadas ou recomendar o sentido em que convém melhorá-las.
 
 1.2 - Campo de aplicação
 
-###### Art. 2.º Campo de aplicação. - O regulamento aplica-se às redes de distribuição de energia eléctrica em baixa tensão, de corrente alternada ou de corrente contínua, as quais deverão ainda obedecer, na parte aplicável e a que não se oponha este regulamento, às demais prescrições de segurança em vigor e, bem assim, às regras da técnica.
+Art. 2.º Campo de aplicação. - O regulamento aplica-se às redes de distribuição de energia eléctrica em baixa tensão, de corrente alternada ou de corrente contínua, as quais deverão ainda obedecer, na parte aplicável e a que não se oponha este regulamento, às demais prescrições de segurança em vigor e, bem assim, às regras da técnica.
 
 § único. Para efeito da aplicação deste regulamento consideram-se:
 
@@ -1728,19 +1799,19 @@ b) O condutor médio das redes de distribuição de corrente contínua equivalen
 
 1.3 - Definições
 
-###### Art. 3.º Instalação de baixa tensão. - Instalação, ou parte de instalação, em que o valor eficaz ou constante da tensão, em regime normal de serviço, não excede os valores seguintes:
+Art. 3.º Instalação de baixa tensão. - Instalação, ou parte de instalação, em que o valor eficaz ou constante da tensão, em regime normal de serviço, não excede os valores seguintes:
 
 a) 250 V entre qualquer condutor e a terra, se a instalação tiver ponto neutro ou ponto médio à terra;
 
 b) 500 V entre dois quaisquer condutores, se a instalação não tiver ponto neutro ou ponto médio à terra.
 
-###### Art. 4.º Rede de distribuição de energia eléctrica em baixa tensão ou, simplesmente, rede de distribuição. - Instalação de baixa tensão destinada à transmissão de energia eléctrica até às portinholas, constituída por canalizações principais - de transporte ou de distribuição -, ramais, troços comuns de chegadas e chegadas.
+Art. 4.º Rede de distribuição de energia eléctrica em baixa tensão ou, simplesmente, rede de distribuição. - Instalação de baixa tensão destinada à transmissão de energia eléctrica até às portinholas, constituída por canalizações principais - de transporte ou de distribuição -, ramais, troços comuns de chegadas e chegadas.
 
-###### Art. 5.º Ramal. - Canalização eléctrica, sem qualquer derivação, que parte de um posto de transformação, central ou canalização principal e termina onde começam uma ou mais chegadas ou troços comuns de chegadas, ou numa portinhola.
+Art. 5.º Ramal. - Canalização eléctrica, sem qualquer derivação, que parte de um posto de transformação, central ou canalização principal e termina onde começam uma ou mais chegadas ou troços comuns de chegadas, ou numa portinhola.
 
-###### Art. 6.º Troço comum de chegadas. - Canalização eléctrica estabelecida, sem atravessar a via pública, ao longo de edifícios, paredes ou muros, e que serve diversas chegadas.
+Art. 6.º Troço comum de chegadas. - Canalização eléctrica estabelecida, sem atravessar a via pública, ao longo de edifícios, paredes ou muros, e que serve diversas chegadas.
 
-###### Art. 7.º Chegada. - Canalização eléctrica estabelecida, sem atravessar a via pública, ao longo de edifícios, paredes ou muros, que deriva de uma canalização principal, ramal ou troço comum de chegadas e termina numa portinhola.
+Art. 7.º Chegada. - Canalização eléctrica estabelecida, sem atravessar a via pública, ao longo de edifícios, paredes ou muros, que deriva de uma canalização principal, ramal ou troço comum de chegadas e termina numa portinhola.
 
 Comentário. - As chegadas e troços comuns de chegadas não atravessam a via pública, ao contrário do que pode acontecer com as canalizações principais e ramais.
 
@@ -1766,47 +1837,47 @@ Para ligar a portinhola P(índice 4) o distribuidor poderia, porém, optar pelo 
 
 Da Fig. 1 à Fig. 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
-###### Art. 8.º Portinhola. - Caixa que contém os órgãos de seccionamento e protecção de máximo de intensidade e eventualmente, interruptor e onde finda o ramal ou a chegada dos quais faz parte.
+Art. 8.º Portinhola. - Caixa que contém os órgãos de seccionamento e protecção de máximo de intensidade e eventualmente, interruptor e onde finda o ramal ou a chegada dos quais faz parte.
 
-###### Art. 9.º Linha de telecomunicação. - Canalização eléctrica destinada exclusivamente à transmissão telegráfica, telefónica ou outras de natureza semelhante.
+Art. 9.º Linha de telecomunicação. - Canalização eléctrica destinada exclusivamente à transmissão telegráfica, telefónica ou outras de natureza semelhante.
 
-###### Art. 10.º Travessia. - Há travessia quando os traçados de canalizações eléctricas interceptam os de vias públicas ou particulares.
+Art. 10.º Travessia. - Há travessia quando os traçados de canalizações eléctricas interceptam os de vias públicas ou particulares.
 
-###### Art. 11.º Cruzamento. - Há cruzamento quando as projecções horizontais de canalizações eléctricas diferentes se interceptam.
+Art. 11.º Cruzamento. - Há cruzamento quando as projecções horizontais de canalizações eléctricas diferentes se interceptam.
 
-###### Art. 12.º Vizinhança. - Há vizinhança:
+Art. 12.º Vizinhança. - Há vizinhança:
 
 a) De uma canalização eléctrica aérea com outra canalização eléctrica aérea, de energia ou de telecomunicação, ou com uma via pública ou particular, quando a primeira se situa, sem cruzamento ou travessia, de modo que qualquer dos seus elementos, por rotura ou queda, cedência ou derrubamento, as possa atingir;
 
 b) De uma canalização eléctrica subterrânea com outra canalização subterrânea, eléctrica ou não, quando, pela proximidade, mas sem cruzamento no caso de canalizações eléctricas, possa perigar a segurança de qualquer delas.
 
-###### Art. 13.º Zona da estrada. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior das valetas, passeios ou banquetas.
+Art. 13.º Zona da estrada. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior das valetas, passeios ou banquetas.
 
 Comentário. - A definição de zona da estrada é a que consta do Estatuto das Estradas Nacionais, aprovado pela [Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949.
 
-###### Art. 14.º Zona do caminho de ferro. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior dos fossos ou valetas, ou, na falta destas referências, pela linha traçada a 1,50 m da aresta exterior dos carris externos da via férrea.
+Art. 14.º Zona do caminho de ferro. - Zona de terreno limitada pela intersecção do terreno natural com os planos dos taludes ou, nos lanços de nível, pela aresta exterior dos fossos ou valetas, ou, na falta destas referências, pela linha traçada a 1,50 m da aresta exterior dos carris externos da via férrea.
 
 Comentário. - A definição de zona do caminho de ferro está de acordo com o prescrito no [Decreto-Lei n.º 39780](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39780-1954-638760), de 21 de Agosto de 1954.
 
-###### Art. 15.º Terra. - Massa condutora da Terra.
+Art. 15.º Terra. - Massa condutora da Terra.
 
-###### Art. 16.º Ligação à terra. - Ligação permanente com a terra, realizada por condutores de terra e eléctrodos de terra.
+Art. 16.º Ligação à terra. - Ligação permanente com a terra, realizada por condutores de terra e eléctrodos de terra.
 
-###### Art. 17.º Condutor de terra. - Condutor destinado a ligar parte de uma instalação ou um aparelho com o eléctrodo de terra.
+Art. 17.º Condutor de terra. - Condutor destinado a ligar parte de uma instalação ou um aparelho com o eléctrodo de terra.
 
-###### Art. 18.º Eléctrodo de terra. - Condutor ou conjunto de condutores enterrados destinados a estabelecer bom contacto com a terra.
+Art. 18.º Eléctrodo de terra. - Condutor ou conjunto de condutores enterrados destinados a estabelecer bom contacto com a terra.
 
-###### Art. 19.º Circuito de terra. - Conjunto dos condutores de terra e respectivo eléctrodo de terra.
+Art. 19.º Circuito de terra. - Conjunto dos condutores de terra e respectivo eléctrodo de terra.
 
-###### Art. 20.º Resistência de terra. - Resistência eléctrica entre o eléctrodo de terra e a terra.
+Art. 20.º Resistência de terra. - Resistência eléctrica entre o eléctrodo de terra e a terra.
 
 Comentários. - 1. A resistência de terra de um eléctrodo de terra X, que é constituída, pràticamente, pela resistência de contacto e pela das camadas de terreno que ficam na proximidade do eléctrodo e nas quais a existência de uma densidade de corrente elevada provoca quedas de tensão sensíveis, poderá medir-se (fig. 4) fazendo circular entre X e um eléctrodo de terra auxiliar A (eléctrodo auxiliar de corrente) uma corrente I(índice XA) e medindo a tensão V(índice XB) entre X e outro eléctrodo auxiliar B (eléctrodo auxiliar de tensão).
 
 Fig. 4
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 O quociente V(índice XB)/I(índice XA), quando os eléctrodos estiverem suficientemente afastados uns dos outros, toma um valor limite que é a resistência de terra do eléctrodo X.
 
@@ -1816,15 +1887,15 @@ O quociente V(índice XB)/I(índice XA), quando os eléctrodos estiverem suficie
 
 4. A medição é geralmente feita por intermédio de aparelhos de leitura directa baseados no princípio exposto.
 
-###### Art. 21.º Zona de influência de uma terra. - Área dentro da qual o potencial do solo sofre uma variação superior a 5 por cento da que experimenta o eléctrodo de terra respectivo, quando percorrido por uma corrente eléctrica.
+Art. 21.º Zona de influência de uma terra. - Área dentro da qual o potencial do solo sofre uma variação superior a 5 por cento da que experimenta o eléctrodo de terra respectivo, quando percorrido por uma corrente eléctrica.
 
 Comentário. - Num solo homogéneo pode dizer-se que o potencial varia sensìvelmente na razão inversa da distância ao eléctrodo de terra e na razão directa das dimensões lineares deste; no caso concreto de um eléctrodo hemisférico, como X da fig. 4, é v = V(índice o) x (r/l).
 
 Portanto, os eléctrodos extensos (redes de cabos, eléctrodos de grandes subestações, etc.) originarão grandes zonas de influência.
 
-###### Art. 22.º Sistema «terra pelo neutro». - Sistema de protecção contra tensões de contacto que acidentalmente possam surgir nas partes metálicas, normalmente sem tensão, de aparelhos eléctricos de utilização, consistindo na ligação eléctrica dessas partes metálicas ao neutro da rede de distribuição.
+Art. 22.º Sistema «terra pelo neutro». - Sistema de protecção contra tensões de contacto que acidentalmente possam surgir nas partes metálicas, normalmente sem tensão, de aparelhos eléctricos de utilização, consistindo na ligação eléctrica dessas partes metálicas ao neutro da rede de distribuição.
 
-###### Art. 23.º Instalação provisória. - Instalação, ou parte de instalação, destinada a ser utilizada por tempo limitado, no fim do qual é desmontada, removida ou substituída por outra definitiva.
+Art. 23.º Instalação provisória. - Instalação, ou parte de instalação, destinada a ser utilizada por tempo limitado, no fim do qual é desmontada, removida ou substituída por outra definitiva.
 
 Comentário. - São exemplos típicos de instalações provisórias:
 
@@ -1838,7 +1909,7 @@ d) Instalações estabelecidas com carácter transitório, pela conveniência ou
 
 1.4 - Disposições gerais
 
-###### Art. 24.º Condições gerais de estabelecimento das redes de distribuição. - As redes de distribuição serão estabelecidas de modo a eliminar todo o perigo previsível para as pessoas e a acautelar de danos os bens materiais, não devendo perturbar a livre e regular circulação nas vias públicas ou particulares, nem afectar a segurança do caminho de ferro, prejudicar outras linhas de energia ou de telecomunicação, ou causar danos às canalizações de água, gás ou outras.
+Art. 24.º Condições gerais de estabelecimento das redes de distribuição. - As redes de distribuição serão estabelecidas de modo a eliminar todo o perigo previsível para as pessoas e a acautelar de danos os bens materiais, não devendo perturbar a livre e regular circulação nas vias públicas ou particulares, nem afectar a segurança do caminho de ferro, prejudicar outras linhas de energia ou de telecomunicação, ou causar danos às canalizações de água, gás ou outras.
 
 Comentários. - 1. Normalmente as redes de distribuição em centros urbanos requererão maiores cuidados de execução, porque está envolvida a segurança de maior número de pessoas e é maior a escala e a probabilidade de prejuízos eventuais, além de que suportam melhor encargos mais elevados de 1.º estabelecimento.
 
@@ -1858,43 +1929,43 @@ b) Em estrada mais ou menos arborizada em ambas as margens, na margem em que o s
 
 c) Em estrada desarborizada, na margem de mais difícil arborização ou na que menos interesse arborizar, que normalmente é a voltada a nascente ou norte para as estradas que corram, respectivamente, nas direcções norte-sul ou nascente-poente.
 
-###### Art. 25.º Inacessibilidade dos elementos sob tensão. - Os elementos sob tensão das redes de distribuição não revestidos por isolamento apropriado, ou não resguardados, deverão ser inacessíveis sem meios especiais.
+Art. 25.º Inacessibilidade dos elementos sob tensão. - Os elementos sob tensão das redes de distribuição não revestidos por isolamento apropriado, ou não resguardados, deverão ser inacessíveis sem meios especiais.
 
-###### Art. 26.º Materiais das redes de distribuição. - Os condutores, isoladores, apoios e outros elementos das redes de distribuição, assim como os materiais que os constituem, deverão obedecer às disposições deste regulamento e ainda às normas e especificações nacionais, ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
+Art. 26.º Materiais das redes de distribuição. - Os condutores, isoladores, apoios e outros elementos das redes de distribuição, assim como os materiais que os constituem, deverão obedecer às disposições deste regulamento e ainda às normas e especificações nacionais, ou, na sua falta, às da Comissão Electrotécnica Internacional ou a outras aceites pela fiscalização do Governo.
 
 § 1.º Sob autorização prévia da fiscalização do Governo poderão empregar-se elementos e materiais que não satisfaçam ao disposto no corpo do artigo.
 
 § 2.º A fiscalização do Governo poderá exigir a realização de ensaios ou a apresentação de certificados passados ou confirmados por entidades idóneas.
 
-###### Art. 27.º Segurança mecânica. - Os condutores, apoios e outros elementos das redes de distribuição deverão ser dimensionados para resistir às solicitações actuantes previstas no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
+Art. 27.º Segurança mecânica. - Os condutores, apoios e outros elementos das redes de distribuição deverão ser dimensionados para resistir às solicitações actuantes previstas no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
 
 § 1.º Os apoios poderão ser reforçados por espias ou escoras.
 
 § 2.º A fiscalização do Governo poderá, sempre que o julgar conveniente, exigir a apresentação de cálculos justificativos de segurança mecânica, elaborados conforme o estabelecido no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
 
-###### Art. 28.º Aquecimento dos condutores. - Na determinação da secção dos condutores deverá atender-se ao aquecimento de modo que não resulte exagerado para os materiais que os constituem.
+Art. 28.º Aquecimento dos condutores. - Na determinação da secção dos condutores deverá atender-se ao aquecimento de modo que não resulte exagerado para os materiais que os constituem.
 
 § único. Enquanto não existirem normas e especificações nacionais sobre condutores, as intensidades máximas de corrente admissíveis em regime permanente serão as aceites pela fiscalização do Governo.
 
 Comentário. - Recomenda-se que se adoptem, na falta de normas e especificações nacionais, as intensidades máximas de corrente, em regime permanente, indicadas nos quadros I a XVI, anexos.
 
-###### Art. 29.º Distâncias mínimas. - As distâncias mínimas, fixadas neste regulamento, relativas a condutores aéreos serão observadas para as hipóteses de cálculo mais desfavoráveis previstas no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
+Art. 29.º Distâncias mínimas. - As distâncias mínimas, fixadas neste regulamento, relativas a condutores aéreos serão observadas para as hipóteses de cálculo mais desfavoráveis previstas no Regulamento de Segurança de Linhas Eléctricas de Alta Tensão.
 
-###### Art. 30.º Variações de tensão. - As variações de tensão em qualquer ponto da rede de distribuição não deverão ser superiores a (mais ou menos)8 por cento da tensão nominal.
+Art. 30.º Variações de tensão. - As variações de tensão em qualquer ponto da rede de distribuição não deverão ser superiores a (mais ou menos)8 por cento da tensão nominal.
 
 Comentário. - Nas redes de distribuição em centros urbanos recomenda-se que as variações de tensão não excedam (mais ou menos)5 por cento.
 
-###### Art. 31.º Respeito de outros direitos. - No estabelecimento e exploração das redes de distribuição deverá respeitar-se, na medida do possível, a estética dos edifícios, em especial quando tiverem valor histórico ou arquitectónico, e causar-lhes, bem como aos terrenos e outras propriedades afectadas, o menor dano, procurando reduzir ao mínimo as perturbações nos diversos serviços, tanto de interesse público como particular.
+Art. 31.º Respeito de outros direitos. - No estabelecimento e exploração das redes de distribuição deverá respeitar-se, na medida do possível, a estética dos edifícios, em especial quando tiverem valor histórico ou arquitectónico, e causar-lhes, bem como aos terrenos e outras propriedades afectadas, o menor dano, procurando reduzir ao mínimo as perturbações nos diversos serviços, tanto de interesse público como particular.
 
-###### Art. 32.º Acordos com outras entidades. - Quando a realização de quaisquer trabalhos possa pôr em risco a segurança do pessoal que os executa devido à proximidade de instalações eléctricas, ou pôr em perigo ou causar perturbações a essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
+Art. 32.º Acordos com outras entidades. - Quando a realização de quaisquer trabalhos possa pôr em risco a segurança do pessoal que os executa devido à proximidade de instalações eléctricas, ou pôr em perigo ou causar perturbações a essas mesmas instalações, deverão as entidades interessadas tomar, de comum acordo, as precauções convenientes.
 
 2 - Condições de estabelecimento de redes de distribuição aéreas
 
 2.1 - Condutores
 
-###### Art. 33.º Natureza dos condutores. - Os condutores das redes de distribuição poderão ser nus ou isolados, mas nas chegadas e troços comuns de chegadas só deverão ser utilizados condutores isolados.
+Art. 33.º Natureza dos condutores. - Os condutores das redes de distribuição poderão ser nus ou isolados, mas nas chegadas e troços comuns de chegadas só deverão ser utilizados condutores isolados.
 
-###### Art. 34.º Condutores nus. - Os condutores nus serão de cobre, alumínio, ou suas ligas, ou de outros materiais que possuam características eléctricas e mecânicas adequadas e resistência às acções da intempérie.
+Art. 34.º Condutores nus. - Os condutores nus serão de cobre, alumínio, ou suas ligas, ou de outros materiais que possuam características eléctricas e mecânicas adequadas e resistência às acções da intempérie.
 
 § 1.º Os fios de aço não inoxidável que entrem na constituição de condutores eléctricos serão protegidos contra a corrosão.
 
@@ -1904,9 +1975,9 @@ Comentário. - Nas redes de distribuição em centros urbanos recomenda-se que a
 
 Comentário. - No quadro XVII, anexo, indicam-se as características mecânicas e eléctricas dos condutores usualmente empregados nas redes de distribuição.
 
-###### Art. 35.º Condutores isolados. - Os condutores isolados serão de cobre, alumínio ou de outras materiais com a necessária condutibilidade eléctrica e terão isolamento próprio para exterior, com constituição que garanta boa resistência às acções da intempérie.
+Art. 35.º Condutores isolados. - Os condutores isolados serão de cobre, alumínio ou de outras materiais com a necessária condutibilidade eléctrica e terão isolamento próprio para exterior, com constituição que garanta boa resistência às acções da intempérie.
 
-###### Art. 36.º Secções mínimas dos condutores de fase. - Os condutores de fase, se de cobre, não terão secções nominais inferiores às seguintes:
+Art. 36.º Secções mínimas dos condutores de fase. - Os condutores de fase, se de cobre, não terão secções nominais inferiores às seguintes:
 
 a) Nas canalizações principais e ramais, 10 mm2 e 6 mm2, respectivamente;
 
@@ -1918,13 +1989,13 @@ c) Nos troços comuns de chegadas, 6 mm2.
 
 § 2.º Em linhas de sinalização ou de telecomando será permitido o emprego de quaisquer condutores desde que tenham uma resistência à rotura não inferior a 240 kgf.
 
-###### Art. 37.º Secção do neutro. - A secção nominal do neutro será, pelo menos:
+Art. 37.º Secção do neutro. - A secção nominal do neutro será, pelo menos:
 
 a) A secção nominal dos condutores de fase, para secções iguais ou inferiores a 10 mm2;
 
 b) A secção nominal igual a metade da dos condutores de fase, para secções superiores a 10 mm2.
 
-###### Art. 38.º Vãos máximos. - Nas redes de distribuição os vãos não deverão exceder, em regra, os valores seguintes:
+Art. 38.º Vãos máximos. - Nas redes de distribuição os vãos não deverão exceder, em regra, os valores seguintes:
 
 a) Dentro de povoações ou aglomerados, em zonas com consumidores não dispersos, 50 m;
 
@@ -1934,7 +2005,7 @@ c) Fora de povoações ou aglomerados, 90 m.
 
 Comentário. - Recomenda-se que na fixação dos vãos se tenham, também, em atenção as condições locais e facilidade de futuras ligações de instalações de utilização.
 
-###### Art. 39.º Disposição dos condutores nus e isolados simples sem bainha de protecção. - Os condutores nus e isolados simples sem bainha de protecção serão dispostos convenientemente ao longo do traçado, em quincôncio ou em esteira, vertical ou horizontal.
+Art. 39.º Disposição dos condutores nus e isolados simples sem bainha de protecção. - Os condutores nus e isolados simples sem bainha de protecção serão dispostos convenientemente ao longo do traçado, em quincôncio ou em esteira, vertical ou horizontal.
 
 § único. Na disposição em quincôncio ou em esteira vertical o neutro tomará, em regra, a posição inferior, devendo intercalar-se os condutores de iluminação pública entre o neutro e os demais condutores.
 
@@ -1950,13 +2021,13 @@ Ser a posição mais conveniente sob o ponto de vista de segurança (casos de ro
 
 3. Embora se perfilhe a posição inferior do neutro admite-se, contudo, outra posição nos casos de a maior parte das redes de distribuição de uma região ou de uma mesma entidade ter já o referido condutor nessa posição, por interessar fundamentalmente o critério de uniformidade.
 
-###### Art. 40.º Identificação do neutro. - Nas redes de distribuição aéreas com condutores nus ou isolados simples sem bainha de protecção, o neutro será identificado quando não tenha a posição inferior indicada no artigo anterior e na disposição em esteira horizontal.
+Art. 40.º Identificação do neutro. - Nas redes de distribuição aéreas com condutores nus ou isolados simples sem bainha de protecção, o neutro será identificado quando não tenha a posição inferior indicada no artigo anterior e na disposição em esteira horizontal.
 
 Comentários. - 1. A identificação do neutro permite evitar riscos ao pessoal que passe de uma rede de distribuição para outra com o neutro em posição diferente.
 
 2. O neutro poderá identificar-se fixando-o a isoladores de cor diferente ou pintando de cor diferente o respectivo suporte.
 
-###### Art. 41.º Colocação de condutores nus ou isolados simples sem bainha de protecção. - A colocação de condutores nus ou isolados simples sem bainha de protecção deverá obedecer ao seguinte:
+Art. 41.º Colocação de condutores nus ou isolados simples sem bainha de protecção. - A colocação de condutores nus ou isolados simples sem bainha de protecção deverá obedecer ao seguinte:
 
 a) Nas canalizações principais e ramais, os condutores serão estabelecidos sob tensão mecânica conveniente, função da sua natureza e secção e do vão, e fixados a isoladores por meio de filaças apropriadas;
 
@@ -1964,7 +2035,7 @@ b) Nas chegadas e troços comuns de chegadas, os condutores isolados simples sem
 
 c) Nas chegadas e troços comuns de chegadas, quando embebidos, e na travessia de paredes, os condutores isolados simples sem bainha de protecção deverão ser enfiados em tubo de aço galvanizado, tubo plástico PA ou tubo de resistência mecânica e à corrosão equivalente, com o diâmetro nominal não inferior a 21 mm, estabelecidos de modo que a chuva não possa entrar e não retenham a água de condensação, providos nas suas extremidades de acessório de entrada adequado ao tipo de condutor e, se de aço galvanizado, atacados com cimento.
 
-###### Art. 42.º Colocação de condutores isolados com bainha de protecção. - A colocação de condutores isolados com bainha de protecção deverá obedecer ao seguinte:
+Art. 42.º Colocação de condutores isolados com bainha de protecção. - A colocação de condutores isolados com bainha de protecção deverá obedecer ao seguinte:
 
 a) Se à vista, os condutores serão fixados às superfícies de apoio mediante braçadeiras e protegidos por tubo de aço galvanizado onde sujeitos a acções mecânicas que os possam deteriorar, só podendo ser suspensos de fiadores não existindo superfícies de apoio;
 
@@ -1976,9 +2047,9 @@ b) Se embebidos e na travessia de paredes, os condutores serão estabelecidos no
 
 § 3.º Nos cabos auto-sustentados considera-se como fiador o elemento resistente que faz parte do próprio cabo.
 
-###### Art. 43.º Derivação de condutores. - A derivação de condutores só poderá ser feita em pontos fixos da rede de distribuição (postes, postaletes, consolas, ferros-suportes e caixas de derivação).
+Art. 43.º Derivação de condutores. - A derivação de condutores só poderá ser feita em pontos fixos da rede de distribuição (postes, postaletes, consolas, ferros-suportes e caixas de derivação).
 
-###### Art. 44.º Ligação de condutores. - As ligações - junções e derivações - serão executadas de forma a não diminuírem as condições de segurança dos condutores e obedecerão ao seguinte:
+Art. 44.º Ligação de condutores. - As ligações - junções e derivações - serão executadas de forma a não diminuírem as condições de segurança dos condutores e obedecerão ao seguinte:
 
 a) Nas ligações de condutores nus ou de condutores isolados simples sem bainha de protecção não será permitida a torçada, excepto se a secção dos condutores for igual ou inferior a 6 mm2, nem a soldadura, devendo utilizar-se, nas junções e derivações, respectivamente uniões e ligadores metálicos apropriados, robustos e resistentes à corrosão, que assegurem aperto mecânico e contacto eléctrico eficiente e que garantam ainda, no caso de junção, uma resistência à tracção não inferior à dos condutores;
 
@@ -1986,15 +2057,15 @@ b) Nas ligações de condutores isolados com bainha de protecção ou nas transi
 
 Comentário. - Nas redes de distribuição onde se utilizem condutores de alumínio ou suas ligas, recomenda-se particular cuidado quanto aos acessórios a empregar, quer na ligação entre si de condutores de alumínio, quer na ligação destes com os de cobre, em que é necessário evitar a corrosão electrolítica.
 
-###### Art. 45.º Inacessibilidade dos condutores nus e isolados simples sem bainha de protecção. - Os condutores nus e isolados simples sem bainha de protecção não deverão ser atingíveis, sem meios especiais, de quaisquer lugares acessíveis a pessoas, devendo observar-se a distância mínima de 2,50 m dos condutores a esses lugares, se outra não estiver fixada neste regulamento.
+Art. 45.º Inacessibilidade dos condutores nus e isolados simples sem bainha de protecção. - Os condutores nus e isolados simples sem bainha de protecção não deverão ser atingíveis, sem meios especiais, de quaisquer lugares acessíveis a pessoas, devendo observar-se a distância mínima de 2,50 m dos condutores a esses lugares, se outra não estiver fixada neste regulamento.
 
-###### Art. 46.º Distância dos condutores nus e isolados simples sem bainha de protecção ao solo. - A distância ao solo dos condutores nus e isolados simples sem bainha de protecção, com excepção do disposto no artigo 81.º, não deverá ser inferior a 5 m.
+Art. 46.º Distância dos condutores nus e isolados simples sem bainha de protecção ao solo. - A distância ao solo dos condutores nus e isolados simples sem bainha de protecção, com excepção do disposto no artigo 81.º, não deverá ser inferior a 5 m.
 
 § 1.º Quando o último vão dos ramais que sirvam um só consumidor estiver situado, no todo ou em parte, por cima do terreno do próprio consumidor, poderá a distância prevista no corpo do artigo, relativamente ao terreno do consumidor, reduzir-se a 4 m.
 
 § 2.º Nas chegadas e troços comuns de chegadas constituídos por condutores isolados simples sem bainha de protecção estabelecidos à vista, a distância ao solo poderá reduzir-se a 2,50 m.
 
-###### Art. 47.º Distâncias dos condutores nus e isolados simples sem bainha de protecção aos edifícios. - Na proximidade dos edifícios, com excepção dos afectos exclusivamente à distribuição, os condutores nus e isolados simples sem bainha de protecção não deverão penetrar na zona de protecção definida pelas distâncias mínimas seguintes:
+Art. 47.º Distâncias dos condutores nus e isolados simples sem bainha de protecção aos edifícios. - Na proximidade dos edifícios, com excepção dos afectos exclusivamente à distribuição, os condutores nus e isolados simples sem bainha de protecção não deverão penetrar na zona de protecção definida pelas distâncias mínimas seguintes:
 
 a) A telhados de inclinação até 45º - 2 m na vertical;
 
@@ -2016,9 +2087,9 @@ Comentário. - Representa-se nas figs. 5 e 6 a zona de protecção definida nest
 
 Da Fig. 5 à Fig. 6
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
-###### Art. 48.º Distância dos condutores nus e isolados simples sem bainha de protecção às árvores e ramadas, latadas ou parreiras. - Os condutores nus e isolados simples sem bainha de protecção não terão, em relação às árvores e ramadas, latadas ou parreiras, distâncias inferiores às seguintes:
+Art. 48.º Distância dos condutores nus e isolados simples sem bainha de protecção às árvores e ramadas, latadas ou parreiras. - Os condutores nus e isolados simples sem bainha de protecção não terão, em relação às árvores e ramadas, latadas ou parreiras, distâncias inferiores às seguintes:
 
 a) A árvores a que não seja de prever o escalamento por necessidade de trabalhos inerentes às próprias árvores, 1 m;
 
@@ -2026,13 +2097,13 @@ b) A árvores a que seja de prever o escalamento por necessidade de trabalhos e 
 
 Comentário. - No que se refere à existência de plantações que possam prejudicar a exploração das redes de distribuição, haverá que observar o disposto no Regulamento de Licenças para Instalações Eléctricas.
 
-###### Art. 49.º Distância dos condutores nus e isolados simples sem bainha de protecção aos suportes dos isoladores e aos apoios. - A distância dos condutores nus e isolados simples sem bainha de protecção aos suportes dos isoladores e aos apoios não poderá ser inferior a 0,05 m.
+Art. 49.º Distância dos condutores nus e isolados simples sem bainha de protecção aos suportes dos isoladores e aos apoios. - A distância dos condutores nus e isolados simples sem bainha de protecção aos suportes dos isoladores e aos apoios não poderá ser inferior a 0,05 m.
 
-###### Art. 50.º Distância dos condutores nus e isolados simples sem bainha de protecção entre si. - Os condutores nus e isolados simples sem bainha de protecção estarão distanciados entre si de modo a não poderem tocar-se, não devendo, porém, a distância ser inferior a 0,25 m, com excepção do disposto na alínea b) do artigo 41.º
+Art. 50.º Distância dos condutores nus e isolados simples sem bainha de protecção entre si. - Os condutores nus e isolados simples sem bainha de protecção estarão distanciados entre si de modo a não poderem tocar-se, não devendo, porém, a distância ser inferior a 0,25 m, com excepção do disposto na alínea b) do artigo 41.º
 
 § único. Nas derivações, a distância entre cada um dos condutores derivados e os condutores de polaridade diferente da canalização donde aqueles derivam poderá ser inferior à indicada no corpo do artigo, com o mínimo do 0,10 m.
 
-###### Art. 51.º Ligação do neutro à terra. - Na ligação do neutro à terra deverá, observar-se o seguinte:
+Art. 51.º Ligação do neutro à terra. - Na ligação do neutro à terra deverá, observar-se o seguinte:
 
 a) O neutro, além da sua ligação à terra no posto de transformação ou central, será ligado à terra em vários pontos, fazendo-se, entre outras, ligações de terra junto de pontos singulares da rede de distribuição, tais como de derivação de canalizações principais e de concentração de ramais;
 
@@ -2040,7 +2111,7 @@ b) Ao longo de cada canalização principal ou ramal, e tanto quanto o permita a
 
 c) Se a ligação do neutro à terra for efectuada num apoio não metálico nem de betão armado, os suportes metálicos dos isoladores dos condutores de fase desse apoio serão ligados ao neutro.
 
-###### Art. 52.º Continuidade do neutro. - O neutro não poderá ser interrompido por interruptor ou seccionador unipolar ou por corta-circuito fusível.
+Art. 52.º Continuidade do neutro. - O neutro não poderá ser interrompido por interruptor ou seccionador unipolar ou por corta-circuito fusível.
 
 § 1.º Permitir-se-á o emprego de interruptores ou seccionadores omnipolares que actuem no neutro ao mesmo tempo que nos condutores de fase ou que estabeleçam a ligação do neutro antes da dos condutores de fase e cortem estes antes de cortar o neutro.
 
@@ -2048,21 +2119,21 @@ c) Se a ligação do neutro à terra for efectuada num apoio não metálico nem 
 
 2.2 - Isoladores e seus suportes
 
-###### Art. 53.º Materiais dos isoladores. - Os isoladores serão de porcelana, vidro, ou de outros materiais isolantes equivalentes, que resistam bem às acções da intempérie, especialmente às variações de temperatura, e à corrosão.
+Art. 53.º Materiais dos isoladores. - Os isoladores serão de porcelana, vidro, ou de outros materiais isolantes equivalentes, que resistam bem às acções da intempérie, especialmente às variações de temperatura, e à corrosão.
 
-###### Art. 54.º Características dos isoladores. - As características dos isoladores, particularmente a forma e dimensões, serão adequadas à função e aos esforços a que forem submetidos em exploração normal.
+Art. 54.º Características dos isoladores. - As características dos isoladores, particularmente a forma e dimensões, serão adequadas à função e aos esforços a que forem submetidos em exploração normal.
 
-###### Art. 55.º Suportes dos isoladores. - Os suportes dos isoladores deverão resistir às solicitações provenientes dos condutores, com um coeficiente de segurança não inferior ao dos respectivos apoios, e à corrosão.
+Art. 55.º Suportes dos isoladores. - Os suportes dos isoladores deverão resistir às solicitações provenientes dos condutores, com um coeficiente de segurança não inferior ao dos respectivos apoios, e à corrosão.
 
-###### Art. 56.º Materiais de fixação dos isoladores. - O material de fixação dos isoladores não deverá ser constituído por substâncias que ataquem estes, ou os respectivos suportes, e se deteriorem ou sofram variações de volume que afectem o estado dos isoladores ou a segurança da fixação.
+Art. 56.º Materiais de fixação dos isoladores. - O material de fixação dos isoladores não deverá ser constituído por substâncias que ataquem estes, ou os respectivos suportes, e se deteriorem ou sofram variações de volume que afectem o estado dos isoladores ou a segurança da fixação.
 
 2.3 - Apoios, espias e escoras
 
-###### Art. 57.º Materiais dos apoios. - Os apoios serão de aço, betão armado ou madeira, carecendo o emprego de outros materiais de autorização prévia da fiscalização do Governo.
+Art. 57.º Materiais dos apoios. - Os apoios serão de aço, betão armado ou madeira, carecendo o emprego de outros materiais de autorização prévia da fiscalização do Governo.
 
 Comentário - Para os apoios de madeira recomenda-se, em especial, o pinho (Pinus pinaster Ait.) tratado e o castanho, sendo de excluir madeiras que pelo seu comportamento possam prejudicar a exploração das redes de distribuição.
 
-###### Art. 58.º Protecção dos apoios contra a deterioração. - Os apoios deverão ser protegidos, quando necessário, contra a corrosão e outras formas de deterioração.
+Art. 58.º Protecção dos apoios contra a deterioração. - Os apoios deverão ser protegidos, quando necessário, contra a corrosão e outras formas de deterioração.
 
 Comentários. - 1. Para os apoios metálicos recomenda-se a sua protecção por metalização, pintura de base metálica ou outra conveniente.
 
@@ -2074,7 +2145,7 @@ Para os postes de madeira recomenda-se ainda que a parte enterrada seja pintada 
 
 4. Recomenda-se que os apoios de madeira constem de um cadastro em que se registarão indicações respeitantes à localização, tipo e data de colocação e outras julgadas convenientes. O número de cadastro, que deve inscrever-se no próprio apoio, tem interesse para o identificar no respectivo cadastro, permitindo assim acompanhar o comportamento ao longo da sua vida.
 
-###### Art. 59.º Fundações de postes. - Os postes serão implantados directamente no solo ou consolidados por fundações especiais de modo a ficar assegurada a estabilidade correspondente às solicitações actuantes e à natureza do solo, devendo observar-se o seguinte na sua implantação:
+Art. 59.º Fundações de postes. - Os postes serão implantados directamente no solo ou consolidados por fundações especiais de modo a ficar assegurada a estabilidade correspondente às solicitações actuantes e à natureza do solo, devendo observar-se o seguinte na sua implantação:
 
 a) Os postes metálicos serão encastrados em maciços de betão;
 
@@ -2098,11 +2169,11 @@ As bases de fixação dos postes de madeira devem sobressair um pouco do solo e 
 
 O encastramento de postes de madeira directamente em maciço de betão daria lugar ao seu rápido apodrecimento, razão por que não se admite.
 
-###### Art. 60.º Postaletes. - Os postaletes serão normalmente de aço sob a forma de tubo ou de perfilados, com a espessura mínima de 3 mm, não devendo, em regra, o seu comprimento exceder 6 m.
+Art. 60.º Postaletes. - Os postaletes serão normalmente de aço sob a forma de tubo ou de perfilados, com a espessura mínima de 3 mm, não devendo, em regra, o seu comprimento exceder 6 m.
 
-###### Art. 61.º Consolas. - As consolas serão normalmente de aço sob a forma de tubo ou de perfilados, com espessura não inferior a 3 mm.
+Art. 61.º Consolas. - As consolas serão normalmente de aço sob a forma de tubo ou de perfilados, com espessura não inferior a 3 mm.
 
-###### Art. 62.º Espias. - As espias serão constituídas por fio, cabo ou varetas com elos de ligação robustos, de ferro galvanizado, e terão secção que garanta resistência aos esforços a suportar, com o mínimo de 13 mm2.
+Art. 62.º Espias. - As espias serão constituídas por fio, cabo ou varetas com elos de ligação robustos, de ferro galvanizado, e terão secção que garanta resistência aos esforços a suportar, com o mínimo de 13 mm2.
 
 Comentários. - 1. O emprego de espias como complemento da resistência dos apoios deve, de uma maneira geral, ser reservado aos casos em que esforços importantes conduzam a apoios de custo elevado ou em que a ampliação das instalações dê lugar a um aumento de esforços sobre apoios já instalados.
 
@@ -2112,33 +2183,33 @@ Comentários. - 1. O emprego de espias como complemento da resistência dos apoi
 
 4. Recomenda-se o emprego nas espias de tensores eficientes.
 
-###### Art. 63.º Fixação das espias. - A fixação das espias far-se-á em condições que ofereçam garantia de duração e resistência, observando-se as distâncias de segurança relativamente aos condutores.
+Art. 63.º Fixação das espias. - A fixação das espias far-se-á em condições que ofereçam garantia de duração e resistência, observando-se as distâncias de segurança relativamente aos condutores.
 
-###### Art. 64.º Isolamento das espias. - As espias atingíveis, sem meios especiais, do solo, telhados, varandas, janelas ou outros lugares acessíveis a pessoas serão interrompidas por isoladores de retenção apropriados e colocados, pelo menos, a 0,50 m do condutor mais próximo, devendo a parte da espia compreendida entre o isolador de retenção e o apoio ficar, em relação aos edifícios, fora da zona de protecção definida no artigo 47.º e, em relação ao solo, a mais de 2,50 m de altura.
+Art. 64.º Isolamento das espias. - As espias atingíveis, sem meios especiais, do solo, telhados, varandas, janelas ou outros lugares acessíveis a pessoas serão interrompidas por isoladores de retenção apropriados e colocados, pelo menos, a 0,50 m do condutor mais próximo, devendo a parte da espia compreendida entre o isolador de retenção e o apoio ficar, em relação aos edifícios, fora da zona de protecção definida no artigo 47.º e, em relação ao solo, a mais de 2,50 m de altura.
 
 § único. O isolador de retenção será dispensado se a espia for ligada ao neutro, quando utilizado o sistema «terra pelo neutro».
 
 Comentário. - O disposto neste artigo tem em vista reduzir a possibilidade de as espias transmitirem para lugares normalmente acessíveis tensões perigosas, de contacto ou de passo.
 
-###### Art. 65.º Proibição de espias. - As espias não serão permitidas quando possam ser atingidas pela queda de condutores de linhas de alta tensão na proximidade ou transmitir tensões a distância e, se acessíveis, em locais de grande circulação.
+Art. 65.º Proibição de espias. - As espias não serão permitidas quando possam ser atingidas pela queda de condutores de linhas de alta tensão na proximidade ou transmitir tensões a distância e, se acessíveis, em locais de grande circulação.
 
 Comentário. - Um dos casos mais prováveis de transmissão de tensões a distância seria o da fixação de espias a elementos de ramadas, latadas ou parreiras, que por esta disposição fica proibida.
 
-###### Art. 66.º Escoras. - As escoras terão resistência mecânica conveniente e serão fixadas tão próximo quanto possível do ponto de aplicação da resultante dos esforços sobre o respectivo apoio.
+Art. 66.º Escoras. - As escoras terão resistência mecânica conveniente e serão fixadas tão próximo quanto possível do ponto de aplicação da resultante dos esforços sobre o respectivo apoio.
 
 3 - Condições de estabelecimento de redes de distribuição subterrâneas
 
-###### Art. 67.º Cabos subterrâneos. - Os cabos subterrâneos serão dotados de isolamento apropriado, constituídos por materiais adequados, protegidos contra a corrosão provocada pelo terreno e terão resistência mecânica suficiente para suportarem os esforços de compressão a que possam estar submetidos.
+Art. 67.º Cabos subterrâneos. - Os cabos subterrâneos serão dotados de isolamento apropriado, constituídos por materiais adequados, protegidos contra a corrosão provocada pelo terreno e terão resistência mecânica suficiente para suportarem os esforços de compressão a que possam estar submetidos.
 
-###### Art. 68.º Secções mínimas dos condutores de fase. - Os condutores de fase, se de cobre, não terão secções nominais inferiores às fixadas na alínea a) do artigo 36.º nas canalizações principais e ramais e a 6 mm2 nas chegadas.
+Art. 68.º Secções mínimas dos condutores de fase. - Os condutores de fase, se de cobre, não terão secções nominais inferiores às fixadas na alínea a) do artigo 36.º nas canalizações principais e ramais e a 6 mm2 nas chegadas.
 
 § único. A secção dos condutores de outros materiais será a que assegure resistência mecânica e condutância não inferiores às do condutor de cobre com a respectiva secção mínima indicada no corpo do artigo.
 
-###### Art. 69.º Secção do neutro. - O neutro terá a secção nominal fixada no artigo 37.º
+Art. 69.º Secção do neutro. - O neutro terá a secção nominal fixada no artigo 37.º
 
-###### Art. 70.º Caixas de cabos subterrâneos. - As caixas de cabos subterrâneos deverão garantir o isolamento e a estanqueidade dos cabos e assegurar a continuidade das suas bainhas metálicas, quando existam, se não houver contra-indicação por motivo de corrosão electrolítica.
+Art. 70.º Caixas de cabos subterrâneos. - As caixas de cabos subterrâneos deverão garantir o isolamento e a estanqueidade dos cabos e assegurar a continuidade das suas bainhas metálicas, quando existam, se não houver contra-indicação por motivo de corrosão electrolítica.
 
-###### Art. 71.º Estabelecimento de cabos subterrâneos. - Os cabos subterrâneos assentarão em fundo convenientemente preparado de valas, que, em zonas urbanizadas, serão geralmente abertas ao longo das vias públicas, nos passeios sempre que possível, e, quando não enfiados em condutas, deverão ficar envolvidos em areia ou terra fina ou cirandada, ser instalados por forma que não sejam danificados pela pressão ou abatimento de terras e com uma cobertura de aviso colocada pelo menos a 0,10 m acima deles, constituída por tijolos, placas de betão, lousa, ou materiais equivalentes, que os resguarde convenientemente.
+Art. 71.º Estabelecimento de cabos subterrâneos. - Os cabos subterrâneos assentarão em fundo convenientemente preparado de valas, que, em zonas urbanizadas, serão geralmente abertas ao longo das vias públicas, nos passeios sempre que possível, e, quando não enfiados em condutas, deverão ficar envolvidos em areia ou terra fina ou cirandada, ser instalados por forma que não sejam danificados pela pressão ou abatimento de terras e com uma cobertura de aviso colocada pelo menos a 0,10 m acima deles, constituída por tijolos, placas de betão, lousa, ou materiais equivalentes, que os resguarde convenientemente.
 
 § 1.º Quando os cabos não tenham armadura metálica, mas possam por si próprios suportar o abatimento das terras e o contacto de corpos duros, não será necessária uma protecção mecânica complementar desde que possuam bainha ou protecção metálica ligada à terra.
 
@@ -2148,37 +2219,37 @@ Comentários. - 1. Recomenda-se, nas mudanças de direcção e nos percursos irr
 
 2. Ao longe de estradas nacionais e municipais os cabos subterrâneos só podem ser instalados nos taludes, banquetas, valetas, bermas ou passeios, conforme o disposto no Estatuto das Estradas Nacionais e no Regulamento Geral das Estradas e Caminhos Municipais ([Lei n.º 2037](https://diariodarepublica.pt/dr/detalhe/lei/2037-1949-264568), de 19 de Agosto de 1949, e [Lei n.º 2110](https://diariodarepublica.pt/dr/detalhe/lei/2110-1961-172974), de 19 de Agosto de 1961).
 
-###### Art. 72.º Profundidade de enterramento dos cabos. - A profundidade mínima de enterramento dos cabos, enfiados ou não em condutas, será de 0,70 m, com excepção do disposto nos artigos 119.º e 121.º
+Art. 72.º Profundidade de enterramento dos cabos. - A profundidade mínima de enterramento dos cabos, enfiados ou não em condutas, será de 0,70 m, com excepção do disposto nos artigos 119.º e 121.º
 
 § único. A profundidade indicada no corpo do artigo poderá ser reduzida em casos especiais em que a dificuldade de execução o justifique, sem prejuízo da conveniente protecção dos cabos.
 
-###### Art. 73.º Ligação de cabos subterrâneos. - As ligações - junções e derivações - de cabos subterrâneos serão efectuadas em caixas que obedeçam ao disposto no artigo 70.º, podendo, porém, empregar-se outro sistema apropriado à natureza do cabo.
+Art. 73.º Ligação de cabos subterrâneos. - As ligações - junções e derivações - de cabos subterrâneos serão efectuadas em caixas que obedeçam ao disposto no artigo 70.º, podendo, porém, empregar-se outro sistema apropriado à natureza do cabo.
 
 § único. As extremidades dos cabos deverão ser preparadas e protegidas contra a humidade e corrosão, se necessário.
 
-###### Art. 74.º Câmaras de visita. - Nas câmaras de visita de cabos subterrâneos só poderão passar canalizações eléctricas.
+Art. 74.º Câmaras de visita. - Nas câmaras de visita de cabos subterrâneos só poderão passar canalizações eléctricas.
 
-###### Art. 75.º Ligação do neutro à bainha metálica dos cabos subterrâneos. - A ligação eléctrica ou o isolamento entre o neutro e a bainha metálica dos cabos subterrâneos deverão obedecer ao disposto, sobre ligações à terra, no Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento.
+Art. 75.º Ligação do neutro à bainha metálica dos cabos subterrâneos. - A ligação eléctrica ou o isolamento entre o neutro e a bainha metálica dos cabos subterrâneos deverão obedecer ao disposto, sobre ligações à terra, no Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento.
 
 Comentário. - O Regulamento de Segurança de Subestações e Postos de Transformação e de Seccionamento obriga a que a bainha metálica dos cabos seja ligada à terra de protecção e impõe a separação entre a terra do neutro de baixa tensão e a terra de protecção. Admite, no entanto, a junção das duas terras no caso de a rede de distribuição ser subterrânea e a terra assim constituída ter resistência inferior a 1 Ómega, tornando, porém, a junção obrigatória se se verificarem aquelas condições e for utilizado o sistema «terra pelo neutro».
 
 Sempre que se impuser a separação das terras mencionadas, haverá que manter o neutro isolado da bainha metálica em toda a rede de distribuição. Quando o neutro e a bainha metálica estejam ligados à mesma terra, ou a terras ligadas entre si, é recomendável, ao estabelecer nas caixas de ligação a continuidade eléctrica das bainhas metálicas, fazer, mesmo nos casos em que este regulamento o não imponha, ligações do neutro à terra nessas caixas, melhorando assim a terra do neutro.
 
-###### Art. 76.º Planta das canalizações subterrâneas. - Para cada rede de distribuição deverá haver uma planta das canalizações subterrâneas, actualizada e pormenorizada, que permita a fácil localização dos cabos no terreno.
+Art. 76.º Planta das canalizações subterrâneas. - Para cada rede de distribuição deverá haver uma planta das canalizações subterrâneas, actualizada e pormenorizada, que permita a fácil localização dos cabos no terreno.
 
-###### Art. 77.º Canalizações eléctricas em recintos no subsolo. - As canalizações eléctricas em recintos no subsolo - túneis, galerias e canais - obedecerão às condições regulamentares de segurança das instalações de utilização de energia eléctrica em baixa tensão no que se refere ao tipo e estabelecimento de condutores.
+Art. 77.º Canalizações eléctricas em recintos no subsolo. - As canalizações eléctricas em recintos no subsolo - túneis, galerias e canais - obedecerão às condições regulamentares de segurança das instalações de utilização de energia eléctrica em baixa tensão no que se refere ao tipo e estabelecimento de condutores.
 
 4 - Seccionamento
 
-###### Art. 78.º Seccionamento. - As redes de distribuição serão divididas em secções, por meio de corta-circuitos fusíveis ou de seccionadores, sempre que o aconselhe a limitação da extensão das interrupções, sem prejuízo do disposto no artigo 52.º
+Art. 78.º Seccionamento. - As redes de distribuição serão divididas em secções, por meio de corta-circuitos fusíveis ou de seccionadores, sempre que o aconselhe a limitação da extensão das interrupções, sem prejuízo do disposto no artigo 52.º
 
 § único. O seccionamento nas redes de distribuição subterrâneas será feito em caixas apropriadas, enterradas ou não, metálicas, ou de outros materiais autorizados previamente pela fiscalização do Governo, com a necessária resistência e estanqueidade e dimensionadas de modo que permitam a fácil manobra dos órgãos de seccionamento e, se os houver, dos de protecção.
 
 5 - Portinholas
 
-###### Art. 79.º Características das portinholas. - As portinholas serão de material incombustível e não higroscópico, robustas e dimensionadas com vista ao alojamento conveniente dos órgãos de protecção e manobra e à segurança do pessoal operador e terão porta com fecho ou sistema de fixação que permitam a selagem.
+Art. 79.º Características das portinholas. - As portinholas serão de material incombustível e não higroscópico, robustas e dimensionadas com vista ao alojamento conveniente dos órgãos de protecção e manobra e à segurança do pessoal operador e terão porta com fecho ou sistema de fixação que permitam a selagem.
 
-###### Art. 80.º Estabelecimento das portinholas. - As portinholas serão instaladas, normalmente, dentro dos imóveis, em local de fácil acesso a fixar pelo distribuidor, e convenientemente protegidas, quando necessário, na proximidade de instalações de gás ou água.
+Art. 80.º Estabelecimento das portinholas. - As portinholas serão instaladas, normalmente, dentro dos imóveis, em local de fácil acesso a fixar pelo distribuidor, e convenientemente protegidas, quando necessário, na proximidade de instalações de gás ou água.
 
 § único. Se a portinhola se destinar a servir apenas uma instalação de utilização poderá a sua função ser concentrada no quadro geral de entrada dessa instalação, previsto ou adaptado para o efeito.
 
@@ -2186,13 +2257,13 @@ Sempre que se impuser a separação das terras mencionadas, haverá que manter o
 
 6.1 - Travessias aéreas de ruas, estradas e caminhos
 
-###### Art. 81.º Distância dos condutores ao solo. - Nas travessias aéreas de ruas, estradas ou caminhos, públicos ou particulares, com trânsito de veículos automóveis ou de tracção animal, a distância dos condutores ao solo não será inferior a 6 m.
+Art. 81.º Distância dos condutores ao solo. - Nas travessias aéreas de ruas, estradas ou caminhos, públicos ou particulares, com trânsito de veículos automóveis ou de tracção animal, a distância dos condutores ao solo não será inferior a 6 m.
 
-###### Art. 82.º Vãos de travessia. - Os vãos de travessia de ruas, estradas ou caminhos, públicos ou particulares, com trânsito de veículos automóveis ou de tracção animal, não deverão ser, em regra, superiores a 50 m.
+Art. 82.º Vãos de travessia. - Os vãos de travessia de ruas, estradas ou caminhos, públicos ou particulares, com trânsito de veículos automóveis ou de tracção animal, não deverão ser, em regra, superiores a 50 m.
 
 6.2 - Travessias aéreas de cursos de água
 
-###### Art. 83.º Altura dos condutores. - Nas travessias aéreas de cursos de água, a altura dos condutores acima do nível das águas não será inferior a:
+Art. 83.º Altura dos condutores. - Nas travessias aéreas de cursos de água, a altura dos condutores acima do nível das águas não será inferior a:
 
 a) Nos cursos de água navegáveis (rios ou canais), H metros acima do mais alto nível de água navegável, sendo H = h + 1, em que h é a maior altura, em metros, acima do nível das águas, dos barcos que passam no local, mas, em caso algum, H será inferior 6 m;
 
@@ -2202,31 +2273,31 @@ Comentário. - Os troços navegáveis dos cursos de água e a altura máxima dos
 
 6.3 - Travessias aéreas de teleféricos
 
-###### Art. 84.º Distâncias dos condutores aos teleféricos. - Nas travessias aéreas de teleféricos observar-se-ão as distâncias seguintes:
+Art. 84.º Distâncias dos condutores aos teleféricos. - Nas travessias aéreas de teleféricos observar-se-ão as distâncias seguintes:
 
 a) Se as linhas passarem superiormente, a distância entre os condutores e a instalação do teleférico não será inferior a 2 m;
 
 b) Se as linhas passarem inferiormente, a distância entre os condutores e a instalação do teleférico não será inferior a 3 m.
 
-###### Art. 85.º Ligações de terra. - A instalação do teleférico deverá ser eficazmente ligada à terra, pelo menos, nos apoios adjacentes à travessia.
+Art. 85.º Ligações de terra. - A instalação do teleférico deverá ser eficazmente ligada à terra, pelo menos, nos apoios adjacentes à travessia.
 
 6.4 - Travessias aéreas de caminhos de ferro não electrificados
 
-###### Art. 86.º Secções mínimas dos condutores. - Nas travessias aéreas de caminhos de ferro, os condutores não deverão ter secção nominal inferior a 10 mm2, se forem de cobre, ou secção que assegure resistência mecânica e condutância não inferiores às do condutor de cobre com aquela secção, se de outro material.
+Art. 86.º Secções mínimas dos condutores. - Nas travessias aéreas de caminhos de ferro, os condutores não deverão ter secção nominal inferior a 10 mm2, se forem de cobre, ou secção que assegure resistência mecânica e condutância não inferiores às do condutor de cobre com aquela secção, se de outro material.
 
 § único. Em linhas de sinalização ou de telecomando será permitido o emprego de quaisquer condutores desde que tenham uma resistência à rotura não inferior a 400 kgf.
 
-###### Art. 87.º Emendas. - Nas travessias aéreas de caminhos de ferro, os condutores não poderão ter emendas.
+Art. 87.º Emendas. - Nas travessias aéreas de caminhos de ferro, os condutores não poderão ter emendas.
 
-###### Art. 88.º Altura dos condutores. - Nas travessias de caminhos de ferro, a altura dos condutores acima dos carris não será inferior a 7 m.
+Art. 88.º Altura dos condutores. - Nas travessias de caminhos de ferro, a altura dos condutores acima dos carris não será inferior a 7 m.
 
-###### Art. 89.º Vãos de travessia. - Os vãos de travessia aérea de caminhos de ferro não deverão exceder, em regra, 50 m e o traçado formará com o eixo da via férrea um ângulo não inferior a 75º, salvo se os condutores forem estabelecidos ao longo de uma via pública ou particular ou obra de arte que atravesse a via férrea segundo um ângulo menor.
+Art. 89.º Vãos de travessia. - Os vãos de travessia aérea de caminhos de ferro não deverão exceder, em regra, 50 m e o traçado formará com o eixo da via férrea um ângulo não inferior a 75º, salvo se os condutores forem estabelecidos ao longo de uma via pública ou particular ou obra de arte que atravesse a via férrea segundo um ângulo menor.
 
-###### Art. 90.º Distância dos postes à via férrea. - Os postes de travessia de caminhos de ferro deverão ser implantados a uma distância da via férrea tal que, em caso de queda em qualquer direcção, não possam atingir o carril mais próximo, mas nunca inferior a 5 m da zona do caminho de ferro.
+Art. 90.º Distância dos postes à via férrea. - Os postes de travessia de caminhos de ferro deverão ser implantados a uma distância da via férrea tal que, em caso de queda em qualquer direcção, não possam atingir o carril mais próximo, mas nunca inferior a 5 m da zona do caminho de ferro.
 
 § único. Se a linha de baixa tensão se destinar a servir as instalações do caminho de ferro, a distância referida no corpo do artigo poderá ser reduzida em casos devidamente justificados.
 
-###### Art. 91.º Travessias aéreas de caminhos de ferro a electrificar. - As travessias aéreas de caminhos de ferro cuja electrificação esteja prevista, quando não obedeçam ao disposto no artigo 92.º, serão permitidas nas condições estabelecidas nos artigos 86.º a 90.º, mas deverão ser removidas logo que a fiscalização do Governo o imponha.
+Art. 91.º Travessias aéreas de caminhos de ferro a electrificar. - As travessias aéreas de caminhos de ferro cuja electrificação esteja prevista, quando não obedeçam ao disposto no artigo 92.º, serão permitidas nas condições estabelecidas nos artigos 86.º a 90.º, mas deverão ser removidas logo que a fiscalização do Governo o imponha.
 
 Comentário. - As linhas de caminho de ferro cuja electrificação está prevista são as que constam do quadro XIX, anexo.
 
@@ -2234,7 +2305,7 @@ Comentário. - As linhas de caminho de ferro cuja electrificação está previst
 
 7.1 - Cruzamentos de linhas aéreas de baixa tensão com caminhos de ferro electrificados
 
-###### Art. 92.º Cruzamentos com caminhos de ferro electrificados. - Os cruzamentos aéreos com caminhos de ferro electrificados só são permitidos nos casos seguintes:
+Art. 92.º Cruzamentos com caminhos de ferro electrificados. - Os cruzamentos aéreos com caminhos de ferro electrificados só são permitidos nos casos seguintes:
 
 a) Cruzamentos feitos com condutores isolados com bainha de protecção fixados ou embebidos em obras de arte;
 
@@ -2242,7 +2313,7 @@ b) Cruzamentos em que os apoios ou os condutores não possam atingir a instalaç
 
 7.2 - Cruzamentos de linhas aéreas de baixa tensão com linhas de tracção eléctrica urbana e suburbana
 
-###### Art. 93.º Cruzamentos com linhas de tracção eléctrica urbana e suburbana. - Nos cruzamentos de linhas aéreas de baixa tensão com linhas de tracção eléctrica urbana e suburbana deverá observar-se a distância mínima de 1,30 m entre os condutores e apoios daquelas linhas e os elementos sob tensão da instalação da linha de contacto e adoptar-se uma das soluções seguintes:
+Art. 93.º Cruzamentos com linhas de tracção eléctrica urbana e suburbana. - Nos cruzamentos de linhas aéreas de baixa tensão com linhas de tracção eléctrica urbana e suburbana deverá observar-se a distância mínima de 1,30 m entre os condutores e apoios daquelas linhas e os elementos sob tensão da instalação da linha de contacto e adoptar-se uma das soluções seguintes:
 
 a) Estabelecimento à distância mínima de 0,70 m acima dos elementos sob tensão da instalação da linha de contacto de um dispositivo de resguardo eficiente, constituído, pelo menos, por dois fios de guarda, simétrico em relação ao plano vertical da linha de contacto e convenientemente ligado à terra, ou isolado para a tensão de serviço da linha de contacto;
 
@@ -2252,21 +2323,21 @@ b) Emprego de condutores isolados na linha de baixa tensão.
 
 7.3 - Cruzamentos de linhas aéreas de baixa tensão entre si.
 
-###### Art. 94.º Cruzamentos de linhas de baixa tensão em apoios diferentes. - Nos cruzamentos de linhas de baixa tensão estabelecidas em apoios diferentes, a distância entre os condutores mais próximos não deverá ser inferior a 1 m.
+Art. 94.º Cruzamentos de linhas de baixa tensão em apoios diferentes. - Nos cruzamentos de linhas de baixa tensão estabelecidas em apoios diferentes, a distância entre os condutores mais próximos não deverá ser inferior a 1 m.
 
 § único. Nos casos de cruzamentos de linhas constituídas por condutores isolados com bainha de protecção, suspensos de fiadores ou auto-sustentados, a distância mínima poderá ser de 0,30 m.
 
-###### Art. 95.º Cruzamentos de linhas de baixa tensão num apoio comum. - Nos cruzamentos de linhas de baixa tensão estabelecidos num apoio comum, a distância entre os condutores mais próximos não poderá ser inferior à prevista no artigo 50.º
+Art. 95.º Cruzamentos de linhas de baixa tensão num apoio comum. - Nos cruzamentos de linhas de baixa tensão estabelecidos num apoio comum, a distância entre os condutores mais próximos não poderá ser inferior à prevista no artigo 50.º
 
 7.4 - Cruzamentos de linhas aéreas de baixa tensão com linhas aéreas de alta tensão
 
-###### Art. 96.º Posição relativa de linhas de baixa e alta tensão. - As linhas de baixa tensão deverão passar inferiormente nos cruzamentos com linhas de alta tensão.
+Art. 96.º Posição relativa de linhas de baixa e alta tensão. - As linhas de baixa tensão deverão passar inferiormente nos cruzamentos com linhas de alta tensão.
 
 § 1.º As linhas de alta tensão deverão satisfazer ao disposto no respectivo regulamento de segurança sobre cruzamentos.
 
 § 2.º A título excepcional, e ouvida a fiscalização do Governo, permitir-se-ão cruzamentos de linhas de baixa tensão sobre linhas de alta tensão se dificuldades técnicas e despesas inerentes o aconselharem, devendo, porém, no vão de cruzamento, as linhas de baixa tensão ser, quanto à segurança mecânica, estabelecidas em condições semelhantes às linhas que passam inferiormente e obedecer, na parte aplicável, ao disposto no Regulamento de Segurança de Linhas de Alta Tensão sobre cruzamentos.
 
-###### Art. 97.º Distâncias entre linhas de baixa e alta tensão. - Nos cruzamentos de linhas de baixa tensão com linhas de alta tensão deverão observar-se as distâncias mínimas seguintes:
+Art. 97.º Distâncias entre linhas de baixa e alta tensão. - Nos cruzamentos de linhas de baixa tensão com linhas de alta tensão deverão observar-se as distâncias mínimas seguintes:
 
 a) Entre os condutores mais próximos, nas condições de flecha mais desfavoráveis, 2 m, para linhas de tensão nominal igual ou inferior a 60 kV, e 3 m, para linhas de tensão superior;
 
@@ -2276,7 +2347,7 @@ c) Entre os condutores da linha que passar inferiormente, nas condições de fle
 
 7.5 - Cruzamentos de linhas aéreas de baixa tensão com linhas de telecomunicação e com antenas
 
-###### Art. 98.º Posição relativa de linhas de baixa tensão e de telecomunicação em apoios diferentes. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios diferentes, os condutores da linha de baixa tensão passarão, em regra, superiormente.
+Art. 98.º Posição relativa de linhas de baixa tensão e de telecomunicação em apoios diferentes. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios diferentes, os condutores da linha de baixa tensão passarão, em regra, superiormente.
 
 § 1.º No caso de se verificarem dificuldades técnicas ou despesas que desaconselhem a passagem inferior dos condutores da linha de telecomunicação, permitir-se-á que fiquem estabelecidos superiormente, desde que se adopte, no vão do cruzamento, uma das soluções seguintes:
 
@@ -2294,7 +2365,7 @@ b) Se o ângulo de cruzamento for igual ou inferior a 30º, por uma rede, entre 
 
 Comentário. - Embora não se façam exigências especiais nos cruzamentos em que os condutores da linha de baixa tensão passam superiormente, recomenda-se que esses cruzamentos sejam estabelecidos com maior segurança (sem emendas, nem vãos grandes, nem ângulos muito agudos).
 
-###### Art. 99.º Distâncias entre linhas de baixa tensão e linhas de telecomunicação em apoios diferentes. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios diferentes deverão observar-se as distâncias mínimas seguintes:
+Art. 99.º Distâncias entre linhas de baixa tensão e linhas de telecomunicação em apoios diferentes. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios diferentes deverão observar-se as distâncias mínimas seguintes:
 
 a) Entre os condutores mais próximos das duas linhas, 1 m;
 
@@ -2304,9 +2375,9 @@ c) Entre o dispositivo de resguardo, quando exista, e os condutores da linha de 
 
 § único. No caso de a linha de baixa tensão ser constituída por condutores isolados, a distância referida na alínea a) do corpo da artigo poderá ser reduzida, a 0,70 m.
 
-###### Art. 100.º Cruzamentos de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados passando superiormente, o elemento resistente será considerado como condutor nu de telecomunicação, se a sua resistência à rotura for inferior a 1000 kgf, devendo, neste caso, adoptar-se uma das soluções previstas no § 1.º do artigo 98.º
+Art. 100.º Cruzamentos de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados passando superiormente, o elemento resistente será considerado como condutor nu de telecomunicação, se a sua resistência à rotura for inferior a 1000 kgf, devendo, neste caso, adoptar-se uma das soluções previstas no § 1.º do artigo 98.º
 
-###### Art. 101.º Cruzamentos de linhas de baixa tensão com linhas de telecomunicação num apoio comum. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação estabelecidos num apoio comum observar-se-ão as prescrições seguintes:
+Art. 101.º Cruzamentos de linhas de baixa tensão com linhas de telecomunicação num apoio comum. - Nos cruzamentos de linhas de baixa tensão com linhas de telecomunicação estabelecidos num apoio comum observar-se-ão as prescrições seguintes:
 
 a) Os condutores da linha de baixa tensão ficarão sempre colocados superiormente aos da linha de telecomunicação;
 
@@ -2314,7 +2385,7 @@ b) A distância entre os condutores mais próximos das linhas de baixa tensão e
 
 Comentário. - Recomenda-se que o cruzamento de linhas de baixa tensão e de telecomunicação, de entidades diferentes, num apoio comum se efectue apenas nos casos em que, por virtude das condições locais, o estabelecimento em apoios diferentes ofereça grandes dificuldades ou ocasione despesas exageradas.
 
-###### Art. 102.º Cruzamentos de linhas de baixa tensão com antenas. - Nos cruzamentos de linhas de baixa tensão constituídas por condutores nus ou isolados simples sem bainha de protecção com antenas receptoras de radiodifusão exteriores aos edifícios deverá observar-se a distância mínima de 1 m entre os condutores e a antena e respectiva baixada até à sua entrada no edifício, devendo ainda ser reforçada a amarração da antena no caso de esta cruzar superiormente.
+Art. 102.º Cruzamentos de linhas de baixa tensão com antenas. - Nos cruzamentos de linhas de baixa tensão constituídas por condutores nus ou isolados simples sem bainha de protecção com antenas receptoras de radiodifusão exteriores aos edifícios deverá observar-se a distância mínima de 1 m entre os condutores e a antena e respectiva baixada até à sua entrada no edifício, devendo ainda ser reforçada a amarração da antena no caso de esta cruzar superiormente.
 
 Comentários. - 1. O reforço da amarração da antena, se esta cruzar superiormente a linha de baixa tensão, já é exigido no Regulamento das Instalações Receptoras de Radiodifusão, aprovado pelo [Decreto n.º 41486](https://diariodarepublica.pt/dr/detalhe/decreto/41486-1957-251234), de 30 de Dezembro de 1957, para condutores nus.
 
@@ -2324,45 +2395,45 @@ Comentários. - 1. O reforço da amarração da antena, se esta cruzar superiorm
 
 8.1 - Vizinhanças de linhas aéreas de baixa tensão com ruas, estradas e caminhos
 
-###### Art. 103.º Distância dos condutores ao solo. - Nas vizinhanças com vias públicas ou particulares, a distância ao solo dos condutores não será inferior à fixada no artigo 46.º
+Art. 103.º Distância dos condutores ao solo. - Nas vizinhanças com vias públicas ou particulares, a distância ao solo dos condutores não será inferior à fixada no artigo 46.º
 
 8.2 - Vizinhanças de linhas aéreas de baixa tensão com teleféricos
 
-###### Art. 104.º Distância dos condutores à instalação do teleférico. - Nas vizinhanças com teleféricos observar-se-á uma distância horizontal entre os condutores mais próximos e a instalação do teleférico não inferior à altura dos postes fora do solo.
+Art. 104.º Distância dos condutores à instalação do teleférico. - Nas vizinhanças com teleféricos observar-se-á uma distância horizontal entre os condutores mais próximos e a instalação do teleférico não inferior à altura dos postes fora do solo.
 
 8.3 - Vizinhanças de linhas aéreas de baixa tensão com caminhos de ferro não electrificados
 
-###### Art. 105.º Distância dos condutores à via férrea. - Nas vizinhanças com caminhos de ferro não electrificados observar-se-á uma distância horizontal não inferior a 1,50 m entre os condutores e o perfil do material rolante.
+Art. 105.º Distância dos condutores à via férrea. - Nas vizinhanças com caminhos de ferro não electrificados observar-se-á uma distância horizontal não inferior a 1,50 m entre os condutores e o perfil do material rolante.
 
 § único. Nas vizinhanças com caminhos de ferro cuja electrificação esteja prevista observar-se-á o disposto no artigo 107.º logo que a fiscalização do Governo o imponha.
 
-###### Art. 106.º Distância dos postes à via férrea. - Nas vizinhanças com caminhos de ferro não electrificados observar-se-á a distância mínima fixada no artigo 90.º para a implantação dos postes.
+Art. 106.º Distância dos postes à via férrea. - Nas vizinhanças com caminhos de ferro não electrificados observar-se-á a distância mínima fixada no artigo 90.º para a implantação dos postes.
 
 8.4 - Vizinhanças de linhas aéreas de baixa tensão com caminhos de ferro electrificados
 
-###### Art. 107.º Distância dos condutores à via férrea. - Nas vizinhanças com caminhos de ferro electrificados, a distância horizontal dos condutores ao perfil do material rolante e à instalação da linha de contacto não deverá ser inferior a 1,50 m, não sendo permitidos vãos em que os condutores possam atingir qualquer elemento sob tensão da instalação da linha de contacto, quer por cedência ou derrubamento dos apoios, quer por desprendimento ou rotura dos condutores.
+Art. 107.º Distância dos condutores à via férrea. - Nas vizinhanças com caminhos de ferro electrificados, a distância horizontal dos condutores ao perfil do material rolante e à instalação da linha de contacto não deverá ser inferior a 1,50 m, não sendo permitidos vãos em que os condutores possam atingir qualquer elemento sob tensão da instalação da linha de contacto, quer por cedência ou derrubamento dos apoios, quer por desprendimento ou rotura dos condutores.
 
-###### Art. 108.º Distância dos postes à via férrea. - Nas vizinhanças com caminhos de ferro electrificados observar-se-á a distância mínima fixada no artigo 90.º para a implantação dos postes.
+Art. 108.º Distância dos postes à via férrea. - Nas vizinhanças com caminhos de ferro electrificados observar-se-á a distância mínima fixada no artigo 90.º para a implantação dos postes.
 
 8.5 - Vizinhanças de linhas aéreas de baixa tensão com linhas de tracção eléctrica urbana e suburbana
 
-###### Art. 109.º Distância à instalação da linha de contacto. - Nas vizinhanças de linhas de baixa tensão com linhas de tracção eléctrica urbana e suburbana, a distância, em projecção horizontal, dos condutores e apoios daquelas linhas a elementos sob tensão da instalação da linha de contacto não deverá ser inferior a 1,30 m.
+Art. 109.º Distância à instalação da linha de contacto. - Nas vizinhanças de linhas de baixa tensão com linhas de tracção eléctrica urbana e suburbana, a distância, em projecção horizontal, dos condutores e apoios daquelas linhas a elementos sob tensão da instalação da linha de contacto não deverá ser inferior a 1,30 m.
 
 § único. A distância prevista no corpo do artigo poderá reduzir-se, com o acordo prévio da fiscalização do Governo, nos casos em que a largura das vias públicas não permita observá-la.
 
 8.6 - Vizinhanças de linhas aéreas de baixa tensão entre si
 
-###### Art. 110.º Vizinhanças de linhas de baixa tensão em apoios diferentes. - Nas vizinhanças de linhas de baixa tensão estabelecidas em apoios diferentes, a distância horizontal entre os condutores mais próximos não será inferior a 2 m.
+Art. 110.º Vizinhanças de linhas de baixa tensão em apoios diferentes. - Nas vizinhanças de linhas de baixa tensão estabelecidas em apoios diferentes, a distância horizontal entre os condutores mais próximos não será inferior a 2 m.
 
-###### Art. 111.º Vizinhanças de linhas de baixa tensão em apoios comuns. - Nas vizinhanças de linhas de baixa tensão estabelecidas em apoios comuns, a distância entre os condutores mais próximos não poderá ser inferior à prevista no artigo 50.º
+Art. 111.º Vizinhanças de linhas de baixa tensão em apoios comuns. - Nas vizinhanças de linhas de baixa tensão estabelecidas em apoios comuns, a distância entre os condutores mais próximos não poderá ser inferior à prevista no artigo 50.º
 
 8.7 - Vizinhanças de linhas aéreas de baixa tensão com linhas aéreas de alta tensão
 
-###### Art. 112.º Vizinhanças de linhas de baixa tensão com linhas de alta tensão em apoios diferentes. - Nas vizinhanças de linhas de baixa tensão com linhas de alta tensão estabelecidas em apoios diferentes, a distância, em projecção horizontal, entre os condutores mais próximos das duas linhas, nas condições de flecha máxima e desviados pelo vento, não será inferior a 2 m, para tensões nominais iguais ou inferiores a 60 kV, e a 3 m, para tensões superiores.
+Art. 112.º Vizinhanças de linhas de baixa tensão com linhas de alta tensão em apoios diferentes. - Nas vizinhanças de linhas de baixa tensão com linhas de alta tensão estabelecidas em apoios diferentes, a distância, em projecção horizontal, entre os condutores mais próximos das duas linhas, nas condições de flecha máxima e desviados pelo vento, não será inferior a 2 m, para tensões nominais iguais ou inferiores a 60 kV, e a 3 m, para tensões superiores.
 
 § único. A distância referida no corpo do artigo poderá ser reduzida, nos casos de vizinhança com linhas de alta tensão que passem superiormente, desde que se observem as disposições relativas a cruzamentos entre linhas de baixa e alta tensão.
 
-###### Art. 113.º Vizinhanças de linhas de baixa tensão com linhas de alta tensão em apoios comuns. - Em casos especiais devidamente justificados, aceites pela fiscalização do Governo, permitir-se-ão vizinhanças de linhas de baixa tensão com linhas de alta tensão estabelecidas em apoios comuns, devendo, porém, observar-se as prescrições seguintes:
+Art. 113.º Vizinhanças de linhas de baixa tensão com linhas de alta tensão em apoios comuns. - Em casos especiais devidamente justificados, aceites pela fiscalização do Governo, permitir-se-ão vizinhanças de linhas de baixa tensão com linhas de alta tensão estabelecidas em apoios comuns, devendo, porém, observar-se as prescrições seguintes:
 
 a) Os condutores da linha de baixa tensão serão sempre colocados inferiormente aos da linha de alta tensão;
 
@@ -2376,39 +2447,39 @@ Existem, no entanto, situações particulares em que se verifica a impossibilida
 
 8.8 - Vizinhanças de linhas aéreas de baixa tensão com linhas de telecomunicação e com antenas
 
-###### Art. 114.º Vizinhanças de linhas de baixa tensão com linhas de telecomunicação em apoios diferentes. - Nas vizinhanças de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios diferentes, a distância entre os condutores mais próximos das duas linhas não deverá ser inferior a 1 m, podendo ser reduzida a 0,30 m se os condutores da linha de baixa tensão forem estabelecidos superiormente e os seus pontos de fixação não distarem entre si mais de 2 m.
+Art. 114.º Vizinhanças de linhas de baixa tensão com linhas de telecomunicação em apoios diferentes. - Nas vizinhanças de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios diferentes, a distância entre os condutores mais próximos das duas linhas não deverá ser inferior a 1 m, podendo ser reduzida a 0,30 m se os condutores da linha de baixa tensão forem estabelecidos superiormente e os seus pontos de fixação não distarem entre si mais de 2 m.
 
 § 1.º Quando a distância, em projecção horizontal, entre os condutores das duas linhas for inferior a 1 m, deverão, sempre que possível, os condutores da linha de baixa tensão passar acima de todos os da linha de telecomunicação.
 
 § 2.º Se a distância, em projecção horizontal, entre os condutores mais próximos das duas linhas for inferior a 1 m e os condutores da linha de baixa tensão não passarem acima de todos os da linha de telecomunicação, adoptar-se-á uma das três soluções mencionadas no § 1.º do artigo 98.º, devendo o dispositivo de resguardo, no caso de se empregar, obedecer ao disposto no seu § 2.º e ficar a uma distância mínima de 0,70 m dos condutores da linha de telecomunicação e o seu plano separar completamente as duas linhas.
 
-###### Art. 115.º Vizinhanças de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados. - Nas vizinhanças de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados passando superiormente observar-se-á o disposto no artigo 100.º
+Art. 115.º Vizinhanças de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados. - Nas vizinhanças de linhas de baixa tensão com linhas de telecomunicação constituídas por condutores isolados suspensos de fiadores ou auto-sustentados passando superiormente observar-se-á o disposto no artigo 100.º
 
-###### Art. 116.º Vizinhanças entre linhas de baixa tensão e de telecomunicação estabelecidas ao longo da mesma superfície de apoio. - Nas vizinhanças de linhas de baixa tensão constituídas por condutores isolados com bainha de protecção com linhas de telecomunicação constituídas por condutores isolados, estabelecidas ao longo da mesma superfície de apoio, de imóveis ou de estruturas rígidas, a distância mínima entre os condutores das duas linhas poderá ser de 0,05 m.
+Art. 116.º Vizinhanças entre linhas de baixa tensão e de telecomunicação estabelecidas ao longo da mesma superfície de apoio. - Nas vizinhanças de linhas de baixa tensão constituídas por condutores isolados com bainha de protecção com linhas de telecomunicação constituídas por condutores isolados, estabelecidas ao longo da mesma superfície de apoio, de imóveis ou de estruturas rígidas, a distância mínima entre os condutores das duas linhas poderá ser de 0,05 m.
 
-###### Art. 117.º Vizinhanças de linhas de baixa tensão com linhas de telecomunicação em apoios comuns. - Nas vizinhanças de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios comuns observar-se-á o disposto no artigo 101.º
+Art. 117.º Vizinhanças de linhas de baixa tensão com linhas de telecomunicação em apoios comuns. - Nas vizinhanças de linhas de baixa tensão com linhas de telecomunicação estabelecidas em apoios comuns observar-se-á o disposto no artigo 101.º
 
 Comentário. - As considerações feitas no comentário do artigo 101.º são válidas nos casos de vizinhanças de linhas de baixa tensão e de telecomunicação, de entidades diferentes, estabelecidas em apoios comuns.
 
-###### Art. 118.º Vizinhanças de linhas de baixa tensão com antenas. - Nas vizinhanças de linhas de baixa tensão com antenas receptoras de radiodifusão exteriores aos edifícios observar-se-á o disposto no artigo 102.º
+Art. 118.º Vizinhanças de linhas de baixa tensão com antenas. - Nas vizinhanças de linhas de baixa tensão com antenas receptoras de radiodifusão exteriores aos edifícios observar-se-á o disposto no artigo 102.º
 
 9 - Travessias, cruzamentos e vizinhanças nas redes de distribuição subterrâneas
 
-###### Art. 119.º Travessias subterrâneas de ruas e estradas. - Nas travessias subterrâneas de ruas e estradas nacionais ou municipais, os cabos enterrados serão enfiados em condutas à profundidade mínima de 1 m.
+Art. 119.º Travessias subterrâneas de ruas e estradas. - Nas travessias subterrâneas de ruas e estradas nacionais ou municipais, os cabos enterrados serão enfiados em condutas à profundidade mínima de 1 m.
 
 § único. As condutas deverão ser resistentes e duráveis, tanto no que respeita aos elementos constituintes como às suas ligações, impedir a entrada de detritos e ter diâmetro que permita fácil enfiamento ou desenfiamento dos cabos sem danificação dos pavimentos.
 
 Comentário. - Recomenda-se o emprego de condutas de grés, betão ou ferro.
 
-###### Art. 120.º Travessias sob cursos de água. - Na instalação de cabos no leito de cursos de água deverão empregar-se cabos apropriados, dispostos de modo a não perturbar a circulação de embarcações, nem pôr em perigo a segurança das pessoas que utilizem os barcos ou transitem nas margens.
+Art. 120.º Travessias sob cursos de água. - Na instalação de cabos no leito de cursos de água deverão empregar-se cabos apropriados, dispostos de modo a não perturbar a circulação de embarcações, nem pôr em perigo a segurança das pessoas que utilizem os barcos ou transitem nas margens.
 
-###### Art. 121.º Travessias e cruzamentos subterrâneos com caminhos de ferro. - As travessias e cruzamentos subterrâneos com caminhos de ferro efectuar-se-ão, tanto quanto possível, normalmente à via e a uma profundidade igual ou superior a 1,30 m, em relação à face inferior da travessa, devendo o local da travessia ou cruzamento ser referenciado e os cabos passar dentro de condutas que satisfaçam ao disposto no § único do artigo 119.º ou em canais cobertos e revestidos por forma a não comprometer a solidez da plataforma e a não constituir um obstáculo aos trabalhos de conservação da via férrea.
+Art. 121.º Travessias e cruzamentos subterrâneos com caminhos de ferro. - As travessias e cruzamentos subterrâneos com caminhos de ferro efectuar-se-ão, tanto quanto possível, normalmente à via e a uma profundidade igual ou superior a 1,30 m, em relação à face inferior da travessa, devendo o local da travessia ou cruzamento ser referenciado e os cabos passar dentro de condutas que satisfaçam ao disposto no § único do artigo 119.º ou em canais cobertos e revestidos por forma a não comprometer a solidez da plataforma e a não constituir um obstáculo aos trabalhos de conservação da via férrea.
 
 § único. Do disposto no corpo do artigo exceptuam-se as travessias e cruzamentos em que os cabos estejam enterrados em pavimentos sob pontes e viadutos do caminho de ferro ou pavimentos de pontes e viadutos que passem superiormente.
 
 Comentário. - Recomenda-se efectuar as travessias e cruzamentos nos locais onde tenha menor largura a zona do caminho de ferro e evitá-los entre agulhas de estação.
 
-###### Art. 122.º Cruzamentos e vizinhanças de cabos de energia subterrâneos. - Nos cruzamentos e vizinhanças de cabos de energia subterrâneos deverá observar-se o seguinte:
+Art. 122.º Cruzamentos e vizinhanças de cabos de energia subterrâneos. - Nos cruzamentos e vizinhanças de cabos de energia subterrâneos deverá observar-se o seguinte:
 
 a) Nos cruzamentos e vizinhanças de cabos de baixa tensão com outros de alta tensão, se for inferior a 0,25 m a distância entre eles, deverão os cabos de baixa tensão ficar separados dos de alta tensão por tubos, condutas ou divisórias, robustos e constituídos por materiais incombustíveis e de fusão difícil;
 
@@ -2416,7 +2487,7 @@ b) Nos cruzamentos e vizinhanças de cabos de baixa tensão de entidades diferen
 
 Comentário. - Recomenda-se que os cabos de alta tensão ocupem posição inferior, se ficarem a uma distância horizontal dos de baixa tensão menor que 0,25 m.
 
-###### Art. 123.º Cruzamentos e vizinhanças de cabos de baixa tensão com cabos de telecomunicação, subterrâneos. - Nos cruzamentos e vizinhanças de cabos de baixa tensão com cabos de telecomunicação, subterrâneos, observar-se-á o seguinte:
+Art. 123.º Cruzamentos e vizinhanças de cabos de baixa tensão com cabos de telecomunicação, subterrâneos. - Nos cruzamentos e vizinhanças de cabos de baixa tensão com cabos de telecomunicação, subterrâneos, observar-se-á o seguinte:
 
 a) Nos cruzamentos, a distância mínima entre os cabos de baixa tensão e os de telecomunicação deverá ser de 0,20 m;
 
@@ -2430,7 +2501,7 @@ Colocar, nos cruzamentos, por cima do cabo de telecomunicação, se o de baixa t
 
 Manter, nas vizinhanças, a distância mínima horizontal de 0,40m entre o cabo de baixa tensão e o de telecomunicação.
 
-###### Art. 124.º Vizinhanças com canalizações de gás, água e esgoto. - Nas vizinhanças de cabos de baixa tensão com canalizações de gás, água e esgoto observar-se-á o seguinte:
+Art. 124.º Vizinhanças com canalizações de gás, água e esgoto. - Nas vizinhanças de cabos de baixa tensão com canalizações de gás, água e esgoto observar-se-á o seguinte:
 
 a) Os cabos não deverão ficar a uma distância das canalizações inferior a 0,20 m;
 
@@ -2440,7 +2511,7 @@ b) Se, por motivos especiais, devidamente comprovados, a distância prevista na 
 
 10 - Instalações de iluminação pública
 
-###### Art. 125.º Colunas e braços de candeeiros. - As colunas e braços de candeeiros serão de material resistente às acções da intempérie, ou devidamente protegidos contra essas acções, dimensionados de forma a resistirem às solicitações previstas, designadamente à acção do vento, e não deverão permitir a entrada da chuva nem a acumulação de água de condensação.
+Art. 125.º Colunas e braços de candeeiros. - As colunas e braços de candeeiros serão de material resistente às acções da intempérie, ou devidamente protegidos contra essas acções, dimensionados de forma a resistirem às solicitações previstas, designadamente à acção do vento, e não deverão permitir a entrada da chuva nem a acumulação de água de condensação.
 
 § 1.º As colunas deverão possuir abertura de acesso, prevista para ficar, pelo menos, a 0,30m do solo e dotada de porta ou tampa que feche com toda a segurança, não possa abrir-se sem meios especiais e vede a entrada de água proveniente de jactos.
 
@@ -2448,11 +2519,11 @@ b) Se, por motivos especiais, devidamente comprovados, a distância prevista na 
 
 § 3.º Quando, pela sua situação ou dimensões, as colunas fixadas ou incorporadas em obras de arte não permitam a instalação dos órgãos de protecção na base, poderão esses órgãos ser colocados na sua parte superior, em local apropriado, ou na própria obra de arte.
 
-###### Art. 126.º Armaduras para iluminação. - As armaduras para iluminação deverão ser resistentes às acções da intempérie e assegurar que os terminais de ligação fiquem resguardados dessas acções.
+Art. 126.º Armaduras para iluminação. - As armaduras para iluminação deverão ser resistentes às acções da intempérie e assegurar que os terminais de ligação fiquem resguardados dessas acções.
 
-###### Art. 127.º Colocação dos candeeiros. - Os candeeiros serão fixados às superfícies de apoio ou implantados no solo de modo que ofereçam as necessárias condições de segurança.
+Art. 127.º Colocação dos candeeiros. - Os candeeiros serão fixados às superfícies de apoio ou implantados no solo de modo que ofereçam as necessárias condições de segurança.
 
-###### Art. 128.º Instalação eléctrica dos candeeiros. - Na instalação eléctrica dos candeeiros deverá observar-se o seguinte:
+Art. 128.º Instalação eléctrica dos candeeiros. - Na instalação eléctrica dos candeeiros deverá observar-se o seguinte:
 
 a) Os condutores a utilizar serão os condutores isolados previstos no artigo 35.º ou outros autorizados pela fiscalização do Governo;
 
@@ -2468,7 +2539,7 @@ f) Na ligação das armaduras suspensas, os condutores serão flexíveis e terã
 
 g) Cada candeeiro será dotado de protecção contra curtos-circuitos, a qual poderá ser feita por grupos de lâmpadas até à intensidade de 6 A, devendo fazer-se individualmente por cada lâmpada de intensidade superior a 6 A.
 
-###### Art. 129.º Ligação dos candeeiros à rede de distribuição. - Na ligação dos candeeiros à rede de distribuição deverá observar-se o disposto neste regulamento para as chegadas, na parte aplicável, permitindo-se, no entanto, o emprego de condutores das secções mínimas seguintes:
+Art. 129.º Ligação dos candeeiros à rede de distribuição. - Na ligação dos candeeiros à rede de distribuição deverá observar-se o disposto neste regulamento para as chegadas, na parte aplicável, permitindo-se, no entanto, o emprego de condutores das secções mínimas seguintes:
 
 a) Condutores isolados de cobre, aéreos, de 1,5 mm2, ou de secção mecânicamente equivalente, se de outros materiais, quando derivem de um apoio da rede para um candeeiro nele fixado ou quando o apoio e o candeeiro se situem na mesma parede e a pequena distância;
 
@@ -2480,11 +2551,11 @@ b) Cabos subterrâneos com a secção de 2,5 mm2.
 
 Comentário. - Recomenda-se a ligação por meio de portinhola no caso de a ligação da chegada ao candeeiro ser feita exteriormente a este.
 
-###### Art. 130.º Ligações de terra. - As colunas de candeeiros e, bem assim, os apoios acessíveis que suportem candeeiros serão ligados à terra, se metálicos ou de betão armado, quando estabelecidos em recintos de recreio, de divertimento, ou noutros onde normalmente permaneçam pessoas.
+Art. 130.º Ligações de terra. - As colunas de candeeiros e, bem assim, os apoios acessíveis que suportem candeeiros serão ligados à terra, se metálicos ou de betão armado, quando estabelecidos em recintos de recreio, de divertimento, ou noutros onde normalmente permaneçam pessoas.
 
 11 - Condições de estabelecimento das redes de distribuição aéreas na proximidade de pára-raios de protecção de edifícios e em locais sujeitos a perigo de incêndio e explosão
 
-###### Art. 131.º Condições de estabelecimento das redes de distribuição aéreas na proximidade de pára-raios de protecção de edifícios. - Entre os elementos das redes de distribuição e os dos circuitos de pára-raios de protecção de edifícios deverá haver independência completa.
+Art. 131.º Condições de estabelecimento das redes de distribuição aéreas na proximidade de pára-raios de protecção de edifícios. - Entre os elementos das redes de distribuição e os dos circuitos de pára-raios de protecção de edifícios deverá haver independência completa.
 
 § 1.º Os postaletes e consolas deverão, sempre que possível, estar afastados de, pelo menos, 1 m de qualquer elemento dos circuitos dos pára-raios e, bem assim, das partes metálicas, ligadas à terra, dos edifícios onde forem fixados.
 
@@ -2496,7 +2567,7 @@ b) Os eléctrodos serão de cobre.
 
 § 3.º Os eléctrodos de terra da rede de distribuição e dos pára-raios, quando próximos, deverão ser ligados entre si.
 
-###### Art. 132.º Condições de estabelecimento de redes de distribuição em locais sujeitos a perigo de incêndio e explosão. - Em locais sujeitos a perigo de incêndio e explosão e na proximidade desses locais até 40 m de distância não será permitido o emprego nas redes de distribuição de condutores nus ou isolados simples sem bainha de protecção.
+Art. 132.º Condições de estabelecimento de redes de distribuição em locais sujeitos a perigo de incêndio e explosão. - Em locais sujeitos a perigo de incêndio e explosão e na proximidade desses locais até 40 m de distância não será permitido o emprego nas redes de distribuição de condutores nus ou isolados simples sem bainha de protecção.
 
 § único. As canalizações eléctricas estabelecidas nos locais sujeitos a perigo de incêndio e explosão obedecerão às condições regulamentares de segurança das instalações de utilização de energia eléctrica em baixa tensão.
 
@@ -2504,7 +2575,7 @@ b) Os eléctrodos serão de cobre.
 
 12.1 - Protecção contra sobretensões
 
-###### Art. 133.º Protecção contra sobretensões. - As redes de distribuição serão protegidas contra sobretensões, de origem atmosférica ou provenientes de contactos acidentais com instalações de alta tensão, mediante as ligações do neutro à terra previstas no artigo 51.º e o estabelecimento de pára-raios, ligados entre fases e neutro, nas regiões em que a incidência de trovoadas o imponha.
+Art. 133.º Protecção contra sobretensões. - As redes de distribuição serão protegidas contra sobretensões, de origem atmosférica ou provenientes de contactos acidentais com instalações de alta tensão, mediante as ligações do neutro à terra previstas no artigo 51.º e o estabelecimento de pára-raios, ligados entre fases e neutro, nas regiões em que a incidência de trovoadas o imponha.
 
 Comentário. - É da maior conveniência instalar pára-raios para proteger as redes de distribuição aéreas contra sobretensões de origem atmosférica. Em regra, será suficiente o estabelecimento de pára-raios dentro dos postos de transformação, nas saídas das linhas aéreas e nos pontos das redes de distribuição excepcionalmente expostos.
 
@@ -2512,21 +2583,21 @@ A ligação do neutro à terra constitui ainda uma medida de segurança contra c
 
 Ligações múltiplas do neutro à terra nas redes de distribuição aéreas dão maior garantia à permanência da indispensável continuidade metálica neutro-terra e asseguram um mais fácil escoamento das correntes para o solo. Além disso, essa multiplicidade de ligações melhora a protecção das instalações de utilização contra sobretensões de origem atmosférica, o que tem grande importância nas regiões muito sujeitas a trovoadas.
 
-###### Art. 134.º Terra dos pára-raios. - Os pára-raios terão no local do seu estabelecimento um eléctrodo de terra que servirá também de eléctrodo do neutro da rede de distribuição.
+Art. 134.º Terra dos pára-raios. - Os pára-raios terão no local do seu estabelecimento um eléctrodo de terra que servirá também de eléctrodo do neutro da rede de distribuição.
 
 12.2 - Protecção contra sobreintensidades
 
-###### Art. 135.º Protecção contra sobreintensidades. - Os condutores das redes de distribuição, com excepção do neutro, serão protegidos contra sobreintensidades por corta-circuitos fusíveis ou por disjuntores.
+Art. 135.º Protecção contra sobreintensidades. - Os condutores das redes de distribuição, com excepção do neutro, serão protegidos contra sobreintensidades por corta-circuitos fusíveis ou por disjuntores.
 
-###### Art. 136.º Localização dos órgãos de protecção. - Os órgãos de protecção contra sobreintensidades serão estabelecidos nos postos de transformação, ou nas centrais, e ainda nas redes de distribuição, em obediência às exigências de exploração, devendo observar-se a conveniente selectividade.
+Art. 136.º Localização dos órgãos de protecção. - Os órgãos de protecção contra sobreintensidades serão estabelecidos nos postos de transformação, ou nas centrais, e ainda nas redes de distribuição, em obediência às exigências de exploração, devendo observar-se a conveniente selectividade.
 
-###### Art. 137.º Calibre dos elementos de protecção. - Os elementos de protecção contra sobreintensidades deverão ser previstos para as intensidades máximas de corrente permanente admissíveis nos condutores a proteger, segundo o seu tipo e modo de estabelecimento.
+Art. 137.º Calibre dos elementos de protecção. - Os elementos de protecção contra sobreintensidades deverão ser previstos para as intensidades máximas de corrente permanente admissíveis nos condutores a proteger, segundo o seu tipo e modo de estabelecimento.
 
 Comentários. - 1. A intensidade nominal do elemento fusível de um corta-circuito fusível é sempre inferior à sua intensidade limite de não fusão.
 
 Normalmente, as intensidades limites de não fusão e de fusão estão relacionadas com a intensidade nominal do modo seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 Recomenda-se, por isso, no caso de a protecção contra sobreintensidades ser feita por corta-circuitos fusíveis, que a intensidade nominal (calibre) do elemento fusível seja determinada de modo que a sua intensidade limite de não fusão seja inferior à intensidade máxima de corrente permanente admissível no condutor a proteger.
 
@@ -2540,27 +2611,27 @@ Recomenda-se, por isso, no caso de a protecção contra sobreintensidades ser fe
 
 Assim, na rede subterrânea do exemplo do comentário 1, se se pretender proteger por disjuntor o cabo nele considerado, empregar-se-á um disjuntor de intensidade nominal 60 A, do tipo sem regulação, ou um disjuntor de intensidade nominal tal que permita a regulação para uma intensidade de disparo de 60 A.
 
-###### Art. 138.º Calibre da protecção na portinhola. - O calibre dos elementos de protecções na portinhola deverá estar relacionado com os das protecções a jusante, com vista a uma conveniente selectividade e de harmonia com o disposto no Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica.
+Art. 138.º Calibre da protecção na portinhola. - O calibre dos elementos de protecções na portinhola deverá estar relacionado com os das protecções a jusante, com vista a uma conveniente selectividade e de harmonia com o disposto no Regulamento de Segurança de Instalações de Utilização de Energia Eléctrica.
 
-###### Art. 139.º Resistência aos curtos-circuitos. - Os aparelhos de corte ou de protecção deverão poder resistir aos efeitos dinâmicos e térmicos dos curtos-circuitos até ao momento da interrupção do circuito.
+Art. 139.º Resistência aos curtos-circuitos. - Os aparelhos de corte ou de protecção deverão poder resistir aos efeitos dinâmicos e térmicos dos curtos-circuitos até ao momento da interrupção do circuito.
 
 13 - Terras
 
-###### Art. 140.º Características dos condutores de terra. - Os condutores de terra deverão ser de material durável, de boa condutibilidade eléctrica e amplamente dimensionados para as correntes de terra previstas.
+Art. 140.º Características dos condutores de terra. - Os condutores de terra deverão ser de material durável, de boa condutibilidade eléctrica e amplamente dimensionados para as correntes de terra previstas.
 
 § único. Os condutores de terra dos pára-raios e a sua protecção contra acções mecânicas não poderão ser de material magnético.
 
-###### Art. 141.º Dimensões mínimas dos condutores de terra. - Os condutores de terra, se de cobre, não terão secção nominal inferior a 16 mm2, fora do solo, nem inferior a 25 mm2 a partir das ligações amovíveis até aos eléctrodos e, se de outro material, terão, pelo menos, secção elèctricamente equivalente.
+Art. 141.º Dimensões mínimas dos condutores de terra. - Os condutores de terra, se de cobre, não terão secção nominal inferior a 16 mm2, fora do solo, nem inferior a 25 mm2 a partir das ligações amovíveis até aos eléctrodos e, se de outro material, terão, pelo menos, secção elèctricamente equivalente.
 
-###### Art. 142.º Estabelecimento dos condutores de terra. - Os condutores de terra deverão ser convenientemente protegidos contra acções mecânicas e químicas, sempre que se justifique, e ter uma ligação amovível que permita efectuar a medição da resistência de terra dos eléctrodos, podendo, para realização dessa ligação, aproveitar-se um ponto de mudança de secção ou o ponto de derivação dos condutores de terra.
+Art. 142.º Estabelecimento dos condutores de terra. - Os condutores de terra deverão ser convenientemente protegidos contra acções mecânicas e químicas, sempre que se justifique, e ter uma ligação amovível que permita efectuar a medição da resistência de terra dos eléctrodos, podendo, para realização dessa ligação, aproveitar-se um ponto de mudança de secção ou o ponto de derivação dos condutores de terra.
 
 § único. No traçado dos condutores de terra dos pára-raios deverão evitar-se ângulos pronunciados.
 
-###### Art. 143.º Utilização das armaduras dos apoios de betão armado como condutores de terra. - As armaduras dos apoios de betão armado poderão ser utilizadas como condutores de terra desde que garantam uma condutância pelo menos igual à de um condutor de cobre de 16 mm2 de secção.
+Art. 143.º Utilização das armaduras dos apoios de betão armado como condutores de terra. - As armaduras dos apoios de betão armado poderão ser utilizadas como condutores de terra desde que garantam uma condutância pelo menos igual à de um condutor de cobre de 16 mm2 de secção.
 
-###### Art. 144.º Utilização do neutro para ligação à terra de apoios metálicos ou de betão armado. - A ligação à terra de apoios metálicos ou de betão armado poderá ser feita por intermédio do neutro nas redes de distribuição em que esse condutor tenha secção nominal não inferior às previstas no artigo 156.º
+Art. 144.º Utilização do neutro para ligação à terra de apoios metálicos ou de betão armado. - A ligação à terra de apoios metálicos ou de betão armado poderá ser feita por intermédio do neutro nas redes de distribuição em que esse condutor tenha secção nominal não inferior às previstas no artigo 156.º
 
-###### Art. 145.º Características dos eléctrodos de terra. - Os eléctrodos de terra serão de cobre, ferro zincado, ferro fundido ou outro material apropriado, sob a forma de chapas, varetas, tubos, perfilados, cabos ou fitas, com secção suficiente para resistir às acções destrutivas e as suas características deverão manter-se inalteráveis pela passagem das correntes de terra e ser prejudicadas o menos possível pelas variações climatéricas.
+Art. 145.º Características dos eléctrodos de terra. - Os eléctrodos de terra serão de cobre, ferro zincado, ferro fundido ou outro material apropriado, sob a forma de chapas, varetas, tubos, perfilados, cabos ou fitas, com secção suficiente para resistir às acções destrutivas e as suas características deverão manter-se inalteráveis pela passagem das correntes de terra e ser prejudicadas o menos possível pelas variações climatéricas.
 
 § 1.º Os eléctrodos deverão dar escoamento às correntes de terra previstas, de forma que o seu potencial e o gradiente de potencial à superfície do solo sejam os menores possíveis.
 
@@ -2582,7 +2653,7 @@ Para reduzir o perigo provocado pelas tensões de passo e de contacto procurar-s
 
 3. A utilização de canalizações metálicas de água não pertencentes ao proprietário ou explorador da instalação, ainda que satisfazendo ao disposto no § 3.º, só é recomendável desde que haja acordo do proprietário da canalização, com vista a ficar assegurada uma permanente ligação de terra.
 
-###### Art. 146.º Implantação dos eléctrodos de terra. - As chapas, varetas, tubos e perfilados deverão ficar enterrados verticalmente no solo, a uma profundidade tal que entre a superfície do solo e o eléctrodo haja uma distância mínima de 0,80 m. A profundidade para os cabos ou fitas não será inferior a 0,60 m.
+Art. 146.º Implantação dos eléctrodos de terra. - As chapas, varetas, tubos e perfilados deverão ficar enterrados verticalmente no solo, a uma profundidade tal que entre a superfície do solo e o eléctrodo haja uma distância mínima de 0,80 m. A profundidade para os cabos ou fitas não será inferior a 0,60 m.
 
 § único. Os eléctrodos do mesmo tipo ou de tipos diferentes poderão associar-se convenientemente afastados uns dos outros.
 
@@ -2590,7 +2661,7 @@ Comentários. - 1. A associação de eléctrodos visa a obter baixas resistênci
 
 2. Na escolha do tipo de eléctrodo recomenda-se ter em conta as condições do terreno onde o mesmo será implantado.
 
-###### Art. 147.º Dimensões mínimas dos eléctrodos de terra. - As dimensões mínimas dos eléctrodos de terra serão as seguintes:
+Art. 147.º Dimensões mínimas dos eléctrodos de terra. - As dimensões mínimas dos eléctrodos de terra serão as seguintes:
 
 a) Chapas - espessura de 2 mm, se de cobre, e de 3 mm, se de ferro;
 
@@ -2606,9 +2677,9 @@ f) Fitas - secção de 25 mm2 e espessura de 3 mm, se de cobre, e de 50 mm2 e 5 
 
 Comentário. - Para os eléctrodos de fita e de cabo utilizados nas redes de distribuição, em regra em leito horizontal, admitem-se secções mínimas inferiores às fixadas para esses eléctrodos no Regulamento de Segurança de Subestações e Postos de Transformação e Seccionamento por, de um modo geral, serem estabelecidos vários ao longo das redas de distribuição.
 
-###### Art. 148.º Resistência de terra do neutro. - A resistência global de terra do neutro não deverá ser superior a 10 Ómega.
+Art. 148.º Resistência de terra do neutro. - A resistência global de terra do neutro não deverá ser superior a 10 Ómega.
 
-###### Art. 149.º Verificação da resistência de terra dos eléctrodos. - A resistência de terra dos eléctrodos das redes de distribuição deverá ser verificada uma vez por ano, durante os meses de Junho, Julho e Agosto ou Setembro, e os resultados obtidos anotados num registo especial que possa ser consultado, em qualquer ocasião, pela fiscalização do Governo.
+Art. 149.º Verificação da resistência de terra dos eléctrodos. - A resistência de terra dos eléctrodos das redes de distribuição deverá ser verificada uma vez por ano, durante os meses de Junho, Julho e Agosto ou Setembro, e os resultados obtidos anotados num registo especial que possa ser consultado, em qualquer ocasião, pela fiscalização do Governo.
 
 § único. No caso de eléctrodos de grande extensão em que a resistência de terra não ultrapasse normalmente 1 Ómega, bastará proceder à sua medição de cinco em cinco anos.
 
@@ -2616,41 +2687,41 @@ Comentários. - 1. É da maior conveniência que a entidade que explora a instal
 
 2. Quando se suspeitar de agressividade do terreno, deverá periòdicamente pôr-se a nu o eléctrodo e o condutor de terra, a fim de verificar o seu estado de conservação.
 
-###### Art. 150.º Ligações à terra na proximidade de instalações de alta tensão. - Os condutores de terra e eléctrodos de terra na proximidade de instalações de alta tensão deverão estar fora das zonas de influência das terras destas últimas instalações, não podendo distar destas terras menos de 3 m.
+Art. 150.º Ligações à terra na proximidade de instalações de alta tensão. - Os condutores de terra e eléctrodos de terra na proximidade de instalações de alta tensão deverão estar fora das zonas de influência das terras destas últimas instalações, não podendo distar destas terras menos de 3 m.
 
 14 - Instalações provisórias
 
-###### Art. 151.º Condições gerais de estabelecimento. - As instalações provisórias deverão satisfazer ao presente regulamento, salvo se as despesas inerentes o desaconselharem e a fiscalização do Governo, por isso, dispensar a aplicação de algumas das suas disposições.
+Art. 151.º Condições gerais de estabelecimento. - As instalações provisórias deverão satisfazer ao presente regulamento, salvo se as despesas inerentes o desaconselharem e a fiscalização do Governo, por isso, dispensar a aplicação de algumas das suas disposições.
 
 § único. Quando a segurança das instalações provisórias for menor que a resultante da aplicação deste regulamento, deverão ser tomadas precauções adequadas à protecção de pessoas e coisas.
 
 Comentário. - Entre as precauções adequadas salientam-se, segundo os casos, o estabelecimento de resguardos, a afixação de letreiros bem visíveis com advertências ou instruções e a observância do disposto neste regulamento sobre ligações à terra.
 
-###### Art. 152.º Duração. - A duração das instalações provisórias deverá reduzir-se ao estritamente necessário, podendo a fiscalização do Governo ordenar a desmontagem, remoção ou substituição das instalações quando o julgar conveniente.
+Art. 152.º Duração. - A duração das instalações provisórias deverá reduzir-se ao estritamente necessário, podendo a fiscalização do Governo ordenar a desmontagem, remoção ou substituição das instalações quando o julgar conveniente.
 
-###### Art. 153.º Interrupção geral. - As instalações provisórias deverão ser dotadas, quando se justifique, de um interruptor geral que corte todos os condutores e seja fàcilmente acessível ao pessoal de serviço.
+Art. 153.º Interrupção geral. - As instalações provisórias deverão ser dotadas, quando se justifique, de um interruptor geral que corte todos os condutores e seja fàcilmente acessível ao pessoal de serviço.
 
 Comentário. - Entre as instalações em que se justifica a existência de um interruptor geral incluem-se as de arraiais, feiras ou semelhantes e as de estaleiros de obras.
 
 15 - Condições especiais de estabelecimento de redes de distribuição em que se adopte o sistema «terra pelo neutro»
 
-###### Art. 154.º Disposição geral. - No estabelecimento de redes de distribuição em que se adopte o sistema «terra pelo neutro» observar-se-ão as prescrições deste regulamento que não sejam contrariadas pelo disposto nos artigos seguintes.
+Art. 154.º Disposição geral. - No estabelecimento de redes de distribuição em que se adopte o sistema «terra pelo neutro» observar-se-ão as prescrições deste regulamento que não sejam contrariadas pelo disposto nos artigos seguintes.
 
-###### Art. 155.º Material do neutro. - O neutro deverá ser do mesmo material dos condutores de fase, admitindo-se, porém, nas redes de distribuição subterrâneas a utilização da bainha dos cabos, quando de alumínio, como condutor neutro.
+Art. 155.º Material do neutro. - O neutro deverá ser do mesmo material dos condutores de fase, admitindo-se, porém, nas redes de distribuição subterrâneas a utilização da bainha dos cabos, quando de alumínio, como condutor neutro.
 
-###### Art. 156.º Secção do neutro. - O neutro terá as secções nominais mínimas seguintes:
+Art. 156.º Secção do neutro. - O neutro terá as secções nominais mínimas seguintes:
 
 a) A secção nominal dos condutores de fase para secções iguais ou inferiores a 50 mm2, nas redes de distribuição aéreas, e a 16 mm2, nas redes de distribuição subterrâneas;
 
 b) A secção nominal dada pelo quadro seguinte para secções nominais dos condutores de fase superiores às referidas na alínea anterior:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 § único. Nas redes de distribuição subterrâneas, a bainha de alumínio dos cabos, quando utilizada como condutor neutro, deverá ter secção, pelo menos, eléctricamente equivalente à secção exigida para o neutro no corpo do artigo.
 
-###### Art. 157.º Estabelecimento do neutro. - O neutro deverá ser estabelecido tão cuidadosamente como os condutores de fase.
+Art. 157.º Estabelecimento do neutro. - O neutro deverá ser estabelecido tão cuidadosamente como os condutores de fase.
 
-###### Art. 158.º Ligação do neutro à terra nas canalizações principais e ramais. - Nas canalizações principais e ramais, além das ligações à terra previstas no artigo 51.º, deverá ainda fazer-se uma ligação do neutro à terra na extremidade ou próximo da extremidade dessas canalizações principais e ramais, quando de extensão superior a 200 m.
+Art. 158.º Ligação do neutro à terra nas canalizações principais e ramais. - Nas canalizações principais e ramais, além das ligações à terra previstas no artigo 51.º, deverá ainda fazer-se uma ligação do neutro à terra na extremidade ou próximo da extremidade dessas canalizações principais e ramais, quando de extensão superior a 200 m.
 
 Comentário. - A distribuição das terras ao longo da rede de distribuição tem grande influência no valor da tensão que pode aparecer no neutro por rotura deste, tensão que é de considerar e que importa limitar quando se utilizar o sistema «terra pelo neutro».
 
@@ -2660,7 +2731,7 @@ A rotura do neutro pode ainda provocar o aparecimento de tensões perigosas no m
 
 Não se pode de todo evitar o aparecimento de tensões perigosas no neutro por rotura deste. É no entanto, de considerar que essa rotura será acusada pelos consumidores, em face do defeituoso funcionamento dos aparelhos resultante da falta de continuidade do neutro.
 
-###### Art. 159.º Ligação do neutro à terra nas caixas de cabos subterrâneos ou nas portinholas. - Nas caixas de cabos subterrâneos e nas portinholas situadas na proximidade de canalizações metálicas de água deverão efectuar-se ligações do neutro a essas canalizações mediante braçadeiras adequadas.
+Art. 159.º Ligação do neutro à terra nas caixas de cabos subterrâneos ou nas portinholas. - Nas caixas de cabos subterrâneos e nas portinholas situadas na proximidade de canalizações metálicas de água deverão efectuar-se ligações do neutro a essas canalizações mediante braçadeiras adequadas.
 
 § 1.º Na ligação do neutro a partir das caixas de cabos subterrâneos e das portinholas às canalizações principais de água deverão utilizar-se cabos ou fitas com a secção mínima de 35 mm2, se de cobre, ou secção elèctricamente equivalente, se de outro material.
 
@@ -2668,7 +2739,7 @@ Não se pode de todo evitar o aparecimento de tensões perigosas no neutro por r
 
 Comentário. - A ligação do neutro à terra nas portinholas, além de aumentar o número das ligações à terra, permitirá baixar ainda mais a resistência global de terra do neutro, sendo, por isso, de considerar mesmo no caso de não existência de canalizações metálicas, em que se empregarão eléctrodos.
 
-###### Art. 160.º Utilização de eléctrodos individuais. - Os eléctrodos individuais das instalações de utilização poderão ser utilizados como eléctrodos de terra da rede de distribuição, devendo, nesse caso, a sua ligação ao neutro efectuar-se na portinhola ou a montante desta.
+Art. 160.º Utilização de eléctrodos individuais. - Os eléctrodos individuais das instalações de utilização poderão ser utilizados como eléctrodos de terra da rede de distribuição, devendo, nesse caso, a sua ligação ao neutro efectuar-se na portinhola ou a montante desta.
 
 § 1.º Se na instalação de utilização houver um eléctrodo de terra com pequena resistência de terra afastado da portinhola, a fiscalização do Governo poderá autorizar que a correspondente ligação ao neutro se estabeleça a jusante da portinhola.
 
@@ -2678,7 +2749,7 @@ Comentários. - 1. Com a ligação dos eléctrodos individuais ao neutro tem-se 
 
 2. O caso referido no § 1.º verificar-se-á mais frequentemente nas instalações fabris ou rurais.
 
-###### Art. 161.º Resistência de terra do neutro. - A resistência de terra do neutro não deverá ser superior a 10 (Ómega) em cada quilómetro ou fracção, ao longo das canalizações principais e ramais, nem a resistência global de terra do neutro ser superior a 5 (Ómega).
+Art. 161.º Resistência de terra do neutro. - A resistência de terra do neutro não deverá ser superior a 10 (Ómega) em cada quilómetro ou fracção, ao longo das canalizações principais e ramais, nem a resistência global de terra do neutro ser superior a 5 (Ómega).
 
 Comentário. - O disposto neste artigo visa evitar o aparecimento de tensões perigosas no neutro nos casos de contacto franco entre fase e terra ou de contacto acidental da alta tensão com a baixa tensão.
 
@@ -2686,7 +2757,7 @@ No caso de contacto franco entre fase e terra, tem-se verificado ser pouco prov�
 
 No caso de contacto da alta tensão com a baixa tensão, actuarão as protecções da rede de alta tensão, mas no caso de contacto fase-terra na rede de distribuição de baixa tensão a corrente pode não ser suficiente para fazer actuar os órgãos de protecção (em geral, corta-circuitos fusíveis) da rede de distribuição.
 
-###### Art. 162.º Protecção contra curtos-circuitos. - A corrente de curto-circuito entre fase e neutro, em qualquer ponto da rede de distribuição, deverá originar a actuação da correspondente protecção de máximo de intensidade, de modo a provocar a interrupção do respectivo circuito, para o que as protecções de máximo de intensidade deverão estar convenientemente relaciopadas com as correntes de curto-circuito.
+Art. 162.º Protecção contra curtos-circuitos. - A corrente de curto-circuito entre fase e neutro, em qualquer ponto da rede de distribuição, deverá originar a actuação da correspondente protecção de máximo de intensidade, de modo a provocar a interrupção do respectivo circuito, para o que as protecções de máximo de intensidade deverão estar convenientemente relaciopadas com as correntes de curto-circuito.
 
 Comentário. - O disposto neste artigo visa a não manter tensões perigosas no neutro, por se operar no caso de curto-circuito entre fase e neutro o corte rápido da corrente.
 
@@ -2694,7 +2765,7 @@ Para se obter o corte rápido da corrente em casos de curto-circuito considera-s
 
 16 - Conservação, exploração e trabalhos nas redes de distribuição
 
-###### Art. 163.º Conservação. - As redes de distribuição serão convenientemente conservadas e mantidas em conformidade com as prescrições deste regulamento, devendo, por isso, efectuar-se inspecções periódicas.
+Art. 163.º Conservação. - As redes de distribuição serão convenientemente conservadas e mantidas em conformidade com as prescrições deste regulamento, devendo, por isso, efectuar-se inspecções periódicas.
 
 Comentário. - Recomenda-se que as inspecções incidam nomeadamente sobre:
 
@@ -2714,11 +2785,11 @@ g) Variações de tensão;
 
 h) Estado das lâmpadas de iluminação pública e das suas ligações e acessórios.
 
-###### Art. 164.º Exploração. - No serviço das redes de distribuição não deverá tocar-se, sem necessidade, em quaisquer condutores eléctricos, peças ou aparelhos desprotegidos, nem manejar, sem tomar os devidos cuidados, objectos que possam provocar contactos com elementos sob tensão.
+Art. 164.º Exploração. - No serviço das redes de distribuição não deverá tocar-se, sem necessidade, em quaisquer condutores eléctricos, peças ou aparelhos desprotegidos, nem manejar, sem tomar os devidos cuidados, objectos que possam provocar contactos com elementos sob tensão.
 
 § único. A manobra de interruptores e a substituição de corta-circuitos fusíveis só poderão ser executadas por pessoal encarregado desses serviços, empregando dispositivos de segurança adequados sempre que as circunstâncias o exijam.
 
-###### Art. 165.º Trabalhos sem tensão. - Os trabalhos nas redes de distribuição realizar-se-ão, normalmente, sem tensão e, neste caso, só serão iniciados depois de o responsável por eles ter procedido ao corte da corrente ou recebido comunicação de pessoa idónea que assegure ter sido efectuado esse corte, não se admitindo combinações de hora ou por falta de tensão, devendo, além disso, verificar-se com cuidado a proximidade de condutores ou de órgãos sob tensão e tomar-se as necessárias precauções de acordo com o disposto no artigo seguinte.
+Art. 165.º Trabalhos sem tensão. - Os trabalhos nas redes de distribuição realizar-se-ão, normalmente, sem tensão e, neste caso, só serão iniciados depois de o responsável por eles ter procedido ao corte da corrente ou recebido comunicação de pessoa idónea que assegure ter sido efectuado esse corte, não se admitindo combinações de hora ou por falta de tensão, devendo, além disso, verificar-se com cuidado a proximidade de condutores ou de órgãos sob tensão e tomar-se as necessárias precauções de acordo com o disposto no artigo seguinte.
 
 § 1.º Se a comunicação for telefónica deverá ser repetida por quem a receber, mostrando que a compreendeu.
 
@@ -2734,11 +2805,11 @@ Comentários. - 1. Recomenda-se que os responsáveis pela exploração das redes
 
 A falta de tensão poderá resultar de um acidente imprevisto e, portanto, não deve, só por si, servir de indicação para iniciar os trabalhos.
 
-###### Art. 166.º Trabalhos na proximidade de instalações sob tensão. - No caso de possível passagem de tensão para a parte da rede de distribuição seccionada em que haja de executar-se qualquer trabalho deverá efectuar-se no local ou próximo dele uma ligação de curto-circuito à terra entre todos os condutores abrangidos pelo trabalho, procedendo de igual modo para os condutores da rede de distribuição, ou de outra instalação, cuja proximidade seja perigosa, ou tomando outras medidas de segurança eficazes para prevenir o perigo resultante dessa proximidade.
+Art. 166.º Trabalhos na proximidade de instalações sob tensão. - No caso de possível passagem de tensão para a parte da rede de distribuição seccionada em que haja de executar-se qualquer trabalho deverá efectuar-se no local ou próximo dele uma ligação de curto-circuito à terra entre todos os condutores abrangidos pelo trabalho, procedendo de igual modo para os condutores da rede de distribuição, ou de outra instalação, cuja proximidade seja perigosa, ou tomando outras medidas de segurança eficazes para prevenir o perigo resultante dessa proximidade.
 
 § único. O curto-circuito à terra deverá iniciar-se pela ligação à terra.
 
-###### Art. 167.º Restabelecimento da tensão. - O restabelecimento da tensão nas redes de distribuição em trabalhos só deverá efectuar-se depois de avisado o pessoal ocupado nesses trabalhos, que antes terá posto a instalação em condições de ficar sob tensão, não se admitindo combinações de hora.
+Art. 167.º Restabelecimento da tensão. - O restabelecimento da tensão nas redes de distribuição em trabalhos só deverá efectuar-se depois de avisado o pessoal ocupado nesses trabalhos, que antes terá posto a instalação em condições de ficar sob tensão, não se admitindo combinações de hora.
 
 § 1.º Qualquer aviso ou comunicação pelo telefone deverá ser repetido por quem o receber, mostrando que o compreendeu.
 
@@ -2746,7 +2817,7 @@ A falta de tensão poderá resultar de um acidente imprevisto e, portanto, não 
 
 Comentário. - Não é prática aceitável combinar a hora para efectuar o restabelecimento da tensão pois esse procedimento pode dar lugar a acidentes por desacerto de relógios e engano nas horas ou por os trabalhos demorarem mais do que fora previsto.
 
-###### Art. 168.º Trabalhos sob tensão. - Os trabalhos sob tensão nas redes de distribuição poderão executar-se quando, por motivo de serviço, não seja conveniente eliminar a tensão.
+Art. 168.º Trabalhos sob tensão. - Os trabalhos sob tensão nas redes de distribuição poderão executar-se quando, por motivo de serviço, não seja conveniente eliminar a tensão.
 
 § 1.º Os trabalhos sob tensão serão efectuados por pessoas especialmente deles encarregadas e conhecedoras do perigo possível, que utilizarão dispositivos de segurança apropriados a cada trabalho.
 
@@ -2760,7 +2831,7 @@ Comentários. - 1. Recomenda-se que a execução de trabalhos sob pensão seja c
 
 2. Entre os dispositivos de segurança a utilizar, consoante o trabalho, citam-se os seguinte: estrados isolantes, luvas e calçado de borracha, óculos e viseiras protectores, ferramenta isolada e revestimentos protectores.
 
-###### Art. 169.º Instruções para primeiros socorros. - Em local de serviço apropriado deverão ser afixadas as instruções aprovadas oficialmente para os primeiros socorros a prestar em acidentes pessoais produzidos por correntes eléctricas.
+Art. 169.º Instruções para primeiros socorros. - Em local de serviço apropriado deverão ser afixadas as instruções aprovadas oficialmente para os primeiros socorros a prestar em acidentes pessoais produzidos por correntes eléctricas.
 
 Comentários. - 1. Recomenda-se que o pessoal afecto às instalações pratique com regularidade os exercícios de respiração artificial indicados nas instruções referidas.
 
@@ -2768,7 +2839,7 @@ Comentários. - 1. Recomenda-se que o pessoal afecto às instalações pratique 
 
 17 - Disposição transitória
 
-###### Art. 170.º Instalações rurais. - Nas redes de distribuição rurais, enquanto não for publicado o respectivo regulamento de segurança, serão admtidas, quando autorizadas pela fiscalização do Governo, prescrições diferentes das deste regulamento desde que não se relacionem com a resistência mecânica, distâncias dos condutores e ligações à terra.
+Art. 170.º Instalações rurais. - Nas redes de distribuição rurais, enquanto não for publicado o respectivo regulamento de segurança, serão admtidas, quando autorizadas pela fiscalização do Governo, prescrições diferentes das deste regulamento desde que não se relacionem com a resistência mecânica, distâncias dos condutores e ligações à terra.
 
 § único. Para efeitos deste artigo, entende-se por rede de distribuição rural a rede de distribuição de energia em localidade que não seja sede de concelho, cuja população se empregue predominantemente em trabalhos agrícolas, artesanato ou pequena indústria, e os edifícios estejam dispersos, ou, se aglomerados, o padrão de vida da população for manifestamente modesto.
 
@@ -2778,114 +2849,114 @@ QUADRO I
 
 Intensidades máximas de corrente permanente admissíveis em condutores nus
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO II
 
 Intensidades máximas de corrente permanente admissíveis em condutores isolados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO III
 
 Correcção dos valores do quadro II em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO IV
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado e bainha de chumbo envolvente, no caso de um único cabo, quando enterrado
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO V
 
 Correcção dos valores do quadro IV no caso de vários cabos, quando enterrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO VI
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de papel impregnado e bainha de chumbo envolvente, quando ao ar livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO VII
 
 Correcção dos valores do quadro IV a VI em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO VIII
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha de chumbo envolvente, no caso de um único cabo, quando a ar livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO IX
 
 Correcção dos valores do quadro VIII no caso de vários cabos, quando ao ar livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO X
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha de chumbo envolvente, quando enterrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XI
 
 Correcção dos valores do quadro VIII a X em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XII
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha envolvente do mesmo material do isolamento, no caso de um único cabo, quando enterrado ou ao ar livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XIII
 
 Intensidades máximas de corrente permanente admissíveis em cabos com isolamento de borracha ou de material termoplástico e bainha envolvente do mesmo material do isolamento, no caso de três cabos não armados, de um condutor, constituindo um sistema trifásico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XIV
 
 Correcção dos valores do quadro XII no caso de vários cabos, quando enterrados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XV
 
 Correcção dos valores do quadro XII no caso de vários cabos, quando ao ar livre
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XVI
 
 Correcção dos valores do quadro XII a XV em função da temperatura ambiente
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XVII
 
 Características de condutores
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XVIII
 
 Cursos de água navegáveis
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 QUADRO XIX
 
 Linhas de caminho de ferro cuja electrificação está prevista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf))](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/02201/01050164.pdf)
 
 Secretaria de Estado da Indústria, 27 de Janeiro de 1966. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

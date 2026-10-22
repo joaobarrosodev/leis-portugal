@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/05/11200/07010703.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46342-1965-294949
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63951cb5af5029cae6ab547bb94bdb312a0a5f54dbd7ebb8cd5b3e3b48d576fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c978287dfdcdfc5fad86d9340e521f24c3b711f5a1de26feab91c0407262d64
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fundo de Investimento Mobiliário
+- Orgânica
+- Sociedade Parabancária
 relationships:
 - type: amended_by
   target: pt:dre:152331:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251459:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:152331:por
+  label: Revogado pelo(a) Decreto-Lei n.º 134/85 - Diário da República n.º 100/1985, Série I de 1985-05-02
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/134-1985-152331
+  date: '1985-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:11Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +115,19 @@ A regulamentação destas instituições inicia-se com a flexibilidade normativa
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A fim de fomentar e promover a aplicação de capitais, sobretudo das pequenas e médias poupanças, em títulos de entidades públicas e privadas, é permitida a constituição de fundos de investimentos mobiliários e de sociedades gestoras, nos termos previstos neste diploma.
+Artigo 1.º A fim de fomentar e promover a aplicação de capitais, sobretudo das pequenas e médias poupanças, em títulos de entidades públicas e privadas, é permitida a constituição de fundos de investimentos mobiliários e de sociedades gestoras, nos termos previstos neste diploma.
 
-###### Art. 2.º Os fundos de investimentos mobiliários são conjuntos de valores mobiliários pertencentes a uma pluralidade de pessoas, singulares e colectivas, em que cada participante será titular de quotas-partes dos valores que os integram.
+Art. 2.º Os fundos de investimentos mobiliários são conjuntos de valores mobiliários pertencentes a uma pluralidade de pessoas, singulares e colectivas, em que cada participante será titular de quotas-partes dos valores que os integram.
 
 § único. A administração dos fundos é exercida em nome dos participantes por sociedades gestoras, devendo os valores que os constituem ser confiados a um ou mais depositários.
 
-###### Art. 3.º Os fundos de investimentos mobiliários têm por fim exclusivo a constituição de uma carteira diversificada de títulos, em ordem a compensar os riscos e as rentabilidades dos vários investimentos, sem dispor de participações maioritárias nas diferentes empresas.
+Art. 3.º Os fundos de investimentos mobiliários têm por fim exclusivo a constituição de uma carteira diversificada de títulos, em ordem a compensar os riscos e as rentabilidades dos vários investimentos, sem dispor de participações maioritárias nas diferentes empresas.
 
-###### Art. 4.º As sociedades gestoras têm por objecto exclusivo a administração, gestão e representação de um ou mais fundos.
+Art. 4.º As sociedades gestoras têm por objecto exclusivo a administração, gestão e representação de um ou mais fundos.
 
 § único. A sociedade gestora exercerá todos os seus actos em nome e por conta comum dos participantes e, na qualidade de gestora de um fundo e de sua legal representante, poderá comprar, vender, subscrever, trocar ou receber quaisquer valores mobiliários e exercer todos os direitos que directa ou indirectamente estejam relacionados com os bens do fundo.
 
-###### Art. 5.º As sociedades gestoras devem constituir-se sob a forma de sociedade anónima e satisfazer aos seguintes requisitos:
+Art. 5.º As sociedades gestoras devem constituir-se sob a forma de sociedade anónima e satisfazer aos seguintes requisitos:
 
 a) Ser de nacionalidade portuguesa, nos termos da legislação aplicável, e ter a sede em território nacional;
 
@@ -121,7 +137,7 @@ c) Ter um capital social realizado de, pelo menos, 2500000$00, não devendo, por
 
 d) Investir os seus capitais em valores fàcilmente realizáveis, sendo-lhes, porém, lícito adquirir os imóveis indispensáveis às suas instalações.
 
-###### Art. 6.º À sociedade gestora incumbe especialmente:
+Art. 6.º À sociedade gestora incumbe especialmente:
 
 a) Administrar, gerir e representar o fundo;
 
@@ -135,7 +151,7 @@ e) Seleccionar os valores que devem constituir o fundo, de acordo com a polític
 
 f) Manter em ordem a sua escrita e, bem assim, a do fundo.
 
-###### Art. 7.º À sociedade gestora é vedado:
+Art. 7.º À sociedade gestora é vedado:
 
 a) Contrair empréstimos ou onerar por qualquer forma os valores do fundo;
 
@@ -143,7 +159,7 @@ b) Proceder a operações que possam assegurar-lhe, bem como aos depositários o
 
 c) Possuir certificados de participação dos fundos que administra.
 
-###### Art. 8.º A remuneração dos serviços da sociedade gestora deve constar expressamente do regulamento de gestão do fundo e sòmente pode abranger:
+Art. 8.º A remuneração dos serviços da sociedade gestora deve constar expressamente do regulamento de gestão do fundo e sòmente pode abranger:
 
 1.º Uma comissão de gestão, a liquidar periòdicamente pelo fundo, destinada a cobrir todas as despesas de gestão, incluindo a remuneração ao depositário, mas das quais se excluem as despesas relativas à compra e venda de valores por conta do fundo;
 
@@ -151,7 +167,7 @@ c) Possuir certificados de participação dos fundos que administra.
 
 3.º Uma comissão de resgate, a liquidar pelos participantes, no acto de reembolso dos certificados.
 
-###### Art. 9.º Podem ser depositários as instituições de crédito referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e os bancos de investimento, competindo-lhes nessa qualidade em especial:
+Art. 9.º Podem ser depositários as instituições de crédito referidas nas alíneas a) a c) do artigo 3.º do [Decreto-Lei n.º 41403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41403-1957-251459) e os bancos de investimento, competindo-lhes nessa qualidade em especial:
 
 a) Receber em depósitos os valores do fundo;
 
@@ -165,7 +181,7 @@ e) Pagar aos titulares dos certificados a sua quota-parte nos lucros a que tenha
 
 f) Assumir uma função de vigilância e de garantia, perante os participantes, de ser cumprido o regulamento de gestão do fundo, especialmente no que se refere à política de investimentos.
 
-###### Art. 10.º O património do fundo deverá ser aplicado de acordo com as seguintes regras:
+Art. 10.º O património do fundo deverá ser aplicado de acordo com as seguintes regras:
 
 a) Não ter mais de 10 por cento em dinheiro ou em depósitos bancários;
 
@@ -179,7 +195,7 @@ d) Nenhum lote de títulos da mesma empresa poderá representar mais de 10 por c
 
 § 2.º Sempre que as circunstâncias o aconselhem, poderá o Ministro das Finanças rever, em portaria, as regras estabelecidas neste artigo.
 
-###### Art. 11.º O património do fundo é dividido em participações de características iguais, sem valor nominal, designadas por unidades de participação e representadas por certificados.
+Art. 11.º O património do fundo é dividido em participações de características iguais, sem valor nominal, designadas por unidades de participação e representadas por certificados.
 
 § 1.º Os certificados de participação, nominativos ou ao portador, podem agrupar várias unidades de participação e conferem aos seus titulares um direito de propriedade nos haveres do fundo proporcional ao número de unidades que representam.
 
@@ -187,11 +203,11 @@ d) Nenhum lote de títulos da mesma empresa poderá representar mais de 10 por c
 
 § 3.º O regulamento de gestão do fundo deve ser reproduzido no verso dos certificados de participação e nas propostas.
 
-###### Art. 12.º Os participantes não poderão exigir a liquidação ou partilha do fundo, estando-lhes, porém, assegurado o direito de em qualquer ocasião pedirem o reembolso das unidades de participação que possuam.
+Art. 12.º Os participantes não poderão exigir a liquidação ou partilha do fundo, estando-lhes, porém, assegurado o direito de em qualquer ocasião pedirem o reembolso das unidades de participação que possuam.
 
 § único. A dissolução e liquidação só poderão verificar-se nas condições previstas no regulamento de gestão, sendo obrigatória a publicação do respectivo aviso, com seis meses de antecedência, em dois jornais de grande circulação, um de Lisboa e outro do Porto.
 
-###### Art. 13.º Para efeitos de subscrição e reembolso, o valor de cada unidade de participação será calculado diàriamente, excepto aos sábados, domingos e feriados, e determina-se dividindo-se o valor líquido global dos bens do fundo pelo número de unidades de participação em circulação.
+Art. 13.º Para efeitos de subscrição e reembolso, o valor de cada unidade de participação será calculado diàriamente, excepto aos sábados, domingos e feriados, e determina-se dividindo-se o valor líquido global dos bens do fundo pelo número de unidades de participação em circulação.
 
 § 1.º O valor líquido global dos bens do fundo apurar-se-á adicionando ao montante em dinheiro em caixa e em depósitos bancários o valor dos títulos em carteira e outros valores e deduzindo da importância assim obtida o valor dos encargos efectivos ou pendentes.
 
@@ -199,30 +215,30 @@ d) Nenhum lote de títulos da mesma empresa poderá representar mais de 10 por c
 
 § 3.º Para obter o preço de emissão e de reembolso, ao valor da unidade de participação acrescentar-se-á nos casos de subscrição e deduzir-se-á nos de reembolso, respectivamente, a comissão de emissão e a de resgate.
 
-###### Art. 14.º Quando os pedidos de reembolso excedam num só dia 5 por cento do valor total dos bens do fundo, a sociedade poderá mandar suspender as operações de reembolso.
+Art. 14.º Quando os pedidos de reembolso excedam num só dia 5 por cento do valor total dos bens do fundo, a sociedade poderá mandar suspender as operações de reembolso.
 
 § 1.º Sempre que os interesses dos participantes o aconselhem, a sociedade gestora poderá igualmente suspender a emissão de certificados de emissão.
 
 § 2.º A suspensão da emissão de certificados ou das operações de resgate e as razões que as determinaram devem ser imediatamente comunicadas pela sociedade gestora à Inspecção-Geral de Crédito e Seguros, a qual poderá fixar em seguida o prazo máximo da suspensão.
 
-###### Art. 15.º Sempre que as circunstâncias o aconselhem, poderá o Ministro das Finanças determinar, em portaria, a suspensão da emissão de certificados ou das operações de reembolso.
+Art. 15.º Sempre que as circunstâncias o aconselhem, poderá o Ministro das Finanças determinar, em portaria, a suspensão da emissão de certificados ou das operações de reembolso.
 
-###### Art. 16.º Na determinação e aplicação dos resultados obtidos pelo fundo deverá ter-se em conta que os rendimentos líquidos de qualquer proveniência serão distribuídos pelos participantes na forma estabelecida no regulamento de gestão e que as mais-valias realizadas sobre a carteira de valores mobiliários não podem ser repartidas.
+Art. 16.º Na determinação e aplicação dos resultados obtidos pelo fundo deverá ter-se em conta que os rendimentos líquidos de qualquer proveniência serão distribuídos pelos participantes na forma estabelecida no regulamento de gestão e que as mais-valias realizadas sobre a carteira de valores mobiliários não podem ser repartidas.
 
-###### Art. 17.º As contas do fundo são encerradas anualmente na data indicada no regulamento de gestão e submetidas à apreciação da Inspecção-Geral de Crédito e Seguros.
+Art. 17.º As contas do fundo são encerradas anualmente na data indicada no regulamento de gestão e submetidas à apreciação da Inspecção-Geral de Crédito e Seguros.
 
 § 1.º Nos três meses seguintes à data do encerramento, a sociedade gestora publicará as contas do fundo, acompanhadas de um relatório anual e do parecer da entidade fiscalizadora das contas, da relação dos valores que compõem a carteira e, bem assim, da indicação do número de unidades de participação e de certificados em circulação.
 
 § 2.º A sociedade gestora dará a conhecer semanalmente a composição discriminada dos valores mobiliários do fundo.
 
-###### Art. 18.º Para efeito de garantias ou cauções legalmente exigíveis, os certificados de participação são equiparados às acções e obrigações de empresas privadas.
+Art. 18.º Para efeito de garantias ou cauções legalmente exigíveis, os certificados de participação são equiparados às acções e obrigações de empresas privadas.
 
-###### Art. 19.º Os fundos de investimentos mobiliários gozarão de todos os benefícios fiscais que vierem a ser definidos em diploma legal, com vista a colocar os titulares dos certificados pelo menos na mesma posição em que se encontrariam se fossem investidores directos.
+Art. 19.º Os fundos de investimentos mobiliários gozarão de todos os benefícios fiscais que vierem a ser definidos em diploma legal, com vista a colocar os titulares dos certificados pelo menos na mesma posição em que se encontrariam se fossem investidores directos.
 
-###### Art. 20.º A sociedade gestora e o depositário respondem solidàriamente por todos os compromissos assumidos no âmbito do regulamento de gestão.
+Art. 20.º A sociedade gestora e o depositário respondem solidàriamente por todos os compromissos assumidos no âmbito do regulamento de gestão.
 
-###### Art. 21.º Os fundos de investimentos mobiliários, as sociedades gestoras e os depositários já em funcionamento à data da publicação deste diploma terão o prazo de seis meses para se adaptarem às disposições nele contidas.
+Art. 21.º Os fundos de investimentos mobiliários, as sociedades gestoras e os depositários já em funcionamento à data da publicação deste diploma terão o prazo de seis meses para se adaptarem às disposições nele contidas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47729-1967-312818
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f3b6ac89037af0d9d68c35201f2b13a9507b3587911e32e110fe456d2a260b56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ed6e08772413d920b742202fac0325a497cc7a280bcb3082155e88429c2291df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:258727:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478627:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:58Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +112,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -106,31 +130,31 @@ Do artigo 145.º, n.º 1) «Pessoal dos quadros ...» ... -3600$00
 
 Para o artigo 147.º, n.º 4) «Abonos para falhas» ... +3600$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 84987720$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 84987720$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 6.º «Secretariado Técnico da Presidência do Conselho»:
+Capítulo 6.º «Secretariado Técnico da Presidência do Conselho»:
 
-###### Artigo 107.º, n.º 1) «Móveis» ... 60000$00
+Artigo 107.º, n.º 1) «Móveis» ... 60000$00
 
-###### Artigo 108.º, n.º 1) «De imóveis» ... 30000$00
+Artigo 108.º, n.º 1) «De imóveis» ... 30000$00
 
-###### Artigo 110.º, n.º 1) «Luz, ...» ... 50000$00
+Artigo 110.º, n.º 1) «Luz, ...» ... 50000$00
 
-###### Artigo 111.º, n.º 2) «Telefones» ... 68000$00
+Artigo 111.º, n.º 2) «Telefones» ... 68000$00
 
-###### Artigo 112.º, n.º 1) «Rendas de casa» ... 598000$00
+Artigo 112.º, n.º 1) «Rendas de casa» ... 598000$00
 
-### Capítulo 14.º «Plano Intercalar de Fomento»:
+Capítulo 14.º «Plano Intercalar de Fomento»:
 
-###### Artigo 328.º «Energia», n.º 1) «Investimentos a realizar pela Junta de Energia Nuclear» ... 7000000$00
+Artigo 328.º «Energia», n.º 1) «Investimentos a realizar pela Junta de Energia Nuclear» ... 7000000$00
 
 ... 7806000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
 ###### Artigo 1.º «Juros»:
 
@@ -152,27 +176,27 @@ N.º 3) «Empréstimos com aval do Estado, ...»:
 
 «Empréstimo de renovação e apetrechamento da indústria da pesca - Plano Intercalar de Fomento - 4 por cento de 1965» ... 1613406$60
 
-### Capítulo 11.º «Inspecção-Geral de Finanças»:
+Capítulo 11.º «Inspecção-Geral de Finanças»:
 
-###### Artigo 142.º, n.º 1) «Rendas de casa» ... 40000$00
+Artigo 142.º, n.º 1) «Rendas de casa» ... 40000$00
 
 ... 50555003$80
 
 Ministério das Obras Públicas
 
-### Capítulo 15.º «Outros investimentos»:
+Capítulo 15.º «Outros investimentos»:
 
-###### Artigo 124.º «Abastecimento de água com distribuição domiciliária», n.º 1) «Subsídios ...» ... 6591817$00
+Artigo 124.º «Abastecimento de água com distribuição domiciliária», n.º 1) «Subsídios ...» ... 6591817$00
 
 Ministério da Economia
 
 Secretaria de Estado do Comércio
 
-### Capítulo 9.º «Direcção-Geral do Comércio»:
+Capítulo 9.º «Direcção-Geral do Comércio»:
 
-###### Artigo 195.º, n.º 1) «Rendas de casa» ... 12600$00
+Artigo 195.º, n.º 1) «Rendas de casa» ... 12600$00
 
-###### Artigo 197.º, n.º 1) «Subsídios a cofres ...»:
+Artigo 197.º, n.º 1) «Subsídios a cofres ...»:
 
 Alínea 1 «À Bolsa de Fundos de Lisboa» ... 10000$00
 
@@ -182,57 +206,57 @@ Alínea 2 «À Bolsa de Fundos do Porto» ... 12300$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 65.º, n.º 1) «Subsídios a cofres ...», alínea 4 «Assistência à família: ...» ... 20000000$00
+Artigo 65.º, n.º 1) «Subsídios a cofres ...», alínea 4 «Assistência à família: ...» ... 20000000$00
 
 ... 84987720$80
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 157.º «Reembolso de juros e amortização dos empréstimos para o Fundo de Renovação e de Apetrechamento da Indústria da Pesca» ... 1613406$60
+Capítulo 7.º, artigo 157.º «Reembolso de juros e amortização dos empréstimos para o Fundo de Renovação e de Apetrechamento da Indústria da Pesca» ... 1613406$60
 
-### Capítulo 7.º, artigo 201.º «Reposições não abatidas nos pagamentos» ... 6591817$00
+Capítulo 7.º, artigo 201.º «Reposições não abatidas nos pagamentos» ... 6591817$00
 
-### Capítulo 8.º, artigo 203.º «Instituto de Assistência à Família» ... 20000000$00
+Capítulo 8.º, artigo 203.º «Instituto de Assistência à Família» ... 20000000$00
 
-### Capítulo 9.º, artigo 279.º «Produto da venda de títulos ou de empréstimos» ... 7000000$00
+Capítulo 9.º, artigo 279.º «Produto da venda de títulos ou de empréstimos» ... 7000000$00
 
 ... 35205223$60
 
 Encargos Gerais da Nação
 
-### Capítulo 6.º, artigo 104.º, n.º 1) ... 210000$00
+Capítulo 6.º, artigo 104.º, n.º 1) ... 210000$00
 
-### Capítulo 6.º, artigo 104.º, n.º 2), alínea 1 ... 40000$00
+Capítulo 6.º, artigo 104.º, n.º 2), alínea 1 ... 40000$00
 
 ... 250000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 1.º, n.º 1), alínea 1 «Certificados da dívida pública, 4 por cento» ... 30000000$00
+Capítulo 1.º, artigo 1.º, n.º 1), alínea 1 «Certificados da dívida pública, 4 por cento» ... 30000000$00
 
-### Capítulo 1.º, artigo 1.º, n.º 1), alínea 2 «3 1/2 por cento de 1966 - Plano Intercalar de Fomento» ... 7000000$00
+Capítulo 1.º, artigo 1.º, n.º 1), alínea 2 «3 1/2 por cento de 1966 - Plano Intercalar de Fomento» ... 7000000$00
 
-### Capítulo 1.º, artigo 13.º ... 12457597$20
+Capítulo 1.º, artigo 13.º ... 12457597$20
 
-### Capítulo 11.º, artigo 132.º, n.º 1) ... 40000$00
+Capítulo 11.º, artigo 132.º, n.º 1) ... 40000$00
 
 ... 49497597$20
 
 Ministério da Economia
 
-### Capítulo 9.º, artigo 187.º, n.º 1) ... 12600$00
+Capítulo 9.º, artigo 187.º, n.º 1) ... 12600$00
 
-### Capítulo 9.º, artigo 198.º, n.º 1) ... 22300$00
+Capítulo 9.º, artigo 198.º, n.º 1) ... 22300$00
 
 ... 34900$00
 
 ... 84987720$80
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência.
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Saúde e Assistência.
 
 A observação (a) aposta à dotação do capítulo 4.º, artigo 65.º, n.º 1), alínea 4, é alterada para:
 
@@ -240,6 +264,6 @@ Sujeita a duplo cabimento a importância de 60000000$00 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

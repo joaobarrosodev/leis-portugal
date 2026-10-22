@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46112-1964-554095
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8eb60d95babdab2b8c02efdd9dab62b5afdcfead14a431ece269029331786866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68494f15f0ea6bbb621e90a076357d12609ae04a27320711efe806329c892b08
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:627452:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:40Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +94,11 @@ Considerando o proposto pelo Governo-Geral da província de Angola;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, por motivo de urgência, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitas ao imposto extraordinário para a defesa de Angola todas as pessoas singulares ou colectivas, nacionais ou estrangeiras, que na província e no exercício de qualquer comércio, indústria, arrendamento de prédios urbanos ou exploração agrícola, florestal, pecuária, de pesca, de minas e de sal tenham realizado no ano anterior ao da liquidação do imposto, isolada ou cumulativamente, lucros ou rendimentos líquidos de importância igual ou superior a 500000$00.
+Artigo 1.º Ficam sujeitas ao imposto extraordinário para a defesa de Angola todas as pessoas singulares ou colectivas, nacionais ou estrangeiras, que na província e no exercício de qualquer comércio, indústria, arrendamento de prédios urbanos ou exploração agrícola, florestal, pecuária, de pesca, de minas e de sal tenham realizado no ano anterior ao da liquidação do imposto, isolada ou cumulativamente, lucros ou rendimentos líquidos de importância igual ou superior a 500000$00.
 
 § único. Ficam também sujeitos ao imposto os dividendos e abonos a eles legalmente equiparados atribuídos a acções de sociedades anónimas e em comandita por acções e os juros de suprimentos e de depósitos efectuados em quaisquer estabelecimentos, desde que atinjam aquela importância, isolada ou cumulativamente, com quaisquer dos lucros ou rendimentos referidos no corpo deste artigo.
 
-###### Art. 2.º Consideram-se lucros ou rendimentos líquidos do exercício da actividade para os efeitos do artigo anterior:
+Art. 2.º Consideram-se lucros ou rendimentos líquidos do exercício da actividade para os efeitos do artigo anterior:
 
 a) O lucro líquido do exercício apurado na conta de ganhos e perdas;
 
@@ -114,7 +118,7 @@ f) Todas as parcelas levadas à conta de ganhos e perdas que pela sua natureza n
 
 § 3.º Os dividendos e abonos a eles legalmente equiparados e os juros de suprimentos e de depósitos serão colectados livres dos impostos que sobre eles incidirem.
 
-###### Art. 3.º O lucro líquido da conta de ganhos e perdas a que se refere a alínea a) do artigo antecedente consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício anterior àquele a que o ano fiscal respeitar e os custos ou perdas imputáveis ao mesmo exercício, uns e outros eventualmente corrigidos nos termos deste decreto.
+Art. 3.º O lucro líquido da conta de ganhos e perdas a que se refere a alínea a) do artigo antecedente consistirá na diferença entre todos os proveitos ou ganhos realizados no exercício anterior àquele a que o ano fiscal respeitar e os custos ou perdas imputáveis ao mesmo exercício, uns e outros eventualmente corrigidos nos termos deste decreto.
 
 § 1.º Consideram-se proveitos ou ganhos realizados no exercício os provenientes de quaisquer transacções ou operações efectuadas em consequência de uma acção normal ou ocasional, básica ou meramente acessória, e designadamente os derivados:
 
@@ -158,25 +162,25 @@ l) As ofertas e donativos concedidos a pessoas colectivas de utilidade pública 
 
 m) As despesas de representação, devidamente documentadas, respeitantes às actividades produtoras de rendimentos passíveis de imposto, na parte em que não foram reputadas exageradas pela repartição liquidadora.
 
-###### Art. 4.º As percentagens referidas nas alíneas c), d) e e) do artigo 2.º calcular-se-ão sobre os preços por que foram adquiridos os bens a amortizar. Tratando-se de bens produzidos pelos próprios contribuintes, considerar-se-á como preço o valor por que foram inicialmente contabilizados.
+Art. 4.º As percentagens referidas nas alíneas c), d) e e) do artigo 2.º calcular-se-ão sobre os preços por que foram adquiridos os bens a amortizar. Tratando-se de bens produzidos pelos próprios contribuintes, considerar-se-á como preço o valor por que foram inicialmente contabilizados.
 
-###### Art. 5.º As amortizações por depreciação ou utilização que não tiverem sido contabilizadas como custos ou perdas do exercício a que respeitariam não poderão ser deduzidas dos proveitos ou ganhos de qualquer outro exercício.
+Art. 5.º As amortizações por depreciação ou utilização que não tiverem sido contabilizadas como custos ou perdas do exercício a que respeitariam não poderão ser deduzidas dos proveitos ou ganhos de qualquer outro exercício.
 
-###### Art. 6.º Além das importâncias atribuídas ao fundo de reserva ou à constituição ou reforço das reservas técnicas que, nos termos da lei, as sociedades de seguros sejam obrigadas a manter nenhumas outras, destinadas a outros fundos ou provisões, serão consideradas custos ou perdas imputáveis ao exercício, para efeitos deste decreto.
+Art. 6.º Além das importâncias atribuídas ao fundo de reserva ou à constituição ou reforço das reservas técnicas que, nos termos da lei, as sociedades de seguros sejam obrigadas a manter nenhumas outras, destinadas a outros fundos ou provisões, serão consideradas custos ou perdas imputáveis ao exercício, para efeitos deste decreto.
 
-###### Art. 7.º Sem prejuízo da disciplina contabilística legalmente imposta a determinadas empresas ou sociedades, os contribuintes deverão organizar e conservar a sua escrita de modo a que se possa, clara e inequìvocamente, apurar e controlar os rendimentos ou lucros para a consecução dos fins pretendidos por este decreto.
+Art. 7.º Sem prejuízo da disciplina contabilística legalmente imposta a determinadas empresas ou sociedades, os contribuintes deverão organizar e conservar a sua escrita de modo a que se possa, clara e inequìvocamente, apurar e controlar os rendimentos ou lucros para a consecução dos fins pretendidos por este decreto.
 
 § único. Aqueles que não disponham de escrita ou a tenham tão rudimentar que não permita apurar os resultados da sua actividade nos termos estabelecidos pelo presente decreto deverão comunicar o facto à Direcção Provincial dos Serviços de Fazenda e Contabilidade e declarar o total dos seus rendimentos brutos, para efeitos de cálculo da matéria colectável.
 
-###### Art. 8.º A primeira tributação das sociedades, empresas ou firmas que resultarem da transformação ou modificação de outras de tipos diferentes será feita com base no rendimento colectável considerado no lançamento do último imposto às entidades transformadas ou modificadas, se os seus elementos de escrita não revelarem lucros superiores àquele rendimento.
+Art. 8.º A primeira tributação das sociedades, empresas ou firmas que resultarem da transformação ou modificação de outras de tipos diferentes será feita com base no rendimento colectável considerado no lançamento do último imposto às entidades transformadas ou modificadas, se os seus elementos de escrita não revelarem lucros superiores àquele rendimento.
 
-###### Art. 9.º Não se consideram abrangidos pelo presente decreto as empresas isentas de imposto sobre rendimentos ou lucros por contratos autorizados ou aprovados por diplomas legais.
+Art. 9.º Não se consideram abrangidos pelo presente decreto as empresas isentas de imposto sobre rendimentos ou lucros por contratos autorizados ou aprovados por diplomas legais.
 
-###### Art. 10.º Os rendimentos ou lucros referidos no corpo do artigo 1.º ficam excluídos do imposto extraordinário para a defesa de Angola se as suas fontes produtoras estiverem isentas das contribuições industrial ou predial ou do imposto sobre as explorações, até ao máximo de cinco anos, a contar da data em que essas isenções tenham sido concedidas.
+Art. 10.º Os rendimentos ou lucros referidos no corpo do artigo 1.º ficam excluídos do imposto extraordinário para a defesa de Angola se as suas fontes produtoras estiverem isentas das contribuições industrial ou predial ou do imposto sobre as explorações, até ao máximo de cinco anos, a contar da data em que essas isenções tenham sido concedidas.
 
 § único. A exclusão só se verificará mediante despacho do director provincial dos serviços de Fazenda e contabilidade, proferido em requerimento dos interessados, devidamente instruído.
 
-###### Art. 11.º Para o efeito da incidência do imposto são deduzíveis nos lucros ou rendimentos líquidos apurados:
+Art. 11.º Para o efeito da incidência do imposto são deduzíveis nos lucros ou rendimentos líquidos apurados:
 
 a) As importâncias das comparticipações da província por virtude de disposição legal ou cláusula contratual;
 
@@ -186,7 +190,7 @@ c) As importâncias que hajam sido despendidas com a organização e manutençã
 
 § único. As deduções previstas na alínea b) do presente artigo deverão ser comprovadas pela apresentação de documento passado pela repartição fiscal competente e as previstas na alínea c) deverão ser confirmadas pela autoridade governativa e pelo comando militar da respectiva área, com a informação da eficiência e actividade dos respectivos esquemas privativos de defesa.
 
-###### Art. 12.º O imposto será calculado segundo os seguintes escalões e taxas:
+Art. 12.º O imposto será calculado segundo os seguintes escalões e taxas:
 
 ... Por cento
 
@@ -220,7 +224,7 @@ De mais de 50000 contos ... 30
 
 § 2.º Sobre o imposto não recai qualquer adicional ou outra imposição, salvo o selo de conhecimento.
 
-###### Art. 13.º Todas as pessoas abrangidas pelo artigo 1.º e seu § único ficam obrigadas a apresentar durante o mês de Junho de cada ano uma declaração conforme o modelo n.º 1, donde constem os lucros ou rendimentos líquidos do ano anterior acusados no respectivo balanço, e bem assim os demais elementos exigidos pelo mesmo modelo. Em relação às entidades cujos rendimentos ou lucros incluam actividades desenvolvidas noutras parcelas do território nacional ou no estrangeiro deve ser apresentada a discriminação dos lucros líquidos apurados em relação à sua actividade na província.
+Art. 13.º Todas as pessoas abrangidas pelo artigo 1.º e seu § único ficam obrigadas a apresentar durante o mês de Junho de cada ano uma declaração conforme o modelo n.º 1, donde constem os lucros ou rendimentos líquidos do ano anterior acusados no respectivo balanço, e bem assim os demais elementos exigidos pelo mesmo modelo. Em relação às entidades cujos rendimentos ou lucros incluam actividades desenvolvidas noutras parcelas do território nacional ou no estrangeiro deve ser apresentada a discriminação dos lucros líquidos apurados em relação à sua actividade na província.
 
 § 1.º A declaração será entregue, em duplicado, na Direcção Provincial dos Serviços de Fazenda e Contabilidade, acompanhada dos seguintes documentos:
 
@@ -244,7 +248,7 @@ g) Um exemplar do último relatório aprovado pela assembleia geral.
 
 § 4.º O duplicado da declaração, com recibo autenticado, será devolvido ao apresentante e o original, com os documentos que a instruem, ficará na Direcção dos Serviços de Fazenda e Contabilidade, constituindo, no respectivo ano, a base do processo de colecta do imposto do contribuinte.
 
-###### Art. 14.º A matéria colectável será determinada na Direcção dos Serviços de Fazenda e Contabilidade em presença da declaração modelo n.º 1 e dos elementos que a instruam e sem prejuízo das correcções que considerar necessárias para inteira observância do disposto nos artigos 2.º, 3.º, 4.º e 11.º
+Art. 14.º A matéria colectável será determinada na Direcção dos Serviços de Fazenda e Contabilidade em presença da declaração modelo n.º 1 e dos elementos que a instruam e sem prejuízo das correcções que considerar necessárias para inteira observância do disposto nos artigos 2.º, 3.º, 4.º e 11.º
 
 § 1.º Para efeito das correcções previstas no corpo deste artigo o Governo-Geral, por proposta do director dos Serviços de Fazenda e Contabilidade, poderá ordenar exame ou verificação da escrita dos contribuintes quando haja suspeita de que existem nos elementos por estes apresentados omissões ou inexactidões de qualquer natureza.
 
@@ -254,7 +258,7 @@ g) Um exemplar do último relatório aprovado pela assembleia geral.
 
 § 4.º Sempre que os contribuintes não apresentem documentos de escrita, sob a alegação de que esta é feita ou se encontra na metrópole, deverá o Governo da província propor ao Ministério do Ultramar a solicitação ao Ministério das Finanças dos exames indispensáveis ao apuramento da matéria colectável.
 
-###### Art. 15.º Na falta de apresentação da declaração modelo n.º 1 ou de qualquer dos documentos referidos no § 1.º do artigo 13.º, ou no caso de, por insuficiência, falta ou recusa de apresentação da escrita ou de qualquer dos seus elementos, não ser possível apurar o lucro líquido através das diligências admitidas pelo artigo 14.º e seus parágrafos, em relação à actividade desenvolvida na província, será a matéria colectável determinada por uma comissão constituída pela forma seguinte:
+Art. 15.º Na falta de apresentação da declaração modelo n.º 1 ou de qualquer dos documentos referidos no § 1.º do artigo 13.º, ou no caso de, por insuficiência, falta ou recusa de apresentação da escrita ou de qualquer dos seus elementos, não ser possível apurar o lucro líquido através das diligências admitidas pelo artigo 14.º e seus parágrafos, em relação à actividade desenvolvida na província, será a matéria colectável determinada por uma comissão constituída pela forma seguinte:
 
 Presidente - Subdirector dos Serviços de Fazenda e Contabilidade.
 
@@ -270,7 +274,7 @@ Vogais - O chefe da repartição das contribuições e impostos dos Serviços de
 
 § 5.º O resultado das deliberações não é susceptível de impugnação contenciosa.
 
-###### Art. 16.º Sempre que se tenham efectuado quaisquer correcções ao abrigo do artigo 14.º ou quando a matéria colectável haja sido determinada pela comissão referida no artigo 15.º poderão os contribuintes e a Fazenda Nacional, representada pelo subdirector dos Serviços de Fazenda e Contabilidade, impugnar, no prazo de oito dias, contados da notificação, o montante da matéria colectável, por meio de reclamação dirigida a uma comissão de revisão, assim constituída:
+Art. 16.º Sempre que se tenham efectuado quaisquer correcções ao abrigo do artigo 14.º ou quando a matéria colectável haja sido determinada pela comissão referida no artigo 15.º poderão os contribuintes e a Fazenda Nacional, representada pelo subdirector dos Serviços de Fazenda e Contabilidade, impugnar, no prazo de oito dias, contados da notificação, o montante da matéria colectável, por meio de reclamação dirigida a uma comissão de revisão, assim constituída:
 
 Presidente - Director dos Serviços de Fazenda e Contabilidade.
 
@@ -298,69 +302,69 @@ Os peritos nomeados deverão examinar todos os elementos de escrita indispensáv
 
 § 10.º Das reuniões da comissão lavrar-se-ão actas, em livro próprio, contendo o resumo das deliberações tomadas, que serão sempre notificadas aos reclamantes por meio de ofício, em carta registada com aviso de recepção.
 
-###### Art. 17.º Do resultado das deliberações da comissão de revisão cabe recurso para o Tribunal Administrativo, a interpor no prazo de oito dias, a contar da notificação, por meio de petição entregue na respectiva secretaria, devidamente instruída, da qual constará a alegação dos fundamentos do recurso.
+Art. 17.º Do resultado das deliberações da comissão de revisão cabe recurso para o Tribunal Administrativo, a interpor no prazo de oito dias, a contar da notificação, por meio de petição entregue na respectiva secretaria, devidamente instruída, da qual constará a alegação dos fundamentos do recurso.
 
 § 1.º Das decisões do Tribunal Administrativo podem os interessados recorrer para o Conselho Ultramarino, nos mesmos termos e prazos em vigor na província para os impostos directos.
 
 § 2.º Os recursos não têm efeito suspensivo, competindo ao chefe da repartição das contribuições e impostos da Direcção Provincial dos Serviços de Fazenda e Contabilidade passar título de anulação ou proceder à liquidação adicional, conforme houver sido julgado.
 
-###### Art. 18.º A liquidação do imposto é da competência da repartição das contribuições e impostos da Direcção dos Serviços de Fazenda e Contabilidade e deve estar completada até ao dia 30 de Setembro de cada ano.
+Art. 18.º A liquidação do imposto é da competência da repartição das contribuições e impostos da Direcção dos Serviços de Fazenda e Contabilidade e deve estar completada até ao dia 30 de Setembro de cada ano.
 
-###### Art. 19.º Apurada a matéria colectável, proceder-se-á à liquidação do imposto no verbete modelo n.º 2, a remeter à repartição de Fazenda competente para a extracção do conhecimento de cobrança, e que será a da área fiscal onde estiver situada a sede ou estabelecimento principal do contribuinte, se outra não tiver sido por este declarada para efeito do pagamento do imposto.
+Art. 19.º Apurada a matéria colectável, proceder-se-á à liquidação do imposto no verbete modelo n.º 2, a remeter à repartição de Fazenda competente para a extracção do conhecimento de cobrança, e que será a da área fiscal onde estiver situada a sede ou estabelecimento principal do contribuinte, se outra não tiver sido por este declarada para efeito do pagamento do imposto.
 
-###### Art. 20.º Se em qualquer ano o contribuinte tiver sido omitido no lançamento, o imposto será liquidado, por junção, no ano imediato, com o serviço de lançamento do mesmo ano, podendo, em relação ao ano omitido, promover-se todas as diligências previstas no presente diploma.
+Art. 20.º Se em qualquer ano o contribuinte tiver sido omitido no lançamento, o imposto será liquidado, por junção, no ano imediato, com o serviço de lançamento do mesmo ano, podendo, em relação ao ano omitido, promover-se todas as diligências previstas no presente diploma.
 
-###### Art. 21.º Da liquidação do imposto podem os interessados reclamar e recorrer contenciosamente apenas com fundamento em duplicação de colecta ou erro de cálculo do imposto derivado de aplicação de taxa diferente da devida.
+Art. 21.º Da liquidação do imposto podem os interessados reclamar e recorrer contenciosamente apenas com fundamento em duplicação de colecta ou erro de cálculo do imposto derivado de aplicação de taxa diferente da devida.
 
 § único. As reclamações serão apresentadas durante o mês de Novembro, dirigidas ao subdirector dos Serviços de Fazenda e Contabilidade, a quem compete o seu julgamento, com recurso, sem efeito suspensivo, para o Tribunal Administrativo, seguindo todo o processo os termos e formalidades do regulamento do contencioso das contribuições e impostos em vigor.
 
-###### Art. 22.º Por cada contribuinte organizar-se-á um processo individual em que serão arquivadas as declarações e toda a documentação com ele relacionadas.
+Art. 22.º Por cada contribuinte organizar-se-á um processo individual em que serão arquivadas as declarações e toda a documentação com ele relacionadas.
 
-###### Art. 23.º Em face dos verbetes modelo n.º 2, os secretários de Fazenda respectivos extrairão os conhecimentos de cobrança conforme modelo n.º 3, que entregarão aos recebedores de Fazenda, devidamente relacionados, até ao dia 20 de Outubro. Os avisos para pagamento à boca do cofre serão expedidos pelo recebedor até ao dia 30 do mesmo mês.
+Art. 23.º Em face dos verbetes modelo n.º 2, os secretários de Fazenda respectivos extrairão os conhecimentos de cobrança conforme modelo n.º 3, que entregarão aos recebedores de Fazenda, devidamente relacionados, até ao dia 20 de Outubro. Os avisos para pagamento à boca do cofre serão expedidos pelo recebedor até ao dia 30 do mesmo mês.
 
-###### Art. 24.º A cobrança voluntária do imposto será feita no mês de Novembro numa única prestação.
+Art. 24.º A cobrança voluntária do imposto será feita no mês de Novembro numa única prestação.
 
 § único. Findo este prazo começam a ser devidos juros de mora, procedendo-se ao relaxe, com remessa das respectivas certidões ao juízo das execuções fiscais até ao dia 10 do mês de Dezembro.
 
-###### Art. 25.º O cumprimento das obrigações impostas pelo presente decreto será fiscalizado pela Direcção dos Serviços de Fazenda e Contabilidade, pelas Direcções Distritais de Fazenda e Contabilidade e pelas repartições de Fazenda.
+Art. 25.º O cumprimento das obrigações impostas pelo presente decreto será fiscalizado pela Direcção dos Serviços de Fazenda e Contabilidade, pelas Direcções Distritais de Fazenda e Contabilidade e pelas repartições de Fazenda.
 
-###### Art. 26.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as respectivas sanções de harmonia com a gravidade objectiva da infracção, o grau de culpa dos infractores, a importância de imposto a pagar e as demais circunstâncias do caso.
+Art. 26.º As transgressões ao disposto no presente diploma serão punidas nos termos dos artigos seguintes, devendo graduar-se as respectivas sanções de harmonia com a gravidade objectiva da infracção, o grau de culpa dos infractores, a importância de imposto a pagar e as demais circunstâncias do caso.
 
 § único. As sanções pecuniárias constantes deste diploma, ou os efeitos delas resultantes, não invalidam a aplicação das penas ou efeitos de outra natureza estabelecidos no Código Penal para as infracções correspondentes aos tipos legais nele previstos.
 
-###### Art. 27.º A falta ou inexactidão da declaração, modelo n.º 1, ou de qualquer dos documentos que a acompanharem, bem como as omissões naquela ou nestes praticadas, serão punidas, no caso de simples negligência, com a multa de 1000$00 a 5000$00, ou, havendo dolo, de 10000$00 a 20000$00.
+Art. 27.º A falta ou inexactidão da declaração, modelo n.º 1, ou de qualquer dos documentos que a acompanharem, bem como as omissões naquela ou nestes praticadas, serão punidas, no caso de simples negligência, com a multa de 1000$00 a 5000$00, ou, havendo dolo, de 10000$00 a 20000$00.
 
-###### Art. 28.º A recusa da exibição da escrita e a de apresentação de quaisquer elementos com ela relacionados verificada no decorrer das diligências referidas nos §§ 1.º e 2.º do artigo 14.º, assim como o sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 5000$00 a 20000$00, na qual incorrerão solidàriamente entre si os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que ao caso couber.
+Art. 28.º A recusa da exibição da escrita e a de apresentação de quaisquer elementos com ela relacionados verificada no decorrer das diligências referidas nos §§ 1.º e 2.º do artigo 14.º, assim como o sua ocultação, destruição, inutilização, falsificação ou viciação, serão punidas com a multa de 5000$00 a 20000$00, na qual incorrerão solidàriamente entre si os directores, administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida que forem responsáveis, sem prejuízo do procedimento criminal que ao caso couber.
 
-###### Art. 29.º Transitadas em julgado as decisões em que sejam aplicadas sanções pecuniárias por factos a que corresponda responsabilidade penal, e designadamente nos casos de falsificação ou violação de escrita, serão tais actos participados, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção, para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
+Art. 29.º Transitadas em julgado as decisões em que sejam aplicadas sanções pecuniárias por factos a que corresponda responsabilidade penal, e designadamente nos casos de falsificação ou violação de escrita, serão tais actos participados, nos oito dias seguintes, ao agente do Ministério Público competente, nos termos e para os efeitos do artigo 164.º do Código de Processo Penal, independentemente da participação, no mesmo prazo, a outras entidades que devam tomar conhecimento da infracção, para eventual procedimento disciplinar contra o respectivo guarda-livros e outros responsáveis.
 
-###### Art. 30.º A qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 1000$00 a 10000$00.
+Art. 30.º A qualquer infracção não especialmente prevenida nos artigos anteriores será aplicada a multa de 1000$00 a 10000$00.
 
-###### Art. 31.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade.
+Art. 31.º Quando qualquer infractor se apresente voluntàriamente a pedir o pagamento da multa antes de lhe ser notificado o auto de transgressão, será aquela reduzida a metade.
 
 § único. Se o auto de transgressão ainda não tiver sido levantado, sê-lo-á para efeitos de graduação da pena.
 
-###### Art. 32.º Nos casos em que, por falsificação ou ocultação dolosa, resultar liquidação de imposto inferior a 50000$00 em relação ao devido, mesmo quando reparada, será dada publicidade à condenação dos transgressores, mediante inserção na imprensa periódica de um extracto da decisão, nos oito dias seguintes ao do seu trânsito em julgado.
+Art. 32.º Nos casos em que, por falsificação ou ocultação dolosa, resultar liquidação de imposto inferior a 50000$00 em relação ao devido, mesmo quando reparada, será dada publicidade à condenação dos transgressores, mediante inserção na imprensa periódica de um extracto da decisão, nos oito dias seguintes ao do seu trânsito em julgado.
 
 § único. O extracto será organizado pela entidade que aplicar a sanção, a expensas dos infractores e com a natureza de custas, e publicado num dos jornais da localidade da respectiva sede ou residência e em dois diários de grande circulação na província. Dele deverá constar a identidade dos infractores, a natureza da infracção, o montante da diferença do imposto e as circunstâncias mais relevantes ou reprováveis do caso.
 
-###### Art. 33.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
+Art. 33.º Sendo infractor uma pessoa colectiva, responderão pelo pagamento da multa, solidàriamente com aquela, os directores administradores, gerentes, membros do conselho fiscal, liquidatários ou administradores da massa falida, ao tempo em que foi cometida a infracção.
 
-###### Art. 34.º Quando os actos ou omissões tiverem sido praticados por procuradores ou gestores de negócios, directores, administradores, gerentes, chefes de contabilidade, chefes de escritório ou guarda-livros, contra eles correrá o procedimento para aplicação das multas.
+Art. 34.º Quando os actos ou omissões tiverem sido praticados por procuradores ou gestores de negócios, directores, administradores, gerentes, chefes de contabilidade, chefes de escritório ou guarda-livros, contra eles correrá o procedimento para aplicação das multas.
 
 § único. Pelas multas impostas responderão, solidàriamente, os mandantes.
 
-###### Art. 35.º As penalidades estabelecidas nos artigos anteriores serão impostas em processos de transgressão, sendo da exclusiva competência dos funcionários da Direcção Provincial dos Serviços de Fazenda e Contabilidade o levantamento dos respectivos autos.
+Art. 35.º As penalidades estabelecidas nos artigos anteriores serão impostas em processos de transgressão, sendo da exclusiva competência dos funcionários da Direcção Provincial dos Serviços de Fazenda e Contabilidade o levantamento dos respectivos autos.
 
 § único. São admitidas participações e denúncias, as quais ficarão secretas, salvo se, sendo destituídas de fundamento, tiverem sido feitas dolosamente, caso em que, a requerimento dos denunciados, lhes será comunicado o nome do denunciante e o conteúdo da denúncia.
 
-###### Art. 36.º Os processos de transgressão serão julgados, em 1.ª instância, pelo director provincial dos Serviços de Fazenda e Contabilidade ou pelo seu substituto legal, seguindo-se todos os trâmites do regulamento do contencioso das contribuições e impostos em vigor.
+Art. 36.º Os processos de transgressão serão julgados, em 1.ª instância, pelo director provincial dos Serviços de Fazenda e Contabilidade ou pelo seu substituto legal, seguindo-se todos os trâmites do regulamento do contencioso das contribuições e impostos em vigor.
 
-###### Art. 37.º As multas reverterão integralmente para o Fundo de Defesa Militar do Ultramar.
+Art. 37.º As multas reverterão integralmente para o Fundo de Defesa Militar do Ultramar.
 
-###### Art. 38.º O produto da receita resultante da execução do presente decreto é destinado aos encargos com a defesa nacional, acrescendo à contribuição da província de Angola de que trata o artigo 1.º do Decreto n.º 42559, de 3 de Outubro de 1959, para todos os efeitos, inclusive os designados nos artigos 2.º, 3.º, 4.º e 5.º do mesmo decreto.
+Art. 38.º O produto da receita resultante da execução do presente decreto é destinado aos encargos com a defesa nacional, acrescendo à contribuição da província de Angola de que trata o artigo 1.º do Decreto n.º 42559, de 3 de Outubro de 1959, para todos os efeitos, inclusive os designados nos artigos 2.º, 3.º, 4.º e 5.º do mesmo decreto.
 
-###### Art. 39.º No orçamento da receita ordinária da província de Angola são criadas as seguintes rubricas:
+Art. 39.º No orçamento da receita ordinária da província de Angola são criadas as seguintes rubricas:
 
 1) No capítulo 8.º - Consignação de receitas:
 
@@ -368,15 +372,15 @@ Os peritos nomeados deverão examinar todos os elementos de escrita indispensáv
 
 ... Comparticipação para a defesa de Angola.
 
-###### Art. 40.º Para efeitos de fiscalização deste imposto, os organismos corporativos ou de coordenação económica e todos os serviços oficiais ou oficializados ficam obrigados a fornecer, sem qualquer restrição, à Direcção Provincial dos Serviços de Fazenda e Contabilidade todos os elementos que solicitar, quer sejam individuais quer sejam globais, e a prestar, de igual modo, todas as informações e esclarecimentos que lhes forem pedidos e estiverem ao seu alcance.
+Art. 40.º Para efeitos de fiscalização deste imposto, os organismos corporativos ou de coordenação económica e todos os serviços oficiais ou oficializados ficam obrigados a fornecer, sem qualquer restrição, à Direcção Provincial dos Serviços de Fazenda e Contabilidade todos os elementos que solicitar, quer sejam individuais quer sejam globais, e a prestar, de igual modo, todas as informações e esclarecimentos que lhes forem pedidos e estiverem ao seu alcance.
 
-###### Art. 41.º É o Governo da província autorizado a usar e adaptar os actuais modelos às exigências deste decreto e a criar outros julgados necessários à sua boa execução.
+Art. 41.º É o Governo da província autorizado a usar e adaptar os actuais modelos às exigências deste decreto e a criar outros julgados necessários à sua boa execução.
 
-###### Art. 42.º Todas as dúvidas ou omissões que resultarem da execução do presente decreto serão resolvidas por despacho do governador-geral, com prévia audição da Direcção Provincial dos Serviços de Fazenda e Contabilidade.
+Art. 42.º Todas as dúvidas ou omissões que resultarem da execução do presente decreto serão resolvidas por despacho do governador-geral, com prévia audição da Direcção Provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 43.º Fica revogado o [Decreto n.º 45067](https://diariodarepublica.pt/dr/detalhe/decreto/45067-1963-627452), de 7 de Junho de 1963, a partir da entrada em vigor deste diploma.
+Art. 43.º Fica revogado o [Decreto n.º 45067](https://diariodarepublica.pt/dr/detalhe/decreto/45067-1963-627452), de 7 de Junho de 1963, a partir da entrada em vigor deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -384,6 +388,6 @@ Para ser publicado no Boletim Oficial de Angola. - Peixoto Correia.
 
 Do Modelo 1 ao Modelo 3
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/30300/19341940.pdf))](https://files.diariodarepublica.pt/1s/1964/12/30300/19341940.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/30300/19341940.pdf)
 
 Ministério do Ultramar, 29 de Dezembro de 1964. - O Ministro do Ultramar, António Augusto Peixoto Correia.

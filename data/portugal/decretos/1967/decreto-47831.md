@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/08/18200/14271430.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47831-1967-313605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9548a9cb73c453828826217a92d36fca83889b1e2ecbbb82f55af496feed3fd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0dada526c055332236fae3eddaeaff63ec6f80ddc77a3d547639494d0ec4d219
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,34 @@ relationships:
   target: pt:dre:657439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:447348:por
+  label: Alterado o § 3.º do art. 11.º, as als c) dos arts 12.º e 13.º, as als a) e b) e o § único do art. 18.º e revogado
+    o § 2.º do art. 17.º, a al. c) do art. 18.º e a al. e) do art. 19.º do Regulamento promulgado pelo presente Decreto, pelo(a)
+    Portaria n.º 157/78 - Diário da República n.º 66/1978, Série I de 1978-03-20
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/157-1978-447348
+  date: '1978-03-20'
+- type: amended_by
+  target: pt:dre:382014:por
+  label: "Eliminado § 3.º do art. 11.º e dada nova redacção ao § 1.º do art. 12.º e ao § único do art. 13.º do Regulamento\
+    \ promulgado pelo presente diploma, pela PORT.359/79.23.07.1979.CR, DR.IS [168] de 23.07.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/359-1979-382014
+  date: '1979-07-23'
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:46Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +112,7 @@ REGULAMENTO DO INSTITUTO SUPERIOR NAVAL DE GUERRA
 
 ### CAPÍTULO 1.º — Dos cursos
 
-###### Artigo 1.º No Instituto Superior Naval de Guerra (I. S. N. G.) funcionam os seguintes cursos:
+Artigo 1.º No Instituto Superior Naval de Guerra (I. S. N. G.) funcionam os seguintes cursos:
 
 a) Cursos navais de guerra:
 
@@ -110,7 +128,7 @@ b) Cursos monográficos:
 
 § único. Por portaria do Ministro da Marinha, poderão ser instituídos outros cursos monográficos além do que é indicado neste artigo.
 
-###### Art. 2.º O C. G. N. G. e o C. S. N. G. destinam-se a:
+Art. 2.º O C. G. N. G. e o C. S. N. G. destinam-se a:
 
 a) Ampliar a cultura geral dos oficiais no sentido de os habilitar a assumir sucessivamente maiores responsabilidades militares;
 
@@ -122,23 +140,23 @@ d) Contribuir para o escalonamento dos oficiais em mérito relativo nas promoç�
 
 e) Difundir doutrina, de maneira a obter-se unidade de pensamento e uniformidade de procedimentos.
 
-###### Art. 3.º O C. C. N. G. destina-se a habilitar oficiais a prestar serviço em estados-maiores e a exercer determinados cargos que requeiram especial preparação.
+Art. 3.º O C. C. N. G. destina-se a habilitar oficiais a prestar serviço em estados-maiores e a exercer determinados cargos que requeiram especial preparação.
 
-###### Art. 4.º Os cursos monográficos destinam-se a preparar oficiais para o desempenho de funções que exijam os conhecimentos específicos ministrados nesses cursos.
+Art. 4.º Os cursos monográficos destinam-se a preparar oficiais para o desempenho de funções que exijam os conhecimentos específicos ministrados nesses cursos.
 
-###### Art. 5.º O C. G. N. G. é frequentado por primeiros-tenentes tirocinados do quadro do activo das classes indicadas no Estatuto do Oficial da Armada.
+Art. 5.º O C. G. N. G. é frequentado por primeiros-tenentes tirocinados do quadro do activo das classes indicadas no Estatuto do Oficial da Armada.
 
-###### Art. 6.º O C. C. N. G. é frequentado por capitães-tenentes ou primeiros-tenentes, nomeados entre os que durante a frequência do C. G. N. G. tenham demonstrado boa aptidão para prestar serviço de estado-maior e tenham concluído o mesmo curso com elevada classificação.
+Art. 6.º O C. C. N. G. é frequentado por capitães-tenentes ou primeiros-tenentes, nomeados entre os que durante a frequência do C. G. N. G. tenham demonstrado boa aptidão para prestar serviço de estado-maior e tenham concluído o mesmo curso com elevada classificação.
 
 § único. Para a frequência do C. C. N. G. serão nomeados de preferência oficiais voluntários.
 
-###### Art. 7.º O C. S. N. G. é frequentado por capitães-de-mar-e-guerra ou por capitães-de-fragata, estes tirocinados, das classes do quadro do activo indicadas no Estatuto do Oficial da Armada.
+Art. 7.º O C. S. N. G. é frequentado por capitães-de-mar-e-guerra ou por capitães-de-fragata, estes tirocinados, das classes do quadro do activo indicadas no Estatuto do Oficial da Armada.
 
-###### Art. 8.º Os cursos monográficos são frequentados pelos oficiais para esse fim designados.
+Art. 8.º Os cursos monográficos são frequentados pelos oficiais para esse fim designados.
 
-###### Art. 9.º Os cursos referidos no artigo 1.º também podem ser frequentados por oficiais do Exército e da Força Aérea ou por oficiais das forças armadas de outros países, mediante proposta do Chefe do Estado-Maior da Armada ao Ministro da Marinha.
+Art. 9.º Os cursos referidos no artigo 1.º também podem ser frequentados por oficiais do Exército e da Força Aérea ou por oficiais das forças armadas de outros países, mediante proposta do Chefe do Estado-Maior da Armada ao Ministro da Marinha.
 
-###### Art. 10.º Os cursos navais de guerra compreendem:
+Art. 10.º Os cursos navais de guerra compreendem:
 
 a) Lições e conferências;
 
@@ -146,7 +164,7 @@ b) Trabalhos de aplicação, individuais e em grupo;
 
 c) Estágios e visitas de estudo.
 
-###### Art. 11.º O C. G. N. G. é constituído por:
+Art. 11.º O C. G. N. G. é constituído por:
 
 a) Ciclos de lições:
 
@@ -190,7 +208,7 @@ d) Estágios e visitas de estudo: os especificados no plano do curso.
 
 § 3.º As lições e conferências terão a duração normal de 45 minutos e serão, em geral, seguidas de um período destinado a esclarecimento de dúvidas e troca de impressões sobre os assuntos versados.
 
-###### Art. 12.º O C. C. N. G. é constituído por:
+Art. 12.º O C. C. N. G. é constituído por:
 
 a) Ciclos de lições:
 
@@ -228,7 +246,7 @@ d) Estágios e visitas de estudo: os especificados no plano do curso.
 
 § 2.º Os temas dos trabalhos de aplicação poderão corresponder a assuntos para o estudo dos quais o Estado-Maior da Armada tenha pedido a colaboração do Instituto.
 
-###### Art. 13.º O C. S. N. G. é constituído por:
+Art. 13.º O C. S. N. G. é constituído por:
 
 a) Ciclos de lições:
 
@@ -270,7 +288,7 @@ d) Estágios e visitas de estudo: os especificados no plano do curso.
 
 § único. Ao C. S. N. G. é aplicável o disposto no § 1.º, § 2.º e § 3.º do artigo 11.º e no § 2.º do artigo 12.º
 
-###### Art. 14.º Embora, em princípio, as lições, conferências, trabalhos, estágios e visitas, nos cursos navais de guerra, possam ser comuns aos oficiais que os frequentam, independentemente da classe a que pertencem, poderá no entanto:
+Art. 14.º Embora, em princípio, as lições, conferências, trabalhos, estágios e visitas, nos cursos navais de guerra, possam ser comuns aos oficiais que os frequentam, independentemente da classe a que pertencem, poderá no entanto:
 
 a) Ser dispensada a comparência dos oficiais de determinada ou determinadas classes às lições, conferências e trabalhos que se reconheça não interessarem especialmente a esses oficiais;
 
@@ -278,9 +296,9 @@ b) Serem organizados ciclos de lições ou de conferências, especializados, ape
 
 c) Serem organizados programas de estágios e de visitas de estudo condicionados à natureza das classes a que pertencem os oficiais.
 
-###### Art. 15.º A organização e o funcionamento dos cursos monográficos são aprovados por despacho do Ministro da Marinha, nos termos do disposto no artigo 116.º do Estatuto do Oficial da Armada, com base em proposta apresentada pelo director do I. S. N. G. informada pelo chefe do Estado-Maior da Armada.
+Art. 15.º A organização e o funcionamento dos cursos monográficos são aprovados por despacho do Ministro da Marinha, nos termos do disposto no artigo 116.º do Estatuto do Oficial da Armada, com base em proposta apresentada pelo director do I. S. N. G. informada pelo chefe do Estado-Maior da Armada.
 
-###### Art. 16.º A duração normal dos cursos referidos no artigo 1.º é a seguinte:
+Art. 16.º A duração normal dos cursos referidos no artigo 1.º é a seguinte:
 
 a) C. G. N. G. - 5 meses;
 
@@ -294,7 +312,7 @@ d) Cursos monográficos - a que for aprovada pelo despacho referido no artigo an
 
 ### CAPÍTULO 2.º — Do aproveitamento dos oficiais alunos
 
-###### Art. 17.º O aproveitamento dos oficiais alunos dos cursos navais de guerra é apreciado pelos júris para esse fim nomeados e valorizado de 0 a 20 valores, com base nas classificações obtidas nos trabalhos de aplicação individuais e em grupo.
+Art. 17.º O aproveitamento dos oficiais alunos dos cursos navais de guerra é apreciado pelos júris para esse fim nomeados e valorizado de 0 a 20 valores, com base nas classificações obtidas nos trabalhos de aplicação individuais e em grupo.
 
 § 1.º Os coeficientes relativos às classificações dos trabalhos de aplicação são estabelecidos pelo director do I. S. N. G., ouvido o conselho de instrução.
 
@@ -304,7 +322,7 @@ d) Cursos monográficos - a que for aprovada pelo despacho referido no artigo an
 
 § 4.º A mesma valorização é enviada pelo I. S. N. G. à Direcção do Serviço do Pessoal para efeitos de registo.
 
-###### Art. 18.º Os oficiais que nos cursos navais de guerra tenham obtido:
+Art. 18.º Os oficiais que nos cursos navais de guerra tenham obtido:
 
 a) Menos de 10 valores são classificados como Não aptos;
 
@@ -314,7 +332,7 @@ c) 16 ou mais valores são classificados como Muito aptos.
 
 § único. As classificações a que se referem as alíneas b) e c) do corpo deste artigo são publicadas na Ordem da Direcção do Serviço do Pessoal (1.ª série).
 
-###### Art. 19.º São normalmente eliminados da frequência dos cursos navais de guerra os oficiais alunos que, por qualquer motivo:
+Art. 19.º São normalmente eliminados da frequência dos cursos navais de guerra os oficiais alunos que, por qualquer motivo:
 
 a) Não assistam a dois terços dos tempos dedicados a lições; ou
 
@@ -328,17 +346,17 @@ e) Tratando-se do C. C. N. G. e do C. S. N. G., não apresentem a memória no pr
 
 § único. Mediante proposta do director do I. S. N. G., com parecer favorável do conselho de instrução, podem ser superiormente autorizados a continuar a frequência dos cursos navais de guerra os oficiais alunos que fiquem abrangidos pelo disposto em qualquer das alíneas a), c) ou e) do corpo deste artigo, desde que manifestem de maneira iniludível qualidades para concluir com bom aproveitamento os mesmos cursos e sejam atendíveis as razões que os colocaram em tal situação.
 
-###### Art. 20.º Independentemente das classificações dos oficiais alunos a que se referem os artigos anteriores, deve o director do I. S. N. G. elaborar uma informação especial de cada oficial que frequentar os cursos navais de guerra, na qual focará todos os aspectos em que os oficiais puderam ser apreciados durante a frequência dos mesmos cursos.
+Art. 20.º Independentemente das classificações dos oficiais alunos a que se referem os artigos anteriores, deve o director do I. S. N. G. elaborar uma informação especial de cada oficial que frequentar os cursos navais de guerra, na qual focará todos os aspectos em que os oficiais puderam ser apreciados durante a frequência dos mesmos cursos.
 
 § único. Das informações a que se refere este artigo, o original é entregue ao chefe do Estado-Maior da Armada e uma cópia ao superintendente dos Serviços da Armada, que a mandará incluir no processo individual dos oficiais.
 
-###### Art. 21.º Os procedimentos relativos à classificação dos oficiais alunos nos cursos monográficos serão fixados na proposta a que se refere o artigo 15.º deste diploma.
+Art. 21.º Os procedimentos relativos à classificação dos oficiais alunos nos cursos monográficos serão fixados na proposta a que se refere o artigo 15.º deste diploma.
 
 ### CAPÍTULO 3.º
 
 Da organização do I. S. N. G.
 
-###### Art. 22.º O I. S. N. G. compreende:
+Art. 22.º O I. S. N. G. compreende:
 
 a) A direcção;
 
@@ -350,9 +368,9 @@ d) Os grupos de estudo;
 
 e) Os serviços.
 
-###### Art. 23.º O I. S. N. G. é dirigido por um contra-almirante, que, no desempenho das suas funções, é directamente auxiliado por um subdirector, com o posto de comodoro.
+Art. 23.º O I. S. N. G. é dirigido por um contra-almirante, que, no desempenho das suas funções, é directamente auxiliado por um subdirector, com o posto de comodoro.
 
-###### Art. 24.º O corpo docente do I. S. N. G. é constituído por:
+Art. 24.º O corpo docente do I. S. N. G. é constituído por:
 
 a) Directores dos cursos referidos no artigo 1.º;
 
@@ -360,7 +378,7 @@ b) Professores dos cursos navais de guerra.
 
 § único. Não se consideram professores do I. S. N. G. os oficiais e outras individualidades que, embora convidados para realizar conferências, não tenham sido nomeados expressamente para o desempenho daquelas funções.
 
-###### Art. 25.º Os directores dos cursos são:
+Art. 25.º Os directores dos cursos são:
 
 a) O subdirector, no que respeita ao C. S. N. G.;
 
@@ -372,7 +390,7 @@ d) Um dos professores, com habilitações adequadas, no que se refere aos cursos
 
 § único. Mediante autorização do director do I. S. N. G., o subdirector pode delegar algumas das atribuições de director do C. S. N. G. num dos comodoros que seja professor do mesmo curso.
 
-###### Art. 26.º Compete especialmente aos directores dos cursos:
+Art. 26.º Compete especialmente aos directores dos cursos:
 
 a) Elaborar e submeter à apreciação do director do Instituto os planos dos cursos que dirigem;
 
@@ -386,15 +404,15 @@ e) Determinar a classificação de segurança de todos os trabalhos realizados n
 
 f) Elaborar o mapa das classificações do curso e uma informação individual dos oficiais alunos, ouvidos os respectivos professores.
 
-###### Art. 27.º Os professores encarregados dos ciclos de lições do C. S. N. G., quando oficiais da Armada, são comodoros ou capitães-de-mar-e-guerra habilitados com o C. S. N. G.
+Art. 27.º Os professores encarregados dos ciclos de lições do C. S. N. G., quando oficiais da Armada, são comodoros ou capitães-de-mar-e-guerra habilitados com o C. S. N. G.
 
 § único. Os professores a que se refere este artigo podem acumular o desempenho de funções no Instituto com o exercício de cargos noutros organismos do Ministério da Marinha.
 
-###### Art. 28.º Os professores do C. G. N. G. e do C. C. N. G. e os que sejam encarregados de ciclos de conferências do C. S. N. G., quando oficiais da Armada, devem ser comodoros ou oficiais superiores habilitados com o C. G. N. G.
+Art. 28.º Os professores do C. G. N. G. e do C. C. N. G. e os que sejam encarregados de ciclos de conferências do C. S. N. G., quando oficiais da Armada, devem ser comodoros ou oficiais superiores habilitados com o C. G. N. G.
 
 § único. Aos professores a que se refere este artigo é aplicável o disposto no § único do artigo 27.º
 
-###### Art. 29.º Os professores das matérias a seguir mencionadas são:
+Art. 29.º Os professores das matérias a seguir mencionadas são:
 
 a) Teorias Políticas e Política Internacional - um professor universitário;
 
@@ -404,7 +422,7 @@ c) Organização e Missões do Exército - um oficial superior do Exército;
 
 d) Organização e Missões da Força Aérea - um oficial superior da Força Aérea.
 
-###### Art. 30.º Aos professores dos cursos navais de guerra compete:
+Art. 30.º Aos professores dos cursos navais de guerra compete:
 
 a) Dar as lições ou conferências de que sejam encarregados;
 
@@ -414,15 +432,15 @@ c) Colaborar nos trabalhos do conselho de instrução;
 
 d) Desempenhar outras tarefas que lhes sejam determinadas pelo director do Instituto.
 
-###### Art. 31.º Para ministrar instrução nos cursos monográficos são designados oficiais com as habilitações adequadas, que podem desempenhar estas funções em regime de acumulação.
+Art. 31.º Para ministrar instrução nos cursos monográficos são designados oficiais com as habilitações adequadas, que podem desempenhar estas funções em regime de acumulação.
 
-###### Art. 32.º Para realizar conferências no I. S. N. G. podem ser convidados oficiais que não pertençam a este estabelecimento de ensino ou entidades estranhas à Armada de reconhecida competência sobre as matérias de que vão tratar.
+Art. 32.º Para realizar conferências no I. S. N. G. podem ser convidados oficiais que não pertençam a este estabelecimento de ensino ou entidades estranhas à Armada de reconhecida competência sobre as matérias de que vão tratar.
 
-###### Art. 33.º O conselho de instrução do I. S. N. G. é o órgão de consulta e de estudo do director do Instituto, em assuntos de carácter pedagógico ou doutrinário.
+Art. 33.º O conselho de instrução do I. S. N. G. é o órgão de consulta e de estudo do director do Instituto, em assuntos de carácter pedagógico ou doutrinário.
 
 § único. O conselho de instrução é presidido pelo director, e do mesmo fazem parte o subdirector, os directores dos cursos e os professores.
 
-###### Art. 34.º Compete especialmente ao conselho de instrução do I. S. N. G.:
+Art. 34.º Compete especialmente ao conselho de instrução do I. S. N. G.:
 
 a) Pronunciar-se sobre os planos de cursos;
 
@@ -432,13 +450,13 @@ c) Dar parecer sobre qualquer assunto que seja submetido à sua apreciação pel
 
 d) Pronunciar-se sobre as matérias referidas no § 1.º do artigo 17.º e no § único do artigo 19.º deste regulamento.
 
-###### Art. 35.º Os grupos de estudos, que são criados por despacho do Ministro da Marinha, destinam-se a definir doutrina sobre questões de interesse para a Armada.
+Art. 35.º Os grupos de estudos, que são criados por despacho do Ministro da Marinha, destinam-se a definir doutrina sobre questões de interesse para a Armada.
 
 § 1.º Os grupos de estudos são dirigidos por professores do I. S. N. G. e constituídos por outros professores do mesmo Instituto e por oficiais não pertencentes ao Instituto mas qualificados para colaborarem nos trabalhos que aqueles grupos realizem.
 
 § 2.º Os trabalhos realizados pelos grupos de estudos, desde que a sua finalidade exceda o âmbito das actividades do Instituto, só constituirão doutrina quando, depois de aprovados pelo director do Instituto, recebam parecer favorável do chefe do Estado-Maior da Armada e homologação do Ministro da Marinha.
 
-###### Art. 36.º No I. S. N. G. existem os seguintes órgãos e serviços:
+Art. 36.º No I. S. N. G. existem os seguintes órgãos e serviços:
 
 a) Serviços de abastecimento;
 
@@ -454,16 +472,16 @@ e) Biblioteca.
 
 § 2.º Os órgãos e serviços referidos neste artigo são superiormente orientados pelo subdirector.
 
-###### Art. 37.º Anualmente, na data julgada oportuna, a direcção do I. S. N. G. promoverá a publicação, na Ordem da Direcção do Serviço do Pessoal, da relação de obras e outros documentos cujo estudo é recomendado como preparação prévia para a frequência dos cursos navais de guerra.
+Art. 37.º Anualmente, na data julgada oportuna, a direcção do I. S. N. G. promoverá a publicação, na Ordem da Direcção do Serviço do Pessoal, da relação de obras e outros documentos cujo estudo é recomendado como preparação prévia para a frequência dos cursos navais de guerra.
 
 ### CAPÍTULO 4.º — Disposições diversas
 
-###### Art. 38.º A lotação do I. S. N. G. é estabelecida por portaria do Ministro da Marinha.
+Art. 38.º A lotação do I. S. N. G. é estabelecida por portaria do Ministro da Marinha.
 
-###### Art. 39.º As alterações ao disposto neste diploma, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Ministro da Marinha.
+Art. 39.º As alterações ao disposto neste diploma, se compatíveis com as disposições legais vigentes, serão publicadas por portaria do Ministro da Marinha.
 
-###### Art. 40.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
+Art. 40.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Inocêncio Galvão Teles - Fernando Alberto de Oliveira.

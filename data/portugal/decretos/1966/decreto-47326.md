@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/11/27000/18421853.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47326-1966-477628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-11-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bf4f7c88312b88b8155d96b8be7c9a1395008404260e5ad923d85180619d9199
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76a082519c5dbcfe91fc7fbda00884d8f8ca79c445dcc43538e103a43702c0fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Contrato de Concessão
+- Definição de Competências
+- Direção Geral da Saúde
+- Domínio Público Marítimo
+- Embalagem
+- Emolumento
+- Estabelecimento Industrial
+- Exportação
+- Gestão dos Recursos
+- Inspecção Geral das Actividades Económicas
+- Instituto de Biologia Marítima
+- Licenciamento
+- Molusco
+- Pesca
+- Recursos do Mar
+- Regulamento da Indústria Ostreícola
+- Vistoria
 relationships:
 - type: amended_by
   target: pt:dre:686224:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:477627:por
+  label: "Estabelecida a vigência provisória pelo período de três anos, findo o qual será publicado definitivamente depois\
+    \ de revisto, do Regulamento da Indústria Ostreícola, pelo DEC LEI.47325.21.11.1966.MMAR, DG.IS [270] de 21.11.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/47325-1966-477627
+  date: '1966-11-21'
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:457848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555188:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:686224:por
+  label: "Revogado pelo DEC.446/72.10.11.1972.MMAR, DG.IS [262] de 10.11.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/446-1972-686224
+  date: '1972-11-10'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:25Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +141,7 @@ REGULAMENTO DA INDÚSTRIA OSTREÍCOLA
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Depende de autorização do Governo o exercício da indústria ostreícola em todas as suas modalidades, competindo o seu licenciamento ao Ministério da Marinha.
+Artigo 1.º Depende de autorização do Governo o exercício da indústria ostreícola em todas as suas modalidades, competindo o seu licenciamento ao Ministério da Marinha.
 
 § único. São, para este efeito, órgãos competentes do Ministério da Marinha:
 
@@ -106,15 +151,15 @@ b) O Instituto de Biologia Marítima, nos aspectos técnico e científico da exp
 
 c) A Comissão Permanente de Malacologia e a Comissão Central de Pescarias, como órgãos consultivos.
 
-###### Art. 2.º Com vista à coordenação e à defesa dos interesses regionais, o Governo definirá por portaria do Ministério da Marinha «regiões ostreícolas» nos sectores do litoral em que a importância ou desenvolvimento da indústria ostreícola o justifique.
+Art. 2.º Com vista à coordenação e à defesa dos interesses regionais, o Governo definirá por portaria do Ministério da Marinha «regiões ostreícolas» nos sectores do litoral em que a importância ou desenvolvimento da indústria ostreícola o justifique.
 
 § 1.º Cada «região ostreícola» designará um seu representante na Comissão Permanente de Malacologia, em reunião convocada e presidida pelo capitão do porto, ou pelo mais graduado desde que sejam abrangidas várias capitanias, da qual participarão todos os concessionários da região ou a sua maioria, se não for possível reunir a totalidade.
 
 § 2.º A nomeação dos representantes destas regiões na Comissão Permanente de Malacologia é válida por três anos.
 
-###### Art. 3.º Para os efeitos do presente regulamento são consideradas como existindo nas águas públicas marítimas do País duas espécies de ostras: Crassostrea angulata Lamark ou «ostra portuguesa», e Ostrea e edulis L., «ostra redonda» ou «ostra plana».
+Art. 3.º Para os efeitos do presente regulamento são consideradas como existindo nas águas públicas marítimas do País duas espécies de ostras: Crassostrea angulata Lamark ou «ostra portuguesa», e Ostrea e edulis L., «ostra redonda» ou «ostra plana».
 
-###### Art. 4.º Para efeitos de aplicação do presente regulamento, estabelecem-se os seguintes conceitos e definições:
+Art. 4.º Para efeitos de aplicação do presente regulamento, estabelecem-se os seguintes conceitos e definições:
 
 1. Bancos naturais. - Quaisquer parcelas do domínio público marítimo, com área não inferior a 1000 m2, onde, sem intervenção intencional do homem, se hajam constituído ou se formem frequentemente populações de ostras com uma densidade média não inferior a dois indivíduos por metro quadrado. A abundância de criação ou de conchas vazias ou seus fragmentos que, pela maneira como se apresentam ou ocorrem, denunciem a sua proveniência de ostras que aí nasceram e se desenvolveram pode também identificar um banco natural, mesmo que não se verifique o referido mínimo (bancos exaustos). «Bancos naturais de ostras» e «ostreiras naturais» são expressões com a mesma significação.
 
@@ -144,11 +189,11 @@ c) A Comissão Permanente de Malacologia e a Comissão Central de Pescarias, com
 
 4.3 - O modelo do cartão de mariscador e o custo das licenças são estabelecidos em anexo a este regulamento.
 
-###### Art. 5.º A utilização de embarcações em actividades ostreícolas carece de licença a conceder pela autoridade marítima local.
+Art. 5.º A utilização de embarcações em actividades ostreícolas carece de licença a conceder pela autoridade marítima local.
 
 § único. A licença, requerida pelo proprietário, em papel selado, nos termos do modelo anexo, é válida de 1 de Janeiro a 31 de Dezembro e apenas na área sob jurisdição da autoridade marítima que a concedeu, e o seu custo consta da tabela anexa.
 
-###### Art. 6.º Compete às autoridades marítimas velar pelo cumprimento deste regulamento, e assim deverão as capitanias dos portos:
+Art. 6.º Compete às autoridades marítimas velar pelo cumprimento deste regulamento, e assim deverão as capitanias dos portos:
 
 a) Diligenciar, por todos os meios ao seu alcance, tornar bem públicas e conhecidas as disposições nele contidas, incluindo os diferentes modelos de requerimentos, tabelas, etc.;
 
@@ -162,7 +207,7 @@ d) Fiscalizar a apanha de ostras e todas as actividades inerentes à exploraçã
 
 § 2.º A constituição, as atribuições, a manutenção e as condições de prestação de serviço destas brigadas serão reguladas por portaria do Ministério da Marinha, sob proposta das respectivas capitanias, ouvidos os organismos competentes.
 
-###### Art. 7.º A verificação do cumprimento das disposições que respeitam aos aspectos técnico, económico, biológico e sanitário da exploração ostreícola é da competência de comissões de vistoria.
+Art. 7.º A verificação do cumprimento das disposições que respeitam aos aspectos técnico, económico, biológico e sanitário da exploração ostreícola é da competência de comissões de vistoria.
 
 § 1.º As comissões de vistoria são entidades permanentes afectas às capitanias dos portos, das quais farão parte:
 
@@ -174,23 +219,23 @@ c) Quando se justificar e por iniciativa do presidente, um técnico, prático ou
 
 § 2.º As comissões de vistoria funcionam por convocação dos respectivos presidentes e aos seus membros são devidos, pelo exercício das vistorias, emolumentos, a liquidar nos termos da tabela anexa.
 
-###### Art. 8.º O capítulo III do presente regulamento só se aplicará a terrenos do domínio público marítimo que façam parte de concessões ainda existentes quando estas caducarem nos termos da legislação que as criou, a qual, para este efeito, continua em vigor.
+Art. 8.º O capítulo III do presente regulamento só se aplicará a terrenos do domínio público marítimo que façam parte de concessões ainda existentes quando estas caducarem nos termos da legislação que as criou, a qual, para este efeito, continua em vigor.
 
-###### Art. 9.º Os pedidos pendentes relativos a exploração ostreícola dentro ou fora das águas jurisdicionais marítimas, ou sua renovação, só poderão ser deferidos nos termos deste regulamento.
+Art. 9.º Os pedidos pendentes relativos a exploração ostreícola dentro ou fora das águas jurisdicionais marítimas, ou sua renovação, só poderão ser deferidos nos termos deste regulamento.
 
 ### CAPÍTULO II — Bancos naturais
 
-###### Art. 10.º O Governo poderá conceder, nas condições do presente regulamento, para efeitos de exploração ostreícola, terrenos do domínio público em que hajam bancos naturais.
+Art. 10.º O Governo poderá conceder, nas condições do presente regulamento, para efeitos de exploração ostreícola, terrenos do domínio público em que hajam bancos naturais.
 
 § único. As concessões em bancos naturais são consideradas estabelecimentos de crescimento e engorda.
 
-###### Art. 11.º Não é permitida a instalação de estabelecimentos ostreícolas em áreas do domínio público ocupadas por bancos naturais de ostras cuja preservação seja considerada indispensável ou onde existam bancos de outros moluscos que sejam objecto de importante exploração ou necessários para abastecimento público da região.
+Art. 11.º Não é permitida a instalação de estabelecimentos ostreícolas em áreas do domínio público ocupadas por bancos naturais de ostras cuja preservação seja considerada indispensável ou onde existam bancos de outros moluscos que sejam objecto de importante exploração ou necessários para abastecimento público da região.
 
 § único. Compete à Direcção-Geral da Marinha, sob proposta da Comissão Permanente de Malacologia, com base em informações das comissões de vistoria, determinar quais os bancos que se encontram nas condições expressas no corpo deste artigo.
 
-###### Art. 12.º Com vista a assegurar a sobrevivência dos bancos naturais, a garantir o consumo público e a promover estudos e ensaios de ostreicultura e de exploração ostreícola, pode o Governo reservar em qualquer momento áreas do domínio público marítimo.
+Art. 12.º Com vista a assegurar a sobrevivência dos bancos naturais, a garantir o consumo público e a promover estudos e ensaios de ostreicultura e de exploração ostreícola, pode o Governo reservar em qualquer momento áreas do domínio público marítimo.
 
-###### Art. 13.º Para obviar à exaustão dos bancos naturais, desde que ela se afigure provável, pode ser determinada, por despacho do Ministro da Marinha, a fixação de contingentes de apanha ou a sua interdição temporária e o repovoamento.
+Art. 13.º Para obviar à exaustão dos bancos naturais, desde que ela se afigure provável, pode ser determinada, por despacho do Ministro da Marinha, a fixação de contingentes de apanha ou a sua interdição temporária e o repovoamento.
 
 § 1.º Compete ao Instituto de Biologia Marítima, a solicitação das autoridades marítimas locais, avaliar da possibilidade da exaustão e pronunciar-se sobre a oportunidade e a vantagem da aplicação das medidas para contrariar.
 
@@ -200,7 +245,7 @@ c) Quando se justificar e por iniciativa do presidente, um técnico, prático ou
 
 § 4.º O despacho referido no corpo deste artigo deve ser tornado público pelas autoridades marítimas respectivas.
 
-###### Art. 14.º É proibida a apanha de ostras nos bancos naturais durante os períodos de defeso.
+Art. 14.º É proibida a apanha de ostras nos bancos naturais durante os períodos de defeso.
 
 § 1.º Os períodos de defeso serão estabelecidos no princípio de cada ano por despacho do Ministro da Marinha, mediante proposta do director-geral da Marinha, depois de ouvida a Comissão Permanente de Malacologia.
 
@@ -208,31 +253,31 @@ c) Quando se justificar e por iniciativa do presidente, um técnico, prático ou
 
 § 3.º Em casos excepcionais de manifesta conveniência para a economia nacional, pode o Ministro da Marinha, ouvida a Comissão Permanente de Malacologia, levantar temporàriamente o defeso em determinada ou determinadas regiões.
 
-###### Art. 15.º A apanha de ostras em quaisquer bancos naturais só é permitida a mariscadores devidamente identificados e munidos de licença passada pelas capitanias dos portos ou suas delegações.
+Art. 15.º A apanha de ostras em quaisquer bancos naturais só é permitida a mariscadores devidamente identificados e munidos de licença passada pelas capitanias dos portos ou suas delegações.
 
-###### Art. 16.º A apanha de ostras nos bancos naturais considerados salubres e reservados ao consumo público é livre a todas as pessoas durante todo o ano, desde que seja para a sua alimentação.
+Art. 16.º A apanha de ostras nos bancos naturais considerados salubres e reservados ao consumo público é livre a todas as pessoas durante todo o ano, desde que seja para a sua alimentação.
 
-###### Art. 17.º A apanha de ostras em bancos naturais só é permitida desde o nascer ao pôr do Sol, utilizando instrumentos e procedimentos que não estejam proibidos por editais afixados pelas capitanias e delegações marítimas.
+Art. 17.º A apanha de ostras em bancos naturais só é permitida desde o nascer ao pôr do Sol, utilizando instrumentos e procedimentos que não estejam proibidos por editais afixados pelas capitanias e delegações marítimas.
 
 § único. Para elaboração destes editais deve ser ouvida a Comissão Permanente de Malacologia.
 
-###### Art. 18.º Na apanha de ostras em bancos submersos ou apenas emergentes nas grandes baixa-marés de marés vivas só é permitido o uso de ancinhos, dragas ou outros instrumentos não mencionados nos editais referidos no artigo anterior.
+Art. 18.º Na apanha de ostras em bancos submersos ou apenas emergentes nas grandes baixa-marés de marés vivas só é permitido o uso de ancinhos, dragas ou outros instrumentos não mencionados nos editais referidos no artigo anterior.
 
-###### Art. 19.º É proibida a apanha de ostras em quaisquer bancos naturais com tamanho inferior ao mínimo estabelecido por portaria do Ministro da Marinha.
+Art. 19.º É proibida a apanha de ostras em quaisquer bancos naturais com tamanho inferior ao mínimo estabelecido por portaria do Ministro da Marinha.
 
 § único. Mediante pareceres favoráveis do Instituto de Biologia Marítima e da Comissão Permanente de Malacologia, poderá ser autorizada, por portaria do Ministro da Marinha, a apanha de criação de ostras para repovoamento interno.
 
-###### Art. 20.º A apanha de cascas de ostras nos bancos naturais carece, em cada caso, de «autorização especial» concedida pelas autoridades marítimas locais, obtido parecer favorável do Instituto de Biologia Marítima. O pedido de autorização deve indicar, além da data em que a apanha é pretendida, o fim a que se destinam as cascas.
+Art. 20.º A apanha de cascas de ostras nos bancos naturais carece, em cada caso, de «autorização especial» concedida pelas autoridades marítimas locais, obtido parecer favorável do Instituto de Biologia Marítima. O pedido de autorização deve indicar, além da data em que a apanha é pretendida, o fim a que se destinam as cascas.
 
-###### Art. 21.º É expressamente proibido fundear ou encalhar embarcações em qualquer banco natural, salvo por motivo de força maior.
+Art. 21.º É expressamente proibido fundear ou encalhar embarcações em qualquer banco natural, salvo por motivo de força maior.
 
-###### Art. 22.º Se houver que escalonar a actividade da apanha ou evitar concorrências disputadas ou litigiosas, poderá a autoridade marítima local limitar o número de mariscadores e promover a sua distribuição pelos diferentes bancos da área sob a sua jurisdição.§ único. Ao tomar esta medida excepcional, a autoridade marítima deve ter em conta, se possível, a antiguidade dos mariscadores, a continuidade da sua actividade nos anos anteriores, os encargos familiares e o local da sua residência.
+Art. 22.º Se houver que escalonar a actividade da apanha ou evitar concorrências disputadas ou litigiosas, poderá a autoridade marítima local limitar o número de mariscadores e promover a sua distribuição pelos diferentes bancos da área sob a sua jurisdição.§ único. Ao tomar esta medida excepcional, a autoridade marítima deve ter em conta, se possível, a antiguidade dos mariscadores, a continuidade da sua actividade nos anos anteriores, os encargos familiares e o local da sua residência.
 
 ### CAPÍTULO III — Concessões de estabelecimentos ostreícolas
 
 A) Organização dos processos de concessão
 
-###### Art. 23.º A autorização para explorar qualquer estabelecimento ostreícola deve ser requerida ao Ministro da Marinha, através da autoridade marítima local.
+Art. 23.º A autorização para explorar qualquer estabelecimento ostreícola deve ser requerida ao Ministro da Marinha, através da autoridade marítima local.
 
 § 1.º Pode-se solicitar no mesmo requerimento autorização para instalar mais do que um estabelecimento, desde que estes se destinem a diferentes fases da exploração ostreícola e façam parte do mesmo conjunto funcional.
 
@@ -250,7 +295,7 @@ d) Planos e memória descritiva, em duplicado, suficientemente explícitos das i
 
 § 4.º Na mesma ocasião, o peticionário entregará também à autoridade marítima, contra recibo, a quantia fixada nas tabelas para despesas de vistoria ao local ou locais onde pretende montar o estabelecimento.
 
-###### Art. 24.º Perante o requerimento referido no artigo anterior, a autoridade marítima local mandará proceder a uma vistoria pela comissão de vistorias da área sob sua jurisdição, com o fim de verificar se o local ou locais pretendidos:
+Art. 24.º Perante o requerimento referido no artigo anterior, a autoridade marítima local mandará proceder a uma vistoria pela comissão de vistorias da área sob sua jurisdição, com o fim de verificar se o local ou locais pretendidos:
 
 a) Não contêm bancos naturais de outras cuja preservação seja considerada indispensável ou de outros moluscos comestíveis que sejam objecto de importante exploração, ou necessários para abastecimento público da região;
 
@@ -260,7 +305,7 @@ c) Não oferecem inconveniente do ponto de vista sanitário.
 
 § único. Do resultado da vistoria se lavrará, em livro especial da capitania ou delegação marítima, o respectivo termo, que será assinado pelos membros da comissão de vistoria, extraindo-se depois cópia para ser enviada juntamente com o processo, passando-se certidão, quando requerida.
 
-###### Art. 25.º Cumpridas as disposições dos artigos 23.º e 24.º, a autoridade marítima local:
+Art. 25.º Cumpridas as disposições dos artigos 23.º e 24.º, a autoridade marítima local:
 
 a) Mandará afixar editais, em condições de fácil conhecimento público, no edifício da capitania ou delegação marítima e nos locais mais frequentados da região, incluindo o edifício da respectiva municipalidade, a fim de, se a petição se relacionar com interesses de terceiros, estes fazerem por escrito, dentro de 30 dias, as reclamações que entenderem convenientes;
 
@@ -268,11 +313,11 @@ b) Solicitará, com vista à instrução do processo, informação da Direcção
 
 c) Ouvirá a comissão local de pescarias, se for caso disso.
 
-###### Art. 26.º Decorridos 30 dias sobre a afixação dos editais referidos no artigo anterior, a capitania do porto enviará o processo, acompanhado da sua própria informação e dos documentos correspondentes, à Direcção-Geral da Marinha - Direcção das Pescarias, que o submeterá a parecer da Comissão Permanente de Malacologia e da Comissão Central de Pescarias e o encaminhará até que sobre ele recaia despacho ministerial.
+Art. 26.º Decorridos 30 dias sobre a afixação dos editais referidos no artigo anterior, a capitania do porto enviará o processo, acompanhado da sua própria informação e dos documentos correspondentes, à Direcção-Geral da Marinha - Direcção das Pescarias, que o submeterá a parecer da Comissão Permanente de Malacologia e da Comissão Central de Pescarias e o encaminhará até que sobre ele recaia despacho ministerial.
 
 § único. Tratando-se de terrenos do domínio público, deverá ser solicitado também o parecer da Comissão do Domínio Público Marítimo.
 
-###### Art. 27.º Obtido o despacho ministerial, o interessado será notificado e deverá no prazo de 60 dias, contados a partir da data da notificação, requerer a concessão, juntando ao processo documento comprovativo de que depositou na Caixa Geral de Depósitos, à ordem da Direcção-Geral da Marinha - Direcção das Pescarias, a quantia de 10$00 por cada 1000 m2 ou fracção de área abrangida pela concessão que faça parte do domínio público.
+Art. 27.º Obtido o despacho ministerial, o interessado será notificado e deverá no prazo de 60 dias, contados a partir da data da notificação, requerer a concessão, juntando ao processo documento comprovativo de que depositou na Caixa Geral de Depósitos, à ordem da Direcção-Geral da Marinha - Direcção das Pescarias, a quantia de 10$00 por cada 1000 m2 ou fracção de área abrangida pela concessão que faça parte do domínio público.
 
 § 1.º Se, decorrido o prazo concedido, não for cumprido o preceituado no corpo do artigo, o requerimento referido nos artigos 23.º e 24.º será considerado como nunca tendo existido e os documentos que o acompanhavam só serão devolvidos ao requerente a seu pedido, depois de o mesmo haver pago os encargos da vistoria e outras despesas que o processo tenha motivado.
 
@@ -282,25 +327,25 @@ c) Ouvirá a comissão local de pescarias, se for caso disso.
 
 § 4.º No caso de, por motivos alheios à sua vontade devidamente comprovados, o concessionário não poder continuar a usufruir o local concedido, e se nessa ocasião já o tiver utilizado pelo menos durante cinco anos completos, ser-lhe-á restituído o depósito, se ele assim o requerer.
 
-###### Art. 28.º A extensão das áreas a conceder para exploração e cultura de ostras está condicionada à categoria dos estabelecimentos pretendidos, às áreas disponíveis, ao número de pretendentes e às áreas de que estes já disponham, bem como à importância relativa e à idoneidade das respectivas organizações, não podendo exceder 20 ha no caso de serem destinadas a depósito ou estabelecimento de expedição e 100 ha nos outros casos.
+Art. 28.º A extensão das áreas a conceder para exploração e cultura de ostras está condicionada à categoria dos estabelecimentos pretendidos, às áreas disponíveis, ao número de pretendentes e às áreas de que estes já disponham, bem como à importância relativa e à idoneidade das respectivas organizações, não podendo exceder 20 ha no caso de serem destinadas a depósito ou estabelecimento de expedição e 100 ha nos outros casos.
 
 § único. Para os efeitos deste artigo só poderão alegar preferência os requerentes cujos pedidos tenham dado entrada na capitania até à data da fixação do edital a que se refere a alínea a) do artigo 25.º
 
-###### Art. 29.º As taxas anuais relativas à ocupação de terrenos do domínio público concedidos para exploração ou cultura de ostras serão pagas pelos utentes à razão de 75$00 por cada 1000 m2 ou fracção, no caso de bancos naturais, tal como definidos no n.º 1 do artigo 4.º, e de 25$00 nos terrenos não abrangendo bancos naturais.
+Art. 29.º As taxas anuais relativas à ocupação de terrenos do domínio público concedidos para exploração ou cultura de ostras serão pagas pelos utentes à razão de 75$00 por cada 1000 m2 ou fracção, no caso de bancos naturais, tal como definidos no n.º 1 do artigo 4.º, e de 25$00 nos terrenos não abrangendo bancos naturais.
 
 § 1.º Tratando-se de terrenos não abrangendo bancos naturais e destinados exclusivamente à cultura de ostras, a taxa só é devida no terceiro ano de concessão.
 
 § 2.º Além da taxa prevista no corpo do artigo, será cobrada uma outra de igual quantia, e calculada como ela, cujo produto reverterá para um fundo a criar no Posto de Depuração de Ostras do Tejo destinado à instalação e manutenção de novos postos de depuração de ostras em locais adequados à sua função nas regiões ostreícolas onde se revele necessária a sua existência.
 
-###### Art. 30.º As taxas referidas no artigo anterior serão pagas na repartição marítima local durante o mês de Janeiro seguinte ao ano a que respeitam.
+Art. 30.º As taxas referidas no artigo anterior serão pagas na repartição marítima local durante o mês de Janeiro seguinte ao ano a que respeitam.
 
 § 1.º As taxas que não hajam sido liquidadas no período indicado poderão ser pagas até 30 de Junho do mesmo ano, com juros de mora fixado na lei fiscal quanto ao pagamento de rendas ao Estado.
 
 § 2.º Ultrapassado este prazo, a concessão caduca definitivamente, sendo vedado à repartição marítima local, ou a qualquer entidade do Ministério da Marinha, sob pena do disposto no artigo 1.º do [Decreto n.º 13458](https://diariodarepublica.pt/dr/detalhe/decreto/13458-1927-457848), de 12 de Abril de 1927, aceitar qualquer requerimento para revalidação da concessão.
 
-###### Art. 31.º É de dez anos, contados desde a data da portaria de concessão, o prazo pelo qual o concessionário de estabelecimentos ostreícolas instalados em terrenos do domínio público pode explorar a sua concessão, quando tenha satisfeito todos os preceitos regulamentares. Mas, se chegado o penúltimo ano, o concessionário pedir prorrogação da concessão, pode o Governo conceder-lha enquanto não for julgado inconveniente, por períodos sucessivos de cinco anos a seguir ao décimo.
+Art. 31.º É de dez anos, contados desde a data da portaria de concessão, o prazo pelo qual o concessionário de estabelecimentos ostreícolas instalados em terrenos do domínio público pode explorar a sua concessão, quando tenha satisfeito todos os preceitos regulamentares. Mas, se chegado o penúltimo ano, o concessionário pedir prorrogação da concessão, pode o Governo conceder-lha enquanto não for julgado inconveniente, por períodos sucessivos de cinco anos a seguir ao décimo.
 
-###### Art. 32.º Tornada caduca uma concessão, nos termos dos artigos 30.º, 31.º, 34.º e 36.º, cessa para o concessionário não só o usufruto da área concedida, mas também o direito de propriedade sobre todas as construções e material fixo que nela estejam aplicados, os quais deverão ser deixados no estado em que se encontrarem no último ano de concessão.
+Art. 32.º Tornada caduca uma concessão, nos termos dos artigos 30.º, 31.º, 34.º e 36.º, cessa para o concessionário não só o usufruto da área concedida, mas também o direito de propriedade sobre todas as construções e material fixo que nela estejam aplicados, os quais deverão ser deixados no estado em que se encontrarem no último ano de concessão.
 
 § único. Desde que haja instalações fixas, a concessão da mesma área só poderá ser feita por adjudicação em hasta pública nas condições seguintes:
 
@@ -312,29 +357,29 @@ c) A adjudicação ao novo concessionário será dada por despacho ministerial e
 
 d) A quantia recebida pelos melhoramentos, obras e material fixo dará entrada nos cofres do Estado.
 
-###### Art. 33.º Os estabelecimentos ostreícolas instalados em terrenos do domínio público marítimo só podem ser transmitidos nas condições a seguir indicadas:
+Art. 33.º Os estabelecimentos ostreícolas instalados em terrenos do domínio público marítimo só podem ser transmitidos nas condições a seguir indicadas:
 
 a) De concessionário individual para sociedade constituída, nos termos da alínea a) do § 2.º do artigo 23.º do presente regulamento, da qual faça parte o primitivo concessionário;
 
 b) Por morte do concessionário individual para descendente, ascendente ou cônjuge sobrevivo.
 
-###### Art. 34.º Os terrenos do domínio público transmitidos nos termos da alínea a) do artigo anterior não poderão ficar na posse da sociedade nem ser retransmitidos ao concessionário individual se este deixar de pertencer à sociedade, qualquer que seja o motivo invocado, ficando, além disso, este concessionário individual inibido de requerer, nos cinco anos mais próximos, o usufruto de qualquer outra parcela do domínio público para fins ostreícolas.
+Art. 34.º Os terrenos do domínio público transmitidos nos termos da alínea a) do artigo anterior não poderão ficar na posse da sociedade nem ser retransmitidos ao concessionário individual se este deixar de pertencer à sociedade, qualquer que seja o motivo invocado, ficando, além disso, este concessionário individual inibido de requerer, nos cinco anos mais próximos, o usufruto de qualquer outra parcela do domínio público para fins ostreícolas.
 
-###### Art. 35.º Fora das circunstâncias indicadas no artigo 33.º, nenhum estabelecimento ostreícola instalado em terreno do domínio público pode ser objecto de transmissão por qualquer título, gratuito ou oneroso, dado em hipoteca ou penhor, sendo írritos e nulos quaisquer contratos, declarações ou outros instrumentos públicos ou particulares donde tal conste, pois que a área da concessão pertence exclusivamente ao Estado, exercendo apenas nela o concessionário um usufruto de carácter temporário.
+Art. 35.º Fora das circunstâncias indicadas no artigo 33.º, nenhum estabelecimento ostreícola instalado em terreno do domínio público pode ser objecto de transmissão por qualquer título, gratuito ou oneroso, dado em hipoteca ou penhor, sendo írritos e nulos quaisquer contratos, declarações ou outros instrumentos públicos ou particulares donde tal conste, pois que a área da concessão pertence exclusivamente ao Estado, exercendo apenas nela o concessionário um usufruto de carácter temporário.
 
-###### Art. 36.º São consideradas caducas as concessões nas quais não hajam sido começadas, ao cabo de um ano, e concluídas ao fim de dois, as instalações previstas no respectivo processo ou necessárias ao funcionamento dos estabelecimentos a que respeitem as concessões.
+Art. 36.º São consideradas caducas as concessões nas quais não hajam sido começadas, ao cabo de um ano, e concluídas ao fim de dois, as instalações previstas no respectivo processo ou necessárias ao funcionamento dos estabelecimentos a que respeitem as concessões.
 
-###### Art. 37.º Logo que as concessões forem consideradas caducas nos termos dos artigos 30.º, 31.º, 34.º e 36.º, as autoridades marítimas locais devem elaborar os respectivos processos de caducidade.
+Art. 37.º Logo que as concessões forem consideradas caducas nos termos dos artigos 30.º, 31.º, 34.º e 36.º, as autoridades marítimas locais devem elaborar os respectivos processos de caducidade.
 
 § 1.º Os processos, devidamente informados, deverão ser enviados à Direcção-Geral da Marinha - Direcção das Pescarias, que, ouvida a Comissão Permanente de Malacologia e a Comissão Central de Pescarias, os submeterá à aprovação do Ministro da Marinha.
 
 § 2.º O Ministro da Marinha poderá, com informação favorável da Comissão Permanente de Malacologia e da Comissão Central de Pescarias, suspender por um ano os processos de caducidade motivados pela aplicação dos artigos 30.º, 31.º e 36.º, permitindo que os concessionários, com um ano de atraso, cumpram o disposto nestes artigos.
 
-###### Art. 38.º Quando se verificar que o concessionário não ocupa efectivamente toda a área que lhe foi concedida ou que exista manifesta desvantagem para os interesses do Estado, por motivo de actos praticados pelo concessionário, em que essa área seja toda ocupada por ele, poderá a mesma ser reduzida, ouvidas as estações competentes e o concessionário.
+Art. 38.º Quando se verificar que o concessionário não ocupa efectivamente toda a área que lhe foi concedida ou que exista manifesta desvantagem para os interesses do Estado, por motivo de actos praticados pelo concessionário, em que essa área seja toda ocupada por ele, poderá a mesma ser reduzida, ouvidas as estações competentes e o concessionário.
 
 B) Deveres e direitos dos concessionários
 
-###### Art. 39.º Os concessionários terão de:
+Art. 39.º Os concessionários terão de:
 
 a) Demarcar as áreas das suas concessões com balizas bem visíveis, pelo menos em todos os vértices;
 
@@ -344,15 +389,15 @@ b) Assinalar as concessões com tabuletas que as identifiquem.
 
 § 2.º As balizas que hajam desaparecido ou tenham sido destruídas ou derrubadas deverão ser substituídas ou repostas pelo concessionário, logo que se dê pela sua falta, destruição ou derrubamento.
 
-###### Art. 40.º Os concessionários são obrigados a franquear a entrada nos seus estabelecimentos, em qualquer hora do dia, às autoridades marítimas, aos inspectores e aos funcionários dos serviços administrativos, técnicos ou científicos da Direcção-Geral da Marinha, da Direcção-Geral das Alfândegas e da Direcção-Geral de Saúde.
+Art. 40.º Os concessionários são obrigados a franquear a entrada nos seus estabelecimentos, em qualquer hora do dia, às autoridades marítimas, aos inspectores e aos funcionários dos serviços administrativos, técnicos ou científicos da Direcção-Geral da Marinha, da Direcção-Geral das Alfândegas e da Direcção-Geral de Saúde.
 
-###### Art. 41.º Os concessionários são obrigados a fornecer aos serviços técnicos e científicos competentes as amostras de ostras, de águas ou de terrenos que lhes forem exigidas para exame laboratorial.
+Art. 41.º Os concessionários são obrigados a fornecer aos serviços técnicos e científicos competentes as amostras de ostras, de águas ou de terrenos que lhes forem exigidas para exame laboratorial.
 
-###### Art. 42.º Os concessionários são obrigados ao cumprimento da instruções que lhes forem fornecidas pelos serviços administrativos, técnicos ou científicos do Ministério da Marinha destinadas a melhorar a exploração ostreícola, desde que não sejam contrárias às disposições deste regulamento e, em geral, da legislação em vigor.
+Art. 42.º Os concessionários são obrigados ao cumprimento da instruções que lhes forem fornecidas pelos serviços administrativos, técnicos ou científicos do Ministério da Marinha destinadas a melhorar a exploração ostreícola, desde que não sejam contrárias às disposições deste regulamento e, em geral, da legislação em vigor.
 
-###### Art. 43.º Os concessionários são obrigados a respeitar todos os locais de desembarque, esteiros, canais, valas, caneiros, etc., que derem acesso às povoações e propriedades.
+Art. 43.º Os concessionários são obrigados a respeitar todos os locais de desembarque, esteiros, canais, valas, caneiros, etc., que derem acesso às povoações e propriedades.
 
-###### Art. 44.º Não é permitido aos concessionários de estabelecimentos ostreícolas:
+Art. 44.º Não é permitido aos concessionários de estabelecimentos ostreícolas:
 
 a) Utilizar como obreiros nos diferentes trabalhos de exploração e cultura indivíduos que não estejam inscritos como mariscadores;
 
@@ -360,51 +405,51 @@ b) Adquirir ostras a apanhadores que não estejam inscritos como mariscadores;
 
 c) Transaccionar ostras com dimensões inferiores às fixadas por portaria do Ministro da Marinha.
 
-###### Art. 45.º A apanha de ostras e de cascas, bem como de quaisquer outros produtos marinhos nos estabelecimentos ostreícolas, é direito exclusivo dos respectivos concessionários ou proprietários.
+Art. 45.º A apanha de ostras e de cascas, bem como de quaisquer outros produtos marinhos nos estabelecimentos ostreícolas, é direito exclusivo dos respectivos concessionários ou proprietários.
 
-###### Art. 46.º A autorização para a apanha de ostras em bancos insalubres poderá ser concedida, a título excepcional, apenas a possuidores de estabelecimentos de depuração.
+Art. 46.º A autorização para a apanha de ostras em bancos insalubres poderá ser concedida, a título excepcional, apenas a possuidores de estabelecimentos de depuração.
 
 § único. Esta autorização só poderá ser concedida com parecer favorável da Comissão Permanente de Malacologia.
 
-###### Art. 47.º Os concessionários exportadores terão preferência sobre os restantes na obtenção de terrenos do domínio público para depósito de ostras.
+Art. 47.º Os concessionários exportadores terão preferência sobre os restantes na obtenção de terrenos do domínio público para depósito de ostras.
 
-###### Art. 48.º Por proposta devidamente fundamentada dos organismos competentes, ouvido o Instituto de Biologia Marítima e mediante despacho do Ministro da Marinha, poderão os concessionários exportadores ficar sujeitos a um esforço mínimo de captação de larvas, a determinar.
+Art. 48.º Por proposta devidamente fundamentada dos organismos competentes, ouvido o Instituto de Biologia Marítima e mediante despacho do Ministro da Marinha, poderão os concessionários exportadores ficar sujeitos a um esforço mínimo de captação de larvas, a determinar.
 
-###### Art. 49.º Os concessionários de estabelecimentos ostreícolas que pretendam confiar a vigilância dos seus estabelecimentos a guardas privativos devem registá-los nas capitanias dos portos ou delegações marítimas.
+Art. 49.º Os concessionários de estabelecimentos ostreícolas que pretendam confiar a vigilância dos seus estabelecimentos a guardas privativos devem registá-los nas capitanias dos portos ou delegações marítimas.
 
 § único. Os guardas privativos devem estar munidos de documento que os identifique, passado pelas autoridades marítimas locais, do qual conste o nome do concessionário ou concessionários que utilizam os seus serviços.
 
 C) Instalação e funcionamento
 
-###### Art. 50.º Os estabelecimentos de captação de larvas podem ser temporários ou permanente.
+Art. 50.º Os estabelecimentos de captação de larvas podem ser temporários ou permanente.
 
 § único. As autorizações para instalar estabelecimentos temporários são concedidas pelos capitães dos portos, mediante requerimento, e válidas apenas por um ano.
 
-###### Art. 51.º Os estabelecimentos de captação de larvas podem ser instalados na periferia dos bancos naturais, desde que separados deles por uma faixa de terreno com largura não inferior a 10 m em qualquer parte da sua extensão.
+Art. 51.º Os estabelecimentos de captação de larvas podem ser instalados na periferia dos bancos naturais, desde que separados deles por uma faixa de terreno com largura não inferior a 10 m em qualquer parte da sua extensão.
 
-###### Art. 52.º São permitidos todos os tipos de colectores que não hajam sido julgados inconvenientes pelo Instituto de Biologia Marítima, e como tal declarados em editais das capitanias dos portos ou suas delegações.
+Art. 52.º São permitidos todos os tipos de colectores que não hajam sido julgados inconvenientes pelo Instituto de Biologia Marítima, e como tal declarados em editais das capitanias dos portos ou suas delegações.
 
-###### Art. 53.º Os concessionários de estabelecimentos de captação, temporários ou permanentes, devem informar as autoridades marítimas locais, com antecedência não inferior a quinze dias, da data em que se propõem instalar os colectores e qual o tipo e a quantidade destes.
+Art. 53.º Os concessionários de estabelecimentos de captação, temporários ou permanentes, devem informar as autoridades marítimas locais, com antecedência não inferior a quinze dias, da data em que se propõem instalar os colectores e qual o tipo e a quantidade destes.
 
 § único. As capitanias devem transmitir estas informações ao Instituto de Biologia Marítima tão prontamente quanto possível.
 
-###### Art. 54.º A distância a que os «parques de crescimento e engorda» devem ficar dos bancos naturais não pode ser inferior a 50 m em qualquer troço do seu perímetro.
+Art. 54.º A distância a que os «parques de crescimento e engorda» devem ficar dos bancos naturais não pode ser inferior a 50 m em qualquer troço do seu perímetro.
 
 § único. Em casos especiais, por proposta da autoridade marítima local, ouvida a Comissão Permanente de Malacologia, pode o Ministro da Marinha, por despacho, alterar a distância fixada neste artigo.
 
-###### Art. 55.º Salvo autorização especial, é proibida a introdução nos parques de ostras de espécies diferentes das que são naturais da região, e das da mesma espécie quando provenientes de regiões fora da jurisdição das autoridades marítimas a que estiverem submetidos os parques receptores.
+Art. 55.º Salvo autorização especial, é proibida a introdução nos parques de ostras de espécies diferentes das que são naturais da região, e das da mesma espécie quando provenientes de regiões fora da jurisdição das autoridades marítimas a que estiverem submetidos os parques receptores.
 
 § único. As autorizações especiais são concedidas pelo director-geral da Marinha, mediante requerimento, depois de ouvidas a capitania do porto e a Comissão Permanente de Malacologia.
 
-###### Art. 56.º As ostras dos estabelecimentos de crescimento e engorda só podem ser enviadas para consumo interno ou para exportação através de estabelecimentos de expedição montados nas condições prescritas no presente regulamento.
+Art. 56.º As ostras dos estabelecimentos de crescimento e engorda só podem ser enviadas para consumo interno ou para exportação através de estabelecimentos de expedição montados nas condições prescritas no presente regulamento.
 
 § único. Caso seja julgado necessário, as ostras retiradas dos parques só podem ser enviadas para consumo ou exportação depois de afinadas ou depuradas nos estabelecimentos apropriados, conforme for determinado pelas autoridades marítimas locais, ouvido o Instituto de Biologia Marítima.
 
-###### Art. 57.º Na instalação e funcionamento dos estabelecimentos de afinação, dos estabelecimentos de depuração e dos estabelecimentos de expedição devem ser observadas as disposições especialmente prescritas no capítulo consagrado a salubridade.
+Art. 57.º Na instalação e funcionamento dos estabelecimentos de afinação, dos estabelecimentos de depuração e dos estabelecimentos de expedição devem ser observadas as disposições especialmente prescritas no capítulo consagrado a salubridade.
 
 § único. A expedição de ostras pode ser promovida pelos estabelecimentos de depuração.
 
-###### Art. 58.º Os estabelecimentos de expedição devem estar instalados em condições de fácil acesso e fiscalização e dispor de:
+Art. 58.º Os estabelecimentos de expedição devem estar instalados em condições de fácil acesso e fiscalização e dispor de:
 
 a) Área bastante para a intensidade e volume de movimento que fora autorizado;
 
@@ -416,47 +461,47 @@ d) Instalações que permitam ao seu pessoal trabalhar em condições higiénica
 
 § único. A verificação do cumprimento do disposto no corpo do artigo compete às comissões de vistoria.
 
-###### Art. 59.º Mesmo que instalados em locais fora da jurisdição das autoridades marítimas, os estabelecimentos de depuração e os estabelecimentos de expedição estão sujeitos à fiscalização dos serviços técnicos e científicos do Ministério da Marinha, sem prejuízo da fiscalização a exercer pelos agentes dos serviços sanitários e aduaneiros.
+Art. 59.º Mesmo que instalados em locais fora da jurisdição das autoridades marítimas, os estabelecimentos de depuração e os estabelecimentos de expedição estão sujeitos à fiscalização dos serviços técnicos e científicos do Ministério da Marinha, sem prejuízo da fiscalização a exercer pelos agentes dos serviços sanitários e aduaneiros.
 
-###### Art. 60.º Para fins estatísticos, os estabelecimentos de depuração e os de expedição devem informar mensalmente, as autoridades marítimas sobre o movimento de entrada e de saída de ostras, mediante o preenchimento de mapas fornecidos pelas entidades competentes.
+Art. 60.º Para fins estatísticos, os estabelecimentos de depuração e os de expedição devem informar mensalmente, as autoridades marítimas sobre o movimento de entrada e de saída de ostras, mediante o preenchimento de mapas fornecidos pelas entidades competentes.
 
-###### Art. 61.º Os depósitos de ostras podem ser temporários ou permanentes.
+Art. 61.º Os depósitos de ostras podem ser temporários ou permanentes.
 
 § único. As autorizações para instalar depósitos temporários são concedidas pelas capitanias dos portos, mediante requerimento, e válidas apenas por um ano.
 
 ### CAPÍTULO IV — Comercialização
 
-###### Art. 62.º O exercício do comércio por grosso e o da exportação de ostras só são permitidos aos concessionários ostreícolas que promovam captação de criação e possuam estabelecimentos de crescimento e engorda e de expedição instalados nas condições prescritas no presente regulamento.
+Art. 62.º O exercício do comércio por grosso e o da exportação de ostras só são permitidos aos concessionários ostreícolas que promovam captação de criação e possuam estabelecimentos de crescimento e engorda e de expedição instalados nas condições prescritas no presente regulamento.
 
-###### Art. 63.º Os mariscadores só podem vender ostras a concessionários com estabelecimentos ostreícolas, independentemente da área onde estão situados.
+Art. 63.º Os mariscadores só podem vender ostras a concessionários com estabelecimentos ostreícolas, independentemente da área onde estão situados.
 
-###### Art. 64.º A exportação de ostras está sujeita às disposições gerais aplicáveis ao comércio externo e os concessionários que a ela pretendam dedicar-se devem inscrever-se prèviamente nos organismos competentes dos Ministério da Economia.
+Art. 64.º A exportação de ostras está sujeita às disposições gerais aplicáveis ao comércio externo e os concessionários que a ela pretendam dedicar-se devem inscrever-se prèviamente nos organismos competentes dos Ministério da Economia.
 
-###### Art. 65.º As ostras destinadas ao consumo do País ou à exportação não poderão sair dos estabelecimentos de expedição sem que seja verificado, pelas autoridades fiscalizadoras, que foram cumpridas as disposições aplicáveis do presente regulamento.
+Art. 65.º As ostras destinadas ao consumo do País ou à exportação não poderão sair dos estabelecimentos de expedição sem que seja verificado, pelas autoridades fiscalizadoras, que foram cumpridas as disposições aplicáveis do presente regulamento.
 
 § único. Para facilitar a fiscalização, devem os expedidores informar as autoridades fiscalizadoras, com antecedência não inferior a cinco dias, das datas em que projectam as expedições e das quantidades a expedir.
 
-###### Art. 66.º As ostras, seja qual for o seu destino, assim como as cascas destinadas à indústria, só podem transitar acompanhadas de guias de trânsito, passadas em quadruplicado pelas autoridades marítimas locais, ou por entidades em que estas autoridades deleguem, destinando-se uma via à entidade que passa as guias e das restantes uma ao expedidor, outra ao destinatário e outra ao transportador.
+Art. 66.º As ostras, seja qual for o seu destino, assim como as cascas destinadas à indústria, só podem transitar acompanhadas de guias de trânsito, passadas em quadruplicado pelas autoridades marítimas locais, ou por entidades em que estas autoridades deleguem, destinando-se uma via à entidade que passa as guias e das restantes uma ao expedidor, outra ao destinatário e outra ao transportador.
 
-###### Art. 67.º As ostras que se destinam ao consumo público ou a exportação só podem ser expedidas em embalagens apropriadas que levem apensas etiquetas indicando a proveniência, o nome do exportador, a data da expedição e o destino.
+Art. 67.º As ostras que se destinam ao consumo público ou a exportação só podem ser expedidas em embalagens apropriadas que levem apensas etiquetas indicando a proveniência, o nome do exportador, a data da expedição e o destino.
 
 § 1.º No caso de razões de ordem técnica ou sanitária justificarem a adopção de certos tipos de recipientes ou embalagens, só estes poderão ser usados no transporte de ostras.
 
 § 2.º Os agentes das empresas de transportes marítimos, fluviais, terrestres ou aéreos não devem dar despacho a remessas de ostras que não estejam nas condições estabelecidas neste artigo.
 
-###### Art. 68.º As ostras exportadas que hajam sido rejeitadas pelo país importador devem ser devolvidas aos bancos naturais, aos estabelecimentos ostreícolas ou enviadas para outro destino, conforme informação dos agentes de fiscalização ou funcionários do Instituto de Biologia Marítima que as tenham inspeccionado à chegada.
+Art. 68.º As ostras exportadas que hajam sido rejeitadas pelo país importador devem ser devolvidas aos bancos naturais, aos estabelecimentos ostreícolas ou enviadas para outro destino, conforme informação dos agentes de fiscalização ou funcionários do Instituto de Biologia Marítima que as tenham inspeccionado à chegada.
 
 § 1.º Esta informação deverá ser comunicada às autoridades aduaneiras e marítimas.
 
 § 2.º As devoluções do estrangeiro devem ser anunciadas ao Instituto de Biologia Marítima ou aos seus delegados, com antecedência não inferior a 24 horas, referida ao local de descarga no País.
 
-###### Art. 69.º Os vendedores de ostras ao público, incluindo hotéis, restaurantes, pensões, casas de pasto, etc., só podem ser abastecidas deste molusco por estabelecimentos de expedição autorizados nos termos deste regulamento, ou por retalhistas estabelecidos que nos citados estabelecimentos se hajam abastecido dos referidos moluscos.
+Art. 69.º Os vendedores de ostras ao público, incluindo hotéis, restaurantes, pensões, casas de pasto, etc., só podem ser abastecidas deste molusco por estabelecimentos de expedição autorizados nos termos deste regulamento, ou por retalhistas estabelecidos que nos citados estabelecimentos se hajam abastecido dos referidos moluscos.
 
-###### Art. 70.º Em todas as modalidades do comércio de ostras devem ser observadas as disposições aplicáveis do capítulo V do presente regulamento.
+Art. 70.º Em todas as modalidades do comércio de ostras devem ser observadas as disposições aplicáveis do capítulo V do presente regulamento.
 
 ### CAPÍTULO V — Salubridade
 
-###### Art. 71.º A qualificação de salubres ou insalubres atribuída às ostras é entendida diferentemente conforme se destinem a estabulação ou ao consumo público:
+Art. 71.º A qualificação de salubres ou insalubres atribuída às ostras é entendida diferentemente conforme se destinem a estabulação ou ao consumo público:
 
 a) Para efeitos de estabulação, consideram-se salubres as ostras que provenham de bancos ou parques considerados salubres;
 
@@ -466,9 +511,9 @@ b) Para efeitos de consumo público, consideram-se salubres as ostras que proven
 
 § 2.º O Posto de Depuração de Ostras do Tejo, criado pela Portaria do Ministério da Marinha n.º 13677, de 15 de Setembro de 1951, é um estabelecimento oficial de depuração, do qual dependem administrativamente os postos de depuração que vierem a ser criados.
 
-###### Art. 72.º As condições a que devem satisfazer os bancos, os estabelecimentos ostreícolas e as ostras, para serem qualificados de salubres, e as ostras reconhecidas como depuradas são determinadas por normas elaboradas conjuntamente pela Direcção-Geral de Saúde e pelo Instituto de Biologia Marítima e fixadas por portaria dos Ministros da Marinha e da Saúde e Assistência.
+Art. 72.º As condições a que devem satisfazer os bancos, os estabelecimentos ostreícolas e as ostras, para serem qualificados de salubres, e as ostras reconhecidas como depuradas são determinadas por normas elaboradas conjuntamente pela Direcção-Geral de Saúde e pelo Instituto de Biologia Marítima e fixadas por portaria dos Ministros da Marinha e da Saúde e Assistência.
 
-###### Art. 73.º A salubridade dos bancos e dos estabelecimentos ostreícolas é verificada por vistorias «formais», de «rotina» e «ocasionais»:
+Art. 73.º A salubridade dos bancos e dos estabelecimentos ostreícolas é verificada por vistorias «formais», de «rotina» e «ocasionais»:
 
 a) As vistorias formais estão a cargo das comissões de vistoria e devem efectuar-se no 1.º trimestre de cada ano, em datas prèviamente marcadas pelas autoridades marítimas, e na presença dos concessionários ou seus representantes, que para o efeito deverão ser convocados;
 
@@ -482,7 +527,7 @@ c) As vistorias ocasionais, a efectuar sempre que as circunstâncias o aconselhe
 
 § 3.º Aos proprietários e aos concessionários que se encontrem nas condições serão passados, a seu pedido, pelas autoridades marítimas locais, certificados de que são salubres os respectivos estabelecimentos.
 
-###### Art. 74.º A salubridade das ostras destinadas ao consumo público é verificada pelo Instituto de Biologia Marítima, sempre que necessário em colaboração com o Instituto Superior de Higiene, tendo em consideração os caracteres organolépticos, as análises biológicas e químicas consignadas nas normas e ainda outras análises que as circunstâncias aconselharem.
+Art. 74.º A salubridade das ostras destinadas ao consumo público é verificada pelo Instituto de Biologia Marítima, sempre que necessário em colaboração com o Instituto Superior de Higiene, tendo em consideração os caracteres organolépticos, as análises biológicas e químicas consignadas nas normas e ainda outras análises que as circunstâncias aconselharem.
 
 § 1.º O Instituto de Biologia Marítima passará, a pedido dos interessados, «certificados de salubridade» e «certificados de depuração», respeitantes, respectivamente, a ostras que provenham de estabelecimentos salubres e a ostras provenientes de quaisquer bancos ou estabelecimentos ostreícolas que hajam sido depuradas.
 
@@ -490,13 +535,13 @@ c) As vistorias ocasionais, a efectuar sempre que as circunstâncias o aconselhe
 
 § 3.º As análises serão pagas pelos interessados aos laboratórios que as executarem, de acordo com as tabelas privativas.
 
-###### Art. 75.º Os concessionários de «estabelecimentos de expedição» e os de «estabelecimentos de depuração» são obrigados a informar o Instituto de Biologia Marítima com antecedência mínima de cinco dias, do ritmo das actividades destes estabelecimentos previsto para cada mês de actividade.
+Art. 75.º Os concessionários de «estabelecimentos de expedição» e os de «estabelecimentos de depuração» são obrigados a informar o Instituto de Biologia Marítima com antecedência mínima de cinco dias, do ritmo das actividades destes estabelecimentos previsto para cada mês de actividade.
 
 § 1.º Não podem sair ostras destes estabelecimentos, quer para consumo, quer para estabulação sem que os fiscais as considerem em condições de transitar.
 
 § 2.º As embalagens das ostras, seja qual for o destino destas, deverão ser seladas e levar afixadas, de maneira patente, as respectivas etiquetas autenticadas pelos fiscais.§ 3.º As expedições de ostras são feitas a coberto, conforme os casos, de «certificados de salubridade» ou de «certificados de depuração» dos quais constarão os números das etiquetas afixadas nas embalagens a que dizem respeito.
 
-###### Art. 76.º Os modelos de certificados e de etiquetas oficialmente reconhecidos são os estabelecidos por este regulamento.
+Art. 76.º Os modelos de certificados e de etiquetas oficialmente reconhecidos são os estabelecidos por este regulamento.
 
 § 1.º São três as modalidades de certificados e de etiquetas:
 
@@ -508,11 +553,11 @@ c) As vistorias ocasionais, a efectuar sempre que as circunstâncias o aconselhe
 
 § 2.º As etiquetas são obrigatòriamente fornecidas pelo Instituto de Biologia Marítima.
 
-###### Art. 77.º A apresentação dos certificados de salubridade ou de depuração de ostras, bem como das guias de trânsito, pode ser exigida pelos compradores e por quaisquer autoridades sanitárias, marítimas, fiscais, administrativas ou policiais.
+Art. 77.º A apresentação dos certificados de salubridade ou de depuração de ostras, bem como das guias de trânsito, pode ser exigida pelos compradores e por quaisquer autoridades sanitárias, marítimas, fiscais, administrativas ou policiais.
 
-###### Art. 78.º Não é permitido o transporte de ostras a granel ou em recipientes ou embalagens sem serem acompanhadas dos documentos de salubridade.
+Art. 78.º Não é permitido o transporte de ostras a granel ou em recipientes ou embalagens sem serem acompanhadas dos documentos de salubridade.
 
-###### Art. 79.º As ostras destinadas ao consumo público devem ser mantidas, manuseadas e vendidas ao abrigo de quaisquer conspurações, em locais e em condições que as salvaguardem de possível poluição ou alteração.
+Art. 79.º As ostras destinadas ao consumo público devem ser mantidas, manuseadas e vendidas ao abrigo de quaisquer conspurações, em locais e em condições que as salvaguardem de possível poluição ou alteração.
 
 Assim:
 
@@ -522,47 +567,47 @@ b) Não devem ser lavadas com água doce ou salgada que não esteja isenta de im
 
 c) Os recipientes com ostras em exposição podem ser instalados em vitrinas, ou ao ar livre, mas, neste caso, resguardados de poeiras e de quaisquer sujidades por cobertura apropriada e mantidos a mais de 50 cm do solo, contados a partir do fundo.
 
-###### Art. 80.º As ostras importadas do estrangeiro nas condições regulamentares quanto à espécie, qualidade e tamanho podem ser destinadas ao consumo público imediato, se vierem acompanhadas de certificado de salubridade passado por organismo oficial do Estado expedidor e reconhecido e aceite pelo Governo Português.
+Art. 80.º As ostras importadas do estrangeiro nas condições regulamentares quanto à espécie, qualidade e tamanho podem ser destinadas ao consumo público imediato, se vierem acompanhadas de certificado de salubridade passado por organismo oficial do Estado expedidor e reconhecido e aceite pelo Governo Português.
 
 § único. O reconhecimento e aceitação pelo Governo Português de certificados passados por organismos estrangeiros implica reciprocidade quanto aos certificados portugueses por parte do Governo do país a que pertencer o organismo estrangeiro.
 
-###### Art. 81.º A exploração e cultura de ostras ficam sujeitas às disposições legais sobre salubridade de moluscos, publicadas posteriormente à data deste regulamento.
+Art. 81.º A exploração e cultura de ostras ficam sujeitas às disposições legais sobre salubridade de moluscos, publicadas posteriormente à data deste regulamento.
 
 ### CAPÍTULO VI — Infracções e penalidades
 
-###### Art. 82.º O indivíduo encontrado a apanhar ostras que não seja para consumo próprio tem de estar munido do documento de identificação e da licença referidos no n.º 4 do artigo 4.º Se não apresentar estes documentos, além de ter de deixar no local as ostras apanhadas, fica sujeito a multa equivalente a um dia de trabalho.
+Art. 82.º O indivíduo encontrado a apanhar ostras que não seja para consumo próprio tem de estar munido do documento de identificação e da licença referidos no n.º 4 do artigo 4.º Se não apresentar estes documentos, além de ter de deixar no local as ostras apanhadas, fica sujeito a multa equivalente a um dia de trabalho.
 
 § 1.º A primeira reincidência implica o agravamento da multa para o dobro da que lhe tiver sido aplicada pela primeira vez.
 
 § 2.º A segunda reincidência implica a pena de prisão de um a oito dias, tendo em conta a idade do infractor, o comportamento anterior e quaisquer possíveis atenuantes.
 
-###### Art. 83.º As infracções aos artigos 14.º, 15.º, 17.º, 18.º, 19.º, 20.º, 45.º e 63.º são punidas com apreensão das ostras ou cascas que hajam sido apanhadas e dos instrumentos de uso proibido de que os infractores sejam detentores, e com multa correspondente a um ou dois dias de trabalho conforme se tratar de primeira infracção ou de reincidência.
+Art. 83.º As infracções aos artigos 14.º, 15.º, 17.º, 18.º, 19.º, 20.º, 45.º e 63.º são punidas com apreensão das ostras ou cascas que hajam sido apanhadas e dos instrumentos de uso proibido de que os infractores sejam detentores, e com multa correspondente a um ou dois dias de trabalho conforme se tratar de primeira infracção ou de reincidência.
 
 § 1.º Sucessivas reincidências implicam, além das penalidades referidas no corpo deste artigo, a apreensão dos documentos de identificação como mariscador, incluindo a licença, e a negação da sua nova inscrição como tal, por período não inferior a um ano.
 
 § 2.º As ostras ou cascas apreendidas devem ser devolvidas à procedência ou remetidas a destino que pelas autoridades marítimas for determinado, suportando os infractores os respectivos encargos.
 
-###### Art. 84.º O desrespeito do expresso nos artigos 21.º e 43.º é punido nos termos do Regulamento Geral das Capitanias e do Código Penal e Disciplinar da Marinha Mercante.
+Art. 84.º O desrespeito do expresso nos artigos 21.º e 43.º é punido nos termos do Regulamento Geral das Capitanias e do Código Penal e Disciplinar da Marinha Mercante.
 
-###### Art. 85.º A inobservância dos artigos 39.º, 40.º, 41.º, 42.º e 44.º deve ser comunicada às autoridades marítimas, se não verificada directamente por elas e, em qualquer caso, transmitida pelas mesmas, se não lhes competir a decisão, à Direcção das Pescarias para que, ouvidos o Instituto de Biologia Marítima e ou a Comissão Permanente de Malacologia, conforme for julgado mais conveniente, sejam determinadas as deligências necessárias ou aplicadas sanções adequadas.
+Art. 85.º A inobservância dos artigos 39.º, 40.º, 41.º, 42.º e 44.º deve ser comunicada às autoridades marítimas, se não verificada directamente por elas e, em qualquer caso, transmitida pelas mesmas, se não lhes competir a decisão, à Direcção das Pescarias para que, ouvidos o Instituto de Biologia Marítima e ou a Comissão Permanente de Malacologia, conforme for julgado mais conveniente, sejam determinadas as deligências necessárias ou aplicadas sanções adequadas.
 
-###### Art. 86.º As infracções ao disposto nos artigos 65.º, 66.º, 67.º, 75.º e 78.º implicam a apreensão das ostras em trânsito ou no destino atingido, a sua remoção, por conta dos infractores, para local designado pela autoridade marítima com sede mais próxima do local da apreensão e pagamento de multa no valor das ostras apreendidas.
+Art. 86.º As infracções ao disposto nos artigos 65.º, 66.º, 67.º, 75.º e 78.º implicam a apreensão das ostras em trânsito ou no destino atingido, a sua remoção, por conta dos infractores, para local designado pela autoridade marítima com sede mais próxima do local da apreensão e pagamento de multa no valor das ostras apreendidas.
 
 § único. As reincidências implicam agravamento da multa para o dobro ou para o triplo do valor das ostras apreendidas, conforme se verificarem uma ou mais vezes.
 
-###### Art. 87.º As infracções ao disposto nos artigos 69.º e 79.º, após o primeiro aviso no caso do artigo 79.º, são punidas com apreensão das ostras e sua inutilização ou remoção, por conta do infractor, para local designado pela autoridade marítima promotora da apreensão e pagamento de multa no valor das ostras apreendidas, ao preço de venda no estabelecimento em causa.
+Art. 87.º As infracções ao disposto nos artigos 69.º e 79.º, após o primeiro aviso no caso do artigo 79.º, são punidas com apreensão das ostras e sua inutilização ou remoção, por conta do infractor, para local designado pela autoridade marítima promotora da apreensão e pagamento de multa no valor das ostras apreendidas, ao preço de venda no estabelecimento em causa.
 
 § único. A primeira reincidência implica agravamento da multa e a segunda a proibição do infractor vender quaisquer mariscos por período não inferior a um mês.
 
-###### Art. 88.º As inobservâncias das disposições deste regulamento para as quais se não cominaram penas neste capítulo devem ser comunicadas às autoridades marítimas com jurisdição nas respectivas áreas e transmitidas por estas à Direcção das Pescarias para que, ouvidos os organismos competentes, se adopte o procedimento adequado.
+Art. 88.º As inobservâncias das disposições deste regulamento para as quais se não cominaram penas neste capítulo devem ser comunicadas às autoridades marítimas com jurisdição nas respectivas áreas e transmitidas por estas à Direcção das Pescarias para que, ouvidos os organismos competentes, se adopte o procedimento adequado.
 
-###### Art. 89.º Excepto no que respeita aos artigos 69.º e 79.º, é da competência das autoridades marítimas locais a aplicação das penalidades estabelecidas neste regulamento e a cobrança das respectivas multas, seguindo-se quanto a pena e tramitação do processo o estabelecido no Regulamento Geral das Capitanias e outra legislação avulsa.
+Art. 89.º Excepto no que respeita aos artigos 69.º e 79.º, é da competência das autoridades marítimas locais a aplicação das penalidades estabelecidas neste regulamento e a cobrança das respectivas multas, seguindo-se quanto a pena e tramitação do processo o estabelecido no Regulamento Geral das Capitanias e outra legislação avulsa.
 
-###### Art. 90.º É da competência da Inspecção-Geral das Actividades Económicas velar pelo cumprimento do disposto nos artigos 69.º, 79.º e 87.º do presente regulamento, tendo em atenção as disposições aplicáveis previstas no capítulo I do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 90.º É da competência da Inspecção-Geral das Actividades Económicas velar pelo cumprimento do disposto nos artigos 69.º, 79.º e 87.º do presente regulamento, tendo em atenção as disposições aplicáveis previstas no capítulo I do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 91.º Do produto das multas arrecadadas reverterá 50 por cento a favor do fundo para trabalhos técnicos e de investigação científica do Instituto de Biologia Marítima, constituindo receita eventual a que se refere a alínea e) do § 3.º do artigo 33.º do [Decreto n.º 43507](https://diariodarepublica.pt/dr/detalhe/decreto/43507-1961-555188), de 15 de Fevereiro de 1961, e o restante constitui receita geral do Estado.
+Art. 91.º Do produto das multas arrecadadas reverterá 50 por cento a favor do fundo para trabalhos técnicos e de investigação científica do Instituto de Biologia Marítima, constituindo receita eventual a que se refere a alínea e) do § 3.º do artigo 33.º do [Decreto n.º 43507](https://diariodarepublica.pt/dr/detalhe/decreto/43507-1961-555188), de 15 de Fevereiro de 1961, e o restante constitui receita geral do Estado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias - Francisco Pereira Neto de Carvalho.
 
@@ -622,6 +667,6 @@ Notas
 
 Do ANEXO 2 ao ANEXO 7
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/11/27000/18421853.pdf))](https://files.diariodarepublica.pt/1s/1966/11/27000/18421853.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/11/27000/18421853.pdf)
 
 Ministérios da Marinha e da Saúde e Assistência, 21 de Novembro de 1966. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

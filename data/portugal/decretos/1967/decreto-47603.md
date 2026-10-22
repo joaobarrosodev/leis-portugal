@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47603-1967-502861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfdf3f761c9ac75f9a451f87ac2d30a10ef1f1df55276e9d44247feb6b88febd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dacf06e87c098139bb681da752dcb3843aeb7020e3130d881821f3d8ce56a99b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:509801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:50Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +96,7 @@ Assim:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, por motivo de urgência, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A escola técnica elementar criada na cidade de S. Tomé, da província de S. Tomé e Príncipe, pelo [Decreto n.º 46519](https://diariodarepublica.pt/dr/detalhe/decreto/46519-1965-509801), de 4 de Setembro de 1965, é elevada a escola industrial e comercial, com a designação de escola técnica, nela passando a funcionar os seguintes cursos:
+Artigo 1.º A escola técnica elementar criada na cidade de S. Tomé, da província de S. Tomé e Príncipe, pelo [Decreto n.º 46519](https://diariodarepublica.pt/dr/detalhe/decreto/46519-1965-509801), de 4 de Setembro de 1965, é elevada a escola industrial e comercial, com a designação de escola técnica, nela passando a funcionar os seguintes cursos:
 
 1.º Curso preparatório do ensino secundário;
 
@@ -108,7 +112,7 @@ d) Formação agrícola (agente rural).
 
 3.º Secção preparatória para os institutos industriais.
 
-###### Art. 2.º A escola técnica elementar criada na cidade de Díli, da província de Timor, pelo [Decreto n.º 46519](https://diariodarepublica.pt/dr/detalhe/decreto/46519-1965-509801), de 4 de Setembro de 1965, é elevada a escola industrial e comercial, nela passando a funcionar os seguintes cursos:
+Art. 2.º A escola técnica elementar criada na cidade de Díli, da província de Timor, pelo [Decreto n.º 46519](https://diariodarepublica.pt/dr/detalhe/decreto/46519-1965-509801), de 4 de Setembro de 1965, é elevada a escola industrial e comercial, nela passando a funcionar os seguintes cursos:
 
 1.º Curso preparatório do ensino secundário;
 
@@ -122,7 +126,7 @@ c) Geral do comércio.
 
 3.º Curso de mestrança (encarregado de obras).
 
-###### Art. 3.º O pessoal da Escola Técnica de S. Tomé será o seguinte:
+Art. 3.º O pessoal da Escola Técnica de S. Tomé será o seguinte:
 
 A) Do quadro comum dos professores:
 
@@ -146,7 +150,7 @@ D) Do quadro de secretaria: um terceiro-oficial, um aspirante e um dactilógrafo
 
 E) Do pessoal menor: três contínuos, sendo um feminino, e dois serventes de 1.ª classe e dois de 2.ª, sendo um feminino.
 
-###### Art. 4.º O pessoal da Escola Industrial e Comercial de Díli será o seguinte:
+Art. 4.º O pessoal da Escola Industrial e Comercial de Díli será o seguinte:
 
 A) Do quadro comum dos professores:
 
@@ -166,9 +170,9 @@ D) Do quadro de secretaria: um terceiro-oficial, um aspirante e um dactilógrafo
 
 E) Do pessoal menor: três contínuos, sendo um feminino, e dois serventes de 1.ª classe e dois de 2.ª, sendo um feminino.
 
-###### Art. 5.º As actuais Escolas Técnicas Elementares de S. Tomé e de Díli ficarão extintas a partir da data em que entrarem em funcionamento as escolas criadas pelo presente decreto, para as quais transitará, sem mais formalidades e mantendo os seus actuais direitos, todo o pessoal docente, de secretaria e menor daquelas.
+Art. 5.º As actuais Escolas Técnicas Elementares de S. Tomé e de Díli ficarão extintas a partir da data em que entrarem em funcionamento as escolas criadas pelo presente decreto, para as quais transitará, sem mais formalidades e mantendo os seus actuais direitos, todo o pessoal docente, de secretaria e menor daquelas.
 
-###### Art. 6.º Serão as seguintes as gratificações mensais a atribuir ao pessoal das escolas ora criadas:
+Art. 6.º Serão as seguintes as gratificações mensais a atribuir ao pessoal das escolas ora criadas:
 
 Escola Técnica de S. Tomé:
 
@@ -212,11 +216,11 @@ c) Ao secretário ... 300$00
 
 d) Ao chefe do pessoal menor ... 100$00
 
-###### Art. 7.º Quando não haja serviço lectivo que complete a respectiva obrigatoriedade, podem os governadores de S. Tomé e Príncipe e de Timor determinar que os professores desempenhem serviço da mesma especialidade noutro estabelecimento de ensino oficial existente na mesma localidade.
+Art. 7.º Quando não haja serviço lectivo que complete a respectiva obrigatoriedade, podem os governadores de S. Tomé e Príncipe e de Timor determinar que os professores desempenhem serviço da mesma especialidade noutro estabelecimento de ensino oficial existente na mesma localidade.
 
-###### Art. 8.º Ficam os Governos de S. Tomé e Príncipe e de Timor autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os novos encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 8.º Ficam os Governos de S. Tomé e Príncipe e de Timor autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os novos encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

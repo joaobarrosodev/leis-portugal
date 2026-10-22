@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47219-1966-480150
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0e460e2c4432d19cc504f87e4d27f0e1c4631d080ac9f8325794de7cf572e3c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 197c348a53313647fb3b9db0fb5a67689a439b17491ebce87b3d52976bb550ab
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:32Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +97,17 @@ Com o parecer favorável do Conselho de Ministros para os Assuntos Económicos, 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Sociedade Hidroeléctrica do Revuè, S. A. R. L., S. H. E. R., a emitir na província de Moçambique 20000 obrigações de valor nominal de 1000$00 cada uma, ao juro de 5 por cento ao ano, cativo de impostos para os obrigacionistas, em títulos de 100 obrigações.
+Artigo 1.º É autorizada a Sociedade Hidroeléctrica do Revuè, S. A. R. L., S. H. E. R., a emitir na província de Moçambique 20000 obrigações de valor nominal de 1000$00 cada uma, ao juro de 5 por cento ao ano, cativo de impostos para os obrigacionistas, em títulos de 100 obrigações.
 
-###### Art. 2.º O juro será pagável aos semestres, em 1 de Janeiro e 1 de Julho de cada ano, verificando-se o primeiro pagamento em Julho de 1967. Este pagamento abrangerá o período que decorrer desde o último dia da liberação até 30 de Junho de 1967.
+Art. 2.º O juro será pagável aos semestres, em 1 de Janeiro e 1 de Julho de cada ano, verificando-se o primeiro pagamento em Julho de 1967. Este pagamento abrangerá o período que decorrer desde o último dia da liberação até 30 de Junho de 1967.
 
-###### Art. 3.º As obrigações são amortizáveis no prazo máximo de 25 anos, com início em 1 de Julho de 1972, por sorteios a realizar em Dezembro e Junho de cada ano, pelo seu valor nominal, ficando a Sociedade com a faculdade de antecipar as amortizações, por sorteios extraordinários, mas nunca antes de decorridos 5 anos, a contar da data da emissão, devendo as datas das amortizações extraordinárias coincidir com as datas das amortizações ordinárias.
+Art. 3.º As obrigações são amortizáveis no prazo máximo de 25 anos, com início em 1 de Julho de 1972, por sorteios a realizar em Dezembro e Junho de cada ano, pelo seu valor nominal, ficando a Sociedade com a faculdade de antecipar as amortizações, por sorteios extraordinários, mas nunca antes de decorridos 5 anos, a contar da data da emissão, devendo as datas das amortizações extraordinárias coincidir com as datas das amortizações ordinárias.
 
-###### Art. 4.º A emissão só poderá realizar-se depois de terem dado entrada na Inspecção de Créditos e Seguros da província de Moçambique o documento comprovativo de ter sido efectuado o competente registo na Conservatória do Registo Comercial e o exemplar do Diário do Governo ou do Boletim Oficial que inserir o respectivo plano de amortização, o qual será publicado em ambos.
+Art. 4.º A emissão só poderá realizar-se depois de terem dado entrada na Inspecção de Créditos e Seguros da província de Moçambique o documento comprovativo de ter sido efectuado o competente registo na Conservatória do Registo Comercial e o exemplar do Diário do Governo ou do Boletim Oficial que inserir o respectivo plano de amortização, o qual será publicado em ambos.
 
-###### Art. 5.º A província de Moçambique fica autorizada a subscrever a totalidade do empréstimo emitido pela Sociedade Hidroeléctrica do Revuè, S. A. R. L., nos termos e condições enunciados, conforme as suas disponibilidades financeiras do ano em curso e do próximo.
+Art. 5.º A província de Moçambique fica autorizada a subscrever a totalidade do empréstimo emitido pela Sociedade Hidroeléctrica do Revuè, S. A. R. L., nos termos e condições enunciados, conforme as suas disponibilidades financeiras do ano em curso e do próximo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

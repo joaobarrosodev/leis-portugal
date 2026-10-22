@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47003-1966-472937
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7de4c207fced1532ac2dd83818adc3633c30a85d58bd477f0458a89721879336
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4eb42b77e2066bfd2a31afde7252e9497e93dab85f5e405e4a6d89905eeb7bff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:52Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +93,11 @@ Por proposta do Governo-Geral de Angola e ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição Política, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O provimento dos lugares dos quadros da Organização Provincial de Voluntários e da Defesa Civil de Angola superiores aos do grupo G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino deve, normalmente, ser feito em comissão de serviço e recair em oficiais das forças armadas, do quadro permanente, nas situações de activo ou de reserva ou em indivíduos diplomados com um curso superior adequado ao exercício dos respectivos lugares.
+Artigo único. O provimento dos lugares dos quadros da Organização Provincial de Voluntários e da Defesa Civil de Angola superiores aos do grupo G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino deve, normalmente, ser feito em comissão de serviço e recair em oficiais das forças armadas, do quadro permanente, nas situações de activo ou de reserva ou em indivíduos diplomados com um curso superior adequado ao exercício dos respectivos lugares.
 
 § único. Sempre que o provimento não possa fazer-se nas condições indicadas no corpo do artigo, poderá a Ministro do Ultramar nomear, em comissão, ou contratar oficiais do quadro de complemento que tenham prestado dois anos, pelo menos, de serviço em campanha no ultramar, com dispensa do requisito a que se refere a parte final do artigo 13.º do Estatuto do Funcionalismo Ultramarino.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

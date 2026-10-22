@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46882-1966-491432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-02-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 45f40e5d5e63e4605fbc9e1ca675c03514e9cd4a71693b39469d8b7fe577f140
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b749f41222a9ee2005d7d5a094c27fe575e0cd8aa8dab9dcbe8ffd69cdda0a66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:57Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +89,10 @@ Considerando o disposto no artigo 22.º do Decreto Lei n.º 41375, de 19 de Nove
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Manutenção Militar a celebrar contrato com a firma Sociedade Michaëlis de Vasconcelos, Lda., para a aquisição e montagem de máquinas para remodelação ela moagem de cereais, na importância de 14475000$00.
+Artigo 1.º É autorizada a Manutenção Militar a celebrar contrato com a firma Sociedade Michaëlis de Vasconcelos, Lda., para a aquisição e montagem de máquinas para remodelação ela moagem de cereais, na importância de 14475000$00.
 
-###### Art. 2.º Seja qual for o valor do fornecimento a realizar, não poderá a Manutenção Militar despender com pagamentos relativos aos fornecimentos executados, por motivo de contrato, mais de 3618750$00 no ano de 1966, 7237500$00 no ano de 1967 e 3618750$00, ou o que se apurar como saldo, no ano de 1968.
+Art. 2.º Seja qual for o valor do fornecimento a realizar, não poderá a Manutenção Militar despender com pagamentos relativos aos fornecimentos executados, por motivo de contrato, mais de 3618750$00 no ano de 1966, 7237500$00 no ano de 1967 e 3618750$00, ou o que se apurar como saldo, no ano de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Fevereiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47166-1966-469427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22d04eed77e9fa353b7844d4a8cdfee85eb7fd4b07d64438b5cfd322f164d05b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 49b44495f3297ca7e1227ccf06451e2e5fb8f5b00339544398b75e6728aee507
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:10Z'
   warnings: []
   errors: []
 ---
@@ -129,7 +141,7 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição, por motivo de urgê
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os agentes ao serviço da Companhia do Caminho de Ferro de Benguela, com carácter permanente e regular, independentemente de idade, local de trabalho e forma de recrutamento, são abrangidos pela Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, com excepção do seguinte:
+Artigo 1.º Os agentes ao serviço da Companhia do Caminho de Ferro de Benguela, com carácter permanente e regular, independentemente de idade, local de trabalho e forma de recrutamento, são abrangidos pela Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, com excepção do seguinte:
 
 a) Pessoal remunerado por honorários, gratificações ou avenças correspondentes a prestação de serviços;
 
@@ -165,13 +177,13 @@ c) O tempo retrotraído não fará alterar a classificação em que os agentes i
 
 d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de garantia e do cálculo da pensão, mas não influirá na determinação da idade e do tempo de inscrição para aquisição do direito à reforma por velhice.
 
-###### Art. 2.º A Caixa destina-se a proteger os agentes inscritos contra os riscos de doença, invalidez, velhice e morte, incluindo a concessão de pensões de sobrevivência.
+Art. 2.º A Caixa destina-se a proteger os agentes inscritos contra os riscos de doença, invalidez, velhice e morte, incluindo a concessão de pensões de sobrevivência.
 
 § 1.º Os subsídios e pensões concedidos pela Caixa são inacumuláveis com as indemnizações da mesma natureza pagas pela entidade patronal ao abrigo da legislação sobre acidentes de trabalho e doenças profissionais. A Caixa pagará a diferença quando essas indemnizações forem inferiores aos correspondentes benefícios regulamentares.
 
 § 2.º A acção médico-social e a concessão do abono de família continuam a cargo da entidade patronal.
 
-###### Art. 3.º O subsídio pecuniário na doença será concedido aos agentes inscritos nas classes referidas no artigo 1.º nas seguintes condições:
+Art. 3.º O subsídio pecuniário na doença será concedido aos agentes inscritos nas classes referidas no artigo 1.º nas seguintes condições:
 
 a) A beneficiários activos impossibilitados temporàriamente para o trabalho por motivo de doença ou acidente não cobertos pela legislação sobre acidentes de trabalho e doenças profissionais;
 
@@ -183,7 +195,7 @@ d) Declaração médica de incapacidade temporária, prestada pelos serviços de
 
 e) O vencimento a considerar é o definido no artigo 8.º, que competir ao inscrito no mês anterior à baixa.
 
-###### Art. 4.º Têm direito à pensão de invalidez os agentes inscritos que, havendo completado o prazo de garantia de cinco anos e antes de atingirem as condições de reforma por velhice, se encontrem, por motivo de doença ou acidente que não estejam a coberto da legislação sobre acidentes de trabalhos e doenças profissionais, definitivamente incapacitados de trabalhar na sua profissão, de modo a não poderem auferir no desempenho desta mais de um terço da remuneração correspondente ao seu exercício normal.
+Art. 4.º Têm direito à pensão de invalidez os agentes inscritos que, havendo completado o prazo de garantia de cinco anos e antes de atingirem as condições de reforma por velhice, se encontrem, por motivo de doença ou acidente que não estejam a coberto da legislação sobre acidentes de trabalhos e doenças profissionais, definitivamente incapacitados de trabalhar na sua profissão, de modo a não poderem auferir no desempenho desta mais de um terço da remuneração correspondente ao seu exercício normal.
 
 § 1.º A pensão de invalidez será calculada nas mesmas condições da pensão de reforma por velhice.
 
@@ -191,7 +203,7 @@ e) O vencimento a considerar é o definido no artigo 8.º, que competir ao inscr
 
 § 3.º A pensão de invalidez deixa de ser concedida aos inscritos a quem, com o seu acordo, a entidade patronal oferecer a continuação do emprego noutra profissão para cujo exercício sejam considerados aptos pela junta médica.
 
-###### Art. 5.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma reconhecidas aos agentes inscritos que tenham completado a idade e o tempo de inscrição previstos, sendo o valor da pensão calculado em função do número de anos de inscrição, da taxa de incremento e do vencimento médio.
+Art. 5.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma reconhecidas aos agentes inscritos que tenham completado a idade e o tempo de inscrição previstos, sendo o valor da pensão calculado em função do número de anos de inscrição, da taxa de incremento e do vencimento médio.
 
 § 1.º Para os agentes da classe A referida no artigo 1.º serão observadas as seguintes condições:
 
@@ -227,21 +239,21 @@ b) O valor da pensão será o produto de 2 por cento do vencimento médio pelo n
 
 § 6.º A pensão de reforma não poderá, em caso algum, ser mais elevada do que o vencimento definido no artigo 8.º, líquido da contribuição do pessoal para a Caixa.
 
-###### Art. 6.º O direito ao subsídio por morte é reconhecido aos familiares dos agentes inscritos nas classes referidas no artigo 1.º que, à data da morte, tenham completado o período de garantia de um ano, sendo o montante do subsídio de um mês do último vencimento, quando haja direito a pensão de sobrevivência, e de seis meses do último vencimento, quando faleçam sem legar pensão de sobrevivência.
+Art. 6.º O direito ao subsídio por morte é reconhecido aos familiares dos agentes inscritos nas classes referidas no artigo 1.º que, à data da morte, tenham completado o período de garantia de um ano, sendo o montante do subsídio de um mês do último vencimento, quando haja direito a pensão de sobrevivência, e de seis meses do último vencimento, quando faleçam sem legar pensão de sobrevivência.
 
-###### Art. 7.º As pensões de sobrevivência são devidas aos representantes dos agentes inscritos nos termos do artigo 1.º que, tendo cumprido o período de garantia de dez anos, faleceram no activo ou na situação de reforma, por velhice ou invalidez.
+Art. 7.º As pensões de sobrevivência são devidas aos representantes dos agentes inscritos nos termos do artigo 1.º que, tendo cumprido o período de garantia de dez anos, faleceram no activo ou na situação de reforma, por velhice ou invalidez.
 
 § 1.º A pensão de sobrevivência a legar pelos agentes inscritos na classe A será igual a 50 por cento da pensão de reforma que lhes competir na data do falecimento, revertendo a favor do cônjuge sobrevivo metade da pensão distribuída por mais de um utente quando caduque a parte de algum deles.
 
 § 2.º A pensão de sobrevivência a atribuir aos representantes dos agentes das classes B e C, previstas no artigo 1.º, será igual à percentagem da pensão de reforma que lhes couber na data do falecimento, indicada na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19800/14271431.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19800/14271431.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19800/14271431.pdf)
 
-###### Art. 8.º O vencimento a considerar para efeito de contribuições e de benefícios aos inscritos ou aos titulares do direito às prestações regulamentares é a remuneração com carácter de regularidade ou de permanência, abrangendo o vencimento de categoria, as diuturnidades e as subvenções destinadas à actualização daquele e destas, com excepção de subsídios e abonos especiais.
+Art. 8.º O vencimento a considerar para efeito de contribuições e de benefícios aos inscritos ou aos titulares do direito às prestações regulamentares é a remuneração com carácter de regularidade ou de permanência, abrangendo o vencimento de categoria, as diuturnidades e as subvenções destinadas à actualização daquele e destas, com excepção de subsídios e abonos especiais.
 
 § único. As subvenções sobre as pensões vencidas concedidas pela Companhia até 31 de Dezembro de 1960 constituirão encargo da Caixa de Previdência com actualização para 100 por cento.
 
-###### Art. 9.º Os agentes inscritos concorrerão para a Caixa com a contribuição de 7 por cento do vencimento e a Companhia pagará, provisòriamente, as contribuições correspondentes às taxas de 18,13 e 8 por cento sobre o vencimento dos agentes inscritos, respectivamente, nas classes A, B e C do artigo 1.º deste diploma.
+Art. 9.º Os agentes inscritos concorrerão para a Caixa com a contribuição de 7 por cento do vencimento e a Companhia pagará, provisòriamente, as contribuições correspondentes às taxas de 18,13 e 8 por cento sobre o vencimento dos agentes inscritos, respectivamente, nas classes A, B e C do artigo 1.º deste diploma.
 
 § 1.º As contribuições patronais incidirão sobre os vencimentos e, a partir de 1 de Janeiro de 1966, sobre as pensões de reforma por velhice, por invalidez e de sobrevivência.
 
@@ -251,7 +263,7 @@ b) O valor da pensão será o produto de 2 por cento do vencimento médio pelo n
 
 § 4.º As contribuições serão distribuídas no regulamento por eventualidades e estão sujeitas a revisão com base em balanços actuariais, realizados pelo menos em períodos quinquenais.
 
-###### Art. 10.º A integração das pensões e subsídios constitui encargo inerente à exploração, ainda que a mesma seja transferida para entidade diferente da actual concessionária enquanto não estiverem devidamente constituídas as reservas matemáticas.
+Art. 10.º A integração das pensões e subsídios constitui encargo inerente à exploração, ainda que a mesma seja transferida para entidade diferente da actual concessionária enquanto não estiverem devidamente constituídas as reservas matemáticas.
 
 § 1.º O equilíbrio financeiro da Caixa, no que respeita às suas responsabilidades para com os inscritos da classe A, referida na alínea a) do § 2.º do artigo 1.º, é assegurado pelo pagamento das contribuições, quer dos inscritos, quer da entidade patronal, e ainda pela cobertura, a cargo da entidade que ao tempo detiver a exploração do caminho de ferro, dos deficits financeiros que anualmente se verificarem.
 
@@ -259,15 +271,15 @@ b) O valor da pensão será o produto de 2 por cento do vencimento médio pelo n
 
 § 3.º Enquanto não for feita esta reavaliação, a primeira prestação será de 4500 contos, aumentando as seguintes na razão de 800 contos por ano, devendo as prestações ser estabelecidas no plano definitivo de modo a manter-se uma progressão moderada do conjunto dos encargos patronais com a previdência, sem prejuízo dos fins que se destinam a assegurar.
 
-###### Art. 11.º A Caixa promoverá, com referência ao termo da primeira gerência após a aprovação do regulamento, à reavaliação actuarial das contribuições e das reservas matemáticas para correcção dos valores previstos, tendo em atenção os esquemas de benefícios, a taxa de juro anual de 4 por cento e a incidência das contribuições da Companhia sobre as pensões, com determinação do prémio médio à entrada e do valor das reservas matemáticas.
+Art. 11.º A Caixa promoverá, com referência ao termo da primeira gerência após a aprovação do regulamento, à reavaliação actuarial das contribuições e das reservas matemáticas para correcção dos valores previstos, tendo em atenção os esquemas de benefícios, a taxa de juro anual de 4 por cento e a incidência das contribuições da Companhia sobre as pensões, com determinação do prémio médio à entrada e do valor das reservas matemáticas.
 
-###### Art. 12.º Os saldos de gerência, depois de constituídas as reservas matemáticas, deverão ser cativados em fundo especial destinado a reduzir o deficit financeiro.
+Art. 12.º Os saldos de gerência, depois de constituídas as reservas matemáticas, deverão ser cativados em fundo especial destinado a reduzir o deficit financeiro.
 
-###### Art. 13.º A Companhia e a Caixa acordarão entre si quanto à execução dos serviços administrativos relativos à instituição.
+Art. 13.º A Companhia e a Caixa acordarão entre si quanto à execução dos serviços administrativos relativos à instituição.
 
-###### Art. 14.º A Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela assume os direitos e obrigações conferidos e tomados pela Caixa de Reformas, Pensões e Socorros do Pessoal da Companhia do Caminho de Ferro de Benguela, e pela Caixa de Previdência do Pessoal da Companhia do Caminho de Ferro de Benguela, que para todos os efeitos substitui a partir da data da entrada em vigor do regulamento.
+Art. 14.º A Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela assume os direitos e obrigações conferidos e tomados pela Caixa de Reformas, Pensões e Socorros do Pessoal da Companhia do Caminho de Ferro de Benguela, e pela Caixa de Previdência do Pessoal da Companhia do Caminho de Ferro de Benguela, que para todos os efeitos substitui a partir da data da entrada em vigor do regulamento.
 
-###### Art. 15.º A Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela goza das seguintes isenções:
+Art. 15.º A Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela goza das seguintes isenções:
 
 a) Da contribuição industrial;
 
@@ -293,7 +305,7 @@ g) De impostos, contribuições, taxas, emolumentos ou licenças do Estado, dos 
 
 § 5.º Os emolumentos dos notários pelas escrituras que a Caixa deva celebrar para realização dos seus fins são reduzidos a metade dos previstos na respectiva tabela.
 
-###### Art. 16.º A Caixa de Previdência goza das regalias ou faculdades seguintes:
+Art. 16.º A Caixa de Previdência goza das regalias ou faculdades seguintes:
 
 a) Despedir no fim do arrendamento, quando instalada em edifício próprio, qualquer dos seus inquilinos, se necessitar da parte por eles ocupada para as suas instalações ou serviços;
 
@@ -307,11 +319,11 @@ e) Requisitar às conservatórias do registo civil ou a outras entidades compete
 
 § único. Os imobiliários que façam parte dos legados ou heranças a que e refere a alínea c) deste artigo e que a Caixa não for autorizada a possuir serão alienados no prazo e pela forma designada no diploma que denegar a autorização, revertendo o produto da alienação, salvo disposição em contrário do autor do legado ou herança, a favor do fundo de reservas matemáticas.
 
-###### Art. 17.º É extinta a Comissão de Estudo de Reorganização da Previdência do Pessoal da Companhia do Caminho de Ferro de Benguela, criada por Portaria Ministerial n.º 1, de 15 de Maio de 1961, publicada na província de Angola.
+Art. 17.º É extinta a Comissão de Estudo de Reorganização da Previdência do Pessoal da Companhia do Caminho de Ferro de Benguela, criada por Portaria Ministerial n.º 1, de 15 de Maio de 1961, publicada na província de Angola.
 
-###### Art. 18.º As dúvidas que se suscitem na execução deste diploma ou que resultem da sua conjugação com o regulamento da Caixa de Previdência serão decididas por despacho do Ministro do Ultramar.
+Art. 18.º As dúvidas que se suscitem na execução deste diploma ou que resultem da sua conjugação com o regulamento da Caixa de Previdência serão decididas por despacho do Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele contém.**
+Publique-se e cumpra-se como nele contém.
 
 Paços do Governo da República, 26 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

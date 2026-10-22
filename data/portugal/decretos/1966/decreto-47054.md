@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47054-1966-472304
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1a9251788f423daab5b50bfc6037adaa4e51faff29cf6297de898b89d7450b3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c01e8eb164f06f5c22fb31ff47d850476afda52b282e1347a7466fce3711702
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:611509:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:15Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São alteradas, nos termos da parte final do artigo 57.º do Estatuto Político-Administrativo da província de Moçambique ([Decreto n.º 45375](https://diariodarepublica.pt/dr/detalhe/decreto/45375-1963-611509), de 22 de Novembro de 1963), as áreas dos distritos de Cabo Delgado e do Niassa, mediante a transferência da regedoria Nampacane da área do posto administrativo do Nairoto, concelho dos Macondes, do distrito de Cabo Delgado, para a área do posto sede da circunscrição de Marrupa, do distrito do Niassa.
+Artigo único. São alteradas, nos termos da parte final do artigo 57.º do Estatuto Político-Administrativo da província de Moçambique ([Decreto n.º 45375](https://diariodarepublica.pt/dr/detalhe/decreto/45375-1963-611509), de 22 de Novembro de 1963), as áreas dos distritos de Cabo Delgado e do Niassa, mediante a transferência da regedoria Nampacane da área do posto administrativo do Nairoto, concelho dos Macondes, do distrito de Cabo Delgado, para a área do posto sede da circunscrição de Marrupa, do distrito do Niassa.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

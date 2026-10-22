@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/02100/01260128.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,52 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47512-1967-500698
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2000-06-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41d75fec027bbb51b0f72896d4d6b836c600ddb5b7aec7caa3fc79016b2ffb6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2fc18063463bad73e020dfed651e004cf1016906084b165b0ffcea45127afb82
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:302964:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:553389:por
+  label: "Revogado, na parte relativa às doenças profissionais, o art. 29º pelo DEC LEI.2/82.05.01.1982.MAS, DR.IS [3] de\
+    \ 05.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/2-1982-553389
+  date: '1982-01-05'
+- type: repealed_by
+  target: pt:dre:496680:por
+  label: "Revogado pelo DEC LEI.26/94.1994.02.01.MESS, DR.IS-A [26]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/26-1994-496680
+  date: '1994-02-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:12Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +106,15 @@ REGULAMENTO DOS SERVIÇOS MÉDICOS DO TRABALHO DAS EMPRESAS
 
 ### CAPÍTULO I — Dos serviços
 
-###### Artigo 1.º As empresas que tenham 200 ou mais trabalhadores deverão criar serviços médicos privativos.
+Artigo 1.º As empresas que tenham 200 ou mais trabalhadores deverão criar serviços médicos privativos.
 
-###### Art. 2.º As pequenas empresas que não disponham de serviços médicos privativos e cujos trabalhadores atinjam no conjunto o número de 500, na mesma localidade ou em localidades próximas, são obrigadas a organizar em comum os respectivos serviços médicos.
+Art. 2.º As pequenas empresas que não disponham de serviços médicos privativos e cujos trabalhadores atinjam no conjunto o número de 500, na mesma localidade ou em localidades próximas, são obrigadas a organizar em comum os respectivos serviços médicos.
 
 § único. Os serviços referidos neste artigo serão administrados por uma direcção constituída por delegados das empresas, até cinco, um dos quais será o presidente.
 
-###### Art. 3.º Quando o número de trabalhadores das pequenas empresas não atingir, na mesma localidade ou em localidades próximas, o número de 500, as empresas poderão assegurar o serviço de um médico do trabalho.
+Art. 3.º Quando o número de trabalhadores das pequenas empresas não atingir, na mesma localidade ou em localidades próximas, o número de 500, as empresas poderão assegurar o serviço de um médico do trabalho.
 
-###### Art. 4.º A duração do trabalho prestado pelos médicos às empresas será calculado nas seguintes bases:
+Art. 4.º A duração do trabalho prestado pelos médicos às empresas será calculado nas seguintes bases:
 
 a) Nas empresas industriais: uma hora por mês, pelo menos, por cada grupo de quinze trabalhadores ou fracção;
 
@@ -112,17 +124,17 @@ b) Nas empresas comerciais e outros locais de trabalho: uma hora por mês, pelo 
 
 § 2.º Nenhum médico poderá, porém, assegurar a vigilância de um número de trabalhadores a que correspondam mais de 150 horas de serviço por mês.
 
-###### Art. 5.º O tempo que os médicos devem consagrar aos serviços comuns a várias empresas será fixado tendo em consideração o disposto no artigo anterior.
+Art. 5.º O tempo que os médicos devem consagrar aos serviços comuns a várias empresas será fixado tendo em consideração o disposto no artigo anterior.
 
-###### Art. 6.º Aos médicos do trabalho compete a organização e a direcção técnica dos serviços de que trata o presente regulamento.
+Art. 6.º Aos médicos do trabalho compete a organização e a direcção técnica dos serviços de que trata o presente regulamento.
 
 § único. Nas empresas que disponham de serviços médicos hierarquizados, o respectivo médico-chefe assumirá, nesta qualidade, a responsabilidade técnica do funcionamento dos serviços, incumbindo-lhe também dar cumprimento ao articulado neste regulamento.
 
-###### Art. 7.º Nestes serviços poderá haver um ou mais médicos.
+Art. 7.º Nestes serviços poderá haver um ou mais médicos.
 
 § único. Havendo mais de um médico no mesmo serviço, a empresa ou direcção dos serviços médicos comuns a várias empresas designará qual deve desempenhar as funções de médico-chefe e assumir, nesta qualidade, a responsabilidade técnica pelo funcionamento dos serviços.
 
-###### Art. 8.º Os médicos deverão ser admitidos mediante contrato escrito, observado o disposto no artigo 83.º do Estatuto da Ordem dos Médicos.
+Art. 8.º Os médicos deverão ser admitidos mediante contrato escrito, observado o disposto no artigo 83.º do Estatuto da Ordem dos Médicos.
 
 § 1.º Se o médico for admitido em serviço privativo, o contrato será celebrado entre o médico e o director da empresa; se for admitido em serviços comuns, celebrar-se-á entre o médico e o presidente da direcção desses serviços.
 
@@ -132,15 +144,15 @@ b) Nas empresas comerciais e outros locais de trabalho: uma hora por mês, pelo 
 
 § 4.º O Instituto Nacional do Trabalho e Previdência e a Direcção-Geral de Saúde podem impor às empresas a substituição dos médicos do trabalho quando, por falta de cumprimento das suas obrigações, o julguem necessário, mediante organização de processo e ouvida a Ordem dos Médicos, que deverá enviar o seu parecer no prazo de vinte dias.
 
-###### Art. 9.º Nas empresas que não tenham serviço de enfermagem, serão treinados pelo médico, dentro das horas normais do serviço, um ou mais trabalhadores para prestar os primeiros socorros em caso de urgência.
+Art. 9.º Nas empresas que não tenham serviço de enfermagem, serão treinados pelo médico, dentro das horas normais do serviço, um ou mais trabalhadores para prestar os primeiros socorros em caso de urgência.
 
-###### Art. 10.º Os encargos com a organização e funcionamento dos serviços médicos do trabalho, incluindo a remuneração dos médicos, ficam a cargo das entidades patronais.
+Art. 10.º Os encargos com a organização e funcionamento dos serviços médicos do trabalho, incluindo a remuneração dos médicos, ficam a cargo das entidades patronais.
 
 § único. As despesas relativas aos serviços comuns serão repartidas proporcionalmente ao número de trabalhadores de cada uma das empresas.
 
 ### CAPÍTULO II — Das instalações e do equipamento
 
-###### Art. 11.º As instalações dos serviços médicos devem compreender, quando funcionem na empresa, pelo menos, as seguintes divisões:
+Art. 11.º As instalações dos serviços médicos devem compreender, quando funcionem na empresa, pelo menos, as seguintes divisões:
 
 1.º Se o número de trabalhadores for inferior a 500, dois compartimentos com a superfície mínima de 16 m2 cada um;
 
@@ -148,21 +160,21 @@ b) Nas empresas comerciais e outros locais de trabalho: uma hora por mês, pelo 
 
 3.º Se houver mais de 1000 trabalhadores ou se se tratar de serviços médicos comuns, uma sala de espera, uma sala de pensos e um gabinete médico, com a superfície mínima de 16 m2 cada um, três gabinetes-vestiários, com a área conjunta mínima de 4 m2, e uma sala de repouso, com 8 m2, pelo menos.
 
-###### Art. 12.º As instalações terão água e esgotos canalizados, iluminação e ventilação naturais suficientes, e serão situadas em locais apropriados à sua finalidade.
+Art. 12.º As instalações terão água e esgotos canalizados, iluminação e ventilação naturais suficientes, e serão situadas em locais apropriados à sua finalidade.
 
-###### Art. 13.º Os serviços médicos serão dotados de material médico e farmacêutico adequado às suas necessidades, constantes de uma lista que será remetida pelo médico do trabalho ao delegado de saúde do respectivo distrito.
+Art. 13.º Os serviços médicos serão dotados de material médico e farmacêutico adequado às suas necessidades, constantes de uma lista que será remetida pelo médico do trabalho ao delegado de saúde do respectivo distrito.
 
-###### Art. 14.º Caixas de emergência serão colocadas nos locais de trabalho, se o médico assim o julgar conveniente.
+Art. 14.º Caixas de emergência serão colocadas nos locais de trabalho, se o médico assim o julgar conveniente.
 
 ## TÍTULO II — Obrigações e atribuições dos serviços médicos
 
 ### CAPÍTULO I — Exames médicos dos trabalhadores
 
-###### Art. 15.º A fim de se verificar a aptidão dos trabalhadores para o exercício da sua profissão e manter a vigilância da sua saúde, poderão realizar-se quatro categorias de exames médicos: exames de admissão, periódicos, ocasionais e complementares.
+Art. 15.º A fim de se verificar a aptidão dos trabalhadores para o exercício da sua profissão e manter a vigilância da sua saúde, poderão realizar-se quatro categorias de exames médicos: exames de admissão, periódicos, ocasionais e complementares.
 
 § único. As empresas obrigam-se a promover a realização destes exames, devendo sempre ser dado conhecimento de tal obrigatoriedade aos seus trabalhadores quando forem admitidos, os quais não poderão eximir-se à sua execução.
 
-###### Art. 16.º O exame médico de admissão deve ser feito antes de o trabalhador ser contratado ou, quando muito, nos dez dias seguintes à sua admissão.
+Art. 16.º O exame médico de admissão deve ser feito antes de o trabalhador ser contratado ou, quando muito, nos dez dias seguintes à sua admissão.
 
 § 1.º Este exame tem por fim principal saber:
 
@@ -174,13 +186,13 @@ c) Se é portador de qualquer afecção perigosa para os seus companheiros de tr
 
 § 2.º Uma radiografia, radiofotografia ou radioscopia torácica é obrigatória no exame de admissão.
 
-###### Art. 17.º Os exames periódicos realizar-se-ão anualmente para os menores de 18 anos e os maiores de 45 e de dois em dois anos para os demais trabalhadores.
+Art. 17.º Os exames periódicos realizar-se-ão anualmente para os menores de 18 anos e os maiores de 45 e de dois em dois anos para os demais trabalhadores.
 
 § 1.º Estes exames têm por fim, especificadamente, verificar a repercussão do trabalho e das suas condições no trabalhador e vigiar a sua saúde.
 
 § 2.º O médico do trabalho, sempre que o risco ou a saúde do trabalhador o justifique, poderá encurtar ou alargar a periodicidade referida.
 
-###### Art. 18.º Os exames ocasionais são obrigatórios em duas circunstâncias:
+Art. 18.º Os exames ocasionais são obrigatórios em duas circunstâncias:
 
 a) Quando houver mudança de serviço do trabalhador, se o médico considerar o exame necessário;
 
@@ -190,23 +202,23 @@ b) No caso de regresso ao trabalho, depois de ausência de dez ou mais dias por 
 
 § 2.º Não é da competência do médico do trabalho exercer a fiscalização das ausências ao serviço por parte dos trabalhadores, seja qual for o motivo que as determine.
 
-###### Art. 19.º Os exames serão feitos dentro das horas normais do trabalho e sem desconto de salário, qualquer que seja o tempo despendido para o efeito.
+Art. 19.º Os exames serão feitos dentro das horas normais do trabalho e sem desconto de salário, qualquer que seja o tempo despendido para o efeito.
 
-###### Art. 20.º Para completar a sua observação e formular uma opinião mais precisa sobre o estado de saúde dos trabalhadores, os médicos do trabalho poderão solicitar exames complementares, a propósito de quaisquer inspecções a que devam proceder.
+Art. 20.º Para completar a sua observação e formular uma opinião mais precisa sobre o estado de saúde dos trabalhadores, os médicos do trabalho poderão solicitar exames complementares, a propósito de quaisquer inspecções a que devam proceder.
 
-###### Art. 21.º As observações clínicas relativas aos exame médicos serão anotadas numa ficha própria.
+Art. 21.º As observações clínicas relativas aos exame médicos serão anotadas numa ficha própria.
 
 § 1.º A ficha ficará sujeita ao regime de segredo profissional, não podendo ser facultada senão aos médicos da Direcção-Geral de Saúde, aos da respectiva instituição de previdência e ao médico assistente do trabalhador.
 
 § 2.º Quando o trabalhador deixar o serviço da empresa ser-lhe-á entregue um duplicado da ficha médica, se o pedir.
 
-###### Art. 22.º Os resultados das inspecções de admissão, periódicas, ocasionais e complementares constarão de uma ficha de aptidão, a remeter imediatamente ao director da empresa ou presidente da direcção dos serviços médicos comuns.
+Art. 22.º Os resultados das inspecções de admissão, periódicas, ocasionais e complementares constarão de uma ficha de aptidão, a remeter imediatamente ao director da empresa ou presidente da direcção dos serviços médicos comuns.
 
 § único. A ficha de aptidão não pode conter elementos que envolvam segredo profissional.
 
 ### CAPÍTULO II — Higiene da empresa e condições do trabalho
 
-###### Art. 23.º Aos serviços médicos do trabalho, por si só ou em colaboração com outros serviços especializados da empresa, incumbe estudar e vigiar, em especial:
+Art. 23.º Aos serviços médicos do trabalho, por si só ou em colaboração com outros serviços especializados da empresa, incumbe estudar e vigiar, em especial:
 
 a) As condições de higiene e salubridade da empresa;
 
@@ -214,7 +226,7 @@ b) A protecção colectiva e individual dos trabalhadores contra fumos, gases, v
 
 c) A adaptação dos trabalhadores aos diferentes serviços e a do trabalho à fisiologia humana.
 
-###### Art. 24.º Para efeito do disposto no artigo anterior, cumpre ao médico visitar com frequência as instalações da empresa, acompanhado, nos estabelecimentos industriais, do engenheiro ou do técnico responsável.
+Art. 24.º Para efeito do disposto no artigo anterior, cumpre ao médico visitar com frequência as instalações da empresa, acompanhado, nos estabelecimentos industriais, do engenheiro ou do técnico responsável.
 
 § único. As visitas serão:
 
@@ -222,48 +234,48 @@ a) Periódicas, para estudo das condições do trabalho;
 
 b) Ocasionais, para a realização de inquéritos sobre ocorrências que afectem a saúde dos trabalhadores, para a instalação e o funcionamento de maquinaria nova, para a introdução de novas técnicas de produção e em outras circunstâncias em que se justifiquem.
 
-###### Art. 25.º O médico do trabalho é, em matéria da sua competência, conselheiro técnico do director da empresa, que, por isso, deverá consultá-lo sobre todos os problemas com possível repercussão na saúde dos trabalhadores e tomar em devida consideração as suas recomendações para melhoria das condições do trabalho.
+Art. 25.º O médico do trabalho é, em matéria da sua competência, conselheiro técnico do director da empresa, que, por isso, deverá consultá-lo sobre todos os problemas com possível repercussão na saúde dos trabalhadores e tomar em devida consideração as suas recomendações para melhoria das condições do trabalho.
 
-###### Art. 26.º O director da empresa deverá fornecer ao médico do trabalho, sob segredo profissional, todos os elementos da técnica da produção e da composição dos produtos empregados que o médico entenda interessarem à defesa da saúde dos trabalhadores.
+Art. 26.º O director da empresa deverá fornecer ao médico do trabalho, sob segredo profissional, todos os elementos da técnica da produção e da composição dos produtos empregados que o médico entenda interessarem à defesa da saúde dos trabalhadores.
 
 ### CAPÍTULO III — Relações com as Direcções-Gerais de Saúde e do Trabalho e Corporações e colaboração com outros serviços
 
-###### Art. 27.º Os médicos do trabalho ficam sob a orientação e fiscalização técnicas da Direcção-Geral de Saúde e as empresas são responsáveis perante ela pela falta de cumprimento das normas estabelecidas neste regulamento, o mesmo sucedendo em relação à Direcção-Geral do Trabalho e Corporações quanto aos aspectos sociais relacionados com a prestação do trabalho.
+Art. 27.º Os médicos do trabalho ficam sob a orientação e fiscalização técnicas da Direcção-Geral de Saúde e as empresas são responsáveis perante ela pela falta de cumprimento das normas estabelecidas neste regulamento, o mesmo sucedendo em relação à Direcção-Geral do Trabalho e Corporações quanto aos aspectos sociais relacionados com a prestação do trabalho.
 
 § 1.º Para cumprimento destas obrigações será assegurada às Direcções-Gerais indicadas a colaboração dos outros serviços oficiais.
 
 § 2.º Quando a competência conferida no corpo deste artigo suscitar problemas relativos à organização técnica da indústria ou do trabalho industrial, estes serão resolvidos por comissões constituídas por delegados dos competentes serviços dos Ministérios da Economia, das Corporações e Previdência Social e da Saúde e Assistência.
 
-###### Art. 28.º Os médicos do trabalho elaborarão um relatório pormenorizado das actividades dos serviços, referente ao ano anterior, que será remetido, no 1.º trimestre de cada ano, ao delegado de saúde e ao delegado do Instituto Nacional do Trabalho e Previdência do respectivo distrito.
+Art. 28.º Os médicos do trabalho elaborarão um relatório pormenorizado das actividades dos serviços, referente ao ano anterior, que será remetido, no 1.º trimestre de cada ano, ao delegado de saúde e ao delegado do Instituto Nacional do Trabalho e Previdência do respectivo distrito.
 
-###### Art. 29.º O médico do trabalho é obrigado a participar ao delegado de saúde e ao delegado do Instituto Nacional do Trabalho e Previdência do respectivo distrito os acidentes de trabalho que acarretem mais de três dias de incapacidade total e as doenças profissionais de notificação obrigatória.
+Art. 29.º O médico do trabalho é obrigado a participar ao delegado de saúde e ao delegado do Instituto Nacional do Trabalho e Previdência do respectivo distrito os acidentes de trabalho que acarretem mais de três dias de incapacidade total e as doenças profissionais de notificação obrigatória.
 
-###### Art. 30.º Incumbe ao médico do trabalho fazer o estudo da patologia do trabalho e sua profilaxia e comunicar ao delegado de saúde do respectivo distrito os seus resultados.
+Art. 30.º Incumbe ao médico do trabalho fazer o estudo da patologia do trabalho e sua profilaxia e comunicar ao delegado de saúde do respectivo distrito os seus resultados.
 
-###### Art. 31.º O médico do trabalho prestará colaboração aos serviços sociais das empresas, tais como cantinas, refeitórios, colónias de férias, bibliotecas e actividades desportivas, bem como à Inspecção do Trabalho, dentro do seu horário e sem prejuízo das suas funções essenciais de prevenção.
+Art. 31.º O médico do trabalho prestará colaboração aos serviços sociais das empresas, tais como cantinas, refeitórios, colónias de férias, bibliotecas e actividades desportivas, bem como à Inspecção do Trabalho, dentro do seu horário e sem prejuízo das suas funções essenciais de prevenção.
 
-###### Art. 32.º O médico do trabalho promoverá a educação sanitária dos trabalhadores, dentro das horas do seu serviço.
+Art. 32.º O médico do trabalho promoverá a educação sanitária dos trabalhadores, dentro das horas do seu serviço.
 
-###### Art. 33.º Entre os serviços médicos do trabalho e os demais serviços médicos, oficiais ou particulares, que prestem quaisquer cuidados de saúde ou de assistência aos trabalhadores, deverá sempre manter-se estreita e mútua colaboração.
+Art. 33.º Entre os serviços médicos do trabalho e os demais serviços médicos, oficiais ou particulares, que prestem quaisquer cuidados de saúde ou de assistência aos trabalhadores, deverá sempre manter-se estreita e mútua colaboração.
 
 ## TÍTULO III — Disposições transitórias e diversas
 
-###### Art. 34.º Nas empresas industriais com 200 ou mais trabalhadores e naquelas em que haja risco de doença profissional de notificação obrigatória, independentemente do número de empregados, os serviços médicos do trabalho deverão estar organizados dentro de dois anos, a partir da publicação do presente regulamento.
+Art. 34.º Nas empresas industriais com 200 ou mais trabalhadores e naquelas em que haja risco de doença profissional de notificação obrigatória, independentemente do número de empregados, os serviços médicos do trabalho deverão estar organizados dentro de dois anos, a partir da publicação do presente regulamento.
 
-###### Art. 35.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência tornarão oportunamente extensivas aos restantes estabelecimentos industriais, aos comerciais e a outros locais de trabalho as disposições deste decreto.
+Art. 35.º Os Ministros das Corporações e Previdência Social e da Saúde e Assistência tornarão oportunamente extensivas aos restantes estabelecimentos industriais, aos comerciais e a outros locais de trabalho as disposições deste decreto.
 
-###### Art. 36.º As empresas que já disponham de instalações médicas devem adaptá-las às normas expressas nos artigos 11.º a 14.º do presente regulamento, considerando-se, porém, para tal efeito, como aproximadas as áreas agora estabelecidas.
+Art. 36.º As empresas que já disponham de instalações médicas devem adaptá-las às normas expressas nos artigos 11.º a 14.º do presente regulamento, considerando-se, porém, para tal efeito, como aproximadas as áreas agora estabelecidas.
 
-###### Art. 37.º Os lugares de médicos do trabalho só poderão ser providos por diplomados com o curso de Medicina do trabalho.
+Art. 37.º Os lugares de médicos do trabalho só poderão ser providos por diplomados com o curso de Medicina do trabalho.
 
 § 1.º São dispensados desta exigência os médicos que, não sendo diplomados com o curso de Medicina do Trabalho, apresentem na Direcção-Geral de Saúde documento comprovativo de terem sido considerados pela Ordem dos Médicos com idoneidade técnica para o exercício das funções de médico do trabalho. Esta faculdade só pode ser utilizada no prazo de três anos, a contar da publicação deste decreto.
 
 § 2.º No caso de insuficiente número de médicos do trabalho qualificados nos termos referidos, poderão ser autorizados pela Direcção-Geral de Saúde a exercer as respectivas funções licenciados em Medicina, os quais, no prazo de três anos, a contar da respectiva autorização, deverão apresentar diploma do curso de Medicina do Trabalho, sob pena de lhes ser vedada a continuação do exercício destas funções.
 
-###### Art. 38.º As normas e os modelos dos impressos necessários à execução do presente regulamento serão estabelecidos pela Direcção-Geral de Saúde e pelo Instituto Nacional do Trabalho e Previdência.
+Art. 38.º As normas e os modelos dos impressos necessários à execução do presente regulamento serão estabelecidos pela Direcção-Geral de Saúde e pelo Instituto Nacional do Trabalho e Previdência.
 
-###### Art. 39.º As disposições deste decreto aplicam-se às ilhas adjacentes, considerando-se, para tal efeito, equivalente ao delegado de saúde o cargo de inspector de saúde.
+Art. 39.º As disposições deste decreto aplicam-se às ilhas adjacentes, considerando-se, para tal efeito, equivalente ao delegado de saúde o cargo de inspector de saúde.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

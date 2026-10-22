@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46768-1965-508192
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc30334bd94431f023c7f619c98311889fe159f83e40eb0534b6bfb041af85f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 70d2de34fcbacbd0045992afd8d2a91f02db9927c6ed309bf7f2796cfb8899e5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:01Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo do aeroporto de Lisboa a celebrar contratos com as seguintes firmas:
+Artigo 1.º É autorizado o conselho administrativo do aeroporto de Lisboa a celebrar contratos com as seguintes firmas:
 
 a) Electro Central Vulcanizadora, Lda., para o fornecimento de material no valor de 310421$10;
 
@@ -101,7 +105,7 @@ c) General Electric Portuguesa, para o fornecimento de material no valor de 9970
 
 d) Somil - Sociedade Monumental Eléctrica, Lda., para o fornecimento de material no valor de 234200$00.
 
-###### Art. 2.º Seja qual for o valor dos fornecimentos a efectuar, não poderá o conselho administrativo do aeroporto de Lisboa despender com pagamentos relativos aos respectivos contratos mais do que as quantias adiante mencionadas:
+Art. 2.º Seja qual for o valor dos fornecimentos a efectuar, não poderá o conselho administrativo do aeroporto de Lisboa despender com pagamentos relativos aos respectivos contratos mais do que as quantias adiante mencionadas:
 
 Electro Central Vulcanizadora, Lda., 155210$60 no corrente ano e 155210$50, ou o que se apurar como saldo, no ano de 1966;
 
@@ -111,6 +115,6 @@ General Electric Portuguesa, 49850$00 no corrente ano e 49850$00, ou o que se ap
 
 Somil - Sociedade Monumental Eléctrica, Lda., 117100$00 no corrente ano e 117100$00, ou o que se apurar como saldo, no ano de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

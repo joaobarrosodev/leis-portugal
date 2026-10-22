@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47799-1967-314387
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0dbed2684e51f40d8ac34d4a244fed033269f0a61b898398256d4a7332128c7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1437e5bc6f25456dc626b2ee98cb300557c5672cb4ba10ff1becab269d6b8e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:33Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São elevadas à categoria de escolas industriais e comerciais as Escolas Técnicas Elementares de Henrique de Carvalho e do Cubal, ambas de frequência mista, nelas passando a funcionar:
+Artigo 1.º São elevadas à categoria de escolas industriais e comerciais as Escolas Técnicas Elementares de Henrique de Carvalho e do Cubal, ambas de frequência mista, nelas passando a funcionar:
 
 1) Ciclo preparatório do ensino secundário;
 
@@ -110,7 +110,7 @@ c) Geral de Comércio.
 
 3) Secções preparatórias para os institutos industriais e comerciais.
 
-###### Art. 2.º O pessoal de cada uma das escolas agora criadas será o seguinte:
+Art. 2.º O pessoal de cada uma das escolas agora criadas será o seguinte:
 
 A) Do quadro comum:
 
@@ -130,11 +130,11 @@ D) Do quadro de secretaria: um segundo-oficial, um terceiro-oficial, um aspirant
 
 E) Do pessoal menor: três contínuos, sendo um do sexo feminino, dois serventes de 1.ª classe e dois de 2.ª classe.
 
-###### Art. 3.º As actuais Escolas Técnicas Elementares de Henrique de Carvalho e do Cubal ficarão extintas a partir da data em que entrarem em funcionamento as escolas criadas pelo presente diploma, para as quais transitará, sem mais formalidades e mantendo os seus direitos actuais, todo o pessoal docente, de secretaria e menor daquelas.
+Art. 3.º As actuais Escolas Técnicas Elementares de Henrique de Carvalho e do Cubal ficarão extintas a partir da data em que entrarem em funcionamento as escolas criadas pelo presente diploma, para as quais transitará, sem mais formalidades e mantendo os seus direitos actuais, todo o pessoal docente, de secretaria e menor daquelas.
 
-###### Art. 4.º São aplicáveis às escolas industriais e comerciais criadas pelo presente diploma as disposições legais vigentes sobre gratificações por exercício dos cargos desempenhados pelos professores e pelo pessoal menor dessas escolas.
+Art. 4.º São aplicáveis às escolas industriais e comerciais criadas pelo presente diploma as disposições legais vigentes sobre gratificações por exercício dos cargos desempenhados pelos professores e pelo pessoal menor dessas escolas.
 
-###### Art. 5.º Os quadros do pessoal dos estabelecimentos adiante indicados são aumentados com os seguintes lugares:
+Art. 5.º Os quadros do pessoal dos estabelecimentos adiante indicados são aumentados com os seguintes lugares:
 
 A) Para a Escola Comercial de Vicente Ferreira:
 
@@ -178,11 +178,11 @@ a) Professores adjuntos: um do 5.º grupo, dois do 8.º e dois do 11.º
 
 I) Um mestre de Trabalhos Manuais (masculino) para cada uma das Escolas Industriais e Comerciais de Cabinda, Carmona, Gabela e Luso.
 
-###### Art. 6.º É criada uma gratificação mensal de 150$00, a atribuir ao contínuo que na Escola Industrial de Luanda desempenha as funções de ferramenteiro.
+Art. 6.º É criada uma gratificação mensal de 150$00, a atribuir ao contínuo que na Escola Industrial de Luanda desempenha as funções de ferramenteiro.
 
-###### Art. 7.º Fica o Governo-Geral da província de Angola autorizado a abrir, cumpridas as formalidades legais, os créditos necessários à execução do presente diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 7.º Fica o Governo-Geral da província de Angola autorizado a abrir, cumpridas as formalidades legais, os créditos necessários à execução do presente diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

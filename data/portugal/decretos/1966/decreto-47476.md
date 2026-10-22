@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47476-1966-488103
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9d8964ef66990f392fe676bc998a98642d74633ea02f5518358a4eba36ac4cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e7686c9c40021023539c642f6e6671827dc60977ffc181a64dec92af3f708085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:457994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:53Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +93,7 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A partir de 1 de Janeiro de 1967, o regime instituído pelo [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, passa a aplicar-se à Companhia Portuguesa Rádio Marconi, com as adaptações dos artigos 44.º, 45.º, 46.º, 51.º, 60.º, 62.º e 93.º, nos seguintes termos:
+Artigo 1.º A partir de 1 de Janeiro de 1967, o regime instituído pelo [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, passa a aplicar-se à Companhia Portuguesa Rádio Marconi, com as adaptações dos artigos 44.º, 45.º, 46.º, 51.º, 60.º, 62.º e 93.º, nos seguintes termos:
 
 A) Art. 44.º - 1. Nos contratos sem prazo haverá sempre um período experimental de quatro meses, salvo se outra coisa for ou estiver estipulada por escrito ou em convenção colectiva.
 
@@ -143,9 +151,9 @@ e) As importâncias a reembolsar pelos trabalhadores referentes ao esquema de ac
 
 3. Os descontos referidos nas alíneas b), c) e e) do número anterior não podem exceder no seu conjunto metade da retribuição e o referido na alínea d) um quinto.
 
-###### Art. 2.º De acordo com o artigo 45.º, n.º 3, do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, na redacção que ora se lhe dá, não se aplica a esta empresa o estatuído nos artigos 46.º, n.º 2, 50.º, 52.º e 84.º, n.º 2, daquele diploma, na medida da sua incompatibilidade com o disposto no Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações.
+Art. 2.º De acordo com o artigo 45.º, n.º 3, do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, na redacção que ora se lhe dá, não se aplica a esta empresa o estatuído nos artigos 46.º, n.º 2, 50.º, 52.º e 84.º, n.º 2, daquele diploma, na medida da sua incompatibilidade com o disposto no Regulamento Especial do Horário de Trabalho para as Empresas de Telecomunicações.
 
-###### Art. 3.º A partir de 1 de Janeiro de 1967, o regime instituído pelo [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505) passa a aplicar-se a The Anglo-Portuguese Telephone Co., Ltd., com as adaptações dos artigos 46.º, 68.º e 117.º, nos seguintes termos:
+Art. 3.º A partir de 1 de Janeiro de 1967, o regime instituído pelo [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505) passa a aplicar-se a The Anglo-Portuguese Telephone Co., Ltd., com as adaptações dos artigos 46.º, 68.º e 117.º, nos seguintes termos:
 
 A) Art. 46.º - 1. ...
 
@@ -175,6 +183,6 @@ C) Art. 117.º - 1. Consideram-se justificadas as faltas dadas por trabalhadoras
 
 3. ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

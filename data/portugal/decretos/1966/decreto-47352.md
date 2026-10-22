@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47352-1966-477307
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3b3944a0b37fc37fd73a9fca2baea80bebd0157252e999086deb9dbb37b35fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3ce2ce8691296447d5ff9cd39268599c9911a535fe7bb53621a92bdd05b0da3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:37Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +96,14 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma Fonseca & Seabra, Lda., para a execução da obra «Sistema de abastecimento de ar comprimido nos hangares III-b, III-a, II-a, I-b, II-b - Triton III - O. G. M. A. (Alverca)», pela importância de 4597096$30.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma Fonseca & Seabra, Lda., para a execução da obra «Sistema de abastecimento de ar comprimido nos hangares III-b, III-a, II-a, I-b, II-b - Triton III - O. G. M. A. (Alverca)», pela importância de 4597096$30.
 
-###### Art. 2.º O encargo com esta obra, no montante de 4597096$30, a custear por conta da verba apropriada do orçamento dos Encargos Gerais da Nação, será liquidado pelo referido conselho administrativo da seguinte forma:
+Art. 2.º O encargo com esta obra, no montante de 4597096$30, a custear por conta da verba apropriada do orçamento dos Encargos Gerais da Nação, será liquidado pelo referido conselho administrativo da seguinte forma:
 
 Em 1966 - 2298548$10, pelo capítulo 12.º, artigo 313.º, n.º 1).
 
 Em 1967 - 2298548$20 e o que se apurar como saldo em 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês - Francisco António das Chagas.

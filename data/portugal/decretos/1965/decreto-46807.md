@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46807-1965-508405
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bca72879a0c6c273d78a453aabdc9e5c986aa2c71ce1e3e4178e7a285b31626f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 174117773f47fb7eedb6d0d19d6b7d7a0757eda7c9ed2e0d08a72c8eaabc67e1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:24Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +87,7 @@ Verificando-se a conveniência de extinguir o Corpo de Marinheiros da Armada, po
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É extinto o Corpo de Marinheiros da Armada.
+Artigo único. É extinto o Corpo de Marinheiros da Armada.
 
 § 1.º Por portaria, o Ministro da Marinha criará o organismo destinado a funcionar como centro de alistamento e como depósito dos sargentos e praças que aguardam nomeação para comissão de serviço ou mudança de situação.
 
@@ -95,6 +95,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º Todas as infra-estruturas e equipamento que constituem o aquartelamento do Corpo de Marinheiros da Armada passam a pertencer ao grupo n.º 2 de escolas da Armada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias.

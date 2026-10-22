@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46162-1965-238994
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 432d50eb0883682a3c621edf87606746e1cbb4394f0e8e54f3df723881e5a90e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1698f531d9ad89dd6560217ad1228d003e18cbd5be08ea7ba572558819a64ee
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:683977:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:55Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +93,10 @@ Considerando que se torna indispensável por este motivo prorrogar até Outubro 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É prorrogado até Outubro de 1965 o prazo de execução da obra de ampliação do Liceu de Viseu, a que se refere o [Decreto n.º 45361](https://diariodarepublica.pt/dr/detalhe/decreto/45361-1963-683977), de 20 de Novembro de 1963.
+Artigo 1.º É prorrogado até Outubro de 1965 o prazo de execução da obra de ampliação do Liceu de Viseu, a que se refere o [Decreto n.º 45361](https://diariodarepublica.pt/dr/detalhe/decreto/45361-1963-683977), de 20 de Novembro de 1963.
 
-###### Art. 2.º Como consequência da prorrogação a que se refere o artigo anterior, fica a Junta das Construções para o Ensino Técnico e Secundário autorizada a despender no ano de 1965, com pagamentos relativos à mencionada obra, a quantia de 408944$90, correspondente ao saldo que transita do ano de 1964.
+Art. 2.º Como consequência da prorrogação a que se refere o artigo anterior, fica a Junta das Construções para o Ensino Técnico e Secundário autorizada a despender no ano de 1965, com pagamentos relativos à mencionada obra, a quantia de 408944$90, correspondente ao saldo que transita do ano de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Eduardo de Arantes e Oliveira.

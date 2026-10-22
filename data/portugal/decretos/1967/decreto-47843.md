@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47843-1967-313666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fb86beb294c0f528115c0be34bf7e8c7ec7d5d1e9d6aaed413cfe6679ec79b8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d79ade6a385e5a82856bfac3e32d1f8ff3b35ad454bc2a3d50d6f862cb0e127
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:668920:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:51Z'
   warnings: []
   errors: []
 ---
@@ -87,18 +91,18 @@ Tendo em consideração a urgente necessidade de se preparar mais ràpidamente o
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os cursos de base para o exercício dos cargos de enfermagem psiquiátrica e de saúde pública podem realizar-se, a título temporário, de acordo com o disposto neste diploma, aplicando-se, nas matérias não directamente previstas, o [Decreto n.º 38885](https://diariodarepublica.pt/dr/detalhe/decreto/38885-1952-668920), de 28 de Agosto de 1952.
+Artigo 1.º - 1. Os cursos de base para o exercício dos cargos de enfermagem psiquiátrica e de saúde pública podem realizar-se, a título temporário, de acordo com o disposto neste diploma, aplicando-se, nas matérias não directamente previstas, o [Decreto n.º 38885](https://diariodarepublica.pt/dr/detalhe/decreto/38885-1952-668920), de 28 de Agosto de 1952.
 
 2. A realização destes cursos em nada prejudica as qualificações profissionais dos cursos de enfermagem geral.
 
-###### Art. 2.º - 1. O curso de enfermagem de saúde pública dura dois anos lectivos e exige, como habilitação, o 2.º ciclo liceal ou equivalente. Podem ser admitidos candidatos só com uma secção do 2.º ciclo, mediante exame de aptidão.
+Art. 2.º - 1. O curso de enfermagem de saúde pública dura dois anos lectivos e exige, como habilitação, o 2.º ciclo liceal ou equivalente. Podem ser admitidos candidatos só com uma secção do 2.º ciclo, mediante exame de aptidão.
 
 2. O curso de auxiliar de enfermagem de saúde pública dura um ano lectivo e exige o 1.º ciclo liceal ou habilitação equivalente. São dispensados desta habilitação, no ano escolar de 1967-1968, os candidatos que já estejam a trabalhar no Ministério da Saúde e Assistência em serviços de saúde pública.
 
-###### Art. 3.º - 1. O curso de enfermagem psiquiátrica tem a duração de dois anos lectivos e exige, como habilitação, o 2.º ciclo liceal ou equivalente. Podem ser admitidos candidatos com o 1.º ciclo, mediante exame de aptidão.
+Art. 3.º - 1. O curso de enfermagem psiquiátrica tem a duração de dois anos lectivos e exige, como habilitação, o 2.º ciclo liceal ou equivalente. Podem ser admitidos candidatos com o 1.º ciclo, mediante exame de aptidão.
 
 2. O curso de auxiliar de enfermagem psiquiátrica dura dezoito meses e exige o 1.º ciclo liceal ou equivalente. Podem ser admitidos candidatos com a instrução primária, mediante exame de aptidão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco Pereira Neto de Carvalho.

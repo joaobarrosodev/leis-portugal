@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46836-1966-492991
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e7c729263f4346be5e95d6082beba4b0ae223f185f8e169b0d657a5d1e9a668a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6da5a6b7f3324ce6c3620d2e909fd09c0f088d900d10014c071a7a0b59c8e000
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:39Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +95,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar contrato com a firma B. I. C. Construção Portuguesa, S. A. R. L., para ampliação da rede telefónica subterrânea de Torres Novas, na importância de 3935500$00.
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar contrato com a firma B. I. C. Construção Portuguesa, S. A. R. L., para ampliação da rede telefónica subterrânea de Torres Novas, na importância de 3935500$00.
 
-###### Art. 2.º A liquidação deste encargo deverá repartir-se pelos anos económicos de 1966 a 1968, despendendo-se em cada ano os valores máximos seguintes: em 1966, 2000 contos; em 1967, 1600 contos, e em 1968, o restante.
+Art. 2.º A liquidação deste encargo deverá repartir-se pelos anos económicos de 1966 a 1968, despendendo-se em cada ano os valores máximos seguintes: em 1966, 2000 contos; em 1967, 1600 contos, e em 1968, o restante.
 
 Em 1967 e 1968, àqueles limites acresce a saldo que se apurar nos anos anteriores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

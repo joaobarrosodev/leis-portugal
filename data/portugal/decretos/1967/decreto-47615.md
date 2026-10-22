@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47615-1967-509423
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ca69094d2b95b6587dbac500e62e4ded04c73163569ffe0bc0df2d10133bd439
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e36c088bc540a191c1735c62f0aecb3ffa3a13857486589a9dbed11068024be8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:59Z'
   warnings: []
   errors: []
 ---
@@ -91,14 +91,14 @@ Atendendo a que as estações competentes não vêem inconveniente na sua exclus
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial, a que fora submetida por decreto de 8 de Dezembro de 1926, publicado no Diário do Governo, 2.ª série, de 18 de Dezembro de 1926, e restituída à administração da Câmara Municipal do concelho de Penacova uma parcela de terreno, com a área de cerca de 8,8 ha, do perímetro florestal da serra do Buçaco, a fim de a mesma ser destinada a urbanização.
+Artigo 1.º É excluída do regime florestal parcial, a que fora submetida por decreto de 8 de Dezembro de 1926, publicado no Diário do Governo, 2.ª série, de 18 de Dezembro de 1926, e restituída à administração da Câmara Municipal do concelho de Penacova uma parcela de terreno, com a área de cerca de 8,8 ha, do perímetro florestal da serra do Buçaco, a fim de a mesma ser destinada a urbanização.
 
-###### Art. 2.º Em caso algum poderá ser prejudicada a função do posto de vigia contra fogos existente na parcela em questão, não podendo igualmente ser afectados os acessos ao mesmo.
+Art. 2.º Em caso algum poderá ser prejudicada a função do posto de vigia contra fogos existente na parcela em questão, não podendo igualmente ser afectados os acessos ao mesmo.
 
-###### Art. 3.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de corte extraordinário.
+Art. 3.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de corte extraordinário.
 
-###### Art. 4.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
+Art. 4.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Domingos Rosado Vitória Pires.

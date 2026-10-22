@@ -22,12 +22,12 @@ publication:
   reference: Diário do Governo n.º 119/1967, 1º Suplemento, Série I de 1967-05-20
   number: '119'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1095 - 1130
   pdf_url: https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,86 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47723-1967-406495
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1983-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31355002318f77c9d8947855489c0b6866c2522e5ed367312d83b6faa7e06129
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dbabe5d4b6b4e2b4158837f65e8df4e532b8baefc021707f99499ff19a0099e2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Regulamento de Estruturas de Betão Armado e Pré-esforçado
 relationships:
 - type: amended_by
   target: pt:dre:435595:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:313665:por
+  label: "Alterado o § 1.º do artigo 36.º do Regulamento aprovado pelo presente diploma, pelo DEC.47842.11.08.1967.MOP, DG.IS\
+    \ [187] de 11.08.1967\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47842-1967-313665
+  date: '1967-08-11'
+- type: amended_by
+  target: pt:dre:272041:por
+  label: "Suspensa a aplicação do disposto no §.1.º do artigo 2.º do Regulamento, aprovado pelo presente diploma, pelo DEC.48446.22.06.1968.MOP,\
+    \ DG.IS [147] de 22.06.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48446-1968-272041
+  date: '1968-06-22'
+- type: amended_by
+  target: pt:dre:430650:por
+  label: "Alterado o artigo 2.º e o respectivo comentário e o artigo 6º, ambos do Regulamento aprovado pelo presente diploma,\
+    \ pelo DEC.599/76.23.07.1976.MOP, DR.IS [171] de 23.07.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/599-1976-430650
+  date: '1976-07-23'
+- type: cites
+  target: pt:dre:181610:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238992:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352090:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353685:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536672:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:435595:por
+  label: "Revogado o Regulamento aprovado pelo presente diploma, com as alterações e rectificações introduzidas pelo Decreto\
+    \ n.º 47842, de 11 de Agosto de 1967, e pelo Decreto n.º 599/76, de 23 de Julho, pelo DEC LEI.349-C/83.30.07.1983.MHOPT,\
+    \ DR.IS [174]7ºSupl de 30.07.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/349-c-1983-435595
+  date: '1983-07-30'
 article_structure:
-  article_count: 159
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 5
+  section_count: 10
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:56Z'
   warnings: []
   errors: []
 ---
@@ -99,15 +145,15 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento de Estruturas de Betão Armado, que faz parte integrante do presente diploma e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo 1.º É aprovado o Regulamento de Estruturas de Betão Armado, que faz parte integrante do presente diploma e com ele baixa assinado pelo Ministro das Obras Públicas.
 
-###### Art. 2.º Fica revogado o Regulamento do Betão Armado, aprovado pelo [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960.
+Art. 2.º Fica revogado o Regulamento do Betão Armado, aprovado pelo [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960.
 
 § único. Consideram-se igualmente revogadas as disposições relativas a estruturas de betão armado constantes dos artigos 11.º a 14.º do Regulamento de Segurança das Construções contra os Sismos, aprovado pelo [Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 20 de Maio de 1958.
 
-###### Art. 3.º Durante o prazo de um ano, a contar da data do presente diploma, poderão ser submetidos à apreciação das instâncias oficiais responsáveis projectos organizados de harmonia com a legislação revogada nos termos do artigo anterior.
+Art. 3.º Durante o prazo de um ano, a contar da data do presente diploma, poderão ser submetidos à apreciação das instâncias oficiais responsáveis projectos organizados de harmonia com a legislação revogada nos termos do artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -349,7 +395,7 @@ Minúsculas gregas
 
 (ni) Coeficiente de Poisson.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 (ró) Coeficiente de redistribuição de esforços.
 
@@ -409,187 +455,189 @@ R. S. E. P. ... Regulamento de Solicitações em Edifícios e Pontes.
 
 ### CAPÍTULO I — Generalidades, solicitações e materiais
 
-###### Artigo 1.º - Objecto e campo de aplicação.
+Artigo 1.º - Objecto e campo de aplicação.
 
-###### Artigo 2.º - Elaboração dos projectos.
+Artigo 2.º - Elaboração dos projectos.
 
-###### Artigo 3.º - Organização dos projectos.
+Artigo 3.º - Organização dos projectos.
 
-###### Artigo 4.º - Aprovação dos projectos.
+Artigo 4.º - Aprovação dos projectos.
 
-###### Artigo 5.º - Alteração dos projectos.
+Artigo 5.º - Alteração dos projectos.
 
-###### Artigo 6.º - Direcção técnica das obras.
+Artigo 6.º - Direcção técnica das obras.
 
-###### Artigo 7.º - Solicitações.
+Artigo 7.º - Solicitações.
 
 ###### Artigo 8.º - Betões.
 
-###### Artigo 9.º - Classes de betões.
+Artigo 9.º - Classes de betões.
 
-###### Artigo 10.º - Dosagem mínima de cimento.
+Artigo 10.º - Dosagem mínima de cimento.
 
-###### Artigo 11.º - Armaduras.
+Artigo 11.º - Armaduras.
 
-###### Artigo 12.º - Diâmetros nominais dos varões.
+Artigo 12.º - Diâmetros nominais dos varões.
 
 ### CAPÍTULO II — Critérios gerais de dimensionamento
 
-###### Artigo 13.º - Concepção geral das estruturas.
+Artigo 13.º - Concepção geral das estruturas.
 
-###### Artigo 14.º - Segurança das estruturas.
+Artigo 14.º - Segurança das estruturas.
 
-###### Artigo 15.º - Tipos de ruína.
+Artigo 15.º - Tipos de ruína.
 
-###### Artigo 16.º - Dimensionamento analítico e experimental.
+Artigo 16.º - Dimensionamento analítico e experimental.
 
-###### Artigo 17.º - Segurança em relação à rotura.
+Artigo 17.º - Segurança em relação à rotura.
 
-###### Artigo 18.º - Segurança em relação à fendilhação.
+Artigo 18.º - Segurança em relação à fendilhação.
 
-###### Artigo 19.º - Segurança em relação à deformação.
+Artigo 19.º - Segurança em relação à deformação.
 
-###### Artigo 20.º - Coeficientes de majoração das solicitações.
+Artigo 20.º - Coeficientes de majoração das solicitações.
 
-###### Artigo 21.º - Valores de cálculo das propriedades mecânicas dos materiais. Coeficientes de minoração.
+Artigo 21.º - Valores de cálculo das propriedades mecânicas dos materiais. Coeficientes de minoração.
 
-###### Artigo 22.º - Tensões de segurança.
+Artigo 22.º - Tensões de segurança.
 
-###### Artigo 23.º - Variações de temperatura.
+Artigo 23.º - Variações de temperatura.
 
-###### Artigo 24.º - Retracção do betão.
+Artigo 24.º - Retracção do betão.
 
-###### Artigo 25.º - Fluência do betão.
+Artigo 25.º - Fluência do betão.
 
-###### Artigo 26.º - Acções dinâmicas.
+Artigo 26.º - Acções dinâmicas.
 
 ### CAPÍTULO III — Determinação analítica do comportamento das estruturas
 
 A) Cálculo de esforços
 
-###### Artigo 27.º - Estruturas reticuladas.
+Artigo 27.º - Estruturas reticuladas.
 
-###### Artigo 28.º - Redistribuição de esforços.
+Artigo 28.º - Redistribuição de esforços.
 
-###### Artigo 29.º - Estruturas laminares.
+Artigo 29.º - Estruturas laminares.
 
-###### Artigo 30.º - Estruturas de outros tipos.
+Artigo 30.º - Estruturas de outros tipos.
 
 B) Capacidade resistente
 
-###### Artigo 31.º - Tracção. Flexão simples ou composta.
+Artigo 31.º - Tracção. Flexão simples ou composta.
 
-###### Artigo 32.º - Compressão simples de pilares ordinários.
+Artigo 32.º - Compressão simples de pilares ordinários.
 
-###### Artigo 33.º - Compressão simples de pilares reforçados.
+Artigo 33.º - Compressão simples de pilares reforçados.
 
-###### Artigo 34.º - Varejamento de peças solicitadas à compressão com flexão.
+Artigo 34.º - Varejamento de peças solicitadas à compressão com flexão.
 
-###### Artigo 35.º - Esforço transverso.
+Artigo 35.º - Esforço transverso.
 
 ###### Artigo 36.º - Torção. — C) Fendilhação e deformação
 
-###### Artigo 37.º - Extensão média das armaduras.
+Artigo 37.º - Extensão média das armaduras.
 
-###### Artigo 38.º - Distância média entre fendas.
+Artigo 38.º - Distância média entre fendas.
 
-###### Artigo 39.º - Largura máxima das fendas.
+Artigo 39.º - Largura máxima das fendas.
 
-###### Artigo 40.º - Deformação de vigas.
+Artigo 40.º - Deformação de vigas.
 
 ### CAPÍTULO IV — Disposições de projecto e disposições construtivas
 
 A) Disposições gerais
 
-###### Artigo 41.º - Armaduras principais e secundárias.
+Artigo 41.º - Armaduras principais e secundárias.
 
-###### Artigo 42.º - Utilização simultânea de aços de diferentes classes.
+Artigo 42.º - Utilização simultânea de aços de diferentes classes.
 
-###### Artigo 43.º - Distâncias mínimas entre varões.
+Artigo 43.º - Distâncias mínimas entre varões.
 
-###### Artigo 44.º - Recobrimento das armaduras.
+Artigo 44.º - Recobrimento das armaduras.
 
-###### Artigo 45.º - Dobragem de varões.
+Artigo 45.º - Dobragem de varões.
 
-###### Artigo 46.º - Amarração de varões.
+Artigo 46.º - Amarração de varões.
 
-###### Artigo 47.º - Emenda de varões.
+Artigo 47.º - Emenda de varões.
 
-###### Artigo 48.º - Juntas de dilatação.
+Artigo 48.º - Juntas de dilatação.
 
-###### Artigo 49.º - Protecção contra a corrosão.
+Artigo 49.º - Protecção contra a corrosão.
 
-###### Artigo 50.º - Protecção contra o fogo.
+Artigo 50.º - Protecção contra o fogo.
 
 B) Disposições relativas a lajes maciças
 
-###### Artigo 51.º - Vãos teóricos.
+Artigo 51.º - Vãos teóricos.
 
-###### Artigo 52.º - Espessura mínima.
+Artigo 52.º - Espessura mínima.
 
-###### Artigo 53.º - Altura útil mínima.
+Artigo 53.º - Altura útil mínima.
 
-###### Artigo 54.º - Armadura principal das lajes armadas numa só direcção.
+Artigo 54.º - Armadura principal das lajes armadas numa só direcção.
 
-###### Artigo 55.º - Armadura de distribuição das lajes armadas numa só direcção.
+Artigo 55.º - Armadura de distribuição das lajes armadas numa só direcção.
 
-###### Artigo 56.º - Armaduras das lajes armadas em cruz.
+Artigo 56.º - Armaduras das lajes armadas em cruz.
 
 C) Disposições relativas a lajes aligeiradas
 
-###### Artigo 57.º - Características geométricas.
+Artigo 57.º - Características geométricas.
 
-###### Artigo 58.º - Vãos teóricos. Altura útil mínima.
+Artigo 58.º - Vãos teóricos. Altura útil mínima.
 
-###### Artigo 59.º - Armadura de distribuição.
+Artigo 59.º - Armadura de distribuição.
 
-###### Artigo 60.º - Nervuras transversais das lajes nervuradas numa só direcção.
+Artigo 60.º - Nervuras transversais das lajes nervuradas numa só direcção.
 
 D) Disposições relativas a vigas
 
-###### Artigo 61.º - Vãos teóricos.
+Artigo 61.º - Vãos teóricos.
 
-###### Artigo 62.º - Largura do banzo das vigas em T.
+Artigo 62.º - Largura do banzo das vigas em T.
 
-###### Artigo 63.º - Altura útil mínima.
+Artigo 63.º - Altura útil mínima.
 
-###### Artigo 64.º - Armadura principal mínima.
+Artigo 64.º - Armadura principal mínima.
 
-###### Artigo 65.º - Armadura transversal mínima.
+Artigo 65.º - Armadura transversal mínima.
 
-###### Artigo 66.º - Armadura de alma.
+Artigo 66.º - Armadura de alma.
 
-###### Artigo 67.º - Diâmetro máximo dos varões da armadura principal.
+Artigo 67.º - Diâmetro máximo dos varões da armadura principal.
 
-###### Artigo 68.º - Constituição da armadura principal.
+Artigo 68.º - Constituição da armadura principal.
 
 E) Disposições relativas a pilares
 
-###### Artigo 69.º - Dimensões mínimas.
+Artigo 69.º - Dimensões mínimas.
 
-###### Artigo 70.º - Armadura longitudinal de pilares ordinários.
+Artigo 70.º - Armadura longitudinal de pilares ordinários.
 
-###### Artigo 71.º - Armadura transversal de pilares ordinários.
+Artigo 71.º - Armadura transversal de pilares ordinários.
 
-###### Artigo 72.º - Armadura longitudinal de pilares reforçados.
+Artigo 72.º - Armadura longitudinal de pilares reforçados.
 
-###### Artigo 73.º - Armadura transversal de pilares reforçados.
+Artigo 73.º - Armadura transversal de pilares reforçados.
 
 ### CAPÍTULO V — Execução dos trabalhos
 
-###### Artigo 74.º - Moldes e cimbres.
+Artigo 74.º - Moldes e cimbres.
 
-###### Artigo 75.º - Armaduras.
+Artigo 75.º - Armaduras.
 
-###### Artigo 76.º - Preparação, colocação em obra e cura do betão.
+Artigo 76.º - Preparação, colocação em obra e cura do betão.
 
-###### Artigo 77.º - Desmoldagem e descimbramento.
+Artigo 77.º - Desmoldagem e descimbramento.
 
 ### CAPÍTULO VI — Fiscalização e ensaios
 
-###### Artigo 78.º - Verificação e fiscalização das obras.
+Artigo 78.º - Verificação e fiscalização das obras.
 
-###### Artigo 79.º - Ensaios. — ANEXO I
+###### Artigo 79.º - Ensaios.
+
+## ANEXO I
 
 Valores de cálculo das propriedades mecânicas dos materiais
 
@@ -611,7 +659,7 @@ BIBLIOGRAFIA
 
 ### CAPÍTULO I — Generalidades, solicitações e materiais
 
-###### Artigo 1.º - Objecto e campo de aplicação
+Artigo 1.º - Objecto e campo de aplicação
 
 O presente regulamento estabelece as regras a observar no projecto e na execução das estruturas de betão armado em geral e, particularmente, das destinadas a edifícios e obras análogas.
 
@@ -625,7 +673,7 @@ Contêm-se no presente regulamento regras gerais, aplicáveis a todas as constru
 
 As regras gerais também se aplicam, por exemplo, no projecto e na construção de pontes e de obras hidráulicas de betão armado, as quais, além disso, deverão respeitar as prescrições especiais contidas nos respectivos regulamentos. Enquanto estes não forem publicados, poderão servir de base para o dimensionamento dessas estruturas as disposições aplicáveis do presente regulamento, relativas a edifícios, depois de convenientemente adaptadas às exigências peculiares das construções a que se destinam.
 
-###### Artigo 2.º - Elaboração dos projectos
+Artigo 2.º - Elaboração dos projectos
 
 Os projectos das obras de betão armado devem ser elaborados por engenheiros civis ou por agentes técnicos de engenharia civil e minas, ficando a elaboração dos projectos de estruturas de grande importância técnica ou económica atribuída aos engenheiros civis.
 
@@ -639,7 +687,7 @@ Com a redacção dada ao presente artigo, não se pretendeu alterar profundament
 
 Recomenda-se, ainda, que as estruturas de excepcional importância, como, por exemplo, as de edifícios com mais do que uma dezena de pisos, sòmente devam ser projectadas por engenheiros ou gabinetes técnicos particularmente experientes, mas não se considera que caiba ao presente regulamento estabelecer as normas de qualificação profissional que tal implicava.
 
-###### Artigo 3.º - Organização dos projectos
+Artigo 3.º - Organização dos projectos
 
 Os projectos devem conter, devidamente organizadas, as peças escritas e desenhadas necessárias à verificação do dimensionamento e à execução da obra. Estes elementos devem ser apresentados de forma suficientemente explícita para que não possam surgir dúvidas na sua interpretação.
 
@@ -647,7 +695,7 @@ Os projectos devem conter, devidamente organizadas, as peças escritas e desenha
 
 § 2.º Nos projectos devem ser respeitadas a terminologia e a simbologia utilizadas no presente regulamento.
 
-###### Artigo 4.º - Aprovação dos projectos
+Artigo 4.º - Aprovação dos projectos
 
 Nenhuma obra de betão armado poderá ser executada sem que o respectivo projecto seja aprovado pelas entidades competentes do Estado ou dos corpos administrativos.
 
@@ -663,17 +711,17 @@ A verificação dos projectos que está no espírito do artigo visa, sobretudo, 
 
 O facto de a verificação dos projectos poder ser efectuada ou por elementos dos quadros técnicos das entidades a quem compete a aprovação ou por organismos ou elementos estranhos a essas entidades garante condições para que a verificação seja sempre efectuada. Não poderão ser invocadas para justificar o desrespeito do presente artigo razões económicas ou administrativas. Considera-se também que as entidades a quem compete a aprovação poderão aceitar que a verificação seja efectuada por organismo especializado, por solicitação do autor do projecto e com vista ao seguro da responsabilidade civil deste.
 
-###### Artigo 5.º - Alteração dos projectos
+Artigo 5.º - Alteração dos projectos
 
 No caso de alteração do projecto, deve proceder-se à anotação de quais os elementos substituídos e ao aditamento dos elementos necessários para que do processo fiquem a constar sempre a descrição e a justificação completas da estrutura efectivamente construída.
 
-###### Artigo 6.º - Direcção técnica das obras
+Artigo 6.º - Direcção técnica das obras
 
 As obras parcial ou totalmente feitas de betão armado, na parte em que for empregado este material, serão dirigidas tècnicamente por engenheiros civis, por agentes técnicos de engenharia civil e minas ou por outros técnicos de formação adequada.
 
 § único. Compete à entidade oficial a quem caiba conceder licença para a obra ou nela superintenda definir, em função da importância desta, qual a formação mínima a exigir ao técnico que a vai dirigir.
 
-###### Artigo 7.º - Solicitações
+Artigo 7.º - Solicitações
 
 As solicitações a considerar são as prescritas pelo Regulamento de Solicitações em Edifícios e Pontes ([Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961, devendo as provenientes das variações de temperatura, da retracção e da fluência do betão ser estabelecidas de acordo com os artigos 23.º, 24.º e 25.º do presente regulamento.
 
@@ -687,7 +735,7 @@ Os betões a utilizar em estruturas de betão armado deverão ser fabricados, em
 
 Encontra-se em fase adiantada de preparação um regulamento de betões a utilizar em obras de betão simples, betão armado e betão pré-esforçado, no qual serão definidas, de acordo com os progressos tecnológicos recentes, as condições a satisfazer relativamente aos componentes do betão e à sua fabricação e colocação em obra. Nestas circunstâncias, não pareceu sensato manter em vigor as já antiquadas prescrições do regulamento de 1935, nem efectuar a sua remodelação de modo a figurarem, a título transitório, no presente regulamento. No entanto, enquanto não for publicado o regulamento de betões, recomenda-se que se continue a tomar como base as cláusulas do regulamento de 1935 (Regulamento do Betão Armado, [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960).
 
-###### Artigo 9.º - Classes de betões
+Artigo 9.º - Classes de betões
 
 Os betões a utilizar em estruturas de betão armado devem ser das classes B180, B225, B300, B350 e B400.
 
@@ -715,7 +763,7 @@ A dispensa, nos casos correntes, da realização de estudos prévios e de ensaio
 
 A prescrição do § 6.º resulta de que a conveniente exploração da capacidade resistente dos aços da classe A60 impõe a utilização de betões de resistência suficiente, não só para absorção dos elevados esforços de compressão resultantes, mas ainda para garantia da necessária aderência das armaduras. O emprego do betão da classe B180, em conjugação com os aços da classe referida, obrigaria assim a disposições construtivas diferentes das utilizadas na prática corrente e conduziria a soluções pouco económicas.
 
-###### Artigo 10.º - Dosagem mínima de cimento
+Artigo 10.º - Dosagem mínima de cimento
 
 A dosagem mínima de cimento a empregar na fabricação do betão deve ser estabelecida por estudos prévios, tendo em vista a resistência (classe do betão) e outras características (impermeabilidade, trabalhabilidade, etc.) do betão que se pretende obter.
 
@@ -725,7 +773,7 @@ A dosagem mínima de cimento a empregar na fabricação do betão deve ser estab
 
 Apesar de, em geral, ser a resistência a principal característica exigida ao betão nas estruturas de betão armado, outras poderão ser impostas, como por exemplo a impermeabilidade e a trabalhabilidade, que igualmente condicionam a dosagem de cimento a empregar.
 
-###### Artigo 11.º - Armaduras
+Artigo 11.º - Armaduras
 
 As armaduras a empregar em betão armado deverão, em geral, ser constituídas por varões simples, redondos, das classes A24, A40, A50 e A60, conforme as características dos aços que os constituem, e dos tipos liso ou nervurado, segundo a configuração das suas superfícies.
 
@@ -737,15 +785,15 @@ As armaduras a empregar em betão armado deverão, em geral, ser constituídas p
 
 Valores característicos mínimos das propriedades mecânicas dos varões
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Aços de dureza natural
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Aços endurecidos a frio
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 4.º O emprego em betão armado de varões que não sejam das classes e tipos especificados neste artigo necessita de prévia homologação do Laboratório Nacional de Engenharia Civil, que definirá, em função das propriedades mecânicas do aço, das características geométricas dos varões e da configuração da sua superfície, as condições da sua utilização.
 
@@ -767,13 +815,13 @@ Quanto aos valores mínimos especificados para as características mecânicas do
 
 Finalmente, há a referir que, para determinação da extensão após rotura, se prescreve a adopção de provetes proporcionais longos, tais como são definidos na norma NP-105, isto é, provetes em que a base de medida dos alongamentos é igual a 10 vezes o diâmetro do provete. Abandonaram-se assim os provetes proporcionais médios que eram especificados no regulamento de betão armado de 1935. A razão deste facto deve-se a que os provetes proporcionais longos são hoje prescritos pela grande maioria da regulamentação estrangeira e trazem para a realização dos ensaios algumas vantagens que são de considerar.
 
-###### Artigo 12.º - Diâmetros nominais dos varões
+Artigo 12.º - Diâmetros nominais dos varões
 
 Os diâmetros nominais dos varões lisos da classe A24 são os especificados na norma portuguesa em vigor (NP-332). Os diâmetros nominais dos restantes tipos e classes de varões serão os indicados nos respectivos documentos de classificação, a emitir pelo Laboratório Nacional de Engenharia Civil, nas condições estabelecidas pelo § 3.º do artigo 11.º
 
 ### CAPÍTULO II — Critérios gerais de dimensionamento
 
-###### Artigo 13.º - Concepção geral das estruturas
+Artigo 13.º - Concepção geral das estruturas
 
 As estruturas de betão armado serão concebidas e dimensionadas de modo a poderem desempenhar com segurança a função a que se destinam, devendo a segurança ser entendida e avaliada conforme é indicado nos artigos seguintes.
 
@@ -783,7 +831,7 @@ Note-se, no entanto, que a quantificação da segurança tem de ser estabelecida
 
 Deve constituir permanente objectivo dos projectistas estabelecer o justo compromisso entre a segurança e a economia.
 
-###### Artigo 14.º - Segurança das estruturas
+Artigo 14.º - Segurança das estruturas
 
 Considera-se que as condições de segurança de uma estrutura são satisfeitas quando as combinações mais desfavoráveis das solicitações de cálculo são inferiores às resistências de cálculo correspondentes aos seus possíveis estados de ruína.
 
@@ -811,7 +859,7 @@ Evidentemente que, em primeira aproximação, o produto destes dois coeficientes
 
 Note-se ainda, para que não surpreenda o facto de se impor a adopção de coeficientes de majoração importantes mesmo naqueles casos em que os valores das solicitações são quase exactamente conhecidos (actuação apenas de pesos próprios), que a noção de coeficiente de segurança das estruturas cobre ainda outras incertezas, além das inerentes às solicitações e às propriedades dos materiais. São exemplos destas a incerteza de as hipóteses de dimensionamento corresponderem à realidade e a incerteza de a execução da obra ser feita com rigor.
 
-###### Artigo 15.º - Tipos de ruína
+Artigo 15.º - Tipos de ruína
 
 Os tipos de ruína a considerar na avaliação da segurança são os que correspondem à ocorrência, no todo ou em parte da estrutura, de cada um dos seguintes estados: rotura, fendilhação excessiva e deformação excessiva.
 
@@ -819,7 +867,7 @@ Ao enumerar os diferentes tipos de ruína não se faz referência específica à
 
 Convém observar ainda que sob a designação de rotura se inclui não só a rotura material - por separação ou esmagamento -, mas ainda a perda de configuração inicial que corresponde, por exemplo, a fenómenos de deformação plástica excessiva ou de instabilidade. A razão de agrupar no mesmo tipo de ruína fenómenos de índole diferente justifica-se porque as solicitações que conduzem a deformações plásticas excessivas ou a instabilidade são na maioria dos casos pouco inferiores às que conduzem à rotura material e porque os três fenómenos correspondem sempre a estados limites em que a estrutura deixa completamente de poder desempenhar a função para que foi prevista.
 
-###### Artigo 16.º - Dimensionamento analítico e experimental
+Artigo 16.º - Dimensionamento analítico e experimental
 
 A avaliação da segurança pode ser efectuada recorrendo a métodos analíticos, a métodos experimentais ou à combinação de métodos de ambos os tipos.
 
@@ -831,7 +879,7 @@ No presente regulamento considera-se aceitável recorrer tanto a métodos analí
 
 No caso de serem utilizados estudos experimentais para a determinação de esforços em regime elástico, não se levantam em geral problemas relativos à sua interpretação em termos de segurança, pois que continuam a ser aplicáveis as regras definidas no presente regulamento. No caso, porém, de os estudos experimentais serem conduzidos com vista à determinação da capacidade resistente das estruturas, isto é, à determinação directa das solicitações que conduzem aos diferentes tipos de ruína, o problema já se apresenta mais complexo. De facto, as resistências determinadas nos estudos experimentais não podem ser consideradas como resistências características, pois não correspondem aos valores característicos das propriedades mecânicas dos materiais. Os coeficientes de segurança a adoptar nestes casos devem ser, pois, convenientemente justificados, de modo a garantir às estruturas segurança equivalente àquela que se obteria utilizando métodos analíticos.
 
-###### Artigo 17.º - Segurança em relação à rotura
+Artigo 17.º - Segurança em relação à rotura
 
 A segurança em relação à rotura deve avaliar-se considerando as combinações mais desfavoráveis de solicitações, tanto do tipo I como do tipo II (de acordo com o R. S. E. P.), os coeficientes de majoração das solicitações definidos no artigo 20.º e os valores de cálculo das propriedades mecânicas dos materiais definidos no artigo 21.º
 
@@ -845,7 +893,7 @@ O cálculo em relação a tensões de segurança deverá ser conduzido da forma 
 
 Como estabelece o decreto que aprova o presente regulamento, foram revogadas as disposições relativas ao dimensionamento de estruturas de betão armado que constam dos artigos 11.º a 14.º do Regulamento de Segurança das Construções contra os Sismos ([Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 31 de Maio de 1958).
 
-###### Artigo 18.º - Segurança em relação à fendilhação
+Artigo 18.º - Segurança em relação à fendilhação
 
 A segurança em relação à fendilhação considera-se suficiente desde que, para as combinações de solicitações do tipo I (R. S. E. P.), sem serem multiplicadas por qualquer coeficiente de majoração, não se verifiquem na estrutura fendas inaceitáveis, quer por comprometerem a sua utilização, quer por permitirem a corrosão das armaduras.
 
@@ -859,7 +907,7 @@ O facto de apenas se imporem condicionamentos à fendilhação para as combinaç
 
 Convém ainda observar que se está tratando apenas da fendilhação devida ao funcionamento normal das estruturas, resultante do alongamento das armaduras e, portanto, em regra, transversal a estas. Interessa, consequentemente, ter em atenção o facto de que outros tipos de fendilhação poderão denunciar deficiências estruturais, eventualmente graves, não sendo evidentemente de aplicar nesse caso as considerações anteriores.
 
-###### Artigo 19.º - Segurança em relação à deformação
+Artigo 19.º - Segurança em relação à deformação
 
 A segurança em relação à deformação considera-se suficiente desde que, para as combinações de solicitações do tipo I (R. S. E. P.), sem serem multiplicadas por qualquer coeficiente de majoração, não se verifiquem na estrutura deformações susceptíveis de prejudicar a utilização para que foi concebida.
 
@@ -877,7 +925,7 @@ Nas madres de coberturas ordinárias em que se utilizem os materiais correntes d
 
 Apesar de se não referir no presente artigo a necessidade de limitar as deformações para as solicitações excepcionais (em particular para a acção dos sismos), é necessário não esquecer que a segurança contra estas acções impõe que a flexibilidade lateral das estruturas não seja excessiva. A limitação das deformações tem, pois, neste caso, uma razão de ser distinta da razão invocada para as solicitações habituais. De facto, não se trata de evitar estragos que seriam pouco importantes do ponto de vista económico, mas sim garantir que os deslocamentos entre andares não ultrapassem a capacidade de deformação das estruturas. Como limite superior para estes deslocamentos é habitual tomar valores da ordem de 1 a 2 cm.
 
-###### Artigo 20.º - Coeficientes de majoração das solicitações
+Artigo 20.º - Coeficientes de majoração das solicitações
 
 Os coeficientes de majoração das solicitações, a utilizar para a verificação da segurança em relação à rotura, terão, em geral, os seguintes valores mínimos:Para as combinações de solicitações do tipo I (R. S. E. P.) ... (gama)(índice S) = 1,5
 
@@ -909,7 +957,7 @@ O desrespeito destas condições implicaria o aumento do coeficiente de majoraç
 
 A prescrição do § 2.º, obrigando a aumentar o coeficiente de majoração no caso de lajes de pequena espessura, deve-se a que, nestas circunstâncias, as inevitáveis imperfeições na colocação das armaduras quando da construção podem afectar significativamente a segurança dos elementos. A orientação de adoptar coeficientes de majoração superiores aos mínimos deve, de resto, ser seguida sempre que haja razões para supor que as condições de realização do projecto ou da execução da obra possam corresponder a redução da segurança.
 
-###### Artigo 21.º - Valores de cálculo das propriedades mecânicas dos materiais. Coeficientes de minoração
+Artigo 21.º - Valores de cálculo das propriedades mecânicas dos materiais. Coeficientes de minoração
 
 O dimensionamento à rotura deve ser efectuado considerando os valores dos coeficientes de minoração das propriedades mecânicas do betão e do aço definidos no anexo I e os consequentes valores de cálculo dessas propriedades, ali também especificados.
 
@@ -923,17 +971,17 @@ De entre os diagramas simplificados de possível utilização, merecem especial 
 
 Note-se ainda que se encontram já calculadas tabelas baseadas nos diagramas curvos indicados no anexo I, de modo que a sua utilização não envolve, nos casos correntes, qualquer dificuldade.
 
-###### Artigo 22.º - Tensões de segurança
+Artigo 22.º - Tensões de segurança
 
 O dimensionamento por tensões de segurança deve ser efectuado utilizando as tensões de segurança do betão e de aço a seguir indicadas:
 
 Tensões de segurança para o betão, (sigma)(índice bs)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Tensões de segurança para o aço, (sigma)(índice as)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § único. No caso de lajes simplesmente apoiadas ou contínuas com espessura inferior a 8 cm, e no caso de lajes em consola com espessura inferior a 12 cm, as tensões de segurança indicadas devem ser diminuídas de 10%.
 
@@ -943,7 +991,7 @@ Não são apresentados valores de tensões de segurança para a compressão resu
 
 A prescrição contida no § único é inteiramente homóloga da estabelecida no § 2.º do artigo 20.º, sendo-lhe, portanto, aplicáveis as considerações apresentadas no comentário àquele artigo.
 
-###### Artigo 23.º - Variações de temperatura
+Artigo 23.º - Variações de temperatura
 
 Os efeitos das variações de temperatura nas estruturas de betão armado deverão ser computados tendo em consideração as amplitudes térmicas decorrentes das características climáticas locais, das dimensões, da protecção térmica e das condições de exposição dos elementos, e considerando valores adequados para o coeficiente de dilatação térmica linear e para o módulo de elasticidade do betão utilizado.
 
@@ -957,7 +1005,7 @@ No mesmo regulamento é especificado o valor (alfa) = 10(elevado a - 5)/ºC para
 
 Note-se que, devendo os valores referidos das amplitudes térmicas ser considerados como valores característicos (como, aliás, os de todas as solicitações especificados no R. S. E. P.), uma vez calculados os esforços correspondentes àqueles valores há que multiplicá-los pelos coeficientes de majoração para obter os esforços de cálculo.
 
-###### Artigo 24.º - Retracção do betão
+Artigo 24.º - Retracção do betão
 
 A retracção do betão deverá ser computada tendo em devida consideração os principais parâmetros que a condicionam, nomeadamente a composição do betão, as condições ambientes de conservação, as dimensões dos elementos, a percentagem de armadura e o tempo decorrido após a betonagem.
 
@@ -971,7 +1019,7 @@ Note-se que, de acordo com o R. S. E. P. (artigo 67.º), os efeitos da retracç�
 
 Chama-se ainda a atenção para o facto de os valores de retracção estabelecidos de acordo com os critérios indicados deverem ser considerados como valores característicos, havendo, portanto, que multiplicar os esforços resultantes pelos coeficientes de majoração para obter os esforços de cálculo.
 
-###### Artigo 25.º - Fluência do betão
+Artigo 25.º - Fluência do betão
 
 As deformações do betão devidas a solicitações de longa duração deverão ser computadas multiplicando as extensões instantâneas por um coeficiente tendo em devida consideração os parâmetros que condicionam a fluência, nomeadamente a composição do betão, as condições ambientes de conservação, as dimensões dos elementos, a idade do betão e o tempo durante o qual são aplicadas as solicitações.
 
@@ -983,7 +1031,7 @@ Note-se que o processo de cálculo indicado no § único do artigo é sòmente a
 
 Recomenda-se também, para a avaliação numérica dos diferentes parâmetros que afectam a fluência, a consulta da publicação referida no comentário do artigo anterior.
 
-###### Artigo 26.º - Acções dinâmicas
+Artigo 26.º - Acções dinâmicas
 
 Os efeitos de acções dinâmicas deverão ser computados pelo estudo do comportamento dinâmico das estruturas, ou, de forma simplificada, assimilando essas acções a forças estáticas equivalentes.
 
@@ -995,7 +1043,7 @@ Conforme estabelece o § 3.º do artigo 1.º, o presente regulamento não visa o
 
 A) Cálculo de esforços
 
-###### Artigo 27.º - Estruturas reticuladas
+Artigo 27.º - Estruturas reticuladas
 
 A determinação dos esforços nas secções das barras de estruturas reticuladas deve fazer-se tendo em conta as condições de equilíbrio estático e as de compatibilidade das deformações. Atendendo às dificuldades de definir as relações reais entre os esforços e as deformações, admitir-se-á, em geral, que as deformações se produzem em regime de elasticidade perfeita.
 
@@ -1013,13 +1061,13 @@ A não linearidade da lei esforços-deformações que corresponde ao comportamen
 
 A aplicação do método das rótulas plásticas às estruturas de betão armado, como se sabe, em alguns casos não conduz a soluções satisfatórias do ponto de vista da segurança; aceita-se, no entanto, para as combinações de solicitações do tipo II, em virtude da grande aleatoriedade deste tipo de solicitações, e por se tratar de um método de aplicação prática e simples.
 
-###### Artigo 28.º - Redistribuição de esforços
+Artigo 28.º - Redistribuição de esforços
 
 Para os tipos de estruturas indicados no quadro seguinte (ou a eles assimiláveis), pode proceder-se à redistribuição dos esforços obtidos na hipótese de comportamento elástico, multiplicando os momentos flectores máximos por coeficientes de redistribuição, (ró), de valores não inferiores aos indicados no quadro, e modificando, consequentemente, os diagramas de momentos flectores de modo a respeitar as condições de equilíbrio estático com as solicitações aplicadas.
 
 Coeficientes de redistribuição, (ró)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Os coeficientes de redistribuição indicados foram obtidos empregando, com o auxílio de computadores, métodos de cálculo não linear, e considerando diagramas momentos-curvaturas bilineares que muito aproximadamente representam os diagramas reais correspondentes à utilização de betões correntes e de aços das classes indicadas, dentro das percentagens de armadura usuais. Estes diagramas têm em consideração as hipóteses adoptadas pelo C. E. B., nomeadamente no que se refere aos valores limites das extensões do betão e do aço.
 
@@ -1029,7 +1077,7 @@ Para uma dada estrutura, à medida que se diminui o coeficiente de redistribuiç
 
 Redistribuições importantes podem conduzir também a considerável aumento de fendilhação, pois que em serviço se atingirão, nas secções em que se efectuaram reduções da capacidade resistente, percentagens dos momentos de rotura bastante mais elevadas do que no caso de a capacidade resistente ser distribuída de acordo com os resultados do cálculo elástico. É esta mais uma razão para limitar a amplitude das redistribuições, devendo ainda procurar-se, nas secções em que se reduziu a capacidade resistente, adoptar disposições de armaduras que permitam reduzir a largura das fendas (sobretudo mediante a utilização de varões de pequeno diâmetro).
 
-###### Artigo 29.º - Estruturas laminares
+Artigo 29.º - Estruturas laminares
 
 A determinação dos esforços em estruturas laminares deve fazer-se, em geral, de acordo com a hipótese de que as deformações se produzem em regime de elasticidade perfeita, e considerando sòmente as secções de betão.
 
@@ -1043,7 +1091,7 @@ Também neste caso, do mesmo modo que para as estruturas reticuladas, não dever
 
 No que se refere às lajes aligeiradas, do tipo definido no artigo 57.º do presente regulamento, os esforços serão em geral determinados pela teoria elástica, podendo a sua capacidade resistente ser obtida assimilando-as a um conjunto de vigas em T justapostas.
 
-###### Artigo 30.º - Estruturas de outros tipos
+Artigo 30.º - Estruturas de outros tipos
 
 Os critérios utilizados para a determinação dos esforços em estruturas de tipo diferente dos considerados nos artigos anteriores devem ser, em cada caso, convenientemente justificados.
 
@@ -1051,7 +1099,7 @@ Têm-se em vista neste artigo estruturas e seus elementos constituintes que não
 
 B) Capacidade resistente
 
-###### Artigo 31.º - Tracção. Flexão simples ou composta
+Artigo 31.º - Tracção. Flexão simples ou composta
 
 A determinação da capacidade resistente das secções sujeitas a esforços de tracção e de flexão simples ou composta será geralmente feita em relação à rotura (dimensionamento à rotura), admitindo as seguintes hipóteses:
 
@@ -1085,7 +1133,7 @@ N(índice y) - Esforço normal máximo que pode ser aplicado no ponto (o, e(índ
 
 N(índice o) - Esforço normal máximo em compressão simples.
 
-###### Artigo 32.º - Compressão simples de pilares ordinários
+Artigo 32.º - Compressão simples de pilares ordinários
 
 A determinação da capacidade resistente de pilares ordinários sujeitos a esforços de compressão simples deve fazer-se em relação à rotura, atendendo ao fenómeno do varejamento, e somando as capacidades resistentes do betão e da armadura longitudinal, de acordo com as expressões seguintes:
 
@@ -1117,7 +1165,7 @@ A' - Área da armadura longitudinal;
 
 Coeficientes de varejamento para pilares ordinários, (ómega)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 3.º Os comprimentos efectivos de varejamento serão definidos em função do comprimento da peça, afectando este comprimento dos coeficientes indicados no § único do artigo 34.º
 
@@ -1125,7 +1173,7 @@ O coeficiente de redução que, nas expressões de cálculo da capacidade resist
 
 Note-se que, no caso de secções com armadura assimétrica, se está geralmente em presença de uma flexão composta, a não ser que o esforço normal actue no baricentro da secção. As expressões anteriores devem, no entanto, ser aplicadas como limitadoras do esforço normal resistente, nos termos do § 1.º do artigo 31.º
 
-###### Artigo 33.º - Compressão simples de pilares reforçados
+Artigo 33.º - Compressão simples de pilares reforçados
 
 A determinação da capacidade resistente de pilares reforçados de núcleo circular, sujeitos a esforços de compressão simples, deve fazer-se em relação à rotura, atendendo ao fenómeno do varejamento, e somando as capacidades resistentes do núcleo de betão e das armaduras, de acordo com a expressão seguinte:
 
@@ -1155,17 +1203,17 @@ A'- Área da armadura longitudinal;
 
 Coeficientes de varejamento para pilares reforçados, (ómega)'
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 3.º Os comprimentos efectivos de varejamento serão definidos em função do comprimento da peça, afectando este comprimento dos coeficientes indicados no § único do artigo 34.º
 
 § 4.º A capacidade resistente de um pilar reforçado nunca poderá ser tomada com valor superior a duas vezes a capacidade resistente do mesmo pilar considerado como ordinário.
 
-###### Artigo 34.º - Varejamento de peças solicitadas à compressão com flexão
+Artigo 34.º - Varejamento de peças solicitadas à compressão com flexão
 
 Para ter em atenção o fenómeno de varejamento de peças rectas, sujeitas à flexão composta com compressão, a excentricidade do esforço normal deve, em todas as secções, ser aumentada de uma excentricidade adicional, e(índice a), cujo valor será obtido da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § único. O comprimento efectivo de varejamento, l(índice v), será dado em função do comprimento da peça, e, pela relação l(índice v) = k l, tomando o coeficiente k os valores seguintes:
 
@@ -1201,7 +1249,7 @@ Nos casos em que se verifique flexão sòmente num plano, a consideração do va
 
 Quanto aos valores do coeficiente k necessários à determinação dos comprimentos efectivos de varejamento das colunas, preconizaram-se também os que são propostos pelo C. E. B. Recomenda-se, no entanto, prudência na escolha de tais valores, pelas dificuldades inerentes ao julgamento das situações reais.
 
-###### Artigo 35.º - Esforço transverso
+Artigo 35.º - Esforço transverso
 
 A determinação da capacidade resistente das secções sujeitas a esforço transverso deve ser feita em relação à rotura de acordo com o estipulado nos parágrafos seguintes.
 
@@ -1223,7 +1271,7 @@ Para valores desta tensão inferiores aos limites indicados no quadro seguinte, 
 
 Valores máximos da tensão de referência, (tau)(índice o), para os quais a resistência se considera exclusivamente assegurada pelo betão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 2.º Quando os valores da tensão de referência forem superiores aos limites indicados no § 1.º, deverão prever-se armaduras transversais, dimensionadas de acordo com a teoria de Mörsch, para absorver o esforço transverso de cálculo T(elevado a *) diminuído da parcela T(elevado a *)(índice b) atribuída ao betão e determinada pela expressão
 
@@ -1231,7 +1279,7 @@ T(elevado a *)(índice b) = k b(índice o) h
 
 tomando k os valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 3.º A resistência ao esforço transverso atribuída ao betão só poderá ser considerada de acordo com o estipulado nos §§ 1.º e 2.º quando, na secção em estudo, existam armaduras longitudinais capazes de resistir a um momento flector pelo menos igual a T(elevado a *) x h e desde que não se possam criar nessa secção esforços de tracção importantes, resultantes quer de forças aplicadas quer de variações de temperatura ou de retracção do betão. Quando tais condições não se verifiquem, deverão ser dimensionadas armaduras transversais para absorver a totalidade do esforço transverso de cálculo, T(elevado a *).
 
@@ -1239,13 +1287,13 @@ tomando k os valores indicados no quadro seguinte:
 
 Valores máximos da tensão de referência, (tau)(índice o)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 No presente regulamento, de acordo com as prescrições do C. E. B., baseadas em resultados experimentais recentes, considera-se a contribuição do betão para a resistência ao esforço transverso em conjunto com a contribuição das armaduras (estribos e varões inclinados). Esta orientação difere da do regulamento anterior, em que, a partir do limite para o qual se considerava que o betão podia por si só absorver os esforços transversos, se impunha a absorção da totalidade destes esforços por armaduras transversais.
 
 A contribuição do betão para a resistência ao esforço transverso é quantificada no § 2.º através do coeficiente k, cujos valores, de acordo com o C. E. B., são obtidos a partir da expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A resistência oferecida pelas armaduras transversais é, segundo a teoria de Mörsch, dada por
 
@@ -1269,7 +1317,7 @@ T(elevado a *)(índice a) = 0,9(A(índice t)/t)(sigma)(elevado a *)(índice at)h
 
 e o de varões inclinados a 45º por
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Recomenda-se, em geral, utilizar estribos fechados, com os convenientes comprimentos de sobreposição definidos de acordo com os artigos 46.º e 47.º, particularmente quando se considere a parcela de resistência ao esforço transverso atribuída ao betão. Nos casos em que a tensão de referência atinge valores elevados, é também recomendável a utilização de estribos inclinados a 45º, para cujo dimensionamento se utilizará a mesma expressão indicada anteriormente para os varões inclinados.
 
@@ -1295,13 +1343,13 @@ b(índice o) - Menor lado de uma secção rectangular ou menor dos lados menores
 
 (somatório)b(elevado a 3)(índice i)a(índice i) - Soma das quantidades b(elevado a 3)(índice i)a(índice i)correspondentes aos rectângulos que compõem uma secção em T, L ou I, sendo b(índice i) a sua menor dimensão e a(índice i) a sua maior dimensão (fig. 1).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Para valores da tensão de referência inferiores aos limites indicados no quadro seguinte, a resistência à torção considera-se assegurada exclusivamente pelo betão, não sendo necessário dispor de armaduras transversais especialmente dimensionadas para resistir ao esforço de torção.
 
 Valores máximos da tensão de referência, (tau)(índice o), para os quais a resistência se considera exclusivamente assegurada pelo betão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 2.º Quando os valores da tensão da referência forem superiores aos limites indicados no § 1.º deverão prever-se armaduras específicas, constituídas por estribos fechados e armaduras longitudinais, dimensionadas para absorver o momento de torção de cálculo M(elevado a *)(índice t) diminuído de uma parcela M(elevado a *)(índice tb) atribuída ao betão.
 
@@ -1313,7 +1361,7 @@ M(elevado a *)(índice tb) = k((somatório)b(elevado a 3)(índice i)a(índice i)
 
 tomando k os valores indicados no quadro seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A área da secção dos dois ramos dos estribos fechados é dada pela expressão
 
@@ -1341,7 +1389,7 @@ em que os símbolos têm o mesmo significado atrás definido e se supõe que o a
 
 Valores máximos da tensão de referência, (tau)(índice o)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 5.º No caso de as secções estarem sujeitas simultâneamente a esforço transverso e a torção, para que não sejam necessárias armaduras específicas, a soma dos valores das tensões de referência, definidas nos §§ 1.os do artigo 35.º e do presente artigo, não deve exceder os valores aí especificados.
 
@@ -1353,45 +1401,45 @@ Como especifica o § 2.º do artigo, os estribos a utilizar para a absorção do
 
 Os varões da armadura longitudinal devem ser distribuídos no contorno da secção, tal como está exemplificado na fig. 2, em que se esquematiza o tipo de armadura de torção a utilizar no caso de uma secção em T.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 C) Fendilhação e deformação
 
-###### Artigo 37.º - Extensão média das armaduras
+Artigo 37.º - Extensão média das armaduras
 
 Para o estudo da fendilhação e da deformação de elementos armados com aços das classes A40, A50 e A60, não sujeitos a esforços repetidos, considerar-se-á que a extensão média das armaduras, (épsilo)(índice am), está relacionada com a tensão nela existente, (sigma)(índice a), referida a uma secção fendilhada, pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A menos de justificação especial, tomar-se-ão para k(índice 1) os valores indicados no quadro seguinte em função do modo como é definida a percentagem de armadura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A expressão indicada traduz de uma forma simples a redução da extensão média das armaduras por efeito do betão que as envolve, e é utilizada não só para o cálculo da largura das fendas, mas também, de acordo com o anexo II, para o cálculo da deformabilidade de vigas, tendo em conta o fenómeno da fendilhação. Os valores do coeficiente k(índice 1) referem-se a um único ciclo de aplicação de esforços. A repetição cíclica de esforços traduz-se numa menor contribuição do betão para a redução da extensão média das armaduras e, portanto, seria necessário considerar valores de k(índice 1) consideràvelmente inferiores aos indicados.
 
 Não se generaliza o emprego desta expressão ao caso de elementos armados com aço A24 porque, para esta classe de aço, ao serem atingidas as tensões de serviço, a fendilhação não está ainda completamente estabilizada (o número de fendas ainda cresce à medida que as tensões aumentam) e a expressão referida deixa, pois, de ser aplicável. Além disso, os estudos experimentais mostram que os problemas de fendilhação se põem com muito menos acuidade para o aço macio do que para aços de classe superior, podendo, portanto, em geral, deixar de ser tomados em consideração. As mesmas razões levam a não incluir o aço macio nos dois artigos seguintes, relativos a distância média entre fendas e a largura máxima das fendas.
 
-###### Artigo 38.º - Distância média entre fendas
+Artigo 38.º - Distância média entre fendas
 
 A distância média entre fendas, d(índice f), em tirantes ou junto à face mais traccionada de vigas sujeitas à flexão simples ou composta, cujas armaduras sejam constituídas por aços das classes A40, A50 e A60, será obtida pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A menos de justificação especial, considerar-se-á k(índice 2) = 1,5 e, para k(índice 3), tomar-se-ão os valores indicados no quadro seguinte em função do modo como é definida a percentagem de armadura:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A expressão indicada para cálculo da distância média entre fendas é baseada em resultados de ensaios, não sendo aplicável aos estados de fendilhação incipiente, mas apenas aos estados de fendilhação estabilizada, em que o acréscimo das solicitações se traduz sòmente por um alargamento das fendas e não pelo aumento do seu número.
 
-Quando se utilizem varões de diferentes diâmetros, a mesma expressão pode generalizar-se fàcilmente atendendo a que a relação [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) traduz simplesmente a relação entre a área de betão de referência e o perímetro das armaduras. De facto, como
+Quando se utilizem varões de diferentes diâmetros, a mesma expressão pode generalizar-se fàcilmente atendendo a que a relação [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) traduz simplesmente a relação entre a área de betão de referência e o perímetro das armaduras. De facto, como
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
-###### Artigo 39.º - Largura máxima das fendas
+Artigo 39.º - Largura máxima das fendas
 
 A limitação da largura máxima das fendas, w(índice max), em tirantes ou junto à face mais traccionada de vigas sujeitas à flexão simples ou composta, cujas armaduras sejam constituídas por aços das classes A40, A50 e A60, será obtida pela expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A expressão para a limitação da largura máxima de fendas foi estabelecida a partir das expressões indicadas nos artigos 37.º e 38.º, considerando que a largura média das fendas é dada pelo produto da distância média entre fendas pela extensão média das armaduras. Desprezou-se, portanto, a extensão média do betão. Note-se que não será válido desprezar tal extensão se a retracção tomar valores importantes e for impedida por ligações exteriores.
 
@@ -1399,13 +1447,13 @@ A análise estatística dos resultados disponíveis mostra que, considerando com
 
 Para cálculo da largura máxima obter-se-ia, pois, a expressão
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 A relação média entre as larguras calculadas pela expressão anterior e os valores medidos é muito próxima da unidade. Esta relação, para o conjunto dos resultados disponíveis, apresenta um coeficiente de variação de 30%. Por esta razão, considerou-se conveniente limitar a largura das fendas multiplicando os valores teóricos por 1,3, o que permite reduzir a cerca de 15% a probabilidade de estes valores serem de facto excedidos. Obteve-se assim a expressão que consta do corpo do artigo, a qual foi também utilizada para o estabelecimento das regras simplificadas que constam do artigo 67.º
 
 Note-se, finalmente, que a aplicabilidade da mesma expressão se limita ao cálculo da largura máxima das fendas em tirantes e junto à face mais traccionada de vigas, o que ocorre também em relação à expressão de cálculo da distância média entre fendas apresentada no artigo 38.º No caso de vigas de grande altura, poderão formar-se, na alma, fendas com larguras superiores às existentes junto da face mais traccionada. Tal comportamento deve-se, em geral, ao facto de sòmente algumas destas fendas se propagarem para a zona superior da alma, obtendo-se, portanto, uma fendilhação muito mais espaçada e, consequentemente, com fendas de maior largura. Para obviar a este inconveniente, torna-se por vezes necessária a utilização de armaduras de alma conjugadas com convenientes disposições de armadura principal (artigos 66.º e 68.º).
 
-###### Artigo 40.º - Deformação de vigas
+Artigo 40.º - Deformação de vigas
 
 Para o estudo da deformação de vigas devida às combinações de solicitações do tipo I (R. S. E. P.), deverão utilizar-se os dados fornecidos no anexo II, em que são considerados diagramas momentos-curvaturas bilineares que traduzem os dois tipos de comportamento seguintes:
 
@@ -1425,7 +1473,7 @@ Como se indica no comentário no artigo 37.º, a expressão para cálculo da ext
 
 A) Disposições gerais
 
-###### Artigo 41.º - Armaduras principais e secundárias
+Artigo 41.º - Armaduras principais e secundárias
 
 Nas estruturas de betão armado devem dispor-se, sempre que necessário, além das armaduras principais dimensionadas de acordo com as regras estabelecidas no presente regulamento, armaduras secundárias que garantam a conveniente ligação das diversas partes dos elementos e que impeçam o alargamento de fendilhação localizada.
 
@@ -1433,7 +1481,7 @@ Nas estruturas de betão armado devem dispor-se, sempre que necessário, além d
 
 Como se sabe, a segurança das estruturas de betão armado não poderá, em geral, basear-se na resistência do betão à tracção. Por isso, além das armaduras que são directamente calculadas para resistir aos esforços principais, é por vezes necessário dispor armaduras que efectuem a ligação entre partes que tenham possibilidade de se destacar e que obviem ao alargamento da fendilhação localizada que pode ocorrer, por exemplo, nos casos de variações bruscas de secção, furos, entalhes, etc. Nos casos em que se não disponha de regras para o dimensionamento de tais armaduras, elas terão de ser estabelecidas segundo o senso prático do projectista.
 
-###### Artigo 42.º - Utilização simultânea de aços de diferentes classes
+Artigo 42.º - Utilização simultânea de aços de diferentes classes
 
 A utilização em conjunto de aços de diferentes classes não é permitida desde que possa conduzir a erros provenientes de deficiente identificação dos varões.
 
@@ -1441,7 +1489,7 @@ A utilização em conjunto de aços de diferentes classes não é permitida desd
 
 A utilização em conjunto de aços de diferentes classes pode ser imposta, em certos casos, por necessidades construtivas, e não apresenta inconvenientes desde que não conduza a erros de identificação. Por exemplo, utilizam-se por vezes armaduras de aço A40 em conjunto com redes electrossoldadas de aço A50.
 
-###### Artigo 43.º - Distâncias mínimas entre varões
+Artigo 43.º - Distâncias mínimas entre varões
 
 As distâncias mínimas entre varões devem ser tais que permitam realizar a betonagem em boas condições. Em qualquer caso, devem respeitar-se as regras especificadas nos parágrafos seguintes.
 
@@ -1453,7 +1501,7 @@ As distâncias mínimas entre varões devem ser tais que permitam realizar a bet
 
 § 4.º Nos casos em que se reconheça vantagem no agrupamento de varões, será permitido fazê-lo desde que não se utilizem grupos de mais de dois varões. Neste caso, o intervalo entre o agrupamento assim constituído e o varão mais próximo, na direcção do agrupamento, não deverá ser inferior à soma dos diâmetros dos varões agrupados, com o mínimo de 2 cm (figs. 4-b e c).
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 As distâncias mínimas entre varões estão fundamentalmente condicionadas pela granulometria do betão utilizado, pois é necessário não reduzir essas distâncias de tal forma que se impeça o necessário envolvimento de todas as armaduras pelo betão.
 
@@ -1461,7 +1509,7 @@ Os valores indicados são mínimos absolutos que em nenhum caso devem ser desres
 
 No entanto, admite-se realizar agrupamentos de dois varões, já pela vantagem que isso apresenta em certos casos, como por exemplo nos cantos de pilares, já porque a experiência tem mostrado que tal técnica não conduz a inconvenientes desde que se cuide de manter condições que permitam betonagem satisfatória.
 
-###### Artigo 44.º - Recobrimento das armaduras
+Artigo 44.º - Recobrimento das armaduras
 
 O recobrimento das armaduras deve ser tal que garanta a aderência e a conservação destas durante a vida da obra, devendo respeitar-se os valores indicados nos parágrafos seguintes.
 
@@ -1481,17 +1529,17 @@ As condições indicadas para os recobrimentos visam principalmente a protecçã
 
 O interesse de limitar a distância máxima das armaduras à superfície resulta de a espessura das fendas aumentar proporcionalmente a essa distância e de, portanto, quando a distância é grande, se ser conduzido a fendas largas que constituem fácil caminho para a penetração dos agentes corrosivos. Mediante a utilização de armaduras de pele, é possível distribuir a fendilhação, obtendo-se, em vez de algumas fendas largas, numerosas fendas estreitas que, do ponto de vista de corrosão, são muito menos inconvenientes.
 
-###### Artigo 45.º - Dobragem de varões
+Artigo 45.º - Dobragem de varões
 
-As dobragens dos varões devem ser executadas com os diâmetros de curvatura interiores mínimos especificados no quadro seguinte, expressos em função do diâmetro [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) dos varões:
+As dobragens dos varões devem ser executadas com os diâmetros de curvatura interiores mínimos especificados no quadro seguinte, expressos em função do diâmetro [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) dos varões:
 
 Diâmetros de curvatura mínimos nas dobragens
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 Chama-se particularmente a atenção para os inconvenientes que podem resultar de dobrar os varões segundo diâmetros menores do que os indicados neste artigo. De facto, visto que as qualificações especificadas para os aços (artigo 11.º) sòmente impõem que se não produzam fendas para diâmetros de dobragem pouco inferiores aos diâmetros de curvatura indicados, o não respeitar os referidos mínimos pode conduzir a fendilhação dos varões difícil de detectar e que muito pode prejudicar a resistência das peças. Este facto é particularmente importante nos estribos de aços de alta resistência, para os quais se pode ser, por rotina, induzido a utilizar diâmetros de dobragem análogos aos correntemente aplicados para o aço macio.
 
-###### Artigo 46.º - Amarração de varões
+Artigo 46.º - Amarração de varões
 
 As amarrações dos varões devem ser previstas de modo que a capacidade resistente destes se possa desenvolver integralmente.
 
@@ -1499,17 +1547,17 @@ As amarrações de varões de tipo liso serão terminadas por ganchos, à excep�
 
 Nas amarrações de varões de tipo nervurado dispensa-se o uso de ganchos, excepto no caso de armaduras de tirantes.
 
-§ 1.º Em geral, a amarração de varões deve ser feita prolongando-os dos comprimentos de amarração, l(índice a) indicados no quadro seguinte, expressos em função do diâmetro [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) dos varões:
+§ 1.º Em geral, a amarração de varões deve ser feita prolongando-os dos comprimentos de amarração, l(índice a) indicados no quadro seguinte, expressos em função do diâmetro [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) dos varões:
 
 Comprimentos de amarração, l(índice a)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 § 2.º Nos encastramentos, os comprimentos de amarração, l(índice a), devem ser contados a partir do ponto indicado na fig. 5.
 
 § 3.º Os varões levantados que desempenhem funções resistentes ao esforço transverso devem prolongar-se, na zona de compressão, para além dos pontos em que atinjam o nível das armaduras principais ou dos varões de montagem, de pelo menos metade dos comprimentos de amarração, l(índice a) (fig. 5).
 
-§ 4.º Os varões devem ser prolongados, para além das secções de momento nulo, de comprimentos pelo menos iguais a 10 [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) (fig. 5).
+§ 4.º Os varões devem ser prolongados, para além das secções de momento nulo, de comprimentos pelo menos iguais a 10 [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) (fig. 5).
 
 § 5.º Devem prolongar-se sempre, até aos apoios das vigas, armaduras cuja área seja, pelo menos, 1/3 da área das armaduras na secção de momento máximo no vão, e sejam constituídas, no mínimo, por dois varões.
 
@@ -1517,11 +1565,11 @@ Comprimentos de amarração, l(índice a)
 
 § 7.º No caso de emprego de varões de tipo liso em armaduras longitudinais de pilares, pode dispensar-se o emprego de ganchos nas terminações ou nas emendas por sobreposição de varões que não estejam sujeitos a esforços de tracção ou, no caso de estruturas de edifícios de andares do tipo corrente, quando aquelas terminações ou emendas sejam realizadas aproximadamente a meia altura dos pilares, entre andares.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
 
 De acordo com o disposto neste artigo, quando se trate da interrupção de varões que vão sendo dispensados em face do diagrama de momentos flectores, há que aplicar as regras de amarração especificadas, prolongando os varões dos necessários comprimentos de amarração, l(índice a) para além dos pontos em que teòricamente deixam de ser necessários.
 
-###### Artigo 47.º - Emenda de varões
+Artigo 47.º - Emenda de varões
 
 Os varões devem ser emendados o menos possível e, de preferência, em zonas em que a tensão a que estão submetidos seja relativamente baixa. Numa mesma secção não se pode emendar mais do que um terço dos varões aí existentes.
 
@@ -1543,7 +1591,7 @@ Recomenda-se também que, de acordo com o § 3.º do presente artigo, as zonas d
 
 Recomenda-se que a utilização de ligações roscadas seja precedida, à semelhança do que se preconiza para as ligações soldadas, de ensaios laboratoriais que comprovem a eficiência desse tipo de ligação.
 
-###### Artigo 48.º - Juntas de dilatação
+Artigo 48.º - Juntas de dilatação
 
 Com vista a obviar aos efeitos das variações de temperatura e da retracção do betão, deverão prever-se juntas de dilatação convenientemente espaçadas.
 
@@ -1553,13 +1601,13 @@ As juntas de dilatação devem ter execução cuidada, de modo a garantir o seu 
 
 A largura das juntas será proporcionada às deformações previsíveis e, no caso em que é dispensada a consideração dos efeitos das variações de temperatura, quando o espaçamento entre juntas não excede os limites fixados no § 2.º do artigo 23.º, a sua largura não deve ser inferior a 5 mm, sem prejuízo do disposto no Regulamento de Segurança das Construções contra os Sismos.
 
-###### Artigo 49.º - Protecção contra a corrosão
+Artigo 49.º - Protecção contra a corrosão
 
 Devem ser tomadas medidas especiais contra a corrosão sempre que os elementos das estruturas se encontrem expostos à acção de agentes corrosivos, tais como ácidos, álcalis, águas, óleos ou gases agressivos.
 
 Dentre as medidas a considerar exemplificam-se as seguintes: estudo especial da composição do betão, aumento do diâmetro e do recobrimento das armaduras em relação aos casos normais, aumento dos coeficientes de majoração das solicitações ou redução das tensões de segurança, e protecção das superfícies de betão por meio de pinturas ou de revestimentos especiais.
 
-###### Artigo 50.º - Protecção contra o fogo
+Artigo 50.º - Protecção contra o fogo
 
 A protecção das estruturas de betão armado contra o fogo deve ser considerada de acordo com os regulamentos e disposições em vigor. Nas construções particularmente sujeitas a risco de incêndio devem as estruturas ser estudadas e, se for caso disso, protegidas atendendo a este risco.
 
@@ -1567,7 +1615,7 @@ Além da adopção de disposições gerais destinadas a limitar os riscos de inc
 
 B) Disposições relativas a lajes maciças
 
-###### Artigo 51.º - Vãos teóricos
+Artigo 51.º - Vãos teóricos
 
 Os vãos teóricos a considerar no dimensionamento das lajes maciças devem ser estabelecidos tendo em conta as condições efectivas de apoio.
 
@@ -1579,2134 +1627,12 @@ Nas lajes contínuas, a distância entre eixos dos apoios.
 
 As condições efectivas de apoio podem não corresponder às regras simplificadas que constam do corpo do artigo (por exemplo, no caso de apoios de grande largura). Em tais casos, as condições reais de apoio devem ser devidamente consideradas.
 
-###### Artigo 52.º - Espessura mínima
+Artigo 52.º - Espessura mínima
 
 A espessura mínima das lajes maciças será de 7 cm, com excepção das lajes destinadas a coberturas ordinárias ou a terraços não acessíveis (artigo 13.º do R. S. E. P.), nas quais aquela dimensão pode descer a 5 cm.
 
-###### Artigo 53.º - Altura útil mínima
+Artigo 53.º - Altura útil mínima
 
 A altura útil h das lajes maciças, a menos de justificação especial conforme o estipulado no artigo 19.º, deve estar relacionada com o vão teórico, l, pela expressão
 
-(l/h)=
-
-em que k(índice 1) toma os seguintes valores:
-
-... Valor de k(índice 1)
-
-Lajes simplesmente apoiadas armadas numa só direcção ... 1,0
-
-Lajes contínuas armadas numa só direcção ... 1,2
-
-Lajes duplamente encastradas armadas numa só direcção ... 2,0
-
-Lajes simplesmente apoiadas armadas em cruz ... 1,4
-
-Lajes contínuas armadas em cruz ... 1,7
-
-Lajes em consola ... 0,3
-
-e k(índice 2) tem os valores indicados no quadro seguinte:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ único. Nas lajes armadas em cruz deverá tomar-se para valor de l o correspondente ao menor vão. No caso de a relação entre os vãos ser superior a 1,5, devem considerar-se os valores de k(índice 1) correspondentes às lajes armadas numa só direcção.
-
-Pretende-se com a limitação das relações l/h garantir que a deformabilidade das lajes seja suficientemente pequena; no entanto, a regra simplificada que se apresenta não tem em consideração vários parâmetros que, em certos casos, podem ter influência na deformabilidade.
-
-Quando não se respeitem os limites especificados, haverá que proceder ao cálculo das flechas como indica o artigo 40.º, e à sua limitação de acordo com o artigo 19.º
-
-Artigo 54.º - Armadura principal das lajes armadas numa só direcção
-
-Nas lajes maciças armadas numa só direcção, a distância entre os varões da armadura principal nas regiões de momentos máximos (positivos e negativos) não deve ser superior a uma vez e meia a espessura da laje, com o máximo de 15 cm.
-
-Artigo 55.º - Armadura de distribuição das lajes armadas numa só direcção
-
-A secção da armadura de distribuição das lajes maciças armadas numa só direcção será, no mínimo, por metro de largura de laje, 1/5 da secção da armadura principal na mesma secção.
-
-Em todas as circunstâncias e independentemente da condição anterior, a armadura de distribuição será constituída, no mínimo, por metro de largura de laje, no caso de emprego de aço A24, por quatro varões de 6 mm, e, no caso de emprego de aços A40, A50 e A60, por três varões de 5 mm (ou por um número maior de varões de diâmetro inferior a que corresponda uma secção equivalente).
-
-Se na armadura de distribuição for empregado aço de classe inferior ao da armadura principal, haverá que aumentar a secção da armadura de distribuição em proporção inversa da relação das tensões que definem as classes dos aços em causa.
-
-Artigo 56.º - Armaduras das lajes armadas em cruz
-
-As armaduras das lajes maciças armadas em cruz devem, numa e noutra direcção, obedecer às condições prescritas no artigo 54.º para a armadura principal das lajes armadas numa só direcção.
-
-C) Disposições relativas a lajes aligeiradas
-
-Artigo 57.º - Características geométricas
-
-Para efeitos do presente regulamento, consideram-se como lajes aligeiradas as lajes nervuradas, numa ou em duas direcções, obtidas pela inclusão de elementos ocos ou por meio de cofragens especiais e que obedecem aos seguintes requisitos (fig. 7):
-
-A distância entre faces de nervuras consecutivas não é superior a 70 cm;
-
-A largura das nervuras não é inferior a 0,25 da altura total da laje, com o mínimo de 5 cm;
-
-A espessura da laje superior (lajeta) não é inferior a 0,10 da distância entre faces de nervuras, com o mínimo de 3 cm (fig. 7-a); no caso de esta lajeta ter a face inferior abobadada (fig. 7-b), a espessura no fecho da abóbada pode ser reduzida a 3 cm desde que, junto às nervuras, a espessura da lajeta seja superior a 0,15 da distância entre faces de nervuras, com o mínimo de 5 cm.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os condicionamentos geométricos indicados no artigo devem ser satisfeitos para as lajes nervuradas numa ou em duas direcções; neste último caso, as espessuras mínimas da lajeta serão condicionadas pelo maior espaçamento entre nervuras.
-
-Como é referido no comentário do artigo 29.º, os esforços de cálculo a considerar no dimensionamento das lajes aligeiradas podem ser determinados pelas teorias elásticas aplicáveis às lajes maciças; a capacidade resistente pode ser obtida considerando estas lajes como constituídas por uma associação de vigas em T justapostas, em que se tomará como secção activa apenas a parte constituída por betão, desprezando-se qualquer contribuição dos elementos de cofragem.
-
-Artigo 58.º - Vãos teóricos. Altura útil mínima
-
-No estabelecimento dos vãos teóricos e da altura útil das lajes aligeiradas aplicar-se-ão as condições estipuladas para as lajes maciças nos artigos 51.º e 53.º
-
-Artigo 59.º - Armadura de distribuição
-
-Nas lajes aligeiradas deve dispor-se, na lajeta e transversalmente ao vão principal, uma armadura de distribuição constituída, no mínimo, por metro de largura de laje, no caso de emprego de aço A24, por quatro varões de 6 mm, e, no caso de emprego de aços A40, A50 e A60, por três varões de 5 mm (ou por um número maior de varões de diâmetro inferior a que corresponda uma secção equivalente).
-
-A armadura de distribuição destina-se a conferir às lajes aligeiradas a necessária resistência a acções tais como variações de temperatura importantes (no caso de coberturas) ou cargas concentradas; se as cargas deste tipo forem severas, podem, eventualmente, implicar problemas de punçoamento da lajeta, que há que estudar com a devida atenção, condicionando a espessura daquele elemento e a armadura de distribuição a utilizar.
-
-De acordo com o disposto no artigo, a armadura de distribuição será colocada normalmente às nervuras das lajes que as possuam numa só direcção, enquanto que, nas lajes nervuradas em duas direcções, será colocada normalmente às nervuras dispostas segundo o vão principal, ou seja, aquela a que corresponde momento flector de maior valor por metro de largura de laje.
-
-Artigo 60.º - Nervuras transversais das lajes nervuradas numa só direcção
-
-Nas lajes aligeiradas nervuradas numa só direcção, devem dispor-se nervuras transversais de solidarização (tarugos), cujo espaçamento, entre si e aos apoios, não deve ser superior a 2,00 m. Estas nervuras terão 5 cm de largura, pelo menos, e uma armadura colocada inferiormente cuja secção será, no mínimo, 0,10 da secção da armadura principal correspondente a uma largura de laje igual à distância entre tarugos.
-
-O tarugamento das lajes nervuradas numa só direcção é necessário para garantir a solidarização das nervuras, permitindo o seu funcionamento conjunto, particularmente quando da actuação de cargas concentradas, quer permanentes (caso das paredes divisórias) quer acidentais. No caso da ocorrência de cargas deste tipo de valor muito importante, as armaduras dos tarugos devem ser convenientemente dimensionadas.
-
-Se na armadura dos tarugos for empregado aço de classe inferior ao da armadura principal, haverá que aumentar a secção daquela armadura em proporção inversa da relação das tensões que definem as classes dos aços em causa.
-
-D) Disposições relativas a vigas
-
-Artigo 61.º - Vãos teóricos
-
-Os vãos teóricos a considerar no dimensionamento das vigas devem ser estabelecidos tendo em conta as condições efectivas de apoio. Nos casos correntes, devem adoptar-se para vão teórico os seguintes valores:
-
-Nas vigas simplesmente apoiadas, a distância entre os eixos dos apoios e, se estes forem consideràvelmente largos, o vão livre aumentado de 5%;
-
-Nas vigas contínuas, a distância entre eixos dos apoios.
-
-Tal como se refere no comentário do artigo 51.º, podem as condições efectivas de apoio exigir a adopção de esquemas para a definição dos vãos teóricos diferentes dos indicados no corpo do artigo.
-
-Artigo 62.º - Largura do banzo das vigas em T
-
-A largura máxima a considerar para o banzo das vigas em T ou em L deverá ser estabelecida tendo em conta as condições de apoio (simples ou com continuidade), o modo de aplicação das solicitações (concentradas ou distribuídas), as características geométricas das vigas, o seu espaçamento e a existência de esquadros na ligação do banzo à alma.
-
-§ único. A menos de determinações mais precisas, a largura do banzo das vigas em T pode ser obtida, em geral, adicionando à largura da alma, de um e de outro lado, uma largura que não exceda o menor dos seguintes valores:
-
-1/2 da distância entre faces das almas de vigas consecutivas;
-
-1/10 da distância entre pontos de momento nulo;
-
-1/10 do vão, no caso de vigas simplesmente apoiadas.
-
-No caso de vigas em L, esta largura será adicionada de uma só vez à largura da alma.
-
-A regra simplificada que consta do § único está de acordo com as prescrições do C. E. B., e poderá ser utilizada não só para o estudo da capacidade resistente de secções, mas também para o estudo da deformabilidade das vigas, tanto no cálculo de flechas como no estudo de estruturas hiperstáticas.
-
-Artigo 63.º - Altura útil mínima
-
-A altura útil h das vigas, a menos de justificação especial conforme o estipulado no artigo 19.º, deve estar relacionada com o vão teórico, l, pela expressão
-
-(l/h)=
-
-em que k(índice 1) toma os seguintes valores:
-
-... Valor de k(índice 1)
-
-Vigas simplesmente apoiadas ... 1,0
-
-Vigas duplamente encastradas ... 2,0
-
-Vigas contínuas ... 1,2
-
-Vigas em consola ... 0,3
-
-e k(índice 2) tem os valores indicados no quadro seguinte:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Pelas razões apontadas no comentário do artigo 53.º, deverá, quando não se respeitem os limites especificados no presente artigo, proceder-se ao cálculo das flechas de acordo com o estipulado no artigo 40.º, e à sua limitação de acordo com o artigo 19.º
-
-Artigo 64.º - Armadura principal mínima
-
-Nas vigas, a percentagem de armadura principal deve satisfazer aos valores mínimos especificados no quadro seguinte:
-
-Percentagem mínima de armadura principal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-As percentagens mínimas de armadura especificadas são inferiores às percentagens que se utilizam, em geral, na prática. No entanto, condicionamentos arquitectónicos ou outros podem impor dimensões tais aos elementos que as percentagens de armadura a que se seria conduzido pelas regras gerais de dimensionamento fossem excessivamente baixas, o que se considera inconveniente. Reconheceu-se, por isso, a necessidade de estabelecer percentagens mínimas que confiram aos elementos resistências proporcionadas às suas dimensões.
-
-Artigo 65.º - Armadura transversal mínima
-
-Nas vigas, deverá dispor-se sempre uma armadura transversal, constituída por estribos com uma área de secção transversal total A(índice t), por estribo, no mínimo de
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Percentagem mínima de armadura transversal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ único. O diâmetro dos estribos não poderá ser inferior a 6 mm para aço A24 e a 5 mm para aços A40, A50 e A60. A distância entre estribos não deve ser superior nem a 30 cm nem a 0,75 da altura útil das vigas.
-
-Recomenda-se, em geral, utilizar estribos fechados, com os comprimentos de sobreposição convenientes, particularmente quando, de acordo com o artigo 35.º, seja considerada a contribuição do betão para a resistência ao esforço transverso. Nos casos em que existe torção, os estribos têm de ser forçosamente fechados, conforme especifica o artigo 36.º
-
-Nas zonas das vigas em que existam armaduras de compressão, o espaçamento dos estribos deve também evidentemente satisfazer à regra de espaçamento de cintas de pilares ordinários especificada no artigo 71.º
-
-Artigo 66.º - Armadura de alma
-
-Nas vigas de altura superior aos mínimos a seguir especificados, deve dispor-se uma armadura de alma, de aço da mesma classe do utilizado na armadura principal, constituída por varões longitudinais dispostos junto às faces laterais e distribuídos ao longo da zona traccionada. Esta armadura deve satisfazer às regras indicadas nos parágrafos seguintes.
-
-§ 1.º Nas vigas armadas com aços A40 e A50 de altura superior a 1,00 m, e nas vigas armadas com aço A60 de altura superior a 0,80 m, a armadura de alma a colocar junto de cada face não deve ser inferior ao menor dos limites seguintes:
-
-0,0005 da secção da alma (b x h no caso de vigas rectangulares; b(índice 0) x h no caso de vigas em T);
-
-0,10 da secção da armadura principal no caso de aço A40, 0,15 no caso de aço A50 e 0,20 no caso de aço A60.
-
-§ 2.º As distâncias dos eixos dos varões da armadura de alma entre si, aos varões mais próximos da armadura principal e ao eixo neutro não devem ser superiores a 20 cm. A distância dos varões da armadura de alma aos varões mais próximos da armadura principal deve ser maior que 6 cm.
-
-§ 3.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º
-
-A necessidade de colocação de armaduras de alma em vigas de grande altura armadas com aços de alta resistência resulta do fenómeno de arborização das fendas, que consiste na reunião das numerosas fendas de pequena largura que se formam ao longo da armadura traccionada, num pequeno número de fendas de grande largura, a meia altura da alma. A conveniente colocação de armaduras junto às faces da alma das vigas permite obviar a este fenómeno.
-
-Embora não seja especificada a utilização de armaduras de alma em vigas de grande altura armadas com aço A24, é recomendável, no entanto, adoptar nesse caso disposições semelhantes às indicadas neste artigo.
-
-Artigo 67.º - Diâmetro máximo dos varões da armadura principal
-
-Nas vigas armadas com aços A40, A50 e A60, os diâmetros máximos dos varões da armadura principal de tracção devem obedecer às condições especificadas no quadro seguinte:
-
-Diâmetros máximos dos varões da armadura principal (mm)
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-O conhecimento das leis que regem os fenómenos de fendilhação permite relacionar a largura máxima das fendas com as tensões a que se encontram submetidas as armaduras de tracção e, bem assim, com a relação entre o diâmetro dos varões que constituem essas armaduras e a percentagem da sua secção transversal relativamente à secção transversal da alma das vigas (ver artigos 37.º a 39.º).
-
-As regras preconizadas no corpo deste artigo traduzem as referidas leis de uma forma simples do ponto de vista do projectista, respeitando os critérios de segurança em relação à fendilhação estabelecidos no artigo 18.º
-
-Em elementos armados com aço A24 não há qualquer limitação prática a impor ao diâmetro máximo dos varões, dentro da gama de fabrico normalizada.
-
-Artigo 68.º - Constituição da armadura principal
-
-Nas vigas, o número de camadas de varões da armadura principal de tracção, na zona de momentos máximos, deve ser, no mínimo, igual ao valor indicado no quadro seguinte:
-
-Número mínimo de camadas da armadura principal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ 1.º Cada camada de varões deve compreender, pelo menos, dois varões colocados junto às faces laterais da viga.
-
-§ 2.º Numa camada de varões, o menor diâmetro dos varões não pode ser menor do que 2/3 do maior diâmetro dos varões utilizados nessa camada ou na camada adjacente mais traccionada.
-
-§ 3.º Na camada de varões adjacente à face mais traccionada, o espaçamento dos varões que a constituem será, no máximo, 25 cm quando seja empregado aço A24 e 15 cm quando sejam empregados aços A40, A50 e A60.
-
-§ 4.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º
-
-Para evitar fendilhação inconveniente, interessa que, além das limitações dos diâmetros máximos dos varões a utilizar, se respeitem disposições gerais de distribuição das armaduras, que são igualmente importantes para conseguir uma conveniente repartição das fendas e, portanto, a limitação da largura destas.
-
-As regras relativas ao número mínimo de camadas de armadura conferem uma altura conveniente ao tirante constituído pelas armaduras, obrigando à distribuição destas não só junto à face mais traccionada, mas também junto às faces laterais. Note-se que para o aço A24 não é de exigir o respeito por esta disposição.
-
-E) Disposições relativas a pilares
-
-Artigo 69.º - Dimensões mínimas
-
-Os pilares devem, em geral, ter dimensões transversais superiores a 1/20 da sua altura, com o mínimo de 20 cm.
-
-§ único. A espessura de paredes que desempenhem funções de suporte vertical análogas às de pilares não será inferior a 15 cm. No caso de pilares de secção composta (por exemplo em T ou em L), a espessura dos elementos rectangulares que compõem a secção pode descer a 15 cm.
-
-As disposições relativas a dimensões mínimas de pilares destinam-se não só a garantir a segurança para o suporte das cargas verticais, pois, à medida que se reduz a espessura de um elemento, é mais provável que um eventual defeito abranja grande parte da secção, mas também a contribuir para que não seja excessivamente reduzida a capacidade de resistência a acções horizontais. Para melhorar globalmente esta capacidade de resistência, convém que, a um dado nível de uma estrutura de edifício, os pilares não possuam todos as suas faces maiores orientadas numa mesma direcção.
-
-Artigo 70.º - Armadura longitudinal de pilares ordinários
-
-Os pilares ordinários sujeitos a compressão simples ou flexão composta devem possuir armaduras longitudinais satisfazendo às condições expressas nos parágrafos seguintes.
-
-§ 1.º A secção transversal das armaduras longitudinais, no caso de ser utilizado aço A24, nunca será inferior nem a 0,8% da secção de betão necessária para resistir por si só ao esforço normal de cálculo nem a 0,4% da secção total do pilar; para os aços A40, A50 e A60, aqueles limites serão, respectivamente, 0,6 e 0,3%.
-
-§ 2.º As armaduras longitudinais serão, no mínimo, constituídas por quatro varões de 12 mm de diâmetro no caso de aço A24 e de 10 mm no caso de aços A40, A50 e A60 (ou por maior número de varões com área equivalente).
-
-§ 3.º O espaçamento dos varões longitudinais será, no máximo, de 35 cm.
-
-§ 4.º A percentagem máxima de armadura longitudinal, em relação à secção total do pilar, é indicada no quadro seguinte em função da classe do betão:
-
-Percentagem máxima de armadura longitudinal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-As disposições indicadas para as armaduras longitudinais dos pilares procuram garantir a estes a resistência e a ductilidade indispensáveis para o eficiente desempenho das importantes funções inerentes a este tipo de elemento de construção.
-
-Considerou-se necessário completar a prescrição que vigorava no regulamento anterior e que estabelecia a percentagem mínima de armadura em função da secção de betão necessária para suportar o esforço normal actuante, por uma nova condição que faz também depender esta armadura mínima da secção total de betão efectivamente existente.
-
-Artigo 71.º - Armadura transversal de pilares ordinários
-
-Os pilares ordinários devem possuir armaduras transversais que cintem convenientemente os varões da armadura longitudinal e que satisfaçam às condições expressas nos parágrafos seguintes.
-
-§ 1.º A distância entre os eixos das cintas não deverá ser maior do que a menor dimensão transversal do pilar nem maior do que doze vezes o diâmetro dos varões longitudinais; esta distância também nunca deverá exceder 25 cm.
-
-§ 2.º Sempre que se utilizem armaduras longitudinais de diâmetro igual ou superior a 25 mm, as cintas devem ser constituídas, no mínimo, por varões de 8 mm de diâmetro.
-
-Artigo 72.º - Armaduras longitudinais de pilares reforçados
-
-Os pilares reforçados devem possuir uma armadura longitudinal cuja área esteja compreendida entre 1 e 6% da área do núcleo de betão cintado.
-
-Artigo 73.º - Armadura transversal de pilares reforçados
-
-A armadura longitudinal dos pilares reforçados deve ser envolvida por uma armadura transversal constituída por cintas circulares ou por um varão contínuo enrolado em hélice, tal que a distância entre os eixos das cintas ou o passo da hélice não exceda nem 1/5 do diâmetro do núcleo de betão nem 8 cm.
-
-Para que sejam eficazes, as cintas circulares têm de ser fechadas, com os convenientes comprimentos de sobreposição especificados nos artigos 46.º e 47.º
-
-CAPÍTULO V
-
-Execução dos trabalhos
-
-Artigo 74.º - Moldes e cimbres
-
-Os moldes e cimbres devem ser executados de forma a satisfazer as seguintes condições:
-
-a) Suportarem com segurança satisfatória as solicitações a que vão estar sujeitos, nomeadamente as provenientes do impulso do betão fresco durante a sua compactação;
-
-b) Não sofrerem deformações excessivas, de modo que a forma da estrutura executada corresponda, dentro das tolerâncias previstas, à estrutura projectada;
-
-c) Serem suficientemente estanques para não permitirem a fuga da argamassa; no caso de serem constituídos por materiais que absorvam água, devem ser abundantemente molhados antes da betonagem;
-
-d) Serem fàcilmente desmontáveis e, no caso de peças importantes, serem providos de dispositivos convenientes para a desmoldagem (cunhas, caixas de areia, etc.);
-
-e) Disporem de aberturas que permitam a sua conveniente limpeza e inspecção antes da betonagem e a fácil colocação do betão em obra.
-
-Artigo 75.º - Armaduras
-
-Na execução das armaduras e na sua colocação em obra respeitar-se-ão as seguintes condições:
-
-a) As armaduras devem ser executadas dentro das tolerâncias dimensionais previstas;
-
-b) Os varões que constituem as armaduras serão, em geral, convenientemente ligados por ataduras de arame recozido. No caso de se utilizar soldadura em aços de qualidade diferente do aço A24, há que verificar, por ensaios, se esta soldadura não afecta as propriedades mecânicas dos varões;
-
-c) As ligações dos varões devem ser convenientemente espaçadas, de modo que o conjunto se apresente com rigidez suficiente para não sofrer deformações, além das tolerâncias previstas, durante a colocação e a compactação do betão;
-
-d) Os varões colocados em obra devem estar convenientemente limpos de ferrugem solta ou de qualquer material que possa afectar a aderência ou a durabilidade dos varões.
-
-Artigo 76.º - Preparação, colocação em obra e cura do betão
-
-A preparação, a colocação em obra e a cura do betão devem ser executadas segundo as boas regras técnicas e de acordo com o especificado na legislação em vigor.
-
-Encontrando-se em fase adiantada de preparação um regulamento de betões, deixa-se para esse regulamento a codificação das regras a observar na preparação, colocação e cura do betão.
-
-Artigo 77.º - Desmoldagem e descimbramento
-
-A desmoldagem e o descimbramento sòmente deverão ser realizados quando o betão tiver adquirido resistência suficiente, não só para que seja satisfeita a segurança em relação à rotura das peças desmoldadas, mas também para que se não verifiquem deformações excessivas, tanto a curto como a longo prazo.
-
-As operações de desmoldagem e descimbramento devem ser conduzidas com os necessários cuidados, de modo a não provocar esforços inconvenientes, choques ou fortes vibrações.
-
-§ 1.º Nos casos correntes, a menos de justificação especial, em condições normais de temperatura e humidade e para betão de cimento portland normal, os prazos mínimos para a retirada dos moldes e dos escoramentos, contados a partir da data de conclusão da betonagem, são os indicados no quadro seguinte:
-
-Prazos mínimos de desmoldagem e descimbramento
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Aos prazos de desmoldagem e descimbramento indicados no quadro deverá adicionar-se o número de dias em que a temperatura do ar se tenha mantido igual ou inferior a 4ºC, durante e depois da betonagem.
-
-§ 2.º Nos casos especiais, ou nos casos tratados no § 1.º em que se pretenda não respeitar o ali especificado, os prazos de desmoldagem e descimbramento serão estabelecidos e justificados tendo em atenção o preceituado no corpo do artigo e atendendo à evolução das propriedades mecânicas do betão, convenientemente determinadas por ensaios.
-
-CAPÍTULO VI
-
-Fiscalização e ensaios
-
-Artigo 78.º - Verificação e fiscalização das obras
-
-A execução das obras de betão armado deve ser sempre acompanhada de cuidadosa verificação por parte da entidade que tem a seu cargo os trabalhos, sob o contrôle da entidade proprietária da obra ou dos seus agentes.
-
-A fiscalização do Estado ou dos corpos administrativos que têm jurisdição sobre a obra exercer-se-á independentemente daquelas verificações.
-
-As actividades de verificação e fiscalização consistem, fundamentalmente, em verificar se a obra é executada de acordo com o projecto aprovado e, nomeadamente, em:
-
-a) Comprovar a qualidade dos materiais empregados, mandando executar os ensaios necessários para esse fim e apreciando os seus resultados;
-
-b) Verificar a forma, dimensões e perfeição dos moldes, a resistência dos escoramentos e a secção e a posição das armaduras;
-
-c) Acompanhar o fabrico do betão e a sua colocação em obra, mandando colher as amostras necessárias para a posterior realização de ensaios;
-
-d) Verificar as condições em que é realizada a cura do betão e autorizar a desmoldagem dos diferentes elementos.
-
-§ único. A entidade que executa os trabalhos deve elaborar, em livro apropriado, um registo cronológico de ocorrências verificadas no decurso da obra, de que constem, nomeadamente, as datas de betonagem dos diferentes elementos, de modo a possibilitar a correcta contagem dos prazos de desmoldagem. Este livro de registo será facultado aos agentes da fiscalização do Estado ou dos corpos administrativos sempre que estes o exigirem e onde inscreverão todas as determinações e observações que o andamento dos trabalhos lhes sugerirem.
-
-Deve salientar-se a importância das actividades de verificação e fiscalização para garantir a segurança das estruturas. Esta importância é tanto mais saliente quanto mais se explora a capacidade resistente dos materiais e se utilizam processos de construção não tradicionais. Não devem, portanto, deixar nunca de ser efectivadas tais actividades.
-
-Para que se generalize o emprego dos registos de ocorrências das obras, convém que as entidades fiscalizadoras do Estado ou dos corpos administrativos efectivamente promovam e velem pela existência desses registos, prática que, aliás, tem sido seguida por vários organismos.
-
-Faz parte ainda das actividades de verificação e fiscalização velar pelo cumprimento da legislação sobre a segurança no trabalho, nomeadamente o Regulamento de Segurança no Trabalho da Construção Civil, promulgado pelo [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958.
-
-Artigo 79.º - Ensaios
-
-Durante e após a execução dos trabalhos deverá proceder-se aos ensaios necessários para comprovar a qualidade dos materiais empregados e a perfeição da execução da obra.
-
-Os ensaios serão realizados de acordo com os regulamentos e normas em vigor.
-
-§ 1.º O número de ensaios necessário para o estudo prévio da composição do betão e para o contrôle do seu fabrico dependerá da importância da obra, devendo sempre respeitar-se os mínimos regulamentarmente estabelecidos.
-
-§ 2.º Poderá dispensar-se a realização, total ou parcial, dos ensaios de recepção dos materiais, se o fornecedor apresentar prova de que a produção desses materiais é controlada pelo Laboratório Nacional de Engenharia Civil, ou por outro laboratório oficial, segundo especificações estabelecidas de acordo com aquele Laboratório.
-
-§ 3.º Quando a importância da obra o justifique e, em particular, quando tiverem sido utilizadas soluções estruturais de concepção não usual ou processos de construção especiais, deverá proceder-se à observação sistemática do comportamento das estruturas, mediante estudos realizados durante e após a construção. Estes estudos deverão ser conduzidos com vista a permitir o julgamento das condições de segurança da obra. O relatório relativo aos resultados destes estudos deverá ser junto ao projecto.
-
-ANEXO I
-
-Valores de cálculo das propriedades mecânicas dos materiais (a que se refere o artigo 21.º)
-
-A) Betões
-
-Os diagramas tensões-extensões a considerar para os betões sujeitos a compressão (diagramas de cálculo) são os indicados na fig. I-1.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Estes diagramas são definidos por ramos de parábolas que passam pela origem e têm os vértices em pontos cujas ordenadas são as tensões de cálculo (correspondentes às diferentes classes de betão) e cujas abcissas correspondem à extensão de 2(por mil).
-
-As tensões de cálculo (sigma)(elevado a *)(índice b) são obtidas pela expressão
-
-(sigma)(elevado a *)(índice b) = (0,85/1,5)(sigma)(índice bk)
-
-em que (sigma)(índice bk) é a tensão característica definidora da classe do betão (referida ao ensaio, aos 28 dias, de cubos de 20 cm de aresta). O coeficiente 0,85 tem em vista transformar a resistência assim determinada em resistência prismática, e o denominador 1,5 é o coeficiente de minoração das propriedades mecânicas do betão (ver artigo 14.º), que reduz a tensão característica a tensão de cálculo.
-
-No caso de elementos sujeitos a esforços de compressão simples (artigo 32.º), considera-se necessário aumentar este coeficiente de minoração para 2,0, em geral, e para 2,5 no caso de emprego de betão B180 não controlado. Deste modo, as tensões de cálculo a adoptar no dimensionamento de tais elementos serão, respectivamente:
-
-(0,85/2,0)(sigma)(índice bk) = 0,75(sigma)(elevado a *)(índice b), e (0,85/2,5)(sigma)(índice bk) = 0,60(sigma)(elevado a *)(índice b)
-
-Os diagramas anteriormente indicados destinam-se à determinação da capacidade resistente das secções. Para o cálculo das deformações instantâneas, no caso das combinações do tipo I (R. S. E. P.), poderá considerar-se que o diagrama tensões-extensões do betão é linear, definido por um módulo de elasticidade dado, em kgf/cm2, pela expressão
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Nos casos correntes poderá fixar-se o valor de E(índice b) considerando para valor de (sigma)(índice bj) a tensão de rotura característica, obtendo-se assim, para as diferentes classes de betão, os valores de E(índice b) que constam do quadro seguinte:
-
-Módulos de elasticidade do betão, E(índice b)
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Para o cálculo das deformações devidas a solicitações de longa duração devem considerar-se os efeitos da fluência do betão conforme é especificado no artigo 25.º
-
-Para o coeficiente de Poisson, poderá adoptar-se, em geral, o valor (ni) = 0,2.
-
-B) Aços
-
-a) Aços de dureza natural
-
-Os diagramas tensões-extensões a considerar para os varões de aço de dureza natural com cedência, das classes A24 e A40N, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-2.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-b) Aços endurecidos a frio
-
-Os diagramas tensões-extensões a considerar para os varões de aço endurecido a frio das classes A40T, A50 e A60, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-3.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os diagramas especificados para os aços são definidos por um troço recto inicial que corresponde ao comportamento elástico (com módulo de elasticidade E(índice a) = 2,1 x 10(elevado a 6) kgf/cm2).
-
-Para os aços de dureza natural, as deformações de cedência são representadas também por troços rectos, de tensão constante. Os valores de cálculo, (sigma)(elevado a *)(índice a), indicados para as tensões correspondentes a estes troços, são obtidos a partir dos valores característicos da tensão de cedência dos aços, (sigma)(índice ak), pela expressão
-
-(sigma)(elevado a *)(índice a) = ((sigma)(índice k))/1,15
-
-em que o denominador é o coeficiente de minoração das propriedades mecânicas dos aços.
-
-Para os aços endurecidos a frio, a parte curva do diagrama é obtida a partir do diagrama característico por meio de uma afinidade paralela à recta que define o comportamento elástico; as tensões de cálculo, (sigma)(elevado *)(índice a), correspondentes a uma dada extensão residual estão relacionadas com as tensões características correspondentes a essa extensão, (sigma)(índice ak), pela expressão
-
-(sigma)(elevado a *)(índice a) = ((sigma)(índice ak)/1,15)
-
-No quadro seguinte indicam-se os valores das tensões de cálculo em função das extensões residuais que lhes correspondem:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os diagramas tensões-extensões prescritos para os aços são limitados, no caso da tracção, à extensão de 10(por mil) e, no caso da compressão, à extensão de 2(por mil).
-
-ANEXO II
-
-Elementos para o cálculo das deformações de vigas
-
-(a que se refere o artigo 40.º)
-
-A) Diagramas momentos-curvaturas
-
-Os diagramas momentos-curvaturas a considerar para o cálculo das deformações de vigas rectangulares, para as combinações de solicitações do tipo I (R. S. E. P.), são os indicados nas figs. II-2 a 11.
-
-Cada diagrama é constituído por um troço inicial, correspondente ao comportamento de secções não fendilhadas, a que se segue um troço que corresponde ao comportamento de secções fendilhadas.
-
-O troço inicial tem o coeficiente angular E(índice b)/10, resultante de se ter tomado, para altura útil das vigas, h, 0,94 da altura total, h(índice t). De facto, para secções rectangulares, tem-se
-
-I = (b h(elevado a 3)(índice t)/12)(aproximadamente idêntico a)(b h(elevado a 3)/10)
-
-e como
-
-(M/EI) = (1/r) = ((teta)/h) = ((épsilo)(índice a) + (épsilo)(índice b))/h
-
-vem
-
-(M/b h(elevado a 2)) = (E(índice b)/10)(teta)
-
-O troço seguinte foi calculado considerando para o betão à compressão o módulo de elasticidade E(índice b) e, para as armaduras, a relação entre extensões e tensões definida no artigo 37.º Os diagramas dependem, assim, não só deste módulo de elasticidade, mas também da percentagem de armadura, [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf), que intervém na expressão que relaciona as extensões com as tensões nas armaduras.
-
-Os valores indicados nos diagramas momentos-curvaturas ao longo dos troços relativos ao comportamento de secções fendilhadas indicam a ductilidade dos diagramas correspondentes ao momento flector que se considera.
-
-Designa-se por ductilidade, (delta), a relação entre as áreas A(índice 1) e A(índice 0), fig. II-1. Para o comportamento elástico perfeito delta toma o valor 0 e para o comportamento plástico perfeito toma o valor 1.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-B) Cálculo de deformações
-
-Dados o valor do momento máximo que se verifica na viga (M), as dimensões desta (b e h), o módulo de elasticidade do betão (E(índice b)) a considerar (anexo I e artigo 25.º), determinam-se pelos diagramas referidos os valores de (teta) e (delta). O cálculo das flechas máximas faz-se a partir destes valores, de acordo com as expressões indicadas no quadro seguinte, tomando para factor de correcção, k, os valores, função de (delta), que constam do mesmo quadro. Para o comportamento elástico perfeito, (delta) e k tomam, respectivamente, os valores 0 e 1:
-
-Coeficientes de correcção, k
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Nos casos de vigas total ou parcialmente encastradas, os dados anteriores podem ainda ser utilizados, combinando devidamente as deformações nas zonas de momentos negativos e positivos.
-
-Quando as armaduras sejam de aço da classe A24, os diagramas momentos-curvaturas a utilizar serão constituídos apenas pelo troço correspondente ao comportamento de secções não fendilhadas. As expressões indicadas no quadro anterior podem ainda ser utilizadas, e k tomará sempre o valor 1. Os valores de teta poderão obter-se directamente em função do momento flector máximo M pela expressão
-
-(teta) = 10 M/(b h(elevado a 2)E(índice b))
-
-No caso de solicitações permanentes, deve tomar-se para o betão o valor do módulo de elasticidade indicado no anexo I, convenientemente reduzido, para ter em conta os efeitos da fluência, conforme especifica o artigo 25.º
-
-Para a combinação de solicitações permanentes com solicitações acidentais de curta duração, deverá tomar-se para o betão um módulo de elasticidade equivalente que traduza convenientemente a verificação de deformações a longo e a curto prazo.
-
-Assim, sendo:
-
-s - valor das solicitações acidentais aplicadas quando o betão tem a idade k;
-
-g - valor das solicitações permanentes aplicadas quando o betão tem a idade j;
-
-(alfa) = s/g - relação entre os valores das solicitações g acidentais e permanentes;
-
-E(índice bk) - módulo de elasticidade do betão com a idade de dias;
-
-E(índice bj) - módulo de elasticidade do betão com a idade de j dias;
-
-(fi) - coeficiente de fluência do betão para as condições de aplicação das solicitações permanentes consideradas (nos casos correntes (fi) = 3, artigo 25.º),
-
-o módulo de elasticidade equivalente será dado pela expressão
-
-E = (1 + (alfa))/((fi)/E(índice bj) + (alfa)/E(índice bk))
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-BIBLIOGRAFIA
-
-A) Normas e regulamentos
-
-Comité Européen du Béton:
-
-Recommandations Pratiques à l'Usage des Constructeurs. Comité Européen du Béton, «Bulletin d'Information» n.º 39, Paris, 1963.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Brasil:
-
-Cálculo e Execução de Obras de Concreto Armado. NB-1. Associação Brasileira de Normas Técnicas, Rio de Janeiro, 1960.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Estados Unidos da América:
-
-Building Code Requirements for Reinforced Concrete. ACI 318-63. American Concrete Institute, Detroit, 1963.
-
-França:
-
-Règles pour le Calcul et l'Exécution des Constructions en Béton Armé. Règles B.A.1960. Centre Scientifique et Technique du Bâtiment, Paris, 1961.
-
-Inglaterra:
-
-The Structural Use of Reinforced Concrete in Buildings. British Standard Code of Pratice CP 114:1957. British Standards Institution, Londres, 1957.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Portugal:
-
-Regulamento do Betão Armado - [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960.
-
-Regulamento de Segurança das Construções contra os Sismos - [Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 31 de Maio de 1958.
-
-Regulamento de Segurança no Trabalho da Construção Civil - [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958.
-
-Regulamento de Solicitações em Edifícios e Pontes - [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961.
-
-Regulamento de Estruturas de Aço para Edifícios - [Decreto n.º 46160](https://diariodarepublica.pt/dr/detalhe/decreto/46160-1965-238992), de 19 de Janeiro de 1965.
-
-Normas Portuguesas. Inspecção-Geral dos Produtos Agrícolas e Industriais, Lisboa:
-
-NP-105 (1957) - Metais. Ensaio de tracção.
-
-NP-173 (1959) - Metais. Ensaio de dobragem.
-
-NP-332 (1964) - Aço laminado. Varão para betão. Dimensões.
-
-Documentos de Homologação de Novos Materiais e Processos de Construção. Laboratório Nacional de Engenharia Civil, Lisboa:
-
-Aço Bi - Condições de emprego em betão armado (1963).
-
-Aço SN T40 - Condições de emprego em betão armado (1964).
-
-Heliaço - Condições de emprego em betão armado (1965).
-
-Helitraço - Condições de emprego em betão armado (1965).
-
-Vocabulário de Teoria das Estruturas. Especificação E 183. Laboratório Nacional de Engenharia Civil, Lisboa, 1966.
-
-Suíça:
-
-Normes concernant les Constructions en Béton, en Béton Armé et en Béton Précontraint. Normes Techniques SIA nº 162, 1956. Société Suisse des Ingénieurs et des Architectes, Zurique, 1956.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Instructions concernant le Calcul des Structures Hyperstatiques en Béton Armé compte-tenu de la Redistribution des Efforts. (Tradução francesa). Comité Européen du Béton, «Bulletin d'Information» n.º 28, Paris, Outubro, 1960.
-
-B) Tratados
-
-FERGUSON, P. M. - Reinforced Concrete Fundamentals. John Wiley & Sons, Nova Iorque, 1965.
-
-GUERRIN, A. - Traité de Béton Armé. Dunod, Paris, 1963.
-
-JIMENEZ MONTOYA, P. - Hormigón Armado. Editorial Dossat, Madrid, 1964.
-
-JONES, L. L. - Ultimate Load Analysis of Reinforced and Prestressed Concrete Structures. Chatto and Windus, Londres, 1962.
-
-LANGENDONCK, T. - Cálculo de Concreto Armado. Editora Científica, Rio de Janeiro, 1959.
-
-MOREIRA DA ROCHA, A. - Curso Prático de Concreto Armado. Editora Científica, Rio de Janeiro, 1964.
-
-MÖRSCH, E. - Teoria y Práctica del Hormigón Armado. (Tradução espanhola). Ediciones G. Gili, Buenos Aires, 1952.
-
-C) Outras publicações
-
-1 - Critérios gerais de dimensionamento e segurança
-
-CORREIA DE ARAÚJO, F. J. S. - Os Modernos Conceitos Europeus de Cálculo do Betão Armado. 1.as Jornadas Luso-Brasileiras de Engenharia Civil, Lisboa, 1960.
-
-FERRY BORGES, J. - O Dimensionamento de Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 54, Lisboa, 1954.
-
-FERRY BORGES, J. - Structural Behaviour and Safety Criteria. International Association for Bridge and Structural Engineering, VII Congress, Preliminary Publication, Rio de Janeiro, 1964.
-
-ROCHA, M. - Dimensionamento Experimental das Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 21, Lisboa, 1952.
-
-TORROJA, E. & PÁEZ, A. - La Determinación del Coeficiente de Seguridad en las Distintas Obras. Instituto Técnico de la Construcción y del Cemento, Madrid, 1949.
-
-TORROJA, E. - La Conception et le Calcul du Coefficient de Sécurité dans les Constructions en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Théories et Méthodes de Calcul» n.º 13, Paris, Junho, 1951.
-
-TORROJA, E. - Proposition pour le Calcul de la Sécurité dans les Ouvrages en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 4, Paris, Abril, 1958.
-
-2 - Cálculo de esforços
-
-2.1 - Estruturas reticuladas
-
-BAKER, A. L. L. - The Ultimate-load Theory applied to the Design of Reinforced & Prestressed Concrete Frames. Concrete Publications, Londres, 1956.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 21, Janeiro, 1960.
-
-N.º 30, Janeiro, 1961.
-
-N.º 34, Outubro, 1961.
-
-N.º 52, Novembro, 1965.
-
-N.º 53, Janeiro, 1966.
-
-N.º 55, Maio, 1966.
-
-FERRY BORGES, J. & ARANTES E OLIVEIRA, E. R. - Non-linear Analysis of Reinforced Concrete Structures. International Association for Bridge and Structural Engineering, «Publications», vol. 23, Zurique, 1963.
-
-FERRY BORGES, J., ARGA E LIMA, J., TEIXEIRA COELHO, A. & MONTEIRO, V. - Analytical Results Concerning the Non-linear Behaviour of Reinforced Concrete Structures. Comité Européen du Béton, «Bulletin d'Information» n.º 53, Paris, Janeiro, 1966.
-
-MASSONNET, CH. & SAVE, M. - Calcul Plastique des Constructions. Centre Belgo-Luxembourgeois d'Information de l'Acier, Bruxelas, 1961-1964.
-
-TEIXEIRA COELHO, A. - Sobre o Comportamento não Linear das Estruturas Hiperstáticas de Betão Armado. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965.
-
-2.2 - Estruturas laminares
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 29, Novembro, 1960.
-
-N.º 35, Março, 1962.
-
-N.º 43, Setembro, 1964.
-
-N.º 44, Outubro, 1964.
-
-N.º 45, Dezembro, 1964.
-
-N.º 50, Julho, 1965.
-
-JOHANSEN, K. K. - Yield-line Theory. Cement and Concrete Association, Londres, 1943-1962.
-
-OLSZAK, W. & SAWCZUK, A. - Cálculo à Rotura de Estruturas Heterogéneas Ortotrópicas. Laboratório Nacional de Engenharia Civil. Memória n.º 172, Lisboa, 1961.
-
-STEINMANN, G. A. - Calcul des Dalles en Béton Armé à la Rupture. «Béton Armé» n.os 1, 2, 3 e 4, Paris, Janeiro a Abril, 1957.
-
-Wood, R. H. - Plastic and Elastic Design of Slabs and Plates. Thames and Hudson, Londres, 1961.
-
-3 - Capacidade resistente
-
-3.1 - Flexão e compressão
-
-AAS-JAKOBSEN, A. - Proposition de Calcul de Flambement (Étude théorique et comparaison expérimentale). Comité Européen du Béton, «Bulletin d'Information» n.º 17, Paris, Abril, 1959.
-
-AAS-JAKOBSEN, A. - Proposition de Recommandation du C. E. B. pour le Calcul du Flambement. Comité Européen du Béton, «Bulletin d'Information» n.º 31, Paris, Fevereiro, 1961.
-
-ARGA E LIMA, J. - Esforços de Rotura em Elementos de Betão Armado. Laboratório Nacional de Engenharia Civil. Memória n.º 178, Lisboa, 1961.
-
-ARGA E LIMA, J. & MONTEIRO, V. - Ábacos para o Cálculo de Esforços de Rotura de Secções Rectangulares de Betão Armado. «Técnica» n.º 336, Lisboa, 1964.
-
-BROMS, B. & VIEST, I. M. - Ultimate Strength Analysis of Long Hinged Reinforced Concrete Columns. «Proceedings of the American Society of Civil Engineers, Journal of the Structural Division», vol. 84, ST1, Nova Iorque, Janeiro, 1958.
-
-CHWALLA, E. - Die Neuen Hilfstafeln zur Berechnung von Spannungsproblemen der Theoriezweiten Ordnung von Knickproblemen. «Der Bauingenieur», 34.º ano, fasc. n.os 4, 6 e 8, Berlim, Abril, Junho e Agosto, 1959.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 15, Março, 1959.
-
-N.º 24, Junho, 1960.
-
-COSTA, F. V. & ARGA E LIMA, J. - Tabelas para o Cálculo do Betão Armado (4.ª edição). «Técnica», Lisboa, 1961.
-
-RÜSCH, H. - Versuche zur Festigkeit der Biegedruckzone. Deutscher Ausschuss für Stahlbeton, Heft 120, Berlim, 1955.
-
-RÜSCH, H., GRASSER, E. & RAO, P. S. - Principes de Calcul du Béton Armé sous des États de Contrainte Monoaxiaux. Comité Européen du Béton, «Bulletin d'Information» n.º 36, Paris, Junho, 1962.
-
-RÜSCH, H. - Essai d'une Nouvelle Théorie à la Flexion du Béton Armé. «Mémoires du Centre d'Études, de Recherches et d'Essais Scientifiques du Génie Civil. Nouvelle Série», n.º 2, Liège, Dezembro, 1962.
-
-SAMPAIO, J. C. - Cálculo à Rotura de Peças de Betão Armado Sujeitas a Flexão. Porto, 1955.
-
-WHITNEY, CH. S. & COHEN, E. - Guide for Ultimate Strength Design of Reinforced Concrete. «Journal of the American Concrete Institute», vol. 28, n.º 5, Detroit, Novembro, 1956.
-
-3.2 - Esforço transverso
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 26, Agosto, 1960.
-
-N.º 37, Outubro, 1962.
-
-N.º 40, Janeiro, 1964.
-
-N.º 42, Julho, 1964.
-
-N.º 49, Maio, 1965.
-
-HOGNESTAD, E. - Shear and Diagonal Tension (Report of the ACI-ASCE Committee 326). «Journal of the American Concrete Institute», vol. 59, n.os 1, 2 e 3, Detroit, Janeiro, Fevereiro e Março, 1962.
-
-LEONHARDT, F. - Les Mécanismes de Rupture à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 41, Paris, Abril, 1964.
-
-LEONHARDT, F. & WALTHER, R. - Compte-rendu des Essais d'Effort Tranchant Récemment Effectués à l'Institut Otto-Graf, à Stuttgart. Comité Européen du Béton, «Bulletin d'Information» n.º 37, Paris, Outubro, 1962.
-
-PÁEZ, A. - Los Esfuerzos Cortantes y la Flexión en et Hormigón Armado. Instituto Técnico de la Construcción y del Cemento, Monografia n.º 212, Madrid, 1961.
-
-TORROJA, E. - Note on Shear. Comité Européen du Béton, Secrétariat Permanent, Paris, Janeiro, 1961.
-
-WALTHER, R. - Le Calcul de la Résistance à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 42, Paris, Julho, 1964.
-
-3.3 - Torção
-
-COWAN, H. J. - Reinforced and Prestressed Concrete in Torsion. Edward Arnold (Publishers), Londres, 1965.
-
-COWAN, H. J. - Calcul des Poutres Soumises à la Torsion d'après le Nouveau Règlement Australien. «Béton Armé», 6.º ano, n.º 45, Paris, Dezembro, 1962, e Janeiro, 1963.
-
-RAUSCH, E. - Drilling (Torsion), Schub und Scheren im Sthalbetonbau. Deutscher Ingenieur-Verlag, Dusseldórfia, 1953.
-
-4 - Fendilhação e deformação
-
-BRICE, L. P. - Théorie de la Fissuration des Pièces en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.º 19, Paris, Junho, 1952.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 12, Fevereiro, 1959.
-
-N.º 13, Fevereiro, 1959.
-
-N.º 19, Setembro, 1959.
-
-N.º 55, Maio, 1966.
-
-FERRY BORGES, J & ARGA E LIMA, J. - Formation of Cracks in Beams with Low Percentage of Reinforcement. RILEM Symposium on Bond and Crack Formation in Reinforced Concrete, Estocolmo, 1957.
-
-FERRY BORGES, J. & ARGA E LIMA, J. - Crack and Deformation Similitude in Reinforced Concrete. RILEM International Colloquium on Models of Structures, Madrid, 1959.
-
-FERRY BORGES, J. - Cracking and Deformability of Reinforced Concrete Beams. International Association for Bridge and Structural Engineering, «Publications», vol. 26, Zurique, 1966.
-
-JÄGER, K. - Rigidité à la Flexion des Poutres en Béton Armé. «Béton Armé», 2.º ano, n.os 8 e 9, Paris, Janeiro a Abril, 1958.
-
-JOHNSON, A. I. - Deformation of Reinforced Concrete. International Association for Bridge and Structural Engineering. «Publications», vol. 11, Zurique, 1951.
-
-LEONHARDT, F. - Anfängliche und Nachträgliche Durchbiegungen von Stahlbetonbalken im Zustand II. (Vorschläge für Bregenzungen und vereinfachte Nachweise). «Beton-und Stahlbetonbau», vol. 54, n.º 10, Berlim, Outubro, 1959.
-
-MALDAGUE, J. C. - Étude de la Déformation des Poutres en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.os 80-82, Paris, Maio e Setembro, 1965.
-
-MONTEIRO, V. M. - Deformabilidade de Elementos de Betão Armado Sujeitos a Flexão. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965.
-
-RÜSCH, H. - Der Zusammenhang zwischen Rissbildung und Haftfestigkeit unter besonder Berücksichtigung der Anwendung hoher Stahlspannungen. International Vereinigung für Brückenbau und Hochbau, Fünfter Kongress, Vorbericht, Lisboa, 1956.
-
-SORETZ, S. - Déformations. Comité Européen du Béton, «Bulletin d'Information» n.º 16, Paris, Março, 1959.
-
-Ministério das Obras Públicas, 20 de Maio de 1967. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.
-
-em que k(índice 1) toma os seguintes valores:
-
-... Valor de k(índice 1)
-
-Lajes simplesmente apoiadas armadas numa só direcção ... 1,0
-
-Lajes contínuas armadas numa só direcção ... 1,2
-
-Lajes duplamente encastradas armadas numa só direcção ... 2,0
-
-Lajes simplesmente apoiadas armadas em cruz ... 1,4
-
-Lajes contínuas armadas em cruz ... 1,7
-
-Lajes em consola ... 0,3
-
-e k(índice 2) tem os valores indicados no quadro seguinte:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ único. Nas lajes armadas em cruz deverá tomar-se para valor de l o correspondente ao menor vão. No caso de a relação entre os vãos ser superior a 1,5, devem considerar-se os valores de k(índice 1) correspondentes às lajes armadas numa só direcção.
-
-Pretende-se com a limitação das relações l/h garantir que a deformabilidade das lajes seja suficientemente pequena; no entanto, a regra simplificada que se apresenta não tem em consideração vários parâmetros que, em certos casos, podem ter influência na deformabilidade.
-
-Quando não se respeitem os limites especificados, haverá que proceder ao cálculo das flechas como indica o artigo 40.º, e à sua limitação de acordo com o artigo 19.º
-
-###### Artigo 54.º - Armadura principal das lajes armadas numa só direcção
-
-Nas lajes maciças armadas numa só direcção, a distância entre os varões da armadura principal nas regiões de momentos máximos (positivos e negativos) não deve ser superior a uma vez e meia a espessura da laje, com o máximo de 15 cm.
-
-###### Artigo 55.º - Armadura de distribuição das lajes armadas numa só direcção
-
-A secção da armadura de distribuição das lajes maciças armadas numa só direcção será, no mínimo, por metro de largura de laje, 1/5 da secção da armadura principal na mesma secção.
-
-Em todas as circunstâncias e independentemente da condição anterior, a armadura de distribuição será constituída, no mínimo, por metro de largura de laje, no caso de emprego de aço A24, por quatro varões de 6 mm, e, no caso de emprego de aços A40, A50 e A60, por três varões de 5 mm (ou por um número maior de varões de diâmetro inferior a que corresponda uma secção equivalente).
-
-Se na armadura de distribuição for empregado aço de classe inferior ao da armadura principal, haverá que aumentar a secção da armadura de distribuição em proporção inversa da relação das tensões que definem as classes dos aços em causa.
-
-###### Artigo 56.º - Armaduras das lajes armadas em cruz
-
-As armaduras das lajes maciças armadas em cruz devem, numa e noutra direcção, obedecer às condições prescritas no artigo 54.º para a armadura principal das lajes armadas numa só direcção.
-
-C) Disposições relativas a lajes aligeiradas
-
-###### Artigo 57.º - Características geométricas
-
-Para efeitos do presente regulamento, consideram-se como lajes aligeiradas as lajes nervuradas, numa ou em duas direcções, obtidas pela inclusão de elementos ocos ou por meio de cofragens especiais e que obedecem aos seguintes requisitos (fig. 7):
-
-A distância entre faces de nervuras consecutivas não é superior a 70 cm;
-
-A largura das nervuras não é inferior a 0,25 da altura total da laje, com o mínimo de 5 cm;
-
-A espessura da laje superior (lajeta) não é inferior a 0,10 da distância entre faces de nervuras, com o mínimo de 3 cm (fig. 7-a); no caso de esta lajeta ter a face inferior abobadada (fig. 7-b), a espessura no fecho da abóbada pode ser reduzida a 3 cm desde que, junto às nervuras, a espessura da lajeta seja superior a 0,15 da distância entre faces de nervuras, com o mínimo de 5 cm.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os condicionamentos geométricos indicados no artigo devem ser satisfeitos para as lajes nervuradas numa ou em duas direcções; neste último caso, as espessuras mínimas da lajeta serão condicionadas pelo maior espaçamento entre nervuras.
-
-Como é referido no comentário do artigo 29.º, os esforços de cálculo a considerar no dimensionamento das lajes aligeiradas podem ser determinados pelas teorias elásticas aplicáveis às lajes maciças; a capacidade resistente pode ser obtida considerando estas lajes como constituídas por uma associação de vigas em T justapostas, em que se tomará como secção activa apenas a parte constituída por betão, desprezando-se qualquer contribuição dos elementos de cofragem.
-
-###### Artigo 58.º - Vãos teóricos. Altura útil mínima
-
-No estabelecimento dos vãos teóricos e da altura útil das lajes aligeiradas aplicar-se-ão as condições estipuladas para as lajes maciças nos artigos 51.º e 53.º
-
-###### Artigo 59.º - Armadura de distribuição
-
-Nas lajes aligeiradas deve dispor-se, na lajeta e transversalmente ao vão principal, uma armadura de distribuição constituída, no mínimo, por metro de largura de laje, no caso de emprego de aço A24, por quatro varões de 6 mm, e, no caso de emprego de aços A40, A50 e A60, por três varões de 5 mm (ou por um número maior de varões de diâmetro inferior a que corresponda uma secção equivalente).
-
-A armadura de distribuição destina-se a conferir às lajes aligeiradas a necessária resistência a acções tais como variações de temperatura importantes (no caso de coberturas) ou cargas concentradas; se as cargas deste tipo forem severas, podem, eventualmente, implicar problemas de punçoamento da lajeta, que há que estudar com a devida atenção, condicionando a espessura daquele elemento e a armadura de distribuição a utilizar.
-
-De acordo com o disposto no artigo, a armadura de distribuição será colocada normalmente às nervuras das lajes que as possuam numa só direcção, enquanto que, nas lajes nervuradas em duas direcções, será colocada normalmente às nervuras dispostas segundo o vão principal, ou seja, aquela a que corresponde momento flector de maior valor por metro de largura de laje.
-
-###### Artigo 60.º - Nervuras transversais das lajes nervuradas numa só direcção
-
-Nas lajes aligeiradas nervuradas numa só direcção, devem dispor-se nervuras transversais de solidarização (tarugos), cujo espaçamento, entre si e aos apoios, não deve ser superior a 2,00 m. Estas nervuras terão 5 cm de largura, pelo menos, e uma armadura colocada inferiormente cuja secção será, no mínimo, 0,10 da secção da armadura principal correspondente a uma largura de laje igual à distância entre tarugos.
-
-O tarugamento das lajes nervuradas numa só direcção é necessário para garantir a solidarização das nervuras, permitindo o seu funcionamento conjunto, particularmente quando da actuação de cargas concentradas, quer permanentes (caso das paredes divisórias) quer acidentais. No caso da ocorrência de cargas deste tipo de valor muito importante, as armaduras dos tarugos devem ser convenientemente dimensionadas.
-
-Se na armadura dos tarugos for empregado aço de classe inferior ao da armadura principal, haverá que aumentar a secção daquela armadura em proporção inversa da relação das tensões que definem as classes dos aços em causa.
-
-D) Disposições relativas a vigas
-
-###### Artigo 61.º - Vãos teóricos
-
-Os vãos teóricos a considerar no dimensionamento das vigas devem ser estabelecidos tendo em conta as condições efectivas de apoio. Nos casos correntes, devem adoptar-se para vão teórico os seguintes valores:
-
-Nas vigas simplesmente apoiadas, a distância entre os eixos dos apoios e, se estes forem consideràvelmente largos, o vão livre aumentado de 5%;
-
-Nas vigas contínuas, a distância entre eixos dos apoios.
-
-Tal como se refere no comentário do artigo 51.º, podem as condições efectivas de apoio exigir a adopção de esquemas para a definição dos vãos teóricos diferentes dos indicados no corpo do artigo.
-
-###### Artigo 62.º - Largura do banzo das vigas em T
-
-A largura máxima a considerar para o banzo das vigas em T ou em L deverá ser estabelecida tendo em conta as condições de apoio (simples ou com continuidade), o modo de aplicação das solicitações (concentradas ou distribuídas), as características geométricas das vigas, o seu espaçamento e a existência de esquadros na ligação do banzo à alma.
-
-§ único. A menos de determinações mais precisas, a largura do banzo das vigas em T pode ser obtida, em geral, adicionando à largura da alma, de um e de outro lado, uma largura que não exceda o menor dos seguintes valores:
-
-1/2 da distância entre faces das almas de vigas consecutivas;
-
-1/10 da distância entre pontos de momento nulo;
-
-1/10 do vão, no caso de vigas simplesmente apoiadas.
-
-No caso de vigas em L, esta largura será adicionada de uma só vez à largura da alma.
-
-A regra simplificada que consta do § único está de acordo com as prescrições do C. E. B., e poderá ser utilizada não só para o estudo da capacidade resistente de secções, mas também para o estudo da deformabilidade das vigas, tanto no cálculo de flechas como no estudo de estruturas hiperstáticas.
-
-###### Artigo 63.º - Altura útil mínima
-
-A altura útil h das vigas, a menos de justificação especial conforme o estipulado no artigo 19.º, deve estar relacionada com o vão teórico, l, pela expressão
-
-(l/h)=
-
-em que k(índice 1) toma os seguintes valores:
-
-... Valor de k(índice 1)
-
-Vigas simplesmente apoiadas ... 1,0
-
-Vigas duplamente encastradas ... 2,0
-
-Vigas contínuas ... 1,2
-
-Vigas em consola ... 0,3
-
-e k(índice 2) tem os valores indicados no quadro seguinte:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Pelas razões apontadas no comentário do artigo 53.º, deverá, quando não se respeitem os limites especificados no presente artigo, proceder-se ao cálculo das flechas de acordo com o estipulado no artigo 40.º, e à sua limitação de acordo com o artigo 19.º
-
-Artigo 64.º - Armadura principal mínima
-
-Nas vigas, a percentagem de armadura principal deve satisfazer aos valores mínimos especificados no quadro seguinte:
-
-Percentagem mínima de armadura principal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-As percentagens mínimas de armadura especificadas são inferiores às percentagens que se utilizam, em geral, na prática. No entanto, condicionamentos arquitectónicos ou outros podem impor dimensões tais aos elementos que as percentagens de armadura a que se seria conduzido pelas regras gerais de dimensionamento fossem excessivamente baixas, o que se considera inconveniente. Reconheceu-se, por isso, a necessidade de estabelecer percentagens mínimas que confiram aos elementos resistências proporcionadas às suas dimensões.
-
-Artigo 65.º - Armadura transversal mínima
-
-Nas vigas, deverá dispor-se sempre uma armadura transversal, constituída por estribos com uma área de secção transversal total A(índice t), por estribo, no mínimo de
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Percentagem mínima de armadura transversal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ único. O diâmetro dos estribos não poderá ser inferior a 6 mm para aço A24 e a 5 mm para aços A40, A50 e A60. A distância entre estribos não deve ser superior nem a 30 cm nem a 0,75 da altura útil das vigas.
-
-Recomenda-se, em geral, utilizar estribos fechados, com os comprimentos de sobreposição convenientes, particularmente quando, de acordo com o artigo 35.º, seja considerada a contribuição do betão para a resistência ao esforço transverso. Nos casos em que existe torção, os estribos têm de ser forçosamente fechados, conforme especifica o artigo 36.º
-
-Nas zonas das vigas em que existam armaduras de compressão, o espaçamento dos estribos deve também evidentemente satisfazer à regra de espaçamento de cintas de pilares ordinários especificada no artigo 71.º
-
-Artigo 66.º - Armadura de alma
-
-Nas vigas de altura superior aos mínimos a seguir especificados, deve dispor-se uma armadura de alma, de aço da mesma classe do utilizado na armadura principal, constituída por varões longitudinais dispostos junto às faces laterais e distribuídos ao longo da zona traccionada. Esta armadura deve satisfazer às regras indicadas nos parágrafos seguintes.
-
-§ 1.º Nas vigas armadas com aços A40 e A50 de altura superior a 1,00 m, e nas vigas armadas com aço A60 de altura superior a 0,80 m, a armadura de alma a colocar junto de cada face não deve ser inferior ao menor dos limites seguintes:
-
-0,0005 da secção da alma (b x h no caso de vigas rectangulares; b(índice 0) x h no caso de vigas em T);
-
-0,10 da secção da armadura principal no caso de aço A40, 0,15 no caso de aço A50 e 0,20 no caso de aço A60.
-
-§ 2.º As distâncias dos eixos dos varões da armadura de alma entre si, aos varões mais próximos da armadura principal e ao eixo neutro não devem ser superiores a 20 cm. A distância dos varões da armadura de alma aos varões mais próximos da armadura principal deve ser maior que 6 cm.
-
-§ 3.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º
-
-A necessidade de colocação de armaduras de alma em vigas de grande altura armadas com aços de alta resistência resulta do fenómeno de arborização das fendas, que consiste na reunião das numerosas fendas de pequena largura que se formam ao longo da armadura traccionada, num pequeno número de fendas de grande largura, a meia altura da alma. A conveniente colocação de armaduras junto às faces da alma das vigas permite obviar a este fenómeno.
-
-Embora não seja especificada a utilização de armaduras de alma em vigas de grande altura armadas com aço A24, é recomendável, no entanto, adoptar nesse caso disposições semelhantes às indicadas neste artigo.
-
-Artigo 67.º - Diâmetro máximo dos varões da armadura principal
-
-Nas vigas armadas com aços A40, A50 e A60, os diâmetros máximos dos varões da armadura principal de tracção devem obedecer às condições especificadas no quadro seguinte:
-
-Diâmetros máximos dos varões da armadura principal (mm)
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-O conhecimento das leis que regem os fenómenos de fendilhação permite relacionar a largura máxima das fendas com as tensões a que se encontram submetidas as armaduras de tracção e, bem assim, com a relação entre o diâmetro dos varões que constituem essas armaduras e a percentagem da sua secção transversal relativamente à secção transversal da alma das vigas (ver artigos 37.º a 39.º).
-
-As regras preconizadas no corpo deste artigo traduzem as referidas leis de uma forma simples do ponto de vista do projectista, respeitando os critérios de segurança em relação à fendilhação estabelecidos no artigo 18.º
-
-Em elementos armados com aço A24 não há qualquer limitação prática a impor ao diâmetro máximo dos varões, dentro da gama de fabrico normalizada.
-
-Artigo 68.º - Constituição da armadura principal
-
-Nas vigas, o número de camadas de varões da armadura principal de tracção, na zona de momentos máximos, deve ser, no mínimo, igual ao valor indicado no quadro seguinte:
-
-Número mínimo de camadas da armadura principal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ 1.º Cada camada de varões deve compreender, pelo menos, dois varões colocados junto às faces laterais da viga.
-
-§ 2.º Numa camada de varões, o menor diâmetro dos varões não pode ser menor do que 2/3 do maior diâmetro dos varões utilizados nessa camada ou na camada adjacente mais traccionada.
-
-§ 3.º Na camada de varões adjacente à face mais traccionada, o espaçamento dos varões que a constituem será, no máximo, 25 cm quando seja empregado aço A24 e 15 cm quando sejam empregados aços A40, A50 e A60.
-
-§ 4.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º
-
-Para evitar fendilhação inconveniente, interessa que, além das limitações dos diâmetros máximos dos varões a utilizar, se respeitem disposições gerais de distribuição das armaduras, que são igualmente importantes para conseguir uma conveniente repartição das fendas e, portanto, a limitação da largura destas.
-
-As regras relativas ao número mínimo de camadas de armadura conferem uma altura conveniente ao tirante constituído pelas armaduras, obrigando à distribuição destas não só junto à face mais traccionada, mas também junto às faces laterais. Note-se que para o aço A24 não é de exigir o respeito por esta disposição.
-
-E) Disposições relativas a pilares
-
-Artigo 69.º - Dimensões mínimas
-
-Os pilares devem, em geral, ter dimensões transversais superiores a 1/20 da sua altura, com o mínimo de 20 cm.
-
-§ único. A espessura de paredes que desempenhem funções de suporte vertical análogas às de pilares não será inferior a 15 cm. No caso de pilares de secção composta (por exemplo em T ou em L), a espessura dos elementos rectangulares que compõem a secção pode descer a 15 cm.
-
-As disposições relativas a dimensões mínimas de pilares destinam-se não só a garantir a segurança para o suporte das cargas verticais, pois, à medida que se reduz a espessura de um elemento, é mais provável que um eventual defeito abranja grande parte da secção, mas também a contribuir para que não seja excessivamente reduzida a capacidade de resistência a acções horizontais. Para melhorar globalmente esta capacidade de resistência, convém que, a um dado nível de uma estrutura de edifício, os pilares não possuam todos as suas faces maiores orientadas numa mesma direcção.
-
-Artigo 70.º - Armadura longitudinal de pilares ordinários
-
-Os pilares ordinários sujeitos a compressão simples ou flexão composta devem possuir armaduras longitudinais satisfazendo às condições expressas nos parágrafos seguintes.
-
-§ 1.º A secção transversal das armaduras longitudinais, no caso de ser utilizado aço A24, nunca será inferior nem a 0,8% da secção de betão necessária para resistir por si só ao esforço normal de cálculo nem a 0,4% da secção total do pilar; para os aços A40, A50 e A60, aqueles limites serão, respectivamente, 0,6 e 0,3%.
-
-§ 2.º As armaduras longitudinais serão, no mínimo, constituídas por quatro varões de 12 mm de diâmetro no caso de aço A24 e de 10 mm no caso de aços A40, A50 e A60 (ou por maior número de varões com área equivalente).
-
-§ 3.º O espaçamento dos varões longitudinais será, no máximo, de 35 cm.
-
-§ 4.º A percentagem máxima de armadura longitudinal, em relação à secção total do pilar, é indicada no quadro seguinte em função da classe do betão:
-
-Percentagem máxima de armadura longitudinal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-As disposições indicadas para as armaduras longitudinais dos pilares procuram garantir a estes a resistência e a ductilidade indispensáveis para o eficiente desempenho das importantes funções inerentes a este tipo de elemento de construção.
-
-Considerou-se necessário completar a prescrição que vigorava no regulamento anterior e que estabelecia a percentagem mínima de armadura em função da secção de betão necessária para suportar o esforço normal actuante, por uma nova condição que faz também depender esta armadura mínima da secção total de betão efectivamente existente.
-
-Artigo 71.º - Armadura transversal de pilares ordinários
-
-Os pilares ordinários devem possuir armaduras transversais que cintem convenientemente os varões da armadura longitudinal e que satisfaçam às condições expressas nos parágrafos seguintes.
-
-§ 1.º A distância entre os eixos das cintas não deverá ser maior do que a menor dimensão transversal do pilar nem maior do que doze vezes o diâmetro dos varões longitudinais; esta distância também nunca deverá exceder 25 cm.
-
-§ 2.º Sempre que se utilizem armaduras longitudinais de diâmetro igual ou superior a 25 mm, as cintas devem ser constituídas, no mínimo, por varões de 8 mm de diâmetro.
-
-Artigo 72.º - Armaduras longitudinais de pilares reforçados
-
-Os pilares reforçados devem possuir uma armadura longitudinal cuja área esteja compreendida entre 1 e 6% da área do núcleo de betão cintado.
-
-Artigo 73.º - Armadura transversal de pilares reforçados
-
-A armadura longitudinal dos pilares reforçados deve ser envolvida por uma armadura transversal constituída por cintas circulares ou por um varão contínuo enrolado em hélice, tal que a distância entre os eixos das cintas ou o passo da hélice não exceda nem 1/5 do diâmetro do núcleo de betão nem 8 cm.
-
-Para que sejam eficazes, as cintas circulares têm de ser fechadas, com os convenientes comprimentos de sobreposição especificados nos artigos 46.º e 47.º
-
-CAPÍTULO V
-
-Execução dos trabalhos
-
-Artigo 74.º - Moldes e cimbres
-
-Os moldes e cimbres devem ser executados de forma a satisfazer as seguintes condições:
-
-a) Suportarem com segurança satisfatória as solicitações a que vão estar sujeitos, nomeadamente as provenientes do impulso do betão fresco durante a sua compactação;
-
-b) Não sofrerem deformações excessivas, de modo que a forma da estrutura executada corresponda, dentro das tolerâncias previstas, à estrutura projectada;
-
-c) Serem suficientemente estanques para não permitirem a fuga da argamassa; no caso de serem constituídos por materiais que absorvam água, devem ser abundantemente molhados antes da betonagem;
-
-d) Serem fàcilmente desmontáveis e, no caso de peças importantes, serem providos de dispositivos convenientes para a desmoldagem (cunhas, caixas de areia, etc.);
-
-e) Disporem de aberturas que permitam a sua conveniente limpeza e inspecção antes da betonagem e a fácil colocação do betão em obra.
-
-Artigo 75.º - Armaduras
-
-Na execução das armaduras e na sua colocação em obra respeitar-se-ão as seguintes condições:
-
-a) As armaduras devem ser executadas dentro das tolerâncias dimensionais previstas;
-
-b) Os varões que constituem as armaduras serão, em geral, convenientemente ligados por ataduras de arame recozido. No caso de se utilizar soldadura em aços de qualidade diferente do aço A24, há que verificar, por ensaios, se esta soldadura não afecta as propriedades mecânicas dos varões;
-
-c) As ligações dos varões devem ser convenientemente espaçadas, de modo que o conjunto se apresente com rigidez suficiente para não sofrer deformações, além das tolerâncias previstas, durante a colocação e a compactação do betão;
-
-d) Os varões colocados em obra devem estar convenientemente limpos de ferrugem solta ou de qualquer material que possa afectar a aderência ou a durabilidade dos varões.
-
-Artigo 76.º - Preparação, colocação em obra e cura do betão
-
-A preparação, a colocação em obra e a cura do betão devem ser executadas segundo as boas regras técnicas e de acordo com o especificado na legislação em vigor.
-
-Encontrando-se em fase adiantada de preparação um regulamento de betões, deixa-se para esse regulamento a codificação das regras a observar na preparação, colocação e cura do betão.
-
-Artigo 77.º - Desmoldagem e descimbramento
-
-A desmoldagem e o descimbramento sòmente deverão ser realizados quando o betão tiver adquirido resistência suficiente, não só para que seja satisfeita a segurança em relação à rotura das peças desmoldadas, mas também para que se não verifiquem deformações excessivas, tanto a curto como a longo prazo.
-
-As operações de desmoldagem e descimbramento devem ser conduzidas com os necessários cuidados, de modo a não provocar esforços inconvenientes, choques ou fortes vibrações.
-
-§ 1.º Nos casos correntes, a menos de justificação especial, em condições normais de temperatura e humidade e para betão de cimento portland normal, os prazos mínimos para a retirada dos moldes e dos escoramentos, contados a partir da data de conclusão da betonagem, são os indicados no quadro seguinte:
-
-Prazos mínimos de desmoldagem e descimbramento
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Aos prazos de desmoldagem e descimbramento indicados no quadro deverá adicionar-se o número de dias em que a temperatura do ar se tenha mantido igual ou inferior a 4ºC, durante e depois da betonagem.
-
-§ 2.º Nos casos especiais, ou nos casos tratados no § 1.º em que se pretenda não respeitar o ali especificado, os prazos de desmoldagem e descimbramento serão estabelecidos e justificados tendo em atenção o preceituado no corpo do artigo e atendendo à evolução das propriedades mecânicas do betão, convenientemente determinadas por ensaios.
-
-CAPÍTULO VI
-
-Fiscalização e ensaios
-
-Artigo 78.º - Verificação e fiscalização das obras
-
-A execução das obras de betão armado deve ser sempre acompanhada de cuidadosa verificação por parte da entidade que tem a seu cargo os trabalhos, sob o contrôle da entidade proprietária da obra ou dos seus agentes.
-
-A fiscalização do Estado ou dos corpos administrativos que têm jurisdição sobre a obra exercer-se-á independentemente daquelas verificações.
-
-As actividades de verificação e fiscalização consistem, fundamentalmente, em verificar se a obra é executada de acordo com o projecto aprovado e, nomeadamente, em:
-
-a) Comprovar a qualidade dos materiais empregados, mandando executar os ensaios necessários para esse fim e apreciando os seus resultados;
-
-b) Verificar a forma, dimensões e perfeição dos moldes, a resistência dos escoramentos e a secção e a posição das armaduras;
-
-c) Acompanhar o fabrico do betão e a sua colocação em obra, mandando colher as amostras necessárias para a posterior realização de ensaios;
-
-d) Verificar as condições em que é realizada a cura do betão e autorizar a desmoldagem dos diferentes elementos.
-
-§ único. A entidade que executa os trabalhos deve elaborar, em livro apropriado, um registo cronológico de ocorrências verificadas no decurso da obra, de que constem, nomeadamente, as datas de betonagem dos diferentes elementos, de modo a possibilitar a correcta contagem dos prazos de desmoldagem. Este livro de registo será facultado aos agentes da fiscalização do Estado ou dos corpos administrativos sempre que estes o exigirem e onde inscreverão todas as determinações e observações que o andamento dos trabalhos lhes sugerirem.
-
-Deve salientar-se a importância das actividades de verificação e fiscalização para garantir a segurança das estruturas. Esta importância é tanto mais saliente quanto mais se explora a capacidade resistente dos materiais e se utilizam processos de construção não tradicionais. Não devem, portanto, deixar nunca de ser efectivadas tais actividades.
-
-Para que se generalize o emprego dos registos de ocorrências das obras, convém que as entidades fiscalizadoras do Estado ou dos corpos administrativos efectivamente promovam e velem pela existência desses registos, prática que, aliás, tem sido seguida por vários organismos.
-
-Faz parte ainda das actividades de verificação e fiscalização velar pelo cumprimento da legislação sobre a segurança no trabalho, nomeadamente o Regulamento de Segurança no Trabalho da Construção Civil, promulgado pelo [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958.
-
-Artigo 79.º - Ensaios
-
-Durante e após a execução dos trabalhos deverá proceder-se aos ensaios necessários para comprovar a qualidade dos materiais empregados e a perfeição da execução da obra.
-
-Os ensaios serão realizados de acordo com os regulamentos e normas em vigor.
-
-§ 1.º O número de ensaios necessário para o estudo prévio da composição do betão e para o contrôle do seu fabrico dependerá da importância da obra, devendo sempre respeitar-se os mínimos regulamentarmente estabelecidos.
-
-§ 2.º Poderá dispensar-se a realização, total ou parcial, dos ensaios de recepção dos materiais, se o fornecedor apresentar prova de que a produção desses materiais é controlada pelo Laboratório Nacional de Engenharia Civil, ou por outro laboratório oficial, segundo especificações estabelecidas de acordo com aquele Laboratório.
-
-§ 3.º Quando a importância da obra o justifique e, em particular, quando tiverem sido utilizadas soluções estruturais de concepção não usual ou processos de construção especiais, deverá proceder-se à observação sistemática do comportamento das estruturas, mediante estudos realizados durante e após a construção. Estes estudos deverão ser conduzidos com vista a permitir o julgamento das condições de segurança da obra. O relatório relativo aos resultados destes estudos deverá ser junto ao projecto.
-
-ANEXO I
-
-Valores de cálculo das propriedades mecânicas dos materiais (a que se refere o artigo 21.º)
-
-A) Betões
-
-Os diagramas tensões-extensões a considerar para os betões sujeitos a compressão (diagramas de cálculo) são os indicados na fig. I-1.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Estes diagramas são definidos por ramos de parábolas que passam pela origem e têm os vértices em pontos cujas ordenadas são as tensões de cálculo (correspondentes às diferentes classes de betão) e cujas abcissas correspondem à extensão de 2(por mil).
-
-As tensões de cálculo (sigma)(elevado a *)(índice b) são obtidas pela expressão
-
-(sigma)(elevado a *)(índice b) = (0,85/1,5)(sigma)(índice bk)
-
-em que (sigma)(índice bk) é a tensão característica definidora da classe do betão (referida ao ensaio, aos 28 dias, de cubos de 20 cm de aresta). O coeficiente 0,85 tem em vista transformar a resistência assim determinada em resistência prismática, e o denominador 1,5 é o coeficiente de minoração das propriedades mecânicas do betão (ver artigo 14.º), que reduz a tensão característica a tensão de cálculo.
-
-No caso de elementos sujeitos a esforços de compressão simples (artigo 32.º), considera-se necessário aumentar este coeficiente de minoração para 2,0, em geral, e para 2,5 no caso de emprego de betão B180 não controlado. Deste modo, as tensões de cálculo a adoptar no dimensionamento de tais elementos serão, respectivamente:
-
-(0,85/2,0)(sigma)(índice bk) = 0,75(sigma)(elevado a *)(índice b), e (0,85/2,5)(sigma)(índice bk) = 0,60(sigma)(elevado a *)(índice b)
-
-Os diagramas anteriormente indicados destinam-se à determinação da capacidade resistente das secções. Para o cálculo das deformações instantâneas, no caso das combinações do tipo I (R. S. E. P.), poderá considerar-se que o diagrama tensões-extensões do betão é linear, definido por um módulo de elasticidade dado, em kgf/cm2, pela expressão
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Nos casos correntes poderá fixar-se o valor de E(índice b) considerando para valor de (sigma)(índice bj) a tensão de rotura característica, obtendo-se assim, para as diferentes classes de betão, os valores de E(índice b) que constam do quadro seguinte:
-
-Módulos de elasticidade do betão, E(índice b)
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Para o cálculo das deformações devidas a solicitações de longa duração devem considerar-se os efeitos da fluência do betão conforme é especificado no artigo 25.º
-
-Para o coeficiente de Poisson, poderá adoptar-se, em geral, o valor (ni) = 0,2.
-
-B) Aços
-
-a) Aços de dureza natural
-
-Os diagramas tensões-extensões a considerar para os varões de aço de dureza natural com cedência, das classes A24 e A40N, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-2.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-b) Aços endurecidos a frio
-
-Os diagramas tensões-extensões a considerar para os varões de aço endurecido a frio das classes A40T, A50 e A60, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-3.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os diagramas especificados para os aços são definidos por um troço recto inicial que corresponde ao comportamento elástico (com módulo de elasticidade E(índice a) = 2,1 x 10(elevado a 6) kgf/cm2).
-
-Para os aços de dureza natural, as deformações de cedência são representadas também por troços rectos, de tensão constante. Os valores de cálculo, (sigma)(elevado a *)(índice a), indicados para as tensões correspondentes a estes troços, são obtidos a partir dos valores característicos da tensão de cedência dos aços, (sigma)(índice ak), pela expressão
-
-(sigma)(elevado a *)(índice a) = ((sigma)(índice k))/1,15
-
-em que o denominador é o coeficiente de minoração das propriedades mecânicas dos aços.
-
-Para os aços endurecidos a frio, a parte curva do diagrama é obtida a partir do diagrama característico por meio de uma afinidade paralela à recta que define o comportamento elástico; as tensões de cálculo, (sigma)(elevado *)(índice a), correspondentes a uma dada extensão residual estão relacionadas com as tensões características correspondentes a essa extensão, (sigma)(índice ak), pela expressão
-
-(sigma)(elevado a *)(índice a) = ((sigma)(índice ak)/1,15)
-
-No quadro seguinte indicam-se os valores das tensões de cálculo em função das extensões residuais que lhes correspondem:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os diagramas tensões-extensões prescritos para os aços são limitados, no caso da tracção, à extensão de 10(por mil) e, no caso da compressão, à extensão de 2(por mil).
-
-ANEXO II
-
-Elementos para o cálculo das deformações de vigas
-
-(a que se refere o artigo 40.º)
-
-A) Diagramas momentos-curvaturas
-
-Os diagramas momentos-curvaturas a considerar para o cálculo das deformações de vigas rectangulares, para as combinações de solicitações do tipo I (R. S. E. P.), são os indicados nas figs. II-2 a 11.
-
-Cada diagrama é constituído por um troço inicial, correspondente ao comportamento de secções não fendilhadas, a que se segue um troço que corresponde ao comportamento de secções fendilhadas.
-
-O troço inicial tem o coeficiente angular E(índice b)/10, resultante de se ter tomado, para altura útil das vigas, h, 0,94 da altura total, h(índice t). De facto, para secções rectangulares, tem-se
-
-I = (b h(elevado a 3)(índice t)/12)(aproximadamente idêntico a)(b h(elevado a 3)/10)
-
-e como
-
-(M/EI) = (1/r) = ((teta)/h) = ((épsilo)(índice a) + (épsilo)(índice b))/h
-
-vem
-
-(M/b h(elevado a 2)) = (E(índice b)/10)(teta)
-
-O troço seguinte foi calculado considerando para o betão à compressão o módulo de elasticidade E(índice b) e, para as armaduras, a relação entre extensões e tensões definida no artigo 37.º Os diagramas dependem, assim, não só deste módulo de elasticidade, mas também da percentagem de armadura, [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf), que intervém na expressão que relaciona as extensões com as tensões nas armaduras.
-
-Os valores indicados nos diagramas momentos-curvaturas ao longo dos troços relativos ao comportamento de secções fendilhadas indicam a ductilidade dos diagramas correspondentes ao momento flector que se considera.
-
-Designa-se por ductilidade, (delta), a relação entre as áreas A(índice 1) e A(índice 0), fig. II-1. Para o comportamento elástico perfeito delta toma o valor 0 e para o comportamento plástico perfeito toma o valor 1.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-B) Cálculo de deformações
-
-Dados o valor do momento máximo que se verifica na viga (M), as dimensões desta (b e h), o módulo de elasticidade do betão (E(índice b)) a considerar (anexo I e artigo 25.º), determinam-se pelos diagramas referidos os valores de (teta) e (delta). O cálculo das flechas máximas faz-se a partir destes valores, de acordo com as expressões indicadas no quadro seguinte, tomando para factor de correcção, k, os valores, função de (delta), que constam do mesmo quadro. Para o comportamento elástico perfeito, (delta) e k tomam, respectivamente, os valores 0 e 1:
-
-Coeficientes de correcção, k
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Nos casos de vigas total ou parcialmente encastradas, os dados anteriores podem ainda ser utilizados, combinando devidamente as deformações nas zonas de momentos negativos e positivos.
-
-Quando as armaduras sejam de aço da classe A24, os diagramas momentos-curvaturas a utilizar serão constituídos apenas pelo troço correspondente ao comportamento de secções não fendilhadas. As expressões indicadas no quadro anterior podem ainda ser utilizadas, e k tomará sempre o valor 1. Os valores de teta poderão obter-se directamente em função do momento flector máximo M pela expressão
-
-(teta) = 10 M/(b h(elevado a 2)E(índice b))
-
-No caso de solicitações permanentes, deve tomar-se para o betão o valor do módulo de elasticidade indicado no anexo I, convenientemente reduzido, para ter em conta os efeitos da fluência, conforme especifica o artigo 25.º
-
-Para a combinação de solicitações permanentes com solicitações acidentais de curta duração, deverá tomar-se para o betão um módulo de elasticidade equivalente que traduza convenientemente a verificação de deformações a longo e a curto prazo.
-
-Assim, sendo:
-
-s - valor das solicitações acidentais aplicadas quando o betão tem a idade k;
-
-g - valor das solicitações permanentes aplicadas quando o betão tem a idade j;
-
-(alfa) = s/g - relação entre os valores das solicitações g acidentais e permanentes;
-
-E(índice bk) - módulo de elasticidade do betão com a idade de dias;
-
-E(índice bj) - módulo de elasticidade do betão com a idade de j dias;
-
-(fi) - coeficiente de fluência do betão para as condições de aplicação das solicitações permanentes consideradas (nos casos correntes (fi) = 3, artigo 25.º),
-
-o módulo de elasticidade equivalente será dado pela expressão
-
-E = (1 + (alfa))/((fi)/E(índice bj) + (alfa)/E(índice bk))
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-BIBLIOGRAFIA
-
-A) Normas e regulamentos
-
-Comité Européen du Béton:
-
-Recommandations Pratiques à l'Usage des Constructeurs. Comité Européen du Béton, «Bulletin d'Information» n.º 39, Paris, 1963.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Brasil:
-
-Cálculo e Execução de Obras de Concreto Armado. NB-1. Associação Brasileira de Normas Técnicas, Rio de Janeiro, 1960.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Estados Unidos da América:
-
-Building Code Requirements for Reinforced Concrete. ACI 318-63. American Concrete Institute, Detroit, 1963.
-
-França:
-
-Règles pour le Calcul et l'Exécution des Constructions en Béton Armé. Règles B.A.1960. Centre Scientifique et Technique du Bâtiment, Paris, 1961.
-
-Inglaterra:
-
-The Structural Use of Reinforced Concrete in Buildings. British Standard Code of Pratice CP 114:1957. British Standards Institution, Londres, 1957.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Portugal:
-
-Regulamento do Betão Armado - [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960.
-
-Regulamento de Segurança das Construções contra os Sismos - [Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 31 de Maio de 1958.
-
-Regulamento de Segurança no Trabalho da Construção Civil - [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958.
-
-Regulamento de Solicitações em Edifícios e Pontes - [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961.
-
-Regulamento de Estruturas de Aço para Edifícios - [Decreto n.º 46160](https://diariodarepublica.pt/dr/detalhe/decreto/46160-1965-238992), de 19 de Janeiro de 1965.
-
-Normas Portuguesas. Inspecção-Geral dos Produtos Agrícolas e Industriais, Lisboa:
-
-NP-105 (1957) - Metais. Ensaio de tracção.
-
-NP-173 (1959) - Metais. Ensaio de dobragem.
-
-NP-332 (1964) - Aço laminado. Varão para betão. Dimensões.
-
-Documentos de Homologação de Novos Materiais e Processos de Construção. Laboratório Nacional de Engenharia Civil, Lisboa:
-
-Aço Bi - Condições de emprego em betão armado (1963).
-
-Aço SN T40 - Condições de emprego em betão armado (1964).
-
-Heliaço - Condições de emprego em betão armado (1965).
-
-Helitraço - Condições de emprego em betão armado (1965).
-
-Vocabulário de Teoria das Estruturas. Especificação E 183. Laboratório Nacional de Engenharia Civil, Lisboa, 1966.
-
-Suíça:
-
-Normes concernant les Constructions en Béton, en Béton Armé et en Béton Précontraint. Normes Techniques SIA nº 162, 1956. Société Suisse des Ingénieurs et des Architectes, Zurique, 1956.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Instructions concernant le Calcul des Structures Hyperstatiques en Béton Armé compte-tenu de la Redistribution des Efforts. (Tradução francesa). Comité Européen du Béton, «Bulletin d'Information» n.º 28, Paris, Outubro, 1960.
-
-B) Tratados
-
-FERGUSON, P. M. - Reinforced Concrete Fundamentals. John Wiley & Sons, Nova Iorque, 1965.
-
-GUERRIN, A. - Traité de Béton Armé. Dunod, Paris, 1963.
-
-JIMENEZ MONTOYA, P. - Hormigón Armado. Editorial Dossat, Madrid, 1964.
-
-JONES, L. L. - Ultimate Load Analysis of Reinforced and Prestressed Concrete Structures. Chatto and Windus, Londres, 1962.
-
-LANGENDONCK, T. - Cálculo de Concreto Armado. Editora Científica, Rio de Janeiro, 1959.
-
-MOREIRA DA ROCHA, A. - Curso Prático de Concreto Armado. Editora Científica, Rio de Janeiro, 1964.
-
-MÖRSCH, E. - Teoria y Práctica del Hormigón Armado. (Tradução espanhola). Ediciones G. Gili, Buenos Aires, 1952.
-
-C) Outras publicações
-
-1 - Critérios gerais de dimensionamento e segurança
-
-CORREIA DE ARAÚJO, F. J. S. - Os Modernos Conceitos Europeus de Cálculo do Betão Armado. 1.as Jornadas Luso-Brasileiras de Engenharia Civil, Lisboa, 1960.
-
-FERRY BORGES, J. - O Dimensionamento de Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 54, Lisboa, 1954.
-
-FERRY BORGES, J. - Structural Behaviour and Safety Criteria. International Association for Bridge and Structural Engineering, VII Congress, Preliminary Publication, Rio de Janeiro, 1964.
-
-ROCHA, M. - Dimensionamento Experimental das Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 21, Lisboa, 1952.
-
-TORROJA, E. & PÁEZ, A. - La Determinación del Coeficiente de Seguridad en las Distintas Obras. Instituto Técnico de la Construcción y del Cemento, Madrid, 1949.
-
-TORROJA, E. - La Conception et le Calcul du Coefficient de Sécurité dans les Constructions en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Théories et Méthodes de Calcul» n.º 13, Paris, Junho, 1951.
-
-TORROJA, E. - Proposition pour le Calcul de la Sécurité dans les Ouvrages en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 4, Paris, Abril, 1958.
-
-2 - Cálculo de esforços
-
-2.1 - Estruturas reticuladas
-
-BAKER, A. L. L. - The Ultimate-load Theory applied to the Design of Reinforced & Prestressed Concrete Frames. Concrete Publications, Londres, 1956.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 21, Janeiro, 1960.
-
-N.º 30, Janeiro, 1961.
-
-N.º 34, Outubro, 1961.
-
-N.º 52, Novembro, 1965.
-
-N.º 53, Janeiro, 1966.
-
-N.º 55, Maio, 1966.
-
-FERRY BORGES, J. & ARANTES E OLIVEIRA, E. R. - Non-linear Analysis of Reinforced Concrete Structures. International Association for Bridge and Structural Engineering, «Publications», vol. 23, Zurique, 1963.
-
-FERRY BORGES, J., ARGA E LIMA, J., TEIXEIRA COELHO, A. & MONTEIRO, V. - Analytical Results Concerning the Non-linear Behaviour of Reinforced Concrete Structures. Comité Européen du Béton, «Bulletin d'Information» n.º 53, Paris, Janeiro, 1966.
-
-MASSONNET, CH. & SAVE, M. - Calcul Plastique des Constructions. Centre Belgo-Luxembourgeois d'Information de l'Acier, Bruxelas, 1961-1964.
-
-TEIXEIRA COELHO, A. - Sobre o Comportamento não Linear das Estruturas Hiperstáticas de Betão Armado. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965.
-
-2.2 - Estruturas laminares
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 29, Novembro, 1960.
-
-N.º 35, Março, 1962.
-
-N.º 43, Setembro, 1964.
-
-N.º 44, Outubro, 1964.
-
-N.º 45, Dezembro, 1964.
-
-N.º 50, Julho, 1965.
-
-JOHANSEN, K. K. - Yield-line Theory. Cement and Concrete Association, Londres, 1943-1962.
-
-OLSZAK, W. & SAWCZUK, A. - Cálculo à Rotura de Estruturas Heterogéneas Ortotrópicas. Laboratório Nacional de Engenharia Civil. Memória n.º 172, Lisboa, 1961.
-
-STEINMANN, G. A. - Calcul des Dalles en Béton Armé à la Rupture. «Béton Armé» n.os 1, 2, 3 e 4, Paris, Janeiro a Abril, 1957.
-
-Wood, R. H. - Plastic and Elastic Design of Slabs and Plates. Thames and Hudson, Londres, 1961.
-
-3 - Capacidade resistente
-
-3.1 - Flexão e compressão
-
-AAS-JAKOBSEN, A. - Proposition de Calcul de Flambement (Étude théorique et comparaison expérimentale). Comité Européen du Béton, «Bulletin d'Information» n.º 17, Paris, Abril, 1959.
-
-AAS-JAKOBSEN, A. - Proposition de Recommandation du C. E. B. pour le Calcul du Flambement. Comité Européen du Béton, «Bulletin d'Information» n.º 31, Paris, Fevereiro, 1961.
-
-ARGA E LIMA, J. - Esforços de Rotura em Elementos de Betão Armado. Laboratório Nacional de Engenharia Civil. Memória n.º 178, Lisboa, 1961.
-
-ARGA E LIMA, J. & MONTEIRO, V. - Ábacos para o Cálculo de Esforços de Rotura de Secções Rectangulares de Betão Armado. «Técnica» n.º 336, Lisboa, 1964.
-
-BROMS, B. & VIEST, I. M. - Ultimate Strength Analysis of Long Hinged Reinforced Concrete Columns. «Proceedings of the American Society of Civil Engineers, Journal of the Structural Division», vol. 84, ST1, Nova Iorque, Janeiro, 1958.
-
-CHWALLA, E. - Die Neuen Hilfstafeln zur Berechnung von Spannungsproblemen der Theoriezweiten Ordnung von Knickproblemen. «Der Bauingenieur», 34.º ano, fasc. n.os 4, 6 e 8, Berlim, Abril, Junho e Agosto, 1959.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 15, Março, 1959.
-
-N.º 24, Junho, 1960.
-
-COSTA, F. V. & ARGA E LIMA, J. - Tabelas para o Cálculo do Betão Armado (4.ª edição). «Técnica», Lisboa, 1961.
-
-RÜSCH, H. - Versuche zur Festigkeit der Biegedruckzone. Deutscher Ausschuss für Stahlbeton, Heft 120, Berlim, 1955.
-
-RÜSCH, H., GRASSER, E. & RAO, P. S. - Principes de Calcul du Béton Armé sous des États de Contrainte Monoaxiaux. Comité Européen du Béton, «Bulletin d'Information» n.º 36, Paris, Junho, 1962.
-
-RÜSCH, H. - Essai d'une Nouvelle Théorie à la Flexion du Béton Armé. «Mémoires du Centre d'Études, de Recherches et d'Essais Scientifiques du Génie Civil. Nouvelle Série», n.º 2, Liège, Dezembro, 1962.
-
-SAMPAIO, J. C. - Cálculo à Rotura de Peças de Betão Armado Sujeitas a Flexão. Porto, 1955.
-
-WHITNEY, CH. S. & COHEN, E. - Guide for Ultimate Strength Design of Reinforced Concrete. «Journal of the American Concrete Institute», vol. 28, n.º 5, Detroit, Novembro, 1956.
-
-3.2 - Esforço transverso
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 26, Agosto, 1960.
-
-N.º 37, Outubro, 1962.
-
-N.º 40, Janeiro, 1964.
-
-N.º 42, Julho, 1964.
-
-N.º 49, Maio, 1965.
-
-HOGNESTAD, E. - Shear and Diagonal Tension (Report of the ACI-ASCE Committee 326). «Journal of the American Concrete Institute», vol. 59, n.os 1, 2 e 3, Detroit, Janeiro, Fevereiro e Março, 1962.
-
-LEONHARDT, F. - Les Mécanismes de Rupture à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 41, Paris, Abril, 1964.
-
-LEONHARDT, F. & WALTHER, R. - Compte-rendu des Essais d'Effort Tranchant Récemment Effectués à l'Institut Otto-Graf, à Stuttgart. Comité Européen du Béton, «Bulletin d'Information» n.º 37, Paris, Outubro, 1962.
-
-PÁEZ, A. - Los Esfuerzos Cortantes y la Flexión en et Hormigón Armado. Instituto Técnico de la Construcción y del Cemento, Monografia n.º 212, Madrid, 1961.
-
-TORROJA, E. - Note on Shear. Comité Européen du Béton, Secrétariat Permanent, Paris, Janeiro, 1961.
-
-WALTHER, R. - Le Calcul de la Résistance à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 42, Paris, Julho, 1964.
-
-3.3 - Torção
-
-COWAN, H. J. - Reinforced and Prestressed Concrete in Torsion. Edward Arnold (Publishers), Londres, 1965.
-
-COWAN, H. J. - Calcul des Poutres Soumises à la Torsion d'après le Nouveau Règlement Australien. «Béton Armé», 6.º ano, n.º 45, Paris, Dezembro, 1962, e Janeiro, 1963.
-
-RAUSCH, E. - Drilling (Torsion), Schub und Scheren im Sthalbetonbau. Deutscher Ingenieur-Verlag, Dusseldórfia, 1953.
-
-4 - Fendilhação e deformação
-
-BRICE, L. P. - Théorie de la Fissuration des Pièces en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.º 19, Paris, Junho, 1952.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 12, Fevereiro, 1959.
-
-N.º 13, Fevereiro, 1959.
-
-N.º 19, Setembro, 1959.
-
-N.º 55, Maio, 1966.
-
-FERRY BORGES, J & ARGA E LIMA, J. - Formation of Cracks in Beams with Low Percentage of Reinforcement. RILEM Symposium on Bond and Crack Formation in Reinforced Concrete, Estocolmo, 1957.
-
-FERRY BORGES, J. & ARGA E LIMA, J. - Crack and Deformation Similitude in Reinforced Concrete. RILEM International Colloquium on Models of Structures, Madrid, 1959.
-
-FERRY BORGES, J. - Cracking and Deformability of Reinforced Concrete Beams. International Association for Bridge and Structural Engineering, «Publications», vol. 26, Zurique, 1966.
-
-JÄGER, K. - Rigidité à la Flexion des Poutres en Béton Armé. «Béton Armé», 2.º ano, n.os 8 e 9, Paris, Janeiro a Abril, 1958.
-
-JOHNSON, A. I. - Deformation of Reinforced Concrete. International Association for Bridge and Structural Engineering. «Publications», vol. 11, Zurique, 1951.
-
-LEONHARDT, F. - Anfängliche und Nachträgliche Durchbiegungen von Stahlbetonbalken im Zustand II. (Vorschläge für Bregenzungen und vereinfachte Nachweise). «Beton-und Stahlbetonbau», vol. 54, n.º 10, Berlim, Outubro, 1959.
-
-MALDAGUE, J. C. - Étude de la Déformation des Poutres en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.os 80-82, Paris, Maio e Setembro, 1965.
-
-MONTEIRO, V. M. - Deformabilidade de Elementos de Betão Armado Sujeitos a Flexão. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965.
-
-RÜSCH, H. - Der Zusammenhang zwischen Rissbildung und Haftfestigkeit unter besonder Berücksichtigung der Anwendung hoher Stahlspannungen. International Vereinigung für Brückenbau und Hochbau, Fünfter Kongress, Vorbericht, Lisboa, 1956.
-
-SORETZ, S. - Déformations. Comité Européen du Béton, «Bulletin d'Information» n.º 16, Paris, Março, 1959.
-
-Ministério das Obras Públicas, 20 de Maio de 1967. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.
-
-em que k(índice 1) toma os seguintes valores:
-
-... Valor de k(índice 1)
-
-Vigas simplesmente apoiadas ... 1,0
-
-Vigas duplamente encastradas ... 2,0
-
-Vigas contínuas ... 1,2
-
-Vigas em consola ... 0,3
-
-e k(índice 2) tem os valores indicados no quadro seguinte:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Pelas razões apontadas no comentário do artigo 53.º, deverá, quando não se respeitem os limites especificados no presente artigo, proceder-se ao cálculo das flechas de acordo com o estipulado no artigo 40.º, e à sua limitação de acordo com o artigo 19.º
-
-###### Artigo 64.º - Armadura principal mínima
-
-Nas vigas, a percentagem de armadura principal deve satisfazer aos valores mínimos especificados no quadro seguinte:
-
-Percentagem mínima de armadura principal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-As percentagens mínimas de armadura especificadas são inferiores às percentagens que se utilizam, em geral, na prática. No entanto, condicionamentos arquitectónicos ou outros podem impor dimensões tais aos elementos que as percentagens de armadura a que se seria conduzido pelas regras gerais de dimensionamento fossem excessivamente baixas, o que se considera inconveniente. Reconheceu-se, por isso, a necessidade de estabelecer percentagens mínimas que confiram aos elementos resistências proporcionadas às suas dimensões.
-
-###### Artigo 65.º - Armadura transversal mínima
-
-Nas vigas, deverá dispor-se sempre uma armadura transversal, constituída por estribos com uma área de secção transversal total A(índice t), por estribo, no mínimo de
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Percentagem mínima de armadura transversal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ único. O diâmetro dos estribos não poderá ser inferior a 6 mm para aço A24 e a 5 mm para aços A40, A50 e A60. A distância entre estribos não deve ser superior nem a 30 cm nem a 0,75 da altura útil das vigas.
-
-Recomenda-se, em geral, utilizar estribos fechados, com os comprimentos de sobreposição convenientes, particularmente quando, de acordo com o artigo 35.º, seja considerada a contribuição do betão para a resistência ao esforço transverso. Nos casos em que existe torção, os estribos têm de ser forçosamente fechados, conforme especifica o artigo 36.º
-
-Nas zonas das vigas em que existam armaduras de compressão, o espaçamento dos estribos deve também evidentemente satisfazer à regra de espaçamento de cintas de pilares ordinários especificada no artigo 71.º
-
-###### Artigo 66.º - Armadura de alma
-
-Nas vigas de altura superior aos mínimos a seguir especificados, deve dispor-se uma armadura de alma, de aço da mesma classe do utilizado na armadura principal, constituída por varões longitudinais dispostos junto às faces laterais e distribuídos ao longo da zona traccionada. Esta armadura deve satisfazer às regras indicadas nos parágrafos seguintes.
-
-§ 1.º Nas vigas armadas com aços A40 e A50 de altura superior a 1,00 m, e nas vigas armadas com aço A60 de altura superior a 0,80 m, a armadura de alma a colocar junto de cada face não deve ser inferior ao menor dos limites seguintes:
-
-0,0005 da secção da alma (b x h no caso de vigas rectangulares; b(índice 0) x h no caso de vigas em T);
-
-0,10 da secção da armadura principal no caso de aço A40, 0,15 no caso de aço A50 e 0,20 no caso de aço A60.
-
-§ 2.º As distâncias dos eixos dos varões da armadura de alma entre si, aos varões mais próximos da armadura principal e ao eixo neutro não devem ser superiores a 20 cm. A distância dos varões da armadura de alma aos varões mais próximos da armadura principal deve ser maior que 6 cm.
-
-§ 3.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º
-
-A necessidade de colocação de armaduras de alma em vigas de grande altura armadas com aços de alta resistência resulta do fenómeno de arborização das fendas, que consiste na reunião das numerosas fendas de pequena largura que se formam ao longo da armadura traccionada, num pequeno número de fendas de grande largura, a meia altura da alma. A conveniente colocação de armaduras junto às faces da alma das vigas permite obviar a este fenómeno.
-
-Embora não seja especificada a utilização de armaduras de alma em vigas de grande altura armadas com aço A24, é recomendável, no entanto, adoptar nesse caso disposições semelhantes às indicadas neste artigo.
-
-###### Artigo 67.º - Diâmetro máximo dos varões da armadura principal
-
-Nas vigas armadas com aços A40, A50 e A60, os diâmetros máximos dos varões da armadura principal de tracção devem obedecer às condições especificadas no quadro seguinte:
-
-Diâmetros máximos dos varões da armadura principal (mm)
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-O conhecimento das leis que regem os fenómenos de fendilhação permite relacionar a largura máxima das fendas com as tensões a que se encontram submetidas as armaduras de tracção e, bem assim, com a relação entre o diâmetro dos varões que constituem essas armaduras e a percentagem da sua secção transversal relativamente à secção transversal da alma das vigas (ver artigos 37.º a 39.º).
-
-As regras preconizadas no corpo deste artigo traduzem as referidas leis de uma forma simples do ponto de vista do projectista, respeitando os critérios de segurança em relação à fendilhação estabelecidos no artigo 18.º
-
-Em elementos armados com aço A24 não há qualquer limitação prática a impor ao diâmetro máximo dos varões, dentro da gama de fabrico normalizada.
-
-###### Artigo 68.º - Constituição da armadura principal
-
-Nas vigas, o número de camadas de varões da armadura principal de tracção, na zona de momentos máximos, deve ser, no mínimo, igual ao valor indicado no quadro seguinte:
-
-Número mínimo de camadas da armadura principal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-§ 1.º Cada camada de varões deve compreender, pelo menos, dois varões colocados junto às faces laterais da viga.
-
-§ 2.º Numa camada de varões, o menor diâmetro dos varões não pode ser menor do que 2/3 do maior diâmetro dos varões utilizados nessa camada ou na camada adjacente mais traccionada.
-
-§ 3.º Na camada de varões adjacente à face mais traccionada, o espaçamento dos varões que a constituem será, no máximo, 25 cm quando seja empregado aço A24 e 15 cm quando sejam empregados aços A40, A50 e A60.
-
-§ 4.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º
-
-Para evitar fendilhação inconveniente, interessa que, além das limitações dos diâmetros máximos dos varões a utilizar, se respeitem disposições gerais de distribuição das armaduras, que são igualmente importantes para conseguir uma conveniente repartição das fendas e, portanto, a limitação da largura destas.
-
-As regras relativas ao número mínimo de camadas de armadura conferem uma altura conveniente ao tirante constituído pelas armaduras, obrigando à distribuição destas não só junto à face mais traccionada, mas também junto às faces laterais. Note-se que para o aço A24 não é de exigir o respeito por esta disposição.
-
-E) Disposições relativas a pilares
-
-###### Artigo 69.º - Dimensões mínimas
-
-Os pilares devem, em geral, ter dimensões transversais superiores a 1/20 da sua altura, com o mínimo de 20 cm.
-
-§ único. A espessura de paredes que desempenhem funções de suporte vertical análogas às de pilares não será inferior a 15 cm. No caso de pilares de secção composta (por exemplo em T ou em L), a espessura dos elementos rectangulares que compõem a secção pode descer a 15 cm.
-
-As disposições relativas a dimensões mínimas de pilares destinam-se não só a garantir a segurança para o suporte das cargas verticais, pois, à medida que se reduz a espessura de um elemento, é mais provável que um eventual defeito abranja grande parte da secção, mas também a contribuir para que não seja excessivamente reduzida a capacidade de resistência a acções horizontais. Para melhorar globalmente esta capacidade de resistência, convém que, a um dado nível de uma estrutura de edifício, os pilares não possuam todos as suas faces maiores orientadas numa mesma direcção.
-
-###### Artigo 70.º - Armadura longitudinal de pilares ordinários
-
-Os pilares ordinários sujeitos a compressão simples ou flexão composta devem possuir armaduras longitudinais satisfazendo às condições expressas nos parágrafos seguintes.
-
-§ 1.º A secção transversal das armaduras longitudinais, no caso de ser utilizado aço A24, nunca será inferior nem a 0,8% da secção de betão necessária para resistir por si só ao esforço normal de cálculo nem a 0,4% da secção total do pilar; para os aços A40, A50 e A60, aqueles limites serão, respectivamente, 0,6 e 0,3%.
-
-§ 2.º As armaduras longitudinais serão, no mínimo, constituídas por quatro varões de 12 mm de diâmetro no caso de aço A24 e de 10 mm no caso de aços A40, A50 e A60 (ou por maior número de varões com área equivalente).
-
-§ 3.º O espaçamento dos varões longitudinais será, no máximo, de 35 cm.
-
-§ 4.º A percentagem máxima de armadura longitudinal, em relação à secção total do pilar, é indicada no quadro seguinte em função da classe do betão:
-
-Percentagem máxima de armadura longitudinal
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-As disposições indicadas para as armaduras longitudinais dos pilares procuram garantir a estes a resistência e a ductilidade indispensáveis para o eficiente desempenho das importantes funções inerentes a este tipo de elemento de construção.
-
-Considerou-se necessário completar a prescrição que vigorava no regulamento anterior e que estabelecia a percentagem mínima de armadura em função da secção de betão necessária para suportar o esforço normal actuante, por uma nova condição que faz também depender esta armadura mínima da secção total de betão efectivamente existente.
-
-###### Artigo 71.º - Armadura transversal de pilares ordinários
-
-Os pilares ordinários devem possuir armaduras transversais que cintem convenientemente os varões da armadura longitudinal e que satisfaçam às condições expressas nos parágrafos seguintes.
-
-§ 1.º A distância entre os eixos das cintas não deverá ser maior do que a menor dimensão transversal do pilar nem maior do que doze vezes o diâmetro dos varões longitudinais; esta distância também nunca deverá exceder 25 cm.
-
-§ 2.º Sempre que se utilizem armaduras longitudinais de diâmetro igual ou superior a 25 mm, as cintas devem ser constituídas, no mínimo, por varões de 8 mm de diâmetro.
-
-###### Artigo 72.º - Armaduras longitudinais de pilares reforçados
-
-Os pilares reforçados devem possuir uma armadura longitudinal cuja área esteja compreendida entre 1 e 6% da área do núcleo de betão cintado.
-
-###### Artigo 73.º - Armadura transversal de pilares reforçados
-
-A armadura longitudinal dos pilares reforçados deve ser envolvida por uma armadura transversal constituída por cintas circulares ou por um varão contínuo enrolado em hélice, tal que a distância entre os eixos das cintas ou o passo da hélice não exceda nem 1/5 do diâmetro do núcleo de betão nem 8 cm.
-
-Para que sejam eficazes, as cintas circulares têm de ser fechadas, com os convenientes comprimentos de sobreposição especificados nos artigos 46.º e 47.º
-
-### CAPÍTULO V — Execução dos trabalhos
-
-###### Artigo 74.º - Moldes e cimbres
-
-Os moldes e cimbres devem ser executados de forma a satisfazer as seguintes condições:
-
-a) Suportarem com segurança satisfatória as solicitações a que vão estar sujeitos, nomeadamente as provenientes do impulso do betão fresco durante a sua compactação;
-
-b) Não sofrerem deformações excessivas, de modo que a forma da estrutura executada corresponda, dentro das tolerâncias previstas, à estrutura projectada;
-
-c) Serem suficientemente estanques para não permitirem a fuga da argamassa; no caso de serem constituídos por materiais que absorvam água, devem ser abundantemente molhados antes da betonagem;
-
-d) Serem fàcilmente desmontáveis e, no caso de peças importantes, serem providos de dispositivos convenientes para a desmoldagem (cunhas, caixas de areia, etc.);
-
-e) Disporem de aberturas que permitam a sua conveniente limpeza e inspecção antes da betonagem e a fácil colocação do betão em obra.
-
-###### Artigo 75.º - Armaduras
-
-Na execução das armaduras e na sua colocação em obra respeitar-se-ão as seguintes condições:
-
-a) As armaduras devem ser executadas dentro das tolerâncias dimensionais previstas;
-
-b) Os varões que constituem as armaduras serão, em geral, convenientemente ligados por ataduras de arame recozido. No caso de se utilizar soldadura em aços de qualidade diferente do aço A24, há que verificar, por ensaios, se esta soldadura não afecta as propriedades mecânicas dos varões;
-
-c) As ligações dos varões devem ser convenientemente espaçadas, de modo que o conjunto se apresente com rigidez suficiente para não sofrer deformações, além das tolerâncias previstas, durante a colocação e a compactação do betão;
-
-d) Os varões colocados em obra devem estar convenientemente limpos de ferrugem solta ou de qualquer material que possa afectar a aderência ou a durabilidade dos varões.
-
-###### Artigo 76.º - Preparação, colocação em obra e cura do betão
-
-A preparação, a colocação em obra e a cura do betão devem ser executadas segundo as boas regras técnicas e de acordo com o especificado na legislação em vigor.
-
-Encontrando-se em fase adiantada de preparação um regulamento de betões, deixa-se para esse regulamento a codificação das regras a observar na preparação, colocação e cura do betão.
-
-###### Artigo 77.º - Desmoldagem e descimbramento
-
-A desmoldagem e o descimbramento sòmente deverão ser realizados quando o betão tiver adquirido resistência suficiente, não só para que seja satisfeita a segurança em relação à rotura das peças desmoldadas, mas também para que se não verifiquem deformações excessivas, tanto a curto como a longo prazo.
-
-As operações de desmoldagem e descimbramento devem ser conduzidas com os necessários cuidados, de modo a não provocar esforços inconvenientes, choques ou fortes vibrações.
-
-§ 1.º Nos casos correntes, a menos de justificação especial, em condições normais de temperatura e humidade e para betão de cimento portland normal, os prazos mínimos para a retirada dos moldes e dos escoramentos, contados a partir da data de conclusão da betonagem, são os indicados no quadro seguinte:
-
-Prazos mínimos de desmoldagem e descimbramento
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Aos prazos de desmoldagem e descimbramento indicados no quadro deverá adicionar-se o número de dias em que a temperatura do ar se tenha mantido igual ou inferior a 4ºC, durante e depois da betonagem.
-
-§ 2.º Nos casos especiais, ou nos casos tratados no § 1.º em que se pretenda não respeitar o ali especificado, os prazos de desmoldagem e descimbramento serão estabelecidos e justificados tendo em atenção o preceituado no corpo do artigo e atendendo à evolução das propriedades mecânicas do betão, convenientemente determinadas por ensaios.
-
-### CAPÍTULO VI — Fiscalização e ensaios
-
-###### Artigo 78.º - Verificação e fiscalização das obras
-
-A execução das obras de betão armado deve ser sempre acompanhada de cuidadosa verificação por parte da entidade que tem a seu cargo os trabalhos, sob o contrôle da entidade proprietária da obra ou dos seus agentes.
-
-A fiscalização do Estado ou dos corpos administrativos que têm jurisdição sobre a obra exercer-se-á independentemente daquelas verificações.
-
-As actividades de verificação e fiscalização consistem, fundamentalmente, em verificar se a obra é executada de acordo com o projecto aprovado e, nomeadamente, em:
-
-a) Comprovar a qualidade dos materiais empregados, mandando executar os ensaios necessários para esse fim e apreciando os seus resultados;
-
-b) Verificar a forma, dimensões e perfeição dos moldes, a resistência dos escoramentos e a secção e a posição das armaduras;
-
-c) Acompanhar o fabrico do betão e a sua colocação em obra, mandando colher as amostras necessárias para a posterior realização de ensaios;
-
-d) Verificar as condições em que é realizada a cura do betão e autorizar a desmoldagem dos diferentes elementos.
-
-§ único. A entidade que executa os trabalhos deve elaborar, em livro apropriado, um registo cronológico de ocorrências verificadas no decurso da obra, de que constem, nomeadamente, as datas de betonagem dos diferentes elementos, de modo a possibilitar a correcta contagem dos prazos de desmoldagem. Este livro de registo será facultado aos agentes da fiscalização do Estado ou dos corpos administrativos sempre que estes o exigirem e onde inscreverão todas as determinações e observações que o andamento dos trabalhos lhes sugerirem.
-
-Deve salientar-se a importância das actividades de verificação e fiscalização para garantir a segurança das estruturas. Esta importância é tanto mais saliente quanto mais se explora a capacidade resistente dos materiais e se utilizam processos de construção não tradicionais. Não devem, portanto, deixar nunca de ser efectivadas tais actividades.
-
-Para que se generalize o emprego dos registos de ocorrências das obras, convém que as entidades fiscalizadoras do Estado ou dos corpos administrativos efectivamente promovam e velem pela existência desses registos, prática que, aliás, tem sido seguida por vários organismos.
-
-Faz parte ainda das actividades de verificação e fiscalização velar pelo cumprimento da legislação sobre a segurança no trabalho, nomeadamente o Regulamento de Segurança no Trabalho da Construção Civil, promulgado pelo [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958.
-
-###### Artigo 79.º - Ensaios
-
-Durante e após a execução dos trabalhos deverá proceder-se aos ensaios necessários para comprovar a qualidade dos materiais empregados e a perfeição da execução da obra.
-
-Os ensaios serão realizados de acordo com os regulamentos e normas em vigor.
-
-§ 1.º O número de ensaios necessário para o estudo prévio da composição do betão e para o contrôle do seu fabrico dependerá da importância da obra, devendo sempre respeitar-se os mínimos regulamentarmente estabelecidos.
-
-§ 2.º Poderá dispensar-se a realização, total ou parcial, dos ensaios de recepção dos materiais, se o fornecedor apresentar prova de que a produção desses materiais é controlada pelo Laboratório Nacional de Engenharia Civil, ou por outro laboratório oficial, segundo especificações estabelecidas de acordo com aquele Laboratório.
-
-§ 3.º Quando a importância da obra o justifique e, em particular, quando tiverem sido utilizadas soluções estruturais de concepção não usual ou processos de construção especiais, deverá proceder-se à observação sistemática do comportamento das estruturas, mediante estudos realizados durante e após a construção. Estes estudos deverão ser conduzidos com vista a permitir o julgamento das condições de segurança da obra. O relatório relativo aos resultados destes estudos deverá ser junto ao projecto.
-
-## ANEXO I — Valores de cálculo das propriedades mecânicas dos materiais (a que se refere o artigo 21.º)
-
-A) Betões
-
-Os diagramas tensões-extensões a considerar para os betões sujeitos a compressão (diagramas de cálculo) são os indicados na fig. I-1.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Estes diagramas são definidos por ramos de parábolas que passam pela origem e têm os vértices em pontos cujas ordenadas são as tensões de cálculo (correspondentes às diferentes classes de betão) e cujas abcissas correspondem à extensão de 2(por mil).
-
-As tensões de cálculo (sigma)(elevado a *)(índice b) são obtidas pela expressão
-
-(sigma)(elevado a *)(índice b) = (0,85/1,5)(sigma)(índice bk)
-
-em que (sigma)(índice bk) é a tensão característica definidora da classe do betão (referida ao ensaio, aos 28 dias, de cubos de 20 cm de aresta). O coeficiente 0,85 tem em vista transformar a resistência assim determinada em resistência prismática, e o denominador 1,5 é o coeficiente de minoração das propriedades mecânicas do betão (ver artigo 14.º), que reduz a tensão característica a tensão de cálculo.
-
-No caso de elementos sujeitos a esforços de compressão simples (artigo 32.º), considera-se necessário aumentar este coeficiente de minoração para 2,0, em geral, e para 2,5 no caso de emprego de betão B180 não controlado. Deste modo, as tensões de cálculo a adoptar no dimensionamento de tais elementos serão, respectivamente:
-
-(0,85/2,0)(sigma)(índice bk) = 0,75(sigma)(elevado a *)(índice b), e (0,85/2,5)(sigma)(índice bk) = 0,60(sigma)(elevado a *)(índice b)
-
-Os diagramas anteriormente indicados destinam-se à determinação da capacidade resistente das secções. Para o cálculo das deformações instantâneas, no caso das combinações do tipo I (R. S. E. P.), poderá considerar-se que o diagrama tensões-extensões do betão é linear, definido por um módulo de elasticidade dado, em kgf/cm2, pela expressão
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Nos casos correntes poderá fixar-se o valor de E(índice b) considerando para valor de (sigma)(índice bj) a tensão de rotura característica, obtendo-se assim, para as diferentes classes de betão, os valores de E(índice b) que constam do quadro seguinte:
-
-Módulos de elasticidade do betão, E(índice b)
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Para o cálculo das deformações devidas a solicitações de longa duração devem considerar-se os efeitos da fluência do betão conforme é especificado no artigo 25.º
-
-Para o coeficiente de Poisson, poderá adoptar-se, em geral, o valor (ni) = 0,2.
-
-B) Aços
-
-a) Aços de dureza natural
-
-Os diagramas tensões-extensões a considerar para os varões de aço de dureza natural com cedência, das classes A24 e A40N, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-2.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-b) Aços endurecidos a frio
-
-Os diagramas tensões-extensões a considerar para os varões de aço endurecido a frio das classes A40T, A50 e A60, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-3.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os diagramas especificados para os aços são definidos por um troço recto inicial que corresponde ao comportamento elástico (com módulo de elasticidade E(índice a) = 2,1 x 10(elevado a 6) kgf/cm2).
-
-Para os aços de dureza natural, as deformações de cedência são representadas também por troços rectos, de tensão constante. Os valores de cálculo, (sigma)(elevado a *)(índice a), indicados para as tensões correspondentes a estes troços, são obtidos a partir dos valores característicos da tensão de cedência dos aços, (sigma)(índice ak), pela expressão
-
-(sigma)(elevado a *)(índice a) = ((sigma)(índice k))/1,15
-
-em que o denominador é o coeficiente de minoração das propriedades mecânicas dos aços.
-
-Para os aços endurecidos a frio, a parte curva do diagrama é obtida a partir do diagrama característico por meio de uma afinidade paralela à recta que define o comportamento elástico; as tensões de cálculo, (sigma)(elevado *)(índice a), correspondentes a uma dada extensão residual estão relacionadas com as tensões características correspondentes a essa extensão, (sigma)(índice ak), pela expressão
-
-(sigma)(elevado a *)(índice a) = ((sigma)(índice ak)/1,15)
-
-No quadro seguinte indicam-se os valores das tensões de cálculo em função das extensões residuais que lhes correspondem:
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Os diagramas tensões-extensões prescritos para os aços são limitados, no caso da tracção, à extensão de 10(por mil) e, no caso da compressão, à extensão de 2(por mil).
-
-## ANEXO II — Elementos para o cálculo das deformações de vigas
-
-(a que se refere o artigo 40.º)
-
-A) Diagramas momentos-curvaturas
-
-Os diagramas momentos-curvaturas a considerar para o cálculo das deformações de vigas rectangulares, para as combinações de solicitações do tipo I (R. S. E. P.), são os indicados nas figs. II-2 a 11.
-
-Cada diagrama é constituído por um troço inicial, correspondente ao comportamento de secções não fendilhadas, a que se segue um troço que corresponde ao comportamento de secções fendilhadas.
-
-O troço inicial tem o coeficiente angular E(índice b)/10, resultante de se ter tomado, para altura útil das vigas, h, 0,94 da altura total, h(índice t). De facto, para secções rectangulares, tem-se
-
-I = (b h(elevado a 3)(índice t)/12)(aproximadamente idêntico a)(b h(elevado a 3)/10)
-
-e como
-
-(M/EI) = (1/r) = ((teta)/h) = ((épsilo)(índice a) + (épsilo)(índice b))/h
-
-vem
-
-(M/b h(elevado a 2)) = (E(índice b)/10)(teta)
-
-O troço seguinte foi calculado considerando para o betão à compressão o módulo de elasticidade E(índice b) e, para as armaduras, a relação entre extensões e tensões definida no artigo 37.º Os diagramas dependem, assim, não só deste módulo de elasticidade, mas também da percentagem de armadura, [([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf), que intervém na expressão que relaciona as extensões com as tensões nas armaduras.
-
-Os valores indicados nos diagramas momentos-curvaturas ao longo dos troços relativos ao comportamento de secções fendilhadas indicam a ductilidade dos diagramas correspondentes ao momento flector que se considera.
-
-Designa-se por ductilidade, (delta), a relação entre as áreas A(índice 1) e A(índice 0), fig. II-1. Para o comportamento elástico perfeito delta toma o valor 0 e para o comportamento plástico perfeito toma o valor 1.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-B) Cálculo de deformações
-
-Dados o valor do momento máximo que se verifica na viga (M), as dimensões desta (b e h), o módulo de elasticidade do betão (E(índice b)) a considerar (anexo I e artigo 25.º), determinam-se pelos diagramas referidos os valores de (teta) e (delta). O cálculo das flechas máximas faz-se a partir destes valores, de acordo com as expressões indicadas no quadro seguinte, tomando para factor de correcção, k, os valores, função de (delta), que constam do mesmo quadro. Para o comportamento elástico perfeito, (delta) e k tomam, respectivamente, os valores 0 e 1:
-
-Coeficientes de correcção, k
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Nos casos de vigas total ou parcialmente encastradas, os dados anteriores podem ainda ser utilizados, combinando devidamente as deformações nas zonas de momentos negativos e positivos.
-
-Quando as armaduras sejam de aço da classe A24, os diagramas momentos-curvaturas a utilizar serão constituídos apenas pelo troço correspondente ao comportamento de secções não fendilhadas. As expressões indicadas no quadro anterior podem ainda ser utilizadas, e k tomará sempre o valor 1. Os valores de teta poderão obter-se directamente em função do momento flector máximo M pela expressão
-
-(teta) = 10 M/(b h(elevado a 2)E(índice b))
-
-No caso de solicitações permanentes, deve tomar-se para o betão o valor do módulo de elasticidade indicado no anexo I, convenientemente reduzido, para ter em conta os efeitos da fluência, conforme especifica o artigo 25.º
-
-Para a combinação de solicitações permanentes com solicitações acidentais de curta duração, deverá tomar-se para o betão um módulo de elasticidade equivalente que traduza convenientemente a verificação de deformações a longo e a curto prazo.
-
-Assim, sendo:
-
-s - valor das solicitações acidentais aplicadas quando o betão tem a idade k;
-
-g - valor das solicitações permanentes aplicadas quando o betão tem a idade j;
-
-(alfa) = s/g - relação entre os valores das solicitações g acidentais e permanentes;
-
-E(índice bk) - módulo de elasticidade do betão com a idade de dias;
-
-E(índice bj) - módulo de elasticidade do betão com a idade de j dias;
-
-(fi) - coeficiente de fluência do betão para as condições de aplicação das solicitações permanentes consideradas (nos casos correntes (fi) = 3, artigo 25.º),
-
-o módulo de elasticidade equivalente será dado pela expressão
-
-E = (1 + (alfa))/((fi)/E(índice bj) + (alfa)/E(índice bk))
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-BIBLIOGRAFIA
-
-A) Normas e regulamentos
-
-Comité Européen du Béton:
-
-Recommandations Pratiques à l'Usage des Constructeurs. Comité Européen du Béton, «Bulletin d'Information» n.º 39, Paris, 1963.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Brasil:
-
-Cálculo e Execução de Obras de Concreto Armado. NB-1. Associação Brasileira de Normas Técnicas, Rio de Janeiro, 1960.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Estados Unidos da América:
-
-Building Code Requirements for Reinforced Concrete. ACI 318-63. American Concrete Institute, Detroit, 1963.
-
-França:
-
-Règles pour le Calcul et l'Exécution des Constructions en Béton Armé. Règles B.A.1960. Centre Scientifique et Technique du Bâtiment, Paris, 1961.
-
-Inglaterra:
-
-The Structural Use of Reinforced Concrete in Buildings. British Standard Code of Pratice CP 114:1957. British Standards Institution, Londres, 1957.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Portugal:
-
-Regulamento do Betão Armado - [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960.
-
-Regulamento de Segurança das Construções contra os Sismos - [Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 31 de Maio de 1958.
-
-Regulamento de Segurança no Trabalho da Construção Civil - [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958.
-
-Regulamento de Solicitações em Edifícios e Pontes - [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961.
-
-Regulamento de Estruturas de Aço para Edifícios - [Decreto n.º 46160](https://diariodarepublica.pt/dr/detalhe/decreto/46160-1965-238992), de 19 de Janeiro de 1965.
-
-Normas Portuguesas. Inspecção-Geral dos Produtos Agrícolas e Industriais, Lisboa:
-
-NP-105 (1957) - Metais. Ensaio de tracção.
-
-NP-173 (1959) - Metais. Ensaio de dobragem.
-
-NP-332 (1964) - Aço laminado. Varão para betão. Dimensões.
-
-Documentos de Homologação de Novos Materiais e Processos de Construção. Laboratório Nacional de Engenharia Civil, Lisboa:
-
-Aço Bi - Condições de emprego em betão armado (1963).
-
-Aço SN T40 - Condições de emprego em betão armado (1964).
-
-Heliaço - Condições de emprego em betão armado (1965).
-
-Helitraço - Condições de emprego em betão armado (1965).
-
-Vocabulário de Teoria das Estruturas. Especificação E 183. Laboratório Nacional de Engenharia Civil, Lisboa, 1966.
-
-Suíça:
-
-Normes concernant les Constructions en Béton, en Béton Armé et en Béton Précontraint. Normes Techniques SIA nº 162, 1956. Société Suisse des Ingénieurs et des Architectes, Zurique, 1956.
-
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf))](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf)
-
-Instructions concernant le Calcul des Structures Hyperstatiques en Béton Armé compte-tenu de la Redistribution des Efforts. (Tradução francesa). Comité Européen du Béton, «Bulletin d'Information» n.º 28, Paris, Outubro, 1960.
-
-B) Tratados
-
-FERGUSON, P. M. - Reinforced Concrete Fundamentals. John Wiley & Sons, Nova Iorque, 1965.
-
-GUERRIN, A. - Traité de Béton Armé. Dunod, Paris, 1963.
-
-JIMENEZ MONTOYA, P. - Hormigón Armado. Editorial Dossat, Madrid, 1964.
-
-JONES, L. L. - Ultimate Load Analysis of Reinforced and Prestressed Concrete Structures. Chatto and Windus, Londres, 1962.
-
-LANGENDONCK, T. - Cálculo de Concreto Armado. Editora Científica, Rio de Janeiro, 1959.
-
-MOREIRA DA ROCHA, A. - Curso Prático de Concreto Armado. Editora Científica, Rio de Janeiro, 1964.
-
-MÖRSCH, E. - Teoria y Práctica del Hormigón Armado. (Tradução espanhola). Ediciones G. Gili, Buenos Aires, 1952.
-
-C) Outras publicações
-
-1 - Critérios gerais de dimensionamento e segurança
-
-CORREIA DE ARAÚJO, F. J. S. - Os Modernos Conceitos Europeus de Cálculo do Betão Armado. 1.as Jornadas Luso-Brasileiras de Engenharia Civil, Lisboa, 1960.
-
-FERRY BORGES, J. - O Dimensionamento de Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 54, Lisboa, 1954.
-
-FERRY BORGES, J. - Structural Behaviour and Safety Criteria. International Association for Bridge and Structural Engineering, VII Congress, Preliminary Publication, Rio de Janeiro, 1964.
-
-ROCHA, M. - Dimensionamento Experimental das Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 21, Lisboa, 1952.
-
-TORROJA, E. & PÁEZ, A. - La Determinación del Coeficiente de Seguridad en las Distintas Obras. Instituto Técnico de la Construcción y del Cemento, Madrid, 1949.
-
-TORROJA, E. - La Conception et le Calcul du Coefficient de Sécurité dans les Constructions en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Théories et Méthodes de Calcul» n.º 13, Paris, Junho, 1951.
-
-TORROJA, E. - Proposition pour le Calcul de la Sécurité dans les Ouvrages en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 4, Paris, Abril, 1958.
-
-2 - Cálculo de esforços
-
-2.1 - Estruturas reticuladas
-
-BAKER, A. L. L. - The Ultimate-load Theory applied to the Design of Reinforced & Prestressed Concrete Frames. Concrete Publications, Londres, 1956.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 21, Janeiro, 1960.
-
-N.º 30, Janeiro, 1961.
-
-N.º 34, Outubro, 1961.
-
-N.º 52, Novembro, 1965.
-
-N.º 53, Janeiro, 1966.
-
-N.º 55, Maio, 1966.
-
-FERRY BORGES, J. & ARANTES E OLIVEIRA, E. R. - Non-linear Analysis of Reinforced Concrete Structures. International Association for Bridge and Structural Engineering, «Publications», vol. 23, Zurique, 1963.
-
-FERRY BORGES, J., ARGA E LIMA, J., TEIXEIRA COELHO, A. & MONTEIRO, V. - Analytical Results Concerning the Non-linear Behaviour of Reinforced Concrete Structures. Comité Européen du Béton, «Bulletin d'Information» n.º 53, Paris, Janeiro, 1966.
-
-MASSONNET, CH. & SAVE, M. - Calcul Plastique des Constructions. Centre Belgo-Luxembourgeois d'Information de l'Acier, Bruxelas, 1961-1964.
-
-TEIXEIRA COELHO, A. - Sobre o Comportamento não Linear das Estruturas Hiperstáticas de Betão Armado. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965.
-
-2.2 - Estruturas laminares
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 29, Novembro, 1960.
-
-N.º 35, Março, 1962.
-
-N.º 43, Setembro, 1964.
-
-N.º 44, Outubro, 1964.
-
-N.º 45, Dezembro, 1964.
-
-N.º 50, Julho, 1965.
-
-JOHANSEN, K. K. - Yield-line Theory. Cement and Concrete Association, Londres, 1943-1962.
-
-OLSZAK, W. & SAWCZUK, A. - Cálculo à Rotura de Estruturas Heterogéneas Ortotrópicas. Laboratório Nacional de Engenharia Civil. Memória n.º 172, Lisboa, 1961.
-
-STEINMANN, G. A. - Calcul des Dalles en Béton Armé à la Rupture. «Béton Armé» n.os 1, 2, 3 e 4, Paris, Janeiro a Abril, 1957.
-
-Wood, R. H. - Plastic and Elastic Design of Slabs and Plates. Thames and Hudson, Londres, 1961.
-
-3 - Capacidade resistente
-
-3.1 - Flexão e compressão
-
-AAS-JAKOBSEN, A. - Proposition de Calcul de Flambement (Étude théorique et comparaison expérimentale). Comité Européen du Béton, «Bulletin d'Information» n.º 17, Paris, Abril, 1959.
-
-AAS-JAKOBSEN, A. - Proposition de Recommandation du C. E. B. pour le Calcul du Flambement. Comité Européen du Béton, «Bulletin d'Information» n.º 31, Paris, Fevereiro, 1961.
-
-ARGA E LIMA, J. - Esforços de Rotura em Elementos de Betão Armado. Laboratório Nacional de Engenharia Civil. Memória n.º 178, Lisboa, 1961.
-
-ARGA E LIMA, J. & MONTEIRO, V. - Ábacos para o Cálculo de Esforços de Rotura de Secções Rectangulares de Betão Armado. «Técnica» n.º 336, Lisboa, 1964.
-
-BROMS, B. & VIEST, I. M. - Ultimate Strength Analysis of Long Hinged Reinforced Concrete Columns. «Proceedings of the American Society of Civil Engineers, Journal of the Structural Division», vol. 84, ST1, Nova Iorque, Janeiro, 1958.
-
-CHWALLA, E. - Die Neuen Hilfstafeln zur Berechnung von Spannungsproblemen der Theoriezweiten Ordnung von Knickproblemen. «Der Bauingenieur», 34.º ano, fasc. n.os 4, 6 e 8, Berlim, Abril, Junho e Agosto, 1959.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 15, Março, 1959.
-
-N.º 24, Junho, 1960.
-
-COSTA, F. V. & ARGA E LIMA, J. - Tabelas para o Cálculo do Betão Armado (4.ª edição). «Técnica», Lisboa, 1961.
-
-RÜSCH, H. - Versuche zur Festigkeit der Biegedruckzone. Deutscher Ausschuss für Stahlbeton, Heft 120, Berlim, 1955.
-
-RÜSCH, H., GRASSER, E. & RAO, P. S. - Principes de Calcul du Béton Armé sous des États de Contrainte Monoaxiaux. Comité Européen du Béton, «Bulletin d'Information» n.º 36, Paris, Junho, 1962.
-
-RÜSCH, H. - Essai d'une Nouvelle Théorie à la Flexion du Béton Armé. «Mémoires du Centre d'Études, de Recherches et d'Essais Scientifiques du Génie Civil. Nouvelle Série», n.º 2, Liège, Dezembro, 1962.
-
-SAMPAIO, J. C. - Cálculo à Rotura de Peças de Betão Armado Sujeitas a Flexão. Porto, 1955.
-
-WHITNEY, CH. S. & COHEN, E. - Guide for Ultimate Strength Design of Reinforced Concrete. «Journal of the American Concrete Institute», vol. 28, n.º 5, Detroit, Novembro, 1956.
-
-3.2 - Esforço transverso
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 26, Agosto, 1960.
-
-N.º 37, Outubro, 1962.
-
-N.º 40, Janeiro, 1964.
-
-N.º 42, Julho, 1964.
-
-N.º 49, Maio, 1965.
-
-HOGNESTAD, E. - Shear and Diagonal Tension (Report of the ACI-ASCE Committee 326). «Journal of the American Concrete Institute», vol. 59, n.os 1, 2 e 3, Detroit, Janeiro, Fevereiro e Março, 1962.
-
-LEONHARDT, F. - Les Mécanismes de Rupture à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 41, Paris, Abril, 1964.
-
-LEONHARDT, F. & WALTHER, R. - Compte-rendu des Essais d'Effort Tranchant Récemment Effectués à l'Institut Otto-Graf, à Stuttgart. Comité Européen du Béton, «Bulletin d'Information» n.º 37, Paris, Outubro, 1962.
-
-PÁEZ, A. - Los Esfuerzos Cortantes y la Flexión en et Hormigón Armado. Instituto Técnico de la Construcción y del Cemento, Monografia n.º 212, Madrid, 1961.
-
-TORROJA, E. - Note on Shear. Comité Européen du Béton, Secrétariat Permanent, Paris, Janeiro, 1961.
-
-WALTHER, R. - Le Calcul de la Résistance à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 42, Paris, Julho, 1964.
-
-3.3 - Torção
-
-COWAN, H. J. - Reinforced and Prestressed Concrete in Torsion. Edward Arnold (Publishers), Londres, 1965.
-
-COWAN, H. J. - Calcul des Poutres Soumises à la Torsion d'après le Nouveau Règlement Australien. «Béton Armé», 6.º ano, n.º 45, Paris, Dezembro, 1962, e Janeiro, 1963.
-
-RAUSCH, E. - Drilling (Torsion), Schub und Scheren im Sthalbetonbau. Deutscher Ingenieur-Verlag, Dusseldórfia, 1953.
-
-4 - Fendilhação e deformação
-
-BRICE, L. P. - Théorie de la Fissuration des Pièces en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.º 19, Paris, Junho, 1952.
-
-Comité Européen du Béton, «Bulletins d'Information», Paris:
-
-N.º 12, Fevereiro, 1959.
-
-N.º 13, Fevereiro, 1959.
-
-N.º 19, Setembro, 1959.
-
-N.º 55, Maio, 1966.
-
-FERRY BORGES, J & ARGA E LIMA, J. - Formation of Cracks in Beams with Low Percentage of Reinforcement. RILEM Symposium on Bond and Crack Formation in Reinforced Concrete, Estocolmo, 1957.
-
-FERRY BORGES, J. & ARGA E LIMA, J. - Crack and Deformation Similitude in Reinforced Concrete. RILEM International Colloquium on Models of Structures, Madrid, 1959.
-
-FERRY BORGES, J. - Cracking and Deformability of Reinforced Concrete Beams. International Association for Bridge and Structural Engineering, «Publications», vol. 26, Zurique, 1966.
-
-JÄGER, K. - Rigidité à la Flexion des Poutres en Béton Armé. «Béton Armé», 2.º ano, n.os 8 e 9, Paris, Janeiro a Abril, 1958.
-
-JOHNSON, A. I. - Deformation of Reinforced Concrete. International Association for Bridge and Structural Engineering. «Publications», vol. 11, Zurique, 1951.
-
-LEONHARDT, F. - Anfängliche und Nachträgliche Durchbiegungen von Stahlbetonbalken im Zustand II. (Vorschläge für Bregenzungen und vereinfachte Nachweise). «Beton-und Stahlbetonbau», vol. 54, n.º 10, Berlim, Outubro, 1959.
-
-MALDAGUE, J. C. - Étude de la Déformation des Poutres en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.os 80-82, Paris, Maio e Setembro, 1965.
-
-MONTEIRO, V. M. - Deformabilidade de Elementos de Betão Armado Sujeitos a Flexão. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965.
-
-RÜSCH, H. - Der Zusammenhang zwischen Rissbildung und Haftfestigkeit unter besonder Berücksichtigung der Anwendung hoher Stahlspannungen. International Vereinigung für Brückenbau und Hochbau, Fünfter Kongress, Vorbericht, Lisboa, 1956.
-
-SORETZ, S. - Déformations. Comité Européen du Béton, «Bulletin d'Information» n.º 16, Paris, Março, 1959.
-
-Ministério das Obras Públicas, 20 de Maio de 1967. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.
+(l/h)=em que k(índice 1) toma os seguintes valores: ... Valor de k(índice 1) Lajes simplesmente apoiadas armadas numa só direcção ... 1,0 Lajes contínuas armadas numa só direcção ... 1,2 Lajes duplamente encastradas armadas numa só direcção ... 2,0 Lajes simplesmente apoiadas armadas em cruz ... 1,4 Lajes contínuas armadas em cruz ... 1,7 Lajes em consola ... 0,3 e k(índice 2) tem os valores indicados no quadro seguinte: [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) § único. Nas lajes armadas em cruz deverá tomar-se para valor de l o correspondente ao menor vão. No caso de a relação entre os vãos ser superior a 1,5, devem considerar-se os valores de k(índice 1) correspondentes às lajes armadas numa só direcção. Pretende-se com a limitação das relações l/h garantir que a deformabilidade das lajes seja suficientemente pequena; no entanto, a regra simplificada que se apresenta não tem em consideração vários parâmetros que, em certos casos, podem ter influência na deformabilidade. Quando não se respeitem os limites especificados, haverá que proceder ao cálculo das flechas como indica o artigo 40.º, e à sua limitação de acordo com o artigo 19.º Artigo 54.º - Armadura principal das lajes armadas numa só direcção Nas lajes maciças armadas numa só direcção, a distância entre os varões da armadura principal nas regiões de momentos máximos (positivos e negativos) não deve ser superior a uma vez e meia a espessura da laje, com o máximo de 15 cm. Artigo 55.º - Armadura de distribuição das lajes armadas numa só direcção A secção da armadura de distribuição das lajes maciças armadas numa só direcção será, no mínimo, por metro de largura de laje, 1/5 da secção da armadura principal na mesma secção. Em todas as circunstâncias e independentemente da condição anterior, a armadura de distribuição será constituída, no mínimo, por metro de largura de laje, no caso de emprego de aço A24, por quatro varões de 6 mm, e, no caso de emprego de aços A40, A50 e A60, por três varões de 5 mm (ou por um número maior de varões de diâmetro inferior a que corresponda uma secção equivalente). Se na armadura de distribuição for empregado aço de classe inferior ao da armadura principal, haverá que aumentar a secção da armadura de distribuição em proporção inversa da relação das tensões que definem as classes dos aços em causa. Artigo 56.º - Armaduras das lajes armadas em cruz As armaduras das lajes maciças armadas em cruz devem, numa e noutra direcção, obedecer às condições prescritas no artigo 54.º para a armadura principal das lajes armadas numa só direcção. C) Disposições relativas a lajes aligeiradas Artigo 57.º - Características geométricas Para efeitos do presente regulamento, consideram-se como lajes aligeiradas as lajes nervuradas, numa ou em duas direcções, obtidas pela inclusão de elementos ocos ou por meio de cofragens especiais e que obedecem aos seguintes requisitos (fig. 7): A distância entre faces de nervuras consecutivas não é superior a 70 cm; A largura das nervuras não é inferior a 0,25 da altura total da laje, com o mínimo de 5 cm; A espessura da laje superior (lajeta) não é inferior a 0,10 da distância entre faces de nervuras, com o mínimo de 3 cm (fig. 7-a); no caso de esta lajeta ter a face inferior abobadada (fig. 7-b), a espessura no fecho da abóbada pode ser reduzida a 3 cm desde que, junto às nervuras, a espessura da lajeta seja superior a 0,15 da distância entre faces de nervuras, com o mínimo de 5 cm. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Os condicionamentos geométricos indicados no artigo devem ser satisfeitos para as lajes nervuradas numa ou em duas direcções; neste último caso, as espessuras mínimas da lajeta serão condicionadas pelo maior espaçamento entre nervuras. Como é referido no comentário do artigo 29.º, os esforços de cálculo a considerar no dimensionamento das lajes aligeiradas podem ser determinados pelas teorias elásticas aplicáveis às lajes maciças; a capacidade resistente pode ser obtida considerando estas lajes como constituídas por uma associação de vigas em T justapostas, em que se tomará como secção activa apenas a parte constituída por betão, desprezando-se qualquer contribuição dos elementos de cofragem. Artigo 58.º - Vãos teóricos. Altura útil mínima No estabelecimento dos vãos teóricos e da altura útil das lajes aligeiradas aplicar-se-ão as condições estipuladas para as lajes maciças nos artigos 51.º e 53.º Artigo 59.º - Armadura de distribuição Nas lajes aligeiradas deve dispor-se, na lajeta e transversalmente ao vão principal, uma armadura de distribuição constituída, no mínimo, por metro de largura de laje, no caso de emprego de aço A24, por quatro varões de 6 mm, e, no caso de emprego de aços A40, A50 e A60, por três varões de 5 mm (ou por um número maior de varões de diâmetro inferior a que corresponda uma secção equivalente). A armadura de distribuição destina-se a conferir às lajes aligeiradas a necessária resistência a acções tais como variações de temperatura importantes (no caso de coberturas) ou cargas concentradas; se as cargas deste tipo forem severas, podem, eventualmente, implicar problemas de punçoamento da lajeta, que há que estudar com a devida atenção, condicionando a espessura daquele elemento e a armadura de distribuição a utilizar. De acordo com o disposto no artigo, a armadura de distribuição será colocada normalmente às nervuras das lajes que as possuam numa só direcção, enquanto que, nas lajes nervuradas em duas direcções, será colocada normalmente às nervuras dispostas segundo o vão principal, ou seja, aquela a que corresponde momento flector de maior valor por metro de largura de laje. Artigo 60.º - Nervuras transversais das lajes nervuradas numa só direcção Nas lajes aligeiradas nervuradas numa só direcção, devem dispor-se nervuras transversais de solidarização (tarugos), cujo espaçamento, entre si e aos apoios, não deve ser superior a 2,00 m. Estas nervuras terão 5 cm de largura, pelo menos, e uma armadura colocada inferiormente cuja secção será, no mínimo, 0,10 da secção da armadura principal correspondente a uma largura de laje igual à distância entre tarugos. O tarugamento das lajes nervuradas numa só direcção é necessário para garantir a solidarização das nervuras, permitindo o seu funcionamento conjunto, particularmente quando da actuação de cargas concentradas, quer permanentes (caso das paredes divisórias) quer acidentais. No caso da ocorrência de cargas deste tipo de valor muito importante, as armaduras dos tarugos devem ser convenientemente dimensionadas. Se na armadura dos tarugos for empregado aço de classe inferior ao da armadura principal, haverá que aumentar a secção daquela armadura em proporção inversa da relação das tensões que definem as classes dos aços em causa. D) Disposições relativas a vigas Artigo 61.º - Vãos teóricos Os vãos teóricos a considerar no dimensionamento das vigas devem ser estabelecidos tendo em conta as condições efectivas de apoio. Nos casos correntes, devem adoptar-se para vão teórico os seguintes valores: Nas vigas simplesmente apoiadas, a distância entre os eixos dos apoios e, se estes forem consideràvelmente largos, o vão livre aumentado de 5%; Nas vigas contínuas, a distância entre eixos dos apoios. Tal como se refere no comentário do artigo 51.º, podem as condições efectivas de apoio exigir a adopção de esquemas para a definição dos vãos teóricos diferentes dos indicados no corpo do artigo. Artigo 62.º - Largura do banzo das vigas em T A largura máxima a considerar para o banzo das vigas em T ou em L deverá ser estabelecida tendo em conta as condições de apoio (simples ou com continuidade), o modo de aplicação das solicitações (concentradas ou distribuídas), as características geométricas das vigas, o seu espaçamento e a existência de esquadros na ligação do banzo à alma. § único. A menos de determinações mais precisas, a largura do banzo das vigas em T pode ser obtida, em geral, adicionando à largura da alma, de um e de outro lado, uma largura que não exceda o menor dos seguintes valores: 1/2 da distância entre faces das almas de vigas consecutivas; 1/10 da distância entre pontos de momento nulo; 1/10 do vão, no caso de vigas simplesmente apoiadas. No caso de vigas em L, esta largura será adicionada de uma só vez à largura da alma. A regra simplificada que consta do § único está de acordo com as prescrições do C. E. B., e poderá ser utilizada não só para o estudo da capacidade resistente de secções, mas também para o estudo da deformabilidade das vigas, tanto no cálculo de flechas como no estudo de estruturas hiperstáticas. Artigo 63.º - Altura útil mínima A altura útil h das vigas, a menos de justificação especial conforme o estipulado no artigo 19.º, deve estar relacionada com o vão teórico, l, pela expressão (l/h)=em que k(índice 1) toma os seguintes valores: ... Valor de k(índice 1) Vigas simplesmente apoiadas ... 1,0 Vigas duplamente encastradas ... 2,0 Vigas contínuas ... 1,2 Vigas em consola ... 0,3 e k(índice 2) tem os valores indicados no quadro seguinte: [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Pelas razões apontadas no comentário do artigo 53.º, deverá, quando não se respeitem os limites especificados no presente artigo, proceder-se ao cálculo das flechas de acordo com o estipulado no artigo 40.º, e à sua limitação de acordo com o artigo 19.º Artigo 64.º - Armadura principal mínima Nas vigas, a percentagem de armadura principal deve satisfazer aos valores mínimos especificados no quadro seguinte: Percentagem mínima de armadura principal [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) As percentagens mínimas de armadura especificadas são inferiores às percentagens que se utilizam, em geral, na prática. No entanto, condicionamentos arquitectónicos ou outros podem impor dimensões tais aos elementos que as percentagens de armadura a que se seria conduzido pelas regras gerais de dimensionamento fossem excessivamente baixas, o que se considera inconveniente. Reconheceu-se, por isso, a necessidade de estabelecer percentagens mínimas que confiram aos elementos resistências proporcionadas às suas dimensões. Artigo 65.º - Armadura transversal mínima Nas vigas, deverá dispor-se sempre uma armadura transversal, constituída por estribos com uma área de secção transversal total A(índice t), por estribo, no mínimo de [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Percentagem mínima de armadura transversal [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) § único. O diâmetro dos estribos não poderá ser inferior a 6 mm para aço A24 e a 5 mm para aços A40, A50 e A60. A distância entre estribos não deve ser superior nem a 30 cm nem a 0,75 da altura útil das vigas. Recomenda-se, em geral, utilizar estribos fechados, com os comprimentos de sobreposição convenientes, particularmente quando, de acordo com o artigo 35.º, seja considerada a contribuição do betão para a resistência ao esforço transverso. Nos casos em que existe torção, os estribos têm de ser forçosamente fechados, conforme especifica o artigo 36.º Nas zonas das vigas em que existam armaduras de compressão, o espaçamento dos estribos deve também evidentemente satisfazer à regra de espaçamento de cintas de pilares ordinários especificada no artigo 71.º Artigo 66.º - Armadura de alma Nas vigas de altura superior aos mínimos a seguir especificados, deve dispor-se uma armadura de alma, de aço da mesma classe do utilizado na armadura principal, constituída por varões longitudinais dispostos junto às faces laterais e distribuídos ao longo da zona traccionada. Esta armadura deve satisfazer às regras indicadas nos parágrafos seguintes. § 1.º Nas vigas armadas com aços A40 e A50 de altura superior a 1,00 m, e nas vigas armadas com aço A60 de altura superior a 0,80 m, a armadura de alma a colocar junto de cada face não deve ser inferior ao menor dos limites seguintes: 0,0005 da secção da alma (b x h no caso de vigas rectangulares; b(índice 0) x h no caso de vigas em T); 0,10 da secção da armadura principal no caso de aço A40, 0,15 no caso de aço A50 e 0,20 no caso de aço A60. § 2.º As distâncias dos eixos dos varões da armadura de alma entre si, aos varões mais próximos da armadura principal e ao eixo neutro não devem ser superiores a 20 cm. A distância dos varões da armadura de alma aos varões mais próximos da armadura principal deve ser maior que 6 cm. § 3.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º A necessidade de colocação de armaduras de alma em vigas de grande altura armadas com aços de alta resistência resulta do fenómeno de arborização das fendas, que consiste na reunião das numerosas fendas de pequena largura que se formam ao longo da armadura traccionada, num pequeno número de fendas de grande largura, a meia altura da alma. A conveniente colocação de armaduras junto às faces da alma das vigas permite obviar a este fenómeno. Embora não seja especificada a utilização de armaduras de alma em vigas de grande altura armadas com aço A24, é recomendável, no entanto, adoptar nesse caso disposições semelhantes às indicadas neste artigo. Artigo 67.º - Diâmetro máximo dos varões da armadura principal Nas vigas armadas com aços A40, A50 e A60, os diâmetros máximos dos varões da armadura principal de tracção devem obedecer às condições especificadas no quadro seguinte: Diâmetros máximos dos varões da armadura principal (mm) [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) O conhecimento das leis que regem os fenómenos de fendilhação permite relacionar a largura máxima das fendas com as tensões a que se encontram submetidas as armaduras de tracção e, bem assim, com a relação entre o diâmetro dos varões que constituem essas armaduras e a percentagem da sua secção transversal relativamente à secção transversal da alma das vigas (ver artigos 37.º a 39.º). As regras preconizadas no corpo deste artigo traduzem as referidas leis de uma forma simples do ponto de vista do projectista, respeitando os critérios de segurança em relação à fendilhação estabelecidos no artigo 18.º Em elementos armados com aço A24 não há qualquer limitação prática a impor ao diâmetro máximo dos varões, dentro da gama de fabrico normalizada. Artigo 68.º - Constituição da armadura principal Nas vigas, o número de camadas de varões da armadura principal de tracção, na zona de momentos máximos, deve ser, no mínimo, igual ao valor indicado no quadro seguinte: Número mínimo de camadas da armadura principal [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) § 1.º Cada camada de varões deve compreender, pelo menos, dois varões colocados junto às faces laterais da viga. § 2.º Numa camada de varões, o menor diâmetro dos varões não pode ser menor do que 2/3 do maior diâmetro dos varões utilizados nessa camada ou na camada adjacente mais traccionada. § 3.º Na camada de varões adjacente à face mais traccionada, o espaçamento dos varões que a constituem será, no máximo, 25 cm quando seja empregado aço A24 e 15 cm quando sejam empregados aços A40, A50 e A60. § 4.º A observância das regras especificadas neste artigo não é de exigir nas vigas cujas armaduras tenham sido dimensionadas por imposição do especificado no artigo 64.º Para evitar fendilhação inconveniente, interessa que, além das limitações dos diâmetros máximos dos varões a utilizar, se respeitem disposições gerais de distribuição das armaduras, que são igualmente importantes para conseguir uma conveniente repartição das fendas e, portanto, a limitação da largura destas. As regras relativas ao número mínimo de camadas de armadura conferem uma altura conveniente ao tirante constituído pelas armaduras, obrigando à distribuição destas não só junto à face mais traccionada, mas também junto às faces laterais. Note-se que para o aço A24 não é de exigir o respeito por esta disposição. E) Disposições relativas a pilares Artigo 69.º - Dimensões mínimas Os pilares devem, em geral, ter dimensões transversais superiores a 1/20 da sua altura, com o mínimo de 20 cm. § único. A espessura de paredes que desempenhem funções de suporte vertical análogas às de pilares não será inferior a 15 cm. No caso de pilares de secção composta (por exemplo em T ou em L), a espessura dos elementos rectangulares que compõem a secção pode descer a 15 cm. As disposições relativas a dimensões mínimas de pilares destinam-se não só a garantir a segurança para o suporte das cargas verticais, pois, à medida que se reduz a espessura de um elemento, é mais provável que um eventual defeito abranja grande parte da secção, mas também a contribuir para que não seja excessivamente reduzida a capacidade de resistência a acções horizontais. Para melhorar globalmente esta capacidade de resistência, convém que, a um dado nível de uma estrutura de edifício, os pilares não possuam todos as suas faces maiores orientadas numa mesma direcção. Artigo 70.º - Armadura longitudinal de pilares ordinários Os pilares ordinários sujeitos a compressão simples ou flexão composta devem possuir armaduras longitudinais satisfazendo às condições expressas nos parágrafos seguintes. § 1.º A secção transversal das armaduras longitudinais, no caso de ser utilizado aço A24, nunca será inferior nem a 0,8% da secção de betão necessária para resistir por si só ao esforço normal de cálculo nem a 0,4% da secção total do pilar; para os aços A40, A50 e A60, aqueles limites serão, respectivamente, 0,6 e 0,3%. § 2.º As armaduras longitudinais serão, no mínimo, constituídas por quatro varões de 12 mm de diâmetro no caso de aço A24 e de 10 mm no caso de aços A40, A50 e A60 (ou por maior número de varões com área equivalente). § 3.º O espaçamento dos varões longitudinais será, no máximo, de 35 cm. § 4.º A percentagem máxima de armadura longitudinal, em relação à secção total do pilar, é indicada no quadro seguinte em função da classe do betão: Percentagem máxima de armadura longitudinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) As disposições indicadas para as armaduras longitudinais dos pilares procuram garantir a estes a resistência e a ductilidade indispensáveis para o eficiente desempenho das importantes funções inerentes a este tipo de elemento de construção. Considerou-se necessário completar a prescrição que vigorava no regulamento anterior e que estabelecia a percentagem mínima de armadura em função da secção de betão necessária para suportar o esforço normal actuante, por uma nova condição que faz também depender esta armadura mínima da secção total de betão efectivamente existente. Artigo 71.º - Armadura transversal de pilares ordinários Os pilares ordinários devem possuir armaduras transversais que cintem convenientemente os varões da armadura longitudinal e que satisfaçam às condições expressas nos parágrafos seguintes. § 1.º A distância entre os eixos das cintas não deverá ser maior do que a menor dimensão transversal do pilar nem maior do que doze vezes o diâmetro dos varões longitudinais; esta distância também nunca deverá exceder 25 cm. § 2.º Sempre que se utilizem armaduras longitudinais de diâmetro igual ou superior a 25 mm, as cintas devem ser constituídas, no mínimo, por varões de 8 mm de diâmetro. Artigo 72.º - Armaduras longitudinais de pilares reforçados Os pilares reforçados devem possuir uma armadura longitudinal cuja área esteja compreendida entre 1 e 6% da área do núcleo de betão cintado. Artigo 73.º - Armadura transversal de pilares reforçados A armadura longitudinal dos pilares reforçados deve ser envolvida por uma armadura transversal constituída por cintas circulares ou por um varão contínuo enrolado em hélice, tal que a distância entre os eixos das cintas ou o passo da hélice não exceda nem 1/5 do diâmetro do núcleo de betão nem 8 cm. Para que sejam eficazes, as cintas circulares têm de ser fechadas, com os convenientes comprimentos de sobreposição especificados nos artigos 46.º e 47.º CAPÍTULO V Execução dos trabalhos Artigo 74.º - Moldes e cimbres Os moldes e cimbres devem ser executados de forma a satisfazer as seguintes condições: a) Suportarem com segurança satisfatória as solicitações a que vão estar sujeitos, nomeadamente as provenientes do impulso do betão fresco durante a sua compactação; b) Não sofrerem deformações excessivas, de modo que a forma da estrutura executada corresponda, dentro das tolerâncias previstas, à estrutura projectada; c) Serem suficientemente estanques para não permitirem a fuga da argamassa; no caso de serem constituídos por materiais que absorvam água, devem ser abundantemente molhados antes da betonagem; d) Serem fàcilmente desmontáveis e, no caso de peças importantes, serem providos de dispositivos convenientes para a desmoldagem (cunhas, caixas de areia, etc.); e) Disporem de aberturas que permitam a sua conveniente limpeza e inspecção antes da betonagem e a fácil colocação do betão em obra. Artigo 75.º - Armaduras Na execução das armaduras e na sua colocação em obra respeitar-se-ão as seguintes condições: a) As armaduras devem ser executadas dentro das tolerâncias dimensionais previstas; b) Os varões que constituem as armaduras serão, em geral, convenientemente ligados por ataduras de arame recozido. No caso de se utilizar soldadura em aços de qualidade diferente do aço A24, há que verificar, por ensaios, se esta soldadura não afecta as propriedades mecânicas dos varões; c) As ligações dos varões devem ser convenientemente espaçadas, de modo que o conjunto se apresente com rigidez suficiente para não sofrer deformações, além das tolerâncias previstas, durante a colocação e a compactação do betão; d) Os varões colocados em obra devem estar convenientemente limpos de ferrugem solta ou de qualquer material que possa afectar a aderência ou a durabilidade dos varões. Artigo 76.º - Preparação, colocação em obra e cura do betão A preparação, a colocação em obra e a cura do betão devem ser executadas segundo as boas regras técnicas e de acordo com o especificado na legislação em vigor. Encontrando-se em fase adiantada de preparação um regulamento de betões, deixa-se para esse regulamento a codificação das regras a observar na preparação, colocação e cura do betão. Artigo 77.º - Desmoldagem e descimbramento A desmoldagem e o descimbramento sòmente deverão ser realizados quando o betão tiver adquirido resistência suficiente, não só para que seja satisfeita a segurança em relação à rotura das peças desmoldadas, mas também para que se não verifiquem deformações excessivas, tanto a curto como a longo prazo. As operações de desmoldagem e descimbramento devem ser conduzidas com os necessários cuidados, de modo a não provocar esforços inconvenientes, choques ou fortes vibrações. § 1.º Nos casos correntes, a menos de justificação especial, em condições normais de temperatura e humidade e para betão de cimento portland normal, os prazos mínimos para a retirada dos moldes e dos escoramentos, contados a partir da data de conclusão da betonagem, são os indicados no quadro seguinte: Prazos mínimos de desmoldagem e descimbramento [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Aos prazos de desmoldagem e descimbramento indicados no quadro deverá adicionar-se o número de dias em que a temperatura do ar se tenha mantido igual ou inferior a 4ºC, durante e depois da betonagem. § 2.º Nos casos especiais, ou nos casos tratados no § 1.º em que se pretenda não respeitar o ali especificado, os prazos de desmoldagem e descimbramento serão estabelecidos e justificados tendo em atenção o preceituado no corpo do artigo e atendendo à evolução das propriedades mecânicas do betão, convenientemente determinadas por ensaios. CAPÍTULO VI Fiscalização e ensaios Artigo 78.º - Verificação e fiscalização das obras A execução das obras de betão armado deve ser sempre acompanhada de cuidadosa verificação por parte da entidade que tem a seu cargo os trabalhos, sob o contrôle da entidade proprietária da obra ou dos seus agentes. A fiscalização do Estado ou dos corpos administrativos que têm jurisdição sobre a obra exercer-se-á independentemente daquelas verificações. As actividades de verificação e fiscalização consistem, fundamentalmente, em verificar se a obra é executada de acordo com o projecto aprovado e, nomeadamente, em: a) Comprovar a qualidade dos materiais empregados, mandando executar os ensaios necessários para esse fim e apreciando os seus resultados; b) Verificar a forma, dimensões e perfeição dos moldes, a resistência dos escoramentos e a secção e a posição das armaduras; c) Acompanhar o fabrico do betão e a sua colocação em obra, mandando colher as amostras necessárias para a posterior realização de ensaios; d) Verificar as condições em que é realizada a cura do betão e autorizar a desmoldagem dos diferentes elementos. § único. A entidade que executa os trabalhos deve elaborar, em livro apropriado, um registo cronológico de ocorrências verificadas no decurso da obra, de que constem, nomeadamente, as datas de betonagem dos diferentes elementos, de modo a possibilitar a correcta contagem dos prazos de desmoldagem. Este livro de registo será facultado aos agentes da fiscalização do Estado ou dos corpos administrativos sempre que estes o exigirem e onde inscreverão todas as determinações e observações que o andamento dos trabalhos lhes sugerirem. Deve salientar-se a importância das actividades de verificação e fiscalização para garantir a segurança das estruturas. Esta importância é tanto mais saliente quanto mais se explora a capacidade resistente dos materiais e se utilizam processos de construção não tradicionais. Não devem, portanto, deixar nunca de ser efectivadas tais actividades. Para que se generalize o emprego dos registos de ocorrências das obras, convém que as entidades fiscalizadoras do Estado ou dos corpos administrativos efectivamente promovam e velem pela existência desses registos, prática que, aliás, tem sido seguida por vários organismos. Faz parte ainda das actividades de verificação e fiscalização velar pelo cumprimento da legislação sobre a segurança no trabalho, nomeadamente o Regulamento de Segurança no Trabalho da Construção Civil, promulgado pelo [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958. Artigo 79.º - Ensaios Durante e após a execução dos trabalhos deverá proceder-se aos ensaios necessários para comprovar a qualidade dos materiais empregados e a perfeição da execução da obra. Os ensaios serão realizados de acordo com os regulamentos e normas em vigor. § 1.º O número de ensaios necessário para o estudo prévio da composição do betão e para o contrôle do seu fabrico dependerá da importância da obra, devendo sempre respeitar-se os mínimos regulamentarmente estabelecidos. § 2.º Poderá dispensar-se a realização, total ou parcial, dos ensaios de recepção dos materiais, se o fornecedor apresentar prova de que a produção desses materiais é controlada pelo Laboratório Nacional de Engenharia Civil, ou por outro laboratório oficial, segundo especificações estabelecidas de acordo com aquele Laboratório. § 3.º Quando a importância da obra o justifique e, em particular, quando tiverem sido utilizadas soluções estruturais de concepção não usual ou processos de construção especiais, deverá proceder-se à observação sistemática do comportamento das estruturas, mediante estudos realizados durante e após a construção. Estes estudos deverão ser conduzidos com vista a permitir o julgamento das condições de segurança da obra. O relatório relativo aos resultados destes estudos deverá ser junto ao projecto. ANEXO I Valores de cálculo das propriedades mecânicas dos materiais (a que se refere o artigo 21.º) A) Betões Os diagramas tensões-extensões a considerar para os betões sujeitos a compressão (diagramas de cálculo) são os indicados na fig. I-1. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Estes diagramas são definidos por ramos de parábolas que passam pela origem e têm os vértices em pontos cujas ordenadas são as tensões de cálculo (correspondentes às diferentes classes de betão) e cujas abcissas correspondem à extensão de 2(por mil). As tensões de cálculo (sigma)(elevado a *)(índice b) são obtidas pela expressão (sigma)(elevado a *)(índice b) = (0,85/1,5)(sigma)(índice bk) em que (sigma)(índice bk) é a tensão característica definidora da classe do betão (referida ao ensaio, aos 28 dias, de cubos de 20 cm de aresta). O coeficiente 0,85 tem em vista transformar a resistência assim determinada em resistência prismática, e o denominador 1,5 é o coeficiente de minoração das propriedades mecânicas do betão (ver artigo 14.º), que reduz a tensão característica a tensão de cálculo. No caso de elementos sujeitos a esforços de compressão simples (artigo 32.º), considera-se necessário aumentar este coeficiente de minoração para 2,0, em geral, e para 2,5 no caso de emprego de betão B180 não controlado. Deste modo, as tensões de cálculo a adoptar no dimensionamento de tais elementos serão, respectivamente: (0,85/2,0)(sigma)(índice bk) = 0,75(sigma)(elevado a *)(índice b), e (0,85/2,5)(sigma)(índice bk) = 0,60(sigma)(elevado a *)(índice b) Os diagramas anteriormente indicados destinam-se à determinação da capacidade resistente das secções. Para o cálculo das deformações instantâneas, no caso das combinações do tipo I (R. S. E. P.), poderá considerar-se que o diagrama tensões-extensões do betão é linear, definido por um módulo de elasticidade dado, em kgf/cm2, pela expressão [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Nos casos correntes poderá fixar-se o valor de E(índice b) considerando para valor de (sigma)(índice bj) a tensão de rotura característica, obtendo-se assim, para as diferentes classes de betão, os valores de E(índice b) que constam do quadro seguinte: Módulos de elasticidade do betão, E(índice b) [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Para o cálculo das deformações devidas a solicitações de longa duração devem considerar-se os efeitos da fluência do betão conforme é especificado no artigo 25.º Para o coeficiente de Poisson, poderá adoptar-se, em geral, o valor (ni) = 0,2. B) Aços a) Aços de dureza natural Os diagramas tensões-extensões a considerar para os varões de aço de dureza natural com cedência, das classes A24 e A40N, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-2. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) b) Aços endurecidos a frio Os diagramas tensões-extensões a considerar para os varões de aço endurecido a frio das classes A40T, A50 e A60, quando sujeitos a tracção ou compressão (diagramas de cálculo), são os indicados na fig. I-3. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Os diagramas especificados para os aços são definidos por um troço recto inicial que corresponde ao comportamento elástico (com módulo de elasticidade E(índice a) = 2,1 x 10(elevado a 6) kgf/cm2). Para os aços de dureza natural, as deformações de cedência são representadas também por troços rectos, de tensão constante. Os valores de cálculo, (sigma)(elevado a *)(índice a), indicados para as tensões correspondentes a estes troços, são obtidos a partir dos valores característicos da tensão de cedência dos aços, (sigma)(índice ak), pela expressão (sigma)(elevado a *)(índice a) = ((sigma)(índice k))/1,15 em que o denominador é o coeficiente de minoração das propriedades mecânicas dos aços. Para os aços endurecidos a frio, a parte curva do diagrama é obtida a partir do diagrama característico por meio de uma afinidade paralela à recta que define o comportamento elástico; as tensões de cálculo, (sigma)(elevado *)(índice a), correspondentes a uma dada extensão residual estão relacionadas com as tensões características correspondentes a essa extensão, (sigma)(índice ak), pela expressão (sigma)(elevado a *)(índice a) = ((sigma)(índice ak)/1,15) No quadro seguinte indicam-se os valores das tensões de cálculo em função das extensões residuais que lhes correspondem: [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Os diagramas tensões-extensões prescritos para os aços são limitados, no caso da tracção, à extensão de 10(por mil) e, no caso da compressão, à extensão de 2(por mil). ANEXO II Elementos para o cálculo das deformações de vigas (a que se refere o artigo 40.º) A) Diagramas momentos-curvaturas Os diagramas momentos-curvaturas a considerar para o cálculo das deformações de vigas rectangulares, para as combinações de solicitações do tipo I (R. S. E. P.), são os indicados nas figs. II-2 a 11. Cada diagrama é constituído por um troço inicial, correspondente ao comportamento de secções não fendilhadas, a que se segue um troço que corresponde ao comportamento de secções fendilhadas. O troço inicial tem o coeficiente angular E(índice b)/10, resultante de se ter tomado, para altura útil das vigas, h, 0,94 da altura total, h(índice t). De facto, para secções rectangulares, tem-se I = (b h(elevado a 3)(índice t)/12)(aproximadamente idêntico a)(b h(elevado a 3)/10) e como (M/EI) = (1/r) = ((teta)/h) = ((épsilo)(índice a) + (épsilo)(índice b))/h vem (M/b h(elevado a 2)) = (E(índice b)/10)(teta) O troço seguinte foi calculado considerando para o betão à compressão o módulo de elasticidade E(índice b) e, para as armaduras, a relação entre extensões e tensões definida no artigo 37.º Os diagramas dependem, assim, não só deste módulo de elasticidade, mas também da percentagem de armadura, [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf), que intervém na expressão que relaciona as extensões com as tensões nas armaduras. Os valores indicados nos diagramas momentos-curvaturas ao longo dos troços relativos ao comportamento de secções fendilhadas indicam a ductilidade dos diagramas correspondentes ao momento flector que se considera. Designa-se por ductilidade, (delta), a relação entre as áreas A(índice 1) e A(índice 0), fig. II-1. Para o comportamento elástico perfeito delta toma o valor 0 e para o comportamento plástico perfeito toma o valor 1. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) B) Cálculo de deformações Dados o valor do momento máximo que se verifica na viga (M), as dimensões desta (b e h), o módulo de elasticidade do betão (E(índice b)) a considerar (anexo I e artigo 25.º), determinam-se pelos diagramas referidos os valores de (teta) e (delta). O cálculo das flechas máximas faz-se a partir destes valores, de acordo com as expressões indicadas no quadro seguinte, tomando para factor de correcção, k, os valores, função de (delta), que constam do mesmo quadro. Para o comportamento elástico perfeito, (delta) e k tomam, respectivamente, os valores 0 e 1: Coeficientes de correcção, k [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Nos casos de vigas total ou parcialmente encastradas, os dados anteriores podem ainda ser utilizados, combinando devidamente as deformações nas zonas de momentos negativos e positivos. Quando as armaduras sejam de aço da classe A24, os diagramas momentos-curvaturas a utilizar serão constituídos apenas pelo troço correspondente ao comportamento de secções não fendilhadas. As expressões indicadas no quadro anterior podem ainda ser utilizadas, e k tomará sempre o valor 1. Os valores de teta poderão obter-se directamente em função do momento flector máximo M pela expressão (teta) = 10 M/(b h(elevado a 2)E(índice b)) No caso de solicitações permanentes, deve tomar-se para o betão o valor do módulo de elasticidade indicado no anexo I, convenientemente reduzido, para ter em conta os efeitos da fluência, conforme especifica o artigo 25.º Para a combinação de solicitações permanentes com solicitações acidentais de curta duração, deverá tomar-se para o betão um módulo de elasticidade equivalente que traduza convenientemente a verificação de deformações a longo e a curto prazo. Assim, sendo: s - valor das solicitações acidentais aplicadas quando o betão tem a idade k; g - valor das solicitações permanentes aplicadas quando o betão tem a idade j; (alfa) = s/g - relação entre os valores das solicitações g acidentais e permanentes; E(índice bk) - módulo de elasticidade do betão com a idade de dias; E(índice bj) - módulo de elasticidade do betão com a idade de j dias; (fi) - coeficiente de fluência do betão para as condições de aplicação das solicitações permanentes consideradas (nos casos correntes (fi) = 3, artigo 25.º), o módulo de elasticidade equivalente será dado pela expressão E = (1 + (alfa))/((fi)/E(índice bj) + (alfa)/E(índice bk)) [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) BIBLIOGRAFIA A) Normas e regulamentos Comité Européen du Béton: Recommandations Pratiques à l'Usage des Constructeurs. Comité Européen du Béton, «Bulletin d'Information» n.º 39, Paris, 1963. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Brasil: Cálculo e Execução de Obras de Concreto Armado. NB-1. Associação Brasileira de Normas Técnicas, Rio de Janeiro, 1960. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Estados Unidos da América: Building Code Requirements for Reinforced Concrete. ACI 318-63. American Concrete Institute, Detroit, 1963. França: Règles pour le Calcul et l'Exécution des Constructions en Béton Armé. Règles B.A.1960. Centre Scientifique et Technique du Bâtiment, Paris, 1961. Inglaterra: The Structural Use of Reinforced Concrete in Buildings. British Standard Code of Pratice CP 114:1957. British Standards Institution, Londres, 1957. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Portugal: Regulamento do Betão Armado - [Decreto n.º 25948](https://diariodarepublica.pt/dr/detalhe/decreto/25948-1935-536672), de 16 de Outubro de 1935, com as alterações introduzidas pelos Decretos n.os 33021, de 2 de Setembro de 1943, e 42873, de 12 de Março de 1960. Regulamento de Segurança das Construções contra os Sismos - [Decreto n.º 41658](https://diariodarepublica.pt/dr/detalhe/decreto/41658-1958-353685), de 31 de Maio de 1958. Regulamento de Segurança no Trabalho da Construção Civil - [Decreto n.º 41821](https://diariodarepublica.pt/dr/detalhe/decreto/41821-1958-352090), de 11 de Agosto de 1958. Regulamento de Solicitações em Edifícios e Pontes - [Decreto n.º 44041](https://diariodarepublica.pt/dr/detalhe/decreto/44041-1961-181610), de 18 de Novembro de 1961. Regulamento de Estruturas de Aço para Edifícios - [Decreto n.º 46160](https://diariodarepublica.pt/dr/detalhe/decreto/46160-1965-238992), de 19 de Janeiro de 1965. Normas Portuguesas. Inspecção-Geral dos Produtos Agrícolas e Industriais, Lisboa: NP-105 (1957) - Metais. Ensaio de tracção. NP-173 (1959) - Metais. Ensaio de dobragem. NP-332 (1964) - Aço laminado. Varão para betão. Dimensões. Documentos de Homologação de Novos Materiais e Processos de Construção. Laboratório Nacional de Engenharia Civil, Lisboa: Aço Bi - Condições de emprego em betão armado (1963). Aço SN T40 - Condições de emprego em betão armado (1964). Heliaço - Condições de emprego em betão armado (1965). Helitraço - Condições de emprego em betão armado (1965). Vocabulário de Teoria das Estruturas. Especificação E 183. Laboratório Nacional de Engenharia Civil, Lisboa, 1966. Suíça: Normes concernant les Constructions en Béton, en Béton Armé et en Béton Précontraint. Normes Techniques SIA nº 162, 1956. Société Suisse des Ingénieurs et des Architectes, Zurique, 1956. [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/11901/10951130.pdf) Instructions concernant le Calcul des Structures Hyperstatiques en Béton Armé compte-tenu de la Redistribution des Efforts. (Tradução francesa). Comité Européen du Béton, «Bulletin d'Information» n.º 28, Paris, Outubro, 1960. B) Tratados FERGUSON, P. M. - Reinforced Concrete Fundamentals. John Wiley & Sons, Nova Iorque, 1965. GUERRIN, A. - Traité de Béton Armé. Dunod, Paris, 1963. JIMENEZ MONTOYA, P. - Hormigón Armado. Editorial Dossat, Madrid, 1964. JONES, L. L. - Ultimate Load Analysis of Reinforced and Prestressed Concrete Structures. Chatto and Windus, Londres, 1962. LANGENDONCK, T. - Cálculo de Concreto Armado. Editora Científica, Rio de Janeiro, 1959. MOREIRA DA ROCHA, A. - Curso Prático de Concreto Armado. Editora Científica, Rio de Janeiro, 1964. MÖRSCH, E. - Teoria y Práctica del Hormigón Armado. (Tradução espanhola). Ediciones G. Gili, Buenos Aires, 1952. C) Outras publicações 1 - Critérios gerais de dimensionamento e segurança CORREIA DE ARAÚJO, F. J. S. - Os Modernos Conceitos Europeus de Cálculo do Betão Armado. 1.as Jornadas Luso-Brasileiras de Engenharia Civil, Lisboa, 1960. FERRY BORGES, J. - O Dimensionamento de Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 54, Lisboa, 1954. FERRY BORGES, J. - Structural Behaviour and Safety Criteria. International Association for Bridge and Structural Engineering, VII Congress, Preliminary Publication, Rio de Janeiro, 1964. ROCHA, M. - Dimensionamento Experimental das Estruturas. Laboratório Nacional de Engenharia Civil, publicação n.º 21, Lisboa, 1952. TORROJA, E. & PÁEZ, A. - La Determinación del Coeficiente de Seguridad en las Distintas Obras. Instituto Técnico de la Construcción y del Cemento, Madrid, 1949. TORROJA, E. - La Conception et le Calcul du Coefficient de Sécurité dans les Constructions en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Théories et Méthodes de Calcul» n.º 13, Paris, Junho, 1951. TORROJA, E. - Proposition pour le Calcul de la Sécurité dans les Ouvrages en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 4, Paris, Abril, 1958. 2 - Cálculo de esforços 2.1 - Estruturas reticuladas BAKER, A. L. L. - The Ultimate-load Theory applied to the Design of Reinforced & Prestressed Concrete Frames. Concrete Publications, Londres, 1956. Comité Européen du Béton, «Bulletins d'Information», Paris: N.º 21, Janeiro, 1960. N.º 30, Janeiro, 1961. N.º 34, Outubro, 1961. N.º 52, Novembro, 1965. N.º 53, Janeiro, 1966. N.º 55, Maio, 1966. FERRY BORGES, J. & ARANTES E OLIVEIRA, E. R. - Non-linear Analysis of Reinforced Concrete Structures. International Association for Bridge and Structural Engineering, «Publications», vol. 23, Zurique, 1963. FERRY BORGES, J., ARGA E LIMA, J., TEIXEIRA COELHO, A. & MONTEIRO, V. - Analytical Results Concerning the Non-linear Behaviour of Reinforced Concrete Structures. Comité Européen du Béton, «Bulletin d'Information» n.º 53, Paris, Janeiro, 1966. MASSONNET, CH. & SAVE, M. - Calcul Plastique des Constructions. Centre Belgo-Luxembourgeois d'Information de l'Acier, Bruxelas, 1961-1964. TEIXEIRA COELHO, A. - Sobre o Comportamento não Linear das Estruturas Hiperstáticas de Betão Armado. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965. 2.2 - Estruturas laminares Comité Européen du Béton, «Bulletins d'Information», Paris: N.º 29, Novembro, 1960. N.º 35, Março, 1962. N.º 43, Setembro, 1964. N.º 44, Outubro, 1964. N.º 45, Dezembro, 1964. N.º 50, Julho, 1965. JOHANSEN, K. K. - Yield-line Theory. Cement and Concrete Association, Londres, 1943-1962. OLSZAK, W. & SAWCZUK, A. - Cálculo à Rotura de Estruturas Heterogéneas Ortotrópicas. Laboratório Nacional de Engenharia Civil. Memória n.º 172, Lisboa, 1961. STEINMANN, G. A. - Calcul des Dalles en Béton Armé à la Rupture. «Béton Armé» n.os 1, 2, 3 e 4, Paris, Janeiro a Abril, 1957. Wood, R. H. - Plastic and Elastic Design of Slabs and Plates. Thames and Hudson, Londres, 1961. 3 - Capacidade resistente 3.1 - Flexão e compressão AAS-JAKOBSEN, A. - Proposition de Calcul de Flambement (Étude théorique et comparaison expérimentale). Comité Européen du Béton, «Bulletin d'Information» n.º 17, Paris, Abril, 1959. AAS-JAKOBSEN, A. - Proposition de Recommandation du C. E. B. pour le Calcul du Flambement. Comité Européen du Béton, «Bulletin d'Information» n.º 31, Paris, Fevereiro, 1961. ARGA E LIMA, J. - Esforços de Rotura em Elementos de Betão Armado. Laboratório Nacional de Engenharia Civil. Memória n.º 178, Lisboa, 1961. ARGA E LIMA, J. & MONTEIRO, V. - Ábacos para o Cálculo de Esforços de Rotura de Secções Rectangulares de Betão Armado. «Técnica» n.º 336, Lisboa, 1964. BROMS, B. & VIEST, I. M. - Ultimate Strength Analysis of Long Hinged Reinforced Concrete Columns. «Proceedings of the American Society of Civil Engineers, Journal of the Structural Division», vol. 84, ST1, Nova Iorque, Janeiro, 1958. CHWALLA, E. - Die Neuen Hilfstafeln zur Berechnung von Spannungsproblemen der Theoriezweiten Ordnung von Knickproblemen. «Der Bauingenieur», 34.º ano, fasc. n.os 4, 6 e 8, Berlim, Abril, Junho e Agosto, 1959. Comité Européen du Béton, «Bulletins d'Information», Paris: N.º 15, Março, 1959. N.º 24, Junho, 1960. COSTA, F. V. & ARGA E LIMA, J. - Tabelas para o Cálculo do Betão Armado (4.ª edição). «Técnica», Lisboa, 1961. RÜSCH, H. - Versuche zur Festigkeit der Biegedruckzone. Deutscher Ausschuss für Stahlbeton, Heft 120, Berlim, 1955. RÜSCH, H., GRASSER, E. & RAO, P. S. - Principes de Calcul du Béton Armé sous des États de Contrainte Monoaxiaux. Comité Européen du Béton, «Bulletin d'Information» n.º 36, Paris, Junho, 1962. RÜSCH, H. - Essai d'une Nouvelle Théorie à la Flexion du Béton Armé. «Mémoires du Centre d'Études, de Recherches et d'Essais Scientifiques du Génie Civil. Nouvelle Série», n.º 2, Liège, Dezembro, 1962. SAMPAIO, J. C. - Cálculo à Rotura de Peças de Betão Armado Sujeitas a Flexão. Porto, 1955. WHITNEY, CH. S. & COHEN, E. - Guide for Ultimate Strength Design of Reinforced Concrete. «Journal of the American Concrete Institute», vol. 28, n.º 5, Detroit, Novembro, 1956. 3.2 - Esforço transverso Comité Européen du Béton, «Bulletins d'Information», Paris: N.º 26, Agosto, 1960. N.º 37, Outubro, 1962. N.º 40, Janeiro, 1964. N.º 42, Julho, 1964. N.º 49, Maio, 1965. HOGNESTAD, E. - Shear and Diagonal Tension (Report of the ACI-ASCE Committee 326). «Journal of the American Concrete Institute», vol. 59, n.os 1, 2 e 3, Detroit, Janeiro, Fevereiro e Março, 1962. LEONHARDT, F. - Les Mécanismes de Rupture à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 41, Paris, Abril, 1964. LEONHARDT, F. & WALTHER, R. - Compte-rendu des Essais d'Effort Tranchant Récemment Effectués à l'Institut Otto-Graf, à Stuttgart. Comité Européen du Béton, «Bulletin d'Information» n.º 37, Paris, Outubro, 1962. PÁEZ, A. - Los Esfuerzos Cortantes y la Flexión en et Hormigón Armado. Instituto Técnico de la Construcción y del Cemento, Monografia n.º 212, Madrid, 1961. TORROJA, E. - Note on Shear. Comité Européen du Béton, Secrétariat Permanent, Paris, Janeiro, 1961. WALTHER, R. - Le Calcul de la Résistance à l'Effort Tranchant des Poutres en Béton Armé. Comité Européen du Béton, «Bulletin d'Information» n.º 42, Paris, Julho, 1964. 3.3 - Torção COWAN, H. J. - Reinforced and Prestressed Concrete in Torsion. Edward Arnold (Publishers), Londres, 1965. COWAN, H. J. - Calcul des Poutres Soumises à la Torsion d'après le Nouveau Règlement Australien. «Béton Armé», 6.º ano, n.º 45, Paris, Dezembro, 1962, e Janeiro, 1963. RAUSCH, E. - Drilling (Torsion), Schub und Scheren im Sthalbetonbau. Deutscher Ingenieur-Verlag, Dusseldórfia, 1953. 4 - Fendilhação e deformação BRICE, L. P. - Théorie de la Fissuration des Pièces en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.º 19, Paris, Junho, 1952. Comité Européen du Béton, «Bulletins d'Information», Paris: N.º 12, Fevereiro, 1959. N.º 13, Fevereiro, 1959. N.º 19, Setembro, 1959. N.º 55, Maio, 1966. FERRY BORGES, J & ARGA E LIMA, J. - Formation of Cracks in Beams with Low Percentage of Reinforcement. RILEM Symposium on Bond and Crack Formation in Reinforced Concrete, Estocolmo, 1957. FERRY BORGES, J. & ARGA E LIMA, J. - Crack and Deformation Similitude in Reinforced Concrete. RILEM International Colloquium on Models of Structures, Madrid, 1959. FERRY BORGES, J. - Cracking and Deformability of Reinforced Concrete Beams. International Association for Bridge and Structural Engineering, «Publications», vol. 26, Zurique, 1966. JÄGER, K. - Rigidité à la Flexion des Poutres en Béton Armé. «Béton Armé», 2.º ano, n.os 8 e 9, Paris, Janeiro a Abril, 1958. JOHNSON, A. I. - Deformation of Reinforced Concrete. International Association for Bridge and Structural Engineering. «Publications», vol. 11, Zurique, 1951. LEONHARDT, F. - Anfängliche und Nachträgliche Durchbiegungen von Stahlbetonbalken im Zustand II. (Vorschläge für Bregenzungen und vereinfachte Nachweise). «Beton-und Stahlbetonbau», vol. 54, n.º 10, Berlim, Outubro, 1959. MALDAGUE, J. C. - Étude de la Déformation des Poutres en Béton Armé. «Annalles de l'Institut Technique du Bâtiment et des Travaux Publics, série Béton Armé», n.os 80-82, Paris, Maio e Setembro, 1965. MONTEIRO, V. M. - Deformabilidade de Elementos de Betão Armado Sujeitos a Flexão. (Tese). Laboratório Nacional de Engenharia Civil, Lisboa, 1965. RÜSCH, H. - Der Zusammenhang zwischen Rissbildung und Haftfestigkeit unter besonder Berücksichtigung der Anwendung hoher Stahlspannungen. International Vereinigung für Brückenbau und Hochbau, Fünfter Kongress, Vorbericht, Lisboa, 1956. SORETZ, S. - Déformations. Comité Européen du Béton, «Bulletin d'Information» n.º 16, Paris, Março, 1959. Ministério das Obras Públicas, 20 de Maio de 1967. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

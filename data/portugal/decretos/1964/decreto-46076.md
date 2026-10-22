@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46076-1964-535048
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3cebd06a92263f51ebda2b3d2cec7a028743fed4e85e294b181b136df02d69c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd0546ae52a2d1d4fded5da7e76e6b90ca8187e4b9f33933a447b2a7dff9aead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578122:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:25Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Nestes termos, ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os juízes da Relação e os juízes de direito, quando transferidos, promovidos, nomeados para outro cargo, ou queiram gozar licença graciosa concedida, devem lavrar acórdão ou proferir sentença ou despacho em todos os processos que para o efeito tenham conclusos além do prazo legal ou respeitem a processos cujo julgamento tenham ultimado, sem o que não lhes é lícito deixar as funções judiciais que exercem e assumir as de outro cargo. Cumpre ainda aos juízes de direito, antes de fazerem a entrega dos serviços, remeter ao presidente da Relação certidão comprovativa do cumprimento desse dever passada pelo respectivo escrivão.
+Artigo 1.º - 1. Os juízes da Relação e os juízes de direito, quando transferidos, promovidos, nomeados para outro cargo, ou queiram gozar licença graciosa concedida, devem lavrar acórdão ou proferir sentença ou despacho em todos os processos que para o efeito tenham conclusos além do prazo legal ou respeitem a processos cujo julgamento tenham ultimado, sem o que não lhes é lícito deixar as funções judiciais que exercem e assumir as de outro cargo. Cumpre ainda aos juízes de direito, antes de fazerem a entrega dos serviços, remeter ao presidente da Relação certidão comprovativa do cumprimento desse dever passada pelo respectivo escrivão.
 
 2. É de 30 dias, a partir da publicação do despacho de transferência, promoção ou nomeação no Boletim Oficial da província, ou da chegada deste à sede do tribunal onde o magistrado serve quando fora da respectiva capital, o prazo para o integral cumprimento do dever imposto no número anterior, prazo que poderá ser prorrogado por igual tempo pelo presidente da Relação quando ocorram circunstâncias que o justifiquem, comunicando-o imediatamente à Direcção-Geral de Justiça.
 
@@ -97,29 +105,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Cessa o dever imposto no n.º 1 deste artigo sempre que por determinação superior seja determinado ao juiz a partida imediata da localidade onde serve.
 
-###### Art. 2.º - 1. Quando se trate de tribunal de grande movimento judicial, haja elevado número de sentenças e despachos a proferir, ou ocorra qualquer circunstância que o justifique, poderá o presidente da Relação autorizar que o juiz de direito convoque o seu substituto para exercer a jurisdição cumulativamente, competindo, no entanto, ao juiz de direito, exclusivamente, proferir as sentenças e despachos referidos no artigo anterior.
+Art. 2.º - 1. Quando se trate de tribunal de grande movimento judicial, haja elevado número de sentenças e despachos a proferir, ou ocorra qualquer circunstância que o justifique, poderá o presidente da Relação autorizar que o juiz de direito convoque o seu substituto para exercer a jurisdição cumulativamente, competindo, no entanto, ao juiz de direito, exclusivamente, proferir as sentenças e despachos referidos no artigo anterior.
 
 2. Se, antes de integralmente cumprido o dever de proferir os acórdãos, sentenças e despachos aludidos, se apresentar a tomar posse do cargo o respectivo sucessor, prolongar-se-á a jurisdição do juiz cessante, limitada ao integral cumprimento desse dever.
 
-###### Art. 3.º - 1. São aplicáveis aos juízes privativos dos tribunais municipais, aos substitutos legais dos juízes de direito e dos juízes municipais e aos substitutos nomeados, quando licenciados em Direito, as disposições dos artigos anteriores, substituindo-se em relação àqueles que não sejam funcionários a perda de vencimentos pela de multa até 5000$00, a favor do Cofre Geral dos Tribunais, aplicável pelo presidente da Relação segundo seu prudente arbítrio, ouvido prèviamente o infractor.
+Art. 3.º - 1. São aplicáveis aos juízes privativos dos tribunais municipais, aos substitutos legais dos juízes de direito e dos juízes municipais e aos substitutos nomeados, quando licenciados em Direito, as disposições dos artigos anteriores, substituindo-se em relação àqueles que não sejam funcionários a perda de vencimentos pela de multa até 5000$00, a favor do Cofre Geral dos Tribunais, aplicável pelo presidente da Relação segundo seu prudente arbítrio, ouvido prèviamente o infractor.
 
 2. Quando a substituição tenha durado menos de três meses ou se verifique atraso considerável dos serviços não imputável ao substituto, poderá o presidente da Relação dispensá-lo de proferir sentença e despacho nos processos que, antes de ter assumido as funções, tenham estado conclusos para esse fim além do prazo legal.
 
-###### Art. 4.º Ao juiz cessante e aos substitutos em exercício nos casos prevenidos nos artigos 2.º e 3.º serão pagos os vencimentos a que tiverem direito pela verba de duplicação de vencimentos.
+Art. 4.º Ao juiz cessante e aos substitutos em exercício nos casos prevenidos nos artigos 2.º e 3.º serão pagos os vencimentos a que tiverem direito pela verba de duplicação de vencimentos.
 
-###### Art. 5.º Passam a ser consideradas de segunda nomeação as comarcas de Nova Lisboa e Quelimane.
+Art. 5.º Passam a ser consideradas de segunda nomeação as comarcas de Nova Lisboa e Quelimane.
 
-###### Art. 6.º A faculdade de nomeação dos conservadores ao abrigo do disposto no § 4.º do artigo 28.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, não é limitada às vagas existentes quando da abertura dos concursos, abrangendo também todas as que se verificarem posteriormente.
+Art. 6.º A faculdade de nomeação dos conservadores ao abrigo do disposto no § 4.º do artigo 28.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, não é limitada às vagas existentes quando da abertura dos concursos, abrangendo também todas as que se verificarem posteriormente.
 
-###### Art. 7.º Para os já funcionários não é condicionada ao limite de idade de 35 anos a nomeação para os lugares de delegado do procurador da República.
+Art. 7.º Para os já funcionários não é condicionada ao limite de idade de 35 anos a nomeação para os lugares de delegado do procurador da República.
 
-###### Art. 8.º Os licenciados em Direito que tiverem exercido, interinamente, por mais de cinco anos consecutivos, com boas informações, as funções de conservador dos registos ou do registo civil, podem ser providos provisòriamente em idênticos lugares, mediante proposta da Direcção-Geral de Justiça, independentemente do limite de idade que normalmente condiciona o ingresso nos respectivos quadros.
+Art. 8.º Os licenciados em Direito que tiverem exercido, interinamente, por mais de cinco anos consecutivos, com boas informações, as funções de conservador dos registos ou do registo civil, podem ser providos provisòriamente em idênticos lugares, mediante proposta da Direcção-Geral de Justiça, independentemente do limite de idade que normalmente condiciona o ingresso nos respectivos quadros.
 
-###### Art. 9.º O artigo 2.º do [Decreto n.º 45788](https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122), de 1 de Julho de 1964, passa a ter a seguinte redacção:
+Art. 9.º O artigo 2.º do [Decreto n.º 45788](https://diariodarepublica.pt/dr/detalhe/decreto/45788-1964-578122), de 1 de Julho de 1964, passa a ter a seguinte redacção:
 
-###### Art. 2.º O provimento do lugar de adjunto da Repartição dos Registos e do Notariado da província de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 14, de 13 de Outubro de 1961, será da competência do governador-geral da província, mediante proposta do procurador da República.
+Art. 2.º O provimento do lugar de adjunto da Repartição dos Registos e do Notariado da província de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 14, de 13 de Outubro de 1961, será da competência do governador-geral da província, mediante proposta do procurador da República.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

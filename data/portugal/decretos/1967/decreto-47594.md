@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47594-1967-503238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e97b2ea53d5cbe2ef63202214f8ec560944a26c4363e9bc28d93397ccd5b4c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3fba0280a9ce1459c311f315c0e997883bfe7ce2c3b857077b164cd1ebbc5ed5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:49Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +92,13 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral da província de Angola a dar o seu aval ao Banco de Angola para garantia de uma operação de crédito a contrair pelo Instituto do Café de Angola, até ao montante de 20000000$00, e os respectivos encargos, destinado à construção de um edifício em Luanda para instalação da sede daquele organismo.
+Artigo 1.º É autorizado o Governo-Geral da província de Angola a dar o seu aval ao Banco de Angola para garantia de uma operação de crédito a contrair pelo Instituto do Café de Angola, até ao montante de 20000000$00, e os respectivos encargos, destinado à construção de um edifício em Luanda para instalação da sede daquele organismo.
 
 § único. As cláusulas e condições em que se realiza a referida operação serão reguladas mediante prévio acordo entre o Banco de Angola e o Instituto do Café de Angola, competindo ao Governo-Geral da província aprová-las.
 
-###### Art. 2.º Os encargos resultantes do mencionado empréstimo constituem despesa obrigatória do Instituto do Café de Angola, que os inscreverá anualmente no seu orçamento privativo até ao montante necessário e respectiva liquidação.
+Art. 2.º Os encargos resultantes do mencionado empréstimo constituem despesa obrigatória do Instituto do Café de Angola, que os inscreverá anualmente no seu orçamento privativo até ao montante necessário e respectiva liquidação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

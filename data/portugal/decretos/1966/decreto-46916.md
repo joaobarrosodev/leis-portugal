@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46916-1966-486921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d2dd149fdbae2a14562069ce46da91daa599bd1f5bc62207d98284e739dc011
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16ca0ed2e423a33e413999411a8f8d0c7b0f6adeffe0a0417e377803cf8f9308
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:182232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:423052:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:12Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +100,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 24.º do [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 24.º do [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962, passa a ter a seguinte redacção:
 
-###### Art. 24.º A estância aduaneira por onde correr o despacho de importação pode:
+Art. 24.º A estância aduaneira por onde correr o despacho de importação pode:
 
 a) Pedir ao importador os elementos informativos adicionais que considere necessários para confirmar que o certificado de origem apresentado corresponde efectivamente à mercadoria para a qual se pediram os benefícios da origem nacional;
 
@@ -106,21 +114,21 @@ b) Solicitar do serviço público, designado nos termos do corpo do artigo 17.º
 
 § 3.º Se a estância aduaneira por onde correr o despacho de importação não se der por satisfeita com as provas adicionais fornecidas nos termos do disposto na alínea b) deste artigo, apresentará o caso à autoridade que tiver designado o serviço público a que essa alínea se refere.
 
-###### Art. 2.º Na lista de processos de produção constante do anexo I ao [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962, são incluídos os seguintes processos:
+Art. 2.º Na lista de processos de produção constante do anexo I ao [Decreto n.º 44260](https://diariodarepublica.pt/dr/detalhe/decreto/44260-1962-423052), de 31 de Março de 1962, são incluídos os seguintes processos:
 
 a):
 
 ### CAPÍTULO 23.º — Resíduos e desperdícios das indústrias alimentares; alimentos preparados para animais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/06900/04070408.pdf))](https://files.diariodarepublica.pt/1s/1966/03/06900/04070408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/06900/04070408.pdf)
 
 b):
 
 ### CAPÍTULO 63.º — Roupas usadas, retalhos e trapos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/06900/04070408.pdf))](https://files.diariodarepublica.pt/1s/1966/03/06900/04070408.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/06900/04070408.pdf)
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 

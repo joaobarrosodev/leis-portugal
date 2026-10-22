@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46247-1965-238635
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a28999ba66555fc75b32a85ecae5ec10d6a774342ff5b1a38ea5ce1be50762c6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: db8586c3963cf8ebf34d3d34cb0c5329dec7b77550db45a45ed42114bdb18aa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:35Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
 
 Ministério da Justiça
 
@@ -118,8 +122,8 @@ Ministério das Comunicações
 
 Despesas de transportes do ano de 1964 da Direcção-Geral da Aeronáutica Civil ... 3118$00
 
-###### Art. 2.º Fica igualmente autorizada a 4.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no n.º 1) do artigo 491.º, capítulo 7.º, do actual orçamento do Ministério da Justiça, a quantia de 216$00, referente a gratificações devidas aos serventes do necrotério do Instituto de Medicina Legal de Coimbra.
+Art. 2.º Fica igualmente autorizada a 4.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da verba inscrita no n.º 1) do artigo 491.º, capítulo 7.º, do actual orçamento do Ministério da Justiça, a quantia de 216$00, referente a gratificações devidas aos serventes do necrotério do Instituto de Medicina Legal de Coimbra.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

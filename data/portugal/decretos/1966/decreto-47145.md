@@ -46,40 +46,64 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47145-1966-474885
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b660b281084c1a6a4741eb13e8f1ead20391616460773e20875cd3365928cd8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 80b4a2500d27c389efb106917f429fd21da26548e1c4bea404c598a45975bd65
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Gabinete da Ponte sobre o TEJO
+- Isenção Fiscal
+- Multa
+- Ponte 25 de Abril
+- Portagem
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:468073:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:163788:por
+  label: "Cometidas à JAE as atribuições do Gabinete da Ponte sobre o Tejo estabelecidas no presente diploma pelo DEC LEI.605/72.1972.12.30.MOP\
+    \ DG.IS [302]2º Supl\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/605-1972-163788
+  date: '1972-12-30'
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções, não causais de acidentes, contidas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA,\
+    \ DG.IS [294] de 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: cites
+  target: pt:dre:475323:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:02Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +116,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A partir da data da abertura ao trânsito da ponte competirá ao Gabinete da Ponte sobre o Tejo o serviço de cobrança, registo, contrôle e contabilização das portagens, o serviço de observação do comportamento estrutural da ponte, viaduto e outras estruturas e o serviço de manutenção, assistência aos utentes, fiscalização e segurança do tráfego.
+Artigo 1.º A partir da data da abertura ao trânsito da ponte competirá ao Gabinete da Ponte sobre o Tejo o serviço de cobrança, registo, contrôle e contabilização das portagens, o serviço de observação do comportamento estrutural da ponte, viaduto e outras estruturas e o serviço de manutenção, assistência aos utentes, fiscalização e segurança do tráfego.
 
-###### Art. 2.º A cobrança das portagens será efectuada nas portas da praça de portagem e poderá ser realizada:
+Art. 2.º A cobrança das portagens será efectuada nas portas da praça de portagem e poderá ser realizada:
 
 a) Em dinheiro;
 
@@ -106,7 +130,7 @@ c) Por conta de crédito.
 
 § 2.º A requisição de bilhetes, da abertura de contas de crédito e de cartões de isenção deverá ser feita ao Gabinete da Ponte sobre o Tejo, que lhe dará satisfação de acordo com o seu regulamento interno.
 
-###### Art. 3.º Os bilhetes poderão ser adquiridos em séries de 100 com um bónus de 5 por cento, serão sòmente válidos para o mesmo veículo automóvel e terão o prazo de validade de três meses completos de calendário.
+Art. 3.º Os bilhetes poderão ser adquiridos em séries de 100 com um bónus de 5 por cento, serão sòmente válidos para o mesmo veículo automóvel e terão o prazo de validade de três meses completos de calendário.
 
 § 1.º As condições de utilização dos bilhetes serão fixadas no regulamento interno do Gabinete da Ponte sobre o Tejo e constarão da respectiva caderneta.
 
@@ -114,9 +138,9 @@ c) Por conta de crédito.
 
 § 3.º Não serão concedidas cadernetas de bilhetes aos veículos dos concessionários dos transportes públicos colectivos urbanos, dadas as condições especiais das portagens estabelecidas para esses veículos.
 
-###### Art. 4.º Quando qualquer entidade pretender que os seus veículos utilizem a ponte em regime de conta de crédito, deverá apresentar a respectiva requisição ao Gabinete da Ponte sobre o Tejo, que lhe fornecerá um cartão de portagem a crédito para cada veículo e que periòdicamente lhe enviará a conta das portagens devida. De cada travessia efectuada será passado ao condutor um documento pelo portageiro mediante a apresentação obrigatória do referido cartão.
+Art. 4.º Quando qualquer entidade pretender que os seus veículos utilizem a ponte em regime de conta de crédito, deverá apresentar a respectiva requisição ao Gabinete da Ponte sobre o Tejo, que lhe fornecerá um cartão de portagem a crédito para cada veículo e que periòdicamente lhe enviará a conta das portagens devida. De cada travessia efectuada será passado ao condutor um documento pelo portageiro mediante a apresentação obrigatória do referido cartão.
 
-###### Art. 5.º Os veículos isentos deverão circular munidos do respectivo cartão de isenção, que será fornecido pelo Gabinete da Ponte sobre o Tejo mediante pedido da entidade titular da isenção.
+Art. 5.º Os veículos isentos deverão circular munidos do respectivo cartão de isenção, que será fornecido pelo Gabinete da Ponte sobre o Tejo mediante pedido da entidade titular da isenção.
 
 § 1.º Os veículos das forças armadas ou de segurança que não dispuserem daqueles cartões só poderão utilizar a ponte com isenção mediante a entrega de requisição oficial.
 
@@ -126,7 +150,7 @@ c) Por conta de crédito.
 
 § 4.º Terão passagem livre e serão dispensados de circular munidos dos respectivos títulos de isenção os veículos em serviço de socorro, tais como veículos de bombeiros e ambulâncias ou automacas e, ainda, os veículos portadores dos emblemas da Junta Autónoma de Estradas, da Direcção-Geral dos Transportes Terrestres ou da Polícia de Segurança Pública.
 
-###### Art. 6.º São atribuições do Gabinete da Ponte sobre o Tejo:
+Art. 6.º São atribuições do Gabinete da Ponte sobre o Tejo:
 
 Promover a execução de todas as reparações tendo em vista a conveniente exploração e perfeita conservação da obra;
 
@@ -138,34 +162,34 @@ Promover a execução e instalação de sinalização de emergência por forma a
 
 Assegurar a execução do plano de observação do comportamento da estrutura da obra, em colaboração com o Laboratório Nacional de Engenharia Civil.
 
-###### Art. 7.º Para assegurar a assistência aos utentes nos casos de emergência decorrentes de avaria ou acidente, o Gabinete da Ponte sobre o Tejo disporá de carros-patrulhas convenientemente apetrechados.
+Art. 7.º Para assegurar a assistência aos utentes nos casos de emergência decorrentes de avaria ou acidente, o Gabinete da Ponte sobre o Tejo disporá de carros-patrulhas convenientemente apetrechados.
 
-###### Art. 8.º Os veículos que circulem na ponte e seus acessos deverão obedecer às indicações do pessoal do serviço, que orientará o trânsito por forma a facilitar o escoamento dos veículos e a fazer cumprir o regulamento de trânsito na ponte, com a colaboração da Polícia de Viação e Trânsito, designadamente em situações de emergência e durante obras de reparação.
+Art. 8.º Os veículos que circulem na ponte e seus acessos deverão obedecer às indicações do pessoal do serviço, que orientará o trânsito por forma a facilitar o escoamento dos veículos e a fazer cumprir o regulamento de trânsito na ponte, com a colaboração da Polícia de Viação e Trânsito, designadamente em situações de emergência e durante obras de reparação.
 
 § 1.º Sempre que um condutor tenha encontrado um veículo parado sobre o tabuleiro da ponte deve comunicar tal facto aos pessoal da exploração no momento de pagar a portagem.
 
 § 2.º É expressamente proibido circular, quer na ponte, quer no viaduto, com o motor desligado ou com a caixa de velocidades na posição de ponto morto.
 
-###### Art. 9.º É expressamente proibido o lançamento de quaisquer objectos, pontas de cigarro ou lixo para os tabuleiros da ponte ou viaduto ou a sua projecção por forma a caírem sobre as margens ou no rio.
+Art. 9.º É expressamente proibido o lançamento de quaisquer objectos, pontas de cigarro ou lixo para os tabuleiros da ponte ou viaduto ou a sua projecção por forma a caírem sobre as margens ou no rio.
 
 § único. A contravenção do disposto neste artigo será punida com a multa de 500$00, independentemente de procedimento judicial que possa resultar da aplicação da lei por prejuízos causados à obra ou a terceiros.
 
-###### Art. 10.º É expressamente proibido o lançamento de quaisquer objectos, papéis ou lixo para os pavimentos ou bermas dos acessos rodoviários e da praça da portagem.
+Art. 10.º É expressamente proibido o lançamento de quaisquer objectos, papéis ou lixo para os pavimentos ou bermas dos acessos rodoviários e da praça da portagem.
 
 § único. A contravenção do disposto neste artigo será punida com a multa de 100$00.
 
-###### Art. 11.º Ao aproximar-se qualquer ambulância, veículos de bombeiros, da polícia ou dos serviços de exploração da ponte emitindo um sinal audível de sereia e com luz de farol rotativo ou intermitente, todos os veículos devem continuar a circular tão próximo quanto possível da margem direita da faixa de rodagem, facilitando ao máximo a passagem daquelas viaturas. Idênticas facilidades devem os condutores oferecer a veículos particulares quando estes sejam utilizados no transporte de feridos ou pessoas doentes em estado grave e façam repetidamente ouvir as suas buzinas.
+Art. 11.º Ao aproximar-se qualquer ambulância, veículos de bombeiros, da polícia ou dos serviços de exploração da ponte emitindo um sinal audível de sereia e com luz de farol rotativo ou intermitente, todos os veículos devem continuar a circular tão próximo quanto possível da margem direita da faixa de rodagem, facilitando ao máximo a passagem daquelas viaturas. Idênticas facilidades devem os condutores oferecer a veículos particulares quando estes sejam utilizados no transporte de feridos ou pessoas doentes em estado grave e façam repetidamente ouvir as suas buzinas.
 
-###### Art. 12.º A circulação na praça de portagem far-se-á com a máxima precaução, devendo o condutor reduzir gradualmente a velocidade em correspondência com os limites afixados e dirigir-se a uma das portas livres sem criar perigo para o trânsito.
+Art. 12.º A circulação na praça de portagem far-se-á com a máxima precaução, devendo o condutor reduzir gradualmente a velocidade em correspondência com os limites afixados e dirigir-se a uma das portas livres sem criar perigo para o trânsito.
 
-###### Art. 13.º As disposições do presente regulamento não se aplicam aos veículos de socorro, polícia e fiscalização quando motivos do seu serviço o justifiquem.
+Art. 13.º As disposições do presente regulamento não se aplicam aos veículos de socorro, polícia e fiscalização quando motivos do seu serviço o justifiquem.
 
-###### Art. 14.º O pessoal técnico do Gabinete da Ponte sobre o Tejo referido no artigo 11.º do [Decreto-Lei n.º 47107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323), de 19 de Julho de 1966, tem direito ao uso e porte de arma de defesa, para o que lhe será passada a respectiva autorização, nos termos da legislação em vigor.
+Art. 14.º O pessoal técnico do Gabinete da Ponte sobre o Tejo referido no artigo 11.º do [Decreto-Lei n.º 47107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323), de 19 de Julho de 1966, tem direito ao uso e porte de arma de defesa, para o que lhe será passada a respectiva autorização, nos termos da legislação em vigor.
 
-###### Art. 15.º Além das receitas referidas no § 1.º do artigo 9.º do [Decreto-Lei n.º 47107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323), de 19 de Julho de 1966, revertão ainda a favor do Gabinete da Ponte sobre o Tejo e serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência as importâncias cobradas pela aplicação do disposto no § 2.º do artigo 3.º, do § único do artigo 9.º e do § único do artigo 10.º do presente decreto, bem como as receitas provenientes da venda de quaisquer publicações editadas pelo Gabinete da Ponte sobre o Tejo, tais como folhetos de propaganda sobre a utilização da ponte ou de informações sobre a obra e cuja publicação tenha sido autorizada pelo Ministro das Obras Públicas.
+Art. 15.º Além das receitas referidas no § 1.º do artigo 9.º do [Decreto-Lei n.º 47107](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47107-1966-475323), de 19 de Julho de 1966, revertão ainda a favor do Gabinete da Ponte sobre o Tejo e serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência as importâncias cobradas pela aplicação do disposto no § 2.º do artigo 3.º, do § único do artigo 9.º e do § único do artigo 10.º do presente decreto, bem como as receitas provenientes da venda de quaisquer publicações editadas pelo Gabinete da Ponte sobre o Tejo, tais como folhetos de propaganda sobre a utilização da ponte ou de informações sobre a obra e cuja publicação tenha sido autorizada pelo Ministro das Obras Públicas.
 
-###### Art. 16.º Para todos os assuntos correntes respeitantes à exploração da ponte, o Gabinete da Ponte sobre o Tejo poderá corresponder-se directamente com qualquer entidade oficial ou particular.
+Art. 16.º Para todos os assuntos correntes respeitantes à exploração da ponte, o Gabinete da Ponte sobre o Tejo poderá corresponder-se directamente com qualquer entidade oficial ou particular.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.

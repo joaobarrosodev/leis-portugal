@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47132-1966-474293
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54fc089abcb77a8e69dff08809a86753e0a99709e4384f7571d2b0b6cbe91d1b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a0c4b10286ab444b45f335e75bbc84607362f9ddc351df2addd09377d795760
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:55Z'
   warnings: []
   errors: []
 ---
@@ -95,21 +95,21 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo da província da Guiné a contrair no Banco Nacional Ultramarino um empréstimo, em moeda local, até ao montante de 12000000$00, destinado a ser aplicado em obras inscritas em planos de fomento.
+Artigo 1.º É autorizado o Governo da província da Guiné a contrair no Banco Nacional Ultramarino um empréstimo, em moeda local, até ao montante de 12000000$00, destinado a ser aplicado em obras inscritas em planos de fomento.
 
 § 1.º A utilização do empréstimo, bem como as obras a cujas despesas servirá de cobertura, dependerá de despacho prévio do Ministro do Ultramar, sob proposta do Governo da província.
 
 § 2.º O empréstimo será objecto de contrato entre o Banco Nacional Ultramarino e o Ministro do Ultramar, em representação da província.
 
-###### Art. 2.º O empréstimo a que se refere o artigo anterior vencerá o juro de 2 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro de cada ano, e será amortizado em doze anuidades iguais, vencendo-se a primeira em 1 de Dezembro de 1970.
+Art. 2.º O empréstimo a que se refere o artigo anterior vencerá o juro de 2 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro de cada ano, e será amortizado em doze anuidades iguais, vencendo-se a primeira em 1 de Dezembro de 1970.
 
 § único. O pagamento dos juros e a amortização serão feitos na moeda em que é concedido o empréstimo, podendo a província antecipar as amortizações que julgar convenientes, avisando o Banco Nacional Ultramarino com, pelo menos, 30 dias de antecedência.
 
-###### Art. 3.º Constituem despesa obrigatória e preferencial do orçamento geral da província os encargos resultantes do empréstimo concedido ao abrigo do presente decreto.
+Art. 3.º Constituem despesa obrigatória e preferencial do orçamento geral da província os encargos resultantes do empréstimo concedido ao abrigo do presente decreto.
 
-###### Art. 4.º Os juros e amortizações que resultarem da aplicação deste empréstimo em objectivos integrados em serviços que gozem de autonomia administrativa e financeira constituirão encargo obrigatório e preferencial dos seus orçamentos privativos, nos termos que vierem a ser estabelecidos em diploma legislativo da província.
+Art. 4.º Os juros e amortizações que resultarem da aplicação deste empréstimo em objectivos integrados em serviços que gozem de autonomia administrativa e financeira constituirão encargo obrigatório e preferencial dos seus orçamentos privativos, nos termos que vierem a ser estabelecidos em diploma legislativo da província.
 
-**Publique-se e cumpra-se com nele se contém.**
+Publique-se e cumpra-se com nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

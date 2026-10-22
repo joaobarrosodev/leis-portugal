@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47438-1966-488154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6aaac661a2700c1d8c534549ae9be54f7c7bea0ddc4fc0c15d16fbf0ba19836f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f96c7f9281e7310d2dfafdc486d78b9b103c4800eb5c87bc8b646669d81be59
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:28Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma AEG - Lusitana de Electricidade, S. A. R. L., para a execução das obras da rede de distribuição em alta tensão - subestação 30/10 kV e posto de transformação anexo - e construção dos postos de transformação e corrente de recurso na base aérea n.º 11 (Beja), pela importância de 18579728$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma AEG - Lusitana de Electricidade, S. A. R. L., para a execução das obras da rede de distribuição em alta tensão - subestação 30/10 kV e posto de transformação anexo - e construção dos postos de transformação e corrente de recurso na base aérea n.º 11 (Beja), pela importância de 18579728$00.
 
-###### Art. 2.º O encargo com estas obras, no montante de 18579728$00, a custear por conta da verba adequada do orçamento dos Encargos Gerais da Nação será liquidado pelo referido conselho administrativo da seguinte forma:
+Art. 2.º O encargo com estas obras, no montante de 18579728$00, a custear por conta da verba adequada do orçamento dos Encargos Gerais da Nação será liquidado pelo referido conselho administrativo da seguinte forma:
 
 Em 1966 - 1032200$00, pelo capítulo 12.º, artigo 311.º, n.º 1);
 
@@ -102,6 +106,6 @@ Em 1967 - 12386410$00 e o que se apurar como saldo em 1966;
 
 Em 1968 - 5161128$00 o que se apurar como saldo em 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz Aguiar Cortês - Francisco António das Chagas.

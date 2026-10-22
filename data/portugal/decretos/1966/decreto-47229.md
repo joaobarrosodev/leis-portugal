@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 228/1966, 1º Suplemento, Série I de 1966-09-30
   number: '228'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1555 - 1629
   pdf_url: https://files.diariodarepublica.pt/1s/1966/09/22801/15551629.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47229-1966-233133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2a0c6bf1f46d171cd52ea61244caf92777e19e7c720af8fdaf7516e63d103c7d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a539649017d8c6ed1b2611fe600f527e43e66af7cce9f905c6282899126393c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fardamento
+- Força Aérea
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:448081:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141789:por
+  label: Alterado o quadro XIV do Regulamento pelo(a) Portaria n.º 81/77 - Diário da República n.º 41/1977, Série I de 1977-02-18
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/81-1977-141789
+  date: '1977-02-18'
+- type: amended_by
+  target: pt:dre:296807:por
+  label: Alterados os n.ºs 1 a 10 e revogado o n.º 186 do Regulamento de Uniformes da Força Aérea (RUFA) pelo(a) Portaria
+    n.º 425/78 - Diário da República n.º 173/1978, Série I de 1978-07-29
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/425-1978-296807
+  date: '1978-07-29'
+- type: cites
+  target: pt:dre:278711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678625:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:448081:por
+  label: "Revogado pelo DEC LEI.270/78.1978.09.01.CR, DR.IS [201]Supl de 01.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1978-448081
+  date: '1978-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 19
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:40Z'
   warnings: []
   errors: []
 ---
@@ -94,19 +121,19 @@ Procurou-se ainda atender à economia e à facilidade de transporte, pela elimin
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado e posto em execução o Regulamento de Uniformes da Força Aérea, que faz parte integrante do presente diploma e tem por finalidade definir os artigos de uniforme do pessoal da Força Aérea e as condições de utilização desses artigos de uniforme.
+Artigo 1.º É aprovado e posto em execução o Regulamento de Uniformes da Força Aérea, que faz parte integrante do presente diploma e tem por finalidade definir os artigos de uniforme do pessoal da Força Aérea e as condições de utilização desses artigos de uniforme.
 
-###### Art. 2.º O Secretário de Estado da Aeronáutica poderá, quando circunstâncias especiais o imponham ou aconselhem, mandar suspender o uso de determinado tipo de uniformes ou de artigos de uniforme.
+Art. 2.º O Secretário de Estado da Aeronáutica poderá, quando circunstâncias especiais o imponham ou aconselhem, mandar suspender o uso de determinado tipo de uniformes ou de artigos de uniforme.
 
-###### Art. 3.º As datas limites para o uso dos anteriores uniformes serão fixadas por despacho do Secretário de Estado da Aeronáutica.
+Art. 3.º As datas limites para o uso dos anteriores uniformes serão fixadas por despacho do Secretário de Estado da Aeronáutica.
 
-###### Art. 4.º As alterações ao Regulamento de Uniformes da Força Aérea, se compatíveis com as disposições legais vigentes, serão publicadas em portaria, excepto as que tenham carácter experimental, que poderão ser aprovadas, a título temporário, por despacho do Secretário de Estado da Aeronáutica.
+Art. 4.º As alterações ao Regulamento de Uniformes da Força Aérea, se compatíveis com as disposições legais vigentes, serão publicadas em portaria, excepto as que tenham carácter experimental, que poderão ser aprovadas, a título temporário, por despacho do Secretário de Estado da Aeronáutica.
 
-###### Art. 5.º As dúvidas ou omissões que se verifiquem na aplicação do Regulamento de Uniformes da Força Aérea serão resolvidas por despacho do Secretário de Estado da Aeronáutica.
+Art. 5.º As dúvidas ou omissões que se verifiquem na aplicação do Regulamento de Uniformes da Força Aérea serão resolvidas por despacho do Secretário de Estado da Aeronáutica.
 
-###### Art. 6.º Ficam revogados o [Decreto n.º 39833](https://diariodarepublica.pt/dr/detalhe/decreto/39833-1954-678625), de 1 de Outubro de 1954, alterado pelo [Decreto n.º 42831](https://diariodarepublica.pt/dr/detalhe/decreto/42831-1960-278711), de 8 de Fevereiro de 1960, as Portarias n.os 15217 e 17258, respectivamente de 19 de Janeiro de 1955 e 8 de Julho de 1959, e os despachos do Secretário de Estado da Aeronáutica n.os 308, 370, 378, 426 e 566, respectivamente de 2 de Janeiro de 1960, 14 de Setembro de 1960, 6 de Fevereiro de 1961, 12 de Agosto de 1961 e 14 de Maio de 1963.
+Art. 6.º Ficam revogados o [Decreto n.º 39833](https://diariodarepublica.pt/dr/detalhe/decreto/39833-1954-678625), de 1 de Outubro de 1954, alterado pelo [Decreto n.º 42831](https://diariodarepublica.pt/dr/detalhe/decreto/42831-1960-278711), de 8 de Fevereiro de 1960, as Portarias n.os 15217 e 17258, respectivamente de 19 de Janeiro de 1955 e 8 de Julho de 1959, e os despachos do Secretário de Estado da Aeronáutica n.os 308, 370, 378, 426 e 566, respectivamente de 2 de Janeiro de 1960, 14 de Setembro de 1960, 6 de Fevereiro de 1961, 12 de Agosto de 1961 e 14 de Maio de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Francisco António das Chagas.
 
@@ -2290,6 +2317,6 @@ Secretaria de Estado da Aeronáutica, 16 de Setembro de 1966. - O Secretario de 
 
 QUADROS XII A XIV E ARTIGOS DE UNIFORMES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/09/22801/15551629.pdf))](https://files.diariodarepublica.pt/1s/1966/09/22801/15551629.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/09/22801/15551629.pdf)
 
 Secretaria de Estado da Aeronáutica, 30 de Setembro de 1966. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.

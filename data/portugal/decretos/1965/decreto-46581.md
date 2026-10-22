@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/10/22600/12921294.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,70 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46581-1965-510618
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f2b890b978564bf27db9802f9d4ddd7d3b2816e25559dc8d26aba4945eb4113
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ac2420fc9520b12173b89dc897a1eaaa127b6bb839757657ebe201b85665b7d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Fabrico Industrial
+- Indústria da Cerâmica
+- Indústria da Construção
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:192788:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:01Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +124,9 @@ Nestes termos, de harmonia com as bases I e V da [Lei n.º 2052](https://diariod
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Exercício da Indústria de Cerâmica de Barro Vermelho para a Construção Civil, que vai assinado pelo Secretário de Estado da Indústria.
+Artigo único. É aprovado o Regulamento do Exercício da Indústria de Cerâmica de Barro Vermelho para a Construção Civil, que vai assinado pelo Secretário de Estado da Indústria.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Rafael Amaro da Costa.
 
@@ -104,9 +134,9 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE CERÂMICA DE BARRO VERMELHO PARA A CO
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O exercício da indústria de fabrico de produtos cerâmicos de barro vermelho para a construção civil fica sujeito às prescrições constantes do presente regulamento.
+Artigo 1.º O exercício da indústria de fabrico de produtos cerâmicos de barro vermelho para a construção civil fica sujeito às prescrições constantes do presente regulamento.
 
-###### Art. 2.º A partir da entrada em vigor deste regulamento, a instalação de novas unidades industriais destinadas ao fabrico de produtos cerâmicos de barro vermelho para a construção civil, a modificação e a transferência de local das existentes e a reabertura das que tiverem suspendido a laboração pelo prazo de dois anos devem ser requeridas ao director-geral dos Serviços Industriais. A transferência do direito de propriedade ou de exploração total ou parcial de todas as fábricas que não satisfaçam à condição 1) do artigo 9.º do presente regulamento, por outro motivo que não seja a sucessão por morte e exceptuada a transmissão a qualquer título entre cônjuges, irmãos ou parentes por consanguinidade, deve também ser requerida nas mesmas condições.
+Art. 2.º A partir da entrada em vigor deste regulamento, a instalação de novas unidades industriais destinadas ao fabrico de produtos cerâmicos de barro vermelho para a construção civil, a modificação e a transferência de local das existentes e a reabertura das que tiverem suspendido a laboração pelo prazo de dois anos devem ser requeridas ao director-geral dos Serviços Industriais. A transferência do direito de propriedade ou de exploração total ou parcial de todas as fábricas que não satisfaçam à condição 1) do artigo 9.º do presente regulamento, por outro motivo que não seja a sucessão por morte e exceptuada a transmissão a qualquer título entre cônjuges, irmãos ou parentes por consanguinidade, deve também ser requerida nas mesmas condições.
 
 § 1.º São considerados abrangidos pelo disposto no corpo deste artigo os estabelecimentos fabris com alvará, ou os que, existindo de facto, correspondam a processos já em curso na respectiva circunscrição à data da publicação do presente regulamento.
 
@@ -118,9 +148,9 @@ Por «laboração efectiva» entende-se a que é executada com um quadro de pess
 
 § 4.º No caso de suspensão de laboração os industriais devem comunicar antecipadamente à respectiva circunscrição industrial e ao Grémio dos Industriais de Cerâmica as datas da interrupção e do recomeço de laboração.
 
-###### Art. 3.º As autorizações referidas no corpo do artigo anterior só podem ser concedidas desde que se demonstre que as respectivas instalações obedecem às prescrições constantes deste diploma.
+Art. 3.º As autorizações referidas no corpo do artigo anterior só podem ser concedidas desde que se demonstre que as respectivas instalações obedecem às prescrições constantes deste diploma.
 
-###### Art. 4.º Os pedidos, para os efeitos do disposto no artigo anterior, serão acompanhados do respectivo projecto em triplicado, sendo selado um dos exemplares, contendo os elementos seguintes:
+Art. 4.º Os pedidos, para os efeitos do disposto no artigo anterior, serão acompanhados do respectivo projecto em triplicado, sendo selado um dos exemplares, contendo os elementos seguintes:
 
 a) Memória descritiva da qual conste:
 
@@ -136,7 +166,7 @@ c) Estudo técnico e económico comprovativo da viabilidade do empreendimento, a
 
 d) Análise e parecer favorável de um laboratório oficial sobre as matérias-primas a utilizar na fabricação.
 
-###### Art. 5.º De futuro não poderá ser passado a qualquer novo estabelecimento fabril desta modalidade industrial o alvará a que se refere o Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente regulamento.
+Art. 5.º De futuro não poderá ser passado a qualquer novo estabelecimento fabril desta modalidade industrial o alvará a que se refere o Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, sem que se mostrem cumpridas as prescrições constantes do presente regulamento.
 
 § único. O alvará de licença não poderá ser concedido:
 
@@ -144,7 +174,7 @@ d) Análise e parecer favorável de um laboratório oficial sobre as matérias-p
 
 2) Sem ter sido cumprido o disposto no artigo 9.º do [Decreto n.º 30691](https://diariodarepublica.pt/dr/detalhe/decreto/30691-1940-192788), de 27 de Agosto de 1940.
 
-###### Art. 6.º Todas as fábricas de materiais cerâmicos de barro vermelho para a construção civil deverão marcar os respectivos produtos e estes deverão satisfazer às normas portuguesas de qualidade já existentes ou que vierem a ser aprovadas, ou, na sua falta, às especificações do Laboratório Nacional de Engenharia Civil.
+Art. 6.º Todas as fábricas de materiais cerâmicos de barro vermelho para a construção civil deverão marcar os respectivos produtos e estes deverão satisfazer às normas portuguesas de qualidade já existentes ou que vierem a ser aprovadas, ou, na sua falta, às especificações do Laboratório Nacional de Engenharia Civil.
 
 Terão igualmente que obedecer às normas de dimensões existentes ou, na sua falta, às especificações do Laboratório Nacional de Engenharia Civil, todos os modelos de tipo corrente para alvenaria, quando destinados ao mercado nacional.
 
@@ -154,13 +184,13 @@ Esta disposição entrará em vigor:
 
 2) Para os já existentes, dentro de um ano a contar da data da publicação deste regulamento.
 
-###### Art. 7.º As fábricas a licenciar deverão assinar contrato com o Laboratório Nacional de Engenharia Civil para que este proceda à verificação periódica da qualidade dos seus produtos e remeter oportunamente os respectivos resultados à Inspecção-Geral dos Produtos Agrícolas, e Industriais e ao Grémio dos Industriais de Cerâmica.
+Art. 7.º As fábricas a licenciar deverão assinar contrato com o Laboratório Nacional de Engenharia Civil para que este proceda à verificação periódica da qualidade dos seus produtos e remeter oportunamente os respectivos resultados à Inspecção-Geral dos Produtos Agrícolas, e Industriais e ao Grémio dos Industriais de Cerâmica.
 
-###### Art. 8.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de fabrico de produtos cerâmicos de barro vermelho para a construção sem observância do que no mesmo se prescreve.
+Art. 8.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como as providências destinadas a impedir o exercício da indústria de fabrico de produtos cerâmicos de barro vermelho para a construção sem observância do que no mesmo se prescreve.
 
 ### CAPÍTULO II — Da instalação e do equipamento
 
-###### Art. 9.º A instalação e o equipamento dos estabelecimentos fabris destinados ao fabrico de produtos cerâmicos de barro vermelho para a construção civil deverão obedecer obrigatòriamente às seguintes disposições:
+Art. 9.º A instalação e o equipamento dos estabelecimentos fabris destinados ao fabrico de produtos cerâmicos de barro vermelho para a construção civil deverão obedecer obrigatòriamente às seguintes disposições:
 
 1) Disporem, pelo menos, de um forno contínuo com a capacidade mínima de 200 m3, se for de fogo fixo, ou de 400 m3, se for de fogo móvel.
 
@@ -170,9 +200,9 @@ Esta disposição entrará em vigor:
 
 ### CAPÍTULO III — Da concentração de estabelecimentos fabris
 
-###### Art. 10.º Para efeitos do presente diploma designa-se por «agrupamento de fábricas de produtos cerâmicos de barro vermelho para a construção civil» a constituição, em cada concelho, da sociedade que incorpore, por fusão, estabelecimentos fabris que representem mais de 50 por cento da capacidade total de produção das fábricas aí existentes deste ramo industrial, com o fim de, sem mudança de concelho, as concentrar num número de unidades fabris considerado mais conveniente sob o ponto de vista técnico-económico.
+Art. 10.º Para efeitos do presente diploma designa-se por «agrupamento de fábricas de produtos cerâmicos de barro vermelho para a construção civil» a constituição, em cada concelho, da sociedade que incorpore, por fusão, estabelecimentos fabris que representem mais de 50 por cento da capacidade total de produção das fábricas aí existentes deste ramo industrial, com o fim de, sem mudança de concelho, as concentrar num número de unidades fabris considerado mais conveniente sob o ponto de vista técnico-económico.
 
-###### Art. 11.º Os pedidos para efeitos do artigo anterior serão acompanhados do respectivo projecto em triplicado, sendo selado um dos exemplares, com os elementos seguintes:
+Art. 11.º Os pedidos para efeitos do artigo anterior serão acompanhados do respectivo projecto em triplicado, sendo selado um dos exemplares, com os elementos seguintes:
 
 a) Memória descritiva e justificativa da qual conste:
 
@@ -190,13 +220,13 @@ d) Certidão do pacto social da sociedade constituída.
 
 § 1.º O prazo máximo consentido para o cumprimento integral do programa da concentração em cada concelho é de três anos, a contar da data do pedido a que se refere o artigo 11.º, caducando a respectiva autorização se for excedido este prazo, salvo caso de força maior reconhecido por despacho do Secretário de Estado da Indústria.
 
-###### Art. 12.º Deferido o pedido de agrupamento, a instalação de novos estabelecimentos de cerâmica de barro vermelho para a construção civil, a transferência dos existentes para outro local e a reabertura dos que tenham suspendido a laboração por período superior a dois anos só poderão ser consentidas em locais que se situem a distância não inferior a 15 km, medida em linha recta, do local do estabelecimento mais próximo, pertencente ao agrupamento, que nessa data se encontre em laboração.
+Art. 12.º Deferido o pedido de agrupamento, a instalação de novos estabelecimentos de cerâmica de barro vermelho para a construção civil, a transferência dos existentes para outro local e a reabertura dos que tenham suspendido a laboração por período superior a dois anos só poderão ser consentidas em locais que se situem a distância não inferior a 15 km, medida em linha recta, do local do estabelecimento mais próximo, pertencente ao agrupamento, que nessa data se encontre em laboração.
 
 § 1.º Durante a instrução do pedido ficará suspensa, até decisão final, a autorização para a instalação de novos estabelecimentos de cerâmica de barro vermelho para a construção civil, a transferência dos existentes para outro local e a reabertura dos que tenham suspendido a laboração por período superior a dois anos, quando daí possa resultar inobservância do disposto no corpo deste artigo.
 
 § 2.º Logo que o programa da concentração se encontre integralmente cumprido, caducam automàticamente para todos os efeitos legais os alvarás dos estabelecimentos concentrados, que deverão cessar imediatamente a sua exploração e ser desocupados de equipamentos e maquinismos inerentes à modalidade, exceptuados os eventualmente escolhidos de entre os existentes para serem explorados pelo agrupamento.
 
-###### Art. 13.º Nos concelhos onde tenha sido autorizado o agrupamento de fábricas de produtos cerâmicos de barro vermelho para a construção civil, ficam dependentes de prévia autorização, nos termos da base II da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, os actos seguintes:
+Art. 13.º Nos concelhos onde tenha sido autorizado o agrupamento de fábricas de produtos cerâmicos de barro vermelho para a construção civil, ficam dependentes de prévia autorização, nos termos da base II da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, os actos seguintes:
 
 a) A instalação de novos estabelecimentos e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos.
 
@@ -204,18 +234,18 @@ b) A transferência de local dos estabelecimentos, desde que se faça para qualq
 
 § único. O disposto no corpo deste artigo entrará em vigor em data a fixar para cada concelho por portaria do Secretário de Estado da Indústria, logo que o respectivo agrupamento prove que o seu programa de concentração se encontra integralmente cumprido.
 
-###### Art. 14.º Os pedidos de autorização para os actos referidos no artigo anterior serão feitos nos termos previstos no artigo 5.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898) e instruídos de acordo com as disposições daquele diploma.
+Art. 14.º Os pedidos de autorização para os actos referidos no artigo anterior serão feitos nos termos previstos no artigo 5.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898) e instruídos de acordo com as disposições daquele diploma.
 
-###### Art. 15.º Considera-se reorganização das empresas industriais, para efeitos dos auxílios previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, a concentração de fábricas de produtos cerâmicos de barro vermelho para a construção civil em conformidade com o presente diploma.
+Art. 15.º Considera-se reorganização das empresas industriais, para efeitos dos auxílios previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, a concentração de fábricas de produtos cerâmicos de barro vermelho para a construção civil em conformidade com o presente diploma.
 
 ### CAPÍTULO IV — Da fiscalização e das penalidades
 
-###### Art. 16.º A classificação do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições dos demais serviços competentes do Estado e dos organismos corporativos e de coordenação económica.
+Art. 16.º A classificação do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições dos demais serviços competentes do Estado e dos organismos corporativos e de coordenação económica.
 
 § único. O Grémio dos Industriais de Cerâmica poderá colher no local de aplicação e mandar ensaiar num laboratório oficial amostras dos produtos fabricados e comunicar o respectivo resultado à Inspecção-Geral dos Produtos Agrícolas e Industriais para efeito do competente procedimento.
 
-###### Art. 17.º As infracções ao disposto no presente regulamento, com excepção do disposto nos artigos 6.º e 7.º, serão punidas nos termos do artigo 27.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954.
+Art. 17.º As infracções ao disposto no presente regulamento, com excepção do disposto nos artigos 6.º e 7.º, serão punidas nos termos do artigo 27.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954.
 
-###### Art. 18.º As infracções ao disposto nos artigos 6.º e 7.º deste regulamento serão punidas nos termos do § único do artigo 13.º do decreto-lei referido no artigo anterior.
+Art. 18.º As infracções ao disposto nos artigos 6.º e 7.º deste regulamento serão punidas nos termos do § único do artigo 13.º do decreto-lei referido no artigo anterior.
 
 Secretaria de Estado da Indústria, 6 de Outubro de 1965. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

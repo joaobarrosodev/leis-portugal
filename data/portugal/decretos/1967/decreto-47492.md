@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47492-1967-239379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a8cc7933777d5af2dd861955f21c3d3b1566f55ccc8689b5c6c0114731a872c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: af3d0a9862fed891b276bba1a4a4196b7c7d7334e72df45f544215e0b4d8f97f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:180594:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479641:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:02Z'
   warnings: []
   errors: []
 ---
@@ -87,10 +95,10 @@ Tornando-se necessário, em face do artigo 6.º do [Decreto-Lei n.º 47188](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 4.º do [Decreto n.º 43916](https://diariodarepublica.pt/dr/detalhe/decreto/43916-1961-180594), de 16 de Setembro de 1961, que criou a Direcção do Serviço do Pessoal, toma a seguinte redacção:
+Artigo único. O artigo 4.º do [Decreto n.º 43916](https://diariodarepublica.pt/dr/detalhe/decreto/43916-1961-180594), de 16 de Setembro de 1961, que criou a Direcção do Serviço do Pessoal, toma a seguinte redacção:
 
-###### Art. 4.º Funcionam na dependência directa do director do Serviço do Pessoal a Auditoria, a Promotoria e o Tribunal Militar da Marinha, que mantêm as suas actuais atribuições, e o Serviço de Assistência Religiosa da Armada.
+Art. 4.º Funcionam na dependência directa do director do Serviço do Pessoal a Auditoria, a Promotoria e o Tribunal Militar da Marinha, que mantêm as suas actuais atribuições, e o Serviço de Assistência Religiosa da Armada.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

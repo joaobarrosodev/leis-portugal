@@ -47,40 +47,61 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46252-1965-238640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6edff35731f5610577381e9002f3185d4c0ee525f2b13d74b8933d24789ab50c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee9ee5e354e2887ddca2d339e5d31628f1b3de397ba753c8b32526b1e3ec16dd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Custas Judiciais
+- Ministério Público
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Presidente
+- Quadro de Pessoal
+- Tribunal Administrativo
 relationships:
 - type: amended_by
   target: pt:dre:413588:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:413588:por
+  label: "Alterado o § 1.º do n.º 1 do artigo 9.º e o n.º 1 do artigo 25.º, e tornada extensiva à província de Macau a tabela\
+    \ de custas dos tribunais administrativos do ultramar, anexa ao presente diploma, pelo DEC.460/73.14.09.1973.MU, DG.IS\
+    \ [216] de 14.09.1973\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/460-1973-413588
+  date: '1973-09-14'
+- type: corrected_by
+  target: pt:dre:237430:por
+  label: "Rectificado o art. 14º e os quadros do pessoal dos Tribunais Administrativos das províncias de Angola e Moçambique\
+    \ anexos ao presente diploma, pela RECT.DD746.26.04.1965.PC, DG.IS [91] de 26.04.1965\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-237430
+  date: '1965-04-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:40Z'
   warnings: []
   errors: []
 ---
@@ -95,25 +116,25 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em Angola e Moçambique o Tribunal Administrativo será constituído pelo presidente da Relação do respectivo distrito judicial, que servirá de presidente, e por dois juízes privativos.
+Artigo 1.º Em Angola e Moçambique o Tribunal Administrativo será constituído pelo presidente da Relação do respectivo distrito judicial, que servirá de presidente, e por dois juízes privativos.
 
-###### Art. 2.º Os juízes privativos serão nomeados pelo Ministro do Ultramar, em comissão ordinária de serviço, por quatro anos, renovável, mediante proposta da Direcção-Geral de Justiça, de entre juízes de 2.ª instância do quadro da magistratura ultramarina.
+Art. 2.º Os juízes privativos serão nomeados pelo Ministro do Ultramar, em comissão ordinária de serviço, por quatro anos, renovável, mediante proposta da Direcção-Geral de Justiça, de entre juízes de 2.ª instância do quadro da magistratura ultramarina.
 
-###### Art. 3.º - I. Nas faltas, ausências ou impedimentos, os presidentes dos Tribunais Administrativos serão substituídos pelos seus substitutos no Tribunal da Relação e os juízes privativos pelos juízes da Relação designados pelo respectivo presidente.
+Art. 3.º - I. Nas faltas, ausências ou impedimentos, os presidentes dos Tribunais Administrativos serão substituídos pelos seus substitutos no Tribunal da Relação e os juízes privativos pelos juízes da Relação designados pelo respectivo presidente.
 
 II. A designação referida no parágrafo anterior é feita por despacho interno, comunicado aos serviços de Fazenda e de administração civil no Boletim Oficial da província.
 
 III. Os substitutos em exercício terão direito ao vencimento de exercício correspondente ao lugar exercido, que será pago pela verba de duplicação de vencimentos quando o lugar estiver provido ou pela verba do lugar em caso contrário.
 
-###### Art. 4.º O presidente intervém no julgamento de todos os processos, mas não entra na distribuição e nunca é relator.
+Art. 4.º O presidente intervém no julgamento de todos os processos, mas não entra na distribuição e nunca é relator.
 
-###### Art. 5.º O exercício da presidência dá direito a uma gratificação mensal, a fixar pelo órgão legislativo da província.
+Art. 5.º O exercício da presidência dá direito a uma gratificação mensal, a fixar pelo órgão legislativo da província.
 
-###### Art. 6.º Os juízes privativos dos Tribunais Administrativos de Angola e Moçambique têm direito às honras, regalias e vencimentos dos juízes do respectivo Tribunal da Relação e o serviço por eles prestado vale como serviço judicial para todos os efeitos.
+Art. 6.º Os juízes privativos dos Tribunais Administrativos de Angola e Moçambique têm direito às honras, regalias e vencimentos dos juízes do respectivo Tribunal da Relação e o serviço por eles prestado vale como serviço judicial para todos os efeitos.
 
-###### Art. 7.º As decisões do Tribunal Administrativo são tomadas por maioria de votos, devendo, para estas se formarem, chamar-se os substitutos designados, sempre que necessário.
+Art. 7.º As decisões do Tribunal Administrativo são tomadas por maioria de votos, devendo, para estas se formarem, chamar-se os substitutos designados, sempre que necessário.
 
-###### Art. 8.º Nos Tribunais Administrativos de Angola e Moçambique haverá os seguintes agentes do Ministério Público:
+Art. 8.º Nos Tribunais Administrativos de Angola e Moçambique haverá os seguintes agentes do Ministério Público:
 
 1.º Procurador da República, para os processos do contencioso administrativo, eleitorais, de consulta e de exame e visto;
 
@@ -121,15 +142,15 @@ III. Os substitutos em exercício terão direito ao vencimento de exercício cor
 
 3.º Director dos serviços de alfândegas, para os processos do contencioso aduaneiro.
 
-###### Art. 9.º Nas suas faltas, ausências ou impedimentos, os agentes do Ministério Público são substituídos pelos seus substitutos legais.
+Art. 9.º Nas suas faltas, ausências ou impedimentos, os agentes do Ministério Público são substituídos pelos seus substitutos legais.
 
-###### Art. 10.º Os agentes do Ministério Público têm direito a uma gratificação mensal, a fixar pelo órgão legislativo da província.
+Art. 10.º Os agentes do Ministério Público têm direito a uma gratificação mensal, a fixar pelo órgão legislativo da província.
 
-###### Art. 11.º Entre os agentes do Ministério Público tem precedência o procurador da República e, em relação aos restantes, funcionará a antiguidade de serviço na respectiva categoria.
+Art. 11.º Entre os agentes do Ministério Público tem precedência o procurador da República e, em relação aos restantes, funcionará a antiguidade de serviço na respectiva categoria.
 
-###### Art. 12.º No Tribunal Administrativo haverá as férias dos tribunais judiciais.
+Art. 12.º No Tribunal Administrativo haverá as férias dos tribunais judiciais.
 
-###### Art. 13.º As secretarias dos Tribunais Administrativos de Angola e Moçambique, dirigidas por um secretário, terão três secções, cujo quadro de pessoal consta do mapa anexo deste diploma:
+Art. 13.º As secretarias dos Tribunais Administrativos de Angola e Moçambique, dirigidas por um secretário, terão três secções, cujo quadro de pessoal consta do mapa anexo deste diploma:
 
 a) 1.ª secção, de execução do expediente do Tribunal e de processos do contencioso administrativo;
 
@@ -137,13 +158,13 @@ b) 2.ª secção, de execução do expediente de processos do contencioso fiscal
 
 c) 3.ª secção, de execução do expediente de processos de exame e visto, eleitorais e de consultas.
 
-###### Art. 14.º - I. Cada secção será composta de um ajudante, um primeiro-oficial, um segundo-oficial, um terceiro-oficial, dois aspirantes, dois dactilógrafos, um oficial de diligências e um servente de 1.ª classe, cujas categorias vão fixadas no mapa anexo a este diploma.
+Art. 14.º - I. Cada secção será composta de um ajudante, um primeiro-oficial, um segundo-oficial, um terceiro-oficial, dois aspirantes, dois dactilógrafos, um oficial de diligências e um servente de 1.ª classe, cujas categorias vão fixadas no mapa anexo a este diploma.
 
 II. O presidente do Tribunal, por mero despacho interno, poderá, por conveniência ou necessidade de serviço, destacar funcionários de uma secção para outra.
 
-###### Art. 15.º Aos ajudantes cabe a chefia das secções e coadjuvar o secretário do Tribunal no exercício das suas funções.
+Art. 15.º Aos ajudantes cabe a chefia das secções e coadjuvar o secretário do Tribunal no exercício das suas funções.
 
-###### Art. 16.º O pessoal que actualmente presta serviço nas secretarias dos Tribunais Administrativos de Angola e Moçambique transitará, independentemente de visto e posse, para os novos lugares a que se refere este diploma, pela seguinte forma:
+Art. 16.º O pessoal que actualmente presta serviço nas secretarias dos Tribunais Administrativos de Angola e Moçambique transitará, independentemente de visto e posse, para os novos lugares a que se refere este diploma, pela seguinte forma:
 
 a) Em Angola:
 
@@ -161,29 +182,29 @@ b) Em Moçambique:
 
 3.º Os lugares não preenchidos nos termos dos números anteriores serão providos conforme as regras legais actualmente em vigor.
 
-###### Art. 17.º Para os lugares que ficarem vagos, independentemente do disposto no artigo anterior, as primeiras nomeações poderão ser feitas, livremente, pelos governadores das províncias, sob proposta do presidente do Tribunal, mas entre indivíduos que reúnam as condições legais para o exercício dos cargos.
+Art. 17.º Para os lugares que ficarem vagos, independentemente do disposto no artigo anterior, as primeiras nomeações poderão ser feitas, livremente, pelos governadores das províncias, sob proposta do presidente do Tribunal, mas entre indivíduos que reúnam as condições legais para o exercício dos cargos.
 
-###### Art. 18.º - 1. Na província de Angola, o cadastro geral dos funcionários existente na secção de exame e visto da Direcção Provincial dos Serviços de Fazenda e Contabilidade transita para o Tribunal Administrativo.
+Art. 18.º - 1. Na província de Angola, o cadastro geral dos funcionários existente na secção de exame e visto da Direcção Provincial dos Serviços de Fazenda e Contabilidade transita para o Tribunal Administrativo.
 
 2. O pessoal daquela Direcção Provincial encarregado do referido serviço terá preferência no primeiro provimento dos lugares do quadro de pessoal criado por este decreto, se o requerer.
 
 3. De futuro, a intervenção da mesma Direcção Provincial no exame e visto dos diplomas que importem despesa confinar-se-á na verificação do cabimento desta nas verbas inscritas no orçamento geral da província.
 
-###### Art. 19.º As inspecções dos Tribunais Administrativos serão efectuadas pelos inspectores superiores de justiça, quando o Ministro o determinar.
+Art. 19.º As inspecções dos Tribunais Administrativos serão efectuadas pelos inspectores superiores de justiça, quando o Ministro o determinar.
 
-###### Art. 20.º O pessoal de secretaria dos Tribunais Administrativos fica integrado nos serviços de justiça, mas sujeito à disciplina dos demais funcionários públicos.
+Art. 20.º O pessoal de secretaria dos Tribunais Administrativos fica integrado nos serviços de justiça, mas sujeito à disciplina dos demais funcionários públicos.
 
-###### Art. 21.º Nas províncias de Angola e Moçambique, o Cofre do Tribunal Administrativo é integrado no Cofre Geral dos Tribunais.
+Art. 21.º Nas províncias de Angola e Moçambique, o Cofre do Tribunal Administrativo é integrado no Cofre Geral dos Tribunais.
 
-###### Art. 22.º É aprovada a tabela de custas do Tribunal Administrativo, anexa a este diploma.
+Art. 22.º É aprovada a tabela de custas do Tribunal Administrativo, anexa a este diploma.
 
-###### Art. 23.º A tabela referida no artigo anterior sòmente entrará em vigor nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor quando for reorganizado o Tribunal Administrativo de cada uma dessas províncias.
+Art. 23.º A tabela referida no artigo anterior sòmente entrará em vigor nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe, Macau e Timor quando for reorganizado o Tribunal Administrativo de cada uma dessas províncias.
 
-###### Art. 24.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários à execução deste diploma.
+Art. 24.º Ficam os governadores-gerais de Angola e Moçambique autorizados a abrir os créditos necessários à execução deste diploma.
 
-###### Art. 25.º O presente diploma entra em vigor no dia 1 de Julho do ano de 1965.
+Art. 25.º O presente diploma entra em vigor no dia 1 de Julho do ano de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 
@@ -191,13 +212,13 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - Pe
 
 Quadro do pessoal do Tribunal Administrativo da província de Angola
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06600/03370343.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06600/03370343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06600/03370343.pdf)
 
 Ministério do Ultramar, 19 de Março de 1965. - O Ministro do Ultramar, António Augusto Peixoto Correia.
 
 Quadro do pessoal do Tribunal Administrativo da província de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/03/06600/03370343.pdf))](https://files.diariodarepublica.pt/1s/1965/03/06600/03370343.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/03/06600/03370343.pdf)
 
 Ministério do Ultramar, 19 de Março de 1965. - O Ministro do Ultramar, António Augusto Peixoto Correia.
 

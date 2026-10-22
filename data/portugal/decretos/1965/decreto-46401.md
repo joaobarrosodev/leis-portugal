@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46401-1965-296067
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9aaebbbfd001b3d63ffe6d97cbb6647eed7f7767baf313e0a8955fef9343f577
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 620e8c1097c659bcf03e1cd55fca004fa0234b348768efc59033b6389f1c3970
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:497209:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:36Z'
   warnings: []
   errors: []
 ---
@@ -94,10 +98,10 @@ Atendendo a que as estações competentes não vêem inconveniente na exclusão;
 
 Usando da faculdade Conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São excluídas do regime florestal parcial a que foram submetidas pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de Julho de 1917, publicado, no Diário do Governo n.º 123, 1.ª série, da mesma data, e restituídas à administração da Câmara Municipal de Alcobaça duas parcelas de terreno, a primeira pertencente ao perímetro florestal de Alva da Senhora da Vitória, com a área de 47950 m2, e a segunda pertencente ao perímetro florestal de Alva da Mina de Azeche, com a área de 89300 m2, que se destinam à ampliação da área urbana de Praia de Paredes.
+Artigo 1.º São excluídas do regime florestal parcial a que foram submetidas pelo [Decreto n.º 3264](https://diariodarepublica.pt/dr/detalhe/decreto/3264-1917-497209), de 27 de Julho de 1917, publicado, no Diário do Governo n.º 123, 1.ª série, da mesma data, e restituídas à administração da Câmara Municipal de Alcobaça duas parcelas de terreno, a primeira pertencente ao perímetro florestal de Alva da Senhora da Vitória, com a área de 47950 m2, e a segunda pertencente ao perímetro florestal de Alva da Mina de Azeche, com a área de 89300 m2, que se destinam à ampliação da área urbana de Praia de Paredes.
 
-###### Art. 2.º A transferência das parcelas mencionadas no artigo anterior será precedida de demarcação, lavrando-se o competente auto de entrega, no qual intervirão como outorgantes delegados daquele corpo administrativo e da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 2.º A transferência das parcelas mencionadas no artigo anterior será precedida de demarcação, lavrando-se o competente auto de entrega, no qual intervirão como outorgantes delegados daquele corpo administrativo e da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Domingos Rosado Vitória Pires.

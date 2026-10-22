@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46438-1965-292152
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 41677dcb139a517d16b9aab8de8fba83b81e9904ff3b93ccc72421c0148d8fe1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9902cc17f0afc455fac70dedadb3578f1159d63058183245e059ea1f82a23aca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:370394:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:00Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +106,27 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica o Governo da província da Guiné autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial de 2261788$00, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar a verba do capítulo 1.º, artigo 3.º «Dívida da província - Amortização e juros das 1.ª e 2.ª semestralidades referentes ao empréstimo do II Plano de Fomento ([Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961)», da tabela de despesa ordinária do orçamento geral em vigor.
+Artigo 1.º Fica o Governo da província da Guiné autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial de 2261788$00, tomando como contrapartida os saldos das contas de exercícios findos, destinado a reforçar a verba do capítulo 1.º, artigo 3.º «Dívida da província - Amortização e juros das 1.ª e 2.ª semestralidades referentes ao empréstimo do II Plano de Fomento ([Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961)», da tabela de despesa ordinária do orçamento geral em vigor.
 
-###### Art. 2.º Sem prejuízo das decisões que venham a ser proferidas pelos tribunais competentes em processos de recurso que estejam correndo seus termos à data da publicação deste decreto no Diário do Governo, consideram-se ratificadas, para todos os efeitos legais, as medidas legislativas promulgadas pelo Governo-Geral de Angola, alterando disposições do [Decreto n.º 37215](https://diariodarepublica.pt/dr/detalhe/decreto/37215-1948-370394), de 16 de Dezembro de 1948.
+Art. 2.º Sem prejuízo das decisões que venham a ser proferidas pelos tribunais competentes em processos de recurso que estejam correndo seus termos à data da publicação deste decreto no Diário do Governo, consideram-se ratificadas, para todos os efeitos legais, as medidas legislativas promulgadas pelo Governo-Geral de Angola, alterando disposições do [Decreto n.º 37215](https://diariodarepublica.pt/dr/detalhe/decreto/37215-1948-370394), de 16 de Dezembro de 1948.
 
-###### Art. 3.º É o Instituto dos Cereais de Moçambique autorizado a tomar as seguintes medidas:
+Art. 3.º É o Instituto dos Cereais de Moçambique autorizado a tomar as seguintes medidas:
 
 a) A comparticipar no capital social da Sociedade Comercial e Industrial de Moagem, S. A. R. L. (Socimol), com uma importância não superior a 3000 contos, nas condições que forem contratadas entre o mesmo Instituto e a sociedade;
 
 b) A dar o seu aval, directamente ou por intermédio de institutos nacionais de crédito, até ao montante de 25000 contos, ao contrato de aquisição de equipamento a realizar entre a mencionada sociedade e a firma alemã MIAG - Mühlenbau und Industrie G. m. b. H.
 
-###### Art. 4.º Fica o Governo-Geral de Moçambique autorizado a dar o aval da província ao Montepio de Moçambique para um empréstimo até ao montante de 15000 contos a conceder pelo mesmo Montepio à Sociedade Comercial e Industrial de Moagem, S. A. R. L. (Socimol), destinado à construção das instalações industriais da referida sociedade.
+Art. 4.º Fica o Governo-Geral de Moçambique autorizado a dar o aval da província ao Montepio de Moçambique para um empréstimo até ao montante de 15000 contos a conceder pelo mesmo Montepio à Sociedade Comercial e Industrial de Moagem, S. A. R. L. (Socimol), destinado à construção das instalações industriais da referida sociedade.
 
 § único. Nos termos do artigo 878.º do Código Civil, a província gozará do privilégio, creditório sobre os bens mobiliários e imobiliários da mencionada sociedade, pelas importâncias que despender para cumprimento das responsabilidades assumidas por força do disposto no corpo do artigo.
 
-###### Art. 5.º Para os efeitos designados nos dois artigos antecedentes a Socimol comprometer-se-á a realizar, prévia e integralmente, capital liberado correspondente a um terço dos avales prestados, com a obrigação da sua elevação posterior, até ao mínimo de 20000 contos, segundo fórmula a fixar pelo Governo-Geral da província.
+Art. 5.º Para os efeitos designados nos dois artigos antecedentes a Socimol comprometer-se-á a realizar, prévia e integralmente, capital liberado correspondente a um terço dos avales prestados, com a obrigação da sua elevação posterior, até ao mínimo de 20000 contos, segundo fórmula a fixar pelo Governo-Geral da província.
 
-###### Art. 6.º É autorizado o Governo-Geral de Moçambique a conceder aos serviços autónomos dos correios, telégrafos e telefones da província um subsídio extraordinário de 3856877$00, destinado a ocorrer ao aumento dos encargos resultantes da execução, no ano de 1964, do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março do mesmo ano.
+Art. 6.º É autorizado o Governo-Geral de Moçambique a conceder aos serviços autónomos dos correios, telégrafos e telefones da província um subsídio extraordinário de 3856877$00, destinado a ocorrer ao aumento dos encargos resultantes da execução, no ano de 1964, do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março do mesmo ano.
 
 § único. Para execução do disposto no corpo deste artigo, fica o governador-geral de Moçambique autorizado a abrir, observadas as disposições legais aplicáveis, o competente crédito especial, em adicional à tabela de despesa extraordinária do orçamento geral da província em vigor, tomando como contrapartida os saldos das contas de exercícios findos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

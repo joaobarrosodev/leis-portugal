@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46888-1966-490466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3b23cb675f14c448c000917c4826580420c67fe0838ec9ea47d04f5fe2f9901d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d32678fd8f98af0b5f41ddf2a0adb5d24a57f7bcc90c3769ada7d4a439ab5a67
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:538055:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:02Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +92,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 REGULAMENTO DE UNIFORMES PARA O PESSOAL DA GUARDA DAS INFRA-ESTRUTURAS O. T. A. N.
 
-###### Artigo 1.º Os uniformes a usar pelo pessoal da guarda das infra-estruturas O. T. A. N. compreendem os seguintes artigos:
+Artigo 1.º Os uniformes a usar pelo pessoal da guarda das infra-estruturas O. T. A. N. compreendem os seguintes artigos:
 
 Blusão;
 
@@ -120,11 +124,11 @@ Casaco impermeável;
 
 Luvas.
 
-###### Art. 2.º Os artigos referidos agrupam-se para constituírem os uniformes seguintes:
+Art. 2.º Os artigos referidos agrupam-se para constituírem os uniformes seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05400/03170324.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05400/03170324.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05400/03170324.pdf)
 
-###### Art. 3.º A constituição e formato dos artigos de uniforme são como a seguir se discriminam:
+Art. 3.º A constituição e formato dos artigos de uniforme são como a seguir se discriminam:
 
 a) Blusão (fig. 1). - De fibra sintética (terylene), de cor castanha e talhe folgada para permitir a liberdade de movimentos. A gola é voltada, com bandas de 12 cm de largura, e de talhe que permita cruzar e abotoar; a altura da gola atrás é de 5 cm. Abotoa à frente com uma ordem de quatro botões pretos do padrão n.º 2, em carcela de 5 cm de largura. No prolongamento da ordem de botões e debaixo da banda da gola há um botão preto de padrão n.º 3, que serve para abotoar numa casa existente na banda do outro lado; este botão usa-se normalmente desabotoado, o que implica o uso da gravata preta com a camisa castanha. Atrás, o blusão tem talhe inteiro.
 
@@ -234,12 +238,12 @@ o) Casaco impermeável. - Igual à capa impermeável, de comprimento a meio da c
 
 p) Luvas. - Cinzentas, forradas a felpa cinzenta e de punho, curto, abotoando na chave da mão com um botão do padrão n.º 2.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar. - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - Francisco António das Chagas.
 
 Uniforme n.º 1
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/03/05400/03170324.pdf))](https://files.diariodarepublica.pt/1s/1966/03/05400/03170324.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/03/05400/03170324.pdf)
 
 Presidência do Conselho, 5 de Março de 1966. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias. - O Secretário de Estado da Aeronáutica, Francisco António das Chagas.

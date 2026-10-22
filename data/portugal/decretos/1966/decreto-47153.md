@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47153-1966-469580
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 952516976e098c4c9a8a22eb18bd5a1110bde1754f9c1743778c8ec8141e8597
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a298371cdc443901e85be144bd1f6f37d8da61aa9d7c6cead985add93545e1d3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:439643:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:689439:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:07Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +98,19 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 ### CAPÍTULO I — Constituição e fins
 
-###### Artigo 1.º As associações de regantes e beneficiários gozam de personalidade jurídica, têm natureza cooperativa e beneficiam das regalias e isenções concedidas pela lei em vigor às cooperativas de produção e consumo.
+Artigo 1.º As associações de regantes e beneficiários gozam de personalidade jurídica, têm natureza cooperativa e beneficiam das regalias e isenções concedidas pela lei em vigor às cooperativas de produção e consumo.
 
-###### Art. 2.º São obrigatòriamente sócios das associações os proprietários, fiduciários, usufrutuários, enfiteutas, parceiros e arrendatários dos terrenos beneficiados pela obra de fomento hidroagrícola ou partes dela que lhes forem entregues.
+Art. 2.º São obrigatòriamente sócios das associações os proprietários, fiduciários, usufrutuários, enfiteutas, parceiros e arrendatários dos terrenos beneficiados pela obra de fomento hidroagrícola ou partes dela que lhes forem entregues.
 
-###### Art. 3.º Poderão também fazer parte da associação como utentes as pessoas ou entidades que utilizem as águas para regas de terrenos situados fora da área dominada pela obra ou parte respectiva dela, ou para fins diferentes dos da rega, ou, ainda, que tiverem interesses relacionados com a exploração e conservação da obra ou da parte dela que a constitua.
+Art. 3.º Poderão também fazer parte da associação como utentes as pessoas ou entidades que utilizem as águas para regas de terrenos situados fora da área dominada pela obra ou parte respectiva dela, ou para fins diferentes dos da rega, ou, ainda, que tiverem interesses relacionados com a exploração e conservação da obra ou da parte dela que a constitua.
 
-###### Art. 4.º A sede da associação será no lugar ou freguesia da obra, ou, se esta compreender terrenos pertencentes a mais de uma freguesia, naquela que se julgar mais conveniente.
+Art. 4.º A sede da associação será no lugar ou freguesia da obra, ou, se esta compreender terrenos pertencentes a mais de uma freguesia, naquela que se julgar mais conveniente.
 
-###### Art. 5.º As associações são constituídas por título escrito, do qual têm de constar os estatutos, lavrado e assinado nos termos e com as formalidades estabelecidas no artigo 5.º do [Decreto n.º 13734](https://diariodarepublica.pt/dr/detalhe/decreto/13734-1927-689439), de 31 de Maio de 1927.
+Art. 5.º As associações são constituídas por título escrito, do qual têm de constar os estatutos, lavrado e assinado nos termos e com as formalidades estabelecidas no artigo 5.º do [Decreto n.º 13734](https://diariodarepublica.pt/dr/detalhe/decreto/13734-1927-689439), de 31 de Maio de 1927.
 
 § único. Os estatutos terão de respeitar as disposições deste regulamento e preceitos e disposições para que ele remete, acomodar-se ao regulamento da obra e carecem de aprovação do Secretário de Estado da Agricultura.
 
-###### Art. 6.º Às associações de regantes e beneficiários incumbe:
+Art. 6.º Às associações de regantes e beneficiários incumbe:
 
 1.º Pronunciar-se sobre os projectos dos regulamentos definitivos das obras e propor as modificações que entenderem convenientes;
 
@@ -152,19 +160,19 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 #### SECÇÃO I — Assembleia geral
 
-###### Art. 7.º A assembleia geral é constituída pelos sócios ou seus representantes legais e pelos funcionários do Estado que fizerem parte da direcção.
+Art. 7.º A assembleia geral é constituída pelos sócios ou seus representantes legais e pelos funcionários do Estado que fizerem parte da direcção.
 
 § 1.º Os utentes a que se refere o artigo 3.º poderão assistir às reuniões das assembleias gerais, intervindo nas discussões, e o mesmo sucede com os funcionários referidos no corpo do artigo, mas uns e outros não têm direito a voto, excepto no caso especial de utentes expressamente identificados no regulamento da obra.
 
 § 2.º Não podem tomar parte nas reuniões da assembleia geral os sócios ou assistir a elas os utentes que forem privados desse direito nos termos dos estatutos.
 
-###### Art. 8.º A assembleia geral terá um presidente, um vice-presidente e dois secretários, por ela eleitos trienalmente, sendo permitida a reeleição.
+Art. 8.º A assembleia geral terá um presidente, um vice-presidente e dois secretários, por ela eleitos trienalmente, sendo permitida a reeleição.
 
 § 1.º Não podem ser eleitos para os referidos cargos os que ignorem as quatro operações aritméticas e os que tenham sido privados do direito de assistir às reuniões da assembleia geral.
 
 § 2.º O exercício das funções é gratuito.
 
-###### Art. 9.º A assembleia geral terá duas sessões ordinárias em cada ano, uma em Novembro, para aprovação do orçamento de receita e despesa e para o exercício das funções que lhe são atribuídas no n.º 6.º do artigo 10.º, e outra até ao termo do 1.º trimestre de cada ano, para apreciação do relatório e contas de gerência.
+Art. 9.º A assembleia geral terá duas sessões ordinárias em cada ano, uma em Novembro, para aprovação do orçamento de receita e despesa e para o exercício das funções que lhe são atribuídas no n.º 6.º do artigo 10.º, e outra até ao termo do 1.º trimestre de cada ano, para apreciação do relatório e contas de gerência.
 
 § 1.º Além das sessões ordinárias, haverá as extraordinárias que forem julgadas necessárias.
 
@@ -174,7 +182,7 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 § 4.º As sessões da assembleia geral podem continuar em qualquer dos dias imediatos com a mesma ordem de trabalhos.
 
-###### Art. 10.º Compete à assembleia geral:
+Art. 10.º Compete à assembleia geral:
 
 1.º Dar parecer sobre os projectos dos regulamentos definitivos das obras nos termos do n.º 1.º do artigo 6.º;
 
@@ -188,27 +196,27 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 6.º Eleger a mesa da assembleia geral, dos vogais da direcção e do júri avindor.
 
-###### Art. 11.º É obrigatória a comparência às sessões, salvo no caso de doença ou outro de força maior devidamente justificado.
+Art. 11.º É obrigatória a comparência às sessões, salvo no caso de doença ou outro de força maior devidamente justificado.
 
 § único. A falta não justificada dá lugar ao pagamento da multa de 50$00, que será elevada ao dobro em caso de reincidência, aplicada imediatamente pelo presidente, a qual reverterá para o cofre da associação.
 
-###### Art. 12.º Os documentos relativos às questões submetidas à apreciação da assembleia geral estarão patentes na sede da associação em todos os dias úteis desde a data em que tiver sido convocada e durante as horas do expediente.
+Art. 12.º Os documentos relativos às questões submetidas à apreciação da assembleia geral estarão patentes na sede da associação em todos os dias úteis desde a data em que tiver sido convocada e durante as horas do expediente.
 
-###### Art. 13.º As deliberações da assembleia geral serão tomadas por maioria dos sócios presentes, cabendo ao presidente voto de qualidade.
+Art. 13.º As deliberações da assembleia geral serão tomadas por maioria dos sócios presentes, cabendo ao presidente voto de qualidade.
 
-###### Art. 14.º Não é permitido tratar nas reuniões da assembleia geral de assuntos estranhos àquele para que foi convocada, salvo se for julgado de reconhecida utilidade pelo presidente, consultada a assembleia geral.
+Art. 14.º Não é permitido tratar nas reuniões da assembleia geral de assuntos estranhos àquele para que foi convocada, salvo se for julgado de reconhecida utilidade pelo presidente, consultada a assembleia geral.
 
 #### SECÇÃO II — Direcção
 
-###### Art. 15.º A direcção é constituída por um engenheiro agrónomo da Direcção-Geral dos Serviços Agrícolas, nomeado pelo Secretário de Estado da Agricultura, que servirá de presidente, por vogais, até ao número de três, eleitos pela assembleia geral de entre os sócios na plenitude dos seus direitos, e por um engenheiro civil designado pelo Ministro das Obras Públicas, e será assistida por um contabilista por ela escolhido, que servirá de secretário sem voto.
+Art. 15.º A direcção é constituída por um engenheiro agrónomo da Direcção-Geral dos Serviços Agrícolas, nomeado pelo Secretário de Estado da Agricultura, que servirá de presidente, por vogais, até ao número de três, eleitos pela assembleia geral de entre os sócios na plenitude dos seus direitos, e por um engenheiro civil designado pelo Ministro das Obras Públicas, e será assistida por um contabilista por ela escolhido, que servirá de secretário sem voto.
 
 § 1.º A assembleia geral que proceder à eleição dos vogais fixará o seu número.
 
 § 2.º O lugar de secretário da direcção é inerente ao de contabilista contratado ou encarregado da contabilidade e cessa logo que tenha sido rescindido o contrato.
 
-###### Art. 16.º Os estatutos de cada associação providenciarão quanto ao funcionamento da direcção e forma de suprir faltas e impedimentos das pessoas que a compõem.
+Art. 16.º Os estatutos de cada associação providenciarão quanto ao funcionamento da direcção e forma de suprir faltas e impedimentos das pessoas que a compõem.
 
-###### Art. 17.º Compete à direcção:
+Art. 17.º Compete à direcção:
 
 1.º Representar a associação em juízo e fora dele;
 
@@ -230,27 +238,27 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 10.º Exercer as demais atribuições fixadas na lei à associação e que por este regulamento não sejam da competência da assembleia geral e do júri avindor.
 
-###### Art. 18.º O presidente da direcção pode opor o seu veto às deliberações que reputar contrárias à lei, ao interesse geral ou aos interesses da associação.
+Art. 18.º O presidente da direcção pode opor o seu veto às deliberações que reputar contrárias à lei, ao interesse geral ou aos interesses da associação.
 
 § único. As deliberações consideram-se suspensas até resolução da Junta de Hidráulica Agrícola. Sendo as deliberações confirmadas, poderá haver recurso, nos termos do artigo 44.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643).
 
-###### Art. 19.º Compete ao secretário todo o serviço de expediente e contabilidade da associação e o mais de que for encarregado pela direcção.
+Art. 19.º Compete ao secretário todo o serviço de expediente e contabilidade da associação e o mais de que for encarregado pela direcção.
 
 § único. O secretário da direcção está sujeito, como contratado, à disciplina dos outros empregados e não pode tomar parte nas sessões da direcção em que se trate de assunto que lhe diga respeito.
 
-###### Art. 20.º Para obrigar a associação é suficiente a assinatura de dois membros da direcção, com direito a voto.
+Art. 20.º Para obrigar a associação é suficiente a assinatura de dois membros da direcção, com direito a voto.
 
-###### Art. 21.º Os membros da direcção respondem solidàriamente pelos actos praticados contra o disposto neste regulamento e na lei geral, salvo se não tiverem tomado parte nas respectivas deliberações ou tiverem emitido voto contrário.
+Art. 21.º Os membros da direcção respondem solidàriamente pelos actos praticados contra o disposto neste regulamento e na lei geral, salvo se não tiverem tomado parte nas respectivas deliberações ou tiverem emitido voto contrário.
 
 #### SECÇÃO III — Júri avindor
 
-###### Art. 22.º O júri avindor será composto por um representante da câmara ou câmaras municipais interessadas e por dois jurados, dos quais um eleito pela assembleia geral e outro homem bom que seja proprietário rural na zona beneficiada, escolhido pelo grémio ou grémios da lavoura da respectiva área.
+Art. 22.º O júri avindor será composto por um representante da câmara ou câmaras municipais interessadas e por dois jurados, dos quais um eleito pela assembleia geral e outro homem bom que seja proprietário rural na zona beneficiada, escolhido pelo grémio ou grémios da lavoura da respectiva área.
 
 § 1.º O secretário da direcção exercerá as funções de escrivão do júri avindor, podendo também ser nomeado pelo presidente um escrivão ad hoc na falta ou impedimento daquele ou quando se trate de acto ou facto que lhe respeite.
 
 § 2.º No caso de a área beneficiada pertencer a mais de uma freguesia, a escolha do vogal a que se refere a parte final deste artigo competirá ao grémio da lavoura que tiver maior área beneficiada pelo aproveitamento.
 
-###### Art. 23.º Ao júri avindor, além de outras funções que lhe forem conferidas pela lei, pelos estatutos ou pelo regulamento da obra compete:
+Art. 23.º Ao júri avindor, além de outras funções que lhe forem conferidas pela lei, pelos estatutos ou pelo regulamento da obra compete:
 
 1.º Promover a conciliação dos desavindos por motivo de uso das águas ou da exploração das terras, através do esclarecimento dos respectivos deveres e direitos;
 
@@ -262,29 +270,29 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 § 2.º Da conciliação será lavrado um auto, assinado pelos membros do júri, pelas partes e pelo escrivão, do qual constará o objecto ou motivo da desavença, o valor da indemnização e as outras cláusulas do acordo.
 
-###### Art. 24.º Nos processos por transgressão do disposto acerca das dotações de águas e horários de rega o júri fixará o valor das indemnizações a pagar pelos transgressores quando houver prejuízos.
+Art. 24.º Nos processos por transgressão do disposto acerca das dotações de águas e horários de rega o júri fixará o valor das indemnizações a pagar pelos transgressores quando houver prejuízos.
 
 § 1.º Em caso de reincidência, além da indemnização, será aplicada multa de valor igual a 50 por cento da indemnização, cujo produto reverte para o cofre da associação.
 
 § 2.º Se da transgressão não tiver resultado prejuízo, será aplicada apenas uma multa de 50$00 a 500$00, que terá o destino previsto no parágrafo anterior.
 
-###### Art. 25.º O auto de conciliação, a que se refere o § 2.º do artigo 23.º, é considerado título exequível para efeito do pagamento das indemnizações nele fixadas.
+Art. 25.º O auto de conciliação, a que se refere o § 2.º do artigo 23.º, é considerado título exequível para efeito do pagamento das indemnizações nele fixadas.
 
-###### Art. 26.º O recurso previsto no artigo 44.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), na parte relativa às decisões do júri avindor, será interposto no prazo de 30 dias, a contar da notificação por via postal com aviso de recepção, salvo se outro prazo especial for fixado por lei.
+Art. 26.º O recurso previsto no artigo 44.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643), na parte relativa às decisões do júri avindor, será interposto no prazo de 30 dias, a contar da notificação por via postal com aviso de recepção, salvo se outro prazo especial for fixado por lei.
 
-###### Art. 27.º Os membros do júri têm direito às despesas de transporte, que serão pagas pelas partes, segundo o que tiver sido acordado, ou abonadas pela direcção e cobradas por ela em conformidade com o disposto no artigo 37.º
+Art. 27.º Os membros do júri têm direito às despesas de transporte, que serão pagas pelas partes, segundo o que tiver sido acordado, ou abonadas pela direcção e cobradas por ela em conformidade com o disposto no artigo 37.º
 
 ### CAPÍTULO III — Associados - direitos e obrigações
 
-###### Art. 28.º A inscrição das entidades singulares ou colectivas com qualquer das qualidades referidas no artigo 2.º é feita obrigatòriamente pela direcção.
+Art. 28.º A inscrição das entidades singulares ou colectivas com qualquer das qualidades referidas no artigo 2.º é feita obrigatòriamente pela direcção.
 
-###### Art. 29.º As entidades a que alude o artigo 3.º, quando não expressamente identificadas no regulamento da obra, que pretendam fazer parte da associação, deverão apresentar à direcção requerimento em que demonstrem estar em qualquer das condições previstas naquele preceito.
+Art. 29.º As entidades a que alude o artigo 3.º, quando não expressamente identificadas no regulamento da obra, que pretendam fazer parte da associação, deverão apresentar à direcção requerimento em que demonstrem estar em qualquer das condições previstas naquele preceito.
 
-###### Art. 30.º Os sócios incapazes e os ausentes serão representados pelos respectivos tutores, curadores, administradores ou mandatários.
+Art. 30.º Os sócios incapazes e os ausentes serão representados pelos respectivos tutores, curadores, administradores ou mandatários.
 
-###### Art. 31.º O registo dos sócios e o dos utentes, a que alude o artigo 3.º, serão feitos em livros próprios.
+Art. 31.º O registo dos sócios e o dos utentes, a que alude o artigo 3.º, serão feitos em livros próprios.
 
-###### Art. 32.º São direitos dos sócios:
+Art. 32.º São direitos dos sócios:
 
 1.º Tomar parte nas reuniões da assembleia geral, discutir os assuntos submetidos e votar de harmonia com os preceitos estatutários, desde que não sejam funcionários remunerados da associação;
 
@@ -300,13 +308,13 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 7.º Votarem e serem votados para os cargos a prover por eleição na direcção, júri avindor e assembleia geral.
 
-###### Art. 33.º São direitos dos utentes previstos no artigo 3.º:
+Art. 33.º São direitos dos utentes previstos no artigo 3.º:
 
 1.º Usar ou utilizar a água nos termos constantes do regulamento da obra ou da autorização ou contrato respectivos;
 
 2.º Beneficiar das vantagens e regalias concedidas pela associação ao abrigo do artigo 6.º
 
-###### Art. 34.º São deveres dos sócios:
+Art. 34.º São deveres dos sócios:
 
 1.º Receber e aproveitar nas culturas a água atribuída aos terrenos que cultivem, em conformidade com os planos de exploração, dotações de água e horários de rega e o mais estabelecido no respectivo regulamento;
 
@@ -316,7 +324,7 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 ### CAPÍTULO IV — Das receitas e despesas
 
-###### Art. 35.º Constituem receitas da associação:
+Art. 35.º Constituem receitas da associação:
 
 1.º O produto da taxa de exploração e conservação;
 
@@ -330,48 +338,48 @@ REGULAMENTO DAS ASSOCIAÇÕES DE REGANTES E BENEFICIÁRIOS
 
 § 2.º As despesas gerais são divididas pelos associados proporcionalmente ao número de hectares que possuírem, para efeito da determinação das quotas.
 
-###### Art. 36.º As importâncias das taxas e quotas dos associados serão cobradas simultâneamente, por uma só vez em cada ano ou em duas prestações.
+Art. 36.º As importâncias das taxas e quotas dos associados serão cobradas simultâneamente, por uma só vez em cada ano ou em duas prestações.
 
 § 1.º No título de cobrança mencionar-se-á em separado a importância para as despesas de exploração e conservação e a verba para as despesas gerais.
 
 § 2.º Os proprietários, usufrutuários, enfiteutas, fiduciários e seus rendeiros ou parceiros são responsáveis solidàriamente pelo pagamento das taxas e quotas.
 
-###### Art. 37.º A cobrança coerciva das taxas e quotas dos associados, e bem assim das multas, indemnizações ou outras dívidas à associação, nos termos deste regulamento, efectuar-se-á, pelo processo das execuções fiscais, nos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto ou nas repartições de finanças dos restantes concelhos do País.
+Art. 37.º A cobrança coerciva das taxas e quotas dos associados, e bem assim das multas, indemnizações ou outras dívidas à associação, nos termos deste regulamento, efectuar-se-á, pelo processo das execuções fiscais, nos Tribunais de 1.ª Instância das Contribuições e Impostos de Lisboa e Porto ou nas repartições de finanças dos restantes concelhos do País.
 
-###### Art. 38.º A execução terá por base, além do auto de conciliação a que se refere o artigo 25.º, certidão, extraída pela direcção, do título de cobrança ou documento donde constar a dívida ou ainda da decisão que tiver condenado o associado ao pagamento da multa ou indemnização. A certidão será, para o efeito, enviada ao tribunal ou repartição de finanças competente.
+Art. 38.º A execução terá por base, além do auto de conciliação a que se refere o artigo 25.º, certidão, extraída pela direcção, do título de cobrança ou documento donde constar a dívida ou ainda da decisão que tiver condenado o associado ao pagamento da multa ou indemnização. A certidão será, para o efeito, enviada ao tribunal ou repartição de finanças competente.
 
 § único. Quando, por serem vários os devedores de indemnizações, se torne impraticável o envio do auto de conciliação em que tenham sido fixadas, poderá o mesmo ser substituído por certidão extraída dele pela direcção.
 
-###### Art. 39.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência à ordem da associação.
+Art. 39.º As receitas serão depositadas na Caixa Geral de Depósitos, Crédito e Previdência à ordem da associação.
 
 § único. Os levantamentos e os pagamentos, sempre que seja possível, serão efectuados por meio de cheque assinado por dois membros da direcção com direito a voto.
 
-###### Art. 40.º As despesas gerais e as de exploração e conservação das obras serão efectuadas por força das respectivas receitas.
+Art. 40.º As despesas gerais e as de exploração e conservação das obras serão efectuadas por força das respectivas receitas.
 
 § único. A direcção da associação é obrigada a enviar à Repartição das Associações Agrícolas um balancete trimestral das receitas e despesas, e bem assim uma cópia do balanço anual, relatórios e contas.
 
 ### CAPÍTULO V — Do crédito
 
-###### Art. 41.º As associações de regantes e beneficiários devem promover e auxiliar a criação de caixas de crédito agrícola mútuo, as quais se regularão pela legislação em vigor.
+Art. 41.º As associações de regantes e beneficiários devem promover e auxiliar a criação de caixas de crédito agrícola mútuo, as quais se regularão pela legislação em vigor.
 
-###### Art. 42.º As associações de regantes poderão contrair empréstimos na Caixa Geral de Depósitos, Crédito e Previdência, nos termos e para os fins dos artigos 84.º, 85.º e 86.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643).
+Art. 42.º As associações de regantes poderão contrair empréstimos na Caixa Geral de Depósitos, Crédito e Previdência, nos termos e para os fins dos artigos 84.º, 85.º e 86.º do [Decreto-Lei n.º 42665](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42665-1959-439643).
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 43.º O ano social das associações de regantes e beneficiários corresponde ao ano civil.
+Art. 43.º O ano social das associações de regantes e beneficiários corresponde ao ano civil.
 
-###### Art. 44.º Os regulamentos internos das associações de regantes referentes ao seu funcionamento administrativo carecem de aprovação da Direcção-Geral dos Serviços Agrícolas; os demais de aprovação da Junta de Hidráulica Agrícola.
+Art. 44.º Os regulamentos internos das associações de regantes referentes ao seu funcionamento administrativo carecem de aprovação da Direcção-Geral dos Serviços Agrícolas; os demais de aprovação da Junta de Hidráulica Agrícola.
 
-###### Art. 45.º As associações gozam de todas as regalias e benefícios concedidos por lei às cooperativas agrícolas e ficam subordinadas à Direcção-Geral dos Serviços Agrícolas para efeitos de orientação administrativa e inspecção e fiscalização.
+Art. 45.º As associações gozam de todas as regalias e benefícios concedidos por lei às cooperativas agrícolas e ficam subordinadas à Direcção-Geral dos Serviços Agrícolas para efeitos de orientação administrativa e inspecção e fiscalização.
 
-###### Art. 46.º As associações de regantes e beneficiários podem ser dissolvidas por determinação do Secretário de Estado da Agricultura, sob proposta da Junta de Hidráulica Agrícola, ouvida a Direcção-Geral dos Serviços Agrícolas.
+Art. 46.º As associações de regantes e beneficiários podem ser dissolvidas por determinação do Secretário de Estado da Agricultura, sob proposta da Junta de Hidráulica Agrícola, ouvida a Direcção-Geral dos Serviços Agrícolas.
 
 § 1.º Nesta hipótese, o lançamento e cobrança da taxa de exploração e conservação das obras serão efectuados pela Direcção-Geral dos Serviços Hidráulicos, nos termos dos artigos 35.º e seguintes, competindo-lhe também a exploração das obras hidroagrícolas e subsidiárias e a execução dos trabalhos de reparação e conservação.
 
 § 2.º Dissolvidas as associações, as receitas ou fundos que houver serão depositados à ordem da Direcção-Geral dos Serviços Hidráulicos e aplicados na reparação e conservação das obras.
 
-###### Art. 47.º Os engenheiros agrónomos, os engenheiros civis, os contabilistas ou os encarregados da contabilidade podem exercer as funções definidas nos artigos 15.º e seguintes em mais de uma associação.
+Art. 47.º Os engenheiros agrónomos, os engenheiros civis, os contabilistas ou os encarregados da contabilidade podem exercer as funções definidas nos artigos 15.º e seguintes em mais de uma associação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Eduardo de Arantes e Oliveira - Domingos Rosado Vitória Pires.

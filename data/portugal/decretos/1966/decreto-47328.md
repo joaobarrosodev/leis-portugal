@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47328-1966-477616
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ae5b7f663c4e898e4777a43c9931fde15151fed6cb11a1c6e809293e33a2246f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0524355e197e5b34399d2c0d8af25a29287e73f0a791dc5b651cb5c00cffbce1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:27Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +94,9 @@ Por se tratar de uma propriedade do Estado, é aplicável a modalidade do regime
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É submetida ao regime florestal total a Quinta do Marquês, situada na freguesia e concelho de Oeiras, com a superfície, de 127,0880 ha, assim discriminada actualmente: 83,5180 ha de culturas agrícolas de sequeiro e de regadio; 5,9450 ha de vinha; 22 ha de mata; 2,25 ha de parques e bosques; 1 ha de sebes e arvoredo ao longo dos caminhos e ribeiros, e 12,3750 ha de área social, como consta do respectivo processo, plano de arborização, tratamento e exploração e planta autêntica, sendo-lhe aplicáveis as disposições legais e regulamentares daquele regime.
+Artigo 1.º É submetida ao regime florestal total a Quinta do Marquês, situada na freguesia e concelho de Oeiras, com a superfície, de 127,0880 ha, assim discriminada actualmente: 83,5180 ha de culturas agrícolas de sequeiro e de regadio; 5,9450 ha de vinha; 22 ha de mata; 2,25 ha de parques e bosques; 1 ha de sebes e arvoredo ao longo dos caminhos e ribeiros, e 12,3750 ha de área social, como consta do respectivo processo, plano de arborização, tratamento e exploração e planta autêntica, sendo-lhe aplicáveis as disposições legais e regulamentares daquele regime.
 
-###### Art. 2.º Em cumprimento do respectivo plano de arborização, tratamento e exploração deverão ser observadas as seguintes condições:
+Art. 2.º Em cumprimento do respectivo plano de arborização, tratamento e exploração deverão ser observadas as seguintes condições:
 
 Proceder à arborização de 11 ha de terrenos de aptidão florestal com espécies florestais tècnicamente aconselháveis, tais como: pinheiro de Alepo e eucaliptos (resistentes ao calcário activo);
 
@@ -102,10 +106,10 @@ Proteger a regeneração natural da mata de modo a proteger o solo eficazmente e
 
 Conservar e fomentar a arborização dos parques, galerias e sebes ao longo dos caminhos e linhas de água.
 
-###### Art. 3.º No perímetro da propriedade serão colocadas as tabuletas a que se refere o artigo 46.º do [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793) e nas condições referidas no mesmo artigo.
+Art. 3.º No perímetro da propriedade serão colocadas as tabuletas a que se refere o artigo 46.º do [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793) e nas condições referidas no mesmo artigo.
 
-###### Art. 4.º A Direcção-Geral dos Serviços Agrícolas manterá um guarda florestal auxiliar, com os deveres e regalias consignados no referido [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793).
+Art. 4.º A Direcção-Geral dos Serviços Agrícolas manterá um guarda florestal auxiliar, com os deveres e regalias consignados no referido [Decreto-Lei n.º 39931](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39931-1954-680793).
 
-###### Art. 5.º A execução do presente decreto só terá lugar decorrido o prazo de 30 dias a contar da data da afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação da propriedade. Publique-se e cumpra-se como nele se contém.
+Art. 5.º A execução do presente decreto só terá lugar decorrido o prazo de 30 dias a contar da data da afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação da propriedade. Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Domingos Rosado Vitória Pires.

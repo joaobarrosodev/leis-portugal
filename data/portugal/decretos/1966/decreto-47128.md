@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47128-1966-474097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ab3cf91e6d846048c46d334f4e945e512ecb6e7cd6ba028f0f8e927c2834f6e9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5c724a7d2b1cf8497cbbd83360d4aa0f2a02a6f8858ab40d6c5edcc0a1883e5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:52Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +96,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar um contrato adicional com o arquitecto Joaquim Marques de Araújo para prestar assistência técnica à obra de construção do edifício da cadeia comarcã de Moimenta da Beira e ajuste dos honorários dos estudos elaborados para a mesma cadeia e para o quartel da Guarda Nacional Republicana da referida localidade, pela quantia de 66532$50.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar um contrato adicional com o arquitecto Joaquim Marques de Araújo para prestar assistência técnica à obra de construção do edifício da cadeia comarcã de Moimenta da Beira e ajuste dos honorários dos estudos elaborados para a mesma cadeia e para o quartel da Guarda Nacional Republicana da referida localidade, pela quantia de 66532$50.
 
-###### Art. 2.º A importância dos honorários referida no artigo anterior será satisfeita no corrente ano até à importância de 50590$00 e no ano de 1967 a quantia de 15942$50 ou o que se apurar como saldo.
+Art. 2.º A importância dos honorários referida no artigo anterior será satisfeita no corrente ano até à importância de 50590$00 e no ano de 1967 a quantia de 15942$50 ou o que se apurar como saldo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Eduardo de Arantes e Oliveira.

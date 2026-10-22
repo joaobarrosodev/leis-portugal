@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47531-1967-505224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 054d538696d65e49f7e3e99651c03ef95ef80c7573f5298bfb92aaab43fb21a4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5ba94181cb760a1950b6ad87eb49d6097e026a55abe4822e87b4b7c5ba7ee230
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:276612:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:190382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:17Z'
   warnings: []
   errors: []
 ---
@@ -91,24 +95,24 @@ Tendo-se reconhecido a necessidade de actualizar a regulamentação sobre a impo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A sacarina, seus derivados e outros edulcorantes sintéticos só podem ser utilizados na preparação de medicamentos, especializados ou não, e nas indústrias de produtos em que o seu uso não apresente inconvenientes para a saúde pública.
+Artigo 1.º A sacarina, seus derivados e outros edulcorantes sintéticos só podem ser utilizados na preparação de medicamentos, especializados ou não, e nas indústrias de produtos em que o seu uso não apresente inconvenientes para a saúde pública.
 
 § único. É proibida a incorporação de sacarina, seus derivados e outros edulcorantes sintéticos nos produtos alimentares.
 
-###### Art. 2.º A importação de sacarina, seus derivados e outros edulcorantes sintéticos, em pó ou comprimidos, necessita de autorização da Direcção-Geral das Alfândegas, emitida mediante a apresentação de licença passada pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
+Art. 2.º A importação de sacarina, seus derivados e outros edulcorantes sintéticos, em pó ou comprimidos, necessita de autorização da Direcção-Geral das Alfândegas, emitida mediante a apresentação de licença passada pela Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
-###### Art. 3.º A fiscalização do comércio e do emprego dos produtos referidos no artigo 1.º no fabrico de medicamentos e em usos industriais ficará a cargo da Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
+Art. 3.º A fiscalização do comércio e do emprego dos produtos referidos no artigo 1.º no fabrico de medicamentos e em usos industriais ficará a cargo da Comissão Reguladora dos Produtos Químicos e Farmacêuticos.
 
-###### Art. 4.º Todos os fabricantes e importadores dos produtos mencionados no artigo 1.º ficam obrigados a possuir um registo onde se anotem não só as quantidades produzidas ou importadas, como também as quantidades saídas, com a indicação dos destinatários.
+Art. 4.º Todos os fabricantes e importadores dos produtos mencionados no artigo 1.º ficam obrigados a possuir um registo onde se anotem não só as quantidades produzidas ou importadas, como também as quantidades saídas, com a indicação dos destinatários.
 
-###### Art. 5.º Os industriais que utilizem no seu fabrico, como matéria-prima, os produtos referidos no artigo 1.º, observando as prescrições deste decreto, deverão possuir um registo onde se anotem não só as quantidades adquiridas ou importadas, como também as quantidades saídas, com a indicação da respectiva laboração.
+Art. 5.º Os industriais que utilizem no seu fabrico, como matéria-prima, os produtos referidos no artigo 1.º, observando as prescrições deste decreto, deverão possuir um registo onde se anotem não só as quantidades adquiridas ou importadas, como também as quantidades saídas, com a indicação da respectiva laboração.
 
-###### Art. 6.º A sacarina, seus derivados e outros edulcorantes sintéticos, em pó ou comprimidos, só podem ser vendidos ao público pelas farmácias, que, para o efeito, possuirão um registo das quantidades adquiridas e vendidas.
+Art. 6.º A sacarina, seus derivados e outros edulcorantes sintéticos, em pó ou comprimidos, só podem ser vendidos ao público pelas farmácias, que, para o efeito, possuirão um registo das quantidades adquiridas e vendidas.
 
-###### Art. 7.º As infracções às disposições deste decreto ficam sujeitas às penalidades cominadas no artigo 30.º do [Decreto n.º 30270](https://diariodarepublica.pt/dr/detalhe/decreto/30270-1940-190382), de 12 de Janeiro de 1940.
+Art. 7.º As infracções às disposições deste decreto ficam sujeitas às penalidades cominadas no artigo 30.º do [Decreto n.º 30270](https://diariodarepublica.pt/dr/detalhe/decreto/30270-1940-190382), de 12 de Janeiro de 1940.
 
-###### Art. 8.º São revogados os Decretos de 9 de Agosto de 1888, n.º 7110, de 13 de Outubro de 1920, e n.º 7418, de 26 de Março de 1921.
+Art. 8.º São revogados os Decretos de 9 de Agosto de 1888, n.º 7110, de 13 de Outubro de 1920, e n.º 7418, de 26 de Março de 1921.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

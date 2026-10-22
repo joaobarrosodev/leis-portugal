@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46480-1965-292545
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f2bdb2df68501af109b6e475e3c59b6c77dd1ce6d9bd8411e01fded33ab38788
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f47ca3044fd1c1ce93438f45fefbe35638163d4f64aa1f738de5253fce6a8e91
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:651082:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:16Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Assim:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É alterado o mapa I anexo ao [Decreto n.º 41053](https://diariodarepublica.pt/dr/detalhe/decreto/41053-1957-651082), de 2 de Abril de 1957, na parte respeitante ao quadro privativo dos serviços externos do serviço de aeronáutica civil de Angola e ao quadro comum do serviço de aeronáutica civil de Moçambique com a criação dos seguintes lugares:
+Artigo único. É alterado o mapa I anexo ao [Decreto n.º 41053](https://diariodarepublica.pt/dr/detalhe/decreto/41053-1957-651082), de 2 de Abril de 1957, na parte respeitante ao quadro privativo dos serviços externos do serviço de aeronáutica civil de Angola e ao quadro comum do serviço de aeronáutica civil de Moçambique com a criação dos seguintes lugares:
 
 a) Serviço de aeronáutica civil de Angola:
 
@@ -99,7 +103,7 @@ b) Serviço de aeronáutica civil de Moçambique:
 
 Dois controladores de 1.ª classe.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moleira da Silva Cunha.
 

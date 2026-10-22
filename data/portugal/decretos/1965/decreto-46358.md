@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46358-1965-295433
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: beba6c4f8c61f1d480b21cfaf7248c0de5a040ad8ae8fc77ebaa750517888d7c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6621d79cae331fe3e0736ec194f1c33cd44e9246b8b9b053b4f47f3f9c173252
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:19Z'
   warnings: []
   errors: []
 ---
@@ -94,27 +94,27 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Criação e fins da Caixa
 
-###### Artigo 1.º - 1. É criada uma instituição de crédito do Estado, dotada de personalidade jurídica e de autonomia administrativa e financeira, denominada «Caixa de Crédito de S. Tomé e Príncipe».
+Artigo 1.º - 1. É criada uma instituição de crédito do Estado, dotada de personalidade jurídica e de autonomia administrativa e financeira, denominada «Caixa de Crédito de S. Tomé e Príncipe».
 
 2. A Caixa terá a sede na cidade de S. Tomé e poderá criar uma delegação na cidade de Santo António, na ilha do Príncipe.
 
-###### Art. 2.º - 1. A Caixa tem por objectivo a concessão de crédito agrícola, pecuário, industrial e imobiliário, com vista ao desenvolvimento económico da província.
+Art. 2.º - 1. A Caixa tem por objectivo a concessão de crédito agrícola, pecuário, industrial e imobiliário, com vista ao desenvolvimento económico da província.
 
 2. Se o interesse público o aconselhar, poderá o Governo da província, em diploma legislativo, autorizar a Caixa a efectuar outras operações de crédito, excepto as de crédito comercial, fixando as condições genéricas a que tais operações deverão obedecer.
 
-###### Art. 3.º As operações de crédito agrícola e pecuário a realizar pela Caixa visarão facultar aos produtores e suas associações meios financeiros para aplicações directamente relacionadas com o fomento da agricultura, silvicultura e pecuária da província, tecnologia e exportação dos respectivos produtos.
+Art. 3.º As operações de crédito agrícola e pecuário a realizar pela Caixa visarão facultar aos produtores e suas associações meios financeiros para aplicações directamente relacionadas com o fomento da agricultura, silvicultura e pecuária da província, tecnologia e exportação dos respectivos produtos.
 
-###### Art. 4.º As operações de crédito industrial destinam-se a financiar a construção, ampliação ou transformação de edifícios para instalação de indústrias, aquisição de equipamento e outros investimentos em actividades de natureza industrial, incluindo as respeitantes às indústrias extractivas e à pesca.
+Art. 4.º As operações de crédito industrial destinam-se a financiar a construção, ampliação ou transformação de edifícios para instalação de indústrias, aquisição de equipamento e outros investimentos em actividades de natureza industrial, incluindo as respeitantes às indústrias extractivas e à pesca.
 
-###### Art. 5.º As operações de crédito imobiliário destinam-se a financiar a construção de edifícios para habitação, com vista a contribuir para a solução do problema de habitação na província.
+Art. 5.º As operações de crédito imobiliário destinam-se a financiar a construção de edifícios para habitação, com vista a contribuir para a solução do problema de habitação na província.
 
-###### Art. 6.º A Caixa efectuará as suas operações de crédito por meio de:
+Art. 6.º A Caixa efectuará as suas operações de crédito por meio de:
 
 a) Empréstimos;
 
 b) Prestação de garantias a terceiros, destinadas a assegurar o cumprimento de obrigações pecuniárias contraídas para qualquer das aplicações previstas nos artigos 2.º a 4.º
 
-###### Art. 7.º As operações de crédito a que se referem os artigos precedentes poderão ser feitas nos regimes de longo, médio ou curto prazo, conforme as finalidades a que se destinem, com os seguintes limites máximos de duração:
+Art. 7.º As operações de crédito a que se referem os artigos precedentes poderão ser feitas nos regimes de longo, médio ou curto prazo, conforme as finalidades a que se destinem, com os seguintes limites máximos de duração:
 
 a) Longo prazo - vinte anos;
 
@@ -122,11 +122,11 @@ b) Médio prazo - oito anos;
 
 c) Curto prazo - um ano, admitindo-se renovações por períodos não superiores ao inicial.
 
-###### Art. 8.º - 1. Os regimes e condições gerais das operações constarão do regulamento da Caixa.
+Art. 8.º - 1. Os regimes e condições gerais das operações constarão do regulamento da Caixa.
 
 2. As taxas de juro serão fixadas pela administração da Caixa, dentro dos limites aprovados pelo Governo da província.
 
-###### Art. 9.º - 1. As garantias dos empréstimos serão constituídas, conforme a natureza e finalidade das operações e o disposto no regulamento da Caixa, por:
+Art. 9.º - 1. As garantias dos empréstimos serão constituídas, conforme a natureza e finalidade das operações e o disposto no regulamento da Caixa, por:
 
 a) Hipoteca;
 
@@ -148,7 +148,7 @@ f) Aval ou fiança idónea.
 
 ### CAPÍTULO II — Dos fundos próprios e outros recursos financeiros
 
-###### Art. 10.º A Caixa disporá dos seguintes fundos próprios:
+Art. 10.º A Caixa disporá dos seguintes fundos próprios:
 
 a) Fundo inicial, constituído por um subsídio do Governo da província;
 
@@ -158,7 +158,7 @@ c) A percentagem dos saldos positivos de cada exercício que for determinada pel
 
 d) Quaisquer outros bens ou rendimentos que lhe sejam atribuídos.
 
-###### Art. 11.º Para realizar as suas operações de crédito, poderá a Caixa, além da aplicação dos recursos a que se se refere o artigo 9.º:
+Art. 11.º Para realizar as suas operações de crédito, poderá a Caixa, além da aplicação dos recursos a que se se refere o artigo 9.º:
 
 a) Aceitar depósitos à ordem e a prazo;
 
@@ -168,47 +168,47 @@ c) Receber da província quaisquer quantias não compreendidas nas alíneas a) e
 
 ### CAPÍTULO III — Da administração da Caixa
 
-###### Art. 12.º - 1. A Caixa será administrada por uma direcção, assistida por um conselho fiscal.
+Art. 12.º - 1. A Caixa será administrada por uma direcção, assistida por um conselho fiscal.
 
 2. A direcção compõe-se de um director-gerente e dois vogais, de livre designação e exoneração do governador da província, competindo ao primeiro a gerência da instituição e, nesta qualidade, a prática de todos os actos de administração para os quais as normas em vigor não exijam a intervenção de, pelo menos, dois directores.
 
 3. O conselho fiscal é constituído pelo delegado do procurador da República e pelos chefes dos serviços de economia e estatística geral e de Fazenda e contabilidade, competindo-lhe fiscalizar a administração da Caixa e cooperar com a direcção no exercício de determinadas funções de gerência.
 
-###### Art. 13.º A direcção apresentará anualmente à apreciação do conselho fiscal o orçamento das receitas e despesas para o ano imediato, bem como o relatório e contas da gerência finda.
+Art. 13.º A direcção apresentará anualmente à apreciação do conselho fiscal o orçamento das receitas e despesas para o ano imediato, bem como o relatório e contas da gerência finda.
 
-###### Art. 14.º - 1. À direcção e ao conselho fiscal, em reunião conjunta, sob a presidência do director-gerente, que terá voto de qualidade, incumbe fixar as directivas gerais da actividade da Caixa e, bem assim, autorizar as operações de crédito que excedam determinados quantitativos ou obedeçam a condições especiais, de harmonia com o determinado no regulamento da instituição.
+Art. 14.º - 1. À direcção e ao conselho fiscal, em reunião conjunta, sob a presidência do director-gerente, que terá voto de qualidade, incumbe fixar as directivas gerais da actividade da Caixa e, bem assim, autorizar as operações de crédito que excedam determinados quantitativos ou obedeçam a condições especiais, de harmonia com o determinado no regulamento da instituição.
 
 2. As demais regras de competência e funcionamento da direcção e do conselho fiscal constarão deste regulamento.
 
-###### Art. 15.º O director-gerente e os vogais da direcção terão direito a remunerações mensais e os membros do conselho fiscal perceberão senhas de presença, conforme vier a ser regulamentado.
+Art. 15.º O director-gerente e os vogais da direcção terão direito a remunerações mensais e os membros do conselho fiscal perceberão senhas de presença, conforme vier a ser regulamentado.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 16.º A Caixa tem o direito de fiscalizar, por forma apropriada, que constará dos respectivos contratos, a actividade dos mutuários, a fim de acautelar a eficácia da sua assistência financeira.
+Art. 16.º A Caixa tem o direito de fiscalizar, por forma apropriada, que constará dos respectivos contratos, a actividade dos mutuários, a fim de acautelar a eficácia da sua assistência financeira.
 
-###### Art. 17.º - 1. A Caixa terá um fundo de reserva legal, destinado a ocorrer a eventualidades imprevistas, e constituído por uma parte dos saldos positivos de cada exercício, a fixar pela direcção e conselho fiscal em reunião conjunta, mas nunca inferior a 10 por cento daqueles saldos.
+Art. 17.º - 1. A Caixa terá um fundo de reserva legal, destinado a ocorrer a eventualidades imprevistas, e constituído por uma parte dos saldos positivos de cada exercício, a fixar pela direcção e conselho fiscal em reunião conjunta, mas nunca inferior a 10 por cento daqueles saldos.
 
 2. Mediante aprovação do Governo da província, poderão ser criados pela administração da Caixa outros fundos de garantia ou previsão.
 
-###### Art. 18.º - 1. As taxas de juro dos depósitos à ordem e a prazo serão fixadas pela direcção e conselho fiscal, com a aprovação do Governo da província.
+Art. 18.º - 1. As taxas de juro dos depósitos à ordem e a prazo serão fixadas pela direcção e conselho fiscal, com a aprovação do Governo da província.
 
 2. O Estado assegura a restituição de todos os depósitos efectuados na Caixa, mesmo em caso fortuito ou de força maior.
 
-###### Art. 19.º Os actos e contratos em que a Caixa outorgue ou intervenha, no desempenho das suas atribuições, são isentos de quaisquer encargos fiscais.
+Art. 19.º Os actos e contratos em que a Caixa outorgue ou intervenha, no desempenho das suas atribuições, são isentos de quaisquer encargos fiscais.
 
-###### Art. 20.º - 1. À cobrança coerciva das quantias em débito à Caixa, incluindo capital, juros e outros encargos, são aplicáveis as disposições do Código das Execuções Fiscais.
+Art. 20.º - 1. À cobrança coerciva das quantias em débito à Caixa, incluindo capital, juros e outros encargos, são aplicáveis as disposições do Código das Execuções Fiscais.
 
 2. Servirão de base à execução as certidões de dívida passadas pela Caixa, as quais serão remetidas ao tribunal acompanhadas de certidão do contrato a que respeitem.
 
-###### Art. 21.º - 1. O quadro do pessoal estritamente necessário aos serviços da Caixa, e a sua fornia de provimento, constarão do regulamento previsto no artigo 24.º
+Art. 21.º - 1. O quadro do pessoal estritamente necessário aos serviços da Caixa, e a sua fornia de provimento, constarão do regulamento previsto no artigo 24.º
 
 2. Para o desempenho de funções de natureza técnica ou jurídica recorrer-se-á, de preferência, a, elementos externos, mediante o pagamento por serviço ou por avença.
 
-###### Art. 22.º A Caixa depositará os seus fundos e disponibilidades no banco emissor da província.
+Art. 22.º A Caixa depositará os seus fundos e disponibilidades no banco emissor da província.
 
-###### Art. 23.º O presente decreto entrará em vigor com o regulamento da Caixa, a publicar pelo Governo da província em diploma legislativo.
+Art. 23.º O presente decreto entrará em vigor com o regulamento da Caixa, a publicar pelo Governo da província em diploma legislativo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

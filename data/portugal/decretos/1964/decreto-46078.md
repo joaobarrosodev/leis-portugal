@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46078-1964-535182
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31e233758b7eef74d321ce1b340e3f1e962fee116d0d1e2e9d89dea122475ee9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eaf8ed3aba1693719a8f8d24a06939dcdb5b3024309943cfe3fb2baea417ecf9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:25Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +88,9 @@ Tendo em consideração o que já foi estabelecido sobre a matéria para o pesso
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O serviço militar prestado pelo pessoal militar da Força Aérea nas províncias ultramarinas é regulado pelo disposto neste diploma.
+Artigo 1.º O serviço militar prestado pelo pessoal militar da Força Aérea nas províncias ultramarinas é regulado pelo disposto neste diploma.
 
-###### Art. 2.º A nomeação do pessoal militar da Força Aérea para prestar serviço militar nas províncias ultramarinas far-se-á:
+Art. 2.º A nomeação do pessoal militar da Força Aérea para prestar serviço militar nas províncias ultramarinas far-se-á:
 
 a) Por escolha;
 
@@ -98,7 +98,7 @@ b) Por oferecimento;
 
 c) Por escala.
 
-###### Art. 3.º É adoptada a nomeação por escolha, de acordo com normas a fixar por despacho do Secretário de Estado da Aeronáutica, para:
+Art. 3.º É adoptada a nomeação por escolha, de acordo com normas a fixar por despacho do Secretário de Estado da Aeronáutica, para:
 
 a) Comandantes, 2.os comandantes e chefes de estado-maior de região aérea e de zona aérea;
 
@@ -108,25 +108,25 @@ c) Directores de delegações das direcções de serviços.
 
 § único. A nomeação de comandantes de região aérea e de zona aérea é feita pelo Secretário de Estado da Aeronáutica, mediante a concordância do Ministro da Defesa Nacional e ouvido o Ministro do Ultramar, sob proposta do chefe do estado-maior da Força Aérea.
 
-###### Art. 4.º É adoptada a nomeação por oferecimento para os militares que desejem servir nas províncias ultramarinas e que satisfaçam às condições a fixar por despacho do Secretário de Estado da Aeronáutica.
+Art. 4.º É adoptada a nomeação por oferecimento para os militares que desejem servir nas províncias ultramarinas e que satisfaçam às condições a fixar por despacho do Secretário de Estado da Aeronáutica.
 
 § único. Sempre que o interesse do serviço o aconselhar, as nomeações são feitas por escolha entre os oferecidos.
 
-###### Art. 5.º É adoptada a nomeação por escala, de acordo com normas a fixar por despacho do Secretário de Estado da Aeronáutica, quando não tiver lugar a nomeação por escolha, não houver oferecidos ou, havendo-os, não satisfaçam às condições exigidas.
+Art. 5.º É adoptada a nomeação por escala, de acordo com normas a fixar por despacho do Secretário de Estado da Aeronáutica, quando não tiver lugar a nomeação por escolha, não houver oferecidos ou, havendo-os, não satisfaçam às condições exigidas.
 
 § 1.º As nomeações por escala devem recair no pessoal de menor antiguidade com o grau hierárquico e a especialização necessários.
 
 § 2.º Quando circunstâncias especiais o aconselharem, pode o Secretário de Estado da Aeronáutica determinar que seja abrangido na nomeação por escala o pessoal da Força Aérea que estiver a prestar serviço noutros departamentos do Estado e que não tenha transitado definitivamente de quadro.
 
-###### Art. 6.º O serviço militar nas províncias ultramarinas é prestado em comissões de dois anos, que podem ser prorrogadas por períodos sucessivos de um ano, de acordo com normas a fixar por despacho do Secretário de Estado da Aeronáutica e a requerimento dos interessados.
+Art. 6.º O serviço militar nas províncias ultramarinas é prestado em comissões de dois anos, que podem ser prorrogadas por períodos sucessivos de um ano, de acordo com normas a fixar por despacho do Secretário de Estado da Aeronáutica e a requerimento dos interessados.
 
 § 1.º Quando a situação particular em cada território o aconselhe, o Secretário de Estado da Aeronáutica poderá reduzir o tempo obrigatório de cada comissão para todo o pessoal militar ou aumentá-lo até três anos para o pessoal militar permanente.
 
 § 2.º O tempo da prestação de serviço nas províncias ultramarinas é contado desde a data de desembarque na província ultramarina de destino até à véspera do dia de embarque de regresso à metrópole.
 
-###### Art. 7.º Em caso de emergência ou quando o interesse nacional o determine, pode o Secretário de Estado da Aeronáutica suspender o regresso à metrópole do pessoal da Força Aérea que tenha terminado a prestação de serviço nas províncias ultramarinas nos termos do artigo 6.º
+Art. 7.º Em caso de emergência ou quando o interesse nacional o determine, pode o Secretário de Estado da Aeronáutica suspender o regresso à metrópole do pessoal da Força Aérea que tenha terminado a prestação de serviço nas províncias ultramarinas nos termos do artigo 6.º
 
-###### Art. 8.º Além dos direitos já consignados pela lei, o pessoal da Força Aérea, nomeado para prestar serviço militar nas províncias ultramarinas tem mais os direitos seguintes:
+Art. 8.º Além dos direitos já consignados pela lei, o pessoal da Força Aérea, nomeado para prestar serviço militar nas províncias ultramarinas tem mais os direitos seguintes:
 
 a) Licença de 7 dias por cada semestre completo de comissão, até ao máximo de 60 dias, com os vencimentos metropolitanos;
 
@@ -136,13 +136,13 @@ b) Quando nomeado por escolha ou por oferecimento, passagens por conta do Estado
 
 § 2.º Os militares nomeados por escolha ou por oferecimento que casem durante a comissão têm direito à passagem de regresso, da província onde prestam serviço, para as pessoas referidas na alínea b) do corpo deste artigo, independentemente do tempo de comissão que tenham cumprido depois do casamento.
 
-###### Art. 9.º A nomeação por escala passa a ser considerada por oferecimento quando se verifique a prorrogação da comissão nos termos do artigo 6.º
+Art. 9.º A nomeação por escala passa a ser considerada por oferecimento quando se verifique a prorrogação da comissão nos termos do artigo 6.º
 
-###### Art. 10.º O pessoal que, nos termos da legislação em vigor, deixar a efectividade de serviço enquanto presta serviço nas províncias ultramarinas poderá ser dispensado de regressar à metrópole.
+Art. 10.º O pessoal que, nos termos da legislação em vigor, deixar a efectividade de serviço enquanto presta serviço nas províncias ultramarinas poderá ser dispensado de regressar à metrópole.
 
 § único. Os militares nestas condições mantêm direito às passagens de regresso para si e suas famílias e às ajudas de custo de embarque relativas ao regresso, até dois anos após a data em que tenham terminado a prestação de serviço.
 
-###### Art. 11.º São dadas por findas as comissões de serviço nas províncias ultramarinas e consideram-se completadas quando o Secretário de Estado da Aeronáutica o determinar ou quando o pessoal:
+Art. 11.º São dadas por findas as comissões de serviço nas províncias ultramarinas e consideram-se completadas quando o Secretário de Estado da Aeronáutica o determinar ou quando o pessoal:
 
 a) For promovido ou transitar para a reserva e não houver nas províncias ultramarinas vaga correspondente ao novo posto ou situação;
 
@@ -152,10 +152,10 @@ c) For chamado para realizar, na metrópole, condições de promoção ao posto 
 
 § único. Quando as comissões terminem por motivo disciplinar, não se consideram completadas e os militares perdem o direito ao abono de ajudas de custo de embarque relativas ao regresso e à licença referida na alínea a) do artigo 8.º
 
-###### Art. 12.º Quando o pessoal tenha de deslocar-se à metrópole em consequência de decisão, devidamente homologada, de junta médica competente, por motivo de doença ou convalescença, de ferimento, desastre ou acidente ocorridos em serviço ou por motivo do mesmo, não cessa a prestação de serviço militar nas províncias ultramarinas e as viagens de vinda e de regresso são por conta do Estado.
+Art. 12.º Quando o pessoal tenha de deslocar-se à metrópole em consequência de decisão, devidamente homologada, de junta médica competente, por motivo de doença ou convalescença, de ferimento, desastre ou acidente ocorridos em serviço ou por motivo do mesmo, não cessa a prestação de serviço militar nas províncias ultramarinas e as viagens de vinda e de regresso são por conta do Estado.
 
 § único. Os militares nestas condições são presentes à Junta de Saúde da Aeronáutica. Se forem julgados aptos para o serviço nas províncias ultramarinas, devem continuar a prestação de serviço na mesma província, caso tenham cumprido menos de metade do tempo da comissão. Caso contrário ou durante períodos de prorrogação, será o assunto submetido a despacho do Secretário de Estado da Aeronáutica ou, por delegação de competência, do chefe do Estado-Maior da Força Aérea.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - António Augusto Peixoto Correia - Francisco António das Chagas.

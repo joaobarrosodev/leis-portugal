@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47606-1967-509263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80c1205b96ee89ba2c73c80cbae2eb5fce8c2778071cb2cff8b190e1b54dd412
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2c8d14470adaff6b0a04b154f0dd501493529289c976ba7e5efebac69ad94e63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:54Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +94,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado na cidade de Carmona um liceu, de frequência mista, para o 1.º, 2.º e 3.º ciclos.
+Artigo 1.º É criado na cidade de Carmona um liceu, de frequência mista, para o 1.º, 2.º e 3.º ciclos.
 
-###### Art. 2.º São criadas as Escolas Técnicas Elementares do Vila Nova do Seles, Santa Comba, no concelho de Cela, e Vila General Machado, todas de frequência mista.
+Art. 2.º São criadas as Escolas Técnicas Elementares do Vila Nova do Seles, Santa Comba, no concelho de Cela, e Vila General Machado, todas de frequência mista.
 
-###### Art. 3.º O pessoal do liceu agora criado será o seguinte:
+Art. 3.º O pessoal do liceu agora criado será o seguinte:
 
 a) Do quadro comum dos professores:
 
@@ -148,7 +148,7 @@ Cinco serventes de 1.ª classe;
 
 Três serventes de 2.ª classe.
 
-###### Art. 4.º O pessoal de cada uma das escolas técnicas elementares agora criadas será o seguinte:
+Art. 4.º O pessoal de cada uma das escolas técnicas elementares agora criadas será o seguinte:
 
 a) Do quadro comum:
 
@@ -186,9 +186,9 @@ Três contínuos, sendo um feminino;
 
 Três serventes de 2.ª classe, sendo um feminino.
 
-###### Art. 5.º Fica o Governo-Geral de Angola autorizado a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 5.º Fica o Governo-Geral de Angola autorizado a abrir, cumpridas as formalidades legais, os créditos necessários para a execução deste diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46164-1965-238996
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89602f5f9ba29f8b1ffe2a015a2c71fb4b796c771ba016c30bcc1bfb171d3b05
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5eec92c61fd978916db09e6cf3d4505fcfdef328f2486618eb50a2fc948329a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:58Z'
   warnings: []
   errors: []
 ---
@@ -90,9 +94,9 @@ Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituiçã
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É isenta de direitos e outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação na província de Timor de combustíveis destinados ao consumo de aeronaves e de outros aparelhos de aviação empregados em transportes públicos de passageiros, carga e correio, sendo-lhes aplicáveis as disposições dos artigos 15.º a 17.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
+Artigo único. É isenta de direitos e outras imposições a cobrar no despacho aduaneiro, com excepção do imposto do selo, a importação na província de Timor de combustíveis destinados ao consumo de aeronaves e de outros aparelhos de aviação empregados em transportes públicos de passageiros, carga e correio, sendo-lhes aplicáveis as disposições dos artigos 15.º a 17.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

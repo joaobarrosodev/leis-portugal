@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47349-1966-477338
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a266e7b6c46220db0ac5460ff7934409de81eb77aef3c87aeaeca2081f74b02b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fddd12f45366bccff05eb828192f1abb930130c67722d3d3d560e12ef123085
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:149204:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:194065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281607:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:32Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +102,19 @@ Convindo, ainda, restabelecer, e tornar extensivo a todos os militares dos três
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Aos militares dos três ramos das forças armadas que, estando em comissão de serviço no ultramar, a seu pedido, ali sejam desligados da efectividade de serviço para exercerem actividades ou profissões civis em qualquer província ultramarina, ser-lhes-á facultado transporte, por conta do Estado, do local onde são desligados da efectividade de serviço para a localidade dessa ou de outras províncias onde vão fixar residência.
+Artigo 1.º Aos militares dos três ramos das forças armadas que, estando em comissão de serviço no ultramar, a seu pedido, ali sejam desligados da efectividade de serviço para exercerem actividades ou profissões civis em qualquer província ultramarina, ser-lhes-á facultado transporte, por conta do Estado, do local onde são desligados da efectividade de serviço para a localidade dessa ou de outras províncias onde vão fixar residência.
 
 § único. A estes militares são ainda concedidas passagens por conta do Estado para a mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o direito ao abono de família, desde que os acompanhem.
 
-###### Art. 2.º Aos militares referidos no corpo do artigo 1.º é mantido por dois anos o direito à passagem por conta do Estado de regresso à metrópole, devendo, contudo, indemnizar prèviamente o Estado do montante das passagens que, para si e seus familiares, lhe tiverem sido abonadas nos termos do artigo 1.º e seu § único.
+Art. 2.º Aos militares referidos no corpo do artigo 1.º é mantido por dois anos o direito à passagem por conta do Estado de regresso à metrópole, devendo, contudo, indemnizar prèviamente o Estado do montante das passagens que, para si e seus familiares, lhe tiverem sido abonadas nos termos do artigo 1.º e seu § único.
 
 § único. O direito à concessão da passagem por conta do Estado de regresso à metrópole é igualmente tornado extensivo à mulher, filhos menores, filhas solteiras e outras pessoas que justifiquem o direito ao abono de família, desde que à data da separação do militar da efectividade de serviço tenham obtido já o direito a essa concessão e o acompanhem.
 
-###### Art. 3.º Os casos omissos serão resolvidos por despacho do Ministro da Defesa Nacional.
+Art. 3.º Os casos omissos serão resolvidos por despacho do Ministro da Defesa Nacional.
 
-###### Art. 4.º Fica revogado o [Decreto n.º 44914](https://diariodarepublica.pt/dr/detalhe/decreto/44914-1963-194065), de 13 de Março de 1963.
+Art. 4.º Fica revogado o [Decreto n.º 44914](https://diariodarepublica.pt/dr/detalhe/decreto/44914-1963-194065), de 13 de Março de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Joaquim Moreira da Silva Cunha - Francisco António das Chagas.
 

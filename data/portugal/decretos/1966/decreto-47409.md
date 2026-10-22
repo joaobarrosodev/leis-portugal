@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47409-1966-477861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 96e8548b55193c33151d2d96737061efdd5648141f6ded0272820d49b95ff2fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66741dcff1430a56f3a1194889af1e04f7b724c8a482a872cf24b1d2c932c0a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:12Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +95,7 @@ Tendo em vista o preceituado no artigo 22.º do [Decreto-Lei n.º 41375](https:/
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizada a Administração-Geral do Porto de Lisboa a pagar ao Laboratório Nacional de Engenharia Civil o valor da construção de um modelo do estuário do Tejo, sendo o encargo total, de 2500000$00, satisfeito em conta dos seguintes anos económicos:
+Artigo único. É autorizada a Administração-Geral do Porto de Lisboa a pagar ao Laboratório Nacional de Engenharia Civil o valor da construção de um modelo do estuário do Tejo, sendo o encargo total, de 2500000$00, satisfeito em conta dos seguintes anos económicos:
 
 1966 ... 1000000$00
 
@@ -101,6 +105,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Os saldos que se verificarem no fim dos anos de 1966 e 1967 acrescerão às importâncias fixadas para os anos de 1967 e 1968, respectivamente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Pagos do Governo da República, 22 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

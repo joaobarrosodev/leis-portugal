@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46938-1966-486477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78ad29f4005bdb0f9904158bf1400a1e9ac6de1ec786ce7c497b836f7e149629
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36d5c30b799edd119e093ee8739884906a8618d54516ae5fcb5d0545cc9b9701
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:529177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 25
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 20
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:22Z'
   warnings: []
   errors: []
 ---
@@ -100,13 +108,13 @@ CAIXA DE CRÉDITO AGRÍCOLA DE MOÇAMBIQUE
 
 ### CAPÍTULO I — Da definição e fins da Caixa de Crédito Agrícola
 
-###### Artigo 1.º A Caixa de Crédito Agrícola de Moçambique, criada pelo Diploma Legislativo n.º 79, de 21 de Julho de 1928, passa a constituir um instituto de crédito do Estado, enquadrado no artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, com personalidade jurídica e autonomia administrativa e financeira, e exercerá a sua actividade de harmonia com as disposições legais aplicáveis e com o disposto no presente diploma.
+Artigo 1.º A Caixa de Crédito Agrícola de Moçambique, criada pelo Diploma Legislativo n.º 79, de 21 de Julho de 1928, passa a constituir um instituto de crédito do Estado, enquadrado no artigo 3.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, com personalidade jurídica e autonomia administrativa e financeira, e exercerá a sua actividade de harmonia com as disposições legais aplicáveis e com o disposto no presente diploma.
 
-###### Art. 2.º - 1. A Caixa de Crédito Agrícola de Moçambique, adiante designada simplesmente por «Caixa», terá a sua sede em Lourenço Marques, podendo abrir delegações em quaisquer outras localidades da província.
+Art. 2.º - 1. A Caixa de Crédito Agrícola de Moçambique, adiante designada simplesmente por «Caixa», terá a sua sede em Lourenço Marques, podendo abrir delegações em quaisquer outras localidades da província.
 
 2. Independentemente da faculdade de abertura de delegações a que se refere o número anterior, a Caixa poderá acordar com outros institutos de crédito do Estado e com o banco emissor a sua representação pelas respectivas filiais, agências ou outras sucursais e, ainda, utilizar, no mesmo sentido, a colaboração de quaisquer serviços públicos.
 
-###### Art. 3.º A Caixa contribuirá para o fomento agropecuário da província, designadamente mediante as seguintes operações de assistência financeira:
+Art. 3.º A Caixa contribuirá para o fomento agropecuário da província, designadamente mediante as seguintes operações de assistência financeira:
 
 a) Concessão de empréstimos e garantias a curto prazo, para auxiliar a formação de fundos de maneio das explorações agro-pecuárias;
 
@@ -116,7 +124,7 @@ b) Concessão de empréstimos e garantias a médio e longo prazos a exploraçõe
 
 #### SECÇÃO I — Do conselho geral
 
-###### Art. 4.º - 1. A Caixa será superiormente dirigida por um conselho geral, composto por doze membros, dos quais sete serão representantes de serviços públicos e cinco de actividades particulares.
+Art. 4.º - 1. A Caixa será superiormente dirigida por um conselho geral, composto por doze membros, dos quais sete serão representantes de serviços públicos e cinco de actividades particulares.
 
 2. Os vogais do conselho geral que constituem a representação do sector público serão designados pelos organismos seguintes:
 
@@ -138,17 +146,17 @@ Instituto dos Cereais.
 
 4. Os membros do conselho geral terão direito a remuneração por senhas de presença de quantitativo a fixar pelo governador-geral.
 
-###### Art. 5.º - 1. Os membros do conselho geral elegerão entre si um presidente e um vice presidente, cujos mandatos terão a duração de um triénio, considerando-se findo o primeiro em 31 de Dezembro de 1968.
+Art. 5.º - 1. Os membros do conselho geral elegerão entre si um presidente e um vice presidente, cujos mandatos terão a duração de um triénio, considerando-se findo o primeiro em 31 de Dezembro de 1968.
 
 2. A eleição do presidente e do vice-presidente incidirá, respectiva e alternadamente, entre os membros representantes do sector público e do sector privado.
 
-###### Art. 6.º - 1. O conselho geral reunirá em sessão ordinária pelo menos uma vez por mês e, extraordinàriamente sempre que for convocado pelo respectivo presidente.
+Art. 6.º - 1. O conselho geral reunirá em sessão ordinária pelo menos uma vez por mês e, extraordinàriamente sempre que for convocado pelo respectivo presidente.
 
 2. As deliberações do conselho geral serão tomadas por maioria de votos, cabendo ao seu presidente voto de desempate ou qualidade.
 
 3. Os presidentes dos conselhos de administração e fiscal ou os seus representantes deverão assistir às reuniões do conselho geral e poderão intervir nos debates, mas é-lhes vedado participar nas votações.
 
-###### Art. 7.º Compete, em especial, ao conselho geral da Caixa:
+Art. 7.º Compete, em especial, ao conselho geral da Caixa:
 
 a) Fixar anualmente, e rever sempre que necessário, as prioridades gerais para a concessão de crédito, tendo em conta o planeamento definido para a província em matéria de produção agrícola, pecuária e florestal;
 
@@ -170,17 +178,17 @@ i) Decidir sobre todos os demais assuntos que excedam a competência do conselho
 
 #### SECÇÃO II — Do conselho de administração
 
-###### Art. 8.º O conselho de administração será constituído por um presidente e dois vogais, todos nomeados pelo governador-geral de entre individualidades de reconhecida competência e experiência, por um período de três anos, renovável.
+Art. 8.º O conselho de administração será constituído por um presidente e dois vogais, todos nomeados pelo governador-geral de entre individualidades de reconhecida competência e experiência, por um período de três anos, renovável.
 
-###### Art. 9.º - 1. O conselho de administração reunirá obrigatòriamente duas vezes por semana, em dias prèviamente estipulados, e extraordinàriamente sempre que o seu presidente o julgue necessário.
+Art. 9.º - 1. O conselho de administração reunirá obrigatòriamente duas vezes por semana, em dias prèviamente estipulados, e extraordinàriamente sempre que o seu presidente o julgue necessário.
 
 2. As decisões do conselho de administração serão tomadas por maioria de votes, cabendo ao presidente voto de qualidade ou desempate.
 
-###### Art. 10.º O presidente do conselho de administração terá o direito de suspender todas as deliberações desse conselho que repute contrárias à lei, aos interesses da província ou ao regulamento da Caixa, submetendo o assunto à consideração do presidente do conselho geral, para apreciação do mesmo conselho, que deverá pronunciar-se no prazo de dois dias.
+Art. 10.º O presidente do conselho de administração terá o direito de suspender todas as deliberações desse conselho que repute contrárias à lei, aos interesses da província ou ao regulamento da Caixa, submetendo o assunto à consideração do presidente do conselho geral, para apreciação do mesmo conselho, que deverá pronunciar-se no prazo de dois dias.
 
-###### Art. 11.º O presidente e os vogais do conselho de administração receberão remunerações a fixar por despacho do governador-geral da província.
+Art. 11.º O presidente e os vogais do conselho de administração receberão remunerações a fixar por despacho do governador-geral da província.
 
-###### Art. 12.º Compete, em especial, ao conselho de administração da Caixa:
+Art. 12.º Compete, em especial, ao conselho de administração da Caixa:
 
 a) Zelar pelo cumprimento das directivas e regulamentos aprovados pelo conselho geral;
 
@@ -206,7 +214,7 @@ k) Autorizar a realização de despesas, bem como o seu pagamento, nos termos qu
 
 l) Submeter ao conselho geral, até ao dia 15 de cada mês, o balancete do Razão referido no último dia do mês anterior, acompanhado dos desdobramentos de contas que se mostrarem necessários.
 
-###### Art. 13.º - 1. É da competência do presidente do conselho de administração:
+Art. 13.º - 1. É da competência do presidente do conselho de administração:
 
 a) Representar a Caixa em todos os actos e contratos;
 
@@ -220,7 +228,7 @@ d) Assinar os documentos necessários para a utilização dos fundos da Caixa e 
 
 #### SECÇÃO III — Do conselho fiscal
 
-###### Art. 14.º - 1. O conselho fiscal será constituído pelas seguintes entidades ou seus legais representantes:
+Art. 14.º - 1. O conselho fiscal será constituído pelas seguintes entidades ou seus legais representantes:
 
 Procurador da República;
 
@@ -234,7 +242,7 @@ Director dos Serviços de Fazenda e Contabilidade.
 
 4. É aplicável ao conselho fiscal o disposto no artigo 11.º deste diploma.
 
-###### Art. 15.º Compete, em especial, ao conselho fiscal:
+Art. 15.º Compete, em especial, ao conselho fiscal:
 
 a) Zelar pelo rigoroso cumprimento das disposições legais em vigor e das directivas e regulamentos emanados do conselho geral;
 
@@ -244,17 +252,17 @@ c) Assistir, por delegação, sempre que o considere necessário, às reuniões 
 
 #### SECÇÃO IV — Dos serviços
 
-###### Art. 16.º No regulamento da Caixa será fixado o quadro do respectivo pessoal, bem como a sua forma de provimento.
+Art. 16.º No regulamento da Caixa será fixado o quadro do respectivo pessoal, bem como a sua forma de provimento.
 
-###### Art. 17.º - 1. A estrutura orgânica da Caixa compreende dois serviços distintos, o técnico e o administrativo, cuja acção será orientada pelo conselho de administração.
+Art. 17.º - 1. A estrutura orgânica da Caixa compreende dois serviços distintos, o técnico e o administrativo, cuja acção será orientada pelo conselho de administração.
 
 2. O serviço técnico terá as seguintes divisões:
 
-##### Divisão de estudos económicos;
+Divisão de estudos económicos;
 
-##### Divisão de avaliação de projectos;
+Divisão de avaliação de projectos;
 
-##### Divisão de informações e responsabilidades;
+Divisão de informações e responsabilidades;
 
 Inspecção interna e de créditos.
 
@@ -262,19 +270,19 @@ Inspecção interna e de créditos.
 
 ##### Divisão de secretaria;
 
-##### Divisão de contabilidade;
+Divisão de contabilidade;
 
 ##### Divisão de tesouraria;
 
-##### Divisão de contencioso.
+Divisão de contencioso.
 
-###### Art. 18.º - 1. Haverá um director dos serviços técnicos, um director dos serviços administrativos e chefes de toda uma das divisões.
+Art. 18.º - 1. Haverá um director dos serviços técnicos, um director dos serviços administrativos e chefes de toda uma das divisões.
 
 2. As divisões indicadas no artigo anterior poderão ser agrupadas ou, pelo contrário, subdivididas em secções, de acordo com as conveniências da Caixa e consoante o justificar o respectivo movimento.
 
 3. As funções específicas dos serviços e divisões, bem como dos respectivos directores e chefes, constarão do regulamento da Caixa.
 
-###### Art. 19.º - 1. Ao chefe da divisão de secretaria são atribuídas funções de notário público, nos termos da legislação vigente, para todos os actos em que a Caixa intervenha.
+Art. 19.º - 1. Ao chefe da divisão de secretaria são atribuídas funções de notário público, nos termos da legislação vigente, para todos os actos em que a Caixa intervenha.
 
 2. A divisão de contencioso terá a assistência técnica de um advogado, que poderá ser remunerado em regime de avença.
 
@@ -286,7 +294,7 @@ Inspecção interna e de créditos.
 
 #### SECÇÃO I — Dos fundos próprios e outros recursos financeiros
 
-###### Art. 20.º A Caixa disporá dos recursos próprios seguintes:
+Art. 20.º A Caixa disporá dos recursos próprios seguintes:
 
 a) O fundo inicial de 10500000$00, entregue como subsídio pelo Governo da província;
 
@@ -300,7 +308,7 @@ e) O fundo de reserva de lucros, constituído por transferência dos saldos posi
 
 f) Quaisquer outros bens, rendimentos ou receitas que lhe sejam atribuídos.
 
-###### Art. 21.º Para o financiamento das suas operações de crédito poderá a Caixa, além da utilização dos recursos próprios indicados no artigo anterior:
+Art. 21.º Para o financiamento das suas operações de crédito poderá a Caixa, além da utilização dos recursos próprios indicados no artigo anterior:
 
 a) Emitir obrigações;
 
@@ -312,13 +320,13 @@ d) Realizar quaisquer outras operações de crédito que forem autorizadas pelo 
 
 #### SECÇÃO II — Da emissão de obrigações
 
-###### Art. 22.º - 1. A Caixa poderá emitir obrigações amortizáveis no prazo máximo de vinte anos, a partir da data da emissão.
+Art. 22.º - 1. A Caixa poderá emitir obrigações amortizáveis no prazo máximo de vinte anos, a partir da data da emissão.
 
 2. A emissão de obrigações deverá ser sempre autorizada pelo governador-geral, sob proposta do conselho de administração da Caixa, devidamente sancionada pelo conselho geral.
 
 3. Quando o valor das emissões propostas exceder, no período de um ano, a importância de 5000000$00, a autorização é da competência do Ministro do Ultramar.
 
-###### Art. 23.º - 1. A emissão de obrigações será feita por séries globais, podendo a respectiva amortização efectuar-se por sorteio ou compra no mercado.
+Art. 23.º - 1. A emissão de obrigações será feita por séries globais, podendo a respectiva amortização efectuar-se por sorteio ou compra no mercado.
 
 2. Da proposta a que se refere o n.º 2 do artigo anterior deverá sempre constar o número de obrigações a emitir, a taxa de juro e a forma de amortização.
 
@@ -330,7 +338,7 @@ d) Realizar quaisquer outras operações de crédito que forem autorizadas pelo 
 
 6. Dos próprios títulos constarão a taxa de juro das obrigações, assim como as datas e a forma de pagamento dos juros e das amortizações.
 
-###### Art. 24.º - 1. O sorteio para o reembolso das obrigações será sempre feito na presença de representantes dos conselhos de administração e fiscal.
+Art. 24.º - 1. O sorteio para o reembolso das obrigações será sempre feito na presença de representantes dos conselhos de administração e fiscal.
 
 2. Os números das obrigações sorteadas serão anunciados por edital afixado na sede e delegações da Caixa, assim como por avisos publicados no Boletim Oficial e em dois dos jornais de maior circulação na província.
 
@@ -338,11 +346,11 @@ d) Realizar quaisquer outras operações de crédito que forem autorizadas pelo 
 
 4. As obrigações amortizadas serão anuladas e os títulos respectivos carimbados no acto do pagamento ou da compra, procedendo-se à sua destruição no prazo de 30 dias, na presença de representantes dos conselhos de administração e fiscal, que assinarão o respectivo auto.
 
-###### Art. 25.º As obrigações emitidas pela Caixa serão garantidas por aval da província, prestado pelo Governo-Geral de Moçambique.
+Art. 25.º As obrigações emitidas pela Caixa serão garantidas por aval da província, prestado pelo Governo-Geral de Moçambique.
 
 #### SECÇÃO III — Da recepção de depósitos
 
-###### Art. 26.º - 1. A Caixa poderá aceitar depósitos à ordem e a prazo, nos termos da legislação em vigor.
+Art. 26.º - 1. A Caixa poderá aceitar depósitos à ordem e a prazo, nos termos da legislação em vigor.
 
 2. O regime a que deverá subordinar-se a movimentação desses depósitos, incluindo as regras relativas ao abono de juros, constará de regulamento aprovado pelo governador-geral, sob proposta do conselho de administração.
 
@@ -350,11 +358,11 @@ d) Realizar quaisquer outras operações de crédito que forem autorizadas pelo 
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 27.º - 1. A Caixa poderá conceder empréstimos a curto, médio e longo prazos, para os fins previstos no presente diploma.
+Art. 27.º - 1. A Caixa poderá conceder empréstimos a curto, médio e longo prazos, para os fins previstos no presente diploma.
 
 2. O prazo das operações conta-se a partir da data dos respectivos contratos.
 
-###### Art. 28.º - 1. A Caixa poderá fazer empréstimos, inclusivamente a longo prazo, a explorações agrícolas instaladas em terrenos do Estado, concedidos ao abrigo do Regulamento de Ocupação e Concessão de Terrenos, que se encontrem ainda em situação de concessão provisória.
+Art. 28.º - 1. A Caixa poderá fazer empréstimos, inclusivamente a longo prazo, a explorações agrícolas instaladas em terrenos do Estado, concedidos ao abrigo do Regulamento de Ocupação e Concessão de Terrenos, que se encontrem ainda em situação de concessão provisória.
 
 2. A Caixa comunicará à Direcção Provincial dos Serviços Geográficos e Cadastrais os ónus e encargos que incidam sobre cada exploração, a fim de estes serem registados nos respectivos processos.
 
@@ -362,17 +370,17 @@ d) Realizar quaisquer outras operações de crédito que forem autorizadas pelo 
 
 4. As conservatórias de registo predial deverão, oficiosamente, inscrever todos aqueles encargos sob a forma de hipoteca, independentemente de outras garantias dadas, salvo quando a Caixa expressamente dispensar a inscrição.
 
-###### Art. 29.º - 1. Todos os empréstimos a conceder pela Caixa serão precedidos de um estudo técnico-económico adequado.
+Art. 29.º - 1. Todos os empréstimos a conceder pela Caixa serão precedidos de um estudo técnico-económico adequado.
 
 2. Para os fins consignados no número anterior, a Caixa poderá solicitar dos serviços públicos e dos organismos de coordenação económica e corporativos competentes os elementos e informações de que necessitar.
 
-###### Art. 30.º - 1. No regulamento da Caixa serão estabelecidos os trâmites a que deverão obedecer as operações de concessão de crédito e fixados os limites quantitativos que poderão atingir, relativamente a cada exploração, as importâncias mutuadas a curto, médio e longo prazos.
+Art. 30.º - 1. No regulamento da Caixa serão estabelecidos os trâmites a que deverão obedecer as operações de concessão de crédito e fixados os limites quantitativos que poderão atingir, relativamente a cada exploração, as importâncias mutuadas a curto, médio e longo prazos.
 
 2. Os empréstimos concedidos a médio e longo prazos serão sujeitos a rigorosa fiscalização, devendo as entregas dos capitais mutuados ser processadas em parcelas, contra a prova de que foram devidamente aplicados os fundos anteriormente recebidos pelos beneficiários.
 
 3. A fiscalização a que se refere o número anterior será exercida quer durante o período de realização do investimento, quer, ainda, na fase posterior de vigência dó contrato, e será praticada pelos próprios serviços e delegados da Caixa ou por serviços públicos e de coordenação económica da província cuja colaboração vier a ser solicitada.
 
-###### Art. 31.º Todo o mutuário da Caixa é obrigado a:
+Art. 31.º Todo o mutuário da Caixa é obrigado a:
 
 a) Autorizar que pessoas devidamente credenciadas pela Caixa procedam à inspecção das suas propriedades e ao exame da sua contabilidade;
 
@@ -382,33 +390,33 @@ c) Participar à Caixa, no prazo máximo de 30 dias, qualquer depreciação, sup
 
 d) Participar à Caixa, no prazo de três dias após a citação, a propositura de qualquer acção possessória ou de reivindicação que tenha por objecto bens hipotecados à Caixa.
 
-###### Art. 32.º A Caixa poderá exigir o pagamento imediato da quantia mutuada logo que o mutuário deixe de aplicá-la ao fim para que foi concedida ou logo que o mesmo falte ao cumprimento das obrigações constantes do contrato ou das enumeradas no artigo anterior.
+Art. 32.º A Caixa poderá exigir o pagamento imediato da quantia mutuada logo que o mutuário deixe de aplicá-la ao fim para que foi concedida ou logo que o mesmo falte ao cumprimento das obrigações constantes do contrato ou das enumeradas no artigo anterior.
 
-###### Art. 33.º - 1. Sem prejuízo do disposto no artigo anterior, as prestações que não foram pagas no vencimento, as despesas de cobrança e execução judicial do crédito e quaisquer outras que resultem necessária e imediatamente dos contratos vencerão, a favor da Caixa, juros à taxa anual fixada no regulamento.
+Art. 33.º - 1. Sem prejuízo do disposto no artigo anterior, as prestações que não foram pagas no vencimento, as despesas de cobrança e execução judicial do crédito e quaisquer outras que resultem necessária e imediatamente dos contratos vencerão, a favor da Caixa, juros à taxa anual fixada no regulamento.
 
 2. As despesas de registo predial e outras que precederem a assinatura dos contratos, quando efectuadas pela Caixa, ser-lhe-ão imediatamente reembolsadas pelos beneficiários das operações ou descontadas nas importâncias dos respectivos empréstimos.
 
-###### Art. 34.º - 1. A Caixa gozará de privilégio creditório relativamente a todas as operações activas de crédito que realizar.
+Art. 34.º - 1. A Caixa gozará de privilégio creditório relativamente a todas as operações activas de crédito que realizar.
 
 2. À cobrança das quantias mutuadas pela Caixa, respectivos juros e demais encargos serão aplicáveis as disposições do Código das Execuções Fiscais.
 
 3. As certidões das dívidas, extraídas dos livros de escrita da Caixa, servirão de base à execução e serão remetidas ao juízo fiscal competente acompanhadas de certidão do contrato a que respeitam.
 
-###### Art. 35.º - 1. Sempre que a execução das quantias em dívida possa conduzir à insolvência dos mutuários, a Caixa poderá optar pela administração directa com possibilidades de arrendamento da exploração, até se reembolsar daquelas quantias.
+Art. 35.º - 1. Sempre que a execução das quantias em dívida possa conduzir à insolvência dos mutuários, a Caixa poderá optar pela administração directa com possibilidades de arrendamento da exploração, até se reembolsar daquelas quantias.
 
 2. Serão imputadas à exploração as despesas inerentes à respectiva gerência.
 
 3. O devedor poderá fiscalizar a administração da exploração, directamente ou através de um seu representante legal, e recorrer para o conselho geral da Caixa dos actos do gerente que esta nomear ou do arrendatário.
 
-###### Art. 36.º - 1. O devedor poderá antecipar a amortização do empréstimo, no todo ou em parte, desde que previna a Caixa com, pelo menos, 30 dias de antecedência sobre a data em que usará dessa faculdade.
+Art. 36.º - 1. O devedor poderá antecipar a amortização do empréstimo, no todo ou em parte, desde que previna a Caixa com, pelo menos, 30 dias de antecedência sobre a data em que usará dessa faculdade.
 
 2. No caso de empréstimos sujeitos a reembolso escalonado, as antecipações de pagamento só poderão efectuar-se em datas que coincidam com o vencimento de qualquer das prestações contratuais.
 
-###### Art. 37.º Todos os actos ou contratos relativos a crédito agro-pecuário em que a Caixa intervenha, como requerente ou outorgante, são isentos de quaisquer imposições legais, nomeadamente emolumentos, selos, contribuições, taxas ou impostos, seja qual for a sua natureza.
+Art. 37.º Todos os actos ou contratos relativos a crédito agro-pecuário em que a Caixa intervenha, como requerente ou outorgante, são isentos de quaisquer imposições legais, nomeadamente emolumentos, selos, contribuições, taxas ou impostos, seja qual for a sua natureza.
 
 #### SECÇÃO II — Do crédito a curto prazo
 
-###### Art. 38.º Os empréstimos a curto prazo destinar-se-ão, exclusivamente, a suportar encargos com as explorações agro-pecuárias que, em princípio, sejam recuperáveis dentro do período por que os mesmos empréstimos foram concedidos, incluindo designadamente:
+Art. 38.º Os empréstimos a curto prazo destinar-se-ão, exclusivamente, a suportar encargos com as explorações agro-pecuárias que, em princípio, sejam recuperáveis dentro do período por que os mesmos empréstimos foram concedidos, incluindo designadamente:
 
 a) A compra de sementes, plantas, fertilizantes, correctivos, vermicidas, insecticidas, fungicidas, herbicidas e outros produtos fitofarmacêuticos, gado e animais de capoeira, vacinas, soros, alérgenos e outros meios de diagnóstico, substâncias medicamentosas destinadas ao tratamento de animais domésticos, forragens, rações e suplementos;
 
@@ -418,7 +426,7 @@ c) Os gastos com materias-primas, materiais de acondicionamento, luz, força mot
 
 d) Os pagamentos de ordenados, salários, alimentação a pessoal, rendas, alugueres, foros, contribuições e outros encargos permanentes da exploração agrícola.
 
-###### Art. 39.º - 1. Os empréstimos a curto prazo serão concedidos por períodos até doze meses, de preferência sob a forma de conta corrente, e deverão ser integralmente liquidados na data do respectivo vencimento.
+Art. 39.º - 1. Os empréstimos a curto prazo serão concedidos por períodos até doze meses, de preferência sob a forma de conta corrente, e deverão ser integralmente liquidados na data do respectivo vencimento.
 
 2. Em circunstâncias excepcionais, devidamente reconhecidas pelo conselho de administração da Caixa, poderá o prazo inicial do empréstimo ser prorrogado por uma só vez e por um período não superior a seis meses:
 
@@ -426,13 +434,13 @@ d) Os pagamentos de ordenados, salários, alimentação a pessoal, rendas, alugu
 
 4. O crédito a curto prazo pode ainda efectuar-se segundo outras modalidades adequadas ao fim em vista, mas essas operações ficam sujeitas a aprovação, caso por caso, do conselho geral da Caixa.
 
-###### Art. 40.º - 1. Os empréstimos a curto prazo obedecerão a um processamento simples e pouco moroso, de forma que não seja prejudicada a oportunidade das operações.
+Art. 40.º - 1. Os empréstimos a curto prazo obedecerão a um processamento simples e pouco moroso, de forma que não seja prejudicada a oportunidade das operações.
 
 2. Estes empréstimos deverão, sempre que possível, ser encaminhados através das associações agrícolas, em condições a regulamentar.
 
 #### SECÇÃO III — Do crédito a médio prazo
 
-###### Art. 41.º Os empréstimos a médio prazo destinar-se-ão às seguintes aplicações:
+Art. 41.º Os empréstimos a médio prazo destinar-se-ão às seguintes aplicações:
 
 a) Preparação ou adaptação de terrenos para culturas, pastagens ou arborização, incluindo neste caso a aquisição de plantas;
 
@@ -456,13 +464,13 @@ j) Outros financiamentos de tipo semelhante, relacionados directamente com o fom
 
 k) Remição de hipotecas, bem como de débitos contraídos em inadequadas condições de prazo ou juro, quando as importâncias assim obtidas tiverem sido comprovadamente aplicadas em qualquer dos fins referidos nas alíneas anteriores.
 
-###### Art. 42.º - 1. Os empréstimos a médio prazo serão concedidos por períodos compreendidos entre um e cinco anos.
+Art. 42.º - 1. Os empréstimos a médio prazo serão concedidos por períodos compreendidos entre um e cinco anos.
 
 2. Estes empréstimos poderão ser utilizados em regime de conta corrente, mas apenas por um período não superior a dezoito meses, contados a partir da data do contrato.
 
 #### SECÇÃO IV — Do crédito a longo prazo
 
-###### Art. 43.º Os empréstimos a longo prazo destinar-se-ão às seguintes aplicações:
+Art. 43.º Os empréstimos a longo prazo destinar-se-ão às seguintes aplicações:
 
 a) Aquisição de terras destinadas à exploração agrícola, florestal ou pecuária, desde que dela possa resultar melhoria ou intensificação da exploração de um conjunto agrário, em especial quando permita o parcelamento ou emparcelamento, em regiões onde a propriedade se encontre excessivamente concentrada ou dividida;
 
@@ -482,13 +490,13 @@ h) Outros financiamentos de tipo semelhante, relacionados directamente com o fom
 
 i) Remição de hipotecas de grande valor que onerem propriedades rústicas, bem como de débitos contraídos em inadequadas condições de prazo e juro, quando as importâncias assim obtidas tiverem sido comprovadamente aplicadas em qualquer dos fins referidos nas alíneas anteriores.
 
-###### Art. 44.º - 1. Os empréstimos a longo prazo serão concedidos por períodos compreendidos entre cinco e vinte anos.
+Art. 44.º - 1. Os empréstimos a longo prazo serão concedidos por períodos compreendidos entre cinco e vinte anos.
 
 2.º Estes empréstimos poderão ser utilizados em regime de conta corrente, mas apenas por um período não superior a cinco anos, contados a partir da data do contrato.
 
 #### SECÇÃO V — Das garantias dos empréstimos
 
-###### Art. 45.º Sem prejuízo do prévio e adequado estudo técnico-económico dos empreendimentos a financiar e da activa fiscalização a exercer pela Caixa nos termos dos artigos 30.º e 31.º do presente diploma, as operações de crédito terão, em princípio, as garantias seguintes:
+Art. 45.º Sem prejuízo do prévio e adequado estudo técnico-económico dos empreendimentos a financiar e da activa fiscalização a exercer pela Caixa nos termos dos artigos 30.º e 31.º do presente diploma, as operações de crédito terão, em princípio, as garantias seguintes:
 
 a) Hipoteca;
 
@@ -500,29 +508,29 @@ d) Fiança;
 
 e) Aval.
 
-###### Art. 46.º Quando se trate de empreendimentos de grande interesse para o desenvolvimento económico da província e cuja rentabilidade seja comprovada por estudo técnico-económico devidamente fundamentado, poderá o conselho geral da Caixa decidir aceitar, por maioria de dois terços, operações de crédito até 500 contos, com garantias diferentes das enunciadas no artigo anterior, e até dispensar a concretização de uma garantia formal, respondendo pelo compromisso assumido a competência técnica e a idoneidade moral dos contratantes.
+Art. 46.º Quando se trate de empreendimentos de grande interesse para o desenvolvimento económico da província e cuja rentabilidade seja comprovada por estudo técnico-económico devidamente fundamentado, poderá o conselho geral da Caixa decidir aceitar, por maioria de dois terços, operações de crédito até 500 contos, com garantias diferentes das enunciadas no artigo anterior, e até dispensar a concretização de uma garantia formal, respondendo pelo compromisso assumido a competência técnica e a idoneidade moral dos contratantes.
 
 #### SECÇÃO VI — Da prestação de fianças pela Caixa
 
-###### Art. 47.º - 1. A Caixa poderá prestar fianças, por períodos compreendidos no médio ou no longo prazo, destinadas a garantir o cumprimento de obrigações assumidas para a obtenção de crédito de outras entidades, quando as obrigações caucionadas respeitem a aplicações de natureza das enunciadas nos artigos 41.º e 43.º do presente diploma.
+Art. 47.º - 1. A Caixa poderá prestar fianças, por períodos compreendidos no médio ou no longo prazo, destinadas a garantir o cumprimento de obrigações assumidas para a obtenção de crédito de outras entidades, quando as obrigações caucionadas respeitem a aplicações de natureza das enunciadas nos artigos 41.º e 43.º do presente diploma.
 
 2. O prazo das operações de garantia conta-se a partir da data de celebração do respectivo contrato entre a Caixa e a entidade beneficiária, seja qual for a data em que se constitua a obrigação garantida.
 
-###### Art. 48.º Do regulamento da Caixa constará a indicação das cauções que deverão ser exigidas para a prestação de garantias, bem como das condições em que as mesmas poderão ser dispensadas.
+Art. 48.º Do regulamento da Caixa constará a indicação das cauções que deverão ser exigidas para a prestação de garantias, bem como das condições em que as mesmas poderão ser dispensadas.
 
 ### CAPÍTULO V — Disposições transitórias e finais
 
-###### Art. 49.º Nos termos do artigo 11.º do [Decreto n.º 34633](https://diariodarepublica.pt/dr/detalhe/decreto/34633-1945-529177), de 28 de Maio de 1945, o Fundo de Crédito Rural é integrado na Caixa de Crédito Agrícola.
+Art. 49.º Nos termos do artigo 11.º do [Decreto n.º 34633](https://diariodarepublica.pt/dr/detalhe/decreto/34633-1945-529177), de 28 de Maio de 1945, o Fundo de Crédito Rural é integrado na Caixa de Crédito Agrícola.
 
-###### Art. 50.º A situação do pessoal ao serviço do Fundo de Crédito Rural será devidamente considerada no regulamento da Caixa, com salvaguarda dos respectivos direitos, através da sua incorporação nesta ou em quaisquer serviços públicos, conforme for julgado mais conveniente.
+Art. 50.º A situação do pessoal ao serviço do Fundo de Crédito Rural será devidamente considerada no regulamento da Caixa, com salvaguarda dos respectivos direitos, através da sua incorporação nesta ou em quaisquer serviços públicos, conforme for julgado mais conveniente.
 
-###### Art. 51.º A Caixa continuará a funcionar nos termos da legislação em vigor à data da publicação do presente diploma até que, em conformidade com este, seja publicado o regulamento da Caixa e constituídos os seus corpos gerentes.
+Art. 51.º A Caixa continuará a funcionar nos termos da legislação em vigor à data da publicação do presente diploma até que, em conformidade com este, seja publicado o regulamento da Caixa e constituídos os seus corpos gerentes.
 
-###### Art. 52.º O regulamento da Caixa será submetido pelo conselho geral à aprovação do governador-geral e publicado como diploma legislativo, no Boletim Oficial da província, vigorando este mesmo regime em relação às suas eventuais alterações.
+Art. 52.º O regulamento da Caixa será submetido pelo conselho geral à aprovação do governador-geral e publicado como diploma legislativo, no Boletim Oficial da província, vigorando este mesmo regime em relação às suas eventuais alterações.
 
-###### Art. 53.º Compete à Caixa realizar as operações de crédito referidas no artigo 240.º do Regulamento da Ocupação e Concessão de Terrenos nas províncias ultramarinas, nas condições previstas pela mesma disposição.
+Art. 53.º Compete à Caixa realizar as operações de crédito referidas no artigo 240.º do Regulamento da Ocupação e Concessão de Terrenos nas províncias ultramarinas, nas condições previstas pela mesma disposição.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

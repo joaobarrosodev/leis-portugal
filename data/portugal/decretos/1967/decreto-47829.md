@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47829-1967-313602
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5b6d71cf890d68489dfc9ffe546dc010f9556049b5d5e2431e0e17e9fa92d2f1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bda3f0eb8c27f6d4f01a65bc078e2036b3722469943aced5e6e77b7523afa0cd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:45Z'
   warnings: []
   errors: []
 ---
@@ -88,13 +96,13 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com a Estação Radionaval de S. Vicente que constituem a sua zona de segurança, assim definidas:
+Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com a Estação Radionaval de S. Vicente que constituem a sua zona de segurança, assim definidas:
 
 a) Área correspondente ao círculo de 1500 m de raio, com centro no edifício de recepção da central receptora;
 
 b) Área correspondente ao círculo de 1000 m de raio, com centro no edifício de emissão da central emissora.
 
-###### Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), nas áreas sujeitas a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
+Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), nas áreas sujeitas a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -112,11 +120,11 @@ g) Outros trabalhos e actividades que possam inequìvocamente prejudicar a segur
 
 § único. Poderá ser ordenada a cessação do funcionamento de qualquer equipamento eléctrico, existente nas zonas de segurança referidas no artigo anterior, que interfira no funcionamento da estação.
 
-###### Art. 3.º Compete ao Ministério da Marinha, pelo Comando da Defesa Marítima de Cabo Verde, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o presente decreto, competindo à direcção da Estação Radionaval de S. Vicente a fiscalização do cumprimento das disposições legais e dos condicionamentos impostos nas licenças concedidas, bem como ordenar a demolição das obras e aplicar multas pelas infracções verificadas nos casos e nas condições previstas na legislação em vigor.
+Art. 3.º Compete ao Ministério da Marinha, pelo Comando da Defesa Marítima de Cabo Verde, ouvido o Estado-Maior da Armada, a concessão das licenças a que se refere o presente decreto, competindo à direcção da Estação Radionaval de S. Vicente a fiscalização do cumprimento das disposições legais e dos condicionamentos impostos nas licenças concedidas, bem como ordenar a demolição das obras e aplicar multas pelas infracções verificadas nos casos e nas condições previstas na legislação em vigor.
 
 § único. Das decisões tomadas ao abrigo deste artigo, quanto à concessão das licenças e à determinação das demolições, poderão os interessados recorrer, respectivamente, para o Ministro da Marinha e para o comandante da Defesa Marítima de Cabo Verde.
 
-###### Art. 4.º Dos requerimentos das licenças a que se refere o artigo anterior deverão constar:
+Art. 4.º Dos requerimentos das licenças a que se refere o artigo anterior deverão constar:
 
 a) A descrição precisa e clara dos trabalhos ou actividades cuja execução se pretende, com a pormenorização necessária à sua conveniente caracterização;
 
@@ -132,7 +140,7 @@ c) Planta e alçado do contorno da construção projectada, em triplicado, em es
 
 § 2.º Quando se trate de reconstrução, modificação ou ampliação de obra já existente, o requerimento deverá ser acompanhado dos documentos referidos nas alíneas b) e c) do parágrafo anterior.
 
-###### Art. 5.º As áreas indicadas no artigo 1.º serão demarcadas na carta da ilha de S. Vicente, da Comissão de Cartografia, na escala 1:75000, sendo destinados exemplares às seguintes entidades:
+Art. 5.º As áreas indicadas no artigo 1.º serão demarcadas na carta da ilha de S. Vicente, da Comissão de Cartografia, na escala 1:75000, sendo destinados exemplares às seguintes entidades:
 
 Secretariado-Geral da Defesa Nacional;
 
@@ -144,7 +152,7 @@ Governo de Cabo Verde;
 
 Comando da Defesa Marítima de Cabo Verde.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - Joaquim - Moreira da Silva Cunha.
 

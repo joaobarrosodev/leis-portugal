@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46426-1965-292132
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2e6fade553e7d54a4105a05e8811095c44b7dc733c3899e61104f80039d60826
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 496ecbb41a74210f80e9da1b6285e39470b29056685d448fcad674011c86de66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:202211:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636733:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:51Z'
   warnings: []
   errors: []
 ---
@@ -101,26 +109,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aplicáveis à Mútua dos Armadores da Pesca de Arrasto as disposições do artigo 23.º do [Decreto n.º 29755](https://diariodarepublica.pt/dr/detalhe/decreto/29755-1939-202211), de 17 de Julho de 1939, com a redacção do [Decreto n.º 36627](https://diariodarepublica.pt/dr/detalhe/decreto/36627-1947-636733), de 26 de Novembro de 1947, e do artigo 33.º daquele diploma.
+Artigo 1.º São aplicáveis à Mútua dos Armadores da Pesca de Arrasto as disposições do artigo 23.º do [Decreto n.º 29755](https://diariodarepublica.pt/dr/detalhe/decreto/29755-1939-202211), de 17 de Julho de 1939, com a redacção do [Decreto n.º 36627](https://diariodarepublica.pt/dr/detalhe/decreto/36627-1947-636733), de 26 de Novembro de 1947, e do artigo 33.º daquele diploma.
 
-###### Art. 2.º O Grémio dos Armadores da Pesca de Arrasto tem direito de opção, nos termos da legislação geral, quando uma sociedade armadora da pesca de arrasto, financiada pelo Fundo de Renovação e de Apetrechamento da Indústria da Pesca, realize qualquer operação sobre acções próprias ou de qualquer empresa interessada na actividade da pesca.
+Art. 2.º O Grémio dos Armadores da Pesca de Arrasto tem direito de opção, nos termos da legislação geral, quando uma sociedade armadora da pesca de arrasto, financiada pelo Fundo de Renovação e de Apetrechamento da Indústria da Pesca, realize qualquer operação sobre acções próprias ou de qualquer empresa interessada na actividade da pesca.
 
 § 1.º Quando se trate de aumento de capital, esta opção só pode efectuar-se depois de os accionistas, querendo, terem exercido igual direito na proporção das acções que possuírem.
 
 § 2.º As deliberações da direcção do Grémio relativamente ao exercício do direito de preferência consagrado no corpo deste artigo necessitam, para se tornarem executórias, de confirmação do Ministro da Marinha.
 
-###### Art. 3.º Os artigos 11.º, 13.º e 14.º do [Decreto n.º 29755](https://diariodarepublica.pt/dr/detalhe/decreto/29755-1939-202211), de 17 de Julho de 1939, passam a ter a seguinte redacção:
+Art. 3.º Os artigos 11.º, 13.º e 14.º do [Decreto n.º 29755](https://diariodarepublica.pt/dr/detalhe/decreto/29755-1939-202211), de 17 de Julho de 1939, passam a ter a seguinte redacção:
 
-###### Art. 11.º A direcção do Grémio é composta de um presidente, um vice-presidente, dois vogais efectivos e dois vogais substitutos, todos reelegíveis e eleitos por triénios em reunião do conselho geral, podendo os substitutos, em caso de impedimento, mesmo temporário, daqueles, passar à efectividade sempre que a mesma direcção assim o delibere.
+Art. 11.º A direcção do Grémio é composta de um presidente, um vice-presidente, dois vogais efectivos e dois vogais substitutos, todos reelegíveis e eleitos por triénios em reunião do conselho geral, podendo os substitutos, em caso de impedimento, mesmo temporário, daqueles, passar à efectividade sempre que a mesma direcção assim o delibere.
 
 § único. Um dos membros efectivos da direcção e um dos substitutos deverão representar os agremiados proprietários das embarcações com menos de 200 t de arqueação bruta.
 
 ...
 
-###### Art. 13.º O presidente da direcção e o vice-presidente, quando o substitua, terão voto de qualidade.
+Art. 13.º O presidente da direcção e o vice-presidente, quando o substitua, terão voto de qualidade.
 
-###### Art. 14.º Para obrigar o Grémio é necessária a assinatura de dois membros da sua direcção.
+Art. 14.º Para obrigar o Grémio é necessária a assinatura de dois membros da sua direcção.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

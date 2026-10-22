@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46730-1965-507845
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:48:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 03e6eeb84ac74c37c05c3c5ed906fe78bc3d7654a0084f89b862bc9d00cfd283
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0f1c42056f73659bc222840cc10a66c83335169450e471770f0cc756750eadc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:48:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:577969:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:48:39Z'
   warnings: []
   errors: []
 ---
@@ -101,7 +105,7 @@ Considerando que no ano de 1964 foram despendidos os 2400000$00 escalonados para
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O escalonamento de despesas fixado pelo [Decreto n.º 45799](https://diariodarepublica.pt/dr/detalhe/decreto/45799-1964-577969) para os anos de 1965 e 1966 com a empreitada de construção da esplanada marginal Estoril-Cascais (troço entre as praias do Monte Estoril e da Conceição) e esporão de assoreamento é alterado para o seguinte:
+Artigo único. O escalonamento de despesas fixado pelo [Decreto n.º 45799](https://diariodarepublica.pt/dr/detalhe/decreto/45799-1964-577969) para os anos de 1965 e 1966 com a empreitada de construção da esplanada marginal Estoril-Cascais (troço entre as praias do Monte Estoril e da Conceição) e esporão de assoreamento é alterado para o seguinte:
 
 Em 1965 ... 1000000$00
 
@@ -111,6 +115,6 @@ Em 1966 ... 4000000$00
 
 § 2.º À importância a despender em 1966 acresce o saldo do ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.

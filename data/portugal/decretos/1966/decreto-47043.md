@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47043-1966-471550
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aacd59b9cd5725b517a39b16a9ade864c89f7b4d9ad4205d0f621f3ebb9fed4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3baf2bbcefb923225a75eb249393f4b2d0b1a15c676b7946952e585a51f4d90f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:638760:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:07Z'
   warnings: []
   errors: []
 ---
@@ -106,9 +110,9 @@ Ouvidos o Conselho Ultramarino e os Governos-Gerais de Angola e Moçambique;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento para a Fiscalização, Polícia e Exploração dos Caminhos de Ferro do Ultramar, que segue anexo a este decreto e dele faz parte integrante.
+Artigo único. É aprovado o Regulamento para a Fiscalização, Polícia e Exploração dos Caminhos de Ferro do Ultramar, que segue anexo a este decreto e dele faz parte integrante.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -118,65 +122,65 @@ REGULAMENTO PARA A FISCALIZAÇÃO, POLÍCIA E EXPLORAÇÃO DOS CAMINHOS DE FERRO
 
 ### CAPÍTULO I — Disposições fundamentais
 
-###### Artigo 1.º - 1. Os caminhos de ferro, compreendidos os aéreos, fazem parte da viação pública e são domínio público, do Estado, das autarquias locais ou de serviços públicos personalizados, qualquer que seja o tipo de tracção empregado na sua exploração.
+Artigo 1.º - 1. Os caminhos de ferro, compreendidos os aéreos, fazem parte da viação pública e são domínio público, do Estado, das autarquias locais ou de serviços públicos personalizados, qualquer que seja o tipo de tracção empregado na sua exploração.
 
 2. Não são, porém, do domínio público os caminhos de ferro de interesse restrito ou particular, designadamente os destinados ao serviço exclusivo de determinadas povoações (viação urbana) ou ao serviço de minas ou estabelecimentos agrícolas, comerciais ou industriais (viação privada).
 
 3. No presente regulamento, os serviços públicos ou as empresas privadas que explorem os caminhos de ferro definidos no n.º 1 serão designados por «empresa».
 
-###### Art. 2.º - 1. Com excepção do mobiliário, todo o estabelecimento industrial de qualquer empresa aplicado ao funcionamento do serviço (material fixo, material circulante tal como se encontra definido no n.º 5 do artigo 73.º, edifícios e outras dependências ou imóveis e utensílios necessários ao serviço) está sujeito ao regime do domínio público, com as modificações especiais estabelecidas na lei ou no respectivo contrato de concessão.
+Art. 2.º - 1. Com excepção do mobiliário, todo o estabelecimento industrial de qualquer empresa aplicado ao funcionamento do serviço (material fixo, material circulante tal como se encontra definido no n.º 5 do artigo 73.º, edifícios e outras dependências ou imóveis e utensílios necessários ao serviço) está sujeito ao regime do domínio público, com as modificações especiais estabelecidas na lei ou no respectivo contrato de concessão.
 
 2. Qualquer parte ou porção do domínio público definido no número anterior entrará no comércio privado mediante a simples desafectação material, originada em acto do Governo da província.
 
 3. Qualquer parte ou porção do domínio público poderá igualmente ser transferida de um para outro dos entes públicos referidos no artigo 1.º
 
-###### Art. 3.º Os bens de que uma empresa for proprietária e que, por sua natureza, não são aplicalos ao funcionamento do serviço, bem como os combustíveis e outros provimentos, estão sujeitos ao regime do comércio privado.
+Art. 3.º Os bens de que uma empresa for proprietária e que, por sua natureza, não são aplicalos ao funcionamento do serviço, bem como os combustíveis e outros provimentos, estão sujeitos ao regime do comércio privado.
 
-###### Art. 4.º - 1. Não podem ser objecto de arresto, penhora, arrolamento, sequestro, depósito ou qualquer outra providência cautelar os bens sujeitos ao regime do domínio público, nos termos do artigo 1.º e do n.º 1 do artigo 2.º
+Art. 4.º - 1. Não podem ser objecto de arresto, penhora, arrolamento, sequestro, depósito ou qualquer outra providência cautelar os bens sujeitos ao regime do domínio público, nos termos do artigo 1.º e do n.º 1 do artigo 2.º
 
 2. Não podem ser embargados os trabalhos, obras ou serviços para conservação, reparação ou ampliação do estabelecimento industrial de uma empresa, desde que sejam executados em terrenos do domínio público ou da empresa ou em terrenos expropriados ou cedidos para esse fim.
 
 3. Também não podem ser embargados os trabalhos indispensáveis e urgentes para restabelecer a circulação dos comboios, para consolidar obras de arte ou para segurança da via.
 
-###### Art. 5.º Cumpre às empresas tomar providências tendentes a evitar que os trabalhos a efectuar ponham em risco a segurança das pessoas ou causem prejuízo aos prédios confinantes, quando tais providências não devam caber aos proprietários destes ou a terceiros.
+Art. 5.º Cumpre às empresas tomar providências tendentes a evitar que os trabalhos a efectuar ponham em risco a segurança das pessoas ou causem prejuízo aos prédios confinantes, quando tais providências não devam caber aos proprietários destes ou a terceiros.
 
-###### Art. 6.º Sem prejuízo do disposto no alínea a) do artigo imediato, é lícito a uma empresa:
+Art. 6.º Sem prejuízo do disposto no alínea a) do artigo imediato, é lícito a uma empresa:
 
 a) Utilizar, sem encargo algum, os terrenos do Estado que devam ser ocupados pelas linhas, edifícios e outras dependências necessários para o serviço do caminho de ferro e as árvores existentes nesses terrenos;
 
 b) Desviar cursos de água e alterar a direcção dos caminhos, uma vez que a construção, ampliação, duplicação das vias ou, em geral, qualquer modificação das linhas férreas assim o exijam.
 
-###### Art. 7.º Carecem de aprovação do Governo da província:
+Art. 7.º Carecem de aprovação do Governo da província:
 
 a) As obras de importância superior a 1000 contos que não façam parte de planos já aprovados e não sejam de simples conservação ou renovação das linhas férreas e suas dependências;
 
 b) O emprego pelas concessionárias de novos tipos de material fixo ou circulante, a alteração da respectiva classificação ou os abates ao serviço.
 
-###### Art. 8.º As empresas são obrigadas a fornecer ao Governo, no mais curto prazo possível, todos os esclarecimentos e informações que ele requisitar.
+Art. 8.º As empresas são obrigadas a fornecer ao Governo, no mais curto prazo possível, todos os esclarecimentos e informações que ele requisitar.
 
-###### Art. 9.º - 1. As empresas são obrigadas a possuir as locomotivas, tractores, automotoras, carruagens, vagões, máquinas e utensílios, aparelhos de via, reservatórios e gruas hidráulicas, guindastes, aparelhos de sinalização e de telecomunicação e, em geral, todo o material fixo e circulante que for necessário para assegurar a regularidade e eficiência da exploração.
+Art. 9.º - 1. As empresas são obrigadas a possuir as locomotivas, tractores, automotoras, carruagens, vagões, máquinas e utensílios, aparelhos de via, reservatórios e gruas hidráulicas, guindastes, aparelhos de sinalização e de telecomunicação e, em geral, todo o material fixo e circulante que for necessário para assegurar a regularidade e eficiência da exploração.
 
 2. As empresas adoptarão, quer no material circulante, quer nas instalações fixas, os dispositivos de segurança que a técnica ferroviária aconselhar e providenciarão no sentido de as carruagens terem as necessárias condições de comodidade.
 
-###### Art. 10.º Devem as empresas conservar as linhas e suas dependências, com todo o seu material fixo, circulante e acessório, em bom estado de serviço, para o que lhes cumpre fazer as reparações necessárias.
+Art. 10.º Devem as empresas conservar as linhas e suas dependências, com todo o seu material fixo, circulante e acessório, em bom estado de serviço, para o que lhes cumpre fazer as reparações necessárias.
 
-###### Art. 11.º Se uma empresa não cumprir o que se dispõe nos dois artigos anteriores, deverá o Governo da província notificá-la para que o faça dentro de certo prazo.
+Art. 11.º Se uma empresa não cumprir o que se dispõe nos dois artigos anteriores, deverá o Governo da província notificá-la para que o faça dentro de certo prazo.
 
 Não o fazendo ela, poderá o Governo da província substituir-se-lhe para o efeito, ficando com o direito de arrecadar todas as receitas da empresa até completar a importância das despesas feitas, salvo se a empresa provar que lhe é impossível conseguir os meios financeiros para cumprir as referidas obrigações.
 
-###### Art. 12.º - 1. Qualquer empresa poderá, mediante proposta fundamentada e aprovada pelo Governo da província, estabelecer regimes especiais de exploração económica das linhas secundárias cujo rendimento não compense as despesas de exploração normal.
+Art. 12.º - 1. Qualquer empresa poderá, mediante proposta fundamentada e aprovada pelo Governo da província, estabelecer regimes especiais de exploração económica das linhas secundárias cujo rendimento não compense as despesas de exploração normal.
 
 Se mesmo nesses regimes a exploração continuar a ser deficitária, poderá o Governo da província autorizar a cessação dela, temporária ou definitiva, total ou parcial, desde que seja estabelecido pela empresa ou por esta contratado com outra, um serviço de transportes por estrada que substitua o da linha férrea, sem deixar de dar satisfação às necessidades públicas e às exigências do desenvolvimento da região servida.
 
 2. No caso de cessação, a empresa continua obrigada a conservar em bom estado as vias, edifícios, aparelhos de sinalização e de telecomunicação e todas as outras instalações e aparelhos necessários para a exploração das linhas, salvo se o Governo da província autorizou o levantamento destas.
 
-###### Art. 13.º As empresas são obrigadas a fazer todos os transportes que lhes forem requisitados pelo Estado, pelas autarquias locais ou pelos particulares, nos termos dos respectivos regulamentos, contratos, condições de transporte e convenções, aprovados pelo Governo da província.
+Art. 13.º As empresas são obrigadas a fazer todos os transportes que lhes forem requisitados pelo Estado, pelas autarquias locais ou pelos particulares, nos termos dos respectivos regulamentos, contratos, condições de transporte e convenções, aprovados pelo Governo da província.
 
-###### Art. 14.º - 1. Nos diplomas legais que estabelecerem as tarifas ou nos que as modificarem se determinará quando pode a empresa fazer contratos de transporte especiais, com preços e condições diversos dos estabelecidos naqueles diplomas e se, independentemente de qualquer acordo, pode estabelecer preços especiais para o transporte de mercadorias e passageiros, funcionando as tarifas aprovadas só como limite máximo.
+Art. 14.º - 1. Nos diplomas legais que estabelecerem as tarifas ou nos que as modificarem se determinará quando pode a empresa fazer contratos de transporte especiais, com preços e condições diversos dos estabelecidos naqueles diplomas e se, independentemente de qualquer acordo, pode estabelecer preços especiais para o transporte de mercadorias e passageiros, funcionando as tarifas aprovadas só como limite máximo.
 
 2. As facilidades ou reduções concedidas pela empresa não poderão envolver qualquer privilégio de ordem pessoal.
 
-###### Art. 15.º As empresas são obrigadas:
+Art. 15.º As empresas são obrigadas:
 
 1.º A pôr à disposição do Governo da província, pelos preços tarifários ou acordados especialmente, todos os seus meios de transporte quando aquele lhos requisitar para dirigir forças armadas ou material de guerra para qualquer ponto que a rede possa servir;
 
@@ -184,39 +188,39 @@ Se mesmo nesses regimes a exploração continuar a ser deficitária, poderá o G
 
 3.º A facultar ao Governo da província para serviço oficial, e em caso de força maior, o uso dos seus meios de telecomunicação.
 
-###### Art. 16.º - 1. Em tempo de guerra ou de grande emergência a rede ou qualquer das linhas de uma concessão pode ser ocupada militarmente, nos termos das leis que regularem a mobilização do País nas suas diferentes modalidades.
+Art. 16.º - 1. Em tempo de guerra ou de grande emergência a rede ou qualquer das linhas de uma concessão pode ser ocupada militarmente, nos termos das leis que regularem a mobilização do País nas suas diferentes modalidades.
 
 2. O pessoal mobilizado, cuja graduação e equiparação militar respeitará a hierarquia estabelecida dentro do serviço ferroviário, manterá as suas remunerações normais, aumentadas da subvenção de campanha quando as linhas, ramais ou troço mobilizados estiverem na zona de operações.
 
 3. Todas as despesas com a actividade das linhas mobilizadas correrão por conta da empresa, a quem o Estado pagará os serviços que em seu exclusivo proveito forem efectuados e os encargos que resultarem do abono de subvenção de campanha.
 
-###### Art. 17.º - 1. O terreno do caminho de ferro tem de ser vedado pelas empresas sempre que a segurança pública o exija, competindo ao Governo da província apreciar essa exigência.
+Art. 17.º - 1. O terreno do caminho de ferro tem de ser vedado pelas empresas sempre que a segurança pública o exija, competindo ao Governo da província apreciar essa exigência.
 
 2. A classificação das passagens de nível e a indicação das medidas de segurança que nelas se devem adoptar para atravessamento por peões, animais ou veículos, constarão dos regulamentos internos das empresas, devidamente aprovados pelo Governo da província.
 
-###### Art. 18.º - 1. O número de comboios e sua composição, a ordem de inserção das viaturas, os horários, as velocidades de marcha e os tempos de paragem nas estações e apeadeiros serão estabelecidos pelas respectivas empresas, tendo em conta a natureza e intensidade do tráfego de cada linha ou troço da rede, as necessidades económicas das regiões por estas servidas e a existência de outros meios de transporte explorados pela empresa directamente ou por terceiros.
+Art. 18.º - 1. O número de comboios e sua composição, a ordem de inserção das viaturas, os horários, as velocidades de marcha e os tempos de paragem nas estações e apeadeiros serão estabelecidos pelas respectivas empresas, tendo em conta a natureza e intensidade do tráfego de cada linha ou troço da rede, as necessidades económicas das regiões por estas servidas e a existência de outros meios de transporte explorados pela empresa directamente ou por terceiros.
 
 2. O Governo da província poderá intervir, para defesa do interesse público, em qualquer das matérias a que se refere o número anterior.
 
 3. O Governo da província pode requisitar a qualquer empresa concessionária os serviços extraordinários que forem necessários, nas condições de transporte vigentes ou especialmente acordadas.
 
-###### Art. 19.º - 1. O Governo da província fiscalizará, por intermédio dos serviços dos portos, caminhos de ferro e transportes ou por outros oportunamente criados para o efeito, que se designam no presente regulamento por «serviços competentes», a exploração das linhas férreas e a execução das obras de transformação ou substituição e as de grande reparação, notificando a respectiva empresa concessionária dos desvios encontrados, para que sejam corrigidos.
+Art. 19.º - 1. O Governo da província fiscalizará, por intermédio dos serviços dos portos, caminhos de ferro e transportes ou por outros oportunamente criados para o efeito, que se designam no presente regulamento por «serviços competentes», a exploração das linhas férreas e a execução das obras de transformação ou substituição e as de grande reparação, notificando a respectiva empresa concessionária dos desvios encontrados, para que sejam corrigidos.
 
 2. Poderá o Governo determinar que a empresa ceda, nas estações em que isso seja possível, uma dependência destinada ao serviço de fiscalização.
 
-###### Art. 20.º - 1. Dependem da aprovação do Governo da província os regulamentos internos das empresas, incluindo horários de trabalho.
+Art. 20.º - 1. Dependem da aprovação do Governo da província os regulamentos internos das empresas, incluindo horários de trabalho.
 
 2. As empresas devem proceder à revisão dos regulamentos a que se refere o número anterior, sempre que lhes seja exigida pelo Governo ou que a julguem necessária.
 
-###### Art. 21.º Na aprovação dos regulamentos internos referidos no artigo anterior o Governo da província terá em conta a sua conformidade com a legislação geral, sempre que isso não contrarie as necessidades impostas pela especial natureza dos vários serviços das empresas.
+Art. 21.º Na aprovação dos regulamentos internos referidos no artigo anterior o Governo da província terá em conta a sua conformidade com a legislação geral, sempre que isso não contrarie as necessidades impostas pela especial natureza dos vários serviços das empresas.
 
 § único. Em todos os casos omissos nos regulamentos internos aplicar-se-á a legislação geral, nas condições da parte final do corpo do presente artigo.
 
 ### CAPÍTULO II — O caminho de ferro e o público em geral
 
-###### Art. 22.º Em todas as estações e apeadeiros deverão existir as instalações aconselháveis para a segurança e comodidade do público, consoante a importância do respectivo tráfego.
+Art. 22.º Em todas as estações e apeadeiros deverão existir as instalações aconselháveis para a segurança e comodidade do público, consoante a importância do respectivo tráfego.
 
-###### Art. 23.º - 1. Nenhuma pessoa estranha ao serviço pode transitar pelas linhas, estacionar nelas ou atravessá-las, a não ser que esteja munida de autorização de trânsito ou de licença de atravessamento. É igualmente vedado o trânsito, o estacionamento e o atravessamento de animais e de veículos.
+Art. 23.º - 1. Nenhuma pessoa estranha ao serviço pode transitar pelas linhas, estacionar nelas ou atravessá-las, a não ser que esteja munida de autorização de trânsito ou de licença de atravessamento. É igualmente vedado o trânsito, o estacionamento e o atravessamento de animais e de veículos.
 
 2. Mas é lícito o atravessamento nas passagens de nível livres, quando não haja sinal de via impedida, e nas passagens guardadas, quando as cancelas ou outras barreiras estiverem abertas ou quando tiverem postigos que estejam franqueados.
 
@@ -224,35 +228,35 @@ Se mesmo nesses regimes a exploração continuar a ser deficitária, poderá o G
 
 4. É proibido a qualquer pessoa, desde que não esteja munida do respectivo bilhete ou autorização, permanecer nas dependências das estações ou entrar para as carruagens e, bem assim, vender ou tentar vender, numas ou noutras, quaisquer artigos.
 
-###### Art. 24.º - 1. As transgressões do disposto nos n.os 1 e 4 do artigo anterior sujeitam o responsável a ser expulso do local onde for encontrado e autuado e serão punidas com a multa de 20$00 a 500$00.
+Art. 24.º - 1. As transgressões do disposto nos n.os 1 e 4 do artigo anterior sujeitam o responsável a ser expulso do local onde for encontrado e autuado e serão punidas com a multa de 20$00 a 500$00.
 
 2. Se o transgressor agravar a sua responsabilidade com injúrias, desobediências, resistência ou violência contra o agente respectivo, sofrerá, além da multa, a pena correspondente a igual crime contra os agentes da autoridade pública.
 
 3. Em todos os casos haverá responsabilidade civil pelos danos causados, de harmonia com os princípios gerais de direito.
 
-###### Art. 25.º - 1. Se alguém escalar ou arrombar as vedações ou barreiras do caminho de ferro ou abrir estas nas passagens de nível, incorrerá na multa de 500$00, além da responsabilidade civil pelos danos que causar.
+Art. 25.º - 1. Se alguém escalar ou arrombar as vedações ou barreiras do caminho de ferro ou abrir estas nas passagens de nível, incorrerá na multa de 500$00, além da responsabilidade civil pelos danos que causar.
 
 2. Se alguém usar de violência ou ameaça para forçar o guarda a abrir as barreiras, sofrerá a pena correspondente ao crime de violência ou ameaça contra os agentes da autoridade pública.
 
-###### Art. 26.º - 1. É da competência exclusiva da empresa e tem carácter precário a concessão de licenças para atravessamento das linhas, bem como para a abertura e utilização de acessos às estações e suas dependências.
+Art. 26.º - 1. É da competência exclusiva da empresa e tem carácter precário a concessão de licenças para atravessamento das linhas, bem como para a abertura e utilização de acessos às estações e suas dependências.
 
 2. Poderá ser cobrada do usuário uma taxa pela utilização da licença. São de conta do usuário as obras necessárias para a concessão da licença.
 
-###### Art. 27.º - 1. Quando o usuário atravessar a linha, fá-lo-á sob sua inteira responsabilidade.
+Art. 27.º - 1. Quando o usuário atravessar a linha, fá-lo-á sob sua inteira responsabilidade.
 
 2. A mesma doutrina se aplica às pessoas munidas de autorização de trânsito nas linhas.
 
 § único. O regime do presente artigo não se aplica aos agentes da empresa que atravessem as linhas ou nelas transitem por motivo de serviço, exceptuando os casos de incúria ou imprevidência.
 
-###### Art. 28.º Se a empresa julgar conveniente retirar a licença por assim o exigirem os interesses do caminho de ferro, o interessado será avisado de que a licença se considerará finda passados 30 dias e de que deve, dentro deste prazo, proceder às obras necessárias para supressão do acesso, sob pena de tais obras serem mandadas executar pela empresa à custa da pessoa avisada.
+Art. 28.º Se a empresa julgar conveniente retirar a licença por assim o exigirem os interesses do caminho de ferro, o interessado será avisado de que a licença se considerará finda passados 30 dias e de que deve, dentro deste prazo, proceder às obras necessárias para supressão do acesso, sob pena de tais obras serem mandadas executar pela empresa à custa da pessoa avisada.
 
-###### Art. 29.º - 1. O que fica determinado nos artigos 26.º a 28.º aplica-se também aos atravessamentos e acessos existentes à data da publicação deste regulamento.
+Art. 29.º - 1. O que fica determinado nos artigos 26.º a 28.º aplica-se também aos atravessamentos e acessos existentes à data da publicação deste regulamento.
 
 2. A supressão dos atravessamentos e acessos autorizados em consequência de expropriações para serviço dos caminhos de ferro dará direito a indemnização nos termos das leis de expropriação por utilidade pública, sem prejuízo do disposto no artigo 28.º
 
 ### CAPÍTULO III — O caminho de ferro e os proprietários confinantes
 
-###### Art. 30.º - 1. Os proprietários e possuidores de prédios confinantes com o caminho de ferro não podem nesses prédios fazer plantações, construções de qualquer tipo ou outros trabalhos sem prévia autorização do Governo da província.
+Art. 30.º - 1. Os proprietários e possuidores de prédios confinantes com o caminho de ferro não podem nesses prédios fazer plantações, construções de qualquer tipo ou outros trabalhos sem prévia autorização do Governo da província.
 
 2. Não serão permitidas plantações, construções de qualquer tipo ou outros trabalhos a menos de 5 m de uma linha definida nos seguintes termos:
 
@@ -266,9 +270,9 @@ c) Em linhas ao nível do terreno confinante, a aresta interior do carril extern
 
 4. O disposto nos n.os 1 e 2 não obstará a que o Governo da província, por intermédio dos serviços competentes, determine, em casos de interesse público, que se guarde distância diferente da indicada.
 
-###### Art. 31.º Se a faixa pertencente ao caminho de ferro não estiver delimitada, o proprietário confinante, antes de fazer plantações, construções ou outros trabalhos próximos da presumida linha divisória, deve requerer à empresa que promova a sua delimitação, sob pena de multa de 500$00 a 2000$00.
+Art. 31.º Se a faixa pertencente ao caminho de ferro não estiver delimitada, o proprietário confinante, antes de fazer plantações, construções ou outros trabalhos próximos da presumida linha divisória, deve requerer à empresa que promova a sua delimitação, sob pena de multa de 500$00 a 2000$00.
 
-###### Art. 32.º - 1. No caso de infracção do disposto nos n.os 2 e 3 do artigo 30.º, em prédios confinantes com a faixa pertencente a um caminho de ferro explorado por serviços públicos, estes serviços avisarão o infractor para que dentro de determinado prazo faça desaparecer o facto ilícito, sob pena de destruição ou demolição.
+Art. 32.º - 1. No caso de infracção do disposto nos n.os 2 e 3 do artigo 30.º, em prédios confinantes com a faixa pertencente a um caminho de ferro explorado por serviços públicos, estes serviços avisarão o infractor para que dentro de determinado prazo faça desaparecer o facto ilícito, sob pena de destruição ou demolição.
 
 2. No caso de infracção do disposto nos n.os 2 e 3 do artigo 30.º, em prédios confinantes com a faixa pertencente a um caminho de ferro explorado em regime de concessão, a empresa concessionária dará imediatamente conhecimento do facto à fiscalização. Esta fará verificar a ocorrência pelos seus agentes e, se entender que houve infracção, avisará o infractor para que dentro de determinado prazo faça desaparecer o facto ilícito, sob pena de destruição ou demolição.
 
@@ -276,7 +280,7 @@ c) Em linhas ao nível do terreno confinante, a aresta interior do carril extern
 
 4. Observar-se-á o disposto nos números anteriores quando o proprietário ou possuidor fizer quaisquer plantações, construções ou outros trabalhos fora dos limites do seu prédio e em terreno do caminho de ferro.
 
-###### Art. 33.º É proibido aos proprietários ou possuidores de prédios confinantes com o caminho de ferro:
+Art. 33.º É proibido aos proprietários ou possuidores de prédios confinantes com o caminho de ferro:
 
 1.º Fazer explorações mineiras ou subterrâneas que possam afectar a segurança da circulação dos comboios;
 
@@ -286,11 +290,11 @@ c) Em linhas ao nível do terreno confinante, a aresta interior do carril extern
 
 § único. As distâncias referidas nos n.os 2.º e 3.º serão medidas a partir da linha definida no n.º 2 do artigo 30.º
 
-###### Art. 34.º - 1. No caso de infracção do disposto nos n.os 1.º e 2.º do artigo anterior, observar-se-á o que fica prescrito nos n.os 1, 2 e 3 do artigo 32.º
+Art. 34.º - 1. No caso de infracção do disposto nos n.os 1.º e 2.º do artigo anterior, observar-se-á o que fica prescrito nos n.os 1, 2 e 3 do artigo 32.º
 
 2. Se o proprietário ou possuidor infringir o preceituado no n.º 3.º do artigo anterior, nada poderá reclamar por quaisquer prejuízos derivados de incêndio causado por faúlhas de locomotiva.
 
-###### Art. 35.º - 1. Se ao longo das linhas houver terreno do domínio público do caminho de ferro ou da propriedade privada de uma empresa, cumpre à mesma conservar aceirada durante os meses de Maio a Setembro uma faixa da largura de 5 m, medida nos termos do n.º 2 do artigo 30.º.
+Art. 35.º - 1. Se ao longo das linhas houver terreno do domínio público do caminho de ferro ou da propriedade privada de uma empresa, cumpre à mesma conservar aceirada durante os meses de Maio a Setembro uma faixa da largura de 5 m, medida nos termos do n.º 2 do artigo 30.º.
 
 2. A empresa deve obstar, pelos meios ao seu alcance, a que os fogueiros e maquinistas limpem os cinzeiros nos troços de linha confinantes com povoamentos florestais.
 
@@ -298,11 +302,11 @@ c) Em linhas ao nível do terreno confinante, a aresta interior do carril extern
 
 4. A obrigação de aceiro cessará logo que o sistema de tracção a tornar dispensável.
 
-###### Art. 36.º - 1. No caso de inobservância do n.º 1 do artigo anterior, a empresa responderá por todos os prejuízos derivados de incêndio provocado pelas faúlhas da locomotiva.
+Art. 36.º - 1. No caso de inobservância do n.º 1 do artigo anterior, a empresa responderá por todos os prejuízos derivados de incêndio provocado pelas faúlhas da locomotiva.
 
 2. Se os proprietários ou possuidores não cumprirem o que se prescreve no n.º 3 do artigo anterior, ficam inibidos de pedir indemnização pelos prejuízos a que se refere o n.º 1 deste artigo e respondem por eventuais prejuízos causados a terceiros.
 
-###### Art. 37.º - 1. Fora dos casos previstos no n.º 2 do artigo 34.º e no n.º 2 do artigo 36.º, a empresa responde pelos prejuízos resultantes do incêndio causado pelas faúlhas da locomotiva.
+Art. 37.º - 1. Fora dos casos previstos no n.º 2 do artigo 34.º e no n.º 2 do artigo 36.º, a empresa responde pelos prejuízos resultantes do incêndio causado pelas faúlhas da locomotiva.
 
 2. Mas entender-se-á que o incêndio é devido a força maior, cessando por isso a responsabilidade da empresa, se esta se viu forçada a empregar lenha por impossibilidade absoluta de obter outro combustível e pôs em prática todos os dispositivos e cautelas apropriados para evitar que as faúlhas produzissem o incêndio.
 
@@ -310,15 +314,15 @@ c) Em linhas ao nível do terreno confinante, a aresta interior do carril extern
 
 ### CAPÍTULO IV — O caminho de ferro e os passageiros
 
-###### Art. 38.º A empresa é obrigada a afixar nas estações, em tempo oportuno, o horário dos seus comboios, com todas as indicações que possam interessar aos passageiros.
+Art. 38.º A empresa é obrigada a afixar nas estações, em tempo oportuno, o horário dos seus comboios, com todas as indicações que possam interessar aos passageiros.
 
-###### Art. 39.º - 1. O passageiro deve munir-se de um bilhete que lhe assegure o direito ao transporte e imponha à empresa a obrigação correspondente.
+Art. 39.º - 1. O passageiro deve munir-se de um bilhete que lhe assegure o direito ao transporte e imponha à empresa a obrigação correspondente.
 
 2. Toda a pessoa encontrada a viajar sem bilhete ou com bilhete não válido e que se recuse ao pagamento do preço do transporte ou das suas sobretaxas será condenada em multa igual ao décuplo da importância total que for devida pela viagem que fizer.
 
 3. O procedimento criminal terá lugar independentemente de queixa, participação ou assistência da empresa e para esta reverterá a parte da multa correspondente à importância total devida pela viagem que o passageiro efectuou.
 
-###### Art. 40.º - 1. Deve ser recusada a entrada nas estações e nas carruagens:
+Art. 40.º - 1. Deve ser recusada a entrada nas estações e nas carruagens:
 
 a) Às pessoas em manifesto estado de embriaguez ou que por qualquer razão possam causar aos restantes passageiros repugnância ou incómodo;
 
@@ -330,7 +334,7 @@ c) Aos portadores de armas de fogo carregadas, salvo se se tratar de agentes da 
 
 3. A empresa estabelecerá nos seus regulamentos internos as condições de transporte dos passageiros impossibilitados de viajar em condições normais, tais como os transportados em maca, cadeirinha ou por outros meios semelhantes, tendo sempre em atenção a segurança e comodidade dos passageiros.
 
-###### Art. 41.º - 1. É proibido aos passageiros e ao público em geral:
+Art. 41.º - 1. É proibido aos passageiros e ao público em geral:
 
 1.º Entrar ou sair da carruagem por lado que não corresponda a plataforma de serviço de passageiros;
 
@@ -362,39 +366,39 @@ c) Aos portadores de armas de fogo carregadas, salvo se se tratar de agentes da 
 
 2. Estas proibições constarão de avisos afixados nos comboios ou lugares apropriados.
 
-###### Art. 42.º - 1. Quando o passageiro infringir inadvertidamente as disposições regulamentares, deve ser chamada a sua atenção com toda a urbanidade pelos agentes da empresa. Se desacatar as observações que lhe forem feitas, ou quando se verifiquem os casos dos n.os 5.º a 13.º do artigo anterior, deve o agente respectivo lavrar auto para ser enviado às autoridades competentes. Neste caso será aplicável ao transgressor a multa de 50$00 a 500$00.
+Art. 42.º - 1. Quando o passageiro infringir inadvertidamente as disposições regulamentares, deve ser chamada a sua atenção com toda a urbanidade pelos agentes da empresa. Se desacatar as observações que lhe forem feitas, ou quando se verifiquem os casos dos n.os 5.º a 13.º do artigo anterior, deve o agente respectivo lavrar auto para ser enviado às autoridades competentes. Neste caso será aplicável ao transgressor a multa de 50$00 a 500$00.
 
 2. Se a conduta do passageiro, depois de advertido ou autuado, se tornar, por qualquer motivo, intolerável, será expulso do comboio, na primeira paragem, sem direito a haver reembolso da importância correspondente à parte do percurso não efectuado.
 
-###### Art. 43.º O passageiro tem direito a fazer despachar a sua bagagem, nos termos estabelecidos nos regulamentos e condições de transporte da empresa.
+Art. 43.º O passageiro tem direito a fazer despachar a sua bagagem, nos termos estabelecidos nos regulamentos e condições de transporte da empresa.
 
-###### Art. 44.º - 1. A bagagem deve seguir, em regra, no comboio tomado pelo passageiro e será entregue na estação de destino logo que, após a chegada do comboio, decorra o tempo indispensável para ser posta à disposição do passageiro.
+Art. 44.º - 1. A bagagem deve seguir, em regra, no comboio tomado pelo passageiro e será entregue na estação de destino logo que, após a chegada do comboio, decorra o tempo indispensável para ser posta à disposição do passageiro.
 
 2. As empresas regulamentarão as condições de transporte de bagagem.
 
 ### CAPÍTULO V — O caminho de ferro e os expedidores e consignatários
 
-###### Art. 45.º - 1. A empresa é obrigada a transportar com cuidado, exactidão e celeridade as mercadorias que para esse fim lhe forem apresentadas e deve aplicar igual tratamento às expedições em igualdade de condições.
+Art. 45.º - 1. A empresa é obrigada a transportar com cuidado, exactidão e celeridade as mercadorias que para esse fim lhe forem apresentadas e deve aplicar igual tratamento às expedições em igualdade de condições.
 
 2. No presente regulamento a expressão «mercadorias» abrange, além dos animais, todos os volumes e objectos que como tais forem classificados pelas convenções internacionais aplicáveis e vigentes na província ou, na sua falta, pelas condições de transportes da empresa.
 
-###### Art. 46.º O transporte de mercadorias só pode ser recusado nos casos previstos nos regulamentos e condições de transporte das empresas ou nos casos em que a circulação das mercadorias esteja proibida.
+Art. 46.º O transporte de mercadorias só pode ser recusado nos casos previstos nos regulamentos e condições de transporte das empresas ou nos casos em que a circulação das mercadorias esteja proibida.
 
-###### Art. 47.º - 1. O expedidor deve apresentar com a mercadoria uma declaração de expedição, tendo a empresa o direito de verificar se essa declaração é inexacta.
+Art. 47.º - 1. O expedidor deve apresentar com a mercadoria uma declaração de expedição, tendo a empresa o direito de verificar se essa declaração é inexacta.
 
 2. Verificando-se o caso previsto na parte final do artigo anterior, considera-se resolvido o contrato de transporte.
 
-###### Art. 48.º As empresas estabelecerão nos seus regulamentos e condições de transporte as durações máximas dos transportes de mercadorias.
+Art. 48.º As empresas estabelecerão nos seus regulamentos e condições de transporte as durações máximas dos transportes de mercadorias.
 
-###### Art. 49.º A empresa não tem de indagar qual o título por que o consignatário recebe a mercadoria e só pode recusar a entrega se tiver dúvidas fundadas quanto à sua identidade.
+Art. 49.º A empresa não tem de indagar qual o título por que o consignatário recebe a mercadoria e só pode recusar a entrega se tiver dúvidas fundadas quanto à sua identidade.
 
-###### Art. 50.º Quando a empresa tenha estabelecido, para determinada povoação, o serviço de entrega ao domicílio, não pode escusar-se a assumir a obrigação da entrega nesse local, nos termos e condições em que o serviço se achar organizado, a menos que tenha emitido aviso ao público com o mínimo de quinze dias de antecedência.
+Art. 50.º Quando a empresa tenha estabelecido, para determinada povoação, o serviço de entrega ao domicílio, não pode escusar-se a assumir a obrigação da entrega nesse local, nos termos e condições em que o serviço se achar organizado, a menos que tenha emitido aviso ao público com o mínimo de quinze dias de antecedência.
 
 ### CAPÍTULO VI — Guarda e vigilância. Autos de notícia
 
-###### Art. 51.º A guarda e vigilância dos caminhos de ferro pertence aos agentes ajuramentados das empresas e aos agentes da autoridade pública nas esferas das respectivas atribuições legais.
+Art. 51.º A guarda e vigilância dos caminhos de ferro pertence aos agentes ajuramentados das empresas e aos agentes da autoridade pública nas esferas das respectivas atribuições legais.
 
-###### Art. 52.º - 1. Têm competência para lavrar autos de notícia os agentes das empresas ferroviárias devidamente ajuramentados.
+Art. 52.º - 1. Têm competência para lavrar autos de notícia os agentes das empresas ferroviárias devidamente ajuramentados.
 
 2. Serão sempre ajuramentados os agentes qualificados da conservação de via, das estações e dos comboios.
 
@@ -402,17 +406,17 @@ c) Aos portadores de armas de fogo carregadas, salvo se se tratar de agentes da 
 
 4. Além dos agentes referidos no n.º 2, as empresas podem fazer ajuramentar outros, sempre que as conveniências de serviço o exijam.
 
-###### Art. 53.º Os agentes ajuramentados serão, no exercício das suas funções, considerados agentes da autoridade pública. Além da formação de autos de notícia, podem, em especial, reclamar a intervenção das autoridades e o auxílio da força pública, sempre que o julguem necessário, prender em flagrante delito os delinquentes e usar armas, independentemente de licença especial, nas mesmas condições em que o podem fazer os agentes da autoridade pública.
+Art. 53.º Os agentes ajuramentados serão, no exercício das suas funções, considerados agentes da autoridade pública. Além da formação de autos de notícia, podem, em especial, reclamar a intervenção das autoridades e o auxílio da força pública, sempre que o julguem necessário, prender em flagrante delito os delinquentes e usar armas, independentemente de licença especial, nas mesmas condições em que o podem fazer os agentes da autoridade pública.
 
 § único. Sempre que as circunstâncias o justifiquem e as empresas o solicitem, poderão ser organizados corpos de polícia privativos das mesmas empresas.
 
-###### Art. 54.º É obrigatória a formação de autos de notícia:
+Art. 54.º É obrigatória a formação de autos de notícia:
 
 1.º Quando dentro da zona de jurisdição das empresas for cometido algum crime, delito ou contravenção;
 
 2.º Quando dentro da mesma zona ocorrer acidente de que resulte ou possa resultar prejuízo ou responsabilidade para a empresa, para os seus agentes ou para terceiros.
 
-###### Art. 55.º - 1. Os autos a que se refere o n.º 1.º do artigo anterior devem:
+Art. 55.º - 1. Os autos a que se refere o n.º 1.º do artigo anterior devem:
 
 a) Descrever o facto incriminado e as condições e circunstâncias em que foi praticado, com indicação precisa do dia, hora e local;
 
@@ -426,7 +430,7 @@ d) Indicar as pessoas que possam depor como testemunhas.
 
 3. Poderá lavrar-se um único auto por infracções diferentes cometidas na mesma ocasião ou entre si conexas, embora sejam diversos os responsáveis.
 
-###### Art. 56.º - 1. Os autos a que se refere o n.º 2.º do artigo 54.º devem:
+Art. 56.º - 1. Os autos a que se refere o n.º 2.º do artigo 54.º devem:
 
 a) Descrever a ocorrência com a maior exactidão e com todas as particularidades;
 
@@ -442,7 +446,7 @@ f) Indicar as pessoas que possam depor como testemunhas.
 
 2. É aplicável, com as necessárias adaptações, o disposto dos n.os 2, e 3 do artigo anterior.
 
-###### Art. 57.º - 1. Os autos do n.º 1.º do artigo 54.º têm de ser lavrados em triplicado.
+Art. 57.º - 1. Os autos do n.º 1.º do artigo 54.º têm de ser lavrados em triplicado.
 
 Um dos exemplares ficará em poder da empresa; os outros serão enviados, com a possível urgência e dentro do prazo máximo de quinze dias, aos competentes serviços públicos da província e à autoridade judicial competente da área onde foi praticada a infracção.
 
@@ -458,11 +462,11 @@ Se o acidente for grave, o auto será enviado imediatamente aos competentes serv
 
 No caso de o acidente ser consequência de facto criminoso ou de contravenção de leis ou regulamentos por parte de terceiros, entendendo-se por terceiros as pessoas que se encontrarem nas condições definidas nas leis de trabalho vigente na província, observar-se-á o disposto no n.º 1 do presente artigo.
 
-###### Art. 58.º - 1. Os autos lavrados pelos agentes ajuramentados farão fé em juízo até prova em contrário, tanto na instrução como no julgamento, quando à infracção corresponder processo de polícia correccional, processo de transgressão ou processo sumário, salvo nos casos especiais em que a lei exija outras diligências para a instrução do processo.
+Art. 58.º - 1. Os autos lavrados pelos agentes ajuramentados farão fé em juízo até prova em contrário, tanto na instrução como no julgamento, quando à infracção corresponder processo de polícia correccional, processo de transgressão ou processo sumário, salvo nos casos especiais em que a lei exija outras diligências para a instrução do processo.
 
 2. Nos outros processos penais ou nos civis os autos farão começo de prova a completar por outros meios.
 
-###### Art. 59.º - 1. Se a infracção de que se levantou auto deixou vestígios, cumpre aos agentes tomar as providências necessárias para evitar que os vestígios se apaguem ou alterem antes de examinados pela competente autoridade judicial.
+Art. 59.º - 1. Se a infracção de que se levantou auto deixou vestígios, cumpre aos agentes tomar as providências necessárias para evitar que os vestígios se apaguem ou alterem antes de examinados pela competente autoridade judicial.
 
 2. Mas se esta não proceder ou mandar proceder ao exame dentro de cinco dias, contados desde o dia seguinte àquele em que o auto foi expedido, pode a empresa remover os vestígios, fazendo, porém, verificar por agente de categoria não inferior à de subinspector, ajuramentado, todos os que possam contribuir para a reconstituição da ocorrência e para a descoberta da verdade.
 
@@ -472,13 +476,13 @@ Desta verificação se lavrará auto de remoção em triplicado, devendo um dos 
 
 4. Os donos de objectos danificados e os presumíveis responsáveis serão avisados, quando possível, para assistir, querendo, às verificações a que se referem os n.os 2 e 3.
 
-###### Art. 60.º - 1. Se em consequência do acidente referido no n.º 2.º do artigo 54.º tiverem ficado sobre a via, ou junto dela, objectos danificados pertencentes a terceiros, no auto a enviar aos serviços competentes far-se-á menção dessa circunstância e pedir-se-á que se mande proceder às diligências necessárias para se determinarem as causas, as responsabilidades e as consequências do acidente.
+Art. 60.º - 1. Se em consequência do acidente referido no n.º 2.º do artigo 54.º tiverem ficado sobre a via, ou junto dela, objectos danificados pertencentes a terceiros, no auto a enviar aos serviços competentes far-se-á menção dessa circunstância e pedir-se-á que se mande proceder às diligências necessárias para se determinarem as causas, as responsabilidades e as consequências do acidente.
 
 Dentro de cinco dias, a contar do imediato àquele em que o auto foi enviado, aqueles serviços darão satisfação ao pedido e, feito o exame, autorizarão imediatamente a entrega dos objectos. Se dentro deste prazo os referidos serviços não providenciarem, aplicar-se-á o disposto nos n.os 2 e 4 do artigo anterior, entregando-se igualmente os objectos a quem pertencerem.
 
 2. Quando se verificar o caso previsto no n.º 3 do artigo anterior, observar-se-á o que se dispõe nesse número e no n.º 4.
 
-###### Art. 61.º As despesas a que der causa a guarda e conservação dos objectos danificados ficarão de conta do infractor ou do responsável pelo acidente.
+Art. 61.º As despesas a que der causa a guarda e conservação dos objectos danificados ficarão de conta do infractor ou do responsável pelo acidente.
 
 Se não puder apurar-se quem foi o responsável, serão as despesas suportadas pelo dono dos objectos.
 
@@ -486,21 +490,21 @@ Se não puder apurar-se quem foi o responsável, serão as despesas suportadas p
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 62.º - 1. A empresa responde pelas perdas e danos que causar às pessoas e à propriedade alheia, em conformidade com o que neste regulamento se estabelece.
+Art. 62.º - 1. A empresa responde pelas perdas e danos que causar às pessoas e à propriedade alheia, em conformidade com o que neste regulamento se estabelece.
 
 2. Em tudo o que não esteja previsto neste regulamento aplicar-se-ão as normas dos diplomas legais e regulamentos especiais sobre a responsabilidade do transportador que não contrariem o disposto na lei geral em matéria de responsabilidade civil. Considera-se no entanto inaplicável aos acidentes ferroviários o regime da responsabilidade objectiva, sem prejuízo do disposto nos artigos 73.º a 75.º
 
-###### Art. 63.º Em matéria de responsabilidade criminal observar-se-á o disposto no Código Penal e nas leis complementares.
+Art. 63.º Em matéria de responsabilidade criminal observar-se-á o disposto no Código Penal e nas leis complementares.
 
 #### SECÇÃO II — Disposições especiais
 
 ##### SUBSECÇÃO I — Passageiros
 
-###### Art. 64.º - 1. Cumpre à empresa indemnizar os passageiros de todos os prejuízos que sofrerem nas suas pessoas em consequência de acidente, salvo se demonstrar que o acidente foi produzido por caso fortuito, força maior, culpa da vítima ou de terceiro.
+Art. 64.º - 1. Cumpre à empresa indemnizar os passageiros de todos os prejuízos que sofrerem nas suas pessoas em consequência de acidente, salvo se demonstrar que o acidente foi produzido por caso fortuito, força maior, culpa da vítima ou de terceiro.
 
 2. Quando se trate de danos em valores de mão ou animais que os passageiros levem consigo, só haverá lugar a indemnização na medida em que aqueles danos sejam susceptíveis de avaliação directa.
 
-###### Art. 65.º - 1. Tratando-se de bagagem despachada, cumpre também à empresa indemnizar os passageiros nas seguintes condições:
+Art. 65.º - 1. Tratando-se de bagagem despachada, cumpre também à empresa indemnizar os passageiros nas seguintes condições:
 
 a) No caso de avarias, o quantitativo da indemnização será igual à importância do dano;
 
@@ -510,9 +514,9 @@ Sobre o valor declarado da bagagem que ultrapasse 100$00 por cada quilograma, po
 
 2. O que se determina nas alíneas a) e b) do número anterior observar-se-á também nos casos de avaria e perda que não sejam consequência de acidente.
 
-###### Art. 66.º Em caso de acidente deve a empresa tomar todas as providências necessárias para que os passageiros e pessoal do comboio sejam socorridos prontamente.
+Art. 66.º Em caso de acidente deve a empresa tomar todas as providências necessárias para que os passageiros e pessoal do comboio sejam socorridos prontamente.
 
-###### Art. 67.º - 1. A qualidade de passageiro, para os efeitos dos artigos anteriores, só se adquire após a obtenção do título de transporte.
+Art. 67.º - 1. A qualidade de passageiro, para os efeitos dos artigos anteriores, só se adquire após a obtenção do título de transporte.
 
 2. Não são considerados passageiros os agentes da empresa em serviço da exploração.
 
@@ -522,11 +526,11 @@ Sobre o valor declarado da bagagem que ultrapasse 100$00 por cada quilograma, po
 
 ##### SUBSECÇÃO II — Mercadorias
 
-###### Art. 68.º - 1. A empresa responde pelos prejuízos sofridos pelas mercadorias desde a recepção até à entrega, salvo se provar que o prejuízo resultou de caso fortuito, força maior, vício de objecto, culpa do expedidor ou do destinatário.
+Art. 68.º - 1. A empresa responde pelos prejuízos sofridos pelas mercadorias desde a recepção até à entrega, salvo se provar que o prejuízo resultou de caso fortuito, força maior, vício de objecto, culpa do expedidor ou do destinatário.
 
 2. Responde também pelos prejuízos resultantes de demora na entrega, salvo se fizer a prova de que a demora foi consequência de circunstâncias que o caminho de ferro não podia evitar nem estava ao seu alcance remediar.
 
-###### Art. 69.º - A empresa não é responsável pelos prejuízos emergentes:
+Art. 69.º - A empresa não é responsável pelos prejuízos emergentes:
 
 a) Do facto de o transporte ser feito em vagão descoberto, quando esta forma de transporte seja facultada pelos regulamentos ou tenha sido estabelecida na declaração de expedição;
 
@@ -538,17 +542,17 @@ d) De incêndio provocado por faúlhas da locomotiva, quando se verificarem as c
 
 ##### SUBSECÇÃO III — Vagões particulares
 
-###### Art. 70.º Poderão circular nas linhas das empresas vagões particulares nos termos estabelecidos nos regulamentos internos ou em acordos especiais.
+Art. 70.º Poderão circular nas linhas das empresas vagões particulares nos termos estabelecidos nos regulamentos internos ou em acordos especiais.
 
-###### Art. 71.º - 1. Se o vagão foi danificado em serviço do seu proprietário, de terceiro locatário, ou da empresa, esta responde pelo prejuízo, excepto se provar que este foi consequência de caso fortuito, força maior, culpa do expedidor, do destinatário ou de terceiro, vício ou defeito do vagão ou da sua carga.
+Art. 71.º - 1. Se o vagão foi danificado em serviço do seu proprietário, de terceiro locatário, ou da empresa, esta responde pelo prejuízo, excepto se provar que este foi consequência de caso fortuito, força maior, culpa do expedidor, do destinatário ou de terceiro, vício ou defeito do vagão ou da sua carga.
 
 2. No caso de incêndio provocado por faúlhas de locomotiva, observar-se-á o que fica prescrito no n.º 2 do artigo 37.º
 
-###### Art. 72.º As deteriorações inerentes ao uso ordinário do vagão serão sempre de conta do seu proprietário.
+Art. 72.º As deteriorações inerentes ao uso ordinário do vagão serão sempre de conta do seu proprietário.
 
 ##### SUBSECÇÃO IV — Responsabilidade por prejuízos causados a outras pessoas
 
-###### Art. 73.º - 1. Se algum veículo ou animal for atropelado, em passagem de nível, pelo material circulante, observar-se-á o seguinte:
+Art. 73.º - 1. Se algum veículo ou animal for atropelado, em passagem de nível, pelo material circulante, observar-se-á o seguinte:
 
 a) Tratando-se de passagem de nível sem guarda nem sinalização apropriada, a empresa não incorre em responsabilidade;
 
@@ -562,7 +566,7 @@ b) Tratando-se de passagem de nível com guarda ou com sinalização apropriada,
 
 5. Entende-se por material circulante todos os veículos que trasitem pela via férrea, e por sinalização apropriada, a que dê aviso da aproximação daquele material.
 
-###### Art. 74.º Se o material circulante atingir algum peão em passagem de nível, o regime de responsabilidade será o seguinte:
+Art. 74.º Se o material circulante atingir algum peão em passagem de nível, o regime de responsabilidade será o seguinte:
 
 a) Tratando-se de passagem de nível sem guarda nem sinalização apropriada, aplica-se o disposto na alínea a) do n.º 1 do artigo anterior;
 
@@ -572,37 +576,37 @@ c) Estando a passagem de nível fechada e tendo o sinistrado praticado algum dos
 
 d) Estando a passagem de nível fechada e tendo-se a vítima utilizado de postigo existente nas cancelas, a empresa não tem responsabilidade, salvo se contra ela se provar que o guarda interrogado pela vítima não avisou da aproximação do material circulante.
 
-###### Art. 75.º Se o acidente ocorrer em passagem concedida a propriedade particular, observar-se-á o disposto nos artigos anteriores, substituindo-se à responsabilidade da empresa a do concessionário da passagem.
+Art. 75.º Se o acidente ocorrer em passagem concedida a propriedade particular, observar-se-á o disposto nos artigos anteriores, substituindo-se à responsabilidade da empresa a do concessionário da passagem.
 
 ### CAPÍTULO VIII — Reclamações e acções
 
-###### Art. 76.º - 1. Quando as mercadorias apresentem à chegada sinais manifestos de deterioração ou avaria, ou quando seja visível a falta de objectos expedidos, o destinatário, querendo salvaguardar o seu direito à indemnização, deve declarar, no acto da entrega, que só com reserva recebe a remessa.
+Art. 76.º - 1. Quando as mercadorias apresentem à chegada sinais manifestos de deterioração ou avaria, ou quando seja visível a falta de objectos expedidos, o destinatário, querendo salvaguardar o seu direito à indemnização, deve declarar, no acto da entrega, que só com reserva recebe a remessa.
 
 2. Feita a declaração referida, a empresa não entregará a mercadoria sem se proceder à verificação do estado da remessa. A verificação será efectuada imediatamente, ou no prazo mais curto possível, pelo agente responsável e pelo destinatário ou pessoa por este designada, com assistência de duas testemunhas. O resultado será reduzido a termo.
 
 3. Se a empresa fizer a entrega sem proceder a verificação, ficará sujeita a pagar a indemnização que for pedida pelo destinatário.
 
-###### Art. 77.º - 1. Ainda que a remessa não apresente sinais de deterioração nem seja visível a falta de objectos expedidos, pode o destinatário fazer a declaração a que se refere o n.º 1 do artigo anterior, devendo neste caso observar-se o que no n.º 2 do mesmo artigo está estabelecido.
+Art. 77.º - 1. Ainda que a remessa não apresente sinais de deterioração nem seja visível a falta de objectos expedidos, pode o destinatário fazer a declaração a que se refere o n.º 1 do artigo anterior, devendo neste caso observar-se o que no n.º 2 do mesmo artigo está estabelecido.
 
 2. Se o destinatário receber a mercadoria sem fazer declaração nem reserva alguma, fica inibido de reclamar qualquer indemnização fundada em deterioração ou perda dos objectos expedidos.
 
-###### Art. 78.º - 1. A empresa só responde pelas perdas ou avarias que se prove terem ocorrido entre a expedição e a entrega da mercadoria.
+Art. 78.º - 1. A empresa só responde pelas perdas ou avarias que se prove terem ocorrido entre a expedição e a entrega da mercadoria.
 
 2. Feita a verificação a que se refere o artigo 76.º, se as partes não chegarem a acordo quanto ao montante dos prejuízos, a acção de indemnização só pode ser proposta até ao termo de um ano, contado a partir da data da entrega da mercadoria.
 
-###### Art. 79.º - 1. Quaisquer outras acções de indemnização por prejuízos causados pelo caminho de ferro devem igualmente ser propostas dentro de um ano, a contar da data em que ocorreu o facto que serve de fundamento à acção.
+Art. 79.º - 1. Quaisquer outras acções de indemnização por prejuízos causados pelo caminho de ferro devem igualmente ser propostas dentro de um ano, a contar da data em que ocorreu o facto que serve de fundamento à acção.
 
 2. Quando a acção se baseia na perda total ou no atraso de entrega de mercadorias ou bagagens, o prazo fixado no número anterior contar-se-á da data em que a bagagem ou a mercadoria devia ter sido entregue.
 
-###### Art. 80.º As condições de transporte regularão os direitos e obrigações da empresa e dos pagadores dos portes nos casos de cobrança excessiva ou deficiente por erro na aplicação das taxas.
+Art. 80.º As condições de transporte regularão os direitos e obrigações da empresa e dos pagadores dos portes nos casos de cobrança excessiva ou deficiente por erro na aplicação das taxas.
 
 ### CAPÍTULO IX — Fiscalização das empresas concessionárias
 
-###### Art. 81.º - 1. A fiscalização da exploração dos caminhos de ferro do ultramar, feita por empresas concessionárias, pertence aos serviços competentes definidos no n.º 1 do artigo 19.º
+Art. 81.º - 1. A fiscalização da exploração dos caminhos de ferro do ultramar, feita por empresas concessionárias, pertence aos serviços competentes definidos no n.º 1 do artigo 19.º
 
 2. Os serviços de fiscalização serão organizados pelo governo da província por forma a permitir o desempenho cabal da sua função.
 
-###### Art. 82.º Compete à fiscalização:
+Art. 82.º Compete à fiscalização:
 
 1.º Fazer cumprir as cláusulas a que a empresa se encontra obrigada pelos respectivos contratos de concessão, leis e regulamentos, tomando todas as providências que para o efeito forem julgadas necessárias;
 
@@ -640,35 +644,35 @@ d) Estando a passagem de nível fechada e tendo-se a vítima utilizado de postig
 
 18.º Informar sobre propostas das empresas, para cada linha, secção ou troço, as velocidades máximas que podem ser atingidas pelas diferentes composições para efeitos de aprovação superior.
 
-###### Art. 83.º - 1. As empresas concessionárias são obrigadas a dar conhecimento às respectivas fiscalizações da organização dos serviços da exploração, designando as categorias, nomes e moradas de todos os agentes colocados nos quadros daqueles serviços. Será dado também conhecimento de quaisquer alterações que ocorram nesses quadros.
+Art. 83.º - 1. As empresas concessionárias são obrigadas a dar conhecimento às respectivas fiscalizações da organização dos serviços da exploração, designando as categorias, nomes e moradas de todos os agentes colocados nos quadros daqueles serviços. Será dado também conhecimento de quaisquer alterações que ocorram nesses quadros.
 
 2. Recìprocamente, as fiscalizações comunicarão às empresas a organização dos seus serviços, designando as categorias, nomes e moradas do pessoal que os constituem.
 
-###### Art. 84.º - 1. As empresas concessionárias tratarão todos os assuntos directamente com a fiscalização, remetendo-lhe, além do expediente corrente, todas as propostas, participações, reclamações, regulamentos internos ou suas alterações, autos ou quaisquer informações que lhes sejam solicitadas.
+Art. 84.º - 1. As empresas concessionárias tratarão todos os assuntos directamente com a fiscalização, remetendo-lhe, além do expediente corrente, todas as propostas, participações, reclamações, regulamentos internos ou suas alterações, autos ou quaisquer informações que lhes sejam solicitadas.
 
 2. A fiscalização dará rápido andamento aos assuntos da sua competência, pondo à consideração dos serviços competentes, devidamente informados, todos os outros assuntos que careçam de superior resolução.
 
-###### Art. 85.º As empresas concessionárias facilitarão, por todas as formas, o exercício efectivo da fiscalização respectiva, pondo à disposição da fiscalização todos os meios necessários que lhe forem solicitados para o efeito.
+Art. 85.º As empresas concessionárias facilitarão, por todas as formas, o exercício efectivo da fiscalização respectiva, pondo à disposição da fiscalização todos os meios necessários que lhe forem solicitados para o efeito.
 
-###### Art. 86.º - 1. As empresas não poderão alterar os horários do serviço ordinário sem prévia autorização da fiscalização e sem que a alteração seja publicada com a devida antecedência.
+Art. 86.º - 1. As empresas não poderão alterar os horários do serviço ordinário sem prévia autorização da fiscalização e sem que a alteração seja publicada com a devida antecedência.
 
 2. As empresas darão conhecimento à fiscalização de qualquer comboio extraordinário ou especial que tenham mandado sair, informando o motivo da expedição, a hora de partida e demais condições de marcha e paragem.
 
-###### Art. 87.º As concessionárias autorizarão os agentes da fiscalização a transitar sobre o material circulante, assim como darão a esses agentes livre acesso a todas as dependências de serviço, no exercício dessa fiscalização.
+Art. 87.º As concessionárias autorizarão os agentes da fiscalização a transitar sobre o material circulante, assim como darão a esses agentes livre acesso a todas as dependências de serviço, no exercício dessa fiscalização.
 
-###### Art. 88.º As concessionárias não poderão utilizar o material circulante de que a fiscalização tenha interdito o serviço, sem a autorização da mesma fiscalização.
+Art. 88.º As concessionárias não poderão utilizar o material circulante de que a fiscalização tenha interdito o serviço, sem a autorização da mesma fiscalização.
 
-###### Art. 89.º - 1. As concessionárias manterão em dia e na devida ordem o cadastro de cada locomotiva, do qual constarão também as reparações ou modificações que tiver sofrido.
+Art. 89.º - 1. As concessionárias manterão em dia e na devida ordem o cadastro de cada locomotiva, do qual constarão também as reparações ou modificações que tiver sofrido.
 
 2. Em relação ao restante material circulante haverá da mesma forma os registos que a fiscalização reconhecer necessários.
 
 3. Estes registos serão apresentados sempre que a fiscalização o exija.
 
-###### Art. 90.º - 1. As concessionárias são obrigadas a ter registos das remessas que recebam para transporte e dos quais constem todos os elementos que permitam uma fácil e total identificação dessas remessas.
+Art. 90.º - 1. As concessionárias são obrigadas a ter registos das remessas que recebam para transporte e dos quais constem todos os elementos que permitam uma fácil e total identificação dessas remessas.
 
 2. As concessionárias são obrigadas a ter um registo especial efectuado, no caso de não haver normas estabelecidas, de harmonia com as instruções recebidas da fiscalização e no qual constem em separado, por meses e por cada linha, todas as receitas.
 
-###### Art. 91.º - 1. As concessionárias remeterão à fiscalização:
+Art. 91.º - 1. As concessionárias remeterão à fiscalização:
 
 a) Até ao dia 15 de cada mês, um balancete das receitas relativas ao mês antecedente, segundo o modelo que for previsto, e dentro de 60 dias o mapa do movimento e da receita exacta de cada mês;
 
@@ -676,33 +680,33 @@ b) Até ao fim do mês de Março de cada ano, os mapas das receitas e despesas d
 
 2. As concessionárias remeterão ao Governo da província, por intermédio da fiscalização, até ao fim do mês de Junho de cada ano, pelo menos, cinco exemplares do relatório anual relativo ao ano económico anterior.
 
-###### Art. 92.º - 1. Os agentes da fiscalização formarão, de todas as contravenções deste regulamento e dos regulamentos internos, os respectivos autos, que serão remetidos ao chefe da fiscalização para o devido andamento.
+Art. 92.º - 1. Os agentes da fiscalização formarão, de todas as contravenções deste regulamento e dos regulamentos internos, os respectivos autos, que serão remetidos ao chefe da fiscalização para o devido andamento.
 
 2. Os autos formados pelos agentes da fiscalização serão feitos em triplicado e enviados ao chefe da fiscalização, o qual, no mais curto prazo possível, prestará informações e enviará para resolução dos serviços e autoridade judicial competentes quando se trate de crime ou contravenção prevista na lei.
 
 3. Quando, porém, dos factos averiguados pelos autos, resultar apenas responsabilidade civil da concessionária para com particulares, serão os mesmos autos enviados à concessionária para tomar o assunto na consideração devida dentro do prazo de 60 dias, passados os quais, e não estando adoptadas as invocadas providências, poderão ser fornecidas cópias desses autos aos interessados a fim de recorrerem aos tribunais judiciais, de harmonia com as leis.
 
-###### Art. 93.º - 1. Os autos formados pelos agentes ajuramentados das concessionárias, referidos no artigo 54.º, a enviar aos serviços competentes serão remetidos por intermédio da fiscalização.
+Art. 93.º - 1. Os autos formados pelos agentes ajuramentados das concessionárias, referidos no artigo 54.º, a enviar aos serviços competentes serão remetidos por intermédio da fiscalização.
 
 2. Será dado conhecimento às concessionárias dos autos formados pelos agentes da fiscalização em consequência de violação das obrigações das mesmas.
 
-###### Art. 94.º É da exclusiva competência do governo da província a resolução de todas as questões surgidas entre a fiscalização e as concessionárias.
+Art. 94.º É da exclusiva competência do governo da província a resolução de todas as questões surgidas entre a fiscalização e as concessionárias.
 
 ### CAPÍTULO X — Disposições diversas a observar na exploração
 
-###### Art. 95.º Em todos os pontos das linhas em que a segurança ou o desenvolvimento da exploração o tornar necessário, e nomeadamente nas passagens de nível, serão colocadas guardas, além dos dispositivos de segurança e de sinalização, automáticos ou não, que a técnica ferroviária e a experiência aconselharem.
+Art. 95.º Em todos os pontos das linhas em que a segurança ou o desenvolvimento da exploração o tornar necessário, e nomeadamente nas passagens de nível, serão colocadas guardas, além dos dispositivos de segurança e de sinalização, automáticos ou não, que a técnica ferroviária e a experiência aconselharem.
 
-###### Art. 96.º - 1. As estações e suas dependências, bem como os apeadeiros que de tal careçam, serão iluminados de noite, durante as horas de serviço, por forma a permitir a sua utilização com toda a segurança.
+Art. 96.º - 1. As estações e suas dependências, bem como os apeadeiros que de tal careçam, serão iluminados de noite, durante as horas de serviço, por forma a permitir a sua utilização com toda a segurança.
 
 2. As passagens de nível estarão sempre devidamente sinalizadas, tendo especialmente em conta o disposto nos artigos 73.º e 74.º
 
-###### Art. 97.º - 1. Em todas as estações e apeadeiros existirão as telecomunicações adequadas às necessidades de exploração e à importância dessas estações e apeadeiros.
+Art. 97.º - 1. Em todas as estações e apeadeiros existirão as telecomunicações adequadas às necessidades de exploração e à importância dessas estações e apeadeiros.
 
 2. As estações e apeadeiros comunicarão entre si por meio de linhas telefónicas ou de outros sistemas de telecomunicação que a técnica recomendar ou a exploração exigir para maior eficiência e segurança.
 
-###### Art. 98.º As estações estarão abertas durante as horas de serviço para a recepção e entrega das bagagens e mercadorias.
+Art. 98.º As estações estarão abertas durante as horas de serviço para a recepção e entrega das bagagens e mercadorias.
 
-###### Art. 99.º - 1. Todo o material circulante será identificado exteriormente, em local bem visível, com:
+Art. 99.º - 1. Todo o material circulante será identificado exteriormente, em local bem visível, com:
 
 O nome ou as iniciais da empresa a que pertencem;
 
@@ -714,46 +718,46 @@ A indicação da carga máxima e da tara nos vagões.
 
 2. No interior de cada compartimento das carruagens de passageiros haverá uma indicação bem patente do número da carruagem e do número de lugares que comporta.
 
-###### Art. 100.º Em relação às épocas do ano e às características geométricas dos diversos troços das linhas, as empresas submeterão à aprovação as medidas de segurança que devem ser adoptadas nas circulações, nomeadamente no que respeita a:
+Art. 100.º Em relação às épocas do ano e às características geométricas dos diversos troços das linhas, as empresas submeterão à aprovação as medidas de segurança que devem ser adoptadas nas circulações, nomeadamente no que respeita a:
 
 Número de carruagens ou vagões nos comboios;
 
 Tabelas de carga das locomotivas.
 
-###### Art. 101.º Todo o material circulante será provido, obrigatòriamente, de dispositivos de frenagem automática, além dos dispositivos de frenagem manual.
+Art. 101.º Todo o material circulante será provido, obrigatòriamente, de dispositivos de frenagem automática, além dos dispositivos de frenagem manual.
 
-###### Art. 102.º As locomotivas marcharão, em regra, à testa dos comboios, devendo no entanto constar obrigatòriamente nos regulamentos internos os casos e as condições em que se poderá proceder de outro modo, atendendo sempre à segurança das circulações.
+Art. 102.º As locomotivas marcharão, em regra, à testa dos comboios, devendo no entanto constar obrigatòriamente nos regulamentos internos os casos e as condições em que se poderá proceder de outro modo, atendendo sempre à segurança das circulações.
 
-###### Art. 103.º - 1. Os comboios serão obrigatòriamente sinalizados e iluminados, nas condições a estabelecer nos regulamentos internos das empresas.
+Art. 103.º - 1. Os comboios serão obrigatòriamente sinalizados e iluminados, nas condições a estabelecer nos regulamentos internos das empresas.
 
 2. As carruagens destinadas aos passageiros serão sempre iluminadas interiormente durante a noite e, de dia, na passagem dos túneis.
 
-###### Art. 104.º Nenhum comboio pode sair de uma estação antes da hora fixada nos horários.
+Art. 104.º Nenhum comboio pode sair de uma estação antes da hora fixada nos horários.
 
-###### Art. 105.º A circulação de comboios extraordinários e de máquinas isoladas nas secções em que estiver interrompido o serviço telegráfico e não se dispuser de outro sistema de telecomunicações que o possa substituir só poderá efectuar-se nos termos que obrigatòriamente deverão constar nos regulamentos internos.
+Art. 105.º A circulação de comboios extraordinários e de máquinas isoladas nas secções em que estiver interrompido o serviço telegráfico e não se dispuser de outro sistema de telecomunicações que o possa substituir só poderá efectuar-se nos termos que obrigatòriamente deverão constar nos regulamentos internos.
 
-###### Art. 106.º Quando se efectuarem reparações na via ou esta se encontrar interrompida ou impedida por qualquer circunstância, serão colocados os sinais regulamentares, à devida distância, que indiquem se os comboios devem parar ou se podem avançar com precaução.
+Art. 106.º Quando se efectuarem reparações na via ou esta se encontrar interrompida ou impedida por qualquer circunstância, serão colocados os sinais regulamentares, à devida distância, que indiquem se os comboios devem parar ou se podem avançar com precaução.
 
-###### Art. 107.º Nenhuma pessoa, além do pessoal de condução, poderá transitar sobre as unidades de tracção. Exceptuam-se os casos previstos nos regulamentos internos.
+Art. 107.º Nenhuma pessoa, além do pessoal de condução, poderá transitar sobre as unidades de tracção. Exceptuam-se os casos previstos nos regulamentos internos.
 
-###### Art. 108.º Nos pontos da linha considerados mais convenientes existirão meios de socorro prontos a serem utilizados em qualquer momento.
+Art. 108.º Nos pontos da linha considerados mais convenientes existirão meios de socorro prontos a serem utilizados em qualquer momento.
 
-###### Art. 109.º Deverá existir em todas as estações dos caminhos de ferro um exemplar do presente regulamento, que poderá ser facultado ao público.
+Art. 109.º Deverá existir em todas as estações dos caminhos de ferro um exemplar do presente regulamento, que poderá ser facultado ao público.
 
-###### Art. 110.º As empresas tomarão medidas em todas as estações no sentido de tornar possível o registo de quaisquer reclamações dos utentes contra as empresas ou seus agentes.
+Art. 110.º As empresas tomarão medidas em todas as estações no sentido de tornar possível o registo de quaisquer reclamações dos utentes contra as empresas ou seus agentes.
 
-###### Art. 111.º A designação das estações e todas as indicações necessárias para conhecimento do público - horários, tarifas, avisos, anúncios e cartazes de qualquer natureza de interesse do caminho de ferro - serão obrigatòriamente escritos em língua portuguesa.
+Art. 111.º A designação das estações e todas as indicações necessárias para conhecimento do público - horários, tarifas, avisos, anúncios e cartazes de qualquer natureza de interesse do caminho de ferro - serão obrigatòriamente escritos em língua portuguesa.
 
 Poderão ainda ser utilizadas outras línguas, se a empresa reconhecer nisso vantagem.
 
 ### CAPÍTULO XI — Disposições finais e transitórias
 
-###### Art. 112.º O presente regulamento aplicar-se-á subsidiàriamente a outros serviços públicos de transporte terrestre e aos serviços portuários, quando uns e outros sejam explorados pelas empresas definidas no artigo 1.º, em tudo o que não for incompatível com a especial natureza de tais serviços.
+Art. 112.º O presente regulamento aplicar-se-á subsidiàriamente a outros serviços públicos de transporte terrestre e aos serviços portuários, quando uns e outros sejam explorados pelas empresas definidas no artigo 1.º, em tudo o que não for incompatível com a especial natureza de tais serviços.
 
-###### Art. 113.º As contravenções ao presente regulamento serão autuadas, processadas e julgadas nos termos nele expressos e das demais leis em vigor.
+Art. 113.º As contravenções ao presente regulamento serão autuadas, processadas e julgadas nos termos nele expressos e das demais leis em vigor.
 
-###### Art. 114.º Sempre que o presente regulamento seja revisto e alterado, serão as respectivas alterações introduzidas no texto do próprio regulamento, devendo as empresas proceder, no prazo de 30 dias, a nova publicação integral para os efeitos do artigo 109.º
+Art. 114.º Sempre que o presente regulamento seja revisto e alterado, serão as respectivas alterações introduzidas no texto do próprio regulamento, devendo as empresas proceder, no prazo de 30 dias, a nova publicação integral para os efeitos do artigo 109.º
 
-###### Art. 115.º O presente regulamento entrará em vigor três meses depois da data da publicação no Diário do Governo.
+Art. 115.º O presente regulamento entrará em vigor três meses depois da data da publicação no Diário do Governo.
 
 Ministério do Ultramar, 7 de Junho de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47539-1967-504349
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60baae11808181731d7c0ef3a06077abeb608ef2dedaf4837eeba68bce8f411f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 170c56071ae68d4a58343eefc2035ff37f054f01b82ff0557f9a7a418d4bcd5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:18Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Tendo em vista o preceituado no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones, observadas que sejam as disposições do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, autorizada a celebrar contratos escritos para o fornecimento das seguintes publicações normais e permanentes que venha a editar durante os anos de 1967 a 1970: Guia Oficial; Noticiário Oficial; Lista das Localidades com Serviço Público de Correio, Telégrafo e Telefone; Cadernos Profissionais, Instruções de Serviço e Tabelas de Taxas; Anuário; Pagelas de Inaugurações, e ainda para a aquisição de todas as gravuras que venha a necessitar para estas e outras publicações.
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones, observadas que sejam as disposições do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, autorizada a celebrar contratos escritos para o fornecimento das seguintes publicações normais e permanentes que venha a editar durante os anos de 1967 a 1970: Guia Oficial; Noticiário Oficial; Lista das Localidades com Serviço Público de Correio, Telégrafo e Telefone; Cadernos Profissionais, Instruções de Serviço e Tabelas de Taxas; Anuário; Pagelas de Inaugurações, e ainda para a aquisição de todas as gravuras que venha a necessitar para estas e outras publicações.
 
-###### Art. 2.º Os encargos totais e anuais de cada um dos contratos escritos a celebrar são os seguintes:
+Art. 2.º Os encargos totais e anuais de cada um dos contratos escritos a celebrar são os seguintes:
 
 a) Guia Oficial, 720000$00, sendo o encargo anual de 180000$00;
 
@@ -109,8 +113,8 @@ f) Pagelas de Inaugurações, 200000$00, sendo o encargo anual de 50000$00;
 
 g) Gravuras, 460000$00, sendo o encargo anual de 115000$00.
 
-###### Art. 3.º Os saldos anuais de cada uma das importâncias referidas no artigo anterior transitam para o ano seguinte, acrescendo à verba respectiva.
+Art. 3.º Os saldos anuais de cada uma das importâncias referidas no artigo anterior transitam para o ano seguinte, acrescendo à verba respectiva.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

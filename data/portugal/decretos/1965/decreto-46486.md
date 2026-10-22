@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46486-1965-292348
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 58acf9c825821e1e694f6ac5a634279f05db8458249c42919584121f9a9cb088
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4239d8229028e3a118c97dc37ddccae27cdcccaf1f578dc5c0a9e0317390c6a6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:21Z'
   warnings: []
   errors: []
 ---
@@ -93,10 +93,10 @@ Tendo em vista o disposto no n.º 3.º do artigo 12.º do Código Administrativo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A delimitação entre as freguesias de Santa Catarina da Serra e Fátima, dos concelhos de Leiria e Vila Nova de Ourém, respectivamente, junto ao lugar da Loureira, da primeira das citadas freguesias, é definida por uma linha que, começando por alturas do poço da Valada e orientando-se de poente para nascente, segue pelas estremas dos prédios rústicos pertencentes a Manuel Alho, Luís Ribeiro, Manuel Santos, Teresa Conceição, Manuel Ribeiro e José Gonçalves, todos do lado da freguesia de Fátima, e a José Francisco Neves e herdeiros de Manuel Pereira de Oliveira, do lado da freguesia de Santa Catarina da Serra; atravessa a estrada nacional Cova da Iria-Loureira, junto à placa da Junta Autónoma de Estradas, indicativa dos dois distritos (Leiria e Santarém), seguindo depois pelas estremas dos prédios rústicos de Joaquim Ribeiro, do lado da freguesia de Fátima, e de Maria Marques, do lado da freguesia de Santa Catarina da Serra, até atingir a estrema do prédio de Faustino Alexandre Oliveira, do lado da freguesia de Fátima, ponto em que inflecte para a esquerda, passando a estremar com esta propriedade e com o dito prédio de Maria Marques até alcançar o limite da propriedade de José Santos Silva, do lado da freguesia de Santa Catarina da Serra, inflectindo neste ponto para a direita e seguindo, depois, pela estrema da mesma propriedade de José Santos Silva até atingir o caminho público denominado «Antigo caminho das padeiras»; prossegue por este caminho até ao seu cruzamento com a estrada municipal Loureira-Moita Redonda; continua em linha recta em direcção ao canto noroeste da propriedade de Manuel Santos Vieira, seguindo pela estrema norte desta propriedade até ao Vale Longo; aqui, inflecte para a esquerda e continua sempre pelo Vale Longo a baixo.
+Artigo 1.º A delimitação entre as freguesias de Santa Catarina da Serra e Fátima, dos concelhos de Leiria e Vila Nova de Ourém, respectivamente, junto ao lugar da Loureira, da primeira das citadas freguesias, é definida por uma linha que, começando por alturas do poço da Valada e orientando-se de poente para nascente, segue pelas estremas dos prédios rústicos pertencentes a Manuel Alho, Luís Ribeiro, Manuel Santos, Teresa Conceição, Manuel Ribeiro e José Gonçalves, todos do lado da freguesia de Fátima, e a José Francisco Neves e herdeiros de Manuel Pereira de Oliveira, do lado da freguesia de Santa Catarina da Serra; atravessa a estrada nacional Cova da Iria-Loureira, junto à placa da Junta Autónoma de Estradas, indicativa dos dois distritos (Leiria e Santarém), seguindo depois pelas estremas dos prédios rústicos de Joaquim Ribeiro, do lado da freguesia de Fátima, e de Maria Marques, do lado da freguesia de Santa Catarina da Serra, até atingir a estrema do prédio de Faustino Alexandre Oliveira, do lado da freguesia de Fátima, ponto em que inflecte para a esquerda, passando a estremar com esta propriedade e com o dito prédio de Maria Marques até alcançar o limite da propriedade de José Santos Silva, do lado da freguesia de Santa Catarina da Serra, inflectindo neste ponto para a direita e seguindo, depois, pela estrema da mesma propriedade de José Santos Silva até atingir o caminho público denominado «Antigo caminho das padeiras»; prossegue por este caminho até ao seu cruzamento com a estrada municipal Loureira-Moita Redonda; continua em linha recta em direcção ao canto noroeste da propriedade de Manuel Santos Vieira, seguindo pela estrema norte desta propriedade até ao Vale Longo; aqui, inflecte para a esquerda e continua sempre pelo Vale Longo a baixo.
 
-###### Art. 2.º As câmaras municipais de Leiria e de Vila Nova de Ourém deverão proceder, no prazo de 60 dias e pela forma em que acordarem, à colocação de marcos, onde se tornem necessários, de modo que fiquem bem patentes os limites fixados no artigo anterior.
+Art. 2.º As câmaras municipais de Leiria e de Vila Nova de Ourém deverão proceder, no prazo de 60 dias e pela forma em que acordarem, à colocação de marcos, onde se tornem necessários, de modo que fiquem bem patentes os limites fixados no artigo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

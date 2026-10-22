@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47733-1967-312804
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b71d97d4b0ad15da74886f3988d1d01f8f6923d184493059172e829ffc54cd55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4d86e2927c4bc73b560f07304dbd39e8aa40099dd1d805fa16d28b5e18b68e29
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:01Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o quartel de S. Lourenço, em Abrantes, compreendida num polígono de lados paralelos à vedação do quartel e distando dela 150 m.
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com o quartel de S. Lourenço, em Abrantes, compreendida num polígono de lados paralelos à vedação do quartel e distando dela 150 m.
 
 Esta área considera-se subdividida em duas zonas como segue:
 
@@ -99,7 +107,7 @@ Esta área considera-se subdividida em duas zonas como segue:
 
 2) Uma segunda zona com a largura de 100 m a contar dos limites da primeira zona.
 
-###### Art. 2.º A área descrita no n.º 1) do artigo anterior fica sujeita a servidão particular, nos termos dos artigos 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida a execução de quaisquer dos trabalhos ou actividades abaixo indicados, sem licença, devidamente condicionada, da autoridade militar competente:
+Art. 2.º A área descrita no n.º 1) do artigo anterior fica sujeita a servidão particular, nos termos dos artigos 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida a execução de quaisquer dos trabalhos ou actividades abaixo indicados, sem licença, devidamente condicionada, da autoridade militar competente:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou fazer obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -111,19 +119,19 @@ d) Estabelecer depósitos permanentes ou temporários de materiais explosivos ou
 
 e) Montar linhas de energia eléctrica ou de ligações telefónicas, quer aéreas, quer subterrâneas.
 
-###### Art. 3.º A área descrita no n.º 2) do artigo 1.º fica também sujeita a servidão particular, nos termos dos artigos 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida, sem licença, devidamente condicionada, da autoridade militar competente, apenas a execução de quaisquer dos trabalhos ou actividades mencionados nas alíneas a), b) e d) do artigo anterior.
+Art. 3.º A área descrita no n.º 2) do artigo 1.º fica também sujeita a servidão particular, nos termos dos artigos 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida, sem licença, devidamente condicionada, da autoridade militar competente, apenas a execução de quaisquer dos trabalhos ou actividades mencionados nas alíneas a), b) e d) do artigo anterior.
 
 § único. São dispensadas da licença militar anteriormente referida as construções cuja altura não exceda dois pisos.
 
-###### Art. 4.º Ao comandante da 2.ª Região Militar compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência nos artigos anteriores.
+Art. 4.º Ao comandante da 2.ª Região Militar compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência nos artigos anteriores.
 
-###### Art. 5.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do aquartelamento, à Direcção do Serviço de Fortificações e Obras Militares e ao Comando da 2.ª Região Militar.
+Art. 5.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do aquartelamento, à Direcção do Serviço de Fortificações e Obras Militares e ao Comando da 2.ª Região Militar.
 
-###### Art. 6.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da competência da Delegação do Serviço de Fortificações e Obras Militares na 2.ª Região Militar.
+Art. 6.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da competência da Delegação do Serviço de Fortificações e Obras Militares na 2.ª Região Militar.
 
-###### Art. 7.º Das decisões tomadas nos termos do artigo 4.º cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita à demolição das obras feitas ilegalmente cabe recurso para o Comando da 2.ª Região Militar.
+Art. 7.º Das decisões tomadas nos termos do artigo 4.º cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita à demolição das obras feitas ilegalmente cabe recurso para o Comando da 2.ª Região Militar.
 
-###### Art. 8.º A área descrita no artigo 1.º será demarcada na planta topográfica da região na escala de 1/5000, organizando-se oito colecções com a classificação de reservado, que terão os seguintes destinos:
+Art. 8.º A área descrita no artigo 1.º será demarcada na planta topográfica da região na escala de 1/5000, organizando-se oito colecções com a classificação de reservado, que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -139,6 +147,6 @@ Uma ao Ministério das Obras Públicas;
 
 Duas ao Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - José Albino Machado Vaz.

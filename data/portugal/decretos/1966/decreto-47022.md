@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47022-1966-473544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 09ac6d99b66c989234598c6d290e4b35e881051d06fabf3ba950630a4c889453
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f96468a53d6e32e55264cba2065396eeed35f255af7c0bcb221ee093075758a0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:535034:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:00Z'
   warnings: []
   errors: []
 ---
@@ -96,13 +100,13 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a província de Moçambique a contrair no Banco Nacional Ultramarino empréstimos em moeda local até 130000000$00, destinados à satisfação dos encargos resultantes dos trabalhos de construção da estrada nacional n.º 1, previstos no sector de transportes e comunicações do Plano Intercalar de Fomento, para a província de Moçambique.
+Artigo 1.º É autorizada a província de Moçambique a contrair no Banco Nacional Ultramarino empréstimos em moeda local até 130000000$00, destinados à satisfação dos encargos resultantes dos trabalhos de construção da estrada nacional n.º 1, previstos no sector de transportes e comunicações do Plano Intercalar de Fomento, para a província de Moçambique.
 
-###### Art. 2.º Estes empréstimos serão objecto de contratos a celebrar entre o Banco Nacional Ultramarino e o Ministério do Ultramar, em representação da província.
+Art. 2.º Estes empréstimos serão objecto de contratos a celebrar entre o Banco Nacional Ultramarino e o Ministério do Ultramar, em representação da província.
 
 § único. A quantia mutuada será levantada pelo Governo-Geral da província, numa ou mais parcelas, das caixas da filial em Lourenço Marques do referido Banco, precedendo aviso comunicado por escrito ao Banco com 30 dias de antecedência.
 
-###### Art. 3.º Os empréstimos a que se refere o artigo anterior vencerão juro até ao máximo de 3 por cento ao ano.
+Art. 3.º Os empréstimos a que se refere o artigo anterior vencerão juro até ao máximo de 3 por cento ao ano.
 
 § 1.º O pagamento do capital mutuado deverá ser efectuado num máximo de dez prestações semestrais e iguais, a primeira das quais se vencerá em 1 de Julho de 1967.
 
@@ -110,13 +114,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º A província poderá antecipar as liquidações previstas no corpo deste artigo e parágrafos anteriores, desde que avise por escrito o Banco, com, pelo menos, vinte dias de antecedência da data em que se propõe efectuar a liquidação.
 
-###### Art. 4.º O pagamento do capital mutuado e dos juros será efectuado na filial do Banco Nacional Ultramarino em Lourenço Marques.
+Art. 4.º O pagamento do capital mutuado e dos juros será efectuado na filial do Banco Nacional Ultramarino em Lourenço Marques.
 
-###### Art. 5.º A província de Moçambique levantará, nos termos acordados, toda a quantia mutuada até 31 de Dezembro de 1966.
+Art. 5.º A província de Moçambique levantará, nos termos acordados, toda a quantia mutuada até 31 de Dezembro de 1966.
 
-###### Art. 6.º Os encargos resultantes do empréstimo autorizado pelo presente diploma constituem despesa obrigatória e preferencial da província, devendo anualmente ser inscritas nos respectivos orçamentos gerais as verbas necessárias à sua liquidação.
+Art. 6.º Os encargos resultantes do empréstimo autorizado pelo presente diploma constituem despesa obrigatória e preferencial da província, devendo anualmente ser inscritas nos respectivos orçamentos gerais as verbas necessárias à sua liquidação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

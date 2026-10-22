@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46661-1965-512215
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d357e3fdc8852771d0237f897310d6e9819ae24f1958b902f04064a1148ebe97
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc44928db44e8d28b07e414b11abcfc2cfd1926a62b862fc079df287d8ebac55
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:252179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:51Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +97,7 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição e em conformidade co
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O quadro do pessoal de nomeação do serviço de transportes aéreos de Timor passa a ter a seguinte constituição:
+Artigo 1.º O quadro do pessoal de nomeação do serviço de transportes aéreos de Timor passa a ter a seguinte constituição:
 
 1 piloto, chefe do serviço ... F
 
@@ -103,9 +111,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 1 ajudante de mecânico ... T
 
-###### Art. 2.º A redacção do artigo 8.º do [Decreto n.º 41432](https://diariodarepublica.pt/dr/detalhe/decreto/41432-1957-252179), de 7 de Dezembro de 1957, é substituída pela seguinte:
+Art. 2.º A redacção do artigo 8.º do [Decreto n.º 41432](https://diariodarepublica.pt/dr/detalhe/decreto/41432-1957-252179), de 7 de Dezembro de 1957, é substituída pela seguinte:
 
-###### Art. 8.º Os lugares de piloto, chefe do serviço, e de piloto serão providos por pilotos civis ou militares, estes dos quadros permanentes da Força Aérea, ou, na sua falta, do quadro de complemento da mesma Força de categoria não superior a capitão ou primeiro-tenente, para tal fim requisitados, nos termos legais, ao Ministro da Defesa Nacional.
+Art. 8.º Os lugares de piloto, chefe do serviço, e de piloto serão providos por pilotos civis ou militares, estes dos quadros permanentes da Força Aérea, ou, na sua falta, do quadro de complemento da mesma Força de categoria não superior a capitão ou primeiro-tenente, para tal fim requisitados, nos termos legais, ao Ministro da Defesa Nacional.
 
 § 1.º Aos pilotos, civis ou militares, é exigida, normalmente, a licença de piloto de transportes públicos, podendo, porém, a mesma ser dispensada quando não seja possível recrutar pessoal com aquela qualificação.
 
@@ -119,7 +127,7 @@ a) Piloto, chefe do serviço, 1200$00;
 
 b) Piloto (quando navegador), 900$00.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46841-1966-493224
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dfaa2d0c1a17b92b6f2047d9d53b1efbc0129f7244af15ad88e6e26e29d78c23
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e0e9f9687a232e493659f633b64560940ee70723e0b458e299fe66dbdbe0afb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:183669:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:541460:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 27
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:41Z'
   warnings: []
   errors: []
 ---
@@ -104,13 +116,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ### CAPÍTULO I — Do Instituto de Investigação Veterinária de Moçambique e suas atribuições
 
-###### Artigo 1.º É criado o Instituto de Investigação Veterinária de Moçambique, com sede em Lourenço Marques, destinado a promover trabalhos de investigação científica, veterinária e agro-pecuária.
+Artigo 1.º É criado o Instituto de Investigação Veterinária de Moçambique, com sede em Lourenço Marques, destinado a promover trabalhos de investigação científica, veterinária e agro-pecuária.
 
 § único. As investigações planeadas e levadas a efeito pelo Instituto de Investigação Veterinária referir-se-ão a temas escolhidos segundo o interesse científico-económico, geral ou nacional, de que se revistam e de acordo com os seus recursos em pessoal e material.
 
-###### Art. 2.º O Instituto gozará de personalidade jurídica e de autonomia administrativa e financeira.
+Art. 2.º O Instituto gozará de personalidade jurídica e de autonomia administrativa e financeira.
 
-###### Art. 3.º São atribuições do Instituto:
+Art. 3.º São atribuições do Instituto:
 
 1.º Contribuir para o desenvolvimento da ciência veterinária, utilizando todos os meios de investigação que lhe respeitem;
 
@@ -118,7 +130,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º Colaborar com os serviços de veterinária da província na aplicação dos conhecimentos adquiridos, tendo em vista o progresso económico e social, geral ou nacional, que representem.
 
-###### Art. 4.º Para cumprimento das suas atribuições incumbe, em especial, ao Instituto:
+Art. 4.º Para cumprimento das suas atribuições incumbe, em especial, ao Instituto:
 
 a) Efectuar estudos de patologia veterinária, com especial prioridade dos trabalhos de análise e diagnóstico e de produção e contraste dos produtos biológicos utilizados no combate, prevenção ou diagnóstico das doenças dos animais;
 
@@ -150,7 +162,7 @@ b) Tornar conhecida na metrópole, nas províncias ultramarinas e no estrangeiro
 
 c) Promover, em colaboração com os serviços de veterinária, o intercâmbio científico e cultural, individual ou colectivo de investigadores e técnicos de veterinária e pecuária com a metrópole e as outras províncias ultramarinas e com os países e centros de cultura estrangeira.
 
-###### Art. 5.º O Instituto apresentará ao Governo-Geral, até 30 de Novembro de cada ano e para apreciação definitiva, o projecto do plano de trabalhos para o ano seguinte. Do mesmo modo, o Instituto apresentará, até 31 de Março, relatório dos serviços realizados no ano anterior.
+Art. 5.º O Instituto apresentará ao Governo-Geral, até 30 de Novembro de cada ano e para apreciação definitiva, o projecto do plano de trabalhos para o ano seguinte. Do mesmo modo, o Instituto apresentará, até 31 de Março, relatório dos serviços realizados no ano anterior.
 
 § 1.º Depois de aprovados pelo Governo-Geral, o plano e o relatório serão enviados ao Ministério do Ultramar.
 
@@ -158,9 +170,9 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § 3.º Além dos trabalhos previstos nos planos anuais, pode o Instituto realizar outros que lhe sejam solicitados por entidades oficiais, segundo a urgência e o interesse público reconhecido e sem prejuízo dos constantes daqueles planos.
 
-###### Art. 6.º Sempre que o director o julgue conveniente ou os trabalhos em curso o reclamem, podem estabelecer-se horários especiais para determinados serviços, mediante a aprovação do Governo-Geral.
+Art. 6.º Sempre que o director o julgue conveniente ou os trabalhos em curso o reclamem, podem estabelecer-se horários especiais para determinados serviços, mediante a aprovação do Governo-Geral.
 
-###### Art. 7.º O Instituto poderá realizar cursos de aperfeiçoamento e estágios para técnicos agro-pecuários de diferentes níveis e poderá realizar também cursos intensivos de assuntos especializados para esses técnicos e para criadores, de maneira a melhorar a sua formação profissional.
+Art. 7.º O Instituto poderá realizar cursos de aperfeiçoamento e estágios para técnicos agro-pecuários de diferentes níveis e poderá realizar também cursos intensivos de assuntos especializados para esses técnicos e para criadores, de maneira a melhorar a sua formação profissional.
 
 § único. A frequência com aproveitamento dos cursos indicados no corpo do artigo constituirá preferência para efeitos de promoção.
 
@@ -168,7 +180,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 #### SECÇÃO I — Dos serviços centrais e dos serviços regionais
 
-###### Art. 8.º O Instituto compõe-se de serviços centrais e de serviços regionais. Poderá ter em qualquer localidade da província os centros de estudos que vierem a ser criados.
+Art. 8.º O Instituto compõe-se de serviços centrais e de serviços regionais. Poderá ter em qualquer localidade da província os centros de estudos que vierem a ser criados.
 
 § 1.º Os serviços centrais funcionarão na sede do Instituto e serão constituídos por departamentos, estes por divisões e estas por secções.
 
@@ -178,33 +190,33 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § 4.º Poderão ser criados ou suprimidos pelo Governo-Geral os sectores dos serviços centrais e os centros de estudos que se tenham por convenientes.
 
-###### Art. 9.º Tanto os serviços centrais como os serviços regionais possuirão pessoal técnico e pessoal administrativo. Haverá pessoal de oficinas e pessoal de campo onde se mostrar necessário.
+Art. 9.º Tanto os serviços centrais como os serviços regionais possuirão pessoal técnico e pessoal administrativo. Haverá pessoal de oficinas e pessoal de campo onde se mostrar necessário.
 
 § 1.º O pessoal técnico destina-se a dar cumprimento aos próprios objectivos do Instituto.
 
 § 2.º O pessoal administrativo integra os serviços administrativos. Por estes correrá todo o expediente relativo aos serviços e, em especial, o orçamento e a sua execução, a contabilidade dos fundos recebidos e das despesas efectuadas, a organização e movimento dos processos relativos ao provimento, outras situações e disciplina de todo o pessoal e ainda outros assuntos que lhe forem superiormente cometidos.
 
-###### Art. 10.º Os departamentos dos serviços centrais e os serviços regionais são chefiados por investigadores ou, na sua falta, por primeiros ou segundos-assistentes.
+Art. 10.º Os departamentos dos serviços centrais e os serviços regionais são chefiados por investigadores ou, na sua falta, por primeiros ou segundos-assistentes.
 
-###### Art. 11.º Os serviços administrativos dependem directamente da direcção. A respectiva chefia caberá ao adjunto administrativo e, nas suas faltas ou impedimentos, ao funcionário mais graduado dos serviços.
+Art. 11.º Os serviços administrativos dependem directamente da direcção. A respectiva chefia caberá ao adjunto administrativo e, nas suas faltas ou impedimentos, ao funcionário mais graduado dos serviços.
 
 § único. O pessoal administrativo destacado nos vários departamentos estará hieràrquicamente subordinado aos dirigentes destes, mas, quanto à técnica das suas próprias funções, dependerá do adjunto administrativo.
 
 #### SECÇÃO II — Da direcção
 
-###### Art. 12.º A direcção do Instituto será exercida pelo director, coadjuvado por um adjunto do director e assistido por um conselho técnico.
+Art. 12.º A direcção do Instituto será exercida pelo director, coadjuvado por um adjunto do director e assistido por um conselho técnico.
 
 § único. O adjunto do director será um dos membros do pessoal técnico superior, escolhido entre os de maior categoria existentes no Instituto, sob proposta do director, ouvido o conselho técnico e com o assentimento do Ministro do Ultramar.
 
 #### SECÇÃO III — Do conselho técnico
 
-###### Art. 13.º O conselho técnico funcionará sob a presidência do director e será constituído pelo adjunto do director, pelos chefes de departamento e pelos chefes dos serviços regionais. Estes últimos serão chamados a intervir apenas quando a importância do assunto a discutir o justifique.
+Art. 13.º O conselho técnico funcionará sob a presidência do director e será constituído pelo adjunto do director, pelos chefes de departamento e pelos chefes dos serviços regionais. Estes últimos serão chamados a intervir apenas quando a importância do assunto a discutir o justifique.
 
 § 1.º Poderão tomar parte nas reuniões outros elementos do pessoal técnico do Instituto, sempre que o director o julgue conveniente, mas sem direito a voto.
 
 § 2.º Secretariará, sem voto, um funcionário designado pelo director.
 
-###### Art. 14.º Ao conselho técnico compete dar parecer sobre:
+Art. 14.º Ao conselho técnico compete dar parecer sobre:
 
 1.º A preparação e aperfeiçoamento do pessoal técnico superior e auxiliar;
 
@@ -228,7 +240,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § 2.º No caso de divergência de pontos de vista, o assunto será apresentado, em forma de parecer, para superior resolução.
 
-###### Art. 15.º As reuniões do conselho técnico realizar-se-ão normalmente na 1.ª quinzena do trimestre e da sua comunicação, que será feita com a antecedência julgada indispensável, deverá constar a agenda dos assuntos a tratar.
+Art. 15.º As reuniões do conselho técnico realizar-se-ão normalmente na 1.ª quinzena do trimestre e da sua comunicação, que será feita com a antecedência julgada indispensável, deverá constar a agenda dos assuntos a tratar.
 
 § 1.º O conselho técnico poderá reunir extraordinàriamente sempre que o director o convoque.
 
@@ -238,11 +250,11 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 #### SECÇÃO IV — Do conselho administrativo
 
-###### Art. 16.º Funcionará no Instituto um conselho administrativo, constituído pelo director, pelo adjunto do director, por um dos chefes de departamento, designado anualmente pelo Governo-Geral, sob proposta do director, e pelo adjunto administrativo ou quem suas vezes fizer. O secretário do conselho será escolhido anualmente pelo director entre os funcionários do Instituto.
+Art. 16.º Funcionará no Instituto um conselho administrativo, constituído pelo director, pelo adjunto do director, por um dos chefes de departamento, designado anualmente pelo Governo-Geral, sob proposta do director, e pelo adjunto administrativo ou quem suas vezes fizer. O secretário do conselho será escolhido anualmente pelo director entre os funcionários do Instituto.
 
 § único. O conselho administrativo reunirá quinzenalmente e extraordinàriamente sempre que a urgência dos assuntos o reclame.
 
-###### Art. 17.º Ao conselho administrativo incumbe:
+Art. 17.º Ao conselho administrativo incumbe:
 
 1.º Elaborar o orçamento do Instituto, que será aprovado pelo governador-geral, ouvidos os serviços de Fazenda e contabilidade da província;
 
@@ -256,7 +268,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 6.º Prestar as contas da sua gerência ao Tribunal Administrativo da província, nos termos legais.
 
-###### Art. 18.º Ao presidente do conselho administrativo compete:
+Art. 18.º Ao presidente do conselho administrativo compete:
 
 1.º Convocar extraordinàriamente as reuniões do conselho quando o julgue necessário ou conveniente;
 
@@ -264,11 +276,11 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 3.º Executar ou mandar executar as deliberações do conselho administrativo em matéria de administração dos dinheiros do Instituto.
 
-###### Art. 19.º O funcionário responsável pelo cofre poderá ter em caixa a importância em numerário considerada indispensável para ocorrer ao pagamento de pequenas despesas de carácter urgente, da qual prestará contas directamente ao conselho administrativo.
+Art. 19.º O funcionário responsável pelo cofre poderá ter em caixa a importância em numerário considerada indispensável para ocorrer ao pagamento de pequenas despesas de carácter urgente, da qual prestará contas directamente ao conselho administrativo.
 
 § único. A importância a que se refere o corpo do artigo será fixada pelo conselho administrativo.
 
-###### Art. 20.º As importâncias recebidas do Estado ou de outras proveniências são obrigatòriamente depositadas no banco emissor da província, no prazo máximo de quinze dias.
+Art. 20.º As importâncias recebidas do Estado ou de outras proveniências são obrigatòriamente depositadas no banco emissor da província, no prazo máximo de quinze dias.
 
 § 1.º Os depósitos no banco serão sempre feitos em nome do Instituto.
 
@@ -276,7 +288,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 #### SECÇÃO V — Do Centro de Documentação Veterinária
 
-###### Art. 21.º O Instituto terá um Centro de Documentação Veterinária.
+Art. 21.º O Instituto terá um Centro de Documentação Veterinária.
 
 § 1.º O objectivo fundamental do Centro de Documentação Veterinária é o de funcionar como núcleo colector, selector, informador, orientador e difusor dos variados documentos de trabalho úteis para a actividade quer do pessoal do Instituto, quer dos serviços de veterinária ou de outras entidades, públicas ou privadas, que deles necessitem.
 
@@ -286,7 +298,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 #### SECÇÃO VI — Do património
 
-###### Art. 22.º Constituem receitas do Instituto:
+Art. 22.º Constituem receitas do Instituto:
 
 1.º A dotação que anualmente lhe for atribuída no orçamento geral da província;
 
@@ -304,7 +316,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § único. O Instituto poderá ceder aos serviços de veterinária da província, gratuitamente ou nas condições especiais que forem acordadas e aprovadas pelo Governo-Geral, a produção dos seus estabelecimentos necessária aos programas de assistência e de fomento a levar a cabo por aqueles serviços.
 
-###### Art. 23.º O Instituto pode adquirir, a título gratuito, quaisquer bens, mas, se sobre os mesmos impenderem quaisquer ónus ou restrições, a aceitação dependerá de despacho do Governo Geral, sobre proposta do conselho administrativo do Instituto.
+Art. 23.º O Instituto pode adquirir, a título gratuito, quaisquer bens, mas, se sobre os mesmos impenderem quaisquer ónus ou restrições, a aceitação dependerá de despacho do Governo Geral, sobre proposta do conselho administrativo do Instituto.
 
 § 1.º Quando aceites os bens doados ou legados ao Instituto, com indicação expressa dos seus fins, terão o destino determinado pelo doador ou testador.
 
@@ -312,7 +324,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § 3.º As aquisições referidas no corpo do artigo serão isentas de encargos fiscais.
 
-###### Art. 24.º As aquisições de imóveis e as obras de construção, de adaptação, remodelação e grandes reparações devem ser autorizadas pelo Governo-Geral da província, sobre proposta do conselho administrativo do Instituto, precedendo parecer e estudo dos serviços técnicos competentes, devendo observar-se as normas legais vigentes para obras da mesma natureza.
+Art. 24.º As aquisições de imóveis e as obras de construção, de adaptação, remodelação e grandes reparações devem ser autorizadas pelo Governo-Geral da província, sobre proposta do conselho administrativo do Instituto, precedendo parecer e estudo dos serviços técnicos competentes, devendo observar-se as normas legais vigentes para obras da mesma natureza.
 
 § 1.º O Instituto poderá efectuar reparações de conservação de carácter urgente nos edifícios de que for proprietário ou que lhe tenham sido concedidos para sua utilização, até ao montante a fixar por despacho do Governo-Geral.
 
@@ -322,7 +334,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 #### SECÇÃO I — Do pessoal
 
-###### Art. 25.º As categorias do pessoal, seus vencimentos e outras remunerações são as que constam dos mapas anexos a este diploma.
+Art. 25.º As categorias do pessoal, seus vencimentos e outras remunerações são as que constam dos mapas anexos a este diploma.
 
 § 1.º Pertence ao quadro comum do ultramar todo o pessoal descrito nos mapas a que se refere o corpo do artigo até à categoria designada pela letra H, inclusive. O restante pessoal pertence ao quadro privativo.
 
@@ -336,7 +348,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § 6.º As gratificações mensais a abonar a algumas categorias de funcionário do Instituto constam do mapa V anexo a este diploma.
 
-###### Art. 26.º Além do pessoal técnico superior e técnico auxiliar privativo do Instituto previsto neste diploma, poderá ser solicitada ou admitida a colaboração de cientistas, técnicos e auxiliares nacionais ou estrangeiros.
+Art. 26.º Além do pessoal técnico superior e técnico auxiliar privativo do Instituto previsto neste diploma, poderá ser solicitada ou admitida a colaboração de cientistas, técnicos e auxiliares nacionais ou estrangeiros.
 
 § 1.º A direcção do Instituto poderá também acordar com outros serviços da província ou com outros organismos interessados a realização de estágios para veterinários ou outros diplomados para procederem a estudos dentro das suas habilitações, segundo planos prèviamente fixados.
 
@@ -346,7 +358,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 ##### SUBSECÇÃO I — Do director
 
-###### Art. 27.º Ao director compete:
+Art. 27.º Ao director compete:
 
 1.º Imprimir orientação científica e coordenar e fiscalizar os trabalhos do Instituto, em termos de serem realizado os seus objectivos;
 
@@ -386,7 +398,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 ##### SUBSECÇÃO II — Do adjunto do director
 
-###### Art. 28.º Ao adjunto do director compete:
+Art. 28.º Ao adjunto do director compete:
 
 1.º Substituir o director nas suas faltas e impedimento e desempenhar, sob a sua orientação, as funções que por este lhe forem delegadas;
 
@@ -398,13 +410,13 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 ##### SUBSECÇÃO III — Do pessoal técnico superior
 
-###### Art. 29.º Ao pessoal técnico superior incumbe dirigir, fiscalizar ou executar as tarefas que lhe forem distribuídas, segundo os departamentos a que esteja adstrito, por forma a dar maior eficiência ao serviço do Instituto e a prestigiá-lo em todas as circunstâncias.
+Art. 29.º Ao pessoal técnico superior incumbe dirigir, fiscalizar ou executar as tarefas que lhe forem distribuídas, segundo os departamentos a que esteja adstrito, por forma a dar maior eficiência ao serviço do Instituto e a prestigiá-lo em todas as circunstâncias.
 
-###### Art. 30.º O pessoal técnico superior do Instituto pode ser chamado a reger cursos especiais, ou a dar a sua colaboração aos mesmos cursos, ou a estagiar, mediante proposta do director.
+Art. 30.º O pessoal técnico superior do Instituto pode ser chamado a reger cursos especiais, ou a dar a sua colaboração aos mesmos cursos, ou a estagiar, mediante proposta do director.
 
 § único. Para o cumprimento do disposto neste artigo será estabelecido o programa dos trabalhos a realizar e fixada a sua duração.
 
-###### Art. 31.º Aos chefes de departamento compete:
+Art. 31.º Aos chefes de departamento compete:
 
 1.º Coordenar a actividade das várias divisões e secções do departamento a seu cargo;
 
@@ -420,7 +432,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 7.º Prestar informações ao conselho técnico sobre os problemas do seu departamento, do andamento dos trabalhos de cada uma das divisões e secções e dos resultados especializados em curso nos centros de estudos regionais.
 
-###### Art. 32.º Aos chefes de serviço regional compete:
+Art. 32.º Aos chefes de serviço regional compete:
 
 1.º Coordenar a actividade dos vários centros de estudo dos respectivos serviços;
 
@@ -434,11 +446,11 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 ##### SUBSECÇÃO IV — Do pessoal técnico auxiliar
 
-###### Art. 33.º Ao pessoal técnico auxiliar compete, de uma forma geral, cooperar com o pessoal técnico superior, segundo as tarefas que lhe forem distribuídas nos termos deste diploma ou por determinação do director.
+Art. 33.º Ao pessoal técnico auxiliar compete, de uma forma geral, cooperar com o pessoal técnico superior, segundo as tarefas que lhe forem distribuídas nos termos deste diploma ou por determinação do director.
 
 ##### SUBSECÇÃO V — Do pessoal administrativo
 
-###### Art. 34.º Ao adjunto administrativo compete:
+Art. 34.º Ao adjunto administrativo compete:
 
 1.º Assegurar, no aspecto administrativo, o funcionamento do Instituto;
 
@@ -450,15 +462,15 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 5.º Prestar informações ao conselho administrativo sobre os problemas que devam ser-lhe presentes.
 
-###### Art. 35.º Ao pessoal de secretaria compete elaborar e manter em dia todo o expediente relativo às secções de pessoal, expediente geral e arquivo e secções administrativas dos serviços regionais.
+Art. 35.º Ao pessoal de secretaria compete elaborar e manter em dia todo o expediente relativo às secções de pessoal, expediente geral e arquivo e secções administrativas dos serviços regionais.
 
-###### Art. 36.º Ao pessoal de contabilidade compete elaborar e manter em dia todo o expediente relativo às secções de contabilidade e tesouraria.
+Art. 36.º Ao pessoal de contabilidade compete elaborar e manter em dia todo o expediente relativo às secções de contabilidade e tesouraria.
 
-###### Art. 37.º Ao pessoal do património compete elaborar e manter em dia todo o expediente e serviço das secções de armazéns e das embalagens e expedição, e bem assim elaborar e assegurar a perfeita ordem do cadastro dos bens do Instituto, velando pela conservação e pela defesa dos mesmos bens.
+Art. 37.º Ao pessoal do património compete elaborar e manter em dia todo o expediente e serviço das secções de armazéns e das embalagens e expedição, e bem assim elaborar e assegurar a perfeita ordem do cadastro dos bens do Instituto, velando pela conservação e pela defesa dos mesmos bens.
 
 ##### SUBSECÇÃO VI — Do pessoal artífice e motorista
 
-###### Art. 38.º Ao encarregado de oficinas compete:
+Art. 38.º Ao encarregado de oficinas compete:
 
 1.º Dirigir e coordenar as actividades das oficinas, ficando sob sua directa responsabilidade a execução dos trabalhos relativos à reparação e fabrico de material científico;
 
@@ -472,7 +484,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 ##### SUBSECÇÃO VII — Do pessoal colaborador
 
-###### Art. 39.º O pessoal colaborador é constituído pelos técnicos de nível universitário, nacionais ou estrangeiros, chamados a prestar serviços no Instituto e cujo curriculum seja de molde a assegurar a actividade e a eficiência de tais serviços. Considera-se igualmente pessoal colaborador os estagiários a que se refere o § 1.º do artigo 26.º
+Art. 39.º O pessoal colaborador é constituído pelos técnicos de nível universitário, nacionais ou estrangeiros, chamados a prestar serviços no Instituto e cujo curriculum seja de molde a assegurar a actividade e a eficiência de tais serviços. Considera-se igualmente pessoal colaborador os estagiários a que se refere o § 1.º do artigo 26.º
 
 § único. Compete ao pessoal colaborador:
 
@@ -486,11 +498,11 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 ##### SUBSECÇÃO I — Do director
 
-###### Art. 40.º Para director do Instituto será nomeado pelo Ministro do Ultramar, sob proposta do Governo-Geral da província, um médico veterinário que se tenha distinguido por trabalhos realizados no ultramar, em especial na investigação científica. O preenchimento do lugar far-se-á em comissão de serviço, na forma da lei.
+Art. 40.º Para director do Instituto será nomeado pelo Ministro do Ultramar, sob proposta do Governo-Geral da província, um médico veterinário que se tenha distinguido por trabalhos realizados no ultramar, em especial na investigação científica. O preenchimento do lugar far-se-á em comissão de serviço, na forma da lei.
 
 ##### SUBSECÇÃO II — Do pessoal técnico superior
 
-###### Art. 41.º Podem ser contratados como segundos-assistentes os diplomados com curso superior que, pela apreciação do relatório final do curso ou das informações colhidas, se revelem susceptíveis de iniciar uma carreira científica.
+Art. 41.º Podem ser contratados como segundos-assistentes os diplomados com curso superior que, pela apreciação do relatório final do curso ou das informações colhidas, se revelem susceptíveis de iniciar uma carreira científica.
 
 § 1.º Os indivíduos que satisfaçam a estas condições desempenharão funções durante o período de um ano, não renovável, na situação de segundo-assistente estagiário;
 
@@ -498,7 +510,7 @@ c) Promover, em colaboração com os serviços de veterinária, o intercâmbio c
 
 § 3.º Poderá o conselho técnico dispensar do estágio referido no corpo do artigo os diplomados com curso superior e o mínimo de dois anos de prática profissional comprovada e boas informações.
 
-###### Art. 42.º Podem ser contratados como primeiros-assistentes:
+Art. 42.º Podem ser contratados como primeiros-assistentes:
 
 a) Os segundos-assistentes do Instituto de Investigação Veterinária de Moçambique que sejam aprovados em concurso, observando-se as seguintes condições:
 
@@ -514,7 +526,7 @@ c) Os licenciados com, pelo menos, cinco anos de prática profissional comprovad
 
 d) Os doutores por uma Universidade portuguesa ou estrangeira.
 
-###### Art. 43.º Podem ser contratados como investigadores:
+Art. 43.º Podem ser contratados como investigadores:
 
 a) Os primeiros-assistentes do Instituto de Investigação Veterinária de Moçambique que sejam aprovados em concurso, cujo programa deverá ser elaborado pelo conselho técnico, apreciado por um júri proposto pelo mesmo conselho e observadas as seguintes regras:
 
@@ -532,9 +544,9 @@ d) Os professores das Universidades ou outros estabelecimentos de ensino superio
 
 ##### SUBSECÇÃO III — Do pessoal técnico auxiliar
 
-###### Art. 44.º Podem ser contratados como auxiliares de veterinária de 3.ª classe os indivíduos habilitados com a 4.ª classe do ensino primário.
+Art. 44.º Podem ser contratados como auxiliares de veterinária de 3.ª classe os indivíduos habilitados com a 4.ª classe do ensino primário.
 
-###### Art. 45.º Podem ser contratados como auxiliares de veterinária de 2.ª classe:
+Art. 45.º Podem ser contratados como auxiliares de veterinária de 2.ª classe:
 
 a) Os auxiliares de veterinária de 3.ª classe do Instituto com mais de cinco anos de bom e efectivo serviço na categoria;
 
@@ -544,13 +556,13 @@ c) Os indivíduos habilitados com o 1.º ciclo liceal;
 
 d) Os indivíduos com outras habilitações secundárias de nível equivalente ao 1.º ciclo liceal e cujos programas contenham matérias que permitam o desempenho de funções técnicas ligadas aos trabalhos do Instituto.
 
-###### Art. 46.º Podem ser contratados como auxiliares de veterinária de 1.ª classe:
+Art. 46.º Podem ser contratados como auxiliares de veterinária de 1.ª classe:
 
 a) Os auxiliares de veterinária de 2.ª classe do Instituto de Investigação Veterinária com três anos de bom e efectivo serviço na categoria;
 
 b) Os indivíduos que satisfaçam às condições do artigo anterior e com o mínimo de cinco anos de actividade profissional com boas informações.
 
-###### Art. 47.º Podem ser contratados como auxiliares técnicos de 3.ª classe:
+Art. 47.º Podem ser contratados como auxiliares técnicos de 3.ª classe:
 
 a) Os indivíduos habilitados com os cursos das escolas práticas de agricultura;
 
@@ -560,7 +572,7 @@ c) Os indivíduos habilitados com o 2.º ciclo dos liceus;
 
 d) Os indivíduos habilitados com outros cursos secundários de nível equivalente ao 2.º ciclo dos liceus e cujos programas contenham matérias que permitam o desempenho de funções técnicas ligadas aos trabalhos do Instituto.
 
-###### Art. 48.º Podem ser contratados como auxiliares técnicos de 2.ª classe:
+Art. 48.º Podem ser contratados como auxiliares técnicos de 2.ª classe:
 
 a) Os auxiliares técnicos de 3.ª classe do Instituto com o mínimo de dois anos de bons serviços na categoria que tenham frequentado, com aproveitamento, um dos cursos elementares de aperfeiçoamento organizados pelo Instituto;
 
@@ -570,7 +582,7 @@ c) Os indivíduos habilitados com o curso complementar dos liceus das alíneas d
 
 d) Os indivíduos habilitados com os cursos de especialização das escolas industriais ou com os cursos de mestrança das mesmas escolas.
 
-###### Art. 49.º Podem ser contratados como auxiliares técnicos de 1.ª classe:
+Art. 49.º Podem ser contratados como auxiliares técnicos de 1.ª classe:
 
 a) Os auxiliares de 2.ª classe do Instituto com o mínimo de dois anos de bons serviços na categoria;
 
@@ -580,7 +592,7 @@ c) Os indivíduos com as habilitações indicadas nas alíneas c) e d) do artigo
 
 d) Com parecer favorável do conselho técnico, os peritos profissionais de excepcional competência com o mínimo de dois anos de actividade profissional com boas informações.
 
-###### Art. 50.º Podem ser contratados como assistentes técnicos de 3.ª classe:
+Art. 50.º Podem ser contratados como assistentes técnicos de 3.ª classe:
 
 a) Os auxiliares técnicos de 1.ª classe do Instituto com o mínimo de três anos de bons serviços na categoria que tenham frequentado, com aproveitamento, qualquer dos cursos especiais de aperfeiçoamento organizados pelo Instituto;
 
@@ -592,7 +604,7 @@ d) Os indivíduos que possuam as condições de admissão para auxiliares técni
 
 e) Os indivíduos habilitados com outros cursos de nível idêntico aos dos cursos citados nas alíneas anteriores, cujos programas contenham matérias que permitam o desempenho de funções técnicas ligadas aos trabalhos do Instituto.
 
-###### Art. 51.º Poderão ser contratados como assistentes técnicos de 2.ª classe:
+Art. 51.º Poderão ser contratados como assistentes técnicos de 2.ª classe:
 
 a) Os assistentes técnicos de 3.ª classe do Instituto, com o mínimo de dois anos de bons serviços nessa categoria;
 
@@ -600,7 +612,7 @@ b) Os regentes agrícolas habilitados com qualquer especialização ou com três
 
 c) Os indivíduos que satisfaçam as condições exigidas no artigo anterior e com um mínimo de quatro anos de actividade profissional com boas informações.
 
-###### Art. 52.º Poderão ser contratados como assistentes técnicos de 1.ª classe:
+Art. 52.º Poderão ser contratados como assistentes técnicos de 1.ª classe:
 
 a) Os assistentes técnicos de 2.ª classe do Instituto com o mínimo de dois anos de bons serviços nessa categoria;
 
@@ -612,23 +624,23 @@ d) Com parecer favorável do conselho técnico, os mecânicos de aparelhos cient
 
 ##### SUBSECÇÃO IV — Do pessoal administrativo
 
-###### Art. 53.º Para o lugar de adjunto administrativo deverá ser contratado indivíduo que possua uma licenciatura apropriada ao exercício da função.
+Art. 53.º Para o lugar de adjunto administrativo deverá ser contratado indivíduo que possua uma licenciatura apropriada ao exercício da função.
 
-###### Art. 54.º A admissão e acesso do restante pessoal administrativo e do pessoal menor serão subordinados ao preceituado no Estatuto do Funcionalismo Ultramarino.
+Art. 54.º A admissão e acesso do restante pessoal administrativo e do pessoal menor serão subordinados ao preceituado no Estatuto do Funcionalismo Ultramarino.
 
 ##### SUBSECÇÃO V — Do pessoal artífice e motorista
 
-###### Art. 55.º Podem ser contratados como operário de 3.ª classe:
+Art. 55.º Podem ser contratados como operário de 3.ª classe:
 
 a) Os indivíduos habilitados com a 4.ª classe do ensino primário que tenham revelado competência profissional na situação de assalariados nesta categoria durante um período superior a dois anos;
 
 b) Os indivíduos que tenham revelado competência profissional em organizações particulares, há mais de cinco anos, com boas informações.
 
-###### Art. 56.º Podem ser contratados como operário de 2.ª classe os operários de 3.ª classe do Instituto com mais de dois anos de serviço nessa categoria e boas informações.
+Art. 56.º Podem ser contratados como operário de 2.ª classe os operários de 3.ª classe do Instituto com mais de dois anos de serviço nessa categoria e boas informações.
 
-###### Art. 57.º Podem ser contratados como operário de 1.ª classe os operários de 2.ª classe do Instituto com mais de três anos de serviço nessa categoria e boas informações.
+Art. 57.º Podem ser contratados como operário de 1.ª classe os operários de 2.ª classe do Instituto com mais de três anos de serviço nessa categoria e boas informações.
 
-###### Art. 58.º Podem ser contratados como encarregados de oficinas:
+Art. 58.º Podem ser contratados como encarregados de oficinas:
 
 a) Os operários de 1.ª classe do Instituto com mais de cinco anos de serviço nessa categoria e boas informações;
 
@@ -636,29 +648,29 @@ b) Os indivíduos diplomados pelas escolas industriais com, pelo menos, três an
 
 c) Os mecânicos que tenham dado provas da sua competência em organizações particulares, pelo menos durante dez anos.
 
-###### Art. 59.º A admissão e acesso do restante pessoal artífice e motorista serão subordinados ao preceituado no Estatuto do Funcionalismo Ultramarino.
+Art. 59.º A admissão e acesso do restante pessoal artífice e motorista serão subordinados ao preceituado no Estatuto do Funcionalismo Ultramarino.
 
 ##### SUBSECÇÃO VI — Do pessoal de campo
 
-###### Art. 60.º O pessoal de campo e outro que desempenhar funções semelhantes será assalariado segundo o preceituado no Estatuto do Funcionalismo Ultramarino.
+Art. 60.º O pessoal de campo e outro que desempenhar funções semelhantes será assalariado segundo o preceituado no Estatuto do Funcionalismo Ultramarino.
 
 ### CAPÍTULO IV — Disposições gerais
 
-###### Art. 61.º São isentos de direitos e outras imposições aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, biológicos e farmacêuticos, material de acampamento e quaisquer outros materiais ou artigos que o Instituto importar e que se destinem aos seus serviços e aos trabalhos que deverá executar.
+Art. 61.º São isentos de direitos e outras imposições aduaneiras os aparelhos, instrumentos, utensílios de laboratório, produtos químicos, biológicos e farmacêuticos, material de acampamento e quaisquer outros materiais ou artigos que o Instituto importar e que se destinem aos seus serviços e aos trabalhos que deverá executar.
 
-###### Art. 62.º As ajudas de custo, abono de família, subsídios de campo e para renda de casa e outras remunerações do pessoal do Instituto são as atribuídas aos funcionários da província de igual categoria.
+Art. 62.º As ajudas de custo, abono de família, subsídios de campo e para renda de casa e outras remunerações do pessoal do Instituto são as atribuídas aos funcionários da província de igual categoria.
 
-###### Art. 63.º É vedado ao pessoal do Instituto o exercício de qualquer outra actividade profissional particular, remunerada ou não.
+Art. 63.º É vedado ao pessoal do Instituto o exercício de qualquer outra actividade profissional particular, remunerada ou não.
 
 § único. O pessoal técnico do Instituto poderá colaborar no ensino, mediante parecer favorável do conselho técnico e autorização do Governo-Geral.
 
 ### CAPÍTULO V — Disposições transitórias
 
-###### Art. 64.º Serão extintos o Laboratório Central de Patologia Veterinária de Lourenço Marques, o Laboratório Regional da Beira, a Estação Zootécnica Central, os Postos Zootécnicos de Inhamússua e da Angónia e o Posto de Fomento Avícola.
+Art. 64.º Serão extintos o Laboratório Central de Patologia Veterinária de Lourenço Marques, o Laboratório Regional da Beira, a Estação Zootécnica Central, os Postos Zootécnicos de Inhamússua e da Angónia e o Posto de Fomento Avícola.
 
 § único. O património dos organismos e serviços a que se refere o corpo do artigo, incluindo todos os imóveis, móveis e semoventes, material de laboratório e outro, ferramentas, maquinaria agrícola e industrial, bibliografia e documentação especializada e ainda viaturas, com ou sem motor, transitarão para o património do Instituto mediante termo de entrega devidamente discriminado.
 
-###### Art. 65.º Transitará para os quadros do pessoal do Instituto o pessoal técnico superior, técnico auxiliar, administrativo, de campo, de oficinas e motorista dos organismos e serviços a que se refere o artigo anterior, respeitando-se, tanto quanto possível, a categoria que actualmente possui.
+Art. 65.º Transitará para os quadros do pessoal do Instituto o pessoal técnico superior, técnico auxiliar, administrativo, de campo, de oficinas e motorista dos organismos e serviços a que se refere o artigo anterior, respeitando-se, tanto quanto possível, a categoria que actualmente possui.
 
 § 1.º A transição do pessoal do quadro comum ou equiparado far-se-á mediante relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo.
 
@@ -668,23 +680,23 @@ c) Os mecânicos que tenham dado provas da sua competência em organizações pa
 
 § 4.º Se da transição a que se refere o corpo do artigo resultar, para alguns agentes, diminuição de vencimentos ou de outros direitos, os mesmos agentes manterão, enquanto permanecerem na categoria para que transitarem, os seus actuais vencimentos e outras regalias inerentes.
 
-###### Art. 66.º O Ministro do Ultramar ou o governador-geral de Moçambique, consoante se tratar dos quadros-comuns ou dos quadros privativos ou equiparados, poderão admitir para os cargos constantes dos mapas anexos funcionários pertencentes aos serviços públicos ou a outros institutos da província, desde que satisfaçam às condições previstas neste diploma.
+Art. 66.º O Ministro do Ultramar ou o governador-geral de Moçambique, consoante se tratar dos quadros-comuns ou dos quadros privativos ou equiparados, poderão admitir para os cargos constantes dos mapas anexos funcionários pertencentes aos serviços públicos ou a outros institutos da província, desde que satisfaçam às condições previstas neste diploma.
 
 § único. No caso de o pessoal do quadro comum a que se refere o corpo do artigo estar provido mediante nomeação, poderá prestar serviço no Instituto em regime de comissão ordinária, nos termos da lei.
 
-###### Art. 67.º Todo o pessoal técnico superior que transitar para o Instituto ao abrigo do presente diploma poderá habilitar-se à categoria imediata, segundo as normas gerais estabelecidas nos artigos 42.º e 43.º, ao fim do prazo de seis meses.
+Art. 67.º Todo o pessoal técnico superior que transitar para o Instituto ao abrigo do presente diploma poderá habilitar-se à categoria imediata, segundo as normas gerais estabelecidas nos artigos 42.º e 43.º, ao fim do prazo de seis meses.
 
-###### Art. 68.º Todo o pessoal administrativo que transitar para o Instituto ao abrigo do presente diploma poderá habilitar-se á categoria superior, segundo as normas estabelecidas no Estatuto do Funcionalismo Ultramarino, nos primeiros concursos que forem abertos para o efeito.
+Art. 68.º Todo o pessoal administrativo que transitar para o Instituto ao abrigo do presente diploma poderá habilitar-se á categoria superior, segundo as normas estabelecidas no Estatuto do Funcionalismo Ultramarino, nos primeiros concursos que forem abertos para o efeito.
 
-###### Art. 69.º Ficam revogadas as disposições legais que no [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 15 de Novembro de 1957, e na [Portaria n.º 12001](https://diariodarepublica.pt/dr/detalhe/portaria/12001-1947-183669), de 30 de Dezembro de 1961, dizem respeito à orgânica e às funções dos sectores dos serviços de veterinária que, por força do presente diploma, transitam para o Instituto de Investigação Veterinária de Moçambique.
+Art. 69.º Ficam revogadas as disposições legais que no [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 15 de Novembro de 1957, e na [Portaria n.º 12001](https://diariodarepublica.pt/dr/detalhe/portaria/12001-1947-183669), de 30 de Dezembro de 1961, dizem respeito à orgânica e às funções dos sectores dos serviços de veterinária que, por força do presente diploma, transitam para o Instituto de Investigação Veterinária de Moçambique.
 
-###### Art. 70.º O regulamento do Instituto será aprovado por portaria do Governo-Geral de Moçambique.
+Art. 70.º O regulamento do Instituto será aprovado por portaria do Governo-Geral de Moçambique.
 
-###### Art. 71.º Fica o Governo-Geral de Moçambique autorizado a tomar as providências necessárias para a execução do presente diploma, das quais não poderá resultar qualquer aumento de encargos financeiros. Transitarão para o Instituto de Investigação Veterinária, por iguais montantes, as dotações até agora atribuídas aos organismos e serviços referidos no artigo 64.º
+Art. 71.º Fica o Governo-Geral de Moçambique autorizado a tomar as providências necessárias para a execução do presente diploma, das quais não poderá resultar qualquer aumento de encargos financeiros. Transitarão para o Instituto de Investigação Veterinária, por iguais montantes, as dotações até agora atribuídas aos organismos e serviços referidos no artigo 64.º
 
-###### Art. 72.º Este diploma entra em vigor no dia 1 de Março de 1966.
+Art. 72.º Este diploma entra em vigor no dia 1 de Março de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -694,30 +706,30 @@ MAPA I
 
 Pessoal técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf))](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
 
 MAPA II
 
 Pessoal técnico auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf))](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
 
 MAPA III
 
 Pessoal administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf))](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
 
 MAPA IV
 
 Pessoal artífice e motorista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf))](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
 
 MAPA V
 
 Gratificações mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf))](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/01800/00800088.pdf)
 
 Ministério do Ultramar, 22 de Janeiro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/09400/06120614.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46318-1965-236695
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3094293ba34b383684df1ad32d93f5ec1c6b49a738c39008776ea6ce4996f3ac
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: dcfb77bdc51ec01fb749a8f1f94652fec704474662f41ed6f2b8fee6e9426e39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Atividade Industrial
+- Indústria da Madeira
+- Produto em Madeira
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:166599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:217898:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:00Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +121,9 @@ Nestes termos, ouvida a Corporação da Indústria e a direcção do Grémio rep
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Exercício da Indústria de Serração de Madeiras, anexo a este decreto, que vai assinado pelo Secretário de Estado da Indústria.
+Artigo único. É aprovado o Regulamento do Exercício da Indústria de Serração de Madeiras, anexo a este decreto, que vai assinado pelo Secretário de Estado da Indústria.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Rafael Amaro da Costa.
 
@@ -106,15 +131,15 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE SERRAÇÃO DE MADEIRAS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O exercício da indústria de serração de madeiras fica sujeito às prescrições do presente regulamento, com a observância do disposto no artigo 24.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, e no Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, publicado no Diário do Governo n.º 181, 1.ª série, de 2 de Setembro do mesmo ano.
+Artigo 1.º O exercício da indústria de serração de madeiras fica sujeito às prescrições do presente regulamento, com a observância do disposto no artigo 24.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898), de 5 de Maio de 1954, e no Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, aprovado pelo [Decreto n.º 8364](https://diariodarepublica.pt/dr/detalhe/decreto/8364-1922-166599), de 25 de Agosto de 1922, publicado no Diário do Governo n.º 181, 1.ª série, de 2 de Setembro do mesmo ano.
 
-###### Art. 2.º Para efeitos do disposto neste regulamento, considera-se estabelecimento de serração de madeiras aquele que, recebendo madeira em rolo ou pranchão, a transforme por serragem mecânica em madeira destinada a construção, embalagem ou qualquer outro fim.
+Art. 2.º Para efeitos do disposto neste regulamento, considera-se estabelecimento de serração de madeiras aquele que, recebendo madeira em rolo ou pranchão, a transforme por serragem mecânica em madeira destinada a construção, embalagem ou qualquer outro fim.
 
 ### CAPÍTULO II — Condições de exploração
 
 #### SECÇÃO I — Estabelecimentos novos, transferidos, reabertos ou que sejam objecto de transmissão do direito de propriedade ou de exploração
 
-###### Art. 3.º Os novos estabelecimentos de serração de madeiras, os que forem transferidos de local, os que forem reabertos depois de a sua laboração ter estado suspensa por período superior a dois anos e aqueles cujo direito de propriedade ou de exploração total ou parcial for transmitido por qualquer facto que não seja a sucessão por morte e exceptuada a transmissão a qualquer título entre cônjuges, irmãos ou parentes por consanguinidade em linha recta deverão obedecer às seguintes disposições:
+Art. 3.º Os novos estabelecimentos de serração de madeiras, os que forem transferidos de local, os que forem reabertos depois de a sua laboração ter estado suspensa por período superior a dois anos e aqueles cujo direito de propriedade ou de exploração total ou parcial for transmitido por qualquer facto que não seja a sucessão por morte e exceptuada a transmissão a qualquer título entre cônjuges, irmãos ou parentes por consanguinidade em linha recta deverão obedecer às seguintes disposições:
 
 1.º Ter, pelo menos, as seguintes secções devidamente diferenciadas:
 
@@ -148,13 +173,13 @@ e) Uma estufa com a capacidade mínima de 20 m3.
 
 #### SECÇÃO II — Estabelecimentos existentes
 
-###### Art. 4.º Sem prejuízo do estabelecido no artigo anterior, os estabelecimentos de serração de madeiras existentes à data da publicação deste regulamento poderão funcionar com as secções e o equipamento que possuírem.
+Art. 4.º Sem prejuízo do estabelecido no artigo anterior, os estabelecimentos de serração de madeiras existentes à data da publicação deste regulamento poderão funcionar com as secções e o equipamento que possuírem.
 
 § único. Só são considerados abrangidos pelo disposto no corpo deste artigo os estabelecimentos com alvará ou os que, existindo de facto, correspondam a processos em curso na respectiva circunscrição industrial com início em data anterior à da publicação do presente regulamento.
 
 ### CAPÍTULO III — Agrupamentos
 
-###### Art. 5.º Para os efeitos do presente diploma, designa-se por agrupamento de estabelecimentos de serração de madeiras a constituição, em cada concelho do continente e ilhas adjacentes, de sociedade que incorpore, por fusão, mais de metade dos estabelecimentos existentes no respectivo domínio territorial concelhio exercendo a indústria de serração de madeiras, com o fim de, sem mudança de concelho, os concentrar em número máximo de cinco estabelecimentos, novos ou escolhidos entre os existentes, e obedecendo integralmente às disposições do presente diploma.
+Art. 5.º Para os efeitos do presente diploma, designa-se por agrupamento de estabelecimentos de serração de madeiras a constituição, em cada concelho do continente e ilhas adjacentes, de sociedade que incorpore, por fusão, mais de metade dos estabelecimentos existentes no respectivo domínio territorial concelhio exercendo a indústria de serração de madeiras, com o fim de, sem mudança de concelho, os concentrar em número máximo de cinco estabelecimentos, novos ou escolhidos entre os existentes, e obedecendo integralmente às disposições do presente diploma.
 
 § 1.º O agrupamento será requerido ao director-geral dos Serviços Industriais.
 
@@ -164,13 +189,13 @@ e) Uma estufa com a capacidade mínima de 20 m3.
 
 § 4.º O prazo máximo consentido para o cumprimento integral do programa da concentração em cada concelho é de cinco anos, a contar da data do pedido a que se refere o § 1.º
 
-###### Art. 6.º Deferido o pedido de agrupamento, a instalação de novos estabelecimentos de serração de madeiras, a transferência dos existentes para outro local e a reabertura dos que tenham suspendido a laboração por período superior a dois anos só poderão ser consentidas em locais que se situem a distância superior a 15 km, medida em linha recta, do local de todos os estabelecimentos, entre os constantes do programa do agrupamento, que nessa data se encontrem em laboração.
+Art. 6.º Deferido o pedido de agrupamento, a instalação de novos estabelecimentos de serração de madeiras, a transferência dos existentes para outro local e a reabertura dos que tenham suspendido a laboração por período superior a dois anos só poderão ser consentidas em locais que se situem a distância superior a 15 km, medida em linha recta, do local de todos os estabelecimentos, entre os constantes do programa do agrupamento, que nessa data se encontrem em laboração.
 
 § único. Durante a instrução do pedido ficará suspensa, até decisão final, a autorização para a instalação de novos estabelecimentos de serração de madeiras, a transferência dos existentes para outro local e a reabertura dos que tenham suspendido a laboração por período superior a dois anos, quando daí possa resultar inobservância do disposto no corpo deste artigo.
 
-###### Art. 7.º Logo que o programa da concentração se encontre integralmente cumprido, caducam automàticamente, para todos os efeitos legais, os alvarás dos estabelecimentos concentrados, que deverão cessar imediatamente a sua exploração e ser desocupados de equipamentos e maquinismos inerentes à modalidade, exceptuados os estabelecimentos escolhidos entre os existentes para serem explorados pelo agrupamento.
+Art. 7.º Logo que o programa da concentração se encontre integralmente cumprido, caducam automàticamente, para todos os efeitos legais, os alvarás dos estabelecimentos concentrados, que deverão cessar imediatamente a sua exploração e ser desocupados de equipamentos e maquinismos inerentes à modalidade, exceptuados os estabelecimentos escolhidos entre os existentes para serem explorados pelo agrupamento.
 
-###### Art. 8.º Nos concelhos onde tenha sido autorizado o agrupamento de estabelecimentos de serração de madeiras, ficam dependentes de prévia autorização, nos termos da base II da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, os actos seguintes:
+Art. 8.º Nos concelhos onde tenha sido autorizado o agrupamento de estabelecimentos de serração de madeiras, ficam dependentes de prévia autorização, nos termos da base II da [Lei n.º 2052](https://diariodarepublica.pt/dr/detalhe/lei/2052-1952-597284), de 11 de Março de 1952, os actos seguintes:
 
 a) A instalação de novos estabelecimentos e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos;
 
@@ -178,34 +203,34 @@ b) A transferência de local dos estabelecimentos, desde que se faça para qualq
 
 § único. O disposto no corpo deste artigo entrará em vigor em data a estabelecer para cada concelho por portaria do Secretário de Estado da Indústria, com base na prova, pelo agrupamento respectivo, de que o seu programa de concentração se encontra integralmente cumprido.
 
-###### Art. 9.º Os pedidos de autorização para os actos referidos no artigo anterior serão feitos nos termos previstos no artigo 5.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898) e instruídos de acordo com as disposições daquele diploma.
+Art. 9.º Os pedidos de autorização para os actos referidos no artigo anterior serão feitos nos termos previstos no artigo 5.º do [Decreto-Lei n.º 39634](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39634-1954-217898) e instruídos de acordo com as disposições daquele diploma.
 
 § único. As autorizações requeridas nos termos deste artigo não poderão ser concedidas para locais que se situem a distância inferior a 15 km, medida em linha recta, do local de todos os estabelecimentos do agrupamento.
 
-###### Art. 10.º A indústria de serração de madeiras não é consentânea com o trabalho no domicílio.
+Art. 10.º A indústria de serração de madeiras não é consentânea com o trabalho no domicílio.
 
-###### Art. 11.º Considera-se reorganização das empresas industriais, para efeitos dos auxílios previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, a constituição dos agrupamentos de estabelecimentos de serração de madeiras em conformidade com o presente diploma.
+Art. 11.º Considera-se reorganização das empresas industriais, para efeitos dos auxílios previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, a constituição dos agrupamentos de estabelecimentos de serração de madeiras em conformidade com o presente diploma.
 
 ### CAPÍTULO IV — Da fiscalização e penalidades
 
-###### Art. 12.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições dos demais serviços competentes do Estado e dos organismos corporativos e de coordenação económica.
+Art. 12.º A fiscalização do cumprimento das prescrições contidas no presente regulamento compete à Direcção-Geral dos Serviços Industriais, sem prejuízo das atribuições dos demais serviços competentes do Estado e dos organismos corporativos e de coordenação económica.
 
-###### Art. 13.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como a adopção das providências destinadas a impedir o exercício da indústria de serração de madeiras com inobservância do que no mesmo se prescreve.
+Art. 13.º Compete à Direcção-Geral dos Serviços Industriais a imposição das condições necessárias ao efectivo cumprimento do disposto neste regulamento, bem como a adopção das providências destinadas a impedir o exercício da indústria de serração de madeiras com inobservância do que no mesmo se prescreve.
 
-###### Art. 14.º Os estabelecimentos de serração de madeiras que não satisfaçam às prescrições do presente regulamento serão impedidos de funcionar, inclusive por imposição de selos no equipamento, mediante despacho do director-geral dos Serviços Industriais.
+Art. 14.º Os estabelecimentos de serração de madeiras que não satisfaçam às prescrições do presente regulamento serão impedidos de funcionar, inclusive por imposição de selos no equipamento, mediante despacho do director-geral dos Serviços Industriais.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 15.º Não poderá ser passado a qualquer estabelecimento de serração de madeiras, novo ou transferido do local, o alvará a que se refere o Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, sem que se mostrem cumpridas as prescrições do presente regulamento.
+Art. 15.º Não poderá ser passado a qualquer estabelecimento de serração de madeiras, novo ou transferido do local, o alvará a que se refere o Regulamento das Indústrias Insalubres, Incómodas, Perigosas ou Tóxicas, sem que se mostrem cumpridas as prescrições do presente regulamento.
 
-###### Art. 16.º Não se aplica o disposto neste regulamento às serrações anexas a estabelecimentos que explorem outras modalidades industriais e que para elas trabalhem exclusivamente.
+Art. 16.º Não se aplica o disposto neste regulamento às serrações anexas a estabelecimentos que explorem outras modalidades industriais e que para elas trabalhem exclusivamente.
 
-###### Art. 17.º Para estabelecimentos que não se dediquem à produção de madeira destinada a embalagem e se localizem em zonas afastadas dos respectivos centros produtores, e para estabelecimentos que serrem exclusivamente madeiras exóticas, o director-geral dos Serviços Industriais poderá, ouvido o Grémio Nacional dos Industriais de Serração de Madeiras, aceitar condições de exploração diferentes das previstas no artigo 3.º
+Art. 17.º Para estabelecimentos que não se dediquem à produção de madeira destinada a embalagem e se localizem em zonas afastadas dos respectivos centros produtores, e para estabelecimentos que serrem exclusivamente madeiras exóticas, o director-geral dos Serviços Industriais poderá, ouvido o Grémio Nacional dos Industriais de Serração de Madeiras, aceitar condições de exploração diferentes das previstas no artigo 3.º
 
-###### Art. 18.º Quando circunstâncias ponderosas justifiquem o não cumprimento do disposto no artigo 3.º em estabelecimentos de serração de madeiras que tenham sido transferidos de local, poderá o director-geral dos Serviços Industriais, ouvido o Grémio Nacional dos Industriais de Serração de Madeiras, indicar, para cada caso, as condições em que, sem grave prejuízo da eficiência técnica e das condições de higiene e segurança do estabelecimento, será permitida a exploração.
+Art. 18.º Quando circunstâncias ponderosas justifiquem o não cumprimento do disposto no artigo 3.º em estabelecimentos de serração de madeiras que tenham sido transferidos de local, poderá o director-geral dos Serviços Industriais, ouvido o Grémio Nacional dos Industriais de Serração de Madeiras, indicar, para cada caso, as condições em que, sem grave prejuízo da eficiência técnica e das condições de higiene e segurança do estabelecimento, será permitida a exploração.
 
-###### Art. 19.º Das decisões do director-geral dos Serviços Industriais caberá recurso para o Secretário de Estado da Indústria, nos termos gerais de direito.
+Art. 19.º Das decisões do director-geral dos Serviços Industriais caberá recurso para o Secretário de Estado da Indústria, nos termos gerais de direito.
 
-###### Art. 20.º Quaisquer casos omissos ou dúvidas que se levantem na execução do presente regulamento serão resolvidos pelo Secretário de Estado da Indústria, ouvidos a Direcção-Geral dos Serviços Industriais e o Grémio Nacional dos Industriais de Serração de Madeiras.
+Art. 20.º Quaisquer casos omissos ou dúvidas que se levantem na execução do presente regulamento serão resolvidos pelo Secretário de Estado da Indústria, ouvidos a Direcção-Geral dos Serviços Industriais e o Grémio Nacional dos Industriais de Serração de Madeiras.
 
 Secretaria de Estado da Indústria, 29 de Abril de 1965. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.

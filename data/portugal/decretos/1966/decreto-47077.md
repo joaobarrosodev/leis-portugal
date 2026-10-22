@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47077-1966-474951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5847c9b13d58d77f1971bc5417c87b8456723f7ab35d4ccf524c8c5a6676f75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a05c7aa8ddb7b5c839777b0228e22ea30a18acb56e3e41d81e1d077d09256ab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:627856:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:32Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +90,13 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aprovados os regulamentos internacionais relativos, respectivamente, ao transporte de vagões particulares (R. I. P.) e ao transporte de contentores (R. I. Co.) que constituem os Anexos VII e VIII à Convenção internacional relativa aos transportes de mercadorias por caminho de ferro (C. I. M.), aprovada pelo [Decreto-Lei n.º 45033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45033-1963-627856), de 15 de Maio de 1963, cujos textos vão anexos ao presente decreto.
+Artigo único. São aprovados os regulamentos internacionais relativos, respectivamente, ao transporte de vagões particulares (R. I. P.) e ao transporte de contentores (R. I. Co.) que constituem os Anexos VII e VIII à Convenção internacional relativa aos transportes de mercadorias por caminho de ferro (C. I. M.), aprovada pelo [Decreto-Lei n.º 45033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45033-1963-627856), de 15 de Maio de 1963, cujos textos vão anexos ao presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.
 
-## Anexo VII à C. I. M. (artigo 60.º, § 1, da C. I. M.)
+Anexo VII à C. I. M. (artigo 60.º, § 1, da C. I. M.)
 
 REGULAMENTO INTERNACIONAL RELATIVO AO TRANSPORTE DE VAGÕES PARTICULARES (R. I. P.)
 
@@ -104,7 +108,7 @@ REGULAMENTO INTERNACIONAL RELATIVO AO TRANSPORTE DE VAGÕES PARTICULARES (R. I. 
 
 ###### ARTIGO 2 — Admissão dos vagões no serviço internacional
 
-Para serem admitidos em serviço internacional os vagões devem ser matriculados em nome de um particular (pessoa física ou entidade com personalidade jurídica) por um caminho de ferro sujeito à C. I. M. e munidos por este caminho de ferro da marca distintiva [([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf).
+Para serem admitidos em serviço internacional os vagões devem ser matriculados em nome de um particular (pessoa física ou entidade com personalidade jurídica) por um caminho de ferro sujeito à C. I. M. e munidos por este caminho de ferro da marca distintiva [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf).
 
 No presente regulamento, esse particular, cujo nome deve ser inscrito no vagão, chama-se «titular».
 
@@ -242,7 +246,7 @@ Este prazo é aumentado do tempo de imobilização do vagão por qualquer causa 
 
 § 2. Se o vagão considerado perdido for encontrado depois do pagamento da indemnização, o titular pode exigir, no prazo de seis meses depois da recepção do respectivo aviso do caminho de ferro de matrícula, que o vagão lhe seja entregue, sem despesas, na estação de matrícula, contra a restituição da indemnização.
 
-## Anexo VIII à C. I. M. (artigo 60.º, § 2, da C. I. M.)
+Anexo VIII à C. I. M. (artigo 60.º, § 2, da C. I. M.)
 
 REGULAMENTO INTERNACIONAL RELATIVO AO TRANSPORTE DE CONTENTORES (R. I. Co.)
 
@@ -302,7 +306,7 @@ Os contentores entregues carregados não podem ser utilizados de novo pelos dest
 
 ###### ARTIGO 10 — Aprovação
 
-Para serem admitidos em serviço internacional os contentores pertencentes a particulares devem ser aprovados por um caminho de ferro submetido à C. I. M., munidos por este caminho de ferro da marca distintiva [([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf) e satisfazer, no que diz respeito à sua construção e às suas inscrições, às condições previstas para este efeito.
+Para serem admitidos em serviço internacional os contentores pertencentes a particulares devem ser aprovados por um caminho de ferro submetido à C. I. M., munidos por este caminho de ferro da marca distintiva [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf) e satisfazer, no que diz respeito à sua construção e às suas inscrições, às condições previstas para este efeito.
 
 ###### ARTIGO 11 — Dispositivos especiais
 
@@ -310,11 +314,11 @@ Se os contentores de particulares forem munidos de aparelhos especiais (aparelho
 
 ###### ARTIGO 12 — Indicações na declaração de expedição
 
-§ 1. Para os contentores carregados o expedidor deve inscrever na coluna «Utensílios - Contentores» da declaração de expedição, além das indicações previstas pela C. I. M., a categoria, as marcas, o número do contentor, o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf), a tara em quilogramas e a capacidade em metros cúbicos ou em litros.
+§ 1. Para os contentores carregados o expedidor deve inscrever na coluna «Utensílios - Contentores» da declaração de expedição, além das indicações previstas pela C. I. M., a categoria, as marcas, o número do contentor, o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf), a tara em quilogramas e a capacidade em metros cúbicos ou em litros.
 
 § 2. Para os contentores vazios, o expedidor deve inscrever na declaração de expedição, além das previstas pela C. I. M., as seguintes indicações:
 
-a) Na coluna «Utensílios - Contentores», a categoria, as marcas, o número do contentor e o sinal [([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf);
+a) Na coluna «Utensílios - Contentores», a categoria, as marcas, o número do contentor e o sinal [(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15600/12121216.pdf);
 
 b) Na coluna «Designação da mercadoria», a tara em quilogramas e a indicação «Contentor vazio».
 

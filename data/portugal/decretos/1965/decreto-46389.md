@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46389-1965-296193
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2401303497e048b501e259034523378ddac2946bbb97096051c1275df2988ca6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22a2534276c494faaf374bd9df19ded83fd988124bbd066553541508249b2968
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:422067:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:673422:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:30Z'
   warnings: []
   errors: []
 ---
@@ -91,11 +95,11 @@ Visto o disposto no artigo 15.º do [Decreto-Lei n.º 23801](https://diariodarep
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É concedida isenção da taxa de salvação nacional na importação do óleo mineral de produção nacional, denominado «nafta alifática», sempre que o referido produto se destine a ser utilizado como dissolvente na indústria de tintas e vernizes.
+Artigo 1.º É concedida isenção da taxa de salvação nacional na importação do óleo mineral de produção nacional, denominado «nafta alifática», sempre que o referido produto se destine a ser utilizado como dissolvente na indústria de tintas e vernizes.
 
-###### Art. 2.º Os industriais que pretenderem beneficiar da isenção de que trata o artigo anterior assim o requererão ao director da respectiva alfândega, que, tendo em vista as necessidades da respectiva indústria, resolverá, para cada caso, de harmonia com as disposições legais vigentes.
+Art. 2.º Os industriais que pretenderem beneficiar da isenção de que trata o artigo anterior assim o requererão ao director da respectiva alfândega, que, tendo em vista as necessidades da respectiva indústria, resolverá, para cada caso, de harmonia com as disposições legais vigentes.
 
-###### Art. 3.º A importação, com isenção da taxa de salvação nacional, da nafta alifática referida no artigo 1.º deverá satisfazer às seguintes condições:
+Art. 3.º A importação, com isenção da taxa de salvação nacional, da nafta alifática referida no artigo 1.º deverá satisfazer às seguintes condições:
 
 1.ª O despacho só poderá fazer-se pelas sedes das Alfândegas e delegações urbanas de Lisboa e Porto;
 
@@ -105,8 +109,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4.ª O importador deverá ainda organizar e ter em dia uma conta corrente relativa à nafta alifática importada nestas condições, conta corrente que a alfândega fiscalizará sempre que o julgar conveniente.
 
-###### Art. 4.º O industrial que for condenado pelo delito previsto na parte final do artigo 15.º do [Decreto-Lei n.º 23801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23801-1934-673422) perderá imediatamente o direito à concessão ou concessões de que for beneficiário, não podendo mais usar da isenção consignada no presente diploma.
+Art. 4.º O industrial que for condenado pelo delito previsto na parte final do artigo 15.º do [Decreto-Lei n.º 23801](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23801-1934-673422) perderá imediatamente o direito à concessão ou concessões de que for beneficiário, não podendo mais usar da isenção consignada no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47047-1966-471498
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6e91965f6664017c0bfca68c022f542b86820cc49c2528b752a260a82d5bc217
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3c17499e0dda6239b17a0755bfdaa74e0934345ba933b9b701c5c344b3af8f69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:11Z'
   warnings: []
   errors: []
 ---
@@ -85,7 +85,7 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disciplinas da Faculdade de Engenharia da Universidade do Porto distribuem-se pelos grupos e subgrupos seguintes:
+Artigo 1.º As disciplinas da Faculdade de Engenharia da Universidade do Porto distribuem-se pelos grupos e subgrupos seguintes:
 
 1.º grupo (Construções civis):
 
@@ -267,7 +267,7 @@ Acabamentos de Fios e Tecidos.
 
 Laboratórios de Química (2.ª e 3.ª partes) (sem regência teórica).
 
-###### Art. 2.º Os lugares de professor catedrático e extraordinário da mesma Faculdade distribuem-se da forma seguinte pelos diversos grupos e subgrupos de disciplinas:
+Art. 2.º Os lugares de professor catedrático e extraordinário da mesma Faculdade distribuem-se da forma seguinte pelos diversos grupos e subgrupos de disciplinas:
 
 1.º grupo:
 
@@ -369,6 +369,6 @@ Subgrupo B:
 
 1 professor extraordinário.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

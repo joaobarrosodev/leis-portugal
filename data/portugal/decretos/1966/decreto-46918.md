@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46918-1966-486704
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 159460dba24e4d3941b4ea81d775475d3830ad65d7e571e486b4c6cbb9d644cb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b2246892a3a339353c1bc0a276d17156d2cbcebae1d711af1d52033434d047a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:12Z'
   warnings: []
   errors: []
 ---
@@ -89,10 +89,10 @@ Considerando que no interesse nacional convém evitar soluções de continuidade
 
 Usando da faculdade conferida pela n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguintes:
 
-###### Artigo único. O n.º 1.º do Decreto de 8 de Fevereiro de 1913 passa a ter a seguinte redacção:
+Artigo único. O n.º 1.º do Decreto de 8 de Fevereiro de 1913 passa a ter a seguinte redacção:
 
 1.º A concessão de locais para o exercício da pesca nas águas territoriais, por meia de armações, fixas, será feita em concurso e por arrematação em hasta pública, excepto quando se trate das mudanças de local de armações já concedidas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

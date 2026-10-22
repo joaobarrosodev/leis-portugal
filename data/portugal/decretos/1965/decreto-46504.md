@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46504-1965-292913
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-27T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 12a3454ef4cf7458d23da311f2ca64b467848e903fab70647d6503e7409bd790
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b298531d153ab80d5faf33f9fab93769d687358680dfa31317ad4b2d07306d66
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:170532:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:26Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +108,9 @@ Ouvidos os governos das províncias ultramarinas e o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Serviço de Saúde Escolar do Ultramar, que faz parte integrante deste decreto.
+Artigo único. É aprovado o Regulamento do Serviço de Saúde Escolar do Ultramar, que faz parte integrante deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -112,9 +120,9 @@ REGULAMENTO DO SERVIÇO DE SAÚDE ESCOLAR DO ULTRAMAR
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º O serviço de saúde escolar é um serviço especializado que se destina a promover a educação sanitária, o rastreio e profilaxia das doenças transmissíveis no ambiente escolar, o saneamento dos estabelecimentos de ensino e suas dependências e a vigilância sanitária de professores e alunos.
+Artigo 1.º O serviço de saúde escolar é um serviço especializado que se destina a promover a educação sanitária, o rastreio e profilaxia das doenças transmissíveis no ambiente escolar, o saneamento dos estabelecimentos de ensino e suas dependências e a vigilância sanitária de professores e alunos.
 
-###### Art. 2.º São atribuições do serviço de saúde escolar:
+Art. 2.º São atribuições do serviço de saúde escolar:
 
 a) Contribuir para a criação e manutenção de um ambiente escolar saudável;
 
@@ -152,7 +160,7 @@ g) O estudo e orientação alimentar e nutricional da população escolar com vi
 
 § 6.º A vigilância sanitária dos professores e alunos obedece especialmente à finalidade de manter a sua perfeita higidez física e mental.
 
-###### Art. 3.º Ao serviço de saúde escolar compete especialmente:
+Art. 3.º Ao serviço de saúde escolar compete especialmente:
 
 1.º Superintender nos serviços de higiene e medicina escolar em todos os estabelecimentos de ensino criados e mantidos pelo Estado;
 
@@ -160,7 +168,7 @@ g) O estudo e orientação alimentar e nutricional da população escolar com vi
 
 3.º Exercer, em geral, quanto a todos os estabelecimentos de ensino, outras atribuições que lhe sejam conferidas pelas leis e regulamentos em vigor.
 
-###### Art. 4.º O serviço de saúde escolar deverá actuar na mais estreita ligação com os serviços provinciais de educação.
+Art. 4.º O serviço de saúde escolar deverá actuar na mais estreita ligação com os serviços provinciais de educação.
 
 § 1.º Para assegurar a ligação entre esses serviços, designadamente ao nível dos dirigentes nos respectivos planos hierárquicos, é criado o Conselho Provincial de Saúde Escolar.
 
@@ -168,13 +176,13 @@ g) O estudo e orientação alimentar e nutricional da população escolar com vi
 
 § 3.º O Conselho emitirá parecer sobre todos os assuntos decorrentes da execução do programa de saúde escolar em cada província e pronunciar-se-á sobre as regras normativas a estabelecer para os fins previstos no § 1.º
 
-###### Art. 5.º O serviço de saúde escolar poderá ser dotado de autonomia administrativa.
+Art. 5.º O serviço de saúde escolar poderá ser dotado de autonomia administrativa.
 
 ### CAPÍTULO II — Da organização e funcionamento do serviço
 
-###### Art. 6.º O serviço de saúde escolar será confiado, nas províncias de governo-geral, ao chefe de divisão de saúde escolar das respectivas repartições de saúde pública e, nas províncias de governo simples, ao médico escolar encarregado do mesmo serviço na respectiva divisão técnica.
+Art. 6.º O serviço de saúde escolar será confiado, nas províncias de governo-geral, ao chefe de divisão de saúde escolar das respectivas repartições de saúde pública e, nas províncias de governo simples, ao médico escolar encarregado do mesmo serviço na respectiva divisão técnica.
 
-###### Art. 7.º Para efeitos de organização, a cada distrito sanitário corresponderá um distrito de saúde escolar, a cargo de um médico escolar que a nível distrital assegurará a respectiva chefia e ficará tècnicamente subordinado à repartição de saúde pública das direcções provinciais, ou ao chefe da divisão técnica das repartições provinciais de saúde e assistência.
+Art. 7.º Para efeitos de organização, a cada distrito sanitário corresponderá um distrito de saúde escolar, a cargo de um médico escolar que a nível distrital assegurará a respectiva chefia e ficará tècnicamente subordinado à repartição de saúde pública das direcções provinciais, ou ao chefe da divisão técnica das repartições provinciais de saúde e assistência.
 
 § 1.º Cada distrito poderá ter um ou mais sectores de saúde escolar, que ficarão a cargo de médicos escolares para o fim designados, os quais ficarão imediatamente subordinados ao médico escolar que exercerá as funções de chefe distrital de saúde.
 
@@ -184,7 +192,7 @@ g) O estudo e orientação alimentar e nutricional da população escolar com vi
 
 § 4.º Nas restantes províncias de governo simples, correspondentes a um único distrito sanitário, o chefe de saúde escolar depende tècnicamente da respectiva divisão técnica de saúde e assistência.
 
-###### Art. 8.º Ao chefe do serviço de saúde escolar compete:
+Art. 8.º Ao chefe do serviço de saúde escolar compete:
 
 1.º Assegurar a organização e funcionamento do serviço provincial, segundo a orientação geral emanada da repartição de saúde pública, nas províncias de governo-geral, e do chefe dos serviços de saúde e assistência como chefe da divisão técnica, nas províncias de governo simples;
 
@@ -214,7 +222,7 @@ g) O estudo e orientação alimentar e nutricional da população escolar com vi
 
 14.º Verificar o arrumo dos arquivos de saúde escolar, cuja organização promoverá, e elaborar anualmente um relatório de que conste a análise da situação da saúde escolar, a indicação das deficiências e problemas existentes e a recomendação das medidas necessárias à melhoria da situação e do serviço.
 
-###### Art. 9.º Ao chefe distrital de saúde escolar cabem, no respectivo distrito, além das atribuições referidas no artigo anterior, as seguintes:
+Art. 9.º Ao chefe distrital de saúde escolar cabem, no respectivo distrito, além das atribuições referidas no artigo anterior, as seguintes:
 
 1.º Colaborar e apoiar a inspecção distrital dos serviços de educação por forma a melhorar incessantemente o ambiente escolar através dos métodos de ensino, da disciplina e das relações entre o pessoal e os alunos;
 
@@ -236,17 +244,17 @@ g) O estudo e orientação alimentar e nutricional da população escolar com vi
 
 10.º Recomendar os cuidados a ter com a prática da educação física nos estabelecimentos de ensino da sua área e informar deles os respectivos professores.
 
-###### Art. 10.º O serviço de saúde escolar abrange o estudo e solução dos problemas de ordem médico-pedagógica e os que respeitam exclusivamente à higiene e à saúde pública.
+Art. 10.º O serviço de saúde escolar abrange o estudo e solução dos problemas de ordem médico-pedagógica e os que respeitam exclusivamente à higiene e à saúde pública.
 
 § único. O estudo e a solução desses problemas apoiar-se-ão nos vários departamentos dos serviços de saúde e assistência provinciais, nos serviços de saúde dos organismos autónomos, das entidades particulares, das corporações missionárias, dos corpos administrativos, das pessoas colectivas de utilidade pública administrativa, no instituto de orientação profissional dos serviços provinciais de educação e na assídua cooperação do professor ou educador e de outros técnicos especializados dos serviços de educação ou pertencentes a instituições a quem tenha sido pedida colaboração.
 
-###### Art. 11.º Para efeitos do disposto no artigo anterior e de conformidade com o seu carácter essencialmente profiláctico, o serviço de saúde escolar exerce-se através do trabalho de grupo da equipa de saúde escolar, das actividades de medicina escolar, medicina preventiva, higiene e saúde pública, educação sanitária, serviço social, socorros de urgência e suplementação alimentar.
+Art. 11.º Para efeitos do disposto no artigo anterior e de conformidade com o seu carácter essencialmente profiláctico, o serviço de saúde escolar exerce-se através do trabalho de grupo da equipa de saúde escolar, das actividades de medicina escolar, medicina preventiva, higiene e saúde pública, educação sanitária, serviço social, socorros de urgência e suplementação alimentar.
 
-###### Art. 12.º Os serviços de saúde e assistência em que se deverá apoiar a acção do serviço de saúde escolar compreendem os serviços de medicina geral, de medicina especializada e de diagnóstico e terapêutica.
+Art. 12.º Os serviços de saúde e assistência em que se deverá apoiar a acção do serviço de saúde escolar compreendem os serviços de medicina geral, de medicina especializada e de diagnóstico e terapêutica.
 
 #### SECÇÃO I — Serviços de medicina escolar
 
-###### Art. 13.º As actividades de medicina escolar realizam-se através de consultas destinadas à observação somato-psico-pedagógica dos alunos e à execução de exames médicos periódicos do pessoal docente e não docente.
+Art. 13.º As actividades de medicina escolar realizam-se através de consultas destinadas à observação somato-psico-pedagógica dos alunos e à execução de exames médicos periódicos do pessoal docente e não docente.
 
 § 1.º A observação somato-psico-pedagógica é sempre feita pelos médicos escolares e terá lugar nos próprios estabelecimentos de ensino, obedecendo às seguintes regras:
 
@@ -264,17 +272,17 @@ f) Só ao médico escolar e aos elementos que com ele colaboram caberá a escolh
 
 § 2.º O exame médico do pessoal docente e não docente fica a cargo do médico escolar e terá lugar sempre que o serviço de saúde escolar o julgue conveniente.
 
-###### Art. 14.º As actividades da medicina preventiva destinam-se especialmente à prevenção e despiste das doenças transmissíveis no meio escolar, não só pelo estabelecimento de períodos de evicção, como também pelo estabelecimento de outras medidas, tais como vacinações, rastreio, etc.
+Art. 14.º As actividades da medicina preventiva destinam-se especialmente à prevenção e despiste das doenças transmissíveis no meio escolar, não só pelo estabelecimento de períodos de evicção, como também pelo estabelecimento de outras medidas, tais como vacinações, rastreio, etc.
 
 § 1.º O estabelecimento dos períodos de suspensão de frequência escolar ou de actividades nos estabelecimentos de ensino obedecerá aos princípios da [Lei n.º 2109](https://diariodarepublica.pt/dr/detalhe/lei/2109-1961-170532), de 24 de Maio de 1961, e às disposições do Regulamento Sanitário Internacional.
 
 § 2.º As restantes medidas constarão de um guia-referência para uso do pessoal da equipa de saúde escolar, que será elaborado segundo modelo a determinar por despacho do Ministro do Ultramar.
 
-###### Art. 15.º As actividades de higiene e de saúde pública destinam-se à execução das tarefas tendentes a assegurar a solução de problemas de ordem sanitária, designadamente os de saneamento dos edifícios escolares e suas dependências e os da vigilância sanitária dos professores e alunos.
+Art. 15.º As actividades de higiene e de saúde pública destinam-se à execução das tarefas tendentes a assegurar a solução de problemas de ordem sanitária, designadamente os de saneamento dos edifícios escolares e suas dependências e os da vigilância sanitária dos professores e alunos.
 
-###### Art. 16.º As actividades de educação sanitária no âmbito escolar destinam-se, em especial, à promoção da saúde e visam essencialmente a criação de regras fomentadoras da saúde dos alunos, com a sua colaboração, das famílias e de todos os agentes da equipa de saúde escolar.
+Art. 16.º As actividades de educação sanitária no âmbito escolar destinam-se, em especial, à promoção da saúde e visam essencialmente a criação de regras fomentadoras da saúde dos alunos, com a sua colaboração, das famílias e de todos os agentes da equipa de saúde escolar.
 
-###### Art. 17.º As actividades do serviço social destinam-se à prestação de assistência social aos alunos e respectivas famílias em todas as situações sociais que interfiram com a saúde do aluno e seu aproveitamento escolar e exercem a sua acção através de:
+Art. 17.º As actividades do serviço social destinam-se à prestação de assistência social aos alunos e respectivas famílias em todas as situações sociais que interfiram com a saúde do aluno e seu aproveitamento escolar e exercem a sua acção através de:
 
 a) Auxílio aos alunos e respectivas famílias, designadamente pelo esclarecimento dos seus problemas e da sua participação na execução de planos tendentes à melhoria do seu bem-estar social;
 
@@ -282,9 +290,9 @@ b) Orientação no sentido do melhor uso dos recursos próprios e da comunidade;
 
 c) Trabalho de grupo com a equipa de saúde escolar para o estudo e melhoria da situação e enquadramento geral dos alunos.
 
-###### Art. 18.º As actividades de socorros urgentes compreendem os primeiros socorros nos acidentes e os cuidados nas doenças de emergência. Destinam-se exclusivamente a estas finalidades e serão executados, não só pelo pessoal docente e não docente, para isso convenientemente instruído, como ainda pelo pessoal dos estabelecimentos próprios dos serviços de saúde e assistência, segundo normas que assegurem aquelas finalidades, a estabelecer nos regulamentos provinciais de saúde escolar.
+Art. 18.º As actividades de socorros urgentes compreendem os primeiros socorros nos acidentes e os cuidados nas doenças de emergência. Destinam-se exclusivamente a estas finalidades e serão executados, não só pelo pessoal docente e não docente, para isso convenientemente instruído, como ainda pelo pessoal dos estabelecimentos próprios dos serviços de saúde e assistência, segundo normas que assegurem aquelas finalidades, a estabelecer nos regulamentos provinciais de saúde escolar.
 
-###### Art. 19.º As actividades de suplementação alimentar destinam-se não só a prevenir as carências alimentares da população escolar, como a aquisição de bons hábitos alimentares, e apoiar-se-ão nas cantinas escolares, criadas ou a criar, ficando, porém, sempre a cargo do serviço de saúde escolar a respectiva orientação técnica.
+Art. 19.º As actividades de suplementação alimentar destinam-se não só a prevenir as carências alimentares da população escolar, como a aquisição de bons hábitos alimentares, e apoiar-se-ão nas cantinas escolares, criadas ou a criar, ficando, porém, sempre a cargo do serviço de saúde escolar a respectiva orientação técnica.
 
 § 1.º Nas refeições escolares fornecidas aos alunos deverão observar-se cuidadosamente as mais rigorosas regras de dietética.
 
@@ -292,13 +300,13 @@ c) Trabalho de grupo com a equipa de saúde escolar para o estudo e melhoria da 
 
 #### SECÇÃO II — Apoio dos serviços oficiais de saúde e assistência ao serviço de saúde escolar
 
-###### Art. 20.º Os serviços de saúde e assistência apoiam o serviço de saúde escolar, nos termos fixados no presente diploma, pelos seus serviços de medicina geral, de especialidades e de diagnóstico e terapêutica.
+Art. 20.º Os serviços de saúde e assistência apoiam o serviço de saúde escolar, nos termos fixados no presente diploma, pelos seus serviços de medicina geral, de especialidades e de diagnóstico e terapêutica.
 
-###### Art. 21.º Pelos serviços de medicina geral assegurar-se-á à população escolar a frequência das consultas de medicina, dos serviços médicos dos estabelecimentos do ensino particular e dos serviços de medicina familiar em condições favoráveis de horário, ambiente e simplificação de formalidades.
+Art. 21.º Pelos serviços de medicina geral assegurar-se-á à população escolar a frequência das consultas de medicina, dos serviços médicos dos estabelecimentos do ensino particular e dos serviços de medicina familiar em condições favoráveis de horário, ambiente e simplificação de formalidades.
 
 § único. Estas consultas serão pagas ou gratuitas, nos termos em que a lei o estabelecer.
 
-###### Art. 22.º Pelos serviços de medicina especializada permitir-se-á à população escolar a frequência de consultas de especialidade dos serviços de saúde e assistência.
+Art. 22.º Pelos serviços de medicina especializada permitir-se-á à população escolar a frequência de consultas de especialidade dos serviços de saúde e assistência.
 
 § 1.º Estes serviços compreendem as diferentes consultas de especialidades médicas e cirúrgicas, designadamente as consultas de oftalmologia, otorrinolaringologia e estomatologia e a consulta neuro-psico-pedagógica, que funcionará anexa às escolas de ensino especial dos serviços de educação ou na dependência de dispensários de higiene mental infantil.
 
@@ -308,7 +316,7 @@ c) Trabalho de grupo com a equipa de saúde escolar para o estudo e melhoria da 
 
 § 4.º Nestas consultas a população escolar deverá ser atendida de molde a não se verificarem entraves à promoção sistemática da acção sanitária a favor dos alunos.
 
-###### Art. 23.º A consulta neuro-psico-pedagógica será dirigida por pedo-psiquiatra ou por um neuropsiquiatra dos serviços de saúde e assistência, com a colaboração do director do Estabelecimento de ensino especial ou do dispensário de higiene mental infantil onde a referida consulta funcione e dos médicos escolares dos diferentes estabelecimentos onde os casos-problemas sejam detectados, e visará especialmente:
+Art. 23.º A consulta neuro-psico-pedagógica será dirigida por pedo-psiquiatra ou por um neuropsiquiatra dos serviços de saúde e assistência, com a colaboração do director do Estabelecimento de ensino especial ou do dispensário de higiene mental infantil onde a referida consulta funcione e dos médicos escolares dos diferentes estabelecimentos onde os casos-problemas sejam detectados, e visará especialmente:
 
 a) Despistar os alunos com problemas de inadaptação escolar, através da observação diária e contínua dos professores e das provas de rotina a efectuar pelo pessoal das escolas de ensino especial ou dos dispensários de higiene mental infantil;
 
@@ -320,19 +328,19 @@ d) Contribuir para a melhoria da saúde mental dos alunos, actuando por todos os
 
 e) Reintegrar, por meio de ensino especial, os alunos com dificuldades de integração social normal.
 
-###### Art. 24.º Os serviços auxiliares de diagnóstico e terapêutica serão assegurados pelos serviços de saúde e assistência, sempre a requisição do médico escolar, e pagos ou gratuitos, nos termos previstos na lei.
+Art. 24.º Os serviços auxiliares de diagnóstico e terapêutica serão assegurados pelos serviços de saúde e assistência, sempre a requisição do médico escolar, e pagos ou gratuitos, nos termos previstos na lei.
 
 Estes serviços serão sempre facultados à população escolar em condições favoráveis de horário e ambiente.
 
 #### SECÇÃO III — Apoio de outros serviços ou entidades ao serviço de saúde escolar
 
-###### Art. 25.º O serviço de saúde escolar será ainda apoiado pelos serviços de saúde dos serviços autónomos, pelos serviços de saúde mantidos por corpos administrativos, por pessoas colectivas de utilidade pública administrativa, por corporações missionárias e por entidades particulares.
+Art. 25.º O serviço de saúde escolar será ainda apoiado pelos serviços de saúde dos serviços autónomos, pelos serviços de saúde mantidos por corpos administrativos, por pessoas colectivas de utilidade pública administrativa, por corporações missionárias e por entidades particulares.
 
-###### Art. 26.º O apoio do serviço provincial de educação far-se-á através do instituto de orientação profissional.
+Art. 26.º O apoio do serviço provincial de educação far-se-á através do instituto de orientação profissional.
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 27.º O serviço de saúde escolar disporá de agentes especializados e agentes cooperadores.
+Art. 27.º O serviço de saúde escolar disporá de agentes especializados e agentes cooperadores.
 
 a) Os médicos escolares, os delegados e subdelegados de saúde e todos os outros médicos que desempenham funções nos estabelecimentos de ensino, quer oficiais, quer particulares;
 
@@ -352,7 +360,7 @@ d) As famílias, os pedagogos, os educadores e todos os outros agentes ou instit
 
 #### SECÇÃO I — Das atribuições do pessoal especializado
 
-###### Art. 28.º O médico escolar será na sua área o orientador e organizador do serviço de saúde escolar e deverá procurar coordenar todas as actividades dos agentes especializados e cooperadores do respectivo serviço.
+Art. 28.º O médico escolar será na sua área o orientador e organizador do serviço de saúde escolar e deverá procurar coordenar todas as actividades dos agentes especializados e cooperadores do respectivo serviço.
 
 § único. Coadjuvado pelos enfermeiros de saúde pública, trabalhadores sociais e outros incumbe ao médico escolar:
 
@@ -362,11 +370,11 @@ b) Tomar parte nas reuniões dos professores, a fim de poder emitir opinião ou 
 
 c) Assistir às actividades escolares e visitar todas as dependências dos estabelecimentos escolares, designadamente as que são afectas ao ensino.
 
-###### Art. 29.º Aos médicos escolares cabem, nos estabelecimentos de ensino, atribuições análogas às dos delegados e subdelegados de saúde nas suas áreas sanitárias.
+Art. 29.º Aos médicos escolares cabem, nos estabelecimentos de ensino, atribuições análogas às dos delegados e subdelegados de saúde nas suas áreas sanitárias.
 
 § único. Para os efeitos deste artigo, o médico escolar pedirá a coadjuvação das autoridades sanitárias, policiais, administrativas ou judiciais, às quais incumbem, neste caso, as obrigações que lhes são impostas na legislação vigente dos serviços de saúde e assistência.
 
-###### Art. 30.º São atribuições gerais dos médicos escolares:
+Art. 30.º São atribuições gerais dos médicos escolares:
 
 1.º Dar parecer sobre a distribuição dos horários das respectivas escolas;
 
@@ -414,23 +422,23 @@ c) Assistir às actividades escolares e visitar todas as dependências dos estab
 
 23.º Participar e colaborar no conselho disciplinar dos estabelecimentos de ensino a seu cargo.
 
-###### Art. 31.º Aos médicos escolares, além das atribuições referidas no artigo anterior, compete enviar à divisão, secção ou serviço de saúde escolar propostas devidamente fundamentadas para encerramento dos estabelecimentos de ensino que se encontrem em más condições higiénicas, devendo a direcção ou repartição competentes dar imediato conhecimento do facto à direcção ou repartição dos serviços de educação.
+Art. 31.º Aos médicos escolares, além das atribuições referidas no artigo anterior, compete enviar à divisão, secção ou serviço de saúde escolar propostas devidamente fundamentadas para encerramento dos estabelecimentos de ensino que se encontrem em más condições higiénicas, devendo a direcção ou repartição competentes dar imediato conhecimento do facto à direcção ou repartição dos serviços de educação.
 
 § único. O preceituado no corpo deste artigo é aplicável à hipótese de, em qualquer escola, se verificarem casos de doenças transmissíveis, podendo o médico escolar determinar imediatamente o encerramento da escola quando as circunstâncias o imponham.
 
-###### Art. 32.º No fim de cada ano lectivo, o médico escolar organizará e enviará à divisão de saúde escolar ou ao médico encarregado da saúde escolar um relatório que relate todas as questões e ocorrências relativas às funções que desempenha ou se tenham suscitado. Este relatório será acompanhado das estatísticas nosológicas e antropométricas, acuidades visual e auditiva e outros testes, bem como propostas sobre modificações regulamentares que a prática aconselhe e ainda de sugestões acerca das medidas especiais que as circunstâncias tenham recomendado.
+Art. 32.º No fim de cada ano lectivo, o médico escolar organizará e enviará à divisão de saúde escolar ou ao médico encarregado da saúde escolar um relatório que relate todas as questões e ocorrências relativas às funções que desempenha ou se tenham suscitado. Este relatório será acompanhado das estatísticas nosológicas e antropométricas, acuidades visual e auditiva e outros testes, bem como propostas sobre modificações regulamentares que a prática aconselhe e ainda de sugestões acerca das medidas especiais que as circunstâncias tenham recomendado.
 
 § único. Desse relatório será enviada cópia à direcção ou repartição dos serviços de educação.
 
-###### Art. 33.º Aos delegados ou subdelegados de saúde cabe assegurar as funções gerais atribuídas aos médicos escolares onde não haja médico escolar privativo.
+Art. 33.º Aos delegados ou subdelegados de saúde cabe assegurar as funções gerais atribuídas aos médicos escolares onde não haja médico escolar privativo.
 
-###### Art. 34.º Os médicos que prestam serviço clínico nos estabelecimentos de ensino oficial e particular podem, por delegação do médico escolar, ser incumbidos de algumas das suas atribuições, sem prejuízo da acção orientadora que lhe pertence.
+Art. 34.º Os médicos que prestam serviço clínico nos estabelecimentos de ensino oficial e particular podem, por delegação do médico escolar, ser incumbidos de algumas das suas atribuições, sem prejuízo da acção orientadora que lhe pertence.
 
-###### Art. 35.º Os médicos escolares terão a coadjuvá-los enfermeiras de saúde pública e trabalhadores sociais, que deverão receber prévia especialização para actuar no ambiento escolar.
+Art. 35.º Os médicos escolares terão a coadjuvá-los enfermeiras de saúde pública e trabalhadores sociais, que deverão receber prévia especialização para actuar no ambiento escolar.
 
 § único. Onde não houver enfermeiros de saúde pública e trabalhadores sociais, o médico escolar utilizará os agentes dos referidos ramos de serviço dos serviços de saúde e assistência da área.
 
-###### Art. 36.º Aos enfermeiros de saúde pública compete:
+Art. 36.º Aos enfermeiros de saúde pública compete:
 
 1.º Auxiliar os médicos escolares dentro dos limites da sua capacidade profissional, e designadamente nas mensurações antropométricas, vacinações, tratamentos diversos, e todas as demais tarefas que lhes sejam por desconfiadas;
 
@@ -464,7 +472,7 @@ c) Assistir às actividades escolares e visitar todas as dependências dos estab
 
 16.º Ter à sua guarda todo o material indispensável à execução das tarefas que cabem ao serviço de saúde escolar no estabelecimento onde actua.
 
-###### Art. 37.º Aos trabalhadores sociais compete:
+Art. 37.º Aos trabalhadores sociais compete:
 
 1.º Estabelecer a ligação entre a escola, o médico e a família, de molde a constituir entre eles uma perfeita unidade de acção;
 
@@ -478,7 +486,7 @@ c) Assistir às actividades escolares e visitar todas as dependências dos estab
 
 #### SECÇÃO II — Atribuições do pessoal cooperador
 
-###### Art. 38.º Em geral, e salvo o que for determinado em relação a cada grau de ensino, ao professor compete:
+Art. 38.º Em geral, e salvo o que for determinado em relação a cada grau de ensino, ao professor compete:
 
 1.º Participar em todo o trabalho de grupo da equipa de saúde escolar;
 
@@ -504,7 +512,7 @@ c) Assistir às actividades escolares e visitar todas as dependências dos estab
 
 12.º Promover a participação dos alunos em todas as actividades relacionadas com a saúde, tanto na escola como na comunidade.
 
-###### Art. 39.º Ao director do estabelecimento de ensino compete:
+Art. 39.º Ao director do estabelecimento de ensino compete:
 
 1.º Enviar ao médico escolar, imediatamente a seguir ao encerramento da época das matrículas e no último dia de cada mês em relação àquele encerramento, uma nota dos alunos que se matricularem na escola, com discriminação de classes e turmas, de que conste:
 
@@ -526,21 +534,21 @@ d) Data da última vacinação ou revacinação contra a varíola e outras vacin
 
 6.º Dar execução imediata às providências que em matéria de saúde escolar forem determinadas pelo respectivo médico.
 
-###### Art. 40.º Ao inspector escolar, pela sua função específica de orientar, estimular e sugerir novos métodos de ensino, compete:
+Art. 40.º Ao inspector escolar, pela sua função específica de orientar, estimular e sugerir novos métodos de ensino, compete:
 
 1.º Instruir e esclarecer os professores na interpretação dos programas de higiene e na forma de os integrar nas actividades circum-escolares e outras actividades ligadas à assistência escolar;
 
 2.º Promover conferências médico-escolares ou outras actividades, com vista a aperfeiçoar o conhecimento dos professores na sua comparticipação no serviço de saúde escolar e na contribuição que este serviço possa trazer à melhoria da saúde total das populações escolares.
 
-###### Art. 41.º Às famílias, ao educador, ao pedagogo, ao orientador profissional e a outros agentes compete especialmente a solução dos problemas de ordem médico-psico-pedagógica, além de uma larga participação na tarefa educativa da população escolar.
+Art. 41.º Às famílias, ao educador, ao pedagogo, ao orientador profissional e a outros agentes compete especialmente a solução dos problemas de ordem médico-psico-pedagógica, além de uma larga participação na tarefa educativa da população escolar.
 
-###### Art. 42.º Ao pessoal docente, em geral, compete apoiar, dentro dos limites da sua capacidade, todas as tarefas atinentes à execução das actividades do serviço de saúde escolar, designadamente as que constam dos artigos e números anteriores.
+Art. 42.º Ao pessoal docente, em geral, compete apoiar, dentro dos limites da sua capacidade, todas as tarefas atinentes à execução das actividades do serviço de saúde escolar, designadamente as que constam dos artigos e números anteriores.
 
-###### Art. 43.º Ao pessoal não docente, em geral, compete prestar a máxima colaboração a toda a equipa de saúde escolar, sem perder de vista que no seu permanente contacto com essa população goza aquele pessoal da oportunidade de imediata acção junto dos alunos.
+Art. 43.º Ao pessoal não docente, em geral, compete prestar a máxima colaboração a toda a equipa de saúde escolar, sem perder de vista que no seu permanente contacto com essa população goza aquele pessoal da oportunidade de imediata acção junto dos alunos.
 
 #### SECÇÃO III — Quadros do pessoal
 
-###### Art. 44.º Os funcionários dos serviços de saúde e assistência do ultramar que exercem funções no serviço de saúde escolar distribuem-se pelos seguintes quadros:
+Art. 44.º Os funcionários dos serviços de saúde e assistência do ultramar que exercem funções no serviço de saúde escolar distribuem-se pelos seguintes quadros:
 
 a) Quadro médico comum;
 
@@ -556,19 +564,19 @@ f) Quadro privativo de serviço social;
 
 g) Quadro dos serviços gerais.
 
-###### Art. 45.º A composição do pessoal destes diferentes quadros será fixada no regulamento do serviço de saúde escolar de cada província, de acordo com as necessidades de serviço, não podendo, porém, modificar-se a classificação das categorias e classes previstas no [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964.
+Art. 45.º A composição do pessoal destes diferentes quadros será fixada no regulamento do serviço de saúde escolar de cada província, de acordo com as necessidades de serviço, não podendo, porém, modificar-se a classificação das categorias e classes previstas no [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964.
 
 § 1.º O provimento dos diferentes cargos será feito nos termos do citado [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
 
 § 2.º À medida que as necessidades o justifiquem, poderão ser criados cargos para outros técnicos que forem considerados indispensáveis à boa eficiência do serviço.
 
-###### Art. 46.º Pertencem ao quadro médico comum os médicos inspectores e os chefes de divisão de saúde escolar, conforme previsto na alínea h) do artigo 109.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
+Art. 46.º Pertencem ao quadro médico comum os médicos inspectores e os chefes de divisão de saúde escolar, conforme previsto na alínea h) do artigo 109.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
 
 § 1.º Salvo o modo de provimento previsto no artigo 273.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), o cargo de chefe de divisão de saúde escolar nas províncias de Angola e Moçambique será exercido, em comissão, por médicos escolhidos de entre os médicos escolares do quadro complementar de outros técnicos especializados, que, para esse efeito, serão considerados incluídos na classe correspondente à letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 § 2.º Na escolha para o exercício do cargo de chefe de divisão de saúde escolar será dada preferência aos médicos escolares especializados em saúde pública ou que possuam estágios em pediatria, psiquiatria e higiene mental e psicotecnia.
 
-###### Art. 47.º Pertencerão ao quadro complementar de outros técnicos especializados os médicos de saúde escolar e todos os restantes técnicos de que o serviço careça, designadamente psicólogos ou orientadores escolares, orientadores profissionais ou psicotécnicos e outros agentes admitidos nos termos estabelecidos no [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), e serão incluídos na classe correspondente à letra F do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 47.º Pertencerão ao quadro complementar de outros técnicos especializados os médicos de saúde escolar e todos os restantes técnicos de que o serviço careça, designadamente psicólogos ou orientadores escolares, orientadores profissionais ou psicotécnicos e outros agentes admitidos nos termos estabelecidos no [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), e serão incluídos na classe correspondente à letra F do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º As funções de médico escolar serão exercidas em regime de ocupação exclusiva, de harmonia com o disposto no artigo 154.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
 
@@ -576,42 +584,42 @@ g) Quadro dos serviços gerais.
 
 § 3.º Sempre que as superiores conveniências do serviço o aconselhem, poderá o Ministro do Ultramar dispensar a habilitação do curso de Medicina Tropical exigida no artigo 150.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), nas condições e termos em que essa dispensa é prevista para os médicos do quadro médico comum do ultramar no § 3.º do artigo 100.º do mesmo decreto.
 
-###### Art. 48.º Ao quadro comum administrativo de enfermagem e de serviço social pertencem os chefes de secção que chefiarão as secretarias das divisões de saúde escolar, desde que o serviço de saúde escolar disponha de autonomia administrativa. Estes funcionários serão incluídos nas classes previstas para os funcionários de igual categoria nos serviços de saúde e assistência.
+Art. 48.º Ao quadro comum administrativo de enfermagem e de serviço social pertencem os chefes de secção que chefiarão as secretarias das divisões de saúde escolar, desde que o serviço de saúde escolar disponha de autonomia administrativa. Estes funcionários serão incluídos nas classes previstas para os funcionários de igual categoria nos serviços de saúde e assistência.
 
-###### Art. 49.º Ao quadro privativo administrativo pertencerá o efectivo de funcionários do mesmo quadro que for fixado no regulamento a publicar na província. Estes funcionários serão incluídos nas classes correspondentes às dos seus congéneres dos serviços de saúde e assistência.
+Art. 49.º Ao quadro privativo administrativo pertencerá o efectivo de funcionários do mesmo quadro que for fixado no regulamento a publicar na província. Estes funcionários serão incluídos nas classes correspondentes às dos seus congéneres dos serviços de saúde e assistência.
 
-###### Art. 50.º Ao quadro de saúde pública pertencerão os enfermeiros de saúde pública em número a fixar no regulamento provincial, sendo a sua classe fixada no § 2.º do artigo 184.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
+Art. 50.º Ao quadro de saúde pública pertencerão os enfermeiros de saúde pública em número a fixar no regulamento provincial, sendo a sua classe fixada no § 2.º do artigo 184.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
 
 § único. A este quadro pertencerão os educadores sanitários e de saúde pública que forem julgados necessários para execução dos programas de educação sanitária nas escolas.
 
-###### Art. 51.º Ao quadro privativo do serviço social pertencerão os trabalhadores sociais que forem julgados necessários, que serão providos e agrupados nos termos previstos nos artigos 185.º e 186.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
+Art. 51.º Ao quadro privativo do serviço social pertencerão os trabalhadores sociais que forem julgados necessários, que serão providos e agrupados nos termos previstos nos artigos 185.º e 186.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
 
-###### Art. 52.º Ao quadro dos serviços gerais pertencerão os funcionários julgados necessários para execução do serviço de saúde escolar, cujo efectivo será fixado no regulamento provincial, e o seu provimento será feito conforme previsto no artigo 190.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
+Art. 52.º Ao quadro dos serviços gerais pertencerão os funcionários julgados necessários para execução do serviço de saúde escolar, cujo efectivo será fixado no regulamento provincial, e o seu provimento será feito conforme previsto no artigo 190.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382).
 
-###### Art. 53.º Poderão ser destacados outros funcionários dos serviços de saúde e assistência para prestar serviço nos quadros do serviço de saúde escolar.
+Art. 53.º Poderão ser destacados outros funcionários dos serviços de saúde e assistência para prestar serviço nos quadros do serviço de saúde escolar.
 
 § único. Esses funcionários, quando forem médicos especialistas, podem perceber uma gratificação a fixar nos regulamentos provinciais.
 
-###### Art. 54.º Aos enfermeiros de saúde pública e trabalhadores sociais que possuam estágios em pediatria e higiene mental infantil será dada preferência para a sua admissão nos respectivos quadros.
+Art. 54.º Aos enfermeiros de saúde pública e trabalhadores sociais que possuam estágios em pediatria e higiene mental infantil será dada preferência para a sua admissão nos respectivos quadros.
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 55.º Em cada província ultramarina o respectivo governador determinará a publicação, no prazo de seis meses, a contar da data da entrada em vigor do presente diploma, do Regulamento Provincial do Serviço de Saúde Escolar, com vista à sua execução, tendo em conta os condicionalismos locais e ainda o respectivo guia-referência, onde constarão as normas que orientarão os professores nos exames de selecção, mensurações, acuidades, outros testes e informações necessários à boa execução das suas funções.
+Art. 55.º Em cada província ultramarina o respectivo governador determinará a publicação, no prazo de seis meses, a contar da data da entrada em vigor do presente diploma, do Regulamento Provincial do Serviço de Saúde Escolar, com vista à sua execução, tendo em conta os condicionalismos locais e ainda o respectivo guia-referência, onde constarão as normas que orientarão os professores nos exames de selecção, mensurações, acuidades, outros testes e informações necessários à boa execução das suas funções.
 
-###### Art. 56.º Enquanto por outra forma se não dispuser, no ensino secundário e no ensino médio serão os professores de Educação Física que executarão e registarão, no início de cada ano escolar, as pesagens, mensurações e medidas de acuidade visual e auditiva.
+Art. 56.º Enquanto por outra forma se não dispuser, no ensino secundário e no ensino médio serão os professores de Educação Física que executarão e registarão, no início de cada ano escolar, as pesagens, mensurações e medidas de acuidade visual e auditiva.
 
-###### Art. 57.º As dispensas diárias das aulas de Educação Física são da competência do professor de Educação Física. As dispensas temporárias para períodos mais longos ou definitivos são da competência do médico escolar.
+Art. 57.º As dispensas diárias das aulas de Educação Física são da competência do professor de Educação Física. As dispensas temporárias para períodos mais longos ou definitivos são da competência do médico escolar.
 
-###### Art. 58.º No ensino secundário e no ensino médio compete ao director de classe ou ao director de ciclo coligir, em coordenação com o professor de Educação Física, a lista dos alunos, a referir ao serviço de saúde escolar, necessitados de atenção médico-pedagógica.
+Art. 58.º No ensino secundário e no ensino médio compete ao director de classe ou ao director de ciclo coligir, em coordenação com o professor de Educação Física, a lista dos alunos, a referir ao serviço de saúde escolar, necessitados de atenção médico-pedagógica.
 
-###### Art. 59.º Transitòriamente desempenharão funções nas divisões de saúde escolar das direcções provinciais dos serviços de saúde e assistência os funcionários técnicos e administrativos julgados necessários e que até ao presente prestam serviço na 6.ª Repartição das Direcções dos Serviços de Educação de Angola e Moçambique.
+Art. 59.º Transitòriamente desempenharão funções nas divisões de saúde escolar das direcções provinciais dos serviços de saúde e assistência os funcionários técnicos e administrativos julgados necessários e que até ao presente prestam serviço na 6.ª Repartição das Direcções dos Serviços de Educação de Angola e Moçambique.
 
-###### Art. 60.º Os médicos escolares que presentemente prestam serviço remunerado nas Direcções dos Serviços de Educação de Angola e Moçambique continuarão a exercer as suas funções sob orientação técnica da divisão de saúde escolar e com as atribuições estipuladas neste regulamento.
+Art. 60.º Os médicos escolares que presentemente prestam serviço remunerado nas Direcções dos Serviços de Educação de Angola e Moçambique continuarão a exercer as suas funções sob orientação técnica da divisão de saúde escolar e com as atribuições estipuladas neste regulamento.
 
-###### Art. 61.º Nos estabelecimentos de ensino deverão ser previstas instalações e gabinetes, não só para o médico escolar, como para os enfermeiros de saúde pública e trabalhadores sociais.
+Art. 61.º Nos estabelecimentos de ensino deverão ser previstas instalações e gabinetes, não só para o médico escolar, como para os enfermeiros de saúde pública e trabalhadores sociais.
 
-###### Art. 62.º A aquisição e manutenção do material de utilização permanente para o serviço de saúde escolar, como seja o mobiliário de gabinete médico e seu apetrechamento, continuará a constituir encargo das verbas próprias dos serviços de educação.
+Art. 62.º A aquisição e manutenção do material de utilização permanente para o serviço de saúde escolar, como seja o mobiliário de gabinete médico e seu apetrechamento, continuará a constituir encargo das verbas próprias dos serviços de educação.
 
-###### Art. 63.º As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro do Ultramar, ouvidos os respectivos serviços.
+Art. 63.º As dúvidas suscitadas na execução deste decreto serão resolvidas por despacho do Ministro do Ultramar, ouvidos os respectivos serviços.
 
 Ministério do Ultramar, 27 de Agosto de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

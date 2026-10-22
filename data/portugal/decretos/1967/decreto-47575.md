@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/03/05300/02460247.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-11-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 22f366bf6ecaf870bbaf098e1a4c962b394f1a1603568afff550a12dbc632a7f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9b6cabbbc2a8d725a6797cf138278c587889f5733c6941c97d140844be37cd50
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,29 @@ relationships:
   target: pt:dre:665154:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:256416:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:665154:por
+  label: "Revogado, com efeitos a partir de 31.12.1995, pelo DEC LEI.378/93.05.11.1993.MIE, DR.IS-A [259] de 05.11.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/378-1993-665154
+  date: '1993-11-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:39Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +119,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Passará a ser obrigatória a recepção e verificação de qualidade de todas as máquinas-ferramentas para o trabalho de metais.
+Artigo 1.º Passará a ser obrigatória a recepção e verificação de qualidade de todas as máquinas-ferramentas para o trabalho de metais.
 
 § 1.º Os trabalhos de recepção e verificação incumbem ao Centro de Normalização.
 
@@ -116,18 +129,18 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º A taxa para pagamento das despesas de recepção não excederá em nenhum caso 2 por cento do valor da máquina e será cobrada pelo Centro de Normalização, que suportará todos os custos com os trabalhos de recepção e verificação.
 
-###### Art. 2.º A importação e exportação de máquinas-ferramentas para o trabalho de metais só são permitidas desde que sejam cumpridos os preceitos fixados no artigo 1.º e seus parágrafos.
+Art. 2.º A importação e exportação de máquinas-ferramentas para o trabalho de metais só são permitidas desde que sejam cumpridos os preceitos fixados no artigo 1.º e seus parágrafos.
 
 § 1.º O desalfandegamento de máquinas-ferramentas importadas só será permitido contra a apresentação de certificados de recepção aceites pelo Centro de Normalização.
 
 § 2.º O envio de máquinas-ferramentas da metrópole para as províncias ultramarinas e destas para a metrópole é igualmente regido pelos mesmos preceitos.
 
-###### Art. 3.º Esta indústria deverá ser considerada, para os efeitos previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, como uma indústria em reorganização, por um período de cinco anos.
+Art. 3.º Esta indústria deverá ser considerada, para os efeitos previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), de 14 de Março de 1945, como uma indústria em reorganização, por um período de cinco anos.
 
 § 1.º Compete à Direcção-Geral dos Serviços Industriais, por intermédio da sua 2.ª Repartição (Fomento Industrial), verificar o cumprimento por parte dos fabricantes de máquinas-ferramentas para o trabalho de metais das providências previstas nos critérios aprovados por despacho do Secretário de Estado da Indústria para a defesa da estrutura do sector e prestar informação com vista à conveniência de concessão dos benefícios previstos no corpo deste artigo.
 
 § 2.º Os critérios previstos no parágrafo anterior serão publicados no Boletim da Direcção-Geral dos Serviços Industriais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

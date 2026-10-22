@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47146-1966-474758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-08-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46bf0bc4c3ed35f496fe8b2b7130dbcd3c7eacaee820be25fc614f1aab650867
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a07e950c54654ce78c9276374f4a7ca23beb53afb94ef300e707112a8463edf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:517840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:02Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +94,11 @@ Convindo também modificar as condições que regulam o regresso dos citados mil
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O § único do artigo 15.º do [Decreto n.º 44209](https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840), de 27 de Fevereiro de 1962, toma a redacção seguinte:
+Artigo 1.º O § único do artigo 15.º do [Decreto n.º 44209](https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840), de 27 de Fevereiro de 1962, toma a redacção seguinte:
 
 § único. Os militares referidos no corpo deste artigo baixam ao Hospital da Marinha logo que cheguem à metrópole, o que deve constar na respectiva guia de marcha. As condições em que os citados militares devem regressar à mesma província ultramarina para completar as respectivas comissões de serviço e aquelas que devem regular a sua substituição serão fixadas por despacho do Ministro da Marinha, que ouvirá o Ministro do Ultramar sempre que as decisões a tomar envolvam pessoal que pertence às lotações das direcções ou repartições provinciais dos serviços de marinha.
 
-###### Art. 2.º No artigo 17.º do [Decreto n.º 44209](https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840) é incluído um parágrafo, com a redacção seguinte:
+Art. 2.º No artigo 17.º do [Decreto n.º 44209](https://diariodarepublica.pt/dr/detalhe/decreto/44209-1962-517840) é incluído um parágrafo, com a redacção seguinte:
 
 § único. Quando se trate de militares que pertencem às lotações dos comandos navais e de defesas marítimas e que pelas juntas médicas sejam evacuados para tratamento na metrópole, continuando a receber vencimentos ultramarinos, o ingresso nos quadros ou a sua colocação como supranumerários apenas tem lugar:
 
@@ -102,9 +106,9 @@ a) Quando sejam considerados como aptos para o serviço e, se não for julgado o
 
 b) Quando, embora não sendo considerados aptos para o serviço, decorram 180 dias após a sua apresentação na Superintendência dos Serviços da Armada, a menos que o seu tratamento respeite a ferimento grave em combate.
 
-###### Art. 3.º As disposições do presente diploma consideram-se em vigor desde 1 de Maio de 1966.
+Art. 3.º As disposições do presente diploma consideram-se em vigor desde 1 de Maio de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - Joaquim Moreira da Silva Cunha.
 

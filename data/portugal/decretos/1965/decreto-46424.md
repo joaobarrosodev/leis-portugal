@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46424-1965-295617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1a5f0a5269dad02d9fcdcd7bd0c912b3ac1af33a52effafbb1032eb247ed0108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1772f742c76f8653f268df5360ac9b728a3f8572eba925df9a30b5c43177540
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:50Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +91,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Aos dirigentes e servidores dos hospitais, oficiais ou particulares, que se tenham distinguido no exercício das suas funções, podem ser atribuídos títulos honorários vitalícios correspondentes aos cargos exercidos.
+Artigo único. Aos dirigentes e servidores dos hospitais, oficiais ou particulares, que se tenham distinguido no exercício das suas funções, podem ser atribuídos títulos honorários vitalícios correspondentes aos cargos exercidos.
 
 § 1.º Esta distinção só pode ser conferida quando os dirigentes ou servidores abandonarem definitivamente a direcção ou serviço do hospital.
 
 § 2.º A atribuição será feita pelo Ministro da Saúde e Assistência, mediante proposta das respectivas administrações ou mesas, com parecer da Direcção-Geral dos Hospitais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco Pereira Neto de Carvalho.

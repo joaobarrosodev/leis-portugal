@@ -46,40 +46,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46427-1965-292133
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2025-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a102bf2efb696c7bde6b2a168c4023a8177e3023f86afefbe795a412336bb9d3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fcde628638302e66fc44b41ef22b55765a38abbe1d9c6b06cb711e7d5668727c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Condições de Higiene e Segurança no Trabalho
+- Construção Civil
+- Contra-ordenação
+- Higiene do Trabalho
+- Multa
+- Obras Públicas
+- Regulamento
+- Trabalhador
 relationships:
 - type: amended_by
   target: pt:dre:949908817:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "MANTIDAS EM VIGOR AS NORMAS TÉCNICAS DO REGULAMENTO APROVADO PELO PRESENTE DIPLOMA, EM TUDO O QUE NAO CONTRARIAR\
+    \ O DISPOSTO NO DEC LEI 155/95 DE 01-JUL DR.IS-A [150]\0S-A [150]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-07-01'
+- type: amended_by
+  target: pt:dre:475076:por
+  label: Decreto-Lei n.º 155/95 - Diário da República n.º 150/1995, Série I-A de 1995-07-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/155-1995-475076
+  date: '1995-07-01'
+- type: cites
+  target: pt:dre:328793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:370222:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:949908817:por
+  label: Revogados os artigos 15.º, 16.º, 17.º, 18.º, 19.º, 20.º, 21.º, 22.º, 23.º, 24.º, 25.º, 26.º, 27.º e 28.º pelo(a)
+    Decreto-Lei n.º 123/2025 - Diário da República n.º 226/2025, Série I de 2025-11-21, com efeitos com a entrada em vigor
+    da portaria prevista no n.º 2 do artigo 8.º deste
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/123-2025-949908817
+  date: '2025-11-21'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:51Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +126,9 @@ Assim, e com base no estudo levado a efeito por comissão para esse fim nomeada;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento das Instalações Provisórias Destinadas ao Pessoal Empregado nas Obras, que faz parte integrante do presente diploma e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o Regulamento das Instalações Provisórias Destinadas ao Pessoal Empregado nas Obras, que faz parte integrante do presente diploma e com ele baixa assinado pelo Ministro das Obras Públicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -102,13 +136,13 @@ REGULAMENTO DAS INSTALAÇÕES PROVISÓRIAS DESTINADAS AO PESSOAL EMPREGADO NAS O
 
 ### CAPÍTULO I — Abastecimento de água
 
-###### Artigo 1.º Em todos os locais onde se realizem obras deverá estar assegurado o fornecimento de água potável em quantidade suficiente para as necessidades do respectivo pessoal.
+Artigo 1.º Em todos os locais onde se realizem obras deverá estar assegurado o fornecimento de água potável em quantidade suficiente para as necessidades do respectivo pessoal.
 
-###### Art. 2.º Se existir rede de abastecimento local, a água deverá, sempre que possível, provir directamente dessa rede.
+Art. 2.º Se existir rede de abastecimento local, a água deverá, sempre que possível, provir directamente dessa rede.
 
-###### Art. 3.º Quando no local da obra não existir rede de abastecimento ou não seja possível a sua utilização, e o número de pessoas nela a empregar e a sua natureza e duração o justifiquem, deverá procurar-se dotá-lo com um sistema de abastecimento próprio de água potável.
+Art. 3.º Quando no local da obra não existir rede de abastecimento ou não seja possível a sua utilização, e o número de pessoas nela a empregar e a sua natureza e duração o justifiquem, deverá procurar-se dotá-lo com um sistema de abastecimento próprio de água potável.
 
-###### Art. 4.º Não existindo rede de abastecimento local, nem se justificando a execução de sistema de abastecimento próprio, a água potável será obtida em origem conveniente e distribuída por meio de depósitos apropriados, fechados, devidamente localizados e permanentemente mantidos em bom estado de conservação e asseio.
+Art. 4.º Não existindo rede de abastecimento local, nem se justificando a execução de sistema de abastecimento próprio, a água potável será obtida em origem conveniente e distribuída por meio de depósitos apropriados, fechados, devidamente localizados e permanentemente mantidos em bom estado de conservação e asseio.
 
 § 1.º A colheita da água destinada a esses depósitos será feita por forma higiénica, utilizando-se para o seu transporte recipientes fechados, destinados exclusivamente a esse fim e mantidos em bom estado de conservação e asseio.
 
@@ -116,7 +150,7 @@ REGULAMENTO DAS INSTALAÇÕES PROVISÓRIAS DESTINADAS AO PESSOAL EMPREGADO NAS O
 
 Quando assim suceder, nos recipientes e depósitos destinados ao transporte e distribuição de água não potável deverá ser aposta a inscrição: «Água imprópria para beber».
 
-###### Art. 5.º A utilização da água potável só poderá ser feita a partir de torneiras ou jactos ligados a rede de abastecimento ou aos depósitos a que se refere o artigo 4.º
+Art. 5.º A utilização da água potável só poderá ser feita a partir de torneiras ou jactos ligados a rede de abastecimento ou aos depósitos a que se refere o artigo 4.º
 
 § 1.º Os dispositivos referidos no corpo deste artigo serão em número suficiente e convenientemente localizados, por forma a facilitar a utilização da água potável, quer para bebida, quer para lavagem do pessoal.
 
@@ -124,7 +158,7 @@ Os locais destinados à lavagem do pessoal serão devidamente resguardados das v
 
 § 2.º É expressamente proibida a prática de mergulhar copos, canecas ou qualquer outra vasilha nos recipientes que contenham água potável para os fins indicados no parágrafo anterior.
 
-###### Art. 6.º Compete aos serviços técnicos de que dependam as obras:
+Art. 6.º Compete aos serviços técnicos de que dependam as obras:
 
 a) Decidir sobre a impossibilidade alegada da utilização de água de uma rede de distribuição local;
 
@@ -140,7 +174,7 @@ f) Decidir sobre os casos a que se reporta o § 2.º do artigo 4.º e aprovar as
 
 ### CAPÍTULO II — Instalações sanitárias e drenagem dos seus esgotos
 
-###### Art. 7.º Deverão existir nos locais onde se realizem obras, convenientemente localizadas e resguardadas das vistas, retretes para o pessoal - pelo menos uma por cada 25 indivíduos -, dispondo de água em quantidade suficiente para se manterem limpas e em boas condições de utilização. Quando agrupadas, as retretes individuais serão separadas entre si por divisórias com a altura mínima de 1,70 m.
+Art. 7.º Deverão existir nos locais onde se realizem obras, convenientemente localizadas e resguardadas das vistas, retretes para o pessoal - pelo menos uma por cada 25 indivíduos -, dispondo de água em quantidade suficiente para se manterem limpas e em boas condições de utilização. Quando agrupadas, as retretes individuais serão separadas entre si por divisórias com a altura mínima de 1,70 m.
 
 § 1.º As exigências mínimas, no que se refere a bacias de retrete, serão as do tipo turco sifonadas.
 
@@ -150,9 +184,9 @@ a) Quando a localização da obra, sua natureza ou duração e o número de pess
 
 b) Sempre que a existência de retretes se apresente inconveniente em consequência da impossibilidade ou dificuldade da ligação dos seus esgotos à rede de drenagem local ou, não existindo esta, se não justifique o estabelecimento de um sistema de evacuação dos esgotos.
 
-###### Art. 8.º A forma como deverá ser feita a drenagem dos esgotos e o destino a dar-lhes, incluindo, se se justificar, a execução de redes de drenagem privativas e de estações de depuração, serão resolvidos, para cada caso, tendo em consideração o número de indivíduos que trabalhem na obra, o tempo de duração, natureza e localização desta, de modo que fiquem devidamente asseguradas condições higiénicas, não só das zonas de trabalho, como também das da vizinhança.
+Art. 8.º A forma como deverá ser feita a drenagem dos esgotos e o destino a dar-lhes, incluindo, se se justificar, a execução de redes de drenagem privativas e de estações de depuração, serão resolvidos, para cada caso, tendo em consideração o número de indivíduos que trabalhem na obra, o tempo de duração, natureza e localização desta, de modo que fiquem devidamente asseguradas condições higiénicas, não só das zonas de trabalho, como também das da vizinhança.
 
-###### Art. 9.º Quando pela localização da obra, sua natureza e duração se não justificar a existência de retretes, poderá permitir-se a adopção de outra solução que assegure as necessárias condições higiénicas, considerando-se como exigência mínima a utilização de valas abertas no terreno, com a profundidade aproximada de 0,60 m, a largura mínima de 0,60 m e suficientemente resguardadas das vistas.
+Art. 9.º Quando pela localização da obra, sua natureza e duração se não justificar a existência de retretes, poderá permitir-se a adopção de outra solução que assegure as necessárias condições higiénicas, considerando-se como exigência mínima a utilização de valas abertas no terreno, com a profundidade aproximada de 0,60 m, a largura mínima de 0,60 m e suficientemente resguardadas das vistas.
 
 § 1.º Quando forem utilizadas valas, será obrigatória a imediata cobertura dos dejectos, depois da sua deposição, com soluto de cal ou criolina e logo em seguida com terra, para o que deverão existir no local os meios necessários para o efeito.
 
@@ -160,9 +194,9 @@ b) Sempre que a existência de retretes se apresente inconveniente em consequên
 
 § 3.º A localização destas valas será escolhida tendo em atenção a má vizinhança que originam e a possibilidade de contaminação de águas.
 
-###### Art. 10.º Sempre que a natureza e duração das obras e o número de pessoas que nelas trabalhem o justifiquem, deverão existir urinóis, em número suficiente, convenientemente localizados e resguardados das vistas por meio de uma protecção, mesmo rudimentar, dispondo de água em quantidade suficiente para se manterem limpos e em boas condições de utilização e ligados ao sistema de esgotos.
+Art. 10.º Sempre que a natureza e duração das obras e o número de pessoas que nelas trabalhem o justifiquem, deverão existir urinóis, em número suficiente, convenientemente localizados e resguardados das vistas por meio de uma protecção, mesmo rudimentar, dispondo de água em quantidade suficiente para se manterem limpos e em boas condições de utilização e ligados ao sistema de esgotos.
 
-###### Art. 11.º Não existindo sistema de esgotos, poderá ser permitida, em substituição dos urinóis, a adopção de outra solução que assegure as necessárias condições higiénicas, considerando-se como exigência mínima a utilização de valas para urinar, ligadas a poços absorventes.
+Art. 11.º Não existindo sistema de esgotos, poderá ser permitida, em substituição dos urinóis, a adopção de outra solução que assegure as necessárias condições higiénicas, considerando-se como exigência mínima a utilização de valas para urinar, ligadas a poços absorventes.
 
 § 1.º Quando se utilizarem valas para urinar, estas terão 0,60 m de largura, 0,60 m de profundidade e declive acentuado, devendo estender-se, no máximo, 2 m para cada lado do poço absorvente a que estão ligadas e ficar suficientemente resguardadas das vistas por meio de uma protecção, mesmo rudimentar.
 
@@ -172,7 +206,7 @@ b) Sempre que a existência de retretes se apresente inconveniente em consequên
 
 § 4.º A localização das valas para urinar e respectivos poços absorventes será escolhida tendo em atenção a má vizinhança que originam e a possibilidade de contaminação de águas.
 
-###### Art. 12.º Compete aos serviços técnicos de que dependam as obras:
+Art. 12.º Compete aos serviços técnicos de que dependam as obras:
 
 a) Aprovar o tipo, número e localização das retretes e promover que estas disponham dos meios necessários para se manterem permanentemente limpas e em boas condições de utilização;
 
@@ -192,13 +226,13 @@ h) Quando tiver sido autorizado o emprego de valas para urinar ligadas a poços 
 
 ### CAPÍTULO III — Recolha de lixos e seu destino
 
-###### Art. 13.º Em todas as obras cuja execução implique a existência de dormitórios e refeitórios para o pessoal que nelas trabalhe, deverá assegurar-se um sistema de recolha de lixos, em recipientes fechados, e a sua remoção diária.
+Art. 13.º Em todas as obras cuja execução implique a existência de dormitórios e refeitórios para o pessoal que nelas trabalhe, deverá assegurar-se um sistema de recolha de lixos, em recipientes fechados, e a sua remoção diária.
 
 Se essa remoção não for efectuada por serviço público, deverá dar-se aos lixos destino conveniente, sob o ponto de vista higiénico.
 
 § único. Sempre que a natureza da obra, sua duração e o número de pessoas que nela trabalhem não justificarem a existência das instalações referidas neste artigo, nem a remoção diária dos lixos, deverão os detritos de comida e outros ser lançados em fosso para esse fim aberto no terreno e seguidamente recobertos com uma camada de terra.
 
-###### Art. 14.º Compete aos serviços técnicos de que dependam as obras:
+Art. 14.º Compete aos serviços técnicos de que dependam as obras:
 
 a) Promover que, quer os locais de trabalho, quer os de estada do pessoal, se mantenham limpos e isentos de lixos;
 
@@ -212,25 +246,25 @@ d) Promover o exacto cumprimento do disposto no § único do artigo 13.º, nos c
 
 #### SECÇÃO I — Dormitórios e habitações para o pessoal
 
-###### Art. 15.º Quando numa obra exista guarda permanente, deverá ser prevista uma construção, mesmo com carácter provisório, para lhe servir exclusivamente de local de repouso, com área não inferior a 6 m2 e com um pé-direito mínimo de 2,20 m.
+Art. 15.º Quando numa obra exista guarda permanente, deverá ser prevista uma construção, mesmo com carácter provisório, para lhe servir exclusivamente de local de repouso, com área não inferior a 6 m2 e com um pé-direito mínimo de 2,20 m.
 
 § único. Tratando-se de obras cuja execução decorra no período compreendido entre 1 de Abril e 31 de Outubro, as construções a que se refere este artigo poderão ser substituídas por barracas com a mesma área, de lona impermeável ou de outro material semelhante.
 
-###### Art. 16.º Sempre que numa obra se empregar pessoal deslocado, deverá ser-lhe assegurado alojamento.
+Art. 16.º Sempre que numa obra se empregar pessoal deslocado, deverá ser-lhe assegurado alojamento.
 
 § 1.º Considera-se pessoal deslocado todo aquele que diàriamente seja obrigado a um percurso de ida e volta superior a duas horas, salvo se para utilizar qualquer meio de transporte, ou para se alojar nas suas proximidades, não tenha que despender mais de 1/10 do seu salário.
 
 § 2.º Estes alojamentos deverão ser situados próximo dos locais onde se realizem as obras e garantir, em boas condições higiénicas, o necessário repouso ao pessoal para que são destinados, quer descanse de dia, quer de noite.
 
-###### Art. 17.º Os executores de obras poderão ser dispensados da instalação de alojamentos colectivos para o pessoal deslocado que nelas trabalhe:
+Art. 17.º Os executores de obras poderão ser dispensados da instalação de alojamentos colectivos para o pessoal deslocado que nelas trabalhe:
 
 a) Desde que lhe faculte gratuitamente outro alojamento satisfazendo as condições fixadas no § 2.º do artigo 16.º;
 
 b) Ou desde que suportem o encargo representado pela diferença entre o custo dos transportes que esse pessoal tenha de utilizar diàriamente e 1/10 dos seus salários.
 
-###### Art. 18.º Os alojamentos colectivos para o pessoal deverão compreender dormitórios e instalações sanitárias anexas.
+Art. 18.º Os alojamentos colectivos para o pessoal deverão compreender dormitórios e instalações sanitárias anexas.
 
-###### Art. 19.º Os dormitórios colectivos para o pessoal, que poderão ser desmontáveis, deverão satisfazer as seguintes condições mínimas:
+Art. 19.º Os dormitórios colectivos para o pessoal, que poderão ser desmontáveis, deverão satisfazer as seguintes condições mínimas:
 
 a) As camas serão de preferência metálicas e fáceis de desmontar, para permitir uma eficiente desinfecção e desinfestação, não sendo de autorizar a instalação do tipo beliche com mais de duas camas;
 
@@ -262,7 +296,7 @@ n) Disporão de instalação para extinção de incêndios, por meio de água so
 
 o) Disporão de cacifos ou armários individuais, à prova de roedores, convenientemente localizados, onde o pessoal possa guardar os fatos de trabalho, separadamente das outras roupas.
 
-###### Art. 20.º Os dormitórios colectivos serão mantidos em boas condições de higiene e limpeza, para o que devem ser:
+Art. 20.º Os dormitórios colectivos serão mantidos em boas condições de higiene e limpeza, para o que devem ser:
 
 a) Limpos diàriamente;
 
@@ -272,7 +306,7 @@ c) Caiados ou pintados periòdicamente.
 
 § único. Haverá sempre um responsável pelo asseio e disciplina de cada alojamento colectivo.
 
-###### Art. 21.º Tratando-se de obras cuja execução decorra no período compreendido entre 1 de Abril e 31 de Outubro, poderão ser utilizados para dormitórios colectivos barracas de lona ou de outro material semelhante, desde que:
+Art. 21.º Tratando-se de obras cuja execução decorra no período compreendido entre 1 de Abril e 31 de Outubro, poderão ser utilizados para dormitórios colectivos barracas de lona ou de outro material semelhante, desde que:
 
 a) Sejam impermeáveis;
 
@@ -282,9 +316,9 @@ c) Disponham de ventilação e iluminação natural suficientes;
 
 d) Disponham de protecção contra insectos, a que se refere a alínea i) do já citado artigo 19.º
 
-###### Art. 22.º É aplicável aos dormitórios colectivos em barracas de lona ou de outro material semelhante o disposto nas alíneas a) e b) do artigo 20.º e no seu § único.
+Art. 22.º É aplicável aos dormitórios colectivos em barracas de lona ou de outro material semelhante o disposto nas alíneas a) e b) do artigo 20.º e no seu § único.
 
-###### Art. 23.º As construções destinadas às instalações sanitárias, que poderão ser desmontáveis, deverão satisfazer as seguintes condições:
+Art. 23.º As construções destinadas às instalações sanitárias, que poderão ser desmontáveis, deverão satisfazer as seguintes condições:
 
 a) Serão contíguas aos respectivos dormitórios colectivos e separadas destes por parede munida de porta;
 
@@ -318,19 +352,19 @@ Poderá ser permitida como exigência mínima, para utilização como duches, a 
 
 § 5.º Sempre que tal se justifique, deverá prever-se o fornecimento de água quente para os duches e lava-pés durante os meses mais frios do ano.
 
-###### Art. 24.º As instalações sanitárias deverão dispor de água corrente, em quantidade suficiente para todos os dispositivos instalados se poderem manter limpos e em boas condições de funcionamento.
+Art. 24.º As instalações sanitárias deverão dispor de água corrente, em quantidade suficiente para todos os dispositivos instalados se poderem manter limpos e em boas condições de funcionamento.
 
 § 1.º A água a utilizar nos lavatórios e chuveiros deverá ser potável e obedecer, conforme os casos, ao disposto nos artigos 2.º e 3.º deste regulamento.
 
 § 2.º Quando a água não possa provir directamente da rede de abastecimento local ou de sistema de abastecimento próprio, nem houver possibilidade de se obter água potável em quantidade suficiente para uma conveniente e higiénica utilização de todos os dispositivos instalados, deverão então prever-se nessas construções depósitos separados e apropriados, um para água potável, a partir do qual se fará o abastecimento dos lavatórios e chuveiros, e outro para água não potável para abastecimento das retretes e urinóis.
 
-###### Art. 25.º Deverá ser assegurada a drenagem dos esgotos dos lavatórios, chuveiros, retretes e urinóis, a que se refere o artigo 23.º, pela sua ligação à rede local ou ao sistema a prever nos termos do artigo 8.º
+Art. 25.º Deverá ser assegurada a drenagem dos esgotos dos lavatórios, chuveiros, retretes e urinóis, a que se refere o artigo 23.º, pela sua ligação à rede local ou ao sistema a prever nos termos do artigo 8.º
 
-###### Art. 26.º Nas obras com duração prevista superior a um ano, além dos alojamentos a que se refere o artigo 18.º, deverão existir habitações independentes, que poderão ser desmontáveis, destinadas ao pessoal recrutado com família a seu cargo, com residência a mais de 50 km do local do trabalho.
+Art. 26.º Nas obras com duração prevista superior a um ano, além dos alojamentos a que se refere o artigo 18.º, deverão existir habitações independentes, que poderão ser desmontáveis, destinadas ao pessoal recrutado com família a seu cargo, com residência a mais de 50 km do local do trabalho.
 
 § único. O número dessas habitações não deverá ser inferior a 20 por cento do total do pessoal referido neste artigo.
 
-###### Art. 27.º As habitações referidas no artigo 26.º serão dos dois tipos a seguir indicados:
+Art. 27.º As habitações referidas no artigo 26.º serão dos dois tipos a seguir indicados:
 
 Tipo I - Constituídas por cozinha-sala comum, com a área mínima de 10 m2, e dois quartos de cama, respectivamente com as áreas mínimas de 6,50 m2 e 4 m2.
 
@@ -340,15 +374,15 @@ Tipo II - Constituídas por cozinha-sala comum, com a área mínima de 10 m2, e 
 
 § 2.º Essas habitações, satisfazendo os mínimos fixados nas alíneas f) e g) do artigo 19.º, terão um pé-direito mínimo de 2,5 m e deverão dispor de janelas envidraçadas, com uma superfície mínima igual a 1/10 da área do respectivo compartimento.
 
-###### Art. 28.º O número total de habitações independentes a prever nos termos do disposto no artigo 26.º, compreenderá 50 por cento de cada um dos dois tipos fixados.
+Art. 28.º O número total de habitações independentes a prever nos termos do disposto no artigo 26.º, compreenderá 50 por cento de cada um dos dois tipos fixados.
 
 A distribuição de cada um desses tipos de habitações deverá ser feita tendo em consideração a composição dos agregados familiares a que são destinadas.
 
 #### SECÇÃO II — Refeitórios para o pessoal
 
-###### Art. 29.º Sempre que a natureza, localização e duração das obras e o número de indivíduos que nelas trabalhem o justifiquem, deverá ser previsto um local coberto e abrigado das intempéries, dotado de água potável e dispondo de mesas e bancos, onde o pessoal possa preparar e tomar as suas refeições.
+Art. 29.º Sempre que a natureza, localização e duração das obras e o número de indivíduos que nelas trabalhem o justifiquem, deverá ser previsto um local coberto e abrigado das intempéries, dotado de água potável e dispondo de mesas e bancos, onde o pessoal possa preparar e tomar as suas refeições.
 
-###### Art. 30.º Tratando-se de obras que ocupem mais de 50 operários por período superior a seis meses, e quando a sua natureza e localização o justificar, deverão ser montadas cozinhas com chaminés, dispondo de pia e dotadas de água potável, e refeitórios com mesas e bancos, separados das primeiras, mas ficando-lhes contíguos.
+Art. 30.º Tratando-se de obras que ocupem mais de 50 operários por período superior a seis meses, e quando a sua natureza e localização o justificar, deverão ser montadas cozinhas com chaminés, dispondo de pia e dotadas de água potável, e refeitórios com mesas e bancos, separados das primeiras, mas ficando-lhes contíguos.
 
 § 1.º Os refeitórios deverão dispor de lavatórios com uma torneira ou bica por cada dez ocupantes.
 
@@ -356,7 +390,7 @@ A distribuição de cada um desses tipos de habitações deverá ser feita tendo
 
 § 3.º O esgoto das pias e lavatórios deverá ser assegurado pela sua ligação à rede local ou ao sistema a prever nos termos do artigo 8.º
 
-###### Art. 31.º As construções a que se refere o artigo anterior, que poderão ser desmontáveis, devem satisfazer as seguintes condições:
+Art. 31.º As construções a que se refere o artigo anterior, que poderão ser desmontáveis, devem satisfazer as seguintes condições:
 
 a) Disporão de uma cobertura impermeável;
 
@@ -374,11 +408,11 @@ g) Disporão de iluminação eléctrica, salvo reconhecida impossibilidade, caso
 
 h) Disporão de portas abrindo para o exterior, com largura suficiente.
 
-###### Art. 32.º Os locais previstos nos artigos 29.º e 30.º serão mantidos em permanente estado de limpeza, devendo ser tomadas as providências necessárias para a eliminação dos lixos e resto de comida, nos termos do disposto no artigo 13.º
+Art. 32.º Os locais previstos nos artigos 29.º e 30.º serão mantidos em permanente estado de limpeza, devendo ser tomadas as providências necessárias para a eliminação dos lixos e resto de comida, nos termos do disposto no artigo 13.º
 
-###### Art. 33.º Ao pessoal é expressamente proibido preparar e tomar as suas refeições fora dos locais destinados a esse fim.
+Art. 33.º Ao pessoal é expressamente proibido preparar e tomar as suas refeições fora dos locais destinados a esse fim.
 
-###### Art. 34.º Compete aos serviços técnicos de que dependam as obras:
+Art. 34.º Compete aos serviços técnicos de que dependam as obras:
 
 a) Autorizar a utilização de barracas de lona ou de outro material semelhante nos casos previstos no § único do artigo 15.º, desde que satisfaçam os mínimos nele fixados;
 
@@ -396,7 +430,7 @@ f) Decidir os casos em que deva ser dado cumprimento ao disposto nos artigos 29.
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 35.º As disposições do presente regulamento são aplicáveis tanto a obras públicas como a obras particulares, quer sejam executadas em regime de empreitada, quer por administração directa.
+Art. 35.º As disposições do presente regulamento são aplicáveis tanto a obras públicas como a obras particulares, quer sejam executadas em regime de empreitada, quer por administração directa.
 
 § 1.º Consideram-se obras públicas:
 
@@ -406,33 +440,33 @@ b) As obras de empresas concessionárias do Estado.
 
 § 2.º Consideram-se obras particulares as que não estiverem abrangidas pelo disposto no parágrafo anterior.
 
-###### Art. 36.º Os encargos resultantes da aplicação do presente regulamento serão suportados pelos executores das obras sempre que os respectivos contratos não disponham por forma diferente.
+Art. 36.º Os encargos resultantes da aplicação do presente regulamento serão suportados pelos executores das obras sempre que os respectivos contratos não disponham por forma diferente.
 
-###### Art. 37.º Dos cadernos de encargos das empreitadas de obras públicas deverá constar a obrigação de os respectivos adjudicatários darem cumprimento às disposições do presente regulamento que lhes sejam aplicáveis.
+Art. 37.º Dos cadernos de encargos das empreitadas de obras públicas deverá constar a obrigação de os respectivos adjudicatários darem cumprimento às disposições do presente regulamento que lhes sejam aplicáveis.
 
 § único. Tratando-se de obras particulares, deverá constar das respectivas licenças idêntica obrigação para os seus executores.
 
-###### Art. 38.º Na execução de obras públicas de qualquer natureza (referidas no § 1.º do artigo 35.º), os serviços técnicos responsáveis, tendo em consideração a natureza, importância, localização e duração prevista, grau de concentração e desenvolvimento a dar aos trabalhos, o número provável de pessoas a empregar e o local onde as mesmas forem recrutadas, precisarão aos seus adjudicatários, por escrito e antes do começo dos trabalhos, as disposições do presente regulamento a que logo de início ficarão obrigados, o prazo em que deverão efectivá-las e as demais indicações que se tornarem necessárias nos termos deste regulamento.
+Art. 38.º Na execução de obras públicas de qualquer natureza (referidas no § 1.º do artigo 35.º), os serviços técnicos responsáveis, tendo em consideração a natureza, importância, localização e duração prevista, grau de concentração e desenvolvimento a dar aos trabalhos, o número provável de pessoas a empregar e o local onde as mesmas forem recrutadas, precisarão aos seus adjudicatários, por escrito e antes do começo dos trabalhos, as disposições do presente regulamento a que logo de início ficarão obrigados, o prazo em que deverão efectivá-las e as demais indicações que se tornarem necessárias nos termos deste regulamento.
 
 § 1.º No decorrer da empreitada e em face da natureza dos trabalhos a realizar e do desenvolvimento a dar às diferentes fases da sua execução, deverão os mesmos serviços técnicos determinar aos adjudicatários, também por escrito e com a necessária antecedência, as demais disposições do regulamento a que ficarão obrigados, fixando a forma e os prazos para as cumprir.
 
 § 2.º Tratando-se de obras públicas a executar por administração directa, deverão os respectivos serviços promover que desde o seu início e nas diferentes fases da sua realização seja dado cumprimento às disposições do presente regulamento, tendo em consideração as circunstâncias já indicadas neste artigo.
 
-###### Art. 39.º Na execução de obras particulares e sempre que tal se justificar, os serviços técnicos de que dependam, tendo em consideração a natureza, importância, localização e duração dos trabalhos, o número de pessoas a empregar e o local onde forem recrutadas, fixarão por escrito, nos documentos das mesmas obras e antes do seu início, as obrigações do presente regulamento a que o seu executor deverá dar satisfação, o prazo em que deverão efectivá-las e as demais indicações que se tornem necessárias nos termos deste regulamento.
+Art. 39.º Na execução de obras particulares e sempre que tal se justificar, os serviços técnicos de que dependam, tendo em consideração a natureza, importância, localização e duração dos trabalhos, o número de pessoas a empregar e o local onde forem recrutadas, fixarão por escrito, nos documentos das mesmas obras e antes do seu início, as obrigações do presente regulamento a que o seu executor deverá dar satisfação, o prazo em que deverão efectivá-las e as demais indicações que se tornem necessárias nos termos deste regulamento.
 
 § único. Para cumprimento do disposto neste artigo, as obras não poderão ser iniciadas sem que os seus executores, com a necessária antecedência, dêem conhecimento à entidade licenciadora da data em que as pretendem começar.
 
-###### Art. 40.º Nos locais de trabalho será afixado o texto das disposições deste regulamento que mais directamente interessam o seu pessoal.
+Art. 40.º Nos locais de trabalho será afixado o texto das disposições deste regulamento que mais directamente interessam o seu pessoal.
 
-###### Art. 41.º Ninguém pode ser despedido por ter reclamado contra faltas de cumprimento do preceituado neste regulamento.
+Art. 41.º Ninguém pode ser despedido por ter reclamado contra faltas de cumprimento do preceituado neste regulamento.
 
 § único. Verificado o despedimento por essa causa, o trabalhador terá direito à indemnização fixada no artigo 4.º do [Decreto-Lei n.º 31280](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31280-1941-328793), de 22 de Maio de 1941.
 
-###### Art. 42.º Dos «Boletins de informação - Cadastro dos empreiteiros», relativos a empreitadas de obras públicas, deverá constar a informação sobre o modo como nelas foi dado cumprimento às disposições deste regulamento.
+Art. 42.º Dos «Boletins de informação - Cadastro dos empreiteiros», relativos a empreitadas de obras públicas, deverá constar a informação sobre o modo como nelas foi dado cumprimento às disposições deste regulamento.
 
 #### SECÇÃO II — Fiscalização
 
-###### Art. 43.º A fiscalização do preceituado neste regulamento compete:
+Art. 43.º A fiscalização do preceituado neste regulamento compete:
 
 a) Nas obras públicas, aos serviços técnicos de que essas obras dependam e à Inspecção do Trabalho;
 
@@ -442,11 +476,11 @@ b) Nas obras particulares, aos serviços técnicos das entidades que as licencia
 
 § 2.º Sempre que o julgue conveniente, poderá a fiscalização fazer depender as suas resoluções que envolvam matéria de natureza sanitária de prévia consulta à respectiva delegação de saúde.
 
-###### Art. 44.º Os funcionários da fiscalização devem exercer uma acção não apenas repressiva, mas predominantemente educativa e orientadora.
+Art. 44.º Os funcionários da fiscalização devem exercer uma acção não apenas repressiva, mas predominantemente educativa e orientadora.
 
-###### Art. 45.º Em caso algum poderá ser impedida ou dificultada a entrada nas obras e o acesso a qualquer local do trabalho aos funcionários da fiscalização e dos serviços de saúde.
+Art. 45.º Em caso algum poderá ser impedida ou dificultada a entrada nas obras e o acesso a qualquer local do trabalho aos funcionários da fiscalização e dos serviços de saúde.
 
-###### Art. 46.º Das resoluções da fiscalização haverá os seguintes recursos:
+Art. 46.º Das resoluções da fiscalização haverá os seguintes recursos:
 
 a) Das tomadas pela fiscalização dos serviços técnicos de que uma obra pública dependa, para a chefia dos respectivos serviços;
 
@@ -458,9 +492,9 @@ c) Das tomadas pela fiscalização da Inspecção do Trabalho, para a própria I
 
 #### SECÇÃO III — Penalidades
 
-###### Art. 47.º Se um adjudicatário não der cumprimento às obrigações que lhe foram impostas nos termos do disposto no artigo 38.º e seu § 1.º, a fiscalização, independentemente da aplicação das multas a que houver lugar, poderá promover a execução de tudo o que para tal for necessário, à custa do mesmo adjudicatário.
+Art. 47.º Se um adjudicatário não der cumprimento às obrigações que lhe foram impostas nos termos do disposto no artigo 38.º e seu § 1.º, a fiscalização, independentemente da aplicação das multas a que houver lugar, poderá promover a execução de tudo o que para tal for necessário, à custa do mesmo adjudicatário.
 
-###### Art. 48.º As obras particulares iniciadas em contravenção com o disposto no artigo 39.º poderão ser imediatamente embargadas por qualquer das entidades fiscalizadoras.
+Art. 48.º As obras particulares iniciadas em contravenção com o disposto no artigo 39.º poderão ser imediatamente embargadas por qualquer das entidades fiscalizadoras.
 
 § 1.º Do auto de embargo constará, com a minúcia suficiente, o estado de adiantamento das obras.
 
@@ -470,9 +504,9 @@ c) Das tomadas pela fiscalização da Inspecção do Trabalho, para a própria I
 
 § 4.º O embargo só poderá ser levantado depois de cessar o motivo que o determinou.
 
-###### Art. 49.º Os funcionários são disciplinarmente responsáveis pela observância do disposto nos artigos 37.º e seu § único, 38.º e seus parágrafos e 39.º e 48.º e seus parágrafos.
+Art. 49.º Os funcionários são disciplinarmente responsáveis pela observância do disposto nos artigos 37.º e seu § único, 38.º e seus parágrafos e 39.º e 48.º e seus parágrafos.
 
-###### Art. 50.º Além das penalidades previstas nos artigos anteriores, as transgressões às disposições deste regulamento serão punidas:
+Art. 50.º Além das penalidades previstas nos artigos anteriores, as transgressões às disposições deste regulamento serão punidas:
 
 a) Com multa de 200$00: a falta de cumprimento das decisões tomadas pelos serviços técnicos respectivos no referente ao disposto nas alíneas e) do artigo 6.º e a) e b) do artigo 14.º, por cada trabalhador para o qual não for dado cumprimento ao disposto no artigo 16.º; ou, tendo sido concedida dispensa do cumprimento do disposto nesse artigo, por cada trabalhador para o qual não for dada exacta satisfação ao estabelecido nas alíneas a) ou b) do artigo 17.º; a falta de cumprimento do disposto no artigo 40.º; e ainda a falta de cumprimento das disposições deste regulamento, para as quais se não preveja penalidade especial;
 
@@ -486,22 +520,22 @@ d) Com multa de 2000$00: a falta de cumprimento do disposto no artigo 1.º e das
 
 § 2.º Nas obras públicas comparticipadas pelo Estado e executadas por administração directa serão suspensos os pagamentos a efectuar pela entidade comparticipante enquanto subsistir a falta que se observar no cumprimento das disposições deste regulamento.
 
-###### Art. 51.º As multas cominadas no artigo anterior serão aplicadas aos executores das obras, quer sejam empreiteiros, tarefeiros ou donos.
+Art. 51.º As multas cominadas no artigo anterior serão aplicadas aos executores das obras, quer sejam empreiteiros, tarefeiros ou donos.
 
 § 1.º Em caso de autuação, e independentemente do normal prosseguimento dos trabalhos, notificar-se-á o seu executor para suprir, dentro do prazo certo, as deficiências encontradas.
 
 § 2.º A falta de cumprimento no prazo fixado do que constar da notificação será punida com multa igual à anteriormente imposta, multiplicada pelo coeficiente 10, não podendo, porém, exceder 20000$00.
 
-###### Art. 52.º Quando a aplicação das multas previstas no artigo anterior se mostrar ineficiente, poderá a obra ser embargada por qualquer das entidades fiscalizadoras.
+Art. 52.º Quando a aplicação das multas previstas no artigo anterior se mostrar ineficiente, poderá a obra ser embargada por qualquer das entidades fiscalizadoras.
 
 § 1.º Tratando-se de obras públicas, o embargo só poderá ser ordenado por acordo de todas as suas entidades fiscalizadoras.
 
 § 2.º As entidades que hajam ordenado o embargo de uma obra podem autorizar a continuação dos trabalhos, desde que tenha cessado o motivo que o determinou.
 
-###### Art. 53.º O trabalhador que violar o preceituado nos artigos 5.º e 33.º será punido com suspensão de três dias de trabalho, e de quinze se se mancomunar com os executores de obras, com o fim de serem dispensados do cumprimento do disposto nos artigos 16.º e 17.º
+Art. 53.º O trabalhador que violar o preceituado nos artigos 5.º e 33.º será punido com suspensão de três dias de trabalho, e de quinze se se mancomunar com os executores de obras, com o fim de serem dispensados do cumprimento do disposto nos artigos 16.º e 17.º
 
 § único. Em caso de reincidência, as suspensões aplicadas serão elevadas para o dobro.
 
-###### Art. 54.º Compete aos tribunais do trabalho o julgamento das transgressões aos preceitos deste regulamento, sendo aplicável aos autos de notícia levantados pelos funcionários da fiscalização o disposto nos artigos 24.º e seguintes do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948.
+Art. 54.º Compete aos tribunais do trabalho o julgamento das transgressões aos preceitos deste regulamento, sendo aplicável aos autos de notícia levantados pelos funcionários da fiscalização o disposto nos artigos 24.º e seguintes do [Decreto-Lei n.º 37245](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37245-1948-370222), de 27 de Dezembro de 1948.
 
 Ministério das Obras Públicas, 10 de Julho de 1965. - O Ministro das Obras Públicas, Eduardo de Arantes e Oliveira.

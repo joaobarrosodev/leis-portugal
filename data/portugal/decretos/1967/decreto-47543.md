@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47543-1967-504373
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a512b075fcfc89f0d1eb046ff84520bac8996f93580b1c5e58f09d920fe72260
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: aeb322e512599c385f9381012b146aa885878be21afc659fd715bd414a60ea3f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:21Z'
   warnings: []
   errors: []
 ---
@@ -89,11 +89,11 @@ Nos termos do § 1.º do artigo 150.º da Constituição, por motivo de urgênci
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os militares das forças de terra, mar e ar que prestem serviço nas províncias ultramarinas e os que, havendo-o prestado, tenham passado à disponibilidade há menos de um ano poderão, quando concorram a cargos públicos do ultramar, substituir, provisòriamente, os documentos exigidos pela sua nota de assentos, da qual devem constar todos os elementos de identificação, designadamente a data do nascimento e as habilitações literárias.
+Artigo único. Os militares das forças de terra, mar e ar que prestem serviço nas províncias ultramarinas e os que, havendo-o prestado, tenham passado à disponibilidade há menos de um ano poderão, quando concorram a cargos públicos do ultramar, substituir, provisòriamente, os documentos exigidos pela sua nota de assentos, da qual devem constar todos os elementos de identificação, designadamente a data do nascimento e as habilitações literárias.
 
 § único. Aqueles que vierem a ser nomeados ou contratados deverão apresentar, no prazo de 90 dias, a contar da data da posse, os documentos legalmente exigidos, sendo exonerados os que o não fizerem ou se verifique não possuírem os requisitos legais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

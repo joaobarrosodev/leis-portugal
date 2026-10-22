@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46488-1965-292314
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5c04d644ff7c7c179be41fff205e55022484358dc8bd8f619d4b365e165d6c3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a0785dd22221711bea0241691f05f963c9b1a82e1c68af787e86763d816a8a7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:21Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +92,10 @@ Tendo em vista o disposto no n.º 8.º do artigo 12.º do Código Administrativo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A delimitação entre as freguesias de Cornes e Candemil, do concelho de Vila Nova de Cerveira, é definida por uma linha que, iniciando-se na região de Vale do Inferno (ou Fusos), tem o seu ponto de partida na Fonte da Trancada (ou Fonte da Atrancada), sítio onde convergem os limites das freguesias de Sapardos, Cornes e Candemil, e se dirige pela encosta para o Alto dos Poços Novos, a 250 m do curso do ribeiro do Peso; daqui prossegue para determinado local da encosta dos Fusos, situado a 350 m a sudoeste do curso do ribeiro do Peso e próximo de um caminho que ali passa; continua a seguir pela mesma encosta até ao local, próximo da azenha de herdeiros de José António de Castro, onde termina o caminho que vai dar ao ribeiro de Silva Rosa, afluente do ribeiro do Peso; segue depois o curso do ribeiro de Silva Rosa até ao caminho do lugar de Cabral e prossegue por este caminho em direcção à azenha de herdeiros de Abílio Ribeiro; continua através da mata de Joaquim Rodrigues, de Cornes, até ao Alto da Chã das Eiras, descendo daqui pela encosta do baldio em direcção ao ribeiro de Cento Ramos e passando, seguidamente, a estremar, do lado da freguesia de Cornes, com matas de José Daniel de Barros, Augusto César Fernandes e José António Bouçós e, do lado da freguesia de Candemil, com matas de António Pereira, Joaquim José Pereira e José Joaquim de Barros; prossegue pela região do baldio da Vertilha, desde o local da Baixa do Badão (ou Laguinhos do Badão), acompanhando o caminho de Vertilha e passando próximo das presas de Vertilha; continuando a acompanhar o mesmo caminho, segue até ao local em que ele se cruza com o caminho do lugar do Outeiro, freguesia de Nogueira, no ponto onde convergem as linhas limites das freguesias de Cornes, Candemil e Nogueira e onde termina o limite.
+Artigo 1.º A delimitação entre as freguesias de Cornes e Candemil, do concelho de Vila Nova de Cerveira, é definida por uma linha que, iniciando-se na região de Vale do Inferno (ou Fusos), tem o seu ponto de partida na Fonte da Trancada (ou Fonte da Atrancada), sítio onde convergem os limites das freguesias de Sapardos, Cornes e Candemil, e se dirige pela encosta para o Alto dos Poços Novos, a 250 m do curso do ribeiro do Peso; daqui prossegue para determinado local da encosta dos Fusos, situado a 350 m a sudoeste do curso do ribeiro do Peso e próximo de um caminho que ali passa; continua a seguir pela mesma encosta até ao local, próximo da azenha de herdeiros de José António de Castro, onde termina o caminho que vai dar ao ribeiro de Silva Rosa, afluente do ribeiro do Peso; segue depois o curso do ribeiro de Silva Rosa até ao caminho do lugar de Cabral e prossegue por este caminho em direcção à azenha de herdeiros de Abílio Ribeiro; continua através da mata de Joaquim Rodrigues, de Cornes, até ao Alto da Chã das Eiras, descendo daqui pela encosta do baldio em direcção ao ribeiro de Cento Ramos e passando, seguidamente, a estremar, do lado da freguesia de Cornes, com matas de José Daniel de Barros, Augusto César Fernandes e José António Bouçós e, do lado da freguesia de Candemil, com matas de António Pereira, Joaquim José Pereira e José Joaquim de Barros; prossegue pela região do baldio da Vertilha, desde o local da Baixa do Badão (ou Laguinhos do Badão), acompanhando o caminho de Vertilha e passando próximo das presas de Vertilha; continuando a acompanhar o mesmo caminho, segue até ao local em que ele se cruza com o caminho do lugar do Outeiro, freguesia de Nogueira, no ponto onde convergem as linhas limites das freguesias de Cornes, Candemil e Nogueira e onde termina o limite.
 
-###### Art. 2.º A Câmara Municipal de Vila Nova de Cerveira procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, de modo que fiquem bem patentes os limites fixados no artigo 1.º deste diploma.
+Art. 2.º A Câmara Municipal de Vila Nova de Cerveira procederá, no prazo de 90 dias, à colocação de marcos onde se tornem necessários, de modo que fiquem bem patentes os limites fixados no artigo 1.º deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Agosto de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.

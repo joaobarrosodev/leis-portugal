@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47578-1967-503638
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7cf734e709fd274548a2c0f0fefb09a35746274efbf298b21773d5076d145961
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 19ec5bd1038ddfab8bfe72064b351fae2947ee05985475cf7edf5c3410fbea00
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:39Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +91,15 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Ultramar, em nome da província de Timor, a contrair um empréstimo no Banco Nacional Ultramarino, até ao montante de 10000000$00, à taxa de juro de 2,5 por cento ao ano, pagável aos semestres, em 30 de Junho e 30 de Dezembro de cada ano, e amortizável, em vinte prestações semestrais iguais, a partir de 1970, não havendo lugar a amortizações nos anos de 1967, 1968 e 1969.
+Artigo 1.º É autorizado o Ministro do Ultramar, em nome da província de Timor, a contrair um empréstimo no Banco Nacional Ultramarino, até ao montante de 10000000$00, à taxa de juro de 2,5 por cento ao ano, pagável aos semestres, em 30 de Junho e 30 de Dezembro de cada ano, e amortizável, em vinte prestações semestrais iguais, a partir de 1970, não havendo lugar a amortizações nos anos de 1967, 1968 e 1969.
 
 § único. Este empréstimo será representado por títulos emitidos pela província de Timor.
 
-###### Art. 2.º O produto do empréstimo referido no artigo anterior será integralmente aplicado no fomento da actividade da Caixa de Crédito Agro-Pecuário de Timor sob a forma de empréstimo reembolsável, cujas cláusulas serão ajustadas em contrato a realizar entre a Caixa e o Governo da província, constituindo os encargos resultantes despesa preferencial e obrigatória da Caixa, que as inscreverá anualmente no seu orçamento até ao montante necessário e respectiva liquidação.
+Art. 2.º O produto do empréstimo referido no artigo anterior será integralmente aplicado no fomento da actividade da Caixa de Crédito Agro-Pecuário de Timor sob a forma de empréstimo reembolsável, cujas cláusulas serão ajustadas em contrato a realizar entre a Caixa e o Governo da província, constituindo os encargos resultantes despesa preferencial e obrigatória da Caixa, que as inscreverá anualmente no seu orçamento até ao montante necessário e respectiva liquidação.
 
-###### Art. 3.º No orçamento geral da província de Timor serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e à amortização deste empréstimo.
+Art. 3.º No orçamento geral da província de Timor serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com juros e à amortização deste empréstimo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

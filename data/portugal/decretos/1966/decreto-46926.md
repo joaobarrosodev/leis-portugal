@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46926-1966-486331
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ef896a86d6c8702eb1fd2cb9aadad35165092f3d2307177df7ed4baa589ca4f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71ed9f1d34c5ee0bf6725bcbe1b46147052b88f3bac7f0877f00423d1667394f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:195269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:398140:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486330:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:17Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +106,7 @@ Regulamento do Sistema Estatístico Nacional
 
 ### CAPÍTULO I — Do Conselho Nacional de Estatística e das comissões consultivas de estatística
 
-###### Artigo 1.º - 1. As reuniões do Conselho Nacional de Estatística são convocadas pelo respectivo presidente.
+Artigo 1.º - 1. As reuniões do Conselho Nacional de Estatística são convocadas pelo respectivo presidente.
 
 2. As convocações devem enumerar os assuntos a tratar na reunião e podem ser acompanhadas de notas explicativas.
 
@@ -98,9 +114,9 @@ Regulamento do Sistema Estatístico Nacional
 
 4. O presidente pode delegar no vice-presidente a convocação e a presidência das reuniões.
 
-###### Art. 2.º Os membros do Conselho poderão ser assistidos, durante as reuniões, por técnicos, sem direito de voto, para o esclarecimento dos assuntos a apreciar.
+Art. 2.º Os membros do Conselho poderão ser assistidos, durante as reuniões, por técnicos, sem direito de voto, para o esclarecimento dos assuntos a apreciar.
 
-###### Art. 3.º - 1. O Conselho só pode funcionar vàlidamente quando estiver presente a maioria dos seus membros, incluindo o presidente ou o vice-presidente.
+Art. 3.º - 1. O Conselho só pode funcionar vàlidamente quando estiver presente a maioria dos seus membros, incluindo o presidente ou o vice-presidente.
 
 2. As resoluções do Conselho são tomadas por maioria de votos dos membros presentes à reunião, tendo o presidente, ou vice-presidente, quando o substituir, voto de qualidade.
 
@@ -108,19 +124,19 @@ Regulamento do Sistema Estatístico Nacional
 
 4. As resoluções são numeradas por ordem e registadas na integra em livro especial, sendo assinadas nos termos referidos no número anterior.
 
-###### Art. 4.º As resoluções estão sujeitas a homologação do Presidente do Conselho, depois da qual são comunicadas ao Instituto Nacional de Estatística, para efeitos de execução ou transmissão, devendo ser publicadas no seu boletim mensal.
+Art. 4.º As resoluções estão sujeitas a homologação do Presidente do Conselho, depois da qual são comunicadas ao Instituto Nacional de Estatística, para efeitos de execução ou transmissão, devendo ser publicadas no seu boletim mensal.
 
-###### Art. 5.º - 1. As funções de secretário do Conselho, sem direito a voto, são exercidas pelo chefe da Repartição de Coordenação Estatística.
+Art. 5.º - 1. As funções de secretário do Conselho, sem direito a voto, são exercidas pelo chefe da Repartição de Coordenação Estatística.
 
 2. Incumbe a esta Repartição todo o expediente relativo ao funcionamento do Conselho.
 
-###### Art. 6.º É aplicável às comissões consultivas de estatística o disposto nos n.os 1 a 3 dos artigos 1.º e 3.º e no artigo 2.º
+Art. 6.º É aplicável às comissões consultivas de estatística o disposto nos n.os 1 a 3 dos artigos 1.º e 3.º e no artigo 2.º
 
 ### CAPÍTULO II — Do Instituto Nacional de Estatística
 
 #### SECÇÃO I — Organização dos serviços centrais
 
-###### Art. 7.º - 1. A secretaria compreende duas secções:
+Art. 7.º - 1. A secretaria compreende duas secções:
 
 1.ª Secção - Contabilidade e transgressões;
 
@@ -152,7 +168,7 @@ d) A reprodução de boletins e outros documentos;
 
 e) A superintendência na conservação e limpeza das instalações e do mobiliário.
 
-###### Art. 8.º - 1. A 1.ª Repartição (estatísticas demográficas e sociais) compreende três secções:
+Art. 8.º - 1. A 1.ª Repartição (estatísticas demográficas e sociais) compreende três secções:
 
 3.ª Secção - Estatísticas demográficas e da saúde;
 
@@ -178,7 +194,7 @@ a) Elaborar as estatísticas da família e das suas condições de vida, bem com
 
 b) Colaborar no planeamento e orientação a que se refere a alínea a) do n.º 2, nas matérias da sua competência.
 
-###### Art. 9.º - 1. A 2.ª Repartição (estatísticas da distribuição) compreende duas secções:
+Art. 9.º - 1. A 2.ª Repartição (estatísticas da distribuição) compreende duas secções:
 
 6.ª Secção - Estatísticas do comércio externo;
 
@@ -192,7 +208,7 @@ a) Colaborar no planeamento e orientação técnica dos recenseamentos gerais e 
 
 b) A elaboração das estatísticas de sector da distribuição e da prestação de serviços, em geral, e, em especial, dos estabelecimentos, pessoal e respectivas remunerações, capitais investidos, existências de mercadorias, compras e vendas, dos preços por grosso e a retalho; transportes marítimos, fluviais, ferroviários, rodoviários e aéreos; dos correios e telecomunicações; e do turismo.
 
-###### Art. 10.º - 1. A 3.ª Repartição (estatísticas financeiras) compreende duas secções:
+Art. 10.º - 1. A 3.ª Repartição (estatísticas financeiras) compreende duas secções:
 
 8.ª Secção - Estatísticas das finanças públicas;
 
@@ -202,7 +218,7 @@ b) A elaboração das estatísticas de sector da distribuição e da prestação
 
 3. Compete à 9.ª Secção a elaboração das estatísticas financeiras do sector privado, designadamente as da contribuição, dissolução, fusão e movimento das sociedades, as dos mercados cambial, monetário e financeiro, e as da balança de pagamentos.
 
-###### Art. 11.º - 1. A 4.ª Repartição (estatísticas agrícolas e alimentares) compreende duas secções:
+Art. 11.º - 1. A 4.ª Repartição (estatísticas agrícolas e alimentares) compreende duas secções:
 
 10.ª Secção - Estatísticas agrícolas e florestais;
 
@@ -216,7 +232,7 @@ b) Elaborar as estatísticas correntes da produção vegetal dos sectores agríc
 
 3. Compete à 11.ª Secção desempenhar, relativamente aos sectores da pecuária e das pescas, as funções correspondentes às previstas no número anterior.
 
-###### Art. 12.º - 1. A 5.ª Repartição (estatísticas industriais) compreende duas secções:
+Art. 12.º - 1. A 5.ª Repartição (estatísticas industriais) compreende duas secções:
 
 12.ª Secção - Estatísticas das indústrias transformadoras;
 
@@ -234,7 +250,7 @@ a) Desempenhar, no domínio das indústrias extractivas e da construção civil,
 
 b) Elaborar as estatísticas relativas à produção, transporte e distribuição de electricidade e gás e ao abastecimento de água.
 
-###### Art. 13.º - 1. A 6.ª Repartição (censos e inquéritos) compreende três secções:
+Art. 13.º - 1. A 6.ª Repartição (censos e inquéritos) compreende três secções:
 
 14.ª Secção - Preparação de censos e inquéritos;
 
@@ -248,7 +264,7 @@ b) Elaborar as estatísticas relativas à produção, transporte e distribuiçã
 
 4. Compete à 16.ª Secção a recepção dos quadros de apuramentos e a respectiva análise, a preparação dos originais e a revisão das provas das publicações a efectuar e o arquivo dos dados não publicados.
 
-###### Art. 14.º - 1. A 7.ª Repartição (coordenação estatística) compreende três secções:
+Art. 14.º - 1. A 7.ª Repartição (coordenação estatística) compreende três secções:
 
 17.ª Secção - Coordenação;
 
@@ -280,7 +296,7 @@ b) Receber as publicações editadas pelo Instituto e proceder à sua distribui�
 
 c) Manter as relações com os organismos internacionais e estrangeiros para estabelecer os intercâmbios convenientes e fazer a aquisição de publicações.
 
-###### Art. 15.º - 1. A 8.ª Repartição (estudos) compreende:
+Art. 15.º - 1. A 8.ª Repartição (estudos) compreende:
 
 a) O serviço das contas nacionais;
 
@@ -320,7 +336,7 @@ d) Prestar colaboração técnica aos diferentes serviços do Instituto, às sua
 
 5. Compete à 20.ª Secção prestar aos serviços de estudos o apoio executivo de que os mesmos careçam para a realização das respectivas tarefas.
 
-###### Art. 16.º - 1. A 9.ª Repartição (serviços mecanográficos) compreende duas secções:
+Art. 16.º - 1. A 9.ª Repartição (serviços mecanográficos) compreende duas secções:
 
 21.ª Secção - Registo de dados;
 
@@ -354,17 +370,17 @@ h) Proceder às codificações automáticas;
 
 i) Reparar, afinar e conservar todas as máquinas do Instituto.
 
-###### Art. 17.º Além das funções que lhes cabem nos termos dos artigos anteriores, as repartições e secções do Instituto executarão os mais serviços de que forem superiormente incumbidas.
+Art. 17.º Além das funções que lhes cabem nos termos dos artigos anteriores, as repartições e secções do Instituto executarão os mais serviços de que forem superiormente incumbidas.
 
 #### SECÇÃO II — Pessoal
 
 ##### SUBSECÇÃO 1.ª — Disposições gerais
 
-###### Art. 18.º O pessoal permanente e o auxiliar poderão ser utilizados na realização de recenseamentos, inquéritos e outros trabalhos estatísticos, fixando-se por despacho ministerial, sob proposta do director, o pessoal a utilizar e os respectivos horários de trabalho.
+Art. 18.º O pessoal permanente e o auxiliar poderão ser utilizados na realização de recenseamentos, inquéritos e outros trabalhos estatísticos, fixando-se por despacho ministerial, sob proposta do director, o pessoal a utilizar e os respectivos horários de trabalho.
 
-###### Art. 19.º Com excepção do pessoal de direcção, o pessoal é distribuído pelos diversos serviços e secções, consoante as respectivas necessidades, por despacho do director do Instituto.
+Art. 19.º Com excepção do pessoal de direcção, o pessoal é distribuído pelos diversos serviços e secções, consoante as respectivas necessidades, por despacho do director do Instituto.
 
-###### Art. 20.º - 1. O pessoal permanente, com excepção dos dactilógrafos e do pessoal menor, pode ser transferido dos serviços centrais para as delegações ou inversamente ou de uma para outra delegação, a seu pedido ou por conveniência de serviço.
+Art. 20.º - 1. O pessoal permanente, com excepção dos dactilógrafos e do pessoal menor, pode ser transferido dos serviços centrais para as delegações ou inversamente ou de uma para outra delegação, a seu pedido ou por conveniência de serviço.
 
 2. O pessoal colocado numa delegação não pode requerer transferência antes de nela ter prestado dois anos de efectivo serviço.
 
@@ -372,7 +388,7 @@ i) Reparar, afinar e conservar todas as máquinas do Instituto.
 
 ##### SUBSECÇÃO 2.ª — Provimento
 
-###### Art. 21.º - 1. Serão providos por escolha do Presidente do Conselho:
+Art. 21.º - 1. Serão providos por escolha do Presidente do Conselho:
 
 a) O lugar de director, de entre o subdirector, os directores de serviços, chefes de repartição e técnicos estatísticos-chefes ou em indivíduo habilitado com curso superior e de reconhecida competência;
 
@@ -388,9 +404,9 @@ e) Os lugares de técnico estatístico-chefe, de entre os técnicos estatístico
 
 3. Se o provimento dos lugares a que se refere a alínea d) do n.º 1 não puder ser feito nos termos nele previstos, por não existirem funcionários nas respectivas condições, poderão ser abertos concursos com prestação de provas, a que serão admitidos os indivíduos habilitados com curso superior adequado ao cargo a prover, a determinar no despacho ministerial que autorize a abertura do concurso.
 
-###### Art. 22.º Os lugares de técnico-estatístico serão providos por concurso documental, a que poderão concorrer os indivíduos habilitados com os cursos superiores adequados aos serviços, a indicar nos avisos de abertura.
+Art. 22.º Os lugares de técnico-estatístico serão providos por concurso documental, a que poderão concorrer os indivíduos habilitados com os cursos superiores adequados aos serviços, a indicar nos avisos de abertura.
 
-###### Art. 23.º - 1. Os lugares de chefe de secção serão providos por concurso com prestação de provas, a que serão admitidos os primeiros-oficiais do quadro e os indivíduos a ele estranhos mas diplomados com curso superior.
+Art. 23.º - 1. Os lugares de chefe de secção serão providos por concurso com prestação de provas, a que serão admitidos os primeiros-oficiais do quadro e os indivíduos a ele estranhos mas diplomados com curso superior.
 
 2. Na abertura de concursos para chefe de secção, poderá, por despacho ministerial, limitar-se a sua validade às vagas que ocorrerem em determinadas secções ou delegações, bem como restringir a admissão, para os indivíduos estranhos ao quadro, aos habilitados com os cursos superiores, a indicar no despacho, que sejam adequados às funções a exercer.
 
@@ -398,39 +414,39 @@ e) Os lugares de técnico estatístico-chefe, de entre os técnicos estatístico
 
 4. O lugar de chefe da 1.ª Secção da secretaria poderá ser provido nos termos do artigo 12.º do [Decreto-Lei n.º 32886](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32886-1943-398140), de 30 de Junho de 1943.
 
-###### Art. 24.º - 1. As funções de chefe de secção, incluindo as de chefe de delegação com essa categoria, poderão, por despacho ministerial, ser mandadas exercer por técnicos estatísticos destacados para esse efeito, sempre que tal seja julgado conveniente.
+Art. 24.º - 1. As funções de chefe de secção, incluindo as de chefe de delegação com essa categoria, poderão, por despacho ministerial, ser mandadas exercer por técnicos estatísticos destacados para esse efeito, sempre que tal seja julgado conveniente.
 
 2. Por despacho ministerial, poderão também as funções de chefe de delegação com a categoria de chefe de secção ser mandadas desempenhar, temporàriamente, por um chefe de secção dos serviços centrais ou de outra delegação.
 
 3. Os lugares dos funcionários destacados nos termos deste artigo poderão ser providos interinamente.
 
-###### Art. 25.º Os lugares de topógrafo, desenhador e ajudante de desenhador serão providos, por escolha, de entre indivíduos habilitados com o 2.º ciclo dos liceus ou um curso industrial de formação adequada.
+Art. 25.º Os lugares de topógrafo, desenhador e ajudante de desenhador serão providos, por escolha, de entre indivíduos habilitados com o 2.º ciclo dos liceus ou um curso industrial de formação adequada.
 
-###### Art. 26.º - 1. Os lugares de primeiro e de segundo-oficial serão providos por concurso de promoção, a que podem concorrer, respectivamente, os segundos e os terceiros-oficiais com bom aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 43.º e nas mais condições da lei geral.
+Art. 26.º - 1. Os lugares de primeiro e de segundo-oficial serão providos por concurso de promoção, a que podem concorrer, respectivamente, os segundos e os terceiros-oficiais com bom aproveitamento no curso complementar de estatística a que se refere a alínea b) do n.º 1 do artigo 43.º e nas mais condições da lei geral.
 
 2. Será dispensado este requisito se o referido curso se não tiver efectuado em tempo oportuno para a admissão ao concurso.
 
-###### Art. 27.º Os lugares de terceiro-oficial serão providos por concurso com prestação de provas, a que podem ser admitidos:
+Art. 27.º Os lugares de terceiro-oficial serão providos por concurso com prestação de provas, a que podem ser admitidos:
 
 a) Indivíduos de idade não inferior a 21 anos, habilitados com o 2.º ciclo liceal, o curso geral de comércio ou habilitações equivalentes;
 
 b) Contratados do pessoal auxiliar, com três anos de bom e efectivo serviço e aproveitamento no curso elementar de estatística a que se refere a alínea a) do n.º 1 do artigo 43.º, independentemente das habilitações literárias e do limite máximo de idade, desde que, quanto a esta, tenham sido contratados dentro desse limite. Será dispensado o requisito do aproveitamento no curso elementar de estatística, se este se não tiver efectuado em tempo oportuno.
 
-###### Art. 28.º Os lugares de dactilógrafo serão providos por concurso com prestação de provas, a que podem ser admitidos os indivíduos com os requisitos exigidos na lei geral.
+Art. 28.º Os lugares de dactilógrafo serão providos por concurso com prestação de provas, a que podem ser admitidos os indivíduos com os requisitos exigidos na lei geral.
 
-###### Art. 29.º Os lugares de primeiro-mecanógrafo e primeiro-mecanógrafo adjunto serão providos por promoção dos serventuários da categoria imediatamente inferior, sendo a promoção, no segundo caso, feita por escolha.
+Art. 29.º Os lugares de primeiro-mecanógrafo e primeiro-mecanógrafo adjunto serão providos por promoção dos serventuários da categoria imediatamente inferior, sendo a promoção, no segundo caso, feita por escolha.
 
-###### Art. 30.º Os lugares de segundo mecanógrafo, segundos-mecanógrafos adjuntos, terceiros-mecanógrafos e terceiros-mecanógrafos adjuntos serão providos por concursos com prestação de provas, a que podem concorrer os serventuários das categorias imediatamente inferiores, com aproveitamento no respectivo curso de formação e preparação a que se refere a alínea c) do n.º 1 do artigo 43.º
+Art. 30.º Os lugares de segundo mecanógrafo, segundos-mecanógrafos adjuntos, terceiros-mecanógrafos e terceiros-mecanógrafos adjuntos serão providos por concursos com prestação de provas, a que podem concorrer os serventuários das categorias imediatamente inferiores, com aproveitamento no respectivo curso de formação e preparação a que se refere a alínea c) do n.º 1 do artigo 43.º
 
-###### Art. 31.º Os lugares de terceiro-mecanógrafo auxiliar são providos por escolha em indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou habilitações equivalentes.
+Art. 31.º Os lugares de terceiro-mecanógrafo auxiliar são providos por escolha em indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus, o curso industrial, o curso comercial ou habilitações equivalentes.
 
-###### Art. 32.º - 1. Os lugares de mecânico-chefe e mecânico são providos por promoção dos serventuários da categoria imediatamente inferior, sendo a promoção, no segundo caso, feita por escolha.
+Art. 32.º - 1. Os lugares de mecânico-chefe e mecânico são providos por promoção dos serventuários da categoria imediatamente inferior, sendo a promoção, no segundo caso, feita por escolha.
 
 2. O lugar de mecânico-chefe poderá ser provido em indivíduo estranho ao quadro se o mecânico em exercício não der suficiente garantia de bom desempenho daquele cargo.
 
-###### Art. 33.º Os lugares de ajudante de mecânico são providos por escolha em indivíduos de idade não inferior a 18 anos, habilitados com o curso industrial.
+Art. 33.º Os lugares de ajudante de mecânico são providos por escolha em indivíduos de idade não inferior a 18 anos, habilitados com o curso industrial.
 
-###### Art. 34.º Os lugares de pessoal menor serão providos por escolha nos termos seguintes:
+Art. 34.º Os lugares de pessoal menor serão providos por escolha nos termos seguintes:
 
 a) Os lugares de contínuo de 1.ª e de 2.ª classes, respectivamente em contínuos de 2.ª classe e serventes;
 
@@ -438,29 +454,29 @@ b) Os de guarda de noite, telefonista e servente, em indivíduos que possuam os 
 
 c) Os de paquete, em indivíduos com a idade mínima de 14 anos e os demais requisitos exigidos na lei geral.
 
-###### Art. 35.º - 1. Os lugares do pessoal auxiliar são providos por escolha em indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus ou equivalente.
+Art. 35.º - 1. Os lugares do pessoal auxiliar são providos por escolha em indivíduos de idade não inferior a 18 anos, habilitados com o 2.º ciclo dos liceus ou equivalente.
 
 2. Poderão ser contratados para lugares de auxiliar de apuramentos estatísticos indivíduos habilitados com uma única das secções do 2.º ciclo dos liceus ou equivalente quando tal for necessário.
 
 ##### SUBSECÇÃO 3.ª — Remunerações
 
-###### Art. 36.º Ao pessoal permanente em serviço nas delegações das ilhas adjacentes que, à data do provimento, não resida no respectivo arquipélago é concedido um subsídio correspondente a 20 por cento do respectivo vencimento.
+Art. 36.º Ao pessoal permanente em serviço nas delegações das ilhas adjacentes que, à data do provimento, não resida no respectivo arquipélago é concedido um subsídio correspondente a 20 por cento do respectivo vencimento.
 
-###### Art. 37.º Os funcionários que exerçam a chefia das mesmas delegações terão direito a uma gratificação mensal, que será de 1000$00 nas delegações do Funchal e Ponta Delgada e de 800$00 nas da Horta e Angra do Heroísmo.
+Art. 37.º Os funcionários que exerçam a chefia das mesmas delegações terão direito a uma gratificação mensal, que será de 1000$00 nas delegações do Funchal e Ponta Delgada e de 800$00 nas da Horta e Angra do Heroísmo.
 
-###### Art. 38.º - 1. O pessoal permanente que preste serviço nas referidas delegações tem direito ao abono das despesas de transporte e de ajudas de custo quando tenha de se deslocar por efeito de concurso de promoção.
+Art. 38.º - 1. O pessoal permanente que preste serviço nas referidas delegações tem direito ao abono das despesas de transporte e de ajudas de custo quando tenha de se deslocar por efeito de concurso de promoção.
 
 2. Tem direito aos mesmos abonos o pessoal permanente daquelas delegações que se desloque da sua residência oficial para a frequência dos cursos de preparação ou aperfeiçoamento profissional, quando não beneficie do disposto no n.º 2 do artigo 45.º
 
-###### Art. 39.º - 1. O pessoal permanente que, por virtude de primeiro provimento, transferência ou promoção, tiver de deslocar a sua residência para a sede de qualquer das delegações das ilhas adjacentes, ou de uma para outra destas ou para a sede dos serviços centrais, tem direito ao abono de despesas de transportes, para si e para as pessoas da sua família, nos termos do [Decreto-Lei n.º 44932](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44932-1963-195269), de 25 de Março de 1963.
+Art. 39.º - 1. O pessoal permanente que, por virtude de primeiro provimento, transferência ou promoção, tiver de deslocar a sua residência para a sede de qualquer das delegações das ilhas adjacentes, ou de uma para outra destas ou para a sede dos serviços centrais, tem direito ao abono de despesas de transportes, para si e para as pessoas da sua família, nos termos do [Decreto-Lei n.º 44932](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44932-1963-195269), de 25 de Março de 1963.
 
 2. O abono será regulado pelo Estatuto do Funcionalismo Ultramarino quando a deslocação se efectuar entre a metrópole e as províncias ultramarinas, ou inversamente, ou entre aquelas províncias.
 
-###### Art. 40.º Aos chefes de repartição, dos serviços centrais ou das delegações que colaborem no Boletim Mensal do Instituto ou da delegação será atribuída a gratificação mensal de 1000$00.
+Art. 40.º Aos chefes de repartição, dos serviços centrais ou das delegações que colaborem no Boletim Mensal do Instituto ou da delegação será atribuída a gratificação mensal de 1000$00.
 
-###### Art. 41.º O despacho que autorizar o pessoal permanente ou auxiliar a colaborar na realização de recenseamentos, inquéritos e outros trabalhos, ao abrigo do artigo 18.º, fixará também as remunerações devidas por tal colaboração.
+Art. 41.º O despacho que autorizar o pessoal permanente ou auxiliar a colaborar na realização de recenseamentos, inquéritos e outros trabalhos, ao abrigo do artigo 18.º, fixará também as remunerações devidas por tal colaboração.
 
-###### Art. 42.º - 1. Os indivíduos admitidos ao abrigo do artigo 32.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, receberão as remunerações fixadas por despacho ministerial, de harmonia com os trabalhos de que forem encarregados, as quais não poderão ser superiores:
+Art. 42.º - 1. Os indivíduos admitidos ao abrigo do artigo 32.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, receberão as remunerações fixadas por despacho ministerial, de harmonia com os trabalhos de que forem encarregados, as quais não poderão ser superiores:
 
 a) Para os que sejam simples executantes, à correspondente à letra S do quadro do artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958;
 
@@ -472,7 +488,7 @@ b) Para os restantes, à correspondente à letra L do mesmo quadro.
 
 ##### SUBSECÇÃO 4.ª — Preparação e aperfeiçoamento profissionais
 
-###### Art. 43.º - 1. Para a preparação e aperfeiçoamento do seu pessoal, organizará o Instituto, com a frequência conveniente, os seguintes cursos:
+Art. 43.º - 1. Para a preparação e aperfeiçoamento do seu pessoal, organizará o Instituto, com a frequência conveniente, os seguintes cursos:
 
 a) Cursos elementares de estatística, destinados ao pessoal auxiliar contratado nos termos do artigo 31.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data.
 
@@ -488,11 +504,11 @@ e) Cursos de preparação para censos e inquéritos, destinados a fornecer ao pe
 
 3. Os cursos poderão ser frequentados por funcionários de outros serviços, mediante autorização do director do Instituto.
 
-###### Art. 44.º - 1. Os cursos serão professados por funcionários do Instituto, ou por indivíduos estranhos ao seu quadro com especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas por despacho ministerial.
+Art. 44.º - 1. Os cursos serão professados por funcionários do Instituto, ou por indivíduos estranhos ao seu quadro com especial competência nas matérias a tratar, sendo as respectivas remunerações fixadas por despacho ministerial.
 
 2. Os corpos docentes de cada curso serão também aprovados por despacho ministerial.
 
-###### Art. 45.º - 1. Os cursos poderão ter lugar na sede do Instituto, ou em alguma ou algumas das delegações, conforme for julgado mais conveniente.
+Art. 45.º - 1. Os cursos poderão ter lugar na sede do Instituto, ou em alguma ou algumas das delegações, conforme for julgado mais conveniente.
 
 2. Os funcionários das delegações ultramarinas que forem admitidos à frequência dos cursos gozam do regime aplicável aos funcionários que frequentam o curso complementar do Instituto Superior de Ciências Sociais e Política Ultramarina.,
 
@@ -500,7 +516,7 @@ e) Cursos de preparação para censos e inquéritos, destinados a fornecer ao pe
 
 ##### SUBSECÇÃO 1.ª — Plano de recenseamentos
 
-###### Art. 46.º O Instituto procederá, com carácter regular e em todo o território nacional, à realização dos seguintes recenseamentos básicos:
+Art. 46.º O Instituto procederá, com carácter regular e em todo o território nacional, à realização dos seguintes recenseamentos básicos:
 
 a) Da população, nos anos terminados em zero;
 
@@ -512,13 +528,13 @@ d) Da distribuição e prestação de serviços, nos anos terminados em seis;
 
 e) Da habitação, nos anos terminados em oito.
 
-###### Art. 47.º Além dos recenseamentos normais previstos no artigo anterior, efectuará ainda o Instituto os recenseamentos gerais e os inquéritos e trabalhos estatísticos especiais cuja realização for ordenada ou aprovada pelo Governo.
+Art. 47.º Além dos recenseamentos normais previstos no artigo anterior, efectuará ainda o Instituto os recenseamentos gerais e os inquéritos e trabalhos estatísticos especiais cuja realização for ordenada ou aprovada pelo Governo.
 
 ##### SUBSECÇÃO 2.ª — Recolha directa de dados estatísticos
 
-###### Art. 48.º O despacho que ordenar a recolha directa de dados estatísticos será notificado à pessoa ou entidade a quem incumbe fornecer ou facilitar os elementos desejados, com indicação das razões da recolha directa, da natureza dos elementos a obter, dos funcionários encarregados da diligência e do dia e hora do seu início.
+Art. 48.º O despacho que ordenar a recolha directa de dados estatísticos será notificado à pessoa ou entidade a quem incumbe fornecer ou facilitar os elementos desejados, com indicação das razões da recolha directa, da natureza dos elementos a obter, dos funcionários encarregados da diligência e do dia e hora do seu início.
 
-###### Art. 49.º - 1. A notificação a que se refere o artigo anterior será feita por carta registada com aviso de recepção.
+Art. 49.º - 1. A notificação a que se refere o artigo anterior será feita por carta registada com aviso de recepção.
 
 2. Se não for devolvido o aviso de recepção, ou se a carta vier devolvida sem nenhuma indicação, ou com a nota de ser desconhecido o destinatário ou dele se não saber, o Instituto solicitará a notificação à autoridade policial competente.
 
@@ -526,19 +542,19 @@ e) Da habitação, nos anos terminados em oito.
 
 4. A notificação considera-se feita à própria pessoa sempre que o aviso de recepção tenha sido assinado por familiar da pessoa a notificar ou por funcionário dela dependente.
 
-###### Art. 50.º - 1. Os funcionários encarregados da recolha directa receberão guias para a realização da diligência e apresentar-se-ão no serviço, escritório ou residência onde a mesma deva ter lugar, consoante os casos, no dia e hora designados para o seu início.
+Art. 50.º - 1. Os funcionários encarregados da recolha directa receberão guias para a realização da diligência e apresentar-se-ão no serviço, escritório ou residência onde a mesma deva ter lugar, consoante os casos, no dia e hora designados para o seu início.
 
 2. Se a diligência não se iniciar no dia e hora designados, por os funcionários dela encarregados não poderem comparecer em virtude de caso de força maior, e o notificado se recusar à diligência quando os mesmos se apresentarem, será solicitada nova notificação à autoridade policial competente para, no dia útil imediato, se proceder ao início dos trabalhos.
 
 3. Os funcionários encarregados da diligência devem justificar superiormente qualquer demora no seu início e comunicar todos os impedimentos ou dificuldades que encontrem na sua execução.
 
-###### Art. 51.º - 1. Sempre que as pessoas que forneçam dados estatísticos prestem informações susceptíveis de ser corroboradas por prova documental ou testemunhal, ficarão essas informações a constar de auto.
+Art. 51.º - 1. Sempre que as pessoas que forneçam dados estatísticos prestem informações susceptíveis de ser corroboradas por prova documental ou testemunhal, ficarão essas informações a constar de auto.
 
 2. Os funcionários encarregados da recolha directa procederão a todas as diligências indispensáveis para verificar a exactidão dos factos declarados, ouvindo sempre, no dia, hora e local que designarem, as testemunhas que os declarantes apresentem para o mesmo fim, em número não inferior a duas nem superior a cinco por cada facto.
 
-###### Art. 52.º Findos os trabalhos, devem os funcionários apresentar superiormente relatório circunstanciado, juntando os elementos estatísticos recolhidos e indicando, com a respectiva justificação, todas as despesas efectuadas.
+Art. 52.º Findos os trabalhos, devem os funcionários apresentar superiormente relatório circunstanciado, juntando os elementos estatísticos recolhidos e indicando, com a respectiva justificação, todas as despesas efectuadas.
 
-###### Art. 53.º - 1. A cobrança das quantias devidas pela recolha directa será ordenada por despacho do director do Instituto.
+Art. 53.º - 1. A cobrança das quantias devidas pela recolha directa será ordenada por despacho do director do Instituto.
 
 2. Posteriormente ao despacho, serão passadas guias em triplicado e enviadas ao chefe da repartição de finanças do concelho ou bairro da residência do responsável, para cobrança, nos termos legais.
 
@@ -552,13 +568,13 @@ e) Da habitação, nos anos terminados em oito.
 
 e pedidos de realização de inquéritos estatísticos
 
-###### Art. 54.º - 1. O registo dos instrumentos de notação estatística exigido pelo artigo 16.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, deverá ser requerido ao Instituto pelas entidades que pretendam utiliza-los, juntando duas cópias do respectivo modelo e um relatório justificativo da sua necessidade.
+Art. 54.º - 1. O registo dos instrumentos de notação estatística exigido pelo artigo 16.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, deverá ser requerido ao Instituto pelas entidades que pretendam utiliza-los, juntando duas cópias do respectivo modelo e um relatório justificativo da sua necessidade.
 
 2. O Instituto poderá solicitar todos os esclarecimentos que considere convenientes para apreciar o pedido.
 
 3. O director do Instituto proferirá a decisão no prazo de 30 dias, a contar da entrada do pedido do registo, ou, quando tenham sido solicitados esclarecimentos, a contar do recebimento dos mesmos.
 
-###### Art. 55.º - 1. Por despacho devidamente fundamentado, deve o director do Instituto:
+Art. 55.º - 1. Por despacho devidamente fundamentado, deve o director do Instituto:
 
 a) Recusar o registo, quando os instrumentos se destinem à notação de dados contidos noutros instrumentos, já aprovados, ou não tenham utilidade;
 
@@ -570,7 +586,7 @@ b) Propor as alterações que se mostrem convenientes nos modelos de instrumento
 
 4. Das deliberações do Conselho Nacional de Estatística cabe ainda recurso para o Conselho de Ministros interposto nos termos dos n.os 2 e 3 deste artigo.
 
-###### Art. 56.º - 1. Os instrumentos de notação serão classificados em duas categorias:
+Art. 56.º - 1. Os instrumentos de notação serão classificados em duas categorias:
 
 a) Emitidos pelos órgãos do sistema estatístico nacional;
 
@@ -580,39 +596,39 @@ b) Emitidos por outras entidades, para satisfação das suas necessidades espec�
 
 3. Os impressos dos instrumentos de notação deverão conter as indicações referidas no n.º 2 do presente artigo.
 
-###### Art. 57.º Todos aqueles a quem for pedido o preenchimento de instrumentos de notação que não contenham as indicações mencionadas no n.º 2 do artigo antecedente deverão recusar o seu preenchimento e dar conhecimento do facto ao Instituto, indicando a entidade emissora e juntando, se possível, um exemplar do instrumento.
+Art. 57.º Todos aqueles a quem for pedido o preenchimento de instrumentos de notação que não contenham as indicações mencionadas no n.º 2 do artigo antecedente deverão recusar o seu preenchimento e dar conhecimento do facto ao Instituto, indicando a entidade emissora e juntando, se possível, um exemplar do instrumento.
 
-###### Art. 58.º - 1. Os despachos de anulação dos registos de instrumentos de notação devem ser fundamentados e comunicados à entidade interessada, com a indicação expressa dos respectivos fundamentos.
+Art. 58.º - 1. Os despachos de anulação dos registos de instrumentos de notação devem ser fundamentados e comunicados à entidade interessada, com a indicação expressa dos respectivos fundamentos.
 
 2. É aplicável a estas decisões o regime de recursos estabelecido nos n.os 2 a 4 do artigo 55.º
 
-###### Art. 59.º Aos recursos das decisões do director do Instituto sobre pedidos de realização de inquéritos estatísticos, proferidas ao abrigo do disposto no artigo 14.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, é aplicável o preceituado nos n.os 2 a 4 do artigo 55.º
+Art. 59.º Aos recursos das decisões do director do Instituto sobre pedidos de realização de inquéritos estatísticos, proferidas ao abrigo do disposto no artigo 14.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, é aplicável o preceituado nos n.os 2 a 4 do artigo 55.º
 
-###### Art. 60.º As respostas a questionários orais ou a pedidos de declarações, na realização de inquéritos estatísticos, só são obrigatórias quando os agentes que as solicitem exibam credenciais passadas pelo Instituto, devendo as pessoas inquiridas, no caso contrário, recusar as respostas e comunicar o facto ao Instituto.
+Art. 60.º As respostas a questionários orais ou a pedidos de declarações, na realização de inquéritos estatísticos, só são obrigatórias quando os agentes que as solicitem exibam credenciais passadas pelo Instituto, devendo as pessoas inquiridas, no caso contrário, recusar as respostas e comunicar o facto ao Instituto.
 
-###### Art. 61.º - 1. As despesas necessárias à execução dos recenseamentos, inquéritos ou trabalhos especiais previstos nas alíneas b) e d) do artigo 12.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, serão processadas por conta da verba global especialmente inscrita para esse fim no orçamento do Instituto Nacional de Estatística.
+Art. 61.º - 1. As despesas necessárias à execução dos recenseamentos, inquéritos ou trabalhos especiais previstos nas alíneas b) e d) do artigo 12.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, serão processadas por conta da verba global especialmente inscrita para esse fim no orçamento do Instituto Nacional de Estatística.
 
 2. As quantias a pagar pelas entidades que tenham solicitado a realização dos inquéritos ou trabalhos estatísticos previstos na primeira parte da alínea d) do mesmo preceito darão entrada nos cofres do Estado, em rubrica adequada.
 
 #### SECÇÃO IV — Delegações
 
-###### Art. 62.º - 1. As pessoas residentes nas ilhas adjacentes e as entidades com sede nas mesmas, ou que nelas exerçam funções, devem apresentar nas respectivas delegações do Instituto todos os documentos e requerimentos que a este devam enviar.
+Art. 62.º - 1. As pessoas residentes nas ilhas adjacentes e as entidades com sede nas mesmas, ou que nelas exerçam funções, devem apresentar nas respectivas delegações do Instituto todos os documentos e requerimentos que a este devam enviar.
 
 2. As decisões do Instituto serão também sempre comunicadas aos interessados através das delegações.
 
-###### Art. 63.º Nas delegações das ilhas adjacentes competem aos respectivos chefes:
+Art. 63.º Nas delegações das ilhas adjacentes competem aos respectivos chefes:
 
 a) A admissão e a dispensa do pessoal eventual, a que se refere o n.º 3 do artigo 32.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, dentro dos limites autorizados pelo director do Instituto;
 
 b) O julgamento, com recurso para o director do Instituto, das transgressões estatísticas cometidas nas respectivas áreas.
 
-###### Art. 64.º As delegações do Instituto podem corresponder-se directamente com os serviços centrais, e, dentro das suas áreas, com todas as entidades que nestas exerçam funções.
+Art. 64.º As delegações do Instituto podem corresponder-se directamente com os serviços centrais, e, dentro das suas áreas, com todas as entidades que nestas exerçam funções.
 
-###### Art. 65.º O funcionamento das delegações das províncias ultramarinas será regulamentado por diploma próprio.
+Art. 65.º O funcionamento das delegações das províncias ultramarinas será regulamentado por diploma próprio.
 
 ### CAPÍTULO III — Das transgressões estatísticas
 
-###### Art. 66.º Serão punidas com multa de 50$00 a 100$00 as transgressões seguintes:
+Art. 66.º Serão punidas com multa de 50$00 a 100$00 as transgressões seguintes:
 
 a) Preenchimento incompleto de instrumento de notação estatística;
 
@@ -622,13 +638,13 @@ c) Falta de cumprimento de prazos fixados;
 
 d) Todas as transgressões não expressamente previstas neste artigo e nos seguintes.
 
-###### Art. 67.º Serão punidas com multa de 100$00 a 3000$00 as transgressões seguintes:
+Art. 67.º Serão punidas com multa de 100$00 a 3000$00 as transgressões seguintes:
 
 a) Falta de distribuição ou recolha de instrumentos de notação estatística, ou de peças de processo de transgressão, por quem tenha a obrigação legal de auxiliar os serviços de estatística;
 
 b) Uso de impressos estatísticos diferentes dos oficialmente aprovados.
 
-###### Art. 68.º - 1. Serão punidas com multa de 200$00 a 6000$00 as transgressões seguintes:
+Art. 68.º - 1. Serão punidas com multa de 200$00 a 6000$00 as transgressões seguintes:
 
 a) Prestação de informações inexactas;
 
@@ -648,13 +664,13 @@ h) Emissão de Instrumentos de notação sem prévio registo do Instituto.
 
 2. Considera-se expressa denegação de informações a recusa, por parte do destinatário, de receber documentos enviados pelo Instituto, sob registo do correio e com aviso de recepção.
 
-###### Art. 69.º Serão punidas com multa de 300$00 a 10000$00 as transgressões seguintes:
+Art. 69.º Serão punidas com multa de 300$00 a 10000$00 as transgressões seguintes:
 
 a) Falta de desempenho de funções de natureza estatística, atribuídas, por disposição legal, a qualquer serviço ou organismo;
 
 b) Não fornecimento, nos prazos estabelecidos, de elementos apurados por órgãos delegados do Instituto.
 
-###### Art. 70.º As multas serão graduadas segundo a gravidade das faltas, atendendo-se especialmente às seguintes circunstâncias:
+Art. 70.º As multas serão graduadas segundo a gravidade das faltas, atendendo-se especialmente às seguintes circunstâncias:
 
 a) Pertencer o transgressor a um órgão estatístico delegado;
 
@@ -670,7 +686,7 @@ f) Falta de resposta aos ofícios enviados pelo Instituto;
 
 g) Ter a infracção atrasado ou impedido qualquer publicarão de dados estatísticos.
 
-###### Art. 71.º - 1. Conhecida a prática de uma transgressão estatística, será notificado o infractor para, no prazo de quinze dias, a contar da notificação, apresentar, querendo, a sua defesa.
+Art. 71.º - 1. Conhecida a prática de uma transgressão estatística, será notificado o infractor para, no prazo de quinze dias, a contar da notificação, apresentar, querendo, a sua defesa.
 
 2. Da notificação deve constar a indicação da falta cometida, da multa que lhe corresponde e de quaisquer esclarecimentos que sejam convenientes.
 
@@ -678,25 +694,25 @@ g) Ter a infracção atrasado ou impedido qualquer publicarão de dados estatís
 
 4. Se o infractor residir nas ilhas adjacentes, em ilha diferente daquela onde estiver situada a respectiva delegação do Instituto, é aplicável à fixação do prazo para a defesa o disposto no n.º 3 do artigo 55.º
 
-###### Art. 72.º - 1. Recebida a defesa do transgressor, ou decorrido o prazo para a sua apresentação, será o processo submetido ao chefe da repartição competente, para julgamento.
+Art. 72.º - 1. Recebida a defesa do transgressor, ou decorrido o prazo para a sua apresentação, será o processo submetido ao chefe da repartição competente, para julgamento.
 
 2. Antes da decisão final, poderá o chefe da repartição proceder a quaisquer diligências que repute convenientes ao esclarecimento da verdade.
 
-###### Art. 73.º - 1. A decisão será notificada ao transgressor, com a advertência de poder recorrer para o director do Instituto, no prazo de quinze dias, a contar da notificação.
+Art. 73.º - 1. A decisão será notificada ao transgressor, com a advertência de poder recorrer para o director do Instituto, no prazo de quinze dias, a contar da notificação.
 
 2. É aplicável à notificação ordenada neste artigo e ao prazo para o recurso o disposto, respectivamente, no artigo 49.º e no n.º 3 do artigo 55.º
 
 3. Na decisão do recurso poderá ser anulada, mantida, agravada ou diminuída a multa aplicada.
 
-###### Art. 74.º Não sendo interposto recurso, ou tendo a decisão deste mantido a aplicação de multa, proceder-se-á à cobrança do seu quantitativo, nos termos dos n.os 2 a 5 do artigo 53.º
+Art. 74.º Não sendo interposto recurso, ou tendo a decisão deste mantido a aplicação de multa, proceder-se-á à cobrança do seu quantitativo, nos termos dos n.os 2 a 5 do artigo 53.º
 
 ### CAPÍTULO IV — Disposições finais e transitórias
 
-###### Art. 75.º Continuam em vigor os diplomas legais que regem os centros de estudo anexos ao Instituto.
+Art. 75.º Continuam em vigor os diplomas legais que regem os centros de estudo anexos ao Instituto.
 
-###### Art. 76.º Enquanto não for publicado o regulamento de concursos previsto no artigo 36.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, observar-se-ão as disposições actualmente aplicáveis.
+Art. 76.º Enquanto não for publicado o regulamento de concursos previsto no artigo 36.º do [Decreto-Lei n.º 46925](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46925-1966-486330), desta data, observar-se-ão as disposições actualmente aplicáveis.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim Moreira da Silva Cunha.
 

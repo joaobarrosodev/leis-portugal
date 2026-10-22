@@ -47,36 +47,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46227-1965-238465
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74ce8ab5af6247caf38536fa6a42eb2f154032979a52626cf7dbe7320f491bc3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e6c265dbce8988f9b6ab931cab868acc40520fb2721a79441553f0c2e9888bf6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Aquisição de Bens e Serviços
+- Armamento
+- Autorização de Despesas
+- Equipamento Militar
+- Ministério do Exército
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:25Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +102,9 @@ Considerando o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 41375
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministério do Exército autorizado a celebrar contratos com diversas entidades nacionais e estrangeiras, incluindo os seus próprios estabelecimentos fabris, no ano económico de 1965, para aquisição imediata de material de guerra e outro equipamento, até ao montante de 1300000 contos.
+Artigo 1.º É o Ministério do Exército autorizado a celebrar contratos com diversas entidades nacionais e estrangeiras, incluindo os seus próprios estabelecimentos fabris, no ano económico de 1965, para aquisição imediata de material de guerra e outro equipamento, até ao montante de 1300000 contos.
 
-###### Art. 2.º Os encargos resultantes da execução deste diploma serão satisfeitos pela verba de despesa extraordinária inscrita e a inscrever no Orçamento Geral do Estado em «Encargos Gerais da Nação», sob a rubrica de «Forças militares extraordinárias no ultramar», do capítulo da «Defesa nacional», de forma que não se excedam os quantitativos seguintes:
+Art. 2.º Os encargos resultantes da execução deste diploma serão satisfeitos pela verba de despesa extraordinária inscrita e a inscrever no Orçamento Geral do Estado em «Encargos Gerais da Nação», sob a rubrica de «Forças militares extraordinárias no ultramar», do capítulo da «Defesa nacional», de forma que não se excedam os quantitativos seguintes:
 
 ... Contos
 
@@ -109,14 +118,14 @@ No ano económico de 1968 ... 300000
 
 § único. Os contratos serão elaborados de modo que em cada mês não haja a obrigação de pagar mais de um duodécimo do encargo anual indicado no corpo do artigo.
 
-###### Art. 3.º Quando os pagamentos diferidos para 1966, 1967 e 1968 originarem ónus especial sobre os preços fixados para 1965, a respectiva disposição contratual está sujeita ao acordo prévio do Ministro das Finanças.
+Art. 3.º Quando os pagamentos diferidos para 1966, 1967 e 1968 originarem ónus especial sobre os preços fixados para 1965, a respectiva disposição contratual está sujeita ao acordo prévio do Ministro das Finanças.
 
 § único. O encargo que, em função da data do pagamento, resultar do corpo deste artigo acrescerá ao valor do fornecimento e será satisfeito pela mesma dotação, dentro dos limites constantes do artigo 2.º deste diploma.
 
-###### Art. 4.º A 1.ª e 5.ª Repartições da Direcção-Geral da Contabilidade Pública registarão em conta especial os títulos que autorizarem em execução do presente diploma, às quais serão enviadas, para tanto, fotocópias dos contratos celebrados entre o Ministério do Exército e os respectivos fornecedores.
+Art. 4.º A 1.ª e 5.ª Repartições da Direcção-Geral da Contabilidade Pública registarão em conta especial os títulos que autorizarem em execução do presente diploma, às quais serão enviadas, para tanto, fotocópias dos contratos celebrados entre o Ministério do Exército e os respectivos fornecedores.
 
-###### Art. 5.º Por acordo entre os Ministros das Finanças e do Exército poder-se-á, em qualquer altura da execução dos contratos, antecipar, total ou parcialmente, o pagamento das prestações vincendas, caducando, na parte antecipada, o ónus especial previsto no artigo 3.º deste decreto.
+Art. 5.º Por acordo entre os Ministros das Finanças e do Exército poder-se-á, em qualquer altura da execução dos contratos, antecipar, total ou parcialmente, o pagamento das prestações vincendas, caducando, na parte antecipada, o ónus especial previsto no artigo 3.º deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - António Manuel Pinto Barbosa - Joaquim da Luz Cunha.

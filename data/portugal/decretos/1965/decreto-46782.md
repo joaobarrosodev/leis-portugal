@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/12/28900/18151816.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46782-1965-508066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ea850b2351f9ba60ca6046db3a04f3d1f187392ebb44be4fd95cafa9719b7b86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5304cc0b30988dadca3137cb988ed4c1db11c3f6b477cb1e76b60d59662cb2df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comissão
+- Definição de Competências
+- Indústria Agro-alimentar
+- Junta de Lacticínios da Madeira
+- Junta dos Lacticínios da Madeira
+- Lacticínios
+- Leite
+- Madeira.ilha Adjacente
+- Preço
+- Reestruturação Industrial
 relationships:
 - type: amended_by
   target: pt:dre:264552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:528175:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:264552:por
+  label: "Revogado, a partir de 01.10.1968, pelo DEC LEI.48593.26.09.1968.MECO, DG.IS [228] de 26.09.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48593-1968-264552
+  date: '1968-09-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:11Z'
   warnings: []
   errors: []
 ---
@@ -98,26 +118,26 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É suspensa a execução das disposições que se contêm nos Decretos n.os 43418 e 44183, respectivamente de 21 de Dezembro de 1960 e de 9 de Fevereiro de 1962.
+Artigo 1.º É suspensa a execução das disposições que se contêm nos Decretos n.os 43418 e 44183, respectivamente de 21 de Dezembro de 1960 e de 9 de Fevereiro de 1962.
 
-###### Art. 2.º Será criada uma comissão, cuja composição constará de portaria a publicar pelo Ministério da Economia, para promover a colheita de elementos e proceder ao estudo sobre as condições da produção do leite da ilha da Madeira, seu aproveitamento industrial, forma e tipo desse aproveitamento e mínimos económicos de laboração.
+Art. 2.º Será criada uma comissão, cuja composição constará de portaria a publicar pelo Ministério da Economia, para promover a colheita de elementos e proceder ao estudo sobre as condições da produção do leite da ilha da Madeira, seu aproveitamento industrial, forma e tipo desse aproveitamento e mínimos económicos de laboração.
 
-###### Art. 3.º É aplicado à ilha da Madeira o [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953, e legislação dele complementar, com as alterações e modificações constantes das disposições que se seguem.
+Art. 3.º É aplicado à ilha da Madeira o [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175), de 20 de Abril de 1953, e legislação dele complementar, com as alterações e modificações constantes das disposições que se seguem.
 
-###### Art. 4.º As funções deferidas por aquele [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175) à Junta Nacional dos Produtos Pecuários serão exercidas pela Junta dos Lacticínios da Madeira, que actualizará o plano de abastecimento de leite para consumo público constante do despacho ministerial de 20 de Novembro de 1952, harmonizado com as necessidades actuais.
+Art. 4.º As funções deferidas por aquele [Decreto-Lei n.º 39178](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39178-1953-528175) à Junta Nacional dos Produtos Pecuários serão exercidas pela Junta dos Lacticínios da Madeira, que actualizará o plano de abastecimento de leite para consumo público constante do despacho ministerial de 20 de Novembro de 1952, harmonizado com as necessidades actuais.
 
-###### Art. 5.º O laboratório da Junta dos Lacticínios da Madeira passará a exercer funções oficiais e nele serão realizadas as análises do leite entregue nos postos e dos produtos fabricados, quer para fins de fiscalização, quer para efeitos de apreciação da qualidade e da classificação higiénica do leite e dos seus produtos.
+Art. 5.º O laboratório da Junta dos Lacticínios da Madeira passará a exercer funções oficiais e nele serão realizadas as análises do leite entregue nos postos e dos produtos fabricados, quer para fins de fiscalização, quer para efeitos de apreciação da qualidade e da classificação higiénica do leite e dos seus produtos.
 
-###### Art. 6.º O leite destinado à industrialização e proveniente de produtores associados em cooperativa e a estas entregue será por elas livremente utilizado; o restante, quer destinado ao abastecimento público, quer à industrialização, será distribuído através de organização ou organizações da lavoura, podendo estas celebrar acordos ou contratos com as empresas industriais.
+Art. 6.º O leite destinado à industrialização e proveniente de produtores associados em cooperativa e a estas entregue será por elas livremente utilizado; o restante, quer destinado ao abastecimento público, quer à industrialização, será distribuído através de organização ou organizações da lavoura, podendo estas celebrar acordos ou contratos com as empresas industriais.
 
-###### Art. 7.º Os postos actualmente sob a administração da Junta dos Lacticínios da Madeira e o respectivo pessoal transitarão, à medida que as necessidades o aconselhem, para o Grémio da Lavoura do Funchal, que os manterá e explorará.
+Art. 7.º Os postos actualmente sob a administração da Junta dos Lacticínios da Madeira e o respectivo pessoal transitarão, à medida que as necessidades o aconselhem, para o Grémio da Lavoura do Funchal, que os manterá e explorará.
 
-###### Art. 8.º A organização cooperativa da lavoura criará, para execução da concessão dada em 21 de Agosto de 1958 pela Câmara Municipal do Funchal à Cooperativa Agrícola dos Produtores de Leite do Funchal, e aprovada por portaria de 9 de Janeiro de 1959, uma instalação destinada ao tratamento e envasilhamento de leite para consumo público.
+Art. 8.º A organização cooperativa da lavoura criará, para execução da concessão dada em 21 de Agosto de 1958 pela Câmara Municipal do Funchal à Cooperativa Agrícola dos Produtores de Leite do Funchal, e aprovada por portaria de 9 de Janeiro de 1959, uma instalação destinada ao tratamento e envasilhamento de leite para consumo público.
 
 § único. Neste posto funcionará também uma secção destinada ao aproveitamento dos excedentes e das natas resultantes do acerto do teor butiroso do leite entregue para consumo, bem como da matéria-prima entregue pelos associados para industrialização.
 
-###### Art. 9.º No prazo de 120 dias, contados da data da publicação deste diploma, a Cooperativa Agrícola dos Produtores de Leite do Funchal apresentará, devidamente elaborado, o projecto da instalação destinada ao tratamento e envasilhamento de leite, a qual deverá estar concluída no mais curto prazo possível.
+Art. 9.º No prazo de 120 dias, contados da data da publicação deste diploma, a Cooperativa Agrícola dos Produtores de Leite do Funchal apresentará, devidamente elaborado, o projecto da instalação destinada ao tratamento e envasilhamento de leite, a qual deverá estar concluída no mais curto prazo possível.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rosado Vitória Pires - Manuel Rafael Amaro da Costa.

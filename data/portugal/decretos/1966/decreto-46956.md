@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46956-1966-487897
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6fea28d1d1a674d9256b8b402a86046f14727fe90729f7b67c5f8e53a52f7599
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c3442dc270ac12248071d968320a94f7aae6e6df53c807b7110eb6a228603d81
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:30Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandarem satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as quantias seguintes:
 
 Encargos Gerais da Nação
 
@@ -179,10 +183,10 @@ Ministério dal Comunicações
 
 Encargos do ano de 1964 respeitantes a remunerações por trabalhos extraordinários, abonos por prestação de trabalho nocturno e telefones, a liquidar pelo aeroporto do Porto ... 8228$10
 
-###### Art. 2.º É autorizada a 4.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta das dotações descritas nos artigos 134.º, n.º 2), 135.º, n.º 1), e 136.º, n.º 1), capítulo 3.º, do actual orçamento do Ministério da Justiça, respectivamente, as importâncias de 1659$00, 1495$20 e 44$00, de encargos do ano de 1965 da Subinspecção do Funchal da Polícia Judiciária, referentes a impressos, luz, aquecimento, água, lavagem e limpeza e correios e telégrafos.
+Art. 2.º É autorizada a 4.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta das dotações descritas nos artigos 134.º, n.º 2), 135.º, n.º 1), e 136.º, n.º 1), capítulo 3.º, do actual orçamento do Ministério da Justiça, respectivamente, as importâncias de 1659$00, 1495$20 e 44$00, de encargos do ano de 1965 da Subinspecção do Funchal da Polícia Judiciária, referentes a impressos, luz, aquecimento, água, lavagem e limpeza e correios e telégrafos.
 
-###### Art. 3.º Fica igualmente autorizada a 11.ª Repartição da Direcção-Geral da Contabilidade Pública a satisfazer, em conta da dotação descrita no n.º 1) do artigo 269.º, capítulo 15.º, do actual orçamento do Ministério da Economia, a quantia de 57695$40, respeitante a despesas do ano de 1965 efectuadas com trabalhos executados por conta de particulares pela Direcção-Geral dos Serviços Industriais.
+Art. 3.º Fica igualmente autorizada a 11.ª Repartição da Direcção-Geral da Contabilidade Pública a satisfazer, em conta da dotação descrita no n.º 1) do artigo 269.º, capítulo 15.º, do actual orçamento do Ministério da Economia, a quantia de 57695$40, respeitante a despesas do ano de 1965 efectuadas com trabalhos executados por conta de particulares pela Direcção-Geral dos Serviços Industriais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo do Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

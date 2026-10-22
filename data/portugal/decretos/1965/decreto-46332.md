@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46332-1965-294134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: da58ac1f3de99bef7d9365200913f4613ba205c498c74080d9d5bd18897eec83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90991e79250744a212e670c724bb4ff128cf63c5a36f145348f95d44630f47b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,45 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239001:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528399:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
-  section_count: 45
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:05Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +116,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamento dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamento dos seguintes Ministérios:
 
 Ministério das Finanças
 
@@ -138,93 +166,93 @@ Do artigo 802.º, n.º 1) «Pessoal dos quadros ...» ... -90000$00
 
 Para o artigo 803.º, n.º 1) «Gratificações por serviços extraordinários ...» ... +90000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 167124507$10, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 167124507$10, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º «Secretaria de Estado da Aeronáutica»:
+Capítulo 8.º «Secretaria de Estado da Aeronáutica»:
 
 Gabinete do Secretário de Estado
 
-###### Artigo 142.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motores» ... 353050$00
+Artigo 142.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motores» ... 353050$00
 
 Força Aérea
 
-###### Artigo 149.º «Remunerações acidentais», n.º 4) «Gratificações ao pessoal reformado em serviço, nos termos do artigo 23.º do [Decreto-Lei n.º 28403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28403-1937-668689), de 31 de Dezembro de 1937» ... 1825$00
+Artigo 149.º «Remunerações acidentais», n.º 4) «Gratificações ao pessoal reformado em serviço, nos termos do artigo 23.º do [Decreto-Lei n.º 28403](https://diariodarepublica.pt/dr/detalhe/decreto-lei/28403-1937-668689), de 31 de Dezembro de 1937» ... 1825$00
 
 ... 354875$00
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 3 «Amortizável externa»: «Empréstimo externo de 5 3/4 por cento, amortizável até 1985» ... (ver nota h) 16962500$00
+Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 3 «Amortizável externa»: «Empréstimo externo de 5 3/4 por cento, amortizável até 1985» ... (ver nota h) 16962500$00
 
 (nota h) [Decreto n.º 46157](https://diariodarepublica.pt/dr/detalhe/decreto/46157-1965-239001), de 18 de Janeiro de 1965.
 
-###### Art. 7.º «Fundo de compra de títulos do empréstimo externo de 5 3/4 por cento, amortizável até 1985», n.º 1) «Para compra de títulos deste empréstimo, nos termos do artigo 5.º do [Decreto n.º 46157](https://diariodarepublica.pt/dr/detalhe/decreto/46157-1965-239001), de 18 de Janeiro de 1965» ... 5900000$00
+Art. 7.º «Fundo de compra de títulos do empréstimo externo de 5 3/4 por cento, amortizável até 1985», n.º 1) «Para compra de títulos deste empréstimo, nos termos do artigo 5.º do [Decreto n.º 46157](https://diariodarepublica.pt/dr/detalhe/decreto/46157-1965-239001), de 18 de Janeiro de 1965» ... 5900000$00
 
-### Capítulo 3.º «Junta do Crédito Público»:
+Capítulo 3.º «Junta do Crédito Público»:
 
-###### Art. 32.º, n.º 1) «Despesas no estrangeiro (comissões de pagamento, ...)» ... 400000$00
+Art. 32.º, n.º 1) «Despesas no estrangeiro (comissões de pagamento, ...)» ... 400000$00
 
-### Capítulo 5.º «Gabinete do Ministro»:
+Capítulo 5.º «Gabinete do Ministro»:
 
-###### Art. 37.º, n.º 1) «Pessoal dos quadros ... Pessoal do Gabinete - Diferença de vencimento» ... 28000$00
+Art. 37.º, n.º 1) «Pessoal dos quadros ... Pessoal do Gabinete - Diferença de vencimento» ... 28000$00
 
-### Capítulo 6.º «Secretaria-Geral»:
+Capítulo 6.º «Secretaria-Geral»:
 
-###### Art. 55.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos» ... 15000$00
+Art. 55.º, n.º 1) «De imóveis», alínea 1 «Prédios urbanos» ... 15000$00
 
-### Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
+Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
 
-###### Art. 138.º, n.º 1) «Restituições», alínea 1 «Títulos de anulação» ... 65213000$00
+Art. 138.º, n.º 1) «Restituições», alínea 1 «Títulos de anulação» ... 65213000$00
 
-### Capítulo 12.º «Direcção-Geral das Alfândegas»:
+Capítulo 12.º «Direcção-Geral das Alfândegas»:
 
-###### Artigo 163.º, n.º 1) «Restituições» ... 20135771$00
+Artigo 163.º, n.º 1) «Restituições» ... 20135771$00
 
-### Capítulo 15.º «Casa da Moeda»:
+Capítulo 15.º «Casa da Moeda»:
 
-###### Artigo 192.º, n.º 1) «Móveis» ... 1600000$00
+Artigo 192.º, n.º 1) «Móveis» ... 1600000$00
 
 ... 110254271$00
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 1.º, n.º 1) «Pessoal dos quadros ... - Diferença de vencimento ao pessoal do Gabinete, ...» ... 4520$00
+Artigo 1.º, n.º 1) «Pessoal dos quadros ... - Diferença de vencimento ao pessoal do Gabinete, ...» ... 4520$00
 
-### Capítulo 2.º «Secretaria-Geral do Ministério»:
+Capítulo 2.º «Secretaria-Geral do Ministério»:
 
-###### Artigo 12.º, n.º 2) «Fardamentos, ...» ... 400$00
+Artigo 12.º, n.º 2) «Fardamentos, ...» ... 400$00
 
 ... 4920$00
 
 Ministério da Justiça
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 4.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motores» ... 372050$00
+Artigo 4.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motores» ... 372050$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Memores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Memores»:
 
 Instituto de Reeducação de S. Fiel
 
-###### Artigo 396.º «Outras despesas com o pessoal», n.º 3) «Abono para falhas» ... 1800$00
+Artigo 396.º «Outras despesas com o pessoal», n.º 3) «Abono para falhas» ... 1800$00
 
 Instituto de Reeducação de Vila Fernando
 
-###### Artigo 413.º, n.º 2) «Abono para falhas» ... 1200$00
+Artigo 413.º, n.º 2) «Abono para falhas» ... 1200$00
 
 ... 375050$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna - Serviços externos da Direcção-Geral»:
+Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna - Serviços externos da Direcção-Geral»:
 
-###### Artigo 24.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei», alínea 2 «Representação»:
+Artigo 24.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei», alínea 2 «Representação»:
 
 Embaixadas:
 
@@ -232,25 +260,25 @@ Em Banguecoque ... 220000$00
 
 Em S. José (Costa Rica) ... 300000$00
 
-### Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
+Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
 
-###### Artigo 38.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei», alínea 2 «Residência»:
+Artigo 38.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei», alínea 2 «Residência»:
 
 Consulados de 3.ª classe:
 
 Em Newark ... 140000$00
 
-###### Artigo 41.º, n.º 1) «Móveis» ... 415000$00
+Artigo 41.º, n.º 1) «Móveis» ... 415000$00
 
 ... 1075000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 51.º, n.º 3) «Construções e melhoramentos ...», alínea 1 «Edifícios dos correios, telégrafos e telefones» ... 8000000$00
+Artigo 51.º, n.º 3) «Construções e melhoramentos ...», alínea 1 «Edifícios dos correios, telégrafos e telefones» ... 8000000$00
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material»:
+Artigo 53.º «Despesas de conservação e aproveitamento do material»:
 
 N.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado»:
 
@@ -258,19 +286,19 @@ Alínea 1 «Edifícios dos correios, telégrafos e telefones» ... 700000$00
 
 Alínea 9 «Instalações do Instituto de Formação Profissional Acelerada» ... 2020000$00
 
-### Capítulo 13.º «Outros investimentos»:
+Capítulo 13.º «Outros investimentos»:
 
-###### Artigo 114.º, n.º 1) «Subsídios para melhoramentos rurais ...» ... 207991$10
+Artigo 114.º, n.º 1) «Subsídios para melhoramentos rurais ...» ... 207991$10
 
 ... 10927991$10
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes - Instrução universitária - Universidade Técnica de Lisboa - Instituto Superior Técnico»:
+Capítulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes - Instrução universitária - Universidade Técnica de Lisboa - Instituto Superior Técnico»:
 
-###### Artigo 438.º, n.º 3) «Subsídios ...», alínea 2 «Actividades circum-escolares» ... 48000$00
+Artigo 438.º, n.º 3) «Subsídios ...», alínea 2 «Actividades circum-escolares» ... 48000$00
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
 
 Ensino industrial e comercial
 
@@ -278,7 +306,7 @@ Ensino médio
 
 Instituto Comercial do Porto
 
-###### Artigo 802.º, n.º 3) «Pessoal contratado ...:
+Artigo 802.º, n.º 3) «Pessoal contratado ...:
 
 Professores ordinários ...» ... 510000$00
 
@@ -288,65 +316,65 @@ Ensino médio
 
 Escola de Regentes Agrícolas de Évora
 
-###### Artigo 860.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 38400$00
+Artigo 860.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 38400$00
 
 ... 596400$0
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica civil - Direcção-Geral»:
+Capítulo 4.º «Aeronáutica civil - Direcção-Geral»:
 
-###### Artigo 52.º, n.º 8) «Para as despesas resultantes do estabelecido na base XIII a que se refere o artigo 1.º do [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953» ... 43536000$00
+Artigo 52.º, n.º 8) «Para as despesas resultantes do estabelecido na base XIII a que se refere o artigo 1.º do [Decreto-Lei n.º 39188](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39188-1953-528399), de 25 de Abril de 1953» ... 43536000$00
 
 ... 167124507$10
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 65213000$00
+Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 65213000$00
 
-### Capítulo 2.º, artigo 17.º «Direitos de importação de vários géneros e mercadorias» ... 20135771$00
+Capítulo 2.º, artigo 17.º «Direitos de importação de vários géneros e mercadorias» ... 20135771$00
 
-### Capítulo 5.º, artigo 111.º «Venda e amortização de títulos na posse da Fazenda» ... 22900000$00
+Capítulo 5.º, artigo 111.º «Venda e amortização de títulos na posse da Fazenda» ... 22900000$00
 
-### Capítulo 6.º, artigo 129.º «Dividendos de acções de bancos e companhias» ... 3000000$00
+Capítulo 6.º, artigo 129.º «Dividendos de acções de bancos e companhias» ... 3000000$00
 
-### Capítulo 6.º, artigo 130.º «Juros de obrigações» ... 17636000$00
+Capítulo 6.º, artigo 130.º «Juros de obrigações» ... 17636000$00
 
-### Capítulo 7.º, artigo 169.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 3000$00
+Capítulo 7.º, artigo 169.º «Reembolso do abono para falhas a pessoal do Ministério da Justiça» ... 3000$00
 
-### Capítulo 7.º, artigo 178.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 10720000$00
+Capítulo 7.º, artigo 178.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 10720000$00
 
-### Capítulo 7.º, artigo 203.º «Reposições não abatidas nos pagamentos» ... 207991$10
+Capítulo 7.º, artigo 203.º «Reposições não abatidas nos pagamentos» ... 207991$10
 
 ... 139815762$10
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º, artigo 148.º, n.º 1) ... 1825$00
+Capítulo 8.º, artigo 148.º, n.º 1) ... 1825$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 12.º ... 19365100$00
+Capítulo 1.º, artigo 12.º ... 19365100$00
 
-### Capítulo 7.º, artigo 69.º, n.º 1) ... 6652500$00
+Capítulo 7.º, artigo 69.º, n.º 1) ... 6652500$00
 
-### Capítulo 8.º, artigo 70.º, n.º 1) ... 28000$00
+Capítulo 8.º, artigo 70.º, n.º 1) ... 28000$00
 
 ... 26045600$00
 
 Ministério do Interior
 
-### Capítulo 2.º, artigo 10.º, n.º 2) ... 4520$00
+Capítulo 2.º, artigo 10.º, n.º 2) ... 4520$00
 
-### Capítulo 2.º, artigo 18.º, n.º 3) ... 400$00
+Capítulo 2.º, artigo 18.º, n.º 3) ... 400$00
 
 ... 4920$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º, artigo 24.º, n.º 1), alínea 2 «Representação»:
+Capítulo 3.º, artigo 24.º, n.º 1), alínea 2 «Representação»:
 
 Legações de 2.ª classe:
 
@@ -354,31 +382,31 @@ Em Banguecoque ... 220000$00
 
 Em S. José (Costa Rica) ... 300000$00
 
-### Capítulo 4.º, artigo 38.º, n.º 1), alínea 2 ... 140000$00
+Capítulo 4.º, artigo 38.º, n.º 1), alínea 2 ... 140000$00
 
 ... 660000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 77.º, n.º 1) ... 50000$00
+Capítulo 3.º, artigo 77.º, n.º 1) ... 50000$00
 
-### Capítulo 3.º, artigo 95.º, n.º 1) ... 50000$00
+Capítulo 3.º, artigo 95.º, n.º 1) ... 50000$00
 
-### Capítulo 3.º, artigo 104.º, n.º 1) ... 100000$00
+Capítulo 3.º, artigo 104.º, n.º 1) ... 100000$00
 
-### Capítulo 3.º, artigo 118.º, n.º 1) ... 50000$00
+Capítulo 3.º, artigo 118.º, n.º 1) ... 50000$00
 
-### Capítulo 3.º, artigo 195.º, n.º 1) ... 50000$00
+Capítulo 3.º, artigo 195.º, n.º 1) ... 50000$00
 
-### Capítulo 3.º, artigo 221.º, n.º 1) ... 50000$00
+Capítulo 3.º, artigo 221.º, n.º 1) ... 50000$00
 
-### Capítulo 3.º, artigo 230.º, n.º 1) ... 100000$00
+Capítulo 3.º, artigo 230.º, n.º 1) ... 100000$00
 
-### Capítulo 3.º, artigo 335.º, n.º 1) ... 60000$00
+Capítulo 3.º, artigo 335.º, n.º 1) ... 60000$00
 
-### Capítulo 3.º, artigo 430.º, n.º 1) ... 48000$00
+Capítulo 3.º, artigo 430.º, n.º 1) ... 48000$00
 
-### Capítulo 8.º, artigo 943.º ... 38400$00
+Capítulo 8.º, artigo 943.º ... 38400$00
 
 ... 596400$00
 
@@ -386,6 +414,6 @@ Ministério da Educação Nacional
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

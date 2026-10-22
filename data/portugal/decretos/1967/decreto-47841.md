@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47841-1967-313664
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a943b30c4f44a011fa01ed3040d6cc1751e3d3fdaf382c71239ea2f2700fbfa4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: abc08e558e73cceafa1f707f68064029b612e0a03e5c98259a87dddfe74a17d1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155832:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:50Z'
   warnings: []
   errors: []
 ---
@@ -101,51 +105,51 @@ I
 
 Das instalações
 
-###### Artigo 1.º As instalações da Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., sitas na Margueira e na Rocha do Conde de Óbidos, serão resguardadas pelo lado de terra por uma vedação de rede, tipo dine, de altura não superior a 3 m, fazendo-se todo o movimento de entrada e saída de pessoas e objectos por um único portão, devidamente fiscalizado.
+Artigo 1.º As instalações da Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., sitas na Margueira e na Rocha do Conde de Óbidos, serão resguardadas pelo lado de terra por uma vedação de rede, tipo dine, de altura não superior a 3 m, fazendo-se todo o movimento de entrada e saída de pessoas e objectos por um único portão, devidamente fiscalizado.
 
-###### Art. 2.º Junto das instalações do estaleiro da Margueira funcionará um posto fiscal, com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
+Art. 2.º Junto das instalações do estaleiro da Margueira funcionará um posto fiscal, com o efectivo de um graduado e das praças julgadas necessárias para o seu conveniente funcionamento, de harmonia com as instruções especiais aduaneiras.
 
 § 1.º Todas as despesas com a criação e manutenção do posto serão de conta da empresa proprietária do estaleiro.
 
 § 2.º A empresa fornecerá instalações para o serviço da Guarda Fiscal, as quais deverão ser prèviamente aprovadas pelo seu Comando-Geral.
 
-###### Art. 3.º No recinto dos estaleiros da Margueira haverá instalações para serem utilizadas apenas pelos funcionários aduaneiros que ali vão fazer serviço, as quais deverão ser prèviamente aprovadas pela Alfândega.
+Art. 3.º No recinto dos estaleiros da Margueira haverá instalações para serem utilizadas apenas pelos funcionários aduaneiros que ali vão fazer serviço, as quais deverão ser prèviamente aprovadas pela Alfândega.
 
 § único. As despesas de estabelecimento e manutenção das instalações referidas no corpo do artigo serão suportadas pela empresa proprietária dos estaleiros.
 
-###### Art. 4.º Sempre que o entenda conveniente, a Alfândega mandará visitar as instalações dos estaleiros, não só para averiguar das condições de segurança fiscal, mas também daquelas que digam respeito à defesa dos interesses do Estado, e, assim, poder examinar os livros de escrituração e contabilidade e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação, os quais lhe deverão ser fornecidos com o mínimo de dilação e a maior clareza.
+Art. 4.º Sempre que o entenda conveniente, a Alfândega mandará visitar as instalações dos estaleiros, não só para averiguar das condições de segurança fiscal, mas também daquelas que digam respeito à defesa dos interesses do Estado, e, assim, poder examinar os livros de escrituração e contabilidade e pedir esclarecimentos que julgue necessários sobre a existência de materiais, peças e máquinas e sua aplicação, os quais lhe deverão ser fornecidos com o mínimo de dilação e a maior clareza.
 
-###### Art. 5.º Nas instalações da Lisnave é permitida a constituição de depósitos afiançados, nos termos dos artigos 127.º e seguintes da Reforma Aduaneira, a fim de serem recolhidos aprestos e sobresselentes de navios e material para a construção e reparação navais.
+Art. 5.º Nas instalações da Lisnave é permitida a constituição de depósitos afiançados, nos termos dos artigos 127.º e seguintes da Reforma Aduaneira, a fim de serem recolhidos aprestos e sobresselentes de navios e material para a construção e reparação navais.
 
 § 1.º O prazo estabelecido na Reforma Aduaneira pode ser prorrogado pelo director-geral, em casos justificados, por períodos sucessivos de seis meses.
 
 § 2.º Permite-se o processamento de despacho de reexportação para a saída das mercadorias, aludidas no corpo do artigo, armazenadas nos depósitos afiançados.
 
-###### Art. 6.º Relativamente aos impressos especiais referidos nos artigos seguintes, a Lisnave deve respeitar os modelos prèviamente estabelecidos pela Alfândega.
+Art. 6.º Relativamente aos impressos especiais referidos nos artigos seguintes, a Lisnave deve respeitar os modelos prèviamente estabelecidos pela Alfândega.
 
 II
 
 Movimento de ferramentas e materiais
 
-###### Art. 7.º O embarque e desembarque de ferramentas nacionais ou nacionalizadas portáteis para utilização a bordo dos navios faz-se livremente, desde que as caixas acondicionadoras, de modelo prèviamente aprovado pela Alfândega, conservem no tampo relações discriminativas das ferramentas, autenticadas pelos serviços aduaneiros.
+Art. 7.º O embarque e desembarque de ferramentas nacionais ou nacionalizadas portáteis para utilização a bordo dos navios faz-se livremente, desde que as caixas acondicionadoras, de modelo prèviamente aprovado pela Alfândega, conservem no tampo relações discriminativas das ferramentas, autenticadas pelos serviços aduaneiros.
 
-###### Art. 8.º O embarque e desembarque de ferramentas e máquinas-ferramentas, nacionais ou nacionalizadas para utilização a bordo dos navios, faz-se livremente, desde que se encontrem devidamente referenciadas com a marca do estaleiro e com o número de fabrico.
+Art. 8.º O embarque e desembarque de ferramentas e máquinas-ferramentas, nacionais ou nacionalizadas para utilização a bordo dos navios, faz-se livremente, desde que se encontrem devidamente referenciadas com a marca do estaleiro e com o número de fabrico.
 
 § único. Os estaleiros deverão fornecer prèviamente à Alfândega listas discriminativas das ferramentas e máquinas-ferramentas, com a indicação do respectivo número de fabrico.
 
-###### Art. 9.º O embarque e desembarque de ferramentas nacionais ou nacionalizadas, para utilização a bordo dos navios, que não se encontrem nas condições mencionadas nos artigos anteriores, faz-se mediante relações, em duplicado, emitidas pelo estaleiro, donde constem, além do nome e da contramarca do navio, todos os elementos indispensáveis a uma perfeita e rápida identificação, e sejam indicadas as quantidades por cada tipo de ferramenta.
+Art. 9.º O embarque e desembarque de ferramentas nacionais ou nacionalizadas, para utilização a bordo dos navios, que não se encontrem nas condições mencionadas nos artigos anteriores, faz-se mediante relações, em duplicado, emitidas pelo estaleiro, donde constem, além do nome e da contramarca do navio, todos os elementos indispensáveis a uma perfeita e rápida identificação, e sejam indicadas as quantidades por cada tipo de ferramenta.
 
 § 1.º A relação acompanhará as ferramentas, ficando o original em poder da praça da Guarda Fiscal em serviço a bordo, a qual, depois de feitas e anotadas as conferências de entrada e de saída, o remeterá, por intermédio do respectivo posto fiscal, ao serviço de fiscalização da Alfândega de Lisboa, onde será arquivado no processo da embarcação.
 
 § 2.º O duplicado da relação, uma vez anotadas as conferências de embarque e desembarque, será entregue aos serviços do estaleiro.
 
-###### Art. 10.º A entrada a bordo de materiais nacionais ou nacionalizados faz-se por meio de relações, em duplicado, emitidas pelo estaleiro, donde constem a quantidade e qualidade dos materiais.
+Art. 10.º A entrada a bordo de materiais nacionais ou nacionalizados faz-se por meio de relações, em duplicado, emitidas pelo estaleiro, donde constem a quantidade e qualidade dos materiais.
 
 § 1.º O original da relação, com a indicação do nome da embarcação e da respectiva contramarca, fica na posse do agente de fiscalização em serviço no navio, o qual, depois de anotar a conferência de embarque dos materiais e o desembarque da parte sobrante, quando a houver, procederá, no que respeita ao destino, de conformidade com o preceituado no § 1.º do artigo 9.º
 
 § 2.º O duplicado da relação, depois de anotado o embarque dos materiais e o desembarque da parte sobrante, quando a houver, deverá ser restituído aos serviços do estaleiro.
 
-###### Art. 11.º O desembarque de peças, aparelhos e maquinismos em uso num navio, para efeitos de reparação ou beneficiação nas oficinas do estaleiro, faz-se por meio de relações em duplicado donde constem os elementos de identificação do navio, nomeadamente a contramarca, nome e nacionalidade, assim como os dos aludidos objectos, com a indicação da natureza, marcas e números de fabrico e das respectivas quantidades.
+Art. 11.º O desembarque de peças, aparelhos e maquinismos em uso num navio, para efeitos de reparação ou beneficiação nas oficinas do estaleiro, faz-se por meio de relações em duplicado donde constem os elementos de identificação do navio, nomeadamente a contramarca, nome e nacionalidade, assim como os dos aludidos objectos, com a indicação da natureza, marcas e números de fabrico e das respectivas quantidades.
 
 § 1.º A relação, devidamente datada e assinada pela Lisnave, será entregue, para conferência de saída das peças, aparelhos ou maquinismos, à praça da Guarda Fiscal em serviço a bordo, conservando esta em seu poder o original, para nele dar baixa dos objectos à medida que forem reembarcando.
 
@@ -171,7 +175,7 @@ III
 
 Circulação de materiais entre os estaleiros da Rocha e da Margueira
 
-###### Art. 12.º Os materiais, ferramentas e equipamentos, nacionais ou nacionalizados, a transferir directamente por via fluvial em barcos privativos da empresa, do estaleiro da Rocha para o da Margueira, e vice-versa, devem ser acompanhados de guias de remessa emitidas, em triplicado, pelos serviços do estaleiro, cujos livros serão prèviamente autenticados pela Alfândega de Lisboa, com numeração e cor próprias de cada estaleiro, donde constem todos os elementos de identificação dos objectos.
+Art. 12.º Os materiais, ferramentas e equipamentos, nacionais ou nacionalizados, a transferir directamente por via fluvial em barcos privativos da empresa, do estaleiro da Rocha para o da Margueira, e vice-versa, devem ser acompanhados de guias de remessa emitidas, em triplicado, pelos serviços do estaleiro, cujos livros serão prèviamente autenticados pela Alfândega de Lisboa, com numeração e cor próprias de cada estaleiro, donde constem todos os elementos de identificação dos objectos.
 
 § 1.º O original acompanha os materiais, ferramentas e equipamentos até ao estaleiro de destino, onde será entregue aos agentes de fiscalização, que, depois de aporem o seu «visto», o devolverão ao posto fiscal que interveio na expedição.
 
@@ -185,17 +189,17 @@ IV
 
 Regulamentação do processamento dos despachos de reexportação
 
-###### Art. 13.º Os despachos de reexportação de mercadorias destinadas à construção e reparação de navios nos estaleiros da Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., processar-se-ão com as formalidades constantes dos artigos seguintes.
+Art. 13.º Os despachos de reexportação de mercadorias destinadas à construção e reparação de navios nos estaleiros da Lisnave - Estaleiros Navais de Lisboa, S. A. R. L., processar-se-ão com as formalidades constantes dos artigos seguintes.
 
-###### Art. 14.º Os despachos de reexportação de aprestos e sobresselentes de navios e de material para construção e reparação navais, quando saídos dos depósitos afiançados sitos nos estaleiros, podem compreender mercadorias pertencentes a mais de uma contramarca.
+Art. 14.º Os despachos de reexportação de aprestos e sobresselentes de navios e de material para construção e reparação navais, quando saídos dos depósitos afiançados sitos nos estaleiros, podem compreender mercadorias pertencentes a mais de uma contramarca.
 
 § único. As mercadorias submetidas a despacho de reexportação provenientes dos depósitos afiançados, aludidas no corpo do artigo, serão dispensadas de reverificação e a verificação limitar-se-á à identificação dos volumes.
 
-###### Art. 15.º Os despachos de reexportação de mercadorias a chegar do estrangeiro destinadas à construção e à reparação navais podem ser prèviamente processados, apresentando-se posteriormente os conhecimentos legalizados no prazo de oito dias.
+Art. 15.º Os despachos de reexportação de mercadorias a chegar do estrangeiro destinadas à construção e à reparação navais podem ser prèviamente processados, apresentando-se posteriormente os conhecimentos legalizados no prazo de oito dias.
 
 § 1.º Para os efeitos de levantamento da mercadoria da Alfândega devem ser cumpridas todas as outras formalidades respeitantes ao pagamento das imposições do bilhete, identificação e entrega dos materiais ou peças despachadas.
 
-###### Art. 16.º A saída das mercadorias armazenadas em depósitos afiançados sitos nos estaleiros e a sua entrada a bordo do navio a que se destinam ou a sua entrega no local de construção faz-se através de relações, em triplicado, emitidas pela interessada, donde constem todos os elementos necessários ao posterior preenchimento do despacho de reexportação.
+Art. 16.º A saída das mercadorias armazenadas em depósitos afiançados sitos nos estaleiros e a sua entrada a bordo do navio a que se destinam ou a sua entrega no local de construção faz-se através de relações, em triplicado, emitidas pela interessada, donde constem todos os elementos necessários ao posterior preenchimento do despacho de reexportação.
 
 § 1.º As mercadorias, depois de identificadas à saída dos depósitos afiançados, pela Guarda Fiscal, devem seguir acompanhadas das relações e de fiscalização para bordo dos navios, onde será conferido o embarque e colhido o recibo do capitão ou seu substituto legal, ou da entidade responsável pela construção, conforme os casos.
 
@@ -211,14 +215,14 @@ Regulamentação do processamento dos despachos de reexportação
 
 § 7.º Os triplicados das relações, depois de visados pela fiscalização, serão restituídos aos serviços da Lisnave.
 
-###### Art. 17.º Têm também despacho de reexportação os materiais, cativos de direitos, destinados a navios estrangeiros que passem ao largo da costa portuguesa, cujo processamento fica sujeito às formalidades referidas nos artigos 15.º e 16.º, consoante a origem das mercadorias.
+Art. 17.º Têm também despacho de reexportação os materiais, cativos de direitos, destinados a navios estrangeiros que passem ao largo da costa portuguesa, cujo processamento fica sujeito às formalidades referidas nos artigos 15.º e 16.º, consoante a origem das mercadorias.
 
 § único. As mercadorias seguem para bordo com fiscalização e acompanhadas da guia de reexportação ou de relação, conforme procedam de uma estância aduaneira ou de depósitos afiançados sitos nos estaleiros, devendo o capitão ou seu substituto legal passar recibo nesse documento.
 
-###### Art. 18.º Nos despachos de entrada em armazéns externos e nos despachos de reexportação, pode a interessada preencher a declaração mencionando ùnicamente o número da posição pautal e o dizer correspondente, atribuindo-lhe a taxa mais elevada, dentro do regime pautal que lhe seja aplicável, constante dos artigos pautais compreendidos na respectiva posição, desde que declare no acto do despacho que a ela se sujeita, no caso de ser devida.
+Art. 18.º Nos despachos de entrada em armazéns externos e nos despachos de reexportação, pode a interessada preencher a declaração mencionando ùnicamente o número da posição pautal e o dizer correspondente, atribuindo-lhe a taxa mais elevada, dentro do regime pautal que lhe seja aplicável, constante dos artigos pautais compreendidos na respectiva posição, desde que declare no acto do despacho que a ela se sujeita, no caso de ser devida.
 
-###### Art. 19.º As mercadorias que saírem dos depósitos afiançados da Lisnave para importação no País ficam sujeitas a verificação e reverificação efectivas e ao pagamento dos respectivos direitos, salvo quando se faça a prova de que estão deles isentos.
+Art. 19.º As mercadorias que saírem dos depósitos afiançados da Lisnave para importação no País ficam sujeitas a verificação e reverificação efectivas e ao pagamento dos respectivos direitos, salvo quando se faça a prova de que estão deles isentos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.

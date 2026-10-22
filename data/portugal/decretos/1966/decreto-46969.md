@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/04/09600/05880597.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46969-1966-487359
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-04-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0941352e01018a242d0f1e57d7e1a7a0b72e3eed68b8a19ce29c02ce9d21de75
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e60368f951cc59c2b64382bc8a14f3f32bed92649db3f8661dc85ea0b378af8b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Guarda Fiscal
+- Regulamento
+- Regulamento Disciplinar
 relationships:
 - type: amended_by
   target: pt:dre:474109:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:399838:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467065:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525025:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:474109:por
+  label: "Revogado pelo DEC LEI.143/80.24.04.1980.MFP, DR.IS [117] de 21.05.1980\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/143-1980-474109
+  date: '1980-04-24'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:35Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +112,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O Regulamento Disciplinar da Guarda Fiscal, aprovado por [Decreto n.º 13461](https://diariodarepublica.pt/dr/detalhe/decreto/13461-1927-467065), de 23 de Março de 1927, é substituído pelo anexo a este decreto, assinado pelos Ministros das Finanças e do Exército.
+Artigo único. O Regulamento Disciplinar da Guarda Fiscal, aprovado por [Decreto n.º 13461](https://diariodarepublica.pt/dr/detalhe/decreto/13461-1927-467065), de 23 de Março de 1927, é substituído pelo anexo a este decreto, assinado pelos Ministros das Finanças e do Exército.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.
 
@@ -102,9 +122,9 @@ REGULAMENTO DISCIPLINAR DA GUARDA FISCAL
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A disciplina consiste na exacta observância das leis e regulamentos militares e fiscais e das determinações que de umas e de outros derivam.
+Artigo 1.º A disciplina consiste na exacta observância das leis e regulamentos militares e fiscais e das determinações que de umas e de outros derivam.
 
-###### Art. 2.º Para que a disciplina constitua a base em que judiciosamente deve firmar-se a corporação da Guarda Fiscal, observar-se-á rigorosamente o seguinte:
+Art. 2.º Para que a disciplina constitua a base em que judiciosamente deve firmar-se a corporação da Guarda Fiscal, observar-se-á rigorosamente o seguinte:
 
 1.º A obediência às ordens que o superior der em conformidade com as leis e regulamentos militares ou fiscais será pronta e completa.
 
@@ -132,13 +152,13 @@ f) Recompensar os subordinados que se distinguirem no cumprimento dos seus dever
 
 g) Punir as infracções em harmonia com os preceitos deste regulamento.
 
-###### Art. 3.º Os chefes são responsáveis disciplinarmente pelas faltas dos seus subordinados quando estas resultem de não haver sido empregado por aqueles qualquer dos meios a que se referem as alíneas a), b), c), d) e e) do n.º 3.º do artigo antecedente.
+Art. 3.º Os chefes são responsáveis disciplinarmente pelas faltas dos seus subordinados quando estas resultem de não haver sido empregado por aqueles qualquer dos meios a que se referem as alíneas a), b), c), d) e e) do n.º 3.º do artigo antecedente.
 
 § único. Os chefes em especial, e, em geral, todos os superiores, são igualmente responsáveis pelas faltas dos seus subordinados quando estas resultem de outras cometidas por aqueles.
 
 ### CAPÍTULO II — Deveres militares e fiscais
 
-###### Art. 4.º O militar deve regular o seu procedimento pelos ditames da virtude e da honra, amar a Pátria, guardar e fazer guardar a Constituição Política vigente e mais leis da República, do que tomará compromisso solene segundo a fórmula adoptada, e tem por deveres especiais os seguintes:
+Art. 4.º O militar deve regular o seu procedimento pelos ditames da virtude e da honra, amar a Pátria, guardar e fazer guardar a Constituição Política vigente e mais leis da República, do que tomará compromisso solene segundo a fórmula adoptada, e tem por deveres especiais os seguintes:
 
 1.º Cumprir completa e prontamente as ordens dos superiores relativas ao serviço;
 
@@ -276,25 +296,25 @@ g) Punir as infracções em harmonia com os preceitos deste regulamento.
 
 68.º Não se servir da imprensa ou de qualquer outro meio de publicidade para dar contas do modo como desempenha as suas funções oficiais, ou para responder a apreciações feitas a serviços de que seja incumbido, devendo, no caso em que lhe sejam feitas imputações por civis ou militares sobre tal assunto, limitar-se a participar o facto às autoridades competentes, as quais têm por dever empregar os meios conducentes a exigir dos seus autores a responsabilidade que lhes couber.
 
-###### Art. 5.º Os deveres a que se refere o artigo anterior serão cumpridos pelo pessoal da Guarda Fiscal em serviço activo e na situação de reserva prestando serviço.
+Art. 5.º Os deveres a que se refere o artigo anterior serão cumpridos pelo pessoal da Guarda Fiscal em serviço activo e na situação de reserva prestando serviço.
 
 O restante pessoal na situação de reserva e de reforma apenas é obrigado ao cumprimento dos deveres n.os 3.º, 4.º, 5.º, 9.º, 11.º, 12.º, 13.º, 16.º, 24.º, 25.º, 28.º, 30.º, 31.º, 32.º, 33.º, 36.º, 37.º, 38.º, 44.º, 47.º, 48.º, 50.º, 53.º, 54.º, 62.º, 63.º, 66.º e 67.º
 
-###### Art. 6.º Os superiores têm o dever de providenciar para que as ordens que intimem sejam executadas, ainda que para tanto hajam de empregar quaisquer meios extraordinários, não considerados castigos, mas que sejam indispensáveis para competir os seus inferiores à obediência devida.
+Art. 6.º Os superiores têm o dever de providenciar para que as ordens que intimem sejam executadas, ainda que para tanto hajam de empregar quaisquer meios extraordinários, não considerados castigos, mas que sejam indispensáveis para competir os seus inferiores à obediência devida.
 
 § único. Os superiores participarão imediatamente aos seus chefes os meios extraordinários que tenham sido forçados a empregar:
 
-###### Art. 7.º Infracção de disciplina, punível por este regulamento, é toda a acção ou omissão contrária ao dever militar ou fiscal que por lei não seja qualificada crime.
+Art. 7.º Infracção de disciplina, punível por este regulamento, é toda a acção ou omissão contrária ao dever militar ou fiscal que por lei não seja qualificada crime.
 
 ### CAPÍTULO III — Penas disciplinares e sua execução
 
 #### SECÇÃO I — Penas aplicáveis oficiais
 
-###### Art. 8.º As penas aplicáveis a oficiais são as que se encontram expressas no Regulamento de Disciplina Militar em vigor no Exército, seguindo-se na sua execução os preceitos nele estabelecidos, embora fiquem igualmente sujeitos aos deveres militares e fiscais específicos deste regulamento.
+Art. 8.º As penas aplicáveis a oficiais são as que se encontram expressas no Regulamento de Disciplina Militar em vigor no Exército, seguindo-se na sua execução os preceitos nele estabelecidos, embora fiquem igualmente sujeitos aos deveres militares e fiscais específicos deste regulamento.
 
 #### SECÇÃO II — Penas aplicáveis a sargentos
 
-###### Art. 9.º As penas aplicáveis a sargentos são as seguintes:
+Art. 9.º As penas aplicáveis a sargentos são as seguintes:
 
 Repreensão;
 
@@ -308,7 +328,7 @@ Prisão disciplinar agravada até 40 dias.
 
 #### SECÇÃO III — Penas aplicáveis a cabos e soldados
 
-###### Art. 10.º As penas aplicáveis a cabos são as seguintes:
+Art. 10.º As penas aplicáveis a cabos são as seguintes:
 
 Repreensão;
 
@@ -320,7 +340,7 @@ Prisão disciplinar até 30 dias;
 
 Prisão disciplinar agravada até 60 dias.
 
-###### Art. 11.º As penas aplicáveis a soldados são as seguintes:
+Art. 11.º As penas aplicáveis a soldados são as seguintes:
 
 Repreensão;
 
@@ -338,41 +358,41 @@ Prisão disciplinar agravada até 60 dias.
 
 #### SECÇÃO IV — Disposições comuns a sargentos e praças
 
-###### Art. 12.º A repreensão e a repreensão agravada são dadas pelo comandante ou chefe imediato hierárquico, a primeira em particular e a segunda na presença do pessoal de patente igual ou superior à do infractor, e consistem em se lhe declarar que é punido por haver praticado qualquer acto que constitua infracção de dever ou deveres militares:
+Art. 12.º A repreensão e a repreensão agravada são dadas pelo comandante ou chefe imediato hierárquico, a primeira em particular e a segunda na presença do pessoal de patente igual ou superior à do infractor, e consistem em se lhe declarar que é punido por haver praticado qualquer acto que constitua infracção de dever ou deveres militares:
 
-###### Art. 13.º Qualquer das punições referidas no artigo anterior será escrita e entregue ao infractor no acto da repreensão.
+Art. 13.º Qualquer das punições referidas no artigo anterior será escrita e entregue ao infractor no acto da repreensão.
 
-###### Art. 14.º A pena de detenção consiste na permanência no quartel, local do acampamento ou acantonamento durante o tempo livre de serviço.
+Art. 14.º A pena de detenção consiste na permanência no quartel, local do acampamento ou acantonamento durante o tempo livre de serviço.
 
 § único. O sargento ou praça que receber ordem de detenção apresentar-se-á no quartel do posto a que pertencer, dando conhecimento do ocorrido ao respectivo comandante.
 
-###### Art. 15.º A pena de prisão disciplinar consiste na reclusão em casa para esse fim destinada no quartel ou no local de estacionamento da unidade a que pertencer ou estiver adido o infractor, ou, na sua falta, onde superiormente for determinado.
+Art. 15.º A pena de prisão disciplinar consiste na reclusão em casa para esse fim destinada no quartel ou no local de estacionamento da unidade a que pertencer ou estiver adido o infractor, ou, na sua falta, onde superiormente for determinado.
 
-###### Art. 16.º A pena de prisão disciplinar agravada consiste na reclusão em prisão fechada, isoladamente, no quartel ou estabelecimento indicado pelo Ministério do Exército.
+Art. 16.º A pena de prisão disciplinar agravada consiste na reclusão em prisão fechada, isoladamente, no quartel ou estabelecimento indicado pelo Ministério do Exército.
 
 § 1.º Quando os sargentos ou praças punidos com prisão disciplinar agravada durante o cumprimento desta pena praticarem quaisquer graves faltas disciplinares, poderá ser ordenada a sua remoção para depósito disciplinar a fim de ali cumprirem o resto da pena que lhes tenha sido aplicada.
 
 § 2.º Os sargentos ou praças removidos para o depósito disciplinar nos termos do § 1.º dente artigo não deverão permanecer ali menos do vinte dias, embora o resto da pena a cumprir seja inferior a este período.
 
-###### Art. 17.º Quando por necessidade de serviço tenha que se determinar qualquer deslocação a um sargento ou praça punido com prisão disciplinar ou prisão disciplinar agravada, considera-se interrompido o cumprimento da pena durante o tempo de marcha.
+Art. 17.º Quando por necessidade de serviço tenha que se determinar qualquer deslocação a um sargento ou praça punido com prisão disciplinar ou prisão disciplinar agravada, considera-se interrompido o cumprimento da pena durante o tempo de marcha.
 
-###### Art. 18.º O tempo de permanência no hospital por motivo de doença não é contado para efeito de cumprimento de penas disciplinares.
+Art. 18.º O tempo de permanência no hospital por motivo de doença não é contado para efeito de cumprimento de penas disciplinares.
 
 ### CAPÍTULO IV — Efeitos das penas
 
-###### Art. 19.º Os efeitos das penas aplicadas a oficiais são os que se encontram expressos no Regulamento de Discipline Militar em vigor no Exército.
+Art. 19.º Os efeitos das penas aplicadas a oficiais são os que se encontram expressos no Regulamento de Discipline Militar em vigor no Exército.
 
-###### Art. 20.º Quando qualquer sargento ou praça pelo somatório das penas sofridas seja classificado na 4.ª classe de comportamento, conforme o estabelecido no presente regulamento, as unidades ou repartições enviarão ao Comando-Geral cópia da ficha de informação e conceito dos comandantes ou chefes sobre a idoneidade do mesmo. Se pela análise das faltas praticadas o comandante-geral considerar que o informado não convém ao serviço, proporá ao Ministro das Finanças a sua eliminação ou reforma obrigatória, se reunir as condições para tal.
+Art. 20.º Quando qualquer sargento ou praça pelo somatório das penas sofridas seja classificado na 4.ª classe de comportamento, conforme o estabelecido no presente regulamento, as unidades ou repartições enviarão ao Comando-Geral cópia da ficha de informação e conceito dos comandantes ou chefes sobre a idoneidade do mesmo. Se pela análise das faltas praticadas o comandante-geral considerar que o informado não convém ao serviço, proporá ao Ministro das Finanças a sua eliminação ou reforma obrigatória, se reunir as condições para tal.
 
-###### Art. 21.º O tempo de cumprimento da pena de prisão disciplinar agravada imposta a sargentos e praças não se conta para efeito algum como tempo de serviço efectivo.
+Art. 21.º O tempo de cumprimento da pena de prisão disciplinar agravada imposta a sargentos e praças não se conta para efeito algum como tempo de serviço efectivo.
 
-###### Art. 22.º O militar que for punido duas vezes por embriaguez será transferido de companhia, não podendo voltar a servir naquela onde foi punido antes de decorrerem dois anos sobre a data da punição, sem ter sofrido qualquer outra.
+Art. 22.º O militar que for punido duas vezes por embriaguez será transferido de companhia, não podendo voltar a servir naquela onde foi punido antes de decorrerem dois anos sobre a data da punição, sem ter sofrido qualquer outra.
 
-###### Art. 23.º A pena de detenção, quando aplicada a sargentos e praças por tempo superior a quinze dias, produzirá a transferência de subunidade, na qual o punido não poderá voltar a servir antes de decorrido um ano, sem qualquer punição.
+Art. 23.º A pena de detenção, quando aplicada a sargentos e praças por tempo superior a quinze dias, produzirá a transferência de subunidade, na qual o punido não poderá voltar a servir antes de decorrido um ano, sem qualquer punição.
 
-###### Art. 24.º As penas de prisão disciplinar e prisão disciplinar agravada, quando aplicadas a sargentos, produzirão a sua transferência, não podendo o punido voltar a servir na unidade ou formação onde estava colocado antes de decorrido um ano no caso de prisão disciplinar ou dois anos no caso de prisão disciplinar agravada, sem qualquer punição.
+Art. 24.º As penas de prisão disciplinar e prisão disciplinar agravada, quando aplicadas a sargentos, produzirão a sua transferência, não podendo o punido voltar a servir na unidade ou formação onde estava colocado antes de decorrido um ano no caso de prisão disciplinar ou dois anos no caso de prisão disciplinar agravada, sem qualquer punição.
 
-###### Art. 25.º Quando aplicadas a cabos e soldados, as penas de prisão disciplinar e prisão disciplinar agravada produzirão a transferencia do infractor segundo as regras seguintes:
+Art. 25.º Quando aplicadas a cabos e soldados, as penas de prisão disciplinar e prisão disciplinar agravada produzirão a transferencia do infractor segundo as regras seguintes:
 
 Prisão disciplinar até dez dias - transferencia de secção.
 
@@ -380,21 +400,21 @@ Prisão disciplinar igual ou superior a dez dias - transferência de companhia.
 
 Prisão disciplinar agravada - transferência de unidade (batalhão ou companhia independente).
 
-###### Art. 26.º A pena de prisão disciplinar agravada, quando aplicada a cabos por tempo igual ou superior a cinco dias, produz a passagem a soldado.
+Art. 26.º A pena de prisão disciplinar agravada, quando aplicada a cabos por tempo igual ou superior a cinco dias, produz a passagem a soldado.
 
 § único. A praça que tiver passagem a soldado nos termos deste artigo não poderá voltar a servir na companhia a que pertencia quando lhe foi imposta a pena, nem ser promovida.
 
-###### Art. 27.º Os sargentos e praças demitidos por efeito necessário de sentença dos tribunais ou eliminados e reformados obrigatòriamente por motivo disciplinar ficam privados de usar uniformes, distintivos ou insígnias militares em uso nesta Guarda.
+Art. 27.º Os sargentos e praças demitidos por efeito necessário de sentença dos tribunais ou eliminados e reformados obrigatòriamente por motivo disciplinar ficam privados de usar uniformes, distintivos ou insígnias militares em uso nesta Guarda.
 
-###### Art. 28.º O tempo de cumprimento das penas de prisão disciplinar e de detenção impostas a cabos e soldados importa, no seu tempo de serviço efectivo, o desconto de um dia por cada dois de prisão disciplinar ou por cada período completo de quatro dias de detenção.
+Art. 28.º O tempo de cumprimento das penas de prisão disciplinar e de detenção impostas a cabos e soldados importa, no seu tempo de serviço efectivo, o desconto de um dia por cada dois de prisão disciplinar ou por cada período completo de quatro dias de detenção.
 
-###### Art. 29.º A praça que for punida com pena de detenção ou superior ficará inibida de obter licença ou dispensa de formatura ou de qualquer outro serviço durante um número de dias igual ao triplo do numero de dias de detenção, por si ou suas equivalências.
+Art. 29.º A praça que for punida com pena de detenção ou superior ficará inibida de obter licença ou dispensa de formatura ou de qualquer outro serviço durante um número de dias igual ao triplo do numero de dias de detenção, por si ou suas equivalências.
 
-###### Art. 30.º Quando não haja ocasião de fazer cumprir efectivamente as penas disciplinares, todos os efeito s dessas penas se produzirão como se elas fossem realmente cumpridas.
+Art. 30.º Quando não haja ocasião de fazer cumprir efectivamente as penas disciplinares, todos os efeito s dessas penas se produzirão como se elas fossem realmente cumpridas.
 
 ### CAPÍTULO V — Recompensas
 
-###### Art. 31.º Além das recompenses estabelecidas pelas leis e regulamentos em vigor, podem ser concedidas aos militares da Guarda Fiscal as seguintes:
+Art. 31.º Além das recompenses estabelecidas pelas leis e regulamentos em vigor, podem ser concedidas aos militares da Guarda Fiscal as seguintes:
 
 Louvor;
 
@@ -402,13 +422,13 @@ Menção honrosa;
 
 Licença sem perda de vencimento.
 
-###### Art. 32.º O louvor pode ser colectivo ou individual e é destinado a recompensar qualquer acto praticado por um ou mais militares, com reconhecido valor, competência profissional, zelo ou civismo.
+Art. 32.º O louvor pode ser colectivo ou individual e é destinado a recompensar qualquer acto praticado por um ou mais militares, com reconhecido valor, competência profissional, zelo ou civismo.
 
 § único. O louvor é tanto mais importante quanto maior é a publicidade do documento oficial em que for exarado e poderá ser acompanhado de concessão de licença, sem perda de vencimentos, até 30 dias. Esta licença não será descontada para efeito algum no tempo de serviço efectivo, e será gozada sempre que possível no ano em que for concedida, quando não houver prejuízo para o serviço.
 
-###### Art. 33.º A menção honrosa é destinada a premiar actor que denotem acentuado interesse pela instrução.
+Art. 33.º A menção honrosa é destinada a premiar actor que denotem acentuado interesse pela instrução.
 
-###### Art. 34.º Além da licença a que se refere o § único do artigo 32.º, poderá ser concedida, em cada ano civil, quando não houver prejuízo para o serviço, uma licença sem perda de vencimentos, até 30 dias, segundos ou interpolados, aos militares em serviço na Guarda Fiscal, que cumpram com zelo e aptidão os seus deveres profissionais.
+Art. 34.º Além da licença a que se refere o § único do artigo 32.º, poderá ser concedida, em cada ano civil, quando não houver prejuízo para o serviço, uma licença sem perda de vencimentos, até 30 dias, segundos ou interpolados, aos militares em serviço na Guarda Fiscal, que cumpram com zelo e aptidão os seus deveres profissionais.
 
 § 1.º No que respeita aos oficiais, a concessão da licença de que trata este artigo fica subordinada às disposições aplicáveis no Regulamento de Disciplina Militar em vigor no Exército.
 
@@ -422,75 +442,75 @@ b) Aos soldados que não tenham completado um ano de serviço fiscal.
 
 § 4.º O militar no gozo de licença sem perda de vencimentos pode interrompê-la, mas só a pode recomeçar depois de nova autorização.
 
-###### Art. 35.º Sempre que instantes necessidades do serviço o exijam, as autoridades que têm competência para as conceder poderão mandar interromper o gozo das licenças concedidas em conformidade com este regulamento. Neste caso, o militar será mandado apresentar imediatamente na unidade ou repartição onde servir, e, findo o serviço para que foi nomeado, poderá, querendo, concluir a licença interrompida.
+Art. 35.º Sempre que instantes necessidades do serviço o exijam, as autoridades que têm competência para as conceder poderão mandar interromper o gozo das licenças concedidas em conformidade com este regulamento. Neste caso, o militar será mandado apresentar imediatamente na unidade ou repartição onde servir, e, findo o serviço para que foi nomeado, poderá, querendo, concluir a licença interrompida.
 
 ### CAPÍTULO VI — Competência disciplinar
 
-###### Art. 36.º A competência disciplinar resulta naturalmente do dever que todos os superiores têm de recompensar ou punir dentro dos princípios, condições e limites consignados neste regulamento.
+Art. 36.º A competência disciplinar resulta naturalmente do dever que todos os superiores têm de recompensar ou punir dentro dos princípios, condições e limites consignados neste regulamento.
 
-###### Art. 37.º Os chefes militares que exerçam funções de comando ou direcção são, em regra, os competentes para recompensar ou impor penas disciplinares. Porém, todo o militar pode admoestar ou elogiar os seus inferiores por qualquer acto por estes praticado que não deva ser punido nem recompensado nos termos deste regulamento.
+Art. 37.º Os chefes militares que exerçam funções de comando ou direcção são, em regra, os competentes para recompensar ou impor penas disciplinares. Porém, todo o militar pode admoestar ou elogiar os seus inferiores por qualquer acto por estes praticado que não deva ser punido nem recompensado nos termos deste regulamento.
 
-###### Art. 38.º Os militares que não têm competência disciplinar devem participar superiormente qualquer acto que tenham presenciado, ou de que oficialmente tenham conhecimento, praticado pelos seus inferiores e que lhes pareça digno de recompensa ou deva ser punido.
+Art. 38.º Os militares que não têm competência disciplinar devem participar superiormente qualquer acto que tenham presenciado, ou de que oficialmente tenham conhecimento, praticado pelos seus inferiores e que lhes pareça digno de recompensa ou deva ser punido.
 
-###### Art. 39.º Pela forma preceituada no artigo anterior procederá o militar que tenha de recompensar ou punir um inferior por acto a que julgue corresponder recompensa ou pena superior à da sua competência, participando o facto por escrito ao chefe imediato, o qual recompensará ou punirá o inferior ou ordenará que o participante use da sua competência.
+Art. 39.º Pela forma preceituada no artigo anterior procederá o militar que tenha de recompensar ou punir um inferior por acto a que julgue corresponder recompensa ou pena superior à da sua competência, participando o facto por escrito ao chefe imediato, o qual recompensará ou punirá o inferior ou ordenará que o participante use da sua competência.
 
 § único. Quando o participante da infracção exercer o comando de uma força em serviço fora de uma unidade, o comandante desta, se o julgar conveniente, providenciará para que o infractor recolha ao seu quartel, para aí cumprir a pena imposta.
 
-###### Art. 40.º As disposições do artigo anterior e seu parágrafo não prejudicam o preceituado nos artigos 37.º, 42.º e 43.º
+Art. 40.º As disposições do artigo anterior e seu parágrafo não prejudicam o preceituado nos artigos 37.º, 42.º e 43.º
 
-###### Art. 41.º O superior tem competência disciplinar para intimar ordem de prisão ou detenção aos inferiores sempre que assim o julgar conveniente à disciplina e ao serviço.
+Art. 41.º O superior tem competência disciplinar para intimar ordem de prisão ou detenção aos inferiores sempre que assim o julgar conveniente à disciplina e ao serviço.
 
 § 1.º Quando o superior que intimar ordem de prisão ou detenção não tiver competência para punir, deverá dar imediatamente parte, por escrito e pelas vias competentes, ao chefe da unidade, estabelecimento ou repartição a que pertencer, o qual resolverá como for de justiça se o militar detido lhe for subordinado, e, quando o não seja, enviará a participação ao chefe do militar preso ou detido.
 
 § 2.º A intimação da ordem de detenção de um sargento a outro, seu inferior, é permitida sòmente em caso de usurpação de atribuições, de abuso de autoridade ou provocação à indisciplina da parte do infractor.
 
-###### Art. 42.º Em caso de flagrante delito ou de grave infracção de disciplina o superior é obrigado a intimar ordem de prisão ao delinquente, devendo, se assim o exigirem as condições de gravidade, ocasião ou local, mandá-lo deter em qualquer lugar apropriado ou entregá-lo a uma sentinela, e a empregar todos os meios que sejam absolutamente necessários para a manutenção da disciplina.
+Art. 42.º Em caso de flagrante delito ou de grave infracção de disciplina o superior é obrigado a intimar ordem de prisão ao delinquente, devendo, se assim o exigirem as condições de gravidade, ocasião ou local, mandá-lo deter em qualquer lugar apropriado ou entregá-lo a uma sentinela, e a empregar todos os meios que sejam absolutamente necessários para a manutenção da disciplina.
 
 § 1.º O militar que tiver recorrido a meios extraordinários para manter a disciplina participará logo, por escrito e pelas vias competentes, ao chefe da unidade, estabelecimento ou repartição em que servir, os factos praticados pelo infractor e os meios empregados para a sua repressão.
 
 § 2.º A participação a que o parágrafo antecedente se refere será enviada pela autoridade que a receber ao chefe do militar infractor quando este pertença a outra unidade, estabelecimento ou repartição.
 
-###### Art. 43.º Quando o militar a que diz respeito o disposto no artigo 38.º pertencer a outra corporação, a participação será sempre feita por escrito, a fim de ser enviada pelas vias competentes ao chefe da unidade, estabelecimento ou repartição a que pertencer o infractor.
+Art. 43.º Quando o militar a que diz respeito o disposto no artigo 38.º pertencer a outra corporação, a participação será sempre feita por escrito, a fim de ser enviada pelas vias competentes ao chefe da unidade, estabelecimento ou repartição a que pertencer o infractor.
 
-###### Art. 44.º O superior que recompensar ou punir um militar que pertencer a qualquer unidade ou estabelecimento militar, mas que esteja sob as suas ordens imediatas, dará logo conhecimento aos respectivos chefes das resoluções que tomar.
+Art. 44.º O superior que recompensar ou punir um militar que pertencer a qualquer unidade ou estabelecimento militar, mas que esteja sob as suas ordens imediatas, dará logo conhecimento aos respectivos chefes das resoluções que tomar.
 
-###### Art. 45.º O oficial que, em virtude de quaisquer circunstâncias, assumir o comando e exercer cargo pertencente a outro oficial de grau superior terá, enquanto durar aquela situação, a competência disciplinar correspondente àquele comando ou cargo.
+Art. 45.º O oficial que, em virtude de quaisquer circunstâncias, assumir o comando e exercer cargo pertencente a outro oficial de grau superior terá, enquanto durar aquela situação, a competência disciplinar correspondente àquele comando ou cargo.
 
-###### Art. 46.º O superior só poderá delegar em qualquer subordinado a recompensa de qualquer acto ou a imposição de uma pena quando sejam da competência deste último.
+Art. 46.º O superior só poderá delegar em qualquer subordinado a recompensa de qualquer acto ou a imposição de uma pena quando sejam da competência deste último.
 
-###### Art. 47.º O superior sempre que presenciar um acto digno de recompensa ou cometimento de uma falta recompensará ou aplicará o castigo merecido ao militar infractor, podendo, no entanto, delegar num subordinado a recompense ou punição.
+Art. 47.º O superior sempre que presenciar um acto digno de recompensa ou cometimento de uma falta recompensará ou aplicará o castigo merecido ao militar infractor, podendo, no entanto, delegar num subordinado a recompense ou punição.
 
-###### Art. 48.º Nenhum militar, qualquer que seja a sua graduação, poderá admoestar qualquer inferior na presença de um superior seu, sem ser por este devidamente autorizado.
+Art. 48.º Nenhum militar, qualquer que seja a sua graduação, poderá admoestar qualquer inferior na presença de um superior seu, sem ser por este devidamente autorizado.
 
-###### Art. 49.º O limite das competências disciplinares é o constante do quadro anexo a este regulamento.
+Art. 49.º O limite das competências disciplinares é o constante do quadro anexo a este regulamento.
 
 § único. O facto de ter sido atingido o limite da competência na aplicação de uma pena não impede que a entidade que puniu torne a aplicar ao mesmo indivíduo penas da mesma natureza por novas faltas.
 
-###### Art. 50.º Quando os oficiais das unidades usarem da própria competência disciplinar, participarão imediatamente, por escrito, ao comandante da respectiva unidade as penas que aplicaram.
+Art. 50.º Quando os oficiais das unidades usarem da própria competência disciplinar, participarão imediatamente, por escrito, ao comandante da respectiva unidade as penas que aplicaram.
 
-###### Art. 51.º Os capitães e subalternos quando comandarem quaisquer forças fora das unidades têm a respeito dos militares sob as suas ordens competência disciplinar respectivamente igual à de 2.º comandante do batalhão e de comandante de companhia.
+Art. 51.º Os capitães e subalternos quando comandarem quaisquer forças fora das unidades têm a respeito dos militares sob as suas ordens competência disciplinar respectivamente igual à de 2.º comandante do batalhão e de comandante de companhia.
 
-###### Art. 52.º As entidades constantes do quadro anexo a que se refere o artigo 49.º e os comandantes das unidades da Guarda Fiscal têm a faculdade de atenuar, agravar ou substituir as penas impostas por si ou pelos seus subordinados, contanto que não excedam o limite da sua competência.
+Art. 52.º As entidades constantes do quadro anexo a que se refere o artigo 49.º e os comandantes das unidades da Guarda Fiscal têm a faculdade de atenuar, agravar ou substituir as penas impostas por si ou pelos seus subordinados, contanto que não excedam o limite da sua competência.
 
 § único. A cessação de penas é da competência do comandante-geral e das entidades de hierarquia superior à deste, constantes do referido quadro anexo.
 
 ### CAPÍTULO VII — Regras que devem ser seguidas na aplicação das penas disciplinares e sua execução
 
-###### Art. 53.º Os superiores, quando tiverem de recorrer aos meios de repressão autorizados neste regulamento, para apreciar com inteira justiça as faltas cometidas, devem:
+Art. 53.º Os superiores, quando tiverem de recorrer aos meios de repressão autorizados neste regulamento, para apreciar com inteira justiça as faltas cometidas, devem:
 
 1.º Ouvir o infractor, de viva voz ou por escrito, ou mandá-lo ouvir por um oficial, acerca das faltas e dos motivos que as originaram, cumprindo a este oficial apresentar um relatório circunstanciado. O infractor só deixará de ser ouvido quando manifestamente se reconheça a impossibilidade de o fazer;
 
 2.º Verificar as alegações do infractor relativas às faltas cometidas e os motivos.
 
-###### Art. 54.º Na aplicação das penas os superiores devem ter em consideração a natureza das faltas, circunstâncias que as acompanharam, motivos que lhes deram origem, comportamento anterior do infractor, o seu tempo de serviço, grau de inteligência, carácter e conhecimento dos seus deveres e das regras da discipline.
+Art. 54.º Na aplicação das penas os superiores devem ter em consideração a natureza das faltas, circunstâncias que as acompanharam, motivos que lhes deram origem, comportamento anterior do infractor, o seu tempo de serviço, grau de inteligência, carácter e conhecimento dos seus deveres e das regras da discipline.
 
-###### Art. 55.º O participante de uma infracção disciplinar deve procurar esclarecer-se prèviamente acerca dos pormenores que caracterizaram essa infracção, ouvindo o infractor sempre que seja possível.
+Art. 55.º O participante de uma infracção disciplinar deve procurar esclarecer-se prèviamente acerca dos pormenores que caracterizaram essa infracção, ouvindo o infractor sempre que seja possível.
 
-###### Art. 56.º A parte dada por um oficial contra qualquer seu subordinado, relativa a infracções disciplinares, será atendida pelos chefes, independentemente de qualquer formalidade, sempre que não for exigido auto de averiguações, mas sem prejuízo da doutrina do artigo 53.º
+Art. 56.º A parte dada por um oficial contra qualquer seu subordinado, relativa a infracções disciplinares, será atendida pelos chefes, independentemente de qualquer formalidade, sempre que não for exigido auto de averiguações, mas sem prejuízo da doutrina do artigo 53.º
 
-###### Art. 57.º É proibida a aplicação de mais de uma pena disciplinar pela mesma infracção.
+Art. 57.º É proibida a aplicação de mais de uma pena disciplinar pela mesma infracção.
 
-###### Art. 58.º As infracções de discipline são sempre consideradas mais graves:
+Art. 58.º As infracções de discipline são sempre consideradas mais graves:
 
 1.º Em tempo de guerra;
 
@@ -512,7 +532,7 @@ b) Aos soldados que não tenham completado um ano de serviço fiscal.
 
 § 2.º Quando diversos militares cometerem juntamente a mesma falta, a maior responsabilidade pertence ao mais graduado, e, em igualdade de graduação, ao mais antigo.
 
-###### Art. 59.º São consideradas como circunstâncias atenuantes das infracções disciplinares:
+Art. 59.º São consideradas como circunstâncias atenuantes das infracções disciplinares:
 
 1.º A prestação de serviços relevantes à sociedade;
 
@@ -524,17 +544,17 @@ b) Aos soldados que não tenham completado um ano de serviço fiscal.
 
 5.º A confissão espontânea.
 
-###### Art. 60.º Em geral, aplicar-se-ão os castigos mais severos só depois de impostos os menos severos. Esta regra deve, porém, ser alterada no caso de infracção disciplinar grave, quer pela sua natureza, quer pelas circunstâncias de que for revestida.
+Art. 60.º Em geral, aplicar-se-ão os castigos mais severos só depois de impostos os menos severos. Esta regra deve, porém, ser alterada no caso de infracção disciplinar grave, quer pela sua natureza, quer pelas circunstâncias de que for revestida.
 
-###### Art. 61.º Quando um superior tiver conhecimento de que um militar em estado de embriaguez está praticando acções contrárias à ordem pública, à disciplina ou à dignidade militar, ordenará que ele seja recolhido em lugar apropriado, recorrendo exclusivamente, sempre que for possível, à acção de camaradas de igual graduação, para conseguir a detenção do ébrio.
+Art. 61.º Quando um superior tiver conhecimento de que um militar em estado de embriaguez está praticando acções contrárias à ordem pública, à disciplina ou à dignidade militar, ordenará que ele seja recolhido em lugar apropriado, recorrendo exclusivamente, sempre que for possível, à acção de camaradas de igual graduação, para conseguir a detenção do ébrio.
 
-###### Art. 62.º As penas disciplinares são cumpridas, sempre que seja possível, seguidamente à sua imposição.
+Art. 62.º As penas disciplinares são cumpridas, sempre que seja possível, seguidamente à sua imposição.
 
-###### Art. 63.º No apuramento do tempo da punição imposta, o mês constará de 30 dias e o dia de 24 horas, contados desde aquele em que a pena começar a ser cumprida.
+Art. 63.º No apuramento do tempo da punição imposta, o mês constará de 30 dias e o dia de 24 horas, contados desde aquele em que a pena começar a ser cumprida.
 
 ### CAPÍTULO VIII — Reclamações, recursos e queixas
 
-###### Art. 64.º O militar que considerar injusta a pena disciplinar que lhe tiver sido imposta poderá reclamar nos seguintes casos:
+Art. 64.º O militar que considerar injusta a pena disciplinar que lhe tiver sido imposta poderá reclamar nos seguintes casos:
 
 1.º Quando entenda não haver cometido a falta;
 
@@ -546,41 +566,41 @@ b) Aos soldados que não tenham completado um ano de serviço fiscal.
 
 § único. É proibido reclamar durante qualquer formatura ou na execução de qualquer serviço.
 
-###### Art. 65.º A reclamação deve ser singular, e apresentada em termos respeitosos, pelas vias competentes, ao superior que impôs a pena, dentro do prazo de cinco dias, contados daquele em que a punição foi oficialmente ao conhecimento do reclamante, através da ordem de serviço ou notificação.
+Art. 65.º A reclamação deve ser singular, e apresentada em termos respeitosos, pelas vias competentes, ao superior que impôs a pena, dentro do prazo de cinco dias, contados daquele em que a punição foi oficialmente ao conhecimento do reclamante, através da ordem de serviço ou notificação.
 
 § único. Se a reclamação tiver sido verbal, reclamante deverá reduzi-la a escrito, dentro do prazo indicado neste artigo.
 
-###### Art. 66.º O superior deverá atender as reclamações que lhe corem apresentadas, mandando, se julgar necessário, proceder a averiguações para o esclarecimento da reclamação ou do resultado das averiguações.
+Art. 66.º O superior deverá atender as reclamações que lhe corem apresentadas, mandando, se julgar necessário, proceder a averiguações para o esclarecimento da reclamação ou do resultado das averiguações.
 
-###### Art. 67.º Quando a reclamação não for julgada procedente, assiste ao reclamante o direito de recurso, por escrito, dentro do prazo de cinco dias, contados daquele em que tiver conhecimento desse facto.
+Art. 67.º Quando a reclamação não for julgada procedente, assiste ao reclamante o direito de recurso, por escrito, dentro do prazo de cinco dias, contados daquele em que tiver conhecimento desse facto.
 
-###### Art. 68.º O superior deverá enviar o recurso a que se refere o artigo antecedente ao seu chefe imediato, expondo os motivos que o levaram a não considerar injusta a punição, juntando ao processo todas as averiguações a que tiver mandado proceder.
+Art. 68.º O superior deverá enviar o recurso a que se refere o artigo antecedente ao seu chefe imediato, expondo os motivos que o levaram a não considerar injusta a punição, juntando ao processo todas as averiguações a que tiver mandado proceder.
 
-###### Art. 69.º O chefe que houver de tomar conhecimento do recurso, se julgar necessário proceder a novas averiguações, nomeará para esse fim um oficial de graduação ou antiguidade superior à do recorrido.
+Art. 69.º O chefe que houver de tomar conhecimento do recurso, se julgar necessário proceder a novas averiguações, nomeará para esse fim um oficial de graduação ou antiguidade superior à do recorrido.
 
 § único. O oficial incumbido das averiguações ouvirá, por escrito, o recorrente e o recorrido, procederá às indagações que julgar convenientes, concluindo sempre por apresentar em relatório a sua opinião acerca da matéria do recurso.
 
-###### Art. 70.º O superior a quem tiver sido dirigido o recurso, em face dos documentos a que se refere o artigo antecedente ou do relatório de que trata o § único do mesmo artigo, resolverá em última instância, anulando, alterando ou mantendo o castigo, segundo as circunstâncias apuradas.
+Art. 70.º O superior a quem tiver sido dirigido o recurso, em face dos documentos a que se refere o artigo antecedente ou do relatório de que trata o § único do mesmo artigo, resolverá em última instância, anulando, alterando ou mantendo o castigo, segundo as circunstâncias apuradas.
 
-###### Art. 71.º Se do relatório constar que a injustiça do castigo aplicado pelo superior, ou o facto de não ter sido julgada procedente a reclamação, proveio de informações menos exactas e pouco escrupulosas, a responsabilidade, para os efeitos de repressão disciplinar, pertence àquele que as deu.
+Art. 71.º Se do relatório constar que a injustiça do castigo aplicado pelo superior, ou o facto de não ter sido julgada procedente a reclamação, proveio de informações menos exactas e pouco escrupulosas, a responsabilidade, para os efeitos de repressão disciplinar, pertence àquele que as deu.
 
-###### Art. 72.º A todo o militar assiste o direito de queixa contra superior quando por este for praticado qualquer acto de que resulte para o infractor lesão de direitos prescritos nas leis e nos regulamentos.
+Art. 72.º A todo o militar assiste o direito de queixa contra superior quando por este for praticado qualquer acto de que resulte para o infractor lesão de direitos prescritos nas leis e nos regulamentos.
 
 § 1.º A queixa é independente de autorização, mas antecedida pela comunicação escrita do queixoso àquele de quem tenha de se queixar, e será singular, feita no prazo de 48 horas, por escrito, e dirigida pelas vias competentes ao comandante ou chefe imediatamente superior ao militar contra quem é apresentada a queixa.
 
 § 2.º Cabe recurso da decisão para a autoridade imediatamente superior àquela que primeiro resolveu, no prazo de cinco dias, sendo a este caso aplicável a doutrina do artigo 69.º
 
-###### Art. 73.º Das decisões disciplinares tomadas pelo Ministro das Finanças não há recurso.
+Art. 73.º Das decisões disciplinares tomadas pelo Ministro das Finanças não há recurso.
 
-###### Art. 74.º Quando manifestamente se reconheça que não houve fundamento para a reclamação, recurso ou queixa, ou se mostre que houve propósito deliberadamente malicioso da parte do reclamante ou do queixoso nas apresentação de qualquer destes meios, será o militar que a eles recorrer castigado disciplinarmente, devendo para esse fim tomar a iniciativa as autoridades a quem forem dirigidos esses recursos, reclamações ou queixas.
+Art. 74.º Quando manifestamente se reconheça que não houve fundamento para a reclamação, recurso ou queixa, ou se mostre que houve propósito deliberadamente malicioso da parte do reclamante ou do queixoso nas apresentação de qualquer destes meios, será o militar que a eles recorrer castigado disciplinarmente, devendo para esse fim tomar a iniciativa as autoridades a quem forem dirigidos esses recursos, reclamações ou queixas.
 
 ### CAPÍTULO IX — Publicação, averbamento e anulação de recompensas e penas
 
-###### Art. 75.º As recompensas e as penas disciplinares impostas por qualquer autoridade militar serão publicadas na ordem da unidade ou estabelecimento, com excepção das penas de repreensão, repreensão agravada e quartos de serviço.
+Art. 75.º As recompensas e as penas disciplinares impostas por qualquer autoridade militar serão publicadas na ordem da unidade ou estabelecimento, com excepção das penas de repreensão, repreensão agravada e quartos de serviço.
 
-###### Art. 76.º Os castigos disciplinares impostos pelos comandantes de forças fora das unidades, destacamentos ou diligências as praças sob o seu comando serão comunicados imediata e directamente, para os devidos efeitos, aos comandantes das respectivas unidades.
+Art. 76.º Os castigos disciplinares impostos pelos comandantes de forças fora das unidades, destacamentos ou diligências as praças sob o seu comando serão comunicados imediata e directamente, para os devidos efeitos, aos comandantes das respectivas unidades.
 
-###### Art. 77.º Serão averbadas nos respectivos registos:
+Art. 77.º Serão averbadas nos respectivos registos:
 
 a) Todas as recompensas em que os interessados sejam nominalmente designados;
 
@@ -590,29 +610,29 @@ c) As penas disciplinares impostas pelos superiores ainda que abrangidas pelo §
 
 § único. Serão transcritas nos registos disciplinares as recompensas e punições nos precisos termos em que forem publicadas.
 
-###### Art. 78.º Ainda que a um militar seja mandado suspender ou cessar o cumprimento de parte de qualquer pena, a nota será averbada como se a pena fosse inteiramente cumprida.
+Art. 78.º Ainda que a um militar seja mandado suspender ou cessar o cumprimento de parte de qualquer pena, a nota será averbada como se a pena fosse inteiramente cumprida.
 
-###### Art. 79.º Todas as penas disciplinares inferiores a prisão disciplinar agravada, averbadas nos respectivos registos, ficarão anuladas para todos os efeitos quando o militar a quem tenham sido aplicadas for agraciado com a Torre e Espada, medalha de valor militar ou cruz de guerra por actos praticados posteriormente à imposição das mencionadas penas.
+Art. 79.º Todas as penas disciplinares inferiores a prisão disciplinar agravada, averbadas nos respectivos registos, ficarão anuladas para todos os efeitos quando o militar a quem tenham sido aplicadas for agraciado com a Torre e Espada, medalha de valor militar ou cruz de guerra por actos praticados posteriormente à imposição das mencionadas penas.
 
-###### Art. 80.º Serão anuladas todas as penas não superiores a prisão disciplinar cinco anos depois de terem sido aplicadas quando o militar, durante esse lapso de tempo, não tiver sido punido disciplinarmente nem condenado por qualquer crime. A pena de repreensão será anulada um ano depois de haver sido imposta quando se derem as mesmas circunstâncias.
+Art. 80.º Serão anuladas todas as penas não superiores a prisão disciplinar cinco anos depois de terem sido aplicadas quando o militar, durante esse lapso de tempo, não tiver sido punido disciplinarmente nem condenado por qualquer crime. A pena de repreensão será anulada um ano depois de haver sido imposta quando se derem as mesmas circunstâncias.
 
-###### Art. 81.º Serão anuladas as penas de prisão disciplinar agravada dez anos depois de terem sido aplicadas, se durante esse lapso de tempo o militar não tiver sido punido disciplinarmente nem condenado por qualquer crime.
+Art. 81.º Serão anuladas as penas de prisão disciplinar agravada dez anos depois de terem sido aplicadas, se durante esse lapso de tempo o militar não tiver sido punido disciplinarmente nem condenado por qualquer crime.
 
-###### Art. 82.º Salvo os casos previstos nos artigos 79.º, 80.º e 81.º, as notas das penas averbadas nos registos disciplinares só poderão ser anuladas:
+Art. 82.º Salvo os casos previstos nos artigos 79.º, 80.º e 81.º, as notas das penas averbadas nos registos disciplinares só poderão ser anuladas:
 
 1.º Por efeito de amnistia;
 
 2.º Por efeito de reclamação ou recurso atendido.
 
-###### Art. 83.º Em qualquer dos casos compreendidos nos artigos 79.º, 80.º, 81.º e 82.º, averbar-se-á no registo correspondente uma contranota anulando o castigo e indicando o motivo do anulação. Por forma análoga se procedera quando, em virtude de recurso ou reclamação, a pena for alterada.
+Art. 83.º Em qualquer dos casos compreendidos nos artigos 79.º, 80.º, 81.º e 82.º, averbar-se-á no registo correspondente uma contranota anulando o castigo e indicando o motivo do anulação. Por forma análoga se procedera quando, em virtude de recurso ou reclamação, a pena for alterada.
 
 § único. Nas notas extraídas dos registos não se fará, menção dos castigos anulados nem da contranota que os anulou.
 
-###### Art. 84.º O indulto não anula as notas das penas.
+Art. 84.º O indulto não anula as notas das penas.
 
 ### CAPÍTULO X — Classes de comportamento
 
-###### Art. 85.º Os sargentos e praças da Guarda Fiscal serão, segundo o seu comportamento, agrupados em quatro classes, a que correspondem:
+Art. 85.º Os sargentos e praças da Guarda Fiscal serão, segundo o seu comportamento, agrupados em quatro classes, a que correspondem:
 
 1.ª classe - exemplar;
 
@@ -622,39 +642,39 @@ c) As penas disciplinares impostas pelos superiores ainda que abrangidas pelo §
 
 4.ª classe - mau.
 
-###### Art. 86.º São colocados na 1.ª classe de comportamento os sargentos e praças que, desde o seu alistamento na Guarda Fiscal e num período mínimo de três anos de serviço efectivo, não tenham sofrido qualquer punição averbada e dos quais nada conste no seu registo criminal.
+Art. 86.º São colocados na 1.ª classe de comportamento os sargentos e praças que, desde o seu alistamento na Guarda Fiscal e num período mínimo de três anos de serviço efectivo, não tenham sofrido qualquer punição averbada e dos quais nada conste no seu registo criminal.
 
 § único. Os militares a quem se refere este artigo não podem regressar em caso algum a esta classe, desde que sofram qualquer punição que deva ser averbada, e não seja abrangida por amnistia.
 
-###### Art. 87.º É colocada na 2.ª classe de comportamento a praga em seguida ao alistamento na Guarda Fiscal e a readmitida, quando nesta classe estivesse ao findar o seu alistamento anterior, e o sargento ou praça da 1.ª classe logo que lhe seja imposta qualquer pena averbada, inferior a dez dial de detenção.
+Art. 87.º É colocada na 2.ª classe de comportamento a praga em seguida ao alistamento na Guarda Fiscal e a readmitida, quando nesta classe estivesse ao findar o seu alistamento anterior, e o sargento ou praça da 1.ª classe logo que lhe seja imposta qualquer pena averbada, inferior a dez dial de detenção.
 
-###### Art. 88.º É colocado na 3.ª classe de comportamento o sargento ou praga da 2.ª classe a quem desde a sua última classificação até à classificação imediata, nos termos do artigo 97.º, forem impostas punições cujo somatório seja equivalente ou superior a dez dias de detenção, e bem assim o readmitido quando nesta classe estivesse ao findar o seu alistamento anterior.
+Art. 88.º É colocado na 3.ª classe de comportamento o sargento ou praga da 2.ª classe a quem desde a sua última classificação até à classificação imediata, nos termos do artigo 97.º, forem impostas punições cujo somatório seja equivalente ou superior a dez dias de detenção, e bem assim o readmitido quando nesta classe estivesse ao findar o seu alistamento anterior.
 
-###### Art. 89.º É colocado na 4.ª classe de comportamento o sargento ou praga da 3.ª classe a quem, desde a sua última classificação até à classificação imediata, nos termos do artigo 97.º, forem impostas punições cujo somatório seja equivalente ou superior a vinte dias de detenção.
+Art. 89.º É colocado na 4.ª classe de comportamento o sargento ou praga da 3.ª classe a quem, desde a sua última classificação até à classificação imediata, nos termos do artigo 97.º, forem impostas punições cujo somatório seja equivalente ou superior a vinte dias de detenção.
 
-###### Art. 90.º Os sargentos e praças da 1.ª classe baixam imediatamente à 3.ª classe quando lhes for imposta qualquer pena que por si ou sua equivalência seja igual ou superior a dez dias de detenção, mas inferior a trinta dias da mesma pena, e à 4.ª classe quando lhes for imposta qualquer pena que, por si ou sua equivalência, seja igual ou superior a trinta dias de detenção.
+Art. 90.º Os sargentos e praças da 1.ª classe baixam imediatamente à 3.ª classe quando lhes for imposta qualquer pena que por si ou sua equivalência seja igual ou superior a dez dias de detenção, mas inferior a trinta dias da mesma pena, e à 4.ª classe quando lhes for imposta qualquer pena que, por si ou sua equivalência, seja igual ou superior a trinta dias de detenção.
 
-###### Art. 91.º Baixa imediatamente à 3.ª classe de comportamento o sargento ou praça da 2.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a dez dias de detenção, mas inferior a trinta dias da mesma pena.
+Art. 91.º Baixa imediatamente à 3.ª classe de comportamento o sargento ou praça da 2.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a dez dias de detenção, mas inferior a trinta dias da mesma pena.
 
-###### Art. 92.º Baixa imediatamente à 4.ª classe de comportamento o sargento ou praça da 3.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a vinte dias de detenção, e o da 2.a classe quando lhe seja imposta uma punição cuja equivalência seja igual ou superior a trinta dias de detenção.
+Art. 92.º Baixa imediatamente à 4.ª classe de comportamento o sargento ou praça da 3.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a vinte dias de detenção, e o da 2.a classe quando lhe seja imposta uma punição cuja equivalência seja igual ou superior a trinta dias de detenção.
 
-###### Art. 93.º O sargento ou praça que for classificado na 3.ª classe de comportamento ascende à 2.ª classe quando nos seis meses decorridos depois da última classificação, nos termos do artigo 97.º, não lhe tenha sido imposta pena alguma.
+Art. 93.º O sargento ou praça que for classificado na 3.ª classe de comportamento ascende à 2.ª classe quando nos seis meses decorridos depois da última classificação, nos termos do artigo 97.º, não lhe tenha sido imposta pena alguma.
 
 § único. É exceptuado desta disposição e ascenderá à 2.ª classe de comportamento, antes de decorrido aquele período, o sargento ou praça que prestar algum serviço extraordinário pelo qual tenha sido louvado individualmente em ordem do Comando-Geral ou de batalhão.
 
-###### Art. 94.º Os sargentos e pragas que, nos termos do artigo 89.º, forem classificados na 4.ª classe de comportamento, ascendem à 3.ª classe quando, decorridos seis meses depois da última classificação, nos termos do artigo 97.º, não lhes tenham sido impostas quaisquer punições.
+Art. 94.º Os sargentos e pragas que, nos termos do artigo 89.º, forem classificados na 4.ª classe de comportamento, ascendem à 3.ª classe quando, decorridos seis meses depois da última classificação, nos termos do artigo 97.º, não lhes tenham sido impostas quaisquer punições.
 
-###### Art. 95.º Os sargentos e praças que, nos termos dos artigos 90.º, 91.º e 92.º, baixarem de classe, ascendem à classe imediatamente superior logo que decorram seis meses a contar da data em que baixarem de classe, quando satisfaçam às condições dos dois artigos anteriores, não podendo ascender novamente de classe senão na segunda classificação feita nos termos do artigo 97.º
+Art. 95.º Os sargentos e praças que, nos termos dos artigos 90.º, 91.º e 92.º, baixarem de classe, ascendem à classe imediatamente superior logo que decorram seis meses a contar da data em que baixarem de classe, quando satisfaçam às condições dos dois artigos anteriores, não podendo ascender novamente de classe senão na segunda classificação feita nos termos do artigo 97.º
 
-###### Art. 96.º Os sargentos e praças da 1.ª e 2.ª classes de comportamento são preferidos para serviços especiais e de confiança.
+Art. 96.º Os sargentos e praças da 1.ª e 2.ª classes de comportamento são preferidos para serviços especiais e de confiança.
 
-###### Art. 97.º Os comandantes de companhia devem organizar, nos primeiros oito dias úteis de Janeiro e de Julho, referidos, respectivamente, a 31 de Dezembro e 30 de Junho, mapas demonstrativos da classificação de comportamento dos sargentos e praças das suas companhias, de harmonia com o estabelecido neste capítulo.
+Art. 97.º Os comandantes de companhia devem organizar, nos primeiros oito dias úteis de Janeiro e de Julho, referidos, respectivamente, a 31 de Dezembro e 30 de Junho, mapas demonstrativos da classificação de comportamento dos sargentos e praças das suas companhias, de harmonia com o estabelecido neste capítulo.
 
 § único. Os mapas, tantos quantas as secções, depois de verificados pelo comandante do batalhão ou companhia independente, serão enviados a todos os postos, para que o pessoal tome deles conhecimento por escrito e, se for caso disso, faça as suas reclamações perante o respectivo comandante, que resolverá o que for de justiça. A classificação definitiva será publicada na ordem do batalhão ou companhia independente nos dias 31 de Janeiro e Julho de cada ano. Os sargentos constarão de mapas separados.
 
-###### Art. 98.º A nota da classe de comportamento em que o sargento ou praça estiver à data da classificação só será lançada na respectiva folha de matrícula quando haja alteração na classificação anterior.
+Art. 98.º A nota da classe de comportamento em que o sargento ou praça estiver à data da classificação só será lançada na respectiva folha de matrícula quando haja alteração na classificação anterior.
 
-###### Art. 99.º Para a classificação do comportamento e outros efeitos deste regulamento, quando for necessário comparar penas de diferente natureza, deve entender-se que são punições equivalentes:
+Art. 99.º Para a classificação do comportamento e outros efeitos deste regulamento, quando for necessário comparar penas de diferente natureza, deve entender-se que são punições equivalentes:
 
 Um dia de prisão disciplinar agravada;
 
@@ -664,25 +684,25 @@ Quatro dias de detenção.
 
 ### CAPÍTULO XI — Disposições diversas
 
-###### Art. 100.º Os oficiais que prestam serviço na Guarda Fiscal e os do extinto quadro especial da mesma Guarda ficam sujeitos à jurisdição do Conselho Superior de Disciplina do Exército nas condições estabelecidas no Regulamento de Disciplina Militar em vigor no Exército e demais legislação aplicável.
+Art. 100.º Os oficiais que prestam serviço na Guarda Fiscal e os do extinto quadro especial da mesma Guarda ficam sujeitos à jurisdição do Conselho Superior de Disciplina do Exército nas condições estabelecidas no Regulamento de Disciplina Militar em vigor no Exército e demais legislação aplicável.
 
-###### Art. 101.º O procedimento disciplinar prescreve passados doze meses, a contar da data da infracção, se entretanto não tiverem sido realizadas diligências para averiguar do seu cometimento, excepto no caso previsto no artigo 57.º do [Decreto n.º 19892](https://diariodarepublica.pt/dr/detalhe/decreto/19892-1931-525025), de 15 de Junho d 1931, na redacção do artigo 1.º do [Decreto-Lei n.º 32982](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32982-1943-399838), de 21 de Agosto de 1943, ou no de julgamento em Conselho Superior de Disciplina.
+Art. 101.º O procedimento disciplinar prescreve passados doze meses, a contar da data da infracção, se entretanto não tiverem sido realizadas diligências para averiguar do seu cometimento, excepto no caso previsto no artigo 57.º do [Decreto n.º 19892](https://diariodarepublica.pt/dr/detalhe/decreto/19892-1931-525025), de 15 de Junho d 1931, na redacção do artigo 1.º do [Decreto-Lei n.º 32982](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32982-1943-399838), de 21 de Agosto de 1943, ou no de julgamento em Conselho Superior de Disciplina.
 
-###### Art. 102.º Quando o chefe julgar necessário procede a alguma averiguação, poderá incumbi-la a um oficial, o qual deverá apresentar relatório circunstanciado acerca dos factos sobre que tiver sido mandado averiguar.
+Art. 102.º Quando o chefe julgar necessário procede a alguma averiguação, poderá incumbi-la a um oficial, o qual deverá apresentar relatório circunstanciado acerca dos factos sobre que tiver sido mandado averiguar.
 
 § único. Se a averiguação se referir a actos de algum oficial, será sempre incumbida a um oficial mais graduado ou antigo do que aquele.
 
-###### Art. 103.º Ao militar que se constituir em ausência ilegítima por um ou mais dias, contados por períodos de 24 horas, desde o primeiro serviço a que faltar, mas não completar o período necessário para ser considerado desertor, além da pena disciplinar que lhe for imposta, será descontado no tempo de serviço efectivo aquele em que estiver ausente.
+Art. 103.º Ao militar que se constituir em ausência ilegítima por um ou mais dias, contados por períodos de 24 horas, desde o primeiro serviço a que faltar, mas não completar o período necessário para ser considerado desertor, além da pena disciplinar que lhe for imposta, será descontado no tempo de serviço efectivo aquele em que estiver ausente.
 
-###### Art. 104.º Nenhum sargento ou praça terá baixa do serviço quando tenha pendente algum processo criminal ou disciplinar ou não tenha ainda cumprido qualquer pena disciplinar que anteriormente lhe tenha sido imposta, e sofrido os respectivos efeitos.
+Art. 104.º Nenhum sargento ou praça terá baixa do serviço quando tenha pendente algum processo criminal ou disciplinar ou não tenha ainda cumprido qualquer pena disciplinar que anteriormente lhe tenha sido imposta, e sofrido os respectivos efeitos.
 
-###### Art. 105.º Os casos omissos serão regulados pelas disposições que estiverem em vigor no Exército.
+Art. 105.º Os casos omissos serão regulados pelas disposições que estiverem em vigor no Exército.
 
 Ministérios das Finanças e do Exército, 23 de Abril de 1966. - O Ministro das Finanças, Ulisses Cruz de Aguiar Cortês. - O Ministro do Exército, Joaquim da Luz Cunha.
 
 Quadro a que se refere o artigo 49.º do Regulamento Disciplinar da Guarda Fiscal
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/04/09600/05880597.pdf))](https://files.diariodarepublica.pt/1s/1966/04/09600/05880597.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/04/09600/05880597.pdf)
 
 Recompensas
 

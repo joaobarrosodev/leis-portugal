@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46646-1965-512431
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1986-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cddd310c11190d53c024f3174aa275af8e086a773283accff072b006424107a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d72815add0da7f03b5568f973e61e0854b5b1d0c49a400431c8c15f990fa9fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:39Z'
   warnings: []
   errors: []
 ---
@@ -101,10 +101,10 @@ Considerando que esta providência se adopta desde já pela sua urgência, sem p
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. - 1. Os alunos dos cursos superiores podem inscrever-se em disciplinas de determinado ano desde que não lhes falte aprovação em mais de duas do ano anterior.
+Artigo único. - 1. Os alunos dos cursos superiores podem inscrever-se em disciplinas de determinado ano desde que não lhes falte aprovação em mais de duas do ano anterior.
 
 2. O disposto no n.º 1 deve entender-se sem prejuízo da observância das tabelas de precedências em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

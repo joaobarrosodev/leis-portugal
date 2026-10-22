@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47721-1967-312872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-12-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c973ea2144eaeb436de40c2fcd16814ab22bcc96d6f39982b5009eef61e94d06
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 316e1313fae1124b0fa927c83abe23a71d77590a135a49f6a7e14157be10bf69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:217358:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:52Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +99,9 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Ponta Delgada a celebrar contrato com a firma Construções Metalomecânicas Mague, S. A. R. L., para a execução do fornecimento de um derrick àquela Junta Autónoma, pela importância de 2142500$00.
+Artigo 1.º É autorizada a Junta Autónoma dos Portos do Distrito de Ponta Delgada a celebrar contrato com a firma Construções Metalomecânicas Mague, S. A. R. L., para a execução do fornecimento de um derrick àquela Junta Autónoma, pela importância de 2142500$00.
 
-###### Art. 2.º A Junta Autónoma dos Portos do Distrito de Ponta Delgada não poderá despender com pagamentos relativos a este fornecimento, por virtude do contrato, mais de:
+Art. 2.º A Junta Autónoma dos Portos do Distrito de Ponta Delgada não poderá despender com pagamentos relativos a este fornecimento, por virtude do contrato, mais de:
 
 Em 1967 ... 1285500$00
 
@@ -105,6 +109,6 @@ Em 1968 ... 857000$00
 
 § único. À importância fixada para 1968 acrescerá o saldo que porventura se apurar no ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

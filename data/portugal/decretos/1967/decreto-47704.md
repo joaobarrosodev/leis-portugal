@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47704-1967-313049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ba2f7d9b462d0fc8dd2025f2b91c5933b5d13629ef73bb09ec09de7001eb1b5a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f86aad463e46e3c6b1e8b5c6c5b9d8deb1b3ba0914ef4178e71b02bce8875bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:41Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +96,9 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Das decisões dos tribunais administrativos das províncias ultramarinas em matéria de impostos de defesa e rendimento haverá recurso, em última instância, para a 1.ª subsecção do contencioso do Conselho Ultramarino, nos termos gerais do contencioso fiscal.
+Artigo único. Das decisões dos tribunais administrativos das províncias ultramarinas em matéria de impostos de defesa e rendimento haverá recurso, em última instância, para a 1.ª subsecção do contencioso do Conselho Ultramarino, nos termos gerais do contencioso fiscal.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Maio de 1967 - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

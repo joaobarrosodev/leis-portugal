@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46832-1966-233319
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af7a5df302b941e36b163a2105d39866f52389200531a78ac90d6ffdebf2fd71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a41515642c5e1998a68b24815ff28c41b2b362ae2a3e05e95e9b8404b9990f7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:510613:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:36Z'
   warnings: []
   errors: []
 ---
@@ -85,10 +89,10 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os lugares de professor catedrático e de professor extraordinário das Faculdades de Ciências, a que se refere o artigo único do [Decreto-Lei n.º 46580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46580-1965-510613), de 4 de Outubro de 1965, distribuem-se da forma seguinte pelos diversos grupos de disciplinas:
+Artigo único. Os lugares de professor catedrático e de professor extraordinário das Faculdades de Ciências, a que se refere o artigo único do [Decreto-Lei n.º 46580](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46580-1965-510613), de 4 de Outubro de 1965, distribuem-se da forma seguinte pelos diversos grupos de disciplinas:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/01/00400/00190019.pdf))](https://files.diariodarepublica.pt/1s/1966/01/00400/00190019.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/01/00400/00190019.pdf)
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

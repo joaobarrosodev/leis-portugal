@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/01/01100/00730074.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,58 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47495-1967-501424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1979-08-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6ae19d1e3f401b789a4cc78be20d36bce206927a1be849e9cf82326af64a653b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d604cf043cbaa1d422778a0b9a2239c0846c502714eb34305b0cea39bf56fed4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Fiscalização
+- Instalação Militar
+- Quartel
+- Serviço de Fortificações e Obras Militares
+- Servidão Militar
 relationships:
 - type: amended_by
   target: pt:dre:381342:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:381342:por
+  label: "Revogado pelo DEC.75/79.01.08.1979.MDN, DR.IS [176] de 01.08.1979\09\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/75-1979-381342
+  date: '1979-08-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:03Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +113,9 @@ Considerando o disposto nos artigos 1.º, 6.º, b), 12.º e 13.º da [Lei n.º 2
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com o Quartel do Colégio e limitados: a norte e a noroeste pela Rua dos Netos, a nordeste pela linha AB paralela à Rua dos Ferreiros e distante 10 m desta rua, a este pela Praça do Município e a sul e a sudoeste pela linha CD paralela à Rua do Castanheiro e distante dela 24 m.
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com o Quartel do Colégio e limitados: a norte e a noroeste pela Rua dos Netos, a nordeste pela linha AB paralela à Rua dos Ferreiros e distante 10 m desta rua, a este pela Praça do Município e a sul e a sudoeste pela linha CD paralela à Rua do Castanheiro e distante dela 24 m.
 
-###### Art. 2.º Na área definida no artigo anterior são proibidos, sem licença da autoridade militar competente, e nos termos dos artigos 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, os trabalhos e actividades seguintes:
+Art. 2.º Na área definida no artigo anterior são proibidos, sem licença da autoridade militar competente, e nos termos dos artigos 12.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, os trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -105,15 +123,15 @@ b) Alterações de qualquer forma, por meio de escavações ou aterros, do relev
 
 c) Estabelecimento de depósitos permanentes ou temporários de materiais explosivos ou inflamáveis.
 
-###### Art. 3.º Ao Comando Territorial Independente da Madeira compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao Comando Territorial Independente da Madeira compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do aquartelamento, ao Comando Territorial Independente da Madeira e à Direcção do Serviço de Fortificações e Obras Militares.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do aquartelamento, ao Comando Territorial Independente da Madeira e à Direcção do Serviço de Fortificações e Obras Militares.
 
-###### Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da Delegação do Serviço de Fortificações e Obras Militares no Comando Territorial Independente da Madeira.
+Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da Delegação do Serviço de Fortificações e Obras Militares no Comando Territorial Independente da Madeira.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º, cabe recurso para o Ministério do Exército; das decisões tomadas nos termos do artigo anterior, cabe recurso para o Comando Territorial Independente da Madeira.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º, cabe recurso para o Ministério do Exército; das decisões tomadas nos termos do artigo anterior, cabe recurso para o Comando Territorial Independente da Madeira.
 
-###### Art. 7.º A área descrita no artigo 1.º será demarcada na planta topográfica do Quartel, na escala de 1/1000, organizando-se nove colecções com a classificação de reservado, que terão os seguintes destinos:
+Art. 7.º A área descrita no artigo 1.º será demarcada na planta topográfica do Quartel, na escala de 1/1000, organizando-se nove colecções com a classificação de reservado, que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -131,6 +149,6 @@ Uma ao Ministério das Obras Públicas;
 
 Duas ao Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - Eduardo de Arantes e Oliveira.

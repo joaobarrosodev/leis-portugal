@@ -46,36 +46,48 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46355-1965-295403
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d26ec0f69509e00696fc0158fdef328e660805c3c0535b5eb18fba98eed855e4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ab8703cc0feaa6732745e25f3012a52eca3b91549eb73861eea876790c55be2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Centro Nacional de Formação Turística e Hoteleira
+- Definição de Competências
+- Informação Turística
+- Ministério da Educação Nacional
+- Ministério das Corporações e Previdência Social
+- Presidência do Conselho
+- Regulamento
+- Turismo
+relationships:
+- type: cites
+  target: pt:dre:295402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:15Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 #### SECÇÃO I — Atribuições
 
-###### Artigo 1.º Na realização das atribuições que lhe são conferidas no artigo 2.º do [Decreto-Lei n.º 46354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402), compete ao Centro Nacional de Formação Turística e Hoteleira, dentro das suas possibilidades financeiras e nos termos que vierem a ser estabelecidos por portaria da Presidência do Conselho ou da Presidência do Conselho e dos Ministérios da Educação Nacional ou das Corporações e Previdência Social:
+Artigo 1.º Na realização das atribuições que lhe são conferidas no artigo 2.º do [Decreto-Lei n.º 46354](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46354-1965-295402), compete ao Centro Nacional de Formação Turística e Hoteleira, dentro das suas possibilidades financeiras e nos termos que vierem a ser estabelecidos por portaria da Presidência do Conselho ou da Presidência do Conselho e dos Ministérios da Educação Nacional ou das Corporações e Previdência Social:
 
 a) Promover a criação de escolas, hotéis-escolas, cursos e centros de aprendizagem ou aperfeiçoamento necessários à preparação dos profissionais exigidos pelas actividades turísticas ou hoteleiras e orientar a realização de estágios complementares;
 
@@ -98,7 +110,7 @@ b) Comparticipar, quando as circunstâncias o exigirem e pela forma julgada mais
 
 Conselho geral
 
-###### Art. 2.º O conselho geral é constituído por:
+Art. 2.º O conselho geral é constituído por:
 
 Um representante da Presidência do Conselho, que presidirá;
 
@@ -114,13 +126,13 @@ Um representante do Fundo de Desenvolvimento da Mão-de-Obra;
 
 Quatro representantes do conselho da secção de turismo e indústria hoteleira da Corporação dos Transportes e Turismo, sendo dois dos organismos patronais e dois dos organismos sindicais.
 
-###### Art. 3.º O conselho geral reúne ordinàriamente para apreciação e votação do plano anual de actividade, dos orçamentos e do relatório e contas de gerência e extraordinàriamente a pedido da maioria dos seus membros ou da direcção ou por iniciativa do presidente.
+Art. 3.º O conselho geral reúne ordinàriamente para apreciação e votação do plano anual de actividade, dos orçamentos e do relatório e contas de gerência e extraordinàriamente a pedido da maioria dos seus membros ou da direcção ou por iniciativa do presidente.
 
 § único. A apreciarão e votação do relatório e contas de gerência deverão realizar-se na 1.ª quinzena de Março, e a do plano anual de actividade e do orçamento ordinário, na 2.ª quinzena de Novembro.
 
-###### Art. 4.º As deliberações do conselho geral serão tomadas por maioria de votos dos presentes, tendo o presidente voto de qualidade, em caso de empate.
+Art. 4.º As deliberações do conselho geral serão tomadas por maioria de votos dos presentes, tendo o presidente voto de qualidade, em caso de empate.
 
-###### Art. 5.º Compete especialmente ao conselho geral:
+Art. 5.º Compete especialmente ao conselho geral:
 
 a) Apreciar e votar o orçamento, as contas de gerência, o plano anual de actividade e a aplicação dos saldos de exercício;
 
@@ -136,7 +148,7 @@ f) Aprovar os estatutos e regulamentos elaborados por ele próprio ou pela direc
 
 g) Decidir os recursos para ele interpostos das deliberações da direcção.
 
-###### Art. 6.º Compete ao presidente:
+Art. 6.º Compete ao presidente:
 
 a) Convocar o conselho geral e dirigir os seus trabalhos;
 
@@ -144,19 +156,19 @@ b) Empossar os vogais da direcção e o conselho pedagógico;
 
 c) Velar pelo cumprimento das deliberações do conselho geral.
 
-###### Art. 7.º As deliberações do conselho geral são susceptíveis de recurso hierárquico para a Presidência do Conselho.
+Art. 7.º As deliberações do conselho geral são susceptíveis de recurso hierárquico para a Presidência do Conselho.
 
 Direcção
 
-###### Art. 8.º A direcção é composta por um presidente, que será o presidente do conselho geral, e por dois vogais, que exercerão as funções de secretário e de tesoureiro, designados pelo conselho geral de entre os seus membros representantes da Corporação dos Transportes e Turismo, devendo um representar os organismos patronais e outro os organismos sindicais.
+Art. 8.º A direcção é composta por um presidente, que será o presidente do conselho geral, e por dois vogais, que exercerão as funções de secretário e de tesoureiro, designados pelo conselho geral de entre os seus membros representantes da Corporação dos Transportes e Turismo, devendo um representar os organismos patronais e outro os organismos sindicais.
 
-###### Art. 9.º As nomeações dos vogais são feitas por três anos e renováveis por iguais períodos, mas o conselho geral pode livremente substituí-los, em qualquer altura.
+Art. 9.º As nomeações dos vogais são feitas por três anos e renováveis por iguais períodos, mas o conselho geral pode livremente substituí-los, em qualquer altura.
 
 § único. As nomeações para preenchimento das vacaturas que ocorrerem no decurso de um triénio entendem-se feitas até ao termo deste.
 
-###### Art. 10.º Nas faltas ou impedimentos do presidente, exercerá as suas funções um vogal do conselho geral designado pela Presidência do Conselho.
+Art. 10.º Nas faltas ou impedimentos do presidente, exercerá as suas funções um vogal do conselho geral designado pela Presidência do Conselho.
 
-###### Art. 11.º A direcção tem a seu cargo a orientação das actividades do Centro Nacional de Formação Turística e Hoteleira, competindo-lhe especialmente:
+Art. 11.º A direcção tem a seu cargo a orientação das actividades do Centro Nacional de Formação Turística e Hoteleira, competindo-lhe especialmente:
 
 a) Elaborar os planos de acção, orçamentos, relatórios e contas;
 
@@ -174,7 +186,7 @@ g) Cumprir e fazer cumprir as resoluções do conselho geral;
 
 h) Representar o Centro Nacional de Formação Turística e Hoteleira.
 
-###### Art. 12.º Compete em especial ao presidente da direcção:
+Art. 12.º Compete em especial ao presidente da direcção:
 
 a) Convocar as reuniões desta e orientar os seus trabalhos;
 
@@ -186,11 +198,11 @@ d) Superintender em todos os serviços do Centro Nacional de Formação Turísti
 
 § único. A direcção reunirá, pelo menos, duas vezes por mês.
 
-###### Art. 13.º Para obrigar o Centro em tudo que não dependa de resolução do conselho geral é bastante a assinatura do presidente e de um dos vogais da direcção.
+Art. 13.º Para obrigar o Centro em tudo que não dependa de resolução do conselho geral é bastante a assinatura do presidente e de um dos vogais da direcção.
 
 Conselho pedagógico
 
-###### Art. 14.º O conselho pedagógico é constituído:
+Art. 14.º O conselho pedagógico é constituído:
 
 a) Por um representante da Direcção-Geral do Ensino Técnico Profissional, especialmente designado, que presidirá;
 
@@ -200,28 +212,28 @@ c) Pelo director de uma das escolas de formação hoteleira mantidas pelo Centro
 
 d) Por um representante das escolas particulares que preparem especialmente para o exercício das profissões turísticas, também designado pelo conselho geral.
 
-###### Art. 15.º O conselho pedagógico é um órgão técnico e consultivo, competindo-lhe assistir à direcção e ao seu presidente no desempenho das atribuições relacionadas com assuntos de natureza didáctica.
+Art. 15.º O conselho pedagógico é um órgão técnico e consultivo, competindo-lhe assistir à direcção e ao seu presidente no desempenho das atribuições relacionadas com assuntos de natureza didáctica.
 
 #### SECÇÃO III — Serviços
 
-###### Art. 16.º A execução das actividades do Centro Nacional de Formação Turística e Hoteleira será assegurada por uma secretaria, que compreenderá os serviços necessários, chefiada por um diplomado com curso superior adequado.
+Art. 16.º A execução das actividades do Centro Nacional de Formação Turística e Hoteleira será assegurada por uma secretaria, que compreenderá os serviços necessários, chefiada por um diplomado com curso superior adequado.
 
-###### Art. 17.º A estrutura dos serviços, a constituição do quadro de pessoal, as condições de provimento dos lugares e suas remunerações serão fixadas pelo conselho geral, mas carecem de homologação da Presidência do Conselho ou desta e dos Ministros da Educação Nacional e das Corporações e Previdência Social, conforme os casos.
+Art. 17.º A estrutura dos serviços, a constituição do quadro de pessoal, as condições de provimento dos lugares e suas remunerações serão fixadas pelo conselho geral, mas carecem de homologação da Presidência do Conselho ou desta e dos Ministros da Educação Nacional e das Corporações e Previdência Social, conforme os casos.
 
 #### SECÇÃO IV — Receitas e despesas
 
-###### Art. 18.º Na Caixa Geral de Depósitos, Crédito e Previdência será aberta uma conta à ordem da direcção do Centro Nacional, sendo nela depositadas as receitas e por ela satisfeitas as despesas.
+Art. 18.º Na Caixa Geral de Depósitos, Crédito e Previdência será aberta uma conta à ordem da direcção do Centro Nacional, sendo nela depositadas as receitas e por ela satisfeitas as despesas.
 
-###### Art. 19.º As despesas só poderão ser satisfeitas, depois de verificado o seu cabimento nas dotações orçamentais respectivas e haverem sido aprovadas pela direcção, mediante ordem de pagamento autorizada pelo presidente da direcção e subscrita pelo funcionário encarregado dos serviços de contabilidade.
+Art. 19.º As despesas só poderão ser satisfeitas, depois de verificado o seu cabimento nas dotações orçamentais respectivas e haverem sido aprovadas pela direcção, mediante ordem de pagamento autorizada pelo presidente da direcção e subscrita pelo funcionário encarregado dos serviços de contabilidade.
 
-###### Art. 20.º Para satisfação de pequenas despesas de carácter obrigatório ou normal, poderá ser constituído um fundo de maneio, reembolsável mensalmente mediante a apresentação da respectiva documentação e o processamento das competentes ordens de pagamento, de quantitativo não superior à quarta parte de um duodécimo da receita anual orçamentada.
+Art. 20.º Para satisfação de pequenas despesas de carácter obrigatório ou normal, poderá ser constituído um fundo de maneio, reembolsável mensalmente mediante a apresentação da respectiva documentação e o processamento das competentes ordens de pagamento, de quantitativo não superior à quarta parte de um duodécimo da receita anual orçamentada.
 
-###### Art. 21.º Aos presidentes da direcção e do conselho pedagógico poderão ser atribuídas gratificações mensais, e aos vogais da direcção e do conselho pedagógico, senhas de presença do valor e nas condições a determinar pela Presidência do Conselho, de acordo com o Ministro das Finanças.
+Art. 21.º Aos presidentes da direcção e do conselho pedagógico poderão ser atribuídas gratificações mensais, e aos vogais da direcção e do conselho pedagógico, senhas de presença do valor e nas condições a determinar pela Presidência do Conselho, de acordo com o Ministro das Finanças.
 
-###### Art. 22.º Com observância das condições a fixar pela Presidência do Conselho, sob proposta do conselho geral, a direcção do Centro Nacional poderá contratar a realização de trabalhos eventuais em regime de prestação de serviços.
+Art. 22.º Com observância das condições a fixar pela Presidência do Conselho, sob proposta do conselho geral, a direcção do Centro Nacional poderá contratar a realização de trabalhos eventuais em regime de prestação de serviços.
 
-###### Art. 23.º Aos membros do conselho geral, da direcção e do conselho pedagógico do Centro Nacional, bem como ao pessoal deste e às pessoas chamadas a colaborar nas respectivas actividades, serão abonadas ajudas de custo e despesas de transporte de acordo com a tabela em vigor para os funcionários do Estado, quando tenham, de se deslocar em serviço do Centro Nacional.
+Art. 23.º Aos membros do conselho geral, da direcção e do conselho pedagógico do Centro Nacional, bem como ao pessoal deste e às pessoas chamadas a colaborar nas respectivas actividades, serão abonadas ajudas de custo e despesas de transporte de acordo com a tabela em vigor para os funcionários do Estado, quando tenham, de se deslocar em serviço do Centro Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles - José João Gonçalves de Proença.

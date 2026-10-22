@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47459-1966-487969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5cb9b8f3d2791df4f093c9dd0ce1fc9935857ab727e645332958bc6bcd0e227a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3e7fb6426bfcf8e95c48185fcbdaedcff703473a546e67d894b0e4605b17e68b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 4
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:43Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +101,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos dos seguintes Ministérios:
 
 Ministério dos Negócios Estrangeiros
 
@@ -107,25 +119,25 @@ Do artigo 9.º, n.º 4) «Despesas resultantes de viagens do Ministro ...» ... 
 
 Para o artigo 7.º, n.º 1) «Correios ...» ... +160000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 40302332$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais, no montante de 40302332$60, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 22.º «Outros investimentos»:
+Capítulo 22.º «Outros investimentos»:
 
-###### Artigo 215.º «Encargos de juros e diferenças de câmbio respeitantes à liquidação da posição de Portugal na União Europeia de Pagamentos» ... 29150602$90
+Artigo 215.º «Encargos de juros e diferenças de câmbio respeitantes à liquidação da posição de Portugal na União Europeia de Pagamentos» ... 29150602$90
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
+Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
 
-###### Artigo 35.º, n.º 3) «Pessoal assalariado» ... 100000$00
+Artigo 35.º, n.º 3) «Pessoal assalariado» ... 100000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 12.º «Plano Intercalar de Fomento»:
+Capítulo 12.º «Plano Intercalar de Fomento»:
 
-###### Artigo 105.º, n.º 2) «Ponte sobre o Tejo, em frente de Lisboa»:
+Artigo 105.º, n.º 2) «Ponte sobre o Tejo, em frente de Lisboa»:
 
 Alínea 1 «Estudos, ...» ... 10881003$20
 
@@ -135,32 +147,32 @@ Alínea 2 «Construção» ... 170726$50
 
 ... 40302332$60
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verba de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verba de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 4.º, artigo 68.º «Diversas receitas não classificadas» ... 374756$20
+Capítulo 4.º, artigo 68.º «Diversas receitas não classificadas» ... 374756$20
 
-### Capítulo 6.º, artigo 132.º «Juros de diversas proveniências» ... 3923742$70
+Capítulo 6.º, artigo 132.º «Juros de diversas proveniências» ... 3923742$70
 
-### Capítulo 9.º, artigo 276.º «Produto da venda de títulos ...» ... 35733107$20
+Capítulo 9.º, artigo 276.º «Produto da venda de títulos ...» ... 35733107$20
 
-### Capítulo 9.º, artigo 280.º «Crédito externo - Classe III» ... 170726$50
+Capítulo 9.º, artigo 280.º «Crédito externo - Classe III» ... 170726$50
 
 ... 40202332$60
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º, artigo 22.º, n.º 4) ... 100000$00
+Capítulo 3.º, artigo 22.º, n.º 4) ... 100000$00
 
 ... 40302332$60
 
-###### Art. 4.º É autorizada a alteração de rubrica descrita no capítulo 12.º, artigo 105.º, n.º 2), alínea 1, do actual orçamento do Ministério das Obras Públicas, para:
+Art. 4.º É autorizada a alteração de rubrica descrita no capítulo 12.º, artigo 105.º, n.º 2), alínea 1, do actual orçamento do Ministério das Obras Públicas, para:
 
 Estudos, projectos, expropriações, fiscalização e outros encargos não compreendidos no crédito externo.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

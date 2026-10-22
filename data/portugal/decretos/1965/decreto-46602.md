@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46602-1965-510868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cfdf568d6fea30ed63195dcdf0ab4e13600ffc1fbfd433ae8e28eab44b35a787
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a8776783d158c63aa1c5fc0df1db29daccd5e2718d7fcfe42b0f8dc0403f3b34
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:330459:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:16Z'
   warnings: []
   errors: []
 ---
@@ -92,13 +96,13 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição, por motivo de urgê
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É instituído na província de Timor o Fundo das Habitações Económicas, com autonomia financeira, destinado a promover a construção e a assegurar a administração de habitações económicas em colaboração com o Estado, câmaras municipais, pessoas colectivas de utilidade pública administrativa, organismos corporativos e instituições, oficiais e particulares, de previdência e assistência social.
+Artigo 1.º É instituído na província de Timor o Fundo das Habitações Económicas, com autonomia financeira, destinado a promover a construção e a assegurar a administração de habitações económicas em colaboração com o Estado, câmaras municipais, pessoas colectivas de utilidade pública administrativa, organismos corporativos e instituições, oficiais e particulares, de previdência e assistência social.
 
-###### Art. 2.º A administração do Fundo das Habitações Económicas é assegurada por um conselho administrativo, nomeado pelo governador da província.
+Art. 2.º A administração do Fundo das Habitações Económicas é assegurada por um conselho administrativo, nomeado pelo governador da província.
 
 § único. A composição, as atribuições e as normas de funcionamento do conselho administrativo serão estabelecidas em portaria provincial.
 
-###### Art. 3.º O Fundo promoverá a construção das seguintes espécies de habitações económicas:
+Art. 3.º O Fundo promoverá a construção das seguintes espécies de habitações económicas:
 
 a) Casas económicas, em regime de propriedade resolúvel, nos termos do [Decreto-Lei n.º 23052](https://diariodarepublica.pt/dr/detalhe/decreto-lei/23052-1933-330459), de 23 de Setembro de 1933, e mais legislação aplicável;
 
@@ -108,7 +112,7 @@ c) Casas para famílias pobres, nas condições previstas neste diploma.
 
 § único. As casas de renda económica podem ser destinadas a arrendamento ou venda, a pronto ou a prestações, nas condições estipuladas em diploma a publicar pelo governador.
 
-###### Art. 4.º As receitas do Fundo das Habitações Económicas serão constituídas por:
+Art. 4.º As receitas do Fundo das Habitações Económicas serão constituídas por:
 
 a) Verbas do orçamento da província, destinadas à construção de habitações económicas, que expressamente lhe sejam consignadas;
 
@@ -128,21 +132,21 @@ h) Subsídios para fins determinados que lhe sejam atribuídos.
 
 § único. O governador poderá autorizar, por despacho, sem mais formalidades, a venda de qualquer habitação que seja pertença do Estado, pelo valor de construção ou mediante avaliação prévia, quando o adquirente seja morador há mais de um ano, constituindo o valor de venda ou as prestações mensais de amortização subsídio atribuído ao Fundo das Habitações Económicas.
 
-###### Art. 5.º Os capitais, com excepção dos subsídios, investidos na construção de habitações económicas, quer sejam do Estado, quer provenham de comparticipações, vencem juro à taxa não superior a 5 por cento ao ano e serão recuperados em conformidade com os planos de investimento e de amortização aprovados pelo governador.
+Art. 5.º Os capitais, com excepção dos subsídios, investidos na construção de habitações económicas, quer sejam do Estado, quer provenham de comparticipações, vencem juro à taxa não superior a 5 por cento ao ano e serão recuperados em conformidade com os planos de investimento e de amortização aprovados pelo governador.
 
-###### Art. 6.º Os empréstimos contraídos para serem aplicados na construção de habitações económicas serão efectuados à taxa que for determinada em harmonia com as condições do mercado, com o máximo de 5 por cento ao ano, e o seu prazo de amortização será no máximo de vinte anos.
+Art. 6.º Os empréstimos contraídos para serem aplicados na construção de habitações económicas serão efectuados à taxa que for determinada em harmonia com as condições do mercado, com o máximo de 5 por cento ao ano, e o seu prazo de amortização será no máximo de vinte anos.
 
-###### Art. 7.º As prestações mensais devem ser fixadas tendo especialmente em conta o custo global das edificações do plano de construção a que pertença o agrupamento, a rentabilidade exigida pelos capitais investidos, a capacidade económica da generalidade dos pretendentes, o nível das rendas na localidade, bem como o interesse social em obter, por via de compensação de encargos, os ajustamentos nas prestações que sejam autorizados, em especial para as habitações destinadas a famílias de recursos mais modestos.
+Art. 7.º As prestações mensais devem ser fixadas tendo especialmente em conta o custo global das edificações do plano de construção a que pertença o agrupamento, a rentabilidade exigida pelos capitais investidos, a capacidade económica da generalidade dos pretendentes, o nível das rendas na localidade, bem como o interesse social em obter, por via de compensação de encargos, os ajustamentos nas prestações que sejam autorizados, em especial para as habitações destinadas a famílias de recursos mais modestos.
 
-###### Art. 8.º A construção de casas para famílias pobres, e bem assim a aquisição e urbanização dos terrenos às mesmas destinados, constituem encargo directo do Fundo das Habitações Económicas, que para o efeito poderá beneficiar de subsídio não reembolsável, concedido pelo Estado ou por instituições de assistência social.
+Art. 8.º A construção de casas para famílias pobres, e bem assim a aquisição e urbanização dos terrenos às mesmas destinados, constituem encargo directo do Fundo das Habitações Económicas, que para o efeito poderá beneficiar de subsídio não reembolsável, concedido pelo Estado ou por instituições de assistência social.
 
 § 1.º As casas serão agrupadas segundo as disponibilidades de terrenos ou as conveniências de ordem demográfica e social, devendo ser previstas, sempre que necessário, edificações de interesse geral em que possa desenvolver-se acção educativa e social.
 
 § 2.º A ocupação das casas será concedida a título precário, mediante licença passada pelo Fundos das Habitações Económicas, nas condições expressas em regulamento a publicar pelo governador.
 
-###### Art. 9.º É autorizado o governador a conceder a garantia da província aos seguros de vida e contra incêndio quando os mesmos constituam encargo do Fundo das Habitações Económicas por não terem sido tomados por sociedades seguradoras.
+Art. 9.º É autorizado o governador a conceder a garantia da província aos seguros de vida e contra incêndio quando os mesmos constituam encargo do Fundo das Habitações Económicas por não terem sido tomados por sociedades seguradoras.
 
-###### Art. 10.º As casas construídas pelo Fundo das Habitações Económicas ou entradas na sua posse gozam das isenções e regalias previstas na lei.
+Art. 10.º As casas construídas pelo Fundo das Habitações Económicas ou entradas na sua posse gozam das isenções e regalias previstas na lei.
 
 § único. As casas para famílias pobres gozam das seguintes vantagens fiscais:
 
@@ -152,7 +156,7 @@ b) Isenção de contribuição predial durante quinze anos, a contar da data em 
 
 c) Isenção de quaisquer taxas, impostos, emolumentos ou licenças do Estado e dos corpos administrativos, sejam de que natureza forem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

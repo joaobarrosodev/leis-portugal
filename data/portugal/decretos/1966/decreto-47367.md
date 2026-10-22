@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47367-1966-477810
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85b18a5bc348b9364be1f9f62444599efd83f638f9de154b18e78a0b0254d1f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a3c2eff1ac83535e5b996e82f11296f1b061bc04308ce082f8b215bfa864f925
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:432409:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624817:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682376:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:47Z'
   warnings: []
   errors: []
 ---
@@ -97,11 +129,11 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É aumentada de 200000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1967.
+Artigo 1.º É aumentada de 200000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1967.
 
 § único. Fica o Governo da província autorizado a propor ao Ministério do Ultramar, de uma só vez, os funcionários que, encontrando-se desligados do serviço para efeitos de aposentação, devam ser, por interesse público, aposentados definitivamente por conta do aumento da dotação de que trata o corpo deste artigo, independentemente do lugar que ocuparem na lista dos funcionários que estiverem a aguardar aposentação.
 
-###### Art. 2.º Nos quadros de pessoal dos serviços de saúde e assistência são introduzidas as seguintes alterações:
+Art. 2.º Nos quadros de pessoal dos serviços de saúde e assistência são introduzidas as seguintes alterações:
 
 Pessoal dos quadros aprovados por lei:
 
@@ -121,15 +153,15 @@ Quadro farmacêutico comum:
 
 1 de farmacêutico de 2.ª classe.
 
-###### Art. 3.º É fixado em 500000$00 o subsídio com que a província concorre no ano de 1967 para as despesas de exploração do navio que assegurar a ligação entre as diferentes ilhas do arquipélago.
+Art. 3.º É fixado em 500000$00 o subsídio com que a província concorre no ano de 1967 para as despesas de exploração do navio que assegurar a ligação entre as diferentes ilhas do arquipélago.
 
 § único. O referido subsídio será pago em duodécimos à Junta Autónoma dos Portos do Arquipélago de Cabo Verde.
 
-###### Art. 4.º Enquanto se não promover à execução do disposto no artigo 6.º do [Decreto n.º 42325](https://diariodarepublica.pt/dr/detalhe/decreto/42325-1959-432409), de 16 de Junho de 1959, mantém-se em vigor na província o disposto na parte final do artigo 60.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
+Art. 4.º Enquanto se não promover à execução do disposto no artigo 6.º do [Decreto n.º 42325](https://diariodarepublica.pt/dr/detalhe/decreto/42325-1959-432409), de 16 de Junho de 1959, mantém-se em vigor na província o disposto na parte final do artigo 60.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956.
 
 B) Guiné
 
-###### Art. 5.º Nos quadros de pessoal dos serviços de saúde e assistência são introduzidas as seguintes alterações:
+Art. 5.º Nos quadros de pessoal dos serviços de saúde e assistência são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -145,7 +177,7 @@ Quadro farmacêutico comum do ultramar:
 
 C) S. Tomé e Príncipe
 
-###### Art. 6.º São fixados nos seguintes quantitativos os encargos com que a província concorre, em 1967, para a Junta de Investigações do Ultramar:
+Art. 6.º São fixados nos seguintes quantitativos os encargos com que a província concorre, em 1967, para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 222612$00
 
@@ -153,7 +185,7 @@ b) Outras missões de estudo ... 200000$00
 
 D) Angola
 
-###### Art. 7.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
+Art. 7.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos, para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 8519771$00
 
@@ -167,13 +199,13 @@ b) Missões:
 
 4) Outras missões e estudos ... 1750000$00
 
-###### Art. 8.º As receitas de que trata o artigo 56.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, poderão ser utilizadas no ano de 1967 para a cobertura de outras despesas extraordinárias.
+Art. 8.º As receitas de que trata o artigo 56.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, poderão ser utilizadas no ano de 1967 para a cobertura de outras despesas extraordinárias.
 
-###### Art. 9.º Continua suspensa no ano de 1967 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
+Art. 9.º Continua suspensa no ano de 1967 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
 
 E) Moçambique
 
-###### Art. 10.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
+Art. 10.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 7620145$00
 
@@ -185,41 +217,41 @@ b) Missões:
 
 F) Macau
 
-###### Art. 11.º No quadro do pessoal de secretaria do Liceu Nacional do Infante D. Henrique é extinto o lugar de terceiro-oficial e criado em sua substituição um de segundo-oficial, para o qual transitará, com dispensa de nova nomeação, visto e posse, o funcionário que presentemente ocupa o lugar a extinguir.
+Art. 11.º No quadro do pessoal de secretaria do Liceu Nacional do Infante D. Henrique é extinto o lugar de terceiro-oficial e criado em sua substituição um de segundo-oficial, para o qual transitará, com dispensa de nova nomeação, visto e posse, o funcionário que presentemente ocupa o lugar a extinguir.
 
-###### Art. 12.º Os professores de Educação Física, Canto Coral e Lavores Femininos do ensino primário com vinte, dez ou menos de dez anos de serviço são incluídos, respectivamente, nos grupos N, O e P do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 12.º Os professores de Educação Física, Canto Coral e Lavores Femininos do ensino primário com vinte, dez ou menos de dez anos de serviço são incluídos, respectivamente, nos grupos N, O e P do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 13.º É atribuída uma gratificação mensal de 150$00, para falhas, ao recebedor de Fazenda de 3.ª classe da Repartição de Fazenda do concelho das Ilhas, que se considera incluído no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 13.º É atribuída uma gratificação mensal de 150$00, para falhas, ao recebedor de Fazenda de 3.ª classe da Repartição de Fazenda do concelho das Ilhas, que se considera incluído no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 14.º As funções de preparador do laboratório da Inspectoria da Polícia Judiciária serão remuneradas com a gratificação mensal de 1000$00, que se considera incluída no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 14.º As funções de preparador do laboratório da Inspectoria da Polícia Judiciária serão remuneradas com a gratificação mensal de 1000$00, que se considera incluída no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 15.º Aos membros da comissão de terras que funciona junto dos serviços de obras públicas e transportes é atribuído o direito aos seguintes abonos, a título de senhas de presença por reunião e até ao máximo de quatro em cada mês:
+Art. 15.º Aos membros da comissão de terras que funciona junto dos serviços de obras públicas e transportes é atribuído o direito aos seguintes abonos, a título de senhas de presença por reunião e até ao máximo de quatro em cada mês:
 
 Aos vogais ... 250$00
 
 Ao secretário ... 125$00
 
-###### Art. 16.º No quadro de oficiais dos serviços de marinha são aumentados os seguintes lugares:
+Art. 16.º No quadro de oficiais dos serviços de marinha são aumentados os seguintes lugares:
 
 Um de primeiro-tenente da classe de marinha;
 
 Um de segundo-tenente.
 
-###### Art. 17.º É atribuído às praças da Armada, dos serviços de marinha, o direito a um subsídio para fardamento, ficando o Governo da província autorizado a regulamentar as condições do seu abono e a fixar o respectivo quantitativo.
+Art. 17.º É atribuído às praças da Armada, dos serviços de marinha, o direito a um subsídio para fardamento, ficando o Governo da província autorizado a regulamentar as condições do seu abono e a fixar o respectivo quantitativo.
 
-###### Art. 18.º É atribuído ao pessoal da Polícia Marítima e Fiscal dos serviços de marinha o direito a um subsídio de embarque, quando em serviço de fiscalização ou de policiamento, ficando o Governo da província autorizado a regulamentar as condições do seu abono e a fixar o respectivo quantitativo.
+Art. 18.º É atribuído ao pessoal da Polícia Marítima e Fiscal dos serviços de marinha o direito a um subsídio de embarque, quando em serviço de fiscalização ou de policiamento, ficando o Governo da província autorizado a regulamentar as condições do seu abono e a fixar o respectivo quantitativo.
 
-###### Art. 19.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
+Art. 19.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 630792$00
 
-###### Art. 20.º É mantida para 1967 a autorização concedida pelo artigo 31.º do [Decreto n.º 39958](https://diariodarepublica.pt/dr/detalhe/decreto/39958-1954-624817), de 7 de Dezembro de 1954.
+Art. 20.º É mantida para 1967 a autorização concedida pelo artigo 31.º do [Decreto n.º 39958](https://diariodarepublica.pt/dr/detalhe/decreto/39958-1954-624817), de 7 de Dezembro de 1954.
 
 G) Timor
 
-###### Art. 21.º Fica o Governo da província autorizado a abrir um crédito especial de 421192$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1965.
+Art. 21.º Fica o Governo da província autorizado a abrir um crédito especial de 421192$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1965.
 
-###### Art. 22.º São aditadas ao mapa IX anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, as gratificações mensais seguintes:
+Art. 22.º São aditadas ao mapa IX anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, as gratificações mensais seguintes:
 
 Serviços de Fazenda e contabilidade:
 
@@ -227,7 +259,7 @@ Ao secretário de Fazenda do concelho de Baucau ... 200$00
 
 Ao recebedor de Fazenda do concelho de Baucau (gratificação para falhas) ... 100$00
 
-###### Art. 23.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
+Art. 23.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1967 para a Junta de Investigações do Ultramar:
 
 a) Missão Geográfica ... 400000$00
 
@@ -235,13 +267,13 @@ II
 
 Disposições comuns
 
-###### Art. 24.º No ano de 1967 ficam as províncias de Cabo Verde, Guiné e Timor dispensadas de concorrer para as despesas que, nos termos legais, devem constituir encargo comum das diversas províncias ultramarinas.
+Art. 24.º No ano de 1967 ficam as províncias de Cabo Verde, Guiné e Timor dispensadas de concorrer para as despesas que, nos termos legais, devem constituir encargo comum das diversas províncias ultramarinas.
 
-###### Art. 25.º Continuam em vigor em 1967, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seus diplomas complementares e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, de 31 de Dezembro de 1953 e de 18 de Março de 1954.
+Art. 25.º Continuam em vigor em 1967, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seus diplomas complementares e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, de 31 de Dezembro de 1953 e de 18 de Março de 1954.
 
-###### Art. 26.º Exceptuado o disposto nos artigos 4.º e 21.º, que é desde já executório, o presente decreto entra em vigor em 1 de Janeiro de 1967.
+Art. 26.º Exceptuado o disposto nos artigos 4.º e 21.º, que é desde já executório, o presente decreto entra em vigor em 1 de Janeiro de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

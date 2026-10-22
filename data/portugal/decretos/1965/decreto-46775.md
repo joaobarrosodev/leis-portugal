@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46775-1965-508201
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d793b5e1fc4d1a974c6291e37ae44d9b3df4a6c429b0ddc8420d6011ce54f7c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06127a2fe46be011b3a1b94da627ff72fef496c675c1212dac8b707fd3c65efb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:06Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista o disposto no artigo 22.º do [Decreto-Lei n.º 41375](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Fábrica Militar de Braço de Prata a celebrar contrato com o empreiteiro Américo Januário para execução da obra de construção de um edifício para laboratório, sala de desenho e arquivo na Fábrica Militar de Braço de Prata, pela importância de 2539111$70, incluindo a percentagem para o Fundo Privativo de Expediente e Administração, da Direcção do Serviço de Fortificações e Obras Militares;
+Artigo 1.º É autorizada a Fábrica Militar de Braço de Prata a celebrar contrato com o empreiteiro Américo Januário para execução da obra de construção de um edifício para laboratório, sala de desenho e arquivo na Fábrica Militar de Braço de Prata, pela importância de 2539111$70, incluindo a percentagem para o Fundo Privativo de Expediente e Administração, da Direcção do Serviço de Fortificações e Obras Militares;
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Fábrica Militar de Braço de Prata despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 1000000$00 no ano de 1965, 1150000$00 no ano de 1966 e 389111$70, ou o que se apurar como saldo, no ano de 1967.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Fábrica Militar de Braço de Prata despender com pagamentos relativos às obras executadas, por virtude do contrato, mais de 1000000$00 no ano de 1965, 1150000$00 no ano de 1966 e 389111$70, ou o que se apurar como saldo, no ano de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.

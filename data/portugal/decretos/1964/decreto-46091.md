@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 298/1964, 1º Suplemento, Série I de 1964-12-22
   number: '298'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1821 - 1900
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf
 entry_into_force_dates: []
@@ -46,40 +46,189 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46091-1964-634154
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c149a1df0ad8d555fb783d689946c6a259747ecef2a65ed43fdef1868d6a86fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c13eb6a6517bfbcad79a7d023c9d26ab6c82db010de791734facffc61e760ae0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Aquisição de Bens e Serviços
+- Autorização de Despesas
+- Cobrança de Impostos
+- Contribuições e Impostos
+- Despesas Públicas
+- Direcção Geral do Tribunal de Contas
+- Doença Animal
+- Dotação Orçamental
+- Funcionário Público
+- Fundação Ricardo Espírito Santo Silva
+- Gestão Orçamental
+- Imposto de Salvação Pública
+- Imposto do SELO
+- Indemnização
+- Inspecção Geral dos Tribunais do Trabalho
+- Juiz
+- Ministro das Finanças
+- Orçamento Geral do Estado
+- Pessoal de Justiça
+- Quadro de Pessoal
+- Receita Pública
+- Tabela Geral do Imposto do SELO
+- Tribunal do Trabalho
 relationships:
 - type: amended_by
   target: pt:dre:306644:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:508221:por
+  label: "Mantidos em vigor os adicionais referidos no art. 5º do presente diploma pela LEI.2128.18.12.1965.PR, DG.IS [286]\
+    \ de 18.12.1965, até à adopção dos regimes tributários especiais e à reforma da tributação indirecta referida no art.\
+    \ 5º deste último diploma.\0.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2128-1965-508221
+  date: '1965-12-18'
+- type: amended_by
+  target: pt:dre:306644:por
+  label: "Mantidos em vigor os adicionais referidos no art. 5º do presente diploma pela LEI.2136.21.12.1968.PR, DG.IS [300-Supl]\
+    \ de 21.12.1968, até à adopção dos regimes tributários especiais e da tributação indirecta, previstos na al. a) do nº\
+    \ 1 do art. 13º deste último diploma.\0a.\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/2136-1968-306644
+  date: '1968-12-21'
+- type: cites
+  target: pt:dre:153352:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:159332:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:172901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:189315:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:210427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232283:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:254797:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256262:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:329246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352739:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:362119:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:369404:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399007:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:399832:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512841:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516068:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534799:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535177:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:559043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:592307:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:602522:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:618131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635180:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649973:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:676994:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678605:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:33Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +243,7 @@ Houve, por um lado, no que respeita à despesa ordinária, que proceder a alguns
 
 Depois de distribuídos cuidadosamente todos os recursos que se prevêem para 1965, o resultado final a que se chegou tem a seguinte expressão global:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 2. No relatório que acompanhou a proposta da Lei de Meios para 1963 houve oportunidade de descrever amplamente a evolução recente e as perspectivas da conjuntura económica internacional e nacional, em especial naqueles aspectos que podem condicionar a gestão financeira no próximo ano ou determinar e justificar a adopção de determinadas medidas de política financeira. Assim, sòmente haverá neste momento que sintetizar as conclusões a que aquele relatório conduz, assinalando uma ou outra nota que se possa extrair dos últimos elementos disponíveis.
 
@@ -174,7 +323,7 @@ Efectivamente, tendo sido orçamentado para 1964 um total de 10305300 contos, as
 
 Receitas ordinárias orçamentadas
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Importa salientar que a evolução prevista neste orçamento revela variação superior à verificada em 1962, altura em que houve necessidade de ocorrer a um agravamento das despesas, designadamente daquelas que respeitam à segurança e fomento das províncias ultramarinas.
 
@@ -192,7 +341,7 @@ No próximo ano impõe-se que a evolução das receitas orçamentais seja object
 
 Receitas ordinárias por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Todas as classes da receita ordinária revelam acréscimos nas previsões, salientando-se, pelo seu volume, a maior valia dos impostos directos gerais, superior à apurada nos impostos indirectos.
 
@@ -200,7 +349,7 @@ Assim, os impostos directos e indirectos somam, no seu conjunto, 7647300 contos,
 
 Os quatro primeiros capítulos dos réditos ordinários, que representam o movimento do conjunto da actividade fiscal do Estado, atingem 8960600 contos, ou seja 77,1 por cento, o que pouco difere da percentagem verificada em 1964 (76,4 por cento). Em qualquer das hipóteses, o valor percentual teve reduzida oscilação, como se verifica do mapa seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 4. A distribuição por capítulos das receitas para 1965 não sofreu alterações muito profundas. À subida verificada na posição relativa dos impostos directos gerais (+2,2 por cento) corresponderam ligeiros movimentos de sentido oposto em quase todas as restantes classes.
 
@@ -208,7 +357,7 @@ Os números são os seguintes:
 
 Receita ordinária por capítulos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Merece, por isso, referência especial a melhoria de posição dos impostos directos gerais, devida em parte à promulgação dos novos códigos.
 
@@ -298,7 +447,7 @@ Na comparação com anos anteriores, este acréscimo é o maior dos últimos ano
 
 Aumentos de despesa ordinária nos seguintes anos económicos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 No acréscimo da despesa ordinária há que distinguir dois grupos de encargos: despesas que têm contrapartida em receita e despesas a satisfazer por conta dos réditos gerais do Estado.
 
@@ -312,7 +461,7 @@ Julga-se ter alcançado, pelo menos em parte, o objectivo em vista, pois são en
 
 Comparação entre a despesa ordinária fixada em 1964 e 1965
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 O referido quadro permite tirar a conclusão de que, apesar da rigorosa revisão a que foram sujeitos os projectos de orçamento, houve aumentos em todas as classes de despesa, pois as únicas diferenças negativas registadas na dívida pública e no Ministério das Obras Públicas derivam de reduções nas despesas com compensação em receita.
 
@@ -426,19 +575,19 @@ Mais adiante se fará a análise da distribuição do referido montante total pe
 
 A totalidade das despesas extraordinárias é assim distribuída pelas diferentes Ministérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Quanto aos acréscimos observados, sobressai o respeitante aos «Encargos Gerais da Nação», pelos motivos que adiante serão expostos. Nas reduções nota-se, em primeiro lugar, o Ministério das Obras Públicas, mas desde já se esclarece que tal variação resulta, fundamentalmente, de o esforço programada para 1965, no que respeita à construção da ponte sobre o Tejo, ser bastante inferior (-340000 contos) ao realizado no corrente ano, uma vez que a obra se aproxima do seu termo.
 
 3. O que anteriormente se referiu acerca da evolução das despesas extraordinárias, particularmente no que se refere à nova estruturação das despesas em virtude do Plano Intercalar, encontra-se documentado no seguinte quadro:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Efectivamente, se se atender a que grande parte do aumento das despesas com a defesa e segurança resulta do movimento orçamental de receitas expressamente destinadas a empreendimentos previstos em acordos internacionais (cerca de 600000 contos), tem-se que o acréscimo mais volumoso se localiza no grupo respeitante ao «Plano Intercalar de Fomento».
 
 4. No grupo «Defesa nacional e segurança pública» a distribuição das verbas pelos Ministérios e principais empreendimentos é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Pode dizer-se que a diferença total se localiza exclusivamente nos «Encargos Gerais da Nação» - «Defesa nacional» - e resulta fundamentalmente do seguinte:
 
@@ -448,7 +597,7 @@ Desde 1961 que estas despesas pesam no orçamento, reflectindo um esforço finan
 
 O quadro seguinte bem o demonstra:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 A verba de 25000 contos descrita na alínea c) corresponde aos encargos, com projecção em 1965, resultantes do acordo firmado para a compra dos referidos navios para a Armada portuguesa.
 
@@ -458,7 +607,7 @@ Finalmente, a dotação de 35000 contos da alínea m) destina-se aos trabalhos e
 
 5. No grupo das despesas respeitantes à execução do Plano Intercalar de Fomento a distribuição, por Ministérios, é a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Em quase todos os Ministérios se nota acréscimo das verbas anteriormente consignadas à execução do II Plano de Fomento, acréscimo que - como se disse - resulta não só dos empreendimentos programados no Plano Intercalar, como de nova estruturação dada a determinadas despesas em 1964 afectas ao grupo de «Outros investimentos».
 
@@ -486,7 +635,7 @@ Finalmente, importa acentuar que os investimentos atrás referidos representam u
 
 6. No que respeita ao grupo de «Outros investimentos», é a seguinte a distribuição por Ministérios:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 No Ministério das Finanças mantém-se a verba destinada aos trabalhos relacionados com o cadastro geométrico da propriedade rústica.
 
@@ -562,11 +711,11 @@ Os resultados já alcançados, com rigor e seriedade, respondem pela solução a
 
 Os tempos mudam, e por consequência devemos estar dispostos a adaptar-nos às circunstâncias, mas sem que os nossos passos deixem, por isso, de continuar a ser iluminados por aquela orientação que nos clareou o caminho e permite que prossigamos nele com serena confiança no futuro.
 
-**O Ministro das Finanças, António Manuel Pinto Barbosa.**
+O Ministro das Finanças, António Manuel Pinto Barbosa.
 
 Do I ao XXXIII
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Em execução da [Lei n.º 2124](https://diariodarepublica.pt/dr/detalhe/lei/2124-1964-535177), de 19 de Dezembro de 1964;
 
@@ -576,31 +725,31 @@ I
 
 Equilíbrio financeiro
 
-###### Artigo 1.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1965 são avaliados em 16740710774$00, sendo 11624241774$00 de receitas ordinárias e 5116469000$00 de receitas extraordinárias, conforme o mapa n.º I que faz parte do presente decreto.
+Artigo 1.º Os impostos directos e indirectos e os mais rendimentos e recursos do Estado no ano de 1965 são avaliados em 16740710774$00, sendo 11624241774$00 de receitas ordinárias e 5116469000$00 de receitas extraordinárias, conforme o mapa n.º I que faz parte do presente decreto.
 
-###### Art. 2.º São fixadas as despesas ordinárias e extraordinárias do Estado na metrópole para o ano de 1965 na quantia de 16739244626$20, sendo as ordinárias de 10712088126$20 e as extraordinárias de 6027156500$00, conforme o mapa n.º 2 que faz parte do presente decreto.
+Art. 2.º São fixadas as despesas ordinárias e extraordinárias do Estado na metrópole para o ano de 1965 na quantia de 16739244626$20, sendo as ordinárias de 10712088126$20 e as extraordinárias de 6027156500$00, conforme o mapa n.º 2 que faz parte do presente decreto.
 
-###### Art. 3.º As receitas dos serviços autónomos, constantes do mapa n.º 3 que faz parte do presente decreto, são avaliadas no ano de 1965 na quantia total de 3216867700$00, e em igual importância são fixadas as despesas dos mesmos serviços.
+Art. 3.º As receitas dos serviços autónomos, constantes do mapa n.º 3 que faz parte do presente decreto, são avaliadas no ano de 1965 na quantia total de 3216867700$00, e em igual importância são fixadas as despesas dos mesmos serviços.
 
 II
 
 Réditos fiscais
 
-###### Art. 4.º Continua suspensa no ano económico de 1965, e enquanto as condições do Tesouro o permitirem, a cobrança do imposto de salvação pública, criado pelo [Decreto n.º 15466](https://diariodarepublica.pt/dr/detalhe/decreto/15466-1928-592307), de 14 de Maio de 1928, e que era arrecadado em harmonia com o disposto no [Decreto n.º 30255](https://diariodarepublica.pt/dr/detalhe/decreto/30255-1940-189315), de 6 de Janeiro de 1940.
+Art. 4.º Continua suspensa no ano económico de 1965, e enquanto as condições do Tesouro o permitirem, a cobrança do imposto de salvação pública, criado pelo [Decreto n.º 15466](https://diariodarepublica.pt/dr/detalhe/decreto/15466-1928-592307), de 14 de Maio de 1928, e que era arrecadado em harmonia com o disposto no [Decreto n.º 30255](https://diariodarepublica.pt/dr/detalhe/decreto/30255-1940-189315), de 6 de Janeiro de 1940.
 
-###### Art. 5.º Serão cobrados durante o ano económico de 1965, até à adopção dos respectivas regimes tributários especiais, os seguintes adicionais:
+Art. 5.º Serão cobrados durante o ano económico de 1965, até à adopção dos respectivas regimes tributários especiais, os seguintes adicionais:
 
 1.º 50 por cento à taxa do imposto de fabricação e consumo sobre a cerveja fabricada no continente da República e nas ilhas adjacentes destinada ao consumo do País. Este adicional é devido mesmo que as fábricas já tenham pago anteriormente o imposto por avença, ou parte dele, em relação ao 1.º semestre do ano de 1965; $70 por litro sobre a cerveja proveniente das províncias ultramarinas ou do estrangeiro para consumo do País, além da importância de 1$40 referida no artigo 4.º do [Decreto-Lei n.º 43763](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43763-1961-172901), de 30 de Junho de 1961, em que se considera incluída a de $40 arrecadada como direitos de importação, devendo a liquidação e cobrança deste adicional efectuar-se também no acto do despacho de importação.
 
 2.º 25 por cento à taxa do imposto sobre espectáculos cinematográficos a que se refere a alínea b) do artigo 2.º do [Decreto n.º 14396](https://diariodarepublica.pt/dr/detalhe/decreto/14396-1927-676994), de 10 de Outubro de 1927, e 10 por cento à taxa do imposto sobre espectáculos referidos na alínea a) do artigo 2.º do citado decreto.
 
-###### Art. 6.º Para os efeitos do artigo 6.º do [Decreto-Lei n.º 33128](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33128-1943-256262), de 12 de Outubro de 1943, com a redacção dada pelo artigo único do [Decreto-Lei n.º 33418](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33418-1943-254797), de 23 de Dezembro de 1943, as taxas do artigo 2.º da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e, bem assim, o emolumento a que se refere o artigo 29.º do Regulamento do Serviço e Operações das Bolsas de Fundos Públicos e Particulares e Outros Papéis de Crédito, de 10 de Outubro de 1901, a cobrar sobre os títulos cujo valor seja modificado por virtude de aumento do capital resultante de incorporação de reservas, incidem apenas sobre a importância do aumento realizado desde que na materialização do aumento não haja substituição dos títulos anteriores.
+Art. 6.º Para os efeitos do artigo 6.º do [Decreto-Lei n.º 33128](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33128-1943-256262), de 12 de Outubro de 1943, com a redacção dada pelo artigo único do [Decreto-Lei n.º 33418](https://diariodarepublica.pt/dr/detalhe/decreto-lei/33418-1943-254797), de 23 de Dezembro de 1943, as taxas do artigo 2.º da tabela geral do imposto do selo, aprovada pelo [Decreto n.º 21916](https://diariodarepublica.pt/dr/detalhe/decreto/21916-1932-618131), de 28 de Novembro de 1932, e, bem assim, o emolumento a que se refere o artigo 29.º do Regulamento do Serviço e Operações das Bolsas de Fundos Públicos e Particulares e Outros Papéis de Crédito, de 10 de Outubro de 1901, a cobrar sobre os títulos cujo valor seja modificado por virtude de aumento do capital resultante de incorporação de reservas, incidem apenas sobre a importância do aumento realizado desde que na materialização do aumento não haja substituição dos títulos anteriores.
 
 III
 
 Garantias do equilíbrio
 
-###### Art. 7.º Durante o ano de 1965 não serão utilizadas em mais de 90 por cento as dotações dos orçamentos dos Ministérios para o mesmo ano consignadas às despesas mencionadas nas alíneas A), B), C) e D) do artigo 1.º do [Decreto n.º 19286](https://diariodarepublica.pt/dr/detalhe/decreto/19286-1931-210427), de 30 de Janeiro de 1931.
+Art. 7.º Durante o ano de 1965 não serão utilizadas em mais de 90 por cento as dotações dos orçamentos dos Ministérios para o mesmo ano consignadas às despesas mencionadas nas alíneas A), B), C) e D) do artigo 1.º do [Decreto n.º 19286](https://diariodarepublica.pt/dr/detalhe/decreto/19286-1931-210427), de 30 de Janeiro de 1931.
 
 § 1.º São excluídas da aplicação do disposto neste artigo:
 
@@ -624,27 +773,27 @@ g) A subsídios de quantia certa com especialização da entidade a que se desti
 
 § 2.º Além das exclusões abrangidas pelo parágrafo anterior, o Ministro das Finanças pode autorizar a utilização total de verbas quando estas tenham aplicação expressamente concretizada e delimitada quanto ao fim especial a que se destinam.
 
-###### Art. 8.º Os serviços públicos, incluindo os que tenham autonomia administrativa, não poderão exceder, durante o ano de 1965, sem autorização do Ministro das Finanças, os duodécimos das dotações orçamentais inscritas em despesa extraordinária, ficando suspensas as autorizações gerais e especiais em contrário.
+Art. 8.º Os serviços públicos, incluindo os que tenham autonomia administrativa, não poderão exceder, durante o ano de 1965, sem autorização do Ministro das Finanças, os duodécimos das dotações orçamentais inscritas em despesa extraordinária, ficando suspensas as autorizações gerais e especiais em contrário.
 
-###### Art. 9.º No ano de 1965 ficam sujeitos ao regime de duodécimos as transferências e créditos especiais não destinados a despesas certas com o pessoal.
+Art. 9.º No ano de 1965 ficam sujeitos ao regime de duodécimos as transferências e créditos especiais não destinados a despesas certas com o pessoal.
 
-###### Art. 10.º Em despacho conjunto do Ministro das Finanças e de cada um dos titulares dos três ramos das forças armadas será definido o montante máximo que mensalmente se poderá requisitar para despesas não obrigatórias por conta das dotações consignadas a «Forças militares extraordinárias no ultramar», a «Despesas militares em harmonia com compromissos tomados internacionalmente», a «Construção de navios-escoltas oceânicos» e a «Aquisição de quatro navios-escoltas e de quatro submersíveis».
+Art. 10.º Em despacho conjunto do Ministro das Finanças e de cada um dos titulares dos três ramos das forças armadas será definido o montante máximo que mensalmente se poderá requisitar para despesas não obrigatórias por conta das dotações consignadas a «Forças militares extraordinárias no ultramar», a «Despesas militares em harmonia com compromissos tomados internacionalmente», a «Construção de navios-escoltas oceânicos» e a «Aquisição de quatro navios-escoltas e de quatro submersíveis».
 
-###### Art. 11.º São mantidas no ano económico de 1965 as autorizações concedidas pelo [Decreto-Lei n.º 32980](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32980-1943-399832), de 20 de Agosto de 1943, reduzindo-se a três o número de duodécimos a adiantar.
+Art. 11.º São mantidas no ano económico de 1965 as autorizações concedidas pelo [Decreto-Lei n.º 32980](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32980-1943-399832), de 20 de Agosto de 1943, reduzindo-se a três o número de duodécimos a adiantar.
 
-###### Art. 12.º As propostas para quaisquer alterações aos orçamentos dos Ministérios serão presentes a despacho do Ministro da pasta por intermédio do chefe da respectiva repartição da contabilidade pública.
+Art. 12.º As propostas para quaisquer alterações aos orçamentos dos Ministérios serão presentes a despacho do Ministro da pasta por intermédio do chefe da respectiva repartição da contabilidade pública.
 
-###### Art. 13.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
+Art. 13.º Os responsáveis pelas requisições de fundos processadas pelos serviços públicos com autonomia administrativa por conta de verbas orçamentais por importâncias superiores às suas necessidades mensais, embora dentro dos respectivos duodécimos, ficam incursos, independentemente de procedimento disciplinar a que possa haver lugar, na penalidade prevista no § único do artigo 2.º do Decreto com força de lei n.º 14908, de 18 de Janeiro de 1928.
 
-###### Art. 14.º As sobras das dotações da classe «Despesas com o pessoal» não podem ser utilizadas para transferências de verbas sem confirmação do Ministro das Finanças.
+Art. 14.º As sobras das dotações da classe «Despesas com o pessoal» não podem ser utilizadas para transferências de verbas sem confirmação do Ministro das Finanças.
 
-###### Art. 15.º Pelas disponibilidades das verbas de pessoal, na parte excedente a 60 por cento, é vedado aos estabelecimentos de ensino superior contratar pessoal docente ou outro.
+Art. 15.º Pelas disponibilidades das verbas de pessoal, na parte excedente a 60 por cento, é vedado aos estabelecimentos de ensino superior contratar pessoal docente ou outro.
 
 IV
 
 Disposições especiais
 
-###### Art. 16.º Continua suspensa a execução dos seguintes Decretos:
+Art. 16.º Continua suspensa a execução dos seguintes Decretos:
 
 N.º 12600, de 1 de Novembro de 1926;
 
@@ -654,57 +803,57 @@ N.º 17062, de 3 de Junho de 1929;
 
 N.º 22002, de 19 de Dezembro de 1932.
 
-###### Art. 17.º É mantido em 6000$00 mensais o limite a que se refere o artigo 11.º do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 41671](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41671-1958-352739), de 11 de Junho de 1958.
+Art. 17.º É mantido em 6000$00 mensais o limite a que se refere o artigo 11.º do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, com a redacção dada pelo artigo 1.º do [Decreto-Lei n.º 41671](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41671-1958-352739), de 11 de Junho de 1958.
 
-###### Art. 18.º Para efeitos de abono de família, a determinação dos proventos resultantes do exercício de profissão liberal, a que se refere o § único do artigo 10.º do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passa a fazer-se em função dos rendimentos que, nos termos do [Decreto-Lei n.º 44305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068), de 27 de Abril de 1962, servem de base à fixação do imposto profissional.
+Art. 18.º Para efeitos de abono de família, a determinação dos proventos resultantes do exercício de profissão liberal, a que se refere o § único do artigo 10.º do [Decreto-Lei n.º 39844](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39844-1954-678605), de 7 de Outubro de 1954, passa a fazer-se em função dos rendimentos que, nos termos do [Decreto-Lei n.º 44305](https://diariodarepublica.pt/dr/detalhe/decreto-lei/44305-1962-516068), de 27 de Abril de 1962, servem de base à fixação do imposto profissional.
 
-###### Art. 19.º Os juros do empréstimo consolidado dos Centenários de 4 por cento, 1940, correspondentes ao 1.º e 2.º semestres de 1965 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1374648050$00 serão pagos em conta das dotações inscritas no orçamento de 1965 para pagamento da dívida externa.
+Art. 19.º Os juros do empréstimo consolidado dos Centenários de 4 por cento, 1940, correspondentes ao 1.º e 2.º semestres de 1965 e relativos aos capitais da dívida externa, já convertidos ou a converter, que excederem a quantia de 1374648050$00 serão pagos em conta das dotações inscritas no orçamento de 1965 para pagamento da dívida externa.
 
-###### Art. 20.º A dotação global inscrita na despesa extraordinária do orçamento dos Encargos Gerais da Nação para «Forças militares extraordinárias no ultramar» será distribuída pelo Ministro da Defesa Nacional aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
+Art. 20.º A dotação global inscrita na despesa extraordinária do orçamento dos Encargos Gerais da Nação para «Forças militares extraordinárias no ultramar» será distribuída pelo Ministro da Defesa Nacional aos departamentos das forças armadas, nos termos do n.º 3 da base XI da [Lei n.º 2084](https://diariodarepublica.pt/dr/detalhe/lei/2084-1956-232283), de 16 de Agosto de 1956.
 
 § 1.º As respectivas despesas realizar-se-ão no regime estabelecido pelo [Decreto-Lei n.º 31286](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31286-1941-329246), de 28 de Maio de 1941, e estão sujeitas, na parte aplicável, às disposições da [Portaria n.º 13816](https://diariodarepublica.pt/dr/detalhe/portaria/13816-1952-602522), de 24 de Janeiro de 1952.
 
 § 2.º A classificação e a realização das despesas não carecem, porém, do visto do Ministro das Finanças, quando, relativas a obras ou aquisições, tenham lugar segundo os preceitos normais estabelecidos pelo [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957.
 
-###### Art. 21.º Os funcionários do quadro da Direcção-Geral do Tribunal de Contas contratados, ao abrigo do artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948, para o desempenho de funções em categoria superior manterão os seus anteriores direitos e regalias.
+Art. 21.º Os funcionários do quadro da Direcção-Geral do Tribunal de Contas contratados, ao abrigo do artigo 2.º do [Decreto-Lei n.º 37185](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37185-1948-369404), de 24 de Novembro de 1948, para o desempenho de funções em categoria superior manterão os seus anteriores direitos e regalias.
 
 § único. Na satisfação dos encargos resultantes dos contratos a que se refere este artigo poderão ser utilizadas além da dotação especialmente inscrita para tal fim, as disponibilidades da verba orçamental destinada ao pagamento do pessoal do quadro.
 
-###### Art. 22.º Enquanto não for publicado diploma regulando a Secretaria-Geral do Ministério das Finanças como serviço administrativo independente, as despesas atribuídas desde já ao mesmo serviço serão satisfeitas por conta das dotações inscritas no capítulo 6.º do orçamento do Ministério das Finanças.
+Art. 22.º Enquanto não for publicado diploma regulando a Secretaria-Geral do Ministério das Finanças como serviço administrativo independente, as despesas atribuídas desde já ao mesmo serviço serão satisfeitas por conta das dotações inscritas no capítulo 6.º do orçamento do Ministério das Finanças.
 
-###### Art. 23.º À Fundação Ricardo Espírito Santo Silva, aproveitando os seus técnicos e as suas oficinas da especialidade, serão atribuídas, enquanto não se publicar regulamento pela Direcção-Geral da Fazenda Pública, sob a superintendência desta, as funções previstas no artigo 14.º da [Lei n.º 2067](https://diariodarepublica.pt/dr/detalhe/lei/2067-1953-649973), de 28 de Dezembro de 1953.
+Art. 23.º À Fundação Ricardo Espírito Santo Silva, aproveitando os seus técnicos e as suas oficinas da especialidade, serão atribuídas, enquanto não se publicar regulamento pela Direcção-Geral da Fazenda Pública, sob a superintendência desta, as funções previstas no artigo 14.º da [Lei n.º 2067](https://diariodarepublica.pt/dr/detalhe/lei/2067-1953-649973), de 28 de Dezembro de 1953.
 
-###### Art. 24.º A dotação global para aplicação em artigos de expediente das repartições de finanças, descrita na alínea 1 do n.º 3) do artigo 133.º, capítulo 10.º, do orçamento do Ministério das Finanças para 1965, terá a distribuição, para os efeitos do artigo 1.º do [Decreto-Lei n.º 36733](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36733-1948-153352), de 23 de Janeiro de 1948, que lhe for dada em plano aprovado pelo Ministro das Finanças.
+Art. 24.º A dotação global para aplicação em artigos de expediente das repartições de finanças, descrita na alínea 1 do n.º 3) do artigo 133.º, capítulo 10.º, do orçamento do Ministério das Finanças para 1965, terá a distribuição, para os efeitos do artigo 1.º do [Decreto-Lei n.º 36733](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36733-1948-153352), de 23 de Janeiro de 1948, que lhe for dada em plano aprovado pelo Ministro das Finanças.
 
-###### Art. 25.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba de «Despesas de anos económicos findos», descrita no orçamento do Ministério das Finanças para o ano de 1965, os encargos respeitantes a anos económicos findos, provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
+Art. 25.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer, de conta da verba de «Despesas de anos económicos findos», descrita no orçamento do Ministério das Finanças para o ano de 1965, os encargos respeitantes a anos económicos findos, provenientes de pensões de classes inactivas, de comissões pela venda de valores selados e de emolumentos pela cobrança do imposto sucessório e da sisa.
 
-###### Art. 26.º No ano económico de 1965, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pela dotação inscrita no capítulo 4.º, artigo 188.º, n.º 1), do orçamento do Ministério da Justiça, nos termos do regulamento aprovado pelo [Decreto n.º 7378](https://diariodarepublica.pt/dr/detalhe/decreto/7378-1921-362119), de 4 de Março de 1921.
+Art. 26.º No ano económico de 1965, enquanto não estiverem concluídas as construções de novos edifícios dos serviços dependentes do Ministério da Justiça, serão as despesas com a sustentação de reclusos que trabalhem nas respectivas obras custeadas pela dotação inscrita no capítulo 4.º, artigo 188.º, n.º 1), do orçamento do Ministério da Justiça, nos termos do regulamento aprovado pelo [Decreto n.º 7378](https://diariodarepublica.pt/dr/detalhe/decreto/7378-1921-362119), de 4 de Março de 1921.
 
-###### Art. 27.º É mantido em vigor no ano económico de 1965 o [Decreto-Lei n.º 32933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32933-1943-399007), de 28 de Julho de 1943, abonando-se as compensações nele previstas por conta das disponibilidades existentes nas dotações das verbas de representação e residência e das verbas de previsão inscritas no orçamento para o mesmo fim.
+Art. 27.º É mantido em vigor no ano económico de 1965 o [Decreto-Lei n.º 32933](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32933-1943-399007), de 28 de Julho de 1943, abonando-se as compensações nele previstas por conta das disponibilidades existentes nas dotações das verbas de representação e residência e das verbas de previsão inscritas no orçamento para o mesmo fim.
 
-###### Art. 28.º Continua suspenso no ano económico de 1965 o subsídio que se concedia à Companhia Nacional de Navegação, nos termos do [Decreto n.º 12438](https://diariodarepublica.pt/dr/detalhe/decreto/12438-1926-159332), de 7 de Outubro de 1926.
+Art. 28.º Continua suspenso no ano económico de 1965 o subsídio que se concedia à Companhia Nacional de Navegação, nos termos do [Decreto n.º 12438](https://diariodarepublica.pt/dr/detalhe/decreto/12438-1926-159332), de 7 de Outubro de 1926.
 
-###### Art. 29.º Na utilização da verba inscrita no n.º 4) do artigo 9.º, capítulo 1.º, do orçamento do Ministério do Ultramar são aplicáveis as normas contidas nos artigos 3.º a 6.º do [Decreto-Lei n.º 39642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39642-1954-635180), de 10 de Maio de 1954.
+Art. 29.º Na utilização da verba inscrita no n.º 4) do artigo 9.º, capítulo 1.º, do orçamento do Ministério do Ultramar são aplicáveis as normas contidas nos artigos 3.º a 6.º do [Decreto-Lei n.º 39642](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39642-1954-635180), de 10 de Maio de 1954.
 
-###### Art. 30.º A comparticipação da Faculdade de Medicina da Universidade de Lisboa nas despesas do Hospital de Santa Maria só se pode efectivar em face do plano de encargos aprovado pelos Ministros da Saúde e Assistência, das Finanças e da Educação Nacional.
+Art. 30.º A comparticipação da Faculdade de Medicina da Universidade de Lisboa nas despesas do Hospital de Santa Maria só se pode efectivar em face do plano de encargos aprovado pelos Ministros da Saúde e Assistência, das Finanças e da Educação Nacional.
 
-###### Art. 31.º Para ocorrer às despesas com a pequena conservação eventual e urgente dos edifícios das escolas e cantinas construídas ao abrigo do Plano dos Centenários e do plano de construções estabelecido pela [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, poderão ser autorizados fundos permanentes por importâncias superiores às do duodécimo da respectiva dotação inscrita no orçamento do Ministério da Educação Nacional.
+Art. 31.º Para ocorrer às despesas com a pequena conservação eventual e urgente dos edifícios das escolas e cantinas construídas ao abrigo do Plano dos Centenários e do plano de construções estabelecido pela [Lei n.º 2107](https://diariodarepublica.pt/dr/detalhe/lei/2107-1961-559043), de 5 de Abril de 1961, poderão ser autorizados fundos permanentes por importâncias superiores às do duodécimo da respectiva dotação inscrita no orçamento do Ministério da Educação Nacional.
 
-###### Art. 32.º A dotação do Plano Intercalar de Fomento inscrita no orçamento do Ministério da Educação Nacional para 1965 com consignação especial ao «Ensino e investigação - Fomento extraordinário das actividades pedagógicas, culturais e científicas» só pode ter aplicação de harmonia com plano aprovado pelos Ministros da Educação Nacional e das Finanças.
+Art. 32.º A dotação do Plano Intercalar de Fomento inscrita no orçamento do Ministério da Educação Nacional para 1965 com consignação especial ao «Ensino e investigação - Fomento extraordinário das actividades pedagógicas, culturais e científicas» só pode ter aplicação de harmonia com plano aprovado pelos Ministros da Educação Nacional e das Finanças.
 
 § único. Do plano constarão as estações processadoras da despesa e, depois de aprovado, serão remetidas cópias autênticas ao Tribunal de Contas e à 10.ª Repartição da Direcção-Geral da Contabilidade Pública.
 
-###### Art. 33.º No ano de 1965 poderá o Ministro das Finanças conceder à Direcção-Geral dos Serviços Pecuários e à Comissão dos Explosivos, por conta das verbas consignadas no n.º 1) do artigo 59.º, capítulo 5.º, e no n.º 1) do artigo 303.º, capítulo 19.º, do orçamento do Ministério da Economia, créditos permanentes até à importância de dois duodécimos.
+Art. 33.º No ano de 1965 poderá o Ministro das Finanças conceder à Direcção-Geral dos Serviços Pecuários e à Comissão dos Explosivos, por conta das verbas consignadas no n.º 1) do artigo 59.º, capítulo 5.º, e no n.º 1) do artigo 303.º, capítulo 19.º, do orçamento do Ministério da Economia, créditos permanentes até à importância de dois duodécimos.
 
-###### Art. 34.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer de conta da verba de «Combate à peste suína (estirpe L), incluindo indemnizações», descrita no capítulo 5.º, artigo 62.º, n.º 7), alínea 1, do orçamento do Ministério da Economia para 1965, os encargos respeitantes a anos económicos findos provenientes de indemnizações resultantes do combate à peste suína.
+Art. 34.º Fica o Ministro das Finanças autorizado, com dispensa do disposto na parte final do artigo 3.º do [Decreto-Lei n.º 24914](https://diariodarepublica.pt/dr/detalhe/decreto-lei/24914-1935-467659), de 10 de Janeiro de 1935, a mandar satisfazer de conta da verba de «Combate à peste suína (estirpe L), incluindo indemnizações», descrita no capítulo 5.º, artigo 62.º, n.º 7), alínea 1, do orçamento do Ministério da Economia para 1965, os encargos respeitantes a anos económicos findos provenientes de indemnizações resultantes do combate à peste suína.
 
-###### Art. 35.º As dotações globais consignadas aos tribunais do trabalho do continente no orçamento da despesa ordinária do Ministério das Corporações e Previdência Social, no ano de 1965, com excepção da relativa a remunerações certas ao pessoal em exercício, serão distribuídas mediante plano aprovado pelos Ministros das Finanças e das Corporações e Previdência Social e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
+Art. 35.º As dotações globais consignadas aos tribunais do trabalho do continente no orçamento da despesa ordinária do Ministério das Corporações e Previdência Social, no ano de 1965, com excepção da relativa a remunerações certas ao pessoal em exercício, serão distribuídas mediante plano aprovado pelos Ministros das Finanças e das Corporações e Previdência Social e aplicadas por cada um dos aludidos tribunais, sem observância do disposto no § 2.º do artigo 13.º do Decreto com força de lei n.º 18381, de 24 de Maio de 1930.
 
 § único. O cabimento nos diplomas de provimento de magistrados e funcionários de justiça dos mencionados tribunais será prestado pela Inspecção-Geral dos Tribunais do Trabalho.
 
-###### Art. 36.º Este decreto entra em vigor em 1 de Janeiro de 1965.
+Art. 36.º Este decreto entra em vigor em 1 de Janeiro de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia -Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.
 
@@ -712,13 +861,13 @@ N.º 1
 
 Mapa da receita ordinária e extraordinária do Estado, na metrópole, para o ano económico de 1965, a que se refere o decreto desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 N.º 2
 
 Mapa da despesa ordinária e extraordinária do Estado, na metrópole, para o ano de 1965, a que se refere o decreto desta data
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf))](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/29801/18211900.pdf)
 
 Ministério das Finanças, 22 de Dezembro de 1964. - O Ministro das Finanças, António Manuel Pinto Barbosa.
 

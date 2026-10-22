@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47833-1967-313647
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de1affbb57a090a7b15cb92032f18de53443c0c765aeb305855ccab456a63f9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 067982ae76c2e4f8b82cd2aa0dc271362ecbd9215f7d88382b61012c26e6921d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:246827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537194:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:47Z'
   warnings: []
   errors: []
 ---
@@ -87,22 +95,22 @@ Tornando-se necessário definir e unificar o determinado no [Decreto n.º 45972]
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As nomeações dos sargentos para os cursos da Escola Central de Sargentos a que se referem as alíneas A) e B) do artigo 8.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, passam a ser feitas, em princípio, durante o mês de Janeiro anterior ao início dos referidos cursos.
+Artigo 1.º As nomeações dos sargentos para os cursos da Escola Central de Sargentos a que se referem as alíneas A) e B) do artigo 8.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, passam a ser feitas, em princípio, durante o mês de Janeiro anterior ao início dos referidos cursos.
 
-###### Art. 2.º Os sargentos que venham a ser nomeados para a frequência dos cursos citados no artigo 1.º e que se encontrem no ultramar ou já nomeados para unidades a destacar para o ultramar são libertos das respectivas comissões ou nomeações e postos em condições de estarem presentes na metrópole até 15 de Julho anterior ao início dos cursos, sendo aos primeiros dadas por findas as comissões militares.
+Art. 2.º Os sargentos que venham a ser nomeados para a frequência dos cursos citados no artigo 1.º e que se encontrem no ultramar ou já nomeados para unidades a destacar para o ultramar são libertos das respectivas comissões ou nomeações e postos em condições de estarem presentes na metrópole até 15 de Julho anterior ao início dos cursos, sendo aos primeiros dadas por findas as comissões militares.
 
 § único. Sempre que as circunstâncias o aconselharem, poderá, por despacho do Ministro do Exército, ser alterada a data limite em que algum ou alguns dos sargentos nomeados serão postos em condições de estarem presentes na metrópole.
 
-###### Art. 3.º Se houver impraticabilidade para algum ou alguns casos do que se determina no artigo anterior, os sargentos em causa, uma vez libertos, frequentarão os respectivos cursos da Escola Central de Sargentos e, no caso de aprovação final, serão promovidos a sargentos-ajudantes, se não o forem já, e intercalados conforme a classificação nos cursos a que deveriam pertencer, se os completarem em dois anos, ou no seguinte, se os completarem em três.
+Art. 3.º Se houver impraticabilidade para algum ou alguns casos do que se determina no artigo anterior, os sargentos em causa, uma vez libertos, frequentarão os respectivos cursos da Escola Central de Sargentos e, no caso de aprovação final, serão promovidos a sargentos-ajudantes, se não o forem já, e intercalados conforme a classificação nos cursos a que deveriam pertencer, se os completarem em dois anos, ou no seguinte, se os completarem em três.
 
 § único. Os primeiros-sargentos abrangidos pelo corpo deste artigo deverão ser graduados em sargentos-ajudantes na data em que lhes competiria a promoção a este posto se normalmente tivessem frequentado o respectivo curso. Em caso de reprovação, serão desgraduados.
 
-###### Art. 4.º Os limites de idade fixados nas alíneas b) dos n.os 1.º e 2.º do artigo 3.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, não terão aplicação aos primeiros-sargentos e sargentos-ajudantes abrangidos pelo artigo anterior, que devem regressar imediatamente à metrópole após o termo da comissão obrigatória no ultramar.
+Art. 4.º Os limites de idade fixados nas alíneas b) dos n.os 1.º e 2.º do artigo 3.º do [Decreto n.º 40423](https://diariodarepublica.pt/dr/detalhe/decreto/40423-1955-246827), de 6 de Dezembro de 1955, não terão aplicação aos primeiros-sargentos e sargentos-ajudantes abrangidos pelo artigo anterior, que devem regressar imediatamente à metrópole após o termo da comissão obrigatória no ultramar.
 
-###### Art. 5.º O determinado neste decreto tem aplicação para os sargentos já nomeados anteriormente para o curso de 1967-1968.
+Art. 5.º O determinado neste decreto tem aplicação para os sargentos já nomeados anteriormente para o curso de 1967-1968.
 
-###### Art. 6.º Fica revogado o [Decreto n.º 45972](https://diariodarepublica.pt/dr/detalhe/decreto/45972-1964-537194), de 17 de Outubro de 1964.
+Art. 6.º Fica revogado o [Decreto n.º 45972](https://diariodarepublica.pt/dr/detalhe/decreto/45972-1964-537194), de 17 de Outubro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.

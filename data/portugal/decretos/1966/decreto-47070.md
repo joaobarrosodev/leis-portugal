@@ -47,40 +47,126 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47070-1966-475085
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1992-11-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f4e633739caba78c8d0c811486f4d4aab089e4fa3e7774beed77ede741b1132
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf77c3f1aa614a38029c64549af07edd2027f53e3a0e92dcfddf235604cc0fd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Câmara Municipal
+- Carta de Condução
+- Código da Estrada
+- Condutor
+- Contravenção
+- Definição de Competências
+- Exame
+- Regime Jurídico
+- Sanção
+- Segurança Rodoviária
+- Veículo
 relationships:
 - type: amended_by
   target: pt:dre:596890:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:262672:por
+  label: "Alterado, a partir de 01.02.1969, o n.º 8 do art. 47.º do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai\
+    \ 1954, na redacção do presente diploma, pelo DEC LEI.48745.05.12.1968.MU, DG.IS [286] de 05.12.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/48745-1968-262672
+  date: '1968-12-05'
+- type: amended_by
+  target: pt:dre:502633:por
+  label: "Dada nova redacção aos nºs 1 e 3 do art. 47º e aos nºs 1 e 2 do art. 48º do Código da Estrada aprovado pelo Dec\
+    \ Lei 39672 de 20-Mai de 1954, com a redacção conferida no presente diploma, pelo DEC LEI.266/76.10.04.1976.MTC, DR.IS\
+    \ [86] de 10.04.1976\076\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1976-502633
+  date: '1976-04-10'
+- type: amended_by
+  target: pt:dre:601315:por
+  label: "Alterados, nos termos do art. 5.º, o n.º 1 do art. 20.º, os n.ºs 5 e 6 do art. 46.º, os n.ºs 2, 4, 5, 7 e 8 do art.\
+    \ 47.º, o art. 48.º, todos do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do presente\
+    \ diploma, pelo DR.4/82.15.01.1982.MHOPT, DR.IS [12] de 15.01.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1982-601315
+  date: '1982-01-15'
+- type: amended_by
+  target: pt:dre:375391:por
+  label: "Alterada a redacção, nos termos do art. 6.º, dos n.ºs 1 do art. 20.º, das als. a) e f) do n.º 1 do art. 46.º, do\
+    \ n.º 1 e 5 do art. 48.º, todos do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954, na redacção do presente\
+    \ diploma, pelo DR.65/82.28.09.1982.MHOPT, DR.IS [225] de 28.09.1982\02\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/65-1982-375391
+  date: '1982-09-28'
+- type: amended_by
+  target: pt:dre:575115:por
+  label: "Dada nova redacção ao art. 27º do Código da Estrada, aprovado pelo Dec Lei 39672 de 20-Mai 1954, alterado pelo presente\
+    \ diploma, pelo DEC LEI.194/90.18.06.1990.MOPTC, DR.IS [138] de 18.06.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/194-1990-575115
+  date: '1990-06-18'
+- type: amended_by
+  target: pt:dre:687812:por
+  label: "Alterados os artigos 46.º, 47º, 48º do Código da Estrada, aprovado pelo Dec Lei 39672 de 20-Mai1954, na redacção\
+    \ do presente diploma, pelo DEC LEI.268/91.06.08.1991.MOPTC, DR.IS-A [179] de 06.08.1991\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/268-1991-687812
+  date: '1991-08-06'
+- type: amended_by
+  target: pt:dre:596890:por
+  label: "Alterados os arts. 10.º, 27.º, 34.º, 47.º, 48.º, do Código da Estrada, aprovado pelo Dec Lei 39672, de 20-Mai 1954,\
+    \ , na redacção do presente diploma, pelo DEC LEI.270/92.30.11.1992.MAI, DR.IS-A [277] de 30.11.1992\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/270-1992-596890
+  date: '1992-11-30'
+- type: cites
+  target: pt:dre:193647:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:195588:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238844:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:318084:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:681817:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:332181:por
+  label: "Revogados os arts. 2º e 10º do presente diploma pelo DEC LEI.117/90.05.04.1990.MOPTC, DR.IS [80] de 05.04.1990\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/117-1990-332181
+  date: '1990-04-05'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:27Z'
   warnings: []
   errors: []
 ---
@@ -167,7 +253,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 6.º, 7.º, 10.º, 20.º, 26.º, 27.º, 34.º, 38.º, 43.º, 45.º, 46.º, 47.º, 48.º e 54.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 6.º, 7.º, 10.º, 20.º, 26.º, 27.º, 34.º, 38.º, 43.º, 45.º, 46.º, 47.º, 48.º e 54.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954, passam a ter a seguinte redacção:
 
 ###### ARTIGO 6.º — Sinais dos condutores
 
@@ -199,7 +285,7 @@ Considera-se excessiva a velocidade sempre que o condutor não possa fazer parar
 
 3. Os veículos automóveis, além das restrições constantes do número anterior e da alínea b) do n.º 1 do artigo 24.º, estão sujeitos aos limites máximos de velocidade instantânea a seguir indicados:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/07/15300/11921200.pdf))](https://files.diariodarepublica.pt/1s/1966/07/15300/11921200.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/07/15300/11921200.pdf)
 
 A velocidade dos veículos articulados e dos automóveis pesados de mercadorias e mistos com reboque será a que corresponder ao peso bruto do conjunto.
 
@@ -599,7 +685,7 @@ A contravenção do disposto neste número será punida com a multa de 200$00.
 
 7. Exceptuam-se do disposto neste artigo os velocípedes pertencentes às forças armadas ou militarizadas.
 
-###### Art. 2.º Os veículos com características de ciclomotores ficarão sujeitos ao seguinte regime:
+Art. 2.º Os veículos com características de ciclomotores ficarão sujeitos ao seguinte regime:
 
 1) Numa fase inicial são para todos os efeitos considerados velocípedes com motor;
 
@@ -607,15 +693,15 @@ A contravenção do disposto neste número será punida com a multa de 200$00.
 
 § único. As datas dos termos da fase inicial e do período de transição serão afixadas por portaria do Ministro das Comunicações, não podendo a primeira ser anterior a 31 de Agosto de 1967.
 
-###### Art. 3.º Se os respectivos proprietários assim o desejarem, os veículos a que se refere o artigo anterior poderão ser desde já matriculados como ciclomotores, ficando sujeitos a todas as disposições relativas a esta classe de veículos.
+Art. 3.º Se os respectivos proprietários assim o desejarem, os veículos a que se refere o artigo anterior poderão ser desde já matriculados como ciclomotores, ficando sujeitos a todas as disposições relativas a esta classe de veículos.
 
-###### Art. 4.º Os indivíduos titulares de uma licença de condução de velocípedes que pretendam conduzir ciclomotores deverão requerer, durante o período de transição, a troca da actual licença por uma carta de condução que os habilitará, a título precário, a conduzir aqueles veículos.
+Art. 4.º Os indivíduos titulares de uma licença de condução de velocípedes que pretendam conduzir ciclomotores deverão requerer, durante o período de transição, a troca da actual licença por uma carta de condução que os habilitará, a título precário, a conduzir aqueles veículos.
 
 Essa carta de condução será, no entanto, apreendida nos casos de infracção dos condutores que, no cruzamento com outros veículos, não diminuam a intensidade das luzes de modo a evitar o encadeamento, usem de velocidade excessiva ou pratiquem manobras perigosas, ficando o seu titular proibido de conduzir, de futuro, ciclomotores sem se encontrar habilitado com a respectiva carta de condução obtida nos termos do artigo 47.º
 
-###### Art. 5.º O Ministro das Comunicações fixará, em portaria, as condições a que deverão obedecer as operações a que se referem os artigos 2.º, 3.º e 4.º do presente diploma, estipulando, nomeadamente, os respectivos prazos, sanções e taxas.
+Art. 5.º O Ministro das Comunicações fixará, em portaria, as condições a que deverão obedecer as operações a que se referem os artigos 2.º, 3.º e 4.º do presente diploma, estipulando, nomeadamente, os respectivos prazos, sanções e taxas.
 
-###### Art. 6.º Para a admissão a exame de condução dos veículos a seguir discriminados são estabelecidos, transitòriamente, os seguintes limites de idade mínima:
+Art. 6.º Para a admissão a exame de condução dos veículos a seguir discriminados são estabelecidos, transitòriamente, os seguintes limites de idade mínima:
 
 a) Motociclos: 16 anos durante o ano de 1966 e 17 anos durante o ano de 1967;
 
@@ -623,15 +709,15 @@ b) Ciclomotores: 14 anos durante o ano de 1966 e 15 anos durante o ano de 1967;
 
 c) Velocípedes com motor: 14 anos durante os anos de 1966 e 1967 e 15 anos durante o ano de 1968.
 
-###### Art. 7.º O disposto na segunda parte do n.º 1 do artigo 54.º do Código da Estrada não se aplica às licenças de condução que tenham sido passadas pelas câmaras municipais até à data da entrada em vigor deste decreto.
+Art. 7.º O disposto na segunda parte do n.º 1 do artigo 54.º do Código da Estrada não se aplica às licenças de condução que tenham sido passadas pelas câmaras municipais até à data da entrada em vigor deste decreto.
 
-###### Art. 8.º O Ministro das Comunicações poderá determinar, em portaria, o uso obrigatório de capacete aos condutores de velocípedes com motor, ciclomotores e motociclos.
+Art. 8.º O Ministro das Comunicações poderá determinar, em portaria, o uso obrigatório de capacete aos condutores de velocípedes com motor, ciclomotores e motociclos.
 
-###### Art. 9.º Estas disposições entram em vigor na metrópole e ilhas adjacentes a partir de 1 de Setembro de 1966.
+Art. 9.º Estas disposições entram em vigor na metrópole e ilhas adjacentes a partir de 1 de Setembro de 1966.
 
-###### Art. 10.º O Ministro do Ultramar fixará a data da entrada em vigor das presentes disposições nas diversas províncias ultramarinas e bem assim as adaptações julgadas convenientes a cada uma delas.
+Art. 10.º O Ministro do Ultramar fixará a data da entrada em vigor das presentes disposições nas diversas províncias ultramarinas e bem assim as adaptações julgadas convenientes a cada uma delas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Julho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha - Carlos Gomes da Silva Ribeiro.
 

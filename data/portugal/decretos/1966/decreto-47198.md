@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47198-1966-480505
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4dcf0062bb8faad96fac0d597387b61e73cc80f6124952d729de6d7050541f08
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a618da7a63d3492b5c8c65668d3ad785cf0ef476b0174fe18bcc41b560d58e0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:292539:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:22Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +96,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os actuais regentes de trabalho e regentes de internato em serviço na Escola de Regentes Agrícolas do Dr. Francisco Machado, do Tchivinguiro, na província de Angola, mantêm os direitos e regalias que usufruíam anteriormente à publicação do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
+Artigo 1.º Os actuais regentes de trabalho e regentes de internato em serviço na Escola de Regentes Agrícolas do Dr. Francisco Machado, do Tchivinguiro, na província de Angola, mantêm os direitos e regalias que usufruíam anteriormente à publicação do [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539), de 31 de Julho de 1965.
 
-###### Art. 2.º A alínea b) do mapa a que se refere o n.º 1 do artigo 9.º do citado [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539) não abrange os professores técnicos adjuntos do ensino agrícola, cujo recrutamento será feito nos termos do Regulamento das Escolas Práticas de Agricultura.
+Art. 2.º A alínea b) do mapa a que se refere o n.º 1 do artigo 9.º do citado [Decreto n.º 46464](https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539) não abrange os professores técnicos adjuntos do ensino agrícola, cujo recrutamento será feito nos termos do Regulamento das Escolas Práticas de Agricultura.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47701-1967-313223
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acb3184d7300a0d0a1c17279b12384b0641cd66fe9aee1831c6dc017f8c972aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4c02397552e25660fd6713a16a69e953b5447054504a1bdb55820db2aca3229e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:669494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:40Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Convindo introduzir certas inovações no regime constante dos artigos 95.º e 9
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 95.º e 97.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, passam a ter a seguinte redacção:
+Artigo único. Os artigos 95.º e 97.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, passam a ter a seguinte redacção:
 
-###### Art. 95.º A admissão aos exames, com excepção dos actos de doutoramento e de licenciatura e com ressalva do preceituado no § 3.º deste artigo, não depende de apresentação de requerimento.
+Art. 95.º A admissão aos exames, com excepção dos actos de doutoramento e de licenciatura e com ressalva do preceituado no § 3.º deste artigo, não depende de apresentação de requerimento.
 
 § 1.º Os directores das Faculdades e escolas poderão, quando nisso houver conveniência para o serviço, exigir dos alunos que declarem, dentro de prazos determinados, quais os exames que se propõem realizar em cada chamada.
 
@@ -101,10 +105,10 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 97.º A admissão aos actos de doutoramento e de licenciatura será requerida ao reitor.
+Art. 97.º A admissão aos actos de doutoramento e de licenciatura será requerida ao reitor.
 
 § único. Os candidatos que não requeiram a admissão dentro dos prazos para isso estabelecidos serão autorizados a fazê-lo, mediante a propina de 250$00, sem prejuízo da realização das provas nos períodos fixados por lei.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Inocêncio Galvão Teles.

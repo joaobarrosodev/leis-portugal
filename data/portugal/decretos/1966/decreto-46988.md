@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46988-1966-475884
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b9824ea462214b5cc2dfefbb12f5b95654a230d3c67121d8b3f086b250df17fd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e86473e95161011c22854c9cd42004e717efed397a45d66c7a721a14cd89c4f6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:42Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +94,13 @@ Considerando a urgência da operação e visto o disposto no § 1.º do artigo 1
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o governador-geral de Moçambique a prestar, em nome da província, contragarantia até ao montante de 280000 contos ao aval a conceder por bancos nacionais, em conjunto ou separadamente, a uma operação de crédito a contrair no estrangeiro pela sociedade Açucareira de Moçambique, S. A. R. L.
+Artigo 1.º - 1. É autorizado o governador-geral de Moçambique a prestar, em nome da província, contragarantia até ao montante de 280000 contos ao aval a conceder por bancos nacionais, em conjunto ou separadamente, a uma operação de crédito a contrair no estrangeiro pela sociedade Açucareira de Moçambique, S. A. R. L.
 
 2. A sociedade deve ter realizado até 20 por cento, pelo menos, do seu capital social à data da prestação desta garantia e submeterá a aprovação do Governo os termos da operação de crédito a contrair.
 
-###### Art. 2.º Enquanto a operação se não concretizar, a garantia da província de Moçambique abrangerá quaisquer antecipações que, por conta da mesma, qualquer dos bancos fizer à sociedade beneficiária, com aprovação expressa do Governo-Geral da província.
+Art. 2.º Enquanto a operação se não concretizar, a garantia da província de Moçambique abrangerá quaisquer antecipações que, por conta da mesma, qualquer dos bancos fizer à sociedade beneficiária, com aprovação expressa do Governo-Geral da província.
 
-###### Art. 3.º - 1. A sociedade Açucareira de Moçambique, S. A. R. L., obriga-se a elevar o capital social de 65000 contos para 100000 contos, logo que o Governo o entenda conveniente.
+Art. 3.º - 1. A sociedade Açucareira de Moçambique, S. A. R. L., obriga-se a elevar o capital social de 65000 contos para 100000 contos, logo que o Governo o entenda conveniente.
 
 2. Ponderadas as condições do mercado de capitais, o Governo poderá determinar à sociedade a realização de novos aumentos de capital.
 
@@ -108,19 +108,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. A parte das acções representativas dos aumentos de capital a que nos termos do numero anterior a província tem direito ser-lhe-á entregue à medida que os referidos aumentos se forem efectuando.
 
-###### Art. 4.º - 1. O Governo, ou a instituição financeira que por este for designada, poderá nomear um ou dois membros do conselho de administração da sociedade, consoante o número destes for, respectivamente, de cinco ou sete membros.
+Art. 4.º - 1. O Governo, ou a instituição financeira que por este for designada, poderá nomear um ou dois membros do conselho de administração da sociedade, consoante o número destes for, respectivamente, de cinco ou sete membros.
 
 2. Independentemente das funções especiais que lhes cabem por lei, os administradores designados directa ou indirectamente pelo Governo terão os mesmos direitos e obrigações que os administradores eleitos pela sociedade.
 
 3. O delegado do Governo junto da sociedade poderá tomar conhecimento directo da contabilidade, documentos e quaisquer outros elementos que repute necessários a uma conveniente fiscalização, designadamente no que se refere à escolha dos equipamentos e à sua aquisição em condições competitivas.
 
-###### Art. 5.º - 1. A sociedade Açucareira de Moçambique, S. A. R. L., deverá utilizar de preferência os serviços das indústrias nacionais construtoras de bens de equipamento sempre que, nos termos do contrato de financiamento que vier a contrair, não seja obrigatório o recurso ao estrangeiro, e na medida em que aquelas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas, a preços adequados e dentro dos prazos necessários ao cumprimento dos planos fixados.
+Art. 5.º - 1. A sociedade Açucareira de Moçambique, S. A. R. L., deverá utilizar de preferência os serviços das indústrias nacionais construtoras de bens de equipamento sempre que, nos termos do contrato de financiamento que vier a contrair, não seja obrigatório o recurso ao estrangeiro, e na medida em que aquelas disponham de capacidade livre e possam efectuar os fornecimentos com as características qualitativas exigidas, a preços adequados e dentro dos prazos necessários ao cumprimento dos planos fixados.
 
 2. A sociedade utilizará no transporte do equipamento que tiver de ser importado e nas condições referidas no número anterior a capacidade disponível dos meios de transporte nacionais.
 
-###### Art. 6.º Além das garantias que vierem a ser estipuladas, a província de Moçambique goza, sobre todos os bens da sociedade, quando remissa no cumprimento das suas obrigações, de privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que efectivamente tiver despendido para satisfação da garantia prestada pelo presente decreto.
+Art. 6.º Além das garantias que vierem a ser estipuladas, a província de Moçambique goza, sobre todos os bens da sociedade, quando remissa no cumprimento das suas obrigações, de privilégio creditório, nos termos do artigo 878.º do Código Civil, pelas quantias que efectivamente tiver despendido para satisfação da garantia prestada pelo presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

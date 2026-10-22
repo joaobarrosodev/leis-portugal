@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47662-1967-310209
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d786edfc614c597aa0e52756cdbf42f03098abd751a96217785016b0a6750a11
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4689c0e766e414e3fb562fa362c7836f7649ba4179c10a656a8721e9d4bebfaa
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:22Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +96,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No âmbito dos planos de fomento da acção educativa ou independentemente de tais planos, cabe à Direcção-Geral do Ensino Técnico Profissional organizar cursos especiais, cuja duração não excederá normalmente um ano escolar, com o fim de completar a formação técnica dos candidatos a mestres das oficinas escolares e de orientá-los, mediante estágio pedagógico, para a actividade docente.
+Artigo 1.º No âmbito dos planos de fomento da acção educativa ou independentemente de tais planos, cabe à Direcção-Geral do Ensino Técnico Profissional organizar cursos especiais, cuja duração não excederá normalmente um ano escolar, com o fim de completar a formação técnica dos candidatos a mestres das oficinas escolares e de orientá-los, mediante estágio pedagógico, para a actividade docente.
 
-###### Art. 2.º A constituição e demais condições de funcionamento de cada curso ficam sujeitas à aprovação do Ministro da Educação Nacional, que fixará também, com o acordo do Ministro das Finanças, os termos em que será remunerado o serviço docente a que o mesmo der lugar.
+Art. 2.º A constituição e demais condições de funcionamento de cada curso ficam sujeitas à aprovação do Ministro da Educação Nacional, que fixará também, com o acordo do Ministro das Finanças, os termos em que será remunerado o serviço docente a que o mesmo der lugar.
 
-###### Art. 3.º - 1. Os candidatos a admitir em cada curso são propostos pelos directores das escolas que tenham frequentado ou onde tenham prestado serviço de entre aqueles que, encontrando-se habilitados com um curso técnico que compreenda a oficina a reger, hajam revelado propensão para a actividade docente. Se o número de propostas exceder o dos candidatos a admitir, gozam de preferência os que hajam obtido melhor classificação no exame de aptidão profissional e, no caso de igualdade de classificação, os mais velhos.
+Art. 3.º - 1. Os candidatos a admitir em cada curso são propostos pelos directores das escolas que tenham frequentado ou onde tenham prestado serviço de entre aqueles que, encontrando-se habilitados com um curso técnico que compreenda a oficina a reger, hajam revelado propensão para a actividade docente. Se o número de propostas exceder o dos candidatos a admitir, gozam de preferência os que hajam obtido melhor classificação no exame de aptidão profissional e, no caso de igualdade de classificação, os mais velhos.
 
 2. A admissão envolve a colocação do candidato como contramestre ou auxiliar provisório na escola onde funcionar o curso, com o direito de receber, durante a frequência, um subsídio igual à remuneração legalmente fixada para a categoria, cumprindo-lhe realizar os trabalhos e desempenhar os serviços escolares que interessem à sua formação profissional e lhes sejam superiormente determinados.
 
@@ -104,18 +108,18 @@ Usando da faculdade conferida pelo 3.º do artigo 109.º da Constituição, o Go
 
 4. O subsídio a que se refere o n.º 2 deste artigo será abonado por conta da verba inscrita no orçamento para pessoal contratado não pertencente aos quadros das escolas industriais e comerciais.
 
-###### Art. 4.º - 1. O aproveitamento obtido nos cursos de habilitação para mestres será classificado, considerando-se aptos para o magistério os candidatos que obtenham classificação final não inferior a 10 valores.
+Art. 4.º - 1. O aproveitamento obtido nos cursos de habilitação para mestres será classificado, considerando-se aptos para o magistério os candidatos que obtenham classificação final não inferior a 10 valores.
 
 2. Por decisão dos professores e mestres que tenham a seu cargo a orientação das actividades de cada curso, tomada em conselho, podem ser excluídos da frequência em qualquer momento os candidatos que não demonstrem aproveitamento suficiente.
 
-###### Art. 5.º Nenhum candidato pode repetir a frequência do mesmo curso nas condições previstas nos n.os 2 e 3 do artigo 3.º, salvo se for forçado a interrompê-la por motivo de prestação de serviço militar obrigatório ou de doença, devidamente verificada.
+Art. 5.º Nenhum candidato pode repetir a frequência do mesmo curso nas condições previstas nos n.os 2 e 3 do artigo 3.º, salvo se for forçado a interrompê-la por motivo de prestação de serviço militar obrigatório ou de doença, devidamente verificada.
 
-###### Art. 6.º As classificações finais dos candidatos dados como aptos, que serão publicadas no Diário do Governo, têm valor igual às obtidas nos concursos de habilitação para mestres, previstos no [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
+Art. 6.º As classificações finais dos candidatos dados como aptos, que serão publicadas no Diário do Governo, têm valor igual às obtidas nos concursos de habilitação para mestres, previstos no [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948.
 
-###### Art. 7.º - 1. A admissão à frequência envolve, para os candidatos, a obrigação de, após a conclusão do curso, aceitarem a colocação, como contratados, nos lugares vagos de mestre, contramestre ou auxiliar da correspondente oficina dos estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional e de se manterem no serviço durante cinco anos.
+Art. 7.º - 1. A admissão à frequência envolve, para os candidatos, a obrigação de, após a conclusão do curso, aceitarem a colocação, como contratados, nos lugares vagos de mestre, contramestre ou auxiliar da correspondente oficina dos estabelecimentos dependentes da Direcção-Geral do Ensino Técnico Profissional e de se manterem no serviço durante cinco anos.
 
 2. Se o candidato abandonar a frequência, se recusar a celebrar o contrato, não aceitar o serviço ou o abandonar antes de decorrido o prazo a que se refere o número anterior, indemnizará obrigatòriamente o Estado da totalidade do subsídio recebido, salvo motivo de comprovada força maior, como tal reconhecido por despacho ministerial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Inocêncio Galvão Teles.

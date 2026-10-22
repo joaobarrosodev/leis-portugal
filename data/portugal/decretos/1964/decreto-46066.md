@@ -28,7 +28,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1964/12/28600/17001724.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -50,40 +50,116 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-11-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ac96ccb85ced4b50b81599f804a8058d0c29ac4cfa968d1f532af2ae07026ad4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7af55d61916cbc507c75077e5821d7348d76a065901f3c29e17f6137c461165c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Licenciamento
+- Regulamento de Transportes em Automóveis
+- Transporte de Carga
+- Transporte de Mercadorias
 relationships:
 - type: amended_by
   target: pt:dre:533823:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140998:por
+  label: "Alterados o § único do art. 51º e art. 53º pelo DEC.290/70.24.06.1970.MCOMN, DG.IS [145] de 24.06.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/290-1970-140998
+  date: '1970-06-24'
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções previstas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA, DG.IS [294] de\
+    \ 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:1945608:por
+  label: "D ALTERADOS O ART 29, O PARAG UNICO DO ART 51 E O ART 53 PELO DEC LEI 128/75 DE 13-MAR 1975 DG.IS [61]O\01]O\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1975-03-13'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterados os montantes das multas referidos nos arts. 64º, 66º, 67º, 70º, 72º, 73º, 74º e 75º; alterada a redacção\
+    \ dos arts. 76º e 82º, pelo DEC LEI.186/82.1982.05.15.MHOPT, DR.IS [110]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: amended_by
+  target: pt:dre:375263:por
+  label: "Alterados os arts. 2º, 3º, 4º, 7º, 82º e revogado o § único do art. 5º e os arts. 16º e 91º, pelo DR.64/82.1982.09.27.MHOPT,\
+    \ DR.IS [224]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/64-1982-375263
+  date: '1982-09-27'
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416663:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:424684:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514819:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536212:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:616203:por
+  label: "Revogados os arts. 24º e 73º pelo DR.19/91.1991.04.13.MOPTC, DR.IS-B [86]\06]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/19-1991-616203
+  date: '1991-04-13'
+- type: repealed_by
+  target: pt:dre:250664:por
+  label: "Revogado o § único do art. 6º, os arts. 14º, 15º, 21º e 29º a 39º, o § único do art. 40º, os arts. 41º, 44º, 45º,\
+    \ 47º a 63º e 89º, pelo DEC LEI.116/94.1994.05.03.MF, DR.IS-A [102]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/116-1994-250664
+  date: '1994-05-03'
+- type: repealed_by
+  target: pt:dre:533823:por
+  label: "Revogado pelo DEC LEI.285/94.1994.11.11.MOPTC, DR.IS-A [261]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/285-1994-533823
+  date: '1994-11-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:20Z'
   warnings: []
   errors: []
 ---
@@ -130,11 +206,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Regras gerais de licenciamento
 
-###### Artigo 1.º Consideram-se afectos ao transporte particular de mercadorias, para efeitos do disposto no artigo 1.º e § 4.º do artigo 2.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, os veículos automóveis de carga ou mistos e seus reboques, matriculados para serviço particular.
+Artigo 1.º Consideram-se afectos ao transporte particular de mercadorias, para efeitos do disposto no artigo 1.º e § 4.º do artigo 2.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, os veículos automóveis de carga ou mistos e seus reboques, matriculados para serviço particular.
 
 § único. É permitido aos transportadores públicos de mercadorias efectuar, nos veículos que tenham licenciados para transportes em regime de aluguer ou colectivos, o transporte particular das que forem propriedade sua, dentro do raio do círculo de aluguer ou nas condições de exploração das carreiras concedidas.
 
-###### Art. 2.º As licenças para a circulação dos veículos afectos a transportes particulares de mercadorias serão requeridas ao director-geral de Transportes Terrestres, com indicação das seguintes menções:
+Art. 2.º As licenças para a circulação dos veículos afectos a transportes particulares de mercadorias serão requeridas ao director-geral de Transportes Terrestres, com indicação das seguintes menções:
 
 1) Nome e residência ou sede do requerente, com indicação do concelho e distrito, e, sendo entidade colectiva, nome e residência do seu representante legal;
 
@@ -150,7 +226,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º As licenças deverão ser passadas pela mesma Direcção-Geral, dentro de 30 dias, a contar da data do registo de entrada dos respectivos requerimentos.
 
-###### Art. 3.º Das licenças de circulação constarão:
+Art. 3.º Das licenças de circulação constarão:
 
 1) Nome do proprietário do veículo e sua residência ou sede;
 
@@ -162,7 +238,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § único. As particulares menções que devem constar das licenças especiais autónomas ou dos títulos anexos às licenças gerais de circulação serão definidas em disposições regulamentares internas.
 
-###### Art. 4.º Determinam a passagem de nova licença:
+Art. 4.º Determinam a passagem de nova licença:
 
 a) O exercício de nova actividade económica para que se pretenda a afectação, a título dominante, do veículo;
 
@@ -178,17 +254,17 @@ d) A alteração de outro qualquer facto constante da licença de circulação.
 
 § 3.º Nos casos de transferência de centro, os respectivos requerimentos deverão ser acompanhados de elementos documentais comprovativos de que o proprietário do veículo passou a exercer na nova localidade, ou nela exerce também, qualquer outra actividade económica a que pretenda afectar dominantemente a normal exploração do veículo.
 
-###### Art. 5.º A entrega da nova licença aos interessados será feita em troca da licença anterior.
+Art. 5.º A entrega da nova licença aos interessados será feita em troca da licença anterior.
 
 § único. Nos requerimentos a que alude o § 2.º do artigo anterior deverão os interessados indicar o serviço oficial onde, por razões de sua maior conveniência, pretendem que a troca se efectue.
 
-###### Art. 6.º Os condutores de veículos automóveis afectos ao transporte particular de mercadorias são obrigados a apresentar, sempre que competentemente lhes sejam exigidas, as respectivas licenças e títulos anexos, se os houver, bem como documentos comprovativos de haverem sido pagos os impostos de circulação e compensação, quando devidos.
+Art. 6.º Os condutores de veículos automóveis afectos ao transporte particular de mercadorias são obrigados a apresentar, sempre que competentemente lhes sejam exigidas, as respectivas licenças e títulos anexos, se os houver, bem como documentos comprovativos de haverem sido pagos os impostos de circulação e compensação, quando devidos.
 
 § único. Quanto aos veículos a que se refere o artigo 36.º do presente regulamento, o pagamento do correspondente imposto de circulação comprovar-se-á pela licença de trânsito em carga.
 
 ### CAPÍTULO II — Regras especiais de licenciamento
 
-###### Art. 7.º Estão sujeitos a condições especiais de licenciamento os transportes particulares que taxativamente a seguir se enumeram:
+Art. 7.º Estão sujeitos a condições especiais de licenciamento os transportes particulares que taxativamente a seguir se enumeram:
 
 a) Aqueles em que devam acautelar-se graves riscos para a segurança de quaisquer pessoas ou bens;
 
@@ -206,7 +282,7 @@ g) Os que se efectuem em veículos que excedam os limites de peso, pressão sobr
 
 § único. Com excepção dos casos que neste regulamento determinam a passagem de licenças especiais autónomas, as condições especiais de licenciamento constarão de título anexo à licença geral de circulação.
 
-###### Art. 8.º São pontos determinantes das cláusulas de condicionamento das licenças de circulação a que se refere o § 2.º do artigo 2.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852):
+Art. 8.º São pontos determinantes das cláusulas de condicionamento das licenças de circulação a que se refere o § 2.º do artigo 2.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852):
 
 a) O veículo e a mercadoria em si mesmos;
 
@@ -216,29 +292,29 @@ c) Os períodos de circulação.
 
 § único. As normas disciplinadoras das cláusulas a impor, assim como a enumeração taxativa das mercadorias perigosas para efeitos do estatuído no n.º 1) do § 1.º do mesmo artigo, serão estabelecidas em ulteriores disposições regulamentares.
 
-###### Art. 9.º O regime especial de licenciamento a que se refere o § 2.º do artigo 3.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) abrange os veículos dos empreiteiros de obras públicas das categorias e classes enumeradas em portaria do Ministro das Comunicações, quando afectos exclusivamente a transportes de equipamento e materiais de construção estritamente necessários à realização das obras a seu cargo.
+Art. 9.º O regime especial de licenciamento a que se refere o § 2.º do artigo 3.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) abrange os veículos dos empreiteiros de obras públicas das categorias e classes enumeradas em portaria do Ministro das Comunicações, quando afectos exclusivamente a transportes de equipamento e materiais de construção estritamente necessários à realização das obras a seu cargo.
 
 § único. Uma vez legalmente instituídas categorias e classes de industriais de construção civil, serão semelhantemente enumeradas, também em portaria do Ministro das Comunicações, as que de entre elas poderão beneficiar do especial regime referido no corpo deste artigo.
 
-###### Art. 10.º Os empreiteiros de obras públicas e industriais de construção civil que pretendam beneficiar do regime especial de licenciamento consagrado no artigo anterior deverão comprovar estarem inscritos como tal no Ministério das Obras Públicas.
+Art. 10.º Os empreiteiros de obras públicas e industriais de construção civil que pretendam beneficiar do regime especial de licenciamento consagrado no artigo anterior deverão comprovar estarem inscritos como tal no Ministério das Obras Públicas.
 
-###### Art. 11.º Os empreiteiros e industriais, atrás referidos, deverão indicar à Direcção-Geral de Transportes Terrestres, nos primeiros quinze dias de cada trimestre, as obras que trazem em curso.
+Art. 11.º Os empreiteiros e industriais, atrás referidos, deverão indicar à Direcção-Geral de Transportes Terrestres, nos primeiros quinze dias de cada trimestre, as obras que trazem em curso.
 
 § 1.º Todas as obras que de novo tomarem a seu cargo deverão ser participadas à mesma Direcção-Geral e perante ela comprovadas por documento autêntico oficial no prazo de quinze dias, a contar da data do contrato da empreitada.
 
 § 2.º Concluídas as obras contratadas, deverão ser devolvidos, no prazo de quinze dias, a contar dessa conclusão, os certificados mencionados no § 1.º do artigo 12.º
 
-###### Art. 12.º Para poderem beneficiar do especial regime de licenciamento a seu favor criado deverão os mesmos empreiteiros e industriais indicar à Direcção-Geral de Transportes Terrestres, sempre que lhe participem obras novas, quais os veículos que possìvelmente serão afectos às mesmas obras.
+Art. 12.º Para poderem beneficiar do especial regime de licenciamento a seu favor criado deverão os mesmos empreiteiros e industriais indicar à Direcção-Geral de Transportes Terrestres, sempre que lhe participem obras novas, quais os veículos que possìvelmente serão afectos às mesmas obras.
 
 § 1.º Com base nesta indicação, ser-lhes-ão passados certificados de áreas de circulação, um por cada veículo, para que estes possam circular devidamente documentados nessas áreas.
 
 § 2.º Estes documentos deverão acompanhar os veículos a que se referem logo que estes se integrem na nova obra em execução.
 
-###### Art. 13.º Sempre que tomem a seu cargo obras que em razão da sua natureza hajam de prolongar-se territorialmente na sua execução, deverão comunicar à Direcção-Geral de Transportes Terrestres as localidades que sucessiva ou simultâneamente, conforme os casos e a natureza das obras, tiverem de funcionar como centros das áreas de circulação.
+Art. 13.º Sempre que tomem a seu cargo obras que em razão da sua natureza hajam de prolongar-se territorialmente na sua execução, deverão comunicar à Direcção-Geral de Transportes Terrestres as localidades que sucessiva ou simultâneamente, conforme os casos e a natureza das obras, tiverem de funcionar como centros das áreas de circulação.
 
 § único. Para o efeito da utilização das novas áreas serão passados certificados nos termos do § 1.º do artigo anterior.
 
-###### Art. 14.º Os transportes realizados por empreiteiros de obras públicas ou industriais da construção civil em veículos de sua propriedade e exclusivamente afectos à execução de obras contratadas, quando tiverem de exceder as áreas circulares de 50 km de raio com centro nas localidades onde se situam as obras a executar e para o efeito especial da isenção do pagamento do imposto correspondente ao excesso de percurso, carecem de especial autorização da Direcção-Geral de Transportes Terrestres, que deverá constar de título anexo à licença de circulação.
+Art. 14.º Os transportes realizados por empreiteiros de obras públicas ou industriais da construção civil em veículos de sua propriedade e exclusivamente afectos à execução de obras contratadas, quando tiverem de exceder as áreas circulares de 50 km de raio com centro nas localidades onde se situam as obras a executar e para o efeito especial da isenção do pagamento do imposto correspondente ao excesso de percurso, carecem de especial autorização da Direcção-Geral de Transportes Terrestres, que deverá constar de título anexo à licença de circulação.
 
 § único. No requerimento a pedir essa autorização deverão mencionar-se:
 
@@ -252,7 +328,7 @@ c) Os períodos de circulação.
 
 5) Razões de custo ou de eficiência dos trabalhos em curso justificativas da não utilização dos transportes públicos ou da sua inadequação, aferidas em relação aos percursos totais a efectuar e às possíveis combinações de meios de transporte que se oferecem.
 
-###### Art. 15.º A autorização referida no artigo 7.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) será concedida em título anexo à licença de circulação.
+Art. 15.º A autorização referida no artigo 7.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) será concedida em título anexo à licença de circulação.
 
 § 1.º O requerimento em que for pedida mencionará:
 
@@ -270,11 +346,11 @@ c) Os períodos de circulação.
 
 3) Intensidade ou rapidez das circulações ferroviárias ou ainda melhores condições técnicas no equipamento circulante normalmente utilizado na via ferroviária preferida.
 
-###### Art. 16.º As licenças especiais de circulação dos veículos particulares de mercadorias isentos do correspondente imposto permitirão que transitem sem limite de raio e vinculação a qualquer localidade-centro.
+Art. 16.º As licenças especiais de circulação dos veículos particulares de mercadorias isentos do correspondente imposto permitirão que transitem sem limite de raio e vinculação a qualquer localidade-centro.
 
-###### Art. 17.º Consideram-se transportes de produtos agrícolas ou directamente ligados à exploração agrícola, para todos os efeitos do presente diploma, os que se realizem em veículos pertencentes a empresários agrícolas, por causa e em complemento de uma actividade agrícola principal, de produtos ou mercadorias directamente ligados à gestão agrícola ou dela provenientes, quer em natureza, quer por transformação operada em grau imediato na própria exploração ou em oficinas tecnológicas a que vantajosamente deva recorrer-se, por razões de maior economia, quando de terceiros.
+Art. 17.º Consideram-se transportes de produtos agrícolas ou directamente ligados à exploração agrícola, para todos os efeitos do presente diploma, os que se realizem em veículos pertencentes a empresários agrícolas, por causa e em complemento de uma actividade agrícola principal, de produtos ou mercadorias directamente ligados à gestão agrícola ou dela provenientes, quer em natureza, quer por transformação operada em grau imediato na própria exploração ou em oficinas tecnológicas a que vantajosamente deva recorrer-se, por razões de maior economia, quando de terceiros.
 
-###### Art. 18.º Conforme o que fica estabelecido no artigo anterior, são produtos agrícolas ou destinados à exploração agrícola, entre outros, os seguintes:
+Art. 18.º Conforme o que fica estabelecido no artigo anterior, são produtos agrícolas ou destinados à exploração agrícola, entre outros, os seguintes:
 
 a) Sementes, plantas, fertilizantes para a cultura, rações e medicamentos para animais, correctivos, fungicidas e insecticidas;
 
@@ -282,19 +358,19 @@ b) Produtos provenientes da exploração pecuária e florestal, como gados, lenh
 
 c) Ferramentas e máquinas agrícolas, alfaias, utensílios de lavoura, combustíveis e lubrificantes líquidos e peças de máquinas agrícolas.
 
-###### Art. 19.º São ainda transportes de produtos destinados à exploração agrícola, nos termos do mesmo artigo 17.º, os de materiais estritamente necessários a obras de irrigação, reparação e defesa dos prédios agrícolas, bem como à construção ou conservação de edificações afectas à sua exploração.
+Art. 19.º São ainda transportes de produtos destinados à exploração agrícola, nos termos do mesmo artigo 17.º, os de materiais estritamente necessários a obras de irrigação, reparação e defesa dos prédios agrícolas, bem como à construção ou conservação de edificações afectas à sua exploração.
 
 § único. Compete aos grémios da lavoura certificar que a obra para a qual os materiais se destinam tem a natureza das que acima se mencionam.
 
-###### Art. 20.º Os transportes particulares efectuados pelos grémios da lavoura em veículos de sua propriedade, no exercício das atribuições que lhes confere o n.º 7.º do artigo 15.º do [Decreto n.º 29494](https://diariodarepublica.pt/dr/detalhe/decreto/29494-1939-424684), de 22 de Março de 1939, e nos termos da regulamentação que lhe é aplicável, consideram-se, também para todos os efeitos do presente diploma, transportes de produtos agrícolas ou directamente ligados à exploração agrícola.
+Art. 20.º Os transportes particulares efectuados pelos grémios da lavoura em veículos de sua propriedade, no exercício das atribuições que lhes confere o n.º 7.º do artigo 15.º do [Decreto n.º 29494](https://diariodarepublica.pt/dr/detalhe/decreto/29494-1939-424684), de 22 de Março de 1939, e nos termos da regulamentação que lhe é aplicável, consideram-se, também para todos os efeitos do presente diploma, transportes de produtos agrícolas ou directamente ligados à exploração agrícola.
 
-###### Art. 21.º Consideram-se tractores agrícolas, para os efeitos da isenção fiscal prevista no n.º 6.º do artigo 8.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), os que efectuem exclusivamente serviços agrícolas, sejam estes operações culturais ou transportes de produtos agrícolas ou directamente ligados à exploração agrícola.
+Art. 21.º Consideram-se tractores agrícolas, para os efeitos da isenção fiscal prevista no n.º 6.º do artigo 8.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), os que efectuem exclusivamente serviços agrícolas, sejam estes operações culturais ou transportes de produtos agrícolas ou directamente ligados à exploração agrícola.
 
 § único. A afectação exclusiva de tractores aos referidos serviços deverá ser certificada pelo grémio da lavoura da situação de um dos prédios agrícolas pertencentes ao proprietário do tractor.
 
-###### Art. 22.º Os veículos utilizados nos transportes a que se referem os artigos 17.º, 20.º e 21.º estão sujeitos a licenciamento especial determinado pela permissão do transporte exclusivo dos produtos ou mercadorias nos mesmos indicados.
+Art. 22.º Os veículos utilizados nos transportes a que se referem os artigos 17.º, 20.º e 21.º estão sujeitos a licenciamento especial determinado pela permissão do transporte exclusivo dos produtos ou mercadorias nos mesmos indicados.
 
-###### Art. 23.º É permitida a circulação de veículos afectos a transportes particulares de mercadorias em percursos não abrangidos pelas respectivas licenças de circulação quando, completamente em vazio, os realizem:
+Art. 23.º É permitida a circulação de veículos afectos a transportes particulares de mercadorias em percursos não abrangidos pelas respectivas licenças de circulação quando, completamente em vazio, os realizem:
 
 1) Por transferência da localidade-centro;
 
@@ -310,7 +386,7 @@ c) Ferramentas e máquinas agrícolas, alfaias, utensílios de lavoura, combust�
 
 ## TÍTULO II — Das guias de transporte e distintivos de identificação
 
-###### Art. 24.º Os condutores de veículos automóveis de carga ou de mistos sujeitos a imposto de circulação, utilizados em transportes particulares de mercadorias, serão portadores de guias de transporte, por cada serviço efectuado em carga, de modelo a fixar pela Direcção-Geral de Transportes Terrestres, devidamente preenchidas, sempre que esses transportes excedam o raio de círculo de 30 km, com centro na localidade-sede da actividade do proprietário dos veículos.
+Art. 24.º Os condutores de veículos automóveis de carga ou de mistos sujeitos a imposto de circulação, utilizados em transportes particulares de mercadorias, serão portadores de guias de transporte, por cada serviço efectuado em carga, de modelo a fixar pela Direcção-Geral de Transportes Terrestres, devidamente preenchidas, sempre que esses transportes excedam o raio de círculo de 30 km, com centro na localidade-sede da actividade do proprietário dos veículos.
 
 § 1.º Cumpre aos proprietários dos veículos remeter, mensalmente, à citada Direcção-Geral, até ao dia 20 do mês seguinte àquele a que respeitarem, um resumo, por veículo, dos transportes efectuados no mesmo período.
 
@@ -336,7 +412,7 @@ c) Número aproximado de toneladas-quilómetro transportadas;
 
 d) Natureza das mercadorias que em quantidade prevaleceram nos transportes.
 
-###### Art. 25.º Os industriais de transportes públicos de aluguer de mercadorias e de passageiros em veículos pesados deverão ter na sua sede e à disposição da Direcção-Geral de Transportes Terrestres um registo dos serviços efectuados por cada veículo.
+Art. 25.º Os industriais de transportes públicos de aluguer de mercadorias e de passageiros em veículos pesados deverão ter na sua sede e à disposição da Direcção-Geral de Transportes Terrestres um registo dos serviços efectuados por cada veículo.
 
 § único. Cumpre-lhes também remeter-lhe mensalmente, até ao dia 20 do mês seguinte àquele a que respeitarem, resumos, por veículo, donde constem as seguintes indicações:
 
@@ -352,9 +428,9 @@ e) Total de passageiros transportados;
 
 f) Total de passageiros-quilómetro.
 
-###### Art. 26.º Aos industriais de transportes públicos concessionários de carreiras de passageiros ou mercadorias incumbe a obrigação de remeterem à Direcção-Geral de Transportes Terrestres resumos mensais, no prazo e com as indicações prescritas no § único do artigo anterior.
+Art. 26.º Aos industriais de transportes públicos concessionários de carreiras de passageiros ou mercadorias incumbe a obrigação de remeterem à Direcção-Geral de Transportes Terrestres resumos mensais, no prazo e com as indicações prescritas no § único do artigo anterior.
 
-###### Art. 27.º Os transportadores públicos de mercadorias são obrigados a entregar aos respectivos expedidores guias de transporte, de modelo a fixar pela Direcção-Geral de Transportes Terrestres, das quais deverão constar:
+Art. 27.º Os transportadores públicos de mercadorias são obrigados a entregar aos respectivos expedidores guias de transporte, de modelo a fixar pela Direcção-Geral de Transportes Terrestres, das quais deverão constar:
 
 1) Identidade do expedidor e do destinatário;
 
@@ -366,13 +442,13 @@ f) Total de passageiros-quilómetro.
 
 5) Indicação da pessoa ou entidade responsável pelo pagamento do transporte.
 
-###### Art. 28.º Os veículos automóveis afectos aos transportes particulares de mercadorias deverão ostentar distintivos e letreiros exteriores conforme modelos e normas a fixar pela Direcção-Geral de Transportes Terrestres.
+Art. 28.º Os veículos automóveis afectos aos transportes particulares de mercadorias deverão ostentar distintivos e letreiros exteriores conforme modelos e normas a fixar pela Direcção-Geral de Transportes Terrestres.
 
 ## TÍTULO III — Dos regimes tributários - Normas de incidência
 
 ### CAPÍTULO I — Imposto de circulação
 
-###### Art. 29.º Os proprietários de veículos automóveis de carga ou mistos e seus reboques, afectos ao transporte particular de mercadorias e como tais licenciados, pagarão um imposto de circulação que será calculado, por cada veículo, pelas seguintes fórmulas simplificadas:
+Art. 29.º Os proprietários de veículos automóveis de carga ou mistos e seus reboques, afectos ao transporte particular de mercadorias e como tais licenciados, pagarão um imposto de circulação que será calculado, por cada veículo, pelas seguintes fórmulas simplificadas:
 
 Veículos ligeiros:
 
@@ -406,11 +482,11 @@ em que I e P têm significado idêntico ao que se estabelece no corpo deste arti
 
 § 2.º O valor mínimo anual do imposto de circulação será, por cada veículo, de 300$00.
 
-###### Art. 30.º Consideram-se como não circulando na via pública, para os fins do disposto na alínea 5) do artigo 8.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), nova redacção, e como tal adstritos a transportes meramente internos, os veículos que em carga a utilizem por absoluta necessidade de ligação de unidades agrícolas, industriais ou comerciais pertencentes ao proprietário dos mesmos veículos e com vista a favorecerem uma rentável exploração de tais unidades.
+Art. 30.º Consideram-se como não circulando na via pública, para os fins do disposto na alínea 5) do artigo 8.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), nova redacção, e como tal adstritos a transportes meramente internos, os veículos que em carga a utilizem por absoluta necessidade de ligação de unidades agrícolas, industriais ou comerciais pertencentes ao proprietário dos mesmos veículos e com vista a favorecerem uma rentável exploração de tais unidades.
 
 § único. Esta utilização terá de limitar-se a troços sensìvelmente não superiores a 2 km.
 
-###### Art. 31.º Qualificam-se de transportes particulares que asseguram um especial benefício económico, para o efeito fiscal previsto no artigo 9.º do diploma legal aqui regulamentado, todos aqueles que, em razão da especial estrutura das unidades industriais, comerciais ou agrícolas a que estão afectos, ou de especiais circunstâncias da conjuntura económica, têm, pela sua articulação na economia nacional, função essencial, estratégica ou dominante no desenvolvimento económico global ou no impulsionamento das economias regionais.
+Art. 31.º Qualificam-se de transportes particulares que asseguram um especial benefício económico, para o efeito fiscal previsto no artigo 9.º do diploma legal aqui regulamentado, todos aqueles que, em razão da especial estrutura das unidades industriais, comerciais ou agrícolas a que estão afectos, ou de especiais circunstâncias da conjuntura económica, têm, pela sua articulação na economia nacional, função essencial, estratégica ou dominante no desenvolvimento económico global ou no impulsionamento das economias regionais.
 
 § único. São elementos dominantes da redução fiscal e da sua amplitude os seguintes:
 
@@ -418,13 +494,13 @@ a) Influência sensível do custo do transporte no custo total dos bens ou servi
 
 b) Essencialidade ou indispensabilidade de um sistema completo de transportes privativos, motivada pela forte dispersão geográfica dos mercados fornecedores ou consumidores, ou por uma típica descontinuidade, no tempo, da actividade económica principal.
 
-###### Art. 32.º O benefício fiscal a que se refere o artigo anterior funciona por sectores industriais, comerciais ou agrícolas autónomos, ou por regiões econòmicamente homogéneas, e deverá ser requerido à Direcção-Geral de Transportes Terrestres pelos organismos ou entidades que económica ou profissionalmente representam os interessados.
+Art. 32.º O benefício fiscal a que se refere o artigo anterior funciona por sectores industriais, comerciais ou agrícolas autónomos, ou por regiões econòmicamente homogéneas, e deverá ser requerido à Direcção-Geral de Transportes Terrestres pelos organismos ou entidades que económica ou profissionalmente representam os interessados.
 
 § 1.º No requerimento deverá indicar-se a redução que se pretende.
 
 § 2.º Esta redução não deverá estender-se a períodos superiores a um ano, sem prejuízo da sua renovação a requerimento das entidades interessadas, salvo o que em contrário se estatuir nos diplomas regulamentares que a fixarem.
 
-###### Art. 33.º A justificação do pedido de benefício fiscal deverá ter em conta, entre outros, os seguintes elementos e circunstâncias:
+Art. 33.º A justificação do pedido de benefício fiscal deverá ter em conta, entre outros, os seguintes elementos e circunstâncias:
 
 a) Preços de custo e de venda das mercadorias e incidência sobre eles exercida pelo custo do transporte;
 
@@ -442,11 +518,11 @@ g) Impossibilidade material ou inadequação técnica do transporte público rod
 
 h) Valores globais aproximados da contribuição industrial relativa às actividades económicas do sector ou da região no último triénio.
 
-###### Art. 34.º Para o efeito especial da isenção de pagamento do imposto correspondente ao excesso de percurso, os transportes agrícolas que tiverem de exceder o raio de 50 km carecem de autorização da Direcção-Geral de Transportes Terrestres, a passar em título anexo à licença especial de circulação.
+Art. 34.º Para o efeito especial da isenção de pagamento do imposto correspondente ao excesso de percurso, os transportes agrícolas que tiverem de exceder o raio de 50 km carecem de autorização da Direcção-Geral de Transportes Terrestres, a passar em título anexo à licença especial de circulação.
 
 § único. A autorização em referência abrangerá genèricamente todos os transportes cuja necessidade for ocorrendo aos interessados, desde que subsista o condicionalismo legalmente estabelecido, e, quanto aos transportes em zonas predominantemente rurais, será válida por um ano e extensiva a todos os que nelas se façam em iguais condições.
 
-###### Art. 35.º São elementos a indicar no requerimento da autorização prevista no artigo anterior:
+Art. 35.º São elementos a indicar no requerimento da autorização prevista no artigo anterior:
 
 a) Comuns a quaisquer transportes;
 
@@ -472,7 +548,7 @@ c) Específicos dos transportes entre prédios agrícolas do mesmo proprietário
 
 § 3.º Igualmente lhes competirá indicar a capacidade dos transportes públicos utilizáveis nas referidas zonas rurais.
 
-###### Art. 36.º Os proprietários de veículos de transporte particular que excedam os limites de peso, pressão sobre o solo ou dimensões definidos nos artigos 18.º e 19.º do Código da Estrada deverão indicar no requerimento da especial autorização ou licença de trânsito os elementos indispensáveis à liquidação do correspondente imposto de circulação.
+Art. 36.º Os proprietários de veículos de transporte particular que excedam os limites de peso, pressão sobre o solo ou dimensões definidos nos artigos 18.º e 19.º do Código da Estrada deverão indicar no requerimento da especial autorização ou licença de trânsito os elementos indispensáveis à liquidação do correspondente imposto de circulação.
 
 § 1.º A mesma Direcção-Geral, se for caso de permitir o trânsito, fará, com base nos elementos declarados, a liquidação do imposto que for devido e passará, em triplicado, uma guia para pagamento do imposto.
 
@@ -482,7 +558,7 @@ c) Específicos dos transportes entre prédios agrícolas do mesmo proprietário
 
 ### CAPÍTULO II — Impostos de camionagem e de compensação
 
-###### Art. 37.º Os transportes públicos rodoviários que não ofereçam condições económicas de exploração, por se efectuarem em regiões de fraca densidade populacional ou reduzida intensidade de vida económica, poderão beneficiar da redução temporária do imposto de camionagem, até ao limite máximo de 50 por cento, desde que com ela se não prejudique o essencial interesse da coordenação dos transportes.
+Art. 37.º Os transportes públicos rodoviários que não ofereçam condições económicas de exploração, por se efectuarem em regiões de fraca densidade populacional ou reduzida intensidade de vida económica, poderão beneficiar da redução temporária do imposto de camionagem, até ao limite máximo de 50 por cento, desde que com ela se não prejudique o essencial interesse da coordenação dos transportes.
 
 § 1.º Quanto aos transportes públicos de aluguer de mercadorias, a redução em referência circunscrever-se-á aos veículos licenciados para:
 
@@ -496,7 +572,7 @@ d) Efectuarem transportes que exijam o emprego de veículos especialmente adapta
 
 § 2.º A redução do imposto não deverá estender-se a períodos superiores a um ano, sem prejuízo da sua renovação a requerimento dos interessados, salvo o que em contrário se estatuir nos diplomas regulamentares que a fixarem.
 
-###### Art. 38.º A redução fiscal preceituada no artigo anterior será autorizada a pedido dos transportadores interessados - concessionários de transportes colectivos ou industriais de transportes de aluguer - e terá por base um requerimento, dirigido à Direcção-Geral de Transportes Terrestres, do qual deverão constar:
+Art. 38.º A redução fiscal preceituada no artigo anterior será autorizada a pedido dos transportadores interessados - concessionários de transportes colectivos ou industriais de transportes de aluguer - e terá por base um requerimento, dirigido à Direcção-Geral de Transportes Terrestres, do qual deverão constar:
 
 a) Redução pretendida;
 
@@ -510,31 +586,31 @@ d) Actividade ou actividades económicas regionalmente predominantes e especialm
 
 § 2.º Sobre o pedido de redução fiscal recairá obrigatòriamente informação do Grémio dos Industriais de Transportes em Automóveis, destinada tanto ao esclarecimento das circunstâncias de capacidade económica e idoneidade profissional dos interessados requerentes como à ponderação da medida de utilidade social dos transportes em causa.
 
-###### Art. 39.º Quando o estabelecimento de novas carreiras, a manutenção das existentes ou o seu prolongamento se mostrarem aconselháveis em razão da imperiosa necessidade de satisfazer uma procura local de transportes colectivos, ou como incentivo de uma desejável política de coordenação de transportes públicos ao âmbito regional, e vierem a ser subsidiados por empresas ferroviárias ou terceiros, a redução a metade do imposto de camionagem deverá ser requerida ao Ministro das Comunicações, pelos respectivos concessionários, no prazo de 30 dias, a contar da data de atribuição do mesmo subsídio.
+Art. 39.º Quando o estabelecimento de novas carreiras, a manutenção das existentes ou o seu prolongamento se mostrarem aconselháveis em razão da imperiosa necessidade de satisfazer uma procura local de transportes colectivos, ou como incentivo de uma desejável política de coordenação de transportes públicos ao âmbito regional, e vierem a ser subsidiados por empresas ferroviárias ou terceiros, a redução a metade do imposto de camionagem deverá ser requerida ao Ministro das Comunicações, pelos respectivos concessionários, no prazo de 30 dias, a contar da data de atribuição do mesmo subsídio.
 
 § 1.º O subsídio só poderá ser concedido se autorizado pela Direcção-Geral de Transportes Terrestres com prévia audição, a título consultivo, do Conselho Superior dos Transportes Terrestres.
 
 § 2.º No pedido de autorização indicar-se-ão expressamente as razões de ordem económica, social ou de política dos transportes que o determinam.
 
-###### Art. 40.º Se o estabelecimento de novas carreiras, a sua manutenção ou o seu prolongamento forem impostos pelo Ministro das Comunicações às empresas concessionárias que operem em determinada região - depois de ouvido o Conselho Superior dos Transportes Terrestres - em razão do seu essencial interesse regional ou como instrumento de realização de uma eficiente política de coordenação regional de transportes públicos, será arbitrada aos respectivos concessionários uma compensação justa, caso o novo serviço não ofereça condições de exploração financeira equilibrada.
+Art. 40.º Se o estabelecimento de novas carreiras, a sua manutenção ou o seu prolongamento forem impostos pelo Ministro das Comunicações às empresas concessionárias que operem em determinada região - depois de ouvido o Conselho Superior dos Transportes Terrestres - em razão do seu essencial interesse regional ou como instrumento de realização de uma eficiente política de coordenação regional de transportes públicos, será arbitrada aos respectivos concessionários uma compensação justa, caso o novo serviço não ofereça condições de exploração financeira equilibrada.
 
 § único. A compensação em referência poderá revestir, entre outras, a forma de subsídio acompanhado de redução do imposto nos termos do artigo anterior, ou circunscrever-se a simples redução fiscal.
 
-###### Art. 41.º O imposto de camionagem devido pelos proprietários de veículos de aluguer para transporte misto de passageiros e mercadorias calcular-se-á separadamente em relação a cada um dos transportes.
+Art. 41.º O imposto de camionagem devido pelos proprietários de veículos de aluguer para transporte misto de passageiros e mercadorias calcular-se-á separadamente em relação a cada um dos transportes.
 
-###### Art. 42.º Carecem de licença especial os transportes públicos de mercadorias ràpidamente deterioráveis, como leite, peixe fresco, frutas e hortaliças.
+Art. 42.º Carecem de licença especial os transportes públicos de mercadorias ràpidamente deterioráveis, como leite, peixe fresco, frutas e hortaliças.
 
 § único. Esta licença será passada para o exclusivo transporte das mercadorias para que tiver sido requerida.
 
-###### Art. 43.º Semelhantemente, carecem de licença especial os transportes públicos de roupa e artigos de venda nas feiras, a qual será passada para o exclusivo transporte das mercadorias para que tiver sido requerida.
+Art. 43.º Semelhantemente, carecem de licença especial os transportes públicos de roupa e artigos de venda nas feiras, a qual será passada para o exclusivo transporte das mercadorias para que tiver sido requerida.
 
 § único. O especial licenciamento dos veículos destinados ao transporte de artigos de venda nas feiras compreenderá tão-só o que se efectuar de, ou para, os locais das feiras.
 
-###### Art. 44.º O imposto de camionagem devido pelos transportes de mercadorias ràpidamente deterioráveis ou de roupa e artigos de venda em feiras terá, no primeiro biénio de tributação, uma redução, respectivamente, de 60 por cento e de 40 por cento do valor do imposto correspondente aos veículos de aluguer normais nas mesmas condições de peso bruto e raio de acção.
+Art. 44.º O imposto de camionagem devido pelos transportes de mercadorias ràpidamente deterioráveis ou de roupa e artigos de venda em feiras terá, no primeiro biénio de tributação, uma redução, respectivamente, de 60 por cento e de 40 por cento do valor do imposto correspondente aos veículos de aluguer normais nas mesmas condições de peso bruto e raio de acção.
 
-###### Art. 45.º A regra processual estabelecida nos §§ 1.º e 2.º do artigo 36.º é aplicável aos casos em que o transporte nele previsto dê lugar à liquidação de imposto de camionagem.
+Art. 45.º A regra processual estabelecida nos §§ 1.º e 2.º do artigo 36.º é aplicável aos casos em que o transporte nele previsto dê lugar à liquidação de imposto de camionagem.
 
-###### Art. 46.º A imobilização dos veículos adstritos a transportes públicos de passageiros, mercadorias ou mistos em regime de aluguer, resultante do depósito voluntário da respectiva documentação, implica o cancelamento das licenças quando se estenda por tempo superior a 90 dias.
+Art. 46.º A imobilização dos veículos adstritos a transportes públicos de passageiros, mercadorias ou mistos em regime de aluguer, resultante do depósito voluntário da respectiva documentação, implica o cancelamento das licenças quando se estenda por tempo superior a 90 dias.
 
 § 1.º Os titulares das licenças canceladas, conforme o estabelecido no corpo deste artigo, não poderão obter novas licenças enquanto não decorrer um ano sobre a data do cancelamento.
 
@@ -544,27 +620,27 @@ d) Actividade ou actividades económicas regionalmente predominantes e especialm
 
 ### CAPÍTULO I — Liquidação
 
-###### Art. 47.º A liquidação dos impostos de circulação, camionagem e compensação será feita nos serviços próprios da Direcção-Geral de Transportes Terrestres, conforme as regras estabelecidas no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e as fórmulas e mais disposições aplicáveis do presente regulamento.
+Art. 47.º A liquidação dos impostos de circulação, camionagem e compensação será feita nos serviços próprios da Direcção-Geral de Transportes Terrestres, conforme as regras estabelecidas no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e as fórmulas e mais disposições aplicáveis do presente regulamento.
 
 § 1.º Estes impostos serão liquidados segundo a forma de pagamento.
 
 § 2.º A operação de liquidação, quando referente a impostos devidos nas ilhas adjacentes, será feita nas repartições de finanças da residência ou sede dos proprietários dos veículos a que respeitem, em face dos elementos constantes das comunicações enviadas pelos competentes serviços de viação.
 
-###### Art. 48.º Nos casos de originário licenciamento de veículos em pleno curso do ano, os correspondentes impostos de circulação, de camionagem relativo aos veículos de aluguer e de compensação, devidos no ano em que for emitida a licença, serão reduzidos proporcionalmente em função dos meses completos já decorridos à data dessa emissão.
+Art. 48.º Nos casos de originário licenciamento de veículos em pleno curso do ano, os correspondentes impostos de circulação, de camionagem relativo aos veículos de aluguer e de compensação, devidos no ano em que for emitida a licença, serão reduzidos proporcionalmente em função dos meses completos já decorridos à data dessa emissão.
 
 § 1.º Não serão abrangidos por esta regra os casos em que os mencionados impostos consistam nos montantes anuais fixos estabelecidos nos artigos 19.º e 20.º do diploma aqui regulamentado.
 
 § 2.º A redução prevista no corpo deste artigo terá, como mínimo de cobrança, o valor de 300$00.
 
-###### Art. 49.º As importâncias da liquidação dos impostos em referência, quando não terminem em escudos, serão arredondadas para a unidade imediatamente superior.
+Art. 49.º As importâncias da liquidação dos impostos em referência, quando não terminem em escudos, serão arredondadas para a unidade imediatamente superior.
 
 ### CAPÍTULO II — Cobrança
 
-###### Art. 50.º O pagamento dos impostos de circulação, camionagem e compensação deverá ser feito nas tesourarias da Fazenda Pública da residência ou sede dos proprietários dos veículos a que respeitem.
+Art. 50.º O pagamento dos impostos de circulação, camionagem e compensação deverá ser feito nas tesourarias da Fazenda Pública da residência ou sede dos proprietários dos veículos a que respeitem.
 
 § único. Nos casos especiais contemplados nos artigos 36.º e 45.º, o pagamento dos correspondentes impostos poderá também ser feito na tesouraria da Direcção-Geral de Transportes Terrestres.
 
-###### Art. 51.º O pagamento do imposto de circulação e do de camionagem relativo a veículos de aluguer, quando de valor anual superior a 2000$00, poderá fazer-se:
+Art. 51.º O pagamento do imposto de circulação e do de camionagem relativo a veículos de aluguer, quando de valor anual superior a 2000$00, poderá fazer-se:
 
 a) Em prestações semestrais, se não exceder 6000$00;
 
@@ -572,89 +648,89 @@ b) Em prestações trimestrais, se os exceder.
 
 § único. O pagamento da totalidade do imposto, ou das suas prestações, deverá ser feito no primeiro mês do período a que respeitem.
 
-###### Art. 52.º O imposto de camionagem devido pela exploração de carreiras de transporte colectivo, enquanto a sua liquidação se não operar, segundo processos mecanográficos, no serviço central a que se refere o artigo 25.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), será pago até ao dia 20 do mês seguinte àquele a que respeitar.
+Art. 52.º O imposto de camionagem devido pela exploração de carreiras de transporte colectivo, enquanto a sua liquidação se não operar, segundo processos mecanográficos, no serviço central a que se refere o artigo 25.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), será pago até ao dia 20 do mês seguinte àquele a que respeitar.
 
 § único. O imposto devido pela exploração de carreiras eventuais deverá ser pago mediante guia processada pela respectiva direcção de viação, sendo esse pagamento condição prévia da passagem de licença.
 
-###### Art. 53.º O imposto de compensação será pago trimestralmente, no primeiro mês do trimestre a que respeita.
+Art. 53.º O imposto de compensação será pago trimestralmente, no primeiro mês do trimestre a que respeita.
 
-###### Art. 54.º O primeiro pagamento dos impostos de circulação, de camionagem relativo a veículos de aluguer e de compensação, resultantes de originário licenciamento em pleno curso do ano, deverá ser feito até ao fim do mês seguinte ao da expedição do respectivo aviso.
+Art. 54.º O primeiro pagamento dos impostos de circulação, de camionagem relativo a veículos de aluguer e de compensação, resultantes de originário licenciamento em pleno curso do ano, deverá ser feito até ao fim do mês seguinte ao da expedição do respectivo aviso.
 
-###### Art. 55.º Os prazos trimestrais e semestrais de pagamento, atrás estipulados, não prejudicam o pagamento por uma só vez da totalidade do imposto anual, quando assim se requeira à Direcção-Geral de Transportes Terrestres até 15 de Outubro do ano anterior.
+Art. 55.º Os prazos trimestrais e semestrais de pagamento, atrás estipulados, não prejudicam o pagamento por uma só vez da totalidade do imposto anual, quando assim se requeira à Direcção-Geral de Transportes Terrestres até 15 de Outubro do ano anterior.
 
 § único. O pedido de pagamento por uma só vez considera-se renovado enquanto em contrário nada se declarar.
 
-###### Art. 56.º O não pagamento do imposto ou de qualquer das suas prestações no prazo legal de vencimento implica o início da contagem de juros de mora.
+Art. 56.º O não pagamento do imposto ou de qualquer das suas prestações no prazo legal de vencimento implica o início da contagem de juros de mora.
 
-###### Art. 57.º Passados 60 dias sobre o vencimento do imposto ou de qualquer das suas prestações, sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo para a sua arrecadação.
+Art. 57.º Passados 60 dias sobre o vencimento do imposto ou de qualquer das suas prestações, sem que se mostre efectuado o respectivo pagamento, haverá lugar a procedimento executivo para a sua arrecadação.
 
-###### Art. 58.º Os conhecimentos de cobrança serão remetidos pela Direcção-Geral de Transportes Terrestres aos chefes das repartições de finanças até ao dia 15 do mês anterior ao do início da cobrança, acompanhados de uma relação-índice e de descarga, em duplicado.
+Art. 58.º Os conhecimentos de cobrança serão remetidos pela Direcção-Geral de Transportes Terrestres aos chefes das repartições de finanças até ao dia 15 do mês anterior ao do início da cobrança, acompanhados de uma relação-índice e de descarga, em duplicado.
 
 § 1.º Os chefes das repartições de finanças entregarão os conhecimentos nas tesourarias da Fazenda Pública até ao dia 20 do mesmo mês.
 
 § 2.º Os tesoureiros da Fazenda Pública deverão expedir até ao dia 25, também desse mês, os avisos para pagamento à boca do cofre.
 
-###### Art. 59.º Os conhecimentos de cobrança serão constituídos por um recibo e dois talões, devendo ser autenticados com o carimbo em uso nos serviços mecanográficos da Direcção-Geral de Transportes Terrestres, ou com o selo branco da respectiva repartição de finanças, tratando-se de conhecimentos processados nesses serviços.
+Art. 59.º Os conhecimentos de cobrança serão constituídos por um recibo e dois talões, devendo ser autenticados com o carimbo em uso nos serviços mecanográficos da Direcção-Geral de Transportes Terrestres, ou com o selo branco da respectiva repartição de finanças, tratando-se de conhecimentos processados nesses serviços.
 
-###### Art. 60.º Sempre que se proceda a liquidação por omissão no lançamento ou a liquidação adicional, o contribuinte será notificado pela respectiva repartição de finanças para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
+Art. 60.º Sempre que se proceda a liquidação por omissão no lançamento ou a liquidação adicional, o contribuinte será notificado pela respectiva repartição de finanças para pagar o imposto ou satisfazer a diferença dentro de quinze dias.
 
 Se o não fizer, proceder-se-á a cobrança virtual, sem prejuízo do direito de reclamação e impugnação, devendo então o pagamento efectuar-se durante o mês seguinte ao do débito ao tesoureiro.
 
-###### Art. 61.º Os chefes das repartições de finanças devolverão à Direcção-Geral de Transportes Terrestres, até ao dia 15 do mês seguinte àquele em que tiver terminado o prazo de pagamento voluntário, um dos exemplares da relação a que se refere o artigo 58.º, devidamente averbado dos pagamentos efectuados.
+Art. 61.º Os chefes das repartições de finanças devolverão à Direcção-Geral de Transportes Terrestres, até ao dia 15 do mês seguinte àquele em que tiver terminado o prazo de pagamento voluntário, um dos exemplares da relação a que se refere o artigo 58.º, devidamente averbado dos pagamentos efectuados.
 
 § único. Até ao dia 15 de cada mês, os chefes das repartições de finanças enviarão à mesma Direcção-Geral uma relação dos conhecimentos que no mês anterior tenham sido cobrados fora do prazo da cobrança voluntária e cujo pagamento não foi averbado no exemplar da relação referida no corpo deste artigo.
 
-###### Art. 62.º Pelos chefes das repartições de finanças serão enviadas à Direcção-Geral de Transportes Terrestres, até ao dia 15 de cada mês, relações das quais deverão constar os conhecimentos dos impostos de circulação, camionagem e compensação anulados no mês anterior por julgamento em falhas.
+Art. 62.º Pelos chefes das repartições de finanças serão enviadas à Direcção-Geral de Transportes Terrestres, até ao dia 15 de cada mês, relações das quais deverão constar os conhecimentos dos impostos de circulação, camionagem e compensação anulados no mês anterior por julgamento em falhas.
 
-###### Art. 63.º Para pagamento dos impostos referidos neste regulamento, a Fazenda Nacional goza de privilégio creditório sobre o veículo que deu origem à colecta, mesmo que tenha sido transmitido a terceiros antes ou depois da liquidação, salvo se a transmissão se tiver operado por venda judicial ou extrajudicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
+Art. 63.º Para pagamento dos impostos referidos neste regulamento, a Fazenda Nacional goza de privilégio creditório sobre o veículo que deu origem à colecta, mesmo que tenha sido transmitido a terceiros antes ou depois da liquidação, salvo se a transmissão se tiver operado por venda judicial ou extrajudicial em processo a que o Estado deva ser chamado a deduzir os seus direitos.
 
 ## TÍTULO V — Das penalidades e seu regime de responsabilidade
 
-###### Art. 64.º Os transportes particulares de mercadorias realizados sem licença de circulação serão punidos com multa de 5000$00, agravada para 7500$00 e 10000$00 na primeira e segunda reincidências, respectivamente.
+Art. 64.º Os transportes particulares de mercadorias realizados sem licença de circulação serão punidos com multa de 5000$00, agravada para 7500$00 e 10000$00 na primeira e segunda reincidências, respectivamente.
 
 § 1.º Se a circulação sem licença resultar de prévio depósito documental, nos termos do artigo 11.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), será, além da multa, cancelada a licença.
 
 § 2.º A circulação sem licença proveniente da apreensão ou cancelamento implica, além de multa, procedimento criminal por desobediência. Havendo condenação por este crime, o veículo será apreendido, bem como a carta do respectivo condutor, pelo prazo de seis meses.
 
-###### Art. 65.º A utilização de veículos automóveis ou seus reboques afectos ao transporte particular de mercadorias em transportes públicos - colectivos ou de aluguer - será punida com multa de 5000$00.
+Art. 65.º A utilização de veículos automóveis ou seus reboques afectos ao transporte particular de mercadorias em transportes públicos - colectivos ou de aluguer - será punida com multa de 5000$00.
 
 § único. Em caso de reincidência a multa agravar-se-á para 7500$00, cancelando-se a respectiva licença.
 
-###### Art. 66.º Os proprietários de veículos automóveis de mercadorias ou seus reboques matriculados para serviço particular incorrerão na multa de 3000$00, agravada para 5000$00 em caso de reincidência, quando esses veículos realizem transportes com infracção das condições fixadas nas respectivas licenças especiais, títulos anexos ou autorizações de transporte, ou excedam as áreas circulares de inscrição constantes das respectivas licenças gerais ou especiais.
+Art. 66.º Os proprietários de veículos automóveis de mercadorias ou seus reboques matriculados para serviço particular incorrerão na multa de 3000$00, agravada para 5000$00 em caso de reincidência, quando esses veículos realizem transportes com infracção das condições fixadas nas respectivas licenças especiais, títulos anexos ou autorizações de transporte, ou excedam as áreas circulares de inscrição constantes das respectivas licenças gerais ou especiais.
 
 § único. A segunda reincidência implicará, além da multa, a apreensão da licença por um período de seis meses.
 
-###### Art. 67.º A inobservância das cláusulas impostas para a prossecução dos interesses tutelados no § 1.º do artigo 2.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) constitui infracção punível com multa de 5000$00, agravada para 7500$00 e 10000$00 nas reincidências.
+Art. 67.º A inobservância das cláusulas impostas para a prossecução dos interesses tutelados no § 1.º do artigo 2.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) constitui infracção punível com multa de 5000$00, agravada para 7500$00 e 10000$00 nas reincidências.
 
 § único. A reincidência implica o cancelamento da licença de circulação quando a inobservância se reporte a cláusulas de condicionamento de transporte de mercadorias perigosas e apreensão por seis meses nos outros casos.
 
-###### Art. 68.º Os transportes públicos - de aluguer ou colectivos -, quando realizados sem título de licenciamento, serão punidos com multa de 10000$00.
+Art. 68.º Os transportes públicos - de aluguer ou colectivos -, quando realizados sem título de licenciamento, serão punidos com multa de 10000$00.
 
 § 1.º O transporte de aluguer efectuado sem licença por esta ter sido voluntàriamente depositada implicará, além da multa, o cancelamento da licença.
 
 § 2.º Os transportes públicos - de aluguer ou colectivos - efectuados sem licença por esta ter sido apreendida ou cancelada implicam, além da referida multa, procedimento criminal por desobediência. Havendo condenação por este crime, o veículo ou veículos a eles afectos serão apreendidos, bem como a carta dos respectivos condutores, pelo prazo de seis meses.
 
-###### Art. 69.º O transporte de mercadorias pertencentes aos transportadores públicos realizado em veículos seus com licença de serviço público para além do raio de círculo do aluguer e dos itinerários das concessões será punido com multa de 5000$00, agravada para 7500$00 e 10000$00 nas reincidências.
+Art. 69.º O transporte de mercadorias pertencentes aos transportadores públicos realizado em veículos seus com licença de serviço público para além do raio de círculo do aluguer e dos itinerários das concessões será punido com multa de 5000$00, agravada para 7500$00 e 10000$00 nas reincidências.
 
-###### Art. 70.º O não cumprimento da norma de exclusivo transporte estabelecida nos artigos 42.º e 43.º será punido com multa de 5000$00, agravada para 7500$00 e 10000$00 nas reincidências.
+Art. 70.º O não cumprimento da norma de exclusivo transporte estabelecida nos artigos 42.º e 43.º será punido com multa de 5000$00, agravada para 7500$00 e 10000$00 nas reincidências.
 
 § único. A primeira reincidência determinará também a apreensão da licença de aluguer pelo prazo de seis meses e a segunda o seu cancelamento.
 
-###### Art. 71.º A recusa ou o abandono pelos concessionários de transportes colectivos de carreiras cujo estabelecimento, manutenção ou prolongamento lhes hajam sido impostos ao abrigo do disposto nos artigos 39.º e 40.º determinam, além da perda do valor da caução nos casos em que esta tenha sido prestada, a aplicação da multa de 10000$00.
+Art. 71.º A recusa ou o abandono pelos concessionários de transportes colectivos de carreiras cujo estabelecimento, manutenção ou prolongamento lhes hajam sido impostos ao abrigo do disposto nos artigos 39.º e 40.º determinam, além da perda do valor da caução nos casos em que esta tenha sido prestada, a aplicação da multa de 10000$00.
 
 § único. Os factos de recusa ou abandono injustificado serão de considerar para os efeitos da graduação de preferências nos pedidos de concessão de carreiras.
 
-###### Art. 72.º A não exibição dos títulos de licenciamento ou dos certificados de circulação, quando devidamente exigidos, será punida com multa de 200$00.
+Art. 72.º A não exibição dos títulos de licenciamento ou dos certificados de circulação, quando devidamente exigidos, será punida com multa de 200$00.
 
-###### Art. 73.º A falta das guias de transporte exigidas, nos termos dos artigos 24.º e 27.º, por cada serviço efectuado, será punida com multa de 300$00 e o seu incompleto preenchimento com a de 100$00.
+Art. 73.º A falta das guias de transporte exigidas, nos termos dos artigos 24.º e 27.º, por cada serviço efectuado, será punida com multa de 300$00 e o seu incompleto preenchimento com a de 100$00.
 
 § único. Se esta infracção se verificar mais de dez vezes no mesmo período anual, a respectiva licença será apreendida por tempo não inferior a 30 nem superior a 180 dias.
 
-###### Art. 74.º A falta do registo de serviços efectuados por cada veículo, exigido no artigo 25.º, determinará a aplicação da multa de 1000$00.
+Art. 74.º A falta do registo de serviços efectuados por cada veículo, exigido no artigo 25.º, determinará a aplicação da multa de 1000$00.
 
-###### Art. 75.º O não cumprimento da obrigação de indicar ou participar à Direcção-Geral de Transportes Terrestres, dentro dos prazos estabelecidos nas respectivas disposições deste regulamento, os elementos informativos ou os factos nelas referidos, constitui transgressão punível com multa de 300$00.
+Art. 75.º O não cumprimento da obrigação de indicar ou participar à Direcção-Geral de Transportes Terrestres, dentro dos prazos estabelecidos nas respectivas disposições deste regulamento, os elementos informativos ou os factos nelas referidos, constitui transgressão punível com multa de 300$00.
 
-###### Art. 76.º A falsidade substancial ou a viciação formal das declarações documentais e informações legalmente exigíveis serão punidas nos termos seguintes:
+Art. 76.º A falsidade substancial ou a viciação formal das declarações documentais e informações legalmente exigíveis serão punidas nos termos seguintes:
 
 a) Multa de 300$00, nos casos de falsidade meramente culposa;
 
@@ -664,33 +740,33 @@ c) Multa de 1000$00, nos casos de viciação formal.
 
 § único. As sanções atrás estabelecidas serão aplicadas sem prejuízo da responsabilidade criminal que a cada caso possa caber.
 
-###### Art. 77.º A responsabilidade pelas multas impostas neste regulamento compete aos proprietários dos veículos, excepto nos casos contemplados nos artigos 72.º e 73.º, em que pertence aos condutores, bem como nos do artigo 76.º que sejam da autoria destes.
+Art. 77.º A responsabilidade pelas multas impostas neste regulamento compete aos proprietários dos veículos, excepto nos casos contemplados nos artigos 72.º e 73.º, em que pertence aos condutores, bem como nos do artigo 76.º que sejam da autoria destes.
 
-###### Art. 78.º O pagamento voluntário da multa equivale, para os efeitos de reincidência, à condenação judicial do transgressor.
+Art. 78.º O pagamento voluntário da multa equivale, para os efeitos de reincidência, à condenação judicial do transgressor.
 
-###### Art. 79.º A decisão de cancelamento dos títulos de licença, fundada na prática dos factos contravencionais previstos neste regulamento, impossibilita os seus titulares de obterem nova licença, para o mesmo ou para outro veículo, antes de decorrido um ano sobre a data do mesmo cancelamento.
+Art. 79.º A decisão de cancelamento dos títulos de licença, fundada na prática dos factos contravencionais previstos neste regulamento, impossibilita os seus titulares de obterem nova licença, para o mesmo ou para outro veículo, antes de decorrido um ano sobre a data do mesmo cancelamento.
 
-###### Art. 80.º Será sempre decretada a apreensão do veículo, até resolução do tribunal, quando o seu proprietário não pague nem deposite voluntàriamente a multa devida pela prática das infracções previstas e punidas nos artigos 64.º, 65.º, 67.º, 68.º, 70.º e 71.º
+Art. 80.º Será sempre decretada a apreensão do veículo, até resolução do tribunal, quando o seu proprietário não pague nem deposite voluntàriamente a multa devida pela prática das infracções previstas e punidas nos artigos 64.º, 65.º, 67.º, 68.º, 70.º e 71.º
 
 § único. Para efeitos do que fica estatuído quanto às hipóteses contempladas pelos artigos 64.º e 68.º, só é relevante a efectiva inexistência do título de licenciamento ou concessão.
 
-###### Art. 81.º É da competência do director-geral de Transportes Terrestres a apreensão e o cancelamento dos títulos de licenciamento de transporte.
+Art. 81.º É da competência do director-geral de Transportes Terrestres a apreensão e o cancelamento dos títulos de licenciamento de transporte.
 
-###### Art. 82.º Qualquer transgressão das disposições deste regulamento que nele não seja especialmente punida fica sujeita à multa de 300$00.
+Art. 82.º Qualquer transgressão das disposições deste regulamento que nele não seja especialmente punida fica sujeita à multa de 300$00.
 
-###### Art. 83.º Na cobrança das multas previstas neste regulamento observar-se-á o disposto nos n.os 1) e 2) do artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
+Art. 83.º Na cobrança das multas previstas neste regulamento observar-se-á o disposto nos n.os 1) e 2) do artigo 70.º do Código da Estrada, aprovado pelo [Decreto-Lei n.º 39672](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39672-1954-514819), de 20 de Maio de 1954.
 
-###### Art. 84.º Para todos os efeitos deste regulamento consideram-se como não licenciados os transportes cujos impostos de circulação, camionagem ou compensação não foram pagos dentro dos prazos legais de cobrança voluntária.
+Art. 84.º Para todos os efeitos deste regulamento consideram-se como não licenciados os transportes cujos impostos de circulação, camionagem ou compensação não foram pagos dentro dos prazos legais de cobrança voluntária.
 
 § único. O posterior pagamento dos impostos em dívida revalidará os correspondentes títulos de licenciamento, a partir do momento em que o mesmo se efectivar.
 
 ## TÍTULO VI — Disposições gerais e transitórias
 
-###### Art. 85.º Para efeitos do disposto no artigo 31.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), os títulos de licenciamento de transportes particulares ou públicos de aluguer, quando deles não conste por averbamento estarem pagos os impostos de circulação, camionagem ou compensação devidos, serão acompanhados de documentos comprovativos do pagamento dos que forem relativos ao último período de cobrança voluntária de que haja terminado o respectivo prazo.
+Art. 85.º Para efeitos do disposto no artigo 31.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), os títulos de licenciamento de transportes particulares ou públicos de aluguer, quando deles não conste por averbamento estarem pagos os impostos de circulação, camionagem ou compensação devidos, serão acompanhados de documentos comprovativos do pagamento dos que forem relativos ao último período de cobrança voluntária de que haja terminado o respectivo prazo.
 
-###### Art. 86.º O peso bruto dos veículos automóveis e reboques será o que resultar das regras do artigo 14.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, não podendo em caso algum ser alterado.
+Art. 86.º O peso bruto dos veículos automóveis e reboques será o que resultar das regras do artigo 14.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, não podendo em caso algum ser alterado.
 
-###### Art. 87.º São competentes para a fiscalização do cumprimento das disposições do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e do presente regulamento as seguintes entidades:
+Art. 87.º São competentes para a fiscalização do cumprimento das disposições do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e do presente regulamento as seguintes entidades:
 
 a) Direcção-Geral de Transportes Terrestres, por intermédio do seu serviço central de liquidação, da Polícia de Viação e Trânsito e do pessoal técnico para o efeito designado;
 
@@ -700,13 +776,13 @@ c) Guarda Nacional Republicana.
 
 § único. A uniformização e a coordenação do exercício destas competências serão promovidas pela Direcção-Geral de Transportes Terrestres através de instruções adequadas.
 
-###### Art. 88.º A restituição da documentação voluntàriamente depositada para fins de isenção temporária dos impostos referidos neste diploma regulamentar deverá ser requerida pelo menos dez dias antes da data pretendida.
+Art. 88.º A restituição da documentação voluntàriamente depositada para fins de isenção temporária dos impostos referidos neste diploma regulamentar deverá ser requerida pelo menos dez dias antes da data pretendida.
 
-###### Art. 89.º Para os efeitos do disposto nos artigos 11.º, 17.º, § único, 18.º, § 6.º, 24.º e 27.º, alínea 2), do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), as entidades judiciais, policiais ou fiscais que procedam à apreensão da documentação neles referida devem comunicá-la à Direcção-Geral de Transportes Terrestres, bem como, posteriormente, a correspondente entrega aos interessados, no prazo de oito dias, a contar da efectivação desses factos.
+Art. 89.º Para os efeitos do disposto nos artigos 11.º, 17.º, § único, 18.º, § 6.º, 24.º e 27.º, alínea 2), do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), as entidades judiciais, policiais ou fiscais que procedam à apreensão da documentação neles referida devem comunicá-la à Direcção-Geral de Transportes Terrestres, bem como, posteriormente, a correspondente entrega aos interessados, no prazo de oito dias, a contar da efectivação desses factos.
 
 § único. Se o veículo a que respeite a documentação apreendida for vendido judicial ou extrajudicialmente, a entidade que promoveu a venda deverá comunicar o facto da alienação e indicar quem foi o adquirente, no igual prazo de oito dias, a contar dessa mesma alienação.
 
-###### Art. 90.º Salvo os casos em que devam constar de impressos de uso obrigatório, todos os requerimentos, petições e correspondências dirigidos pelos particulares à Direcção-Geral de Transportes Terrestres terão que ser feitos em papel selado, datados e assinados.
+Art. 90.º Salvo os casos em que devam constar de impressos de uso obrigatório, todos os requerimentos, petições e correspondências dirigidos pelos particulares à Direcção-Geral de Transportes Terrestres terão que ser feitos em papel selado, datados e assinados.
 
 § 1.º Não carecem de ser escritas em papel selado as correspondências relativas a informações pedidas pelos serviços sobre pretensões em curso.
 
@@ -720,15 +796,15 @@ Ficará no processo, em sua substituição, certidão de teor, ou fotocópia, qu
 
 § 5.º Serão arquivados os requerimentos e petições que estejam parados, por culpa dos interessados, mais de 60 dias.
 
-###### Art. 91.º Salvo disposição em contrário, é fixado em 30 dias, a contar da entrada do respectivo requerimento na Direcção-Geral de Transportes Terrestres, o prazo para a passagem dos documentos que lhe forem requeridos.
+Art. 91.º Salvo disposição em contrário, é fixado em 30 dias, a contar da entrada do respectivo requerimento na Direcção-Geral de Transportes Terrestres, o prazo para a passagem dos documentos que lhe forem requeridos.
 
-###### Art. 92.º Das multas aplicadas e cobradas nos termos deste regulamento nenhuma percentagem cabe aos autuantes.
+Art. 92.º Das multas aplicadas e cobradas nos termos deste regulamento nenhuma percentagem cabe aos autuantes.
 
-###### Art. 93.º É obrigatória a utilização, para os efeitos do disposto nos artigos 2.º, 4.º, 11.º, 12.º, 13.º, 14.º, 15.º, 24.º, 25.º, 26.º, 27.º, 35.º, 36.º e 38.º, dos impressos cujos modelos se publicam em anexo.
+Art. 93.º É obrigatória a utilização, para os efeitos do disposto nos artigos 2.º, 4.º, 11.º, 12.º, 13.º, 14.º, 15.º, 24.º, 25.º, 26.º, 27.º, 35.º, 36.º e 38.º, dos impressos cujos modelos se publicam em anexo.
 
 § único. Por despacho do Ministro das Comunicações poderão ser alterados os referidos modelos, bem como mandados adoptar os mais que se tornarem necessários à execução dos serviços de que trata o presente regulamento.
 
-###### Art. 94.º A partir de 1 de Janeiro de 1966, o cálculo das compensações a pagar às câmaras municipais nos termos do [Decreto-Lei n.º 31172](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31172-1941-416663), de 14 de Março de 1941, será feito com base nas relações, por classes, dos veículos automóveis existentes nos concelhos em 31 de Dezembro do ano a que tais compensações respeitam.
+Art. 94.º A partir de 1 de Janeiro de 1966, o cálculo das compensações a pagar às câmaras municipais nos termos do [Decreto-Lei n.º 31172](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31172-1941-416663), de 14 de Março de 1941, será feito com base nas relações, por classes, dos veículos automóveis existentes nos concelhos em 31 de Dezembro do ano a que tais compensações respeitam.
 
 § 1.º Não têm que constar destas relações:
 
@@ -742,30 +818,30 @@ d) Os veículos que comprovadamente se encontrem em reparação.
 
 § 2.º As relações relativas aos concelhos das ilhas adjacentes serão enviadas à Direcção-Geral de Transportes Terrestres, até 31 de Janeiro de cada ano, pelas Direcções dos Serviços Industriais, Eléctricos e de Viação do Funchal, Ponta Delgada e Angra do Heroísmo e pela Direcção de Obras Públicas da Horta.
 
-###### Art. 95.º Para efeito das aludidas compensações, a Direcção-Geral de Transportes Terrestres remeterá à Direcção-Geral da Contabilidade Pública, até 1 de Abril de cada ano, uma relação global, por concelhos e distritos, dos veículos que contam para o respectivo cálculo.
+Art. 95.º Para efeito das aludidas compensações, a Direcção-Geral de Transportes Terrestres remeterá à Direcção-Geral da Contabilidade Pública, até 1 de Abril de cada ano, uma relação global, por concelhos e distritos, dos veículos que contam para o respectivo cálculo.
 
-###### Art. 96.º Quanto aos veículos automóveis não abrangidos pelo [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), ou sejam os motociclos e os automóveis particulares e ligeiros de aluguer, destinados a transporte de passageiros, não sujeitos a imposto de compensação, será enviada trienalmente à Direcção-Geral da Contabilidade Pública, pela Direcção-Geral de Transportes Terrestres, na data referida no artigo anterior, uma actualização da relação, por classes, inicialmente remetida.
+Art. 96.º Quanto aos veículos automóveis não abrangidos pelo [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), ou sejam os motociclos e os automóveis particulares e ligeiros de aluguer, destinados a transporte de passageiros, não sujeitos a imposto de compensação, será enviada trienalmente à Direcção-Geral da Contabilidade Pública, pela Direcção-Geral de Transportes Terrestres, na data referida no artigo anterior, uma actualização da relação, por classes, inicialmente remetida.
 
 § único. Para este efeito serão enviadas à Direcção-Geral de Transportes Terrestres, pelos já referidos serviços dos distritos das ilhas adjacentes, relações, por concelhos e classes, dos veículos mencionados no corpo deste artigo.
 
-###### Art. 97.º Fixa-se para 1 de Janeiro de 1965 a obrigatoriedade da licença de circulação dos veículos automóveis e seus reboques afectos a transportes particulares de mercadorias, bem como a entrada em vigor dos regimes tributários estabelecidos no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e aqui regulamentados.
+Art. 97.º Fixa-se para 1 de Janeiro de 1965 a obrigatoriedade da licença de circulação dos veículos automóveis e seus reboques afectos a transportes particulares de mercadorias, bem como a entrada em vigor dos regimes tributários estabelecidos no [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852) e aqui regulamentados.
 
-###### Art. 98.º Os proprietários de veículos automóveis e seus reboques afectos a transporte particular de mercadorias à data da publicação do presente diploma deverão requerer as respectivas licenças de circulação dentro de 30 dias, a contar da mesma publicação, mediante entrega dos respectivos requerimentos nas direcções de viação, nos postos da Polícia de Viação e Trânsito ou nos Serviços Centrais da Direcção-Geral de Transportes Terrestres.
+Art. 98.º Os proprietários de veículos automóveis e seus reboques afectos a transporte particular de mercadorias à data da publicação do presente diploma deverão requerer as respectivas licenças de circulação dentro de 30 dias, a contar da mesma publicação, mediante entrega dos respectivos requerimentos nas direcções de viação, nos postos da Polícia de Viação e Trânsito ou nos Serviços Centrais da Direcção-Geral de Transportes Terrestres.
 
 § único. No distrito autónomo da Horta as licenças serão passadas pela Direcção de Obras Públicas, depois de perante ela requeridas no igual prazo de 30 dias.
 
-###### Art. 99.º As operações de liquidação e cobrança dos impostos de camionagem e de compensação continuarão a ser reguladas pelas disposições legais em vigor até que as de liquidação possam ser feitas no serviço a que se refere o artigo 25.º do diploma legal agora regulamentado, por determinação, em portaria, dos Ministros das Finanças e das Comunicações.
+Art. 99.º As operações de liquidação e cobrança dos impostos de camionagem e de compensação continuarão a ser reguladas pelas disposições legais em vigor até que as de liquidação possam ser feitas no serviço a que se refere o artigo 25.º do diploma legal agora regulamentado, por determinação, em portaria, dos Ministros das Finanças e das Comunicações.
 
-###### Art. 100.º O excedente a 3000$00 no montante anual do imposto de circulação será cobrado por valores sucessivamente crescentes, apurados pela aplicação das percentagens de 30, 50 e 75 por cento nos anos de 1965, 1966 e 1967, respectivamente.
+Art. 100.º O excedente a 3000$00 no montante anual do imposto de circulação será cobrado por valores sucessivamente crescentes, apurados pela aplicação das percentagens de 30, 50 e 75 por cento nos anos de 1965, 1966 e 1967, respectivamente.
 
-###### Art. 101.º Ficam expressamente revogadas as disposições dos artigos 22.º, 87.º, 97.º, 133.º, 160.º, da alínea a) do artigo 228.º, na parte em que se refere ao artigo 13.º, e de todo o capítulo II do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
+Art. 101.º Ficam expressamente revogadas as disposições dos artigos 22.º, 87.º, 97.º, 133.º, 160.º, da alínea a) do artigo 228.º, na parte em que se refere ao artigo 13.º, e de todo o capítulo II do Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Manuel Pinto Barbosa - Carlos Gomes da Silva Ribeiro.
 
 Do Modelo n.º 1 ao Modelo n.º 21
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1964/12/28600/17001724.pdf))](https://files.diariodarepublica.pt/1s/1964/12/28600/17001724.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1964/12/28600/17001724.pdf)
 
 Ministério das Comunicações, 7 de Dezembro de 1964. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro.

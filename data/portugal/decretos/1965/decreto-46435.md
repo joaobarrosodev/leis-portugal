@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46435-1965-292277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7c3bb3ebc858862d6d677cf16c3f6999e379c625432812c98fd36757ce66f10
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0ce606451cbf5d1aa1a0291e55d053e9f8d1af62849a100acf9b65a5198a1db3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:56Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +99,9 @@ Neste termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 24.º e 48.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passam a ter a seguinte redacção:
+Artigo único. Os artigos 24.º e 48.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, passam a ter a seguinte redacção:
 
-###### Art. 24.º Os condutores de veículos automóveis de carga de peso bruto superior a 2500 kg, ou mistos sujeitos a imposto de circulação, utilizados em transportes particulares de mercadorias, serão portadores de guias de transporte, por cada serviço efectuado em carga, de modelo a fixar pela Direcção-Geral de Transportes Terrestres, devidamente preenchidas, sempre que esses transportes excedam o raio de círculo de 30 km, com centro na localidade-sede da actividade do proprietário dos veículos.
+Art. 24.º Os condutores de veículos automóveis de carga de peso bruto superior a 2500 kg, ou mistos sujeitos a imposto de circulação, utilizados em transportes particulares de mercadorias, serão portadores de guias de transporte, por cada serviço efectuado em carga, de modelo a fixar pela Direcção-Geral de Transportes Terrestres, devidamente preenchidas, sempre que esses transportes excedam o raio de círculo de 30 km, com centro na localidade-sede da actividade do proprietário dos veículos.
 
 § 1.º Cumpre aos proprietários dos veículos de carga, mesmo de peso bruto inferior a 2500 kg, bem como aos de veículos mistos sujeitos a imposto de circulação, remeter, mensalmente, à citada Direcção-Geral, até ao dia 20 do mês seguinte àquele a que respeitarem, um resumo, por veículo, dos transportes efectuados no mesmo período, ainda que não excedam o raio de círculo de 30 km.
 
@@ -123,7 +127,7 @@ d) Natureza das mercadorias que em quantidade prevaleceram nos transportes.
 
 ...
 
-###### Art. 48.º Nos casos de originário licenciamento de veículos em pleno curso do ano, cancelamento ou baixa dos correspondentes títulos de licenciamento ou alteração dos elementos a considerar na liquidação, os correspondentes impostos de circulação, de camionagem relativo aos veículos de aluguer e de compensação, devidos no ano em que o respectivo facto ocorrer, serão determinados da forma seguinte:
+Art. 48.º Nos casos de originário licenciamento de veículos em pleno curso do ano, cancelamento ou baixa dos correspondentes títulos de licenciamento ou alteração dos elementos a considerar na liquidação, os correspondentes impostos de circulação, de camionagem relativo aos veículos de aluguer e de compensação, devidos no ano em que o respectivo facto ocorrer, serão determinados da forma seguinte:
 
 a) Nos casos de originário licenciamento, serão reduzidos proporcionalmente em função dos meses completos já decorridos à data da emissão da licença;
 
@@ -141,6 +145,6 @@ c) Nos casos de alteração dos elementos, serão os seus efeitos considerados a
 
 § 5.º Tratando-se de cancelamento ou baixa de licença, proceder-se-á nos termos referidos na segunda parte do parágrafo anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Julho de 1965. - 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

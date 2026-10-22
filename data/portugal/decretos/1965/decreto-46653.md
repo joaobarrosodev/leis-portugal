@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46653-1965-512074
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: de8f6f2b7eec92c9d311ddfbfbdc30c6fa6210dd14e1753a145e827c5cac2f8f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 20c8dc213d7b7d6be464f3b604ac395ea85cfae09ed0c784318647a81307adbf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:44Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +93,15 @@ Considerando, por outro lado, que o progressivo desenvolvimento dos serviços de
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O § único do artigo 20.º e o artigo 131.º do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, promulgado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958 passam a ter a seguinte redacção:
+Artigo único. O § único do artigo 20.º e o artigo 131.º do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, promulgado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958 passam a ter a seguinte redacção:
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 § único. A apreciação destas condições de preferência será feita através das notas de assentamentos e das informações individuais dos concorrentes. Para o efeito, o pessoal indicado na alínea a) do artigo 3.º deste regulamento, com excepção dos chefes das corporações e secções locais, passa a ser informado anualmente em impresso de modelo a aprovar pelo director-geral da Marinha.
 
 ...
 
-###### Art. 131.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
+Art. 131.º Há uma corporação local de pilotos, constituída pelo seguinte pessoal:
 
 1 piloto-mor;
 
@@ -111,6 +115,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 2 ajudantes de escrivão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

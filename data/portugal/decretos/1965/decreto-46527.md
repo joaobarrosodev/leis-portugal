@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46527-1965-509637
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 40bbb49b28adc2993cc731299d4a1a9597b539916cd7060aa684944e1df12ee2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7db453a63525581e20b7b432eb5cf7b80b3dd2fc9bb9e139f38a93bbd26c1e24
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:514803:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:36Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +92,15 @@ Por motivo de urgência, ao abrigo do preceituado no § 1.º do artigo 150.º da
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 155.º e 162.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 155.º e 162.º do Estatuto Orgânico das Alfândegas do Ultramar, aprovado pelo [Decreto n.º 43199](https://diariodarepublica.pt/dr/detalhe/decreto/43199-1960-514803), de 29 de Setembro de 1960, passam a ter a seguinte redacção:
 
-###### Art. 155.º O provimento dos lugares de escriturário de 2.ª classe será efectuado por meio de concurso de provas práticas, a que serão admitidos os indivíduos que possuam o curso geral do comércio ou equivalente.
+Art. 155.º O provimento dos lugares de escriturário de 2.ª classe será efectuado por meio de concurso de provas práticas, a que serão admitidos os indivíduos que possuam o curso geral do comércio ou equivalente.
 
 ...
 
-###### Art. 162.º Aos dactilógrafos incumbe o desempenho de funções de dactilografia e do registo de entrada e saída de correspondência, sendo o provimento dos respectivos lugares efectuado por concurso de provas práticas, a que serão admitidos indivíduos domiciliados na província que possuam como habilitação mínima a 4.ª classe de instrução primária.
+Art. 162.º Aos dactilógrafos incumbe o desempenho de funções de dactilografia e do registo de entrada e saída de correspondência, sendo o provimento dos respectivos lugares efectuado por concurso de provas práticas, a que serão admitidos indivíduos domiciliados na província que possuam como habilitação mínima a 4.ª classe de instrução primária.
 
-###### Art. 2.º O § único do artigo 161.º do Estatuto Orgânico das Alfândegas do Ultramar é substituído por dois parágrafos, com as seguintes redacções:
+Art. 2.º O § único do artigo 161.º do Estatuto Orgânico das Alfândegas do Ultramar é substituído por dois parágrafos, com as seguintes redacções:
 
 § 1.º O provimento dos lugares de estenodactilógrafo será efectuado por concurso de provas práticas, a que serão admitidos indivíduos domiciliados na província que possuam qualquer das habilitações seguintes, tendo preferência na nomeação, em igualdade de classificação, os candidatos habilitados com o curso de estenodactilografia:
 
@@ -106,15 +110,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 2.º É permitida a admissão aos concursos para provimento de lugares de estenodactilógrafo dos dactilógrafos que tenham completado cinco anos de serviço com boas informações anuais.
 
-###### Art. 3.º É aditado ao artigo 162.º do Estatuto Orgânico das Alfândegas do Ultramar o seguinte parágrafo:
+Art. 3.º É aditado ao artigo 162.º do Estatuto Orgânico das Alfândegas do Ultramar o seguinte parágrafo:
 
 § 3.º Podem ser admitidos ao concurso a que se refere o corpo deste artigo indivíduos emancipados.
 
-###### Art. 4.º (transitório). Ingressam nas Categorias de escriturário de 2.ª classe e de dactilógrafo, respectivamente, os actuais escriturários de 2.ª classe, interinos, e dactilógrafos, interinos, desde que uns e outros tenham desempenhado as suas funções há mais de um ano.
+Art. 4.º (transitório). Ingressam nas Categorias de escriturário de 2.ª classe e de dactilógrafo, respectivamente, os actuais escriturários de 2.ª classe, interinos, e dactilógrafos, interinos, desde que uns e outros tenham desempenhado as suas funções há mais de um ano.
 
-###### Art. 5.º É revogado o § único do artigo 155.º do Estatuto Orgânico das Alfândegas do Ultramar.
+Art. 5.º É revogado o § único do artigo 155.º do Estatuto Orgânico das Alfândegas do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

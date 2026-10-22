@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47279-1966-478445
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b859ac9e6b2ea46eeea763520026d53739f6b885f008d8293016b2a351e8cf18
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13b731e20e88f7e338eb740db086c8077c5fd314c5ead0fd6f076ad12cf7a5c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298607:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:02Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Havendo necessidade de alterar algumas categorias do pessoal técnico auxiliar d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos quadros do pessoal dos serviços meteorológicos das províncias ultramarinas que constam da tabela anexa ao [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956, são eliminados os lugares de ajudante de observador radiotelegrafista e de ajudante de observador e criados os lugares de ajudante de observador radiotelegrafista e ajudante de observador de 1.ª classe e de 2.ª classe que constam da tabela I anexa ao presente decreto.
+Artigo 1.º Nos quadros do pessoal dos serviços meteorológicos das províncias ultramarinas que constam da tabela anexa ao [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956, são eliminados os lugares de ajudante de observador radiotelegrafista e de ajudante de observador e criados os lugares de ajudante de observador radiotelegrafista e ajudante de observador de 1.ª classe e de 2.ª classe que constam da tabela I anexa ao presente decreto.
 
-###### Art. 2.º As condições de provimento dos lugares criados pelo artigo anterior são as seguintes:
+Art. 2.º As condições de provimento dos lugares criados pelo artigo anterior são as seguintes:
 
 1) Os lugares de ajudante de observador radiotelegrafista de 1.ª classe são providos por escolha de entre os ajudantes de observador radiotelegrafista de 2.ª classe com três anos, pelo menos, de serviço efectivamente prestado na classe e qualificado de Bom pelo respectivo director ou chefe;
 
@@ -99,15 +103,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4) Os lugares de ajudante de observador de 2.ª classe serão providos por concurso documental a que poderão apresentar-se os indivíduos que na data da abertura do concurso exercerem há mais de seis meses no serviço meteorológico provincial as funções de ajudante de observador de 2.ª classe por nomeação interina, com serviço qualificado de Bom pelo respectivo director ou chefe, e os que tiverem concluído com aproveitamento o estágio para ajudante de observador.
 
-###### Art. 3.º (transitório). Os actuais ajudantes de observador radiotelegrafistas e ajudantes de observador com três anos, pelo menos, de serviço efectivamente prestado na categoria e qualificado de Bom pelo respectivo director ou chefe poderão ser providos por escolha nos lugares de ajudante de observador radiotelegrafista de 1.ª ou de 2.ª classe ou nos de ajudante de observador de 1.ª classe agora criados.
+Art. 3.º (transitório). Os actuais ajudantes de observador radiotelegrafistas e ajudantes de observador com três anos, pelo menos, de serviço efectivamente prestado na categoria e qualificado de Bom pelo respectivo director ou chefe poderão ser providos por escolha nos lugares de ajudante de observador radiotelegrafista de 1.ª ou de 2.ª classe ou nos de ajudante de observador de 1.ª classe agora criados.
 
 § único. Os actuais ajudantes de observador radiotelegrafista e ajudantes de observador que não forem abrangidos pelo disposto no corpo deste artigo considerar-se-ão providos nos lugares de ajudante de observador de 2.ª classe agora criados, com dispensa de qualquer formalidade, além da declaração no Boletim Oficial da província e averbamento no diploma de funções públicas. Cada um deles contará no novo cargo a antiguidade que tinha no anterior.
 
-###### Art. 4.º Ratifica-se, na parte que diz respeito ao Serviço Meteorológico, o Diploma Legislativo de Timor n.º 709, de 31 de Dezembro de 1965.
+Art. 4.º Ratifica-se, na parte que diz respeito ao Serviço Meteorológico, o Diploma Legislativo de Timor n.º 709, de 31 de Dezembro de 1965.
 
-###### Art. 5.º O presente decreto entrará em vigor, para execução total ou por fases em cada uma das províncias ultramarinas, quando as circunstâncias financeiras da província permitirem a inclusão das correspondentes dotações orçamentais.
+Art. 5.º O presente decreto entrará em vigor, para execução total ou por fases em cada uma das províncias ultramarinas, quando as circunstâncias financeiras da província permitirem a inclusão das correspondentes dotações orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -115,6 +119,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas, exce
 
 Tabela I a que se refere o artigo 1.º do presente decreto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/24800/17431744.pdf))](https://files.diariodarepublica.pt/1s/1966/10/24800/17431744.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/24800/17431744.pdf)
 
 Ministério do Ultramar, 25 de Outubro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

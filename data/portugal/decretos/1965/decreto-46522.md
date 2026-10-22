@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46522-1965-509626
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 68b344b0bccb049e6361cd473fd8934f57d878df052e153a466bf6e410356f2e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ab8b9d8bd0b9a00a6c3fba434f57afdd92ca5bd0df740708ae140909dbdec400
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:348747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:36Z'
   warnings: []
   errors: []
 ---
@@ -87,8 +91,8 @@ Com fundamento no disposto no [Decreto-Lei n.º 29170](https://diariodarepublica
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A Câmara Municipal do concelho de Santarém satisfará ao Estado a importância de 57172$80, devida por serviços prestados pelo Instituto Geográfico e Cadastral, em dez prestações anuais, sendo a primeira de 5872$80, vencível no último dia do mês de Janeiro do próximo ano, e as restantes de 5700$00 cada uma, em igual dia do mesmo mês dos anos de 1967 a 1975.
+Artigo único. A Câmara Municipal do concelho de Santarém satisfará ao Estado a importância de 57172$80, devida por serviços prestados pelo Instituto Geográfico e Cadastral, em dez prestações anuais, sendo a primeira de 5872$80, vencível no último dia do mês de Janeiro do próximo ano, e as restantes de 5700$00 cada uma, em igual dia do mesmo mês dos anos de 1967 a 1975.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Ulisses Cruz de Aguiar Cortês.

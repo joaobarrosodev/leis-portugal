@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46323-1965-236752
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: feee2fe9c34c8f9a850aa1311e67b8967582778566f1572f2da37cb83c482c8a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 084852bc88d1ab75ace217f037f7cc62ea79b850d9f3c6e8616a8cced67bfa02
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:351953:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:00Z'
   warnings: []
   errors: []
 ---
@@ -113,9 +117,9 @@ Nestes termos, tendo em conta os interesses económicos e turísticos em causa, 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alterados os artigos 4.º, 5.º, 7.º, 8.º e 11.º do [Decreto n.º 41806](https://diariodarepublica.pt/dr/detalhe/decreto/41806-1958-351953), de 8 de Agosto de 1958, que passam a ter, respectivamente, as seguintes redacções:
+Artigo 1.º São alterados os artigos 4.º, 5.º, 7.º, 8.º e 11.º do [Decreto n.º 41806](https://diariodarepublica.pt/dr/detalhe/decreto/41806-1958-351953), de 8 de Agosto de 1958, que passam a ter, respectivamente, as seguintes redacções:
 
-###### Art. 4.º ...
+Art. 4.º ...
 
 a) Estar o respectivo requerente domiciliado ou ter sede, filial ou agência no concelho para onde requereu a exploração do veículo e ser titular de, pelo menos, doze licenças na sede da exploração relativas ao mesmo tipo de veículos, sem prejuízo dos licenciamentos anteriores.
 
@@ -131,7 +135,7 @@ S 2.º ...
 
 § 4.º ...
 
-###### Art. 5.º As licenças serão canceladas:
+Art. 5.º As licenças serão canceladas:
 
 a) Se os veículos a que respeitarem não iniciarem a exploração do serviço 120 dias após a sua concessão.
 
@@ -143,13 +147,13 @@ c) ...
 
 § 2.º Se, por efeito do cancelamento de uma licença nos casos do parágrafo anterior, deixar de se observar a condição da última parte da alínea a) do artigo 4.º, as demais licenças de que for titular o mesmo industrial só serão canceladas se ele não usar da faculdade que lhe concede o parágrafo anterior no prazo de 90 dias, a contar do cancelamento.
 
-###### Art. 7.º O aluguer de veículos sem condutor só pode contratar-se na sede de exploração indicada na respectiva licença ou nas suas filiais e agências.
+Art. 7.º O aluguer de veículos sem condutor só pode contratar-se na sede de exploração indicada na respectiva licença ou nas suas filiais e agências.
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 § único. As taxas referidas no corpo deste artigo serão fixadas pelas empresas exploradoras, com observância dos limites que forem estabelecidos pelo Ministro das Comunicações, e expostas em lugar bem visível na respectiva sede, filiais ou agências.
 
-###### Art. 11.º Serão punidos:
+Art. 11.º Serão punidos:
 
 a) Com multa de 5000$00:
 
@@ -169,10 +173,10 @@ c) Com a multa de 500$00, a infracção do artigo 9.º
 
 § único. A reincidência na infracção prevista no n.º 1.º da alínea a) deste artigo será punida com a multa de 10000$00 e em caso de nova reincidência com a apreensão do veículo por doze meses.
 
-###### Art. 2.º A fiscalização da indústria de aluguer de automóveis sem condutor compete à Direcção-Geral de Transportes Terrestres e demais autoridades com atribuições na matéria de transportes e também ao Grémio dos Industriais de Transportes em Automóveis.
+Art. 2.º A fiscalização da indústria de aluguer de automóveis sem condutor compete à Direcção-Geral de Transportes Terrestres e demais autoridades com atribuições na matéria de transportes e também ao Grémio dos Industriais de Transportes em Automóveis.
 
-###### Art. 3.º O Ministro das Comunicações pode determinar que os automóveis de aluguer sem condutor tenham uma matrícula especial.
+Art. 3.º O Ministro das Comunicações pode determinar que os automóveis de aluguer sem condutor tenham uma matrícula especial.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

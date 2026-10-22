@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47323-1966-477625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01e3f1006a10de0107a3a03c82c9584412fe23c6decb81f7d07005272a61ad5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1cb88ea7e7467046a7ca6a922c35b9eeca405d37c97d05a0edfa3ddd4275218e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 28
-  section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:22Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +103,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Educação Nacional:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Educação Nacional:
 
 No capítulo 5.º:
 
@@ -95,27 +111,27 @@ Do artigo 838.º n.º 1) «Pessoal dos quadros ...» ... -30000$00
 
 Para o artigo 839.º n.º 1) «Horas extraordinárias ...» ... +30000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério da Educação Nacional, créditos especiais no montante de 1573001$00, destinados a reforçar verbas insuficientemente dotadas do segundo dos mencionados Ministérios:
+Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério da Educação Nacional, créditos especiais no montante de 1573001$00, destinados a reforçar verbas insuficientemente dotadas do segundo dos mencionados Ministérios:
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 4.º n.º 1), alínea 1 «...: Despesas com o automóvel do Ministro» ... 60000$00
+Artigo 4.º n.º 1), alínea 1 «...: Despesas com o automóvel do Ministro» ... 60000$00
 
-### Capitulo 2.º «Secretaria-Geral»:
+Capitulo 2.º «Secretaria-Geral»:
 
-###### Artigo 22.º, n.º 1), alínea 1 «Aquisição de insígnias ...» ... 6000$00
+Artigo 22.º, n.º 1), alínea 1 «Aquisição de insígnias ...» ... 6000$00
 
 Inspecção do Ensino Particular
 
-###### Artigo 45.º, n.º 2) «Artigos de expediente ...» ... 5000$00
+Artigo 45.º, n.º 2) «Artigos de expediente ...» ... 5000$00
 
-###### Artigo 47.º, n.º 3) «Transportes» ... 18000$00
+Artigo 47.º, n.º 3) «Transportes» ... 18000$00
 
-### Capitulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
+Capitulo 3.º «Direcção-Geral do Ensino Superior e das Belas-Artes»:
 
 Direcção-Geral
 
-###### Artigo 55.º «Despesas de comunicações»:
+Artigo 55.º «Despesas de comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 2500$00
 
@@ -125,49 +141,49 @@ Universidade de Lisboa
 
 Faculdade de Medicina
 
-###### Artigo 236.º «Material de consumo corrente»:
+Artigo 236.º «Material de consumo corrente»:
 
 N.º 1) «Impressos» ... 2000$00
 
 N.º 2) «Artigos de expediente ...» ... 25000$00
 
-###### Artigo 237.º, n.º 1) «Luz, ...» ... 10000$00
+Artigo 237.º, n.º 1) «Luz, ...» ... 10000$00
 
-###### Artigo 238.º, n.º 2) «Telefones» ... 400$00
+Artigo 238.º, n.º 2) «Telefones» ... 400$00
 
 Anexos à Faculdade de Ciências
 
 Museu Nacional de História Natural (Museu, Laboratório e Jardim Botânico)
 
-###### Artigo 282.º, n.º 2) «Luz, ...» ... 50000$00
+Artigo 282.º, n.º 2) «Luz, ...» ... 50000$00
 
 Universidade do Porto
 
 Faculdade de Engenharia
 
-###### Artigo 403.º, n.º 2) «De móveis» ... 10000$00
+Artigo 403.º, n.º 2) «De móveis» ... 10000$00
 
-###### Artigo 404.º, n.º 3) «Artigos de expediente ...» ... 15000$00
+Artigo 404.º, n.º 3) «Artigos de expediente ...» ... 15000$00
 
 Universidade Técnica de Lisboa
 
 Instituto Superior de Agronomia
 
-###### Artigo 455.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 40000$00
+Artigo 455.º, n.º 1) «De imóveis», alínea 1 «Prédios rústicos» ... 40000$00
 
 Estabelecimentos diversos
 
 Academia das Ciências de Lisboa
 
-###### Artigo 485.º, n.º 1) «Luz, ...» ... 7000$00
+Artigo 485.º, n.º 1) «Luz, ...» ... 7000$00
 
 Instituto de António Aurélio da Costa Ferreira
 
-###### Artigo 524, n.º 1) «Móveis» ... 20000$00
+Artigo 524, n.º 1) «Móveis» ... 20000$00
 
-###### Artigo 525.º, n.º 2) «De móveis» ... 20000$00
+Artigo 525.º, n.º 2) «De móveis» ... 20000$00
 
-### Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
+Capítulo 5.º «Direcção-Geral do Ensino Técnico Profissional»:
 
 Ensino industrial e comercial
 
@@ -175,23 +191,23 @@ Ensino médio
 
 Instituto Comercial de Lisboa
 
-###### Artigo 787.º, n.º 2) «Pessoal contratado ...: Professores ordinários ...» ... 306818$00
+Artigo 787.º, n.º 2) «Pessoal contratado ...: Professores ordinários ...» ... 306818$00
 
-###### Artigo 788.º, n.º 1) «Gratificações por serviços extraordinários ...» ... 68203$00
+Artigo 788.º, n.º 1) «Gratificações por serviços extraordinários ...» ... 68203$00
 
 Instituto Industrial de Lisboa
 
-###### Artigo 796.º, n.º 2) «Pessoal contratado ...: Professores ordinários ...» ... 588400$00
+Artigo 796.º, n.º 2) «Pessoal contratado ...: Professores ordinários ...» ... 588400$00
 
-###### Artigo 797.º n.º 1) «Gratificações por serviços extraordinários ...» ... 146800$00
+Artigo 797.º n.º 1) «Gratificações por serviços extraordinários ...» ... 146800$00
 
 Escolas técnicas elementares, industriais, comerciais e industriais-comerciais
 
-###### Artigo 841.º, n.º 2) «Móveis»:
+Artigo 841.º, n.º 2) «Móveis»:
 
 Escola Industrial e Comercial de Emídio Navarro, em Almada ... 5000$00
 
-###### Artigo 842.º, n.º 1) «De imóveis» alínea 2, «Prédios urbanos»:
+Artigo 842.º, n.º 1) «De imóveis» alínea 2, «Prédios urbanos»:
 
 Escola Industrial e Comercial de Espinho ... 2500$00
 
@@ -199,7 +215,7 @@ Escola Industrial e Comercial de Vila Nova de Famalicão ... 7500$00
 
 ... 10000$00
 
-###### Artigo 843.º «Material de consumo corrente»:
+Artigo 843.º «Material de consumo corrente»:
 
 N.º 1) «Matérias-primas ...»:
 
@@ -217,7 +233,7 @@ N.º 3) «Artigos de expediente ...»:
 
 Escola Industrial e Comercial de Emídio Navarro, em Almada ... 10000$00
 
-###### Artigo 844.º, n.º 2) «Luz, ...»:
+Artigo 844.º, n.º 2) «Luz, ...»:
 
 Escola Industrial e Comercial de Guimarães ... 10000$00
 
@@ -233,7 +249,7 @@ Escola Industrial e Comercial de Emídio Navarro, em Almada ... 10000$00
 
 ... 50000$00
 
-###### Artigo 845.º, n.º 2) «Telefones»:
+Artigo 845.º, n.º 2) «Telefones»:
 
 Escola Industrial e Comercial de Vila Nova de Famalicão ... 500$00
 
@@ -241,7 +257,7 @@ Escola Industrial de Torres Novas ... 800$00
 
 ... 1300$00
 
-###### Artigo 848.º, n.º 1) «Força motriz»:
+Artigo 848.º, n.º 1) «Força motriz»:
 
 Escola Industrial e Comercial de Vila Nova de Famalicão ... 3500$00
 
@@ -255,32 +271,32 @@ Ensino médio
 
 Escola de Regentes Agrícolas de Évora
 
-###### Artigo 870.º, n.º 3) «Pessoal assalariado» ... 66580$00
+Artigo 870.º, n.º 3) «Pessoal assalariado» ... 66580$00
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário»:
 
 Ensino primário
 
-###### Artigo 913, n.º 3) «Transportes», alínea 1 «Direcções dos Distritos Escolares»:
+Artigo 913, n.º 3) «Transportes», alínea 1 «Direcções dos Distritos Escolares»:
 
 Direcção do Distrito Escolar de Viana do Castelo ... 3000$00
 
 ... 1573001$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes reduções em verbas de despesa no vigente orçamento do Ministério da Educação Nacional:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes reduções em verbas de despesa no vigente orçamento do Ministério da Educação Nacional:
 
-### Capítulo 2.º, artigo 21.º, n.º 3), alínea 6 ... 337200$00
+Capítulo 2.º, artigo 21.º, n.º 3), alínea 6 ... 337200$00
 
-### Capítulo 5.º, artigo 838.º, n.º 1) ... 1176801$00
+Capítulo 5.º, artigo 838.º, n.º 1) ... 1176801$00
 
-### Capítulo 5.º, artigo 844.º, n.º 2) ... 56000$00
+Capítulo 5.º, artigo 844.º, n.º 2) ... 56000$00
 
-### Capitulo 6.º, artigo 906.º, n.º 1), alínea 1 - Direcção do Distrito Escolar de Viana do Castelo ... 3000$00
+Capitulo 6.º, artigo 906.º, n.º 1), alínea 1 - Direcção do Distrito Escolar de Viana do Castelo ... 3000$00
 
 ... 1573001$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Vareta - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

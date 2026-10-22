@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46946-1966-487939
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f04de2c3f3bea20b15c9f5c8f0149b7f15be7562e97cf31ee3ff0e60f1f5be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f3e5326b4ef88a456eadf57ab152974b914c86007e4768e8ee67a473c7db4fc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:578729:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:27Z'
   warnings: []
   errors: []
 ---
@@ -91,23 +99,23 @@ Tendo em atenção os pareceres dos governos das províncias ultramarinas e ouvi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Poderão exercer a enfermagem nas províncias ultramarinas os indivíduos que a data da entrada em vigor do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, já ali a exerciam legalmente, embora sem possuir as qualificações que passaram a ser exigidas pelo artigo 246.º do mesmo decreto.
+Artigo 1.º Poderão exercer a enfermagem nas províncias ultramarinas os indivíduos que a data da entrada em vigor do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, já ali a exerciam legalmente, embora sem possuir as qualificações que passaram a ser exigidas pelo artigo 246.º do mesmo decreto.
 
-###### Art. 2.º Para os efeitos referidos no número anterior é necessário:
+Art. 2.º Para os efeitos referidos no número anterior é necessário:
 
 a) Tratando-se de indivíduos que na data considerada tivessem mais de cinco anos de prática profissional, que provem que a exerceram em condições eficientes, mediante atestado passado pelos directores dos estabelecimentos ou casas de assistência onde prestaram serviço ou pelo respectivo delegado de saúde;
 
 b) Tratando-se de indivíduos que então tivessem mais de dois e até cinco anos de tirocínio, que apresentem atestados em termos idênticos aos da alínea anterior e, depois de 31 de Dezembro de 1968, que provem ter obtido aprovação em exame de aptidão profissional.
 
-###### Art. 3.º Os indivíduos quando habilitados por escolas de enfermagem estrangeiras deverão requerer o Exame de Estado para poderem exercer a profissão, dentro de um prazo não superior a 60 dias, a contar da publicação deste decreto, ou nos 60 dias seguinte àquele em que iniciarem o exercício da profissão.
+Art. 3.º Os indivíduos quando habilitados por escolas de enfermagem estrangeiras deverão requerer o Exame de Estado para poderem exercer a profissão, dentro de um prazo não superior a 60 dias, a contar da publicação deste decreto, ou nos 60 dias seguinte àquele em que iniciarem o exercício da profissão.
 
-###### Art. 4.º As provas de exame de aptidão profissional ou de Exame de Estado serão prestadas perante júri nomeado pelo governador e a elas poderão ser admitidos, além dos indivíduos citados na alínea b) do artigo 2.º, os que, com excepção da idade, reúnam as condições necessárias para admissão aos cursos que habilitem ao exercício da profissão, seja qual for o tempo de prática profissional que possuam.
+Art. 4.º As provas de exame de aptidão profissional ou de Exame de Estado serão prestadas perante júri nomeado pelo governador e a elas poderão ser admitidos, além dos indivíduos citados na alínea b) do artigo 2.º, os que, com excepção da idade, reúnam as condições necessárias para admissão aos cursos que habilitem ao exercício da profissão, seja qual for o tempo de prática profissional que possuam.
 
 § único. Na determinação das condições mencionadas no corpo do artigo ter-se-á em atenção o disposto no artigo 115.º do [Decreto n.º 45818](https://diariodarepublica.pt/dr/detalhe/decreto/45818-1964-578729), de 15 de Julho de 1964.
 
-###### Art. 5.º Pelos serviços de saúde e assistência das províncias ultramarinas serão estabelecidas as demais condições regulamentares para a realização dos exames de que trata o presente diploma, que serão aprovados em portaria do respectivo governador.
+Art. 5.º Pelos serviços de saúde e assistência das províncias ultramarinas serão estabelecidas as demais condições regulamentares para a realização dos exames de que trata o presente diploma, que serão aprovados em portaria do respectivo governador.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

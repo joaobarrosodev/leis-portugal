@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47618-1967-509206
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f7b653fdde455dac3dfc27f52fe3d27ddf1372ae82685172c458ad9e54945913
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5441b51e7ad1f310f2184ddabe7f3daffa28c3d0d26a5234bd30a17edf67de99
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500896:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 23
-  section_count: 33
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:59Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +120,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério do Ultramar
 
@@ -112,53 +144,53 @@ Do artigo 314.º, n.º 1), alínea 1 «Restituição do imposto ferroviário ...
 
 Para o artigo 315.º, n.º 2) «Missões de estudo ...» ... +54000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 96730211$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 96730211$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 1.º «Presidência da República - Secretaria-Geral da Presidência da República»:
+Capítulo 1.º «Presidência da República - Secretaria-Geral da Presidência da República»:
 
-###### Artigo 7.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motor» ... 468890$00
+Artigo 7.º «Aquisições de utilização permanente», n.º 2) «Semoventes», alínea 1 «Viaturas com motor» ... 468890$00
 
-### Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
+Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
 
-###### Artigo 91.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, ...» ... 750000$00
+Artigo 91.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, ...» ... 750000$00
 
 ... 1218890$00
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 9.º, n.º 1) «Gastos Confidenciais ...» ... 4700000$00
+Artigo 9.º, n.º 1) «Gastos Confidenciais ...» ... 4700000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 53.º «Despesas de conservação ...»:
+Artigo 53.º «Despesas de conservação ...»:
 
 N.º 2), alínea 1 «Castelos e monumentos nacionais» ... 5000$00
 
 N.º 3), alínea 6 «Ampliações e reparações de casas económicas» ... 2000000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Hidráulicos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Hidráulicos»:
 
-###### Artigo 61.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 61.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante 11 meses)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/07600/06630664.pdf))](https://files.diariodarepublica.pt/1s/1967/03/07600/06630664.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/07600/06630664.pdf)
 
-### Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
+Capítulo 7.º «Direcção-Geral dos Serviços de Urbanização»:
 
-###### Artigo 85.º, n.º 2) «Pessoal contratado não pertencente aos quadros ...» ... 84100$00
+Artigo 85.º, n.º 2) «Pessoal contratado não pertencente aos quadros ...» ... 84100$00
 
-###### Artigo 87.º, n.º 5) «Subsídio eventual de custo de vida ...» ... 16820$00
+Artigo 87.º, n.º 5) «Subsídio eventual de custo de vida ...» ... 16820$00
 
-### Capítulo 14.º «Plano Intercalar de Fomento - Transportes e comunicações»:
+Capítulo 14.º «Plano Intercalar de Fomento - Transportes e comunicações»:
 
-###### Artigo 109.º «Transportes rodoviários», n.º 2) «Ponte Salazar»:
+Artigo 109.º «Transportes rodoviários», n.º 2) «Ponte Salazar»:
 
 Alínea 1 «Estudos, projectos, expropriações e fiscalização» (b) ... 4000000$00
 
@@ -166,137 +198,137 @@ Alínea 2 «Prémio por antecipação da conclusão da obra» ... 7820000$00
 
 Alínea 3 «Para liquidação de encargos de construção» ... 23240760$90
 
-###### Artigo 110.º «Portos», n.º 6) «Vila do Porto» ... 5000000$00
+Artigo 110.º «Portos», n.º 6) «Vila do Porto» ... 5000000$00
 
-### Capítulo 15.º «Outros investimentos»:
+Capítulo 15.º «Outros investimentos»:
 
-###### Artigo 118.º, n.º 1) «Subsídios para melhoramentos rurais ...» ... 642239$10
+Artigo 118.º, n.º 1) «Subsídios para melhoramentos rurais ...» ... 642239$10
 
-###### Artigo 118.º-A «Melhoramentos locais», n.º 1) «Subsídio extraordinário, nos termos do [Decreto-Lei n.º 47290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47290-1966-478660), de 29 de Outubro de 1966» ... 9909602$50
+Artigo 118.º-A «Melhoramentos locais», n.º 1) «Subsídio extraordinário, nos termos do [Decreto-Lei n.º 47290](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47290-1966-478660), de 29 de Outubro de 1966» ... 9909602$50
 
 ... 52790022$50
 
 Ministério do Ultramar
 
-### Capítulo 13.º «Organismos dependentes - Instituto Superior de Ciências Sociais e Política Ultramarina»:
+Capítulo 13.º «Organismos dependentes - Instituto Superior de Ciências Sociais e Política Ultramarina»:
 
-###### Artigo 100.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal contratado não pertencente aos quadros» ... 230400$00
+Artigo 100.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal contratado não pertencente aos quadros» ... 230400$00
 
 Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 3.º «Gabinete do Secretário de Estado»:
+Capítulo 3.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 24.º, n.º 1) «Ajudas de custo» ... 13000$00
+Artigo 24.º, n.º 1) «Ajudas de custo» ... 13000$00
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Agrícolas»:
+Capítulo 4.º «Direcção-Geral dos Serviços Agrícolas»:
 
-###### Artigo 47.º, n.º 1) «Participações em cobranças ...» ... 2700000$00
+Artigo 47.º, n.º 1) «Participações em cobranças ...» ... 2700000$00
 
-###### Artigo 50.º «Outros encargos», n.º 14.º «Indemnizações a terceiros resultantes de acidentes de viação provocados por veículos do Estado» ... 5898$50
+Artigo 50.º «Outros encargos», n.º 14.º «Indemnizações a terceiros resultantes de acidentes de viação provocados por veículos do Estado» ... 5898$50
 
 Estação Agronómica Nacional
 
-###### Artigo 58.º, n.º 1) «Participações em cobranças ...» ... 800000$00
+Artigo 58.º, n.º 1) «Participações em cobranças ...» ... 800000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários»:
+Capítulo 5.º «Direcção-Geral dos Serviços Pecuários»:
 
 Estabelecimentos diversos
 
 Estação Zootécnica Nacional
 
-###### Artigo 104.º, n.º 1) «Participações em cobranças ...» ... 1500000$00
+Artigo 104.º, n.º 1) «Participações em cobranças ...» ... 1500000$00
 
 Estações de fomento pecuário
 
-###### Artigo 140.º, n.º 1) «Participações em cobranças ...» ... 1200000$00
+Artigo 140.º, n.º 1) «Participações em cobranças ...» ... 1200000$00
 
 Secretaria de Estado da Indústria
 
-### Capítulo 14.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
+Capítulo 14.º «Inspecção-Geral dos Produtos Agrícolas e Industriais»:
 
-###### Artigo 267.º, n.º 1) «Rendas de casa ...» ... 72000$00
+Artigo 267.º, n.º 1) «Rendas de casa ...» ... 72000$00
 
-### Capítulo 25.º «Plano Intercalar de Fomento»:
+Capítulo 25.º «Plano Intercalar de Fomento»:
 
 Agricultura, silvicultura e pecuária
 
-###### Artigo 334.º «Investimentos de maior reprodutividade imediata»:
+Artigo 334.º «Investimentos de maior reprodutividade imediata»:
 
 N.º 4), alínea 1 «Sanidade das plantas» ... 1000000$00
 
 N.º 5) «Melhoramentos agrícolas» ... 20000000$00
 
-###### Artigo 335.º, n.º 5) «Motomecanização da agricultura» ... 10000000$00
+Artigo 335.º, n.º 5) «Motomecanização da agricultura» ... 10000000$00
 
 ... 37290898$50
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 23.º, n.º 1) «Rendas de casa» ... 500000$00
+Artigo 23.º, n.º 1) «Rendas de casa» ... 500000$00
 
 ... 96730211$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 177.º «Reembolso das importâncias despendidas com a reparação, conservação e melhoramento de casas económicas» ... 2000000$00
+Capítulo 7.º, artigo 177.º «Reembolso das importâncias despendidas com a reparação, conservação e melhoramento de casas económicas» ... 2000000$00
 
-### Capítulo 7.º, artigo 187.º «Reembolso das despesas com os serviços de urbanização» ... 100920$00
+Capítulo 7.º, artigo 187.º «Reembolso das despesas com os serviços de urbanização» ... 100920$00
 
-### Capítulo 7.º, artigo 201.º «Reposições não abatidas nos pagamentos» ... 10551841$60
+Capítulo 7.º, artigo 201.º «Reposições não abatidas nos pagamentos» ... 10551841$60
 
-### Capítulo 8.º, artigo 248.º «Direcção-Geral dos Serviços Agrícolas» ... 2700000$00
+Capítulo 8.º, artigo 248.º «Direcção-Geral dos Serviços Agrícolas» ... 2700000$00
 
-### Capítulo 8.º, artigo 249.º «Estabelecimentos zootécnicos.» ... 2700000$00
+Capítulo 8.º, artigo 249.º «Estabelecimentos zootécnicos.» ... 2700000$00
 
-### Capítulo 8.º, artigo 259.º «Estação Agronómica Nacional» ... 800000$00
+Capítulo 8.º, artigo 259.º «Estação Agronómica Nacional» ... 800000$00
 
-### Capítulo 9.º, artigo 279.º «Produto da venda de títulos ou de empréstimos» ... 42820000$00
+Capítulo 9.º, artigo 279.º «Produto da venda de títulos ou de empréstimos» ... 42820000$00
 
-### Capítulo 9.º, artigo 281.º-A «Crédito externo - Classe III» ... 21799814$20
+Capítulo 9.º, artigo 281.º-A «Crédito externo - Classe III» ... 21799814$20
 
-### Capítulo 9.º, artigo 281.º-B «Crédito externo - Classe IV» ... 1440946$70
+Capítulo 9.º, artigo 281.º-B «Crédito externo - Classe IV» ... 1440946$70
 
-### Capítulo 9.º, artigo 296.º «Reembolso do valor do autofinanciamento da Junta Geral do Distrito Autónomo de Ponta Delgada» ... 3000000$00
+Capítulo 9.º, artigo 296.º «Reembolso do valor do autofinanciamento da Junta Geral do Distrito Autónomo de Ponta Delgada» ... 3000000$00
 
-### Capítulo 9.º, artigo 302.º «Entrega a efectuar pelo Fundo de Desemprego para obras no porto de Vila do Porto» ... 2000000$00
+Capítulo 9.º, artigo 302.º «Entrega a efectuar pelo Fundo de Desemprego para obras no porto de Vila do Porto» ... 2000000$00
 
 ... 89913522$50
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 5923890$00
+Capítulo 1.º, artigo 13.º ... 5923890$00
 
-### Capítulo 7.º, artigo 61º, n.º 1) ... 500000$00
+Capítulo 7.º, artigo 61º, n.º 1) ... 500000$00
 
 ... 6423890$00
 
 Ministério das Obras Públicas
 
-### Capítulo 5.º, artigo 61.º, n.º 1) ... 71500$00
+Capítulo 5.º, artigo 61.º, n.º 1) ... 71500$00
 
 Ministério do Ultramar
 
-### Capítulo 13.º, artigo 100.º, n.º 1) ... 230400$00
+Capítulo 13.º, artigo 100.º, n.º 1) ... 230400$00
 
 Ministério da Economia
 
-### Capítulo 3.º, artigo 30.º, n.º 2), alínea 1 ... 13000$00
+Capítulo 3.º, artigo 30.º, n.º 2), alínea 1 ... 13000$00
 
-### Capítulo 4.º, artigo 50.º, n.º 9) ... 5898$50
+Capítulo 4.º, artigo 50.º, n.º 9) ... 5898$50
 
-### Capítulo 14.º, artigo 257.º, n.º 1) ... 72000$00
+Capítulo 14.º, artigo 257.º, n.º 1) ... 72000$00
 
 ... 90898$50
 
 ... 96730211$00
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério da Justiça
 
@@ -312,6 +344,6 @@ Do Ministério das Obras Públicas
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46512-1965-292760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a2c0c46982094d3efee5a085b673714e7c0babb55fa2629715111056f06fe89
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a022e2c71d35332d35659a22bbd1d2421ff66d49be9572d319e1095f727f7b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:374064:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:639323:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:30Z'
   warnings: []
   errors: []
 ---
@@ -85,18 +97,18 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 1.º e o § único do artigo 3.º do [Decreto n.º 39803](https://diariodarepublica.pt/dr/detalhe/decreto/39803-1954-639323), de 2 de Setembro de 1954, passam a ter a seguinte redacção:
+Artigo único. O artigo 1.º e o § único do artigo 3.º do [Decreto n.º 39803](https://diariodarepublica.pt/dr/detalhe/decreto/39803-1954-639323), de 2 de Setembro de 1954, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O estágio a que se referem os artigos 6.º e 7.º do [Decreto-Lei n.º 37040](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37040-1948-374064), de 2 de Setembro de 1948, realiza-se no hospital escolar ou outros serviços da Faculdade em que o candidato concluir o curso, ou, mediante transferência, nos termos dos artigos 79.º e seguintes do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, no hospital escolar ou outros serviços de Faculdade congénere.
+Artigo 1.º O estágio a que se referem os artigos 6.º e 7.º do [Decreto-Lei n.º 37040](https://diariodarepublica.pt/dr/detalhe/decreto-lei/37040-1948-374064), de 2 de Setembro de 1948, realiza-se no hospital escolar ou outros serviços da Faculdade em que o candidato concluir o curso, ou, mediante transferência, nos termos dos artigos 79.º e seguintes do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, no hospital escolar ou outros serviços de Faculdade congénere.
 
 § único. O Ministro da Educação Nacional poderá autorizar, em caso justificado, que o estágio se realize em serviços do Ministério não dependentes das Faculdades de Medicina.
 
 ...
 
-###### Art. 3.º ...
+Art. 3.º ...
 
 § único. Para os candidatos que, em virtude de concluírem o curso na época de Outubro, não puderam iniciar em 1 do mesmo mês o estágio, este prosseguirá até perfazer o tempo em falta. A prorrogação verificar-se-á no ano escolar seguinte ou, se o director da Faculdade o permitir, durante as férias grandes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

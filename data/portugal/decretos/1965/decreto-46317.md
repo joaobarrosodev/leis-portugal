@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/04/09400/06080612.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,60 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46317-1965-236694
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-04-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bbb03d06bcc3c375e0807cf56c4fb1bc3deeea63d2fe44f800c22526fbcb3f91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 610c5ed5db50aa8c4bfc3938f2c0d18f08f2d07033c8c35fc85b45dccdc1f7c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Forças Armadas
+- Invalidez
+- Lares
+- Militar
+- Proteção na Velhice
+- Regulamento
+- Serviços Sociais
 relationships:
 - type: amended_by
   target: pt:dre:161719:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:236693:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431779:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:1945608:por
+  label: "REVOGADO PELO DEC LEI 284/95 DE 30-OUT DR.IS-A [251]\0[251]"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/sem-diploma/2000-1945608
+  date: '1995-10-30'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:59Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +114,7 @@ REGULAMENTO DO LAR DE VETERANOS MILITARES
 
 ### CAPÍTULO I — Condições de admissão
 
-###### Artigo 1.º Poderão ser admitidos no Lar de Veteranos Militares:
+Artigo 1.º Poderão ser admitidos no Lar de Veteranos Militares:
 
 1.º Os militares que se tenham impossibilitado:
 
@@ -126,9 +146,9 @@ g) Melhor comportamento militar e civil.
 
 § 2.º Não podem ser internados os portadores de doença mental ou contagiosa ou de qualquer outra que careça de tratamentos especiais que não possam ser ministrados no Lar.
 
-###### Art. 2.º Poderão ainda ser internados no Lar os militares reformados quando não tenham família com quem vivam e paguem total ou parcelarmente as despesas de alimentação e de instalação, tendo preferência os econòmicamente mais débeis.
+Art. 2.º Poderão ainda ser internados no Lar os militares reformados quando não tenham família com quem vivam e paguem total ou parcelarmente as despesas de alimentação e de instalação, tendo preferência os econòmicamente mais débeis.
 
-###### Art. 3.º O número de internados é limitado pela possibilidade de alojamentos e pelas verbas destinadas às despesas do internamento.
+Art. 3.º O número de internados é limitado pela possibilidade de alojamentos e pelas verbas destinadas às despesas do internamento.
 
 § 1.º Nas condições a seguir mencionadas, poderá ser autorizada a concessão de um subsídio mensal em dinheiro e a residência fora do Lar:
 
@@ -138,13 +158,13 @@ b) Àqueles cujo internamento não seja possível ou conveniente, por fundadas r
 
 § 2.º O subsídio mensal em dinheiro referido no parágrafo anterior não poderá exceder a importância estabelecida para a alimentação de cada internado em idêntico período e será pago pelo Lar por conta da verba destinada à alimentação de veteranos militares.
 
-###### Art. 4.º A admissão no Lar e a concessão de subsídios carecem, sempre, de autorização do Ministro da Defesa Nacional, requerida através dos Serviços Sociais das Forças Armadas, devendo os candidatos instruir os seus requerimentos com os documentos comprovativos das condições exigidas.
+Art. 4.º A admissão no Lar e a concessão de subsídios carecem, sempre, de autorização do Ministro da Defesa Nacional, requerida através dos Serviços Sociais das Forças Armadas, devendo os candidatos instruir os seus requerimentos com os documentos comprovativos das condições exigidas.
 
-###### Art. 5.º Os candidatos serão admitidos desde que satisfaçam às condições legais e o internamento seja possível nos termos do corpo do artigo 3.º
+Art. 5.º Os candidatos serão admitidos desde que satisfaçam às condições legais e o internamento seja possível nos termos do corpo do artigo 3.º
 
 ### CAPÍTULO II — Organização
 
-###### Art. 6.º O Lar compreende:
+Art. 6.º O Lar compreende:
 
 A) Corpo directivo
 
@@ -234,15 +254,15 @@ Categorias (ver nota a):
 
 ### CAPÍTULO III — Atribuições do pessoal
 
-###### Art. 7.º Ao director compete superintender em todo o serviço, disciplina e administração, em conformidade com o disposto nestes e noutros regulamentos ou determinações aplicáveis.
+Art. 7.º Ao director compete superintender em todo o serviço, disciplina e administração, em conformidade com o disposto nestes e noutros regulamentos ou determinações aplicáveis.
 
-###### Art. 8.º O chefe da secretaria desempenha as suas funções cumulativamente com as de comandante do corpo de veteranos militares, sendo umas e outras idênticas às de chefe de secretaria e de comandante de companhia de unidades activas.
+Art. 8.º O chefe da secretaria desempenha as suas funções cumulativamente com as de comandante do corpo de veteranos militares, sendo umas e outras idênticas às de chefe de secretaria e de comandante de companhia de unidades activas.
 
 § único. O adjunto será o auxiliar directo do comandante do corpo de veteranos militares e poderá desempenhar outros serviços que lhe sejam determinados pelo director do Lar.
 
-###### Art. 9.º Ao chefe da contabilidade e ao tesoureiro do conselho administrativo compete o desempenho dos serviços que lhes são atribuídos pelo Regulamento para a Organização, Funcionamento, Contabilidade e Escrituração dos Conselhos Administrativos em vigor no Ministério do Exército, desempenhando ainda quaisquer outros serviços adequados quando o director do Lar o julgar conveniente ou necessário.
+Art. 9.º Ao chefe da contabilidade e ao tesoureiro do conselho administrativo compete o desempenho dos serviços que lhes são atribuídos pelo Regulamento para a Organização, Funcionamento, Contabilidade e Escrituração dos Conselhos Administrativos em vigor no Ministério do Exército, desempenhando ainda quaisquer outros serviços adequados quando o director do Lar o julgar conveniente ou necessário.
 
-###### Art. 10.º Ao médico compete:
+Art. 10.º Ao médico compete:
 
 a) Prestar assistência a todo o pessoal do Lar, quer internado, quer em serviço, bem como a todos os familiares que o requisitem, desde que não residam além de 1 km do estabelecimento;
 
@@ -256,13 +276,13 @@ e) Promover que exista sempre no Lar, em carga à enfermaria, uma pequena reserv
 
 § único. Além da revista normal diária, haverá semanalmente uma revista geral de saúde obrigatória para os internados, em dia e hora designados em ordem de serviço do Lar.
 
-###### Art. 11.º Ao sacerdote compete assegurar a assistência religiosa aos veteranos militares internados e ao pessoal em serviço no Lar.
+Art. 11.º Ao sacerdote compete assegurar a assistência religiosa aos veteranos militares internados e ao pessoal em serviço no Lar.
 
-###### Art. 12.º Ao restante pessoal em serviço no Lar compete executar, de harmonia com a legislação em vigor e as instruções do director, os serviços que lhe forem atribuídos, segundo os seus postos e profissões.
+Art. 12.º Ao restante pessoal em serviço no Lar compete executar, de harmonia com a legislação em vigor e as instruções do director, os serviços que lhe forem atribuídos, segundo os seus postos e profissões.
 
-###### Art. 13.º Para fins de disciplina, administração e nomeação de serviço, os sargentos e praças do quadro do Lar ou nele apresentados para prestação de serviço, bem como o pessoal menor, ficam adidos ao corpo de veteranos.
+Art. 13.º Para fins de disciplina, administração e nomeação de serviço, os sargentos e praças do quadro do Lar ou nele apresentados para prestação de serviço, bem como o pessoal menor, ficam adidos ao corpo de veteranos.
 
-###### Art. 14.º Quando, por motivo de falta ou de impedimento, os oficiais ou outro pessoal em serviço no Lar tenham de ser substituídos nas suas funções, sê-lo-ão pela forma seguinte:
+Art. 14.º Quando, por motivo de falta ou de impedimento, os oficiais ou outro pessoal em serviço no Lar tenham de ser substituídos nas suas funções, sê-lo-ão pela forma seguinte:
 
 a) O director, pelo oficial mais graduado em serviço no Lar ou, em igualdade de posto, pelo mais antigo;
 
@@ -272,19 +292,19 @@ c) As substituições dentro do restante pessoal serão também determinadas pel
 
 ### CAPÍTULO IV — Serviços
 
-###### Art. 15.º O regime do Lar será o de internato. Os internados terão normalmente as formaturas diárias necessárias para as refeições. O director poderá autorizar a saída do Lar, em dois dias por semana e durante as horas julgadas mais convenientes, aos internados que, pelo seu comportamento, mereçam tal concessão.
+Art. 15.º O regime do Lar será o de internato. Os internados terão normalmente as formaturas diárias necessárias para as refeições. O director poderá autorizar a saída do Lar, em dois dias por semana e durante as horas julgadas mais convenientes, aos internados que, pelo seu comportamento, mereçam tal concessão.
 
-###### Art. 16.º Os internados poderão ser nomeados para serviços compatíveis com as suas aptidões profissionais ou intelectuais, graduação e estado físico.
+Art. 16.º Os internados poderão ser nomeados para serviços compatíveis com as suas aptidões profissionais ou intelectuais, graduação e estado físico.
 
-###### Art. 17.º Para o serviço diário e interno será nomeado um sargento de dia, que assistirá às formaturas. Os oficiais internados não comparecem às formaturas.
+Art. 17.º Para o serviço diário e interno será nomeado um sargento de dia, que assistirá às formaturas. Os oficiais internados não comparecem às formaturas.
 
-###### Art. 18.º Os internados não são obrigados a levantar-se antes da hora precisa para poderem comparecer à formatura da primeira refeição.
+Art. 18.º Os internados não são obrigados a levantar-se antes da hora precisa para poderem comparecer à formatura da primeira refeição.
 
-###### Art. 19.º O horário dos serviços diários deve ser regulado, na parte aplicável, pelo que estiver preceituado para as unidades activas.
+Art. 19.º O horário dos serviços diários deve ser regulado, na parte aplicável, pelo que estiver preceituado para as unidades activas.
 
 ### CAPÍTULO V — Justiça e disciplina
 
-###### Art. 20.º Aos internados e ao pessoal em serviço no Lar são aplicáveis as disposições do Regulamento Disciplinar Militar e do Código de Justiça Militar, de harmonia com as prescrições da lei em vigor, para o que as respectivas competências disciplinares são:
+Art. 20.º Aos internados e ao pessoal em serviço no Lar são aplicáveis as disposições do Regulamento Disciplinar Militar e do Código de Justiça Militar, de harmonia com as prescrições da lei em vigor, para o que as respectivas competências disciplinares são:
 
 1.º O director do Lar e o comandante do corpo de veteranos têm competência disciplinar igual à do comandante de regimento e do comandante de companhia, respectivamente.
 
@@ -294,27 +314,27 @@ c) As substituições dentro do restante pessoal serão também determinadas pel
 
 § único. As infracções sem gravidade cometidas por veteranos militares que sejam sargentos ou praças poderão ser punidas pelo director com proibição de saída do Lar até 60 dias.
 
-###### Art. 21.º Poderá ser abatido ao efectivo do Lar, mediante proposta escrita, devidamente fundamentada, apresentada pelo director aos Serviços Sociais das Forças Armadas, qualquer internado que, a despeito das penas que lhe tenham sido impostas, se mostre incorrigível ou tenha praticado algum acto que afecte a disciplina e o bom nome do estabelecimento ou, ainda, aquele que se ausentar do Lar sem motivo justificado por mais de 60 dias.
+Art. 21.º Poderá ser abatido ao efectivo do Lar, mediante proposta escrita, devidamente fundamentada, apresentada pelo director aos Serviços Sociais das Forças Armadas, qualquer internado que, a despeito das penas que lhe tenham sido impostas, se mostre incorrigível ou tenha praticado algum acto que afecte a disciplina e o bom nome do estabelecimento ou, ainda, aquele que se ausentar do Lar sem motivo justificado por mais de 60 dias.
 
 § único. O internado que, nos termos do corpo deste artigo, for abatido ao efectivo do Lar, regressará à situação anterior ao seu internamento, não podendo ser novamente internado.
 
 ### CAPÍTULO VI — Administração
 
-###### Art. 22.º Os fundos do Lar são constituídos pelas importâncias descontadas ou pagas pelos internados, pelas verbas orçamentais anualmente consignadas, pelos rendimentos próprios do Lar e por quaisquer doações que lhe sejam feitas.
+Art. 22.º Os fundos do Lar são constituídos pelas importâncias descontadas ou pagas pelos internados, pelas verbas orçamentais anualmente consignadas, pelos rendimentos próprios do Lar e por quaisquer doações que lhe sejam feitas.
 
-###### Art. 23.º São aplicáveis ao Lar de Veteranos Militares as disposições em vigor para administração das unidades activas e estabelecimentos militares, com as alterações constantes dos artigos seguintes.
+Art. 23.º São aplicáveis ao Lar de Veteranos Militares as disposições em vigor para administração das unidades activas e estabelecimentos militares, com as alterações constantes dos artigos seguintes.
 
-###### Art. 24.º O conselho administrativo é constituído pelo director, como presidente, e pelos chefe da contabilidade e tesoureiro, como vogais.
+Art. 24.º O conselho administrativo é constituído pelo director, como presidente, e pelos chefe da contabilidade e tesoureiro, como vogais.
 
 § único. Na falta ou impedimento de qualquer destes membros, a substituição será feita nos termos do disposto no artigo 14.º
 
-###### Art. 25.º O conselho administrativo terá, além dos registos de escrituração e contabilidade exigidos para os conselhos administrativos das unidades militares, quaisquer outros necessários à escrituração completa e clara da administração do estabelecimento.
+Art. 25.º O conselho administrativo terá, além dos registos de escrituração e contabilidade exigidos para os conselhos administrativos das unidades militares, quaisquer outros necessários à escrituração completa e clara da administração do estabelecimento.
 
-###### Art. 26.º Correrão por conta do Estado todas as despesas de alimentação e alojamento das praças internadas não reformadas, as quais receberão, a título de vencimento, a importância diária de 1$00.
+Art. 26.º Correrão por conta do Estado todas as despesas de alimentação e alojamento das praças internadas não reformadas, as quais receberão, a título de vencimento, a importância diária de 1$00.
 
 § único. A importância referida no corpo deste artigo poderá, mediante proposta da comissão directiva dos Serviços Sociais das Forças Armadas, ser actualizada por despacho do Ministro da Defesa Nacional.
 
-###### Art. 27.º Às praças internadas, segundo o ramo das forças armadas de que provenham, ser-lhes-ão fornecidos os artigos de fardamento constantes das respectivas dotações regulamentares.
+Art. 27.º Às praças internadas, segundo o ramo das forças armadas de que provenham, ser-lhes-ão fornecidos os artigos de fardamento constantes das respectivas dotações regulamentares.
 
 § 1.º Os prazos de duração dos artigos distribuídos são os mencionados nas respectivas tabelas regulamentares.
 
@@ -326,33 +346,33 @@ c) As substituições dentro do restante pessoal serão também determinadas pel
 
 § 5.º Todos os artigos distribuídos a praças internadas serão marcados com o respectivo número.
 
-###### Art. 28.º Os oficiais e sargentos internados no Lar, nos termos do artigo 2.º, fardam de conta própria, devendo tomar a seu cargo a conservação do vestuário e do calcado.
+Art. 28.º Os oficiais e sargentos internados no Lar, nos termos do artigo 2.º, fardam de conta própria, devendo tomar a seu cargo a conservação do vestuário e do calcado.
 
 § único. Os internados a quem se refere o corpo do artigo podem fazer uso do trajo civil, mesmo dentro do estabelecimento, quando devidamente autorizados pelo director do Lar.
 
-###### Art. 29.º Os oficiais, sargentos e praças, quando fardados, usarão nos uniformes o emblema do Lar.
+Art. 29.º Os oficiais, sargentos e praças, quando fardados, usarão nos uniformes o emblema do Lar.
 
-###### Art. 30.º Mediante indicação do director do Lar e proposta da comissão directiva dos Serviços Sociais das Forças Armadas, será fixada anualmente, pelo Ministro da Defesa Nacional, a diária a pagar ao Lar pelos oficiais, sargentos e praças internados nos termos do artigo 2.º deste regulamento.
+Art. 30.º Mediante indicação do director do Lar e proposta da comissão directiva dos Serviços Sociais das Forças Armadas, será fixada anualmente, pelo Ministro da Defesa Nacional, a diária a pagar ao Lar pelos oficiais, sargentos e praças internados nos termos do artigo 2.º deste regulamento.
 
 § único. O conselho administrativo do Lar elaborará esta proposta tendo em consideração a verba própria que haja orçamentado.
 
-###### Art. 31.º O conselho administrativo, tendo em atenção a importância fixada para cada categoria de internados, o preço dos géneros e a natureza dos alimentos, organizará antecipadamente tabelas com as composições das refeições a distribuir em cada semana aos internados e adidos.
+Art. 31.º O conselho administrativo, tendo em atenção a importância fixada para cada categoria de internados, o preço dos géneros e a natureza dos alimentos, organizará antecipadamente tabelas com as composições das refeições a distribuir em cada semana aos internados e adidos.
 
 § único. As refeições a que se refere o corpo do artigo serão constituídas, além do pão, por café com leite, à primeira refeição, e sopa, prato e vinho, à segunda e terceira refeições.
 
 Entre a terceira refeição e o recolher haverá para os internados uma refeição de chá.
 
-###### Art. 32.º Os militares internados nos termos do artigo 2.º deste regulamento pagarão ao Lar, como compensação nas despesas de alimentação e alojamento, até à importância de 50 por cento das suas respectivas pensões.
+Art. 32.º Os militares internados nos termos do artigo 2.º deste regulamento pagarão ao Lar, como compensação nas despesas de alimentação e alojamento, até à importância de 50 por cento das suas respectivas pensões.
 
 § único. Exceptua-se o caso de se encontrarem no gozo de licença ou noutra situação em que não tenham alimentação e alojamento pelo Lar.
 
-###### Art. 33.º O cozinheiro e o ajudante têm direito a receber alimentação por conta do Lar igual à das praças internadas.
+Art. 33.º O cozinheiro e o ajudante têm direito a receber alimentação por conta do Lar igual à das praças internadas.
 
-###### Art. 34.º Os internados no gozo de licença apenas têm direito ao abono da respectiva pensão ou do vencimento que lhes foi atribuído, segundo se trate, respectivamente, de reformados ou não reformados.
+Art. 34.º Os internados no gozo de licença apenas têm direito ao abono da respectiva pensão ou do vencimento que lhes foi atribuído, segundo se trate, respectivamente, de reformados ou não reformados.
 
-###### Art. 35.º As despesas feitas com os militares admitidos nas condições do artigo 38.º deste regulamento serão satisfeitas, na sua totalidade, pelas verbas orçamentais atribuídas ao Lar, transferindo-se depois do Fundo de D. Pedro V para as respectivas rubricas do orçamento do Lar as importâncias que devam ser suportadas por aquele Fundo.
+Art. 35.º As despesas feitas com os militares admitidos nas condições do artigo 38.º deste regulamento serão satisfeitas, na sua totalidade, pelas verbas orçamentais atribuídas ao Lar, transferindo-se depois do Fundo de D. Pedro V para as respectivas rubricas do orçamento do Lar as importâncias que devam ser suportadas por aquele Fundo.
 
-###### Art. 36.º É extensiva ao Lar a doutrina do artigo 1.º do [Decreto-Lei n.º 42411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42411-1959-431779), de 24 de Julho de 1959, bem como as instruções publicadas ao abrigo do disposto no artigo 8.º do mesmo diploma em tudo que lhe puder ser aplicável.
+Art. 36.º É extensiva ao Lar a doutrina do artigo 1.º do [Decreto-Lei n.º 42411](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42411-1959-431779), de 24 de Julho de 1959, bem como as instruções publicadas ao abrigo do disposto no artigo 8.º do mesmo diploma em tudo que lhe puder ser aplicável.
 
 § único. Os produtos da exploração agro-pecuária poderão ser vendidos para alimentação:
 
@@ -360,63 +380,63 @@ a) Dos internados;
 
 b) Do pessoal militar e civil em serviço no Lar que assim o deseje.
 
-###### Art. 37.º O conselho administrativo do Lar prestará contas da sua administração pela forma estabelecida para as unidades activas.
+Art. 37.º O conselho administrativo do Lar prestará contas da sua administração pela forma estabelecida para as unidades activas.
 
 ### CAPÍTULO VII — Fundo de D. Pedro V
 
-###### Art. 38.º Para ser admitido no Lar como assistido por este Fundo é necessário reunir às condições gerais exigidas por este regulamento a de ser condecorado por acções distintas, quer militares, quer humanitárias.
+Art. 38.º Para ser admitido no Lar como assistido por este Fundo é necessário reunir às condições gerais exigidas por este regulamento a de ser condecorado por acções distintas, quer militares, quer humanitárias.
 
-###### Art. 39.º O Fundo de D. Pedro V será administrado pelo conselho administrativo e não poderá ser desviado em nenhum caso dos fins que lhe estão atribuídos, sendo os seus rendimentos exclusivamente destinados às despesas a fazer com os veteranos que forem internados nos termos do artigo anterior.
+Art. 39.º O Fundo de D. Pedro V será administrado pelo conselho administrativo e não poderá ser desviado em nenhum caso dos fins que lhe estão atribuídos, sendo os seus rendimentos exclusivamente destinados às despesas a fazer com os veteranos que forem internados nos termos do artigo anterior.
 
-###### Art. 40.º O saldo que anualmente possa resultar entre a receita e a despesa do Fundo será convertido em títulos de dívida pública com assentamento e capitalização.
+Art. 40.º O saldo que anualmente possa resultar entre a receita e a despesa do Fundo será convertido em títulos de dívida pública com assentamento e capitalização.
 
 O averbamento será feito em conta especial relativa a este Fundo.
 
 § único. Quando a importância do saldo for inferior ao preço do menor título de dívida pública, ou quando da conversão de que trata este artigo sobrar quantia que não seja convertível, conservar-se-á em depósito para se juntar aos saldos dos anos subsequentes até ser possível a conversão.
 
-###### Art. 41.º Compete ao director do Lar mandar abonar por este Fundo os internados nas condições do artigo 38.º, providenciando por forma que nunca a despesa a fazer com eles exceda os respectivos rendimentos.
+Art. 41.º Compete ao director do Lar mandar abonar por este Fundo os internados nas condições do artigo 38.º, providenciando por forma que nunca a despesa a fazer com eles exceda os respectivos rendimentos.
 
 ### CAPÍTULO VIII — Serviço de saúde
 
-###### Art. 42.º O Lar dispõe de uma enfermaria, que funciona nas condições das enfermarias regimentais e é dirigida conforme preceitua a alínea b) do artigo 10.º deste regulamento.
+Art. 42.º O Lar dispõe de uma enfermaria, que funciona nas condições das enfermarias regimentais e é dirigida conforme preceitua a alínea b) do artigo 10.º deste regulamento.
 
-###### Art. 43.º Todos os militares internados têm direito à assistência médica e a tratamento nas suas doenças por conta do Fundo do Lar.
+Art. 43.º Todos os militares internados têm direito à assistência médica e a tratamento nas suas doenças por conta do Fundo do Lar.
 
 § único. Do Fundo de D. Pedro V sairá a verba necessária para pagamento das despesas a fazer com o tratamento dos doentes internados por sua conta.
 
-###### Art. 44.º O tratamento a que se refere o artigo anterior pode ser ministrado na enfermaria do Lar ou nos quartos de residência, como melhor convenha ao serviço, ao tratamento em vista e às comodidades individuais, mas sempre de acordo com as indicações médicas.
+Art. 44.º O tratamento a que se refere o artigo anterior pode ser ministrado na enfermaria do Lar ou nos quartos de residência, como melhor convenha ao serviço, ao tratamento em vista e às comodidades individuais, mas sempre de acordo com as indicações médicas.
 
-###### Art. 45.º O pessoal em serviço no Lar, quando não baixe à enfermaria, só tem direito a assistência médica.
+Art. 45.º O pessoal em serviço no Lar, quando não baixe à enfermaria, só tem direito a assistência médica.
 
 § único. Os oficiais em serviço no Lar podem, se assim o desejarem, ser tratados nos seus quartos ou residências, como se tivessem baixado à enfermaria, devendo neste caso sofrer os respectivos descontos nos seus vencimentos.
 
-###### Art. 46.º A junta de saúde para concessão de licença a veteranos militares será composta pelo director, como presidente, pelo médico do Lar e pelo chefe da secretaria, servindo este de secretário, e reúne sob proposta do médico.
+Art. 46.º A junta de saúde para concessão de licença a veteranos militares será composta pelo director, como presidente, pelo médico do Lar e pelo chefe da secretaria, servindo este de secretário, e reúne sob proposta do médico.
 
 § único. A duração de cada licença será fixada pelo Regulamento Geral do Serviço de Saúde do Exército.
 
-###### Art. 47.º Os militares internados nos termos do artigo 1.º deste regulamento que vierem a ser atacados de doença que demande tratamento longo e cuja permanência no estabelecimento seja inconveniente deverão baixar ao hospital ou casa de saúde apropriada, correndo as despesas de tratamento por conta do Lar.
+Art. 47.º Os militares internados nos termos do artigo 1.º deste regulamento que vierem a ser atacados de doença que demande tratamento longo e cuja permanência no estabelecimento seja inconveniente deverão baixar ao hospital ou casa de saúde apropriada, correndo as despesas de tratamento por conta do Lar.
 
 § único. Quando a baixa ao hospital ou à casa de saúde ultrapassar 180 dias, será o facto comunicado aos Serviços Sociais das Forças Armadas, para que estes diligenciem junto do Ministério da Saúde e Assistência no sentido de que o custo do tratamento do doente seja tomado total ou parcialmente a cargo da assistência civil.
 
-###### Art. 48.º Se a situação prevista no corpo do artigo anterior se verificar com militares internados nos termos do artigo 2.º deste regulamento, a sua pensão de reforma responderá pelas despesas de tratamento e internamento no hospital ou casa de saúde.
+Art. 48.º Se a situação prevista no corpo do artigo anterior se verificar com militares internados nos termos do artigo 2.º deste regulamento, a sua pensão de reforma responderá pelas despesas de tratamento e internamento no hospital ou casa de saúde.
 
 Se o montante da pensão não comportar tal despesa, a diferença será suportada pelos fundos do Lar.
 
 A estes militares é também aplicável a doutrina do § único do artigo anterior.
 
-###### Art. 49.º O pessoal em serviço no Lar pode requisitar medicamentos, para si ou para os seus familiares, nas condições normais de fornecimento e mediante receita médica, devendo satisfazer mensalmente a importância das requisições no conselho administrativo do Lar.
+Art. 49.º O pessoal em serviço no Lar pode requisitar medicamentos, para si ou para os seus familiares, nas condições normais de fornecimento e mediante receita médica, devendo satisfazer mensalmente a importância das requisições no conselho administrativo do Lar.
 
 ### CAPÍTULO IX — Disposições diversas
 
-###### Art. 50.º É considerado de festa para o Lar o dia 25 de Julho, aniversário da sua inauguração.
+Art. 50.º É considerado de festa para o Lar o dia 25 de Julho, aniversário da sua inauguração.
 
-###### Art. 51.º Nos dias feriados e no dia considerado de festa para o Lar a terceira refeição será aumentada de um prato.
+Art. 51.º Nos dias feriados e no dia considerado de festa para o Lar a terceira refeição será aumentada de um prato.
 
-###### Art. 52.º Aos oficiais e sargentos internados ao abrigo do artigo 2.º serão servidas refeições em salas distintas.
+Art. 52.º Aos oficiais e sargentos internados ao abrigo do artigo 2.º serão servidas refeições em salas distintas.
 
-###### Art. 53.º Poderá ser fornecida alimentação aos oficiais em serviço no Lar, conjuntamente com os oficiais internados, desde que assim o requeiram e paguem mensalmente as respectivas despesas.
+Art. 53.º Poderá ser fornecida alimentação aos oficiais em serviço no Lar, conjuntamente com os oficiais internados, desde que assim o requeiram e paguem mensalmente as respectivas despesas.
 
-###### Art. 54.º O director do Lar poderá conceder licenças com vencimento e sem prejuízo do serviço:
+Art. 54.º O director do Lar poderá conceder licenças com vencimento e sem prejuízo do serviço:
 
 1.º Até cinco dias em cada trimestre, aos oficiais e sargentos em serviço no Lar;
 
@@ -424,15 +444,15 @@ A estes militares é também aplicável a doutrina do § único do artigo anteri
 
 3.º Até vinte dias em cada trimestre, a benefício dos fundos de instrução do Exército, às praças designadas no artigo seguinte.
 
-###### Art. 55.º Para o serviço interno de guardas e outros privativos do Lar serão mandados prestar ali serviço, mediante acordo do Ministro da Defesa Nacional com os Ministros ou Secretário de Estado do departamento interessado, 5 cabos e 26 soldados, incluindo-se neste número 1 cabo ajudante de enfermeiro, 2 maqueiros, 1 condutor auto e 2 condutores hipo, todos prontos da instrução geral e das especialidades atrás referidas e com bom comportamento.
+Art. 55.º Para o serviço interno de guardas e outros privativos do Lar serão mandados prestar ali serviço, mediante acordo do Ministro da Defesa Nacional com os Ministros ou Secretário de Estado do departamento interessado, 5 cabos e 26 soldados, incluindo-se neste número 1 cabo ajudante de enfermeiro, 2 maqueiros, 1 condutor auto e 2 condutores hipo, todos prontos da instrução geral e das especialidades atrás referidas e com bom comportamento.
 
 § 1.º O número de praças referido no corpo do artigo poderá ser alterado por despacho do Ministro da Defesa Nacional sob proposta fundamentada do director do Lar, devidamente informada pela comissão directiva dos Serviços Sociais das Forças Armadas e obtido o acordo do Ministro ou Secretário de Estado de quem dependam.
 
 § 2.º Quando qualquer das praças ali em diligência não convier ao serviço do Lar, será, pelo Departamento da Defesa Nacional, promovida a sua substituição.
 
-###### Art. 56.º Para tracção dos veículos em serviço no Lar, o Departamento da Defesa Nacional, mediante proposta da comissão directiva dos Serviços Sociais das Forças Armadas, promoverá que para ali sejam transferidos os solípedes necessários.
+Art. 56.º Para tracção dos veículos em serviço no Lar, o Departamento da Defesa Nacional, mediante proposta da comissão directiva dos Serviços Sociais das Forças Armadas, promoverá que para ali sejam transferidos os solípedes necessários.
 
-###### Art. 57.º O Lar disporá de:
+Art. 57.º O Lar disporá de:
 
 Uma sala para biblioteca;
 
@@ -444,16 +464,16 @@ Uma sala de leitura e recreio para praças;
 
 Um terreno devidamente preparado e reservado a recreio à prática de jogos desportivos ao ar livre compatíveis com o valor físico dos internados.
 
-###### Art. 58.º Será abatido ao efectivo do Lar o militar que vier a casar depois de internado, salvo os casos especiais em que, devido a fundadas e especiais razões, o Ministro da Defesa Nacional autorizar prèviamente a continuação do internamento.
+Art. 58.º Será abatido ao efectivo do Lar o militar que vier a casar depois de internado, salvo os casos especiais em que, devido a fundadas e especiais razões, o Ministro da Defesa Nacional autorizar prèviamente a continuação do internamento.
 
-###### Art. 59.º Qualquer internado que pretenda ser abatido ao efectivo do Lar deve apresentar o respectivo requerimento ao director.
+Art. 59.º Qualquer internado que pretenda ser abatido ao efectivo do Lar deve apresentar o respectivo requerimento ao director.
 
-###### Art. 60.º É proibido cortar árvores nas propriedades ou dependências do Lar, salvo o caso de desbaste necessário e depois de autorização do Ministério da Economia.
+Art. 60.º É proibido cortar árvores nas propriedades ou dependências do Lar, salvo o caso de desbaste necessário e depois de autorização do Ministério da Economia.
 
-###### Art. 61.º O director do Lar deverá apresentar, através dos Serviços Sociais das Forças Armadas, todas as sugestões de alteração do presente regulamento que as conveniências de serviço tornem justificáveis.
+Art. 61.º O director do Lar deverá apresentar, através dos Serviços Sociais das Forças Armadas, todas as sugestões de alteração do presente regulamento que as conveniências de serviço tornem justificáveis.
 
-###### Art. 62.º As dúvidas que se suscitarem na execução do presente regulamento serão resolvidas por despacho do Ministro da Defesa Nacional.
+Art. 62.º As dúvidas que se suscitarem na execução do presente regulamento serão resolvidas por despacho do Ministro da Defesa Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Abril de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo.

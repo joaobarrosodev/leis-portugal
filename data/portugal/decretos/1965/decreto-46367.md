@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46367-1965-294525
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 718c329e4a8ad92b4470c6ea78e24da982b002df48defd7700b260cd7fbfe096
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1effc6636bd45b0ce2a46e7186777d73dfbf54ce12cef501382fd967cbd25357
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:654121:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:21Z'
   warnings: []
   errors: []
 ---
@@ -89,13 +93,13 @@ Por motivo de urgência, ao abrigo do preceituado no § 1.º do artigo 150.º da
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. As alíneas a) e b) do artigo 131.º das instruções preliminares das pautas das alfândegas do ultramar, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, passam a ter a seguinte redacção:
+Artigo único. As alíneas a) e b) do artigo 131.º das instruções preliminares das pautas das alfândegas do ultramar, aprovadas pelo [Decreto n.º 41026](https://diariodarepublica.pt/dr/detalhe/decreto/41026-1957-654121), de 9 de Março de 1957, passam a ter a seguinte redacção:
 
 a) Nas províncias de Cabo Verde e de Angola são cativas dos direitos que lhes estão fixados nas respectivas pautas;
 
 b) Nas províncias da Guiné e de S. Tomé e Príncipe gozarão do benefício pautal que for estabelecido por portaria do Ministro do Ultramar, ouvido o governador e a Inspecção Superior das Alfândegas do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

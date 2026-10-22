@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46774-1965-508200
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff1ccdf32fb1cc09673e8c77dfc9515265e5d143b496cc4ed69c7e00d91b9ae8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 492bf0a34800efa4d7588f6a2c3e43c5e17de720738c73f5713edb5dc0f6e7b5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 9
-  section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:06Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Saúde e Assistência:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Saúde e Assistência:
 
 No capítulo 3.º:
 
@@ -96,77 +112,77 @@ Do artigo 42.º, n.º 1) «Rendas de casa» ... -39000$00
 
 Para o artigo 40.º, n.º 1) «Luz, ...» ... +39000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 66533000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças, a favor dos Ministérios a seguir designados, créditos especiais no montante de 66533000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Ministério da Justiça
 
-### Capítulo 3.º «Direcção-Geral da Justiça - Tribunais de 2.ª instância - Relação de Coimbra»:
+Capítulo 3.º «Direcção-Geral da Justiça - Tribunais de 2.ª instância - Relação de Coimbra»:
 
-###### Artigo 84.º, n.º 2) «Telefones» ... 1000$00
+Artigo 84.º, n.º 2) «Telefones» ... 1000$00
 
-### Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal de Coimbra»:
+Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal de Coimbra»:
 
-###### Artigo 495.º, n.º 2) «Artigos de expediente ...» ... 10000$00
+Artigo 495.º, n.º 2) «Artigos de expediente ...» ... 10000$00
 
 ... 11000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna - Serviços internos da Direcção-Geral»:
+Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna - Serviços internos da Direcção-Geral»:
 
-###### Artigo 14.º, n.º 1) «Pessoal em disponibilidade» ... 55000$00
+Artigo 14.º, n.º 1) «Pessoal em disponibilidade» ... 55000$00
 
 Ministério do Ultramar
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 29.º, n.º 1) «Luz, ...» ... 188900$00
+Artigo 29.º, n.º 1) «Luz, ...» ... 188900$00
 
-###### Artigo 30.º, n.º 2) «Telefones» ... 78100$00
+Artigo 30.º, n.º 2) «Telefones» ... 78100$00
 
 ... 267000$00
 
 Ministério das Comunicações
 
-### Capítulo 3.º «Direcção-Geral de Transportes Terrestres - Fundo Especial de Transportes Terrestres»:
+Capítulo 3.º «Direcção-Geral de Transportes Terrestres - Fundo Especial de Transportes Terrestres»:
 
-###### Artigo 39.º «Despesas com o material» ... 19700000$00
+Artigo 39.º «Despesas com o material» ... 19700000$00
 
-###### Artigo 40.º «Pagamento de serviços ...» ... 46300000$00
+Artigo 40.º «Pagamento de serviços ...» ... 46300000$00
 
 ... 66000000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 3.º «Direcção-Geral da Saúde - Direcção-Geral»:
+Capítulo 3.º «Direcção-Geral da Saúde - Direcção-Geral»:
 
-###### Artigo 33.º, n.º 3), alínea 1 «Subsídios ...: Serviços de higiene rural e defesa anti-sezonática ...» ... 200000$00
+Artigo 33.º, n.º 3), alínea 1 «Subsídios ...: Serviços de higiene rural e defesa anti-sezonática ...» ... 200000$00
 
 ... 66533000$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previssão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previssão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 202.º «Reembolsos diversos» ... 267000$00
+Capítulo 7.º, artigo 202.º «Reembolsos diversos» ... 267000$00
 
-### Capítulo 8.º, artigo 207.º «Serviço anti-sezonático» ... 200000$00
+Capítulo 8.º, artigo 207.º «Serviço anti-sezonático» ... 200000$00
 
-### Capítulo 8.º, artigo 244.º «Fundo Especial de Transportes Terrestres» ... 66000000$00
+Capítulo 8.º, artigo 244.º «Fundo Especial de Transportes Terrestres» ... 66000000$00
 
 ... 66467000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 188.º, n.º 1) ... 11000$00
+Capítulo 4.º, artigo 188.º, n.º 1) ... 11000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 3.º, artigo 24.º, n.º 1), alínea 2 ... 55000$00
+Capítulo 3.º, artigo 24.º, n.º 1), alínea 2 ... 55000$00
 
 ... 66533000$00
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério do Ultramar
 
@@ -186,6 +202,6 @@ Sujeita a duplo cabimento a importância de 2487512$20 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Eduardo de Arantes e Oliveira -Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

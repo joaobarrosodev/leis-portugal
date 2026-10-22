@@ -47,40 +47,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47657-1967-310245
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-10-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f42362f650f6645d729370f8c26a3d29efac69f86d6693b6831dde22813bad91
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 729bad4cb7a2c116ebb797eb9dcb33802c01a884ae186e6dba72012a2176a913
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Angola.Colónia Portuguesa
+- Formas de Provimento
+- Funcionário Ultramarino
+- Missão de Combate as Tripanossomíases
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Pessoal Dirigente
+- Protecção na Doença
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:413202:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:413202:por
+  label: "Aditado um § ao artigo 8.º pelo DEC.512/73.10.10.1973.MU, DG.IS [237] de 10.10.1973, e eliminadas as unidades dos\
+    \ quadros de pessoal, nos termos do artigo 4.º do citado diploma\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/512-1973-413202
+  date: '1973-10-10'
+- type: cites
+  target: pt:dre:393401:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:20Z'
   warnings: []
   errors: []
 ---
@@ -101,11 +132,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 #### SECÇÃO I — Das atribuições e organização geral
 
-###### Artigo 1.º As Missões de Combate às Tripanossomíases de Angola e Moçambique passam reger-se pelas disposições do presente diploma.
+Artigo 1.º As Missões de Combate às Tripanossomíases de Angola e Moçambique passam reger-se pelas disposições do presente diploma.
 
 § único. Embora continuem a dispor de autonomia administrativa, as Missões fazem parte integrante dos Serviços de Saúde e Assistência daquelas províncias, e terão a sua sede, respectivamente, em Luanda e em Lourenço Marques.
 
-###### Art. 2.º As Missões de Combate às Tripanossomíases das províncias de Angola e Moçambique têm como finalidades:
+Art. 2.º As Missões de Combate às Tripanossomíases das províncias de Angola e Moçambique têm como finalidades:
 
 a) O combate e profilaxia da tripanossomíase humana;
 
@@ -117,7 +148,7 @@ d) O combate à mosca tsé-tsé para impedir a sua expansão e obter a recupera�
 
 § único. Para consecução desta última finalidade, as Juntas Provinciais de Povoamento e os Serviços Provinciais de Veterinária, de Agricultura e Florestas e de Administração Civil cooperarão estreita e ìntimamente com as Missões de Combate às Tripanossomíases.
 
-###### Art. 3.º Com o objectivo de manter a indispensável ligação entre os serviços atrás referidos e outros directamente interessados no combate às tripanossomíases, funcionará o Conselho Técnico das Tripanossomíases, presidido pelo secretário provincial, que superintende nos Serviços de Saúde e Assistência, constituído pelos directores dos Serviços de Saúde e Assistência, dos Serviços de Veterinária, dos Serviços de Agricultura e Florestas, de Administração Civil, do Instituto de Investigação Médica, Instituto de Investigação Veterinária, Instituto de Investigação Científica, Instituto de Investigação Agronómica, pelo vice-presidente da Junta Provincial de Povoamento e pelo chefe da Missão de Combate às Tripanossomíases.
+Art. 3.º Com o objectivo de manter a indispensável ligação entre os serviços atrás referidos e outros directamente interessados no combate às tripanossomíases, funcionará o Conselho Técnico das Tripanossomíases, presidido pelo secretário provincial, que superintende nos Serviços de Saúde e Assistência, constituído pelos directores dos Serviços de Saúde e Assistência, dos Serviços de Veterinária, dos Serviços de Agricultura e Florestas, de Administração Civil, do Instituto de Investigação Médica, Instituto de Investigação Veterinária, Instituto de Investigação Científica, Instituto de Investigação Agronómica, pelo vice-presidente da Junta Provincial de Povoamento e pelo chefe da Missão de Combate às Tripanossomíases.
 
 § 1.º O vice-presidente do Conselho Técnico das Tripanossomíases será o director provincial dos Serviços de Saúde e Assistência.
 
@@ -125,7 +156,7 @@ d) O combate à mosca tsé-tsé para impedir a sua expansão e obter a recupera�
 
 § 3.º A Secretaria das Missões de Combate às Tripanossomíases assegurará, pela sua 3.ª Secção, todo o expediente relativo ao Conselho Técnico das Tripanossomíases.
 
-###### Art. 4.º O Conselho Técnico das Tripanossomíases terá como funções:
+Art. 4.º O Conselho Técnico das Tripanossomíases terá como funções:
 
 a) Emitir parecer sobre quaisquer assuntos respeitantes às tripanossomíases que lhe sejam submetidos:
 
@@ -139,7 +170,7 @@ e) Promover a cooperação activa dos diferentes serviços provinciais para a re
 
 #### SECÇÃO II — Da divisão sanitária territorial
 
-###### Art. 5.º O território de cada província será dividido de acordo com a incidência das tripanossomíases e, para fins operacionais, em sectores, cuja criação, delimitação e fixação das respectivas sedes competem ao Governo da província.
+Art. 5.º O território de cada província será dividido de acordo com a incidência das tripanossomíases e, para fins operacionais, em sectores, cuja criação, delimitação e fixação das respectivas sedes competem ao Governo da província.
 
 § 1.º A criação e delimitação dos sectores médicos e de entomologia, e bem assim a fixação das suas sedes, serão objecto de portaria provincial, que dependerá de proposta da Direcção dos Serviços de Saúde e Assistência, sob parecer das Missões de Combate às Tripanossomíases.
 
@@ -149,19 +180,19 @@ e) Promover a cooperação activa dos diferentes serviços provinciais para a re
 
 ### CAPÍTULO II — Da organização em especial
 
-###### Art. 6.º As Missões de Combate às Tripanossomíases compreendem uma chefia, serviços técnicos e serviços administrativos.
+Art. 6.º As Missões de Combate às Tripanossomíases compreendem uma chefia, serviços técnicos e serviços administrativos.
 
-###### Art. 7.º A chefia de cada uma das Missões será assegurada pelo respectivo chefe, coadjuvado pelos chefes das divisões.
+Art. 7.º A chefia de cada uma das Missões será assegurada pelo respectivo chefe, coadjuvado pelos chefes das divisões.
 
-###### Art. 8.º Os serviços técnicos são constituídos por quatro divisões distintas no seu ramo de actividade, trabalhando em íntima colaboração: Divisão de Medicina, Divisão de Veterinária, Divisão de Entomologia e Divisão de Investigação.
+Art. 8.º Os serviços técnicos são constituídos por quatro divisões distintas no seu ramo de actividade, trabalhando em íntima colaboração: Divisão de Medicina, Divisão de Veterinária, Divisão de Entomologia e Divisão de Investigação.
 
-###### Art. 9.º Os serviços administrativos dispõem de uma secretaria, a cargo de um chefe de secção, por onde correm os assuntos de administração, contabilidade e expediente.
+Art. 9.º Os serviços administrativos dispõem de uma secretaria, a cargo de um chefe de secção, por onde correm os assuntos de administração, contabilidade e expediente.
 
-###### Art. 10.º As divisões poderão estender a sua acção a todo o território da província, mas os sectores delas dependentes, embora não necessàriamente coincidentes com a divisão administrativa da província, abrangerão as áreas julgadas mais convenientes sob o aspecto da luta contra as tripanossomíases e contra os insectos vectores.
+Art. 10.º As divisões poderão estender a sua acção a todo o território da província, mas os sectores delas dependentes, embora não necessàriamente coincidentes com a divisão administrativa da província, abrangerão as áreas julgadas mais convenientes sob o aspecto da luta contra as tripanossomíases e contra os insectos vectores.
 
 #### SECÇÃO I — Da chefia da Missão
 
-###### Art. 11.º Ao chefe da Missão compete:
+Art. 11.º Ao chefe da Missão compete:
 
 a) Administrar a Missão e assegurar a sua direcção técnica;
 
@@ -185,15 +216,15 @@ j) Propor o movimento do pessoal atribuído à Missão;
 
 k) Manter a Direcção dos Serviços de Saúde e Assistência ao corrente de todas as actividades da Missão.
 
-###### Art. 12.º O chefe da Missão será substituído nas suas faltas, ausências ou impedimentos legais por um dos chefes de divisão, que exercerá cumulativamente a chefia da respectiva divisão.
+Art. 12.º O chefe da Missão será substituído nas suas faltas, ausências ou impedimentos legais por um dos chefes de divisão, que exercerá cumulativamente a chefia da respectiva divisão.
 
 § único. A designação do substituto será feita por proposta do chefe da Missão.
 
-###### Art. 13.º Junto da chefia da Missão haverá um centro de documentação e biblioteca especializada, onde se reunirão, convenientemente catalogados, livros, publicações, separatas, revistas, cartas geográficas e outros documentos que interessem às actividades da Missão.
+Art. 13.º Junto da chefia da Missão haverá um centro de documentação e biblioteca especializada, onde se reunirão, convenientemente catalogados, livros, publicações, separatas, revistas, cartas geográficas e outros documentos que interessem às actividades da Missão.
 
 #### SECÇÃO II — Da Divisão de Medicina
 
-###### Art. 14.º A Divisão de Medicina tem como objectivo a profilaxia e o combate à tripanossomíase humana.
+Art. 14.º A Divisão de Medicina tem como objectivo a profilaxia e o combate à tripanossomíase humana.
 
 § 1.º Os sectores médicos são chefiados por um médico com a categoria de médico de 1.ª classe.
 
@@ -203,11 +234,11 @@ k) Manter a Direcção dos Serviços de Saúde e Assistência ao corrente de tod
 
 § 4.º Os chefes de sector manterão informados dos planos de trabalho e actividades os delegados de saúde das áreas onde actuam e, através dos chefes distritais de saúde e assistência, os respectivos governadores para efeito de integração de todos os serviços locais na orientação administrativa geral.
 
-###### Art. 15.º O pessoal da Divisão de Medicina compreende médicos, enfermeiros, auxiliares de enfermagem, microscopistas, pessoal auxiliar de diagnóstico e terapêutica e, bem assim, o pessoal dos serviços gerais que for julgado necessário.
+Art. 15.º O pessoal da Divisão de Medicina compreende médicos, enfermeiros, auxiliares de enfermagem, microscopistas, pessoal auxiliar de diagnóstico e terapêutica e, bem assim, o pessoal dos serviços gerais que for julgado necessário.
 
-###### Art. 16.º Nas áreas de actividade da Divisão de Medicina, que se sobrepõem às áreas endémicas da tripanossomíase humana, haverá o número de estabelecimentos especiais julgados indispensáveis ao apoio clínico dos portadores da doença, cuja hospitalização será, no entanto e sempre que necessário, assegurada pelos estabelecimentos hospitalares da rede sanitária geral.
+Art. 16.º Nas áreas de actividade da Divisão de Medicina, que se sobrepõem às áreas endémicas da tripanossomíase humana, haverá o número de estabelecimentos especiais julgados indispensáveis ao apoio clínico dos portadores da doença, cuja hospitalização será, no entanto e sempre que necessário, assegurada pelos estabelecimentos hospitalares da rede sanitária geral.
 
-###### Art. 17.º Ao chefe da Divisão de Medicina compete:
+Art. 17.º Ao chefe da Divisão de Medicina compete:
 
 a) Manter o chefe da Missão ao corrente de todas as actividades da sua Divisão;
 
@@ -235,17 +266,17 @@ l) Elaborar trimestralmente o resumo das actividades da sua Divisão e anualment
 
 #### SECÇÃO III — Da Divisão de Veterinária
 
-###### Art. 18.º À Divisão de Veterinária incumbe a profilaxia e o combate às tripanossomíases animais.
+Art. 18.º À Divisão de Veterinária incumbe a profilaxia e o combate às tripanossomíases animais.
 
 § 1.º Sem prejuízo das suas actividades específicas, o pessoal dos sectores de veterinária poderá, quando for julgado conveniente, colaborar com os Serviços de Veterinária na profilaxia e combate de outras epizootias na área onde actuar.
 
 § 2.º Os sectores de veterinária são chefiados por médicos veterinários com a categoria da letra F.
 
-###### Art. 19.º O pessoal da Divisão de Veterinária compreenderá médicos veterinários, auxiliares de veterinária, tratadores auxiliares, microscopistas, pessoal dos serviços gerais e demais pessoal auxiliar que se tornar necessário admitir.
+Art. 19.º O pessoal da Divisão de Veterinária compreenderá médicos veterinários, auxiliares de veterinária, tratadores auxiliares, microscopistas, pessoal dos serviços gerais e demais pessoal auxiliar que se tornar necessário admitir.
 
 § único. Os chefes de sector manterão informados dos planos de trabalho e actividades os delegados de sanidade pecuária das áreas onde actuam e, através dos chefes distritais de veterinária, os respectivos governadores para efeito de integração de todos os serviços locais na orientação administrativa geral.
 
-###### Art. 20.º Ao chefe da Divisão de Veterinária compete:
+Art. 20.º Ao chefe da Divisão de Veterinária compete:
 
 a) Manter o chefe da Missão ao corrente de todas as actividades da sua Divisão;
 
@@ -273,13 +304,13 @@ l) Elaborar trimestralmente um resumo das actividades da sua Divisão e anualmen
 
 #### SECÇÃO IV — Da Divisão de Entomologia
 
-###### Art. 21.º À Divisão de Entomologia incumbe o estudo das diferentes espécies de glossina e dos métodos para as combater e, bem assim, o estudo das medidas destinadas a impedir a sua expansão e a recuperar as áreas infestadas.
+Art. 21.º À Divisão de Entomologia incumbe o estudo das diferentes espécies de glossina e dos métodos para as combater e, bem assim, o estudo das medidas destinadas a impedir a sua expansão e a recuperar as áreas infestadas.
 
 § único. Os sectores de entomologia são chefiados por um entomologista com a categoria da letra F.
 
-###### Art. 22.º O pessoal da Divisão de Entomologia compreende entomologistas, técnicos de entomologia, monitores de ocupação de terras, auxiliares de entomologia, colectores auxiliares, microscopistas, pessoal dos serviços gerais e outro pessoal auxiliar que for necessário admitir.
+Art. 22.º O pessoal da Divisão de Entomologia compreende entomologistas, técnicos de entomologia, monitores de ocupação de terras, auxiliares de entomologia, colectores auxiliares, microscopistas, pessoal dos serviços gerais e outro pessoal auxiliar que for necessário admitir.
 
-###### Art. 23.º Ao chefe da Divisão de Entomologia compete:
+Art. 23.º Ao chefe da Divisão de Entomologia compete:
 
 a) Manter o chefe da Missão ao corrente de todas as actividades da sua Divisão;
 
@@ -313,7 +344,7 @@ o) Elaborar trimestralmente um resumo das actividades da sua Divisão e anualmen
 
 #### SECÇÃO V — Da Divisão de Investigação
 
-###### Art. 24.º A Divisão de Investigação tem por objectivo:
+Art. 24.º A Divisão de Investigação tem por objectivo:
 
 a) O estudo dos agentes etiológicos das tripanossomíases, tanto do homem como dos animais;
 
@@ -325,13 +356,13 @@ d) O estudo da acção das drogas usadas para fins curativos e profilácticos na
 
 e) Tudo o que mais houver de ser estudado no âmbito da investigação sobre a doença, seus agentes etiológicos e vectores.
 
-###### Art. 25.º A investigação terá lugar em laboratório instalado em local onde seja fácil obter material de estudo e poderá dispor de dependências noutros locais onde incidirem determinados trabalhos.
+Art. 25.º A investigação terá lugar em laboratório instalado em local onde seja fácil obter material de estudo e poderá dispor de dependências noutros locais onde incidirem determinados trabalhos.
 
-###### Art. 26.º O chefe da Divisão de Investigação será um investigador, que assegurará também a direcção do laboratório.
+Art. 26.º O chefe da Divisão de Investigação será um investigador, que assegurará também a direcção do laboratório.
 
-###### Art. 27.º O pessoal da Divisão de Investigação compreende o chefe da Divisão, os investigadores, os preparadores de laboratório de 1.ª, 2.ª e 3.ª classes, os microscopistas, o pessoal dos serviços gerais e ainda outro pessoal auxiliar que se julgue necessário.
+Art. 27.º O pessoal da Divisão de Investigação compreende o chefe da Divisão, os investigadores, os preparadores de laboratório de 1.ª, 2.ª e 3.ª classes, os microscopistas, o pessoal dos serviços gerais e ainda outro pessoal auxiliar que se julgue necessário.
 
-###### Art. 28.º Ao chefe da Divisão de Investigação compete:
+Art. 28.º Ao chefe da Divisão de Investigação compete:
 
 a) Manter o chefe da Missão ao corrente de todas as actividades da sua Divisão;
 
@@ -353,7 +384,7 @@ h) Elaborar trimestralmente um resumo das actividades da sua Divisão e anualmen
 
 ##### SUBSECÇÃO I — Da comissão administrativa
 
-###### Art. 29.º A administração das dotações concedidas às Missões, bem como dos fundos que lhe sejam confiados, competirá a uma comissão administrativa, composta pelos seguintes membros: o chefe da Missão de Combate às Tripanossomíases, como presidente, o chefe de uma das divisões, um funcionário dos serviços de Fazenda e contabilidade, como vogais, e o chefe da Secretaria, como secretário.
+Art. 29.º A administração das dotações concedidas às Missões, bem como dos fundos que lhe sejam confiados, competirá a uma comissão administrativa, composta pelos seguintes membros: o chefe da Missão de Combate às Tripanossomíases, como presidente, o chefe de uma das divisões, um funcionário dos serviços de Fazenda e contabilidade, como vogais, e o chefe da Secretaria, como secretário.
 
 § 1.º Nas ausências e impedimentos legais de qualquer dos membros da comissão administrativa, a respectiva substituição far-se-á pelo seguinte modo: a do presidente, pelo substituto legal do chefe da Missão; a do vogal chefe de divisão, por outro chefe de divisão; e a do secretário, pelo encarregado da 1.ª Secção da Secretaria.
 
@@ -363,11 +394,11 @@ h) Elaborar trimestralmente um resumo das actividades da sua Divisão e anualmen
 
 ##### SUBSECÇÃO II — Da Secretaria
 
-###### Art. 30.º Pela Secretaria das Missões de Combate às Tripanossomíases correrá todo o expediente relativo ao Conselho das Tripanossomíases, ao orçamento e sua execução, à contabilização de verbas e património do Estado, às contas de responsabilidade, às aquisições de material, à organização e movimentação dos processos relativos a situações, licenças, efectividades, registos e cadastro do pessoal em actividade na Missão, ao expediente técnico e geral, e bem assim ao arquivo.
+Art. 30.º Pela Secretaria das Missões de Combate às Tripanossomíases correrá todo o expediente relativo ao Conselho das Tripanossomíases, ao orçamento e sua execução, à contabilização de verbas e património do Estado, às contas de responsabilidade, às aquisições de material, à organização e movimentação dos processos relativos a situações, licenças, efectividades, registos e cadastro do pessoal em actividade na Missão, ao expediente técnico e geral, e bem assim ao arquivo.
 
-###### Art. 31.º A Secretaria compreenderá três secções, competindo à 1.ª os serviços relativos à administração e contabilidade, à 2.ª o expediente geral e os assuntos relativos a pessoal e ao arquivo e à 3.ª o expediente técnico.
+Art. 31.º A Secretaria compreenderá três secções, competindo à 1.ª os serviços relativos à administração e contabilidade, à 2.ª o expediente geral e os assuntos relativos a pessoal e ao arquivo e à 3.ª o expediente técnico.
 
-###### Art. 32.º A Secretaria será chefiada por um chefe de secção, a quem compete:
+Art. 32.º A Secretaria será chefiada por um chefe de secção, a quem compete:
 
 a) Classificar e distribuir o serviço pelos funcionários seus subordinados, dando-lhes as instruções que tiver recebido da chefia da Missão ou, na falta destas, as que julgar indispensáveis;
 
@@ -379,13 +410,13 @@ d) Prestar toda a colaboração aos chefes das divisões;
 
 e) Manter a ordem e disciplina, e bem assim verificar a pontualidade e assiduidade dos funcionários e dos agentes sob as suas ordens e prestar sobre eles as respectivas informações.
 
-###### Art. 33.º Com a finalidade de assegurar o expediente dos sectores, poderá ser atribuído o número de auxiliares de administração julgado conveniente para esse efeito.
+Art. 33.º Com a finalidade de assegurar o expediente dos sectores, poderá ser atribuído o número de auxiliares de administração julgado conveniente para esse efeito.
 
 ### CAPÍTULO III — Do pessoal
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 34.º Os quadros do pessoal das Missões de Combate às Tripanossomíases de Angola e de Moçambique constam dos mapas anexos ao presente diploma e compreendem:
+Art. 34.º Os quadros do pessoal das Missões de Combate às Tripanossomíases de Angola e de Moçambique constam dos mapas anexos ao presente diploma e compreendem:
 
 a) Pessoal do quadro médico comum;
 
@@ -397,7 +428,7 @@ d) Pessoal dos quadros privativos dos serviços de saúde e assistência.
 
 #### SECÇÃO II — Do provimento dos quadros
 
-###### Art. 35.º O pessoal dos quadros das Missões faz parte integrante dos quadros dos serviços de saúde e assistência provinciais e o seu provimento será feito do seguinte modo:
+Art. 35.º O pessoal dos quadros das Missões faz parte integrante dos quadros dos serviços de saúde e assistência provinciais e o seu provimento será feito do seguinte modo:
 
 1.º Os lugares de chefe das Missões serão exercidos em comissão, em regra por um médico-director do quadro médico comum dos serviços de saúde e assistência do ultramar, como previsto no artigo 108.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), ou por um dos chefes de divisão do quadro do pessoal das Missões de Combate às Tripanossomíases, em que recaiam condições de competência técnica e reconhecida capacidade directiva, competindo a sua escolha ao Ministro, ouvida a Direcção-Geral de Saúde e Assistência do Ultramar.
 
@@ -441,13 +472,13 @@ b) Por nomeação em comissão mediante concurso documental ou por contrato para
 
 11.º O restante pessoal será provido por nomeação em portaria e destacado dos diferentes quadros dos Serviços de Saúde e Assistência ou provido nos termos da lei geral.
 
-###### Art. 36.º Todos os licenciados que ingressem no quadro complementar de outros técnicos especializados são dispensados do limite máximo de idade e incluídos no grupo F do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 36.º Todos os licenciados que ingressem no quadro complementar de outros técnicos especializados são dispensados do limite máximo de idade e incluídos no grupo F do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 37.º Enquanto não for possível preencher todos os lugares de chefe de sector da Divisão de Medicina, poderão os delegados de saúde das sedes dos sectores exercer, por acumulação, aquelas funções.
+Art. 37.º Enquanto não for possível preencher todos os lugares de chefe de sector da Divisão de Medicina, poderão os delegados de saúde das sedes dos sectores exercer, por acumulação, aquelas funções.
 
-###### Art. 38.º Ao pessoal do quadro médico comum, do quadro complementar de outros técnicos especializados, do quadro privativo de enfermagem, do quadro técnico auxiliar de terapêutica e diagnóstico que actua nas Missões de Combate às Tripanossomíases é estabelecido o regime de ocupação exclusiva, pelo que lhe fica vedado o exercício de qualquer outra actividade, remunerada ou não.
+Art. 38.º Ao pessoal do quadro médico comum, do quadro complementar de outros técnicos especializados, do quadro privativo de enfermagem, do quadro técnico auxiliar de terapêutica e diagnóstico que actua nas Missões de Combate às Tripanossomíases é estabelecido o regime de ocupação exclusiva, pelo que lhe fica vedado o exercício de qualquer outra actividade, remunerada ou não.
 
 § 1.º Igual regime é estabelecido para o seguinte pessoal contratado ou assalariado do quadro privativo dos serviços gerais que actue nas Missões de Combate às Tripanossomíases, como:
 
@@ -467,7 +498,7 @@ Capatazes auxiliares.
 
 § 2.º Incluem-se também neste regime os mecânicos, os condutores de automóveis, os serralheiros auxiliares de 1.ª e 2.ª classes e os auxiliares de administração cujo regime de trabalho se exerça nos sectores.
 
-###### Art. 39.º O pessoal indicado no artigo 38.º e seus parágrafos têm direito, quando em exercício na província, além do vencimento e abono de família, a uma gratificação mensal por ocupação exclusiva, escalonada como segue:
+Art. 39.º O pessoal indicado no artigo 38.º e seus parágrafos têm direito, quando em exercício na província, além do vencimento e abono de família, a uma gratificação mensal por ocupação exclusiva, escalonada como segue:
 
 Para os grupos D a F ... 4500$00
 
@@ -481,17 +512,17 @@ Para os grupos V a Z ... 600$00
 
 § 2.º O mesmo pessoal terá ainda direito aos demais abonos que estiverem em vigor para os funcionários da respectiva província.
 
-###### Art. 40.º As gratificações e demais abonos referidos nos parágrafos do artigo anterior são acumuláveis.
+Art. 40.º As gratificações e demais abonos referidos nos parágrafos do artigo anterior são acumuláveis.
 
-###### Art. 41.º O governador-geral da província determinará a publicação do regulamento privativo das Missões de Combate às Tripanossomíases de Moçambique e de Angola a que este diploma respeita.
+Art. 41.º O governador-geral da província determinará a publicação do regulamento privativo das Missões de Combate às Tripanossomíases de Moçambique e de Angola a que este diploma respeita.
 
-###### Art. 42.º Quando não for possível ter em funcionamento a Divisão de Investigação, os respectivos trabalhos serão assegurados pelo Instituto de Investigação Médica, nos termos previstos no artigo 42.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), e, sempre que necessário e possível, pelos Institutos de Investigação Veterinária das respectivas províncias.
+Art. 42.º Quando não for possível ter em funcionamento a Divisão de Investigação, os respectivos trabalhos serão assegurados pelo Instituto de Investigação Médica, nos termos previstos no artigo 42.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), e, sempre que necessário e possível, pelos Institutos de Investigação Veterinária das respectivas províncias.
 
-###### Art. 43.º O pessoal das Missões de Combate às Tripanossomíases que tenha ingressado directamente no quadro complementar de outros técnicos especializados dos serviços de saúde e assistência do ultramar poderá, se o requerer, transitar, sem mais formalidades e sem carecer de nomeação, visto ou posse para os quadros permanentes dos Serviços de Saúde e Assistência, dos Serviços de Veterinária, dos Serviços de Agricultura e Florestas e de outros serviços adequados à sua formação profissional, desde que tenha prestado pelo menos dez anos de bom e efectivo serviço nas Missões de Combate às Tripanossomíases, ainda que tenha que aguardar vaga na respectiva categoria. A transição far-se-á independentemente da idade, mas sempre sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino.
+Art. 43.º O pessoal das Missões de Combate às Tripanossomíases que tenha ingressado directamente no quadro complementar de outros técnicos especializados dos serviços de saúde e assistência do ultramar poderá, se o requerer, transitar, sem mais formalidades e sem carecer de nomeação, visto ou posse para os quadros permanentes dos Serviços de Saúde e Assistência, dos Serviços de Veterinária, dos Serviços de Agricultura e Florestas e de outros serviços adequados à sua formação profissional, desde que tenha prestado pelo menos dez anos de bom e efectivo serviço nas Missões de Combate às Tripanossomíases, ainda que tenha que aguardar vaga na respectiva categoria. A transição far-se-á independentemente da idade, mas sempre sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 44.º O actual médico de 1.ª classe que exerce interinamente as funções de chefe da Divisão de Medicina da Missão de Combate às Tripanossomíases de Moçambique transitará, sem mais formalidades e sem carecer de nomeação, visto ou posse, para o cargo de médico-inspector do quadro médico comum do ultramar, a fim de ser provido naquele cargo.
+Art. 44.º O actual médico de 1.ª classe que exerce interinamente as funções de chefe da Divisão de Medicina da Missão de Combate às Tripanossomíases de Moçambique transitará, sem mais formalidades e sem carecer de nomeação, visto ou posse, para o cargo de médico-inspector do quadro médico comum do ultramar, a fim de ser provido naquele cargo.
 
-###### Art. 45.º Os médicos diplomados pela Escola Médico-Cirúrgica de Goa que presentemente exerçam as funções de chefe de sector médico da Missão de Combate às Tripanossomíases de Angola como médicos de 2.ª classe do quadro médico comum em regime de interinidade transitam, independentemente de quaisquer formalidades e sem carecer de nomeação, visto ou posse e a partir da data da publicação do presente diploma, para os referidos lugares, sendo providos no quadro complementar de outros técnicos especializados.
+Art. 45.º Os médicos diplomados pela Escola Médico-Cirúrgica de Goa que presentemente exerçam as funções de chefe de sector médico da Missão de Combate às Tripanossomíases de Angola como médicos de 2.ª classe do quadro médico comum em regime de interinidade transitam, independentemente de quaisquer formalidades e sem carecer de nomeação, visto ou posse e a partir da data da publicação do presente diploma, para os referidos lugares, sendo providos no quadro complementar de outros técnicos especializados.
 
 § 1.º A transição é feita em comissão, devendo os referidos médicos obrigar-se, sob pena de esta lhes ser dada por finda, a obter a sua licenciatura em Medicina e Cirurgia quando se encontrarem na metrópole, na primeira situação legal.
 
@@ -499,39 +530,39 @@ Para os grupos V a Z ... 600$00
 
 § 3.º Para que a estes médicos seja aplicável o disposto no artigo 43.º do presente diploma é indispensável que obtenham aprovação nos exames finais dos cursos de Medicina Tropical e Sanitária.
 
-###### Art. 46.º As disposições do [Decreto n.º 7079](https://diariodarepublica.pt/dr/detalhe/decreto/7079-1920-393401), de 30 de Outubro de 1920, têm aplicação ao serviço prestado pelo pessoal das Missões de Combate às Tripanossomíases.
+Art. 46.º As disposições do [Decreto n.º 7079](https://diariodarepublica.pt/dr/detalhe/decreto/7079-1920-393401), de 30 de Outubro de 1920, têm aplicação ao serviço prestado pelo pessoal das Missões de Combate às Tripanossomíases.
 
-###### Art. 47.º Os agentes cuja designação funcional não é alterada pelo presente decreto transitam, sem quaisquer formalidades e sem carecer de nomeação, visto ou posse, para idênticos lugares na nova orgânica do serviço quando presentemente providos, mas só até que se verifique a sua vacatura, considerando-se a partir de então o provimento desses cargos e a sua classificação de acordo com o artigo 13.º e seus parágrafos do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 47.º Os agentes cuja designação funcional não é alterada pelo presente decreto transitam, sem quaisquer formalidades e sem carecer de nomeação, visto ou posse, para idênticos lugares na nova orgânica do serviço quando presentemente providos, mas só até que se verifique a sua vacatura, considerando-se a partir de então o provimento desses cargos e a sua classificação de acordo com o artigo 13.º e seus parágrafos do [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
-###### Art. 48.º Os actuais cargos de bibliotecário passam a designar-se por catalogadores-arquivistas, mantendo-se agrupados na letra N do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 48.º Os actuais cargos de bibliotecário passam a designar-se por catalogadores-arquivistas, mantendo-se agrupados na letra N do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 49.º Os actuais microscopistas e agentes sanitários de 1.ª classe das Missões de Combate às Tripanossomíases transitam, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de auxiliares sanitários de 1.ª classe.
+Art. 49.º Os actuais microscopistas e agentes sanitários de 1.ª classe das Missões de Combate às Tripanossomíases transitam, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de auxiliares sanitários de 1.ª classe.
 
-###### Art. 50.º Os actuais agentes sanitários de 2.ª classe das Missões de Combate às Tripanossomíases transitam, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares de auxiliar sanitário de 2.ª classe.
+Art. 50.º Os actuais agentes sanitários de 2.ª classe das Missões de Combate às Tripanossomíases transitam, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares de auxiliar sanitário de 2.ª classe.
 
-###### Art. 51.º Os actuais colectores auxiliares de entomologia de 1.ª e 2.ª classes, os colectores auxiliares de laboratório e os colectores auxiliares de entomologia transitem, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares de colector auxiliar de 1.ª ou 2.ª classe.
+Art. 51.º Os actuais colectores auxiliares de entomologia de 1.ª e 2.ª classes, os colectores auxiliares de laboratório e os colectores auxiliares de entomologia transitem, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de lugares de colector auxiliar de 1.ª ou 2.ª classe.
 
-###### Art. 52.º Os actuais encarregados de oficinas, mecânicos de automóveis e serralheiros mecânicos de 1.ª classe das Missões de Combate às Tripanossomíases transitam, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de mecânicos.
+Art. 52.º Os actuais encarregados de oficinas, mecânicos de automóveis e serralheiros mecânicos de 1.ª classe das Missões de Combate às Tripanossomíases transitam, sem mais formalidades e sem carecer de nomeação, visto ou posse, para igual número de mecânicos.
 
-###### Art. 53.º O actual condutor de automóveis de 3.ª classe da Missão de Combate às Tripanossomíases de Moçambique transitará, sem mais formalidades e sem carecer de nomeação, visto ou posse, para o lugar de condutor de automóveis de 2.ª classe; os actuais mecânicos auxiliares de 1.ª e 2.ª classes da mesma Missão transitarão, sem mais formalidades e sem carecer de nomeação, visto ou posse, para os lugares de condutor auxiliar de automóveis de 1.ª classe; os actuais mecânicos auxiliares de 4.ª classe da referida Missão transitarão, do mesmo modo e sem carecer de nomeação, visto ou posse, para igual número de lugares de condutor de automóveis de 3.ª classe.
+Art. 53.º O actual condutor de automóveis de 3.ª classe da Missão de Combate às Tripanossomíases de Moçambique transitará, sem mais formalidades e sem carecer de nomeação, visto ou posse, para o lugar de condutor de automóveis de 2.ª classe; os actuais mecânicos auxiliares de 1.ª e 2.ª classes da mesma Missão transitarão, sem mais formalidades e sem carecer de nomeação, visto ou posse, para os lugares de condutor auxiliar de automóveis de 1.ª classe; os actuais mecânicos auxiliares de 4.ª classe da referida Missão transitarão, do mesmo modo e sem carecer de nomeação, visto ou posse, para igual número de lugares de condutor de automóveis de 3.ª classe.
 
-###### Art. 54.º Os actuais funcionários e demais agentes das Missões de Combate às Tripanossomíases continuam a ser abonados, a, partir da data da entrada em vigor do presente diploma, dos vencimentos, salários e demais abonos que vêm auferindo, até que sejam incluídas nos orçamentos ordinários das Missões as novas designações funcionais.
+Art. 54.º Os actuais funcionários e demais agentes das Missões de Combate às Tripanossomíases continuam a ser abonados, a, partir da data da entrada em vigor do presente diploma, dos vencimentos, salários e demais abonos que vêm auferindo, até que sejam incluídas nos orçamentos ordinários das Missões as novas designações funcionais.
 
-###### Art. 55.º Nos orçamentos das despesas ordinária e extraordinária das províncias serão inscritas, além das necessárias dotações para pagamento de vencimentos, salários e outras remunerações certas ao pessoal dos quadros aprovados, dotações globais sob a rubrica «Missão de Combate às Tripanossomíases», que serão distribuídas por portarias do Governo-Geral, sob propostas dos chefes das Missões.
+Art. 55.º Nos orçamentos das despesas ordinária e extraordinária das províncias serão inscritas, além das necessárias dotações para pagamento de vencimentos, salários e outras remunerações certas ao pessoal dos quadros aprovados, dotações globais sob a rubrica «Missão de Combate às Tripanossomíases», que serão distribuídas por portarias do Governo-Geral, sob propostas dos chefes das Missões.
 
-###### Art. 56.º Os programas de ocupação humana ou agrária em áreas glossinadas ou a estas adjacentes serão obrigatòriamente submetidos a parecer das Missões de Combate às Tripanossomíases.
+Art. 56.º Os programas de ocupação humana ou agrária em áreas glossinadas ou a estas adjacentes serão obrigatòriamente submetidos a parecer das Missões de Combate às Tripanossomíases.
 
-###### Art. 57.º Os pedidos de concessão de terrenos do Estado ou alvarás de quaisquer concessões destinados à agricultura, pecuária, exploração mineira, florestal, incluindo cortes unitários, ou qualquer outro fim, que recaiam em áreas glossinadas, não poderão ter andamento sem prévia audição e parecer favorável das Missões de Combate às Tripanossomíases.
+Art. 57.º Os pedidos de concessão de terrenos do Estado ou alvarás de quaisquer concessões destinados à agricultura, pecuária, exploração mineira, florestal, incluindo cortes unitários, ou qualquer outro fim, que recaiam em áreas glossinadas, não poderão ter andamento sem prévia audição e parecer favorável das Missões de Combate às Tripanossomíases.
 
 § 1.º Fica igualmente sujeita a parecer das Missões de Combate às Tripanossomíases a abertura de novas estradas, picadas carroçáveis e outras vias de serventia pública que atravessem áreas glossinadas.
 
 § 2.º A abertura de casas comerciais em zonas endémicas de tripanossomíase humana fica dependente do parecer favorável das Missões de Combate às Tripanossomíases, a quem os respectivos processos devem ser submetidos.
 
-###### Art. 58.º A execução do presente diploma, em tudo que represente aumento de despesa, fica condicionada às disponibilidades orçamentais.
+Art. 58.º A execução do presente diploma, em tudo que represente aumento de despesa, fica condicionada às disponibilidades orçamentais.
 
-###### Art. 59.º Fica revogada toda a legislação em contrário, nomeadamente os Decretos n.os 45177, de 3 de Agosto de 1963, 43712 e 45523, respectivamente datados de 21 de Maio de 1961 e de 2 de Janeiro de 1964.
+Art. 59.º Fica revogada toda a legislação em contrário, nomeadamente os Decretos n.os 45177, de 3 de Agosto de 1963, 43712 e 45523, respectivamente datados de 21 de Maio de 1961 e de 2 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -543,18 +574,18 @@ MAPA I
 
 Pessoal do quadro médico comum e quadro complementar de outros técnicos especializados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf))](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf)
 
 MAPA II
 
 Quadro comum administrativo de enfermagem e de serviço social
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf))](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf)
 
 MAPA III
 
 Quadros privativos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf))](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/04/10100/08130821.pdf)
 
 Ministério do Ultramar, 28 de Abril de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

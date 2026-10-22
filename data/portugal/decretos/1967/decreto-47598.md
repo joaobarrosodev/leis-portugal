@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 68/1967, 1º Suplemento, Série I de 1967-03-21
   number: '68'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 511 - 604
   pdf_url: https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47598-1967-253049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7bd6a8a11098be6174c61ba303c71df686a6cba526a5c880abe88f7177e016eb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 413ada19091b63250f40a550361d0c43208589b00cabfb7c4b80aabb24f7cac1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
-  section_count: 194
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 190
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:49Z'
   warnings: []
   errors: []
 ---
@@ -85,11 +85,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aprovados os Regulamentos para execução da Convenção e dos Acordos assinados em Viena, no XV Congresso da União Postal Universal, em 10 de Julho de 1964, cuja tradução segue em anexo ao presente decreto.
+Artigo 1.º São aprovados os Regulamentos para execução da Convenção e dos Acordos assinados em Viena, no XV Congresso da União Postal Universal, em 10 de Julho de 1964, cuja tradução segue em anexo ao presente decreto.
 
 Art.º 2.º Os impressos de serviço mencionados nos actos a que se refere o artigo anterior são os que figuram na publicação editada pela Secretaria Internacional da União Postal Universal, intitulada Formulário da U. P. U.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Março de 1967 - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira - Carlos Gomes da Silva Ribeiro.
 
@@ -103,33 +103,33 @@ Disposições gerais
 
 ### CAPÍTULO I — Regras comuns aplicáveis ao serviço postal internacional
 
-###### Art. 101.º Organização e liquidação de contas.
+Art. 101.º Organização e liquidação de contas.
 
-###### Art. 102.º Pagamento dos créditos em ouro. Disposições gerais.
+Art. 102.º Pagamento dos créditos em ouro. Disposições gerais.
 
-###### Art. 103.º Regras de pagamento.
+Art. 103.º Regras de pagamento.
 
-###### Art. 104.º Fixação dos equivalentes.
+Art. 104.º Fixação dos equivalentes.
 
-###### Art. 105.º Selos. Notificação das emissões e permuta entre Administrações.
+Art. 105.º Selos. Notificação das emissões e permuta entre Administrações.
 
-###### Art. 106.º Bilhetes de identidade postais.
+Art. 106.º Bilhetes de identidade postais.
 
-###### Art. 107.º Países distantes ou como tais considerados.
+Art. 107.º Países distantes ou como tais considerados.
 
-###### Art. 108.º Prazo de conservação dos documentos.
+Art. 108.º Prazo de conservação dos documentos.
 
-###### Art. 109.º Endereços telegráficos.
+Art. 109.º Endereços telegráficos.
 
-###### Art. 110.º Código telegráfico postal.
+Art. 110.º Código telegráfico postal.
 
 ### CAPÍTULO II — Secretaria Internacional. Esclarecimentos que se lhe devem enviar. Publicações
 
-###### Art. 111.º Comunicações e esclarecimentos que se devem enviar à Secretaria Internacional.
+Art. 111.º Comunicações e esclarecimentos que se devem enviar à Secretaria Internacional.
 
-###### Art. 112.º Publicações.
+Art. 112.º Publicações.
 
-###### Art. 113.º Distribuição das publicações.
+Art. 113.º Distribuição das publicações.
 
 SEGUNDA PARTE
 
@@ -139,169 +139,169 @@ Disposições relativas à correspondência postal
 
 ### CAPÍTULO I — Disposições aplicáveis a todas as categorias de correspondência
 
-###### Art. 114.º Endereço. Acondicionamento.
+Art. 114.º Endereço. Acondicionamento.
 
-###### Art. 115.º Correspondência de posta-restante.
+Art. 115.º Correspondência de posta-restante.
 
-###### Art. 116.º Correspondência expedida com isenção de franquia.
+Art. 116.º Correspondência expedida com isenção de franquia.
 
-###### Art. 117.º Correspondência sujeita à verificação aduaneira.
+Art. 117.º Correspondência sujeita à verificação aduaneira.
 
-###### Art. 118.º Correspondência livre de encargos.
+Art. 118.º Correspondência livre de encargos.
 
 ### CAPÍTULO II — Regras relativas à embalagem da correspondência
 
-###### Art. 119.º Acondicionamento. Embalagem.
+Art. 119.º Acondicionamento. Embalagem.
 
-###### Art. 120.º Acondicionamento. Matérias biológicas deterioráveis.
+Art. 120.º Acondicionamento. Matérias biológicas deterioráveis.
 
-###### Art. 121.º Acondicionamento. Matérias radioactivas.
+Art. 121.º Acondicionamento. Matérias radioactivas.
 
-###### Art. 122.º Acondicionamento. Verificação do conteúdo.
+Art. 122.º Acondicionamento. Verificação do conteúdo.
 
-###### Art. 123.º Correspondência em sobrescrito com espaço transparente.
+Art. 123.º Correspondência em sobrescrito com espaço transparente.
 
 ### CAPÍTULO III — Disposições especiais aplicáveis a cada categoria de correspondência
 
-###### Art. 124.º Cartas.
+Art. 124.º Cartas.
 
-###### Art. 125.º Bilhetes-postais simples.
+Art. 125.º Bilhetes-postais simples.
 
-###### Art. 126.º Bilhetes-postais de resposta paga.
+Art. 126.º Bilhetes-postais de resposta paga.
 
-###### Art. 127.º Impressos.
+Art. 127.º Impressos.
 
-###### Art. 128.º Impressos. Anotações e anexos autorizados.
+Art. 128.º Impressos. Anotações e anexos autorizados.
 
-###### Art. 129.º Impressos sob a forma de bilhete.
+Art. 129.º Impressos sob a forma de bilhete.
 
-###### Art. 130.º Cecogramas.
+Art. 130.º Cecogramas.
 
-###### Art. 131.º Amostras de mercadorias.
+Art. 131.º Amostras de mercadorias.
 
-###### Art. 132.º Amostras de mercadorias. Anotações autorizadas.
+Art. 132.º Amostras de mercadorias. Anotações autorizadas.
 
-###### Art. 133.º Pacotes postais.
+Art. 133.º Pacotes postais.
 
-###### Art. 134.º Correspondências fonopostais.
+Art. 134.º Correspondências fonopostais.
 
-###### Art. 135.º Agrupamento de objectos de categorias diferentes numa só remessa.
+Art. 135.º Agrupamento de objectos de categorias diferentes numa só remessa.
 
 ## TÍTULO II — Objectos registados
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 136.º Objectos registados.
+Art. 136.º Objectos registados.
 
-###### Art. 137.º Avisos de recepção.
+Art. 137.º Avisos de recepção.
 
-###### Art. 138.º Avisos de recepção pedidos posteriormente ao acto do registo.
+Art. 138.º Avisos de recepção pedidos posteriormente ao acto do registo.
 
-###### Art. 139.º Entrega em mão própria.
+Art. 139.º Entrega em mão própria.
 
 ## TÍTULO III — Operações na expedição e na recepção
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 140.º Aplicação da marca do dia.
+Art. 140.º Aplicação da marca do dia.
 
-###### Art. 141.º Correspondência a entregar por próprio.
+Art. 141.º Correspondência a entregar por próprio.
 
-###### Art. 142.º Correspondência com falta total ou insuficiência de franquia.
+Art. 142.º Correspondência com falta total ou insuficiência de franquia.
 
-###### Art. 143.º Devolução de boletins de franquia (parte A). Cobrança das taxas e dos direitos.
+Art. 143.º Devolução de boletins de franquia (parte A). Cobrança das taxas e dos direitos.
 
-###### Art. 144.º Correspondência reexpedida.
+Art. 144.º Correspondência reexpedida.
 
-###### Art. 145.º Reexpedição colectiva de correspondência postal.
+Art. 145.º Reexpedição colectiva de correspondência postal.
 
-###### Art. 146.º Correspondência insusceptível de distribuição.
+Art. 146.º Correspondência insusceptível de distribuição.
 
-###### Art. 147.º Restituição. Modificação de endereço.
+Art. 147.º Restituição. Modificação de endereço.
 
-###### Art. 148.º Restituição. Modificação de endereço. Correspondência depositada num País diferente daquele que recebe o pedido.
+Art. 148.º Restituição. Modificação de endereço. Correspondência depositada num País diferente daquele que recebe o pedido.
 
-###### Art. 149.º Reclamações. Correspondência ordinária.
+Art. 149.º Reclamações. Correspondência ordinária.
 
-###### Art. 150.º Reclamações. Correspondência registada.
+Art. 150.º Reclamações. Correspondência registada.
 
-###### Art. 151.º Pedidos de informação.
+Art. 151.º Pedidos de informação.
 
-###### Art. 152.º Reclamações e pedidos de informação relativos à correspondência depositada noutro País.
+Art. 152.º Reclamações e pedidos de informação relativos à correspondência depositada noutro País.
 
 ## TÍTULO IV — Permuta de correspondência. Malas
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 153.º Cartas de aviso.
+Art. 153.º Cartas de aviso.
 
-###### Art. 154.º Transmissão da correspondência registada.
+Art. 154.º Transmissão da correspondência registada.
 
-###### Art. 155.º Transmissão da correspondência a entregar por próprio.
+Art. 155.º Transmissão da correspondência a entregar por próprio.
 
-###### Art. 156.º Organização das malas.
+Art. 156.º Organização das malas.
 
-###### Art. 157.º Entrega das malas.
+Art. 157.º Entrega das malas.
 
-###### Art. 158.º Verificação das malas.
+Art. 158.º Verificação das malas.
 
-###### Art. 159.º Encaminhamento das malas. Boletim de experiência.
+Art. 159.º Encaminhamento das malas. Boletim de experiência.
 
-###### Art. 160.º Permuta em malas fechadas.
+Art. 160.º Permuta em malas fechadas.
 
-###### Art. 161.º Trânsito em malas fechadas e trânsito a descoberto.
+Art. 161.º Trânsito em malas fechadas e trânsito a descoberto.
 
-###### Art. 162.º Encaminhamento da correspondência.
+Art. 162.º Encaminhamento da correspondência.
 
-###### Art. 163.º Malas permutadas com navios ou aviões de guerra.
+Art. 163.º Malas permutadas com navios ou aviões de guerra.
 
-###### Art. 164.º Devolução de sacos vazios.
+Art. 164.º Devolução de sacos vazios.
 
 ## TÍTULO V — Disposições relativas aos direitos de trânsito
 
 ### CAPÍTULO I — Operações de estatística
 
-###### Art. 165.º Período e duração da estatística.
+Art. 165.º Período e duração da estatística.
 
-###### Art. 166.º Organização e designação das malas fechadas durante o período estatístico.
+Art. 166.º Organização e designação das malas fechadas durante o período estatístico.
 
-###### Art. 167.º Conferência da quantidade de sacos e do peso das malas fechadas.
+Art. 167.º Conferência da quantidade de sacos e do peso das malas fechadas.
 
-###### Art. 168.º Organização dos mapas das malas fechadas.
+Art. 168.º Organização dos mapas das malas fechadas.
 
-###### Art. 169.º Malas fechadas permutadas com navios ou aviões de guerra.
+Art. 169.º Malas fechadas permutadas com navios ou aviões de guerra.
 
-###### Art. 170.º Boletim de trânsito.
+Art. 170.º Boletim de trânsito.
 
-###### Art. 171.º Transmissão dos impressos C 16, C 17 e C 19. Excepções.
+Art. 171.º Transmissão dos impressos C 16, C 17 e C 19. Excepções.
 
-###### Art. 172.º Serviços extraordinários.
+Art. 172.º Serviços extraordinários.
 
 ### CAPÍTULO II — Elaboração, liquidação e revisão de contas
 
-###### Art. 173.º Elaboração, transmissão e aprovação das contas dos direitos de trânsito.
+Art. 173.º Elaboração, transmissão e aprovação das contas dos direitos de trânsito.
 
-###### Art. 174.º Conta geral anual. Intervenção da Secretaria Internacional.
+Art. 174.º Conta geral anual. Intervenção da Secretaria Internacional.
 
-###### Art. 175.º Pagamentos dos direitos de trânsito.
+Art. 175.º Pagamentos dos direitos de trânsito.
 
-###### Art. 176.º Revisão das contas de direitos de trânsito.
+Art. 176.º Revisão das contas de direitos de trânsito.
 
 ## TÍTULO VI — Disposições diversas
 
 ### CAPÍTULO ÚNICO
 
-###### Art. 177.º Correspondência corrente entre Administrações.
+Art. 177.º Correspondência corrente entre Administrações.
 
-###### Art. 178.º Características dos selos e impressões de franquia.
+Art. 178.º Características dos selos e impressões de franquia.
 
-###### Art. 179.º Utilização reputada fraudulenta de selos postais ou de impressões de franquia.
+Art. 179.º Utilização reputada fraudulenta de selos postais ou de impressões de franquia.
 
-###### Art. 180.º Cupões-resposta internacionais.
+Art. 180.º Cupões-resposta internacionais.
 
-###### Art. 181.º Liquidação dos direitos aduaneiros, etc., com a Administração postal de origem da correspondência livre de encargos.
+Art. 181.º Liquidação dos direitos aduaneiros, etc., com a Administração postal de origem da correspondência livre de encargos.
 
-###### Art. 182.º Impressos para uso do público.
+Art. 182.º Impressos para uso do público.
 
 TERCEIRA PARTE
 
@@ -309,57 +309,57 @@ Disposições relativas ao transporte aéreo
 
 ### CAPÍTULO I — Regras da expedição e do encaminhamento
 
-###### Art. 183.º Assinalamento das correspondências-avião sobretaxadas.
+Art. 183.º Assinalamento das correspondências-avião sobretaxadas.
 
-###### Art. 184.º Supressão das indicações «Par avion» e «Aérogramme».
+Art. 184.º Supressão das indicações «Par avion» e «Aérogramme».
 
-###### Art. 185.º Correspondências-avião incluídas em malas-superfície.
+Art. 185.º Correspondências-avião incluídas em malas-superfície.
 
-###### Art. 186.º Correspondências-avião em trânsito a descoberto. Formação de maços especiais.
+Art. 186.º Correspondências-avião em trânsito a descoberto. Formação de maços especiais.
 
-###### Art. 187.º Assinalamento das malas-avião.
+Art. 187.º Assinalamento das malas-avião.
 
-###### Art. 188.º Verificação do peso das malas-avião.
+Art. 188.º Verificação do peso das malas-avião.
 
-###### Art. 189.º Correspondências-avião em trânsito a descoberto. Operações de estatística.
+Art. 189.º Correspondências-avião em trânsito a descoberto. Operações de estatística.
 
-###### Art. 190.º Remessa de correspondências-avião em trânsito a descoberto. Preparação e verificação das guias AV 2.
+Art. 190.º Remessa de correspondências-avião em trânsito a descoberto. Preparação e verificação das guias AV 2.
 
-###### Art. 191.º Correspondências-avião em trânsito a descoberto excluídas das operações de estatística.
+Art. 191.º Correspondências-avião em trânsito a descoberto excluídas das operações de estatística.
 
-###### Art. 192.º Guia de entrega.
+Art. 192.º Guia de entrega.
 
-###### Art. 193.º Sacos colectores.
+Art. 193.º Sacos colectores.
 
-###### Art. 194.º Transbordo das malas-avião.
+Art. 194.º Transbordo das malas-avião.
 
-###### Art. 195.º Devolução dos sacos-avião vazios.
+Art. 195.º Devolução dos sacos-avião vazios.
 
-###### Art. 196.º Providências a tomar em casos de interrupção de voo ou de desvio de malas.
+Art. 196.º Providências a tomar em casos de interrupção de voo ou de desvio de malas.
 
-###### Art. 197.º Providência a tomar em caso de acidente.
+Art. 197.º Providência a tomar em caso de acidente.
 
 ### CAPÍTULO II — Contabilidade. Liquidação de contas
 
-###### Art. 198.º Formas de organizar as contas da remuneração do transporte aéreo.
+Art. 198.º Formas de organizar as contas da remuneração do transporte aéreo.
 
-###### Art. 199.º Formas de organizar as contas dos direitos de trânsito de superfície relativos às malas-avião.
+Art. 199.º Formas de organizar as contas dos direitos de trânsito de superfície relativos às malas-avião.
 
-###### Art. 200.º Elaboração dos mapas de pesos.
+Art. 200.º Elaboração dos mapas de pesos.
 
-###### Art. 201.º Remessa e aceitação dos mapas de pesos AV 3 e AV 4 e das contas especiais AV 5.
+Art. 201.º Remessa e aceitação dos mapas de pesos AV 3 e AV 4 e das contas especiais AV 5.
 
 ### CAPÍTULO III — Informações que as Administrações e a Secretaria Internacional devem prestar
 
-###### Art. 202.º Informações que as Administrações devem prestar.
+Art. 202.º Informações que as Administrações devem prestar.
 
-###### Art. 203.º Documentação que a Secretaria Internacional deve fornecer.
+Art. 203.º Documentação que a Secretaria Internacional deve fornecer.
 
 QUARTA PARTE
 
 Disposições finais
 
-###### Art. 204.º Entrada em execução e duração do Regulamento.
+Art. 204.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -677,11 +677,11 @@ As cartas que contenham matérias biológicas deterioráveis ficam sujeitas às 
 
 a) As matérias biológicas deterioráveis compostas de microrganismos patogénicos vivos ou de vírus patogénicos vivos devem ser incluídas num frasco ou num tubo de vidro de paredes espessas ou de material plástico bem rolhado, ou numa ampola hermèticamente fechada. O recipiente deve ser impermeável e hermèticamente fechado. Deve ser envolvido por um tecido espesso e absorvente (algodão hidrófilo, baetilha ou flanela de algodão), enrolado várias vezes em torno do frasco e atado a este tanto em cima como em baixo, de modo a formar uma espécie de fuso. O recipiente assim acondicionado deve ser colocado dentro de um estojo metálico sólido e bem fechado. A substância absorvente metida entre o recipiente interno e o estojo metálico deve ser em quantidade suficiente para absorver todo o líquido contido ou susceptível de se formar no recipiente interno, no caso de este se quebrar. O estojo metálico deve ser feito e fechado de maneira a tornar impossível qualquer contaminação no exterior do estojo; este deve ser envolvido em algodão ou em matéria esponjosa e metido, por sua vez, numa caixa protectora, de modo a evitar que se desloque. Este recipiente protector externo deve ser formado por um bloco escavado, de madeira sólida ou de metal, ou ainda de uma matéria e construção de solidez equivalente, e munido de uma tampa bem adaptada e fixada de maneira que se não possa abrir durante o transporte. Devem ser tomadas disposições especiais, tais como dessecação por congelação e invólucro de gelo, para assegurar a conservação das matérias sensíveis a temperaturas elevadas. O transporte por via aérea, sujeito a mudanças de pressão atmosférica, exige que os invólucros sejam bastante sólidos para resistirem a essas variações de pressão. Por outro lado, a caixa externa (assim como o invólucro externo, se o houver) deve trazer, do lado que apresenta os endereços do laboratório remetente e do laboratório de destino oficialmente reconhecidos, uma etiqueta de cor violeta em que figurem as menções e o símbolo seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 b) As matérias biológicas deterioráveis que não contenham microrganismos patogénicos vivos, nem vírus patogénicos vivos devem ser acondicionadas dentro de um recipiente impermeável interno, de um recipiente protector externo e de uma substância absorvente colocada quer no recipiente interno, quer entre os recipientes interno e externo; esta substância deve ser em quantidade suficiente para absorver todo o líquido contido ou susceptível de se formar no recipiente interno, no caso de este se quebrar. Por outro lado, o conteúdo dos recipientes, tanto interno como externo, deve ser acondicionado de modo a evitar que se desloque. Devem ser tomadas disposições especiais, tais como dessecação por congelação e invólucro de gelo, para assegurar a conservação das matérias sensíveis a temperaturas elevadas. O transporte por via aérea, sujeito a mudanças de pressão atmosférica, exige que, se o material for acondicionado em ampolas hermèticamente fechadas ou em garrafas bem rolhadas, estes recipientes sejam bastante sólidos para resistirem às variações de pressão. O recipiente externo, assim como o invólucro externo do objecto, devem trazer, do lado que apresenta os endereços do laboratório remetente e do laboratório de destino, uma etiqueta de cor violeta em que figurem a menção e o símbolo seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 ###### ARTIGO 121.º — Acondicionamento. Matérias radioactivas
 
@@ -873,7 +873,9 @@ d) Quando a remessa contiver impressos de taxa reduzida, esses impressos ficam s
 
 ## TÍTULO II — Objectos registados
 
-### CAPÍTULO ÚNICO — ARTIGO 136.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 136.º
 
 Objectos registados
 
@@ -919,7 +921,9 @@ A correspondência registada a entregar em mão própria deve apresentar, na par
 
 ## TÍTULO III — Operações na expedição e na recepção
 
-### CAPÍTULO ÚNICO — ARTIGO 140.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 140.º
 
 Aplicação da marca do dia
 
@@ -1111,7 +1115,9 @@ Os pedidos de informação relativos a correspondência ordinária ou registada 
 
 ## TÍTULO IV — Permuta de correspondência. Malas
 
-### CAPÍTULO ÚNICO — ARTIGO 153.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 153.º
 
 Cartas de aviso
 
@@ -1297,7 +1303,7 @@ A fim de determinar qual o percurso mais favorável e o tempo de transmissão de
 
 2. O endereço destas malas deve ser redigido da seguinte maneira:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 3. As malas destinadas a divisões navais ou navios de guerra, ou deles provenientes, são encaminhadas, salvo se alguma via especial for indicada no endereço, pelas vias mais rápidas e nas mesmas condições que as malas permutadas entre estações do correio.
 
@@ -1361,7 +1367,7 @@ Sob reserva destas particularidades de apresentação, as malas permutadas em tr
 
 1. No que diz respeito às malas que motivam o pagamento de direitos de trânsito, a estação de permuta utiliza uma carta de aviso especial, conforme o modelo anexo C 15. Inscreve, nesta carta de aviso, a quantidade de sacos, distribuindo-os, se for necessário, pelas seguintes categorias:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 2. A quantidade dos sacos isentos de direitos de trânsito deve ser o total dos que levam a indicação «Statistique - Exempt», de harmonia com o artigo 166.º, parágrafo 2.
 
@@ -1497,7 +1503,9 @@ d) Verificação, por uma Administração intermediária, em qualquer momento, d
 
 ## TÍTULO IV — Disposições diversas
 
-### CAPÍTULO ÚNICO — ARTIGO 177.º
+### CAPÍTULO ÚNICO
+
+###### ARTIGO 177.º
 
 Correspondência corrente entre Administrações
 
@@ -1839,7 +1847,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -1851,35 +1859,35 @@ INDICE
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
 ### CAPÍTULO II — Condições e operações de aceitação
 
-###### Art. 102.º Acondicionamento dos objectos.
+Art. 102.º Acondicionamento dos objectos.
 
-###### Art. 103.º Declaração de valor.
+Art. 103.º Declaração de valor.
 
-###### Art. 104.º Declarações para a Alfândega.
+Art. 104.º Declarações para a Alfândega.
 
-###### Art. 105.º Atribuições da estação de origem.
+Art. 105.º Atribuições da estação de origem.
 
 ### CAPÍTULO III — Permuta dos objectos com valor declarado
 
-###### Art. 106.º Vias e modos de transmissão.
+Art. 106.º Vias e modos de transmissão.
 
-###### Art. 107.º Operações na estação de permuta expedidora.
+Art. 107.º Operações na estação de permuta expedidora.
 
-###### Art. 108.º Operações na estação de permuta de recepção ou na estação de destino.
+Art. 108.º Operações na estação de permuta de recepção ou na estação de destino.
 
-###### Art. 109.º Reexpedição. Objectos insusceptíveis de distribuição.
+Art. 109.º Reexpedição. Objectos insusceptíveis de distribuição.
 
 ### CAPÍTULO IV — Disposições diversas e finais
 
-###### Art. 110.º Modificação de endereço.
+Art. 110.º Modificação de endereço.
 
-###### Art. 111.º Aplicação do Regulamento para Execução da Convenção.
+Art. 111.º Aplicação do Regulamento para Execução da Convenção.
 
-###### Art. 112.º Entrada em execução e duração do Regulamento.
+Art. 112.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -2073,7 +2081,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -2085,155 +2093,155 @@ Regulamento para Execução do Acordo Relativo às Encomendas Postais
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
-###### Art. 102.º Vias de encaminhamento e taxas.
+Art. 102.º Vias de encaminhamento e taxas.
 
 ### CAPÍTULO II — Tratamento das encomendas pela estação de origem
 
-#### SECÇAO I
+SECÇAO I
 
 Condições gerais de aceitação e de depósito
 
-###### Art. 103.º Endereços do remetente e do destinatário.
+Art. 103.º Endereços do remetente e do destinatário.
 
-###### Art. 104.º Condições gerais de embalagem.
+Art. 104.º Condições gerais de embalagem.
 
-###### Art. 105.º Embalagens especiais. Assinalamento das encomendas que contenham filmes, celulóide, animais vivos.
+Art. 105.º Embalagens especiais. Assinalamento das encomendas que contenham filmes, celulóide, animais vivos.
 
-###### Art. 106.º Formalidades que o remetente deve cumprir.
+Art. 106.º Formalidades que o remetente deve cumprir.
 
-###### Art. 107.º Formalidades que a estação de origem deve cumprir.
+Art. 107.º Formalidades que a estação de origem deve cumprir.
 
 #### SECÇÃO II — Condições de aceitação e de depósito especiais inerentes a algumas categorias de encomendas
 
-###### Art. 108.º Encomendas com valor declarado.
+Art. 108.º Encomendas com valor declarado.
 
-###### Art. 109.º Declaração fraudulenta de valor.
+Art. 109.º Declaração fraudulenta de valor.
 
-###### Art. 110.º Outras categorias de encomendas.
+Art. 110.º Outras categorias de encomendas.
 
 #### SECÇÃO III — Formalidades pedidas depois do depósito
 
-###### Art. 111.º Entrega livre de encargos pedida posteriormente ao depósito.
+Art. 111.º Entrega livre de encargos pedida posteriormente ao depósito.
 
-###### Art. 112.º Pedido de aviso de recepção feito posteriormente ao depósito.
+Art. 112.º Pedido de aviso de recepção feito posteriormente ao depósito.
 
-###### Art. 113.º Restituição. Modificação de endereço.
+Art. 113.º Restituição. Modificação de endereço.
 
 ### CAPÍTULO III — Tratamento das encomendas pelas estações de permuta
 
 #### SECÇÃO I — Encaminhamento
 
-###### Art. 114.º Princípio geral de permuta das encomendas.
+Art. 114.º Princípio geral de permuta das encomendas.
 
-###### Art. 115.º Encaminhamento e despacho aduaneiro das encomendas-avião.
+Art. 115.º Encaminhamento e despacho aduaneiro das encomendas-avião.
 
-###### Art. 116.º Transbordo das encomendas-avião.
+Art. 116.º Transbordo das encomendas-avião.
 
-###### Art. 117.º Encaminhamento e despacho aduaneiro das encomendas urgentes.
+Art. 117.º Encaminhamento e despacho aduaneiro das encomendas urgentes.
 
-###### Art. 118.º Despacho aduaneiro das encomendas a entregar por próprio.
+Art. 118.º Despacho aduaneiro das encomendas a entregar por próprio.
 
 #### SECÇÃO II — Formação a expedição das malas
 
-###### Art. 119.º Diversos modos de transmissão.
+Art. 119.º Diversos modos de transmissão.
 
-###### Art. 120.º Guias de expedição.
+Art. 120.º Guias de expedição.
 
-###### Art. 121.º Guias de expedição simplificadas.
+Art. 121.º Guias de expedição simplificadas.
 
-###### Art. 122.º Transmissão em malas fechadas.
+Art. 122.º Transmissão em malas fechadas.
 
-###### Art. 123.º Entrega das malas.
+Art. 123.º Entrega das malas.
 
-###### Art. 124.º Tratamento das encomendas com aviso de embarque.
+Art. 124.º Tratamento das encomendas com aviso de embarque.
 
 #### SECÇÃO III — Verificação das malas e das encomendas. Devolução dos recipientes vazios
 
-###### Art. 125.º Verificação das malas pelas estações de permuta.
+Art. 125.º Verificação das malas pelas estações de permuta.
 
-###### Art. 126.º Divergências relativas ao peso, ao volume ou às dimensões das encomendas.
+Art. 126.º Divergências relativas ao peso, ao volume ou às dimensões das encomendas.
 
-###### Art. 127.º Comprovação das irregularidades que envolvam a responsabilidade das Administrações.
+Art. 127.º Comprovação das irregularidades que envolvam a responsabilidade das Administrações.
 
-###### Art. 128.º Recepção por uma estação de permuta de uma encomenda avariada ou insuficientemente embalada.
+Art. 128.º Recepção por uma estação de permuta de uma encomenda avariada ou insuficientemente embalada.
 
-###### Art. 129.º Verificação das malas de encomendas transmitidas globalmente.
+Art. 129.º Verificação das malas de encomendas transmitidas globalmente.
 
-###### Art. 130.º Reexpedição de uma encomenda recebida por errado encaminhamento.
+Art. 130.º Reexpedição de uma encomenda recebida por errado encaminhamento.
 
-###### Art. 131.º Devolução dos recipientes vazios.
+Art. 131.º Devolução dos recipientes vazios.
 
 ### CAPÍTULO IV — Tratamento das encomendas pela estação de destino
 
-#### SECÇAO I
+SECÇAO I
 
 Entrega das encomendas
 
-###### Art. 132.º Reservas na entrega.
+Art. 132.º Reservas na entrega.
 
-###### Art. 133.º Tratamento dos boletins de franquia depois da entrega das encomendas livres de encargos.
+Art. 133.º Tratamento dos boletins de franquia depois da entrega das encomendas livres de encargos.
 
-###### Art. 134.º Tratamento dos avisos de recepção depois da entrega das encomendas com aviso de recepção.
+Art. 134.º Tratamento dos avisos de recepção depois da entrega das encomendas com aviso de recepção.
 
 #### SECÇÃO II — Tratamento das encomendas não entregues
 
-###### Art. 135.º Aviso de falta de entrega.
+Art. 135.º Aviso de falta de entrega.
 
-###### Art. 136.º Falta de entrega. Novas instruções do interessado.
+Art. 136.º Falta de entrega. Novas instruções do interessado.
 
-###### Art. 137.º Devolução das encomendas à origem.
+Art. 137.º Devolução das encomendas à origem.
 
-###### Art. 138.º Reexpedição de uma encomenda em consequência da mudança de endereço do destinatário.
+Art. 138.º Reexpedição de uma encomenda em consequência da mudança de endereço do destinatário.
 
-###### Art. 139.º Encomendas a entregar por próprio a reexpedir.
+Art. 139.º Encomendas a entregar por próprio a reexpedir.
 
-###### Art. 140.º Tratamento dos pedidos de restituição ou de modificação de endereço.
+Art. 140.º Tratamento dos pedidos de restituição ou de modificação de endereço.
 
-###### Art. 141.º Venda. Inutilização.
+Art. 141.º Venda. Inutilização.
 
 ### CAPÍTULO V — Reclamações. Pedidos de informações
 
-###### Art. 142.º Tratamento das reclamações e dos pedidos de informações.
+Art. 142.º Tratamento das reclamações e dos pedidos de informações.
 
-###### Art. 143.º Reclamações relativas a um aviso de recepção ou a um aviso de embarque não recebido.
+Art. 143.º Reclamações relativas a um aviso de recepção ou a um aviso de embarque não recebido.
 
 ### CAPÍTULO VI — Contabilidade
 
 #### SECÇÃO I — Atribuição das taxas
 
-###### Art. 144.º Taxas creditadas pela Administração de origem às outras Administrações.
+Art. 144.º Taxas creditadas pela Administração de origem às outras Administrações.
 
-###### Art. 145.º Atribuição da taxa de seguro.
+Art. 145.º Atribuição da taxa de seguro.
 
-###### Art. 146.º Taxas arrecadadas pela Administração cobradora.
+Art. 146.º Taxas arrecadadas pela Administração cobradora.
 
-###### Art. 147.º Casos especiais de atribuição de taxas.
+Art. 147.º Casos especiais de atribuição de taxas.
 
-###### Art. 148.º Atribuição e recuperação de taxas e de direitos no caso de devolução à origem ou de reexpedição.
+Art. 148.º Atribuição e recuperação de taxas e de direitos no caso de devolução à origem ou de reexpedição.
 
-###### Art. 149.º Casos especiais de recuperação de taxas.
+Art. 149.º Casos especiais de recuperação de taxas.
 
-###### Art. 150.º Determinação das remunerações médias por encomenda ou por quilograma.
+Art. 150.º Determinação das remunerações médias por encomenda ou por quilograma.
 
 #### SECÇÃO II — Organização e liquidação das contas
 
-###### Art. 151.º Organização das contas.
+Art. 151.º Organização das contas.
 
-###### Art. 152.º Conta geral respeitante às malas de encomendas-avião.
+Art. 152.º Conta geral respeitante às malas de encomendas-avião.
 
-###### Art. 153.º Liquidação das contas.
+Art. 153.º Liquidação das contas.
 
 ### CAPÍTULO VII — Disposições diversas
 
-###### Art. 154.º Impressos para usos do público.
+Art. 154.º Impressos para usos do público.
 
-###### Art. 155.º Prazo de conservação dos documentos.
+Art. 155.º Prazo de conservação dos documentos.
 
 ### CAPÍTULO VIII — Disposições finais
 
-###### Art. 156.º Entrada em execução e duração do Regulamento.
+Art. 156.º Entrada em execução e duração do Regulamento.
 
 Protocolo final do Regulamento para Execução do Acordo Relativo às Encomendas Postais
 
@@ -2373,7 +2381,7 @@ b) Sòmente no boletim de expedição:
 
 2. Uma estação de origem não pode empregar ao mesmo tempo duas ou mais séries de etiquetas, salvo se as séries forem diferenciadas por um sinal que as distinga.
 
-#### SECÇAO II
+SECÇAO II
 
 Condições de aceitação e de depósito especiais inerentes a algumas categorias de encomendas
 
@@ -2675,7 +2683,7 @@ c) Ao auto original junta-se, salvo impossibilidade justificada, o recipiente qu
 
 ### CAPÍTULO IV — Tratamento das encomendas pela estação de destino
 
-#### SECÇAO I
+SECÇAO I
 
 Entrega das encomendas
 
@@ -3047,7 +3055,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -3061,11 +3069,11 @@ PRIMEIRA PARTE
 
 Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
-###### Art. 102.º Aplicação do Regulamento para Execução da Convenção.
+Art. 102.º Aplicação do Regulamento para Execução da Convenção.
 
-###### Art. 103.º Impressos para uso do público.
+Art. 103.º Impressos para uso do público.
 
 SEGUNDA PARTE
 
@@ -3075,157 +3083,157 @@ Vales
 
 ### CAPÍTULO I — Emissão. Transmissão
 
-###### Art. 104.º Impressos de vales-cartão.
+Art. 104.º Impressos de vales-cartão.
 
-###### Art. 105.º Preenchimento dos vales-cartão.
+Art. 105.º Preenchimento dos vales-cartão.
 
-###### Art. 106.º Indicações proibidas ou autorizadas.
+Art. 106.º Indicações proibidas ou autorizadas.
 
-###### Art. 107.º Registo obrigatório.
+Art. 107.º Registo obrigatório.
 
-###### Art. 108.º Aviso de pagamento pedido posteriormente ao acto da emissão.
+Art. 108.º Aviso de pagamento pedido posteriormente ao acto da emissão.
 
-###### Art. 109.º Transmissão dos vales-cartão.
+Art. 109.º Transmissão dos vales-cartão.
 
 ### CAPÍTULO II — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 110.º Restituição. Modificação de endereço.
+Art. 110.º Restituição. Modificação de endereço.
 
-###### Art. 111.º Reexpedição dos vales-cartão.
+Art. 111.º Reexpedição dos vales-cartão.
 
 ### CAPÍTULO III — Formalidades especiais. Reclamações. Pedidos de informações
 
-###### Art. 112.º Vales-cartão irregulares.
+Art. 112.º Vales-cartão irregulares.
 
-###### Art. 113.º Preenchimento dos avisos de pagamento.
+Art. 113.º Preenchimento dos avisos de pagamento.
 
-###### Art. 114.º Revalidação.
+Art. 114.º Revalidação.
 
-###### Art. 115.º Reclamações. Pedidos de informações.
+Art. 115.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO IV — Vales-cartão não pagos
 
-###### Art. 116.º Devolução dos vales-cartão não pagos.
+Art. 116.º Devolução dos vales-cartão não pagos.
 
-###### Art. 117.º Autorizações de pagamento.
+Art. 117.º Autorizações de pagamento.
 
-###### Art. 118.º Vales-cartão extraviados, perdidos ou destruídos antes do pagamento.
+Art. 118.º Vales-cartão extraviados, perdidos ou destruídos antes do pagamento.
 
-###### Art. 119.º Vales-cartão extraviados, perdidos ou destruídos depois do pagamento.
+Art. 119.º Vales-cartão extraviados, perdidos ou destruídos depois do pagamento.
 
 ## TÍTULO II — Vales-lista
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 120.º Disposições comuns aos vales-lista e aos vales-cartão.
+Art. 120.º Disposições comuns aos vales-lista e aos vales-cartão.
 
 ### CAPÍTULO II — Emissão. Transmissão
 
-###### Art. 121.º Estações de permuta.
+Art. 121.º Estações de permuta.
 
-###### Art. 122.º Transmissão dos vales-lista.
+Art. 122.º Transmissão dos vales-lista.
 
-###### Art. 123.º Listas especiais.
+Art. 123.º Listas especiais.
 
-###### Art. 124.º Serviços especiais. Indicações a inscrever nas listas.
+Art. 124.º Serviços especiais. Indicações a inscrever nas listas.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 125.º Restituição. Modificação de endereço.
+Art. 125.º Restituição. Modificação de endereço.
 
-###### Art. 126.º Reexpedição dos vales-lista.
+Art. 126.º Reexpedição dos vales-lista.
 
 ### CAPÍTULO IV — Operações no País pagador
 
-###### Art. 127.º Procedimento relativo às listas em falta ou irregulares.
+Art. 127.º Procedimento relativo às listas em falta ou irregulares.
 
-###### Art. 128.º Remessa do aviso de pagamento.
+Art. 128.º Remessa do aviso de pagamento.
 
-###### Art. 129.º Devolução dos vales-lista não pagos.
+Art. 129.º Devolução dos vales-lista não pagos.
 
 ## TÍTULO III — Vales telegráficos
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 130.º Disposições comuns.
+Art. 130.º Disposições comuns.
 
 ### CAPÍTULO II — Emissão. Transmissão
 
-###### Art. 131.º Preenchimento dos vales telegráficos.
+Art. 131.º Preenchimento dos vales telegráficos.
 
-###### Art. 132.º Aviso de emissão.
+Art. 132.º Aviso de emissão.
 
-###### Art. 133.º Transmissão dos vales-lista telegráficos.
+Art. 133.º Transmissão dos vales-lista telegráficos.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 134.º Modificação de endereço.
+Art. 134.º Modificação de endereço.
 
-###### Art. 135.º Reexpedição dos vales telegráficos.
+Art. 135.º Reexpedição dos vales telegráficos.
 
 ### CAPÍTULO IV — Operações no País pagador
 
-###### Art. 136.º Expediente dos vales telegráficos irregulares.
+Art. 136.º Expediente dos vales telegráficos irregulares.
 
-###### Art. 137.º Pagamento dos vales telegráficos.
+Art. 137.º Pagamento dos vales telegráficos.
 
-###### Art. 138.º Preenchimento do aviso de pagamento.
+Art. 138.º Preenchimento do aviso de pagamento.
 
-###### Art. 139.º Devolução dos vales-cartão telegráficos não pagos.
+Art. 139.º Devolução dos vales-cartão telegráficos não pagos.
 
 ## TÍTULO IV — Vales de depósito
 
-###### Art. 140.º Disposições gerais.
+Art. 140.º Disposições gerais.
 
-###### Art. 141.º Preenchimento dos vales de depósito.
+Art. 141.º Preenchimento dos vales de depósito.
 
-###### Art. 142.º Listas de vales de depósito.
+Art. 142.º Listas de vales de depósito.
 
-###### Art. 143.º Vales de depósito telegráficos.
+Art. 143.º Vales de depósito telegráficos.
 
-###### Art. 144.º Vales de depósito extraviados, perdidos ou destruídos depois da inscrição.
+Art. 144.º Vales de depósito extraviados, perdidos ou destruídos depois da inscrição.
 
-###### Art. 145.º Disposições de contabilidade relativas aos vales de depósito.
+Art. 145.º Disposições de contabilidade relativas aos vales de depósito.
 
 ## TÍTULO V — Disposições de contabilidade
 
 ### CAPÍTULO I — Regras comuns
 
-###### Art. 146.º Elaboração das contas mensais.
+Art. 146.º Elaboração das contas mensais.
 
-###### Art. 147.º Elaboração da conta geral.
+Art. 147.º Elaboração da conta geral.
 
-###### Art. 148.º Modos e prazos de pagamento.
+Art. 148.º Modos e prazos de pagamento.
 
-###### Art. 149.º Pagamentos por conta.
+Art. 149.º Pagamentos por conta.
 
 ### CAPÍTULO II — Regras de contabilidade privativas dos vales-lista e dos vales telegráficos
 
-###### Art. 150.º Elaboração das contas mensais.
+Art. 150.º Elaboração das contas mensais.
 
 TERCEIRA PARTE
 
 Ordens postais de viagem
 
-###### Art. 151.º Regras gerais de emissão.
+Art. 151.º Regras gerais de emissão.
 
-###### Art. 152.º Impressos das ordens e capas das cadernetas. Fornecimentos.
+Art. 152.º Impressos das ordens e capas das cadernetas. Fornecimentos.
 
-###### Art. 153.º Emissão das ordens.
+Art. 153.º Emissão das ordens.
 
-###### Art. 154.º Organização e preenchimento das cadernetas.
+Art. 154.º Organização e preenchimento das cadernetas.
 
-###### Art. 155.º Pagamento, a título excepcional, das ordens emitidas em moeda diferente da do País onde o pagamento é pedido.
+Art. 155.º Pagamento, a título excepcional, das ordens emitidas em moeda diferente da do País onde o pagamento é pedido.
 
-###### Art. 156.º Ordens extraviadas, perdidas ou destruídas depois do pagamento.
+Art. 156.º Ordens extraviadas, perdidas ou destruídas depois do pagamento.
 
-###### Art. 157.º Elaboração das contas.
+Art. 157.º Elaboração das contas.
 
 QUARTA PARTE
 
 Disposições finais
 
-###### Art. 158.º Entrada em execução e duração do Regulamento.
+Art. 158.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -3871,7 +3879,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -3885,87 +3893,87 @@ Regulamento para Execução do Acordo Relativo às Transferências Postais
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
 ### CAPÍTULO II — Emissão. Transmissão
 
-###### Art. 103.º Preenchimento dos impressos.
+Art. 103.º Preenchimento dos impressos.
 
-###### Art. 104.º Organização dos avisos de transferência.
+Art. 104.º Organização dos avisos de transferência.
 
-###### Art. 105.º Listas de transferências.
+Art. 105.º Listas de transferências.
 
-###### Art. 106.º Organização das cartas de remessa.
+Art. 106.º Organização das cartas de remessa.
 
-###### Art. 107.º Transmissão das tranferências.
+Art. 107.º Transmissão das tranferências.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 108.º Pedido de aviso de inscrição.
+Art. 108.º Pedido de aviso de inscrição.
 
-###### Art. 109.º Pedido de anulação de uma transferência.
+Art. 109.º Pedido de anulação de uma transferência.
 
-###### Art. 110.º Reclamações. Pedidos de informações.
+Art. 110.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO IV — Operações na repartição de cheques destinatária
 
-###### Art. 111.º Devolução do aviso de inscrição.
+Art. 111.º Devolução do aviso de inscrição.
 
-###### Art. 112.º Verificação das remessas e expediente das irregularidades.
+Art. 112.º Verificação das remessas e expediente das irregularidades.
 
-###### Art. 113.º Anulação de uma transferência.
+Art. 113.º Anulação de uma transferência.
 
-###### Art. 114.º Transferências não executadas.
+Art. 114.º Transferências não executadas.
 
 ### CAPÍTULO V — Contabilidade
 
-###### Art. 115.º Organização das contas.
+Art. 115.º Organização das contas.
 
-###### Art. 116.º Pagamento das importâncias devidas.
+Art. 116.º Pagamento das importâncias devidas.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 117.º Sobrescritos isentos de porte contendo extractos de contas.
+Art. 117.º Sobrescritos isentos de porte contendo extractos de contas.
 
-###### Art. 118.º Pedido de abertura de uma conta corrente postal no estrangeiro.
+Art. 118.º Pedido de abertura de uma conta corrente postal no estrangeiro.
 
 ## TÍTULO II — Transferências telegráficas
 
-###### Art. 119.º Disposições comuns.
+Art. 119.º Disposições comuns.
 
-###### Art. 120.º Organização das transferências telegráficas.
+Art. 120.º Organização das transferências telegráficas.
 
-###### Art. 121.º Listas de transferências telegráficas.
+Art. 121.º Listas de transferências telegráficas.
 
-###### Art. 122.º Organização das cartas de remessa.
+Art. 122.º Organização das cartas de remessa.
 
-###### Art. 123.º Pedido de aviso de inscrição.
+Art. 123.º Pedido de aviso de inscrição.
 
-###### Art. 124.º Inscrição das transferências telegráficas.
+Art. 124.º Inscrição das transferências telegráficas.
 
-###### Art. 125.º Aviso de inscrição.
+Art. 125.º Aviso de inscrição.
 
-###### Art. 126.º Verificação das remessas e expediente das irregularidades.
+Art. 126.º Verificação das remessas e expediente das irregularidades.
 
 ## TÍTULO III — Depósitos postais
 
-###### Art. 127.º Disposições gerais.
+Art. 127.º Disposições gerais.
 
 ## TÍTULO IV — Valores pagáveis nas repartições de cheques postais
 
-###### Art. 128.º Aplicação do Regulamento para Execução do Acordo Relativo às Cobranças.
+Art. 128.º Aplicação do Regulamento para Execução do Acordo Relativo às Cobranças.
 
-###### Art. 129.º Condições especiais a que os valores devem satisfazer.
+Art. 129.º Condições especiais a que os valores devem satisfazer.
 
-###### Art. 130.º Organização e transmissão das listas de remessa dos valores.
+Art. 130.º Organização e transmissão das listas de remessa dos valores.
 
-###### Art. 131.º Remessa dos fundos.
+Art. 131.º Remessa dos fundos.
 
 ## TÍTULO V — Disposições finais
 
-###### Art. 132.º Entrada em execução e duração do Regulamento.
+Art. 132.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -4253,7 +4261,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -4265,59 +4273,59 @@ Regulamento para Execução do Acordo Relativo aos Objectos Contra-Reembolso
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
 ### CAPÍTULO II — Aceitação
 
-###### Art. 103.º Indicações que devem figurar nos objectos e nos boletins de expedição.
+Art. 103.º Indicações que devem figurar nos objectos e nos boletins de expedição.
 
-###### Art. 104.º Etiquetas.
+Art. 104.º Etiquetas.
 
-###### Art. 105.º Impressos a juntar aos objectos.
+Art. 105.º Impressos a juntar aos objectos.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 106.º Anulação ou modificação da importância do reembolso.
+Art. 106.º Anulação ou modificação da importância do reembolso.
 
-###### Art. 107.º Reexpedição.
+Art. 107.º Reexpedição.
 
 ### CAPÍTULO IV — Operações na estação encarregada da cobrança
 
-###### Art. 108.º Conversão. Expediente dos títulos de pagamento.
+Art. 108.º Conversão. Expediente dos títulos de pagamento.
 
-###### Art. 109.º Expediente das irregularidades.
+Art. 109.º Expediente das irregularidades.
 
-###### Art. 110.º Prazo de pagamento.
+Art. 110.º Prazo de pagamento.
 
-###### Art. 111.º Destruição, anulação ou substituição dos impressos dos títulos de pagamento.
+Art. 111.º Destruição, anulação ou substituição dos impressos dos títulos de pagamento.
 
-###### Art. 112.º Vales-cartão não entregues ou não pagos.
+Art. 112.º Vales-cartão não entregues ou não pagos.
 
 ### CAPÍTULO V — Contabilidade
 
-###### Art. 113.º Elaboração e liquidação das contas relativas aos vales-cartão.
+Art. 113.º Elaboração e liquidação das contas relativas aos vales-cartão.
 
 ### CAPÍTULO VI — Disposições particulares dos vales-lista de reembolso
 
-###### Art. 114.º Estações de permuta dos vales-lista de reembolso.
+Art. 114.º Estações de permuta dos vales-lista de reembolso.
 
-###### Art. 115.º Organização e transmissão das listas de reembolso.
+Art. 115.º Organização e transmissão das listas de reembolso.
 
-###### Art. 116.º Listas especiais de reembolso.
+Art. 116.º Listas especiais de reembolso.
 
-###### Art. 117.º Verificação e rectificação das listas de reembolso.
+Art. 117.º Verificação e rectificação das listas de reembolso.
 
-###### Art. 118.º Pagamento dos vales-lista de reembolso.
+Art. 118.º Pagamento dos vales-lista de reembolso.
 
-###### Art. 119.º Vales não entregues ou não pagos.
+Art. 119.º Vales não entregues ou não pagos.
 
-###### Art. 120.º Organização e liquidação das contas.
+Art. 120.º Organização e liquidação das contas.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 121.º Entrada em execução e duração do Regulamento.
+Art. 121.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -4535,7 +4543,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -4547,63 +4555,63 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
 ### CAPÍTULO II — Aceitação das remessas
 
-###### Art. 103.º Condições a que os títulos devem satisfazer.
+Art. 103.º Condições a que os títulos devem satisfazer.
 
-###### Art. 104.º Constituição das remessas de títulos.
+Art. 104.º Constituição das remessas de títulos.
 
-###### Art. 105.º Aceitação.
+Art. 105.º Aceitação.
 
 ### CAPÍTULO III — Particularidades relativas a algumas faculdades concedidas ao público
 
-###### Art. 106.º Restituição dos títulos. Rectificação da relação
+Art. 106.º Restituição dos títulos. Rectificação da relação
 
-###### Art. 107.º Reexpedição.
+Art. 107.º Reexpedição.
 
-###### Art. 108.º Reclamações. Pedidos de informações.
+Art. 108.º Reclamações. Pedidos de informações.
 
 ### CAPÍTULO IV — Operações na estação encarregada da cobrança
 
-###### Art. 109.º Conferência das remessas.
+Art. 109.º Conferência das remessas.
 
-###### Art. 110.º Expediente das remessas contendo anotações ou comunicações proibidas.
+Art. 110.º Expediente das remessas contendo anotações ou comunicações proibidas.
 
-###### Art. 111.º Apresentação. Prazo de pagamento.
+Art. 111.º Apresentação. Prazo de pagamento.
 
 ### CAPÍTULO V — Operações posteriores à apresentação
 
-###### Art. 112.º Liquidação da conta.
+Art. 112.º Liquidação da conta.
 
-###### Art. 113.º Remessa dos fundos por vale.
+Art. 113.º Remessa dos fundos por vale.
 
-###### Art. 114.º Liquidação por depósito em ou transferência para uma conta corrente postal.
+Art. 114.º Liquidação por depósito em ou transferência para uma conta corrente postal.
 
-###### Art. 115.º Operações diversas.
+Art. 115.º Operações diversas.
 
 ### CAPÍTULO VI — Disposições particulares dos vales-lista de cobrança
 
-###### Art. 116.º Estações de permuta dos vales-lista de cobrança.
+Art. 116.º Estações de permuta dos vales-lista de cobrança.
 
-###### Art. 117.º Organização e transmissão das listas de cobrança.
+Art. 117.º Organização e transmissão das listas de cobrança.
 
-###### Art. 118.º Listas especiais de cobrança.
+Art. 118.º Listas especiais de cobrança.
 
-###### Art. 119.º Conferência e rectificação das listas de cobrança.
+Art. 119.º Conferência e rectificação das listas de cobrança.
 
-###### Art. 120.º Pagamento dos vales-lista de cobrança.
+Art. 120.º Pagamento dos vales-lista de cobrança.
 
-###### Art. 121.º Vales não entregues ou não cobrados.
+Art. 121.º Vales não entregues ou não cobrados.
 
-###### Art. 122.º Organização e liquidação das contas.
+Art. 122.º Organização e liquidação das contas.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 123.º Entrada em execução e duração do Regulamento.
+Art. 123.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -4831,7 +4839,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -4843,69 +4851,69 @@ INDICE
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Art. 101.º Informações que as Administrações devem prestar.
+Art. 101.º Informações que as Administrações devem prestar.
 
-###### Art. 102.º Impressos para uso do público.
+Art. 102.º Impressos para uso do público.
 
-###### Art. 103.º Correspondências isentas de franquia.
+Art. 103.º Correspondências isentas de franquia.
 
 ### CAPÍTULO II — Depósitos
 
-###### Art. 104.º Entrega dos depósitos.
+Art. 104.º Entrega dos depósitos.
 
-###### Art. 105.º Carta de remessa.
+Art. 105.º Carta de remessa.
 
-###### Art. 106.º Transmissão das cadernetas e dos documentos de serviço.
+Art. 106.º Transmissão das cadernetas e dos documentos de serviço.
 
-###### Art. 107.º Dispensa de apresentação da caderneta.
+Art. 107.º Dispensa de apresentação da caderneta.
 
-###### Art. 108.º Rejeição parcial ou total de um depósito.
+Art. 108.º Rejeição parcial ou total de um depósito.
 
-###### Art. 109.º Devolução da caderneta.
+Art. 109.º Devolução da caderneta.
 
 ### CAPÍTULO III — Levantamentos
 
-###### Art. 110.º Redacção e entrega dos pedidos de levantamento.
+Art. 110.º Redacção e entrega dos pedidos de levantamento.
 
-###### Art. 111.º Autorizações de levantamento.
+Art. 111.º Autorizações de levantamento.
 
-###### Art. 112.º Expediente da caderneta.
+Art. 112.º Expediente da caderneta.
 
-###### Art. 113.º Pagamento dos levantamentos.
+Art. 113.º Pagamento dos levantamentos.
 
-###### Art. 114.º Validade das autorizações.
+Art. 114.º Validade das autorizações.
 
-###### Art. 115.º Devolução das autorizações com recibo.
+Art. 115.º Devolução das autorizações com recibo.
 
-###### Art. 116.º Autorizações não pagas.
+Art. 116.º Autorizações não pagas.
 
-###### Art. 117.º Outros processos de levantamento.
+Art. 117.º Outros processos de levantamento.
 
 ### CAPÍTULO IV — Transferências
 
-###### Art. 118.º Entrega dos pedidos.
+Art. 118.º Entrega dos pedidos.
 
-###### Art. 119.º Expediente dos pedidos de transferência.
+Art. 119.º Expediente dos pedidos de transferência.
 
-###### Art. 120.º Emissão de nova caderneta.
+Art. 120.º Emissão de nova caderneta.
 
-###### Art. 121.º Transferência para conta já existente.
+Art. 121.º Transferência para conta já existente.
 
-###### Art. 122.º Expediente da caderneta primitiva depois das operações de transferência.
+Art. 122.º Expediente da caderneta primitiva depois das operações de transferência.
 
 ### CAPÍTULO V — Operações diversas
 
-###### Art. 123.º Substituição das cadernetas.
+Art. 123.º Substituição das cadernetas.
 
-###### Art. 124.º Cálculo dos juros.
+Art. 124.º Cálculo dos juros.
 
-###### Art. 125.º Entrega da caderneta para lançamento dos juros.
+Art. 125.º Entrega da caderneta para lançamento dos juros.
 
-###### Art. 126.º Restituição da caderneta depois do lançamento dos juros.
+Art. 126.º Restituição da caderneta depois do lançamento dos juros.
 
 ### CAPÍTULO VI — Disposições finais
 
-###### Art. 127.º Entrada em execução e duração do Regulamento.
+Art. 127.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -5155,7 +5163,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 
@@ -5167,45 +5175,45 @@ Regulamento para Execução do Acordo Relativo às Assinaturas de Jornais e Publ
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Art. 101.º Estações de permuta.
+Art. 101.º Estações de permuta.
 
-###### Art. 102.º Lista dos jornais. Jornais proibidos.
+Art. 102.º Lista dos jornais. Jornais proibidos.
 
-###### Art. 103.º Tabela geral dos jornais.
+Art. 103.º Tabela geral dos jornais.
 
-###### Art. 104.º Comunicações que se devem fazer à Secretaria Internacional.
+Art. 104.º Comunicações que se devem fazer à Secretaria Internacional.
 
 ### CAPÍTULO II — Execução dos pedidos de assinatura
 
-###### Art. 105.º Listas dos pedidos de assinatura.
+Art. 105.º Listas dos pedidos de assinatura.
 
-###### Art. 106.º Expedição dos jornais.
+Art. 106.º Expedição dos jornais.
 
-###### Art. 107.º Pedidos de assinatura recebidos directamente pelos editores.
+Art. 107.º Pedidos de assinatura recebidos directamente pelos editores.
 
 ### CAPÍTULO III — Casos especiais
 
-###### Art. 108.º Mudanças de endereço.
+Art. 108.º Mudanças de endereço.
 
-###### Art. 109.º Pedido de comunicação de endereços.
+Art. 109.º Pedido de comunicação de endereços.
 
-###### Art. 110.º Irregularidades.
+Art. 110.º Irregularidades.
 
-###### Art. 111.º Suspensão ou cessação de publicações.
+Art. 111.º Suspensão ou cessação de publicações.
 
-###### Art. 112.º Assinatura de jornais que não figurem na lista.
+Art. 112.º Assinatura de jornais que não figurem na lista.
 
 ### CAPÍTULO IV — Contabilidade
 
-###### Art. 113.º Atribuição das taxas e dos prémios.
+Art. 113.º Atribuição das taxas e dos prémios.
 
-###### Art. 114.º Contas trimestrais.
+Art. 114.º Contas trimestrais.
 
-###### Art. 115.º Liquidação. Pagamentos por conta.
+Art. 115.º Liquidação. Pagamentos por conta.
 
 ### CAPÍTULO V — Disposições finais
 
-###### Art. 116.º Entrada em execução e duração do Regulamento.
+Art. 116.º Entrada em execução e duração do Regulamento.
 
 Anexos
 
@@ -5359,7 +5367,7 @@ Assinaturas:
 
 Lista dos impressos de serviço
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf))](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/03/06801/05110604.pdf)
 
 Anexos
 

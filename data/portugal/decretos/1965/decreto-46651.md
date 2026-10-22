@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46651-1965-512072
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c1b5f9af565290cc61c52b0f8242748d41976f98114166af7cc2a4d56defea54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a71b5d80500a77953c09e8d603cdfbfab6bc68c8ea19a8be05e43a337f052c39
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:41Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo do Secretariado-Geral da Defesa Nacional a celebrar contrato, no valor de 39639104$00, com a firma Sociedade Geral de Construções e Obras Públicas, Lda. (Sopol), para a empreitada de construção de um cais e instalações anexas na região de Setúbal.
+Artigo 1.º É autorizado o conselho administrativo do Secretariado-Geral da Defesa Nacional a celebrar contrato, no valor de 39639104$00, com a firma Sociedade Geral de Construções e Obras Públicas, Lda. (Sopol), para a empreitada de construção de um cais e instalações anexas na região de Setúbal.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá o conselho administrativo do Secretariado-Geral da Defesa Nacional despender em pagamentos relativos às obras executadas, por virtude do contrato, mais de 25000000$00 no corrente ano; 10000000$00, mais o saldo que transitar de 1965, no ano de 1966; e, no ano de 1967, 4639104$00, mais o saldo que se apurar no ano de 1966.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá o conselho administrativo do Secretariado-Geral da Defesa Nacional despender em pagamentos relativos às obras executadas, por virtude do contrato, mais de 25000000$00 no corrente ano; 10000000$00, mais o saldo que transitar de 1965, no ano de 1966; e, no ano de 1967, 4639104$00, mais o saldo que se apurar no ano de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês.

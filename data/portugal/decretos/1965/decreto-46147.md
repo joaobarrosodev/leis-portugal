@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46147-1965-226609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-04-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f5ed3c2b6b5d174f4cf61ac67e3ea4f1e66ecb94dd1ce0f813d4afb169a95e2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 24653cfaa77de799f684f2b46b09c0875129a642c24b4127fa98e0c47b6fd119
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Laboratório Nacional de Engenharia Civil
+- LNEC
+- Pessoal Administrativo
+- Pessoal Técnico
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:679864:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:173361:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:520186:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:237797:por
+  label: "Rectificada a al. b) do art. 15º do presente diploma, pela RECT.DD744.15.04.1965.PC, DG.IS [82] de 15.04.1965\0\
+    5\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1965-237797
+  date: '1965-04-15'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:50Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +118,9 @@ Tornando-se necessário fixar normas para os concursos dos oficiais de secretari
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento dos Concursos dos Oficiais de Secretaria e dos Dactilógrafos do Laboratório Nacional de Engenharia Civil, que faz parte integrante do presente decreto e vai assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o Regulamento dos Concursos dos Oficiais de Secretaria e dos Dactilógrafos do Laboratório Nacional de Engenharia Civil, que faz parte integrante do presente decreto e vai assinado pelo Ministro das Obras Públicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Janeiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Eduardo de Arantes e Oliveira.
 
@@ -101,9 +128,9 @@ REGULAMENTO DOS CONCURSOS DOS OFICIAIS DE SECRETARIA E DOS DACTILÓGRAFOS DO LAB
 
 ### CAPÍTULO I — Concursos de admissão de terceiros-oficiais
 
-###### Artigo 1.º Os concursos para admissão de terceiros-oficiais serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constará a preparação escolar exigida e o prazo da validade do concurso.
+Artigo 1.º Os concursos para admissão de terceiros-oficiais serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constará a preparação escolar exigida e o prazo da validade do concurso.
 
-###### Art. 2.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes documentos:
+Art. 2.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes documentos:
 
 a) Certidão de nascimento;
 
@@ -123,15 +150,15 @@ f) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § 3.º Os candidatos deverão ter bom comportamento moral e civil, possuir a robustez física necessária para o desempenho do cargo e não sofrer de tuberculose contagiosa ou evolutiva, o que comprovarão com documentos que lhes serão exigidos no caso de lhes vir a caber a nomeação.
 
-###### Art. 3.º Não poderão ser admitidos como terceiros-oficiais indivíduos com mais de 35 anos nem com menos de 18, sem prejuízo do disposto no artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
+Art. 3.º Não poderão ser admitidos como terceiros-oficiais indivíduos com mais de 35 anos nem com menos de 18, sem prejuízo do disposto no artigo 4.º do Decreto com força de lei n.º 16563, de 2 de Março de 1929.
 
-###### Art. 4.º Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
+Art. 4.º Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
 
 § 1.º Findo o prazo concedido e apreciadas as reclamações, se as houver, será publicada a lista definitiva dos candidatos admitidos a concurso, ou a declaração de que se mantém a lista primitiva, e o calendário das provas práticas escritas.
 
 § 2.º Depois de classificadas as provas escritas não facultativas o júri fará publicar o calendário da prova oral pública, com a ordem de apresentação dos candidatos determinada por sorteio.
 
-###### Art. 5.º As provas do concurso são as seguintes:
+Art. 5.º As provas do concurso são as seguintes:
 
 Prova A. - Prova oral pública, destinada a avaliar os conhecimentos e a capacidade intelectual do candidato, os documentos apresentados ao abrigo da alínea f) do artigo 2.º e, eventualmente, a esclarecer as dúvidas suscitadas pelas restantes provas durante um período não superior, em regra, a 20 minutos.
 
@@ -153,15 +180,15 @@ Prova E (facultativa). - Prova escrita de conhecimento de línguas, consistindo 
 
 § 5.º Só será publicada a ordenação das classificações globais dos candidatos.
 
-###### Art. 6.º A falta a uma prova do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
+Art. 6.º A falta a uma prova do concurso sem motivo justificado determinará a exclusão do candidato. Havendo motivo justificado, poderá ser autorizado o adiamento da prova pelo prazo máximo de vinte dias.
 
 § único. Consideram-se motivos justificados a doença, comprovada nos termos legais, e os casos de força maior, como tais reconhecidos pelo júri.
 
 ### CAPÍTULO II — Concurso para promoção a segundo-oficial e a primeiro-oficial
 
-###### Art. 7.º Os concursos de promoção a segundo-oficial e a primeiro-oficial serão, em regra, abertos por prazo não inferior a 30 dias.
+Art. 7.º Os concursos de promoção a segundo-oficial e a primeiro-oficial serão, em regra, abertos por prazo não inferior a 30 dias.
 
-###### Art. 8.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
+Art. 8.º Cada candidato deverá apresentar dentro do prazo de abertura do concurso os seguintes elementos:
 
 a) Resenha, subscrita pelo candidato, da actividade desenvolvida desde a admissão na categoria a que pertence;
 
@@ -173,17 +200,17 @@ c) Quaisquer documentos que o candidato entenda deverem ser apreciados pelo júr
 
 § 2.º Não carecem de ser selados os documentos referidos nas alíneas a) e c) do corpo do presente artigo e no seu § 1.º
 
-###### Art. 9.º Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
+Art. 9.º Encerrado o concurso, o júri reunirá para verificação dos processos e das condições de admissibilidade dos candidatos e elaborará e fará publicar a lista provisória dos candidatos admitidos, estabelecendo o prazo julgado conveniente para reclamações e legalização dos processos incompletos.
 
 § 1.º Findo o prazo concedido e apreciadas as reclamações, se as houver, será publicada a lista definitiva dos candidatos admitidos a concurso ou a declaração de que se mantém a lista primitiva.
 
 § 2.º O calendário das provas práticas, com indicação da ordem de apresentação à prova pública, determinada por sorteio, será publicado simultâneamente com a lista definitiva dos candidatos admitidos a concurso ou com a declaração de que se mantém a lista primitiva.
 
-###### Art. 10.º As provas documentais dos concursos de promoção a segundos-oficiais e a primeiros-oficiais consistem na apreciação das qualidades referidas no artigo 5.º do Regulamento das Informações de Serviço e dos Concursos de Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962, segundo o critério de classificação indicado no corpo do artigo 9.º do mesmo regulamento, reveladas desde a admissão na classe a que pertence o candidato, com base nas informações de serviço e nos elementos referidos nas alíneas a) e c) do artigo 8.º
+Art. 10.º As provas documentais dos concursos de promoção a segundos-oficiais e a primeiros-oficiais consistem na apreciação das qualidades referidas no artigo 5.º do Regulamento das Informações de Serviço e dos Concursos de Pessoal Técnico e do Pessoal de Traduções do Laboratório Nacional de Engenharia Civil, aprovado pelo [Decreto n.º 44157](https://diariodarepublica.pt/dr/detalhe/decreto/44157-1962-520186), de 17 de Janeiro de 1962, segundo o critério de classificação indicado no corpo do artigo 9.º do mesmo regulamento, reveladas desde a admissão na classe a que pertence o candidato, com base nas informações de serviço e nos elementos referidos nas alíneas a) e c) do artigo 8.º
 
 § único. Serão reprovados os candidatos que obtenham classificação inferior a 12 em duas das qualidades referidas no artigo 5.º do regulamento citado no corpo do presente artigo pelos n.os 1, 2, 3 e 5 ou uma classificação global das provas documentais inferior a 12.
 
-###### Art. 11.º As provas práticas dos concursos são as seguintes:
+Art. 11.º As provas práticas dos concursos são as seguintes:
 
 Prova A. - Prova oral pública, destinada a avaliar os conhecimentos e a capacidade intelectual do candidato, e eventualmente a esclarecer as dúvidas suscitadas pelas restantes provas práticas, durante um período não superior a 30 minutos.
 
@@ -199,17 +226,17 @@ Prova D (facultativa). - Prova escrita de conhecimento de línguas, consistindo 
 
 § 3.º A classificação global das provas práticas é a soma da classificação das provas práticas não facultativas com as bonificações calculadas para cada tradução. Serão reprovados os candidatos que obtenham classificação global das provas práticas inferior a 12.
 
-###### Art. 12.º A classificação final do concurso de promoção a segundo-oficial ou a primeiro-oficial será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
+Art. 12.º A classificação final do concurso de promoção a segundo-oficial ou a primeiro-oficial será a média, arredondada às décimas, das classificações globais obtidas nas provas documentais e nas provas práticas.
 
 § único. Só serão publicadas as classificações finais dos candidatos aprovados, limitando-se o auto de classificação a indicar, quanto aos reprovados, se a reprovação foi determinada pelas provas documentais, pelas práticas ou por ambas.
 
-###### Art. 13.º Considera-se aplicável o disposto no artigo 6.º e seu § único.
+Art. 13.º Considera-se aplicável o disposto no artigo 6.º e seu § único.
 
 ### CAPÍTULO III — Concurso de admissão de dactilógrafos
 
-###### Art. 14.º Os concursos para a admissão de dactilógrafos serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constará a preparação escolar exigida e o prazo de validade do concurso.
+Art. 14.º Os concursos para a admissão de dactilógrafos serão abertos por prazo não inferior a 30 dias e do respectivo anúncio constará a preparação escolar exigida e o prazo de validade do concurso.
 
-###### Art. 15.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes documentos:
+Art. 15.º Cada candidato deverá apresentar, dentro do prazo de abertura do concurso, os seguintes documentos:
 
 a) Certidão de nascimento;
 
@@ -225,13 +252,13 @@ e) Declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepub
 
 § 2.º Os candidatos deverão ter bom comportamento moral e civil, possuir a robustez física necessária para o desempenho do cargo e não sofrer de tuberculose contagiosa ou evolutiva, o que comprovarão com documentos que lhes serão exigidos no caso de lhes vir a caber a nomeação.
 
-###### Art. 16.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 4.º e seu § 1.º
+Art. 16.º Encerrado o concurso, o júri procederá conforme o disposto no artigo 4.º e seu § 1.º
 
 § 1.º A admissão às provas de línguas será decidida pelo júri em face da preparação demonstrada pelos candidatos na declaração referida no § 1.º do artigo 15.º, podendo ser exigidos, quando da publicação da lista provisória, os documentos justificativos que se julguem necessários.
 
 § 2.º O calendário das provas práticas será publicado simultâneamente com a lista definitiva dos candidatos admitidos ou a declaração de que se mantém a lista primitiva.
 
-###### Art. 17.º As provas do concurso são as seguintes:
+Art. 17.º As provas do concurso são as seguintes:
 
 Prova A. - Prova dactilográfica de cópia de um trecho em português contendo cerca de 700 palavras, com uma duração de 20 minutos.
 
@@ -245,17 +272,17 @@ Prova D (facultativa). - Prova dactilográfica de conhecimento de línguas, cons
 
 § 2.º Considera-se aplicável, em relação à prova D, o disposto no § 2.º do artigo 5.º relativamente à prova E, e em relação ao conjunto das provas o disposto nos §§ 3.º e 4.º do mesmo artigo.
 
-###### Art. 18.º Considera-se aplicável o disposto no artigo 6.º e seu § único.
+Art. 18.º Considera-se aplicável o disposto no artigo 6.º e seu § único.
 
 ### CAPÍTULO IV — Instruções para a orientação e classificação das provas
 
-###### Art. 19.º Aos júris dos concursos poderão ser agregados técnicos ou professores para colaborarem na organização e classificação das provas de línguas e de dactilografia.
+Art. 19.º Aos júris dos concursos poderão ser agregados técnicos ou professores para colaborarem na organização e classificação das provas de línguas e de dactilografia.
 
 § único. A remuneração desta colaboração, quando não for prestada por pessoal do Laboratório, será fixada para cada caso pelo Ministro das Obras Públicas.
 
-###### Art. 20.º A prova oral será orientada pelo presidente do júri. O limite fixado para a duração da prova oral do concurso de admissão de terceiros-oficiais só será excedido quando for julgado necessário para o júri poder formar, com maior segurança, uma ideia dos conhecimentos do candidato.
+Art. 20.º A prova oral será orientada pelo presidente do júri. O limite fixado para a duração da prova oral do concurso de admissão de terceiros-oficiais só será excedido quando for julgado necessário para o júri poder formar, com maior segurança, uma ideia dos conhecimentos do candidato.
 
-###### Art. 21.º A prova escrita de questionário e explanação é constituída por um questionário com sete perguntas de resposta sucinta e uma pergunta para explanação; a prova serve, complementarmente, para classificar a correcção sintáctica e ortográfica. O desenvolvimento dado às respostas ao questionário pode servir para valorizar o conjunto da prova, desde que não seja indício de imprecisão, caso em que poderá mesmo desvalorizar a resposta.
+Art. 21.º A prova escrita de questionário e explanação é constituída por um questionário com sete perguntas de resposta sucinta e uma pergunta para explanação; a prova serve, complementarmente, para classificar a correcção sintáctica e ortográfica. O desenvolvimento dado às respostas ao questionário pode servir para valorizar o conjunto da prova, desde que não seja indício de imprecisão, caso em que poderá mesmo desvalorizar a resposta.
 
 § 1.º A cada resposta certa do questionário será atribuída a classificação 2; por uma resposta parcialmente certa ou incompleta a classificação será de 0,5, 1 ou 1,5, consoante o critério do júri, que terá em conta o grau de conhecimentos revelado pelo candidato.
 
@@ -265,17 +292,17 @@ Prova D (facultativa). - Prova dactilográfica de conhecimento de línguas, cons
 
 § 4.º A classificação da prova escrita de questionário e explanação é a soma das classificações atribuídas de acordo com os parágrafos anteriores do presente artigo.
 
-###### Art. 22.º A prova de resolução de problemas consiste na solução, por via numérica, gráfica ou descritiva, de um ou mais problemas relacionados com as matérias especializadas do programa, nos concursos de promoção a segundo-oficial e a primeiro-oficial, e com as matérias gerais do programa, no concurso de admissão de terceiros-oficiais.
+Art. 22.º A prova de resolução de problemas consiste na solução, por via numérica, gráfica ou descritiva, de um ou mais problemas relacionados com as matérias especializadas do programa, nos concursos de promoção a segundo-oficial e a primeiro-oficial, e com as matérias gerais do programa, no concurso de admissão de terceiros-oficiais.
 
 É permitida a consulta de legislação e bibliografia, consoante o critério do júri.
 
 § único. A correcção das respostas, do ponto de vista técnico, será classificada de 0 a 18, e a apresentação e as correcções gráfica e sintáctica serão conjuntamente classificadas de 0 a 2, consoante o critério do júri; a classificação da prova será a soma destas duas classificações.
 
-###### Art. 23.º A prova escrita de conhecimento de línguas consta da tradução de textos em francês ou inglês ou alemão com cerca de, respectivamente, 400, 300 ou 150 palavras, sendo a extensão fixada pelo júri conforme a dificuldade do texto, mas de modo que a classificação de 20 seja atribuída a provas que demonstrem que o candidato domina perfeitamente a língua.
+Art. 23.º A prova escrita de conhecimento de línguas consta da tradução de textos em francês ou inglês ou alemão com cerca de, respectivamente, 400, 300 ou 150 palavras, sendo a extensão fixada pelo júri conforme a dificuldade do texto, mas de modo que a classificação de 20 seja atribuída a provas que demonstrem que o candidato domina perfeitamente a língua.
 
 É permitida a consulta de dicionários.
 
-###### Art. 24.º Antes do início da prova dactilográfica de cópia será dado aos candidatos o tempo máximo de 5 minutos para estes se familiarizarem com o funcionamento das máquinas. Findo este prazo, ser-lhes-á entregue o original a copiar, cujo texto deverá conter um número de palavras superior ao limite, a fim de permitir que os concorrentes melhor preparados possam executar uma prova mais extensa, melhorando a sua classificação. No entanto, deverá o júri referenciar no texto o limite obrigatório da prova.
+Art. 24.º Antes do início da prova dactilográfica de cópia será dado aos candidatos o tempo máximo de 5 minutos para estes se familiarizarem com o funcionamento das máquinas. Findo este prazo, ser-lhes-á entregue o original a copiar, cujo texto deverá conter um número de palavras superior ao limite, a fim de permitir que os concorrentes melhor preparados possam executar uma prova mais extensa, melhorando a sua classificação. No entanto, deverá o júri referenciar no texto o limite obrigatório da prova.
 
 A duração das provas será cronometrada rigorosamente. Ao marcar-se o tempo do seu início, o candidato deverá ter o papel colocado no carrete e quando for indicado o termo da prova nenhum concorrente poderá prosseguir.
 
@@ -303,7 +330,7 @@ Pelo bom aspecto gráfico da prova: + 1 valor.
 
 Se o número assim obtido for superior a 20, a classificação será arredondada para 20.
 
-###### Art. 25.º Para a prova dactilográfica de elaboração de um mapa ou quadro o júri fornecerá aos candidatos, em rascunho, o mapa ou quadro a dactilografar, indicando-lhes a duração que fixou para a sua execução.
+Art. 25.º Para a prova dactilográfica de elaboração de um mapa ou quadro o júri fornecerá aos candidatos, em rascunho, o mapa ou quadro a dactilografar, indicando-lhes a duração que fixou para a sua execução.
 
 § 1.º Para a classificação desta prova serão considerados como erros os que se indicaram para a prova de cópia dactilográfica. Às penalizações correspondentes acrescerão as que resultarem da verificação dos seguintes erros:
 
@@ -327,7 +354,7 @@ h) Espaços mal calculados.
 
 § 3.º Para a classificação desta prova abate-se a 20 a soma das penalizações.
 
-###### Art. 26.º Na prova de ditado manuscrito a leitura do texto ditado é feita à média de 16 a 20 palavras por minuto. Os candidatos não poderão interromper a leitura, devendo deixar o espaço correspondente à palavra ou palavras cuja audição não lhes foi possível. No fim será feita uma nova leitura por forma a permitir que os concorrentes possam preencher quaisquer lacunas.
+Art. 26.º Na prova de ditado manuscrito a leitura do texto ditado é feita à média de 16 a 20 palavras por minuto. Os candidatos não poderão interromper a leitura, devendo deixar o espaço correspondente à palavra ou palavras cuja audição não lhes foi possível. No fim será feita uma nova leitura por forma a permitir que os concorrentes possam preencher quaisquer lacunas.
 
 § 1.º Serão consideradas como erros as incorrecções de ortografia, as omissões de palavras ou a troca de palavras, e como faltas as omissões de acentos ou a sua colocação errada. As penalizações de classificação a introduzir são as seguintes:
 

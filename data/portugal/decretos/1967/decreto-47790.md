@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47790-1967-314065
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-10T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f386ea46a9af11989d523b3806ddd6a283393f20d1d479cae197b66e6a784435
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d0e8dc2b48a6a4e02603a8a0c9ba7c0d90b8419bc9b84e470bb6889fa77144e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508031:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:30Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +105,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Gabinete de Estudos e Planeamento de Transportes Terrestres a celebrar um termo adicional ao contrato com o arquitecto António Carlos Maia Nunes a que se refere o [Decreto n.º 46754](https://diariodarepublica.pt/dr/detalhe/decreto/46754-1965-508031), de 16 de Dezembro de 1965, passando o seu valor a ser de 436293$00;
+Artigo 1.º É autorizado o Gabinete de Estudos e Planeamento de Transportes Terrestres a celebrar um termo adicional ao contrato com o arquitecto António Carlos Maia Nunes a que se refere o [Decreto n.º 46754](https://diariodarepublica.pt/dr/detalhe/decreto/46754-1965-508031), de 16 de Dezembro de 1965, passando o seu valor a ser de 436293$00;
 
 § 1.º Seja qual for o valor dos estudos a realizar, não poderá o Gabinete despender com os pagamentos que ainda tem de cumprir, em execução do contrato, mais de:
 
@@ -111,7 +119,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.
 
-###### Art. 2.º É autorizado o Gabinete de Estudos e Planeamento de Transportes Terrestres a celebrar contrato com o Prof. Eng.º Armando Araújo Martins Campos e Matos para a elaboração do projecto das estruturas da Estação Central de Camionagem Sul do Porto (Parque das Camélias), pela quantia de 384712$00.
+Art. 2.º É autorizado o Gabinete de Estudos e Planeamento de Transportes Terrestres a celebrar contrato com o Prof. Eng.º Armando Araújo Martins Campos e Matos para a elaboração do projecto das estruturas da Estação Central de Camionagem Sul do Porto (Parque das Camélias), pela quantia de 384712$00.
 
 § 1.º Seja qual for o valor dos estudos a realizar, não poderá o Gabinete despender com pagamentos, em virtude do contrato, mais de:
 
@@ -125,7 +133,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.
 
-###### Art. 3.º É autorizado o Gabinete de Estudos e Planeamento de Transportes Terrestres a celebrar contrato com a firma J. Tallone para a elaboração do projecto das instalações especiais da Estação Central de Camionagem Sul do Porto (Parque das Camélias), pela quantia de 314727$00.
+Art. 3.º É autorizado o Gabinete de Estudos e Planeamento de Transportes Terrestres a celebrar contrato com a firma J. Tallone para a elaboração do projecto das instalações especiais da Estação Central de Camionagem Sul do Porto (Parque das Camélias), pela quantia de 314727$00.
 
 § 1.º Seja qual for o valor dos estudos a realizar, não poderá o Gabinete despender com pagamentos, em virtude do contrato, mais de:
 
@@ -139,6 +147,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º Às importâncias fixadas para cada ano acrescem os saldos dos anos anteriores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

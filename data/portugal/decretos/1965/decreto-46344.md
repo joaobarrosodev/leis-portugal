@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46344-1965-294951
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-05-20T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6f66a876ec1614c54f858bcef7aa8ff7594ba62d36844f4dc14ef940a71ac09
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95ada873d16c188a5617e8fe19a27d213299b973c0d486e9a0d71e9c99e10100
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:11Z'
   warnings: []
   errors: []
 ---
@@ -97,39 +105,39 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica o Governo da província da Guiné autorizado a conceder à Administração do Porto de Bissau, por operações de tesouraria, um adiantamento até ao montante de 9100000$00.
+Artigo 1.º Fica o Governo da província da Guiné autorizado a conceder à Administração do Porto de Bissau, por operações de tesouraria, um adiantamento até ao montante de 9100000$00.
 
 § 1.º O adiantamento será exclusivamente destinado ao apetrechamento do referido porto.
 
 § 2.º As condições em que será reembolsado ao Tesouro da província e a taxa de juro anual a pagar serão fixadas em portaria daquele Governo.
 
-###### Art. 2.º É extensivo ao pessoal da Guarda Fiscal da província de Moçambique o disposto no artigo 89.º e seus parágrafos do Estatuto da Polícia de Segurança Pública daquela província, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961.
+Art. 2.º É extensivo ao pessoal da Guarda Fiscal da província de Moçambique o disposto no artigo 89.º e seus parágrafos do Estatuto da Polícia de Segurança Pública daquela província, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961.
 
-###### Art. 3.º É autorizado o Governo-Geral de Moçambique a conceder o aval da província ao Banco de Fomento Nacional, até ao montante de 7700000$00, como garantia de uma operação de crédito a realizar pela empresa Moagem da Beira (Mobeira), S. A. R. L., destinada à aquisição de equipamento mecânico para uma moagem de trigo, à firma Buhler Irmãos, de Uzwil (Suíça).
+Art. 3.º É autorizado o Governo-Geral de Moçambique a conceder o aval da província ao Banco de Fomento Nacional, até ao montante de 7700000$00, como garantia de uma operação de crédito a realizar pela empresa Moagem da Beira (Mobeira), S. A. R. L., destinada à aquisição de equipamento mecânico para uma moagem de trigo, à firma Buhler Irmãos, de Uzwil (Suíça).
 
 § único. A província gozará, nos termos do artigo 878.º do Código Civil, de privilégio creditório sobre os bens mobiliários e imobiliários daquela empresa pelas importâncias que despender no cumprimento das responsabilidades assumidas por força do disposto no corpo deste artigo.
 
-###### Art. 4.º No quadro do pessoal inspectivo contabilista da Inspecção Provincial de Fazenda e Contabilidade de Angola são criados os seguintes lugares:
+Art. 4.º No quadro do pessoal inspectivo contabilista da Inspecção Provincial de Fazenda e Contabilidade de Angola são criados os seguintes lugares:
 
 2 de inspector-chefe contabilista.
 
 4 de inspector contabilista.
 
-###### Art. 5.º São ratificados o Diploma Legislativo n.º 1654 e o artigo 4.º do Diploma Legislativo n.º 1655, ambos de 31 de Dezembro de 1964, da província de Macau.
+Art. 5.º São ratificados o Diploma Legislativo n.º 1654 e o artigo 4.º do Diploma Legislativo n.º 1655, ambos de 31 de Dezembro de 1964, da província de Macau.
 
-###### Art. 6.º Fica o Governo da província de Macau autorizado a abrir um crédito especial de 3000000$00 destinado a reforçar a verba de «Despesas eventuais - Não especificadas - A pagar na metrópole», do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos, os lucros de amoedação ou outros recursos extraordinários.
+Art. 6.º Fica o Governo da província de Macau autorizado a abrir um crédito especial de 3000000$00 destinado a reforçar a verba de «Despesas eventuais - Não especificadas - A pagar na metrópole», do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos, os lucros de amoedação ou outros recursos extraordinários.
 
-###### Art. 7.º É criado o lugar de director técnico da Imprensa Nacional de Timor, que se considera incluído no grupo J a que se refere o mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 7.º É criado o lugar de director técnico da Imprensa Nacional de Timor, que se considera incluído no grupo J a que se refere o mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
 § único. Fica o Governo da província autorizado a regulamentar a forma de provimento do lugar criado por este artigo.
 
-###### Art. 8.º As redacções da alínea f) e do § 1.º do artigo 143.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, são substituídas pelas seguintes:
+Art. 8.º As redacções da alínea f) e do § 1.º do artigo 143.º do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, são substituídas pelas seguintes:
 
 f) Pais, mães, viúvas, filhas órfãs, enquanto solteiras, e filhos órfãos menores dos funcionários referidos nas alíneas a) e b) deste artigo, desde que provem ser econòmicamente débeis;
 
 § 1.º Para efeitos da alínea e) deste artigo, consideram-se pessoas de família as pessoas referidas nas alíneas a) e i) do artigo 269.º do Estatuto do Funcionalismo Ultramarino, o pai e a mãe dos mesmos funcionários desde que vivam a seu exclusivo cargo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Maio de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

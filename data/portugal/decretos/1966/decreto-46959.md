@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46959-1966-487900
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 00014664e11d90211733c145ff96f227b6e9fcc208bf68cb9b85506c98dfad55
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 834e27b6f38c0328172af9ccf0cfaf74d4a5f778ab4d920614ada52cb57dc2bd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:32Z'
   warnings: []
   errors: []
 ---
@@ -92,15 +92,15 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição e na al�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Moçambique a dar o aval da província, escalonado consoante os empreendimentos a realizar, ao Banco Nacional Ultramarino ou a outros bancos nacionais, até ao montante de 60000000$00, como garantia de uma operação de crédito a contrair pela Sociedade Industrial de Caju e Derivados, S. A. R. L., Cajuca.
+Artigo 1.º É autorizado o Governo-Geral de Moçambique a dar o aval da província, escalonado consoante os empreendimentos a realizar, ao Banco Nacional Ultramarino ou a outros bancos nacionais, até ao montante de 60000000$00, como garantia de uma operação de crédito a contrair pela Sociedade Industrial de Caju e Derivados, S. A. R. L., Cajuca.
 
-###### Art. 2.º Enquanto esta operação não se concretizar, o aval da província servirá de garantia a antecipações que, por conta da mesma, os bancos referidos fizerem à empresa.
+Art. 2.º Enquanto esta operação não se concretizar, o aval da província servirá de garantia a antecipações que, por conta da mesma, os bancos referidos fizerem à empresa.
 
-###### Art. 3.º Nos termos do artigo 878.º do Código Civil, a província gozará de privilégio creditório sobre os bens mobiliários e imobiliários da empresa para cumprimento das responsabilidades assumidas nos termos deste decreto.
+Art. 3.º Nos termos do artigo 878.º do Código Civil, a província gozará de privilégio creditório sobre os bens mobiliários e imobiliários da empresa para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
-###### Art. 4.º As cláusulas e condições que foram apresentadas para a concessão da garantia referida no artigo 1.º serão prèviamente aprovadas pelo Governo-Geral da mesma província, que fiscalizará a aplicação do financiamento a que se refere.
+Art. 4.º As cláusulas e condições que foram apresentadas para a concessão da garantia referida no artigo 1.º serão prèviamente aprovadas pelo Governo-Geral da mesma província, que fiscalizará a aplicação do financiamento a que se refere.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

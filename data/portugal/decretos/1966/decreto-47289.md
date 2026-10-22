@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47289-1966-478659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5be383acdc03d20adb57a5ec2209df605cbf45b6237653fb9507aeaf87aa396
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d5ad7efbe2f135568ccdf3ebc525f0218c9ba65349dc046b862c16b384c6c964
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:07Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +96,14 @@ Tendo em conta o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma União Metalo-Mecânica, Lda. (Unial), para a execução da obra de instalações de combustível e de óleo combustível da oficina de reparações de propulsores Triton (Alverca), pela importância de 2232990$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato com a firma União Metalo-Mecânica, Lda. (Unial), para a execução da obra de instalações de combustível e de óleo combustível da oficina de reparações de propulsores Triton (Alverca), pela importância de 2232990$00.
 
-###### Art. 2.º O encargo com esta obra, no montante de 2232990$00, a custear por conta da verba apropriada do orçamento dos Encargos Gerais da Nação, será liquidado pelo referido conselho administrativo da seguinte forma:
+Art. 2.º O encargo com esta obra, no montante de 2232990$00, a custear por conta da verba apropriada do orçamento dos Encargos Gerais da Nação, será liquidado pelo referido conselho administrativo da seguinte forma:
 
 Em 1966 - 1250000$00, pelo capítulo 12.º, artigo 313.º, n.º 1).
 
 Em 1967 - 982990$00 e o que se apurar como saldo em 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês - Francisco António das Chagas.

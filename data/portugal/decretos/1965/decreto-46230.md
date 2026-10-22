@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46230-1965-238468
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 63a0ab75902dd396f642200b32a3c25a9f28173dff6273a839276e5936eeafd5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d542973258becc1a8b7215a057ce27cb1389554d11ed6cbadd93df567465910d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:196519:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:28Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Atendendo à urgência requerida;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Na província de Angola são extensivas à Polícia de Segurança Pública, em que se integrou a Guarda Fiscal, e prorrogadas até 30 de Junho de 1965 as disposições do [Decreto n.º 44984](https://diariodarepublica.pt/dr/detalhe/decreto/44984-1963-196519), de 18 de Abril de 1963.
+Artigo único. Na província de Angola são extensivas à Polícia de Segurança Pública, em que se integrou a Guarda Fiscal, e prorrogadas até 30 de Junho de 1965 as disposições do [Decreto n.º 44984](https://diariodarepublica.pt/dr/detalhe/decreto/44984-1963-196519), de 18 de Abril de 1963.
 
 Paços do Governo da República, 16 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

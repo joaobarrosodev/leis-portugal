@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47680-1967-309567
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-05-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c5ea7540d588c618f0cffafd12fc3cb65e0b2f3cf97b97ca5639787a91b403e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 13b097fa68d359fb217cc6e3221472183b346caff4e62f33f6bf98a752fa05d0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:493224:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:33Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +92,9 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 25.º e 65.º e seus parágrafos do [Decreto n.º 46841](https://diariodarepublica.pt/dr/detalhe/decreto/46841-1966-493224), de 22 de Janeiro de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 25.º e 65.º e seus parágrafos do [Decreto n.º 46841](https://diariodarepublica.pt/dr/detalhe/decreto/46841-1966-493224), de 22 de Janeiro de 1966, passam a ter a seguinte redacção:
 
-###### Art. 25.º As categorias do pessoal, seus vencimentos e outras remunerações são os que constam dos quadros anexos a este diploma.
+Art. 25.º As categorias do pessoal, seus vencimentos e outras remunerações são os que constam dos quadros anexos a este diploma.
 
 § 1.º Pertence ao quadro comum do ultramar todo o pessoal descrito nos mapas a que se refere o corpo do artigo até à categoria designada pela letra H, inclusive. O restante pessoal pertence ao quadro privativo.
 
@@ -108,7 +112,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 65.º Transitará para os quadros do pessoal do Instituto, com categoria nunca inferior à que possui actualmente, o pessoal técnico superior, técnico auxiliar e de campo, de oficinas e motorista dos departamentos referidos no artigo anterior que tenha boas informações de serviço e que, em tempo oportuno, não tenha declarado renunciar ao ingresso nos quadros do citado estabelecimento de investigação.
+Art. 65.º Transitará para os quadros do pessoal do Instituto, com categoria nunca inferior à que possui actualmente, o pessoal técnico superior, técnico auxiliar e de campo, de oficinas e motorista dos departamentos referidos no artigo anterior que tenha boas informações de serviço e que, em tempo oportuno, não tenha declarado renunciar ao ingresso nos quadros do citado estabelecimento de investigação.
 
 § 1.º A transição do pessoal do quadro comum ou equiparado far-se-á mediante relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo, tendo em conta o merecimento desse pessoal e demais factores de valorização avaliados através das respectivas folhas de serviço.
 
@@ -122,45 +126,45 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 6.º O primeiro provimento do pessoal técnico auxiliar, do pessoal administrativo e do pessoal artífice e motorista poderá ser feito por livre escolha.
 
-###### Art. 2.º Os mapas anexos ao [Decreto n.º 46841](https://diariodarepublica.pt/dr/detalhe/decreto/46841-1966-493224), de 22 de Janeiro de 1966, referenciados no artigo 25.º e seus parágrafos, ficam substituídos pelos seguintes:
+Art. 2.º Os mapas anexos ao [Decreto n.º 46841](https://diariodarepublica.pt/dr/detalhe/decreto/46841-1966-493224), de 22 de Janeiro de 1966, referenciados no artigo 25.º e seus parágrafos, ficam substituídos pelos seguintes:
 
 MAPA I
 
 Pessoal técnico superior
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
 
 MAPA II
 
 Pessoal técnico auxiliar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
 
 MAPA III
 
 Pessoal administrativo
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
 
 MAPA IV
 
 Pessoal artífice e motorista
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
 
 MAPA V
 
 Pessoal do quadro permanente de assalariados
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
 
 MAPA VI
 
 Gratificações mensais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf))](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/05/10800/09440945.pdf)
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

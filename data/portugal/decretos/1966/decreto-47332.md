@@ -47,36 +47,41 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47332-1966-477575
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2930bbc6c373f838e3ef2f3e6486640ac0e6a3d1b3704a7ce56e4bc2972aa32f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b266434c5b37e5fab37b5b1288cc70dfeb23325ed1aba0c54234fc1418e5a43c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Colónia Penitenciária de Alcoentre
+relationships:
+- type: cites
+  target: pt:dre:680793:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:27Z'
   warnings: []
   errors: []
 ---
@@ -91,20 +96,20 @@ Por se tratar de uma propriedade do Estado, é ainda aplicável a modalidade do 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São submetidos ao regime florestal total os terrenos pertencentes à Colónia Penitenciária de Alcoentre, situados na freguesia de Alcoentre, concelho da Azambuja, com uma área total de 640,3750 ha, dos quais 254,6750 ha se encontram já arborizados; 28,8250 ha se destinam a arborização futura; 307,85 ha ocupados com culturas arvenses, hortícolas, vinhas e pomares, e 49,0250 ha por instalações que se podem designar por área social, conforme consta do respectivo processo, plano de arborização, tratamento e exploração e planta, sendo aplicáveis as disposições legais e regulamentares daquele regime.
+Artigo 1.º São submetidos ao regime florestal total os terrenos pertencentes à Colónia Penitenciária de Alcoentre, situados na freguesia de Alcoentre, concelho da Azambuja, com uma área total de 640,3750 ha, dos quais 254,6750 ha se encontram já arborizados; 28,8250 ha se destinam a arborização futura; 307,85 ha ocupados com culturas arvenses, hortícolas, vinhas e pomares, e 49,0250 ha por instalações que se podem designar por área social, conforme consta do respectivo processo, plano de arborização, tratamento e exploração e planta, sendo aplicáveis as disposições legais e regulamentares daquele regime.
 
-###### Art. 2.º Em cumprimento do respectivo plano de arborização, tratamento e exploração deverão ser observadas as seguintes condições:
+Art. 2.º Em cumprimento do respectivo plano de arborização, tratamento e exploração deverão ser observadas as seguintes condições:
 
 Proceder à arborização de 28,8250 ha de terrenos com aptidão florestal;
 
 Os povoamentos florestais hoje existentes serão mantidos e explorados de acordo com as normas técnicas aconselháveis ao seu caso, nomeadamente no referente aos problemas de regeneração e conservação de solos.
 
-###### Art. 3.º A Direcção-Geral dos Serviços Florestais e Aquícolas prestará a assistência técnica que for necessária para o cumprimento do referido no artigo 2.º
+Art. 3.º A Direcção-Geral dos Serviços Florestais e Aquícolas prestará a assistência técnica que for necessária para o cumprimento do referido no artigo 2.º
 
-###### Art. 4.º No perímetro destas propriedades serão colocadas as tabuletas a que se refere o artigo 46.º do Regulamente do Serviço da Polícia Florestal, e nas condições nele referidas.
+Art. 4.º No perímetro destas propriedades serão colocadas as tabuletas a que se refere o artigo 46.º do Regulamente do Serviço da Polícia Florestal, e nas condições nele referidas.
 
-###### Art. 5.º A Direcção-Geral dos Serviços Prisionais manterá, pelo menos, um guarda florestal auxiliar, com os deveres e regalias consignados no referido regulamento. Para o desempenho destas funções, a Direcção-Geral dos Serviços Prisionais pode indicar à Direcção-Geral dos Serviços Florestais e Aquícolas um dos serviçais ou serviçais auxiliares da Colónia Penitenciária de Alcoentre que reúna as condições necessárias.
+Art. 5.º A Direcção-Geral dos Serviços Prisionais manterá, pelo menos, um guarda florestal auxiliar, com os deveres e regalias consignados no referido regulamento. Para o desempenho destas funções, a Direcção-Geral dos Serviços Prisionais pode indicar à Direcção-Geral dos Serviços Florestais e Aquícolas um dos serviçais ou serviçais auxiliares da Colónia Penitenciária de Alcoentre que reúna as condições necessárias.
 
-###### Art. 6.º A execução do presente decreto só terá lugar decorrido o prazo de 30 dias a contar da data da afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação da propriedade. Publique-se e cumpra-se como nele se contém.
+Art. 6.º A execução do presente decreto só terá lugar decorrido o prazo de 30 dias a contar da data da afixação dos editais regulamentares nos lugares públicos do costume do concelho e freguesia da situação da propriedade. Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Domingos Rosado Vitória Pires.

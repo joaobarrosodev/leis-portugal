@@ -47,40 +47,114 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46548-1965-510263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 905dbd90ee50695c493a7daba9627f156d60c5697f8b768c1f2c81800d2c5766
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7a3f156eb8acc211fd665e6ffd38287e42c08f9c37e1c2a2227d860597a040f7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Beneficiário
+- Caixa de Previdência
+- Caixa de Reforma
+- Comissão Organizadora
+- Contribuições da Segurança Social
+- Contribuinte
+- Definição de Competências
+- Gestão Financeira
+- Invalidez
+- Isenção Fiscal
+- Ministério das Corporações e Previdência Social
+- Pagamento
+- Pensão de Invalidez
+- Pensão de Velhice
+- Pensão por Morte
+- Previdência Social
+- Protecção na Doença
+- Reembolso de Contribuições
+- Reforma
+- Regulamento
+- Regulamento Geral das Caixas de Reforma ou de Previdência
+- Responsabilidade Civil
+- Responsabilidade Criminal
+- Subsídio por Morte
 relationships:
 - type: amended_by
   target: pt:dre:355346:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:355346:por
+  label: "Substituída a redacção do nº 2 do art. 74º do Dec 46548 de 23-Set de 1965 pelo DEC.785/75.31.12.1975.MAS, DG.IS\
+    \ [300-7ºSupl] de 31.12.1975 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/785-1975-355346
+  date: '1975-12-31'
+- type: cites
+  target: pt:dre:164986:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304997:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:380290:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400463:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:443525:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:462601:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528219:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593371:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594099:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659137:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 28
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:46Z'
   warnings: []
   errors: []
 ---
@@ -291,11 +365,11 @@ REGULAMENTO GERAL DAS CAIXAS DE REFORMA OU DE PREVIDÊNCIA
 
 ### CAPÍTULO I — Dos fins
 
-###### Artigo 1.º - 1. As instituições previstas no n.º 3 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962 - caixas de reforma ou previdência -, destinam-se a proteger os beneficiários e os seus familiares na invalidez, na velhice e por morte.
+Artigo 1.º - 1. As instituições previstas no n.º 3 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962 - caixas de reforma ou previdência -, destinam-se a proteger os beneficiários e os seus familiares na invalidez, na velhice e por morte.
 
 2. Estas instituições podem prosseguir outros fins de previdência, quando autorizadas pelo Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, e estabelecidas as condições gerais de atribuição das prestações em diploma regulamentar, mediante audiência do Conselho Social.
 
-###### Art. 2.º - 1. Em complemento dos seus esquemas normais de prestações, as caixas de reforma ou de previdência poderão prosseguir outras realizações de acção social essencialmente dirigidas à defesa da família.
+Art. 2.º - 1. Em complemento dos seus esquemas normais de prestações, as caixas de reforma ou de previdência poderão prosseguir outras realizações de acção social essencialmente dirigidas à defesa da família.
 
 2. Na acção social compreendem-se, nomeadamente:
 
@@ -307,19 +381,19 @@ b) A acção de assistência, mediante a prestação de socorros extraordinário
 
 ### CAPÍTULO II — Da constituição e âmbito
 
-###### Art. 3.º A iniciativa da constituição das caixas de reforma ou de previdência compete aos interessados ou ao Ministério das Corporações e Previdência Social.
+Art. 3.º A iniciativa da constituição das caixas de reforma ou de previdência compete aos interessados ou ao Ministério das Corporações e Previdência Social.
 
-###### Art. 4.º - 1. O requerimento para a constituição de uma caixa será dirigido ao Ministro das Corporações e Previdência Social e assinado pelas direcções dos organismos corporativos representativos dos interessados ou, quando aqueles não existam, por uma comissão ad hoc composta, pelo menos, por 50 pessoas com interesse directo na constituição da caixa.
+Art. 4.º - 1. O requerimento para a constituição de uma caixa será dirigido ao Ministro das Corporações e Previdência Social e assinado pelas direcções dos organismos corporativos representativos dos interessados ou, quando aqueles não existam, por uma comissão ad hoc composta, pelo menos, por 50 pessoas com interesse directo na constituição da caixa.
 
 2. O requerimento será acompanhado de dois exemplares do projecto do estatuto e do estudo técnico que serviu de base à elaboração das tabelas de encargos.
 
-###### Art. 5.º - 1. A constituição de uma caixa por iniciativa do Ministério das Corporações e Previdência Social será proposta pelos serviços competentes e ordenada em portaria publicada no Diário do Governo.
+Art. 5.º - 1. A constituição de uma caixa por iniciativa do Ministério das Corporações e Previdência Social será proposta pelos serviços competentes e ordenada em portaria publicada no Diário do Governo.
 
 2. Na portaria referida no número antecedente poderá determinar-se que o pagamento de contribuições se inicie em data anterior à publicação do estatuto e que os futuros inscritos ou os organismos corporativos que os representem forneçam os elementos indispensáveis ao estudo técnico e à elaboração do estatuto nas condições que o mesmo diploma fixar.
 
-###### Art. 6.º As caixas de reforma ou de previdência legalmente constituídas têm personalidade jurídica.
+Art. 6.º As caixas de reforma ou de previdência legalmente constituídas têm personalidade jurídica.
 
-###### Art. 7.º - 1. As caixas ficam legalmente constituídas depois de aprovados por alvará os seus estatutos e de publicados estes, ou a respectiva declaração, no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência.
+Art. 7.º - 1. As caixas ficam legalmente constituídas depois de aprovados por alvará os seus estatutos e de publicados estes, ou a respectiva declaração, no Diário do Governo ou no Boletim do Instituto Nacional do Trabalho e Previdência.
 
 2. Da declaração referida no número anterior constarão obrigatòriamente:
 
@@ -333,7 +407,7 @@ d) Contribuição dos beneficiários.
 
 3. Do despacho que negar a aprovação do estatuto não há recurso contencioso.
 
-###### Art. 8.º - 1. Os estatutos das caixas de reforma ou de previdência podem ser alterados por despacho do Ministro das Corporações e Previdência Social, proferido:
+Art. 8.º - 1. Os estatutos das caixas de reforma ou de previdência podem ser alterados por despacho do Ministro das Corporações e Previdência Social, proferido:
 
 a) Sobre requerimento assinado pela direcção, acompanhado do parecer do conselho geral e de dois exemplares do projecto de alteração;
 
@@ -343,7 +417,7 @@ b) Oficiosamente, sob proposta dos serviços competentes.
 
 3. A alteração produzirá efeitos depois de publicada a declaração respectiva, nos termos dos n.os 1 e 2 do artigo anterior; ao despacho que a negar aplicar-se-á o disposto no n.º 3 do mesmo artigo.
 
-###### Art. 9.º Dos estatutos das caixas constarão as normas necessárias para a boa realização dos seus objectivos e, nomeadamente:
+Art. 9.º Dos estatutos das caixas constarão as normas necessárias para a boa realização dos seus objectivos e, nomeadamente:
 
 a) Denominação, sede e âmbito da caixa;
 
@@ -365,17 +439,17 @@ i) Data da entrada em vigor, coincidente com o primeiro dia do mês posterior ao
 
 j) Tabelas de encargos com indicação das bases técnicas adoptadas.
 
-###### Art. 10.º Sem prejuízo do disposto no n.º 2 da base VIII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, as caixas de reforma ou de previdência compreenderão no seu âmbito as pessoas que, sem dependência de entidades patronais, exerçam determinadas profissões, serviços ou actividades.
+Art. 10.º Sem prejuízo do disposto no n.º 2 da base VIII da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, as caixas de reforma ou de previdência compreenderão no seu âmbito as pessoas que, sem dependência de entidades patronais, exerçam determinadas profissões, serviços ou actividades.
 
-###### Art. 11.º - 1. O Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá determinar, mediante despacho, o alargamento de âmbito das caixas, quando motivos de ordem social ou económica o justifiquem.
+Art. 11.º - 1. O Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá determinar, mediante despacho, o alargamento de âmbito das caixas, quando motivos de ordem social ou económica o justifiquem.
 
 2. Ao despacho referido no número anterior é aplicável o regime de publicação e de entrada em vigor previsto nos artigos 7.º, n.º 1, e 9.º, alínea i).
 
-###### Art. 12.º As disposições relativas ao âmbito das caixas de reforma ou de previdência não deixam de ser aplicáveis pelo facto de o beneficiário ser abrangido por instituição de previdência da mesma ou de diferente categoria.
+Art. 12.º As disposições relativas ao âmbito das caixas de reforma ou de previdência não deixam de ser aplicáveis pelo facto de o beneficiário ser abrangido por instituição de previdência da mesma ou de diferente categoria.
 
 ### CAPÍTULO III — Da mudança de categoria e dissolução
 
-###### Art. 13.º - 1. Quando se verifiquem vantagens de ordem social ou económica, o Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá, em relação às caixas de reforma ou de previdência:
+Art. 13.º - 1. Quando se verifiquem vantagens de ordem social ou económica, o Ministro das Corporações e Previdência Social, ouvido o Conselho Superior da Previdência e da Habitação Económica, poderá, em relação às caixas de reforma ou de previdência:
 
 a) Permitir ou ordenar a mudança de categoria;
 
@@ -383,11 +457,11 @@ b) Determinar, ouvidos os interessados, a dissolução, por fusão com outra ins
 
 2. Na realização dos actos previstos no número anterior observar-se-á, com as adaptações indispensáveis, o disposto no artigo 8.º
 
-###### Art. 14.º - 1. O despacho que ordenar a fusão pode regular equitativamente a situação em que os beneficiários devem permanecer até à aprovação do estatuto da nova instituição.
+Art. 14.º - 1. O despacho que ordenar a fusão pode regular equitativamente a situação em que os beneficiários devem permanecer até à aprovação do estatuto da nova instituição.
 
 2. A instituição resultante da fusão fica, perante terceiros, com todos os direitos e obrigações das instituições dissolvidas.
 
-###### Art. 15.º - 1. Em caso de liquidação, os haveres da caixa, pagas as dívidas ou consignada a quantia necessária para o seu pagamento, serão divididos entre os beneficiários na proporção das reservas matemáticas, com ressalva do disposto nos números seguintes.
+Art. 15.º - 1. Em caso de liquidação, os haveres da caixa, pagas as dívidas ou consignada a quantia necessária para o seu pagamento, serão divididos entre os beneficiários na proporção das reservas matemáticas, com ressalva do disposto nos números seguintes.
 
 2. Se as reservas matemáticas não forem pràticamente determináveis, os haveres da caixa serão partilhados pelos beneficiários na proporção das contribuições por eles pagas, ou, se estas forem desconhecidas, em quinhões iguais.
 
@@ -395,37 +469,37 @@ b) Determinar, ouvidos os interessados, a dissolução, por fusão com outra ins
 
 ### CAPÍTULO IV — Dos beneficiários
 
-###### Art. 16.º São inscritos obrigatòriamente como beneficiários das caixas de reforma ou de previdência os indivíduos abrangidos nos termos dos diplomas da sua criação, dos seus estatutos e dos despachos de alargamento de âmbito.
+Art. 16.º São inscritos obrigatòriamente como beneficiários das caixas de reforma ou de previdência os indivíduos abrangidos nos termos dos diplomas da sua criação, dos seus estatutos e dos despachos de alargamento de âmbito.
 
-###### Art. 17.º - 1. A inscrição do beneficiário reportar-se-á ao início do mês a que se refere a primeira contribuição por ele paga.
+Art. 17.º - 1. A inscrição do beneficiário reportar-se-á ao início do mês a que se refere a primeira contribuição por ele paga.
 
 2. A inscrição será efectuada com base em boletim de modelo adoptado pela caixa, preenchido pelo beneficiário e instruído com certidão do registo de nascimento ou outro documento de identificação bastante.
 
 3. Na falta de apresentação, durante o mês mencionado no n.º 1, de algum dos documentos referidos no número anterior, a caixa procederá oficiosamente à inscrição, desde que pelos meios ao seu alcance possa obter os elementos indispensáveis.
 
-###### Art. 18.º - 1. A situação de cada beneficiário deverá constar da escrita da caixa, mencionando-se em registos individuais todas as circunstâncias indispensáveis para o identificar e para reconhecer em qualquer momento a sua posição estatutária passada e presente.
+Art. 18.º - 1. A situação de cada beneficiário deverá constar da escrita da caixa, mencionando-se em registos individuais todas as circunstâncias indispensáveis para o identificar e para reconhecer em qualquer momento a sua posição estatutária passada e presente.
 
 2. Devem ser facultados, a todo o tempo, para exame dos beneficiários ou de outros interessados directos, os registos referidos no número antecedente, bem como os documentos que lhes serviram de base.
 
 3. Os beneficiários deverão constar do ficheiro previsto no n.º 3 do artigo 21.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
 
-###### Art. 19. Os beneficiários devem ser verdadeiros nas suas declarações, requerimentos ou participações, prestar às direcções das caixas as informações por estas solicitadas nos limites da sua competência, e podem obter, sem quaisquer encargos, certidões do que directamente lhes interesse.
+Art. 19. Os beneficiários devem ser verdadeiros nas suas declarações, requerimentos ou participações, prestar às direcções das caixas as informações por estas solicitadas nos limites da sua competência, e podem obter, sem quaisquer encargos, certidões do que directamente lhes interesse.
 
-###### Art. 20.º Não ficam sujeitos à inscrição os estrangeiros que se encontrem temporàriamente a exercer a profissão, serviço ou actividade em Portugal, desde que provem estar abrangidos pelo seguro social obrigatório de outro país.
+Art. 20.º Não ficam sujeitos à inscrição os estrangeiros que se encontrem temporàriamente a exercer a profissão, serviço ou actividade em Portugal, desde que provem estar abrangidos pelo seguro social obrigatório de outro país.
 
 ### CAPÍTULO V — Das eventualidades e benefícios
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 21.º - 1. As eventualidades reguladas neste capítulo podem ser estabelecidas, separada ou cumulativamente, nos estatutos das caixas, conforme as possibilidades ou conveniências dos sectores profissionais abrangidos, sem prejuízo do disposto no número seguinte.
+Art. 21.º - 1. As eventualidades reguladas neste capítulo podem ser estabelecidas, separada ou cumulativamente, nos estatutos das caixas, conforme as possibilidades ou conveniências dos sectores profissionais abrangidos, sem prejuízo do disposto no número seguinte.
 
 2. Os estatutos incluirão sempre o seguro de velhice e uma das modalidades previstas neste diploma para o seguro de morte.
 
-###### Art. 22.º - 1. A concessão dos benefícios depende da inscrição, do decurso de um prazo de garantia e das demais condições previstas para cada eventualidade nas respectivas secções deste capítulo.
+Art. 22.º - 1. A concessão dos benefícios depende da inscrição, do decurso de um prazo de garantia e das demais condições previstas para cada eventualidade nas respectivas secções deste capítulo.
 
 2. Os prazos de garantia, a determinar pelo número de meses com entrada de contribuições, serão fixados nos estatutos das caixas, com respeito pelos limites indicados nas correspondentes secções deste capítulo.
 
-###### Art. 23.º - 1. O montante dos benefícios será fixado nos estatutos das caixas, sem prejuízo dos critérios indicados no presente diploma.
+Art. 23.º - 1. O montante dos benefícios será fixado nos estatutos das caixas, sem prejuízo dos critérios indicados no presente diploma.
 
 2. Nas modalidades em que for variável, aquele montante será estabelecido em função do valor das contribuições entradas e do número de meses a que estas respeitarem.
 
@@ -433,33 +507,33 @@ b) Determinar, ouvidos os interessados, a dissolução, por fusão com outra ins
 
 4. O montante de cada prestação a pagar ao respectivo titular será sempre arredondado, por excesso, em escudos.
 
-###### Art. 24.º As prestações serão pagas na localidade da residência dos seus titulares, salvo se outro lugar for acordado, e sem prejuízo do disposto nos dois artigos subsequentes.
+Art. 24.º As prestações serão pagas na localidade da residência dos seus titulares, salvo se outro lugar for acordado, e sem prejuízo do disposto nos dois artigos subsequentes.
 
-###### Art. 25.º Aos beneficiários ou seus familiares de nacionalidade portuguesa residentes no estrangeiro serão concedidas as prestações estatutárias, desde que na área de influência da caixa tenham constituído representante a quem possam ser entregues.
+Art. 25.º Aos beneficiários ou seus familiares de nacionalidade portuguesa residentes no estrangeiro serão concedidas as prestações estatutárias, desde que na área de influência da caixa tenham constituído representante a quem possam ser entregues.
 
-###### Art. 26.º Aos beneficiários e seus familiares de nacionalidade estrangeira residentes no estrangeiro serão concedidas as prestações estatutárias, desde que em idênticas circunstâncias os Portugueses beneficiem de igual tratamento, estabelecido em convenção internacional ou em acordo de reciprocidade, efectuando-se o pagamento das prestações nos termos regulados no acordo.
+Art. 26.º Aos beneficiários e seus familiares de nacionalidade estrangeira residentes no estrangeiro serão concedidas as prestações estatutárias, desde que em idênticas circunstâncias os Portugueses beneficiem de igual tratamento, estabelecido em convenção internacional ou em acordo de reciprocidade, efectuando-se o pagamento das prestações nos termos regulados no acordo.
 
-###### Art. 27.º - 1. Para efeito da atribuição de benefícios, considera-se como tempo de contribuição o da prestação de serviço militar.
+Art. 27.º - 1. Para efeito da atribuição de benefícios, considera-se como tempo de contribuição o da prestação de serviço militar.
 
 2. A equivalência prevista neste artigo depende de o beneficiário haver contribuído, pelo menos, em relação a um dos três meses anteriores ao da chamada às fileiras e será anotada pelo valor da última contribuição.
 
-###### Art. 28.º - 1. Os direitos a reconhecer, em cada eventualidade, aos beneficiários ou seus familiares, quando aqueles tenham contribuído, simultânea ou sucessivamente, para mais de uma caixa de reforma ou de previdência, serão determinados em separado por cada instituição, nos termos do respectivo estatuto.
+Art. 28.º - 1. Os direitos a reconhecer, em cada eventualidade, aos beneficiários ou seus familiares, quando aqueles tenham contribuído, simultânea ou sucessivamente, para mais de uma caixa de reforma ou de previdência, serão determinados em separado por cada instituição, nos termos do respectivo estatuto.
 
 2. Se, porém, o valor global das prestações correspondentes a contribuições sucessivas e obrigatórias for superior ao que resultaria da unificação de todas as inscrições na instituição de esquema mais favorável, atribuir-se-á o valor resultante da unificação, cabendo a cada caixa a parte proporcional àquelas contribuições.
 
 3. Sempre que um interessado requeira a atribuição de direitos, a caixa solicitar-lhe-á, bem como à instituição organizadora do ficheiro referido no n.º 3 do artigo 18.º, a indicação das demais caixas de reforma ou de previdência para que tenha contribuído.
 
-###### Art. 29.º - 1. Para o efeito de se dar como vencido o prazo de garantia estatutàriamente previsto, cada caixa de reforma ou de previdência, a pedido do interessado, tomará em conta o seu tempo de contribuição em outras caixas, na parte em que se não sobreponha com o referente à respectiva contribuição.
+Art. 29.º - 1. Para o efeito de se dar como vencido o prazo de garantia estatutàriamente previsto, cada caixa de reforma ou de previdência, a pedido do interessado, tomará em conta o seu tempo de contribuição em outras caixas, na parte em que se não sobreponha com o referente à respectiva contribuição.
 
 2. As prestações a conceder por cada caixa serão limitadas à fracção correspondente à relação entre o tempo de contribuição contado ao beneficiário na inscrição respectiva e a duração total do prazo de garantia.
 
-###### Art. 30.º Nas hipóteses previstas nos artigos 28.º e 29.º o interessado poderá solicitar de uma das caixas para que tenha contribuído a concessão do conjunto das prestações, devendo neste caso as demais instituições indemnizar aquela pela forma que for estabelecida pelo Ministério das Corporações e Previdência Social.
+Art. 30.º Nas hipóteses previstas nos artigos 28.º e 29.º o interessado poderá solicitar de uma das caixas para que tenha contribuído a concessão do conjunto das prestações, devendo neste caso as demais instituições indemnizar aquela pela forma que for estabelecida pelo Ministério das Corporações e Previdência Social.
 
-###### Art. 31.º Aos beneficiários das caixas de reforma ou de previdência ou seus familiares é aplicável o artigo 29.º relativamente à inscrição daqueles em caixas sindicais de previdência e em instituições de seguro obrigatório pertencentes à 4.ª categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962.
+Art. 31.º Aos beneficiários das caixas de reforma ou de previdência ou seus familiares é aplicável o artigo 29.º relativamente à inscrição daqueles em caixas sindicais de previdência e em instituições de seguro obrigatório pertencentes à 4.ª categoria prevista na base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962.
 
-###### Art. 32.º As prestações devidas aos beneficiários e seus familiares não podem ser cedidas a terceiros nem penhoradas e são isentas de taxas, contribuições ou impostos, nos termos da competente legislação.
+Art. 32.º As prestações devidas aos beneficiários e seus familiares não podem ser cedidas a terceiros nem penhoradas e são isentas de taxas, contribuições ou impostos, nos termos da competente legislação.
 
-###### Art. 33.º As prestações devidas e não pagas à data do falecimento dos respectivos titulares serão entregues:
+Art. 33.º As prestações devidas e não pagas à data do falecimento dos respectivos titulares serão entregues:
 
 a) Sendo titulares os próprios beneficiários, às pessoas nas condições exigidas neste diploma para a atribuição do subsídio por morte;
 
@@ -467,37 +541,37 @@ b) Sendo titulares os familiares, aos restantes que já se encontrem beneficiado
 
 c) Em qualquer dos casos previstos nas alíneas anteriores, quando não houver alguma pessoa nas condições ali referidas, a quem provar haver feito as despesas de funeral, até à concorrência destas.
 
-###### Art. 34.º As prestações devidas pelas caixas prescrevem a favor destas se não forem reclamadas dentro de um ano a contar do último dia do prazo estabelecido para o seu pagamento.
+Art. 34.º As prestações devidas pelas caixas prescrevem a favor destas se não forem reclamadas dentro de um ano a contar do último dia do prazo estabelecido para o seu pagamento.
 
 #### SECÇÃO II — Invalidez
 
-###### Art. 35.º A protecção na invalidez é realizada mediante a concessão de pensões e serviços de recuperação e readaptação profissional, devendo estes ser organizados nos termos que forem estabelecidos por normas aprovadas pelo Ministro das Corporações e Previdência Social.
+Art. 35.º A protecção na invalidez é realizada mediante a concessão de pensões e serviços de recuperação e readaptação profissional, devendo estes ser organizados nos termos que forem estabelecidos por normas aprovadas pelo Ministro das Corporações e Previdência Social.
 
-###### Art. 36.º - 1. Têm direito a pensão de invalidez os beneficiários que, tendo contribuído em relação a doze meses, pelo menos, no decurso dos três anos anteriores ao requerimento, salvo dispensa de contribuições por motivo de doença, fiquem definitivamente incapacitados de trabalhar na sua profissão habitual, com redução da capacidade de ganho a não mais de um terço.
+Art. 36.º - 1. Têm direito a pensão de invalidez os beneficiários que, tendo contribuído em relação a doze meses, pelo menos, no decurso dos três anos anteriores ao requerimento, salvo dispensa de contribuições por motivo de doença, fiquem definitivamente incapacitados de trabalhar na sua profissão habitual, com redução da capacidade de ganho a não mais de um terço.
 
 2. Considera-se definitiva a incapacidade para o trabalho quando seja de presumir que, na falta de tratamento de recuperação profissional adequado, o beneficiário não teria melhoria apreciável da sua capacidade de ganho, para além do limite referido no número anterior, dentro dos três anos subsequentes.
 
-###### Art. 37.º O prazo de garantia para a pensão de invalidez não poderá ser inferior a 60 meses de contribuições, nem superior ao estatutàriamente fixado para a pensão de reforma por velhice.
+Art. 37.º O prazo de garantia para a pensão de invalidez não poderá ser inferior a 60 meses de contribuições, nem superior ao estatutàriamente fixado para a pensão de reforma por velhice.
 
-###### Art. 38.º - 1. Para ser concedida a pensão de invalidez deverão os beneficiários ou seus representantes requerê-la à direcção da caixa, que mandará proceder a exame médico.
+Art. 38.º - 1. Para ser concedida a pensão de invalidez deverão os beneficiários ou seus representantes requerê-la à direcção da caixa, que mandará proceder a exame médico.
 
 2. A incapacidade para o trabalho será determinada com base em parecer escrito de uma comissão de verificação de invalidez, constituída por dois médicos e um assessor técnico, designados pela direcção da caixa.
 
 3. O exame previsto neste artigo efectuar-se-á sem encargos para os beneficiários.
 
-###### Art. 39.º - 1. A pensão de invalidez será igual à pensão de reforma por velhice que seria atribuída ao beneficiário se a esta tivesse direito à data da invalidez, salvo o disposto nos números seguintes.
+Art. 39.º - 1. A pensão de invalidez será igual à pensão de reforma por velhice que seria atribuída ao beneficiário se a esta tivesse direito à data da invalidez, salvo o disposto nos números seguintes.
 
 2. Se a invalidez se verificar antes de preenchido o prazo de garantia estabelecido para a reforma por velhice, a pensão de invalidez será igual à pensão mínima de reforma que resultaria da continuação das contribuições pelo valor médio dos últimos doze meses a que respeitem.
 
 3. A pensão, determinada de harmonia com os números anteriores, será aumentada de 25 por cento se o inválido estiver absolutamente incapaz de exercer qualquer actividade profissional e de 50 por cento se, além disso, necessitar da assistência constante de outra pessoa para a realização dos actos indispensáveis à vida, não podendo, todavia, em qualquer caso, ultrapassar a pensão máxima de reforma calculada nos termos da parte final do número antecedente.
 
-###### Art. 40.º - 1. A pensão é devida a partir do início do mês em que der entrada na caixa o respectivo requerimento, mas não antes do início do mês seguinte àquele a que a comissão prevista no n.º 2 do artigo 38.º reportar a data da invalidez.
+Art. 40.º - 1. A pensão é devida a partir do início do mês em que der entrada na caixa o respectivo requerimento, mas não antes do início do mês seguinte àquele a que a comissão prevista no n.º 2 do artigo 38.º reportar a data da invalidez.
 
 2. Cada prestação será paga até ao fim do mês a que disser respeito.
 
-###### Art. 41.º Os inválidos pensionistas, enquanto não completarem a idade estatutária de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame por uma comissão de revisão, constituída nos termos do n.º 2 do artigo 38.º, sempre que a direcção o entender e, obrigatòriamente, uma vez por ano, durante os três primeiros anos, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
+Art. 41.º Os inválidos pensionistas, enquanto não completarem a idade estatutária de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame por uma comissão de revisão, constituída nos termos do n.º 2 do artigo 38.º, sempre que a direcção o entender e, obrigatòriamente, uma vez por ano, durante os três primeiros anos, para se verificar se as condições que motivaram a concessão da pensão se mantêm.
 
-###### Art. 42.º A pensão será suspensa:
+Art. 42.º A pensão será suspensa:
 
 a) Se o pensionista não fizer prova anual de vida dentro do prazo designado pela caixa e enquanto a não fizer;
 
@@ -505,21 +579,21 @@ b) Se o pensionista injustificadamente faltar ao exame médico a que se refere o
 
 c) Se o pensionista auferir proventos regulares no exercício da sua profissão habitual. Tratando-se, porém, da invalidez prevista no n.º 3 do artigo 39.º e o pensionista auferir proventos regulares no exercício de outra actividade profissional, a suspensão dar-se-á apenas no aumento da pensão ali referido.
 
-###### Art. 43.º Haverá lugar à revisão da pensão, alterando-se o seu quantitativo, se a evolução do estado de incapacidade determinar a mudança de um para outro dos graus de invalidez previstos nos artigos 36.º, n.º 1, e 39.º, n.º 3.
+Art. 43.º Haverá lugar à revisão da pensão, alterando-se o seu quantitativo, se a evolução do estado de incapacidade determinar a mudança de um para outro dos graus de invalidez previstos nos artigos 36.º, n.º 1, e 39.º, n.º 3.
 
-###### Art. 44.º A pensão será suprimida desde que se verifique não subsistirem razões que justifiquem o reconhecimento da invalidez.
+Art. 44.º A pensão será suprimida desde que se verifique não subsistirem razões que justifiquem o reconhecimento da invalidez.
 
-###### Art. 45.º A suspensão, revisão ou supressão referidas nos artigos antecedentes terão efeito a partir do início do mês seguinte àquele em que se verifiquem as circunstâncias neles previstas.
+Art. 45.º A suspensão, revisão ou supressão referidas nos artigos antecedentes terão efeito a partir do início do mês seguinte àquele em que se verifiquem as circunstâncias neles previstas.
 
-###### Art. 46.º Atingida a idade estatutária de reforma, as pensões de invalidez tomam de direito a natureza de pensões de velhice.
+Art. 46.º Atingida a idade estatutária de reforma, as pensões de invalidez tomam de direito a natureza de pensões de velhice.
 
-###### Art. 47.º Não dá direito a pensão a invalidez resultante de acto intencional do beneficiário.
+Art. 47.º Não dá direito a pensão a invalidez resultante de acto intencional do beneficiário.
 
-###### Art. 48.º - 1. Se a invalidez resultar de acto de terceiro que por ela tenha pago indemnização, a caixa terá direito a ser reembolsada do valor das prestações concedidas, até ao limite daquela indemnização.
+Art. 48.º - 1. Se a invalidez resultar de acto de terceiro que por ela tenha pago indemnização, a caixa terá direito a ser reembolsada do valor das prestações concedidas, até ao limite daquela indemnização.
 
 2. Se o terceiro não houver pago a indemnização, a caixa terá acção contra ele para haver o referido valor.
 
-###### Art. 49.º - 1. Os serviços de recuperação e readaptação profissional serão prestados aos beneficiários que se encontrem nas condições previstas para o reconhecimento do direito à pensão.
+Art. 49.º - 1. Os serviços de recuperação e readaptação profissional serão prestados aos beneficiários que se encontrem nas condições previstas para o reconhecimento do direito à pensão.
 
 2. As caixas que não tiverem serviços adequados à recuperação e readaptação profissional podem estabelecer para esse efeito acordos com instituições ou entidades particulares ou oficiais que deles disponham.
 
@@ -527,31 +601,31 @@ c) Se o pensionista auferir proventos regulares no exercício da sua profissão 
 
 #### SECÇÃO III — Velhice
 
-###### Art. 50.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma.
+Art. 50.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma.
 
-###### Art. 51.º O direito à pensão é reconhecido aos beneficiários que tenham completado a idade de reforma estatutàriamente prevista.
+Art. 51.º O direito à pensão é reconhecido aos beneficiários que tenham completado a idade de reforma estatutàriamente prevista.
 
-###### Art. 52.º O prazo de garantia para a pensão de reforma não poderá ser inferior a 120 meses de contribuições.
+Art. 52.º O prazo de garantia para a pensão de reforma não poderá ser inferior a 120 meses de contribuições.
 
-###### Art. 53.º - 1. A pensão é devida a partir do início do mês em que der entrada na caixa o respectivo requerimento, mas não antes do início do mês seguinte àquele em que o beneficiário atingiu a idade de reforma.
+Art. 53.º - 1. A pensão é devida a partir do início do mês em que der entrada na caixa o respectivo requerimento, mas não antes do início do mês seguinte àquele em que o beneficiário atingiu a idade de reforma.
 
 2. Cada prestação será paga até ao fim do mês a que disser respeito.
 
-###### Art. 54.º A pensão de reforma será suspensa:
+Art. 54.º A pensão de reforma será suspensa:
 
 a) Se o pensionista não fizer prova anual de vida dentro do prazo designado pela caixa e enquanto a não fizer;
 
 b) Quando o pensionista auferir proventos regulares no exercício de actividade profissional abrangida pela caixa, caso em que a suspensão se dará em metade do valor da pensão.
 
-###### Art. 55.º As pensões dos beneficiários em cujo nome entrem contribuições após o início da sua concessão serão melhoradas, tendo em conta aquelas contribuições, nos termos previstos nos estatutos.
+Art. 55.º As pensões dos beneficiários em cujo nome entrem contribuições após o início da sua concessão serão melhoradas, tendo em conta aquelas contribuições, nos termos previstos nos estatutos.
 
 #### SECÇÃO IV — Morte
 
-###### Art. 56.º A protecção em caso de morte é realizada mediante a concessão de um subsídio e de pensões de sobrevivência.
+Art. 56.º A protecção em caso de morte é realizada mediante a concessão de um subsídio e de pensões de sobrevivência.
 
 ##### SUBSECÇÃO I — Subsídio por morte
 
-###### Art. 57.º - 1. O subsídio por morte defere-se aos familiares do beneficiário, nos termos seguintes:
+Art. 57.º - 1. O subsídio por morte defere-se aos familiares do beneficiário, nos termos seguintes:
 
 a) Metade ao cônjuge e metade aos descendentes ou equiparados em condições de conferirem direito a abono de família segundo a legislação das caixas sindicais de previdência, havendo simultâneamente um e outros;
 
@@ -563,39 +637,39 @@ c) Por inteiro aos ascendentes ou equiparados em idênticas condições, nos dem
 
 3. No caso de divórcio, o ex-cônjuge inocente com direito a alimentos e que não haja contraído novo casamento tem direito ao subsídio ou à parte que lhe couber na hipótese de mais alguém, que houver sido casado com o beneficiário, eficazmente se habilitar. Se, porém, o divórcio tiver resultado de mútuo consentimento, o direito ao subsídio depende de assim haver sido consignado nos termos da parte final do número anterior.
 
-###### Art. 58.º - 1. Na falta de pessoas referidas no artigo anterior, o subsídio será pago a quem o beneficiário designar, de modo inequívoco, em testamento ou em declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura, prevalecendo o documento com data mais recente.
+Art. 58.º - 1. Na falta de pessoas referidas no artigo anterior, o subsídio será pago a quem o beneficiário designar, de modo inequívoco, em testamento ou em declaração datada e assinada pelo próprio, ou a seu rogo, com reconhecimento notarial da assinatura, prevalecendo o documento com data mais recente.
 
 2. A declaração, encerrada em sobrescrito lacrado, será entregue na caixa, mediante recibo, ou enviada pelo correio, com aviso de recepção, e poderá ser retirada ou substituída a todo o tempo pelo seu autor.
 
 3. Considerar-se-ão não escritas as declarações que contrariem o disposto neste artigo.
 
-###### Art. 59.º O subsídio, ou a parte do subsídio, que couber a mais de uma pessoa será dividido por igual, salvo se, no caso do artigo anterior, o beneficiário tiver estabelecido proporção diferente.
+Art. 59.º O subsídio, ou a parte do subsídio, que couber a mais de uma pessoa será dividido por igual, salvo se, no caso do artigo anterior, o beneficiário tiver estabelecido proporção diferente.
 
-###### Art. 60.º O prazo de garantia para o subsídio por morte não poderá ser inferior a doze meses de contribuições.
+Art. 60.º O prazo de garantia para o subsídio por morte não poderá ser inferior a doze meses de contribuições.
 
-###### Art. 61.º - 1. Qualquer dos interessados pode requerer, directamente ou por representante legal, o subsídio que lhe couber, juntando ao requerimento os documentos comprovativos do óbito e dos demais factos condicionantes do seu direito.
+Art. 61.º - 1. Qualquer dos interessados pode requerer, directamente ou por representante legal, o subsídio que lhe couber, juntando ao requerimento os documentos comprovativos do óbito e dos demais factos condicionantes do seu direito.
 
 2. A caixa pode exigir, quando o julgue necessário, que sejam apresentados atestados, passados pela junta de freguesia da última residência e do nascimento do beneficiário, declarativos do não conhecimento da existência de outras pessoas com igual ou melhor direito.
 
 3. No recibo do subsídio o destinatário obrigar-se-á a devolver à instituição a parte a que não tiver direito, na hipótese de, posteriormente e em tempo, vir a reconhecer-se serem outros os titulares.
 
-###### Art. 62.º - 1. Havendo declaração nos termos do artigo 58.º, a caixa procederá à sua abertura logo que tenha conhecimento da morte do beneficiário e avisará o designado ou designados para efeito de habilitação.
+Art. 62.º - 1. Havendo declaração nos termos do artigo 58.º, a caixa procederá à sua abertura logo que tenha conhecimento da morte do beneficiário e avisará o designado ou designados para efeito de habilitação.
 
 2. O aviso será feito directamente aos interessados ou, se não forem conhecidas as suas moradas actuais, por intermédio de dois jornais diários, um de Lisboa e outro do Porto.
 
 3. As despesas com a publicação do aviso nos jornais serão deduzidas ao montante do subsídio.
 
-###### Art. 63.º As importâncias de subsídios que caibam a menores ou outros incapazes, quando não haja representante legal a quem devam ser entregues, serão depositadas, até à cessação ou suprimento da incapacidade, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do titular do respectivo direito ou de quem vier a ser nomeado seu representante.
+Art. 63.º As importâncias de subsídios que caibam a menores ou outros incapazes, quando não haja representante legal a quem devam ser entregues, serão depositadas, até à cessação ou suprimento da incapacidade, na Caixa Geral de Depósitos, Crédito e Previdência, à ordem do titular do respectivo direito ou de quem vier a ser nomeado seu representante.
 
-###### Art. 64.º O direito de requerer o subsídio extingue-se pelo prazo de um ano, a contar da data do falecimento do beneficiário, ou, se for o caso, do aviso referido no artigo 62.º
+Art. 64.º O direito de requerer o subsídio extingue-se pelo prazo de um ano, a contar da data do falecimento do beneficiário, ou, se for o caso, do aviso referido no artigo 62.º
 
-###### Art. 65.º - 1. Não tem direito ao subsídio quem for judicialmente condenado como autor, cúmplice ou encobridor da morte do beneficiário, e, se já o tiver recebido, será obrigado a repô-lo.
+Art. 65.º - 1. Não tem direito ao subsídio quem for judicialmente condenado como autor, cúmplice ou encobridor da morte do beneficiário, e, se já o tiver recebido, será obrigado a repô-lo.
 
 2. A pronúncia pelos crimes a que se refere este artigo implica suspensão da concessão do subsídio.
 
 ##### SUBSECÇÃO II — Pensões de sobrevivência
 
-###### Art. 66.º - 1. Têm direito a pensão de sobrevivência os seguintes familiares do beneficiário:
+Art. 66.º - 1. Têm direito a pensão de sobrevivência os seguintes familiares do beneficiário:
 
 a) O cônjuge, sem prejuízo do disposto no artigo subsequente;
 
@@ -603,7 +677,7 @@ b) Os descendentes e os ascendentes, se estavam a cargo do beneficiário e nas d
 
 2. O cônjuge e os filhos têm, conjuntamente, direito à pensão. Só na falta de um e outros é reconhecido direito aos restantes familiares, preferindo os descendentes aos ascendentes e, dentro de cada uma destas categorias, os de grau mais próximo.
 
-###### Art. 67.º - 1. O cônjuge sobrevivo não terá direito à pensão:
+Art. 67.º - 1. O cônjuge sobrevivo não terá direito à pensão:
 
 a) Se, na data do falecimento do beneficiário, tiver idade inferior à que para o efeito deve ser estatutàriamente prevista, excepto se estiver absolutamente incapacitado para o trabalho ou, sendo do sexo feminino, houver filhos que estivessem a cargo do beneficiário;
 
@@ -613,15 +687,15 @@ b) Se o casamento se houver efectuado há menos de um ano sobre a morte do benef
 
 3. O cônjuge sobrevivo perde o direito à pensão se tiver porte moral escandaloso ou passar a segundas núpcias. Neste último caso, receberá, por uma só vez, o valor fixado estatutàriamente nos termos do número anterior.
 
-###### Art. 68.º - 1. O prazo de garantia para a pensão de sobrevivência não poderá ser inferior a 60 meses de contribuições.
+Art. 68.º - 1. O prazo de garantia para a pensão de sobrevivência não poderá ser inferior a 60 meses de contribuições.
 
 2. Se a caixa tiver entre os seus fins a protecção na invalidez, aquele prazo será igual ao estatutàriamente fixado para esta modalidade.
 
-###### Art. 69.º A pensão de sobrevivência será determinada percentualmente em relação à pensão de reforma por velhice que o beneficiário percebia ou daquela a que teria direito se fosse reformado na data do falecimento, não podendo, em qualquer caso, exceder 90 por cento desta pensão.
+Art. 69.º A pensão de sobrevivência será determinada percentualmente em relação à pensão de reforma por velhice que o beneficiário percebia ou daquela a que teria direito se fosse reformado na data do falecimento, não podendo, em qualquer caso, exceder 90 por cento desta pensão.
 
-###### Art. 70.º A pensão é devida a partir do início do mês em que der entrada na caixa o respectivo requerimento, mas não antes do início do mês seguinte ao do falecimento do beneficiário.
+Art. 70.º A pensão é devida a partir do início do mês em que der entrada na caixa o respectivo requerimento, mas não antes do início do mês seguinte ao do falecimento do beneficiário.
 
-###### Art. 71.º É aplicável às pensões de sobrevivência o disposto nos artigos 40.º, n.º 2, 42.º, alínea a), 57.º, n.os 2 e 3, 59.º, primeira parte, 61.º, 63.º, 64.º, primeira parte, e 65.º, com extensão do artigo 42.º, alínea a), também à prova de viuvez.
+Art. 71.º É aplicável às pensões de sobrevivência o disposto nos artigos 40.º, n.º 2, 42.º, alínea a), 57.º, n.os 2 e 3, 59.º, primeira parte, 61.º, 63.º, 64.º, primeira parte, e 65.º, com extensão do artigo 42.º, alínea a), também à prova de viuvez.
 
 ### CAPÍTULO VI — Das contribuições
 
@@ -629,11 +703,11 @@ b) Se o casamento se houver efectuado há menos de um ano sobre a morte do benef
 
 ##### SUBSECÇÃO I — Regime geral
 
-###### Art. 72.º - 1. As contribuições serão pagas pelos beneficiários, relativamente a meses civis, nos quantitativos e dentro dos prazos fixados nos estatutos.
+Art. 72.º - 1. As contribuições serão pagas pelos beneficiários, relativamente a meses civis, nos quantitativos e dentro dos prazos fixados nos estatutos.
 
 2. Na cobrança das contribuições, bem como dos juros de mora que forem devidos, aplicar-se-ão, com as adaptações que se mostrem necessárias, as disposições do [Decreto-Lei n.º 35410](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35410-1945-462601), de 29 de Dezembro de 1945, se outras especiais não constarem dos estatutos.
 
-###### Art. 73.º - 1. As contribuições são devidas:
+Art. 73.º - 1. As contribuições são devidas:
 
 a) A partir da entrada em vigor dos estatutos ou do respectivo alargamento de âmbito, relativamente às pessoas que então se encontrem a exercer actividade profissional abrangida pela caixa, ressalvado o disposto no n.º 2 do artigo 5.º e na alínea subsequente;
 
@@ -643,21 +717,21 @@ b) A partir do início do mês seguinte ao do começo da actividade profissional
 
 3. As contribuições são devidas até ao fim do mês em que a instituição deixar de subsistir ou em que tenha cessado o exercício de actividade profissional abrangida.
 
-###### Art. 74.º - 1. A partir da data em que tenham expirado os prazos estabelecidos para o pagamento das contribuições serão estas acrescidas de juro de mora.
+Art. 74.º - 1. A partir da data em que tenham expirado os prazos estabelecidos para o pagamento das contribuições serão estas acrescidas de juro de mora.
 
 2. O juro de mora é de 0,5 por cento em relação a cada um dos meses seguintes àquele a que se referem as contribuições até ao mês, inclusive, em que o seu pagamento seja efectuado.
 
-###### Art. 75.º - 1. A direcção da caixa, nos 30 dias seguintes ao termo do prazo fixado para o pagamento das contribuições, notificará o beneficiário faltoso que não se tenha justificado nos termos do artigo 80.º ou cuja justificação não for aceite, por meio de carta registada com aviso de recepção ou entrega contra recibo, para, dentro de quinze dias, efectuar aquele pagamento e juros de mora que forem devidos.
+Art. 75.º - 1. A direcção da caixa, nos 30 dias seguintes ao termo do prazo fixado para o pagamento das contribuições, notificará o beneficiário faltoso que não se tenha justificado nos termos do artigo 80.º ou cuja justificação não for aceite, por meio de carta registada com aviso de recepção ou entrega contra recibo, para, dentro de quinze dias, efectuar aquele pagamento e juros de mora que forem devidos.
 
 2. Se a notificação não for cumprida, a direcção da caixa procederá à execução judicial das contribuições em dívida e dos respectivos juros de mora, dentro dos 30 dias seguintes ao termo do prazo referido na parte final do número anterior.
 
-###### Art. 76.º A Inspecção do Trabalho informará as direcções das Caixas de reforma ou de previdência sobre as faltas de pagamento de contribuições que verifique, a fim de aquelas procederem em conformidade com o disposto no artigo anterior, contando-se neste caso o primeiro prazo nele referido a partir da data do recebimento da informação.
+Art. 76.º A Inspecção do Trabalho informará as direcções das Caixas de reforma ou de previdência sobre as faltas de pagamento de contribuições que verifique, a fim de aquelas procederem em conformidade com o disposto no artigo anterior, contando-se neste caso o primeiro prazo nele referido a partir da data do recebimento da informação.
 
-###### Art. 77.º É proibido às caixas de reforma ou de previdência cobrar quaisquer quantias além das contribuições ou outras receitas previstas na lei ou nos estatutos.
+Art. 77.º É proibido às caixas de reforma ou de previdência cobrar quaisquer quantias além das contribuições ou outras receitas previstas na lei ou nos estatutos.
 
-###### Art. 78.º A dívida de contribuições às caixas de reforma ou de previdência prescreve pelo lapso de cinco anos, a contar do último dia do prazo estabelecido para o pagamento.
+Art. 78.º A dívida de contribuições às caixas de reforma ou de previdência prescreve pelo lapso de cinco anos, a contar do último dia do prazo estabelecido para o pagamento.
 
-###### Art. 79.º - 1. São dispensados do pagamento de contribuições os beneficiários:
+Art. 79.º - 1. São dispensados do pagamento de contribuições os beneficiários:
 
 a) Que estejam a prestar serviço militar, desde que simultâneamente não exerçam a actividade profissional determinante da sua inscrição na caixa;
 
@@ -665,27 +739,27 @@ b) Que se encontrem doentes ou por outro motivo independente da sua vontade impe
 
 2. A dispensa do pagamento de contribuições respeitará aos meses civis inteiramente compreendidos no período em que se verifiquem as situações referidas.
 
-###### Art. 80.º - 1. Os beneficiários abrangidos pelo artigo anterior devem justificar a falta das contribuições dentro do prazo em que estas deveriam ser satisfeitas, provando perante a caixa os factos em que fundamentam o não pagamento.
+Art. 80.º - 1. Os beneficiários abrangidos pelo artigo anterior devem justificar a falta das contribuições dentro do prazo em que estas deveriam ser satisfeitas, provando perante a caixa os factos em que fundamentam o não pagamento.
 
 2. Quando as causas justificativas da falta de pagamento se mantenham, durante, pelo menos, dois meses civis completos no primeiro prazo de pagamento posterior à cessação daquelas os beneficiários provarão os factos não abrangidos pela prova feita nos termos do número anterior, sem prejuízo de a caixa, entretanto, obter as informações que julgue convenientes.
 
 ##### SUBSECÇÃO II — Regime especial
 
-###### Art. 81.º - 1. Aos beneficiários com, pelo menos, doze meses de contribuições que deixem de estar abrangidos por uma caixa de reforma ou de previdência poderá ser autorizada a continuação voluntária do pagamento de contribuições, enquanto permanecerem naquela situação, desde que requeiram nesse sentido à direcção dentro dos seis meses seguintes à última contribuição obrigatória e sejam declarados aptos em exame a efectuar por médico designado pela caixa.
+Art. 81.º - 1. Aos beneficiários com, pelo menos, doze meses de contribuições que deixem de estar abrangidos por uma caixa de reforma ou de previdência poderá ser autorizada a continuação voluntária do pagamento de contribuições, enquanto permanecerem naquela situação, desde que requeiram nesse sentido à direcção dentro dos seis meses seguintes à última contribuição obrigatória e sejam declarados aptos em exame a efectuar por médico designado pela caixa.
 
 2. A continuação de contribuições respeitará ao conjunto das modalidades incluídas no estatuto.
 
-###### Art. 82.º - 1. As contribuições voluntárias nos termos do artigo anterior serão iguais às que vinham sendo pagas pelo beneficiário e serão devidas a partir do começo do mês seguinte àquele em que a direcção defira o requerimento do beneficiário, facultando-se a este o respectivo pagamento a partir da última contribuição obrigatória.
+Art. 82.º - 1. As contribuições voluntárias nos termos do artigo anterior serão iguais às que vinham sendo pagas pelo beneficiário e serão devidas a partir do começo do mês seguinte àquele em que a direcção defira o requerimento do beneficiário, facultando-se a este o respectivo pagamento a partir da última contribuição obrigatória.
 
 2. A falta de pagamento das contribuições voluntárias em relação a mais de doze meses consecutivos faz cessar a autorização concedida.
 
 #### SECÇÃO II — Restituição de contribuições
 
-###### Art. 83.º - 1. Os beneficiários que, antes de preenchido o correspondente prazo de garantia, se invalidarem para qualquer actividade profissional, ou cessarem o exercício de profissão abrangida pela caixa havendo completado 70 anos, poderão requerer o reembolso das contribuições na parte respeitante às modalidades de invalidez e velhice.
+Art. 83.º - 1. Os beneficiários que, antes de preenchido o correspondente prazo de garantia, se invalidarem para qualquer actividade profissional, ou cessarem o exercício de profissão abrangida pela caixa havendo completado 70 anos, poderão requerer o reembolso das contribuições na parte respeitante às modalidades de invalidez e velhice.
 
 2. Quando os beneficiários falecerem antes de preenchido o prazo de garantia relativo ao subsídio por morte ou à pensão de sobrevivência, será concedido aos familiares o reembolso das contribuições, na parte respeitante à modalidade ou modalidades cujo prazo de garantia não esteja vencido, como se fora subsídio por morte.
 
-###### Art. 84.º - 1. As contribuições indevidamente pagas a uma caixa de reforma ou de previdência serão restituídas a pedido dos interessados, na medida em que não sejam devidas a outra instituição da mesma categoria.
+Art. 84.º - 1. As contribuições indevidamente pagas a uma caixa de reforma ou de previdência serão restituídas a pedido dos interessados, na medida em que não sejam devidas a outra instituição da mesma categoria.
 
 2. Às contribuições a restituir será deduzido o valor de todos os benefícios que na sua base tenham sido concedidos.
 
@@ -693,47 +767,47 @@ b) Que se encontrem doentes ou por outro motivo independente da sua vontade impe
 
 4. Para os fins deste artigo, só se consideram indevidas as contribuições cujo pagamento não tenha resultado de aplicação directa de lei ou despacho não anulado contenciosamente.
 
-###### Art. 85.º O direito de requerer o reembolso ou a restituição das contribuições extingue-se pelo prazo de um ano, a contar da data da morte, no caso do n.º 2 do artigo 83.º, e da data do pagamento da última contribuição, no caso do artigo 84.º
+Art. 85.º O direito de requerer o reembolso ou a restituição das contribuições extingue-se pelo prazo de um ano, a contar da data da morte, no caso do n.º 2 do artigo 83.º, e da data do pagamento da última contribuição, no caso do artigo 84.º
 
 ### CAPÍTULO VII — Da administração
 
 #### SECÇÃO I — Direcções e conselhos gerais
 
-###### Art. 86.º A administração das caixas de reforma ou de previdência compete normalmente a direcções assistidas de conselhos gerais.
+Art. 86.º A administração das caixas de reforma ou de previdência compete normalmente a direcções assistidas de conselhos gerais.
 
 ##### SUBSECÇÃO I — Direcções
 
-###### Art. 87.º - 1. A direcção é constituída por um presidente e dois ou quatro vogais, havendo outros tantos membros substitutos, que entrarão em exercício na falta ou impedimento dos efectivos.
+Art. 87.º - 1. A direcção é constituída por um presidente e dois ou quatro vogais, havendo outros tantos membros substitutos, que entrarão em exercício na falta ou impedimento dos efectivos.
 
 2. Quando tal se justifique, haverá ainda um ou mais vice-presidentes.
 
 3. Dos vogais, um desempenhará as funções de secretário e outro as de tesoureiro, de harmonia com o que for deliberado em reunião da direcção.
 
-###### Art. 88.º - 1. Os membros da direcção serão designados pelas direcções dos organismos corporativos que representem os beneficiários ou por estes directamente quando não haja organismos constituídos.
+Art. 88.º - 1. Os membros da direcção serão designados pelas direcções dos organismos corporativos que representem os beneficiários ou por estes directamente quando não haja organismos constituídos.
 
 2. Nas caixas de reforma ou de previdência para classes representativas de interesses espirituais poderão os competentes superiores hierárquicos designar os presidentes das direcções.
 
 3. A designação dos membros da direcção é feita por três anos e está sujeita a homologação do Ministro das Corporações e Previdência Social.
 
-###### Art. 89.º - 1. A designação dos membros da direcção é feita até ao dia 15 de Dezembro do ano anterior àquele em que houverem de começar a exercer as suas funções.
+Art. 89.º - 1. A designação dos membros da direcção é feita até ao dia 15 de Dezembro do ano anterior àquele em que houverem de começar a exercer as suas funções.
 
 2. Na falta de designação no prazo referido no número anterior poderão as reuniões necessárias ser convocadas por determinação da Inspecção da Previdência Social.
 
-###### Art. 90.º Os membros da direcção são investidos no exercício das suas funções depois de aprovadas as contas da última gerência, permanecendo, entretanto, o mandato da anterior administração.
+Art. 90.º Os membros da direcção são investidos no exercício das suas funções depois de aprovadas as contas da última gerência, permanecendo, entretanto, o mandato da anterior administração.
 
-###### Art. 91.º - 1. Só podem ser designados para a direcção e continuar no desempenho dos respectivos cargos beneficiários em situação regular perante a caixa, que sejam portugueses, de maior idade e no gozo dos seus direitos civis e políticos.
+Art. 91.º - 1. Só podem ser designados para a direcção e continuar no desempenho dos respectivos cargos beneficiários em situação regular perante a caixa, que sejam portugueses, de maior idade e no gozo dos seus direitos civis e políticos.
 
 2. Não podem exercer simultâneamente cargos da direcção de uma caixa os cônjuges e os parentes ou afins em linha recta ou até ao terceiro grau da linha colateral.
 
-###### Art. 92.º Os indivíduos designados para a direcção não podem escusar-se do cargo, salvo dispensa do Ministro das Corporações e Previdência Social, em face de motivos justificados.
+Art. 92.º Os indivíduos designados para a direcção não podem escusar-se do cargo, salvo dispensa do Ministro das Corporações e Previdência Social, em face de motivos justificados.
 
-###### Art. 93.º - 1. Os cargos da direcção podem ser remunerados, mediante autorização dada por despacho do Ministro das Corporações e Previdência Social.
+Art. 93.º - 1. Os cargos da direcção podem ser remunerados, mediante autorização dada por despacho do Ministro das Corporações e Previdência Social.
 
 2. Os vogais serão indemnizados pela caixa das despesas de deslocação resultantes do exercício das suas funções.
 
-###### Art. 94.º É expressamente proibido aos membros da direcção negociar directa ou indirectamente com a caixa.
+Art. 94.º É expressamente proibido aos membros da direcção negociar directa ou indirectamente com a caixa.
 
-###### Art. 95.º Compete à direcção:
+Art. 95.º Compete à direcção:
 
 a) Administrar os valores da caixa com o maior zelo e economia, arrecadando as receitas e satisfazendo as despesas, bem como cumprir e fazer cumprir as disposições legais e estatutárias;
 
@@ -767,7 +841,7 @@ p) Elaborar regulamentos internos e submetê-los à aprovação do Ministério d
 
 q) Cumprir as determinações emanadas do mesmo Ministério, de harmonia com as normas legais ou estatutárias em vigor.
 
-###### Art. 96.º - 1. Compete especialmente:
+Art. 96.º - 1. Compete especialmente:
 
 a) Ao presidente da direcção, convocar as sessões, dirigir os trabalhos e assegurar o cumprimento das resoluções tomadas;
 
@@ -779,11 +853,11 @@ c) Ao tesoureiro, prover ao expediente da tesouraria, nunca podendo ter em caixa
 
 3. Compete em geral aos vogais auxiliar os restantes membros da direcção no desempenho das suas funções.
 
-###### Art. 97.º - 1. A direcção reunirá sempre que se torne necessário e, obrigatòriamente, uma vez por quinzena.
+Art. 97.º - 1. A direcção reunirá sempre que se torne necessário e, obrigatòriamente, uma vez por quinzena.
 
 2. Na primeira reunião de cada mês a direcção apreciará a posição das contas e procederá à conferência do movimento da tesouraria.
 
-###### Art. 98.º - 1. As reuniões da direcção não podem efectuar-se sem a presença da maioria dos seus componentes.
+Art. 98.º - 1. As reuniões da direcção não podem efectuar-se sem a presença da maioria dos seus componentes.
 
 2. As deliberações só serão válidas quando votadas pela maioria dos membros presentes.
 
@@ -795,27 +869,27 @@ c) Ao tesoureiro, prover ao expediente da tesouraria, nunca podendo ter em caixa
 
 ##### SUBSECÇÃO II — Conselhos gerais
 
-###### Art. 99.º O conselho geral é constituído por um presidente e quatro vogais, pelo menos, havendo outros tantos membros substitutos, que entrarão em exercício na falta ou impedimento dos efectivos.
+Art. 99.º O conselho geral é constituído por um presidente e quatro vogais, pelo menos, havendo outros tantos membros substitutos, que entrarão em exercício na falta ou impedimento dos efectivos.
 
-###### Art. 100.º Compete ao conselho geral:
+Art. 100.º Compete ao conselho geral:
 
 a) Apreciar e votar, na primeira quinzena de Maio, as contas e o relatório da gerência e, na segunda quinzena de Dezembro, o orçamento das despesas gerais de administração;
 
 b) Dar parecer sobre pedidos de alteração do estatuto e de mudança de categoria ou dissolução, quer por fusão, quer por simples liquidação, bem como sobre admissão de membros honorários, regulamentos internos, aceitação dos valores referidos na alínea c) do artigo 106.º e quaisquer consultas que lhe sejam feitas pela direcção no respeitante à vida da caixa.
 
-###### Art. 101.º Compete especialmente ao presidente do conselho geral ordenar as diligências necessárias para a constituição no prazo legal dos novos corpos gerentes, convocar as sessões e dirigir os trabalhos, bem como promover a execução das resoluções tomadas, cumprindo-lhe ainda assistir às reuniões previstas no n.º 2 do artigo 97.º
+Art. 101.º Compete especialmente ao presidente do conselho geral ordenar as diligências necessárias para a constituição no prazo legal dos novos corpos gerentes, convocar as sessões e dirigir os trabalhos, bem como promover a execução das resoluções tomadas, cumprindo-lhe ainda assistir às reuniões previstas no n.º 2 do artigo 97.º
 
-###### Art. 102.º - 1. São aplicáveis aos membros do conselho geral as disposições dos artigos 88.º a 92.º, 93.º, n.º 2, e 94.º
+Art. 102.º - 1. São aplicáveis aos membros do conselho geral as disposições dos artigos 88.º a 92.º, 93.º, n.º 2, e 94.º
 
 2. Nas reuniões do conselho geral observar-se-á o disposto no artigo 98.º
 
 #### SECÇÃO II — Comissões organizadoras
 
-###### Art. 103.º - 1. A administração das caixas de reforma ou de previdência em fase de organização é exercida por comissões organizadoras, na medida do necessário para a constituição das caixas.
+Art. 103.º - 1. A administração das caixas de reforma ou de previdência em fase de organização é exercida por comissões organizadoras, na medida do necessário para a constituição das caixas.
 
 2. As comissões organizadoras são nomeadas por despacho do Ministro das Corporações e Previdência Social e constituídas por três ou cinco membros, dos quais um desempenhará as funções de presidente e dois outros as de secretário e de tesoureiro.
 
-###### Art. 104.º - 1. A comissão organizadora tem as atribuições e competência conferidas à direcção por este diploma, não lhe sendo, porém, aplicáveis as alíneas h), i), parte final, j) e n) do artigo 95.º
+Art. 104.º - 1. A comissão organizadora tem as atribuições e competência conferidas à direcção por este diploma, não lhe sendo, porém, aplicáveis as alíneas h), i), parte final, j) e n) do artigo 95.º
 
 2. Compete ainda à comissão organizadora:
 
@@ -827,13 +901,13 @@ c) Remeter ao mesmo Ministério, para apreciação, até ao fim de Abril, em tri
 
 d) Possuir devidamente escriturados os livros e documentos respeitantes à administração, devendo os livros mestres ter termos de abertura e de encerramento, assinados pelo presidente da comissão organizadora e por ele rubricados.
 
-###### Art. 105.º São aplicáveis às comissões organizadoras os artigos 91.º, salvo no respeitante à exigência da qualidade de beneficiário, 93.º, 94.º, 96.º a 98.º e 101.º, primeira parte.
+Art. 105.º São aplicáveis às comissões organizadoras os artigos 91.º, salvo no respeitante à exigência da qualidade de beneficiário, 93.º, 94.º, 96.º a 98.º e 101.º, primeira parte.
 
 ### CAPÍTULO VIII — Da gestão financeira
 
 #### SECÇÃO I — Receitas e despesas
 
-###### Art. 106.º As receitas das caixas de reforma ou de previdência classificam-se nas seguintes categorias:
+Art. 106.º As receitas das caixas de reforma ou de previdência classificam-se nas seguintes categorias:
 
 a) Contribuições dos beneficiários;
 
@@ -845,7 +919,7 @@ d) Quantias prescritas a seu favor;
 
 e) Outras receitas.
 
-###### Art. 107.º As despesas das caixas de reforma ou de previdência classificam-se nas seguintes categorias:
+Art. 107.º As despesas das caixas de reforma ou de previdência classificam-se nas seguintes categorias:
 
 a) Pensões de invalidez;
 
@@ -865,7 +939,7 @@ h) Outras despesas.
 
 #### SECÇÃO II — Fundos
 
-###### Art. 108.º - 1. As caixas de reforma ou de previdência terão os seguintes fundos:
+Art. 108.º - 1. As caixas de reforma ou de previdência terão os seguintes fundos:
 
 a) Fundo de reservas matemáticas;
 
@@ -877,15 +951,15 @@ d) Fundo de administração.
 
 2. As caixas poderão constituir outros fundos, em conformidade com o que for determinado ou autorizado por despacho do Ministro das Corporações e Previdência Social.
 
-###### Art. 109.º - 1. O fundo de reservas matemáticas destina-se a assegurar a cobertura actuarial dos compromissos estatutários.
+Art. 109.º - 1. O fundo de reservas matemáticas destina-se a assegurar a cobertura actuarial dos compromissos estatutários.
 
 2. Este fundo é constituído, em conformidade com os resultados dos balanços actuariais, pelas contribuições relativas às modalidades de previdência, pelos juros de mora e pelo rendimento do próprio fundo, na parte não utilizada na efectivação dos encargos correspondentes àquelas modalidades.
 
-###### Art. 110.º - 1. O fundo de reserva destina-se a garantir a instituição contra qualquer emergência imprevista.
+Art. 110.º - 1. O fundo de reserva destina-se a garantir a instituição contra qualquer emergência imprevista.
 
 2. Este fundo é constituído pelas quantias que lhe forem atribuídas nos termos do n.º 2 do artigo 113.º e do n.º 2 do artigo 119.º
 
-###### Art. 111.º - 1. O fundo de assistência destina-se a assegurar o equilíbrio financeiro da acção de assistência.
+Art. 111.º - 1. O fundo de assistência destina-se a assegurar o equilíbrio financeiro da acção de assistência.
 
 2. Constituem receitas deste fundo:
 
@@ -893,7 +967,7 @@ a) A parte, não utilizada na acção de assistência, das receitas anuais menci
 
 b) As quantias que lhe forem atribuídas nos termos do n.º 2 do artigo 113.º e do n.º 2 do artigo 119.º
 
-###### Art. 112.º - 1. O fundo de administração destina-se a assegurar o equilíbrio financeiro da gestão dos serviços administrativos.
+Art. 112.º - 1. O fundo de administração destina-se a assegurar o equilíbrio financeiro da gestão dos serviços administrativos.
 
 2. Constituem receitas deste fundo:
 
@@ -901,13 +975,13 @@ a) O valor anual das contribuições consignadas pelo estatuto à gestão admini
 
 b) As quantias que lhe forem atribuídas nos termos do n.º 2 do artigo 113.º
 
-###### Art. 113.º - 1. As caixas elaborarão balanços actuariais pelo menos de cinco em cinco anos.
+Art. 113.º - 1. As caixas elaborarão balanços actuariais pelo menos de cinco em cinco anos.
 
 2. Nos anos em que se efectue balanço actuarial, os saldos anuais de gerência das modalidades de previdência serão repartidos, depois de constituídas as reservas matemáticas, pelos diversos fundos da instituição, conforme o determinado pelo Ministro das Corporações e Previdência Social.
 
 #### SECÇÃO III — Aplicação de valores
 
-###### Art. 114.º - 1. Os valores das caixas de reforma ou de previdência só poderão ser representados em dinheiro ou aplicados em:
+Art. 114.º - 1. Os valores das caixas de reforma ou de previdência só poderão ser representados em dinheiro ou aplicados em:
 
 a) Títulos do Estado ou por ele garantidos;
 
@@ -923,19 +997,19 @@ d) Investimentos de carácter social, pela construção de habitações económi
 
 4. As aplicações previstas neste artigo dependem de autorização do Ministro das Corporações e Previdência Social.
 
-###### Art. 115.º - 1. Os títulos mencionados nas alíneas a) e b) do n.º 1 do artigo anterior e os imóveis em que tenham sido aplicados os valores não podem ser alienados, trocados ou onerados sem prévia autorização do Ministro das Corporações e Previdência Social.
+Art. 115.º - 1. Os títulos mencionados nas alíneas a) e b) do n.º 1 do artigo anterior e os imóveis em que tenham sido aplicados os valores não podem ser alienados, trocados ou onerados sem prévia autorização do Ministro das Corporações e Previdência Social.
 
 2. As operações de alienação ou troca de títulos referidos na alínea a) do n.º 1 do artigo anterior serão efectuadas por intermédio da Direcção-Geral da Fazenda Pública, sempre que o outro contraente não seja instituição de previdência social.
 
-###### Art. 116.º - 1. Com excepção da quantia máxima que os estatutos permitam aos tesoureiros ter em caixa, os valores em dinheiro serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da direcção da instituição, só podendo ser movimentados por meio de cheques assinados pelo presidente e pelo tesoureiro. Na falta ou impedimento do presidente, a sua assinatura poderá ser substituída pela do vice-presidente ou, na falta deste, pela do vogal por aquele designado.
+Art. 116.º - 1. Com excepção da quantia máxima que os estatutos permitam aos tesoureiros ter em caixa, os valores em dinheiro serão depositados na Caixa Geral de Depósitos, Crédito e Previdência, à ordem da direcção da instituição, só podendo ser movimentados por meio de cheques assinados pelo presidente e pelo tesoureiro. Na falta ou impedimento do presidente, a sua assinatura poderá ser substituída pela do vice-presidente ou, na falta deste, pela do vogal por aquele designado.
 
 2. Para o efeito da realização de despesa que em cada mês não possa ficar directamente a cargo das tesourarias das instituições, caberá a estas proceder à designação de agentes por meio de acordos com entidades públicas e administrativas, com a Caixa Geral de Depósitos, Crédito e Previdência ou outros estabelecimentos bancários ou com firmas comerciais idóneas.
 
-###### Art. 117.º À designação de representantes das caixas de reforma ou de previdência nos corpos gerentes das empresas ou entidades de que aquelas sejam accionistas são aplicáveis as normas reguladoras da representação do Estado em empresas privadas.
+Art. 117.º À designação de representantes das caixas de reforma ou de previdência nos corpos gerentes das empresas ou entidades de que aquelas sejam accionistas são aplicáveis as normas reguladoras da representação do Estado em empresas privadas.
 
 ### CAPÍTULO IX — Das isenções e regalias
 
-###### Art. 118.º - 1. As caixas de reforma ou de previdência gozam das isenções seguintes:
+Art. 118.º - 1. As caixas de reforma ou de previdência gozam das isenções seguintes:
 
 a) Da contribuição industrial;
 
@@ -953,7 +1027,7 @@ g) Do imposto de mais-valias.
 
 2. É aplicável aos títulos referidos na alínea a) do n.º 1 do artigo 114.º o disposto no § 3.º do artigo 84.º do [Decreto n.º 31090](https://diariodarepublica.pt/dr/detalhe/decreto/31090-1940-400463), de 30 de Dezembro de 1940, salvo se com a sua alienação se tiver em vista proporcionar habitação a beneficiários.
 
-###### Art. 119.º - 1. As caixas de reforma ou de previdência gozam das regalias ou faculdades seguintes:
+Art. 119.º - 1. As caixas de reforma ou de previdência gozam das regalias ou faculdades seguintes:
 
 a) Despedir no fim do arrendamento, quando instaladas em edifício próprio, qualquer dos seus inquilinos, se necessitarem da parte por eles ocupada para as suas instalações ou serviços;
 
@@ -967,11 +1041,11 @@ d) Requisitar às conservatórias do registo civil, quando tal se tornar indispe
 
 3. Às certidões referidas na alínea d) do n.º 1 deste artigo é aplicável o disposto na alínea c) do n.º 1 do artigo 29.º da tabela anexa ao Código do Registo Civil.
 
-###### Art. 120.º Os créditos por contribuições devidas às caixas de reforma ou de previdência gozam de privilégio mobiliário geral graduado a seguir ao estabelecido no artigo 167.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
+Art. 120.º Os créditos por contribuições devidas às caixas de reforma ou de previdência gozam de privilégio mobiliário geral graduado a seguir ao estabelecido no artigo 167.º do [Decreto n.º 45266](https://diariodarepublica.pt/dr/detalhe/decreto/45266-1963-686801), de 23 de Setembro de 1963.
 
 ### CAPÍTULO X — Das penalidades
 
-###### Art. 121.º - 1. Os membros dos corpos gerentes das caixas de reforma ou de previdência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções.
+Art. 121.º - 1. Os membros dos corpos gerentes das caixas de reforma ou de previdência são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções.
 
 Consideram-se isentos de responsabilidade os que não tiverem intervindo na resolução ou a desaprovarem, com declaração no livro de actas.
 
@@ -985,7 +1059,7 @@ a) Com a aprovação pelo conselho geral;
 
 b) Não havendo conselho geral, com a aposição de visto, sem reservas sobre a regularidade das contas, pelos serviços competentes do Ministério das Corporações e Previdência Social, ou, passados dois anos, sem a aposição daquele visto.
 
-###### Art. 122.º - 1. Os beneficiários das caixas de reforma ou de previdência serão suspensos de benefícios:
+Art. 122.º - 1. Os beneficiários das caixas de reforma ou de previdência serão suspensos de benefícios:
 
 a) Por um a seis meses, os que tentarem iludir, por actos ou omissões, os serviços da caixa, com o fim de obterem benefícios indevidos ou de se subtraírem às obrigações estatutárias;
 
@@ -997,38 +1071,38 @@ b) Por dois meses a um ano, os que, com intenção fraudulenta, tenham obtido be
 
 ### CAPÍTULO XI — Disposições finais e transitórias
 
-###### Art. 123.º As caixas de reforma ou de previdência estão subordinadas ao Ministério das Corporações e Previdência Social e sujeitas à sua fiscalização, dele recebendo as instruções e directivas convenientes ao seu aperfeiçoamento e consolidação.
+Art. 123.º As caixas de reforma ou de previdência estão subordinadas ao Ministério das Corporações e Previdência Social e sujeitas à sua fiscalização, dele recebendo as instruções e directivas convenientes ao seu aperfeiçoamento e consolidação.
 
-###### Art. 124.º O Ministro das Corporações e Previdência Social, por iniciativa própria ou sob proposta dos serviços competentes ou dos corpos gerentes das instituições, pode conferir louvor ou outra recompensa honorífica às pessoas ou entidades que, por forma notável, hajam contribuído para o prestígio e desenvolvimento das caixas de reforma ou de previdência.
+Art. 124.º O Ministro das Corporações e Previdência Social, por iniciativa própria ou sob proposta dos serviços competentes ou dos corpos gerentes das instituições, pode conferir louvor ou outra recompensa honorífica às pessoas ou entidades que, por forma notável, hajam contribuído para o prestígio e desenvolvimento das caixas de reforma ou de previdência.
 
-###### Art. 125.º- 1. No caso de aplicação do n.º 2 do artigo 121.º, ou quando outros motivos ponderosos o justifiquem, a direcção e o conselho geral podem ser substituídos por uma comissão administrativa.
+Art. 125.º- 1. No caso de aplicação do n.º 2 do artigo 121.º, ou quando outros motivos ponderosos o justifiquem, a direcção e o conselho geral podem ser substituídos por uma comissão administrativa.
 
 2. A comissão administrativa tem as atribuições e competência previstas neste diploma para a direcção e são-lhe aplicáveis os artigos 91.º, salvo no respeitante à exigência da qualidade de beneficiário, 93.º, 94.º, 96.º a 98.º e 103.º, n.º 2. Se a substituição abranger o conselho geral, observar-se-ão ainda, com as adaptações indispensáveis, os artigos 101.º, primeira parte, e 104.º
 
 3. A comissão administrativa deve apresentar trimestralmente relatório da sua actividade ao Ministério das Corporações e Previdência Social.
 
-###### Art. 126.º - 1. Quando a variação do custo de vida o justifique e desde que o equilíbrio financeiro das instituições o permita, o Ministro das Corporações e Previdência Social pode autorizar, por despacho publicado no Diário do Governo, a actualização, total ou parcial, das pensões.
+Art. 126.º - 1. Quando a variação do custo de vida o justifique e desde que o equilíbrio financeiro das instituições o permita, o Ministro das Corporações e Previdência Social pode autorizar, por despacho publicado no Diário do Governo, a actualização, total ou parcial, das pensões.
 
 2. O despacho referido no número anterior poderá restringir a actualização às pensões de nível mais modesto e estabelecer aumentos degressivos em relação ao montante das pensões.
 
-###### Art. 127.º - 1. Em relação aos beneficiários que fiquem inscritos em idade que não lhes permita, mesmo tendo em conta o disposto no artigo 29.º, o preenchimento, até aos 70 anos, do prazo de garantia estabelecido para a reforma, poderão os estatutos permitir o pagamento, por uma só vez ou em prestações cuja duração não ultrapasse aquele limite de idade, das contribuições que faltem para completar o referido prazo.
+Art. 127.º - 1. Em relação aos beneficiários que fiquem inscritos em idade que não lhes permita, mesmo tendo em conta o disposto no artigo 29.º, o preenchimento, até aos 70 anos, do prazo de garantia estabelecido para a reforma, poderão os estatutos permitir o pagamento, por uma só vez ou em prestações cuja duração não ultrapasse aquele limite de idade, das contribuições que faltem para completar o referido prazo.
 
 2. Os beneficiários a que se refere o número anterior só poderão usar da faculdade nele prevista dentro do prazo de seis meses posterior à sua inscrição e se à data em que a usem faltarem, pelo menos, dois anos para atingirem a mencionada idade limite, sendo ainda necessário que não tenham decorrido mais de cinco anos sobre a entrada em vigor dos estatutos ou do seu alargamento de âmbito à actividade profissional em causa.
 
-###### Art. 128.º As caixas de reforma ou de previdência cooperarão entre si e com as demais instituições de previdência na realização de fins comuns, mediante acordos ou por outra forma julgada conveniente.
+Art. 128.º As caixas de reforma ou de previdência cooperarão entre si e com as demais instituições de previdência na realização de fins comuns, mediante acordos ou por outra forma julgada conveniente.
 
-###### Art. 129.º Para a realização dos seus fins, designadamente os previstos no artigo 2.º, as caixas de reforma ou de previdência poderão dispor de um serviço social especializado.
+Art. 129.º Para a realização dos seus fins, designadamente os previstos no artigo 2.º, as caixas de reforma ou de previdência poderão dispor de um serviço social especializado.
 
-###### Art. 130.º Não serão prejudicados por efeito deste diploma ou de disposições estatutárias estabelecidas em sua aplicação os direitos, ainda que em formação, reconhecidos pelos actuais regulamentos das caixas de reforma ou de previdência.
+Art. 130.º Não serão prejudicados por efeito deste diploma ou de disposições estatutárias estabelecidas em sua aplicação os direitos, ainda que em formação, reconhecidos pelos actuais regulamentos das caixas de reforma ou de previdência.
 
-###### Art. 131.º As instituições existentes, de estrutura correspondente às definidas no n.º 3 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, continuarão a reger-se pelos seus actuais regulamentos enquanto não tiverem novos estatutos aprovados de harmonia com o presente diploma.
+Art. 131.º As instituições existentes, de estrutura correspondente às definidas no n.º 3 da base III da [Lei n.º 2115](https://diariodarepublica.pt/dr/detalhe/lei/2115-1962-164986), de 18 de Junho de 1962, continuarão a reger-se pelos seus actuais regulamentos enquanto não tiverem novos estatutos aprovados de harmonia com o presente diploma.
 
-###### Art. 132.º A legislação complementar da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, não se aplicará às instituições reguladas pelo presente diploma em tudo quanto este dispuser e no que for incompatível com a estrutura e fins das mesmas.
+Art. 132.º A legislação complementar da [Lei n.º 1884](https://diariodarepublica.pt/dr/detalhe/lei/1884-1935-380290), de 16 de Março de 1935, não se aplicará às instituições reguladas pelo presente diploma em tudo quanto este dispuser e no que for incompatível com a estrutura e fins das mesmas.
 
-###### Art. 133.º Ficam expressamente revogados os Decretos n.os 28321, de 27 de Dezembro de 1937, e 37749, de 2 de Fevereiro de 1950.
+Art. 133.º Ficam expressamente revogados os Decretos n.os 28321, de 27 de Dezembro de 1937, e 37749, de 2 de Fevereiro de 1950.
 
-###### Art. 134.º Os casos omissos e as dúvidas suscitadas na execução deste diploma ou dos estatutos das caixas de reforma ou de previdência serão resolvidos por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
+Art. 134.º Os casos omissos e as dúvidas suscitadas na execução deste diploma ou dos estatutos das caixas de reforma ou de previdência serão resolvidos por despacho do Ministro das Corporações e Previdência Social, publicado no Diário do Governo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

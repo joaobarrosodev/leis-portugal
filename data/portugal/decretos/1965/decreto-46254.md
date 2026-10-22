@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46254-1965-238642
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:40Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 73c5a6bf08d797c694eb6ed51b5d0a6c1f9b41511f7e9e543adf21ae0887296d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fbdc9db0f82b78bb21b0a72906d99b184203b768f23c8b4dcb5e1cf092909d36
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:40Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:156274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:463597:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:40Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +106,7 @@ Por motivo de urgência, nos termos do § 1.º do artigo 150.º da Constituiçã
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na dependência da Junta de Investigações do Ultramar é criado o Museu de Etnologia do Ultramar.
+Artigo 1.º Na dependência da Junta de Investigações do Ultramar é criado o Museu de Etnologia do Ultramar.
 
 § 1.º O Museu de Etnologia do Ultramar gozará de autonomia administrativa e financeira, terá orçamento próprio, aprovado anualmente pelo Ministro do Ultramar, e prestará contas na forma da lei.
 
@@ -106,7 +114,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 3.º Logo que for estruturado o Museu do Ultramar, previsto no n.º 20.º do artigo 11.º do [Decreto-Lei n.º 35395](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35395-1945-463597), de 26 de Dezembro de 1945, o Museu de Etnologia do Ultramar será integrado nele sob a forma de sector ou de departamento, definindo-se nessa altura a sua articulação com a direcção superior do museu a criar.
 
-###### Art. 2.º O Museu de Etnologia do Ultramar tem como finalidades principais a recolha, conservação, restauro e catalogação de todos os materais que, pelo seu interesse etnológico ou antropológico, convenha reunir e preservar como elementos de estudo e de exposição. O Museu tem igualmente por objectivo funcionar como centro de educação e órgão impulsionador da investigação dentro dos ramos da ciência que lhe estão adstritos.
+Art. 2.º O Museu de Etnologia do Ultramar tem como finalidades principais a recolha, conservação, restauro e catalogação de todos os materais que, pelo seu interesse etnológico ou antropológico, convenha reunir e preservar como elementos de estudo e de exposição. O Museu tem igualmente por objectivo funcionar como centro de educação e órgão impulsionador da investigação dentro dos ramos da ciência que lhe estão adstritos.
 
 § 1.º Para cumprimento das suas atribuições, definidas no corpo do artigo, compete ao Museu:
 
@@ -142,13 +150,13 @@ e) Um depósito de aparelhos, ferramentas e outro material necessário à invest
 
 f) Um serviço de publicações.
 
-###### Art. 3.º As actividades do Museu classificar-se-ão em dois grandes sectores: arqueologia e etnologia. Estes dois sectores dividir-se-ão em secções e subsecções, que por sua vez poderão ser reunidas em grupos relativos às áreas culturais a que pertencerem os materiais e documentos na posse do Museu.
+Art. 3.º As actividades do Museu classificar-se-ão em dois grandes sectores: arqueologia e etnologia. Estes dois sectores dividir-se-ão em secções e subsecções, que por sua vez poderão ser reunidas em grupos relativos às áreas culturais a que pertencerem os materiais e documentos na posse do Museu.
 
 § único. Compete ao Ministro do Ultramar, com parecer favorável da Junta de Investigações do Ultramar, criar as secções, subsecções e grupos a que se refere o corpo do artigo.
 
 Do património cultural do Museu
 
-###### Art. 4.º Constituem o património cultural do Museu todos os materiais e outros documentos etnológicos, o arquivo fotográfico, a filmoteca e as colecções de gravações sonoras, seja qual for a sua proveniência, que adquira a título gratuito ou oneroso, ou por colheita directa, ou ainda por permuta com entidades congéneres, nacionais ou estrangeiras.
+Art. 4.º Constituem o património cultural do Museu todos os materiais e outros documentos etnológicos, o arquivo fotográfico, a filmoteca e as colecções de gravações sonoras, seja qual for a sua proveniência, que adquira a título gratuito ou oneroso, ou por colheita directa, ou ainda por permuta com entidades congéneres, nacionais ou estrangeiras.
 
 § 1.º A aceitação de doações ou legados que impliquem quaisquer ónus ou encargos terá de ser aprovada pelo Ministro do Ultramar.
 
@@ -156,7 +164,7 @@ Do património cultural do Museu
 
 § 3.º O Museu poderá aceitar o depósito de materiais e outros documentos etnológicos. Quando para o depósito sejam exigidas quaisquer garantias especiais, a sua aprovação terá de ser feita pelo Ministro do Ultramar, ouvida a Junta de Investigações do Ultramar.
 
-###### Art. 5.º Todos os materiais e documentos que constituírem o património cultural do Museu e, bem assim, os materiais e documentos em depósito, serão objecto de um inventário, do qual constará descrição pormenorizada de cada peça ou documento, o seu valor provável, a forma como foi adquirido ou a indicação de que se acha em depósito e o local de armazenagem ou de exposição, além de outras indicações que forem julgadas convenientes.
+Art. 5.º Todos os materiais e documentos que constituírem o património cultural do Museu e, bem assim, os materiais e documentos em depósito, serão objecto de um inventário, do qual constará descrição pormenorizada de cada peça ou documento, o seu valor provável, a forma como foi adquirido ou a indicação de que se acha em depósito e o local de armazenagem ou de exposição, além de outras indicações que forem julgadas convenientes.
 
 § 1.º O regulamento interno, que fixará as regras de conservação dos materiais e documentos existentes no Museu, distribuição, venda ou permuta de publicações ou de reprodução de peças e documentos, dias e horas em que o Museu estará patente ao público, preços das entradas e outros pormenores de funcionamento, será aprovado por despacho do Ministro do Ultramar, sob proposta da Junta de Investigações do Ultramar.
 
@@ -164,7 +172,7 @@ Do património cultural do Museu
 
 Da direcção e dos órgãos colectivos do Museu
 
-###### Art. 6.º O Museu terá um director, um subdirector e o demais pessoal que for necessário ao seu funcionamento e ao cumprimento das missões que lhe estão ou vierem a estar cometidas.
+Art. 6.º O Museu terá um director, um subdirector e o demais pessoal que for necessário ao seu funcionamento e ao cumprimento das missões que lhe estão ou vierem a estar cometidas.
 
 § 1.º Desempenha as funções de director do Museu o director do Centro de Antropologia Cultural da Junta de Investigações do Ultramar.
 
@@ -172,17 +180,17 @@ Da direcção e dos órgãos colectivos do Museu
 
 § 3.º O director e o subdirector do Museu receberão as gratificações fixadas por despacho do Ministro do Ultramar.
 
-###### Art. 7.º O Museu terá um conselho cultural, constituído pelo director, que presidirá, pelo subdirector, pelo director do Centro de Antropobiologia e por três especialistas de comprovado mérito nos domínios das ciências etnológicas, nomeados pelo Ministro do Ultramar, ouvida a Junta de Investigações do Ultramar. Secretariará um funcionário do Museu, para o efeito designado pelo director.
+Art. 7.º O Museu terá um conselho cultural, constituído pelo director, que presidirá, pelo subdirector, pelo director do Centro de Antropobiologia e por três especialistas de comprovado mérito nos domínios das ciências etnológicas, nomeados pelo Ministro do Ultramar, ouvida a Junta de Investigações do Ultramar. Secretariará um funcionário do Museu, para o efeito designado pelo director.
 
 § 1.º O conselho cultural reunirá sempre que for convocado pelo director do Museu ou quando a maioria dos seus membros o achar conveniente.
 
 § 2.º Os membros do conselho, excepto o director e o subdirector do Museu, terão direito a senhas de presença relativas a cada reunião a que assistam, cujo montante será o fixado para as sessões plenárias da Junta de Investigações do Ultramar. Cada membro do conselho não poderá receber em cada ano quantia superior à relativa a 24 senhas de presença.
 
-###### Art. 8.º O Museu terá ainda um conselho administrativo, constituído pelo director, que presidirá, pelo subdirector e por um membro do conselho cultural, designado anualmente pelo Ministro do Ultramar, sob proposta da Junta de Investigações do Ultramar. Servirá de secretário o chefe dos serviços administrativos do Museu.
+Art. 8.º O Museu terá ainda um conselho administrativo, constituído pelo director, que presidirá, pelo subdirector e por um membro do conselho cultural, designado anualmente pelo Ministro do Ultramar, sob proposta da Junta de Investigações do Ultramar. Servirá de secretário o chefe dos serviços administrativos do Museu.
 
 § único. O conselho administrativo reunirá sempre que for convocado pelo director do Museu.
 
-###### Art. 9.º Compete ao director do Museu;
+Art. 9.º Compete ao director do Museu;
 
 a) Dirigir superiormente todo o Museu, velando pela prossecução dos seus fins, pela manutenção da ordem e da disciplina dentro dele e, bem assim, pelo cumprimento de disposições legais e regulamentares e dos despachos que se refiram aos seus serviços;
 
@@ -212,7 +220,7 @@ m) Enviar à Junta de Investigações do Ultramar, até ao dia 31 de Março de c
 
 n) Executar as demais tarefas relacionadas com as actividades do Museu de que seja incumbido pelo Ministro do Ultramar.
 
-###### Art. 10.º Compete ao conselho cultural dar parecer:
+Art. 10.º Compete ao conselho cultural dar parecer:
 
 a) Sobre as propostas do director para a aquisição de quaisquer espécies para as colecções do Museu, aceitação de doações ou legados, recebimentos em depósito, permutas ou destruição de materiais ou outros documentos;
 
@@ -228,7 +236,7 @@ f) Sobre o merecimento de artigos, estudos ou ensaios para efeitos de publicaç�
 
 § único. Das sessões do conselho cultural será lavrada acta, de que se enviará cópia à Junta de Investigações do Ultramar.
 
-###### Art. 11.º Compete ao conselho administrativo:
+Art. 11.º Compete ao conselho administrativo:
 
 a) Autorizar as despesas cuja autorização, nos termos da lei, não esteja na competência do director;
 
@@ -244,22 +252,22 @@ e) Velar pelo património do Museu e providenciar pela permanente actualização
 
 Dos quadros do pessoal do Museu e do seu provimento
 
-###### Art. 12.º O Museu terá o pessoal técnico, científico, laboratorial e oficinal indispensável ao desempenho das suas funções.
+Art. 12.º O Museu terá o pessoal técnico, científico, laboratorial e oficinal indispensável ao desempenho das suas funções.
 
-###### Art. 13.º O Museu terá uma secretaria, dirigida por um chefe de serviços de expediente e contabilidade, com o pessoal maior e menor necessário ao exercício das suas funções.
+Art. 13.º O Museu terá uma secretaria, dirigida por um chefe de serviços de expediente e contabilidade, com o pessoal maior e menor necessário ao exercício das suas funções.
 
-###### Art. 14.º As normas do recrutamento, provimento e promoção e as remunerações do pessoal do Museu serão as que vigorarem para o pessoal correspondente ou equiparável da Junta de Investigações do Ultramar.
+Art. 14.º As normas do recrutamento, provimento e promoção e as remunerações do pessoal do Museu serão as que vigorarem para o pessoal correspondente ou equiparável da Junta de Investigações do Ultramar.
 
 Disposições finais
 
-###### Art. 15.º O Museu de Etnologia do Ultramar disporá de edifício apropriado, adquirido ou a qualquer título cedido para o efeito, onde funcionará o Centro de Estudos de Antropologia Cultural.
+Art. 15.º O Museu de Etnologia do Ultramar disporá de edifício apropriado, adquirido ou a qualquer título cedido para o efeito, onde funcionará o Centro de Estudos de Antropologia Cultural.
 
 § único. Enquanto se não dispuser do edifício referido no presente artigo, a armagenazem de todo o material e documentos e o seu estudo far-se-ão em instalações provisórias adequadas, junto do Centro de Estudos de Antropologia Cultural.
 
-###### Art. 16.º É permitida a utilização pelo Museu dos serviços dos actuais investigadores e demais servidores do Centro de Antropologia Cultural.
+Art. 16.º É permitida a utilização pelo Museu dos serviços dos actuais investigadores e demais servidores do Centro de Antropologia Cultural.
 
-###### Art. 17.º Fica extinta a Missão Organizadora do Museu do Ultramar, criada pela [Portaria n.º 19480](https://diariodarepublica.pt/dr/detalhe/portaria/19480-1962-156274), de 5 de Novembro de 1962, passando as respectivas atribuições, pessoal e dotações para o Museu de Etnologia.
+Art. 17.º Fica extinta a Missão Organizadora do Museu do Ultramar, criada pela [Portaria n.º 19480](https://diariodarepublica.pt/dr/detalhe/portaria/19480-1962-156274), de 5 de Novembro de 1962, passando as respectivas atribuições, pessoal e dotações para o Museu de Etnologia.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.

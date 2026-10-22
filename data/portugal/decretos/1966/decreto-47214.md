@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47214-1966-480168
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f582a6dee702ed6cd1797088bba70ad3417126e097ca1fba253c17d257dedc8d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 874a43444ee3c7df292686eca85e4b54bb377d66b0139d34b9b659ffdf0d2d53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:27Z'
   warnings: []
   errors: []
 ---
@@ -84,17 +88,17 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos termos da base XV da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, é criada a Corporação da Assistência, que constitui a organização unitária das actividades particulares de assistência e tem por fim coordenar, representar e defender os seus interesses de ordem material, moral e espiritual à luz da solidariedade humana e do bem comum nacional.
+Artigo 1.º Nos termos da base XV da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, é criada a Corporação da Assistência, que constitui a organização unitária das actividades particulares de assistência e tem por fim coordenar, representar e defender os seus interesses de ordem material, moral e espiritual à luz da solidariedade humana e do bem comum nacional.
 
-###### Art. 2.º A Corporação da Assistência, adiante designada apenas por Corporação, é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
+Art. 2.º A Corporação da Assistência, adiante designada apenas por Corporação, é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
 
-###### Art. 3.º A Corporação exerce a sua actividade no plano nacional em colaboração com o Estado, através do Ministério da Saúde e Assistência, e com as demais corporações, e no respeito absoluto pelos superiores interesses nacionais.
+Art. 3.º A Corporação exerce a sua actividade no plano nacional em colaboração com o Estado, através do Ministério da Saúde e Assistência, e com as demais corporações, e no respeito absoluto pelos superiores interesses nacionais.
 
-###### Art. 4.º - 1. A Corporação é formada pelo conjunto das Misericórdias e demais instituições de assistência.
+Art. 4.º - 1. A Corporação é formada pelo conjunto das Misericórdias e demais instituições de assistência.
 
 2. Para efeitos deste diploma, consideram-se instituições de assistência as que tenham estatutos ou regulamentos devidamente aprovados, nessa qualidade.
 
-###### Art. 5.º São atribuições da Corporação:
+Art. 5.º São atribuições da Corporação:
 
 a) Representar e defender, nomeadamente na Câmara Corporativa, junto do Governo e dos órgãos da Administração, os interesses das instituições particulares de assistência;
 
@@ -108,7 +112,7 @@ e) Dar parecer ao Governo sobre todos os assuntos que lhe sejam submetidos;
 
 f) Representar as instituições particulares de assistência em congressos e reuniões nacionais e internacionais, quando estas não devam representar-se individualmente.
 
-###### Art. 6.º São órgãos da Corporação:
+Art. 6.º São órgãos da Corporação:
 
 O conselho;
 
@@ -116,13 +120,13 @@ A direcção;
 
 A junta arbitral.
 
-###### Art. 7.º - 1. O conselho da Corporação é composto por dois representantes das instituições de assistência de cada distrito, sendo um das Misericórdias, e por mais um representante de cada uma das instituições de relevância nacional.
+Art. 7.º - 1. O conselho da Corporação é composto por dois representantes das instituições de assistência de cada distrito, sendo um das Misericórdias, e por mais um representante de cada uma das instituições de relevância nacional.
 
 2. Compete ao conselho da Corporação propor ao Ministro da Saúde e Assistência as instituições que, pela sua posição, amplitude de acção ou importância, devam ser qualificadas como de relevância nacional.
 
 3. Os representantes das instituições distritais serão eleitos por estas, nos termos que forem fixados em portaria conjunta dos Ministros das Corporações e Previdência Social e da Saúde e Assistência.
 
-###### Art. 8.º - 1. O conselho poderá funcionar por secções constituídas por especialidade ou por zonas geográficas, sempre que a natureza ou o âmbito do assunto o justifique. Poderão igualmente agrupar-se por secções, dentro do conselho, as Misericórdias e as demais instituições de assistência.
+Art. 8.º - 1. O conselho poderá funcionar por secções constituídas por especialidade ou por zonas geográficas, sempre que a natureza ou o âmbito do assunto o justifique. Poderão igualmente agrupar-se por secções, dentro do conselho, as Misericórdias e as demais instituições de assistência.
 
 2. Compete ao presidente da Corporação convocar e orientar a actividade das secções.
 
@@ -130,7 +134,7 @@ A junta arbitral.
 
 4. O presidente poderá convidar para participarem no trabalho das secções individualidades de reconhecida competência, com voto consultivo e em número não superior ao dos membros da secção.
 
-###### Art. 9.º Compete ao conselho da Corporação:
+Art. 9.º Compete ao conselho da Corporação:
 
 a) Eleger o presidente da Corporação e os vogais da direcção e da junta arbitral, bem como os respectivos substitutos;
 
@@ -150,7 +154,7 @@ h) Discutir e votar os orçamentos, bem como os relatórios e contas de gerênci
 
 i) Desempenhar as mais funções que pelo presente diploma ou pelo regime da Corporação lhe sejam atribuídas.
 
-###### Art. 10.º Às secções do conselho, constituídas nos termos do artigo 8.º, competirá:
+Art. 10.º Às secções do conselho, constituídas nos termos do artigo 8.º, competirá:
 
 a) Realizar os estudos e elaborar os pareceres de que forem incumbidas pelo conselho da Corporação;
 
@@ -158,15 +162,15 @@ b) Coadjuvar a direcção, fornecendo-lhe os pareceres que esta solicitar;
 
 c) Exercer as atribuições da Corporação que pelo conselho lhe forem deferidas ou sugerir as providências que considerarem convenientes para o desempenho das suas funções.
 
-###### Art. 11.º Como elementos de ligação entre o Estado e a Corporação terão assento no conselho representantes dos institutos coordenadores de assistência e dos serviços hospitalares, que participarão nos trabalhos do conselho e respectivas secções com voto consultivo.
+Art. 11.º Como elementos de ligação entre o Estado e a Corporação terão assento no conselho representantes dos institutos coordenadores de assistência e dos serviços hospitalares, que participarão nos trabalhos do conselho e respectivas secções com voto consultivo.
 
-###### Art. 12.º - 1. O conselho reunirá ordinàriamente no primeiro e no último trimestre de cada ano para apreciar a actividade da Corporação e para discutir e votar, respectivamente, o relatório e contas da gerência do ano anterior e o orçamento do ano seguinte, e reunirá no fim de cada quadriénio para eleger os corpos gerentes e designar os representantes à Câmara Corporativa para o quadriénio imediato.
+Art. 12.º - 1. O conselho reunirá ordinàriamente no primeiro e no último trimestre de cada ano para apreciar a actividade da Corporação e para discutir e votar, respectivamente, o relatório e contas da gerência do ano anterior e o orçamento do ano seguinte, e reunirá no fim de cada quadriénio para eleger os corpos gerentes e designar os representantes à Câmara Corporativa para o quadriénio imediato.
 
 2. O conselho, reunirá extraordinàriamente por convocação da direcção ou quando metade, pelo menos, dos seus membros o requeira.
 
-###### Art. 13.º A direcção da Corporação é constituída pelo presidente e por quatro vogais, eleitos pelo conselho de entre os seus membros ou dirigentes das instituições incorporadas.
+Art. 13.º A direcção da Corporação é constituída pelo presidente e por quatro vogais, eleitos pelo conselho de entre os seus membros ou dirigentes das instituições incorporadas.
 
-###### Art. 14.º Compete ao presidente da Corporação:
+Art. 14.º Compete ao presidente da Corporação:
 
 a) Representar a Corporação perante os órgãos da administração pública, os tribunais e quaisquer outras entidades;
 
@@ -180,7 +184,7 @@ e) Zelar por que a Corporação exerça a função nacional que lhe é própria;
 
 f) Providenciar para que a direcção desenvolva a actividade que lhe compete dentro da orientação definida pelo conselho.
 
-###### Art. 15.º Compete à direcção tomar decisões e superintender nos assuntos a que se refere o artigo 5.º, dentro das linhas de acção definidas pelo conselho da Corporação, e, nomeadamente:
+Art. 15.º Compete à direcção tomar decisões e superintender nos assuntos a que se refere o artigo 5.º, dentro das linhas de acção definidas pelo conselho da Corporação, e, nomeadamente:
 
 a) Patrocinar os interesses das instituições que constituem a Corporação;
 
@@ -206,22 +210,22 @@ l) Arrecadar as receitas da Corporação e satisfazer as respectivas despesas, n
 
 m) Deliberar sobre a propositura de acções judiciais, confessar, desistir e transigir sobre o pedido, ou, quando devidamente autorizada pelo conselho, alienar e obrigar bens, contrair empréstimos e aceitar doações, legados e heranças.
 
-###### Art. 16.º A junta arbitral é constituída por um juiz, que presidirá, designado pelo conselho corporativo sob proposta do Ministro da Saúde e Assistência, e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes de instituições incorporadas.
+Art. 16.º A junta arbitral é constituída por um juiz, que presidirá, designado pelo conselho corporativo sob proposta do Ministro da Saúde e Assistência, e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes de instituições incorporadas.
 
-###### Art. 17.º Compete à junta arbitral conhecer, quando solicitada, dos diferendos que surjam entre as instituições incorporadas ou entre estas e a Corporação.
+Art. 17.º Compete à junta arbitral conhecer, quando solicitada, dos diferendos que surjam entre as instituições incorporadas ou entre estas e a Corporação.
 
-###### Art. 18.º Para todos os cargos da Corporação proceder-se-á à eleição de um titular efectivo e de dois substitutos, devendo esta entrar em funções na ausência do titular do cargo e pela ordem por que tiverem sido eleitos.
+Art. 18.º Para todos os cargos da Corporação proceder-se-á à eleição de um titular efectivo e de dois substitutos, devendo esta entrar em funções na ausência do titular do cargo e pela ordem por que tiverem sido eleitos.
 
-###### Art. 19.º - 1. O mandato dos corpos directivos da Corporação tem a mesma duração e deve coincidir com o dos Procuradores à Câmara Corporativa.
+Art. 19.º - 1. O mandato dos corpos directivos da Corporação tem a mesma duração e deve coincidir com o dos Procuradores à Câmara Corporativa.
 
 2. O presidente da Corporação não pode ser eleito para mais de dois mandatos consecutivos.
 
-###### Art. 20.º Constituem receitas da Corporação as contribuições das instituições incorporadas, bem com quaisquer outras que sejam previstas no seu regimento.
+Art. 20.º Constituem receitas da Corporação as contribuições das instituições incorporadas, bem com quaisquer outras que sejam previstas no seu regimento.
 
-###### Art. 21.º Os representantes no conselho das instituições de assistência de cada distrito serão designados no prazo de três meses, a contar da publicação do presente decreto, e o conselho terá a sua primeira reunião nos 30 dias seguintes.
+Art. 21.º Os representantes no conselho das instituições de assistência de cada distrito serão designados no prazo de três meses, a contar da publicação do presente decreto, e o conselho terá a sua primeira reunião nos 30 dias seguintes.
 
-###### Art. 22.º O regimento da Corporação será elaborado dentro de seis meses, a partir da primeira reunião do conselho a que se refere o artigo anterior, e submetido à aprovação do Ministro das Corporações e Previdência Social, com o parecer favorável do Ministro da Saúde e Assistência e a resolução do conselho corporativo, nos termos da base XIII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331).
+Art. 22.º O regimento da Corporação será elaborado dentro de seis meses, a partir da primeira reunião do conselho a que se refere o artigo anterior, e submetido à aprovação do Ministro das Corporações e Previdência Social, com o parecer favorável do Ministro da Saúde e Assistência e a resolução do conselho corporativo, nos termos da base XIII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

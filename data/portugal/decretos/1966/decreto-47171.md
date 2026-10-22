@@ -48,40 +48,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47171-1966-479660
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-01-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a0f946a8010f7ce510c8b7d2467c4b731dbcf673fd8ca2d7b8d2b457b36d957b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 93cceba7953069104b79160c41017e37e64c591f4301d5c2b3f188be3d54d01e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Açores
+- Câmara Municipal
+- Conselho de Administração
+- Funcionário Público
+- Junta Geral
+- Madeira.ilha Adjacente
+- Quadro de Pessoal
+- Serviços Municipalizados
+- Subsídio Eventual de Custo de VIDA
 relationships:
 - type: amended_by
   target: pt:dre:227236:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227236:por
+  label: "Determinada a abolição do subsídio eventual de custo de vida a que se refere o presente diploma pelo DEC LEI.30/70.16.01.1970.MI,\
+    \ DG.IS [13] de 16.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/30-1970-227236
+  date: '1970-01-16'
+- type: cites
+  target: pt:dre:198100:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474544:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:591305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:674849:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:12Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +137,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3 º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É concedido, a título provisório, a partir de 1 de Setembro de 1966, a todos os servidores dos corpos administrativos abrangidos na tabela A anexa ao Código Administrativo e nos mapas do pessoal vitalício e contratado das juntas gerais dos distritos autónomos das ilhas adjacentes, aprovados, em nova redacção, pelo [Decreto-Lei n.º 42122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42122-1959-591305), de 28 de Janeiro de 1959, subsídio eventual de custo de vida de percentagens iguais às fixadas no artigo 2.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
+Artigo 1.º - 1. É concedido, a título provisório, a partir de 1 de Setembro de 1966, a todos os servidores dos corpos administrativos abrangidos na tabela A anexa ao Código Administrativo e nos mapas do pessoal vitalício e contratado das juntas gerais dos distritos autónomos das ilhas adjacentes, aprovados, em nova redacção, pelo [Decreto-Lei n.º 42122](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42122-1959-591305), de 28 de Janeiro de 1959, subsídio eventual de custo de vida de percentagens iguais às fixadas no artigo 2.º do [Decreto-Lei n.º 47137](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47137-1966-474544), de 5 de Agosto de 1966.
 
 2. Nos casos em que não se verifique coincidência com os vencimentos que actualmente correspondem aos grupos estabelecidos no artigo 1.º do [Decreto-Lei n.º 42046](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42046-1958-198100), de 23 de Dezembro de 1958, a taxa do subsídio eventual de custo de vida será a que se aplicar ao grupo com vencimento mais próximo.
 
@@ -114,18 +145,18 @@ Usando da faculdade conferida pelo n.º 3 º do artigo 109.º da Constituição,
 
 4. Quando não houver direito à totalidade do ordenado ou salário, a taxa do subsídio incidirá sobre o abono efectivo, com o arredondamento previsto no número anterior.
 
-###### Art. 2.º - 1. São autorizados os corpos administrativos e os conselhos de administração dos serviços municipalizados a conceder aos servidores dos quadros do pessoal maior dos serviços especiais e do pessoal menor, especializado e operário, não abrangidos no artigo 1.º deste diploma, subsídio eventual de custo de vida, nos mesmos termos prescritos naquele artigo.
+Art. 2.º - 1. São autorizados os corpos administrativos e os conselhos de administração dos serviços municipalizados a conceder aos servidores dos quadros do pessoal maior dos serviços especiais e do pessoal menor, especializado e operário, não abrangidos no artigo 1.º deste diploma, subsídio eventual de custo de vida, nos mesmos termos prescritos naquele artigo.
 
 2. Aplica-se às deliberações dos conselhos de administração o disposto no § único do artigo 170.º do Código Administrativo.
 
 3. A faculdade concedida por este artigo caduca 30 dias após o início da vigência do presente decreto.
 
-###### Art. 3.º O subsídio eventual de custo de vida é inalienável e impenhorável, apenas fica sujeito a incidência do imposto do selo e não se considera para quaisquer efeitos integrado no ordenado ou salário.
+Art. 3.º O subsídio eventual de custo de vida é inalienável e impenhorável, apenas fica sujeito a incidência do imposto do selo e não se considera para quaisquer efeitos integrado no ordenado ou salário.
 
-###### Art. 4.º O Governo promoverá que as providências a adoptar com vista à reforma administrativa e à melhoria das condições económico-sociais dos servidores do Estado se tornem extensivas aos quadros e aos servidores dos corpos administrativos, bem como à eficiência dos respectivos serviços.
+Art. 4.º O Governo promoverá que as providências a adoptar com vista à reforma administrativa e à melhoria das condições económico-sociais dos servidores do Estado se tornem extensivas aos quadros e aos servidores dos corpos administrativos, bem como à eficiência dos respectivos serviços.
 
-###### Art. 5.º Ficam os corpos administrativos autorizados a aprovar no ano de 1966 orçamento suplementar, além dos permitidos pelo artigo 680.º do Código Administrativo, para dar execução ao presente diploma.
+Art. 5.º Ficam os corpos administrativos autorizados a aprovar no ano de 1966 orçamento suplementar, além dos permitidos pelo artigo 680.º do Código Administrativo, para dar execução ao presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Ulisses Cruz de Aguiar Cortês.

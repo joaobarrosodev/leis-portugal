@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47859-1967-315079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6dcfcf6fa1b4176c36e8836d3977a5cc8e35d4165d5da2a3797834c82fde2656
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e4311b7da9d2eee344564e5c5c15b162676a3743bb244107c6043a3214365b9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,53 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:172682:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:180998:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:281616:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429241:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474098:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486753:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:500455:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:01Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +135,7 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º da artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Ao concurso para juiz de direito do ultramar serão convocados tantos delegados do procurador da República quantas as vagas existentes à data da abertura do concurso, mas nunca menos de quinze, se tantos houver em condições legais.
+Artigo 1.º - 1. Ao concurso para juiz de direito do ultramar serão convocados tantos delegados do procurador da República quantas as vagas existentes à data da abertura do concurso, mas nunca menos de quinze, se tantos houver em condições legais.
 
 2. Ao concurso serão obrigatòriamente chamados:
 
@@ -109,7 +145,7 @@ b) Os delegados do procurador da República do ultramar sem o respectivo concurs
 
 3. A graduação dos candidatos indicados nas duas alíneas do n.º 2 deste artigo far-se-á segundo a antiguidade no serviço.
 
-###### Art. 2.º - 1. Quando não houver delegados do procurador da República que satisfaçam às condições indicadas no n.º 2 do artigo anterior em número bastante para o preenchimento das vagas referidas no n.º 1 do mesmo artigo, serão também convocados:
+Art. 2.º - 1. Quando não houver delegados do procurador da República que satisfaçam às condições indicadas no n.º 2 do artigo anterior em número bastante para o preenchimento das vagas referidas no n.º 1 do mesmo artigo, serão também convocados:
 
 a) Os delegados do procurador da República do ultramar habilitados com o respectivo concurso da metrópole com, pelo menos, três anos de bom e efectivo serviço, independentemente do tempo prestado no ultramar;
 
@@ -117,37 +153,37 @@ b) Os delegados do procurador da República sem o respectivo concurso da metróp
 
 2. Os delegados do procurador da República nas condições da alínea a) serão graduados de preferência aos indicados na alínea b) deste artigo.
 
-###### Art. 3.º Quando o número dos candidatos convocados nos termos dos artigos precedentes for insuficiente ainda para o preenchimento das vagas existentes, poderão concorrer, mediante requerimento, os delegados do procurador da República do quadro da metrópole com o mínimo de quatro anos de serviço e com boas informações, preferindo os de melhor classificação de serviço e, em igualdade de classificação, os mais antigos.
+Art. 3.º Quando o número dos candidatos convocados nos termos dos artigos precedentes for insuficiente ainda para o preenchimento das vagas existentes, poderão concorrer, mediante requerimento, os delegados do procurador da República do quadro da metrópole com o mínimo de quatro anos de serviço e com boas informações, preferindo os de melhor classificação de serviço e, em igualdade de classificação, os mais antigos.
 
-###### Art. 4.º Os candidatos indicados no artigo 42.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, acrescem ao cômputo previsto no n.º 1 do artigo 1.º deste decreto.
+Art. 4.º Os candidatos indicados no artigo 42.º do [Decreto n.º 43899](https://diariodarepublica.pt/dr/detalhe/decreto/43899-1961-180998), de 6 de Setembro de 1961, acrescem ao cômputo previsto no n.º 1 do artigo 1.º deste decreto.
 
-###### Art. 5.º - 1. É criada nos distritos de Manica e Sofala uma inspecção da Polícia Judiciária, e nela funcionará um tribunal de polícia com a composição e competência atribuída ao tribunal de polícia da Inspectoria de Macau, nos termos dos artigo 16.º e 17.º do [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), de 19 de Agosto de 1960.
+Art. 5.º - 1. É criada nos distritos de Manica e Sofala uma inspecção da Polícia Judiciária, e nela funcionará um tribunal de polícia com a composição e competência atribuída ao tribunal de polícia da Inspectoria de Macau, nos termos dos artigo 16.º e 17.º do [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), de 19 de Agosto de 1960.
 
 2. São criadas subinspecções da Polícia Judiciária nos distritos de Nampula, Quelimane, Inhambane e Gaza e na comarca de Manica.
 
 3. A Inspecção e as Subinspecções referidas ficarão dependentes da Directoria da Polícia Judiciária de Lourenço Marques e serão dirigidas, respectivamente, por um inspector adjunto e subinspectores, em que a competência e a forma de provimento será a que está fixada nas disposições aplicáveis do citado [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455).
 
-###### Art. 6.º É criada na comarca da Beira uma conservatória do registo automóvel de 1.ª classe.
+Art. 6.º É criada na comarca da Beira uma conservatória do registo automóvel de 1.ª classe.
 
-###### Art. 7.º - 1. O pessoal dos quadros privativos da Inspecção e das Subinspecções mencionadas no artigo 5.º, observadas as categorias constantes do quadro anexo ao [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), bem como o pessoal auxiliar dos quadros da Conservatória do Registo Automóvel agora criada e da Conservatória dos Registos da Comarca da Beira já existente, será fixado em portaria do governador-geral de Moçambique.
+Art. 7.º - 1. O pessoal dos quadros privativos da Inspecção e das Subinspecções mencionadas no artigo 5.º, observadas as categorias constantes do quadro anexo ao [Decreto-Lei n.º 43125](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43125-1960-500455), bem como o pessoal auxiliar dos quadros da Conservatória do Registo Automóvel agora criada e da Conservatória dos Registos da Comarca da Beira já existente, será fixado em portaria do governador-geral de Moçambique.
 
 2. Os actuais funcionários da Conservatória dos Registos poderão transitar para a Conservatória do Registo Automóvel, dentro das respectivas categorias, independentemente de quaisquer formalidades de registo ou posse e mantendo todos os seus direitos anteriores.
 
-###### Art. 8.º - 1. Em todos os tribunais de comarca de Angola e Moçambique em que houver um só ofício e um só ajudante de escrivão é criado mais um lugar de ajudante de escrivão.
+Art. 8.º - 1. Em todos os tribunais de comarca de Angola e Moçambique em que houver um só ofício e um só ajudante de escrivão é criado mais um lugar de ajudante de escrivão.
 
 2. Na comarca de Nampula são criados os seguintes lugares: um contador, dois ajudantes de escrivão, um oficial de diligências, um intérprete e um dactilógrafo.
 
 3. Aos escriturários de 1.ª classe das secretarias judiciais da metrópole que hajam ingressado em lugares de ajudantes de escrivão do ultramar é contado, para todos os efeitos legais, o tempo de serviço que prestaram naquelas funções.
 
-###### Art. 9.º O prazo de seis meses referido no [Decreto n.º 47129](https://diariodarepublica.pt/dr/detalhe/decreto/47129-1966-474098), de 1 de Agosto de 1966, é prorrogado por um ano.
+Art. 9.º O prazo de seis meses referido no [Decreto n.º 47129](https://diariodarepublica.pt/dr/detalhe/decreto/47129-1966-474098), de 1 de Agosto de 1966, é prorrogado por um ano.
 
-###### Art. 10.º A receita emolumentar cobrada pelos Tribunais de Menores e de Execução das Penas de Luanda e Lourenço Marques passa a ter o destino a que se refere o artigo 14.º do [Decreto n.º 46900](https://diariodarepublica.pt/dr/detalhe/decreto/46900-1966-486753), de 12 de Março de 1966, entrando na partilha mencionada no seu n.º 2 os respectivos oficiais de justiça.
+Art. 10.º A receita emolumentar cobrada pelos Tribunais de Menores e de Execução das Penas de Luanda e Lourenço Marques passa a ter o destino a que se refere o artigo 14.º do [Decreto n.º 46900](https://diariodarepublica.pt/dr/detalhe/decreto/46900-1966-486753), de 12 de Março de 1966, entrando na partilha mencionada no seu n.º 2 os respectivos oficiais de justiça.
 
-###### Art. 11.º As gratificações atribuídas aos presidentes, vogais e agentes do Ministério Público dos tribunais administrativos das províncias de governo simples passam a ser as constantes da tabela anexa.
+Art. 11.º As gratificações atribuídas aos presidentes, vogais e agentes do Ministério Público dos tribunais administrativos das províncias de governo simples passam a ser as constantes da tabela anexa.
 
-###### Art. 12.º A dotação dos serviços e lugares criados fica dependente das disponibilidades financeiras das respectivas províncias ultramarinas.
+Art. 12.º A dotação dos serviços e lugares criados fica dependente das disponibilidades financeiras das respectivas províncias ultramarinas.
 
-###### Art. 13.º As disposições legais adiante indicadas passam a ter a seguinte redacção:
+Art. 13.º As disposições legais adiante indicadas passam a ter a seguinte redacção:
 
 I) O n.º 9 do artigo 223.º da Organização Judiciária, aprovada pelo [Decreto n.º 14453](https://diariodarepublica.pt/dr/detalhe/decreto/14453-1927-678239), de 20 de Outubro de 1927:
 
@@ -185,11 +221,11 @@ V) O n.º 2 do artigo 73.º do Código do Notariado, aprovado pelo [Decreto-Lei 
 
 A omissão é comprovada por certidão passada pela competente conservatória, com antecedência não superior a 30 dias, se a sede da secretaria ou cartório que for chamado a lavrar o acto estiver situado dentro da área daquela conservatória, ou 90 dias no caso contrário, devendo indicar-se, no instrumento, a data em que a certidão foi passada.
 
-###### Art. 14.º Ao último período do § 2.º do artigo 46.º do Código das Custas referido no n.º III do artigo anterior é aditado o seguinte:
+Art. 14.º Ao último período do § 2.º do artigo 46.º do Código das Custas referido no n.º III do artigo anterior é aditado o seguinte:
 
 O auxiliar do distribuidor geral terá percentagem igual à do oficial de diligências.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

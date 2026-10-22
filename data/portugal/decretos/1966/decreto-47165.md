@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47165-1966-469422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1995-02-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d6fdb21faff91d41521c8fa3a2034f30d3242ba874e1feee45d7dad32d01aac4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 290581e933245d8427df7091487a106aa77da4ca1d6e58dbb2b4c872da9df86b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,31 @@ relationships:
   target: pt:dre:138313:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:138313:por
+  label: "Alterado o § 4 do n.° 2 do artigo 16.° do Regulamento do Código da Estrada, aprovado pelo Decreto n.° 39987, de\
+    \ 22 de Dezembro de 1954, na redacção dada no presente diploma, pela PORT.99/95.02.02.1995.MAI, DR.IS-B [28] de 02.02.1995\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/99-1995-138313
+  date: '1995-02-02'
+- type: cites
+  target: pt:dre:290839:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:475085:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:07Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +107,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 1.º, 4.º, 14.º, 16.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 45.º e 47.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 1.º, 4.º, 14.º, 16.º, 32.º, 33.º, 34.º, 35.º, 36.º, 37.º, 38.º, 45.º e 47.º do Regulamento do Código da Estrada, aprovado pelo [Decreto n.º 39987](https://diariodarepublica.pt/dr/detalhe/decreto/39987-1954-290839), de 22 de Dezembro de 1954, passam a ter a seguinte redacção:
 
 ### CAPÍTULO I — Sinalização do trânsito
 
@@ -486,25 +501,25 @@ Quando da prática de qualquer das infracções referidas nos n.os 7, 8 e 9 do a
 
 8. O estabelecimento de novos impressos que os interessados devem entregar nos termos do n.º 6 deste artigo, bem como qualquer modificação ou supressão dos modelos em vigor e a alteração da respectiva lista de exigências, dependem de simples despacho de aprovação do director-geral de Transportes Terrestres, a publicar na 2.ª série do Diário do Governo.
 
-###### Art. 2.º As disposições do n.º 1 do artigo 16.º, n.º 2 do artigo 32.º e n.º 12 do artigo 33.º do Regulamento do Código da Estrada entram em vigor em prazo a designar a partir da data em que a Direcção-Geral de Transportes Terrestres fixar as condições de medição dos ruídos, aplicando-se transitòriamente as anteriores normas sobre a matéria.
+Art. 2.º As disposições do n.º 1 do artigo 16.º, n.º 2 do artigo 32.º e n.º 12 do artigo 33.º do Regulamento do Código da Estrada entram em vigor em prazo a designar a partir da data em que a Direcção-Geral de Transportes Terrestres fixar as condições de medição dos ruídos, aplicando-se transitòriamente as anteriores normas sobre a matéria.
 
-###### Art. 3.º Aos veículos já matriculados é concedido um prazo até 31 de Dezembro de 1966 para o cumprimento das disposições constantes dos n.os 8 e 9 do artigo 14.º do Regulamento do Código da Estrada, devendo ser respeitadas entretanto as anteriores disposições sobre a matéria no que se refere à indicação de peso bruto, tara e lotação.
+Art. 3.º Aos veículos já matriculados é concedido um prazo até 31 de Dezembro de 1966 para o cumprimento das disposições constantes dos n.os 8 e 9 do artigo 14.º do Regulamento do Código da Estrada, devendo ser respeitadas entretanto as anteriores disposições sobre a matéria no que se refere à indicação de peso bruto, tara e lotação.
 
 Poderão, porém, os veículos acima referidos utilizar, durante este prazo, as chapas relativas a limites de velocidades exigidas anteriormente à data de entrada em vigor deste diploma, desde que sejam corrigidos os respectivos valores em conformidade com o disposto no n.º 3 do artigo 7.º do Código da Estrada, segundo a redacção do [Decreto n.º 47070](https://diariodarepublica.pt/dr/detalhe/decreto/47070-1966-475085), de 4 de Julho de 1966.
 
-###### Art. 4.º As disposições a que se refere o n.º 1 do artigo 33.º do Regulamento do Código da Estrada aplicam-se apenas aos valocípedes matriculados a partir de 1 de Janeiro de 1967.
+Art. 4.º As disposições a que se refere o n.º 1 do artigo 33.º do Regulamento do Código da Estrada aplicam-se apenas aos valocípedes matriculados a partir de 1 de Janeiro de 1967.
 
-###### Art. 5.º É fixada a data de 1 de Julho de 1967 para a entrada em vigor das disposições a que se refere o n.º 3 do artigo 33.º do Regulamento do Código da Estrada.
+Art. 5.º É fixada a data de 1 de Julho de 1967 para a entrada em vigor das disposições a que se refere o n.º 3 do artigo 33.º do Regulamento do Código da Estrada.
 
-###### Art. 6.º Os velocípedes que forem matriculados a partir de 1 de Janeiro de 1967 devem satisfazer às disposições do n.º 3 do artigo 38.º do Regulamento do Código da Estrada.
+Art. 6.º Os velocípedes que forem matriculados a partir de 1 de Janeiro de 1967 devem satisfazer às disposições do n.º 3 do artigo 38.º do Regulamento do Código da Estrada.
 
 Para os velocípedes anteriormente matriculados é fixada a data de 1 de Janeiro de 1968 para o cumprimento das mesmas disposições, mantendo-se transitòriamente em vigor para esses veículos as anteriores normas sobre a matéria.
 
-###### Art. 7.º A título provisório, toda a documentação para efeitos de aprovação de marcas e modelos, inspecções, requerimentos de matrícula, inspecções médico-sanitárias, exames e expediente em geral referente a ciclomotores ou aos respectivos condutores será exigida nos termos legais para os motociclos, substituindo a palavra «motociclo» por «ciclomotor».
+Art. 7.º A título provisório, toda a documentação para efeitos de aprovação de marcas e modelos, inspecções, requerimentos de matrícula, inspecções médico-sanitárias, exames e expediente em geral referente a ciclomotores ou aos respectivos condutores será exigida nos termos legais para os motociclos, substituindo a palavra «motociclo» por «ciclomotor».
 
-###### Art. 8.º Este diploma entrará em vigor em 1 de Setembro de 1966.
+Art. 8.º Este diploma entrará em vigor em 1 de Setembro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.
 
@@ -512,32 +527,32 @@ QUADRO N.º 11 A
 
 CHAPAS DE MATRÍCULA PARA CICLOMOTORES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
 
 QUADRO N.º 12
 
 CHAPAS DE MATRÍCULA PARA VEÍCULOS DE TRACÇÃO ANIMAL E VELOCIPEDES
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
 
 QUADRO N.º 12-A
 
 Identificação dos concelhos para a matrícula de velocípedes
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
 
 QUADRO N.º 13
 
 INDICAÇÃO DOS LIMITES MAXIMOS DE VELOCIDADE
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
 
 QUADRO N.º 15
 
 INDICAÇÃO DE PESO BRUTO, TARA E LOTAÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
 
 LOCALIZAÇÃO DA INSCRIÇÃO
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf))](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/08/19700/14091424.pdf)

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47614-1967-509422
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: be80089dbcdf46a2a580ba4a0d880e78ff4b40c14ba0934fd0f5632ccf470c4a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b9db320df6833f18e10dd822cb76b7837369c0e223145496802870a133912428
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:57Z'
   warnings: []
   errors: []
 ---
@@ -92,12 +92,12 @@ Atendendo a que as estações competentes não vêem inconveniente na sua exclus
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial, a que fora submetida por decreto de 24 de Fevereiro de 1950, e restituída à administração da Câmara Municipal de Mértola uma parcela de terreno, com a área de 9412 m2, do perímetro florestal de Coutos de Mértola, a fim de serem ampliadas as instalações de um estabelecimento de ensino instalado numa parcela de terreno desanexada por decreto publicado no Diário do Governo, 2.ª série, de 24 de Novembro de 1964.
+Artigo 1.º É excluída do regime florestal parcial, a que fora submetida por decreto de 24 de Fevereiro de 1950, e restituída à administração da Câmara Municipal de Mértola uma parcela de terreno, com a área de 9412 m2, do perímetro florestal de Coutos de Mértola, a fim de serem ampliadas as instalações de um estabelecimento de ensino instalado numa parcela de terreno desanexada por decreto publicado no Diário do Governo, 2.ª série, de 24 de Novembro de 1964.
 
-###### Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de marca de corte extraordinário.
+Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que para o efeito elaborará um auto de marca de corte extraordinário.
 
-###### Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino mais conveniente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Domingos Rosado Vitória Pires.

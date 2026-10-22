@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47483-1967-239451
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-01-03T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ae4beaf12bfcb7adc76c12a1393443144e081a2a2bd0943e9104fb84346b41d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68d02afa6102589ae853aa3380d101f90c1204b1f9ce540b0f7a8159eb234aa4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:337818:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480357:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:58Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +100,9 @@ Considerando a conveniência de, simultâneamente, introduzir no mesmo regulamen
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos a seguir indicados do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 41894](https://diariodarepublica.pt/dr/detalhe/decreto/41894-1958-337818), de 7 de Outubro de 1958, tomam a redacção seguinte:
+Artigo 1.º Os artigos a seguir indicados do Regulamento da Escola Naval, aprovado pelo [Decreto n.º 41894](https://diariodarepublica.pt/dr/detalhe/decreto/41894-1958-337818), de 7 de Outubro de 1958, tomam a redacção seguinte:
 
-###### Art. 3.º A formação e instrução dos alunos da Escola Naval, tem a duração de quatro anos lectivos, que se distribuem por duas fases:
+Art. 3.º A formação e instrução dos alunos da Escola Naval, tem a duração de quatro anos lectivos, que se distribuem por duas fases:
 
 I) Ensino académico e técnico-naval preliminar, com a duração de dois anos lectivos;
 
@@ -102,19 +114,19 @@ II) Ensino técnico-naval complementar e continuação do ensino académico, com
 
 ...
 
-###### Art. 6.º O ensino da Escola Naval é organizado em anos lectivos, que têm o seu início em 1 de Outubro e terminam em 31 de Agosto.
+Art. 6.º O ensino da Escola Naval é organizado em anos lectivos, que têm o seu início em 1 de Outubro e terminam em 31 de Agosto.
 
 § único. Os exames são feitos em épocas próprias: das disciplines anuais no fim do ano lectivo e das semestrais no fim do semestre respectivo.
 
 ...
 
-###### Art. 10.º A organização dos cursos mencionados no artigo 2.º é a indicada nos quadros IV, V e VI.
+Art. 10.º A organização dos cursos mencionados no artigo 2.º é a indicada nos quadros IV, V e VI.
 
 § único. A organização do curso interarmas, a que se refere o § 2.º do artigo 3.º, será estabelecida por diploma especial.
 
 ...
 
-###### Art. 17.º Para as cadeiras e aulas práticas de carácter académico, com excepção das do 3.º, 4.º, 6.º e 7.º grupos, só serão admitidos a concurso licenciados pelas Universidades de reconhecido valor científico e comprovada competência pedagógica nas matérias que se propõem leccionar.
+Art. 17.º Para as cadeiras e aulas práticas de carácter académico, com excepção das do 3.º, 4.º, 6.º e 7.º grupos, só serão admitidos a concurso licenciados pelas Universidades de reconhecido valor científico e comprovada competência pedagógica nas matérias que se propõem leccionar.
 
 § 1.º Para os candidatos civis constituirá condição de preferência o exercício do professorado no ensino superior.
 
@@ -124,15 +136,15 @@ II) Ensino técnico-naval complementar e continuação do ensino académico, com
 
 ...
 
-###### Art. 21.º Quando se der alguma vacatura de professor ou esta estiver prevista para o ano lectivo seguinte, o director e 1.º comandante mandará abrir concurso, depois de obtida a necessária autorização.
+Art. 21.º Quando se der alguma vacatura de professor ou esta estiver prevista para o ano lectivo seguinte, o director e 1.º comandante mandará abrir concurso, depois de obtida a necessária autorização.
 
 ...
 
-###### Art. 33.º A nomeação dos professores considera-se provisória durante o primeiro ano lectivo de exercício; o provimento definitivo dependerá de parecer favorável, devidamente fundamentado, elaborado em sessão do conselho escolar, no qual tomarão parte sòmente os professores em exercício há mais de um ano lectivo, do parecer do director e 1.º comandante e da confirmação do Ministro.
+Art. 33.º A nomeação dos professores considera-se provisória durante o primeiro ano lectivo de exercício; o provimento definitivo dependerá de parecer favorável, devidamente fundamentado, elaborado em sessão do conselho escolar, no qual tomarão parte sòmente os professores em exercício há mais de um ano lectivo, do parecer do director e 1.º comandante e da confirmação do Ministro.
 
 ...
 
-###### Art. 61.º O conselho escolar reúne sempre que haja de deliberar e obrigatòriamente nos seguintes casos:
+Art. 61.º O conselho escolar reúne sempre que haja de deliberar e obrigatòriamente nos seguintes casos:
 
 a) Até três dias antes do começo de cada ano lectivo, para estudo das questões relacionadas com os planos dos cursos;
 
@@ -142,9 +154,9 @@ c) Até ao dia 10 de Dezembro de cada ano, para eleger os membros que devem no a
 
 ...
 
-###### Art. 67.º Os concursos de admissão realizam-se normalmente no mês de Agosto de cada ano.
+Art. 67.º Os concursos de admissão realizam-se normalmente no mês de Agosto de cada ano.
 
-###### Art. 68.º O candidato deverá entregar, de 1 a 10 de Agosto, inclusive, na secretaria da Escola, requerimento, dirigido ao director e 1.º comandante, em que conste o seu nome, filiação e residência, acompanhado dos documentos referentes às condições gerais e especiais de admissão.
+Art. 68.º O candidato deverá entregar, de 1 a 10 de Agosto, inclusive, na secretaria da Escola, requerimento, dirigido ao director e 1.º comandante, em que conste o seu nome, filiação e residência, acompanhado dos documentos referentes às condições gerais e especiais de admissão.
 
 § 1.º O candidato que seja militar deverá remeter os documentos pelas vias competentes, dentro do prazo estabelecido neste artigo.
 
@@ -152,19 +164,19 @@ c) Até ao dia 10 de Dezembro de cada ano, para eleger os membros que devem no a
 
 ...
 
-###### Art. 87.º O alistamento na companhia de alunos far-se-á no dia 1 de Outubro. O alistamento implica para o aluno a obrigação de servir na Armada durante oito anos, a contar da promoção a guarda-marinha e de prestar serviço nos submersíveis, se para tal especialidade for seleccionado e assim convir ao serviço da Marinha.
+Art. 87.º O alistamento na companhia de alunos far-se-á no dia 1 de Outubro. O alistamento implica para o aluno a obrigação de servir na Armada durante oito anos, a contar da promoção a guarda-marinha e de prestar serviço nos submersíveis, se para tal especialidade for seleccionado e assim convir ao serviço da Marinha.
 
 § único. O alistamento só poderá ser feito depois de apresentada a declaração exigida pela [Lei n.º 1901](https://diariodarepublica.pt/dr/detalhe/lei/1901-1935-577495), de 21 de Maio de 1935.
 
 ...
 
-###### Art. 105.º Além da observação a que estão sujeitos pelo Gabinete de Estudos, nos termos do artigo anterior, os cadetes, durante toda a sua actividade escolar, serão observados em todos os seus actos de forma que o seu carácter militar possa ser elemento a considerar no estabelecimento da respectiva classificação. Baseando-se no resultado dessa observação, o 2.º comandante, os instrutores e o comandante da companhia de alunos e do grupo preencherão, antes do fim de cada ano lectivo, boletins de informação, do modelo estabelecido no quadro VIII.
+Art. 105.º Além da observação a que estão sujeitos pelo Gabinete de Estudos, nos termos do artigo anterior, os cadetes, durante toda a sua actividade escolar, serão observados em todos os seus actos de forma que o seu carácter militar possa ser elemento a considerar no estabelecimento da respectiva classificação. Baseando-se no resultado dessa observação, o 2.º comandante, os instrutores e o comandante da companhia de alunos e do grupo preencherão, antes do fim de cada ano lectivo, boletins de informação, do modelo estabelecido no quadro VIII.
 
 § único. Durante a realização do embarque referido no artigo 139.º, os cadetes estarão sujeitos à observação de que trata este artigo, devendo os comandantes dos navios em que realizem o embarque e os professores ou instrutores que acompanhem os cadetes preencher os respectivos boletins de informação, os quais serão enviados à Escola Naval.
 
 ...
 
-###### Art. 107.º Para o estabelecimento da classificação referida no artigo anterior, o júri basear-se-á, entre outros, nos seguintes elementos de apreciação:
+Art. 107.º Para o estabelecimento da classificação referida no artigo anterior, o júri basear-se-á, entre outros, nos seguintes elementos de apreciação:
 
 a) Lições e repetições orais e escritas;
 
@@ -178,19 +190,19 @@ d) Informações elaboradas pelos professores ou instrutores que tenham acompanh
 
 ...
 
-###### Art. 114.º Antes do início de cada ano lectivo serão revistos os programas e propostas as alterações julgadas convenientes, as quais seguirão os trâmites estabelecidos para os próprios programas.
+Art. 114.º Antes do início de cada ano lectivo serão revistos os programas e propostas as alterações julgadas convenientes, as quais seguirão os trâmites estabelecidos para os próprios programas.
 
 ...
 
-###### Art. 122.º O aluno que em qualquer cadeira, aula prática ou instrução der um número total de faltas igual ou superior a um quinto do número de aulas no ano lectivo perde a frequência do curso.
+Art. 122.º O aluno que em qualquer cadeira, aula prática ou instrução der um número total de faltas igual ou superior a um quinto do número de aulas no ano lectivo perde a frequência do curso.
 
 § único. O director e 1.º comandante, ouvido o conselho escolar, poderá relevar as faltas a que se refere este artigo quando reconheça que o aluno faltou por motivo de doença prolongada e tem bom aproveitamento.
 
-###### Art. 123.º Ao aluno que por motivo de doença prolongada perder por faltas um ano lectivo ser-lhe-á concedido, mas por uma só vez em todo o curso, repetir a frequência desse ano, ingressando no curso seguinte, a que passa a pertencer.
+Art. 123.º Ao aluno que por motivo de doença prolongada perder por faltas um ano lectivo ser-lhe-á concedido, mas por uma só vez em todo o curso, repetir a frequência desse ano, ingressando no curso seguinte, a que passa a pertencer.
 
 ...
 
-###### Art. 128.º Em todas as cadeiras e aulas práticas haverá um exame final.
+Art. 128.º Em todas as cadeiras e aulas práticas haverá um exame final.
 
 § 1.º Os alunos só são admitidos a exame final nas cadeiras e aulas práticas em que obtenham cota de frequência não inferior a 10 valores.
 
@@ -204,25 +216,25 @@ d) Informações elaboradas pelos professores ou instrutores que tenham acompanh
 
 § 6.º Não há exame final de instruções.
 
-###### Art. 129.º Os alunos que reprovem em exame apenas numa cadeira ou aula prática podem ser autorizados a repetir esse exame no princípio do ano lectivo seguinte, sem sofrerem interrupção na frequência do seu curso.
+Art. 129.º Os alunos que reprovem em exame apenas numa cadeira ou aula prática podem ser autorizados a repetir esse exame no princípio do ano lectivo seguinte, sem sofrerem interrupção na frequência do seu curso.
 
-###### Art. 130.º Os alunos que num ano obtenham cota de frequência inferior a 10 valores em qualquer cadeira, aula prática ou instrução ou que reprovem no exame final em mais que uma cadeira ou aula prática repetem a frequência desse ano ingressando no curso seguinte, a que passam a pertencer.
+Art. 130.º Os alunos que num ano obtenham cota de frequência inferior a 10 valores em qualquer cadeira, aula prática ou instrução ou que reprovem no exame final em mais que uma cadeira ou aula prática repetem a frequência desse ano ingressando no curso seguinte, a que passam a pertencer.
 
 § único. São excluídos os alunos que, em qualquer cadeira, aula prática ou instrução, obtenham cota de frequência inferior a 5 valores.
 
-###### Art. 131.º Aos alunos que não obtenham aprovação na repetição de um exame que lhes haja sido autorizado nos termos do artigo 129.º é concedida a faculdade de repetir o ano a que respeita esse exame, só sendo, porém, obrigados a fazer os exames finais das cadeiras e aulas práticas em que ficaram reprovados no ano anterior.
+Art. 131.º Aos alunos que não obtenham aprovação na repetição de um exame que lhes haja sido autorizado nos termos do artigo 129.º é concedida a faculdade de repetir o ano a que respeita esse exame, só sendo, porém, obrigados a fazer os exames finais das cadeiras e aulas práticas em que ficaram reprovados no ano anterior.
 
-###### Art. 132.º Cada aluno pode beneficiar durante o seu curso apenas uma única vez da concessão estabelecida nos artigos 123.º, 130.º e 131.º, e até duas vezes da estabelecida no corpo do artigo 129.º desde que se trate de cadeiras ou aulas práticas e anos diferentes.
+Art. 132.º Cada aluno pode beneficiar durante o seu curso apenas uma única vez da concessão estabelecida nos artigos 123.º, 130.º e 131.º, e até duas vezes da estabelecida no corpo do artigo 129.º desde que se trate de cadeiras ou aulas práticas e anos diferentes.
 
 ...
 
-###### Art. 135.º No fim da II fase os cadetes são promovidos a guardas-marinhas e a cota de mérito para promoção a que se refere o artigo anterior define a sua posição na escala de antiguidades dos quadros de segundos-tenentes e guardas-marinhas.
+Art. 135.º No fim da II fase os cadetes são promovidos a guardas-marinhas e a cota de mérito para promoção a que se refere o artigo anterior define a sua posição na escala de antiguidades dos quadros de segundos-tenentes e guardas-marinhas.
 
 § único. O cadete a que no 4.º ano lectivo seja aplicado o disposto no artigo 129.º será promovido a contar da data da realização do novo exame, se nele obtiver aprovação, indo ocupar no quadro dos segundos-tenentes e guardas-marinhas o lugar que lhe competir no seu curso pela sua cota de mérito.
 
 ...
 
-###### Art. 137.º O ensino das cadeiras e aulas práticas de natureza académica é ministrado pelos seguintes professores:
+Art. 137.º O ensino das cadeiras e aulas práticas de natureza académica é ministrado pelos seguintes professores:
 
 a) Dois professores licenciados em Ciências Matemáticas, aos quais competirá a regência das cadeiras e aulas práticas do 1.º grupo;
 
@@ -240,7 +252,7 @@ g) Dois professores de nacionalidade inglesa, aos quais competirá a regência d
 
 ...
 
-###### Art. 139.º Nos últimos meses do 2.º ano lectivo os cadetes embarcam com o objectivo de os adaptar à vida do mar e dos navios, familiarizá-los com as condições do serviço a navegar e nos portos, proporcionar-lhes a aquisição de novos conhecimentos e a aplicação dos adquiridos e facultar-lhes a utilização directa do material.
+Art. 139.º Nos últimos meses do 2.º ano lectivo os cadetes embarcam com o objectivo de os adaptar à vida do mar e dos navios, familiarizá-los com as condições do serviço a navegar e nos portos, proporcionar-lhes a aquisição de novos conhecimentos e a aplicação dos adquiridos e facultar-lhes a utilização directa do material.
 
 § 1.º O embarque é realizado a bordo de navios armados que sejam destinados para essa missão, durante a qual são considerados com um prolongamento da Escola.
 
@@ -248,7 +260,7 @@ g) Dois professores de nacionalidade inglesa, aos quais competirá a regência d
 
 ...
 
-###### Art. 147.º No fim do 3.º ano lectivo os alunos embarcam em navios armados e dotados de instalações e equipamento modernos. O embarque terá a duração de três semanas e destina-se a proporcionar aos alunos:
+Art. 147.º No fim do 3.º ano lectivo os alunos embarcam em navios armados e dotados de instalações e equipamento modernos. O embarque terá a duração de três semanas e destina-se a proporcionar aos alunos:
 
 a) Prática do desempenho das funções gerais de oficial de guarnição e, em especial, das que competem ao oficial de quarto e de dia, com maior extensão dentro do serviço de máquinas para os alunos do curso respectivo;
 
@@ -258,19 +270,19 @@ c) Prática do serviço de abastecimentos a bordo, para os alunos de administra�
 
 d) Prática e instrução complementar das restantes matérias técnico-navais versadas no 3.º ano, natação, remo e vela.
 
-###### Art. 148.º No 4.º ano lectivo os alunos embarcam em navio operacional de tipo apropriado. Este embarque terá a duração de duas semanas e destina-se a proporcionar:
+Art. 148.º No 4.º ano lectivo os alunos embarcam em navio operacional de tipo apropriado. Este embarque terá a duração de duas semanas e destina-se a proporcionar:
 
 a) Prática do desempenho das funções gerais de oficial de guarnição e de adjunto dos serviços técnicos especiais de bordo aos ramos respectivos;
 
 b) Aplicação dos conhecimentos adquiridos na Escola por meio da realização de exercícios.
 
-###### Art. 2.º Os quadros I, II, III, IV, V, VI e IX do Regulamento da Escola Naval são substituídos pelos que, com igual designação, acompanham este diploma.
+Art. 2.º Os quadros I, II, III, IV, V, VI e IX do Regulamento da Escola Naval são substituídos pelos que, com igual designação, acompanham este diploma.
 
-###### Art. 3.º As alterações introduzidas por este diploma no Regulamento da Escola Naval aplicam-se a partir do ano lectivo de 1966-1967 a todos os cursos.
+Art. 3.º As alterações introduzidas por este diploma no Regulamento da Escola Naval aplicam-se a partir do ano lectivo de 1966-1967 a todos os cursos.
 
 § único. O director e 1.º comandante, ouvido o conselho escolar, adoptará as medidas adequadas para regular a fase de transição resultante das alterações introduzidas nas estruturas dos cursos que presentemente frequentam na Escola Naval o 2.º, 3.º e 4.º anos lectivos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Janeiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias.
 
@@ -278,19 +290,19 @@ QUADRO I
 
 Cadeiras e aulas práticas de natureza académica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf))](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf)
 
 QUADRO II
 
 Cadeiras e aulas práticas de natureza técnico-naval
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf))](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf)
 
 QUADRO III
 
 Instruções
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf))](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/01/00200/00070012.pdf)
 
 QUADRO IV
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46921-1966-486707
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9f298403f37f7713f59fc05f870fd46ca1bf039d1a5c83c1e5c1d87e80f071f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 550b1aafa5545f4d78ac311cbcd6b39dbfecc6acd41325aca7d5f7d7b25901fb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:15Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +91,13 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral da província de Moçambique a dar o seu aval até ao montante de 35946000$00 a uma operação de crédito junto de uma entidade local, destinada à continuação das obras de saneamento e pavimentação de arruamentos da cidade da Beira.
+Artigo 1.º É autorizado o Governo-Geral da província de Moçambique a dar o seu aval até ao montante de 35946000$00 a uma operação de crédito junto de uma entidade local, destinada à continuação das obras de saneamento e pavimentação de arruamentos da cidade da Beira.
 
 § único. As cláusulas e condições em que se realizar a referida operação de aval serão reguladas mediante prévio acordo entre a Câmara Municipal da Beira e o Governo-Geral da província, ao qual compete aprová-las.
 
-###### Art. 2.º Os encargos resultantes do mencionado empréstimo constituem despesa preferencial e obrigatória da Câmara Municipal da Beira, que os inscreverá anualmente no seu orçamento até ao montante necessário e respectiva liquidação.
+Art. 2.º Os encargos resultantes do mencionado empréstimo constituem despesa preferencial e obrigatória da Câmara Municipal da Beira, que os inscreverá anualmente no seu orçamento até ao montante necessário e respectiva liquidação.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

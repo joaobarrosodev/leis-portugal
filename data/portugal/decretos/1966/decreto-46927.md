@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46927-1966-486339
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-03-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01f1f5b635ecb5db059f96c606957a496bded2a24a6ec4e748311fe2bad019ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 864947483f115d6705f348ec4d8bbc99d0aaff508e13064cf0539989923d00ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:186158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251232:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:268827:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508054:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:625011:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 31
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:17Z'
   warnings: []
   errors: []
 ---
@@ -88,17 +112,17 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 ## TÍTULO I — Dos órgãos directivos
 
-###### Artigo 1.º A Emissora Nacional terá uma direcção, composta por um presidente, com a categoria de director-geral, e pelos directores dos Serviços de Programas, dos Serviços Técnicos e dos Serviços Administrativos e Financeiros.
+Artigo 1.º A Emissora Nacional terá uma direcção, composta por um presidente, com a categoria de director-geral, e pelos directores dos Serviços de Programas, dos Serviços Técnicos e dos Serviços Administrativos e Financeiros.
 
-###### Art. 2.º Os cargos referidos no artigo anterior serão providos, por livre escolha do Governo, em indivíduos de reconhecida competência, diplomados com curso superior.
+Art. 2.º Os cargos referidos no artigo anterior serão providos, por livre escolha do Governo, em indivíduos de reconhecida competência, diplomados com curso superior.
 
 § único. Os lugares de director dos Serviços Técnicos e dos Serviços Administrativos e Financeiros serão providos, respectivamente, num engenheiro electrotécnico, perito em assuntos de radiodifusão, e num licenciado em Direito, em Economia ou em qualquer dos cursos de Ciências Económicas e Financeiras.
 
-###### Art. 3.º Quando nos lugares de director de serviço sejam providos indivíduos estranhos ao quadro, serão nomeados provisòriamente pelo prazo de dois anos, findo o qual serão providos definitivamente, se tiverem dado provas de aptidão para o lugar, ou exonerados, no caso contrário.
+Art. 3.º Quando nos lugares de director de serviço sejam providos indivíduos estranhos ao quadro, serão nomeados provisòriamente pelo prazo de dois anos, findo o qual serão providos definitivamente, se tiverem dado provas de aptidão para o lugar, ou exonerados, no caso contrário.
 
 § único. O tempo de prestação de serviço como interino, quando seguido de nomeação provisória, conta-se para o prazo a que se refere o presente artigo, podendo também substituir integralmente para o mesmo efeito o tempo de nomeação provisória.
 
-###### Art. 4.º Compete ao presidente da direcção:
+Art. 4.º Compete ao presidente da direcção:
 
 1.º Orientar e coordenar a acção da direcção, presidindo às reuniões, convocando as reuniões extraordinárias e fazendo executar as suas deliberações;
 
@@ -122,7 +146,7 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 § único. O presidente da direcção submeterá directamente a despacho ministerial os assuntos que careçam de aprovação do Governo e será substituído, nas suas faltas e impedimentos, pelo director de serviços superiormente designado.
 
-###### Art. 5.º Além da competência específica conferida por outras disposições legais e regulamentares, compete aos directores:
+Art. 5.º Além da competência específica conferida por outras disposições legais e regulamentares, compete aos directores:
 
 1.º Assistir às reuniões da direcção e participar nas suas deliberações;
 
@@ -138,7 +162,7 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 7.º Propor louvores aos funcionários por motivo de serviços distintos.
 
-###### Art. 6.º Compete à direcção:
+Art. 6.º Compete à direcção:
 
 1.º Aprovar o plano anual de actividades, o orçamento das receitas e despesas e o relatório anual da gerência, antes de submetidos a despacho ministerial;
 
@@ -160,9 +184,9 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 § 2.º Na falta ou impedimento de qualquer dos directores pode ser convocado para o substituir nas reuniões da direcção um chefe de divisão ou de repartição dos respectivos serviços.
 
-###### Art. 7.º Junto da direcção da Emissora Nacional funcionam o conselho administrativo e o conselho de programas.
+Art. 7.º Junto da direcção da Emissora Nacional funcionam o conselho administrativo e o conselho de programas.
 
-###### Art. 8.º Compete ao conselho administrativo:
+Art. 8.º Compete ao conselho administrativo:
 
 1.º Coadjuvar o presidente da direcção na elaboração do orçamento das receitas e despesas e no plano anual de actividades;
 
@@ -178,7 +202,7 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 7.º Autorizar a realização de despesas nos termos permitidos na lei geral aos órgãos dirigentes dos serviços dotados de autonomia financeira.
 
-###### Art. 9.º Compete ao conselho de programas:
+Art. 9.º Compete ao conselho de programas:
 
 1.º Dar parecer sobre os planos de programas radiofónicos elaborados pelos serviços; 2.º Sugerir à direcção tudo o que tiver por conveniente para melhoria dos programas de radiodifusão, analisando quinzenalmente, para esse efeito, os programas emitidos;
 
@@ -188,9 +212,9 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 § único. O conselho de programas reunirá, pelo menos, duas vezes por mês e as funções de relator serão sempre desempenhadas por um dos vogais estranhos à Emissora Nacional.
 
-###### Art. 10.º As comissões regionais de programas previstas no artigo 10.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, serão presididas pelo governador civil do distrito onde tenham a sede e compostas por quatro personalidades a designar pelo Governo, sob proposta da direcção.
+Art. 10.º As comissões regionais de programas previstas no artigo 10.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, serão presididas pelo governador civil do distrito onde tenham a sede e compostas por quatro personalidades a designar pelo Governo, sob proposta da direcção.
 
-###### Art. 11.º Compete às comissões regionais de programas:
+Art. 11.º Compete às comissões regionais de programas:
 
 1.º Propor a realização de emissões de carácter local;
 
@@ -200,13 +224,13 @@ REGULAMENTO DA EMISSORA NACIONAL DE RADIODIFUSÃO
 
 ## TÍTULO II — Dos serviços
 
-###### Art. 12.º A actividade da Emissora Nacional é desempenhada pelos serviços directamente dependentes do presidente da direcção e pelas Direcções dos Serviços de Programas, Técnicos e Administrativos e Financeiros.
+Art. 12.º A actividade da Emissora Nacional é desempenhada pelos serviços directamente dependentes do presidente da direcção e pelas Direcções dos Serviços de Programas, Técnicos e Administrativos e Financeiros.
 
 #### SECÇÃO I — Dos serviços directamente dependentes do presidente da direcção
 
-###### Art. 13.º Dependem directamente do presidente da direcção a Inspecção, o consultor jurídico e o Gabinete de Relações Públicas e Análise de Programas.
+Art. 13.º Dependem directamente do presidente da direcção a Inspecção, o consultor jurídico e o Gabinete de Relações Públicas e Análise de Programas.
 
-###### Art. 14.º À Inspecção compete:
+Art. 14.º À Inspecção compete:
 
 a) Fiscalizar o funcionamento dos serviços e os programas emitidos;
 
@@ -214,11 +238,11 @@ b) Recolher as informações prestadas pelas pessoas incumbidas de se pronunciar
 
 c) Executar os trabalhos de que for encarregada pelo presidente da direcção.
 
-###### Art. 15.º A Inspecção é dirigida pelo inspector-chefe e dela fazem parte os inspectores, os subinspectores e os fiscais de programas.
+Art. 15.º A Inspecção é dirigida pelo inspector-chefe e dela fazem parte os inspectores, os subinspectores e os fiscais de programas.
 
-###### Art. 16.º Ao consultor jurídico compete pronunciar-se sobre as questões de natureza jurídica e desempenhar as demais funções de que for encarregado pelo presidente da direcção.
+Art. 16.º Ao consultor jurídico compete pronunciar-se sobre as questões de natureza jurídica e desempenhar as demais funções de que for encarregado pelo presidente da direcção.
 
-###### Art. 17.º Ao Gabinete de Relações Públicas e Análise de Programas compete:
+Art. 17.º Ao Gabinete de Relações Públicas e Análise de Programas compete:
 
 a) Assegurar as relações entre a Emissora Nacional e os demais organismos nacionais e internacionais de radiodifusão;
 
@@ -226,9 +250,9 @@ b) Corresponder-se com os ouvintes nacionais e estrangeiros, em tudo o que não 
 
 c) Promover a realização de inquéritos radiofónicos e a análise dos programas emitidos, com vista a determinar o grau da sua aceitação pelo público.
 
-###### Art. 18.º O Gabinete de Relações Públicas e Análise de Programas será dirigido por um chefe de divisão ou de repartição, em regime de acumulação, e compreenderá duas secções: uma especialmente encarregada das relações públicas e outra da análise de programas.
+Art. 18.º O Gabinete de Relações Públicas e Análise de Programas será dirigido por um chefe de divisão ou de repartição, em regime de acumulação, e compreenderá duas secções: uma especialmente encarregada das relações públicas e outra da análise de programas.
 
-###### Art. 19.º Podem prestar serviço no Gabinete de Relações Públicas e Análise de Programas:
+Art. 19.º Podem prestar serviço no Gabinete de Relações Públicas e Análise de Programas:
 
 a) Os funcionários, de qualquer das direcções de serviços, designados pelo presidente da direcção;
 
@@ -236,7 +260,7 @@ b) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 #### SECÇÃO II — Da Direcção dos Serviços de Programas
 
-###### Art. 20.º Os serviços de programas organizam-se numa direcção de serviços, na dependência de um director, e compreendem cinco repartições:
+Art. 20.º Os serviços de programas organizam-se numa direcção de serviços, na dependência de um director, e compreendem cinco repartições:
 
 1.ª Repartição - Coordenação e Condução de Programas;
 
@@ -250,11 +274,11 @@ b) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 § único. Junto do director dos Serviços de Programas funciona o Conselho de Planeamento de Programas.
 
-###### Art. 21.º O Conselho de Planeamento de Programas será presidido pelo director dos serviços e constituído pelos respectivos chefes de repartição, podendo agregar quaisquer outros funcionários, por ele designados.
+Art. 21.º O Conselho de Planeamento de Programas será presidido pelo director dos serviços e constituído pelos respectivos chefes de repartição, podendo agregar quaisquer outros funcionários, por ele designados.
 
 § único. Ao Conselho compete estudar os planos de programas e quaisquer outros assuntos relacionados com a orgânica e o funcionamento dos serviços.
 
-###### Art. 22.º À Repartição de Coordenação e Condução de Programas compete:
+Art. 22.º À Repartição de Coordenação e Condução de Programas compete:
 
 a) A execução dos planos de programas metropolitanos e ultramarinos superiormente aprovados;
 
@@ -264,7 +288,7 @@ c) A superintendência na montagem e condução desses programas;
 
 d) A manutenção de um serviço de expediente e agenda central, para uma perfeita coordenação das suas funções.
 
-###### Art. 23.º A Repartição de Coordenação e Condução de Programas compõe-se de cinco secções:
+Art. 23.º A Repartição de Coordenação e Condução de Programas compõe-se de cinco secções:
 
 1.ª Secção - Programas Metropolitanos;
 
@@ -276,9 +300,9 @@ d) A manutenção de um serviço de expediente e agenda central, para uma perfei
 
 5.ª Secção - Produção de Programas (Montagens).
 
-###### Art. 24.º À Repartição de Informação compete a superintendência sobre todos os programas de carácter informativo para a metrópole e para o ultramar, incluindo noticiários e reportagens radiofónicas.
+Art. 24.º À Repartição de Informação compete a superintendência sobre todos os programas de carácter informativo para a metrópole e para o ultramar, incluindo noticiários e reportagens radiofónicas.
 
-###### Art. 25.º A Repartição de Informação compreende:
+Art. 25.º A Repartição de Informação compreende:
 
 a) Chefes de turno dos noticiários metropolitanos e ultramarinos, responsáveis pela elaboração dos respectivos noticiários e na dependência directa do chefe da Repartição;
 
@@ -288,7 +312,7 @@ b) Duas secções:
 
 2.ª Secção - Reportagens e Programas Desportivos.
 
-###### Art. 26.º À Secção de Expediente da Informação compete:
+Art. 26.º À Secção de Expediente da Informação compete:
 
 a) Reunir todas as informações recebidas;
 
@@ -296,7 +320,7 @@ b) Elaborar a respectiva agenda;
 
 c) Providenciar para que as informações sejam comunicadas aos chefes de turno dos noticiários e à Secção de Reportagens e Programas Desportivos.
 
-###### Art. 27.º À Secção de Reportagens e Programas Desportivos compete:
+Art. 27.º À Secção de Reportagens e Programas Desportivos compete:
 
 a) Promover e coordenar a elaboração dos diários sonoros metropolitanos e ultramarinos;
 
@@ -304,9 +328,9 @@ b) Orientar a actividade dos radiocorrespondentes;
 
 c) Assegurar a realização das reportagens e dos programas desportivos.
 
-###### Art. 28.º A Repartição de Programas Musicais compete a preparação e a realização dos programas musicais e a superintendência sobre as orquestras da Emissora Nacional e sobre os arquivos musicais e de gravação.
+Art. 28.º A Repartição de Programas Musicais compete a preparação e a realização dos programas musicais e a superintendência sobre as orquestras da Emissora Nacional e sobre os arquivos musicais e de gravação.
 
-###### Art. 29.º A Repartição de Programas Musicas compõe-se de três secções:
+Art. 29.º A Repartição de Programas Musicas compõe-se de três secções:
 
 1.ª Secção - Música Sinfónica e de Câmara;
 
@@ -320,15 +344,15 @@ c) Assegurar a realização das reportagens e dos programas desportivos.
 
 A 3.ª Secção superintende sobre a musicoteca e a fonoteca.
 
-###### Art. 30.º À Repartição de Programas Literários compete o estudo e a proposta de programas literários de carácter cultural ou recreativo, assim como a apreciação dos que forem encomendados ou apresentados à Emissora Nacional.
+Art. 30.º À Repartição de Programas Literários compete o estudo e a proposta de programas literários de carácter cultural ou recreativo, assim como a apreciação dos que forem encomendados ou apresentados à Emissora Nacional.
 
-###### Art. 31.º A Repartição de Programas Literários compreende duas secções:
+Art. 31.º A Repartição de Programas Literários compreende duas secções:
 
 1.ª Secção - Programas Educativo-Recreativos;
 
 2.ª Secção - Programas Dramáticos.
 
-###### Art. 32.º À Repartição de Programas para o Estrangeiro e Intercâmbio compete:
+Art. 32.º À Repartição de Programas para o Estrangeiro e Intercâmbio compete:
 
 a) Promover a divulgação de tudo o que possa contribuir para um melhor e mais amplo conhecimento de Portugal no estrangeiro;
 
@@ -338,7 +362,7 @@ c) Assegurar todo o serviço de intercâmbio de programas com outras estações 
 
 Para a realização de tais fins incumbe a esta Repartição transmitir, nas línguas convenientes, noticiários e programas de carácter cultural e recreativo, adequados aos ouvintes a que se destinam, e distribuir programas gravados pelos organismos de radiodifusão.
 
-###### Art. 33.º A Repartição de Programas para o Estrangeiro e Intercâmbio compreende três secções:
+Art. 33.º A Repartição de Programas para o Estrangeiro e Intercâmbio compreende três secções:
 
 1.ª Secção - Programas em Língua Estrangeira;
 
@@ -348,7 +372,7 @@ Para a realização de tais fins incumbe a esta Repartição transmitir, nas lí
 
 #### SECÇÃO III — Da Direcção dos Serviços Técnicos
 
-###### Art. 34.º Os serviços técnicos organizam-se numa direcção de serviços, na dependência de um director, e compreende três divisões:
+Art. 34.º Os serviços técnicos organizam-se numa direcção de serviços, na dependência de um director, e compreende três divisões:
 
 1.ª Divisão - Emissores;
 
@@ -362,21 +386,21 @@ a) O Conselho Técnico;
 
 b) O Gabinete de Obras.
 
-###### Art. 35.º O Conselho Técnico será presidido pelo director dos serviços e constituído pelos respectivos chefes de diviso, podendo agregar quaisquer outros funcionários por ele designados.
+Art. 35.º O Conselho Técnico será presidido pelo director dos serviços e constituído pelos respectivos chefes de diviso, podendo agregar quaisquer outros funcionários por ele designados.
 
 § único. Ao Conselho compete coadjuvar o director dos serviços no planeamento e nos estudos técnicos a realizar e pronunciar-se sobre os assuntos que sejam submetidos à sua apreciação.
 
-###### Art. 36.º O Gabinete de Obras será constituído pelo pessoal que for designado pelo director dos Serviços Técnicos.
+Art. 36.º O Gabinete de Obras será constituído pelo pessoal que for designado pelo director dos Serviços Técnicos.
 
 § único. Compete ao Gabinete de Obras coordenar e promover a realização dos trabalhos de conservação de edifícios e de construção civil, quer por intermédio da Direcção-Geral dos Edifícios e Monumentos Nacionais, quer directamente nos termos da legislação em vigor, e promover a execução dos trabalhos respeitantes a novas instalações, em cumprimento dos planos superiormente aprovados.
 
-###### Art. 37.º À Divisão de Emissores compete:
+Art. 37.º À Divisão de Emissores compete:
 
 a) Assegurar a exploração, funcionamento e manutenção dos emissores regionais e centros emissores;
 
 b) Promover a elaboração de projectos e a instalação de novos equipamentos, de harmonia com os planos superiormente aprovados.
 
-###### Art. 38.º A Divisão de Emissores compreende quatro subdivisões:
+Art. 38.º A Divisão de Emissores compreende quatro subdivisões:
 
 1.ª Subdivisão - Engenharia e Apetrechamento;
 
@@ -402,7 +426,7 @@ b) Centro Emissor Ultramarino.
 
 § único. Quando as circunstâncias o aconselharem, os serviços técnicos dos centros emissores poderão ser repartidos por vários sectores, nomeadamente os de emissores, antenas, serviços auxiliares, oficinas e armazéns anexos.
 
-###### Art. 39.º À Divisão de Estúdios compete:
+Art. 39.º À Divisão de Estúdios compete:
 
 a) Assegurar a exploração dos serviços técnicos de captação, gravação e reprodução sonora dos programas e o seu encaminhamento aos centros emissores;
 
@@ -410,7 +434,7 @@ b) Proceder à instalação e manutenção dos equipamentos técnicos dos respec
 
 c) Promover a elaboração de projectos para novas instalações de estúdios, de harmonia com os planos superiormente aprovados.
 
-###### Art. 40.º A Divisão de Estúdios compreende duas subdivisões:
+Art. 40.º A Divisão de Estúdios compreende duas subdivisões:
 
 1.ª Subdivisão - Exploração, compreendendo:
 
@@ -430,7 +454,7 @@ a) Manutenção, oficinas e armazéns anexos;
 
 b) Engenharia e apetrechamento.
 
-###### Art. 41.º À Divisão de Estudos e Ensaios compete:
+Art. 41.º À Divisão de Estudos e Ensaios compete:
 
 a) Realizar os estudos, ensaios e medidas necessários à obtenção do máximo de rendimento de todos os serviços técnicos da Emissora Nacional;
 
@@ -440,7 +464,7 @@ c) Organizar e manter em funcionamento a biblioteca técnica da Emissora Naciona
 
 d) Promover o aperfeiçoamento profissional do pessoal técnico, por meio de cursos adequados, e publicar estudos e monografias de natureza técnica de interesse para a radiodifusão.
 
-###### Art. 42.º A Divisão de Estudos e Ensaios compreende a Sala de Desenho, o Serviço de Publicações e Instrução do Pessoal Técnico e duas subdivisões:
+Art. 42.º A Divisão de Estudos e Ensaios compreende a Sala de Desenho, o Serviço de Publicações e Instrução do Pessoal Técnico e duas subdivisões:
 
 1.ª Subdivisão - Estudos e Investigação, compreendendo:
 
@@ -458,17 +482,17 @@ b) Centro de escuta e medidas;
 
 c) Medidas no exterior.
 
-###### Art. 43.º A orgânica e a actividade das subdivisões serão estabelecidas em ordem de serviço, competindo ao director dos Serviços Técnicos designar os engenheiros que devam chefiá-las.
+Art. 43.º A orgânica e a actividade das subdivisões serão estabelecidas em ordem de serviço, competindo ao director dos Serviços Técnicos designar os engenheiros que devam chefiá-las.
 
 #### SECÇÃO IV — Da Direcção dos Serviços Administrativos e Financeiros
 
-###### Art. 44.º Os serviços administrativos e financeiros organizam-se numa direcção de serviços, na dependência de um director, e compreendem o Gabinete de Estudos e Organização, a Tesouraria, os Serviços Mecanográficos e duas divisões:
+Art. 44.º Os serviços administrativos e financeiros organizam-se numa direcção de serviços, na dependência de um director, e compreendem o Gabinete de Estudos e Organização, a Tesouraria, os Serviços Mecanográficos e duas divisões:
 
 1.º Divisão - Serviços Administrativos;
 
 2.ª Divisão - Serviços Financeiros.
 
-###### Art. 45.º O Gabinete de Estudos e Organização terá a constituição exigida pela natureza e extensão dos trabalhos a seu cargo, podendo nele prestar serviço, pelo tempo julgado conveniente:
+Art. 45.º O Gabinete de Estudos e Organização terá a constituição exigida pela natureza e extensão dos trabalhos a seu cargo, podendo nele prestar serviço, pelo tempo julgado conveniente:
 
 a) Os funcionários administrativos designados pelo respectivo director;
 
@@ -478,15 +502,15 @@ c) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 § único. O Gabinete de Estudos e Organização será chefiado por um chefe de divisão ou de repartição dos serviços administrativos e financeiros, em regime de acumulação, ou, quando for julgado conveniente, por um funcionário de categoria a que corresponda vencimento igual ou superior ao da letra L, em comissão.
 
-###### Art. 46.º A Tesouraria funciona junto da Direcção dos Serviços Administrativos e Financeiros e dela dependem as recebedorias e pagadorias dos emissores regionais e as que forem criadas por conveniência de serviço.
+Art. 46.º A Tesouraria funciona junto da Direcção dos Serviços Administrativos e Financeiros e dela dependem as recebedorias e pagadorias dos emissores regionais e as que forem criadas por conveniência de serviço.
 
-###### Art. 47.º A movimentação das contas de depósito da Emissora Nacional de Radiodifusão na Caixa Geral de Depósitos, Crédito e Previdência será feita mediante as assinaturas do presidente do conselho administrativo e de um dos vogais.
+Art. 47.º A movimentação das contas de depósito da Emissora Nacional de Radiodifusão na Caixa Geral de Depósitos, Crédito e Previdência será feita mediante as assinaturas do presidente do conselho administrativo e de um dos vogais.
 
-###### Art. 48.º Aos Serviços Mecanográficos compete a realização das tarefas da sua especialidade, em apoio das missões específicas dos diversos serviços da Emissora Nacional e com vista à simplificação e maior produtividade dos processos de trabalho.
+Art. 48.º Aos Serviços Mecanográficos compete a realização das tarefas da sua especialidade, em apoio das missões específicas dos diversos serviços da Emissora Nacional e com vista à simplificação e maior produtividade dos processos de trabalho.
 
-###### Art. 49.º À Divisão dos Serviços Administrativos compete assegurar o expediente relativo à gestão administrativa da Emissora Nacional.
+Art. 49.º À Divisão dos Serviços Administrativos compete assegurar o expediente relativo à gestão administrativa da Emissora Nacional.
 
-###### Art. 50.º A Divisão dos Serviços Administrativos compreendo três repartições:
+Art. 50.º A Divisão dos Serviços Administrativos compreendo três repartições:
 
 1.ª Repartição - Serviços Gerais;
 
@@ -494,9 +518,9 @@ c) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 3.ª Repartição - Transgressões e Execuções.
 
-###### Art. 51.º À Repartição dos Serviços Gerais compete receber, distribuir e expedir a correspondência, assegurar todo o expediente respeitante ao pessoal, manter o arquivo geral e a biblioteca, assegurar os transportes e tomar as providências adequadas à protecção dos bens da Emissora Nacional e à higiene e conforto das respectivas instalações.
+Art. 51.º À Repartição dos Serviços Gerais compete receber, distribuir e expedir a correspondência, assegurar todo o expediente respeitante ao pessoal, manter o arquivo geral e a biblioteca, assegurar os transportes e tomar as providências adequadas à protecção dos bens da Emissora Nacional e à higiene e conforto das respectivas instalações.
 
-###### Art. 52.º A Repartição dos Serviços Gerais compreende o Serviço de Almoxarifado, o Serviço de Transportes e três secções:
+Art. 52.º A Repartição dos Serviços Gerais compreende o Serviço de Almoxarifado, o Serviço de Transportes e três secções:
 
 1.ª Secção - Secretaria e Arquivo Geral;
 
@@ -504,9 +528,9 @@ c) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 3.ª Secção - Acção Social.
 
-###### Art. 53.º À Repartição de Licenciamento compete conceder e cancelar licenças, manter actualizado o cadastro dos subscritores e promover o esclarecimento do público quanto aos deveres impostos por lei aos utentes de receptores.
+Art. 53.º À Repartição de Licenciamento compete conceder e cancelar licenças, manter actualizado o cadastro dos subscritores e promover o esclarecimento do público quanto aos deveres impostos por lei aos utentes de receptores.
 
-###### Art. 54.º A Repartição de Licenciamento compreende três secções:
+Art. 54.º A Repartição de Licenciamento compreende três secções:
 
 1.ª Secção - Concessão de Licenças;
 
@@ -514,25 +538,25 @@ c) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 3.ª Secção - Informações.
 
-###### Art. 55.º À Repartição de Transgressões e Execuções compete zelar pelo cumprimento das obrigações fixadas na lei aos proprietários, possuidores ou simples detentores de receptores de radiodifusão sonora e de televisão, bem como promover a execução fiscal das dívidas à Emissora Nacional que beneficiem de tal regime.
+Art. 55.º À Repartição de Transgressões e Execuções compete zelar pelo cumprimento das obrigações fixadas na lei aos proprietários, possuidores ou simples detentores de receptores de radiodifusão sonora e de televisão, bem como promover a execução fiscal das dívidas à Emissora Nacional que beneficiem de tal regime.
 
-###### Art. 56.º A Repartição de Transgressões e Execuções compreende o Serviço de Fiscalização e duas secções:
+Art. 56.º A Repartição de Transgressões e Execuções compreende o Serviço de Fiscalização e duas secções:
 
 1.ª Secção - Transgressões;
 
 2.ª Secção - Execuções.
 
-###### Art. 57.º À Divisão dos Serviços Financeiros compete assegurar o expediente relativo à gestão financeira e patrimonial da Emissora Nacional.
+Art. 57.º À Divisão dos Serviços Financeiros compete assegurar o expediente relativo à gestão financeira e patrimonial da Emissora Nacional.
 
-###### Art. 58.º A Divisão dos Serviços Financeiros compreende duas repartições:
+Art. 58.º A Divisão dos Serviços Financeiros compreende duas repartições:
 
 1.ª Repartição - Contabilidade;
 
 2.ª Repartição - Património.
 
-###### Art. 59.º À Repartição de Contabilidade compete coordenar os elementos necessários à elaboração do orçamento e da conta de gerência, promover a regular cobrança das receitas, verificar a correcção jurídica das despesas, propor as medidas adequadas à boa execução do orçamento e manter actualizado um sistema contabilístico adaptado à natureza específica da Emissora Nacional e às exigências legais.
+Art. 59.º À Repartição de Contabilidade compete coordenar os elementos necessários à elaboração do orçamento e da conta de gerência, promover a regular cobrança das receitas, verificar a correcção jurídica das despesas, propor as medidas adequadas à boa execução do orçamento e manter actualizado um sistema contabilístico adaptado à natureza específica da Emissora Nacional e às exigências legais.
 
-###### Art. 60.º A Repartição de Contabilidade compreende três secções:
+Art. 60.º A Repartição de Contabilidade compreende três secções:
 
 1.ª Secção - Receita;
 
@@ -540,9 +564,9 @@ c) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 3.ª Secção - Centralização.
 
-###### Art. 61.º À Repartição de Património compete assegurar a aquisição, produção, conservação e distribuição dos bens essenciais ao funcionamento dos serviços e manter actualizado o respectivo cadastro, quer os bens se encontrem nos armazéns centrais, quer em armazéns existentes noutros serviços.
+Art. 61.º À Repartição de Património compete assegurar a aquisição, produção, conservação e distribuição dos bens essenciais ao funcionamento dos serviços e manter actualizado o respectivo cadastro, quer os bens se encontrem nos armazéns centrais, quer em armazéns existentes noutros serviços.
 
-###### Art. 62.º A Repartição de Património compreende três secções:
+Art. 62.º A Repartição de Património compreende três secções:
 
 1.ª Secção - Abastecimentos;
 
@@ -552,13 +576,13 @@ c) Indivíduos estranhos ao quadro, de reconhecida competência, em regime de pr
 
 #### SECÇÃO V — Dos emissores regionais, centros emissores e outras serviços externos
 
-###### Art. 63.º Para cumprimento dos fins previstos no artigo 2.º da lei orgânica, pode a Emissora Nacional instalar em qualquer ponto do território português emissores regionais e centros emissores, delegações e centros de escuta e medida.
+Art. 63.º Para cumprimento dos fins previstos no artigo 2.º da lei orgânica, pode a Emissora Nacional instalar em qualquer ponto do território português emissores regionais e centros emissores, delegações e centros de escuta e medida.
 
 § único. A exploração de determinados emissores e de centros de escuta e medida pode ser confiada, a título precário e nas condições superiormente aprovadas, a entidades estranhas à Emissora Nacional.
 
-###### Art. 64.º Os emissores regionais são, conforme a sua importância, chefiados por intendentes ou encarregados, disciplinarmente dependentes do presidente da direcção.
+Art. 64.º Os emissores regionais são, conforme a sua importância, chefiados por intendentes ou encarregados, disciplinarmente dependentes do presidente da direcção.
 
-###### Art. 65.º Compete aos intendentes:
+Art. 65.º Compete aos intendentes:
 
 a) Superintender sobre o pessoal colocado no emissor em representação das respectivas direcções de serviços;
 
@@ -566,15 +590,15 @@ b) Zelar pela manutenção da disciplina no emissor e pelo cumprimento dos prece
 
 c) Coordenar a actividade dos vários serviços instalados no emissor ou dele dependentes.
 
-###### Art. 66.º Quando o desenvolvimento dos serviços o justifique, podem funcionar nos emissores regionais núcleos individualizados dos serviços de programas, dos serviços técnicos e dos serviços administrativos e financeiros.
+Art. 66.º Quando o desenvolvimento dos serviços o justifique, podem funcionar nos emissores regionais núcleos individualizados dos serviços de programas, dos serviços técnicos e dos serviços administrativos e financeiros.
 
-###### Art. 67.º A correspondência entre os emissores regionais e os serviços da sede deve ser assinada pelos respectivos intendentes e a eles dirigida, devendo também as directrizes emanadas dos serviços centrais ser levadas ao conhecimento dos diversos funcionários através dos intendentes.
+Art. 67.º A correspondência entre os emissores regionais e os serviços da sede deve ser assinada pelos respectivos intendentes e a eles dirigida, devendo também as directrizes emanadas dos serviços centrais ser levadas ao conhecimento dos diversos funcionários através dos intendentes.
 
 § único. Exceptuam-se do disposto no corpo do artigo os assuntos correntes ou de simples rotina, em relação aos quais é dispensado o conhecimento prévio dos intendentes sempre que daí não resulte prejuízo para a disciplina dos emissores regionais.
 
-###### Art. 68.º Aos chefes dos centros emissores, encarregados dos emissores regionais e de outros serviços externos pode ser conferida, por despacho do presidente da direcção, competência análoga à dos intendentes.
+Art. 68.º Aos chefes dos centros emissores, encarregados dos emissores regionais e de outros serviços externos pode ser conferida, por despacho do presidente da direcção, competência análoga à dos intendentes.
 
-###### Art. 69.º O quadro do pessoal dos emissores regionais, centros emissores e demais serviços externos será fixado em ordem de serviço, dentro dos contingentes do quadro geral.
+Art. 69.º O quadro do pessoal dos emissores regionais, centros emissores e demais serviços externos será fixado em ordem de serviço, dentro dos contingentes do quadro geral.
 
 ## TÍTULO III — Do pessoal
 
@@ -582,17 +606,17 @@ c) Coordenar a actividade dos vários serviços instalados no emissor ou dele de
 
 #### SECÇÃO I — Disposições gerais e comuns
 
-###### Art. 70.º O recrutamento de pessoal para os lugares do quadro geral e de pessoal a admitir nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, será feito por escolha ou por concurso, nas condições fixadas no presente regulamento.
+Art. 70.º O recrutamento de pessoal para os lugares do quadro geral e de pessoal a admitir nos termos do artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), de 30 de Dezembro de 1957, será feito por escolha ou por concurso, nas condições fixadas no presente regulamento.
 
-###### Art. 71.º Sempre que no presente diploma se não prescreva expressamente o provimento por concurso, poderá o mesmo efectuar-se por escolha, sem prejuízo, porém, de se recorrer à abertura de concurso, documental ou de prestação de provas, quando tal se considere conveniente.
+Art. 71.º Sempre que no presente diploma se não prescreva expressamente o provimento por concurso, poderá o mesmo efectuar-se por escolha, sem prejuízo, porém, de se recorrer à abertura de concurso, documental ou de prestação de provas, quando tal se considere conveniente.
 
-###### Art. 72.º Salvo nos casos especialmente regulados, as promoções do pessoal efectuam-se dentro do quadro de cada serviço para a classe imediatamente superior, mediante concurso de prestação de provas.
+Art. 72.º Salvo nos casos especialmente regulados, as promoções do pessoal efectuam-se dentro do quadro de cada serviço para a classe imediatamente superior, mediante concurso de prestação de provas.
 
 § único. Aos concursos de promoção são obrigados a concorrer os funcionários que à data do despacho que determine a sua abertura tenham três anos de bom e efectivo serviço na categoria imediatamente inferior, sem prejuízo, porém, do disposto nos artigos 2.º e 3.º do [Decreto-Lei n.º 29996](https://diariodarepublica.pt/dr/detalhe/decreto-lei/29996-1939-186158), de 24 de Outubro de 1939.
 
-###### Art. 73.º Salvo nos casos em que se estabeleça outra forma, o provimento de indivíduos estranhos ao quadro será feito por contrato anual, tàcitamente renovável, mas, depois de cinco anos de bom e efectivo serviço, poderá o provimento nos lugares do quadro converter-se em definitivo, sob proposta fundamentada do respectivo director de serviço.
+Art. 73.º Salvo nos casos em que se estabeleça outra forma, o provimento de indivíduos estranhos ao quadro será feito por contrato anual, tàcitamente renovável, mas, depois de cinco anos de bom e efectivo serviço, poderá o provimento nos lugares do quadro converter-se em definitivo, sob proposta fundamentada do respectivo director de serviço.
 
-###### Art. 74.º Os engenheiros radiotécnicos de 2.ª classe, assistentes radiotécnicos de 2.ª classe, radiomontadores de 3.ª classe, condutores de central Diesel de 2.ª classe, operadores auxiliares, guarda-fios de antenas de 2.ª classe, mecânicos auxiliares, locutores de 2.ª classe, dactilógrafos, operadores mecanográficos de 2.ª classe, coordenadores mecanográficos de 2.ª classe, perfuradoras mecanográficas de 3.ª classe, electricistas de 3.ª classe e artífices de 3.ª classe serão contratados na situação de estagiários.
+Art. 74.º Os engenheiros radiotécnicos de 2.ª classe, assistentes radiotécnicos de 2.ª classe, radiomontadores de 3.ª classe, condutores de central Diesel de 2.ª classe, operadores auxiliares, guarda-fios de antenas de 2.ª classe, mecânicos auxiliares, locutores de 2.ª classe, dactilógrafos, operadores mecanográficos de 2.ª classe, coordenadores mecanográficos de 2.ª classe, perfuradoras mecanográficas de 3.ª classe, electricistas de 3.ª classe e artífices de 3.ª classe serão contratados na situação de estagiários.
 
 O estágio será cumprido em comissão de serviço sempre que se trate de funcionários pertencentes ao quadro geral.
 
@@ -602,15 +626,15 @@ O estágio será cumprido em comissão de serviço sempre que se trate de funcio
 
 § 3.º A informação referida no parágrafo anterior terá de ser fundamentada, competindo à Secção de Pessoal a sua obtenção dos serviços onde o estágio tenha decorrido.
 
-###### Art. 75.º O lugar de médico será desempenhado em regime de comissão de serviço por períodos renováveis de três anos.
+Art. 75.º O lugar de médico será desempenhado em regime de comissão de serviço por períodos renováveis de três anos.
 
-###### Art. 76.º Os lugares de assistente social, enfermeiro, fiscal de taxas, motorista, motociclista, contínuo, porteiro, cantoneiro, lavador e carregador serão providos exclusivamente por contrato.
+Art. 76.º Os lugares de assistente social, enfermeiro, fiscal de taxas, motorista, motociclista, contínuo, porteiro, cantoneiro, lavador e carregador serão providos exclusivamente por contrato.
 
-###### Art. 77.º As nomeações e promoções dos funcionários providos definitivamente serão feitas por portaria. As promoções dos restantes funcionários serão feitas por contrato.
+Art. 77.º As nomeações e promoções dos funcionários providos definitivamente serão feitas por portaria. As promoções dos restantes funcionários serão feitas por contrato.
 
-###### Art. 78.º O primeiro provimento nos lugares de acesso do quadro geral far-se-á em indivíduos maiores de 21 anos, mas de idade não superior a 35 anos.
+Art. 78.º O primeiro provimento nos lugares de acesso do quadro geral far-se-á em indivíduos maiores de 21 anos, mas de idade não superior a 35 anos.
 
-###### Art. 79.º A idade mínima fixada no artigo anterior é reduzida para 18 anos quando se trate do provimento nas seguintes categorias:
+Art. 79.º A idade mínima fixada no artigo anterior é reduzida para 18 anos quando se trate do provimento nas seguintes categorias:
 
 a) Locutor de 2.ª classe;
 
@@ -634,7 +658,7 @@ j) Auxiliar de expediente;
 
 k) Motociclista.
 
-###### Art. 80.º O limite máximo de idade estabelecido no artigo 78.º não se aplica:
+Art. 80.º O limite máximo de idade estabelecido no artigo 78.º não se aplica:
 
 a) No provimento das lugares de fiscal de programas;
 
@@ -644,9 +668,9 @@ c) Quando os candidatos aos lugares já sejam funcionários do Estado ou dos cor
 
 § único. Os lugares de motorista de 2.ª classe e de motociclista não podem ser providos em indivíduos de idade superior a 30 anos, a não ser no caso previsto no artigo seguinte.
 
-###### Art. 81.º Os candidatos aprovados em concurso para qualquer categoria do quadro geral podem ser contratados, independentemente do limite máximo de idade, desde que os provimentos se façam dentro do prazo de validade dos respectivos concursos ou nos termos do § único do artigo 165.º
+Art. 81.º Os candidatos aprovados em concurso para qualquer categoria do quadro geral podem ser contratados, independentemente do limite máximo de idade, desde que os provimentos se façam dentro do prazo de validade dos respectivos concursos ou nos termos do § único do artigo 165.º
 
-###### Art. 82.º Serão providos exclusivamente em indivíduos do sexo masculino os seguintes lugares:
+Art. 82.º Serão providos exclusivamente em indivíduos do sexo masculino os seguintes lugares:
 
 a) Mecânico de radiodifusão;
 
@@ -668,7 +692,7 @@ i) Lavador;
 
 j) Carregador.
 
-###### Art. 83.º Serão exclusivamente providos em indivíduos do sexo feminino os seguintes lugares:
+Art. 83.º Serão exclusivamente providos em indivíduos do sexo feminino os seguintes lugares:
 
 a) Assistente social;
 
@@ -676,17 +700,17 @@ b) Perfuradora mecanográfica;
 
 c) Telefonista.
 
-###### Art. 84.º O tempo de serviço prestado ao abrigo dos artigos 18.º e 19.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e do artigo 10.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), de 11 de Dezembro de 1965, pode ser contado para efeitos de estágio, promoção e provimento definitivo, desde que tenha sido remunerado por verba da classe de pessoal e objecto de boas informações, se for seguido, sem interrupção, de provimento na categoria correspondente às funções exercidas.
+Art. 84.º O tempo de serviço prestado ao abrigo dos artigos 18.º e 19.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) e do artigo 10.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054), de 11 de Dezembro de 1965, pode ser contado para efeitos de estágio, promoção e provimento definitivo, desde que tenha sido remunerado por verba da classe de pessoal e objecto de boas informações, se for seguido, sem interrupção, de provimento na categoria correspondente às funções exercidas.
 
-###### Art. 85.º Os chefes de divisão, de repartição e de secção são colocados nos diversos cargos por despacho do presidente da direcção, ouvido o director do respectivo serviço e atendendo às habilitações específicas exigidas para os cargos.
+Art. 85.º Os chefes de divisão, de repartição e de secção são colocados nos diversos cargos por despacho do presidente da direcção, ouvido o director do respectivo serviço e atendendo às habilitações específicas exigidas para os cargos.
 
-###### Art. 86.º A posse dos funcionários de categoria a que corresponda vencimento inferior ao da letra J será conferida pelo director dos Serviços Administrativos e Financeiros.
+Art. 86.º A posse dos funcionários de categoria a que corresponda vencimento inferior ao da letra J será conferida pelo director dos Serviços Administrativos e Financeiros.
 
-###### Art. 87.º São extensivos às admissões por livre escolha os requisitos indicados no artigo 119.º, assim como as normas constantes do artigo 121.º e seu § 1.º que forem aplicáveis.
+Art. 87.º São extensivos às admissões por livre escolha os requisitos indicados no artigo 119.º, assim como as normas constantes do artigo 121.º e seu § 1.º que forem aplicáveis.
 
 #### SECÇÃO II — Do pessoal dos serviços directamente dependentes do presidente da direcção
 
-###### Art. 88.º Os lugares de inspector-chefe, consultor jurídico, intendente, inspector, chefe de secção, subinspector e fiscal de programas serão providos nas condições seguintes:
+Art. 88.º Os lugares de inspector-chefe, consultor jurídico, intendente, inspector, chefe de secção, subinspector e fiscal de programas serão providos nas condições seguintes:
 
 a) Inspector-chefe e intendente do Emissor Regional do Norte - em funcionários do quadro geral, de categoria a que corresponda vencimento superior ao da letra K, com mais de cinco anos no desempenho de funções na Emissora Nacional, ou em indivíduos de reconhecida competência, habilitados com um curso superior, licenciados há mais de cinco anos;
 
@@ -700,7 +724,7 @@ e) Fiscal de programas - em indivíduos habilitados com o 2.º ciclo liceal ou e
 
 #### SECÇÃO III — Do pessoal dos serviços de programas
 
-###### Art. 89.º Os lugares de ingresso no quadro do pessoal dos serviços de programas serão providos nas condições seguintes:
+Art. 89.º Os lugares de ingresso no quadro do pessoal dos serviços de programas serão providos nas condições seguintes:
 
 a) Assistente de programas literários de 3.ª classe, coordenador de programas de 3.ª classe, ajudante de produção e locutor de 2.ª classe - em indivíduos habilitados com o 2.º ciclo liceal ou equivalente, aprovados em concurso com prestação de provas;
 
@@ -710,7 +734,7 @@ c) Arrumador de arquivos musicais - em indivíduos habilitados com o exame de in
 
 § único. Ao concurso de admissão à categoria de ajudante de produção podem concorrer também, nas condições previstas no § 2.º do artigo 101.º, os funcionários indicados nas alíneas a) e b) do referido parágrafo e os arrumadores de arquivos musicais, habilitados com o 1.º ciclo liceal ou equivalente.
 
-###### Art. 90.º Os lugares de chefe de repartição, chefe de secção, regente de estúdios, produtor-chefe e produtor de 2.ª classe serão providos nas condições seguintes:
+Art. 90.º Os lugares de chefe de repartição, chefe de secção, regente de estúdios, produtor-chefe e produtor de 2.ª classe serão providos nas condições seguintes:
 
 a) Chefe de repartição - em chefes de secção, inspectores e intendentes com mais de cinco anos no desempenho dessas funções e aptidões especiais para o cargo, ou em indivíduos de reconhecida competência, habilitados com um curso superior, licenciados há mais de cinco anos;
 
@@ -726,7 +750,7 @@ e) Produtor de 2.ª classe - em ajudantes de produção, com mais de três anos 
 
 #### SECÇÃO IV — Do pessoal dos serviços técnicos
 
-###### Art. 91.º Os lugares de ingresso no quadro do pessoal dos serviços técnicos serão providos nas condições seguintes:
+Art. 91.º Os lugares de ingresso no quadro do pessoal dos serviços técnicos serão providos nas condições seguintes:
 
 a) Engenheiro radiotécnico de 2.ª classe - em indivíduos habilitados com o curso de Engenharia Electrotécnica;
 
@@ -748,27 +772,27 @@ g) Mecânico auxiliar e guarda-fios de antena de 2.ª classe - em indivíduos ha
 
 A sua admissão à classe, concluído o período de estágio, depende, porém, da apresentação da carta de curso.
 
-###### Art. 92.º Os lugares de chefe de divisão serão providos em engenheiros radiotécnicos de 1.ª classe ou em engenheiros electrotécnicos de reconhecida competência, diplomados há mais de cinco anos.
+Art. 92.º Os lugares de chefe de divisão serão providos em engenheiros radiotécnicos de 1.ª classe ou em engenheiros electrotécnicos de reconhecida competência, diplomados há mais de cinco anos.
 
-###### Art. 93.º Os lugares de assistente radiotécnico-chefe serão providos em funcionários do quadro do pessoal dos serviços técnicos, de categoria a que corresponda vencimento superior ao da letra M, com mais de cinco anos de bom e efectivo serviço no quadro geral e aptidão especial para o cargo.
+Art. 93.º Os lugares de assistente radiotécnico-chefe serão providos em funcionários do quadro do pessoal dos serviços técnicos, de categoria a que corresponda vencimento superior ao da letra M, com mais de cinco anos de bom e efectivo serviço no quadro geral e aptidão especial para o cargo.
 
-###### Art. 94.º Os lugares de desenhador-chefe e mecânico de radiodifusão-chefe serão providos, respectivamente, em desenhadores de 1.ª classe e mecânicos de radiodifusão de 1.ª classe, com mais de cinco anos de bom e efectivo serviço no quadro geral e aptidão especial para o cargo.
+Art. 94.º Os lugares de desenhador-chefe e mecânico de radiodifusão-chefe serão providos, respectivamente, em desenhadores de 1.ª classe e mecânicos de radiodifusão de 1.ª classe, com mais de cinco anos de bom e efectivo serviço no quadro geral e aptidão especial para o cargo.
 
-###### Art. 95.º Os lugares de operador radiotécnico de 3.ª classe e mecânico de radiodifusão de 3.ª classe serão providos, respectivamente, em operadores auxiliares e mecânicos auxiliares, aprovados em concurso com prestação de provas, ao qual serão admitidos os funcionários com mais de um ano de bom e efectivo serviço nessas categorias.
+Art. 95.º Os lugares de operador radiotécnico de 3.ª classe e mecânico de radiodifusão de 3.ª classe serão providos, respectivamente, em operadores auxiliares e mecânicos auxiliares, aprovados em concurso com prestação de provas, ao qual serão admitidos os funcionários com mais de um ano de bom e efectivo serviço nessas categorias.
 
-###### Art. 96.º Quando, nos concursos de promoção a engenheiro radiotécnico de 1.ª classe e assistente radiotécnicos de 1.ª classe, não forem aprovados candidatos em número suficiente, podem as vagas existentes ser preenchidas, respectivamente, por engenheiros electrotécnicos e agentes técnicos de engenharia, com o curso de Electrotecnia e Máquinas, diplomados há mais de cinco anos, mediante concurso ou escolha devidamente fundamentada.
+Art. 96.º Quando, nos concursos de promoção a engenheiro radiotécnico de 1.ª classe e assistente radiotécnicos de 1.ª classe, não forem aprovados candidatos em número suficiente, podem as vagas existentes ser preenchidas, respectivamente, por engenheiros electrotécnicos e agentes técnicos de engenharia, com o curso de Electrotecnia e Máquinas, diplomados há mais de cinco anos, mediante concurso ou escolha devidamente fundamentada.
 
-###### Art. 97.º No caso de não existirem engenheiros radiotécnicos de 2.ª classe em número suficiente para preenchimento das vagas de engenheiro radiotécnico de 1.ª classe, podem ser nomeados para as vagas excedentes engenheiros electrotécnicos de reconhecida competência, diplomados há mais de cinco anos.
+Art. 97.º No caso de não existirem engenheiros radiotécnicos de 2.ª classe em número suficiente para preenchimento das vagas de engenheiro radiotécnico de 1.ª classe, podem ser nomeados para as vagas excedentes engenheiros electrotécnicos de reconhecida competência, diplomados há mais de cinco anos.
 
-###### Art. 98.º Se, na hipótese prevista no artigo 96.º ainda subsistirem vagas de assistente radiotécnico de 1.ª classe, podem as mesmas ser preenchidas por operadores radiotécnicos de 1.ª classe, com mais de três anos de bom e efectivo serviço nessa classe, aprovados em concurso com prestação de provas.
+Art. 98.º Se, na hipótese prevista no artigo 96.º ainda subsistirem vagas de assistente radiotécnico de 1.ª classe, podem as mesmas ser preenchidas por operadores radiotécnicos de 1.ª classe, com mais de três anos de bom e efectivo serviço nessa classe, aprovados em concurso com prestação de provas.
 
-###### Art. 99.º Quando o número de candidatos aprovados em concurso de admissão a assistente radiotécnico de 2.ª classe for insuficiente para o preenchimento das vagas existentes, poderá abrir-se concurso com prestação de provas, a que poderão habilitar-se os operadores radiotécnicos de 2.ª classe com mais de três anos de bom e efectivo serviço nessa classe.
+Art. 99.º Quando o número de candidatos aprovados em concurso de admissão a assistente radiotécnico de 2.ª classe for insuficiente para o preenchimento das vagas existentes, poderá abrir-se concurso com prestação de provas, a que poderão habilitar-se os operadores radiotécnicos de 2.ª classe com mais de três anos de bom e efectivo serviço nessa classe.
 
-###### Art. 100.º Ao concurso de promoção a mecânicos de radiodifusão de 2.ª classe podem concorrer, também, os electricistas de 3.ª classe, os artífices de 3.ª classe e os fiéis de armazém, com mais de cinco anos de bom e efectivo serviço no quadro geral e habilitados com o curso interno de aperfeiçoamento profissional adequado.
+Art. 100.º Ao concurso de promoção a mecânicos de radiodifusão de 2.ª classe podem concorrer, também, os electricistas de 3.ª classe, os artífices de 3.ª classe e os fiéis de armazém, com mais de cinco anos de bom e efectivo serviço no quadro geral e habilitados com o curso interno de aperfeiçoamento profissional adequado.
 
 #### SECÇÃO V — Do pessoal dos serviços administrativos e financeiros
 
-###### Art. 101.º Os lugares de ingresso no quadro do pessoal dos serviços administrativos e financeiros serão providos nas condições seguintes:
+Art. 101.º Os lugares de ingresso no quadro do pessoal dos serviços administrativos e financeiros serão providos nas condições seguintes:
 
 a) Terceiro-oficial, estenodactilógrafo e ajudante de arquivista - em indivíduos habilitados com o 2.º ciclo liceal ou equivalente, aprovados em concurso com prestação de provas;
 
@@ -794,9 +818,9 @@ b) Dactilógrafos e auxiliares de expediente;
 
 c) Fiscais de taxas, habilitados com o 1.º ciclo liceal ou equivalente.
 
-###### Art. 102.º Ao concurso de promoção a segundo-oficial podem concorrer, também, os estenodactilógrafos com mais de cinco anos de bom e efectivo serviço no quadro geral.
+Art. 102.º Ao concurso de promoção a segundo-oficial podem concorrer, também, os estenodactilógrafos com mais de cinco anos de bom e efectivo serviço no quadro geral.
 
-###### Art. 103.º Os lugares de chefe de divisão, chefe de repartição, chefe de secção e chefe de serviço serão providos nas condições seguintes:
+Art. 103.º Os lugares de chefe de divisão, chefe de repartição, chefe de secção e chefe de serviço serão providos nas condições seguintes:
 
 a) Chefe de divisão - em chefes de repartição dos serviços administrativos e financeiros, licenciados em Direito, em Economia ou em qualquer dos cursos de Ciências Económicas e Financeiras, ou ainda em indivíduos de reconhecida competência, com as mesmas habilitações, licenciados há mais de cinco anos;
 
@@ -808,7 +832,7 @@ d) Chefe de serviço - em funcionários do quadro geral, de categoria a que corr
 
 § único. O lugar de chefe da Repartição de Contabilidade, será provido, necessàriamente, num licenciado com qualquer dos cursos de Ciências Económicas e Financeiras.
 
-###### Art. 104.º Os lugares de chefe de brigada de fiscalização, zelador, telefonista-chefe e auxiliar de copiografia serão providos nas condições seguintes:
+Art. 104.º Os lugares de chefe de brigada de fiscalização, zelador, telefonista-chefe e auxiliar de copiografia serão providos nas condições seguintes:
 
 a) Chefe de brigada de fiscalização - em fiscais de taxas, dactilógrafos e auxiliares de expediente, com mais de três anos de bom e efectivo serviço no quadro e aptidão especial para o cargo;
 
@@ -818,7 +842,7 @@ c) Telefonista-chefe - em telefonistas com mais de três anos de bom e efectivo 
 
 d) Auxiliar de copiografia - em funcionários de categoria a que corresponda vencimento igual ou inferior ao da letra V.
 
-###### Art. 105.º O pessoal da Tesouraria será provido nas condições seguintes:
+Art. 105.º O pessoal da Tesouraria será provido nas condições seguintes:
 
 a) Tesoureiro-chefe - em tesoureiros e primeiros-oficiais com provimento definitivo e boas informações de serviço, ou em indivíduos de reconhecida idoneidade com a habilitação mínima do curso médio de comércio;
 
@@ -832,7 +856,7 @@ d) Fiel de tesouraria - em fiéis de armazém, dactilógrafos, auxiliares de exp
 
 § 2.º A requerimento do interessado, pode ser autorizada a prestação de caução por desconto nos vencimentos, nas condições a fixar em despacho ministerial.
 
-###### Art. 106.º O pessoal dos Serviços Mecanográficos não referido no artigo 101.º será provido nas condições seguintes:
+Art. 106.º O pessoal dos Serviços Mecanográficos não referido no artigo 101.º será provido nas condições seguintes:
 
 a) Chefe dos Serviços Mecanográficos - em funcionários dos serviços administrativos e financeiros, com mais de cinco anos de bom e efectivo serviço no quadro geral e categoria a que corresponda vencimento superior ao da letra M, ou em diplomados com curso superior, de reconhecida competência para o cargo;
 
@@ -842,13 +866,13 @@ c) Programador mecanográfico e chefe de operadores mecanográficos - em coorden
 
 d) Monitora de perfuração e monitor de auxiliar de máquinas - respectivamente, em perfuradoras de 1.ª classe e auxiliares de máquinas.
 
-###### Art. 107.º Os lugares de médico, assistente social e enfermeiro serão providos por escolha entre indivíduos habilitados com o curso adequado.
+Art. 107.º Os lugares de médico, assistente social e enfermeiro serão providos por escolha entre indivíduos habilitados com o curso adequado.
 
 #### SECÇÃO VI — Do pessoal de oficinas
 
-###### Art. 108.º O ingresso no quadro do pessoal oficinal far-se-á pelas categorias de artífice de 3.ª classe e electricista de 3.ª classe, nas quais serão providos aprendizes da especialidade que tenham boa informação de serviço ou, na sua falta, indivíduos habilitados com o exame de instrução primária e conhecimentos da especialidade.
+Art. 108.º O ingresso no quadro do pessoal oficinal far-se-á pelas categorias de artífice de 3.ª classe e electricista de 3.ª classe, nas quais serão providos aprendizes da especialidade que tenham boa informação de serviço ou, na sua falta, indivíduos habilitados com o exame de instrução primária e conhecimentos da especialidade.
 
-###### Art. 109.º Os lugares de mestre de oficinas e de contramestre serão providos nas condições seguintes:
+Art. 109.º Os lugares de mestre de oficinas e de contramestre serão providos nas condições seguintes:
 
 a) Mestre de oficinas - em contramestres que tenham revelado aptidões especiais para o cargo, ou em indivíduos de reconhecida competência habilitados com um curso das escolas industriais;
 
@@ -858,7 +882,7 @@ b) Contramestre - em artífices de 1.ª classe, electricistas de 1.ª classe e m
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 110.º Os concursos classificam-se:
+Art. 110.º Os concursos classificam-se:
 
 a) Quanto à finalidade, em:
 
@@ -874,9 +898,9 @@ b) Quanto à forma, em:
 
 2.º Concursos com prestação de provas.
 
-###### Art. 111.º Os programas das provas dos concursos e a sua duração, os coeficientes de valorização e os elementos de consulta permitidos aos concorrentes serão propostos por comissões, constituídas por número ímpar de membros e nomeadas para cada espécie de concursos pelo presidente da direcção.
+Art. 111.º Os programas das provas dos concursos e a sua duração, os coeficientes de valorização e os elementos de consulta permitidos aos concorrentes serão propostos por comissões, constituídas por número ímpar de membros e nomeadas para cada espécie de concursos pelo presidente da direcção.
 
-###### Art. 112.º Qualquer que seja a natureza do lugar a que se refira, o programa das provas escritas dos concursos deve conter uma primeira parte de carácter geral, focando, com o grau de desenvolvimento adequado à categoria e às funções do cargo, as seguintes matérias:
+Art. 112.º Qualquer que seja a natureza do lugar a que se refira, o programa das provas escritas dos concursos deve conter uma primeira parte de carácter geral, focando, com o grau de desenvolvimento adequado à categoria e às funções do cargo, as seguintes matérias:
 
 a) Organização política da Nação;
 
@@ -886,19 +910,19 @@ c) Noções gerais sobre disciplina dos funcionários públicos;
 
 d) Organização da Emissora Nacional de Radiodifusão.
 
-###### Art. 113.º Os programas das provas e demais elementos referidos no artigo 111.º, depois de obtido o parecer do respectivo director dos serviços, serão submetidos à aprovação do presidente da direcção e publicados no Diário do Governo.
+Art. 113.º Os programas das provas e demais elementos referidos no artigo 111.º, depois de obtido o parecer do respectivo director dos serviços, serão submetidos à aprovação do presidente da direcção e publicados no Diário do Governo.
 
-###### Art. 114.º O prazo de validade dos concursos será de três anos, contados a partir da data da publicação no Diário do Governo das respectivas listas de classificação, se outro prazo não for fixado nas condições de abertura do concurso.
+Art. 114.º O prazo de validade dos concursos será de três anos, contados a partir da data da publicação no Diário do Governo das respectivas listas de classificação, se outro prazo não for fixado nas condições de abertura do concurso.
 
 #### SECÇÃO II — Da abertura dos concursos
 
-###### Art. 115.º Compete ao presidente da direcção determinar a abertura dos concursos, mediante prévio despacho ministerial.
+Art. 115.º Compete ao presidente da direcção determinar a abertura dos concursos, mediante prévio despacho ministerial.
 
-###### Art. 116.º A abertura dos concursos será anunciada no Diário do Governo com a antecedência mínima de 30 dias em relação à data do início da realização das provas e nunca antes de decorrido igual prazo sobre a publicação ordenada no artigo 113.º
+Art. 116.º A abertura dos concursos será anunciada no Diário do Governo com a antecedência mínima de 30 dias em relação à data do início da realização das provas e nunca antes de decorrido igual prazo sobre a publicação ordenada no artigo 113.º
 
 § único. Tratando-se de concursos de admissão ou mistos, deverá fazer-se também o seu anúncio, pelo menos, em dois jornais diários de grande divulgação.
 
-###### Art. 117.º Dos anúncios para os concursos de admissão ou mistos deve constar:
+Art. 117.º Dos anúncios para os concursos de admissão ou mistos deve constar:
 
 1.º A designação do lugar a prover;
 
@@ -916,7 +940,7 @@ d) Organização da Emissora Nacional de Radiodifusão.
 
 8.º O prazo de validade do concurso.
 
-###### Art. 118.º Quando se tratar de concurso de promoção os anúncios devem indicar:
+Art. 118.º Quando se tratar de concurso de promoção os anúncios devem indicar:
 
 1.º A designação do lugar a prover;
 
@@ -934,7 +958,7 @@ d) Organização da Emissora Nacional de Radiodifusão.
 
 #### SECÇÃO III — Da admissão aos concursos
 
-###### Art. 119.º São requisitos essenciais para admissão aos concursos:
+Art. 119.º São requisitos essenciais para admissão aos concursos:
 
 1.º Ter a nacionalidade portuguesa, nos termos exigidos pela lei geral;
 
@@ -952,7 +976,7 @@ d) Organização da Emissora Nacional de Radiodifusão.
 
 8.º Possuir as habilitações mínimas exigidas por lei.
 
-###### Art. 120.º Os requerimentos dos candidatas para admissão a concurso são dirigidos ao presidente da direcção e devem conter:
+Art. 120.º Os requerimentos dos candidatas para admissão a concurso são dirigidos ao presidente da direcção e devem conter:
 
 a) Para concurso de admissão: nome do candidato, data do nascimento, filiação, naturalidade, estado civil, residência, habilitações, lugar a que pretende concorrer, número e data do bilhete de identidade, com indicação do arquivo que o emitiu, data e assinatura;
 
@@ -960,105 +984,105 @@ b) Para concurso de promoção: nome do candidato, categoria e classe, serviço 
 
 c) Para concurso misto: tratando-se de concorrentes estranhos ao quadro, as indicações da alínea a); tratando-se de concorrentes pertencentes ao quadro, as da alínea b).
 
-###### Art. 121.º Os candidatos devem juntar ao requerimento de admissão ao concurso os documentos comprovativos dos requisitos dos n.os 1.º, 2.º, 6.º, 7.º e 8.º do artigo 119.º, se outros lhes não forem expressamente exigidos, ficando, porém, a sua admissão, quando aprovados, dependente da junção dos documentos comprovativos dos restantes requisitos.
+Art. 121.º Os candidatos devem juntar ao requerimento de admissão ao concurso os documentos comprovativos dos requisitos dos n.os 1.º, 2.º, 6.º, 7.º e 8.º do artigo 119.º, se outros lhes não forem expressamente exigidos, ficando, porém, a sua admissão, quando aprovados, dependente da junção dos documentos comprovativos dos restantes requisitos.
 
 § 1.º No caso de os candidatos serem funcionários do Estado ou dos corpos administrativos à data do concurso, ficam dispensados, mediante a prova dessa qualidade, da junção dos documentos comprovativos dos requisitos dos n.os 1.º a 5.º do artigo 119.º, se juntarem certidão comprovativa daquela qualidade e da existência de tais documentos no serviço a que os funcionários pertençam.
 
 § 2.º Os candidatos devem ainda juntar os documentos necessários à prova das preferências legais de que pretendam beneficiar, se não se tratar de elementos existentes nos serviços.
 
-###### Art. 122.º O funcionário encarregado de receber os documentos para o concurso deve passar a cada concorrente recibo em que mencione a data da entrega, o número e a designação dos documentos.
+Art. 122.º O funcionário encarregado de receber os documentos para o concurso deve passar a cada concorrente recibo em que mencione a data da entrega, o número e a designação dos documentos.
 
-###### Art. 123.º Os candidatos que tenham requerido a admissão a algum concurso anterior ficam dispensados de juntar os documentos apresentados nesse concurso, salvo aqueles cuja validade tenha caducado, desde que no requerimento indiquem tais documentos e o concurso e a data em que foram apresentados.
+Art. 123.º Os candidatos que tenham requerido a admissão a algum concurso anterior ficam dispensados de juntar os documentos apresentados nesse concurso, salvo aqueles cuja validade tenha caducado, desde que no requerimento indiquem tais documentos e o concurso e a data em que foram apresentados.
 
-###### Art. 124.º Os documentos juntos aos requerimentos de admissão podem ser devolvidos aos candidatos não aprovados e aos que desistam do provimento ou não o tenham obtido durante o respectivo prazo de validade.
+Art. 124.º Os documentos juntos aos requerimentos de admissão podem ser devolvidos aos candidatos não aprovados e aos que desistam do provimento ou não o tenham obtido durante o respectivo prazo de validade.
 
-###### Art. 125.º Quando as circunstâncias o aconselhem, pode o presidente da direcção determinar que os candidatos sejam submetidos a exame médico e psicotécnico, devendo o resultado ser sempre tomado em linha de conta para efeitos de admissão.
+Art. 125.º Quando as circunstâncias o aconselhem, pode o presidente da direcção determinar que os candidatos sejam submetidos a exame médico e psicotécnico, devendo o resultado ser sempre tomado em linha de conta para efeitos de admissão.
 
-###### Art. 126.º Os candidatos que nos seus requerimentos fizerem dolosamente indicações falsas serão excluídos do concurso ou eliminados da lista de classificações, sem prejuízo de procedimento criminal e disciplinar.
+Art. 126.º Os candidatos que nos seus requerimentos fizerem dolosamente indicações falsas serão excluídos do concurso ou eliminados da lista de classificações, sem prejuízo de procedimento criminal e disciplinar.
 
 #### SECÇÃO IV — Das listas dos concorrentes e da marcação das provas
 
-###### Art. 127.º Findo o prazo de aceitação dos requerimentos, a Secção de Pessoal examinará o processo de cada um dos candidatos e, se algum não estiver em ordem, convidará a interessado, por meio de ofício registado, com aviso de recepção, a proceder à sua regularização dentro do prazo que lhe for marcado.
+Art. 127.º Findo o prazo de aceitação dos requerimentos, a Secção de Pessoal examinará o processo de cada um dos candidatos e, se algum não estiver em ordem, convidará a interessado, por meio de ofício registado, com aviso de recepção, a proceder à sua regularização dentro do prazo que lhe for marcado.
 
-###### Art. 128.º Decorrido o prazo concedido nos termos do artigo anterior, a Secção de Pessoal elaborará, por ordem alfabética, a lista provisória dos candidatos, a qual será publicada no Diário do Governo.
+Art. 128.º Decorrido o prazo concedido nos termos do artigo anterior, a Secção de Pessoal elaborará, por ordem alfabética, a lista provisória dos candidatos, a qual será publicada no Diário do Governo.
 
-###### Art. 129.º Os candidatos excluídos da lista provisória podem reclamar para o presidente da direcção, no prazo de dez dias, a contar da data da publicação da lista.
+Art. 129.º Os candidatos excluídos da lista provisória podem reclamar para o presidente da direcção, no prazo de dez dias, a contar da data da publicação da lista.
 
-###### Art. 130.º Julgadas as reclamações, elaborar-se-á por ordem alfabética a lista definitiva dos candidatos, a qual, depois de aprovada pelo presidente da direcção, será publicada no Diário do Governo.
+Art. 130.º Julgadas as reclamações, elaborar-se-á por ordem alfabética a lista definitiva dos candidatos, a qual, depois de aprovada pelo presidente da direcção, será publicada no Diário do Governo.
 
 Não tenda havido reclamações, a lista provisória será submetida a despacho do presidente da direcção, publicando-se no Diário do Governo declaração de que se considera definitiva.
 
-###### Art. 131.º O dia, a hora e o local em que deverão realizar-se as provas do concurso, assim como o material de que os concorrentes terão de munir-se para as efectuar, constarão de aviso a publicar no Diário do Governo.
+Art. 131.º O dia, a hora e o local em que deverão realizar-se as provas do concurso, assim como o material de que os concorrentes terão de munir-se para as efectuar, constarão de aviso a publicar no Diário do Governo.
 
 #### SECÇÃO V — Dos júris
 
-###### Art. 132.º Os júris dos concursos serão constituídos, em número ímpar, por um presidente e um mínimo de dois vogais, designados pelo presidente da direcção, tendo em atenção a categoria, classe e natureza dos lugares a cujo preenchimento, o concurso se destina.
+Art. 132.º Os júris dos concursos serão constituídos, em número ímpar, por um presidente e um mínimo de dois vogais, designados pelo presidente da direcção, tendo em atenção a categoria, classe e natureza dos lugares a cujo preenchimento, o concurso se destina.
 
 § 1.º Em casos especiais, podem ser agregados aos júris, com direito de voto, indivíduos estranhos aos quadros de reconhecida competência e idoneidade.
 
 § 2.º Os membros dos júris não devem ter categoria inferior àquela a que respeita o lugar a que o concurso se refere.
 
-###### Art. 133.º Nos casos de impedimento ou de incompatibilidade de qualquer dos membros do júri, será o seu substituto designado por despacho do presidente da direcção.
+Art. 133.º Nos casos de impedimento ou de incompatibilidade de qualquer dos membros do júri, será o seu substituto designado por despacho do presidente da direcção.
 
 § único. A existência de incompatibilidade será apreciada pelo presidente da direcção em face de circunstâncias ponderosas que possam razoàvelmente levar a suspeitar da imparcialidade do membro do júri.
 
-###### Art. 134.º A Secção de Pessoal designará para cada concurso um funcionário incumbido de coadjuvar o júri na execução do expediente.
+Art. 134.º A Secção de Pessoal designará para cada concurso um funcionário incumbido de coadjuvar o júri na execução do expediente.
 
 #### SECÇÃO VI — Das provas
 
-###### Art. 135.º As provas dos concursos podem ser escritas, práticas e orais e versam sobre as matérias constantes dos respectivos programas.
+Art. 135.º As provas dos concursos podem ser escritas, práticas e orais e versam sobre as matérias constantes dos respectivos programas.
 
 § 1.º Sempre que as circunstâncias o aconselhem, a prestação de, provas pode ser substituída pela apresentação e discussão de um trabalho sobre matéria do respectiva programa e directamente relacionado com o lugar a prover.
 
 § 2.º Nos concursos de admissão podem as provas práticas englobar curtos períodos de prestação de serviço, não superiores a 30 dias, remunerados com quantia correspondente a metade do vencimento da respectiva categoria, beneficiando os candidatos durante esse período, quando tenham de deslocar-se para prestação das provas, do tratamento concedido aos funcionários em matéria de ajudas de custo e de pagamento de transportes.
 
-###### Art. 136.º O número de candidatos a admitir às provas em cada dia deve ser fixado pelo presidente do júri, com observância da ordem estabelecida na lista definitiva.
+Art. 136.º O número de candidatos a admitir às provas em cada dia deve ser fixado pelo presidente do júri, com observância da ordem estabelecida na lista definitiva.
 
-###### Art. 137.º Os pontos de cada concurso são organizados pelo júri e por ele rubricados, podendo ser elaborados um ou mais pontos.
+Art. 137.º Os pontos de cada concurso são organizados pelo júri e por ele rubricados, podendo ser elaborados um ou mais pontos.
 
 Na última hipótese, será o ponto tirado à sorte no início da prova.
 
-###### Art. 138.º Antes do início de cada prova o presidente do júri mandará proceder à chamada dos concorrentes, que serão identificados mediante a apresentação do bilhete de identidade.
+Art. 138.º Antes do início de cada prova o presidente do júri mandará proceder à chamada dos concorrentes, que serão identificados mediante a apresentação do bilhete de identidade.
 
 § único. A chamada dos concorrentes faz-se pela lista definitiva, na qual serão anotadas as faltas, desistências, exclusões e reclamações apresentadas. No final do concurso a lista será assinada por todos os membros do júri.
 
-###### Art. 139.º As provas escritas são prestadas em papel fornecido pela Emissora Nacional, prèviamente rubricado por um dos membros do júri.
+Art. 139.º As provas escritas são prestadas em papel fornecido pela Emissora Nacional, prèviamente rubricado por um dos membros do júri.
 
-###### Art. 140.º Feita a chamada para a prestação de provas escritas ou práticas, não será permitido aos concorrentes comunicar entre si ou com o exterior, nem sair do local em que decorram, sem motivo imperioso, considerado atendível pelo presidente do júri, o qual providenciará para que não possa haver qualquer tentativa de resolução fraudulenta dos pontos.
+Art. 140.º Feita a chamada para a prestação de provas escritas ou práticas, não será permitido aos concorrentes comunicar entre si ou com o exterior, nem sair do local em que decorram, sem motivo imperioso, considerado atendível pelo presidente do júri, o qual providenciará para que não possa haver qualquer tentativa de resolução fraudulenta dos pontos.
 
 § único. A inobservância destas disposições ou a simples tentativa de resolução fraudulenta de qualquer ponto implica a imediata exclusão do concurso.
 
-###### Art. 141.º Os trabalhos são orientados pelo presidente do júri, que comunicará aos concorrentes o início e o termo do tempo fixado para a prestação das provas.
+Art. 141.º Os trabalhos são orientados pelo presidente do júri, que comunicará aos concorrentes o início e o termo do tempo fixado para a prestação das provas.
 
 Terminado esse tempo, o júri procederá à recolha das provas.
 
-###### Art. 142.º Os interrogatórios nas provas orais podem ser feitos por um ou mais membros do júri, de modo a avaliar não só os conhecimentos dos candidatos relativamente à matéria dos programas, mas também a sua cultura geral, quando esta tenha interesse para a função.
+Art. 142.º Os interrogatórios nas provas orais podem ser feitos por um ou mais membros do júri, de modo a avaliar não só os conhecimentos dos candidatos relativamente à matéria dos programas, mas também a sua cultura geral, quando esta tenha interesse para a função.
 
-###### Art. 143.º Nos concursos constantes de várias provas, só serão admitidos à prova seguinte os concorrentes não excluídos na anterior.
+Art. 143.º Nos concursos constantes de várias provas, só serão admitidos à prova seguinte os concorrentes não excluídos na anterior.
 
 § único. Quando se trate de concursos de admissão, pode o presidente do júri determinar a exclusão dos concorrentes que, em qualquer momento, tenham mau comportamento.
 
 Igual procedimento pode adoptar-se quanto aos concorrentes que, nos concursos com períodos de prestação de serviço, revelem falta de pontualidade ou de assiduidade, ou manifestem incapacidade para o desempenho do lugar a que concorrem.
 
-###### Art. 144.º A falta de comparência a qualquer prova de um concurso implica a exclusão do mesmo, salvo se for justificada nos termos do artigo seguinte.
+Art. 144.º A falta de comparência a qualquer prova de um concurso implica a exclusão do mesmo, salvo se for justificada nos termos do artigo seguinte.
 
-###### Art. 145.º Os candidatos que por motivo de força maior não compareçam a qualquer prova poderão ser admitidos a prestá-la, no dia designado pelo júri, mas apenas dentro do prazo destinado à realização do concurso, se, até ao segundo dia posterior ao da falta, justificarem a mesma perante o júri, comprovando devidamente o motivo da falta.
+Art. 145.º Os candidatos que por motivo de força maior não compareçam a qualquer prova poderão ser admitidos a prestá-la, no dia designado pelo júri, mas apenas dentro do prazo destinado à realização do concurso, se, até ao segundo dia posterior ao da falta, justificarem a mesma perante o júri, comprovando devidamente o motivo da falta.
 
 § único. A justificação da falta por doença só poderá fazer-se por atestado médico, confirmado pelo delegado ou subdelegado de saúde.
 
-###### Art. 146.º Quaisquer reclamações dos concorrentes, respeitantes aos pontos ou à forma como decorreram as provas, só podem ser aceites quando escritas e assinadas pelo reclamante e apresentadas no acto das provas ao presidente do júri, que as submeterá sem demora, devidamente informadas, à apreciação do presidente da direcção.
+Art. 146.º Quaisquer reclamações dos concorrentes, respeitantes aos pontos ou à forma como decorreram as provas, só podem ser aceites quando escritas e assinadas pelo reclamante e apresentadas no acto das provas ao presidente do júri, que as submeterá sem demora, devidamente informadas, à apreciação do presidente da direcção.
 
 § único. As reclamações não têm efeito suspensivo sobre as decisões do júri.
 
 #### SECÇÃO VII — Da classificação
 
-###### Art. 147.º A apreciação e classificação das provas escritas e práticas devem ser feitas, sempre que possível, em regime de anonimato, pelo menos por dois membros do júri, o qual reunirá especialmente para proceder à classificação final dos candidatos.
+Art. 147.º A apreciação e classificação das provas escritas e práticas devem ser feitas, sempre que possível, em regime de anonimato, pelo menos por dois membros do júri, o qual reunirá especialmente para proceder à classificação final dos candidatos.
 
-###### Art. 148.º Cada uma das provas será classificada com uma valorização compreendida entre 0 e 20.
+Art. 148.º Cada uma das provas será classificada com uma valorização compreendida entre 0 e 20.
 
 O limite mínimo para aprovação em cada prova, quer seja escrita, prática ou oral, é de 10 valores, e a classificação no concurso será expressa pela média aritmética, aproximada sempre que necessário até às centésimas, da classificação de cada uma das suas provas, tendo em atenção os respectivos coeficientes de valorização.
 
-###### Art. 149.º Nos concursos de admissão, em igualdade de valorização, constituem preferências a observar para o efeito da ordem de classificação dos concorrentes, depois das preferências previstas pela lei geral:
+Art. 149.º Nos concursos de admissão, em igualdade de valorização, constituem preferências a observar para o efeito da ordem de classificação dos concorrentes, depois das preferências previstas pela lei geral:
 
 1.º Ter maiores habilitações literárias ou profissionais;
 
@@ -1066,7 +1090,7 @@ O limite mínimo para aprovação em cada prova, quer seja escrita, prática ou 
 
 3.º Ter mais tempo e melhores informações relativamente ao serviço prestado no exercício das funções a que se refere o número anterior.
 
-###### Art. 150.º Nos concursos de promoção, depois das preferências previstas na lei geral, constituem condições de preferência:
+Art. 150.º Nos concursos de promoção, depois das preferências previstas na lei geral, constituem condições de preferência:
 
 1.º Ter melhores informações de serviço;
 
@@ -1074,89 +1098,89 @@ O limite mínimo para aprovação em cada prova, quer seja escrita, prática ou 
 
 3.º Ter melhor classificação em concurso anterior.
 
-###### Art. 151.º Nos concursos mistos, depois das preferências previstas na lei geral, constitui condição de preferência o facto de os candidatos já prestarem serviço na Emissora Nacional, depois da qual funcionarão as estabelecidas nos dois artigos antecedentes, conforme as circunstâncias.
+Art. 151.º Nos concursos mistos, depois das preferências previstas na lei geral, constitui condição de preferência o facto de os candidatos já prestarem serviço na Emissora Nacional, depois da qual funcionarão as estabelecidas nos dois artigos antecedentes, conforme as circunstâncias.
 
-###### Art. 152.º As preferências referidas nos artigos anteriores não se acumulam, só se recorrendo à seguinte quando existirem dois ou mais candidatos em igualdade de condições relativamente à anterior.
+Art. 152.º As preferências referidas nos artigos anteriores não se acumulam, só se recorrendo à seguinte quando existirem dois ou mais candidatos em igualdade de condições relativamente à anterior.
 
-###### Art. 153.º Apurada a classificação de todos os candidatos, será organizada lista segundo as valorizações obtidas e as preferências legais aplicáveis, a qual, depois de homologada pelo presidente da direcção, será publicada no Diário do Governo.
+Art. 153.º Apurada a classificação de todos os candidatos, será organizada lista segundo as valorizações obtidas e as preferências legais aplicáveis, a qual, depois de homologada pelo presidente da direcção, será publicada no Diário do Governo.
 
 § único. Quando o provimento deva ser feito por escolha entre os candidatos aprovados em concurso, a lista de apuramento será organizada por ordem alfabética, sem indicação das classificações.
 
-###### Art. 154.º Não há recurso das decisões do júri sobre apuramento e classificação dos candidatos, e a admissão ou promoção destes efectuar-se-á em conformidade com a ordem de classificação constante da lista a que se refere o corpo do artigo anterior.
+Art. 154.º Não há recurso das decisões do júri sobre apuramento e classificação dos candidatos, e a admissão ou promoção destes efectuar-se-á em conformidade com a ordem de classificação constante da lista a que se refere o corpo do artigo anterior.
 
 #### SECÇÃO VIII — Da chamada dos candidatos aprovados
 
-###### Art. 155.º Os concorrentes aprovados que for necessário chamar para preenchimento de vagas serão convidados, por carta registada com aviso de recepção ou por aviso publicado no Diário do Governo, a apresentar ou fazer apresentar na Secção de Pessoal, dentro do prazo que lhes for fixado, os documentos que ainda não tenham entregado ou cujo prazo de validade já tenha expirado.
+Art. 155.º Os concorrentes aprovados que for necessário chamar para preenchimento de vagas serão convidados, por carta registada com aviso de recepção ou por aviso publicado no Diário do Governo, a apresentar ou fazer apresentar na Secção de Pessoal, dentro do prazo que lhes for fixado, os documentos que ainda não tenham entregado ou cujo prazo de validade já tenha expirado.
 
-###### Art. 156.º Os candidatos que tenham exercido anteriormente qualquer função pública devem provar a sua quitação com a Fazenda Nacional.
+Art. 156.º Os candidatos que tenham exercido anteriormente qualquer função pública devem provar a sua quitação com a Fazenda Nacional.
 
-###### Art. 157.º Salvo em casos especiais, devidamente comprovados, a falta de apresentação dos documentos, dentro do prazo determinado, envolve a perda dos direitos resultantes da aprovação do concorrente.
+Art. 157.º Salvo em casos especiais, devidamente comprovados, a falta de apresentação dos documentos, dentro do prazo determinado, envolve a perda dos direitos resultantes da aprovação do concorrente.
 
 #### SECÇÃO IX — Outras disposições relativas a concursos
 
-###### Art. 158.º Os concursos de promoção podem ser substituídos por cursos de aptidão profissional, mediante autorização ministerial e regulamentação a publicar em ordem de serviço.
+Art. 158.º Os concursos de promoção podem ser substituídos por cursos de aptidão profissional, mediante autorização ministerial e regulamentação a publicar em ordem de serviço.
 
 § único. As listas de classificação dos candidatos que concluam os referidos cursos com aproveitamento têm o mesmo efeito e validade das listas de classificação dos concursos de promoção.
 
-###### Art. 159.º Os funcionários que reúnam as condições legais e regulamentares são obrigados a apresentar-se aos concursos de promoção ou a frequentar os cursos de aptidão referidos no artigo anterior.
+Art. 159.º Os funcionários que reúnam as condições legais e regulamentares são obrigados a apresentar-se aos concursos de promoção ou a frequentar os cursos de aptidão referidos no artigo anterior.
 
-###### Art. 160.º Sempre que as provas de concurso ou os cursos de aptidão se realizem fora da localidade onde estiverem colocados, terão os funcionários direito a ajudas de custo e ao abono de despesas de transporte, salvo se faltarem ou desistirem.
+Art. 160.º Sempre que as provas de concurso ou os cursos de aptidão se realizem fora da localidade onde estiverem colocados, terão os funcionários direito a ajudas de custo e ao abono de despesas de transporte, salvo se faltarem ou desistirem.
 
-###### Art. 161.º Não podem ser admitidos a novo concurso ou curso de aptidão os candidatos reprovados ou excluídos em dois concursos ou cursos para o mesmo lugar, antes de decorridos três anos sobre a data da última reprovação ou exclusão.
+Art. 161.º Não podem ser admitidos a novo concurso ou curso de aptidão os candidatos reprovados ou excluídos em dois concursos ou cursos para o mesmo lugar, antes de decorridos três anos sobre a data da última reprovação ou exclusão.
 
 § 1.º A desistência equivale à exclusão do concurso.
 
 § 2.º Não se aplica o disposto no corpo do presente artigo quando a exclusão resultante do disposto no parágrafo anterior ou no artigo 144.º tenha sido determinada por motivo de força maior, devidamente justificado e comprovado perante o júri, nos termos do artigo 145.º
 
-###### Art. 162.º As condições a que devem obedecer os concursos documentais, em tudo o que não estiver regulado no presente diploma, serão fixadas, para cada caso, por despacho ministerial e constarão dos respectivos avisos de abertura.
+Art. 162.º As condições a que devem obedecer os concursos documentais, em tudo o que não estiver regulado no presente diploma, serão fixadas, para cada caso, por despacho ministerial e constarão dos respectivos avisos de abertura.
 
-###### Art. 163.º O preenchimento das vagas nos quadros dos emissores regionais e centros emissores e outros serviços externos pode fazer-se por meio de concursos locais, válidos para cada caso, se não existirem candidatos já classificados noutros concursos ou funcionários das mesmas categorias interessados no provimento ou na transferência.
+Art. 163.º O preenchimento das vagas nos quadros dos emissores regionais e centros emissores e outros serviços externos pode fazer-se por meio de concursos locais, válidos para cada caso, se não existirem candidatos já classificados noutros concursos ou funcionários das mesmas categorias interessados no provimento ou na transferência.
 
 § único. O convite para o preenchimento de vagas nos emissores regionais ou centros emissores será publicado em ordem de serviço e transmitido aos candidatos classificados em concurso de admissão, pela forma prevista no artigo 155.º
 
-###### Art. 164.º A Emissora Nacional pode publicar em ordem de serviço outras disposições relativas a concursos, complementares das normas constantes do presente diploma, depois de aprovadas por despacho ministerial.
+Art. 164.º A Emissora Nacional pode publicar em ordem de serviço outras disposições relativas a concursos, complementares das normas constantes do presente diploma, depois de aprovadas por despacho ministerial.
 
 ### CAPÍTULO III — Outras disposições relativas a pessoal
 
 #### SECÇÃO I — Do pessoal não pertencente ao quadro geral
 
-###### Art. 165.º O pessoal a que se refere o artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) será admitido nos mesmos termos que o pessoal do quadro geral, devendo ser recrutado entre os candidatos aprovados nos concursos para os lugares do quadro geral, ou, quando os não houver, entre indivíduos que reúnam as necessárias condições legais.
+Art. 165.º O pessoal a que se refere o artigo 18.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232) será admitido nos mesmos termos que o pessoal do quadro geral, devendo ser recrutado entre os candidatos aprovados nos concursos para os lugares do quadro geral, ou, quando os não houver, entre indivíduos que reúnam as necessárias condições legais.
 
 § único. O pessoal referido na primeira parte do corpo deste artigo manterá o direito ao provimento nas vagas que se verificarem no quadro geral, mesmo depois de terminado o prazo de validade do respectivo concurso, constituindo então preferência para o provimento, no caso de concorrência com candidatos de concursos posteriores, o maior tempo de serviço na Emissora Nacional.
 
-###### Art. 166.º pessoal referido no artigo 10.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054) será admitido com dispensa de formalidades legais, mediante despacho ministerial e nas condições que no mesmo forem fixadas.
+Art. 166.º pessoal referido no artigo 10.º do [Decreto-Lei n.º 46736](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46736-1965-508054) será admitido com dispensa de formalidades legais, mediante despacho ministerial e nas condições que no mesmo forem fixadas.
 
-###### Art. 167.º São assalariados por mero ajuste verbal, como praticantes de expediente, aprendizes e paquetes, indivíduos menores, de idade não inferior a 14 anos nem superior a 18, cuja remuneração não pode exceder o quantitativo de 800$00.
+Art. 167.º São assalariados por mero ajuste verbal, como praticantes de expediente, aprendizes e paquetes, indivíduos menores, de idade não inferior a 14 anos nem superior a 18, cuja remuneração não pode exceder o quantitativo de 800$00.
 
 § 1.º OS indivíduos referidos no corpo do artigo serão dispensados do serviço quando, atingidos os 22 anos, não hajam ingressado em qualquer das categorias do quadro geral.
 
 § 2.º No caso de prestação de serviço militar, os praticantes de expediente, aprendizes e paquetes podem manter a sua situação na Emissora Nacional, durante mais um ano, após o termo do referido serviço.
 
-###### Art. 168.º Os chefes e os componentes das orquestras e de outros agrupamentos artísticos não são considerados funcionários e ficam sujeitos a regime especial de prestação de serviço, a definir em ordem de serviço.
+Art. 168.º Os chefes e os componentes das orquestras e de outros agrupamentos artísticos não são considerados funcionários e ficam sujeitos a regime especial de prestação de serviço, a definir em ordem de serviço.
 
 #### SECÇÃO II — Dos horários, disciplina e informações de serviço
 
-###### Art. 169.º Os horários do pessoal da Emissora Nacional serão fixados pela direcção, de harmonia com as necessidades e conveniências do serviço, observados os limites mínimos estabelecidos na lei geral.
+Art. 169.º Os horários do pessoal da Emissora Nacional serão fixados pela direcção, de harmonia com as necessidades e conveniências do serviço, observados os limites mínimos estabelecidos na lei geral.
 
 § único. Os funcionários têm direito a um dia de descanso semanal.
 
-###### Art. 170.º Os funcionários da Emissora Nacional ficam sujeitos ao Estatuto Disciplinar dos Funcionários Civis do Estado, com o aditamento introduzido pela [Portaria n.º 10883](https://diariodarepublica.pt/dr/detalhe/portaria/10883-1945-625011), de 2 de Março de 1945.
+Art. 170.º Os funcionários da Emissora Nacional ficam sujeitos ao Estatuto Disciplinar dos Funcionários Civis do Estado, com o aditamento introduzido pela [Portaria n.º 10883](https://diariodarepublica.pt/dr/detalhe/portaria/10883-1945-625011), de 2 de Março de 1945.
 
-###### Art. 171.º Anualmente, até 31 de Janeiro, e nas condições que forem fixadas em ordem de serviço, serão remetidas ao presidente da direcção, através dos respectivos serviços, informações confidenciais sobre a qualidade do serviço prestado, durante o ano anterior, por cada funcionário.
+Art. 171.º Anualmente, até 31 de Janeiro, e nas condições que forem fixadas em ordem de serviço, serão remetidas ao presidente da direcção, através dos respectivos serviços, informações confidenciais sobre a qualidade do serviço prestado, durante o ano anterior, por cada funcionário.
 
 #### SECÇÃO III — Dos cursos de aptidão e aperfeiçoamento
 
-###### Art. 172.º Para os fins previstos no n.º 12.º do artigo 3.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), pode a Emissora Nacional efectuar cursos internos de aptidão e de aperfeiçoamento, ou utilizar outras instituições, mediante acordo.
+Art. 172.º Para os fins previstos no n.º 12.º do artigo 3.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232), pode a Emissora Nacional efectuar cursos internos de aptidão e de aperfeiçoamento, ou utilizar outras instituições, mediante acordo.
 
-###### Art. 173.º Os instrutores encarregados de ministrar os cursos referidos no artigo anterior podem ser recrutados dentro ou fora do quadro do pessoal da Emissora Nacional, nas condições que forem fixadas por despacho ministerial.
+Art. 173.º Os instrutores encarregados de ministrar os cursos referidos no artigo anterior podem ser recrutados dentro ou fora do quadro do pessoal da Emissora Nacional, nas condições que forem fixadas por despacho ministerial.
 
-###### Art. 174.º A frequência dos cursos de aperfeiçoamento é voluntária, mas a aprovação nos mesmos pode constituir condição de admissão ao concurso, nos termos regulados no capítulo I do título III do presente diploma.
+Art. 174.º A frequência dos cursos de aperfeiçoamento é voluntária, mas a aprovação nos mesmos pode constituir condição de admissão ao concurso, nos termos regulados no capítulo I do título III do presente diploma.
 
 #### SECÇÃO IV — Da colaboração em programas
 
-###### Art. 175.º Os funcionários da Emissora Nacional podem ser autorizados, por despacho ministerial, a colaborar, em regime de prestação de serviço, nos programas a emitir e a receber as remunerações correspondentes, de harmonia com o disposto no artigo 27.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232).
+Art. 175.º Os funcionários da Emissora Nacional podem ser autorizados, por despacho ministerial, a colaborar, em regime de prestação de serviço, nos programas a emitir e a receber as remunerações correspondentes, de harmonia com o disposto no artigo 27.º do [Decreto-Lei n.º 41484](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41484-1957-251232).
 
-###### Art. 176.º O pedido de autorização para os funcionários colaborarem em programas deve ser acompanhado de proposta fundamentada, a apresentar para cada caso ao presidente da direcção pelo director dos Serviços de Programas, e só pode ser submetido a despacho superior desde que se verifiquem cumulativamente as seguintes condições:
+Art. 176.º O pedido de autorização para os funcionários colaborarem em programas deve ser acompanhado de proposta fundamentada, a apresentar para cada caso ao presidente da direcção pelo director dos Serviços de Programas, e só pode ser submetido a despacho superior desde que se verifiquem cumulativamente as seguintes condições:
 
 1.º Tratar-se de funcionário que possua aptidão ou especialização para esse programa;
 
@@ -1168,10 +1192,10 @@ O limite mínimo para aprovação em cada prova, quer seja escrita, prática ou 
 
 ## TÍTULO IV — Disposições finais e transitórias
 
-###### Art. 177.º (transitório). É prorrogado por um ano o prazo de validade do concurso de promoção à categoria de mecânico de radiodifusão de 1.ª classe, cuja lista de classificação foi publicada em 19 de Fevereiro de 1963.
+Art. 177.º (transitório). É prorrogado por um ano o prazo de validade do concurso de promoção à categoria de mecânico de radiodifusão de 1.ª classe, cuja lista de classificação foi publicada em 19 de Fevereiro de 1963.
 
-###### Art. 178.º São revogados os Decretos n.os 33492, 41485 e 41542, respectivamente de 7 de Janeiro de 1944, de 30 de Dezembro de 1957 e de 28 de Fevereiro de 1958.
+Art. 178.º São revogados os Decretos n.os 33492, 41485 e 41542, respectivamente de 7 de Janeiro de 1944, de 30 de Dezembro de 1957 e de 28 de Fevereiro de 1958.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Março de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

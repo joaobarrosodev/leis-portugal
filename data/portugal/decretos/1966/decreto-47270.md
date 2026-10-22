@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47270-1966-478376
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 153cf56fcb50c803718622a145f691c31ebd03fe1653df2e312af89a2096b0db
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 63e3c1b0f897db1ac2367aafd9a995f42ea5db3cdd30c99317db07b7db720d75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:581003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:57Z'
   warnings: []
   errors: []
 ---
@@ -86,10 +90,10 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os comandantes de unidades do Exército estão autorizados a conceder a praças que não sejam recrutas a licença prevista na alínea a) do artigo 167.º da 2.ª parte do Regulamento Geral do Serviço do Exército, aprovado e posto em execução por Decreto de 6 de Junho de 1914.
+Artigo único. Os comandantes de unidades do Exército estão autorizados a conceder a praças que não sejam recrutas a licença prevista na alínea a) do artigo 167.º da 2.ª parte do Regulamento Geral do Serviço do Exército, aprovado e posto em execução por Decreto de 6 de Junho de 1914.
 
 § único. Porém, as praças que gozem da regalia estabelecida pelo presente diploma não podem, no mesmo trimestre, beneficiar da licença a que se refere a alínea c) do referido artigo 167.º, com a redacção que lhe foi dada pelo artigo 5.º do [Decreto n.º 25722](https://diariodarepublica.pt/dr/detalhe/decreto/25722-1935-581003), de 6 de Agosto de 1935.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Joaquim da Luz Cunha.

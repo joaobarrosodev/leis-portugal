@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47824-1967-313427
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 44837e8ff021141da8a845534a11af4b38fd87de57c679e48a5aa223042c3987
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 73ac0188b376c4f409cf04a83a0016256e3dd608070ad9ed9fdd9d6a3fa5cf0e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:42Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É constituída a favor das futuras instalações técnicas do Grupo de Detecção, Alerta e Conduta da Intercepção da Força Aérea Portuguesa na Fóia servidão militar com as seguintes zonas:
+Artigo 1.º É constituída a favor das futuras instalações técnicas do Grupo de Detecção, Alerta e Conduta da Intercepção da Força Aérea Portuguesa na Fóia servidão militar com as seguintes zonas:
 
 a) Área compreendida num círculo de 575 m de raio com centro no marco geodésico da Foia (cota 902 m), círculo este que constitui o limite da 1.ª zona;
 
@@ -109,13 +113,13 @@ d) Faixa orientada segundo uma linha situada no azimute verdadeiro de 352º 40' 
 
 § único. As faixas referidas nas alíneas c) e d) têm cada uma a largura de 100 m (50 m para cada lado da linha de referência), medidos na horizontal, e uma altura de 15 m, medidos na vertical, para baixo da linha de referência.
 
-###### Art. 2.º Na 1.ª zona de servidão definida na alínea a) do artigo anterior é proibida, sem autorização prévia da autoridade militar competente, a execução dos trabalhos ou actividades descritos no artigo 9.º e seu § 1.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e ainda os seguintes:
+Art. 2.º Na 1.ª zona de servidão definida na alínea a) do artigo anterior é proibida, sem autorização prévia da autoridade militar competente, a execução dos trabalhos ou actividades descritos no artigo 9.º e seu § 1.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e ainda os seguintes:
 
 a) Instalações de cabos aéreos para transporte de energia eléctrica;
 
 b) Outros trabalhos ou actividades que possam inequìvocamente prejudicar o funcionamento ou a segurança da central transmissora ou da torre de microondas a instalar oportunamente.
 
-###### Art. 3.º Na 2.ª zona de servidão definida na alínea b) do artigo 1.º e nas zonas indicadas nas alíneas c) e d) do mesmo artigo são proibidas, sem a prévia autorização da autoridade militar competente, as construções e instalações seguintes:
+Art. 3.º Na 2.ª zona de servidão definida na alínea b) do artigo 1.º e nas zonas indicadas nas alíneas c) e d) do mesmo artigo são proibidas, sem a prévia autorização da autoridade militar competente, as construções e instalações seguintes:
 
 a) Construções de qualquer natureza;
 
@@ -123,19 +127,19 @@ b) Instalações de cabos aéreos para transporte de energia eléctrica;
 
 c) Instalação de qualquer dispositivo irradiante de ondas hertzianas.
 
-###### Art. 4.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
+Art. 4.º Os proprietários ou utentes de quaisquer obstáculos existentes dentro das áreas abrangidas pelo presente decreto poderão ser obrigados a estabelecer, operar e manter à sua custa as marcas e luzes que se tornem necessárias para indicar aos pilotos dos aviões a presença desses obstáculos, se isso for imposto por razões de segurança aérea.
 
-###### Art. 5.º A concessão de licenças para a execução de trabalhos e actividades a elas sujeitos será da atribuição do chefe do Estado-Maior da Força Aérea.
+Art. 5.º A concessão de licenças para a execução de trabalhos e actividades a elas sujeitos será da atribuição do chefe do Estado-Maior da Força Aérea.
 
-###### Art. 6.º As entidades especialmente responsáveis pela fiscalização do cumprimento das disposições legais respeitantes à servidão e das condições impostas nas licenças são o comando do Grupo de Detecção, Alerta e Conduta da Intercepção da Força Aérea Portuguesa.
+Art. 6.º As entidades especialmente responsáveis pela fiscalização do cumprimento das disposições legais respeitantes à servidão e das condições impostas nas licenças são o comando do Grupo de Detecção, Alerta e Conduta da Intercepção da Força Aérea Portuguesa.
 
-###### Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são também da competência da entidade referida no artigo anterior.
+Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são também da competência da entidade referida no artigo anterior.
 
-###### Art. 8.º A entidade para a qual cabe recurso hierárquico das decisões proferidas no respeitante às licenças é o Secretário de Estado da Aeronáutica.
+Art. 8.º A entidade para a qual cabe recurso hierárquico das decisões proferidas no respeitante às licenças é o Secretário de Estado da Aeronáutica.
 
 A entidade para a qual cabe recurso hierárquico da ordem de demolição é o chefe do Estado-Maior da Força Aérea.
 
-###### Art. 9.º As áreas descritas nas alíneas a) e b) do artigo 1.º, bem como as faixas mencionadas nas alíneas c) e d) do mesmo artigo, são demarcadas na carta militar de Portugal na escala de 1:25000 e a zona destinada às instalações técnicas do Grupo de Detecção, Alerta e Conduta da Intercepção da Força Aérea é demarcada numa carta na escala de 1:1000, organizando-se oito colecções com a classificação de «Reservado» e destinadas:
+Art. 9.º As áreas descritas nas alíneas a) e b) do artigo 1.º, bem como as faixas mencionadas nas alíneas c) e d) do mesmo artigo, são demarcadas na carta militar de Portugal na escala de 1:25000 e a zona destinada às instalações técnicas do Grupo de Detecção, Alerta e Conduta da Intercepção da Força Aérea é demarcada numa carta na escala de 1:1000, organizando-se oito colecções com a classificação de «Reservado» e destinadas:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -151,6 +155,6 @@ Uma ao Ministério das Comunicações;
 
 Duas ao Ministério do Interior.
 
-**Publique-se e cumpre-se como nele se contém.**
+Publique-se e cumpre-se como nele se contém.
 
 Paços do Governo da República, 31 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Alberto de Oliveira.

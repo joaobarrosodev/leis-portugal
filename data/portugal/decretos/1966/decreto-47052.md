@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47052-1966-472301
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5631b7d6a61f53298c2ea5288dcf9ce83614799dae4f7cbd27e4a7fc6908aa83
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 578a17cc7d5e84d5c4e038c4858a685fd2f1dbf23d16987674e4a948144b8080
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:12Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +99,11 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os professores do ensino primário que presentemente exercem, interinamente, as funções de director ou de subdirector escolar, podem ser nomeados para os referidos cargos, pelo Ministro do Ultramar, independentemente de concurso ou qualquer outra habilitação, desde que à data da entrada em vigor do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, contassem três anos de exercício consecutivo das funções de director de zona ou subzona com boas informações.
+Artigo 1.º Os professores do ensino primário que presentemente exercem, interinamente, as funções de director ou de subdirector escolar, podem ser nomeados para os referidos cargos, pelo Ministro do Ultramar, independentemente de concurso ou qualquer outra habilitação, desde que à data da entrada em vigor do [Decreto-Lei n.º 41472](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41472-1957-251184), de 23 de Dezembro de 1957, contassem três anos de exercício consecutivo das funções de director de zona ou subzona com boas informações.
 
-###### Art. 2.º É permitida a admissão aos concursos para subdirectores escolares, com dispensa da habilitação do curso de Ciências Pedagógicas, aos professores primários que há mais de três anos consecutivos exerçam interinamente as funções de director ou subdirector escolar com boas informações.
+Art. 2.º É permitida a admissão aos concursos para subdirectores escolares, com dispensa da habilitação do curso de Ciências Pedagógicas, aos professores primários que há mais de três anos consecutivos exerçam interinamente as funções de director ou subdirector escolar com boas informações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

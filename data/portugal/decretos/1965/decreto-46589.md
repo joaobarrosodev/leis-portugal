@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46589-1965-510674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-13T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eb28fd47878b9183fd70e340b6019e3e4b578cf3e510d186ac8dd99b3666d80b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35267645d720a13e8a792f1ad77a7f5d20fa599e373850223eba8630d553e6b1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627387:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686791:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:688223:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:06Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +111,7 @@ Tendo em conta a proposta do Governo da província de S. Tomé e Príncipe, por 
 
 Usando da faculdade concedida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É constituída desde já na província de S. Tomé e Príncipe a Comissão Técnica de Planeamento e Integração Económica, prevista no [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, com as alterações introduzidas pelo [Decreto n.º 45350](https://diariodarepublica.pt/dr/detalhe/decreto/45350-1963-688223), de 13 de Novembro de 1963, sob a presidência do respectivo governador e composta pelos seguintes vogais:
+Artigo 1.º É constituída desde já na província de S. Tomé e Príncipe a Comissão Técnica de Planeamento e Integração Económica, prevista no [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963, com as alterações introduzidas pelo [Decreto n.º 45350](https://diariodarepublica.pt/dr/detalhe/decreto/45350-1963-688223), de 13 de Novembro de 1963, sob a presidência do respectivo governador e composta pelos seguintes vogais:
 
 Chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones;
 
@@ -117,7 +137,7 @@ Chefe da Brigada de Fomento Agro-Pecuário.
 
 § 5.º Desempenha as funções de secretário da Comissão o funcionário do Gabinete do Governo que for designado pelo governador da província, sem direito a voto, percebendo a gratificação mensal de 500$00.
 
-###### Art. 2.º A Comissão reunirá normalmente duas vezes por mês e extraordinàriamente sempre que o governador da província o determine, funcionando legalmente logo que estejam presentes mais de metade dos membros convocados, incluindo o presidente.
+Art. 2.º A Comissão reunirá normalmente duas vezes por mês e extraordinàriamente sempre que o governador da província o determine, funcionando legalmente logo que estejam presentes mais de metade dos membros convocados, incluindo o presidente.
 
 § 1.º Para as sessões da Comissão podem ser convocadas, por iniciativa do governador, entidades oficiais ou particulares cuja colaboração seja reconhecida de interesse para a análise dos problemas a debater e os autores dos estudos ou projectos em causa, estes últimos sem direito a voto.
 
@@ -127,7 +147,7 @@ Chefe da Brigada de Fomento Agro-Pecuário.
 
 § 4.º O serviço de expediente da Comissão será assegurado pela secretaria do Gabinete do Governo da província.
 
-###### Art. 3.º À Comissão compete, além do referido nos artigos 2.º e 3.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963:
+Art. 3.º À Comissão compete, além do referido nos artigos 2.º e 3.º do [Decreto n.º 45259](https://diariodarepublica.pt/dr/detalhe/decreto/45259-1963-686791), de 21 de Setembro de 1963:
 
 a) Emitir parecer fundamentado, sob os aspectos técnico e económico, acerca dos planos gerais e projectos relativos às obras ou melhoramentos públicos incluídos nos empreendimentos do Plano Intercalar de Fomento;
 
@@ -145,21 +165,21 @@ g) Elaborar e enviar ao Ministério do Ultramar, até 28 de Fevereiro de cada an
 
 h) Elaborar o regulamento interno da Comissão.
 
-###### Art. 4.º Para o estudo, projecto, fiscalização e execução dos empreendimentos previstos no Plano Intercalar de Fomento para 1965-1967 de S. Tomé e Príncipe e no III Plano de Fomento que se lhe seguirá, a cargo dos serviços de obras públicas e transportes, dos serviços dos correios telégrafos e telefones e dos serviços de agricultura e veterinária, poderá ser autorizada, por despacho do Ministro do Ultramar ou, por sua delegação, do governador da província de S. Tomé e Príncipe, a admissão do pessoal técnico complementar que for necessário, tendo em conta as disponibilidades financeiras da província.
+Art. 4.º Para o estudo, projecto, fiscalização e execução dos empreendimentos previstos no Plano Intercalar de Fomento para 1965-1967 de S. Tomé e Príncipe e no III Plano de Fomento que se lhe seguirá, a cargo dos serviços de obras públicas e transportes, dos serviços dos correios telégrafos e telefones e dos serviços de agricultura e veterinária, poderá ser autorizada, por despacho do Ministro do Ultramar ou, por sua delegação, do governador da província de S. Tomé e Príncipe, a admissão do pessoal técnico complementar que for necessário, tendo em conta as disponibilidades financeiras da província.
 
 § único. Fica desde já autorizada, nos termos do § 2.º do artigo 45.º do Estatuto do Funcionalismo Ultramarino, com a redacção dada pelo artigo 21.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, e do artigo 48.º do mesmo estatuto, a admissão do pessoal julgado indispensável.
 
-###### Art. 5.º Poderá, ainda, ser admitido, se assim convier aos serviços, pessoal por assalariamento nos devidos termos legais.
+Art. 5.º Poderá, ainda, ser admitido, se assim convier aos serviços, pessoal por assalariamento nos devidos termos legais.
 
-###### Art. 6.º Com o pessoal que for admitido nos termos dos artigos 3.º e 4.º para os serviços de obras públicas e transportes e para os serviços de agricultura e veterinária poderá o governador da província constituir adentro daqueles serviços grupos de trabalho e divisões especializadas para o estudo, projecto, fiscalização e execução de empreendimentos específicos inscritos nos planos de fomento da província.
+Art. 6.º Com o pessoal que for admitido nos termos dos artigos 3.º e 4.º para os serviços de obras públicas e transportes e para os serviços de agricultura e veterinária poderá o governador da província constituir adentro daqueles serviços grupos de trabalho e divisões especializadas para o estudo, projecto, fiscalização e execução de empreendimentos específicos inscritos nos planos de fomento da província.
 
-###### Art. 7.º Os subsídios diários a abonar ao pessoal das brigadas e dos serviços da província de S. Tomé e Príncipe, de conformidade com o que dispõe o [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415) nos seus artigos 7.º (com a redacção que lhe foi dada pelo artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), de 24 de Junho de 1963), 8.º (com a redacção que lhe foi dada pelo artigo 13.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578), de 24 de Novembro de 1962) e 9.º, são fixados de conformidade com o quadro anexo.
+Art. 7.º Os subsídios diários a abonar ao pessoal das brigadas e dos serviços da província de S. Tomé e Príncipe, de conformidade com o que dispõe o [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415) nos seus artigos 7.º (com a redacção que lhe foi dada pelo artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), de 24 de Junho de 1963), 8.º (com a redacção que lhe foi dada pelo artigo 13.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578), de 24 de Novembro de 1962) e 9.º, são fixados de conformidade com o quadro anexo.
 
 § único. Por despacho do governador da província, será definido para cada caso, dentro dos limites fixados, o subsídio diário a abonar, tendo em conta a categoria do funcionário, natureza e dificuldade do serviço, condições de isolamento e quaisquer outras circunstâncias especiais como refere o citado [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415).
 
-###### Art. 8.º Os encargos resultantes da execução deste diploma são suportados pelas dotações do Plano Intercalar de Fomento da província de S. Tomé e Príncipe, nas rubricas correspondentes aos empreendimentos a que os mesmos respeitem.
+Art. 8.º Os encargos resultantes da execução deste diploma são suportados pelas dotações do Plano Intercalar de Fomento da província de S. Tomé e Príncipe, nas rubricas correspondentes aos empreendimentos a que os mesmos respeitem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -167,6 +187,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 Quadro a que se refere o artigo 7.º do Decreto n.º 46589
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/23200/13201321.pdf))](https://files.diariodarepublica.pt/1s/1965/10/23200/13201321.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/23200/13201321.pdf)
 
 Ministério do Ultramar, 13 de Outubro de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

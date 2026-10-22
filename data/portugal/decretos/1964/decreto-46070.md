@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46070-1964-535874
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1964-12-09T00:00:00Z'
+  retrieved_at: '2026-10-22T19:43:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10707bb8e566439be9dad44a72274499d6d04644ef59a2cd3df2cbbcc24d232e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1b8842bb16eb0363bd0eff0225335623ac59f4dc25b5701aa6e27ecb55c469a2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:43:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 20
-  section_count: 26
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:43:20Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +103,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento seguinte:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro do orçamento seguinte:
 
 Ministério dos Negócios Estrangeiros
 
@@ -103,73 +119,73 @@ Do artigo 45.º, n.º 4) «Repatriação e socorros a portugueses indigentes» .
 
 Para o artigo 44.º, n.º 4) «Pagamento de serviços ...» ... +35000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 24304000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 24304000$00, destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 3.º «Representação Nacional - Assembleia Nacional e Câmara Corporativa»:
+Capítulo 3.º «Representação Nacional - Assembleia Nacional e Câmara Corporativa»:
 
-###### Artigo 69.º, n.º 1) «Transportes aos membros da Assembleia Nacional e da Câmara Corporativa» ... 1050000$00
+Artigo 69.º, n.º 1) «Transportes aos membros da Assembleia Nacional e da Câmara Corporativa» ... 1050000$00
 
-###### Artigo 70.º, n.º 2) «Subsídios aos membros da Assembleia Nacional e da Câmara Corporativa» ... 2250000$00
+Artigo 70.º, n.º 2) «Subsídios aos membros da Assembleia Nacional e da Câmara Corporativa» ... 2250000$00
 
 ... 3300000$00
 
 Ministério das Finanças
 
-### Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
+Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
 
-###### Artigo 132.º «Material de consumo corrente»:
+Artigo 132.º «Material de consumo corrente»:
 
 N.º 2), alínea 1 «Impressos, ...» ... 1500000$00
 
 N.º 3) «Artigos de expediente ...», alínea 2 «Para os demais serviços» ... 200000$00
 
-###### Artigo 134.º «Despesas de comunicações»:
+Artigo 134.º «Despesas de comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 10000$00
 
 N.º 2) «Telefones» ... 50000$00
 
-###### Artigo 137.º, n.º 2) «Publicidade ...» ... 580000$00
+Artigo 137.º, n.º 2) «Publicidade ...» ... 580000$00
 
-###### Artigo 138.º, n.º 2) «Despesas com avaliações, ...» ... 2300000$00
+Artigo 138.º, n.º 2) «Despesas com avaliações, ...» ... 2300000$00
 
 ... 4640000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 5.º, n.º 1) «Gastos confidenciais ...» ... 2350000$00
+Artigo 5.º, n.º 1) «Gastos confidenciais ...» ... 2350000$00
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 10.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 50000$00
+Artigo 10.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 50000$00
 
-###### Artigo 11.º «Outros encargos»:
+Artigo 11.º «Outros encargos»:
 
 N.º 4) «Encargos de carácter transitório com organizações internacionais» ... 7450000$00
 
 N.º 6) «Despesas com a Delegação Portuguesa junto da Organização do Tratado do Atlântico Norte (Delnato)» ... 695000$00
 
-### Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna»:
+Capítulo 3.º «Direcção-Geral dos Negócios Políticos e da Administração Interna»:
 
 Serviços internos da Direcção-Geral
 
-###### Artigo 19.º, n.º 1) «Correios e telégrafos» ... 150000$00
+Artigo 19.º, n.º 1) «Correios e telégrafos» ... 150000$00
 
-###### Artigo 21.º, n.º 2) «Missões extraordinárias de serviço público ...» ... 36000$00
+Artigo 21.º, n.º 2) «Missões extraordinárias de serviço público ...» ... 36000$00
 
 Serviços externos da Direcção-Geral
 
-###### Artigo 24.º «Outras despesas com o pessoal»:
+Artigo 24.º «Outras despesas com o pessoal»:
 
 N.º 1) «Despesas de deslocação, ...» ... 750000$00
 
 N.º 2) «Despesas de instalação» ... 100000$00
 
-###### Artigo 29.º «Despesas de comunicações»:
+Artigo 29.º «Despesas de comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 1300000$00
 
@@ -177,81 +193,81 @@ N.º 2) «Telefones» ... 450000$00
 
 N.º 4) «Serviço de malas diplomáticas» ... 340000$00
 
-###### Artigo 31.º, n.º 2) «Seguros de pessoal ...» ... 100000$00
+Artigo 31.º, n.º 2) «Seguros de pessoal ...» ... 100000$00
 
-###### Artigo 32.º, n.º 2) «Missões extraordinárias de serviço público ...» ... 728000$00
+Artigo 32.º, n.º 2) «Missões extraordinárias de serviço público ...» ... 728000$00
 
-### Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
+Capítulo 4.º «Direcção-Geral dos Negócios Económicos e Consulares - Serviços externos da Direcção-Geral»:
 
-###### Artigo 38.º, n.º 1) «Despesas de deslocação, ...» ... 600000$00
+Artigo 38.º, n.º 1) «Despesas de deslocação, ...» ... 600000$00
 
-###### Artigo 40.º, n.º 1) «De imóveis» ... 280000$00
+Artigo 40.º, n.º 1) «De imóveis» ... 280000$00
 
-###### Artigo 42.º, «Despesas de comunicações»:
+Artigo 42.º, «Despesas de comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 500000$00
 
 N.º 2) «Telefones» ... 450000$00
 
-###### Artigo 44.º, n.º 4) «Pagamento de serviços ...» ... 35000$00
+Artigo 44.º, n.º 4) «Pagamento de serviços ...» ... 35000$00
 
 ... 16364000$00
 
 ... 24304000$00
 
-###### Art. 3.º Como compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Como compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 20.º «Imposto do selo» ... 19000000$00
+Capítulo 2.º, artigo 20.º «Imposto do selo» ... 19000000$00
 
 Encargos Gerais da Nação
 
-### Capítulo 2.º artigo 17.º, n.º 1) ... 35000$00
+Capítulo 2.º artigo 17.º, n.º 1) ... 35000$00
 
-### Capítulo 2.º, artigo 24.º, n.º 1) ... 130000$00
+Capítulo 2.º, artigo 24.º, n.º 1) ... 130000$00
 
-### Capítulo 2.º, artigo 31.º, n.º 1) ... 200000$00
+Capítulo 2.º, artigo 31.º, n.º 1) ... 200000$00
 
-### Capítulo 5.º, artigo 93.º, n.º 1) ... 160000$00
+Capítulo 5.º, artigo 93.º, n.º 1) ... 160000$00
 
-### Capítulo 6.º, artigo 104.º, n.º 1) ... 70000$00
+Capítulo 6.º, artigo 104.º, n.º 1) ... 70000$00
 
-### Capítulo 7.º, artigo 114.º, n.º 1) ... 50000$00
+Capítulo 7.º, artigo 114.º, n.º 1) ... 50000$00
 
-### Capítulo 7.º, artigo 124.º, n.º 1) ... 965000$00
+Capítulo 7.º, artigo 124.º, n.º 1) ... 965000$00
 
-### Capítulo 7.º, artigo 132.º, n.º 1) ... 50000$00
+Capítulo 7.º, artigo 132.º, n.º 1) ... 50000$00
 
 ... 1660000$00
 
 Ministério das Finanças
 
-### Capítulo 7.º, artigo 68.º, n.º 1) ... 357000$00
+Capítulo 7.º, artigo 68.º, n.º 1) ... 357000$00
 
-### Capítulo 10.º, artigo 126.º, n.º 1) ... 2300000$00
+Capítulo 10.º, artigo 126.º, n.º 1) ... 2300000$00
 
 ... 2657000$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 1.º, artigo 1.º, n.º 1) ... 335000$00
+Capítulo 1.º, artigo 1.º, n.º 1) ... 335000$00
 
-### Capítulo 2.º, artigo 8.º, n.º 1) ... 2000$00
+Capítulo 2.º, artigo 8.º, n.º 1) ... 2000$00
 
-### Capítulo 2.º, artigo 11.º, n.º 8) ... 30000$00
+Capítulo 2.º, artigo 11.º, n.º 8) ... 30000$00
 
-### Capítulo 2.º, artigo 11.º, n.º 10), alínea 2 ... 170000$00
+Capítulo 2.º, artigo 11.º, n.º 10), alínea 2 ... 170000$00
 
-### Capítulo 3.º, artigo 14.º, n.º 4) ... 10000$00
+Capítulo 3.º, artigo 14.º, n.º 4) ... 10000$00
 
-### Capítulo 3.º, artigo 22.º, n.º 3), alínea 1 ... 20000$00
+Capítulo 3.º, artigo 22.º, n.º 3), alínea 1 ... 20000$00
 
-### Capítulo 3.º, artigo 26.º, n.º 2) ... 280000$00
+Capítulo 3.º, artigo 26.º, n.º 2) ... 280000$00
 
-### Capítulo 3.º, artigo 28.º, n.º 1) ... 10000$00
+Capítulo 3.º, artigo 28.º, n.º 1) ... 10000$00
 
-### Capítulo 4.º, artigo 45.º, n.º 4) ... 130000$00
+Capítulo 4.º, artigo 45.º, n.º 4) ... 130000$00
 
 ... 987000$00
 
@@ -259,6 +275,6 @@ Ministério dos Negócios Estrangeiros
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Dezembro de 1964. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - António Manuel Pinto Barbosa - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - Eduardo de Arantes e Oliveira - António Augusto Peixoto Correia - Inocêncio Galvão Teles - Luís Maria Teixeira Pinto - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

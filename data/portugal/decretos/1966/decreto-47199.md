@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47199-1966-480506
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 60931f1fbef94d89f1b7284c9935c85f5cb3284b321968aff5a692d0344c9930
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 037199dbb1eead2d6553448c482b217a2137d78cc66cbfa144a2b43afbe6deb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:22Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +95,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar contrato com a firma Sociedade Ericsson de Portugal, Lda., para o fornecimento e montagem de equipamento multiplex destinado às ligações telefónicas através do cabo coaxial Lisboa-Porto, pela importância de 32500000$00, nela se incluindo os encargos de capital provenientes do escalonamento dos pagamentos, bem como os fretes e seguros. Esta importância está sujeita a ajustamentos provenientes de eventual variação das cotações das matérias-primas e salários, conforme as fórmulas de correcção constantes do contrato.
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar contrato com a firma Sociedade Ericsson de Portugal, Lda., para o fornecimento e montagem de equipamento multiplex destinado às ligações telefónicas através do cabo coaxial Lisboa-Porto, pela importância de 32500000$00, nela se incluindo os encargos de capital provenientes do escalonamento dos pagamentos, bem como os fretes e seguros. Esta importância está sujeita a ajustamentos provenientes de eventual variação das cotações das matérias-primas e salários, conforme as fórmulas de correcção constantes do contrato.
 
-###### Art. 2.º A liquidação deste encargo deverá repartir-se pelos anos económicos de 1966 a 1973, despendendo-se em cada ano os valores máximos seguintes, acrescidos do que se apurar como saldo dos anos anteriores:
+Art. 2.º A liquidação deste encargo deverá repartir-se pelos anos económicos de 1966 a 1973, despendendo-se em cada ano os valores máximos seguintes, acrescidos do que se apurar como saldo dos anos anteriores:
 
 1966 ... 580000$00
 
@@ -113,10 +117,10 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Estas importâncias serão acrescidas das correspondentes aos agravamentos do custo resultantes da aplicação das fórmulas de correcção referidas no artigo 1.º
 
-###### Art. 3.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá, em qualquer altura da execução do contrato e desde que para tal tenha as necessárias possibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, assim, sem efeito os limites indicados no artigo anterior.
+Art. 3.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá, em qualquer altura da execução do contrato e desde que para tal tenha as necessárias possibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, assim, sem efeito os limites indicados no artigo anterior.
 
 Esta antecipação será feita com o desconto dos correspondentes encargos de capital referidos no artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

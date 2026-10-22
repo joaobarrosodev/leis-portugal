@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47051-1966-472300
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:51:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f0b92a7dd3db58736c479b0f3fb991937da7bfd3b070933e5315e69789183bc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 341d6a7e27fd223416e238e2a6849f8f82b17962e085e6a01e562c24c354c2b0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:51:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:51:12Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Considerando o disposto nos artigos 1.º, 6.º, b), 12.º e 13.º da [Lei n.º 2
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com o quartel do Conde de Lippe compreendidos num polígono de lados paralelos às paredes exteriores do mesmo quartel e distando delas como segue:
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com o quartel do Conde de Lippe compreendidos num polígono de lados paralelos às paredes exteriores do mesmo quartel e distando delas como segue:
 
 a) Do lado norte, dando para a Travessa da Boa Hora, a 12,70 m;
 
@@ -101,7 +109,7 @@ c) Dos lados sueste e sul, dando, respectivamente, para as Ruas Detrás do Quart
 
 d) Do lado poente, dando para a Calçada da Ajuda, a 25 m, e numa frente de 140 m, 70 m para cada lado do eixo do aquartelamento, concordando perpendicularmente com os lados do polígono definidos nas alíneas a) e c).
 
-###### Art. 2.º Para além das distâncias estabelecidas no artigo anterior poderão ser construídos ou modificados edifícios, com prévia licença da autoridade militar, mas só até às alturas correspondentes a:
+Art. 2.º Para além das distâncias estabelecidas no artigo anterior poderão ser construídos ou modificados edifícios, com prévia licença da autoridade militar, mas só até às alturas correspondentes a:
 
 a) Na Travessa da Boa Hora, quatro pisos;
 
@@ -111,15 +119,15 @@ c) Na Rua Detrás do Quartel e na Rua das Amoreiras, quatro pisos;
 
 d) Na Calçada da Ajuda, cinco pisos.
 
-###### Art. 3.º Ao Governo Militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao Governo Militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do aquartelamento e, em escalão imediatamente superior, ao Governo Militar de Lisboa, por intermédio da delegação do Serviço de Fortificações e Obras Militares no mesmo Governo Militar.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do aquartelamento e, em escalão imediatamente superior, ao Governo Militar de Lisboa, por intermédio da delegação do Serviço de Fortificações e Obras Militares no mesmo Governo Militar.
 
-###### Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
+Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministério do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o Governo Militar de Lisboa.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministério do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o Governo Militar de Lisboa.
 
-###### Art. 7.º As áreas descritas no artigo 1.º serão demarcadas na planta de urbanização da Câmara Municipal de Lisboa na escala 1/1000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
+Art. 7.º As áreas descritas no artigo 1.º serão demarcadas na planta de urbanização da Câmara Municipal de Lisboa na escala 1/1000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -137,6 +145,6 @@ Uma ao Ministério das Obras Públicas;
 
 Uma ao Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços dos Governo da República, 22 de Junho de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - Eduardo de Arantes e Oliveira.

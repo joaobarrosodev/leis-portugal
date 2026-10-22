@@ -46,40 +46,75 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 71ac26ef42dd6b4647bfa07050f495539cf282af6685caaa21f39a1258011d9a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 83833b33a313fe1f3857444726fdfff4d87025e2ae2817182800247e9d992344
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Definição de Competências
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Remuneração
+- Serviços Provinciais de Geologia e Minas do Ultramar
+- Transferência de Pessoal
+- Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:234552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:478197:por
+  label: "Alterados os artigos 7.º, 18.º, 25.º, 29.º, 30.º, 31.º, 33.º, 35.º, 37.º, 38.º, 39.º, 41.º, 43.º, 55.º, 58.º e substituídos\
+    \ os mapas I e II anexos ao presente diploma, pelo DEC.47239.04.10.1966.MU, DG.IS [231] de 04.10.1966\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/47239-1966-478197
+  date: '1966-10-04'
+- type: amended_by
+  target: pt:dre:234552:por
+  label: "Alterados os artigos 38.º (na redacção do Decreto n.º 47239, de 4 de Outubro de 1966), 42.º, 43.º (na redacção do\
+    \ Decreto n.º 47239, de 4 de Outubro de 1966), 44.º, 45.º, 46.º e 60.º, pelo DEC.48333.15.04.1968.MU, DG.IS [90] de 15.04.1968\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48333-1968-234552
+  date: '1968-04-15'
+- type: cites
+  target: pt:dre:155578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 18
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:49Z'
   warnings: []
   errors: []
 ---
@@ -104,11 +139,11 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS PROVINCIAIS DE GEOLOGIA E MINAS DO ULTRAMAR
 
 #### SECÇÃO I — Dos fins e atribuições
 
-###### Artigo 1.º Os serviços de geologia e minas do ultramar têm como objectivos fundamentais o estudo da geologia, a preparação da cartografia geológica, a prospecção, pesquisa e estudo dos jazigos minerais e, bem assim, o licenciamento e a fiscalização da actividade mineira.
+Artigo 1.º Os serviços de geologia e minas do ultramar têm como objectivos fundamentais o estudo da geologia, a preparação da cartografia geológica, a prospecção, pesquisa e estudo dos jazigos minerais e, bem assim, o licenciamento e a fiscalização da actividade mineira.
 
 Compete-lhes também o fomento da exploração dos jazigos minerais e a cooperação com outros serviços oficiais e com as entidades privadas, em condições a estabelecer no âmbito das suas atribuições.
 
-###### Art. 2.º Para a consecução dos fins estabelecidos no artigo anterior compete aos serviços de geologia e minas do ultramar:
+Art. 2.º Para a consecução dos fins estabelecidos no artigo anterior compete aos serviços de geologia e minas do ultramar:
 
 1.º O estudo sistemático da geologia, a preparação da cartografia geológica e correspondentes memórias descritivas e notícias explicativas;
 
@@ -146,11 +181,11 @@ Compete-lhes também o fomento da exploração dos jazigos minerais e a coopera�
 
 18.º O estudo e proposta das medidas referentes aos objectivos dos serviços e a execução de todas as diligências de carácter técnico e administrativo destinadas a assegurar o cumprimento das disposições legais respeitantes à sua jurisdição.
 
-###### Art. 3.º Os serviços de geologia e minas do ultramar poderão executar estudos e trabalhos, dentro do seu âmbito de actividades, para entidades oficiais ou particulares, nas condições a estabelecer pelos governos das respectivas províncias.
+Art. 3.º Os serviços de geologia e minas do ultramar poderão executar estudos e trabalhos, dentro do seu âmbito de actividades, para entidades oficiais ou particulares, nas condições a estabelecer pelos governos das respectivas províncias.
 
 #### SECÇÃO II — Da orgânica geral
 
-###### Art. 4.º Os serviços de geologia e minas são constituídos no ultramar pelos seguintes órgãos:
+Art. 4.º Os serviços de geologia e minas são constituídos no ultramar pelos seguintes órgãos:
 
 a) Direcções provinciais de serviços nas províncias de Angola e Moçambique;
 
@@ -158,9 +193,9 @@ b) Repartições provinciais de serviços nas províncias de Cabo Verde, Guiné,
 
 § único. As direcções e repartições provinciais têm as suas sedes nas capitais das províncias.
 
-###### Art. 5.º Os directores provinciais dos Serviços de Geologia e Minas de Angola e Moçambique são coadjuvados por subdirectores.
+Art. 5.º Os directores provinciais dos Serviços de Geologia e Minas de Angola e Moçambique são coadjuvados por subdirectores.
 
-###### Art. 6.º Os serviços de geologia e minas de Angola e Moçambique compreendem:
+Art. 6.º Os serviços de geologia e minas de Angola e Moçambique compreendem:
 
 a) Serviços centrais;
 
@@ -168,7 +203,7 @@ b) Serviços regionais.
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 7.º Cada uma das Direcções Provinciais dos Serviços de Geologia e Minas de Angola e Moçambique compreende cinco repartições técnicas e uma administrativa:
+Art. 7.º Cada uma das Direcções Provinciais dos Serviços de Geologia e Minas de Angola e Moçambique compreende cinco repartições técnicas e uma administrativa:
 
 Repartição de Licenciamento e Fiscalização;
 
@@ -196,17 +231,17 @@ Repartição dos Serviços Administrativos.
 
 § 7.º Sempre que a insuficiência de pessoal ou outras razões não justifique o funcionamento independente dos departamentos referidos, poderão estes ser agrupados consoante as conveniências do serviço.
 
-###### Art. 8.º As repartições de serviços nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor compreendem os seguintes departamentos:
+Art. 8.º As repartições de serviços nas províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor compreendem os seguintes departamentos:
 
 1.º Divisão de Geologia e Minas;
 
 2.º Serviços Administrativos.
 
-###### Art. 9.º Poderão ser criadas nas direcções e repartições provinciais, observadas as disposições legais, brigadas de estudo e fiscalização, com carácter temporário, destacadas dos serviços centrais ou zonas mineiras.
+Art. 9.º Poderão ser criadas nas direcções e repartições provinciais, observadas as disposições legais, brigadas de estudo e fiscalização, com carácter temporário, destacadas dos serviços centrais ou zonas mineiras.
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 10.º Os serviços regionais funcionam sob a autoridade técnica e de administração das direcções provinciais de serviço das províncias respectivas, sem prejuízo da competência legal dos governadores de distrito, e têm como áreas de jurisdição zonas mineiras.
+Art. 10.º Os serviços regionais funcionam sob a autoridade técnica e de administração das direcções provinciais de serviço das províncias respectivas, sem prejuízo da competência legal dos governadores de distrito, e têm como áreas de jurisdição zonas mineiras.
 
 § 1.º É da competência dos governadores-gerais a criação, por portaria, das zonas mineiras julgadas necessárias, com a fixação dos respectivos limites e áreas de jurisdição, bem como a designação da capital do distrito das suas sedes, quando abranjam mais de um distrito.
 
@@ -216,7 +251,7 @@ Repartição dos Serviços Administrativos.
 
 #### SECÇÃO I — Da inspecção provincial
 
-###### Art. 11.º Aos inspectores provinciais de geologia e minas compete:
+Art. 11.º Aos inspectores provinciais de geologia e minas compete:
 
 a) Fazer inspecções aos departamentos da direcção dos serviços de geologia e minas que tenham sido determinadas pelo governador-geral;
 
@@ -230,7 +265,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 #### SECÇÃO II — Da direcção ou chefia dos serviços
 
-###### Art. 12.º O director ou chefe de repartição provincial, conforme os casos, sob a imediata superintendência do governador, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários ramos do serviço e entre estes e o público, em ordem à eficiente e económica realização dos seus fins, competindo-lhe, designadamente:
+Art. 12.º O director ou chefe de repartição provincial, conforme os casos, sob a imediata superintendência do governador, orienta, estimula, coordena, fiscaliza e mantém a harmonia entre os vários ramos do serviço e entre estes e o público, em ordem à eficiente e económica realização dos seus fins, competindo-lhe, designadamente:
 
 1.º Dirigir e orientar todas as actividades dos serviços para a integral execução das missões confiadas aos serviços de geologia e minas, fazendo cumprir e executar a legislação regulamentar e instruções em vigor;
 
@@ -250,7 +285,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 9.º Apresentar ao governo da província o relatório da actividade dos serviços no ano anterior.
 
-###### Art. 13.º Ao subdirector dos serviços compete:
+Art. 13.º Ao subdirector dos serviços compete:
 
 1.º Coadjuvar o director dos serviços na execução de todas as funções atribuídas à direcção;
 
@@ -264,7 +299,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 #### SECÇÃO III — Dos serviços centrais
 
-###### Art. 14.º À Repartição de Licenciamento e Fiscalização, a cargo de um engenheiro de minas, compete:
+Art. 14.º À Repartição de Licenciamento e Fiscalização, a cargo de um engenheiro de minas, compete:
 
 1.º O estudo e informação dos assuntos respeitantes à pesquisa e lavra de minas e às instalações de preparação e tratamento de substâncias minerais, quer sejam ou não acessórias da lavra mineira;
 
@@ -304,7 +339,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 19.º O exame da produção das pedreiras e das nascentes de águas mineromedicinais e outras, quando exploradas comercialmente.
 
-###### Art. 15.º À Repartição de Geologia, a cargo de um geólogo, compete:
+Art. 15.º À Repartição de Geologia, a cargo de um geólogo, compete:
 
 1.º O reconhecimento, estudo e definição das formações geológicas e a preparação de minutas com vista à execução da cartografia geológica do território;
 
@@ -332,7 +367,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 4.º O depósito e conservação de reagentes e aparelhagem e restante material que utiliza.
 
-###### Art. 16.º À Repartição do Fomento Mineiro, a cargo de um engenheiro de minas, compete:
+Art. 16.º À Repartição do Fomento Mineiro, a cargo de um engenheiro de minas, compete:
 
 1.º A prospecção, pesquisa e reconhecimento de jazigos minerais de qualquer espécie e, eventualmente, a sua lavra experimental;
 
@@ -374,7 +409,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 6.º O depósito e conservação de reagentes, aparelhagem e restante material que utiliza.
 
-###### Art. 17.º À Repartição de Geologia Aplicada, a cargo de um geólogo ou engenheiro de minas, compete:
+Art. 17.º À Repartição de Geologia Aplicada, a cargo de um geólogo ou engenheiro de minas, compete:
 
 1.º O estudo da ocorrência, distribuição e circulação das águas subterrâneas e sua classificação;
 
@@ -412,7 +447,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 18.º A assistência técnica a entidades oficiais ou particulares nos problemas geológicos de obras ou trabalhos de engenharia civil e afins, quando superiormente determinada.
 
-###### Art. 18.º À Repartição dos Serviços Gerais, a cargo de um engenheiro ou geólogo, cabe assegurar o apoio ao funcionamento dos outros departamentos dos serviços através das Divisões de Cartografia e Topografia, de Manutenção e de Informação e Documentação.
+Art. 18.º À Repartição dos Serviços Gerais, a cargo de um engenheiro ou geólogo, cabe assegurar o apoio ao funcionamento dos outros departamentos dos serviços através das Divisões de Cartografia e Topografia, de Manutenção e de Informação e Documentação.
 
 § 1.º À Divisão de Cartografia e Topografia compete:
 
@@ -468,7 +503,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 11.º A manutenção e conservação de um museu para a exposição de colecções de amostras e outros elementos representativos da geologia da província e da sua indústria extractiva mineral.
 
-###### Art. 19.º À Repartição dos Serviços Administrativos compete assegurar o funcionamento dos diferentes sectores dos serviços no que diz respeito aos assuntos de pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
+Art. 19.º À Repartição dos Serviços Administrativos compete assegurar o funcionamento dos diferentes sectores dos serviços no que diz respeito aos assuntos de pessoal, contabilidade e relações com outros serviços ou entidades particulares e todas as actividades de carácter administrativo e burocrático que se imponham, bem como zelar pelo cumprimento das disposições legais e regulamentares em vigor.
 
 § 1.º À Secretaria-Geral compete:
 
@@ -512,7 +547,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 8.º Informar para resolução superior todas as propostas de receitas e despesas, movimento de fundos e inventários.
 
-###### Art. 20.º Ao Gabinete de Estudos compete:
+Art. 20.º Ao Gabinete de Estudos compete:
 
 1.º A planificação dos empreendimentos que constituem os objectivos gerais dos serviços ou com eles relacionados e a regulamentação das suas actividades sob orientação do director dos serviços;
 
@@ -532,7 +567,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 9.º Preparar os programas de concursos e cadernos de encargos das empreitadas de execução de trabalhos de prospecção e pesquisa mineira e de cartografia geológica ou outros afins a executar por entidades particulares.
 
-###### Art. 21.º Ao Contencioso compete:
+Art. 21.º Ao Contencioso compete:
 
 1.º Estudar e informar os assuntos de natureza jurídica e contenciosa respeitantes às actividades dos serviços, especialmente no que se refere ao regime da propriedade mineira e conservação ou exploração dos recursos minerais, incluindo as águas subterrâneas.
 
@@ -540,13 +575,13 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 3.º Coadjuvar o estudo e aplicação das medidas preventivas do tráfico ilícito das substâncias minerais.
 
-###### Art. 22.º As atribuições especificadas para os vários departamentos das Direcções dos Serviços de Geologia e Minas de Angola e Moçambique serão total ou parcialmente executadas pelos serviços das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor, consoante a situação actual e o desenvolvimento futuro a imprimir às investigações geológicas e à indústria mineira, à pesquisa de águas, segundo a natureza dos respectivos serviços, conforme os seus quadros o permitam e justifiquem.
+Art. 22.º As atribuições especificadas para os vários departamentos das Direcções dos Serviços de Geologia e Minas de Angola e Moçambique serão total ou parcialmente executadas pelos serviços das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor, consoante a situação actual e o desenvolvimento futuro a imprimir às investigações geológicas e à indústria mineira, à pesquisa de águas, segundo a natureza dos respectivos serviços, conforme os seus quadros o permitam e justifiquem.
 
 § único. A definição das atribuições e subdivisão dos departamentos dos serviços de geologia e minas das províncias referidas na parte final do corpo do artigo será estabelecida em portaria regulamentar pelo respectivo governador.
 
 #### SECÇÃO IV — Dos serviços regionais
 
-###### Art. 23.º Aos serviços regionais compete:
+Art. 23.º Aos serviços regionais compete:
 
 1.º Assegurar a fiscalização e a execução das disposições legais da sua competência constantes do regulamento mineiro, de águas, de pedreiras e da demais legislação aplicável, assim como a realização do expediente e da contabilidade do serviço;
 
@@ -560,7 +595,7 @@ e) Prestar os pareceres, elaborar os relatórios e executar os estudos, trabalho
 
 #### SECÇÃO V — Das brigadas
 
-###### Art. 24.º Compete às brigadas previstas no artigo 9.º deste diploma a execução dos trabalhos e estudos que lhes forem confiados, de harmonia com os respectivos progratrais, sob os aspectos técnicos e de administração.
+Art. 24.º Compete às brigadas previstas no artigo 9.º deste diploma a execução dos trabalhos e estudos que lhes forem confiados, de harmonia com os respectivos progratrais, sob os aspectos técnicos e de administração.
 
 As brigadas dependerão directamente dos serviços centrais sob os aspectos técnico e de administração.
 
@@ -568,7 +603,7 @@ As brigadas dependerão directamente dos serviços centrais sob os aspectos téc
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 25.º O pessoal dos serviços de geologia e minas do ultramar é classificado pela seguinte forma:
+Art. 25.º O pessoal dos serviços de geologia e minas do ultramar é classificado pela seguinte forma:
 
 1.º Pessoal técnico;
 
@@ -592,17 +627,17 @@ As brigadas dependerão directamente dos serviços centrais sob os aspectos téc
 
 § 6.º O pessoal referido no corpo do artigo distinguir-se-á ainda, conforme os casos, em pessoal de nomeação, contratado e assalariado.
 
-###### Art. 26.º O quadro comum dos geólogos e engenheiros dos serviços de geologia e minas do ultramar é o fixado no mapa I anexo ao presente diploma.
+Art. 26.º O quadro comum dos geólogos e engenheiros dos serviços de geologia e minas do ultramar é o fixado no mapa I anexo ao presente diploma.
 
-###### Art. 27.º Os quadros dos serviços de geologia e minas das províncias de Angola e Moçambique são os fixados no mapa II anexo,
+Art. 27.º Os quadros dos serviços de geologia e minas das províncias de Angola e Moçambique são os fixados no mapa II anexo,
 
 § único. Os quadros das províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor serão fixados, em portaria ministerial, por proposta dos respectivos governadores, consoante as necessidades de cada província.
 
-###### Art. 28.º Poderá ser contratado ou assalariado, nos termos legais, além do previsto nos quadros privativos, o pessoal que as necessidades de serviço exigirem e de harmonia com as disponibilidades orçamentais.
+Art. 28.º Poderá ser contratado ou assalariado, nos termos legais, além do previsto nos quadros privativos, o pessoal que as necessidades de serviço exigirem e de harmonia com as disponibilidades orçamentais.
 
 #### SECÇÃO II — Do recrutamento e ingresso nos quadros
 
-###### Art. 29.º O quadro comum dos geólogos e engenheiros dos serviços de geologia e minas do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa I anexo a este diploma:
+Art. 29.º O quadro comum dos geólogos e engenheiros dos serviços de geologia e minas do ultramar compreende as seguintes categorias, com o número de unidades e distribuição constantes do mapa I anexo a este diploma:
 
 Engenheiro de minas ou geólogo-director;
 
@@ -614,25 +649,25 @@ Engenheiro ou geólogo de 2.ª classe.
 
 § único. São desempenhados por engenheiros de minas ou geólogos com a categoria de director os cargos de inspector provincial, director de serviços e subdirector de serviços (letra D do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro ou geólogo-chefe, os cargos de chefe de repartição provincial, chefe de repartição dos serviços centrais, chefe de zona mineira e chefe de laboratório (letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino); com a categoria de engenheiro ou geólogo de 1.ª e 2.ª classes, os cargos de chefes de divisão e adjuntos.
 
-###### Art. 30.º As nomeações para os lugares do quadro comum a que se refere o artigo 29.º e a colocação dos engenheiros de minas-directores e geólogos-directores são da competência do Ministro do Ultramar. Os engenheiros e geólogos das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.
+Art. 30.º As nomeações para os lugares do quadro comum a que se refere o artigo 29.º e a colocação dos engenheiros de minas-directores e geólogos-directores são da competência do Ministro do Ultramar. Os engenheiros e geólogos das restantes categorias serão colocados por portaria do governador-geral, sob proposta do director dos serviços.
 
-###### Art. 31.º A entrada no quadro comum faz-se pela categoria de engenheiro ou geólogo de 2.ª classe, mediante concurso documental aberto no Ministério do Ultramar.
+Art. 31.º A entrada no quadro comum faz-se pela categoria de engenheiro ou geólogo de 2.ª classe, mediante concurso documental aberto no Ministério do Ultramar.
 
-###### Art. 32.º Os engenheiros e geólogos de 2.ª classe com mais de três anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 32.º Os engenheiros e geólogos de 2.ª classe com mais de três anos de serviço na classe e boas informações terão, para todos os efeitos legais, a categoria da letra G do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 33.º As vagas de engenheiro e de geólogo de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros e geólogos de 2.ª classe, depois de cinco anos de serviço nesta classe com boas informações.
+Art. 33.º As vagas de engenheiro e de geólogo de 1.ª classe são providas por meio de promoção, respectivamente, dos engenheiros e geólogos de 2.ª classe, depois de cinco anos de serviço nesta classe com boas informações.
 
-###### Art. 34.º As vagas de engenheiro-chefe e de geólogo-chefe são preenchidas, respectivamente, por escolha, entre os engenheiros ou geólogos de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe.
+Art. 34.º As vagas de engenheiro-chefe e de geólogo-chefe são preenchidas, respectivamente, por escolha, entre os engenheiros ou geólogos de 1.ª classe com, pelo menos, quatro anos de serviço nesta classe.
 
-###### Art. 35.º Se as vagas a preencher nos termos dos artigos 33.º e 34.º forem em número superior ao dos candidatos com o tempo de serviço indicado nesses artigos, pode o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros ou geólogos de 2.ª, ou proceder à escolha de engenheiros-chefes ou de geólogos-chefes que não satisfaçam aquelas condições de tempo de serviço.
+Art. 35.º Se as vagas a preencher nos termos dos artigos 33.º e 34.º forem em número superior ao dos candidatos com o tempo de serviço indicado nesses artigos, pode o Ministro do Ultramar, por despacho, autorizar a promoção de engenheiros ou geólogos de 2.ª, ou proceder à escolha de engenheiros-chefes ou de geólogos-chefes que não satisfaçam aquelas condições de tempo de serviço.
 
-###### Art. 36.º O provimento das vagas na categoria de director é feito, em regra, por escolha entre os engenheiros de minas ou geólogos-chefes com, pelo menos, cinco anos de serviço nesta categoria.
+Art. 36.º O provimento das vagas na categoria de director é feito, em regra, por escolha entre os engenheiros de minas ou geólogos-chefes com, pelo menos, cinco anos de serviço nesta categoria.
 
-###### Art. 37.º O provimento dos cargos de fotogeólogo, hidrogeólogo, mineralogista, petrógrafo, paleontólogo, geoquímico e geofísico far-se-á, por escolha, entre os engenheiros de minas de classe ou geólogos de 1.ª classe existentes do quadro comum que tenham adquirido a respectiva especialização e, na falta destes, por concurso documental entre engenheiros de minas e geólogos estranhos ao serviço possuidores da respectiva especialização.
+Art. 37.º O provimento dos cargos de fotogeólogo, hidrogeólogo, mineralogista, petrógrafo, paleontólogo, geoquímico e geofísico far-se-á, por escolha, entre os engenheiros de minas de classe ou geólogos de 1.ª classe existentes do quadro comum que tenham adquirido a respectiva especialização e, na falta destes, por concurso documental entre engenheiros de minas e geólogos estranhos ao serviço possuidores da respectiva especialização.
 
 § único. Os especializados referidos neste artigo terão no quadro a categoria que lhes compete e o direito à gratificação de especialização que estiver fixada.
 
-###### Art. 38.º As habilitações exigidas para o provimento dos lugares dos quadros são as seguintes:
+Art. 38.º As habilitações exigidas para o provimento dos lugares dos quadros são as seguintes:
 
 1.º Para os lugares de engenheiro de minas, possuir o respectivo curso superior.
 
@@ -662,13 +697,13 @@ Engenheiro ou geólogo de 2.ª classe.
 
 14.º Para o cargo de conservador-bíbliotecário, possuir curso universitário e formação profissional adequada no exercício do cargo.
 
-###### Art. 39.º Os cargos de adjunto técnico de minas principal e de 1.ª classe, adjunto técnico de máquinas principal, adjunto técnico analista principal, topógrafo geómetra mineiro, topógrafo principal, desenhador cartógrafo principal, encarregado geral de sondagens, chefe de secretaria geral, chefe de secção de expediente, chefe de secção de contabilidade e chefe de laboratório fotográfico serão preenchidos por meio de concurso documental entre os funcionários de categoria imediatamente inferior.
+Art. 39.º Os cargos de adjunto técnico de minas principal e de 1.ª classe, adjunto técnico de máquinas principal, adjunto técnico analista principal, topógrafo geómetra mineiro, topógrafo principal, desenhador cartógrafo principal, encarregado geral de sondagens, chefe de secretaria geral, chefe de secção de expediente, chefe de secção de contabilidade e chefe de laboratório fotográfico serão preenchidos por meio de concurso documental entre os funcionários de categoria imediatamente inferior.
 
-###### Art. 40.º O ingresso e promoção do restante pessoal dos quadros privativos dos serviços de geologia e minas do ultramar é feito na menor categoria dos respectivos cargos segundo a legislação geral e os regulamentos privativos dos serviços em cada província.
+Art. 40.º O ingresso e promoção do restante pessoal dos quadros privativos dos serviços de geologia e minas do ultramar é feito na menor categoria dos respectivos cargos segundo a legislação geral e os regulamentos privativos dos serviços em cada província.
 
 #### SECÇÃO III — Das colocações
 
-###### Art. 41.º À chefia dos departamentos dos serviços de geologia e minas do ultramar compete:
+Art. 41.º À chefia dos departamentos dos serviços de geologia e minas do ultramar compete:
 
 a) Nas Direcções de Serviços de Angola e Moçambique:
 
@@ -712,29 +747,29 @@ b) Nas repartições provinciais de Cabo Verde, Guiné, S. Tomé e Príncipe e T
 
 #### SECÇÃO IV — Dos vencimentos e remunerações
 
-###### Art. 42.º O pessoal dos serviços de geologia e minas do ultramar perceberá os vencimentos, subsídios e abonos estabelecidos pela legislação em vigor, incluindo o regime de remunerações previsto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, com as alterações constantes do artigo 13.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578) e artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), respectivamente de 24 de Novembro de 1962 e 24 de Junho de 1963.
+Art. 42.º O pessoal dos serviços de geologia e minas do ultramar perceberá os vencimentos, subsídios e abonos estabelecidos pela legislação em vigor, incluindo o regime de remunerações previsto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, com as alterações constantes do artigo 13.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578) e artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), respectivamente de 24 de Novembro de 1962 e 24 de Junho de 1963.
 
-###### Art. 43.º Aos inspectores provinciais, aos directores dos serviços e aos funcionários que exerçam funções de chefia de repartições técnicas dos serviços centrais será abonada uma remuneração diferencial de 1000$00 mensais.
+Art. 43.º Aos inspectores provinciais, aos directores dos serviços e aos funcionários que exerçam funções de chefia de repartições técnicas dos serviços centrais será abonada uma remuneração diferencial de 1000$00 mensais.
 
-###### Art. 44.º Aos engenheiros de minas ou geólogos de 1.ª ou 2.ª classes que estejam providos ou exerçam os cargos referidos no artigo 37.º será abonada uma gratificação mensal de 1000$00.
+Art. 44.º Aos engenheiros de minas ou geólogos de 1.ª ou 2.ª classes que estejam providos ou exerçam os cargos referidos no artigo 37.º será abonada uma gratificação mensal de 1000$00.
 
-###### Art. 45.º Os funcionários de categoria não superior à do grupo L, quando exerçam funções de chefia de secções e de secretaria das repartições provinciais, perceberão uma gratificação especial mensal de 500$00.
+Art. 45.º Os funcionários de categoria não superior à do grupo L, quando exerçam funções de chefia de secções e de secretaria das repartições provinciais, perceberão uma gratificação especial mensal de 500$00.
 
-###### Art. 46.º O tesoureiro perceberá a gratificação mensal especial para falhas de 300$00.
+Art. 46.º O tesoureiro perceberá a gratificação mensal especial para falhas de 300$00.
 
-###### Art. 47.º Para além das gratificações a que se referem os artigos anteriores, ao director e a cada um dos professores da escola de técnicos auxiliares de minas e geologia será abonada a gratificação mensal de 1000$00, aos instrutores a de 600$00 e ao secretário a de 300$00.
+Art. 47.º Para além das gratificações a que se referem os artigos anteriores, ao director e a cada um dos professores da escola de técnicos auxiliares de minas e geologia será abonada a gratificação mensal de 1000$00, aos instrutores a de 600$00 e ao secretário a de 300$00.
 
 ### CAPÍTULO IV — Da preparação técnica e aperfeiçoamento de pessoal e intercâmbio dos serviços
 
-###### Art. 48.º O pessoal com mais de quatro anos de actividade nos serviços, com boas informações anuais, poderá, sob proposta dos directores dos serviços ou dos chefes das repartições provinciais, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou realizar estágios na mesma província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
+Art. 48.º O pessoal com mais de quatro anos de actividade nos serviços, com boas informações anuais, poderá, sob proposta dos directores dos serviços ou dos chefes das repartições provinciais, ser autorizado a frequentar cursos de aperfeiçoamento ou especialização profissional ou realizar estágios na mesma província, na metrópole, noutras províncias ultramarinas ou no estrangeiro.
 
 § 1.º A autorização referida neste artigo só será conseguida mediante compromisso assumido pelo interessado de prestar um mínimo de cinco anos de serviço ao Estado na província que tenha suportado os encargos com a sua especialização.
 
 § 2.º O não cumprimento do mencionado no parágrafo anterior obrigará a reposição integral de todas as despesas efectuadas.
 
-###### Art. 49.º Sob proposta das direcções de serviços ou chefias de repartições provinciais, poderão ser organizados colóquios de informação técnica ou científica das respectivas actividades, para os quais poderão ser convidados especialistas nacionais ou estrangeiros de reconhecida competência.
+Art. 49.º Sob proposta das direcções de serviços ou chefias de repartições provinciais, poderão ser organizados colóquios de informação técnica ou científica das respectivas actividades, para os quais poderão ser convidados especialistas nacionais ou estrangeiros de reconhecida competência.
 
-###### Art. 50.º Os serviços de geologia e minas de Angola e Moçambique, quando autorizados pelo Ministro do Ultramar, poderão realizar jornadas geológico-mineiras reunindo os técnicos que forem designados, onde e como melhor convier, para apresentação e discussão de temas de actualidade e importância para a eficiência dos serviços e para a economia das respectivas províncias.
+Art. 50.º Os serviços de geologia e minas de Angola e Moçambique, quando autorizados pelo Ministro do Ultramar, poderão realizar jornadas geológico-mineiras reunindo os técnicos que forem designados, onde e como melhor convier, para apresentação e discussão de temas de actualidade e importância para a eficiência dos serviços e para a economia das respectivas províncias.
 
 § 1.º Normalmente as jornadas efectuar-se-ão alternadamente em Angola e Moçambique, podendo, no entanto, ser determinada, por decisão ministerial, a reunião noutra província ultramarina.
 
@@ -742,7 +777,7 @@ b) Nas repartições provinciais de Cabo Verde, Guiné, S. Tomé e Príncipe e T
 
 Poderão também tomar parte nestas jornadas, quando possível e aconselhável, elementos dos serviços de geologia e minas do Ministério do Ultramar e das restantes províncias ultramarinas. Poderão ainda participar nos trabalhos outros organismos oficiais e entidades particulares especializadas ou interessadas nos estudos de geologia e minas.
 
-###### Art. 51.º Os serviços procurarão preparar o seu pessoal técnico auxiliar das diferentes categorias de acordo com as suas exigências.
+Art. 51.º Os serviços procurarão preparar o seu pessoal técnico auxiliar das diferentes categorias de acordo com as suas exigências.
 
 Esta preparação poderá ser extensiva a indivíduos estranhos aos serviços e, neste caso, deverão ser organizados cursos para a formação de preparadores, colectores, prospectores, sondadores e outros, os quais serão regulamentados em cada província e ministrados na escola de técnicos auxiliares de minas e geologia.
 
@@ -752,13 +787,13 @@ Esta preparação poderá ser extensiva a indivíduos estranhos aos serviços e,
 
 § 3.º O regulamento da escola, prevendo o local ou locais do ensino, natureza dos cursos e sua duração, trabalhos práticos, exames, certificados de aproveitamento, subsídios de frequência, de campo ou ajudas de custo e demais pormenores, será objecto de regulamentos provinciais a publicar de harmonia com as necessidades dos serviços e da respectiva província.
 
-###### Art. 52.º Os serviços de geologia e minas deverão manter a publicação de um boletim para divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos do âmbito das suas actividades efectuadas por outras entidades oficiais ou particulares. Poderão também publicar, independentemente do Boletim, quaisquer estudos e trabalhos de assinalado interesse técnico e científico que seja útil divulgar, efectuados ou custeados pelos serviços de geologia e minas.
+Art. 52.º Os serviços de geologia e minas deverão manter a publicação de um boletim para divulgação dos estudos e trabalhos efectuados pelo seu pessoal ou de estudos e trabalhos do âmbito das suas actividades efectuadas por outras entidades oficiais ou particulares. Poderão também publicar, independentemente do Boletim, quaisquer estudos e trabalhos de assinalado interesse técnico e científico que seja útil divulgar, efectuados ou custeados pelos serviços de geologia e minas.
 
-###### Art. 53.º Ficam autorizados os governadores das províncias a criar e regulamentar um fundo destinado a custear as publicações dos serviços.
+Art. 53.º Ficam autorizados os governadores das províncias a criar e regulamentar um fundo destinado a custear as publicações dos serviços.
 
 ### CAPÍTULO V — Disposições gerais e transitórias
 
-###### Art. 54.º Os engenheiros de minas e geólogos que à data do presente diploma pertençam aos quadros permanentes dos serviços de geologia e minas do ultramar, por nomeação, contrato ou em comissão, transitam para o quadro comum referido no artigo 29.º, independentemente da idade, mas sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, com dispensa de quaisquer formalidades, observadas as seguintes regras:
+Art. 54.º Os engenheiros de minas e geólogos que à data do presente diploma pertençam aos quadros permanentes dos serviços de geologia e minas do ultramar, por nomeação, contrato ou em comissão, transitam para o quadro comum referido no artigo 29.º, independentemente da idade, mas sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, com dispensa de quaisquer formalidades, observadas as seguintes regras:
 
 a) Na categoria de engenheiro de minas-director, os engenheiros de minas exercendo em comissão, à data deste diploma, os cargos de directores de serviços de geologia e minas de Angola e Moçambique, continuando colocados nos cargos que exercem.
 
@@ -768,7 +803,7 @@ c) Na categoria de engenheiro de 1.ª classe ou geólogo de 1.ª classe, respect
 
 d) Na categoria de engenheiro de 2.ª classe e de geólogo de 2.ª classe, os engenheiros e geólogos do quadro que tenham menos de cinco anos de serviço nesta classe.
 
-###### Art. 55.º Os geólogos, engenheiros de minas, engenheiros de outras especialidades e licenciados em Ciências Geofísicas, em serviço como contratados ou em comissão, à data do presente diploma, nas brigadas ou pagos por verbas globais dos orçamentos ordinários e extraordinários das províncias ultramarinas, poderão ingressar no quadro comum referido no artigo 29.º se o requererem no prazo de 30 dias, contado da data da publicação do presente diploma nos Boletins Oficiais das províncias ultramarinas, se tiverem boas informações e assim convier ao Estado, observadas as seguintes condições:
+Art. 55.º Os geólogos, engenheiros de minas, engenheiros de outras especialidades e licenciados em Ciências Geofísicas, em serviço como contratados ou em comissão, à data do presente diploma, nas brigadas ou pagos por verbas globais dos orçamentos ordinários e extraordinários das províncias ultramarinas, poderão ingressar no quadro comum referido no artigo 29.º se o requererem no prazo de 30 dias, contado da data da publicação do presente diploma nos Boletins Oficiais das províncias ultramarinas, se tiverem boas informações e assim convier ao Estado, observadas as seguintes condições:
 
 a) Na categoria de chefe, os engenheiros de minas, geólogos, engenheiros e licenciados em Ciências Geofísicas contratados para cargos das brigadas, ou funções especializadas, que tenham mais de dez anos de exercício da profissão na actividade oficial ou particular.
 
@@ -776,9 +811,9 @@ b) Na categoria de 1.ª classe, os engenheiros de minas, geólogos e engenheiros
 
 c) Na categoria de 2.ª classe, os engenheiros e geólogos em serviço nas brigadas que tenham menos de cinco anos de exercício na profissão.
 
-###### Art. 56.º O provimento das vagas que ficarem depois do movimento a que se referem os artigos 54.º e 55.º será feito, se tal se tornar necessário, por livre escolha do Ministro do Ultramar de entre os geólogos e engenheiros de minas das classes imediatamente inferiores às vagas a preencher.
+Art. 56.º O provimento das vagas que ficarem depois do movimento a que se referem os artigos 54.º e 55.º será feito, se tal se tornar necessário, por livre escolha do Ministro do Ultramar de entre os geólogos e engenheiros de minas das classes imediatamente inferiores às vagas a preencher.
 
-###### Art. 57.º O pessoal dos actuais quadros permanentes dos serviços de geologia e minas transitará, com todos os seus direitos e para as mesmas categorias, para os novos quadros privativos, independentemente de nomeação, visto ou qualquer outra formalidade.
+Art. 57.º O pessoal dos actuais quadros permanentes dos serviços de geologia e minas transitará, com todos os seus direitos e para as mesmas categorias, para os novos quadros privativos, independentemente de nomeação, visto ou qualquer outra formalidade.
 
 § 1.º No caso de não haver nos novos quadros lugares correspondentes às categorias do pessoal referido no corpo do artigo, poderá este ser provido na categoria imediatamente superior, atendendo às seguintes condições:
 
@@ -800,19 +835,19 @@ As colocações obedecerão ao disposto no corpo do artigo e parágrafo anterior
 
 § 3.º O pessoal assalariado do quadro permanente transitará mediante simples despacho, observando-se quanto às colocações o disposto no corpo do artigo e nos parágrafos anteriores.
 
-###### Art. 58.º Depois de efectuado o movimento referido no artigo anterior, o provimento dos lugares ainda vagos dos quadros privativos criados pelo presente diploma poderá ser feito, por escolha, de entre o pessoal que presta serviço, à data deste decreto, nos serviços de geologia e minas das províncias, nas brigadas ou pagos por verbas globais dos orçamentos ordinário e extraordinário (Plano de Fomento ou quaisquer outras dotações orçamentais) desde que os interessados tenham requerido, no prazo fixado no artigo 55.º, o seu ingresso no quadro privativo.
+Art. 58.º Depois de efectuado o movimento referido no artigo anterior, o provimento dos lugares ainda vagos dos quadros privativos criados pelo presente diploma poderá ser feito, por escolha, de entre o pessoal que presta serviço, à data deste decreto, nos serviços de geologia e minas das províncias, nas brigadas ou pagos por verbas globais dos orçamentos ordinário e extraordinário (Plano de Fomento ou quaisquer outras dotações orçamentais) desde que os interessados tenham requerido, no prazo fixado no artigo 55.º, o seu ingresso no quadro privativo.
 
 § único. O ingresso no quadro privativo faz-se independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, mediante portaria do governador-geral, anotada pelo Tribunal Administrativo, desde que os interessados possuam as habilitações exigidas para os cargos que vão ocupar e tenham prestado um mínimo de três anos de serviço em categoria não inferior à vaga a preencher, com boas informações.
 
-###### Art. 59.º Os funcionários e demais agentes dos quadros extintos continuam a ser abonados, a partir da data da entrada em vigor deste diploma, dos vencimentos e salários que vêm auferindo, até que sejam colocados nos novos lugares.
+Art. 59.º Os funcionários e demais agentes dos quadros extintos continuam a ser abonados, a partir da data da entrada em vigor deste diploma, dos vencimentos e salários que vêm auferindo, até que sejam colocados nos novos lugares.
 
-###### Art. 60.º Será sempre contado, para efeito de antiguidade e com a respectiva equiparação de categoria, todo o tempo de serviço do pessoal contratado permanente ou eventual e do assalariado permanente e eventual que passar para os quadros de nomeação definitiva.
+Art. 60.º Será sempre contado, para efeito de antiguidade e com a respectiva equiparação de categoria, todo o tempo de serviço do pessoal contratado permanente ou eventual e do assalariado permanente e eventual que passar para os quadros de nomeação definitiva.
 
-###### Art. 61.º O preenchimento dos lugares criados por este diploma efectuar-se-á desde que os respectivos encargos caibam nas dotações orçamentais ou à medida que sejam orçamentadas as correspondentes verbas, para o que fica desde já autorizada a abertura dos créditos necessários com contrapartida nos recursos orçamentais, devendo os governadores das províncias ultramarinas tomar as providências necessárias para que, entretanto, se mantenha a actividade dos serviços.
+Art. 61.º O preenchimento dos lugares criados por este diploma efectuar-se-á desde que os respectivos encargos caibam nas dotações orçamentais ou à medida que sejam orçamentadas as correspondentes verbas, para o que fica desde já autorizada a abertura dos créditos necessários com contrapartida nos recursos orçamentais, devendo os governadores das províncias ultramarinas tomar as providências necessárias para que, entretanto, se mantenha a actividade dos serviços.
 
 § único. Os lugares criados por este diploma só deverão constar das respectivas tabelas orçamentais à medida que forem sendo dotados.
 
-###### Art. 62.º No prazo de um ano, a partir da entrada em vigor do presente diploma em cada província, devem ser submetidos à aprovação dos governadores-gerais e governadores de província os projectos de regulamentos necessários à sua execução, nos quais se estabelecerão:
+Art. 62.º No prazo de um ano, a partir da entrada em vigor do presente diploma em cada província, devem ser submetidos à aprovação dos governadores-gerais e governadores de província os projectos de regulamentos necessários à sua execução, nos quais se estabelecerão:
 
 1.º As sedes dos serviços regionais e áreas de jurisdição;
 
@@ -824,7 +859,7 @@ As colocações obedecerão ao disposto no corpo do artigo e parágrafo anterior
 
 5.º Todas as medidas julgadas necessárias para a obtenção de um bom rendimento técnico dos serviços.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -836,12 +871,12 @@ Quadro comum dos geólogos e engenheiros dos serviços de geologia e minas do ul
 
 (Artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14700/08990910.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14700/08990910.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14700/08990910.pdf)
 
 MAPA II Quadro permanente dos serviços de geologia e minas das províncias de Angola e Moçambique
 
 (Artigo 30.º)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/14700/08990910.pdf))](https://files.diariodarepublica.pt/1s/1965/07/14700/08990910.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/14700/08990910.pdf)
 
 Ministério do Ultramar, 5 de Julho de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha

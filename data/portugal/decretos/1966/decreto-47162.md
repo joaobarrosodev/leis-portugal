@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47162-1966-469466
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-04-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a893e2cb8d5d24ea049ed3b704059ff9e88fdff1627b85641142250b9ff37f22
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b147d34b3f83145b83844853670284300989727aa5d0a851c07e77672ee2486d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:225795:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:07Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +99,13 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O serviço de acção psicossocial de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 28, de 19 de Outubro de 1961, será extinto dentro de 60 dias após a publicação deste decreto no Boletim Oficial da província e de harmonia com os artigos seguintes.
+Artigo 1.º O serviço de acção psicossocial de Moçambique, criado pelo Diploma Legislativo Ministerial n.º 28, de 19 de Outubro de 1961, será extinto dentro de 60 dias após a publicação deste decreto no Boletim Oficial da província e de harmonia com os artigos seguintes.
 
-###### Art. 2.º Os serviços de radiodifusão e de cinema educativo e informativo passam, com a organização de que actualmente dispõem no serviço de acção psicossocial e nos termos dos artigos 6.º e 7.º do [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, e artigo 5.º do Diploma Legislativo Ministerial n.º 7, de 12 de Outubro de 1961, para o Centro de Informação e Turismo de Moçambique, sob a orientação de um chefe de serviços, a nomear nos termos dos artigos 6.º e 9.º do referido Diploma Legislativo Ministerial n.º 7, assistido por dois adjuntos, providos, por contrato, com a categoria da letra L do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 2.º Os serviços de radiodifusão e de cinema educativo e informativo passam, com a organização de que actualmente dispõem no serviço de acção psicossocial e nos termos dos artigos 6.º e 7.º do [Decreto-Lei n.º 42194](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42194-1959-586599), de 27 de Março de 1959, e artigo 5.º do Diploma Legislativo Ministerial n.º 7, de 12 de Outubro de 1961, para o Centro de Informação e Turismo de Moçambique, sob a orientação de um chefe de serviços, a nomear nos termos dos artigos 6.º e 9.º do referido Diploma Legislativo Ministerial n.º 7, assistido por dois adjuntos, providos, por contrato, com a categoria da letra L do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 § único. Para o lugar de chefe de serviços a que se refere o corpo do artigo transitará, sem mais formalidades, o actual inspector chefe do serviço de acção psicossocial e para os lugares de adjunto transitarão, nas mesmas condições, o adjunto para a radiodifusão e o adjunto para o cinema educativo e informativo do mesmo serviço.
 
-###### Art. 3.º Os gabinetes de zona de acção psicossocial, a que se refere o artigo 5.º do Diploma Legislativo n.º 28, de 19 de Outubro de 1961, e a alínea b) do artigo 4.º do regulamento aprovado pelo Diploma Legislativo n.º 2214, de 17 de Março de 1962, são integrados nos serviços de centralização e coordenação de informações, como delegações directamente subordinadas aos governadores de distrito.
+Art. 3.º Os gabinetes de zona de acção psicossocial, a que se refere o artigo 5.º do Diploma Legislativo n.º 28, de 19 de Outubro de 1961, e a alínea b) do artigo 4.º do regulamento aprovado pelo Diploma Legislativo n.º 2214, de 17 de Março de 1962, são integrados nos serviços de centralização e coordenação de informações, como delegações directamente subordinadas aos governadores de distrito.
 
 § 1.º A tais delegações competirá a centralização e coordenação de informação a nível distrital e serão constituídas por um primeiro-adjunto, um segundo-adjunto e um dactilógrafo, a prover por contrato ou em comissão de serviço, com direito às remunerações certas que lhes foram atribuídas por aquele diploma.
 
@@ -109,7 +113,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Poderão ser mantidos por mais três meses, contados do prazo referido no artigo 1.º, se assim for julgado conveniente, nos lugares que vêm desempenhando em comissão os funcionários do quadro administrativo dos serviços de administração civil, com direito às remunerações que actualmente percebem.
 
-###### Art. 4.º Enquanto se reconhecer conveniente e por simples despacho do governador-geral poderão continuar em serviço nas delegações dos serviços de centralização e coordenação de informações dos distritos de Niassa e Cabo Delgado, a que se refere o artigo anterior, os seguintes agentes das actuais brigadas móveis do serviço de acção psicossocial:
+Art. 4.º Enquanto se reconhecer conveniente e por simples despacho do governador-geral poderão continuar em serviço nas delegações dos serviços de centralização e coordenação de informações dos distritos de Niassa e Cabo Delgado, a que se refere o artigo anterior, os seguintes agentes das actuais brigadas móveis do serviço de acção psicossocial:
 
 3 chefes de brigada.
 
@@ -119,7 +123,7 @@ Poderão ser mantidos por mais três meses, contados do prazo referido no artigo
 
 § único. Os agentes referidos no corpo do artigo só poderão prestar serviço fora das sedes das divisões administrativas, terão direito às remunerações certas e acidentais que vêm percebendo e beneficiarão da primeira preferência, nos termos do § 2.º do artigo 5.º do presente diploma, a partir da data em que forem exonerados.
 
-###### Art. 5.º Ao restante pessoal do serviço da acção psicossocial será dado o seguinte destino, até ao termo do prazo a que alude o artigo 1.º:
+Art. 5.º Ao restante pessoal do serviço da acção psicossocial será dado o seguinte destino, até ao termo do prazo a que alude o artigo 1.º:
 
 a) O pessoal em comissão de serviço e pertencente aos quadros privativos da província regressará aos serviços de origem;
 
@@ -135,7 +139,7 @@ d) Os agentes interinos e admitidos por assalariamento consideram-se, respectiva
 
 § 3.º O pessoal contratado que, por força do disposto na alínea c), haja de manter-se até ao termo do respectivo contrato será colocado nos serviços de radiodifusão e de cinema educativo e informativo.
 
-###### Art. 6.º Os arquivos do serviço de acção psicossocial serão distribuídos, mediante proposta a elaborar pelo inspector chefe daquele serviço, dentro do prazo a que se refere o artigo 1.º, da seguinte forma:
+Art. 6.º Os arquivos do serviço de acção psicossocial serão distribuídos, mediante proposta a elaborar pelo inspector chefe daquele serviço, dentro do prazo a que se refere o artigo 1.º, da seguinte forma:
 
 a) Aos serviços de centralização e coordenação de informações, tudo o que esteja no âmbito das suas atribuições;
 
@@ -143,13 +147,13 @@ b) Os serviços de radiodifusão e de cinema educativo e informativo conservarã
 
 c) O restante arquivo será distribuído pelos serviços a que possa interessar, conforme a natureza das matérias.
 
-###### Art. 7.º Os bens patrimoniais do gabinete de estudos destinar-se-ão prioritàriamente às necessidades dos serviços de radiodifusão e de cinema educativo e informativo e às delegações distritais do serviço de centralização e coordenação de informações.
+Art. 7.º Os bens patrimoniais do gabinete de estudos destinar-se-ão prioritàriamente às necessidades dos serviços de radiodifusão e de cinema educativo e informativo e às delegações distritais do serviço de centralização e coordenação de informações.
 
 § único. Os bens que não interessem aos serviços referidos no corpo do artigo serão distribuídos pelos departamentos públicos que deles careçam, mediante despacho do Governo-Geral, em proposta a apresentar pelo serviço competente.
 
-###### Art. 8.º O governador-geral de Moçambique assegurará a execução das presentes disposições, nomeadamente no que se refere às disponibilidades existentes nas actuais dotações inscritas no Orçamento Geral do corrente ano a favor do serviço de acção psicossocial, para suportar os encargos criados por este decreto nas verbas de despesas subordinadas ao Centro de Informação e Turismo e aos serviços de centralização e coordenação de informações.
+Art. 8.º O governador-geral de Moçambique assegurará a execução das presentes disposições, nomeadamente no que se refere às disponibilidades existentes nas actuais dotações inscritas no Orçamento Geral do corrente ano a favor do serviço de acção psicossocial, para suportar os encargos criados por este decreto nas verbas de despesas subordinadas ao Centro de Informação e Turismo e aos serviços de centralização e coordenação de informações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Agosto de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

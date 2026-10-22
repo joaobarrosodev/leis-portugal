@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46464-1965-292539
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:10Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3fac7cd0831f4da40f87d931340f297fb1f08df7866bcb81d65e24ae670d2ea6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 39ff3f6c7b3689cac0b2b06e125e8fe902199f5e442ebb51ed20db87f43c7195
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:10Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:298400:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486558:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:10Z'
   warnings: []
   errors: []
 ---
@@ -116,7 +128,7 @@ Ouvidos os Governos das províncias ultramarinas e o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São criadas nas províncias ultramarinas, nos termos do presente decreto, as seguintes modalidades de ensino agrícola, previstas na [Lei n.º 2025](https://diariodarepublica.pt/dr/detalhe/lei/2025-1947-184274), de 19 de Junho de 1947:
+Artigo 1.º - 1. São criadas nas províncias ultramarinas, nos termos do presente decreto, as seguintes modalidades de ensino agrícola, previstas na [Lei n.º 2025](https://diariodarepublica.pt/dr/detalhe/lei/2025-1947-184274), de 19 de Junho de 1947:
 
 a) Ensino elementar, a que se refere a base XVII;
 
@@ -132,35 +144,35 @@ Ari. 2.º - 1. A regulamentação do ensino elementar agrícola, bem como a fixa
 
 2. Na regulamentação referida no n.º 1 deste artigo ter-se-á em conta a possibilidade de realização na província, sempre que circunstâncias o justifiquem, de cursos extraordinários de grau elementar para adultos, destinados a ministrar aos trabalhadores do campo conhecimentos gerais e técnicos referentes à agricultura, silvicultura e à pecuária ou a qualquer dos seus ramos de exploração, devendo os referidos cursos ser promovidos, orientados e fiscalizados pelos serviços e organismos oficiais de carácter agro-pecuário, com a colaboração dos serviços de educação na parte relativa à orientação pedagógica.
 
-###### Art. 3.º A regulamentação do ensino agrícola secundário e médio será feita por portarias do Ministro do Ultramar.
+Art. 3.º A regulamentação do ensino agrícola secundário e médio será feita por portarias do Ministro do Ultramar.
 
-###### Art. 4.º A direcção e orientação do ensino agrícola secundário e médio serão estabelecidas em cada província pelo respectivo governador, ouvido o Conselho a que se refere o artigo 5.º e tendo em consideração o seguinte:
+Art. 4.º A direcção e orientação do ensino agrícola secundário e médio serão estabelecidas em cada província pelo respectivo governador, ouvido o Conselho a que se refere o artigo 5.º e tendo em consideração o seguinte:
 
 a) Aos serviços de educação competirá tudo o que disser respeito à administração das escolas e à sua orientação pedagógica;
 
 b) Aos serviços de agricultura e florestas, aos de economia, aos de veterinária e a outros organismos oficiais interessados no progresso económico-agrícola que forem designados pelo governador da província caberá a parte técnica, a orientação profissional dos alunos e o fornecimento do material necessário, bem como do pessoal especializado.
 
-###### Art. 5.º - 1. Em cada província haverá um conselho coordenador e orientador do ensino agrícola, do qual farão parte representantes dos serviços e organismos referidos nas alíneas a) e b) do artigo 4.º, e ainda de entidades particulares ligadas à agricultura.
+Art. 5.º - 1. Em cada província haverá um conselho coordenador e orientador do ensino agrícola, do qual farão parte representantes dos serviços e organismos referidos nas alíneas a) e b) do artigo 4.º, e ainda de entidades particulares ligadas à agricultura.
 
 2. Compete ao governo da província regulamentar a constituição, competência e funcionamento do conselho referido no n.º 1 deste artigo.
 
-###### Art. 6.º - 1. A instalação de escolas práticas de agricultura e de escolas de regentes agrícolas será feita em locais para o efeito designados pelo governador da província a que se refiram, o qual igualmente determinará a criação e entrada em funcionamento de cada escola.
+Art. 6.º - 1. A instalação de escolas práticas de agricultura e de escolas de regentes agrícolas será feita em locais para o efeito designados pelo governador da província a que se refiram, o qual igualmente determinará a criação e entrada em funcionamento de cada escola.
 
 2. Na localização das escolas práticas de agricultura e de regentes agrícolas deverá ter-se em conta não só a vocação agrária das regiões, essencial ao fim a que as escolas se destinam, como ainda a proximidade de agregados humanos em que a vida e a actividade escolar possam apoiar-se, e a facilidade de acesso a essas regiões.
 
-###### Art. 7.º A criação de secções agrícolas em escolas industriais, nas quais poderão ser ministrados os cursos de formação agrícola (agente rural) e o de mecânico agrícola, será feita por diploma do governador da província a que respeitam.
+Art. 7.º A criação de secções agrícolas em escolas industriais, nas quais poderão ser ministrados os cursos de formação agrícola (agente rural) e o de mecânico agrícola, será feita por diploma do governador da província a que respeitam.
 
-###### Art. 8.º - 1. Os programas dos cursos elementar, secundário e médio agrícolas serão os estabelecidos em portaria do Ministro do Ultramar, ouvido o governo de cada província.
+Art. 8.º - 1. Os programas dos cursos elementar, secundário e médio agrícolas serão os estabelecidos em portaria do Ministro do Ultramar, ouvido o governo de cada província.
 
 2. Na elaboração dos mesmos serão tidas em conta as circunstâncias peculiares de cada província.
 
-###### Art. 9.º - 1. O quadro do pessoal de cada escola de regentes agrícolas e o de cada escola prática de agricultura é o que vai descrito no mapa anexo ao presente decreto com as categorias designadas segundo o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 9.º - 1. O quadro do pessoal de cada escola de regentes agrícolas e o de cada escola prática de agricultura é o que vai descrito no mapa anexo ao presente decreto com as categorias designadas segundo o disposto no § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
 2. Relativamente à província de Cabo Verde, são mantidos os quadros, categorias e gratificações aprovados pelo Diploma Legislativo Ministerial n.º 12, de 5 de Setembro de 1962.
 
 3. A todo o pessoal das escolas de ensino agrícola secundário e médio poderão ser atribuídas gratificações a estipular pelo governador da respectiva província, tendo em conta a localização das escolas, as deslocações e outras circunstâncias que devam ser consideradas.
 
-###### Art. 10.º - 1. O provimento dos lugares do quadro do pessoal docente e auxiliar de ensino será feito pela forma estabelecida nos regulamentos do ensino secundário e médio agrícolas ou por comissão de serviço ou contrato.
+Art. 10.º - 1. O provimento dos lugares do quadro do pessoal docente e auxiliar de ensino será feito pela forma estabelecida nos regulamentos do ensino secundário e médio agrícolas ou por comissão de serviço ou contrato.
 
 2. Não sendo possível efectuar o provimento nos termos do n.º 1, poderá o Ministro do Ultramar, ouvidos os respectivos governadores, determinar que se faça pela forma seguinte:
 
@@ -176,15 +188,15 @@ d) Por prestação de serviço, excepcionalmente e quando motivos muito ponderos
 
 4. Os técnicos destacados para o ensino nos termos do disposto na alínea d) continuarão a perceber os seus vencimentos pelos serviços a que pertencem.
 
-###### Art. 11.º - 1. Os directores das escolas práticas de agricultura e das escolas de regentes agrícolas serão escolhidos de entre os professores técnicos efectivos do ensino agrícola secundário ou médio e serão nomeados pelo governador da província em comissão de serviço, que poderá ser dada por finda em qualquer altura.
+Art. 11.º - 1. Os directores das escolas práticas de agricultura e das escolas de regentes agrícolas serão escolhidos de entre os professores técnicos efectivos do ensino agrícola secundário ou médio e serão nomeados pelo governador da província em comissão de serviço, que poderá ser dada por finda em qualquer altura.
 
 2. Os directores das escolas práticas de agricultura e das escolas de regentes agrícolas, enquanto exercerem estas funções, são equiparados, para efeito de categoria e vencimento, a professores efectivos com mais de vinte anos de serviço, se ainda não possuírem essa categoria.
 
-###### Art. 12.º A todo o pessoal das escolas elementares de agricultura é aplicável o disposto no n.º 3 do artigo 9.º
+Art. 12.º A todo o pessoal das escolas elementares de agricultura é aplicável o disposto no n.º 3 do artigo 9.º
 
-###### Art. 13.º Para atribuição de vencimentos por diuturnidades ao pessoal docente e auxiliar de ensino das escolas de ensino agrícola das províncias ultramarinas aproveita todo o serviço prestado nas correspondentes funções em estabelecimentos de ensino oficial da metrópole ou outras províncias ultramarinas, bem como o prestado em outros serviços oficiais.
+Art. 13.º Para atribuição de vencimentos por diuturnidades ao pessoal docente e auxiliar de ensino das escolas de ensino agrícola das províncias ultramarinas aproveita todo o serviço prestado nas correspondentes funções em estabelecimentos de ensino oficial da metrópole ou outras províncias ultramarinas, bem como o prestado em outros serviços oficiais.
 
-###### Art. 14.º - 1. Na realização dos concursos de provas para professores técnicos do ensino secundário e médio agrícola observar-se-á o disposto no artigo 9.º do [Decreto-Lei n.º 40799](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40799-1956-298400), de 13 de Outubro de 1956, cabendo os encargos à província a que a escola pertença e competindo ao Ministro do Ultramar as nomeações, segundo o apuramento do concurso.
+Art. 14.º - 1. Na realização dos concursos de provas para professores técnicos do ensino secundário e médio agrícola observar-se-á o disposto no artigo 9.º do [Decreto-Lei n.º 40799](https://diariodarepublica.pt/dr/detalhe/decreto-lei/40799-1956-298400), de 13 de Outubro de 1956, cabendo os encargos à província a que a escola pertença e competindo ao Ministro do Ultramar as nomeações, segundo o apuramento do concurso.
 
 2. Aos candidatos residentes na província a que a vaga respeitar será pelo respectivo governador atribuído um adiantamento para deslocação à metrópole, o qual será reembolsável nas seguintes condições:
 
@@ -194,21 +206,21 @@ b) Em prestações, a fixar por despacho do governador, quando prestarem serviç
 
 3. Desde que se encontrem em funcionamento as escolas da província, a realização das provas poderá nelas ter lugar, promovendo-se a deslocação dos membros do júri que sejam necessários.
 
-###### Art. 15.º As escolas agrícolas médias e secundárias serão dotadas no orçamento da província respectiva e gozarão de autonomia administrativa e financeira.
+Art. 15.º As escolas agrícolas médias e secundárias serão dotadas no orçamento da província respectiva e gozarão de autonomia administrativa e financeira.
 
-###### Art. 16.º - 1. A escola prática de agricultura junto do Posto de Culturas Regadas, no vale do Limpopo, na província de Moçambique, é desde já integrada na organização geral do ensino secundário agrícola da província.
+Art. 16.º - 1. A escola prática de agricultura junto do Posto de Culturas Regadas, no vale do Limpopo, na província de Moçambique, é desde já integrada na organização geral do ensino secundário agrícola da província.
 
 2. Os cursos ministrados na escola referida no n.º 1 até ao final do ano lectivo de 1964-1965 são, para todos os efeitos legais, considerados equivalentes aos ministrados nas escolas práticas de agricultura dependentes dos serviços de educação.
 
 3. Ao pessoal de secretaria e pessoal menor que presentemente preste serviço na secretaria da escola é garantido o direito a ser provido nos quadros de idêntica categoria do ensino agrícola da província de Moçambique.
 
-###### Art. 17.º Nos termos do artigo anterior, são integradas na orgânica do ensino agrícola a que se refere o presente decreto as escolas agrícolas dos vários graus já criadas nas diferentes províncias ultramarinas, sem prejuízo do disposto no n.º 3 do artigo 1.º do presente diploma quanto à província de Cabo Verde.
+Art. 17.º Nos termos do artigo anterior, são integradas na orgânica do ensino agrícola a que se refere o presente decreto as escolas agrícolas dos vários graus já criadas nas diferentes províncias ultramarinas, sem prejuízo do disposto no n.º 3 do artigo 1.º do presente diploma quanto à província de Cabo Verde.
 
-###### Art. 18.º (transitório). A primeira nomeação dos directores das escolas de ensino agrícola secundário e médio é da competência do Ministro do Ultramar, ouvido o governador da província.
+Art. 18.º (transitório). A primeira nomeação dos directores das escolas de ensino agrícola secundário e médio é da competência do Ministro do Ultramar, ouvido o governador da província.
 
-###### Art. 19.º A execução do presente diploma em tudo quanto representa aumento de despesas fica condicionada às disponibilidades de cada província.
+Art. 19.º A execução do presente diploma em tudo quanto representa aumento de despesas fica condicionada às disponibilidades de cada província.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -216,6 +228,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas, exce
 
 Mapa a que se refere o n.º 1 do artigo 9.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/07/17000/10591062.pdf))](https://files.diariodarepublica.pt/1s/1965/07/17000/10591062.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/07/17000/10591062.pdf)
 
 Ministério do Ultramar, 31 de Julho de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

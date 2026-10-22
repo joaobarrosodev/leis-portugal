@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47472-1966-488099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4713a3b43a42c09250520e10f94f1b4c5ee8c94547882530b2f2023acbd0726a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 76c3c05406819c51b4a4b2ac5e59db1779446829756e8253a05b56733f3de7c0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:480166:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:51Z'
   warnings: []
   errors: []
 ---
@@ -105,11 +113,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, serão aplicadas à empresa concessionária do serviço público dos transportes ferroviários com as adaptações constantes dos artigos do presente diploma.
+Artigo 1.º As disposições do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, serão aplicadas à empresa concessionária do serviço público dos transportes ferroviários com as adaptações constantes dos artigos do presente diploma.
 
-###### Art. 2.º A admissão nas categorias dos quadros permanentes da empresa, para que se exija qualificação ou preparação técnicas, pode ficar dependente de estágio prévio, não superior a dois anos.
+Art. 2.º A admissão nas categorias dos quadros permanentes da empresa, para que se exija qualificação ou preparação técnicas, pode ficar dependente de estágio prévio, não superior a dois anos.
 
-###### Art. 3.º Os trabalhadores admitidos com carácter eventual adquirem a qualidade de agentes dos quadros permanentes, nas seguintes condições:
+Art. 3.º Os trabalhadores admitidos com carácter eventual adquirem a qualidade de agentes dos quadros permanentes, nas seguintes condições:
 
 1.ª Os admitidos de 1 de Janeiro de 1967 a 31 de Dezembro de 1968, logo que completem dois anos de serviço ininterrupto;
 
@@ -125,11 +133,11 @@ b) Todos os admitidos antes de 1 de Janeiro de 1967 e não abrangidos pela alín
 
 § 2.º Para efeitos do disposto nesse artigo, não se contam as interrupções inferiores a 60 dias em cada ano.
 
-###### Art. 4.º A empresa pode utilizar para as substituições das guardas de passagem de nível, nos seus descansos semanais, pessoal feminino contratado diàriamente para o efeito.
+Art. 4.º A empresa pode utilizar para as substituições das guardas de passagem de nível, nos seus descansos semanais, pessoal feminino contratado diàriamente para o efeito.
 
-###### Art. 5.º Os agentes devem obediência à entidade patronal em tudo o que respeita ao trabalho e à disciplina.
+Art. 5.º Os agentes devem obediência à entidade patronal em tudo o que respeita ao trabalho e à disciplina.
 
-###### Art. 6.º A empresa pode transferir e deslocar os agentes de harmonia com as necessidades do serviço, devendo atender, sempre que possível, às conveniências daqueles.
+Art. 6.º A empresa pode transferir e deslocar os agentes de harmonia com as necessidades do serviço, devendo atender, sempre que possível, às conveniências daqueles.
 
 § 1.º Os agentes têm direito a rescindir o contrato desde que provem que a transferência lhes causa grave prejuízo funcional.
 
@@ -137,9 +145,9 @@ Os agentes nestas condições têm direito à indemnização equivalente a 50 po
 
 § 2.º A transferência ou deslocação dos agentes dá-lhes direito à utilização dos meios de transporte da entidade patronal, sem prejuízo de outras regalias aos mesmos concedidas.
 
-###### Art. 7.º Quando as necessidades do serviço o imponham, pode o agente de categoria superior ocupar outra inferior pelo tempo estritamente necessário, sem perda da retribuição inerente à sua categoria.
+Art. 7.º Quando as necessidades do serviço o imponham, pode o agente de categoria superior ocupar outra inferior pelo tempo estritamente necessário, sem perda da retribuição inerente à sua categoria.
 
-###### Art. 8.º As sanções disciplinares aplicáveis aos agentes são as seguintes:
+Art. 8.º As sanções disciplinares aplicáveis aos agentes são as seguintes:
 
 a) Advertência;
 
@@ -163,21 +171,21 @@ j) Despedimento.
 
 § único. As sanções disciplinares de multa e suspensão de trabalho com perda de retribuição e antiguidade não podem exceder em cada ano civil 10 dias de multa e 30 dias de suspensão.
 
-###### Art. 9.º As multas aplicadas com sanções disciplinares reverterão exclusivamente para o património da Caixa de Previdência dos Ferroviários.
+Art. 9.º As multas aplicadas com sanções disciplinares reverterão exclusivamente para o património da Caixa de Previdência dos Ferroviários.
 
-###### Art. 10.º O registo das sanções disciplinares aplicadas aos agentes constará das respectivas matrículas, que podem ser examinadas pelas entidades competentes, sempre que estas o requeiram.
+Art. 10.º O registo das sanções disciplinares aplicadas aos agentes constará das respectivas matrículas, que podem ser examinadas pelas entidades competentes, sempre que estas o requeiram.
 
-###### Art. 11.º Serão considerados períodos experimentais de trabalho todos os estágios exigidos para admissão do pessoal ferroviário, de harmonia com o respectivo acordo colectivo de trabalho.
+Art. 11.º Serão considerados períodos experimentais de trabalho todos os estágios exigidos para admissão do pessoal ferroviário, de harmonia com o respectivo acordo colectivo de trabalho.
 
-###### Art. 12.º Só se considera trabalho extraordinário do pessoal das estações o que for prestado fora das horas normais do serviço, e como tal não será considerado o que não exceda oito horas de trabalho diário efectivo na totalidade.
+Art. 12.º Só se considera trabalho extraordinário do pessoal das estações o que for prestado fora das horas normais do serviço, e como tal não será considerado o que não exceda oito horas de trabalho diário efectivo na totalidade.
 
-###### Art. 13.º Os agentes são obrigados a prestar o trabalho extraordinário que for imposto pelas necessidades do serviço público em que colaboram, a menos que sejam superiormente dispensados por motivos atendíveis.
+Art. 13.º Os agentes são obrigados a prestar o trabalho extraordinário que for imposto pelas necessidades do serviço público em que colaboram, a menos que sejam superiormente dispensados por motivos atendíveis.
 
-###### Art. 14.º O serviço ferroviário é considerado de laboração contínua, excepto para o pessoal de escritório, e o trabalho nocturno não dá direito a retribuição extraordinária, quando tenha carácter normal e não represente agravamento excepcional do esforço exigido aos agentes que o executam.
+Art. 14.º O serviço ferroviário é considerado de laboração contínua, excepto para o pessoal de escritório, e o trabalho nocturno não dá direito a retribuição extraordinária, quando tenha carácter normal e não represente agravamento excepcional do esforço exigido aos agentes que o executam.
 
-###### Art. 15.º Os agentes que, pela função que exercem, não podem estar sujeitos a períodos determinados de trabalho não têm direito a retribuição especial por esse facto.
+Art. 15.º Os agentes que, pela função que exercem, não podem estar sujeitos a períodos determinados de trabalho não têm direito a retribuição especial por esse facto.
 
-###### Art. 16.º - 1. O trabalho extraordinário será retribuído, transitòriamente e até 1 de Janeiro de 1969, pela forma seguinte:
+Art. 16.º - 1. O trabalho extraordinário será retribuído, transitòriamente e até 1 de Janeiro de 1969, pela forma seguinte:
 
 a) Durante o ano de 1967 as horas extraordinárias serão retribuídas com o acréscimo de 10 por cento sobre a retribuição horária normal e o trabalho prestado em dias de descanso com o acréscimo de 20 por cento sobre a retribuição diária normal;
 
@@ -187,34 +195,34 @@ c) A partir de 1 de Janeiro de 1969 as percentagens referidas nas alíneas anter
 
 2. As percentagens fixadas não são passíveis de desconto para o Fundo Nacional do Abono de Família e revertem integralmente a favor dos agentes.
 
-###### Art. 17.º - 1. Todos os agentes do quadro permanente têm direito a vinte dias de férias retribuídas por cada ano de bom e efectivo serviço.
+Art. 17.º - 1. Todos os agentes do quadro permanente têm direito a vinte dias de férias retribuídas por cada ano de bom e efectivo serviço.
 
 2. As férias, concedidas de harmonia com as conveniências do serviço, devem ser gozadas durante todo o ano civil respectivo, podendo em casos excepcionais ser transferidas para o 1.º trimestre do ano seguinte.
 
 3. As férias podem ser gozadas interpoladamente, a pedido dos agentes e sem prejuízo do serviço, devendo ser seguidas, pelo menos, durante seis dias.
 
-###### Art. 18.º Os praticantes de factor, marçanos dos armazéns de víveres e quaisquer estagiários no primeiro ano em que estiverem nessa situação não têm direito ao gozo de férias, sendo maiores.
+Art. 18.º Os praticantes de factor, marçanos dos armazéns de víveres e quaisquer estagiários no primeiro ano em que estiverem nessa situação não têm direito ao gozo de férias, sendo maiores.
 
 § único. Ultrapassado o período de um ano, têm direito às férias fixadas na lei geral.
 
-###### Art. 19.º O regime das faltas ao serviço, justificadas ou não, e suas consequências, será apenas o fixado no respectivo acordo colectivo de trabalho.
+Art. 19.º O regime das faltas ao serviço, justificadas ou não, e suas consequências, será apenas o fixado no respectivo acordo colectivo de trabalho.
 
-###### Art. 20.º A empresa concessionária pode sempre despedir os agentes, mas deve pagar-lhes a indemnização legal, quando o faça sem justa causa, salvo o disposto nos artigos 32.º e seguintes do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), na parte em que não contrariem o presente diploma.
+Art. 20.º A empresa concessionária pode sempre despedir os agentes, mas deve pagar-lhes a indemnização legal, quando o faça sem justa causa, salvo o disposto nos artigos 32.º e seguintes do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), na parte em que não contrariem o presente diploma.
 
-###### Art. 21.º Os certificados passados pela empresa concessionária, a pedido dos agentes, regular-se-ão pelo disposto no acordo colectivo de trabalho.
+Art. 21.º Os certificados passados pela empresa concessionária, a pedido dos agentes, regular-se-ão pelo disposto no acordo colectivo de trabalho.
 
-###### Art. 22.º Os agentes femininos terão os acessos inerentes aos quadros a que pertençam, com as excepções estabelecidas resultantes da disciplina e natureza do trabalho.
+Art. 22.º Os agentes femininos terão os acessos inerentes aos quadros a que pertençam, com as excepções estabelecidas resultantes da disciplina e natureza do trabalho.
 
-###### Art. 23.º As multas em que incorrer a empresa concessionária, de harmonia com o estabelecido na lei geral, entender-se-ão sempre aplicadas por cada trabalhador em relação ao qual se verifique a infracção.
+Art. 23.º As multas em que incorrer a empresa concessionária, de harmonia com o estabelecido na lei geral, entender-se-ão sempre aplicadas por cada trabalhador em relação ao qual se verifique a infracção.
 
-###### Art. 24.º A empresa concessionária pode descontar na retribuição mensal devida aos seus agentes quaisquer empréstimos solicitados ou o valor de fornecimentos de géneros e combustíveis requisitados pelos interessados.
+Art. 24.º A empresa concessionária pode descontar na retribuição mensal devida aos seus agentes quaisquer empréstimos solicitados ou o valor de fornecimentos de géneros e combustíveis requisitados pelos interessados.
 
 § único. A empresa deverá fixar para cada nível de retribuição as requisições e os empréstimos máximos autorizados.
 
-###### Art. 25.º É extinta a categoria de guarda de passagem de nível (homens), devendo a C. P., dentro do prazo de um ano, colocar noutra categoria os agentes que naquela se encontram actualmente, sem prejuízo da remuneração que auferem.
+Art. 25.º É extinta a categoria de guarda de passagem de nível (homens), devendo a C. P., dentro do prazo de um ano, colocar noutra categoria os agentes que naquela se encontram actualmente, sem prejuízo da remuneração que auferem.
 
-###### Art. 26.º As disposições do presente diploma aplicam-se às empresas subconcessionária ou arrendatárias em tudo o que não for contrário às respectivas convenções colectivas de trabalho.
+Art. 26.º As disposições do presente diploma aplicam-se às empresas subconcessionária ou arrendatárias em tudo o que não for contrário às respectivas convenções colectivas de trabalho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

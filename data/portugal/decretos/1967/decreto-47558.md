@@ -49,36 +49,56 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47558-1967-504537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a9fda9830b2b8055dd73e4fa04502466486226432b9b79a26dc56dd149a93d0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6a8db111dbe8c273a977ea3ef3b8e027c9bb9c1e9bfdc1e841501f3efc870168
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Ultramarina
+- Ensino Superior
+- Escola de Regentes Agrícolas
+- Escola Superior de Belas-artes
+- Estágio de Formação
+- Estudante
+- Formação Profissional
+- Instituto Industrial
+- Qualificação Profissional
+- Remuneração
+- Ultramar
+- Universidade
+relationships:
+- type: cites
+  target: pt:dre:516182:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516184:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:28Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +117,7 @@ Ouvidos o Conselho Ultramarino e os governadores de todas as províncias ultrama
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Pelo Ministro do Ultramar poderão ser concedidas passagens:
+Artigo 1.º Pelo Ministro do Ultramar poderão ser concedidas passagens:
 
 a) Para as províncias ultramarinas, aos finalistas de cursos superiores de Ciências Biológicas, de Ciências Geológicas, de Engenheiro Geógrafo, de Economia, de Engenharia, de Agronomia, de Medicina Veterinária, de Farmácia, de Serviço Social, de Arquitectura das escolas de belas-artes; aos finalistas dos cursos de Serviço Social e de Educação de Infância ministrados em institutos particulares; aos finalistas dos cursos dos institutos industriais e aos dos cursos das escolas de regentes agrícolas que pretendam estagiar em serviços públicos no ultramar;
 
@@ -109,9 +129,9 @@ b) Para a metrópole, aos finalistas dos cursos superiores referidos na alínea 
 
 § 3.º As regalias referidas nas alíneas a) e b) serão concedidas aos estagiários que tenham terminado a parte escolar ou o curso no próprio ano em que requeiram o estágio e são extensivas àqueles que os tenham terminado há mais tempo se, entretanto, houverem sido chamados à prestação de serviço militar.
 
-###### Art. 2.º As passagens serão concedidas em regra por via marítima, em 1.ª ou 2.ª classe, conforme o grau académico do estagiário, podendo ser concedidas por via aérea, em classe turística, por despacho ministerial, sempre que as circunstâncias o aconselhem.
+Art. 2.º As passagens serão concedidas em regra por via marítima, em 1.ª ou 2.ª classe, conforme o grau académico do estagiário, podendo ser concedidas por via aérea, em classe turística, por despacho ministerial, sempre que as circunstâncias o aconselhem.
 
-###### Art. 3.º Durante o período do estágio, que não deverá ser inferior a três meses, os beneficiários terão direito:
+Art. 3.º Durante o período do estágio, que não deverá ser inferior a três meses, os beneficiários terão direito:
 
 1. A vencimentos correspondentes às letras K e N do artigo 91.º do Estatuto do Funcionalismo Ultramarino, os estagiários referidos na alínea a) do artigo 1.º, a partir do dia do embarque até ao regresso, respectivamente para os dos cursos superiores ou para os dos cursos médios, e bem assim às ajudas de custo nos mesmos termos em que são abonadas nas províncias ultramarinas aos servidores do Estado quando deslocados da sua residência por motivo de serviço público;
 
@@ -127,11 +147,11 @@ Excedido esse prazo sem que o estagiário obtenha colocação, cessa o seu compr
 
 § 3.º O não cumprimento integral, por parte dos estagiários, do condicionalismo referido no § 1.º do artigo 1.º importa indemnização à Fazenda Nacional da importância correspondente aos abonos das passagens e das remunerações que lhes foram efectuados para a realização do estágio.
 
-###### Art. 4.º As províncias ultramarinas informarão o Ministério, no princípio de cada ano, do número, especialidade e duração dos estágios de finalistas, quer da metrópole quer do ultramar, em que estão interessadas, segundo as respectivas necessidades e possibilidades orçamentais.
+Art. 4.º As províncias ultramarinas informarão o Ministério, no princípio de cada ano, do número, especialidade e duração dos estágios de finalistas, quer da metrópole quer do ultramar, em que estão interessadas, segundo as respectivas necessidades e possibilidades orçamentais.
 
 § único. A Direcção-Geral do Ensino, na metrópole, e os serviços de educação, no ultramar, por onde correrá o expediente relacionado com o presente decreto, excepto no que se refere aos abonos de passagens ou a remunerações, transmitirão aos respectivos estabelecimentos de ensino, para conhecimento dos alunos finalistas, os elementos necessários à sua elucidação, no caso de desejarem candidatar-se aos estágios.
 
-###### Art. 5.º Os candidatos nas condições previstas neste decreto pedirão a sua admissão ao estágio em requerimento dirigido ao Ministro do Ultramar, ou ao governador da província se se tratar dos estágios referidos no artigo 7.º, donde conste a residência, idade, naturalidade, habilitação académica, média do curso ou da sua parte escolar, classificação do último ano e quando o concluíram.
+Art. 5.º Os candidatos nas condições previstas neste decreto pedirão a sua admissão ao estágio em requerimento dirigido ao Ministro do Ultramar, ou ao governador da província se se tratar dos estágios referidos no artigo 7.º, donde conste a residência, idade, naturalidade, habilitação académica, média do curso ou da sua parte escolar, classificação do último ano e quando o concluíram.
 
 O requerimento deverá ser confirmado pelo director do estabelecimento em que o candidato terminou o curso.
 
@@ -141,11 +161,11 @@ O requerimento deverá ser confirmado pelo director do estabelecimento em que o 
 
 § 3.º Terão preferência absoluta os finalistas dos cursos de Medicina Veterinária e de Agronomia que frequentem ou possuam o curso especial tropical, neste caso desde que requeiram a admissão ao estágio no ano em que terminaram essa especialização.
 
-###### Art. 6.º No regresso, os estagiários farão a sua apresentação, respectivamente, na Direcção-Geral do Ensino ou nos serviços provinciais de educação, onde, no prazo de três meses, após a chegada, deverão apresentar relatório, em duplicado, dos estágios efectuados.
+Art. 6.º No regresso, os estagiários farão a sua apresentação, respectivamente, na Direcção-Geral do Ensino ou nos serviços provinciais de educação, onde, no prazo de três meses, após a chegada, deverão apresentar relatório, em duplicado, dos estágios efectuados.
 
 Os exemplares entregues destinam-se às entidades referidas neste artigo.
 
-###### Art. 7.º Os governadores das províncias ultramarinas poderão autorizar, nos termos deste decreto, na parte aplicável, estágios nos respectivos serviços públicos, mediante informação favorável dos serviços de educação e dos serviços para onde os estágios forem requeridos, aos finalistas de cursos médios ministrados em institutos nelas existentes e cujos planos de curso os prevejam obrigatòriamente para a sua conclusão.
+Art. 7.º Os governadores das províncias ultramarinas poderão autorizar, nos termos deste decreto, na parte aplicável, estágios nos respectivos serviços públicos, mediante informação favorável dos serviços de educação e dos serviços para onde os estágios forem requeridos, aos finalistas de cursos médios ministrados em institutos nelas existentes e cujos planos de curso os prevejam obrigatòriamente para a sua conclusão.
 
 § 1.º A informação a que se refere o artigo 4.º será prestada aos serviços de educação pelos serviços públicos interessados nos estágios provinciais.
 
@@ -153,15 +173,15 @@ Os exemplares entregues destinam-se às entidades referidas neste artigo.
 
 § 3.º Os mesmos estagiários ficam obrigados a entregar no prazo de três meses, aos serviços de educação, relatório, em duplicado, do estágio efectuado, destinando-se um dos exemplares ao serviço onde tiver sido realizado.
 
-###### Art. 8.º Os governadores das províncias ultramarinas poderão, relativamente aos estágios a que se refere o artigo 7.º, fixar em despacho quaisquer normas que julguem necessárias à execução deste decreto.
+Art. 8.º Os governadores das províncias ultramarinas poderão, relativamente aos estágios a que se refere o artigo 7.º, fixar em despacho quaisquer normas que julguem necessárias à execução deste decreto.
 
-###### Art. 9.º O disposto no [Decreto n.º 44316](https://diariodarepublica.pt/dr/detalhe/decreto/44316-1962-516184), de 28 de Abril de 1962, é aplicável aos estágios efectuados nos termos deste decreto.
+Art. 9.º O disposto no [Decreto n.º 44316](https://diariodarepublica.pt/dr/detalhe/decreto/44316-1962-516184), de 28 de Abril de 1962, é aplicável aos estágios efectuados nos termos deste decreto.
 
-###### Art. 10.º Nas províncias interessadas nos estágios ficam os governadores autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 10.º Nas províncias interessadas nos estágios ficam os governadores autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos criados por este decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
-###### Art. 11.º Ficam revogados o [Decreto n.º 44314](https://diariodarepublica.pt/dr/detalhe/decreto/44314-1962-516182), de 28 de Abril de 1962, o artigo 43.º do Decreto 46068, de 7 de Dezembro de 1964, o Diploma Legislativo de Angola n.º 3573, de 14 de Agosto de 1965, e o Diploma Legislativo Ministerial n.º 8 (Moçambique), de 15 de Dezembro de 1965.
+Art. 11.º Ficam revogados o [Decreto n.º 44314](https://diariodarepublica.pt/dr/detalhe/decreto/44314-1962-516182), de 28 de Abril de 1962, o artigo 43.º do Decreto 46068, de 7 de Dezembro de 1964, o Diploma Legislativo de Angola n.º 3573, de 14 de Agosto de 1965, e o Diploma Legislativo Ministerial n.º 8 (Moçambique), de 15 de Dezembro de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

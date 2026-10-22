@@ -47,40 +47,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47776-1967-314057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e29bceab3c42bfd560b73e85ea7327f8e00b082cb51dc777b308f1a9348a4204
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b393955eec808a99ceef179710694e75dcf42e914903d2fb74d76999e8556b8f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Alimento para Animais
+- Qualidade do Produto
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:326284:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:261929:por
+  label: "Mantido em vigor, excepto quanto aos arts. 1º a 6º, o Regulamento anexo ao presente diploma, pelo DEC LEI.75/74.28.02.1974.MECO,\
+    \ DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
+- type: amended_by
+  target: pt:dre:329202:por
+  label: "Alterados os artigos 7.º, 8.º, 9.º e 10.º do Regulamento de Preparação e Comércio de Alimentos para Animais, aprovado\
+    \ no presente diploma, e extinta a Comissão Técnica Permanente de Nutrição Animal, criada no artigo 7.º do citado Regulamento,\
+    \ pelo DEC.104/78.28.09.1978.MAP, DR.IS [224] de 28.09.1978\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/104-1978-329202
+  date: '1978-09-28'
+- type: amended_by
+  target: pt:dre:473275:por
+  label: "Alterados os artigos 8.º e 10.º do Regulamento do de Preparação e Comércio de Alimentos para Animais, aprovado pelo\
+    \ presente diploma, alterados no artigo 3.º do Decreto n.º 104/78, de 28 de Setembro, pelo DEC.41/80.03.07.1980.MAP, DR.IS\
+    \ [151] de 03.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/41-1980-473275
+  date: '1980-07-03'
+- type: cites
+  target: pt:dre:314055:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486318:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:505047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:614081:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:326284:por
+  label: "Revogado o artigo 3.º do Regulamento de Preparação e Comércio de Alimentos para Animais, pelo DEC LEI.57/85.06.03.1985.MJ,\
+    \ DR.IS [54] de 06.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/57-1985-326284
+  date: '1985-03-06'
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:21Z'
   warnings: []
   errors: []
 ---
@@ -103,9 +148,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São aprovados o Regulamento do Exercício da Indústria de Alimentos Compostos para Animais e o Regulamento de Preparação e Comércio de Alimentos para Animais, que fazem parte do presente decreto e vão assinados, respectivamente, pelo Secretário de Estado da Indústria e pelos Secretários de Estado da Agricultura, do Comércio e da Indústria.
+Artigo único. São aprovados o Regulamento do Exercício da Indústria de Alimentos Compostos para Animais e o Regulamento de Preparação e Comércio de Alimentos para Animais, que fazem parte do presente decreto e vão assinados, respectivamente, pelo Secretário de Estado da Indústria e pelos Secretários de Estado da Agricultura, do Comércio e da Indústria.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Domingos Rosado Vitória Pires - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.
 
@@ -113,7 +158,7 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE ALIMENTOS COMPOSTOS PARA ANIMAIS
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A instalação de novos estabelecimentos para o exercício da indústria de alimentos para animais, a modificação e a transferência de local dos existentes e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos ficam dependentes, nos termos do presente diploma, de autorização prévia.
+Artigo 1.º A instalação de novos estabelecimentos para o exercício da indústria de alimentos para animais, a modificação e a transferência de local dos existentes e a reabertura dos que tiverem suspendido a laboração por período superior a dois anos ficam dependentes, nos termos do presente diploma, de autorização prévia.
 
 § 1.º Quando os pareceres referidos no § 1.º do artigo 11.º do regulamento forem favoráveis ao deferimento do pedido, considera-se o mesmo autorizado se merecer igualmente a concordância do director-geral dos Serviços Industriais. Não sendo unânimes os pareceres acima referidos, a respectiva autorização só poderá ser concedida por despacho do Secretário de Estado da Indústria.
 
@@ -121,31 +166,31 @@ REGULAMENTO DO EXERCÍCIO DA INDÚSTRIA DE ALIMENTOS COMPOSTOS PARA ANIMAIS
 
 § 3.º No caso de suspensão de laboração, os industriais devem comunicá-la antecipadamente à respectiva circunscrição industrial.
 
-###### Art. 2.º As autorizações referidas no artigo anterior só podem ser concedidas desde que se demonstre que as respectivas instalações obedecem às prescrições do presente regulamento.
+Art. 2.º As autorizações referidas no artigo anterior só podem ser concedidas desde que se demonstre que as respectivas instalações obedecem às prescrições do presente regulamento.
 
-###### Art. 3.º Os estabelecimentos referidos no artigo 1.º deste diploma classificam-se de 1.ª classe para os efeitos do disposto no Regulamento de Instalação e Laboração dos Estabelecimentos Industriais, promulgado pelo [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966.
+Art. 3.º Os estabelecimentos referidos no artigo 1.º deste diploma classificam-se de 1.ª classe para os efeitos do disposto no Regulamento de Instalação e Laboração dos Estabelecimentos Industriais, promulgado pelo [Decreto n.º 46924](https://diariodarepublica.pt/dr/detalhe/decreto/46924-1966-486318), de 28 de Março de 1966.
 
-###### Art. 4.º Os pedidos instruídos por modo a demonstrarem que as futuras instalações se encontram de acordo com as prescrições do presente Regulamento serão anunciados no Boletim Semanal da Direcção-Geral dos Serviços Industriais e consideram-se deferidos se não tiverem despacho nos 90 dias seguintes aos da apresentação e tiverem sido favoráveis os pareceres a que se refere o § 1.º do artigo 11.º
+Art. 4.º Os pedidos instruídos por modo a demonstrarem que as futuras instalações se encontram de acordo com as prescrições do presente Regulamento serão anunciados no Boletim Semanal da Direcção-Geral dos Serviços Industriais e consideram-se deferidos se não tiverem despacho nos 90 dias seguintes aos da apresentação e tiverem sido favoráveis os pareceres a que se refere o § 1.º do artigo 11.º
 
-###### Art. 5.º Dos despachos proferidos, que serão publicados no Boletim Semanal da Direcção-Geral dos Serviços Industriais, cabe recurso hierárquico e contencioso nos termos gerais de direito.
+Art. 5.º Dos despachos proferidos, que serão publicados no Boletim Semanal da Direcção-Geral dos Serviços Industriais, cabe recurso hierárquico e contencioso nos termos gerais de direito.
 
-###### Art. 6.º O prazo para a execução dos actos licenciados nos termos do artigo 1.º deste Regulamento é de dois anos, contados da data da autorização, e só poderá ser prorrogado uma vez e por período não superior a um ano, se o acto licenciado estiver em execução.
+Art. 6.º O prazo para a execução dos actos licenciados nos termos do artigo 1.º deste Regulamento é de dois anos, contados da data da autorização, e só poderá ser prorrogado uma vez e por período não superior a um ano, se o acto licenciado estiver em execução.
 
-###### Art. 7.º Os estabelecimentos que se dediquem à exploração da indústria de alimentos compostos para animais, actualmente licenciados ou com processos em curso, cujas instalações e equipamentos não obedeçam às prescrições do presente Regulamento terão de ser alterados ou transferidos no prazo de três anos por forma a satisfazerem às mesmas prescrições. Caso contrário, caducará a respectiva licença e será impedido o seu funcionamento.
+Art. 7.º Os estabelecimentos que se dediquem à exploração da indústria de alimentos compostos para animais, actualmente licenciados ou com processos em curso, cujas instalações e equipamentos não obedeçam às prescrições do presente Regulamento terão de ser alterados ou transferidos no prazo de três anos por forma a satisfazerem às mesmas prescrições. Caso contrário, caducará a respectiva licença e será impedido o seu funcionamento.
 
-###### Art. 8.º Esta indústria deverá ser considerada, para os efeitos previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), como indústria em reorganização, geral ou parcial, por um período de três anos.
+Art. 8.º Esta indústria deverá ser considerada, para os efeitos previstos na base XVI da [Lei n.º 2005](https://diariodarepublica.pt/dr/detalhe/lei/2005-1945-614081), como indústria em reorganização, geral ou parcial, por um período de três anos.
 
-###### Art. 9.º Compete à Direcção-Geral dos Serviços Industriais a fiscalização do preceituado neste diploma.
+Art. 9.º Compete à Direcção-Geral dos Serviços Industriais a fiscalização do preceituado neste diploma.
 
-###### Art. 10.º A Direcção-Geral referida no artigo anterior poderá suspender a laboração de qualquer estabelecimento que não esteja a observar as prescrições deste Regulamento.
+Art. 10.º A Direcção-Geral referida no artigo anterior poderá suspender a laboração de qualquer estabelecimento que não esteja a observar as prescrições deste Regulamento.
 
 ### CAPÍTULO II — Dos estabelecimentos produtores de alimentos compostos para animais
 
-###### Art. 11.º A localização das fábricas e de estabelecimentos de preparação de alimentos compostos para animais deve oferecer interesse de ordem económica e condições de salubridade que não ponham em risco a saúde dos animais a que os alimentos se destinam.
+Art. 11.º A localização das fábricas e de estabelecimentos de preparação de alimentos compostos para animais deve oferecer interesse de ordem económica e condições de salubridade que não ponham em risco a saúde dos animais a que os alimentos se destinam.
 
 § único. Na localização a que se refere este artigo deverá ser ouvida a Direcção-Geral dos Serviços Pecuários e a Corporação da Indústria. Os pareceres destes serviços deverão ser emitidos no prazo de 30 dias.
 
-###### Art. 12.º Os estabelecimentos de alimentos compostos para animais deverão dispor, pelo menos, do seguinte:
+Art. 12.º Os estabelecimentos de alimentos compostos para animais deverão dispor, pelo menos, do seguinte:
 
 a) Silos ou armazéns para matérias-primas;
 
@@ -161,7 +206,7 @@ f) Armazéns para produtos acabados;
 
 g) Laboratório.
 
-###### Art. 13.º Os silos e armazéns, a que se refere a alínea a) do artigo anterior, devem obedecer às seguintes condições:
+Art. 13.º Os silos e armazéns, a que se refere a alínea a) do artigo anterior, devem obedecer às seguintes condições:
 
 a) Os armazéns deverão ser revestidos de um material incombustível de baixa condutividade térmica e possuir as condições indispensáveis a uma boa conservação dos produtos;
 
@@ -171,7 +216,7 @@ c) Poderem globalmente arrecadar as matérias-primas indispensáveis a uma produ
 
 d) No caso de não dispor de silos, é obrigatória a existência de uma câmara de expurgo.
 
-###### Art. 14.º As instalações de moenda deverão possuir aparelhagem que permita eficaz absorção de poeiras e obedecer ainda aos seguintes preceitos:
+Art. 14.º As instalações de moenda deverão possuir aparelhagem que permita eficaz absorção de poeiras e obedecer ainda aos seguintes preceitos:
 
 a) Possuir uma capacidade não inferior a 3 t/h;
 
@@ -179,25 +224,25 @@ b) Efectuar a operação em condições de assegurar a uniformidade adequada aos
 
 c) Possuir elementos que garantam a separação das partículas metálicas.
 
-###### Art. 15.º A secção de doseamento deverá dispor de uma bateria de células ou depósitos de número não inferior a dezasseis, com capacidade adequada à laboração da fábrica, e de aparelhagem mecânica que garantam suficiente precisão quantitativa dos componentes em movimento durante a operação de fabrico.
+Art. 15.º A secção de doseamento deverá dispor de uma bateria de células ou depósitos de número não inferior a dezasseis, com capacidade adequada à laboração da fábrica, e de aparelhagem mecânica que garantam suficiente precisão quantitativa dos componentes em movimento durante a operação de fabrico.
 
-###### Art. 16.º A secção de mistura terá obrigatòriamente de dispor de aparelhagem mecânica, com capacidade não inferior a 5000 kg/h, que garanta a homogeneidade dos produtos fabricados.
+Art. 16.º A secção de mistura terá obrigatòriamente de dispor de aparelhagem mecânica, com capacidade não inferior a 5000 kg/h, que garanta a homogeneidade dos produtos fabricados.
 
-###### Art. 17.º A peneiração de segurança deve estar enquadrada no diagrama de fabrico de maneira a servir todos os produtos em movimento.
+Art. 17.º A peneiração de segurança deve estar enquadrada no diagrama de fabrico de maneira a servir todos os produtos em movimento.
 
-###### Art. 18.º Os armazéns para os produtos acabados devem ser arejados, permitir uma arrumação dos produtos separadamente e ser revestidos de material incombustível de baixa condutividade térmica.
+Art. 18.º Os armazéns para os produtos acabados devem ser arejados, permitir uma arrumação dos produtos separadamente e ser revestidos de material incombustível de baixa condutividade térmica.
 
-###### Art. 19.º A aparelhagem necessária para a instalação do laboratório referido na alínea g) do artigo 12.º será provisòriamente estabelecida, por lista a publicar, pela Inspecção-Geral dos Produtos Agrícolas e Industriais, enquanto não se publicarem as respectivas normas.
+Art. 19.º A aparelhagem necessária para a instalação do laboratório referido na alínea g) do artigo 12.º será provisòriamente estabelecida, por lista a publicar, pela Inspecção-Geral dos Produtos Agrícolas e Industriais, enquanto não se publicarem as respectivas normas.
 
 § único. A lista referida no corpo deste artigo será aprovada por despacho do Secretário de Estado da Indústria.
 
-###### Art. 20.º Todas as fábricas disporão de aparelhagem mecânica de limpeza adequada à realização eficiente desta operação em todas as matérias-primas.
+Art. 20.º Todas as fábricas disporão de aparelhagem mecânica de limpeza adequada à realização eficiente desta operação em todas as matérias-primas.
 
-###### Art. 21.º Todos os estabelecimentos que se destinem ao exercício da indústria de alimentos compostos para animais deverão dispor de dispositivos para a embalagem mecânica dos produtos acabados.
+Art. 21.º Todos os estabelecimentos que se destinem ao exercício da indústria de alimentos compostos para animais deverão dispor de dispositivos para a embalagem mecânica dos produtos acabados.
 
-###### Art. 22.º Nos estabelecimentos produtores de alimentos melaçados ou adicionados de gordura é obrigatória a existência de dispositivos mecânicos que garantam o rigor da incorporação e a homogeneidade do produto final.
+Art. 22.º Nos estabelecimentos produtores de alimentos melaçados ou adicionados de gordura é obrigatória a existência de dispositivos mecânicos que garantam o rigor da incorporação e a homogeneidade do produto final.
 
-###### Art. 23.º Nas fábricas onde se produzam alimentos prensados ou granulados deve a secção respectiva dispor de aparelhagem de arrefecimento e crivagem que permita a separação das fracções de dimensões inferiores às dos produtos a apresentar.
+Art. 23.º Nas fábricas onde se produzam alimentos prensados ou granulados deve a secção respectiva dispor de aparelhagem de arrefecimento e crivagem que permita a separação das fracções de dimensões inferiores às dos produtos a apresentar.
 
 Secretaria de Estado da Indústria, 5 de Julho de 1967. - O Secretário de Estado da Indústria, Manuel Rafael Amaro da Costa.
 
@@ -205,7 +250,7 @@ REGULAMENTO DE PREPARAÇÃO E COMÉRCIO DE ALIMENTOS PARA ANIMAIS
 
 A) Definições
 
-###### Artigo 1.º Para os efeitos de preparação, armazenagem e comércio, consideram-se alimentos para animais os produtos que tiverem por fim satisfazer parcial ou totalmente as necessidades nutritivas fisiológicas dos animais a que se destinam.
+Artigo 1.º Para os efeitos de preparação, armazenagem e comércio, consideram-se alimentos para animais os produtos que tiverem por fim satisfazer parcial ou totalmente as necessidades nutritivas fisiológicas dos animais a que se destinam.
 
 § único. Estes produtos deverão ser genuínos, ter aspecto e características organolépticas normais e apresentar-se em conveniente estado de conservação e sanidade.
 
@@ -219,11 +264,11 @@ Apresentar sinais de fermentação ou decomposição, nem bolores visíveis micr
 
 Conter quaisquer substâncias cuja utilização, por razões de saúde pública, venha a ser considerada inconveniente.
 
-###### Art. 2.º Os alimentos destinados aos animais incluir-se-ão obrigatòriamente em qualquer dos seguintes grupos: alimentos simples, alimentos compostos e suplementos alimentares.
+Art. 2.º Os alimentos destinados aos animais incluir-se-ão obrigatòriamente em qualquer dos seguintes grupos: alimentos simples, alimentos compostos e suplementos alimentares.
 
-###### Art. 3.º Denomina-se «alimento simples» o constituído por um único género, produto ou subproduto, seja qual for a forma ou o estado como se apresente.
+Art. 3.º Denomina-se «alimento simples» o constituído por um único género, produto ou subproduto, seja qual for a forma ou o estado como se apresente.
 
-###### Art. 4.º Denominam-se «alimentos compostos» os constituídos por mistura de diversos géneros, produtos ou subprodutos e que apresentem eficiência nutritiva, de acordo com o fim a que se destinam e de harmonia com o preceituado neste Regulamento.
+Art. 4.º Denominam-se «alimentos compostos» os constituídos por mistura de diversos géneros, produtos ou subprodutos e que apresentem eficiência nutritiva, de acordo com o fim a que se destinam e de harmonia com o preceituado neste Regulamento.
 
 Os alimentos compostos classificam-se:
 
@@ -233,17 +278,17 @@ Alimentos compostos complementares - os que tiverem por fim completar ou equilib
 
 § único. Os alimentos compostos complementares poderão tomar a designação de «proteicos» desde que satisfaçam às condições e características que venham a ser exigidas.
 
-###### Art. 5.º Denominam-se «suplementos alimentares» as misturas constituídas por substâncias minerais, ou por vitaminas, ou por aditivos vários, no todo ou em parte agrupados em fórmula adequada, e destinados a equilibrar qualitativamente quaisquer alimentos tornando-os mais eficientes.
+Art. 5.º Denominam-se «suplementos alimentares» as misturas constituídas por substâncias minerais, ou por vitaminas, ou por aditivos vários, no todo ou em parte agrupados em fórmula adequada, e destinados a equilibrar qualitativamente quaisquer alimentos tornando-os mais eficientes.
 
 § único. Para efeito do estabelecido no corpo deste artigo consideram-se aditivos as substâncias químicas, pelo geral fármacos, que tem por finalidade obter efeitos especiais em estreita dependência das doses utilizadas e da forma da sua aplicação.
 
-###### Art. 6.º Sempre que os alimentos compostos ou os suplementos alimentares contiverem aditivos, poderão os respectivos fabricantes fazer seguir a classificação do alimento de qualquer expressão indicativa da acção ou acções desses aditivos.
+Art. 6.º Sempre que os alimentos compostos ou os suplementos alimentares contiverem aditivos, poderão os respectivos fabricantes fazer seguir a classificação do alimento de qualquer expressão indicativa da acção ou acções desses aditivos.
 
 B) Comissão Técnica Permanente de Nutrição Animal
 
-###### Art. 7.º É criada a Comissão Técnica Permanente de Nutrição Animal, a qual funcionará junto da Repartição de Fomento Industrial da Direcção-Geral dos Serviços Industriais.
+Art. 7.º É criada a Comissão Técnica Permanente de Nutrição Animal, a qual funcionará junto da Repartição de Fomento Industrial da Direcção-Geral dos Serviços Industriais.
 
-###### Art. 8.º A Comissão Técnica Permanente de Nutrição animal será presidida pelo inspector-geral dos Produtos Agrícolas e Industriais, ou por um seu delegado, e constituída pelos vogais representantes das seguintes entidades:
+Art. 8.º A Comissão Técnica Permanente de Nutrição animal será presidida pelo inspector-geral dos Produtos Agrícolas e Industriais, ou por um seu delegado, e constituída pelos vogais representantes das seguintes entidades:
 
 a) Escola Superior de Medicina Veterinária;
 
@@ -273,9 +318,9 @@ m) Corporação da Indústria.
 
 § único. A Comissão reunirá por convocação do presidente ou a pedido de um terço, pelo menos, dos seus vogais.
 
-###### Art. 9.º Os serviços de secretaria e expediente da Comissão Técnica Permanente de Nutrição Animal serão assegurados pela Repartição de Fomento Industrial da Direcção-Geral dos Serviços Industriais, desempenhando as funções de secretário um funcionário desta Direcção-Geral, por ela designado.
+Art. 9.º Os serviços de secretaria e expediente da Comissão Técnica Permanente de Nutrição Animal serão assegurados pela Repartição de Fomento Industrial da Direcção-Geral dos Serviços Industriais, desempenhando as funções de secretário um funcionário desta Direcção-Geral, por ela designado.
 
-###### Art. 10.º São atribuições da Comissão Técnica Permanente de Nutrição Animal as seguintes:
+Art. 10.º São atribuições da Comissão Técnica Permanente de Nutrição Animal as seguintes:
 
 a) Coordenar a investigação científica no domínio da preparação industrial de alimentos para animais;
 
@@ -291,7 +336,7 @@ f) Dar parecer sobre os assuntos da especialidade que sejam submetidos à sua ap
 
 C) Regras de preparação e comercialização
 
-###### Art. 11.º Os alimentos para animais deverão obedecer às características que vierem a ser fixadas por normas portuguesas publicadas e a publicar, devendo tais características, após o fabrico, não ser prejudicadas pelo armazenamento e comercialização.
+Art. 11.º Os alimentos para animais deverão obedecer às características que vierem a ser fixadas por normas portuguesas publicadas e a publicar, devendo tais características, após o fabrico, não ser prejudicadas pelo armazenamento e comercialização.
 
 § 1.º Cada tipo de alimentos compostos para animais será designado por um número precedido de uma letra, sempre os mesmos em todas as marcas, que corresponda a cada espécie animal e função zootécnica a que o produto se destina.
 
@@ -299,13 +344,13 @@ C) Regras de preparação e comercialização
 
 § 3.º Enquanto não estiverem publicadas as normas a que se refere o corpo deste artigo, as características do produto para alimentos de animais serão transitòriamente as constantes da [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), desta data.
 
-###### Art. 12.º A Comissão Técnica Permanente de Nutrição Animal poderá propor a adopção de regras para a utilização dos alimentos simples quando tal for aconselhável.
+Art. 12.º A Comissão Técnica Permanente de Nutrição Animal poderá propor a adopção de regras para a utilização dos alimentos simples quando tal for aconselhável.
 
-###### Art. 13.º Na preparação dos alimentos compostos para animais é exigida a direcção de um técnico, de formação universitária adequada.
+Art. 13.º Na preparação dos alimentos compostos para animais é exigida a direcção de um técnico, de formação universitária adequada.
 
-###### Art. 14.º A composição dos suplementos alimentares e aditivos a utilizar nos alimentos compostos para animais, quando agrupados em fórmula, carece de prévia aprovação pela Direcção-Geral dos Serviços Pecuários.
+Art. 14.º A composição dos suplementos alimentares e aditivos a utilizar nos alimentos compostos para animais, quando agrupados em fórmula, carece de prévia aprovação pela Direcção-Geral dos Serviços Pecuários.
 
-###### Art. 15.º Os suplementos alimentares e os aditivos destinados à alimentação animal, quando comercializados, deverão, além do disposto no artigo anterior, satisfazer as condições seguintes:
+Art. 15.º Os suplementos alimentares e os aditivos destinados à alimentação animal, quando comercializados, deverão, além do disposto no artigo anterior, satisfazer as condições seguintes:
 
 a) Terem a responsabilidade de um técnico especializado de formação universitária adequada;
 
@@ -323,9 +368,9 @@ Doses aconselhadas para o fim a que se destina;
 
 Mês e ano de fabrico.
 
-###### Art. 16.º Os alimentos compostos que não constem de normas portuguesas nem estejam incluídos na [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), podem ser transitòriamente autorizados quando a Direcção-Geral dos Serviços Pecuários aprovar a sua composição qualitativa e quantitativa.
+Art. 16.º Os alimentos compostos que não constem de normas portuguesas nem estejam incluídos na [Portaria n.º 22767](https://diariodarepublica.pt/dr/detalhe/portaria/22767-1967-314055), podem ser transitòriamente autorizados quando a Direcção-Geral dos Serviços Pecuários aprovar a sua composição qualitativa e quantitativa.
 
-###### Art. 17.º Com o fim de assegurar o fabrico de alimentos compostos para animais nas condições exigidas pelo desenvolvimento pecuário do País, a Junta Nacional dos Produtos Pecuários tomará as providências necessárias e proporá as medidas julgadas convenientes para garantir e regular o abastecimento das matérias-primas indispensáveis, procedendo também à atribuição às fábricas, em regime de preferência e de harmonia com as respectivas necessidades, de todas aquelas que se encontrem ou venham a encontrar em regime de condicionamento.
+Art. 17.º Com o fim de assegurar o fabrico de alimentos compostos para animais nas condições exigidas pelo desenvolvimento pecuário do País, a Junta Nacional dos Produtos Pecuários tomará as providências necessárias e proporá as medidas julgadas convenientes para garantir e regular o abastecimento das matérias-primas indispensáveis, procedendo também à atribuição às fábricas, em regime de preferência e de harmonia com as respectivas necessidades, de todas aquelas que se encontrem ou venham a encontrar em regime de condicionamento.
 
 § único. Para efeito da atribuição de matérias-primas referidas no corpo deste artigo, a Junta Nacional dos Produtos Pecuários tomará em consideração a capacidade de laboração das fábricas integradas na regulamentação do exercício da indústria de alimentos compostos para animais e a qualidade e quantidade dos produtos preparados.
 

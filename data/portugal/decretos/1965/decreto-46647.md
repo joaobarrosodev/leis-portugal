@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46647-1965-512432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6f3d390e0092404d9ec3129566c73a92d955e6b11455e75cbf5fb17961ccace8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 32949ca1b48fab873bc842617c41b18324040a2359b3a1bd0854c19369647541
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:39Z'
   warnings: []
   errors: []
 ---
@@ -93,8 +93,8 @@ Considerando que sobre segundos-assistentes se publicou há algum tempo o Decret
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Quando assim se mostre necessário para assegurar o conveniente funcionamento do serviço, poderá o Ministro da Educação Nacional, ouvido o director da escola, autorizar segundos-assistentes do ensino superior a exercerem o cargo até dois anos além do limite fixado no Decreto n.º 35964, de 20 de Novembro de 1946.
+Artigo único. Quando assim se mostre necessário para assegurar o conveniente funcionamento do serviço, poderá o Ministro da Educação Nacional, ouvido o director da escola, autorizar segundos-assistentes do ensino superior a exercerem o cargo até dois anos além do limite fixado no Decreto n.º 35964, de 20 de Novembro de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

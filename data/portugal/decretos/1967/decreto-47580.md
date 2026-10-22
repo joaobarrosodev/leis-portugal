@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47580-1967-503631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-03-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1c0323919563e3a92780e039c3d1ada652206de6d458b7f9e7a5cff94122d16
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6184f2efa8a2d6fcf4b2aefa31f0bb170ce29324fd9c179bed95def9ce2aeb2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:42Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +100,11 @@ Por motivo de urgência e tendo em vista o disposto no § 1.º do artigo 150.º 
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo da Constituição;
 
-**O Ministro do Ultramar decreta e eu promulgo o seguinte:**
+O Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Fundo de Melhoramentos Locais da província de Angola, instituído pelo Diploma Legislativo Ministerial n.º 3, de 8 de Agosto de 1964, tem por objectivo fomentar a realização de empreendimentos de carácter local e interesse económico e social, tendo em vista a melhoria das condições de vida das populações.
+Artigo 1.º O Fundo de Melhoramentos Locais da província de Angola, instituído pelo Diploma Legislativo Ministerial n.º 3, de 8 de Agosto de 1964, tem por objectivo fomentar a realização de empreendimentos de carácter local e interesse económico e social, tendo em vista a melhoria das condições de vida das populações.
 
-###### Art. 2.º Consideram-se, para efeitos do presente diploma, como melhoramentos locais os empreendimentos da seguinte natureza:
+Art. 2.º Consideram-se, para efeitos do presente diploma, como melhoramentos locais os empreendimentos da seguinte natureza:
 
 a) Habitações populares;
 
@@ -120,9 +124,9 @@ h) Outros empreendimentos não especificados que, pela sua natureza e caracterí
 
 § único. A classificação a que se refere a alínea h) do corpo deste artigo será devidamente fundamentada em portaria do Governo-Geral da província, com prévia audiência do Conselho Económico e Social.
 
-###### Art. 3.º O Fundo de Melhoramentos Locais constitui uma entidade dotada de personalidade jurídica e autonomia administrativa e financeira, e a sua gestão compete a uma comissão administrativa intitulada Comissão Administrativa do Fundo de Melhoramentos Locais de Angola.
+Art. 3.º O Fundo de Melhoramentos Locais constitui uma entidade dotada de personalidade jurídica e autonomia administrativa e financeira, e a sua gestão compete a uma comissão administrativa intitulada Comissão Administrativa do Fundo de Melhoramentos Locais de Angola.
 
-###### Art. 4.º Constituem receitas do Fundo:
+Art. 4.º Constituem receitas do Fundo:
 
 a) O adicional criado pelo artigo 2.º do Diploma Legislativo Ministerial n.º 3, de 8 de Agosto de 1964;
 
@@ -142,7 +146,7 @@ h) Quaisquer outras receitas que lhe venham a ser consignadas.
 
 § único. Qualquer das modalidades de receitas previstas poderá ser consignada, no todo ou em parte, sòmente a uma ou algumas das finalidades englobadas nas especificações do artigo 2.º
 
-###### Art. 5.º O adicional a que se refere o alínea a) do artigo anterior é de 1 por cento sobre o valor de todas as mercadorias importadas na província, cujos direitos de de importação (taxa ou soma de taxa e sobretaxa) sejam superiores a 4 por cento ad valorem ou a $10 por qualquer outra unidade tributável.
+Art. 5.º O adicional a que se refere o alínea a) do artigo anterior é de 1 por cento sobre o valor de todas as mercadorias importadas na província, cujos direitos de de importação (taxa ou soma de taxa e sobretaxa) sejam superiores a 4 por cento ad valorem ou a $10 por qualquer outra unidade tributável.
 
 § 1.º O adicional em referência será liquidado e pago através do respectivo bilhete de despacho das mercadorias que a ele estiverem sujeitas.
 
@@ -150,7 +154,7 @@ h) Quaisquer outras receitas que lhe venham a ser consignadas.
 
 § 3.º Nas localidades onde não existam dependências do banco emissor o depósito será efectuado, nas condições indicadas no parágrafo anterior, nas delegações da Caixa Económica Postal.
 
-###### Art. 6.º Fica o governador-geral autorizado a elevar até 240$00 a taxa de circulação e fiscalização do trânsito a que se refere a tabela anexa ao Diploma Legislativo n.º 2783, de 18 de Outubro de 1965, da qual a importância de 40$00 continuará a constituir receita da Junta Autónoma de Estradas de Angola, sendo o remanescente consignado ao Fundo de Melhoramentos Locais.
+Art. 6.º Fica o governador-geral autorizado a elevar até 240$00 a taxa de circulação e fiscalização do trânsito a que se refere a tabela anexa ao Diploma Legislativo n.º 2783, de 18 de Outubro de 1965, da qual a importância de 40$00 continuará a constituir receita da Junta Autónoma de Estradas de Angola, sendo o remanescente consignado ao Fundo de Melhoramentos Locais.
 
 § 1.º Ficam sujeitos ao pagamento da taxa referida no corpo do artigo todos os veículos automóveis que se encontrem ou venham a entrar em circulação na província durante o ano a que a mesma diz respeito, exceptuando-se:
 
@@ -170,9 +174,9 @@ b) Os velocípedes de um motor auxiliar, nos termos do n.º 3 do artigo 38.º do
 
 § 4.º A receita resultante da parte da taxa que se destinar ao Fundo de Melhoramentos Locais de Angola será exclusivamente consignada aos empreendimentos a que se refere o artigo 2.º, alíneas d) e e), do presente diploma, aquela apenas na parte respeitante à rede viária.
 
-###### Art. 7.º Todas as receitas do Fundo serão depositadas no Banco de Angola, à ordem da Comissão Administrativa do Fundo, em conta própria.
+Art. 7.º Todas as receitas do Fundo serão depositadas no Banco de Angola, à ordem da Comissão Administrativa do Fundo, em conta própria.
 
-###### Art. 8.º A Comissão Administrativa do Fundo de Melhoramento Locais de Angola terá como membros efectivos os directores ou presidentes dos seguintes serviços ou organismos, ou seus delegados permanentes designados para o efeito:
+Art. 8.º A Comissão Administrativa do Fundo de Melhoramento Locais de Angola terá como membros efectivos os directores ou presidentes dos seguintes serviços ou organismos, ou seus delegados permanentes designados para o efeito:
 
 Direcção dos Serviços de Obras Públicas e Transportes;
 
@@ -200,21 +204,21 @@ Direcção dos Serviços de Fazenda e Contabilidade.
 
 § 5.º Servirá de secretário sem voto da Comissão Administrativa um funcionário da secretaria do Governo-Geral nomeado para o efeito, o qual terá a seu cargo o expediente e contabilidade do Fundo.
 
-###### Art. 9.º A conta de depósitos a que se refere o artigo 7.º deste diploma só poderá ser movimentada por meio de cheques assinados pelo presidente da Comissão Administrativa e pelo representante da Direcção dos Serviços de Fazenda e Contabilidade.
+Art. 9.º A conta de depósitos a que se refere o artigo 7.º deste diploma só poderá ser movimentada por meio de cheques assinados pelo presidente da Comissão Administrativa e pelo representante da Direcção dos Serviços de Fazenda e Contabilidade.
 
 § único. No caso de caber ao representante da Direcção dos Serviços de Fazenda e Contabilidade a presidência da Comissão, será designado por despacho do governador-geral o outro membro, a quem competirá a função indicada no corpo deste artigo.
 
-###### Art. 10.º Ao presidente da Comissão Administrativa, aos respectivos membros em exercício e ao secretário serão abonadas gratificações mensais, de montante a fixar pelo Governo-Geral da província.
+Art. 10.º Ao presidente da Comissão Administrativa, aos respectivos membros em exercício e ao secretário serão abonadas gratificações mensais, de montante a fixar pelo Governo-Geral da província.
 
 § único. As gratificações referidas no corpo do artigo são acumuláveis com os subsídios diários eventualmente recebidos pelos membros da Comissão, ao abrigo do disposto no artigo 9.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962.
 
-###### Art. 11.º Sempre que seja considerado necessário para o andamento normal do serviço da Comissão, poderá a mesma assalariar pessoal ou distribuir trabalho em regime de tarefa ou de horas extraordinárias.
+Art. 11.º Sempre que seja considerado necessário para o andamento normal do serviço da Comissão, poderá a mesma assalariar pessoal ou distribuir trabalho em regime de tarefa ou de horas extraordinárias.
 
-###### Art. 12.º A totalidade das despesas anuais de administração do Fundo, sejam de que natureza forem, não poderá exceder 1 por cento do montante global anual das receitas do mesmo.
+Art. 12.º A totalidade das despesas anuais de administração do Fundo, sejam de que natureza forem, não poderá exceder 1 por cento do montante global anual das receitas do mesmo.
 
-###### Art. 13.º A comissão administrativa prestará contas anualmente ao Tribunal Administrativo, nos termos legais.
+Art. 13.º A comissão administrativa prestará contas anualmente ao Tribunal Administrativo, nos termos legais.
 
-###### Art. 14.º A utilização das disponibilidades do Fundo será feita através de comparticipações a conceder, nas condições deste diploma, a:
+Art. 14.º A utilização das disponibilidades do Fundo será feita através de comparticipações a conceder, nas condições deste diploma, a:
 
 a) Governos de distrito;
 
@@ -234,7 +238,7 @@ e) Associações de caridade, assistência e acção social.
 
 § 4.º Nas obras a executar por administração directa poderá ser feito um adiantamento inicial não superior a 10 por cento do valor da comparticipação.
 
-###### Art. 15.º Os limites máximos das comparticipações em relação ao custo total dos empreendimentos comparticipados serão os seguintes:
+Art. 15.º Os limites máximos das comparticipações em relação ao custo total dos empreendimentos comparticipados serão os seguintes:
 
 ... Percentagem
 
@@ -272,29 +276,29 @@ f) Outros tipos de empreendimentos ... 50
 
 § 2.º A percentagem de comparticipação será estabelecida pela Comissão Administrativa, caso por caso, respeitados os limites fixados no corpo deste artigo, tendo em atenção a natureza e o alcance da obra, a sua rentabilidade financeira, as disponibilidades do Fundo e os recursos da entidade beneficiária.
 
-###### Art. 16.º Os pedidos de comparticipação deverão ser apresentados à Comissão Administrativa do Fundo até ao fim do mês de Outubro do ano anterior a que se referirem.
+Art. 16.º Os pedidos de comparticipação deverão ser apresentados à Comissão Administrativa do Fundo até ao fim do mês de Outubro do ano anterior a que se referirem.
 
 § 1.º Só excepcionalmente e desde que o Fundo disponha de excedentes orçamentais poderão eventualmente ser considerados pedidos de comparticipação fora daquele prazo.
 
 § 2.º Os pedidos deverão ser sempre devidamente justificados e documentados, sancionados pela entidade competente e conter, entre outras indicações para apreciação, o custo provável dos empreendimentos, o prazo em que poderão ser realizados e as disponibilidades da entidade peticionária para os levar a efeito em comparticipação com o Fundo.
 
-###### Art. 17.º Com base nos pedidos constantes do corpo do artigo anterior e depois da sua apreciação, será organizado pela Comissão o programa de aplicação das dotações do Fundo no ano seguinte, de forma a poder ser aprovado pelo governador-geral até ao fim do mês de Dezembro, devendo as decisões recaídas sobre aqueles pedidos ser seguidamente comunicadas às entidades solicitantes.
+Art. 17.º Com base nos pedidos constantes do corpo do artigo anterior e depois da sua apreciação, será organizado pela Comissão o programa de aplicação das dotações do Fundo no ano seguinte, de forma a poder ser aprovado pelo governador-geral até ao fim do mês de Dezembro, devendo as decisões recaídas sobre aqueles pedidos ser seguidamente comunicadas às entidades solicitantes.
 
 § único. Os pedidos nas condições do § 1.º do artigo anterior só poderão ser incluídos em programa suplementar, na altura julgada conveniente e com a aprovação do Governo-Geral.
 
-###### Art. 18.º As comparticipações do Fundo só se tornarão efectivas depois de aprovada pelo Governo-Geral a respectiva proposta, projecto ou plano de aquisição, conforme se trate, respectivamente, de estudos ou projectos a elaborar, de projectos para a execução de obras ou de aquisição de equipamentos.
+Art. 18.º As comparticipações do Fundo só se tornarão efectivas depois de aprovada pelo Governo-Geral a respectiva proposta, projecto ou plano de aquisição, conforme se trate, respectivamente, de estudos ou projectos a elaborar, de projectos para a execução de obras ou de aquisição de equipamentos.
 
 § 1.º A aprovação referida no corpo deste artigo será feita através dos serviços técnicos competentes.
 
 § 2.º As propostas, projectos ou planos de aquisição em referência, para que a comparticipação se torne efectiva, deverão dar entrada na Comissão até 31 de Março, considerando-se como desistência da comparticipação a falta de apresentação naquele prazo, ficando liberta a dotação atribuída.
 
-###### Art. 19.º A fiscalização da execução das obras e da aplicação das comparticipações concedidas será feita por intermédio dos serviços competentes, a designar pela Comissão Administrativa.
+Art. 19.º A fiscalização da execução das obras e da aplicação das comparticipações concedidas será feita por intermédio dos serviços competentes, a designar pela Comissão Administrativa.
 
 § único. As requisições de fundos serão sempre acompanhadas de informação justificativa do serviço designado para a fiscalização.
 
-###### Art. 20.º As comparticipações a conceder poderão ser escalonadas por vários anos, em face da natureza e volume das obras, devendo nesse caso incluir-se as respectivas dotações nos orçamentos do Fundo correspondentes ao período por que os trabalhos se devem prolongar.
+Art. 20.º As comparticipações a conceder poderão ser escalonadas por vários anos, em face da natureza e volume das obras, devendo nesse caso incluir-se as respectivas dotações nos orçamentos do Fundo correspondentes ao período por que os trabalhos se devem prolongar.
 
-###### Art. 21.º As comparticipações não vencem juro e, com excepção das concedidas aos governos de distrito, serão reembolsáveis em condições a estabelecer em contrato a celebrar entre a Comissão Administrativa do Fundo e a entidade beneficiária.
+Art. 21.º As comparticipações não vencem juro e, com excepção das concedidas aos governos de distrito, serão reembolsáveis em condições a estabelecer em contrato a celebrar entre a Comissão Administrativa do Fundo e a entidade beneficiária.
 
 § 1.º Os reembolsos mínimos serão os seguintes, expressos em percentagens do valor da comparticipação:
 
@@ -312,7 +316,7 @@ b) Restantes empreendimentos ... 75
 
 § 5.º Constituirão garantia dos reembolsos a consignação das receitas provenientes dos empreendimentos comparticipados, das próprias obras e equipamentos comparticipados e os subsídios eventualmente inscritos no orçamento geral da província ou dos governos de distrito com destino aos beneficiários das comparticipações.
 
-###### Art. 22.º Os reembolsos das comparticipações terão início no ano económico imediato ao ano que se seguir à conclusão da obra ou aquisição de equipamentos, prolongando-se pelos seguintes prazos máximos:
+Art. 22.º Os reembolsos das comparticipações terão início no ano económico imediato ao ano que se seguir à conclusão da obra ou aquisição de equipamentos, prolongando-se pelos seguintes prazos máximos:
 
 a) Aquisição de equipamentos - 10 anos;
 
@@ -322,7 +326,7 @@ c) Restantes empreendimentos - 20 anos.
 
 § único. Os reembolsos deverão ser depositados, à ordem da Comissão Administrativa do Fundo, até ao dia 30 de Junho do ano a que respeitarem.
 
-###### Art. 23.º O orçamento anual do Fundo será elaborado pela Comissão Administrativa e, depois de superiormente aprovado, publicado, no mês de Janeiro, no Boletim Oficial.
+Art. 23.º O orçamento anual do Fundo será elaborado pela Comissão Administrativa e, depois de superiormente aprovado, publicado, no mês de Janeiro, no Boletim Oficial.
 
 § 1.º Para atender a eventuais quebras de receita ou imprevistos, ficará por distribuir a importância de 10 por cento da totalidade das receitas previstas no orçamento ordinário do Fundo, que, no próprio ano, só poderá ser utilizada em casos devidamente justificados, mediante orçamento suplementar, desde que o comportamento das receitas o permita.
 
@@ -330,23 +334,23 @@ c) Restantes empreendimentos - 20 anos.
 
 § 3.º Os saldos anuais das comparticipações concedidas mas não utilizadas no próprio ano transitarão na íntegra para o ano seguinte, consignados aos mesmos empreendimentos.
 
-###### Art. 24.º Poderão ser anuladas as comparticipações concedidas, desde que o início do empreendimento se não tenha verificado no prazo de seis meses, a contar da data do contrato referido no artigo 21.º, e não tenham ocorrido motivos justificativos do seu adiamento.
+Art. 24.º Poderão ser anuladas as comparticipações concedidas, desde que o início do empreendimento se não tenha verificado no prazo de seis meses, a contar da data do contrato referido no artigo 21.º, e não tenham ocorrido motivos justificativos do seu adiamento.
 
 § único. As entidades beneficiárias, em caso de anulação, farão entrega, em prazo a estipular pela Comissão Administrativa, das verbas de adiantamento que tenham recebido.
 
-###### Art. 25.º No caso de suspensão ou demora injustificada, e por tempo indeterminado, no andamento dos trabalhos, e excedidos os prazos contratuais, a comparticipação será anulada total ou parcialmente, devendo a entidade beneficiária repor as importâncias devidas.
+Art. 25.º No caso de suspensão ou demora injustificada, e por tempo indeterminado, no andamento dos trabalhos, e excedidos os prazos contratuais, a comparticipação será anulada total ou parcialmente, devendo a entidade beneficiária repor as importâncias devidas.
 
-###### Art. 26.º Não estão sujeitas a tutela as deliberações dos corpos administrativos que versem sobre a efectivação das comparticipações.
+Art. 26.º Não estão sujeitas a tutela as deliberações dos corpos administrativos que versem sobre a efectivação das comparticipações.
 
-###### Art. 27.º As comparticipações às autarquias poderão ser concedidas independentemente do limite estabelecido no artigo 628.º da Reforma Administrativa Ultramarina.
+Art. 27.º As comparticipações às autarquias poderão ser concedidas independentemente do limite estabelecido no artigo 628.º da Reforma Administrativa Ultramarina.
 
-###### Art. 28.º A matéria do presente decreto cuja aplicação se verifique carecer de regulamentação será objecto de diploma, nesse sentido, do Governo-Geral.
+Art. 28.º A matéria do presente decreto cuja aplicação se verifique carecer de regulamentação será objecto de diploma, nesse sentido, do Governo-Geral.
 
 § único. As dúvidas surgidas na aplicação do presente decreto serão esclarecidas por despacho do governador-geral.
 
-###### Art. 29.º Ficam revogados os §§ 1.º, 2.º e 3.º do artigo 2.º e os artigos 3.º e seguintes do Diploma Legislativo Ministerial n.º 3, de 8 de Agosto de 1964; o Diploma Legislativo Ministerial n.º 4, de 17 de Novembro de 1965, e o Diploma Legislativo n.º 3636, de 9 de Abril de 1966, do Governo-Geral de Angola.
+Art. 29.º Ficam revogados os §§ 1.º, 2.º e 3.º do artigo 2.º e os artigos 3.º e seguintes do Diploma Legislativo Ministerial n.º 3, de 8 de Agosto de 1964; o Diploma Legislativo Ministerial n.º 4, de 17 de Novembro de 1965, e o Diploma Legislativo n.º 3636, de 9 de Abril de 1966, do Governo-Geral de Angola.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Março de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

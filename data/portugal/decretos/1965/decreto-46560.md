@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46560-1965-510473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 30a6a1bb0276859fab6082f48be6f99387e396d305538c408864762f7e21e2a7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 96322a84c0250a349c2fe69de79e21400f392ce2f496725e87ad28383f647e69
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:316294:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636687:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:51Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +101,13 @@ Por motivo de urgência, ao abrigo do preceituado no § 1.º do artigo 150.º da
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O pagamento do imposto especial de 1 por cento criado pelo [Decreto n.º 32114](https://diariodarepublica.pt/dr/detalhe/decreto/32114-1942-316294), de 1 de Julho de 1942, será comprovado por meio de estampilha especial, com as dimensões de 1 cm por 4 cm, impressa em cor amarela, a qual, além do escudo nacional e da legenda «Especialidades farmacêuticas», conterá a indicação da província.
+Artigo 1.º O pagamento do imposto especial de 1 por cento criado pelo [Decreto n.º 32114](https://diariodarepublica.pt/dr/detalhe/decreto/32114-1942-316294), de 1 de Julho de 1942, será comprovado por meio de estampilha especial, com as dimensões de 1 cm por 4 cm, impressa em cor amarela, a qual, além do escudo nacional e da legenda «Especialidades farmacêuticas», conterá a indicação da província.
 
 § único. Relativamente a cada bilhete de despacho de importação, e para cálculo do imposto a cobrar, o preço de venda total será arredondado, por excesso, para escudos.
 
-###### Art. 2.º Estas estampilhas serão fornecidas pelas recebedorias de Fazenda contra o pagamento, por meio de guia, da importância do imposto devido por cada importação.
+Art. 2.º Estas estampilhas serão fornecidas pelas recebedorias de Fazenda contra o pagamento, por meio de guia, da importância do imposto devido por cada importação.
 
-###### Art. 3.º Para efeito do disposto no artigo anterior, os interessados preencherão a requisição de modelo anexo a este decreto, da qual constarão os nomes das especialidades farmacêuticas importadas, o número das respectivas unidades de venda, os valores parciais e totais para venda ao público e, bem assim, o nome e morada do importador e o número e data do respectivo bilhete de despacho.
+Art. 3.º Para efeito do disposto no artigo anterior, os interessados preencherão a requisição de modelo anexo a este decreto, da qual constarão os nomes das especialidades farmacêuticas importadas, o número das respectivas unidades de venda, os valores parciais e totais para venda ao público e, bem assim, o nome e morada do importador e o número e data do respectivo bilhete de despacho.
 
 § 1.º Esta requisição será preenchida em triplicado e assinada pelo importador, conferida pelos serviços provinciais de saúde e assistência, autenticada pelo verificador e visada pelo reverificador do despacho.
 
@@ -111,30 +119,30 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º O imposto será pago antes de os produtos saírem da estância aduaneira em que forem submetidos a despacho de importação.
 
-###### Art. 4.º Para efeitos da aplicação do presente diploma, são considerados como especialidades farmacêuticas os produtos referidos nos n.os 1.º, 2.º e 3.º do artigo 7.º do [Decreto n.º 32114](https://diariodarepublica.pt/dr/detalhe/decreto/32114-1942-316294), de 1 de Julho de 1942.
+Art. 4.º Para efeitos da aplicação do presente diploma, são considerados como especialidades farmacêuticas os produtos referidos nos n.os 1.º, 2.º e 3.º do artigo 7.º do [Decreto n.º 32114](https://diariodarepublica.pt/dr/detalhe/decreto/32114-1942-316294), de 1 de Julho de 1942.
 
-###### Art. 5.º São isentas do pagamento do imposto referido no artigo 1.º deste decreto e dispensadas da respectiva selagem as amostras para propaganda, desde que cada embalagem tenha inscritos no invólucro exterior, em caracteres bem visíveis, impressos ou carimbados a óleo, os dizeres «amostra gratuita».
+Art. 5.º São isentas do pagamento do imposto referido no artigo 1.º deste decreto e dispensadas da respectiva selagem as amostras para propaganda, desde que cada embalagem tenha inscritos no invólucro exterior, em caracteres bem visíveis, impressos ou carimbados a óleo, os dizeres «amostra gratuita».
 
-###### Art. 6.º O preço de venda ao público será marcado na embalagem exterior das unidades de venda ao público, em moeda portuguesa, por forma bem visível e sem quaisquer emendas ou rasuras, salvo no caso de alteração de preço devidamente autorizada, em que é permitido riscar o antigo preço, sem contudo o tornar ilegível.
+Art. 6.º O preço de venda ao público será marcado na embalagem exterior das unidades de venda ao público, em moeda portuguesa, por forma bem visível e sem quaisquer emendas ou rasuras, salvo no caso de alteração de preço devidamente autorizada, em que é permitido riscar o antigo preço, sem contudo o tornar ilegível.
 
 § único. É permitido indicar o preço de venda ao público por meio de etiqueta aposta na embalagem exterior, desde que da mesma conste o nome do importador e o local do seu estabelecimento.
 
-###### Art. 7.º A partir de 1 de Janeiro de 1966, nenhuma especialidade farmacêutica poderá circular, ser exposta à venda ou vendida, sem que nas respectivas embalagens esteja colada a estampilha comprovativa do pagamento do imposto referido no artigo 1.º deste decreto.
+Art. 7.º A partir de 1 de Janeiro de 1966, nenhuma especialidade farmacêutica poderá circular, ser exposta à venda ou vendida, sem que nas respectivas embalagens esteja colada a estampilha comprovativa do pagamento do imposto referido no artigo 1.º deste decreto.
 
-###### Art. 8.º As farmácias, armazenistas ou importadores poderão requerer que as especialidades farmacêuticas que possuam para venda ou revenda sejam estampilhadas mediante o pagamento do imposto que for devido.
+Art. 8.º As farmácias, armazenistas ou importadores poderão requerer que as especialidades farmacêuticas que possuam para venda ou revenda sejam estampilhadas mediante o pagamento do imposto que for devido.
 
-###### Art. 9.º A partir de 1 de Janeiro de 1966, presumem-se descaminhadas ao pagamento do imposto as especialidades farmacêuticas encontradas em circulação ou expostas à venda sem estarem devidamente estampilhadas.
+Art. 9.º A partir de 1 de Janeiro de 1966, presumem-se descaminhadas ao pagamento do imposto as especialidades farmacêuticas encontradas em circulação ou expostas à venda sem estarem devidamente estampilhadas.
 
-###### Art. 10.º As especialidades farmacêuticas preparadas em farmácias ou laboratórios existentes ou que venham a existir em cada província ficam igualmente cativas do imposto referido no artigo 1.º deste decreto, sendo a taxa de 1 por cento calculada e cobrada sobre os respectivos preços de venda ao público.
+Art. 10.º As especialidades farmacêuticas preparadas em farmácias ou laboratórios existentes ou que venham a existir em cada província ficam igualmente cativas do imposto referido no artigo 1.º deste decreto, sendo a taxa de 1 por cento calculada e cobrada sobre os respectivos preços de venda ao público.
 
-###### Art. 11.º Os governadores expedirão em portaria as instruções e regulamentos necessários à completa execução deste decreto.
+Art. 11.º Os governadores expedirão em portaria as instruções e regulamentos necessários à completa execução deste decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
 Para ser publicado no Boletim Oficial de Cabo Verde, Guiné, S. Tomé e Príncipe, Angola e Moçambique. - J. da Silva Cunha.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/09/22200/12721273.pdf))](https://files.diariodarepublica.pt/1s/1965/09/22200/12721273.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/09/22200/12721273.pdf)
 
 Ministério do Ultramar, 30 de Setembro de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

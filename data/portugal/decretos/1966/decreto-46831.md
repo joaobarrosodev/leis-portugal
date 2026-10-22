@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46831-1966-233318
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 37ec3f94896dbdb93fd3049c9e47c97860f3abdb9b30808b9ead5af75dfccf57
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b31ce72e54b4aa30a3fa97855a5737e829980e12e2c414fcca4de4327591b479
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298638:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:36Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Atendendo a que, no momento actual, tal prática dá origem a manifesto prejuíz
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É facultada a repetição, por uma só vez, de cada um dos cursos de promoção de sargentos do serviço de material, no caso de reprovação por insuficiência de aproveitamento ou por doença não adquirida por motivo de serviço, desde que obtenham, do órgão superior do serviço, muito boas informações sobre as suas qualidades militares e técnicas.
+Artigo 1.º É facultada a repetição, por uma só vez, de cada um dos cursos de promoção de sargentos do serviço de material, no caso de reprovação por insuficiência de aproveitamento ou por doença não adquirida por motivo de serviço, desde que obtenham, do órgão superior do serviço, muito boas informações sobre as suas qualidades militares e técnicas.
 
 § 1.º Nos cursos com dois anos lectivos de duração, os alunos só poderão repetir um dos anos do curso.
 
@@ -99,7 +103,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º A desistência será requerida ao director do Serviço de Pessoal, a quem competirá o despacho, em face de informação onde conste o parecer do conselho escolar da escola ou centro de instrução frequentado pelo requerente.
 
-###### Art. 2.º Aos alunos de um curso de promoção que não terminem o mesmo por motivo de serviço ou por doença adquirida por motivo do seu desempenho não é contada a frequência do referido curso, para efeito do disposto no artigo anterior.
+Art. 2.º Aos alunos de um curso de promoção que não terminem o mesmo por motivo de serviço ou por doença adquirida por motivo do seu desempenho não é contada a frequência do referido curso, para efeito do disposto no artigo anterior.
 
 § 1.º Os alunos nas condições expressas neste artigo devem ser chamados para o primeiro curso que se realize após ter cessado o motivo impeditivo.
 
@@ -109,25 +113,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º No caso de reprovação, os alunos serão desgraduados se, na data em que a mesma reprovação se verificar, não houver sido promovido qualquer aluno do curso imediato àquele a que inicialmente pertenciam. Caso contrário, manter-se-á a graduação até à confirmação do posto em resultado de aproveitamento do curso, na sua repetição, se esta for autorizada. Caso esta autorização seja negada ou em caso de nova reprovação ou desistência, serão definitivamente desgraduados.
 
-###### Art. 3.º Aos candidatos que, por se encontrarem no ultramar ou por qualquer outro motivo de serviço e ainda por doença adquirida por motivo de serviço, não puderem frequentar os cursos que lhes competem aplicar-se-ão as disposições do artigo anterior e seus parágrafos.
+Art. 3.º Aos candidatos que, por se encontrarem no ultramar ou por qualquer outro motivo de serviço e ainda por doença adquirida por motivo de serviço, não puderem frequentar os cursos que lhes competem aplicar-se-ão as disposições do artigo anterior e seus parágrafos.
 
-###### Art. 4.º É permitido a todo o militar que o solicite em requerimento dirigido ao director do Serviço de Pessoal o adiamento, por uma só vez, do curso para que fora nomeado. O candidato nestas condições será nomeado para o curso seguinte, ao qual ficará a pertencer para efeito de intercalação na escala, em caso de aproveitamento.
+Art. 4.º É permitido a todo o militar que o solicite em requerimento dirigido ao director do Serviço de Pessoal o adiamento, por uma só vez, do curso para que fora nomeado. O candidato nestas condições será nomeado para o curso seguinte, ao qual ficará a pertencer para efeito de intercalação na escala, em caso de aproveitamento.
 
-###### Art. 5.º Os militares que, antes ou já depois de nomeados para a frequência do curso de promoção que lhes compete, não desejem apresentar-se para a sua frequência, nem desejem aproveitar-se da possibilidade que lhes é conferida pelo disposto no artigo anterior, deverão apresentar declaração escrita nesse sentido e na qual deverá taxativamente constar: «Desisto de ascender ao posto imediato».
+Art. 5.º Os militares que, antes ou já depois de nomeados para a frequência do curso de promoção que lhes compete, não desejem apresentar-se para a sua frequência, nem desejem aproveitar-se da possibilidade que lhes é conferida pelo disposto no artigo anterior, deverão apresentar declaração escrita nesse sentido e na qual deverá taxativamente constar: «Desisto de ascender ao posto imediato».
 
-###### Art. 6.º As três primeiras semanas dos cursos de chefes de mecânicos e primeiros-mecânicos (e seus correspondentes na designação de artífices) são destinadas a revisões das matérias teóricas fundamentais dos cursos correspondentes ao actual posto dos candidatos. No final da terceira semana o conselho escolar da escola ou centro de instrução em que os mesmos cursos se realizem procederá a exame eliminatório a recair sobre a matéria acima referida.
+Art. 6.º As três primeiras semanas dos cursos de chefes de mecânicos e primeiros-mecânicos (e seus correspondentes na designação de artífices) são destinadas a revisões das matérias teóricas fundamentais dos cursos correspondentes ao actual posto dos candidatos. No final da terceira semana o conselho escolar da escola ou centro de instrução em que os mesmos cursos se realizem procederá a exame eliminatório a recair sobre a matéria acima referida.
 
 § 1.º Esta disposição entra em vigor na Escola Militar de Electromecânica a partir dos cursos do plano de tirocínios, estágios e cursos de 1966-1967 e na Escola Prática do Serviço de Material após a reorganização dos cursos de promoção de sargentos ali ministrados.
 
 § 2.º As matérias sobre as quais recairão os exames eliminatórios serão publicadas em ordem do Exército, podendo, porém, desde já, serem consultados os respectivos centros de instrução.
 
-###### Art. 7.º Em qualquer altura do curso a partir da quarta semana, inclusive, o conselho escolar determinará a eliminação do curso dos instruendos que o mesmo conselho reconheça sem possibilidades de virem a ter aproveitamento suficiente no final do curso. Esta disposição é aplicável aos instruendos dos cursos de chefes de mecânicos, primeiros-mecânicos e segundos-mecânicos e seus correspondentes na designação de artífices.
+Art. 7.º Em qualquer altura do curso a partir da quarta semana, inclusive, o conselho escolar determinará a eliminação do curso dos instruendos que o mesmo conselho reconheça sem possibilidades de virem a ter aproveitamento suficiente no final do curso. Esta disposição é aplicável aos instruendos dos cursos de chefes de mecânicos, primeiros-mecânicos e segundos-mecânicos e seus correspondentes na designação de artífices.
 
-###### Art. 8.º As eliminações consequentes do estabelecido nos artigos 6.º e 7.º correspondem a reprovações.
+Art. 8.º As eliminações consequentes do estabelecido nos artigos 6.º e 7.º correspondem a reprovações.
 
-###### Art. 9.º Os sargentos e praças do serviço de material que, nos termos referidos neste diploma, tenham sido graduados no posto imediato, deverão, em caso de desgraduação, ser transferidos da unidade ou estabelecimento onde se encontrem a prestar serviço, só podendo ser nela novamente colocados ou noutra unidade ou estabelecimento em que já tenham prestado serviço como graduados no caso de lhes voltar a ser conferido o posto que haviam atingido naquela situação.
+Art. 9.º Os sargentos e praças do serviço de material que, nos termos referidos neste diploma, tenham sido graduados no posto imediato, deverão, em caso de desgraduação, ser transferidos da unidade ou estabelecimento onde se encontrem a prestar serviço, só podendo ser nela novamente colocados ou noutra unidade ou estabelecimento em que já tenham prestado serviço como graduados no caso de lhes voltar a ser conferido o posto que haviam atingido naquela situação.
 
-###### Art. 10.º As praças do serviço de material que tenham esgotado as possibilidades de acesso ao posto imediato em consequência de reprovações ou equivalente nos cursos de segundo-mecânico ou de segundo-artífice serão passadas à situação de disponibilidade.
+Art. 10.º As praças do serviço de material que tenham esgotado as possibilidades de acesso ao posto imediato em consequência de reprovações ou equivalente nos cursos de segundo-mecânico ou de segundo-artífice serão passadas à situação de disponibilidade.
 
 § 1.º As praças que se encontrem nas condições expressas neste artigo poderão requerer a continuação no serviço activo, por períodos de dois anos, na sua especialidade ou noutra, do serviço de material ou de qualquer arma ou serviço.
 
@@ -137,7 +141,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 4.º As disposições constantes dos parágrafos anteriores deste artigo têm por fim facultar a permanência no serviço das praças que tenham demonstrado grande dedicação pelo mesmo e cuja acção no ultramar ou na metrópole as torne merecedoras de muito boas informações, pelo que só poderá ser considerado o deferimento dos requerimentos de praças nestas condições.
 
-###### Art. 11.º (transitório). É facultado a todos os sargentos e praças do serviço de material, na efectividade de serviço, que tenham reprovado posteriormente a 20 de Junho de 1959 nos respectivos cursos de promoção (segundos-mecânicos, primeiros-mecânicos ou chefes de mecânico e equivalente na designação de artífices) frequentarem por uma vez o curso em que reprovaram, desde que obtenham do órgão superior do serviço muito boas informações sobre as suas qualidades militares e técnicas.
+Art. 11.º (transitório). É facultado a todos os sargentos e praças do serviço de material, na efectividade de serviço, que tenham reprovado posteriormente a 20 de Junho de 1959 nos respectivos cursos de promoção (segundos-mecânicos, primeiros-mecânicos ou chefes de mecânico e equivalente na designação de artífices) frequentarem por uma vez o curso em que reprovaram, desde que obtenham do órgão superior do serviço muito boas informações sobre as suas qualidades militares e técnicas.
 
 § 1.º Os candidatos nas condições expressas neste artigo devem ser nomeados, mediante requerimento, para o primeiro curso a realizar após a publicação do presente diploma, sendo promovidos pela ordem de classificação obtida no mesmo curso, sem direito a quaisquer intercalações em cursos anteriores.
 
@@ -145,6 +149,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º Os candidatos nas condições referidas no parágrafo anterior serão graduados no posto imediato logo que se verifique a promoção de qualquer dos alunos que frequentaram o curso referido no § 1.º deste artigo e que aos mesmos candidatos competia igualmente frequentar, sendo posteriormente confirmados no posto ou desgraduados, conforme obtenham ou não aproveitamento no curso que venham a frequentar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.

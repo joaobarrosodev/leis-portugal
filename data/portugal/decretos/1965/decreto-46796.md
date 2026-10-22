@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46796-1965-508391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 92b24f19de202b45e1c44d1b30b29f8336635b505fd3edc99563781982087dad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dd6601e5611d509c629a3e7e94ecdd8b07e90a05dc2a5fa0f35496874ae0f43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:304174:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:19Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +102,15 @@ Nestes termos, ouvida a província da Guiné e o Conselho Ultramarino, e tendo-s
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar, em representação da província da Guiné, autorizado a renovar o contrato para pesquisa e exploração assinado em 8 de Abril de 1958 com a Esso Exploration Guiné Inc., autorizado pelo artigo 1.º do [Decreto n.º 41537](https://diariodarepublica.pt/dr/detalhe/decreto/41537-1958-304174), de 26 de Fevereiro de 1958, devendo o novo contrato ser celebrado com uma sociedade a constituir pela Esso Exploration Inc.
+Artigo 1.º É o Ministro do Ultramar, em representação da província da Guiné, autorizado a renovar o contrato para pesquisa e exploração assinado em 8 de Abril de 1958 com a Esso Exploration Guiné Inc., autorizado pelo artigo 1.º do [Decreto n.º 41537](https://diariodarepublica.pt/dr/detalhe/decreto/41537-1958-304174), de 26 de Fevereiro de 1958, devendo o novo contrato ser celebrado com uma sociedade a constituir pela Esso Exploration Inc.
 
 § único. No contrato de 8 de Abril de 1958, a que se refere o corpo do artigo, poderá o Ministro do Ultramar introduzir as condições que entender mais convenientes, sendo obrigatórias as que constam das bases anexas a este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte dele e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º É também o Ministro do Ultramar autorizado a assinar, em representação da província da Guiné, um contrato complementar do autorizado pelo artigo anterior, em tudo análogo ao contrato datado de 8 de Abril de 1958 que foi autorizado pelo artigo 29.º do [Decreto n.º 41537](https://diariodarepublica.pt/dr/detalhe/decreto/41537-1958-304174), de 26 de Fevereiro de 1958.
+Art. 2.º É também o Ministro do Ultramar autorizado a assinar, em representação da província da Guiné, um contrato complementar do autorizado pelo artigo anterior, em tudo análogo ao contrato datado de 8 de Abril de 1958 que foi autorizado pelo artigo 29.º do [Decreto n.º 41537](https://diariodarepublica.pt/dr/detalhe/decreto/41537-1958-304174), de 26 de Fevereiro de 1958.
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -118,7 +126,7 @@ BASE II
 
 Ao artigo 5.º do contrato de 8 de Abril de 1958 será dada a redacção:
 
-###### Art. 5.º Durante o período inicial de cinco anos, contados a partir da data de assinatura deste contrato, a sociedade fica obrigada a cumprir integralmente os programas de pesquisa referidos na alínea b) do artigo 8.º deste contrato, despendendo no cumprimento dos programas as seguintes importâncias mínimas:
+Art. 5.º Durante o período inicial de cinco anos, contados a partir da data de assinatura deste contrato, a sociedade fica obrigada a cumprir integralmente os programas de pesquisa referidos na alínea b) do artigo 8.º deste contrato, despendendo no cumprimento dos programas as seguintes importâncias mínimas:
 
 a) Durante o 1.º ano, 24000000$00;
 
@@ -154,7 +162,7 @@ BASE III
 
 No artigo 6.º do contrato de 8 de Abril de 1958 será dada a redacção:
 
-###### Art. 6.º Para todos os efeitos deste contrato fica entendido que a sociedade iniciou a exploração a partir da data em que começou a vender ou exportar, regularmente, petróleo ou gás em quantidades comerciais.
+Art. 6.º Para todos os efeitos deste contrato fica entendido que a sociedade iniciou a exploração a partir da data em que começou a vender ou exportar, regularmente, petróleo ou gás em quantidades comerciais.
 
 § 1.º A sociedade poderá utilizar livremente, para as suas operações, as substâncias produzidas antes do início da exploração e terá também o direito de as vender desde que tenha para tal sido prèviamente autorizada pelo Governo, o qual não poderá recusar a dita autorização, mas poderá impor que lhe seja entregue o máximo de 50 por cento do produto da venda ou vendas das substâncias a que a dita autorização diga respeito.
 
@@ -164,7 +172,7 @@ BASE IV
 
 Ao artigo 7.º do contrato de 8 de Abril de 1958 será dada a redacção:
 
-###### Art. 7.º Sem prejuízo do direito de rescisão que ao Governo pertence nos termos das leis gerais e do artigo 21.º deste contrato, a sociedade terá o direito de pesquisar e explorar à sua custa durante 45 anos, a partir da data da assinatura deste contrato, os jazigos existentes nas áreas que deseje reter de harmonia com o condicionalismo dos parágrafos seguintes:
+Art. 7.º Sem prejuízo do direito de rescisão que ao Governo pertence nos termos das leis gerais e do artigo 21.º deste contrato, a sociedade terá o direito de pesquisar e explorar à sua custa durante 45 anos, a partir da data da assinatura deste contrato, os jazigos existentes nas áreas que deseje reter de harmonia com o condicionalismo dos parágrafos seguintes:
 
 § 1.º Passados cinco anos a partir da data da assinatura deste contrato, a sociedade não poderá reter mais que 75 por cento da área que lhe foi inicialmente concedida; passados oito anos a partir da mesma data, não poderá reter mais que 50 por cento da área inicialmente concedida; e passados dez anos a partir da mesma data, não poderá reter mais que 25 por cento da área inicialmente concedida, observando-se ainda o seguinte:
 
@@ -242,6 +250,6 @@ BASE IX
 
 Ao artigo 17.º do contrato de 8 de Abril de 1958 será dada a redacção:
 
-###### Art. 17.º Quaisquer aprovações ou autorizações relativas a trabalhos, instalações, planos, programas, plantas e projectos que, de harmonia com os termos deste contrato de concessão, sejam requeridas às autoridades portuguesas serão sempre consideradas como concedidas se as referidas autoridades não despacharem dentro de 90 dias, a partir da data do recebimento por elas do requerimento de aprovação ou autorização.
+Art. 17.º Quaisquer aprovações ou autorizações relativas a trabalhos, instalações, planos, programas, plantas e projectos que, de harmonia com os termos deste contrato de concessão, sejam requeridas às autoridades portuguesas serão sempre consideradas como concedidas se as referidas autoridades não despacharem dentro de 90 dias, a partir da data do recebimento por elas do requerimento de aprovação ou autorização.
 
 Ministério do Ultramar, 29 de Dezembro de 1965. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

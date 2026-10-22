@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47196-1966-480503
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d2e53174f44e3e6a148033de261c6b1e5e955176d08c6b96e78dbcd202cadcea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f2f3f63fcd6b176c1990dfd5b1aeb1180d308c870ea204d3049fd73802a9b3a5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:281239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:20Z'
   warnings: []
   errors: []
 ---
@@ -92,21 +96,21 @@ Tendo em atenção a necessidade de criar novas receitas para o Fundo de Fomento
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada uma taxa de 1 por cento ad valorem sobre o café, de todas as qualidades, exportado pela província de Angola.
+Artigo 1.º É criada uma taxa de 1 por cento ad valorem sobre o café, de todas as qualidades, exportado pela província de Angola.
 
 § 1.º O produto da cobrança desta taxa constitui receita do Instituto do Café de Angola.
 
 § 2.º A cobrança da referida taxa compete às alfândegas da província de Angola e será depositada, mensalmente, no banco emissor da província à ordem do Instituto do Café de Angola.
 
-###### Art. 2.º É aumentada de $10 para $20, por quilograma de café exportado de Angola, a taxa de propaganda criada pela [Portaria n.º 16396](https://diariodarepublica.pt/dr/detalhe/portaria/16396-1957-281239), de 2 de Setembro de 1957.
+Art. 2.º É aumentada de $10 para $20, por quilograma de café exportado de Angola, a taxa de propaganda criada pela [Portaria n.º 16396](https://diariodarepublica.pt/dr/detalhe/portaria/16396-1957-281239), de 2 de Setembro de 1957.
 
 § único. O produto da cobrança desta taxa constitui receita do Fundo de Fomento e de Propaganda do Café, nos mesmos termos do que até à publicação do presente diploma.
 
-###### Art. 3.º Os exportadores de café que efectuarem exportações do produto para os mercados considerados no diploma regulamentar do presente decreto, que deverá ser publicado pelo Governo-Geral da província, gozarão de tratamento semelhante ao estabelecido no Diploma Legislativo n.º 3606, de 31 de Dezembro de 1965.
+Art. 3.º Os exportadores de café que efectuarem exportações do produto para os mercados considerados no diploma regulamentar do presente decreto, que deverá ser publicado pelo Governo-Geral da província, gozarão de tratamento semelhante ao estabelecido no Diploma Legislativo n.º 3606, de 31 de Dezembro de 1965.
 
-###### Art. 4.º Este decreto entra em vigor no dia 1 de Outubro de 1966.
+Art. 4.º Este decreto entra em vigor no dia 1 de Outubro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47726-1967-312824
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ff7346d030e1a93e0743b375ac1a0cbb97fa2b15ae0495efc462d69c531d121f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0b815ff7d5ba097267df01b441da4a2e951b70c8b214444352aa255d4545ceb9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,38 @@ relationships:
   target: pt:dre:214915:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:214915:por
+  label: "Alterado o quadro de pessoal abrangido pelo artigo 11.º do Dec 42312, de 09-Jun de 1959, na redacção dada pelo presente\
+    \ diploma, pelo DEC.49227.05.09.1969.MU, DG.IS [208] de 05.09.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/49227-1969-214915
+  date: '1969-09-05'
+- type: cites
+  target: pt:dre:432584:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:508184:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514233:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:516684:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:58Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +117,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 A) Angola
 
-###### Artigo 1.º Passa a ter a seguinte redacção o artigo 2.º do [Decreto n.º 46760](https://diariodarepublica.pt/dr/detalhe/decreto/46760-1965-508184), de 20 de Dezembro de 1965:
+Artigo 1.º Passa a ter a seguinte redacção o artigo 2.º do [Decreto n.º 46760](https://diariodarepublica.pt/dr/detalhe/decreto/46760-1965-508184), de 20 de Dezembro de 1965:
 
-###### Art. 2.º O adiantamento concedido ao abrigo do disposto no artigo anterior será reembolsado pelo departamento da Defesa Nacional, por intermédio do Ministério do Exército, em quatro prestações anuais, iguais e consecutivas, com início em 1 de Dezembro de 1967.
+Art. 2.º O adiantamento concedido ao abrigo do disposto no artigo anterior será reembolsado pelo departamento da Defesa Nacional, por intermédio do Ministério do Exército, em quatro prestações anuais, iguais e consecutivas, com início em 1 de Dezembro de 1967.
 
 B) Moçambique
 
-###### Art. 2.º No quadro dos serviços gerais dos Serviços de Saúde e Assistência são criados os seguintes lugares:
+Art. 2.º No quadro dos serviços gerais dos Serviços de Saúde e Assistência são criados os seguintes lugares:
 
 a) Pessoal de nomeação:
 
@@ -115,11 +137,11 @@ b) Pessoal contratado:
 
 § 2.º Para o lugar de conservador do material e instrumentos oftalmológicos transita sem mais formalidades, incluindo as de nomeação, visto e posse, o funcionário dos Serviços de Saúde e Assistência que vem desempenhando essas funções.
 
-###### Art. 3.º É substituída pela seguinte a redacção do artigo 7.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962:
+Art. 3.º É substituída pela seguinte a redacção do artigo 7.º do [Decreto n.º 44252](https://diariodarepublica.pt/dr/detalhe/decreto/44252-1962-516684), de 24 de Março de 1962:
 
-###### Art. 7.º É atribuída a gratificação mensal de 2000$00 ao médico dos Serviços de Saúde e Assistência que prestar assistência médica aos presos a cargo da delegação da Polícia Internacional e de Defesa do Estado da província de Moçambique.
+Art. 7.º É atribuída a gratificação mensal de 2000$00 ao médico dos Serviços de Saúde e Assistência que prestar assistência médica aos presos a cargo da delegação da Polícia Internacional e de Defesa do Estado da província de Moçambique.
 
-###### Art. 4.º Os quantitativos do subsídio de residência constantes do artigo 11.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, com a redacção dada pelo artigo 4.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960, são atribuídos aos funcionários ou agentes das seguintes categorias:
+Art. 4.º Os quantitativos do subsídio de residência constantes do artigo 11.º do [Decreto n.º 42312](https://diariodarepublica.pt/dr/detalhe/decreto/42312-1959-432584), de 9 de Junho de 1959, com a redacção dada pelo artigo 4.º do [Decreto n.º 43319](https://diariodarepublica.pt/dr/detalhe/decreto/43319-1960-514233), de 16 de Novembro de 1960, são atribuídos aos funcionários ou agentes das seguintes categorias:
 
 Do grupo I ou superior ... 3000$00
 
@@ -127,15 +149,15 @@ Dos grupos J a N ... 2750$00
 
 Do grupo O ou inferior, excluindo serventes ... 2500$00
 
-###### Art. 5.º É tornado extensivo ao pessoal militar da Armada em comissão de serviço na Direcção dos Serviços de Marinha o direito à gratificação de isolamento, nas condições estabelecidas pelo artigo 168.º do Estatuto do Funcionalismo Ultramarino.
+Art. 5.º É tornado extensivo ao pessoal militar da Armada em comissão de serviço na Direcção dos Serviços de Marinha o direito à gratificação de isolamento, nas condições estabelecidas pelo artigo 168.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 6.º É ratificado o artigo 111.º do Diploma Legislativo n.º 1982, de 8 de Junho de 1960, que cria o Fundo de Protecção à Fauna.
+Art. 6.º É ratificado o artigo 111.º do Diploma Legislativo n.º 1982, de 8 de Junho de 1960, que cria o Fundo de Protecção à Fauna.
 
 C) Timor
 
-###### Art. 7.º Fica o Governo da província autorizado a abrir um crédito especial da importância de 125700$00, com contrapartida nos saldos das contas de exercícios findos, destinado a reforçar a verba do capítulo 4.º, artigo 109.º, n.º 1), alínea a) «Administração geral e fiscalização - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da tabela de despesa ordinária do orçamento geral da província para o ano em curso.
+Art. 7.º Fica o Governo da província autorizado a abrir um crédito especial da importância de 125700$00, com contrapartida nos saldos das contas de exercícios findos, destinado a reforçar a verba do capítulo 4.º, artigo 109.º, n.º 1), alínea a) «Administração geral e fiscalização - Polícia Internacional e de Defesa do Estado - Despesas com o pessoal - Remunerações certas ao pessoal em exercício - Pessoal dos quadros aprovados por lei - Vencimentos», da tabela de despesa ordinária do orçamento geral da província para o ano em curso.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Maio de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

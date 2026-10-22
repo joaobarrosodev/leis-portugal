@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 87/1967, 1º Suplemento, Série I de 1967-04-12
   number: '87'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 733 - 733
   pdf_url: https://files.diariodarepublica.pt/1s/1967/04/08701/07330733.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47635-1967-348075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-04-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:56:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 860730b9c7744fecd169ae51e6be1855264a599f116e254b715f6128012df8f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04ecdfd4d7c1266f6a5d1f6a3a369b9dba5b761506bd8b90e78598a4252bb284
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:56:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,13 +69,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:56:05Z'
   warnings: []
   errors: []
 ---
@@ -86,6 +86,6 @@ Usando da faculdade que me confere o n.º 1.º do artigo 81.º da Constituição
 
 Hei por bem, sob proposta do Presidente do Conselho, conceder ao Eng.º José Filipe Rebelo Pinto a exoneração, que me pediu, de Subsecretário de Estado das Obras Públicas, lugar que me apraz declarar exerceu com zelo, inteligência e acendrado patriotismo.
 
-**Publique-se.**
+Publique-se.
 
 Paços do Governo da República, 12 de Abril de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar.

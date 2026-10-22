@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46827-1966-233328
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-01-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ee44f4452dfe689187ce0c9d3e19a3059c353fc9804d7d25f23e8baa618ce0ea
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 303cd43423075917995d8e2b5d0c1893ef0de19a913eafba0d4ef1d20e530eec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155578:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:238638:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:627387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:34Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +105,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. O artigo 9.º do [Decreto n.º 46250](https://diariodarepublica.pt/dr/detalhe/decreto/46250-1965-238638), de 19 de Março de 1965, passa a ter a seguinte redacção:
+Artigo único. O artigo 9.º do [Decreto n.º 46250](https://diariodarepublica.pt/dr/detalhe/decreto/46250-1965-238638), de 19 de Março de 1965, passa a ter a seguinte redacção:
 
-###### Art. 9.º Os subsídios diários a abonar ao pessoal técnico das brigadas e dos serviços da província de Timor de conformidade com o que dispõe o [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415) nos seus artigos 7.º (com a redacção que lhe foi dada pelo artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), de 24 de Junho de 1963), 8.º (com a redacção que lhe foi dada pelo artigo 13.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578), de 24 de Novembro de 1962) e 9.º são fixados nas importâncias seguintes:
+Art. 9.º Os subsídios diários a abonar ao pessoal técnico das brigadas e dos serviços da província de Timor de conformidade com o que dispõe o [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415) nos seus artigos 7.º (com a redacção que lhe foi dada pelo artigo 32.º do [Decreto n.º 45083](https://diariodarepublica.pt/dr/detalhe/decreto/45083-1963-627387), de 24 de Junho de 1963), 8.º (com a redacção que lhe foi dada pelo artigo 13.º do [Decreto n.º 44730](https://diariodarepublica.pt/dr/detalhe/decreto/44730-1962-155578), de 24 de Novembro de 1962) e 9.º são fixados nas importâncias seguintes:
 
 Chefes de serviços ou de brigada (E): 200$00 a 300$00;
 
@@ -105,7 +121,7 @@ Topógrafos (L e M): 40$00 a 90$00;
 
 Auxiliares diversos: 25$00 a 50$00.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46224-1965-238432
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1fbda8c74ea981ef560207bb6f9a9fc9ac0a5f0aceacde26b5cb4de45b76663a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06d48f51fe0918b0ac11ce0a19c1a6bb30b74f1eaff8ed09551ff7971a2b17b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:292317:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:253057:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:669494:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:23Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +100,8 @@ Atendendo às condições especiais resultantes da necessidade de manter em comi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Poderá o Ministro da Educação Nacional prorrogar, por despacho, até dois anos, o prazo fixado no § 1.º do artigo 26.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, quando isso se mostrar conveniente em face de condições especiais resultantes da necessidade de manter em comissão de serviço nos Estudos Gerais Universitários de Angola e de Moçambique elevado número de funcionários do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.
+Artigo único. Poderá o Ministro da Educação Nacional prorrogar, por despacho, até dois anos, o prazo fixado no § 1.º do artigo 26.º do [Decreto n.º 39001](https://diariodarepublica.pt/dr/detalhe/decreto/39001-1952-669494), de 20 de Novembro de 1952, quando isso se mostrar conveniente em face de condições especiais resultantes da necessidade de manter em comissão de serviço nos Estudos Gerais Universitários de Angola e de Moçambique elevado número de funcionários do quadro referido no artigo 7.º do [Decreto-Lei n.º 41362](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41362-1957-253057), de 14 de Novembro de 1957.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Março de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocência Galvão Teles.

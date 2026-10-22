@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46404-1965-295674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:45:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa85c6be07e4346dc4d843d9c9b9e246143544af46ac3c16303f06881fc594ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4d66caf957edeab99471de5057c57a9aa9fe3d56879b4fef87b2c33089b9abf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:45:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:321901:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:386262:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:45:39Z'
   warnings: []
   errors: []
 ---
@@ -99,19 +107,19 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os projectos e termos de responsabilidade pela execução dos trabalhos e pela exploração das instalações eléctricas previstas no § 2.º do artigo 35.º do Regulamento de Concessões de Licenças para o Estabelecimento e Exploração de Instalações Eléctricas nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 27071](https://diariodarepublica.pt/dr/detalhe/decreto/27071-1936-321901), de 7 de Outubro de 1936, poderão ser assinados por indivíduos diplomados com o curso de electrotecnia dos institutos industriais, sempre que a potência e a tensão não sejam superiores a 500 kVA e 30000 V.
+Artigo 1.º Os projectos e termos de responsabilidade pela execução dos trabalhos e pela exploração das instalações eléctricas previstas no § 2.º do artigo 35.º do Regulamento de Concessões de Licenças para o Estabelecimento e Exploração de Instalações Eléctricas nas Províncias Ultramarinas, aprovado pelo [Decreto n.º 27071](https://diariodarepublica.pt/dr/detalhe/decreto/27071-1936-321901), de 7 de Outubro de 1936, poderão ser assinados por indivíduos diplomados com o curso de electrotecnia dos institutos industriais, sempre que a potência e a tensão não sejam superiores a 500 kVA e 30000 V.
 
-###### Art. 2.º Os projectos e termos de responsabilidade pela execução dos trabalhos e pela exploração das instalações eléctricas previstas no § 1.º do artigo 53.º do regulamento referido no artigo 1.º do presente decreto poderão ser assinados por indivíduos diplomados com o curso de electrotecnia dos institutos industriais.
+Art. 2.º Os projectos e termos de responsabilidade pela execução dos trabalhos e pela exploração das instalações eléctricas previstas no § 1.º do artigo 53.º do regulamento referido no artigo 1.º do presente decreto poderão ser assinados por indivíduos diplomados com o curso de electrotecnia dos institutos industriais.
 
-###### Art. 3.º Sempre que o técnico responsável pela exploração de uma instalação eléctrica for diferente do técnico responsável pela execução dos trabalhos de estabelecimento deverão ser apresentados termos de responsabilidade distintos, sendo no entanto obrigatório que o responsável pela exploração resida no distrito em que a instalação esteja estabelecida.
+Art. 3.º Sempre que o técnico responsável pela exploração de uma instalação eléctrica for diferente do técnico responsável pela execução dos trabalhos de estabelecimento deverão ser apresentados termos de responsabilidade distintos, sendo no entanto obrigatório que o responsável pela exploração resida no distrito em que a instalação esteja estabelecida.
 
 § único. Se o proprietário, concessionário ou explorador da instalação apresentar motivos ponderosos, como tal reconhecidos pelo governo da respectiva província, poderá ser aceite como responsável pela exploração um técnico que não resida no distrito em que ela esteja estabelecida mas nunca fora da província.
 
-###### Art. 4.º A assistência às instalações prevista no § único do artigo 85.º do regulamento referido no artigo 1.º do presente decreto poderá ser confiada a indivíduos diplomados com o curso de electrotecnia dos institutos industriais.
+Art. 4.º A assistência às instalações prevista no § único do artigo 85.º do regulamento referido no artigo 1.º do presente decreto poderá ser confiada a indivíduos diplomados com o curso de electrotecnia dos institutos industriais.
 
-###### Art. 5.º É revogado o [Decreto n.º 36963](https://diariodarepublica.pt/dr/detalhe/decreto/36963-1948-386262), de 10 de Julho de 1948.
+Art. 5.º É revogado o [Decreto n.º 36963](https://diariodarepublica.pt/dr/detalhe/decreto/36963-1948-386262), de 10 de Julho de 1948.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Junho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

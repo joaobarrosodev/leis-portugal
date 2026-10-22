@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1966/01/00300/00100013.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46828-1966-233322
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 80a0818c5aa65ec5cd5612c728bfc6e9513f3e2e20311f2cadbee15d17e28c0a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5dc519a2c78e8df8cb32496cb0f29771c6e0e0e8b709ab4edee627b5f60e402a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comércio
+- Comércio Internacional
+- Comissão Permanente para a Aplicação dos Direitos Anti-dumping e Compensadores
+- Concorrência
+- Direcção Geral das Alfândegas
+- Direitos Aduaneiros
+- Direitos Anti-dumping
+- Direitos de Importação
+- Exportação
+- Importação
+- Política de Preços
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:253405:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:253414:por
+  label: "Remetidas para o Ministério do Comércio e Turismo as referências feitas no presente diploma ao Ministério da Economia\
+    \ pelo DEC LEI.247/77.11.06.1977.MCT, DR.IS [134] de 11.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/247-1977-253414
+  date: '1977-06-11'
+- type: cites
+  target: pt:dre:233323:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:253405:por
+  label: "Revogado, a partir de 16.06.1977, pelo DR.38/77.11.06.1977.MCT, DR.IS [134] de 11.06.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/38-1977-253405
+  date: '1977-06-11'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:36Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +116,7 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), por país exportador de uma mercadoria importada em território nacional entende-se:
+Artigo 1.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), por país exportador de uma mercadoria importada em território nacional entende-se:
 
 a) O país de proveniência dessa mercadoria, salvo nos casos em que, sendo a mercadoria originária de um pais diferente, ela transitou apenas pelo país de proveniência sem ter entrado no respectivo consumo interno;
 
@@ -97,7 +124,7 @@ b) O país de origem nos casos não abrangidos pela alínea anterior.
 
 § único. As mercadorias que hajam sido submetidas a operações de transformação num determinado país são consideradas como tendo entrado no respectivo consumo interno.
 
-###### Art. 2.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), por preço de exportação de uma mercadoria exportada para território nacional entende-se o preço pelo qual essa mercadoria é vendida, numa operação comercial normal, pelo exportador ou por sua conta, ao importador em território nacional ou à entidade por conta de quem a mercadoria é importada em território nacional, depois de efectuados os seguintes ajustamentos:
+Art. 2.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), por preço de exportação de uma mercadoria exportada para território nacional entende-se o preço pelo qual essa mercadoria é vendida, numa operação comercial normal, pelo exportador ou por sua conta, ao importador em território nacional ou à entidade por conta de quem a mercadoria é importada em território nacional, depois de efectuados os seguintes ajustamentos:
 
 a) Dedução dos custos com transportes, cargas, descargas e seguro, desde o porto ou local do país exportador donde a mercadoria foi expedida até ao local ou porto de importação em território nacional, desde que tais custos estejam incluídos no preço da mercadoria facturado pelo exportador;
 
@@ -111,7 +138,7 @@ e) Inclusão de direitos de importação ou outros encargos de efeito equivalent
 
 f) Inclusão de impostos indirectos ou outros encargos fiscais equivalentes, lançados directa ou indirectamente no país exportador sobre a produção, a fabricação ou a comercialização da mercadoria em causa, que foram reembolsados ou que não foram cobrados, pelo facto da exportação dessa mercadoria.
 
-###### Art. 3.º Poderá atribuir-se ao preço de exportação de uma mercadoria importada em território nacional um valor diferente do que seria determinado nos termos do disposto no artigo anterior, nos casos em que:
+Art. 3.º Poderá atribuir-se ao preço de exportação de uma mercadoria importada em território nacional um valor diferente do que seria determinado nos termos do disposto no artigo anterior, nos casos em que:
 
 a) A exportação não corresponde a uma operação comercial normal;
 
@@ -143,7 +170,7 @@ b) Definição do referido valor:
 
 2) Ou, na falta de elementos de informação sobre um tal preço e na medida em que a substituição seja admissível, como sendo o preço F. O. B. comparável, corrente no mercado mundial para mercadorias idênticas ou similares, qualquer que seja o país donde foram exportadas.
 
-###### Art. 4.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se que dois preços são comparáveis se obedecerem às seguintes condições:
+Art. 4.º Para efeitos de aplicação do disposto no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), entende-se que dois preços são comparáveis se obedecerem às seguintes condições:
 
 a) Respeitarem, conforme as circunstâncias e os elementos disponíveis, embora tendo em conta a sequente ordem de preferência:
 
@@ -167,7 +194,7 @@ e) Estarem corrigidos das influências, averiguadas ou estimadas, que resultem d
 
 § 3.º Para os fins a que se refere a alínea a) do artigo 4.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), e sempre que, em virtude de condições acidentais na situação do mercado ou em virtude de vendas de fim de estação, o preço comparável do mercado interno do país exportador não reflicta o preço normal, poderá deixar de observar-se a condição a que se refere a alínea b) do corpo do presente artigo e recorrer-se a um preço médio comparável que se tenha praticado durante um período razoável de não mais de seis meses, precedendo imediatamente a data da realização do contrato de exportação da mercadoria em causa.
 
-###### Art. 5.º O decreto pelo qual se crie um direito anti-dumping ou um direito compensador deve fixar as condições em que esse direito será exigível, indicando, nomeadamente:
+Art. 5.º O decreto pelo qual se crie um direito anti-dumping ou um direito compensador deve fixar as condições em que esse direito será exigível, indicando, nomeadamente:
 
 a) As mercadorias ou a natureza das mercadorias a que o direito é aplicável, mencionando, quando for caso disso, os elementos que definam a sua expedição, as suas especificações, a sua marca, os seus produtores ou exportadores ou os países da sua origem ou proveniência;
 
@@ -181,13 +208,13 @@ c) O período contínuo ou não, e com ou sem limitação de duração, durante 
 
 § 3.º O período, fixado nos termos da alínea c) do corpo do presente artigo, durante o qual um direito anti-dumping ou um direito compensador é exigível pode ter início numa data anterior à do decreto que institui tal direito anti-dumping ou compensador, desde que nessa data já tenha sido exigível uma caução, nos termos do artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323).
 
-###### Art. 6.º Em relação a mercadorias que estarão sujeitas a direitos anti-dumping ou compensadores, se se encontrarem nas condições de exigibilidade estabelecidas nos termos da alínea a) do artigo anterior, os serviços aduaneiros solicitarão aos importadores as declarações e elementos de prova que reputem necessários para se certificarem se se verificam ou não as mencionadas condições de exigibilidade dos direitos anti-dumping ou compensadores.
+Art. 6.º Em relação a mercadorias que estarão sujeitas a direitos anti-dumping ou compensadores, se se encontrarem nas condições de exigibilidade estabelecidas nos termos da alínea a) do artigo anterior, os serviços aduaneiros solicitarão aos importadores as declarações e elementos de prova que reputem necessários para se certificarem se se verificam ou não as mencionadas condições de exigibilidade dos direitos anti-dumping ou compensadores.
 
 § único. Na falta de declarações satisfatórias fornecidas nos termos do disposto no corpo do presente artigo serão cobrados sobre as mercadorias de que se trate os direitos anti-dumping ou compensadores fixados no decreto que haja sido publicado nos termos do artigo anterior.
 
-###### Art. 7.º Os produtores de territórios nacionais que considerem estar a ser ou ameaçados de vir a ser prejudicados gravemente pela prática de dumping ou pela concessão de subsídios em relação a mercadorias importadas no continente ou ilhas adjacentes ou nas províncias ultramarinas podem requerer à Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou ao governador da província ultramarina de que se trate o estudo da necessidade de lançar sobre as ditas mercadorias um direito anti-dumping ou um direito compensador, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), fazendo acompanhar os seus requerimentos das justificações e elementos de prova em que baseiem as suas alegações.
+Art. 7.º Os produtores de territórios nacionais que considerem estar a ser ou ameaçados de vir a ser prejudicados gravemente pela prática de dumping ou pela concessão de subsídios em relação a mercadorias importadas no continente ou ilhas adjacentes ou nas províncias ultramarinas podem requerer à Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou ao governador da província ultramarina de que se trate o estudo da necessidade de lançar sobre as ditas mercadorias um direito anti-dumping ou um direito compensador, nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), fazendo acompanhar os seus requerimentos das justificações e elementos de prova em que baseiem as suas alegações.
 
-###### Art. 8.º Em seguimento dos requerimentos apresentados por produtores, nos termos do artigo anterior, a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores, ou o governador da província ultramarina de que se trate, procederá, com o apoio de outros serviços, na medida em que isso for considerado necessário, à apreciação dos elementos e provas apresentadas pelos requerentes e à colheita e análise de outros elementos e provas que sejam úteis e haja possibilidade de conseguir, com o objectivo de averiguar:
+Art. 8.º Em seguimento dos requerimentos apresentados por produtores, nos termos do artigo anterior, a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores, ou o governador da província ultramarina de que se trate, procederá, com o apoio de outros serviços, na medida em que isso for considerado necessário, à apreciação dos elementos e provas apresentadas pelos requerentes e à colheita e análise de outros elementos e provas que sejam úteis e haja possibilidade de conseguir, com o objectivo de averiguar:
 
 a) Se há ou não fundamento para considerar como demonstrada a existência de dumping ou a concessão de um subsídio e de, no caso afirmativo, determinar a margem de dumping existente ou o montante do subsídio concedido;
 
@@ -195,11 +222,11 @@ b) Se há ou não razão para considerar que, da prática do dumping ou da conce
 
 § único. A colheita de elementos e provas e as averiguações a que se refere o corpo do presente artigo podem também partir da iniciativa de serviços do Ministério da Economia, da Direcção-Geral das Alfândegas ou do Ministério do Ultramar, que se porão, para esse efeito, em contacto com a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores ou o governador da província ultramarina de que se trate, mesmo que não tenha havido requerimentos dos produtores lesados pela suposta prática de dumping ou concessão de subsídios em relação a mercadorias importadas no continente e ilhas adjacentes ou na referida província ultramarina.
 
-###### Art. 9.º Sempre que, em virtude de averiguações feitas nos termos do artigo anterior, fique demonstrada a prática de dumping ou a concessão de um subsídio em relação a mercadorias importadas no continente e ilhas adjacentes ou nas províncias ultramarinas e fique demonstrado que daí resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou o atraso considerável na instalação de um novo ramo de produção em território nacional, a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores, ou o governador da província ultramarina de que se trate, proporá ao Ministro das Finanças ou ao Ministro do Ultramar, no praso máximo de dez meses, contado a partir da data da entrega do pedido nos termos do artigo 7.º ou da comunicação feita nos termos do § único do artigo anterior, a publicação de um decreto nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a instituir direitos anti-dumping ou compensadores sobre as mercadorias de que se trate.
+Art. 9.º Sempre que, em virtude de averiguações feitas nos termos do artigo anterior, fique demonstrada a prática de dumping ou a concessão de um subsídio em relação a mercadorias importadas no continente e ilhas adjacentes ou nas províncias ultramarinas e fique demonstrado que daí resultam ou podem vir a resultar prejuízos importantes para produções estabelecidas em território nacional, ou o atraso considerável na instalação de um novo ramo de produção em território nacional, a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores, ou o governador da província ultramarina de que se trate, proporá ao Ministro das Finanças ou ao Ministro do Ultramar, no praso máximo de dez meses, contado a partir da data da entrega do pedido nos termos do artigo 7.º ou da comunicação feita nos termos do § único do artigo anterior, a publicação de um decreto nos termos dos artigos 1.º e 2.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), a instituir direitos anti-dumping ou compensadores sobre as mercadorias de que se trate.
 
 § único. Nos casos em que se não venha a provar a prática de dumping ou a concessão de subsídios ou a existência de prejuízos importantes para produções estabelecidas em território nacional ou o atraso considerável na instalação de novos ramos de produção em território nacional, a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores, ou o governador da província ultramarina de que se trate, comunicará ao Ministro das Finanças ou do Ultramar, no prazo máximo de dez meses a que se refere o corpo do presente artigo, os resultados das suas averiguações ou as razões da impossibilidade de chegar a conclusões bem definidas.
 
-###### Art. 10.º A publicação de um decreto a instituir direitos anti-dumping ou compensadores, nos termos do artigo 3.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), será proposta ao Ministro das Finanças ou ao Ministro do Ultramar, a pedido do governador do país interessado, pelo Ministro dos Negócios Estrangeiros ou pelo Ministro da Economia.
+Art. 10.º A publicação de um decreto a instituir direitos anti-dumping ou compensadores, nos termos do artigo 3.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323), será proposta ao Ministro das Finanças ou ao Ministro do Ultramar, a pedido do governador do país interessado, pelo Ministro dos Negócios Estrangeiros ou pelo Ministro da Economia.
 
 § 1.º O pedido do governo do país interessado a que se refere o corpo do presente artigo deve ser acompanhado dos elementos e provas em que esse pedido se baseia para alegar:
 
@@ -211,19 +238,19 @@ b) A existência ou ameaça de aparecimento, em resultado da alegada prática de
 
 § 3.º O Ministro das Finanças, ou o Ministro do Ultramar, só tomará decisões a respeito de um pedido formulado nos termos do disposto no corpo do presente artigo se, depois de consultada a Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores, ou o governador da província ultramarina de que se trate, tiver sido emitido o parecer, com base nos elementos e provas apresentados em harmonia com o disposto no § 1.º do presente artigo, de que são fundamentadas as alegações do país interessado a que se referem as alíneas a) e b) do mesmo parágrafo.
 
-###### Art. 11.º As propostas a fazer ao Ministro das Finanças e ao Ministro do Ultramar, nos termos dos artigos 9.º e 10.º, devem ser acompanhadas:
+Art. 11.º As propostas a fazer ao Ministro das Finanças e ao Ministro do Ultramar, nos termos dos artigos 9.º e 10.º, devem ser acompanhadas:
 
 a) De uma exposição dos resultados das averiguações conduzidas nos termos do artigo 8.º e do § 3.º do artigo 10.º;
 
 b) Das informações necessárias para fixar em que condições é que o direito anti-dumping ou o direito compensador será exigível, incluindo nomeadamente as indicações a que se refere o artigo 5.º
 
-###### Art. 12.º As propostas para exigência de uma caução nos termos do artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323) podem ser dirigidas à Comissão Permanente para a Aplicação de Direitos Anti-Dumping ou Compensadores ou ao governador da província ultramarina de que se trate pelos produtores nacionais afectados pela presumível prática de dumping ou a concessão de subsídios ou por serviços do Ministério da Economia, da Direcção-Geral das Alfândegas ou do Ministério do Ultramar logo após a concessão das licenças de importação ou a emissão de boletim de registo prévio de importação das mercadorias em causa, com base nas declarações prestadas para efeitos dessa concessão ou emissão, e antes mesmo de as referidas mercadorias terem chegado às alfândegas do continente e ilhas adjacentes ou das províncias ultramarinas.
+Art. 12.º As propostas para exigência de uma caução nos termos do artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323) podem ser dirigidas à Comissão Permanente para a Aplicação de Direitos Anti-Dumping ou Compensadores ou ao governador da província ultramarina de que se trate pelos produtores nacionais afectados pela presumível prática de dumping ou a concessão de subsídios ou por serviços do Ministério da Economia, da Direcção-Geral das Alfândegas ou do Ministério do Ultramar logo após a concessão das licenças de importação ou a emissão de boletim de registo prévio de importação das mercadorias em causa, com base nas declarações prestadas para efeitos dessa concessão ou emissão, e antes mesmo de as referidas mercadorias terem chegado às alfândegas do continente e ilhas adjacentes ou das províncias ultramarinas.
 
 § único. As propostas a fazer nos termos do presente artigo devem ser acompanhadas de uma exposição das razões que levam a supor a existência da prática de dumping ou da concessão de subsídios em relação às mercadorias de que se trate e conterem os elementos informativos a que se refere o artigo 14.º
 
-###### Art. 13.º A Comissão Permanente para a Aplicação de Direitos Anti-Dumping ou Compensadores, ou o governador da província ultramarina de que se trate, depois de estudadas as propostas apresentadas nos termos do artigo anterior, comunicará ao Ministro das Finanças ou ao Ministro do Ultramar o resultado das averiguações que tenham sido feitas e, se for caso disso, proporá a publicação de uma portaria pela qual se exija uma caução nos termos do artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323).
+Art. 13.º A Comissão Permanente para a Aplicação de Direitos Anti-Dumping ou Compensadores, ou o governador da província ultramarina de que se trate, depois de estudadas as propostas apresentadas nos termos do artigo anterior, comunicará ao Ministro das Finanças ou ao Ministro do Ultramar o resultado das averiguações que tenham sido feitas e, se for caso disso, proporá a publicação de uma portaria pela qual se exija uma caução nos termos do artigo 9.º do [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323).
 
-###### Art. 14.º A portaria pela qual se venha a exigir, nos termos do artigo anterior, uma caução para pagamento dos eventuais direitos anti-dumping ou compensadores sobre as importações no continente e ilhas adjacentes ou nas províncias ultramarinas de uma mercadoria ou mercadorias de uma dada natureza deverá fixar as condições em que essa caução será exigida, indicando nomeadamente:
+Art. 14.º A portaria pela qual se venha a exigir, nos termos do artigo anterior, uma caução para pagamento dos eventuais direitos anti-dumping ou compensadores sobre as importações no continente e ilhas adjacentes ou nas províncias ultramarinas de uma mercadoria ou mercadorias de uma dada natureza deverá fixar as condições em que essa caução será exigida, indicando nomeadamente:
 
 a) A mercadoria ou natureza das mercadorias em relação às quais a caução é exigida, mencionando, quando for caso disso, os elementos que definem a sua expedição, as suas especificações, a sua marca, os seus produtores ou exportadores ou os países da sua origem ou proveniência;
 
@@ -231,7 +258,7 @@ b) O montante unitário, fixado segundo um critério específico ou ad valorem, 
 
 c) O período máximo durante o qual a caução pode ser retida, até que se averigúe definitivamente sobre a eventual margem do dumping ou sobre o montante do subsídio eventualmente concedido, não podendo em nenhum caso esse período ser superior a doze meses.
 
-###### Art. 15.º A apreciação, colheita e análise das provas de dumping, nos termos dos artigos 8.º e 13.º do presente decreto, pela Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores competirá especialmente ao representante do Ministério da Economia ou ao representante do Ministério do Ultramar, conforme os produtores nacionais afectados pela presumível prática de dumping ou concessão de subsídios sejam do continente e ilhas adjacentes ou das províncias ultramarinas.
+Art. 15.º A apreciação, colheita e análise das provas de dumping, nos termos dos artigos 8.º e 13.º do presente decreto, pela Comissão Permanente para a Aplicação dos Direitos Anti-Dumping e Compensadores competirá especialmente ao representante do Ministério da Economia ou ao representante do Ministério do Ultramar, conforme os produtores nacionais afectados pela presumível prática de dumping ou concessão de subsídios sejam do continente e ilhas adjacentes ou das províncias ultramarinas.
 
 § 1.º O representante do Ministério da Economia ou do Ministério do Ultramar a que alude o corpo do presente artigo elaborará relatório circunstanciado e formulará as respectivas conclusões para, com o processo respectivo, serem presentes à apreciação da Comissão Permanente para a Aplicação de Direitos Anti-Dumping e Compensadores.
 
@@ -243,7 +270,7 @@ c) O período máximo durante o qual a caução pode ser retida, até que se ave
 
 § 5.º O representante do Ministério da Economia ou do Ultramar encarregado da apreciação, colheita e análise das provas de dumping nos termos do disposto no corpo do presente artigo poderá estabelecer directamente o contacto com todas as entidades, oficiais ou particulares, de quem precise receber informações, salvo em casos especiais previstos no [Decreto-Lei n.º 46829](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46829-1966-233323) ou no presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Janeiro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Alberto Marciano Gorjão Franco Nogueira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Fernando Manuel Alves Machado.
 

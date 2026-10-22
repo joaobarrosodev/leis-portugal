@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46530-1965-509643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-09-08T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e1626a25c63ad9da2370cfb1d4a7ecf965bf1fc0903c90e4139feaa3d68295e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b62403d88ac961ac5ef7b681fa2785053c1886e5b6a3040a356b9003afae41f4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:184274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:251611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:433006:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:41Z'
   warnings: []
   errors: []
 ---
@@ -128,28 +144,28 @@ Considerando o disposto na parte final da base II da [Lei n.º 2025](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criados nos concelhos de Cantanhede, do Fundão e de Torre de Moncorvo, nos termos do estatuto aprovado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e demais legislação aplicável, estabelecimentos de ensino técnico profissional com a denominação, respectivamente, de Escola Industrial de Cantanhede, Escola Industrial do Fundão e Escola Industrial de Moncorvo.
+Artigo 1.º São criados nos concelhos de Cantanhede, do Fundão e de Torre de Moncorvo, nos termos do estatuto aprovado pelo [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e demais legislação aplicável, estabelecimentos de ensino técnico profissional com a denominação, respectivamente, de Escola Industrial de Cantanhede, Escola Industrial do Fundão e Escola Industrial de Moncorvo.
 
-###### Art. 2.º Nas referidas Escolas será ministrado, inicialmente, o ensino do ciclo preparatório e o dos cursos de electromecânico e de formação feminina.
+Art. 2.º Nas referidas Escolas será ministrado, inicialmente, o ensino do ciclo preparatório e o dos cursos de electromecânico e de formação feminina.
 
-###### Art. 3.º Os quadros de pessoal docente, administrativo e menor de cada uma das Escolas, são os constantes do mapa que acompanha este diploma e dele fazem parte integrante, devendo os lugares ser providos gradualmente, à medida que as necessidades do serviço o exijam.
+Art. 3.º Os quadros de pessoal docente, administrativo e menor de cada uma das Escolas, são os constantes do mapa que acompanha este diploma e dele fazem parte integrante, devendo os lugares ser providos gradualmente, à medida que as necessidades do serviço o exijam.
 
-###### Art. 4.º - 1. Até à construção dos edifícios definitivos, as Escolas poderão funcionar em instalações provisórias facultadas pelas Câmaras Municipais ou outras entidades interessadas no ensino, desde que tais instalações sejam aprovadas pelo Ministério da Educação Nacional.
+Art. 4.º - 1. Até à construção dos edifícios definitivos, as Escolas poderão funcionar em instalações provisórias facultadas pelas Câmaras Municipais ou outras entidades interessadas no ensino, desde que tais instalações sejam aprovadas pelo Ministério da Educação Nacional.
 
 2. Enquanto se mantiver a situação prevista no número anterior, será aberta a matrícula sòmente para os cursos cujas actividades possam exercer-se em condições satisfatória.
 
-###### Art. 5.º A entrada em funcionamento das Escolas será determinada por despacho do Ministro da Educação Nacional, que, se as circunstâncias o justificarem, poderá fixar, para os primeiros exames de admissão e para as primeiras matrículas, épocas especiais.
+Art. 5.º A entrada em funcionamento das Escolas será determinada por despacho do Ministro da Educação Nacional, que, se as circunstâncias o justificarem, poderá fixar, para os primeiros exames de admissão e para as primeiras matrículas, épocas especiais.
 
-###### Art. 6.º Até à constituição dos conselhos administrativos, as correspondentes atribuições competem, em cada Escola, ao director.
+Art. 6.º Até à constituição dos conselhos administrativos, as correspondentes atribuições competem, em cada Escola, ao director.
 
-###### Art. 7.º Os encargos ocasionados pelo provimento dos lugares criados por este decreto serão satisfeitos, no presente ano económico, pelas disponibilidades da dotação inscrita no artigo 824.º, n.º 1), do correspondente orçamento do Ministério da Educação Nacional.
+Art. 7.º Os encargos ocasionados pelo provimento dos lugares criados por este decreto serão satisfeitos, no presente ano económico, pelas disponibilidades da dotação inscrita no artigo 824.º, n.º 1), do correspondente orçamento do Ministério da Educação Nacional.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Setembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior - Ulisses Cruz de Aguiar Cortês - Inocêncio Galvão Teles.
 
 Mapa a que se refere o artigo 3.º do Decreto n.º 46530, desta data
 
-([ver documento original](https://files.diariodarepublica.pt/1s/1965/09/20300/11881190.pdf))
+(ver documento Original)
 
 Ministério da Educação Nacional, 8 de Setembro de 1965. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

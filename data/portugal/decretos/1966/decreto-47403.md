@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47403-1966-477855
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 741ad93b3735ea57da98c507182913663a7669330388736f0dcade5776023f71
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 453b315ca760a593493b9090d51e6d005c87fede81a809bd4c31c8198a8a0b80
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:518398:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:649372:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:08Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +107,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 A) Angola
 
-###### Artigo 1.º É aumentada de 9000000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1967.
+Artigo 1.º É aumentada de 9000000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1967.
 
-###### Art. 2.º No quadro técnico do pessoal contratado dos serviços geográficos e cadastrais são criados os seguintes lugares:
+Art. 2.º No quadro técnico do pessoal contratado dos serviços geográficos e cadastrais são criados os seguintes lugares:
 
 ... Letras
 
@@ -113,7 +129,7 @@ A) Angola
 
 B) Moçambique
 
-###### Art. 3.º É aumentada de 7304000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1967.
+Art. 3.º É aumentada de 7304000$00 a dotação global do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1967.
 
 § 1.º O aumento de que trata o corpo do artigo será compensado pela entrega ao Tesouro da província das importâncias inscritas nos orçamentos privativos dos seguintes serviços autónomos, respeitantes aos encargos com pensões a desligados do serviço aguardando aposentação:
 
@@ -129,9 +145,9 @@ Imprensa Nacional ... 448000$00
 
 § 2.º O referido aumento será utilizado até à concorrência da importância a entregar por cada serviço autónomo, no cabimento das pensões de aposentação dos agentes desligados do serviço aguardando a aposentação dos referidos serviços, segundo a rigorosa ordem de antiguidade da respectiva desligação do serviço.
 
-###### Art. 4.º No quadro comum administrativo, de enfermagem e de serviço social do ultramar dos serviços de saúde e assistência da província são criados dois lugares de chefe de secção, a inscrever no pessoal de nomeação.
+Art. 4.º No quadro comum administrativo, de enfermagem e de serviço social do ultramar dos serviços de saúde e assistência da província são criados dois lugares de chefe de secção, a inscrever no pessoal de nomeação.
 
-###### Art. 5.º Ao mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, são aditadas as seguintes gratificações mensais:
+Art. 5.º Ao mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, são aditadas as seguintes gratificações mensais:
 
 Serviços de saúde:
 
@@ -141,7 +157,7 @@ Cozinheiro de 1.ª classe ... 500$00
 
 Serventes de 1.ª e 2.ª classes ... 150$00
 
-###### Art. 6.º Nos quadros de pessoal do Corpo de Polícia de Segurança Pública são introduzidas as seguintes alterações:
+Art. 6.º Nos quadros de pessoal do Corpo de Polícia de Segurança Pública são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -179,7 +195,7 @@ b) Para auxiliar de enfermagem de 2.ª classe - os enfermeiros auxiliares de 2.�
 
 § 3.º No preenchimento das vagas que ocorrerem nos lugares criados pelo corpo do artigo, depois do movimento referido nos parágrafos antecedentes, observar-se-ão, na parte aplicável, as disposições dos artigos 169.º, 170.º, 175.º e 177.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964.
 
-###### Art. 7.º São fixadas, nos termos da regra 2.ª da Portaria Ministerial n.º 16696, de 8 de Maio de 1958, as seguintes gratificações mensais aos membros da Comissão de Literatura e Espectáculos para Menores:
+Art. 7.º São fixadas, nos termos da regra 2.ª da Portaria Ministerial n.º 16696, de 8 de Maio de 1958, as seguintes gratificações mensais aos membros da Comissão de Literatura e Espectáculos para Menores:
 
 Ao presidente ... 1250$00
 
@@ -187,7 +203,7 @@ Aos vogais ... 1000$00
 
 § único. Estas gratificações são inacumuláveis com as estabelecidas pelo artigo 41.º do [Decreto n.º 39419](https://diariodarepublica.pt/dr/detalhe/decreto/39419-1953-649372), de 7 de Novembro de 1953, para os membros da Comissão de Exame e Classificação de Espectáculos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

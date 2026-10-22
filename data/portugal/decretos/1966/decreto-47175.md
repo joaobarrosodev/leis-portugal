@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47175-1966-479651
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3d1cae8b05d1f0580857cfe6e7c4ff78fbf685ed894919af8d5261e2ac5a47e1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 335f42a097c57a2fb0906bf070bce598bf6e3bf4f476070ff759b8ab12ca8b9e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:12Z'
   warnings: []
   errors: []
 ---
@@ -91,18 +95,18 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar, no corrente ano económico, com a Standard Eléctrica, S. A. R. L., os contratos para os fornecimentos adiante mencionados:
+Artigo 1.º É autorizada a Direcção-Geral da Aeronáutica Civil a celebrar, no corrente ano económico, com a Standard Eléctrica, S. A. R. L., os contratos para os fornecimentos adiante mencionados:
 
 Fornecimento de quatro R. F. Test Heads e dois Power Indicator and Reflectometers, para ensaio e medida dos VOR Lorenz dos centos de contrôle regional da navegação aérea do continente e dos Açores, no valor de 91860$00;
 
 Fornecimento de seis Coaxial Dummy Load para ensaio dos VOR Lorenz dos centros de contrôle regional da navegação aérea do continente e dos Açores, no valor de 56400$00.
 
-###### Art. 2.º Seja qual for o valor dos fornecimentos a efectuar, não poderá a Direcção-Geral da Aeronáutica Civil despender com pagamentos relativos aos respectivos contratos mais do que as quantias adiante mencionadas:
+Art. 2.º Seja qual for o valor dos fornecimentos a efectuar, não poderá a Direcção-Geral da Aeronáutica Civil despender com pagamentos relativos aos respectivos contratos mais do que as quantias adiante mencionadas:
 
 Para o fornecimento de quatro R. F. Test Heads e dois Power Indicator and Reflectometers, para ensaio e medida dos VOR Lorenz dos centros de contrôle regional da navegação aérea do continente e dos Açores, 41860$00 no corrente ano e 50000$00, ou o que se apurar como saldo, no ano de 1967;
 
 Para o fornecimento de seis Coaxial Dummy Load para ensaio dos VOR Lorenz dos centros de contrôle regional da navegação aérea do continente e dos Açores, 16400$00 no corrente ano e 40000$00, ou o que se apurar como saldo, no ano de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46613-1965-511225
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-10-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94de6ea8b3aca4ad5f0edf1c89adf963c0da15bfe7dfc1d738c34e3bcc3ae63f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c2db9f62f8c655985db8dee9e033a1b706d05c17a428efa636a9dc8960deaf4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:586797:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:21Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +98,7 @@ Considerando o disposto na [Lei n.º 2078](https://diariodarepublica.pt/dr/detal
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as instalações da Estacão Radionaval de Lourenço Marques que constituem a sua zona de segurança, assim definida:
+Artigo 1.º Ficam sujeitas ao regime de servidão militar as áreas confinantes com as instalações da Estacão Radionaval de Lourenço Marques que constituem a sua zona de segurança, assim definida:
 
 a) Área correspondente ao círculo de 1500 m de raio, com centro no edifício da recepção da central receptora.
 
@@ -98,9 +106,9 @@ b) A área correspondente ao círculo de 1000 m de raio com centro no edifício 
 
 § único. A área ocupada pela Estação Radionaval de Lourenço Marques é delimitada pelos vértices 2 a 23 e M3, M2 e M1, devidamente assinalados no terreno, definidos pelas seguintes coordenadas rectangulares, com origem no vértice determinado pelo cruzamento do meridiano 32º 30' 00" E com o paralelo 26º 00' 00" S:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1965/10/24300/13951396.pdf))](https://files.diariodarepublica.pt/1s/1965/10/24300/13951396.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1965/10/24300/13951396.pdf)
 
-###### Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
+Art. 2.º Nos termos do disposto no artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), na área sujeita a servidão militar são proibidos, sem prévia licença da autoridade militar competente, os trabalhos e actividades seguintes:
 
 a) Construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas;
 
@@ -118,11 +126,11 @@ g) Outros trabalhos ou actividades que possam inequìvocamente prejudicar a segu
 
 § único. Poderá ser ordenada a cessação de funcionamento de qualquer equipamento eléctrico existente na zona de segurança referida no artigo 1.º que interfira com o funcionamento da estação.
 
-###### Art. 3.º Compete ao Ministério da Marinha, pelo Comando Naval de Moçambique, ouvido o Estado-Maior da Armada, a concessão das licenças a que refere o presente decreto, competindo à direcção da Estação Radionaval de Lourenço Marques a fiscalização do cumprimento das disposições legais e dos condicionamentos impostos nas licenças concedidas, bem como ordenar a demolição das obras e aplicar as multas pelas infracções verificadas nos casos e nas condições previstos na legislação em vigor.
+Art. 3.º Compete ao Ministério da Marinha, pelo Comando Naval de Moçambique, ouvido o Estado-Maior da Armada, a concessão das licenças a que refere o presente decreto, competindo à direcção da Estação Radionaval de Lourenço Marques a fiscalização do cumprimento das disposições legais e dos condicionamentos impostos nas licenças concedidas, bem como ordenar a demolição das obras e aplicar as multas pelas infracções verificadas nos casos e nas condições previstos na legislação em vigor.
 
 § único. Das decisões tomadas ao abrigo deste artigo quanto à concessão das licenças e à determinação das demolições poderão os interessados recorrer, respectivamente, para o Ministério da Marinha e para o comandante Naval de Moçambique.
 
-###### Art. 4.º Dos requerimentos das licenças a que se refere o artigo anterior deverão constar:
+Art. 4.º Dos requerimentos das licenças a que se refere o artigo anterior deverão constar:
 
 a) A descrição precisa e clara dos trabalhos ou actividades cuja execução se pretende, com pormenorização necessária à sua conveniente caracterização;
 
@@ -138,7 +146,7 @@ c) Planta e alçado do contorno da construção projectada, em escala não infer
 
 § 2.º Quando se tratar de reconstrução, modificação ou ampliação de obra já existente, o requerimento deverá ser acompanhado dos documentos a que se referem as alíneas b) e c) do parágrafo antecedente.
 
-###### Art. 5.º As zonas indicadas no artigo 1.º serão demarcadas na carta 253203 dos serviços geográficos e cadastrais da província de Moçambique, na escala 1:50000, e no compartimento 12, folhas 2 e 4, dos mesmos serviços, na escala 1:25000, sendo destinados exemplares às seguintes entidades:
+Art. 5.º As zonas indicadas no artigo 1.º serão demarcadas na carta 253203 dos serviços geográficos e cadastrais da província de Moçambique, na escala 1:50000, e no compartimento 12, folhas 2 e 4, dos mesmos serviços, na escala 1:25000, sendo destinados exemplares às seguintes entidades:
 
 Secretariado-Geral da Defesa Nacional.
 
@@ -150,7 +158,7 @@ Governo-Geral de Moçambique.
 
 Comando Naval de Moçambique.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Outubro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias - Joaquim Moreira da Silva Cunha.
 

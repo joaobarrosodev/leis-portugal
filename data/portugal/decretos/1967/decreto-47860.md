@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/08/19800/15211527.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,71 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47860-1967-314969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1971-04-06T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5130e116e91bbd3d1a26087fd1910e050edff3f0c935d4c47cb5a1bb43d2cc0c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c71a5d5eb63f5b3ab0cdbb394c5de9d4a66e0bdf759e0f40cb54e823be7ba570
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissariado do Turismo
+- Controlo Sanitário
+- Crime
+- Definição de Competências
+- Direção Geral da Saúde
+- Especificação Técnica
+- Fiscalização
+- Instalação de Serviços
+- Licenciamento
+- Parque de Campismo
+- Preço
+- Regulamento dos Parques de Campismo
+- Taxa
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:445693:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:477373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555183:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:555184:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:445693:por
+  label: Revogado pelo(a) Decreto n.º 127/71 - Diário do Governo n.º 81/1971, Série I de 1971-04-06
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/127-1971-445693
+  date: '1971-04-06'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:02Z'
   warnings: []
   errors: []
 ---
@@ -100,9 +131,9 @@ REGULAMENTO DOS PARQUES DE CAMPISMO
 
 ### CAPÍTULO I — Instalação dos parques
 
-###### Artigo 1.º Os processos respeitantes à instalação e funcionamento dos parques de campismo e de turismo, nos termos do [Decreto-Lei n.º 43505](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43505-1961-555183), de 14 de Fevereiro de 1961, e do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373), de 23 de Novembro de 1966, serão organizados pelo Comissariado do Turismo e pela Direcção-Geral de Saúde, de harmonia com o presente diploma.
+Artigo 1.º Os processos respeitantes à instalação e funcionamento dos parques de campismo e de turismo, nos termos do [Decreto-Lei n.º 43505](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43505-1961-555183), de 14 de Fevereiro de 1961, e do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373), de 23 de Novembro de 1966, serão organizados pelo Comissariado do Turismo e pela Direcção-Geral de Saúde, de harmonia com o presente diploma.
 
-###### Art. 2.º - 1. As autorizações para a instalação de parques de campismo e de turismo serão requeridas ao Comissariado do Turismo, devendo o requerimento indicar o local onde se pretende fazer a instalação e ser acompanhado dos elementos seguintes, em triplicado:
+Art. 2.º - 1. As autorizações para a instalação de parques de campismo e de turismo serão requeridas ao Comissariado do Turismo, devendo o requerimento indicar o local onde se pretende fazer a instalação e ser acompanhado dos elementos seguintes, em triplicado:
 
 a) Planta do terreno, à escala de 1:25000, indicando a situação do parque relativamente aos aglomerados e construções vizinhas, às vias de comunicação, aos centros de abastecimento de géneros, aos cursos de água e às condutas de abastecimento público de água;
 
@@ -122,17 +153,17 @@ d) Documento, passado pela câmara municipal, comprovativo de nada obstar, por p
 
 2. Dos elementos a que se refere o número anterior, o Comissariado do Turismo enviará um exemplar à Direcção-Geral dos Serviços de Urbanização, para esta se pronunciar sobre os aspectos urbanísticos, e outro à delegação de saúde competente, para esta decidir da aprovação da instalação pretendida, sob os aspectos sanitários.
 
-###### Art. 3.º - 1. Se a Direcção-Geral dos Serviços de Urbanização se não pronunciar desfavoràvelmente, o Comissariado do Turismo e a delegação de saúde procederão à vistoria ao local.
+Art. 3.º - 1. Se a Direcção-Geral dos Serviços de Urbanização se não pronunciar desfavoràvelmente, o Comissariado do Turismo e a delegação de saúde procederão à vistoria ao local.
 
 2. Para este efeito, o parecer da Direcção-Geral dos Serviços de Urbanização será sempre comunicado à delegação de saúde.
 
-###### Art. 4.º - 1. O Comissariado do Turismo, recebida a resposta da delegação distrital de saúde e efectuada a vistoria ao local, decidirá o pedido de autorização.
+Art. 4.º - 1. O Comissariado do Turismo, recebida a resposta da delegação distrital de saúde e efectuada a vistoria ao local, decidirá o pedido de autorização.
 
 2. Se for autorizada a instalação pretendida, será fixado um prazo, não inferior a seis meses, para a apresentação do respectivo projecto.
 
 3. Se o projecto não for apresentado dentro do prazo fixado, caducará a autorização concedida.
 
-###### Art. 5.º - 1. Os projectos serão apresentados no Comissariado do Turismo e conterão, em triplicado, os seguintes elementos:
+Art. 5.º - 1. Os projectos serão apresentados no Comissariado do Turismo e conterão, em triplicado, os seguintes elementos:
 
 a) Planta do arranjo geral a dar ao terreno, à escala de 1:1000, ou, se não for possível, de 1:500, com altimetria, indicando a localização das instalações projectadas e do dispositivo do abastecimento de água;
 
@@ -162,7 +193,7 @@ Sistema de protecção contra incêndios.
 
 3. O interessado deverá juntar ao requerimento as licenças legalmente exigidas para as instalações projectadas.
 
-###### Art. 6.º - 1. O Comissariado do Turismo remeterá à delegação de saúde da área um exemplar do projecto, para a mesma decidir sobre a aprovação daquele, nos aspectos da respectiva competência, depois de proceder, se entender necessário, a nova vistoria.
+Art. 6.º - 1. O Comissariado do Turismo remeterá à delegação de saúde da área um exemplar do projecto, para a mesma decidir sobre a aprovação daquele, nos aspectos da respectiva competência, depois de proceder, se entender necessário, a nova vistoria.
 
 2. A delegação de saúde deverá pronunciar-se dentro de 60 dias, a contar do recebimento do projecto, considerando-se este aprovado se dentro daquele prazo não for proferida decisão.
 
@@ -174,27 +205,27 @@ Sistema de protecção contra incêndios.
 
 6. O interessado poderá recorrer da decisão para a Direcção-Geral de Saúde, no prazo de quinze dias, a contar da notificação, alegando o que tiver por conveniente.
 
-###### Art. 7.º - 1. A decisão do Comissariado do Turismo será proferida dentro de 90 dias, a contar do recebimento da decisão definitiva da delegação distrital de saúde, considerando-se o projecto aprovado se dentro daquele prazo não for proferida decisão.
+Art. 7.º - 1. A decisão do Comissariado do Turismo será proferida dentro de 90 dias, a contar do recebimento da decisão definitiva da delegação distrital de saúde, considerando-se o projecto aprovado se dentro daquele prazo não for proferida decisão.
 
 2. É aplicável à decisão do Comissariado o disposto no n.º 3 do artigo anterior.
 
 3. Da recusa da aprovação cabe recurso para a Presidência do Conselho, com observância do que se dispõe no n.º 6 do artigo antecedente.
 
-###### Art. 8.º - 1. Concluídas as obras de instalação, deverão os interessados requerer a respectiva vistoria, para verificação da sua conformidade com o projecto aprovado e da observância dos requisitos exigidos em matéria de salubridade.
+Art. 8.º - 1. Concluídas as obras de instalação, deverão os interessados requerer a respectiva vistoria, para verificação da sua conformidade com o projecto aprovado e da observância dos requisitos exigidos em matéria de salubridade.
 
 2. O requerimento, que será apresentado no Comissariado do Turismo, deverá ser acompanhado com os projectos de regulamento do funcionamento do parque e das respectivas tabelas de preços ou taxas, sem o que não poderá ser realizada a vistoria.
 
-###### Art. 9.º - 1. A vistoria às instalações será realizada conjuntamente pelos funcionários do Comissariado do Turismo e pelo delegado de saúde ou seu representante, em data a acordar com a antecedência mínima de dez dias, mas dentro dos quinze dias posteriores à apresentação do requerimento.
+Art. 9.º - 1. A vistoria às instalações será realizada conjuntamente pelos funcionários do Comissariado do Turismo e pelo delegado de saúde ou seu representante, em data a acordar com a antecedência mínima de dez dias, mas dentro dos quinze dias posteriores à apresentação do requerimento.
 
 2. Será elaborado um relatório conjunto da vistoria, do qual, depois de assinado pelos funcionários intervenientes, será entregue um exemplar ao representante da delegação de saúde.
 
 3. A autorização de funcionamento não será concedida se as instalações não estiverem conformes com o projecto aprovado ou se não tiverem sido observadas as determinações do Ministério da Saúde e Assistência em matéria de salubridade.
 
-###### Art. 10.º - 1. A decisão sobre a autorização de funcionamento do recinto e sua classificação e denominação será comunicada aos interessados pelo Comissariado do Turismo no prazo de quinze dias após o termo da vistoria.
+Art. 10.º - 1. A decisão sobre a autorização de funcionamento do recinto e sua classificação e denominação será comunicada aos interessados pelo Comissariado do Turismo no prazo de quinze dias após o termo da vistoria.
 
 2. Com a comunicação serão remetidos o regulamento de funcionamento e as tabelas de taxas e preços aprovados, com a indicação das alterações determinadas.
 
-###### Art. 11.º - 1. Não poderão ser feitas quaisquer alterações ou obras nos parques de campismo ou de turismo sem a prévia autorização do Comissariado do Turismo, que poderá exigir para o efeito, sempre que tal se torne necessário, um projecto das obras a efectuar, com os elementos convenientes à apreciação do pedido.
+Art. 11.º - 1. Não poderão ser feitas quaisquer alterações ou obras nos parques de campismo ou de turismo sem a prévia autorização do Comissariado do Turismo, que poderá exigir para o efeito, sempre que tal se torne necessário, um projecto das obras a efectuar, com os elementos convenientes à apreciação do pedido.
 
 2. A autorização não será concedida sem a concordância da delegação de saúde quanto às matérias da sua competência, podendo aquela proceder às vistoriais necessárias para a devida apreciação do pedido.
 
@@ -204,7 +235,7 @@ Sistema de protecção contra incêndios.
 
 ### CAPÍTULO II — Preços e funcionamento
 
-###### Art. 12.º - 1. Os preços ou taxas a praticar pelos parques de campismo e de turismo serão fixados, mediante proposta das entidades exploradoras, pelo Comissariado do Turismo, que visará as respectivas tabelas.
+Art. 12.º - 1. Os preços ou taxas a praticar pelos parques de campismo e de turismo serão fixados, mediante proposta das entidades exploradoras, pelo Comissariado do Turismo, que visará as respectivas tabelas.
 
 2. As alterações às tabelas de preços deverão ser requeridas pelos interessados ao Comissariado do Turismo até 30 de Setembro do ano anterior àquele em que pretendam introduzi-las, sob pena de não poderem ser consideradas.
 
@@ -214,7 +245,7 @@ Sistema de protecção contra incêndios.
 
 5. Os parques não poderão, em caso algum, praticar preços ou taxas superiores aos constantes das tabelas aprovadas.
 
-###### Art. 13.º - 1. Das tabelas constarão os preços ou taxas por cada dia de utilização do parque, correspondentes a:
+Art. 13.º - 1. Das tabelas constarão os preços ou taxas por cada dia de utilização do parque, correspondentes a:
 
 a) Estada, por pessoa, incluindo a utilização das instalações comuns;
 
@@ -244,11 +275,11 @@ A utilização dos parques por período inferior a um dia, calculado naqueles te
 
 6. Das importâncias pagas pelos campistas serão sempre passadas as respectivas facturas.
 
-###### Art. 14.º - 1. Os parques deverão abrir ao público no início da época de funcionamento aprovada.
+Art. 14.º - 1. Os parques deverão abrir ao público no início da época de funcionamento aprovada.
 
 2. A época de funcionamento não poderá ser alterada sem autorização do Comissariado do Turismo, devendo os pedidos de alteração ser apresentados com a antecedência mínima de 30 dias.
 
-###### Art. 15.º - 1. À entrada dos parques será instalada a recepção, aberta ao público das 8 às 22 horas e com pessoal habilitado.
+Art. 15.º - 1. À entrada dos parques será instalada a recepção, aberta ao público das 8 às 22 horas e com pessoal habilitado.
 
 2. Na sala de recepção, e em local bem visível ao público, serão afixadas, em português, francês, inglês e alemão, as seguintes indicações:
 
@@ -264,7 +295,7 @@ e) Informação de que existem à disposição dos utentes o regulamento do parq
 
 f) Plano do parque, localizando as instalações, os serviços e as zonas para acampamento.
 
-###### Art. 16.º - 1. Nenhum parque poderá funcionar sem dispor, pelo menos, do seguinte pessoal:
+Art. 16.º - 1. Nenhum parque poderá funcionar sem dispor, pelo menos, do seguinte pessoal:
 
 a) Um encarregado, a quem incumbe:
 
@@ -296,23 +327,23 @@ c) Guardas, a quem incumbe efectuar a vigilância permanente e zelar pela limpez
 
 5. O pessoal do parque deverá usar sempre um distintivo que o identifique.
 
-###### Art. 17.º - 1. Os parques deverão ter um regulamento interno, aprovado pelo Comissariado do Turismo, do qual constarão, obrigatòriamente, as disposições do n.º 3 do artigo 27.º e dos artigos 35.º, 36.º e 37.º deste diploma.
+Art. 17.º - 1. Os parques deverão ter um regulamento interno, aprovado pelo Comissariado do Turismo, do qual constarão, obrigatòriamente, as disposições do n.º 3 do artigo 27.º e dos artigos 35.º, 36.º e 37.º deste diploma.
 
 2. Na recepção do parque existirá, pelo menos, um exemplar do regulamento, em português, francês, inglês e alemão, o qual será facultado aos campistas no momento da inscrição.
 
-###### Art. 18.º Em cada parque e sob responsabilidade do encarregado haverá um livro de inscrições de todos os campistas que utilizem o parque, com os elementos de identificação destes e a indicação dos respectivos documentos, e bem assim os dias e horas da sua chegada e partida.
+Art. 18.º Em cada parque e sob responsabilidade do encarregado haverá um livro de inscrições de todos os campistas que utilizem o parque, com os elementos de identificação destes e a indicação dos respectivos documentos, e bem assim os dias e horas da sua chegada e partida.
 
-###### Art. 19.º - 1. Em todos os parques existirá ainda um livro de reclamações, que será obrigatòriamente facultado aos utentes que o solicitem.
+Art. 19.º - 1. Em todos os parques existirá ainda um livro de reclamações, que será obrigatòriamente facultado aos utentes que o solicitem.
 
 2. O livro, de modelo a aprovar pelo Comissariado do Turismo, deverá ter termos de abertura e de encerramento, autenticados pelos serviços, e as folhas rubricadas por meio de chancela.
 
 3. O livro de reclamações deverá ser sempre apresentado aos agentes do Comissariado do Turismo.
 
-###### Art. 20.º Ao Comissariado do Turismo e às delegações distritais de saúde compete fiscalizar o funcionamento dos parques, velando, designadamente, pela manutenção das condições de higiene, conforto e segurança, sem prejuízo da competência legalmente atribuída a outras entidades.
+Art. 20.º Ao Comissariado do Turismo e às delegações distritais de saúde compete fiscalizar o funcionamento dos parques, velando, designadamente, pela manutenção das condições de higiene, conforto e segurança, sem prejuízo da competência legalmente atribuída a outras entidades.
 
 ### CAPÍTULO III — Disposições comuns
 
-###### Art. 21.º - 1. Os terrenos em que forem instalados os parques terão de obedecer, pelo menos, aos seguintes requisitos:
+Art. 21.º - 1. Os terrenos em que forem instalados os parques terão de obedecer, pelo menos, aos seguintes requisitos:
 
 a) Ter localização adequada do ponto de vista turístico;
 
@@ -336,47 +367,47 @@ j) Serem suficientemente drenados, para facilitar o escoamento das águas pluvia
 
 2. A localização dos terrenos nos seus aspectos turísticos será livremente apreciada pelo Comissariado do Turismo.
 
-###### Art. 22.º - 1. Os parques deverão ser devidamente vedados.
+Art. 22.º - 1. Os parques deverão ser devidamente vedados.
 
 2. Entre a vedação e as construções existentes no parque, com excepção da recepção, deverá existir uma faixa de terreno de largura não inferior a 3 m.
 
 3. O disposto no número anterior não será aplicável aos parques actualmente existentes.
 
-###### Art. 23.º - 1. Nenhum parque poderá funcionar sem possuir, dentro do recinto, água potável abundante e canalizada.
+Art. 23.º - 1. Nenhum parque poderá funcionar sem possuir, dentro do recinto, água potável abundante e canalizada.
 
 2. Os pontos de água devem ser cimentados em volta e dispor de esgoto.
 
 3. Não será permitida a distribuição de água não potável.
 
-###### Art. 24.º Os proprietários são obrigados a manter os parques em perfeito estado de limpeza e a providenciar no sentido de que ofereçam aspecto agradável e cuidado.
+Art. 24.º Os proprietários são obrigados a manter os parques em perfeito estado de limpeza e a providenciar no sentido de que ofereçam aspecto agradável e cuidado.
 
-###### Art. 25.º - 1. Todos os parques devem possuir uma caixa-ambulância munida de material necessário para curativos e dos medicamentos ordinàriamente precisos para a socorros urgentes, de acordo com o que for estabelecido pela Direcção-Geral de Saúde.
+Art. 25.º - 1. Todos os parques devem possuir uma caixa-ambulância munida de material necessário para curativos e dos medicamentos ordinàriamente precisos para a socorros urgentes, de acordo com o que for estabelecido pela Direcção-Geral de Saúde.
 
 2. A caixa será confiada à guarda do encarregado do parque.
 
-###### Art. 26.º - 1. Os parques deverão ser devidamente sinalizados e possuir acessos à via pública que permitam o trânsito fácil de veículos automóveis e roulottes.
+Art. 26.º - 1. Os parques deverão ser devidamente sinalizados e possuir acessos à via pública que permitam o trânsito fácil de veículos automóveis e roulottes.
 
 2. As vias de circulação interiores terão a largura mínima de 3 m ou 5 m, respectivamente, conforme sejam de sentido único ou duplo.
 
-###### Art. 27.º - 1. A frequência máxima autorizada dos parques será de 300 campistas por hectare utilizável, por forma a proporcionar uma superfície média de 100 m2 para cada instalação de tenda ou roulotte, excluindo o o espaço reservado às instalações comuns.
+Art. 27.º - 1. A frequência máxima autorizada dos parques será de 300 campistas por hectare utilizável, por forma a proporcionar uma superfície média de 100 m2 para cada instalação de tenda ou roulotte, excluindo o o espaço reservado às instalações comuns.
 
 2. O disposto no número anterior entende-se sem prejuízo do limite correspondente à capacidade das instalações comuns existentes.
 
 3. As instalações dos campistas deverão guardar entre si a distância mínima de 2 m.
 
-###### Art. 28.º-1. Todos os parques deverão dispor de energia eléctrica para a sua conveniente iluminação, e bem assim de telefone ligado à rede.
+Art. 28.º-1. Todos os parques deverão dispor de energia eléctrica para a sua conveniente iluminação, e bem assim de telefone ligado à rede.
 
 2. Durante as horas de descanso haverá luz permanente à entrada do parque e das instalações sanitárias, com a protecção necessária para que não se torne incómoda.
 
-###### Art. 29.º - 1. Todos os parques deverão dispor de um sistema eficiente de protecção contra incêndios.
+Art. 29.º - 1. Todos os parques deverão dispor de um sistema eficiente de protecção contra incêndios.
 
 2. O pessoal dos parques será instruído sobre o manejo dos extintores e as medidas a tomar em caso de incêndio.
 
 ### CAPÍTULO IV — Classificações e requisitos
 
-###### Art. 30.º Os parques serão classificados em parques de campismo de 1.ª e 2.ª classes e parques de turismo, de acordo com os requisitos enumerados no presente regulamento.
+Art. 30.º Os parques serão classificados em parques de campismo de 1.ª e 2.ª classes e parques de turismo, de acordo com os requisitos enumerados no presente regulamento.
 
-###### Art. 31.º - 1. Os parques de campismo de 2.ª classe deverão possuir os seguintes requisitos mínimos:
+Art. 31.º - 1. Os parques de campismo de 2.ª classe deverão possuir os seguintes requisitos mínimos:
 
 a) Instalações sanitárias, com separação de sexos, dotadas de descarga automática de água e à razão de uma unidade para cada 30 campistas;
 
@@ -402,7 +433,7 @@ h) Instalações para o pessoal do parque.
 
 5. As instalações comuns deverão ser construídas com materiais adequados à categoria do parque, devendo as paredes das instalações sanitárias ser revestidas de azulejos ou material similar até 1,50 m de altura.
 
-###### Art. 32.º Os parques de campismo de 1.ª classe deverão possuir os seguintes requisitos mínimos, além dos exigidos no artigo anterior:
+Art. 32.º Os parques de campismo de 1.ª classe deverão possuir os seguintes requisitos mínimos, além dos exigidos no artigo anterior:
 
 a) Instalações sanitárias e chuveiros individuais, na proporção de uma unidade para cada 25 campistas;
 
@@ -420,7 +451,7 @@ g) Campo de jogos;
 
 h) Cantina de géneros e de outros artigos de uso corrente para os campistas.
 
-###### Art. 33.º - 1. Os parques de turismo deverão possuir os seguintes requisitos mínimos, além dos exigidos nos artigos anteriores:
+Art. 33.º - 1. Os parques de turismo deverão possuir os seguintes requisitos mínimos, além dos exigidos nos artigos anteriores:
 
 a) Perfeito enquadramento no meio ambiente das instalações comuns, dotadas de bons acabamentos;
 
@@ -442,7 +473,7 @@ i) Serviço de lavadaria privativo ou assegurado por empresas especializadas.
 
 2. A frequência máxima autorizada será de 200 campistas por hectare utilizável, com exclusão do espaço ocupado pelas instalações comuns.
 
-###### Art. 34.º - 1. O Comissariado do Turismo poderá rever a classificação de qualquer parque, oficiosamente ou a requerimento dos interessados, quando se verifiquem alterações das respectivas condições.
+Art. 34.º - 1. O Comissariado do Turismo poderá rever a classificação de qualquer parque, oficiosamente ou a requerimento dos interessados, quando se verifiquem alterações das respectivas condições.
 
 2. A alteração da classificação, ainda que por iniciativa do Comissariado, só poderá ser feita depois de se proceder a vistoria.
 
@@ -452,7 +483,7 @@ i) Serviço de lavadaria privativo ou assegurado por empresas especializadas.
 
 ### CAPÍTULO V — Dos utentes dos parques
 
-###### Art. 35.º - 1. Os utentes dos parques devem:
+Art. 35.º - 1. Os utentes dos parques devem:
 
 a) Acatar, dentro do parque, a autoridade dos responsáveis pelo funcionamento deste;
 
@@ -472,9 +503,9 @@ h) Não introduzir pessoas no parque sem autorização do respectivo encarregado
 
 2. A utilização do parque depende ainda da apresentação da carta ou licença de campista, emitida por organismo nacional ou internacional oficialmente reconhecido, a qual será entregue à entrada e restituída à saída do parque.
 
-###### Art. 36.º O encarregado poderá ordenar a expulsão, depois de advertência não acatada, dos utentes que desobedeçam ao regulamento do parque. Neste caso, a carta ou licença de campista não será devolvida ao infractor e será remetida à entidade que a tiver emitido, acompanhada de relatório justificativo da expulsão.
+Art. 36.º O encarregado poderá ordenar a expulsão, depois de advertência não acatada, dos utentes que desobedeçam ao regulamento do parque. Neste caso, a carta ou licença de campista não será devolvida ao infractor e será remetida à entidade que a tiver emitido, acompanhada de relatório justificativo da expulsão.
 
-###### Art. 37.º Os utentes dos parques têm direito a:
+Art. 37.º Os utentes dos parques têm direito a:
 
 1. Utilizar as instalações e serviços do parque de acordo com o disposto no presente diploma e no regulamento daquele;
 
@@ -488,19 +519,19 @@ h) Não introduzir pessoas no parque sem autorização do respectivo encarregado
 
 ### CAPÍTULO VI — Fiscalização e encerramento
 
-###### Art. 38.º - 1. A fiscalização do cumprimento do disposto nos Decretos-Leis n.os 43505 e 47330 e no presente regulamento compete ao Comissariado do Turismo, às delegações distritais de saúde e a todas as autoridades administrativas e policiais.
+Art. 38.º - 1. A fiscalização do cumprimento do disposto nos Decretos-Leis n.os 43505 e 47330 e no presente regulamento compete ao Comissariado do Turismo, às delegações distritais de saúde e a todas as autoridades administrativas e policiais.
 
 2. As delegações distritais de saúde compete, especialmente, intimar as modificações a introduzir nos parques que respeitem a aspectos de saúde pública e particularmente de salubridade.
 
-###### Art. 39.º - 1. Os funcionários com competência para a fiscalização participarão todas as infracções de que tiverem conhecimento, devendo as participações conter, sempre que possível, os elementos constantes do artigo 166.º do Código de Processo Penal.
+Art. 39.º - 1. Os funcionários com competência para a fiscalização participarão todas as infracções de que tiverem conhecimento, devendo as participações conter, sempre que possível, os elementos constantes do artigo 166.º do Código de Processo Penal.
 
 2. As participações serão remetidas, no prazo de 48 horas, ao Comissariado do Turismo ou à Direcção-Geral do Saúde, conforme a natureza da infracção.
 
-###### Art. 40.º - 1. O Comissariado do Turismo organizará os processos relativos às infracções cujo conhecimento seja da sua competência, devendo ser sempre ouvido o arguido.
+Art. 40.º - 1. O Comissariado do Turismo organizará os processos relativos às infracções cujo conhecimento seja da sua competência, devendo ser sempre ouvido o arguido.
 
 2. Os processos, devidamente instruídos, serão submetidos com proposta fundamentada a despacho do comissário do Turismo, que será notificado ao arguido.
 
-###### Art. 41.º - 1. Dentro da competência conferida pelo artigo 4.º do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373), o Comissariado do Turismo poderá determinar o encerramento dos parques nos seguintes casos:
+Art. 41.º - 1. Dentro da competência conferida pelo artigo 4.º do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373), o Comissariado do Turismo poderá determinar o encerramento dos parques nos seguintes casos:
 
 a) Quando tiverem aberto sem as autorizações a que se referem as alíneas a) e b) do n.º 1 do artigo 2.º daquele decreto-lei;
 
@@ -514,15 +545,15 @@ d) Quando, devido a razões de ordem moral, se mostre inconveniente a manutenç�
 
 3. O encerramento será comunicado à delegação distrital de saúde competente.
 
-###### Art. 42.º Serão consideradas deficiências de instalação ou funcionamento, para efeitos do disposto no artigo anterior, todos os factos que constituam inobservância do disposto neste diploma.
+Art. 42.º Serão consideradas deficiências de instalação ou funcionamento, para efeitos do disposto no artigo anterior, todos os factos que constituam inobservância do disposto neste diploma.
 
-###### Art. 43.º - 1. As infracções ao disposto no presente regulamento serão punidas pelo Comissariado do Turismo: da primeira vez, com encerramento até 15 dias; da segunda, com encerramento até 30 dias; da terceira, com encerramento até 60 dias, e das seguintes, com encerramento até 90 dias ou a título definitivo.
+Art. 43.º - 1. As infracções ao disposto no presente regulamento serão punidas pelo Comissariado do Turismo: da primeira vez, com encerramento até 15 dias; da segunda, com encerramento até 30 dias; da terceira, com encerramento até 60 dias, e das seguintes, com encerramento até 90 dias ou a título definitivo.
 
 2. O encerramento determinado por deficiência de instalações não poderá cessar, em qualquer caso, sem terem sido supridas aquelas deficiências.
 
-###### Art. 44.º Os processos relativos a infracções cujo conhecimento seja da competência da Direcção-Geral de Saúde serão organizados por esta, nos termos da legislação aplicável.
+Art. 44.º Os processos relativos a infracções cujo conhecimento seja da competência da Direcção-Geral de Saúde serão organizados por esta, nos termos da legislação aplicável.
 
-###### Art. 45.º - 1. Dentro da competência conferida pelo artigo 5.º do [Decreto-Lei n.º 43505](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43505-1961-555183), as delegações distritais de saúde poderão determinar o encerramento dos parques sempre que se verifiquem deficiências de carácter sanitário, até que as mesmas se considerem sanadas.
+Art. 45.º - 1. Dentro da competência conferida pelo artigo 5.º do [Decreto-Lei n.º 43505](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43505-1961-555183), as delegações distritais de saúde poderão determinar o encerramento dos parques sempre que se verifiquem deficiências de carácter sanitário, até que as mesmas se considerem sanadas.
 
 2. Encerrados os parques, a sua abertura fica dependente de vistoria, requerida pelos interessados.
 
@@ -532,46 +563,46 @@ d) Quando, devido a razões de ordem moral, se mostre inconveniente a manutenç�
 
 ### CAPÍTULO VII — Parques privativos
 
-###### Art. 46.º - 1. Sem prejuízo da competência conferida a outras entidades, a instalação de parques de campismo por parte de entidades públicas e da Federação Portuguesa de Campismo, para uso exclusivo dos respectivos membros, carece de autorização do Comissariado do Turismo e da delegação distrital de saúde competente, no que se refere à localização, nos termos do artigo 2.º deste diploma, a qual poderá ser tornada dependente da observância de quaisquer das condições referidas neste Regulamento.
+Art. 46.º - 1. Sem prejuízo da competência conferida a outras entidades, a instalação de parques de campismo por parte de entidades públicas e da Federação Portuguesa de Campismo, para uso exclusivo dos respectivos membros, carece de autorização do Comissariado do Turismo e da delegação distrital de saúde competente, no que se refere à localização, nos termos do artigo 2.º deste diploma, a qual poderá ser tornada dependente da observância de quaisquer das condições referidas neste Regulamento.
 
 2. A autorização referida no número anterior será concedida nos termos do n.º 3 do artigo 2.º do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373).
 
 3. A falta de autorização referida no n.º 1 deste artigo determinará o encerramento do parque.
 
-###### Art. 47.º Sem prejuízo do disposto no artigo anterior, às delegações distritais de saúde compete fiscalizar a instalação e funcionamento dos referidos parques nos aspectos de saúde pública e, particularmente, de salubridade.
+Art. 47.º Sem prejuízo do disposto no artigo anterior, às delegações distritais de saúde compete fiscalizar a instalação e funcionamento dos referidos parques nos aspectos de saúde pública e, particularmente, de salubridade.
 
-###### Art. 48.º - 1. O funcionamento dos parques a que se referem os artigos anteriores será regido pelo respectivo regulamento privativo, o qual será enviado ao Comissariado do Turismo, pelas entidades exploradoras, antes da abertura dos mesmos.
+Art. 48.º - 1. O funcionamento dos parques a que se referem os artigos anteriores será regido pelo respectivo regulamento privativo, o qual será enviado ao Comissariado do Turismo, pelas entidades exploradoras, antes da abertura dos mesmos.
 
 2. Estes parques deverão ter, à entrada, por forma bem visível, a indicação «Parque privativo».
 
-###### Art. 49.º A utilização destes parques por quem não for membro, associado ou beneficiário das entidades proprietárias ou exploradoras determinará o seu encerramento.
+Art. 49.º A utilização destes parques por quem não for membro, associado ou beneficiário das entidades proprietárias ou exploradoras determinará o seu encerramento.
 
 ### CAPÍTULO VIII — Disposições transitórias e finais
 
-###### Art. 50.º - 1. O Comissariado do Turismo organizará um registo de todos os parques existentes à data da publicação do presente diploma.
+Art. 50.º - 1. O Comissariado do Turismo organizará um registo de todos os parques existentes à data da publicação do presente diploma.
 
 2. Para os fins do disposto no número anterior, as entidades proprietárias ou exploradoras dos parques requererão a sua inscrição no Comissariado do Turismo, no prazo de 90 dias, a contar da publicação deste Regulamento, devendo o requerimento ser acompanhado de informação elaborada de acordo com a alínea c) do n.º 1 do artigo 2.º e com a alínea d) do n.º 1 do artigo 5.º e conter a indicação de serem ou não parques privativos e da época de funcionamento.
 
 3. No mesmo prazo, as referidas entidades apresentarão ao Comissariado do Turismo, para aprovação, as tabelas dos preços e taxas que pretendam praticar e o respectivo regulamento, sob pena de serem oficiosamente fixados.
 
-###### Art. 51.º Dentro do prazo inicial de validade das autorizações a que se referem os n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373), o Comissariado do Turismo procederá à fiscalização de todos os parques actualmente existentes e determinará, ao abrigo do n.º 3 do mesmo artigo e sob pena de encerramento, as medidas que considere indispensáveis relativamente às instalações e funcionamento daqueles.
+Art. 51.º Dentro do prazo inicial de validade das autorizações a que se referem os n.os 1 e 2 do artigo 5.º do [Decreto-Lei n.º 47330](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47330-1966-477373), o Comissariado do Turismo procederá à fiscalização de todos os parques actualmente existentes e determinará, ao abrigo do n.º 3 do mesmo artigo e sob pena de encerramento, as medidas que considere indispensáveis relativamente às instalações e funcionamento daqueles.
 
-###### Art. 52.º As disposições do presente Regulamento são aplicáveis aos parques ou locais de campismo existentes, devendo os proprietários ou entidades exploradoras proceder à sua regularização, de acordo com o disposto nos Decretos-Leis n.os 43505 e 47330 e neste diploma, no prazo de um ano, sob pena de encerramento.
+Art. 52.º As disposições do presente Regulamento são aplicáveis aos parques ou locais de campismo existentes, devendo os proprietários ou entidades exploradoras proceder à sua regularização, de acordo com o disposto nos Decretos-Leis n.os 43505 e 47330 e neste diploma, no prazo de um ano, sob pena de encerramento.
 
-###### Art. 53.º - 1. Os parques ou outros locais em que se pratique o campismo que não se encontrem regularizados em conformidade com a legislação vigente deverão proceder à sua regularização de harmonia com o presente diploma, no prazo de três meses, sob pena de encerramento.
+Art. 53.º - 1. Os parques ou outros locais em que se pratique o campismo que não se encontrem regularizados em conformidade com a legislação vigente deverão proceder à sua regularização de harmonia com o presente diploma, no prazo de três meses, sob pena de encerramento.
 
 2. Nos casos previstos no número anterior, e sem prejuízo do encerramento nele previsto, o Comissariado do Turismo poderá, precedendo vistoria, determinar imediatamente o encerramento provisório, quando se verifique manifesta desconformidade daqueles com as exigências do presente diploma.
 
 3. Aos casos previstos neste artigo e no artigo anterior é aplicável o disposto nos n.os 2 e 3 do artigo 41.º
 
-###### Art. 54.º - 1. É proibida, fora dos parques de campismo e turismo, a prática do campismo a menos de 1 km dos centros urbanos, de lugares geralmente frequentados pelo público ou dos próprios parques.
+Art. 54.º - 1. É proibida, fora dos parques de campismo e turismo, a prática do campismo a menos de 1 km dos centros urbanos, de lugares geralmente frequentados pelo público ou dos próprios parques.
 
 2. É igualmente proibida, em quaisquer outros locais, a instalação conjunta de mais de três tendas ou caravanas, não podendo, neste caso, o número de campistas ser superior a dez, nem o período de acampamento ir além de três dias. Para este efeito, considera-se conjunta a instalação de tendas ou caravanas quando estas distem entre si menos de 300 m.
 
 3. A inobservância do disposto nos números anteriores será punida com a multa de 200$00, por cada campista, cumprindo às autoridades administrativas e policiais determinar o abandono imediato do local.
 
-###### Art. 55.º Fica revogado o [Decreto n.º 43506](https://diariodarepublica.pt/dr/detalhe/decreto/43506-1961-555184), de 14 de Fevereiro de 1961.
+Art. 55.º Fica revogado o [Decreto n.º 43506](https://diariodarepublica.pt/dr/detalhe/decreto/43506-1961-555184), de 14 de Fevereiro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 25 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco Pereira Neto de Carvalho.

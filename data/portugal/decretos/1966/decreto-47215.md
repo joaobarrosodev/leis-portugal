@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47215-1966-480169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-09-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d9cefc59940d999cef9c167dda6e7cf65ea9e6b57941ab183d2b8b9c36fc46d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f504f91f87aadc98dbb0751899b793df7a8523cddf5fb80fd77ecfd11bc5c03f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232331:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:27Z'
   warnings: []
   errors: []
 ---
@@ -84,17 +88,17 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É instituída a Corporação da Educação Física e Desportos, nos termos do disposto na [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, e nomeadamente na sua base XV.
+Artigo 1.º - 1. É instituída a Corporação da Educação Física e Desportos, nos termos do disposto na [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331), de 22 de Agosto de 1956, e nomeadamente na sua base XV.
 
 2. A Corporação da Educação Física e Desportos constitui a organização unitária das actividades gimno-desportivas de natureza privada e representa os interesses das mesmas actividades, com vista ao desenvolvimento da cultura física nacional.
 
 3. A referida Corporação é pessoa colectiva de direito público e pode exercer todos os direitos respeitantes aos interesses legítimos do seu instituto.
 
-###### Art. 2.º A Corporação exerce a sua actividade no plano nacional, em colaboração com o Estado, através do Ministério da Educação Nacional, e com as demais corporações, no respeito absoluto pelas superiores exigências do bem comum.
+Art. 2.º A Corporação exerce a sua actividade no plano nacional, em colaboração com o Estado, através do Ministério da Educação Nacional, e com as demais corporações, no respeito absoluto pelas superiores exigências do bem comum.
 
-###### Art. 3.º Fazem parte da Corporação as federações nacionais que tenham por objecto actividades gimno-desportivas e sejam como tais reconhecidas pelo Ministério da Educação Nacional.
+Art. 3.º Fazem parte da Corporação as federações nacionais que tenham por objecto actividades gimno-desportivas e sejam como tais reconhecidas pelo Ministério da Educação Nacional.
 
-###### Art. 4.º São atribuições da Corporação:
+Art. 4.º São atribuições da Corporação:
 
 a) Representar e defender, nomeadamente na Câmara Corporativa e junto do Governo e dos órgãos da Administração, os interesses comuns das respectivas actividades;
 
@@ -112,7 +116,7 @@ g) Tentar a conciliação nas controvérsias entre os organismos incorporados, q
 
 h) Conhecer, nos casos e termos a definir no respectivo regimento, dos recursos interpostos de decisões disciplinares dos organismos incorporados.
 
-###### Art. 5.º São órgãos da Corporação:
+Art. 5.º São órgãos da Corporação:
 
 a) O conselho;
 
@@ -120,11 +124,11 @@ b) A direcção;
 
 c) A junta disciplinar.
 
-###### Art. 6.º - 1. O conselho da Corporação é constituído pelos representantes dos organismos incorporados.
+Art. 6.º - 1. O conselho da Corporação é constituído pelos representantes dos organismos incorporados.
 
 2. Cada organismo terá um representante, escolhido de entre os membros da respectiva direcção.
 
-###### Art. 7.º Compete ao conselho:
+Art. 7.º Compete ao conselho:
 
 a) Eleger o presidente e o vice-presidente da Corporação e os vogais da direcção e da junta disciplinar, bem como os respectivos substitutos;
 
@@ -138,23 +142,23 @@ e) Deliberar sobre quaisquer assuntos que lhe sejam submetidos pela direcção e
 
 f) Deliberar sobre os assuntos que constituam objecto de sessão extraordinária.
 
-###### Art. 8.º - 1. O conselho reunirá ordinàriamente duas vezes por ano, para os fins indicados nas alíneas a) e c) do artigo anterior, e também, de quatro em quatro anos, para o indicado na alínea b) do mesmo artigo.
+Art. 8.º - 1. O conselho reunirá ordinàriamente duas vezes por ano, para os fins indicados nas alíneas a) e c) do artigo anterior, e também, de quatro em quatro anos, para o indicado na alínea b) do mesmo artigo.
 
 2. O conselho reunirá extraordinàriamente quando o presidente da Corporação o convoque, por iniciativa da direcção ou a requerimento de pelo menos metade dos membros do conselho, para tratar do assunto ou assuntos que pela sua especial relevância justifiquem essa convocação.
 
 3. A matéria da alínea d) do artigo precedente tanto pode ser tratada em sessão ordinária como em sessão extraordinária.
 
-###### Art. 9.º - 1. Poderão constituir-se secções do conselho, com a incumbência de dar os pareceres especializados que lhes forem solicitados pelo conselho ou pela direcção ou sugerir as providências que considerarem convenientes.
+Art. 9.º - 1. Poderão constituir-se secções do conselho, com a incumbência de dar os pareceres especializados que lhes forem solicitados pelo conselho ou pela direcção ou sugerir as providências que considerarem convenientes.
 
 2. Compete ao presidente da Corporação determinar, em cada caso, a composição das secções.
 
-###### Art. 10.º Como organismo coordenador das actividades gimno-desportivas dos trabalhadores terá assento no conselho a Fundação Nacional para a Alegria no Trabalho, que participará nas suas reuniões e nas das secções respectivas com voto consultivo.
+Art. 10.º Como organismo coordenador das actividades gimno-desportivas dos trabalhadores terá assento no conselho a Fundação Nacional para a Alegria no Trabalho, que participará nas suas reuniões e nas das secções respectivas com voto consultivo.
 
-###### Art. 11.º - 1. A direcção da Corporação é constituída por um presidente e um vice-presidente, que são, respectivamente, o presidente e o vice-presidente da Corporação, e por três vogais, todos eleitos de entre os membros do conselho.
+Art. 11.º - 1. A direcção da Corporação é constituída por um presidente e um vice-presidente, que são, respectivamente, o presidente e o vice-presidente da Corporação, e por três vogais, todos eleitos de entre os membros do conselho.
 
 2. O vice-presidente coadjuva o presidente e substitui-o nas suas faltas ou impedimentos.
 
-###### Art. 12.º Compete ao presidente da Corporação:
+Art. 12.º Compete ao presidente da Corporação:
 
 a) Representar a Corporação em juízo ou fora dele;
 
@@ -168,7 +172,7 @@ e) Velar pela observância das leis e regulamentos e das determinações dimanad
 
 f) Zelar por que a Corporação exerça a função nacional que lhe é própria.
 
-###### Art. 13.º Compete à direcção:
+Art. 13.º Compete à direcção:
 
 a) Dar execução às deliberações do conselho;
 
@@ -186,26 +190,26 @@ g) Instalar e dirigir os serviços da Corporação;
 
 h) Tomar as demais deliberações e providências que entrem nas atribuições da Corporação e não sejam da competência dos restantes órgãos.
 
-###### Art. 14.º A junta disciplinar é constituída por um juiz dos tribunais superiores designado pelo Conselho Corporativo, o qual presidirá, e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes dos organismos incorporados que sejam, na sua maioria, licenciados em Direito.
+Art. 14.º A junta disciplinar é constituída por um juiz dos tribunais superiores designado pelo Conselho Corporativo, o qual presidirá, e por quatro vogais eleitos pelo conselho da Corporação de entre dirigentes dos organismos incorporados que sejam, na sua maioria, licenciados em Direito.
 
-###### Art. 15.º Compete à junta disciplinar exercer as atribuições da Corporação definidas na alínea h) do artigo 4.º
+Art. 15.º Compete à junta disciplinar exercer as atribuições da Corporação definidas na alínea h) do artigo 4.º
 
-###### Art. 16.º - 1. O mandato dos membros do conselho, da direcção e da junta disciplinar tem a duração de um ano.
+Art. 16.º - 1. O mandato dos membros do conselho, da direcção e da junta disciplinar tem a duração de um ano.
 
 2. O mandato continuará em vigor até ao termo deste prazo, ainda que, entretanto, o titular tenha deixado de possuir a qualidade de dirigente gimno-desportivo exigida como pressuposto da sua eleição; mas não poderá ser reeleito se no momento da reeleição a não possuir de novo.
 
-###### Art. 17.º - 1. A cada membro efectivo do conselho, da direcção e da junta disciplinar corresponde um substituto, escolhido nos mesmos termos, o qual fará as vezes do primeiro na sua falta ou impedimento.
+Art. 17.º - 1. A cada membro efectivo do conselho, da direcção e da junta disciplinar corresponde um substituto, escolhido nos mesmos termos, o qual fará as vezes do primeiro na sua falta ou impedimento.
 
 2. Quanto ao substituto do presidente da Corporação, limitar-se-á a substituí-lo como membro do conselho, porque as demais funções, incluindo a presidência deste, incumbirão ao vice-presidente.
 
-###### Art. 18.º Constituem receitas da Corporação as contribuições dos organismos incorporados, bem como quaisquer outras receitas que sejam previstas no respectivo regimento.
+Art. 18.º Constituem receitas da Corporação as contribuições dos organismos incorporados, bem como quaisquer outras receitas que sejam previstas no respectivo regimento.
 
-###### Art. 19.º - 1. Antes de a Corporação dar início ao seu funcionamento, e em vista a esse início, os organismos nela incorporados apresentarão, dentro de seis meses, no Ministério da Educação Nacional, o seu pedido de inscrição, com a indicação dos representantes que se propõem designar para o conselho da Corporação e respectivos substitutos.
+Art. 19.º - 1. Antes de a Corporação dar início ao seu funcionamento, e em vista a esse início, os organismos nela incorporados apresentarão, dentro de seis meses, no Ministério da Educação Nacional, o seu pedido de inscrição, com a indicação dos representantes que se propõem designar para o conselho da Corporação e respectivos substitutos.
 
 2. De entre esses representantes designará o Ministério da Educação Nacional, nos três meses seguintes, uma comissão para proceder às diligências necessárias à entrada em funcionamento da Corporação.
 
-###### Art. 20.º O regimento da Corporação será elaborado por forma a poder ser aprovado, dentro de seis meses, a partir da constituição da comissão referida no artigo anterior, pelo Ministro das Corporações e Previdência Social, com o parecer favorável do Ministro da Educação Nacional e resolução do Conselho Corporativo, nos termos da base XIII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331).
+Art. 20.º O regimento da Corporação será elaborado por forma a poder ser aprovado, dentro de seis meses, a partir da constituição da comissão referida no artigo anterior, pelo Ministro das Corporações e Previdência Social, com o parecer favorável do Ministro da Educação Nacional e resolução do Conselho Corporativo, nos termos da base XIII da [Lei n.º 2086](https://diariodarepublica.pt/dr/detalhe/lei/2086-1956-232331).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo de República, 23 de Setembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José João Gonçalves de Proença.

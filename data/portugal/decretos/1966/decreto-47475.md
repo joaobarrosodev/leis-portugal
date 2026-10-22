@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47475-1966-488102
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c025295d5f58e2c3f65aa486af17a333472abec2b5d7f7e204e4a4da12ebb54d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 90e7e63c09f7d737cd95fd3afa8e6e4f57d89b9146591c70b93ec96b7eb497d8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:53Z'
   warnings: []
   errors: []
 ---
@@ -86,9 +90,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O regime do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, passa a aplicar-se às companhias concessionárias de transportes aéreos, a partir de 1 de Janeiro de 1967, com as seguintes alterações:
+Artigo único. O regime do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, passa a aplicar-se às companhias concessionárias de transportes aéreos, a partir de 1 de Janeiro de 1967, com as seguintes alterações:
 
-###### Art. 24.º - 1. A entidade patronal, salva estipulação em contrário, pode transferir o trabalhador para outro local de trabalho, devendo atender, sempre que possível, às conveniências daquele.
+Art. 24.º - 1. A entidade patronal, salva estipulação em contrário, pode transferir o trabalhador para outro local de trabalho, devendo atender, sempre que possível, às conveniências daquele.
 
 2. O trabalhador tem direito a rescindir o contrato desde que prove que a transferência lhe causa grave prejuízo funcional.
 
@@ -98,13 +102,13 @@ O trabalhador nestas condições tem direito à indemnização equivalente a 50 
 
 ...
 
-###### Art. 29.º - 1. Sempre que o justifiquem as especiais condições de trabalho, é lícito elevar até ao dobro os limites fixados nos n.os 1 e 2 do artigo anterior.
+Art. 29.º - 1. Sempre que o justifiquem as especiais condições de trabalho, é lícito elevar até ao dobro os limites fixados nos n.os 1 e 2 do artigo anterior.
 
 2. ...
 
 ...
 
-###### Art. 44.º - 1. Nos contratos sem prazo haverá sempre um período experimental de quatro meses, salvo se outra coisa for ou estiver estipulada por escrito ou em convenção colectiva.
+Art. 44.º - 1. Nos contratos sem prazo haverá sempre um período experimental de quatro meses, salvo se outra coisa for ou estiver estipulada por escrito ou em convenção colectiva.
 
 2. ...
 
@@ -116,7 +120,7 @@ O trabalhador nestas condições tem direito à indemnização equivalente a 50 
 
 ...
 
-###### Art. 51.º - 1. ...
+Art. 51.º - 1. ...
 
 2. Sendo o trabalho prestado no regime de turnos, estes devem ser organizados de modo que os trabalhadores de cada turno tenham, em sete dias, um dia de descanso, que, no máximo de quatro em quatro meses, deve coincidir com o domingo.
 
@@ -124,7 +128,7 @@ O trabalhador nestas condições tem direito à indemnização equivalente a 50 
 
 ...
 
-###### Art. 60.º - 1. ...
+Art. 60.º - 1. ...
 
 2. Não havendo este acordo, compete à entidade patronal fixar a época de férias, de harmonia com as conveniências de serviço, da qual dará conhecimento ao trabalhador com antecedência razoável, nunca inferior a seis dias.
 
@@ -136,11 +140,11 @@ O trabalhador nestas condições tem direito à indemnização equivalente a 50 
 
 ...
 
-###### Art. 62.º A retribuição aos trabalhadores durante as férias não pode ser inferior à que perceberiam se estivessem efectivamente em serviço e deverá ser paga, quando a pedido daqueles, antes do seu início.
+Art. 62.º A retribuição aos trabalhadores durante as férias não pode ser inferior à que perceberiam se estivessem efectivamente em serviço e deverá ser paga, quando a pedido daqueles, antes do seu início.
 
 ...
 
-###### Art. 67.º - 1. ...
+Art. 67.º - 1. ...
 
 2. O período de férias não pode, porém, ser reduzido a menos de metade do fixado no artigo 57.º
 
@@ -150,7 +154,7 @@ O trabalhador nestas condições tem direito à indemnização equivalente a 50 
 
 ...
 
-###### Art. 93.º - 1. ...
+Art. 93.º - 1. ...
 
 2. ...
 
@@ -166,6 +170,6 @@ e) Aos preços de refeições no local de trabalho, da utilização de telefones
 
 3. Os descontos referidos nas alíneas b), c) e d) do número anterior não podem exceder no seu conjunto um terço da retribuição e o da alínea d) um quinto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

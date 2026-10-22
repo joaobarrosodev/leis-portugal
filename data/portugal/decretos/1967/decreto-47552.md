@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47552-1967-504549
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28c34137f5d3113bbc3ccd59abdf3063005a2de58624caaf32999f8b94ba580b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 417106588c1afe4923803f7bcab02b85dfd538a5de2e2b029cfecf6e7e3d7005
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:535987:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:26Z'
   warnings: []
   errors: []
 ---
@@ -93,8 +101,8 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A redução do imposto de camionagem devido pelos transportes de mercadorias licenciados nos termos do disposto nos artigos 42.º e 43.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, será, no biénio 1967-1968, de 50 por cento e de 20 por cento, respectivamente.
+Artigo único. A redução do imposto de camionagem devido pelos transportes de mercadorias licenciados nos termos do disposto nos artigos 42.º e 43.º do [Decreto n.º 46066](https://diariodarepublica.pt/dr/detalhe/decreto/46066-1964-535987), de 7 de Dezembro de 1964, será, no biénio 1967-1968, de 50 por cento e de 20 por cento, respectivamente.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46177-1965-239185
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-02-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:44:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7e8e9fae8543b44e25a4e4f5f343c7cf599b50fe1e6db679d77ee26ba2aac387
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 774c5acba903c873621a9f88efb606cc3d1729d0d786ae1cb20a0cdf5d995744
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:44:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 8
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:44:06Z'
   warnings: []
   errors: []
 ---
@@ -102,13 +106,13 @@ Em contrapartida, para assegurar o funcionamento da Administração do Porto de 
 
 4. A Administração do Porto de Díli será constituída pelos representantes das entidades estaduais e privadas ligadas às actividades portuárias da província e procederá, sob a orientação do seu presidente, à apreciação e aprovação dos planos gerais de actividade da Comissão Administrativa, bem como à distribuição da verba global que lhe estiver atribuída, distribuição esta elaborada com o objectivo de se obter um contrôle administrativo real, por forma a impedir que seja excedida a verba inscrita no orçamento da província para as despesas com a administração portuária.
 
-**O presidente da Comissão Administrativa assegurará todos os actos da administração, dentro dos planos gerais aprovados superiormente.**
+O presidente da Comissão Administrativa assegurará todos os actos da administração, dentro dos planos gerais aprovados superiormente.
 
 5. Os serviços portuários, sob a directa responsabilidade do presidente da Comissão Administrativa, darão execução às deliberações da mesma Comissão, assegurando a conveniente exploração portuária, pelo que serão repartidos pelas seguintes secções:
 
-#### Secção Técnica de Estudos e Obras.
+Secção Técnica de Estudos e Obras.
 
-#### Secção Técnica de Exploração.
+Secção Técnica de Exploração.
 
 #### Secção Administrativa.
 
@@ -128,19 +132,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição 
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º É criada a Administração do Porto de Díli, que tem como órgão executivo a Comissão Administrativa respectiva, que superintende na administração do porto, sob a orientação e fiscalização do governador da província de Timor.
+Artigo 1.º É criada a Administração do Porto de Díli, que tem como órgão executivo a Comissão Administrativa respectiva, que superintende na administração do porto, sob a orientação e fiscalização do governador da província de Timor.
 
 § único. Quando o movimento do porto e o volume das receitas o justifiquem, poderá ser concedida à Administração do Porto de Díli autonomia administrativa e financeira.
 
-###### Art. 2.º A área de jurisdição do porto de Díli é limitada a norte por uma linha passando pela chamada «casa do Árabe», em Luso-Mata, e pela ponta de Fatu-Cama e a sul pela costa e pelos limites das zonas terresters necessárias à exploração comercial.
+Art. 2.º A área de jurisdição do porto de Díli é limitada a norte por uma linha passando pela chamada «casa do Árabe», em Luso-Mata, e pela ponta de Fatu-Cama e a sul pela costa e pelos limites das zonas terresters necessárias à exploração comercial.
 
 Compreende o porto exterior e o porto interior, este último limitado a norte por uma linha passando pelo farol e pelo recife de coral que lhe serve de protecção.
 
 Abrange, portanto, as zonas terrestres e marítimas já mencionadas e as que igualmente se mostrarem necessárias para a execução e conservação das obras do porto, definidas e delimitadas nos planos aprovados superiormente.
 
-###### Art. 3.º A exploração comercial do porto de Díli, dentro dos limites que o definem, só pode ser efectuada pela Administração do Porto de Díli, ficando assim interdita, dentro daqueles limites, toda e qualquer actividade, individual ou colectiva, que se relacione com o manuseamento de carga, carga e descarga de navios e todas as outras operações atribuídas à exploração comercial do porto.
+Art. 3.º A exploração comercial do porto de Díli, dentro dos limites que o definem, só pode ser efectuada pela Administração do Porto de Díli, ficando assim interdita, dentro daqueles limites, toda e qualquer actividade, individual ou colectiva, que se relacione com o manuseamento de carga, carga e descarga de navios e todas as outras operações atribuídas à exploração comercial do porto.
 
-###### Art. 4.º Compete à Administração do Porto:
+Art. 4.º Compete à Administração do Porto:
 
 a) A administração e exploração do porto de Díli;
 
@@ -164,27 +168,27 @@ i) Propor ao Governo da província a realização, nas áreas da sua jurisdiçã
 
 § 2.º No caso de divergência entre a Administração do Porto e as autoridades marítimas ou aduaneiras, poderão estas recorrer para o Governo da província de qualquer disposição que entendam afectar o exercício das suas jurisdições, suspendendo entretanto a Administração do Porto a execução das obras, se tal for solicitado por aquelas autoridades.
 
-###### Art. 5.º É obrigatória, para todos os navios mercantes que demandem o porto de Díli, a acostagem à ponte-cais e a sua utilização para todas as operações, salvo casos em que a Administração do Porto reconheça a inconveniência de tal acostagem.
+Art. 5.º É obrigatória, para todos os navios mercantes que demandem o porto de Díli, a acostagem à ponte-cais e a sua utilização para todas as operações, salvo casos em que a Administração do Porto reconheça a inconveniência de tal acostagem.
 
-###### Art. 6.º No orçamento da província será considerado, na despesa, um capítulo designado por «Administração do Porto de Díli».
+Art. 6.º No orçamento da província será considerado, na despesa, um capítulo designado por «Administração do Porto de Díli».
 
-###### Art. 7.º A Administração do Porto poderá exigir de todos os usuários os elementos estatísticos relativos a actividades singulares exercidas na sua jurisdição, cujo conhecimento interessa para o cômputo da actividade geral dos portos da província.
+Art. 7.º A Administração do Porto poderá exigir de todos os usuários os elementos estatísticos relativos a actividades singulares exercidas na sua jurisdição, cujo conhecimento interessa para o cômputo da actividade geral dos portos da província.
 
-###### Art. 8.º Enquanto se mantiver a administração sem autonomia, todos os rendimentos cobrados, ligados à exploração do porto e armazenamento das mercadorias, continuam a constituir receita do Estado.
+Art. 8.º Enquanto se mantiver a administração sem autonomia, todos os rendimentos cobrados, ligados à exploração do porto e armazenamento das mercadorias, continuam a constituir receita do Estado.
 
-###### Art. 9.º São órgãos de administração, direcção e execução da Administração do Porto de Díli:
+Art. 9.º São órgãos de administração, direcção e execução da Administração do Porto de Díli:
 
 A Administração.
 
 A Comissão Administrativa.
 
-**O presidente da Comissão Administrativa, como administrador-delegado.**
+O presidente da Comissão Administrativa, como administrador-delegado.
 
 Os serviços portuários.
 
 ### CAPÍTULO II — Da Administração do Porto
 
-###### Art. 10.º A Administração do Porto é o órgão superior de administração, a quem compete, nomeadamente:
+Art. 10.º A Administração do Porto é o órgão superior de administração, a quem compete, nomeadamente:
 
 1.º Apreciar o orçamento elaborado pela Comissão Admitrativa, de acordo com a dotação consignadada no orçamento da província, para o submeter à aprovação do Governo de Timor;
 
@@ -206,7 +210,7 @@ e) As questões de portos que lhe sejam apresentadas por qualquer dos seus membr
 
 5.º Dar parecer sobre propostas de nomeação e demissão de pessoal, a submeter à aprovação superior.
 
-###### Art. 11.º A Administração do Porto é constituída pelas seguintes entidades:
+Art. 11.º A Administração do Porto é constituída pelas seguintes entidades:
 
 a) Director do porto, que é também o presidente da Comissão Administrativa e que será um engenheiro civil especialista em portos e exploração portuária;
 
@@ -230,7 +234,7 @@ f) Um representante da Associação Agrícola e Industrial de Timor escolhido pe
 
 § 5.º Servirá de secretário, sem voto, o chefe da Secção Administrativa, que lavrará as actas das sessões, para serem lidas e apreciadas impreterìvelmente na sessão imediata. Sempre que a Administração o julgar conveniente, as actas poderão ser aprovadas em minuta logo a seguir à sessão.
 
-###### Art. 12.º A Administração do Porto de Díli reúne obrigatòriamente, em sessões ordinárias, duas vezes por ano, sendo uma para apreciar o orçamento e outra para votar as contas de gerência, a propor superiormente.
+Art. 12.º A Administração do Porto de Díli reúne obrigatòriamente, em sessões ordinárias, duas vezes por ano, sendo uma para apreciar o orçamento e outra para votar as contas de gerência, a propor superiormente.
 
 Além destas, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais, para os outros fins designados no artigo 10.º ou ainda com qualquer outro objectivo prèviamente estabelecido na ordem do dia.
 
@@ -242,15 +246,15 @@ Além destas, terá as reuniões extraordinárias que forem determinadas pelo se
 
 § 4.º De cada sessão lavrar-se-á acta, em livro especialmente destinado a esse fim, a qual será assinada pelo presidente e pelo secretário e submetida à discussão e aprovação da Administração na reunião seguinte.
 
-###### Art. 13.º Nos avisos convocatórios das reuniões serão indicados os assuntos a tratar.
+Art. 13.º Nos avisos convocatórios das reuniões serão indicados os assuntos a tratar.
 
 § único. Antes da ordem do dia poderão os vogais pedir esclarecimentos ou apresentar propostas, devendo estas ser incluídas na ordem do dia das sessões ulteriores, salvo quando tratem de assuntos urgentes e como tais reconhecidos pela maioria dos vogais presentes, caso em que a discussão será imediata.
 
-###### Art. 14.º Os membros da Administração do Porto de Díli receberão a gratificação de 150$00 por cada sessão a que assistam, não podendo, porém, receber mais de 300$00 em cada mês.
+Art. 14.º Os membros da Administração do Porto de Díli receberão a gratificação de 150$00 por cada sessão a que assistam, não podendo, porém, receber mais de 300$00 em cada mês.
 
 ### CAPÍTULO III — Da Comissão Administrativa
 
-###### Art. 15.º A Comissão Administrativa é o órgão da Administração que superintende na administração portuária e na execução de todas as deliberações ou determinações do Governo, competindo-lhe nomeadamente:
+Art. 15.º A Comissão Administrativa é o órgão da Administração que superintende na administração portuária e na execução de todas as deliberações ou determinações do Governo, competindo-lhe nomeadamente:
 
 1.º Promover a elaboração de estudos, projectos e planos de instalação, melhoramento ou desenvolvimento do porto;
 
@@ -294,7 +298,7 @@ Além destas, terá as reuniões extraordinárias que forem determinadas pelo se
 
 21.º Propor a admissão de pessoal não assalariado.
 
-###### Art. 16.º Para maior eficiência dos serviços, fica a Comissão Administrativa autorizada:
+Art. 16.º Para maior eficiência dos serviços, fica a Comissão Administrativa autorizada:
 
 a) A propor o contrato ou a assalariar, nas condições previstas neste decreto, o pessoal técnico, auxiliar, operário, marítimo e trabalhador que for indispensável para os serviços de exploração, estudos, fiscalização de obras, guardas das instalações e outros serviços do porto;
 
@@ -306,7 +310,7 @@ d) A prestar, dentro e fora da sua área de jurisdição, serviço marítimo de 
 
 e) A executar fora das horas normais de trabalho, sempre que as circunstâncias o exijam, trabalhos sujeitos às marés e serviços inerentes à exploração comercial do porto ou outros cujos encargos tenham compensação em receitas provenientes de adicionais sobre tarifas; a execução e remuneração de trabalhos extraordinários, fora dos casos previstos nesta alínea, se não estiver permitida por lei, depende de autorização superior.
 
-###### Art. 17.º A Comissão Administrativa é constituída pelo director dos portos, que presidirá, e pelos dois vogais: chefe da Repartição Provincial dos Serviços de Marinha e chefe da Repartição Provincial dos Serviços de Alfândegas.
+Art. 17.º A Comissão Administrativa é constituída pelo director dos portos, que presidirá, e pelos dois vogais: chefe da Repartição Provincial dos Serviços de Marinha e chefe da Repartição Provincial dos Serviços de Alfândegas.
 
 É seu secretário, sem voto, o chefe da Secção Administrativa, a quem compete lavrar as actas das sessões.
 
@@ -314,7 +318,7 @@ e) A executar fora das horas normais de trabalho, sempre que as circunstâncias 
 
 § 2.º Quando não haja director dos portos será seu substituto o chefe da Repartição Provincial dos Serviços de Obras Públicas, Portos e Transportes.
 
-###### Art. 18.º A Comissão Administrativa reúne-se obrigatòriamente em duas sessões ordinárias por mês, em dia e hora a fixar pela mesma Comissão. Além destas, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais.
+Art. 18.º A Comissão Administrativa reúne-se obrigatòriamente em duas sessões ordinárias por mês, em dia e hora a fixar pela mesma Comissão. Além destas, terá as reuniões extraordinárias que forem determinadas pelo seu presidente ou requeridas pela maioria dos vogais.
 
 § 1.º As reuniões são convocadas pelo presidente e não são públicas.
 
@@ -326,17 +330,17 @@ e) A executar fora das horas normais de trabalho, sempre que as circunstâncias 
 
 § 5.º Antes da ordem do dia poderão os vogais pedir esclarecimentos ou apreciar propostas, devendo estas ser incluídas na ordem do dia das sessões ulteriores, salvo quando traem de assuntos urgentes e como tais reconhecidos pela maioria dos vogais presentes, caso em que a discussão será imediata.
 
-###### Art. 19.º Compete aos membros da Comissão Administrativa o exercício da fiscalização geral de tudo o que disser respeito ao porto de Díli. Qualquer anormalidade será levada ao conhecimento da Comissão, que, para tal fim, será extraordinàriamente convocada, quando necessário.
+Art. 19.º Compete aos membros da Comissão Administrativa o exercício da fiscalização geral de tudo o que disser respeito ao porto de Díli. Qualquer anormalidade será levada ao conhecimento da Comissão, que, para tal fim, será extraordinàriamente convocada, quando necessário.
 
-###### Art. 20.º Quando a Comissão Administrativa se ocupe de assuntos de higiene e sanidade marítima ou terrestre, será convocado para assistir às reuniões e tomar parte na discussão, sem voto, o delegado de saúde de Díli na sua qualidade de guarda-mor de saúde do porto.
+Art. 20.º Quando a Comissão Administrativa se ocupe de assuntos de higiene e sanidade marítima ou terrestre, será convocado para assistir às reuniões e tomar parte na discussão, sem voto, o delegado de saúde de Díli na sua qualidade de guarda-mor de saúde do porto.
 
-###### Art. 21.º Quando a Comissão Administrativa, se ocupe de assuntos jurídicos, será solicitado para assistir às sessões e para tomar parte na discussão, sem voto, o delegado do procurador da República.
+Art. 21.º Quando a Comissão Administrativa, se ocupe de assuntos jurídicos, será solicitado para assistir às sessões e para tomar parte na discussão, sem voto, o delegado do procurador da República.
 
-###### Art. 22.º Em qualquer altura poderá o governador da província, em diploma legislativo, determinar a representação na Comissão de outros interesses ligados aos portos de Timor.
+Art. 22.º Em qualquer altura poderá o governador da província, em diploma legislativo, determinar a representação na Comissão de outros interesses ligados aos portos de Timor.
 
-###### Art. 23.º A falta de comparência dos membros da Comissão a duas sessões ordinárias consecutivas, sem motivo justificado, deve ser participada superiormente.
+Art. 23.º A falta de comparência dos membros da Comissão a duas sessões ordinárias consecutivas, sem motivo justificado, deve ser participada superiormente.
 
-###### Art. 24.º Os membros da Comissão Administrativa receberão as seguintes gratificações:
+Art. 24.º Os membros da Comissão Administrativa receberão as seguintes gratificações:
 
 Presidente, como administrador-delegado, por mês ... 1250$00
 
@@ -344,11 +348,11 @@ Vogais da Comissão, por sessão a que assistam, não podendo receber mais de 45
 
 Secretário da Comissão, por mês ... 200$00
 
-###### Art. 25.º Os membros da Comissão Administrativa são, civil e criminalmente, responsáveis pela transgressão das leis e regulamentos, pela aplicação de dinheiros diversa daquela que estiver autorizada e aprovada e pela alteração dos planos de obras ou melhoramentos, sem a sanção superior.
+Art. 25.º Os membros da Comissão Administrativa são, civil e criminalmente, responsáveis pela transgressão das leis e regulamentos, pela aplicação de dinheiros diversa daquela que estiver autorizada e aprovada e pela alteração dos planos de obras ou melhoramentos, sem a sanção superior.
 
 ### CAPÍTULO IV — Do presidente da Comissão Administrativa
 
-###### Art. 26.º O presidente da Comissão Administrativa é o administrador-delegado da Administração e, simultâneamente, o director do porto, a quem compete nomeadamente:
+Art. 26.º O presidente da Comissão Administrativa é o administrador-delegado da Administração e, simultâneamente, o director do porto, a quem compete nomeadamente:
 
 a) Presidir às sessões da Comissão Administrativa, dirigindo os trabalhos, e participar nas da Administração do Porto;
 
@@ -388,7 +392,7 @@ r) Elaborar o relatório anual sobre as obras realizadas e das contas de gerênc
 
 ### CAPÍTULO V — Dos serviços portuários e do pessoal
 
-###### Art. 27.º Os serviços portuários da Administração do Porto de Díli são os órgãos executivos que se encontram na dependência directa do presidente da Comissão Administrativa, que é também o director do porto, e classificam-se e distribuem-se da forma seguinte:
+Art. 27.º Os serviços portuários da Administração do Porto de Díli são os órgãos executivos que se encontram na dependência directa do presidente da Comissão Administrativa, que é também o director do porto, e classificam-se e distribuem-se da forma seguinte:
 
 1) Secção Técnica de Estudos e Obras:
 
@@ -436,29 +440,29 @@ Correspondência, estatística, contabilidade, arquivo e aquisições;
 
 Armazéns de materiais.
 
-###### Art. 28.º O âmbito de cada serviço será definido no regulamento da Administração do Porto, a aprovar pelo governador da província.
+Art. 28.º O âmbito de cada serviço será definido no regulamento da Administração do Porto, a aprovar pelo governador da província.
 
-###### Art. 29.º Os serviços são constituídos por pessoal com categorias equiparadas às constantes do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, com as alterações posteriormente aprovadas.
+Art. 29.º Os serviços são constituídos por pessoal com categorias equiparadas às constantes do artigo 91.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, com as alterações posteriormente aprovadas.
 
 § 1.º São desde já estabelecidas as equiparações das categorias que se indicam no mapa anexo.
 
 § 2.º O restante pessoal da Administração, não referido no parágrafo anterior, será classificado e equiparado às letras do Estatuto do Funcionalismo Ultramarino que competem aos funcionários ultramarinos exercendo as mesmas ou semelhantes funções.
 
-###### Art. 30.º O pessoal da Administração do Porto de Díli terá os deveres e direitos dos funcionários previstos no Estatuto do Funcionalismo Ultramarino, sem prejuízo daqueles que, pertencendo a outros cargos, prestem serviço em comissão.
+Art. 30.º O pessoal da Administração do Porto de Díli terá os deveres e direitos dos funcionários previstos no Estatuto do Funcionalismo Ultramarino, sem prejuízo daqueles que, pertencendo a outros cargos, prestem serviço em comissão.
 
-###### Art. 31.º O presidente da Comissão Administrativa é nomeado pelo Ministro do Ultramar de entre os engenheiros-chefes dos quadros do ultramar ou de entre engenheiros especializados em portos e trabalhos marítimos estranhos àqueles quadros.
+Art. 31.º O presidente da Comissão Administrativa é nomeado pelo Ministro do Ultramar de entre os engenheiros-chefes dos quadros do ultramar ou de entre engenheiros especializados em portos e trabalhos marítimos estranhos àqueles quadros.
 
-###### Art. 32.º Os lugares de chefe das secções técnicas serão providos por agentes técnicos de engenharia. O lugar de chefe dos serviços técnicos de exploração poderá, porém, ser provido por indivíduo sem o referido curso, mas de reconhecida competência em exploração de portos.
+Art. 32.º Os lugares de chefe das secções técnicas serão providos por agentes técnicos de engenharia. O lugar de chefe dos serviços técnicos de exploração poderá, porém, ser provido por indivíduo sem o referido curso, mas de reconhecida competência em exploração de portos.
 
-###### Art. 33.º O lugar de chefe da Secção Administrativa será provido por diplomado num instituto comercial, ou equivalente, de reconhecida competência administrativa.
+Art. 33.º O lugar de chefe da Secção Administrativa será provido por diplomado num instituto comercial, ou equivalente, de reconhecida competência administrativa.
 
-###### Art. 34.º Até 30 dias após a publicação do presente diploma, o Governo da província de Timor, sob proposta da Comissão Administrativa, fará publicar diploma legislativo fixando o quadro privativo e os quadros complementares da Administração do Porto, estabelecendo as condições de admissão, promoção e demais regras do seu regime jurídico, com observância das categorias enumeradas no mapa anexo e dos princípios constantes do Estatuto do Funcionalismo Ultramarino. Os quadros só serão preenchidos de acordo com as necessidades dos serviços, podendo os funcionários e agentes desempenhar mais de uma função.
+Art. 34.º Até 30 dias após a publicação do presente diploma, o Governo da província de Timor, sob proposta da Comissão Administrativa, fará publicar diploma legislativo fixando o quadro privativo e os quadros complementares da Administração do Porto, estabelecendo as condições de admissão, promoção e demais regras do seu regime jurídico, com observância das categorias enumeradas no mapa anexo e dos princípios constantes do Estatuto do Funcionalismo Ultramarino. Os quadros só serão preenchidos de acordo com as necessidades dos serviços, podendo os funcionários e agentes desempenhar mais de uma função.
 
 § 1.º Sendo necessário para a execução dos programas de trabalhos aprovados, a Comissão Administrativa poderá assalariar pessoal fora do quadro até às verbas consignadas, para o efeito, nos seus orçamentos.
 
 § 2.º A Comissão Administrativa poderá admitir pessoal, em regime de prestação de serviços, para ocorrer a necessidades urgentes e temporárias de serviço, devidamente especificadas e estritamente pelo tempo em que elas se verifiquem.
 
-###### Art. 35.º Na falta do engenheiro director do porto é seu substituto, para todos os efeitos, o engenheiro chefe da Repartição Provincial dos Serviços de Obras Públicas, Portos e Transportes.
+Art. 35.º Na falta do engenheiro director do porto é seu substituto, para todos os efeitos, o engenheiro chefe da Repartição Provincial dos Serviços de Obras Públicas, Portos e Transportes.
 
 § 1.º Enquanto a Administração do Porto não disponha de oficinas próprias, prestarão a necessária assistência aos serviços portuários as oficinas da Repartição Provincial dos Serviços de Obras Públicas, Portos e Transportes.
 
@@ -468,7 +472,7 @@ Armazéns de materiais.
 
 ### CAPÍTULO VI — Das receitas, despesas e orçamento
 
-###### Art. 36.º As receitas da Administração do Porto de Díli são classificadas em ordinárias e extraordinárias e, nos termos deste decreto e enquanto não for concedida autonomia administrativa e financeira, continuam a constituir receita do Estado.
+Art. 36.º As receitas da Administração do Porto de Díli são classificadas em ordinárias e extraordinárias e, nos termos deste decreto e enquanto não for concedida autonomia administrativa e financeira, continuam a constituir receita do Estado.
 
 § 1.º Constituem receitas ordinárias:
 
@@ -496,35 +500,35 @@ Armazéns de materiais.
 
 2.º O produto de indemnização por avarias ou prejuízos.
 
-###### Art. 37.º As receitas serão cobradas pela caixa do Estado, mediante guia própria passada pelos serviços da Administração do Porto de Díli.
+Art. 37.º As receitas serão cobradas pela caixa do Estado, mediante guia própria passada pelos serviços da Administração do Porto de Díli.
 
-###### Art. 38.º É aplicável o processo das execuções fiscais às importâncias em dívida à Administração do Porto de Díli, sendo título exequível suficiente a certidão da acta da Comissão Administrativa que contenha a deliberação de mandar executar, com indicação do devedor, do quantitativo da dívida e da sua causa.
+Art. 38.º É aplicável o processo das execuções fiscais às importâncias em dívida à Administração do Porto de Díli, sendo título exequível suficiente a certidão da acta da Comissão Administrativa que contenha a deliberação de mandar executar, com indicação do devedor, do quantitativo da dívida e da sua causa.
 
-###### Art. 39.º A Administração tem por base um orçamento interno, elaborado para cada ano económico, não podendo a despesa exceder a verba designada, no capítulo «Despesas» do orçamento da província, por «Administração do Porto de Díli», salvo se superiormente forem autorizados os reforços legais.
+Art. 39.º A Administração tem por base um orçamento interno, elaborado para cada ano económico, não podendo a despesa exceder a verba designada, no capítulo «Despesas» do orçamento da província, por «Administração do Porto de Díli», salvo se superiormente forem autorizados os reforços legais.
 
-###### Art. 40.º Na prestação de contas da Administração do Porto de Díli observar-se-á o disposto na lei geral administrativa.
+Art. 40.º Na prestação de contas da Administração do Porto de Díli observar-se-á o disposto na lei geral administrativa.
 
 ### CAPÍTULO VII — Disposições finais
 
-###### Art. 41.º O presente diploma entra em vigor 30 dias após a publicação no Boletim Oficial de Timor.
+Art. 41.º O presente diploma entra em vigor 30 dias após a publicação no Boletim Oficial de Timor.
 
-###### Art. 42.º A brigada de estudos e construção de portos será oportunamente extinta sob proposta do Governo da província, transitando para a Administração do Porto de Díli todos os bens móveis e imóveis desse organismo, contas de depósito e saldos orçamentais.
+Art. 42.º A brigada de estudos e construção de portos será oportunamente extinta sob proposta do Governo da província, transitando para a Administração do Porto de Díli todos os bens móveis e imóveis desse organismo, contas de depósito e saldos orçamentais.
 
-###### Art. 43.º O pessoal da actual brigada de estudos e construção de portos, quando esta for extinta, será colocado nos quadros da Administração do Porto de Díli, em lugar de categoria equivalente, desde que satisfaça às condições legais de admissão.
+Art. 43.º O pessoal da actual brigada de estudos e construção de portos, quando esta for extinta, será colocado nos quadros da Administração do Porto de Díli, em lugar de categoria equivalente, desde que satisfaça às condições legais de admissão.
 
 § 1.º Enquanto não for nomeado o presidente da Comissão Administrativa, que é também o director do porto, assumirá interinamente essas funções o engenheiro chefe da brigada de estudos e construção de portos, mantendo os direitos e regalias que tinha no anterior serviço.
 
 § 2.º Enquanto não estiverem fixados os quadros da Administração do Porto, o pessoal referido no corpo deste artigo prestará serviço nas funções que lhe forem determinadas pelo presidente da Comissão Administrativa, mantendo todos os direitos que possuir à data da transição.
 
-###### Art. 44.º A Administração do Porto de Díli estenderá progressivamente a sua actuação aos outros ancoradouros e pequenos portos da província, na medida em que o crescimento de tráfego o justifique, procurando assegurar, quer no aspecto técnico, quer no de exploração, uma eficaz administração portuária.
+Art. 44.º A Administração do Porto de Díli estenderá progressivamente a sua actuação aos outros ancoradouros e pequenos portos da província, na medida em que o crescimento de tráfego o justifique, procurando assegurar, quer no aspecto técnico, quer no de exploração, uma eficaz administração portuária.
 
-###### Art. 45.º Aos funcionários da Administração do Porto de Díli são devidas ajudas de custo, correspondentes à sua categoria, quando deslocados da zona normal de serviço.
+Art. 45.º Aos funcionários da Administração do Porto de Díli são devidas ajudas de custo, correspondentes à sua categoria, quando deslocados da zona normal de serviço.
 
-###### Art. 46.º No prazo de 90 dias após a constituição da Administração do Porto de Díli, o governo da província de Timor, sob proposta desse organismo, fará publicar o respectivo regulamento com as tabelas das tarifas.
+Art. 46.º No prazo de 90 dias após a constituição da Administração do Porto de Díli, o governo da província de Timor, sob proposta desse organismo, fará publicar o respectivo regulamento com as tabelas das tarifas.
 
-###### Art. 47.º No prazo de 30 dias após a entrada em execução do presente diploma, a Comissão Administrativa elaborará e submeterá à aprovação a sua tabela de despesas para os restantes meses do ano económico em curso.
+Art. 47.º No prazo de 30 dias após a entrada em execução do presente diploma, a Comissão Administrativa elaborará e submeterá à aprovação a sua tabela de despesas para os restantes meses do ano económico em curso.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Fevereiro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Augusto Peixoto Correia.
 

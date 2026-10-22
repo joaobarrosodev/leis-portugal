@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47524-1967-505379
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-02-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:55:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 10888e6c32d71e8cc8a19d39ff7a3b66b2a735107b52fa25fe07bc18a3c7f821
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fdf0d689beb46a8258a07a8a326f3ededbec04e91c4eacaea038f99dc1ad4486
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:55:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507848:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:680576:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:55:13Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os encargos emergentes do fornecimento e montagem dos equipamentos mecânicos da descarga de fundo e da tomada de água da albufeira do Roxo, para o qual já foi celebrado contrato entre a Direcção-Geral dos Serviços Hidráulicos e Sociedades Reunidas de Fabricações Metálicas, S. A. R. L. (Sorefame), poderão elevar-se a 2010500$00.
+Artigo único. Os encargos emergentes do fornecimento e montagem dos equipamentos mecânicos da descarga de fundo e da tomada de água da albufeira do Roxo, para o qual já foi celebrado contrato entre a Direcção-Geral dos Serviços Hidráulicos e Sociedades Reunidas de Fabricações Metálicas, S. A. R. L. (Sorefame), poderão elevar-se a 2010500$00.
 
 § único. Este quantitativo fica escalonado do seguinte modo:
 
@@ -104,6 +116,6 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 927500$00 no ano de 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Fevereiro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Eduardo de Arantes e Oliveira.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46990-1966-475773
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 32867a41d8fc3c3acbaedef0c6b16111d96c5c69d68f4a17522bb9acec43d5bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2668c217389ffd26cefe8c238f9d549bc05875d7879d2aa5715a849db1147724
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:45Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +100,21 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Ministro do Ultramar, em nome da província de Cabo Verde, a contrair no Banco de Fomento Nacional um empréstimo de 15000000$00 à taxa de juro de 4 3/4 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro, e amortizável em dez anuidades iguais, vencendo-se a primeira dois anos após a data de entrega dos fundos mutuados ao Governo da província.
+Artigo 1.º É autorizado o Ministro do Ultramar, em nome da província de Cabo Verde, a contrair no Banco de Fomento Nacional um empréstimo de 15000000$00 à taxa de juro de 4 3/4 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro, e amortizável em dez anuidades iguais, vencendo-se a primeira dois anos após a data de entrega dos fundos mutuados ao Governo da província.
 
-###### Art. 2.º É autorizado o Ministro do Ultramar, em nome da província de Cabo Verde, a contrair no Banco Nacional Ultramarino um empréstimo de 15000000$00, em escudos da província, à taxa de juro de 2 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro, e amortizável em doze anuidades iguais, vencendo-se a primeira em 1 de Dezembro de 1970.
+Art. 2.º É autorizado o Ministro do Ultramar, em nome da província de Cabo Verde, a contrair no Banco Nacional Ultramarino um empréstimo de 15000000$00, em escudos da província, à taxa de juro de 2 por cento ao ano, pagável aos semestres, em 1 de Junho e 1 de Dezembro, e amortizável em doze anuidades iguais, vencendo-se a primeira em 1 de Dezembro de 1970.
 
-###### Art. 3.º O produto dos empréstimos referidos nos artigos anteriores será integralmente aplicado na subscrição de 30000 acções da Companhia de Pesca e Congelação de Cabo Verde, S. A. R. L. - Congel, respeitadas as seguintes condições:
+Art. 3.º O produto dos empréstimos referidos nos artigos anteriores será integralmente aplicado na subscrição de 30000 acções da Companhia de Pesca e Congelação de Cabo Verde, S. A. R. L. - Congel, respeitadas as seguintes condições:
 
 a) A Companhia de Pesca e Congelação de Cabo Verde, S. A. R. L. - Congel, procederá à alteração dos seus estatutos, aumentando o capital de 20000000$00 para 50000000$00, sendo este aumento integralmente subscrito pela província de Cabo Verde.
 
 b) A Companhia de Pesca e Congelação de Cabo Verde, S. A. R. L. - Congel, estabelecerá nos seus estatutos que é atribuído às acções subscritas pela província em resultado deste aumento de capital um dividendo, preferencial de 4 por cento.
 
-###### Art. 4.º No orçamento geral da província de Cabo Verde serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com os juros e amortizações destes empréstimos.
+Art. 4.º No orçamento geral da província de Cabo Verde serão inscritas em cada ano as verbas necessárias à liquidação dos encargos com os juros e amortizações destes empréstimos.
 
 § único. Os empréstimos poderão ser representados por títulos emitidos pela província de Cabo Verde.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Maio de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

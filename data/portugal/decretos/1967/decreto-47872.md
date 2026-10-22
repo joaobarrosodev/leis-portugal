@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47872-1967-390056
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dda0b180b5a86fcc7117751044e5d03c478a8b2aef976424718dd07ccd15a036
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2bb591f568aba382ecee0a6533c654d408f426018b8eb7ff0d7cc5bcae24ed84
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:08Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ Nos termos do § 1.º do artigo 150.º da Constituição;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São autorizadas as fábricas de tabacos mencionadas no artigo 1.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, a usar embalagens miniaturas, em dimensões reduzidas do mesmo tipo de invólucro, das embalagens normais dos diversos tipos ou classes de tabacos manipulados, nas quantidades reputadas estritamente necessárias pelo Conselho Técnico da Indústria de Tabacos da província, para efeitos de propaganda em stand em feiras ou exposições.
+Artigo único. São autorizadas as fábricas de tabacos mencionadas no artigo 1.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, a usar embalagens miniaturas, em dimensões reduzidas do mesmo tipo de invólucro, das embalagens normais dos diversos tipos ou classes de tabacos manipulados, nas quantidades reputadas estritamente necessárias pelo Conselho Técnico da Indústria de Tabacos da província, para efeitos de propaganda em stand em feiras ou exposições.
 
 § 1.º As embalagens miniaturas só poderão ser preparadas dentro das fábricas de tabacos e a partir de tabacos manipulados acondicionados em embalagens normais, que, para o efeito, serão desmanchadas, depois de já terem pago todas as imposições e selos devidos.
 
 § 2.º As embalagens miniaturas destinam-se a ofertas, não terão preço de venda e não poderão conter mais de dois charutos, três cigarrilhas e cinco cigarros ou 10 g de tabaco picado ou em fio.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da, República, 30 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

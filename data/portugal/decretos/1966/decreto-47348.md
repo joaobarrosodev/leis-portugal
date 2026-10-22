@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47348-1966-477354
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-11-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa86db5eda159188e9e78782a311804c2b8dc3bfa9f2bede15d7b46eb7cb55f6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eae331711543043b26b71d2d81dc724647d430fa08d5b211f1e032d670b5d22c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:279668:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:32Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Todos os industriais de calçado são obrigados a apor no calçado de seu fabrico as seguintes expressões, em tipo e local bem visíveis:
+Artigo 1.º Todos os industriais de calçado são obrigados a apor no calçado de seu fabrico as seguintes expressões, em tipo e local bem visíveis:
 
 a) Calçado de couro: sempre que o rasto (sola), as gáspeas e os forros sejam inteiramente de couro, e ainda quando exista palmilha de montagem e esta seja também inteiramente de couro; por meio de punção e no rasto;
 
@@ -107,16 +111,16 @@ d) Forros de couro: sempre que, exceptuado o caso da alínea a), os forros sejam
 
 § único. Para efeitos deste artigo, entende-se por «gáspeas» a parte superior e exterior do artigo, da biqueira à calcanheira (calcanhar).
 
-###### Art. 2.º Nos artigos de vestuário, luvas, malas e carteiras e outros artigos de marroquinaria, sempre que fabricados em curtidos, os respectivos industriais são obrigados a apor em toda a sua produção uma etiqueta colada donde conste, além da designação do fabricante, a expressão «Pele genuína», em tipo e local fàcilmente visíveis.
+Art. 2.º Nos artigos de vestuário, luvas, malas e carteiras e outros artigos de marroquinaria, sempre que fabricados em curtidos, os respectivos industriais são obrigados a apor em toda a sua produção uma etiqueta colada donde conste, além da designação do fabricante, a expressão «Pele genuína», em tipo e local fàcilmente visíveis.
 
-###### Art. 3.º Os comerciantes só poderão receber mercadoria que se encontre em conformidade com o disposto nos artigos antecedentes, devendo a sua venda ao público ser efectuada também de acordo com as referidas disposições.
+Art. 3.º Os comerciantes só poderão receber mercadoria que se encontre em conformidade com o disposto nos artigos antecedentes, devendo a sua venda ao público ser efectuada também de acordo com as referidas disposições.
 
-###### Art. 4.º Toda a mercadoria abrangida por este diploma que se encontre à venda ao público deverá ser identificada pela forma anteriormente descrita, no prazo de 180 dias, a contar da data da publicação deste decreto.
+Art. 4.º Toda a mercadoria abrangida por este diploma que se encontre à venda ao público deverá ser identificada pela forma anteriormente descrita, no prazo de 180 dias, a contar da data da publicação deste decreto.
 
-###### Art. 5.º As infracções do disposto neste diploma constituem contravenções puníveis com a pena de multa de 500$00 a 5000$00, agravada para o dobro em caso de reincidência, sem prejuízo das sanções disciplinares aplicáveis nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
+Art. 5.º As infracções do disposto neste diploma constituem contravenções puníveis com a pena de multa de 500$00 a 5000$00, agravada para o dobro em caso de reincidência, sem prejuízo das sanções disciplinares aplicáveis nos termos do [Decreto-Lei n.º 41204](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41204-1957-279668), de 24 de Julho de 1957.
 
-###### Art. 6.º As dúvidas que se suscitem na aplicação deste decreto, bem como os casos omissos, serão resolvidos por despacho do Secretário de Estado do Comércio, ouvida a Junta Nacional dos Produtos Pecuários.
+Art. 6.º As dúvidas que se suscitem na aplicação deste decreto, bem como os casos omissos, serão resolvidos por despacho do Secretário de Estado do Comércio, ouvida a Junta Nacional dos Produtos Pecuários.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Novembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Manuel Alves Machado.

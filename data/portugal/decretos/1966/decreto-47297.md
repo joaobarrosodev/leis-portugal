@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47297-1966-478628
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:53:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86be7b9e57cc5f524b3ec3d104c409d5b4db706d666099d421b1fffcf21d6c62
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 51ba50238307a204bfed49cdc1a2b2d9a0c62c1af1990e8dca473a409fd0e128
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:53:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:53:12Z'
   warnings: []
   errors: []
 ---
@@ -90,19 +90,19 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É extinto no quadro de pilotos dos serviços de marinha da província de Moçambique um lugar de cabo de pilotos e são criados no mesmo quadro os seguintes lugares:
+Artigo 1.º É extinto no quadro de pilotos dos serviços de marinha da província de Moçambique um lugar de cabo de pilotos e são criados no mesmo quadro os seguintes lugares:
 
 Dois de piloto-mor - letra I.
 
 Um de sota-piloto-mor - letra J.
 
-###### Art. 2.º As vagas de piloto-mor são preenchidas de grau em grau hierárquico, por direito de acesso dentro de cada secção de pilotagem.
+Art. 2.º As vagas de piloto-mor são preenchidas de grau em grau hierárquico, por direito de acesso dentro de cada secção de pilotagem.
 
 § único. Nas secções onde não haja sota-piloto-mor a vaga de piloto-mor é preenchida pelo cabo-piloto.
 
-###### Art. 3.º O preenchimento dos lugares referidos no artigo 1.º fica dependente das possibilidades financeiras da província e só se efectuará na medida em que forem sendo orçamentados.
+Art. 3.º O preenchimento dos lugares referidos no artigo 1.º fica dependente das possibilidades financeiras da província e só se efectuará na medida em que forem sendo orçamentados.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

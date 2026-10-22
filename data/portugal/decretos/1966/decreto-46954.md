@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46954-1966-487929
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-04-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:50:29Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 101918aba6734e12e3536d8e5886b1339eadfda27d172aca421857e6ac44eb7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6d3e848f538836eaca7e7baa61fa60cca31cf1bf1bb6d0f4012b5b698d99dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:50:29Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:200596:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:50:29Z'
   warnings: []
   errors: []
 ---
@@ -97,29 +101,29 @@ Usando da faculdade conferida pelo 11.º 3.º do artigo 150.º da Constituição
 
 ### CAPÍTULO I — Da criação e fins da Caixa
 
-###### Artigo 1.º - 1. É criado um instituto de crédito do Estado, com autonomia administrativa e financeira e personalidade jurídica, denominado «Caixa de Crédito da Guiné».
+Artigo 1.º - 1. É criado um instituto de crédito do Estado, com autonomia administrativa e financeira e personalidade jurídica, denominado «Caixa de Crédito da Guiné».
 
 2. A Caixa de Crédito da Guiné passará a designar-se neste diploma, apenas por Caixa.
 
-###### Art. 2.º - 1. A Caixa tem a sua sede na cidade de Bissau e poderá criar delegações nas restantes sedes de concelho ou de circunscrição, desde que o número e importância das operações o justifiquem.
+Art. 2.º - 1. A Caixa tem a sua sede na cidade de Bissau e poderá criar delegações nas restantes sedes de concelho ou de circunscrição, desde que o número e importância das operações o justifiquem.
 
 2. Enquanto não forem criadas as delegações previstas neste artigo, a Caixa será representada nos concelhos ou circunscrições pelos respectivos administradores.
 
-###### Art. 3.º - 1. A Caixa tem por objectivo a concessão de crédito agrícola, pecuário industrial e imobiliário com vista ao desenvolvimento económico-social da Guiné Portuguesa.
+Art. 3.º - 1. A Caixa tem por objectivo a concessão de crédito agrícola, pecuário industrial e imobiliário com vista ao desenvolvimento económico-social da Guiné Portuguesa.
 
 2. Em circunstâncias devidamente justificadas a Caixa poderá financiar a aquisição de máquinas por quaisquer entidades, designadamente associações ou cooperativas, para cedência em regime de aluguer.
 
 3. Se o interesse público o aconselhar, poderá o Governo da província, em diploma legislativo, autorizar a Caixa a efectuar outras operações de crédito, excepto as de crédito comercial, fixando as condições genéricas a que tais operações devam obedecer.
 
-###### Art. 4.º As operações de crédito realizadas pela Caixa com pessoas singulares ou colectivas revestirão a forma de empréstimo ou de prestação de garantias destinadas a assegurar o cumprimento de obrigações pecuniárias assumidas perante terceiros.
+Art. 4.º As operações de crédito realizadas pela Caixa com pessoas singulares ou colectivas revestirão a forma de empréstimo ou de prestação de garantias destinadas a assegurar o cumprimento de obrigações pecuniárias assumidas perante terceiros.
 
-###### Art. 5.º As operações de crédito poderão revestir modalidades a longo, médio ou curto prazo, conforme as finalidades a que se destinem e dentro dos seguintes limites máximos de duração: longo prazo, até vinte anos; médio prazo, até cinco anos; curto prazo, até um ano, admitindo-se neste caso a renovação por período não superior ao inicial.
+Art. 5.º As operações de crédito poderão revestir modalidades a longo, médio ou curto prazo, conforme as finalidades a que se destinem e dentro dos seguintes limites máximos de duração: longo prazo, até vinte anos; médio prazo, até cinco anos; curto prazo, até um ano, admitindo-se neste caso a renovação por período não superior ao inicial.
 
-###### Art. 6.º O regulamento da Caixa fixará os regimes e condições gerais das operações.
+Art. 6.º O regulamento da Caixa fixará os regimes e condições gerais das operações.
 
-###### Art. 7.º As taxas de juro das operações activas serão fixadas pela administração da Caixa, observadas as prescrições da legislação em vigor e dentro dos limites autorizados pelo Governo da província.
+Art. 7.º As taxas de juro das operações activas serão fixadas pela administração da Caixa, observadas as prescrições da legislação em vigor e dentro dos limites autorizados pelo Governo da província.
 
-###### Art. 8.º - 1. As garantias dos empréstimos serão constituídas conforme a natureza e finalidade das operações e o disposto no regulamento da Caixa por:
+Art. 8.º - 1. As garantias dos empréstimos serão constituídas conforme a natureza e finalidade das operações e o disposto no regulamento da Caixa por:
 
 a) Hipoteca;
 
@@ -139,7 +143,7 @@ f) Aval ou fiança.
 
 ### CAPÍTULO II — Dos fundos próprios e outros recursos financeiros
 
-###### Art. 9.º A Caixa terá os seguintes fundos próprios:
+Art. 9.º A Caixa terá os seguintes fundos próprios:
 
 a) Fundo inicial, constituído por um subsídio do Governo da província;
 
@@ -147,7 +151,7 @@ b) Fundo de dotação integrado pelas verbas anualmente inscritas no orçamento 
 
 c) Fundo de reserva de lucros, constituído pelos saldos positivos de cada exercício, depois de satisfazer as exigências relativas ao fundo de reserva legal e de acordo com o que for determinado em reunião conjunta da direcção e do conselho fiscal.
 
-###### Art. 10.º Para o financiamento das operações compreendidas nos seus objectivos poderá a Caixa, além da utilização dos recursos referidos no artigo anterior:
+Art. 10.º Para o financiamento das operações compreendidas nos seus objectivos poderá a Caixa, além da utilização dos recursos referidos no artigo anterior:
 
 a) Emitir obrigações;
 
@@ -159,71 +163,71 @@ d) Receber quaisquer outros recursos que legalmente lhe possam ser atribuídos.
 
 ### CAPÍTULO III — Da administração da Caixa
 
-###### Art. 11.º A Caixa será administrada por uma direcção, assistida por um conselho fiscal.
+Art. 11.º A Caixa será administrada por uma direcção, assistida por um conselho fiscal.
 
-###### Art. 12.º A direcção compõe-se de um director-gerente e dois vogais, de livre designação do governador da província, competindo ao primeiro a gerência da instituição e, nesta qualidade, a prática de todos os actos de administração para os quais as normas em vigor não exijam a intervenção de, pelo menos, dois directores.
+Art. 12.º A direcção compõe-se de um director-gerente e dois vogais, de livre designação do governador da província, competindo ao primeiro a gerência da instituição e, nesta qualidade, a prática de todos os actos de administração para os quais as normas em vigor não exijam a intervenção de, pelo menos, dois directores.
 
-###### Art. 13.º O conselho fiscal é constituído pelo delegado do procurador da República, pelo chefe dos serviços de Fazenda e contabilidade e por um representante das actividades privadas, livremente escolhido pelo governador.
+Art. 13.º O conselho fiscal é constituído pelo delegado do procurador da República, pelo chefe dos serviços de Fazenda e contabilidade e por um representante das actividades privadas, livremente escolhido pelo governador.
 
-###### Art. 14.º A direcção apresentará anualmente à apreciação do conselho fiscal o orçamento das receitas e despesas para o ano imediato, bem como o relatório e contas da gerência finda.
+Art. 14.º A direcção apresentará anualmente à apreciação do conselho fiscal o orçamento das receitas e despesas para o ano imediato, bem como o relatório e contas da gerência finda.
 
-###### Art. 15.º O director gerente e os vogais da direcção terão direito a remunerações mensais e os membros do conselho fiscal a senhas de presença, conforme vier a ser regulamentado.
+Art. 15.º O director gerente e os vogais da direcção terão direito a remunerações mensais e os membros do conselho fiscal a senhas de presença, conforme vier a ser regulamentado.
 
 ### CAPÍTULO IV — Da emissão de obrigações
 
-###### Art. 16.º A Caixa poderá emitir obrigações amortizáveis por sorteio ou por compra no mercado no prazo máximo de vinte anos, a contar da data da emissão.
+Art. 16.º A Caixa poderá emitir obrigações amortizáveis por sorteio ou por compra no mercado no prazo máximo de vinte anos, a contar da data da emissão.
 
-###### Art. 17.º - 1. A emissão das obrigações será feita por séries globais devidamente autorizadas pelo governador, sobre proposta da direcção da Caixa.
+Art. 17.º - 1. A emissão das obrigações será feita por séries globais devidamente autorizadas pelo governador, sobre proposta da direcção da Caixa.
 
 2. Da proposta deverá sempre constar o número de obrigações a emitir, respectiva taxa de juro e forma de amortização, bem como quaisquer outras condições de emissão.
 
 3. Quando o valor das emissões exceder, no período de um ano, a importância de 5 milhões de escudos, compete ao Ministro do Ultramar conceder a necessária autorização.
 
-###### Art. 18.º - 1. As obrigações serão sempre ao portador, expressas em moeda da província, no valor nominal de 100$00 cada uma, podendo haver títulos de 1, 5, 10, 20, 50 e 100 obrigações.
+Art. 18.º - 1. As obrigações serão sempre ao portador, expressas em moeda da província, no valor nominal de 100$00 cada uma, podendo haver títulos de 1, 5, 10, 20, 50 e 100 obrigações.
 
 2. Os títulos em circulação poderão ser trocados, à custa do portador, por títulos de maior ou menor número de obrigações.
 
-###### Art. 19.º Dos próprios títulos constarão a taxa de juro das obrigações, as datas e a forma de pagamento dos juros e das amortizações, bem como o prémio do sorteio, se o houver.
+Art. 19.º Dos próprios títulos constarão a taxa de juro das obrigações, as datas e a forma de pagamento dos juros e das amortizações, bem como o prémio do sorteio, se o houver.
 
-###### Art. 20.º Os títulos das obrigações serão assinados por dois membros da direcção, sendo sempre obrigatória a assinatura do director gerente, a qual, no entanto, pode ser de chancela.
+Art. 20.º Os títulos das obrigações serão assinados por dois membros da direcção, sendo sempre obrigatória a assinatura do director gerente, a qual, no entanto, pode ser de chancela.
 
-###### Art. 21.º - 1. Os números das obrigações sorteadas serão anunciados por edital afixado na sede da Caixa e suas delegações, bem como por aviso publicado no Boletim Oficial e em dois jornais da província.
+Art. 21.º - 1. Os números das obrigações sorteadas serão anunciados por edital afixado na sede da Caixa e suas delegações, bem como por aviso publicado no Boletim Oficial e em dois jornais da província.
 
 2. No edital e aviso referidos no número anterior declarar-se-á o dia em que cessa de pleno direito o vencimento do juro para os respectivos títulos, ficando o seu capital à disposição de quem tenha direito a ele.
 
-###### Art. 22.º - 1. As obrigações amortizadas serão anuladas.
+Art. 22.º - 1. As obrigações amortizadas serão anuladas.
 
 2. O carimbo de anulação será aposto nos títulos das obrigações no próprio acto de pagamento e os títulos serão destruídos na presença da maioria dos vogais da direcção, no prazo de 30 dias.
 
-###### Art. 23.º As obrigações emitidas pela Caixa serão garantidas por aval a prestar pelo Governo da província.
+Art. 23.º As obrigações emitidas pela Caixa serão garantidas por aval a prestar pelo Governo da província.
 
 ### CAPÍTULO V — Disposições gerais
 
-###### Art. 24.º - 1. Em casos excepcionais, quando o valor e a utilidade dos empreendimentos o justifiquem e os requerentes mereçam a confiança da Caixa, poderá esta conceder-lhes crédito até 100000$00, com dispensa das garantias que vierem a ser estabelecidas para os casos gerais.
+Art. 24.º - 1. Em casos excepcionais, quando o valor e a utilidade dos empreendimentos o justifiquem e os requerentes mereçam a confiança da Caixa, poderá esta conceder-lhes crédito até 100000$00, com dispensa das garantias que vierem a ser estabelecidas para os casos gerais.
 
 2. As decisões a que se refere o número anterior só serão válidas quando tomadas por deliberação unânime da direcção da Caixa, em reunião a que assistam todos os membros.
 
-###### Art. 25.º A Caixa tem o direito de fiscalizar, por forma adequada, conforme o estabelecido nos respectivos contratos, a actividade dos mutuários, a fim de acautelar a eficácia da sua assistência financeira.
+Art. 25.º A Caixa tem o direito de fiscalizar, por forma adequada, conforme o estabelecido nos respectivos contratos, a actividade dos mutuários, a fim de acautelar a eficácia da sua assistência financeira.
 
-###### Art. 26.º - 1. A Caixa tem um fundo de reserva legal, destinado a ocorrer a eventualidades imprevistas, o qual será constituído por uma parte dos saldos positivos de cada exercício, a fixar em reunião conjunta da direcção e do conselho fiscal, mas nunca inferior a 10 por cento daqueles saldos.
+Art. 26.º - 1. A Caixa tem um fundo de reserva legal, destinado a ocorrer a eventualidades imprevistas, o qual será constituído por uma parte dos saldos positivos de cada exercício, a fixar em reunião conjunta da direcção e do conselho fiscal, mas nunca inferior a 10 por cento daqueles saldos.
 
 2. A criação de outros fundos de garantia ou de provisão depende de aprovação do governador da província.
 
-###### Art. 27.º As taxas de juro dos depósitos à ordem e a prazo serão fixadas em reunião conjunta da direcção e do conselho fiscal, com observância das prescrições legais e na dependência da aprovação do governador da província.
+Art. 27.º As taxas de juro dos depósitos à ordem e a prazo serão fixadas em reunião conjunta da direcção e do conselho fiscal, com observância das prescrições legais e na dependência da aprovação do governador da província.
 
-###### Art. 28.º A província da Guiné assegura a restituição de todos os depósitos efectuados na Caixa, bem como o pagamento dos juros a que tenham direito os respectivos titulares.
+Art. 28.º A província da Guiné assegura a restituição de todos os depósitos efectuados na Caixa, bem como o pagamento dos juros a que tenham direito os respectivos titulares.
 
-###### Art. 29.º São isentos de encargos de natureza fiscal os actos ou contratos em que a Caixa intervenha ou outorgue no desempenho das suas atribuições.
+Art. 29.º São isentos de encargos de natureza fiscal os actos ou contratos em que a Caixa intervenha ou outorgue no desempenho das suas atribuições.
 
-###### Art. 30.º - 1. São aplicáveis a cobrança coerciva das dívidas à Caixa, incluindo capital, juros e outros encargos, as disposições do Código das Execuções Fiscais.
+Art. 30.º - 1. São aplicáveis a cobrança coerciva das dívidas à Caixa, incluindo capital, juros e outros encargos, as disposições do Código das Execuções Fiscais.
 
 2. As certidões das dívidas extraídas dos livros de escrita da Caixa servirão de base as execuções, para o que serão remetidas ao respectivo juízo fiscal acompanhadas de certidão do contrato a que respeitem.
 
-###### Art. 31.º A Caixa poderá facultar assistência técnica às actividades empenhadas no desenvolvimento económico-social da província.
+Art. 31.º A Caixa poderá facultar assistência técnica às actividades empenhadas no desenvolvimento económico-social da província.
 
-###### Art. 32.º O presente decreto entrará em vigor com regulamento da Caixa, a publicar pelo Governo da província em diploma legislativo.
+Art. 32.º O presente decreto entrará em vigor com regulamento da Caixa, a publicar pelo Governo da província em diploma legislativo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Abril de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

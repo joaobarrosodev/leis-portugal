@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1965/07/16400/10371037.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46450-1965-291971
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T19:46:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0c378463d870d3ba95b57a4404d8f1233a28b734d54b3155eb2cd519093095bb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fddc502e9ad0d7a3c44145cefdd0f9cc491d38906856f1e6e95db5392b5a2128
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:46:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Cobrança de Dívidas
+- Combustível
+- Direcção Geral dos Combustíveis
+- Motor
+- Multa
+- Produtor
 relationships:
 - type: amended_by
   target: pt:dre:639320:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:167843:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387086:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:628297:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693213:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:639320:por
+  label: "Revogado pelo DEC LEI.242/2007.21.06.2007.MEI, DR.IS [118] de 21.06.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/242-2007-639320
+  date: '2007-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:46:06Z'
   warnings: []
   errors: []
 ---
@@ -99,22 +126,22 @@ De acordo com o artigo 2.º do [Decreto n.º 4272](https://diariodarepublica.pt/
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os motores de combustão interna, motores de vapor ou outros que utilizem combustíveis sólidos, líquidos ou gasosos, qualquer que seja o fim a que se destinem, não poderão ser postos em funcionamento sem que a respectiva marca, modelo e tipo de combustível tenham sido aprovados pela Direcção-Geral dos Combustíveis.
+Artigo 1.º Os motores de combustão interna, motores de vapor ou outros que utilizem combustíveis sólidos, líquidos ou gasosos, qualquer que seja o fim a que se destinem, não poderão ser postos em funcionamento sem que a respectiva marca, modelo e tipo de combustível tenham sido aprovados pela Direcção-Geral dos Combustíveis.
 
 § 1.º Para o efeito do determinado no corpo deste artigo, deverá ser entregue na Direcção-Geral dos Combustíveis pelos fabricantes ou importadores de motores toda a documentação técnica necessária à apreciação do assunto, incluindo protótipos para ensaio, quando for necessário.
 
 § 2.º Dos resultados dos ensaios será remetido um relatório aos interessados.
 
-###### Art. 2.º Por cada motor será paga a quantia de 50$00 pelo fabricante ou importador respectivo, por meio de guia passada pela Direcção-Geral dos Combustíveis.
+Art. 2.º Por cada motor será paga a quantia de 50$00 pelo fabricante ou importador respectivo, por meio de guia passada pela Direcção-Geral dos Combustíveis.
 
-###### Art. 3.º As importâncias arrecadadas nos termos do artigo anterior serão escrituradas, em rubrica especial, no capítulo VIII do orçamento de receitas do Estado e servirão de contrapartida às despesas a realizar com a execução do presente diploma, através da dotação a inscrever no orçamento de despesa do Ministério da Economia.
+Art. 3.º As importâncias arrecadadas nos termos do artigo anterior serão escrituradas, em rubrica especial, no capítulo VIII do orçamento de receitas do Estado e servirão de contrapartida às despesas a realizar com a execução do presente diploma, através da dotação a inscrever no orçamento de despesa do Ministério da Economia.
 
-###### Art. 4.º A infracção do disposto nos artigos 1.º e 2.º deste diploma será punida com a multa de 1000$00 por cada motor.
+Art. 4.º A infracção do disposto nos artigos 1.º e 2.º deste diploma será punida com a multa de 1000$00 por cada motor.
 
-###### Art. 5.º Quando a multa não for paga no prazo fixado pela Direcção-Geral dos Combustíveis, esta promoverá a sua cobrança coerciva pelo processo das execuções fiscais, nos termos do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963.
+Art. 5.º Quando a multa não for paga no prazo fixado pela Direcção-Geral dos Combustíveis, esta promoverá a sua cobrança coerciva pelo processo das execuções fiscais, nos termos do Código de Processo das Contribuições e Impostos, aprovado pelo [Decreto-Lei n.º 45005](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45005-1963-628297), de 27 de Abril de 1963.
 
-###### Art. 6.º Este decreto entra imediatamente em vigor.
+Art. 6.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Julho de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Manuel Rafael Amaro da Costa.

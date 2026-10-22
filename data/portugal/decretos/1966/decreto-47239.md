@@ -47,40 +47,57 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47239-1966-478197
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-15T00:00:00Z'
+  retrieved_at: '2026-10-22T19:52:47Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9b333236c523628226cccecb79503c770f49a129e6873f0076f8188005e66736
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ba7ba400ec3b8cc3f45342d894b6678a515e4abbf9bf666a6f143f4ece0d743
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:52:47Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Ultramarina
+- Angola.Colónia Portuguesa
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Quadro de Pessoal
+- Serviços Provinciais de Geologia e Minas do Ultramar
 relationships:
 - type: amended_by
   target: pt:dre:234552:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:234552:por
+  label: "Alterados os artigos 38.º e 43.º do Diploma Orgânico dos Serviços de Geologia e Minas do Ultramar, aprovado pelo\
+    \ Decreto n.º 46421, de 5 de Julho de 1965, na redacção do presente diploma , pelo DEC.48333.15.04.1968.MU, DG.IS [90]\
+    \ de 15.04.1968\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/48333-1968-234552
+  date: '1968-04-15'
+- type: cites
+  target: pt:dre:295624:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:52:47Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +114,9 @@ Por motivo de urgência, nos termos do n.º III, alínea c), da base X da Lei Or
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos abaixo indicados do [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos abaixo indicados do [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, passam a ter a seguinte redacção:
 
-###### Art. 7.º ...
+Art. 7.º ...
 
 ...
 
@@ -109,7 +126,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 § 1.º À Divisão de Cartografia e Topografia compete:
 
@@ -139,7 +156,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 ...
 
@@ -153,31 +170,31 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 § único. Em regra são desempenhados por engenheiros de minas ou geólogos com a categoria de director os cargos de inspector provincial, director de serviços e subdirector de serviços; com a categoria de engenheiro ou geólogo-chefe, os cargos do chefe de repartição provincial, chefe de repartição dos serviços centrais, chefe de zona mineira e engenheiros ou geólogos especializados; com a categoria de engenheiro ou geólogo de 1.ª e 2.ª classes, os cargos de chefe de divisão e de adjuntos.
 
-###### Art. 30.º Em regra, as colocações do pessoal do quadro comum mencionarão apenas a província a que se destina, sendo da competência dos respectivos governos provinciais a sua colocação dentro delas. Exceptua-se a colocação dos engenheiros e geólogos directores, cuja competência pertence ao Ministro do Ultramar.
+Art. 30.º Em regra, as colocações do pessoal do quadro comum mencionarão apenas a província a que se destina, sendo da competência dos respectivos governos provinciais a sua colocação dentro delas. Exceptua-se a colocação dos engenheiros e geólogos directores, cuja competência pertence ao Ministro do Ultramar.
 
-###### Art. 31.º A entrada no quadro de engenheiros de minas e de geólogos faz-se pela categoria de engenheiro ou geólogo de 2.ª classe, mediante concurso documental aberto entre engenheiros de minas e licenciados em Ciências Geológicas, respectivamente.
-
-...
-
-###### Art. 33.º As vagas de engenheiro de minas e de geólogo de 1.ª classe são providas por meio de promoção, respectivamente dos engenheiros de minas e geólogos de 2.ª classe com cinco anos de serviço nesta classe, tendo em conta o mérito e a antiguidade e sendo aquele comprovado pelas informações de serviço.
+Art. 31.º A entrada no quadro de engenheiros de minas e de geólogos faz-se pela categoria de engenheiro ou geólogo de 2.ª classe, mediante concurso documental aberto entre engenheiros de minas e licenciados em Ciências Geológicas, respectivamente.
 
 ...
 
-###### Art. 35.º Quando, feitos os provimentos a que se referem os artigos 33.º e 34.º, existirem ainda vagas a preencher, pode o Ministro do Ultramar, por despacho, autorizar a promoção com dispensa do tempo mínimo de serviço exigido.
+Art. 33.º As vagas de engenheiro de minas e de geólogo de 1.ª classe são providas por meio de promoção, respectivamente dos engenheiros de minas e geólogos de 2.ª classe com cinco anos de serviço nesta classe, tendo em conta o mérito e a antiguidade e sendo aquele comprovado pelas informações de serviço.
 
 ...
 
-###### Art. 37.º O provimento dos cargos de engenheiros de minas e geólogos especializados far-se-á por escolha entre engenheiros de minas de 1.ª classe ou geólogos de 1.ª classe que na categoria contem um mínimo de três anos de serviço e possuam a respectiva especialização, adquirida em escolas superiores ou comprovada por trabalhos de mérito. Na falta destes, poderão as mesmas funções ser exercidas, por simples designação do governador-geral, sob proposta do director de serviços, por engenheiros de minas ou geólogos de 1.ª ou de 2.ª classe habilitados com as respectivas especialidades e com qualquer tempo de serviço.
+Art. 35.º Quando, feitos os provimentos a que se referem os artigos 33.º e 34.º, existirem ainda vagas a preencher, pode o Ministro do Ultramar, por despacho, autorizar a promoção com dispensa do tempo mínimo de serviço exigido.
+
+...
+
+Art. 37.º O provimento dos cargos de engenheiros de minas e geólogos especializados far-se-á por escolha entre engenheiros de minas de 1.ª classe ou geólogos de 1.ª classe que na categoria contem um mínimo de três anos de serviço e possuam a respectiva especialização, adquirida em escolas superiores ou comprovada por trabalhos de mérito. Na falta destes, poderão as mesmas funções ser exercidas, por simples designação do governador-geral, sob proposta do director de serviços, por engenheiros de minas ou geólogos de 1.ª ou de 2.ª classe habilitados com as respectivas especialidades e com qualquer tempo de serviço.
 
 § 1.º Se no quadro comum dos serviços de geologia e minas não existirem funcionários nas condições do corpo do artigo, poderão os cargos de engenheiros de minas e geólogos especializados ser providos por concurso documental entre engenheiros e geólogos estranhos ao serviço, possuidores da respectiva especialização e comprovada experiência profissional.
 
 § 2.º Quando alguns dos engenheiros de minas ou geólogos desempenhem funções de especializados, em conformidade com a parte final do corpo do artigo, perceberão o vencimento completo correspondente ao seu cargo, acrescido da gratificação de especialização referida no artigo 44.º
 
-###### Art. 38.º O provimento dos restantes cargos pertencentes ao quadro comum obedecerá às seguintes condições:
+Art. 38.º O provimento dos restantes cargos pertencentes ao quadro comum obedecerá às seguintes condições:
 
 1.º Engenheiro geógrafo-chefe - por promoção dos engenheiros geógrafos de 1.ª classe com o mínimo de cinco anos de serviço e boas informações ou, na sua falta, por escolha entre diplomados com o respectivo curso superior e cinco anos de comprovada experiência profissional;
 
@@ -209,13 +226,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 15.º Conservador-bibliotecário - por livre nomeação ou em comissão ordinária de serviço de diplomado com curso superior e formação profissional adequada ao exercício do cargo.
 
-###### Art. 39.º Os cargos de topógrafo-geómetra mineiro, topógrafo principal, desenhador cartógrafo principal, encarregado geral de sondagens, chefe de secretaria central, chefe de secção de expediente, chefe de secção de contabilidade e chefe de laboratório fotográfico serão preenchidos por promoção de funcionários de categoria imediatamente inferior, com o mínimo de três anos de serviço na categoria e boas informações.
+Art. 39.º Os cargos de topógrafo-geómetra mineiro, topógrafo principal, desenhador cartógrafo principal, encarregado geral de sondagens, chefe de secretaria central, chefe de secção de expediente, chefe de secção de contabilidade e chefe de laboratório fotográfico serão preenchidos por promoção de funcionários de categoria imediatamente inferior, com o mínimo de três anos de serviço na categoria e boas informações.
 
 § único. Quando, preenchidos os cargos, nos termos do corpo do artigo, se verifique que existem ainda vagas a prover, pode o Ministro autorizar, por despacho, a promoção de funcionários que não possuam aquele mínimo de tempo.
 
 ...
 
-###### Art. 41.º ...
+Art. 41.º ...
 
 a) ...
 
@@ -223,11 +240,11 @@ a) ...
 
 ...
 
-###### Art. 43.º Aos inspectores provinciais, directores dos serviços e funcionários que exerçam funções de chefia de repartições técnicas ou dos serviços administrativos dos serviços centrais poderá ser abonada uma gratificação mensal de 1000$00.
+Art. 43.º Aos inspectores provinciais, directores dos serviços e funcionários que exerçam funções de chefia de repartições técnicas ou dos serviços administrativos dos serviços centrais poderá ser abonada uma gratificação mensal de 1000$00.
 
 ...
 
-###### Art. 55.º Os geólogos, engenheiros de minas ou de outras especialidades e quaisquer outros funcionários com curso superior ou médio que, à data da publicação do presente diploma no Boletim Oficial das províncias ultramarinas, se encontrem em serviço como contratados ou em comisão em brigadas ou missões, ou pagos por verbas globais dos orçamentos ordinários e extraordinários, poderão ingressar no quadro comum do pessoal dos serviços de geologia e minas se o requererem no prazo de 30 dias, tiverem boas informações e assim convier ao Estado, observadas as seguintes condições:
+Art. 55.º Os geólogos, engenheiros de minas ou de outras especialidades e quaisquer outros funcionários com curso superior ou médio que, à data da publicação do presente diploma no Boletim Oficial das províncias ultramarinas, se encontrem em serviço como contratados ou em comisão em brigadas ou missões, ou pagos por verbas globais dos orçamentos ordinários e extraordinários, poderão ingressar no quadro comum do pessoal dos serviços de geologia e minas se o requererem no prazo de 30 dias, tiverem boas informações e assim convier ao Estado, observadas as seguintes condições:
 
 a) ...
 
@@ -239,17 +256,17 @@ d) Os restantes, nos cargos que no quadro correspondam às categorias e funçõe
 
 ...
 
-###### Art. 58.º ...
+Art. 58.º ...
 
 § 1.º O ingresso do pessoal no quadro privativo far-se-á na categoria em que o mesmo se encontrar à data da publicação do presente diploma, independentemente da idade e sem prejuízo do disposto no artigo 134.º do Estatuto do Funcionalismo Ultramarino, mediante portaria dos respectivos governos-gerais, anotada pelo Tribunal Administrativo, desde que os interessados possuam as habilitações exigidas para os cargos que vão preencher e tenham boas informações de serviço.
 
 § 2.º O provimento das vagas que ficarem a existir depois de efectuado o movimento a que se refere o artigo 57.º e o corpo do presente artigo e seu § 1.º poderá ser feito por escolha, mediante proposta dos directores de serviços, por portaria dos respectivos governos-gerais, anotada pelo Tribunal Administrativo, de entre os funcionários e agentes que transitaram ou ingressaram, ao abrigo daquelas disposições, das categorias imediatamente inferiores às vagas a preencher.
 
-###### Art. 2.º Os mapas I e II anexos ao [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, são substituídos pelos mapas I e II anexos ao presente diploma e que dele fazem parte integrante.
+Art. 2.º Os mapas I e II anexos ao [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, são substituídos pelos mapas I e II anexos ao presente diploma e que dele fazem parte integrante.
 
-###### Art. 3.º O prazo a que se refere o artigo 55.º do [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, contar-se-á a partir da data da publicação do presente diploma no Boletim Oficial das províncias ultramarinas.
+Art. 3.º O prazo a que se refere o artigo 55.º do [Decreto n.º 46421](https://diariodarepublica.pt/dr/detalhe/decreto/46421-1965-295624), de 5 de Julho de 1965, contar-se-á a partir da data da publicação do presente diploma no Boletim Oficial das províncias ultramarinas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Outubro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -259,12 +276,12 @@ MAPA I
 
 Pessoal do quadro comum dos serviços de geologia e minas do ultramar
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/23100/16471650.pdf))](https://files.diariodarepublica.pt/1s/1966/10/23100/16471650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/23100/16471650.pdf)
 
 MAPA II
 
 Pessoal dos quadros privativos dos serviços de geologia e minas de Angola e de Moçambique
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1966/10/23100/16471650.pdf))](https://files.diariodarepublica.pt/1s/1966/10/23100/16471650.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1966/10/23100/16471650.pdf)
 
 Ministério do Ultramar, 4 de Outubro de 1966. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

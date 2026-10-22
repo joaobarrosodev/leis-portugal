@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47474-1966-488101
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1966-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:54:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3325069fb92ab5688bc54d9753f710bd84be7c5c58c981805db759254859a2f7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 06ba99dfc747b01e6bb9034cc554639e7f4abd85f8b59e6f5929f7b8f63ead63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:54:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:473505:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:54:53Z'
   warnings: []
   errors: []
 ---
@@ -85,24 +89,24 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As disposições do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, serão aplicadas às empresas concessionárias de transportes colectivos urbanos, com as adaptações constantes dos artigos seguintes:
+Artigo 1.º As disposições do [Decreto-Lei n.º 47032](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47032-1966-473505), de 27 de Maio de 1966, serão aplicadas às empresas concessionárias de transportes colectivos urbanos, com as adaptações constantes dos artigos seguintes:
 
-###### Art. 2.º Os agentes devem obediência à entidade patronal em tudo o que respeite ao trabalho e à disciplina.
+Art. 2.º Os agentes devem obediência à entidade patronal em tudo o que respeite ao trabalho e à disciplina.
 
-###### Art. 3.º Os agentes são obrigados a prestar o trabalho extraordinário que for imposto pelas necessidades do serviço público em que colaboram, excepto se forem superiormente dispensados, por motivos atendíveis.
+Art. 3.º Os agentes são obrigados a prestar o trabalho extraordinário que for imposto pelas necessidades do serviço público em que colaboram, excepto se forem superiormente dispensados, por motivos atendíveis.
 
-###### Art. 4.º As férias, concedidas de harmonia com as necessidades de serviço, podem ser gozadas durante todo o ano civil respectivo, podendo, em casos excepcionais, ser transferidas para o 1.º trimestre do ano seguinte.
+Art. 4.º As férias, concedidas de harmonia com as necessidades de serviço, podem ser gozadas durante todo o ano civil respectivo, podendo, em casos excepcionais, ser transferidas para o 1.º trimestre do ano seguinte.
 
-###### Art. 5.º O regime aplicável aos dias feriados será o constante das respectivas convenções colectivas de trabalho, ou, no caso de estas não existirem, o regime tradicionalmente praticado e decorrente das próprias necessidades de serviço público, desde que o trabalhador não venha a receber menos do que receberia pela aplicação da lei geral.
+Art. 5.º O regime aplicável aos dias feriados será o constante das respectivas convenções colectivas de trabalho, ou, no caso de estas não existirem, o regime tradicionalmente praticado e decorrente das próprias necessidades de serviço público, desde que o trabalhador não venha a receber menos do que receberia pela aplicação da lei geral.
 
-###### Art. 6.º As sanções disciplinares são as constantes das convenções colectivas de trabalho respectivas, ou, enquanto estas não estiverem concluídas, as dos respectivos regulamentos internos, desde que aprovados pelo Ministério das Corporações e Previdência Social.
+Art. 6.º As sanções disciplinares são as constantes das convenções colectivas de trabalho respectivas, ou, enquanto estas não estiverem concluídas, as dos respectivos regulamentos internos, desde que aprovados pelo Ministério das Corporações e Previdência Social.
 
-###### Art. 7.º O registo das sanções disciplinares constará das respectivas matrículas, que poderão ser examinadas pelas entidades competentes sempre que o requeiram.
+Art. 7.º O registo das sanções disciplinares constará das respectivas matrículas, que poderão ser examinadas pelas entidades competentes sempre que o requeiram.
 
-###### Art. 8.º Mantém-se em vigor o estabelecido nas convenções colectivas de trabalho respectivas em tudo o que não for abertamente contrário à lei geral e seja decorrente das próprias necessidades de serviço público.
+Art. 8.º Mantém-se em vigor o estabelecido nas convenções colectivas de trabalho respectivas em tudo o que não for abertamente contrário à lei geral e seja decorrente das próprias necessidades de serviço público.
 
-###### Art. 9.º Só se considera como transferência a mudança do trabalhador para uma localidade diferente daquela para que foi contratado.
+Art. 9.º Só se considera como transferência a mudança do trabalhador para uma localidade diferente daquela para que foi contratado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Dezembro de 1966. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença.

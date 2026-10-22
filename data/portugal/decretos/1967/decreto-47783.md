@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47783-1967-314043
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-07-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:57:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c01329b79305da2aa424351b44e3d88ec563fa0fe2d0d80462a31a9608cd8748
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f6eae170d2b50ee7e2274fe3216dfca50f447f323f8f6ac25d57c37230a3ff0f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:57:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:298607:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:57:27Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +93,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos quadros do pessoal técnico superior dos Serviços Meteorológicos de Angola e Moçambique, que constam da tabela anexa ao [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956, alterada pelos Decretos n.º 42672, de 23 de Novembro de 1959, e n.º 43340, de 21 de Novembro de 1960, os lugares de meteorologista adjunto de 1.ª classe passam a ter a designação de meteorologista adjunto.
+Artigo 1.º Nos quadros do pessoal técnico superior dos Serviços Meteorológicos de Angola e Moçambique, que constam da tabela anexa ao [Decreto n.º 40869](https://diariodarepublica.pt/dr/detalhe/decreto/40869-1956-298607), de 20 de Novembro de 1956, alterada pelos Decretos n.º 42672, de 23 de Novembro de 1959, e n.º 43340, de 21 de Novembro de 1960, os lugares de meteorologista adjunto de 1.ª classe passam a ter a designação de meteorologista adjunto.
 
-###### Art. 2.º Nos quadros do pessoal referidos no artigo 1.º são eliminados os seis lugares de meteorologista adjunto de 2.ª classe existentes em cada um dos quadros e criados os seguintes lugares:
+Art. 2.º Nos quadros do pessoal referidos no artigo 1.º são eliminados os seis lugares de meteorologista adjunto de 2.ª classe existentes em cada um dos quadros e criados os seguintes lugares:
 
 1) Serviço Meteorológico de Angola:
 
@@ -105,11 +109,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5 de meteorologista adjunto.
 
-###### Art. 3.º (transitório). Os actuais meteorologistas adjuntos de 2.ª classe passarão a desempenhar interinamente as funções de meteorologista adjunto, a partir da data de entrada em vigor do presente decreto, sendo pagos pelas disponibilidades dos quadros do respectivo serviço, até que sejam nomeados em comissão para os lugares criados ou sejam exonerados para regressar ao quadro a que pertencem.
+Art. 3.º (transitório). Os actuais meteorologistas adjuntos de 2.ª classe passarão a desempenhar interinamente as funções de meteorologista adjunto, a partir da data de entrada em vigor do presente decreto, sendo pagos pelas disponibilidades dos quadros do respectivo serviço, até que sejam nomeados em comissão para os lugares criados ou sejam exonerados para regressar ao quadro a que pertencem.
 
-###### Art. 4.º O presente decreto entrará em vigor para execução total ou por fases em cada uma daquelas províncias ultramarinas quando as circunstâncias financeiras da respectiva província permitirem a inclusão das correspondentes dotações orçamentais.
+Art. 4.º O presente decreto entrará em vigor para execução total ou por fases em cada uma daquelas províncias ultramarinas quando as circunstâncias financeiras da respectiva província permitirem a inclusão das correspondentes dotações orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Julho de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

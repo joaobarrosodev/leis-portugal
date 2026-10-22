@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46648-1965-512610
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:47:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3179d9c2b4897448338b00f94deadaa242e96b87d8db750d8e4dce529b610300
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8d60984616c7a8896e36ef7038f3e1aa7239bc2270e725e28230dc6298894f10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:47:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:185077:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:47:41Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +108,15 @@ Nestes termos, tendo em vista o § 1.º do artigo 150.º da Constituição, por 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O tempo de serviço prestado nos organismos de coordenação económica com sede em qualquer província ultramarina e o que haja sido prestado em idênticos organismos que foram extintos pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, relativamente ao pessoal que transitou para os novos organismos criados em sua substituição no ultramar, será contado para todos os efeitos legais, incluindo o da aposentação.
+Artigo 1.º O tempo de serviço prestado nos organismos de coordenação económica com sede em qualquer província ultramarina e o que haja sido prestado em idênticos organismos que foram extintos pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, relativamente ao pessoal que transitou para os novos organismos criados em sua substituição no ultramar, será contado para todos os efeitos legais, incluindo o da aposentação.
 
 § único. De harmonia com o disposto no corpo do artigo, o pessoal dos referidos organismos será nomeado provisória ou definitivamente, conforme tinha à data da transição, respectivamente, menos de cinco ou mais de cinco anos de serviço prestado, como contratado, nos mesmos organismos ou nestes e nos que os substituíram, nos termos do [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), ficando, porém, dispensada a recondução do pessoal, salvo a daquele que, à data da transição, não tinha ainda completado dois anos de serviço.
 
-###### Art. 2.º Os servidores de todos os organismos de coordenação económica com sede no ultramar são considerados agentes ou funcionários públicos, consoante o modo do seu provimento, nos termos do § único do artigo 26.º do Estatuto do Funcionalismo Ultramarino, que, de futuro, lhes é aplicável para todos os efeitos legais.
+Art. 2.º Os servidores de todos os organismos de coordenação económica com sede no ultramar são considerados agentes ou funcionários públicos, consoante o modo do seu provimento, nos termos do § único do artigo 26.º do Estatuto do Funcionalismo Ultramarino, que, de futuro, lhes é aplicável para todos os efeitos legais.
 
-###### Art. 3.º São revogados os artigos 2.os dos Diplomas Legislativos Ministeriais n.os 6, de Moçambique, e 73, de Angola, respectivamente de 11 e 25 de Outubro de 1961, e o corpo do artigo 17.º do [Decreto n.º 44078](https://diariodarepublica.pt/dr/detalhe/decreto/44078-1961-185077), de 7 de Dezembro de 1961.
+Art. 3.º São revogados os artigos 2.os dos Diplomas Legislativos Ministeriais n.os 6, de Moçambique, e 73, de Angola, respectivamente de 11 e 25 de Outubro de 1961, e o corpo do artigo 17.º do [Decreto n.º 44078](https://diariodarepublica.pt/dr/detalhe/decreto/44078-1961-185077), de 7 de Dezembro de 1961.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Novembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

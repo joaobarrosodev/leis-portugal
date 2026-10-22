@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/46790-1965-508258
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1965-12-24T00:00:00Z'
+  retrieved_at: '2026-10-22T19:49:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 068e07f87b6de6fec5540eb43db7ea07fb3a2416334b08590e77d0f24e40c54b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 68517a67641b7bbb012736f1185796931eca2c61e7aabad6e2884f3449bac816
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:49:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:388630:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:49:16Z'
   warnings: []
   errors: []
 ---
@@ -85,11 +89,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. São introduzidas as alterações adiante indicadas ao [Decreto n.º 36875](https://diariodarepublica.pt/dr/detalhe/decreto/36875-1948-388630), de 17 de Maio de 1948 (Regulamento de Admissão e Promoção do Pessoal dos Correios, Telégrafos e Telefones), modificado pelos Decretos n.os 37324 e 40372, de 5 de Março de 1949 e 7 de Novembro de 1955, respectivamente:
+Artigo único. São introduzidas as alterações adiante indicadas ao [Decreto n.º 36875](https://diariodarepublica.pt/dr/detalhe/decreto/36875-1948-388630), de 17 de Maio de 1948 (Regulamento de Admissão e Promoção do Pessoal dos Correios, Telégrafos e Telefones), modificado pelos Decretos n.os 37324 e 40372, de 5 de Março de 1949 e 7 de Novembro de 1955, respectivamente:
 
 a) As disposições a seguir enumeradas passam a ter a seguinte redacção:
 
-###### Art. 24.º ...
+Art. 24.º ...
 
 ...
 
@@ -97,7 +101,7 @@ d) No caso dos concursos regionais e quando for exigido o disposto na condição
 
 ...
 
-###### Art. 35.º Depois de examinar toda a documentação apresentada, salvo o disposto nos artigos 36.º-A e 36.º-B, a Repartição de Concursos fará publicar no Diário do Governo uma lista provisória donde conste:
+Art. 35.º Depois de examinar toda a documentação apresentada, salvo o disposto nos artigos 36.º-A e 36.º-B, a Repartição de Concursos fará publicar no Diário do Governo uma lista provisória donde conste:
 
 a) No caso de concurso de admissão, os nomes dos concorrentes admitidos, daqueles cuja documentação apresente deficiências e dos excluídos, com indicação das deficiências encontradas e dos motivos de exclusão;
 
@@ -113,13 +117,13 @@ Findos os prazos referidos neste artigo, serão submetidas a visto do correio-mo
 
 ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 ...
 
 12.ª Ter residência permanente em determinada localidade ou região, quando se trate de concursos regionais e nos casos em que for julgado necessário exigir que os concorrentes satisfaçam a esta condição.
 
-###### Art. 40.º ...
+Art. 40.º ...
 
 ...
 
@@ -131,7 +135,7 @@ j) A condição 12.ª, por declaração passada pelo chefe de qualquer estação
 
 ...
 
-###### Art. 64.º ...
+Art. 64.º ...
 
 ...
 
@@ -141,7 +145,7 @@ e) Os membros do júri não deverão ter categoria inferior àquela a que corres
 
 b) São acrescentadas as seguintes disposições:
 
-###### Art. 22.º ...
+Art. 22.º ...
 
 ...
 
@@ -149,13 +153,13 @@ b) São acrescentadas as seguintes disposições:
 
 ...
 
-###### Art. 36.º-A. Quando as conveniências do serviço o exigirem e no respeitante a concursos de admissão, a Repartição de Concursos fará publicar no Diário do Governo, sem prévio exame da documentação apresentada, a lista dos concorrentes que requereram admissão ao concurso.
+Art. 36.º-A. Quando as conveniências do serviço o exigirem e no respeitante a concursos de admissão, a Repartição de Concursos fará publicar no Diário do Governo, sem prévio exame da documentação apresentada, a lista dos concorrentes que requereram admissão ao concurso.
 
 Durante o prazo de dez dias os concorrentes poderão apresentar reclamações e, em qualquer altura, deverá a Repartição de Concursos introduzir as alterações que julgar necessárias, aplicando-se a umas e outras o disposto no § 1.º do artigo 35.º
 
 No aviso que incluir a referida lista deverá marcar-se a realização das provas, quando não se trate de concurso de provas documentais, nos termos do artigo 36.º
 
-###### Art. 36.º-B. Publicadas as listas dos candidatos aprovados, nos casos em que se verifique a aplicação do disposto no artigo anterior, procederá a Repartição de Concursos, consoante as necessidades do serviço, à conferência da documentação dos referidos candidatos.
+Art. 36.º-B. Publicadas as listas dos candidatos aprovados, nos casos em que se verifique a aplicação do disposto no artigo anterior, procederá a Repartição de Concursos, consoante as necessidades do serviço, à conferência da documentação dos referidos candidatos.
 
 Os documentos que apresentem deficiências serão devolvidos aos interessados, acompanhados de ofício registado com aviso de recepção, para que procedam à sua regularização no prazo de oito dias. Decorrido este prazo, a citada Repartição submeterá a visto do correio-mor a relação dos concorrentes excluídos por não satisfazerem às condições de admissão no lugar que pretendiam ou por não terem regularizado a documentação no prazo acima estabelecido. A exclusão destes concorrentes e os motivos que a determinaram ser-lhes-ão comunicados mediante ofício registado com aviso de recepção. Poderão ser apresentadas reclamações no prazo de dez dias.
 
@@ -163,6 +167,6 @@ c) É suprimida na alínea a) do artigo 28.º a palavra «filiação»;
 
 d) Os actuais §§ 1.º, 2.º, 3.º, 4.º e 5.º do artigo 64.º passam, respectivamente, a §§ 2.º, 3.º, 4.º, 5.º e 6.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Dezembro de 1965. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.
