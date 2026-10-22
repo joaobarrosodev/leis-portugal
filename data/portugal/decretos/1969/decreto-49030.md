@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49030-1969-201052
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a04543125b45d94d4dde0c9f411009976b95c1a8846b8077e6ae5d9f062aea6d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8ee674a608addf7cd4466fd6de446bbd8d0ef1688faec4b00b43a79d2a4df40f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,24 @@ relationships:
   target: pt:dre:683466:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:438968:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687387:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 11
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:33Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +104,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ### CAPÍTULO I — Da constituição e orgânica dos departamentos financeiros
 
-###### Artigo 1.º Mediante autorização conjunta dos Ministros das Finanças e do Ultramar, concedida por decreto e ouvido o Conselho Nacional de Crédito, os bancos comerciais poderão constituir nas províncias ultramarinas, nos termos do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, e do disposto no presente diploma, departamentos financeiros tendo por objectivo exclusivo a realização continuada e regular de operações de crédito a médio e a longo prazos, designadamente de operações de crédito agrícola e pecuário, de crédito industrial e de crédito predial.
+Artigo 1.º Mediante autorização conjunta dos Ministros das Finanças e do Ultramar, concedida por decreto e ouvido o Conselho Nacional de Crédito, os bancos comerciais poderão constituir nas províncias ultramarinas, nos termos do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), de 8 de Outubro de 1963, e do disposto no presente diploma, departamentos financeiros tendo por objectivo exclusivo a realização continuada e regular de operações de crédito a médio e a longo prazos, designadamente de operações de crédito agrícola e pecuário, de crédito industrial e de crédito predial.
 
-###### Art. 2.º Os bancos comerciais estabelecidos numa província ultramarina que pretendam aí constituir departamentos financeiros deverão requerer a autorização ao Ministro do Ultramar através do governador da província.
+Art. 2.º Os bancos comerciais estabelecidos numa província ultramarina que pretendam aí constituir departamentos financeiros deverão requerer a autorização ao Ministro do Ultramar através do governador da província.
 
 § 1.º O requerimento deverá ser acompanhado dos elementos seguintes:
 
@@ -110,11 +118,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º A autorização caducará se o banco comercial não constituir o departamento financeiro no prazo de noventa dias, a contar da data de publicação do respectivo decreto no Boletim Oficial da província, salvo se o Ministro do Ultramar, por motivo devidamente justificado, prorrogar esse prazo; mas esta prorrogação não poderá ir além de um ano.
 
-###### Art. 3.º Nenhum banco comercial poderá constituir em cada província ultramarina mais do que um departamento financeiro.
+Art. 3.º Nenhum banco comercial poderá constituir em cada província ultramarina mais do que um departamento financeiro.
 
 § único. As filiais, agências ou quaisquer outras sucursais dos bancos comerciais prestarão aos respectivos departamentos financeiros os serviços de cobrança ou outros relacionados com as operações de crédito que são objecto dos mesmos departamentos.
 
-###### Art. 4.º Um banco comercial estabelecido em qualquer outra parcela do território nacional poderá requerer ao Ministro do Ultramar autorização para constituir um departamento financeiro numa província ultramarina, desde que haja obtido autorização no território onde tiver a sua sede, nos termos da legislação respectiva, nomeadamente da que regular as operações de pagamentos interterritoriais.
+Art. 4.º Um banco comercial estabelecido em qualquer outra parcela do território nacional poderá requerer ao Ministro do Ultramar autorização para constituir um departamento financeiro numa província ultramarina, desde que haja obtido autorização no território onde tiver a sua sede, nos termos da legislação respectiva, nomeadamente da que regular as operações de pagamentos interterritoriais.
 
 § 1.º No caso previsto no corpo do presente artigo, o requerimento de autorização deverá ser acompanhado, além dos documentos mencionados no § 1.º do artigo 2.º, do documento comprovativo da autorização passado pela entidade competente do território em que o banco comercial tiver a sua sede e da declaração de compromisso de que no acto de constituição do departamento serão depositados no banco emissor da província 50 por cento dos fundos com que o departamento financeiro irá constituir-se.
 
@@ -122,15 +130,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 3.º Os bancos comerciais que tenham estabelecido dependências numa província ultramarina poderão constituir departamentos financeiros na mesma província.
 
-###### Art. 5.º Os departamentos financeiros constituídos por bancos comerciais numa província ultramarina nos termos do artigo precedente poderão acordar com quaisquer instituições de crédito estabelecidas na mesma província a sua representação pelas filiais, agências ou outras sucursais destas instituições e a utilização dos respectivos serviços.
+Art. 5.º Os departamentos financeiros constituídos por bancos comerciais numa província ultramarina nos termos do artigo precedente poderão acordar com quaisquer instituições de crédito estabelecidas na mesma província a sua representação pelas filiais, agências ou outras sucursais destas instituições e a utilização dos respectivos serviços.
 
-###### Art. 6.º Os departamentos financeiros dos bancos comerciais constituirão um serviço especializado e autónomo na actividade dos mesmos bancos, para os quais será organizada uma contabilidade própria que permita, em qualquer momento, a determinação perfeita dos activos e passivos desses departamentos.
+Art. 6.º Os departamentos financeiros dos bancos comerciais constituirão um serviço especializado e autónomo na actividade dos mesmos bancos, para os quais será organizada uma contabilidade própria que permita, em qualquer momento, a determinação perfeita dos activos e passivos desses departamentos.
 
 § único. Quando se trate de departamento financeiro estabelecido ao abrigo do disposto no artigo 4.º, a seguir à denominação do banco comercial que o constituir acrescentar-se-á sempre a expressão «departamento financeiro da província de ...», a qual será usada nos livros, correspondência e demais documentação própria do departamento em causa.
 
 ### CAPÍTULO II — Do objecto dos departamentos financeiros
 
-###### Art. 7.º Além da concessão de créditos à exportação nacional, nos termos da legislação respectiva, compreende-se no objecto dos departamentos financeiros dos bancos comerciais:
+Art. 7.º Além da concessão de créditos à exportação nacional, nos termos da legislação respectiva, compreende-se no objecto dos departamentos financeiros dos bancos comerciais:
 
 a) A concessão de crédito agrícola, exceptuando o mútuo, pecuário, industrial e predial, a médio e a longo prazos;
 
@@ -142,7 +150,7 @@ d) Outras operações a médio ou a longo prazos, cujas condições gerais tenha
 
 § único. Quando houver demora na execução de operações a médio ou a longo prazos já devidamente aprovadas, poderão os departamentos financeiros efectuar as operações julgadas necessárias para a oportuna efectivação das entregas previstas, por antecipação dos créditos aprovados.
 
-###### Art. 8.º Considerar-se-ão operações a médio prazo aquelas em que o crédito é concedido por períodos superiores a um ano, mas não a cinco anos, e operações a longo prazo as que se efectuem por um período que ultrapasse este último limite.
+Art. 8.º Considerar-se-ão operações a médio prazo aquelas em que o crédito é concedido por períodos superiores a um ano, mas não a cinco anos, e operações a longo prazo as que se efectuem por um período que ultrapasse este último limite.
 
 § 1.º Os prazos das operações serão contados a partir da data em que as mesmas tiverem início de execução.
 
@@ -152,7 +160,7 @@ d) Outras operações a médio ou a longo prazos, cujas condições gerais tenha
 
 ### CAPÍTULO III — Do capital e outros recursos dos departamentos financeiros
 
-###### Art. 9.º Os recursos dos departamentos financeiros dos bancos comerciais serão constituídos:
+Art. 9.º Os recursos dos departamentos financeiros dos bancos comerciais serão constituídos:
 
 1.º Pela parte do capital social e fundos de reserva dos bancos a eles consignada pelas assembleias gerais, que não poderá ser inferior a 20 por cento nem superior a 40 por cento do montante do capital realizado e dos fundos de reserva;
 
@@ -166,23 +174,23 @@ d) Outras operações a médio ou a longo prazos, cujas condições gerais tenha
 
 § único. A atribuição de recursos a que se refere o n.º 1.º do corpo deste artigo entende-se sem prejuízo do cumprimento das obrigações legais em vigor relativas à manutenção de um capital mínimo, tanto para a sede como para as sucursais ou dependências dos bancos comerciais, incluindo designadamente o disposto no § 3.º do artigo 17.º e nos artigos 48.º e 111.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), assim como no § 3.º do artigo 10.º e no artigo 48.º do [Decreto-Lei n.º 42641](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42641-1959-438968), de 12 de Novembro de 1959.
 
-###### Art. 10.º Para alargamento dos recursos dos seus departamentos financeiros, e passado que seja o prazo de um ano sobre a data da respectiva constituição, os bancos comerciais poderão efectuar emissões especiais de acções ordinárias ou privilegiadas, nos termos da legislação aplicável e a esses departamentos directamente consignadas.
+Art. 10.º Para alargamento dos recursos dos seus departamentos financeiros, e passado que seja o prazo de um ano sobre a data da respectiva constituição, os bancos comerciais poderão efectuar emissões especiais de acções ordinárias ou privilegiadas, nos termos da legislação aplicável e a esses departamentos directamente consignadas.
 
 § único. Os fundos provenientes das emissões de acções efectuadas nos termos do presente artigo não serão contados para efeitos do limite estabelecido no n.º 1.º do artigo anterior, devendo os bancos comerciais distingui-los claramente na respectiva conta «Capital».
 
-###### Art. 11.º Os bancos comerciais que tiverem constituído departamentos financeiros poderão emitir obrigações, nos termos do § único do artigo 69.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), amortizáveis no prazo máximo de vinte e cinco anos, a contar da data da emissão, por sorteio ou por compra no mercado.
+Art. 11.º Os bancos comerciais que tiverem constituído departamentos financeiros poderão emitir obrigações, nos termos do § único do artigo 69.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), amortizáveis no prazo máximo de vinte e cinco anos, a contar da data da emissão, por sorteio ou por compra no mercado.
 
 § 1.º Nos títulos de obrigação dos bancos comerciais será feita menção de que o produto se destina à constituição de recursos dos respectivos departamentos financeiros.
 
 § 2.º A emissão de obrigações far-se-á por séries globais e deverá ser regulada de maneira que na data de fecho do balanço anual dos bancos o montante das obrigações em circulação não ultrapasse o dobro dos valores do capital constituídos nos termos dos n.os 1.º e 2.º do artigo 9.º e do artigo 10.º anteriores.
 
-###### Art. 12.º As obrigações emitidas por um banco comercial ao abrigo do disposto no artigo anterior serão sempre expressas na moeda com curso legal no território em que estiver constituído o correspondente departamento financeiro, salvo se os Ministros das Finanças e do Ultramar autorizarem a emissão noutra moeda.
+Art. 12.º As obrigações emitidas por um banco comercial ao abrigo do disposto no artigo anterior serão sempre expressas na moeda com curso legal no território em que estiver constituído o correspondente departamento financeiro, salvo se os Ministros das Finanças e do Ultramar autorizarem a emissão noutra moeda.
 
 § único. Os bancos poderão emitir certificados representativos das obrigações e os títulos de obrigação ser nominativos ou ao portador, com ou sem cupões.
 
-###### Art. 13.º As emissões de acções e obrigações referidas nos artigos 10.º e 11.º do presente diploma poderão ser oferecidas à subscrição pública em qualquer mercado nacional ou estrangeiro, nos termos da legislação aplicável.
+Art. 13.º As emissões de acções e obrigações referidas nos artigos 10.º e 11.º do presente diploma poderão ser oferecidas à subscrição pública em qualquer mercado nacional ou estrangeiro, nos termos da legislação aplicável.
 
-###### Art. 14.º Os depósitos a prazo nos departamentos financeiros dos bancos comerciais apenas serão exigíveis findo o prazo por que foram efectuados, prazo que não deverá ser inferior a um ano e se considerará prorrogado por um período igual, no caso de não haver declaração em contrário feita pelo depositante até à data de vencimento do depósito.
+Art. 14.º Os depósitos a prazo nos departamentos financeiros dos bancos comerciais apenas serão exigíveis findo o prazo por que foram efectuados, prazo que não deverá ser inferior a um ano e se considerará prorrogado por um período igual, no caso de não haver declaração em contrário feita pelo depositante até à data de vencimento do depósito.
 
 § 1.º Os bancos comerciais ficam obrigados a entregar aos depositantes a prazo que o exigirem livranças representativas das quantias depositadas, as quais só poderão ser descontadas noutras instituições de crédito.
 
@@ -190,7 +198,7 @@ d) Outras operações a médio ou a longo prazos, cujas condições gerais tenha
 
 § 3.º Os bancos comerciais abonarão juros pelos depósitos a prazo efectuados nos seus departamentos financeiros, cuja taxa deverá ser fixada em conformidade com as disposições legais em vigor para esse tipo de depósitos.
 
-###### Art. 15.º Os bancos comerciais, com o fim de obterem recursos para os seus departamentos financeiros, poderão celebrar contratos de empréstimos a médio e a longo prazos com quaisquer instituições de crédito ou outras pessoas singulares ou colectivas, nacionais ou estrangeiras, nos termos da legislação aplicável.
+Art. 15.º Os bancos comerciais, com o fim de obterem recursos para os seus departamentos financeiros, poderão celebrar contratos de empréstimos a médio e a longo prazos com quaisquer instituições de crédito ou outras pessoas singulares ou colectivas, nacionais ou estrangeiras, nos termos da legislação aplicável.
 
 § 1.º Aos empréstimos referidos no presente artigo será aplicável o disposto no artigo 12.º deste diploma.
 
@@ -200,11 +208,11 @@ d) Outras operações a médio ou a longo prazos, cujas condições gerais tenha
 
 § 4.º O disposto no parágrafo anterior não obsta a que, quando um banco comercial tenha a sua sede num território nacional e departamentos financeiros noutros territórios nacionais, se abram e movimentem, entre aquela sede e estes departamentos, as contas necessárias à escrituração de eventuais pagamentos e recebimentos ou transferências de lucros e encargos, mas a realização destas operações deverá conformar-se sempre com as disposições reguladoras das operações de pagamentos interterritoriais.
 
-###### Art. 16.º Quando o julgarem necessário, os bancos comerciais poderão, em nome dos seus departamentos financeiros, abrir contas e constituir e manter depósitos à ordem ou a prazo em outras instituições de crédito domiciliadas num território nacional ou estrangeiro, em conformidade, quando for caso disso, com as disposições reguladoras das operações cambiais ou de pagamentos interterritoriais.
+Art. 16.º Quando o julgarem necessário, os bancos comerciais poderão, em nome dos seus departamentos financeiros, abrir contas e constituir e manter depósitos à ordem ou a prazo em outras instituições de crédito domiciliadas num território nacional ou estrangeiro, em conformidade, quando for caso disso, com as disposições reguladoras das operações cambiais ou de pagamentos interterritoriais.
 
 ### CAPÍTULO IV — Dos fundos de reserva e garantia e dos lucros dos departamentos financeiros
 
-###### Art. 17.º Os departamentos financeiros dos bancos comerciais constituirão os seguintes fundos:
+Art. 17.º Os departamentos financeiros dos bancos comerciais constituirão os seguintes fundos:
 
 a) Fundo de reserva geral;
 
@@ -212,13 +220,13 @@ b) Fundo de reserva especial;
 
 c) Fundo de garantia.
 
-###### Art. 18.º O fundo de reserva geral será formado por 10 por cento dos lucros anuais do próprio departamento.
+Art. 18.º O fundo de reserva geral será formado por 10 por cento dos lucros anuais do próprio departamento.
 
-###### Art. 19.º O fundo de reserva especial será constituído por 5 por cento dos lucros anuais do próprio departamento e por quaisquer outras importâncias que lhe forem atribuídas pela assembleia geral do banco.
+Art. 19.º O fundo de reserva especial será constituído por 5 por cento dos lucros anuais do próprio departamento e por quaisquer outras importâncias que lhe forem atribuídas pela assembleia geral do banco.
 
 § único. O fundo de reserva especial não terá limite e será destinado a cobrir as depreciações do activo do departamento que a conta «Ganhos e perdas» própria do mesmo departamento não comportar.
 
-###### Art. 20.º O fundo de garantia será formado por uma percentagem de todos os juros e comissões cobrados pelo departamento financeiro que a administração do banco determinará, pelas importâncias que lhe forem atribuídas pela assembleia geral do banco e, bem assim, pelos rendimentos próprios do fundo.
+Art. 20.º O fundo de garantia será formado por uma percentagem de todos os juros e comissões cobrados pelo departamento financeiro que a administração do banco determinará, pelas importâncias que lhe forem atribuídas pela assembleia geral do banco e, bem assim, pelos rendimentos próprios do fundo.
 
 § 1.º A percentagem dos juros e comissões cobrados pelo departamento financeiro referida no presente artigo nunca poderá ser inferior a 5 por cento do montante desses juros e comissões.
 
@@ -226,9 +234,9 @@ c) Fundo de garantia.
 
 § 3.º Os fundos de garantia dos departamentos financeiros serão aplicados em títulos de obrigação emitidos ou garantidos pelo Estado ou pelas províncias ultramarinas, que deverão figurar em rubrica especial do activo dos mesmos departamentos.
 
-###### Art. 21.º Os prejuízos dos departamentos financeiros que não puderem ser suportados pelos seus fundos próprios para o efeito formados serão da responsabilidade dos bancos comerciais que constituírem esses departamentos.
+Art. 21.º Os prejuízos dos departamentos financeiros que não puderem ser suportados pelos seus fundos próprios para o efeito formados serão da responsabilidade dos bancos comerciais que constituírem esses departamentos.
 
-###### Art. 22.º Os lucros líquidos anuais dos departamentos financeiros dos bancos comerciais terão a distribuição seguinte:
+Art. 22.º Os lucros líquidos anuais dos departamentos financeiros dos bancos comerciais terão a distribuição seguinte:
 
 1.º 10 por cento para o fundo de reserva geral, nos termos do artigo 18.º;
 
@@ -244,7 +252,7 @@ c) Fundo de garantia.
 
 #### SECÇÃO I — Das operações de crédito a médio prazo
 
-###### Art. 23.º As operações de crédito agrícola e pecuário a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
+Art. 23.º As operações de crédito agrícola e pecuário a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
 
 1.º Preparação ou adaptação de terrenos para culturas, pastagens ou arborização, compreendendo neste caso a aquisição de plantas;
 
@@ -262,7 +270,7 @@ c) Fundo de garantia.
 
 8.º Outros investimentos relacionados directamente com o fomento agro-pecuário que, como os anteriores, se consideram, pela sua natureza, financiáveis por crédito a médio prazo.
 
-###### Art. 24.º As operações de crédito industrial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a empresas que explorem indústrias em boas condições técnicas e económicas recursos financeiros, por meio do empréstimo, para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
+Art. 24.º As operações de crédito industrial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a empresas que explorem indústrias em boas condições técnicas e económicas recursos financeiros, por meio do empréstimo, para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
 
 1.º Aquisição de equipamentos, nomeadamente máquinas, utensílios e material de transporte, e respectivas reparações;
 
@@ -278,7 +286,7 @@ c) Fundo de garantia.
 
 7.º Outros investimentos relacionados directamente com o fomento industrial que, como os anteriores, se considerem, pela sua natureza, financiáveis por crédito a médio prazo.
 
-###### Art. 25.º As operações de crédito predial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a quaisquer empresas recursos financeiros, por meio de empréstimos, para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
+Art. 25.º As operações de crédito predial a médio prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar a quaisquer empresas recursos financeiros, por meio de empréstimos, para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
 
 1.º Construção de armazéns e outras instalações de natureza comercial para conservação ou venda de produtos, incluindo as despesas de aquisição dos terrenos necessários;
 
@@ -286,7 +294,7 @@ c) Fundo de garantia.
 
 #### SECÇÃO II — Das operações de crédito a longo prazo
 
-###### Art. 26.º As operações de crédito agrícola e pecuário a longo prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
+Art. 26.º As operações de crédito agrícola e pecuário a longo prazo dos departamentos financeiros dos bancos comerciais deverão ter por fim facultar, por meio de empréstimos, recursos financeiros para as seguintes aplicações na província ultramarina em que os departamentos estiverem constituídos:
 
 1.º Compra de terrenos destinados à exploração agrícola, florestal e/ou pecuária, quando dela possa resultar a melhoria ou intensificação da exploração de um conjunto agrário;
 
@@ -304,7 +312,7 @@ c) Fundo de garantia.
 
 8.º Outros investimentos relacionados directamente com o fomento agro-pecuário que, como os anteriores, se considerem, pela sua natureza, financiáveis por crédito a longo prazo.
 
-###### Art. 27.º Os departamentos financeiros dos bancos comerciais poderão conceder crédito industrial a longo prazo mediante empréstimos, desde que concorram as seguintes condições:
+Art. 27.º Os departamentos financeiros dos bancos comerciais poderão conceder crédito industrial a longo prazo mediante empréstimos, desde que concorram as seguintes condições:
 
 a) Os investimentos serem efectuados na província em que o departamento financeiro estiver constuído e terem por finalidade, qualquer que seja a forma de que se revistam, a introdução de novos fabricos, a redução de custos, a melhoria da qualidade dos produtos e/ou desenvolvimento da produção;
 
@@ -314,29 +322,29 @@ c) A indústria, nova ou já existente, revestir interesse para a economia da pr
 
 d) O estabelecimento fabril, existente ou projectado, obedecer aos requisitos tecnológicos basilares da indústria na época em que for solicitado o crédito, ou poder a eles se adaptar pela aplicação do empréstimo.
 
-###### Art. 28.º Os departamentos financeiros dos bancos comerciais poderão conceder crédito predial a longo prazo, mediante empréstimos e para fins semelhantes aos indicados no artigo 25.º, quando a natureza do investimento justificar o financiamento por crédito a longo prazo.
+Art. 28.º Os departamentos financeiros dos bancos comerciais poderão conceder crédito predial a longo prazo, mediante empréstimos e para fins semelhantes aos indicados no artigo 25.º, quando a natureza do investimento justificar o financiamento por crédito a longo prazo.
 
 #### SECÇÃO III — Das condições especiais e garantias dos empréstimos
 
-###### Art. 29.º Os empréstimos feitos pelos departamentos financeiros dos bancos comerciais poderão ser utilizados em conta corrente, mas o respectivo período de utilização, quando se trate de empréstimos a longo prazo, não poderá exceder os primeiros cinco anos, a contar da data em que a operação houver sido acordada.
+Art. 29.º Os empréstimos feitos pelos departamentos financeiros dos bancos comerciais poderão ser utilizados em conta corrente, mas o respectivo período de utilização, quando se trate de empréstimos a longo prazo, não poderá exceder os primeiros cinco anos, a contar da data em que a operação houver sido acordada.
 
-###### Art. 30.º Às operações de crédito dos departamentos financeiros dos bancos comerciais serão aplicáveis os princípios estabelecidos no artigo 58.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), tomando como termo de referência o montante do capital e fundos de reserva dos mesmos departamentos, consignados ou constituídos nos termos dos artigos 9.º e 10.º do presente diploma.
+Art. 30.º Às operações de crédito dos departamentos financeiros dos bancos comerciais serão aplicáveis os princípios estabelecidos no artigo 58.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), tomando como termo de referência o montante do capital e fundos de reserva dos mesmos departamentos, consignados ou constituídos nos termos dos artigos 9.º e 10.º do presente diploma.
 
-###### Art. 31.º No acto dos empréstimos, os bancos comerciais receberão dos mutuários, ou poderão reter do capital a mutuar, a importância certa ou provável das despesas do contrato e registo, efectuando depois a liquidação de qualquer diferença que for verificada.
+Art. 31.º No acto dos empréstimos, os bancos comerciais receberão dos mutuários, ou poderão reter do capital a mutuar, a importância certa ou provável das despesas do contrato e registo, efectuando depois a liquidação de qualquer diferença que for verificada.
 
-###### Art. 32.º O reembolso dos créditos a médio e a longo prazos será feito conforme os interessados acordarem.
+Art. 32.º O reembolso dos créditos a médio e a longo prazos será feito conforme os interessados acordarem.
 
 § único. Quando o reembolso for feito de forma escalonada, a importância de cada prestação compreenderá o juro dos capitais mutuados e o valor de amortização dos mesmos capitais e será pago no dia do respectivo vencimento ou no primeiro dia útil imediato.
 
-###### Art. 33.º As prestações que não forem pagas nos respectivos vencimentos, as despesas com a celebração dos contratos e registo predial, as da cobrança e execução judicial dos créditos e quaisquer outras que decorram necessária e imediatamente dos contratos vencerão juros, a favor dos departamentos financeiros dos bancos comerciais, a taxa igual à dos correspondentes empréstimos.
+Art. 33.º As prestações que não forem pagas nos respectivos vencimentos, as despesas com a celebração dos contratos e registo predial, as da cobrança e execução judicial dos créditos e quaisquer outras que decorram necessária e imediatamente dos contratos vencerão juros, a favor dos departamentos financeiros dos bancos comerciais, a taxa igual à dos correspondentes empréstimos.
 
-###### Art. 34.º Os devedores poderão reembolsar os empréstimos, no todo ou em parte, depois de completados dois ou seis anos, a contar da data da respectiva concessão, conforme se trate de empréstimos a médio ou a longo prazos, desde que previnam os departamentos financeiros respectivos com antecedência de cento e oitenta dias sobre a data em que usarão dessa faculdade.
+Art. 34.º Os devedores poderão reembolsar os empréstimos, no todo ou em parte, depois de completados dois ou seis anos, a contar da data da respectiva concessão, conforme se trate de empréstimos a médio ou a longo prazos, desde que previnam os departamentos financeiros respectivos com antecedência de cento e oitenta dias sobre a data em que usarão dessa faculdade.
 
 § único. Os prazos mencionados no presente artigo poderão ser reduzidos, desde que assim convenha aos bancos comerciais.
 
-###### Art. 35.º As taxas de juro das operações de crédito a médio e a longo prazos dos departamentos financeiros dos bancos comerciais não poderão exceder os limites legalmente fixados para as operações de igual natureza efectuadas pelos mesmos bancos.
+Art. 35.º As taxas de juro das operações de crédito a médio e a longo prazos dos departamentos financeiros dos bancos comerciais não poderão exceder os limites legalmente fixados para as operações de igual natureza efectuadas pelos mesmos bancos.
 
-###### Art. 36.º As operações de crédito a médio ou a longo prazos deverão ser garantidas por qualquer das formas seguintes:
+Art. 36.º As operações de crédito a médio ou a longo prazos deverão ser garantidas por qualquer das formas seguintes:
 
 a) Hipoteca;
 
@@ -362,19 +370,19 @@ d) Aval do Estado ou das províncias ultramarinas ou de qualquer instituto de cr
 
 § 8.º No caso de garantias constituídas pelos valores referidos na alínea c), poderão os devedores substitui-los por outros da mesma natureza e igual valor, por forma que se mantenha a integridade da garantia; mas, enquanto aqueles valores não forem substituídos, o fiel depositário nomeado fica responsável pela apresentação, quando exigida, do valor deles conforme a avaliação feita.
 
-###### Art. 37.º Os créditos garantidos por hipoteca ou penhor, nos termos das alíneas a) e c) do artigo precedente, vencer-se-ão logo que o objecto destas garantias seja alienado ou onerado sem consentimento do banco.
+Art. 37.º Os créditos garantidos por hipoteca ou penhor, nos termos das alíneas a) e c) do artigo precedente, vencer-se-ão logo que o objecto destas garantias seja alienado ou onerado sem consentimento do banco.
 
-###### Art. 38.º Nas operações de crédito dos seus departamentos financeiros os bancos comerciais observarão os limites e condições estabelecidos pelos artigos 59.º e 60.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 38.º Nas operações de crédito dos seus departamentos financeiros os bancos comerciais observarão os limites e condições estabelecidos pelos artigos 59.º e 60.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 § único. Quando se trate das garantias referidas nas alíneas a) e c) do artigo 36.º, com excepção de prédios, os departamentos financeiros não concederão créditos por importância superior a 50 por cento do valor da avaliação dos bens em causa e, no caso de penhor de gados, a 40 por cento do correspondente valor.
 
-###### Art. 39.º Poderá ser convencionado que os créditos concedidos pelos departamentos financeiros sejam imediatamente exigidos, ainda antes do respectivo vencimento, independentemente de outros casos permitidos por lei, quando, sem autorização expressa dos bancos comerciais respectivos:
+Art. 39.º Poderá ser convencionado que os créditos concedidos pelos departamentos financeiros sejam imediatamente exigidos, ainda antes do respectivo vencimento, independentemente de outros casos permitidos por lei, quando, sem autorização expressa dos bancos comerciais respectivos:
 
 a) Forem alienados, onerados ou retirados dos respectivos edifícios quaisquer maquinismos ou móveis compreendidos em hipotecas de prédios constituídas a seu favor;
 
 b) For dada aos fundos provenientes do empréstimo aplicação diferente daquela para que o mesmo foi concedido.
 
-###### Art. 40.º Nos casos em que assista aos bancos comerciais, por força dos créditos outorgados pelos departamentos financeiros, o direito de exigir o reforço das garantias constituídas, ou o pagamento imediato do seu crédito, e eles pretendam efectivar esse direito, farão as respectivas comunicações aos devedores por simples carta registada com aviso de recepção.
+Art. 40.º Nos casos em que assista aos bancos comerciais, por força dos créditos outorgados pelos departamentos financeiros, o direito de exigir o reforço das garantias constituídas, ou o pagamento imediato do seu crédito, e eles pretendam efectivar esse direito, farão as respectivas comunicações aos devedores por simples carta registada com aviso de recepção.
 
 § único. Os devedores ou os fiéis depositários, quando for caso disso, são obrigados a comunicar aos bancos comerciais no prazo máximo de quinze dias, relativamente aos créditos recebidos dos departamentos financeiros:
 
@@ -388,7 +396,7 @@ d) Quaisquer actos ou factos que tornem controverso o direito de propriedade.
 
 ### CAPÍTULO VI — Das garantias a terceiros e outras operações dos departamentos financeiros
 
-###### Art. 41.º Os bancos comerciais, pelos seus departamentos financeiros, poderão prestar fianças destinadas a garantir o cumprimento de obrigações assumidas por empresas privadas quando se verifiquem as condições legais e as obrigações caucionadas tenham sido assumidas para as aplicações previstas nas secções I e II do capítulo anterior e em conformidade com os requisitos indicados nos artigos das mesmas secções.
+Art. 41.º Os bancos comerciais, pelos seus departamentos financeiros, poderão prestar fianças destinadas a garantir o cumprimento de obrigações assumidas por empresas privadas quando se verifiquem as condições legais e as obrigações caucionadas tenham sido assumidas para as aplicações previstas nas secções I e II do capítulo anterior e em conformidade com os requisitos indicados nos artigos das mesmas secções.
 
 § 1.º As fianças serão prestadas, tendo em atenção as aplicações mencionadas no presente artigo e o disposto nos artigos 23.º e 28.º, por períodos compreendidos no médio ou no longo prazos.
 
@@ -396,29 +404,29 @@ d) Quaisquer actos ou factos que tornem controverso o direito de propriedade.
 
 § 3.º Às cauções aludidas no parágrafo anterior é extensivo, na parte aplicável, o disposto nos §§ 2.º e 3.º do artigo 36.º
 
-###### Art. 42.º As operações previstas nos artigos 62.º e 63.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), nomeadamente a tomada firme de títulos emitidos pelas províncias ultramarinas, poderão ser efectuadas através de departamentos financeiros estabelecidos nos termos do artigo 4.º do presente diploma, desde que a correspondente autorização seja conferida no decreto de constituição previsto no artigo 1.º
+Art. 42.º As operações previstas nos artigos 62.º e 63.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), nomeadamente a tomada firme de títulos emitidos pelas províncias ultramarinas, poderão ser efectuadas através de departamentos financeiros estabelecidos nos termos do artigo 4.º do presente diploma, desde que a correspondente autorização seja conferida no decreto de constituição previsto no artigo 1.º
 
-###### Art. 43.º A aquisição de acções de quaisquer empresas pelos departamentos financeiros dos bancos comerciais não poderá exceder 20 por cento do capital social de cada empresa, sem embargo da faculdade de os mesmos departamentos investirem em acções de empresas que tenham distribuído regularmente dividendos nos últimos cinco anos os valores das suas reservas livres e de conservar em carteira, pelo prazo considerado indispensável à sua boa liquidação ou, se for caso disso, pelo prazo fixado no § 1.º do artigo 28.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), os títulos adquiridos em reembolso de crédito próprio por qualquer meio legal de aquisição, incluindo a arrematação judicial.
+Art. 43.º A aquisição de acções de quaisquer empresas pelos departamentos financeiros dos bancos comerciais não poderá exceder 20 por cento do capital social de cada empresa, sem embargo da faculdade de os mesmos departamentos investirem em acções de empresas que tenham distribuído regularmente dividendos nos últimos cinco anos os valores das suas reservas livres e de conservar em carteira, pelo prazo considerado indispensável à sua boa liquidação ou, se for caso disso, pelo prazo fixado no § 1.º do artigo 28.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), os títulos adquiridos em reembolso de crédito próprio por qualquer meio legal de aquisição, incluindo a arrematação judicial.
 
-###### Art. 44.º O montante da subscrição ou compra, pelos departamentos financeiros dos bancos comerciais, de títulos de obrigação emitidos por empresas privadas não poderá ultrapassar, em relação a cada empresa, 1/3 da importância total das obrigações emitidas ou em circulação, no caso de obrigações sem garantia do Estado ou das províncias ultramarinas, ou 50 por cento da mesma importância, quando se trate de obrigações com essa garantia.
+Art. 44.º O montante da subscrição ou compra, pelos departamentos financeiros dos bancos comerciais, de títulos de obrigação emitidos por empresas privadas não poderá ultrapassar, em relação a cada empresa, 1/3 da importância total das obrigações emitidas ou em circulação, no caso de obrigações sem garantia do Estado ou das províncias ultramarinas, ou 50 por cento da mesma importância, quando se trate de obrigações com essa garantia.
 
 § único. As restrições e limites estabelecidos no presente artigo não são aplicáveis quando os títulos forem adquiridos para reembolso de crédito próprio, devendo estes, no entanto, ser alienados no prazo máximo de um ano, a contar da data da aquisição.
 
-###### Art. 45.º O montante das operações realizadas nos termos dos artigos 43.º e 44.º anteriores não poderá exceder, para cada departamento financeiro, a soma de 1/5 do capital consignado nos termos do n.º 1.º do artigo 9.º e do artigo 10.º e dos seus fundos de reserva.
+Art. 45.º O montante das operações realizadas nos termos dos artigos 43.º e 44.º anteriores não poderá exceder, para cada departamento financeiro, a soma de 1/5 do capital consignado nos termos do n.º 1.º do artigo 9.º e do artigo 10.º e dos seus fundos de reserva.
 
-###### Art. 46.º Os departamentos financeiros dos bancos comerciais só poderão subscrever ou adquirir títulos de obrigação emitidos por pessoas colectivas de direito público até à concorrência da importância disponível dos fundos iniciais de reserva e de garantia constituídos pelos mesmos departamentos.
+Art. 46.º Os departamentos financeiros dos bancos comerciais só poderão subscrever ou adquirir títulos de obrigação emitidos por pessoas colectivas de direito público até à concorrência da importância disponível dos fundos iniciais de reserva e de garantia constituídos pelos mesmos departamentos.
 
-###### Art. 47.º Aos departamentos financeiros dos bancos comerciais constituídos ao abrigo do disposto no artigo 4.º do presente decreto é aplicável o disposto nos artigos 53.º e 54.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), e os mesmos departamentos poderão exercer comissões de confiança nos termos previstos pelos artigos 55.º a 57.º do dito decreto-lei.
+Art. 47.º Aos departamentos financeiros dos bancos comerciais constituídos ao abrigo do disposto no artigo 4.º do presente decreto é aplicável o disposto nos artigos 53.º e 54.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387), e os mesmos departamentos poderão exercer comissões de confiança nos termos previstos pelos artigos 55.º a 57.º do dito decreto-lei.
 
 § único. O estabelecido no artigo 57.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) não será aplicável quando da extinção de departamento financeiro constituído ao abrigo do disposto no § 3.º do artigo 4.º do presente diploma, caso em que as comissões de confiança serão transferidas para a dependência estabelecida pelo banco comercial.
 
 ### CAPÍTULO VII — Das contas e balanços dos departamentos financeiros
 
-###### Art. 48.º A contabilidade dos departamentos financeiros dos bancos comerciais deverá ser organizada de acordo com a classificação e nomenclatura de contas a fixar pela Direcção-Geral de Economia, do Ministério do Ultramar, tendo em atenção a natureza especial dos departamentos e as instruções que vigorarem sobre a contabilidade geral dos ditos bancos comerciais.
+Art. 48.º A contabilidade dos departamentos financeiros dos bancos comerciais deverá ser organizada de acordo com a classificação e nomenclatura de contas a fixar pela Direcção-Geral de Economia, do Ministério do Ultramar, tendo em atenção a natureza especial dos departamentos e as instruções que vigorarem sobre a contabilidade geral dos ditos bancos comerciais.
 
 § único. A organização dos balanços anuais próprios dos departamentos financeiros, que constituirão parte distinta dos balanços gerais dos respectivos bancos comerciais, e os critérios a adoptar na valorização dos vários elementos do activo e passivo dos departamentos obedecerão às instruções que a referida Direcção-Geral expedir, nas quais se terá em conta, nomeadamente, o disposto no artigo 79.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
-###### Art. 49.º Os bancos comerciais são obrigados a enviar á inspecção de crédito e seguros ou do comércio bancário da respectiva província, elaborados segundo a classificação de contas a que se refere o artigo precedente e assinados por um administrador e pelo chefe da contabilidade, relativamente aos departamentos financeiros:
+Art. 49.º Os bancos comerciais são obrigados a enviar á inspecção de crédito e seguros ou do comércio bancário da respectiva província, elaborados segundo a classificação de contas a que se refere o artigo precedente e assinados por um administrador e pelo chefe da contabilidade, relativamente aos departamentos financeiros:
 
 1.º Até ao dia 15 de cada mês, o balancete do Razão referido ao último dia útil do mês precedente, acompanhado dos desdobramentos de contas que se reputarem necessários;
 
@@ -434,25 +442,25 @@ a) De mapas discriminativos dos empréstimos por obrigações e das outras respo
 
 b) De mapas elucidativos da natureza, fins, prazos e garantias das operações de crédito realizadas pelos departamentos, em conformidade com o estabelecido pelos artigos 23.º a 28.º do presente diploma.
 
-###### Art. 50.º Os balancetes trimestrais, os balanços anuais e as contas «Ganhos e perdas» dos departamentos financeiros terão a publicidade determinada no artigo 22.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 50.º Os balancetes trimestrais, os balanços anuais e as contas «Ganhos e perdas» dos departamentos financeiros terão a publicidade determinada no artigo 22.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 ### CAPÍTULO VIII — Disposições especiais
 
-###### Art. 51.º É aplicável aos departamentos financeiros dos bancos comerciais, nas províncias ultramarinas, designadamente o disposto nos artigos 31.º a 33.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 51.º É aplicável aos departamentos financeiros dos bancos comerciais, nas províncias ultramarinas, designadamente o disposto nos artigos 31.º a 33.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 § 1.º No caso de departamentos financeiros constituídos ao abrigo do previsto pelo artigo 4.º do presente decreto, é-lhes aplicável também o estatuído nos artigos 81.º, 82.º e 84.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
 § 2.º Será aplicável aos departamentos financeiros a quota de fiscalização prevista no artigo 14.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387) para os bancos de investimento.
 
-###### Art. 52.º As transgressões ao estabelecido no presente diploma serão punidas de conformidade com o previsto pelo artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
+Art. 52.º As transgressões ao estabelecido no presente diploma serão punidas de conformidade com o previsto pelo artigo 122.º do [Decreto-Lei n.º 45296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45296-1963-687387).
 
-###### Art. 53.º Todos os encargos notariais ou em conservatórias de registo predial inerentes a actos e contratos destinados à realização de operações de crédito pelos departamentos financeiros, nos termos deste diploma, serão reduzidos a 50 por cento quando isenção ou redução superior não estiver estabelecida por lei.
+Art. 53.º Todos os encargos notariais ou em conservatórias de registo predial inerentes a actos e contratos destinados à realização de operações de crédito pelos departamentos financeiros, nos termos deste diploma, serão reduzidos a 50 por cento quando isenção ou redução superior não estiver estabelecida por lei.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Maio de 1969.**
+Promulgado em 12 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

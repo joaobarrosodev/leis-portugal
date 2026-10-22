@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48266-1968-235327
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57e757b72c0358a84a2bf1dfea32e67aae60de95709ccb7eb8d03d01b0729e53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cec763ed763637d7864468a5fa6223e8e843786e1e11ef6e735f875b53557722
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:26Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +102,11 @@ Nestas condições:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição Política, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, a celebrar com a Automática Eléctrica Portuguesa, S. A. R. L., um adicional ao contrato a longo prazo, em vigor, para o fornecimento da aparelhagem de comutação, estações telefónicas automáticas e diverso material telefónico necessário ao prosseguimento da automatização da rede telefónica nacional, pela importância de 40713000$00.
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, a celebrar com a Automática Eléctrica Portuguesa, S. A. R. L., um adicional ao contrato a longo prazo, em vigor, para o fornecimento da aparelhagem de comutação, estações telefónicas automáticas e diverso material telefónico necessário ao prosseguimento da automatização da rede telefónica nacional, pela importância de 40713000$00.
 
-###### Art. 2.º A esta importância, que inclui o preço do material, seu transporte e montagem e o imposto de transacções, acrescerá a correspondente aos encargos de capital proveniente do pagamento diferido e a que resultar da correcção de preços de alguns dos componentes especiais até ao montante de 56400000$00.
+Art. 2.º A esta importância, que inclui o preço do material, seu transporte e montagem e o imposto de transacções, acrescerá a correspondente aos encargos de capital proveniente do pagamento diferido e a que resultar da correcção de preços de alguns dos componentes especiais até ao montante de 56400000$00.
 
-###### Art. 3.º O pagamento será efectuado em seis prestações anuais, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender, em cada ano económico, mais do que as seguintes importâncias:
+Art. 3.º O pagamento será efectuado em seis prestações anuais, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender, em cada ano económico, mais do que as seguintes importâncias:
 
 Em 1969 ... 8236590$00
 
@@ -114,12 +122,12 @@ Em 1974 ... 8560000$50
 
 acrescidas das que se apurarem como saldo nos anos anteriores e do encargo resultante da correcção de preços prevista no artigo 2.º, até ao valor máximo no mesmo artigo indicado.
 
-###### Art. 4.º O encargo da aquisição em causa poderá ser titulado por letras, com aceites de um dos administradores e do director dos Serviços Financeiros da Administração-Geral dos Correios, Telégrafos e Telefones, ou dos seus substitutos legais em condições a estabelecer entre as partes contratantes.
+Art. 4.º O encargo da aquisição em causa poderá ser titulado por letras, com aceites de um dos administradores e do director dos Serviços Financeiros da Administração-Geral dos Correios, Telégrafos e Telefones, ou dos seus substitutos legais em condições a estabelecer entre as partes contratantes.
 
-###### Art. 5.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá em qualquer altura da execução deste adicional, e desde que para tanto tenha as necessárias disponibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, neste caso, sem efeito os limites referidos no artigo 3.º
+Art. 5.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá em qualquer altura da execução deste adicional, e desde que para tanto tenha as necessárias disponibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, neste caso, sem efeito os limites referidos no artigo 3.º
 
 A antecipação será feita com o correspondente desconto dos encargos de capital.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

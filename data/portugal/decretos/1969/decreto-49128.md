@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49128-1969-199591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4857d16f25997eb0f8919ef9a01a9d9b87a3fe684aebb3112bd315f4574c54fa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d4b8bac48cce6d10766a8d53ae3ad34b0531204133be8fc8548978d094f5b12a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:18Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Por motivo de urgência e tendo em vista o disposto no § 1.º do artigo 150.º 
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São fixados os seguintes quantitativos do subsídio diário a abonar ao pessoal técnico do Serviço Meteorológico de Moçambique:
+Artigo 1.º São fixados os seguintes quantitativos do subsídio diário a abonar ao pessoal técnico do Serviço Meteorológico de Moçambique:
 
 Pessoal técnico com curso superior - 70$00 a 150$00.
 
@@ -100,13 +100,13 @@ Observadores, chefes dos serviços radioeléctricos, assistente técnico radioel
 
 § 2.º Não tem direito a subsídio diário o pessoal técnico assalariado.
 
-###### Art. 2.º O subsídio diário a que se refere o artigo anterior é acumulável com quaisquer gratificações, subsídios ou ajudas de custo a que os funcionários tenham direito.
+Art. 2.º O subsídio diário a que se refere o artigo anterior é acumulável com quaisquer gratificações, subsídios ou ajudas de custo a que os funcionários tenham direito.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Julho de 1969.**
+Promulgado em 2 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

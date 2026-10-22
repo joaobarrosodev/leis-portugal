@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 44/1968, 1º Suplemento, Série I de 1968-02-21
   number: '44'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 285 - 289
   pdf_url: https://files.diariodarepublica.pt/1s/1968/02/04401/02850289.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48258-1968-143552
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c04f5f93f37ae72f8ae56474c88313fba9b5f0eee427265ce0f8aa2574dea1f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87181e550d79786265e6e0a899328107e023bcaca4c684a87df1576e069714b2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:25Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +94,9 @@ DIPLOMA ORGÂNICO DO SERVIÇO DE PREVENÇÃO E FISCALIZAÇÃO TRIBUTÁRIA
 
 ### CAPÍTULO I — Da organização e atribuições do serviço
 
-###### Artigo 1.º Nos Serviços de Fazenda e Contabilidade da província de Moçambique é criado o Serviço de Prevenção e Fiscalização Tributária, preparatório e coadjuvante da acção de justiça fiscal, competindo-lhe em especial a fiscalização de todas as contribuições e impostos, taxas e demais receitas cobradas por intermédio dos Serviços Provinciais de Fazenda e Contabilidade.
+Artigo 1.º Nos Serviços de Fazenda e Contabilidade da província de Moçambique é criado o Serviço de Prevenção e Fiscalização Tributária, preparatório e coadjuvante da acção de justiça fiscal, competindo-lhe em especial a fiscalização de todas as contribuições e impostos, taxas e demais receitas cobradas por intermédio dos Serviços Provinciais de Fazenda e Contabilidade.
 
-###### Art. 2.º No exercício das funções que lhe são cometidas pelo artigo anterior, incumbe designadamente ao Serviço de Prevenção e Fiscalização Tributária:
+Art. 2.º No exercício das funções que lhe são cometidas pelo artigo anterior, incumbe designadamente ao Serviço de Prevenção e Fiscalização Tributária:
 
 a) A observação, averiguação e notação dos factos que interessem à aplicação da lei fiscal;
 
@@ -112,11 +112,11 @@ f) O exame dos livros e documentos dos contribuintes e outros responsáveis, nos
 
 g) Quaisquer outras atribuições que por lei estejam ou venham a ser cometidas aos serviços de fiscalização.
 
-###### Art. 3.º O Serviço de Prevenção e Fiscalização Tributária funciona sob a superintendência do director provincial dos Serviços de Fazenda e Contabilidade.
+Art. 3.º O Serviço de Prevenção e Fiscalização Tributária funciona sob a superintendência do director provincial dos Serviços de Fazenda e Contabilidade.
 
 § único. O governador-geral, ouvido o director provincial dos Serviços de Fazenda e Contabilidade, designará por despacho o técnico economista de 1.ª classe que deverá chefiar o Serviço. Nos seus impedimentos, o chefe do Serviço será substituído por outro técnico economista de igual categoria, designado nos mesmos termos.
 
-###### Art. 4.º A acção do Serviço de Prevenção e Fiscalização Tributária é exercida:
+Art. 4.º A acção do Serviço de Prevenção e Fiscalização Tributária é exercida:
 
 a) Por um serviço central, directamente subordinado ao director provincial dos Serviços de Fazenda e Contabilidade;
 
@@ -126,7 +126,7 @@ c) Por serviços de áreas fiscais, subordinados aos respectivos secretários de
 
 § único. No distrito de Lourenço Marques a acção de prevenção e fiscalização tributária é exercida sob a direcção do serviço central.
 
-###### Art. 5.º Ao serviço central incumbe:
+Art. 5.º Ao serviço central incumbe:
 
 a) Coordenar e dirigir o Serviço, promovendo a uniformidade da acção preventivo-repressiva e da fiscalização em todo o território da província;
 
@@ -136,11 +136,11 @@ c) Organizar, em plano provincial, um registo das infracções fiscais, com os r
 
 d) Passar, quando solicitados, certificados de registo de infracções para instrução dos processos de transgressão ou para documentar as respectivas autuações.
 
-###### Art. 6.º Os trabalhos de secretaria do Serviço de Prevenção e Fiscalização Tributária serão executados pelo pessoal dos quadros dos Serviços Provinciais de Fazenda e Contabilidade de harmonia com as directivas que forem estabelecidas em despacho do respectivo director provincial.
+Art. 6.º Os trabalhos de secretaria do Serviço de Prevenção e Fiscalização Tributária serão executados pelo pessoal dos quadros dos Serviços Provinciais de Fazenda e Contabilidade de harmonia com as directivas que forem estabelecidas em despacho do respectivo director provincial.
 
 § único. Sem prejuízo do disposto no corpo deste artigo, poderá ser constituída na Direcção Provincial dos Serviços de Fazenda e Contabilidade uma secção destinada à execução dos mesmos trabalhos.
 
-###### Art. 7.º As atribuições próprias do Serviço de Prevenção e Fiscalização Tributária são desempenhadas pelos seguintes funcionários:
+Art. 7.º As atribuições próprias do Serviço de Prevenção e Fiscalização Tributária são desempenhadas pelos seguintes funcionários:
 
 a) Director provincial dos Serviços de Fazenda e Contabilidade;
 
@@ -160,7 +160,7 @@ f) Funcionários do quadro do Serviço de Prevenção e Fiscalização Tributár
 
 #### SECÇÃO I — Do quadro
 
-###### Art. 8.º O pessoal do Serviço de Prevenção e Fiscalização Tributária distribui-se pelos seguintes quadros:
+Art. 8.º O pessoal do Serviço de Prevenção e Fiscalização Tributária distribui-se pelos seguintes quadros:
 
 1. Quadro comum;
 
@@ -178,11 +178,11 @@ a) Técnicos verificadores de 2.ª classe;
 
 b) Ajudantes de verificador.
 
-###### Art. 9.º O quadro do pessoal e os respectivos vencimentos é o constante do mapa anexo a este diploma.
+Art. 9.º O quadro do pessoal e os respectivos vencimentos é o constante do mapa anexo a este diploma.
 
-###### Art. 10.º Os funcionários do quadro do Serviço de Prevenção e Fiscalização Tributária serão distribuídos pelos distritos, conforme a conveniência do serviço, por despacho do governador-geral, sob proposta do director provincial dos Serviços de Fazenda e Contabilidade.
+Art. 10.º Os funcionários do quadro do Serviço de Prevenção e Fiscalização Tributária serão distribuídos pelos distritos, conforme a conveniência do serviço, por despacho do governador-geral, sob proposta do director provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 11.º Quando imperiosas necessidades do serviço o justifiquem, poderá o governador-geral contratar ou subsidiar pessoas para a efectivação de estudos ou trabalhos especiais de natureza tributária e, bem assim, autorizar a remuneração de serviços prestados à fiscalização tributária por indivíduos estranhos ao quadro.
+Art. 11.º Quando imperiosas necessidades do serviço o justifiquem, poderá o governador-geral contratar ou subsidiar pessoas para a efectivação de estudos ou trabalhos especiais de natureza tributária e, bem assim, autorizar a remuneração de serviços prestados à fiscalização tributária por indivíduos estranhos ao quadro.
 
 § 1.º As remunerações devidas pelos estudos, trabalhos ou serviços, pagas por uma só vez, mensalmente ou conforme for determinado, serão fixadas por despacho do governador-geral, sendo acumuláveis com quaisquer outros vencimentos ou gratificações, mesmo que ultrapassem o limite legal.
 
@@ -190,7 +190,7 @@ b) Ajudantes de verificador.
 
 #### SECÇÃO II — Da competência do pessoal
 
-###### Art. 12.º Compete ao chefe do Serviço de Prevenção e Fiscalização Tributária dirigir, na imediata dependência do director provincial dos Serviços de Fazenda e Contabilidade, os respectivos serviços e desempenhar as funções que por lei ou determinação superior lhe sejam cometidas e, designadamente:
+Art. 12.º Compete ao chefe do Serviço de Prevenção e Fiscalização Tributária dirigir, na imediata dependência do director provincial dos Serviços de Fazenda e Contabilidade, os respectivos serviços e desempenhar as funções que por lei ou determinação superior lhe sejam cometidas e, designadamente:
 
 a) Fazer executar as ordens e instruções que receber do director provincial sobre o serviço a seu cargo;
 
@@ -206,7 +206,7 @@ f) Manter a ordem e disciplina no Serviço, vigiando com o maior cuidado a sua e
 
 g) Organizar um relatório anual sobre a acção desenvolvida durante o ano anterior, com apreciação pormenorizada das condições de facto verificadas que justifiquem, pelos seus reflexos e circunstâncias, a sua consideração em futuras alterações legais, com vista a evitar-se a evasão fiscal, a fraude, os factores de distorção ou de injustiça, bem como sobre os efeitos económicos e psicológicos dos vários impostos.
 
-###### Art. 13.º Aos directores distritais de Fazenda compete em geral a orientação e direcção da acção preventivo-repressiva e, em especial:
+Art. 13.º Aos directores distritais de Fazenda compete em geral a orientação e direcção da acção preventivo-repressiva e, em especial:
 
 a) O expediente respeitante à sua área e a expedição de instruções e ordens de serviço integradas na orientação geral e na preocupação de uma perfeita uniformidade de acção;
 
@@ -222,9 +222,9 @@ f) Elaborar semestralmente, em Janeiro e Julho de cada ano, relatórios circunst
 
 g) Remeter prontamente à Direcção Provincial dos Serviços as queixas ou reclamações contra qualquer funcionário do serviço externo, devidamente informadas sobre os seus fundamentos e gravidade, com o parecer do procedimento a adoptar.
 
-###### Art. 14.º Aos técnicos economistas compete estudar e interpretar os resultados apurados em avaliações, exames ou outras formas de arbitramento, ou intervir nelas directamente como peritos e exercer quaisquer outros actos de natureza técnica compatíveis com as suas habilitações, que lhe sejam cometidas por lei ou determinação superior.
+Art. 14.º Aos técnicos economistas compete estudar e interpretar os resultados apurados em avaliações, exames ou outras formas de arbitramento, ou intervir nelas directamente como peritos e exercer quaisquer outros actos de natureza técnica compatíveis com as suas habilitações, que lhe sejam cometidas por lei ou determinação superior.
 
-###### Art. 15.º Aos técnicos verificadores e aos ajudantes de verificador compete o exercício das funções que lhes sejam cometidas por lei ou determinação superior, e, designadamente:
+Art. 15.º Aos técnicos verificadores e aos ajudantes de verificador compete o exercício das funções que lhes sejam cometidas por lei ou determinação superior, e, designadamente:
 
 a) Observar e verificar os factos tributários e investigar sobre a existência de matéria colectável susceptível de imposto ou de sujeição ao cumprimento das obrigações fiscais;
 
@@ -234,9 +234,9 @@ c) Elaborar, trimestralmente, um relatório circunstanciado sobre a forma como d
 
 d) Solicitar, sempre que necessária, a colaboração de quaisquer repartições e autoridades locais sobre a matéria de interesse para os serviços.
 
-###### Art. 16.º Aos técnicos verificadores compete em especial visitar as repartições de Fazenda, segundo plano estabelecido pelo director distrital de Fazenda de acordo com a Direcção Provincial dos Serviços, examinar nestas os duplicados das notas individuais dos técnicos verificadores e ajudantes de verificador que aí prestem serviço e por eles entregues aos contribuintes, sugerir ao secretário de Fazenda a realização de diligências que se lhes afigurem aconselháveis e efectuar, por si ou acompanhados do respectivo ajudante, a verificação, pelo menos, de dez situações tributárias, por indicação superior ou por sugestão do próprio secretário de Fazenda.
+Art. 16.º Aos técnicos verificadores compete em especial visitar as repartições de Fazenda, segundo plano estabelecido pelo director distrital de Fazenda de acordo com a Direcção Provincial dos Serviços, examinar nestas os duplicados das notas individuais dos técnicos verificadores e ajudantes de verificador que aí prestem serviço e por eles entregues aos contribuintes, sugerir ao secretário de Fazenda a realização de diligências que se lhes afigurem aconselháveis e efectuar, por si ou acompanhados do respectivo ajudante, a verificação, pelo menos, de dez situações tributárias, por indicação superior ou por sugestão do próprio secretário de Fazenda.
 
-###### Art. 17.º Depois de verificada, em cada área fiscal, a acção dos Serviços de Prevenção e Fiscalização Tributária, deverá o respectivo técnico verificador:
+Art. 17.º Depois de verificada, em cada área fiscal, a acção dos Serviços de Prevenção e Fiscalização Tributária, deverá o respectivo técnico verificador:
 
 a) Preencher e entregar ao secretário de Fazenda, sempre que haja alteração dos elementos ou conclusões em relação à verificação do ajudante, uma nota discriminada das respectivas observações, com a correspondente proposta ou recomendação;
 
@@ -246,25 +246,25 @@ c) Relatar ao superior hierárquico todas as ocorrências da verificação e as 
 
 d) Propor superiormente a realização de exames ou de outras formas de arbitramento por peritos especializados, sempre que as circunstâncias de cada caso excedam a sua competência técnica ou exijam análises demoradas e em profundidade.
 
-###### Art. 18.º Se o secretário de Fazenda não concordar com as sugestões ou recomendações do verificador, nos termos do artigo anterior, deverá expor imediatamente ao superior hierárquico a razão por que não realiza as diligências recomendadas, a fim de que este decida sobre o procedimento a adoptar.
+Art. 18.º Se o secretário de Fazenda não concordar com as sugestões ou recomendações do verificador, nos termos do artigo anterior, deverá expor imediatamente ao superior hierárquico a razão por que não realiza as diligências recomendadas, a fim de que este decida sobre o procedimento a adoptar.
 
-###### Art. 19.º Aos secretários de Fazenda compete a orientação e chefia dos serviços de prevenção e fiscalização tributária em toda a sua área fiscal.
+Art. 19.º Aos secretários de Fazenda compete a orientação e chefia dos serviços de prevenção e fiscalização tributária em toda a sua área fiscal.
 
-###### Art. 20.º Aos funcionários sem competência específica estabelecida por lei incumbe executar os serviços de que sejam encarregados pelos respectivos superiores hierárquicos.
+Art. 20.º Aos funcionários sem competência específica estabelecida por lei incumbe executar os serviços de que sejam encarregados pelos respectivos superiores hierárquicos.
 
-###### Art. 21.º A competência dos funcionários do quadro do Serviço de Prevenção e Fiscalização Tributária de categoria superior à de ajudante de verificador, colocados na Direcção Provincial dos Serviços e nas direcções distritais de Fazenda, exerce-se, respectivamente, em todo o território da província e na área do respectivo distrito; a dos restantes funcionários restringe-se à área fiscal em que estejam colocados.
+Art. 21.º A competência dos funcionários do quadro do Serviço de Prevenção e Fiscalização Tributária de categoria superior à de ajudante de verificador, colocados na Direcção Provincial dos Serviços e nas direcções distritais de Fazenda, exerce-se, respectivamente, em todo o território da província e na área do respectivo distrito; a dos restantes funcionários restringe-se à área fiscal em que estejam colocados.
 
-###### Art. 22.º Sempre que nas leis se reconhecer aos directores distritais e secretários de Fazenda a faculdade de se fazerem representar no exame de livros e documentos dos contribuintes ou responsáveis, sejam ou não comerciantes, entender-se-á que essa representação pode ser exercida pelos funcionários do Serviço de Prevenção e Fiscalização Tributária, com relação aos seus superiores hierárquicos.
+Art. 22.º Sempre que nas leis se reconhecer aos directores distritais e secretários de Fazenda a faculdade de se fazerem representar no exame de livros e documentos dos contribuintes ou responsáveis, sejam ou não comerciantes, entender-se-á que essa representação pode ser exercida pelos funcionários do Serviço de Prevenção e Fiscalização Tributária, com relação aos seus superiores hierárquicos.
 
 § único. O disposto neste artigo não prejudica a representação exercida por outros funcionários, mas neste caso esta deve ser demonstrada por credencial passada para o efeito.
 
 #### SECÇÃO III — Do provimento dos lugares
 
-###### Art. 23.º Os lugares do quadro do Serviço de Prevenção e Fiscalização Tributária serão providos por contrato ou em comissão ordinária de serviço.
+Art. 23.º Os lugares do quadro do Serviço de Prevenção e Fiscalização Tributária serão providos por contrato ou em comissão ordinária de serviço.
 
 § único. As comissões ordinárias de serviço apenas se verificarão se os indivíduos a prover forem já funcionários de nomeação dos quadros de pessoal dos serviços públicos ultramarinos.
 
-###### Art. 24.º O provimento dos lugares far-se-á de harmonia com as seguintes regras:
+Art. 24.º O provimento dos lugares far-se-á de harmonia com as seguintes regras:
 
 a) Os lugares de técnico economista de 1.ª classe serão providos por escolha entre os técnicos economistas de 2.ª classe com quatro anos de serviço na classe e boas informações;
 
@@ -272,7 +272,7 @@ b) Os lugares de ajudante de verificador serão sempre exercidos em comissão po
 
 c) Os restantes lugares serão providos por indivíduos aprovados em concurso documental.
 
-###### Art. 25.º Podem ser candidatos aos concursos documentais:
+Art. 25.º Podem ser candidatos aos concursos documentais:
 
 a) Para técnicos economistas de 2.ª classe: os licenciados em Economia, Finanças ou Ciências Económicas e Financeiras;
 
@@ -286,15 +286,15 @@ c) Para técnicos verificadores de 2.ª classe: os indivíduos habilitados com o
 
 § 3.º Só podem ser admitidos aos concursos indivíduos do sexo masculino de idade não inferior a 21 anos nem superior a 40 anos. O último requisito é dispensado quando os candidatos sejam já funcionários públicos.
 
-###### Art. 26.º As nomeações em comissão ordinária de serviço e os provimentos feitos por contrato poderão ser convertidos em nomeações definitivas após oito anos de bom e efectivo serviço.
+Art. 26.º As nomeações em comissão ordinária de serviço e os provimentos feitos por contrato poderão ser convertidos em nomeações definitivas após oito anos de bom e efectivo serviço.
 
 § único. Se durante o período em que o funcionário desempenhar o cargo em comissão não revelar as qualidades exigidas ao seu completo exercício, regressará ao seu quadro de origem, logo que houver vaga.
 
 #### SECÇÃO IV — Dos direitos e deveres do pessoal
 
-###### Art. 27.º Em tudo o que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal do Serviço de Prevenção e Fiscalização Tributária regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
+Art. 27.º Em tudo o que não estiver previsto no presente diploma ou em outras leis especiais, os direitos e deveres do pessoal do Serviço de Prevenção e Fiscalização Tributária regulam-se pelo disposto no Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 28.º O pessoal do Serviço de Prevenção e Fiscalização Tributária goza dos seguintes direitos e prerrogativas:
+Art. 28.º O pessoal do Serviço de Prevenção e Fiscalização Tributária goza dos seguintes direitos e prerrogativas:
 
 a) De garantia administrativa, nos termos do artigo 145.º do Estatuto do Funcionalismo Ultramarino;
 
@@ -308,7 +308,7 @@ e) De poder prender, em flagrante delito, os indivíduos que os difamarem, injur
 
 f) De receber auxílio de quaisquer autoridades ou agentes de autoridade para o desempenho das missões que lhes forem confiadas.
 
-###### Art. 29.º Os funcionários do Serviço de Prevenção e Fiscalização Tributária serão abonados, nos termos da legislação em vigor, dos vencimentos e mais remunerações acessórias que competirem aos restantes funcionários dos Serviços de Fazenda e Contabilidade da província.
+Art. 29.º Os funcionários do Serviço de Prevenção e Fiscalização Tributária serão abonados, nos termos da legislação em vigor, dos vencimentos e mais remunerações acessórias que competirem aos restantes funcionários dos Serviços de Fazenda e Contabilidade da província.
 
 § único. Além das remunerações referidas no corpo deste artigo, são-lhes atribuídas as seguintes gratificações especiais mensais:
 
@@ -322,47 +322,47 @@ Técnicos verificadores de 2.ª classe ... 1400$00
 
 Ajudantes de verificador ... 1200$00
 
-###### Art. 30.º Os funcionários do quadro do Serviço de Prevenção e Fiscalização Tributária têm direito, por deslocação dentro da província, ao abono de ajudas de custo nos termos da lei geral, mas sem a limitação contida na parte final da alínea f) do § 2.º do artigo 196.º do Estatuto do Funcionalismo Ultramarino.
+Art. 30.º Os funcionários do quadro do Serviço de Prevenção e Fiscalização Tributária têm direito, por deslocação dentro da província, ao abono de ajudas de custo nos termos da lei geral, mas sem a limitação contida na parte final da alínea f) do § 2.º do artigo 196.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 31.º A todo o pessoal do Serviço de Prevenção e Fiscalização Tributária é expressamente vedada o exercício de qualquer outra actividade, pública ou privada, remunerada ou não, salvo o de funções inerentes ao seu cargo, estabelecidas por lei.
+Art. 31.º A todo o pessoal do Serviço de Prevenção e Fiscalização Tributária é expressamente vedada o exercício de qualquer outra actividade, pública ou privada, remunerada ou não, salvo o de funções inerentes ao seu cargo, estabelecidas por lei.
 
 ### CAPÍTULO III — Disposições gerais
 
-###### Art. 32.º Nas direcções distritais e repartições de Fazenda deverão os directores e secretários de Fazenda reunir, periòdicamente, no seu gabinete, os funcionários do serviço externo para ouvir, apreciar e criticar o serviço por eles realizado e fazer recomendações e receber sugestões sobre a eficiência do serviço.
+Art. 32.º Nas direcções distritais e repartições de Fazenda deverão os directores e secretários de Fazenda reunir, periòdicamente, no seu gabinete, os funcionários do serviço externo para ouvir, apreciar e criticar o serviço por eles realizado e fazer recomendações e receber sugestões sobre a eficiência do serviço.
 
-###### Art. 33.º Os actos de fiscalização e prevenção dos funcionários verificadores deverão ser realizados mediante distribuição prévia do superior hierárquico e segundo plano aprovado superiormente.
+Art. 33.º Os actos de fiscalização e prevenção dos funcionários verificadores deverão ser realizados mediante distribuição prévia do superior hierárquico e segundo plano aprovado superiormente.
 
 § único. O disposto neste artigo só poderá ser dispensado por motivo de urgente conveniência de serviço.
 
-###### Art. 34.º Os funcionários verificadores, em todas as diligências realizadas junto dos contribuintes, para observação de factos ou situações tributáveis ou para obter ou prestar esclarecimentos, deverão preencher uma nota em triplicado com indicação de todas as circunstâncias observadas e recomendações feitas sobre o cumprimento da lei. O original será entregue ao contribuinte, que deverá assinar os duplicados, salvo se não puder ou se a tal se recusar, circunstâncias estas que, quando ocorrerem, deverão ser devidamente anotadas.
+Art. 34.º Os funcionários verificadores, em todas as diligências realizadas junto dos contribuintes, para observação de factos ou situações tributáveis ou para obter ou prestar esclarecimentos, deverão preencher uma nota em triplicado com indicação de todas as circunstâncias observadas e recomendações feitas sobre o cumprimento da lei. O original será entregue ao contribuinte, que deverá assinar os duplicados, salvo se não puder ou se a tal se recusar, circunstâncias estas que, quando ocorrerem, deverão ser devidamente anotadas.
 
 § único. Quando seja recomendado ao contribuinte qualquer procedimento para exacto cumprimento da lei, deverá ser indicado na nota o dia em que o funcionário voltará para se certificar do seu cumprimento. Do resultado se lavrará uma segunda nota, independentemente do levantamento de qualquer auto a que haja lugar.
 
-###### Art. 35.º É vedado aos secretários de Fazenda atribuir aos funcionários do serviço externo quaisquer trabalhos que não sejam os próprios da acção específica dos Serviços de Prevenção e Fiscalização Tributária.
+Art. 35.º É vedado aos secretários de Fazenda atribuir aos funcionários do serviço externo quaisquer trabalhos que não sejam os próprios da acção específica dos Serviços de Prevenção e Fiscalização Tributária.
 
 § único. Sempre que os secretários de Fazenda verifiquem a impossibilidade de os referidos funcionários realizarem com eficiência toda a acção de prevenção e fiscalização na respectiva área a tempo de serem considerados com utilidade os seus resultados, deverão destacar outros funcionários para os coadjuvarem, dando conhecimento imediato da ocorrência ao director distrital de Fazenda.
 
-###### Art. 36.º O horário do serviço externo será estabelecido, para cada local, por forma a corresponder, com a possível exactidão, aos períodos de funcionamento ou exercício das actividades sujeitas a obrigações tributárias, devendo os serviços nocturnos ou a prestar em domingos e dias feriados ser desempenhados em regime de turnos, consoante as necessidades e por um critério de equitativa distribuição.
+Art. 36.º O horário do serviço externo será estabelecido, para cada local, por forma a corresponder, com a possível exactidão, aos períodos de funcionamento ou exercício das actividades sujeitas a obrigações tributárias, devendo os serviços nocturnos ou a prestar em domingos e dias feriados ser desempenhados em regime de turnos, consoante as necessidades e por um critério de equitativa distribuição.
 
-###### Art. 37.º Para efeitos de obrigação geral de fiscalização e para cumprimento de deveres e exercício de direitos, os funcionários do Serviço de Prevenção e Fiscalização Tributária consideram-se como estando permanentemente no exercício das suas funções.
+Art. 37.º Para efeitos de obrigação geral de fiscalização e para cumprimento de deveres e exercício de direitos, os funcionários do Serviço de Prevenção e Fiscalização Tributária consideram-se como estando permanentemente no exercício das suas funções.
 
-###### Art. 38.º Os administradores, directores ou gerentes de quaisquer organismos, sociedades, empresas ou pessoas individuais ou colectivas e, na sua ausência, os seus representantes, são obrigados a facultar ao pessoal do Serviço de Prevenção e Fiscalização Tributária, depois de devidamente identificado, a documentação, livros de escrituração comercial, registos e quaisquer outros elementos de escrita que lhes forem exigidos e, bem assim, a prestar as informações e declarações que lhes sejam solicitadas, dentro do estritamente necessário.
+Art. 38.º Os administradores, directores ou gerentes de quaisquer organismos, sociedades, empresas ou pessoas individuais ou colectivas e, na sua ausência, os seus representantes, são obrigados a facultar ao pessoal do Serviço de Prevenção e Fiscalização Tributária, depois de devidamente identificado, a documentação, livros de escrituração comercial, registos e quaisquer outros elementos de escrita que lhes forem exigidos e, bem assim, a prestar as informações e declarações que lhes sejam solicitadas, dentro do estritamente necessário.
 
-###### Art. 39.º A não facultação dos elementos de escrita referidos no artigo anterior, e bem assim a recusa de prestação dos necessários esclarecimentos sobre eles, será perseguida e punida como desobediência qualificada, independentemente da imposição das sanções pecuniárias e disciplinares previstas no artigo 69.º e seu § 2.º do Código dos Impostos sobre o Rendimento, aprovado pelo Diploma Legislativo Provincial n.º 2774, de 16 de Setembro de 1967.
+Art. 39.º A não facultação dos elementos de escrita referidos no artigo anterior, e bem assim a recusa de prestação dos necessários esclarecimentos sobre eles, será perseguida e punida como desobediência qualificada, independentemente da imposição das sanções pecuniárias e disciplinares previstas no artigo 69.º e seu § 2.º do Código dos Impostos sobre o Rendimento, aprovado pelo Diploma Legislativo Provincial n.º 2774, de 16 de Setembro de 1967.
 
 § único. Para efeitos do disposto no corpo deste artigo, o funcionário encarregado de realizar o exame ou a verificação dos factos tributários levantará o competente auto, que terá força de corpo de delito directo, enviando-o à repartição de Fazenda da respectiva área fiscal para aplicação da multa.
 
 ### CAPÍTULO IV — Disposições transitórias
 
-###### Art. 40.º O primeiro provimento dos lugares criados por este diploma será feito livremente pelo Ministro do Ultramar ou pelo governador-geral, consoante os lugares pertençam ao quadro comum ou privativo, de entre pessoas que possuam as habilitações legais exigidas para o provimento nos cargos.
+Art. 40.º O primeiro provimento dos lugares criados por este diploma será feito livremente pelo Ministro do Ultramar ou pelo governador-geral, consoante os lugares pertençam ao quadro comum ou privativo, de entre pessoas que possuam as habilitações legais exigidas para o provimento nos cargos.
 
-###### Art. 41.º São extintos os actuais lugares de fiscal de impostos e os funcionários actualmente neles providos transitam para os lugares de terceiro-oficial de Fazenda ou para ajudante de verificador, conforme as suas habilitações e aptidões, mediante lista nominal publicada no Boletim Oficial e anotada pelo Tribunal Administrativo.
+Art. 41.º São extintos os actuais lugares de fiscal de impostos e os funcionários actualmente neles providos transitam para os lugares de terceiro-oficial de Fazenda ou para ajudante de verificador, conforme as suas habilitações e aptidões, mediante lista nominal publicada no Boletim Oficial e anotada pelo Tribunal Administrativo.
 
 § único. Até à data da posse nos seus novos lugares, os fiscais de impostos manterão os seus actuais vencimentos.
 
-###### Art. 42.º O presente diploma entra imediatamente em vigor.
+Art. 42.º O presente diploma entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR.
 
@@ -370,6 +370,6 @@ Para ser publicado no Boletim Oficial de Moçambique. - Oliveira Salazar.
 
 Mapa a que se refere o artigo 9.º do Decreto n.º 48258
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/04401/02850289.pdf))](https://files.diariodarepublica.pt/1s/1968/02/04401/02850289.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/04401/02850289.pdf)
 
 Ministério do Ultramar, 21 de Fevereiro de 1968. - O Presidente do Conselho, António de Oliveira Salazar.

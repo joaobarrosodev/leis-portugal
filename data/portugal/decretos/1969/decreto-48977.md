@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48977-1969-530261
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eeab4604a3f9dfa8ea1dcafa54d83fa6372aa288b38737eb471b76eae00750c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a677409a274ca3a3407a998dd160d0212318a33c1b93b402fff71064fc933d63
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:08Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +94,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -138,14 +142,14 @@ Ministério das Corporações e Previdência Social
 
 Encargo do ano de 1968 referente a telefones pertencente ao Tribunal do Trabalho de Aveiro ... 211$90
 
-###### Art. 2.º É autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita no capítulo 7.º, artigo 94.º, n.º 1), do actual orçamento do Ministério das Obras Públicas, o encargo de 18600$00 proveniente da renda de casa do mês de Janeiro do ano em curso do prédio sito na Rua do Conde de Redondo, 8, onde está instalada a Direcção-Geral dos Serviços de Urbanização.
+Art. 2.º É autorizada a 8.ª Repartição da Direcção-Geral da Contabilidade Pública a mandar satisfazer, em conta da dotação descrita no capítulo 7.º, artigo 94.º, n.º 1), do actual orçamento do Ministério das Obras Públicas, o encargo de 18600$00 proveniente da renda de casa do mês de Janeiro do ano em curso do prédio sito na Rua do Conde de Redondo, 8, onde está instalada a Direcção-Geral dos Serviços de Urbanização.
 
-###### Art. 3.º Fica igualmente autorizada a Administração dos Portos do Douro e Leixões a satisfazer, em conta da verbas de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 7251$80 respeitante a encargos com obras e instituições de carácter social e cultural, nos termos do artigo 69.º da lei orgânica do citado serviço, do ano de 1968.
+Art. 3.º Fica igualmente autorizada a Administração dos Portos do Douro e Leixões a satisfazer, em conta da verbas de despesas de anos económicos findos inscrita no seu actual orçamento privativo, a quantia de 7251$80 respeitante a encargos com obras e instituições de carácter social e cultural, nos termos do artigo 69.º da lei orgânica do citado serviço, do ano de 1968.
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 16 de Abril de 1969.**
+Promulgado em 16 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

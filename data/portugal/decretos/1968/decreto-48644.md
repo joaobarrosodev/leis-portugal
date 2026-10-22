@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48644-1968-263733
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce45ed77fd421ce2fcb88225bbde31f8cb6284ae0b6c8d70f11bb9f6e197c145
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9e9ffafde7a9ebb290ccf7eb50bbe5e23324f9b31c2b571a4981e4ffec0df816
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272442:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390056:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:30Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +101,9 @@ Nos termos do § 1.º. do artigo 150.º da Constituição;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. A redacção do artigo único e seu § 1.º do [Decreto n.º 47872](https://diariodarepublica.pt/dr/detalhe/decreto/47872-1967-390056), de 30 de Agosto de 1967, passa a ser a seguinte:
+Artigo único. A redacção do artigo único e seu § 1.º do [Decreto n.º 47872](https://diariodarepublica.pt/dr/detalhe/decreto/47872-1967-390056), de 30 de Agosto de 1967, passa a ser a seguinte:
 
-###### Artigo único. São autorizadas as fábricas de tabacos mencionadas no artigo 1.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, a usar, para efeitos de propaganda, embalagens miniaturas, em dimensões reduzidas do mesmo tipo de invólucro das embalagens normais dos diversos tipos ou classes de tabacos manipulados, nas quantidades aprovadas pelo Conselho Técnico da Indústria de Tabacos da província.
+Artigo único. São autorizadas as fábricas de tabacos mencionadas no artigo 1.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, a usar, para efeitos de propaganda, embalagens miniaturas, em dimensões reduzidas do mesmo tipo de invólucro das embalagens normais dos diversos tipos ou classes de tabacos manipulados, nas quantidades aprovadas pelo Conselho Técnico da Indústria de Tabacos da província.
 
 § 1.º As embalagens miniaturas só poderão ser preparadas dentro das fábricas de tabacos e pagarão todas as imposições e selos devidos na proporção verificada entre os respectivos pesos e quantidades e os das unidades de fabrico normais que representam.
 

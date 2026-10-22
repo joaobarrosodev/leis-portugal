@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48406-1968-271227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a7ea666e044a7f0d0e26e87ef33c83c11e6934744f23b406c952a0235fefd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6aa4ea781f253ba354bc5b5a6c14b0076770467469e4eb848a67b9af2110f0ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:265329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579328:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:33Z'
   warnings: []
   errors: []
 ---
@@ -95,17 +103,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A aprovação nos três primeiros anos das licenciaturas das Faculdades de Ciências confere direito ao grau de bacharel, nas condições seguintes:
+Artigo 1.º A aprovação nos três primeiros anos das licenciaturas das Faculdades de Ciências confere direito ao grau de bacharel, nas condições seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12800/08390840.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12800/08390840.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12800/08390840.pdf)
 
-###### Art. 2.º - 1. A informação final do bacharelato é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo.
+Art. 2.º - 1. A informação final do bacharelato é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo.
 
 2. O critério uniforme a seguir pelas três Faculdades de Ciências para a determinação da informação final do bacharelato será fixado por despacho ministerial, depois de ouvidos os conselhos escolares.
 
-###### Art. 3.º O diploma de bacharel será passado de harmonia com o modelo a aprovar pelo Ministro da Educação Nacional.
+Art. 3.º O diploma de bacharel será passado de harmonia com o modelo a aprovar pelo Ministro da Educação Nacional.
 
-###### Art. 4.º O bacharelato em Ciências constitui habilitação académica suficiente para:
+Art. 4.º O bacharelato em Ciências constitui habilitação académica suficiente para:
 
 a) Admissão ao estágio de preparação de professores efectivos do ensino profissional industrial e comercial, nos termos seguintes: para o 1.º grupo,
 
@@ -117,10 +125,10 @@ c) Obtenção dos diplomas para o ensino particular a que se referem o n.º 1.º
 
 d) Provimento nos cargos públicos que forem designados por despacho do Ministro da Educação Nacional, proferido sob parecer da Junta Nacional da Educação, depois de ouvidos os serviços interessados.
 
-###### Art. 5.º O bacharelato em ciências passará ainda a constituir habilitação académica suficiente para a admissão ao estágio de preparação de professores do curso geral do ensino liceal, logo que sejam reorganizados os quadros do pessoal docente deste ensino.
+Art. 5.º O bacharelato em ciências passará ainda a constituir habilitação académica suficiente para a admissão ao estágio de preparação de professores do curso geral do ensino liceal, logo que sejam reorganizados os quadros do pessoal docente deste ensino.
 
-###### Art. 6.º Sempre que ao mesmo cargo público concorram doutores, licenciados e bacharéis em Ciências, os primeiros terão preferência sobre os restantes e os segundos sobre os últimos.
+Art. 6.º Sempre que ao mesmo cargo público concorram doutores, licenciados e bacharéis em Ciências, os primeiros terão preferência sobre os restantes e os segundos sobre os últimos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

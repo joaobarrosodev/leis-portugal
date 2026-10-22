@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48816-1968-256659
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81bce69a5d5a9e87a384597ac199d9ff531c9f2883ad386c11f104f78d9b9016
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e386d9d996cf191c226f3c71ce32c1d6f3f142a01bf60c42ec5612c47a241668
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262808:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:52Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Do Ministério da Marinha
 
@@ -106,30 +122,30 @@ Do artigo 308.º, n.º 2) «De semoventes», alínea 1 «Animais» ... -2100$00
 
 Para o artigo 309.º, n.º 1) «Impressos» ... +2100$00
 
-###### Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério da Marinha, créditos especiais no montante de 1580000$00, destinados a prover à realização de despesas não previstas no orçamento em vigor do segundo dos mencionados Ministérios:
+Art. 2.º São abertos no Ministério das Finanças, a favor do Ministério da Marinha, créditos especiais no montante de 1580000$00, destinados a prover à realização de despesas não previstas no orçamento em vigor do segundo dos mencionados Ministérios:
 
-### Capítulo 3.º «Superintendência dos Serviços da Armada»:
+Capítulo 3.º «Superintendência dos Serviços da Armada»:
 
 Sargentos e praças da Armada
 
-###### Artigo 29.º «Remunerações certas ao pessoal em exercício», n.º 1) «Vencimentos do pessoal dos quadros e além dos quadros, assim discriminados»:
+Artigo 29.º «Remunerações certas ao pessoal em exercício», n.º 1) «Vencimentos do pessoal dos quadros e além dos quadros, assim discriminados»:
 
 Para execução do [Decreto-Lei n.º 48730](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48730-1968-262808), de 4 de Dezembro de 1968 ... 1200000$00
 
-### Capítulo 11.º «Subsídio eventual de custo de vida»:
+Capítulo 11.º «Subsídio eventual de custo de vida»:
 
-###### Artigo 272.º «Para satisfação dos encargos desta natureza» ... 380000$00
+Artigo 272.º «Para satisfação dos encargos desta natureza» ... 380000$00
 
 ... 1580000$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo precedente é anulada igual quantia na verba descrita sob o capítulo 20.º «Subsídio eventual de custo de vida», artigo 216.º «Para satisfação dos encargos desta natureza», do orçamento em vigor do Ministério das Finanças.
+Art. 3.º Para compensação dos créditos designados no artigo precedente é anulada igual quantia na verba descrita sob o capítulo 20.º «Subsídio eventual de custo de vida», artigo 216.º «Para satisfação dos encargos desta natureza», do orçamento em vigor do Ministério das Finanças.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 30 de Dezembro de 1968.**
+Promulgado em 30 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48386-1968-271821
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 89f70a86eb461b0347094059b411ca9d39a632b187c7dd963089fcce9111d1e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 371d46804e12f0bcb9c5ab666bd2e3bb44007f90012fede1eb20472a8e490340
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233131:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:422793:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:659166:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:17Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +107,7 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º Enquanto as circunstâncias o justificarem, as funções de chefe da secção de contabilidade da Junta Autónoma dos Portos do Arquipélago de Cabo Verde serão exercidas por um primeiro-oficial dos Serviços de Fazenda e Contabilidade da província, em comissão de serviço, nos termos da Portaria Ministerial n.º 11370, de 31 de Maio de 1946.
+Artigo 1.º Enquanto as circunstâncias o justificarem, as funções de chefe da secção de contabilidade da Junta Autónoma dos Portos do Arquipélago de Cabo Verde serão exercidas por um primeiro-oficial dos Serviços de Fazenda e Contabilidade da província, em comissão de serviço, nos termos da Portaria Ministerial n.º 11370, de 31 de Maio de 1946.
 
 § 1.º Ao funcionário nomeado para o exercício daquelas funções é atribuída a gratificação mensal de 1500$00 a partir da data em que for investido no cargo.
 
@@ -103,7 +115,7 @@ A) Cabo Verde
 
 B) Moçambique
 
-###### Art. 2.º Nos Serviços de Saúde e Assistência são criados os seguintes lugares:
+Art. 2.º Nos Serviços de Saúde e Assistência são criados os seguintes lugares:
 
 I) Quadro comum administrativo, de enfermagem e de serviço social:
 
@@ -119,15 +131,15 @@ a) Pessoal contratado:
 
 § único. O pessoal referido no n.º II do corpo deste artigo, quando em contacto diário com doentes de lepra, terá direito a uma gratificação mensal de 500$00, nos termos da [Portaria n.º 13058](https://diariodarepublica.pt/dr/detalhe/portaria/13058-1950-659166), de 28 de Janeiro de 1950.
 
-###### Art. 3.º As importâncias cobradas a título de emolumentos pessoais pelos militares da Armada em comissão na Direcção dos Serviços de Marinha constituirão receita comum do mesmo pessoal e serão distribuídas proporcionalmente aos seus vencimentos e nas condições que vierem a ser regulamentadas pelo Governo-Geral da província.
+Art. 3.º As importâncias cobradas a título de emolumentos pessoais pelos militares da Armada em comissão na Direcção dos Serviços de Marinha constituirão receita comum do mesmo pessoal e serão distribuídas proporcionalmente aos seus vencimentos e nas condições que vierem a ser regulamentadas pelo Governo-Geral da província.
 
-###### Art. 4.º É revogada a Portaria Ministerial n.º 15, de 8 de Setembro de 1945, publicada em Moçambique, e reposto em vigor o artigo 13.º do [Decreto n.º 27495](https://diariodarepublica.pt/dr/detalhe/decreto/27495-1937-422793), de 27 de Janeiro de 1937.
+Art. 4.º É revogada a Portaria Ministerial n.º 15, de 8 de Setembro de 1945, publicada em Moçambique, e reposto em vigor o artigo 13.º do [Decreto n.º 27495](https://diariodarepublica.pt/dr/detalhe/decreto/27495-1937-422793), de 27 de Janeiro de 1937.
 
-###### Art. 5.º São ratificadas as Portarias n.os 19450, de 30 de Abril de 1966, e 19510 a 19513, de 27 de Maio de 1966, publicadas pelo Governo-Geral da província.
+Art. 5.º São ratificadas as Portarias n.os 19450, de 30 de Abril de 1966, e 19510 a 19513, de 27 de Maio de 1966, publicadas pelo Governo-Geral da província.
 
 C) Macau
 
-###### Art. 6.º No quadro do pessoal assalariado dos Serviços de Marinha de Macau são introduzidas as seguintes alterações:
+Art. 6.º No quadro do pessoal assalariado dos Serviços de Marinha de Macau são introduzidas as seguintes alterações:
 
 a) Criação de lugares:
 
@@ -143,7 +155,7 @@ b) Extinção de lugares:
 
 § 2.º Os actuais electricistas montadores cujos lugares são extintos pelo corpo do artigo podem transitar para os lugares criados, nas condições que forem determinadas em despacho do governador.
 
-###### Art. 7.º As taxas das estampilhas fiscais a que se refere o artigo 2.º do [Decreto n.º 48207](https://diariodarepublica.pt/dr/detalhe/decreto/48207-1968-233131), de 18 de Janeiro de 1968, serão, para a província de Macau, as seguintes:
+Art. 7.º As taxas das estampilhas fiscais a que se refere o artigo 2.º do [Decreto n.º 48207](https://diariodarepublica.pt/dr/detalhe/decreto/48207-1968-233131), de 18 de Janeiro de 1968, serão, para a província de Macau, as seguintes:
 
 $0,05, $0,10, $0,20, $0,30, $0,40, $0,50, $0,60, $0,70, $0,80 e $0,90 avos e de $1,00, $2,00, $3,00, $4,00, $5,00, $6,00, $7,00, $8,00, $9,00, $10,00, $20,00, $30,00, $40,00, $50,00 e $100,00 patacas.
 
@@ -151,9 +163,9 @@ II
 
 Disposições comuns
 
-###### Art. 8.º Aos clínicos que prestem assistência nas subdelegações da Polícia Internacional e de Defesa do Estado criadas e a criar nas províncias de Angola, Moçambique e Guiné é atribuída uma gratificação mensal a fixar pelos respectivos governadores.
+Art. 8.º Aos clínicos que prestem assistência nas subdelegações da Polícia Internacional e de Defesa do Estado criadas e a criar nas províncias de Angola, Moçambique e Guiné é atribuída uma gratificação mensal a fixar pelos respectivos governadores.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

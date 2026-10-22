@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48714-1968-262608
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1aebc98f9366dd11742510cbd5ae8280b9258be67feb7306f55798d5ea5a93d0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 85f0a0ebd9d966921223843f1115fafadeda43cb0dca4ff866eff0fee3082520
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 11
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:02Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento de Encargos Gerais da Nação:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento de Encargos Gerais da Nação:
 
 No capítulo 5.º:
 
@@ -96,107 +108,107 @@ Do artigo 104.º, n.º 3) «Pagamento de todas as despesas resultantes de recens
 
 Para o artigo 102.º, n.º 1) «Correios e telégrafos» ... +54000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 5434738$10, destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 5434738$10, destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
+Capítulo 8.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
 
-###### Artigo 129.º, n.º 3) «Subsídios a cofres ou organizações metropolitanas», alínea 1 ... 1000000$00
+Artigo 129.º, n.º 3) «Subsídios a cofres ou organizações metropolitanas», alínea 1 ... 1000000$00
 
-### Capítulo 9.º «Secretaria de Estado da Aeronáutica»:
+Capítulo 9.º «Secretaria de Estado da Aeronáutica»:
 
 Força aérea
 
-###### Artigo 178.º, n.º 2) «Tratamento e outras despesas com sinistrados» ... 33332$00
+Artigo 178.º, n.º 2) «Tratamento e outras despesas com sinistrados» ... 33332$00
 
 Regimento de Caçadores Pára-Quedistas (Tancos)
 
-###### Artigo 312.º «Outros encargos», n.º 2) «Tratamentos e outras despesas com sinistrados, bem como indemnizações para compensação de danos causados em semoventes, propriedades, etc.» ... 56616$80
+Artigo 312.º «Outros encargos», n.º 2) «Tratamentos e outras despesas com sinistrados, bem como indemnizações para compensação de danos causados em semoventes, propriedades, etc.» ... 56616$80
 
 ... 1089948$80
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços da Armada»:
+Capítulo 3.º «Superintendência dos Serviços da Armada»:
 
 Navios e material flutuante da Armada
 
-###### Artigo 37.º, n.º 1) «De material de defesa ...», alínea 2 «Docagem, reparação, ...» ... 3600000$00
+Artigo 37.º, n.º 1) «De material de defesa ...», alínea 2 «Docagem, reparação, ...» ... 3600000$00
 
 Grupo n.º 1 de Escolas da Armada
 
-###### Artigo 75.º, n.º 2) «Pagamento aos professores primários ...» ... 35000$00
+Artigo 75.º, n.º 2) «Pagamento aos professores primários ...» ... 35000$00
 
 Grupo n.º 2 de Escolas da Armada
 
-###### Artigo 82.º, n.º 1) «Pagamento a professores primários ...» ... -33200$00
+Artigo 82.º, n.º 1) «Pagamento a professores primários ...» ... -33200$00
 
 ... 3668200$00
 
 Ministério das Obras Públicas
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 53.º «Despesas de conservação e aproveitamento do material: ...», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado», alínea 12 «Instituto de Formação Profissional Acelerada» ... 227589$30
+Artigo 53.º «Despesas de conservação e aproveitamento do material: ...», n.º 3) «Despesas de conservação, reparação e melhoramentos de que o Estado será total ou parcialmente reembolsado», alínea 12 «Instituto de Formação Profissional Acelerada» ... 227589$30
 
 Ministério da Economia
 
 Secretaria de Estado da Indústria
 
-### Capítulo 13.º «Gabinete do Secretário de Estado»:
+Capítulo 13.º «Gabinete do Secretário de Estado»:
 
-###### Artigo 257.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 24000$00
+Artigo 257.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 24000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica civil - Aeroporto de Santa Maria»:
+Capítulo 4.º «Aeronáutica civil - Aeroporto de Santa Maria»:
 
-###### Artigo 101.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 25000$00
+Artigo 101.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 25000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 5.º «Direcção-Geral dos Hospitais»:
+Capítulo 5.º «Direcção-Geral dos Hospitais»:
 
-###### Artigo 75.º, n.º 3) «Encargos resultantes da assistência, em estabelecimentos adequados, a militares» ... 400000$00
+Artigo 75.º, n.º 3) «Encargos resultantes da assistência, em estabelecimentos adequados, a militares» ... 400000$00
 
 ... 5434738$10
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 18.º «Taxa de salvação nacional» ... 3600000$00
+Capítulo 2.º, artigo 18.º «Taxa de salvação nacional» ... 3600000$00
 
-### Capítulo 7.º, artigo 177.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 227589$30
+Capítulo 7.º, artigo 177.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 227589$30
 
 ... 3827589$30
 
 Encargos Gerais da Nação
 
-### Capítulo 9.º, artigo 157.º, n.º 1) ... 89948$80
+Capítulo 9.º, artigo 157.º, n.º 1) ... 89948$80
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 1400000$00
+Capítulo 1.º, artigo 13.º ... 1400000$00
 
 Ministério da Marinha
 
-### Capítulo 3.º, artigo 61.º, n.º 3) ... 15000$00
+Capítulo 3.º, artigo 61.º, n.º 3) ... 15000$00
 
-### Capítulo 3.º, artigo 69.º, n.º 1) ... 20000$00
+Capítulo 3.º, artigo 69.º, n.º 1) ... 20000$00
 
-### Capítulo 3.º, artigo 76.º, n.º 1), alínea 2 ... 33200$00
+Capítulo 3.º, artigo 76.º, n.º 1), alínea 2 ... 33200$00
 
 ... 68200$00
 
 Ministério da Economia
 
-### Capítulo 15.º, artigo 293.º, n.º 3) ... 24000$00
+Capítulo 15.º, artigo 293.º, n.º 3) ... 24000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 96.º, n.º 2) ... 25000$00
+Capítulo 4.º, artigo 96.º, n.º 2) ... 25000$00
 
 ... 5434738$10
 
@@ -204,8 +216,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 18 de Novembro de 1968.**
+Promulgado em 18 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

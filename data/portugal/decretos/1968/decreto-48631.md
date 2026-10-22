@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48631-1968-264075
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c657e0cb22418fbfa23997cd7fa446f2169ee5945c3e6cf835a99145c4eedf2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c55130600a2c52f0b389544eab4b2e9c1a4e648bb2e04a86785e847bf7b991df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:264731:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:576333:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:23Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +104,15 @@ Nos termos da alínea a) da regra III da base X da Lei Orgânica do Ultramar Por
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As primeiras eleições de vereadores das Câmaras Municipais de Luanda e de Lourenço Marques a efectuar sob o regime instituído pelo [Decreto n.º 48575](https://diariodarepublica.pt/dr/detalhe/decreto/48575-1968-264731), de 12 de Setembro do ano corrente, realizar-se-ão no ano de 1969, em dia, hora e mês a designar pelos respectivos governadores-gerais, com antecedência de trinta dias, pelo menos.
+Artigo 1.º As primeiras eleições de vereadores das Câmaras Municipais de Luanda e de Lourenço Marques a efectuar sob o regime instituído pelo [Decreto n.º 48575](https://diariodarepublica.pt/dr/detalhe/decreto/48575-1968-264731), de 12 de Setembro do ano corrente, realizar-se-ão no ano de 1969, em dia, hora e mês a designar pelos respectivos governadores-gerais, com antecedência de trinta dias, pelo menos.
 
 § único. No caso de os cadernos gerais de recenseamento eleitoral do ano de 1969 não estarem elaborados na data designada para o acto eleitoral, poderão os governadores-gerais autorizar o emprego dos cadernos referidos na alínea e) do n.º 1 do artigo 7.º do [Decreto n.º 48575](https://diariodarepublica.pt/dr/detalhe/decreto/48575-1968-264731) respeitantes ao ano em curso.
 
-###### Art. 2.º O mandato dos actuais vereadores das Câmaras Municipais de Luanda e de Lourenço Marques é prorrogado até que sejam eleitos os vereadores a que se refere o artigo 1.º
+Art. 2.º O mandato dos actuais vereadores das Câmaras Municipais de Luanda e de Lourenço Marques é prorrogado até que sejam eleitos os vereadores a que se refere o artigo 1.º
 
-###### Art. 3.º Com vista a manter o principio estabelecido no artigo 1.º do [Decreto n.º 45722](https://diariodarepublica.pt/dr/detalhe/decreto/45722-1964-576333), de 19 de Maio de 1964, o termo do mandato dos vereadores eleitos ao abrigo do artigo 1.º será o fixado para o dos vereadores de todos os demais corpos administrativos municipais da província.
+Art. 3.º Com vista a manter o principio estabelecido no artigo 1.º do [Decreto n.º 45722](https://diariodarepublica.pt/dr/detalhe/decreto/45722-1964-576333), de 19 de Maio de 1964, o termo do mandato dos vereadores eleitos ao abrigo do artigo 1.º será o fixado para o dos vereadores de todos os demais corpos administrativos municipais da província.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

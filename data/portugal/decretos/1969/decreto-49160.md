@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49160-1969-199081
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5fe22321800c0729241d29ab6cb97f293aaca225c774bb2048ce8ba57eb775ab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a1e1d5fde0c4f8686463676de22982ab9e21de7faf6bfff63b4c46da2a1ffc28
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:149874:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:339611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:474139:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:668886:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:38Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +104,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nas províncias ultramarinas onde exista Polícia Judiciária, os assistentes e denunciantes que pretendam a realização de exames com a intervenção de peritos contabilistas ou de outros peritos especializados depositarão a quantia que for calculada necessária para pagamento dos encargos com a diligência e com a remuneração dos peritos, a qual terá o regime dos preparos para despesas em processos cíveis.
+Artigo 1.º Nas províncias ultramarinas onde exista Polícia Judiciária, os assistentes e denunciantes que pretendam a realização de exames com a intervenção de peritos contabilistas ou de outros peritos especializados depositarão a quantia que for calculada necessária para pagamento dos encargos com a diligência e com a remuneração dos peritos, a qual terá o regime dos preparos para despesas em processos cíveis.
 
-###### Art. 2.º - 1. Os livros de assentos do registo civil têm termos de abertura e de encerramento, que, nos concelhos que sejam sede de comarca, são assinados pelo juiz de direito, ao qual compete ainda numerar e rubricar cada uma das folhas.
+Art. 2.º - 1. Os livros de assentos do registo civil têm termos de abertura e de encerramento, que, nos concelhos que sejam sede de comarca, são assinados pelo juiz de direito, ao qual compete ainda numerar e rubricar cada uma das folhas.
 
 2. Se houver mais de um juiz, a legalização dos livros referidos no número anterior compete ao juiz de turno e, quando haja especialização de jurisdições, ao juiz cível de turno.
 
@@ -98,19 +114,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. O disposto nos números anteriores é aplicável aos livros de assentos de baptismo nas províncias onde a tais assentos são reconhecidos efeitos civis.
 
-###### Art. 3.º - 1. Para o julgamento dos processos de justificação judicial de óbito regulados no Diploma Legislativo Ministerial para a província de Angola n.º 39, de 19 de Maio de 1961, passa a ser competente o tribunal da comarca em que o óbito se terá verificado.
+Art. 3.º - 1. Para o julgamento dos processos de justificação judicial de óbito regulados no Diploma Legislativo Ministerial para a província de Angola n.º 39, de 19 de Maio de 1961, passa a ser competente o tribunal da comarca em que o óbito se terá verificado.
 
 2. A publicação a que alude o § 3.º do artigo 4.º do diploma referido no número anterior só se fará em Luanda quando na sede da comarca competente para o julgamento não haja publicação periódica diária ou semanal.
 
-###### Art. 4.º São extensivas ao ultramar as alterações introduzidas pelo Decreto-Lei n.º 42968, de 9 de Maio de 1960, no Decreto-Lei n.º 42645, de 14 de Novembro de 1959, que foi aplicado ao ultramar pela [Portaria n.º 22139](https://diariodarepublica.pt/dr/detalhe/portaria/22139-1966-474139), de 29 de Julho de 1966, devendo considerar-se não escrita a referência feita no n.º 6.º deste último diploma à alínea a) e n.º 4.º do artigo 15.º do Decreto-Lei n.º 42645.
+Art. 4.º São extensivas ao ultramar as alterações introduzidas pelo Decreto-Lei n.º 42968, de 9 de Maio de 1960, no Decreto-Lei n.º 42645, de 14 de Novembro de 1959, que foi aplicado ao ultramar pela [Portaria n.º 22139](https://diariodarepublica.pt/dr/detalhe/portaria/22139-1966-474139), de 29 de Julho de 1966, devendo considerar-se não escrita a referência feita no n.º 6.º deste último diploma à alínea a) e n.º 4.º do artigo 15.º do Decreto-Lei n.º 42645.
 
-###### Art. 5.º A percentagem acrescida ao tempo de serviço prestado na comarca de Nampula pelos juízes de direito, por força do § único do artigo 1.º do [Decreto n.º 38882](https://diariodarepublica.pt/dr/detalhe/decreto/38882-1952-668886), de 27 de Agosto de 1952, com referência ao § 4.º do artigo 2.º do [Decreto n.º 35915](https://diariodarepublica.pt/dr/detalhe/decreto/35915-1946-149874), de 24 de Outubro de 1946, e ao artigo 1.º do [Decreto-Lei n.º 35567](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35567-1946-339611), de 30 de Março de 1946, considera-se aplicável aos magistrados do Ministério Público a partir da entrada em vigor do primeiro dos diplomas referidos.
+Art. 5.º A percentagem acrescida ao tempo de serviço prestado na comarca de Nampula pelos juízes de direito, por força do § único do artigo 1.º do [Decreto n.º 38882](https://diariodarepublica.pt/dr/detalhe/decreto/38882-1952-668886), de 27 de Agosto de 1952, com referência ao § 4.º do artigo 2.º do [Decreto n.º 35915](https://diariodarepublica.pt/dr/detalhe/decreto/35915-1946-149874), de 24 de Outubro de 1946, e ao artigo 1.º do [Decreto-Lei n.º 35567](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35567-1946-339611), de 30 de Março de 1946, considera-se aplicável aos magistrados do Ministério Público a partir da entrada em vigor do primeiro dos diplomas referidos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Julho de 1969.**
+Promulgado em 18 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

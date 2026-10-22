@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48573-1968-264758
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0ebc4beccbe926e95c4494a5c6e5a3855a421ba0a69fffdd0710972f64732080
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e2225a9c7bb28c049fcbff0fad23c7dee20cd6c62bbc77c0b89d1e41682c5413
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,26 @@ relationships:
   target: pt:dre:398776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:510652:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:398776:por
+  label: "Revogado, relativamente à província de Moçambique, o art. 2º do presente diploma, pelo DEC LEI.76/72.07.03.1972.MU,\
+    \ DG.IS [56] de 07.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1972-398776
+  date: '1972-03-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:49Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +103,13 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O quadro do Comando do Corpo de Polícia de Segurança Pública de Macau, a que se refere o artigo 1.º do [Decreto n.º 46597](https://diariodarepublica.pt/dr/detalhe/decreto/46597-1965-510652), de 16 de Outubro de 1965, passa a ter a seguinte constituição:
+Artigo 1.º O quadro do Comando do Corpo de Polícia de Segurança Pública de Macau, a que se refere o artigo 1.º do [Decreto n.º 46597](https://diariodarepublica.pt/dr/detalhe/decreto/46597-1965-510652), de 16 de Outubro de 1965, passa a ter a seguinte constituição:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21400/14361436.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21400/14361436.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21400/14361436.pdf)
 
-###### Art. 2.º No quadro dos Serviços de Aeronáutica Civil de Moçambique, os lugares de director de aeródromo de 1.ª classe (director de aeroporto) passam a designar-se «director de aeroporto de 1.ª classe», sendo-lhes atribuída a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino e exercendo as funções de directores dos aeroportos internacionais de Lourenço Marques e Beira.
+Art. 2.º No quadro dos Serviços de Aeronáutica Civil de Moçambique, os lugares de director de aeródromo de 1.ª classe (director de aeroporto) passam a designar-se «director de aeroporto de 1.ª classe», sendo-lhes atribuída a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino e exercendo as funções de directores dos aeroportos internacionais de Lourenço Marques e Beira.
 
-###### Art. 3.º Nos Serviços de Administração Civil da província de Moçambique são introduzidas as seguintes alterações:
+Art. 3.º Nos Serviços de Administração Civil da província de Moçambique são introduzidas as seguintes alterações:
 
 A) Criação de lugares:
 
@@ -113,7 +123,7 @@ B) Eliminação de lugares:
 
 2 inspectores provinciais - letra D.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 10 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

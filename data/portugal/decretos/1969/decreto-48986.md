@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48986-1969-201674
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5e9c620909c1cdee1d7b273d48776618e9b4f7e0938ba28dc431fed6c7dc2b3b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e237fef6409548a8a67bba0336bd15cc96cd7ac38316f4c25fb57bee5673a5a3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:13Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução das obras de construção e apetrechamento das messes de oficiais e sargentos em Nacala, Moçambique, pela importância de 15000000$00.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contratos para a execução das obras de construção e apetrechamento das messes de oficiais e sargentos em Nacala, Moçambique, pela importância de 15000000$00.
 
-###### Art. 2.º Os encargos resultantes da execução dos contratos referidos no número anterior não poderão, em cada ano, exceder as seguintes quantias:
+Art. 2.º Os encargos resultantes da execução dos contratos referidos no número anterior não poderão, em cada ano, exceder as seguintes quantias:
 
 Em 1969 ... 5500000$00
 
@@ -99,8 +103,8 @@ Em 1970 ... 9500000$00
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - José Pereira do Nascimento.
 
-**Promulgado em 24 de Abril de 1969.**
+Promulgado em 24 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

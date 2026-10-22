@@ -52,18 +52,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48041-1967-389235
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-17T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 837c8da2c356924f248ee9abaca296ec3194cf1917c5dc55edbd920727078101
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ce47baec89cd86f76e20d85d4e1d561fce262b0d302aea545edda15945459836
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,17 +71,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:313220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504536:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:635201:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:28Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +116,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 A) S. Tomé e Príncipe
 
-###### Artigo 1.º Fica o Governo da província autorizado a abrir um crédito especial de 4151712$80, destinado à cobertura do pagamento feito por operações de tesouraria e respeitante aos seguintes encargos:
+Artigo 1.º Fica o Governo da província autorizado a abrir um crédito especial de 4151712$80, destinado à cobertura do pagamento feito por operações de tesouraria e respeitante aos seguintes encargos:
 
 a) Juros do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 39648](https://diariodarepublica.pt/dr/detalhe/decreto-lei/39648-1954-635201), de 12 de Maio de 1954 ... 76500$00
 
@@ -116,23 +136,23 @@ b) Do empréstimo da metrópole, autorizado pelo [Decreto-Lei n.º 46683](https:
 
 B) Macau
 
-###### Art. 2.º É atribuída ao chefe da secretaria e contabilidade das Oficinas Navais uma gratificação anual para falhas de 6000$00 enquanto desempenhar funções de tesoureiro e nas condições que forem fixadas pelo governador da província.
+Art. 2.º É atribuída ao chefe da secretaria e contabilidade das Oficinas Navais uma gratificação anual para falhas de 6000$00 enquanto desempenhar funções de tesoureiro e nas condições que forem fixadas pelo governador da província.
 
 § único. O encargo da gratificação será suportado pelo orçamento privativo das Oficinas Navais.
 
-###### Art. 3.º O artigo único do [Decreto n.º 47557](https://diariodarepublica.pt/dr/detalhe/decreto/47557-1967-504536), de 23 de Fevereiro de 1967, passa a ter a seguinte redacção:
+Art. 3.º O artigo único do [Decreto n.º 47557](https://diariodarepublica.pt/dr/detalhe/decreto/47557-1967-504536), de 23 de Fevereiro de 1967, passa a ter a seguinte redacção:
 
-###### Artigo único. Quando as circunstâncias o exigirem, pode o governador de Macau autorizar a nomeação, para guardas de 2.ª classe mecânicos e guardas de 4.ª classe da Polícia de Segurança Pública, de pessoas naturais da província ou nela residentes, mesmo que não satisfaçam às condições previstas nas alíneas a) e c) do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
+Artigo único. Quando as circunstâncias o exigirem, pode o governador de Macau autorizar a nomeação, para guardas de 2.ª classe mecânicos e guardas de 4.ª classe da Polícia de Segurança Pública, de pessoas naturais da província ou nela residentes, mesmo que não satisfaçam às condições previstas nas alíneas a) e c) do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
 
 C) Timor
 
-###### Art. 4.º Fica o governo da província autorizado a abrir um crédito especial de 429996$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1966.
+Art. 4.º Fica o governo da província autorizado a abrir um crédito especial de 429996$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1966.
 
-###### Art. 5.º É substituída pela seguinte a redacção do corpo do artigo 1.º do [Decreto n.º 47698](https://diariodarepublica.pt/dr/detalhe/decreto/47698-1967-313220), de 15 de Maio de 1967:
+Art. 5.º É substituída pela seguinte a redacção do corpo do artigo 1.º do [Decreto n.º 47698](https://diariodarepublica.pt/dr/detalhe/decreto/47698-1967-313220), de 15 de Maio de 1967:
 
-###### Artigo 1.º É autorizada a província de Timor a contrair no Banco Nacional Ultramarino um empréstimo no montante de 2000000$00, à taxa de juro de 2 por cento ao ano, que incidirá sobre os saldos devedores contados até ao fim de cada ano civil e amortizável em doze prestações anuais, vencíveis em 31 de Dezembro de cada ano.
+Artigo 1.º É autorizada a província de Timor a contrair no Banco Nacional Ultramarino um empréstimo no montante de 2000000$00, à taxa de juro de 2 por cento ao ano, que incidirá sobre os saldos devedores contados até ao fim de cada ano civil e amortizável em doze prestações anuais, vencíveis em 31 de Dezembro de cada ano.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49138-1969-199162
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b01454d425152a1d30432fb231db00ece6124bca1775578fc0175b643970b0e7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 16022cee824d7815dca447e733086ef42c394d44336f45d6f539161931db65a8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:509658:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:22Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +101,9 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição, por motivo de urgê
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Dentro das suas atribuições, compete aos Serviços de Economia de Timor orientar, disciplinar e fiscalizar as actividades relacionadas com o comércio e a exportação do café da província.
+Artigo 1.º Dentro das suas atribuições, compete aos Serviços de Economia de Timor orientar, disciplinar e fiscalizar as actividades relacionadas com o comércio e a exportação do café da província.
 
-###### Art. 2.º Para desempenho das atribuições referidas no artigo 1.º deste diploma, aos Serviços de Economia de Timor compete especialmente:
+Art. 2.º Para desempenho das atribuições referidas no artigo 1.º deste diploma, aos Serviços de Economia de Timor compete especialmente:
 
 1.º Disciplinar o comércio interno do café, intervindo nos preços de forma a salvaguardar uma justa retribuição e a assegurar o equilíbrio económico;
 
@@ -121,19 +125,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 10.º Colaborar na propaganda do café, tendo em vista a expansão do seu consumo nos diversos mercados, em colaboração com os órgãos metropolitanos competentes.
 
-###### Art. 3.º - 1. Para o exercício das funções determinadas no artigo 2.º do presente diploma, quando as necessidades dos Serviços o justifiquem, poderão, nos termos do artigo 16.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, ser contratados, além dos quadros, técnicos aos quais convenha recorrer para o desempenho das referidas funções.
+Art. 3.º - 1. Para o exercício das funções determinadas no artigo 2.º do presente diploma, quando as necessidades dos Serviços o justifiquem, poderão, nos termos do artigo 16.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, ser contratados, além dos quadros, técnicos aos quais convenha recorrer para o desempenho das referidas funções.
 
 2. Para o desempenho das mesmas funções poderão ainda ser destacados, em comissão ordinária de serviço, funcionários do Ministério do Ultramar ou de outras províncias ultramarinas cujas aptidões ou especiais qualificações, nas actividades da economia do sector a que se reporta o artigo 1.º, os recomendem.
 
 3. Poderá ainda ser admitido, por despacho do governador, outro pessoal em regime de assalariamento ou por tarefa.
 
-###### Art. 4.º À semelhança do previsto no § 3.º do artigo 7.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, para as Direcções Provinciais de Economia de Angola e Moçambique, funcionará também junto dos Serviços de Economia de Timor uma comissão consultiva, composta por três vogais representantes da produção agrícola, do comércio interno e do comércio externo.
+Art. 4.º À semelhança do previsto no § 3.º do artigo 7.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, para as Direcções Provinciais de Economia de Angola e Moçambique, funcionará também junto dos Serviços de Economia de Timor uma comissão consultiva, composta por três vogais representantes da produção agrícola, do comércio interno e do comércio externo.
 
-###### Art. 5.º A comissão consultiva prevista no artigo anterior reúne uma vez por mês e, extraordinàriamente, sempre que for convocada por iniciativa do chefe dos Serviços de Economia.
+Art. 5.º A comissão consultiva prevista no artigo anterior reúne uma vez por mês e, extraordinàriamente, sempre que for convocada por iniciativa do chefe dos Serviços de Economia.
 
 § único. Podem assistir às reuniões da comissão consultiva, a convite do chefe dos Serviços de Economia, pessoas que, pelo seus conhecimentos ou especiais qualificações, possam colaborar eficazmente nos seus trabalhos.
 
-###### Art. 6.º Compete à comissão consultiva:
+Art. 6.º Compete à comissão consultiva:
 
 1.º Pronunciar-se sobre as medidas que os Serviços considerem convenientes para a boa consecução dos fins previstos neste diploma;
 
@@ -141,19 +145,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º Pronunciar-se sobre as regulamentações relacionadas com as actividades da economia do sector a que se reporta a intervenção dos Serviços.
 
-###### Art. 7.º - 1. São autorizados os Serviços de Economia de Timor a instalar armazéns gerais na província.
+Art. 7.º - 1. São autorizados os Serviços de Economia de Timor a instalar armazéns gerais na província.
 
 2. A actividade desses armazéns reger-se-á por um regulamento a elaborar pelos Serviços de Economia e aprovado pelo governador da província.
 
-###### Art. 8.º Os Serviços de Economia de Timor, pelo Fundo de Comercialização, a que se refere o artigo 6.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, ficam autorizados a adquirir café às entidades inscritas como produtores, cuja lavra não ultrapasse a área de 20 ha, nas condições e aos valores constantes de tabelas a aprovar pelo governador.
+Art. 8.º Os Serviços de Economia de Timor, pelo Fundo de Comercialização, a que se refere o artigo 6.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967, ficam autorizados a adquirir café às entidades inscritas como produtores, cuja lavra não ultrapasse a área de 20 ha, nas condições e aos valores constantes de tabelas a aprovar pelo governador.
 
 § 1.º O governador pode alterar, por despacho a publicar no Boletim Oficial, o quantitativo da área fixada no corpo do artigo.
 
 § 2.º O Fundo de Comercialização poderá contrair os empréstimos indispensáveis à realização dos fins previstos no corpo do artigo.
 
-###### Art. 9.º Constituem receitas próprias do Fundo de Comercialização de Timor, entre outras a estabelecer em regulamento, as que por diploma do Governo Central ou do Governo provincial lhe sejam consignadas.
+Art. 9.º Constituem receitas próprias do Fundo de Comercialização de Timor, entre outras a estabelecer em regulamento, as que por diploma do Governo Central ou do Governo provincial lhe sejam consignadas.
 
-###### Art. 10.º Constituem receitas do orçamento geral da província:
+Art. 10.º Constituem receitas do orçamento geral da província:
 
 1.º As taxas que pelo governador forem fixadas sobre café exportado da província;
 
@@ -169,15 +173,15 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 2.º Uma parte destas receitas, a fixar pelo governador, poderá ser consignada ao Fundo de Comercialização.
 
-###### Art. 11.º Os comerciantes que nos mercados rurais comprarem café satisfarão ao tesouro da província, por intermédio das autoridades administrativas, a taxa a fixar por despacho do governador por cada quilograma de café adquirido aos produtores.
+Art. 11.º Os comerciantes que nos mercados rurais comprarem café satisfarão ao tesouro da província, por intermédio das autoridades administrativas, a taxa a fixar por despacho do governador por cada quilograma de café adquirido aos produtores.
 
 § único. A receita a que se refere o corpo deste artigo será consignada à promoção social das populações timorenses.
 
-###### Art. 12.º É obrigatória a inscrição nos Serviços de Economia de Timor dos produtores, exportadores e, bem assim, das entidades que exerçam na província o comércio de importação ou distribuição de café.
+Art. 12.º É obrigatória a inscrição nos Serviços de Economia de Timor dos produtores, exportadores e, bem assim, das entidades que exerçam na província o comércio de importação ou distribuição de café.
 
 § único. Só podem ser importadores ou exportadores de café, além dos próprios Serviços de Economia, pelo Fundo de Comercialização, as entidades neles inscritas.
 
-###### Art. 13.º São condições indispensáveis para a inscrição de comerciantes:
+Art. 13.º São condições indispensáveis para a inscrição de comerciantes:
 
 1.º O pagamento de contribuição pelo exercício da actividade;
 
@@ -185,21 +189,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º A demonstração de que possuem a capacidade financeira requerida para o bom desempenho da sua função económica.
 
-###### Art. 14.º As entidades inscritas nos Serviços de Economia de Timor ficam sujeitas às seguintes obrigações:
+Art. 14.º As entidades inscritas nos Serviços de Economia de Timor ficam sujeitas às seguintes obrigações:
 
 1.º Acatar as determinações dos Serviços relativamente à coordenação, disciplina e aperfeiçoamento económico das actividades do respectivo sector e os regulamentos e instruções em vigor;
 
 2.º Evitar toda a concorrência desleal que se traduza na concessão de vantagens que não sejam legalmente autorizadas.
 
-###### Art. 15.º Os Serviços de Economia poderão excluir do rateio de contingentes os exportadores que se encontrem em atraso quanto à entrega de divisas ao Fundo Cambial de Timor.
+Art. 15.º Os Serviços de Economia poderão excluir do rateio de contingentes os exportadores que se encontrem em atraso quanto à entrega de divisas ao Fundo Cambial de Timor.
 
-###### Art. 16.º Os Serviços de Economia poderão igualmente excluir do rateio trimestral de contingentes os exportadores que manifestem existências de café consideradas insuficientes para garantir o movimento de exportação adequado.
+Art. 16.º Os Serviços de Economia poderão igualmente excluir do rateio trimestral de contingentes os exportadores que manifestem existências de café consideradas insuficientes para garantir o movimento de exportação adequado.
 
-###### Art. 17.º Os Serviços de Economia anularão a inscrição dos exportadores que durante o ano anterior tenham manifestado existências consideradas insuficientes.
+Art. 17.º Os Serviços de Economia anularão a inscrição dos exportadores que durante o ano anterior tenham manifestado existências consideradas insuficientes.
 
-###### Art. 18.º Não serão permitidas, em cada ano, novas inscrições de exportadores em número superior às vagas abertas pelos exportadores que não requeiram a revalidação da sua inscrição ou cuja inscrição tenha cancelado no ano anterior.
+Art. 18.º Não serão permitidas, em cada ano, novas inscrições de exportadores em número superior às vagas abertas pelos exportadores que não requeiram a revalidação da sua inscrição ou cuja inscrição tenha cancelado no ano anterior.
 
-###### Art. 19.º O não cumprimento das obrigações impostas por este decreto, regulamentos e instruções dos Serviços de Economia poderá dar lugar à aplicação das seguintes penalidades:
+Art. 19.º O não cumprimento das obrigações impostas por este decreto, regulamentos e instruções dos Serviços de Economia poderá dar lugar à aplicação das seguintes penalidades:
 
 1.º Advertência;
 
@@ -213,29 +217,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. Quando se verifique que um exportador vendeu café por peço inferior ao mínimo que estiver fixado, será aplicada multa não inferior a 50 por cento do valor da mercadoria transaccionada, ainda que exceda o limite declarado no n.º 3.º, cumulada com a suspensão do direito de exportar café por prazo de seis meses, pelo menos.
 
-###### Art. 20.º As penalidades serão impostas às empresas, sempre responsáveis pelos actos daqueles que, com o seu consentimento expresso ou tácito, os hajam praticado em seu nome.
+Art. 20.º As penalidades serão impostas às empresas, sempre responsáveis pelos actos daqueles que, com o seu consentimento expresso ou tácito, os hajam praticado em seu nome.
 
-###### Art. 21.º Nenhuma penalidade poderá ser imposta sem que o inculpado seja notificado para deduzir, por escrito, a sua defesa, no prazo que lhe for fixado, e sem que dela, quando apresentada em tempo competente, e das provas produzidas, se haja tomado conhecimento.
+Art. 21.º Nenhuma penalidade poderá ser imposta sem que o inculpado seja notificado para deduzir, por escrito, a sua defesa, no prazo que lhe for fixado, e sem que dela, quando apresentada em tempo competente, e das provas produzidas, se haja tomado conhecimento.
 
 § 1.º É presunção legal de culpabilidade a não apresentação imediata dos documentos requisitados para exame.
 
 § 2.º Nos casos de aplicação de multa superior a 5000$00 ou das penalidades previstas nos n.os 4.º e 5.º do artigo 19.º, haverá direito de recurso para o Tribunal Administrativo.
 
-###### Art. 22.º Ficam isentos de direitos de importação em Timor os maquinismos importados pelos Serviços de Economia e destinados à preparação e beneficiação do café.
+Art. 22.º Ficam isentos de direitos de importação em Timor os maquinismos importados pelos Serviços de Economia e destinados à preparação e beneficiação do café.
 
-###### Art. 23.º O governador aprovará por portaria o regulamento das actividades dos Serviços de Economia relacionadas com a economia do café da província.
+Art. 23.º O governador aprovará por portaria o regulamento das actividades dos Serviços de Economia relacionadas com a economia do café da província.
 
 § 1.º Do regulamento constarão, obrigatòriamente, além do mais, os procedimentos a que se deve sujeitar a comercialização do café.
 
 § 2.º As actividades relacionadas com a economia do café previstas neste decreto serão repartidas pelos serviços centrais da Repartição Provincial de Economia de Timor, criados pelo artigo 11.º do [Decreto n.º 47639](https://diariodarepublica.pt/dr/detalhe/decreto/47639-1967-509658), de 13 de Abril de 1967.
 
-###### Art. 24.º Este decreto entra imediatamente em vigor.
+Art. 24.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Julho de 1969.**
+Promulgado em 9 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48847-1969-527026
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa91025bbed1ab84f893f15285db7a53b68210d99bb9687fbcd106bf4d3fd48c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8fa44ee4b051a232cc3d93a07e13ef13631bd197327e67e1787633b53b184305
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:174317:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527025:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:06Z'
   warnings: []
   errors: []
 ---
@@ -104,15 +124,15 @@ Tendo em vista o que dispõe o § 1.º do artigo 150.º da Constituição, por m
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizada a Companhia de Petróleos de Angola (Petrangol), S. A. R. L., a celebrar um contracto de associação, nos termos previstos no capítulo XV do contracto de concessão celebrado com o Estado em 27 de Janeiro de 1966, com a Sociedade Portuguesa de Exploração de Petróleos (Angol), S. A. R. L., e a Texaco Petróleos de Angola, S. A. R. L. (adiante designada por Texaco), para a prospecção, pesquisa, desenvolvimento e exploração das substâncias a que se refere o n.º 1 do artigo 2.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, nas zonas terrestre e marítima da área do Congo tal como definido na alínea a) do n.º 4 do artigo 2.º do texto anexo a este decreto que dele fica a fazer parte integrante.
+Artigo 1.º - 1. É autorizada a Companhia de Petróleos de Angola (Petrangol), S. A. R. L., a celebrar um contracto de associação, nos termos previstos no capítulo XV do contracto de concessão celebrado com o Estado em 27 de Janeiro de 1966, com a Sociedade Portuguesa de Exploração de Petróleos (Angol), S. A. R. L., e a Texaco Petróleos de Angola, S. A. R. L. (adiante designada por Texaco), para a prospecção, pesquisa, desenvolvimento e exploração das substâncias a que se refere o n.º 1 do artigo 2.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, nas zonas terrestre e marítima da área do Congo tal como definido na alínea a) do n.º 4 do artigo 2.º do texto anexo a este decreto que dele fica a fazer parte integrante.
 
 2. O contrato de associação a que se refere o número anterior conformar-se-á com o [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, na parte não alterada pelas disposições deste decreto e modificará, nos termos nele estabelecidos, o contrato de associação entre a Petrangol e a Angol, datado de 26 de Maio de 1966, para a área referida no número anterior, em relação ao qual constitui aditamento.
 
 3. No que se refere à área referida no n.º 1 deste artigo, o período inicial da concessão, previsto no n.º 1 do artigo 4.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), terminará em 30 de Junho de 1971; a prorrogação por cinco anos, prevista no n.º 2 do artigo 4.º do mesmo decreto, terminará em 30 de Junho de 1976; o pedido de prorrogação, referido no n.º 1 do artigo 5.º do mesmo diploma, deverá ser apresentado até 30 de Abril de 1971; e as percentagens das áreas mencionadas no n.º 3 do artigo 4.º do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317) reportar-se-ão a 30 de Junho de 1971.
 
-###### Art. 2.º À Texaco, em relação ao contrato de associação aprovado por este decreto, aplicam-se todas as disposições do artigo 2.º do [Decreto n.º 48846](https://diariodarepublica.pt/dr/detalhe/decreto/48846-1969-527025), de 23 de Janeiro de 1969. À mesma sociedade não será aplicável o disposto no capítulo II do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), e as relações entre a Texaco e o Governo e entre a Texaco e as suas associadas no contrato anteriormente referido serão reguladas respectivamente, pelo presente decreto e pelo referido contrato de associação.
+Art. 2.º À Texaco, em relação ao contrato de associação aprovado por este decreto, aplicam-se todas as disposições do artigo 2.º do [Decreto n.º 48846](https://diariodarepublica.pt/dr/detalhe/decreto/48846-1969-527025), de 23 de Janeiro de 1969. À mesma sociedade não será aplicável o disposto no capítulo II do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), e as relações entre a Texaco e o Governo e entre a Texaco e as suas associadas no contrato anteriormente referido serão reguladas respectivamente, pelo presente decreto e pelo referido contrato de associação.
 
-###### Art. 3.º - 1. As associadas beneficiarão, em seu próprio nome ou na qualidade de operador, de todas as isenções e facilidades previstas em favor da concessionária no capítulo IX do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), cumprindo às autoridades portuguesas tomar as medidas necessárias para lhes permitir a realização completa e eficaz das suas actividades.
+Art. 3.º - 1. As associadas beneficiarão, em seu próprio nome ou na qualidade de operador, de todas as isenções e facilidades previstas em favor da concessionária no capítulo IX do [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), cumprindo às autoridades portuguesas tomar as medidas necessárias para lhes permitir a realização completa e eficaz das suas actividades.
 
 2. As autoridades portuguesas autorizarão e facilitarão, respeitados os interesses e a segurança nacionais, a entrada e saída dos territórios portugueses dos indivíduos de qualquer nacionalidade que as associadas tiverem admitido ou demitido, assim como quaisquer entidades que com elas cooperem nas suas operações, sem prejuízo dos regulamentos aplicáveis.
 
@@ -122,13 +142,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. Nas aquisições que venham a ser feitas no estrangeiro, as associadas acatarão, respeitadas as condições mencionadas no n.º 3, as orientações de política comercial que lhes forem transmitidas pelos representantes do Estado ou delegados do Governo.
 
-###### Art. 4.º - 1. As associadas observarão as leis e regulamentos em vigor no que respeita às condições de emprego de todo o seu pessoal, nacional ou estrangeiro, mas terão o direito de contratar pessoal estrangeiro na medida em que, pelas qualificações e experiência necessárias, não seja possível obter a colaboração de técnicos ou operários portugueses.
+Art. 4.º - 1. As associadas observarão as leis e regulamentos em vigor no que respeita às condições de emprego de todo o seu pessoal, nacional ou estrangeiro, mas terão o direito de contratar pessoal estrangeiro na medida em que, pelas qualificações e experiência necessárias, não seja possível obter a colaboração de técnicos ou operários portugueses.
 
 2. As associadas farão beneficiar todo o seu pessoal, dentro da mesma categoria e qualquer que seja a sua nacionalidade, das mesmas condições de emprego, remuneração, benefícios ou regalias sociais, sem prejuízo dos subsídios por deslocação a atribuir ao pessoal recrutado fora da província de Angola.
 
-###### Art. 5.º A Peltrangol e a Angol ficarão sujeitas, no que se refere à comercialização da parte que lhes compete nos resultados da exploração da associação, à participação do Estado em tais resultados, à sua fiscalização e, bem assim, em tudo o mais que não tiver sido alterado pelo texto anexo a este decreto, às regras constantes dos seus contratos com o Estado e respectivos adicionais.
+Art. 5.º A Peltrangol e a Angol ficarão sujeitas, no que se refere à comercialização da parte que lhes compete nos resultados da exploração da associação, à participação do Estado em tais resultados, à sua fiscalização e, bem assim, em tudo o mais que não tiver sido alterado pelo texto anexo a este decreto, às regras constantes dos seus contratos com o Estado e respectivos adicionais.
 
-###### Art. 6.º - 1. A Texaco poderá, em qualquer altura e livremente, arrecadar, armazenar, vender ou exportar a sua quota-parte na produção, nos termos e condições que julgue aconselháveis, de quaisquer substâncias extraídas das zonas de operações, e objecto do contrato de associação, no seu estado natural, quer depois de terem sofrido tratamento e tanto tenham sido extraídas de uma como de várias áreas das zonas de operações.
+Art. 6.º - 1. A Texaco poderá, em qualquer altura e livremente, arrecadar, armazenar, vender ou exportar a sua quota-parte na produção, nos termos e condições que julgue aconselháveis, de quaisquer substâncias extraídas das zonas de operações, e objecto do contrato de associação, no seu estado natural, quer depois de terem sofrido tratamento e tanto tenham sido extraídas de uma como de várias áreas das zonas de operações.
 
 2. Porém, a província de Angola terá sempre o direito de preferência de compra, na origem, de um máximo de 37,5 por cento das quantidades de petróleo bruto determinadas conforme o n.º 3 deste artigo e sem prejuízo das entregas em espécie que venham a efectuar-se nos termos dos n.os 9 e 10 do artigo 9.º
 
@@ -172,17 +192,17 @@ c) Não afectarão o normal fornecimento de gás à província de Angola, que re
 
 15. O Estado terá o direito de fazer verificar, pelos seus técnicos ou por empresas especializadas que para o efeito contrate, os volumes de reservas de gás natural existentes nas zonas de operações. Em caso de divergência a este respeito entre as conclusões da Texaco e as do Estado, será esta dirimida por arbitragem, e as obrigações de fornecimento da Texaco entender-se-ão em relação à sua quota-parte na produção correspondente às reservas que assim forem estabelecidas.
 
-###### Art. 7.º - 1. No caso de, por circunstâncias ou factos independentes da vontade da Texaco, lhe ser impossível produzir ou entregar a totalidade da produção prevista, as quantidades a adquirir pela província de Angola, ao abrigo do seu direito de preferência, reduzir-se-ão a 37,5 por cento da produção efectiva, sem prejuízo do disposto nos n.os 9 e 10 do artigo 9.º
+Art. 7.º - 1. No caso de, por circunstâncias ou factos independentes da vontade da Texaco, lhe ser impossível produzir ou entregar a totalidade da produção prevista, as quantidades a adquirir pela província de Angola, ao abrigo do seu direito de preferência, reduzir-se-ão a 37,5 por cento da produção efectiva, sem prejuízo do disposto nos n.os 9 e 10 do artigo 9.º
 
 2. Sempre que a província de Angola utilizar o seu direito de preferência, as obrigações quanto aos fornecimentos totais por ela desejados serão repartidas, na medida do possível, proporcionalmente por todos os produtores, tendo em conta a localização geográfica e as condições técnicas e económicas dos jazigos em produção.
 
-###### Art. 8.º - 1. Em caso de guerra ou de emergência grave, susceptível de afectar o abastecimento do território nacional em substâncias produzidas pelas associadas, toda a produção fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, as associadas indemnizadas em termos equitativos a acordar entre cada uma delas e o Governo, em relação à quota-parte de cada uma naquela produção.
+Art. 8.º - 1. Em caso de guerra ou de emergência grave, susceptível de afectar o abastecimento do território nacional em substâncias produzidas pelas associadas, toda a produção fica à disposição do Governo sem necessidade de qualquer formalidade, sendo, porém, as associadas indemnizadas em termos equitativos a acordar entre cada uma delas e o Governo, em relação à quota-parte de cada uma naquela produção.
 
 2. Em relação aos fornecimentos que excedam os previstos no artigo 6.º, o Governo e a Texaco consultar-se-ão mùtuamente a fim de fixar, por acordo, os preços a aplicar, que serão os correspondentes aos que seriam obtidos pela aplicação do critério estabelecido no n.º 3 do artigo 6.º
 
 3. A afectação à Texaco das divisas estrangeiras convertíveis e livremente transferíveis correspondentes à liquidação dos fornecimentos prioritários efectuados em execução deste artigo revestirá igualmente carácter prioritário.
 
-###### Art. 9.º - 1. A Texaco obriga-se a pagar ao Estado, a título de direitos de concessão, 12,5 por cento do valor de venda, no local de extracção ou à boca do poço, da sua parte em todas as substâncias produzidas para venda em cada ano civil. A aplicação desta taxa será regulada pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no presente decreto.
+Art. 9.º - 1. A Texaco obriga-se a pagar ao Estado, a título de direitos de concessão, 12,5 por cento do valor de venda, no local de extracção ou à boca do poço, da sua parte em todas as substâncias produzidas para venda em cada ano civil. A aplicação desta taxa será regulada pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no presente decreto.
 
 2. O montante devido por virtude dos direitos de concessão estabelecidos neste artigo será pago à província de Angola no prazo de dois meses, a contar do fim de Junho e de Dezembro de cada ano, em relação ao montante devido como direitos de concessão relativamente ao período de seis meses, terminando no fim de Junho e de Dezembro, respectivamente.
 
@@ -212,19 +232,19 @@ b) Em relação â cessionária, considerar-se-á, no que se refere a encargos, 
 
 11. A tara de 12,5 por cento relativa aos direitos de concessão, referida no n.º 1 deste artigo, será igualmente paga em relação aos produtos extraídos em operações de pesquisa e desenvolvimento, regulando-se pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no presente decreto.
 
-###### Art. 10.º - 1. Em atenção aos direitos de concessão e às obrigações a assumir pela Texaco por força do contrato de associação, ficará esta sociedade isenta do pagamento de quaisquer taxas, impostos ou contribuições, presentes ou futuros, ordinários ou extraordinários, seja qual for o seu título ou natureza, nacionais, provinciais ou regionais, com excepção do imposto de rendimento sobre os petróleos nas províncias ultramarinas, criado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, do imposto estatístico aduaneiro de 1 por mil ad valorem e do imposto do selo em documentos de despacho aduaneiro.
+Art. 10.º - 1. Em atenção aos direitos de concessão e às obrigações a assumir pela Texaco por força do contrato de associação, ficará esta sociedade isenta do pagamento de quaisquer taxas, impostos ou contribuições, presentes ou futuros, ordinários ou extraordinários, seja qual for o seu título ou natureza, nacionais, provinciais ou regionais, com excepção do imposto de rendimento sobre os petróleos nas províncias ultramarinas, criado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, do imposto estatístico aduaneiro de 1 por mil ad valorem e do imposto do selo em documentos de despacho aduaneiro.
 
 2. A Texaco ficará ainda isenta do pagamento de quaisquer taxas, impostos ou contribuições, seja qual for a sua designação ou natureza, nacionais, provinciais ou regionais, que incidam sobre o seu capital, acções, obrigações, títulos, certificados ou natas promissórias ou ainda sobre os seus lucros, capital ou reservas de qualquer natureza.
 
 3. As taxas sem características fiscais ou tributárias, que correspondam a pagamentos de serviços prestados efectivamente à Texaco, apenas serão excluídas quando expressamente referidas no presente decreto.
 
-###### Art. 11.º - 1. A Texaco ficará sujeita ao imposto de rendimento sobre os petróleos de 50 por cento dos seus lucros tributáveis, deduzindo-se do imposto a pagar a importância dos direitos de concessão, relativos ao mesmo ano, que à província pertença por força do artigo 9.º
+Art. 11.º - 1. A Texaco ficará sujeita ao imposto de rendimento sobre os petróleos de 50 por cento dos seus lucros tributáveis, deduzindo-se do imposto a pagar a importância dos direitos de concessão, relativos ao mesmo ano, que à província pertença por força do artigo 9.º
 
-###### Art. 12.º - 1. Para efeitos do imposto de rendimento, considerar-se-ão na determinação dos rendimentos brutos anuais da Texaco os valores dos diversos produtos calculados conforme o estabelecido no artigo 9.º, designadamente nos seus n.os 4 e seguintes.
+Art. 12.º - 1. Para efeitos do imposto de rendimento, considerar-se-ão na determinação dos rendimentos brutos anuais da Texaco os valores dos diversos produtos calculados conforme o estabelecido no artigo 9.º, designadamente nos seus n.os 4 e seguintes.
 
 2. Os lucros líquidos da Texaco serão apurados de acordo com o estabelecido no artigo 4.º do Regulamento do Imposto de Rendimento sobre os Petróleos, aprovado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), e as disposições dos artigos 13.º e 15.º do presente decreto, que substituem o artigo 5.º e o n.º 3 da alínea A) do artigo 6.º do citado Regulamento.
 
-###### Art. 13.º Para cálculo do rendimento líquido tributável da Texaco, com ressalva do estabelecido no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos e as suas alíneas, com excepção do n.º 3 da alínea A) do artigo 6.º, serão deduzidos ao rendimento bruto anual os encargos relativos a despesas de prospecção, pesquisa, desenvolvimento e exploração constantes das alíneas seguintes:
+Art. 13.º Para cálculo do rendimento líquido tributável da Texaco, com ressalva do estabelecido no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos e as suas alíneas, com excepção do n.º 3 da alínea A) do artigo 6.º, serão deduzidos ao rendimento bruto anual os encargos relativos a despesas de prospecção, pesquisa, desenvolvimento e exploração constantes das alíneas seguintes:
 
 a) As rendas e indemnizações pagas a terceiros pela ocupação de imobiliários necessários ao exercício da actividade;
 
@@ -340,15 +360,15 @@ b) Impostos pagos no estrangeiro.
 
 8. Para efeitos de uniformização ou outros, poderão no futuro vir a ser utilizadas tabelas ou prazos de amortização diferentes dos que constam no n.º 1 deste artigo, desde que aquelas ou estes se baseiem na prática internacional e venham a ser geralmente adoptados no ultramar português.
 
-###### Art. 14.º As normas de contabilidade da associação deverão sempre conformar-se com as regras gerais sobre contabilidade estabelecidas para as empresas pesquisadoras e ou produtoras de petróleo no ultramar português, na medida em que tais regras não contrariem o disposto no presente decreto e no contrato de associação, aprovado pelo Governo, nem afectem a situação das associadas, designadamente em matéria tributária.
+Art. 14.º As normas de contabilidade da associação deverão sempre conformar-se com as regras gerais sobre contabilidade estabelecidas para as empresas pesquisadoras e ou produtoras de petróleo no ultramar português, na medida em que tais regras não contrariem o disposto no presente decreto e no contrato de associação, aprovado pelo Governo, nem afectem a situação das associadas, designadamente em matéria tributária.
 
-###### Art. 15.º - 1. A Texaco adoptará as regras sobre escrituração mercantil estabelecidas nos artigos 7.º e 12.º do Regulamento do Imposto de Rendimento sobre os Petróleos.
+Art. 15.º - 1. A Texaco adoptará as regras sobre escrituração mercantil estabelecidas nos artigos 7.º e 12.º do Regulamento do Imposto de Rendimento sobre os Petróleos.
 
 2. Não poderão, em qualquer caso, ser levadas à conta de resultados da Texaco amortizações provenientes de operações puramente financeiras, apenas podendo ser feitas amortizações económico-contabilísticas resultantes do disposto no n.º 1 do artigo 13.º
 
 3. De igual modo, as receitas obtidas pela Texaco, provenientes de quaisquer operações petrolíferas realizadas nas zonas de operações, deverão ser totalmente levadas à conta de resultados da Texaco, não podendo ser deduzida qualquer parcela a título de reembolso de dívidas, quaisquer que sejam os contratos a este respeito estabelecidos com os credores, sem prejuízo do disposto na alínea j) do n.º 1 do artigo 13.º
 
-###### Art. 16.º - 1. A Texaco, por todas as operações que efectuar, no âmbito do contrato de associação a que se refere o artigo 1.º deste decreto, com entidades de direito público ou privado não residentes na província, ficará sujeita às prescrições estabelecidas pela legislação cambial em vigor em Angola, nomeadamente no que se refere à entrega à província das divisas provenientes das exportações, com observância do que se estabelece nos números seguintes.
+Art. 16.º - 1. A Texaco, por todas as operações que efectuar, no âmbito do contrato de associação a que se refere o artigo 1.º deste decreto, com entidades de direito público ou privado não residentes na província, ficará sujeita às prescrições estabelecidas pela legislação cambial em vigor em Angola, nomeadamente no que se refere à entrega à província das divisas provenientes das exportações, com observância do que se estabelece nos números seguintes.
 
 2. A Texaco conservará e disporá livremente em todas as ocasiões dos fundos ou bens que possuir fora da província de Angola ou que posteriormente adquira a pessoas ou entidades não residentes na província de Angola, sem prejuízo do n.º 3 deste artigo.
 
@@ -396,11 +416,11 @@ f) Pagamento fora de Angola de despesas efectuadas no âmbito da associação qu
 
 14. Se, no futuro, a legislação de câmbios geralmente aplicável em Angola for alterada do modo que uma ou mais das suas disposições se torne mais favorável para a Texaco do que as correlativas deste artigo, ou no caso de virem a ser atribuídas a empresas petrolíferas, trabalhando na província em circunstâncias susceptíveis de comparação, condições mais favoráveis do que as deste artigo, tais condições mais favoráveis serão aplicáveis à Texaco.
 
-###### Art. 17.º De acordo com o disposto no artigo 20.º do [Decreto n.º 48846](https://diariodarepublica.pt/dr/detalhe/decreto/48846-1969-527025), de 23 de Janeiro de 1969, logo que a participação da Texaco na produção resultante da sua posição na associação Petrangol-Angol-Texaco na bacia do Conpo e ou da sua posição na área do Congo exterior (concessão da Angol) atinja durante um período de trinta dias a média diária de 50000 barris de petróleo bruto, a Texaco pagará à província de Angola o equivalente em escudos a 2,5 milhões de dólares dos Estados Unidos da América.
+Art. 17.º De acordo com o disposto no artigo 20.º do [Decreto n.º 48846](https://diariodarepublica.pt/dr/detalhe/decreto/48846-1969-527025), de 23 de Janeiro de 1969, logo que a participação da Texaco na produção resultante da sua posição na associação Petrangol-Angol-Texaco na bacia do Conpo e ou da sua posição na área do Congo exterior (concessão da Angol) atinja durante um período de trinta dias a média diária de 50000 barris de petróleo bruto, a Texaco pagará à província de Angola o equivalente em escudos a 2,5 milhões de dólares dos Estados Unidos da América.
 
-###### Art. 18.º As infracções cometidas por qualquer das associadas, quando independentes da sua vontade, não serão consideradas como violação das suas respectivas obrigações, mas a mora ou o incumprimento determinados por dificuldades financeiras de qualquer associada, seja qual for a respectiva causa, não será considerada como resultante de força maior.
+Art. 18.º As infracções cometidas por qualquer das associadas, quando independentes da sua vontade, não serão consideradas como violação das suas respectivas obrigações, mas a mora ou o incumprimento determinados por dificuldades financeiras de qualquer associada, seja qual for a respectiva causa, não será considerada como resultante de força maior.
 
-###### Art. 19.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente usufruídas pelos principais países produtores em África, o Governo e a Texaco, pela primeira vez em 11 de Janeiro de 1977 e subsequentemente em cada período de dez anos, entabularão conversações e procederão à revisão das disposições aplicáveis, no sentido de equipará-las às dos contratos vigentes nos mencionados países produtores, tendo-se em atenção as comparações apropriadas, por forma que a província de Angola venha a beneficiar de regalias semelhantes às aplicáveis naqueles países produtores.
+Art. 19.º - 1. A fim de serem asseguradas à província de Angola as vantagens geralmente usufruídas pelos principais países produtores em África, o Governo e a Texaco, pela primeira vez em 11 de Janeiro de 1977 e subsequentemente em cada período de dez anos, entabularão conversações e procederão à revisão das disposições aplicáveis, no sentido de equipará-las às dos contratos vigentes nos mencionados países produtores, tendo-se em atenção as comparações apropriadas, por forma que a província de Angola venha a beneficiar de regalias semelhantes às aplicáveis naqueles países produtores.
 
 2. Não obstante as revisões previstas no número anterior, se depois de 11 de Janeiro de 1972 e antes de 11 de Janeiro de 1977 a produção de petróleo bruto obtida pela Texaco nas zonas terrestre e marítima da área do Congo atingir um nível médio diário de 100000 barris durante um período de noventa dias consecutivos, o Governo e a Texaco procederão a conversações para o fim previsto no n.º 1 deste artigo.
 
@@ -408,9 +428,9 @@ f) Pagamento fora de Angola de despesas efectuadas no âmbito da associação qu
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 22 de Janeiro de 1969.**
+Promulgado em 22 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Janeiro de 1959. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -430,7 +450,7 @@ fica estabelecido, com o acordo do Estado, que a associação em participação 
 
 ### CAPÍTULO I — Do objecto e da gestão da associação
 
-###### Artigo 1.º - 1. A associação Petrangol-Angol passa a incluir a Texaco e continuará tendo por objecto as actividades de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos em relação a todas as zonas abrangidas na área da concessão da Petrangol correspondente à chamada bacia do Congo, incluindo as respectivas áreas offshore. Tal associação passará a designar-se por associação Petrangol-Angol-Texaco.
+Artigo 1.º - 1. A associação Petrangol-Angol passa a incluir a Texaco e continuará tendo por objecto as actividades de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos em relação a todas as zonas abrangidas na área da concessão da Petrangol correspondente à chamada bacia do Congo, incluindo as respectivas áreas offshore. Tal associação passará a designar-se por associação Petrangol-Angol-Texaco.
 
 2. A associação continuará a ser feita em regime de participação ou de associação não societária de interesses.
 
@@ -438,7 +458,7 @@ fica estabelecido, com o acordo do Estado, que a associação em participação 
 
 4. Os direito e obrigações das associadas, tanto perante o Governo como entre elas, resultam do que se dispõe no [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, no Decreto n.º 48847, de 23 de Janeiro de 1969, e demais legislação especialmente aplicável, no contrato de concessão da Petrangol de 27 de Janeiro de 1966 e sua apostilha e no contrato de associação de 26 de Maio de 1966, com as alterações nele introduzidas pelo presente instrumento contratual e pelo citado Decreto n.º 48847.
 
-###### Art. 2.º - 1. A participação de cada sociedade signatária, adiante designada por associada, passa a ser definida, conforme disposto nos artigos 1.º e 60.º do presente contrato pela respectiva percentagem inicial, nos termos a seguir indicados:
+Art. 2.º - 1. A participação de cada sociedade signatária, adiante designada por associada, passa a ser definida, conforme disposto nos artigos 1.º e 60.º do presente contrato pela respectiva percentagem inicial, nos termos a seguir indicados:
 
 ... Percentagens
 
@@ -482,7 +502,7 @@ c) Denomina-se «percentagem resultante na exploração» de um jazigo a relaç�
 
 a) Por «zonas de operações» designam-se as áreas de concessão da Petrangol abrangidas pelo perímetro definido pelos vértices seguintes, pertencentes à bacia do Congo, referida no artigo 3.º do decreto de concessão:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/01/01900/00620080.pdf))](https://files.diariodarepublica.pt/1s/1969/01/01900/00620080.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/01/01900/00620080.pdf)
 
 b) Por «trabalhos ou operações de prospecção de uma área» designam-se todos os trabalhos e operações tendentes à determinação, nessa área, de estruturas favoráveis à acumulação de hidrocarbonetos, neles se incluindo os trabalhos de cartografia, geologia, prospecção geofísica, prospecção geoquímica e sondagens geológicas;
 
@@ -508,7 +528,7 @@ m) Por «Governo» designa-se o Governo da República Portuguesa;
 
 n) Por «decreto de concessão» e «contrato de concessão» designam-se o [Decreto n.º 46822](https://diariodarepublica.pt/dr/detalhe/decreto/46822-1965-174317), de 31 de Dezembro de 1965, e o contrato celebrado ao abrigo desse decreto entre o Governo Português e a Petrangol em 27 de Janeiro de 1966 e a sua apostilha.
 
-###### Art. 3.º - 1. Qualquer associada poderá a todo o tempo ceder a sua posição neste contrato, no todo ou em parte, nas condições definidas nas alíneas seguintes:
+Art. 3.º - 1. Qualquer associada poderá a todo o tempo ceder a sua posição neste contrato, no todo ou em parte, nas condições definidas nas alíneas seguintes:
 
 a) A cessão, quer seja em benefício de uma subsidiária ou da sociedade-mãe da cedente, quer em benefício de uma subsidiária da referida sociedade-mãe, adiante definidas, não dependerá do consentimento das outras associadas, ficando a cedente, contudo, solidàriamente responsável com a cessionária pelo exacto cumprimento de todas as obrigações que lhe incumbiam pelo presente contrato:
 
@@ -520,17 +540,17 @@ b) A cessão em benefício de qualquer outra sociedade estará sujeita à opçã
 
 2. Qualquer cessão prevista neste artigo ficará dependente da autorização expressa do Governo.
 
-###### Art. 4.º - 1. A associação será superiormente dirigida e fiscalizada por uma comissão directiva constituída por dois representantes de cada associada e por um representante do Estado, que será o presidente, o qual será escolhido entre individualidades qualificadas nos assuntos ligados à indústria do petróleo.
+Art. 4.º - 1. A associação será superiormente dirigida e fiscalizada por uma comissão directiva constituída por dois representantes de cada associada e por um representante do Estado, que será o presidente, o qual será escolhido entre individualidades qualificadas nos assuntos ligados à indústria do petróleo.
 
 2. A direcção técnica e a execução dos trabalhos da associação serão assegurados por um ou mais operadores sob a autoridade e fiscalização da comissão directiva.
 
 ### CAPÍTULO II — Da comissão directiva
 
-###### Art. 5.º - 1. A comissão directiva reúne-se com a frequência considerada necessária para a boa marcha das operações, devendo reunir sempre que o presidente entender conveniente ou seja solicitado por qualquer das associadas, fazendo-se a respectiva convocação de harmonia com a urgência invocada.
+Art. 5.º - 1. A comissão directiva reúne-se com a frequência considerada necessária para a boa marcha das operações, devendo reunir sempre que o presidente entender conveniente ou seja solicitado por qualquer das associadas, fazendo-se a respectiva convocação de harmonia com a urgência invocada.
 
 2. A comissão directiva disporá em Lisboa de escritórios próprios onde decorrerão normalmente os seus trabalhos e onde se manterão os arquivos da associação.
 
-###### Art. 6.º - 1. Compete ao presidente da comissão directiva:
+Art. 6.º - 1. Compete ao presidente da comissão directiva:
 
 a) Coordenar e orientar todas as actividades da comissão directiva;
 
@@ -550,7 +570,7 @@ g) Obter dos operadores as informações que considere convenientes ou lhe tenha
 
 3. No caso de impedimento do presidente da comissão directiva os trabalhos de qualquer reunião serão dirigidos por um dos membros por ele designado para o efeito; na falta de designação dirigirá os trabalhos o membro presente de mais idade.
 
-###### Art. 7.º - 1. As convocações para as reuniões da comissão directiva devem ser feitas por carta dez dias antes da data fixada para a reunião, podendo eventualmente ser feitas por telegrama a confirmar por carta.
+Art. 7.º - 1. As convocações para as reuniões da comissão directiva devem ser feitas por carta dez dias antes da data fixada para a reunião, podendo eventualmente ser feitas por telegrama a confirmar por carta.
 
 2. A carta de convocação indicará a ordem do dia da reunião e será acompanhada de todos os documentos e esclarecimentos necessários ao exame dos assuntos inscritos.
 
@@ -564,11 +584,11 @@ g) Obter dos operadores as informações que considere convenientes ou lhe tenha
 
 7. As comunicações da comissão directiva dirigidas aos operadores, quando não sejam associadas, serão enviadas aos representantes qualificados dessas entidades expressamente designados para as suas relações com a associação.
 
-###### Art. 8.º - 1. Nas reuniões da comissão directiva só poderão ser tomadas deliberações sobre assuntos inscritos na respectiva ordem do dia, a não ser que, estando presentes todos os seus membros, estes acordem em deliberar sobre assuntos não inscritos.
+Art. 8.º - 1. Nas reuniões da comissão directiva só poderão ser tomadas deliberações sobre assuntos inscritos na respectiva ordem do dia, a não ser que, estando presentes todos os seus membros, estes acordem em deliberar sobre assuntos não inscritos.
 
 2. As reuniões da comissão directiva podem efectuar-se qualquer que seja o número das associadas presentes. Quando não estejam representadas todas as associadas, as decisões tomadas deverão ser comunicadas, dentro de quarenta e oito horas úteis, às associadas ausentes, as quais deverão comunicar ao presidente da comissão directiva o seu voto dentro dos dez dias úteis seguintes ao recebimento do comunicado das decisões. Na falta desta comunicação ao presidente, dentro do referido prazo, considerar-se-á que aceitaram as decisões em causa.
 
-###### Art. 9.º - 1. Sem prejuízo do que adiante se dispõe nos artigos 40.º, 43.º e 47.º, nas reuniões da comissão directiva cada associada dispõe de uma percentagem de votação correspondente à respectiva percentagem resultante nas pesquisas.
+Art. 9.º - 1. Sem prejuízo do que adiante se dispõe nos artigos 40.º, 43.º e 47.º, nas reuniões da comissão directiva cada associada dispõe de uma percentagem de votação correspondente à respectiva percentagem resultante nas pesquisas.
 
 2. Antes de se realizar a primeira reunião da comissão directiva, cada associada comunicará ao presidente quem são os seus representantes nesta comissão.
 
@@ -602,7 +622,7 @@ b) Necessitam da maioria de 70 por cento da totalidade dos votos das associadas 
 
 2.º Escolha de peritos contabilistas encarregados da verificação da contabilidade.
 
-###### Art. 10.º - 1. O presidente da comissão directiva terá o direito de se opor a qualquer acto ou deliberação da mesma comissão que seja contrário à lei, a este contrato, aos contratos das associadas com o Estado ou manifestamente lesivo do interesse público.
+Art. 10.º - 1. O presidente da comissão directiva terá o direito de se opor a qualquer acto ou deliberação da mesma comissão que seja contrário à lei, a este contrato, aos contratos das associadas com o Estado ou manifestamente lesivo do interesse público.
 
 2. A oposição do presidente da comissão directiva tem o efeito de suspender a eficácia desse acto ou deliberação.
 
@@ -610,13 +630,13 @@ b) Necessitam da maioria de 70 por cento da totalidade dos votos das associadas 
 
 4. Decorridos vinte dias após a data da oposição formulada pelo presidente da comissão directiva, se esta tiver sido confirmada pelo Ministro do Ultramar ou se o requerimento a que se refere o número anterior não tiver obtido resposta, poderá a reclamante recorrer à arbitragem conforme o estabelecido no artigo 56.º
 
-###### Art. 11.º - 1. As actas das reuniões da comissão directiva serão elaboradas de acordo com a lei comercial e exaradas em livro próprio, assinadas por todos os membros.
+Art. 11.º - 1. As actas das reuniões da comissão directiva serão elaboradas de acordo com a lei comercial e exaradas em livro próprio, assinadas por todos os membros.
 
 2. As minutas das actas deverão ser elaboradas, sempre que possível, no dia em que teve lugar a reunião a que dizem respeito e as suas cópias serão enviadas às associadas dentro dos cinco dias úteis seguintes, considerando-se dada a conformidade quando não seja feita qualquer observação dentro do prazo de dez dias úteis, a contar da sua recepção.
 
 3. Sempre que o presidente da comissão directiva recuse a sua aprovação a quaisquer deliberações para as quais é requerida essa aprovação ou exerça o seu direito de oposição nos termos do n.º 1 do artigo 10.º, as minutas das actas a que tal se refiram deverão ser remetidas às associadas nas vinte e quatro horas úteis seguintes à correspondente reunião.
 
-###### Art. 12.º - 1. Como órgão consultivo da comissão directiva constituir-se-á uma comissão técnica composta por um número igual de representantes de cada uma das associadas e por um representante do Estado.
+Art. 12.º - 1. Como órgão consultivo da comissão directiva constituir-se-á uma comissão técnica composta por um número igual de representantes de cada uma das associadas e por um representante do Estado.
 
 2. Competirão à comissão técnica as funções constantes das alíneas seguintes:
 
@@ -658,23 +678,23 @@ f) Elaborar, para a comissão directiva, um relatório anual sobre a evolução 
 
 4. O eventual fornecimento dos elementos referidos no número anterior directamente à comissão técnica ou a qualquer dos seus membros deverá, sempre, ser comunicado à comissão directiva pelos operadores que o tenham efectuado.
 
-###### Art. 13.º A comissão directiva poderá criar como órgãos consultivos, e com as atribuições que por ela vierem a ser definidas, comissões e grupos de trabalho constituídos por igual número de representantes de cada associada e por um representante do Estado.
+Art. 13.º A comissão directiva poderá criar como órgãos consultivos, e com as atribuições que por ela vierem a ser definidas, comissões e grupos de trabalho constituídos por igual número de representantes de cada associada e por um representante do Estado.
 
-###### Art. 14.º O estabelecimento de normas de funcionamento interno da associação, dentro dos limites das cláusulas deste contrato, incluindo as regras orçamentais e de contabilidade a aplicar, carece de aprovação unânime da comissão directiva e do seu presidente.
+Art. 14.º O estabelecimento de normas de funcionamento interno da associação, dentro dos limites das cláusulas deste contrato, incluindo as regras orçamentais e de contabilidade a aplicar, carece de aprovação unânime da comissão directiva e do seu presidente.
 
-###### Art. 15.º - 1. Todas as despesas da comissão directiva e dos seus órgãos consultivos serão pagas pelo operador para o efeito designado pela comissão directiva e suportadas por cada associada na proporção da respectiva percentagem inicial, sendo consideradas para os efeitos do investimento mínimo previsto para os trabalhos de prospecção e pesquisa.
+Art. 15.º - 1. Todas as despesas da comissão directiva e dos seus órgãos consultivos serão pagas pelo operador para o efeito designado pela comissão directiva e suportadas por cada associada na proporção da respectiva percentagem inicial, sendo consideradas para os efeitos do investimento mínimo previsto para os trabalhos de prospecção e pesquisa.
 
 2. A comissão directiva terá contabilidade própria, devendo anualmente ser aprovado o respectivo orçamento de despesas.
 
 ### CAPÍTULO III — Do operador
 
-###### Art. 16.º - 1. A partir de 1 de Janeiro de 1969 as funções de operador para a área marítima da bacia do Congo deixam de estar a cargo da Petrangol e serão confiadas à Texaco até ao final do 1.º semestre de 1971, continuando a Petrangol até esta última data na área terrestre da mesma bacia com as suas actuais funções de operador. Dentro do mandato que lhe é conferido pelas associadas, e com observância das decisões que pela comissão directiva forem tomadas, cada operador terá a seu cargo na área em que opere todas as operações de prospecção, pesquisa, desenvolvimento e exploração, nos termos previstos no presente contrato.
+Art. 16.º - 1. A partir de 1 de Janeiro de 1969 as funções de operador para a área marítima da bacia do Congo deixam de estar a cargo da Petrangol e serão confiadas à Texaco até ao final do 1.º semestre de 1971, continuando a Petrangol até esta última data na área terrestre da mesma bacia com as suas actuais funções de operador. Dentro do mandato que lhe é conferido pelas associadas, e com observância das decisões que pela comissão directiva forem tomadas, cada operador terá a seu cargo na área em que opere todas as operações de prospecção, pesquisa, desenvolvimento e exploração, nos termos previstos no presente contrato.
 
 2. A comissão directiva poderá confiar a qualquer outra associada ou outra entidade as funções de operador a partir de 1 de Julho de 1971, tanto para a área terrestre como para a marítima, sem embargo de, com o acordo do operador cessante, este continuar em exercício até à data estabelecida para o novo operador iniciar efectivamente as suas funções. A comissão directiva poderá também confiar as funções de operador a qualquer outra associada ou outra entidade, mesmo antes do prazo atrás estabelecido, sempre que a actuação dos operadores se não exerça de forma satisfatória ou quando a sua percentagem inicial seja reduzida em mais de 10 por cento.
 
 3. A escolha do operador pela comissão directiva, desde que não seja qualquer associada, carece de aprovação do respectivo presidente.
 
-###### Art. 17.º - 1. Competirá aos operadores, por conta das associadas e sob orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes da associação, exceptuadas as referidas nas alíneas seguintes:
+Art. 17.º - 1. Competirá aos operadores, por conta das associadas e sob orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes da associação, exceptuadas as referidas nas alíneas seguintes:
 
 a) As obrigações para com o Estado que forem atribuições específicas da concessionária;
 
@@ -686,7 +706,7 @@ b) Os pagamentos ao Estado da taxa de produção (royalty) e do imposto de rendi
 
 4. A associada ou entidade que exercer as funções de operador, e enquanto as exercer, será a responsável por todas as multas ou prejuízos que possam resultar de qualquer falta no cumprimento de todas as disposições legais e contratuais, a que se refere o n.º 1 deste artigo, salvo se actuar em cumprimento das decisões da comissão directiva, caso em que as responsáveis serão as associadas que tiverem votado essas decisões.
 
-###### Art. 18.º - 1. Cada operador elaborará todos os anos, com a colaboração da comissão técnica, a parte do plano de trabalhos de prospecção e pesquisa para o ano imediato, em relação à área em que opera, e os respectivos orçamentos, os quais submeterá à aprovação da comissão directiva até noventa dias antes de terminar o plano de trabalhos em curso.
+Art. 18.º - 1. Cada operador elaborará todos os anos, com a colaboração da comissão técnica, a parte do plano de trabalhos de prospecção e pesquisa para o ano imediato, em relação à área em que opera, e os respectivos orçamentos, os quais submeterá à aprovação da comissão directiva até noventa dias antes de terminar o plano de trabalhos em curso.
 
 2. A comissão directiva deverá no prazo de vinte dias aprovar, rejeitar ou modificar o plano de trabalhos e respectivo orçamento.
 
@@ -698,13 +718,13 @@ b) Os pagamentos ao Estado da taxa de produção (royalty) e do imposto de rendi
 
 6. Qualquer plano de trabalhos de prospecção e pesquisa, desenvolvimento ou exploração e respectivos orçamentos, bem como as suas eventuais alterações, carecem de aprovação da comissão directiva e do seu presidente.
 
-###### Art. 19.º - 1. Até ao dia 5 do segundo mês de cada bimestre, cada operador indicará à comissão directiva e às associadas a quota-parte que, dentro do orçamento aprovado, caberá a cada associada nas despesas previstas para o bimestre seguinte é fornecerá uma situação de tesouraria, mostrando os montantes despendidos por cada uma das associadas e as despesas realizadas por conta da associação no bimestre anterior.
+Art. 19.º - 1. Até ao dia 5 do segundo mês de cada bimestre, cada operador indicará à comissão directiva e às associadas a quota-parte que, dentro do orçamento aprovado, caberá a cada associada nas despesas previstas para o bimestre seguinte é fornecerá uma situação de tesouraria, mostrando os montantes despendidos por cada uma das associadas e as despesas realizadas por conta da associação no bimestre anterior.
 
 2. Antes do início do referido bimestre todas as associadas devem entregar aos operadores a parte que lhes competir nas despesas, tomando em consideração o saldo existente no final do penúltimo bimestre.
 
 3. Cada operador assegurará o pagamento das despesas da associação, por conta das associadas, em relação à área em que opere.
 
-###### Art. 20.º - 1. Os operadores manterão uma contabilidade analítica para todas as operações da associação por eles realizadas.
+Art. 20.º - 1. Os operadores manterão uma contabilidade analítica para todas as operações da associação por eles realizadas.
 
 2. Até ao dia 25 de cada mês será enviada à comissão directiva e às associadas uma situação contabilística referente à actividade do mês anterior indicando todas as despesas efectuadas.
 
@@ -714,13 +734,13 @@ b) Os pagamentos ao Estado da taxa de produção (royalty) e do imposto de rendi
 
 5. Qualquer associada pode a todo o tempo proceder à verificação da contabilidade da associação, sem perturbar as suas operações correntes, por sua conta e por intermédio de um contabilista pertencente ao quadro normal do seu pessoal.
 
-###### Art. 21.º - 1. Os planos de trabalhos serão executados pelos operadores de acordo com as instruções que a comissão directiva entenda dever fixar quando da sua aprovação.
+Art. 21.º - 1. Os planos de trabalhos serão executados pelos operadores de acordo com as instruções que a comissão directiva entenda dever fixar quando da sua aprovação.
 
 2. Antes do início de qualquer sondagem, o operador fornecerá à comissão directiva um relatório de implantação, indicando especialmente os objectivos da sondagem, o material a utilizar e os programas de detecção de hidrocarbonetos e de reconhecimento do reservatório.
 
 3. Os assuntos relativos à realização dos programas de ensaio a efectuar sobre poços de pesquisa ou relativos ao seu abandono devem ser submetidos pelo operador à aprovação da comissão directiva.
 
-###### Art. 22.º - 1. Os operadores enviarão à comissão directiva todos os relatórios técnicos que esta lhes solicitar, designadamente os indicados nas alíneas seguintes:
+Art. 22.º - 1. Os operadores enviarão à comissão directiva todos os relatórios técnicos que esta lhes solicitar, designadamente os indicados nas alíneas seguintes:
 
 a) Relatório de prospecção sísmica, incluindo os registos, time sections, orientação e nivelamento dos alinhamentos e as cargas de explosivos empregados, bem como, no final do trabalho de prospecção sísmica, o relatório pormenorizado das interpretações parcial e final dos estudos verificados;
 
@@ -738,11 +758,11 @@ e) Relatórios de fim de sondagem para cada poço seco ou produtivo, contendo to
 
 4. Cada operador deverá manter rigorosa confidência sobre todos os resultados obtidos no decurso das operações a seu cargo, os quais não poderão ser comunicados a terceiros, sem prévia autorização expressa da comissão directiva.
 
-###### Art. 23.º - 1. Os operadores subscreverão e manterão em vigor as apólices de seguros cobrindo os riscos provenientes dos trabalhos executados em resultado do presente contrato.
+Art. 23.º - 1. Os operadores subscreverão e manterão em vigor as apólices de seguros cobrindo os riscos provenientes dos trabalhos executados em resultado do presente contrato.
 
 2. Os riscos a segurar e a respectiva cobertura serão estabelecidos periòdicamente pela comissão directiva, conforme o previsto no n.º 8 da alínea a) do n.º 4 do artigo 9.º
 
-###### Art. 24.º - 1. O operador não poderá realizar qualquer despesa ou assumir qualquer obrigação, em nome e por conta das associadas, sem que aquela despesa ou obrigação esteja expressamente autorizada ou contida em plano de trabalhos e orçamento devidamente aprovados pela comissão directiva.
+Art. 24.º - 1. O operador não poderá realizar qualquer despesa ou assumir qualquer obrigação, em nome e por conta das associadas, sem que aquela despesa ou obrigação esteja expressamente autorizada ou contida em plano de trabalhos e orçamento devidamente aprovados pela comissão directiva.
 
 2. O operador deverá obter prévia autorização da comissão directiva e do seu presidente para a realização das despesas e escolha de empreiteiros referentes a cada projecto individualizado, incluído nos planos de trabalhos e orçamentos aprovados que respeitem às categorias seguintes:
 
@@ -766,17 +786,17 @@ e) Despesas extraordinárias: todas, sem prejuízo do disposto no artigo 25.º
 
 3. Com vista a facilitar a sua acção, o operador poderá realizar sobregastos respeitantes a qualquer dos projectos enumerados no número anterior e compreendidos nas alíneas a) a e) que não excedam 10 por cento do custo total aprovado e com observância do limite máximo de 1400000$00 em relação a qualquer dos projectos individualizados, e desde que de tais sobregastos não resulte vir a ultrapassar-se o valor total do orçamento aprovado. Aqueles sobregastos terão de ser ratificados pela comissão directiva e pelo seu presidente tão cedo quanto possível, após a sua efectivação.
 
-###### Art. 25.º - 1. Em caso de emergência, ou no sentido de proteger os interesses das associadas, poderá o operador realizar despesas ou assumir obrigações não autorizadas desde que tal se revele necessário, devendo no prazo máximo de quinze dias submeter à ratificação da comissão directiva as medidas tomadas e, para aprovação, as que entenda deverem ser tomadas, aplicando-se as normas dos artigos anteriores.
+Art. 25.º - 1. Em caso de emergência, ou no sentido de proteger os interesses das associadas, poderá o operador realizar despesas ou assumir obrigações não autorizadas desde que tal se revele necessário, devendo no prazo máximo de quinze dias submeter à ratificação da comissão directiva as medidas tomadas e, para aprovação, as que entenda deverem ser tomadas, aplicando-se as normas dos artigos anteriores.
 
 2. Os operadores não poderão vender ou por qualquer outra forma dispor dos bens das associadas, excepto nos casos em que para tanto estejam autorizados pela comissão directiva e pelo seu presidente.
 
 ### CAPÍTULO IV — Da sociedade concessionária
 
-###### Art. 26.º - 1. A Petrangol exercerá todos os direitos e obrigações inerentes à sua qualidade de concessionária, sendo responsável perante as outras associadas por qualquer falta no exercício desses direitos e obrigações.
+Art. 26.º - 1. A Petrangol exercerá todos os direitos e obrigações inerentes à sua qualidade de concessionária, sendo responsável perante as outras associadas por qualquer falta no exercício desses direitos e obrigações.
 
 2. Recìprocamente, as associadas e ou os operadores são responsáveis perante a Petrangol por quaisquer faltas que lhes sejam imputáveis e que a prejudiquem na sua qualidade de concessionária.
 
-###### Art. 27.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes do contrato de concessão dos direitos de prospecção, pesquisa, desenvolvimento e exploração relativos às áreas que são objecto deste contrato.
+Art. 27.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as disposições legais e de todas as obrigações para com o Estado resultantes do contrato de concessão dos direitos de prospecção, pesquisa, desenvolvimento e exploração relativos às áreas que são objecto deste contrato.
 
 2. Quando uma falta imputável à Petrangol no cumprimento das referidas disposições e obrigações implique aplicação de multas ou outros prejuízos, umas e outros serão de inteira responsabilidade da Petrangol e por ela suportadas na sua totalidade.
 
@@ -788,7 +808,7 @@ e) Despesas extraordinárias: todas, sem prejuízo do disposto no artigo 25.º
 
 6. Se por faltas, imputáveis a qualquer das associadas e ou aos operadores a Petrangol se encontrar impossibilitada de observar o disposto no n.º 1 deste artigo, poderá exigir-lhes imediata efectivação da responsabilidade nos termos do n.º 2 do artigo 26.º deste contrato.
 
-###### Art. 28.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as formalidades legais e contratuais necessárias à execução do trabalhos de prospecção e pesquisa nas áreas da concessão respeitantes a este contrato, bem como dos trabalhos de desenvolvimento e exploração de todos os jazigos encontrados nesta área.
+Art. 28.º - 1. Competirá à Petrangol, por conta das associadas e sob a orientação da comissão directiva, assegurar o cumprimento de todas as formalidades legais e contratuais necessárias à execução do trabalhos de prospecção e pesquisa nas áreas da concessão respeitantes a este contrato, bem como dos trabalhos de desenvolvimento e exploração de todos os jazigos encontrados nesta área.
 
 2. Quando por falta da responsabilidade da Petrangol no cumprimento das referidas formalidades resultar a perda dos direitos sobre determinada área ou jazigo, o Governo disporá dos direitos perdidos a favor da entidade que entender, nos termos do artigo anterior, mas manterá para as restantes associadas as obrigações e interesses que nesses direitos lhes cabiam nos termos da associação.
 
@@ -800,9 +820,9 @@ e) Despesas extraordinárias: todas, sem prejuízo do disposto no artigo 25.º
 
 ### CAPÍTULO V — Dos trabalhos a realizar
 
-###### Art. 29.º Nas áreas da bacia do Congo afectadas à associação serão realizados, por conta e risco das associadas e de acordo com as regras constantes deste contrato, trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, assim como enxofre, hélio, dióxido de carbono e substâncias salinas.
+Art. 29.º Nas áreas da bacia do Congo afectadas à associação serão realizados, por conta e risco das associadas e de acordo com as regras constantes deste contrato, trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos de hidrocarbonetos sólidos, líquidos e gasosos, particularmente petróleo bruto, ozocerite, asfalto e gases naturais, assim como enxofre, hélio, dióxido de carbono e substâncias salinas.
 
-###### Art. 30.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento e exploração poderá ser executado, salvo por motivos de segurança, sem que tenha sido considerado num plano de trabalhos aprovado pelo Governo. Salvo por motivos de força maior, a paragem ou suspensão de qualquer plano de trabalhos deverá ser submetida pelo operador à prévia aprovação da comissão directiva e do seu presidente.
+Art. 30.º - 1. Nenhum trabalho de prospecção, pesquisa, desenvolvimento e exploração poderá ser executado, salvo por motivos de segurança, sem que tenha sido considerado num plano de trabalhos aprovado pelo Governo. Salvo por motivos de força maior, a paragem ou suspensão de qualquer plano de trabalhos deverá ser submetida pelo operador à prévia aprovação da comissão directiva e do seu presidente.
 
 2. Considera-se tàcitamente aprovado qualquer plano de trabalho ou posterior alteração sempre que, decorridos trinta dias após a data da sua apresentação na instância competente, não tenha sido comunicada à Petrangol qualquer decisão.
 
@@ -814,7 +834,7 @@ e) Despesas extraordinárias: todas, sem prejuízo do disposto no artigo 25.º
 
 6. Os planos de trabalhos, que devem ser pormenorizados, elucidativos e justificativos, serão entregues em triplicado na Direcção dos Serviços de Geologia e Minas de Angola.
 
-###### Art. 31.º - 1. Os trabalhos de prospecção e pesquisa serão em cada ano objecto de um plano de trabalhos, conforme o estabelecido no artigo 18.º, o qual deverá ser apresentado à aprovação do Governo até sessenta dias antes de terminar o período de validade do plano anteriormente aprovado.
+Art. 31.º - 1. Os trabalhos de prospecção e pesquisa serão em cada ano objecto de um plano de trabalhos, conforme o estabelecido no artigo 18.º, o qual deverá ser apresentado à aprovação do Governo até sessenta dias antes de terminar o período de validade do plano anteriormente aprovado.
 
 2. A execução dos planos de trabalhos referidos neste artigo deve começar dentro de trinta dias após a data da aprovação expressa ou tácita do Governo e manter-se regular e continuamente durante todo o período a que disser respeito.
 
@@ -824,7 +844,7 @@ e) Despesas extraordinárias: todas, sem prejuízo do disposto no artigo 25.º
 
 5. Na eventual prorrogação da concessão dos direitos de prospecção e pesquisa, o Governo indicará para os efeitos do n.º 4 qual o mínimo que se deverá verificar nos trabalhos de prospecção e pesquisa, de acordo com o desenvolvimento que nessa altura os diversos trabalhos apresentarem e proporcionalmente à área conservada.
 
-###### Art. 32.º - 1. Sempre que na pesquisa de uma estrutura se verifique, após a execução dos necessários ensaios de produção, o aparecimento do primeiro poço produtivo, e no prazo máximo de sessenta dias, contados a partir da conclusão desses ensaios, o operador estabelecerá, com a colaboração da comissão técnica, o plano de trabalhos de desenvolvimento dessa estrutura e o respectivo orçamento, os quais serão submetidos a aprovação da comissão directiva.
+Art. 32.º - 1. Sempre que na pesquisa de uma estrutura se verifique, após a execução dos necessários ensaios de produção, o aparecimento do primeiro poço produtivo, e no prazo máximo de sessenta dias, contados a partir da conclusão desses ensaios, o operador estabelecerá, com a colaboração da comissão técnica, o plano de trabalhos de desenvolvimento dessa estrutura e o respectivo orçamento, os quais serão submetidos a aprovação da comissão directiva.
 
 2. A comissão directiva deverá aprovar, rejeitar ou modificar o referido plano de trabalhos e o respectivo orçamento até vinte dias após a data da sua recepção.
 
@@ -844,7 +864,7 @@ com continuidade, até à sua conclusão. Independentemente da aprovação do re
 
 9. As substâncias úteis resultantes do primeiro poço produtivo e dos trabalhos de desenvolvimento de cada estrutura serão partilhadas entre as associadas que participaram no financiamento desses trabalhos de desenvolvimento proporcionalmente à percentagem resultante no desenvolvimento de cada uma, calculada na data da aprovação pelo Governo do correspondente plano de trabalhos de exploração ou na data de abandono da estrutura, se a sua exploração não for realizada, e são para todos os efeitos consideradas nos mesmos termos das produzidas na fase de exploração, designadamente para fins fiscais e para os da sua comercialização.
 
-###### Art. 33.º - 1. Quando os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo susceptível de ser econòmicamente explorado, deverá ser feita pela concessionária a respectiva comunicação ao Governo.
+Art. 33.º - 1. Quando os trabalhos de desenvolvimento de uma estrutura permitam reconhecer a existência de um jazigo susceptível de ser econòmicamente explorado, deverá ser feita pela concessionária a respectiva comunicação ao Governo.
 
 2. No prazo máximo de sessenta dias, a contar da comunicação referida no número anterior, o operador elaborará, com a colaboração da comissão técnica, o plano de trabalhos de exploração desse jazigo e o respectivo orçamento, bem como um relatório de que conste:
 
@@ -876,11 +896,11 @@ Simultâneamente com o plano de trabalhos de exploração de qualquer jazigo, po
 
 12. Relativamente a cada jazigo em exploração a concessionária deverá apresentar anualmente ao Governo, até ao dia 1 de Março, o relatório de exploração respeitante ao ano anterior, o qual será elaborado pelo operador com a colaboração da comissão técnica e submetido a aprovação da comissão directiva.
 
-###### Art. 34.º Nos casos omissos valerá o disposto sobre actividades mineiras no contrato de concessão.
+Art. 34.º Nos casos omissos valerá o disposto sobre actividades mineiras no contrato de concessão.
 
 ### CAPÍTULO VI — Dos financiamentos
 
-###### Art. 35.º - 1. As associadas financiarão todas as despesas resultantes do estabelecimento e execução deste contrato.
+Art. 35.º - 1. As associadas financiarão todas as despesas resultantes do estabelecimento e execução deste contrato.
 
 2. Nenhuma despesa poderá ser feita pelos operadores por conta das associadas sem estar expressamente autorizada ou prevista em orçamento aprovado pela comissão directiva.
 
@@ -902,7 +922,7 @@ O investimento na execução dos trabalhos de prospecção e pesquisa não poder
 
 7. O Governo poderá também autorizar programas com investimentos inferiores desde que considere provada a inviabilidade técnica da realização dos investimentos mínimos obrigatòriamente fixados.
 
-###### Art. 36.º - 1. A participação de cada associada no investimento referido no n.º 3 do artigo anterior será determinada, para cada plano de trabalhos, proporcionalmente à sua percentagem resultante nas pesquisas, tal como vem definida no n.º 3 do artigo 2.º
+Art. 36.º - 1. A participação de cada associada no investimento referido no n.º 3 do artigo anterior será determinada, para cada plano de trabalhos, proporcionalmente à sua percentagem resultante nas pesquisas, tal como vem definida no n.º 3 do artigo 2.º
 
 2. No financiamento do primeiro plano de trabalhos de prospecção e pesquisa a executar pela associação no âmbito deste contrato, cada associada deverá participar na proporção da respectiva percentagem inicial.
 
@@ -914,7 +934,7 @@ b) A importância de 18000 contos a reverter para a Petrangol a partir de 1 de J
 
 4. A Petrangol e as outras associadas poderão negociar e acordar regras diferentes das acima estabelecidas, devendo, porém, nesse caso, o novo acordo ser aprovado pelo Governo.
 
-###### Art. 37.º - 1. Quando o orçamento de trabalhos de prospecção e pesquisa, ou a sua revisão, exceder, no ano de 1969, 85000 contos, no ano de 1970, 100000 contos, e no primeiro semestre de 1971, 50000 contos, qualquer associada terá o direito de reduzir até 25 por cento a participação que lhe couber na parte desse orçamento que exceda aqueles montantes.
+Art. 37.º - 1. Quando o orçamento de trabalhos de prospecção e pesquisa, ou a sua revisão, exceder, no ano de 1969, 85000 contos, no ano de 1970, 100000 contos, e no primeiro semestre de 1971, 50000 contos, qualquer associada terá o direito de reduzir até 25 por cento a participação que lhe couber na parte desse orçamento que exceda aqueles montantes.
 
 2. A associada que deseje utilizar a faculdade indicada no número anterior deve notificar a comissão directiva por carta registada, com aviso de recepção, nos oito dias seguintes à aprovação do respectivo orçamento.
 
@@ -922,13 +942,13 @@ b) A importância de 18000 contos a reverter para a Petrangol a partir de 1 de J
 
 4. A associada que aumentar ou diminuir a sua participação num determinado orçamento, nos termos dos números anteriores, terá o direito de retomar, no financiamento do orçamento para trabalhos de prospecção e pesquisa que seja seguidamente submetido à aprovação da comissão directiva, a participação proporcional à respectiva percentagem inicial.
 
-###### Art. 38.º - 1. Quando dos trabalhos de pesquisa numa estrutura resultar a descoberta de um poço produtivo proceder-se-á, de acordo com o estabelecido no artigo 32.º, aos trabalhos necessários para o desenvolvimento dessa estrutura.
+Art. 38.º - 1. Quando dos trabalhos de pesquisa numa estrutura resultar a descoberta de um poço produtivo proceder-se-á, de acordo com o estabelecido no artigo 32.º, aos trabalhos necessários para o desenvolvimento dessa estrutura.
 
 2. Qualquer associada poderá participar nos trabalhos de desenvolvimento de qualquer estrutura (com a exclusão das resultantes dos trabalhos suplementares considerados no capítulo VII) proporcionalmente à respectiva percentagem resultante na pesquisa calculada na data da apresentação à comissão directiva do plano dos trabalhos de desenvolvimento dessa estrutura e do respectivo orçamento.
 
 3. Para os efeitos do número anterior, no cálculo da percentagem resultante nas pesquisas não são consideradas as despesas com trabalhos suplementares a que se refere o capítulo VII.
 
-###### Art. 39.º - 1. Qualquer associada poderá reduzir a sua participação no financiamento dos trabalhos de desenvolvimento de cada estrutura até um valor correspondente a 50 por cento da respectiva percentagem resultante nas pesquisas.
+Art. 39.º - 1. Qualquer associada poderá reduzir a sua participação no financiamento dos trabalhos de desenvolvimento de cada estrutura até um valor correspondente a 50 por cento da respectiva percentagem resultante nas pesquisas.
 
 2. A associada que renunciar a participar no financiamento dos trabalhos de desenvolvimento de uma estrutura perderá todos os seus direitos em relação a essa estrutura, sem qualquer espécie de compensação, mas conservará inalterados os seus direitos relativamente à parte restante das áreas afectadas à associação.
 
@@ -936,13 +956,13 @@ b) A importância de 18000 contos a reverter para a Petrangol a partir de 1 de J
 
 As associadas deverão declarar, na data da aprovação de cada plano de trabalhos de desenvolvimento e do respectivo orçamento pela comissão directiva, como desejam participar no seu financiamento ou se a tal renunciam.
 
-###### Art. 40.º Sobre os assuntos tratados na comissão directiva, relativos ao desenvolvimento de uma estrutura, terão direito de voto, na proporção da respectiva percentagem resultante no desenvolvimento dessa estrutura, calculada à data da votação, as associadas que participaram no financiamento dos seus trabalhos de desenvolvimento, e apenas essas.
+Art. 40.º Sobre os assuntos tratados na comissão directiva, relativos ao desenvolvimento de uma estrutura, terão direito de voto, na proporção da respectiva percentagem resultante no desenvolvimento dessa estrutura, calculada à data da votação, as associadas que participaram no financiamento dos seus trabalhos de desenvolvimento, e apenas essas.
 
-###### Art. 41.º - 1. Desde que os trabalhos de desenvolvimento de uma estrutura revelem a existência de um jazigo econòmicamente explorável, proceder-se-á aos trabalhos necessários à sua exploração.
+Art. 41.º - 1. Desde que os trabalhos de desenvolvimento de uma estrutura revelem a existência de um jazigo econòmicamente explorável, proceder-se-á aos trabalhos necessários à sua exploração.
 
 2. Qualquer associada que tenha participado no financiamento do desenvolvimento de uma estrutura tem o direito de participar no financiamento dos trabalhos de exploração do respectivo jazigo, num montante proporcional à sua percentagem resultante no desenvolvimento.
 
-###### Art. 42.º - 1. Qualquer associada que tenha o direito de participar no financiamento dos trabalhos de exploração de um jazigo poderá reduzir a sua participação no orçamento respectivo até um valor correspondente a 50 por cento da respectiva percentagem resultante no desenvolvimento.
+Art. 42.º - 1. Qualquer associada que tenha o direito de participar no financiamento dos trabalhos de exploração de um jazigo poderá reduzir a sua participação no orçamento respectivo até um valor correspondente a 50 por cento da respectiva percentagem resultante no desenvolvimento.
 
 2. A associada que renuncie a participar no financiamento dos trabalhos de exploração de um jazigo perderá todos os seus direitos na exploração desse jazigo sem qualquer espécie de compensação, mas conservará intactos os seus direitos relativamente à parte restante das áreas afectadas à associação.
 
@@ -950,11 +970,11 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 4. As associadas deverão declarar, na data da aprovação do plano de trabalhos de exploração e do respectivo orçamento pela comissão directiva, como desejam participar no seu financiamento ou se a tal renunciam.
 
-###### Art. 43.º Sobre os assuntos tratados na comissão directiva, relativos à exploração de um jazigo, terão direito de voto, na proporção da respectiva percentagem resultante na exploração desse jazigo, calculada à data da votação, as associadas que participaram no financiamento dos seus trabalhos de exploração, e apenas essas.
+Art. 43.º Sobre os assuntos tratados na comissão directiva, relativos à exploração de um jazigo, terão direito de voto, na proporção da respectiva percentagem resultante na exploração desse jazigo, calculada à data da votação, as associadas que participaram no financiamento dos seus trabalhos de exploração, e apenas essas.
 
 ### CAPÍTULO VII — Dos trabalhos suplementares
 
-###### Art. 44.º - 1. Quando a comissão directiva resolver não aprovar determinados trabalhos cuja execução seja proposta por alguma das associadas ou decidir suspender ou paralisar trabalhos a executar ou em execução, qualquer associada tem direito de, à sua custa, fazer executar pelo operador esses trabalhos, desde que não resulte qualquer prejuízo para a continuação dos restantes trabalhos. Se os trabalhos propostos não estiverem incluídos em planos aprovados pelo Governo, deverá pedir-se a sua prévia aprovação.
+Art. 44.º - 1. Quando a comissão directiva resolver não aprovar determinados trabalhos cuja execução seja proposta por alguma das associadas ou decidir suspender ou paralisar trabalhos a executar ou em execução, qualquer associada tem direito de, à sua custa, fazer executar pelo operador esses trabalhos, desde que não resulte qualquer prejuízo para a continuação dos restantes trabalhos. Se os trabalhos propostos não estiverem incluídos em planos aprovados pelo Governo, deverá pedir-se a sua prévia aprovação.
 
 2. A associada que pretender utilizar a faculdade estabelecida no número anterior notificará a comissão directiva da sua decisão, indicando o plano de trabalhos e respectivo orçamento, os quais, no caso de não estarem incluídos em planos de trabalhos já aprovados, serão submetidos pela concessionária a aprovação do Governo, nos quinze dias seguintes.
 
@@ -962,7 +982,7 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 4. Os trabalhos suplementares deverão começar dentro de cento e vinte dias após a data da notificação referida no número anterior, salvo qualquer atraso justificável por dificuldades de aquisição de equipamento ou materiais.
 
-###### Art. 45.º - 1. Quando da realização dos trabalhos suplementares resultar a descoberta de um ou mais poços produtivos, a produção desse ou desses poços caberá exclusivamente às associadas que participaram no financiamento dos mesmos trabalhos suplementares, até ao limite em que um montante igual ao triplo das despesas efectuadas com esses trabalhos suplementares e o total das despesas de exploração até esse momento estejam cobertos pelo rendimento bruto desse ou desses poços.
+Art. 45.º - 1. Quando da realização dos trabalhos suplementares resultar a descoberta de um ou mais poços produtivos, a produção desse ou desses poços caberá exclusivamente às associadas que participaram no financiamento dos mesmos trabalhos suplementares, até ao limite em que um montante igual ao triplo das despesas efectuadas com esses trabalhos suplementares e o total das despesas de exploração até esse momento estejam cobertos pelo rendimento bruto desse ou desses poços.
 
 2. Incluir-se no cômputo das despesas a taxa de produção e o imposto de rendimento referente a esse ou esses poços.
 
@@ -970,15 +990,15 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 4. Cumprido o disposto no n.º 1 deste artigo, o poço ou poços serão explorados em benefício de todas as associadas, proporcionalmente aos encargos que para cada uma forem considerados na determinação da percentagem resultante referida no n.º 3 do artigo anterior, adicionados, para cada associada que financiou os trabalhos suplementares em causa, ao valor dos encargos que suportou referentes aos mesmos trabalhos suplementares.
 
-###### Art. 46.º - 1. Os trabalhos suplementares e a eventual exploração dos poços resultantes desses trabalhos até ao reembolso das somas referidas no n.º 1 do artigo anterior serão objecto de uma contabilidade própria.
+Art. 46.º - 1. Os trabalhos suplementares e a eventual exploração dos poços resultantes desses trabalhos até ao reembolso das somas referidas no n.º 1 do artigo anterior serão objecto de uma contabilidade própria.
 
 2. As associadas que não entrarem no financiamento dos trabalhos suplementares poderão examinar a contabilidade referida no número anterior.
 
-###### Art. 47.º Sobre os assuntos tratados na comissão directiva relativos a trabalhos suplementares, terão direito de voto as associadas que participarem no financiamento desses trabalhos, na proporção das respectivas participações, e apenas essas.
+Art. 47.º Sobre os assuntos tratados na comissão directiva relativos a trabalhos suplementares, terão direito de voto as associadas que participarem no financiamento desses trabalhos, na proporção das respectivas participações, e apenas essas.
 
 ### CAPÍTULO VIII — Da falta de pagamento
 
-###### Art. 48.º - 1. Quando por parte de qualquer associada se verificar a falta de cumprimento do estabelecido no n.º 2 do artigo 19.º, o operador avisará a comissão directiva, a qual, dentro do prazo máximo de oito dias, convidará a associada a efectuar o pagamento da quantia em dívida nos sessenta dias seguintes, se a falta não for justificada por motivo de força maior.
+Art. 48.º - 1. Quando por parte de qualquer associada se verificar a falta de cumprimento do estabelecido no n.º 2 do artigo 19.º, o operador avisará a comissão directiva, a qual, dentro do prazo máximo de oito dias, convidará a associada a efectuar o pagamento da quantia em dívida nos sessenta dias seguintes, se a falta não for justificada por motivo de força maior.
 
 2. Para continuar na posse de todos os seus direitos a associada em falta deverá, no prazo indicado no número anterior, proceder ao pagamento do montante em dívida, acrescido do juros correspondentes à taxa de desconto do Banco de Portugal aumentada de 6 por cento.
 
@@ -986,7 +1006,7 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 4. O disposto no número anterior não se aplicará aos jazigos que estiverem em exploração à data em que a falta se verificar enquanto a associada faltosa continuar a participar nas despesas de exploração desses jazigos, desde que se comprometa a reembolsar as associadas através da produção desses jazigos das importâncias que não tiver liquidado, acrescidas dos respectivos juros.
 
-###### Art. 49.º - 1. Em caso de força maior, a associada em falta deverá no mais curso prazo de tempo informar a comissão directiva.
+Art. 49.º - 1. Em caso de força maior, a associada em falta deverá no mais curso prazo de tempo informar a comissão directiva.
 
 2. O presidente convocará a comissão directiva para uma reunião de urgência, que deverá ter lugar nos dez dias seguintes à recepção da informação, para apreciar as medidas a tomar.
 
@@ -998,19 +1018,19 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 ### CAPÍTULO IX — Da partilha dos resultados da exploração
 
-###### Art. 50.º Cada associada tem direito à parte dos resultados da exploração de cada jazigo correspondente à respectiva percentagem resultante na exploração definida na alínea c) do n.º 3 do artigo 2.º, sem prejuízo do estabelecido no artigo 45.º
+Art. 50.º Cada associada tem direito à parte dos resultados da exploração de cada jazigo correspondente à respectiva percentagem resultante na exploração definida na alínea c) do n.º 3 do artigo 2.º, sem prejuízo do estabelecido no artigo 45.º
 
-###### Art. 51.º Cada associada pagará a taxa de produção fixada no respectivo contrato com o Estado, relativamente aos produtos da exploração que lhe couberem de harmonia com as regras deste contrato.
+Art. 51.º Cada associada pagará a taxa de produção fixada no respectivo contrato com o Estado, relativamente aos produtos da exploração que lhe couberem de harmonia com as regras deste contrato.
 
-###### Art. 52.º Para efeitos da liquidação do imposto de rendimento sobre os lucros de cada associada, respeitadas as regras estabelecidas nos respectivos contratos com o Estado, serão consideradas as despesas que cada uma das associadas suportar de harmonia com as disposições deste contrato, bem como a participação que a cada uma couber nos resultados da exploração.
+Art. 52.º Para efeitos da liquidação do imposto de rendimento sobre os lucros de cada associada, respeitadas as regras estabelecidas nos respectivos contratos com o Estado, serão consideradas as despesas que cada uma das associadas suportar de harmonia com as disposições deste contrato, bem como a participação que a cada uma couber nos resultados da exploração.
 
 ### CAPÍTULO X — Da comercialização dos produtos
 
-###### Art. 53.º - 1. Cada associado terá direito a dispor em espécie da parte que lhe competir na produção, sem prejuízo dos direitos do Estado.
+Art. 53.º - 1. Cada associado terá direito a dispor em espécie da parte que lhe competir na produção, sem prejuízo dos direitos do Estado.
 
 2. O disposto no número anterior entende-se sem prejuízo das obrigações especiais sobre comercialização dos produtos que cabem a cada associada, ou aos seus accionistas, nos termos dos contratos ou convenções celebrados com o Estado.
 
-###### Art. 54.º - 1. Se a produção pertencente à Petrangol for insuficiente para satisfazer o abastecimento da sua refinaria de Luanda, a produção das restantes associadas será afectada prioritàriamente ao abastecimento dessa refinaria, se necessário.
+Art. 54.º - 1. Se a produção pertencente à Petrangol for insuficiente para satisfazer o abastecimento da sua refinaria de Luanda, a produção das restantes associadas será afectada prioritàriamente ao abastecimento dessa refinaria, se necessário.
 
 2. No caso de utilização, para os efeitos do número anterior, de ramas pertencentes à Texaco, a Angol adquiri-las-á à Texaco, nos termos que entre ambas fiquem acordados, sem prejuízo do estabelecido em matéria de tratamento fiscal de cessão de produtos, e vendê-las-á à Petrangol.
 
@@ -1018,7 +1038,7 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 ### CAPÍTULO XI — Da propriedade dos bens
 
-###### Art. 55.º - 1. Os bens adquiridos pelos operadores por conta das associadas para execução dos planos de trabalhos de prospecção, pesquisa, desenvolvimento e exploração serão co-propriedade destas na proporção em que cada uma comparticipou na sua aquisição e constarão de inventário próprio. A deliberação da comissão directiva requerida para a cessão de tais bens carece de aprovação do presidente da mesma.
+Art. 55.º - 1. Os bens adquiridos pelos operadores por conta das associadas para execução dos planos de trabalhos de prospecção, pesquisa, desenvolvimento e exploração serão co-propriedade destas na proporção em que cada uma comparticipou na sua aquisição e constarão de inventário próprio. A deliberação da comissão directiva requerida para a cessão de tais bens carece de aprovação do presidente da mesma.
 
 2. No caso de alienação de bens prevista no n.º 6.º da alínea a) do n.º 4 do artigo 9.º ou resultante de dissolução autorizada da associação antes do termo previsto no artigo 1.º, o produto dessa cessão pertencerá às associadas nas proporções em que comparticiparam na aquisição desses bens.
 
@@ -1026,7 +1046,7 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 ### CAPÍTULO XII — Da arbitragem
 
-###### Art. 56.º - 1. As divergências que venham a surgir entre o Governo e as associadas sobre a interpretação, validade ou execução das disposições deste contrato serão resolvidas, sem recurso, por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
+Art. 56.º - 1. As divergências que venham a surgir entre o Governo e as associadas sobre a interpretação, validade ou execução das disposições deste contrato serão resolvidas, sem recurso, por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
 
 2. O juízo arbitral, que funcionará em Lisboa, será constituído por um árbitro nomeado pelo Ministro do Ultramar, outro nomeado pela associada ou associadas em causa e o terceiro, com voto de desempate, escolhido por acordo ou, na sua falta, designado pelo presidente do Supremo Tribunal de Justiça.
 
@@ -1036,7 +1056,7 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 5. A arbitragem terá sempre efeito suspensivo, salvo no que se refere a quaisquer pagamentos legal e ou contratualmente devidos à província de Angola.
 
-###### Art. 57.º - 1. As divergências que vierem a surgir entre as associadas sobre a interpretação, validade e execução deste contrato, e que não possam ser resolvidas no seio da comissão directiva, serão dirimidas, sem recurso, por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
+Art. 57.º - 1. As divergências que vierem a surgir entre as associadas sobre a interpretação, validade e execução deste contrato, e que não possam ser resolvidas no seio da comissão directiva, serão dirimidas, sem recurso, por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
 
 2. O juízo arbitral, que funcionará em Lisboa, será constituído por um árbitro nomeado por cada uma das associadas em causa e um outro, com voto de desempate, escolhido por comum acordo ou, na sua falta, designado pelo presidente do Supremo Tribunal de Justiça.
 
@@ -1046,13 +1066,13 @@ As associadas deverão declarar, na data da aprovação de cada plano de trabalh
 
 ### CAPÍTULO XIII — Disposições especiais
 
-###### Art. 58.º - 1. Fica reconhecido à Texaco o direito de, se assim o entender e desde que o notifique, por escrito, às outras associadas e ao presidente da comissão directiva até sessenta dias antes de 30 de Junho de 1970, dar por finda a sua participação na associação no fim do 1.º semestre de 1970, renunciando a todos os seus direitos e bens na associação.
+Art. 58.º - 1. Fica reconhecido à Texaco o direito de, se assim o entender e desde que o notifique, por escrito, às outras associadas e ao presidente da comissão directiva até sessenta dias antes de 30 de Junho de 1970, dar por finda a sua participação na associação no fim do 1.º semestre de 1970, renunciando a todos os seus direitos e bens na associação.
 
 2. No caso previsto no número anterior, a Angol substituirá a Texaco nos seus direitos e obrigações a partir de 1 de Julho de 1970, salvo no que se refere as funções de operador, que serão confiadas à entidade que a comissão directiva designar. A Texaco, no caso de as outras associadas assim o decidirem, manterá as suas funções de operador, por conta das outras associadas, até 31 de Outubro de 1970.
 
-###### Art. 59.º Nenhuma associada ou operador será responsável ou prejudicado por mora ou incumprimento das suas obrigações quando aquela ou este resultem de força maior. Para efeitos deste artigo, o termo «força maior» compreende forças de natureza, fogo, acidentes inevitáveis, actos de guerra ou condições provenientes de ou atribuíveis a guerra (declarada ou não), greves, lockouts e outras perturbações de trabalho, atrasos em transportes, inundações, temporais e outras convulsões naturais, insurreições, tumultos e outras perturbações da ordem e outros factos fora da vontade da associada ou operador em causa, similares ou não aos aqui especificados, mas a mora ou o incumprimento determinados por dificuldades financeiras de qualquer associada, seja qual for a respectiva causa, não deve ser considerada como resultante de força maior.
+Art. 59.º Nenhuma associada ou operador será responsável ou prejudicado por mora ou incumprimento das suas obrigações quando aquela ou este resultem de força maior. Para efeitos deste artigo, o termo «força maior» compreende forças de natureza, fogo, acidentes inevitáveis, actos de guerra ou condições provenientes de ou atribuíveis a guerra (declarada ou não), greves, lockouts e outras perturbações de trabalho, atrasos em transportes, inundações, temporais e outras convulsões naturais, insurreições, tumultos e outras perturbações da ordem e outros factos fora da vontade da associada ou operador em causa, similares ou não aos aqui especificados, mas a mora ou o incumprimento determinados por dificuldades financeiras de qualquer associada, seja qual for a respectiva causa, não deve ser considerada como resultante de força maior.
 
-###### Art. 60.º - 1. O presente contrato de associação Petrangol-Angol-Texaco entrará em vigor à data da sua assinatura e constituirá um aditamento ao contrato de associação Petrangol-Angol celebrado em 26 de Maio de 1966, cujas disposições, interpretações e acordo se mantêm válidos até àquela data, salvo o acordo em contrário entre a Petrangol e a Angol.
+Art. 60.º - 1. O presente contrato de associação Petrangol-Angol-Texaco entrará em vigor à data da sua assinatura e constituirá um aditamento ao contrato de associação Petrangol-Angol celebrado em 26 de Maio de 1966, cujas disposições, interpretações e acordo se mantêm válidos até àquela data, salvo o acordo em contrário entre a Petrangol e a Angol.
 
 2. A entrada em vigor do presente aditamento ao contrato de 26 de Maio de 1966 não prejudica quaisquer despesas ou trabalhos efectuados e em curso ou os compromissos assumidos até essa data perante o Governo, as associadas ou terceiros, pela associação Petrangol-Angol, devendo todas as actividades da associação prosseguir segundo a mesma orientação até à primeira reunião da comissão directiva, nos termos do presente contrato.
 

@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49038-1969-201176
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 78ed50d4dbbb25af385143fe05ef4ec902de62e1396b7a5f88112bf89d1a53fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 611e6835a49a9fffd478a79401232eb2756427a034be18753908ce9d05e31999
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:256457:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:36Z'
   warnings: []
   errors: []
 ---
@@ -96,19 +100,19 @@ Tendo em vista o disposto no § 2.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Se o primeiro concurso aberto, depois da publicação deste diploma, para provimento dos lugares de ingresso nos quadros privativos dos serviços de administração civil ficar deserto, ou se os candidatos aprovados forem em número inferior ao das vagas, poderão os respectivos governadores-gerais ou de província, sem prejuízo do disposto no § 2.º do artigo 11.º do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968, e sempre que as circunstâncias e o interesse público o imponham, nomear para os referidos lugares, sem dependência de concurso, funcionários dos quadros de secretaria dos mesmos serviços ou quaisquer outros funcionários, desde que o requeiram, possuam o 1.º ciclo liceal ou habilitação equiparada e mostrem satisfazer ao disposto nas alíneas c) e d) do corpo daquele mesmo artigo.
+Artigo 1.º Se o primeiro concurso aberto, depois da publicação deste diploma, para provimento dos lugares de ingresso nos quadros privativos dos serviços de administração civil ficar deserto, ou se os candidatos aprovados forem em número inferior ao das vagas, poderão os respectivos governadores-gerais ou de província, sem prejuízo do disposto no § 2.º do artigo 11.º do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968, e sempre que as circunstâncias e o interesse público o imponham, nomear para os referidos lugares, sem dependência de concurso, funcionários dos quadros de secretaria dos mesmos serviços ou quaisquer outros funcionários, desde que o requeiram, possuam o 1.º ciclo liceal ou habilitação equiparada e mostrem satisfazer ao disposto nas alíneas c) e d) do corpo daquele mesmo artigo.
 
 § único. Observadas as condições previstas neste artigo, podem ainda os governadores-gerais ou de província nomear para os mesmos lugares indivíduos com o 1.º ciclo liceal ou habilitação equiparada, que satisfaçam aos demais requisitos exigidos pela lei e tenham exercido na província actividade no sector público ou privado pelo menos durante três anos.
 
-###### Art. 2.º Enquanto se verificar a situação considerada no artigo anterior, os governadores-gerais ou de província poderão nomear, em regime de interinidade, para os lugares de ingresso no quadro administrativo privativo indivíduos que possuam pelo menos o 1.º ciclo liceal ou habilitação equiparada, reúnam as demais condições exigidas pela lei, excepto a idade, e tenham exercido na província actividades no sector público ou privado pelo menos durante três anos.
+Art. 2.º Enquanto se verificar a situação considerada no artigo anterior, os governadores-gerais ou de província poderão nomear, em regime de interinidade, para os lugares de ingresso no quadro administrativo privativo indivíduos que possuam pelo menos o 1.º ciclo liceal ou habilitação equiparada, reúnam as demais condições exigidas pela lei, excepto a idade, e tenham exercido na província actividades no sector público ou privado pelo menos durante três anos.
 
-###### Art. 3.º Sob proposta fundamentada dos governadores-gerais ou de província, pode o Ministro do Ultramar autorizar, por simples despacho, a aplicação do disposto no artigo 1.º e seu parágrafo aos três concursos que se realizarem a seguir aos previstos nessa mesma disposição.
+Art. 3.º Sob proposta fundamentada dos governadores-gerais ou de província, pode o Ministro do Ultramar autorizar, por simples despacho, a aplicação do disposto no artigo 1.º e seu parágrafo aos três concursos que se realizarem a seguir aos previstos nessa mesma disposição.
 
-###### Art. 4.º Aplica-se aos furriéis milicianos o disposto para os sargentos milicianos ou dos quadros permanentes no n.º 4.º do § 2.º do artigo 11.º e no § único do artigo 12.º do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
+Art. 4.º Aplica-se aos furriéis milicianos o disposto para os sargentos milicianos ou dos quadros permanentes no n.º 4.º do § 2.º do artigo 11.º e no § único do artigo 12.º do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Maio de 1969.**
+Promulgado em 21 de Maio de 1969.
 
 Presidência da República, 31 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

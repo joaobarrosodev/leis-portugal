@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48539-1968-276059
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f334682737ad0b4bcb37139b282884825609cac7baccdb7cf30a8c9a826bc7a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 719974297ceb2c376eb714fbec9bbc4c06daa0eb883142c6f6b4720b78aee63d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:581003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:32Z'
   warnings: []
   errors: []
 ---
@@ -86,11 +90,11 @@ Tendo a prática demonstrado a conveniência de se proceder à actualização da
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Fundo de Instrução do Exército (F. I. E.) é constituído por receitas próprias, que se destinam à satisfação de encargos de carácter educativo e recreativo de reconhecido interesse para a instrução militar.
+Artigo 1.º O Fundo de Instrução do Exército (F. I. E.) é constituído por receitas próprias, que se destinam à satisfação de encargos de carácter educativo e recreativo de reconhecido interesse para a instrução militar.
 
 § único. Compete ao Ministro do Exército, sob proposta do Estado-Maior do Exército, a distribuição dos rendimentos do Fundo pelas várias unidades e estabelecimentos militares que não disponham de outros meios financeiros nem dotações orçamentais suficientes para satisfação das despesas referidas neste artigo.
 
-###### Art. 2.º Constituem receitas do Fundo de Instrução do Exército as importâncias de alimentação (rancho e pão) dos cabos e soldados, incluindo recrutas e instruendos dos cursos de oficiais milicianos e dos cursos de sargentos milicianos, relativas aos dias em que:
+Art. 2.º Constituem receitas do Fundo de Instrução do Exército as importâncias de alimentação (rancho e pão) dos cabos e soldados, incluindo recrutas e instruendos dos cursos de oficiais milicianos e dos cursos de sargentos milicianos, relativas aos dias em que:
 
 1.º Permanecerem na situação de doentes no seu domicílio, quer a doença seja ou não justificada pelo médico;
 
@@ -100,7 +104,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § único. Os comandos das unidades e estabelecimentos militares poderão conceder a licença a que se refere o n.º 3.º deste artigo, num total até vinte dias por trimestre às praças do quadro permanente e pelo número de dias que for superiormente fixado quanto aos recrutas e aos instruendos dos cursos de oficiais e de sargentos milicianos.
 
-###### Art. 3.º Com o produto das receitas do Fundo de Instrução do Exército podem ser satisfeitas as seguintes despesas:
+Art. 3.º Com o produto das receitas do Fundo de Instrução do Exército podem ser satisfeitas as seguintes despesas:
 
 a) Aquisição e encadernação de livros e publicações de cultura geral ou de carácter técnico destinadas às escolas regimentais e bibliotecas;
 
@@ -120,15 +124,15 @@ h) Os encargos de um modo geral relacionados com o desenvolvimento da instruçã
 
 § único. Na realização destas despesas serão observados, na parte aplicável, os preceitos gerais de contabilidade pública e as disposições que especialmente vigorem em relação ao Ministério do Exército.
 
-###### Art. 4.º No Orçamento Geral do Estado será anualmente inscrita em receita e despesa uma verba global, subordinada à rubrica «Fundo de Instrução do Exército», sujeita a duplo cabimento na dotação orçamental e nas receitas efectivamente entregues nos cofres do Estado.
+Art. 4.º No Orçamento Geral do Estado será anualmente inscrita em receita e despesa uma verba global, subordinada à rubrica «Fundo de Instrução do Exército», sujeita a duplo cabimento na dotação orçamental e nas receitas efectivamente entregues nos cofres do Estado.
 
 § único. Os saldos apurados no fim de cada ano económico entre as receitas escrituradas nas contas públicas e nos fundos levantados serão transferidos para a gerência do ano seguinte, a fim de serem utilizados pelo Fundo de Instrução do Exército.
 
-###### Art. 5.º As importâncias deduzidas nos termos do artigo 2.º do presente diploma serão entregues nos cofres do Tesouro até ao dia 10 do mês seguinte àquele em que forem arrecadadas, mediante guias de receita processadas em quadruplicado pelos respectivos conselhos administrativos das unidades e estabelecimentos militares.
+Art. 5.º As importâncias deduzidas nos termos do artigo 2.º do presente diploma serão entregues nos cofres do Tesouro até ao dia 10 do mês seguinte àquele em que forem arrecadadas, mediante guias de receita processadas em quadruplicado pelos respectivos conselhos administrativos das unidades e estabelecimentos militares.
 
 § único. Dos dois exemplares das guias averbados de pagamento, devolvidos ao conselho administrativo que efectua a entrega, será enviado um à 5.ª Repartição da Direcção-Geral da Contabilidade Pública até ao fim do mês em que se verifique o pagamento, destinando-se o outro ao referido conselho administrativo após ter promovido o seu averbamento na Repartição de Verificação de Contas do Ministério do Exército.
 
-###### Art. 6.º As unidades e estabelecimentos militares onde existem artigos ou materiais classificados de instrução possuirão folhas de carga organizadas de conformidade com as disposições que vigorem para o Ministério do Exército.
+Art. 6.º As unidades e estabelecimentos militares onde existem artigos ou materiais classificados de instrução possuirão folhas de carga organizadas de conformidade com as disposições que vigorem para o Ministério do Exército.
 
 § 1.º Os referidos artigos ou materiais constarão de mapas a enviar anualmente à Direcção-Geral da Fazenda Pública, nos termos dos preceitos legais e instruções emanados do Ministério das Finanças.
 
@@ -148,8 +152,8 @@ e) Custo da substituição;
 
 f) Entidade responsável pelo extravio, testemunhalmente comprovada sempre que possível.
 
-###### Art. 7.º Fica revogado o [Decreto n.º 25722](https://diariodarepublica.pt/dr/detalhe/decreto/25722-1935-581003), de 6 de Agosto de 1935.
+Art. 7.º Fica revogado o [Decreto n.º 25722](https://diariodarepublica.pt/dr/detalhe/decreto/25722-1935-581003), de 6 de Agosto de 1935.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha.

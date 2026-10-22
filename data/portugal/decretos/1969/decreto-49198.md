@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49198-1969-198538
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 81caa3208602e54698b26b646c8f9ffad19e13636e8ff986e2414ebf02d5cd95
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 04bcbdc2e3dfb978be3f6cd7fee4a929dec606c6b4ff729d34556e18635f6873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:51Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +92,7 @@ Considerando o disposto no § 1.º do artigo 150.º da Constituição, por motiv
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No quadro privativo da Guarda Fiscal de Moçambique são criados os seguintes lugares, com as categorias correspondentes às letras que vão indicadas, no artigo 90.º do Estatuto do Funcionalismo Ultramarino:
+Artigo 1.º No quadro privativo da Guarda Fiscal de Moçambique são criados os seguintes lugares, com as categorias correspondentes às letras que vão indicadas, no artigo 90.º do Estatuto do Funcionalismo Ultramarino:
 
 1) Pessoal contratado:
 
@@ -100,17 +100,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 20 guardas auxiliares de 2.ª classe, condutores de automóveis - letra Z.
 
-###### Art. 2.º No quadro referido no artigo anterior serão eliminados, conforme forem vagando, 100 lugares de guarda auxiliar de 2.ª classe, assalariado.
+Art. 2.º No quadro referido no artigo anterior serão eliminados, conforme forem vagando, 100 lugares de guarda auxiliar de 2.ª classe, assalariado.
 
-###### Art. 3.º O provimento dos lugares de guardas auxiliares de 1.ª e 2.ª classes, condutores de automóveis, será feito quando houver disponibilidades na verba própria provenientes da eliminação dos lugares referidos no artigo anterior e à medida que forem sendo extintos.
+Art. 3.º O provimento dos lugares de guardas auxiliares de 1.ª e 2.ª classes, condutores de automóveis, será feito quando houver disponibilidades na verba própria provenientes da eliminação dos lugares referidos no artigo anterior e à medida que forem sendo extintos.
 
-###### Art. 4.º O governador-geral de Moçambique regulamentará em portaria o processo de escolha e selecção a seguir no provimento dos lugares criados pelo artigo 1.º deste decreto.
+Art. 4.º O governador-geral de Moçambique regulamentará em portaria o processo de escolha e selecção a seguir no provimento dos lugares criados pelo artigo 1.º deste decreto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Agosto de 1969.**
+Promulgado em 5 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

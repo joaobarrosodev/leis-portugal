@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48913-1969-524841
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1d488d3ff677196a056c9b96285d6e7cbabb9e64b469d002608871b93721b2b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f0fe4cb5dbdbbacf220f4cdba70a58e443c9b006d713c57170b00ea21b900887
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:524840:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:37Z'
   warnings: []
   errors: []
 ---
@@ -86,13 +90,13 @@ Tendo em vista o disposto no [Decreto-Lei n.º 48912](https://diariodarepublica.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As entidades que, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data, pretendam concorrer à concessão da exploração de jogos de fortuna ou azar nas zonas de jogo temporário de Espinho e da Póvoa de Varzim deverão dirigir os seus requerimentos, em carta fechada, registada e lacrada, ao Ministro do Interior, dentro do prazo de trinta dias, a contar da data da publicação do anúncio da abertura do respectivo concurso no Diário do Governo.
+Artigo 1.º As entidades que, nos termos dos artigos 7.º e 8.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data, pretendam concorrer à concessão da exploração de jogos de fortuna ou azar nas zonas de jogo temporário de Espinho e da Póvoa de Varzim deverão dirigir os seus requerimentos, em carta fechada, registada e lacrada, ao Ministro do Interior, dentro do prazo de trinta dias, a contar da data da publicação do anúncio da abertura do respectivo concurso no Diário do Governo.
 
 § 1.º As concessões, que se iniciarão com a assinatura dos contratos, terminam em 31 de Dezembro de 1973.
 
 § 2.º As empresas com acções atribuídas ao Estado, nos termos do Decreto com força de lei n.º 14643, de 3 de Dezembro de 1927, podem concorrer desde que apresentem compromisso, caucionado, de aquisição dessas acções, nos termos da alínea b) do artigo 64.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), por importância não inferior à correspondente quota-parte resultante da avaliação actual dos bens imóveis propriedade das empresas em 31 de Dezembro de 1957.
 
-###### Art. 2.º As realizações e obrigações mínimas que as concessionárias das zonas de jogo de Espinho e da Póvoa de Varzim têm de levar a efeito e de cumprir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
+Art. 2.º As realizações e obrigações mínimas que as concessionárias das zonas de jogo de Espinho e da Póvoa de Varzim têm de levar a efeito e de cumprir, além das estabelecidas na legislação aplicável à generalidade das zonas de jogo, são as seguintes:
 
 a) Execução do plano de obras e de reequipamento dos actuais casinos segundo o programa estabelecido pelo Conselho de Inspecção de Jogos, relativamente ao qual os concorrentes indicarão o valor mínimo que obrigatòriamente se propõem investir, e que será concluído integralmente até 31 de Maio de 1971, conforme projecto e plano pormenorizado a apresentar até 31 de Dezembro de 1969;
 
@@ -110,7 +114,7 @@ b) O mobiliário, equipamento e utensilagem que no decurso das concessões seja 
 
 § 4.º São admitidas propostas com alterações dos prazos fixados no presente artigo.
 
-###### Art. 3.º Os requerimentos a que se refere o artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
+Art. 3.º Os requerimentos a que se refere o artigo 1.º só poderão ser considerados se forem acompanhados dos seguintes elementos:
 
 1) Documento comprovativo da constituição da sociedade, obedecendo aos requisitos fixados no [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data, e no presente diploma, ou declaração de que os requerentes se obrigam a constituí-la, nos mesmos termos, dentro do prazo de sessenta dias a seguir à adjudicação, ou a caucionar as obrigações assumidas nos termos dos §§ 1.º e 2.º do artigo 8.º do mencionado decreto-lei, devendo, quando se trate de concorrentes que não sejam sociedades constituídas nos termos acima mencionados, juntar-se documento comprovativo de haverem depositado na Caixa Geral de Depósitos, Crédito e Previdência a quantia de 500000$00, através de guia emitida pelo Conselho de Inspecção de Jogos e à ordem do presidente do mesmo Conselho, depósito este que será perdido em benefício do Estado se, feita a adjudicação, deixarem de dar cumprimento ao compromisso assumido no aludido prazo. Este depósito poderá ser substituído por garantia bancária prestada nas mesmas condições;
 
@@ -140,19 +144,19 @@ Tratando-se de obras, melhoramentos e beneficiações semelhantes, juntar-se-ão
 
 11) Declaração de compromisso da importância global que oferecem, nos termos do § 2.º do artigo 1.º, contendo a avaliação discriminada dos bens a que alude o artigo 64.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data, para os concorrentes abrangidos pelos referidos preceitos, acompanhada de documento comprovativo de haverem depositado na Caixa Geral de Depósitos, Crédito e Previdência quantia igual, através de guia emitida pelo Conselho de Inspecção de Jogos. A importância depositada fica à ordem do presidente do mesmo Conselho e será perdida em benefício do Estado se, feita a adjudicação, o contrato não vier a ser assinado por culpa do concorrente escolhido. O depósito poderá ser substituído por garantia bancária prestada nas mesmas condições.
 
-###### Art. 4.º No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Conselho de Inspecção de Jogos, devendo o mesmo Conselho dar parecer sobre elas, a fim de que o Governo, em Conselho de Ministros, decida sobre a adjudicação.
+Art. 4.º No terceiro dia útil posterior ao do encerramento do concurso proceder-se-á à abertura das propostas no Conselho de Inspecção de Jogos, devendo o mesmo Conselho dar parecer sobre elas, a fim de que o Governo, em Conselho de Ministros, decida sobre a adjudicação.
 
 § único. O Governo reserva-se o direito de não aceitar nenhuma das propostas apresentadas, se assim o considerar conveniente para os interesses do Estado.
 
-###### Art. 5.º Quando para qualquer zona não haja concorrente ou, havendo-o, não lhe seja feita a adjudicação, o Governo poderá extingui-la ou abrir novo concurso na oportunidade que escolher e com o condicionamento que então se justificar.
+Art. 5.º Quando para qualquer zona não haja concorrente ou, havendo-o, não lhe seja feita a adjudicação, o Governo poderá extingui-la ou abrir novo concurso na oportunidade que escolher e com o condicionamento que então se justificar.
 
-###### Art. 6.º A restituição a que haja lugar das importâncias depositadas nos termos dos n.os 1) e 11) do artigo 3.º, ou o correspondente cancelamento das cauções ali referidas efectuar-se-á:
+Art. 6.º A restituição a que haja lugar das importâncias depositadas nos termos dos n.os 1) e 11) do artigo 3.º, ou o correspondente cancelamento das cauções ali referidas efectuar-se-á:
 
 a) No prazo de dez dias após a celebração do contrato, relativamente ao concorrente a que for adjudicada a zona;
 
 b) No prazo de dez dias após a notificação relativa à adjudicação da zona, quanto aos demais concorrentes.
 
-###### Art. 7.º O exclusivo da exploração de jogos de fortuna ou azar na zona da Figueira da Foz poderá ser concedido, até 31 de Dezembro de 1988, sem dependência de concurso público, nos termos do § 2.º do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data, à Sociedade Figueira-Praia, S. A. R. L., desde que esta, além da sujeição às demais disposições do mesmo diploma e legislação complementar aplicáveis à generalidade das zonas de jogo, assuma as seguintes obrigações mínimas:
+Art. 7.º O exclusivo da exploração de jogos de fortuna ou azar na zona da Figueira da Foz poderá ser concedido, até 31 de Dezembro de 1988, sem dependência de concurso público, nos termos do § 2.º do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data, à Sociedade Figueira-Praia, S. A. R. L., desde que esta, além da sujeição às demais disposições do mesmo diploma e legislação complementar aplicáveis à generalidade das zonas de jogo, assuma as seguintes obrigações mínimas:
 
 1) A apresentar até 31 de Dezembro de 1969 o anteprojecto das obras e plano de equipamento do casino, integrado do cinema, elaborado para dar satisfação ao programa estabelecido pelo Conselho de Inspecção de Jogos, implicando o investimento mínimo de 6500 contos, e, no prazo de dez meses sobre a data da aprovação do anteprojecto, o projecto definitivo;
 
@@ -194,12 +198,12 @@ c) De oito anos para os restantes melhoramentos.
 
 § 7.º Para os efeitos previstos neste artigo, a Sociedade Figueira-Praia, S. A. R. L., apresentará no Conselho de Inspecção de Jogos, no prazo de trinta dias, contados da data da publicação deste diploma, declaração de compromisso de aceitação do condicionamento fixado para a exploração da zona, após o que o Conselho de Ministros se pronunciará, nos termos do § 1.º do artigo 7.º do [Decreto-Lei n.º 48912](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48912-1969-524840), desta data.
 
-###### Art. 8.º O presente diploma entra imediatamente em vigor.
+Art. 8.º O presente diploma entra imediatamente em vigor.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 5 de Março de 1969.**
+Promulgado em 5 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

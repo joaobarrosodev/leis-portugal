@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48904-1969-525230
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 33724303f66ef9027dbfe53fc0122b064acbfb854dfcccaa88b54be853e9bfa9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 33721a3379e9b434d67ab9f168affaf682f9660d28a420147b6793372be3aa7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:160882:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469429:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:32Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +111,7 @@ Disposições especiais
 
 A) Guiné
 
-###### Artigo 1.º O quadro de pessoal dos Serviços de Fazenda e Contabilidade é aumentado de um lugar de director de 3.ª classe.
+Artigo 1.º O quadro de pessoal dos Serviços de Fazenda e Contabilidade é aumentado de um lugar de director de 3.ª classe.
 
 § 1.º O provimento do lugar criado pelo corpo deste artigo será feito em comissão ordinária de serviço, por livre escolha do Ministro do Ultramar, de entre os directores de 3.ª classe do quadro comum de Fazenda do ultramar.
 
@@ -105,11 +121,11 @@ A) Guiné
 
 B) S. Tomé e Príncipe
 
-###### Art. 2.º Transita para o lugar de chefe do Serviço de Estatística de S. Tomé e Príncipe, constante do mapa I anexo ao [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966, independentemente de quaisquer formalidades, incluindo visto e posse, o actual chefe da Secção de Estatística da mesma província.
+Art. 2.º Transita para o lugar de chefe do Serviço de Estatística de S. Tomé e Príncipe, constante do mapa I anexo ao [Decreto n.º 47168](https://diariodarepublica.pt/dr/detalhe/decreto/47168-1966-469429), de 26 de Agosto de 1966, independentemente de quaisquer formalidades, incluindo visto e posse, o actual chefe da Secção de Estatística da mesma província.
 
 C) Angola
 
-###### Art. 3.º Aos membros do conselho administrativo do Conselho Provincial de Educação Física, constituído nos termos do artigo 23.º do Diploma Legislativo n.º 3208, de 17 de Janeiro de 1962, são atribuídas senhas de presença às sessões, do quantitativo individual de 250$00, não podendo, seja qual for o número de sessões, o abono mensal individual exceder a importância de 1500$00.
+Art. 3.º Aos membros do conselho administrativo do Conselho Provincial de Educação Física, constituído nos termos do artigo 23.º do Diploma Legislativo n.º 3208, de 17 de Janeiro de 1962, são atribuídas senhas de presença às sessões, do quantitativo individual de 250$00, não podendo, seja qual for o número de sessões, o abono mensal individual exceder a importância de 1500$00.
 
 § 1.º O vogal representante dos Serviços de Fazenda e Contabilidade perceberá a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
@@ -117,11 +133,11 @@ C) Angola
 
 § 3.º O abono das senhas de presença e das gratificações é devido desde 1 de Janeiro de 1969.
 
-###### Art. 4.º Os encargos resultantes da execução do disposto no artigo anterior serão suportados pelo orçamento privativo do Conselho Provincial de Educação Física.
+Art. 4.º Os encargos resultantes da execução do disposto no artigo anterior serão suportados pelo orçamento privativo do Conselho Provincial de Educação Física.
 
 D) Moçambique
 
-###### Art. 5.º O conselho administrativo da Direcção Provincial dos Serviços de Marinha passa a ter a seguinte constituição:
+Art. 5.º O conselho administrativo da Direcção Provincial dos Serviços de Marinha passa a ter a seguinte constituição:
 
 Presidente: o subdirector dos Serviços de Marinha;
 
@@ -133,7 +149,7 @@ Secretário-tesoureiro: o adjunto do chefe da Secção de Administração e Cont
 
 § único. Fica revogado o disposto no § 5.º do artigo 8.º do [Decreto n.º 12694](https://diariodarepublica.pt/dr/detalhe/decreto/12694-1926-160882), de 19 de Novembro de 1926, na parte aplicável à província.
 
-###### Art. 6.º Os catalogadores do Arquivo Histórico de Moçambique com o tempo de serviço efectivo abaixo indicado, sempre com boas informações, terão direito aos vencimentos correspondentes às seguintes letras do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 6.º Os catalogadores do Arquivo Histórico de Moçambique com o tempo de serviço efectivo abaixo indicado, sempre com boas informações, terão direito aos vencimentos correspondentes às seguintes letras do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Com mais de dez anos na categoria ... N
 
@@ -143,15 +159,15 @@ II
 
 Disposições comuns
 
-###### Art. 7.º Os cargos de anestesista, nutricionista e tisiologista constantes dos quadros complementares de cirurgiões, especialistas e internistas e de outros técnicos especializados dos serviços de saúde e assistência das províncias ultramarinas passam a designar-se, respectivamente, anestesiologista, endocrinologista-nutricionista e pneumotisiologista.
+Art. 7.º Os cargos de anestesista, nutricionista e tisiologista constantes dos quadros complementares de cirurgiões, especialistas e internistas e de outros técnicos especializados dos serviços de saúde e assistência das províncias ultramarinas passam a designar-se, respectivamente, anestesiologista, endocrinologista-nutricionista e pneumotisiologista.
 
 § único. Os médicos providos nos lugares referidos no corpo do artigo transitam para as novas designações funcionais independentemente de quaisquer formalidades, incluindo visto e posse.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Fevereiro de 1969.**
+Promulgado em 24 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

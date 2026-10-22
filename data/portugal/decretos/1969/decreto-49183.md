@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49183-1969-198762
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 327fc8f0004ada791dc53ade404bee0bab05b9ca4e5a9a656dea06cbd63f13ad
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b0d33c7488490cdb24bcc15a3d904d6492e711496d160a59fa65784a8f9832e7
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:272442:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:48Z'
   warnings: []
   errors: []
 ---
@@ -85,21 +89,21 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 8.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, o seguinte parágrafo:
+Artigo 1.º É aditado ao artigo 8.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, o seguinte parágrafo:
 
-###### Art. 8.º ...
+Art. 8.º ...
 
 ...
 
 § 5.º O Ministério Público, por sua iniciativa ou a requerimento de empresas produtoras de tabaco na mesma província, proporá as acções de declaração de invalidade das alienações efectuadas contra o disposto no § 2.º deste artigo; as empresas referidas poderão intervir como assistentes nessas acções, embora não tenham requerido ao Ministério Público a propositura delas.
 
-###### Art. 2.º Os processos pendentes à data deste diploma intentados por empresas referidas no § 5.º do artigo 8.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, continuarão os seus termos, mas o Ministério Público assumirá neles a posição de interventor principal.
+Art. 2.º Os processos pendentes à data deste diploma intentados por empresas referidas no § 5.º do artigo 8.º do [Decreto n.º 33532](https://diariodarepublica.pt/dr/detalhe/decreto/33532-1944-272442), de 21 de Fevereiro de 1944, continuarão os seus termos, mas o Ministério Público assumirá neles a posição de interventor principal.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Julho de 1969.**
+Promulgado em 30 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

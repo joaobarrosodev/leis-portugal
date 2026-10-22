@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/20300/11681170.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49216-1969-214875
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1985-03-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85db44a8698ef96f6695e45115cf1223ec04bc616b43bb029c7150c272d00149
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 899d8b80e7cb9855d62b3bea2c23ea2bcf6f8c93abd40b87ae1135ac45864bdb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Abono de Família
+- Trabalhador Rural
 relationships:
 - type: amended_by
   target: pt:dre:324937:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227267:por
+  label: "Alterados o nº 2 do art. 1º e os nºs. 1 e 2 do art. 4º pelo DEC.17/70.14.01.1970.MCPS, DG.IS [11] de 14.01.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/17-1970-227267
+  date: '1970-01-14'
+- type: cites
+  target: pt:dre:201053:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:314902:por
+  label: "Revogadas no referente a financiamentos e comparticipações pelo Fundo de Desemprego as disposições do nº 2 do art.\
+    \ 7º deste diploma pelo DEC LEI.461/75.25.08.1975.MAS, DG.IS [195] de 25.08.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/461-1975-314902
+  date: '1975-08-25'
+- type: repealed_by
+  target: pt:dre:451834:por
+  label: "Revogado pelo DEC LEI.251/83.11.06.1983.MAS, DR.IS [133] de 11.06.1983\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/251-1983-451834
+  date: '1983-06-11'
+- type: repealed_by
+  target: pt:dre:324937:por
+  label: "Revogado pelo DEC LEI.81/85.28.03.1985.MFP, DR.IS [73] de 28.03.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/81-1985-324937
+  date: '1985-03-28'
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:58Z'
   warnings: []
   errors: []
 ---
@@ -181,8 +209,8 @@ Por despacho do Ministro das Corporações e Previdência Social, serão aprovad
 
 Marcello Caetano - Rui Alves da Silva Sanches - José João Gonçalves de Proença.
 
-**Promulgado em 23 de Agosto de 1969.**
+Promulgado em 23 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

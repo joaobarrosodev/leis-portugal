@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48245-1968-235276
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7745071e2e512b125cc6dd6d33ddc7d067fe957ef48e489204982e05a4ac2384
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7c51fea33c05ba627101208586a7f15073d2b384c273a69238b1ff8d9166d8d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:20Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos de § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º São autorizados os órgãos legislativos da província de Moçambique a expedir diplomas reguladores da criação e regulamentação de juízos privativos de execuções fiscais, incluindo a composição, recrutamento, atribuições e vencimentos do pessoal dos respectivos quadros, com observância das seguintes regras:
+Artigo 1.º São autorizados os órgãos legislativos da província de Moçambique a expedir diplomas reguladores da criação e regulamentação de juízos privativos de execuções fiscais, incluindo a composição, recrutamento, atribuições e vencimentos do pessoal dos respectivos quadros, com observância das seguintes regras:
 
 1.ª Os juízos privativos das execuções fiscais continuarão dependentes dos Serviços Provinciais de Fazenda e Contabilidade;
 
@@ -104,13 +104,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4.ª No regime do provimento do pessoal observar-se-ão, além das normas gerais, as especialmente promulgadas para os Serviços Provinciais de Fazenda e Contabilidade.
 
-###### Art. 2.º São consideradas em falha ou incobráveis as dívidas do imposto domiciliário anteriores a 1966 em execução nos juízos das execuções fiscais da província de Moçambique à data da publicação deste diploma.
+Art. 2.º São consideradas em falha ou incobráveis as dívidas do imposto domiciliário anteriores a 1966 em execução nos juízos das execuções fiscais da província de Moçambique à data da publicação deste diploma.
 
 § 1.º A todo o tempo, porém, poderá prosseguir a cobrança se se reconhecer que os responsáveis possuem bens exequíveis suficientes para a solvência da dívida e dos encargos processuais.
 
 § 2.º O governador-geral de Moçambique expedirá as instruções necessárias à execução do que neste artigo se determina.
 
-**Publique-se e cumpra-se coma nele se contém.**
+Publique-se e cumpra-se coma nele se contém.
 
 Paços do Governo da República, 20 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR.
 

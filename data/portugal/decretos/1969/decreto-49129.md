@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49129-1969-199592
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 07a55a0957633883dff6189c01bb7f34f2173caba9d526536e1718d56bbd9c6b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c8c8a1897808a3dcfe30b7a4a0c96ab334b137f96c6e5942ed2b86fd418d7d89
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:18Z'
   warnings: []
   errors: []
 ---
@@ -92,18 +92,18 @@ Considerando o fim a que o terreno se destina e dado o parecer favorável dos se
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É excluída do regime florestal parcial, a que foi submetida por Decreto de 5 de Outubro de 1903, e restituída à Junta de Freguesia de Marrazes uma parcela de terreno baldio da Mata dos Pinheiros, com a superfície de 1040 m2, que se destina a ser vendida à Shell Portuguesa, S. A. R. L., para construção de instalações comerciais e turísticas.
+Artigo 1.º É excluída do regime florestal parcial, a que foi submetida por Decreto de 5 de Outubro de 1903, e restituída à Junta de Freguesia de Marrazes uma parcela de terreno baldio da Mata dos Pinheiros, com a superfície de 1040 m2, que se destina a ser vendida à Shell Portuguesa, S. A. R. L., para construção de instalações comerciais e turísticas.
 
-###### Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca extraordinário.
+Art. 2.º Não poderá ser abatido qualquer arvoredo existente nesta parcela sem prévio acordo da Direcção-Geral dos Serviços Florestais e Aquícolas, que, para o efeito, elaborará um auto de marca extraordinário.
 
-###### Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
+Art. 3.º Todo o arvoredo que for necessário abater é entregue à Direcção-Geral dos Serviços Florestais e Aquícolas, que lhe dará o destino conveniente.
 
-###### Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
+Art. 4.º A entrega desta parcela de terreno só será efectivada depois de a Junta de Freguesia proceder à sua demarcação, de acordo com as instruções que receber da Direcção-Geral dos Serviços Florestais e Aquícolas.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - Vasco Rodrigues de Pinho Leónidas.
 
-**Promulgado em 4 de Julho de 1969.**
+Promulgado em 4 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

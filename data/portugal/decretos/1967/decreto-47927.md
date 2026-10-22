@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47927-1967-390805
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-11T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5700314a56703742bd9a2bb79eb8c29e5280be14f88e0fdbe79219402a2f217c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 006581b175567310934657d8d058945eb5c4ceb1a7e67d265eb47ed5636cb680
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:30Z'
   warnings: []
   errors: []
 ---
@@ -108,17 +108,17 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. São criados, na província de Angola, três lugares de ajudante do procurador da República destinados a desempenhar, como auditores junto das secretarias geral e provinciais, o serviço de consulta jurídica.
+Artigo 1.º - 1. São criados, na província de Angola, três lugares de ajudante do procurador da República destinados a desempenhar, como auditores junto das secretarias geral e provinciais, o serviço de consulta jurídica.
 
 2. Os três auditores compõem também o conselho consultivo da Procuradoria da República junto do Tribunal da Relação de Luanda, que é igualmente criado, sob a presidência do procurador.
 
 3. O provimento destes lugares será feito em comissão ordinária de serviço de entre os juízes de direito.
 
-###### Art. 2.º O procurador da República distribuirá os auditores pelas diferentes secretarias provinciais, segundo as afinidades dos serviços e o movimento das consultas, podendo ser atribuído a cada auditor o serviço de uma só ou mais secretarias, ou numa só serem integrados vários auditores.
+Art. 2.º O procurador da República distribuirá os auditores pelas diferentes secretarias provinciais, segundo as afinidades dos serviços e o movimento das consultas, podendo ser atribuído a cada auditor o serviço de uma só ou mais secretarias, ou numa só serem integrados vários auditores.
 
-###### Art. 3.º Aos ajudantes que sirvam como auditores caberá o serviço de consulta jurídica de menor responsabilidade junto das secretarias geral e provinciais.
+Art. 3.º Aos ajudantes que sirvam como auditores caberá o serviço de consulta jurídica de menor responsabilidade junto das secretarias geral e provinciais.
 
-###### Art. 4.º - 1. O procurador da República fixará os limites da competência dos auditores, em função da importância e complexidade das matérias que sejam objecto de consulta, e poderá, em todos os casos, evocar a si ou mandar submeter ao conselho consultivo da Procuradoria da República quaisquer consultas que tenham sido formuladas directamente aos auditores.
+Art. 4.º - 1. O procurador da República fixará os limites da competência dos auditores, em função da importância e complexidade das matérias que sejam objecto de consulta, e poderá, em todos os casos, evocar a si ou mandar submeter ao conselho consultivo da Procuradoria da República quaisquer consultas que tenham sido formuladas directamente aos auditores.
 
 2. Os auditores devem propor ao procurador da República que sejam submetidos ao conselho consultivo os assuntos sobre que tenham fundadas dúvidas ou cuja importância justifique a discussão em conferência.
 
@@ -126,7 +126,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Quando não concordem com as soluções propostas pelos auditores ou tenham dúvidas sobre a doutrina por eles defendida, podem os secretários geral ou provinciais suscitar que o procurador da República submeta o assunto ao conselho consultivo.
 
-###### Art. 5.º - 1. Cabe aos auditores jurídicos da Procuradoria da República orientar os serviços dos consultores jurídicos privativos dos organismos dependentes da respectiva secretaria e prestar-lhes a assistência técnica de que careçam.
+Art. 5.º - 1. Cabe aos auditores jurídicos da Procuradoria da República orientar os serviços dos consultores jurídicos privativos dos organismos dependentes da respectiva secretaria e prestar-lhes a assistência técnica de que careçam.
 
 2. Além das funções próprias nas secretarias geral ou provinciais, os auditores desempenharão quaisquer outros serviços que lhes sejam determinados pelo procurador, no uso da sua competência.
 
@@ -136,7 +136,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. Os auditores serão substituídos nas suas ausências e impedimentos pelos ajudantes que o procurador determinar, de acordo com as necessidades do serviço.
 
-###### Art. 6.º Compete ao conselho consultivo firmar parecer acerca das questões jurídicas mandadas submeter à sua apreciação, designadamente sobre:
+Art. 6.º Compete ao conselho consultivo firmar parecer acerca das questões jurídicas mandadas submeter à sua apreciação, designadamente sobre:
 
 a) Os problemas de maior dificuldade, quando a decisão possa afectar o interesse nacional ou envolva a fixação de doutrina de interesse geral, para os serviços estatais da província;
 
@@ -146,33 +146,33 @@ c) Os cadernos de encargos e minutas dos contratos a celebrar pelo Estado, espec
 
 d) A redacção e conteúdo jurídico dos diplomas legislativos de maior interesse.
 
-###### Art. 7.º - 1. As consultas formuladas à Procuradoria da República serão respondidas no prazo máximo de 30 dias, salvo se, por virtude da extensão e complexidade da matéria, for indispensável maior prazo, devendo nesse caso informar-se a entidade consulente da demora provável na resposta.
+Art. 7.º - 1. As consultas formuladas à Procuradoria da República serão respondidas no prazo máximo de 30 dias, salvo se, por virtude da extensão e complexidade da matéria, for indispensável maior prazo, devendo nesse caso informar-se a entidade consulente da demora provável na resposta.
 
 2. As consultas formuladas com declaração de urgência têm prioridade sobre quaisquer outras e serão respondidas no espaço de tempo mais breve possível.
 
-###### Art. 8.º - 1. O conselho consultivo reúne-se, ordinàriamente, duas vezes por mês e, extraordinàriamente, sempre que seja convocado pelo procurador.
+Art. 8.º - 1. O conselho consultivo reúne-se, ordinàriamente, duas vezes por mês e, extraordinàriamente, sempre que seja convocado pelo procurador.
 
 2. Na Procuradoria da República não há férias; todavia, em cada um dos meses de Agosto e Setembro, há apenas uma reunião ordinária do conselho consultivo.
 
-###### Art. 9.º - 1. As resoluções do conselho consultivo são tomadas à pluralidade de votos, devendo os vogais que se não conformem com a matéria votada assinar o parecer com a declaração de vencido, fundamentando o seu voto.
+Art. 9.º - 1. As resoluções do conselho consultivo são tomadas à pluralidade de votos, devendo os vogais que se não conformem com a matéria votada assinar o parecer com a declaração de vencido, fundamentando o seu voto.
 
 2. O procurador tem voto de desempate.
 
-###### Art. 10.º - 1. De todas as deliberações ou decisões que se tomem no conselho é lavrada acta, assinada pelos membros presentes e subscrita pelo secretário.
+Art. 10.º - 1. De todas as deliberações ou decisões que se tomem no conselho é lavrada acta, assinada pelos membros presentes e subscrita pelo secretário.
 
 2. Quando o relator de um parecer for vencido, passa o processo a um dos vogais vencedores designado pelo procurador.
 
 3. As actas devem conter a exposição resumida dos assuntos versados, as conclusões dos pareceres lidos em conferência e dos votos em separado, se os houver.
 
-###### Art. 11.º - 1. As resoluções do conselho serão seguidas e sustentadas por todos os magistrados do Ministério Público.
+Art. 11.º - 1. As resoluções do conselho serão seguidas e sustentadas por todos os magistrados do Ministério Público.
 
 2. Pode, todavia, o procurador, por sua iniciativa ou sobre exposição fundamentada de algum dos seus ajudantes, submeter de novo qualquer assunto à apreciação do conselho para revisão da doutrina acerca dele fixada.
 
-###### Art. 12.º - 1. Os pareceres do conselho consultivo sobre disposições de ordem genérica, quando homologados, serão publicados no Boletim Oficial para valerem como interpretação oficial, perante os respectivos serviços das disposições legais que se destinam a esclarecer.
+Art. 12.º - 1. Os pareceres do conselho consultivo sobre disposições de ordem genérica, quando homologados, serão publicados no Boletim Oficial para valerem como interpretação oficial, perante os respectivos serviços das disposições legais que se destinam a esclarecer.
 
-###### Art. 13.º Fica o governador-geral autorizado a mandar abrir o crédito necessário à satisfação do encargo criado pelo presente diploma.
+Art. 13.º Fica o governador-geral autorizado a mandar abrir o crédito necessário à satisfação do encargo criado pelo presente diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

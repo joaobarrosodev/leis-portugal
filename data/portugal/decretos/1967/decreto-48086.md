@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48086-1967-400776
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 57847ef7dc2b63ba6da0eb7ddc73e7400c67b589a78d76b6188063727be3b9c8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a04e40ccda18fbedb3cc673c3c3e7766b90203b87d8db143c215fa0450e9cba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:52Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +99,19 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações da Carreira de Tiro da Figueira da Foz (Lavos), limitada como segue:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações da Carreira de Tiro da Figueira da Foz (Lavos), limitada como segue:
 
-A nascente, por um alinhamento [([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) paralelo ao limite de propriedade do Ministério do Exército, dele distando 30 m, e perpendicular ao exio da carreira de tiro, sendo A para sul, a 280 m do eixo, e H a igual distância para norte.
+A nascente, por um alinhamento [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) paralelo ao limite de propriedade do Ministério do Exército, dele distando 30 m, e perpendicular ao exio da carreira de tiro, sendo A para sul, a 280 m do eixo, e H a igual distância para norte.
 
-A sul, pela linha poligonal A B C, sendo [([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) um alinhamento paralelo ao limite de propriedade do Ministério do Exército, dele distante 30 m, e com a extensão de 700 m a partir do ponto A, e [([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) um alinhamento formando um ângulo de 17º com o prolongamento de [([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) e C um ponto situado na orla marítima.
+A sul, pela linha poligonal A B C, sendo [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) um alinhamento paralelo ao limite de propriedade do Ministério do Exército, dele distante 30 m, e com a extensão de 700 m a partir do ponto A, e [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) um alinhamento formando um ângulo de 17º com o prolongamento de [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) e C um ponto situado na orla marítima.
 
 A poente, pela orla marítima, de C a F.
 
-A norte, pela poligonal F G H, em que o alinhamento [([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) é o lado norte do ângulo de 17º formado por ele e pelo prolongamento do alinhamento [([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf))](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) e este é paralelo e distante 30 m do limite de propriedade do Ministério do Exército, medindo 700 m desde o ponto H.
+A norte, pela poligonal F G H, em que o alinhamento [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) é o lado norte do ângulo de 17º formado por ele e pelo prolongamento do alinhamento [(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/28100/21272128.pdf) e este é paralelo e distante 30 m do limite de propriedade do Ministério do Exército, medindo 700 m desde o ponto H.
 
 § único. A área marítima perigosa é definida pelos paralelos 40º 5,3' norte e 40º 6,8' norte, pela linha da costa de D a E entre esses paralelos e pelo meridiano 8º 54,5' oeste.
 
-###### Art. 2.º A servidão militar que incide na área descrita no artigo anterior é a fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida, sem licença devidamente condicionada da autoridade militar competente, a execução de quaisquer dos trabalhos ou actividades abaixo indicados:
+Art. 2.º A servidão militar que incide na área descrita no artigo anterior é a fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida, sem licença devidamente condicionada da autoridade militar competente, a execução de quaisquer dos trabalhos ou actividades abaixo indicados:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou fazer obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -119,15 +127,15 @@ f) Fazer levantamentos topográficos ou fotográficos;
 
 g) O movimento ou permanência de peões, semoventes ou veículos durante a realização das sessões de tiro.
 
-###### Art. 3.º Ao Comando da 2.ª Região Militar compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao Comando da 2.ª Região Militar compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao director da Carreira de Tiro, à Direcção do Serviço de Fortificações e Obras Militares e ao Comando da 2.ª Região Militar.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao director da Carreira de Tiro, à Direcção do Serviço de Fortificações e Obras Militares e ao Comando da 2.ª Região Militar.
 
-###### Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da competência da Delegação do Serviço de Fortificações e Obras Militares na 2.ª Região Militar.
+Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da competência da Delegação do Serviço de Fortificações e Obras Militares na 2.ª Região Militar.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita à demolição das obras feitas ilegalmente cabe recurso para o comandante da 2.ª Região Militar.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita à demolição das obras feitas ilegalmente cabe recurso para o comandante da 2.ª Região Militar.
 
-###### Art. 7.º A área descrita no artigo 1.º será demarcada na planta da região na escala de 1:25000, organizando-se onze colecções com a classificação de «reservado», que terão os seguintes destinos:
+Art. 7.º A área descrita no artigo 1.º será demarcada na planta da região na escala de 1:25000, organizando-se onze colecções com a classificação de «reservado», que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional;
 
@@ -149,6 +157,6 @@ Uma ao Ministério das Obras Públicas;
 
 Duas ao Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - José Albino Machado Vaz - José Gonçalo da Cunha Sottomayor Correia de Oliveira.

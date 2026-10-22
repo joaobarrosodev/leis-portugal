@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48346-1968-234701
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 1ceb2c79fb0891317c5e43dde8010c0f6f19cd2937eb7c787c718e66f3fd156d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 22c73d9524d2698226971464e497df20e4153ce696e337af0a3c0e6e090b556d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:486888:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:00Z'
   warnings: []
   errors: []
 ---
@@ -96,23 +100,23 @@ Ainda no intuito de facilitar o comércio internacional, regulamenta-se, de form
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O regime aduaneiro das paletas regular-se-á pelas disposições constantes dos artigos seguintes. Os casos não previstos neste diploma regular-se-ão pelos preceitos da legislação geral que lhes sejam aplicáveis.
+Artigo 1.º O regime aduaneiro das paletas regular-se-á pelas disposições constantes dos artigos seguintes. Os casos não previstos neste diploma regular-se-ão pelos preceitos da legislação geral que lhes sejam aplicáveis.
 
 § único. Entende-se por «paleta» um dispositivo sobre cuja superfície se pode reunir uma determinada quantidade de mercadorias, a fim de constituir uma unidade de carga com vista ao seu transporte, deslocação ou arrumação com ajuda de aparelhos mecânicos. Este dispositivo é formado por duas pranchas separadas por suportes ou por uma só prancha apoiada sobre pés; a sua altura total deve ser reduzida ao mínimo, de modo a permitir a sua movimentação por meio de plataformas elevadoras; pode ter ou não uma superstrutura.
 
-###### Art. 2.º Permite-se a entrada de paletas provenientes do território de qualquer parte contratante da Convenção Europeia Relativa ao Regime Aduaneiro das Paletas Utilizadas nos Transportes Internacionais, feita em Genebra aos 9 de Dezembro de 1960, livres de direitos e taxas de importação e sem proibições nem restrições de importação, desde que:
+Art. 2.º Permite-se a entrada de paletas provenientes do território de qualquer parte contratante da Convenção Europeia Relativa ao Regime Aduaneiro das Paletas Utilizadas nos Transportes Internacionais, feita em Genebra aos 9 de Dezembro de 1960, livres de direitos e taxas de importação e sem proibições nem restrições de importação, desde que:
 
 a) Tenham sido exportadas prèviamente ou que sejam reexportadas posteriormente; ou que:
 
 b) Igual número do mesmo tipo e essencialmente do mesmo valor tenha sido exportado prèviamente ou que seja exportado posteriormente.
 
-###### Art. 3.º As paletas importadas temporàriamente deverão ser reexportadas no prazo de seis meses. Para efeitos de reexportação, permita-se a substituição das importadas temporàriamente por igual número do mesmo tipo e essencialmente do mesmo valor.
+Art. 3.º As paletas importadas temporàriamente deverão ser reexportadas no prazo de seis meses. Para efeitos de reexportação, permita-se a substituição das importadas temporàriamente por igual número do mesmo tipo e essencialmente do mesmo valor.
 
-###### Art. 4.º As paletas exportadas temporàriamente deverão ser reimportadas no prazo de um ano. Para efeitos de reimportação, permite-se a substituição das exportadas temporàriamente por igual número do mesmo tipo e essencialmente do mesmo valor.
+Art. 4.º As paletas exportadas temporàriamente deverão ser reimportadas no prazo de um ano. Para efeitos de reimportação, permite-se a substituição das exportadas temporàriamente por igual número do mesmo tipo e essencialmente do mesmo valor.
 
-###### Art. 5.º Os directores das alfândegas poderão conceder a prorrogação dos prazos referidos nos artigos 3.º e 4.º por motivo de força maior devidamente comprovado.
+Art. 5.º Os directores das alfândegas poderão conceder a prorrogação dos prazos referidos nos artigos 3.º e 4.º por motivo de força maior devidamente comprovado.
 
-###### Art. 6.º Se as paletas corresponderem aos tipos normalizados, aprovados pelas normas portuguesas definitivas em vigor, e forem importadas temporàriamente por empresas ferroviárias ou empresas de navegação marítima ou aérea, ou seus agentes, a garantia aos direitos e demais imposições exigida por lei poderá ser substituída por uma garantia anual, de quantitativo a determinar em cada caso pelas alfândegas, mas nunca inferior a 100000$00.
+Art. 6.º Se as paletas corresponderem aos tipos normalizados, aprovados pelas normas portuguesas definitivas em vigor, e forem importadas temporàriamente por empresas ferroviárias ou empresas de navegação marítima ou aérea, ou seus agentes, a garantia aos direitos e demais imposições exigida por lei poderá ser substituída por uma garantia anual, de quantitativo a determinar em cada caso pelas alfândegas, mas nunca inferior a 100000$00.
 
 § 1.º Desde que se verifiquem as condições expressas no corpo deste artigo, processar-se-á, para a importação temporária, despacho em fórmula especial de caderneta.
 
@@ -126,13 +130,13 @@ b) Igual número do mesmo tipo e essencialmente do mesmo valor tenha sido export
 
 § 6.º Observadas as condições constantes no corpo deste artigo, a reexportação relativa às entradas por via marítima ou aérea e mantidas nos armazéns gerais francos, estâncias aduaneiras e recintos directamente fiscalizados pela alfândega far-se-á mediante simples guia de caderneta, em cujo talão será exarada a conferência de embarque.
 
-###### Art. 7.º Expirado o prazo mencionado no artigo 3.º, os interessados ficarão obrigados a liquidar os direitos e demais imposições correspondentes às quantidades que não forem reexportadas.
+Art. 7.º Expirado o prazo mencionado no artigo 3.º, os interessados ficarão obrigados a liquidar os direitos e demais imposições correspondentes às quantidades que não forem reexportadas.
 
-###### Art. 8.º Expirado o prazo referido no artigo 4.º, os interessados ficarão obrigados a liquidar o despacho de exportação temporária pelas imposições devidas.
+Art. 8.º Expirado o prazo referido no artigo 4.º, os interessados ficarão obrigados a liquidar o despacho de exportação temporária pelas imposições devidas.
 
-###### Art. 9.º As paletas que forem objecto de uma compra ou de um contrato semelhante celebrado por pessoas domiciliadas ou estabelecidas no País ficarão sujeitas ao pagamento de direitos e taxas de importação.
+Art. 9.º As paletas que forem objecto de uma compra ou de um contrato semelhante celebrado por pessoas domiciliadas ou estabelecidas no País ficarão sujeitas ao pagamento de direitos e taxas de importação.
 
-###### Art. 10.º A aplicação do artigo 2.º poderá ter lugar sem o processamento de bilhete de despacho, nem a constituição de uma garantia aos direitos e taxas de importação para as paletas utilizadas em comum em resultado de um acordo nos termos do qual os respectivos participantes:
+Art. 10.º A aplicação do artigo 2.º poderá ter lugar sem o processamento de bilhete de despacho, nem a constituição de uma garantia aos direitos e taxas de importação para as paletas utilizadas em comum em resultado de um acordo nos termos do qual os respectivos participantes:
 
 a) Trocam entre si, de país para país, paletas do mesmo tipo durante operações que compreendam transportes internacionais de mercadorias;
 
@@ -150,10 +154,10 @@ b) Se o acordo de utilização comum for sujeito à apreciação de Direcção-G
 
 § 3.º Parra efeitos de aprovação de acordo de utilização comum, tornar-se-á necessária a observância dos tipos normalizados, aprovados pelas normas portuguesas definitivas em vigor.
 
-###### Art. 11.º O contrôle do regime de excepção prevista no artigo 10.º ficará a cargo do Serviço de Fiscalização Aduaneira da Direcção dos Serviços de Fiscalização e Superintendência nos Regimes Gerais e Especiais. As estâncias aduaneiras por onde se realizarem as entradas e saídas deverão comunicar àqueles serviços esses movimentos, com os elementos necessários à sua completa identificação.
+Art. 11.º O contrôle do regime de excepção prevista no artigo 10.º ficará a cargo do Serviço de Fiscalização Aduaneira da Direcção dos Serviços de Fiscalização e Superintendência nos Regimes Gerais e Especiais. As estâncias aduaneiras por onde se realizarem as entradas e saídas deverão comunicar àqueles serviços esses movimentos, com os elementos necessários à sua completa identificação.
 
-###### Art. 12.º Compete ao director-geral das Alfândegas esclarecer quaisquer dúvidas que surjam na execução deste decreto e transmitir às alfândegas as instruções julgadas necessárias, bem como aprovar os modelos de impressos especiais referidos neste diploma.
+Art. 12.º Compete ao director-geral das Alfândegas esclarecer quaisquer dúvidas que surjam na execução deste decreto e transmitir às alfândegas as instruções julgadas necessárias, bem como aprovar os modelos de impressos especiais referidos neste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.

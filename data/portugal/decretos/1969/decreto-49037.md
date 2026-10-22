@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49037-1969-201199
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a47b3dfe142b996ff80672e3a34c4d584ac58b6555bb0ca4959a9505c77304ef
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 106895823e81fa3b1a50b5e3cfb94a11515915b1b67954189fc1ca42eb61f5c4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:36Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +102,7 @@ Por motivo de urgência, nos termos da alínea a) do n.º III da base X da Lei O
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No quadro do pessoal contratado dos Serviços dos Correios Telégrafos e Telefones de Angola são criados os seguintes lugares:
+Artigo 1.º No quadro do pessoal contratado dos Serviços dos Correios Telégrafos e Telefones de Angola são criados os seguintes lugares:
 
 a) Pessoal de exploração:
 
@@ -112,7 +124,7 @@ c) Pessoal administrativo:
 
 1 de ajudante de bibliotecário.
 
-###### Art. 2.º Aos lugares criados pelo artigo 1.º são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 2.º Aos lugares criados pelo artigo 1.º são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Chefe de serviços de exploração de 1.ª classe - letra G;
 
@@ -128,7 +140,7 @@ Chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade) -
 
 Ajudante de bibliotecário - letra N.
 
-###### Art. 3.º As funções incumbidas aos funcionários que forem providos nos lugares criados pelo artigo 1.º são os seguintes:
+Art. 3.º As funções incumbidas aos funcionários que forem providos nos lugares criados pelo artigo 1.º são os seguintes:
 
 a) Chefe de serviços de exploração de 1.ª classe - fiscalizar e vistoriar as estações da província; chefiar as zonas de exploração postal ou de telecomunicações; instruir processos de averiguações, disciplinares e de inquéritos;
 
@@ -144,7 +156,7 @@ f) Chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade
 
 g) Ajudante de bibliotecário - coadjuvar o chefe da secção (encarregado da biblioteca, museu, propaganda e publicidade), substituindo-o nos seus impedimentos e ausências.
 
-###### Art. 4.º O primeiro provimento dos lugares criados pelo artigo 1.º, com excepção do de chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade), será feito por escolha do governador-geral da província, por proposta do conselho de administração dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
+Art. 4.º O primeiro provimento dos lugares criados pelo artigo 1.º, com excepção do de chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade), será feito por escolha do governador-geral da província, por proposta do conselho de administração dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
 
 a) Para os lugares de chefe de serviços de exploração de 1.ª classe a escolha será feita de entre os primeiros-oficiais e radiotelegrafistas de 1.ª classe com mais de dois anos de serviço efectivo na categoria e com boas informações, sendo quatro para a exploração postal e quatro para a exploração de telecomunicações;
 
@@ -164,9 +176,9 @@ f) Para o lugar de ajudante de bibliotecário, a escolha será feita de entre in
 
 § 2.º Se depois de efectuada a primeira escolha para os lugares de chefe de serviços técnicos de 2.ª classe ainda restarem lugares vagos ou o número de candidatos for inferior ao das vagas a prover, poderão esses lugares ser providos, por escolha, de entre os assistentes técnicos, contratados, dos Serviços dos Correios, Telégrafos e Telefones de Angola, desde que tenham mais de dois anos de serviço efectivo na categoria e boas informações.
 
-###### Art. 5.º O primeiro provimento do lugar de chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade) criado pelo artigo 1.º será feito por transição do actual bibliotecário, contratado, dos Serviços dos Correios, Telégrafos e Telefones de Angola, determinada por despacho do governador-geral da província, mediante apostila, ao seu contrato vigente.
+Art. 5.º O primeiro provimento do lugar de chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade) criado pelo artigo 1.º será feito por transição do actual bibliotecário, contratado, dos Serviços dos Correios, Telégrafos e Telefones de Angola, determinada por despacho do governador-geral da província, mediante apostila, ao seu contrato vigente.
 
-###### Art. 6.º O provimento posterior dos lugares criados pelo artigo 1.º será feito por concurso documental, observando-se o seguinte:
+Art. 6.º O provimento posterior dos lugares criados pelo artigo 1.º será feito por concurso documental, observando-se o seguinte:
 
 a) Para os lugares de chefe de serviços de exploração de 1.ª classe, serão admitidos a concurso os chefes de serviços de exploração de 2.ª classe com a respectiva especialização e com mais de dois anos de serviço na categoria e boas informações;
 
@@ -186,7 +198,7 @@ g) Para o lugar de ajudante de bibliotecário, serão admitidos a concurso indiv
 
 § 2.º Se à data do encerramento do prazo dos concursos para provimento de lugares de chefe de serviços técnicos de 2.ª classe se verificar que o número de concorrentes possuidores das habilitações literárias estabelecidas pela alínea d) do artigo 4.º é inferior ao número de vagas efectivamente existentes e a prover, poderão ainda ser admitidos a esses concursos os assistentes técnicos, contratados, dos Serviços dos Correios, Telégrafos e Telefones de Angola, desde que possuam mais de dois anos de serviço na categoria e boas informações, sendo, contudo, classificados seguidamente àqueles.
 
-###### Art. 7.º Nas escolhas e concursos a que se referem os artigos 4.º e 6.º deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada.
+Art. 7.º Nas escolhas e concursos a que se referem os artigos 4.º e 6.º deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada.
 
 § 1.º O mérito será avaliado tendo em conta os factores de qualidade de serviço e habilitações profissionais e literárias, a considerar pela ordem enunciada, pelo que só se deverá passar da apreciação de um factor ao imediato para graduar concorrentes em situações de paridade naquele que o antecede.
 
@@ -196,55 +208,55 @@ g) Para o lugar de ajudante de bibliotecário, serão admitidos a concurso indiv
 
 § 4.º Na escolha para chefe de secção (encarregado da biblioteca, museu, propaganda e publicidade) deverá ter-se em consideração o conhecimento dos serviços de biblioteca e museu e, de preferência, em relação a publicações e factos dos serviços dos Serviços dos Correios, Telégrafos e Telefones de Angola.
 
-###### Art. 8.º Independentemente do disposto no artigo 14.º do presente decreto, os chefes de serviços técnicos de 2.ª classe e o chefe e de serviços de obras, possuidores do curso da especialidade dos institutos industriais passarão por simples despacho do governador-geral, publicado por extracto no Boletim Oficial da província, a receber os vencimentos previstos para a categoria da letra G dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, no fim de dez anos de serviço efectivo na categoria, com boas informações.
+Art. 8.º Independentemente do disposto no artigo 14.º do presente decreto, os chefes de serviços técnicos de 2.ª classe e o chefe e de serviços de obras, possuidores do curso da especialidade dos institutos industriais passarão por simples despacho do governador-geral, publicado por extracto no Boletim Oficial da província, a receber os vencimentos previstos para a categoria da letra G dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, no fim de dez anos de serviço efectivo na categoria, com boas informações.
 
-###### Art. 9.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe dos quadros privativos que forem providos nos lugares criados pelo artigo 1.º deste decreto e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
+Art. 9.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe dos quadros privativos que forem providos nos lugares criados pelo artigo 1.º deste decreto e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
 
-###### Art. 10.º Os actuais contratados dos Serviços dos Correios, Telégrafos e Telefones de Angola que modificarem a sua situação por motivo da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos da regra 6.ª do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
+Art. 10.º Os actuais contratados dos Serviços dos Correios, Telégrafos e Telefones de Angola que modificarem a sua situação por motivo da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos da regra 6.ª do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
 
-###### Art. 11.º Os funcionários que forem providos nos lugares criados pelo artigo 1.º deste decreto terão na hierarquia a posição correspondente à categoria da letra em que estejam incluídos.
+Art. 11.º Os funcionários que forem providos nos lugares criados pelo artigo 1.º deste decreto terão na hierarquia a posição correspondente à categoria da letra em que estejam incluídos.
 
-###### Art. 12.º Os lugares criados pelo artigo 1.º deste decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário dos mesmos Serviços que possam fazer face aos encargos consequentes.
+Art. 12.º Os lugares criados pelo artigo 1.º deste decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário dos mesmos Serviços que possam fazer face aos encargos consequentes.
 
-###### Art. 13.º Os quatro lugares de chefe de serviços técnicos (letra G) criados pelo artigo 2.º do Diploma Legislativo Ministerial n.º 67, publicado no Boletim Oficial da província ultramarina de Angola em 25 de Outubro de 1961, no quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola passam a ter a designação de chefe de serviços técnicos de 1.ª classe (letra G).
+Art. 13.º Os quatro lugares de chefe de serviços técnicos (letra G) criados pelo artigo 2.º do Diploma Legislativo Ministerial n.º 67, publicado no Boletim Oficial da província ultramarina de Angola em 25 de Outubro de 1961, no quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola passam a ter a designação de chefe de serviços técnicos de 1.ª classe (letra G).
 
 § único. Os actuais contratados nos lugares de chefe de serviços técnicos (letra G) referidos no corpo do artigo não carecem de novo contrato, devendo, porém, a nova designação que os lugares passam a ter ser exarada em apostila aos contratos existentes, nos termos da regra 6.ª do artigo 47.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 14.º O provimento futuro dos lugares de chefe de serviços técnicos de 1.ª classe referidos no artigo anterior será feito por concurso documental, a que serão admitidos os chefes de serviços técnicos de 2.ª classe do mesmo quadro do pessoal contratado com dois anos de exercício efectivo do cargo e boas informações e que possuam o curso de agente técnico de engenharia electromecânica dos institutos industriais, aplicando-se-lhes o disposto no § 1.º do artigo 6.º
+Art. 14.º O provimento futuro dos lugares de chefe de serviços técnicos de 1.ª classe referidos no artigo anterior será feito por concurso documental, a que serão admitidos os chefes de serviços técnicos de 2.ª classe do mesmo quadro do pessoal contratado com dois anos de exercício efectivo do cargo e boas informações e que possuam o curso de agente técnico de engenharia electromecânica dos institutos industriais, aplicando-se-lhes o disposto no § 1.º do artigo 6.º
 
-###### Art. 15.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe compete também, sempre que as circunstâncias o exijam, a chefia das secções das estações centrais, a subchefia das secções das repartições da Direcção dos Serviços e ainda a chefia das secretarias dos serviços centrais técnicos.
+Art. 15.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe compete também, sempre que as circunstâncias o exijam, a chefia das secções das estações centrais, a subchefia das secções das repartições da Direcção dos Serviços e ainda a chefia das secretarias dos serviços centrais técnicos.
 
-###### Art. 16.º Aos lugares a seguir mencionados do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones de Angola são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 16.º Aos lugares a seguir mencionados do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones de Angola são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Contabilista - letra G;
 
 Tesoureiro-pagador - letra H.
 
-###### Art. 17.º O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones de Angola passa a ser constituído pelo director dos Serviços, que será o presidente, e por dois vogais, anualmente nomeados pelo governador-geral da província, sendo um deles de entre os directores-adjuntos e outro de entre os chefes de repartição da Direcção dos Serviços.
+Art. 17.º O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones de Angola passa a ser constituído pelo director dos Serviços, que será o presidente, e por dois vogais, anualmente nomeados pelo governador-geral da província, sendo um deles de entre os directores-adjuntos e outro de entre os chefes de repartição da Direcção dos Serviços.
 
 § 1.º Na falta ou impedimento de algum dos vogais membros do conselho de administração, servirão os substitutos, designados também anualmente pelo governador-geral de entre os chefes de repartição da Direcção dos Serviços.
 
 § 2.º O delegado dos Serviços de Fazenda e Contabilidade perceberá a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 18.º Aos funcionários dos Serviços dos Correios, Telégrafos e Telefones de Angola, serão abonadas as gratificações e abonos para falhas constantes do quadro I anexo a este decreto.
+Art. 18.º Aos funcionários dos Serviços dos Correios, Telégrafos e Telefones de Angola, serão abonadas as gratificações e abonos para falhas constantes do quadro I anexo a este decreto.
 
 § 1.º As gratificações atribuídas aos chefes de estação de 3.ª classe, variáveis entre 100$00 e 300$00 mensais, consoante os serviços que desempenham e seu movimento, serão fixadas por portaria do governador-geral da província, sob proposta do conselho de administração dos Correios, Telégrafos e Telefones.
 
 § 2.º As senhas de presença atribuídas aos membros do conselho de administração dos Correios, Telégrafos e Telefones são acumuláveis e sempre devidas, independentemente de quaisquer gratificações ou subsídios diários a que os mesmos tenham direito, não podendo, porém, exceder quatro em cada mês.
 
-###### Art. 19.º Quando à data do encerramento do prazo dos concursos para provimento de lugares de operador do quadro do pessoal de exploração se verificar que o número de concorrentes possuidores das habilitações mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é inferior ao número de vagas efectivamente existentes e a prover, poderão ainda ser admitidos a esses concursos os distribuidores e os manipuladores telégrafo-postais do quadro ou assalariados que o requeiram dentro do prazo adicional referido no artigo 12.º do Diploma Legislativo Ministerial n.º 16, de 31 de Maio de 1967, desde que prestem serviço nos Correios, Telégrafos e Telefones há mais de três anos, com boas informações, e exerçam ou tenham exercido as funções de chefe de estação de 1.ª classe ou de 2.ª classe pelo período mínimo de dois anos, seguidos ou interpolados, sendo, contudo, classificados seguidamente àqueles e aos candidatos possuidores do 1.º ciclo liceal admitidos aos mesmos concursos ao abrigo do disposto no referido artigo 12.º e seus parágrafos do Diploma Legislativo Ministerial n.º 16.
+Art. 19.º Quando à data do encerramento do prazo dos concursos para provimento de lugares de operador do quadro do pessoal de exploração se verificar que o número de concorrentes possuidores das habilitações mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é inferior ao número de vagas efectivamente existentes e a prover, poderão ainda ser admitidos a esses concursos os distribuidores e os manipuladores telégrafo-postais do quadro ou assalariados que o requeiram dentro do prazo adicional referido no artigo 12.º do Diploma Legislativo Ministerial n.º 16, de 31 de Maio de 1967, desde que prestem serviço nos Correios, Telégrafos e Telefones há mais de três anos, com boas informações, e exerçam ou tenham exercido as funções de chefe de estação de 1.ª classe ou de 2.ª classe pelo período mínimo de dois anos, seguidos ou interpolados, sendo, contudo, classificados seguidamente àqueles e aos candidatos possuidores do 1.º ciclo liceal admitidos aos mesmos concursos ao abrigo do disposto no referido artigo 12.º e seus parágrafos do Diploma Legislativo Ministerial n.º 16.
 
 § único. Os indivíduos que forem nomeados em consequência da aplicação da disposição constante do corpo do artigo não poderão ascender a lugares superiores aos da letra L do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 20.º Nas repartições da Direcção e nas repartições regionais dos Serviços dos Correios, Telégrafos e Telefones de Angola onde estejam colocados, a titulo permanente, funcionários de categoria superior à dos funcionários que desempenharem as funções de chefe de secção das mesmas repartições, ainda que contratados, caber-lhes-á substituírem os respectivos chefes de repartição nos seus impedimentos e ausências ocasionais.
+Art. 20.º Nas repartições da Direcção e nas repartições regionais dos Serviços dos Correios, Telégrafos e Telefones de Angola onde estejam colocados, a titulo permanente, funcionários de categoria superior à dos funcionários que desempenharem as funções de chefe de secção das mesmas repartições, ainda que contratados, caber-lhes-á substituírem os respectivos chefes de repartição nos seus impedimentos e ausências ocasionais.
 
-###### Art. 21.º Na província ultramarina de Angola, as funções de chefe de 1.ª secção das repartições regionais dos Serviços dos Correios, Telégrafos e Telefones serão exercidas por funcionários com as categorias de primeiro-oficial ou de segundo-oficial ou equivalentes, conforme as conveniências de serviço o exijam.
+Art. 21.º Na província ultramarina de Angola, as funções de chefe de 1.ª secção das repartições regionais dos Serviços dos Correios, Telégrafos e Telefones serão exercidas por funcionários com as categorias de primeiro-oficial ou de segundo-oficial ou equivalentes, conforme as conveniências de serviço o exijam.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Maio de 1969.**
+Promulgado em 12 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -254,7 +266,7 @@ QUADRO I
 
 Gratificações, abonos para falhas e senhas de presença (artigo 18.º do Decreto n.º 49037)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/05/12800/06030606.pdf))](https://files.diariodarepublica.pt/1s/1969/05/12800/06030606.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12800/06030606.pdf)
 
 Ministério do Ultramar, 12 de Maio de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48751-1968-262653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8ff6967d56fd3d66efa7ae0d98955f9b6a1b26233219aaac12b5b62c430c8b4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 77d1bc49c4dbd9346e80ca56ce0109cd71fffe589358a5bb8c74ae7310db5c49
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:391425:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:17Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +103,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao artigo 140.º do [Decreto n.º 47951](https://diariodarepublica.pt/dr/detalhe/decreto/47951-1967-391425), de 21 de Setembro de 1967, são aditados uma alínea e um número, com a seguinte redacção:
+Artigo 1.º Ao artigo 140.º do [Decreto n.º 47951](https://diariodarepublica.pt/dr/detalhe/decreto/47951-1967-391425), de 21 de Setembro de 1967, são aditados uma alínea e um número, com a seguinte redacção:
 
 f) Pessoal eventual.
 
@@ -103,15 +111,15 @@ f) Pessoal eventual.
 
 A remuneração daquele pessoal não poderá exceder a estabelecida para o pessoal do quadro de igual categoria.
 
-###### Art. 2.º Ao [Decreto n.º 47951](https://diariodarepublica.pt/dr/detalhe/decreto/47951-1967-391425) é aditado mais um artigo, que passará a ser o 201.º:
+Art. 2.º Ao [Decreto n.º 47951](https://diariodarepublica.pt/dr/detalhe/decreto/47951-1967-391425) é aditado mais um artigo, que passará a ser o 201.º:
 
-###### Art. 201.º (transitório). O pessoal que tem vindo a prestar serviço desde 1 de Janeiro de 1968 deverá ser abonado dos respectivos salários a partir daquela data.
+Art. 201.º (transitório). O pessoal que tem vindo a prestar serviço desde 1 de Janeiro de 1968 deverá ser abonado dos respectivos salários a partir daquela data.
 
 Marcello Caetano - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 27 de Novembro de 1968.**
+Promulgado em 27 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

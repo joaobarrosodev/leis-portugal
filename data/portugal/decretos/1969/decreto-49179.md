@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49179-1969-198895
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 46cf1f0cf947c71b5fdd5e67f5c9458efbf34c8943b11094dc954637209d0bb6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 34f2cb73837e5afcce54749cf22bfb377f6896888b4e832e56e2cb79d9cdab40
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:272987:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:43Z'
   warnings: []
   errors: []
 ---
@@ -93,11 +101,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É criado em Timor, na dependência do governador, o Fundo de Diversificação e Desenvolvimento, que tem por finalidade manter o equilíbrio da produção cafeeira da província a um nível compatível com as possibilidades de exportação e as necessidades do consumo dos mercados nacionais, fazer substituir os cafèzais implantados em zonas marginais por outras culturas mais bem adaptadas e possibilitar a criação de outras actividades económicas com interesse nacional.
+Artigo 1.º - 1. É criado em Timor, na dependência do governador, o Fundo de Diversificação e Desenvolvimento, que tem por finalidade manter o equilíbrio da produção cafeeira da província a um nível compatível com as possibilidades de exportação e as necessidades do consumo dos mercados nacionais, fazer substituir os cafèzais implantados em zonas marginais por outras culturas mais bem adaptadas e possibilitar a criação de outras actividades económicas com interesse nacional.
 
 2. O Fundo de Diversificação e Desenvolvimento é dotado de personalidade jurídica e goza de autonomia administrativa e financeira.
 
-###### Art. 2.º Na prossecução das finalidades definidas no artigo anterior, são atribuições do Fundo:
+Art. 2.º Na prossecução das finalidades definidas no artigo anterior, são atribuições do Fundo:
 
 1. Financiar:
 
@@ -123,7 +131,7 @@ j) Instalações de armazenamento e beneficiação de cafés.
 
 2. Contribuir para o Fundo de Fomento e de Propaganda do Café, criado pelo [Decreto-Lei n.º 43874](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43874-1961-173969), de 24 de Agosto de 1961, e regulamentado pela [Portaria n.º 23449](https://diariodarepublica.pt/dr/detalhe/portaria/23449-1968-272987), de 26 de Junho de 1968, e para o Fundo de Diversificação e Desenvolvimento instituído na Organização Internacional do Café.
 
-###### Art. 3.º - 1. Os financiamentos a efectuar pelo Fundo poderão revestir a forma de:
+Art. 3.º - 1. Os financiamentos a efectuar pelo Fundo poderão revestir a forma de:
 
 a) Subsídios, quando se destinarem a suportar encargos de serviços prestados pelos órgãos da Administração ou por estes orientados;
 
@@ -133,7 +141,7 @@ b) Empréstimos, quando se destinarem a fomentar actividades económicas de empr
 
 3. Os empréstimos concedidos pelo Fundo serão reembolsáveis no período máximo de vinte anos, nas condições estabelecidas no respectivo contrato.
 
-###### Art. 4.º Constituem receitas do Fundo de Diversificação e Desenvolvimento:
+Art. 4.º Constituem receitas do Fundo de Diversificação e Desenvolvimento:
 
 a) A comparticipação indirecta da produção cafeeira, pela cobrança aos exportadores de uma contribuição sobre o café a exportar para mercados estrangeiros pela província de Timor;
 
@@ -143,7 +151,7 @@ c) Os empréstimos a contrair em organismos de crédito;
 
 d) Os rendimentos que possam resultar da actuação do Fundo, designadamente os juros e outros proventos dos empréstimos concedidos ao abrigo do disposto na alínea b) do artigo 3.º deste decreto.
 
-###### Art. 5.º A administração do Fundo de Diversificação e Desenvolvimento será exercida por um conselho administrativo, presidido e constituído pelos seguintes vogais:
+Art. 5.º A administração do Fundo de Diversificação e Desenvolvimento será exercida por um conselho administrativo, presidido e constituído pelos seguintes vogais:
 
 a) O chefe dos Serviços de Economia, como presidente;
 
@@ -157,11 +165,11 @@ e) O chefe da Brigada de Estudos Agronómicos de Timor;
 
 f) Um representante dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 6.º - 1. Os vogais do conselho administrativo, com excepção do presidente e vogal representante dos Serviços de Fazenda e Contabilidade, perceberão senhas de presença; ao presidente e ao vogal da Fazenda será atribuída uma gratificação mensal. O montante das senhas de presença e da gratificação será fixado em despacho do governador.
+Art. 6.º - 1. Os vogais do conselho administrativo, com excepção do presidente e vogal representante dos Serviços de Fazenda e Contabilidade, perceberão senhas de presença; ao presidente e ao vogal da Fazenda será atribuída uma gratificação mensal. O montante das senhas de presença e da gratificação será fixado em despacho do governador.
 
 2. As remunerações referidas no número antecedente serão acumuláveis com quaisquer outras que os vogais percebam pelo exercício de outras funções públicas, mas estão sujeitas aos limites fixados pelo artigo 155.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 7.º Ao conselho administrativo compete tomar as decisões e ordenar as providências tendentes ao bom desempenho das atribuições cometidas ao Fundo de Diversificação e Desenvolvimento nos termos do artigo 2.º, bem como as demais necessárias ao funcionamento deste, nomeadamente:
+Art. 7.º Ao conselho administrativo compete tomar as decisões e ordenar as providências tendentes ao bom desempenho das atribuições cometidas ao Fundo de Diversificação e Desenvolvimento nos termos do artigo 2.º, bem como as demais necessárias ao funcionamento deste, nomeadamente:
 
 a) Celebrar os contratos e praticar quaisquer outros actos jurídicos tendentes á realização dos respectivos fins;
 
@@ -171,13 +179,13 @@ c) Gerir as receitas do Fundo, aplicando-as aos encargos previstos no referido o
 
 d) Prestar contas da sua gerência ao Tribunal Administrativo, nos termos legais.
 
-###### Art. 8.º - 1. O conselho administrativo poderá rescindir os subsídios e empréstimos que sejam aplicados a fins diferentes daqueles para que foram concedidos ou que tenham sido transferidos para entidades diversas daquelas a quem foram atribuídos.
+Art. 8.º - 1. O conselho administrativo poderá rescindir os subsídios e empréstimos que sejam aplicados a fins diferentes daqueles para que foram concedidos ou que tenham sido transferidos para entidades diversas daquelas a quem foram atribuídos.
 
 2. Tal rescisão, uma vez aprovada pelo conselho administrativo, produz os seus efeitos por simples comunicação do Fundo à entidade a que o subsídio ou empréstimo fora concedido.
 
 3. Os responsáveis pelo acto que der causa à rescisão garantem, pessoal e solidàriamente, a restituição do subsídio ou empréstimo, sem prejuízo da responsabilidade por perdas e danos em que tenham incorrido.
 
-###### Art. 9.º - 1 A preparação e execução das deliberações do conselho administrativo serão asseguradas pelos Serviços de Economia de Timor, podendo servir de secretário (sem direito a voto) um funcionário de qualquer outro serviço provincial, designado por despacho do governador, que, pela sua aptidão ou especial qualificação, se recomende para assumir as funções de responsável pela contabilidade do Fundo de Diversificação e Desenvolvimento.
+Art. 9.º - 1 A preparação e execução das deliberações do conselho administrativo serão asseguradas pelos Serviços de Economia de Timor, podendo servir de secretário (sem direito a voto) um funcionário de qualquer outro serviço provincial, designado por despacho do governador, que, pela sua aptidão ou especial qualificação, se recomende para assumir as funções de responsável pela contabilidade do Fundo de Diversificação e Desenvolvimento.
 
 2. Poderá ainda ser admitido, por despacho do governador, outro pessoal em regime de assalariamento.
 
@@ -187,27 +195,27 @@ d) Prestar contas da sua gerência ao Tribunal Administrativo, nos termos legais
 
 5. Ao pessoal dos serviços provinciais que assegurar os serviços referidos no n.º 1 deste artigo será atribuída a gratificação mensal que, por despacho do governador, vier a ser fixada.
 
-###### Art. 10.º - 1. Para que o conselho administrativo possa deliberar é necessária a presença da maioria dos seus membros.
+Art. 10.º - 1. Para que o conselho administrativo possa deliberar é necessária a presença da maioria dos seus membros.
 
 2. As deliberações serão tomadas por maioria de votos dos presentes, tendo o presidente, ou quem as suas vezes fizer, voto de qualidade.
 
 3. Na falta ou impedimento do presidente, serão as respectivas funções exercidas por um dos vogais designado por despacho do governador.
 
-###### Art. 11.º - 1. As receitas do Fundo de Diversificação e Desenvolvimento serão depositadas no banco emissor da província, em conta especial, e o seu levantamento só poderá ser efectuado mediante a assinatura do presidente e de um dos vogais do conselho administrativo.
+Art. 11.º - 1. As receitas do Fundo de Diversificação e Desenvolvimento serão depositadas no banco emissor da província, em conta especial, e o seu levantamento só poderá ser efectuado mediante a assinatura do presidente e de um dos vogais do conselho administrativo.
 
 2. Todos os documentos relativos a levantamento de fundos, recebimentos e pagamentos serão assinados ou visados pelo presidente e um dos vogais do conselho administrativo.
 
-###### Art. 12.º - 1. Sob proposta do governador, o Ministro do Ultramar fixará, anualmente, em portaria, os quantitativos com que a província e os sectores privados interessados contribuirão, nos termos do artigo 4.º do presente decreto, para o Fundo de Diversificação e Desenvolvimento e para o Fundo de Fomento e de Propaganda do Café.
+Art. 12.º - 1. Sob proposta do governador, o Ministro do Ultramar fixará, anualmente, em portaria, os quantitativos com que a província e os sectores privados interessados contribuirão, nos termos do artigo 4.º do presente decreto, para o Fundo de Diversificação e Desenvolvimento e para o Fundo de Fomento e de Propaganda do Café.
 
 2. A regulamentação deste decreto será objecto de portarias do governador, a publicar oportunamente.
 
-###### Art. 13.º Este decreto entra imediatamente em vigor.
+Art. 13.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 25 de Julho de 1969.**
+Promulgado em 25 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

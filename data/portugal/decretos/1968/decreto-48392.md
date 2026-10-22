@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48392-1968-271670
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:22Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 48ffea27d3a7e87bbd073cd64350efa93b75aa344ff8d75a54f08742da8aad74
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7daac2fbeee59247aae84c72fb2b6b393d7d951f7ff415192982983f4cda8043
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:22Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:241049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535464:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:22Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Nos termos da base X, n.º III, alínea a), da Lei Orgânica do Ultramar Portugu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado na província de S. Tomé e Príncipe o Conselho Provincial de Fomento Agrário, órgão de consulta do Governo da província e de coordenação e orientação de todas as actividades regionais, públicas e privadas, que visem o aumento da produtividade da agricultura provincial.
+Artigo 1.º É criado na província de S. Tomé e Príncipe o Conselho Provincial de Fomento Agrário, órgão de consulta do Governo da província e de coordenação e orientação de todas as actividades regionais, públicas e privadas, que visem o aumento da produtividade da agricultura provincial.
 
-###### Art. 2.º Ao Conselho Provincial de Fomento Agrário incumbe:
+Art. 2.º Ao Conselho Provincial de Fomento Agrário incumbe:
 
 1.º Promover a inventariação do conhecimento no sector agronómico;
 
@@ -114,7 +122,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 8.º Dar o seu concurso, propondo, pronunciando-se e colaborando na realização de estudos e empreendimentos que visem o aumento da produtividade da agricultura provincial.
 
-###### Art. 3.º O Conselho, presidido pelo governador da província, terá como vice-presidente um dos vogais, designado pelo governador, e será constituído pelos seguintes membros:
+Art. 3.º O Conselho, presidido pelo governador da província, terá como vice-presidente um dos vogais, designado pelo governador, e será constituído pelos seguintes membros:
 
 Chefe da Repartição Provincial dos Serviços de Agricultura e Florestas;
 
@@ -130,7 +138,7 @@ Outras individualidades que o presidente julgue conveniente ouvir.
 
 § 2.º Durante as sessões do Conselho, os vogais poderão fazer-se acompanhar de assessores técnicos em número não superior a dois por vogal, devendo desse facto dar prévio conhecimento ao secretário do Conselho.
 
-###### Art. 4.º A actividade do Conselho processar-se-á mediante duas modalidades:
+Art. 4.º A actividade do Conselho processar-se-á mediante duas modalidades:
 
 1.º Grupos de trabalho, de carácter transitório ou permanente, destinados à realização de estudos e tarefas recomendados pelo Conselho;
 
@@ -146,17 +154,17 @@ d) Tomar conhecimento dos programas de investigação agronómica, sugerindo os 
 
 e) Tomar conhecimento dos relatórios das actividades de investigação agronómica.
 
-###### Art. 5.º Os grupos de trabalho serão constituídos por individualidades pertencentes ou não ao Conselho e escolhidos de acordo com a sua competência na matéria.
+Art. 5.º Os grupos de trabalho serão constituídos por individualidades pertencentes ou não ao Conselho e escolhidos de acordo com a sua competência na matéria.
 
-###### Art. 6.º O Conselho, além das reuniões extraordinárias convocadas por iniciativa do presidente ou propostas pela maioria dos vogais, reunirá obrigatòriamente em Agosto ou Setembro de cada ano, para apreciar os relatórios das actividades do ano anterior e os programas de trabalho para o ano seguinte.
+Art. 6.º O Conselho, além das reuniões extraordinárias convocadas por iniciativa do presidente ou propostas pela maioria dos vogais, reunirá obrigatòriamente em Agosto ou Setembro de cada ano, para apreciar os relatórios das actividades do ano anterior e os programas de trabalho para o ano seguinte.
 
-###### Art. 7.º Da execução do presente diploma não poderá resultar aumento de encargos com o pessoal.
+Art. 7.º Da execução do presente diploma não poderá resultar aumento de encargos com o pessoal.
 
-###### Art. 8.º Enquanto não for criada na província de S. Tomé e Príncipe, em conformidade com o disposto no [Decreto n.º 48198](https://diariodarepublica.pt/dr/detalhe/decreto/48198-1968-241049), de 11 de Janeiro de 1968, a Repartição Provincial dos Serviços de Agricultura e Florestas, serão estes serviços substituídos, para todos os efeitos, pela Brigada de Fomento Agro-Pecuário, criada com carácter transitório pela [Portaria n.º 20927](https://diariodarepublica.pt/dr/detalhe/portaria/20927-1964-535464), de 24 de Novembro de 1964, devendo, entretanto, ser entendida qualquer referência àquela Repartição como tendo sido feita a esta Brigada.
+Art. 8.º Enquanto não for criada na província de S. Tomé e Príncipe, em conformidade com o disposto no [Decreto n.º 48198](https://diariodarepublica.pt/dr/detalhe/decreto/48198-1968-241049), de 11 de Janeiro de 1968, a Repartição Provincial dos Serviços de Agricultura e Florestas, serão estes serviços substituídos, para todos os efeitos, pela Brigada de Fomento Agro-Pecuário, criada com carácter transitório pela [Portaria n.º 20927](https://diariodarepublica.pt/dr/detalhe/portaria/20927-1964-535464), de 24 de Novembro de 1964, devendo, entretanto, ser entendida qualquer referência àquela Repartição como tendo sido feita a esta Brigada.
 
-###### Art. 9.º O governador da província regulamentará em portaria a execução deste diploma.
+Art. 9.º O governador da província regulamentará em portaria a execução deste diploma.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

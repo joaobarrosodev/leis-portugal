@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49120-1969-199429
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc8a129dbdb000816bc2cff4dfdf453a5b6f64e68e0a82fe2b8f83cfdaabcda6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8f4bc0a3d0d0efc0919486b70540f0464e128ca766ebe73daa73410b07084ead
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,39 @@ relationships:
   target: pt:dre:674029:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:140554:por
+  label: "Alterado o nº1 do art. 1º e os arts. 4º, 13º e 14º pelo DEC LEI.303/70.29.06.1970.MEN, DG.IS [149] de 29.06.1970\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/303-1970-140554
+  date: '1970-06-29'
+- type: amended_by
+  target: pt:dre:674029:por
+  label: "Alterado o art. 3º pelo DEC LEI.200/72.17.06.1972.MEN, DG.IS [140] de 17.06.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/200-1972-674029
+  date: '1972-06-17'
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479220:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:15Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +119,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Os reitores dos liceus, os directores das escolas de ensino técnico profissional e do ciclo preparatório do ensino secundário indicarão até 15 de Julho de cada ano às respectivas Direcções-Gerais e Direcção de Serviços os professores eventuais que, tendo prestado serviço no ano lectivo findo, podem ser reconduzidos no ano seguinte.
+Artigo 1.º - 1. Os reitores dos liceus, os directores das escolas de ensino técnico profissional e do ciclo preparatório do ensino secundário indicarão até 15 de Julho de cada ano às respectivas Direcções-Gerais e Direcção de Serviços os professores eventuais que, tendo prestado serviço no ano lectivo findo, podem ser reconduzidos no ano seguinte.
 
 2. A recondução só é aplicável a professores com habilitação académica que permita o ingresso nos estágios pedagógicos ou nos quadros do ensino oficial e os reitores e directores de escolas deverão atender ao nível de habilitações académicas e ao tempo e qualidade do serviço prestado.
 
@@ -104,13 +127,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. A recondução de professores eventuais nunca poderá fazer-se em prejuízo de professores diplomados com o Exame de Estado, os quais deverão indicar até 1 de Julho à respectiva direcção-geral ou Direcção de Serviços, por ordem de preferência, os estabelecimentos em que desejem ser colocados, e a mesma Direcção informará os directores dos estabelecimentos interessados até 10 daquele mês.
 
-###### Art. 2.º - 1. Para efeito do disposto no artigo anterior, os professores, consultados pelo director do estabelecimento de ensino, deverão declarar, por escrito, se aceitam a recondução, e, neste caso, ficam inibidos de concorrer a qualquer outro estabelecimento.
+Art. 2.º - 1. Para efeito do disposto no artigo anterior, os professores, consultados pelo director do estabelecimento de ensino, deverão declarar, por escrito, se aceitam a recondução, e, neste caso, ficam inibidos de concorrer a qualquer outro estabelecimento.
 
 2. Os professores que tenham aceitado a recondução nos termos deste artigo e não compareçam ao serviço ou o abandonem em qualquer altura do ano, sem motivo devidamente justificado e como tal reconhecido por despacho ministerial, não poderão voltar a ser nomeados para qualquer dos estabelecimentos a que se refere este diploma no mesmo ano escolar e no seguinte.
 
-###### Art. 3.º Os candidatos a professores eventuais não abrangidos pelas disposições anteriores serão recrutados mediante concurso, que decorrerá anualmente de 15 a 31 de Julho.
+Art. 3.º Os candidatos a professores eventuais não abrangidos pelas disposições anteriores serão recrutados mediante concurso, que decorrerá anualmente de 15 a 31 de Julho.
 
-###### Art. 4.º - 1. Cada concorrente apresentará na direcção-geral ou Direcção de Serviços correspondente ao ensino a que der preferência um requerimento único, em papel selado, dirigido ao Ministro, no qual solicitará a nomeação para um ou mais dos ensinos.
+Art. 4.º - 1. Cada concorrente apresentará na direcção-geral ou Direcção de Serviços correspondente ao ensino a que der preferência um requerimento único, em papel selado, dirigido ao Ministro, no qual solicitará a nomeação para um ou mais dos ensinos.
 
 2. O concorrente juntará ao requerimento, além da declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarepublica.pt/dr/detalhe/decreto-lei/27003-1936-363715), boletins de modelo oficial, de cores diferentes para cada ensino, que numerará de 1 a 3, por ordem decrescente de preferência, e em cada um deles indicará, também por ordem decrescente de preferência, os estabelecimentos onde deseja ser colocado.
 
@@ -124,7 +147,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 7. Sobre cada boletim será aposto o selo fiscal de 6$00.
 
-###### Art. 5.º - 1. Cada um dos serviços fará, com urgência, nos respectivos boletins, uma classificação provisória dos concorrentes com base nos elementos exclusivamente relativos ao respectivo ensino.
+Art. 5.º - 1. Cada um dos serviços fará, com urgência, nos respectivos boletins, uma classificação provisória dos concorrentes com base nos elementos exclusivamente relativos ao respectivo ensino.
 
 2. Para efeito do disposto no número anterior, deverão os serviços competentes confirmar as habilitações de cada concorrente e exarar no respectivo boletim a sua classificação académica e a valorização do tempo de serviço prestado, com indicação do número de dias que não hajam interferido no cálculo dessa valorização.
 
@@ -132,7 +155,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 4. Concluída a classificação provisória, os boletins serão remetidos à comissão central a que se refere o artigo 14.º, a qual procederá à classificação definitiva dos candidatos nos termos dos artigos 6.º a 13.º
 
-###### Art. 6.º - 1. Os concorrentes ao magistério dos diferentes grupos serão escalonados pela seguinte ordem de preferência:
+Art. 6.º - 1. Os concorrentes ao magistério dos diferentes grupos serão escalonados pela seguinte ordem de preferência:
 
 1.º Candidatos com estágio completo, embora sem Exame de Estado;
 
@@ -154,7 +177,7 @@ c) Diplomados com os cursos de Pintura e de Escultura.
 
 4. No ciclo preparatório do ensino secundário poderão também ser admitidos candidatos com outras habilitações que permitam o ingresso no estágio.
 
-###### Art. 7.º Os concorrentes a professores de Trabalhos Manuais do ciclo preparatório do ensino secundário serão escalonados pela seguinte ordem de preferência:
+Art. 7.º Os concorrentes a professores de Trabalhos Manuais do ciclo preparatório do ensino secundário serão escalonados pela seguinte ordem de preferência:
 
 1.º Candidatos aprovados em concursos de habilitação para mestres de Trabalhos Manuais do ensino técnico profissional ou para professores de Lavores Femininos do ensino liceal;
 
@@ -166,7 +189,7 @@ a) Cursos das escolas de artes decorativas;
 
 b) Cursos de formação industrial, excepto os de auxiliar de laboratório químico e de ajudante de farmácia; antigo curso especial de Educação Familiar.
 
-###### Art. 8.º Os concorrentes ao magistério das disciplinas de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos serão escalonados pela seguinte ordem de preferência:
+Art. 8.º Os concorrentes ao magistério das disciplinas de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos serão escalonados pela seguinte ordem de preferência:
 
 A) Educação Física:
 
@@ -202,11 +225,11 @@ C) Lavores Femininos:
 
 6.º Outras habilitações consideradas adequadas.
 
-###### Art. 9.º A graduação dos concorrentes será feita nos termos dos artigos 6.º a 8.º e, dentro de cada escalão, por ordem decrescente de classificação profissional.
+Art. 9.º A graduação dos concorrentes será feita nos termos dos artigos 6.º a 8.º e, dentro de cada escalão, por ordem decrescente de classificação profissional.
 
-###### Art. 10.º A classificação profissional dos candidatos é a soma da classificação das suas habilitações legais com a valorização do tempo de serviço prestado em qualquer dos ensinos a que se refere este diploma.
+Art. 10.º A classificação profissional dos candidatos é a soma da classificação das suas habilitações legais com a valorização do tempo de serviço prestado em qualquer dos ensinos a que se refere este diploma.
 
-###### Art. 11.º - 1. A classificação das habilitações legais é a seguinte:
+Art. 11.º - 1. A classificação das habilitações legais é a seguinte:
 
 a) Para os candidatos com estágio completo, embora sem Exame de Estado, a média do estágio;
 
@@ -240,11 +263,11 @@ d) Habilitados com exame do último ano do curso superior de Música, a classifi
 
 As classificações obtidas em concurso de habilitação ou a indicada no diploma do curso.
 
-###### Art. 12.º - 1. A valorização do tempo de serviço é de 0,5 valor por cada ano de serviço docente classificado de Bom até ao limite de vinte anos, considerando-se como ano de serviço cada total de trezentos e catorze dias exercidos seguida ou interpoladamente.
+Art. 12.º - 1. A valorização do tempo de serviço é de 0,5 valor por cada ano de serviço docente classificado de Bom até ao limite de vinte anos, considerando-se como ano de serviço cada total de trezentos e catorze dias exercidos seguida ou interpoladamente.
 
 2. Os candidatos cujo serviço docente tenha sido classificado de Deficiente não poderão ser colocados nos dois anos que se seguirem à atribuição dessa classificação.
 
-###### Art. 13.º - 1. Dentro de cada escalão, referido nos artigos 6.º a 8.º, são condições de preferência os bons serviços prestadas à Mocidade Portuguesa ou aos centros de actividades circum-escolares, nos termos do n.º 3 do artigo 52.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, aplicável à Mocidade Portuguesa Feminina por força do artigo 62.º do mesmo diploma.
+Art. 13.º - 1. Dentro de cada escalão, referido nos artigos 6.º a 8.º, são condições de preferência os bons serviços prestadas à Mocidade Portuguesa ou aos centros de actividades circum-escolares, nos termos do n.º 3 do artigo 52.º do [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, aplicável à Mocidade Portuguesa Feminina por força do artigo 62.º do mesmo diploma.
 
 2. Em igualdade de classificação profissional constituem condições de preferência:
 
@@ -256,7 +279,7 @@ c) Mais idade.
 
 3. Para os agentes de ensino de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos constitui condição de preferência, graduada em primeiro lugar, o bom aproveitamento registado em cursos de aperfeiçoamento promovidos ou reconhecidos pelo Ministério.
 
-###### Art. 14.º - 1. Para efeito de distribuição dos concorrentes pelos vários estabelecimentos de ensino funcionará no Ministério da Educação Nacional uma comissão central de colocações, designada anualmente pelo Ministro, constituída por dois representantes da Mocidade Portuguesa, três representantes da Mocidade Portuguesa Feminina e dois por cada uma das Direcções-Gerais dos Ensino Liceal e Técnico Profissional e da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, à qual poderão ser agregados os funcionários que o serviço exigir.
+Art. 14.º - 1. Para efeito de distribuição dos concorrentes pelos vários estabelecimentos de ensino funcionará no Ministério da Educação Nacional uma comissão central de colocações, designada anualmente pelo Ministro, constituída por dois representantes da Mocidade Portuguesa, três representantes da Mocidade Portuguesa Feminina e dois por cada uma das Direcções-Gerais dos Ensino Liceal e Técnico Profissional e da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, à qual poderão ser agregados os funcionários que o serviço exigir.
 
 2. Na classificação definitiva e distribuição dos candidatos a professores eventuais de Educação Física, Canto Coral ou Educação Musical e Lavores Femininos intervêm os representantes das Organizações Nacionais Mocidade Portuguesa e Mocidade Portuguesa Feminina e um representante por cada uma das Direcções-Gerais e Direcção de Serviços referidas no n.º 1.
 
@@ -264,52 +287,52 @@ c) Mais idade.
 
 4. A distribuição dos candidatos pelos estabelecimentos de ensino a que hajam concorrido pode ser feita sem a intervenção da comissão central nos grupos em que a natureza da habilitação legal exclua a admissão a mais de um ensino.
 
-###### Art. 15.º Até 31 de Agosto, independentemente de publicação no Diário do Governo, serão afixadas as listas dos concorrentes, ordenadas por grupos ou disciplinas e por classificações, nas sedes dos Comissariados Nacionais da Mocidade Portuguesa e Mocidade Portuguesa Feminina, das Direcções-Gerais e Direcção de Serviços ou em estabelecimentos por estas designados; e fora de Lisboa serão também afixadas as listas em, pelo menos, um estabelecimento de cada localidade onde exista ensino secundário oficial.
+Art. 15.º Até 31 de Agosto, independentemente de publicação no Diário do Governo, serão afixadas as listas dos concorrentes, ordenadas por grupos ou disciplinas e por classificações, nas sedes dos Comissariados Nacionais da Mocidade Portuguesa e Mocidade Portuguesa Feminina, das Direcções-Gerais e Direcção de Serviços ou em estabelecimentos por estas designados; e fora de Lisboa serão também afixadas as listas em, pelo menos, um estabelecimento de cada localidade onde exista ensino secundário oficial.
 
-###### Art. 16.º - 1. Até à data indicada no artigo anterior os directores de estabelecimentos de ensino comunicarão à respectiva direcção-geral ou Direcção de Serviços o número de professores de cada grupo necessários para o ano seguinte, além dos já reconduzidos.
+Art. 16.º - 1. Até à data indicada no artigo anterior os directores de estabelecimentos de ensino comunicarão à respectiva direcção-geral ou Direcção de Serviços o número de professores de cada grupo necessários para o ano seguinte, além dos já reconduzidos.
 
 2. Na organização do serviço docente ter-se-á sempre em vista a constituição de horários completos e, para os casos em que esta norma não possa ser respeitada, será apresentada justificação e também o número de horas atribuídas a cada professor requisitado.
 
-###### Art. 17.º - 1. Até 5 de Setembro seguinte podem os concorrentes recorrer da classificação atribuída ou desistir do concurso, mediante requerimento fundamentado ao Ministro.
+Art. 17.º - 1. Até 5 de Setembro seguinte podem os concorrentes recorrer da classificação atribuída ou desistir do concurso, mediante requerimento fundamentado ao Ministro.
 
 2. A falta de comunicação da desistência, dentro do prazo, implicará a impossibilidade de admissão ao concurso do ano imediato.
 
-###### Art. 18.º Julgados os recursos e homologada por despacho ministerial a graduação definitiva dos candidatos, a comissão central remeterá a cada direcção-geral ou Direcção de Serviços a lista da distribuição dos professores a colocar.
+Art. 18.º Julgados os recursos e homologada por despacho ministerial a graduação definitiva dos candidatos, a comissão central remeterá a cada direcção-geral ou Direcção de Serviços a lista da distribuição dos professores a colocar.
 
-###### Art. 19.º - 1. As Direcções-Gerais e Direcção de Serviços notificarão os candidatos dos lugares que lhes foram destinados e farão a devida comunicação aos directores dos respectivos estabelecimentos de ensino.
+Art. 19.º - 1. As Direcções-Gerais e Direcção de Serviços notificarão os candidatos dos lugares que lhes foram destinados e farão a devida comunicação aos directores dos respectivos estabelecimentos de ensino.
 
 2. O candidato notificado tem o prazo de cinco dias, a contar da data da notificação, para declarar se aceita ou não o lugar, endereçando ao director do estabelecimento onde vai ser colocado o telegrama que acompanha a notificação. À falta de resposta no prazo indicado ou à não aceitação sem justificação superiormente reconhecida é aplicável o disposto no n.º 2 do artigo 17.º deste diploma.
 
 3. Findo o prazo fixado no número antecedente, os directores dos estabelecimentos de ensino comunicarão às respectivas direcções os casos de não aceitação do serviço.
 
-###### Art. 20.º De 17 a 23 de Setembro a comissão central distribuirá os candidatos ainda não colocados pelos lugares que se encontrem vagos.
+Art. 20.º De 17 a 23 de Setembro a comissão central distribuirá os candidatos ainda não colocados pelos lugares que se encontrem vagos.
 
-###### Art. 21.º Os candidatos com habilitações diferentes das referidas nos artigos 6.º a 8.º e aqueles que, possuindo-as, não hajam concorrido poderão, para os efeitos previstos no artigo 22.º, requerer a sua admissão aos directores dos estabelecimentos de ensino onde desejem prestar serviço.
+Art. 21.º Os candidatos com habilitações diferentes das referidas nos artigos 6.º a 8.º e aqueles que, possuindo-as, não hajam concorrido poderão, para os efeitos previstos no artigo 22.º, requerer a sua admissão aos directores dos estabelecimentos de ensino onde desejem prestar serviço.
 
-###### Art. 22.º - 1. Se no dia 25 de Setembro ainda houver lugares por preencher, os directores dos estabelecimentos de ensino devem propor imediatamente professores idóneos para as vagas ainda existentes.
+Art. 22.º - 1. Se no dia 25 de Setembro ainda houver lugares por preencher, os directores dos estabelecimentos de ensino devem propor imediatamente professores idóneos para as vagas ainda existentes.
 
 2. A indicação, nos termos do número anterior, de candidatos às vagas de Educação Física, Canto Coral, Educação Musical e Lavores Femininos será dirigida aos Comissariados Nacionais da Mocidade Portuguesa e Mocidade Portuguesa Feminina.
 
-###### Art. 23.º O provimento dos professores a que se refere o presente decreto considera-se sempre feito por conveniência urgente de serviço público, com direito à remuneração legal desde o dia da entrada em exercício.
+Art. 23.º O provimento dos professores a que se refere o presente decreto considera-se sempre feito por conveniência urgente de serviço público, com direito à remuneração legal desde o dia da entrada em exercício.
 
-###### Art. 24.º - 1. No caso de um professor colocado ao abrigo deste diploma ser obrigado a deixar o serviço, por o lugar que desempenha ter de ser ocupado por professor do quadro ou por outro motivo legal, a comissão central, se o interessado o solicitar, diligenciará por colocá-lo em outro estabelecimento de qualquer dos três ramos de ensino da mesma ou de outra localidade.
+Art. 24.º - 1. No caso de um professor colocado ao abrigo deste diploma ser obrigado a deixar o serviço, por o lugar que desempenha ter de ser ocupado por professor do quadro ou por outro motivo legal, a comissão central, se o interessado o solicitar, diligenciará por colocá-lo em outro estabelecimento de qualquer dos três ramos de ensino da mesma ou de outra localidade.
 
 2. Para efeito do disposto no número anterior, a comissão central reunirá extraordinàriamente sempre que for necessário.
 
-###### Art. 25.º O boletim a que se refere o n.º 2 do artigo 4.º é exclusivo da Imprensa Nacional de Lisboa.
+Art. 25.º O boletim a que se refere o n.º 2 do artigo 4.º é exclusivo da Imprensa Nacional de Lisboa.
 
-###### Art. 26.º Mantêm-se em vigor as disposições legais respeitantes ao recrutamento de professores eventuais em tudo o que não contrarie as disposições do presente diploma.
+Art. 26.º Mantêm-se em vigor as disposições legais respeitantes ao recrutamento de professores eventuais em tudo o que não contrarie as disposições do presente diploma.
 
-###### Art. 27.º Os casos omissos ou quaisquer dúvidas suscitadas na aplicação das disposições deste decreto serão resolvidos por despacho ministerial.
+Art. 27.º Os casos omissos ou quaisquer dúvidas suscitadas na aplicação das disposições deste decreto serão resolvidos por despacho ministerial.
 
 Marcello Caetano - José Hermano Saraiva.
 
-**Promulgado em 4 de Julho de 1969.**
+Promulgado em 4 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/07/16300/08350838.pdf))](https://files.diariodarepublica.pt/1s/1969/07/16300/08350838.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/07/16300/08350838.pdf)
 
 Ministério da Educação Nacional, 4 de Julho de 1969. - O Ministro da Educação Nacional, José Hermano Saraiva.

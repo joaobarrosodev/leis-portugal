@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48428-1968-272390
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:49Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 413159cfc7a7e8a96cb062e0541ddb8b1d35ac36849f9c21859a5893e9c0e4fc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc78d7f7428fa5b447d85ecf947d1b6aa5f35831208d4c501d1a2b122e2c3bec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:49Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:49Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +101,14 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, a celebrar com Construções Civis Jamar, Lda., escritura para a aquisição de um prédio sito na Rua de Santa Marta, 55 a 59, da cidade de Lisboa, pela importância de 32500000$00. Esta importância poderá ser acrescida da que se apurar relativamente a encargos e obras imprevistas, conforme estipulado na referida escritura, ate ao limite de 33000000$00.
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 6.º do [Decreto-Lei n.º 48234](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48234-1968-233363), de 31 de Janeiro de 1968, a celebrar com Construções Civis Jamar, Lda., escritura para a aquisição de um prédio sito na Rua de Santa Marta, 55 a 59, da cidade de Lisboa, pela importância de 32500000$00. Esta importância poderá ser acrescida da que se apurar relativamente a encargos e obras imprevistas, conforme estipulado na referida escritura, ate ao limite de 33000000$00.
 
-###### Art. 2.º O pagamento será efectuado em três prestações, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender em cada ano económico mais do que as importâncias a seguir indicadas:
+Art. 2.º O pagamento será efectuado em três prestações, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender em cada ano económico mais do que as importâncias a seguir indicadas:
 
 Em 1968 - 16500000$00.
 
 Em 1969 - 16500000$00.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da Republica, 11 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

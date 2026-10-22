@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48991-1969-201645
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4ca260e7ee9c9f7262ed1ee5bbde17e217516434659528797c4252e8d3b05f59
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d7b79ff7a1bdb078c188a0813296f935a6cfa648d25e223851845b55820ad13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:17Z'
   warnings: []
   errors: []
 ---
@@ -96,27 +96,27 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As mercadorias importadas nos territórios portugueses da Bacia Convencional do Zaire, com excepção do distrito de Cabinda, seja qual for a sua origem ou procedência, ficam sujeitas aos direitos consignados na pauta mínima de importação.
+Artigo 1.º As mercadorias importadas nos territórios portugueses da Bacia Convencional do Zaire, com excepção do distrito de Cabinda, seja qual for a sua origem ou procedência, ficam sujeitas aos direitos consignados na pauta mínima de importação.
 
-###### Art. 2.º A importação e a exportação de mercadorias no distrito de Cabinda, qualquer que seja a sua origem, procedência ou destino, requeridas por firmas ali domiciliadas ou entidades legalmente habilitadas a importar ou exportar, estarão apenas sujeitas ao regime aduaneiro estabelecido pelo presente decreto.
+Art. 2.º A importação e a exportação de mercadorias no distrito de Cabinda, qualquer que seja a sua origem, procedência ou destino, requeridas por firmas ali domiciliadas ou entidades legalmente habilitadas a importar ou exportar, estarão apenas sujeitas ao regime aduaneiro estabelecido pelo presente decreto.
 
 § único. Excluem-se deste regime os veículos automóveis, ligeiros ou pesados, de qualquer tipo ou medida, e os artigos de ourivesaria e relojoaria classificados pelas subposições 71.16.01 a 71.16.03 e 91.01.01 a. 91.01.07, os quais serão passíveis dos direitos constantes da pauta mínima.
 
-###### Art. 3.º A importação de mercadorias sujeitas ao regime especial aduaneiro criado nos termos da artigo 2.º será passível apenas da taxa de 1 por mil ad valorem e da sobretaxa de 3,5 por cento ad valorem, ficando isenta do pagamento da taxa de emolumentos gerais aduaneiros.
+Art. 3.º A importação de mercadorias sujeitas ao regime especial aduaneiro criado nos termos da artigo 2.º será passível apenas da taxa de 1 por mil ad valorem e da sobretaxa de 3,5 por cento ad valorem, ficando isenta do pagamento da taxa de emolumentos gerais aduaneiros.
 
 § único. Com excepção das bebidas alcoólicas, incluindo a cerveja, que ficam sujeitas aos direitos da pauta mínima, são isentos do pagamento de quaisquer imposições e taxas os produtos alimentares, entrados pela fronteira terrestre, trazidos dos países limítrofes de Cabinda para consumo das populações que habitem ao longo das fronteiras ou para permuta entre povos vizinhos, nas condições a estabelecer pelo Governo-Geral de Angola.
 
-###### Art. 4.º As mercadorias nacionalizadas ao abrigo do artigo 3.º não poderão sair do território do distrito com destino ao restante território da província sem autorização prévia da autoridade competente e sem que se encontrem pagos ou caucionados os valores correspondentes às diferenças dos direitos e outras imposições e taxas em vigor nos dois territórios no momento em que são deslocadas.
+Art. 4.º As mercadorias nacionalizadas ao abrigo do artigo 3.º não poderão sair do território do distrito com destino ao restante território da província sem autorização prévia da autoridade competente e sem que se encontrem pagos ou caucionados os valores correspondentes às diferenças dos direitos e outras imposições e taxas em vigor nos dois territórios no momento em que são deslocadas.
 
-###### Art. 5.º A exportação de mercadorias originárias do distrito ou nele nacionalizadas, qualquer que seja o seu destino, é passível da taxa de 1 por cento ad valorem e da sobretaxa de 2 por cento ad valorem.
+Art. 5.º A exportação de mercadorias originárias do distrito ou nele nacionalizadas, qualquer que seja o seu destino, é passível da taxa de 1 por cento ad valorem e da sobretaxa de 2 por cento ad valorem.
 
 § único. São isentos do pagamento de quaisquer imposições e taxas os produtos alimentares saídos pela fronteira terrestre para os países vizinhos.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 25 de Abril de 1969.**
+Promulgado em 25 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

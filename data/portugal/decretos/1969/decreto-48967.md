@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48967-1969-525643
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cadff62e499823fb5c554977273f20f951c5a3416c8c5b3412e70dbb1db9a941
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c4ccb99eaa808ba7a5c2774ceae0b53cbe6cabf8883b5e3afeff91d0464dc6f8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:398776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:398776:por
+  label: "Revogado, relativamente à província de Angola, pelo DEC LEI.76/72.07.03.1972.MU, DG.IS [56] de 07.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1972-398776
+  date: '1972-03-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:03Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +98,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São aumentados ao quadro do pessoal dos quadros aprovados por lei, pessoal técnico auxiliar, aprovado pelo Diploma Legislativo n.º 3437, de 25 de Janeiro de 1964, os seguintes lugares de bombeiro:
+Artigo 1.º São aumentados ao quadro do pessoal dos quadros aprovados por lei, pessoal técnico auxiliar, aprovado pelo Diploma Legislativo n.º 3437, de 25 de Janeiro de 1964, os seguintes lugares de bombeiro:
 
 1 bombeiro de 1.ª classe.
 
@@ -101,13 +106,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4 bombeiros de 3.ª classe.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor.
+Art. 2.º O presente diploma entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 7 de Abril de 1969.**
+Promulgado em 7 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 15 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

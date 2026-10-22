@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49182-1969-198761
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-01-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 646443a760fd951de640abf0fa7c863c21f09e8e8f4ef0cc2f0bcc6af36567da
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a11ef1d04075fdf9e546e9a2e0198ba4622d9832c5a073993cd48048b3822099
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:46Z'
   warnings: []
   errors: []
 ---
@@ -93,25 +93,25 @@ Por motivo de urgência, ao abrigo do disposto no § 1.º do artigo 150.º da Co
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os professores ordinários dos institutos de ensino médio, industrial e comercial, têm as categorias H, G e F, respectivamente, com menos de dez, dez a vinte e mais de vinte anos de serviço.
+Artigo 1.º Os professores ordinários dos institutos de ensino médio, industrial e comercial, têm as categorias H, G e F, respectivamente, com menos de dez, dez a vinte e mais de vinte anos de serviço.
 
-###### Art. 2.º Na falta de professores ordinários nos institutos, podem os governadores nomear professores eventuais, cujos vencimentos serão calculados proporcionalmente ao número de horas semanais de serviço prestado, tomando como base o vencimento dos professores sem diuturnidade e o número de horas semanais de serviço docente a estes exigido.
+Art. 2.º Na falta de professores ordinários nos institutos, podem os governadores nomear professores eventuais, cujos vencimentos serão calculados proporcionalmente ao número de horas semanais de serviço prestado, tomando como base o vencimento dos professores sem diuturnidade e o número de horas semanais de serviço docente a estes exigido.
 
-###### Art. 3.º Os professores que exerçam as funções de directores de laboratórios, trabalhos gráficos, escritórios comerciais e oficinas terão direito à gratificação mensal de 1000$00.
+Art. 3.º Os professores que exerçam as funções de directores de laboratórios, trabalhos gráficos, escritórios comerciais e oficinas terão direito à gratificação mensal de 1000$00.
 
-###### Art. 4.º - 1. Cada instituto terá um director, a que será atribuída a categoria da letra F, escolhido pelo governador-geral de entre os professores ordinários.
+Art. 4.º - 1. Cada instituto terá um director, a que será atribuída a categoria da letra F, escolhido pelo governador-geral de entre os professores ordinários.
 
 2. O lugar de director é exercido em comissão, correspondendo-lhe a gratificação mensal de 2500$00.
 
-###### Art. 5.º Ficam os órgãos legislativos das províncias de Angola e Moçambique autorizados a criar os lugares de secretaria necessários ao funcionamento da secretaria dos institutos, os quais serão preenchidos de acordo com as necessidades.
+Art. 5.º Ficam os órgãos legislativos das províncias de Angola e Moçambique autorizados a criar os lugares de secretaria necessários ao funcionamento da secretaria dos institutos, os quais serão preenchidos de acordo com as necessidades.
 
-###### Art. 6.º Ficam os governadores-gerais autorizados a abrir, observadas as disposições legais aplicáveis, os créditos necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 6.º Ficam os governadores-gerais autorizados a abrir, observadas as disposições legais aplicáveis, os créditos necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 30 de Julho de 1969.**
+Promulgado em 30 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 11 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

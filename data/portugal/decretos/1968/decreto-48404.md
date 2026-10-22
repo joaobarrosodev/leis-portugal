@@ -19,7 +19,7 @@ publication:
   reference: Diário do Governo n.º 127/1968, 1º Suplemento, Série I de 1968-05-28
   number: '127'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 777 - 832
   pdf_url: https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf
 entry_into_force_dates: []
@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48404-1968-298420
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e37d0f53e7ed701b6b67ab43e6c93fddadae878db10d46c02786e842ae43d013
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b7cfebc9e1a54c672c582e6a8f6745c7d048067983ff0680c4cc22016978c511
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:148782:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 2
+  section_count: 6
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:31Z'
   warnings: []
   errors: []
 ---
@@ -84,11 +88,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovada a revisão parcial do Regulamento das Radiocomunicações de Genebra (1959).
+Artigo único. É aprovada a revisão parcial do Regulamento das Radiocomunicações de Genebra (1959).
 
 Essa revisão, que segue em anexo ao presente decreto e dele faz parte integrante, foi assinada em Genebra em 29 de Abril de 1966 e altera o referido Regulamento das Radiocomunicações, aprovado pelo [Decreto n.º 45205](https://diariodarepublica.pt/dr/detalhe/decreto/45205-1963-148782), de 21 de Agosto de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira - Carlos Gomes da Silva Ribeiro.
 
@@ -398,7 +402,7 @@ ABREVIATURAS
 
 Utilizam-se no anexo I as seguintes abreviaturas, para caracterizar a natureza das emendas efectuadas quando da revisão parcial do Regulamento das Radiocomunicações.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 Nota. - Se uma modificação afecta apenas a redacção de um número sem alterar o fundo, utiliza-se MOD.
 
@@ -462,7 +466,7 @@ Esta lista contém:
 
 MOD 793 c) As adjudicações que figuram nos planos de adjudicação que constituem os apêndices 25, 26 e 27.
 
-## APÊNDICE 1
+APÊNDICE 1
 
 O parágrafo 3 das «informações suplementares» do n.º II, da secção E do apêndice 1 ao Regulamento das Radiocomunicações é substituído pelo texto seguinte:
 
@@ -472,7 +476,7 @@ MOD 3. Indicar a ou as frequências de referência sempre que determinada emiss�
 
 O novo apêndice seguinte [apêndice 27, Genebra (1966)] é adicionado ao Regulamento de Radiocomunicações de Genebra (1959), em seguida ao apêndice 26, e substitui as disposições do apêndice 26 relativas ao serviço móvel aeronáutico (R).
 
-## APÊNDICE 27
+APÊNDICE 27
 
 ao Regulamento das Radiocomunicações de Genebra (1959)
 
@@ -480,7 +484,7 @@ Plano de adjudicação de frequências ao serviço móvel aeronáutico (R) e inf
 
 [Ver o artigo 7 do Regulamento das Radiocomunicações de Genebra (1959)]
 
-# PARTE I — Disposições gerais
+## PARTE I — Disposições gerais
 
 #### SECÇÃO 1 — Definições
 
@@ -490,7 +494,7 @@ Plano de adjudicação de frequências ao serviço móvel aeronáutico (R) e inf
 
 27/2 2. Significação da terminologia empregada no presente apêndice para os diferentes métodos de repartição de frequências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/3 3. Uma linha aérea mundial principal é uma linha de grande comprimento, compreendendo um ou vários troços, cujo carácter é essencialmente internacional, que se estende por vários países e exige comunicações a grande distância.
 
@@ -516,7 +520,7 @@ A. Determinação da largura das vias
 
 27/10 Os espaçamentos entre frequências indicados no quadro seguinte são suficientes para permitir o emprego de sistemas de comunicação que utilizam as classes de emissão referidas nos n.os 27/49 a 27/53.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/11 a) Supõe-se que, para as emissões radiotelefónicas, as frequências de modulação têm por limite superior 3000 Hz e que, para as outras classes de emissão autorizadas, a largura de faixa ocupada não ultrapassa a das emissões de classe A3.
 
@@ -534,7 +538,7 @@ A. Determinação da largura das vias
 
 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 3. Vias comuns aos serviços (R) e (OR):
 
@@ -578,7 +582,7 @@ B. Curvas de alcance da interferência
 
 27/30 4.1 As curvas foram elaboradas nas condições seguintes de partilha das frequências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/31 4.2 Curvas suplementares permitem determinar as possibilidades de repetição das frequências das faixas dos 3 MHz, 3,5 MHz e 4,7 MHz para utilização diurna.
 
@@ -604,61 +608,61 @@ B. Curvas de alcance da interferência
 
 3 e 3,5 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/40 Elementos para o traçado das curvas de interferência a 3500 km:
 
 3 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/41 Elementos para o traçado das curvas de interferência a 4000 km:
 
 3,5 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/42 Elementos para o traçado das curvas de interferência a 1200 km:
 
 4,7 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/43 Elementos para o traçado das curvas de interferência a 5500 km:
 
 4,7 MHz, noite, e 10 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/44 Elementos para o traçado das curvas de interferência a 1500 km:
 
 5,6 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/45 Elementos para o traçado das curvas de interferência a 6500 km:
 
 5,6 e 6,6 MHz, noite
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/46 Elementos para o traçado das curvas de interferência a 1900 km:
 
 6,6 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/47 Elementos para o traçado das curvas de interferência a 3800 km
 
 9 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/48 Elementos para o traçado das curvas de interferência a 6000 km:
 
 11,3 MHz, dia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 C. Classes de emissão e potência
 
@@ -710,7 +714,7 @@ Com modulação da onda de suporte principal, quer directamente, quer por uma su
 
 27/54 2.1 Salvo indicação contrária na parte II do presente apêndice, as potências de ponta fornecidas à linha de alimentação da antena não ultrapassam os valores máximos indicados no quadro abaixo; admite-se que as potências aparentes radiadas de ponta correspondentes são iguais a dois terços desses valores.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/55 2.2 Admite-se que a potência de ponta máxima especificada no quadro anterior para as estações aeronáuticas produzirá a potência aparente radiada média de 1 kW (para emissões das classes, tais como A1, F1 ou F2 e A3 ou A3H não moduladas) adoptada para o traçado das curvas que indicam os alcances de interferência.
 
@@ -732,7 +736,7 @@ Com modulação da onda de suporte principal, quer directamente, quer por uma su
 
 27/63 3.1 Definição do nível da onda de suporte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/64 3.2 Modos de funcionamento:
 
@@ -748,7 +752,7 @@ Onda de suporte suprimida (A3J).
 
 27/66 3.3.2
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 3.4 Utilização das vias:
 
@@ -762,7 +766,7 @@ Onda de suporte suprimida (A3J).
 
 27/71 c) Se a estação funciona na metade inferior, deve utilizar a faixa lateral superior, sendo a frequência da onda de suporte inferior à frequência central da via que figura no Plano de adjudicação da quantidade seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 4. Frequências consignadas:
 
@@ -770,7 +774,7 @@ Onda de suporte suprimida (A3J).
 
 27/73 4.2 As frequências consignadas às estações que utilizem emissões de dupla faixa lateral (A3) devem ser aquelas cujos valores figuram no Plano de adjudicação.
 
-# PARTE II
+## PARTE II
 
 Plano de adjudicação de frequências para o serviço móvel aeronáutico (R) nas suas faixas exclusivas entre 2850 kHz e 17970 kHz.
 
@@ -1286,7 +1290,7 @@ Notas:
 
 27/189
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 ###### ARTIGO 2 — Plano de adjudicação de frequências
 
@@ -1308,47 +1312,47 @@ Horário: H 24, salvo indicações contrárias.
 
 27/195 Faixa 2850-3025 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/196
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/197 Faixa 3400-3500 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/198 Faixa 4650-4700 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/199 Faixa 5450-5480 kHz (região 2)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/200 Faixa 5480-5680 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/202 Faixa 6525-6685 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/203 Faixa 8815-8965 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/204 Faixa 10005-10100 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/205 Faixa 11275-11400 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 27/206 Faixa 13260-13360 kHz
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
 
 PROTOCOLO ADICIONAL
 
@@ -1628,7 +1632,7 @@ recomenda:
 
 2. Que as administrações prossigam o estudo dessas questões baseando-se nos factores expostos no anexo à presente Recomendação.
 
-## ANEXO À RECOMENDAÇÃO N.º Aer. 2
+ANEXO À RECOMENDAÇÃO N.º Aer. 2
 
 Nota. - A lista de factores abaixo mencionados não tem a pretensão de ser exaustiva. Não tem de qualquer modo o objectivo de restringir o exame de qualquer aspecto da utilização das técnicas das radiocomunicações espaciais no serviço móvel aeronáutico (R).
 
@@ -1726,4 +1730,4 @@ a) O quadro geral no qual o sistema tem de funcionar;
 
 b) O processo evolutivo de estabelecimento do sistema.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf))](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/12701/07770832.pdf)

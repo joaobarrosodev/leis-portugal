@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48008-1967-388644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2014-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e74ac2d5aa0108b2c45635df34ab5e57742ce9b2a1354a5c1f926819f04a3094
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2f2e221b09cd893a6fc13f23ec4a8605874d35ec77a26f1865e35425b382e28e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Embarcação de Pesca
+- Junta Central das Casas dos Pescadores
+- Licenciamento
+- Mergulhador
+- Ministério da Marinha
+- Multa
+- Pesca
+- Planta Marinha
+- Recursos do Mar
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:56384930:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:142877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469869:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:556230:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:56384930:por
+  label: Revogado, a partir de 06.09.2014, pelo(a) Lei n.º 70/2014 - Diário da República n.º 167/2014, Série I de 2014-09-01
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/lei/70-2014-56384930
+  date: '2014-09-01'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:14Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +119,11 @@ Regulamento da Apanha de Plantas Marinhas com Equipamentos de Mergulho no Contin
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º A título experimental, é autorizada, entre a costa e a linha isobatimétrica dos 10 m, a utilização de equipamentos de mergulho de circuito aberto, autónomo e semiautónomo, a um número restrito e apanhadores.
+Artigo 1.º A título experimental, é autorizada, entre a costa e a linha isobatimétrica dos 10 m, a utilização de equipamentos de mergulho de circuito aberto, autónomo e semiautónomo, a um número restrito e apanhadores.
 
-###### Art. 2.º Os apanhadores e embarcações referidas no artigo anterior são apenas os que, por ordem de inscrição na Junta Central das Casas dos Pescadores, estejam dentro dos números estabelecidos no quadro incluído como anexo 1.º
+Art. 2.º Os apanhadores e embarcações referidas no artigo anterior são apenas os que, por ordem de inscrição na Junta Central das Casas dos Pescadores, estejam dentro dos números estabelecidos no quadro incluído como anexo 1.º
 
-###### Art. 3.º O apanhador autorizado nos termos do artigo 1.º a fazer a apanha de plantas marinhas com equipamento de mergulho, designado por mergulhador-apanhador, possuirá, obrigatòriamente, no seu cartão de apanhador, um averbamento, feito pela Junta Central das Casas dos Pescadores, do qual conste:
+Art. 3.º O apanhador autorizado nos termos do artigo 1.º a fazer a apanha de plantas marinhas com equipamento de mergulho, designado por mergulhador-apanhador, possuirá, obrigatòriamente, no seu cartão de apanhador, um averbamento, feito pela Junta Central das Casas dos Pescadores, do qual conste:
 
 a) A data da sua inscrição no grupo auxiliar do registo de inscrição marítima como mergulhador de 1.ª, 2.ª ou 3.ª classe;
 
@@ -108,19 +135,19 @@ d) O nome e o número de registo da embarcação, no caso de o mergulhador-apanh
 
 e) A data em que, salvo renovação nos termos deste Regulamento, caduca a licença de utilização do equipamento de mergulho (31 de Dezembro do ano que estiver em curso).
 
-###### Art. 4.º A embarcação autorizada a ser utilizada numa determinada zona de apanha por mergulhadores-apanhadores, designada por embarcação da apanha submarina, terá no seu título de registo de propriedade um averbamento, feito pelo capitão do porto com jurisdição naquela zona de apanha, do qual conste, além daquela zona de apanha, o tipo de equipamento de mergulho com o qual poderá ser utilizada e a data em que a autorização caducará.
+Art. 4.º A embarcação autorizada a ser utilizada numa determinada zona de apanha por mergulhadores-apanhadores, designada por embarcação da apanha submarina, terá no seu título de registo de propriedade um averbamento, feito pelo capitão do porto com jurisdição naquela zona de apanha, do qual conste, além daquela zona de apanha, o tipo de equipamento de mergulho com o qual poderá ser utilizada e a data em que a autorização caducará.
 
-###### Art. 5.º Os mergulhadores-apanhadores e as embarcações da apanha submarina não poderão exercer a sua actividade fora das zonas de apanha que lhes estejam averbadas respectivamente nos cartões de apanhador ou nos títulos de registo de propriedade.
+Art. 5.º Os mergulhadores-apanhadores e as embarcações da apanha submarina não poderão exercer a sua actividade fora das zonas de apanha que lhes estejam averbadas respectivamente nos cartões de apanhador ou nos títulos de registo de propriedade.
 
-###### Art. 6.º O mergulhador-apanhador que utilize equipamento de mergulho semiautónomo sòmente poderá ser incluído no rol de matrícula da embarcação da apanha submarina que estiver averbada no seu cartão de apanhador.
+Art. 6.º O mergulhador-apanhador que utilize equipamento de mergulho semiautónomo sòmente poderá ser incluído no rol de matrícula da embarcação da apanha submarina que estiver averbada no seu cartão de apanhador.
 
-###### Art. 7.º O mergulhador-apanhador que utilize equipamento de mergulho autónomo poderá exercer a sua actividade sem estar incluído em rol de matrícula de embarcação de apanha submarina.
+Art. 7.º O mergulhador-apanhador que utilize equipamento de mergulho autónomo poderá exercer a sua actividade sem estar incluído em rol de matrícula de embarcação de apanha submarina.
 
-###### Art. 8.º Por proposta fundamentada da Junta Central das Casas dos Pescadores, poderá ser alterado, por portaria do Ministro da Marinha, o número de mergulhadores-apanhadores, e bem assim o das embarcações com compressores referidos no quadro incluído como anexo 1.º
+Art. 8.º Por proposta fundamentada da Junta Central das Casas dos Pescadores, poderá ser alterado, por portaria do Ministro da Marinha, o número de mergulhadores-apanhadores, e bem assim o das embarcações com compressores referidos no quadro incluído como anexo 1.º
 
 ### CAPÍTULO II — Disposições aplicáveis a mergulhadores-apanhadores
 
-###### Art. 9.º Os mergulhadores-apanhadores também não poderão apanhar plantas marinhas nas seguintes circunstâncias:
+Art. 9.º Os mergulhadores-apanhadores também não poderão apanhar plantas marinhas nas seguintes circunstâncias:
 
 a) Quando estejam por fora da linha isobatimétrica dos 10 m, ou seja, a mais de 10 m de profundidade medida em ocasião de baixa-mar;
 
@@ -132,15 +159,15 @@ d) Quando apresentem sintomas de embriaguez ou antes de decorridas duas horas ap
 
 e) Quando utilizem equipamentos de mergulho do tipo de circuito aberto autónomo (garrafas) e não estejam ligados a uma embarcação ou a flutuadores, dispondo de flutuabilidade suficiente para resistir aos seus pesos.
 
-###### Art. 10.º No exercício da apanha de plantas marinhas, os mergulhadores-apanhadores não poderão mergulhar além do tempo referido na tabela seguinte:
+Art. 10.º No exercício da apanha de plantas marinhas, os mergulhadores-apanhadores não poderão mergulhar além do tempo referido na tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf))](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf)
 
 ### CAPÍTULO III
 
 Formalidades a cumprir pelos mergulhadores profissionais para a sua inscrição na Junta Central das Casas dos Pescadores no registo de mergulhadores-apanhadores de plantas marinhas.
 
-###### Art. 11.º O mergulhador profissional, titular do cartão ou cédula de apanhador de plantas marinhas, que pretender ser inscrito pela Junta Central das Casas dos Pescadores no registo de mergulhadores-apanhadores, com ou sem apoio de embarcação de apanha submarina, apresentará na Casa dos Pescadores mais próxima da sua localidade a seguinte documentação, a qual será remetida à Junta Central das Casas dos Pescadores no próprio dia da entrega:
+Art. 11.º O mergulhador profissional, titular do cartão ou cédula de apanhador de plantas marinhas, que pretender ser inscrito pela Junta Central das Casas dos Pescadores no registo de mergulhadores-apanhadores, com ou sem apoio de embarcação de apanha submarina, apresentará na Casa dos Pescadores mais próxima da sua localidade a seguinte documentação, a qual será remetida à Junta Central das Casas dos Pescadores no próprio dia da entrega:
 
 a) Declaração referindo o tipo do equipamento de mergulho e a zona ou zonas de apanha em que o pretende utilizar;
 
@@ -152,25 +179,25 @@ d) Caderneta profissional com a última inspecção médica, prevista no artigo 
 
 Quando o mergulhador, na declaração referida na alínea a), informar pretender utilizar equipamento de mergulho alimentado, permanentemente ou não, por compressor instalado a bordo de uma embarcação de apanha submarina, deverá também apresentar na Casa dos Pescadores uma declaração do seu proprietário comprometendo-se a incluí-lo no rol da matrícula.
 
-###### Art. 12.º Nas declarações referidas no artigo anterior, a Junta Central das Casas dos Pescadores anotará a data e a hora da sua recepção.
+Art. 12.º Nas declarações referidas no artigo anterior, a Junta Central das Casas dos Pescadores anotará a data e a hora da sua recepção.
 
 No caso de não estar ainda preenchido o número de mergulhadores-apanhadores na zona ou zonas pretendidas pelo declarante, a Junta Central das Casas dos Pescadores averbará no seu cartão de apanhador as indicações referidas no artigo 3.º
 
-###### Art. 13.º Para efeitos de matrícula de mergulhadores-apanhadores e de fiscalização da actividade destes, a Junta Central das Casas dos Pescadores comunicará às capitanias dos portos, delegações marítimas e à Direcção das Pescarias, por zonas geográficas de apanha, os nomes dos inscritos marítimos que no ano em curso nela se encontrem registados como mergulhadores-apanhadores e, bem assim, os nomes das embarcações de apanha submarina averbadas nos respectivos cartões de apanhador.
+Art. 13.º Para efeitos de matrícula de mergulhadores-apanhadores e de fiscalização da actividade destes, a Junta Central das Casas dos Pescadores comunicará às capitanias dos portos, delegações marítimas e à Direcção das Pescarias, por zonas geográficas de apanha, os nomes dos inscritos marítimos que no ano em curso nela se encontrem registados como mergulhadores-apanhadores e, bem assim, os nomes das embarcações de apanha submarina averbadas nos respectivos cartões de apanhador.
 
 As relações com os nomes enviados à Direcção das Pescarias serão por esta transmitidas às esquadrilhas de fiscalização da pesca.
 
-###### Art. 14.º A pedido do mergulhador-apanhador, e sempre que tal seja possível dentro do disposto neste Regulamento, a Junta Central das Casas dos Pescadores cancelará o averbamento da zona ou da embarcação de apanha submarina por ela feito no seu cartão de apanhador e averbará, em sua substituição, a zona ou a embarcação por aquele pretendida.
+Art. 14.º A pedido do mergulhador-apanhador, e sempre que tal seja possível dentro do disposto neste Regulamento, a Junta Central das Casas dos Pescadores cancelará o averbamento da zona ou da embarcação de apanha submarina por ela feito no seu cartão de apanhador e averbará, em sua substituição, a zona ou a embarcação por aquele pretendida.
 
-###### Art. 15.º A matrícula dos mergulhadores-apanhadores nas embarcações de apanha submarina não poderá ser feita pela autoridade marítima senão de acordo com os averbamentos feitos pela Junta Central das Casas dos Pescadores nos cartões de apanhador e de acordo com os averbamentos de zona e tipo de equipamento constantes no título de registo de propriedade daquelas embarcações.
+Art. 15.º A matrícula dos mergulhadores-apanhadores nas embarcações de apanha submarina não poderá ser feita pela autoridade marítima senão de acordo com os averbamentos feitos pela Junta Central das Casas dos Pescadores nos cartões de apanhador e de acordo com os averbamentos de zona e tipo de equipamento constantes no título de registo de propriedade daquelas embarcações.
 
-###### Art. 16.º A capitania do porto ou a delegação marítima que efectuar matrícula referente a embarcação de apanha submarina comunicá-la-á no mais curto espaço de tempo à Junta Central das Casas dos Pescadores, remetendo-lhe cópia do rol de matrícula, do qual devem constar também os direitos e as obrigações do armador e dos matriculados e, designadamente, as respectivas condições de prestação de trabalho e de remuneração.
+Art. 16.º A capitania do porto ou a delegação marítima que efectuar matrícula referente a embarcação de apanha submarina comunicá-la-á no mais curto espaço de tempo à Junta Central das Casas dos Pescadores, remetendo-lhe cópia do rol de matrícula, do qual devem constar também os direitos e as obrigações do armador e dos matriculados e, designadamente, as respectivas condições de prestação de trabalho e de remuneração.
 
 ### CAPÍTULO IV
 
 Disposições aplicáveis aos mergulhadores-apanhadores que pretendam continuar a utilizar equipamentos de mergulho na safra seguinte àquela que está registada no seu cartão de apanhador.
 
-###### Art. 17.º O mergulhador-apanhador que pretenda continuar a utilizar equipamento de mergulho no ano seguinte ao averbado no seu cartão de apanhador, sob pena de ser excluído do registo de mergulhadores-apanhadores existente na Junta Central das Casas dos Pescadores, deverá apresentar nesta, ou na Casa dos Pescadores local, até ao dia 1 de Maio, os seguintes documentos:
+Art. 17.º O mergulhador-apanhador que pretenda continuar a utilizar equipamento de mergulho no ano seguinte ao averbado no seu cartão de apanhador, sob pena de ser excluído do registo de mergulhadores-apanhadores existente na Junta Central das Casas dos Pescadores, deverá apresentar nesta, ou na Casa dos Pescadores local, até ao dia 1 de Maio, os seguintes documentos:
 
 a) O cartão de apanhador, do qual conste haver pago a licença do artigo 4.º do [Decreto n.º 45578](https://diariodarepublica.pt/dr/detalhe/decreto/45578-1964-469869);
 
@@ -180,25 +207,25 @@ No caso de desejar exercer a sua actividade em zona diferente da averbada, o mer
 
 Sòmente aos mergulhadores-apanhadores que derem cumprimento ao disposto neste artigo é que a Junta Central das Casas dos Pescadores validará o cartão de apanhador para o ano em curso.
 
-###### Art. 18.º A Junta Central das Casas dos Pescadores poderá cancelar a inscrição no registo de mergulhadores-apanhadores aos que não hajam tido uma actividade normal na safra anterior e aos que notòriamente não hajam cumprido as disposições regulamentares em vigor.
+Art. 18.º A Junta Central das Casas dos Pescadores poderá cancelar a inscrição no registo de mergulhadores-apanhadores aos que não hajam tido uma actividade normal na safra anterior e aos que notòriamente não hajam cumprido as disposições regulamentares em vigor.
 
-###### Art. 19.º As decisões tomadas pela Junta Central das Casas dos Pescadores ao abrigo dos artigos 17.º e 18.º serão comunicadas às entidades referidas no artigo 13.º para efeitos de matrícula de mergulhadores-apanhadores em embarcações de apanha submarina e de fiscalização da apanha.
+Art. 19.º As decisões tomadas pela Junta Central das Casas dos Pescadores ao abrigo dos artigos 17.º e 18.º serão comunicadas às entidades referidas no artigo 13.º para efeitos de matrícula de mergulhadores-apanhadores em embarcações de apanha submarina e de fiscalização da apanha.
 
 ### CAPÍTULO V — Disposições aplicáveis às embarcações de apanha submarina
 
-###### Art. 20.º O proprietário de uma embarcação que pretender utilizá-la na apanha de plantas marinhas com equipamento de mergulho deverá requerê-lo ao director-geral da Marinha através da capitania do porto em que está registada.
+Art. 20.º O proprietário de uma embarcação que pretender utilizá-la na apanha de plantas marinhas com equipamento de mergulho deverá requerê-lo ao director-geral da Marinha através da capitania do porto em que está registada.
 
-###### Art. 21.º O requerimento ao qual se refere o artigo anterior será entregue na capitania do porto ou na delegação marítima em que a embarcação estiver registada e nele o proprietário deverá referir, além do seu nome e residência, o nome da embarcação, o número de registo, as dimensões de sinal, a marca e potência do motor de propulsão, a zona de apanha em que a pretende utilizar, a marca e tipo do compressor e a marca, tipo e número dos equipamentos de mergulho que pretende ter a bordo.
+Art. 21.º O requerimento ao qual se refere o artigo anterior será entregue na capitania do porto ou na delegação marítima em que a embarcação estiver registada e nele o proprietário deverá referir, além do seu nome e residência, o nome da embarcação, o número de registo, as dimensões de sinal, a marca e potência do motor de propulsão, a zona de apanha em que a pretende utilizar, a marca e tipo do compressor e a marca, tipo e número dos equipamentos de mergulho que pretende ter a bordo.
 
-###### Art. 22.º Juntamente com o requerimento, o proprietário entregará na repartição marítima:
+Art. 22.º Juntamente com o requerimento, o proprietário entregará na repartição marítima:
 
 a) Desenhos da montagem do equipamento para mergulho (cortes longitudinal, vertical e horizontal);
 
 b) Memória descritiva do mesmo equipamento.
 
-###### Art. 23.º O requerimento e a documentação referidos nos artigos 21.º e 22.º serão entregues em triplicado, mas sòmente os originais serão selados.
+Art. 23.º O requerimento e a documentação referidos nos artigos 21.º e 22.º serão entregues em triplicado, mas sòmente os originais serão selados.
 
-###### Art. 24.º No caso de o proprietário da embarcação pretender utilizar equipamento de mergulho de circuito aberto semiautónomo, a memória descritiva à qual se refere a alínea b) do artigo 22.º deverá pormenorizar os seguintes aspectos da instalação:
+Art. 24.º No caso de o proprietário da embarcação pretender utilizar equipamento de mergulho de circuito aberto semiautónomo, a memória descritiva à qual se refere a alínea b) do artigo 22.º deverá pormenorizar os seguintes aspectos da instalação:
 
 a) Quanto ao compressor: marca, tipo, pressão efectiva de trabalho, débito em litros por minuto, localização exacta da tomada de ar e ainda a forma como o compressor é accionado;
 
@@ -210,41 +237,41 @@ d) Quanto ao equipamento de mergulho semiautónomo («narguillé»): marca, pres
 
 e) Quanto ao esquema do trabalho dos mergulhadores-apanhadores: número de mergulhadores-apanhadores e incluir no rol da matrícula, sua utilização durante o dia, modo como as plantas marinhas são transferidas do fundo do mar para a embarcação e quantidade de algas molhadas que a embarcação pode transportar com segurança.
 
-###### Art. 25.º No caso de o proprietário da embarcação pretender instalar nesta equipamento de mergulho autónomo (garrafas carregadas a bordo), a memória descritiva à qual se refere a alínea b) do artigo 22.º deverá pormenorizar as características do compressor de alta pressão, o circuito e a filtragem do ar na forma do artigo anterior e, bem assim, o número, a marca e as características das garrafas utilizadas pelos mergulhadores-apanhadores, indicando os seus volumes em metros cúbicos, a pressão de carregamento e a pressão da prova hidráulica. Deverá ser apresentado também o esquema do trabalho a efectuar pela equipa durante a apanha de plantas marinhas.
+Art. 25.º No caso de o proprietário da embarcação pretender instalar nesta equipamento de mergulho autónomo (garrafas carregadas a bordo), a memória descritiva à qual se refere a alínea b) do artigo 22.º deverá pormenorizar as características do compressor de alta pressão, o circuito e a filtragem do ar na forma do artigo anterior e, bem assim, o número, a marca e as características das garrafas utilizadas pelos mergulhadores-apanhadores, indicando os seus volumes em metros cúbicos, a pressão de carregamento e a pressão da prova hidráulica. Deverá ser apresentado também o esquema do trabalho a efectuar pela equipa durante a apanha de plantas marinhas.
 
-###### Art. 26.º A documentação referida no artigo 22.º será remetida à Direcção das Pescarias juntamente com a informação prestada pelo capitão do porto, com uma cópia do termo de vistoria certificando que o casco e o motor da embarcação se encontram em bom estado de conservação e ainda com uma cópia do título de registo de propriedade da embarcação.
+Art. 26.º A documentação referida no artigo 22.º será remetida à Direcção das Pescarias juntamente com a informação prestada pelo capitão do porto, com uma cópia do termo de vistoria certificando que o casco e o motor da embarcação se encontram em bom estado de conservação e ainda com uma cópia do título de registo de propriedade da embarcação.
 
-###### Art. 27.º O processo organizado na Direcção das Pescarias, depois de informado pela Junta Central das Casas dos Pescadores, pela Direcção da Marinha Mercante e pela Direcção do Serviço de Submersíveis, será levado a despacho do director-geral da Marinha.
+Art. 27.º O processo organizado na Direcção das Pescarias, depois de informado pela Junta Central das Casas dos Pescadores, pela Direcção da Marinha Mercante e pela Direcção do Serviço de Submersíveis, será levado a despacho do director-geral da Marinha.
 
-###### Art. 28.º Na informação que lhe é pedida, e sem prejuízo de outros aspectos que entenda conveniente referir, a Junta Central das Casas dos Pescadores informará se há vaga na zona pretendida pelo requerente e, em caso negativo, quais são as zonas em que ainda há vagas.
+Art. 28.º Na informação que lhe é pedida, e sem prejuízo de outros aspectos que entenda conveniente referir, a Junta Central das Casas dos Pescadores informará se há vaga na zona pretendida pelo requerente e, em caso negativo, quais são as zonas em que ainda há vagas.
 
-###### Art. 29.º Tratando-se de equipamento de mergulho semiautónomo, a Direcção da Marinha Mercante informará o processo nos aspectos que se referem ao compressor (pressão efectiva de compressão, entrada de ar e débito), aos indicadores de pressão (características e localização), aos depósitos de ar (pressão de prova, volume mínimo de depósito de serviço quando for também de reserva e, no caso de haver um depósito exclusivamente utilizado como reserva, o volume mínimo de cada um).
+Art. 29.º Tratando-se de equipamento de mergulho semiautónomo, a Direcção da Marinha Mercante informará o processo nos aspectos que se referem ao compressor (pressão efectiva de compressão, entrada de ar e débito), aos indicadores de pressão (características e localização), aos depósitos de ar (pressão de prova, volume mínimo de depósito de serviço quando for também de reserva e, no caso de haver um depósito exclusivamente utilizado como reserva, o volume mínimo de cada um).
 
 Tratando-se de equipamento de mergulho autónomo com garrafas carregadas a bordo, a Direcção da Marinha Mercante informará também sobre o compressor de alta pressão e, como no caso anterior, informará sobre a montagem do equipamento pretendido pelo requerente.
 
-###### Art. 30.º A Direcção do Serviço de Submersíveis informará o processo, pelo menos no que se refere aos equipamentos de mergulho, especialmente quanto à pressão do seu funcionamento à profundidade de 10 m, à filtragem do ar, aos manorredutores e à possibilidade de o compressor ser utilizável com o equipamento pretendido.
+Art. 30.º A Direcção do Serviço de Submersíveis informará o processo, pelo menos no que se refere aos equipamentos de mergulho, especialmente quanto à pressão do seu funcionamento à profundidade de 10 m, à filtragem do ar, aos manorredutores e à possibilidade de o compressor ser utilizável com o equipamento pretendido.
 
-###### Art. 31.º Nas suas informações a Direcção da Marinha Mercante e a Direcção do Serviço de Submersíveis terão em atenção o disposto no anexo 2.º deste Regulamento.
+Art. 31.º Nas suas informações a Direcção da Marinha Mercante e a Direcção do Serviço de Submersíveis terão em atenção o disposto no anexo 2.º deste Regulamento.
 
-###### Art. 32.º Se as informações da Junta Central das Casas dos Pescadores, da Direcção da Marinha Mercante e da Direcção do Serviço de Submersíveis forem favoráveis, o director-geral da Marinha deferirá o requerimento, mas a sua autorização sòmente se tornará definitiva se o equipamento e a sua montagem forem aprovados por uma comissão de vistoria presidida pelo capitão do porto e constituída apenas por três delegados, um da Direcção das Pescarias, outro da Direcção da Marinha Mercante e outro do Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis.
+Art. 32.º Se as informações da Junta Central das Casas dos Pescadores, da Direcção da Marinha Mercante e da Direcção do Serviço de Submersíveis forem favoráveis, o director-geral da Marinha deferirá o requerimento, mas a sua autorização sòmente se tornará definitiva se o equipamento e a sua montagem forem aprovados por uma comissão de vistoria presidida pelo capitão do porto e constituída apenas por três delegados, um da Direcção das Pescarias, outro da Direcção da Marinha Mercante e outro do Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis.
 
-###### Art. 33.º A autorização dada pelo director-geral da Marinha caducará se a instalação não estiver pronta a ser vistoriada dentro dos 60 dias seguintes à data em que ao requerente houver sido notificado por escrito pela autoridade marítima o despacho de deferimento.
+Art. 33.º A autorização dada pelo director-geral da Marinha caducará se a instalação não estiver pronta a ser vistoriada dentro dos 60 dias seguintes à data em que ao requerente houver sido notificado por escrito pela autoridade marítima o despacho de deferimento.
 
-###### Art. 34.º A Direcção das Pescarias comunicará à capitania do porto de registo da embarcação e à Direcção da Marinha Mercante o despacho do director-geral e, no caso de este ser de deferimento, indicar-lhe-á a zona de apanha que a capitania do porto deve averbar no título de registo de propriedade da embarcação.
+Art. 34.º A Direcção das Pescarias comunicará à capitania do porto de registo da embarcação e à Direcção da Marinha Mercante o despacho do director-geral e, no caso de este ser de deferimento, indicar-lhe-á a zona de apanha que a capitania do porto deve averbar no título de registo de propriedade da embarcação.
 
-###### Art. 35.º Além da zona de apanha, a capitania do porto deverá também averbar no título de registo de propriedade da embarcação as características do material de mergulho cuja montagem e utilização foram autorizados e, bem assim, a data em que a autorização caducará, a qual será a de 31 de Dezembro do ano que estiver em curso.
+Art. 35.º Além da zona de apanha, a capitania do porto deverá também averbar no título de registo de propriedade da embarcação as características do material de mergulho cuja montagem e utilização foram autorizados e, bem assim, a data em que a autorização caducará, a qual será a de 31 de Dezembro do ano que estiver em curso.
 
-###### Art. 36.º Até ao dia 31 de Janeiro de cada ano a Junta Central das Casas dos Pescadores enviará às capitanias dos portos uma circular referindo quais as embarcações da apanha submarina que na safra anterior hajam tido uma actividade considerada normal.
+Art. 36.º Até ao dia 31 de Janeiro de cada ano a Junta Central das Casas dos Pescadores enviará às capitanias dos portos uma circular referindo quais as embarcações da apanha submarina que na safra anterior hajam tido uma actividade considerada normal.
 
 A estas, os capitães dos portos averbarão nos seus títulos de registo de propriedade que poderão continuar a ser utilizadas na apanha de plantas marinhas até ao dia 31 de Dezembro seguinte.
 
-###### Art. 37.º Os proprietários das embarcações da apanha submarina que a Junta Central das Casas dos Pescadores não haja considerado como havendo tido utilização normal na safra finda são obrigados a desmontar e a retirar de bordo todo o material de mergulho.
+Art. 37.º Os proprietários das embarcações da apanha submarina que a Junta Central das Casas dos Pescadores não haja considerado como havendo tido utilização normal na safra finda são obrigados a desmontar e a retirar de bordo todo o material de mergulho.
 
-###### Art. 38.º No início de cada safra, até ao dia 1 de Maio, o Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis vistoriará os equipamentos de mergulho instalados nas embarcações autorizadas para apanha de plantas marinhas, pelo que os seus proprietários, com a devida antecedência, pedirão esta vistoria às respectivas capitanias ou delegações marítimas.
+Art. 38.º No início de cada safra, até ao dia 1 de Maio, o Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis vistoriará os equipamentos de mergulho instalados nas embarcações autorizadas para apanha de plantas marinhas, pelo que os seus proprietários, com a devida antecedência, pedirão esta vistoria às respectivas capitanias ou delegações marítimas.
 
-###### Art. 39.º A autorização para a utilização da embarcação na apanha submarina caducará se o proprietário não der cumprimento às determinações do Serviço de Mergulhadores e Salvação nos 30 dias seguintes à data da vistoria à qual se refere o artigo anterior.
+Art. 39.º A autorização para a utilização da embarcação na apanha submarina caducará se o proprietário não der cumprimento às determinações do Serviço de Mergulhadores e Salvação nos 30 dias seguintes à data da vistoria à qual se refere o artigo anterior.
 
-###### Art. 40.º As embarcações equipadas com compressores de ar, quer de baixa, quer de alta pressão, utilizáveis na apanha de plantas marinhas, serão sempre identificadas no costado, a um e outro bordo, com as palavras «Apanha submarina de algas», bem legíveis e inscritas em fundo preto.
+Art. 40.º As embarcações equipadas com compressores de ar, quer de baixa, quer de alta pressão, utilizáveis na apanha de plantas marinhas, serão sempre identificadas no costado, a um e outro bordo, com as palavras «Apanha submarina de algas», bem legíveis e inscritas em fundo preto.
 
 Em caso algum as embarcações atrás referidas poderão largar para o mar sem que tenham a bordo, além da documentação da embarcação, o seguinte material:
 
@@ -266,13 +293,13 @@ h) O recibo de ter sido entregue num dos postos de compra situados na zona averb
 
 i) Os cartões de apanhador de cada um dos mergulhadores-apanhadores incluídos no rol de matrícula.
 
-###### Art. 41.º Na prospecção de jazidas de plantas marinhas e no treino de mergulhadores-apanhadores poderão ser utilizados equipamentos de circuito aberto semiautónomo alimentados por compressores de ar montados em flutuadores, contanto que os mergulhadores-apanhadores sejam apoiados por embarcações dotadas do material que se indica no artigo anterior.
+Art. 41.º Na prospecção de jazidas de plantas marinhas e no treino de mergulhadores-apanhadores poderão ser utilizados equipamentos de circuito aberto semiautónomo alimentados por compressores de ar montados em flutuadores, contanto que os mergulhadores-apanhadores sejam apoiados por embarcações dotadas do material que se indica no artigo anterior.
 
 ### CAPÍTULO VI — Disposições aplicáveis aos mestres e aos mergulhadores seniores das embarcações da apanha submarina
 
-###### Art. 42.º Compete ao mestre da embarcação da apanha submarina o preenchimento diário do impresso estatístico mensal, e bem assim a sua posterior entrega ao encarregado do posto de compra da zona averbada no título de registo de propriedade, o que fará até ao 5.º dia do mês seguinte ao qual se refere o impresso estatístico.
+Art. 42.º Compete ao mestre da embarcação da apanha submarina o preenchimento diário do impresso estatístico mensal, e bem assim a sua posterior entrega ao encarregado do posto de compra da zona averbada no título de registo de propriedade, o que fará até ao 5.º dia do mês seguinte ao qual se refere o impresso estatístico.
 
-###### Art. 43.º Antes do início da apanha, os mestres das embarcações e os mergulhadores-apanhadores seniores nestas embarcados deverão comprovar que não se verificam quaisquer das circunstâncias referidas no artigo 9.º e tomarão as providências para que a apanha seja interrompida:
+Art. 43.º Antes do início da apanha, os mestres das embarcações e os mergulhadores-apanhadores seniores nestas embarcados deverão comprovar que não se verificam quaisquer das circunstâncias referidas no artigo 9.º e tomarão as providências para que a apanha seja interrompida:
 
 a) Logo que atingido o tempo máximo de imersão estabelecido no artigo 10.º;
 
@@ -282,9 +309,9 @@ c) Quando as condições de tempo e de mar desaconselhem a apanha.
 
 Para os efeitos deste Regulamento, considera-se como mergulhador sénior aquele que no grupo auxiliar do registo de inscrição marítima tiver categoria superior ou que há mais tempo nele esteja inscrito, no caso de haver vários mergulhadores com a mesma categoria.
 
-###### Art. 44.º Em caso de acidente ocorrido durante a apanha ou por motivo desta, o mestre da embarcação e o mergulhador sénior actuarão em conformidade com as instruções conservadas na caixa-farmácia, e não permitirão que o apanhador sinistrado volte a mergulhar sem lhes ter sido entregue um atestado médico comprovativo de que o apanhador se encontra em condições de continuar a exercer a sua actividade.
+Art. 44.º Em caso de acidente ocorrido durante a apanha ou por motivo desta, o mestre da embarcação e o mergulhador sénior actuarão em conformidade com as instruções conservadas na caixa-farmácia, e não permitirão que o apanhador sinistrado volte a mergulhar sem lhes ter sido entregue um atestado médico comprovativo de que o apanhador se encontra em condições de continuar a exercer a sua actividade.
 
-###### Art. 45.º Terminada a apanha e encontrando-se já a bordo todos os apanhadores, o mestre da embarcação e o mergulhador sénior providenciarão para que não deixe de ser:
+Art. 45.º Terminada a apanha e encontrando-se já a bordo todos os apanhadores, o mestre da embarcação e o mergulhador sénior providenciarão para que não deixe de ser:
 
 a) Arriada a bandeira numérica 4;
 
@@ -292,21 +319,21 @@ b) Correctamente preenchido a parte do impresso estatístico referente ao dia de
 
 c) Registado no mapa das jazidas de plantas marinhas o local, ou locais, em que nesse dia foi feita a apanha.
 
-###### Art. 46.º O mestre da embarcação e o mergulhador-apanhador sénior providenciarão para que seja dado total cumprimento às disposições dos artigos 17.º, 18.º e 19.º do capítulo VI do [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, e participarão à Junta Central das Casas dos Pescadores, no mais curto espaço de tempo, as infracções cometidas pelos mergulhadores-apanhadores.
+Art. 46.º O mestre da embarcação e o mergulhador-apanhador sénior providenciarão para que seja dado total cumprimento às disposições dos artigos 17.º, 18.º e 19.º do capítulo VI do [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, e participarão à Junta Central das Casas dos Pescadores, no mais curto espaço de tempo, as infracções cometidas pelos mergulhadores-apanhadores.
 
-###### Art. 47.º Os mapas das jazidas de plantas marinhas referidos na alínea c) do artigo 45.º serão fornecidos pela Junta Central das Casas dos Pescadores às embarcações de apanha submarina nela inscritas.
+Art. 47.º Os mapas das jazidas de plantas marinhas referidos na alínea c) do artigo 45.º serão fornecidos pela Junta Central das Casas dos Pescadores às embarcações de apanha submarina nela inscritas.
 
 ### CAPÍTULO VII — Disposições aplicáveis aos encarregados dos postos de compra da Junta Central das Casas dos Pescadores
 
-###### Art. 48.º O encarregado do posto de compra da Junta Central das Casas dos Pescadores que receba do mestre de embarcação da apanha submarina, ou do mergulhador-apanhador trabalhando sem apoio de embarcação, um impresso estatístico deverá remetê-lo à Junta Central das Casas dos Pescadores, no mais curto espaço de tempo, depois de lhe haver anotado a data de entrega, e deverá também entregar ao mestre ou ao mergulhador sénior o recibo correspondente.
+Art. 48.º O encarregado do posto de compra da Junta Central das Casas dos Pescadores que receba do mestre de embarcação da apanha submarina, ou do mergulhador-apanhador trabalhando sem apoio de embarcação, um impresso estatístico deverá remetê-lo à Junta Central das Casas dos Pescadores, no mais curto espaço de tempo, depois de lhe haver anotado a data de entrega, e deverá também entregar ao mestre ou ao mergulhador sénior o recibo correspondente.
 
-###### Art. 49.º É expressamente vedado aos encarregados de postos de compra da Junta Central das Casas dos Pescadores receber plantas marinhas industrializadas apanhadas por mergulhadores-apanhadores, sem que os indivíduos aos quais se refere o artigo anterior lhes hajam apresentado o recibo comprovativo de haverem entregue o impresso estatístico do mês anterior num dos postos de compra da zona em que estão autorizados a exercer a sua actividade.
+Art. 49.º É expressamente vedado aos encarregados de postos de compra da Junta Central das Casas dos Pescadores receber plantas marinhas industrializadas apanhadas por mergulhadores-apanhadores, sem que os indivíduos aos quais se refere o artigo anterior lhes hajam apresentado o recibo comprovativo de haverem entregue o impresso estatístico do mês anterior num dos postos de compra da zona em que estão autorizados a exercer a sua actividade.
 
 ### CAPÍTULO VIII — Disposições aplicáveis aos mergulhadores-apanhadores provisórios
 
-###### Art. 50.º Enquanto se não dispuser do número de mergulhadores-apanhadores nas condições referidas no capítulo III, o Ministro da Marinha autoriza que as capitanias inscrevam como mergulhadores-apanhadores provisórios os apanhadores aos quais, ao abrigo dos artigos seguintes, hajam concedido a carta de mergulhador-apanhador provisório.
+Art. 50.º Enquanto se não dispuser do número de mergulhadores-apanhadores nas condições referidas no capítulo III, o Ministro da Marinha autoriza que as capitanias inscrevam como mergulhadores-apanhadores provisórios os apanhadores aos quais, ao abrigo dos artigos seguintes, hajam concedido a carta de mergulhador-apanhador provisório.
 
-###### Art. 51.º A carta de mergulhador-apanhador provisório à qual se refere o artigo anterior será concedida pelas capitanias dos portos, a requerimento dos apanhadores, instruído com os seguintes documentos:
+Art. 51.º A carta de mergulhador-apanhador provisório à qual se refere o artigo anterior será concedida pelas capitanias dos portos, a requerimento dos apanhadores, instruído com os seguintes documentos:
 
 a) Caderneta profissional de mergulhador provisório e com validade apenas para a apanha de plantas marinhas até à isobatimétrica dos 10 m, passada pelo Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis;
 
@@ -318,7 +345,7 @@ d) Certificado do registo criminal, dentro do prazo de validade;
 
 e) Declaração, passada pela Junta Central das Casas dos Pescadores, de estar dentro do número de mergulhadores-apanhadores estabelecido para a zona de apanha em que pretende exercer a sua actividade.
 
-###### Art. 52.º A capitania do porto que conceda uma carta de mergulhador-apanhador provisório deverá proceder na forma que a seguir se indica:
+Art. 52.º A capitania do porto que conceda uma carta de mergulhador-apanhador provisório deverá proceder na forma que a seguir se indica:
 
 a) Incluir o seu titular no grupo auxiliar do seu registo de inscrição marítima;
 
@@ -326,17 +353,17 @@ b) Averbar naquela carta não só que o seu titular sòmente está autorizado a 
 
 c) Comunicar a concessão da carta à Junta Central das Casas dos Pescadores para efeitos de registo e averbamentos a fazer por aquela entidade no cartão de apanhador, sem os quais a carta não terá validade.
 
-###### Art. 53.º A caderneta profissional à qual se refere a alínea a) do artigo 51.º será concedida, com carácter provisório, pelo Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis aos indivíduos que a requeiram ao director-geral da Marinha, por intermédio de uma capitania ou delegação marítima, e reúnem as seguintes condições:
+Art. 53.º A caderneta profissional à qual se refere a alínea a) do artigo 51.º será concedida, com carácter provisório, pelo Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis aos indivíduos que a requeiram ao director-geral da Marinha, por intermédio de uma capitania ou delegação marítima, e reúnem as seguintes condições:
 
 a) Serem maiores de 18 anos;
 
 b) Estarem física e profissionalmente aptos para a utilização de equipamento de mergulho até à profundidade máxima autorizada para a apanha de plantas marinhas (isobatimétrica de 10 m).
 
-###### Art. 54.º A aptidão física do requerente é comprovada por atestado médico, passado pela junta médica prevista no artigo 3.º, alínea b), do [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, certificando que satisfaz às condições físicas do artigo 4.º do mesmo decreto, aplicáveis ao mergulho até à profundidade máxima autorizada para a apanha de plantas marinhas.
+Art. 54.º A aptidão física do requerente é comprovada por atestado médico, passado pela junta médica prevista no artigo 3.º, alínea b), do [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, certificando que satisfaz às condições físicas do artigo 4.º do mesmo decreto, aplicáveis ao mergulho até à profundidade máxima autorizada para a apanha de plantas marinhas.
 
-###### Art. 55.º Uma vez comprovada a aptidão física, a verificação de aptidão profissional para a utilização do ou dos equipamentos de mergulho cuja utilidade for requerida é feita por exame no Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis ou perante um júri de que farão parte delegados deste Serviço.
+Art. 55.º Uma vez comprovada a aptidão física, a verificação de aptidão profissional para a utilização do ou dos equipamentos de mergulho cuja utilidade for requerida é feita por exame no Serviço de Mergulhadores e Salvação da Direcção do Serviço de Submersíveis ou perante um júri de que farão parte delegados deste Serviço.
 
-###### Art. 56.º Ao receber um requerimento pedindo a concessão da caderneta profissional de mergulhador provisório, a capitania deverá proceder na seguinte conformidade:
+Art. 56.º Ao receber um requerimento pedindo a concessão da caderneta profissional de mergulhador provisório, a capitania deverá proceder na seguinte conformidade:
 
 a) Informar o requerente da data e local em que será efectuado o exame para comprovação de aptidão física;
 
@@ -344,23 +371,23 @@ b) Enviar cópia do requerimento e o atestado médico do exame anteriormente ref
 
 c) Transmitir ao requerente a informação recebida.
 
-###### Art. 57.º O titular de uma carta de mergulhador-apanhador provisório que pretender ser inscrito na Junta Central das Casas dos Pescadores no registo de mergulhadores-apanhadores, com ou sem apoio de embarcações de apanha submarina, apresentará na Casa dos Pescadores mais próxima da sua localidade a documentação referida no artigo 11.º, a qual deverá ser remetida à Junta Central das Casas dos Pescadores no próprio dia da entrega.
+Art. 57.º O titular de uma carta de mergulhador-apanhador provisório que pretender ser inscrito na Junta Central das Casas dos Pescadores no registo de mergulhadores-apanhadores, com ou sem apoio de embarcações de apanha submarina, apresentará na Casa dos Pescadores mais próxima da sua localidade a documentação referida no artigo 11.º, a qual deverá ser remetida à Junta Central das Casas dos Pescadores no próprio dia da entrega.
 
-###### Art. 58.º Nas declarações referidas no artigo 11.º a Junta Central das Casas dos Pescadores anotará a data e hora da sua recepção e, no caso de ainda não estar preenchido o número de mergulhadores-apanhadores na zona ou zonas pretendidas pelo declarante, averbará na cédula de apanhador as indicações referidas no artigo 3.º
+Art. 58.º Nas declarações referidas no artigo 11.º a Junta Central das Casas dos Pescadores anotará a data e hora da sua recepção e, no caso de ainda não estar preenchido o número de mergulhadores-apanhadores na zona ou zonas pretendidas pelo declarante, averbará na cédula de apanhador as indicações referidas no artigo 3.º
 
-###### Art. 59.º Os mergulhadores-apanhadores provisórios estão obrigados ao cumprimento de todas as normas aplicáveis aos mergulhadores-apanhadores.
+Art. 59.º Os mergulhadores-apanhadores provisórios estão obrigados ao cumprimento de todas as normas aplicáveis aos mergulhadores-apanhadores.
 
 ### CAPÍTULO IX — Licenças
 
-###### Art. 60.º Às licenças individuais para apanha de plantas marinhas com equipamento de mergulho e às licenças anuais para a utilização de embarcações naquela actividade é aplicável o disposto no anexo 2.º do [Decreto n.º 45578](https://diariodarepublica.pt/dr/detalhe/decreto/45578-1964-469869), de 28 de Fevereiro de 1964.
+Art. 60.º Às licenças individuais para apanha de plantas marinhas com equipamento de mergulho e às licenças anuais para a utilização de embarcações naquela actividade é aplicável o disposto no anexo 2.º do [Decreto n.º 45578](https://diariodarepublica.pt/dr/detalhe/decreto/45578-1964-469869), de 28 de Fevereiro de 1964.
 
-###### Art. 61.º Não é devida qualquer licença pela secagem de algas nos próprios locais de apanha ou na sua proximidade imediata.
+Art. 61.º Não é devida qualquer licença pela secagem de algas nos próprios locais de apanha ou na sua proximidade imediata.
 
-###### Art. 62.º Aos locais do domínio público marítimo concedidos aos mergulhadores-apanhadores para secagem e armazenamento privativos de algas será aplicável a licença da verba n.º 55-A do [Decreto n.º 12822](https://diariodarepublica.pt/dr/detalhe/decreto/12822-1926-142877), de 1 de Novembro de 1926.
+Art. 62.º Aos locais do domínio público marítimo concedidos aos mergulhadores-apanhadores para secagem e armazenamento privativos de algas será aplicável a licença da verba n.º 55-A do [Decreto n.º 12822](https://diariodarepublica.pt/dr/detalhe/decreto/12822-1926-142877), de 1 de Novembro de 1926.
 
 ### CAPÍTULO X — Penalidades
 
-###### Art. 63.º Os mergulhadores-apanhadores que utilizem equipamento de mergulho diferente do averbado no cartão de apanhador ou em profundidade superior a 10 m, bem como em zona ou em embarcação diferentes das averbadas no seu cartão de apanhador, incorrem, por cada uma destas faltas, nas penas seguintes:
+Art. 63.º Os mergulhadores-apanhadores que utilizem equipamento de mergulho diferente do averbado no cartão de apanhador ou em profundidade superior a 10 m, bem como em zona ou em embarcação diferentes das averbadas no seu cartão de apanhador, incorrem, por cada uma destas faltas, nas penas seguintes:
 
 a) Multa de 500$00 a 10000$00;
 
@@ -370,9 +397,9 @@ c) Apreensão do equipamento de mergulho, incluindo neste o compressor, depósit
 
 Em caso de reincidência, ser-lhes-á também apreendido o cartão de apanhador por período não inferior a três meses.
 
-###### Art. 64.º Incorrem nas penas do artigo anterior os indivíduos que, não sendo mergulhadores-apanhadores, utilizem na apanha de plantas marinhas qualquer equipamento de mergulho, autónomo, semiautónomo ou clássico.
+Art. 64.º Incorrem nas penas do artigo anterior os indivíduos que, não sendo mergulhadores-apanhadores, utilizem na apanha de plantas marinhas qualquer equipamento de mergulho, autónomo, semiautónomo ou clássico.
 
-###### Art. 65.º O proprietário de embarcação de apanha submarina que a utilize em zona ou com equipamentos de mergulho não averbados no título de registo de propriedade incorre, por cada uma desta faltas, nas seguintes penas:
+Art. 65.º O proprietário de embarcação de apanha submarina que a utilize em zona ou com equipamentos de mergulho não averbados no título de registo de propriedade incorre, por cada uma desta faltas, nas seguintes penas:
 
 a) Multa de 1000$00 a 10000$00;
 
@@ -382,43 +409,43 @@ c) Apreensão de todo o equipamento de mergulho.
 
 Os limites desta multa serão agravados para o dobro dos atrás referidos quando na embarcação sejam encontrados apanhadores que não constem do seu rol de matrícula.
 
-###### Art. 66.º Ao proprietário de embarcação que não seja de apanha submarina e que a utilize indevidamente como fonte de ar para apanhadores, ou mesmo para mergulhadores-apanhadores, serão aplicadas as penas referidas na segunda parte do artigo 65.º
+Art. 66.º Ao proprietário de embarcação que não seja de apanha submarina e que a utilize indevidamente como fonte de ar para apanhadores, ou mesmo para mergulhadores-apanhadores, serão aplicadas as penas referidas na segunda parte do artigo 65.º
 
-###### Art. 67.º O mergulhador-apanhador que não cumpra o disposto nos artigos 9.º e 10.º incorre na multa de 500$00 a 10000$00 e na apreensão do cartão de apanhador entre dez dias e dois anos.
+Art. 67.º O mergulhador-apanhador que não cumpra o disposto nos artigos 9.º e 10.º incorre na multa de 500$00 a 10000$00 e na apreensão do cartão de apanhador entre dez dias e dois anos.
 
-###### Art. 68.º O mergulhador-apanhador que no ano anterior não tenha tido uma actividade normal, ou que haja desrespeitado as normas em vigor, poderá ser irradiado do registo da Junta Central das Casas dos Pescadores.
+Art. 68.º O mergulhador-apanhador que no ano anterior não tenha tido uma actividade normal, ou que haja desrespeitado as normas em vigor, poderá ser irradiado do registo da Junta Central das Casas dos Pescadores.
 
-###### Art. 69.º O proprietário da embarcação de apanha submarina em que seja desrespeitada qualquer das disposições do artigo 40.º será punido com multa de 500$00 a 10000$00, com a apreensão das plantas marinhas e com a inactividade da embarcação até 30 dias.
+Art. 69.º O proprietário da embarcação de apanha submarina em que seja desrespeitada qualquer das disposições do artigo 40.º será punido com multa de 500$00 a 10000$00, com a apreensão das plantas marinhas e com a inactividade da embarcação até 30 dias.
 
-###### Art. 70.º O proprietário de embarcação de apanha submarina que não haja dado cumprimento ao disposto no artigo 37.º dentro dos 30 dias seguintes à notificação que para o efeito lhe será feita pela capitania do porto incorre nas penas de multa de 1500$00 a 10000$00 e na de apreensão de todo o equipamento de mergulho.
+Art. 70.º O proprietário de embarcação de apanha submarina que não haja dado cumprimento ao disposto no artigo 37.º dentro dos 30 dias seguintes à notificação que para o efeito lhe será feita pela capitania do porto incorre nas penas de multa de 1500$00 a 10000$00 e na de apreensão de todo o equipamento de mergulho.
 
-###### Art. 71.º O mestre da embarcação que não cumpra qualquer das disposições do capítulo VI será punido com multa de 500$00 a 2000$00 e com a apreensão da sua carta, por período de tempo que não exceda quinze dias.
+Art. 71.º O mestre da embarcação que não cumpra qualquer das disposições do capítulo VI será punido com multa de 500$00 a 2000$00 e com a apreensão da sua carta, por período de tempo que não exceda quinze dias.
 
-###### Art. 72.º O mergulhador sénior que se encontre a bordo na altura em que se cometam infracções ao disposto no capítulo VI, incorre nas penas de multa de 500$00 a 10000$00 e na da apreensão do seu cartão de apanhador por período não inferior a cinco dias.
+Art. 72.º O mergulhador sénior que se encontre a bordo na altura em que se cometam infracções ao disposto no capítulo VI, incorre nas penas de multa de 500$00 a 10000$00 e na da apreensão do seu cartão de apanhador por período não inferior a cinco dias.
 
-###### Art. 73.º Os encarregados dos postos de compra da Junta Central das Casas dos Pescadores que não cumpram o disposto no capítulo VII, incorrem na multa de 500$00 a 10000$00.
+Art. 73.º Os encarregados dos postos de compra da Junta Central das Casas dos Pescadores que não cumpram o disposto no capítulo VII, incorrem na multa de 500$00 a 10000$00.
 
-###### Art. 74.º Às infracções cometidas pelos mergulhadores-apanhadores provisórios são aplicáveis as referidas nos artigos anteriores para mergulhadores-apanhadores efectivos.
+Art. 74.º Às infracções cometidas pelos mergulhadores-apanhadores provisórios são aplicáveis as referidas nos artigos anteriores para mergulhadores-apanhadores efectivos.
 
-###### Art. 75.º As infracções cometidas pelos mergulhadores-apanhadores às disposições do [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, que lhes forem aplicáveis, serão punidas nos termos do mesmo decreto.
+Art. 75.º As infracções cometidas pelos mergulhadores-apanhadores às disposições do [Decreto n.º 43492](https://diariodarepublica.pt/dr/detalhe/decreto/43492-1961-556230), de 1 de Fevereiro de 1961, que lhes forem aplicáveis, serão punidas nos termos do mesmo decreto.
 
-###### Art. 76.º O capitão do porto aplicará as multas consoante as circunstâncias, dentro dos limites legais estabelecidos neste diploma, e atenderá sempre à situação económica do contraventor.
+Art. 76.º O capitão do porto aplicará as multas consoante as circunstâncias, dentro dos limites legais estabelecidos neste diploma, e atenderá sempre à situação económica do contraventor.
 
-###### Art. 77.º Dá-se a reincidência quando o contraventor condenado por uma contravenção prevista neste diploma comete contravenção ao mesmo preceito legal antes de decorrerem seis meses contados desde a dita punição.
+Art. 77.º Dá-se a reincidência quando o contraventor condenado por uma contravenção prevista neste diploma comete contravenção ao mesmo preceito legal antes de decorrerem seis meses contados desde a dita punição.
 
-###### Art. 78.º A primeira reincidência no período do precedente artigo é circunstância agravante e a multa será fixada entre o quíntuplo do mínimo legal e o máximo, acrescido de um terço, do respectivo preceito violado, com punição mais grave do que a anterior.
+Art. 78.º A primeira reincidência no período do precedente artigo é circunstância agravante e a multa será fixada entre o quíntuplo do mínimo legal e o máximo, acrescido de um terço, do respectivo preceito violado, com punição mais grave do que a anterior.
 
-###### Art. 79.º A segunda ou mais reincidências no período do artigo 77.º constituirão, por cada punição, circunstâncias agravantes, de grau cada vez maior, sempre que possível, na fixação das multas, mas dentro dos limites estabelecidos no artigo 78.º
+Art. 79.º A segunda ou mais reincidências no período do artigo 77.º constituirão, por cada punição, circunstâncias agravantes, de grau cada vez maior, sempre que possível, na fixação das multas, mas dentro dos limites estabelecidos no artigo 78.º
 
-###### Art. 80.º Todas as multas referidas no presente capítulo reverterão metade a favor do tesouro público, ou outra fracção que venha a consignar-se nas leis do País, e a restante parte a favor da Casa dos Pescadores local, e bem assim as importâncias das vendas das plantas marinhas e equipamentos apreendidos.
+Art. 80.º Todas as multas referidas no presente capítulo reverterão metade a favor do tesouro público, ou outra fracção que venha a consignar-se nas leis do País, e a restante parte a favor da Casa dos Pescadores local, e bem assim as importâncias das vendas das plantas marinhas e equipamentos apreendidos.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Fernando Quintanilha Mendonça Dias - José Gonçalo da Cunha Sottomayor Correia de Oliveira.
 
 ## ANEXO 1.º — Números de mergulhadores-apanhadores e de embarcações de apanha submarina aos quais se refere o artigo 2.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf))](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf)
 
 ## ANEXO 2.º — Requisitos a que devem satisfazer as instalações de fornecimento de ar montadas em embarcações da apanha submarina
 
@@ -498,6 +525,6 @@ em que:
 
 ## ANEXO 3.º — Modelo do impresso estatístico
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf))](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/25100/18931902.pdf)
 
 Ministério da Marinha, 27 de Outubro de 1967. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

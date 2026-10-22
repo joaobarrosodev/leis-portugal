@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,68 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48365-1968-274846
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2007-01-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 854b4cfb14992b88549742104fa799963cf576773626be229f8d8246240c2916
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a765dba752f43d4db0063587b91b7b8bb8bd5886e0d0e501091f5eb617143835
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Acreditação
+- Definição de Competências
+- Direcção Geral da Marinha
+- Fiscalização
+- Formação Profissional
+- Licenciamento
+- Mergulhador
+- Mergulho
+- Multa
+- Regulamento
+- TAXA de Prestação de Serviços
+- Turismo
 relationships:
 - type: amended_by
   target: pt:dre:522631:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:643102:por
+  label: "Alterada a alínea e) do n.º 3.º do artigo 16.º e o artigo 27.º pelo DEC.321/71.26.07.1971.MMAR, DG.IS [174] de 26.07.1971\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/321-1971-643102
+  date: '1971-07-26'
+- type: cites
+  target: pt:dre:693638:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:522631:por
+  label: "Revogado, com as alterações constantes do Decreto 321/71 de 26 de Julho, pelo DEC LEI.16/2007.22.01.2007.PCM, DR.IS\
+    \ [15] de 22.01.2007\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/16-2007-522631
+  date: '2007-01-22'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:11Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +120,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento para o Exercício do Mergulho Amador na Área de Jurisdição Marítima, que faz parte integrante do presente decreto e vai assinado pelo Ministro da Marinha.
+Artigo 1.º É aprovado o Regulamento para o Exercício do Mergulho Amador na Área de Jurisdição Marítima, que faz parte integrante do presente decreto e vai assinado pelo Ministro da Marinha.
 
-###### Art. 2.º O referido Regulamento entra imediatamente em vigor, com excepção da matéria contida no artigo 36.º, que só será considerada válida a partir de um ano da data da sua publicação.
+Art. 2.º O referido Regulamento entra imediatamente em vigor, com excepção da matéria contida no artigo 36.º, que só será considerada válida a partir de um ano da data da sua publicação.
 
-###### Art. 3.º Dentro de dois anos, a contar da data da publicação deste Regulamento, as autoridades marítimas deverão propor à Direcção-Geral da Marinha as alterações que entendam por conveniente fazerem-se nas suas disposições, o mesmo podendo fazer quaisquer outras entidades interessadas.
+Art. 3.º Dentro de dois anos, a contar da data da publicação deste Regulamento, as autoridades marítimas deverão propor à Direcção-Geral da Marinha as alterações que entendam por conveniente fazerem-se nas suas disposições, o mesmo podendo fazer quaisquer outras entidades interessadas.
 
-###### Art. 4.º Quaisquer alterações ao Regulamento poderão ser efectuadas por despacho do Ministro da Marinha.
+Art. 4.º Quaisquer alterações ao Regulamento poderão ser efectuadas por despacho do Ministro da Marinha.
 
-###### Art. 5.º É revogado o [Decreto n.º 45147](https://diariodarepublica.pt/dr/detalhe/decreto/45147-1963-693638), de 20 de Julho de 1963.
+Art. 5.º É revogado o [Decreto n.º 45147](https://diariodarepublica.pt/dr/detalhe/decreto/45147-1963-693638), de 20 de Julho de 1963.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Fernando Quintanilha Mendonça Dias.
 
@@ -110,31 +138,31 @@ REGULAMENTO PARA O EXERCÍCIO DO MERGULHO AMADOR NA ÁREA DE JURISDIÇÃO MARÍT
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Entende-se por mergulho amador a actividade exercida por um amador, quando se desloca submerso, ou à superfície, equipado com um aparelho respiratório de mergulho.
+Artigo 1.º Entende-se por mergulho amador a actividade exercida por um amador, quando se desloca submerso, ou à superfície, equipado com um aparelho respiratório de mergulho.
 
-###### Art. 2.º Os amadores que exerçam o mergulho amador são designados por mergulhadores amadores.
+Art. 2.º Os amadores que exerçam o mergulho amador são designados por mergulhadores amadores.
 
-###### Art. 3.º Aos mergulhadores amadores é expressamente proibido o recebimento de qualquer remuneração pela prática do mergulho, bem como efectua-lo a favor de organizações com fins lucrativos, mesmo quando a título gratuito.
+Art. 3.º Aos mergulhadores amadores é expressamente proibido o recebimento de qualquer remuneração pela prática do mergulho, bem como efectua-lo a favor de organizações com fins lucrativos, mesmo quando a título gratuito.
 
 § único. Na prática do mergulho amador não é permitida a apanha de peixes, crustáceos, moluscos ou plantas marinhas, salvo para fins científicos e culturais, devidamente autorizados nas condições previstas no artigo 23.º deste Regulamento.
 
-###### Art. 4.º Na prática desta actividade só é permitida a utilização de aparelhos de mergulho de circuito aberto, autónomos ou semiautónomos.
+Art. 4.º Na prática desta actividade só é permitida a utilização de aparelhos de mergulho de circuito aberto, autónomos ou semiautónomos.
 
 § único. Quando as circunstâncias o aconselharem, poderão as autoridades marítimas impedir a utilização de aparelhos de mergulho que, embora do tipo autorizado, verifiquem encontrarem-se em estado do qual possa resultar perigo para os seus utentes.
 
-###### Art. 5.º Na prática do mergulho amador não é permitida a utilização de quaisquer utensílios de pesca ou armas de caça submarina, sendo sòmente permitido o emprego de armas reconhecidas como de defesa (facas e punhais).
+Art. 5.º Na prática do mergulho amador não é permitida a utilização de quaisquer utensílios de pesca ou armas de caça submarina, sendo sòmente permitido o emprego de armas reconhecidas como de defesa (facas e punhais).
 
 § único. É considerada infracção a este Regulamento o transporte conjunto de aparelhos de mergulho e armas de caça submarina numa mesma embarcação, quando esta sirva de apoio aos mergulhadores amadores ou ao seu transporte exclusivo.
 
-###### Art. 6.º A prática do mergulho amador só será permitida nas águas territoriais portuguesas em zonas não interditadas.
+Art. 6.º A prática do mergulho amador só será permitida nas águas territoriais portuguesas em zonas não interditadas.
 
 § único. As zonas interditadas constarão de editais afixados nas capitanias e delegações marítimas.
 
-###### Art. 7.º Na prática do mergulho amador é obrigatória a utilização individual do colete salva-vidas de mergulhador.
+Art. 7.º Na prática do mergulho amador é obrigatória a utilização individual do colete salva-vidas de mergulhador.
 
 ### CAPÍTULO II — Admissão e preparação
 
-###### Art. 8.º As condições gerais a que devem satisfazer os candidatos a mergulhadores amadores para obtenção do respectivo certificado são as seguintes:
+Art. 8.º As condições gerais a que devem satisfazer os candidatos a mergulhadores amadores para obtenção do respectivo certificado são as seguintes:
 
 a) Não ter menos de 17 anos de idade;
 
@@ -146,7 +174,7 @@ d) Possuir como habilitações mínimas o ensino primário ou equivalente;
 
 e) Ter frequentado com aproveitamento um curso de mergulhador amador ministrado por entidade idónea.
 
-###### Art. 9.º O candidato a mergulhador amador deve satisfazer às seguintes condições físicas:
+Art. 9.º O candidato a mergulhador amador deve satisfazer às seguintes condições físicas:
 
 a) Possuir robustez física e mental que lhe permita a prática do mergulho amador;
 
@@ -156,7 +184,7 @@ c) Sistema nervoso normal;
 
 d) Aparelho auditivo e vias aéreas superiores normais, assim como perfeita permeabilidade nasal tubária.
 
-###### Art. 10.º Para ser admitido à frequência do curso de mergulhador amador, o candidato deverá apresentar na entidade idónea que se propõe ministra-lo os seguintes documentos:
+Art. 10.º Para ser admitido à frequência do curso de mergulhador amador, o candidato deverá apresentar na entidade idónea que se propõe ministra-lo os seguintes documentos:
 
 a) Atestado médico comprovando as condições dispostas no artigo 9.º deste Regulamento, acompanhado de radiografia pulmonar e electrocardiograma com os respectivos relatórios;
 
@@ -164,15 +192,15 @@ b) Certidão de idade narrativa simples e autorização dos pais ou tutores, qua
 
 c) Documento comprovativo de ter cumprido o regime de escolaridade obrigatória estabelecido pela lei em vigor.
 
-###### Art. 11.º As entidades idóneas interessadas na formação de mergulhadores armadores só poderão dar o curso que consta da alínea e) do artigo 8.º desde que o mesmo seja ministrado por monitores de mergulho amador.
+Art. 11.º As entidades idóneas interessadas na formação de mergulhadores armadores só poderão dar o curso que consta da alínea e) do artigo 8.º desde que o mesmo seja ministrado por monitores de mergulho amador.
 
-###### Art. 12.º São considerados monitores de mergulho amador os mergulhadores amadores qualificados por um curso destinado à sua formação, no qual lhes será dada a aptidão técnica, teórica e pedagógica para ministrarem os cursos seguintes:
+Art. 12.º São considerados monitores de mergulho amador os mergulhadores amadores qualificados por um curso destinado à sua formação, no qual lhes será dada a aptidão técnica, teórica e pedagógica para ministrarem os cursos seguintes:
 
 a) Curso de mergulhador amador;
 
 b) Curso de monitor de mergulho amador.
 
-###### Art. 13.º As condições gerais a que devem satisfazer os candidatos a monitores de mergulho amador para obtenção da qualificação adequada são as seguintes:
+Art. 13.º As condições gerais a que devem satisfazer os candidatos a monitores de mergulho amador para obtenção da qualificação adequada são as seguintes:
 
 a) Não ter menos de 21 anos de idade;
 
@@ -184,7 +212,7 @@ d) Ser classificado mergulhador amador há mais de seis meses e ter, pelo menos,
 
 e) Ter frequentado com aproveitamento um curso de monitor ministrado por uma das entidades indicadas no artigo 18.º
 
-###### Art. 14.º Para ser admitido à frequência do curso de monitor de mergulho amador, o candidato deverá apresentar à entidade competente que o ministra (artigo 18.º) os seguintes documentos:
+Art. 14.º Para ser admitido à frequência do curso de monitor de mergulho amador, o candidato deverá apresentar à entidade competente que o ministra (artigo 18.º) os seguintes documentos:
 
 a) Atestado médico comprovando as condições de aptidão física dispostas no artigo 9.º deste Regulamento, acompanhado de radiografia pulmonar e electrocardiograma com os relatórios respectivos;
 
@@ -194,11 +222,11 @@ c) Documento comprovativo de possuir como habilitações mínimas o 7.º ano dos
 
 d) Caderno de mergulho, passado pela entidade competente, que comprove que é mergulhador amador há mais de seis meses e tenha, pelo menos, 40 horas de mergulho.
 
-###### Art. 15.º O exame final do curso de monitor de mergulho amador deverá ser realizado no serviço de mergulhadores e de salvação da Direcção do Serviço de Submersíveis, o que será solicitado à Direcção-Geral da Marinha por requerimento da entidade que ministrou o referido curso.
+Art. 15.º O exame final do curso de monitor de mergulho amador deverá ser realizado no serviço de mergulhadores e de salvação da Direcção do Serviço de Submersíveis, o que será solicitado à Direcção-Geral da Marinha por requerimento da entidade que ministrou o referido curso.
 
 ### CAPÍTULO III — Idoneidade das entidades interessadas na formação de mergulhadores amadores e de monitores de mergulho amador
 
-###### Art. 16.º As entidades particulares só serão consideradas como idóneas para o efeito da formação de mergulhadores amadores quando satisfaçam as seguintes condições:
+Art. 16.º As entidades particulares só serão consideradas como idóneas para o efeito da formação de mergulhadores amadores quando satisfaçam as seguintes condições:
 
 1.º Tenham tido aprovação os seus programas de cursos de mergulhador amador, sendo esta aprovação dada pela Direcção-Geral da Marinha, sob parecer da Direcção do Serviço de Submersíveis.
 
@@ -256,17 +284,17 @@ e) Sempre que estejam mergulhadores na água, as embarcações ou bóias devem e
 
 § único. A não observância de qualquer destas condições poderá acarretar à perda do reconhecimento da idoneidade atrás referida pelas autoridades de Marinha.
 
-###### Art. 17.º Os cursos de mergulhador amador poderão ser ministrados pelas entidades particulares consideradas idóneas nas condições referidas no artigo 16.º, pelos serviços competentes do Ministério da Marinha, e por estabelecimentos de ensino oficial cujos programas tenham tido aprovação da Direcção-Geral da Marinha, sob parecer da Direcção do Serviço de Submersíveis.
+Art. 17.º Os cursos de mergulhador amador poderão ser ministrados pelas entidades particulares consideradas idóneas nas condições referidas no artigo 16.º, pelos serviços competentes do Ministério da Marinha, e por estabelecimentos de ensino oficial cujos programas tenham tido aprovação da Direcção-Geral da Marinha, sob parecer da Direcção do Serviço de Submersíveis.
 
-###### Art. 18.º O planeamento, formação e regência dos cursos de monitor de mergulho amador serão atribuídos a estabelecimentos de ensino oficial cuja competência para esse fim seja reconhecida pelo Ministério da Marinha, devendo em qualquer dos casos os programas dos cursos ter aprovação da Direcção-Geral da Marinha, sob parecer da Direcção do Serviço de Submersíveis, e ser, os mesmos, regidos por um monitor de mergulho amador.
+Art. 18.º O planeamento, formação e regência dos cursos de monitor de mergulho amador serão atribuídos a estabelecimentos de ensino oficial cuja competência para esse fim seja reconhecida pelo Ministério da Marinha, devendo em qualquer dos casos os programas dos cursos ter aprovação da Direcção-Geral da Marinha, sob parecer da Direcção do Serviço de Submersíveis, e ser, os mesmos, regidos por um monitor de mergulho amador.
 
 Por decisão do Ministério da Marinha poderão os serviços competentes deste Ministério ministrar os referidos cursos, por si sós ou em colaboração com as entidades atrás citadas.
 
 ### CAPÍTULO IV — Caderno de mergulho e livrete de material
 
-###### Art. 19.º Os mergulhadores amadores e os monitores de mergulho amador possuirão um documento designado por «Caderno de mergulho», passado, após aprovação em exame efectuado depois de ter obtido aproveitamento no respectivo curso, pela entidade que o ministre.
+Art. 19.º Os mergulhadores amadores e os monitores de mergulho amador possuirão um documento designado por «Caderno de mergulho», passado, após aprovação em exame efectuado depois de ter obtido aproveitamento no respectivo curso, pela entidade que o ministre.
 
-###### Art. 20.º No caderno de mergulho do modelo indicado no anexo A constarão essencialmente os seguintes elementos:
+Art. 20.º No caderno de mergulho do modelo indicado no anexo A constarão essencialmente os seguintes elementos:
 
 a) Comprovação de estar qualificado como mergulhador amador ou monitor de mergulho amador;
 
@@ -278,7 +306,7 @@ d) Registo de aptidões literárias;
 
 e) Registo de observações, nas quais, entre outras, poderão ser mencionadas as que o mergulhador amador ou monitor julgar convenientes como credenciais à actividade subsidiária que desejar desenvolver durante a prática do mergulho amador (recreativa, cultural, científica, técnica, etc).
 
-###### Art. 21.º Os mergulhadores amadores e os monitores de mergulho amador possuirão, ainda, um documento designado por «Livrete de material», do modelo indicado no anexo B, no qual constarão essencialmente os seguintes elementos:
+Art. 21.º Os mergulhadores amadores e os monitores de mergulho amador possuirão, ainda, um documento designado por «Livrete de material», do modelo indicado no anexo B, no qual constarão essencialmente os seguintes elementos:
 
 a) Marca e tipo do ou dos aparelhos de mergulho de que é proprietário ou utiliza;
 
@@ -288,7 +316,7 @@ c) Provas hidráulicas das garrafas para teste de segurança.
 
 ### CAPÍTULO V — Prática do mergulho amador
 
-###### Art. 22.º Para a prática do mergulho amador dentro da área da jurisdição marítima é obrigatória a posse dos documentos seguintes:
+Art. 22.º Para a prática do mergulho amador dentro da área da jurisdição marítima é obrigatória a posse dos documentos seguintes:
 
 a) Caderno de mergulho visado pelas autoridades marítimas (capitanias ou delegações marítimas da área de jurisdição marítima mais próxima à residência do interessado);
 
@@ -300,29 +328,29 @@ c) Bilhete de identidade;
 
 § 2.º Os documentos referidos nas alíneas a), b) e c) deverão acompanhar o mergulhador amador até ao local onde este se equipe para a execução do mergulho, devendo ser apresentados às autoridades quando solicitaddos.
 
-###### Art. 23.º Quando na prática do mergulho amador e no desenvolvimento de actividades subsidiárias deste (recreativa, cultural, científica, técnica, etc.) seja utilizado qualquer equipamento, além do aparelho de mergulho e armas de defesa, deverá, para uso do mesmo, ser obtida prévia autorização da capitania ou delegação marítima da área da jurisdição marítima onde é utilizado, devendo ser completamente esclarecidos os limites da área da execução do mergulho e a actividade subsidiária a que este se destina.
+Art. 23.º Quando na prática do mergulho amador e no desenvolvimento de actividades subsidiárias deste (recreativa, cultural, científica, técnica, etc.) seja utilizado qualquer equipamento, além do aparelho de mergulho e armas de defesa, deverá, para uso do mesmo, ser obtida prévia autorização da capitania ou delegação marítima da área da jurisdição marítima onde é utilizado, devendo ser completamente esclarecidos os limites da área da execução do mergulho e a actividade subsidiária a que este se destina.
 
-###### Art. 24.º Na prática do mergulho amador no mar e a partir de 40 m, inclusive, além da presença de um monitor, é obrigatório dar satisfação às condições de segurança exigidas no artigo 16.º, alínea 3.ª
+Art. 24.º Na prática do mergulho amador no mar e a partir de 40 m, inclusive, além da presença de um monitor, é obrigatório dar satisfação às condições de segurança exigidas no artigo 16.º, alínea 3.ª
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 25.º Pelos vistos apostos nos cadernos de mergulho pelas capitanias ou delegações marítimas será cobrada em selos a taxa de 100$00, que reverterá totalmente para o Instituto de Socorros a Náufragos.
+Art. 25.º Pelos vistos apostos nos cadernos de mergulho pelas capitanias ou delegações marítimas será cobrada em selos a taxa de 100$00, que reverterá totalmente para o Instituto de Socorros a Náufragos.
 
 Outras taxas e emolumentos respeitantes aos serviços prestados pelas autoridades marítimas em vistorias, exames, inspecções, etc., constam da tabela anexa ao presente diploma (anexo C).
 
 § 1.º Estas taxas e emolumentos serão cobrados pelas capitanias com jurisdição na área onde os serviços forem prestados, que lhes darão o destino legal.
 
-###### Art. 26.º Os mergulhadores amadores e monitores de mergulho amador deverão, para sua própria segurança, verificar junto das autoridades marítimas das áreas ou zonas onde pretendem exercer a sua actividade se existe algum impedimento. Tomarão ainda o cuidado de se informarem de quaisquer avisos, proibições ou interdições, temporárias ou permanentes, que tenham sido emanadas por essas ou outras autoridades.
+Art. 26.º Os mergulhadores amadores e monitores de mergulho amador deverão, para sua própria segurança, verificar junto das autoridades marítimas das áreas ou zonas onde pretendem exercer a sua actividade se existe algum impedimento. Tomarão ainda o cuidado de se informarem de quaisquer avisos, proibições ou interdições, temporárias ou permanentes, que tenham sido emanadas por essas ou outras autoridades.
 
-###### Art. 27.º Aos turistas estrangeiros com permanência no País inferior a 60 dias é permitido o livre exercício do mergulho amador desde que, em substituição do preceituado no artigo 10.º deste regulamento, apresentem às autoridades marítimas um documento comprovativo de que estão qualificados para aquela actividade, passado pelo país de origem, ficando, no entanto, sujeitos às restantes disposições aplicáveis a nacionais.
+Art. 27.º Aos turistas estrangeiros com permanência no País inferior a 60 dias é permitido o livre exercício do mergulho amador desde que, em substituição do preceituado no artigo 10.º deste regulamento, apresentem às autoridades marítimas um documento comprovativo de que estão qualificados para aquela actividade, passado pelo país de origem, ficando, no entanto, sujeitos às restantes disposições aplicáveis a nacionais.
 
-###### Art. 28.º Aos achados provenientes da prática de mergulho amador são aplicáveis as disposições legais a que estão sujeitos os achados no mar ou nas praias.
+Art. 28.º Aos achados provenientes da prática de mergulho amador são aplicáveis as disposições legais a que estão sujeitos os achados no mar ou nas praias.
 
-###### Art. 29.º Os praticantes do mergulho amador, nacionais e estrangeiros, deverão obedecer a todas as disposições contidas no presente Regulamento, bem como ficam sujeitos na prática desta actividade a todas as disposições do Regulamento Geral das Capitanias, na parte aplicável, e a todas as instruções ou determinações emanadas pelas autoridades marítimas relativas à prática do mergulho.
+Art. 29.º Os praticantes do mergulho amador, nacionais e estrangeiros, deverão obedecer a todas as disposições contidas no presente Regulamento, bem como ficam sujeitos na prática desta actividade a todas as disposições do Regulamento Geral das Capitanias, na parte aplicável, e a todas as instruções ou determinações emanadas pelas autoridades marítimas relativas à prática do mergulho.
 
-###### Art. 30.º Ao Serviço de Mergulhadores e de Salvação da Direcção do Serviço de Submersíveis é reconhecida a competência de fiscalizar, no aspecto técnico, as actividades de qualquer entidade que promova cursos de mergulhadores amadores ou pratique a modalidade do mergulho amador, devendo a referida Direcção comunicar à Direcção-Geral da Marinha as deficiências técnicas que aquele Serviço verificar. Compete ainda a este Serviço instruir devidamente o pessoal das capitanias e delegações marítimas para o efeito da fiscalização por este efectuada aos aparelhos de mergulho usados pelos mergulhadores amadores nas zonas da sua jurisdição.
+Art. 30.º Ao Serviço de Mergulhadores e de Salvação da Direcção do Serviço de Submersíveis é reconhecida a competência de fiscalizar, no aspecto técnico, as actividades de qualquer entidade que promova cursos de mergulhadores amadores ou pratique a modalidade do mergulho amador, devendo a referida Direcção comunicar à Direcção-Geral da Marinha as deficiências técnicas que aquele Serviço verificar. Compete ainda a este Serviço instruir devidamente o pessoal das capitanias e delegações marítimas para o efeito da fiscalização por este efectuada aos aparelhos de mergulho usados pelos mergulhadores amadores nas zonas da sua jurisdição.
 
-###### Art. 31.º Qualquer entidade particular que deseje ser considerada como idónea para a promoção de cursos de mergulhador amador deverá enviar prèviamente à Direc-Geral da Marinha os seguintes elementos:
+Art. 31.º Qualquer entidade particular que deseje ser considerada como idónea para a promoção de cursos de mergulhador amador deverá enviar prèviamente à Direc-Geral da Marinha os seguintes elementos:
 
 Programas dos cursos a realizar;
 
@@ -336,17 +364,17 @@ Nome do médico e enfermeiro que prestarão assistência ao curso.
 
 § único. Cada entidade particular, após ser considerada como idónea, deverá comunicar à Direcção-Geral da Marinha as datas de início dos cursos, nomes dos monitores responsáveis por cada curso, atendendo a que, por cada grupo de quatro alunos, deverá haver um monitor.
 
-###### Art. 32.º As entidades particulares que ministrem cursos ou se dediquem à prática da modalidade do mergulho amador são responsáveis pelo estado do equipamento de mergulho, quando este for de sua propriedade.
+Art. 32.º As entidades particulares que ministrem cursos ou se dediquem à prática da modalidade do mergulho amador são responsáveis pelo estado do equipamento de mergulho, quando este for de sua propriedade.
 
-###### Art. 33.º Os monitores do mergulho amador são responsáveis pela forma como orientam os cursos e pela devida vigilância que requerem as aulas práticas, no que diz respeito a condições de segurança dos alunos.
+Art. 33.º Os monitores do mergulho amador são responsáveis pela forma como orientam os cursos e pela devida vigilância que requerem as aulas práticas, no que diz respeito a condições de segurança dos alunos.
 
-###### Art. 34.º O mergulhador profissional poderá, mediante a frequência e aprovação no curso de monitor de mergulho amador e obedecendo de um modo geral ao que estipula o presente Regulamento, e designadamente às alíneas a), b) e c) do artigo 13.º, obter a categoria de monitor de mergulho amador.
+Art. 34.º O mergulhador profissional poderá, mediante a frequência e aprovação no curso de monitor de mergulho amador e obedecendo de um modo geral ao que estipula o presente Regulamento, e designadamente às alíneas a), b) e c) do artigo 13.º, obter a categoria de monitor de mergulho amador.
 
-###### Art. 35.º Os monitores de mergulho amador poderão auferir remunerações pela sua actividade, quando esta ùnicamente se reporte a serviços de instrução de mergulhadores amadores.
+Art. 35.º Os monitores de mergulho amador poderão auferir remunerações pela sua actividade, quando esta ùnicamente se reporte a serviços de instrução de mergulhadores amadores.
 
 ### CAPÍTULO VII — Penalidades
 
-###### Art. 36.º Às contravenções às disposições do presente Regulamento serão aplicáveis as seguintes, penalidades:
+Art. 36.º Às contravenções às disposições do presente Regulamento serão aplicáveis as seguintes, penalidades:
 
 a) Admoestação;
 
@@ -378,19 +406,19 @@ Delegado marítimo com jurisdição na área onde foi verificada a transgressão
 
 § 6.º As penalidades indicadas nas alíneas a), b), c), d) e e) deverão ser registadas no caderno de mergulho.
 
-###### Art. 37.º Quando se verificar a apreensão de equipamento ou material, deverá este ser enviado à Direcção do Serviço de Submersíveis juntamente com auto de notícia donde constem os motivos da apreensão. Uma vez completado o respectivo auto por aquela Direcção, competirá à Direcção-Geral da Marinha a decisão sobre o destino a dar ao material apreendido.
+Art. 37.º Quando se verificar a apreensão de equipamento ou material, deverá este ser enviado à Direcção do Serviço de Submersíveis juntamente com auto de notícia donde constem os motivos da apreensão. Uma vez completado o respectivo auto por aquela Direcção, competirá à Direcção-Geral da Marinha a decisão sobre o destino a dar ao material apreendido.
 
 ### CAPÍTULO VIII — Disposições transitórias
 
-###### Art. 38.º Todos os indivíduos que à data da publicação do presente decreto tenham sido considerados como escafandristas passarão a ser denominados por mergulhadores amadores, devendo, dentro do prazo de um ano, a partir da data da publicação do presente decreto, satisfazer o preceituado no mesmo.
+Art. 38.º Todos os indivíduos que à data da publicação do presente decreto tenham sido considerados como escafandristas passarão a ser denominados por mergulhadores amadores, devendo, dentro do prazo de um ano, a partir da data da publicação do presente decreto, satisfazer o preceituado no mesmo.
 
-###### Art. 39.º Todos os indivíduos que à data da publicação do presente decreto tenham sido considerados como monitores de escafandria passarão a ter a denominação de monitores de mergulho amador.
+Art. 39.º Todos os indivíduos que à data da publicação do presente decreto tenham sido considerados como monitores de escafandria passarão a ter a denominação de monitores de mergulho amador.
 
 § único. Os indivíduos referidos neste artigo deixam de ser considerados como monitores de mergulho amador se, dentro do prazo de um ano, a partir da data da publicação do presente Regulamento, não requererem à Direcção-Geral da Marinha a homologação da classificação referida.
 
 Ministério da Marinha, 2 de Maio de 1968. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
-## ANEXO A — [([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf)
+## ANEXO A — [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf)
 
 RECOMENDAÇÕES IMPORTANTES
 
@@ -398,27 +426,27 @@ Disposições do regulamento aprovado pelo Decreto n.º 48365
 
 ...
 
-###### Art. 3.º Aos mergulhadores amadores é expressamente proibido o recebimento de qualquer remuneração pela prática do mergulho, bem como efectuá-lo a favor de organizações com fins lucrativos, mesmo quando a título gratuito.
+Art. 3.º Aos mergulhadores amadores é expressamente proibido o recebimento de qualquer remuneração pela prática do mergulho, bem como efectuá-lo a favor de organizações com fins lucrativos, mesmo quando a título gratuito.
 
 § único. Na prática do mergulho amador não é permitida a apanha de peixes, crustáceos, moluscos ou plantas marinhas, salvo para fins científicos e culturais, devidamente autorizados nas condições previstas no artigo 23.º deste regulamento.
 
-###### Art. 4.º Na prática desta actividade só é permitida a utilização de aparelhos de mergulho de circuito aberto, autónomos ou semiautónomos.
+Art. 4.º Na prática desta actividade só é permitida a utilização de aparelhos de mergulho de circuito aberto, autónomos ou semiautónomos.
 
 § único. Quando as circunstâncias o aconselharem, poderão as autoridades marítimas impedir a utilização de aparelhos de mergulho que, embora do tipo autorizado, verifiquem encontrarem-se em estado do qual possa resultar perigo para os seus utentes.
 
-###### Art. 5.º Na prática do mergulho amador não é permitida a utilização de quaisquer utensílios de pesca ou armas de caça submarina, sendo sòmente permitido o emprego de armas reconhecidas como de defesa (facas e punhais).
+Art. 5.º Na prática do mergulho amador não é permitida a utilização de quaisquer utensílios de pesca ou armas de caça submarina, sendo sòmente permitido o emprego de armas reconhecidas como de defesa (facas e punhais).
 
 § único. É considerada infracção a este regulamento o transporte conjunto de aparelhos de mergulho e armas de caça submarina numa mesma embarcação, quando esta sirva de apoio aos mergulhadores amadores ou ao seu transporte exclusivo.
 
-###### Art. 6.º A prática do mergulho amador só será permitida nas águas territoriais portuguesas em zonas não interditadas.
+Art. 6.º A prática do mergulho amador só será permitida nas águas territoriais portuguesas em zonas não interditadas.
 
 § único. As zonas interditadas constarão de editais afixados nas capitanias e delegações marítimas.
 
-###### Art. 7.º Na prática do mergulho amador é obrigatória a utilização individual do colete salva-vidas de mergulhador.
+Art. 7.º Na prática do mergulho amador é obrigatória a utilização individual do colete salva-vidas de mergulhador.
 
 ...
 
-###### Art. 22.º Para a prática do mergulho amador dentro da área da jurisdição marítima é obrigatória a posse dos documentos seguintes:
+Art. 22.º Para a prática do mergulho amador dentro da área da jurisdição marítima é obrigatória a posse dos documentos seguintes:
 
 a) Caderno de mergulho visado pelas autoridades marítimas (capitanias ou delegações marítimas da área de jurisdição marítima mais próxima da residência do interessado);
 
@@ -430,21 +458,21 @@ c) Bilhete de identidade.
 
 § 2.º Os documentos referidos nas alíneas a), b) e c) deverão acompanhar o mergulhador amador até ao local onde este se equipe para a execução do mergulho, devendo ser apresentados às autoridades quando solicitados.
 
-###### Art. 23.º Quando na prática do mergulho amador e no desenvolvimento de actividades subsidiárias deste (recreativa, cultural, científica, técnica, etc.) seja utilizado qualquer equipamento, além do aparelho de mergulho e armas de defesa, deverá, para uso do mesmo, ser obtida prévia autorização da capitania ou delegação marítima da área da jurisdição marítima onde é utilizado, devendo ser completamente esclarecidos os limites da área de execução do mergulho e a actividade subsidiária a que este se destina.
+Art. 23.º Quando na prática do mergulho amador e no desenvolvimento de actividades subsidiárias deste (recreativa, cultural, científica, técnica, etc.) seja utilizado qualquer equipamento, além do aparelho de mergulho e armas de defesa, deverá, para uso do mesmo, ser obtida prévia autorização da capitania ou delegação marítima da área da jurisdição marítima onde é utilizado, devendo ser completamente esclarecidos os limites da área de execução do mergulho e a actividade subsidiária a que este se destina.
 
-###### Art. 24.º Na prática do mergulho amador no mar e a partir de 40 m, inclusive, além da presença de um monitor, é obrigatório dar satisfação às condições de segurança exibidas no artigo 16.º, alínea 3.
-
-...
-
-###### Art. 26.º Os mergulhadores amadores e monitores de mergulho amador deverão, para sua própria segurança, verificar junto das autoridades marítimas das áreas ou zonas onde pretendem exercer a sua actividade se existe algum impedimento. Tomarão ainda o cuidado de se informarem de quaisquer avisos, proibições ou interdições, temporárias ou permanentes, que tenham sido emanadas por essas ou outras autoridades.
+Art. 24.º Na prática do mergulho amador no mar e a partir de 40 m, inclusive, além da presença de um monitor, é obrigatório dar satisfação às condições de segurança exibidas no artigo 16.º, alínea 3.
 
 ...
 
-###### Art. 28.º Aos achados provenientes da prática de mergulho amador são aplicáveis as disposições legais a que estão sujeitos os achados no mar ou nas praias.
+Art. 26.º Os mergulhadores amadores e monitores de mergulho amador deverão, para sua própria segurança, verificar junto das autoridades marítimas das áreas ou zonas onde pretendem exercer a sua actividade se existe algum impedimento. Tomarão ainda o cuidado de se informarem de quaisquer avisos, proibições ou interdições, temporárias ou permanentes, que tenham sido emanadas por essas ou outras autoridades.
 
-###### Art. 29.º Os praticantes do mergulho amador, nacionais e estrangeiros, deverão obedecer a todas as disposições contidas no presente regulamento, bem como ficam sujeitos, na prática desta actividade, a todas as disposições do Regulamento Geral das Capitanias, na parte aplicável, e a todas as instruções ou determinações emanadas pelas autoridades marítimas relativas à prática do mergulho.
+...
 
-## ANEXO B — [([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf)
+Art. 28.º Aos achados provenientes da prática de mergulho amador são aplicáveis as disposições legais a que estão sujeitos os achados no mar ou nas praias.
+
+Art. 29.º Os praticantes do mergulho amador, nacionais e estrangeiros, deverão obedecer a todas as disposições contidas no presente regulamento, bem como ficam sujeitos, na prática desta actividade, a todas as disposições do Regulamento Geral das Capitanias, na parte aplicável, e a todas as instruções ou determinações emanadas pelas autoridades marítimas relativas à prática do mergulho.
+
+## ANEXO B — [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf)
 
 ## ANEXO C — TABELA DE TAXAS E EMOLUMENTOS
 
@@ -482,7 +510,7 @@ Escrivão ... 10$00
 
 Quando, por necessidades de exames, vistorias ou inspecções, os mergulhadores da Armada tenham de estar sujeitos a pressão (imersão em meio líquido ou em câmaras de recompressão), serão pagos em função da tabela seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10500/06430654.pdf)
 
 4. Serviços fora das horas normais de serviço:
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48209-1968-233134
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ef581647e9d9377a5f2301790b14120f564ca61706290f1441d9574bf36afbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44af182060006ad3449aaf59337a42a96a2640c5f1bcffc3afdb0353ad099cde
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:376660:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524671:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:00Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +95,9 @@ Tendo em vista o que foi proposto pelos conselhos escolares das Faculdades de En
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 89.º do Regulamento da Faculdade de Engenharia da Universidade do Porto, aprovado pelo [Decreto n.º 24966](https://diariodarepublica.pt/dr/detalhe/decreto/24966-1935-376660), de 23 de Janeiro de 1935, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 89.º do Regulamento da Faculdade de Engenharia da Universidade do Porto, aprovado pelo [Decreto n.º 24966](https://diariodarepublica.pt/dr/detalhe/decreto/24966-1935-376660), de 23 de Janeiro de 1935, passa a ter a seguinte redacção:
 
-###### Art. 89.º As provas de concurso constarão de:
+Art. 89.º As provas de concurso constarão de:
 
 a) Apreciação e discussão dos trabalhos científicos ou profissionais do candidato por dois membros do júri, durante o tempo mínimo de uma hora e máximo de hora e meia;
 
@@ -97,9 +105,9 @@ b) Lição de uma hora sobre assunto escolhido pelo candidato, seguida de discus
 
 § único. O assunto da lição deve ser comunicado ao júri pelo menos com vinte dias de antecedência.
 
-###### Art. 2.º O corpo e o § 1.º do artigo 83.º do Regulamento da Faculdade de Farmácia da Universidade do Porto, aprovado pelo [Decreto n.º 21005](https://diariodarepublica.pt/dr/detalhe/decreto/21005-1932-524671), de 15 de Março de 1932, passam a ter a seguinte redacção:
+Art. 2.º O corpo e o § 1.º do artigo 83.º do Regulamento da Faculdade de Farmácia da Universidade do Porto, aprovado pelo [Decreto n.º 21005](https://diariodarepublica.pt/dr/detalhe/decreto/21005-1932-524671), de 15 de Março de 1932, passam a ter a seguinte redacção:
 
-###### Art. 83.º As provas documentais e públicas constarão de:
+Art. 83.º As provas documentais e públicas constarão de:
 
 a) Apreciação e discussão dos trabalhos científicos do candidato por dois membros do júri, durante o tempo mínimo de uma hora e máximo de hora e meia;
 
@@ -107,6 +115,6 @@ b) Lição de uma hora sobre assunto escolhido pelo candidato, seguida de discus
 
 § 1.º O assunto da lição deve ser comunicado ao júri pelo menos com vinte dias de antecedência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

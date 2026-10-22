@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48637-1968-264295
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c55e2ac7fd106e95eda6095265a4c7d386db1429dd21ecbb50b4e41e11f35e6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b12abe9c91819608144878add834f44dc56a9ab0084ff292fee422114d494798
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:342586:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478628:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
+  article_count: 0
   section_count: 2
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:26Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +115,7 @@ Disposições especiais
 
 A) Moçambique
 
-###### Artigo 1.º No mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, são introduzidas as seguintes alterações:
+Artigo 1.º No mapa VI anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956, são introduzidas as seguintes alterações:
 
 Serviços de saúde:
 
@@ -111,21 +131,21 @@ A eliminar:
 
 Director do laboratório de análises químicas e bacteriológicas da Beira ... 500$00
 
-###### Art. 2.º O artigo 2.º e seu § único do [Decreto n.º 47297](https://diariodarepublica.pt/dr/detalhe/decreto/47297-1966-478628), de 31 de Outubro de 1966, passam a ter a seguinte redacção:
+Art. 2.º O artigo 2.º e seu § único do [Decreto n.º 47297](https://diariodarepublica.pt/dr/detalhe/decreto/47297-1966-478628), de 31 de Outubro de 1966, passam a ter a seguinte redacção:
 
-###### Art. 2.º As vagas de piloto-mor e de sota-piloto-mor são preenchidas por concurso documental entre funcionários de categoria imediatamente inferior da mesma secção de pilotagem.
+Art. 2.º As vagas de piloto-mor e de sota-piloto-mor são preenchidas por concurso documental entre funcionários de categoria imediatamente inferior da mesma secção de pilotagem.
 
 § único. Na classificação tomar-se-ão em consideração a folha de serviços, as habilitações literárias e a antiguidade.
 
 B) Macau
 
-###### Art. 3.º No quadro complementar de outros técnicos especializados dos Serviços de Saúde e Assistência da província é criado um lugar de médico malariologista, que se considera incluído no grupo F do artigo 90.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 3.º No quadro complementar de outros técnicos especializados dos Serviços de Saúde e Assistência da província é criado um lugar de médico malariologista, que se considera incluído no grupo F do artigo 90.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
 § único. Para o lugar criado pelo corpo do artigo transitará sem quaisquer formalidades, incluindo visto e posse, o actual médico malariologista, eventual, dos mesmos Serviços.
 
-###### Art. 4.º Ao director de 3.ª classe do quadro comum de Fazenda do ultramar provido no lugar criado pelo artigo 1.º do [Decreto n.º 47785](https://diariodarepublica.pt/dr/detalhe/decreto/47785-1967-314047), de 8 de Julho de 1967, compete, em especial, sob a superintendência do chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade, o exercício de idênticas funções às que, pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, estão cometidas aos inspectores-chefes das Inspecções Provinciais de Fazenda de Angola e Moçambique, além de outras que forem superiormente determinadas.
+Art. 4.º Ao director de 3.ª classe do quadro comum de Fazenda do ultramar provido no lugar criado pelo artigo 1.º do [Decreto n.º 47785](https://diariodarepublica.pt/dr/detalhe/decreto/47785-1967-314047), de 8 de Julho de 1967, compete, em especial, sob a superintendência do chefe da Repartição Provincial dos Serviços de Fazenda e Contabilidade, o exercício de idênticas funções às que, pelo [Decreto n.º 42082](https://diariodarepublica.pt/dr/detalhe/decreto/42082-1958-342586), de 31 de Dezembro de 1958, estão cometidas aos inspectores-chefes das Inspecções Provinciais de Fazenda de Angola e Moçambique, além de outras que forem superiormente determinadas.
 
-###### Art. 5.º No quadro do pessoal assalariado permanente do almoxarifado de Fazenda da província são criados os seguintes lugares, com o salário correspondente ao grupo Y a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 5.º No quadro do pessoal assalariado permanente do almoxarifado de Fazenda da província são criados os seguintes lugares, com o salário correspondente ao grupo Y a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Dois de porteira para os blocos residenciais de funcionários.
 
@@ -133,15 +153,15 @@ Um de encarregado de elevadores.
 
 § único. Transitam para os lugares criados pelo corpo do artigo as actuais porteiras dos Blocos Residenciais Flora e Praia Grande e o encarregado do elevador do edifício das repartições públicas, admitidos em regime de assalariados eventuais, com dispensa das formalidades legais, incluindo visto e posse.
 
-###### Art. 6.º Aos patrões de embarcação do quadro do pessoal assalariado dos Serviços de Marinha da província é atribuído o salário correspondente à letra V a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, com efeito desde a data de inscrição de verba no orçamento geral.
+Art. 6.º Aos patrões de embarcação do quadro do pessoal assalariado dos Serviços de Marinha da província é atribuído o salário correspondente à letra V a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, com efeito desde a data de inscrição de verba no orçamento geral.
 
-###### Art. 7.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 3730000$00, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano em curso, tomando como contrapartida o saldo das contas de exercícios findos:
+Art. 7.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 3730000$00, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano em curso, tomando como contrapartida o saldo das contas de exercícios findos:
 
 ### CAPÍTULO 4.º — Administração geral e fiscalização
 
 Pagamento de serviços:
 
-###### Artigo 122.º «Despesas de higiene, saúde e conforto»:
+Artigo 122.º «Despesas de higiene, saúde e conforto»:
 
 N.º 2) «Dietas, combustível e utensílios de cozinha» ... 1330000$00
 
@@ -149,7 +169,7 @@ N.º 4) «Medicamentos, apósitos, vacinas, drogas, instrumentos cirúrgicos, ut
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 283.º «Deslocações do pessoal»:
+Artigo 283.º «Deslocações do pessoal»:
 
 N., 4) «Passagens de ou para o exterior», alínea b) «Por quaisquer outros motivos»:
 
@@ -159,9 +179,9 @@ N., 4) «Passagens de ou para o exterior», alínea b) «Por quaisquer outros mo
 
 C) Timor
 
-###### Art. 8.º Fica o Governo da província autorizado a abrir um crédito especial de 409368$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1967.
+Art. 8.º Fica o Governo da província autorizado a abrir um crédito especial de 409368$00, tomando como contrapartida o saldo das contas de exercícios findos, destinado a regularizar despesas feitas em 1967.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

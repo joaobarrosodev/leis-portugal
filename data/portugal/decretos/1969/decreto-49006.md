@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49006-1969-201247
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 29a8f5be77c3effe6c8d4cbc3df03d03870e37caa49cec2cdf2d4535b54f19c2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4500d09f35f2b6fa8bf6c4703cb60af4428a0fca4e3a7e987bd61fc93af72284
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:21Z'
   warnings: []
   errors: []
 ---
@@ -89,19 +89,19 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo-Geral de Angola a prestar aval ao Banco de Angola para garantia de um empréstimo de 6000000$00 a contrair pela Congregação das Irmãs de Santa Doroteia.
+Artigo 1.º - 1. É autorizado o Governo-Geral de Angola a prestar aval ao Banco de Angola para garantia de um empréstimo de 6000000$00 a contrair pela Congregação das Irmãs de Santa Doroteia.
 
 2. Os fundos mutuados destinam-se à construção da 1.ª fase de um colégio no Lobito.
 
-###### Art. 2.º O empréstimo vence o juro de 5 por cento ao ano e será amortizado em quinze prestações anuais, sendo a primeira paga dois anos após a celebração do contrato.
+Art. 2.º O empréstimo vence o juro de 5 por cento ao ano e será amortizado em quinze prestações anuais, sendo a primeira paga dois anos após a celebração do contrato.
 
-###### Art. 3.º A província de Angola gozará de privilégio creditório, nos termos dos artigos 733.º a 753.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
+Art. 3.º A província de Angola gozará de privilégio creditório, nos termos dos artigos 733.º a 753.º do Código Civil, pelas quantias que despender para cumprimento das responsabilidades assumidas nos termos deste decreto.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Maio de 1969.**
+Promulgado em 2 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

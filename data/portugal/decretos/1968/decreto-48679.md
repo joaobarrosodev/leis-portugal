@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48679-1968-263554
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85c3fd479f5d5a530831b9a8bbb54589fa931724366e164a78db6dd8b2ecdfe4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c6899a21b7e2532b14ae57db2b4bfa289291f76a1ca133c8bf3e4efe79e7cebc
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:48Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +93,7 @@ Com fundamento nas disposições do artigo 3.º do [Decreto-Lei n.º 24914](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
+Artigo 1.º São autorizadas as repartições da Direcção-Geral da Contabilidade Pública respectivas a mandar satisfazer, em conta da verba de despesas de anos económicos findos inscrita nos orçamentos do actual ano económico, as seguintes quantias:
 
 Encargos Gerais da Nação
 
@@ -149,7 +153,7 @@ Ministério das Corporações e Previdência Social
 
 Despesas do ano de 1967 referentes a correios e telégrafos e luz, aquecimento, água, lavagem e limpeza, contraídas pela Secretaria-Geral do Ministério e delegações do Instituto Nacional do Trabalho e Previdência de Évora e Portalegre ... 1048$80
 
-###### Art. 2.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, em conta da verba de despesas de anos económicos findos inscrita nos seus actuais orçamentos privativos, os serviços seguintes:
+Art. 2.º Ficam igualmente autorizados a satisfazer as quantias abaixo indicadas, em conta da verba de despesas de anos económicos findos inscrita nos seus actuais orçamentos privativos, os serviços seguintes:
 
 Cadeia Central de Lisboa
 
@@ -165,8 +169,8 @@ Encargo do ano de 1967 respeitante a senhas de presença, acidentes em serviço 
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 2 de Novembro de 1968.**
+Promulgado em 2 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

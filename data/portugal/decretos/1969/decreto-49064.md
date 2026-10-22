@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49064-1969-199861
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c92c6f28201281684418d4e65ba4b5095807f7723c8e597d936c184a3a207834
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b89a635cecafb6f8ef6ae5b9699fc9bc44dfabae3c770569718a0538abd56202
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233338:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:48Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +97,9 @@ Nestes termos:
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo 1.º O disposto no artigo 2.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338), de 11 de Janeiro de 1966, pode ser alargado às categorias profissionais previstas no presente diploma por despacho, no continente e ilhas adjacentes, do director-geral do Trabalho e Corporações, ouvida a Direcção-Geral da Informação e o Sindicato Nacional dos Jornalistas, e, nas províncias ultramarinas, dos governadores-gerais ou de província, ouvidos os centros de informação e turismo e as secções ou delegações do mesmo Sindicato.
+Artigo 1.º O disposto no artigo 2.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338), de 11 de Janeiro de 1966, pode ser alargado às categorias profissionais previstas no presente diploma por despacho, no continente e ilhas adjacentes, do director-geral do Trabalho e Corporações, ouvida a Direcção-Geral da Informação e o Sindicato Nacional dos Jornalistas, e, nas províncias ultramarinas, dos governadores-gerais ou de província, ouvidos os centros de informação e turismo e as secções ou delegações do mesmo Sindicato.
 
-###### Art. 2.º Os profissionais a que se refere o artigo anterior são os que, por forma efectiva, permanente e remunerada, exerçam os cargos e funções que a seguir se indicam:
+Art. 2.º Os profissionais a que se refere o artigo anterior são os que, por forma efectiva, permanente e remunerada, exerçam os cargos e funções que a seguir se indicam:
 
 1) Em jornais noticiosos de publicação não diária e em revistas de feição informativa:
 
@@ -109,13 +113,13 @@ b) Chefe de redacção, subchefe de redacção, secretário de redacção, redac
 
 4) Em empresas que, com carácter regular e sistemático, produzem documentários de actualidades cinematográficas: realizador de reportagens cinematográficas e repórter-cinematográfico.
 
-###### Art. 3.º Os jornalistas a que se refere a alínea a) do n.º 1) do artigo antecedente ficam sujeitos ao regime aplicável aos indivíduos que exerçam os cargos indicados no n.º 1) do artigo 2.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338), aplicando-se a todos os outros profissionais abrangidos pelo artigo anterior o regime estabelecido para as categorias previstas no n.º 2) daquela mesma disposição.
+Art. 3.º Os jornalistas a que se refere a alínea a) do n.º 1) do artigo antecedente ficam sujeitos ao regime aplicável aos indivíduos que exerçam os cargos indicados no n.º 1) do artigo 2.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338), aplicando-se a todos os outros profissionais abrangidos pelo artigo anterior o regime estabelecido para as categorias previstas no n.º 2) daquela mesma disposição.
 
-###### Art. 4.º Os profissionais referidos na alínea b) do n.º 1) e nos n.os 2) e 3) do artigo 2.º farão parte, obrigatòriamente, dos quadros dos serviços redactoriais das empresas respectivas.
+Art. 4.º Os profissionais referidos na alínea b) do n.º 1) e nos n.os 2) e 3) do artigo 2.º farão parte, obrigatòriamente, dos quadros dos serviços redactoriais das empresas respectivas.
 
 § único. Aos quadros dos serviços redactoriais a que o presente artigo se reporta é aplicável o disposto no artigo 3.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338).
 
-###### Art. 5.º Para efeitos do disposto nos artigos antecedentes, considera-se que a profissão é exercida por forma efectiva, permanente e remunerada quando se verifiquem cumulativamente as seguintes circunstâncias:
+Art. 5.º Para efeitos do disposto nos artigos antecedentes, considera-se que a profissão é exercida por forma efectiva, permanente e remunerada quando se verifiquem cumulativamente as seguintes circunstâncias:
 
 a) Presença habitual nos serviços ou em actividades externas devidamente definidas;
 
@@ -125,13 +129,13 @@ c) Retribuição compatível com a categoria das funções e a regularidade do s
 
 § único. O disposto neste artigo é também aplicável na verificação a que se reporta o artigo 4.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338).
 
-###### Art. 6.º O direito consignado no n.º 6.º do artigo 10.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338) não é tornado extensivo aos profissionais referidos nos n.os 2), 3) e 4) do artigo 2.º do presente diploma, e o disposto no n.º 5.º daquele artigo 10.º não se aplica aos profissionais a que se reporta o n.º 4) do mesmo artigo 2.º
+Art. 6.º O direito consignado no n.º 6.º do artigo 10.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338) não é tornado extensivo aos profissionais referidos nos n.os 2), 3) e 4) do artigo 2.º do presente diploma, e o disposto no n.º 5.º daquele artigo 10.º não se aplica aos profissionais a que se reporta o n.º 4) do mesmo artigo 2.º
 
-###### Art. 7.º O despacho de alargamento previsto no artigo 1.º pode ser proferido por iniciativa das entidades nesse artigo indicadas ou mediante requerimento dos interessados.
+Art. 7.º O despacho de alargamento previsto no artigo 1.º pode ser proferido por iniciativa das entidades nesse artigo indicadas ou mediante requerimento dos interessados.
 
-###### Art. 8.º Do indeferimento do requerimento a que se refere o artigo anterior haverá recurso, no prazo de trinta dias, contados da data da recepção da respectiva comunicação ao interessado, feita por carta registada, no continente e ilhas adjacentes, para o Ministro das Corporações e Previdência Social, e nas províncias ultramarinas, para o Ministro do Ultramar.
+Art. 8.º Do indeferimento do requerimento a que se refere o artigo anterior haverá recurso, no prazo de trinta dias, contados da data da recepção da respectiva comunicação ao interessado, feita por carta registada, no continente e ilhas adjacentes, para o Ministro das Corporações e Previdência Social, e nas províncias ultramarinas, para o Ministro do Ultramar.
 
-###### Art. 9.º Aos quadros dos serviços redactoriais a que aludem o n.º 2 do artigo 2.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338) e o artigo 4.º do presente diploma será obrigatòriamente junta uma relação dos indivíduos que exerçam por forma não efectiva ou não permanente, mas com carácter regular, qualquer das funções abrangidas pelas mencionadas disposições.
+Art. 9.º Aos quadros dos serviços redactoriais a que aludem o n.º 2 do artigo 2.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338) e o artigo 4.º do presente diploma será obrigatòriamente junta uma relação dos indivíduos que exerçam por forma não efectiva ou não permanente, mas com carácter regular, qualquer das funções abrangidas pelas mencionadas disposições.
 
 § 1.º A definição da actividade consentida, em serviço dos jornais e revistas, aos indivíduos referidos neste artigo e a limitação da actividade dos colaboradores que possa indevidamente concorrer com a dos jornalistas serão fixadas, na medida em que não constem do regulamento mencionado no artigo 9.º do [Decreto-Lei n.º 46833](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46833-1966-233338), por despacho proferido pelas entidades referidas no artigo 1.º do presente diploma e nos termos nele previstos.
 
@@ -139,9 +143,9 @@ c) Retribuição compatível com a categoria das funções e a regularidade do s
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José João Gonçalves de Proença.
 
-**Promulgado em 4 de Junho de 1969.**
+Promulgado em 4 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

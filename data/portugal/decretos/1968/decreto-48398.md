@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48398-1968-271662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3195d302c6e612c198ed3c7520b29cff9dbb1d723e641d3c8c79d46de85e57fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 3bdcce180a82397ed4b3f56fc77bd69a036f66a53d5f08f0c2ff7afcdfb994f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:28Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +99,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea a), 8.º, 9.º e 10.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a bateria de Alcabideche e órgãos anexos compreendidos:
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com a bateria de Alcabideche e órgãos anexos compreendidos:
 
 1) Nos círculos de raio igual a 200 m com centro nas peças e nos observatórios;
 
@@ -99,11 +107,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 3) Na área delimitada pelos azimutes cartográficos de 117º 00' e 360º 00' (referidos à segunda peça) e os arcos de círculo com os raios de 200 m e de 1600 m.
 
-###### Art. 2.º Sobre a área descrita no n.º 1) do artigo anterior terá aplicação o disposto na alínea d) do artigo 2.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), sendo proibida, sem licença da entidade militar competente, a execução de quaisquer dos trabalhos ou actividades descritas no artigo 9.º da referida lei e ainda a instalação de cabos de transporte de energia eléctrica, aéreos ou subterrâneos.
+Art. 2.º Sobre a área descrita no n.º 1) do artigo anterior terá aplicação o disposto na alínea d) do artigo 2.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), sendo proibida, sem licença da entidade militar competente, a execução de quaisquer dos trabalhos ou actividades descritas no artigo 9.º da referida lei e ainda a instalação de cabos de transporte de energia eléctrica, aéreos ou subterrâneos.
 
-###### Art. 3.º Na área definida no n.º 2) do artigo 1.º é proibida, sem licença da entidade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
+Art. 3.º Na área definida no n.º 2) do artigo 1.º é proibida, sem licença da entidade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
 
-###### Art. 4.º Na área definida no n.º 3) do artigo 1.º é exigida a prévia licença militar como se estabelece no artigo anterior, sendo, porém, dispensadas dessa licença as construções cuja altura não ultrapasse 15 m e fiquem situadas:
+Art. 4.º Na área definida no n.º 3) do artigo 1.º é exigida a prévia licença militar como se estabelece no artigo anterior, sendo, porém, dispensadas dessa licença as construções cuja altura não ultrapasse 15 m e fiquem situadas:
 
 a) Entre os limites definidos pelos azimutes cartográficos de 117º 00' e 210º 00' e sejam implantadas em terrenos de cotas inferiores a 60 m;
 
@@ -111,15 +119,15 @@ b) Entre os limites definidos pelos azimutes cartográficos de 210º 00' e 240º
 
 c) Entre os limites definidos pelos azimutes cantográficos de 240º 00' e 360º 00' e sejam implantadas em terrenos de cotas inferiores a 75 m.
 
-###### Art. 5.º Ao Governo Militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que neste decreto se faz referência.
+Art. 5.º Ao Governo Militar de Lisboa compete, ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que neste decreto se faz referência.
 
-###### Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Regimento de Artilharia de Costa e, em escalão imediatamente superior, ao governador militar de Lisboa, por intermédio da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
+Art. 6.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao Comando do Regimento de Artilharia de Costa e, em escalão imediatamente superior, ao governador militar de Lisboa, por intermédio da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
 
-###### Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação do Serviço de Fortificações e Obras Militares do Governo Militar de Lisboa.
+Art. 7.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes são da competência da delegação do Serviço de Fortificações e Obras Militares do Governo Militar de Lisboa.
 
-###### Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o governador militar de Lisboa.
+Art. 8.º Das decisões tomadas nos termos do artigo 5.º cabe recurso para o Ministro do Exército; das decisões tomadas nos termos do artigo anterior cabe recurso para o governador militar de Lisboa.
 
-###### Art. 9.º As áreas descritas no artigo 1.º serão demarcadas nas cartas n.os 429 e 430 do Serviço Cartográfico do Exército, na escala de 1 : 25000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
+Art. 9.º As áreas descritas no artigo 1.º serão demarcadas nas cartas n.os 429 e 430 do Serviço Cartográfico do Exército, na escala de 1 : 25000, organizando-se oito colecções com a classificação de «Reservado», que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional.
 
@@ -137,6 +145,6 @@ Uma ao Ministério das Obras Públicas.
 
 Uma ao Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - José Albino Machado Vaz.

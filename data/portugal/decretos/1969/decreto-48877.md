@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48877-1969-527449
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b17de2e0fdedab08327b56ca77ee2c1379d7174b125d0662b906d625abdd7b9c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4a5ae015efe0d6eaadab95385c42aa150eb77635204900e4cfd1236bf858f957
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:256457:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:579935:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:21Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +103,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os Serviços de Administração Civil da província de Cabo Verde passam a regular-se pelo [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
+Artigo 1.º Os Serviços de Administração Civil da província de Cabo Verde passam a regular-se pelo [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
 
 § único. O quadro administrativo desta província é o que consta do mapa anexo.
 
-###### Art. 2.º O novo quadro integra os funcionários do quadro actual, nos termos do disposto nas alíneas seguintes:
+Art. 2.º O novo quadro integra os funcionários do quadro actual, nos termos do disposto nas alíneas seguintes:
 
 a) São extintas as classes na categoria de administrador de concelho;
 
@@ -111,17 +119,17 @@ d) A integração no novo quadro opera-se com dispensa de nomeação, visto e po
 
 § único. O número de unidades nas categorias de administrador de posto e de adjunto de administrador de posto será reduzido a quatro e cinco, respectivamente, à medida que forem ocorrendo vagas. Em contrapartida, o quadro de secretaria será aumentado com o número de unidades correspondente às unidades extintas no quadro administrativo.
 
-###### Art. 3.º Na repartição provincial será colocado um administrador de concelho, que coadjuvará o respectivo chefe no desempenho das suas funções e o substituirá nas faltas, ausências e impedimentos enquanto não for providenciado em contrário.
+Art. 3.º Na repartição provincial será colocado um administrador de concelho, que coadjuvará o respectivo chefe no desempenho das suas funções e o substituirá nas faltas, ausências e impedimentos enquanto não for providenciado em contrário.
 
-###### Art. 4.º O governador da província organizará os quadros de secretaria, de dactilografia e dos serviços gerais de acordo com as exigências do serviço e os recursos do orçamento geral da província.
+Art. 4.º O governador da província organizará os quadros de secretaria, de dactilografia e dos serviços gerais de acordo com as exigências do serviço e os recursos do orçamento geral da província.
 
-###### Art. 5.º Este decreto entra em vigor na data fixada, para o início da vigência do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
+Art. 5.º Este decreto entra em vigor na data fixada, para o início da vigência do [Decreto n.º 48792](https://diariodarepublica.pt/dr/detalhe/decreto/48792-1968-256457), de 24 de Dezembro de 1968.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 8 de Fevereiro de 1969.**
+Promulgado em 8 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -129,6 +137,6 @@ Para ser publicado no Boletim Oficial de Cabo Verde. - J. da Silva Cunha.
 
 Mapa do pessoal do quadro administrativo dos Serviços de Administração Civil da província de Cabo Verde, a que se refere o § único do artigo 1.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/02/04500/02180218.pdf))](https://files.diariodarepublica.pt/1s/1969/02/04500/02180218.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/02/04500/02180218.pdf)
 
 Ministério do Ultramar, 8 de Fevereiro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

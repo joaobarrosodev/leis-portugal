@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/04/08500/05250526.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48326-1968-234562
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-02-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59cf78a674a1f18868eb9828d414841f1bd88f5e11e0698efa5d105b0cc8106e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 64a698698cabd9591680575aec9d46798f02beaeeb42038a7d42b1a17badae13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- AÇO
+- Atividade Industrial
+- Fabrico Industrial
+- Indústria Metalúrgica
+- Indústria Transformadora
+- Regulamento
 relationships:
 - type: amended_by
   target: pt:dre:261929:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:597284:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:261929:por
+  label: "Revogado pelo DEC LEI.75/74.28.02.1974.MECO, DG.IS [50-Supl] de 28.02.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/75-1974-261929
+  date: '1974-02-28'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:51Z'
   warnings: []
   errors: []
 ---
@@ -97,15 +116,15 @@ Nestes termos, de acordo com a base V da [Lei n.º 2052](https://diariodarepubli
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado, como parte integrante deste decreto, e segue assinado pelo Secretário de Estado da Indústria o Regulamento de Exercício da Indústria de Transformação por Torção e Estiragem a Frio do Aço de Dureza Natural em Aço de Resistência mais Elevada, à qual se mantém o regime de condicionamento territorial, nos termos instituídos pelo [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965.
+Artigo único. É aprovado, como parte integrante deste decreto, e segue assinado pelo Secretário de Estado da Indústria o Regulamento de Exercício da Indústria de Transformação por Torção e Estiragem a Frio do Aço de Dureza Natural em Aço de Resistência mais Elevada, à qual se mantém o regime de condicionamento territorial, nos termos instituídos pelo [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Rafael Amaro da Costa.
 
 Regulamento de Exercício da Indústria de Transformação por Torção e Estiragem a Frio do Aço de Dureza Natural em Aço de Resistência mais Elevada
 
-###### ARTIGO 1.º
+ARTIGO 1.º
 
 (Âmbito)
 
@@ -113,13 +132,13 @@ Regulamento de Exercício da Indústria de Transformação por Torção e Estira
 
 2. Para efeitos deste Regulamento, entende-se por indústria de transformação de varões de aço de dureza natural em aço de resistência mais elevada a que utiliza o processo de endurecimento a frio por torção com estiragem, acompanhada ou não de qualquer sistema de embutimento ou deformação a frio, com o fim de marcar ou deformar a superfície dos varões.
 
-###### ARTIGO 2.º
+ARTIGO 2.º
 
 (Capacidade de produção)
 
 Os estabelecimentos cuja instalação vier a ser autorizada para o exercício desta indústria devem ter capacidade de produção anual não inferior a 25000 t.
 
-###### ARTIGO 3.º
+ARTIGO 3.º
 
 (Secções de fabrico)
 
@@ -137,7 +156,7 @@ e) Expedição;
 
 f) Laboratório.
 
-###### ARTIGO 4.º
+ARTIGO 4.º
 
 (Equipamento mínimo)
 
@@ -181,7 +200,7 @@ j) Manutenção mecanizada dos produtos acabados e dispositivos de pesagem e ver
 
 l) Equipamento de verificação das características mecânicas, quer das matérias-primas, quer dos produtos acabados.
 
-###### ARTIGO 5.º
+ARTIGO 5.º
 
 (Marca)
 

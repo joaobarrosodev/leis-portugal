@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/06/14000/08810882.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48432-1968-272238
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6039202383ad1f92bc5972007086e890e51697786c0a5df9aaa1b2050ac6434
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97ee8d28c71946db75de7d02fb41dfd099797ec302350130a3c080bc14020de2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,41 @@ relationships:
   target: pt:dre:199975:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:218326:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:469382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510465:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:524618:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:199975:por
+  label: "Revogado pelo DEC.49073.21.06.1969.MU, DG.IS [144] de 21.06.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/49073-1969-199975
+  date: '1969-06-21'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:44Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +124,7 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É atribuída ao director de 3.ª classe do quadro comum de Fazenda do ultramar incumbido das funções referidas no § único do artigo 2.º do [Decreto n.º 46558](https://diariodarepublica.pt/dr/detalhe/decreto/46558-1965-510465), de 29 de Setembro de 1965, a gratificação especial mensal de 1500$00, cujo abono será efectuado nos seguintes quantitativos e condições:
+Artigo 1.º É atribuída ao director de 3.ª classe do quadro comum de Fazenda do ultramar incumbido das funções referidas no § único do artigo 2.º do [Decreto n.º 46558](https://diariodarepublica.pt/dr/detalhe/decreto/46558-1965-510465), de 29 de Setembro de 1965, a gratificação especial mensal de 1500$00, cujo abono será efectuado nos seguintes quantitativos e condições:
 
 a) Pela totalidade mensal, quando o serviço se realize fora da área da cidade da Praia por período não inferior a quinze dias;
 
@@ -107,7 +132,7 @@ b) Por importância correspondente ao número de dias de serviço efectivamente 
 
 c) Por importância correspondente a um terço da respectiva gratificação mensal, quando o serviço, seja qual for o período da sua duração, for prestado na área da cidade da Praia fora da Repartição Provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 2.º É autorizado o Governo da província a conceder à Caixa de Crédito Agro-Pecuário, mediante as condições que forem ajustadas entre si, um subsídio reembolsável da importância de 3500 contos.
+Art. 2.º É autorizado o Governo da província a conceder à Caixa de Crédito Agro-Pecuário, mediante as condições que forem ajustadas entre si, um subsídio reembolsável da importância de 3500 contos.
 
 § único. Para os efeitos designados no corpo deste artigo, fica o Governo da província autorizado, observadas as disposições legais em vigor, a abrir o correspondente crédito especial, tomando como contrapartida o saldo das contas de exercícios findos.
 
@@ -115,19 +140,19 @@ II
 
 Disposições comuns
 
-###### Art. 3.º O disposto no artigo 204.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, é extensivo ao pessoal da extinta Delegação Comercial do Ultramar que à data de entrada em vigor daquele diploma tivesse atingido o limite de idade e continuasse em actividade de serviço, reunindo os demais requisitos para poder beneficiar da aposentação.
+Art. 3.º O disposto no artigo 204.º do [Decreto-Lei n.º 47743](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47743-1967-312664), de 2 de Junho de 1967, é extensivo ao pessoal da extinta Delegação Comercial do Ultramar que à data de entrada em vigor daquele diploma tivesse atingido o limite de idade e continuasse em actividade de serviço, reunindo os demais requisitos para poder beneficiar da aposentação.
 
-###### Art. 4.º O § 2.º do artigo 45.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, passa a ter a seguinte redacção:
+Art. 4.º O § 2.º do artigo 45.º do [Decreto n.º 45541](https://diariodarepublica.pt/dr/detalhe/decreto/45541-1964-469382), de 23 de Janeiro de 1964, passa a ter a seguinte redacção:
 
 § 2.º Quando a repartição distrital tiver a sua sede na capital das províncias de governo-geral, o cargo de chefe distrital será exercido pelo médico inspector, chefe da repartição médica.
 
-###### Art. 5.º É elevado para seis meses o prazo de validade dos atestados de vida a que se referem os artigos 121.º do [Decreto n.º 20260](https://diariodarepublica.pt/dr/detalhe/decreto/20260-1931-218326), de 31 de Agosto de 1931, e 39.º do [Decreto n.º 21050](https://diariodarepublica.pt/dr/detalhe/decreto/21050-1932-524618), de 2 de Abril de 1932.
+Art. 5.º É elevado para seis meses o prazo de validade dos atestados de vida a que se referem os artigos 121.º do [Decreto n.º 20260](https://diariodarepublica.pt/dr/detalhe/decreto/20260-1931-218326), de 31 de Agosto de 1931, e 39.º do [Decreto n.º 21050](https://diariodarepublica.pt/dr/detalhe/decreto/21050-1932-524618), de 2 de Abril de 1932.
 
-###### Art. 6.º São autorizados os órgãos legislativos das províncias ultramarinas a proceder à revisão das percentagens do suplemento e da melhoria de pensão que actualmente incidem sobre as pensões dos agentes dos serviços públicos aposentados, reformados, sinistrados, dos pensionistas e do pessoal missionário residentes no ultramar, fixadas ao abrigo da legislação promulgada anteriormente à data da entrada em vigor do Estatuto do Funcionalismo Ultramarino.
+Art. 6.º São autorizados os órgãos legislativos das províncias ultramarinas a proceder à revisão das percentagens do suplemento e da melhoria de pensão que actualmente incidem sobre as pensões dos agentes dos serviços públicos aposentados, reformados, sinistrados, dos pensionistas e do pessoal missionário residentes no ultramar, fixadas ao abrigo da legislação promulgada anteriormente à data da entrada em vigor do Estatuto do Funcionalismo Ultramarino.
 
 § único. Ficam os governadores das províncias ultramarinas autorizados a abrir os créditos especiais necessários ao pagamento dos encargos previstos no corpo do artigo, utilizando para contrapartida os saldos das contas de exercícios findos, na falta de outras disponibilidades orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

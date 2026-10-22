@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47878-1967-390603
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dcbf4bdf5ef9b9fa0fd37d202efb222896b3546ec29a9410027ced76f7ee02f2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ce75ff8af818a6cb317b28bb30a546f3821700a558888652ff4e1946860df7f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:323479:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:13Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +106,15 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Passa a ser a seguinte a redacção do artigo 8.º do [Decreto n.º 38154](https://diariodarepublica.pt/dr/detalhe/decreto/38154-1951-323479), de 19 de Janeiro de 1951:
+Artigo 1.º Passa a ser a seguinte a redacção do artigo 8.º do [Decreto n.º 38154](https://diariodarepublica.pt/dr/detalhe/decreto/38154-1951-323479), de 19 de Janeiro de 1951:
 
-###### Art. 8.º Pode o Ministro do Ultramar, mediante despacho, isentar de direitos de importação e de outras imposições de carácter aduaneiro as mercadorias oferecidas ao Estado, aos corpos administrativos ou a outros organismos oficiais por quaisquer entidades nacionais ou estrangeiras e noutros casos semelhantes de cortesia internacional.
+Art. 8.º Pode o Ministro do Ultramar, mediante despacho, isentar de direitos de importação e de outras imposições de carácter aduaneiro as mercadorias oferecidas ao Estado, aos corpos administrativos ou a outros organismos oficiais por quaisquer entidades nacionais ou estrangeiras e noutros casos semelhantes de cortesia internacional.
 
 § 1.º O regime de que trata o corpo do artigo é extensivo às mercadorias oferecidas às missões e estabelecimentos referidos no artigo 140.º da Constituição, assim como às instituições de beneficência e outras obras de assistência e fins sociais e ainda aquelas que hajam sido por elas adquiridas com o produto de dádivas ou subscrições.
 
 § 2.º São extensivas às mercadorias importadas pelos corpos administrativos, nas condições previstas no corpo deste artigo, e pelas entidades mencionadas no parágrafo anterior, as disposições dos artigos 16.º a 20.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957, na parte aplicável.
 
-###### Art. 2.º Os direitos atribuídos aos artigos 10.01 e, 11.01.01 da pauta mínima de importação de Angola, aprovada pelo Diploma Legislativo n.º 3440, de 30 de Janeiro de 1964, passam a ser objecto de legislação especial.
+Art. 2.º Os direitos atribuídos aos artigos 10.01 e, 11.01.01 da pauta mínima de importação de Angola, aprovada pelo Diploma Legislativo n.º 3440, de 30 de Janeiro de 1964, passam a ser objecto de legislação especial.
 
 § único. São desde já fixadas as seguintes taxas para as posições referidas:
 
@@ -114,17 +122,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 11.01.01 ... quilograma 4$00
 
-###### Art. 3.º São alteradas como se indica as taxas seguintes da pauta mínima de importação de Angola:
+Art. 3.º São alteradas como se indica as taxas seguintes da pauta mínima de importação de Angola:
 
 11.01.03 ... quilograma 1$50
 
 11.01.04 ... quilograma 2$40
 
-###### Art. 4.º Fica suspensa, a execução das determinações constantes das notas (1) e, (2) aos artigos 73.14.02, 73.14.03 e 73.14.05 da pauta mínima de importação em vigor na província de Moçambique, mandadas inserir pelo Diploma Legislativo n.º 2506, de 25 de Julho de 1964.
+Art. 4.º Fica suspensa, a execução das determinações constantes das notas (1) e, (2) aos artigos 73.14.02, 73.14.03 e 73.14.05 da pauta mínima de importação em vigor na província de Moçambique, mandadas inserir pelo Diploma Legislativo n.º 2506, de 25 de Julho de 1964.
 
 § único. Pode o Ministro do Ultramar, mediante despacho, ouvido o Governo-Geral da província, repor em vigor as referidas notas, quando a produção pela indústria local, das mercadorias classificadas pelas posições pautais a que alude o corpo do artigo, não satisfizer às necessidades do consumo da província.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

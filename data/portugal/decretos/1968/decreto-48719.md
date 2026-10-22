@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48719-1968-262620
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5dfcd1770814df17b44539cc1791b09d075ddc25cf655826218e0549e401c7e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2acd7016129e2e3f60f34041a9b22441fa54b5a879d171a2024ed9f4021a7ec8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232509:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:501462:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561214:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:06Z'
   warnings: []
   errors: []
 ---
@@ -94,11 +110,11 @@ Nestes termos, ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É criado em cada uma das Procuradorias da República junto das Relações de Luanda e de Lourenço Marques um lugar de ajudante do procurador da República, para o coadjuvar no serviço de superintendência, orientação e fiscalização dos registos, notariado e identificação, a prover pelo Ministro do Ultramar, em comissão de serviço renovável, entre magistrados judiciais ou conservadores e notários de reconhecido mérito, de preferência de 1.ª classe.
+Artigo 1.º - 1. É criado em cada uma das Procuradorias da República junto das Relações de Luanda e de Lourenço Marques um lugar de ajudante do procurador da República, para o coadjuvar no serviço de superintendência, orientação e fiscalização dos registos, notariado e identificação, a prover pelo Ministro do Ultramar, em comissão de serviço renovável, entre magistrados judiciais ou conservadores e notários de reconhecido mérito, de preferência de 1.ª classe.
 
 2. A este ajudante, sem prejuízo da competência específica da Inspecção Superior de Justiça, são também cometidas funções de inspecção dos registos, notariado e identificação, com carácter sumário, tendo por finalidade fornecer princípios de orientação e apurar se os serviços decorrem dentro da normalidade.
 
-###### Art. 2.º - 1. Até 31 de Dezembro o ajudante para os registos, notariado e identificação submeterá ao procurador da República o plano das inspecções ordinárias a realizar durante o ano seguinte para ser aprovado e executado com as alterações que forem determinadas de acordo com o plano geral a elaborar pelo Conselho Superior Judiciário, nos termos do artigo 4.º da [Portaria n.º 18315](https://diariodarepublica.pt/dr/detalhe/portaria/18315-1961-561214), de 11 de Março de 1961.
+Art. 2.º - 1. Até 31 de Dezembro o ajudante para os registos, notariado e identificação submeterá ao procurador da República o plano das inspecções ordinárias a realizar durante o ano seguinte para ser aprovado e executado com as alterações que forem determinadas de acordo com o plano geral a elaborar pelo Conselho Superior Judiciário, nos termos do artigo 4.º da [Portaria n.º 18315](https://diariodarepublica.pt/dr/detalhe/portaria/18315-1961-561214), de 11 de Março de 1961.
 
 2. Neste plano será dada prioridade aos serviços que há mais tempo não tenham sido inspeccionados e àqueles de que haja conhecimento ou suspeitas de funcionarem menos regularmente.
 
@@ -106,7 +122,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. Pelo menos de três em três anos, devem ser inspeccionados os serviços de todas as conservatórias, secretarias e cartórios notariais e as diferentes secções de identificação.
 
-###### Art. 3.º - 1. O ajudante para os registos, notariado e identificação tem a categoria, vencimentos e remunerações acessórias que competem a juízes de direito da comarca sede do distrito judicial.
+Art. 3.º - 1. O ajudante para os registos, notariado e identificação tem a categoria, vencimentos e remunerações acessórias que competem a juízes de direito da comarca sede do distrito judicial.
 
 2. Além das remunerações referidas no número anterior e das ajudas de custo que couberem à sua categoria, nos termos da legislação privativa de cada província ultramarina, tem o mesmo ajudante, pelo serviço de inspecção, direito a uma gratificação mensal de 2000$00, que lhe será abonada nos seguintes quantitativos e condições:
 
@@ -116,9 +132,9 @@ b) Pela importância correspondente ao mesmo número de dias de serviço efectiv
 
 3. Para o abono destas gratificações deverão os respectivos títulos mencionar as localidades em que foi feito o serviço e os dias de permanência em cada uma delas ou gastos em viagem.
 
-###### Art. 4.º O ajudante-inspector dos Serviços Prisionais tem direito à gratificação referida nos n.os 2 e 3 do artigo anterior, nas mesmas condições e quantitativos.
+Art. 4.º O ajudante-inspector dos Serviços Prisionais tem direito à gratificação referida nos n.os 2 e 3 do artigo anterior, nas mesmas condições e quantitativos.
 
-###### Art. 5.º - 1. Os Arquivos de Identificação Civil das províncias ultramarinas de Angola e Moçambique constituirão em cada uma destas províncias uma repartição da respectiva Procuradoria da República, denominada Repartição de Identificação, que compreenderá as secções ultramarinas de identificação civil e as secções do Arquivo do Registo Criminal.
+Art. 5.º - 1. Os Arquivos de Identificação Civil das províncias ultramarinas de Angola e Moçambique constituirão em cada uma destas províncias uma repartição da respectiva Procuradoria da República, denominada Repartição de Identificação, que compreenderá as secções ultramarinas de identificação civil e as secções do Arquivo do Registo Criminal.
 
 2. As secções ultramarinas de identificação civil e do Arquivo do Registo Criminal recebem da Repartição de Identificação as ordens e instruções necessárias à boa ordem e coordenação do serviço, de harmonia com as directrizes fixadas pelo procurador da República.
 
@@ -126,15 +142,15 @@ b) Pela importância correspondente ao mesmo número de dias de serviço efectiv
 
 4. Na província de Moçambique é criada a Secção do Arquivo do Registo Criminal na Repartição de Identificação, transitando o pessoal da Repartição dos Registos e do Notariado actualmente encarregado da execução dos serviços a que se refere o artigo 3.º do [Decreto-Lei n.º 43089](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43089-1960-501462), de 26 de Julho de 1960, para essa Secção, com as actuais categorias, independentemente de quaisquer formalidades de visto ou posse, devendo os três segundos-oficiais afectos aos serviços de dactiloscopia ser colocados nos lugares de dactiloscopista e os dois aspirantes nas mesmas condições nos lugares de ajudante de dactiloscopista, a que corresponderão as letras, para efeitos de vencimentos, consignadas a estes lugares nas secções de identificação civil.
 
-###### Art. 6.º - 1. As secções ultramarinas de identificação civil serão instituídas na sede de cada distrito administrativo, pelos Governos provinciais, à medida que as necessidades locais o forem determinando, podendo as respectivas jurisdições abranger a área de mais de um distrito.
+Art. 6.º - 1. As secções ultramarinas de identificação civil serão instituídas na sede de cada distrito administrativo, pelos Governos provinciais, à medida que as necessidades locais o forem determinando, podendo as respectivas jurisdições abranger a área de mais de um distrito.
 
 2. Independentemente das actualmente existentes em Angola, são pelo presente diploma instituídas, em Moçambique, duas secções ultramarinas de identificação civil, uma com sede na cidade da Beira e jurisdição nos distritos de Manica e Sofala, Tete e Zambézia e outra com sede em Nampula e jurisdição sobre os distritos de Moçambique, Cabo Delgado e Niassa.
 
 3. A Secção Ultramarina de Identificação Civil de Lourenço Marques exercerá, nas respectivas áreas de jurisdição, as atribuições das Secções da Beira e de Nampula enquanto estas não forem dotadas de instalação e pessoal indispensáveis ao seu funcionamento.
 
-###### Art. 7.º Na área de jurisdição de cada secção ultramarina de identificação civil podem os Governos provinciais instituir postos de identificação civil, além dos actualmente existentes na província de Angola, para a recepção, organização e remessa à secção competente dos processos de concessão, renovação, substituição ou emissão de segundas vias do bilhete de identidade e inscrição de averbamentos respeitantes a indivíduos residentes na área da sua jurisdição.
+Art. 7.º Na área de jurisdição de cada secção ultramarina de identificação civil podem os Governos provinciais instituir postos de identificação civil, além dos actualmente existentes na província de Angola, para a recepção, organização e remessa à secção competente dos processos de concessão, renovação, substituição ou emissão de segundas vias do bilhete de identidade e inscrição de averbamentos respeitantes a indivíduos residentes na área da sua jurisdição.
 
-###### Art. 8.º Em cada secção ultramarina de identificação civil haverá os seguintes serviços:
+Art. 8.º Em cada secção ultramarina de identificação civil haverá os seguintes serviços:
 
 a) Secretaria;
 
@@ -144,35 +160,35 @@ c) Índice onomástico;
 
 d) Arquivo.
 
-###### Art. 9.º Na área das respectivas jurisdições têm as secções ultramarinas a competência que lhes é assinalada no § 2.º do artigo 4.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e respectivo regulamento.
+Art. 9.º Na área das respectivas jurisdições têm as secções ultramarinas a competência que lhes é assinalada no § 2.º do artigo 4.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, e respectivo regulamento.
 
-###### Art. 10.º Os chefes de secção ultramarina de identificação civil têm as atribuições que lhes são reconhecidas no artigo 4.º do [Decreto n.º 40711](https://diariodarepublica.pt/dr/detalhe/decreto/40711-1956-232509), de 1 de Agosto de 1956, cabendo ao procurador da República ou ajudante respectivo as fixadas no artigo 3.º do mesmo diploma.
+Art. 10.º Os chefes de secção ultramarina de identificação civil têm as atribuições que lhes são reconhecidas no artigo 4.º do [Decreto n.º 40711](https://diariodarepublica.pt/dr/detalhe/decreto/40711-1956-232509), de 1 de Agosto de 1956, cabendo ao procurador da República ou ajudante respectivo as fixadas no artigo 3.º do mesmo diploma.
 
-###### Art. 11.º - 1. O chefe da Secção Ultramarina de Luanda transita, independentemente de visto e de qualquer outra formalidade, para o lugar de chefe da Repartição de Identificação criada por este diploma.
+Art. 11.º - 1. O chefe da Secção Ultramarina de Luanda transita, independentemente de visto e de qualquer outra formalidade, para o lugar de chefe da Repartição de Identificação criada por este diploma.
 
 2. O restante pessoal da mesma Secção mantém as suas actuais categorias, distribuindo-se no serviço por ordem interna do procurador da República.
 
 3. O mesmo critério será observado quanto à distribuição do pessoal da Repartição de Identificação da Procuradoria da República de Lourenço Marques pelas secções do Arquivo de Identificação Civil da província de Moçambique.
 
-###### Art. 12.º Os Arquivos de Identificação Civil das províncias de Angola e Moçambique terão os quadros de pessoal descritos nos mapas anexos, compostos do pessoal já existente a completar com as restantes unidades neles previstas e que, para todos os efeitos, se consideram criadas pelo presente diploma.
+Art. 12.º Os Arquivos de Identificação Civil das províncias de Angola e Moçambique terão os quadros de pessoal descritos nos mapas anexos, compostos do pessoal já existente a completar com as restantes unidades neles previstas e que, para todos os efeitos, se consideram criadas pelo presente diploma.
 
-###### Art. 13.º - 1. O primeiro provimento dos lugares de chefe de secção ultramarina de identificação civil será feito por escolha entre funcionários de categoria não inferior a primeiro-oficial do Arquivo de Identificação Civil com muito boas informações de serviço.
+Art. 13.º - 1. O primeiro provimento dos lugares de chefe de secção ultramarina de identificação civil será feito por escolha entre funcionários de categoria não inferior a primeiro-oficial do Arquivo de Identificação Civil com muito boas informações de serviço.
 
 2. Na falta de funcionários em tais condições dentro do quadro actual do Arquivo de Identificação Civil, recairá a escolha em outros funcionários dos diversos departamentos da respectiva Procuradoria da República em idênticas condições de categoria e informações.
 
 3. Os chefes de secção colocados em qualquer departamento das Procuradorias das Repúblicas junto das Relações de Luanda e de Lourenço Marques passam a vencer pela letra H logo que atinjam cinco anos de serviço como efectivos em tais funções.
 
-###### Art. 14.º - 1. Nos postos de identificação civil, além do pessoal privativo que lhes for destinado, poderá prestar serviço o pessoal da secção a cuja área pertençam, mediante despacho do chefe da secção.
+Art. 14.º - 1. Nos postos de identificação civil, além do pessoal privativo que lhes for destinado, poderá prestar serviço o pessoal da secção a cuja área pertençam, mediante despacho do chefe da secção.
 
 2. Em caso de necessidade, os postos de identificação civil poderão funcionar sob a chefia de um aspirante.
 
-###### Art. 15.º Ficam os governadores-gerais das províncias de Angola e Moçambique autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
+Art. 15.º Ficam os governadores-gerais das províncias de Angola e Moçambique autorizados a abrir, observadas as disposições legais aplicáveis, os créditos especiais necessários para suportar os encargos resultantes da execução deste decreto, servindo de contrapartida as disponibilidades ou recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Novembro de 1968.**
+Promulgado em 15 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 29 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -182,12 +198,12 @@ Mapa I a que se refere o artigo 12.º
 
 Quadro do pessoal da Repartição de Identificação e das suas secções e postos de identificação civil da província de Angola.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/28100/17441746.pdf))](https://files.diariodarepublica.pt/1s/1968/11/28100/17441746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/28100/17441746.pdf)
 
 Mapa II a que se refere o artigo 12.º
 
 Quadro do pessoal da Repartição de identificação e das suas secções e postos de identificação civil da província de Moçambique.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/11/28100/17441746.pdf))](https://files.diariodarepublica.pt/1s/1968/11/28100/17441746.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/11/28100/17441746.pdf)
 
 Ministério do Ultramar, 15 de Novembro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

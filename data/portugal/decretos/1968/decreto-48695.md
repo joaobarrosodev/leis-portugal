@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48695-1968-263057
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1970-02-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 945d05d048f0d0500366985caa13b556e33b51437fd0944ca97f330ab9ab5540
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5e7681042add8b6d66dbc732252ebff4f954e30190b79fd11a6fe8a3b17bcf53
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,38 @@ relationships:
   target: pt:dre:227651:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:227651:por
+  label: "Prorrogado até 31.12.1970 o período previsto no nº 1 da base V anexa ao presente diploma, pela PORT.103/70.14.02.1970.MU,\
+    \ DG.IS [38] de 14.02.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/103-1970-227651
+  date: '1970-02-14'
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:55Z'
   warnings: []
   errors: []
 ---
@@ -96,15 +118,15 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição, por motivo de urgê
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Angola, com a Companhia de Fosfatos de Angola, S. A. R. L., um contrato de concessão para pesquisa e exploração de rochas fosfatadas, nos termos das bases anexas a este decreto, que são aprovadas para todos os efeitos, fazem parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Angola, com a Companhia de Fosfatos de Angola, S. A. R. L., um contrato de concessão para pesquisa e exploração de rochas fosfatadas, nos termos das bases anexas a este decreto, que são aprovadas para todos os efeitos, fazem parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Novembro de 1968.**
+Promulgado em 6 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

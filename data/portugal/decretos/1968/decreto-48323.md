@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48323-1968-234566
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2bfeb7800411aca2ed81b4dfa538deecdc6ae857540f60312bdc07ae384482c3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b008e1775c144545e31b68816008a30c8532477cc041f0c0479f88fa9afb5324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400872:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:50Z'
   warnings: []
   errors: []
 ---
@@ -100,21 +104,21 @@ Considerando o que dispõe o § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em representação do Estado, um contrato com a Société Nationale des Pétroles d'Aquitaine, a Entreprise de Recherches et d'Activités Pétrolières, a Anglo-American Corporation of South Africa, Ltd., e a Gelsenkirchener Bergwerks Aktiengesellschaft, adiante designada por «Gelsenberg», nos termos dos artigos seguintes.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em representação do Estado, um contrato com a Société Nationale des Pétroles d'Aquitaine, a Entreprise de Recherches et d'Activités Pétrolières, a Anglo-American Corporation of South Africa, Ltd., e a Gelsenkirchener Bergwerks Aktiengesellschaft, adiante designada por «Gelsenberg», nos termos dos artigos seguintes.
 
-###### Art. 2.º - 1. A sociedade Gelsenberg comparticipará segundo os termos formulados conjuntamente pelas quatro sociedades referidas no artigo 1.º nos direitos emergentes do contrato de concessão celebrado em 7 de Dezembro de 1967, adiante designado por «contrato de concessão», bem como nas inerentes obrigações, às quais, com excepção da Entreprise de Recherches et d'Activités Pétrolières, todas se sujeitarão solidàriamente, ficando a caber a cada sociedade uma participação indivisa nos respectivos direitos e obrigações.
+Art. 2.º - 1. A sociedade Gelsenberg comparticipará segundo os termos formulados conjuntamente pelas quatro sociedades referidas no artigo 1.º nos direitos emergentes do contrato de concessão celebrado em 7 de Dezembro de 1967, adiante designado por «contrato de concessão», bem como nas inerentes obrigações, às quais, com excepção da Entreprise de Recherches et d'Activités Pétrolières, todas se sujeitarão solidàriamente, ficando a caber a cada sociedade uma participação indivisa nos respectivos direitos e obrigações.
 
 2. A Entreprise de Recherches et d'Activités Pétrolières deixará, em consequência, de deter qualquer participação nos direitos e obrigações emergentes do referido contrato de concessão.
 
 3. A sociedade Gelsenberg será, directa e individualmente, considerada concessionária nos termos e para os efeitos do contrato de concessão, em igualdade de circunstâncias com as ou a sociedade subsidiária portuguesa prevista no n.º 1 do artigo 12.º do contrato de concessão, na proporção da respectiva participação.
 
-###### Art. 3.º A sociedade Gelsenberg abrirá uma filial em território português e fará os registos devidos na competente conservatória do registo comercial.
+Art. 3.º A sociedade Gelsenberg abrirá uma filial em território português e fará os registos devidos na competente conservatória do registo comercial.
 
-###### Art. 4.º - 1. As obrigações da sociedade Gelsenberg serão apenas as emergentes do contrato de concessão que se relacionarem com as suas operações ou actividades na província de Moçambique.
+Art. 4.º - 1. As obrigações da sociedade Gelsenberg serão apenas as emergentes do contrato de concessão que se relacionarem com as suas operações ou actividades na província de Moçambique.
 
 2. Às relações entre a sociedade Gelsenberg e a sua filial serão aplicáveis as regras que regulam as relações entre as sociedades referidas no n.º 1 do artigo 12.º do contrato de concessão e as respectivas sociedades principais, incluindo as que se reportam ao financiamento das suas operações, tal como se dispõe no artigo 13.º do contrato de concessão.
 
-###### Art. 5.º - 1. A gestão da filial da Gelsenberg competirá a um conselho directivo, composto por não menos de três nem mais de sete membros, sendo um ou dois designados pelo Governo, consoante o seu número seja igual ou inferior a cinco ou ultrapasse este limite, e os restantes nomeados pela sociedade.
+Art. 5.º - 1. A gestão da filial da Gelsenberg competirá a um conselho directivo, composto por não menos de três nem mais de sete membros, sendo um ou dois designados pelo Governo, consoante o seu número seja igual ou inferior a cinco ou ultrapasse este limite, e os restantes nomeados pela sociedade.
 
 2. As deliberações do conselho directivo serão tomadas por maioria absoluta de votos dos seus membros.
 
@@ -124,25 +128,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. O Governo poderá nomear um representante seu junto da filial da Gelsenberg, o qual exercerá, em relação a essa filial, as mesmas funções e terá os mesmos poderes que a lei atribui aos delegados do Governo.
 
-###### Art. 6.º - 1. Será nomeada uma comissão revisora de contas, presidida por um vogal designado pelo Governo, composta por não menos de três nem mais de cinco membros, a qual examinará periodicamente a escrituração da filial da Gelsenberg, com a colaboração de auditores (chartered accountants) devidamente acreditados pelo Governo.
+Art. 6.º - 1. Será nomeada uma comissão revisora de contas, presidida por um vogal designado pelo Governo, composta por não menos de três nem mais de cinco membros, a qual examinará periodicamente a escrituração da filial da Gelsenberg, com a colaboração de auditores (chartered accountants) devidamente acreditados pelo Governo.
 
 2. A maioria dos membros da comissão revisora de contas terá a nacionalidade portuguesa, originária ou adquirida há mais de dez anos.
 
-###### Art. 7.º - 1. A filial da Gelsenberg deverá possuir contabilidade separada, escriturada segundo a prática mercantil portuguesa, devendo os livros necessários estar sempre actualizados e permitir a fácil apreciação dos elementos neles contidos, segundo as necessidades impostas pelo contrato de concessão.
+Art. 7.º - 1. A filial da Gelsenberg deverá possuir contabilidade separada, escriturada segundo a prática mercantil portuguesa, devendo os livros necessários estar sempre actualizados e permitir a fácil apreciação dos elementos neles contidos, segundo as necessidades impostas pelo contrato de concessão.
 
 2. A Gelsenberg apenas poderá escriturar como despesas, para os efeitos do contrato de concessão, as quantias efectivamente por ela despendidas com a concessão a que se refere o [Decreto n.º 48083](https://diariodarepublica.pt/dr/detalhe/decreto/48083-1967-400872), de 30 de Novembro de 1967.
 
-###### Art. 8.º No caso de haver modificação do regime tributário aplicável à Gelsenberg de forma a permitir-lhe a constituição de uma sociedade subsidiária portuguesa nos termos do artigo 12.º do contrato de concessão, em condições que não impliquem aumento de encargos fiscais para a sociedade, deverá esta promover urgentemente a constituição da referida sociedade subsidiária, para a qual transferirá todos os seus direitos e obrigações.
+Art. 8.º No caso de haver modificação do regime tributário aplicável à Gelsenberg de forma a permitir-lhe a constituição de uma sociedade subsidiária portuguesa nos termos do artigo 12.º do contrato de concessão, em condições que não impliquem aumento de encargos fiscais para a sociedade, deverá esta promover urgentemente a constituição da referida sociedade subsidiária, para a qual transferirá todos os seus direitos e obrigações.
 
-###### Art. 9.º As obrigações de natureza financeira da Gelsenberg serão caucionadas por uma garantia bancária até ao montante de 3000000$00, prestada por um banco português que o Ministro do Ultramar aceite.
+Art. 9.º As obrigações de natureza financeira da Gelsenberg serão caucionadas por uma garantia bancária até ao montante de 3000000$00, prestada por um banco português que o Ministro do Ultramar aceite.
 
-###### Art. 10.º Em tudo o que não for contrariado pelo contrato autorizado por este decreto, estarão todas as sociedades referidas no seu artigo 1.º, com excepção da Entreprise de Recherches et d'Activités Pétrolières, sujeitas às disposições do contrato de concessão.
+Art. 10.º Em tudo o que não for contrariado pelo contrato autorizado por este decreto, estarão todas as sociedades referidas no seu artigo 1.º, com excepção da Entreprise de Recherches et d'Activités Pétrolières, sujeitas às disposições do contrato de concessão.
 
-###### Art. 11.º O contrato autorizado por este decreto deverá ser outorgado no prazo de 30 dias da sua data, e será, para todos os efeitos, considerado como uma apostilha ao contrato de concessão a que se refere o [Decreto n.º 48083](https://diariodarepublica.pt/dr/detalhe/decreto/48083-1967-400872), de 30 de Novembro de 1967.
+Art. 11.º O contrato autorizado por este decreto deverá ser outorgado no prazo de 30 dias da sua data, e será, para todos os efeitos, considerado como uma apostilha ao contrato de concessão a que se refere o [Decreto n.º 48083](https://diariodarepublica.pt/dr/detalhe/decreto/48083-1967-400872), de 30 de Novembro de 1967.
 
-###### Art. 12.º Este decreto entra imediatamente em vigor.
+Art. 12.º Este decreto entra imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

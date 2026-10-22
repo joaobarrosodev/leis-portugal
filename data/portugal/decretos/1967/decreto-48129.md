@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48129-1967-401711
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7ac2e9110b027df92a8cc7700e549ed175d83e27264bb6fdf61db601f9c3783
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0101babce9743734e27444e759a2442ec567596066afa755db12cb57a1d93810
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:20Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +88,12 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aditado ao Regulamento para o Serviço de Encomendas Postais em vigor, aprovado por Decreto de 22 de Agosto de 1911, o artigo 2.º-A, com a seguinte redacção:
+Artigo único. É aditado ao Regulamento para o Serviço de Encomendas Postais em vigor, aprovado por Decreto de 22 de Agosto de 1911, o artigo 2.º-A, com a seguinte redacção:
 
-###### Art. 2.º-A Administração-Geral dos Correios, Telégrafos e Telefones poderá autorizar o serviço de registo privativo de encomendas postais (SRPE) nos domicílios de entidades idóneas que o requeiram, mediante o pagamento prévio da taxa anual que for fixada nos sistemas tarifários dos CTT em vigor.
+Art. 2.º-A Administração-Geral dos Correios, Telégrafos e Telefones poderá autorizar o serviço de registo privativo de encomendas postais (SRPE) nos domicílios de entidades idóneas que o requeiram, mediante o pagamento prévio da taxa anual que for fixada nos sistemas tarifários dos CTT em vigor.
 
 § único. O serviço de registo privativo de encomendas postais será regulado pelas instruções que vierem a ser estabelecidas pela Administração-Geral dos Correios, Telégrafos e Telefones.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

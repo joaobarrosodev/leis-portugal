@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48803-1968-256605
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02507e04c1439ebf9963b1085eba3655400664b5f1359a6c28efdfd0d0efa062
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4446c27a5d1b4faa922d10b53d52c0cef0e653fa95cc0c864741cf5b9e8a7bb2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:400670:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477655:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:42Z'
   warnings: []
   errors: []
 ---
@@ -105,17 +125,17 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição, por motivo de urgê
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar um contrato com a Cabinda Gulf Oil Company introduzindo alterações em certas disposições do contrato de concessão assinado em 19 de Dezembro de 1966, de acordo com as disposições dos artigos 2.º a 21.º do presente decreto.
+Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar um contrato com a Cabinda Gulf Oil Company introduzindo alterações em certas disposições do contrato de concessão assinado em 19 de Dezembro de 1966, de acordo com as disposições dos artigos 2.º a 21.º do presente decreto.
 
-###### Art. 2.º As alterações autorizadas pelos artigos 3.º a 16.º deste decreto entrarão em vigor na data da assinatura do contrato de alteração das disposições do contrato de concessão assinado em 19 de Dezembro de 1966.
+Art. 2.º As alterações autorizadas pelos artigos 3.º a 16.º deste decreto entrarão em vigor na data da assinatura do contrato de alteração das disposições do contrato de concessão assinado em 19 de Dezembro de 1966.
 
-###### Art. 3.º O n.º 3 do artigo 3.º do contrato de concessão assinado em 19 de Dezembro de 1966 é eliminado.
+Art. 3.º O n.º 3 do artigo 3.º do contrato de concessão assinado em 19 de Dezembro de 1966 é eliminado.
 
-###### Art. 4.º Os n.os 1 e 2 do artigo 4.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituídos pelo seguinte:
+Art. 4.º Os n.os 1 e 2 do artigo 4.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituídos pelo seguinte:
 
 O pedido de prorrogação será apresentado ao Ministro do Ultramar até 31 de Outubro de 1968.
 
-###### Art. 5.º Os n.os 9 e 10 do artigo 5.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituídos pelos seguintes n.os 9 e 10:
+Art. 5.º Os n.os 9 e 10 do artigo 5.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituídos pelos seguintes n.os 9 e 10:
 
 9. Dentro de trinta dias a contar do início de cada ano civil, durante o período de 1 de Janeiro de 1967 a 31 de Dezembro de 1970, a Cabinda Gulf Oil Company pagará à província de Angola, em relação à área da concessão, tal como efectivamente ela for possuída pela Cabinda Gulf Oil Company no primeiro dia de cada um daqueles anos civis, e tendo em conta o disposto no n.º 2 do artigo 2.º, uma renda de superfície de 2000$00 por quilómetro quadrado por ano.
 
@@ -123,11 +143,11 @@ A diferença entre as somas devidas pela Cabinda Gulf Oil Company ao abrigo dest
 
 10. Depois de 30 de Junho de 1972, as áreas que não tenham sido demarcadas ao abrigo das disposições do artigo 7.º serão consideradas inteiramente livres.
 
-###### Art. 6.º O n.º 1 do artigo 6.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelo seguinte n.º 1:
+Art. 6.º O n.º 1 do artigo 6.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelo seguinte n.º 1:
 
 1. Para os efeitos deste contrato e sem prejuízo das disposições do artigo 7.º, considerar-se-á que a Cabinda Gulf Oil Company iniciou a exploração na data em que tiver começado a vender ou exportar regularmente petróleo bruto ou gás em quantidades comerciais.
 
-###### Art. 7.º Os n.os 1 a 11 do artigo 7.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituidos pelos seguintes n.os 1 a 8:
+Art. 7.º Os n.os 1 a 11 do artigo 7.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituidos pelos seguintes n.os 1 a 8:
 
 1. Sem prejuízo do direito de rescisão que pertence à província de Angola nos termos das leis e deste contrato de concessão, a Cabinda Gulf Oil Company terá o direito, de harmonia com o disposto nos números seguintes, de pesquisar e desenvolver as áreas que lhe pertençam nos termos deste contrato e de produzir dos depósitos nelas existentes, à sua custa, por um período que terá início na data referida no n.º 1 do artigo 6.º deste contrato e terminará em 31 de Dezembro de 2010.
 
@@ -157,19 +177,19 @@ Qualquer importância que, durante qualquer dos períodos de cinco anos acima re
 
 Na determinação dos montantes efectivamente despendidos, aplicar-se-á o disposto no n.º 8 do artigo 5.º deste contrato, excepto no respeitante aos pagamentos de rendas anuais estabelecidos no n.º 7 deste artigo, que não serão incluídos.
 
-###### Art. 8.º A alínea f) do n.º 1 do artigo 8.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituída pela seguinte:
+Art. 8.º A alínea f) do n.º 1 do artigo 8.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituída pela seguinte:
 
 f) Preparar, se estiver provada a possibilidade de exploração comercial da área, um programa para desenvolvimento rápido dos campos petrolíferos, instalação dos meios necessários de produção, transporte por oleoduto e exportação, com o fim de colocar a área em produção o mais ràpidamente possível; dentro de três meses a contar da data referida no n.º 1 do artigo 6.º, mas não depois de 1 de Janeiro de 1971, apresentar aos serviços competentes da província e do Ministério do Ultramar, para aprovação, o programa do desenvolvimento e/ou exploração relativo ao primeiro ano, e, posteriormente, até três meses antes do fim do período de validade de cada programa anual, apresentar às referidas autoridades, para aprovação, o programa de desenvolvimento e/ou exploraração para o ano seguinte.
 
-###### Art. 9.º O n.º 2 do artigo 15.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelo seguinte n.º 2:
+Art. 9.º O n.º 2 do artigo 15.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelo seguinte n.º 2:
 
 2. A Cabinda Gulf Oil Company pagará à província de Angola, dentro de dois meses a contar do fim de Junho e de Dezembro de cada ano, a quantia devida como direitos de concessão nos termos deste artigo, relativamente ao período de seis meses que expira no fim de Junho e Dezembro de cada ano, respectivamente.
 
-###### Art. 10.º É acrescentado ao artigo 15.º do contrato de concessão assinado em 19 de Dezembro de 1966 um novo n.º 8:
+Art. 10.º É acrescentado ao artigo 15.º do contrato de concessão assinado em 19 de Dezembro de 1966 um novo n.º 8:
 
 8. Sem prejuízo de quaisquer pagamentos ou entregas em espécie feitos pela Cabinda Gulf Oil Company à província de Angola por força do artigo 15.º, aquela Companhia pagará a esta em dólares dos Estados Unidos dentro de trinta dias a contar do último dia de cada mês civil, a importância de U. S. $0,10 relativamente a cada barril de hidrocarbonetos líquidos produzidos e exportados pela Cabinda Gulf Oil Company, durante o mês civil anterior. No respeitante, porém, às quantidades de hidrocarbonetos líquidos produzidos e exportadas, se as houver, antes de 1 de Janeiro de 1969, o respectivo pagamento será efectuado durante o mês de Janeiro de 1969; os pagamentos a que se refere este número terminarão quando o seu total atingir a soma de U. S. $2000000. Fica acordado que todas as quantias pagas pela Cabinda Gulf Oil Company ao abrigo deste número serão excluídas do seu rendimento bruto, para efeitos do regulamento aprovado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957.
 
-###### Art. 11.º Um novo n.º 4, com a seguinte redacção, é acrescentado ao artigo 16.º do contrato de concessão assinado em 19 de Dezembro de 1966:
+Art. 11.º Um novo n.º 4, com a seguinte redacção, é acrescentado ao artigo 16.º do contrato de concessão assinado em 19 de Dezembro de 1966:
 
 4. Como adiantamento por conta do imposto de rendimento sobre os petróleos que for devido, nos termos das disposições do [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, relativamente aos anos fiscais de 1971, 1972 e 1973, a Cabinda Gulf Oil Company pagará:
 
@@ -179,7 +199,7 @@ b) Até 1 de Julho de 1969, a soma de U. S. $3000000.
 
 Estes adiantamentos serão totalmente recuperados pela Cabinda Gulf Oil Company sem Qualquer juro, à razão de U. S. $2333333 por dedução ao imposto de rendimento devido relativamente a cada um dos anos fiscais de 1971 e 1972, e de U. S. $2333334 por dedução ao imposto de rendimento devido relativamente ao ano fiscal de 1973, deduzindo-se tais quantias ao montante do imposto de rendimento devido pela Cabinda Gulf Oil Company no ano fiscal a que disser respeito. Em nenhum dos ditos anos fiscais a respectiva dedução poderá, contudo, exceder 10 por cento do total de todas as importâncias a pagar pela Cabinda Gulf Oil Company por força deste contrato com respeito ao imposto de rendimento e/ou aos direitos de concessão devidos relativamente ao ano fiscal em questão, ficando entendido no entanto que sempre que tal limitação se aplicar, qualquer quantia que, por tal motivo, não possa ser recuperada pela Cabinda Gulf Oil Company, será transportada e deduzida tão depressa quanto for praticável, no ano ou anos fiscais subsequentes, sem limite de prazo, ficando, porém, tal dedução sempre sujeita à condição acima mencionada até que a soma total de U. S. $7000000 tenha sido totalmente recuperada pela Cabinda Gulf Oil Company.
 
-###### Art. 12.º Os n.os 1, 2 e 3 do artigo 20.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituídos pelos seguintes n.os 1, 2 e 3:
+Art. 12.º Os n.os 1, 2 e 3 do artigo 20.º do contrato de concessão assinado em 19 de Dezembro de 1966 são substituídos pelos seguintes n.os 1, 2 e 3:
 
 1. Por virtude das obrigações assumidas pela Cabinda Gulf Oil Company neste contrato de concessão, a dita Companhia e quaisquer outras entidades que cooperem com ela para a realização das suas operações gozam de isenção de impostos alfandegários e mais imposições aduaneiras, presentes ou futuras, exceptuados o imposto estatístico de 1 por mil e o imposto do selo, na importação de todos os materiais e equipamento, incluindo combustíveis líquidos, máquinas, automóveis, camiões, lanchas motoras e outros barcos, aviões, ferro em obra, ferramentas, materiais de construção pré-fabricados e manufacturados, equipamento de refinaria, condutas, equipamento médico, equipamento eléctrico e electrónico para escritório e produtos químicos e explosivos; esta isenção, porém, não se aplicará a quaisquer mercadorias ou bens que sejam importados pela Companhia, ou por quaisquer outras entidades que com ela cooperem, para venda, uso ou consumo por qualquer dos seus empregados. No respeitante ao movimento de quaisquer bens de e para aquela parte da área referida na alínea b) do artigo 2.º deste contrato, que está situada fora da jurisdição aduaneira portuguesa, tais bens podem livremente transitar pelo território português.
 
@@ -187,7 +207,7 @@ Estes adiantamentos serão totalmente recuperados pela Cabinda Gulf Oil Company 
 
 3. As mercadorias importadas ao abrigo do disposto no n.º 1 deste artigo poderão ser exportadas com isenção de direitos e outras imposições aduaneiras, excepto o imposto do selo de despacho.
 
-###### Art. 13.º Ao artigo 20.º do contrato de concessão assinado em 19 de Dezembro de 1966 acrescentam-se os seguintes novos n.os 5 a 9:
+Art. 13.º Ao artigo 20.º do contrato de concessão assinado em 19 de Dezembro de 1966 acrescentam-se os seguintes novos n.os 5 a 9:
 
 5. No caso de haver a possibilidade de as mercadorias mencionadas no n.º 1 deste artigo virem a ser utilizadas para outros fins, devem ser observadas as normas constantes do artigo 15.º do [Decreto n.º 41024](https://diariodarepublica.pt/dr/detalhe/decreto/41024-1957-652921), de 28 de Fevereiro de 1957.
 
@@ -199,17 +219,17 @@ Estes adiantamentos serão totalmente recuperados pela Cabinda Gulf Oil Company 
 
 9. Sem restringir o carácter geral dos números anteriores deste artigo, a Cabinda Gulf Oil Company e as entidades referidas no n.º 1 deste artigo na aquisição de equipamento e abastecimentos darão preferência aos artigos feitos ou produzidos em territórios nacionais (incluindo a utilização da capacidade livre dos meios nacionais de transporte para a importação dos ditos equipamentos e abastecimentos), contanto que tais artigos, comparados com artigos similares de origem estrangeira, possam ser adquiridos em condições igualmente vantajosas, tendo em atenção a sua qualidade, preço, disponibilidade dentro do prazo e nas quantidades pedidas e a sua adequabilidade aos fins a que se destinam. Na comparação do preço dos artigos importados com o dos fabricados ou produzidos em territórios nacionais tomar-se-ão em consideração o frete e quaisquer direitos alfandegários geralmente aplicáveis que seriam pagos pelos artigos importados se estes não fossem isentos ao abrigo das disposições deste contrato.
 
-###### Art. 14.º Substitui-se a alínea b) do n.º 1 do artigo 26.º do contrato de concessão de 19 de Dezembro de 1966 pela seguinte:
+Art. 14.º Substitui-se a alínea b) do n.º 1 do artigo 26.º do contrato de concessão de 19 de Dezembro de 1966 pela seguinte:
 
 b) A Cabinda Gulf Oil Company tenha infringido o estatuído na alínea a) do n.º 1 do artigo 8.º, n.º 3 do artigo 6.º, n.º 9 do artigo 5.º, n.º 7 do artigo 7.º ou nos artigos 14.º, 15.º, 29.º, 36.º ou 38.º
 
-###### Art. 15.º Substitui-se o artigo 36.º do contrato de concessão de 19 de Dezembro de 1966 pelo seguinte:
+Art. 15.º Substitui-se o artigo 36.º do contrato de concessão de 19 de Dezembro de 1966 pelo seguinte:
 
 A Cabinda Gulf Oil Company contribuirá para o Fundo de Fomento Mineiro Ultramarino, criado pelo [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, com a quantia anual de 1000000$00 para o ano de 1967 e 2000000$00 para cada ano seguinte; essa contribuição será paga péla Cabinda Gulf Oil Company, com respeito a cada ano, até ao dia 31 de Janeiro do ano em questão; no entanto, a importância de 10000000$00 correspondente a 50 por cento de todas as quantias devidas nos termos deste artigo em relação aos anos de 1968 a 1977, inclusive, será paga pela Cabinda Gulf Oil Company no prazo de trinta dias a contar da data da assinatura deste contrato.
 
 Todos os pagamentos feitos ao abrigo deste artigo serão dedutíveis, como despesa, para efeitos do cômputo do imposto de rendimento sobre os petróleos e serão creditáveis para efeitos de cumprimento da obrigação de investimento mínimo anual.
 
-###### Art. 16.º Substituem-se os n.os 1 a 5 do artigo 37.º do contrato de concessão de 19 de Dezembro de 1966 pelos seguintes n.os 1 a 4:
+Art. 16.º Substituem-se os n.os 1 a 5 do artigo 37.º do contrato de concessão de 19 de Dezembro de 1966 pelos seguintes n.os 1 a 4:
 
 1. A Cabinda Gulf Oil Company, ou qualquer entidade que com ela colabore de modo permanente no desempenho das suas actividades, procurará que os seus quadros de pessoal, em todas as categorias, sejam preenchidos com cidadãos portugueses. A mesma companhia ou companhias só contratarão pessoal estrangeiro dentro dos limites do que for razoàvelmente necessário para o desempenho dos cargos para os quais se não encontrem cidadãos portugueses disponíveis e com as qualificações e experiência exigidas.
 
@@ -219,13 +239,13 @@ Todos os pagamentos feitos ao abrigo deste artigo serão dedutíveis, como despe
 
 4. Os cidadãos portugueses e estrangeiros empregados pela Cabinda Gulf Oil Company em categorias idênticas beneficiarão, em circunstâncias semelhantes, de idênticos benefícios de natureza social e profissional.
 
-###### Art. 17.º As alterações previstas nos artigos 18.º a 21.º deste decreto entrarão em vigor na data da publicação de um diploma legal que venha alterar o regulamento aprovado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, ou em 1 de Janeiro de 1971, se tal diploma for publicado antes desta data, e aplicar-se-ão à produção da Cabinda Gulf Oil Company a partir dessa data; o referido diploma deverá incluir, sem prejuízo dos contratos de concessão existentes com outras companhias, os seguintes princípios:
+Art. 17.º As alterações previstas nos artigos 18.º a 21.º deste decreto entrarão em vigor na data da publicação de um diploma legal que venha alterar o regulamento aprovado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, ou em 1 de Janeiro de 1971, se tal diploma for publicado antes desta data, e aplicar-se-ão à produção da Cabinda Gulf Oil Company a partir dessa data; o referido diploma deverá incluir, sem prejuízo dos contratos de concessão existentes com outras companhias, os seguintes princípios:
 
 a) Dedução dos direitos de concessão ao rendimento bruto anual, e não ao imposto de rendimento, quando tais direitos de concessão se referirem a petróleo bruto (esta expressão não incluirá ozocerite, nafta, asfalto, gases naturais, enxofre, hélio, dióxido de carbono e substâncias salinas) produzido, arrecadado e exportado da província de Angola, com excepção dos direitos de concessão relativos a vendas ao Governo em conformidade com o seu direito de preferência;
 
 b) O cálculo da dedução por desgaste, depreciação e obsolência, baseado no custo original do activo e não no seu valor depreciado num dado momento.
 
-###### Art. 18.º Os n.os 1, 3 e 4 do artigo 15.º do contrato de concessão de 19 de Dezembro de 1966, já acima alterado, são substituídos pelos seguintes novos n.os 1, 3 e 4 e acrescenta-se ao mesmo artigo 15.º um novo n.º 9, de acordo com as redacções seguintes:
+Art. 18.º Os n.os 1, 3 e 4 do artigo 15.º do contrato de concessão de 19 de Dezembro de 1966, já acima alterado, são substituídos pelos seguintes novos n.os 1, 3 e 4 e acrescenta-se ao mesmo artigo 15.º um novo n.º 9, de acordo com as redacções seguintes:
 
 1. Por virtude da concessão, isenções e outros direitos conferidos pelo contrato à Cabinda Gulf Oil Company, a província de Angola reserva e retém para si, a título de direitos de concessão, 12,5 por cento do valor correspondente:
 
@@ -251,11 +271,11 @@ b) Quanto a cada uma das substâncias mencionadas no artigo 1.º deste contrato,
 
 9. Sem prejuízo do disposto na alínea a) do n.º 1 do artigo 15.º, os direitos de concessão a pagar pela Cabinda Gulf Oil Company à província de Angola respeitantes às quantidades de petróleo bruto compradas pelo Governo Português, de acordo com os termos do artigo 14.º deste contrato, serão de 12,5 por cento do preço de venda efectivamente recebido pela Cabinda Gulf Oil Company, deduzidas as despesas desde o local da extracção ou à boca do poço até ao local ou locais de entrega ao Governo Português.
 
-###### Art. 19.º O n.º 2 do artigo 16.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelo seguinte:
+Art. 19.º O n.º 2 do artigo 16.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelo seguinte:
 
 2. O imposto de rendimento referido no n.º 1 deste artigo não excederá 50 por cento dos lucros da sociedade em qualquer ano fiscal, reduzidos das importâncias que, relativamente ao mesmo ano fiscal, caibam à província de Angola por força do artigo 15.º deste contrato, para todas as substâncias mencionadas no artigo 1.º; fica, porém, acordado que os direitos de concessão relativos a petróleo bruto produzido e exportado da província de Angola depois de 1 de Janeiro de 1971 (não incluindo os direitos de concessão devidos por vendas ao Governo ao abrigo do exercício do seu direito de preferência) serão deduzidos do rendimento bruto anual, e não do imposto de rendimento.
 
-###### Art. 20.º O número único do artigo 18.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelos seguintes n.os 1 a 7:
+Art. 20.º O número único do artigo 18.º do contrato de concessão assinado em 19 de Dezembro de 1966 é substituído pelos seguintes n.os 1 a 7:
 
 1. O rendimento bruto anual da Cabinda Gulf Oil Company será determinado para efeito de determinaçao do imposto de rendimento sobre lucros resultantes de operações petrolíferas nas províncias ultramarinas, criado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, com as alterações que lhe tenham sido introduzidas à data da entrada em vigor das disposições deste artigo, de acordo com o disposto nos n.os 3, 4, 5 e 6 deste artigo, as quais serão igualmente aplicáveis para os fins das alíneas 1), 2) e 3) do parágrafo A) do artigo 24.º do regulamenta anexo ao citado decreto, de acordo com as emendas introduzidas.
 
@@ -299,15 +319,15 @@ e) Em caso algum a Cabinda Gulf Oil Company, por força do disposto no n.º 7 de
 
 f) Para os efeitos do disposto no n.º 7 deste artigo 18.º, a província de Angola e a Cabinda Gulf Oil Company a pedido desta última, trocarão informações e discutirão todos os factos pertinentes e circunstâncias aplicáveis, bem como as disposições contidas nas cláusulas ao abrigo das quais cada outra companhia opera ou venha a operar em Angola.
 
-###### Art. 21.º O seguinte novo artigo 40.º é adicionado ao contrato de concessão assinado em 19 de Dezembro de 1966:
+Art. 21.º O seguinte novo artigo 40.º é adicionado ao contrato de concessão assinado em 19 de Dezembro de 1966:
 
-###### Art. 40.º Pára efeitos deste contrato, as operações que a Cabinda Gulf Oil Company efectuar, de acordo com as disposições nele contidas, através de qualquer companhia associada (incluindo a venda de petróleo bruto e produtos petrolíferos a essa companhia associada e por essa última a terceiros), serão consideradas, para todos os efeitos, como tendo sido efectuadas pela Cabinda Gulf Oil Company; consequentemente, as obrigações da Cabinda Gulf Oil Company para com a província de Angola não serão de maneira nenhuma afectadas pela execução de tais operações através de qualquer companhia associada, beneficiando a companhia associada dos mesmos direitas da Cabinda Gulf Oil Company em relação a tais operações.
+Art. 40.º Pára efeitos deste contrato, as operações que a Cabinda Gulf Oil Company efectuar, de acordo com as disposições nele contidas, através de qualquer companhia associada (incluindo a venda de petróleo bruto e produtos petrolíferos a essa companhia associada e por essa última a terceiros), serão consideradas, para todos os efeitos, como tendo sido efectuadas pela Cabinda Gulf Oil Company; consequentemente, as obrigações da Cabinda Gulf Oil Company para com a província de Angola não serão de maneira nenhuma afectadas pela execução de tais operações através de qualquer companhia associada, beneficiando a companhia associada dos mesmos direitas da Cabinda Gulf Oil Company em relação a tais operações.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Dezembro de 1968.**
+Promulgado em 14 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

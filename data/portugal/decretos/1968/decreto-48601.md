@@ -53,18 +53,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48601-1968-264540
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f197f61d5b3386b7d182646b8e38ecc0d7487de7d580a43e423ec8bc10e3fcbb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0a1bbf9cf7a7bf4e5b637b0b8fed4551c30561fa0a91f9aaa37cd67213ddf045
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -76,13 +76,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:03Z'
   warnings: []
   errors: []
 ---
@@ -93,6 +93,6 @@ Usando da faculdade que me confere o n.º 1.º do artigo 81.º da Constituição
 
 Hei por bem, sob proposta do Presidente do Conselho, nomear o engenheiro Alfredo de Queirós Ribeiro Vaz Pinto, general Horácio José de Sá Viana Rebelo, Dr. António Manuel Gonçalves Rapazote, Doutor Mário Júlio Brito de Almeida Costa, Dr. João Augusto Dias Rosas, brigadeiro José Manuel Bettencourt Conceição Rodrigues, comodoro Manuel Pereira Crespo, Dr. Alberto Marciano Gorjão Franco Nogueira, engenheiro Rui Alves da Silva Sanches, Doutor Joaquim Moreira da Silva Cunha, Dr. José Hermano Saraiva, Dr. José Gonçalo da Cunha Sottomayor Correia de Oliveira, engenheiro José Estêvão Abranches Couceiro do Canto Moniz, Doutor José João Gonçalves de Proença e Doutor Lopo de Carvalho Cancela de Abreu, respectivamente, Ministros de Estado adjunto do Presidente do Conselho, da Defesa Nacional, do Interior, da Justiça, das Finanças, do Exército, da Marinha, dos Negócios Estrangeiros, das Obras Públicas, do Ultramar, da Educação Nacional, da Economia, das Comunicações, das Corporações e Previdência Social e da Saúde e Assistência.
 
-**Publique-se.**
+Publique-se.
 
 Paços dos Governo da República, 27 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano.

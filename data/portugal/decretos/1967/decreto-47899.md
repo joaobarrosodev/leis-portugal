@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47899-1967-390424
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-05T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 53657453946d9e6c8007695955d5a71d8295e7f114e5e7b0a80b876bfaf91f9b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc27e3c16e9d7c188233493cbc4b16e54e50e90bb802e33f4355b8b1a4493e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:23Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +94,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. As vagas existentes de enfermeiro ou enfermeira de 2.ª classe do ramo de enfermagem geral e as de auxiliar de enfermagem do ramo de enfermagem auxiliar do Hospital do Ultramar, e bem assim as que nos dois ramos de enfermagem vierem a verificar-se, poderão ser providas por contrato sem formalidades de concurso, desde que:
+Artigo único. As vagas existentes de enfermeiro ou enfermeira de 2.ª classe do ramo de enfermagem geral e as de auxiliar de enfermagem do ramo de enfermagem auxiliar do Hospital do Ultramar, e bem assim as que nos dois ramos de enfermagem vierem a verificar-se, poderão ser providas por contrato sem formalidades de concurso, desde que:
 
 a) Não haja candidatos classificados em concurso;
 
@@ -102,7 +102,7 @@ b) O número de candidatos em concurso de que já tenha sido publicada a lista d
 
 § único. Os funcionários contratados poderão ser providos definitivamente nos lugares por nomeação desde que tenham boas informações e o mínimo de cinco anos de serviço.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

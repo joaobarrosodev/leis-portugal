@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48961-1969-525625
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f725554d5b065d0f5f14592c0d432ed780b8c8e83ebc888605fb8cf3c2780fe6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 72f7787ebc0751f590cd8984372de2905e35aec8678c800a18449a9dc87912b6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525213:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:00Z'
   warnings: []
   errors: []
 ---
@@ -88,29 +100,29 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 3000000$00, devendo a mesma importância ser inscrita no orçamento do Ministério das Comunicações para o corrente ano económico sob a seguinte forma:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial no montante de 3000000$00, devendo a mesma importância ser inscrita no orçamento do Ministério das Comunicações para o corrente ano económico sob a seguinte forma:
 
-### Capítulo 15.º «III Plano de Fomento»:
+Capítulo 15.º «III Plano de Fomento»:
 
 Transportes, comunicações e meteorologia
 
-###### Art. 180.º «Transportes aéreos», n.º 2) «Gabinete do Novo Aeroporto de Lisboa» (ver nota f) ... 3000000$00
+Art. 180.º «Transportes aéreos», n.º 2) «Gabinete do Novo Aeroporto de Lisboa» (ver nota f) ... 3000000$00
 
 (nota f) [Decreto-Lei n.º 48902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48902-1969-525213), de 8 de Março de 1969.
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verba de despesa:
+Art. 2.º Para compensação do crédito designado no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verba de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 9.º, artigo 307.º-A «Comparticipações previstas no [Decreto-Lei n.º 48902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48902-1969-525213), de 8 de Março de 1969» ... 1500000$00
+Capítulo 9.º, artigo 307.º-A «Comparticipações previstas no [Decreto-Lei n.º 48902](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48902-1969-525213), de 8 de Março de 1969» ... 1500000$00
 
 Ministério das Comunicações
 
-### Capítulo 15.º, artigo 180.º, n.º 1), alínea 12 ... 1500000$00
+Capítulo 15.º, artigo 180.º, n.º 1), alínea 12 ... 1500000$00
 
 ... 3000000$00
 
-###### Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério das Comunicações:
+Art. 3.º São autorizadas as seguintes alterações de rubrica no orçamento do Ministério das Comunicações:
 
 A observação (e) afecta à rubrica do artigo 180.º «Transportes aéreos» é eliminada.
 
@@ -120,8 +132,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - João Augusto Dias Rosas - Fernando Alberto de Oliveira.
 
-**Promulgado em 7 de Abril de 1969.**
+Promulgado em 7 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 14 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48133-1967-401687
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:24Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9aeb8d498239054fdfed9d696d5c4ac452c558077752875d0ce774c02c560de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1ae588650a1a62f917806f8adafba328879a61b33e465464b9d39280323bbc43
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:24Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 21
-  section_count: 37
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:24Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério das Finanças
 
@@ -140,39 +156,39 @@ Do artigo 65.º, n.º 2) «Encargos com a organização e a representação em c
 
 Para o artigo 63.º, n.º 2) «Telefones» ... +25000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 30407227$30, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 30407227$30, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
+Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
 
-###### Artigo 122.º, n.º 1) «Ajudas de custo» ... 1000000$00
+Artigo 122.º, n.º 1) «Ajudas de custo» ... 1000000$00
 
-###### Artigo 127.º «Despesas de comunicações»:
+Artigo 127.º «Despesas de comunicações»:
 
 N.º 1) «Correios ...» ... 5000$00
 
 N.º 2) «Telefones» ... 40000$00
 
-###### Artigo 128.º, n.º 2), alínea 1 «Emolumentos pessoais pela cobrança do imposto sucessório e da sisa» ... 2000000$00
+Artigo 128.º, n.º 2), alínea 1 «Emolumentos pessoais pela cobrança do imposto sucessório e da sisa» ... 2000000$00
 
-###### Artigo 130.º, n.º 4) «Pagamento de serviços ...» ... 4000000$00
+Artigo 130.º, n.º 4) «Pagamento de serviços ...» ... 4000000$00
 
-### Capítulo 17.º «Serviços Mecanográficos do Ministério das Finanças»:
+Capítulo 17.º «Serviços Mecanográficos do Ministério das Finanças»:
 
-###### Artigo 208.º, n.º 1) «De móveis» ... 75000$00
+Artigo 208.º, n.º 1) «De móveis» ... 75000$00
 
 ... 7120000$00
 
 Ministério da Justiça
 
-### Capítulo 2.º «Conselhos superiores e institutos de criminologia - Conselho Superior Judiciário»:
+Capítulo 2.º «Conselhos superiores e institutos de criminologia - Conselho Superior Judiciário»:
 
-###### Artigo 17.º, n.º 2) «Telefones» ... 1000$00
+Artigo 17.º, n.º 2) «Telefones» ... 1000$00
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores»:
 
-###### Artigo 339.º «Despesas de comunicações»:
+Artigo 339.º «Despesas de comunicações»:
 
 N.º 3) «Telefones» ... 1700$00
 
@@ -180,35 +196,35 @@ N.º 3) «Telefones» ... 1700$00
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços da Armada - Navios e material flutuante da Armada»:
+Capítulo 3.º «Superintendência dos Serviços da Armada - Navios e material flutuante da Armada»:
 
-###### Artigo 35.º, n.º 1), alínea 1 «Aquisição de um navio hidrográfico» ... 3511662$40
+Artigo 35.º, n.º 1), alínea 1 «Aquisição de um navio hidrográfico» ... 3511662$40
 
 Ministério das Obras Públicas
 
-### Capítulo 2.º «Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral»:
 
-###### Artigo 18.º «Despesas de comunicações»:
+Artigo 18.º «Despesas de comunicações»:
 
 N.º 1) «Correios ...» ... 500$00
 
 N.º 3) «Transportes» ... 1000$00
 
-### Capítulo 3.º «Conselho Superior de Obras Públicas»:
+Capítulo 3.º «Conselho Superior de Obras Públicas»:
 
-###### Artigo 44.º, n.º 1) «Luz, ...» ... 4000$00
+Artigo 44.º, n.º 1) «Luz, ...» ... 4000$00
 
-### Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
+Capítulo 4.º «Direcção-Geral dos Edifícios e Monumentos Nacionais»:
 
-###### Artigo 51.º, n.º 3) «Construções e melhoramentos ...», alínea 5 «Edifícios para estabelecimentos da Direcção-Geral dos Serviços Agrícolas» ... 382753$90
+Artigo 51.º, n.º 3) «Construções e melhoramentos ...», alínea 5 «Edifícios para estabelecimentos da Direcção-Geral dos Serviços Agrícolas» ... 382753$90
 
 ... 388253$90
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 4.º, n.º 1 «De semoventes», alínea 1 «Veículos com motor»:
+Artigo 4.º, n.º 1 «De semoventes», alínea 1 «Veículos com motor»:
 
 «Despesas com os automóveis dos Subsecretários de Estado» ... 50000$00
 
@@ -216,127 +232,127 @@ Ministério da Economia
 
 Secretaria de Estado da Agricultura
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Estabelecimentos diversos - Estações de fomento pecuário»:
+Capítulo 5.º «Direcção-Geral dos Serviços Pecuários - Estabelecimentos diversos - Estações de fomento pecuário»:
 
-###### Artigo 140.º, n.º 1) «Participações em cobranças ...» ... 300000$00
+Artigo 140.º, n.º 1) «Participações em cobranças ...» ... 300000$00
 
 Secretaria de Estado do Comércio
 
-### Capítulo 9.º «Direcção-Geral do Comércio»:
+Capítulo 9.º «Direcção-Geral do Comércio»:
 
-###### Artigo 192.º, n.º 2) «Impressos» ... 50000$00
+Artigo 192.º, n.º 2) «Impressos» ... 50000$00
 
 ... 350000$00
 
 Ministério das Comunicações
 
-### Capítulo 3.º «Direcção-Geral de Transportes Terrestres - Fundo Especial de Transportes Terrestres»:
+Capítulo 3.º «Direcção-Geral de Transportes Terrestres - Fundo Especial de Transportes Terrestres»:
 
-###### Artigo 40.º «Pagamento de serviços ...» ... 10600000$00
+Artigo 40.º «Pagamento de serviços ...» ... 10600000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º «Secretaria-Geral - Serviços de Acção Social»:
+Capítulo 2.º «Secretaria-Geral - Serviços de Acção Social»:
 
-###### Artigo 32.º, n.º 3) «Transportes» ... 2000$00
+Artigo 32.º, n.º 3) «Transportes» ... 2000$00
 
-### Capítulo 10.º «Despesas de anos económicos findos»:
+Capítulo 10.º «Despesas de anos económicos findos»:
 
-###### Artigo 113.º «Despesas de anos económicos findos» ... 27000$00
+Artigo 113.º «Despesas de anos económicos findos» ... 27000$00
 
 ... 29000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 7.º, n.º 2) «Telefones» ... 5000$00
+Artigo 7.º, n.º 2) «Telefones» ... 5000$00
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 62.º, n.º 1) «Luz, ...» ... 25000$00
+Artigo 62.º, n.º 1) «Luz, ...» ... 25000$00
 
-###### Artigo 65.º, n.º 3) «Encargos com a assistência a diminuídos físicos» ... 8325611$00
+Artigo 65.º, n.º 3) «Encargos com a assistência a diminuídos físicos» ... 8325611$00
 
 ... 8355611$00
 
 ... 30407227$30
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 1.º, artigo 6.º «Imposto sobre as sucessões e doações» ... 2000000$00
+Capítulo 1.º, artigo 6.º «Imposto sobre as sucessões e doações» ... 2000000$00
 
-### Capítulo 7.º, artigo 175.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 382753$90
+Capítulo 7.º, artigo 175.º «Reembolso das despesas com a construção, conservação, reparação e melhoramento de edifícios» ... 382753$90
 
-### Capítulo 8.º, artigo 204.º «Assistência a diminuídos físicos» ... 8325611$80
+Capítulo 8.º, artigo 204.º «Assistência a diminuídos físicos» ... 8325611$80
 
-### Capítulo 8.º, artigo 236.º-A «Produto da subscrição para a compra de um navio destinado a substituir o aviso Afonso de Albuquerque» ... 3511662$40
+Capítulo 8.º, artigo 236.º-A «Produto da subscrição para a compra de um navio destinado a substituir o aviso Afonso de Albuquerque» ... 3511662$40
 
-### Capítulo 8.º, artigo 243.º «Fundo Especial de Transportes Terrestres» ... 10600000$00
+Capítulo 8.º, artigo 243.º «Fundo Especial de Transportes Terrestres» ... 10600000$00
 
-### Capítulo 8.º, artigo 249.º «Estabelecimentos zootécnicos» ... 300000$00
+Capítulo 8.º, artigo 249.º «Estabelecimentos zootécnicos» ... 300000$00
 
 ... 25120027$30
 
 Ministério das Finanças
 
-### Capítulo 10.º, artigo 119.º, n.º 1) ... 2500000$00
+Capítulo 10.º, artigo 119.º, n.º 1) ... 2500000$00
 
-### Capítulo 10.º, artigo 123.º, n.º 1) ... 45000$00
+Capítulo 10.º, artigo 123.º, n.º 1) ... 45000$00
 
-### Capítulo 12.º, artigo 145.º, n.º 1) ... 2500000$00
+Capítulo 12.º, artigo 145.º, n.º 1) ... 2500000$00
 
-### Capítulo 17.º, artigo 211.º, n.º 3) ... 5000$00
+Capítulo 17.º, artigo 211.º, n.º 3) ... 5000$00
 
-### Capítulo 17.º, artigo 213.º, n.º 1) ... 70000$00
+Capítulo 17.º, artigo 213.º, n.º 1) ... 70000$00
 
 ... 5120000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 169.º, n.º 2) ... 1700$00
+Capítulo 4.º, artigo 169.º, n.º 2) ... 1700$00
 
-### Capítulo 4.º, artigo 261.º, n.º 1) ... 1000$00
+Capítulo 4.º, artigo 261.º, n.º 1) ... 1000$00
 
 ... 2700$00
 
 Ministério das Obras Públicas
 
-### Capítulo 2.º, artigo 15.º, n.º 1) ... 1500$00
+Capítulo 2.º, artigo 15.º, n.º 1) ... 1500$00
 
-### Capítulo 3.º, artigo 41.º, n.º 1) ... 4000$00
+Capítulo 3.º, artigo 41.º, n.º 1) ... 4000$00
 
 ... 5500$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 21.º, n.º 3), alínea 6 ... 50000$00
+Capítulo 2.º, artigo 21.º, n.º 3), alínea 6 ... 50000$00
 
 Ministério da Economia
 
-### Capítulo 9.º, artigo 187.º, n.º 1) ... 50000$00
+Capítulo 9.º, artigo 187.º, n.º 1) ... 50000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º, artigo 15.º, n.º 1) ... 27000$00
+Capítulo 2.º, artigo 15.º, n.º 1) ... 27000$00
 
-### Capítulo 3.º, artigo 49.º, n.º 2) ... 2000$00
+Capítulo 3.º, artigo 49.º, n.º 2) ... 2000$00
 
 ... 29000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 1.º, artigo 6.º, n.º 2) ... 5000$00
+Capítulo 1.º, artigo 6.º, n.º 2) ... 5000$00
 
-### Capítulo 4.º, artigo 56.º, n.º 1) ... 25000$00
+Capítulo 4.º, artigo 56.º, n.º 1) ... 25000$00
 
 ... 30000$00
 
 ... 30407227$30
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério da Justiça:
 
 A observação (b) aposta à dotação do capítulo 4.º, artigo 261.º, n.º 1), é alterada para:
 
@@ -344,6 +360,6 @@ Inclui 269000$00 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

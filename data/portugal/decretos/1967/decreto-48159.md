@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48159-1967-401523
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cf10db7c4d7468a7d4475bfe43075128523e549285fc8021a289c6bc78ee1de7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 629ef826cadab165f4d9197856f749ac78901743adff2dbc7ce8f70779dd8cd8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:39Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +95,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com José Moreira para a execução da empreitada de construção do quartel da secção e posto da Guarda Nacional Republicana de Moimenta da Beira, pela importância de 2111088$00.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com José Moreira para a execução da empreitada de construção do quartel da secção e posto da Guarda Nacional Republicana de Moimenta da Beira, pela importância de 2111088$00.
 
-###### Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos às obras executadas, por virtude de contrato, mais de 500000$00 no corrente ano e 1611088$00, ou o que se apurar como saldo, no ano de 1968.
+Art. 2.º Seja qual for o valor das obras a realizar, não poderá a Direcção-Geral dos Edifícios e Monumentos Nacionais despender com pagamentos relativos às obras executadas, por virtude de contrato, mais de 500000$00 no corrente ano e 1611088$00, ou o que se apurar como saldo, no ano de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Albino Machado Vaz.

@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48243-1968-235169
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: db7a8b3a856cbf4c2adb63db5945e674fbfac478f460c4e41ba9e80a6af84b5c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0132f0dcacfe12dbec94858377ffe865ad3c389787a411e7d851c80978703dec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:390438:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:18Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +102,17 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º Enquanto não for criada e estiver em funcionamento na província de Angola instituição especialmente adaptada à concessão de crédito a curto, médio e a longo prazos à generalidade das actividades industriais, é autorizada a Caixa de Crédito Agro-Pecuário da província a efectuar as operações de assistência financeira previstas nos n.os 3 e 4 do artigo 3.º do Diploma Legislativo Ministerial n.º 1 de 8 de Agosto de 1964 a empresas industriais ainda que a actividade destas não esteja directamente relacionada com a agricultura e a pecuária.
+Artigo 1.º Enquanto não for criada e estiver em funcionamento na província de Angola instituição especialmente adaptada à concessão de crédito a curto, médio e a longo prazos à generalidade das actividades industriais, é autorizada a Caixa de Crédito Agro-Pecuário da província a efectuar as operações de assistência financeira previstas nos n.os 3 e 4 do artigo 3.º do Diploma Legislativo Ministerial n.º 1 de 8 de Agosto de 1964 a empresas industriais ainda que a actividade destas não esteja directamente relacionada com a agricultura e a pecuária.
 
-###### Art. 2.º Enquanto se mantiver em vigor o presente diploma, o número de vogais referidos no artigo 4.º do Diploma Legislativo Ministerial n.º 1 será ampliado de uma unidade, cabendo a sua designação à Associação Industrial de Angola.
+Art. 2.º Enquanto se mantiver em vigor o presente diploma, o número de vogais referidos no artigo 4.º do Diploma Legislativo Ministerial n.º 1 será ampliado de uma unidade, cabendo a sua designação à Associação Industrial de Angola.
 
-###### Art. 3.º O disposto no artigo 38.º do Diploma Legislativo Ministerial n.º 1 não é aplicável aos contratos de empréstimo a celebrar pela Caixa com as requerentes abrangidas pela faculdade conferida pelo artigo 1.º deste diploma, as quais terão sempre que prestar garantia do empréstimo, nos termos do artigo 37.º daquele diploma legislativo ministerial.
+Art. 3.º O disposto no artigo 38.º do Diploma Legislativo Ministerial n.º 1 não é aplicável aos contratos de empréstimo a celebrar pela Caixa com as requerentes abrangidas pela faculdade conferida pelo artigo 1.º deste diploma, as quais terão sempre que prestar garantia do empréstimo, nos termos do artigo 37.º daquele diploma legislativo ministerial.
 
-###### Art. 4.º - 1. Fica o governador-geral de Angola autorizado a aplicar, até à importância de 105000 contos, parte do produto do empréstimo concedido à província nos termos do [Decreto-Lei n.º 47904](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47904-1967-390438), de 6 de Setembro de 1967, no apoio financeiro da Caixa de Crédito Agro-Pecuário, conforme previsto no n.º 4.º do artigo 17.º do Diploma Legislativo Ministerial n.º 1.
+Art. 4.º - 1. Fica o governador-geral de Angola autorizado a aplicar, até à importância de 105000 contos, parte do produto do empréstimo concedido à província nos termos do [Decreto-Lei n.º 47904](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47904-1967-390438), de 6 de Setembro de 1967, no apoio financeiro da Caixa de Crédito Agro-Pecuário, conforme previsto no n.º 4.º do artigo 17.º do Diploma Legislativo Ministerial n.º 1.
 
 2.º empréstimo da província à Caixa de Crédito Agro-Pecuário, referido neste artigo, será amortizado no máximo de dez anuidades, a contar de 1969, inclusive, e vencerá o juro mínimo anual de 4 por cento.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR.
 

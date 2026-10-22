@@ -46,40 +46,59 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48901-1969-525216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-03-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7c7f7cb9804e6f361dab650d6af7d401548a7483849531e3f5ded2b323e04cbf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e42cbddd451bc63e25a2275726441b308e0105de273cff5a10db6f118a31ad7a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Definição de Competências
+- Força Aérea
+- Moçambique.Colónia Portuguesa
+- Orgânica
+- Regime de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:398776:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: corrected_by
+  target: pt:dre:525037:por
+  label: "Rectificado o mapa anexo ao presente diploma, pela RECT.DD522.27.03.1969.PC, DG.IS [73] de 27.03.1969\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/rectificacao/1969-525037
+  date: '1969-03-27'
+- type: repealed_by
+  target: pt:dre:398776:por
+  label: "Revogado, relativamente à província de Moçambique, pelo DEC LEI.76/72.07.03.1972.MU, DG.IS [56] de 07.03.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/76-1972-398776
+  date: '1972-03-07'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:31Z'
   warnings: []
   errors: []
 ---
@@ -96,11 +115,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 I) Pessoal
 
-###### Artigo 1.º É aprovado o quadro do pessoal do Serviço de Aeronáutica Civil de Moçambique, com os aumentos constantes do mapa anexo a este diploma e que dele faz parte integrante.
+Artigo 1.º É aprovado o quadro do pessoal do Serviço de Aeronáutica Civil de Moçambique, com os aumentos constantes do mapa anexo a este diploma e que dele faz parte integrante.
 
 § único. São extintos no mesmo quadro os lugares de chefe de secção de pessoal, expediente e contabilidade e chefe de secção de intercâmbio e informação aeronáutica, bem como os oito lugares de capataz de aeródromo, de aeródromo de 1.ª classe e de aeródromo de 2.ª classe (pessoal contratado) e os oito lugares de capataz de aeródromo de 3.ª classe (pessoal assalariado).
 
-###### Art. 2.º São providos por escolha do Ministro do Ultramar, mediante proposta do governador-geral, ouvido o director do Serviço de Aeronáutica Civil, os seguintes lugares:
+Art. 2.º São providos por escolha do Ministro do Ultramar, mediante proposta do governador-geral, ouvido o director do Serviço de Aeronáutica Civil, os seguintes lugares:
 
 a) Consultor técnico aeronáutico, entre indivíduos de reconhecida competência técnica e experiência aeronáutica;
 
@@ -122,7 +141,7 @@ i) Chefes de secção, entre os funcionários do quadro administrativo do Servi�
 
 j) Encarregado de transportes, entre os terceiros-oficiais do quadro privativo do Serviço de Aeronáutica Civil que reúnam boas informações de serviço.
 
-###### Art. 3.º O primeiro provimento das vagas resultantes da alteração do quadro, aprovado por este diploma, será efectuado com dispensa de despacho ministerial, visto e posse e deverá recair:
+Art. 3.º O primeiro provimento das vagas resultantes da alteração do quadro, aprovado por este diploma, será efectuado com dispensa de despacho ministerial, visto e posse e deverá recair:
 
 Consultor técnico aeronáutico, no actual chefe da Divisão de Pessoal Navegante e de Material de Voo;
 
@@ -142,31 +161,31 @@ Encarregado de aeródromos de 2.ª classe, nos actuais capatazes de aeródromo d
 
 Encarregado de aeródromo de 3.ª classe, nos actuais capatazes de aeródromo de 3.ª classe.
 
-###### Art. 4.º O preenchimento do lugar de piloto deverá ser precedido de concurso documental e de provas práticas.
+Art. 4.º O preenchimento do lugar de piloto deverá ser precedido de concurso documental e de provas práticas.
 
 § único. O titular deste lugar deverá ser exonerado se deixar caducar a sua licença de piloto, se for considerado definitivamente incapaz para voo pela Junta de Saúde Aeronáutica ou quando for punido por infracção considerada grave pelos regulamentos aeronáuticos, podendo, todavia, ingressar noutros lugares dos quadros dos Serviços de Aeronáutica Civil, compatíveis com as suas habilitações e qualificações.
 
-###### Art. 5.º O funcionário provido no lugar de encarregado de transportes poderá concorrer ao concurso de promoção a primeiro-oficial do quadro privativo do Serviço de Aeronáutica Civil, desde que no momento da abertura do concurso reúna os requisitos indispensáveis às condições de promoção.
+Art. 5.º O funcionário provido no lugar de encarregado de transportes poderá concorrer ao concurso de promoção a primeiro-oficial do quadro privativo do Serviço de Aeronáutica Civil, desde que no momento da abertura do concurso reúna os requisitos indispensáveis às condições de promoção.
 
-###### Art. 6.º É atribuída a categoria da letra R do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1965, aos condutores de automóveis e aos condutores de automóveis de 1.ª classe e a categoria da letra T do mesmo mapa aos telefonistas do Serviço de Aeronáutica Civil.
+Art. 6.º É atribuída a categoria da letra R do mapa I anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1965, aos condutores de automóveis e aos condutores de automóveis de 1.ª classe e a categoria da letra T do mesmo mapa aos telefonistas do Serviço de Aeronáutica Civil.
 
 II) Serviços
 
-###### Art. 7.º Os Serviços Administrativos compreenderão as Secções de Pessoal e Expediente e de Contabilidade.
+Art. 7.º Os Serviços Administrativos compreenderão as Secções de Pessoal e Expediente e de Contabilidade.
 
-###### Art. 8.º Os Serviços de Intercâmbio e de Informação Aeronáutica passam a compreender as Secções de Intercâmbio e de Informação Aeronáutica.
+Art. 8.º Os Serviços de Intercâmbio e de Informação Aeronáutica passam a compreender as Secções de Intercâmbio e de Informação Aeronáutica.
 
 III) Disposições diversas
 
-###### Art. 9.º Os encargos resultantes do presente diploma que não tenham cabimento nas respectivas dotações do orçamento dos Serviços de Aeronáutica Civil serão suportados, nos anos de 1969 e 1970, pelos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique.
+Art. 9.º Os encargos resultantes do presente diploma que não tenham cabimento nas respectivas dotações do orçamento dos Serviços de Aeronáutica Civil serão suportados, nos anos de 1969 e 1970, pelos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique.
 
 § único. Esta comparticipação será entregue, em duodécimos, no Tesouro da província, mediante requisição a apresentar pelos Serviços Provinciais de Fazenda e Contabilidade.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 21 de Fevereiro de 1969.**
+Promulgado em 21 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -174,6 +193,6 @@ Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
 Mapa a que se refere o artigo 1.º do presente diploma
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/03/05600/02660268.pdf))](https://files.diariodarepublica.pt/1s/1969/03/05600/02660268.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/03/05600/02660268.pdf)
 
 Ministério do Ultramar, 21 de Fevereiro de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

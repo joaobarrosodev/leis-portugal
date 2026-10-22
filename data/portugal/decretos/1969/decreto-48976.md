@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48976-1969-525998
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e642493c0adee501f890bab3afa576162a3cea3e671e3532966ec19d081541a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb3f54f38319fcc95eb52538997a77989fafb8e958cede35f2c39820af8f0eb6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:07Z'
   warnings: []
   errors: []
 ---
@@ -96,31 +96,31 @@ Por motivo de urgência, tendo em vista o § 1.º do artigo 150.º da Constitui�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Fundação Dicca-Fekete, criada por iniciativa de Bruno Fekete e de Paula Ancié Fekete, é uma instituição de assistência particular, de utilidade pública geral, duração ilimitada, dotada de personalidade jurídica, que se regerá pelos estatutos anexos ao presente diploma e, subsidiàriamente, pela demais legislação portuguesa aplicável.
+Artigo 1.º A Fundação Dicca-Fekete, criada por iniciativa de Bruno Fekete e de Paula Ancié Fekete, é uma instituição de assistência particular, de utilidade pública geral, duração ilimitada, dotada de personalidade jurídica, que se regerá pelos estatutos anexos ao presente diploma e, subsidiàriamente, pela demais legislação portuguesa aplicável.
 
-###### Art. 2.º A Fundação propõe-se a fins caritativos e humanitários, e, igualmente, educativos, culturais e científicos, a exercer em Moçambique ou onde for necessário ao preenchimento do seu objecto.
+Art. 2.º A Fundação propõe-se a fins caritativos e humanitários, e, igualmente, educativos, culturais e científicos, a exercer em Moçambique ou onde for necessário ao preenchimento do seu objecto.
 
-###### Art. 3.º O património da Fundação é constituído pelos valores a que se refere o artigo 5.º dos estatutos anexos a este decreto, que baixam aprovados pelo Ministro do Ultramar.
+Art. 3.º O património da Fundação é constituído pelos valores a que se refere o artigo 5.º dos estatutos anexos a este decreto, que baixam aprovados pelo Ministro do Ultramar.
 
-###### Art. 4.º A administração da Fundação compete a um conselho composto por três ou cinco membros, um dos quais será o presidente, devendo a maioria ser portuguesa.
+Art. 4.º A administração da Fundação compete a um conselho composto por três ou cinco membros, um dos quais será o presidente, devendo a maioria ser portuguesa.
 
-###### Art. 5.º A fiscalização da Fundação compete a uma comissão revisora de contas composta por três membros, sendo o presidente nomeado pelo Ministro do Ultramar.
+Art. 5.º A fiscalização da Fundação compete a uma comissão revisora de contas composta por três membros, sendo o presidente nomeado pelo Ministro do Ultramar.
 
-###### Art. 6.º A Fundação é isenta de contribuição predial ou de sisa quanto aos imóveis destinados à sua instalação ou directa realização dos seus fins e beneficia também, nos termos da legislação em vigor, das demais isenções de impostos que aproveitam às instituições suas congéneres.
+Art. 6.º A Fundação é isenta de contribuição predial ou de sisa quanto aos imóveis destinados à sua instalação ou directa realização dos seus fins e beneficia também, nos termos da legislação em vigor, das demais isenções de impostos que aproveitam às instituições suas congéneres.
 
-###### Art. 7.º Mediante aprovação do Ministro do Ultramar, poderão ser consideradas de utilidade pública as expropriações dos imóveis que forem indispensáveis à realização dos fins da Fundação.
+Art. 7.º Mediante aprovação do Ministro do Ultramar, poderão ser consideradas de utilidade pública as expropriações dos imóveis que forem indispensáveis à realização dos fins da Fundação.
 
-###### Art. 8.º A aquisição e alienação de imóveis a título oneroso, bem como a sua oneração, carecem da prévia autorização do Ministro do Ultramar. A igual autorização ficarão sujeitas quaisquer alterações aos estatutos da Fundação.
+Art. 8.º A aquisição e alienação de imóveis a título oneroso, bem como a sua oneração, carecem da prévia autorização do Ministro do Ultramar. A igual autorização ficarão sujeitas quaisquer alterações aos estatutos da Fundação.
 
-###### Art. 9.º A escritura de instituição da Fundação Dicca-Fekete deverá celebrar-se no prazo de noventa dias, a contar da data da publicação deste decreto, reportando-se à respectiva data o início da sua existência.
+Art. 9.º A escritura de instituição da Fundação Dicca-Fekete deverá celebrar-se no prazo de noventa dias, a contar da data da publicação deste decreto, reportando-se à respectiva data o início da sua existência.
 
-###### Art. 10.º Este diploma entre imediatamente em vigor.
+Art. 10.º Este diploma entre imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Abril de 1969.**
+Promulgado em 11 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -130,19 +130,19 @@ ESTATUTOS DA FUNDAÇÃO DICCA-FEKETE
 
 ### CAPÍTULO I — Natureza, denominação, duração e sede
 
-###### Artigo 1.º A Fundação Dicca-Fekete, criada por D. Paula Ancié Fekete e pelo Dr. Bruno Fekete, é uma instituição particular de utilidade pública geral, dotada de personalidade jurídica, e reger-se-á pelas disposições dos presentes estatutos e, nos casos omissos, pelas leis portuguesas aplicáveis.
+Artigo 1.º A Fundação Dicca-Fekete, criada por D. Paula Ancié Fekete e pelo Dr. Bruno Fekete, é uma instituição particular de utilidade pública geral, dotada de personalidade jurídica, e reger-se-á pelas disposições dos presentes estatutos e, nos casos omissos, pelas leis portuguesas aplicáveis.
 
-###### Art. 2.º A Fundação é portuguesa, de duração ilimitada, e tem a sua sede em Lourenço Marques.
+Art. 2.º A Fundação é portuguesa, de duração ilimitada, e tem a sua sede em Lourenço Marques.
 
 ### CAPÍTULO II — Fins e âmbito das actividades da Fundação
 
-###### Art. 3.º Os fins da Fundação são caritativos, humanitários, educativos, culturais e científicos.
+Art. 3.º Os fins da Fundação são caritativos, humanitários, educativos, culturais e científicos.
 
-###### Art. 4.º A acção da Fundação será exercida na província de Moçambique e ainda em qualquer outro ponto do território nacional, ou mesmo no estrangeiro, onde se tornar necessária para o preenchimento das suas atribuições.
+Art. 4.º A acção da Fundação será exercida na província de Moçambique e ainda em qualquer outro ponto do território nacional, ou mesmo no estrangeiro, onde se tornar necessária para o preenchimento das suas atribuições.
 
 ### CAPÍTULO III — Património
 
-###### Art. 5.º - 1. O património da Fundação é constituído:
+Art. 5.º - 1. O património da Fundação é constituído:
 
 a) Pela quota que os fundadores possuem na firma F. Dicca, Lda., com sede em Lourenço Marques, no valor de 22125000$00, a qual fica afecta à Fundação Dicca-Fekete;
 
@@ -154,7 +154,7 @@ d) Pelos bens que a Fundação adquirir com os seus próprios rendimentos.
 
 2. Os fundadores reservarão para si, enquanto forem vivos, o direito a auferirem os rendimentos líquidos dos bens que transferirem para a Fundação.
 
-###### Art. 6.º A Fundação poderá:
+Art. 6.º A Fundação poderá:
 
 a) Adquirir e vender bens imobiliários, quer para as instalações e exercício das suas actividades, quer para aplicar mais produtivamente ou de forma menos aleatória os valores do seu património, conforme decisão unânime dos membros do conselho de administração, e mediante prévia autorização do Ministro do Ultramar;
 
@@ -164,7 +164,7 @@ c) Adquirir, vender ou de outro modo alienar quaisquer outros bens desde que a v
 
 ### CAPÍTULO IV — Administração
 
-###### Art. 7.º - 1. A Fundação será administrada por um conselho de administração composto de um presidente, um vice-presidente e um ou três vogais, devendo a maioria dos seus membros ter a nacionalidade portuguesa.
+Art. 7.º - 1. A Fundação será administrada por um conselho de administração composto de um presidente, um vice-presidente e um ou três vogais, devendo a maioria dos seus membros ter a nacionalidade portuguesa.
 
 2. O cargo de presidente é sempre vitalício, e o vice-presidente e os vogais serão da sua livre escolha e por ele nomeados.
 
@@ -176,7 +176,7 @@ c) Adquirir, vender ou de outro modo alienar quaisquer outros bens desde que a v
 
 6. Os membros do conselho serão remunerados pela forma determinada pelos fundadores ou pelo presidente em exercício.
 
-###### Art. 8.º Ao conselho de administração competem em geral os mais amplos poderes de representação da Fundação, de livre gerência e disposição do seu património, nos termos da lei e dos presentes estatutos, e de realização dos seus fins e, em especial:
+Art. 8.º Ao conselho de administração competem em geral os mais amplos poderes de representação da Fundação, de livre gerência e disposição do seu património, nos termos da lei e dos presentes estatutos, e de realização dos seus fins e, em especial:
 
 a) Escolher, de entre os fins da Fundação, aqueles que devem ser realizados, bem como a forma e processo da sua realização;
 
@@ -186,7 +186,7 @@ c) Delegar em um ou mais dos seus membros o exercício de qualquer das suas atri
 
 d) Constituir mandatários, conferindo-lhes poderes especiais que entender.
 
-###### Art. 9.º A Fundação fica obrigada pela intervenção ou assinatura nos respectivos actos e documentos:
+Art. 9.º A Fundação fica obrigada pela intervenção ou assinatura nos respectivos actos e documentos:
 
 a) Do presidente do conselho de administração ou do vice-presidente, nas ausências ou impedimentos daquele, devidamente comprovados;
 
@@ -194,15 +194,15 @@ b) Dos delegados ou mandatários designados ou constituídos nos termos do dispo
 
 ### CAPÍTULO V — Fiscalização
 
-###### Art. 10.º O conselho de administração procederá todos os anos a um rigoroso inventário do património e a um balanço de todas as suas receitas e despesas, coincidindo o ano social com o ano civil.
+Art. 10.º O conselho de administração procederá todos os anos a um rigoroso inventário do património e a um balanço de todas as suas receitas e despesas, coincidindo o ano social com o ano civil.
 
-###### Art. 11.º Para os efeitos do artigo anterior, o conselho de administração deverá organizar e manter em dia a respectiva contabilidade, sujeitando-a à fiscalização de uma firma de auditores (chartered accountants) de reconhecida idoneidade.
+Art. 11.º Para os efeitos do artigo anterior, o conselho de administração deverá organizar e manter em dia a respectiva contabilidade, sujeitando-a à fiscalização de uma firma de auditores (chartered accountants) de reconhecida idoneidade.
 
-###### Art. 12.º Haverá ainda uma comissão revisora de contas composta por três membros, sendo o presidente nomeado pelo Ministro do Ultramar e os restantes pelo conselho de administração.
+Art. 12.º Haverá ainda uma comissão revisora de contas composta por três membros, sendo o presidente nomeado pelo Ministro do Ultramar e os restantes pelo conselho de administração.
 
 § único. As funções dos membros da comissão revisora de contas durarão pelo período de três anos e serão sempre renováveis.
 
-###### Art. 13.º À comissão revisora de contas pertence:
+Art. 13.º À comissão revisora de contas pertence:
 
 1.º Examinar, até 20 Junho de cada ano, o inventário do património da Fundação e o balanço das receitas e despesas do ano anterior, tomando como base os relatórios dos auditores (chartered accountants) e documentos que os instruam;
 
@@ -210,20 +210,20 @@ b) Dos delegados ou mandatários designados ou constituídos nos termos do dispo
 
 3.º Elaborar anualmente o seu parecer acerca das actividades e contas da Fundação.
 
-###### Art. 14.º Para determinar o rendimento líquido, para efeitos do disposto no n.º 2 do artigo 5.º, e para fixar a remuneração dos membros do conselho de administração, sòmente serão dedutíveis as despesas gerais de administração da Fundação e as de conservação dos bens do seu património.
+Art. 14.º Para determinar o rendimento líquido, para efeitos do disposto no n.º 2 do artigo 5.º, e para fixar a remuneração dos membros do conselho de administração, sòmente serão dedutíveis as despesas gerais de administração da Fundação e as de conservação dos bens do seu património.
 
 ### CAPÍTULO VI — Disposições gerais
 
-###### Art. 15.º O primeiro inventário, balanço e contas da Fundação serão encerrados em 31 de Dezembro de 1970.
+Art. 15.º O primeiro inventário, balanço e contas da Fundação serão encerrados em 31 de Dezembro de 1970.
 
-###### Art. 16.º O Ministro do Ultramar, através dos serviços competentes, exercerá as suas funções tutelares e de fiscalização na acção da Fundação de acordo com as leis em vigor.
+Art. 16.º O Ministro do Ultramar, através dos serviços competentes, exercerá as suas funções tutelares e de fiscalização na acção da Fundação de acordo com as leis em vigor.
 
-###### Art. 17.º Em caso de extinção da Fundação, os seus bens serão, segundo deliberação unânime dos membros do conselho de administração, entregues às instituições que melhor se adeqúem ao cumprimento do objecto da Fundação.
+Art. 17.º Em caso de extinção da Fundação, os seus bens serão, segundo deliberação unânime dos membros do conselho de administração, entregues às instituições que melhor se adeqúem ao cumprimento do objecto da Fundação.
 
-###### Art. 18.º Os presentes estatutos poderão ser alterados por decisão unânime dos membros do conselho de administração, aprovada pelo Ministro do Ultramar.
+Art. 18.º Os presentes estatutos poderão ser alterados por decisão unânime dos membros do conselho de administração, aprovada pelo Ministro do Ultramar.
 
-###### Art. 19.º Fica desde já designado presidente o fundador Dr. Bruno Fekete e, por seu falecimento, sua esposa, a fundadora D. Paula Ancié Fekete.
+Art. 19.º Fica desde já designado presidente o fundador Dr. Bruno Fekete e, por seu falecimento, sua esposa, a fundadora D. Paula Ancié Fekete.
 
-###### Art. 20.º Fica desde já designado vice-presidente o Sr. Manuel João Correia, que exercerá o cargo enquanto os fundadores forem vivos, não podendo ser destituído das suas funções a não ser em consequência do disposto no n.º 3 do artigo 7.º
+Art. 20.º Fica desde já designado vice-presidente o Sr. Manuel João Correia, que exercerá o cargo enquanto os fundadores forem vivos, não podendo ser destituído das suas funções a não ser em consequência do disposto no n.º 3 do artigo 7.º
 
 Ministério do Ultramar, 11 de Abril de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

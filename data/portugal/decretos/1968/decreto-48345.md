@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/04/09500/05600562.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,40 +48,85 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48345-1968-234721
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: eef2d64b0fb6fa74f78c891924982d97c7b9a61513a9fa93e2d73b170dd63111
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 230e6cb352c3100d39610599fb9d04126c62d79692df4d02ddb858cfa65efcf5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração de Portos
+- Administração dos Portos do Douro e Leixões
+- Porto de Leixões
+- Porto do Douro
+- Portos
+- Regulamento
+- Tarifa Portuária
 relationships:
 - type: amended_by
   target: pt:dre:252058:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:141592:por
+  label: "Alterados os artigos 16.º, 63.º, 64.º, 65.º, 66.º, 67.º, 68.º, 69.º, 70.º e 71.º e aditados os artigos 71.º-A e\
+    \ 71.º-B todos do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo Decreto 26747,\
+    \ de 06 de Julho 1936, DG.IS [156], na redacção do Decreto 35842, de 30 de Agosto 1946 pelo DEC.341/70.17.07.1970.MCOMN,\
+    \ DG.IS [165] de 17.07.1970\00\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/341-1970-141592
+  date: '1970-07-17'
+- type: amended_by
+  target: pt:dre:633370:por
+  label: "Alterados os artigos 39.º e 48.º do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões aprovado\
+    \ pelo Decreto 26747, de 06 de Julho 1936, na redacção do presente diploma, pelo DEC.432/71.29.09.1971.MCOMN, DG.IS [242]\
+    \ de 14.10.1971\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/432-1971-633370
+  date: '1971-09-29'
+- type: amended_by
+  target: pt:dre:480771:por
+  label: "Alterados os artigos 53.º, 54.º, 91.º, 92.º, 93.º, 115.º, 123.º e 124.º do Decreto 26747, de 06 de Julho 1936, na\
+    \ redacção do presente diploma pelo DEC.3/76.19.12.1975.MTC, DG.IS [2] de 03.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/3-1976-480771
+  date: '1975-12-19'
+- type: cites
+  target: pt:dre:157025:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:361304:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385673:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:252058:por
+  label: "Revogado pelo DR.28/77.03.05.1977.MCT, DR.IS [114] de 17.05.1977\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/28-1977-252058
+  date: '1977-05-03'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:00Z'
   warnings: []
   errors: []
 ---
@@ -104,17 +149,17 @@ Nestes termos e nos da alínea 13.º do artigo 8.º da [Decreto-Lei n.º 36977](
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Administração dos Portos do Douro e Leixões promoverá o desenvolvimento dos estudos em curso para a revisão total do regulamento das tarifas praticadas nos portos sob sua administração.
+Artigo 1.º A Administração dos Portos do Douro e Leixões promoverá o desenvolvimento dos estudos em curso para a revisão total do regulamento das tarifas praticadas nos portos sob sua administração.
 
-###### Art. 2.º Entretanto, como primeira parte dessa revisão, os artigos abaixo indicados do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, são alterados pela seguinte forma:
-
-...
-
-###### Art. 26.º A taxa de acostagem no primeiro período de cinco dias, indivisível, e por tonelada de arqueação bruta, é de $40.
+Art. 2.º Entretanto, como primeira parte dessa revisão, os artigos abaixo indicados do Regulamento de Tarifas da Administração dos Portos do Douro e Leixões, aprovado pelo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, são alterados pela seguinte forma:
 
 ...
 
-###### Art. 39.º Além das 24 horas, toda a mercadoria armazenada de modo que o espaço de terreno ou de cais ocupado pela mesma ou por outra mercadoria pertencente ao mesmo expedidor, transportador, consignatário ou destinatário não tenha ficado livre e desembaraçado pagará a seguinte taxa de armazenagem:
+Art. 26.º A taxa de acostagem no primeiro período de cinco dias, indivisível, e por tonelada de arqueação bruta, é de $40.
+
+...
+
+Art. 39.º Além das 24 horas, toda a mercadoria armazenada de modo que o espaço de terreno ou de cais ocupado pela mesma ou por outra mercadoria pertencente ao mesmo expedidor, transportador, consignatário ou destinatário não tenha ficado livre e desembaraçado pagará a seguinte taxa de armazenagem:
 
 a) Primeiro período - pelos primeiros sete dias a seguir ou fracção e por cada metro quadrado ... 1$00
 
@@ -128,7 +173,7 @@ e) Quinto período e outros a seguir por cada trinta dias ou fracção e por cad
 
 ...
 
-###### Art. 48.º ...
+Art. 48.º ...
 
 § 1.º Quando se tratar de pesagem de mercadoria que não possa ser efectuada senão em básculas, a taxa a aplicar será de 3$00 por pesada.
 
@@ -140,7 +185,7 @@ Arts. 53.º e 54.º A guindagem de mercadoria com os aparelhos da Administraçã
 
 ...
 
-###### Art. 63.º Os serviços de reboque fora dos portos do Douro e Leixões estão sujeitos por cada rebocador empregado à seguinte taxa, por horas e meias horas, com o mínimo cobrável de uma hora:
+Art. 63.º Os serviços de reboque fora dos portos do Douro e Leixões estão sujeitos por cada rebocador empregado à seguinte taxa, por horas e meias horas, com o mínimo cobrável de uma hora:
 
 Preço total, em escudos, por hora:
 
@@ -150,15 +195,15 @@ sendo T a tonelagem bruta ou de deslocação, conforme se trate de navios mercan
 
 § único. O tempo será contado desde a hora da largo da amarração até à hora de amarrar, na volta.
 
-###### Art. 64.º A taxa de aluguer dos rebocadores fora dos portos, sem reboque, aplicável por horas e meias horas, é de 800$00 por hora, com o mínimo cobrável de uma hora.
+Art. 64.º A taxa de aluguer dos rebocadores fora dos portos, sem reboque, aplicável por horas e meias horas, é de 800$00 por hora, com o mínimo cobrável de uma hora.
 
-###### Art. 65.º O reboque de fragatas entre, os portos do Douro e Leixões é tarifado pela tarifa geral do artigo 63.º modificado, mas contar-se-á apenas o tempo de reboque efectivo.
+Art. 65.º O reboque de fragatas entre, os portos do Douro e Leixões é tarifado pela tarifa geral do artigo 63.º modificado, mas contar-se-á apenas o tempo de reboque efectivo.
 
 ...
 
-###### Art. 67.º A taxa de rebocador à ordem é de 180$00 por hora, aplicável por fracções mínimas de quarto de hora.
+Art. 67.º A taxa de rebocador à ordem é de 180$00 por hora, aplicável por fracções mínimas de quarto de hora.
 
-###### Art. 68.º As tarifas dos rebocadores em serviço dentro dos portos são as seguintes:
+Art. 68.º As tarifas dos rebocadores em serviço dentro dos portos são as seguintes:
 
 a) Com reboque, por hora ... 300$00
 
@@ -176,7 +221,7 @@ Navios de mais de 2000 t:
 
 sendo T a tonelagem bruta no caso dos navios mercantes ou o deslocamento nos navios de guerra.
 
-###### Art. 69.º As taxas de aluguer das lanchas com motor em serviço nos portos são as seguintes:
+Art. 69.º As taxas de aluguer das lanchas com motor em serviço nos portos são as seguintes:
 
 a) Por qualquer serviço, cada hora ... 190$00
 
@@ -184,11 +229,11 @@ b) Por serviço de atracação de navios aos cais ou de largada, independentemen
 
 ...
 
-###### Art. 71.º A taxa de lancha à ordem é de 68$00 por cada hora, com a fracção mínima de um quarto de hora.
+Art. 71.º A taxa de lancha à ordem é de 68$00 por cada hora, com a fracção mínima de um quarto de hora.
 
 ...
 
-###### Art. 81.º Pelas primeiras duas horas normais (mínimo cobrável), compreendendo barco, bomba, vestido e aprestos, bem como o pessoal de tripulação (seis homens), o preço do serviço de um mergulhador requisitado à Administração dos Portos do Douro e Leixões é de 1300$00.
+Art. 81.º Pelas primeiras duas horas normais (mínimo cobrável), compreendendo barco, bomba, vestido e aprestos, bem como o pessoal de tripulação (seis homens), o preço do serviço de um mergulhador requisitado à Administração dos Portos do Douro e Leixões é de 1300$00.
 
 Por cada hora a seguir (indivisível), dentro das horas normais, o preço é de 300$00.
 
@@ -212,7 +257,7 @@ sendo de 5 m3 o mínimo facturável nos fornecimentos por barca-cisterna.
 
 ...
 
-###### Art. 98.º Pelo aluguer das máquinas, ferramentas e utensílios abaixo designados cobrar-se-ão as seguintes taxas por cada dia, completo ou incompleto:
+Art. 98.º Pelo aluguer das máquinas, ferramentas e utensílios abaixo designados cobrar-se-ão as seguintes taxas por cada dia, completo ou incompleto:
 
 Alavancas, pés-de-cabra, etc. ... 4$00
 
@@ -366,7 +411,7 @@ Tabuleiros e caixas para descarga ... 12$00
 
 ...
 
-###### Art. 115.º ...
+Art. 115.º ...
 
 ...
 
@@ -378,11 +423,11 @@ j) Ocupação com materiais de construção, matérias-primas, artigos de consum
 
 2) No Douro, por metro quadrado e por ano ... 18$00
 
-###### Art. 3.º Ao mesmo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, são aditados os seguintes artigos:
+Art. 3.º Ao mesmo [Decreto n.º 26747](https://diariodarepublica.pt/dr/detalhe/decreto/26747-1936-361304), de 6 de Julho de 1936, são aditados os seguintes artigos:
 
 ## TÍTULO XI — Transportes automóveis
 
-###### Art. 123.º As tarifas de transportes automóveis de mercadorias dentro das zonas dos portos e nas horas normais são:
+Art. 123.º As tarifas de transportes automóveis de mercadorias dentro das zonas dos portos e nas horas normais são:
 
 a) Empilhadores:
 
@@ -404,7 +449,7 @@ Transporte (até 1 km) e descarga - 7$00 por tonelada.
 
 § único. Os atrelados que, no fim do transporte diário, forem deixados carregados pagam 30$00/dia.
 
-###### Art. 124.º Quando os serviços dos aparelhos de transporte automóvel forem prestados fora das zonas dos portos, as tarifas a aplicar são, desde a saída até à entrada na recolha ou nos serviços:
+Art. 124.º Quando os serviços dos aparelhos de transporte automóvel forem prestados fora das zonas dos portos, as tarifas a aplicar são, desde a saída até à entrada na recolha ou nos serviços:
 
 Empilhadores de capacidade superior a 4 t - 120$00/hora.
 
@@ -414,7 +459,7 @@ Tractores - 80$0/hora.
 
 Atrelados - 50$00/dia.
 
-###### Art. 125.º Fora das horas normais de trabalho, quando os aparelhos de transporte automóvel estejam requisitados e prontos a prestar serviço, mas não sejam utilizados pelo requisitante, é devida a seguinte tarifa de aparelhos à ordem:
+Art. 125.º Fora das horas normais de trabalho, quando os aparelhos de transporte automóvel estejam requisitados e prontos a prestar serviço, mas não sejam utilizados pelo requisitante, é devida a seguinte tarifa de aparelhos à ordem:
 
 Empilhadores de capacidade superior a 4 t - 30$00/hora.
 
@@ -422,12 +467,12 @@ Empilhadores de capacidade igual ou inferior a 4 t - 24$00/hora.
 
 Tractores - 24$00/hora.
 
-###### Art. 126.º Fora das horas normais de trabalho, as tarifas do artigo 123.º são aumentadas 1$00 por tonelada e as do artigo 124.º são aumentadas de 10 por cento.
+Art. 126.º Fora das horas normais de trabalho, as tarifas do artigo 123.º são aumentadas 1$00 por tonelada e as do artigo 124.º são aumentadas de 10 por cento.
 
-###### Art. 4.º Estas alterações tarifárias entrarão em vigor no primeiro dia do mês seguinte ao da publicação deste diploma.
+Art. 4.º Estas alterações tarifárias entrarão em vigor no primeiro dia do mês seguinte ao da publicação deste diploma.
 
-###### Art. 5.º Fica revogado o [Decreto n.º 35842](https://diariodarepublica.pt/dr/detalhe/decreto/35842-1946-157025), de 30 de Agosto de 1946.
+Art. 5.º Fica revogado o [Decreto n.º 35842](https://diariodarepublica.pt/dr/detalhe/decreto/35842-1946-157025), de 30 de Agosto de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

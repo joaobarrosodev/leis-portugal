@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48529-1968-276040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c7b9fc53e7e7264ce8f9636f47834171ad17beca122f231a718d5f56a28b6c77
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 82d635df0a88a19a06927caaef1947c441da7d863cdf7635ac1afb914e2e1aeb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:459196:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:503232:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:23Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +96,11 @@ Considerando a necessidade de regulamentar as condições a que devem satisfazer
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o regulamento sobre as condições a que devem satisfazer os alojamentos da tripulação dos navios aos quais se aplica o [Decreto-Lei n.º 43026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43026-1960-503232), de 28 de Junho de 1960.
+Artigo 1.º É aprovado o regulamento sobre as condições a que devem satisfazer os alojamentos da tripulação dos navios aos quais se aplica o [Decreto-Lei n.º 43026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43026-1960-503232), de 28 de Junho de 1960.
 
-###### Art. 2.º Fica revogada a legislação em contrário, nomeadamente o regulamento aprovado pelo [Decreto n.º 13274](https://diariodarepublica.pt/dr/detalhe/decreto/13274-1927-459196), de 11 de Março de 1927.
+Art. 2.º Fica revogada a legislação em contrário, nomeadamente o regulamento aprovado pelo [Decreto n.º 13274](https://diariodarepublica.pt/dr/detalhe/decreto/13274-1927-459196), de 11 de Março de 1927.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.
 
@@ -100,11 +108,11 @@ REGULAMENTO SOBRE OS ALOJAMENTOS DAS TRIPULAÇÕES DOS NAVIOS MERCANTES
 
 ### CAPÍTULO I — Disposições gerais
 
-###### Artigo 1.º Consideram-se abrangidos pela designação genérica de alojamentos da tripulação todos os locais do navio previstos para serem utilizados pelos membros da sua tripulação como camarotes, refeitórios, instalações sanitárias, enfermarias e lugares de recreio.
+Artigo 1.º Consideram-se abrangidos pela designação genérica de alojamentos da tripulação todos os locais do navio previstos para serem utilizados pelos membros da sua tripulação como camarotes, refeitórios, instalações sanitárias, enfermarias e lugares de recreio.
 
 § único. Com excepção dos refeitórios e lugares de recreio da tripulação nos navios de carga, os locais destinados a alojamentos da tripulação não poderão ser utilizados por quaisquer passageiros.
 
-###### Art. 2.º Os locais que constituem os alojamentos da tripulação deverão ser situados, construídos e dispostos, em relação a outros locais do navio, de forma a assegurar:
+Art. 2.º Os locais que constituem os alojamentos da tripulação deverão ser situados, construídos e dispostos, em relação a outros locais do navio, de forma a assegurar:
 
 a) Suficiente protecção da tripulação contra acidentes, o mar e a intempérie;
 
@@ -120,13 +128,13 @@ d) A separação correspondente às necessidades de cada categoria de pessoas, q
 
 § 3.º Em casos excepcionais, a Direcção da Marinha Mercante poderá autorizar a instalação dos alojamentos da tripulação a vante, mas em caso algum além da antepara de colisão, quando qualquer outro não for razoável ou possível, atendendo ao tipo de navio, às suas dimensões ou ao serviço a que se destina.
 
-###### Art. 3.º Os alojamentos da tripulação deverão ter acesso do convés exterior e esse acesso deverá ser mantido desempachado e em condições de permanente utilização.
+Art. 3.º Os alojamentos da tripulação deverão ter acesso do convés exterior e esse acesso deverá ser mantido desempachado e em condições de permanente utilização.
 
 § 1.º Se o acesso abrir directamente nos alojamentos, a respectiva abertura para o convés exterior deverá ter protecção eficiente contra o mar e a intempérie.
 
 § 2.º Os locais previstos para camarotes, refeitórios e lugares de recreio serão servidos por corredores, cujo acesso a partir do convés exterior deverá ser feito por aberturas munidas de portas com dobradiças.
 
-###### Art. 4.º Não deverá existir abertura directa entre os alojamentos da tripulação e quaisquer outros locais do navio utilizados como:
+Art. 4.º Não deverá existir abertura directa entre os alojamentos da tripulação e quaisquer outros locais do navio utilizados como:
 
 a) Porões de carga;
 
@@ -152,7 +160,7 @@ l) Casas de banho ou de lavabos e retretes, não privativas de camarotes.
 
 § único. Os acessos aos alojamentos da tripulação deverão ser dispostos de forma que a eventualidade de incêndio em paióis de luzes ou de tintas não impeça as comunicações com aqueles alojamentos.
 
-###### Art. 5.º Os alojamentos da tripulação não deverão ser atravessados pelos tubos dos escovéns nem pelos encanamentos a vapor - de alimentação ou de descarga - de guinchos, máquinas de leme ou outras máquinas auxiliares do navio.
+Art. 5.º Os alojamentos da tripulação não deverão ser atravessados pelos tubos dos escovéns nem pelos encanamentos a vapor - de alimentação ou de descarga - de guinchos, máquinas de leme ou outras máquinas auxiliares do navio.
 
 § 1.º Os corredores dos alojamentos da tripulação poderão ser atravessados pelos encanamentos do vapor referidos no corpo deste artigo, quando não houver possibilidade de outra solução mais conveniente. Nesse caso, os encanamentos de alimentação deverão:
 
@@ -172,13 +180,13 @@ e) Ter o forro isolador protegido exteriormente.
 
 § 4.º Os tubos das gateiras das amarras, as condutas de ventilação e os troncos de carga ou de tanques cuja passagem através dos alojamentos da tripulação não puder ser evitada serão de aço ou de material adequado e de construção estanque a gás.
 
-###### Art. 6.º Dentro de qualquer compartimento destinado a dormitório da tripulação não será permitida a colocação de baterias eléctricas, nem a passagem de condutas de extracção de gases dessas baterias para o exterior do navio sempre que nessas condutas e em correspondência dos alojamentos da tripulação houver aberturas, mesmo com obturação tornada estanque.
+Art. 6.º Dentro de qualquer compartimento destinado a dormitório da tripulação não será permitida a colocação de baterias eléctricas, nem a passagem de condutas de extracção de gases dessas baterias para o exterior do navio sempre que nessas condutas e em correspondência dos alojamentos da tripulação houver aberturas, mesmo com obturação tornada estanque.
 
-###### Art. 7.º Todos os alojamentos da tripulação sujeitos a entrada de água, quer proveniente da baldeação, quer por efeito do mau tempo, devem ser providos de meios suficientes para o seu esgoto.
+Art. 7.º Todos os alojamentos da tripulação sujeitos a entrada de água, quer proveniente da baldeação, quer por efeito do mau tempo, devem ser providos de meios suficientes para o seu esgoto.
 
 ### CAPÍTULO II — Pormenores construtivos especiais
 
-###### Art. 8º Serão de aço, ou de material equivalente aprovado pela Repartição Técnica da Direcção da Marinha Mercante, e estanques a gás, as anteparas que limitarem exteriormente os alojamentos da tripulação e aquelas que, dentro do navio, separarem os locais destinados a camarotes da tripulação de outros utilizados como:
+Art. 8º Serão de aço, ou de material equivalente aprovado pela Repartição Técnica da Direcção da Marinha Mercante, e estanques a gás, as anteparas que limitarem exteriormente os alojamentos da tripulação e aquelas que, dentro do navio, separarem os locais destinados a camarotes da tripulação de outros utilizados como:
 
 a) Porões de carga;
 
@@ -212,7 +220,7 @@ l) Casas de banho ou de lavabos e retretes, não privativas de camarotes.
 
 5.º As aberturas das anteparas estanques a gás terão meios de obturação de tipo estanque a gás.
 
-###### Art. 9.º Os pavimentos que constituírem pisos ou alojamentos da tripulação deverão ser estanques e sòlidamente construídos e apresentar uma superfície que seja fácil de conservar limpa e não escorregadia.
+Art. 9.º Os pavimentos que constituírem pisos ou alojamentos da tripulação deverão ser estanques e sòlidamente construídos e apresentar uma superfície que seja fácil de conservar limpa e não escorregadia.
 
 § 1.º Se estes pavimentos forem metálicos, deverão ser revestidos de mosaico (ou qualquer outro material duro e impermeável à humidade aprovado pela Repartição Técnica da Direcção da Marinha Mercante) nas cozinhas, lavadarias e locais das instalações sanitárias, e fora desses locais, de linóleo ou qualquer outro material que apresente qualidades equivalentes de conforto e segurança e seja aprovado pela Repartição Técnica da Direcção da Marinha Mercante.
 
@@ -220,7 +228,7 @@ l) Casas de banho ou de lavabos e retretes, não privativas de camarotes.
 
 § 3.º Se o revestimento dos pavimentos for de material compósito, as juntas com as anteparas serão arredondadas, para facilitar a limpeza, e construídas com todo o cuidado, para evitar fendas.
 
-###### Art. 10.º Os pavimentos que cobrirem os alojamentos da tripulação serão cuidadosamente construídos e estanques a água.
+Art. 10.º Os pavimentos que cobrirem os alojamentos da tripulação serão cuidadosamente construídos e estanques a água.
 
 § 1.º Se estes pavimentos forem expostos ao tempo, serão de aço e terão a superfície exposta revestida com tabuado de madeira de, pelo menos, 57 mm (2 polegadas) de espessura, ou alternativamente, receberão na face oposta um forro isolador equivalente àquele revestimento e de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante.
 
@@ -228,13 +236,13 @@ l) Casas de banho ou de lavabos e retretes, não privativas de camarotes.
 
 § 3.º Qualquer pavimento que limitar superiormente paióis de carvão ou depósitos de combustível líquido deverá ser eficazmente estanque, respectivamente a gás e a óleo.
 
-###### Art. 11.º O costado e as anteparas exteriores dos locais destinados a refeitório, camarotes, salas de recreio e corredores dos alojamentos da tripulação deverão ser convenientemente isolados e forrados, para evitar qualquer condensação ou calor excessivo.
+Art. 11.º O costado e as anteparas exteriores dos locais destinados a refeitório, camarotes, salas de recreio e corredores dos alojamentos da tripulação deverão ser convenientemente isolados e forrados, para evitar qualquer condensação ou calor excessivo.
 
 § único. Serão também isoladas as anteparas e divisórias que separarem os alojamentos da tripulação de outros locais do navio, como casas de máquinas, cozinhas e lavadarias, que emanem calor e humidade, prejudiciais ao conforto da tripulação.
 
-###### Art. 12.º Nos revestimentos interiores dos alojamentos da tripulação e dos respectivos corredores serão utilizados materiais e métodos de construção que os tornem insusceptíveis de abrigar parasitas, devendo aqueles apresentar superfícies à vista fáceis de limpar.
+Art. 12.º Nos revestimentos interiores dos alojamentos da tripulação e dos respectivos corredores serão utilizados materiais e métodos de construção que os tornem insusceptíveis de abrigar parasitas, devendo aqueles apresentar superfícies à vista fáceis de limpar.
 
-###### Art. 13.º As anteparas, costado e tectos dos alojamentos da tripulação, quando pintados, sê-lo-ão com tinta de óleo, esmalte ou de qualquer outra qualidade, de cor clara, aprovada pela Repartição Técnica da Direcção da Marinha Mercante.
+Art. 13.º As anteparas, costado e tectos dos alojamentos da tripulação, quando pintados, sê-lo-ão com tinta de óleo, esmalte ou de qualquer outra qualidade, de cor clara, aprovada pela Repartição Técnica da Direcção da Marinha Mercante.
 
 § 1.º Não é permitido o emprego de aguada de cal nem de tintas nitrocelulósicas.
 
@@ -242,11 +250,11 @@ l) Casas de banho ou de lavabos e retretes, não privativas de camarotes.
 
 ### CAPÍTULO III — Ventilação. Aquecimento. Iluminação
 
-###### Art. 14.º Os locais do navio previstos para camarotes refeitórios, lugares de recreio, instalações sanitárias, escritórios e enfermarias da tripulação serão ventilados por sistema que garanta ao ambiente um estado de pureza adequado à saúde e conforto da tripulação; a ventilação dos locais de trabalho sujeitos a calor excessivo deverá ser objecto de cuidadoso estudo e de providências especiais, se necessárias.
+Art. 14.º Os locais do navio previstos para camarotes refeitórios, lugares de recreio, instalações sanitárias, escritórios e enfermarias da tripulação serão ventilados por sistema que garanta ao ambiente um estado de pureza adequado à saúde e conforto da tripulação; a ventilação dos locais de trabalho sujeitos a calor excessivo deverá ser objecto de cuidadoso estudo e de providências especiais, se necessárias.
 
 § único. O sistema de ventilação referido no corpo deste artigo será regulável, de maneira a manter o ambiente em condições satisfatórias com qualquer tempo e clima, não contando com vigias, albóios, portas ou outras aberturas destinadas a fins não exclusivamente de ventilação.
 
-###### Art. 15.º Os alojamentos da tripulação de navios regularmente empregados na navegação entre trópicos ou no Golfo Pérsico serão dotados de dois sistemas de ventilação - um centralizado de ventilação mecânica e outro de ventoinhas eléctricas independentes -, que trabalharão simultâneamente sempre que um deles, só por si, não puder assegurar ventilação suficiente.
+Art. 15.º Os alojamentos da tripulação de navios regularmente empregados na navegação entre trópicos ou no Golfo Pérsico serão dotados de dois sistemas de ventilação - um centralizado de ventilação mecânica e outro de ventoinhas eléctricas independentes -, que trabalharão simultâneamente sempre que um deles, só por si, não puder assegurar ventilação suficiente.
 
 § 1.º O sistema de ventilação mecânica referido no corpo deste artigo deverá ser dimensionado de forma a garantir amplamente o volume de ar correspondente ao maior dos números que resultarem da aplicação dos valores das duas últimas colunas da tabela I e conformar-se com as seguintes disposições:
 
@@ -264,9 +272,9 @@ b) Duas de 30 cm (12 polegadas) de diâmetro nos camarotes de três ou mais pess
 
 c) Uma de 30 cm (12 polegadas) de diâmetro na enfermaria.
 
-###### Art. 16.º Os alojamentos da tripulação de navios regularmente empregados na navegação fora dos trópicos serão dotados de um único sistema de ventilação, que poderá ser qualquer dos dois referidos no artigo 15.º e seus parágrafos.
+Art. 16.º Os alojamentos da tripulação de navios regularmente empregados na navegação fora dos trópicos serão dotados de um único sistema de ventilação, que poderá ser qualquer dos dois referidos no artigo 15.º e seus parágrafos.
 
-###### Art. 17.º Os locais interiores do alojamento da tripulação que não forem servidos pelas condutas de um sistema centralizado de ventilação mecânica deverão ser providos de um sistema de ventilação natural constituído por duas condutas ou aberturas, uma para descarga do ar viciado e outra para a entrada de ar fresco.
+Art. 17.º Os locais interiores do alojamento da tripulação que não forem servidos pelas condutas de um sistema centralizado de ventilação mecânica deverão ser providos de um sistema de ventilação natural constituído por duas condutas ou aberturas, uma para descarga do ar viciado e outra para a entrada de ar fresco.
 
 § 1.º A entrada da conduta de ar fresco ficará ao ar livre, terá pavilhão, de concha móvel ou de tipo igualmente eficiente, localizado de forma a poder receber o ar de qualquer direcção e livre de qualquer obstáculo; a outra abertura da mesma conduta não poderá ser situada directamente por cima de uma porta, escada ou qualquer outra abertura para extracção do ar.
 
@@ -274,9 +282,9 @@ c) Uma de 30 cm (12 polegadas) de diâmetro na enfermaria.
 
 § 3.º A ventilação das retretes será feita para o ar livre, independentemente de outros locais.
 
-###### Art. 18.º Salvo manifesta impossibilidade, deverá poder dispor-se da força motriz necessária para fazer funcionar os sistemas de ventilação previstos nos artigos 15.º e 16.º durante todo o tempo em que a tripulação estiver a bordo e as circunstâncias exigirem que os sistemas sejam usados.
+Art. 18.º Salvo manifesta impossibilidade, deverá poder dispor-se da força motriz necessária para fazer funcionar os sistemas de ventilação previstos nos artigos 15.º e 16.º durante todo o tempo em que a tripulação estiver a bordo e as circunstâncias exigirem que os sistemas sejam usados.
 
-###### Art. 19.º Salvo a bordo dos navios destinados exclusivamente à navegação entre os trópicos ou no Golfo Pérsico, os locais previstos para camarotes, refeitórios, lugares de recreio, instalações sanitárias, escritórios, e enfermarias serão dotados de sistema permanente de aquecimento, com o qual será mantida pelo menos a 18ºC a temperatura desses locais, quando a temperatura do ar livre for de 0ºC e o sistema de ventilação trabalhar com a regulação para um mínimo de 25 m3/h (ou 15 pés cúbicos por minuto) por pessoa.
+Art. 19.º Salvo a bordo dos navios destinados exclusivamente à navegação entre os trópicos ou no Golfo Pérsico, os locais previstos para camarotes, refeitórios, lugares de recreio, instalações sanitárias, escritórios, e enfermarias serão dotados de sistema permanente de aquecimento, com o qual será mantida pelo menos a 18ºC a temperatura desses locais, quando a temperatura do ar livre for de 0ºC e o sistema de ventilação trabalhar com a regulação para um mínimo de 25 m3/h (ou 15 pés cúbicos por minuto) por pessoa.
 
 § 1.º A instalação de aquecimento deverá funcionar, na medida do possível, durante todo o tempo em que a tripulação estiver a bordo e as circunstâncias o exigirem.
 
@@ -284,15 +292,15 @@ c) Uma de 30 cm (12 polegadas) de diâmetro na enfermaria.
 
 § 3.º O aquecimento por meio de fogão só será permitido em caso de necessidade excepcional e temporária verificada pela Repartição Técnica da Direcção da Marinha Mercante, devendo, nesse caso, o fogão ter capacidade suficiente, ser convenientemente instalado e protegido e não provocar a viciação do ambiente.
 
-###### Art. 20.º Os radiadores e restantes componentes do sistema de aquecimento dos alojamentos da tripulação deverão ser construídos, instalados e protegidos de forma a evitar os riscos não só de acidentes ou desconforto para os ocupantes, mas ainda de incêndio.
+Art. 20.º Os radiadores e restantes componentes do sistema de aquecimento dos alojamentos da tripulação deverão ser construídos, instalados e protegidos de forma a evitar os riscos não só de acidentes ou desconforto para os ocupantes, mas ainda de incêndio.
 
-###### Art. 21.º Sob reserva de derrogações especiais que possam ser concedidas aos navios de passageiros, todos os locais destinados a alojamento da tripulação deverão ter iluminação natural que permita a uma pessoa de vista normal, em pleno dia e com tempo claro, ler um jornal vulgar, impresso, em qualquer sítio do espaço disponível para circular.
+Art. 21.º Sob reserva de derrogações especiais que possam ser concedidas aos navios de passageiros, todos os locais destinados a alojamento da tripulação deverão ter iluminação natural que permita a uma pessoa de vista normal, em pleno dia e com tempo claro, ler um jornal vulgar, impresso, em qualquer sítio do espaço disponível para circular.
 
 § 1.º A iluminação natural referida no corpo deste artigo será principalmente assegurada pelas janelas e vigias, que terão dimensões compatíveis com a robustez da estrutura e serão do tipo de abrir sempre que a Direcção da Marinha Mercante o autorizar.
 
 § 2.º É autorizado o emprego de albóios e, em casos especiais, a Direcção da Marinha Mercante poderá autorizar o emprego de prismas com dimensões adequadas.
 
-###### Art. 22.º Além do sistema de iluminação natural previsto no artigo 21.º, os alojamentos da tripulação serão providos de luz eléctrica, disposta de modo a dar à tripulação o máximo benefício.
+Art. 22.º Além do sistema de iluminação natural previsto no artigo 21.º, os alojamentos da tripulação serão providos de luz eléctrica, disposta de modo a dar à tripulação o máximo benefício.
 
 § 1.º Se não existirem a bordo duas fontes independentes de produção de electricidade, será previsto um sistema suplementar de iluminação de recurso de tipo e pertences aprovados pela Repartição Técnica da Direcção da Marinha Mercante.
 
@@ -302,9 +310,9 @@ c) Uma de 30 cm (12 polegadas) de diâmetro na enfermaria.
 
 ### CAPÍTULO IV — Locais destinados a camarotes
 
-###### Art. 23.º Todos os membros da tripulação disporão de acomodações destinadas exclusivamente a camarotes, construídas e apetrechadas de acordo com as disposições deste Regulamento.
+Art. 23.º Todos os membros da tripulação disporão de acomodações destinadas exclusivamente a camarotes, construídas e apetrechadas de acordo com as disposições deste Regulamento.
 
-###### Art. 24.º Os camarotes serão em número suficiente para que os membros da tripulação de cada categoria possam dispor de camarotes separados dos dos membros das restantes categorias.
+Art. 24.º Os camarotes serão em número suficiente para que os membros da tripulação de cada categoria possam dispor de camarotes separados dos dos membros das restantes categorias.
 
 § 1.º No caso de navios de pequena tonelagem, de manifesta dificuldade de realização desta condição, poderá a Direcção da Marinha Mercante autorizar a sua derrogação.
 
@@ -326,7 +334,7 @@ d) Restante pessoal subalterno - dois, três, se for possível, e nunca além de
 
 § 6.º Em cada camarote deverá ser marcado, de maneira bem legível e indelével, em sítio onde possa fàcilmente ser visto, o número máximo de pessoas que o camarote foi autorizado a alojar; a mesma inscrição será também gravada ou pintada por cima da porta do camarote.
 
-###### Art. 25.º A área de pavimento, por pessoa, de qualquer camarote destinado à tripulação não deverá ser inferior a:
+Art. 25.º A área de pavimento, por pessoa, de qualquer camarote destinado à tripulação não deverá ser inferior a:
 
 a) 1,85 m2 (20 pés quadrados) nos navios de menos de 800 t de arqueação bruta;
 
@@ -346,21 +354,21 @@ desde que a área total dos camarotes destinados aos referidos grupos não seja 
 
 § 2.º Na medição da área dos camarotes destinados à tripulação deverão ser incluídas as superfícies ocupadas pelos beliches, armários, cómodas e bancadas e excluídos os espaços exíguos ou de forma irregular que não aumentem efectivamente o espaço disponível para circular ou não possam ser utilizados para a colocação de móveis.
 
-###### Art. 26.º Qualquer camarote da tripulação deverá ter, pelo menos, 1,90 m (6 pés e 3 polegadas) de altura livre sobre o pavimento em qualquer ponto em que seja possível circular.
+Art. 26.º Qualquer camarote da tripulação deverá ter, pelo menos, 1,90 m (6 pés e 3 polegadas) de altura livre sobre o pavimento em qualquer ponto em que seja possível circular.
 
-###### Art. 27.º Os membros da tripulação disporão de beliches individuais, que serão distribuídos, tanto quanto possível, de maneira a separar os quartos de serviço.
+Art. 27.º Os membros da tripulação disporão de beliches individuais, que serão distribuídos, tanto quanto possível, de maneira a separar os quartos de serviço.
 
-###### Art. 28.º A armação dos beliches e as guardas ou varões de balanço deverão ser, preferìvelmente, metálicos ou de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante, duro, liso e não susceptível de ser corroído nem de albergar parasitas.
+Art. 28.º A armação dos beliches e as guardas ou varões de balanço deverão ser, preferìvelmente, metálicos ou de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante, duro, liso e não susceptível de ser corroído nem de albergar parasitas.
 
 § único. Se os beliches tiverem armação de tubos metálicos, estes deverão ser fechados e sem qualquer perfuração que possa dar acesso aos parasitas.
 
-###### Art. 29.º O acesso a qualquer beliche deverá poder fazer-se, pelo menos, por um lado.
+Art. 29.º O acesso a qualquer beliche deverá poder fazer-se, pelo menos, por um lado.
 
 § único. Os beliches colocados lado a lado e aqueles que fizerem entre si um ângulo que em planta seja de menos de 90º deverão ter em qualquer ponto do intervalo entre eles, pelo menos, 0,76 m (2 pés e 6 polegadas) ou 0,91 m (3 pés), consoante os beliches forem singelos ou tiverem outro arranjo.
 
-###### Art. 30.º Os beliches destinados à tripulação deverão ter as dimensões mínimas de 1,90 m por 0,68 m (6 pés e 3 polegadas por 2 pés e 3 polegadas), medidas perpendicularmente uma à outra por dentro das guardas ou varões de balanço, e ser instalados a uma altura do pavimento de, pelo menos, 0,30 m (12 polegadas).
+Art. 30.º Os beliches destinados à tripulação deverão ter as dimensões mínimas de 1,90 m por 0,68 m (6 pés e 3 polegadas por 2 pés e 3 polegadas), medidas perpendicularmente uma à outra por dentro das guardas ou varões de balanço, e ser instalados a uma altura do pavimento de, pelo menos, 0,30 m (12 polegadas).
 
-###### Art. 31.º Só será autorizada a sobreposição de uma ordem de beliches.
+Art. 31.º Só será autorizada a sobreposição de uma ordem de beliches.
 
 § 1.º No caso de beliches instalados às amuradas, não será permitida a sobreposição no lugar em que houver uma vigia por cima de um beliche.
 
@@ -368,17 +376,17 @@ desde que a área total dos camarotes destinados aos referidos grupos não seja 
 
 § 3.º Por baixo do colchão do beliche superior será fixado um fundo impermeável à poeira, de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante.
 
-###### Art. 32.º Cada beliche será provido de colchão de lã assente em fundo elástico ou de colchão de molas.
+Art. 32.º Cada beliche será provido de colchão de lã assente em fundo elástico ou de colchão de molas.
 
 § 1.º Em vez de colchões de lã poderão ser utilizados colchões de espuma de borracha, de espuma de plástico ou de qualquer outro material resistente à humidade e não susceptível de albergar parasitas, os quais tenham sido aprovados pela Repartição Técnica da Direcção da Marinha Mercante.
 
 § 2.º São expressamente proibidos os colchões de palha.
 
-###### Art. 33.º O arranjo interior dos camarotes da tripulação, bem como os tipos de mobiliário e equipamento de que forem providos, deverão ser estabelecidos de maneira a facilitar a limpeza e a assegurar conforto razoável aos seus ocupantes.
+Art. 33.º O arranjo interior dos camarotes da tripulação, bem como os tipos de mobiliário e equipamento de que forem providos, deverão ser estabelecidos de maneira a facilitar a limpeza e a assegurar conforto razoável aos seus ocupantes.
 
-###### Art. 34.º O mobiliário do alojamento da tripulação será construído com material duro e liso, não susceptível de se deformar ou corroer.
+Art. 34.º O mobiliário do alojamento da tripulação será construído com material duro e liso, não susceptível de se deformar ou corroer.
 
-###### Art. 35.º Os camarotes da marinhagem terão o seguinte mobiliário e equipamento:
+Art. 35.º Os camarotes da marinhagem terão o seguinte mobiliário e equipamento:
 
 Por cada ocupante:
 
@@ -408,7 +416,7 @@ l) Uma cortina em cada vigia ou janela, se esta não for dotada de persiana ou q
 
 § único. Os camarotes referidos no § 2.º do artigo 24.º serão, tanto quanto possível, mobilados e equipados como os da marinhagem.
 
-###### Art. 36.º Os camarotes da mestrança terão o mobiliário e, equipamento referidos no artigo 85.º, acrescido dos seguintes artigos:
+Art. 36.º Os camarotes da mestrança terão o mobiliário e, equipamento referidos no artigo 85.º, acrescido dos seguintes artigos:
 
 Por cada ocupante:
 
@@ -420,7 +428,7 @@ b) Uma garrafa e copo para água, com os respectivos suportes;
 
 c) Um lavatório de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante provido de encanamento de esgoto para o mar ou para tanque fechado com bomba mecânica de despejo.
 
-###### Art. 37.º Os camarotes dos oficiais serão providos do seguinte mobiliário e equipamento:
+Art. 37.º Os camarotes dos oficiais serão providos do seguinte mobiliário e equipamento:
 
 Por cada oficial:
 
@@ -464,11 +472,11 @@ q) Um armário-estante para livros nos camarotes do capitão, imediato, primeiro
 
 ### CAPÍTULO V — Locais destinados a refeitórios e a recreio
 
-###### Art. 38.º Haverá no navio locais expressamente destinados a refeitórios da tripulação em número e com dimensões suficientes para acomodar o maior número de pessoas que presumìvelmente virá a utilizá-los ao mesmo tempo.
+Art. 38.º Haverá no navio locais expressamente destinados a refeitórios da tripulação em número e com dimensões suficientes para acomodar o maior número de pessoas que presumìvelmente virá a utilizá-los ao mesmo tempo.
 
-###### Art. 39.º Os refeitórios da tripulação não poderão ser instalados nos camarotes e deverão ser localizados o mais próximo possível da cozinha.
+Art. 39.º Os refeitórios da tripulação não poderão ser instalados nos camarotes e deverão ser localizados o mais próximo possível da cozinha.
 
-###### Art. 40.º Serão previstos refeitórios distintos para o pessoal seguinte:
+Art. 40.º Serão previstos refeitórios distintos para o pessoal seguinte:
 
 Nos navios de menos de 1000 t de arqueação bruta:
 
@@ -492,9 +500,9 @@ c) Mestrança e restante pessoal subalterno da máquina.
 
 § 4.º Disporão de refeitórios separados os grupos de pessoal da tripulação que tenham hábitos e costumes muito diferentes dos do restante pessoal.
 
-###### Art. 41.º O mobiliário dos refeitórios da tripulação será construído com material duro e liso não susceptível de se deformar, corroer ou abrigar parasitas; nomeadamente, os tampos das mesas e dos assentos serão de material resistente à humidade, sem fendas e de fácil conservação e limpeza.
+Art. 41.º O mobiliário dos refeitórios da tripulação será construído com material duro e liso não susceptível de se deformar, corroer ou abrigar parasitas; nomeadamente, os tampos das mesas e dos assentos serão de material resistente à humidade, sem fendas e de fácil conservação e limpeza.
 
-###### Art. 42.º Os refeitórios da tripulação deverão ter, pelo menos, o seguinte mobiliário e equipamento:
+Art. 42.º Os refeitórios da tripulação deverão ter, pelo menos, o seguinte mobiliário e equipamento:
 
 a) Mesas com a largura mínima de 0,38 m (15 polegadas) ou 0,61. m (24 polegadas), consoante houver assentos de um só lado ou de ambos, e em número suficiente para que cada ocupante possa utilizar 0,50 m (20 polegadas) do seu comprimento;
 
@@ -514,9 +522,9 @@ e) Instalação adequada para a lavagem de utensílios de mesa.
 
 § 4.º Em navios cuja tripulação compreenda certos grupos de pessoal subalterno que exija o emprego de tripulantes em número sensìvelmente superior ao que seria normalmente previsto para navios idênticos, a Direcção da Marinha Mercante poderá conceder autorização para que o arranjo dos respectivos refeitórios seja feito de acordo com os hábitos e usos nacionais desse pessoal.
 
-###### Art. 43.º A Direcção da Marinha Mercante poderá dispensar os navios de passageiros da observância das disposições deste Regulamento relativas aos refeitórios, na medida em que as condições especiais desses navios assim o justificarem.
+Art. 43.º A Direcção da Marinha Mercante poderá dispensar os navios de passageiros da observância das disposições deste Regulamento relativas aos refeitórios, na medida em que as condições especiais desses navios assim o justificarem.
 
-###### Art. 44.º Para recreio, durante o tempo das respectivas folgas, os membros da tripulação disporão de um ou mais recintos, quer em pavimentos descobertos ou abertos para o exterior, quer em locais interiores, previstos para o efeito em sítios convenientes.
+Art. 44.º Para recreio, durante o tempo das respectivas folgas, os membros da tripulação disporão de um ou mais recintos, quer em pavimentos descobertos ou abertos para o exterior, quer em locais interiores, previstos para o efeito em sítios convenientes.
 
 § 1.º A área, configuração e número dos recintos exteriores de recreio terão em atenção o tamanho do navio e o efectivo da sua tripulação.
 
@@ -526,9 +534,9 @@ e) Instalação adequada para a lavagem de utensílios de mesa.
 
 ### CAPÍTULO VI — Instalações sanitárias, lavadarias e casas de secagem
 
-###### Art. 45.º Haverá no navio instalações sanitárias suficientes para toda a tripulação, as quais compreenderão lavatórios, banheiras, chuveiros e retretes e serão construídas e equipadas de acordo com as prescrições deste Regulamento.
+Art. 45.º Haverá no navio instalações sanitárias suficientes para toda a tripulação, as quais compreenderão lavatórios, banheiras, chuveiros e retretes e serão construídas e equipadas de acordo com as prescrições deste Regulamento.
 
-###### Art. 46.º Serão previstas casas de banho e de lavabos separadamente para os oficiais, para a mestrança e para a marinhagem, situadas nas proximidades dos respectivos camarotes e equipadas com:
+Art. 46.º Serão previstas casas de banho e de lavabos separadamente para os oficiais, para a mestrança e para a marinhagem, situadas nas proximidades dos respectivos camarotes e equipadas com:
 
 a) Uma banheira com ou sem chuveiro, ou apenas um chuveiro, por cada oito pessoas de uma mesma classe;
 
@@ -544,11 +552,11 @@ em número total nunca inferior a uma unidade de cada espécie por classe.
 
 § 3.º Se o número de pessoas de determinada classe ultrapassar em menos de metade um múltiplo exacto de cada um dos números expressos neste artigo, poderá desprezar-se o excesso ao aplicar as disposições nele contidas.
 
-###### Art. 47.º As banheiras, chuveiros e lavatórios deverão ter superfície lisa e ser de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante, não susceptível de abrir fendas, formar escamas ou apresentar corrosões; as banheiras deverão ter, pelo menos, 1,35 m (4 pés e 5 polegadas) de comprimento, os chuveiros a área mínima de 0,58 m2 (6 1/4 pés quadrados), com lados de não menos de 0,76 m (2 pés e 6 polegadas), e os lavatórios a capacidade mínima de 4,5 l (1 galão).
+Art. 47.º As banheiras, chuveiros e lavatórios deverão ter superfície lisa e ser de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante, não susceptível de abrir fendas, formar escamas ou apresentar corrosões; as banheiras deverão ter, pelo menos, 1,35 m (4 pés e 5 polegadas) de comprimento, os chuveiros a área mínima de 0,58 m2 (6 1/4 pés quadrados), com lados de não menos de 0,76 m (2 pés e 6 polegadas), e os lavatórios a capacidade mínima de 4,5 l (1 galão).
 
 § único. Cada banheira, chuveiro e lavatório será dotado de dispositivos de descarga higiénico com esgotos instalados de forma a diminuir os riscos de entupimento e facilitar a sua limpeza.
 
-###### Art. 48.º Serão previstas retretes separadamente para os oficiais, para a mestrança e para a marinhagem, uma por cada oito pessoas ou fracção de mais de quatro pessoas de uma mesma classe e nunca menos de uma unidade por cada classe, situadas nas proximidades das casas de lavabos e camarotes, mas separadas destes locais.
+Art. 48.º Serão previstas retretes separadamente para os oficiais, para a mestrança e para a marinhagem, uma por cada oito pessoas ou fracção de mais de quatro pessoas de uma mesma classe e nunca menos de uma unidade por cada classe, situadas nas proximidades das casas de lavabos e camarotes, mas separadas destes locais.
 
 § 1.º Além das retretes prescritas neste artigo, haverá mais as que forem necessárias para perfazer as quantidades mínimas seguintes:
 
@@ -562,7 +570,7 @@ c) Seis em navios de 3000 t ou mais de arqueação bruta.
 
 § 3.º As retretes que forem instaladas num mesmo local deverão ser separadas por divisórias de material robusto e opaco que assegure eficaz isolamento entre elas e serão providas de portas.
 
-###### Art. 49.º Cada retrete será provida do seguinte equipamento:
+Art. 49.º Cada retrete será provida do seguinte equipamento:
 
 a) Uma sanita com tampo, de materiais e modelos aprovados pela Repartição Técnica da Direcção da Marinha Mercante;
 
@@ -580,15 +588,15 @@ g) Um corrimão ou pega, sòlidamente fixado às divisórias.
 
 § único. As retretes para uso exclusivo de pessoal com hábitos e costumes muito diferentes dos dos restantes membros da tripulação serão equipadas com bacia turca, provida de dispositivo de descarga automática de água, regulado para funcionar intermitentemente, pelo menos, de cinco em cinco minutos.
 
-###### Art. 50.º O acesso às instalações sanitárias da tripulação não poderá ser feito directamente de refeitórios, nem de camarotes, nem de corredores destinados exclusivamente à comunicação entre estes.
+Art. 50.º O acesso às instalações sanitárias da tripulação não poderá ser feito directamente de refeitórios, nem de camarotes, nem de corredores destinados exclusivamente à comunicação entre estes.
 
 § único. Exceptuam-se das disposições deste artigo as retretes privativas de um ou dois camarotes no caso em que as respectivas acomodações estiverem previstas para não mais de quatro pessoas.
 
-###### Art. 51.º Nos locais previstos para as instalações sanitárias da tripulação deverão ser instalados embornais, de diâmetro não inferior a 50 mm (2 polegadas), cujos encanamentos não poderão receber, directa ou indirectamente, as descargas dos embornais de outros locais do navio.
+Art. 51.º Nos locais previstos para as instalações sanitárias da tripulação deverão ser instalados embornais, de diâmetro não inferior a 50 mm (2 polegadas), cujos encanamentos não poderão receber, directa ou indirectamente, as descargas dos embornais de outros locais do navio.
 
-###### Art. 52.º No caso de navios de passageiros que efectuem normalmente viagens de duração não superior a quatro horas e em qualquer navio cuja tripulação perfizer um total de mais de 100 pessoas, a Direcção-Geral da Marinha poderá autorizar, se assim o entender, disposições especiais ou reduzir o número das instalações sanitárias prescritas por este Regulamento.
+Art. 52.º No caso de navios de passageiros que efectuem normalmente viagens de duração não superior a quatro horas e em qualquer navio cuja tripulação perfizer um total de mais de 100 pessoas, a Direcção-Geral da Marinha poderá autorizar, se assim o entender, disposições especiais ou reduzir o número das instalações sanitárias prescritas por este Regulamento.
 
-###### Art. 53.º Serão previstos meios de lavagem e de secagem de roupa proporcionados ao efectivo da tripulação e à duração normal da viagem.
+Art. 53.º Serão previstos meios de lavagem e de secagem de roupa proporcionados ao efectivo da tripulação e à duração normal da viagem.
 
 § 1.º Os meios de lavagem serão instalados em locais próprios ou, em caso de inviabilidade, nas casas de lavabos da tripulação e compreenderão tanques de material aprovado pela Repartição Técnica da Direcção da Marinha Mercante ou outros dispositivos adequados alimentados com água doce, fria e quente, dotados de esgoto.
 
@@ -596,13 +604,13 @@ g) Um corrimão ou pega, sòlidamente fixado às divisórias.
 
 ### CAPÍTULO VII — Enfermaria e anexos
 
-###### Art. 54.º Será previsto a bordo um local para servir como enfermaria da tripulação, o qual será permanentemente apetrechado como tal, conforme as disposições deste Regulamento, nos navios que se destinarem a viagens de mais de três dias e tiverem uma tripulação de, pelo menos, quinze pessoas, ou só servirá eventualmente para o efeito em todos os outros casos.
+Art. 54.º Será previsto a bordo um local para servir como enfermaria da tripulação, o qual será permanentemente apetrechado como tal, conforme as disposições deste Regulamento, nos navios que se destinarem a viagens de mais de três dias e tiverem uma tripulação de, pelo menos, quinze pessoas, ou só servirá eventualmente para o efeito em todos os outros casos.
 
 § 1.º No caso de navios destinados à navegação costeira a Direcção-Geral da Marinha poderá autorizar, caso por caso, a dispensa das disposições da primeira parte deste artigo quando, em seu entender, tal se justificar.
 
 § 2.º A enfermaria não poderá ser destinada a outro uso que não seja o tratamento de doentes, o mesmo se entendendo relativamente aos locais que poderão servir eventualmente para o efeito, durante o tempo em que tiverem essa utilização.
 
-###### Art. 55.º A situação da enfermaria, o seu acesso, a disposição e tipo dos seus beliches, a ventilação, o aquecimento e a iluminação serão previstos de maneira a assegurar aos ocupantes o maior sossego e conforto possíveis e a possibilidade de tratamento, em quaisquer condições de tempo, pelas pessoas dele encarregadas.
+Art. 55.º A situação da enfermaria, o seu acesso, a disposição e tipo dos seus beliches, a ventilação, o aquecimento e a iluminação serão previstos de maneira a assegurar aos ocupantes o maior sossego e conforto possíveis e a possibilidade de tratamento, em quaisquer condições de tempo, pelas pessoas dele encarregadas.
 
 § 1.º A entrada da enfermaria deve ter, pelo menos, 0,76 m (30 polegadas) de largura e ser disposta de forma que seja fácil a passagem de uma maca com um doente.
 
@@ -610,37 +618,37 @@ g) Um corrimão ou pega, sòlidamente fixado às divisórias.
 
 § 3.º Além das disposições sobre iluminação expressas nos artigos 21.º e 22.º deste Regulamento, a enfermaria será provida de uma lanterna eléctrica portátil, de alimentação independente da rede do navio, completa com todos os seus pertences e sobresselentes.
 
-###### Art. 56.º Consoante o efectivo da tripulação for inferior ou superior a 50 pessoas, assim a enfermaria deverá ter permanentemente instalados um ou dois beliches, com acesso de ambos os lados e, se possível, também dos pés.
+Art. 56.º Consoante o efectivo da tripulação for inferior ou superior a 50 pessoas, assim a enfermaria deverá ter permanentemente instalados um ou dois beliches, com acesso de ambos os lados e, se possível, também dos pés.
 
 § 1.º Nos casos de dois beliches, não é permitida a sua sobreposição.
 
 § 2.º A Direcção da Marinha Mercante poderá autorizar, caso por caso, beliches sobrepostos, mas desmontáveis e que serão instalados apenas em caso de necessidade.
 
-###### Art. 57.º A enfermaria disporá de instalações sanitárias privativas dos seus ocupantes, situadas em local contíguo ao dos beliches, que será equipado, na medida do possível, segundo as determinações dos artigos 46.º e 49.º deste Regulamento.
+Art. 57.º A enfermaria disporá de instalações sanitárias privativas dos seus ocupantes, situadas em local contíguo ao dos beliches, que será equipado, na medida do possível, segundo as determinações dos artigos 46.º e 49.º deste Regulamento.
 
-###### Art. 58.º Haverá a bordo de todos os navios um armário-farmácia, colocado em sítio seco e afastado de fontes de calor - na enfermaria, ou na proximidade do camarote da pessoa encarregada do tratamento dos doentes, ou, preferìvelmente, em local anexo à enfermaria, susceptível de ser utilizado como sala de tratamentos -, no qual serão guardados os medicamentos, instrumentos e utensílios médicos destinados à tripulação.
+Art. 58.º Haverá a bordo de todos os navios um armário-farmácia, colocado em sítio seco e afastado de fontes de calor - na enfermaria, ou na proximidade do camarote da pessoa encarregada do tratamento dos doentes, ou, preferìvelmente, em local anexo à enfermaria, susceptível de ser utilizado como sala de tratamentos -, no qual serão guardados os medicamentos, instrumentos e utensílios médicos destinados à tripulação.
 
 § único. As dimensões, forma e construção do armário-farmácia da tripulação serão as de modelo aprovado pela Repartição Técnica da Direcção da Marinha Mercante.
 
 ### CAPÍTULO VIII — Disposições diversas
 
-###### Art. 59.º Para pendurar os encerados e outros fatos de trabalho usados pelos membros da tripulação, haverá a bordo de todos os navios compartimentos ou armários devidamente ventilados, em número e com dimensões suficientes para servir separadamente os oficiais, o pessoal do convés, o pessoal da máquina e o pessoal dos serviços gerais do navio.
+Art. 59.º Para pendurar os encerados e outros fatos de trabalho usados pelos membros da tripulação, haverá a bordo de todos os navios compartimentos ou armários devidamente ventilados, em número e com dimensões suficientes para servir separadamente os oficiais, o pessoal do convés, o pessoal da máquina e o pessoal dos serviços gerais do navio.
 
 § único. Os compartimentos ou armários referidos no corpo deste artigo deverão ser previstos em sítios acessíveis fora dos locais destinados a dormitórios.
 
-###### Art. 60.º A bordo dos navios de mais de 3000 t de arqueação bruta serão instalados e mobilados dois escritórios, um para o serviço do convés e o outro para o serviço da máquina.
+Art. 60.º A bordo dos navios de mais de 3000 t de arqueação bruta serão instalados e mobilados dois escritórios, um para o serviço do convés e o outro para o serviço da máquina.
 
-###### Art. 61.º Os locais destinados ao alojamento da tripulação de navios que tocarem regularmente em portos infestados de mosquitos serão dotados com protecção contra a entrada desses insectos, feita com painéis de rede de arame inoxidável ou de qualquer outro material aprovado pela Repartição Técnica da Direcção da Marinha Mercante, instalados em todas as vigias, ventiladores, albóios e portas de acesso aos pavimentos expostos.
+Art. 61.º Os locais destinados ao alojamento da tripulação de navios que tocarem regularmente em portos infestados de mosquitos serão dotados com protecção contra a entrada desses insectos, feita com painéis de rede de arame inoxidável ou de qualquer outro material aprovado pela Repartição Técnica da Direcção da Marinha Mercante, instalados em todas as vigias, ventiladores, albóios e portas de acesso aos pavimentos expostos.
 
-###### Art. 62.º Os navios que navegarem normalmente nos trópicos ou no Golfo Pérsico, ou com destino ,a estas zonas, serão providos de toldos que possam cobrir os pavimentos expostos ao tempo, situados imediatamente por cima dos locais do alojamento da tripulação ou nele incluídos como lugares de recreio da mesma.
+Art. 62.º Os navios que navegarem normalmente nos trópicos ou no Golfo Pérsico, ou com destino ,a estas zonas, serão providos de toldos que possam cobrir os pavimentos expostos ao tempo, situados imediatamente por cima dos locais do alojamento da tripulação ou nele incluídos como lugares de recreio da mesma.
 
-###### Art. 63.º A dotação de água potável será estabelecida à razão de, pelo menos, 5 l por tripulante e por dia de duração normal da viagem, com um suplemento de 50 por cento.
+Art. 63.º A dotação de água potável será estabelecida à razão de, pelo menos, 5 l por tripulante e por dia de duração normal da viagem, com um suplemento de 50 por cento.
 
 ### CAPÍTULO IX — Conservação e inspecções
 
-###### Art. 64.º Os locais do alojamento da tripulação deverão ser conservados em estado de máxima limpeza e em condições da melhor habitabilidade e não poderão servir para neles serem armazenadas mercadorias ou provisões que não forem propriedade pessoal dos seus ocupantes.
+Art. 64.º Os locais do alojamento da tripulação deverão ser conservados em estado de máxima limpeza e em condições da melhor habitabilidade e não poderão servir para neles serem armazenadas mercadorias ou provisões que não forem propriedade pessoal dos seus ocupantes.
 
-###### Art. 65.º Todos os locais do alojamento da tripulação serão inspeccionados, ao menos uma vez por semana, pelo comandante do navio acompanhado por um ou dois membros da tripulação.
+Art. 65.º Todos os locais do alojamento da tripulação serão inspeccionados, ao menos uma vez por semana, pelo comandante do navio acompanhado por um ou dois membros da tripulação.
 
 § 1.º O comandante poderá delegar em um dos oficiais do navio o encargo de presidir a qualquer das inspecções ao alojamento da tripulação.
 
@@ -652,21 +660,21 @@ b) Nomes, classes e categorias das pessoas que efectuarem a inspecção;
 
 c) Pormenores sobre quanto tiver sido encontrado fora das estipulações do presente Regulamento.
 
-###### Art. 66.º As vistorias oficiais aos alojamentos das tripulações serão efectuadas nos termos do [Decreto-Lei n.º 43026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43026-1960-503232), de 23 de Junho de 1960.
+Art. 66.º As vistorias oficiais aos alojamentos das tripulações serão efectuadas nos termos do [Decreto-Lei n.º 43026](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43026-1960-503232), de 23 de Junho de 1960.
 
 § único. Os emolumentos correspondentes ao trabalho de vistoria, as verbas a cobrar por cada aprovação e as multas por não cumprimento das disposições do presente Regulamento serão fixados por portaria.
 
-###### Art. 67.º A falta de cumprimento das disposições do presente Regulamento implica, além das multas aplicáveis, o cancelamento do certificado de lotação dos alojamentos da tripulação.
+Art. 67.º A falta de cumprimento das disposições do presente Regulamento implica, além das multas aplicáveis, o cancelamento do certificado de lotação dos alojamentos da tripulação.
 
 Ministério da Marinha, 16 de Agosto de 1968. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.
 
 TABELA I
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/19300/11841193.pdf))](https://files.diariodarepublica.pt/1s/1968/08/19300/11841193.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/19300/11841193.pdf)
 
 TABELA II
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/19300/11841193.pdf))](https://files.diariodarepublica.pt/1s/1968/08/19300/11841193.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/19300/11841193.pdf)
 
 Notas
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47891-1967-390473
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7386b8f257e7e18782a5a5f74d9435205e31ac58f9a0114ee4edd10c5b605a5b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c1c7a8de2e518ffd803ffb692b6623059f36b9c16da8cc7fad4d86362f36eab3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:20Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +100,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas, dentro do actual orçamento de Encargos Gerais da Nação:
+Artigo 1.º São transferidas as quantias adiante indicadas, dentro do actual orçamento de Encargos Gerais da Nação:
 
 No capítulo 8.º:
 
@@ -132,12 +144,12 @@ Para o artigo 159.º, n.º 1) «Gratificações aos, oficiais de reserva ...» .
 
 Para o artigo 160.º, n.º 2) , alínea 1 «Alimentação a oficiais, ...» ... +2570000$00
 
-###### Art. 2.º É aberto no Ministério das Finanças um crédito especial no montante de 2430000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 160.º, n.º 2) , alínea 1 «Alimentação a oficiais, ...», capítulo 8.º, do orçamento de Encargos Gerais da Nação para o corrente ano económico.
+Art. 2.º É aberto no Ministério das Finanças um crédito especial no montante de 2430000$00, devendo a mesma importância ser adicionada à verba inscrita no artigo 160.º, n.º 2) , alínea 1 «Alimentação a oficiais, ...», capítulo 8.º, do orçamento de Encargos Gerais da Nação para o corrente ano económico.
 
-###### Art. 3.º Para compensação do crédito designado no artigo anterior, é anulada igual quantia na verba descrita no capítulo 8.º, artigo 163.º, n.º 4), alínea 5, também da orçamento vigente de Encargos Gerais da Nação.
+Art. 3.º Para compensação do crédito designado no artigo anterior, é anulada igual quantia na verba descrita no capítulo 8.º, artigo 163.º, n.º 4), alínea 5, também da orçamento vigente de Encargos Gerais da Nação.
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - João de Matos Antunes Varela - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

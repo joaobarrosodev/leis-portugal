@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30700/20462047.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,84 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48819-1968-256662
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1994-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5de1f7afc538300523120413ad3c8edbdcd25aac3b8de3cb0b856e0b1b1efdc1
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fb0c4a07c3e772c1bcd3a1b124a7049bf5a496962837ddc7095289340160b1cf
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Administração Central da Marinha
+- Comissão Técnica de Administração Naval
+- Conselho Administrativo
+- Conselho de Ministros
+- Conselho Técnico Naval
+- Criação de Serviços
+- Definição de Competências
+- Direcção do Serviço de Administração Naval
+- Direcção Geral da Contabilidade Pública
+- Estado Maior da Armada
+- Extinção de Serviços
+- Fiscalização
+- Gestão Financeira
+- Inspecção da Marinha
+- Marinha
+- Militar
+- Ministério da Marinha
+- Orçamento
+- Orgânica
+- Ultramar
+- Vogal
 relationships:
 - type: amended_by
   target: pt:dre:654539:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:369827:por
+  label: "Alterado o art. 6.º, extinta a Comissão Técnica de Administração Naval, criada no art. 5.º, cessadas as funções\
+    \ dos organismos previstos no art. 3.º (integrantes da Intendência dos Serviços Financeiros da Marinha), e revogados os\
+    \ arts. 1.º a 5.º todos do presente diploma, pelo DEC LEI.384/79.1979.09.19.CR DG.IS [217], sem prejuízo do disposto no\
+    \ n.º 2 do seu artigo 14.º \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/384-1979-369827
+  date: '1979-09-19'
+- type: amended_by
+  target: pt:dre:654539:por
+  label: "Extinto o Conselho Administrativo da Administração Central da Marinha, pelo DR.24/94.1994.09.01.MDN, DR.IS-B [202]\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/24-1994-654539
+  date: '1994-09-01'
+- type: cites
+  target: pt:dre:501581:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:57Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +139,11 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criada no Ministério da Marinha a Intendência dos Serviços de Administração Financeira da Marinha (I. S. A. F. M.), directamente subordinada ao Ministro da Marinha e dirigida por um oficial general de administração naval com a designação de intendente dos Serviços de Administração Financeira da Marinha.
+Artigo 1.º É criada no Ministério da Marinha a Intendência dos Serviços de Administração Financeira da Marinha (I. S. A. F. M.), directamente subordinada ao Ministro da Marinha e dirigida por um oficial general de administração naval com a designação de intendente dos Serviços de Administração Financeira da Marinha.
 
 § único. O intendente dos Serviços de Administração Financeira da Marinha é vogal do Conselho Técnico Naval.
 
-###### Art. 2.º Pertence à I. S. A. F. M. tratar de todos os assuntos relativos à administração financeira do Ministério da Marinha, competindo-lhe especialmente:
+Art. 2.º Pertence à I. S. A. F. M. tratar de todos os assuntos relativos à administração financeira do Ministério da Marinha, competindo-lhe especialmente:
 
 a) Estudo das técnicas e métodos administrativos e elaboração das respectivas normas;
 
@@ -111,7 +155,7 @@ d) Fiscalização de todos os actos de administração financeira praticados em 
 
 § único. A função de fiscalização atribuída à I. S. A. F. M. não prejudica a que, no respeitante à realização das despesas orçamentais, compete desempenhar à Direcção-Geral da Contabilidade Pública através da sua repartição junto do Ministério da Marinha.
 
-###### Art. 3.º A I. S. A. F. M. compreende três repartições, o Serviço de Inspecções Administrativas, o Serviço Mecanográfico da Armada e uma secretaria.
+Art. 3.º A I. S. A. F. M. compreende três repartições, o Serviço de Inspecções Administrativas, o Serviço Mecanográfico da Armada e uma secretaria.
 
 § 1.º A 1.ª Repartição (Normas e Métodos) trata especialmente dos estudos e informações, do contencioso administrativo-financeiro, da apreciação e informação de minutas de contratos, da adaptação à Marinha das normas da contabilidade pública e da actualização permanente do Regulamento de Administração da Fazenda Naval.
 
@@ -123,38 +167,38 @@ d) Fiscalização de todos os actos de administração financeira praticados em 
 
 § 5.º O Serviço Mecanográfico da Armada destina-se a executar o tratamento automático das informações que lhe sejam transmitidas com vista à realização de operações de contabilidade, contrôle orçamental, gestão de inventários, etc., em conformidade com o estabelecido no [Decreto-Lei n.º 47503](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47503-1967-501581), de 21 de Janeiro de 1967.
 
-###### Art. 4.º As atribuições da I. S. A. F. M. quanto à preparação das propostas orçamentais do Ministério da Marinha são exercidas, sem prejuízo das funções que incumbem ao Estado-Maior da Armada no que respeita ao estudo dessas propostas com vista ao seu ajustamento às necessidades, de acordo com as prioridades de natureza militar decorrentes dos planeamentos orgânicos e logísticos.
+Art. 4.º As atribuições da I. S. A. F. M. quanto à preparação das propostas orçamentais do Ministério da Marinha são exercidas, sem prejuízo das funções que incumbem ao Estado-Maior da Armada no que respeita ao estudo dessas propostas com vista ao seu ajustamento às necessidades, de acordo com as prioridades de natureza militar decorrentes dos planeamentos orgânicos e logísticos.
 
 § único. No que se refere à preparação dos orçamentos extraordinários, continuam a ser exercidas pelo Estado-Maior da Armada todas as actividades que desempenha actualmente, até que, por despacho do Ministro da Marinha, sejam transferidas para a I. S. A. F. M. as que respeitam à parte das despesas de funcionamento compreendidas naqueles orçamentos. O mesmo procedimento é de observar no que respeita às totalidades dos orçamentos privativos dos comandos da Armada nas províncias ultramarinas.
 
-###### Art. 5.º Junto da I. S. A. F. M. funciona, como órgão de consulta e de estudos, a Comissão Técnica de Administração Naval, presidida pelo intendente dos Serviços de Administração Financeira da Marinha e cuja constituição será fixada por despacho do Ministro da Marinha.
+Art. 5.º Junto da I. S. A. F. M. funciona, como órgão de consulta e de estudos, a Comissão Técnica de Administração Naval, presidida pelo intendente dos Serviços de Administração Financeira da Marinha e cuja constituição será fixada por despacho do Ministro da Marinha.
 
-###### Art. 6.º A Comissão Liquidatária de Responsabilidades (C. L. R.) passa a depender directamente do Ministro da Marinha, continuando a competir-lhe as funções que lhe foram estabelecidas pelo artigo 249.º do Regimento do Tribunal de Contas e, ainda, emitir parecer acerca dos relatórios das inspecções realizadas pelo Serviço de Inspecções Administrativas, quando assim for determinado pelo Ministro da Marinha.
+Art. 6.º A Comissão Liquidatária de Responsabilidades (C. L. R.) passa a depender directamente do Ministro da Marinha, continuando a competir-lhe as funções que lhe foram estabelecidas pelo artigo 249.º do Regimento do Tribunal de Contas e, ainda, emitir parecer acerca dos relatórios das inspecções realizadas pelo Serviço de Inspecções Administrativas, quando assim for determinado pelo Ministro da Marinha.
 
 § 1.º A C. L. R. é presidida por um oficial general do activo ou da reserva, e da mesma farão parte o intendente dos Serviços de Administração Financeira da Marinha, o chefe da 6.ª Repartição da Direcção-Geral da Contabilidade Pública, como representante do Ministério das Finanças, o chefe da 3.ª Repartição da I. S. A. F. M., o chefe do Serviço de Inspecções Administrativas da mesma Intendência e um oficial superior de administração naval, que desempenhará as funções de secretário.
 
 § 2.º A C. L. R. é de carácter permanente e dispõe de uma secretaria própria.
 
-###### Art. 7.º É criado o conselho administrativo da Administração Central da Marinha, com as funções que foram estabelecidas para o conselho administrativo da Direção do Serviço de Administração Naval e com a composição fixada por portaria do Ministro da Marinha.
+Art. 7.º É criado o conselho administrativo da Administração Central da Marinha, com as funções que foram estabelecidas para o conselho administrativo da Direção do Serviço de Administração Naval e com a composição fixada por portaria do Ministro da Marinha.
 
-###### Art. 8.º O conselho administrativo da Administração Central da Marinha funciona como organismo independente na mesma Administração Central. Os outros conselhos administrativos funcionam adstritos aos comandos, forças, unidades e serviços que se destinam a servir.
+Art. 8.º O conselho administrativo da Administração Central da Marinha funciona como organismo independente na mesma Administração Central. Os outros conselhos administrativos funcionam adstritos aos comandos, forças, unidades e serviços que se destinam a servir.
 
-###### Art. 9.º São extintas a Inspecção da Marinha e a Direcção do Serviço de Administração Naval.
+Art. 9.º São extintas a Inspecção da Marinha e a Direcção do Serviço de Administração Naval.
 
 § 1.º Em conformidade e com as excepções que forem estabelecidas por despacho do Ministro da Marinha, o pessoal, material e instalações da Inspecção da Marinha e da Direcção do Serviço de Administração Naval passam para a I. S. A. F. M., para o conselho administrativo da Administração Central da Marinha e para a C. L. R.
 
 § 2.º As actividades em curso no conselho administrativo da Direcção do Serviço de Administração Naval passam, sem solução de continuidade, para o conselho administrativo da Administração Central da Marinha, o qual será inicialmente composto pelos mesmos oficiais que constituíam o primeiro, até ser publicada, nos termos do artigo 7.º deste diploma, a sua composição definitiva.
 
-###### Art. 10.º As alterações a introduzir nas disposições regulamentares em vigor para as reajustar, da forma adequada, ao disposto no presente diploma serão estabelecidas por portaria do Ministro da Marinha.
+Art. 10.º As alterações a introduzir nas disposições regulamentares em vigor para as reajustar, da forma adequada, ao disposto no presente diploma serão estabelecidas por portaria do Ministro da Marinha.
 
-###### Art. 11.º As alterações que este diploma introduz na estrutura orgânica da Administração Central da Marinha entrarão em vigor, gradual parcelarmente, por despacho do Ministro da Marinha, de maneira a não ser perturbado o funcionamento normal dos serviços.
+Art. 11.º As alterações que este diploma introduz na estrutura orgânica da Administração Central da Marinha entrarão em vigor, gradual parcelarmente, por despacho do Ministro da Marinha, de maneira a não ser perturbado o funcionamento normal dos serviços.
 
-###### Art. 12.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
+Art. 12.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Manuel Pereira Crespo.
 
-**Promulgado em 18 de Dezembro de 1968.**
+Promulgado em 18 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

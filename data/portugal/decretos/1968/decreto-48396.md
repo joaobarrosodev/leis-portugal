@@ -47,40 +47,74 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48396-1968-271668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-05-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:23Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8f7ee0a2c215e5dbac1bb16ccdae40cb3473a48e832faad34e1e194ebf101131
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6f38df244ca1edf006b652b3252235abf40136c0d35a5902dfce8e7e9abe1784
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:23Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Equipamento Agrícola
+- Exploração Agrícola
+- Licenciamento
+- Multa
+- Transporte de Carga
+- Transporte de Mercadorias
+- Veículo de Aluguer
 relationships:
 - type: amended_by
   target: pt:dre:392444:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:468073:por
+  label: "Amnistiadas as contravenções previstas no presente diploma, pelo DEC LEI.720/74.18.12.1974.MESA, DG.IS [294] de\
+    \ 18.12.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/720-1974-468073
+  date: '1974-12-18'
+- type: amended_by
+  target: pt:dre:392444:por
+  label: "Alterado o montante das multas previsto no art. 6º, pelo DEC LEI.186/82.1982.05.15.MHOPT DR.IS [110]\00]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/186-1982-392444
+  date: '1982-05-15'
+- type: cites
+  target: pt:dre:354910:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:375993:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:504549:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687852:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:23Z'
   warnings: []
   errors: []
 ---
@@ -97,19 +131,19 @@ Nestes termos e nos do § único do artigo 2.º do [Decreto-Lei n.º 48168](http
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É permitido o aluguer de tractores agrícolas com caixa de carga ou reboque para transporte de produtos agrícolas ou directamente ligados à exploração agrícola.
+Artigo 1.º - 1. É permitido o aluguer de tractores agrícolas com caixa de carga ou reboque para transporte de produtos agrícolas ou directamente ligados à exploração agrícola.
 
 2. As licenças de aluguer não sujeitas a contingentamento obedecerão, bem como os respectivos requerimentos, ao regime geral estabelecido no Regulamento de Transportes em Automóveis, aprovado pelo [Decreto n.º 37272](https://diariodarepublica.pt/dr/detalhe/decreto/37272-1948-354910), de 31 de Dezembro de 1948, e demais legislação complementar.
 
-###### Art. 2.º - 1. O licenciamento será concedido para transportes com raio de acção de 30 km ou de 50 km.
+Art. 2.º - 1. O licenciamento será concedido para transportes com raio de acção de 30 km ou de 50 km.
 
 2. Não carecem de licença de aluguer os tractores que operem para terceiros apenas dentro dos limites das freguesias da sede do proprietário e limítrofes, com exclusão das pertencentes a cidades capitais de distrito.
 
-###### Art. 3.º - 1. É aplicável ao aluguer sujeito a licenciamento o regime fiscal estabelecido no artigo 18.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, com a redução consignada no artigo único do [Decreto n.º 47552](https://diariodarepublica.pt/dr/detalhe/decreto/47552-1967-504549), de 22 de Fevereiro de 1967, para os transportes de géneros perecíveis.
+Art. 3.º - 1. É aplicável ao aluguer sujeito a licenciamento o regime fiscal estabelecido no artigo 18.º do [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852), de 28 de Outubro de 1963, com a redução consignada no artigo único do [Decreto n.º 47552](https://diariodarepublica.pt/dr/detalhe/decreto/47552-1967-504549), de 22 de Fevereiro de 1967, para os transportes de géneros perecíveis.
 
 2. Não é devido imposto de camionagem pelo aluguer de tractores ou reboques a que se refere o n.º 2 do artigo anterior, continuando sujeitos ao imposto de circulação, nos termos do citado [Decreto-Lei n.º 45331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45331-1963-687852).
 
-###### Art. 4.º Nos tractores e reboques utilizados em regime de aluguer, sujeito ou não a licenciamento, nos termos dos artigos anteriores, apenas poderão ser transportados produtos ou mercadorias directamente ligados à gestão agrícola ou dela provenientes, quer em natureza, quer por transformação, tais como:
+Art. 4.º Nos tractores e reboques utilizados em regime de aluguer, sujeito ou não a licenciamento, nos termos dos artigos anteriores, apenas poderão ser transportados produtos ou mercadorias directamente ligados à gestão agrícola ou dela provenientes, quer em natureza, quer por transformação, tais como:
 
 a) Sementes, plantas, fertilizantes para culturas, rações e medicamentos para animais, correctivos, fungicidas e insecticidas;
 
@@ -119,9 +153,9 @@ c) Produtos provenientes da exploração agrícola, pecuária e florestal, como 
 
 d) Materiais estritamente necessários a obras de irrigação, reparação e defesa de prédios agrícolas, bem como a construção ou conservação de edificações afectas à sua exploração.
 
-###### Art. 5.º O preço do aluguer será ajustado contratualmente, com as limitações resultantes da sua subordinação ao que legalmente se acha estabelecido quanto às infracções contra a economia nacional.
+Art. 5.º O preço do aluguer será ajustado contratualmente, com as limitações resultantes da sua subordinação ao que legalmente se acha estabelecido quanto às infracções contra a economia nacional.
 
-###### Art. 6.º Determinam a aplicação de penalidades:
+Art. 6.º Determinam a aplicação de penalidades:
 
 a) O aluguer sem regular título de licenciamento, quando exigível, que será punido com multa de 5000$00;
 
@@ -129,8 +163,8 @@ b) A realização de transportes fora da área circular do licenciamento ou da z
 
 c) O transporte de produtos ou mercadorias não abrangidos no artigo 4.º, que será punido com multa também de 2500$00.
 
-###### Art. 7.º Os modelos dos impressos que se tornarem necessários à execução das disposições deste decreto serão aprovados por despacho do Ministro das Comunicações.
+Art. 7.º Os modelos dos impressos que se tornarem necessários à execução das disposições deste decreto serão aprovados por despacho do Ministro das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

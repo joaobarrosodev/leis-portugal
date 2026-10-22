@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48364-1968-274829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b91d86b56e73a549c6ef8cf2fd0a2d3a8178f4c7fc4af3baf1642022234c99c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 84f323c29860193eb7f807529a4d716c6ff1ba430eb86dc50e10cfa4b10959c1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 12
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:08Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +112,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamento dos seguintes Ministérios:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamento dos seguintes Ministérios:
 
 Ministério das Finanças
 
@@ -108,41 +132,41 @@ Para o artigo 36.º, n.º 1) «Luz, ...» ... +20000$00
 
 Para o artigo 38.º, n.º 1) «Rendas de casa» ... +90000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 13496271$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 13496271$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
+Capítulo 4.º «Secretariado Nacional da Informação, Cultura Popular e Turismo»:
 
-###### Artigo 93.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, não mencionadas em rubricas próprias» ... 6000000$00
+Artigo 93.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, não mencionadas em rubricas próprias» ... 6000000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 1 «Consolidada: certificados da dívida pública, 5 por cento» ... 528777$40
+Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 1 «Consolidada: certificados da dívida pública, 5 por cento» ... 528777$40
 
-### Capítulo 8.º «Direcção-Geral da Fazenda Pública - Tesourarias dos concelhos e bairros»:
+Capítulo 8.º «Direcção-Geral da Fazenda Pública - Tesourarias dos concelhos e bairros»:
 
-###### Artigo 87.º-A «Encargos administrativos», n.º 1) «Pagamento de serviços e encargos não especificados» ... 2000000$00
+Artigo 87.º-A «Encargos administrativos», n.º 1) «Pagamento de serviços e encargos não especificados» ... 2000000$00
 
-### Capítulo 17.º «Serviços Mecanográficos do Ministério das Finanças»:
+Capítulo 17.º «Serviços Mecanográficos do Ministério das Finanças»:
 
-###### Artigo 212.º, n.º 2) «Publicidade ...» ... 20000$00
+Artigo 212.º, n.º 2) «Publicidade ...» ... 20000$00
 
 ... 2548777$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º «Secretaria-Geral - Secretaria-Geral»:
+Capítulo 2.º «Secretaria-Geral - Secretaria-Geral»:
 
-###### Artigo 24.º, n.º 1) «Rendas de casa» ... 4304500$00
+Artigo 24.º, n.º 1) «Rendas de casa» ... 4304500$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 4.º «Direcção-Geral da Assistência»:
+Capítulo 4.º «Direcção-Geral da Assistência»:
 
-###### Artigo 64.º, n.º 1) «Subsídios a cofres ...»:
+Artigo 64.º, n.º 1) «Subsídios a cofres ...»:
 
 Alínea 1 «Assistência na gravidez, ...: ...» ... 16561$60
 
@@ -154,33 +178,33 @@ Alínea 6 «Outras modalidades de assistência» ... 620$80
 
 ... 13496271$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamenta das receitas do Estado
 
-### Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 2000000$00
+Capítulo 1.º, artigo 1.º «Contribuição industrial» ... 2000000$00
 
-### Capitulo 8.º, artigo 215.º «Receitas diversas» ... 642993$60
+Capitulo 8.º, artigo 215.º «Receitas diversas» ... 642993$60
 
 ... 2642993$60
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 4705026$40
+Capítulo 1.º, artigo 13.º ... 4705026$40
 
-### Capítulo 7.º, artigo 61.º, n.º 1) ... 6000000$00
+Capítulo 7.º, artigo 61.º, n.º 1) ... 6000000$00
 
-### Capítulo 17.º, artigo 209.º, n.º 1) ... 20000$00
+Capítulo 17.º, artigo 209.º, n.º 1) ... 20000$00
 
 ... 10725026$40
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º, artigo 16.º, n.º 1) ... 128251$00
+Capítulo 2.º, artigo 16.º, n.º 1) ... 128251$00
 
 ... 13496271$00
 
-###### Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Finanças:
+Art. 4.º É autorizada a seguinte alteração de rubrica no orçamento do Ministério das Finanças:
 
 A observação (b) aposta à dotação do capítulo 1.º, artigo 1.º, n.º 1), alínea 1, é alterada para:
 
@@ -188,6 +212,6 @@ Idem e portarias publicadas em 19 de Dezembro de 1966 e 30 de Dezembro de 1967, 
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 1 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

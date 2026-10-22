@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48606-1968-264364
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:05Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d93849d392d7fc5313a8515ea0ae7d8766dc0371a1a7d8f607c6bff1b4fe45ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 435a72eb73246c872e9e28db77fb59cd7c45b05fa58ddf9686a427e8a10fd24f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:05Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:05Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +92,9 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É elevada a escola comercial a Escola Técnica Elementar do Dr. Braga Paixão, da cidade de João Belo, de frequência mista.
+Artigo 1.º É elevada a escola comercial a Escola Técnica Elementar do Dr. Braga Paixão, da cidade de João Belo, de frequência mista.
 
-###### Art. 2.º O quadro do pessoal da Escola é aumentado dos seguintes lugares:
+Art. 2.º O quadro do pessoal da Escola é aumentado dos seguintes lugares:
 
 A) Quadro comum:
 
@@ -114,9 +114,9 @@ D) Pessoal menor:
 
 Um contínuo e dois serventes.
 
-###### Art. 3.º É elevada a escola industrial e comercial a Escola Técnica Elementar de Lacerda e Almeida, de Tete, de frequência mista.
+Art. 3.º É elevada a escola industrial e comercial a Escola Técnica Elementar de Lacerda e Almeida, de Tete, de frequência mista.
 
-###### Art. 4.º O quadro do pessoal da Escola é aumentado dos seguintes lugares:
+Art. 4.º O quadro do pessoal da Escola é aumentado dos seguintes lugares:
 
 A) Quadro comum:
 
@@ -148,9 +148,9 @@ Seis contínuos (um do sexo feminino);
 
 Seis serventes.
 
-###### Art. 5.º Fica o Governo-Geral da província de Moçambique autorizado a abrir, cumpridas as formalidades legais, os créditos necessários á execução do presente diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
+Art. 5.º Fica o Governo-Geral da província de Moçambique autorizado a abrir, cumpridas as formalidades legais, os créditos necessários á execução do presente diploma, servindo de contrapartida disponibilidades ou recursos orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Outubro de 1968.- AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

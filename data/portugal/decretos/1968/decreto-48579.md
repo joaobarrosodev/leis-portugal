@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48579-1968-264896
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-14T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: acc38abc7bcccc1057f7de2051ed4e96aef79e3bff5cc4c654b621645c7c70a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e91a65afdb035cd2d3c5050c4a6f491da148cd24618279d765ab65c54ec4a716
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:55Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +96,9 @@ Nestes termos, e tendo em vista o disposto no § 1.º do artigo 150.º da Consti
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É autorizado o Governo-Geral da província de Moçambique a prestar, junto de um organismo de crédito da mesma província, a garantia do reembolso de um empréstimo até ao montante de 7000 contos, a contrair pela Província Portuguesa da Ordem Hospitaleira de S. João de Deus, com as cláusulas e condições que forem ajustadas entre si, e destinado à construção e equipamento de um hospital neuropsiquiátrico, próximo de Nampula, para doentes do sexo masculino.
+Artigo único. É autorizado o Governo-Geral da província de Moçambique a prestar, junto de um organismo de crédito da mesma província, a garantia do reembolso de um empréstimo até ao montante de 7000 contos, a contrair pela Província Portuguesa da Ordem Hospitaleira de S. João de Deus, com as cláusulas e condições que forem ajustadas entre si, e destinado à construção e equipamento de um hospital neuropsiquiátrico, próximo de Nampula, para doentes do sexo masculino.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 14 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

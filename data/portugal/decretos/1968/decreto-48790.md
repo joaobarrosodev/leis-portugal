@@ -48,36 +48,45 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48790-1968-256450
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4a55ad4084ae9b6e66a7e0a9433227c9dc10d59675a328957d4bfae15f1a279e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 865d8e67e1d345af70ab00d568049ca87ad7ee1131beee49c3c5a8a28e988fa6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Angola.Colónia Portuguesa
+- Estudos Gerais Universitários
+- Moçambique.Colónia Portuguesa
+- Universidade de Lourenço Marques
+- Universidade de Luanda
+relationships:
+- type: cites
+  target: pt:dre:163635:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:37Z'
   warnings: []
   errors: []
 ---
@@ -94,13 +103,13 @@ Considerando que a designação de Estudos Gerais Universitários passou, assim,
 
 Usando da faculdade conferida pela 1.ª parte do n.º 2.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, para valer como lei, o seguinte:
 
-###### Artigo único. Os Estudos Gerais Universitários de Angola e de Moçambique passam a ter a designação, respectivamente, de Universidade de Luanda e de Universidade de Lourenço Marques.
+Artigo único. Os Estudos Gerais Universitários de Angola e de Moçambique passam a ter a designação, respectivamente, de Universidade de Luanda e de Universidade de Lourenço Marques.
 
 Visto e aprovado em Conselho de Ministros. - Marcello Caetano - Joaquim Moreira da Silva Cunha - José Hermano Saraiva.
 
-**Promulgado em 11 de Dezembro de 1968.**
+Promulgado em 11 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

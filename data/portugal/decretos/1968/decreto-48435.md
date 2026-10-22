@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48435-1968-272227
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-15T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: aa878d2b2141714c9479583498103cd0f04d01ff7e25e1b1f47e019c13bcf87b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a35f82cb06da462e1620a9ec6b77335aba0543fdbcabf571c1e58a9108865a78
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:45Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É assim alterada a taxa dos direitos atribuída aos artigos das pautas mínimas de importação vigentes em Angola e Moçambique a seguir indicados:
+Artigo 1.º É assim alterada a taxa dos direitos atribuída aos artigos das pautas mínimas de importação vigentes em Angola e Moçambique a seguir indicados:
 
 87.02.02 - kg - 1$00.
 
@@ -100,9 +100,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. São eliminadas as notas às subposições pautais 87.02.02 e 87.04.04 das pautas mínimas de importação referidas no corpo do artigo.
 
-###### Art. 2.º Pode o Ministro do Ultramar, mediante despacho, tornar extensivas às restantes províncias ultramarinas as disposições do artigo 1.º do presente decreto.
+Art. 2.º Pode o Ministro do Ultramar, mediante despacho, tornar extensivas às restantes províncias ultramarinas as disposições do artigo 1.º do presente decreto.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 15 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

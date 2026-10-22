@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48309-1968-234940
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-04-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a42ff5c03837d394063add031c0d655200c97b148eb73592fc0695e382686354
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2848e3eb5f0fb7bf8971c91926c6abc3d8efe6e86ae0449f89da2a6fcf9fadc9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:239421:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253268:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:253269:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:45Z'
   warnings: []
   errors: []
 ---
@@ -106,7 +118,7 @@ Tendo em vista o que dispõe o § 1.º do artigo 150.º da Constituição, por m
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É o Ministro do Ultramar autorizado a celebrar, em representação do Estado, um adicional ao contrato de concessão celebrado com a Angol - Sociedade Portuguesa de Exploração de Petróleos, S. A. R. L., em 1 de Junho de 1967, no qual se incluirão as alterações decorrentes do presente decreto.
+Artigo 1.º - 1. É o Ministro do Ultramar autorizado a celebrar, em representação do Estado, um adicional ao contrato de concessão celebrado com a Angol - Sociedade Portuguesa de Exploração de Petróleos, S. A. R. L., em 1 de Junho de 1967, no qual se incluirão as alterações decorrentes do presente decreto.
 
 2. É autorizada a Angol - Sociedade Portuguesa de Exploração de Petróleos, S. A. R. L., a celebrar um contrato de associação, nos termos previstos no capítulo IX do contrato de concessão celebrado entre o Estado e a Angol em 1 de Junho de 1967, com a Compagnie Française des Pétroles, para a prospecção, pesquisa, desenvolvimento e exploração das substâncias a que se refere o n.º 1 do artigo 1.º do mesmo contrato de concessão, nas zonas terrestre e marítima do Ambriz e na zona oriental da bacia do Cuanza.
 
@@ -114,7 +126,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 4. O contrato de associação a que se refere o n.º 2 conformar-se-á com o [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, na parte não alterada pelo presente decreto, com as normas aprovadas por despacho do Ministro do Ultramar e com as disposições deste diploma, ficando as associadas inteiramente obrigadas ao que nos respectivos textos se contém.
 
-###### Art. 2.º - 1. A Compagnie Française des Pétroles deverá fazer-se substituir no exercício de todos os direitos e obrigações para ela resultantes do contrato de associação por uma sociedade filial especialmente constituída para esse efeito e em que detenha a todo o tempo a maioria absoluta dos direitos de voto em todas as assembleias gerais ordinárias ou extraordinárias.
+Art. 2.º - 1. A Compagnie Française des Pétroles deverá fazer-se substituir no exercício de todos os direitos e obrigações para ela resultantes do contrato de associação por uma sociedade filial especialmente constituída para esse efeito e em que detenha a todo o tempo a maioria absoluta dos direitos de voto em todas as assembleias gerais ordinárias ou extraordinárias.
 
 2. A sociedade filial a que se refere o número anterior terá ùnicamente por objecto o exercício dos direitos resultantes de concessões de pesquisa e exploração de hidrocarbonetos no ultramar português e manterá em Lisboa uma delegação, dirigida por um conselho de direcção munido dos necessários poderes de gestão e representação, junto das entidades oficiais portuguesas. Um representante do Estado exercerá as suas funções junto da sociedade filial, com a competência que pela lei geral portuguesa é atribuída aos delegados do Governo junto das sociedades.
 
@@ -124,17 +136,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 5. A sociedade filial não poderá recorrer a operações de crédito ou financiamento junto de instituições portuguesas, salva prévia aprovação do Ministro do Ultramar e sem prejuízo de outros requisitos legalmente exigíveis.
 
-###### Art. 3.º - 1. A associação será dirigida por uma comissão directiva constituída por representantes das associadas.
+Art. 3.º - 1. A associação será dirigida por uma comissão directiva constituída por representantes das associadas.
 
 2. Um representante do Estado terá o direito de assistir a todas as reuniões da comissão directiva, sendo-lhe conferida, em relação a ela e à associação, a competência que por lei cabe ao delegado do Governo junto da concessionária e em relação a esta.
 
 3. A comissão directiva reúne normalmente em Lisboa, podendo, porém, reunir-se em qualquer outro lugar do território nacional que mereça o acordo das associadas e do representante do Estado.
 
-###### Art. 4.º - 1. A data prevista para o início dos trabalhos de prospecção, pesquisa, desenvolvimento e exploração no [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, passa a ser 1 de Janeiro de 1968, fixando-se em 31 de Dezembro de 1972 as datas a que se referem os n.os 1 e 3 do artigo 4.º do mesmo decreto.
+Art. 4.º - 1. A data prevista para o início dos trabalhos de prospecção, pesquisa, desenvolvimento e exploração no [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, passa a ser 1 de Janeiro de 1968, fixando-se em 31 de Dezembro de 1972 as datas a que se referem os n.os 1 e 3 do artigo 4.º do mesmo decreto.
 
 2. As datas referidas nos n.os 1, 3 e 4 do artigo 5.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, passam a corresponder, respectivamente, a 30 de Setembro de 1972, 30 de Setembro de 1975 e 31 de Dezembro de 1975.
 
-###### Art. 5.º - 1. Os investimentos mínimos obrigatórios a que se refere o artigo 28.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, relativamente às zonas terrestre e marítima do Ambriz e zona oriental da bacia do Cuanza, em conjunto, para os efeitos do contrato de associação a que se refere o artigo 1.º deste decreto, são fixados, nos termos previstos no artigo 34.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), a partir de 1 de Janeiro de 1968, nos seguintes montantes:
+Art. 5.º - 1. Os investimentos mínimos obrigatórios a que se refere o artigo 28.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, relativamente às zonas terrestre e marítima do Ambriz e zona oriental da bacia do Cuanza, em conjunto, para os efeitos do contrato de associação a que se refere o artigo 1.º deste decreto, são fixados, nos termos previstos no artigo 34.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), a partir de 1 de Janeiro de 1968, nos seguintes montantes:
 
 a) Durante o 1.º ano ... 30000000$00
 
@@ -150,15 +162,15 @@ e) Durante o 5.º ano ... 50000000$00
 
 3. Os investimentos anuais obrigatórios serão, para cada uma das prorrogações previstas no n.º 2 do artigo 4.º e no n.º 3 do artigo 5.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, os correspondentes aos montantes mínimos constantes das alíneas d) e e) do n.º 1 deste artigo, reduzidos proporcionalmente às áreas conservadas para prospecção e pesquisa.
 
-###### Art. 6.º - 1. Quando a associada, em oposição à concessionária, expressar, directa ou tàcitamente, o seu desejo de que em relação a qualquer área ou jazigo não sejam cumpridas quaisquer exigências legais ou contratuais, o Governo disporá de todos os direitos relativos a essa área ou jazigo em benefício da concessionária.
+Art. 6.º - 1. Quando a associada, em oposição à concessionária, expressar, directa ou tàcitamente, o seu desejo de que em relação a qualquer área ou jazigo não sejam cumpridas quaisquer exigências legais ou contratuais, o Governo disporá de todos os direitos relativos a essa área ou jazigo em benefício da concessionária.
 
 2. A associada que exercer as funções de operador, e enquanto as exercer, ficará responsável por todas as multas ou prejuízos que possam resultar de qualquer falta no cumprimento de todas as disposições legais e contratuais, salvo se actuar em cumprimento das decisões da comissão directiva, caso em que serão responsáveis tanto a concessionária como a associada. Se da sua falta de cumprimento de disposições legais ou contratuais resultar perda de direitos sobre determinada área ou jazigo, o Governo disporá dos direitos perdidos a favor da concessionária.
 
-###### Art. 7.º - 1. Quando por falta da concessionária ou sua expressa ou tácita renúncia tiver lugar a rescisão do seu contrato com o Estado, a associada manterá os direitos que para ela resultam do contrato de associação e o Governo disporá dos direitos daquela concessionária a favor da entidade que entender, conferindo, porém, à associada o direito de preferência à nova concessão, em igualdade de circunstâncias, e permitindo a esta a possibilidade de se associar com qualquer outra empresa que mereça o acordo do Governo.
+Art. 7.º - 1. Quando por falta da concessionária ou sua expressa ou tácita renúncia tiver lugar a rescisão do seu contrato com o Estado, a associada manterá os direitos que para ela resultam do contrato de associação e o Governo disporá dos direitos daquela concessionária a favor da entidade que entender, conferindo, porém, à associada o direito de preferência à nova concessão, em igualdade de circunstâncias, e permitindo a esta a possibilidade de se associar com qualquer outra empresa que mereça o acordo do Governo.
 
 2. Quando uma falta da concessionária implicar para ela a perda de direitos mineiros sobre qualquer jazigo em exploração, o Estado transferirá tais direitos, e as inerentes obrigações, para a associada, mantendo-se o disposto no contrato de concessão e passando a província de Angola a ocupar na associação a posição que a concessionária detinha, relativamente a esse jazigo, na data em que a falta se verificou.
 
-###### Art. 8.º - 1. As associadas beneficiarão, em seu próprio nome ou na qualidade de operador, de todas as isenções e facilidades previstas em favor da concessionária, no capítulo VIII do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, cumprindo às autoridades portuguesas tomar as medidas necessárias para lhes permitir a realização completa e eficaz das suas actividades.
+Art. 8.º - 1. As associadas beneficiarão, em seu próprio nome ou na qualidade de operador, de todas as isenções e facilidades previstas em favor da concessionária, no capítulo VIII do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, cumprindo às autoridades portuguesas tomar as medidas necessárias para lhes permitir a realização completa e eficaz das suas actividades.
 
 2. As autoridades portuguesas autorizarão e facilitarão, respeitados os interesses e a segurança nacionais, a entrada e saída dos territórios portugueses dos indivíduos de qualquer nacionalidade que as associadas tiverem admitido ou demitido, assim como quaisquer entidades que com elas cooperem nas suas operações, sem prejuízo dos regulamentos aplicáveis.
 
@@ -168,11 +180,11 @@ e) Durante o 5.º ano ... 50000000$00
 
 5. Nas aquisições que venham a ser feitas no estrangeiro as associadas acatarão, respeitadas as condições mencionadas no n.º 3, as orientações de política comercial que lhes forem transmitidas pelos representantes do Estado ou delegado do Governo.
 
-###### Art. 9.º - 1. As associadas observarão as leis e regulamentos em vigor no que respeita às condições de emprego de todo o seu pessoal, nacional ou estrangeiro, mas terão o direito de contratar pessoal estrangeiro na medida em que, pelas qualificações ou experiência necessária, não seja possível obter a colaboração de técnicos ou operários portugueses.
+Art. 9.º - 1. As associadas observarão as leis e regulamentos em vigor no que respeita às condições de emprego de todo o seu pessoal, nacional ou estrangeiro, mas terão o direito de contratar pessoal estrangeiro na medida em que, pelas qualificações ou experiência necessária, não seja possível obter a colaboração de técnicos ou operários portugueses.
 
 2. As associadas farão beneficiar todo o seu pessoal, dentro da mesma categoria e qualquer que seja a sua nacionalidade, das mesmas condições de emprego, remuneração, benefícios ou regalias sociais, sem prejuízo dos subsídios por deslocação a atribuir ao pessoal recrutado fora da província de Angola.
 
-###### Art. 10.º - 1. As associadas poderão em qualquer altura e livremente produzir, arrecadar, vender ou exportar, nos termos e condições que julguem aconselháveis, todas ou quaisquer substâncias extraídas da área da concessão, e objecto do contrato, quer no seu estado natural, quer depois de terem sofrido tratamento e tanto tenham sido extraídas de uma como de várias áreas de concessão.
+Art. 10.º - 1. As associadas poderão em qualquer altura e livremente produzir, arrecadar, vender ou exportar, nos termos e condições que julguem aconselháveis, todas ou quaisquer substâncias extraídas da área da concessão, e objecto do contrato, quer no seu estado natural, quer depois de terem sofrido tratamento e tanto tenham sido extraídas de uma como de várias áreas de concessão.
 
 2. Porém, a província de Angola terá sempre o direito de preferência de compra, na origem, de um máximo de 37,5 por cento das quantidades de petróleo bruto determinadas conforme o n.º 3 deste artigo e sem prejuízo das entregas em espécie que venham a efectuar-se nos termos do n.º 11 do artigo 13.º
 
@@ -216,17 +228,17 @@ e) Não afectarão o normal fornecimento de gás à província de Angola, que re
 
 15. O Estado terá o direito de fazer verificar, pelos seus técnicos ou por empresas especializadas que para o efeito contrate, os volumes de reservas de gás natural existentes na área da concessão. Em caso de divergência a este respeito entre as conclusões das associadas e as do Estado, será esta dirimida por arbitragem e as obrigações de fornecimento das associadas entender-se-ão em relação à produção correspondente às reservas que assim forem estabelecidas.
 
-###### Art. 11.º - 1. No caso de, por circunstâncias ou factos independentes da vontade das associadas, lhes ser impossível produzir ou entregar a totalidade da produção prevista, as quantidades a adquirir pela província de Angola, ao abrigo do seu direito de preferência, reduzir-se-ão a 37,5 por cento da produção efectiva, sem prejuízo do disposto no n.º 11 do artigo 13.º
+Art. 11.º - 1. No caso de, por circunstâncias ou factos independentes da vontade das associadas, lhes ser impossível produzir ou entregar a totalidade da produção prevista, as quantidades a adquirir pela província de Angola, ao abrigo do seu direito de preferência, reduzir-se-ão a 37,5 por cento da produção efectiva, sem prejuízo do disposto no n.º 11 do artigo 13.º
 
 2. Sempre que a província de Angola utilizar o seu direito de preferência, as obrigações quanto aos fornecimentos totais por ela desejados serão repartidas proporcionalmente por todos os produtores, tendo em conta, na medida do possível, a localização geográfica e as condições técnicas dos jazigos em produção.
 
-###### Art. 12.º - 1. Em caso de guerra ou de emergência grave, susceptível de afectar o abastecimento do território nacional em substâncias produzidas pelas associadas, toda a produção fica à disposição do Governo, sem necessidade de qualquer formalidade, sendo, porém, as associadas indemnizadas em termos equitativos a acordar entre elas e o Governo.
+Art. 12.º - 1. Em caso de guerra ou de emergência grave, susceptível de afectar o abastecimento do território nacional em substâncias produzidas pelas associadas, toda a produção fica à disposição do Governo, sem necessidade de qualquer formalidade, sendo, porém, as associadas indemnizadas em termos equitativos a acordar entre elas e o Governo.
 
 2. Em relação aos fornecimentos que excedam os previstos no n.º 1 do artigo anterior, o Governo e as associadas consultar-se-ão mùtuamente, a fim de fixar, por acordo, os preços a aplicar, que serão os correspondentes aos que seriam obtidos através da importação de produtos de iguais características técnicas.
 
 3. A afectação à Compagnie Française des Pétroles das divisas convertíveis e livremente transferíveis correspondentes à liquidação dos fornecimentos prioritários efectuados em execução deste artigo revestirá igualmente carácter prioritário.
 
-###### Art. 13.º - 1. As associadas obrigam-se a pagar ao Estado, a título de direitos de concessão, 12,5 por cento do valor de venda, no local de extracção ou à boca do poço, de todas as substâncias produzidas para venda em cada ano civil. A aplicação desta taxa será regulada pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, e no presente decreto.
+Art. 13.º - 1. As associadas obrigam-se a pagar ao Estado, a título de direitos de concessão, 12,5 por cento do valor de venda, no local de extracção ou à boca do poço, de todas as substâncias produzidas para venda em cada ano civil. A aplicação desta taxa será regulada pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, e no presente decreto.
 
 2. O montante devido por virtude dos direitos de concessão estabelecidos neste artigo será pago à província de Angola no prazo de três meses, a contar do termo de cada ano civil.
 
@@ -268,19 +280,19 @@ b) Em relação à cessionária considerar-se-á, no que se refere a encargos, o
 
 14. A taxa de 12,5 por cento relativa aos direitos de concessão, referida no n.º 1 deste artigo, será igualmente paga em relação aos produtos extraídos em operações de pesquisa e desenvolvimento, regulando-se pelo [Decreto n.º 41356](https://diariodarepublica.pt/dr/detalhe/decreto/41356-1957-253268), de 11 de Novembro de 1957, sem prejuízo do estabelecido no [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967, e no presente decreto.
 
-###### Art. 14.º - 1. Em atenção aos direitos de concessão e às obrigações a assumir pelas associadas por força do contrato de associação, ficará cada uma delas isenta do pagamento de quaisquer taxas, impostos ou contribuições, presentes ou futuros, ordinários ou extraordinários, seja qual for o seu título ou natureza, nacionais, provinciais ou regionais, com excepção do imposto de rendimento sobre os petróleos nas províncias ultramarinas, criado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, do imposto estatístico aduaneiro de 1 por mil ad valorem e do imposto do selo em documentos de despacho aduaneiro.
+Art. 14.º - 1. Em atenção aos direitos de concessão e às obrigações a assumir pelas associadas por força do contrato de associação, ficará cada uma delas isenta do pagamento de quaisquer taxas, impostos ou contribuições, presentes ou futuros, ordinários ou extraordinários, seja qual for o seu título ou natureza, nacionais, provinciais ou regionais, com excepção do imposto de rendimento sobre os petróleos nas províncias ultramarinas, criado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, do imposto estatístico aduaneiro de 1 por mil ad valorem e do imposto do selo em documentos de despacho aduaneiro.
 
 2. As associadas ficarão ainda isentas do pagamento de quaisquer taxas, impostos ou contribuições, seja qual for a sua designação ou natureza, nacionais, provinciais ou regionais, que incidam sobre o seu capital, acções, obrigações, títulos, certificados ou notas promissórias ou ainda sobre os seus lucros, capital ou reservas de qualquer natureza.
 
 3. As taxas sem características fiscais ou tributárias que correspondam a pagamentos de serviços prestados efectivamente às associadas apenas serão excluídas quando expressamente referidas no contrato de concessão à Angol.
 
-###### Art. 15.º Cada associada ficará sujeita ao imposto de rendimento sobre petróleos de 50 por cento dos seus lucros tributáveis, deduzindo-se do imposto a pagar a importância dos direitos de concessão, relativos ao mesmo ano, que à província pertença por força do artigo 13.º, e ainda as rendas a que se refere o n.º 1 do artigo 36.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967.
+Art. 15.º Cada associada ficará sujeita ao imposto de rendimento sobre petróleos de 50 por cento dos seus lucros tributáveis, deduzindo-se do imposto a pagar a importância dos direitos de concessão, relativos ao mesmo ano, que à província pertença por força do artigo 13.º, e ainda as rendas a que se refere o n.º 1 do artigo 36.º do [Decreto n.º 47493](https://diariodarepublica.pt/dr/detalhe/decreto/47493-1967-239421), de 11 de Janeiro de 1967.
 
-###### Art. 16.º - 1. Para efeitos do imposto de rendimento, considerar-se-ão na determinação dos rendimentos brutos anuais de cada associada os valores dos diversos produtos calculados conforme o estabelecido no artigo 13.º, designadamente nos seus n.os 4 e seguintes.
+Art. 16.º - 1. Para efeitos do imposto de rendimento, considerar-se-ão na determinação dos rendimentos brutos anuais de cada associada os valores dos diversos produtos calculados conforme o estabelecido no artigo 13.º, designadamente nos seus n.os 4 e seguintes.
 
 2. Os lucros líquidos de cada associada serão apurados de acordo com o estabelecido no artigo 4.º do Regulamento do Imposto de Rendimento sobre os Petróleos, aprovado pelo [Decreto n.º 41357](https://diariodarepublica.pt/dr/detalhe/decreto/41357-1957-253269), de 11 de Novembro de 1957, e as disposições dos artigos 17.º e 18.º do presente decreto, que substituem o artigo 5.º e o n.º 3 da alínea A) do artigo 6.º do citado Regulamento.
 
-###### Art. 17.º - 1. Para cálculo do rendimento líquido tributável, com ressalva do estabelecido no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos e as suas alíneas, com excepção do n.º 3 da alínea A) do artigo 6.º, serão deduzidos ao rendimento bruto anual os encargos relativos a despesas de prospecção, pesquisa, desenvolvimento e exploração constantes das alíneas seguintes:
+Art. 17.º - 1. Para cálculo do rendimento líquido tributável, com ressalva do estabelecido no artigo 6.º do Regulamento do Imposto de Rendimento sobre os Petróleos e as suas alíneas, com excepção do n.º 3 da alínea A) do artigo 6.º, serão deduzidos ao rendimento bruto anual os encargos relativos a despesas de prospecção, pesquisa, desenvolvimento e exploração constantes das alíneas seguintes:
 
 a) As rendas e indemnizações pagas a terceiros pela ocupação de imobiliários necessários ao exercício da actividade;
 
@@ -396,13 +408,13 @@ b) Impostos pagos no estrangeiro sobre rendimentos provenientes da associação.
 
 8. Para efeitos de uniformização ou outros, poderão no futuro vir a ser utilizadas tabelas ou prazos de amortização diferentes dos que constam do n.º 1 deste artigo, desde que aquelas ou estes se baseiem na prática internacional e venham a ser geralmente adoptados no ultramar português.
 
-###### Art. 18.º - 1. As associadas adoptarão as regras sobre escrituração mercantil estabelecidas nos artigos 7.º a 12.º do Regulamento do Imposto de Rendimentos sobre Petróleos.
+Art. 18.º - 1. As associadas adoptarão as regras sobre escrituração mercantil estabelecidas nos artigos 7.º a 12.º do Regulamento do Imposto de Rendimentos sobre Petróleos.
 
 2. Não poderão, em qualquer caso, ser levadas à conta de resultados das empresas amortizações provenientes de operações puramente financeiras, apenas podendo ser feitas amortizações económico-contabilísticas resultantes do disposto no n.º 1 do artigo 17.º
 
 3. De igual modo, as receitas provenientes de quaisquer operações petrolíferas realizadas na área da concessão deverão ser totalmente levadas à conta de resultados de cada associada, não podendo ser deduzida qualquer parcela a título de reembolso de dívidas, quaisquer que sejam os contratos a este respeito estabelecidos com os credores, sem prejuízo do disposto na alínea j) do n.º 1 do artigo 17.º
 
-###### Art. 19.º - 1. A Compagnie Française des Pétroles, por todas as operações que efectuar, no âmbito do contrato de associação a que se refere o artigo 1.º deste decreto, com entidades de direito público ou privado não residentes na província, ficará sujeita às prescrições estabelecidas pela legislação cambial em vigor em Angola, nomeadamente no que se refere à entrega à província das divisas provenientes das exportações, com observância do que se estabelece nos números seguintes.
+Art. 19.º - 1. A Compagnie Française des Pétroles, por todas as operações que efectuar, no âmbito do contrato de associação a que se refere o artigo 1.º deste decreto, com entidades de direito público ou privado não residentes na província, ficará sujeita às prescrições estabelecidas pela legislação cambial em vigor em Angola, nomeadamente no que se refere à entrega à província das divisas provenientes das exportações, com observância do que se estabelece nos números seguintes.
 
 2. A Compagnie Française des Pétroles conservará e disporá livremente, em todas as ocasiões, dos fundos ou bens que possuir fora da província de Angola ou que posteriormente adquira a pessoas ou entidades não residentes na província de Angola, sem prejuízo do n.º 3 deste artigo.
 
@@ -452,17 +464,17 @@ f) Pagamento fora de Angola de despesas efectuadas no âmbito da associação qu
 
 15. As disposições deste artigo que se referem à Compagnie Française des Pétroles aplicam-se à sociedade filial que a substitui no contrato de associação.
 
-###### Art. 20.º Sendo atingida e mantida durante 90 dias a média de produção diária de 50000 barris de petróleo bruto, as associadas pagarão à província de Angola, como prémio de produção, a quantia de 30 milhões de escudos, contribuindo cada uma para este pagamento na proporção da respectiva percentagem resultante na exploração.
+Art. 20.º Sendo atingida e mantida durante 90 dias a média de produção diária de 50000 barris de petróleo bruto, as associadas pagarão à província de Angola, como prémio de produção, a quantia de 30 milhões de escudos, contribuindo cada uma para este pagamento na proporção da respectiva percentagem resultante na exploração.
 
-###### Art. 21.º Sendo atingida e mantida durante 90 dias a média de produção diária de 100000 barris de petróleo bruto, a Angol - Sociedade Portuguesa de Exploração de Petróleos, S. A. R. L., pagará à província de Angola, como prémio de produção, a quantia de 30 milhões de escudos.
+Art. 21.º Sendo atingida e mantida durante 90 dias a média de produção diária de 100000 barris de petróleo bruto, a Angol - Sociedade Portuguesa de Exploração de Petróleos, S. A. R. L., pagará à província de Angola, como prémio de produção, a quantia de 30 milhões de escudos.
 
-###### Art. 22.º - 1. As divergências que venham a surgir entre o Governo e a Compagnie Française des Pétroles ou a sociedade filial que a substitua no contrato de associação, sobre a interpretação, validade ou execução das disposições legais ou contratuais aplicáveis à associação, serão resolvidas por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
+Art. 22.º - 1. As divergências que venham a surgir entre o Governo e a Compagnie Française des Pétroles ou a sociedade filial que a substitua no contrato de associação, sobre a interpretação, validade ou execução das disposições legais ou contratuais aplicáveis à associação, serão resolvidas por arbitragem constituída de harmonia com a legislação portuguesa ao tempo vigente.
 
 2. O juízo arbitral, que funcionará em Lisboa, será constituído por um árbitro nomeado pelo Ministro do Ultramar, outro nomeado pela Compagnie Française des Pétroles ou pela sociedade filial que a substitua e o terceiro, com voto de desempate, escolhido por acordo ou, na sua falta, designado pelo presidente do Supremo Tribunal de Justiça.
 
 3. O pedido de arbitragem terá efeito suspensivo.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

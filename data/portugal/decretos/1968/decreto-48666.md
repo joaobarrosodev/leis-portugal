@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48666-1968-263536
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:46Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fd0ae0983f075319ac3708b77ddbcf24e83e2f072fdab4da80ac22699659f8e0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7b106eb2f7f246ac2101125382cf56c5cb7643b5819559e0992c56ee6ab96129
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:46Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:46Z'
   warnings: []
   errors: []
 ---
@@ -87,9 +91,9 @@ Tendo em vista as disposições do artigo 6.º do [Decreto-Lei n.º 48234](https
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da empreitada de «Centro de Reeducação de Menores Deficientes Mentais de Bragança», pela importância de 13376164$50.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato para a execução da empreitada de «Centro de Reeducação de Menores Deficientes Mentais de Bragança», pela importância de 13376164$50.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá em cada ano exceder as seguintes quantias:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá em cada ano exceder as seguintes quantias:
 
 Em 1968 ... 3640000$00
 
@@ -99,6 +103,6 @@ Em 1970 ... 1736164$50
 
 § único. A importância fixada para o último ano será acrescida do saldo apurado nos anos que lhe antecedem.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - João Augusto Dias Rosas - Rui Alves da Silva Sanches.

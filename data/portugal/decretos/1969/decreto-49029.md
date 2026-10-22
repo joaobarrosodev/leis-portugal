@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49029-1969-201051
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3c98665f51a7fd3788d16ccee6f8a8d16efe180b0fd2d7ade2529251d311728
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f8c792aa592da4db7a4a7bbae38e4e37fbbb70f22120092f93ea568c7b18b7c5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:32Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +87,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 Regulamento do Processo de Execução da Convenção Internacional sobre o Limite de Responsabilidade dos Proprietários dos Navios de Alto Mar, concluída em Bruxelas em 10 de Outubro de 1957.
 
-###### Artigo 1.º - 1. O proprietário do navio ou outra das pessoas referidas no artigo 6.º da Convenção de Bruxelas sobre o Limite da Responsabilidade dos Proprietários dos Navios de Alto Mar, de 10 de Outubro de 1957, que pretendam beneficiar do limite, da responsabilidade. estabelecido naquela Convenção, poderão requerer no tribunal comum competente para a acção a constituição do fundo de limitação.
+Artigo 1.º - 1. O proprietário do navio ou outra das pessoas referidas no artigo 6.º da Convenção de Bruxelas sobre o Limite da Responsabilidade dos Proprietários dos Navios de Alto Mar, de 10 de Outubro de 1957, que pretendam beneficiar do limite, da responsabilidade. estabelecido naquela Convenção, poderão requerer no tribunal comum competente para a acção a constituição do fundo de limitação.
 
 2. O fundo pode ser constituído por qualquer das formas admitidas pela lei civil para a prestação de caução autorizada por lei.
 
-###### Art. 2.º - 1. O interessado deve indicar no requerimento:
+Art. 2.º - 1. O interessado deve indicar no requerimento:
 
 a) O facto de que resultaram os prejuízos;
 
@@ -107,13 +107,13 @@ a) Relação dos credores conhecidos com direito a participar na repartição do
 
 b) Os elementos justificativos do cálculo do montante do fundo de limitação.
 
-###### Art. 3.º - 1. O pedido deve ser indeferido quando o juiz verifique, que o montante do fundo de limitação não foi calculado de acordo com o disposto no artigo 3.º da Convenção, de Bruxelas.
+Art. 3.º - 1. O pedido deve ser indeferido quando o juiz verifique, que o montante do fundo de limitação não foi calculado de acordo com o disposto no artigo 3.º da Convenção, de Bruxelas.
 
 2. No caso contrário, o juiz fixará a modalidade do fundo, declará-lo-á constituído, depois de efectuado o depósito. ou entrega, ou de averbado como definitivo o registo de hipoteca, ou depois de constituída a fiança, e determinará a quantia que deve considerar-se reservada, nos termos do artigo 2.º, n.º 1, alínea d).
 
 3. No despacho que declarar constituído o fundo o juiz designará um prazo entre trinta e sessenta dias para a reclamação de créditos.
 
-###### Art. 4.º - 1. A declaração de constituição do fundo produz os seguintes efeitos:
+Art. 4.º - 1. A declaração de constituição do fundo produz os seguintes efeitos:
 
 a) Impede que os créditos sujeitos a limitação continuem a vencer juros;
 
@@ -121,7 +121,7 @@ b) Obsta a que se instaure ou prossiga acção ou execução por créditos aos q
 
 2. A acção ou execução pendentes serão apensadas ao processo de constituição do fundo.
 
-###### Art. 5.º - 1. Proferido o despacho que declarar constituído o fundo, a secretaria, no prazo de quarenta e oito horas, enviará, por carta registada com aviso de recepção, a todos os credores cujo nome e domicílio tenha sido indicado, cópia daquele despacho, exarando nela uma nota que indique:
+Art. 5.º - 1. Proferido o despacho que declarar constituído o fundo, a secretaria, no prazo de quarenta e oito horas, enviará, por carta registada com aviso de recepção, a todos os credores cujo nome e domicílio tenha sido indicado, cópia daquele despacho, exarando nela uma nota que indique:
 
 a) O nome e o domicílio do requerente;
 
@@ -137,15 +137,15 @@ f) O montante do crédito do destinatário e o prazo dentro do qual esse crédit
 
 2. Serão citados por editais os credores desconhecidos e aqueles de que se desconheça o domicílio.
 
-###### Art. 6.º - 1. No prazo para reclamação de créditos podem os credores opor embargos à constituição do fundo ou agravar do despacho que o declarou constituído.
+Art. 6.º - 1. No prazo para reclamação de créditos podem os credores opor embargos à constituição do fundo ou agravar do despacho que o declarou constituído.
 
 2. Nos embargos, que serão autuados por apenso e não determinam a suspensão do processo de constituição do fundo, podem ser alegados quaisquer fundamentos que seria lícito deduzir em processo de declaração.
 
 3. O requerente é notificado para, no prazo de dez dias, contestar os embargos, seguindo-se, sem mais articulados, os termos do processo ordinário de declaração.
 
-###### Art. 7.º No prazo para a reclamação de créditos podem também os credores impugnar o montante do fundo de limitação e o montante reservado nos termos do n.º 4 do artigo 3.º da Convenção, aplicando-se nestes casos o disposto no n.º 3 do artigo anterior.
+Art. 7.º No prazo para a reclamação de créditos podem também os credores impugnar o montante do fundo de limitação e o montante reservado nos termos do n.º 4 do artigo 3.º da Convenção, aplicando-se nestes casos o disposto no n.º 3 do artigo anterior.
 
-###### Art. 8.º - 1. Findo o prazo para a dedução de créditos, observar-se-á, com as necessárias adaptações, o disposto nos artigos 866.º e seguintes do Código de Processo Civil.
+Art. 8.º - 1. Findo o prazo para a dedução de créditos, observar-se-á, com as necessárias adaptações, o disposto nos artigos 866.º e seguintes do Código de Processo Civil.
 
 2. Consideram-se reclamados os créditos exigidos nos processos a que se refere o n.º 2 do artigo 4.º
 
@@ -155,18 +155,18 @@ f) O montante do crédito do destinatário e o prazo dentro do qual esse crédit
 
 5. A sentença, além da existência dos créditos e da repartição do fundo, conhecerá ainda das impugnações a que se refere o artigo anterior.
 
-###### Art. 9.º - 1. Só os credores desconhecidos que não hajam reclamado os seus créditos podem posteriormente exercer os seus direitos contra o requerente.
+Art. 9.º - 1. Só os credores desconhecidos que não hajam reclamado os seus créditos podem posteriormente exercer os seus direitos contra o requerente.
 
 2. Se a quantia reservada para este efeito não for suficiente, respondem por estes créditos os restantes bens de requerente.
 
 3. Decorrido o prazo dentro do qual os credores desconhecidos podem exercer os seus direitos, a quantia reservada, ou o que dela restar, será repartida pelos credores cujos créditos hajam sido reconhecidos, na proporção observada para a repartição do fundo.
 
-###### Art. 10.º O valor da causa será, para efeito de custas, o que for fixado para o fundo de limitação.
+Art. 10.º O valor da causa será, para efeito de custas, o que for fixado para o fundo de limitação.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa - Manuel Pereira Crespo.
 
-**Promulgado em 14 de Maio de 1969.**
+Promulgado em 14 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

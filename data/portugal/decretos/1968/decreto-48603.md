@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48603-1968-264542
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 710d83db6fbcd09973a31b3ef51012da3612bda3f6c13195c6670ee417761ea5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d2baffd7aee3da6fabb7d2d131493a3753274a2480cf4bb59b586712273cb6ae
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -73,13 +73,13 @@ relationships: []
 article_structure:
   article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:03Z'
   warnings: []
   errors: []
 ---
@@ -90,6 +90,6 @@ Usando da faculdade que me confere o n.º 1.º do artigo 81.º da Constituição
 
 Hei por bem, sob proposta do Presidente do Conselho, nomear o Dr. César Henrique Moreira Baptista, Doutor João Luís da Costa André, Dr. Augusto Vítor Coelho, coronel do C. E. M. João António Pinheiro, Dr. Joaquim Dias da Silva Pinto, Dr. José Coelho de Almeida Cota, Dr. Rui Manuel de Medeiros d'Espinay Patrício, Doutor Justino Mendes de Almeida e Dr. Francisco Elmano Martinez da Cruz Alves, respectivamente, Subsecretários de Estado da Presidência do Conselho, do Tesouro, do Orçamento, do Exército, das Obras Públicas, da Administração Ultramarina, do Fomento Ultramarino, da Administração Escolar e da Juventude e Desportos.
 
-**Publique-se.**
+Publique-se.
 
 Paços do Governo de República, 27 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano.

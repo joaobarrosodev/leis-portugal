@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48870-1969-527402
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b3c3ef900f4a7122ca358a01eb1e4309128cffa5076423cf9397f18389717ffd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 95db14ec3f012efd6f96ad706c440b53c246e0dbad4cbb495371327db655e441
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:16Z'
   warnings: []
   errors: []
 ---
@@ -91,13 +91,13 @@ Nos termos do n.º III, alínea a), da base X da Lei Orgânica do Ultramar Portu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os lugares de mecânico principal e de construtor de linhas, criados no quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola pelo Diploma Legislativo Ministerial n.º 16, publicado em Angola em 31 de Maio de 1967, serão providos por concurso obrigatório de provas práticas e escritas, a partir da data da entrada em vigor do presente decreto, pela forma seguinte:
+Artigo 1.º Os lugares de mecânico principal e de construtor de linhas, criados no quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Angola pelo Diploma Legislativo Ministerial n.º 16, publicado em Angola em 31 de Maio de 1967, serão providos por concurso obrigatório de provas práticas e escritas, a partir da data da entrada em vigor do presente decreto, pela forma seguinte:
 
 a) Mecânico principal - de entre os mecânicos de 1.ª classe do quadro do pessoal técnico, especializado no ramo técnico a que pertencer a vaga a preencher, com boas informações anuais de serviço;
 
 b) Construtor de linhas - de entre os chefes de guarda-fios do quadro do pessoal auxiliar, com boas informações anuais de serviço.
 
-###### Art. 2.º Os lugares de chefe de secção administrativo, de primeiro-oficial administrativo e de segundo-oficial administrativo, criados pelo mesmo diploma legislativo ministerial no aludido quadro do pessoal contratado, serão providos por concurso obrigatório de provas práticas e escritas, a partir da data da entrada em vigor do presente decreto, pela forma seguinte:
+Art. 2.º Os lugares de chefe de secção administrativo, de primeiro-oficial administrativo e de segundo-oficial administrativo, criados pelo mesmo diploma legislativo ministerial no aludido quadro do pessoal contratado, serão providos por concurso obrigatório de provas práticas e escritas, a partir da data da entrada em vigor do presente decreto, pela forma seguinte:
 
 a) Chefe de secção administrativo - de entre os primeiros-oficiais administrativos, com boas informações anuais de serviço;
 
@@ -111,15 +111,15 @@ c) Segundo-oficial administrativo - de entre os terceiros-oficiais administrativ
 
 § 3.º Tem direito ao abono do subsídio diário estabelecido pelo artigo 8.º do citado Diploma Legislativo Ministerial n.º 16 o pessoal técnico auxiliar referido no artigo 10.º do mesmo diploma.
 
-###### Art. 4.º É de aplicação permanente na província ultramarina de Angola o disposto no artigo 12.º e seus parágrafos do referido Diploma Legislativo Ministerial n.º 16.
+Art. 4.º É de aplicação permanente na província ultramarina de Angola o disposto no artigo 12.º e seus parágrafos do referido Diploma Legislativo Ministerial n.º 16.
 
-###### Art. 5.º Os programas dos concursos para provimento dos lugares criados pelo artigo 1.º do Diploma Legislativo Ministerial n.º 16 serão aprovados por despacho do governador-geral da província, devendo ser publicados no Boletim Oficial.
+Art. 5.º Os programas dos concursos para provimento dos lugares criados pelo artigo 1.º do Diploma Legislativo Ministerial n.º 16 serão aprovados por despacho do governador-geral da província, devendo ser publicados no Boletim Oficial.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 8 de Fevereiro de 1969.**
+Promulgado em 8 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

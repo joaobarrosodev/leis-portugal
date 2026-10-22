@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48767-1968-262146
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: cc4a8207a068d8a2d9b339578e2221d573e8fbe2fe7315751ef635832fff416b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9fdfe366af7f0ff9299ffa110d9ba156661a6d9db8ec900b898b57de24305a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:25Z'
   warnings: []
   errors: []
 ---
@@ -100,19 +100,19 @@ Nos termos do n.º III, alínea a), da base X da mesma lei, por motivo de urgên
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado na Repartição Provincial dos Serviços de Veterinária de Timor o Fundo de Fomento Pecuário, que se destina a promover o desenvolvimento da produção animal e a comercialização e industrialização dos seus produtos, subprodutos e despojos.
+Artigo 1.º É criado na Repartição Provincial dos Serviços de Veterinária de Timor o Fundo de Fomento Pecuário, que se destina a promover o desenvolvimento da produção animal e a comercialização e industrialização dos seus produtos, subprodutos e despojos.
 
-###### Art. 2.º - 1. O Fundo de Fomento Pecuário é dotado de autonomia administrativa e financeira, incumbindo a sua gestão a um conselho administrativo nomeado pelo governador, segundo a composição que vier a ser fixada por portaria provincial, em regulamentação do presente diploma.
+Art. 2.º - 1. O Fundo de Fomento Pecuário é dotado de autonomia administrativa e financeira, incumbindo a sua gestão a um conselho administrativo nomeado pelo governador, segundo a composição que vier a ser fixada por portaria provincial, em regulamentação do presente diploma.
 
 2. O conselho administrativo é responsável pela sua gestão financeira perante o Tribunal Administrativo, ao qual deverá apresentar, para julgamento, a sua conta de gerência anual até 31 de Março do ano seguinte ao da respectiva gestão.
 
 3. Na gestão do Fundo poderá ser considerada a participação do sector privado com interesse na actividade pecuária, podendo igualmente prever-se a criação de comissões e subcomissões com fins específicos de estudo e orientação dos assuntos relativos ao fomento da produção, comercialização ou industrialização pecuária.
 
-###### Art. 3.º - 1. Os planos de acção, com descrição pormenorizada das despesas e receitas, devem ser submetidos ao governador até ao dia 2 de Dezembro de cada ano para prévia autorização da sua execução no ano seguinte.
+Art. 3.º - 1. Os planos de acção, com descrição pormenorizada das despesas e receitas, devem ser submetidos ao governador até ao dia 2 de Dezembro de cada ano para prévia autorização da sua execução no ano seguinte.
 
 2. Na mesma data será submetido para aprovação o projecto de orçamento das receitas e despesas.
 
-###### Art. 4.º - 1. Compete ao Fundo de Fomento Pecuário:
+Art. 4.º - 1. Compete ao Fundo de Fomento Pecuário:
 
 a) Apoiar, estimular e desenvolver a produção pecuária;
 
@@ -122,15 +122,15 @@ c) Promover a melhoria e expansão das indústrias ligadas à produção pecuár
 
 2. Os contratos firmados pelo conselho administrativo, quando necessários para a consecução dos seus objectivos, têm a fé pública dos documentos autênticos oficiais. O governador de Timor poderá designar um funcionário dos Serviços de Veterinária da província para servir de notário nos referidos contratos.
 
-###### Art. 5.º - 1. O conselho administrativo poderá recorrer às estruturas dos diversos órgãos da administração no sentido de obter a colaboração dos seus especialistas e a utilização dos respectivos meios de acção, subsidiando, se necessário, esses especialistas. Poderá ainda, quando tal se justifique, promover o contrato ou a colaboração subsidiada de outros especialistas nacionais ou estrangeiros.
+Art. 5.º - 1. O conselho administrativo poderá recorrer às estruturas dos diversos órgãos da administração no sentido de obter a colaboração dos seus especialistas e a utilização dos respectivos meios de acção, subsidiando, se necessário, esses especialistas. Poderá ainda, quando tal se justifique, promover o contrato ou a colaboração subsidiada de outros especialistas nacionais ou estrangeiros.
 
 2. Além da prestação de serviço de pessoal nas condições referidas no número anterior, o conselho administrativo poderá contratar ou assalariar o pessoal de secretaria ou auxiliar técnico indispensável para garantir o seu funcionamento.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Dezembro de 1968.**
+Promulgado em 5 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

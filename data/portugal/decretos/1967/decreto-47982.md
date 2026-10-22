@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47982-1967-387825
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-25T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:59Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dbae695d9f3464bfb909d244dccae2bdfd7fdcd41a486fb51e6d459bb98a50a2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b63e6b5394bd09340bbdb7db1ac2d7914d5cb86253e00d6aa1152317ab0ddff2
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:59Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:59Z'
   warnings: []
   errors: []
 ---
@@ -99,11 +99,11 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É alterada a redacção do corpo do artigo 2.º do Diploma Legislativo Ministerial n.º 1 publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, que passará a ter a seguinte redacção:
+Artigo único. É alterada a redacção do corpo do artigo 2.º do Diploma Legislativo Ministerial n.º 1 publicado no Boletim Oficial de Cabo Verde de 25 de Agosto de 1962, que passará a ter a seguinte redacção:
 
-###### Art. 2.º A Caixa realizará, com vista ao fomento económico da província, operações de crédito a médio e longo prazos, nos sectores da agricultura e pecuária, das pescas e das indústrias transformadoras conexas.
+Art. 2.º A Caixa realizará, com vista ao fomento económico da província, operações de crédito a médio e longo prazos, nos sectores da agricultura e pecuária, das pescas e das indústrias transformadoras conexas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 6 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

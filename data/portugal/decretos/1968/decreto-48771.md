@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48771-1968-262288
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0670eacba3176150ef61d02ab8a7a7c44148c5a6d350d3c71219f60b7e501f5f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cd88c9f6938c5b9076466b9b8155e9fd01e0deabed2da7f30bf4ac1397738097
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:252056:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:26Z'
   warnings: []
   errors: []
 ---
@@ -97,17 +101,17 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A Companhia do Caminho de Ferro de Benguela é autorizada a elevar o seu capital social de 660000000$00 para 1031250000$00, pela incorporação de 371250000$00 do fundo de reserva geral.
+Artigo 1.º A Companhia do Caminho de Ferro de Benguela é autorizada a elevar o seu capital social de 660000000$00 para 1031250000$00, pela incorporação de 371250000$00 do fundo de reserva geral.
 
-###### Art. 2.º As percentagens de 2,5 e de 5 por cento para lucros ao capital accionista fixadas no artigo 2.º do [Decreto n.º 41429](https://diariodarepublica.pt/dr/detalhe/decreto/41429-1957-252056), de 6 de Dezembro de 1957, acima das quais o Estado tem o direito a uma parte desses lucros líquidos, são reduzidas, respectivamente, a 1,6 e 3,2 por cento, devendo introduzir-se esta alteração, por meio de apostila, no contrato celebrado em 15 de Janeiro de 1926 entre o Governo e a Companhia do Caminho de Ferro de Benguela e já alterado pela apostila de 14 de Janeiro de 1958.
+Art. 2.º As percentagens de 2,5 e de 5 por cento para lucros ao capital accionista fixadas no artigo 2.º do [Decreto n.º 41429](https://diariodarepublica.pt/dr/detalhe/decreto/41429-1957-252056), de 6 de Dezembro de 1957, acima das quais o Estado tem o direito a uma parte desses lucros líquidos, são reduzidas, respectivamente, a 1,6 e 3,2 por cento, devendo introduzir-se esta alteração, por meio de apostila, no contrato celebrado em 15 de Janeiro de 1926 entre o Governo e a Companhia do Caminho de Ferro de Benguela e já alterado pela apostila de 14 de Janeiro de 1958.
 
-###### Art. 3.º Os artigos 5.º e 6.º e o n.º 4.º do artigo 58.º dos estatutos da Companhia do Caminho de Ferro de Benguela serão alterados por escritura pública, de acordo com a assembleia geral extraordinária de 12 de Novembro de 1968, passando a ter a seguinte redacção:
+Art. 3.º Os artigos 5.º e 6.º e o n.º 4.º do artigo 58.º dos estatutos da Companhia do Caminho de Ferro de Benguela serão alterados por escritura pública, de acordo com a assembleia geral extraordinária de 12 de Novembro de 1968, passando a ter a seguinte redacção:
 
-###### Art. 5.º O capital da Companhia é de 1031250000$00, representado em 3000000 de acções de 343$75 cada uma, encontra-se todo representado pelos haveres sociais e dele pertencem ao Estado 300000 acções liberadas. Haverá um livro especial para registo de acções.
+Art. 5.º O capital da Companhia é de 1031250000$00, representado em 3000000 de acções de 343$75 cada uma, encontra-se todo representado pelos haveres sociais e dele pertencem ao Estado 300000 acções liberadas. Haverá um livro especial para registo de acções.
 
-###### Art. 6.º Nas futuras emissões de acções que a Companhia fizer para aumentar o seu capital actual, que é de 1031250000$00, o interesse do Estado será de 15 por cento das respectivas emissões, em acções liberadas.
+Art. 6.º Nas futuras emissões de acções que a Companhia fizer para aumentar o seu capital actual, que é de 1031250000$00, o interesse do Estado será de 15 por cento das respectivas emissões, em acções liberadas.
 
-###### Art. 58.º ...
+Art. 58.º ...
 
 ...
 
@@ -115,9 +119,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Novembro de 1968.**
+Promulgado em 6 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -51,18 +51,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48983-1969-201666
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d7445d2b030e2fdca9998999ad1e2aa525804caa0f13789336ca22b583e206af
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c982a061aef2ba96b7ca166d6c03b65277e40fcc058fef039c13f996bfdf1b5a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:352313:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:525030:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:11Z'
   warnings: []
   errors: []
 ---
@@ -103,17 +111,17 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A amortização das obrigações que forem emitidas para a construção e equipamento da variante do Cubal, incluindo as locomotivas a empregar nesse troço, será feita, em anuidades iguais, nos seis últimos anos dos oito que se seguirem à entrada da variante em exploração definitiva.
+Artigo 1.º - 1. A amortização das obrigações que forem emitidas para a construção e equipamento da variante do Cubal, incluindo as locomotivas a empregar nesse troço, será feita, em anuidades iguais, nos seis últimos anos dos oito que se seguirem à entrada da variante em exploração definitiva.
 
 2. Com ressalva do disposto no número anterior, aplica-se às mesmas obrigações o regime comum do [Decreto n.º 41725](https://diariodarepublica.pt/dr/detalhe/decreto/41725-1958-352313), sem prejuízo dos direitos de quaisquer outras obrigações emitidas no mesmo regime.
 
-###### Art. 2.º A isenção de direitos de importação consignada no n.º 6.º do artigo 4.º do contrato de concessão aprovado pelo Decreto de 28 de Novembro de 1902 é aplicável a todos os materiais e equipamentos de 1.º estabelecimento e respectivas renovações respeitantes à variante do Cubal, qualquer que seja a época da sua aquisição.
+Art. 2.º A isenção de direitos de importação consignada no n.º 6.º do artigo 4.º do contrato de concessão aprovado pelo Decreto de 28 de Novembro de 1902 é aplicável a todos os materiais e equipamentos de 1.º estabelecimento e respectivas renovações respeitantes à variante do Cubal, qualquer que seja a época da sua aquisição.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Abril de 1969.**
+Promulgado em 23 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

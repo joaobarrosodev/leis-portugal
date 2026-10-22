@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49217-1969-214767
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 866206d223f80544a286cf7f9434c544c97c922243510afd632854e8b0605259
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e879ece57d8cc818e3143f44f2394b422ae3d6b6736d378958c8d4ed3b3f608a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:00Z'
   warnings: []
   errors: []
 ---
@@ -84,11 +84,11 @@ validation:
 
 Usando da faculdade que me confere o n.º 3.º do artigo 81.º da Constituição, hei por bem decretar o seguinte:
 
-###### Artigo 1.º É fixado o dia 26 de Outubro do ano corrente para a eleição geral dos Deputados à Assembleia Nacional.
+Artigo 1.º É fixado o dia 26 de Outubro do ano corrente para a eleição geral dos Deputados à Assembleia Nacional.
 
-###### Art. 2.º Este diploma aplica-se a todo o território da República e entra em vigor imediatamente.
+Art. 2.º Este diploma aplica-se a todo o território da República e entra em vigor imediatamente.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - António Manuel Gonçalves Rapazote - Joaquim Moreira da Silva Cunha.
 

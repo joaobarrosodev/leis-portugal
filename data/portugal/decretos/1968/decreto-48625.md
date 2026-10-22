@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48625-1968-264097
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0f51ff4c5d068c35919740bdc3129c61bddc536950fd938bed2253132c795ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 01b326c04e33173f2601f1e10a3d423c1eb18aa5ff20a108e0e8b2d588cfb873
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:19Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +95,9 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É instituído na província de Moçambique um fundo especial destinado a custear os encargos com a construção e apetrechamento de instalações para os serviços públicos provinciais.
+Artigo 1.º É instituído na província de Moçambique um fundo especial destinado a custear os encargos com a construção e apetrechamento de instalações para os serviços públicos provinciais.
 
-###### Art. 2.º Constituem receitas do fundo:
+Art. 2.º Constituem receitas do fundo:
 
 a) Os empréstimos que forem contratados para esse fim;
 
@@ -107,47 +107,47 @@ c) As verbas inscritas na tabela de despesa ordinária do orçamento geral da pr
 
 d) Quaisquer outros recursos que lhe venham a ser expressamente consignados por lei.
 
-###### Art. 3.º As receitas do fundo serão obrigatòriamente depositadas em «operações de tesouraria», transitando mensalmente para receita orçamental extraordinária na medida exacta dos pagamentos efectuados, relativos às despesas com a construção de edifícios e seu apetrechamento, autorizadas no orçamento geral da província.
+Art. 3.º As receitas do fundo serão obrigatòriamente depositadas em «operações de tesouraria», transitando mensalmente para receita orçamental extraordinária na medida exacta dos pagamentos efectuados, relativos às despesas com a construção de edifícios e seu apetrechamento, autorizadas no orçamento geral da província.
 
-###### Art. 4.º É constituída uma comissão incumbida de apreciar os planos de construção e apetrechamento das instalações destinadas aos serviços públicos, emitindo acerca dos mesmos os competentes pareceres para decisão do governador-geral.
+Art. 4.º É constituída uma comissão incumbida de apreciar os planos de construção e apetrechamento das instalações destinadas aos serviços públicos, emitindo acerca dos mesmos os competentes pareceres para decisão do governador-geral.
 
 § único. A comissão será presidida pelo secretário provincial de Obras Públicas e Comunicações e dela fará parte, obrigatoriamente, o director provincial dos Serviços de Fazenda e Contabilidade.
 
-###### Art. 5.º As propostas ou planos de construção de edifícios e seu apetrechamento deverão ser apresentados à comissão até ao fim do mês de Outubro do ano anterior àquele a que os mesmos se referirem.
+Art. 5.º As propostas ou planos de construção de edifícios e seu apetrechamento deverão ser apresentados à comissão até ao fim do mês de Outubro do ano anterior àquele a que os mesmos se referirem.
 
 § 1.º Só excepcionalmente e desde que o fundo disponha de recursos suficientes poderão ser consideradas propostas ou planos fora daquele prazo.
 
 § 2.º As propostas ou planos deverão ser sempre devidamente justificados e documentados e conter, entre outras indicações para a sua apreciação, o custo provável dos empreendimentos e o prazo em que deverão ser realizados.
 
-###### Art. 6.º com base nas propostas ou planos referidos no corpo do artigo anterior e depois da sua apreciação, será organizado pela comissão o programa de aplicação das dotações do fundo para o ano seguinte, de forma a poder ser aprovado pelo governador-geral até 20 de Dezembro, devendo a decisão ser seguidamente comunicada às entidades interessadas.
+Art. 6.º com base nas propostas ou planos referidos no corpo do artigo anterior e depois da sua apreciação, será organizado pela comissão o programa de aplicação das dotações do fundo para o ano seguinte, de forma a poder ser aprovado pelo governador-geral até 20 de Dezembro, devendo a decisão ser seguidamente comunicada às entidades interessadas.
 
 § único. As propostas ou planos, nas condições do § 1.º do artigo anterior, só poderão ser incluídos em programa suplementar, na altura julgada conveniente e com a aprovação do governador-geral.
 
-###### Art. 7.º A construção de edifícios ou a aquisição do seu apetrechamento só se tornarão efectivas depois de aprovado, pelo governador-geral, o respectivo projecto de construção ou plano de aquisição.
+Art. 7.º A construção de edifícios ou a aquisição do seu apetrechamento só se tornarão efectivas depois de aprovado, pelo governador-geral, o respectivo projecto de construção ou plano de aquisição.
 
 § único. A aprovação referida no corpo deste artigo será obtida através da comissão, ouvidos os serviços técnicos competentes.
 
-###### Art. 8.º A fiscalização da execução das obras ou da aquisições dos equipamentos será feita por intermédio de serviços competentes, a designar pela comissão, com a aprovação do governador-geral.
+Art. 8.º A fiscalização da execução das obras ou da aquisições dos equipamentos será feita por intermédio de serviços competentes, a designar pela comissão, com a aprovação do governador-geral.
 
 § único. As requisições de fundos para pagamentos das obras ou aquisição dos equipamentos serão sempre acompanhadas de informação justificativa, prestada pelos serviços designados para a fiscalização.
 
-###### Art. 9.º É autorizada a província de Moçambique a contrair em moeda local um empréstimo até ao montante de 80000 contos, destinado exclusivamente a custear os encargos com a construção e apetrechamento de instalações destinadas aos serviços públicos da província.
+Art. 9.º É autorizada a província de Moçambique a contrair em moeda local um empréstimo até ao montante de 80000 contos, destinado exclusivamente a custear os encargos com a construção e apetrechamento de instalações destinadas aos serviços públicos da província.
 
 § 1.º Este empréstimo será objecto de contrato ou contratos a celebrar entre as entidades prestamistas e a província, representada pelo governador-geral, nas condições que vierem a ser acordadas, sujeitas a aprovação do Ministro do Ultramar.
 
 § 2.º Os respectivos contratos ficarão isentos do pagamento do imposto do selo e de quaisquer encargos emolumentares.
 
-###### Art. 10.º Os encargos resultantes do empréstimo constituem despesa preferencial e obrigatória, devendo ser inscritas, anualmente, no orçamento geral da província, as dotações necessárias à sua liquidação.
+Art. 10.º Os encargos resultantes do empréstimo constituem despesa preferencial e obrigatória, devendo ser inscritas, anualmente, no orçamento geral da província, as dotações necessárias à sua liquidação.
 
 § único. O pagamento será efectuado em moeda local nas tesourarias de Fazenda da província.
 
-###### Art. 11.º O governador-geral regulará por portaria, no prazo de 30 dias, a constituição e atribuições da comissão e bem assim o funcionamento do fundo.
+Art. 11.º O governador-geral regulará por portaria, no prazo de 30 dias, a constituição e atribuições da comissão e bem assim o funcionamento do fundo.
 
-###### Art. 12.º Fica o governador-geral autorizado a abrir os créditos especiais necessários à execução do presente diploma.
+Art. 12.º Fica o governador-geral autorizado a abrir os créditos especiais necessários à execução do presente diploma.
 
-###### Art. 13.º Este decreto entra imediatamente em vigor.
+Art. 13.º Este decreto entra imediatamente em vigor.
 
-**Publique-se o cumpra-se como nele se contém.**
+Publique-se o cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

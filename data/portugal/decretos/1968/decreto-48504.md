@@ -51,18 +51,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48504-1968-273633
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ae3081316636bd7c20c9eed0633695ce0f417aef59017220e8ce620609f922
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9c403a04e30a15a611f2dc6b6921bb568de93a7d933e25358224c1637c5038e4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185295:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232336:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:11Z'
   warnings: []
   errors: []
 ---
@@ -89,9 +97,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O artigo 20.º do [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, passa a ter a seguinte redacção:
+Artigo 1.º O artigo 20.º do [Decreto n.º 40740](https://diariodarepublica.pt/dr/detalhe/decreto/40740-1956-232336), de 24 de Agosto de 1956, passa a ter a seguinte redacção:
 
-###### Art. 20.º - 1. Na falta, ausência ou impedimento do director-geral, director de serviços, inspector-chefe ou chefe de repartição, serão estes substituídos pela forma seguinte:
+Art. 20.º - 1. Na falta, ausência ou impedimento do director-geral, director de serviços, inspector-chefe ou chefe de repartição, serão estes substituídos pela forma seguinte:
 
 a) O director-geral é substituído pelo director de serviços ou pelo inspector-chefe, segundo a ordem de antiguidade, e, na falta destes, pelo chefe da 1.ª Repartição;
 
@@ -101,15 +109,15 @@ c) O chefe da 1.ª Repartição, pelo chefe de secção.
 
 2. Na falta, ausência ou impedimento dos vogais titulares do Conselho da Direcção-Geral e do conselho técnico, serão estes substituídos pela forma que, em cada caso, for determinada pelo director-geral.
 
-###### Art. 2.º Os artigos 34.º, 47.º, 79.º, 80.º e 86.º do [Decreto n.º 44064](https://diariodarepublica.pt/dr/detalhe/decreto/44064-1961-185295), de 28 de Novembro de 1961, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 34.º, 47.º, 79.º, 80.º e 86.º do [Decreto n.º 44064](https://diariodarepublica.pt/dr/detalhe/decreto/44064-1961-185295), de 28 de Novembro de 1961, passam a ter a seguinte redacção:
 
-###### Art. 34.º - 1. Os membros do júri têm direito à gratificação de 200$00 por cada dia de serviço prestado nos concursos, além das ajudas de custo e despesas de transporte a que haja lugar.
+Art. 34.º - 1. Os membros do júri têm direito à gratificação de 200$00 por cada dia de serviço prestado nos concursos, além das ajudas de custo e despesas de transporte a que haja lugar.
 
 2. ...
 
 ...
 
-###### Art. 47.º - 1. ...
+Art. 47.º - 1. ...
 
 2. ...
 
@@ -123,7 +131,7 @@ c) O chefe da 1.ª Repartição, pelo chefe de secção.
 
 ....
 
-###### Art. 79.º - 1. Aos concursos para lugares de chefe de secção da Conservatória dos Registos Centrais são admitidos os ajudantes do respectivo quadro, licenciados em Direito, com mais de três anos de bom e efectivo serviço.
+Art. 79.º - 1. Aos concursos para lugares de chefe de secção da Conservatória dos Registos Centrais são admitidos os ajudantes do respectivo quadro, licenciados em Direito, com mais de três anos de bom e efectivo serviço.
 
 2. Na falta de concorrentes nas condições previstas no número anterior, o lugar vago pode ser substituído por um lugar de primeiro-ajudante e este provido,
 
@@ -131,7 +139,7 @@ independentemente de novo concurso, por qualquer requerente licenciado em Direit
 
 3. Os conservadores e notários de 3.ª classe podem ser providos nos lugares de chefe de secção, independentemente de concurso, em comissão de serviço, por períodos renováveis de três anos.
 
-###### Art. 80.º - 1. Aos concursos para provimento de lugares de primeiro e segundo-ajudante são admitidos os ajudantes das categorias inferiores com mais de três anos de bom e efectivo serviço prestado em repartição da mesma espécie da do lugar vago.
+Art. 80.º - 1. Aos concursos para provimento de lugares de primeiro e segundo-ajudante são admitidos os ajudantes das categorias inferiores com mais de três anos de bom e efectivo serviço prestado em repartição da mesma espécie da do lugar vago.
 
 2. No provimento de lugares de primeiro-ajudante, os segundos-ajudantes têm preferência sobre os terceiros-ajudantes.
 
@@ -145,7 +153,7 @@ independentemente de novo concurso, por qualquer requerente licenciado em Direit
 
 ...
 
-###### Art. 86.º - 1. ...
+Art. 86.º - 1. ...
 
 2. ...
 
@@ -153,11 +161,11 @@ independentemente de novo concurso, por qualquer requerente licenciado em Direit
 
 4. É aplicável à competência dos chefes de secção da Conservatória dos Registos Centrais o disposto no n.º 2 deste artigo.
 
-###### Art. 3.º - 1. São admitidos ao concurso de provas públicas para lugares de terceiro-oficial dos serviços de identificação os escriturários dos respectivos quadros, com mais de três anos de bom e efectivo serviço, e quaisquer indivíduos habilitados com o 2.º ciclo do liceu ou curso equivalente.
+Art. 3.º - 1. São admitidos ao concurso de provas públicas para lugares de terceiro-oficial dos serviços de identificação os escriturários dos respectivos quadros, com mais de três anos de bom e efectivo serviço, e quaisquer indivíduos habilitados com o 2.º ciclo do liceu ou curso equivalente.
 
 2. O concurso pode ser repetido uma ou mais vezes, quer no caso de aprovação, quer no de reprovação, prevalecendo sempre o último resultado obtido.
 
-###### Art. 4.º - 1. Para os fins do abono de despesas de viagem concedido aos conservadores e notários colocados em primeira nomeação nas ilhas adjacentes, o funcionário, no prazo de quinze dias, a contar da publicação do despacho de nomeação, deve enviar à Repartição Administrativa dos Cofres declaração especificada das pessoas de família de que pretenda fazer-se acompanhar, indicando a data em que deseja embarcar.
+Art. 4.º - 1. Para os fins do abono de despesas de viagem concedido aos conservadores e notários colocados em primeira nomeação nas ilhas adjacentes, o funcionário, no prazo de quinze dias, a contar da publicação do despacho de nomeação, deve enviar à Repartição Administrativa dos Cofres declaração especificada das pessoas de família de que pretenda fazer-se acompanhar, indicando a data em que deseja embarcar.
 
 2. Se, depois de recebidas as importâncias a que tem direito, o funcionário, por qualquer motivo, não seguir o seu destino, fica obrigado à reposição integral do que haja recebido, no prazo de quinze dias, a contar da data em que, para o efeito, for avisado pela Repartição Administrativa dos Cofres, sob pena de responsabilidade disciplinar e cobrança coerciva.
 
@@ -165,6 +173,6 @@ independentemente de novo concurso, por qualquer requerente licenciado em Direit
 
 4. Presume-se que as deslocações são a pedido do interessado sempre que no respectivo despacho se não declare que o são por conveniência de serviço.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Mário Júlio de Almeida Costa.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48906-1969-525586
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0e20802360d42d18021f24e684539e77d004055f9f3bca2f908a4647763502f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 36622918b3f1e732102f275a7bb09c7feadd9454e56e88e82c68fda693b9782d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:32Z'
   warnings: []
   errors: []
 ---
@@ -93,14 +93,14 @@ Tendo em vista o disposto no n.º 3.º do artigo 12.º do Código Administrativo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os limites entre as freguesias de Porreiras e Insalde, do concelho de Paredes de Coura, e as de Boivão, do concelho de Valença, e Pias, do concelho de Monção, são definidos por uma linha que, partindo do ponto trigonométrico das Lagoas (antigamente denominado «Outeiro do Giestoso»), onde convergem os limites das ditas freguesias de Porreiras e Boivão e o da de Taião, do concelho de Valença, segue, orientando-se para nascente, pelas águas vertentes em direcção aos penedos negros existentes na Chã das Pipas (antigamente chamada «Campo da Estacada») e situados a sul do ramo do lado nascente dos regatos da Fonte de Cai do Alto, dividindo a referida linha de águas vertentes, no troço indicado, as freguesias de Boivão, a norte, e Porreiras, a sul; a partir dos mencionados penedos passa a separar as freguesias de Insalde e Pias (esta a norte e aquela a sul da linha), continuando, sempre pelas ditas águas vertentes, através da Cancela de Breia em direcção ao marco trigonométrico do Cárdio, onde terminam os limites das últimas freguesias indicadas.
+Artigo 1.º Os limites entre as freguesias de Porreiras e Insalde, do concelho de Paredes de Coura, e as de Boivão, do concelho de Valença, e Pias, do concelho de Monção, são definidos por uma linha que, partindo do ponto trigonométrico das Lagoas (antigamente denominado «Outeiro do Giestoso»), onde convergem os limites das ditas freguesias de Porreiras e Boivão e o da de Taião, do concelho de Valença, segue, orientando-se para nascente, pelas águas vertentes em direcção aos penedos negros existentes na Chã das Pipas (antigamente chamada «Campo da Estacada») e situados a sul do ramo do lado nascente dos regatos da Fonte de Cai do Alto, dividindo a referida linha de águas vertentes, no troço indicado, as freguesias de Boivão, a norte, e Porreiras, a sul; a partir dos mencionados penedos passa a separar as freguesias de Insalde e Pias (esta a norte e aquela a sul da linha), continuando, sempre pelas ditas águas vertentes, através da Cancela de Breia em direcção ao marco trigonométrico do Cárdio, onde terminam os limites das últimas freguesias indicadas.
 
-###### Art. 2.º As Câmaras Municipais de Paredes de Coura, Monção e Valença procederão, no prazo de sessenta dias, à colocação de marcos, onde se tornem necessários, de modo que fiquem bem patentes os limites fixados no artigo anterior.
+Art. 2.º As Câmaras Municipais de Paredes de Coura, Monção e Valença procederão, no prazo de sessenta dias, à colocação de marcos, onde se tornem necessários, de modo que fiquem bem patentes os limites fixados no artigo anterior.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote.
 
-**Promulgado em 3 de Março de 1969.**
+Promulgado em 3 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

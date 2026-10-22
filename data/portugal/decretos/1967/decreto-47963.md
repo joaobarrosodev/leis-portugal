@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47963-1967-391631
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-26T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e71f0613d46c20d2c7aabf4e78dad4789ec8e9bc8630acda5e8988560ecc6d4d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e38245fc1c64e5bc9d752bbffb6ce60ccfe4d812097d74bf184cb574808c57a9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:44Z'
   warnings: []
   errors: []
 ---
@@ -94,21 +94,21 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Angola a prestar o seu aval ao Banco de Angola para garantia de crédito a contrair pela Cooperativa Agrícola do Cunene, até ao montante de 5000000$00 e os respectivos encargos, destinado a financiar as campanhas de comercialização e produção da fábrica de concentrado de tomate daquela Cooperativa.
+Artigo 1.º É autorizado o Governo-Geral de Angola a prestar o seu aval ao Banco de Angola para garantia de crédito a contrair pela Cooperativa Agrícola do Cunene, até ao montante de 5000000$00 e os respectivos encargos, destinado a financiar as campanhas de comercialização e produção da fábrica de concentrado de tomate daquela Cooperativa.
 
 § 1.º O prazo de amortização é de cinco anos, contados a partir da data de celebração do contrato entre a Cooperativa Agrícola do Cunene e o Banco de Angola.
 
 § 2.º O montante do empréstimo deve ser consignado pela direcção da Cooperativa às actividades de produção e comercialização do concentrado de tomate.
 
-###### Art. 2.º Até 90 dias após o fecho da campanha deve ser apresentado ao Governo-Geral de Angola um relatório elucidativo sobre a forma como decorreu a campanha.
+Art. 2.º Até 90 dias após o fecho da campanha deve ser apresentado ao Governo-Geral de Angola um relatório elucidativo sobre a forma como decorreu a campanha.
 
-###### Art. 3.º A Cooperativa deve manter uma contabilidade actualizada, devidamente estruturada, por forma que em qualquer momento possa fornecer os dados que lhe sejam solicitados pelo Governo-Geral de Angola.
+Art. 3.º A Cooperativa deve manter uma contabilidade actualizada, devidamente estruturada, por forma que em qualquer momento possa fornecer os dados que lhe sejam solicitados pelo Governo-Geral de Angola.
 
-###### Art. 4.º A província de Angola gozará, pela garantia do disposto para satisfação das responsabilidades assumidas por força do disposto do artigo 1.º, nos termos do artigo 735.º do Código Civil, do privilégio creditório sobre os bens da Cooperativa.
+Art. 4.º A província de Angola gozará, pela garantia do disposto para satisfação das responsabilidades assumidas por força do disposto do artigo 1.º, nos termos do artigo 735.º do Código Civil, do privilégio creditório sobre os bens da Cooperativa.
 
 § único. Se, nos termos do aval prestado, a provinda de Angola tiver de fazer quaisquer pagamentos, os créditos daí resultantes vencerão o juro à taxa de redesconto em vigor no banco emissor da província.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

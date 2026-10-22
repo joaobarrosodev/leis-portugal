@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48277-1968-234774
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e856850f184e1e03ecd00bb2bc1e3df0c5670d11e22086597716dcd67daf6567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9072142a908e289eb46d129d98ad209d7c77ac7fa9da81c526fe91eaa064bc4f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:310245:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:31Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +118,15 @@ Disposições especiais
 
 A) S. Tomé e Príncipe
 
-###### Artigo 1.º No quadro complementar de cirurgiões, especialistas e internistas dos Serviços de Saúde e Assistência é criado um lugar de médico obstetra.
+Artigo 1.º No quadro complementar de cirurgiões, especialistas e internistas dos Serviços de Saúde e Assistência é criado um lugar de médico obstetra.
 
-###### Art. 2.º A designação funcional do piloto aviador chefe do quadro do pessoal técnico dos Serviços de Transportes Aéreos é substituída pela de piloto aviador chefe dos serviços.
+Art. 2.º A designação funcional do piloto aviador chefe do quadro do pessoal técnico dos Serviços de Transportes Aéreos é substituída pela de piloto aviador chefe dos serviços.
 
-###### Art. 3.º Aos cargos de piloto aviador chefe dos serviços e de primeiro-piloto aviador dos serviços referidos no artigo anterior são atribuídas, respectivamente, as letras F e J, a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
+Art. 3.º Aos cargos de piloto aviador chefe dos serviços e de primeiro-piloto aviador dos serviços referidos no artigo anterior são atribuídas, respectivamente, as letras F e J, a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
 
 B) Angola
 
-###### Art. 4.º No quadro comum administrativo, de enfermagem e de serviço social dos Serviços de Saúde e Assistência são criados os seguintes lugares:
+Art. 4.º No quadro comum administrativo, de enfermagem e de serviço social dos Serviços de Saúde e Assistência são criados os seguintes lugares:
 
 A) Pessoal de nomeação:
 
@@ -116,29 +136,29 @@ B) Pessoal contratado:
 
 1 de adjunto administrativo - Letra E.
 
-###### Art. 5.º São ratificados os artigos 45.º a 48.º do Diploma Legislativo n.º 3721, de 12 de Maio de 1967, e o Diploma Legislativo n.º 3725, de 16 do mesmo mês e ano.
+Art. 5.º São ratificados os artigos 45.º a 48.º do Diploma Legislativo n.º 3721, de 12 de Maio de 1967, e o Diploma Legislativo n.º 3725, de 16 do mesmo mês e ano.
 
 C) Moçambique
 
-###### Art. 6.º No quadro comum administrativo, de enfermagem e de serviço social dos Serviços de Saúde e Assistência é criado o seguinte lugar:
+Art. 6.º No quadro comum administrativo, de enfermagem e de serviço social dos Serviços de Saúde e Assistência é criado o seguinte lugar:
 
 A) Pessoal de nomeação:
 
 1 de chefe de secretaria - Letra I.
 
-###### Art. 7.º Enquanto não for criado nos Serviços de Fazenda e Contabilidade da província o serviço de contribuições e impostos, os secretários de Fazenda serão nomeados por escolha do governador-geral, sob proposta do director provincial de Fazenda e Contabilidade, de entre os funcionários da respectiva classe que, tendo boas informações de serviço, hajam demonstrado especial aptidão para o exercício do cargo.
+Art. 7.º Enquanto não for criado nos Serviços de Fazenda e Contabilidade da província o serviço de contribuições e impostos, os secretários de Fazenda serão nomeados por escolha do governador-geral, sob proposta do director provincial de Fazenda e Contabilidade, de entre os funcionários da respectiva classe que, tendo boas informações de serviço, hajam demonstrado especial aptidão para o exercício do cargo.
 
 § 1.º As comissões terão a duração de quatro anos, mas em qualquer tempo poderão ser dadas por findas por conveniência do serviço.
 
 § 2.º O funcionário nomeado, em comissão, secretário de Fazenda não poderá exercer idêntico cargo no mesmo concelho ou circunscrição senão depois de decorridos quatro anos do termo da anterior comissão.
 
-###### Art. 8.º As comissões dos actuais secretários de Fazenda poderão ser prorrogadas por mais um ano, quando circunstâncias imperiosas o justificarem.
+Art. 8.º As comissões dos actuais secretários de Fazenda poderão ser prorrogadas por mais um ano, quando circunstâncias imperiosas o justificarem.
 
 D) Macau
 
-###### Art. 9.º No quadro do pessoal assalariado permanente das residências do Governo da província são criados os lugares de cozinheiro-chefe e de copeiro-chefe, os quais, para efeitos de atribuição de salários, são equiparados ao grupo X a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
+Art. 9.º No quadro do pessoal assalariado permanente das residências do Governo da província são criados os lugares de cozinheiro-chefe e de copeiro-chefe, os quais, para efeitos de atribuição de salários, são equiparados ao grupo X a que se refere o artigo 90.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 10.º Os intérpretes da língua inglesa e os letrados chineses que actualmente prestam serviço na Comissão de Censura à Imprensa passam a ter as designações adiante indicadas e serão equiparados às seguintes letras do artigo 90.º do Estatuto do Funcionalismo Ultramarino para efeito de abono de remunerações:
+Art. 10.º Os intérpretes da língua inglesa e os letrados chineses que actualmente prestam serviço na Comissão de Censura à Imprensa passam a ter as designações adiante indicadas e serão equiparados às seguintes letras do artigo 90.º do Estatuto do Funcionalismo Ultramarino para efeito de abono de remunerações:
 
 Primeiro-intérprete da língua inglesa - Letra Q;
 
@@ -152,7 +172,7 @@ Terceiro-intérprete da língua chinesa - Letra S.
 
 § único. Fica o Governo da província autorizado a regular as condições em que o actual pessoal transitará para as novas designações referidas no corpo do artigo.
 
-###### Art. 11.º Na Obra Social dos Serviços de Marinha são atribuídas as seguintes gratificações mensais, que constituirão encargo do orçamento privativo daquele organismo:
+Art. 11.º Na Obra Social dos Serviços de Marinha são atribuídas as seguintes gratificações mensais, que constituirão encargo do orçamento privativo daquele organismo:
 
 Ao tesoureiro, para falhas ... 142$50
 
@@ -162,7 +182,7 @@ Ao fiel da cantina ... 237$50
 
 Ao cantineiro ... 118$75
 
-###### Art. 12.º É suspensa na província a execução do disposto no § 4.º do artigo 3.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, com a redacção que lhe foi dada pelo artigo 8.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954.
+Art. 12.º É suspensa na província a execução do disposto no § 4.º do artigo 3.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, com a redacção que lhe foi dada pelo artigo 8.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954.
 
 § único. A suspensão referida no corpo do artigo tem efeitos desde Setembro de 1967, inclusive.
 
@@ -170,27 +190,27 @@ II
 
 Disposições comuns
 
-###### Art. 13.º Ao artigo 34.º do Decreto 45818, de 15 de Julho de 1964, são aditados os n.os 5.º e 6.º, com a seguinte redacção:
+Art. 13.º Ao artigo 34.º do Decreto 45818, de 15 de Julho de 1964, são aditados os n.os 5.º e 6.º, com a seguinte redacção:
 
 5.º Para a frequência dos cursos de ajudante técnico de farmácia e de preparador de laboratório mencionados no n.º 3.º, alínea c), podem também ser admitidos indivíduos habilitados com o curso de auxiliar de preparador químico das escolas industriais.
 
 6.º No caso previsto no número anterior, a inscrição far-se-á no 2.º ano dos respectivos cursos, ficando os alunos obrigados a frequentar conjuntamente a disciplina de Galénica do 1.º ano do curso de ajudante técnico de farmácia e a disciplina de Biologia do 1.º ano do curso de preparador de laboratório.
 
-###### Art. 14.º Passam a constituir encargo dos orçamentos gerais das províncias ultramarinas de Angola e Moçambique as pensões de aposentação, provisórias e definitivas, e, bem assim, as dos pensionistas e sinistrados, concedidas ao pessoal das extintas Juntas do Comércio Externo daquelas províncias.
+Art. 14.º Passam a constituir encargo dos orçamentos gerais das províncias ultramarinas de Angola e Moçambique as pensões de aposentação, provisórias e definitivas, e, bem assim, as dos pensionistas e sinistrados, concedidas ao pessoal das extintas Juntas do Comércio Externo daquelas províncias.
 
 § único. Os saldos dos descontos para compensação de aposentação efectuados àqueles servidores pelas extintas Juntas do Comércio Externo serão imediatamente apurados, dando entrada nas Caixas do Tesouro das respectivas províncias.
 
-###### Art. 15.º Aos chefes de secção de contabilidade dos Serviços Hidráulicos das províncias de Angola e Moçambique é atribuída a gratificação especial mensal de 500$00.
+Art. 15.º Aos chefes de secção de contabilidade dos Serviços Hidráulicos das províncias de Angola e Moçambique é atribuída a gratificação especial mensal de 500$00.
 
-###### Art. 16.º O § 2.º do artigo 38.º e o artigo 39.º do [Decreto n.º 47657](https://diariodarepublica.pt/dr/detalhe/decreto/47657-1967-310245), de 28 de Abril de 1967, passam a ter a seguinte redacção:
+Art. 16.º O § 2.º do artigo 38.º e o artigo 39.º do [Decreto n.º 47657](https://diariodarepublica.pt/dr/detalhe/decreto/47657-1967-310245), de 28 de Abril de 1967, passam a ter a seguinte redacção:
 
-###### Art. 38.º ...
+Art. 38.º ...
 
 § 1.º ...
 
 § 2.º Incluem-se também neste regime os mecânicos, os condutores de automóveis, os condutores de automóveis auxiliares de 1.ª, 2.ª e 3.ª classe, os serralheiros de 1.ª e 2.ª classe e os auxiliares de administração cujo regime de trabalho se exerça nos sectores.
 
-###### Art. 39.º O pessoal indicado no artigo 38.º e seus parágrafos tem direito, quando em exercício na província, além do vencimento e abono de família, a uma gratificação mensal por ocupação exclusiva, escalonada com segue:
+Art. 39.º O pessoal indicado no artigo 38.º e seus parágrafos tem direito, quando em exercício na província, além do vencimento e abono de família, a uma gratificação mensal por ocupação exclusiva, escalonada com segue:
 
 Para os grupos D a F ... 4500$00
 
@@ -200,17 +220,17 @@ Para os grupos R a U ... 1000$00
 
 Para os grupos V a Z' ... 600$00
 
-###### Art. 17.º Na integração nos orçamentos gerais e nas contas públicas das províncias ultramarinas das receitas e despesas dos serviços autónomos, em execução do disposto no artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e artigo 5.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954, serão excluídas as verbas de receita e despesa extraordinárias que já figurem nos mesmos orçamentos gerais e respectivas contas de execução orçamental.
+Art. 17.º Na integração nos orçamentos gerais e nas contas públicas das províncias ultramarinas das receitas e despesas dos serviços autónomos, em execução do disposto no artigo 22.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e artigo 5.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954, serão excluídas as verbas de receita e despesa extraordinárias que já figurem nos mesmos orçamentos gerais e respectivas contas de execução orçamental.
 
-###### Art. 18.º Os actuais artigo 164.º e seu § único do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, são substituídos pelas seguintes disposições:
+Art. 18.º Os actuais artigo 164.º e seu § único do [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, são substituídos pelas seguintes disposições:
 
-###### Art. 164.º No caso de o hospital não dispor de meios especializados para estudo e tratamento de determinada doença, poderão os beneficiários referidos nos artigos 143.º e 144.º deste regulamento, quando internados, ser enviados, por recomendação fundamentada do médico assistente, a departamento especializado para, em regime ambulatório, serem observados ou mesmo tratados, correndo por conta do hospital ou das províncias ultramarinas as respectivas despesas, conforme se trate de funcionários e suas famílias do Ministério do Ultramar, seus organismos dependentes e consultivos, e de doentes pobres vindos do ultramar nos termos em que se dispõe no § 2.º do supracitado artigo 144.º ou de funcionários e suas famílias das províncias ultramarinas.
+Art. 164.º No caso de o hospital não dispor de meios especializados para estudo e tratamento de determinada doença, poderão os beneficiários referidos nos artigos 143.º e 144.º deste regulamento, quando internados, ser enviados, por recomendação fundamentada do médico assistente, a departamento especializado para, em regime ambulatório, serem observados ou mesmo tratados, correndo por conta do hospital ou das províncias ultramarinas as respectivas despesas, conforme se trate de funcionários e suas famílias do Ministério do Ultramar, seus organismos dependentes e consultivos, e de doentes pobres vindos do ultramar nos termos em que se dispõe no § 2.º do supracitado artigo 144.º ou de funcionários e suas famílias das províncias ultramarinas.
 
 § 1.º Se as condições de tratamento obrigarem a internamento noutro estabelecimento hospitalar especializado, a respectiva despesa será de conta do hospital ou das províncias ultramarinas, como previsto no artigo 146.º do presente regulamento, quando se trate das doenças referidas do § 2.º do seu artigo 144.º e, ainda, nos casos de doenças do foro da neurocirurgia, da cirurgia vascular, da cirurgia auditiva e do foro oftalmológico no âmbito da radioterapia e das queroplastias.
 
 § 2.º Em todas as restantes situações as despesas com o internamento noutro estabelecimento hospitalar mesmo especializado serão de conta do beneficiário.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 16 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

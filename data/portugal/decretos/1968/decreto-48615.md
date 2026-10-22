@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48615-1968-264477
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2d67e8211ccfb2bb43127a6ad6daebe2e8df3588dd1a0783c44c300a5848cdc4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6406374b86740153fb91424365b3c759fdbccb0d4cde0b297ed4640faa66e50c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:14Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +88,9 @@ Tendo em vista as disposições do artigo 6.º do Decreto n.º 48234, de 31 de J
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato para a execução da empreitada de instalação de pára-raios na oficina de reparação de propulsores Triton III, O. G. M. A., Alverca, pela importância de 630147$50.
+Artigo 1.º É autorizado o conselho administrativo da Direcção do Serviço de Infra-Estruturas da Força Aérea a celebrar contrato para a execução da empreitada de instalação de pára-raios na oficina de reparação de propulsores Triton III, O. G. M. A., Alverca, pela importância de 630147$50.
 
-###### Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
+Art. 2.º O encargo resultante da execução do contrato referido no artigo anterior não poderá, em cada ano, exceder as seguintes quantias:
 
 Em 1968 ... 441103$20
 
@@ -98,6 +98,6 @@ Em 1969 ... 189044$30
 
 § único. A importância fixada para o ano seguinte será acrescida do saldo apurado no ano que lhe antecede.
 
-**Publique-se o cumpra-se como nele se contém.**
+Publique-se o cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - Fernando Alberto de Oliveira.

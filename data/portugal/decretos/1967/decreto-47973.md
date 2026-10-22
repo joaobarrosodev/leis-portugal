@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1967/09/22900/17561764.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,80 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47973-1967-391661
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e99ea619b3a11d7c326c8fd6998b35c110cd4d7941cf5579524a2c22d6900275
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4713ac9d137920cc3cdfef3aeaa6a0897e29f6a57391b23015a4b6d16655a330
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Concurso Público
+- Contrato de Concessão
+- Definição de Competências
+- Direcção Geral de Minas e Serviços Geológicos
+- Fiscalização
+- Petróleo
+- Prospecção de Petróleo
+- Regime Jurídico
 relationships:
 - type: amended_by
   target: pt:dre:571214:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:470447:por
+  label: "Alterada a al. a) do art. 9.º, pelo DEC LEI.266/80.1980.08.07.MIE DR.IS [181]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/266-1980-470447
+  date: '1980-08-07'
+- type: amended_by
+  target: pt:dre:421775:por
+  label: "Alterado pelo DEC LEI.215/87.1987.05.29.PCM, DR.IS [123]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/215-1987-421775
+  date: '1987-05-29'
+- type: cites
+  target: pt:dre:183406:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:306194:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:693240:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:412440:por
+  label: "Revogados os arts. 7.º, 12.º, 38.º, 39.º, 47.º e 49.º pelo DEC LEI.96/74.1974.03.13.MECO DG.IS [61]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/96-1974-412440
+  date: '1974-03-13'
+- type: repealed_by
+  target: pt:dre:571214:por
+  label: "Revogado pelo DEC LEI.141/90.1990.05.02.MIE DR.IS [100]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/141-1990-571214
+  date: '1990-05-02'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:51Z'
   warnings: []
   errors: []
 ---
@@ -157,21 +197,21 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 #### SECÇÃO I — Atribuição das concessões
 
-###### Artigo 1.º (Objecto. Definição de petróleo). - As concessões para aproveitamento de petróleo na plataforma continental metropolitana a que se refere a [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), de 21 de Março de 1956, serão outorgadas por contrato, com observância do disposto nas bases II a IV da mesma lei, nos termos dos artigos seguintes.
+Artigo 1.º (Objecto. Definição de petróleo). - As concessões para aproveitamento de petróleo na plataforma continental metropolitana a que se refere a [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), de 21 de Março de 1956, serão outorgadas por contrato, com observância do disposto nas bases II a IV da mesma lei, nos termos dos artigos seguintes.
 
 § único. Para efeitos do presente diploma, entende-se por petróleo toda a concentração ou mistura natural de hidrocarbonetos líquidos ou gasosos, incluindo todas as substâncias de qualquer outra natureza que com eles se encontrem em combinação, suspensão ou mistura. Ficam excluídos os hidrocarbonetos sólidos naturais, assim como todas as concentrações cuja exploração só possa ser feita através da extracção das próprias rochas.
 
-###### Art. 2.º (Divisão da plataforma continental). - A plataforma continental mencionada no artigo antecedente divide-se em blocos, conforme mapa arquivado na Direcção-Geral de Minas e Serviços Geológicos. Os blocos têm a extensão de 6' de longitude por 5' de latitude, excepto quando atingidos pela linha de costa, pela batimétrica de 200 m ou pela linha de fronteira marítima, casos estes em que tais linhas definem limites dos blocos.
+Art. 2.º (Divisão da plataforma continental). - A plataforma continental mencionada no artigo antecedente divide-se em blocos, conforme mapa arquivado na Direcção-Geral de Minas e Serviços Geológicos. Os blocos têm a extensão de 6' de longitude por 5' de latitude, excepto quando atingidos pela linha de costa, pela batimétrica de 200 m ou pela linha de fronteira marítima, casos estes em que tais linhas definem limites dos blocos.
 
-###### Art. 3.º (Formas de atribuição da concessão. Área da concessão). - Precedendo autorização do Conselho de Ministros, o Ministério da Economia, quando o entender conveniente, promoverá a abertura de concurso público ou a realização de negociações particulares para a outorga de concessões com o exclusivo de licença para prospecção, pesquisa e exploração de petróleo em áreas definidas, compreendendo determinados blocos da plataforma continental. O processo correrá seus termos pela Secretaria de Estado da Indústria, que, após as diligências e formalidades necessárias, o submeterá à apreciação e decisão do Conselho de Ministros.
+Art. 3.º (Formas de atribuição da concessão. Área da concessão). - Precedendo autorização do Conselho de Ministros, o Ministério da Economia, quando o entender conveniente, promoverá a abertura de concurso público ou a realização de negociações particulares para a outorga de concessões com o exclusivo de licença para prospecção, pesquisa e exploração de petróleo em áreas definidas, compreendendo determinados blocos da plataforma continental. O processo correrá seus termos pela Secretaria de Estado da Indústria, que, após as diligências e formalidades necessárias, o submeterá à apreciação e decisão do Conselho de Ministros.
 
 § único. A área de cada concessão compreenderá, no máximo, doze blocos, formando tanto quanto possível, um conjunto compacto. A uma mesma entidade poderão ser atribuídas várias concessões.
 
-###### Art. 4.º (Concurso público). - Em concurso público, as concessões serão atribuídas ao concorrente de comprovada capacidade técnica e financeira cuja proposta seja considerada mais vantajosa para o País.
+Art. 4.º (Concurso público). - Em concurso público, as concessões serão atribuídas ao concorrente de comprovada capacidade técnica e financeira cuja proposta seja considerada mais vantajosa para o País.
 
 O Governo reserva-se o direito de não aceitar nenhuma das propostas.
 
-###### Art. 5.º (Condições do concurso). - Nos concursos públicos, além das condições que podem ser fixadas em cada caso, será sempre exigido de cada concorrente:
+Art. 5.º (Condições do concurso). - Nos concursos públicos, além das condições que podem ser fixadas em cada caso, será sempre exigido de cada concorrente:
 
 a) Programa mínimo de trabalhos, com estimativa dos respectivos custos, para um período de seis anos, que servirá de base à fixação dos programas definitivos;
 
@@ -185,11 +225,11 @@ e) Documento comprovativo de o concorrente ter depositado na Caixa Geral de Dep�
 
 O depósito provisório tornar-se-á definitivo para o concorrente a quem for feita a adjudicação, revertendo então para o Estado.
 
-###### Art. 6.º (Negociações particulares). - Nas negociações particulares ajustar-se-ão os termos da concessão, tendo-se em conta o disposto no artigo antecedente, devendo o depósito nele referido ser feito em data anterior à atribuição da concessão.
+Art. 6.º (Negociações particulares). - Nas negociações particulares ajustar-se-ão os termos da concessão, tendo-se em conta o disposto no artigo antecedente, devendo o depósito nele referido ser feito em data anterior à atribuição da concessão.
 
 #### SECÇÃO II — Duração da concessão
 
-###### Art. 7.º (Período inicial. Condições de prorrogação). - A concessão terá a duração de 6 anos, contados a partir da data da assinatura do respectivo contrato. O concessionário terá direito à prorrogação da concessão por mais 40 anos se tiver cumprido integralmente o programa de trabalhos e observado todas as disposições deste decreto e as especiais do respectivo contrato.
+Art. 7.º (Período inicial. Condições de prorrogação). - A concessão terá a duração de 6 anos, contados a partir da data da assinatura do respectivo contrato. O concessionário terá direito à prorrogação da concessão por mais 40 anos se tiver cumprido integralmente o programa de trabalhos e observado todas as disposições deste decreto e as especiais do respectivo contrato.
 
 § 1.º A prorrogação deve ser requerida ao Secretário de Estado da Indústria até três meses antes de terminar o período inicial de seis anos.
 
@@ -205,37 +245,37 @@ O concessionário indicará, em requerimento a apresentar ao Secretário de Esta
 
 § 4.º Em qualquer prorrogação, o concessionário fica obrigado a desenvolver as actividades de prospecção, pesquisa e exploração adequadas à rápida valorização de toda a concessão, em conformidade com planos anuais que sejam aprovados pelo Secretário de Estado da Indústria, ouvida a Direcção-Geral de Minas e Serviços Geológicos e o Instituto Hidrográfico.
 
-###### Art. 8.º (Prorrogação excepcional). - A prorrogação para além do período de 40 anos fixado no artigo anterior poderá ser excepcionalmente autorizada pelo Conselho de Ministros para os Assuntos Económicos, mediante proposta do Ministério da Economia, quando houver fundadas razões para crer que um jazigo de petróleo se manterá em produção para além daquele período.
+Art. 8.º (Prorrogação excepcional). - A prorrogação para além do período de 40 anos fixado no artigo anterior poderá ser excepcionalmente autorizada pelo Conselho de Ministros para os Assuntos Económicos, mediante proposta do Ministério da Economia, quando houver fundadas razões para crer que um jazigo de petróleo se manterá em produção para além daquele período.
 
 A pretensão deverá ser requerida pelo concessionário com, pelo menos, dois anos de antecedência sobre a data da expiração do prazo da concessão.
 
 § único. As condições especiais da prorrogação serão fixadas pelo Conselho de Ministros.
 
-###### Art. 9.º (Renúncia). - Em qualquer momento, o concessionário pode renunciar aos seus direitos sobre a área da respectiva concessão. A renúncia não dispensa o concessionário do cumprimento de quaisquer obrigações ou responsabilidades impostas ou resultantes deste diploma ou de condições especiais que lhe tiverem sido fixadas no respectivo contrato e obedecerá às seguintes condições:
+Art. 9.º (Renúncia). - Em qualquer momento, o concessionário pode renunciar aos seus direitos sobre a área da respectiva concessão. A renúncia não dispensa o concessionário do cumprimento de quaisquer obrigações ou responsabilidades impostas ou resultantes deste diploma ou de condições especiais que lhe tiverem sido fixadas no respectivo contrato e obedecerá às seguintes condições:
 
 a) Durante o período inicial de seis anos, a renúncia tornar-se-á efectiva um ano depois da apresentação da respectiva declaração na Direcção-Geral de Minas e Serviços Geológicos e respeitará a toda a área da concessão. Excepcionalmente, porém, poderá o Secretário de Estado da Indústria aceitar a renúncia em relação a uma parte da área inicial, desde que o concessionário apresente um programa revisto, que mereça aprovação, para a área que pretende conservar;
 
 b) Durante o período de prorrogação por 40 anos, a renúncia tornar-se-á efectiva 3 meses depois da apresentação da respectiva declaração na Direcção-Geral de Minas e Serviços Geológicos, podendo ser livremente exercida, quer em relação à totalidade, quer a parte da área da concessão.
 
-###### Art. 10.º (Constituição da área ocupada). - Em todas as reduções da área da concessão, por imposição legal ou renúncia parcial, a área mantida pelo concessionário só pode ser formada por blocos completos.
+Art. 10.º (Constituição da área ocupada). - Em todas as reduções da área da concessão, por imposição legal ou renúncia parcial, a área mantida pelo concessionário só pode ser formada por blocos completos.
 
-###### Art. 11.º (Inalienabilidade dos direitos concedidos). - O concessionário não poderá, sem prévia autorização do Conselho de Ministros, alienar ou por qualquer forma transmitir, quer na totalidade, quer em parte, os direitos concedidos, nem fazer subconcessões relativamente à área ou parte da área da sua concessão.
+Art. 11.º (Inalienabilidade dos direitos concedidos). - O concessionário não poderá, sem prévia autorização do Conselho de Ministros, alienar ou por qualquer forma transmitir, quer na totalidade, quer em parte, os direitos concedidos, nem fazer subconcessões relativamente à área ou parte da área da sua concessão.
 
 ### CAPÍTULO II — Das actividades mineiras
 
 #### SECÇÃO I — Execução dos trabalhos
 
-###### Art. 12.º (Plano anual de trabalhos). - Até ao fim do mês de Novembro de cada ano será apresentado na Direcção-Geral de Minas e Serviços Geológicos um plano de trabalhos a executar durante o ano seguinte.
+Art. 12.º (Plano anual de trabalhos). - Até ao fim do mês de Novembro de cada ano será apresentado na Direcção-Geral de Minas e Serviços Geológicos um plano de trabalhos a executar durante o ano seguinte.
 
-###### Art. 13.º (Alterações dos programas). - As alterações dos programas de prospecção, pesquisa e exploração aprovados carecerão de prévia autorização escrita da Direcção-Geral de Minas e Serviços Geológicos.
+Art. 13.º (Alterações dos programas). - As alterações dos programas de prospecção, pesquisa e exploração aprovados carecerão de prévia autorização escrita da Direcção-Geral de Minas e Serviços Geológicos.
 
-###### Art. 14.º (Trabalhos em áreas adjacentes. - Em circunstâncias especiais e na falta de acordo entre os concessionários interessados, pode o Secretário de Estado da Indústria autorizar que numa área concedida os titulares de concessões de áreas adjacentes realizem os trabalhos necessários ao esclarecimento das estruturas geológicas das suas áreas.
+Art. 14.º (Trabalhos em áreas adjacentes. - Em circunstâncias especiais e na falta de acordo entre os concessionários interessados, pode o Secretário de Estado da Indústria autorizar que numa área concedida os titulares de concessões de áreas adjacentes realizem os trabalhos necessários ao esclarecimento das estruturas geológicas das suas áreas.
 
-**O Secretário de Estado da Indústria, depois de ouvido o concessionário da área onde se pretende os trabalhos de esclarecimento, decidirá qual o tipo desses trabalhos, a zona da sua localização e o período durante o qual serão permitidos.**
+O Secretário de Estado da Indústria, depois de ouvido o concessionário da área onde se pretende os trabalhos de esclarecimento, decidirá qual o tipo desses trabalhos, a zona da sua localização e o período durante o qual serão permitidos.
 
-###### Art. 15.º (Projecto de sondagem). - Nenhuma sondagem poderá ter início, nem ser retomada depois de abandonada, sem ter sido prèviamente aprovado pela Direcção-Geral de Minas e Serviços Geológicos o respectivo projecto, ouvido prèviamente o Instituto Hidrográfico no que respeita à segurança da navegação.
+Art. 15.º (Projecto de sondagem). - Nenhuma sondagem poderá ter início, nem ser retomada depois de abandonada, sem ter sido prèviamente aprovado pela Direcção-Geral de Minas e Serviços Geológicos o respectivo projecto, ouvido prèviamente o Instituto Hidrográfico no que respeita à segurança da navegação.
 
-###### Art. 16.º (Execução, encerramento ou abandono de sondagens). - As condições para a execução, encerramento ou abandono das sondagens poderão ser fixadas pela Direcção-Geral de Minas e Serviços Geológicos, que, sempre que o entender conveniente para fins de fiscalização da profundidade, direcção, entubamento, obturação ou estancação, fará examinar a sondagem e respectivos registos, nas condições e por quem a mesma Direcção-Geral repute convenientes, ficando todas as despesas daí resultantes a cargo exclusivo do concessionário.
+Art. 16.º (Execução, encerramento ou abandono de sondagens). - As condições para a execução, encerramento ou abandono das sondagens poderão ser fixadas pela Direcção-Geral de Minas e Serviços Geológicos, que, sempre que o entender conveniente para fins de fiscalização da profundidade, direcção, entubamento, obturação ou estancação, fará examinar a sondagem e respectivos registos, nas condições e por quem a mesma Direcção-Geral repute convenientes, ficando todas as despesas daí resultantes a cargo exclusivo do concessionário.
 
 O encerramento de qualquer sondagem deve ser executado com eficiência e segurança e só pode ser efectuado após aprovação, por aquela Direcção-Geral, do respectivo plano.
 
@@ -243,9 +283,9 @@ Nenhuma sondagem poderá ser abandonada sem prévio consentimento escrito da ref
 
 § único. O encerramento das sondagens na fase final da concessão deve executar-se não menos do que um mês nem mais do que três meses antes de expirarem ou caducarem os direitos do concessionário da área em que as sondagens se encontrem, calvo se a referida Direcção-Geral autorizar ou determinar diferentemente.
 
-###### Art. 17.º (Distância das sondagens aos limites da área concedida). - Nenhuma sondagem poderá ser perfurada ou conduzida a uma distância inferior a 100 m dos limites da área da respectiva concessão, podendo, contudo, esta distância ser diminuída pela Direcção-Geral de Minas e Serviços Geológicos em casos especiais que o justifiquem.
+Art. 17.º (Distância das sondagens aos limites da área concedida). - Nenhuma sondagem poderá ser perfurada ou conduzida a uma distância inferior a 100 m dos limites da área da respectiva concessão, podendo, contudo, esta distância ser diminuída pela Direcção-Geral de Minas e Serviços Geológicos em casos especiais que o justifiquem.
 
-###### Art. 18.º (Exploração conjunta). - Quando se verificar que uma estrutura geológica petrolífera ou um jazigo de petróleo se estende por mais de uma área de concessão, poderá o Secretário de Estado da Indústria, por motivo de interesse nacional na obtenção da maior recuperação final de petróleo, impor que os respectivos trabalhos sejam executados em regime de operação conjunta pelos concessionários em cujas áreas ocorra essa estrutura ou jazigo petrolífero.
+Art. 18.º (Exploração conjunta). - Quando se verificar que uma estrutura geológica petrolífera ou um jazigo de petróleo se estende por mais de uma área de concessão, poderá o Secretário de Estado da Indústria, por motivo de interesse nacional na obtenção da maior recuperação final de petróleo, impor que os respectivos trabalhos sejam executados em regime de operação conjunta pelos concessionários em cujas áreas ocorra essa estrutura ou jazigo petrolífero.
 
 Neste caso, os concessionários, após notificação da Direcção-Geral de Minas e Serviços Geológicos, por carta registada com aviso de recepção, deverão cooperar na preparação de um plano de trabalhos para o campo petrolífero ser aproveitado como uma unidade, e submeter, em conjunto, esse plano à aprovação do Secretário de Estado da Indústria.
 
@@ -253,7 +293,7 @@ A notificação acima referida indicará a área ou áreas a respeito das quais 
 
 Se, dentro do prazo fixado na notificação, não vier a ser apresentado o plano de exploração conjunta ou se o plano apresentado não for aprovado, o Secretário de Estado da Indústria estipulará as regras de exploração conjunta, em termos razoáveis e equitativos, que deverão ser observados por todos os concessionários interessados nessa exploração.
 
-###### Art. 19.º (Métodos de trabalho. Cautelas a observar). - Constitui obrigação do concessionário manter todos os seus equipamentos, instrumentos, instalações e sondagens em perfeito estado de conservação e segurança, cumprindo-lhe executar todas as operações por forma cautelosa e adequada, de acordo com as boas normas da técnica do petróleo, e, sem prejuízo do que tenha sido regulamentado, praticar todos os actos tendentes a:
+Art. 19.º (Métodos de trabalho. Cautelas a observar). - Constitui obrigação do concessionário manter todos os seus equipamentos, instrumentos, instalações e sondagens em perfeito estado de conservação e segurança, cumprindo-lhe executar todas as operações por forma cautelosa e adequada, de acordo com as boas normas da técnica do petróleo, e, sem prejuízo do que tenha sido regulamentado, praticar todos os actos tendentes a:
 
 a) Controlar o fluxo e evitar a fuga ou perda de petróleo ou gás descoberto ou obtido na área da sua concessão;
 
@@ -269,25 +309,25 @@ e) Impedir a fuga de petróleo ou gás para as águas da sua concessão ou para 
 
 § 2.º Serão comunicados à referida Direcção-Geral quaisquer factos que originem a fuga ou a perda de petróleo e quaisquer danos causados aos horizontes petrolíferos ou a entrada de água nesses mesmos horizontes, excepto se se tratar de operação de recuperação secundária. A respectiva comunicação deve ser feita dentro de 24 horas e confirmada por escrito no prazo de três dias, no caso de a primeira não ter sido feita por esta forma.
 
-###### Art. 20.º (Armazenagem, condutas e outras instalações). - Os concessionários utilizarão os métodos e práticas usuais na boa técnica petrolífera para manter o petróleo extraído em reservatórios, condutas e outros meios adequados a tal fim.
+Art. 20.º (Armazenagem, condutas e outras instalações). - Os concessionários utilizarão os métodos e práticas usuais na boa técnica petrolífera para manter o petróleo extraído em reservatórios, condutas e outros meios adequados a tal fim.
 
 A colocação de condutas, cabos e outros equipamentos ou instalações relacionados com extracção, tratamento, transporte e armazenagem obedecerão a condições que estiverem ou forem fixadas, carecendo sempre de aprovação pelo Secretário de Estado da Indústria, ouvido o Ministério da Marinha, e correndo o licenciamento seus termos pela Direcção-Geral de Minas e Serviços Geológicos.
 
-###### Art. 21.º (Utilização da área por terceiros). - Os concessionários não poderão opor-se ao assentamento nas áreas das suas concessões de condutas, cabos e outros equipamentos e ainda, se as condições especiais o exigirem, de instalações de armazenagem, por concessionários de outras áreas que para tal tenham obtido as necessárias licenças.
+Art. 21.º (Utilização da área por terceiros). - Os concessionários não poderão opor-se ao assentamento nas áreas das suas concessões de condutas, cabos e outros equipamentos e ainda, se as condições especiais o exigirem, de instalações de armazenagem, por concessionários de outras áreas que para tal tenham obtido as necessárias licenças.
 
 Estas licenças não serão concedidas sem prèviamente ser ouvido o concessionário da área a que respeitem e, quando deferidas, não podem ser utilizadas de modo a causarem perturbações ou danos desnecessários ao concessionário da área.
 
 A passagem ou assentamento na área de uma concessão das referidas instalações de outro concessionário, devidamente autorizadas, não confere ao titular daquela área direito a qualquer compensação, salvo nos casos em que, devido a circunstâncias especiais, a utilização da licença tenha ficado condicionada ao pagamento de compensação.
 
-###### Art. 22.º (Utilização de instalações por terceiros). - Por motivos de interesse nacional ou com vista a uma exploração mais racional, pode o Secretário de Estado da Indústria determinar que a utilização de condutas ou outras instalações seja facultada a terceiros, quando daí não advenham prejuízos ao proprietário, que, em todo o caso, terá direito à correspondente remuneração.
+Art. 22.º (Utilização de instalações por terceiros). - Por motivos de interesse nacional ou com vista a uma exploração mais racional, pode o Secretário de Estado da Indústria determinar que a utilização de condutas ou outras instalações seja facultada a terceiros, quando daí não advenham prejuízos ao proprietário, que, em todo o caso, terá direito à correspondente remuneração.
 
-###### Art. 23.º (Pesca, navegação e investigações científicas). - Não poderão realizar-se quaisquer operações, mesmo quando expressamente autorizadas, de forma a interferirem injustificadamente com a navegação, pesca ou com a conservação dos recursos vivos do mar ou a prejudicarem as investigações oceanográficas ou outras pesquisas científicas fundamentais, devendo ser prèviamente comunicado às autoridades marítimas os trabalhos que se pretende efectuar.
+Art. 23.º (Pesca, navegação e investigações científicas). - Não poderão realizar-se quaisquer operações, mesmo quando expressamente autorizadas, de forma a interferirem injustificadamente com a navegação, pesca ou com a conservação dos recursos vivos do mar ou a prejudicarem as investigações oceanográficas ou outras pesquisas científicas fundamentais, devendo ser prèviamente comunicado às autoridades marítimas os trabalhos que se pretende efectuar.
 
-###### Art. 24.º (Normas de segurança). - Serão observadas as normas de segurança aconselháveis nos trabalhos, transportes, instalações e locais onde as operações estejam em curso, devendo o concessionário dar cumprimento às instruções escritas que lhe sejam comunicadas pela Direcção-Geral de Minas e Serviços Geológicos com o objectivo de garantir a segurança, saúde e bem-estar das pessoas ocupadas não só na respectiva área, mas também na sua vizinhança.
+Art. 24.º (Normas de segurança). - Serão observadas as normas de segurança aconselháveis nos trabalhos, transportes, instalações e locais onde as operações estejam em curso, devendo o concessionário dar cumprimento às instruções escritas que lhe sejam comunicadas pela Direcção-Geral de Minas e Serviços Geológicos com o objectivo de garantir a segurança, saúde e bem-estar das pessoas ocupadas não só na respectiva área, mas também na sua vizinhança.
 
 Para esse efeito, deverá ser ouvido o Ministério da Marinha, designadamente o Instituto Hidrográfico, no que respeita a problemas de sinalização, e a Direcção-Geral da Marinha, no respeitante a meios de salvamento.
 
-###### Art. 25.º (Zona de segurança). - Será estabelecida uma zona de segurança em redor e por cima das instalações e equipamentos, permanentes ou provisórios, tais como barcaças de sondagem ancoradas, plataformas de sondagem, bombas e outras instalações.
+Art. 25.º (Zona de segurança). - Será estabelecida uma zona de segurança em redor e por cima das instalações e equipamentos, permanentes ou provisórios, tais como barcaças de sondagem ancoradas, plataformas de sondagem, bombas e outras instalações.
 
 A zona de segurança será fixada pelo Ministério da Marinha, podendo estender-se até 500 m dos limites das instalações ou equipamentos a que diga respeito.
 
@@ -297,7 +337,7 @@ As instalações e equipamentos, bem como os limites superficiais da zona de seg
 
 #### SECÇÃO II — Meios de informação
 
-###### Art. 26.º (Registos das sondagens). - O concessionário deverá elaborar registos, segundo modelos a aprovar pela Direcção-Geral de Minas e Serviços Geológicos, da perfuração, aprofundamento, encerramento e abandono de todas as sondagens e de qualquer alteração nos respectivos entubamentos.
+Art. 26.º (Registos das sondagens). - O concessionário deverá elaborar registos, segundo modelos a aprovar pela Direcção-Geral de Minas e Serviços Geológicos, da perfuração, aprofundamento, encerramento e abandono de todas as sondagens e de qualquer alteração nos respectivos entubamentos.
 
 Tais registos serão tão pormenorizados quanto possível, especialmente no tocante a:
 
@@ -311,9 +351,9 @@ d) Qualquer petróleo, água ou substâncias minerais que tenham sido encontrada
 
 e) Quaisquer outras informações que aquela Direcção-Geral possa vir a pedir, no exercício das suas atribuições.
 
-###### Art. 27.º (Plantas e cartas geológicas). - O concessionário disporá de plantas e cartas geológicas precisas relativas à área concedida e de todos os registos necessários à conservação das informações que tenha obtido acerca da geologia da área da sua concessão, devendo entregar à Direcção-Geral de Minas e Serviços Geológicos, quando esta o determinar, cópias de todos esses registos, plantas e cartas. Uma destas cópias será enviada ao Instituto Hidrográfico.
+Art. 27.º (Plantas e cartas geológicas). - O concessionário disporá de plantas e cartas geológicas precisas relativas à área concedida e de todos os registos necessários à conservação das informações que tenha obtido acerca da geologia da área da sua concessão, devendo entregar à Direcção-Geral de Minas e Serviços Geológicos, quando esta o determinar, cópias de todos esses registos, plantas e cartas. Uma destas cópias será enviada ao Instituto Hidrográfico.
 
-###### Art. 28.º (Relatório mensal sobre o progresso dos trabalhos). - O concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos, conforme modelo por esta aprovado, um relatório, em triplicado, até ao dia 15 de cada mês, descrevendo o progresso dos trabalhos por ele efectuados no mês anterior. Tal relatório conterá, entre outras que o concessionário julgue pertinentes ou que aquela Direcção-Geral possa vir a solicitar, as seguintes informações:
+Art. 28.º (Relatório mensal sobre o progresso dos trabalhos). - O concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos, conforme modelo por esta aprovado, um relatório, em triplicado, até ao dia 15 de cada mês, descrevendo o progresso dos trabalhos por ele efectuados no mês anterior. Tal relatório conterá, entre outras que o concessionário julgue pertinentes ou que aquela Direcção-Geral possa vir a solicitar, as seguintes informações:
 
 a) Descrição das áreas que tenham sido objecto de qualquer trabalho com finalidade geológica, incluindo trabalhos de geofísica, geoquímica ou outros;
 
@@ -329,27 +369,27 @@ f) Todas as indicações que possam ser de interesse para o Estado, incluindo, e
 
 g) Todas as indicações disponíveis que, em caso de haver produção, possam ter interesse, tais como as relativas ao tipo, qualidade e quantidade dos produtos extraídos, juntamente com informações respeitantes ao tratamento, transporte, armazenagem e venda desses produtos.
 
-###### Art. 29.º (Relatório anual dos trabalhos). - No prazo de dois meses, a contar do fim de cada ano civil ou da expiração, caducidade ou prorrogação da respectiva concessão, o concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos um relatório, em triplicado, em moldes por esta aprovados, dos trabalhos realizados na área da concessão respectiva durante o ano precedente ou durante o período que tenha mediado entre o fim desse ano e a data da expiração, caducidade ou prorrogação da concessão, juntamente com as peças desenhadas que permitam apreciar a localização de todas as sondagens e mais trabalhos relacionados com a prospecção, pesquisa e exploração de petróleo.
+Art. 29.º (Relatório anual dos trabalhos). - No prazo de dois meses, a contar do fim de cada ano civil ou da expiração, caducidade ou prorrogação da respectiva concessão, o concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos um relatório, em triplicado, em moldes por esta aprovados, dos trabalhos realizados na área da concessão respectiva durante o ano precedente ou durante o período que tenha mediado entre o fim desse ano e a data da expiração, caducidade ou prorrogação da concessão, juntamente com as peças desenhadas que permitam apreciar a localização de todas as sondagens e mais trabalhos relacionados com a prospecção, pesquisa e exploração de petróleo.
 
 O concessionário entregará na referida Direcção-Geral, quando lhe forem solicitados, quaisquer outras informações e relatórios, designadamente sob a forma de plantas ou mapas, relativos aos trabalhos na respectiva área.
 
-###### Art. 30.º (Conservação da amostragem). - O concessionário, na medida em que tal seja realizável, conservará, devidamente etiquetadas, com indicação da data, local e profundidades da colheita, amostras do fundo do mar e das formações atravessadas em qualquer sondagem, bem como de qualquer petróleo ou água que tenham sido descobertos.
+Art. 30.º (Conservação da amostragem). - O concessionário, na medida em que tal seja realizável, conservará, devidamente etiquetadas, com indicação da data, local e profundidades da colheita, amostras do fundo do mar e das formações atravessadas em qualquer sondagem, bem como de qualquer petróleo ou água que tenham sido descobertos.
 
 A Direcção-Geral de Minas e Serviços Geológicos, ou qualquer pessoa ou entidade por ela devidamente incumbida, pode inspeccionar e analisar quaisquer amostras conservadas pelo concessionário e exigir que lhe seja entregue uma parte de cada amostra.
 
 ### CAPÍTULO III — Das medições e registos
 
-###### Art. 31.º (Medição do petróleo). - O concessionário medirá ou pesará todo o petróleo extraído e recuperado utilizando métodos correntes na boa prática dos trabalhos do petróleo e aprovados pela Direcção-Geral de Minas e Serviços Geológicos.
+Art. 31.º (Medição do petróleo). - O concessionário medirá ou pesará todo o petróleo extraído e recuperado utilizando métodos correntes na boa prática dos trabalhos do petróleo e aprovados pela Direcção-Geral de Minas e Serviços Geológicos.
 
 § 1.º Todas as alterações nos métodos de medição ou pesagem aprovados ou nos dispositivos utilizados para aquele fim ficam dependentes de consentimento escrito da referida Direcção-Geral.
 
 § 2.º A mesma Direcção-Geral, quando o entender, pode ordenar que qualquer dispositivo de medição ou pesagem seja ensaiado ou examinado nas condições, forma e períodos e pelas entidades que designar, cabendo ao concessionário a satisfação de todos os encargos de tais ensaios e exames.
 
-###### Art. 32.º (Cálculos de correcção). - Quando a Direcção-Geral de Minas e Serviços Geológicos verificar que os dispositivos ou métodos utilizados na pesagem ou medida conduzem a valores inferiores aos das quantidades produzidas, presumir-se-á que tais circunstâncias existiram a partir da realização da última operação de ensaio, a menos que haja fundadas razões para crer que elas já vinham ocorrendo há mais tempo.
+Art. 32.º (Cálculos de correcção). - Quando a Direcção-Geral de Minas e Serviços Geológicos verificar que os dispositivos ou métodos utilizados na pesagem ou medida conduzem a valores inferiores aos das quantidades produzidas, presumir-se-á que tais circunstâncias existiram a partir da realização da última operação de ensaio, a menos que haja fundadas razões para crer que elas já vinham ocorrendo há mais tempo.
 
 Se, porém, o concessionário provar que estas anomalias se verificaram durante um período mais curto e não foram intencionais nem devidas a negligência, os cálculos de correcção apenas considerarão esse período mais curto.
 
-###### Art. 33.º (Contabilização). - O concessionário deve manter, em moldes aprovados pela Direcção-Geral de Minas e Serviços Geológicos, escrituração completa referente a:
+Art. 33.º (Contabilização). - O concessionário deve manter, em moldes aprovados pela Direcção-Geral de Minas e Serviços Geológicos, escrituração completa referente a:
 
 a) Quantidades de petróleo, sob a forma de gás, extraído e recuperado;
 
@@ -359,7 +399,7 @@ c) Nomes e endereços das entidades a quem tenha fornecido petróleo, com indica
 
 d) Quaisquer outros elementos que venham a ser solicitados por aquela Direcção-Geral.
 
-###### Art. 34.º (Registos das quantidades de petróleo). - As quantidades de petróleo registadas excluirão a água que seja separada do petróleo, muito embora as quantidades de água devam também figurar nos registos, separadamente.
+Art. 34.º (Registos das quantidades de petróleo). - As quantidades de petróleo registadas excluirão a água que seja separada do petróleo, muito embora as quantidades de água devam também figurar nos registos, separadamente.
 
 Tratando-se de gás, deverá mencionar-se o volume em metros cúbicos referido à temperatura de zero graus centígrados e à pressão de um quilograma por centímetro quadrado.
 
@@ -369,9 +409,9 @@ Em qualquer outro caso, serão registados os pesos em toneladas métricas, deven
 
 § 2.º Deverá ser feita estimativa fundamentada das quantidades de petróleo que se percam por fuga.
 
-###### Art. 35.º (Relatório semestral dos registos efectuados). - O concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos, no prazo máximo de dois meses, a contar do fim de cada semestre referido ao ano civil ou do termo da respectiva concessão, relatório pormenorizado, em moldes aprovados por aquela Direcção-Geral, dos registos efectuados relativamente a cada semestre ou ao período anterior ao termo da concessão, conforme o caso.
+Art. 35.º (Relatório semestral dos registos efectuados). - O concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos, no prazo máximo de dois meses, a contar do fim de cada semestre referido ao ano civil ou do termo da respectiva concessão, relatório pormenorizado, em moldes aprovados por aquela Direcção-Geral, dos registos efectuados relativamente a cada semestre ou ao período anterior ao termo da concessão, conforme o caso.
 
-###### Art. 36.º (Indicação semestral de valores e quantidades dos produtos). - Nos prazos estabelecidos e em relação aos períodos referidos no artigo antecedente, o concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos cálculo preciso do valor dos produtos extraídos e declaração das quantidades de petróleo produzidas e vendidas durante o período em referência, bem como dos preços obtidos. Deverá também prestar informação completa sobre as quantidades destinadas a ulterior tratamento ou refinação e sobre os preços respectivos.
+Art. 36.º (Indicação semestral de valores e quantidades dos produtos). - Nos prazos estabelecidos e em relação aos períodos referidos no artigo antecedente, o concessionário apresentará na Direcção-Geral de Minas e Serviços Geológicos cálculo preciso do valor dos produtos extraídos e declaração das quantidades de petróleo produzidas e vendidas durante o período em referência, bem como dos preços obtidos. Deverá também prestar informação completa sobre as quantidades destinadas a ulterior tratamento ou refinação e sobre os preços respectivos.
 
 § 1.º Se nas operações de venda o concessionário receber ou obtiver outras formas de retribuição ou benefícios além do simples preço de venda deverá declará-lo expressamente.
 
@@ -381,23 +421,23 @@ O concessionário fornecerá indicações precisas relativamente a quaisquer cir
 
 ### CAPÍTULO IV — Do valor e da colocação do petróleo
 
-###### Art. 37.º (Valor dos produtos). - O valor dos produtos extraídos e recuperados, para efeitos de cálculo dos direitos de concessão, será determinado por acordo entre a Direcção-Geral de Minas e Serviços Geológicos e o concessionário, com base nas informações que para esse fim este tenha prestado e, também, em outras de que a Administração, por seu lado, possa dispor.
+Art. 37.º (Valor dos produtos). - O valor dos produtos extraídos e recuperados, para efeitos de cálculo dos direitos de concessão, será determinado por acordo entre a Direcção-Geral de Minas e Serviços Geológicos e o concessionário, com base nas informações que para esse fim este tenha prestado e, também, em outras de que a Administração, por seu lado, possa dispor.
 
 Na falta de acordo, o Ministro da Economia fixará aquele valor, com base em razoáveis preços de mercado para petróleo do mesmo ou semelhante tipo.
 
 Se o concessionário discordar do valor fixado, poderá, no prazo de 30 dias, a contar da notificação, comunicar ao Ministro da Economia o seu desejo de submeter o diferendo a arbitragem, indicando os motivos da sua discordância e o nome do árbitro que escolha. O Ministro da Economia, no prazo de 20 dias, a contar da recepção daquela comunicação, indicará o nome do árbitro por parte do Estado. O recurso à arbitragem não suspende o pagamento dos direitos de concessão, nos termos e prazos estabelecidos no artigo 44.º
 
-###### Art. 38.º (Preferência da indústria nacional). - Em igualdade de condições para o concessionário, este dará sempre preferência à satisfação das necessidades da indústria nacional.
+Art. 38.º (Preferência da indústria nacional). - Em igualdade de condições para o concessionário, este dará sempre preferência à satisfação das necessidades da indústria nacional.
 
-###### Art. 39.º (Requisição pelo Governo). - Em caso de guerra ou de outra grave emergência nacional, fada a produção ficará à disposição do Governo, mas o concessionário será indemnizado em termos equitativos, tendo em conta os elementos de informação mencionados nos artigos 36.º e 37.º
+Art. 39.º (Requisição pelo Governo). - Em caso de guerra ou de outra grave emergência nacional, fada a produção ficará à disposição do Governo, mas o concessionário será indemnizado em termos equitativos, tendo em conta os elementos de informação mencionados nos artigos 36.º e 37.º
 
-###### Art. 40.º (Exportação). - A exportação de petróleo fica dependente de autorização do Ministro da Economia e será regulada por regime proposto pelas Secretarias de Estado do Comércio e da Indústria e por ele aprovado depois de ouvido o Ministério das Finanças.
+Art. 40.º (Exportação). - A exportação de petróleo fica dependente de autorização do Ministro da Economia e será regulada por regime proposto pelas Secretarias de Estado do Comércio e da Indústria e por ele aprovado depois de ouvido o Ministério das Finanças.
 
 ### CAPÍTULO V — Dos pagamentos ao Estado
 
-###### Art. 41.º (Regime tributário). - O concessionário fica sujeito ao regime tributário geral, sem beneficiar das isenções previstas no artigo 18.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, e pagará o imposto de superfície e os direitos de concessão nos termos dos artigos seguintes.
+Art. 41.º (Regime tributário). - O concessionário fica sujeito ao regime tributário geral, sem beneficiar das isenções previstas no artigo 18.º do Código da Contribuição Industrial, aprovado pelo [Decreto-Lei n.º 45103](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45103-1963-693240), de 1 de Julho de 1963, e pagará o imposto de superfície e os direitos de concessão nos termos dos artigos seguintes.
 
-###### Art. 42.º (Imposto de superfície). - O imposto de superfície correspondente ao período inicial de seis anos será pago adiantadamente e por uma só vez, à razão de 2000$00 por quilómetro quadrado. A quantia paga relativamente a este período não será reembolsável em caso algum, quer no todo, quer em parte.
+Art. 42.º (Imposto de superfície). - O imposto de superfície correspondente ao período inicial de seis anos será pago adiantadamente e por uma só vez, à razão de 2000$00 por quilómetro quadrado. A quantia paga relativamente a este período não será reembolsável em caso algum, quer no todo, quer em parte.
 
 O imposto de superfície correspondente a cada um dos anos de efectiva duração da concessão durante o período de prorrogação por 40 anos, a pagar anual e adiantadamente, sem direito a qualquer reembolso, será, no primeiro ano, de 4000$00 por quilómetro quadrado, e aumentará em cada um dos anos seguintes de 2000$00 por quilómetro quadrado, até atingir um máximo de 20000$00 por quilómetro quadrado, em que se manterá até final do referido período de prorrogação.
 
@@ -407,37 +447,37 @@ O imposto de superfície correspondente a cada um dos anos de efectiva duração
 
 § 3.º Quando, após um período de plena produção, se verificar que a economia da exploração, na sua fase final, é gravemente afectada pela incidência do imposto de superfície, o Conselho de Ministros para os Assuntos Económicos, mediante proposta do Ministério da Economia, pode, excepcionalmente, para efeitos de maior aproveitamento do jazigo, reduzir o imposto de superfície.
 
-###### Art. 43.º (Direitos de concessão). - Os direitos de concessão incidem sabre o valor bruto à cabeça da sondagem dos produtos extraídos e recuperados que, de acordo com a boa prática dos trabalhos do petróleo, não sejam utilizados na área concedida em operações de produção. A taxa, com o valor mínimo de 11 por cento, será a que for estabelecida no respectivo contrato.
+Art. 43.º (Direitos de concessão). - Os direitos de concessão incidem sabre o valor bruto à cabeça da sondagem dos produtos extraídos e recuperados que, de acordo com a boa prática dos trabalhos do petróleo, não sejam utilizados na área concedida em operações de produção. A taxa, com o valor mínimo de 11 por cento, será a que for estabelecida no respectivo contrato.
 
 § único. As quantidades de petróleo que sejam desperdiçadas em resultado de negligência serão incluídas no cálculo dos direitos de concessão, sem prejuízo de o concessionário incorrer em multa nos termos deste diploma.
 
-###### Art. 44.º (Prazos e forma de pagamento). - Os direitos de concessão correspondentes à produção do primeiro semestre do ano civil deverão ser satisfeitos antes do primeiro dia de Outubro desse ano; os correspondentes à produção do segundo semestre deverão ser satisfeitos antes do primeiro dia de Abril do ano seguinte.
+Art. 44.º (Prazos e forma de pagamento). - Os direitos de concessão correspondentes à produção do primeiro semestre do ano civil deverão ser satisfeitos antes do primeiro dia de Outubro desse ano; os correspondentes à produção do segundo semestre deverão ser satisfeitos antes do primeiro dia de Abril do ano seguinte.
 
-**O Ministro da Economia, ouvido o Ministério das Finanças, decidirá em cada caso se os direitos de concessão devem ser pagos em numerário ou em espécie, ou parte em numerário e outra em espécie. Quando o pagamento, no todo ou em parte, deva ser feito em espécie, o concessionário será notificado pela Direcção-Geral de Minas e Serviços Geológicos por carta registada com aviso de recepção, com um mínimo de três meses de antecedência.**
+O Ministro da Economia, ouvido o Ministério das Finanças, decidirá em cada caso se os direitos de concessão devem ser pagos em numerário ou em espécie, ou parte em numerário e outra em espécie. Quando o pagamento, no todo ou em parte, deva ser feito em espécie, o concessionário será notificado pela Direcção-Geral de Minas e Serviços Geológicos por carta registada com aviso de recepção, com um mínimo de três meses de antecedência.
 
-###### Art. 45.º (Dedução do imposto de superfície). - Dos direitos de concessão será deduzido o imposto de superfície correspondente aos blocos em produção.
+Art. 45.º (Dedução do imposto de superfície). - Dos direitos de concessão será deduzido o imposto de superfície correspondente aos blocos em produção.
 
 Se o imposto de superfície for superior aos direitos de concessão correspondentes, só é devido o imposto de superfície.
 
 ### CAPÍTULO VI — Isenções e regalias
 
-###### Art. 46.º (Isenções aduaneiras). - O Governo concederá a isenção de direitos de importação para todo o material destinado exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos, tratamento, transporte e armazenagem a que se refere este diploma, observado o disposto no artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
+Art. 46.º (Isenções aduaneiras). - O Governo concederá a isenção de direitos de importação para todo o material destinado exclusivamente aos trabalhos de prospecção, pesquisa, desenvolvimento e exploração de jazigos, tratamento, transporte e armazenagem a que se refere este diploma, observado o disposto no artigo 5.º do [Decreto-Lei n.º 43962](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43962-1961-183406), de 14 de Outubro de 1961.
 
-###### Art. 47.º (Pessoal técnico estrangeiro). - O concessionário, dada a especialização requerida pela natureza dos trabalhos a que se refere o presente decreto, poderá utilizar os especialistas estrangeiros que forem necessários, sem prejuízo da preferência que deve dar ao emprego de pessoal português devidamente habilitado, cuja especialização lhe incumbe promover e acelerar com vista à progressiva substituição, dentro do possível, dos técnicos estrangeiros.
+Art. 47.º (Pessoal técnico estrangeiro). - O concessionário, dada a especialização requerida pela natureza dos trabalhos a que se refere o presente decreto, poderá utilizar os especialistas estrangeiros que forem necessários, sem prejuízo da preferência que deve dar ao emprego de pessoal português devidamente habilitado, cuja especialização lhe incumbe promover e acelerar com vista à progressiva substituição, dentro do possível, dos técnicos estrangeiros.
 
-###### Art. 48.º (Expropriações). - Os concessionários poderão expropriar, mediante declaração de utilidade pública pelo Conselho de Ministros nos termos da legislação em vigor, os terrenos necessários à montagem, em terra, de instalações de armazenagem de petróleo extraído ou de outras instalações indispensáveis aos fins da concessão.
+Art. 48.º (Expropriações). - Os concessionários poderão expropriar, mediante declaração de utilidade pública pelo Conselho de Ministros nos termos da legislação em vigor, os terrenos necessários à montagem, em terra, de instalações de armazenagem de petróleo extraído ou de outras instalações indispensáveis aos fins da concessão.
 
-###### Art. 49.º (Tratamento confidencial das informações). - Todos os programas de trabalho, bem como os relatórios e quaisquer outros elementos de informação postos pelo concessionário à disposição das entidades oficiais, serão por estas tratados como confidenciais durante um período de cinco anos, prorrogável a pedido do concessionário que os tenha apresentado. Os serviços do Estado poderão, porém, tornar públicas informações de carácter geral quanto ao progresso dos trabalhos e às possibilidades de encontrar petróleo.
+Art. 49.º (Tratamento confidencial das informações). - Todos os programas de trabalho, bem como os relatórios e quaisquer outros elementos de informação postos pelo concessionário à disposição das entidades oficiais, serão por estas tratados como confidenciais durante um período de cinco anos, prorrogável a pedido do concessionário que os tenha apresentado. Os serviços do Estado poderão, porém, tornar públicas informações de carácter geral quanto ao progresso dos trabalhos e às possibilidades de encontrar petróleo.
 
 § único. Nos casos de renúncia e de perda dos direitos de concessionário, decorridos dois anos, os elementos referidos neste artigo poderão ser livremente utilizados.
 
 ### CAPÍTULO VII — Da fiscalização técnica
 
-###### Art. 50.º (Competência). - A fiscalização técnica de todas as operações e instalações relacionadas com a actividade de prospecção, pesquisa, exploração, tratamento, transporte e armazenagem de petróleo é da competência da Direcção-Geral de Minas e Serviços Geológicos.
+Art. 50.º (Competência). - A fiscalização técnica de todas as operações e instalações relacionadas com a actividade de prospecção, pesquisa, exploração, tratamento, transporte e armazenagem de petróleo é da competência da Direcção-Geral de Minas e Serviços Geológicos.
 
 Para o desempenho da sua missão, aquela Direcção-Geral pode, quando o julgar necessário, requerer o concurso de outros departamentos oficiais, em especial os do Ministério da Marinha.
 
-###### Art. 51.º (Inspecção). - A Direcção-Geral de Minas e Serviços Geológicos pode, sempre que o considerar necessário, incumbir pessoas de adequada competência de a assistir na inspecção e extracção de resumos ou cópias de quaisquer registos, relatórios, estatísticas ou outros elementos que o concessionário é obrigado a conservar ou elaborar, bem como na inspecção de instalações, sondagens, trabalhos executados pelo concessionário e equipamentos por ele utilizados no âmbito da respectiva concessão.
+Art. 51.º (Inspecção). - A Direcção-Geral de Minas e Serviços Geológicos pode, sempre que o considerar necessário, incumbir pessoas de adequada competência de a assistir na inspecção e extracção de resumos ou cópias de quaisquer registos, relatórios, estatísticas ou outros elementos que o concessionário é obrigado a conservar ou elaborar, bem como na inspecção de instalações, sondagens, trabalhos executados pelo concessionário e equipamentos por ele utilizados no âmbito da respectiva concessão.
 
 Para o desempenho das referidas funções, as pessoas delas incumbidas terão direito de acesso a quaisquer instalações ou equipamentos utilizados ou que se destinem a ser utilizados pelo concessionário.
 
@@ -445,7 +485,7 @@ Para o desempenho das referidas funções, as pessoas delas incumbidas terão di
 
 ### CAPÍTULO VIII — Das penalidades
 
-###### Art. 52.º (Penalidades). - As infracções às disposições do presente decreto são puníveis com as seguintes penas:
+Art. 52.º (Penalidades). - As infracções às disposições do presente decreto são puníveis com as seguintes penas:
 
 a) Multa;
 
@@ -453,11 +493,11 @@ b) Caducidade da concessão.
 
 § único. Não constituirão infracções as faltas do concessionário determinadas por motivo de força maior.
 
-###### Art. 53.º (Multas). - As multas variam entre 5000$00 e 300000$00, consoante a gravidade da infracção.
+Art. 53.º (Multas). - As multas variam entre 5000$00 e 300000$00, consoante a gravidade da infracção.
 
-###### Art. 54.º (Competência para aplicação de multas). - A aplicação de multas até 50000$00 compete à Direcção-Geral de Minas e Serviços Geológicos; de 50000$00 até 300000$00, ao Secretário de Estado da Indústria.
+Art. 54.º (Competência para aplicação de multas). - A aplicação de multas até 50000$00 compete à Direcção-Geral de Minas e Serviços Geológicos; de 50000$00 até 300000$00, ao Secretário de Estado da Indústria.
 
-###### Art. 55.º (Motivos de caducidade). - São motivos de caducidade da concessão:
+Art. 55.º (Motivos de caducidade). - São motivos de caducidade da concessão:
 
 a) O não pagamento no prazo de 60 dias, a contar da respectiva notificação, por carta registada com aviso de recepção, do imposto de superfície ou dos direitos de concessão e da multa que tenha sido imposta por falta desse pagamento nos prazos estabelecidos neste decreto;
 
@@ -477,21 +517,21 @@ Nos casos das alíneas b), c), d) e e), será prèviamente ouvido o concessioná
 
 ### CAPÍTULO IX — Disposições gerais
 
-###### Art. 56.º (Medidas coercivas). - Independentemente da multa que lhe seja aplicada por incumprimento das obrigações estabelecidas neste decreto, especialmente as respeitantes ao início, encerramento e abandono de sondagens (artigos 15.º e 16.º), eliminação de métodos perigosos de trabalho (artigo 19.º), armazenagem, condutas e outras instalações, (artigo 20.º), segurança, saúde e bem-estar do pessoal (artigo 24.º) e medição do petróleo (artigo 31.º), o concessionário poderá ser notificado pela Direcção-Geral de Minas e Serviços Geológicos, por carta registada com aviso de recepção, para lhes dar cumprimento no prazo que lhe for fixado.
+Art. 56.º (Medidas coercivas). - Independentemente da multa que lhe seja aplicada por incumprimento das obrigações estabelecidas neste decreto, especialmente as respeitantes ao início, encerramento e abandono de sondagens (artigos 15.º e 16.º), eliminação de métodos perigosos de trabalho (artigo 19.º), armazenagem, condutas e outras instalações, (artigo 20.º), segurança, saúde e bem-estar do pessoal (artigo 24.º) e medição do petróleo (artigo 31.º), o concessionário poderá ser notificado pela Direcção-Geral de Minas e Serviços Geológicos, por carta registada com aviso de recepção, para lhes dar cumprimento no prazo que lhe for fixado.
 
 Se, decorrido esse prazo, não tiver cumprido, poderá aquela Direcção-Geral, a expensas do concessionário remisso, realizar ou incumbir terceiros de realizar quaisquer trabalhos e fornecer e instalar todo o equipamento que em seu entender sejam necessários para assegurar a satisfação das referidas obrigações.
 
-###### Art. 57.º (Responsabilidade por perdas e danos). - A aprovação pelos serviços do Estado de qualquer instalação ou actividade do concessionário não o exime da responsabilidade, nos termos da lei geral, por perdas e danos causados pelas instalações, pelo seu funcionamento ou pelo exercício das actividades autorizadas.
+Art. 57.º (Responsabilidade por perdas e danos). - A aprovação pelos serviços do Estado de qualquer instalação ou actividade do concessionário não o exime da responsabilidade, nos termos da lei geral, por perdas e danos causados pelas instalações, pelo seu funcionamento ou pelo exercício das actividades autorizadas.
 
-###### Art. 58.º (Reversão para o Estado). - Nos casos de expiração de prazo, renúncia total ou parcial, perda de direitos ou caducidade da concessão, as instalações e equipamentos a esta afectos com carácter de permanência reverterão para o Estado, sem lugar a indemnização, podendo ainda a Direcção-Geral de Minas e Serviços Geológicos decidir que instalações e equipamentos sejam removidos pelo concessionário dentro do prazo que lhe for fixado.
+Art. 58.º (Reversão para o Estado). - Nos casos de expiração de prazo, renúncia total ou parcial, perda de direitos ou caducidade da concessão, as instalações e equipamentos a esta afectos com carácter de permanência reverterão para o Estado, sem lugar a indemnização, podendo ainda a Direcção-Geral de Minas e Serviços Geológicos decidir que instalações e equipamentos sejam removidos pelo concessionário dentro do prazo que lhe for fixado.
 
 § único. Em qualquer dos casos previstos neste artigo, o concessionário deve tomar por sua conta as precauções necessárias ao prosseguimento da pesquisa ou exploração, segundo instruções da referida Direcção-Geral, e entregar, sem direito a indemnização, a documentação disponível relativa à área objecto dos extintos direitos de concessão.
 
-###### Art. 59.º (Pagamento ao Estado da parte não cumprida do programa). - Se o programa de trabalhos aprovado para o período inicial de seis anos não for cumprido pelo concessionário, ainda que este tenha renunciado aos seus direitos, pode o Secretário de Estado da Indústria exigir o pagamento integral da importância correspondente à parte não cumprida do programa, salvo motivo de força maior ou de comprovada inviabilidade técnica dos investimentos a que o concessionário se tenha obrigado. Discordando do montante estipulado para esse pagamento, o concessionário poderá, no prazo de 30 dias, a contar da notificação, comunicar ao Secretário de Estado da Indústria o seu desejo de submeter o diferendo a arbitragem, indicando os motivos da sua discordância e o nome do árbitro que escolhe. O Ministro da Economia, no prazo de vinte dias, a contar daquela comunicação, indicará o nome do seu próprio árbitro.
+Art. 59.º (Pagamento ao Estado da parte não cumprida do programa). - Se o programa de trabalhos aprovado para o período inicial de seis anos não for cumprido pelo concessionário, ainda que este tenha renunciado aos seus direitos, pode o Secretário de Estado da Indústria exigir o pagamento integral da importância correspondente à parte não cumprida do programa, salvo motivo de força maior ou de comprovada inviabilidade técnica dos investimentos a que o concessionário se tenha obrigado. Discordando do montante estipulado para esse pagamento, o concessionário poderá, no prazo de 30 dias, a contar da notificação, comunicar ao Secretário de Estado da Indústria o seu desejo de submeter o diferendo a arbitragem, indicando os motivos da sua discordância e o nome do árbitro que escolhe. O Ministro da Economia, no prazo de vinte dias, a contar daquela comunicação, indicará o nome do seu próprio árbitro.
 
-###### Art. 60.º (Cauções). - Além da caução referida no § único da base IV da [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), outras poderão ser exigidas do concessionário em qualquer momento para garantia não só do cumprimento das obrigações relacionadas com a sua actividade, como do pagamento das indemnizações a que houver lugar. Estas últimas cauções só serão exigidas em face de fundada presunção de ocorrência de danos ou prejuízos, cuja avaliação será a base para a fixação dos respectivos montantes.
+Art. 60.º (Cauções). - Além da caução referida no § único da base IV da [Lei n.º 2080](https://diariodarepublica.pt/dr/detalhe/lei/2080-1956-306194), outras poderão ser exigidas do concessionário em qualquer momento para garantia não só do cumprimento das obrigações relacionadas com a sua actividade, como do pagamento das indemnizações a que houver lugar. Estas últimas cauções só serão exigidas em face de fundada presunção de ocorrência de danos ou prejuízos, cuja avaliação será a base para a fixação dos respectivos montantes.
 
-###### Art. 61.º (Poder de regulamentação). - O Governo poderá elaborar novos regulamentos, especialmente no tocante aos requisitos técnicos a observar na condução dos trabalhos de prospecção, pesquisa e exploração.
+Art. 61.º (Poder de regulamentação). - O Governo poderá elaborar novos regulamentos, especialmente no tocante aos requisitos técnicos a observar na condução dos trabalhos de prospecção, pesquisa e exploração.
 
 Tais regulamentos, entre outros, ocupar-se-ão do seguinte:
 
@@ -511,12 +551,12 @@ g) Medidas relacionadas com a conservação dos jazigos de petróleo.
 
 § único. Os regulamentos previstos neste artigo serão aplicáveis às concessões existentes a data da sua entrada em vigor, em tudo o que não contrarie o estabelecido em programas de trabalhos já aprovados ou outras condições basilares fixadas.
 
-###### Art. 62.º (Pesquisa e exploração em áreas desocupadas. Preferência). - Quando o Conselho de Ministros não julgar conveniente a realização de trabalhos por conta directa do Estado nas áreas que para ele reverteram nos termos do artigo 7.º, será dada preferência ao concessionário que as tenha desocupado, tanto para novas concessões que nessas áreas sejam atribuídas, como para a execução dos referidos trabalhos, mediante contrato especial.
+Art. 62.º (Pesquisa e exploração em áreas desocupadas. Preferência). - Quando o Conselho de Ministros não julgar conveniente a realização de trabalhos por conta directa do Estado nas áreas que para ele reverteram nos termos do artigo 7.º, será dada preferência ao concessionário que as tenha desocupado, tanto para novas concessões que nessas áreas sejam atribuídas, como para a execução dos referidos trabalhos, mediante contrato especial.
 
-###### Art. 63.º (Tribunal arbitral). - O tribunal arbitral será constituído de harmonia com a lei portuguesa e funcionará em Lisboa.
+Art. 63.º (Tribunal arbitral). - O tribunal arbitral será constituído de harmonia com a lei portuguesa e funcionará em Lisboa.
 
 O tribunal arbitral será composto não só pelo árbitro nomeado pelo Ministro da Economia e pelo árbitro nomeado pelo concessionário, mas ainda por um terceiro árbitro, com voto de desempate, escolhido por acordo, ou, na falta deste, designado pelo presidente do Supremo Tribunal de Justiça.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Fernando Quintanilha Mendonça Dias - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Manuel Rafael Amaro da Costa.

@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 284/1967, 1º Suplemento, Série I de 1967-12-07
   number: '284'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2248 - 2251
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/28401/22482251.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48095-1967-138563
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-07T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: dc8913f74c3ee87d3b347ed4ffc9bc54fd34877cee2b71e47268f9696e69aff3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ca61993d6607030713122e4fdd589b694d56b96d6e7ea16c9250da40080eced
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:162607:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:357142:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:438389:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490047:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:536382:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:682376:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:57Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +129,9 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É aumentada de 150000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1968.
+Artigo 1.º É aumentada de 150000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1968.
 
-###### Art. 2.º Nos quadros de pessoal dos serviços de educação são criados os seguintes lugares:
+Art. 2.º Nos quadros de pessoal dos serviços de educação são criados os seguintes lugares:
 
 Liceu de Adriano Moreira
 
@@ -131,29 +163,29 @@ Quadro comum:
 
 1 adjunto do 5.º grupo.
 
-###### Art. 3.º São atribuídas as gratificações mensais de 500$00 aos professores regentes do ensino primário.
+Art. 3.º São atribuídas as gratificações mensais de 500$00 aos professores regentes do ensino primário.
 
-###### Art. 4.º As gratificações atribuídas aos vice-reitores e secretários dos liceus e ao subdirector e secretário da Escola Técnica são elevadas para 750$00 mensais.
+Art. 4.º As gratificações atribuídas aos vice-reitores e secretários dos liceus e ao subdirector e secretário da Escola Técnica são elevadas para 750$00 mensais.
 
-###### Art. 5.º As gratificações atribuídas durante dez meses aos directores de ciclo dos liceus e directores de curso da Escola Técnica são elevadas para 500$00 mensais.
+Art. 5.º As gratificações atribuídas durante dez meses aos directores de ciclo dos liceus e directores de curso da Escola Técnica são elevadas para 500$00 mensais.
 
-###### Art. 6.º Fica o Governo da província autorizado a conceder no ano de 1968 aos Transportes Aéreos de Cabo Verde o subsídio de 2700000$00.
+Art. 6.º Fica o Governo da província autorizado a conceder no ano de 1968 aos Transportes Aéreos de Cabo Verde o subsídio de 2700000$00.
 
-###### Art. 7.º É fixado em 1600000$00 o subsídio com que a província concorre no ano de 1968 para as despesas de exploração do navio que assegura a ligação entre as diferentes ilhas do arquipélago.
+Art. 7.º É fixado em 1600000$00 o subsídio com que a província concorre no ano de 1968 para as despesas de exploração do navio que assegura a ligação entre as diferentes ilhas do arquipélago.
 
 B) S. Tomé e Príncipe
 
-###### Art. 8.º É aumentada de 100000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1968.
+Art. 8.º É aumentada de 100000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano de 1968.
 
-###### Art. 9.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
+Art. 9.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
 
 a) Outras missões de estudo ... 200000$00
 
 C) Angola
 
-###### Art. 10.º É aumentada de 5000000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1968.
+Art. 10.º É aumentada de 5000000$00 a dotação global para aposentações, pensões, jubilações e reformas do capítulo 3.º da tabela de despesa ordinária do orçamento geral da província para o ano económico de 1968.
 
-###### Art. 11.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
+Art. 11.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 8757340$00
 
@@ -167,25 +199,25 @@ b) Missões:
 
 4) Outras missões e estudos ... 1750000$00
 
-###### Art. 12.º As receitas de que trata o artigo 56.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, poderão ser utilizadas no ano de 1968 para a cobertura de outras despesas extraordinárias.
+Art. 12.º As receitas de que trata o artigo 56.º do [Decreto n.º 42672](https://diariodarepublica.pt/dr/detalhe/decreto/42672-1959-438389), de 23 de Novembro de 1959, poderão ser utilizadas no ano de 1968 para a cobertura de outras despesas extraordinárias.
 
-###### Art. 13.º Continua suspensa no ano de 1968 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
+Art. 13.º Continua suspensa no ano de 1968 a execução do disposto nos n.os 4.º e 6.º do artigo 10.º do [Decreto n.º 16430](https://diariodarepublica.pt/dr/detalhe/decreto/16430-1929-357142), de 28 de Janeiro de 1929.
 
-###### Art. 14.º É autorizado o Governo-Geral de Angola a dar o aval da província a um contrato de novação a celebrar entre o Banco de Fomento Nacional e a Empresa Autoviação do Dande, Lda., nas condições estipuladas no artigo 5.º do [Decreto n.º 44465](https://diariodarepublica.pt/dr/detalhe/decreto/44465-1962-162607), de 16 de Julho de 1962, relativo à dívida do empréstimo contraído naquela instituição de crédito pela firma Fernando da Silva Laires, por contrato outorgado em 12 de Setembro daquele ano.
+Art. 14.º É autorizado o Governo-Geral de Angola a dar o aval da província a um contrato de novação a celebrar entre o Banco de Fomento Nacional e a Empresa Autoviação do Dande, Lda., nas condições estipuladas no artigo 5.º do [Decreto n.º 44465](https://diariodarepublica.pt/dr/detalhe/decreto/44465-1962-162607), de 16 de Julho de 1962, relativo à dívida do empréstimo contraído naquela instituição de crédito pela firma Fernando da Silva Laires, por contrato outorgado em 12 de Setembro daquele ano.
 
 § único. O montante da dívida referida no corpo deste artigo será o que se mostrar devido à data da celebração do respectivo contrato de novação.
 
 D) Moçambique
 
-###### Art. 15.º São criados no quadro do pessoal de nomeação do Corpo de Polícia de Segurança Pública oito lugares de segundo-subchefe.
+Art. 15.º São criados no quadro do pessoal de nomeação do Corpo de Polícia de Segurança Pública oito lugares de segundo-subchefe.
 
-###### Art. 16.º O artigo 56.º do Estatuto do Corpo de Polícia de Segurança Pública da província, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, passa a ter a seguinte redacção:
+Art. 16.º O artigo 56.º do Estatuto do Corpo de Polícia de Segurança Pública da província, aprovado pelo Diploma Legislativo Ministerial n.º 27, de 19 de Outubro de 1961, passa a ter a seguinte redacção:
 
-###### Art. 56.º Os lugares de fiel e carcereiro serão providos por escolha entre os segundos-subchefes com, pelo menos, um ano de serviço no posto.
+Art. 56.º Os lugares de fiel e carcereiro serão providos por escolha entre os segundos-subchefes com, pelo menos, um ano de serviço no posto.
 
 § único. ...
 
-###### Art. 17.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
+Art. 17.º São fixados nos seguintes quantitativos os encargos com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 7649885$00
 
@@ -195,13 +227,13 @@ b) Missões:
 
 2) Outras missões de estudo ... 1700000$00
 
-###### Art. 18.º Fica o Governo-Geral de Moçambique autorizado a inscrever no capítulo 8.º da tabela de receita ordinária do orçamento geral da província para o ano económico de 1968 a importância de 2250850$00, a sair do imposto de sobrevalorizações, destinada à cobertura de parte da sua comparticipação nos encargos com o Hospital do Ultramar.
+Art. 18.º Fica o Governo-Geral de Moçambique autorizado a inscrever no capítulo 8.º da tabela de receita ordinária do orçamento geral da província para o ano económico de 1968 a importância de 2250850$00, a sair do imposto de sobrevalorizações, destinada à cobertura de parte da sua comparticipação nos encargos com o Hospital do Ultramar.
 
-###### Art. 19.º Sem prejuízo das decisões que venham a ser proferidas pelos tribunais competentes em processos de recurso que estejam correndo seus termos à data da publicação deste diploma, consideram-se ratificadas, para todos os efeitos legais, as medidas legislativas promulgadas pelo Governo-Geral de Moçambique que alteraram as disposições do Regulamento da Contribuição de Registo, aprovado pelo Decreto de 19 de Julho de 1902.
+Art. 19.º Sem prejuízo das decisões que venham a ser proferidas pelos tribunais competentes em processos de recurso que estejam correndo seus termos à data da publicação deste diploma, consideram-se ratificadas, para todos os efeitos legais, as medidas legislativas promulgadas pelo Governo-Geral de Moçambique que alteraram as disposições do Regulamento da Contribuição de Registo, aprovado pelo Decreto de 19 de Julho de 1902.
 
 E) Macau
 
-###### Art. 20.º Nos Serviços de Saúde e Assistência são introduzidas as seguintes alterações:
+Art. 20.º Nos Serviços de Saúde e Assistência são introduzidas as seguintes alterações:
 
 1) No quadro complementar de cirurgiões, especialistas e internistas:
 
@@ -231,11 +263,11 @@ a) Criação de lugares:
 
 § único. O lugar de analista deve ser provido por farmacêutico com análises químico-biológicas.
 
-###### Art. 21.º No quadro do pessoal do Corpo de Polícia de Segurança Pública é criado um lugar de chefe mecânico, que se considera incluído no grupo O do artigo 90.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
+Art. 21.º No quadro do pessoal do Corpo de Polícia de Segurança Pública é criado um lugar de chefe mecânico, que se considera incluído no grupo O do artigo 90.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966.
 
-###### Art. 22.º É atribuída uma gratificação mensal de 500$00 para falhas ao secretário-tesoureiro do conselho administrativo do Corpo de Polícia de Segurança Pública, a qual se considera incluída no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
+Art. 22.º É atribuída uma gratificação mensal de 500$00 para falhas ao secretário-tesoureiro do conselho administrativo do Corpo de Polícia de Segurança Pública, a qual se considera incluída no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956.
 
-###### Art. 23.º São atribuídas ao carcereiro da cadeia pública e ao ajudante de carcereiro encarregado da confecção da alimentação dos presos as seguintes gratificações especiais mensais, que se consideram incluídas no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
+Art. 23.º São atribuídas ao carcereiro da cadeia pública e ao ajudante de carcereiro encarregado da confecção da alimentação dos presos as seguintes gratificações especiais mensais, que se consideram incluídas no mapa VIII anexo ao [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
 
 Ao carcereiro ... 300$00
 
@@ -243,7 +275,7 @@ Ao ajudante ... 500$00
 
 § único. As condições do abono das gratificações fixadas no corpo do artigo serão regulamentadas pelo Governo da província.
 
-###### Art. 24.º Nos quadros do pessoal da Inspecção da Polícia Judiciária são introduzidas as seguintes alterações:
+Art. 24.º Nos quadros do pessoal da Inspecção da Polícia Judiciária são introduzidas as seguintes alterações:
 
 a) No quadro do pessoal do Arquivo Provincial do Registo Criminal e Policial é criado um lugar de segundo-oficial e extinto um de terceiro-oficial, transitando o actual titular deste lugar para aquela categoria com dispensa de nomeação, visto e posse;
 
@@ -257,7 +289,7 @@ Agentes auxiliares de 2.ª classe com menos de dez anos de serviço: grupo X.
 
 A mudança de categoria dentro da classe será determinada em despacho do governador da província, com dispensa de nomeação, visto e posse.
 
-###### Art. 25.º Os actuais patrão-mor de 1.ª classe e sota-patrão-mor da Repartição Provincial dos Serviços de Marinha passam a ter as seguintes designações e categorias:
+Art. 25.º Os actuais patrão-mor de 1.ª classe e sota-patrão-mor da Repartição Provincial dos Serviços de Marinha passam a ter as seguintes designações e categorias:
 
 Mestre dos serviços marítimos ... M
 
@@ -265,7 +297,7 @@ Contramestre dos serviços marítimos ... P
 
 § único. A transição de categorias será feita com dispensa de nomeação, visto e posse.
 
-###### Art. 26.º Ao pessoal dos Serviços de Marinha são reconhecidos os seguintes direitos:
+Art. 26.º Ao pessoal dos Serviços de Marinha são reconhecidos os seguintes direitos:
 
 1.º Alimentação durante os períodos de recruta e de prevenção por conta das verbas que forem anualmente inscritas no orçamento geral, nas condições a regulamentar pelo Governo da província;
 
@@ -273,15 +305,15 @@ Contramestre dos serviços marítimos ... P
 
 § único. O disposto no n.º 2.º deste artigo é aplicável ao pessoal de outros serviços provinciais quando seja chamado a prestar as referidas funções nos Serviços de Marinha.
 
-###### Art. 27.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
+Art. 27.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
 
 a) Despesas com o pessoal, material, pagamento de serviços e diversos encargos para a realização de trabalhos científicos e formação de investigadores, conforme plano a aprovar pelo Ministro do Ultramar ... 586095$00
 
-###### Art. 28.º Fica o governador da província autorizado a elaborar o orçamento geral para o ano de 1968 em patacas, ao câmbio de 5$00.
+Art. 28.º Fica o governador da província autorizado a elaborar o orçamento geral para o ano de 1968 em patacas, ao câmbio de 5$00.
 
 F) Timor
 
-###### Art. 29.º No quadro do pessoal do Corpo de Polícia de Segurança Pública, aprovado pelo artigo 60.º do Decreto n.º 45048, de 23 de Novembro de 1961, são introduzidas as seguintes alterações:
+Art. 29.º No quadro do pessoal do Corpo de Polícia de Segurança Pública, aprovado pelo artigo 60.º do Decreto n.º 45048, de 23 de Novembro de 1961, são introduzidas as seguintes alterações:
 
 I) Extinção de lugares:
 
@@ -301,7 +333,7 @@ II) Criação de lugares:
 
 § 2.º Ao lugar de adjunto do comando, quando desempenhado por um oficial subalterno, corresponderá o vencimento da respectiva patente e, quando exercido por acumulação, a gratificação anual de 15000$00.
 
-###### Art. 30.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
+Art. 30.º É fixado no seguinte quantitativo o encargo com que a província concorre em 1968 para a Junta de Investigações do Ultramar:
 
 a) Missão Geográfica ... 400000$00
 
@@ -309,15 +341,15 @@ II
 
 Disposições comuns
 
-###### Art. 31.º A gratificação a que se refere o artigo 15.º do [Decreto n.º 46024](https://diariodarepublica.pt/dr/detalhe/decreto/46024-1964-536382), de 12 de Novembro de 1964, para remunerar as funções de secretário dos conselhos legislativo e de governo é fixada na importância de 800$00 mensais.
+Art. 31.º A gratificação a que se refere o artigo 15.º do [Decreto n.º 46024](https://diariodarepublica.pt/dr/detalhe/decreto/46024-1964-536382), de 12 de Novembro de 1964, para remunerar as funções de secretário dos conselhos legislativo e de governo é fixada na importância de 800$00 mensais.
 
-###### Art. 32.º No ano de 1968 ficam as províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor dispensadas de concorrer para as despesas que, nos termos legais, devem constituir encargo comum das diversas províncias ultramarinas.
+Art. 32.º No ano de 1968 ficam as províncias de Cabo Verde, Guiné, S. Tomé e Príncipe e Timor dispensadas de concorrer para as despesas que, nos termos legais, devem constituir encargo comum das diversas províncias ultramarinas.
 
-###### Art. 33.º Continuam em vigor em 1968, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seus diplomas complementares e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma, ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, de 31 de Dezembro de 1953 e de 18 de Março de 1954.
+Art. 33.º Continuam em vigor em 1968, relativamente ao pessoal não abrangido pelo Estatuto do Funcionalismo Ultramarino e seus diplomas complementares e aos aposentados, reformados e desligados do serviço para efeitos de aposentação e reforma, ao abrigo do regime anterior àqueles diplomas, o disposto no artigo 86.º do [Decreto n.º 38084](https://diariodarepublica.pt/dr/detalhe/decreto/38084-1950-490047), de 7 de Dezembro de 1950, e no [Decreto n.º 39890](https://diariodarepublica.pt/dr/detalhe/decreto/39890-1954-682376), de 5 de Novembro de 1954, e as percentagens estabelecidas ao abrigo das Portarias n.os 14468, 14689 e 14788, respectivamente de 23 de Julho de 1953, de 31 de Dezembro de 1953 e de 18 de Março de 1954.
 
-###### Art. 34.º Exceptuado o disposto nos artigos 14.º e 19.º, que é desde já executório, e as alterações resultantes dos artigos 20.º a 26.º, que só entram em vigor à medida que os respectivos encargos possam ser inscritos no orçamento geral da província de Macau, o presente decreto entra em vigor em 1 de Janeiro de 1968.
+Art. 34.º Exceptuado o disposto nos artigos 14.º e 19.º, que é desde já executório, e as alterações resultantes dos artigos 20.º a 26.º, que só entram em vigor à medida que os respectivos encargos possam ser inscritos no orçamento geral da província de Macau, o presente decreto entra em vigor em 1 de Janeiro de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

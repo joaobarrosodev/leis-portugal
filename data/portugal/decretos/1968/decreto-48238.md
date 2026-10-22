@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48238-1968-233681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 712548e21d108fe34bd9d254280dbeb39df274524fd429294c182cb0fefd7fd9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7514653f0ac8ce522d75f0a63a15203a8fee7e894d6dcf49d802c9dc0466025d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:469427:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686801:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 34
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:12Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento da Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo único. É aprovado o Regulamento da Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Fevereiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -106,13 +114,13 @@ REGULAMENTO DA CAIXA DE PREVIDÊNCIA DO PESSOAL DO CAMINHO DE FERRO DE BENGUELA
 
 ### CAPÍTULO I — Âmbito e objectivos
 
-###### Artigo 1.º - 1. A Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, instituição de previdência social reconhecida pelo Estado, é reorganizada nos termos do [Decreto n.º 47166](https://diariodarepublica.pt/dr/detalhe/decreto/47166-1966-469427), de 26 de Agosto de 1966, e passa a reger-se pelo presente Regulamento.
+Artigo 1.º - 1. A Caixa de Previdência do Pessoal do Caminho de Ferro de Benguela, instituição de previdência social reconhecida pelo Estado, é reorganizada nos termos do [Decreto n.º 47166](https://diariodarepublica.pt/dr/detalhe/decreto/47166-1966-469427), de 26 de Agosto de 1966, e passa a reger-se pelo presente Regulamento.
 
 2. A Caixa continua a acção e assume os direitos e obrigações da instituição anteriormente denominada Caixa de Reformas, Pensões e Socorros do Pessoal da Companhia do Caminho de Ferro de Benguela e Caixa de Previdência do Pessoal da Companhia do Caminho de Ferro de Benguela.
 
-###### Art. 2.º A Caixa tem sede no Lobito e goza de personalidade jurídica, com autonomia administrativa e financeira.
+Art. 2.º A Caixa tem sede no Lobito e goza de personalidade jurídica, com autonomia administrativa e financeira.
 
-###### Art. 3.º - 1. A Caixa abrange na sua acção os agentes ao serviço da Companhia do Caminho de Ferro de Bengurela com carácter permanente e regular, independentemento de idade, local de trabalho e forma de recrutamento, com excepção do seguinte:
+Art. 3.º - 1. A Caixa abrange na sua acção os agentes ao serviço da Companhia do Caminho de Ferro de Bengurela com carácter permanente e regular, independentemento de idade, local de trabalho e forma de recrutamento, com excepção do seguinte:
 
 a) Pessoal remunerado por honorários, gratificações ou avenças correspondentes a prestação de serviços;
 
@@ -130,21 +138,21 @@ f) Trabalhadores em tirocínio com tempo de serviço não superior a três anos.
 
 3. A pedido da Companhia e ouvidos os corpos gerentes da Caixa, o Ministro do Ultramar pode autorizar a extensão do âmbito da instituição ao pessoal de outras empresas associadas da Companhia, nas condições do n.º 1 deste artigo.
 
-###### Art. 4.º - 1. A Caixa destina-se a proteger os agentes inscritos, ou seus familiares, na doença, invalidez, velhice e morte.
+Art. 4.º - 1. A Caixa destina-se a proteger os agentes inscritos, ou seus familiares, na doença, invalidez, velhice e morte.
 
 2. Poderá a Caixa adoptar, subsidiàriamente e mediante regulamento interno, outras modalidades acessórias de previdência e empreender, por si própria ou em colaboração com outras instituições e entidades, a realização de obras de carácter social tendentes a auxiliar e completar os fins da instituição.
 
-###### Art. 5.º A Caixa apenas poderá extinguir-se por fusão com outra caixa de previdência, nos termos da lei.
+Art. 5.º A Caixa apenas poderá extinguir-se por fusão com outra caixa de previdência, nos termos da lei.
 
 ### CAPÍTULO II — Da inscrição
 
 #### SECÇÃO I — Dos inscritos
 
-###### Art. 6.º - 1. São obrigatòriamente inscritos na Caixa, como beneficiários, os agentes referidos no artigo 3.º e, como contribuinte, a Companhia do Caminho de Ferro de Benguela.
+Art. 6.º - 1. São obrigatòriamente inscritos na Caixa, como beneficiários, os agentes referidos no artigo 3.º e, como contribuinte, a Companhia do Caminho de Ferro de Benguela.
 
 2. Poderão ser nomeados membros honorários as pessoas ou entidades que prestem à Caixa relevantes serviços e que o conselho geral, ouvida direcção, julgue dignas de tal distinção. A qualidade de membro honorário é acumulável com a de beneficiário ou contribuinte.
 
-###### Art. 7.º Os beneficiários são distribuídos, segundo a data da inscrição e o regime de benefícios que lhes competem, pelas classes seguintes:
+Art. 7.º Os beneficiários são distribuídos, segundo a data da inscrição e o regime de benefícios que lhes competem, pelas classes seguintes:
 
 Classe A - Inscritos até 31 de Dezembro de 1960;
 
@@ -152,11 +160,11 @@ Classe B - Inscritos no período de 1 de Janeiro de 1961 a 31 de Dezembro de 196
 
 Classe C - Inscritos a partir de 1 de Janeiro de 1966.
 
-###### Art. 8.º Sempre que admita ao seu serviço qualquer agente nas condições do artigo 3.º, a Companhia envia à Caixa um boletim conforme modelo por esta aprovado, do qual constem todos os elementos necessários à inscrição do agente como beneficiário.
+Art. 8.º Sempre que admita ao seu serviço qualquer agente nas condições do artigo 3.º, a Companhia envia à Caixa um boletim conforme modelo por esta aprovado, do qual constem todos os elementos necessários à inscrição do agente como beneficiário.
 
-###### Art. 9.º A inscrição é feita oficiosamente e reporta-se ao dia a que corresponda a primeira contribuição paga em nome do agente.
+Art. 9.º A inscrição é feita oficiosamente e reporta-se ao dia a que corresponda a primeira contribuição paga em nome do agente.
 
-###### Art. 10.º - 1. Entram no cômputo do tempo de inscrição na Caixa:
+Art. 10.º - 1. Entram no cômputo do tempo de inscrição na Caixa:
 
 a) O tempo de serviço prestado à Companhia nas condições do artigo 3.º, em todas as situações que dêem direito ao abono de vencimentos;
 
@@ -172,7 +180,7 @@ d) O tempo pelo qual sejam pagas contribuições no regime de inscrição facult
 
 4. Tem-se como correspondente ao tempo contado nas situações indicadas nas alíneas b) e c) do n.º 1 e no n.º 2 o vencimento que competia ao beneficiário no último mês anterior ao da baixa ou da chamada ao serviço militar.
 
-###### Art. 11.º - 1. A Caixa manterá em dia um registo de todos os beneficiários, contendo os elementos de identificação deles e das pessoas de família a quem são atribuídos os benefícios previstos neste regulamento ou nos regulamentos internos.
+Art. 11.º - 1. A Caixa manterá em dia um registo de todos os beneficiários, contendo os elementos de identificação deles e das pessoas de família a quem são atribuídos os benefícios previstos neste regulamento ou nos regulamentos internos.
 
 2. Os inscritos são obrigados a fornecer à Caixa os elementos necessários à manutenção actualizada do registo.
 
@@ -180,7 +188,7 @@ d) O tempo pelo qual sejam pagas contribuições no regime de inscrição facult
 
 4. Devem ser facultados, a todo o tempo, para exame dos beneficiários ou de outros interessados directos, os registos referidos neste artigo, bem como os documentos que lhes servirem de base.
 
-###### Art. 12.º São deveres e direitos da contribuinte e dos beneficiários:
+Art. 12.º São deveres e direitos da contribuinte e dos beneficiários:
 
 a) Cumprir e fazer cumprir todas as disposições regulamentares e determinações legítimas da direcção e do conselho geral da Caixa;
 
@@ -196,7 +204,7 @@ f) Requerer e obter, gratuitamente, certidões ou esclarecimentos do que directa
 
 #### SECÇÃO II — Transferência da inscrição
 
-###### Art. 13.º - 1. Aos beneficiários válidos que deixem de ser abrangidos pela Caixa e pertençam ou passem a pertencer a outra instituição de previdência social obrigatória, em território nacional, será facultada a transferência da sua inscrição na Caixa para essa instituição, se a lei e os respectivos estatutos a permitirem, nas condições seguintes:
+Art. 13.º - 1. Aos beneficiários válidos que deixem de ser abrangidos pela Caixa e pertençam ou passem a pertencer a outra instituição de previdência social obrigatória, em território nacional, será facultada a transferência da sua inscrição na Caixa para essa instituição, se a lei e os respectivos estatutos a permitirem, nas condições seguintes:
 
 a) O capital a transferir com a inscrição será o constituído pelas contribuições pagas à Caixa em nome do beneficiário, relativas às eventualidades de invalidez, velhice e morte, incluindo as pensões de sobrevivência, se estas fizerem parte do esquema de benefícios da instituição para a qual se efectua a transferência;
 
@@ -212,23 +220,23 @@ d) A transferência será objecto de acordo escrito, outorgado entre a Caixa, a 
 
 #### SECÇÃO III — Continuação facultativa da inscrição
 
-###### Art. 14.º - 1. Aos beneficiários que, depois de cumprirem o prazo de garantia para a reforma, deixarem de pertencer à Caixa pode ser autorizada a continuação voluntária da sua inscrição, desde que a requeiram antes de decorridos doze meses após a última contribuição obrigatória e sejam declarados aptos em exame médico.
+Art. 14.º - 1. Aos beneficiários que, depois de cumprirem o prazo de garantia para a reforma, deixarem de pertencer à Caixa pode ser autorizada a continuação voluntária da sua inscrição, desde que a requeiram antes de decorridos doze meses após a última contribuição obrigatória e sejam declarados aptos em exame médico.
 
 2. A continuação facultativa da inscrição respeita ao conjunto das modalidades de invalidez, velhice e morte, incluindo as pensões de sobrevivência.
 
-###### Art. 15.º - 1. O exame médico exigido pelo n.º 1 do artigo anterior será efectuado pela comissão a que se refere o n.º 1 do artigo 38.º Da decisão da comissão cabe recurso, nos termos do n.º 3 do mesmo artigo.
+Art. 15.º - 1. O exame médico exigido pelo n.º 1 do artigo anterior será efectuado pela comissão a que se refere o n.º 1 do artigo 38.º Da decisão da comissão cabe recurso, nos termos do n.º 3 do mesmo artigo.
 
 2. O beneficiário que falte ao exame no dia para este designado poderá justificar a falta e requerer que seja fixada nova data para a sua apresentação.
 
 3. São de conta do beneficiário todas as despesas, próprias ou da Caixa, ocasionadas pelo exame previsto neste artigo.
 
-###### Art. 16.º Aos beneficiários admitidos à continuação facultativa da inscrição é mantido o direito às prestações previstas neste Regulamento em relação às modalidades indicadas no n.º 2 do artigo 14.º, mas só poderão ser reformados quando atinjam a idade de 65 anos.
+Art. 16.º Aos beneficiários admitidos à continuação facultativa da inscrição é mantido o direito às prestações previstas neste Regulamento em relação às modalidades indicadas no n.º 2 do artigo 14.º, mas só poderão ser reformados quando atinjam a idade de 65 anos.
 
-###### Art. 17.º - 1. No requerimento em que pedir a continuação facultativa da inscrição, deve o beneficiário declarar o vencimento sobre o qual pretende que incidam as contribuições e sejam determinados os benefícios.
+Art. 17.º - 1. No requerimento em que pedir a continuação facultativa da inscrição, deve o beneficiário declarar o vencimento sobre o qual pretende que incidam as contribuições e sejam determinados os benefícios.
 
 2. Esse vencimento não poderá ser superior ao vencimento médio dos últimos três anos de inscrição obrigatória nem inferior a metade dele.
 
-###### Art. 18.º - 1. Os beneficiários em regime de inscrição facultativa pagarão, mensalmente, à Caixa as contribuições que, para cada caso, forem actuarialmente determinadas como necessárias para constituírem, sem contribuição patronal, a reserva matemática correspondente aos benefícios assegurados.
+Art. 18.º - 1. Os beneficiários em regime de inscrição facultativa pagarão, mensalmente, à Caixa as contribuições que, para cada caso, forem actuarialmente determinadas como necessárias para constituírem, sem contribuição patronal, a reserva matemática correspondente aos benefícios assegurados.
 
 2. A reserva matemática será determinada pelo actuário em função da idade do beneficiário à data do requerimento e do tempo de inscrição correspondente.
 
@@ -238,13 +246,13 @@ d) A transferência será objecto de acordo escrito, outorgado entre a Caixa, a 
 
 5. É facultado ao beneficiário o pagamento das contribuições em dívida em tantas prestações mensais quantos os meses em atraso. As prestações em dívida vencem o juro técnico de 4 por cento.
 
-###### Art. 19.º - 1. O pagamento actualizado das contribuições é indispensável para a obtenção dos benefícios assegurados aos inscritos facultativamente.
+Art. 19.º - 1. O pagamento actualizado das contribuições é indispensável para a obtenção dos benefícios assegurados aos inscritos facultativamente.
 
 2. A falta de pagamento das contribuições relativas a mais de doze meses consecutivos acarreta o cancelamento da inscrição.
 
 #### SECÇÃO IV — Retroacção da inscrição
 
-###### Art. 20.º - 1. Aos agentes inscritos nos termos do artigo 3.º é facultada a retroacção, no todo ou em parte, do tempo de serviço prestado à Companhia antes do início do pagamento de contribuições para a Caixa, mediante requerimento a apresentar à respectiva direcção no prazo de 90 dias, a contar da data da aprovação deste Regulamento.
+Art. 20.º - 1. Aos agentes inscritos nos termos do artigo 3.º é facultada a retroacção, no todo ou em parte, do tempo de serviço prestado à Companhia antes do início do pagamento de contribuições para a Caixa, mediante requerimento a apresentar à respectiva direcção no prazo de 90 dias, a contar da data da aprovação deste Regulamento.
 
 2. A retroacção será concedida nas seguintes condições:
 
@@ -260,13 +268,13 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 #### SECÇÃO V — Cancelamento da inscrição
 
-###### Art. 21.º - 1. Salvo o caso de transferência ou de continuação facultativa, a inscrição será cancelada quando os beneficiários deixem de contribuir para a Caixa durante um ano.
+Art. 21.º - 1. Salvo o caso de transferência ou de continuação facultativa, a inscrição será cancelada quando os beneficiários deixem de contribuir para a Caixa durante um ano.
 
 2. O cancelamento reporta-se ao último dia do mês a que respeite a última contribuição paga à Caixa.
 
 3. Aos beneficiários cuja inscrição seja cancelada são assegurados os direitos previstos nos artigos 96.º e 97.º
 
-###### Art. 22.º - 1. Serão novamente inscritos os agentes que após o cancelamento da inscrição regressem ao serviço da Companhia nas condições do artigo 3.º
+Art. 22.º - 1. Serão novamente inscritos os agentes que após o cancelamento da inscrição regressem ao serviço da Companhia nas condições do artigo 3.º
 
 2. Os reinscritos poderão requerer, no prazo de 90 dias, a contar da data do regresso ao serviço, que lhes seja contado, para efeitos futuros, o tempo de inscrição anterior ao cancelamento.
 
@@ -278,27 +286,27 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 #### SECÇÃO 1 — Disposições gerais
 
-###### Art. 23.º - 1. A concessão dos benefícios depende da inscrição e do decurso de um prazo de garantia.
+Art. 23.º - 1. A concessão dos benefícios depende da inscrição e do decurso de um prazo de garantia.
 
 2. O prazo de garantia conta-se por anos completos desde o início da inscrição, observado o disposto no artigo 10.º
 
 3. O montante dos benefícios e os prazos de garantia que condicionam a sua concessão em cada modalidade são os indicados nas respectivas secções deste capítulo.
 
-###### Art. 24.º - 1. A prova dos factos condicionantes da concessão ou manutenção dos benefícios, quando não conste dos registos da Caixa ou da Companhia, ou não incumba ao serviço de saúde desta, será feita por meio de atestado das autoridades sanitárias ou administrativas da residência dos beneficiários.
+Art. 24.º - 1. A prova dos factos condicionantes da concessão ou manutenção dos benefícios, quando não conste dos registos da Caixa ou da Companhia, ou não incumba ao serviço de saúde desta, será feita por meio de atestado das autoridades sanitárias ou administrativas da residência dos beneficiários.
 
 2. No caso de residência no estrangeiro, os atestados serão autenticados nos termos legais.
 
-###### Art. 25.º - 1. As pensões e subsídios serão pagos em Lisboa e no Lobito ou, por acordo com a Companhia, noutras localidades onde esta tenha serviços de tesouraria, sendo de conta dos interessados a transferência para quaisquer outras localidades.
+Art. 25.º - 1. As pensões e subsídios serão pagos em Lisboa e no Lobito ou, por acordo com a Companhia, noutras localidades onde esta tenha serviços de tesouraria, sendo de conta dos interessados a transferência para quaisquer outras localidades.
 
 2. Os quantitativos das prestações serão sempre arredondados, por excesso, em escudos.
 
-###### Art. 26.º As subvenções sobre as pensões concedidas pela Companhia até 31 de Dezembro de 1960 ficam a cargo da Caixa e são elevadas de 90 para 100 por cento a partir do mês seguinte ao da entrada em vigor deste Regulamento.
+Art. 26.º As subvenções sobre as pensões concedidas pela Companhia até 31 de Dezembro de 1960 ficam a cargo da Caixa e são elevadas de 90 para 100 por cento a partir do mês seguinte ao da entrada em vigor deste Regulamento.
 
-###### Art. 27.º As pensões e subsídios devidos aos beneficiários e seus familiares não podem ser cedidos a terceiros nem penhorados e são isentos de quaisquer taxas, contribuições ou impostos.
+Art. 27.º As pensões e subsídios devidos aos beneficiários e seus familiares não podem ser cedidos a terceiros nem penhorados e são isentos de quaisquer taxas, contribuições ou impostos.
 
-###### Art. 28.º O direito às pensões e subsídios devidos pela Caixa prescreve a favor desta pelo lapso de um ano, a contar do vencimento ou do último dia do prazo do pagamento, se o houver.
+Art. 28.º O direito às pensões e subsídios devidos pela Caixa prescreve a favor desta pelo lapso de um ano, a contar do vencimento ou do último dia do prazo do pagamento, se o houver.
 
-###### Art. 29.º - 1. Os benefícios da Caixa não são devidos quando a doença, invalidez ou morte do beneficiário estejam a coberto de legislação especial sobre acidentes de trabalho e doenças profissionais ou sejam causadas por acto de terceiro, que por isso deva indemnização.
+Art. 29.º - 1. Os benefícios da Caixa não são devidos quando a doença, invalidez ou morte do beneficiário estejam a coberto de legislação especial sobre acidentes de trabalho e doenças profissionais ou sejam causadas por acto de terceiro, que por isso deva indemnização.
 
 2. Se o valor das indemnizações devidas pela Companhia ou por terceiro responsável for inferior ao dos benefícios previstos neste Regulamento para as mesmas eventualidades, a Caixa pagará a diferença.
 
@@ -314,11 +322,11 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 #### SECÇÃO II — Da doença
 
-###### Art. 30.º - 1. A protecção na doença é realizada mediante a concessão de assistência médica e medicamentosa e de subsídio pecuniário, nas condições reguladas na presente secção.
+Art. 30.º - 1. A protecção na doença é realizada mediante a concessão de assistência médica e medicamentosa e de subsídio pecuniário, nas condições reguladas na presente secção.
 
 2. A assistência médica e medicamentosa continua a cargo da Companhia, nos termos da lei e dos regulamentos da empresa aprovados pela entidade competente.
 
-###### Art. 31.º - 1. O subsídio pecuniário será concedido aos beneficiários activos que, tendo completado o período de garantia de um ano, se encontrem impossibilitados temporàriamente de trabalhar por motivo de doença.
+Art. 31.º - 1. O subsídio pecuniário será concedido aos beneficiários activos que, tendo completado o período de garantia de um ano, se encontrem impossibilitados temporàriamente de trabalhar por motivo de doença.
 
 2. A incapacidade para o trabalho será verificada no início de cada impedimento e confirmada mensalmente pelo serviço de saúde da Companhia, que informará a direcção da Caixa.
 
@@ -328,7 +336,7 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 5. Não há lugar à concessão do subsídio quando a doença seja provocada voluntàriamente pelo beneficiário ou resultar de alcoolismo habitual. A Caixa será reembolsada das prestações que, eventualmente, haja concedido nesse caso.
 
-###### Art. 32.º - 1. O subsídio na doença é igual ao vencimento por inteiro durante 30 dias e a 60 por cento do vencimento nos restantes dias, até ao limite indicado no artigo seguinte.
+Art. 32.º - 1. O subsídio na doença é igual ao vencimento por inteiro durante 30 dias e a 60 por cento do vencimento nos restantes dias, até ao limite indicado no artigo seguinte.
 
 2. O subsídio não será pago nos três primeiros dias em cada impedimento.
 
@@ -338,17 +346,17 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 5. O vencimento a considerar para a atribuição do subsídio é o definido no artigo 82.º, que competir ao beneficiário no mês anterior ao da baixa.
 
-###### Art. 33.º - 1. O subsídio será pago nos montantes previstos no n.º 1 do artigo anterior, pelo máximo de 360 dias seguidos ou interpolados em cada período de doença, considerando-se, porém, incluídos em novo período os impedimentos que se verificarem mais de três meses após aquele em que tenha sido dada a alta anterior.
+Art. 33.º - 1. O subsídio será pago nos montantes previstos no n.º 1 do artigo anterior, pelo máximo de 360 dias seguidos ou interpolados em cada período de doença, considerando-se, porém, incluídos em novo período os impedimentos que se verificarem mais de três meses após aquele em que tenha sido dada a alta anterior.
 
 2. Se, atingido o limite de tempo fixado no número anterior, o impedimento por doença se mantiver, o subsídio será reduzido a 30 por cento do vencimento, prolongando-se a sua concessão até à alta, pelo prazo máximo de três anos, findo o qual o beneficiário passará ao regime de protecção na invalidez, no caso de ainda subsistir o impedimento.
 
 3. Em todos os casos em que tenha sido atingido o limite de tempo fixado no n.º 1, o beneficiário só poderá receber novo subsídio decorridos seis meses após aquele em que tenha sido dada a alta.
 
-###### Art. 34.º O subsídio pecuniário a conceder pela Caixa substitui o pagamento de vencimentos na doença pela Companhia.
+Art. 34.º O subsídio pecuniário a conceder pela Caixa substitui o pagamento de vencimentos na doença pela Companhia.
 
 #### SECÇÃO III — Invalidez
 
-###### Art. 35.º - 1. Têm direito a pensão de invalidez os beneficiários que, havendo completado o prazo de garantia de cinco anos e antes de atingirem as condições de reforma por velhice, se encontrem definitivamente incapacitados de trabalhar na sua profissão, de modo a não poderem auferir no desempenho desta mais de um terço da remuneração correspondente ao seu exercício normal.
+Art. 35.º - 1. Têm direito a pensão de invalidez os beneficiários que, havendo completado o prazo de garantia de cinco anos e antes de atingirem as condições de reforma por velhice, se encontrem definitivamente incapacitados de trabalhar na sua profissão, de modo a não poderem auferir no desempenho desta mais de um terço da remuneração correspondente ao seu exercício normal.
 
 2. Considera-se definitiva a redução da capacidade para o trabalho quando seja de presumir que, na falta de tratamento adequado de recuperação ou reabilitação profissional, o beneficiário não teria melhoria apreciável dentro dos três anos subsequentes, de forma a poder auferir no desempenho da sua profissão ou outra equivalente mais de 50 por cento da remuneração correspondente ao seu exercício normal.
 
@@ -358,13 +366,13 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 5. Aos beneficiários em regime de inscrição facultativa só é concedida pensão de invalidez quando estejam definitivamente incapacitados para o exercício de qualquer profissão compatível com os seus hábitos de vida e as suas habilitações e formação profissional.
 
-###### Art. 36.º A pensão de invalidez será calculada do mesmo modo que a da reforma por velhice, conforme a classe a que pertença o beneficiário, mas não poderá, em qualquer caso, ser inferior à pensão de reforma correspondente a dez anos de inscrição.
+Art. 36.º A pensão de invalidez será calculada do mesmo modo que a da reforma por velhice, conforme a classe a que pertença o beneficiário, mas não poderá, em qualquer caso, ser inferior à pensão de reforma correspondente a dez anos de inscrição.
 
-###### Art. 37.º - 1. Ressalvado o disposto no n.º 2 do artigo 33.º, para ser concedida a pensão de invalidez deverão os beneficiários ou os seus representantes requerer à direcção da Caixa no sentido de serem submetidos a exame médico.
+Art. 37.º - 1. Ressalvado o disposto no n.º 2 do artigo 33.º, para ser concedida a pensão de invalidez deverão os beneficiários ou os seus representantes requerer à direcção da Caixa no sentido de serem submetidos a exame médico.
 
 2. A apresentação ao exame médico, para os mesmos fins, pode ser também solicitada pela Companhia e será ordenada oficiosamente pela direcção da Caixa na hipótese prevista no n.º 2 do artigo 33.º
 
-###### Art. 38.º - 1. A incapacidade para o trabalho será apreciada com base em parecer escrito de uma comissão de verificação de invalidez, constituída por um médico designado pela direcção da Caixa e um médico e um assessor técnico nomeados pela Companhia.
+Art. 38.º - 1. A incapacidade para o trabalho será apreciada com base em parecer escrito de uma comissão de verificação de invalidez, constituída por um médico designado pela direcção da Caixa e um médico e um assessor técnico nomeados pela Companhia.
 
 2. O parecer da comissão será comunicado à direcção da Caixa, ao beneficiário e à Companhia dentro dos três dias seguintes à conclusão do exame.
 
@@ -374,15 +382,15 @@ d) O tempo retrotraído será contado para efeito do cumprimento dos prazos de g
 
 5. As despesas com os peritos competem a quem os houver designado. Todavia, o beneficiário só responde pelas dos seus se tiver requerido a revisão do parecer e este for confirmado. Fora dessa hipótese, os peritos nomeados pelo beneficiário serão remunerados pela Companhia, se só ela tiver requerido a revisão, e pela Caixa, nos demais casos.
 
-###### Art. 39.º - 1. Sem prejuízo do disposto no n.º 2 do artigo 33.º, a pensão de invalidez é devida desde a data da apresentação do requerimento referido no artigo 37.º, se for feita a prova de que nessa data o beneficiário já não podia trabalhar e estava privado de vencimentos, ou desde a verificação da invalidez, se não for feita essa prova.
+Art. 39.º - 1. Sem prejuízo do disposto no n.º 2 do artigo 33.º, a pensão de invalidez é devida desde a data da apresentação do requerimento referido no artigo 37.º, se for feita a prova de que nessa data o beneficiário já não podia trabalhar e estava privado de vencimentos, ou desde a verificação da invalidez, se não for feita essa prova.
 
 2. A pensão será paga mensalmente no fim do mês a que disser respeito.
 
-###### Art. 40.º - 1. Os inválidos pensionistas, enquanto não completarem a idade de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame, nos termos do artigo 38.º, sempre que a direcção da Caixa o entender ou a Companhia o solicitar e, obrigatòriamente, uma vez por ano durante os três primeiros anos, para se verificar se perduram as condições que motivaram a concessão da pensão.
+Art. 40.º - 1. Os inválidos pensionistas, enquanto não completarem a idade de reforma por velhice, serão sujeitos, sem quaisquer encargos, a exame, nos termos do artigo 38.º, sempre que a direcção da Caixa o entender ou a Companhia o solicitar e, obrigatòriamente, uma vez por ano durante os três primeiros anos, para se verificar se perduram as condições que motivaram a concessão da pensão.
 
 2. Do parecer da comissão de revisão haverá recurso, observando-se o disposto nos n.os 3, 4 e 5 do artigo 38.º
 
-###### Art. 41.º - 1. A pensão será suspensa:
+Art. 41.º - 1. A pensão será suspensa:
 
 a) Se o pensionista não fizer prova anual de vida dentro do prazo designado pela Caixa e enquanto a não fizer;
 
@@ -390,23 +398,23 @@ b) Se o pensionista auferir proventos regulares pelo exercício de qualquer acti
 
 2. Na hipótese prevista na alínea b), a suspensão dar-se-á na parte em que a soma dos proventos e da pensão exceder 80 por cento da remuneração correspondente ao exercício normal da profissão a que respeita a invalidez; mas se o beneficiário estiver em regime de readaptação profissional, a pensão será mantida na parte que, somada à remuneração da nova actividade, não exceda o vencimento correspondente àquele exercício normal.
 
-###### Art. 42.º - 1. A pensão será suprimida desde que se verifique não subsistirem razões que justifiquem o reconhecimento da invalidez.
+Art. 42.º - 1. A pensão será suprimida desde que se verifique não subsistirem razões que justifiquem o reconhecimento da invalidez.
 
 2. Os abrangidos pelo número anterior poderão ser readmitidos ao serviço da Companhia e reinscritos na Caixa nos termos deste Regulamento.
 
-###### Art. 43.º Enquanto não tiver serviços adequados de reabilitação profissional ou deles não dispuser a Companhia, a Caixa pode estabelecer acordos com as instituições ou serviços oficiais ou particulares da especialidade, para o tratamento dos seus beneficiários.
+Art. 43.º Enquanto não tiver serviços adequados de reabilitação profissional ou deles não dispuser a Companhia, a Caixa pode estabelecer acordos com as instituições ou serviços oficiais ou particulares da especialidade, para o tratamento dos seus beneficiários.
 
-###### Art. 44.º Não há lugar a concessão de pensão quando a invalidez resulte das causas indicadas no n.º 5 do artigo 31.º
+Art. 44.º Não há lugar a concessão de pensão quando a invalidez resulte das causas indicadas no n.º 5 do artigo 31.º
 
-###### Art. 45.º Atingida a idade da reforma por velhice, as pensões de invalidez tomam, de direito, a natureza de pensões por velhice.
+Art. 45.º Atingida a idade da reforma por velhice, as pensões de invalidez tomam, de direito, a natureza de pensões por velhice.
 
 #### SECÇÃO IV — Velhice
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 46.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma.
+Art. 46.º A protecção na velhice é realizada mediante a concessão de pensões vitalícias de reforma.
 
-###### Art. 47.º - 1. Sem prejuízo dos regimes especiais previstos nos artigos 54.º e 55.º, o direito à reforma é reconhecido a todos os beneficiários que, depois de completarem dez anos de inscrição, atinjam a idade de 65 anos.
+Art. 47.º - 1. Sem prejuízo dos regimes especiais previstos nos artigos 54.º e 55.º, o direito à reforma é reconhecido a todos os beneficiários que, depois de completarem dez anos de inscrição, atinjam a idade de 65 anos.
 
 2. A idade da reforma é reduzida a 60 anos para os maquinistas e fogueiros que atinjam essa idade no exercício regular da condução de locomotivas.
 
@@ -416,29 +424,29 @@ b) Se o pensionista auferir proventos regulares pelo exercício de qualquer acti
 
 5. A autorização para continuar ao serviço referida no n.º 3 carece de ser anualmente confirmada, mediante novo requerimento e exame médico, e pode ser cancelada a todo o tempo, mediante aviso ao beneficiário e à Caixa com a antecedência mínima de 60 dias.
 
-###### Art. 48.º - 1. Poderão ser reformados, quando tenham completado 10 anos de inscrição e 50 de idade, os beneficiários que forem exonerados do serviço da Companhia por virtude da supressão de lugares resultante da extinção ou remodelação de serviços, ou da redução dos quadros ou por outro motivo de conveniência para o serviço da Companhia. A Caixa será notificada do despedimento, para efeito da concessão da reforma.
+Art. 48.º - 1. Poderão ser reformados, quando tenham completado 10 anos de inscrição e 50 de idade, os beneficiários que forem exonerados do serviço da Companhia por virtude da supressão de lugares resultante da extinção ou remodelação de serviços, ou da redução dos quadros ou por outro motivo de conveniência para o serviço da Companhia. A Caixa será notificada do despedimento, para efeito da concessão da reforma.
 
 2. Não podem beneficiar do disposto neste artigo os que forem exonerados por incompetência, mau comportamento ou outro motivo que seja causa legítima de despedimento, nos termos da lei.
 
-###### Art. 49.º - 1. O montante da pensão mensal de reforma é igual ao produto do número de anos de inscrição pelo vencimento médio e pela taxa de incremento, ressalvado o disposto no n.º 2 do artigo 56.º
+Art. 49.º - 1. O montante da pensão mensal de reforma é igual ao produto do número de anos de inscrição pelo vencimento médio e pela taxa de incremento, ressalvado o disposto no n.º 2 do artigo 56.º
 
 2. O vencimento médio obtém-se dividindo o total de vencimentos recebidos no período a que se reporta pelo número de meses completos compreendidos no mesmo período.
 
 3. A pensão de reforma não poderá, em caso algum, ser mais elevada do que o vencimento médio líquido da contribuição dos beneficiários para a Caixa, ressalvado o disposto no n.º 2 do artigo 146.º
 
-###### Art. 50.º - 1. A concessão da reforma depende de requerimento dos beneficiários, que será, obrigatòriamente, apresentado à direcção da Caixa com a antecedência mínima de 30 dias sobre a data em que forem atingidos os limites de idade fixados no artigo 47.º, ou o termo do prazo por que tenha sido autorizada a continuação ao serviço nas condições do mesmo artigo.
+Art. 50.º - 1. A concessão da reforma depende de requerimento dos beneficiários, que será, obrigatòriamente, apresentado à direcção da Caixa com a antecedência mínima de 30 dias sobre a data em que forem atingidos os limites de idade fixados no artigo 47.º, ou o termo do prazo por que tenha sido autorizada a continuação ao serviço nas condições do mesmo artigo.
 
 2. Os beneficiários que adquiram direito à reforma antes dos referidos limites de idade poderão requerê-la em qualquer altura após a aquisição do direito e até atingirem esses limites ou serem dispensados do serviço pela Companhia. O requerimento será sempre apresentado com a antecipação indicada no número anterior em relação à data em que o beneficiário queira ou deva ser reformado.
 
 3. Os requerentes são obrigados a fornecer à Caixa os documentos que a direcção exigir para a instrução do processo.
 
-###### Art. 51.º - 1. A pensão de reforma é devida a partir da data em que o beneficiário seja desligado do serviço da Companhia para ser reformado.
+Art. 51.º - 1. A pensão de reforma é devida a partir da data em que o beneficiário seja desligado do serviço da Companhia para ser reformado.
 
 2. A pensão é paga mensalmente, no fim do mês a que respeite.
 
-###### Art. 52.º Poderá ser autorizada, a requerimento dos interessados, a remição das pensões inferiores a certos limites, segundo as normas e a tabela actuarial que forem aprovadas pelo conselho geral, ouvida a direcção. A remição da pensão não prejudica os direitos do beneficiário relativamente ao subsídio por morte e à pensão de sobrevivência.
+Art. 52.º Poderá ser autorizada, a requerimento dos interessados, a remição das pensões inferiores a certos limites, segundo as normas e a tabela actuarial que forem aprovadas pelo conselho geral, ouvida a direcção. A remição da pensão não prejudica os direitos do beneficiário relativamente ao subsídio por morte e à pensão de sobrevivência.
 
-###### Art. 53.º - 1. A pensão de reforma será suspensa:
+Art. 53.º - 1. A pensão de reforma será suspensa:
 
 a) Se o pensionista não fizer prova anual de vida, nos termos da alínea a) do n.º 1 do artigo 41.º;
 
@@ -450,7 +458,7 @@ b) Se, antes da idade de 70 anos, o pensionista for reinscrito na Caixa.
 
 ##### SUBSECÇÃO II — Disposições especiais aplicáveis a cada classe de inscritos
 
-###### Art. 54.º - 1. Os beneficiários da classe A poderão ser reformados desde que atinjam a idade de 55 anos, tendo completado o seguinte tempo de inscrição:
+Art. 54.º - 1. Os beneficiários da classe A poderão ser reformados desde que atinjam a idade de 55 anos, tendo completado o seguinte tempo de inscrição:
 
 a) 25 anos no exercício efectivo das profissões de maquinista, fogueiro ou condutor, na tripulação de comboios, ou de capataz, na chefia de partidos ou brigadas da via;
 
@@ -468,7 +476,7 @@ b) 30 anos nas demais situações.
 
 7. As taxas referidas no número anterior são acrescidas de 0,5 por cento em relação ao tempo de inscrição prestado para além da data da aquisição do direito à reforma.
 
-###### Art. 55.º - 1. Os beneficiários da classe B podem ser reformados desde que atinjam a idade de 60 anos, tendo completado o seguinte tempo de inscrição:
+Art. 55.º - 1. Os beneficiários da classe B podem ser reformados desde que atinjam a idade de 60 anos, tendo completado o seguinte tempo de inscrição:
 
 a) 30 anos nas condições referidas na alínea a) do n.º 1 do artigo 54.º;
 
@@ -480,23 +488,23 @@ b) 35 anos nas demais condições.
 
 4. A taxa de incremento é de 2,5 por cento para o tempo de inscrição prestado nas condições da alínea a) do n.º 1 do artigo 54.º e de 2,25 por cento para o prestado noutras condições.
 
-###### Art. 56.º - 1. Os beneficiários da classe C são reformados desde que cumpram as condições indicadas nos n.os 1 e 2 do artigo 47.º
+Art. 56.º - 1. Os beneficiários da classe C são reformados desde que cumpram as condições indicadas nos n.os 1 e 2 do artigo 47.º
 
 2. O valor da pensão será de 80 por cento do vencimento médio dos últimos 40 anos civis com entrada de contribuição, ou de 2 por cento do produto do vencimento médio dos anos civis com entrada de contribuições pelo número desses anos, se inferior a 40. Se o valor assim obtido for menor que 60 por cento do vencimento médio dos dez anos civis a que correspondam vencimentos mais elevados, será acrescido de 10 por cento desse vencimento médio, não podendo, todavia, o somatório exceder aqueles 60 por cento.
 
 #### SECÇÃO V — Morte
 
-###### Art. 57.º A protecção na morte é realizada mediante a concessão de um subsídio, pago por uma só vez, e de pensões de sobrevivência.
+Art. 57.º A protecção na morte é realizada mediante a concessão de um subsídio, pago por uma só vez, e de pensões de sobrevivência.
 
 ##### SUBSECÇÃO I — Subsídio por morte
 
-###### Art. 58.º O direito ao subsídio por morte é reconhecido, a partir da data da aprovação deste Regulamento, aos familiares dos beneficiários e dos pensionistas de invalidez e de reforma que à data da morte tenham completado um ano de inscrição.
+Art. 58.º O direito ao subsídio por morte é reconhecido, a partir da data da aprovação deste Regulamento, aos familiares dos beneficiários e dos pensionistas de invalidez e de reforma que à data da morte tenham completado um ano de inscrição.
 
-###### Art. 59.º - 1. O montante do subsídio será igual a um mês do último vencimento do falecido, quando os familiares tenham também direito a pensão de sobrevivência, e a seis meses do mesmo vencimento, no caso contrário.
+Art. 59.º - 1. O montante do subsídio será igual a um mês do último vencimento do falecido, quando os familiares tenham também direito a pensão de sobrevivência, e a seis meses do mesmo vencimento, no caso contrário.
 
 2. Os reformados até à data da aprovação deste Regulamento têm direito a legar um subsídio por morte igual a um mês do seu último vencimento anterior à reforma.
 
-###### Art. 60.º - 1. O direito ao subsídio defere-se pela ordem e nos termos seguintes:
+Art. 60.º - 1. O direito ao subsídio defere-se pela ordem e nos termos seguintes:
 
 a) Metade ao cônjuge e metade aos decendentes, se houver simultâneamente um e outros;
 
@@ -520,7 +528,7 @@ b) Se a separação judicial tiver sido decretada por culpa própria.
 
 7. No caso de separação judicial ou divórcio por mútuo consentimento, o direito ao subsídio, quando não excluído pelas disposições dos números anteriores, só será reconhecido ao cônjuge ou ex-cônjuge sobrevivo se assim tiver sido consignado na declaração de bens junta ao requerimento da separação ou do divórcio.
 
-###### Art. 61.º - 1. Na falta das pessoas referidas no artigo 60.º, o subsídio será pago a parentes ou afins até ao terceiro grau da linha colateral, que estivessem a cargo do falecido e com ele vivessem em comunhão de mesa e habitação, desde que o beneficiário os designe em declaração datada e assinada pelo próprio, com a assinatura reconhecida por notário.
+Art. 61.º - 1. Na falta das pessoas referidas no artigo 60.º, o subsídio será pago a parentes ou afins até ao terceiro grau da linha colateral, que estivessem a cargo do falecido e com ele vivessem em comunhão de mesa e habitação, desde que o beneficiário os designe em declaração datada e assinada pelo próprio, com a assinatura reconhecida por notário.
 
 2. A declaração mencionará claramente a identidade e morada da pessoa ou pessoas beneficiadas.
 
@@ -532,39 +540,39 @@ b) Se a separação judicial tiver sido decretada por culpa própria.
 
 6. Consideram-se não escritas as declarações que contrariem o disposto neste artigo.
 
-###### Art. 62.º O subsídio ou a parte dele que couber a mais de uma pessoa, nos termos do artigo anterior, será dividido entre todas por igual.
+Art. 62.º O subsídio ou a parte dele que couber a mais de uma pessoa, nos termos do artigo anterior, será dividido entre todas por igual.
 
-###### Art. 63.º - 1. Qualquer dos interessados pode requerer o subsídio que lhe couber juntando ao requerimento os documentos comprovativos do óbito e dos demais factos condicionantes do seu direito.
+Art. 63.º - 1. Qualquer dos interessados pode requerer o subsídio que lhe couber juntando ao requerimento os documentos comprovativos do óbito e dos demais factos condicionantes do seu direito.
 
 2. Se os interessados tiverem também direito a pensão de sobrevivência, poderão pedir o subsídio e a pensão no mesmo requerimento.
 
-###### Art. 64.º Havendo declaração, nos termos do artigo 61.º, a Caixa procederá à sua abertura logo que tenha conhecimento da morte do beneficiário e avisará a pessoa ou pessoas designadas para fazerem prova dos factos condicionantes do seu direito.
+Art. 64.º Havendo declaração, nos termos do artigo 61.º, a Caixa procederá à sua abertura logo que tenha conhecimento da morte do beneficiário e avisará a pessoa ou pessoas designadas para fazerem prova dos factos condicionantes do seu direito.
 
-###### Art. 65.º - 1. Sempre que não constem dos registos e arquivos da Caixa ou da Companhia os elementos necessários à perfeita determinação das pessoas com direito ao subsídio, a Caixa fará publicar anúncios em dois jornais diários, um da metrópole e outro de Angola, a avisar os possíveis interessados a habilitarem-se.
+Art. 65.º - 1. Sempre que não constem dos registos e arquivos da Caixa ou da Companhia os elementos necessários à perfeita determinação das pessoas com direito ao subsídio, a Caixa fará publicar anúncios em dois jornais diários, um da metrópole e outro de Angola, a avisar os possíveis interessados a habilitarem-se.
 
 2. A Caixa poderá, quando necessário, exigir aos habilitantes documentos comprovativos de que não existem ou são conhecidos outros interessados com igual ou melhor direito.
 
-###### Art. 66.º - 1. As importâncias do subsídio serão entregues mediante recibo datado e assinado pelo respectivo titular ou por quem suas vezes fizer, no qual o destinatário se obrigue a devolver à Caixa a parte a que não tiver direito, na hipótese de posteriormente e em tempo vir a reconhecer-se haver outras pessoas com direito ao subsídio.
+Art. 66.º - 1. As importâncias do subsídio serão entregues mediante recibo datado e assinado pelo respectivo titular ou por quem suas vezes fizer, no qual o destinatário se obrigue a devolver à Caixa a parte a que não tiver direito, na hipótese de posteriormente e em tempo vir a reconhecer-se haver outras pessoas com direito ao subsídio.
 
 2. Salvo prova de culpa da Caixa, esta não é obrigada a pagar o subsídio às pessoas referidas no final do número anterior enquanto se não fizer a devolução aí prevista.
 
 3. A Caixa deduzirá do subsídio as despesas a que for obrigada para efectuar o pagamento.
 
-###### Art. 67.º - 1. Os titulares do subsídio respondem, até ao montante deste, pelas despesas do funeral do beneficiário.
+Art. 67.º - 1. Os titulares do subsídio respondem, até ao montante deste, pelas despesas do funeral do beneficiário.
 
 2. Não estando presente ou não sendo conhecido no local do falecimento nenhum desses titulares, pode a Caixa assumir o encargo do funeral e deduzir do subsídio as despesas respectivas, das quais prestará contas com o pagamento do saldo.
 
-###### Art. 68.º As importâncias de subsídios que caibam a menores ou outros incapazes, quando não haja representante legal a quem devam ser entregues, podem ser depositadas, até à cessação ou suprimento da incapacidade, num estabelecimento bancário, no Lobito, ou na Caixa Geral de Depósitos, Crédito e Previdência, em Lisboa, conforme o caso; à ordem do titular do respectivo direito ou de quem vier a ser nomeado seu representante.
+Art. 68.º As importâncias de subsídios que caibam a menores ou outros incapazes, quando não haja representante legal a quem devam ser entregues, podem ser depositadas, até à cessação ou suprimento da incapacidade, num estabelecimento bancário, no Lobito, ou na Caixa Geral de Depósitos, Crédito e Previdência, em Lisboa, conforme o caso; à ordem do titular do respectivo direito ou de quem vier a ser nomeado seu representante.
 
-###### Art. 69.º - 1. Não tem direito ao subsídio quem for judicialmente condenado como autor, cúmplice ou encobridor da morte do beneficiário, e, se já o tiver recebido, será obrigado a repô-lo.
+Art. 69.º - 1. Não tem direito ao subsídio quem for judicialmente condenado como autor, cúmplice ou encobridor da morte do beneficiário, e, se já o tiver recebido, será obrigado a repô-lo.
 
 2. A pronúncia pelos crimes a que se refere este artigo implica suspensão da concessão do subsídio.
 
 ##### SUBSECÇÃO II — Pensões de sobrevivência
 
-###### Art. 70.º O direito a pensão de sobrevivência é reconhecido, nos termos desta subsecção, aos familiares dos beneficiários que, tendo completado dez anos de inscrição, falecerem no activo ou na situação de pensionistas de invalidez ou de velhice.
+Art. 70.º O direito a pensão de sobrevivência é reconhecido, nos termos desta subsecção, aos familiares dos beneficiários que, tendo completado dez anos de inscrição, falecerem no activo ou na situação de pensionistas de invalidez ou de velhice.
 
-###### Art. 71.º - 1. A pensão de sobrevivência é atribuída:
+Art. 71.º - 1. A pensão de sobrevivência é atribuída:
 
 a) Ao cônjuge sobrevivo, ressalvado o disposto nos n.os 2, 3 e 4 deste artigo;
 
@@ -586,7 +594,7 @@ d) Aos pais, quando tenham mais de 70 anos de idade ou estejam total e definitiv
 
 7. As pessoas referidas nas alíneas c) e d) do n.º 1 apenas têm direito a pensão se não houver cônjuge ou filhos com direito a ela.
 
-###### Art. 72.º - 1. A pensão de sobrevivência a legar pelos beneficiários da classe A será igual a 50 por cento da pensão de reforma que estiverem recebendo na data do falecimento ou da que lhes competiria se fossem reformados nessa data.
+Art. 72.º - 1. A pensão de sobrevivência a legar pelos beneficiários da classe A será igual a 50 por cento da pensão de reforma que estiverem recebendo na data do falecimento ou da que lhes competiria se fossem reformados nessa data.
 
 2. Na atribuição da pensão de sobrevivência serão observadas as regras seguintes:
 
@@ -602,9 +610,9 @@ d) Não havendo cônjuge nem descendentes com direito à pensão e havendo pais 
 
 4. Quando caduque a quota de um descendente, reverte metade dela para o cônjuge sobrevivo.
 
-###### Art. 73.º - 1. A pensão de sobrevivência a legar pelos beneficiários das classes B e C será igual à percentagem, indicada na tabela seguinte, da pensão de reforma que estivessem recebendo à data do falecimento ou da que lhes competiria se fossem reformados nessa data:
+Art. 73.º - 1. A pensão de sobrevivência a legar pelos beneficiários das classes B e C será igual à percentagem, indicada na tabela seguinte, da pensão de reforma que estivessem recebendo à data do falecimento ou da que lhes competiria se fossem reformados nessa data:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/03400/02090226.pdf))](https://files.diariodarepublica.pt/1s/1968/02/03400/02090226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/03400/02090226.pdf)
 
 2. Se aos beneficiários que falecerem no activo corresponder pensão da reforma inferior a 60 por cento do vencimento médio, ser-lhes-á atribuída, para os efeitos do número anterior, a pensão de reforma que poderiam adquirir se vivessem e continuassem inscritos, sem alteração do vencimento médio, até completarem a idade de 65 anos ou a idade inferior em que poderiam atingir pensão igual àqueles 60 por cento.
 
@@ -612,7 +620,7 @@ d) Não havendo cônjuge nem descendentes com direito à pensão e havendo pais 
 
 4. Quando, por qualquer motivo, haja alteração do número dos participantes na pensão, que modifique a distribuição prevista na tabela, serão reajustados, em conformidade com esta, o montante global da pensão e as quotas dos destinatários.
 
-###### Art. 74.º - 1. A pensão é devida a partir do início do mês seguinte ao do falecimento do beneficiário e até final do mês em que se extinga o direito do pensionista.
+Art. 74.º - 1. A pensão é devida a partir do início do mês seguinte ao do falecimento do beneficiário e até final do mês em que se extinga o direito do pensionista.
 
 2. A pensão é paga mensalmente, no fim do mês a que disser respeito.
 
@@ -620,7 +628,7 @@ d) Não havendo cônjuge nem descendentes com direito à pensão e havendo pais 
 
 4. Se o pensionista não fizer, dentro do prazo designado pela Caixa, prova anual de que subsiste o direito à pensão, o seu pagamento será suspenso até ao mês em que for feita essa prova, sendo aplicável às pensões suspensas o prazo de prescrição fixado no artigo 28.º, a contar do último dia do mês a que disserem respeito.
 
-###### Art. 75.º A pensão de sobrevivência extingue-se em relação às quotas dos pensionistas:
+Art. 75.º A pensão de sobrevivência extingue-se em relação às quotas dos pensionistas:
 
 a) Que falecerem;
 
@@ -632,19 +640,19 @@ d) Que se reabilitarem para o trabalho, nos casos em que a concessão da pensão
 
 e) Que deixem, por qualquer outro motivo, de estar nas condições de que depende a concessão da pensão.
 
-###### Art. 76.º Os pensionistas ou os representantes legais dos que forem incapazes são obrigados a participar à Caixa no prazo da 30 dias, após a data em que ocorrerem, os factos que, nos termos do artigo anterior, causam a extinção da pensão.
+Art. 76.º Os pensionistas ou os representantes legais dos que forem incapazes são obrigados a participar à Caixa no prazo da 30 dias, após a data em que ocorrerem, os factos que, nos termos do artigo anterior, causam a extinção da pensão.
 
-###### Art. 77.º São aplicáveis à pensão de sobrevivência as disposições dos artigos 52.º, 63.º e 65.º a 69.º
+Art. 77.º São aplicáveis à pensão de sobrevivência as disposições dos artigos 52.º, 63.º e 65.º a 69.º
 
-###### Art. 78.º A Caixa poderá instituir um regime facultativo de pensões complementares de sobrevivência destinadas a melhorar as previstas nesta subsecção, mediante contribuições adicionais dos beneficiários, nos termos de regulamento especial a aprovar pelo Ministro do Ultramar.
+Art. 78.º A Caixa poderá instituir um regime facultativo de pensões complementares de sobrevivência destinadas a melhorar as previstas nesta subsecção, mediante contribuições adicionais dos beneficiários, nos termos de regulamento especial a aprovar pelo Ministro do Ultramar.
 
 #### SECÇÃO VI — Da acção social
 
-###### Art. 79.º - 1. Em complemento do seu esquema normal de prestações, a Caixa poderá prosseguir outras realizações de acção social, nos termos do n.º 2 do artigo 4.º, essencialmente dirigidas à defesa da família.
+Art. 79.º - 1. Em complemento do seu esquema normal de prestações, a Caixa poderá prosseguir outras realizações de acção social, nos termos do n.º 2 do artigo 4.º, essencialmente dirigidas à defesa da família.
 
 2. A acção social estende-se aos pensionistas e ao pessoal referido nas alíneas a) a f) do artigo 3.º, mediante o pagamento das contribuições fixadas neste Regulamento para o fundo de acção social.
 
-###### Art. 80.º - 1. À margem dos compromissos regulamentares e através do fundo de acção social, a Caixa prestará assistência aos agentes e suas famílias, quando se verifiquem situações de comprovada necessidade que os recursos dos interessados não possam resolver.
+Art. 80.º - 1. À margem dos compromissos regulamentares e através do fundo de acção social, a Caixa prestará assistência aos agentes e suas famílias, quando se verifiquem situações de comprovada necessidade que os recursos dos interessados não possam resolver.
 
 2. É especialmente prevista, para os efeitos do número anterior, a concessão de:
 
@@ -656,13 +664,13 @@ c) Subsídios para viagem à metrópole, quando não haja direito a passagens pa
 
 3. A assistência prevista neste artigo é prestada aos inscritos na Caixa, desde que tenham completado dois meses ininterruptos de inscrição, e aos não inscritos, desde que tenham prestado seis meses ininterruptos de serviço.
 
-###### Art. 81.º O exercício da acção social será objecto de regulamento interno aprovado pelo conselho geral.
+Art. 81.º O exercício da acção social será objecto de regulamento interno aprovado pelo conselho geral.
 
 ### CAPÍTULO IV — Das contribuições
 
 #### SECÇÃO I — Pagamento de contribuições
 
-###### Art. 82.º - 1. O vencimento a considerar para efeito da incidência das contribuições e da atribuição dos benefícios aos inscritos e outros titulares do direito às prestações regulamentares é a remuneração, com carácter de regularidade e permanência, constituída pelo vencimento de categoria, pelas diuturnidades e pelas subvenções destinadas à actualização daquele e destas, com exclusão de quaisquer subsídios especiais e outros abonos.
+Art. 82.º - 1. O vencimento a considerar para efeito da incidência das contribuições e da atribuição dos benefícios aos inscritos e outros titulares do direito às prestações regulamentares é a remuneração, com carácter de regularidade e permanência, constituída pelo vencimento de categoria, pelas diuturnidades e pelas subvenções destinadas à actualização daquele e destas, com exclusão de quaisquer subsídios especiais e outros abonos.
 
 2. Considera-se vencimento de categoria dos agentes em serviço em Lisboa, no período de 1 de Janeiro de 1956 a 31 de Agosto de 1966, o vencimento de categoria em 31 de Dezembro de 1955, acrescido da subvenção de 150 por cento.
 
@@ -670,7 +678,7 @@ c) Subsídios para viagem à metrópole, quando não haja direito a passagens pa
 
 4. O vencimento de categoria a considerar, não poderá ser, em momento algum dos períodos dos n.os 2 e 3, inferior, à remuneração de valor superior anteriormente tomada para a incidência das contribuições e atribuição dos benefícios.
 
-###### Art. 83.º - 1. Os beneficiários concorrerão para a Caixa com as contribuições mensais seguintes:
+Art. 83.º - 1. Os beneficiários concorrerão para a Caixa com as contribuições mensais seguintes:
 
 a) 7 por cento do vencimento definido no artigo anterior, para as modalidades de invalidez, velhice e morte, incluindo as pensões de sobrevivência;
 
@@ -680,7 +688,7 @@ b) 1 por mil da importância total ilíquida das remunerações, subsídios e qu
 
 3. Não é permitido à Caixa cobrar dos beneficiários quaisquer importâncias além das contribuições e outras receitas previstas na lei, no presente Regulamento e nos regulamentos internos devidamente aprovados. Exceptuam-se as importâncias destinadas a reembolsar a Caixa das despesas com anúncios e outros actos praticados por conta pessoal e directa dos beneficiários determinados, desde que autorizadas pela direcção ou pelo conselho geral.
 
-###### Art. 84.º - 1. As contribuições dos beneficiários que foram pagas até à data da aprovação deste Regulamento sobre vencimento inferior ao definido no artigo 82.º serão a este ajustadas por meio do pagamento de contribuições complementares, nos termos dos números seguintes.
+Art. 84.º - 1. As contribuições dos beneficiários que foram pagas até à data da aprovação deste Regulamento sobre vencimento inferior ao definido no artigo 82.º serão a este ajustadas por meio do pagamento de contribuições complementares, nos termos dos números seguintes.
 
 2. As contribuições complementares a cobrar dos beneficiários em serviço na metrópole, relativamente ao período de 1 de Abril de 1945 a 31 de Dezembro de 1955, e pelos beneficiários em serviço em Angola, relativamente ao período de 1 de Julho de 1946 a 31 de Dezembro de 1960, serão iguais ao produto das contribuições pagas no mesmo período pelos factores indicados nas tabelas seguintes:
 
@@ -722,15 +730,15 @@ tr = (5/22,7) x (d/c) x t(índice l)
 
 em que d é o valor da dívida; c é a soma das contribuições que foram cobradas e das contribuições complementares até 31 de Dezembro de 1960, e t(índice l), é o tempo de inscrição considerado entre o início e o termo do regime de subvenções.
 
-###### Art. 85.º São igualmente devidas contribuições complementares nos termos do artigo anterior por aqueles que, na data da aprovação deste Regulamento, estejam recebendo pensões de invalidez, velhice ou sobrevivência, desde que:
+Art. 85.º São igualmente devidas contribuições complementares nos termos do artigo anterior por aqueles que, na data da aprovação deste Regulamento, estejam recebendo pensões de invalidez, velhice ou sobrevivência, desde que:
 
 a) Os reformados o sejam de data posterior a 31 de Dezembro de 1960;
 
 b) Os pensionistas de sobrevivência hajam o seu direito de reformados posteriormente a 31 de Dezembro de 1960 ou de beneficiários falecidos no activo após a mesma data.
 
-###### Art. 86.º As contribuições complementares em dívida à data do falecimento do devedor serão anuladas.
+Art. 86.º As contribuições complementares em dívida à data do falecimento do devedor serão anuladas.
 
-###### Art. 87.º - 1. No prazo de 60 dias após a aprovação deste estatuto, a Caixa fará o apuramento das contribuições complementares devidas por cada beneficiário ou pensionista e comunicará a respectiva importância aos interessados, com a discriminação da parte correspondente ao período anterior a 1 de Janeiro de 1961 e da correspondente ao período iniciado nessa data.
+Art. 87.º - 1. No prazo de 60 dias após a aprovação deste estatuto, a Caixa fará o apuramento das contribuições complementares devidas por cada beneficiário ou pensionista e comunicará a respectiva importância aos interessados, com a discriminação da parte correspondente ao período anterior a 1 de Janeiro de 1961 e da correspondente ao período iniciado nessa data.
 
 2. O pagamento das contribuições complementares pode ser feito a pronto ou em prestações mensais.
 
@@ -744,7 +752,7 @@ b) As dos pensionistas não serão inferiores a 1/3 do acréscimo da pensão que
 
 5. No prazo de 30 dias, após o recebimento da notificação da importância devida, nos termos do n.º 1, os interessados deverão declarar por escrito se pretendem pagar a pronto ou em prestações, ou parte de uma forma e parte de outra, ou se desejam utilizar-se da faculdade referida no n.º 7 do artigo 84.º Na falta de declaração, entende-se que querem pagar em prestações.
 
-###### Art. 88.º - 1. A Companhia é responsável perante a Caixa pelo desconto das contribuições dos beneficiários nos respectivos vencimentos.
+Art. 88.º - 1. A Companhia é responsável perante a Caixa pelo desconto das contribuições dos beneficiários nos respectivos vencimentos.
 
 2. O disposto no número anterior é aplicável ao desconto das prestações de pagamento das contribuições complementares, segundo o plano relativo a cada beneficiário que for comunicado pela Caixa à Companhia.
 
@@ -754,7 +762,7 @@ b) As dos pensionistas não serão inferiores a 1/3 do acréscimo da pensão que
 
 5. A importância a descontar em cada mês será arredondada, por excesso, em escudos.
 
-###### Art. 89.º - 1. A Companhia concorrerá para a Caixa com as seguintes contribuições mensais, provisòriamente fixadas até à sua revisão actuarial:
+Art. 89.º - 1. A Companhia concorrerá para a Caixa com as seguintes contribuições mensais, provisòriamente fixadas até à sua revisão actuarial:
 
 a) 2 por cento dos vencimentos pagos aos inscritos, para a modalidade de subsídios na doença;
 
@@ -766,39 +774,39 @@ c) Uma quantia igual à contribuição dos beneficiários e outro pessoal previs
 
 3. As contribuições da Companhia serão entregues à Caixa juntamente com as dos beneficiários no prazo indicado no n.º 3 do artigo 88.º
 
-###### Art. 90.º - 1. No prazo de 60 dias, após a aprovação deste Regulamento, serão ajustadas ao vencimento definido no artigo 82.º e às percentagens indicadas na alínea b) do n.º 1 do artigo 89.º as contribuições da Companhia posteriores a 31 de Dezembro de 1960.
+Art. 90.º - 1. No prazo de 60 dias, após a aprovação deste Regulamento, serão ajustadas ao vencimento definido no artigo 82.º e às percentagens indicadas na alínea b) do n.º 1 do artigo 89.º as contribuições da Companhia posteriores a 31 de Dezembro de 1960.
 
 2. Para os efeitos do número anterior, a Companhia entregará à Caixa a diferença entre as contribuições correspondentes aos referidos vencimentos e percentagens e as que foram realmente pagas.
 
 3. A regularização do débito será feita no prazo de 30 dias a contar da data em que a Caixa avisar a Companhia da importância respectiva.
 
-###### Art. 91.º A partir da data em que tenha expirado o prazo para pagamento das contribuições, serão estas acrescidas do juro de 0,5 por cento por cada mês de mora, incluindo aquele em que o pagamento for efectuado.
+Art. 91.º A partir da data em que tenha expirado o prazo para pagamento das contribuições, serão estas acrescidas do juro de 0,5 por cento por cada mês de mora, incluindo aquele em que o pagamento for efectuado.
 
 O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
-###### Art. 92.º A distribuição das contribuições da Companhia e dos beneficiários pelas modalidades de previdência a que se destinam é feita segundo as percentagens indicadas na seguinte tabela:
+Art. 92.º A distribuição das contribuições da Companhia e dos beneficiários pelas modalidades de previdência a que se destinam é feita segundo as percentagens indicadas na seguinte tabela:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/02/03400/02090226.pdf))](https://files.diariodarepublica.pt/1s/1968/02/03400/02090226.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/02/03400/02090226.pdf)
 
-###### Art. 93.º A dívida de contribuições à Caixa prescreve pelo lapso de cinco anos, a contar do último dia do prazo de pagamento.
+Art. 93.º A dívida de contribuições à Caixa prescreve pelo lapso de cinco anos, a contar do último dia do prazo de pagamento.
 
 #### SECÇÃO II — Reembolso das contribuições
 
-###### Art. 94.º Aos beneficiários que, antes de completado o correspondente prazo de garantia, se invalidarem nos termos do artigo 35.º ou atingirem os limites de idade indicados no artigo 47.º será concedido o reembolso das contribuições creditadas em seu nome na parte respeitante às eventualidades de invalidez, velhice e morte.
+Art. 94.º Aos beneficiários que, antes de completado o correspondente prazo de garantia, se invalidarem nos termos do artigo 35.º ou atingirem os limites de idade indicados no artigo 47.º será concedido o reembolso das contribuições creditadas em seu nome na parte respeitante às eventualidades de invalidez, velhice e morte.
 
-###### Art. 95.º - 1. Quando os beneficiários falecerem antes de completado o prazo de garantia relativo ao subsídio por morte, será concedido aos familiares que a este teriam direito o reembolso das contribuições pagas por aqueles.
+Art. 95.º - 1. Quando os beneficiários falecerem antes de completado o prazo de garantia relativo ao subsídio por morte, será concedido aos familiares que a este teriam direito o reembolso das contribuições pagas por aqueles.
 
 2. Se o falecimento ocorrer após o cumprimento do prazo de garantia relativo ao subsídio por morte, mas antes de cumprido o referente à pensão de sobrevivência, será pago o subsídio igual a um mês de vencimento e restituir-se-ão aos familiares que teriam direito à pensão as contribuições pagas pelo beneficiário na parte que exceder a importância do subsídio.
 
-###### Art. 96.º Os beneficiários cuja inscrição seja cancelada nos termos do artigo 21.º têm direito ao reembolso das contribuições que houverem pago.
+Art. 96.º Os beneficiários cuja inscrição seja cancelada nos termos do artigo 21.º têm direito ao reembolso das contribuições que houverem pago.
 
-###### Art. 97.º - 1. Poderá ser autorizada, de harmonia com a tabela actuarial e as normas que forem aprovadas pelo conselho geral, a aplicação do capital do reembolso a que se referem os artigos 94.º e 96.º na constituição de uma renda vitalícia, acompanhada ou não de subsídio por morte, desde que a renda não seja inferior ao limite das pensões de reforma remíveis e o subsídio se comporte dentro dos limites que as normas fixarem.
+Art. 97.º - 1. Poderá ser autorizada, de harmonia com a tabela actuarial e as normas que forem aprovadas pelo conselho geral, a aplicação do capital do reembolso a que se referem os artigos 94.º e 96.º na constituição de uma renda vitalícia, acompanhada ou não de subsídio por morte, desde que a renda não seja inferior ao limite das pensões de reforma remíveis e o subsídio se comporte dentro dos limites que as normas fixarem.
 
 2. No caso do artigo 96.º, a renda será paga a partir da data em que o interessado atinja 65 anos de idade, mas se ele se invalidar, nos termos do n.º 5 do artigo 35.º, antes dessa idade, a reserva matemática até então constituída será aplicada à constituição de renda a servir imediatamente.
 
 3. Poderá ser autorizado o reforço pelos interessados do capital a converter em renda, nos termos dos números anteriores.
 
-###### Art. 98.º - 1. As contribuições indevidamente pagas à Caixa serão restituídas a pedido dos interessados, na medida em que não sejam devidas a outra instituição de seguro obrigatório.
+Art. 98.º - 1. As contribuições indevidamente pagas à Caixa serão restituídas a pedido dos interessados, na medida em que não sejam devidas a outra instituição de seguro obrigatório.
 
 2. A restituição será feita à Companhia e aos beneficiários pela parte proporcional das respectivas contribuições, depois de deduzido o valor de todos os benefícios que na sua base tenham sido concedidos.
 
@@ -806,7 +814,7 @@ O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
 4. As contribuições devidas a outra caixa, nos termos deste artigo, são para ela transferidas depois de deduzidas as importâncias equivalentes aos benefícios concedidos.
 
-###### Art. 99.º O direito de reclamar o reembolso ou a restituição das contribuições extingue-se pelo prazo de um ano, a contar da data em que for declarada a invalidez, atingido o limite de idade, abandonado o serviço da Companhia ou verificado o falecimento, nos casos dos artigos 94.º a 96.º, ou da data do pagamento indevido, no caso do artigo 98.º
+Art. 99.º O direito de reclamar o reembolso ou a restituição das contribuições extingue-se pelo prazo de um ano, a contar da data em que for declarada a invalidez, atingido o limite de idade, abandonado o serviço da Companhia ou verificado o falecimento, nos casos dos artigos 94.º a 96.º, ou da data do pagamento indevido, no caso do artigo 98.º
 
 ### CAPÍTULO V — Da administração
 
@@ -814,9 +822,9 @@ O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
 ##### SUBSECÇÃO I — Disposições comuns
 
-###### Art. 100.º A gerência da Caixa compete ao conselho geral e à direcção.
+Art. 100.º A gerência da Caixa compete ao conselho geral e à direcção.
 
-###### Art. 101.º - 1. Só podem ser nomeados ou eleitos para os corpos gerentes os cidadãos portugueses, maiores, no gozo dos seus direitos civis e políticos e para os cargos de vogais representantes dos beneficiários os beneficiários em serviço activo que não estejam em situação irregular perante a Caixa por infracção dos seus deveres legais e regulamentares.
+Art. 101.º - 1. Só podem ser nomeados ou eleitos para os corpos gerentes os cidadãos portugueses, maiores, no gozo dos seus direitos civis e políticos e para os cargos de vogais representantes dos beneficiários os beneficiários em serviço activo que não estejam em situação irregular perante a Caixa por infracção dos seus deveres legais e regulamentares.
 
 2. Não podem exercer simultâneamente cargos dos corpos gerentes os indivíduos que tenham entre si parentesco até ao 3.º grau.
 
@@ -824,9 +832,9 @@ O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
 4. Serão aprovadas pelo Ministro do Ultramar, sob proposta do conselho geral, as normas relativas à eleição dos membros dos corpos gerentes.
 
-###### Art. 102.º Os eleitos ou nomeados para os corpos gerentes não podem escusar-se do cargo, salvo dispensa, por motivos justificados, da entidade competente para os nomear ou confirmar.
+Art. 102.º Os eleitos ou nomeados para os corpos gerentes não podem escusar-se do cargo, salvo dispensa, por motivos justificados, da entidade competente para os nomear ou confirmar.
 
-###### Art. 103.º - 1. Os membros dos corpos gerentes serão assíduos às respectivas sessões e, quando não possam comparecer, devem pedir ao presidente a justificação da falta, com a possível antecedência.
+Art. 103.º - 1. Os membros dos corpos gerentes serão assíduos às respectivas sessões e, quando não possam comparecer, devem pedir ao presidente a justificação da falta, com a possível antecedência.
 
 2. Os membros substitutos entram em exercício na falta ou impedimento dos efectivos.
 
@@ -842,9 +850,9 @@ O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
 8. Qualquer remuneração aos membros dos corpos gerentes, além das compensações previstas neste artigo, só pode ser autorizada pelo Ministro do Ultramar, mediante proposta do conselho geral.
 
-###### Art. 104.º Não é permitido aos membros dos corpos gerentes negociar directa ou indirectamente com a Caixa.
+Art. 104.º Não é permitido aos membros dos corpos gerentes negociar directa ou indirectamente com a Caixa.
 
-###### Art. 105.º - 1. As reuniões dos corpos gerentes só poderão efectuar-se com a presença da maioria dos seus membros.
+Art. 105.º - 1. As reuniões dos corpos gerentes só poderão efectuar-se com a presença da maioria dos seus membros.
 
 2. As deliberações só serão válidas quando votadas pela maioria dos membros presentes.
 
@@ -852,25 +860,25 @@ O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
 4. Cada um dos corpos gerentes terá um livro de actas, onde serão exarados o sumário dos assuntos discutidos e as deliberações tomadas em cada reunião.
 
-###### Art. 106.º Não será permitido aos corpos gerentes ocuparem-se de assuntos estranhos à natureza e fins da instituição ou alheios à competência da cada um.
+Art. 106.º Não será permitido aos corpos gerentes ocuparem-se de assuntos estranhos à natureza e fins da instituição ou alheios à competência da cada um.
 
-###### Art. 107.º - 1. Os corpos gerentes reunir-se-ão sempre que se torne necessário, e, obrigatòriamente, uma vez em cada mês, o conselho geral, e uma vez em cada quinzena, a direcção.
+Art. 107.º - 1. Os corpos gerentes reunir-se-ão sempre que se torne necessário, e, obrigatòriamente, uma vez em cada mês, o conselho geral, e uma vez em cada quinzena, a direcção.
 
 2. Na primeira reunião de cada mês proceder-se-á à revisão das contas, começando pela conferência do movimento de tesouraria.
 
-###### Art. 108.º - 1. As deliberações dos corpos gerentes provam-se pelas respectivas actas, que deverão ser aprovadas e assinadas na sessão seguinte àquela a que respeitem.
+Art. 108.º - 1. As deliberações dos corpos gerentes provam-se pelas respectivas actas, que deverão ser aprovadas e assinadas na sessão seguinte àquela a que respeitem.
 
 2. As certidões solicitadas pelos inscritos ao abrigo da alínea f) do artigo 12.º devem ser passadas em papel comum, dentro do prazo de oito dias, a contar da data da entrega do requerimento.
 
-###### Art. 109.º Aos empregados encarregados de cobranças, pagamentos ou guarda de valores será exigida caução ou outra garantia equivalente pela importância que for fixada, sob sua responsabilidade, pelo conselho geral ou pela direcção, conforme o órgão junto do qual essas funções forem desempenhadas.
+Art. 109.º Aos empregados encarregados de cobranças, pagamentos ou guarda de valores será exigida caução ou outra garantia equivalente pela importância que for fixada, sob sua responsabilidade, pelo conselho geral ou pela direcção, conforme o órgão junto do qual essas funções forem desempenhadas.
 
-###### Art. 110.º - 1. Quando se verifiquem circunstâncias que impeçam o conselho geral ou a direcção de funcionarem regularmente, ou outros motivos graves o imponham, podem, respectivamente, o Ministro do Ultramar ou o governador-geral de Angola ordenar a suspensão ou dissolução do órgão em causa e nomear em sua substituição uma comissão administrativa, pelo prazo indispensável à normalização da situação.
+Art. 110.º - 1. Quando se verifiquem circunstâncias que impeçam o conselho geral ou a direcção de funcionarem regularmente, ou outros motivos graves o imponham, podem, respectivamente, o Ministro do Ultramar ou o governador-geral de Angola ordenar a suspensão ou dissolução do órgão em causa e nomear em sua substituição uma comissão administrativa, pelo prazo indispensável à normalização da situação.
 
 2. Cumpre à comissão administrativa promover as diligências necessárias a essa normalização.
 
 ##### SUBSECÇÃO II — Do conselho geral
 
-###### Art. 111.º - 1. O conselho geral tem sede em Lisboa e compõe-se de um presidente e quatro vogais e respectivos substitutos.
+Art. 111.º - 1. O conselho geral tem sede em Lisboa e compõe-se de um presidente e quatro vogais e respectivos substitutos.
 
 2. O presidente e seu substituto são nomeados pelo Ministro do Ultramar, sob proposta do conselho de administração da Companhia. São do mesmo modo exonerados.
 
@@ -886,9 +894,9 @@ O juro constitui encargo da Companhia sempre que a mora lhe seja imputável.
 
 8. Não sendo a eleição feita até à data indicada, poderá o Ministro do Ultramar nomear quaisquer beneficiários elegíveis que lhe sejam propostos pelo presidente do conselho geral.
 
-###### Art. 112.º O conselho geral terá um secretário e um tesoureiro, que serão eleitos entre os seus membros na primeira sessão do seu mandato.
+Art. 112.º O conselho geral terá um secretário e um tesoureiro, que serão eleitos entre os seus membros na primeira sessão do seu mandato.
 
-###### Art. 113.º - 1. Compete ao conselho geral:
+Art. 113.º - 1. Compete ao conselho geral:
 
 a) Orientar superiormente a administração da Caixa;
 
@@ -920,7 +928,7 @@ o) Exercer as demais atribuições que lhe são conferidas por este Regulamento 
 
 2. Compete ainda ao conselho geral exercer as atribuições da direcção em relação aos beneficiários e pensionistas residentes na metrópole ou no estrangeiro e aos actos administrativos que aí devam ser praticados.
 
-###### Art. 114.º - 1. Compete especialmente ao presidente do conselho geral:
+Art. 114.º - 1. Compete especialmente ao presidente do conselho geral:
 
 a) Providenciar para que a eleição e a nomeação dos membros dos corpos gerentes se efectuem nos prazos regulamentares;
 
@@ -938,11 +946,11 @@ d) Dar conhecimento à Inspecção Superior de Administração Ultramarina da po
 
 ##### SUBSECÇÃO III — Da direcção
 
-###### Art. 115.º A direcção tem sede no Lobito e compõe-se de um presidente e quatro vogais e respectivos substitutos.
+Art. 115.º A direcção tem sede no Lobito e compõe-se de um presidente e quatro vogais e respectivos substitutos.
 
-###### Art. 116.º O presidente e o seu substituto serão nomeados pelo governador-geral de Angola, sob proposta do conselho geral da Caixa. Serão da mesma forma exonerados.
+Art. 116.º O presidente e o seu substituto serão nomeados pelo governador-geral de Angola, sob proposta do conselho geral da Caixa. Serão da mesma forma exonerados.
 
-###### Art. 117.º - 1. Os vogais efectivos e substitutos representarão, em número igual, os beneficiários e a contribuinte.
+Art. 117.º - 1. Os vogais efectivos e substitutos representarão, em número igual, os beneficiários e a contribuinte.
 
 2. Os representantes dos beneficiários serão eleitos por estes de entre os que prestam serviço em Angola, efectuando-se a eleição ao mesmo tempo que a dos seus representantes no conselho geral.
 
@@ -954,11 +962,11 @@ d) Dar conhecimento à Inspecção Superior de Administração Ultramarina da po
 
 6. É aplicável à direcção o disposto no artigo 112.º
 
-###### Art. 118.º - 1. Os membros de uma nova direcção são investidos no exercício das suas funções depois de o conselho geral se haver pronunciado sobre as contas da direcção anterior, permanecendo esta, entretanto, no uso do seu mandato.
+Art. 118.º - 1. Os membros de uma nova direcção são investidos no exercício das suas funções depois de o conselho geral se haver pronunciado sobre as contas da direcção anterior, permanecendo esta, entretanto, no uso do seu mandato.
 
 2. Os membros já confirmados da nova direcção podem ser convidados pelo presidente a participar, sem voto, nas reuniões da anterior, até serem investidos.
 
-###### Art. 119.º - 1. Compete à direcção:
+Art. 119.º - 1. Compete à direcção:
 
 a) Gerir os negócios da Caixa com o maior zelo e economia, sob reserva da competência especialmente atribuída ao conselho geral;
 
@@ -1010,7 +1018,7 @@ v) Cumprir e fazer cumprir as disposições legais e regulamentares aplicáveis 
 
 5. O orçamento, o relatório e as contas serão elaborados segundo normas aprovadas pelo conselho geral.
 
-###### Art. 120.º Compete especialmente ao presidente da direcção:
+Art. 120.º Compete especialmente ao presidente da direcção:
 
 a) Submeter à confirmação do governador-geral de Angola os vogais eleitos e nomeados para a direcção e conferir-lhes posse depois de confirmados;
 
@@ -1018,15 +1026,15 @@ b) Enviar certidão do auto de posse ao Instituto do Trabalho, Previdência e Ac
 
 c) Convocar as reuniões da direcção, dirigir os trabalhos e promover o cumprimento das deliberações tomadas.
 
-###### Art. 121.º Ao secretário e ao tesoureiro e demais vogais cumpre exercer na direcção as funções indicadas nos n.os 2 a 4 do artigo 114.º
+Art. 121.º Ao secretário e ao tesoureiro e demais vogais cumpre exercer na direcção as funções indicadas nos n.os 2 a 4 do artigo 114.º
 
-###### Art. 122.º Os livros mestres da contabilidade terão termos de abertura e encerramento assinados pelo presidente do conselho geral e serão rubricados no Instituto do Trabalho, Previdência e Acção Social de Angola.
+Art. 122.º Os livros mestres da contabilidade terão termos de abertura e encerramento assinados pelo presidente do conselho geral e serão rubricados no Instituto do Trabalho, Previdência e Acção Social de Angola.
 
 ### CAPÍTULO VI — Gestão financeira
 
 #### SECÇÃO I — Receitas e despesas
 
-###### Art. 123.º São receitas da Caixa, além das contribuições patronais e dos beneficiários previstas nos capítulos anteriores:
+Art. 123.º São receitas da Caixa, além das contribuições patronais e dos beneficiários previstas nos capítulos anteriores:
 
 a) As prestações da empresa destinadas à cobertura do deficit financeiro relativo aos beneficiários da classe A, nos termos do n.º 3 do artigo 132.º;
 
@@ -1054,9 +1062,9 @@ m) O produto das comissões de seguros da Companhia;
 
 n) Quaisquer outras receitas que sejam ou venham a ser atribuídas à Caixa.
 
-###### Art. 124.º As receitas e despesas da Caixa serão classificadas segundo os planos de contas e de normalização estatística e administrativa estabelecidos pelo conselho geral, em conformidade com as disposições deste Regulamento e as determinações da autoridade competente.
+Art. 124.º As receitas e despesas da Caixa serão classificadas segundo os planos de contas e de normalização estatística e administrativa estabelecidos pelo conselho geral, em conformidade com as disposições deste Regulamento e as determinações da autoridade competente.
 
-###### Art. 125.º O apuramento dos resultados de cada exercício far-se-á numa conta geral de gerência, em que serão discriminadas as receitas e despesas de cada uma das seguintes contas parciais:
+Art. 125.º O apuramento dos resultados de cada exercício far-se-á numa conta geral de gerência, em que serão discriminadas as receitas e despesas de cada uma das seguintes contas parciais:
 
 a) Pensões e subsídios por morte da classe A;
 
@@ -1070,7 +1078,7 @@ e) Acção social;
 
 f) Administração.
 
-###### Art. 126.º - 1. Serão levadas a cada conta de pensões e subsídios por morte as seguintes receitas respeitantes aos beneficiários da respectiva classe:
+Art. 126.º - 1. Serão levadas a cada conta de pensões e subsídios por morte as seguintes receitas respeitantes aos beneficiários da respectiva classe:
 
 a) As contribuições normais e complementares de previdência referidas no capítulo III, com excepção da parte destinada a subsídios de doença;
 
@@ -1094,7 +1102,7 @@ b) As contribuições sobre pensões, nos termos do n.º 2 do artigo 89.º
 
 3. Os juros e rendimentos dos bens próprios não afectos ao fundo de acção social serão levados às contas de que trata este artigo, na proporção do capital acumulado, em 31 de Dezembro do ano precedente, em cada um dos correspondentes fundos de reserva indicados nas alíneas a) e b) do n.º 1 do artigo 129.º
 
-###### Art. 127.º - 1. Serão levadas à conta de acção social, além das contribuições previstas na alínea b) do n.º 1 do artigo 83.º e na alínea c) do n.º 1 do artigo 89.º:
+Art. 127.º - 1. Serão levadas à conta de acção social, além das contribuições previstas na alínea b) do n.º 1 do artigo 83.º e na alínea c) do n.º 1 do artigo 89.º:
 
 a) Os subsídios, heranças, legados e donativos destinados pelos seus autores ao fundo de acção social;
 
@@ -1108,11 +1116,11 @@ e) Quaisquer outras receitas que sejam especialmente consignadas à acção soci
 
 2. O governador-geral de Angola, desde que se certifique de que a Caixa está apta a cumprir satisfatòriamente, em relação ao pessoal da Companhia, os objectivos do Fundo de Acção Social no Trabalho de Angola, poderá autorizar que sejam entregues à Caixa, no todo ou em parte, para esse efeito, as contribuições da Companhia e dos seus empregados e trabalhadores para o mesma Fundo. Ao conceder essa autorização, o governador-geral poderá especificar os fins a que as referidas contribuições devem ser destinadas.
 
-###### Art. 128.º As receitas não especialmente consignadas a qualquer das outras contas serão levadas à conta de administração.
+Art. 128.º As receitas não especialmente consignadas a qualquer das outras contas serão levadas à conta de administração.
 
 #### SECÇÃO II — Dos fundos
 
-###### Art. 129.º - 1. A Caixa terá os seguintes fundos distintos:
+Art. 129.º - 1. A Caixa terá os seguintes fundos distintos:
 
 a) Um fundo de reserva para os beneficiários da classe A, destinado a assegurar o pagamento dos respectivos benefícios, nas eventualidades de invalidez, velhice e morte;
 
@@ -1130,17 +1138,17 @@ e) Um fundo de reserva especial.
 
 4. Os excedentes de reservas matemáticas que se verificarem nos balanços actuariais referidos no n.º 3 do artigo 131.º serão cativados no fundo de reserva especial, destinado a reduzir o deficit financeiro correspondente aos beneficiários da classe A, sem prejuízo do disposto no artigo 145.º
 
-###### Art. 130.º Enquanto não for efectuada a reavaliação actuarial prevista no n.º 1 do artigo 131.º, serão levados a um fundo provisório comum os valores do fundo de reservas matemáticas e do fundo de reserva geral constituídos até 31 de Dezembro de 1967. Feita a reavaliação, será imputada a cada um dos fundos referidos na alínea b) do n.º 1 do artigo 129.º a parte do fundo provisório equivalente ao valor actual das responsabilidades da Caixa para com os beneficiários das respectivas classes e ao fundo referido na alínea a) o remanescente.
+Art. 130.º Enquanto não for efectuada a reavaliação actuarial prevista no n.º 1 do artigo 131.º, serão levados a um fundo provisório comum os valores do fundo de reservas matemáticas e do fundo de reserva geral constituídos até 31 de Dezembro de 1967. Feita a reavaliação, será imputada a cada um dos fundos referidos na alínea b) do n.º 1 do artigo 129.º a parte do fundo provisório equivalente ao valor actual das responsabilidades da Caixa para com os beneficiários das respectivas classes e ao fundo referido na alínea a) o remanescente.
 
 #### SECÇÃO III — Equilíbrio financeiro
 
-###### Art. 131.º - 1. A Caixa promoverá, com referência à data de 31 de Dezembro de 1967, a reavaliação actuarial das suas responsabilidades, a fim de determinar as reservas matemáticas correspondentes a cada classe de beneficiários e cada modalidade de benefícios, assim como o respectivo prémio médio à entrada, e corrigir, se for caso disso, as contribuições fixadas neste Regulamento. Na reavaliação das responsabilidades relativas aos beneficiários da classe A ter-se-á em conta a incidência de contribuições da Companhia sobre as pensões. Será adoptada a taxa técnica de juro de 4 por cento ao ano.
+Art. 131.º - 1. A Caixa promoverá, com referência à data de 31 de Dezembro de 1967, a reavaliação actuarial das suas responsabilidades, a fim de determinar as reservas matemáticas correspondentes a cada classe de beneficiários e cada modalidade de benefícios, assim como o respectivo prémio médio à entrada, e corrigir, se for caso disso, as contribuições fixadas neste Regulamento. Na reavaliação das responsabilidades relativas aos beneficiários da classe A ter-se-á em conta a incidência de contribuições da Companhia sobre as pensões. Será adoptada a taxa técnica de juro de 4 por cento ao ano.
 
 2. Em conjunto com a reavaliação referida no número anterior, será feita por peritos nomeados pela Caixa a reavaliação dos seus bens imobiliários.
 
 3. A partir da data indicada no n.º 1 serão efectuados balanços actuariais de cinco em cinco anos.
 
-###### Art. 132.º - 1. A integração das pensões e subsídios por morte, enquanto não estiverem constituídas as respectivas reservas matemáticas, constitui encargo inerente à exploração do caminho de ferro de Benguela, ainda que esta seja transferida para entidade diferente da actual concessionária.
+Art. 132.º - 1. A integração das pensões e subsídios por morte, enquanto não estiverem constituídas as respectivas reservas matemáticas, constitui encargo inerente à exploração do caminho de ferro de Benguela, ainda que esta seja transferida para entidade diferente da actual concessionária.
 
 2. O equilíbrio financeiro da Caixa, no que respeita às suas responsabilidades para com os beneficiários da classe A, é assegurado pelo pagamento das contribuições previstas neste Regulamento e pela cobertura, a cargo da entidade que ao tempo detiver a exploração do caminho de ferro, dos deficits financeiros que anualmente se verificarem.
 
@@ -1154,7 +1162,7 @@ As últimas quinze prestações serão de valor constante.
 
 #### SECÇÃO IV — Aplicação de valores
 
-###### Art. 133.º - 1. Os valores da Caixa só poderão ser representados em dinheiro ou aplicados em:
+Art. 133.º - 1. Os valores da Caixa só poderão ser representados em dinheiro ou aplicados em:
 
 a) Títulos do Estado ou por ele garantidos;
 
@@ -1180,7 +1188,7 @@ e) Empréstimos aos beneficiários, a curto prazo, reembolsáveis por meio de de
 
 8. As normas de concessão de empréstimos aos beneficiários nos termos das alíneas d) e e) do n.º 1 serão aprovadas pelo conselho geral e indicarão os limites do capital a mutuar, a taxa do juro, os prazos de pagamento e as demais condições dos contratos.
 
-###### Art. 134.º - 1. Com excepção da quantia máxima que os tesoureiros poderão ter em caixa, os valores em dinheiro serão depositados em estabelecimento de crédito, à ordem da instituição, só podendo ser movimentados por meio de cheques assinados pelo presidente e tesoureiro da direcção ou do conselho geral, conforme se trate de valores à guarda daquela ou deste.
+Art. 134.º - 1. Com excepção da quantia máxima que os tesoureiros poderão ter em caixa, os valores em dinheiro serão depositados em estabelecimento de crédito, à ordem da instituição, só podendo ser movimentados por meio de cheques assinados pelo presidente e tesoureiro da direcção ou do conselho geral, conforme se trate de valores à guarda daquela ou deste.
 
 A direcção e o conselho geral poderão autorizar outros dos seus membros a assinarem os cheques, na falta ou impedimento do presidente e do tesoureiro.
 
@@ -1188,7 +1196,7 @@ A direcção e o conselho geral poderão autorizar outros dos seus membros a ass
 
 ### CAPÍTULO VII — Isenções e regalias
 
-###### Art. 135.º - 1. A Caixa goza das seguintes isenções:
+Art. 135.º - 1. A Caixa goza das seguintes isenções:
 
 a) Da contribuição industrial;
 
@@ -1216,7 +1224,7 @@ h) De impostos, contribuições, taxas, emolumentos ou licenças do Estado, dos 
 
 6. Para os efeitos deste artigo, consideram-se habitações económicas as construídas pela Caixa, para arrendamento aos seus beneficiários, e as construídas por estes, para sua habitação, com empréstimos da Caixa não inferiores a 50 por cento do custo da construção, quando a renda das primeiras não exceda o subsídio de alojamento pago pela Companhia ao inquilino e o custo das segundas não seja superior a 240 vezes o mesmo subsídio pago ao proprietário.
 
-###### Art. 136.º - 1. A Caixa goza das regalias ou faculdades seguintes:
+Art. 136.º - 1. A Caixa goza das regalias ou faculdades seguintes:
 
 a) Despedir no fim do arrendamento, quando instalada em edifício próprio, qualquer dos seus inquilinos, se necessitar da parte por eles ocupada para as suas instalações ou serviços;
 
@@ -1232,7 +1240,7 @@ e) Requisitar às conservatórias do registo civil ou a outras entidades compete
 
 ### CAPÍTULO VIII — Das penalidades
 
-###### Art. 137.º - 1. Os membros dos corpos gerentes são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, excedam ou não os limites da sua competência.
+Art. 137.º - 1. Os membros dos corpos gerentes são responsáveis, civil e criminalmente, pelas faltas ou irregularidades cometidas no exercício das suas funções, excedam ou não os limites da sua competência.
 
 2. Consideram-se isentos de responsabilidade os que não tiverem intervindo na resolução irregular ou a desaprovarem com declaração no livro de actas.
 
@@ -1240,7 +1248,7 @@ e) Requisitar às conservatórias do registo civil ou a outras entidades compete
 
 4. Os vogais dos corpos gerentes que não cumpram as suas obrigações legais ou regulamentares podem a todo o tempo ser suspensos ou afastados definitivamente das suas funções por determinação da autoridade competente para confirmar a sua nomeação ou eleição, mediante inquérito em que aos interessados tenham sido proporcionados audiência por escrito e os demais meios de defesa habituais em processos disciplinares.
 
-###### Art. 138.º - 1. Os beneficiários da Caixa serão suspensos de benefícios:
+Art. 138.º - 1. Os beneficiários da Caixa serão suspensos de benefícios:
 
 a) Por três a dez dias, os que, por palavras ou por escrito, ofenderem directamente, durante o exercício das suas funções, algum membro dos corpos gerentes ou do pessoal ao serviço da Caixa;
 
@@ -1262,9 +1270,9 @@ d) Por dois meses a um ano, os que intencionalmente defraudarem os interesses da
 
 ### CAPÍTULO IX — Disposições finais e transitórias
 
-###### Art. 139.º A Companhia e a Caixa acordarão entre si quanto à execução dos serviços administrativos da instituição, definindo-se os que podem ser desempenhados pelos departamentos competentes da Companhia, de modo a evitar duplicação do trabalho e a assegurar que os corpos gerentes disponham com regularidade e nas datas apropriadas dos elementos necessários ao exercício das suas funções.
+Art. 139.º A Companhia e a Caixa acordarão entre si quanto à execução dos serviços administrativos da instituição, definindo-se os que podem ser desempenhados pelos departamentos competentes da Companhia, de modo a evitar duplicação do trabalho e a assegurar que os corpos gerentes disponham com regularidade e nas datas apropriadas dos elementos necessários ao exercício das suas funções.
 
-###### Art. 140.º - 1. Dos registos da Caixa deverão constar, em fichas individuais, os elementos de identificação dos beneficiários e os demais necessários para se conhecer, em qualquer momento, a sua posição regulamentar passada e presente.
+Art. 140.º - 1. Dos registos da Caixa deverão constar, em fichas individuais, os elementos de identificação dos beneficiários e os demais necessários para se conhecer, em qualquer momento, a sua posição regulamentar passada e presente.
 
 2. A situação de cada beneficiário, no que respeita a contribuições e vencimentos sobre que incidem, deverá constar, pormenorizadamente, de contas individuais, na escrita da Caixa.
 
@@ -1274,34 +1282,34 @@ d) Por dois meses a um ano, os que intencionalmente defraudarem os interesses da
 
 5. A primeira lista a elaborar nos termos dos n.os 3 e 4 compreenderá os elementos relativos a todo o anterior tempo de inscrição de cada beneficiário.
 
-###### Art. 141.º - 1. Aos trabalhadores eventuais de que trata o artigo 32.º do regulamento aprovado pela Portaria do Governo-Geral de Angola n.º 2854, de 31 de Dezembro de 1938, é mantido o direito às compensações aí previstas, sendo o seu pagamento efectuado através da Caixa.
+Art. 141.º - 1. Aos trabalhadores eventuais de que trata o artigo 32.º do regulamento aprovado pela Portaria do Governo-Geral de Angola n.º 2854, de 31 de Dezembro de 1938, é mantido o direito às compensações aí previstas, sendo o seu pagamento efectuado através da Caixa.
 
 2. Desde que excedam os limites que o conselho geral fixar, essas compensações serão obrigatòriamente convertidas pela Caixa em rendas vitalícias, de harmonia com o disposto no artigo 97.º deste Regulamento.
 
-###### Art. 142.º - 1. Quando os trabalhadores referidos no artigo precedente forem inscritos na Caixa por serem abrangidos pelo disposto no artigo 3.º, ser-lhes-á contado, retroactivamente, como tempo de inscrição o que o actuário determinar como correspondente à compensação vencida até à data em que forem inscritos.
+Art. 142.º - 1. Quando os trabalhadores referidos no artigo precedente forem inscritos na Caixa por serem abrangidos pelo disposto no artigo 3.º, ser-lhes-á contado, retroactivamente, como tempo de inscrição o que o actuário determinar como correspondente à compensação vencida até à data em que forem inscritos.
 
 2. Se o tempo de serviço anterior à inscrição for inferior a quinze anos, considerar-se-á como vencida, para os efeitos deste artigo, uma compensação equivalente a doze dias de vencimento por cada ano de serviço prestado até à inscrição.
 
-###### Art. 143.º - 1. Os direitos a reconhecer pela Caixa aos seus beneficiários que estejam inscritos em outra ou outras caixas de previdência serão determinados nos termos deste Regulamento, independentemente dos direitos adquiridos nas demais instituições, salvo o disposto no número seguinte.
+Art. 143.º - 1. Os direitos a reconhecer pela Caixa aos seus beneficiários que estejam inscritos em outra ou outras caixas de previdência serão determinados nos termos deste Regulamento, independentemente dos direitos adquiridos nas demais instituições, salvo o disposto no número seguinte.
 
 2. Aos beneficiários com direito a subsídio de doença em outra ou outras caixas de previdência, para as quais a Companhia contribua, a Caixa só pagará esse subsídio na medida necessária para completar o previsto neste Regulamento, se for maior do que o recebido de outras instituições.
 
-###### Art. 144.º São canceladas as prestações de jóias ou contribuições complementares por aumento de vencimentos que estejam em dívida na data da aprovação deste Regulamento.
+Art. 144.º São canceladas as prestações de jóias ou contribuições complementares por aumento de vencimentos que estejam em dívida na data da aprovação deste Regulamento.
 
-###### Art. 145.º - 1. Quando a variação do custo de vida o justifique e o equilíbrio financeiro da Caixa o permita, o Ministro do Ultramar, sob proposta do conselho geral, pode autorizar, por despacho, a actualização, total ou parcial, das pensões.
+Art. 145.º - 1. Quando a variação do custo de vida o justifique e o equilíbrio financeiro da Caixa o permita, o Ministro do Ultramar, sob proposta do conselho geral, pode autorizar, por despacho, a actualização, total ou parcial, das pensões.
 
 2. O despacho poderá restringir a actualização às pensões de nível mais modesto e estabelecê-la na forma de aumentos degressivos em relação ao montante das pensões.
 
-###### Art. 146.º - 1. Serão revistas, de harmonia com as normas fixadas neste Regulamento, as pensões atribuídas desde 1 de Janeiro de 1961 até à data da aprovação deste Regulamento.
+Art. 146.º - 1. Serão revistas, de harmonia com as normas fixadas neste Regulamento, as pensões atribuídas desde 1 de Janeiro de 1961 até à data da aprovação deste Regulamento.
 
 2. Serão mantidas sem alteração as pensões que, no mesmo período, tenham sido atribuídas por valor superior ao que resultar da revisão.
 
-###### Art. 147.º Os beneficiários com residência permanente no estrangeiro, em serviço da Companhia, são equiparados, para os efeitos deste Regulamento, aos residentes na metrópole.
+Art. 147.º Os beneficiários com residência permanente no estrangeiro, em serviço da Companhia, são equiparados, para os efeitos deste Regulamento, aos residentes na metrópole.
 
-###### Art. 148.º As dúvidas que se suscitem na interpretação deste Regulamento na parte que interessa à execução do [Decreto n.º 47166](https://diariodarepublica.pt/dr/detalhe/decreto/47166-1966-469427), de 26 de Agosto de 1966, serão resolvidas por despacho do Ministro do Ultramar.
+Art. 148.º As dúvidas que se suscitem na interpretação deste Regulamento na parte que interessa à execução do [Decreto n.º 47166](https://diariodarepublica.pt/dr/detalhe/decreto/47166-1966-469427), de 26 de Agosto de 1966, serão resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 149.º Os membros dos corpos gerentes em exercício na data da aprovação deste Regulamento mantêm o seu mandato até ao termo do período para que foram nomeados ou eleitos.
+Art. 149.º Os membros dos corpos gerentes em exercício na data da aprovação deste Regulamento mantêm o seu mandato até ao termo do período para que foram nomeados ou eleitos.
 
-###### Art. 150.º Este Regulamento entra imediatamente em vigor.
+Art. 150.º Este Regulamento entra imediatamente em vigor.
 
 Ministério do Ultramar, 9 de Fevereiro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

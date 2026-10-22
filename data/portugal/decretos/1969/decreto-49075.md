@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49075-1969-200267
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5db457e768209a2d90e6e205d9dc997b616ca588bf6bc201539518c44b425b15
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d952550a8b16338670d10a496a66ac7372fe7eb99e48d76c1aab8101cfa07fc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:348747:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:53Z'
   warnings: []
   errors: []
 ---
@@ -91,12 +95,12 @@ Assim:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. A Câmara Municipal de Lagoa, do distrito de Faro, satisfará ao Estado, em cinco prestações, a importância de 13317$60, relativa a serviços prestados pelo Instituto Geográfico e Cadastral, sendo a primeiro de 2665$60, vencível durante o mês de Agosto próximo futuro, e as restantes de 2663$00, vencíveis em igual mês dos anos de 1970 a 1973.
+Artigo único. A Câmara Municipal de Lagoa, do distrito de Faro, satisfará ao Estado, em cinco prestações, a importância de 13317$60, relativa a serviços prestados pelo Instituto Geográfico e Cadastral, sendo a primeiro de 2665$60, vencível durante o mês de Agosto próximo futuro, e as restantes de 2663$00, vencíveis em igual mês dos anos de 1970 a 1973.
 
 Marcello Caetano - João Augusto Dias Rosas - Augusto Victor Coelho.
 
-**Promulgado em 14 de Junho de 1969.**
+Promulgado em 14 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

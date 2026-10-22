@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48402-1968-271391
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:30Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 31a6da047b7fbcba3628c1d40ff17c8b3c21f6eeb706ac0de7859f6300d55370
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d7883b5e2d1959917c65a2f1c9b4bbaa4ef6806583a734458b34eb376828eebd
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:30Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:233363:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:388792:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:30Z'
   warnings: []
   errors: []
 ---
@@ -91,10 +99,10 @@ Tendo em vista o disposto no artigo 6.º, n.os 1 e 2, do [Decreto-Lei n.º 48234
 
 Usando da faculdade conferida pela 1.ª parte do n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O prazo previsto para conclusão da obra de construção do edifício da pousada de Oliveira do Hospital, adjudicada pela quantia de 5994649$00, a que se refere o [Decreto n.º 48016](https://diariodarepublica.pt/dr/detalhe/decreto/48016-1967-388792), de 31 de Outubro do ano findo, poderá abranger o ano de 1969.
+Artigo 1.º O prazo previsto para conclusão da obra de construção do edifício da pousada de Oliveira do Hospital, adjudicada pela quantia de 5994649$00, a que se refere o [Decreto n.º 48016](https://diariodarepublica.pt/dr/detalhe/decreto/48016-1967-388792), de 31 de Outubro do ano findo, poderá abranger o ano de 1969.
 
-###### Art. 2.º Em face do disposto no artigo anterior, e por ter sido já liquidado ao adjudicatário da obra, em 1967, 1525322$90, fica a Direcção-Geral dos Edifícios e Monumentos Nacionais autorizada a despender no corrente ano de 1968, com pagamentos relativos a trabalhos realizados, por virtude do contrato n.º 4017, até à quantia de 3000000$00, e em 1969, o restante, no valor de 1469326$10, ou o que se apurar como saldo do ano anterior.
+Art. 2.º Em face do disposto no artigo anterior, e por ter sido já liquidado ao adjudicatário da obra, em 1967, 1525322$90, fica a Direcção-Geral dos Edifícios e Monumentos Nacionais autorizada a despender no corrente ano de 1968, com pagamentos relativos a trabalhos realizados, por virtude do contrato n.º 4017, até à quantia de 3000000$00, e em 1969, o restante, no valor de 1469326$10, ou o que se apurar como saldo do ano anterior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Albino Machado Vaz.

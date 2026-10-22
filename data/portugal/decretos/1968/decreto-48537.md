@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48537-1968-276069
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8c27cddbfcffc552a98e983c7eb1008eb58839017b8299b0da584b5307d06d53
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 022e7223a913f32d34b3efa2f9524a6c1c62e67d53e7eefc76be8c1a34f92609
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:204418:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:430036:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:28Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +96,11 @@ Nestes termos;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento das Brigadas de Caminhos de Ferro, que faz parte integrante do presente diploma.
+Artigo 1.º É aprovado o Regulamento das Brigadas de Caminhos de Ferro, que faz parte integrante do presente diploma.
 
-###### Art. 2.º Fica revogado o [Decreto n.º 5456](https://diariodarepublica.pt/dr/detalhe/decreto/5456-1919-204418), de 29 de Abril de 1919.
+Art. 2.º Fica revogado o [Decreto n.º 5456](https://diariodarepublica.pt/dr/detalhe/decreto/5456-1919-204418), de 29 de Abril de 1919.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Joaquim da Luz Cunha - Joaquim Moreira da Silva Cunha - Carlos Gomes da Silva Ribeiro.
 
@@ -102,11 +110,11 @@ REGULAMENTO DAS BRIGADAS DE CAMINHOS DE FERRO
 
 ### CAPÍTULO I — Organização
 
-###### Artigo 1.º As brigadas de caminhos de ferro são constituídas por todo o pessoal ferroviário, de ambos os sexos, das linhas de caminhos de ferro das redes de Portugal metropolitano e ultramarino, excluindo os militares do Exército e da Força Aérea das classes afectas à mobilização militar e o pessoal da Marinha, que deve ser mobilizado segundo o sistema de convocação vertical.
+Artigo 1.º As brigadas de caminhos de ferro são constituídas por todo o pessoal ferroviário, de ambos os sexos, das linhas de caminhos de ferro das redes de Portugal metropolitano e ultramarino, excluindo os militares do Exército e da Força Aérea das classes afectas à mobilização militar e o pessoal da Marinha, que deve ser mobilizado segundo o sistema de convocação vertical.
 
 § único. As classes afectas à mobilização militar serão definidas por cada um dos departamentos das forças armadas:
 
-###### Art. 2.º O pessoal das brigadas de caminhos de ferro é distribuído por dois escalões:
+Art. 2.º O pessoal das brigadas de caminhos de ferro é distribuído por dois escalões:
 
 a) Faz parte do primeiro escalão - pessoal matriculado - o pessoal dos serviços de movimento, comercial, tráfego, fiscalização das receitas, telecomunicações, sinalização, electricidade, camionagem automóvel, via fluvial, tracção, material circulante, revisão de material, serviços técnicos, oficinas e via e obras, sujeito a obrigações militares de qualquer natureza, seja qual for a sua graduação e situação militar, incluindo o pessoal do Batalhão de Sapadores de Caminhos de Ferro e com excepção do pessoal das classes afectas à mobilização militar referidas no artigo anterior;
 
@@ -114,27 +122,27 @@ b) Fazem parte do segundo escalão - pessoal relacionado - todos os restantes fe
 
 § único. O pessoal do primeiro escalão constará dos respectivos livros de ordem na Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) e na Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e Caminhos de Ferro) ou respectivas delegações no ultramar. O pessoal do segundo escalão constará de relações, separadas por sexos, fornecidas pelas direcções ou empresas exploradoras de caminhos de ferro, referentes ao dia 1 de Janeiro de cada ano.
 
-###### Art. 3.º O pessoal do primeiro escalão - pessoal matriculado - tem passagem ao segundo escalão logo que tenha baixa do serviço militar.
+Art. 3.º O pessoal do primeiro escalão - pessoal matriculado - tem passagem ao segundo escalão logo que tenha baixa do serviço militar.
 
-###### Art. 4.º O recenseamento, instrução, inspecção e mobilização do pessoal dos serviços de movimento, comercial, tráfego, fiscalização das receitas, telecomunicações, sinalização, electricidade, camionagem automóvel, via fluvial, tracção, material circulante, revisão de material, serviços técnicos e oficinas está a cargo da Direcção do Serviço de Transportes, por intermédio da Repartição de Recenseamento, Requisição e Mobilização (Secção das Brigadas de Caminhos de Ferro), em conformidade com a alínea d) do artigo 129.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959. O recenseamento, instrução, inspecção e mobilização de pessoal de via e obras e de outros serviços ferroviários não mencionados neste artigo está a cargo da Direcção da Arma de Engenharia, por intermédio da Direcção de Estudos Gerais e Planeamento da Instrução (Secção das Brigadas de Estradas e de Caminhos de Ferro), em conformidade com a alínea d) do artigo 85.º do referido decreto-lei.
+Art. 4.º O recenseamento, instrução, inspecção e mobilização do pessoal dos serviços de movimento, comercial, tráfego, fiscalização das receitas, telecomunicações, sinalização, electricidade, camionagem automóvel, via fluvial, tracção, material circulante, revisão de material, serviços técnicos e oficinas está a cargo da Direcção do Serviço de Transportes, por intermédio da Repartição de Recenseamento, Requisição e Mobilização (Secção das Brigadas de Caminhos de Ferro), em conformidade com a alínea d) do artigo 129.º do [Decreto-Lei n.º 42564](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42564-1959-430036), de 7 de Outubro de 1959. O recenseamento, instrução, inspecção e mobilização de pessoal de via e obras e de outros serviços ferroviários não mencionados neste artigo está a cargo da Direcção da Arma de Engenharia, por intermédio da Direcção de Estudos Gerais e Planeamento da Instrução (Secção das Brigadas de Estradas e de Caminhos de Ferro), em conformidade com a alínea d) do artigo 85.º do referido decreto-lei.
 
 § único. Nas províncias ultramarinas de Angola e de Moçambique serão criadas delegações das Secções das Brigadas de Caminhos de Ferro da Direcção do Serviço de Transportes e da Direcção da Arma de Engenharia, respectivamente, tendo, quanto ao ultramar, funções idênticas às secções da metrópole.
 
-###### Art. 5.º As direcções e empresas exploradoras promoverão a inscrição do pessoal do primeiro escalão na Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), na Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou respectivas delegações no ultramar, em conformidade com o serviço a que pertence, logo que os agentes completem seis meses de serviço nos respectivos quadros (relação modelo n.º 3).
+Art. 5.º As direcções e empresas exploradoras promoverão a inscrição do pessoal do primeiro escalão na Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), na Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou respectivas delegações no ultramar, em conformidade com o serviço a que pertence, logo que os agentes completem seis meses de serviço nos respectivos quadros (relação modelo n.º 3).
 
 § único. Se os agentes nas condições deste artigo tiverem pertencido aos quadros das direcções ou empresas exploradoras pelo menos seis meses antes da incorporação militar, serão inscritos nas respectivas brigadas, logo que passem à disponibilidade, se continuarem ao serviço daquelas direcções ou empresas e não pertencerem a qualquer das classes utilizadas pela mobilização militar.
 
-###### Art. 6.º O pessoal do primeiro escalão das brigadas de caminhos de ferro é abatido ao efectivo das respectivas unidades e distritos de recrutamento e mobilização, das secções de mobilização dos centros de recrutamento e mobilização da Força Aérea e da Direcção do Serviço do Pessoal do Ministério da Marinha, sendo transferidos os seus documentos de matrícula para a Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secções das Brigadas de Caminhos de Ferro), para a Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou para as respectivas delegações no ultramar. O pessoal sujeito a obrigações militares inscrito no segundo escalão das brigadas continuará a depender, para efeitos militares, das unidades e distritos de recrutamento e mobilização a que pertence.
+Art. 6.º O pessoal do primeiro escalão das brigadas de caminhos de ferro é abatido ao efectivo das respectivas unidades e distritos de recrutamento e mobilização, das secções de mobilização dos centros de recrutamento e mobilização da Força Aérea e da Direcção do Serviço do Pessoal do Ministério da Marinha, sendo transferidos os seus documentos de matrícula para a Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secções das Brigadas de Caminhos de Ferro), para a Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou para as respectivas delegações no ultramar. O pessoal sujeito a obrigações militares inscrito no segundo escalão das brigadas continuará a depender, para efeitos militares, das unidades e distritos de recrutamento e mobilização a que pertence.
 
-###### Art. 7.º Os agentes ferroviários transferidos de um para outro serviço, nas direcções ou empresas exploradoras, serão transferidos da Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) para a Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou vice-versa, se o novo serviço estiver afecto a repartição ou direcção diferente. Proceder-se-á da mesma forma quanto às delegações das secções no ultramar.
+Art. 7.º Os agentes ferroviários transferidos de um para outro serviço, nas direcções ou empresas exploradoras, serão transferidos da Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) para a Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou vice-versa, se o novo serviço estiver afecto a repartição ou direcção diferente. Proceder-se-á da mesma forma quanto às delegações das secções no ultramar.
 
-###### Art. 8.º O pessoal do primeiro escalão das brigadas de caminhos de ferro que deixe de prestar serviço nas direcções ou empresas exploradoras é abatido ao efectivo das respectivas brigadas e transferido para as unidades ou distritos de recrutamento e mobilização, secções de mobilização dos centros de recrutamento e mobilização da Força Aérea e Direcção do Serviço do Pessoal do Ministério da Marinha, se pertencerem às tropas disponíveis, licenciadas e territoriais do Exército, à Força Aérea ou às reservas da Marinha, respectivamente.
+Art. 8.º O pessoal do primeiro escalão das brigadas de caminhos de ferro que deixe de prestar serviço nas direcções ou empresas exploradoras é abatido ao efectivo das respectivas brigadas e transferido para as unidades ou distritos de recrutamento e mobilização, secções de mobilização dos centros de recrutamento e mobilização da Força Aérea e Direcção do Serviço do Pessoal do Ministério da Marinha, se pertencerem às tropas disponíveis, licenciadas e territoriais do Exército, à Força Aérea ou às reservas da Marinha, respectivamente.
 
 § único. O pessoal a que se refere este artigo só poderá voltar a ser inscrito nas secções das brigadas de caminhos de ferro ou suas delegações por meio de nova proposta das direcções ou empresas exploradoras.
 
-###### Art. 9.º As categorias e especialidades do pessoal ferroviário são indicadas pelas direcções e empresas exploradoras nas relações a remeter à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) e à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Armada de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou respectivas delegações no ultramar.
+Art. 9.º As categorias e especialidades do pessoal ferroviário são indicadas pelas direcções e empresas exploradoras nas relações a remeter à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) e à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Armada de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou respectivas delegações no ultramar.
 
-###### Art. 10.º As brigadas de caminhos de ferro são numeradas e constituídas da forma seguinte:
+Art. 10.º As brigadas de caminhos de ferro são numeradas e constituídas da forma seguinte:
 
 Brigada n.º 1 - As linhas do Minho e Douro e todas as restantes situadas a norte da linha da Beira Alta e a linha do Norte a partir da estação da Mealhada;
 
@@ -166,23 +174,23 @@ Brigada n.º 14 - As linhas da Direcção de Exploração de Lourenço Marques.
 
 § único. As brigadas n.os 1, 2 e 3 correspondem às regiões do Norte, Centro e Sul das linhas férreas exploradas pela Companhia dos Caminhos de Ferro Portugueses.
 
-###### Art. 11.º Em caso de mobilização ou convocação extraordinária, cada brigada compreenderá departamentos e serviços em conformidade com a organização adoptada na respectiva direcção ou empresa exploradora. O pessoal das brigadas será distribuído por aqueles departamentos e serviços segundo as respectivas funções.
+Art. 11.º Em caso de mobilização ou convocação extraordinária, cada brigada compreenderá departamentos e serviços em conformidade com a organização adoptada na respectiva direcção ou empresa exploradora. O pessoal das brigadas será distribuído por aqueles departamentos e serviços segundo as respectivas funções.
 
 § único. O pessoal do segundo escalão mobiliza com as brigadas em que está inscrito, sem prejuízo, para os indivíduos sujeitos a obrigações militares, da mobilização militar que lhes pertencer.
 
-###### Art. 12.º Em caso de mobilização ou convocação extraordinária, os directores da Arma de Engenharia e do Serviço de Transportes, na metrópole, ou os comandantes de região, no ultramar, nomearão os comandantes das brigadas entre os respectivos oficiais da brigada ou oficiais de engenharia que forem postos à sua disposição.
+Art. 12.º Em caso de mobilização ou convocação extraordinária, os directores da Arma de Engenharia e do Serviço de Transportes, na metrópole, ou os comandantes de região, no ultramar, nomearão os comandantes das brigadas entre os respectivos oficiais da brigada ou oficiais de engenharia que forem postos à sua disposição.
 
-###### Art. 13.º Para os lugares de chefe da Secção das Brigadas de Caminhos de Ferro da Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes e de chefe da Secção das Brigadas de Estradas e de Caminhos de Ferro da Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia serão nomeados oficiais superiores pertencentes, respectivamente, aos quadros orgânicos daquelas Direcções. Para os lugares de delegado da Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) e da Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro), em Angola e Moçambique, serão nomeados capitães ou subalternos de qualquer arma ou serviço.
+Art. 13.º Para os lugares de chefe da Secção das Brigadas de Caminhos de Ferro da Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes e de chefe da Secção das Brigadas de Estradas e de Caminhos de Ferro da Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia serão nomeados oficiais superiores pertencentes, respectivamente, aos quadros orgânicos daquelas Direcções. Para os lugares de delegado da Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro) e da Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro), em Angola e Moçambique, serão nomeados capitães ou subalternos de qualquer arma ou serviço.
 
-###### Art. 14.º A Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), a Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) e as respectivas delegações no ultramar têm a seu cargo o registo de todo o pessoal inscrito nas brigadas, assim como a troca de correspondência com as direcções e empresas exploradoras e com as unidades e estabelecimentos do Exército, da Marinha e da Força Aérea.
+Art. 14.º A Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), a Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) e as respectivas delegações no ultramar têm a seu cargo o registo de todo o pessoal inscrito nas brigadas, assim como a troca de correspondência com as direcções e empresas exploradoras e com as unidades e estabelecimentos do Exército, da Marinha e da Força Aérea.
 
 Além dos livros de ordem, por classes, dos cadernos de chamada e de outros registos do pessoal do primeiro escalão, as secções das brigadas e suas delegações terão ficheiros devidamente actualizados de todo o pessoal inscrito.
 
-###### Art. 15.º A escrituração dos registos de matrícula do pessoal do primeiro escalão será feita de harmonia com o Regulamento Geral do Serviço do Exército e instruções subsequentes, com a seguinte alteração, quanto à folha de matrícula:
+Art. 15.º A escrituração dos registos de matrícula do pessoal do primeiro escalão será feita de harmonia com o Regulamento Geral do Serviço do Exército e instruções subsequentes, com a seguinte alteração, quanto à folha de matrícula:
 
 Na casa «Colocações durante o serviço», col. 2.ª, será mencionada a brigada a que o militar pertence. Na casa «Habilitações profissionais militares» constará a categoria no serviço ferroviário.
 
-###### Art. 16.º As direcções e empresas exploradoras enviarão mensalmente à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou às suas delegações no ultramar:
+Art. 16.º As direcções e empresas exploradoras enviarão mensalmente à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou às suas delegações no ultramar:
 
 a) Relação dos indivíduos sujeitos a obrigações militares admitidos no serviço ferroviário no mês anterior (modelo n.º 1);
 
@@ -196,27 +204,27 @@ e) Relação do pessoal do sexo feminino admitido ao serviço da direcção ou e
 
 § único. Não havendo lugar para o envio de qualquer das relações mencionadas no presente artigo, serão remetidas declarações negativas às referidas secções ou suas delegações.
 
-###### Art. 17.º No mês de Junho de cada ano, as direcções e empresas exploradoras enviarão à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou às suas delegações no ultramar relações nominais, referidas a 1 de Janeiro, dos indivíduos dos dois sexos, do segundo escalão, que fazem parte dos seus quadros. Estas relações serão separadas por serviços, por brigadas e por sexos.
+Art. 17.º No mês de Junho de cada ano, as direcções e empresas exploradoras enviarão à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e de Caminhos de Ferro) ou às suas delegações no ultramar relações nominais, referidas a 1 de Janeiro, dos indivíduos dos dois sexos, do segundo escalão, que fazem parte dos seus quadros. Estas relações serão separadas por serviços, por brigadas e por sexos.
 
-###### Art. 18.º Quando qualquer agente do primeiro escalão das brigadas de caminhos de ferro deixar definitivamente o serviço da direcção ou empresa exploradora de cujo quadro faça parte deverá esta alteração ser comunicada, imediatamente, à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e Caminhos de Ferro) ou às suas delegações no ultramar. A comunicação será acompanhada da respectiva caderneta militar.
+Art. 18.º Quando qualquer agente do primeiro escalão das brigadas de caminhos de ferro deixar definitivamente o serviço da direcção ou empresa exploradora de cujo quadro faça parte deverá esta alteração ser comunicada, imediatamente, à Repartição de Recenseamento, Requisição e Mobilização da Direcção do Serviço de Transportes (Secção das Brigadas de Caminhos de Ferro), à Repartição de Estudos Gerais e Planeamento da Instrução da Direcção da Arma de Engenharia (Secção das Brigadas de Estradas e Caminhos de Ferro) ou às suas delegações no ultramar. A comunicação será acompanhada da respectiva caderneta militar.
 
 § único. Logo que qualquer agente do segundo escalão - pessoal relacionado - deixe o serviço da direcção ou empresa exploradora será feita, igualmente, comunicação do facto à respectiva Secção das Brigadas de Caminhos de Ferro ou sua delegação.
 
-###### Art. 19.º As direcções e empresas exploradoras poderão fornecer à Direcção da Arma de Engenharia, Direcção do Serviço de Transportes e suas delegações no ultramar fichas mecanográficas individuais, devidamente codificadas, em substituição das relações mencionadas nos artigos 16.º, 17.º e 18.º
+Art. 19.º As direcções e empresas exploradoras poderão fornecer à Direcção da Arma de Engenharia, Direcção do Serviço de Transportes e suas delegações no ultramar fichas mecanográficas individuais, devidamente codificadas, em substituição das relações mencionadas nos artigos 16.º, 17.º e 18.º
 
 ### CAPÍTULO II — Hierarquias e disciplina
 
-###### Art. 20.º A organização das brigadas de caminhos de ferro terá em consideração as categorias dos agentes nas respectivas direcções e empresas exploradoras, independentemente das graduações militares.
+Art. 20.º A organização das brigadas de caminhos de ferro terá em consideração as categorias dos agentes nas respectivas direcções e empresas exploradoras, independentemente das graduações militares.
 
-###### Art. 21.º Em caso de mobilização ou convocação extraordinária das brigadas, os preceitos de disciplina e subordinação serão regulados pela sua organização hierárquica especial.
+Art. 21.º Em caso de mobilização ou convocação extraordinária das brigadas, os preceitos de disciplina e subordinação serão regulados pela sua organização hierárquica especial.
 
-###### Art. 22.º A subordinação do pessoal das brigadas tem lugar, dentro de cada serviço, de uma categoria para outra, segundo a hierarquia especial a que se refere o artigo 20.º e, na mesma categoria, a obediência é devida ao mais antigo no serviço ferroviário.
+Art. 22.º A subordinação do pessoal das brigadas tem lugar, dentro de cada serviço, de uma categoria para outra, segundo a hierarquia especial a que se refere o artigo 20.º e, na mesma categoria, a obediência é devida ao mais antigo no serviço ferroviário.
 
-###### Art. 23.º Em caso de mobilização ou convocação extraordinária das brigadas, o pessoal de cada brigada fica subordinado militarmente ao respectivo comandante de brigada, que exerce sobre todo o pessoal da mesma a competência disciplinar adiante especificada.
+Art. 23.º Em caso de mobilização ou convocação extraordinária das brigadas, o pessoal de cada brigada fica subordinado militarmente ao respectivo comandante de brigada, que exerce sobre todo o pessoal da mesma a competência disciplinar adiante especificada.
 
-###### Art. 24.º O pessoal das brigadas, quando estas forem mobilizadas ou convocadas para serviço extraordinário, ficará sujeito à autoridade, disciplina e justiça militares.
+Art. 24.º O pessoal das brigadas, quando estas forem mobilizadas ou convocadas para serviço extraordinário, ficará sujeito à autoridade, disciplina e justiça militares.
 
-###### Art. 25.º Em caso de mobilização ou convocação extraordinária, o pessoal que faz parte das brigadas pode ser punido, quer por faltas cometidas no serviço especialmente, quer por faltas de disciplina, pelas seguintes autoridades:
+Art. 25.º Em caso de mobilização ou convocação extraordinária, o pessoal que faz parte das brigadas pode ser punido, quer por faltas cometidas no serviço especialmente, quer por faltas de disciplina, pelas seguintes autoridades:
 
 a) Director da Arma de Engenharia ou director do Serviço de Transportes, conforme o departamento ou serviço a que pertença;
 
@@ -228,15 +236,15 @@ d) Superiores técnicos da direcção ou empresa exploradora que, pelos regulame
 
 § único. A competência disciplinar atribuída às entidades a que se referem as alíneas c) e d) deste artigo é, para os comandantes das brigadas de caminhos de ferro, a que o Regulamento de Disciplina Militar prescreve para os 2.os comandantes de regimento e, para os superiores técnicos, a que lhes for conferida pelos regulamentos da respectiva direcção ou empresa.
 
-###### Art. 26.º As penas disciplinares a aplicar ao pessoal do primeiro escalão e aos militares do segundo escalão das brigadas de caminhos de ferro são as que o Regulamento de Disciplina Militar prescreve para oficiais, sargentos e praças, com excepção, quanto a estas, de guardas e faxinas.
+Art. 26.º As penas disciplinares a aplicar ao pessoal do primeiro escalão e aos militares do segundo escalão das brigadas de caminhos de ferro são as que o Regulamento de Disciplina Militar prescreve para oficiais, sargentos e praças, com excepção, quanto a estas, de guardas e faxinas.
 
 A pena de detenção será substituída pela de multa. A multa consiste na perda de um ou mais dias de vencimento fixo a que o infractor tiver direito, não podendo exceder, por cada punição, metade do referido vencimento correspondente a 30 dias de serviço.
 
-###### Art. 27.º As penas disciplinares a aplicar aos agentes da classe civil do segundo escalão são as que o Regulamento de Disciplina Militar prescreve para os indivíduos não militares nem equiparados a militares.
+Art. 27.º As penas disciplinares a aplicar aos agentes da classe civil do segundo escalão são as que o Regulamento de Disciplina Militar prescreve para os indivíduos não militares nem equiparados a militares.
 
 ### CAPÍTULO III — Deveres do pessoal
 
-###### Art. 28.º Ao pessoal do primeiro escalão das brigadas de caminhos de ferro competem todos os deveres militares consignados na legislação em vigor, em conformidade com o escalão a que pertença, com as seguintes modificações:
+Art. 28.º Ao pessoal do primeiro escalão das brigadas de caminhos de ferro competem todos os deveres militares consignados na legislação em vigor, em conformidade com o escalão a que pertença, com as seguintes modificações:
 
 a) Os pedidos de ausência eventual para o estrangeiro poderão ser apresentados directamente pelos interessados, munidos da sua caderneta militar, nas sedes das respectivas secções das brigadas de caminhos de ferro ou suas delegações;
 
@@ -244,48 +252,48 @@ b) Os pedidos de ausência definitiva para o estrangeiro ou para o ultramar (par
 
 c) Todas as restantes pretensões do pessoal do primeiro escalão das brigadas relativas a assuntos militares serão normalmente remetidas às secções ou delegações das brigadas por intermédio das direcções ou empresas exploradoras.
 
-###### Art. 29.º Em caso de mobilização ou convocação extraordinária para o serviço, o pessoal das brigadas, qualquer que seja o escalão a que pertença, fica sujeito ao regime militar desde a data da publicação do respectivo decreto, continuando sem interrupção no desempenho das suas funções ferroviárias.
+Art. 29.º Em caso de mobilização ou convocação extraordinária para o serviço, o pessoal das brigadas, qualquer que seja o escalão a que pertença, fica sujeito ao regime militar desde a data da publicação do respectivo decreto, continuando sem interrupção no desempenho das suas funções ferroviárias.
 
-###### Art. 30.º No caso previsto no artigo anterior, o pessoal que estiver ausente do serviço, sem ser por motivo de doença devidamente justificada, deverá apresentar-se imediatamente no local onde habitualmente prestava serviço logo que tenha conhecimento da ordem de mobilização ou convocação extraordinária. Quando a distância a percorrer seja grande e não haja meios de transporte deverá este pessoal apresentar-se à autoridade militar ou administrativa mais próxima do local onde se encontra, a fim de esta providenciar.
+Art. 30.º No caso previsto no artigo anterior, o pessoal que estiver ausente do serviço, sem ser por motivo de doença devidamente justificada, deverá apresentar-se imediatamente no local onde habitualmente prestava serviço logo que tenha conhecimento da ordem de mobilização ou convocação extraordinária. Quando a distância a percorrer seja grande e não haja meios de transporte deverá este pessoal apresentar-se à autoridade militar ou administrativa mais próxima do local onde se encontra, a fim de esta providenciar.
 
-###### Art. 31.º O pessoal das brigadas que, depois de afixada a ordem de mobilização ou convocação extraordinária, abandonar o serviço ferroviário ou, estando ausente, não se apresentar comete o crime de deserção nos prazos fixados para o tempo de guerra.
+Art. 31.º O pessoal das brigadas que, depois de afixada a ordem de mobilização ou convocação extraordinária, abandonar o serviço ferroviário ou, estando ausente, não se apresentar comete o crime de deserção nos prazos fixados para o tempo de guerra.
 
-###### Art. 32.º Fora dos casos de mobilização ou convocação extraordinária para serviço ferroviário, o pessoal do primeiro escalão das brigadas de caminhos de ferro e o pessoal do segundo escalão sujeito a obrigações militares apenas têm de guardar os preceitos do Regulamento de Disciplina Militar impostos aos militares da sua categoria ou do seu escalão nas forças armadas.
+Art. 32.º Fora dos casos de mobilização ou convocação extraordinária para serviço ferroviário, o pessoal do primeiro escalão das brigadas de caminhos de ferro e o pessoal do segundo escalão sujeito a obrigações militares apenas têm de guardar os preceitos do Regulamento de Disciplina Militar impostos aos militares da sua categoria ou do seu escalão nas forças armadas.
 
-###### Art. 33.º Em tempo de guerra todo o serviço ferroviário passa a estar subordinado à autoridade militar competente, ficando as direcções e empresas exploradoras obrigadas a pôr à disposição daquela autoridade todos os seus recursos em material e pessoal.
+Art. 33.º Em tempo de guerra todo o serviço ferroviário passa a estar subordinado à autoridade militar competente, ficando as direcções e empresas exploradoras obrigadas a pôr à disposição daquela autoridade todos os seus recursos em material e pessoal.
 
-###### Art. 34.º Em tempo de paz, quando ocorrerem circunstâncias anormais, também as direcções e empresas exploradoras que passem ao regime militar são obrigadas a pôr à disposição da autoridade militar todos os seus recursos em pessoal e material.
+Art. 34.º Em tempo de paz, quando ocorrerem circunstâncias anormais, também as direcções e empresas exploradoras que passem ao regime militar são obrigadas a pôr à disposição da autoridade militar todos os seus recursos em pessoal e material.
 
-###### Art. 35.º Em caso de mobilização ou convocação extraordinária, e independentemente dos avisos regulamentares, as direcções e empresas exploradoras, logo que tenham conhecimento da respectiva ordem, providenciarão sem demora e pelos meios ao seu alcance para que todo o seu pessoal seja informado da mesma ordem.
+Art. 35.º Em caso de mobilização ou convocação extraordinária, e independentemente dos avisos regulamentares, as direcções e empresas exploradoras, logo que tenham conhecimento da respectiva ordem, providenciarão sem demora e pelos meios ao seu alcance para que todo o seu pessoal seja informado da mesma ordem.
 
 ### CAPÍTULO IV — Disposições diversas
 
-###### Art. 36.º O pessoal das brigadas, quando estas forem mobilizadas ou convocadas para serviço extraordinário, continua a fazer uso dos seus uniformes especiais, trazendo, como distintivo de serviço, um braçal com a indicação da brigada a que pertence.
+Art. 36.º O pessoal das brigadas, quando estas forem mobilizadas ou convocadas para serviço extraordinário, continua a fazer uso dos seus uniformes especiais, trazendo, como distintivo de serviço, um braçal com a indicação da brigada a que pertence.
 
 § único. Fora dos casos previstos neste artigo, é expressamente proibido ao pessoal das brigadas o uso do respectivo braçal.
 
-###### Art. 37.º Os braçais a que se refere o artigo anterior serão fornecidos, na metrópole, pela Direcção da Arma de Engenharia e Direcção do Serviço de Transportes e, no ultramar, pelos respectivos quartéis-generais. Ficarão à responsabilidade dos agentes a quem forem distribuídos.
+Art. 37.º Os braçais a que se refere o artigo anterior serão fornecidos, na metrópole, pela Direcção da Arma de Engenharia e Direcção do Serviço de Transportes e, no ultramar, pelos respectivos quartéis-generais. Ficarão à responsabilidade dos agentes a quem forem distribuídos.
 
-###### Art. 38.º O pessoal das brigadas, decretada a mobilização ou convocação extraordinária, conservará, quando no serviço ferroviário, os vencimentos correspondentes à sua categoria de empregado.
+Art. 38.º O pessoal das brigadas, decretada a mobilização ou convocação extraordinária, conservará, quando no serviço ferroviário, os vencimentos correspondentes à sua categoria de empregado.
 
-###### Art. 39.º Em caso de mobilização ou convocação extraordinária, o pessoal, das brigadas continuará a ser administrado pelas direcções ou empresas exploradoras a que pertence.
+Art. 39.º Em caso de mobilização ou convocação extraordinária, o pessoal, das brigadas continuará a ser administrado pelas direcções ou empresas exploradoras a que pertence.
 
-###### Art. 40.º Não devem ser inscritos no primeiro escalão das brigadas de caminhos de ferro os indivíduos sujeitos a obrigações militares que tenham qualquer multa ou anuidade da taxa militar em dívida ao Estado.
+Art. 40.º Não devem ser inscritos no primeiro escalão das brigadas de caminhos de ferro os indivíduos sujeitos a obrigações militares que tenham qualquer multa ou anuidade da taxa militar em dívida ao Estado.
 
-###### Art. 41.º O pessoal já inscrito, do antecedente, nas brigadas de caminhos de ferro, que não pertença a qualquer dos serviços constantes da alínea a) do artigo 2.º, deve ser abatido ao efectivo das mesmas brigadas 30 dias após a publicação deste Regulamento, sendo transferidos os seus documentos de matrícula para as unidades e distritos de recrutamento e mobilização de origem. Este pessoal deverá passar ao segundo escalão das brigadas.
+Art. 41.º O pessoal já inscrito, do antecedente, nas brigadas de caminhos de ferro, que não pertença a qualquer dos serviços constantes da alínea a) do artigo 2.º, deve ser abatido ao efectivo das mesmas brigadas 30 dias após a publicação deste Regulamento, sendo transferidos os seus documentos de matrícula para as unidades e distritos de recrutamento e mobilização de origem. Este pessoal deverá passar ao segundo escalão das brigadas.
 
-###### Art. 42.º As revistas de inspecção anual aos sargentos e praças do primeiro escalão das brigadas de caminhos de ferro serão passadas pelos oficiais das respectivas secções ou delegações, nos períodos determinados na legislação militar.
+Art. 42.º As revistas de inspecção anual aos sargentos e praças do primeiro escalão das brigadas de caminhos de ferro serão passadas pelos oficiais das respectivas secções ou delegações, nos períodos determinados na legislação militar.
 
 § único. Para não prejudicar o serviço ferroviário a revista é passada, tanto quanto possível, nos locais de trabalho do pessoal, evitando-lhe grandes deslocações. Para isso, as direcções e empresas exploradoras põem à disposição das secções ou delegações das brigadas de caminhos de ferro os transportes necessários à deslocação de um oficial, um sargento e, quando for necessário, uma ordenança por cada uma das secções ou delegações das brigadas.
 
-###### Art. 43.º A rotação e meio de transporte dos oficiais que passam revista é dada a conhecer a todo o pessoal ferroviário por meio de editais. O pessoal destacado ou de folga pode comparecer à revista em estações diferentes daquela onde presta serviço.
+Art. 43.º A rotação e meio de transporte dos oficiais que passam revista é dada a conhecer a todo o pessoal ferroviário por meio de editais. O pessoal destacado ou de folga pode comparecer à revista em estações diferentes daquela onde presta serviço.
 
-###### Art. 44.º As direcções e empresas exploradoras promoverão a comparência do pessoal das brigadas às revistas de inspecção em qualquer dos locais constantes dos respectivos editais, ou nas sedes das secções e delegações das brigadas de caminhos de ferro.
+Art. 44.º As direcções e empresas exploradoras promoverão a comparência do pessoal das brigadas às revistas de inspecção em qualquer dos locais constantes dos respectivos editais, ou nas sedes das secções e delegações das brigadas de caminhos de ferro.
 
 Ministério do Exército, 20 de Agosto de 1968. - O Ministro do Exército, Joaquim da Luz Cunha.
 
 Do Modelo 1 ao Modelo 5
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/19600/12051211.pdf))](https://files.diariodarepublica.pt/1s/1968/08/19600/12051211.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/19600/12051211.pdf)
 
 Ministério do Exército, 20 de Agosto de 1968. - O Ministro do Exército, Joaquim da Luz Cunha.

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48891-1969-525233
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-01-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c4c3c9ca631cf605f8fd24b3b9149d823c78fcf45fdb70ae74b411214bcf8c2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 920999fe66f5164e3fb063d93991f82b24436963069f5c38e636f2764da62c3c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,15 +71,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:27Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +88,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É criado no Ministério da Marinha o Gabinete do Ministro da Marinha e extinta a Repartição do Gabinete.
+Artigo 1.º É criado no Ministério da Marinha o Gabinete do Ministro da Marinha e extinta a Repartição do Gabinete.
 
-###### Art. 2.º Ao Gabinete do Ministro compete:
+Art. 2.º Ao Gabinete do Ministro compete:
 
 a) Submeter a despacho do Ministro os assuntos que devam ser tratados directamente pelo mesmo e que não sejam atribuídos a outros organismos do Ministério e assegurar o respectivo expediente;
 
@@ -98,7 +98,7 @@ b) Preparar os mesmos assuntos para despacho, com as convenientes informações,
 
 c) Assegurar as relações do Ministério da Marinha com outros departamentos do Estado, organismos e serviços oficiais, órgãos de informação pública e entidades privadas, quando não devam processar-se através de outros organismos do Ministério.
 
-###### Art. 3.º - 1. O Gabinete do Ministro compreende:
+Art. 3.º - 1. O Gabinete do Ministro compreende:
 
 a) O chefe do Gabinete;
 
@@ -122,24 +122,24 @@ f) A Secretaria.
 
 6. À Secretaria compete o registo e execução de todo o expediente que se processe através do Gabinete e o arquivo daquele que directamente lhe diga respeito.
 
-###### Art. 4.º - 1. As funções de chefe do Gabinete, ajudante de campo e ajudante de ordens são exercidas, respectivamente, por um oficial general ou capitão-de-mar-e-guerra, um capitão-tenente e um primeiro-tenente.
+Art. 4.º - 1. As funções de chefe do Gabinete, ajudante de campo e ajudante de ordens são exercidas, respectivamente, por um oficial general ou capitão-de-mar-e-guerra, um capitão-tenente e um primeiro-tenente.
 
 2. Os Serviços de Estudos e de Protocolo e Informação Pública são chefiados por oficiais superiores da Armada, devendo o chefe do primeiro ser mais graduado ou antigo do que os restantes oficiais que prestem serviço no Gabinete, com excepção do chefe do Gabinete.
 
 3. A Secretaria é chefiada por um oficial superior do serviço geral.
 
-###### Art. 5.º Para o desempenho de missões ou serviços especiais, de natureza eventual ou transitória, poderá o Ministro da Marinha mandar apresentar no Gabinete o pessoal da Armada que for necessário para esse efeito.
+Art. 5.º Para o desempenho de missões ou serviços especiais, de natureza eventual ou transitória, poderá o Ministro da Marinha mandar apresentar no Gabinete o pessoal da Armada que for necessário para esse efeito.
 
-###### Art. 6.º O pessoal do Gabinete é da livre escolha do Ministro e não poderá ser dele deslocado sem a sua autorização.
+Art. 6.º O pessoal do Gabinete é da livre escolha do Ministro e não poderá ser dele deslocado sem a sua autorização.
 
-###### Art. 7.º O quadro do pessoal permanente do Gabinete, a preencher com pessoal militar do Ministério, é fixado por portaria do Ministro.
+Art. 7.º O quadro do pessoal permanente do Gabinete, a preencher com pessoal militar do Ministério, é fixado por portaria do Ministro.
 
-###### Art. 8.º O regulamento interno do Gabinete é estabelecido por despacho do Ministro.
+Art. 8.º O regulamento interno do Gabinete é estabelecido por despacho do Ministro.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 21 de Fevereiro de 1969.**
+Promulgado em 21 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

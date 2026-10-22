@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/07/17300/08940904.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49147-1969-199148
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1975-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f35ee04ff73af52c9e369ee2d55c411586926ff990f70357fc385ba7a86e685e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b3ccf913856172d5ce6e23ed478b4e58999342b46986ca473808f5cd6bbdee6b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Conselho Ultramarino
+- Regimento
 relationships:
 - type: amended_by
   target: pt:dre:161091:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:161091:por
+  label: "Revogado pelo DEC LEI.125/75.12.03.1975.MCINT, DG.IS [60] de 12.03.1975\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/125-1975-161091
+  date: '1975-03-12'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 23
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:27Z'
   warnings: []
   errors: []
 ---
@@ -90,13 +97,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regimento do Conselho Ultramarino, que faz parte integrante do presente decreto e entra em vigor no dia 1 de Outubro de 1969.
+Artigo único. É aprovado o Regimento do Conselho Ultramarino, que faz parte integrante do presente decreto e entra em vigor no dia 1 de Outubro de 1969.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Julho de 1969.**
+Promulgado em 9 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -108,9 +115,9 @@ REGIMENTO DO CONSELHO ULTRAMARINO
 
 ### CAPÍTULO I — Órgãos directivos e sua competência
 
-###### Artigo 1.º O funcionamento do Conselho Ultramarino é assegurado, nos termos da sua Lei Orgânica, pelo presidente e vice-presidente, assistidos dos presidentes da secção do contencioso ou da 1.ª subsecção e de um serviço de secretaria.
+Artigo 1.º O funcionamento do Conselho Ultramarino é assegurado, nos termos da sua Lei Orgânica, pelo presidente e vice-presidente, assistidos dos presidentes da secção do contencioso ou da 1.ª subsecção e de um serviço de secretaria.
 
-###### Art. 2.º Compete ao Ministro do Ultramar, como presidente do Conselho Ultramarino:
+Art. 2.º Compete ao Ministro do Ultramar, como presidente do Conselho Ultramarino:
 
 1.º Presidir pessoalmente às sessões plenárias quando especiais circunstâncias o requeiram;
 
@@ -122,7 +129,7 @@ REGIMENTO DO CONSELHO ULTRAMARINO
 
 5.º Desempenhar as restantes funções que lhe são atribuídas por lei.
 
-###### Art. 3.º Compete ao vice-presidente:
+Art. 3.º Compete ao vice-presidente:
 
 1.º Representar o Conselho Ultramarino nas solenidades oficiais;
 
@@ -158,21 +165,21 @@ REGIMENTO DO CONSELHO ULTRAMARINO
 
 17.º Desempenhar as restantes funções que lhe são atribuídas por lei.
 
-###### Art. 4.º No exercício das atribuições que lhe são cometidas pela Lei Orgânica do Conselho Ultramarino, compete especialmente aos presidentes da 1.ª subsecção e da secção do contencioso distribuir os processos, dirigir a organização da tabela das sessões a que devam presidir e convocar as sessões extraordinárias sempre que o movimento de processos o exija.
+Art. 4.º No exercício das atribuições que lhe são cometidas pela Lei Orgânica do Conselho Ultramarino, compete especialmente aos presidentes da 1.ª subsecção e da secção do contencioso distribuir os processos, dirigir a organização da tabela das sessões a que devam presidir e convocar as sessões extraordinárias sempre que o movimento de processos o exija.
 
 ### CAPÍTULO II — Secretaria
 
 #### SECÇÃO I — Secretaria e seu pessoal
 
-###### Art. 5.º O Conselho Ultramarino tem uma secretaria privativa para assegurar o expediente de todos os processos da sua competência.
+Art. 5.º O Conselho Ultramarino tem uma secretaria privativa para assegurar o expediente de todos os processos da sua competência.
 
-###### Art. 6.º - 1. A secretaria é constituída por um secretário, por pessoal de secretaria e pessoal menor.
+Art. 6.º - 1. A secretaria é constituída por um secretário, por pessoal de secretaria e pessoal menor.
 
 2. Os quadros do pessoal de secretaria e menor são aprovados por lei, de acordo com as necessidades do serviço.
 
-###### Art. 7.º O pessoal menor, pelo trabalho fora das horas regulamentares do expediente normal do Ministério do Ultramar, percebe a remuneração fixada pela lei e tem direito não só ao abono de todas as despesas de transportes autorizadas pelo secretário, por motivo dos serviços externos da sua competência, mas também ao do uniforme, do mesmo modo e com as mesmas limitações com que é abonado ao outro pessoal da sua categoria.
+Art. 7.º O pessoal menor, pelo trabalho fora das horas regulamentares do expediente normal do Ministério do Ultramar, percebe a remuneração fixada pela lei e tem direito não só ao abono de todas as despesas de transportes autorizadas pelo secretário, por motivo dos serviços externos da sua competência, mas também ao do uniforme, do mesmo modo e com as mesmas limitações com que é abonado ao outro pessoal da sua categoria.
 
-###### Art. 8.º - 1. Compete à secretaria:
+Art. 8.º - 1. Compete à secretaria:
 
 a) Desempenhar todos os serviços da escrivania e expediente relativo aos processos contenciosos;
 
@@ -206,7 +213,7 @@ o) Em geral, praticar todos os actos de expediente necessários ao regular funci
 
 2. Quando outro prazo não seja estabelecido, é de quarenta e oito horas o que cabe à secretaria para cumprir os despachos, abrir vista ou conclusão dos processos ou praticar os demais actos de escrivania que se incluam nas suas atribuições.
 
-###### Art. 9.º - 1. Os serviços da secretaria são dirigidos, sob a superintendência do vice-presidente do Conselho Ultramarino, pelo secretário, ao qual compete:
+Art. 9.º - 1. Os serviços da secretaria são dirigidos, sob a superintendência do vice-presidente do Conselho Ultramarino, pelo secretário, ao qual compete:
 
 1.º Assistir às sessões do Conselho, sem voto, e lavrar e subscrever as respectivas actas e termos;
 
@@ -222,43 +229,43 @@ o) Em geral, praticar todos os actos de expediente necessários ao regular funci
 
 #### SECÇÃO II — Serviços de secretaria
 
-###### Art. 10.º - 1. A falta de comparência dos membros do Conselho Ultramarino às sessões deve ser comunicada pela secretaria à Repartição de Contabilidade da Direcção-Geral de Fazenda, do Ministério do Ultramar, desde que implique perda de vencimento ou gratificação.
+Art. 10.º - 1. A falta de comparência dos membros do Conselho Ultramarino às sessões deve ser comunicada pela secretaria à Repartição de Contabilidade da Direcção-Geral de Fazenda, do Ministério do Ultramar, desde que implique perda de vencimento ou gratificação.
 
 2. À Repartição de Contabilidade da Direcção-Geral de Fazenda, do Ministério do Ultramar, é também comunicada a efectividade de exercício dos vogais substitutos que desempenhem funções no Conselho, nos termos legais.
 
-###### Art. 11.º - 1. Será feita a publicação em volume deste Regimento e de quaisquer outros diplomas que o Conselho Ultramarino julgue conveniente.
+Art. 11.º - 1. Será feita a publicação em volume deste Regimento e de quaisquer outros diplomas que o Conselho Ultramarino julgue conveniente.
 
 2. A receita produzida pela venda dos volumes publicados reverte para o Cofre do Conselho Ultramarino.
 
-###### Art. 12.º - 1. O inventário das publicações recebidas comporta o registo especial das que hajam de ser distribuídas aos vogais do Conselho Ultramarino e das que devam ser entregues na biblioteca do Ministério do Ultramar, reclamando-se da província respectiva ou da Agência-Geral do Ultramar os números que faltarem das publicações periódicas, oficiais ou não oficiais, de modo a ficarem completas as colecções.
+Art. 12.º - 1. O inventário das publicações recebidas comporta o registo especial das que hajam de ser distribuídas aos vogais do Conselho Ultramarino e das que devam ser entregues na biblioteca do Ministério do Ultramar, reclamando-se da província respectiva ou da Agência-Geral do Ultramar os números que faltarem das publicações periódicas, oficiais ou não oficiais, de modo a ficarem completas as colecções.
 
 2. Incumbe aos governadores das províncias ultramarinas tomar as providências necessárias para que à secretaria do Conselho, além de todas as publicações oficiais no número que está determinado, seja remetido um exemplar de quaisquer outras publicações periódicas ou não periódicas da respectiva província e cujos assuntos interessem às secções do Conselho.
 
-###### Art. 13.º O arquivo mantém registos para os documentos provindos dos diversos serviços.
+Art. 13.º O arquivo mantém registos para os documentos provindos dos diversos serviços.
 
-###### Art. 14.º A estatística abrange todos os serviços da competência do Conselho Ultramarino e da sua secretaria e é organizada por anos civis.
+Art. 14.º A estatística abrange todos os serviços da competência do Conselho Ultramarino e da sua secretaria e é organizada por anos civis.
 
-###### Art. 15.º - 1. A contabilidade da secretaria do Conselho Ultramarino é feita de harmonia com as regras gerais da contabilidade ultramarina, atendendo-se às indicações que a esse respeito forem formuladas pela repartição respectiva do Ministério do Ultramar.
+Art. 15.º - 1. A contabilidade da secretaria do Conselho Ultramarino é feita de harmonia com as regras gerais da contabilidade ultramarina, atendendo-se às indicações que a esse respeito forem formuladas pela repartição respectiva do Ministério do Ultramar.
 
 2. Sob a imediata responsabilidade do secretário é constituído um fundo permanente, em conta das dotações orçamentais do Conselho e de importância não excedente a um duodécimo, para pagamento de aquisições e outras despesas de pequeno valor.
 
-###### Art. 16.º Todos os processos, diplomas, correspondência e mais documentos entrados na secretaria são numerados, registados ou anotados, averbando-se pontualmente nos registos o destino e o seguimento que na secretaria forem tendo ulteriormente, até terminar o respectivo expediente.
+Art. 16.º Todos os processos, diplomas, correspondência e mais documentos entrados na secretaria são numerados, registados ou anotados, averbando-se pontualmente nos registos o destino e o seguimento que na secretaria forem tendo ulteriormente, até terminar o respectivo expediente.
 
-###### Art. 17.º Os pareceres, sentenças e resoluções do Conselho Ultramarino são registados ou coligidos por cópia conferida, averbando-se depois em cada registo ou cópia o despacho ministerial lançado sobre o parecer ou resolução. Averbar-se-á também o número e a data do Diário do Governo ou dos Boletins Oficiais em que tenham sido publicados.
+Art. 17.º Os pareceres, sentenças e resoluções do Conselho Ultramarino são registados ou coligidos por cópia conferida, averbando-se depois em cada registo ou cópia o despacho ministerial lançado sobre o parecer ou resolução. Averbar-se-á também o número e a data do Diário do Governo ou dos Boletins Oficiais em que tenham sido publicados.
 
-###### Art. 18.º A cada volume das actas das sessões plenárias consultivas serão juntos, a final, índices remissivos de nomes e dos assuntos versados nas sessões.
+Art. 18.º A cada volume das actas das sessões plenárias consultivas serão juntos, a final, índices remissivos de nomes e dos assuntos versados nas sessões.
 
 ### CAPÍTULO III — Cofre do Conselho Ultramarino
 
-###### Art. 19.º O Cofre do Conselho Ultramarino é administrado pelo vice-presidente e as suas receitas serão destinadas à aquisição de livros e revistas e à satisfação das despesas com a publicação de anúncios a cargo de entidades isentas de custas ou outras impostas pela tabela das custas do Conselho Ultramarino ou consideradas de manifesta utilidade para os serviços.
+Art. 19.º O Cofre do Conselho Ultramarino é administrado pelo vice-presidente e as suas receitas serão destinadas à aquisição de livros e revistas e à satisfação das despesas com a publicação de anúncios a cargo de entidades isentas de custas ou outras impostas pela tabela das custas do Conselho Ultramarino ou consideradas de manifesta utilidade para os serviços.
 
-###### Art. 20.º São receitas do Cofre do Conselho Ultramarino as previstas neste Regimento e na tabela das custas.
+Art. 20.º São receitas do Cofre do Conselho Ultramarino as previstas neste Regimento e na tabela das custas.
 
-###### Art. 21.º As receitas do Cofre são depositadas em conta própria na Caixa Geral de Depósitos e os levantamentos são feitos por meio de cheque assinado pelo vice-presidente e pelo secretário do Conselho Ultramarino.
+Art. 21.º As receitas do Cofre são depositadas em conta própria na Caixa Geral de Depósitos e os levantamentos são feitos por meio de cheque assinado pelo vice-presidente e pelo secretário do Conselho Ultramarino.
 
-###### Art. 22.º O expediente do Cofre do Conselho Ultramarino é feito pelo secretário, que contabilizará as receitas e despesas em livro próprio.
+Art. 22.º O expediente do Cofre do Conselho Ultramarino é feito pelo secretário, que contabilizará as receitas e despesas em livro próprio.
 
-###### Art. 23.º - 1. Trimestralmente, o agente do Ministério Público para o contencioso fiscal inspeccionará a contabilização das receitas e despesas, conferindo os lançamentos com os respectivos documentos e apondo no livro referido no artigo anterior a sua rubrica de conformidade.
+Art. 23.º - 1. Trimestralmente, o agente do Ministério Público para o contencioso fiscal inspeccionará a contabilização das receitas e despesas, conferindo os lançamentos com os respectivos documentos e apondo no livro referido no artigo anterior a sua rubrica de conformidade.
 
 2. Quando a inspecção referida no número anterior revele alguma irregularidade, será logo comunicado o facto ao vice-presidente.
 
@@ -266,71 +273,71 @@ o) Em geral, praticar todos os actos de expediente necessários ao regular funci
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 24.º - 1. O Conselho Ultramarino funciona em sessões plenárias e de secção ou de subsecção.
+Art. 24.º - 1. O Conselho Ultramarino funciona em sessões plenárias e de secção ou de subsecção.
 
 2. As sessões não são públicas, salvo nos casos expressamente declarados na lei ou havendo conveniência nacional reconhecida pelo Ministro do Ultramar.
 
-###### Art. 25.º Os vogais natos podem assistir às sessões das secções consultivas, devendo comparecer às sessões plenárias e a todas aquelas para que sejam especialmente convocados.
+Art. 25.º Os vogais natos podem assistir às sessões das secções consultivas, devendo comparecer às sessões plenárias e a todas aquelas para que sejam especialmente convocados.
 
-###### Art. 26.º - 1. Os assuntos a versar em cada sessão são inscritos em ordem do dia, elaborada na secretaria segundo as instruções do respectivo presidente.
+Art. 26.º - 1. Os assuntos a versar em cada sessão são inscritos em ordem do dia, elaborada na secretaria segundo as instruções do respectivo presidente.
 
 2. A ordem do dia é distribuída aos vogais que devam intervir na sessão com antecedência não inferior a vinte e quatro horas.
 
 3. Os assuntos que não constem da ordem do dia só podem ser tratados quando o presidente o permita e precedendo voto dos vogais em sessão, no caso de a sua exposição e discussão se prolongar por mais de meia hora.
 
-###### Art. 27.º Cada sessão tem, normalmente, a duração de três horas, e se, finda a primeira meia hora depois da designada para o seu início, não puder ser realizada por falta de quórum, é marcada falta aos vogais não presentes, designando-se logo dia e hora para nova sessão.
+Art. 27.º Cada sessão tem, normalmente, a duração de três horas, e se, finda a primeira meia hora depois da designada para o seu início, não puder ser realizada por falta de quórum, é marcada falta aos vogais não presentes, designando-se logo dia e hora para nova sessão.
 
-###### Art. 28.º Aberta a sessão, lida e aprovada a acta da anterior e dado conhecimento da correspondência que ao Conselho Ultramarino deva ser comunicada, serão lidas as decisões interlocutórias, sentenças, pareceres ou resoluções cujas matérias tenham sido discutidas e votadas na última sessão.
+Art. 28.º Aberta a sessão, lida e aprovada a acta da anterior e dado conhecimento da correspondência que ao Conselho Ultramarino deva ser comunicada, serão lidas as decisões interlocutórias, sentenças, pareceres ou resoluções cujas matérias tenham sido discutidas e votadas na última sessão.
 
 Sem prejuízo do disposto no n.º 3 do artigo 26.º, passa-se depois aos assuntos da ordem do dia, observando a sequência nela estabelecida.
 
-###### Art. 29.º No exercício das suas atribuições, o Conselho Ultramarino profere pareceres ou resoluções e decisões interlocutórias ou sentenças, todos sob a forma de acórdãos.
+Art. 29.º No exercício das suas atribuições, o Conselho Ultramarino profere pareceres ou resoluções e decisões interlocutórias ou sentenças, todos sob a forma de acórdãos.
 
-###### Art. 30.º As secções do Conselho Ultramarino têm as férias dos tribunais judiciais da metrópole, mas, havendo inadiável necessidade de serviço, as secções consultivas podem ser convocadas extraordinàriamente, mesmo em férias.
+Art. 30.º As secções do Conselho Ultramarino têm as férias dos tribunais judiciais da metrópole, mas, havendo inadiável necessidade de serviço, as secções consultivas podem ser convocadas extraordinàriamente, mesmo em férias.
 
 #### SECÇÃO II — Sessões plenárias
 
-###### Art. 31.º Há duas sessões plenárias do Conselho Ultramarino em cada ano, nos meses de Outubro e Março, podendo ser convocadas sessões extraordinárias sempre que as necessidades de serviço o exigirem.
+Art. 31.º Há duas sessões plenárias do Conselho Ultramarino em cada ano, nos meses de Outubro e Março, podendo ser convocadas sessões extraordinárias sempre que as necessidades de serviço o exigirem.
 
-###### Art. 32.º O Conselho só poderá funcionar em sessão plenária quando esteja presente a maioria dos vogais em exercício.
+Art. 32.º O Conselho só poderá funcionar em sessão plenária quando esteja presente a maioria dos vogais em exercício.
 
-###### Art. 33.º De tudo o que se passar nas sessões plenárias é lavrada acta, em que se transcreverá integralmente a ordem do dia estabelecida e se indiquem precisamente a hora de abertura e a do encerramento, quem presidiu, quais os vogais presentes e os considerados em falta, quais os assuntos versados e os que, estando na ordem do dia, deixaram de o estar e por que motivo, um resumo das discussões havidas, as propostas apresentadas, as votações feitas e seus resultados.
+Art. 33.º De tudo o que se passar nas sessões plenárias é lavrada acta, em que se transcreverá integralmente a ordem do dia estabelecida e se indiquem precisamente a hora de abertura e a do encerramento, quem presidiu, quais os vogais presentes e os considerados em falta, quais os assuntos versados e os que, estando na ordem do dia, deixaram de o estar e por que motivo, um resumo das discussões havidas, as propostas apresentadas, as votações feitas e seus resultados.
 
 #### SECÇÃO III — Sessões de secção ou subsecção
 
-###### Art. 34.º - 1. As secções consultivas ou a subsecção da secção do contencioso reunirão, ordinàriamente, em dias e horas estabelecidos na primeira sessão do ano de trabalhos e, extraordinàriamente, sempre que as necessidades do serviço o impuserem.
+Art. 34.º - 1. As secções consultivas ou a subsecção da secção do contencioso reunirão, ordinàriamente, em dias e horas estabelecidos na primeira sessão do ano de trabalhos e, extraordinàriamente, sempre que as necessidades do serviço o impuserem.
 
 2. A secção do contencioso reunirá, de preferência, no mesmo dia estabelecido para as sessões da sua subsecção, sempre que expressamente convocada, de acordo com as necessidades de serviço.
 
-###### Art. 35.º As secções consultivas só podem vàlidamente reunir e deliberar quando esteja presente a maioria dos vogais que as constituem.
+Art. 35.º As secções consultivas só podem vàlidamente reunir e deliberar quando esteja presente a maioria dos vogais que as constituem.
 
-###### Art. 36.º Em cada secção ou subsecção existirá um livro de actas onde se lavrará um breve extracto das sessões realizadas, indicando quais os vogais presentes, as questões versadas e as decisões tomadas, bem como quaisquer outros factos que se entenda merecerem registo especial. Estes extractos serão assinados pelos vogais que tiverem assistido às sessões, se estiverem presentes na sessão seguinte em que o extracto deverá ser lido e aprovado.
+Art. 36.º Em cada secção ou subsecção existirá um livro de actas onde se lavrará um breve extracto das sessões realizadas, indicando quais os vogais presentes, as questões versadas e as decisões tomadas, bem como quaisquer outros factos que se entenda merecerem registo especial. Estes extractos serão assinados pelos vogais que tiverem assistido às sessões, se estiverem presentes na sessão seguinte em que o extracto deverá ser lido e aprovado.
 
 ## TÍTULO II — Processo
 
 ### CAPÍTULO I — Processo consultivo
 
-###### Art. 37.º - 1. As consultas submetidas ao Conselho Ultramarino são sempre acompanhadas de informações das repartições ou estações oficiais competentes, donde constem precisamente os elementos de facto cujo conhecimento seja indispensável à apreciação da matéria e, bem assim, a indicação da legislação aplicável.
+Art. 37.º - 1. As consultas submetidas ao Conselho Ultramarino são sempre acompanhadas de informações das repartições ou estações oficiais competentes, donde constem precisamente os elementos de facto cujo conhecimento seja indispensável à apreciação da matéria e, bem assim, a indicação da legislação aplicável.
 
 2. Tratando-se da apreciação de actos ou diplomas precedidos de voto do conselho legislativo, económico e social ou de governo, virá sempre junta ao processo cópia das actas das sessões em que o assunto foi considerado, não se contando, enquanto faltar a cópia, o tempo decorrido para o cômputo de qualquer prazo dentro do qual o Conselho tenha, por lei, de se pronunciar.
 
-###### Art. 38.º - 1. Logo que sejam recebidos na secretaria do Conselho Ultramarino papéis contendo pedidos de pareceres, são registados no livro competente, apondo-se-lhes o número e data de entrada, sendo imediatamente apresentados ao vice-presidente.
+Art. 38.º - 1. Logo que sejam recebidos na secretaria do Conselho Ultramarino papéis contendo pedidos de pareceres, são registados no livro competente, apondo-se-lhes o número e data de entrada, sendo imediatamente apresentados ao vice-presidente.
 
 2. Cada pedido de parecer é distribuído pelo vice-presidente, sem prejuízo da possível igualação do serviço, ao vogal que, pela sua especial preparação técnica e experiência profissional, pareça mais familiarizado com o assunto a versar e de que passará a ser relator.
 
 3. No impedimento do relator primitivamente designado e quando as circunstâncias o imponham, adoptar-se-á o critério do número anterior para a designação de vogal que o deverá substituir.
 
-###### Art. 39.º Distribuído o pedido de parecer, a secretaria enviará logo o processo ao relator, o qual tem o prazo de trinta dias, contados da data da recepção, ou de metade, nos casos de urgência, para elaborar o respectivo projecto de parecer.
+Art. 39.º Distribuído o pedido de parecer, a secretaria enviará logo o processo ao relator, o qual tem o prazo de trinta dias, contados da data da recepção, ou de metade, nos casos de urgência, para elaborar o respectivo projecto de parecer.
 
-###### Art. 40.º - 1. Ao relator compete deferir a todos os termos até final. Se reputar indispensáveis documentos ou informações não constantes do processo, poderá, dentro da primeira metade do prazo estabelecido no artigo anterior, solicitá-los por meio de ofício expedido pela secretaria às estações competentes, oficiais ou particulares, da metrópole ou do ultramar.
+Art. 40.º - 1. Ao relator compete deferir a todos os termos até final. Se reputar indispensáveis documentos ou informações não constantes do processo, poderá, dentro da primeira metade do prazo estabelecido no artigo anterior, solicitá-los por meio de ofício expedido pela secretaria às estações competentes, oficiais ou particulares, da metrópole ou do ultramar.
 
 2. Se o relator, antes de apresentar o projecto de parecer e sem prejuízo do prazo fixado no artigo anterior, julgar conveniente ouvir os restantes vogais que devam intervir, solicitá-lo-á ao vice-presidente.
 
-###### Art. 41.º Quando os elementos inicialmente constantes do processo consultivo e os demais que ulteriormente forem facultados no prazo máximo de sessenta dias não sejam ainda suficientes para formular um juízo seguro sobre os dados essenciais da questão, o relator levará o processo com o seu projecto de parecer à sessão, votando-se de acordo com as informações existentes no processo.
+Art. 41.º Quando os elementos inicialmente constantes do processo consultivo e os demais que ulteriormente forem facultados no prazo máximo de sessenta dias não sejam ainda suficientes para formular um juízo seguro sobre os dados essenciais da questão, o relator levará o processo com o seu projecto de parecer à sessão, votando-se de acordo com as informações existentes no processo.
 
-###### Art. 42.º Ultimado o projecto de parecer, é o processo entregue na secretaria, que imediatamente o apresentará ao vice-presidente para ordenar a sua inscrição na ordem do dia da sessão que designar para a sua apreciação.
+Art. 42.º Ultimado o projecto de parecer, é o processo entregue na secretaria, que imediatamente o apresentará ao vice-presidente para ordenar a sua inscrição na ordem do dia da sessão que designar para a sua apreciação.
 
-###### Art. 43.º - 1. A discussão do projecto de parecer será dirigida por quem presidir à sessão, de modo a poder apurar-se ràpidamente e com precisão a doutrina que deverá ser emitida pelo Conselho.
+Art. 43.º - 1. A discussão do projecto de parecer será dirigida por quem presidir à sessão, de modo a poder apurar-se ràpidamente e com precisão a doutrina que deverá ser emitida pelo Conselho.
 
 2. Na discussão, que normalmente só se realizará com a presença do relator, podem intervir todos os vogais presentes a quem o presidente conceder o uso da palavra, segundo a ordem de inscrição.
 
@@ -342,17 +349,17 @@ Sem prejuízo do disposto no n.º 3 do artigo 26.º, passa-se depois aos assunto
 
 6. O presidente poderá retirar a palavra aos vogais que, no uso dela, se afastem da matéria em apreciação ou da boa ordem dos trabalhos.
 
-###### Art. 44.º - 1. Durante a discussão pode qualquer vogal que não seja o relator pedir vista do processo para melhor se esclarecer sobre os termos da questão.
+Art. 44.º - 1. Durante a discussão pode qualquer vogal que não seja o relator pedir vista do processo para melhor se esclarecer sobre os termos da questão.
 
 2. Sempre que esta consulta seja demorada, o Conselho deliberará na própria sessão em que o pedido for feito se deve ou não ser atendido.
 
-###### Art. 45.º - 1. É permitido a qualquer vogal, durante a discussão, propor alguma diligência que se lhe afigure indispensável para a devida apreciação do assunto.
+Art. 45.º - 1. É permitido a qualquer vogal, durante a discussão, propor alguma diligência que se lhe afigure indispensável para a devida apreciação do assunto.
 
 2. O Conselho resolverá logo sobre a proposta o que considerar conveniente.
 
 3. Decorrido o prazo marcado para a diligência, o processo voltará à discussão dentro dos oito dias imediatos.
 
-###### Art. 46.º - 1. Finda a discussão, é o projecto de parecer, com as emendas que tenha merecido, submetido à votação, a qual é feita nominalmente, começando-se pelo relator e seguindo-se-lhe os restantes vogais, pela ordem de precedências estabelecida na Lei Orgânica do Conselho Ultramarino.
+Art. 46.º - 1. Finda a discussão, é o projecto de parecer, com as emendas que tenha merecido, submetido à votação, a qual é feita nominalmente, começando-se pelo relator e seguindo-se-lhe os restantes vogais, pela ordem de precedências estabelecida na Lei Orgânica do Conselho Ultramarino.
 
 2. O vencimento faz-se por maioria absoluta dos vogais presentes, podendo os vencidos redigir uma resumida declaração de voto, desde que enunciem os seus termos essenciais na própria sessão.
 
@@ -360,17 +367,17 @@ Sem prejuízo do disposto no n.º 3 do artigo 26.º, passa-se depois aos assunto
 
 4. Nos oito dias seguintes à sua votação é assinado o parecer na sua redacção definitiva pelo presidente, pelo relator e restantes vogais intervenientes, nele se incorporando as declarações de voto subscritas pelos vogais que as emitiram.
 
-###### Art. 47.º - 1. Os pareceres aprovados nas secções consultivas são considerados, para todas os efeitos, como pareceres definitivos do Conselho Ultramarino, salvo no caso de ter sido usada a faculdade de apresentação à sessão plenária.
+Art. 47.º - 1. Os pareceres aprovados nas secções consultivas são considerados, para todas os efeitos, como pareceres definitivos do Conselho Ultramarino, salvo no caso de ter sido usada a faculdade de apresentação à sessão plenária.
 
 2. Os despachos ministeriais proferidos sobre os pareceres aprovados em cada secção consultiva são comunicados ao Conselho Ultramarino para conhecimento dos vogais das duas secções.
 
-###### Art. 48.º Os pareceres e respectivas declarações de carácter doutrinal sobre política e administração ultramarinas poderão ser publicados na 2.ª série do Diário do Governo e dos Boletins Oficiais das províncias ultramarinas, mediante despacho do Ministro do Ultramar.
+Art. 48.º Os pareceres e respectivas declarações de carácter doutrinal sobre política e administração ultramarinas poderão ser publicados na 2.ª série do Diário do Governo e dos Boletins Oficiais das províncias ultramarinas, mediante despacho do Ministro do Ultramar.
 
 ### CAPÍTULO II — Processo contencioso
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 49.º - 1. Logo que sejam recebidos ou apresentados na secretaria do Conselho Ultramarino papéis relativos a questões contenciosas são registados no livro competente, apondo-se-lhes o número de ordem e data de entrada e passando-se nota do respectivo registo, sempre que for pedida.
+Art. 49.º - 1. Logo que sejam recebidos ou apresentados na secretaria do Conselho Ultramarino papéis relativos a questões contenciosas são registados no livro competente, apondo-se-lhes o número de ordem e data de entrada e passando-se nota do respectivo registo, sempre que for pedida.
 
 2. Em seguida, são autuados os papéis correspondentes a cada processo, numerando e rubricando o secretário ou o escrivão todas as folhas.
 
@@ -380,9 +387,9 @@ Sem prejuízo do disposto no n.º 3 do artigo 26.º, passa-se depois aos assunto
 
 5. O secretário averbará no acto da distribuição, em livro próprio, os resultados do sorteio, que, estando conformes, serão subscritos no termo de cada acto pelo vice-presidente ou pelos presidentes da secção ou subsecção, consoante os casos.
 
-###### Art. 50.º Os requerimentos de interposição de recurso para o Conselho Ultramarino, respostas e alegações devem sempre ser acompanhados de tantos duplicados quantos os interessados que vivam em economia separada a que são opostos e de uma cópia, isenta de selo, para o arquivo dos serviços, destinada a servir de base a uma eventual reforma do processo.
+Art. 50.º Os requerimentos de interposição de recurso para o Conselho Ultramarino, respostas e alegações devem sempre ser acompanhados de tantos duplicados quantos os interessados que vivam em economia separada a que são opostos e de uma cópia, isenta de selo, para o arquivo dos serviços, destinada a servir de base a uma eventual reforma do processo.
 
-###### Art. 51.º - 1. A notificação a uma autoridade ou corpo administrativo, quando não representados por advogado ou pelo Ministério Público, é feita por ofício registado e com aviso de recepção, cuja expedição será certificada no processo pelo secretário do Conselho Ultramarino ou pelo escrivão. O aviso de recepção será junto aos autos.
+Art. 51.º - 1. A notificação a uma autoridade ou corpo administrativo, quando não representados por advogado ou pelo Ministério Público, é feita por ofício registado e com aviso de recepção, cuja expedição será certificada no processo pelo secretário do Conselho Ultramarino ou pelo escrivão. O aviso de recepção será junto aos autos.
 
 2. A notificação a outros interessados igualmente não representados por advogado é feita com observância da lei de processo civil, devendo no ultramar realizar-se por intermédio das autoridades administrativas.
 
@@ -392,11 +399,11 @@ Sem prejuízo do disposto no n.º 3 do artigo 26.º, passa-se depois aos assunto
 
 5. Quando os interessados a notificar estiverem devidamente representados por mandatário judicial, segue-se o regime de notificações, para este caso estabelecido na lei de processo civil do lugar em que a notificação deva ser realizada.
 
-###### Art. 52.º - 1. As sentenças proferidas em sessão plenária são publicadas na 1.ª série do Diário do Governo e dos Boletins Oficiais de todas as províncias ultramarinas, sem prejuízo da comunicação telegráfica das suas conclusões à província ou províncias interessadas.
+Art. 52.º - 1. As sentenças proferidas em sessão plenária são publicadas na 1.ª série do Diário do Governo e dos Boletins Oficiais de todas as províncias ultramarinas, sem prejuízo da comunicação telegráfica das suas conclusões à província ou províncias interessadas.
 
 2. As sentenças da secção do contencioso ou da sua 1.ª subsecção, de que não caiba ou não haja sido interposto recurso, relativas ao contencioso administrativo, fiscal ou aduaneiro, são publicadas na 2.ª série do Diário do Governo e dos Boletins Oficiais das províncias ultramarinas a que respeitem.
 
-###### Art. 53.º - 1. Se a entidade a quem competir a execução de uma sentença proferida em contencioso administrativo pelo Conselho Ultramarino entender que há grave prejuízo na respectiva execução, assim o declarará, no prazo de vinte dias, a contar da data da apresentação do requerimento de execução, em despacho fundamentado, de que é dado conhecimento ao requerente.
+Art. 53.º - 1. Se a entidade a quem competir a execução de uma sentença proferida em contencioso administrativo pelo Conselho Ultramarino entender que há grave prejuízo na respectiva execução, assim o declarará, no prazo de vinte dias, a contar da data da apresentação do requerimento de execução, em despacho fundamentado, de que é dado conhecimento ao requerente.
 
 2. Não se conformando o requerente da execução com os motivos invocados, deverá impugná-los, em exposição dirigida à entidade referida no número anterior, nos trinta dias seguintes à notificação do teor do despacho, pedindo no mesmo acto a indemnização a que se julgar com direito e juntando as provas que tiver dos prejuízos que lhe acarreta a inexecução e a cópia do despacho impugnado.
 
@@ -408,39 +415,39 @@ Sem prejuízo do disposto no n.º 3 do artigo 26.º, passa-se depois aos assunto
 
 6. No Conselho o processo é julgado em conformidade com os elementos que dele constarem, ordenando a execução ou o pagamento da indemnização que se entender devida ou que tiver sido fixada por acordo.
 
-###### Art. 54.º Em tudo o que não estiver especialmente previsto neste Regimento observar-se-á a lei de processo civil e, quanto ao contencioso do trabalho e previdência social, a lei de processo nos tribunais do trabalho e disposições complementares.
+Art. 54.º Em tudo o que não estiver especialmente previsto neste Regimento observar-se-á a lei de processo civil e, quanto ao contencioso do trabalho e previdência social, a lei de processo nos tribunais do trabalho e disposições complementares.
 
 #### SECÇÃO II — Processo da constitucionalidade
 
-###### Art. 55.º Se o incidente de inconstitucionalidade orgânica ou formal de diplomas dimanados dos governos provinciais tiver sido oficiosamente suscitado pelo tribunal antes de ser remetido em separado ao Conselho Ultramarino, são as partes devidamente representadas em juízo notificadas para juntar ao processo, no prazo de quinze dias, as suas alegações sobre a procedência do incidente, primeiro aquela a quem ele aproveite e depois aquela a quem o incidente prejudique.
+Art. 55.º Se o incidente de inconstitucionalidade orgânica ou formal de diplomas dimanados dos governos provinciais tiver sido oficiosamente suscitado pelo tribunal antes de ser remetido em separado ao Conselho Ultramarino, são as partes devidamente representadas em juízo notificadas para juntar ao processo, no prazo de quinze dias, as suas alegações sobre a procedência do incidente, primeiro aquela a quem ele aproveite e depois aquela a quem o incidente prejudique.
 
-###### Art. 56.º Entrado na secretaria do Conselho Ultramarino um processo relativo a incidente de inconstitucionalidade orgânica ou formal, é imediatamente cumprido o disposto no artigo 49.º, procedendo-se ao sorteio entre os vogais que tenham residência em Lisboa.
+Art. 56.º Entrado na secretaria do Conselho Ultramarino um processo relativo a incidente de inconstitucionalidade orgânica ou formal, é imediatamente cumprido o disposto no artigo 49.º, procedendo-se ao sorteio entre os vogais que tenham residência em Lisboa.
 
-###### Art. 57.º - 1. Nas quarenta e oito horas seguintes à distribuição é o processo concluso ao relator.
+Art. 57.º - 1. Nas quarenta e oito horas seguintes à distribuição é o processo concluso ao relator.
 
 2. Mostrando-se necessária a realização de alguma diligência ou a junção de qualquer documento, o relator assim o determinará, por despacho, nos cinco dias seguintes.
 
 3. No caso contrário, é elaborado pelo relator, no prazo de trinta dias, um projecto de sentença resolvendo o incidente, de que não poderá deixar de tomar conhecimento com base na sua irrelevância para a decisão do litígio em que foi suscitado.
 
-###### Art. 58.º Recebido o processo, a secretaria entregará ao vice-presidente e a cada um dos vogais que intervém no julgamento uma cópia do projecto apresentado pelo relator.
+Art. 58.º Recebido o processo, a secretaria entregará ao vice-presidente e a cada um dos vogais que intervém no julgamento uma cópia do projecto apresentado pelo relator.
 
-###### Art. 59.º Com a entrega da cópia que se lhe destina é o processo concluso ao vice-presidente, a fim de ser ordenada a sua inscrição na ordem do dia, para julgamento, na primeira sessão plenária a realizar em data não inferior a quinze dias após a entrega das cópias referidas no artigo anterior.
+Art. 59.º Com a entrega da cópia que se lhe destina é o processo concluso ao vice-presidente, a fim de ser ordenada a sua inscrição na ordem do dia, para julgamento, na primeira sessão plenária a realizar em data não inferior a quinze dias após a entrega das cópias referidas no artigo anterior.
 
-###### Art. 60.º Até ao dia da sessão em que o incidente venha a ser julgado, o processo fica patente na secretaria, durante as horas de expediente, aos vogais que o queiram consultar.
+Art. 60.º Até ao dia da sessão em que o incidente venha a ser julgado, o processo fica patente na secretaria, durante as horas de expediente, aos vogais que o queiram consultar.
 
-###### Art. 61.º A discussão e votação devem observar os termos prescritos nos artigos 43.º a 46.º, incidindo, primeiro, sobre se há alguma questão prévia que obste ao conhecimento do fundo da questão; depois, sobre as conclusões do projecto e respectiva fundamentação; por fim, se necessário, sobre os aspectos formais e de pormenor da redacção da sentença a proferir.
+Art. 61.º A discussão e votação devem observar os termos prescritos nos artigos 43.º a 46.º, incidindo, primeiro, sobre se há alguma questão prévia que obste ao conhecimento do fundo da questão; depois, sobre as conclusões do projecto e respectiva fundamentação; por fim, se necessário, sobre os aspectos formais e de pormenor da redacção da sentença a proferir.
 
-###### Art. 62.º O acórdão contendo a sentença começa pelo relatório onde, com a identificação da causa em que o incidente foi suscitado, se faz uma exposição concisa dos termos em que consiste a arguição de inconstitucionalidade e dos fundamentos e conclusões da defesa, fixando com precisão o ponto a resolver.
+Art. 62.º O acórdão contendo a sentença começa pelo relatório onde, com a identificação da causa em que o incidente foi suscitado, se faz uma exposição concisa dos termos em que consiste a arguição de inconstitucionalidade e dos fundamentos e conclusões da defesa, fixando com precisão o ponto a resolver.
 
 Ao relatório seguem-se os fundamentos e a decisão sobre a inconstitucionalidade do diploma em causa, mandando-o o Conselho Ultramarino observar ou determinando que se não aplique.
 
-###### Art. 63.º A doutrina fixada nas sentenças do Conselho Ultramarino em matéria de contencioso da constitucionalidade tem força obrigatória geral a partir da data da publicação na respectiva folha oficial.
+Art. 63.º A doutrina fixada nas sentenças do Conselho Ultramarino em matéria de contencioso da constitucionalidade tem força obrigatória geral a partir da data da publicação na respectiva folha oficial.
 
 #### SECÇÃO III — Processo na 1.ª subsecção
 
 ##### SUBSECÇÃO I — Recursos dos actos dos governadores das províncias ultramarinas ou proferidos por delegação sua
 
-###### Art. 64.º São susceptíveis de impugnação contenciosa para a 1.ª subsecção da secção do contencioso do Conselho Ultramarino os actos definitivos e executórios dos governadores das províncias ultramarinas ou proferidos por delegação sua, excepto se consistirem em:
+Art. 64.º São susceptíveis de impugnação contenciosa para a 1.ª subsecção da secção do contencioso do Conselho Ultramarino os actos definitivos e executórios dos governadores das províncias ultramarinas ou proferidos por delegação sua, excepto se consistirem em:
 
 a) Actos legislativos;
 
@@ -450,21 +457,21 @@ c) Actos que imponham sanções disciplinares;
 
 d) Actos incluídos na competência de outros tribunais.
 
-###### Art. 65.º O recurso só pode ser interposto por quem tenha interesse actual, directo, pessoal e com relevância jurídica na anulação do acto impugnado.
+Art. 65.º O recurso só pode ser interposto por quem tenha interesse actual, directo, pessoal e com relevância jurídica na anulação do acto impugnado.
 
-###### Art. 66.º - 1. Não pode recorrer quem tiver aceitado, expressa ou tàcitamente, o acto administrativo depois de praticado.
+Art. 66.º - 1. Não pode recorrer quem tiver aceitado, expressa ou tàcitamente, o acto administrativo depois de praticado.
 
 2. Aceitação tácita é a que deriva da prática, espontânea e sem reserva, de facto incompatível com a vontade de recorrer. A execução ou acatamento por funcionário não se considera aceitação tácita, salvo se depender da sua vontade a escolha da oportunidade da execução.
 
-###### Art. 67.º Se, no momento da interposição do recurso, houver outros interessados a quem a anulação do acto recorrido possa directamente prejudicar, deve o recorrente, sob pena de ilegitimidade processual, identificá-los logo e requerer que sejam notificados.
+Art. 67.º Se, no momento da interposição do recurso, houver outros interessados a quem a anulação do acto recorrido possa directamente prejudicar, deve o recorrente, sob pena de ilegitimidade processual, identificá-los logo e requerer que sejam notificados.
 
-###### Art. 68.º - 1. A interposição de recurso dos actos dos governadores das províncias ultramarinas, ou proferidos por delegação sua, faz-se por meio de requerimento assinado pelo recorrente, ou por advogado legalmente constituído ou nomeado, no qual se enunciem o acto recorrido, o objecto e fundamentos da impugnação e a identificação de todos os interessados cuja notificação se requer e se especifiquem as normas jurídicas concretamente infringidas formulando clara e precisamente o pedido.
+Art. 68.º - 1. A interposição de recurso dos actos dos governadores das províncias ultramarinas, ou proferidos por delegação sua, faz-se por meio de requerimento assinado pelo recorrente, ou por advogado legalmente constituído ou nomeado, no qual se enunciem o acto recorrido, o objecto e fundamentos da impugnação e a identificação de todos os interessados cuja notificação se requer e se especifiquem as normas jurídicas concretamente infringidas formulando clara e precisamente o pedido.
 
 2. O requerimento é acompanhado, além dos duplicados e cópia exigidos no artigo 50.º, de certidão, cópia autêntica ou exemplar da folha oficial em que tiver sido publicada a decisão recorrida e dos documentos probatórios dos factos ou direito consuetudinário, local ou estrangeiro invocados.
 
 3. Quando o recurso é interposto de acto tácito consistente na passividade da Administração, deve ser instruído com qualquer documento comprovativo da entrega, nos respectivos serviços, do requerimento sobre que não recaiu decisão expressa.
 
-###### Art. 69.º - 1. O recurso dos actos dos governadores das províncias ultramarinas, ou proferidos por delegação sua, salvo disposição especial, não tem efeito suspensivo, mas o recorrente pode pedir, no requerimento de interposição, que seja suspensa a execução da decisão recorrida com fundamento em que ela lhe causa prejuízo irreparável ou de difícil reparação.
+Art. 69.º - 1. O recurso dos actos dos governadores das províncias ultramarinas, ou proferidos por delegação sua, salvo disposição especial, não tem efeito suspensivo, mas o recorrente pode pedir, no requerimento de interposição, que seja suspensa a execução da decisão recorrida com fundamento em que ela lhe causa prejuízo irreparável ou de difícil reparação.
 
 2. Sobre este pedido são prèviamente ouvidos, no prazo de cinco dias, os interessados cuja notificação tenha sido requerida e que residam na localidade onde pender o recurso ou que aí tenham constituído mandatário.
 
@@ -480,13 +487,13 @@ Aqui, a alegação e documentos que a instruírem são imediatamente autuados co
 
 7. A decisão final é comunicada telegràficamente à província para cumprimento.
 
-###### Art. 70.º - 1. O prazo de interposição de recurso dos actos dos governadores das províncias ultramarinas ou proferidos por delegação sua é de quarenta e cinco dias, contados a partir da data da publicação, do conhecimento por outra via, do começo de execução ou do termo do prazo dentro do qual a decisão recorrida devia ter sido proferida no caso de recurso de acto tácito.
+Art. 70.º - 1. O prazo de interposição de recurso dos actos dos governadores das províncias ultramarinas ou proferidos por delegação sua é de quarenta e cinco dias, contados a partir da data da publicação, do conhecimento por outra via, do começo de execução ou do termo do prazo dentro do qual a decisão recorrida devia ter sido proferida no caso de recurso de acto tácito.
 
 2. Não tendo havido publicação, só releva o conhecimento oficial do acto ou o que resulta de notificação ao interessado; mas presume-se o conhecimento sempre que haja começo de execução do acto recorrido ou que o recorrente intervenha no processo burocrático revelando, por forma inequívoca, ter conhecimento dele.
 
 3. Sempre que o recurso contencioso respeite a acto proferido em decisão de recurso hierárquico necessário para cuja interposição a lei não fixe prazo, considera-se aquele extemporâneo se este recurso não tiver sido interposto no prazo de trinta dias, salvo se a decisão impugnada contenciosamente tiver agravado a situação do recorrente.
 
-###### Art. 71.º - 1. O requerimento de interposição, com os documentos que o acompanhem, é apresentado na secretaria dos serviços centrais da administração civil.
+Art. 71.º - 1. O requerimento de interposição, com os documentos que o acompanhem, é apresentado na secretaria dos serviços centrais da administração civil.
 
 2. Se o recorrente estiver residindo em circunscrição ou concelho do ultramar diverso da sede do governo provincial, pode apresentar o requerimento do recurso e documentos que o acompanhem na secretaria da circunscrição, concelho ou governo de distrito em que resida, a qual deverá remeter os elementos recebidos à secretaria dos serviços de administração civil da sede da província, pelo primeiro correio, declarando na nota de entrada a data em que a remessa foi feita.
 
@@ -496,7 +503,7 @@ Neste caso, se o relator verificar, feito o exame liminar do processo, que nenhu
 
 4. A data de entrada do requerimento em qualquer das secretarias referidas neste artigo fixa, para todos os efeitos, o momento da interposição do recurso.
 
-###### Art. 72.º - 1. Recebido o recurso na secretaria dos serviços centrais de administração civil, nos termos dos n.os 1 e 2 do artigo anterior, o director ou chefe dos serviços examiná-lo-á imediatamente e, verificando que nele se omite a especificação das normas jurídicas infringidas, o cumprimento, sendo caso disso, do preceituado no artigo 67.º deste Regimento, ou que não é acompanhado dos duplicados para entrega à entidade recorrida e interessados cuja notificação se requer, convida o recorrente a suprir a omissão, no prazo que lhe marcar, sob pena de ser logo arquivado o requerimento de recurso.
+Art. 72.º - 1. Recebido o recurso na secretaria dos serviços centrais de administração civil, nos termos dos n.os 1 e 2 do artigo anterior, o director ou chefe dos serviços examiná-lo-á imediatamente e, verificando que nele se omite a especificação das normas jurídicas infringidas, o cumprimento, sendo caso disso, do preceituado no artigo 67.º deste Regimento, ou que não é acompanhado dos duplicados para entrega à entidade recorrida e interessados cuja notificação se requer, convida o recorrente a suprir a omissão, no prazo que lhe marcar, sob pena de ser logo arquivado o requerimento de recurso.
 
 No caso contrário ou suprida a deficiência, elabora em quarenta e oito horas uma informação escrita ou oficia no mesmo prazo, enviando o duplicado do requerimento de recurso e dando conhecimento da sua interposição à entidade recorrida.
 
@@ -504,17 +511,17 @@ Em seguida, designa entre o pessoal que lhe esteja directamente subordinado o fu
 
 2. Na mesma oportunidade mandará juntar aos autos de recurso o processo burocrático relativo ao assunto versado, ou uma cópia autêntica, requisitando-o de qualquer estação oficial onde se encontre.
 
-###### Art. 73.º - 1. O escrivão autua o requerimento de recurso e documentos que o acompanhem e junta-lhe a cópia autêntica do processo burocrático, numerando e rubricando todas as folhas dos autos que passam a constituir o recurso, ou apensa o próprio processo burocrático, lavrando termo de apensação em que declare o objecto deste e o número de folhas que o compõem, que também numerará e rubricará.
+Art. 73.º - 1. O escrivão autua o requerimento de recurso e documentos que o acompanhem e junta-lhe a cópia autêntica do processo burocrático, numerando e rubricando todas as folhas dos autos que passam a constituir o recurso, ou apensa o próprio processo burocrático, lavrando termo de apensação em que declare o objecto deste e o número de folhas que o compõem, que também numerará e rubricará.
 
 2. O recurso não terá andamento se não se mostrar junta aos autos pelo recorrente a guia de depósito do preparo, em moeda da província, efectuado nos cinco dias seguintes à data da interposição do recurso. Pode, porém, o recorrente evitar que se julgue deserto o recurso se depositar o dobro do preparo devido, nos dez dias seguintes à notificação que, para o efeito, lhe deve ser pessoalmente feita.
 
-###### Art. 74.º - 1. Se com o requerimento do recurso não tiver sido possível apresentar todos os documentos necessários, requererá o recorrente, na mesma data, ao director ou chefe dos serviços de administração civil que lhe seja assinado prazo, o que será deferido por período razoável não excedente a trinta dias, de acordo com as circunstâncias concretas do caso, para o que o recorrente especificará os documentos de que carece e os pontos da matéria do recurso a que respeitam.
+Art. 74.º - 1. Se com o requerimento do recurso não tiver sido possível apresentar todos os documentos necessários, requererá o recorrente, na mesma data, ao director ou chefe dos serviços de administração civil que lhe seja assinado prazo, o que será deferido por período razoável não excedente a trinta dias, de acordo com as circunstâncias concretas do caso, para o que o recorrente especificará os documentos de que carece e os pontos da matéria do recurso a que respeitam.
 
 2. Serão passadas em cinco dias as certidões necessárias à instrução do recurso, mas o recorrente poderá obter prorrogação, até mais trinta dias, do prazo assinado nos termos do número anterior, provando que não obteve todos os documentos necessários durante o prazo primeiro fixado.
 
 3. Posteriormente, só poderão ser juntos documentos comprovativos de factos supervenientes, logo que ao interessado seja possível obtê-los.
 
-###### Art. 75.º - 1. Nos trinta dias seguintes à notificação da interposição do recurso podem os interessados responder em defesa dos seus direitos ou sustentando o despacho recorrido.
+Art. 75.º - 1. Nos trinta dias seguintes à notificação da interposição do recurso podem os interessados responder em defesa dos seus direitos ou sustentando o despacho recorrido.
 
 2. Não havendo outros interessados notificados, é o processo pessoalmente facultado à entidade recorrida, pelo prazo referido no número anterior, para elaboração da sua resposta.
 
@@ -522,7 +529,7 @@ Havendo outros interessados notificados, fica o processo patente na secretaria, 
 
 3. Com as respostas dos recorridos podem ser juntos documentos.
 
-###### Art. 76.º - 1. Junto o processo burocrático e as respostas ou decorrido o prazo para a apresentação da última, é notificado o recorrente para, nos vinte dias seguintes, apresentar a alegação do recurso.
+Art. 76.º - 1. Junto o processo burocrático e as respostas ou decorrido o prazo para a apresentação da última, é notificado o recorrente para, nos vinte dias seguintes, apresentar a alegação do recurso.
 
 2. A alegação referida no número anterior destina-se à fundamentação desenvolvida dos pontos enunciados no requerimento de interposição, podendo nela o recorrente, de acordo com os elementos constantes do processo, alterar o pedido inicial, ampliá-lo ou restringi-lo.
 
@@ -530,45 +537,45 @@ Havendo outros interessados notificados, fica o processo patente na secretaria, 
 
 4. À alegação apresentada no prazo legal é também aplicável o disposto na primeira parte do n.º 1 do artigo 72.º
 
-###### Art. 77.º Quando o recurso tenha sido arquivado nos serviços de administração civil ou nos mesmos serviços seja indevidamente retido, pode o recorrente reclamar para o governador da província e, não sendo atendido, para o presidente da 1.ª subsecção do Conselho Ultramarino, observando-se o disposto no n.º 3 do artigo 82.º
+Art. 77.º Quando o recurso tenha sido arquivado nos serviços de administração civil ou nos mesmos serviços seja indevidamente retido, pode o recorrente reclamar para o governador da província e, não sendo atendido, para o presidente da 1.ª subsecção do Conselho Ultramarino, observando-se o disposto no n.º 3 do artigo 82.º
 
-###### Art. 78.º - 1. Nos cinco dias seguintes à junção da alegação do recorrente, o escrivão elabora a conta de custas e selos do processo, se este não for deles isentos, incluindo a despesa necessária à sua remessa para o Conselho Ultramarino, pelo seguro do correio e o preparo a transferir para o Conselho.
+Art. 78.º - 1. Nos cinco dias seguintes à junção da alegação do recorrente, o escrivão elabora a conta de custas e selos do processo, se este não for deles isentos, incluindo a despesa necessária à sua remessa para o Conselho Ultramarino, pelo seguro do correio e o preparo a transferir para o Conselho.
 
 2. Se o total da conta for inferior ao preparo depositado, será o remanescente transferido com a remessa dos autos; se o depósito não for bastante, será o requerente notificado para completá-lo em quarenta e oito horas, sendo a falta deste reforço equiparada à falta de preparo inicial.
 
 3. Cumpridos os termos estabelecidos nos números anteriores, é o processo imediatamente remetido pela secretaria à 1.ª subsecção da secção do contencioso do Conselho Ultramarino para julgamento.
 
-###### Art. 79.º - 1. Julgado o recurso, são os autos devolvidos à província respectiva, logo que se encontrem pagas as custas e selos.
+Art. 79.º - 1. Julgado o recurso, são os autos devolvidos à província respectiva, logo que se encontrem pagas as custas e selos.
 
 2. Não havendo condenação em custas e selos, as despesas de porte e registo de correio são suportadas pelo Cofre do Conselho Ultramarino.
 
 ##### SUBSECÇÃO II — Recurso das decisões de tribunais das províncias ultramarinas
 
-###### Art. 80.º Nos processos decididos por tribunais das províncias cuja competência para julgamento em recurso caiba à 1.ª subsecção da secção do contencioso do Conselho Ultramarino os prazos de interposição de recurso por quem neles tenha ficado vencido são os seguintes:
+Art. 80.º Nos processos decididos por tribunais das províncias cuja competência para julgamento em recurso caiba à 1.ª subsecção da secção do contencioso do Conselho Ultramarino os prazos de interposição de recurso por quem neles tenha ficado vencido são os seguintes:
 
 a) No contencioso administrativo, fiscal ou aduaneiro: vinte dias;
 
 b) No contencioso do trabalho e previdência social: dez dias para o recurso de agravo e vinte dias para a apelação.
 
-###### Art. 81.º - 1. O requerimento de interposição de recurso deve conter a alegação do recorrente; além da identificação da decisão recorrida, especificando, se for caso disso, a parte dela a que o recurso se restringe e, no contencioso administrativo, fiscal ou aduaneiro, as normas jurídicas infringidas.
+Art. 81.º - 1. O requerimento de interposição de recurso deve conter a alegação do recorrente; além da identificação da decisão recorrida, especificando, se for caso disso, a parte dela a que o recurso se restringe e, no contencioso administrativo, fiscal ou aduaneiro, as normas jurídicas infringidas.
 
 2. O recorrido dispõe de prazo igual ao da interposição do recurso, e contado desde a notificação deste, para apresentar a sua alegação.
 
 3. Na alegação pode o recorrido impugnar a admissibilidade ou a tempestividade do recurso, bem como a legitimidade do recorrente.
 
-###### Art. 82.º - 1. O juiz ou o relator mandará subir o recurso desde que a decisão seja recorrível, o recurso tenha sido interposto tempestivamente, o recorrente disponha de legitimidade processual e tenha sido dado cumprimento à legislação sobre custas.
+Art. 82.º - 1. O juiz ou o relator mandará subir o recurso desde que a decisão seja recorrível, o recurso tenha sido interposto tempestivamente, o recorrente disponha de legitimidade processual e tenha sido dado cumprimento à legislação sobre custas.
 
 2. Na falta de especificação, quando exigida, das normas jurídicas infringidas ou dos duplicados impostos por lei, deve o juiz ou o relator convidar o recorrente a suprir a omissão, no prazo que lhe marcar, sob pena de ser logo julgado deserto o recurso.
 
 3. Do despacho que não admita o recurso, o julgue deserto ou retenha o agravo pode o recorrente reclamar para o presidente da subsecção, aplicando-se, com as convenientes adaptações, os termos estabelecidos na lei de processo civil.
 
-###### Art. 83.º - 1. Salvo preceito especial, o recurso contencioso administrativo, fiscal ou aduaneiro não tem efeito suspensivo.
+Art. 83.º - 1. Salvo preceito especial, o recurso contencioso administrativo, fiscal ou aduaneiro não tem efeito suspensivo.
 
 2. A apelação do contencioso do trabalho e previdência social tem efeito meramente devolutivo, sem necessidade de declaração. O apelante poderá, contudo, obter o efeito suspensivo se, no prazo de trinta dias, a partir da notificação da sentença, prestar caução da importância em que foi condenado, por meio de depósito efectivo no tribunal ou no estabelecimento destinado aos depósitos judiciais, ou por meio de fiança bancária.
 
 3. Tem efeito suspensivo o agravo do contencioso do trabalho e previdência social que suba imediatamente.
 
-###### Art. 84.º - 1. Sobem imediatamente, nos próprios autos, os recursos interpostos de decisões interlocutórias que:
+Art. 84.º - 1. Sobem imediatamente, nos próprios autos, os recursos interpostos de decisões interlocutórias que:
 
 a) Ponham termo ao processo;
 
@@ -586,7 +593,7 @@ c) Os agravos cuja retenção os tornaria absolutamente inúteis.
 
 ##### SUBSECÇÃO III — Disposições comuns
 
-###### Art. 85.º A distribuição na 1.ª subsecção da secção do contencioso do Conselho Ultramarino faz-se pelas seguintes espécies:
+Art. 85.º A distribuição na 1.ª subsecção da secção do contencioso do Conselho Ultramarino faz-se pelas seguintes espécies:
 
 a) No contencioso administrativo, fiscal ou aduaneiro:
 
@@ -608,7 +615,7 @@ b) No contencioso do trabalho e previdência social:
 
 5.ª Conflitos.
 
-###### Art. 86.º - 1. O juiz a quem o processo for distribuído fica sendo o relator, competindo-lhe deferir a todos os termos até final.
+Art. 86.º - 1. O juiz a quem o processo for distribuído fica sendo o relator, competindo-lhe deferir a todos os termos até final.
 
 2. Na decisão do objecto do recurso e de todas as questões que se suscitarem intervêm, pela sua ordem, os dois juízes seguintes ao relator. A designação de cada um destes juízes fixa-se no momento em que o processo lhe for concluso e subsiste ainda que o relator seja substituído.
 
@@ -616,15 +623,15 @@ b) No contencioso do trabalho e previdência social:
 
 4. Da decisão a que se refere o número anterior pode a parte que se considere prejudicada recorrer, se da questão de fundo também puder recorrer, mas o recurso só subirá a final.
 
-###### Art. 87.º Feita e averbada a distribuição, os autos são conclusos ao relator para apreciar, dentro de cinco dias, se alguma circunstância obsta ao conhecimento do objecto do recurso e, sendo caso disso, se é o próprio.
+Art. 87.º Feita e averbada a distribuição, os autos são conclusos ao relator para apreciar, dentro de cinco dias, se alguma circunstância obsta ao conhecimento do objecto do recurso e, sendo caso disso, se é o próprio.
 
-###### Art. 88.º - 1. Se o relator, mediante o exame liminar referido no artigo anterior, entender que se verifica alguma questão prévia, fará exposição escrita do seu parecer, mandando ouvir por quarenta e oito horas o recorrente, se tiver domicílio escolhido em Lisboa, e, seguidamente e sem necessidade de novo despacho, que o processo vá com vista pelo mesmo prazo ao Ministério Público e a cada um dos adjuntos, decidindo-se depois na primeira sessão.
+Art. 88.º - 1. Se o relator, mediante o exame liminar referido no artigo anterior, entender que se verifica alguma questão prévia, fará exposição escrita do seu parecer, mandando ouvir por quarenta e oito horas o recorrente, se tiver domicílio escolhido em Lisboa, e, seguidamente e sem necessidade de novo despacho, que o processo vá com vista pelo mesmo prazo ao Ministério Público e a cada um dos adjuntos, decidindo-se depois na primeira sessão.
 
 2. Se a questão prévia tiver sido suscitada por alguma das partes, ouvida por quarenta e oito horas a parte contrária que ainda não tenha a ela respondido e haja escolhido domicílio em Lisboa, é o processo oficiosamente feito com vista pela secretaria ao Ministério Público, e a cada um dos adjuntos, pelo mesmo prazo, e, por último, ao relator para este elaborar, nos cinco dias seguintes, o projecto de decisão da questão prévia a submeter à conferência.
 
 3. A rejeição do recurso com fundamento em qualquer motivo de ordem processual não obsta a que o Ministério Público promova o seu seguimento, a bem da justiça ou do interesse público, nos cinco dias posteriores à data da decisão.
 
-###### Art. 89.º - 1. Não ocorrendo circunstância impeditiva do conhecimento do recurso, é o facto declarado pelo relator no despacho liminar em que ordenará também os ulteriores termos.
+Art. 89.º - 1. Não ocorrendo circunstância impeditiva do conhecimento do recurso, é o facto declarado pelo relator no despacho liminar em que ordenará também os ulteriores termos.
 
 2. O processo vai então com vista ao Ministério Público por sete dias, a cada um dos juízes adjuntos pelo mesmo prazo e, por último, ao relator por vinte dias, para elaboração do projecto da sentença.
 
@@ -638,7 +645,7 @@ b) No contencioso do trabalho e previdência social:
 
 #### SECÇÃO IV — Processo na secção do contencioso
 
-###### Art. 90.º A distribuição na secção do contencioso do Conselho Ultramarino faz-se pelas seguintes espécies:
+Art. 90.º A distribuição na secção do contencioso do Conselho Ultramarino faz-se pelas seguintes espécies:
 
 a) No contencioso administrativo, fiscal ou aduaneiro:
 
@@ -656,15 +663,15 @@ b) No contencioso do trabalho e previdência social:
 
 3.ª Conflitos.
 
-###### Art. 91.º - 1. Nos processos cuja competência para julgamento, em recurso, caiba à secção do contencioso do Conselho Ultramarino, pode interpor recurso quem tenha ficado vencido na decisão impugnada.
+Art. 91.º - 1. Nos processos cuja competência para julgamento, em recurso, caiba à secção do contencioso do Conselho Ultramarino, pode interpor recurso quem tenha ficado vencido na decisão impugnada.
 
 2. É ao Ministério Público que, em representação da autoridade recorrida, incumbe interpor recurso das decisões da 1.ª subsecção que anulem actos dos governadores das províncias ultramarinas, ou proferidos por delegação sua, para além daquelas em que por lei lhe seja imposta essa obrigação ou lhe pertença o patrocínio dos interesses da parte vencida.
 
-###### Art. 92.º O recurso é interposto por meio de requerimento, que, salvo no caso do artigo 94.º, deve conter alegação que satisfaça aos requisitos exigidos no artigo 81.º, n.º 1, e é entregue na secretaria do tribunal recorrido no prazo de trinta dias, a contar da notificação ou do recebimento da comunicação ao governo provincial respectivo, feita por meio de ofício expedido por via aérea, com aviso de recepção, ou havendo parte revel, a contar da publicação em sessão da decisão recorrida.
+Art. 92.º O recurso é interposto por meio de requerimento, que, salvo no caso do artigo 94.º, deve conter alegação que satisfaça aos requisitos exigidos no artigo 81.º, n.º 1, e é entregue na secretaria do tribunal recorrido no prazo de trinta dias, a contar da notificação ou do recebimento da comunicação ao governo provincial respectivo, feita por meio de ofício expedido por via aérea, com aviso de recepção, ou havendo parte revel, a contar da publicação em sessão da decisão recorrida.
 
-###### Art. 93.º Os recursos para a secção do contencioso do Conselho Ultramarino só têm efeito suspensivo quando o tenham tido os que conduziram à decisão a rever pela secção.
+Art. 93.º Os recursos para a secção do contencioso do Conselho Ultramarino só têm efeito suspensivo quando o tenham tido os que conduziram à decisão a rever pela secção.
 
-###### Art. 94.º - 1. Se o recurso tiver por fundamento a contradição de julgados, deve indicar-se com a necessária individualização tanto a decisão anterior que esteja em oposição com a decisão recorrida como o lugar em que tenha sido publicada ou esteja registada, sob pena de não ser admitido. O relator da decisão recorrida pode determinar que o recorrente junte certidão da decisão anterior para seguimento do recurso.
+Art. 94.º - 1. Se o recurso tiver por fundamento a contradição de julgados, deve indicar-se com a necessária individualização tanto a decisão anterior que esteja em oposição com a decisão recorrida como o lugar em que tenha sido publicada ou esteja registada, sob pena de não ser admitido. O relator da decisão recorrida pode determinar que o recorrente junte certidão da decisão anterior para seguimento do recurso.
 
 2. Seguir-se-ão depois, com as convenientes adaptações, os termos prescritos nos artigos 765.º a 767.º do Código de Processo Civil, considerando-se a referência do artigo 765.º à Relação substituída por tribunal administrativo ou 1.ª subsecção, consoante os casos, e ao Supremo por secção; a referência aos juízes da secção, do artigo 766.º, n.º 1, substituída pelo relator da decisão a proferir e os dois adjuntos seguintes; a referência ao tribunal pleno do n.º 3 do mesmo artigo e a feita no artigo 767.º, n.º 3, ao tribunal substituídas pelo plenário da secção do contencioso do Conselho Ultramarino.
 
@@ -674,7 +681,7 @@ b) No contencioso do trabalho e previdência social:
 
 5. A decisão que resolva o conflito é publicada na 1.ª série dos Boletins Oficiais de todas as províncias ultramarinas e a sua doutrina tem força obrigatória geral.
 
-###### Art. 95.º - 1. Nos recursos diversos do regulado no artigo anterior, findo o prazo da alegação do recorrido, que é igual ao estabelecido no artigo 92.º, ou, logo que junta a alegação, o relator ordena a remessa do processo à secção do contencioso do Conselho Ultramarino para julgamento, sendo aí aplicáveis, com as convenientes adaptações, as disposições da subsecção III da secção anterior.
+Art. 95.º - 1. Nos recursos diversos do regulado no artigo anterior, findo o prazo da alegação do recorrido, que é igual ao estabelecido no artigo 92.º, ou, logo que junta a alegação, o relator ordena a remessa do processo à secção do contencioso do Conselho Ultramarino para julgamento, sendo aí aplicáveis, com as convenientes adaptações, as disposições da subsecção III da secção anterior.
 
 2. Nas decisões da secção, para haver vencimento quanto ao objecto do recurso, são necessários três votos conformes.
 
@@ -684,9 +691,9 @@ b) No contencioso do trabalho e previdência social:
 
 #### SECÇÃO V — Conflitos de competência e de jurisdição
 
-###### Art. 96.º Os conflitos de competência ou de jurisdição que ùnicamente envolvem tribunais de qualquer espécie são suscitados e resolvidos nos termos da lei de processo civil, com as necessárias adaptações.
+Art. 96.º Os conflitos de competência ou de jurisdição que ùnicamente envolvem tribunais de qualquer espécie são suscitados e resolvidos nos termos da lei de processo civil, com as necessárias adaptações.
 
-###### Art. 97.º - 1. O conflitos entre autoridades pertencentes à actividade administrativa do Estado e quaisquer tribunais da mesma província ultramarina são, no mais breve espaço de tempo, suscitados pelo respectivo governador, a quem as entidades em conflito devem remeter, no prazo de dez dias, uma exposição escrita instruída com os documentos necessários para o completo esclarecimento da questão.
+Art. 97.º - 1. O conflitos entre autoridades pertencentes à actividade administrativa do Estado e quaisquer tribunais da mesma província ultramarina são, no mais breve espaço de tempo, suscitados pelo respectivo governador, a quem as entidades em conflito devem remeter, no prazo de dez dias, uma exposição escrita instruída com os documentos necessários para o completo esclarecimento da questão.
 
 2. Nos conflitos referidos no número anterior que envolvam entidades de diferentes províncias ultramarinas, a exposição será enviada ao governador da província a que pertença a autoridade administrativa do Estado.
 
@@ -694,11 +701,11 @@ b) No contencioso do trabalho e previdência social:
 
 4. O despacho referido na parte final do número anterior tem, quanto aos conflitos positivos, efeito suspensivo das decisões proferidas pelas autoridades em conflito, salvo se o governador entender que tal efeito acarretará grave prejuízo público, hipótese em que designará a autoridade que deve exercer imediatamente a competência.
 
-###### Art. 98.º Não há recurso das decisões do Conselho Ultramarino que resolverem conflitos de jurisdição e competência.
+Art. 98.º Não há recurso das decisões do Conselho Ultramarino que resolverem conflitos de jurisdição e competência.
 
 #### SECÇÃO VI — Revisão das sentenças proferidas pelo Conselho Ultramarino
 
-###### Art. 99.º A sentença transitada em julgado só pode ser objecto de revisão pelo órgão do Conselho Ultramarino que a houver proferido, nos casos seguintes:
+Art. 99.º A sentença transitada em julgado só pode ser objecto de revisão pelo órgão do Conselho Ultramarino que a houver proferido, nos casos seguintes:
 
 a) Quando se mostre, por sentença criminal passada em julgado, que foi proferida por prevaricação, concussão, peita, suborno ou corrupção de algum dos juízes que na decisão intervieram;
 
@@ -708,26 +715,26 @@ c) Quando se apresente documento novo de que o interessado não tivesse conhecim
 
 d) Quando se mostre que, por não ter sido indevidamente chamado ou o ter sido por forma nula, correu o processo respectivo à revelia do requerente por falta absoluta de intervenção sua.
 
-###### Art. 100.º A revisão pode ser requerida por quem tenha ficado vencido na decisão a rever e, bem assim, por todos aqueles contra quem tal decisão foi ou esteja em via de ser executada.
+Art. 100.º A revisão pode ser requerida por quem tenha ficado vencido na decisão a rever e, bem assim, por todos aqueles contra quem tal decisão foi ou esteja em via de ser executada.
 
-###### Art. 101.º O requerimento de interposição do recurso de revisão tem sempre de ser subscrito por advogado, quando o não seja pelo Ministério Público.
+Art. 101.º O requerimento de interposição do recurso de revisão tem sempre de ser subscrito por advogado, quando o não seja pelo Ministério Público.
 
-###### Art. 102.º O requerimento pedindo a revisão especificará o fundamento do recurso. Apresenta-se na secretaria do Conselho Ultramarino, com observância dos prazos previstos nos n.os 2 e 3 do artigo 772.º do Código de Processo Civil, instruído com certidão de teor da decisão a rever e os demais documentos necessários à justificação do pedido.
+Art. 102.º O requerimento pedindo a revisão especificará o fundamento do recurso. Apresenta-se na secretaria do Conselho Ultramarino, com observância dos prazos previstos nos n.os 2 e 3 do artigo 772.º do Código de Processo Civil, instruído com certidão de teor da decisão a rever e os demais documentos necessários à justificação do pedido.
 
-###### Art. 103.º Autuado e distribuído o requerimento e demais elementos apresentados e feito o preparo devido, a secretaria informará, por escrito, se o processo em que foi proferida a decisão a rever se encontra ainda no Conselho Ultramarino ou, no caso negativo, qual a data da sua remessa à província, abrindo logo vista ao Ministério Público, se não for ele o requerente.
+Art. 103.º Autuado e distribuído o requerimento e demais elementos apresentados e feito o preparo devido, a secretaria informará, por escrito, se o processo em que foi proferida a decisão a rever se encontra ainda no Conselho Ultramarino ou, no caso negativo, qual a data da sua remessa à província, abrindo logo vista ao Ministério Público, se não for ele o requerente.
 
-###### Art. 104.º Em seguida, os autos vão com vista aos dois juízes-adjuntos, pelo prazo de sete dias a cada um, e depois ao relator, pelo prazo de vinte dias, apresentando-se por fim à conferência para que o tribunal conheça do fundamento da revisão.
+Art. 104.º Em seguida, os autos vão com vista aos dois juízes-adjuntos, pelo prazo de sete dias a cada um, e depois ao relator, pelo prazo de vinte dias, apresentando-se por fim à conferência para que o tribunal conheça do fundamento da revisão.
 
-###### Art. 105.º - 1. Se tiver sido rescindida a decisão a rever, o relator mandará apensar os autos de recurso ao processo a que respeitam, requisitando-se à entidade a cuja guarda se encontrar, e ordenará a notificação de todos os interessados que no processo devam ter intervenção.
+Art. 105.º - 1. Se tiver sido rescindida a decisão a rever, o relator mandará apensar os autos de recurso ao processo a que respeitam, requisitando-se à entidade a cuja guarda se encontrar, e ordenará a notificação de todos os interessados que no processo devam ter intervenção.
 
 2. O processo terá, depois, o seguimento estabelecido neste Regimento para a espécie de recurso adequada ao julgamento da decisão rescindida, aproveitando-se a parte desse processo que o fundamento da revisão não tenha prejudicado e proferindo-se decisão final de acordo com os elementos produzidos.
 
 #### SECÇÃO VII — Custas
 
-###### Art. 106.º No Conselho Ultramarino os processos contenciosos estão sujeitos ao pagamento de custas, nos termos estabelecidos na respectiva tabela, aprovada por portaria do Ministro do Ultramar.
+Art. 106.º No Conselho Ultramarino os processos contenciosos estão sujeitos ao pagamento de custas, nos termos estabelecidos na respectiva tabela, aprovada por portaria do Ministro do Ultramar.
 
-###### Art. 107.º A responsabilidade pelo pagamento das custas contadas no Conselho Ultramarino incumbe aos recorrentes ou recorridos que intervenham no processo em defesa dos seus direitos, que tenham ficado vencidos e desde que não beneficiem, por lei, de isenção de pagamento de custas.
+Art. 107.º A responsabilidade pelo pagamento das custas contadas no Conselho Ultramarino incumbe aos recorrentes ou recorridos que intervenham no processo em defesa dos seus direitos, que tenham ficado vencidos e desde que não beneficiem, por lei, de isenção de pagamento de custas.
 
-###### Art. 108.º A parte que litigar de má fé deve ser condenada em multa a fixar entre 500$00 e 50000$00, que reverte para o Cofre do Conselho Ultramarino, e na justa indemnização à parte contrária, se esta a pedir, atendendo-se para a fixação do respectivo montante ao estabelecido na lei de processo civil, com as necessárias adaptações.
+Art. 108.º A parte que litigar de má fé deve ser condenada em multa a fixar entre 500$00 e 50000$00, que reverte para o Cofre do Conselho Ultramarino, e na justa indemnização à parte contrária, se esta a pedir, atendendo-se para a fixação do respectivo montante ao estabelecido na lei de processo civil, com as necessárias adaptações.
 
 Ministério do Ultramar, 9 de Julho de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

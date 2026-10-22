@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48367-1968-274848
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:12Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84fd4aceee42c999cb1839a72f3a6438fd3f5e92dd7bc1df6b2b4a36107fb108
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5994d6ba51097d5aa2faba8f5dbd91f828f25379d86d7bac7902607b71ff8f75
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:12Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:168247:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:175823:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:466238:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:12Z'
   warnings: []
   errors: []
 ---
@@ -84,9 +96,9 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta, e eu promulgo o seguinte:
 
-###### Artigo 1.º A Casa Pia de Évora é um estabelecimento oficial de assistência dotado de personalidade jurídica e autonomia administrativa, destinado à protecção de menores na idade escolar e na adolescência.
+Artigo 1.º A Casa Pia de Évora é um estabelecimento oficial de assistência dotado de personalidade jurídica e autonomia administrativa, destinado à protecção de menores na idade escolar e na adolescência.
 
-###### Art. 2.º A Casa Pia exercerá a sua acção através das seguintes modalidades:
+Art. 2.º A Casa Pia exercerá a sua acção através das seguintes modalidades:
 
 1.º Colocação subsidiada dos menores em famílias idóneas;
 
@@ -94,26 +106,26 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 3.º Subsídios para estudo em estabelecimentos de ensino oficiais ou particulares.
 
-###### Art. 3.º A concessão de qualquer das modalidades de assistência prevista neste diploma será orientada e condicionada de harmonia com as disposições estabelecidas no [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, e com as normas e instruções de serviço emanadas da Direcção-Geral da Assistência.
+Art. 3.º A concessão de qualquer das modalidades de assistência prevista neste diploma será orientada e condicionada de harmonia com as disposições estabelecidas no [Decreto-Lei n.º 35108](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35108-1945-466238), de 7 de Novembro de 1945, e com as normas e instruções de serviço emanadas da Direcção-Geral da Assistência.
 
-###### Art. 4.º - 1. A Casa Pia de Évora compreende duas secções, uma masculina e outra feminina, destinadas a menores normais, sem prejuízo da criação de novas secções especializadas para menores portadores de irregularidades sensoriais ou intelectuais.
+Art. 4.º - 1. A Casa Pia de Évora compreende duas secções, uma masculina e outra feminina, destinadas a menores normais, sem prejuízo da criação de novas secções especializadas para menores portadores de irregularidades sensoriais ou intelectuais.
 
 2. A secção masculina tem a designação de Duque d Ávila, e a feminina, do Dr. João Baptista Rolo.
 
-###### Art. 5.º A criação de novas secções dependerá de despacho do Ministro da Saúde e Assistência.
+Art. 5.º A criação de novas secções dependerá de despacho do Ministro da Saúde e Assistência.
 
-###### Art. 6.º A Casa Pia de Évora será dirigida por um provedor, que exercerá a direcção técnica e administrativa, coadjuvado por um conselho técnico e outro administrativo, cujas composições serão definidas em regulamento a aprovar nos termos do artigo 11.º deste diploma.
+Art. 6.º A Casa Pia de Évora será dirigida por um provedor, que exercerá a direcção técnica e administrativa, coadjuvado por um conselho técnico e outro administrativo, cujas composições serão definidas em regulamento a aprovar nos termos do artigo 11.º deste diploma.
 
-###### Art. 7.º Sempre que o julgar conveniente, o director do Instituto de Assistência aos Menores, ou técnicos do mesmo Instituto por ele indicados, poderão tomar parte nas reuniões do conselho técnico.
+Art. 7.º Sempre que o julgar conveniente, o director do Instituto de Assistência aos Menores, ou técnicos do mesmo Instituto por ele indicados, poderão tomar parte nas reuniões do conselho técnico.
 
-###### Art. 8.º O lugar de provedor será provido pelo Ministro da Saúde e Assistência em indivíduo de reconhecido mérito e capacidade para o exercício das respectivas funções.
+Art. 8.º O lugar de provedor será provido pelo Ministro da Saúde e Assistência em indivíduo de reconhecido mérito e capacidade para o exercício das respectivas funções.
 
-###### Art. 9.º É aplicável na reorganização da Casa Pia de Évora o disposto nos artigos 7.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
+Art. 9.º É aplicável na reorganização da Casa Pia de Évora o disposto nos artigos 7.º e 9.º do [Decreto-Lei n.º 31913](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31913-1942-168247), de 12 de Março de 1942.
 
-###### Art. 10.º A Casa Pia de Évora terá um regulamento interno, aprovado por portaria do Ministro da Saúde e Assistência.
+Art. 10.º A Casa Pia de Évora terá um regulamento interno, aprovado por portaria do Ministro da Saúde e Assistência.
 
-###### Art. 11.º É revogado o [Decreto n.º 36493](https://diariodarepublica.pt/dr/detalhe/decreto/36493-1947-175823), de 3 de Setembro de 1947.
+Art. 11.º É revogado o [Decreto n.º 36493](https://diariodarepublica.pt/dr/detalhe/decreto/36493-1947-175823), de 3 de Setembro de 1947.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Francisco Pereira Neto de Carvalho.

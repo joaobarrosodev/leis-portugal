@@ -47,40 +47,67 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48302-1968-234973
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1977-05-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 84ffe36d9b87daaddff66b6d8757061253605aa2b7d84dac8e8fbe7fdd5f28f5
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7947b0f77276288bb8c88245f9b28cc434cd9b6937bd405e73b0f75369267e70
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Centro de Estudos e Planeamento
+- Concurso
+- Definição de Competências
+- Instituto Nacional de Estatística
+- Pessoal Administrativo
+- Pessoal Auxiliar
+- Pessoal Técnico
+- Quadro de Pessoal
+- Secretariado Técnico da Presidência do Conselho
 relationships:
 - type: amended_by
   target: pt:dre:252851:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:252851:por
+  label: Substituído o quadro de pessoal do CEP, a que se refere o art. 9.º e revogados os arts. 10.º, 11.º, 12.º, 13.º, 14.º
+    e 15.º pelo DEC LEI.216/77.1977.05.27.MPCE DR.IS [123]
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/216-1977-252851
+  date: '1977-05-27'
+- type: cites
+  target: pt:dre:234972:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:440476:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486875:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:41Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +122,7 @@ Centro de Estudos de Planeamento
 
 I) Competência
 
-###### Artigo 1.º Para a realização das atribuições a que se refere o artigo 1.º do [Decreto-Lei n.º 48301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972), desta data, compete, em especial, ao Centro de Estudos de Planeamento:
+Artigo 1.º Para a realização das atribuições a que se refere o artigo 1.º do [Decreto-Lei n.º 48301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48301-1968-234972), desta data, compete, em especial, ao Centro de Estudos de Planeamento:
 
 1.º Aproveitar em trabalhos sistemáticos de investigação as informações recolhidas e os estudos realizados pelos órgãos de planeamento públicos e privados;
 
@@ -107,7 +134,7 @@ I) Competência
 
 5.º Divulgar, em publicação periódica ou por outros meios, trabalhos efectuados pelo Centro ou quaisquer outros respeitantes a matérias próprias da sua actividade, quando se verifique interesse na divulgação.
 
-###### Art. 2.º - 1. Ao conselho orientador compete:
+Art. 2.º - 1. Ao conselho orientador compete:
 
 a) Apreciar os projectos dos programas anuais de trabalho apresentados pela direcção;
 
@@ -119,7 +146,7 @@ d) Deliberar sobre os restantes assuntos que lhe forem submetidos pela direcçã
 
 2. O conselho orientador reúne ordinàriamente três vezes por ano, e pode ser convocado extraordinàriamente por iniciativa do presidente ou a pedido de dois dos seus membros.
 
-###### Art. 3.º Compete à direcção:
+Art. 3.º Compete à direcção:
 
 a) Orientar a administração corrente do Centro e o acompanhamento técnico dos seus núcleos de trabalho;
 
@@ -139,44 +166,44 @@ g) Desempenhar as mais funções que lhe sejam cometidas por lei ou determinaç�
 
 II) Normas de funcionamento
 
-###### Art. 4.º O Centro organizar-se-á em núcleos de trabalho, de acordo com as diversas matérias das suas atribuições ou em função de estudos específicos a realizar.
+Art. 4.º O Centro organizar-se-á em núcleos de trabalho, de acordo com as diversas matérias das suas atribuições ou em função de estudos específicos a realizar.
 
-###### Art. 5.º A realização de estudos e trabalhos efectuados por encomenda será autorizada, em cada caso, pelo Presidente do Conselho, que aprovará igualmente as respectivas condições de pagamento.
+Art. 5.º A realização de estudos e trabalhos efectuados por encomenda será autorizada, em cada caso, pelo Presidente do Conselho, que aprovará igualmente as respectivas condições de pagamento.
 
-###### Art. 6.º A realização, por entidades nacionais ou estrangeiras, de estudos, inquéritos ou trabalhos de carácter eventual a cargo do Centro carece de autorização do Presidente do Conselho, sob proposta da direcção, ouvido o conselho orientador.
+Art. 6.º A realização, por entidades nacionais ou estrangeiras, de estudos, inquéritos ou trabalhos de carácter eventual a cargo do Centro carece de autorização do Presidente do Conselho, sob proposta da direcção, ouvido o conselho orientador.
 
-###### Art. 7.º O Instituto Nacional de Estatística e o Secretariado Técnico da Presidência do Conselho prestarão ao Centro a colaboração necessária para a obtenção de dados estatísticos e bibliográficos e mais informações.
+Art. 7.º O Instituto Nacional de Estatística e o Secretariado Técnico da Presidência do Conselho prestarão ao Centro a colaboração necessária para a obtenção de dados estatísticos e bibliográficos e mais informações.
 
-###### Art. 8.º Os serviços de expediente e de cálculo do Secretariado Técnico darão ao Centro o apoio exigido pelo regular desempenho das suas actividades.
+Art. 8.º Os serviços de expediente e de cálculo do Secretariado Técnico darão ao Centro o apoio exigido pelo regular desempenho das suas actividades.
 
 III) Pessoal
 
-###### Art. 9.º O Centro de Estudos de Planeamento disporá do pessoal técnico, administrativo, auxiliar e menor constante do mapa anexo ao presente decreto.
+Art. 9.º O Centro de Estudos de Planeamento disporá do pessoal técnico, administrativo, auxiliar e menor constante do mapa anexo ao presente decreto.
 
-###### Art. 10.º Compete aos especialistas assegurar a ligação da direcção com os núcleos de trabalho, em ordem a garantir a uniformidade de orientação e a necessária continuidade nas respectivas tarefas.
+Art. 10.º Compete aos especialistas assegurar a ligação da direcção com os núcleos de trabalho, em ordem a garantir a uniformidade de orientação e a necessária continuidade nas respectivas tarefas.
 
-###### Art. 11.º Incumbe ao documentalista organizar e manter em ordem todos os serviços de documentação e arquivo necessários ao bom funcionamento do Centro, incluindo a biblioteca.
+Art. 11.º Incumbe ao documentalista organizar e manter em ordem todos os serviços de documentação e arquivo necessários ao bom funcionamento do Centro, incluindo a biblioteca.
 
-###### Art. 12.º Cabe ao primeiro-oficial assegurar o expediente administrativo e burocrático do Centro e secretariar os respectivos órgãos directivos.
+Art. 12.º Cabe ao primeiro-oficial assegurar o expediente administrativo e burocrático do Centro e secretariar os respectivos órgãos directivos.
 
-###### Art. 13.º - 1. Os lugares de especialista e de documentalista são providos, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ao exercício das respectivas funções.
+Art. 13.º - 1. Os lugares de especialista e de documentalista são providos, por escolha do Presidente do Conselho, de entre diplomados com curso superior adequado ao exercício das respectivas funções.
 
 2. As nomeações serão feitas provisòriamente, com possibilidade de provimento definitivo, nos termos estabelecidos para os correspondentes lugares do quadro do Secretariado Técnico da Presidência do Conselho.
 
-###### Art. 14.º - 1. O lugar de primeiro-oficial é provido mediante concurso de provas públicas, a que poderão concorrer os segundos-oficiais com mais de dois anos de serviço no Secretariado Técnico da Presidência do Conselho e mais de três de exercício efectivo nessa categoria. Na falta de candidatos nestas condições, poderão concorrer outros segundos-oficiais do quadro único a que se referem o artigo 14.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, e o § 1.º do artigo 1.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, com, pelo menos, um ano de serviço nessa categoria.
+Art. 14.º - 1. O lugar de primeiro-oficial é provido mediante concurso de provas públicas, a que poderão concorrer os segundos-oficiais com mais de dois anos de serviço no Secretariado Técnico da Presidência do Conselho e mais de três de exercício efectivo nessa categoria. Na falta de candidatos nestas condições, poderão concorrer outros segundos-oficiais do quadro único a que se referem o artigo 14.º do [Decreto-Lei n.º 42593](https://diariodarepublica.pt/dr/detalhe/decreto-lei/42593-1959-440476), de 19 de Outubro de 1959, e o § 1.º do artigo 1.º do [Decreto n.º 46910](https://diariodarepublica.pt/dr/detalhe/decreto/46910-1966-486875), de 19 de Março de 1966, com, pelo menos, um ano de serviço nessa categoria.
 
 2. O programa do concurso será aprovado pelo Presidente do Conselho.
 
 3. O primeiro provimento poderá ser feito, por escolha do Presidente do Conselho sobre proposta da direcção do Centro, de entre os funcionários da categoria imediatamente inferior pertencentes ao quadro único a que alude o n.º 1 e que obedeçam às condições referidas nesta disposição.
 
-###### Art. 15.º Os lugares de primeiro e segundo-calculadores, dactilógrafos e contínuos são providos nos termos correspondentes aos de idênticos lugares do quadro do Secretariado Técnico da Presidência do Conselho.
+Art. 15.º Os lugares de primeiro e segundo-calculadores, dactilógrafos e contínuos são providos nos termos correspondentes aos de idênticos lugares do quadro do Secretariado Técnico da Presidência do Conselho.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.
 
 Mapa anexo ao Decreto n.º 48302, de 30 de Março de 1968
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/07700/04850486.pdf))](https://files.diariodarepublica.pt/1s/1968/03/07700/04850486.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/07700/04850486.pdf)
 
 Presidência do Conselho, 30 de Março de 1968. - O Presidente do Conselho, António de Oliveira Salazar.

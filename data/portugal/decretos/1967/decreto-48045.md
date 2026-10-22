@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48045-1967-389409
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-18T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:31Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b8a72b80f211e0bc360b1a5f2cf27f95e0383388cc2e15f08160012abf612cb4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 87e9e2bbc831036404d30ead7e4aee703f81db2607670e45e597aa452779ae7b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:31Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:590877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:678239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:31Z'
   warnings: []
   errors: []
 ---
@@ -109,11 +121,11 @@ Ouvido o Conselho Ultramarino:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As comarcas do ultramar são, por ordem decrescente de categorias, de 1.ª e 2.ª classes.
+Artigo 1.º - 1. As comarcas do ultramar são, por ordem decrescente de categorias, de 1.ª e 2.ª classes.
 
 2. São considerados da classe da respectiva comarca todos os cargos nela existentes que devam ser providos em magistrados judiciais, com excepção do caso de colocação temporária de um juiz como adjunto, quando o respectivo serviço se encontre sensìvelmente atrasado, e dos tribunais de menores e de execução de penas, em que o provimento pode recair em magistrados de classe inferior.
 
-###### Art. 2.º - 1. São de 1.ª classe as comarcas que tenham sede nas capitais das províncias ultramarinas.
+Art. 2.º - 1. São de 1.ª classe as comarcas que tenham sede nas capitais das províncias ultramarinas.
 
 2. São também de 1.ª classe as seguintes comarcas:
 
@@ -123,33 +135,33 @@ Em Moçambique: Beira, Quelimane e Nampula.
 
 3. São de 2.ª classe todas as restantes.
 
-###### Art. 3.º - 1. Os juízes de 1.ª e 2.ª classes e, bem assim, os desembargadores do ultramar, terão a categoria dos juízes de igual classe e dos desembargadores do quadro metropolitano e os vencimentos base e complementar que, nas províncias ultramarinas, corresponderem a essa categoria.
+Art. 3.º - 1. Os juízes de 1.ª e 2.ª classes e, bem assim, os desembargadores do ultramar, terão a categoria dos juízes de igual classe e dos desembargadores do quadro metropolitano e os vencimentos base e complementar que, nas províncias ultramarinas, corresponderem a essa categoria.
 
 2. Os juízes dos tribunais de menores e de execução de penas, dos tribunais privativos do trabalho e os ajudantes do procurador da República, terão sempre os vencimentos do juiz de direito da comarca onde sirvam.
 
-###### Art. 4.º As vagas que ocorram nas comarcas de 1.ª classe e nas Relações são providas por meio de promoção dos juízes das classes imediatamente inferiores.
+Art. 4.º As vagas que ocorram nas comarcas de 1.ª classe e nas Relações são providas por meio de promoção dos juízes das classes imediatamente inferiores.
 
-###### Art. 5.º Os magistrados judiciais são promovidos à classe superior e à 2.ª instância nos termos seguintes:
+Art. 5.º Os magistrados judiciais são promovidos à classe superior e à 2.ª instância nos termos seguintes:
 
 a) Metade das vagas existentes na 1.ª classe é reservada à promoção por mérito, segundo a ordem de graduação feita pelo Conselho Superior Judiciário do Ultramar; a outra metade é preenchida segundo a ordem de antiguidade, com exclusão dos magistrados cuja classificação seja inferior à de Bom;
 
 b) Dois terços das vagas existentes nas Relações são reservados à promoção por mérito, segundo a ordem de graduação feita pelo Conselho Superior Judiciário do Ultramar; o terço restante é preenchido segundo a ordem de antiguidade, com exclusão dos magistrados cuja classificação seja inferior à de Bom.
 
-###### Art. 6.º A classificação extraordinária, complemento das classificações ordinárias e destinada a regular a promoção dos magistrados à classe ou instância superior, são chamados obrigatòriamente todos os magistrados judiciais que:
+Art. 6.º A classificação extraordinária, complemento das classificações ordinárias e destinada a regular a promoção dos magistrados à classe ou instância superior, são chamados obrigatòriamente todos os magistrados judiciais que:
 
 a) Se encontrem na metade superior da escala de antiguidades da 1.ª classe ou no terço superior dessa escala na 2.ª classe;
 
 b) Em classificação ordinária, efectuada há menos de dois anos, tenham obtido nota de Muito bom.
 
-###### Art. 7.º - 1. Têm preferência nos provimento em comarcas de 1.ª classe os delegados do procurador da República e os oficiais de justiça mais antigos, com boas informações de serviço.
+Art. 7.º - 1. Têm preferência nos provimento em comarcas de 1.ª classe os delegados do procurador da República e os oficiais de justiça mais antigos, com boas informações de serviço.
 
 2. Aos delegados que servirem em comarcas de 1.ª classe serão atribuídas gratificações mensais de 1000$00.
 
-###### Art. 8.º (transitório). Os juízes que na lista de antiguidade dos magistrados de 1.ª instância ocuparem os primeiros lugares, até ao número de lugares da mesma classe estabelecido no artigo 2.º, e tenham boas informações, consideram-se de 1.ª classe, independentemente de qualquer formalidade de visto ou posse e mantendo-se nas suas colocações actuais, quando ao caso couber, sem prejuízo da aplicação futura do que sobre a matéria dispõe o presente diploma.
+Art. 8.º (transitório). Os juízes que na lista de antiguidade dos magistrados de 1.ª instância ocuparem os primeiros lugares, até ao número de lugares da mesma classe estabelecido no artigo 2.º, e tenham boas informações, consideram-se de 1.ª classe, independentemente de qualquer formalidade de visto ou posse e mantendo-se nas suas colocações actuais, quando ao caso couber, sem prejuízo da aplicação futura do que sobre a matéria dispõe o presente diploma.
 
 Todos os restantes serão de 2.ª classe.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 18 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

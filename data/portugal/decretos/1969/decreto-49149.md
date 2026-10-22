@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/07/17400/09080908.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49149-1969-199139
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1972-07-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:28Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0a526d502204209353ceccda3b8800be8900d6df368d268fcf128f1944e023dd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 077fd00209b0004ab6ec773cd1bb0a39b239e2235158cf6dc696c6caeec42feb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:28Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,21 @@ relationships:
   target: pt:dre:408513:por
   label: Última alteração registada na importação inicial
   source: null
+- type: repealed_by
+  target: pt:dre:408513:por
+  label: "Revogado pelo DEC LEI.265/72.31.07.1972.MMAR, DG.IS [177]Supl de 31.07.1972\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/265-1972-408513
+  date: '1972-07-31'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:28Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +96,7 @@ Tornando-se necessário actualizar os procedimentos estabelecidos quanto à defi
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. Em cada um dos portos do continente e das ilhas adjacentes existirão, na medida do necessário, ancoradouros classificados da seguinte forma:
+Artigo 1.º - 1. Em cada um dos portos do continente e das ilhas adjacentes existirão, na medida do necessário, ancoradouros classificados da seguinte forma:
 
 a) Ancoradouros militares;
 
@@ -115,10 +120,10 @@ i) Ancoradouros de recreio.
 
 3. A autoridade marítima, quando o julgar conveniente, poderá estabelecer ancoradouros que se destinem a mais do que uma das finalidades referidas no n.º 1.
 
-###### Art. 2.º A localização, forma, pintura e acessórios das bóias de amarração utilizadas nos ancoradouros aludidos no artigo anterior serão regulamentados pela autoridade marítima, por forma a reduzir os riscos que as bóias possam constituir para a navegação e a tornar a sua utilização mais fácil e segura.
+Art. 2.º A localização, forma, pintura e acessórios das bóias de amarração utilizadas nos ancoradouros aludidos no artigo anterior serão regulamentados pela autoridade marítima, por forma a reduzir os riscos que as bóias possam constituir para a navegação e a tornar a sua utilização mais fácil e segura.
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 15 de Julho de 1969. Publique-se.**
+Promulgado em 15 de Julho de 1969. Publique-se.
 
 Presidência da República, 26 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

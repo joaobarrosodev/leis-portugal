@@ -21,7 +21,7 @@ publication:
   reference: Diário do Governo n.º 307/1968, 1º Suplemento, Série I de 1968-12-31
   number: '307'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2055 - 2062
   pdf_url: https://files.diariodarepublica.pt/1s/1968/12/30701/20552062.pdf
 entry_into_force_dates: []
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48825-1968-597140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 7f8b9b25e3a323c222c91dbf7d3f88c10614c8f209835c873e56f63af0771567
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ee3839872b9d77d1c50d8cef3e28b7bd00a46ac8053947a23919de7dc8c2537d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:01Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +110,15 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em representação do Estado, um contrato de concessão com a Tenneco-Angola, Inc., em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em representação do Estado, um contrato de concessão com a Tenneco-Angola, Inc., em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, ficam fazendo parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º Este decreto entra imediatamente em vigor.
+Art. 2.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Dezembro de 1968.**
+Promulgado em 18 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 31 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -182,7 +198,7 @@ Nas despesas com materiais e equipamentos que sejam importados temporàriamente 
 
 6. Se a sociedade não optar pelo pagamento referido no número anterior, o Governo poderá, se o desejar, optar pela redução da área da concessão que julgue conveniente, ou rescindir este contrato.
 
-###### Base IV
+Base IV
 
 1. O direito exclusivo de pesquisar, referido no n.º 1 da base anterior, será prorrogado por mais dezoito meses desde que a sociedade solicite tal prorrogação e prove ter efectuado, no período inicial de três anos, pesquisas intensivas de acordo com o n.º 2 da base anterior, não podendo tal prorrogação abranger mais do que 50 por cento da área inicial definida no n.º 2 da base I.
 

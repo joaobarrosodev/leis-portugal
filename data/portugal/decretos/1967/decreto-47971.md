@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47971-1967-391613
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-09-29T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 252c82722715450b5c596f5d5a5c0271ef719603f25b7dee72c05b3f7bf27df8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fd21f04425c6ce241d5dd9af8b817fec788745802bd14f886ff95b7e82bc1868
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:302689:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:51Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +101,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição Política, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar os seguintes contratos para o fornecimento de cabos telefónicos e urbanos:
+Artigo 1.º Fica a Administração-Geral dos Correios, Telégrafos e Telefones autorizada, nos termos e para os efeitos do artigo 22.º do [Decreto-Lei n.º 41375](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41375-1957-251833), de 19 de Novembro de 1957, a celebrar os seguintes contratos para o fornecimento de cabos telefónicos e urbanos:
 
 a) Com a firma Cel-Cat, Fábrica Nacional de Condutores Eléctricos, S. A. R. L., pela importância de 19996827$00;
 
@@ -101,7 +109,7 @@ b) Com a firma Fábrica de Condutores Eléctricos Diogo d'Ávila, Lda., pela imp
 
 Estas importâncias estão sujeitas a ajustamento proveniente de eventual variação das cotações das matérias-primas, cobre, chumbo e fita de aço, conforme tabela de correcção constante dos contratos, e serão oneradas com as despesas resultantes do custo das embalagens, do imposto sobre transacções e dos encargos de capital provenientes do escalonamento dos pagamentos indicados no artigo seguinte.
 
-###### Art. 2.º O pagamento será efectuado em dez prestações, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender, em cada ano económico, mais do que as importâncias a seguir indicadas:
+Art. 2.º O pagamento será efectuado em dez prestações, não podendo a Administração-Geral dos Correios, Telégrafos e Telefones despender, em cada ano económico, mais do que as importâncias a seguir indicadas:
 
 a) À firma Cel-Cat, Fábrica Nacional de Condutores Eléctricos, S. A. R. L.:
 
@@ -133,12 +141,12 @@ Em 1972 - 2887288$40 (em duas prestações).
 
 Estas importâncias serão acrescidas das correspondentes ao agravamento de custo resultante da aplicação da tabela de correcção referida no artigo 1.º e a última acrescida do valor dos excessos de fabrico sobre as quantidades adjudicadas e que, nos termos contratuais, devam ser adquiridas.
 
-###### Art. 3.º Os encargos assumidos nos termos deste decreto poderão ser titulados por letras, com aceites de um dos administradores e do director dos Serviços Financeiros da mesma Administração-Geral, ou dos seus substitutos legais, nas condições que forem acordadas entre as duas partes contratantes.
+Art. 3.º Os encargos assumidos nos termos deste decreto poderão ser titulados por letras, com aceites de um dos administradores e do director dos Serviços Financeiros da mesma Administração-Geral, ou dos seus substitutos legais, nas condições que forem acordadas entre as duas partes contratantes.
 
-###### Art. 4.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá, em qualquer altura da execução destes contratos, e desde que para tanto tenha as necessárias possibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, assim, sem efeito os limites indicados no artigo 2.º
+Art. 4.º A Administração-Geral dos Correios, Telégrafos e Telefones poderá, em qualquer altura da execução destes contratos, e desde que para tanto tenha as necessárias possibilidades, antecipar, total ou parcialmente, o pagamento das prestações em dívida, ficando, assim, sem efeito os limites indicados no artigo 2.º
 
 Esta antecipação será feita com o desconto dos correspondentes encargos de capital referidos no artigo 1.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

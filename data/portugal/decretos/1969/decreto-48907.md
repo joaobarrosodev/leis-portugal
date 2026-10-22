@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48907-1969-525587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6457e8d14225d85cc06460b1c85df7d6653b1b4f2e964bc949b79a5678b4f5cf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bf1de8a0f905181fb739f7dbed3885f5c5b86d53e39a01a784f897ee95b15d83
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:181474:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:390437:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:490390:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:32Z'
   warnings: []
   errors: []
 ---
@@ -97,18 +109,18 @@ Nestes termos;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os primeiros-sargentos promovidos a este posto mediante concurso, realizado em data posterior a 14 de Novembro de 1961, são intercalados na lista de ingresso na Escola Central de Sargentos, elaborada em face dos resultados das provas previstas no [Decreto n.º 46892](https://diariodarepublica.pt/dr/detalhe/decreto/46892-1966-490390), de 9 de Março de 1966, mediante a atribuição de um número de ordem especial para esse efeito.
+Artigo 1.º Os primeiros-sargentos promovidos a este posto mediante concurso, realizado em data posterior a 14 de Novembro de 1961, são intercalados na lista de ingresso na Escola Central de Sargentos, elaborada em face dos resultados das provas previstas no [Decreto n.º 46892](https://diariodarepublica.pt/dr/detalhe/decreto/46892-1966-490390), de 9 de Março de 1966, mediante a atribuição de um número de ordem especial para esse efeito.
 
-###### Art. 2.º O número de ordem referido no artigo anterior é definido pelo número de primeiros-sargentos do Exército constantes da lista de ingresso que hajam sido promovidos a este posto em data anterior à da promoção do primeiro-sargento a intercalar, acrescido de uma unidade.
+Art. 2.º O número de ordem referido no artigo anterior é definido pelo número de primeiros-sargentos do Exército constantes da lista de ingresso que hajam sido promovidos a este posto em data anterior à da promoção do primeiro-sargento a intercalar, acrescido de uma unidade.
 
-###### Art. 3.º O procedimento constante dos artigos anteriores cessará logo que no Exército seja promovido a primeiro-sargento das armas ou dos serviços um segundo-sargento mediante a aplicação da condição 1.ª do artigo 62.º do Decreto com força de lei n.º 17379, de 27 de Setembro de 1929.
+Art. 3.º O procedimento constante dos artigos anteriores cessará logo que no Exército seja promovido a primeiro-sargento das armas ou dos serviços um segundo-sargento mediante a aplicação da condição 1.ª do artigo 62.º do Decreto com força de lei n.º 17379, de 27 de Setembro de 1929.
 
-###### Art. 4.º É revogado o [Decreto n.º 47903](https://diariodarepublica.pt/dr/detalhe/decreto/47903-1967-390437), de 6 de Setembro de 1967.
+Art. 4.º É revogado o [Decreto n.º 47903](https://diariodarepublica.pt/dr/detalhe/decreto/47903-1967-390437), de 6 de Setembro de 1967.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues.
 
-**Promulgado em 3 de Março de 1969.**
+Promulgado em 3 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

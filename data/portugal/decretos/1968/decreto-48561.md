@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48561-1968-265088
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b99b7ad50668d9d82bfa2521dbd86882e7b6d3a6d5a318ae21c118dc27d99eff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 71c0efe55fac8f89df1a4c95549c8bbd1d3f2740555749166dfbbdadf1f629de
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:479235:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:44Z'
   warnings: []
   errors: []
 ---
@@ -94,15 +98,15 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na província de Cabo Verde as diferenças de rendas que se verificarem entre as estipuladas nos contratos de arrendamento rural e as fixadas nos correspondentes contratos de subarrendamento ficam sujeitas a contribuição predial, calculada nos termos do regulamento aprovado pelo Diploma Legislativo n.º 1544, de 12 de Junho de 1968, sendo obrigados ao seu pagamento os proprietários dos prédios objecto dos mesmos contratos.
+Artigo 1.º Na província de Cabo Verde as diferenças de rendas que se verificarem entre as estipuladas nos contratos de arrendamento rural e as fixadas nos correspondentes contratos de subarrendamento ficam sujeitas a contribuição predial, calculada nos termos do regulamento aprovado pelo Diploma Legislativo n.º 1544, de 12 de Junho de 1968, sendo obrigados ao seu pagamento os proprietários dos prédios objecto dos mesmos contratos.
 
 § 1.º Fica reservado aos senhorios o direito de cobrarem dos arrendatários, antecipadamente, a importância correspondente à diferença de contribuição calculada nos termos do corpo deste artigo, com base em documento passado pela repartição de Fazenda concelhia, no qual devem constar a importância da contribuição devida pelo arrendamento e a que resulta dos competentes contratos de subarrendamento.
 
 § 2.º Nos contratos que de futuro vierem a ser celebrados deverá constar uma cláusula segundo a qual os arrendatários se obrigam a entregar aos senhorios a diferença de contribuição predial que resultar entre os contratos de arrendamento e os de subarrendamento.
 
-###### Art. 2.º O presente diploma entra imediatamente em vigor e as suas disposições aplicam-se aos contratos actualmente existentes nas repartições de Fazenda concelhias.
+Art. 2.º O presente diploma entra imediatamente em vigor e as suas disposições aplicam-se aos contratos actualmente existentes nas repartições de Fazenda concelhias.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

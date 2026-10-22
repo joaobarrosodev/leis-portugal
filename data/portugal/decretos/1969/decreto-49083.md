@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49083-1969-200266
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-25T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: def00e52b45b1a9ab26c37b06706ae6f426eafbc869c63c245cae6723fa87f88
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eadc14717f51e4e525840953361e2131494816f4c18442e5f5be2b819d198324
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:263921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:56Z'
   warnings: []
   errors: []
 ---
@@ -97,25 +101,25 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola a contratar com o Banco de Angola um empréstimo no montante de 60 milhões de escudos angolanos, dentro do âmbito de uma operação de financiamento no montante de 2 milhões de dólares dos Estados Unidos da América.
+Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola a contratar com o Banco de Angola um empréstimo no montante de 60 milhões de escudos angolanos, dentro do âmbito de uma operação de financiamento no montante de 2 milhões de dólares dos Estados Unidos da América.
 
 § 1.º Os pagamentos contratuais a efectuar ao Banco de Angola serão feitos em quatro prestações anuais, iguais e sucessivas, de 15 milhões de escudos angolanos, vencendo-se a primeira dois anos depois da celebração do contrato, em conjugação com idêntico plano de pagamentos da operação de financiamento referida no corpo deste artigo.
 
 § 2.º A Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola entregará ao Banco de Angola, com a devida antecedência, as importâncias relativas ao plano de amortização do empréstimo, bem como liquidará ao referido Banco juros à taxa de 3 por cento ao ano sobre o montante em dívida, contados trimestralmente a partir da data do contrato.
 
-###### Art. 2.º O Banco de Angola indicará à Inspecção Provincial de Crédito e Seguros de Angola, com uma antecedência mínima de trinta dias, os montantes necessários a transferir e a data em que cada transferência terá de ser realizada.
+Art. 2.º O Banco de Angola indicará à Inspecção Provincial de Crédito e Seguros de Angola, com uma antecedência mínima de trinta dias, os montantes necessários a transferir e a data em que cada transferência terá de ser realizada.
 
-###### Art. 3.º É autorizado o Governo-Geral da província de Angola a garantir junto do Banco de Angola as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola na execução da presente operação.
+Art. 3.º É autorizado o Governo-Geral da província de Angola a garantir junto do Banco de Angola as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola na execução da presente operação.
 
-###### Art. 4.º Todos os encargos resultantes da celebração do presente contrato constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco de Angola.
+Art. 4.º Todos os encargos resultantes da celebração do presente contrato constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco de Angola.
 
 § único. Os encargos a liquidar durante o corrente ano serão suportados pelo Fundo de Melhoramento do orçamento privativo da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Junho de 1969.**
+Promulgado em 14 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

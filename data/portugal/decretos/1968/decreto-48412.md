@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48412-1968-271216
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5a35566b067c002efcf1c5cae00c337d33274e432f33844feae39b5a7eaba63a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7287bd6bb04909060347083f1d76d88e10f7b70dbc9560230cb0d44b64baba8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:158239:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:37Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +97,9 @@ Por tudo o que ficou exposto, demonstrativo de méritos que fazem sobressair as 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É condecorada a companhia de caçadores n.º 6, do Comando Territorial Independente da Guiné, com a medalha de cruz de guerra de 1.ª classe, por satisfazer às condições referidas no artigo 13.º do [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946.
+Artigo único. É condecorada a companhia de caçadores n.º 6, do Comando Territorial Independente da Guiné, com a medalha de cruz de guerra de 1.ª classe, por satisfazer às condições referidas no artigo 13.º do [Decreto n.º 35667](https://diariodarepublica.pt/dr/detalhe/decreto/35667-1946-158239), de 28 de Maio de 1946.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Joaquim da Luz Cunha - Joaquim Moreira da Silva Cunha.
 

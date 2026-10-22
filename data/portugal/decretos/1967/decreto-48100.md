@@ -47,36 +47,47 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48100-1967-400617
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:01Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8a773506193333adce891f79abd2d006f2e771b8a2090fd57ee9207856d88de3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bd8cc2104c34f7b61d088aa755da94ee50bb70c0718ce35b0813e123fd6e8074
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:01Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Administração Geral dos Correios Telégrafos e Telefones
+- Gestão de Recursos Humanos
+- Quadro de Pessoal
+relationships:
+- type: cites
+  target: pt:dre:239273:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:414196:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:01Z'
   warnings: []
   errors: []
 ---
@@ -91,7 +102,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Em obediência ao disposto no § único do artigo 8.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, na redacção que lhe introduziu o [Decreto-Lei n.º 47488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273), de 9 de Janeiro de 1967, a composição dos grupos 1, 2, 3, 5, 7-B, 10, 12, 13, 15-A, 18, 24, 25, 26, 27, 28, 29 e 30 dos quadros de pessoal dos CTT, fixados no artigo 5.º do mesmo diploma legal, passa a ser a seguinte a partir de 1 de Janeiro de 1968:
+Artigo único. Em obediência ao disposto no § único do artigo 8.º do [Decreto-Lei n.º 36155](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36155-1947-414196), de 10 de Fevereiro de 1947, na redacção que lhe introduziu o [Decreto-Lei n.º 47488](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47488-1967-239273), de 9 de Janeiro de 1967, a composição dos grupos 1, 2, 3, 5, 7-B, 10, 12, 13, 15-A, 18, 24, 25, 26, 27, 28, 29 e 30 dos quadros de pessoal dos CTT, fixados no artigo 5.º do mesmo diploma legal, passa a ser a seguinte a partir de 1 de Janeiro de 1968:
 
 Grupo 1:
 
@@ -269,6 +280,6 @@ Grupo 30:
 
 ... 800
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.

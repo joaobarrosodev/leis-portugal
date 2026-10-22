@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49228-1969-214760
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:06Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0285813617468ca29ea03d957e2308928ada3e3f70e20b569dd8b9ab51f01a3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 750112f908b4f13de1c6ec19e5991ab635e7807077b69fdd3c1eba0fc85a1dd3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:06Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,41 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164415:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:201246:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510215:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:510666:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:06Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +118,7 @@ Por motivo de urgência, nos termos da alínea a) do n.º III da base X da Lei O
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones da Guiné são criados os seguintes lugares:
+Artigo 1.º No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones da Guiné são criados os seguintes lugares:
 
 a) Pessoal de exploração:
 
@@ -110,9 +134,9 @@ b) Pessoal técnico:
 
 3 de mecânico principal especializado em rádio.
 
-###### Art. 2.º No referido quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones da Guiné são extintos três lugares de mecânico de 1.ª classe especializado em rádio.
+Art. 2.º No referido quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones da Guiné são extintos três lugares de mecânico de 1.ª classe especializado em rádio.
 
-###### Art. 3.º Aos lugares criados pelo artigo 1.º são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 3.º Aos lugares criados pelo artigo 1.º são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Chefe de serviços de exploração de 1.ª classe - letra G;
 
@@ -124,13 +148,13 @@ Chefe de serviços radioeléctricos de 2.ª classe - letra H;
 
 Mecânico principal especializado em rádio - letra L.
 
-###### Art. 4.º Na província ultramarina da Guiné, os chefes de serviços de exploração e os chefes de serviços radioeléctricos de 1.ª ou de 2.ª classes poderão chefiar as secções da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, se assim se mostrar conveniente.
+Art. 4.º Na província ultramarina da Guiné, os chefes de serviços de exploração e os chefes de serviços radioeléctricos de 1.ª ou de 2.ª classes poderão chefiar as secções da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, se assim se mostrar conveniente.
 
-###### Art. 5.º Ao lugar de segundo-oficial fiel pagador do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones da Guiné é atribuída a categoria da letra L, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, passando a designar-se «primeiro-oficial fiel pagador».
+Art. 5.º Ao lugar de segundo-oficial fiel pagador do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones da Guiné é atribuída a categoria da letra L, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, passando a designar-se «primeiro-oficial fiel pagador».
 
-###### Art. 6.º A todos os lugares de mecânico principal, com ou sem especialização, do quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones da Guiné é atribuída a categoria da letra L, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino.
+Art. 6.º A todos os lugares de mecânico principal, com ou sem especialização, do quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones da Guiné é atribuída a categoria da letra L, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 7.º O primeiro provimento dos lugares a seguir indicados e criados pelo artigo 1.º será feito por escolha do governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
+Art. 7.º O primeiro provimento dos lugares a seguir indicados e criados pelo artigo 1.º será feito por escolha do governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
 
 a) Para o lugar de chefe de serviços de exploração de 1.ª classe, a escolha será feita de entre os primeiros-oficiais do quadro do pessoal de exploração com mais de dois anos de serviço efectivo na categoria e boas informações:
 
@@ -144,7 +168,7 @@ d) Para os lugares de chefe de serviços radioeléctricos de 2.ª classe, a esco
 
 § 2.º Para efeitos dos provimentos referidos na alínea b) e na última parte da alínea d) do presente artigo, serão publicados avisos no Boletim Oficial da província fixando os prazos durante os quais deverão dar entrada na Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones os requerimentos dos agentes técnicos de engenharia electro-mecânica pedindo o provimento no lugar que seja pretendido, prazos esses que serão fixados por despacho do governador da província.
 
-###### Art. 8.º O provimento posterior dos lugares a seguir indicados e criados pelo artigo 1.º será feito por concurso documental, observando-se o seguinte:
+Art. 8.º O provimento posterior dos lugares a seguir indicados e criados pelo artigo 1.º será feito por concurso documental, observando-se o seguinte:
 
 a) Para o lugar de chefe de serviços de exploração de 1.ª classe, serão admitidos a concurso os chefes de serviços de exploração de 2.ª classe com mais de dois anos de serviço efectivo na categoria e boas informações;
 
@@ -158,7 +182,7 @@ d) Para os lugares de chefe de serviços radioeléctricos de 2.ª classe, serão
 
 § 2.º O júri dos concursos documentais será constituído nos termos do artigo 258.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
-###### Art. 9.º Nas escolhas e concursos a que se referem os artigos 7.º e 8.º deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada:
+Art. 9.º Nas escolhas e concursos a que se referem os artigos 7.º e 8.º deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada:
 
 1.º O mérito será avaliado tendo em conta os factores de qualidade de serviço e habilitações profissionais e literárias, a considerar pela ordem mencionada, pelo que só se deverá passar da apreciação de um factor ao imediato para graduar concorrentes em situações de paridade naquele que o antecede;
 
@@ -166,15 +190,15 @@ d) Para os lugares de chefe de serviços radioeléctricos de 2.ª classe, serão
 
 § único. Nas escolhas e concursos para chefes de serviços radioeléctricos de 1.ª e 2.ª classes, e com relação a indivíduos habilitados com o curso de agente técnico de engenharia electro-mecânica, ter-se-á em conta o conhecimento dos Serviços dos Correios, Telégrafos e Telefones e, seguidamente, a melhor classificação no curso.
 
-###### Art. 10.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe dos quadros privativos que forem providos nos lugares criados pelo artigo 1.º deste decreto, e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
+Art. 10.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe dos quadros privativos que forem providos nos lugares criados pelo artigo 1.º deste decreto, e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
 
-###### Art. 11.º Os actuais contratados dos Serviços dos Correios, Telégrafos e Telefones da Guiné que modificarem a sua situação por motivo da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos do n.º 6.º do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
+Art. 11.º Os actuais contratados dos Serviços dos Correios, Telégrafos e Telefones da Guiné que modificarem a sua situação por motivo da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos do n.º 6.º do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
 
-###### Art. 12.º Os funcionários que forem providos nos lugares criados pelo artigo 1.º deste decreto terão na hierarquia a posição correspondente à categoria da letra em que estejam incluídos.
+Art. 12.º Os funcionários que forem providos nos lugares criados pelo artigo 1.º deste decreto terão na hierarquia a posição correspondente à categoria da letra em que estejam incluídos.
 
-###### Art. 13.º Os lugares criados pelo artigo 1.º deste decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário dos mesmos Serviços que possam fazer face aos encargos consequentes.
+Art. 13.º Os lugares criados pelo artigo 1.º deste decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário dos mesmos Serviços que possam fazer face aos encargos consequentes.
 
-###### Art. 14.º O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones da Guiné passa a ser constituído pelo chefe da Repartição Provincial, que será o presidente, e por dois vogais, sendo um o adjunto da Repartição Provincial e o outro nomeado, anualmente, pelo governador da província, de entre os funcionários dos Serviços, de nomeação ou contratados.
+Art. 14.º O conselho de administração dos Serviços dos Correios, Telégrafos e Telefones da Guiné passa a ser constituído pelo chefe da Repartição Provincial, que será o presidente, e por dois vogais, sendo um o adjunto da Repartição Provincial e o outro nomeado, anualmente, pelo governador da província, de entre os funcionários dos Serviços, de nomeação ou contratados.
 
 § 1.º Na falta ou impedimento de algum dos vogais membros do conselho de administração, servirão os substitutos, designados, também anualmente, pelo governador da província, de entre os funcionários dos Serviços, de nomeação ou contratados.
 
@@ -182,23 +206,23 @@ d) Para os lugares de chefe de serviços radioeléctricos de 2.ª classe, serão
 
 § 3.º O delegado dos Serviços de Fazenda e Contabilidade, a que se refere o artigo 7.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, perceberá a gratificação que for fixada nos termos do artigo 4.º do [Decreto n.º 47652](https://diariodarepublica.pt/dr/detalhe/decreto/47652-1967-510215), de 25 de Abril de 1967.
 
-###### Art. 15.º Aos funcionários dos Serviços dos Correios, Telégrafos e Telefones da Guiné serão abonadas as gratificações, abonos para falhas e senhas de presença constantes do quadro I anexo a este decreto.
+Art. 15.º Aos funcionários dos Serviços dos Correios, Telégrafos e Telefones da Guiné serão abonadas as gratificações, abonos para falhas e senhas de presença constantes do quadro I anexo a este decreto.
 
 § 1.º Aos funcionários que receberem as gratificações, abonos para falhas e senhas de presença previstos no corpo do artigo não serão abonadas as gratificações e abonos para falhas referidos nos artigos 382.º e 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944.
 
 § 2.º As senhas de presença atribuídas aos membros do conselho de administração dos Correios, Telégrafos e Telefones são sempre devidas, independentemente de quaisquer gratificações ou subsídios diários a que os mesmos tenham direito, não podendo, porém, exceder quatro em cada mês.
 
-###### Art. 16.º As gratificações atribuídas aos chefes de estações de 3.ª classe, variáveis entre 100$00 e 300$00 mensais, consoante os serviços que desempenhem e o seu movimento, serão fixadas por portaria do governador da província, sob proposta do conselho de administração dos Correios, Telégrafos e Telefones.
+Art. 16.º As gratificações atribuídas aos chefes de estações de 3.ª classe, variáveis entre 100$00 e 300$00 mensais, consoante os serviços que desempenhem e o seu movimento, serão fixadas por portaria do governador da província, sob proposta do conselho de administração dos Correios, Telégrafos e Telefones.
 
-###### Art. 17.º Pode o governador da Guiné aplicar ao pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones o regime de remunerações previsto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, de harmonia com o seu artigo 9.º e com o artigo 8.º e seu § único do [Decreto n.º 46592](https://diariodarepublica.pt/dr/detalhe/decreto/46592-1965-510666), de 14 de Outubro de 1965, e artigo único do [Decreto n.º 49005](https://diariodarepublica.pt/dr/detalhe/decreto/49005-1969-201246), de 12 de Maio de 1969.
+Art. 17.º Pode o governador da Guiné aplicar ao pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones o regime de remunerações previsto no [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), de 25 de Maio de 1962, de harmonia com o seu artigo 9.º e com o artigo 8.º e seu § único do [Decreto n.º 46592](https://diariodarepublica.pt/dr/detalhe/decreto/46592-1965-510666), de 14 de Outubro de 1965, e artigo único do [Decreto n.º 49005](https://diariodarepublica.pt/dr/detalhe/decreto/49005-1969-201246), de 12 de Maio de 1969.
 
 § único. Além da excepção referida no artigo 8.º do [Decreto n.º 44364](https://diariodarepublica.pt/dr/detalhe/decreto/44364-1962-164415), devem considerar-se também as respeitantes ao direito a casa do Estado ou ao subsídio de renda de casa, ao abono de senhas de presença e das gratificações especiais estabelecidas pelo [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179) e pelo presente decreto.
 
-###### Art. 18.º Quando, na província ultramarina da Guiné, à data do encerramento do prazo dos concursos para provimento de lugares de operador do quadro do pessoal de exploração se verificar que o número de concorrentes possuidores das habilitações mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é inferior ao número de vagas efectivamente existentes e a prover, poderão ainda ser admitidos a esses concursos, em novo prazo a fixar por despacho do governador da província, os indivíduos que, não possuindo as habilitações referidas, tenham prestado serviço efectivo nos Serviços dos Correios, Telégrafos e Telefones, durante mais de três anos consecutivos como operadores interinos do mesmo quadro com boas informações e satisfaçam às restantes condições legais de admissão, sendo, contudo, classificados seguidamente aos que possuam aquelas habilitações.
+Art. 18.º Quando, na província ultramarina da Guiné, à data do encerramento do prazo dos concursos para provimento de lugares de operador do quadro do pessoal de exploração se verificar que o número de concorrentes possuidores das habilitações mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é inferior ao número de vagas efectivamente existentes e a prover, poderão ainda ser admitidos a esses concursos, em novo prazo a fixar por despacho do governador da província, os indivíduos que, não possuindo as habilitações referidas, tenham prestado serviço efectivo nos Serviços dos Correios, Telégrafos e Telefones, durante mais de três anos consecutivos como operadores interinos do mesmo quadro com boas informações e satisfaçam às restantes condições legais de admissão, sendo, contudo, classificados seguidamente aos que possuam aquelas habilitações.
 
 § único. Os indivíduos que forem nomeados em consequência da aplicação da disposição constante do corpo do artigo não poderão ascender a lugares superiores aos da letra H do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino, salvo se, entretanto, obtiverem as habilitações literárias mencionadas na alínea d) do artigo 223.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179).
 
-###### Art. 19.º Nos lugares de operador do quadro do pessoal de exploração e de aspirante administrativo do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones da Guiné, que à data da publicação do presente decreto se encontrarem vagos, poderão ser providos indivíduos do sexo masculino que o requeiram no prazo de trinta dias, com dispensa da prestação das provas práticas e escritas a que se refere o artigo 225.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, desde que possuam como habilitações literárias mínimas o 2.º ciclo dos liceus, o curso das escolas industriais ou comerciais, o curso da escola prática dos correios, telégrafos e telefones ou habilitações equivalentes e que satisfaçam às restantes condições de provimento legalmente estabelecidas para desempenho de funções em lugares públicos.
+Art. 19.º Nos lugares de operador do quadro do pessoal de exploração e de aspirante administrativo do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones da Guiné, que à data da publicação do presente decreto se encontrarem vagos, poderão ser providos indivíduos do sexo masculino que o requeiram no prazo de trinta dias, com dispensa da prestação das provas práticas e escritas a que se refere o artigo 225.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, desde que possuam como habilitações literárias mínimas o 2.º ciclo dos liceus, o curso das escolas industriais ou comerciais, o curso da escola prática dos correios, telégrafos e telefones ou habilitações equivalentes e que satisfaçam às restantes condições de provimento legalmente estabelecidas para desempenho de funções em lugares públicos.
 
 § 1.º Para ordenação e ingresso dos indivíduos que requererem provimento ao abrigo das disposições constantes do corpo do artigo, observar-se-ão as preferências referidas na alínea a) do § 4.º e no § 5.º do artigo 270.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, pela ordem em que estão mencionadas.
 
@@ -206,9 +230,9 @@ d) Para os lugares de chefe de serviços radioeléctricos de 2.ª classe, serão
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Agosto de 1969.**
+Promulgado em 20 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -220,7 +244,7 @@ Gratificações, abonos para falhas e senhas de presença
 
 (Artigo 15.º do Decreto nº 49228)
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20900/12251228.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20900/12251228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20900/12251228.pdf)
 
 Ministério do Ultramar, 20 de Agosto de 1969. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 

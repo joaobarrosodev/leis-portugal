@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47881-1967-390606
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:15Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d030e731e1f80b83ec20c9626959251b5983e0b1d18c510d55dc3b5acab5e91e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1199911997b8a4c9c1e64466c527857a8270679f529997de908ed1dd33fe7174
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:15Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:15Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +98,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É extinta a secretaria-geral da Procuradoria da República junto do Tribunal da Relação, de Luanda, passando o expediente geral e de movimento do pessoal dos serviços referidos no artigo 2.º do Diploma Legislativo Ministerial n.º 12, de 7 de Outubro de 1963, a ser feito pelos serviços respectivos, que directamente, o submeterão a despacho do procurador da República, nos termos que forem regulados internamente.
+Artigo 1.º É extinta a secretaria-geral da Procuradoria da República junto do Tribunal da Relação, de Luanda, passando o expediente geral e de movimento do pessoal dos serviços referidos no artigo 2.º do Diploma Legislativo Ministerial n.º 12, de 7 de Outubro de 1963, a ser feito pelos serviços respectivos, que directamente, o submeterão a despacho do procurador da República, nos termos que forem regulados internamente.
 
 § 1.º Os funcionários que actualmente fazem parte do quadro da secretaria-geral transitam, independentemente de visto, para a secretaria da Procuradoria da República com a mesma categoria e vencimentos.
 
@@ -108,7 +108,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 4.º O actual chefe de expediente geral transita, sem necessidade de visto ou de outras formalidades, para o lugar de adjunto do secretário da Procuradoria da República.
 
-###### Art. 2.º O quadro do pessoal de secretaria, da mesma Procuradoria da República é aumentado das seguintes unidades, que deverão ser inscritas nas tabelas orçamentais à medida que as disponibilidades financeiras o forem permitindo:
+Art. 2.º O quadro do pessoal de secretaria, da mesma Procuradoria da República é aumentado das seguintes unidades, que deverão ser inscritas nas tabelas orçamentais à medida que as disponibilidades financeiras o forem permitindo:
 
 1 segundo-oficial;
 
@@ -120,7 +120,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 2 serventes.
 
-###### Art. 3.º É criado o quadro do pessoal de secretaria da Inspecção dos Serviços Prisionais, com os seguintes lugares, que deverão ser inscritos nas tabelas orçamentais à medida que as disponibilidades financeiras o forem permitindo:
+Art. 3.º É criado o quadro do pessoal de secretaria da Inspecção dos Serviços Prisionais, com os seguintes lugares, que deverão ser inscritos nas tabelas orçamentais à medida que as disponibilidades financeiras o forem permitindo:
 
 1 chefe de secção;
 
@@ -136,7 +136,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 2 serventes.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

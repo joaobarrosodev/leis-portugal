@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49086-1969-200384
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 303c169af0c7d2a6a808db537563b32009373245ca0930587b25f8183fc05c1f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 222dbfe5e778f912c3bcf2ffe247a48e50fcdfd000f053635b3ad66b2ee2ec2f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232373:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:57Z'
   warnings: []
   errors: []
 ---
@@ -94,7 +102,7 @@ Por motivo de urgência, nos termos da alínea a) do n.º III da base X da Lei O
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde são criados os seguintes lugares:
+Artigo 1.º No quadro do pessoal contratado dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde são criados os seguintes lugares:
 
 a) Pessoal de exploração:
 
@@ -114,9 +122,9 @@ c) Pessoal administrativo:
 
 1 de primeiro-oficial administrativo.
 
-###### Art. 2.º No quadro do pessoal de exploração dos mesmos Serviços, aprovado pelo artigo 220.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é extinto um lugar de primeiro-oficial.
+Art. 2.º No quadro do pessoal de exploração dos mesmos Serviços, aprovado pelo artigo 220.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é extinto um lugar de primeiro-oficial.
 
-###### Art. 3.º Aos lugares criados pelo artigo 1.º são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 3.º Aos lugares criados pelo artigo 1.º são atribuídas as seguintes categorias, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino:
 
 Chefe de serviços de exploração de 1.ª classe - letra G;
 
@@ -130,7 +138,7 @@ Mecânico principal - letra L;
 
 Primeiro-oficial administrativo - letra L.
 
-###### Art. 4.º O primeiro provimento dos lugares criados pelo artigo 1.º será feito por escolha do governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
+Art. 4.º O primeiro provimento dos lugares criados pelo artigo 1.º será feito por escolha do governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, observando-se o seguinte:
 
 a) Para o lugar de chefe de serviços de exploração de 1.ª classe a escolha será feita de entre os primeiros-oficiais com mais de dois anos de serviço efectivo na categoria e com boas informações;
 
@@ -144,7 +152,7 @@ e) Para os lugares de mecânico principal a escolha será feita de entre os mec�
 
 f) Para o lugar de primeiro-oficial administrativo a escolha será feita de entre os ajudantes de contabilista contratados e segundos-oficiais do quadro do pessoal de exploração.
 
-###### Art. 5.º O provimento posterior dos lugares a seguir indicados, criados pelo artigo 1.º, será feito por concurso documental, observando-se o seguinte:
+Art. 5.º O provimento posterior dos lugares a seguir indicados, criados pelo artigo 1.º, será feito por concurso documental, observando-se o seguinte:
 
 a) Para o lugar de chefe de serviços de exploração de 1.ª classe serão admitidos a concurso os chefes de serviço de exploração de 2.ª classe com mais de dois anos de serviço efectivo na categoria e boas informações;
 
@@ -156,7 +164,7 @@ d) Para os lugares de chefe de serviços radioeléctricos de 2.ª classe serão 
 
 § único. Os concursos documentais referidos no corpo do artigo serão mandados abrir por despacho do governador da província, sob proposta do chefe da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones, que igualmente fixará os respectivos prazos e condições que devem constar dos competentes avisos a publicar no Boletim Oficial.
 
-###### Art. 6.º O provimento posterior dos lugares a seguir indicados, criados pelo artigo 1.º, será feito por concurso de provas práticas e escritas, segundo os programas que forem aprovados por portaria do Governo da província, aplicando-se-lhes o disposto no § único do artigo 5.º:
+Art. 6.º O provimento posterior dos lugares a seguir indicados, criados pelo artigo 1.º, será feito por concurso de provas práticas e escritas, segundo os programas que forem aprovados por portaria do Governo da província, aplicando-se-lhes o disposto no § único do artigo 5.º:
 
 a) Para os lugares de mecânico principal serão admitidos a concurso os mecânicos de 1.ª classe especializados em rádio e os mecânicos de 1.ª classe do quadro do pessoal técnico;
 
@@ -164,29 +172,29 @@ b) Para o lugar de primeiro-oficial administrativo serão admitidos a concurso o
 
 § único. As provas dos concursos serão prestadas perante o júri designado nos termos do artigo 258.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, devendo observar-se as disposições contidas nos artigos 259.º a 274.º, inclusive, do mesmo decreto.
 
-###### Art. 7.º Nas escolhas e concursos a que se referem os artigos 4.º e 5.º deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada.
+Art. 7.º Nas escolhas e concursos a que se referem os artigos 4.º e 5.º deverá sempre ter-se em conta o mérito, a qualificação profissional e a antiguidade de serviço dos funcionários, a considerar pela ordem enunciada.
 
 § 1.º O mérito será avaliado tendo em conta os factores de qualidade de serviço e habilitações profissionais e literárias, a considerar pela ordem enunciada, pelo que só se deverá passar da apreciação de um factor ao imediato, para graduar concorrentes em situações de paridade naquele que o antecede.
 
 § 2.º Na avaliação da qualificação profissional tomar-se-ão em conta as informações anuais, os louvores, os castigos, o exercício de cargos superiores ou de elevada responsabilidade e tudo o mais que revele aptidão para o cargo.
 
-###### Art. 8.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe dos quadros privativos que forem providos nos lugares criados pelo artigo 1.º deste decreto e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
+Art. 8.º Aos primeiros-oficiais e radiotelegrafistas de 1.ª classe dos quadros privativos que forem providos nos lugares criados pelo artigo 1.º deste decreto e que tenham entrado para os Serviços anteriormente à publicação do [Decreto n.º 40708](https://diariodarepublica.pt/dr/detalhe/decreto/40708-1956-232373), de 31 de Julho de 1956, é mantido o direito de acesso ao quadro comum do pessoal superior dos serviços dos correios, telégrafos e telefones do ultramar.
 
-###### Art. 9.º Os actuais contratados dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde que modificarem a sua situação por motivo da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos do n.º 6.º do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
+Art. 9.º Os actuais contratados dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde que modificarem a sua situação por motivo da aplicação das disposições do presente decreto não carecem de novos contratos, devendo o facto constar apenas de apostila exarada nos contratos existentes, nos termos do n.º 6.º do artigo 47.º do Estatuto do Funcionalismo Ultramarino, publicada por extracto no Boletim Oficial da província.
 
-###### Art. 10.º Os funcionários que forem providos nos lugares criados pelo artigo 1.º deste decreto terão na hierarquia a posição correspondente à categoria da letra em que estejam incluídos.
+Art. 10.º Os funcionários que forem providos nos lugares criados pelo artigo 1.º deste decreto terão na hierarquia a posição correspondente à categoria da letra em que estejam incluídos.
 
-###### Art. 11.º Os chefes de serviços de exploração de 1.ª e 2.ª classes e os chefes de serviços radioeléctricos de 1.ª e 2.ª classes terão direito ao abono da gratificação que pelo artigo 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é atribuída aos chefes de secção da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones.
+Art. 11.º Os chefes de serviços de exploração de 1.ª e 2.ª classes e os chefes de serviços radioeléctricos de 1.ª e 2.ª classes terão direito ao abono da gratificação que pelo artigo 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, é atribuída aos chefes de secção da Repartição Provincial dos Serviços dos Correios, Telégrafos e Telefones.
 
-###### Art. 12.º Os lugares criados pelo artigo 1.º deste decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário dos mesmos Serviços, que possam fazer face aos encargos consequentes.
+Art. 12.º Os lugares criados pelo artigo 1.º deste decreto serão orçamentados à medida que as disponibilidades financeiras dos Serviços dos Correios, Telégrafos e Telefones o permitam, e as disposições que impliquem aumento de despesa só terão execução desde que existam dotações no orçamento ordinário dos mesmos Serviços, que possam fazer face aos encargos consequentes.
 
-###### Art. 13.º Ao lugar de segundo-oficial fiel-pagador do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde é atribuída a categoria da letra L, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, passando a designar-se primeiro-oficial fiel-pagador.
+Art. 13.º Ao lugar de segundo-oficial fiel-pagador do quadro do pessoal administrativo dos Serviços dos Correios, Telégrafos e Telefones de Cabo Verde é atribuída a categoria da letra L, nos termos dos artigos 90.º e 91.º do Estatuto do Funcionalismo Ultramarino, passando a designar-se primeiro-oficial fiel-pagador.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Junho de 1969.**
+Promulgado em 14 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 26 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

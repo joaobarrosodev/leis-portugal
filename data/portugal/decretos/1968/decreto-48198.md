@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48198-1968-241049
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-11T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0fcc3bbfc845fce52499fb0aa69085c8bca68168d8193720462882db119582fe
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b417781cb5abe27786872ceefa0619df44ac6e71b52dccb8d744d7f51453c2fe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251243:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:314403:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:56Z'
   warnings: []
   errors: []
 ---
@@ -136,7 +144,7 @@ DIPLOMA ORGÂNICO DOS SERVIÇOS DE AGRICULTURA E FLORESTAS DO ULTRAMAR
 
 ### CAPÍTULO I — Da competência, atribuições e funções dos Serviços de Agricultura e Florestas
 
-###### Artigo 1.º Aos Serviços de Agricultura e Florestas do Ultramar compete orientar, coordenar, disciplinar e fiscalizar todas as actividades relacionadas com a utilização dos recursos naturais para fins de exploração agrícola, florestal, aquícola e apícola, e designadamente:
+Artigo 1.º Aos Serviços de Agricultura e Florestas do Ultramar compete orientar, coordenar, disciplinar e fiscalizar todas as actividades relacionadas com a utilização dos recursos naturais para fins de exploração agrícola, florestal, aquícola e apícola, e designadamente:
 
 a) Assegurar, centralizando toda a acção de extensão agrícola e florestal, a assistência às comunidades rurais e aos empreendimentos ligados à agricultura, silvicultura, aquicultura e apicultura, de harmonia com a legislação vigente;
 
@@ -150,7 +158,7 @@ d) Estudar, projectar e executar ou orientar a execução de trabalhos de engenh
 
 § 2.º A resolução dos problemas apícolas será orientada em estreita ligação com os serviços provinciais de veterinária.
 
-###### Art. 2.º As funções de extensão agrícola e assistência técnica, actualmente a cargo de organismos de coordenação económica, missões e brigadas, passam a ser exercidas pelos Serviços de Agricultura e Florestas, salvas as restrições contidas neste decreto.
+Art. 2.º As funções de extensão agrícola e assistência técnica, actualmente a cargo de organismos de coordenação económica, missões e brigadas, passam a ser exercidas pelos Serviços de Agricultura e Florestas, salvas as restrições contidas neste decreto.
 
 § único. Quando as circunstâncias o aconselhem, poderá o governador da província, em portaria, sob proposta do director ou chefe de serviços, confiar aquelas funções a outros organismos, ouvidos sempre os Serviços de Agricultura e Florestas, para efeitos de coordenação.
 
@@ -158,9 +166,9 @@ d) Estudar, projectar e executar ou orientar a execução de trabalhos de engenh
 
 #### SECÇÃO I — Disposições gerais
 
-###### Art. 3.º A orgânica dos Serviços de Agricultura e Florestas será estabelecida em cada província por diploma legislativo dos governos provinciais, observando o que consta do presente decreto e tendo em consideração o grau do seu desenvolvimento e todas as particularidades do respectivo meio.
+Art. 3.º A orgânica dos Serviços de Agricultura e Florestas será estabelecida em cada província por diploma legislativo dos governos provinciais, observando o que consta do presente decreto e tendo em consideração o grau do seu desenvolvimento e todas as particularidades do respectivo meio.
 
-###### Art. 4.º Os Serviços de Agricultura e Florestas constituem:
+Art. 4.º Os Serviços de Agricultura e Florestas constituem:
 
 a) Direcções de serviço nas províncias de Angola, de Moçambique e do Estado da Índia, com a designação de Direcção Provincial dos Serviços de Agricultura e Florestas;
 
@@ -168,21 +176,21 @@ b) Repartições provinciais nas províncias da Guiné, de S. Tomé e Príncipe 
 
 c) Na província de Cabo Verde as atribuições dos Serviços de Agricultura e Florestas, juntamente com as dos Serviços de Veterinária, serão desempenhadas pela Repartição Provincial de Agricultura, Florestas e Veterinária.
 
-###### Art. 5.º As direcções e repartições provinciais terão a sua sede nas capitais das províncias.
+Art. 5.º As direcções e repartições provinciais terão a sua sede nas capitais das províncias.
 
-###### Art. 6.º Os Serviços de Agricultura e Florestas compreenderão serviços centrais e serviços regionais.
+Art. 6.º Os Serviços de Agricultura e Florestas compreenderão serviços centrais e serviços regionais.
 
 § único. Os serviços centrais serão distribuídos, conforme os casos e as necessidades de cada província, por serviços, repartições, divisões e secções; os serviços regionais compreenderão, segundo os casos, repartições distritais, regiões agrícolas, zonas e sectores.
 
-###### Art. 7.º Os governos provinciais promoverão a definição e delimitação da região, atendendo às suas características ecológicas e regime económico das explorações, podendo ela ser subdividida em zonas e sectores para mais adequada e conveniente ocupação e acção técnica.
+Art. 7.º Os governos provinciais promoverão a definição e delimitação da região, atendendo às suas características ecológicas e regime económico das explorações, podendo ela ser subdividida em zonas e sectores para mais adequada e conveniente ocupação e acção técnica.
 
-###### Art. 8.º Para efeito de coordenação e inspecção, as repartições distritais poderão ser agrupadas em círculos.
+Art. 8.º Para efeito de coordenação e inspecção, as repartições distritais poderão ser agrupadas em círculos.
 
-###### Art. 9.º No caso de se verificar a necessidade de uma actuação mais intensa, poderão ser criadas brigadas técnicas com carácter temporário, na dependência do serviço ou repartição central respectiva.
+Art. 9.º No caso de se verificar a necessidade de uma actuação mais intensa, poderão ser criadas brigadas técnicas com carácter temporário, na dependência do serviço ou repartição central respectiva.
 
-###### Art. 10.º A investigação o experimentação a que se refere a alínea c) do artigo 1.º deste decreto serão realizadas em estabelecimentos já existentes ou a criar.
+Art. 10.º A investigação o experimentação a que se refere a alínea c) do artigo 1.º deste decreto serão realizadas em estabelecimentos já existentes ou a criar.
 
-###### Art. 11.º Para apoiar a acção dos Serviços de Agricultura e Florestas em matéria de fomento e valorização da produção agrícola, florestal, aquícola e apícola funciona, junto de cada um dos mesmos serviços, um fundo de fomento agro-florestal, dotado de autonomia administrativa e financeira.
+Art. 11.º Para apoiar a acção dos Serviços de Agricultura e Florestas em matéria de fomento e valorização da produção agrícola, florestal, aquícola e apícola funciona, junto de cada um dos mesmos serviços, um fundo de fomento agro-florestal, dotado de autonomia administrativa e financeira.
 
 § 1.º O fundo tem contabilidade própria, é gerido por um conselho administrativo e presta contas na forma de lei; os respectivos planos de acção, com a descrição pormenorizada das despesas a efectuar, bem como dos subsídios a conceder através dele a outros serviços ou organismos, devem ser aprovados pelos governos provinciais.
 
@@ -192,7 +200,7 @@ c) Na província de Cabo Verde as atribuições dos Serviços de Agricultura e F
 
 #### SECÇÃO II — Da direcção
 
-###### Art. 12.º Os directores e chefes dos serviços provinciais, aos quais compete, além de outras tarefas, elaborar o relatório técnico e de contas dos serviços, podem ser auxiliados, respectivamente, por directores adjuntos e por adjuntos dos chefes de serviços, que também os substituem nas suas faltas, ausências e impedimentos.
+Art. 12.º Os directores e chefes dos serviços provinciais, aos quais compete, além de outras tarefas, elaborar o relatório técnico e de contas dos serviços, podem ser auxiliados, respectivamente, por directores adjuntos e por adjuntos dos chefes de serviços, que também os substituem nas suas faltas, ausências e impedimentos.
 
 § 1.º Nas províncias de Angola e Moçambique haverá dois directores adjuntos, sendo um engenheiro agrónomo, e outro engenheiro silvicultor. Nas províncias de governo simples e quando necessário, o adjunto do chefe de serviços será designado de entre os engenheiros agrónomos ou silvicultores de 1.ª classe.
 
@@ -202,7 +210,7 @@ c) Na província de Cabo Verde as atribuições dos Serviços de Agricultura e F
 
 #### SECÇÃO I — Dos quadros
 
-###### Art. 13.º O pessoal dos Serviços de Agricultura e Florestas do Ultramar distribui-se pelos seguintes quadros:
+Art. 13.º O pessoal dos Serviços de Agricultura e Florestas do Ultramar distribui-se pelos seguintes quadros:
 
 a) Quadro comum;
 
@@ -218,39 +226,39 @@ c) Quadro complementar.
 
 #### SECÇÃO II — Do preenchimento dos cargos
 
-###### Art. 14.º Os cargos de director e de chefe de serviço provincial são providos em comissão ordinária de entre indivíduos diplomados com o curso de Agronomia ou de Silvicultura e com experiência e reconhecido mérito.
+Art. 14.º Os cargos de director e de chefe de serviço provincial são providos em comissão ordinária de entre indivíduos diplomados com o curso de Agronomia ou de Silvicultura e com experiência e reconhecido mérito.
 
 § único. Os lugares de director adjunto são exercidos por engenheiros agrónomos-chefes e silvicultores-chefes, em regra, sob proposta do governador-geral.
 
-###### Art. 15.º Os lugares de engenheiro agrónomo-chefe e silvicultor-chefe são preenchidos por engenheiros agrónomos de 1.ª classe e silvicultores de 1.ª classe, respectivamente, e os lugares de engenheiro agrónomo e silvicultor de 1.ª classe por técnicos adjuntos agrónomos e silvicultores, mediante concursos documentais, válidos por dois anos, abertos no Ministério do Ultramar.
+Art. 15.º Os lugares de engenheiro agrónomo-chefe e silvicultor-chefe são preenchidos por engenheiros agrónomos de 1.ª classe e silvicultores de 1.ª classe, respectivamente, e os lugares de engenheiro agrónomo e silvicultor de 1.ª classe por técnicos adjuntos agrónomos e silvicultores, mediante concursos documentais, válidos por dois anos, abertos no Ministério do Ultramar.
 
-###### Art. 16.º Os lugares de técnico adjunto são providos por meio de concurso documental, válido por dois anos, aberto no Ministério do Ultramar, entre indivíduos habilitados com o curso de Agronomia ou Silvicultura ou outro curso superior com interesse para os Serviços, podendo ser abertos concursos extraordinários sempre que tal se torne necessário.
+Art. 16.º Os lugares de técnico adjunto são providos por meio de concurso documental, válido por dois anos, aberto no Ministério do Ultramar, entre indivíduos habilitados com o curso de Agronomia ou Silvicultura ou outro curso superior com interesse para os Serviços, podendo ser abertos concursos extraordinários sempre que tal se torne necessário.
 
 § 1.º Os candidatos habilitados com os cursos de Agronomia ou Silvicultura Tropicais terão preferência sobre os restantes.
 
 § 2.º No caso de não haver candidatos aos concursos de ingresso, poderão ser admitidos sem concurso engenheiros agrónomos ou engenheiros silvicultores possuidores de uma especialização ou curriculum vitae com interesse para os Serviços de Agricultura e Florestas do Ultramar.
 
-###### Art. 17.º Na admissão ou promoção do restante pessoal técnico superior, observar-se-ão as normas gerais de provimento e as estabelecidas neste decreto.
+Art. 17.º Na admissão ou promoção do restante pessoal técnico superior, observar-se-ão as normas gerais de provimento e as estabelecidas neste decreto.
 
-###### Art. 18.º Sempre que as necessidades do serviço o justifiquem, poderá ser contratado pessoal técnico qualificado, nacional ou estrangeiro, de formação universitária ou média.
+Art. 18.º Sempre que as necessidades do serviço o justifiquem, poderá ser contratado pessoal técnico qualificado, nacional ou estrangeiro, de formação universitária ou média.
 
-###### Art. 19.º O recrutamento do pessoal para os quadros privativos far-se-á, em regra, por concurso documental e segundo as normas a estabelecer no regulamento dos Serviços, podendo facultar-se a admissão de indivíduos que, por provas de competência dadas em organismos oficiais ou entidades particulares acreditadas, garantam o bom desempenho das atribuições dos respectivos cargos ou sejam possuidores de cursos de interesse para os Serviços de Agricultura e Florestas.
+Art. 19.º O recrutamento do pessoal para os quadros privativos far-se-á, em regra, por concurso documental e segundo as normas a estabelecer no regulamento dos Serviços, podendo facultar-se a admissão de indivíduos que, por provas de competência dadas em organismos oficiais ou entidades particulares acreditadas, garantam o bom desempenho das atribuições dos respectivos cargos ou sejam possuidores de cursos de interesse para os Serviços de Agricultura e Florestas.
 
-###### Art. 20.º Para os lugares de categoria inferior à letra I do mapa anexo ao Estatuto do Funcionalismo Ultramarino, o ingresso no quadro far-se-á, em regra, por concurso a regulamentar na província.
+Art. 20.º Para os lugares de categoria inferior à letra I do mapa anexo ao Estatuto do Funcionalismo Ultramarino, o ingresso no quadro far-se-á, em regra, por concurso a regulamentar na província.
 
-###### Art. 21.º Não podem ser promovidos em qualquer dos quadros os funcionários que não tenham prestado três anos de serviço na categoria em que se encontrem, salvo o disposto no artigo 70.º do Estatuto do Funcionalismo Ultramarino.
+Art. 21.º Não podem ser promovidos em qualquer dos quadros os funcionários que não tenham prestado três anos de serviço na categoria em que se encontrem, salvo o disposto no artigo 70.º do Estatuto do Funcionalismo Ultramarino.
 
 #### SECÇÃO III — Disposições diversas
 
-###### Art. 22.º O preenchimento dos novos lugares criados por este decreto, depois de feito o movimento e ajustamento dos cargos, efectuar-se-á à medida que forem orçamentados.
+Art. 22.º O preenchimento dos novos lugares criados por este decreto, depois de feito o movimento e ajustamento dos cargos, efectuar-se-á à medida que forem orçamentados.
 
-###### Art. 23.º Ao pessoal constante do mapa VI anexo a este decreto são atribuídas as gratificações nele estabelecidas.
+Art. 23.º Ao pessoal constante do mapa VI anexo a este decreto são atribuídas as gratificações nele estabelecidas.
 
 § único. Estas gratificações não serão devidas quando o agente exerça qualquer ocupação particular.
 
-###### Art. 24.º Além das gratificações estabelecidas no artigo anterior e quando as condições de serviço o justificarem, poderão ser atribuídos cumulativamente ao pessoal técnico dos Serviços de Agricultura e Florestas os quantitativos de subsídio diário em vigor na província.
+Art. 24.º Além das gratificações estabelecidas no artigo anterior e quando as condições de serviço o justificarem, poderão ser atribuídos cumulativamente ao pessoal técnico dos Serviços de Agricultura e Florestas os quantitativos de subsídio diário em vigor na província.
 
-###### Art. 25.º O pessoal dos actuais quadros dos Serviços de Agricultura e Florestas transitará para os novos quadros, mantendo todos os direitos adquiridos e observando as seguintes regras:
+Art. 25.º O pessoal dos actuais quadros dos Serviços de Agricultura e Florestas transitará para os novos quadros, mantendo todos os direitos adquiridos e observando as seguintes regras:
 
 a) O pessoal do quadro comum ou equiparado, mediante relação nominal constante de portaria do Ministro do Ultramar, anotada pelo Tribunal de Contas e publicada no Diário do Governo;
 
@@ -266,43 +274,43 @@ c) O pessoal que transita para os novos quadros, nos termos das alíneas anterio
 
 § 4.º O pessoal assalariado poderá transitar para os novos quadros nos termos que vierem a ser estabelecidos nos regulamentos provinciais.
 
-###### Art. 26.º Tanto o pessoal contratado como o de nomeação interina poderão ingressar nos novos quadros, em categoria não inferior à que tiverem, se o requererem nos 30 dias seguintes ao da entrada em vigor deste decreto, levando-se em linha de conta a antiguidade e o mérito revelado.
+Art. 26.º Tanto o pessoal contratado como o de nomeação interina poderão ingressar nos novos quadros, em categoria não inferior à que tiverem, se o requererem nos 30 dias seguintes ao da entrada em vigor deste decreto, levando-se em linha de conta a antiguidade e o mérito revelado.
 
 Se este pessoal tiver mais de cinco anos de serviço a nomeação será definitiva e se tiver menos de cinco anos a nomeação será provisória.
 
-###### Art. 27.º A oportunidade da gradual transferência para os Serviços de Agricultura e Florestas das funções de extensão e assistência técnica que estejam sendo exercidas por organismos de coordenação económica, missões e brigadas será determinada pelo governo da província, sob proposta do Conselho de Coordenação Agrária.
+Art. 27.º A oportunidade da gradual transferência para os Serviços de Agricultura e Florestas das funções de extensão e assistência técnica que estejam sendo exercidas por organismos de coordenação económica, missões e brigadas será determinada pelo governo da província, sob proposta do Conselho de Coordenação Agrária.
 
 § único. Enquanto não for possível promover essa transferência, deverá a acção dos organismos de coordenação económica, missões e brigadas ser coordenada de harmonia com planos a estabelecer pelo Conselho de Coordenação Agrária e aprovados pelo governador, com vista a evitar duplicações ou sobreposições de actividades.
 
-###### Art. 28.º As transferências das funções a que se refere o artigo anterior deverão ser acompanhadas pela transferência de todo o pessoal que, no âmbito dos organismos de coordenação económica, missões e brigadas, era responsável pelo seu desempenho, bem como de todo o material, terrenos, edifícios e instalações, equipamento e arquivos de documentação pertinente.
+Art. 28.º As transferências das funções a que se refere o artigo anterior deverão ser acompanhadas pela transferência de todo o pessoal que, no âmbito dos organismos de coordenação económica, missões e brigadas, era responsável pelo seu desempenho, bem como de todo o material, terrenos, edifícios e instalações, equipamento e arquivos de documentação pertinente.
 
-###### Art. 29.º O pessoal transferido nos termos do artigo anterior ingressará, conservando todos os direitos adquiridos, no quadro complementar dos Serviços de Agricultura e Florestas do Ultramar, em categoria não inferior à que ocupe nos organismos de origem, observadas as regras do artigo 25.º deste decreto.
+Art. 29.º O pessoal transferido nos termos do artigo anterior ingressará, conservando todos os direitos adquiridos, no quadro complementar dos Serviços de Agricultura e Florestas do Ultramar, em categoria não inferior à que ocupe nos organismos de origem, observadas as regras do artigo 25.º deste decreto.
 
-###### Art. 30.º Todas as dúvidas que se suscitarem em consequência de transferência de pessoal e de funções de extensão e assistência técnica serão resolvidas pelo Ministro do Ultramar, sob proposta do governo da província.
+Art. 30.º Todas as dúvidas que se suscitarem em consequência de transferência de pessoal e de funções de extensão e assistência técnica serão resolvidas pelo Ministro do Ultramar, sob proposta do governo da província.
 
 ### CAPÍTULO IV — Disposições gerais e transitórias
 
-###### Art. 31.º Os Serviços de Agricultura e Florestas de Angola e Moçambique poderão realizar, alternadamente, jornadas silvo-agronómicas reunindo técnicos das duas províncias, para apresentação e discussão de temas de actualidade importância, em ordem a obter uma maior eficiência dos Serviços e para benefício da economia das respectivas províncias.
+Art. 31.º Os Serviços de Agricultura e Florestas de Angola e Moçambique poderão realizar, alternadamente, jornadas silvo-agronómicas reunindo técnicos das duas províncias, para apresentação e discussão de temas de actualidade importância, em ordem a obter uma maior eficiência dos Serviços e para benefício da economia das respectivas províncias.
 
 § único. As jornadas poderão ser públicas e serão facultadas a todos os técnicos nacionais particulares e de representação oficial ligados à actividade agrícola.
 
-###### Art. 32.º Sempre que for possível, a comissão organizadora destas jornadas deverá ser constituída pelo director dos Serviços de Agricultura e Florestas, que presidirá, director do Instituto de Investigação Agronómica e um dos directores dos Institutos de Coordenação Económica ou o presidente da Junta de Povoamento, a escolher anualmente.
+Art. 32.º Sempre que for possível, a comissão organizadora destas jornadas deverá ser constituída pelo director dos Serviços de Agricultura e Florestas, que presidirá, director do Instituto de Investigação Agronómica e um dos directores dos Institutos de Coordenação Económica ou o presidente da Junta de Povoamento, a escolher anualmente.
 
-###### Art. 33.º Durante as jornadas, sempre que possível, deverão ministrar-se cursos e palestras de actualização de conhecimentos, a professar por especialistas da metrópole, das províncias ultramarinas ou do estrangeiro.
+Art. 33.º Durante as jornadas, sempre que possível, deverão ministrar-se cursos e palestras de actualização de conhecimentos, a professar por especialistas da metrópole, das províncias ultramarinas ou do estrangeiro.
 
 § único. Serão publicadas as lições, os trabalhos apresentados e a sua discussão e as recomendações depois destas aprovadas superiormente.
 
-###### Art. 34.º As verbas actualmente atribuídas pelos organismos de coordenação económica para extensão agrícola e assistência técnica passarão, à medida que se dê a transferência de funções previstas neste decreto, a ser consignadas nos seus orçamentos aos fundos de fomento agro-pecuário ou como subsídio aos fundos de fomento agro-florestal, a que se refere o artigo 11.º do presente diploma, nas províncias em que aqueles fundos não tenham ainda sido criados.
+Art. 34.º As verbas actualmente atribuídas pelos organismos de coordenação económica para extensão agrícola e assistência técnica passarão, à medida que se dê a transferência de funções previstas neste decreto, a ser consignadas nos seus orçamentos aos fundos de fomento agro-pecuário ou como subsídio aos fundos de fomento agro-florestal, a que se refere o artigo 11.º do presente diploma, nas províncias em que aqueles fundos não tenham ainda sido criados.
 
-###### Art. 35.º O prazo para a publicação das providências referidas no artigo 3.º é fixado em 120 dias, a contar da data do presente decreto.
+Art. 35.º O prazo para a publicação das providências referidas no artigo 3.º é fixado em 120 dias, a contar da data do presente decreto.
 
-###### Art. 36.º Os governos das províncias ficam desde já autorizados a abrir os créditos necessários aos encargos criados por este decreto, com contrapartida em recursos orçamentais.
+Art. 36.º Os governos das províncias ficam desde já autorizados a abrir os créditos necessários aos encargos criados por este decreto, com contrapartida em recursos orçamentais.
 
-###### Art. 37.º Os governos provinciais solicitarão ao Ministro do Ultramar a publicação de quaisquer medidas legislativas que se tornem necessárias em virtude da integração dos serviços de extensão agrícola prevista neste decreto.
+Art. 37.º Os governos provinciais solicitarão ao Ministro do Ultramar a publicação de quaisquer medidas legislativas que se tornem necessárias em virtude da integração dos serviços de extensão agrícola prevista neste decreto.
 
-###### Art. 38.º Este decreto entra imediatamente em vigor, ficando revogados o [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, e o Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961 (Angola).
+Art. 38.º Este decreto entra imediatamente em vigor, ficando revogados o [Decreto n.º 41482](https://diariodarepublica.pt/dr/detalhe/decreto/41482-1957-251243), de 28 de Dezembro de 1957, e o Diploma Legislativo Ministerial n.º 88, de 26 de Outubro de 1961 (Angola).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 11 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -310,6 +318,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas, exce
 
 Do MAPA I ao MAPA VI
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/01/00900/00210026.pdf))](https://files.diariodarepublica.pt/1s/1968/01/00900/00210026.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/01/00900/00210026.pdf)
 
 Ministério do Ultramar, 11 de Janeiro de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

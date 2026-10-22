@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48990-1969-201644
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e5d50eea6edeb7c6530048771cd9a02f41156bcebb8be8b1d2c64bb5ffa321be
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 78225d5f30c5de8d6aefc2c1021d5ada2dc25ed4fea502aa2568d4d53f8e8bbe
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:490381:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:16Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +96,9 @@ Por motivo de urgência, ao abrigo do § 1.º do artigo 150.º da Constituição
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É elevada, à categoria de alfândega, sede de circunscrição, ficando com a orgânica a que se refere o artigo 107.º do Estatuto Orgânico das Alfândegas do Ultramar, a delegação aduaneira de 1.ª classe de Nacala.
+Artigo 1.º É elevada, à categoria de alfândega, sede de circunscrição, ficando com a orgânica a que se refere o artigo 107.º do Estatuto Orgânico das Alfândegas do Ultramar, a delegação aduaneira de 1.ª classe de Nacala.
 
-###### Art. 2.º A nova, alfândega, sede da circunscrição do mesmo nome, passa a ter jurisdição sobre as seguintes estâncias aduaneiras:
+Art. 2.º A nova, alfândega, sede da circunscrição do mesmo nome, passa a ter jurisdição sobre as seguintes estâncias aduaneiras:
 
 Delegação aduaneira de Vila Cabral (2.ª classe);
 
@@ -104,23 +108,23 @@ Posto de despacho de Metangula;
 
 Posto de despacho de Nampula.
 
-###### Art. 3.º Ao quadro técnico-aduaneiro comum do ultramar, em relação à província de Moçambique, é aumentado um lugar de reverificador-chefe.
+Art. 3.º Ao quadro técnico-aduaneiro comum do ultramar, em relação à província de Moçambique, é aumentado um lugar de reverificador-chefe.
 
-###### Art. 4.º O Governo-Geral de Moçambique abrirá os créditos necessários à execução do disposto nos artigos antecedentes.
+Art. 4.º O Governo-Geral de Moçambique abrirá os créditos necessários à execução do disposto nos artigos antecedentes.
 
-###### Art. 5.º Passa a ser a seguinte a redacção do corpo do artigo único do [Decreto n.º 46896](https://diariodarepublica.pt/dr/detalhe/decreto/46896-1966-490381), de 10 de Março de 1966:
+Art. 5.º Passa a ser a seguinte a redacção do corpo do artigo único do [Decreto n.º 46896](https://diariodarepublica.pt/dr/detalhe/decreto/46896-1966-490381), de 10 de Março de 1966:
 
-###### Artigo único. Pode o Ministro do Ultramar, mediante despacho e sob parecer do Governo-Geral de Angola, isentar de direitos de importação as mercadorias pertencentes a cidadãos nacionais ou estrangeiros que, residindo nos territórios limítrofes, transfiram as suas actividades para a província de Angola.
+Artigo único. Pode o Ministro do Ultramar, mediante despacho e sob parecer do Governo-Geral de Angola, isentar de direitos de importação as mercadorias pertencentes a cidadãos nacionais ou estrangeiros que, residindo nos territórios limítrofes, transfiram as suas actividades para a província de Angola.
 
-###### Art. 6.º É inserida a seguinte nota à posição 48.09 da pauta mínima de importação da província de Moçambique:
+Art. 6.º É inserida a seguinte nota à posição 48.09 da pauta mínima de importação da província de Moçambique:
 
 Nota. - A taxa do presente artigo é reduzida para 13 por cento ad valorem enquanto a indústria estabelecida na província não produzir ou as quantidades produzidas não satisfaçam as necessidades de consumo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Abril de 1969.**
+Promulgado em 24 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48829-1969-241591
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-06T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 442201615a86f1c4a8e39926e8a837649aeed8da8e27446139a298afb07d91fb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7c06e5bda35a2f6b5c99aa27ca774d5659e197cebfe5c88f6c19a8a50b9d5bd1
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400670:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:02Z'
   warnings: []
   errors: []
 ---
@@ -93,13 +97,13 @@ Tendo em vista o n.º 1.º do artigo 150.º da Constituição, por motivo de urg
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A secção 3.ª do n.º 1 do artigo 3.º do [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, passa a ter a seguinte redacção:
+Artigo 1.º A secção 3.ª do n.º 1 do artigo 3.º do [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, passa a ter a seguinte redacção:
 
 3.ª As verbas extraordinárias atribuídas em cada ano pelo Plano de Fomento em vigor para o Fundo de Fomento Mineiro nas províncias ultramarinas;
 
-###### Art. 2.º O artigo 7.º do [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, passa a ter a seguinte redacção:
+Art. 2.º O artigo 7.º do [Decreto n.º 48085](https://diariodarepublica.pt/dr/detalhe/decreto/48085-1967-400670), de 2 de Dezembro de 1967, passa a ter a seguinte redacção:
 
-###### Art. 7.º - 1. O Fundo será gerido e administrado por uma comissão administrativa composta pelos seguintes vogais:
+Art. 7.º - 1. O Fundo será gerido e administrado por uma comissão administrativa composta pelos seguintes vogais:
 
 a) Um presidente a designar por despacho do Ministro do Ultramar;
 
@@ -119,9 +123,9 @@ d) Um vogal designado pelo Ministro do Ultramar, mediante proposta do presidente
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 20 de Dezembro de 1968.**
+Promulgado em 20 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 6 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

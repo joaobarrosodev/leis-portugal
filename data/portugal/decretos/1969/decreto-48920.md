@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48920-1969-524834
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:42Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bd032339814a762154c64f042a6633d0452c86186550ed75c93c11f1a547c309
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a9e2779a1558a1c43ffdfe5e11e39b96699947a0bd0aee294bd25963db5a628a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:42Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:141005:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:405350:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:42Z'
   warnings: []
   errors: []
 ---
@@ -92,17 +100,17 @@ Ouvidos o Conselho Ultramarino e os Governos das províncias de S. Tomé e Prín
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - É aplicado aos corpos da Guarda Fiscal das províncias de S. Tomé e Príncipe, Moçambique e Timor o Regulamento Disciplinar dos Corpos de Polícia de Segurança Pública no Ultramar, aprovado pelo [Decreto n.º 48190](https://diariodarepublica.pt/dr/detalhe/decreto/48190-1967-405350), de 30 de Dezembro de 1967, devendo os Governos das respectivas províncias introduzir-lhe, em portaria, as necessárias alterações de adaptação que a natureza e organização das corporações da Guarda Fiscal aconselharem.
+Artigo 1.º - É aplicado aos corpos da Guarda Fiscal das províncias de S. Tomé e Príncipe, Moçambique e Timor o Regulamento Disciplinar dos Corpos de Polícia de Segurança Pública no Ultramar, aprovado pelo [Decreto n.º 48190](https://diariodarepublica.pt/dr/detalhe/decreto/48190-1967-405350), de 30 de Dezembro de 1967, devendo os Governos das respectivas províncias introduzir-lhe, em portaria, as necessárias alterações de adaptação que a natureza e organização das corporações da Guarda Fiscal aconselharem.
 
-###### Art. 2.º O regulamento referido no artigo anterior entra em vigor no dia 1 de Julho de 1969.
+Art. 2.º O regulamento referido no artigo anterior entra em vigor no dia 1 de Julho de 1969.
 
-###### Art. 3.º É revogado o artigo 87.º e seus §§ 1.º a 3.º da Organização da Guarda Fiscal, aprovada pelo [Decreto n.º 44347](https://diariodarepublica.pt/dr/detalhe/decreto/44347-1962-141005), de 14 de Maio de 1962.
+Art. 3.º É revogado o artigo 87.º e seus §§ 1.º a 3.º da Organização da Guarda Fiscal, aprovada pelo [Decreto n.º 44347](https://diariodarepublica.pt/dr/detalhe/decreto/44347-1962-141005), de 14 de Maio de 1962.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Março de 1969.**
+Promulgado em 12 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

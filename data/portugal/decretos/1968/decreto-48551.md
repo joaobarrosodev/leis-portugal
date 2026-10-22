@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48551-1968-265124
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6b5118f7c34d2a3a2b26c7b0efecdb5a850f288173273f4d4fd01eed86ff9cbc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 41f466fa9c24803c82c20121dfa5acbbc6313f6308aec7c54b92036ce03e090f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:478627:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:38Z'
   warnings: []
   errors: []
 ---
@@ -87,17 +99,17 @@ Com fundamento na alínea a) do artigo 33.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 362905246$50, destinados a reforçar verba insuficientemente dotada e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 362905246$50, destinados a reforçar verba insuficientemente dotada e a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, ...», alínea 3 «Amortizável externa»:
+Artigo 1.º «Juros», n.º 1) «Dívida pública fundada, ...», alínea 3 «Amortizável externa»:
 
 Empréstimo de 12 milhões de dólares - Promissórias de 6 por cento de 1967 (ver nota e) ... 8905246$50
 
-###### Artigo 2.º «Amortizações», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 2 «Externa»:
+Artigo 2.º «Amortizações», n.º 1) «Dívida pública fundada, a cargo da Junta do Crédito Público», alínea 2 «Externa»:
 
 Empréstimo de 12 milhões de dólares - Promissórias de 6 por cento de 1967 (ver nota n) ... 354000000$00
 
@@ -105,10 +117,10 @@ Empréstimo de 12 milhões de dólares - Promissórias de 6 por cento de 1967 (v
 
 (nota n) [Decreto-Lei n.º 47296](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47296-1966-478627), de 31 de Outubro de 1966.
 
-###### Art. 2.º Para compensação dos créditos previstos no artigo anterior, é adicionada igual quantia à verba inscrita no capítulo 2.º, artigo 20.º «Imposto de transacções», do actual orçamento das receitas do Estado.
+Art. 2.º Para compensação dos créditos previstos no artigo anterior, é adicionada igual quantia à verba inscrita no capítulo 2.º, artigo 20.º «Imposto de transacções», do actual orçamento das receitas do Estado.
 
 Estes créditos foram registados na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.

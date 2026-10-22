@@ -20,7 +20,7 @@ publication:
   reference: Diário do Governo n.º 302/1967, 1º Suplemento, Série I de 1967-12-30
   number: '302'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 2561 - 2575
   pdf_url: https://files.diariodarepublica.pt/1s/1967/12/30201/25612575.pdf
 entry_into_force_dates: []
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48190-1967-405350
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-30T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4d499fe87c5acfcf7de67348ca49ba6f145d188f05d176e7ba88d534bd2fb64
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 09886b1c1a6279f244e055532be05a198d70351f81cee0e990ec56f3bf370acb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:222198:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 15
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:52Z'
   warnings: []
   errors: []
 ---
@@ -95,11 +99,11 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aprovado o Regulamento Disciplinar dos Corpos de Polícia de Segurança Pública do Ultramar, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
+Artigo 1.º É aprovado o Regulamento Disciplinar dos Corpos de Polícia de Segurança Pública do Ultramar, que, junto a este decreto, baixa assinado pelo Ministro do Ultramar.
 
-###### Art. 2.º O regulamento entra em vigor no dia 1 de Janeiro de 1968 e substitui o aprovado pelo [Decreto n.º 45524](https://diariodarepublica.pt/dr/detalhe/decreto/45524-1964-222198), de 3 de Janeiro de 1964.
+Art. 2.º O regulamento entra em vigor no dia 1 de Janeiro de 1968 e substitui o aprovado pelo [Decreto n.º 45524](https://diariodarepublica.pt/dr/detalhe/decreto/45524-1964-222198), de 3 de Janeiro de 1964.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -111,13 +115,13 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA NO ULTRAMA
 
 #### SECÇÃO I — Disposições fundamentais
 
-###### Artigo 1.º O pessoal da Polícia de Segurança Pública é disciplinarmente responsável perante os seus superiores hierárquicos pelas infracções que cometa.
+Artigo 1.º O pessoal da Polícia de Segurança Pública é disciplinarmente responsável perante os seus superiores hierárquicos pelas infracções que cometa.
 
 § único. Os superiores são sempre responsáveis pelas faltas dos seus subordinados ou inferiores, quando resultem de outras por aqueles cometidas ou das ordens por eles dadas.
 
-###### Art. 2.º Considera-se infracção disciplinar o facto voluntário praticado por acção ou omissão pelos funcionários ou agentes da Polícia de Segurança Pública com violação dos deveres gerais ou especiais decorrentes da função ou com ofensa dos deveres dos cidadãos impostos pela lei ou pela moral social.
+Art. 2.º Considera-se infracção disciplinar o facto voluntário praticado por acção ou omissão pelos funcionários ou agentes da Polícia de Segurança Pública com violação dos deveres gerais ou especiais decorrentes da função ou com ofensa dos deveres dos cidadãos impostos pela lei ou pela moral social.
 
-###### Art. 3.º São princípios fundamentais da disciplina:
+Art. 3.º São princípios fundamentais da disciplina:
 
 1.º A obediência pronta e completa às ordens conformes à lei e aos regulamentos policiais;
 
@@ -127,9 +131,9 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA NO ULTRAMA
 
 #### SECÇÃO II — Deveres disciplinares
 
-###### Art. 4.º O pessoal da Polícia de Segurança Pública deve regular o seu procedimento pelos ditames da virtude e da honra, amar a Pátria, respeitar e fazer respeitar a Constituição Política e as demais leis do País.
+Art. 4.º O pessoal da Polícia de Segurança Pública deve regular o seu procedimento pelos ditames da virtude e da honra, amar a Pátria, respeitar e fazer respeitar a Constituição Política e as demais leis do País.
 
-###### Art. 5.º São deveres do pessoal da Polícia de Segurança Pública:
+Art. 5.º São deveres do pessoal da Polícia de Segurança Pública:
 
 1.º Cumprir prontamente e com lealdade as ordens dos superiores relativas ao serviço;
 
@@ -235,7 +239,7 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA NO ULTRAMA
 
 52.º Não fazer, em caso algum, declarações falsas, ainda que com o fim de ocultar actos praticados por camaradas ou superiores seus contra as disposições regulamentares.
 
-###### Art. 6.º São especialmente deveres de todo o pessoal graduado da Polícia de Segurança Pública, que procurará servir de exemplo permanente aos seus subordinados, os seguintes:
+Art. 6.º São especialmente deveres de todo o pessoal graduado da Polícia de Segurança Pública, que procurará servir de exemplo permanente aos seus subordinados, os seguintes:
 
 1.º Conduzir-se modelarmente em serviço ou fora dele;
 
@@ -253,7 +257,7 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA NO ULTRAMA
 
 #### SECÇÃO III — Recompensas e seus efeitos
 
-###### Art. 7.º Pelo seu comportamento disciplinar, podem ser concedidas aos funcionários e agentes da Polícia de Segurança Pública as seguintes recompensas:
+Art. 7.º Pelo seu comportamento disciplinar, podem ser concedidas aos funcionários e agentes da Polícia de Segurança Pública as seguintes recompensas:
 
 1.º Elogio:
 
@@ -263,23 +267,23 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA NO ULTRAMA
 
 4.º Promoção por distinção.
 
-###### Art. 8.º O elogio destina-se a distinguir os que pela sua compostura e aprumo se tornem notados pelos seus superiores ou por outras entidades. É publicado em ordem de serviço e averbado na folha de matrícula.
+Art. 8.º O elogio destina-se a distinguir os que pela sua compostura e aprumo se tornem notados pelos seus superiores ou por outras entidades. É publicado em ordem de serviço e averbado na folha de matrícula.
 
-###### Art. 9.º O louvor destina-se a recompensar actos importantes e procedimentos dignos de relevo. É publicado em ordem de serviço, no Boletim Oficial ou no Diário do Governo, conforme for concedido, respectivamente, pelos superiores dentro da hierarquia policial, pelo governador da província ou pelo Ministro do Ultramar, e averbado na folha de matrícula.
+Art. 9.º O louvor destina-se a recompensar actos importantes e procedimentos dignos de relevo. É publicado em ordem de serviço, no Boletim Oficial ou no Diário do Governo, conforme for concedido, respectivamente, pelos superiores dentro da hierarquia policial, pelo governador da província ou pelo Ministro do Ultramar, e averbado na folha de matrícula.
 
 § 1.º O louvor poderá ser acompanhado da licença de prémio a que se refere o n.º 3.º do artigo 7.º
 
 § 2.º A licença de prémio simultânea com o louvor é concedida pelo comandante-geral, por sua iniciativa ou por proposta do comando a que o premiado pertencer.
 
-###### Art. 10.º O elogio e o louvor serão considerados tanto mais importantes quanto maior for a graduação ou a categoria da entidade que os conceder.
+Art. 10.º O elogio e o louvor serão considerados tanto mais importantes quanto maior for a graduação ou a categoria da entidade que os conceder.
 
-###### Art. 11.º A licença de prémio, até quinze dias em cada ano, é concedida mesmo com prejuízo do serviço, mas sem perda do direito aos vencimentos, àqueles que se distingam por actos considerados importantes pelo comandante-geral e pelos comandantes distritais.
+Art. 11.º A licença de prémio, até quinze dias em cada ano, é concedida mesmo com prejuízo do serviço, mas sem perda do direito aos vencimentos, àqueles que se distingam por actos considerados importantes pelo comandante-geral e pelos comandantes distritais.
 
-###### Art. 12.º A promoção por distinção é concedida pelo governador da província, sob proposta do comandante-geral, ouvido o Conselho de Disciplina, e destina-se a galardoar comportamentos excepcionais de reconhecida valentia ou extraordinária abnegação, comprovados em processo organizado para o efeito.
+Art. 12.º A promoção por distinção é concedida pelo governador da província, sob proposta do comandante-geral, ouvido o Conselho de Disciplina, e destina-se a galardoar comportamentos excepcionais de reconhecida valentia ou extraordinária abnegação, comprovados em processo organizado para o efeito.
 
 § único. A promoção por distinção pode ainda ser concedida pelo Ministro do Ultramar, nos casos em que os respectivos processos subam ao Ministério para apreciação.
 
-###### Art. 13.º As recompensas previstas neste Regulamento anulam os efeitos disciplinares das penas anteriores, como segue:
+Art. 13.º As recompensas previstas neste Regulamento anulam os efeitos disciplinares das penas anteriores, como segue:
 
 1.º Um elogio - meio dia de detenção;
 
@@ -301,7 +305,7 @@ REGULAMENTO DISCIPLINAR DOS CORPOS DE POLÍCIA DE SEGURANÇA PÚBLICA NO ULTRAMA
 
 #### SECÇÃO I — Penas disciplinares
 
-###### Art. 14.º As penas aplicáveis aos funcionários e agentes da Polícia de Segurança Pública são as seguintes:
+Art. 14.º As penas aplicáveis aos funcionários e agentes da Polícia de Segurança Pública são as seguintes:
 
 a) Penas aplicáveis a oficiais:
 
@@ -423,51 +427,51 @@ i) Penas aplicáveis ao pessoal de secretaria e a outros funcionários ou agente
 
 As do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 15.º A repreensão simples e a repreensão agravada consistem em se declarar ao infractor que é repreendido por haver praticado qualquer acto que constitua infracção disciplinar. A primeira é dada em particular e a segunda na presença de pessoal da Polícia de igual ou superior categoria, do comando ou serviço a que pertença o infractor.
+Art. 15.º A repreensão simples e a repreensão agravada consistem em se declarar ao infractor que é repreendido por haver praticado qualquer acto que constitua infracção disciplinar. A primeira é dada em particular e a segunda na presença de pessoal da Polícia de igual ou superior categoria, do comando ou serviço a que pertença o infractor.
 
 § único. No acto da repreensão será entregue ao infractor uma nota assinada pelo superior que puniu, da qual deve constar o facto que motivou a punição, com indicação dos deveres violados.
 
-###### Art. 16.º A multa consiste na perda dos vencimentos ou salários, emolumentos, percentagens ou participações em receitas pelo tempo por que tiver sido imposta.
+Art. 16.º A multa consiste na perda dos vencimentos ou salários, emolumentos, percentagens ou participações em receitas pelo tempo por que tiver sido imposta.
 
-###### Art. 17.º A ronda consiste em o agente punido executar nas horas de folga um turno de quatro horas, não podendo, contudo, fazer mais de quatro horas consecutivas.
+Art. 17.º A ronda consiste em o agente punido executar nas horas de folga um turno de quatro horas, não podendo, contudo, fazer mais de quatro horas consecutivas.
 
-###### Art. 18.º A guarda, piquete, patrulha ou turno de serviço consistem em o agente punido executar nas horas de folga os castigos impostos, em dias ou turnos não seguidos.
+Art. 18.º A guarda, piquete, patrulha ou turno de serviço consistem em o agente punido executar nas horas de folga os castigos impostos, em dias ou turnos não seguidos.
 
-###### Art. 19.º A detenção consiste na proibição de o agente punido sair do quartel a que pertencer, sendo, porém, obrigado a desempenhar o serviço que lhe pertença por escala ou o serviço normal do seu cargo, devendo apresentar-se ao superior de que dependa às 8 horas do dia seguinte àquele em que tiver conhecimento da punição.
+Art. 19.º A detenção consiste na proibição de o agente punido sair do quartel a que pertencer, sendo, porém, obrigado a desempenhar o serviço que lhe pertença por escala ou o serviço normal do seu cargo, devendo apresentar-se ao superior de que dependa às 8 horas do dia seguinte àquele em que tiver conhecimento da punição.
 
-###### Art. 20.º A suspensão consiste na interrupção das funções e perda dos vencimentos ou salários pelo tempo por que tiver sido imposta.
+Art. 20.º A suspensão consiste na interrupção das funções e perda dos vencimentos ou salários pelo tempo por que tiver sido imposta.
 
-###### Art. 21.º A prisão consiste na reclusão do agente punido, de acordo com a sua categoria, em casa ou recinto fechado, no quartel ou no local que for superiormente determinado.
+Art. 21.º A prisão consiste na reclusão do agente punido, de acordo com a sua categoria, em casa ou recinto fechado, no quartel ou no local que for superiormente determinado.
 
-###### Art. 22.º A aposentação compulsiva consiste na desligação do serviço do funcionário ou agente punido. A sua aplicação é da competência do governador da província, sob proposta do respectivo comandante, ouvido sempre o Conselho de Disciplina.
+Art. 22.º A aposentação compulsiva consiste na desligação do serviço do funcionário ou agente punido. A sua aplicação é da competência do governador da província, sob proposta do respectivo comandante, ouvido sempre o Conselho de Disciplina.
 
-###### Art. 23.º A pena de demissão consiste em expulsar da corporação o funcionário ou agente punido e é imposta nas condições do artigo anterior.
+Art. 23.º A pena de demissão consiste em expulsar da corporação o funcionário ou agente punido e é imposta nas condições do artigo anterior.
 
 #### SECÇÃO II — Efeitos das penas
 
-###### Art. 24.º As penas disciplinares ùnicamente têm os efeitos expressamente declarados neste Regulamento.
+Art. 24.º As penas disciplinares ùnicamente têm os efeitos expressamente declarados neste Regulamento.
 
-###### Art. 25.º As penas de repreensão simples, repreensão agravada e de multa não produzem quaisquer efeitos disciplinares.
+Art. 25.º As penas de repreensão simples, repreensão agravada e de multa não produzem quaisquer efeitos disciplinares.
 
-###### Art. 26.º As penas de suspensão e de prisão superiores a quinze dias, quando aplicadas a funcionários de categoria igual ou superior a segundo-subchefe, implicarão a transferência da respectiva guarnição, à qual o agente punido só poderá regressar depois de decorrido um ano, a contar da data em que terminou o cumprimento do castigo.
+Art. 26.º As penas de suspensão e de prisão superiores a quinze dias, quando aplicadas a funcionários de categoria igual ou superior a segundo-subchefe, implicarão a transferência da respectiva guarnição, à qual o agente punido só poderá regressar depois de decorrido um ano, a contar da data em que terminou o cumprimento do castigo.
 
 § 1.º Igual decisão poderá ser aplicada aos guardas naquelas condições, quando razões especiais o aconselhem.
 
 § 2.º As transferências só serão determinadas depois de expirado o prazo para a interposição do recurso, ou do respectivo julgamento, se lhe for negado provimento.
 
-###### Art. 27.º As penas de suspensão e de prisão implicam:
+Art. 27.º As penas de suspensão e de prisão implicam:
 
 1.º A de suspensão, a perda dos vencimentos, emolumentos, percentagens ou participações em receitas pelo tempo por que tiver sido imposta;
 
 2.º A de prisão, a perda do vencimento de exercício ou de 1/6 do salário base, quando se trate de agentes assalariados, pelo tempo por que tiver sido imposta.
 
-###### Art. 28.º A pena de aposentação compulsiva importa a imediata desligação do serviço do agente punido.
+Art. 28.º A pena de aposentação compulsiva importa a imediata desligação do serviço do agente punido.
 
-###### Art. 29.º A pena de demissão importa a perda de todos os direitos do funcionário ou agente e a impossibilidade de voltar a ser provido em qualquer cargo público.
+Art. 29.º A pena de demissão importa a perda de todos os direitos do funcionário ou agente e a impossibilidade de voltar a ser provido em qualquer cargo público.
 
-###### Art. 30.º As penas de suspensão e de prisão importam também a perda da faculdade de o funcionário ou agente punido gozar licença disciplinar no período de um ano, contado desde o termo do cumprimento da pena.
+Art. 30.º As penas de suspensão e de prisão importam também a perda da faculdade de o funcionário ou agente punido gozar licença disciplinar no período de um ano, contado desde o termo do cumprimento da pena.
 
-###### Art. 31.º As penas disciplinares, além dos efeitos previstos nos artigos anteriores, influem na determinação das classes de comportamento.
+Art. 31.º As penas disciplinares, além dos efeitos previstos nos artigos anteriores, influem na determinação das classes de comportamento.
 
 § único. Para os efeitos do corpo do artigo, é estabelecida a seguinte equivalência:
 
@@ -479,39 +483,39 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 4.º Um dia de prisão - quatro dias de detenção.
 
-###### Art. 32.º As penas de detenção, suspensão e prisão começam a ser executadas às 8 horas do dia seguinte àquele em que a ordem de serviço for recebida no respectivo comando.
+Art. 32.º As penas de detenção, suspensão e prisão começam a ser executadas às 8 horas do dia seguinte àquele em que a ordem de serviço for recebida no respectivo comando.
 
 § 1.º O tempo de detenção ou prisão preventiva será levado em conta para efeitos do cumprimento da pena que vier a ser imposta.
 
 § 2.º Quando, por qualquer motivo, não seja possível fazer cumprir efectivamente as penas disciplinares, todos os seus efeitos se produzirão como se fossem cumpridas.
 
-###### Art. 33.º Todas as penas disciplinares, com excepção dos quartos de sentinela, serão averbadas na folha de matrícula do funcionário ou agente punido, devendo ser publicadas em ordem de serviço as penas de multa e superiores.
+Art. 33.º Todas as penas disciplinares, com excepção dos quartos de sentinela, serão averbadas na folha de matrícula do funcionário ou agente punido, devendo ser publicadas em ordem de serviço as penas de multa e superiores.
 
 § 1.º As penas de aposentação compulsiva e de demissão serão prèviamente publicadas no Boletim Oficial.
 
 § 2.º Os averbamentos a que se refere o corpo do artigo só serão feitos depois de decorridos os prazos para reclamação ou recurso, ou da decisão final, quando tenham sido interpostos.
 
-###### Art. 34.º Todas as penas não superiores à de suspensão serão anuladas dez anos depois de terem sido aplicadas, quando o funcionário ou agente, durante esse tempo, não tiver sido punido disciplinarmente nem condenado por qualquer crime. A pena de repreensão será anulada um ano depois de haver sido aplicada se, durante esse tempo, não tiver sido imposta qualquer nova punição.
+Art. 34.º Todas as penas não superiores à de suspensão serão anuladas dez anos depois de terem sido aplicadas, quando o funcionário ou agente, durante esse tempo, não tiver sido punido disciplinarmente nem condenado por qualquer crime. A pena de repreensão será anulada um ano depois de haver sido aplicada se, durante esse tempo, não tiver sido imposta qualquer nova punição.
 
-###### Art. 35.º A pena de prisão será anulada quinze anos depois de ter sido aplicada, se durante esse tempo o funcionário ou agente não tiver sido punido disciplinarmente nem condenado por qualquer crime.
+Art. 35.º A pena de prisão será anulada quinze anos depois de ter sido aplicada, se durante esse tempo o funcionário ou agente não tiver sido punido disciplinarmente nem condenado por qualquer crime.
 
-###### Art. 36.º Salvo os casos previstos nos artigos 34.º e 35.º, as notas das penas disciplinares só podem ser anuladas:
+Art. 36.º Salvo os casos previstos nos artigos 34.º e 35.º, as notas das penas disciplinares só podem ser anuladas:
 
 1.º Por efeito de aministia;
 
 2.º Por efeito de revisão do processo.
 
-###### Art. 37.º Quando qualquer pena for anulada nos termos dos artigos 34.º a 36.º, averbar-se-á no registo correspondente uma contranota, indicando o motivo da anulação.
+Art. 37.º Quando qualquer pena for anulada nos termos dos artigos 34.º a 36.º, averbar-se-á no registo correspondente uma contranota, indicando o motivo da anulação.
 
 § único. Nas notas extraídas dos registos de matrícula não se fará menção dos castigos anulados nem da contranota que os anulou.
 
-###### Art. 38.º As disposições dos artigos 34.º e 35.º aplicam-se às penas disciplinares que foram impostas nos termos dos regulamentos disciplinares anteriores.
+Art. 38.º As disposições dos artigos 34.º e 35.º aplicam-se às penas disciplinares que foram impostas nos termos dos regulamentos disciplinares anteriores.
 
 #### SECÇÃO III — Factos a que são aplicáveis as penas
 
-###### Art. 39.º As penas de repreensão são aplicáveis por faltas leves de serviço e sempre no intuito do aperfeiçoamento profissional do funcionário ou agente, da melhoria da disciplina e dos serviços.
+Art. 39.º As penas de repreensão são aplicáveis por faltas leves de serviço e sempre no intuito do aperfeiçoamento profissional do funcionário ou agente, da melhoria da disciplina e dos serviços.
 
-###### Art. 40.º As penas de multa, ronda, guarda, patrulha, piquete ou turno de serviço são aplicáveis, em geral, nos casos de negligência ou má compreensão dos deveres profissionais, especiais ou de disciplina.
+Art. 40.º As penas de multa, ronda, guarda, patrulha, piquete ou turno de serviço são aplicáveis, em geral, nos casos de negligência ou má compreensão dos deveres profissionais, especiais ou de disciplina.
 
 § único. Estas penas são especialmente aplicáveis aos funcionários e agentes:
 
@@ -527,7 +531,7 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 6.º Que nas relações com o público faltarem aos seus deveres de cortesia.
 
-###### Art. 41.º As penas de detenção, suspensão e prisão são, em geral, aplicáveis nos seguintes casos:
+Art. 41.º As penas de detenção, suspensão e prisão são, em geral, aplicáveis nos seguintes casos:
 
 1.º Negligência grave que mostre falta de zelo pelo serviço;
 
@@ -551,7 +555,7 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 11.º Desobediência às ordens dos superiores sem consequências graves ou falta de respeito para com superior hierárquico que possa ser considerada leve.
 
-###### Art. 42.º As penas de aposentação compulsiva e de demissão, além dos casos em que a lei expressamente as comina, são, em geral, aplicáveis aos casos de:
+Art. 42.º As penas de aposentação compulsiva e de demissão, além dos casos em que a lei expressamente as comina, são, em geral, aplicáveis aos casos de:
 
 1.º Agressão, injúria ou desrespeito grave a superior hierárquico nos locais de serviço ou em público;
 
@@ -589,13 +593,13 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 § 2.º A pena de aposentação compulsiva só poderá ser aplicada aos funcionários e agentes que reúnam os requisitos legais exigidos para a aposentação voluntária, dispensando-se, porém, o da incapacidade física. Não reunindo aqueles requisitos, será aplicada a pena de demissão.
 
-###### Art. 43.º Para efeitos de graduação das penas serão sempre tomadas em conta as circunstâncias em que a infracção foi cometida, a natureza do serviço e a categoria do infractor.
+Art. 43.º Para efeitos de graduação das penas serão sempre tomadas em conta as circunstâncias em que a infracção foi cometida, a natureza do serviço e a categoria do infractor.
 
 § único. A falta é tanto mais grave quanto mais elevada é a graduação daquele que a praticou.
 
-###### Art. 44.º Não pode aplicar-se ao mesmo funcionário ou agente mais de uma pena disciplinar por cada infracção ou pelas infracções acumuladas que sejam apreciadas num só processo.
+Art. 44.º Não pode aplicar-se ao mesmo funcionário ou agente mais de uma pena disciplinar por cada infracção ou pelas infracções acumuladas que sejam apreciadas num só processo.
 
-###### Art. 45.º São circunstâncias atenuantes da responsabilidade disciplinar:
+Art. 45.º São circunstâncias atenuantes da responsabilidade disciplinar:
 
 1.ª A prestação de serviços relevantes à sociedade;
 
@@ -619,7 +623,7 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 § único. Não será considerada como atenuante da falta cometida a alegação do desconhecimento das disposições regulamentares ou das instruções de carácter permanente.
 
-###### Art. 46.º São circunstâncias agravantes da responsabilidade disciplinar:
+Art. 46.º São circunstâncias agravantes da responsabilidade disciplinar:
 
 1.ª Ser a infracção cometida em ocasião de rebelião contra os poderes constituídos ou de alteração grave da ordem pública;
 
@@ -645,7 +649,7 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 ### CAPÍTULO III — Classes de comportamento
 
-###### Art. 47.º Os funcionários e agentes serão, segundo o seu comportamento, agrupados em quatro classes, a que correspondem:
+Art. 47.º Os funcionários e agentes serão, segundo o seu comportamento, agrupados em quatro classes, a que correspondem:
 
 1.ª classe, exemplar;
 
@@ -655,71 +659,71 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 4.ª classe, mau.
 
-###### Art. 48.º São colocados na 1.ª classe de comportamento os funcionários e agentes que desde o seu alistamento e num período mínimo de três anos de serviço efectivo não tenham sofrido qualquer punição averbada e dos quais nada conste no seu registo criminal.
+Art. 48.º São colocados na 1.ª classe de comportamento os funcionários e agentes que desde o seu alistamento e num período mínimo de três anos de serviço efectivo não tenham sofrido qualquer punição averbada e dos quais nada conste no seu registo criminal.
 
 § único. Os funcionários e agentes a que se refere este artigo não podem, em caso algum, regressar à 1.ª classe de comportamento desde que sofram qualquer punição que deva ser averbada.
 
-###### Art. 49.º São colocados na 2.ª classe de comportamento os funcionários e agentes em seguida ao seu alistamento e os que estiverem na 1.ª classe logo que lhes seja imposta qualquer pena averbada inferior a dez dias de detenção.
+Art. 49.º São colocados na 2.ª classe de comportamento os funcionários e agentes em seguida ao seu alistamento e os que estiverem na 1.ª classe logo que lhes seja imposta qualquer pena averbada inferior a dez dias de detenção.
 
-###### Art. 50.º São colocados na 3.ª classe de comportamento os funcionários e agentes a quem desde a sua última classificação até à classificação imediata forem impostas punições cujo somatório seja equivalente a dez dias de detenção.
+Art. 50.º São colocados na 3.ª classe de comportamento os funcionários e agentes a quem desde a sua última classificação até à classificação imediata forem impostas punições cujo somatório seja equivalente a dez dias de detenção.
 
-###### Art. 51.º São colocados na 4.ª classe de comportamento os funcionários e agentes de 3.ª classe a quem desde a sua última classificação até à classificação imediata forem impostas punições cujo somatório seja equivalente a vinte dias de detenção.
+Art. 51.º São colocados na 4.ª classe de comportamento os funcionários e agentes de 3.ª classe a quem desde a sua última classificação até à classificação imediata forem impostas punições cujo somatório seja equivalente a vinte dias de detenção.
 
-###### Art. 52.º Os funcionários e agentes da 1.ª classe de comportamento baixam imediatamente à 3.ª classe quando lhes for imposta qualquer pena que por si ou sua equivalência seja igual ou superior a 10 dias de detenção, mas inferior a 30 da mesma pena, e à 4.ª classe quando lhes for imposta qualquer pena que, por si ou sua equivalência, seja igual ou superior a 30 dias de detenção.
+Art. 52.º Os funcionários e agentes da 1.ª classe de comportamento baixam imediatamente à 3.ª classe quando lhes for imposta qualquer pena que por si ou sua equivalência seja igual ou superior a 10 dias de detenção, mas inferior a 30 da mesma pena, e à 4.ª classe quando lhes for imposta qualquer pena que, por si ou sua equivalência, seja igual ou superior a 30 dias de detenção.
 
-###### Art. 53.º Baixam imediatamente à 3.ª classe de comportamento os funcionários e agentes da 2.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a 10 dias de detenção, mas inferior a 30 dias da mesma pena.
+Art. 53.º Baixam imediatamente à 3.ª classe de comportamento os funcionários e agentes da 2.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a 10 dias de detenção, mas inferior a 30 dias da mesma pena.
 
-###### Art. 54.º Baixam imediatamente à 4.ª classe de comportamento os funcionários e agentes da 3.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a 20 dias de detenção, e os da 2.ª classe quando lhes seja imposta pena de 30 dias de detenção, ou igual ou superior por equivalência.
+Art. 54.º Baixam imediatamente à 4.ª classe de comportamento os funcionários e agentes da 3.ª classe a quem tenha sido aplicada uma punição que, por si ou sua equivalência, seja igual ou superior a 20 dias de detenção, e os da 2.ª classe quando lhes seja imposta pena de 30 dias de detenção, ou igual ou superior por equivalência.
 
-###### Art. 55.º Os funcionários e agentes classificados na 3.ª classe de comportamento ascendem à 2.ª classe quando nos seis meses decorridos depois da última classificação não lhes tenha sido imposta pena alguma.
+Art. 55.º Os funcionários e agentes classificados na 3.ª classe de comportamento ascendem à 2.ª classe quando nos seis meses decorridos depois da última classificação não lhes tenha sido imposta pena alguma.
 
 § único. Exceptuam-se desta disposição e ascenderão à 2.ª classe de comportamento antes de decorrido aquele período os funcionários e agentes que tenham prestado algum serviço extraordinário pelo qual tenham sido louvados individualmente em ordem de serviço do Comando-Geral.
 
-###### Art. 56.º Os funcionários e agentes que, nos termos do artigo 51.º, tenham sido classificados na 4.ª classe de comportamento ascendem à 3.ª classe quando, decorridos seis meses depois da última classificação, não lhes tenham sido impostas punições que, por si ou suas equivalências, sejam iguais ou superiores a três dias de detenção.
+Art. 56.º Os funcionários e agentes que, nos termos do artigo 51.º, tenham sido classificados na 4.ª classe de comportamento ascendem à 3.ª classe quando, decorridos seis meses depois da última classificação, não lhes tenham sido impostas punições que, por si ou suas equivalências, sejam iguais ou superiores a três dias de detenção.
 
-###### Art. 57.º Os funcionários e agentes que, nos termos dos artigos 52.º a 54.º, baixarem de classe ascendem à classe imediatamente superior decorridos seis meses, a contar da data em que baixaram, se satisfizerem às condições dos dois artigos anteriores. Só podem ascender novamente na classificação feita nos termos do artigo seguinte.
+Art. 57.º Os funcionários e agentes que, nos termos dos artigos 52.º a 54.º, baixarem de classe ascendem à classe imediatamente superior decorridos seis meses, a contar da data em que baixaram, se satisfizerem às condições dos dois artigos anteriores. Só podem ascender novamente na classificação feita nos termos do artigo seguinte.
 
 § único. Ascendem imediatamente à 2.ª classe de comportamento os funcionários e agentes cujos registos disciplinares tenham sido cancelados por efeito de amnistia.
 
-###### Art. 58.º Nos primeiros quinze dias de Janeiro e Julho serão organizados, com referência a 31 de Dezembro e 30 de Junho, mapas demonstrativos da classificação de comportamento de todo o pessoal, os quais serão afixados nos respectivos comandos ou serviços. Os interessados, no prazo de três dias, podem apresentar as suas reclamações perante o respectivo comandante-geral, que as decidirá e mandará publicar a classificação definitiva em ordem de serviço.
+Art. 58.º Nos primeiros quinze dias de Janeiro e Julho serão organizados, com referência a 31 de Dezembro e 30 de Junho, mapas demonstrativos da classificação de comportamento de todo o pessoal, os quais serão afixados nos respectivos comandos ou serviços. Os interessados, no prazo de três dias, podem apresentar as suas reclamações perante o respectivo comandante-geral, que as decidirá e mandará publicar a classificação definitiva em ordem de serviço.
 
 § único. A primeira classificação será feita com referência a 30 de Junho de 1968 e substituirá as classes de comportamento averbadas até àquela data que não estejam de harmonia com o presente Regulamento.
 
-###### Art. 59.º As condições de exemplar ou 1.ª classe de comportamento exigidas pelos regulamentos de promoções em vigor passam a corresponder, respectivamente, às 1.ª e 2.ª classes de comportamento estabelecidas por este Regulamento.
+Art. 59.º As condições de exemplar ou 1.ª classe de comportamento exigidas pelos regulamentos de promoções em vigor passam a corresponder, respectivamente, às 1.ª e 2.ª classes de comportamento estabelecidas por este Regulamento.
 
 ### CAPÍTULO IV — Da competência disciplinar
 
-###### Art. 60.º Qualquer graduado pode admoestar ou elogiar um seu inferior por actos por este praticados que não devam ser punidos nem recompensados nos termos deste Regulamento.
+Art. 60.º Qualquer graduado pode admoestar ou elogiar um seu inferior por actos por este praticados que não devam ser punidos nem recompensados nos termos deste Regulamento.
 
 § 1.º A admoestação é verbal, dada sempre em particular, não é publicada nem averbada e não produz quaisquer efeitos.
 
 § 2.º Nenhum funcionário, seja qual for a sua graduação, poderá admoestar ou elogiar qualquer inferior na presença de um superior seu sem prèviamente lhe pedir autorização.
 
-###### Art. 61.º A competência disciplinar, quer para a imposição de penas, quer para a concessão de recompensas, pertence aos superiores hierárquicos, de harmonia com os quadros anexos a este regulamento.
+Art. 61.º A competência disciplinar, quer para a imposição de penas, quer para a concessão de recompensas, pertence aos superiores hierárquicos, de harmonia com os quadros anexos a este regulamento.
 
 § 1.º A competência disciplinar dos superiores envolve sempre a dos inferiores hierárquicos.
 
 § 2.º O funcionário que, em virtude de quaisquer circunstâncias, assumir o comando ou a chefia ou exercer o cargo pertencente a outro de categoria superior terá, enquanto durar aquela situação, a competência disciplinar correspondente.
 
-###### Art. 62.º O superior que tenha de recompensar ou punir um inferior por acto a que julgue corresponder recompensa ou pena superior à sua competência participará o facto por escrito ao superior imediato, o qual recompensará ou punirá ou ordenará que o participante use da sua competência.
+Art. 62.º O superior que tenha de recompensar ou punir um inferior por acto a que julgue corresponder recompensa ou pena superior à sua competência participará o facto por escrito ao superior imediato, o qual recompensará ou punirá ou ordenará que o participante use da sua competência.
 
-###### Art. 63.º Os funcionários e agentes da Polícia de Segurança Pública que tenham presenciado ou que oficialmente tenham conhecimento de factos merecedores de recompensa ou faltas praticadas por pessoal que não lhes esteja directamente subordinado devem participar o facto superiormente.
+Art. 63.º Os funcionários e agentes da Polícia de Segurança Pública que tenham presenciado ou que oficialmente tenham conhecimento de factos merecedores de recompensa ou faltas praticadas por pessoal que não lhes esteja directamente subordinado devem participar o facto superiormente.
 
 § único. As participações devem ser remetidas, em confidencial, ao superior hierárquico competente para proceder ou mandar proceder a averiguações.
 
-###### Art. 64.º O superior pode intimar ordem de prisão ou de detenção aos inferiores, quando assim o exigirem as conveniências do serviço e da disciplina, dando imediato conhecimento da decisão tomada ao comando de que dependa.
+Art. 64.º O superior pode intimar ordem de prisão ou de detenção aos inferiores, quando assim o exigirem as conveniências do serviço e da disciplina, dando imediato conhecimento da decisão tomada ao comando de que dependa.
 
 § único. O superior que tiver de usar de meios extraordinários para manter a disciplina participará logo, por escrito e pelas vias competentes, ao comando de que dependa, os factos praticados pelo inferior e os meios que empregou para a sua repressão.
 
-###### Art. 65.º O superior poderá determinar a qualquer subordinado que, dentro da sua competência, puna ou recompense actos disso merecedores, mesmo que não tenham sido por si verificados.
+Art. 65.º O superior poderá determinar a qualquer subordinado que, dentro da sua competência, puna ou recompense actos disso merecedores, mesmo que não tenham sido por si verificados.
 
-###### Art. 66.º O superior que usar da sua competência disciplinar comunicará por escrito, ao comando de que dependa a pena aplicada, para os efeitos do artigo 68.º deste Regulamento. A publicação em ordem de serviço dispensa qualquer outra comunicação.
+Art. 66.º O superior que usar da sua competência disciplinar comunicará por escrito, ao comando de que dependa a pena aplicada, para os efeitos do artigo 68.º deste Regulamento. A publicação em ordem de serviço dispensa qualquer outra comunicação.
 
-###### Art. 67.º O funcionário ou agente que praticar qualquer acto pelo qual deva ser recompensado ou punido, sê-lo-á sempre pelo comandante ou chefe do serviço de que dependia, mesmo que já não se encontre sob as suas ordens.
+Art. 67.º O funcionário ou agente que praticar qualquer acto pelo qual deva ser recompensado ou punido, sê-lo-á sempre pelo comandante ou chefe do serviço de que dependia, mesmo que já não se encontre sob as suas ordens.
 
 § único. Nos casos em que o funcionário ou agente pertença a outro comando ou serviço, a entidade que recompensar ou punir dará imediato conhecimento da sua decisão ao respectivo comando ou chefia.
 
-###### Art. 68.º O comandante-geral, o 2.º comandante, o chefe do estado-maior, os comandantes distritais e os comandantes de companhia e esquadrão independentes têm a faculdade de atenuar, agravar ou substituir as penas impostas pelos seus subordinados e a de alterar ou anular as recompensas concedidas ou propostas por estes, quando reconheçam a conveniência disciplinar de usar dessa faculdade.
+Art. 68.º O comandante-geral, o 2.º comandante, o chefe do estado-maior, os comandantes distritais e os comandantes de companhia e esquadrão independentes têm a faculdade de atenuar, agravar ou substituir as penas impostas pelos seus subordinados e a de alterar ou anular as recompensas concedidas ou propostas por estes, quando reconheçam a conveniência disciplinar de usar dessa faculdade.
 
 § único. O comandante-geral poderá, para solenizar qualquer feriado nacional, facto notável ou data histórica, determinar o não cumprimento total ou parcial das penas impostas por si ou pelos seus subordinados por faltas cometidas até ao dia em que esta determinação for publicada em ordem de serviço.
 
@@ -727,23 +731,23 @@ As do Estatuto do Funcionalismo Ultramarino.
 
 #### SECÇÃO I — Princípios fundamentais
 
-###### Art. 69.º As penas de repreensão, multas, rondas, patrulhas, guardas, piquetes e detenção podem ser aplicadas sem dependência de processo disciplinar, mas com audiência do infractor, de viva voz ou por escrito.
+Art. 69.º As penas de repreensão, multas, rondas, patrulhas, guardas, piquetes e detenção podem ser aplicadas sem dependência de processo disciplinar, mas com audiência do infractor, de viva voz ou por escrito.
 
-###### Art. 70.º As penas de suspensão e mais graves só serão aplicadas mediante processo disciplinar, salvo o disposto no artigo 78.º
+Art. 70.º As penas de suspensão e mais graves só serão aplicadas mediante processo disciplinar, salvo o disposto no artigo 78.º
 
 § único. São competentes para instaurar ou mandar instaurar processo disciplinar contra os respectivos subordinados os oficiais e os agentes de polícia de categoria igual ou superior a comissário, quando exerçam funções de comando.
 
-###### Art. 71.º O processo disciplinar é sempre sumário, não depende de formalidades especiais e deve ser conduzido de modo a levar ao rápido apuramento da verdade, empregando-se todos os meios necessários para a sua pronta conclusão e dispensando-se tudo o que for inútil, impertinente ou dilatório.
+Art. 71.º O processo disciplinar é sempre sumário, não depende de formalidades especiais e deve ser conduzido de modo a levar ao rápido apuramento da verdade, empregando-se todos os meios necessários para a sua pronta conclusão e dispensando-se tudo o que for inútil, impertinente ou dilatório.
 
-###### Art. 72.º O processo disciplinar é sempre de natureza confidencial, seja qual for a fase em que se encontre, salvo para o arguido, que poderá consultá-lo, nos termos dos §§ 1.º e 2.º do artigo 74.º
+Art. 72.º O processo disciplinar é sempre de natureza confidencial, seja qual for a fase em que se encontre, salvo para o arguido, que poderá consultá-lo, nos termos dos §§ 1.º e 2.º do artigo 74.º
 
 § único. Só é permitida a passagem de certidões de peças do processo disciplinar quando requeridas pelos respectivos interessados, ùnicamente destinadas à defesa dos seus legítimos interesses, sendo sempre proibida, sob pena de desobediência, a sua publicação.
 
-###### Art. 73.º O processo disciplinar, desde que não resulte de observação directa dos factos puníveis pelos superiores com competência para aplicação das respectivas penas, só pode ter como fundamento participação ou queixa devidamente testemunhada ou despacho exarado em processo de averiguações.
+Art. 73.º O processo disciplinar, desde que não resulte de observação directa dos factos puníveis pelos superiores com competência para aplicação das respectivas penas, só pode ter como fundamento participação ou queixa devidamente testemunhada ou despacho exarado em processo de averiguações.
 
 § único. Exceptuam-se as faltas verificadas pelos superiores hierárquicos no exercício das suas funções, em relação às quais será dispensada a indicação de testemunhas sempre que não seja possível obtê-las.
 
-###### Art. 74.º O processo disciplinar será instruído por um oficial ou agente de polícia de categoria superior à do arguido ou mais antigo na categoria, servindo de secretário ou escrivão, sempre que possível, um funcionário ou agente de categoria não inferior à do arguido, e compreenderá:
+Art. 74.º O processo disciplinar será instruído por um oficial ou agente de polícia de categoria superior à do arguido ou mais antigo na categoria, servindo de secretário ou escrivão, sempre que possível, um funcionário ou agente de categoria não inferior à do arguido, e compreenderá:
 
 a) Queixa, participação ou documento que motivou a instrução;
 
@@ -779,13 +783,13 @@ h) Despacho, no prazo de cinco dias, do comando ou chefia do serviço a que pert
 
 § 7.º Pela acusação e pela defesa não poderão ser dadas mais de três testemunhas por cada facto. Exceptuam-se os casos, devidamente justificados, em que sejam indispensáveis mais para melhor esclarecimento.
 
-###### Art. 75.º O procedimento disciplinar é independente do procedimento criminal no que respeita à aplicação das penas disciplinares.
+Art. 75.º O procedimento disciplinar é independente do procedimento criminal no que respeita à aplicação das penas disciplinares.
 
 § 1.º Sempre que em processo disciplinar se apure a existência de infracção que à face da lei penal seja também punível, extrair-se-ão as certidões necessárias, que serão remetidas à entidade competente para mandar proceder a corpo de delito.
 
 § 2.º Sempre que em autos de corpo de delito se verifique a inexistência de responsabilidade criminal mas houver motivo para procedimento disciplinar, serão aqueles remetidos à autoridade competente para procedimento.
 
-###### Art. 76.º O funcionário ou agente arguido em processo disciplinar poderá, sob proposta do instrutor e por despacho do governador da província ou do comandante-geral, conforme a competência, ser preventivamente suspenso de funções, sem vencimento ou com parte dele até 50 por cento. Poderá ainda ser-lhe fixada residência ou preso, incomunicável ou não, segundo a gravidade da acusação.
+Art. 76.º O funcionário ou agente arguido em processo disciplinar poderá, sob proposta do instrutor e por despacho do governador da província ou do comandante-geral, conforme a competência, ser preventivamente suspenso de funções, sem vencimento ou com parte dele até 50 por cento. Poderá ainda ser-lhe fixada residência ou preso, incomunicável ou não, segundo a gravidade da acusação.
 
 § 1.º A suspensão ou a prisão preventiva não poderão durar mais de 30 dias, salvo casos especiais devidamente justificados, em que a suspensão poderá ser prorrogada até 90 dias, por despacho de quem a tiver ordenado.
 
@@ -795,23 +799,23 @@ h) Despacho, no prazo de cinco dias, do comando ou chefia do serviço a que pert
 
 § 4.º A perda de vencimento resultante das situações previstas no corpo do artigo será totalmente reparada se o funcionário ou agente for absolvido; sendo aposentado compulsivamente ou demitido, não haverá reparação de vencimentos.
 
-###### Art. 77.º A falta de audiência do arguido constitui a única nulidade insuprível em processo disciplinar.
+Art. 77.º A falta de audiência do arguido constitui a única nulidade insuprível em processo disciplinar.
 
 § único. Sempre que haja vários processos disciplinares pendentes contra o mesmo arguido deverá fazer-se a apensação de todos ao mais antigo, para apreciação conjunta.
 
-###### Art. 78.º As infracções de disciplina que sejam directamente presenciadas por um oficial em serviço na Polícia de Segurança Pública, com competência disciplinar sobre o infractor e dentro dela, poderão ser punidas por si, mediante simples audiência daquele, de viva voz ou por escrito.
+Art. 78.º As infracções de disciplina que sejam directamente presenciadas por um oficial em serviço na Polícia de Segurança Pública, com competência disciplinar sobre o infractor e dentro dela, poderão ser punidas por si, mediante simples audiência daquele, de viva voz ou por escrito.
 
 § único. Se o oficial não tiver competência disciplinar para punir o infractor, poderá a correspondente participação ser atendida pela entidade competente, sem dependência de averiguações ou testemunho exterior.
 
-###### Art. 79.º O superior que use da sua competência disciplinar nos casos do artigo anterior e seu § único deverá:
+Art. 79.º O superior que use da sua competência disciplinar nos casos do artigo anterior e seu § único deverá:
 
 1.º Ouvir o infractor, de viva voz ou por escrito, ou mandá-lo ouvir por um oficial, ou, na falta deste, por um agente de polícia de categoria não inferior à do infractor, mas nunca inferior a chefe de esquadra, acerca da falta cometida e dos motivos que lhe deram causa, do que será apresentado sempre relatório.
 
 2.º Descrever, de forma sumária, a falta ou faltas cometidas e aplicar a punição proporcionada nos termos, respectivamente, dos n.os 1.º e 2.º do § 3.º do artigo 74.º deste Regulamento.
 
-###### Art. 80.º O participante de uma infracção disciplinar deve procurar esclarecer-se prèviamente acerca dos pormenores que a caracterizaram e relatá-la com toda a verdade, sem paixão e ressentimento.
+Art. 80.º O participante de uma infracção disciplinar deve procurar esclarecer-se prèviamente acerca dos pormenores que a caracterizaram e relatá-la com toda a verdade, sem paixão e ressentimento.
 
-###### Art. 81.º O direito de exigir responsabilidade disciplinar em que qualquer funcionário ou agente haja incorrido prescreve passados cinco anos sobre a data em que a falta tiver sido cometida, salvo o disposto nos parágrafos seguintes:
+Art. 81.º O direito de exigir responsabilidade disciplinar em que qualquer funcionário ou agente haja incorrido prescreve passados cinco anos sobre a data em que a falta tiver sido cometida, salvo o disposto nos parágrafos seguintes:
 
 § 1.º Se o facto classificado de infracção disciplinar for também considerado infracção penal, aplicar-se-ão ao procedimento disciplinar os prazos estabelecidos pelo Código Penal.
 
@@ -819,7 +823,7 @@ h) Despacho, no prazo de cinco dias, do comando ou chefia do serviço a que pert
 
 #### SECÇÃO II — Reclamações, recursos e queixas
 
-###### Art. 82.º O funcionário ou agente que considerar injusta a pena disciplinar que lhe tiver sido imposta pode reclamar ou recorrer dela nos seguintes casos:
+Art. 82.º O funcionário ou agente que considerar injusta a pena disciplinar que lhe tiver sido imposta pode reclamar ou recorrer dela nos seguintes casos:
 
 1.º Quando entenda não haver cometido a falta;
 
@@ -831,23 +835,23 @@ h) Despacho, no prazo de cinco dias, do comando ou chefia do serviço a que pert
 
 5.º Quando a descrição da infracção ou a redacção da punição não corresponderem à falta cometida.
 
-###### Art. 83.º A reclamação deve ser singular e dirigida, por escrito, em termos respeitosos, ao superior que impôs a pena, dentro do prazo de cinco dias, a contar da data em que o infractor foi notificado da punição ou tomou conhecimento da ordem de serviço que a publicou.
+Art. 83.º A reclamação deve ser singular e dirigida, por escrito, em termos respeitosos, ao superior que impôs a pena, dentro do prazo de cinco dias, a contar da data em que o infractor foi notificado da punição ou tomou conhecimento da ordem de serviço que a publicou.
 
-###### Art. 84.º Da decisão das reclamações há recurso para o comandante-geral, que resolve em definitivo. Das decisões deste em 1.ª instância cabe recurso para o governador da província. Das penas de aposentação compulsiva e de demissão haverá recurso para o Ministro, observando-se o disposto nos §§ 2.º, 3.º e 4.º do artigo 415.º do Estatuto do Funcionalismo Ultramarino.
+Art. 84.º Da decisão das reclamações há recurso para o comandante-geral, que resolve em definitivo. Das decisões deste em 1.ª instância cabe recurso para o governador da província. Das penas de aposentação compulsiva e de demissão haverá recurso para o Ministro, observando-se o disposto nos §§ 2.º, 3.º e 4.º do artigo 415.º do Estatuto do Funcionalismo Ultramarino.
 
 § 1.º Salvo os casos referidos na parte final do corpo do artigo, os recursos serão interpostos, no prazo de quinze dias, a contar da data em que o infractor foi notificado da decisão ou daquela em que tomou conhecimento da ordem de serviço que a publicou, por meio de requerimento em que se exporão todos os fundamentos e que será acompanhado dos elementos de prova existentes.
 
 § 2.º O recorrente, ou quem legìtimamente o represente, nos termos do § 2.º do artigo 74.º, tem direito a consultar o processo nas condições previstas no § 1.º do mesmo artigo.
 
-###### Art. 85.º O superior tem por dever atender, como for de justiça, as reclamações que lhe forem feitas ou dar seguimento, no prazo máximo de dez dias, aos recursos que devam ser resolvidos por autoridade superior, ouvindo o reclamante e fazendo ou mandando fazer todas as diligências necessárias para o esclarecimento da verdade.
+Art. 85.º O superior tem por dever atender, como for de justiça, as reclamações que lhe forem feitas ou dar seguimento, no prazo máximo de dez dias, aos recursos que devam ser resolvidos por autoridade superior, ouvindo o reclamante e fazendo ou mandando fazer todas as diligências necessárias para o esclarecimento da verdade.
 
 § 1.º O averiguante procederá às diligências que julgar convenientes, concluindo sempre por apresentar um relatório com o seu parecer acerca do fundamento da reclamação ou do recurso.
 
 § 2.º Quando manifestamente se reconheça que não houve fundamento para a reclamação ou recurso ou se mostre que houve propósito malicioso da parte do reclamante ou do recorrente na sua apresentação, o funcionário ou agente que tiver recorrido àqueles meios será punido disciplinarmente, cabendo a iniciativa para esse efeito às autoridades a quem forem dirigidas as reclamações ou os recursos.
 
-###### Art. 86.º Se do processo resultar que a injustiça da punição ou do indeferimento da reclamação tiveram origem na inexactidão intencional ou culposa de informações ou declarações, proceder-se-á disciplinarmente contra o autor das mesmas, sem prejuízo da responsabilidade criminal que possa ser exigida.
+Art. 86.º Se do processo resultar que a injustiça da punição ou do indeferimento da reclamação tiveram origem na inexactidão intencional ou culposa de informações ou declarações, proceder-se-á disciplinarmente contra o autor das mesmas, sem prejuízo da responsabilidade criminal que possa ser exigida.
 
-###### Art. 87.º É admitida a revisão dos processos disciplinares quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inexistência dos factos que decisivamente influíram na condenação e que não pudessem ter sido utilizados pelo arguido na defesa ou no recurso.
+Art. 87.º É admitida a revisão dos processos disciplinares quando se verifiquem circunstâncias ou meios de prova susceptíveis de demonstrar a inexistência dos factos que decisivamente influíram na condenação e que não pudessem ter sido utilizados pelo arguido na defesa ou no recurso.
 
 § 1.º A revisão deve ser solicitada no prazo de 90 dias, a partir do conhecimento das circunstâncias ou dos meios de prova a que se refere o corpo do artigo.
 
@@ -859,13 +863,13 @@ h) Despacho, no prazo de cinco dias, do comando ou chefia do serviço a que pert
 
 § 5.º A revisão do processo disciplinar não suspende o cumprimento da pena que tenha sido aplicada, mas, se a revisão for julgada procedente, no todo ou em parte, o funcionário ou agente será indemnizado do vencimento que houver perdido ou do tempo que lhe tenha sido descontado.
 
-###### Art. 88.º A todo o funcionário ou agente assiste o direito de queixa contra o superior, quando por este for praticado qualquer acto de que resulte para o queixoso lesão de direitos prescritos nas leis e regulamentos.
+Art. 88.º A todo o funcionário ou agente assiste o direito de queixa contra o superior, quando por este for praticado qualquer acto de que resulte para o queixoso lesão de direitos prescritos nas leis e regulamentos.
 
 § único. A queixa é independente de autorização mas antecedida pela comunicação do queixoso àquele de quem tenha de se queixar e será singular, feita por escrito, em termos respeitosos, no prazo de 48 horas, e entregue ou enviada ao comandante ou chefe de serviço sob cujas ordens o acusado servir. Das decisões cabe recurso, nos termos do artigo 84.º deste Regulamento.
 
 #### SECÇÃO III — Conselho de Disciplina
 
-###### Art. 89.º Haverá junto do Comando-Geral da Polícia de Segurança Pública um Conselho de Disciplina, como órgão consultivo, constituído por cinco membros, a nomear anualmente pelo governador da província, sob proposta do comandante-geral. Do Conselho farão parte, pelo menos, três oficiais em serviço no corpo e, sempre que possível, um oficial superior, que presidirá.
+Art. 89.º Haverá junto do Comando-Geral da Polícia de Segurança Pública um Conselho de Disciplina, como órgão consultivo, constituído por cinco membros, a nomear anualmente pelo governador da província, sob proposta do comandante-geral. Do Conselho farão parte, pelo menos, três oficiais em serviço no corpo e, sempre que possível, um oficial superior, que presidirá.
 
 § 1.º O Conselho de Disciplina será secretariado por um comissário-chefe, comissário-chefe de secretaria ou primeiro-oficial, sem direito a voto, nomeado anualmente pelo comandante-geral.
 
@@ -873,11 +877,11 @@ h) Despacho, no prazo de cinco dias, do comando ou chefia do serviço a que pert
 
 § 3.º Nas províncias onde não seja possível dar ao Conselho de Disciplina a constituição prevista no corpo do artigo poderão os respectivos governadores nomear funcionários de categorias diferentes, da Polícia de Segurança Pública ou de outros serviços, se aquela os não tiver em número suficiente.
 
-###### Art. 90.º O Conselho de Disciplina reunirá por determinação do comandante-geral ou por convocação do respectivo presidente e as suas deliberações serão tomadas por maioria de votos. Nenhum membro poderá assinar vencido sem justificar, por escrito, a razão do seu voto.
+Art. 90.º O Conselho de Disciplina reunirá por determinação do comandante-geral ou por convocação do respectivo presidente e as suas deliberações serão tomadas por maioria de votos. Nenhum membro poderá assinar vencido sem justificar, por escrito, a razão do seu voto.
 
 § único. Nos casos de empate na votação, o presidente terá voto de qualidade.
 
-###### Art. 91.º É da competência do Conselho de Disciplina:
+Art. 91.º É da competência do Conselho de Disciplina:
 
 a) Apreciar os processos dos funcionários e agentes de nomeação provisória que tenham atingido a 4.ª classe de comportamento e dar parecer sobre se os mesmos devem ou não ser reconduzidos ou nomeados definitivamente;
 
@@ -901,19 +905,19 @@ g) Emitir parecer nos processos de promoção por escolha que lhe sejam presente
 
 h) Emitir parecer sobre todos os assuntos de natureza disciplinar ou outros submetidos à sua consulta.
 
-###### Art. 92.º As actas das sessões do Conselho de Disciplina serão lavradas em livro próprio, que terá termos de abertura e de encerramento, assinados pelo comandante-geral.
+Art. 92.º As actas das sessões do Conselho de Disciplina serão lavradas em livro próprio, que terá termos de abertura e de encerramento, assinados pelo comandante-geral.
 
 § único. Das actas devem constar, na íntegra, todos os factos que ocorrerem no decurso das sessões e serão lavradas pelo secretário e assinadas por todos o membros do Conselho.
 
 ### CAPÍTULO VI — Disposições diversas
 
-###### Art. 93.º A competência para a concessão de recompensas ou para a imposição de penas ao pessoal destacado noutros serviços pertence aos respectivos superiores hierárquicos da Polícia de Segurança Pública, pela forma estabelecida neste Regulamento.
+Art. 93.º A competência para a concessão de recompensas ou para a imposição de penas ao pessoal destacado noutros serviços pertence aos respectivos superiores hierárquicos da Polícia de Segurança Pública, pela forma estabelecida neste Regulamento.
 
-###### Art. 94.º Para efeitos de aplicação do Regulamento de Disciplina Militar aos oficiais em serviço na Polícia de Segurança Pública, é atribuída ao Ministro do Ultramar e aos governadores de provínca, respectivamente, a competência disciplinar das colunas I e II do quadro a que se refere o artigo 79.º daquele Regulamento.
+Art. 94.º Para efeitos de aplicação do Regulamento de Disciplina Militar aos oficiais em serviço na Polícia de Segurança Pública, é atribuída ao Ministro do Ultramar e aos governadores de provínca, respectivamente, a competência disciplinar das colunas I e II do quadro a que se refere o artigo 79.º daquele Regulamento.
 
-###### Art. 95.º Para efeitos de aplicação deste Regulamento, é atribuída aos chefes do estado-maior e aos comandantes de companhia ou de esquadrão independentes a competência disciplinar de comandantes distritais.
+Art. 95.º Para efeitos de aplicação deste Regulamento, é atribuída aos chefes do estado-maior e aos comandantes de companhia ou de esquadrão independentes a competência disciplinar de comandantes distritais.
 
-###### Art. 96.º São aplicáveis aos agentes de polícia as disposições do Código de Justiça Militar que regulam e punem os crimes de deserção e de extravio de artigos militares.
+Art. 96.º São aplicáveis aos agentes de polícia as disposições do Código de Justiça Militar que regulam e punem os crimes de deserção e de extravio de artigos militares.
 
 § único. Para efeitos de aplicação das disposições referidas no corpo do artigo, são estabelecidas as seguintes equivalências:
 
@@ -923,11 +927,11 @@ h) Emitir parecer sobre todos os assuntos de natureza disciplinar ou outros subm
 
 3.ª Cabos e guardas de todas as classes: soldados.
 
-###### Art. 97.º Os agentes de polícia que, por ausência ilegítima, sejam abrangidos pelas disposições legais relativas à deserção, ficam sujeitos à jurisdição dos tribunais militares, mas apenas se lhes remetendo os processos nos quais o Conselho de Disciplina verifique o intuito de deserção.
+Art. 97.º Os agentes de polícia que, por ausência ilegítima, sejam abrangidos pelas disposições legais relativas à deserção, ficam sujeitos à jurisdição dos tribunais militares, mas apenas se lhes remetendo os processos nos quais o Conselho de Disciplina verifique o intuito de deserção.
 
-###### Art. 98.º A ausência ilegítima começa a contar-se logo que decorram 24 horas a partir do início do primeiro serviço a que o agente tenha faltado.
+Art. 98.º A ausência ilegítima começa a contar-se logo que decorram 24 horas a partir do início do primeiro serviço a que o agente tenha faltado.
 
-###### Art. 99.º Nos casos de ausência ilegítima por período inferior ao necessário para constituir deserção e naqueles em que se decida pelo não envio do processo ao tribunal militar, nos termos da parte final do artigo 97.º deste Regulamento, serão as faltas punidas nos seguintes termos:
+Art. 99.º Nos casos de ausência ilegítima por período inferior ao necessário para constituir deserção e naqueles em que se decida pelo não envio do processo ao tribunal militar, nos termos da parte final do artigo 97.º deste Regulamento, serão as faltas punidas nos seguintes termos:
 
 a) Quatro dias de prisão por cada dia de ausência quando o infractor se ausentar estando ou não no desempenho de serviço para que tenha sido nomeado, ou ainda quando, sem motivo justificado, tiver alterado o itinerário e deixe de se apresentar no ponto do destino dentro do prazo previsto;
 
@@ -937,16 +941,16 @@ c) No caso de a ausência não atingir um período completo de 24 horas, a pena 
 
 § único. Nos casos em que a ausência ilegítima venha a ser justificada, não se aplicarão as penas previstas nas alíneas que antecedem.
 
-###### Art. 100.º Podem ser nomeados provisòriamente, reconduzidos ou nomeados definitivamente os funcionários e agentes que, tendo ultrapassado a 3.ª classe de comportamento, mereçam parecer favorável do Conselho de Disciplina.
+Art. 100.º Podem ser nomeados provisòriamente, reconduzidos ou nomeados definitivamente os funcionários e agentes que, tendo ultrapassado a 3.ª classe de comportamento, mereçam parecer favorável do Conselho de Disciplina.
 
-###### Art. 101.º As referências feitas neste Regulamento ao Comando-Geral e comandante-geral correspondem, nas províncias de governo simples, a comando e comandante dos respectivos Corpos de Polícia de Segurança Pública.
+Art. 101.º As referências feitas neste Regulamento ao Comando-Geral e comandante-geral correspondem, nas províncias de governo simples, a comando e comandante dos respectivos Corpos de Polícia de Segurança Pública.
 
-###### Art. 102.º Ficam os governadores das províncias autorizados a resolver, por despacho ou portaria, as dificuldades emergentes da aplicação deste regulamento.
+Art. 102.º Ficam os governadores das províncias autorizados a resolver, por despacho ou portaria, as dificuldades emergentes da aplicação deste regulamento.
 
 Ministério do Ultramar, 30 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.
 
 QUADROS A QUE SE REFERE O ARTIGO 61.º
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/30201/25612575.pdf))](https://files.diariodarepublica.pt/1s/1967/12/30201/25612575.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/30201/25612575.pdf)
 
 Ministério do Ultramar, 30 de Dezembro de 1967. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

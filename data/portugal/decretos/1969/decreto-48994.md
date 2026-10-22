@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48994-1969-201653
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ede2803cc00a6aba7104fecc09c320bb4693b383f58caef0afa855244478e09e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bb450754273122542beeb907afa9fd6777bc5a3d8dbfb83ee00c68881a6b00d6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:18Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +91,17 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As taxas das subposições 87.12.01 e 87.12.02 da pauta mínima de importação da província de Moçambique são alteradas, respectivamente, para 28$00 e 60$00 por quilograma.
+Artigo 1.º As taxas das subposições 87.12.01 e 87.12.02 da pauta mínima de importação da província de Moçambique são alteradas, respectivamente, para 28$00 e 60$00 por quilograma.
 
-###### Art. 2.º São eliminadas as notas às subposições 87.12.01 e 87.12.02 da pauta mínima de importação da província de Moçambique.
+Art. 2.º São eliminadas as notas às subposições 87.12.01 e 87.12.02 da pauta mínima de importação da província de Moçambique.
 
-###### Art. 3.º O Ministro do Ultramar poderá tornar extensivos a idênticas subposições das pautas mínimas das outras províncias ultramarinas, através de portaria, os direitos estabelecidos pelo artigo 1.º deste diploma.
+Art. 3.º O Ministro do Ultramar poderá tornar extensivos a idênticas subposições das pautas mínimas das outras províncias ultramarinas, através de portaria, os direitos estabelecidos pelo artigo 1.º deste diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 24 de Abril de 1969.**
+Promulgado em 24 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 7 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

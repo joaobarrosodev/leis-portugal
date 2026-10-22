@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48373-1968-271868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-05-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50479013fb4024715ca8ef0db454172b4aa9dff40d8074f5d6dbe1d6029e313b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 598189ef45a9f0d9fbd7633eae5e81a159bca783113dab0cd0f929c4161c3b17
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 45
+  article_count: 6
   section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:13Z'
   warnings: []
   errors: []
 ---
@@ -88,9 +88,9 @@ Feito o respectivo estudo na Comissão de Revisão dos Regulamentos Técnicos e 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento de Pequenas Barragens de Terra, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
+Artigo único. É aprovado o Regulamento de Pequenas Barragens de Terra, que faz parte integrante do presente decreto e com ele baixa assinado pelo Ministro das Obras Públicas.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - José Albino Machado Vaz.
 
@@ -152,55 +152,55 @@ REGULAMENTO DE PEQUENAS BARRAGENS DE TERRA
 
 ###### Artigo 1.º - Objecto.
 
-###### Artigo 2.º - Elaboração dos projectos e direcção técnica das obras.
+Artigo 2.º - Elaboração dos projectos e direcção técnica das obras.
 
-###### Artigo 3.º - Organização dos projectos.
+Artigo 3.º - Organização dos projectos.
 
-###### Artigo 4.º - Aprovação dos projectos.
+Artigo 4.º - Aprovação dos projectos.
 
 ### CAPÍTULO II — Reconhecimento do terreno de fundação e da albufeira
 
-###### Artigo 5.º - Trabalhos de reconhecimento.
+Artigo 5.º - Trabalhos de reconhecimento.
 
-###### Artigo 6.º - Estudo das características do terreno de fundação e da albufeira.
+Artigo 6.º - Estudo das características do terreno de fundação e da albufeira.
 
 ### CAPÍTULO III — Estudo das terras disponíveis para construção
 
-###### Artigo 7.º - Locais de empréstimo.
+Artigo 7.º - Locais de empréstimo.
 
-###### Artigo 8.º - Classificação das terras.
+Artigo 8.º - Classificação das terras.
 
-###### Artigo 9.º - Determinação de características mecânicas.
+Artigo 9.º - Determinação de características mecânicas.
 
 ### CAPÍTULO IV — Projecto
 
-###### Artigo 10.º - Fundações.
+Artigo 10.º - Fundações.
 
-###### Artigo 11.º - Estabilidade dos taludes.
+Artigo 11.º - Estabilidade dos taludes.
 
-###### Artigo 12.º - Largura do coroamento.
+Artigo 12.º - Largura do coroamento.
 
-###### Artigo 13.º - Revestimento dos paramentos.
+Artigo 13.º - Revestimento dos paramentos.
 
 ###### Artigo 14.º - Filtros.
 
-###### Artigo 15.º - Evacuadores de cheias.
+Artigo 15.º - Evacuadores de cheias.
 
 ###### Artigo 16.º - Folga.
 
-###### Artigo 17.º - Descarga de fundo e tomada de água.
+Artigo 17.º - Descarga de fundo e tomada de água.
 
-###### Artigo 18.º - Protecção da piscicultura.
+Artigo 18.º - Protecção da piscicultura.
 
 ### CAPÍTULO V — Construção
 
-###### Artigo 19.º - Saneamento.
+Artigo 19.º - Saneamento.
 
-###### Artigo 20.º - Compactação dos aterros.
+Artigo 20.º - Compactação dos aterros.
 
-###### Artigo 21.º - Contrôle.
+Artigo 21.º - Contrôle.
 
-###### Artigo 22.º - Observação das obras.
+Artigo 22.º - Observação das obras.
 
 ## ANEXO I
 
@@ -228,23 +228,23 @@ O presente Regulamento é aplicável ao projecto e construção de barragens de 
 
 Para as barragens de altura inferior a 8 m ou capacidade de armazenamento menor do que 200000 m3 a Direcção-Geral dos Serviços Hidráulicos poderá dispensar, total ou parcialmente, o cumprimento das disposições estipuladas neste Regulamento.
 
-###### Artigo 2.º - Elaboração dos projectos e direcção técnica das obras
+Artigo 2.º - Elaboração dos projectos e direcção técnica das obras
 
 Os projectos devem ser elaborados por técnicos inscritos na Direcção-Geral dos Serviços Hidráulcios. Em princípio a elaboração dos projectos incumbirá a engenheiros civis. Em relação às obras a que se refere o último parágrafo do artigo 1.º, poderá aquela Direcção-Geral aceitar que os projectos sejam elaborados por engenheiros agrónomos ou agentes técnicos de engenharia civil.
 
 A construção será dirigida por um técnico inscrito na Direcção-Geral dos Serviços Hidráulicos e com as mesmas qualificações requeridas para a elaboração do projecto.
 
-###### Artigo 3.º - Organização dos projectos
+Artigo 3.º - Organização dos projectos
 
 Os projectos devem conter, devidamente organizadas, as peças escritas e desenhadas necessárias para definir completamente a obra e justificar o seu dimensionamento.
 
-###### Artigo 4.º - Aprovação dos projectos
+Artigo 4.º - Aprovação dos projectos
 
 Os projectos devem ser submetidos à aprovação da Direcção-Geral dos Serviços Hidráulicos, de acordo com as leis e regulamentos em vigor sobre o aproveitamento de águas.
 
 ### CAPÍTULO II — Reconhecimento do terreno de fundação e da albufeira
 
-###### Artigo 5.º - Trabalhos de reconhecimento
+Artigo 5.º - Trabalhos de reconhecimento
 
 O reconhecimento do terreno de fundação da barragem deve ser efectuado por valas superficiais e por poços ou sondagens, levados a uma profundidade igual, pelo menos, à máxima altura da obra. O desenvolvimento do reconhecimento deve ser adequado às condições de cada local, nomeadamente ao conhecimento da sua geologia. Em regra, o número de poços ou sondagens não deve ser inferior a três, nem o seu espaçamento maior do que 50 m. Em locais de geologia conhecida, o reconhecimento poderá, porém, limitar-se à identificação das formações ocorrentes.
 
@@ -252,7 +252,7 @@ O reconhecimento deve ainda dar particular atenção à pesquisa de ressurgênci
 
 A existência de camadas impermeáveis de suficiente espessura a profundidade econòmicamente acessível deve também ser objecto de especial averiguação, pois no projecto pode ser tirado importante partido de tais camadas.
 
-###### Artigo 6.º - Estudo das características do terreno de fundação e da albufeira
+Artigo 6.º - Estudo das características do terreno de fundação e da albufeira
 
 Sobre amostras indeformadas colhidas nas sondagens, ou por meio de ensaios in situ, devem ser determinadas as características de corte e a permeabilidade das formações em que se fundará a obra.
 
@@ -262,11 +262,11 @@ Devem ser efectuadas pesquisas das características dos terrenos da albufeira qu
 
 ### CAPÍTULO III — Estudo das terras disponíveis para construção
 
-###### Artigo 7.º - Locais de empréstimo
+Artigo 7.º - Locais de empréstimo
 
 O projecto deve indicar os locais de empréstimos das terras a aplicar na barragem em planta de escala adequada, 1 : 2500 ou 1 : 5000, bem como a avaliação dos respectivos volumes.
 
-###### Artigo 8.º - Classificação das terras
+Artigo 8.º - Classificação das terras
 
 De cada qualidade de terra, classificada visualmente, será colhida uma amostra por cada 1000 m3 e sobre ela serão realizados os seguintes ensaios:
 
@@ -280,7 +280,7 @@ Com os resultados destes ensaios e demais elementos de apreciação proceder-se-
 
 O número de ensaios prescrito poderá ser reduzido no caso de terras de elevada homogeneidade.
 
-###### Artigo 9.º - Determinação de características mecânicas
+Artigo 9.º - Determinação de características mecânicas
 
 Sobre uma amostra de cada grupo a que se for conduzido, segundo a classificação referida no artigo 8.º, serão realizados os seguintes ensaios:
 
@@ -296,7 +296,7 @@ Os ensaios serão efectuados em geral sobre a fracção dos solos que passa no p
 
 ### CAPÍTULO IV — Projecto
 
-###### Artigo 10.º - Fundações
+Artigo 10.º - Fundações
 
 Quando a resistência ao corte do terreno de fundação não exceder uma vez e meia, pelo menos, a resistência ao corte que teria o aterro à mesma profundidade, o projecto deve apresentar demonstração de que está garantida a segurança da obra em relação a escorregamentos, devendo ser consideradas possíveis superfícies de escorregamento cortando simultâneamente o aterro e o terreno de fundação.
 
@@ -304,7 +304,7 @@ Quando não estiver comprovada a impermeabilidade das fundações, o projecto de
 
 O projecto deve dar indicação do critério a seguir aquando das escavações para decidir sobre a profundidade definitiva da fundação.
 
-###### Artigo 11.º - Estabilidade dos taludes
+Artigo 11.º - Estabilidade dos taludes
 
 Como regra geral, as inclinações dos paramentos devem ser justificadas com base no estudo da estabilidade dos maciços, apoiado nos resultados dos ensaios para determinação das características mecânicas.
 
@@ -316,13 +316,13 @@ O projecto deverá indicar a posição da linha de saturação no perfil da barr
 
 Nos casos em que as dimensões da barragem (altura e volume da obra), a capacidade do armazenamento e os valores situados a jusante possam justificar que o projecto deixe de se fundamentar em ensaios de determinação das características mecânicas dos solos a empregar, as inclinações dos respectivos paramentos serão fixadas de harmonia com as indicações da experiência. No anexo II indicam-se as inclinações que poderão ser adoptadas em pequenas obras de perfil homogéneo, para os diferentes grupos de classificação dos solos. As inclinações aí indicadas para o caso de barragens não sujeitas a esvaziamento brusco da albufeira apenas poderão ser adoptadas quando no projecto se prove que tal é de admitir.
 
-###### Artigo 12.º - Largura do coroamento
+Artigo 12.º - Largura do coroamento
 
 A largura do coroamento, em regra não inferior a 3 m, deve ser justificada em função da natureza dos materiais a empregar, da configuração da linha de saturação com a albufeira cheia, da altura e importância da barragem, das condições práticas de construção e das exigências da circulação prevista.
 
 O coroamento será consolidado convenientemente e deverá assegurar-se a sua eficaz drenagem.
 
-###### Artigo 13.º - Revestimento dos paramentos
+Artigo 13.º - Revestimento dos paramentos
 
 O paramento de montante deverá ser protegido da erosão provocada pelas vagas por meio de um revestimento de enrocamento arrumado ou a granel, de solo-cimento, betuminoso ou de outro tipo convenientemente justificado.
 
@@ -334,7 +334,7 @@ Quando a altura da barragem o justificar, deverá completar-se a protecção do 
 
 Na transição do aterro para os enrocamentos de revestimento do paramento de montante e para os dispositivos drenantes deverão ser colocados filtros. No anexo III indicam-se regras que se recomendam para a definição granulométrica dos filtros.
 
-###### Artigo 15.º - Evacuadores de cheias
+Artigo 15.º - Evacuadores de cheias
 
 Os órgãos de descarga das cheias devem oferecer garantia de segurança total contra o galgamento da barragem.
 
@@ -358,7 +358,7 @@ A fixação do valor da folga deverá ser feita mediante a determinação do ní
 
 Em nenhum caso a folga será inferior a 1 m.
 
-###### Artigo 17.º - Descarga de fundo e tomada de água
+Artigo 17.º - Descarga de fundo e tomada de água
 
 As barragens de terra devem possuir uma ou mais descargas de fundo que permitam o esvaziamento da albufeira.
 
@@ -370,25 +370,25 @@ Se as condutas atravessarem a barragem e se não repousarem sobre formações ro
 
 O projecto deverá conter a determinação da curva de vazão da descarga de fundo projectada, relacionando-a com a capacidade da albufeira e com o seu tempo de esvaziamento.
 
-###### Artigo 18.º - Protecção da piscicultura
+Artigo 18.º - Protecção da piscicultura
 
 Sempre que tal for reconhecido necessário pelas entidadades oficiais competentes, as obras deverão incluir dispositivos que permitam a circulação dos peixes entre os troços de água situados a montante e a jusante da barragem.
 
 ### CAPÍTULO V — Construção
 
-###### Artigo 19.º - Saneamento
+Artigo 19.º - Saneamento
 
 Serão retiradas as camadas de terra vegetal, raízes e outros restos de matérias vegetais, e bem assim todas as terras acima daquelas cujas características mecânicas foram consideradas no projecto das fundações.
 
 As ressurgências deverão ser captadas e drenadas antes de ser iniciada a execução do aterro.
 
-###### Artigo 20.º - Compactação dos aterros
+Artigo 20.º - Compactação dos aterros
 
 A compactação das camadas deve ser realizada de forma a conseguir compacidades pré-fixadas, de acordo com os ensaios de compactação. A compactação relativa deve atingir pelo menos 95 por cento, referida ao ensaio Proctor normal, e o teor de água deverá situar-se entre o teor óptimo em água w(índice o) e w(índice o) - 2 por cento.
 
 Usualmente cada camada terá de 20 a 30 cm de espessura, após compactada, e será levada até à humidade conveniente para a compactação por rega sobre o aterro ou no empréstimo, com cuidadosa dispersão de água para conseguir molhagem uniforme. Será, em regra, conveniente acompanhar a rega com revolvimento das terras por meio de equipamentos adequados.
 
-###### Artigo 21.º - «Contrôle»
+Artigo 21.º - «Contrôle»
 
 O contrôle da compactação relativa e do desvio do teor de água em relação ao óptimo será efectuado em cada 1000 m3 de terra colocado em obra, com um mínimo de duas determinações por camada.
 
@@ -398,7 +398,7 @@ Durante a execução da obra, o mesmo técnico anotará na referida caderneta os
 
 Essa caderneta será facultada aos agentes da fiscalização do Estado sempre que estes o exigirem, e após a conclusão da obra será entregue, para arquivo, à Direcção-Geral dos Serviços Hidráulicos.
 
-###### Artigo 22.º - Observação das obras
+Artigo 22.º - Observação das obras
 
 O comportamento da obra durante a fase incial de exploração, designadamente no primeiro enchimento, total ou parcial, e no subsequente esvaziamento, deve ser observado, dando-se particular atenção ao eventual aparecimento de fendas ou de infiltrações e aos assentamentos que ocorram. As observações incumbem ao técnico responsável pela construção, o qual sobre elas deve apresentar relatório à Direcção-Geral dos Serviços Hidráulicos.
 
@@ -412,11 +412,11 @@ Em obras que levantem problemas especiais, e quando tal seja estipulado no alvar
 
 ## ANEXO I — Classificação de solos
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf))](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf)
 
 ## Anexo II — Taludes a adoptar, nos termos do artigo 11.º, de acordo com o tipo de terra utilizado na construção
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf))](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf)
 
 ## Anexo III — Granulometria dos filtros
 
@@ -446,7 +446,7 @@ D(índice 50) - idem, em relação a 50 por cento.
 
 Fórmula de Giandotti:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf))](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/11000/06780686.pdf)
 
 BIBLIOGRAFIA
 

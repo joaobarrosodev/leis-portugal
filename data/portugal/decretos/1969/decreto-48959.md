@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48959-1969-525639
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-10T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:57Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 9548dc3dc4e3a43909cd7e6e0d47feedfe983558c5c4caecf73dea893a99a239
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bc2fcb2146ba0e777c09deb49445cb6c908abc3659342254bcad1395815a4bc6
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:57Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:216924:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:416823:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:57Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +99,15 @@ Nestes termos, ouvidos o Conselho Ultramarino e os governadores de todas as prov
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os artigos 1.º e 2.º do [Decreto n.º 39590](https://diariodarepublica.pt/dr/detalhe/decreto/39590-1954-216924), de 31 de Março de 1954, passam a ter a seguinte redacção:
+Artigo único. Os artigos 1.º e 2.º do [Decreto n.º 39590](https://diariodarepublica.pt/dr/detalhe/decreto/39590-1954-216924), de 31 de Março de 1954, passam a ter a seguinte redacção:
 
-###### Artigo 1.º O Ministro do Ultramar concederá passagens de ida e regresso entre a metrópole e as províncias ultramarinas aos superiores a que se refere o artigo 39.º do [Decreto-Lei n.º 31207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31207-1941-416823), de 5 de Abril de 1941, e bem assim aos visitadores canónicos de nacionalidade portuguesa que pretendam visitar as missões confiadas às respectivas corporações missionárias reconhecidas nos termos daquele diploma.
+Artigo 1.º O Ministro do Ultramar concederá passagens de ida e regresso entre a metrópole e as províncias ultramarinas aos superiores a que se refere o artigo 39.º do [Decreto-Lei n.º 31207](https://diariodarepublica.pt/dr/detalhe/decreto-lei/31207-1941-416823), de 5 de Abril de 1941, e bem assim aos visitadores canónicos de nacionalidade portuguesa que pretendam visitar as missões confiadas às respectivas corporações missionárias reconhecidas nos termos daquele diploma.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 2.º O Ministro do Ultramar concederá também passagens, nos termos em que a lei o permite, para os auxiliares das missões:
+Art. 2.º O Ministro do Ultramar concederá também passagens, nos termos em que a lei o permite, para os auxiliares das missões:
 
 a) A partir da metrópole, aos estudantes de nacionalidade portuguesa que se destinem aos seminários diocesanos ou aos seminários e casas de formação de quaisquer corporações missionárias, masculinas ou femininas, do ultramar;
 
@@ -111,9 +119,9 @@ b) A partir das províncias ultramarinas, aos estudantes de nacionalidade portug
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 2 de Abril de 1969.**
+Promulgado em 2 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 10 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

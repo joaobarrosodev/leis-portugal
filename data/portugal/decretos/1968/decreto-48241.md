@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48241-1968-235167
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d5fa8db3ee03e07495463612d1e263a5f08a9ffb582cdd66c46b84ff2cdd046f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c9662f8121e90b7990d77fa2a95d4bf5909281d7cd83d046903716ab158a508e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235166:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
-  section_count: 1
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:17Z'
   warnings: []
   errors: []
 ---
@@ -87,11 +91,11 @@ Com fundamento no artigo 1.º do [Decreto-Lei n.º 48240](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do das Obras Públicas, um crédito especial da quantia de 55000000$00, que será inscrito como despesa extraordinária no actual orçamento do segundo dos referidos Ministérios, com a seguinte classificação:
+Artigo 1.º É aberto no Ministério das Finanças, a favor do das Obras Públicas, um crédito especial da quantia de 55000000$00, que será inscrito como despesa extraordinária no actual orçamento do segundo dos referidos Ministérios, com a seguinte classificação:
 
-### Capítulo 15.º «Outros investimentos»:
+Capítulo 15.º «Outros investimentos»:
 
-###### Artigo 124.º «Despesas resultantes do [Decreto-Lei n.º 48240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48240-1968-235166), de 17 de Fevereiro de 1968»:
+Artigo 124.º «Despesas resultantes do [Decreto-Lei n.º 48240](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48240-1968-235166), de 17 de Fevereiro de 1968»:
 
 1) «Para trabalhos em linhas de água, a executar pela Direcção-Geral dos Serviços Hidráulicos» ... 20000000$00
 
@@ -101,8 +105,8 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ... 55000000$00
 
-###### Art. 2.º Para compensação do crédito referido no artigo anterior, é inscrita igual quantia no orçamento em vigor como receita extraordinária, a qual constituirá no capítulo 9.º o artigo 284.º-A, sob a rubrica «Produto da venda de certificados de aforro».
+Art. 2.º Para compensação do crédito referido no artigo anterior, é inscrita igual quantia no orçamento em vigor como receita extraordinária, a qual constituirá no capítulo 9.º o artigo 284.º-A, sob a rubrica «Produto da venda de certificados de aforro».
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 17 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - Ulisses Cruz de Aguiar Cortês - José Albino Machado Vaz.

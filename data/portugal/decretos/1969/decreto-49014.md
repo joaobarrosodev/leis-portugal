@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49014-1969-200828
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f0878c6c51cafab6ab7ade8b04af34e881dec3e36a2834180e124aa9ae7edfd2
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9f06fbb532818ae3f19a05823683cd301f5ab3b6b6244dc0628be1fe376dd54a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:563179:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:26Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +97,7 @@ Por motivo de urgência, nos termos da alínea a) do n.º III da base X da Lei O
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ao pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Moçambique são atribuídas as seguintes gratificações mensais especiais:
+Artigo 1.º Ao pessoal técnico dos Serviços dos Correios, Telégrafos e Telefones de Moçambique são atribuídas as seguintes gratificações mensais especiais:
 
 Engenheiro inspector provincial ... 3000$00
 
@@ -113,21 +117,21 @@ Chefes de oficinas gerais ... 500$00
 
 § único. Aos funcionários que receberem as gratificações previstas no corpo do artigo anterior não serão abonadas as gratificações referidas no artigo 383.º do [Decreto n.º 34076](https://diariodarepublica.pt/dr/detalhe/decreto/34076-1944-563179), de 2 de Novembro de 1944, exceptuando as que respeitem ao Conselho de Administração dos Correios, Telégrafos e Telefones.
 
-###### Art. 2.º Além das gratificações indicadas no artigo anterior, são fixados cumulativamente os seguintes quantitativos de subsídio diário a abonar ao pessoal técnico:
+Art. 2.º Além das gratificações indicadas no artigo anterior, são fixados cumulativamente os seguintes quantitativos de subsídio diário a abonar ao pessoal técnico:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/05/12000/05460547.pdf))](https://files.diariodarepublica.pt/1s/1969/05/12000/05460547.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12000/05460547.pdf)
 
 § 1.º O abono de subsídio diário acarreta a proibição de exercício de qualquer actividade particular.
 
 § 2.º Não tem direito a subsídio diário o pessoal técnico assalariado.
 
-###### Art. 3.º O abono, tanto do subsídio diário como das gratificações mensais especiais, terá efeito a partir de 1 de Janeiro do corrente ano, constituindo encargo da tabela de despesa ordinária do orçamento privativo dos Serviços dos Correios, Telégrafos e Telefones de Moçambique.
+Art. 3.º O abono, tanto do subsídio diário como das gratificações mensais especiais, terá efeito a partir de 1 de Janeiro do corrente ano, constituindo encargo da tabela de despesa ordinária do orçamento privativo dos Serviços dos Correios, Telégrafos e Telefones de Moçambique.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Maio de 1969.**
+Promulgado em 12 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

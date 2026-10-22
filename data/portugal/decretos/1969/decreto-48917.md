@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48917-1969-524836
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6799aa590341327b72b32d8befa090a329913e08b5eb8d94409442ff64c18c24
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f7ad569a0fa8d321f9cf8a606f0897b7a318f601b572810e408d1db30ccc4a5c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:41Z'
   warnings: []
   errors: []
 ---
@@ -90,7 +90,7 @@ Nos termos da base X, n.º III, alínea a), da Lei Orgânica do Ultramar Portugu
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A lotação da Direcção Provincial dos Serviços de Marinha de Moçambique passará a ter a seguinte constituição:
+Artigo 1.º A lotação da Direcção Provincial dos Serviços de Marinha de Moçambique passará a ter a seguinte constituição:
 
 Oficiais:
 
@@ -178,13 +178,13 @@ Marinheiro artilheiro (ver nota s) ... 1
 
 (nota s) L/F Tete.
 
-###### Art. 2.º A distribuição do pessoal referido no artigo anterior será feita nos termos de diploma a publicar pela província.
+Art. 2.º A distribuição do pessoal referido no artigo anterior será feita nos termos de diploma a publicar pela província.
 
 Marcello Ceatano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 5 de Março de 1969.**
+Promulgado em 5 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

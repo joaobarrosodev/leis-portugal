@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49016-1969-200830
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:27Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 01e394883e7bfbc883411c937c8e221d8d897a1bca477c3a6e389d66c4d5fbaa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8acbab41ce74e1073203e87cb0d0bd6d6e7b3019145020b98ef0dedbbe7a093f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:27Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:480109:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:27Z'
   warnings: []
   errors: []
 ---
@@ -88,12 +92,12 @@ Havendo necessidade imperiosa de remover dúvidas que se suscitaram na interpret
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. O encargo atribuído às câmaras municipais ou a outras entidades com a instalação provisória de escolas técnicas profissionais ou de suas secções não prejudica a comparticipação financeira a conceder pelo Estado, quando tal se justifique, devendo, para esse efeito, a totalidade das correspondentes despesas ser objecto de estimativa a aprovar pelos Ministros das Finanças e da Educação Nacional.
+Artigo único. O encargo atribuído às câmaras municipais ou a outras entidades com a instalação provisória de escolas técnicas profissionais ou de suas secções não prejudica a comparticipação financeira a conceder pelo Estado, quando tal se justifique, devendo, para esse efeito, a totalidade das correspondentes despesas ser objecto de estimativa a aprovar pelos Ministros das Finanças e da Educação Nacional.
 
 Marcello Caetano - António Manuel Gonçalves Rapazote - João Augusto Dias Rosas - José Hermano Saraiva.
 
-**Promulgado em 12 de Maio de 1969.**
+Promulgado em 12 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

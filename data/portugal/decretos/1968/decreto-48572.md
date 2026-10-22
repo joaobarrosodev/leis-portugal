@@ -19,12 +19,12 @@ publication:
   reference: Diário do Governo n.º 213/1968, 1º Suplemento, Série I de 1968-09-09
   number: '213'
   series: I
-  supplement: 1º Suplemento
+  supplement: null
   pages: 1343 - 1377
   pdf_url: https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,167 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48572-1968-508641
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-04-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 16b0d44c7fc3e0fab699dce6a7d92f7ec55c7b81ff5d61e61f7eb23563c6900f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: bae083314fdb41470fe9bffdc2e7e5583ebe6e11416544b4b3d7a6f506d4b076
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Autonomia Administrativa
+- Ciclo Preparatório
+- Colocação de Professores
+- Ensino Preparatório
+- Escola Preparatória
+- Escolaridade Obrigatória
+- Estatuto
+- Exame
+- Formas de Provimento
+- Gestão Escolar
+- Inspecção do Ciclo Preparatório
+- Material de Ensino
+- Orientação Escolar
+- Pessoal Docente
+- Pessoal não Docente
+- Plano de Estudos
+- Quadro de Pessoal
+- Remuneração
+- Sistema Educativo
 relationships:
 - type: amended_by
   target: pt:dre:411815:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:691619:por
+  label: "Alterados os arts. 135º e 137º do Estatuto pelo DEC LEI.389/72.13.10.1972.MEN, DG.IS [239] de 13.10.1972 \0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/389-1972-691619
+  date: '1972-10-13'
+- type: amended_by
+  target: pt:dre:419669:por
+  label: "Alterado o artigo 141.º e o n.º 1 do artigo 354.º do Estatuto, pelo DEC.425/73.23.08.1973.MEN, DG.IS [197] de 23.08.1973\0\
+    \0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/425-1973-419669
+  date: '1973-08-23'
+- type: cites
+  target: pt:dre:186158:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:239452:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:260611:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:276195:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:279454:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:353769:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:360134:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:371067:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:387854:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:431654:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:465646:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477368:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:479220:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:486877:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:561028:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:568711:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:636885:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:685439:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:286507:por
+  label: "Revoga o art. 331º do Estatuto, aprovado pelo presente diploma, pelo DEC LEI.373/77.05.09.1977.MEIC, DR.IS [205]\
+    \ de 05.09.1977\07\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/373-1977-286507
+  date: '1977-09-05'
+- type: repealed_by
+  target: pt:dre:183222:por
+  label: "Revogada a parte final da alínea a) e alínea b) do n.º 2 do artigo 312.º, pelo DEC LEI.287/85.22.07.1985.ME, DR.IS\
+    \ [166] de 22.07.1985\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/287-1985-183222
+  date: '1985-07-22'
+- type: repealed_by
+  target: pt:dre:411815:por
+  label: "Revogado pelo DEC LEI.139-A/90.28.04.1990.ME, DR.IS [98-Supl] de 28.04.1990\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/139-a-1990-411815
+  date: '1990-04-28'
 article_structure:
-  article_count: 2
-  section_count: 29
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 30
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:53Z'
   warnings: []
   errors: []
 ---
@@ -88,11 +215,11 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em conformidade com o disposto no [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, e no [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, é aprovado o Estatuto do Ciclo Preparatório do Ensino Secundário, que faz parte integrante do presente decreto.
+Artigo 1.º Em conformidade com o disposto no [Decreto-Lei n.º 47480](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47480-1967-239452), de 2 de Janeiro de 1967, e no [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), de 23 de Agosto de 1968, é aprovado o Estatuto do Ciclo Preparatório do Ensino Secundário, que faz parte integrante do presente decreto.
 
-###### Art. 2.º O presente decreto e o Estatuto por ele aprovado entram imediatamente em vigor.
+Art. 2.º O presente decreto e o Estatuto por ele aprovado entram imediatamente em vigor.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.
 
@@ -100,21 +227,21 @@ ESTATUTO DO CICLO PREPARATÓRIO DO ENSINO SECUNDÁRIO
 
 ### CAPÍTULO I — Fins do ciclo preparatório do ensino secundário
 
-###### Artigo 1.º - 1. O ciclo preparatório do ensino secundário situa-se na imediata sequência do ciclo elementar do ensino primário, como forma de ampliação da cultura geral de base, adequada especialmente ao prosseguimento dos estudos em qualquer ramo subsequente do ensino secundário, e como instrumento de orientação dos alunos na escolha desses estudos, a partir da observação das suas tendências e aptidões.
+Artigo 1.º - 1. O ciclo preparatório do ensino secundário situa-se na imediata sequência do ciclo elementar do ensino primário, como forma de ampliação da cultura geral de base, adequada especialmente ao prosseguimento dos estudos em qualquer ramo subsequente do ensino secundário, e como instrumento de orientação dos alunos na escolha desses estudos, a partir da observação das suas tendências e aptidões.
 
 2. O referido ciclo constitui um dos meios possíveis de cumprimento da escolaridade obrigatória.
 
 3. Quando no presente diploma se fala de ciclo preparatório e de escolas preparatórias, sem mais especificação, deve entender-se que se têm em vista o ciclo preparatório do ensino secundário e as escolas onde ele é ministrado.
 
-###### Art. 2.º O ensino do ciclo preparatório, como a educação em geral, deve orientar-se pelos princípios da doutrina e moral cristãs tradicionais do País e promover a integração nos valores espirituais e culturais permanentes da Nação, estimulando a devoção à Pátria, o sentido da unidade nacional, a valorização da pessoa humana, dentro de um espírito de justiça social, de respeito das sãs tradições, de adaptação às circunstâncias dos tempos modernos e das várias parcelas do território português, de compreensão e solidariedade internacionais.
+Art. 2.º O ensino do ciclo preparatório, como a educação em geral, deve orientar-se pelos princípios da doutrina e moral cristãs tradicionais do País e promover a integração nos valores espirituais e culturais permanentes da Nação, estimulando a devoção à Pátria, o sentido da unidade nacional, a valorização da pessoa humana, dentro de um espírito de justiça social, de respeito das sãs tradições, de adaptação às circunstâncias dos tempos modernos e das várias parcelas do território português, de compreensão e solidariedade internacionais.
 
 ### CAPÍTULO II — Plano de estudos
 
-###### Art. 3.º O ciclo preparatório compreende dois anos.
+Art. 3.º O ciclo preparatório compreende dois anos.
 
-###### Art. 4.º O ensino realiza-se por intermédio de cinco conjuntos lectivos, organizados de forma a corresponderem às tendências mais frequentes dos alunos e às modalidades fundamentais dos estudos subsequentes.
+Art. 4.º O ensino realiza-se por intermédio de cinco conjuntos lectivos, organizados de forma a corresponderem às tendências mais frequentes dos alunos e às modalidades fundamentais dos estudos subsequentes.
 
-###### Art. 5.º Os conjuntos lectivos são os seguintes:
+Art. 5.º Os conjuntos lectivos são os seguintes:
 
 Conjunto A:
 
@@ -134,13 +261,13 @@ Actividades musicais e gimnodesportivas. Visa cultivar o sentido do ritmo e o de
 
 Línguas estrangeiras. Propõe-se fazer a iniciação no emprego dos meios de compreensão e convívio internacionais.
 
-###### Art. 6.º - 1. Os conjuntos lectivos são formados pelas seguintes disciplinas, cada uma das quais terá, em cada ano, o número de aulas semanais adiante indicado:
+Art. 6.º - 1. Os conjuntos lectivos são formados pelas seguintes disciplinas, cada uma das quais terá, em cada ano, o número de aulas semanais adiante indicado:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf)
 
 2. Quanto ao conjunto E, o Ministro da Educação Nacional fixará em despacho se as duas línguas serão oferecidas à opção dos alunos, ou se só se ensinará uma, com carácter obrigatório, e qual, podendo, neste último caso, determinar que a outra seja ensinada também, pelo menos, nalgumas escolas, mas com carácter facultativo.
 
-###### Art. 7.º Na execução dos programas e nos métodos seguidos, o ensino em cada uma das disciplinas obedecerá aos princípios seguintes:
+Art. 7.º Na execução dos programas e nos métodos seguidos, o ensino em cada uma das disciplinas obedecerá aos princípios seguintes:
 
 a) Ter carácter essencialmente activo e prático, com vista a fomentar o desenvolvimento geral das capacidades de cada aluno e despertar o espírito de observação, a imaginação criadora, o sentimento estético, o gosto do empreendimento e do esforço pessoal e o reconhecimento do valor do trabalho;
 
@@ -156,23 +283,23 @@ f) Fomentar a capacidade de expressão de cada aluno e a manifestação e fortal
 
 g) Adaptar-se às características e às perspectivas de progresso da região onde é ministrado.
 
-###### Art. 8.º Os programas, além do enunciado das matérias de cada disciplina, devem formular indicações sobre o desenvolvimento das mesmas, com vista às finalidades a atingir, não havendo uma estrita e absoluta obrigatoriedade na sequência das respectivas rubricas.
+Art. 8.º Os programas, além do enunciado das matérias de cada disciplina, devem formular indicações sobre o desenvolvimento das mesmas, com vista às finalidades a atingir, não havendo uma estrita e absoluta obrigatoriedade na sequência das respectivas rubricas.
 
-###### Art. 9.º As características, condições de desenvolvimento e interesses próprios de cada sexo serão tomados em consideração, na medida do necessário, nos programas e métodos de ensino das diferentes disciplinas.
+Art. 9.º As características, condições de desenvolvimento e interesses próprios de cada sexo serão tomados em consideração, na medida do necessário, nos programas e métodos de ensino das diferentes disciplinas.
 
-###### Art. 10.º Os programas serão revistos de cinco em cinco anos, de forma a introduzirem-se neles as modificações aconselhadas pela experiência, evolução cultural e social, e progresso das ciências e dos estudos pedagógicos.
+Art. 10.º Os programas serão revistos de cinco em cinco anos, de forma a introduzirem-se neles as modificações aconselhadas pela experiência, evolução cultural e social, e progresso das ciências e dos estudos pedagógicos.
 
-###### Art. 11.º - 1. Todas as disciplinas são de frequência obrigatória, podendo, porém, conceder-se dispensa nas de Moral e Religião, Desenho, Trabalhos Manuais e Educação Física.
+Art. 11.º - 1. Todas as disciplinas são de frequência obrigatória, podendo, porém, conceder-se dispensa nas de Moral e Religião, Desenho, Trabalhos Manuais e Educação Física.
 
 2. A dispensa de Moral e Religião será concedida aos alunos cujos pais ou tutores a requeiram; as de Desenho, Trabalhos Manuais e Educação Física aos alunos que não possam executar todas ou algumas das actividades abrangidas no respectivo programa, com base em parecer médico e segundo regime a definir em despacho ministerial.
 
 3. Para alunos com deficiências físicas poderão adoptar-se programas especiais de Desenho, Trabalhos Manuais e Educação Física.
 
-###### Art. 12.º As aulas têm a duração de 50 minutos, à excepção das de Desenho e de Trabalhos Manuais, cuja duração será de 110 minutos.
+Art. 12.º As aulas têm a duração de 50 minutos, à excepção das de Desenho e de Trabalhos Manuais, cuja duração será de 110 minutos.
 
-###### Art. 13.º A fim de facilitar a coordenação do ensino, deverá confiar-se ao menor número possível de professores, em cada turma, o ensino das disciplinas dos conjuntos A, B e E, respeitando-se a competência especial de cada professor.
+Art. 13.º A fim de facilitar a coordenação do ensino, deverá confiar-se ao menor número possível de professores, em cada turma, o ensino das disciplinas dos conjuntos A, B e E, respeitando-se a competência especial de cada professor.
 
-###### Art. 14.º - 1. A coordenação do ensino nas turmas de cada ano obter-se-á, principalmente, através da adopção de temas centrais, progressivos e oportunos, à volta dos quais se fará, na medida do possível, a aplicação e valorização das matérias leccionadas nas várias disciplinas.
+Art. 14.º - 1. A coordenação do ensino nas turmas de cada ano obter-se-á, principalmente, através da adopção de temas centrais, progressivos e oportunos, à volta dos quais se fará, na medida do possível, a aplicação e valorização das matérias leccionadas nas várias disciplinas.
 
 2. Compete ao conselho escolar definir os temas centrais a observar na coordenação do ensino no ano lectivo seguinte e estabelecer os respectivos planos gerais de execução; na escolha de cada tema ter-se-ão em conta os interesses de maior expressão formativa e a sua adequação às circunstâncias regionais e de sexo, bem como as possibilidades da escola.
 
@@ -180,73 +307,73 @@ g) Adaptar-se às características e às perspectivas de progresso da região on
 
 4. Os referidos temas serão explorados durante o tempo considerado necessário.
 
-###### Art. 15.º Aos conselhos escolares cumprirá estabelecer, em pormenor e segundo a orientação da Inspecção do Ciclo Preparatório, o realce a dar às várias matérias dos programas E a duração a atribuir-lhes no desenvolvimento do ensino de cada disciplina, tendo em consideração designadamente as exigências dos temas centrais de coordenação.
+Art. 15.º Aos conselhos escolares cumprirá estabelecer, em pormenor e segundo a orientação da Inspecção do Ciclo Preparatório, o realce a dar às várias matérias dos programas E a duração a atribuir-lhes no desenvolvimento do ensino de cada disciplina, tendo em consideração designadamente as exigências dos temas centrais de coordenação.
 
-###### Art. 16.º - 1. De dois em dois anos serão organizados os planos e programas especiais de trabalho escolar a seguir nas escolas de cada região.
+Art. 16.º - 1. De dois em dois anos serão organizados os planos e programas especiais de trabalho escolar a seguir nas escolas de cada região.
 
 2. Essa organização competirá a uma das referidas escolas, a designar segundo escala definida pela Inspecção do Ciclo Preparatório, devendo os planos e programas ajustar-se ao condicionalismo local.
 
-###### Art. 17.º - 1. Os professores de cada turma devem reunir-se em conselho, com o fim de estudar os elementos respeitantes à observação e orientação dos alunos e relações com o meio familiar.
+Art. 17.º - 1. Os professores de cada turma devem reunir-se em conselho, com o fim de estudar os elementos respeitantes à observação e orientação dos alunos e relações com o meio familiar.
 
 2. As reuniões dos conselhos de turma devem realizar-se sempre sem prejuízo das actividades escolares, cabendo aos professores que nelas participam a gratificação constante da tabela n.º 3, anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195).
 
 3. A presidência dos conselhos de turma compete ao director de turma respectivo, o qual designará o secretário.
 
-###### Art. 18.º - 1. Quando, por falta de nomeação de professor, não estiver sendo ministrado o ensino em qualquer disciplina, as horas correspondentes serão distribuídas, no todo ou em parte, por outros professores da mesma disciplina, segundo as possibilidades docentes e de instalações da escola.
+Art. 18.º - 1. Quando, por falta de nomeação de professor, não estiver sendo ministrado o ensino em qualquer disciplina, as horas correspondentes serão distribuídas, no todo ou em parte, por outros professores da mesma disciplina, segundo as possibilidades docentes e de instalações da escola.
 
 2. Compete ao director da escola a distribuição das horas docentes a que se refere o número anterior, em conformidade com o preceituado no artigo 228.º e demais disposições aplicáveis; essa distribuição cessará logo que deixe de se verificar o motivo que lhe deu origem.
 
-###### Art. 19.º - 1. Em cada escola serão organizadas aulas de recuperação, destinadas aos alunos do 1.º ano que no decurso do 1.º período escolar revelem dificuldades de integração nos métodos activos do ciclo, com reflexo previsível no seu rendimento escolar.
+Art. 19.º - 1. Em cada escola serão organizadas aulas de recuperação, destinadas aos alunos do 1.º ano que no decurso do 1.º período escolar revelem dificuldades de integração nos métodos activos do ciclo, com reflexo previsível no seu rendimento escolar.
 
 2. As aulas de recuperação, que funcionam em colaboração com os serviços de acção social escolar, dos centros de actividades circum-escolares, e com as famílias, têm início no 2.º período escolar e podem prolongar-se até o fim do 1.º período escolar do 2.º ano.
 
-###### Art. 20.º As aulas de recuperação não podem exceder em nenhuma disciplina o total de duas horas semanais, devendo ser ministradas fora do horário normal das turmas a que os alunos pertencem e sem prejuízo das aulas respectivas.
+Art. 20.º As aulas de recuperação não podem exceder em nenhuma disciplina o total de duas horas semanais, devendo ser ministradas fora do horário normal das turmas a que os alunos pertencem e sem prejuízo das aulas respectivas.
 
-###### Art. 21.º - 1. Compete aos conselhos de turma indicar os alunos para os quais se torna aconselhável a frequência de aulas de recuperação e as disciplinas respectivas.
+Art. 21.º - 1. Compete aos conselhos de turma indicar os alunos para os quais se torna aconselhável a frequência de aulas de recuperação e as disciplinas respectivas.
 
 2. A frequência das aulas de recuperação cessa, em qualquer disciplina, quando o conselho de turma assim o entender.
 
-###### Art. 22.º - 1. Compete ao director da escola organizar as turmas para as aulas de recuperação, bem como fixar os respectivos horários e designar os professores.
+Art. 22.º - 1. Compete ao director da escola organizar as turmas para as aulas de recuperação, bem como fixar os respectivos horários e designar os professores.
 
 2. As aulas de recuperação terão a lotação máxima de dezasseis alunos, podendo os mesmos pertencer a turmas diferentes.
 
-###### Art. 23.º As horas de serviço docente prestadas nos termos dos artigos 18.º a 22.º serão abonadas como horas extraordinárias quando excederem o serviço obrigatório do professor, de acordo com a tabela n.º 2, anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195).
+Art. 23.º As horas de serviço docente prestadas nos termos dos artigos 18.º a 22.º serão abonadas como horas extraordinárias quando excederem o serviço obrigatório do professor, de acordo com a tabela n.º 2, anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195).
 
 ### CAPÍTULO III — Escolas preparatórias
 
-###### Art. 24.º O ciclo preparatório é ministrado em estabelecimentos de ensino, públicos ou particulares, denominados escolas preparatórias.
+Art. 24.º O ciclo preparatório é ministrado em estabelecimentos de ensino, públicos ou particulares, denominados escolas preparatórias.
 
-###### Art. 25.º - 1. Os estabelecimentos dependentes de outros Ministérios onde vier funcionando o 1.º ciclo liceal ou o ciclo preparatório do ensino técnico profissional poderão substituir esses ciclos pelo ciclo preparatório do ensino secundário.
+Art. 25.º - 1. Os estabelecimentos dependentes de outros Ministérios onde vier funcionando o 1.º ciclo liceal ou o ciclo preparatório do ensino técnico profissional poderão substituir esses ciclos pelo ciclo preparatório do ensino secundário.
 
 2. As escolas preparatórias particulares regulam-se, no que lhes for aplicável, pelas disposições sobre organização e funcionamento do ciclo preparatório.
 
-###### Art. 26.º - 1. O Estado fomentará a gradual criação de escolas preparatórias, de modo a assegurar o ensino do ciclo em todos os concelhos.
+Art. 26.º - 1. O Estado fomentará a gradual criação de escolas preparatórias, de modo a assegurar o ensino do ciclo em todos os concelhos.
 
 2. Para os fins da última parte do número anterior beneficiarão de prioridade, em princípio, os concelhos que já possuam ensino secundário público, aqueles cujo índice demográfico o justifique e ainda os que cedam instalações para as escolas ou terrenos para a construção dessas instalações.
 
-###### Art. 27.º Cada escola preparatória, quando não haja de funcionar em regime de aproveitamento total, não deverá, em princípio, ultrapassar 32 turmas.
+Art. 27.º Cada escola preparatória, quando não haja de funcionar em regime de aproveitamento total, não deverá, em princípio, ultrapassar 32 turmas.
 
-###### Art. 28.º - 1. O ensino do ciclo preparatório será ministrado em regime de separação de sexos.
+Art. 28.º - 1. O ensino do ciclo preparatório será ministrado em regime de separação de sexos.
 
 2. Poderão ser autorizadas escolas mistas desde que, em princípio, não excedam doze turmas, devendo cada uma destas, tanto quanto possível, compreender só alunos do mesmo sexo.
 
 3. Nos estabelecimentos de frequência masculina poderão existir secções femininas; mas deverá haver, para estas, instalações específicas.
 
-###### Art. 29.º Junta das escolas preparatórias poderão eventualmente funcionar cursos dos subsequentes ramos de ensino, desde que tais cursos não estejam sendo ministrados na localidade e nas referidas escolas haja instalações disponíveis.
+Art. 29.º Junta das escolas preparatórias poderão eventualmente funcionar cursos dos subsequentes ramos de ensino, desde que tais cursos não estejam sendo ministrados na localidade e nas referidas escolas haja instalações disponíveis.
 
-###### Art. 30.º A cada escola preparatória pública será atribuído um patrono, escolhido entre figuras com projecção histórica em qualquer dos domínios do valor humano, com preferência pelas que tenham nascido ou exercido a sua acção na região a que pertence a mesma escola.
+Art. 30.º A cada escola preparatória pública será atribuído um patrono, escolhido entre figuras com projecção histórica em qualquer dos domínios do valor humano, com preferência pelas que tenham nascido ou exercido a sua acção na região a que pertence a mesma escola.
 
 ### CAPÍTULO IV — Actividades escolares
 
 #### SECÇÃO I — Períodos de funcionamento
 
-###### Art. 31.º - 1. O ano escolar tem início em 1 de Outubro e termina em 10 de Agosto seguinte.
+Art. 31.º - 1. O ano escolar tem início em 1 de Outubro e termina em 10 de Agosto seguinte.
 
 2. O ano lectivo decorre de 1 de Outubro a 30 de Junho seguinte.
 
-###### Art. 32.º As actividades lectivas serão interrompidas nas férias do Natal, do Carnaval e da Páscoa, nos termos gerais da legislação escolar.
+Art. 32.º As actividades lectivas serão interrompidas nas férias do Natal, do Carnaval e da Páscoa, nos termos gerais da legislação escolar.
 
-###### Art. 33.º - 1. Os trabalhos escolares terão a duração máxima diária de seis horas, distribuídas por dois períodos, não podendo qualquer deles exceder quatro horas.
+Art. 33.º - 1. Os trabalhos escolares terão a duração máxima diária de seis horas, distribuídas por dois períodos, não podendo qualquer deles exceder quatro horas.
 
 2. Os trabalhos escolares dos dois períodos diários serão separados por um intervalo de hora e meia ou duas horas, segundo as condições do meio local.
 
@@ -254,31 +381,31 @@ g) Adaptar-se às características e às perspectivas de progresso da região on
 
 4. Nas escolas que tenham de funcionar em regime de aproveitamento total, o número de tempos de cada período diário não deverá exceder cinco horas.
 
-###### Art. 34.º As aulas serão distribuídas em cada dia por forma que a disciplina de Educação Física seja dada no período da manhã e o período da tarde seja reservado, de preferência, para as disciplinas do conjunto C e ainda para as de Moral e Religião e de Educação Musical.
+Art. 34.º As aulas serão distribuídas em cada dia por forma que a disciplina de Educação Física seja dada no período da manhã e o período da tarde seja reservado, de preferência, para as disciplinas do conjunto C e ainda para as de Moral e Religião e de Educação Musical.
 
 #### SECÇÃO II — Matrículas
 
-###### Art. 35.º A habilitação para a matrícula no 1.º ano do ciclo preparatório é a aprovação no exame do ciclo elementar do ensino primário.
+Art. 35.º A habilitação para a matrícula no 1.º ano do ciclo preparatório é a aprovação no exame do ciclo elementar do ensino primário.
 
-###### Art. 36.º - 1. Podem matricular-se no 2.º ano do ciclo preparatório os alunos que tenham obtido aprovação no 1.º ano; e, mediante exame de admissão, que versará apenas sobre matérias das disciplinas de Língua Portuguesa e Matemática, os que tenham a frequência com aproveitamento do 1.º ano do ciclo complementar do ensino primário.
+Art. 36.º - 1. Podem matricular-se no 2.º ano do ciclo preparatório os alunos que tenham obtido aprovação no 1.º ano; e, mediante exame de admissão, que versará apenas sobre matérias das disciplinas de Língua Portuguesa e Matemática, os que tenham a frequência com aproveitamento do 1.º ano do ciclo complementar do ensino primário.
 
 2. Podem também matricular-se no 2.º ano do ciclo preparatório os alunos habilitados com o ciclo complementar do ensino primário que, embora reprovados no exame de admissão ao ensino secundário ou de fim do ciclo preparatório, hajam sido considerados pelo júri com habilitação para ingresso no referido 2.º ano.
 
 3. Os alunos a que se refere o n.º 1, segunda parte, e o n.º 2 terão, além do plano de estudos do ciclo preparatório, duas horas lectivas semanais da língua estrangeira.
 
-###### Art. 37.º - 1. Só serão admitidos à matrícula no 1.º ano das escolas preparatórias públicas os candidatos de idade não superior a 14 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
+Art. 37.º - 1. Só serão admitidos à matrícula no 1.º ano das escolas preparatórias públicas os candidatos de idade não superior a 14 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
 
 2. Só serão admitidos à matrícula no 2.º ano das escolas preparatórias públicas os candidatos de idade não superior a 15 anos, com referência a 31 de Março do ano escolar a que a matrícula respeita.
 
-###### Art. 38.º - 1. A matrícula em cada ano do ciclo será requerida, nas escolas públicas, de 20 de Julho a 15 de Agosto.
+Art. 38.º - 1. A matrícula em cada ano do ciclo será requerida, nas escolas públicas, de 20 de Julho a 15 de Agosto.
 
 2. Poderá cada escola, no caso de ter vagas, alargar o período de matrículas até 31 de Agosto.
 
-###### Art. 39.º - 1. Os candidatos à matricula entregarão um boletim de modelo oficial, no qual é aposta e inutilizada uma estampilha fiscal nos termos legais e que é assinado pelo aluno ou seu encarregado de educação.
+Art. 39.º - 1. Os candidatos à matricula entregarão um boletim de modelo oficial, no qual é aposta e inutilizada uma estampilha fiscal nos termos legais e que é assinado pelo aluno ou seu encarregado de educação.
 
 2. O boletim de matrícula dos alunos dos cursos supletivos a que se refere o artigo 127.º será assinado pelos próprios alunos se forem maiores ou emancipados.
 
-###### Art. 40.º - 1. Os candidatos à primeira matrícula juntarão ao boletim referido no artigo anterior os seguintes documentos:
+Art. 40.º - 1. Os candidatos à primeira matrícula juntarão ao boletim referido no artigo anterior os seguintes documentos:
 
 a) Certidão de idade;
 
@@ -298,15 +425,15 @@ d) Bilhete de identidade.
 
 6. Os processos individuais dos candidatos que se inscrevam em escola diferente da que anteriormente hajam frequentado devem ser transferidos para aquela em que pretendam matricular-se, ficando dispensada a apresentação dos documentos existentes nos processos.
 
-###### Art. 41.º A assinatura do boletim de inscrição envolve o compromisso de respeitar e fazer respeitar os regulamentos escolares e a responsabilidade pelas consequências das faltas de observância dos mesmos regulamentos.
+Art. 41.º A assinatura do boletim de inscrição envolve o compromisso de respeitar e fazer respeitar os regulamentos escolares e a responsabilidade pelas consequências das faltas de observância dos mesmos regulamentos.
 
-###### Art. 42.º A inexactidão das declarações constantes do boletim de inscrição envolve, além das sanções que sejam aplicáveis, a anulação da matrícula e de todos os seus efeitos.
+Art. 42.º A inexactidão das declarações constantes do boletim de inscrição envolve, além das sanções que sejam aplicáveis, a anulação da matrícula e de todos os seus efeitos.
 
-###### Art. 43.º As matrículas dos candidatos inscritos fora dos prazos a que se refere o n.º 2 do artigo 38.º ficam sujeitas a multa, que será paga em estampilha fiscal a inutilizar no boletim e corresponderá a 6$00 por cada dia de atraso na entrega do boletim.
+Art. 43.º As matrículas dos candidatos inscritos fora dos prazos a que se refere o n.º 2 do artigo 38.º ficam sujeitas a multa, que será paga em estampilha fiscal a inutilizar no boletim e corresponderá a 6$00 por cada dia de atraso na entrega do boletim.
 
-###### Art. 44.º A matrícula será ordenada pelo director da escola depois de se encontrar fixado o número de turmas a constituir em cada ano, de acordo com a lotação da escola e os meios de ensino de que disponha.
+Art. 44.º A matrícula será ordenada pelo director da escola depois de se encontrar fixado o número de turmas a constituir em cada ano, de acordo com a lotação da escola e os meios de ensino de que disponha.
 
-###### Art. 45.º - 1. Quando, em determinada escola, o número de requerentes exceder o número de alunos que podem ser admitidos, observar-se-á o seguinte:
+Art. 45.º - 1. Quando, em determinada escola, o número de requerentes exceder o número de alunos que podem ser admitidos, observar-se-á o seguinte:
 
 a) Terão preferência para a matrícula do 1.º ano, em primeiro lugar, os alunos que tenham no ano anterior frequentado a mesma escola; em segundo lugar, os oriundos do ciclo elementar do ensino primário, e, em caso de igualdade de condições, os mais velhos, quando sujeitos ao cumprimento da escolaridade obrigatória;
 
@@ -314,17 +441,17 @@ b) Terão preferência para a matrícula no 2.º ano, em primeiro lugar, os alun
 
 2. Será afixada na escola, até ao fim do mês de Agosto, a relação dos requerentes que não podem ser admitidos.
 
-###### Art. 46.º - 1. Os alunos que não possam ser admitidos numa escola pública serão admitidos em qualquer outra onde haja vagas, se o solicitarem no prazo de cinco dias a partir da afixação da relação a que se refere o n.º 2 do artigo anterior, sem prejuízo do pagamento da multa prevista no artigo 43.º, quando devida.
+Art. 46.º - 1. Os alunos que não possam ser admitidos numa escola pública serão admitidos em qualquer outra onde haja vagas, se o solicitarem no prazo de cinco dias a partir da afixação da relação a que se refere o n.º 2 do artigo anterior, sem prejuízo do pagamento da multa prevista no artigo 43.º, quando devida.
 
 2. Os documentos destes candidatos serão oficiosamente enviados pela escola onde tenham sido entregues àquela em que haja vagas.
 
-###### Art. 47.º - 1. O chefe da secretaria ou quem suas vezes fizer, segundo os casos, procederá ao exame da documentação apresentada pelos candidatos e à conferência dos elementos constantes dos boletins dos que sejam antigos alunos com os registos dos livros de secretaria, fazendo lavrar os termos de matrícula dos que possam ser admitidos e submetendo a despacho do director os demais.
+Art. 47.º - 1. O chefe da secretaria ou quem suas vezes fizer, segundo os casos, procederá ao exame da documentação apresentada pelos candidatos e à conferência dos elementos constantes dos boletins dos que sejam antigos alunos com os registos dos livros de secretaria, fazendo lavrar os termos de matrícula dos que possam ser admitidos e submetendo a despacho do director os demais.
 
 2. Considera-se anulada a matrícula dos candidatos que não compareçam a assinar o respectivo termo no prazo que lhes for determinado em aviso afixado no átrio da escola.
 
-###### Art. 48.º Os directores podem autorizar a realização antecipada das matrículas dos alunos que no ano imediatamente anterior tenham frequentado a escola, observando-se, porém, em relação a esses alunos, todas as restantes normas do presente Estatuto.
+Art. 48.º Os directores podem autorizar a realização antecipada das matrículas dos alunos que no ano imediatamente anterior tenham frequentado a escola, observando-se, porém, em relação a esses alunos, todas as restantes normas do presente Estatuto.
 
-###### Art. 49.º - 1. Será recusada a matrícula:
+Art. 49.º - 1. Será recusada a matrícula:
 
 a) Aos alunos que sofram de moléstia contagiosa;
 
@@ -338,29 +465,29 @@ d) Aos que em três anos sucessivos ou interpolados não tenham obtido aproveita
 
 3. A recusa é da competência do director da escola, depois de ouvido o médico escolar no caso da alínea a) e o conselho de orientação escolar no caso da alínea b), devendo neste último caso a família ser aconselhada sobre as providências a adoptar em relação ao aluno.
 
-###### Art. 50.º - 1. Não é permitida a matrícula de qualquer aluno, quer do ensino público, quer do ensino particular, no mesmo ano lectivo em mais de uma escola.
+Art. 50.º - 1. Não é permitida a matrícula de qualquer aluno, quer do ensino público, quer do ensino particular, no mesmo ano lectivo em mais de uma escola.
 
 2. A infracção do disposto no número anterior envolve a anulação das duas matrículas e também dos exames que o infractor tenha realizado.
 
-###### Art. 51.º - 1. Para cada aluno será organizado um processo individual, constituído pelos documentos apresentados para a matrícula, pelas fichas de frequência e pelos demais elementos que interessarem à sua vida escolar.
+Art. 51.º - 1. Para cada aluno será organizado um processo individual, constituído pelos documentos apresentados para a matrícula, pelas fichas de frequência e pelos demais elementos que interessarem à sua vida escolar.
 
 2. Os alunos farão entrega das fotografias necessárias aos registos escolares.
 
-###### Art. 52.º A matrícula pode ser em qualquer momento anulada a requerimento do interessado, implicando a anulação a impossibilidade de efectuar nova matrícula no mesmo ano.
+Art. 52.º A matrícula pode ser em qualquer momento anulada a requerimento do interessado, implicando a anulação a impossibilidade de efectuar nova matrícula no mesmo ano.
 
-###### Art. 53.º - 1. No momento da matrícula os encarregados de educação dos alunos matriculados nos termos dos artigos 130.º a 133.º deverão indicar se podem encarregar-se da sua orientação escolar.
+Art. 53.º - 1. No momento da matrícula os encarregados de educação dos alunos matriculados nos termos dos artigos 130.º a 133.º deverão indicar se podem encarregar-se da sua orientação escolar.
 
 2. Em hipótese negativa providenciar-se-á, na medida do possível, para que a orientação escolar do aluno seja assegurada, ou pelo Gabinete de Orientação Escolar, ou por professor da escola pública onde o aluno estiver inscrito, que para o efeito for designado.
 
 3. Esse professor terá direito a transportes, além das outras regalias legais.
 
-###### Art. 54.º - 1. Os alunos externos do ciclo preparatório que não completem 18 anos até 31 de Dezembro do respectivo ano escolar estão sujeitos à matricula nas escolas públicas, quer frequentem estabelecimentos de ensino particular, quer sejam ensinados em regime individual, quer recebam ensino doméstico. Para os restantes a matrícula é facultativa.
+Art. 54.º - 1. Os alunos externos do ciclo preparatório que não completem 18 anos até 31 de Dezembro do respectivo ano escolar estão sujeitos à matricula nas escolas públicas, quer frequentem estabelecimentos de ensino particular, quer sejam ensinados em regime individual, quer recebam ensino doméstico. Para os restantes a matrícula é facultativa.
 
 2. A matrícula faz-se na escola correspondente à localização do estabelecimento ou à residência do aluno, no prazo normal de 1 a 15 de Setembro.
 
 3. Poderão os alunos matricular-se depois deste prazo e até ao dia 15 de Outubro, nas condições previstas na alínea b) do artigo 2.º do [Decreto-Lei n.º 41192](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41192-1957-279454), de 18 de Julho de 1957.
 
-###### Art. 55.º Nas escolas em que se realizem matrículas de alunos externos, a secretaria organizará os seguintes elementos de registo:
+Art. 55.º Nas escolas em que se realizem matrículas de alunos externos, a secretaria organizará os seguintes elementos de registo:
 
 a) Arquivo de boletins de inscrição dos alunos externos;
 
@@ -370,9 +497,9 @@ c) Livro de registo dos alvarás dos estabelecimentos de ensino particular e dos
 
 d) Livro de registo dos diplomas dos professores de ensino particular, com a assinatura destes.
 
-###### Art. 56.º Nenhum aluno externo pode matricular-se sem que se encontre devidamente autorizado o estabelecimento que frequenta ou diplomados, na forma da lei, os professores que o ensinem, ou ainda, seguindo o aluno o ensino doméstico, sem que se verifique estar a sua educação a cargo de pessoas com a suficiente idoneidade.
+Art. 56.º Nenhum aluno externo pode matricular-se sem que se encontre devidamente autorizado o estabelecimento que frequenta ou diplomados, na forma da lei, os professores que o ensinem, ou ainda, seguindo o aluno o ensino doméstico, sem que se verifique estar a sua educação a cargo de pessoas com a suficiente idoneidade.
 
-###### Art. 57.º - 1. A matrícula realiza-se pela apresentação do boletim de inscrição, devidamente preenchido e instruído com os documentos necessários, o qual levará colada e inutilizada com a assinatura do aluno uma estampilha fiscal nos termos fixados na tabela n.º 4 do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195). Assinará também o boletim o director do estabelecimento que o aluno frequenta, ou o professor que lhe ministra o ensino, ou o encarregado da sua educação, segundo os casos.
+Art. 57.º - 1. A matrícula realiza-se pela apresentação do boletim de inscrição, devidamente preenchido e instruído com os documentos necessários, o qual levará colada e inutilizada com a assinatura do aluno uma estampilha fiscal nos termos fixados na tabela n.º 4 do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195). Assinará também o boletim o director do estabelecimento que o aluno frequenta, ou o professor que lhe ministra o ensino, ou o encarregado da sua educação, segundo os casos.
 
 2. O boletim, de modelo oficial, deverá distinguir-se dos que se destinam aos alunos internos.
 
@@ -382,37 +509,37 @@ d) Livro de registo dos diplomas dos professores de ensino particular, com a ass
 
 5. É dispensada a apresentação de documentos que já existam na secretaria da escola onde o aluno se matricula.
 
-###### Art. 58.º - 1. No que respeita à idade, regime de frequência e passagem de ano, os alunos externos ficam sujeitos às disposições do presente Estatuto.
+Art. 58.º - 1. No que respeita à idade, regime de frequência e passagem de ano, os alunos externos ficam sujeitos às disposições do presente Estatuto.
 
 2. As folhas a que se refere a alínea b) do artigo 55.º respeitantes ao 1.º e ao 2.º períodos, bem como ao 3.º período dos alunos que não tenham exame, serão apresentadas na secretaria da escola pública, devidamente preenchidas, dentro dos quinze dias imediatos ao termo desses períodos. As folhas respeitantes ao 3.º período dos alunos que hajam de fazer exame serão apresentadas de 10 a 15 de Junho.
 
 3. Só podem ser aceites e arquivadas as folhas autenticadas pela assinatura, segundo os casos, do director do estabelecimento de ensino que o aluno frequentar, do professor que o ensinar ou do encarregado da sua educação.
 
-###### Art. 59.º - 1. Os pais ou tutores dos alunos que pretendam que estes sejam dispensados da frequência de qualquer das disciplinas a que se refere o artigo 11.º devem requerê-lo, nos termos do n.º 2 do mesmo artigo, no acto de matrícula em cada ano.
+Art. 59.º - 1. Os pais ou tutores dos alunos que pretendam que estes sejam dispensados da frequência de qualquer das disciplinas a que se refere o artigo 11.º devem requerê-lo, nos termos do n.º 2 do mesmo artigo, no acto de matrícula em cada ano.
 
 2. Também no acto de matrícula no 1.º ano será feita a declaração de inscrição no curso da língua estrangeira não obrigatória que, eventualmente, funcione na escola.
 
-###### Art. 60.º - 1. Terão preferência nas escolas públicas os candidatos residentes no respectivo concelho.
+Art. 60.º - 1. Terão preferência nas escolas públicas os candidatos residentes no respectivo concelho.
 
 2. Nas localidades onde haja mais de uma escola pública será atribuída a cada escola uma zona de preferência para os candidatos nela residentes.
 
 3. Em cada escola deverá ser assegurada a matrícula no 2.º ano aos alunos que no ano transacto nela tenham frequentado o 1.º ano.
 
-###### Art. 61.º - 1. A transferência, dentro dos ensinos público e particular, só será permitida, em princípio, antes do início de cada ano lectivo.
+Art. 61.º - 1. A transferência, dentro dos ensinos público e particular, só será permitida, em princípio, antes do início de cada ano lectivo.
 
 2. A transferência no decorrer do ano lectivo apenas será autorizada em casos que o director de Serviços do Ciclo Preparatório considere absolutamente justificados.
 
-###### Art. 62.º - 1. Os interessados em transferir-se de escola devem requerer a transferência ao director daquela em que desejam ser admitidos e apresentar o requerimento ao director da que frequentam, cumprindo a este enviá-lo ao seu destino, com as necessárias informações sobre o aluno.
+Art. 62.º - 1. Os interessados em transferir-se de escola devem requerer a transferência ao director daquela em que desejam ser admitidos e apresentar o requerimento ao director da que frequentam, cumprindo a este enviá-lo ao seu destino, com as necessárias informações sobre o aluno.
 
 2. O despacho exarado sobre o pedido de transferência será no próprio dia comunicado à escola onde o pedido foi apresentado; em caso de deferimento, esta fornecerá ao interessado guia de transferência, cujo duplicado será enviado à escola a que disser respeito.
 
 3. Nas deslocações da metrópole para o ultramar e vice-versa cumprir-se-á o disposto no [Decreto n.º 42434](https://diariodarepublica.pt/dr/detalhe/decreto/42434-1959-431654), de 4 de Agosto de 1959.
 
-###### Art. 63.º - 1. As faltas dadas pelos alunos transferidos a partir do dia imediato ao da data da guia de transferência, tratando-se de escolas da mesma localidade, ou decorridos que sejam dois dias, tratando-se de escolas de localidades diferentes, serão sempre consideradas injustificadas.
+Art. 63.º - 1. As faltas dadas pelos alunos transferidos a partir do dia imediato ao da data da guia de transferência, tratando-se de escolas da mesma localidade, ou decorridos que sejam dois dias, tratando-se de escolas de localidades diferentes, serão sempre consideradas injustificadas.
 
 2. Em casos excepcionais, designadamente tratando-se de transferência de ou para escola das ilhas adjacentes, pode o Ministro considerar justificadas faltas correspondentes a mais de dois dias lectivos.
 
-###### Art. 64.º - 1. A transferência de matrícula de escolas públicas para o ensino particular pode ser autorizada até o início do 3.º período, quando requerida ao director da escola.
+Art. 64.º - 1. A transferência de matrícula de escolas públicas para o ensino particular pode ser autorizada até o início do 3.º período, quando requerida ao director da escola.
 
 2. No caso de os alunos terem sido excluídos da escola por haverem excedido o limite de faltas ou terem nota de Mau em comportamento, a transferência deverá ser requerida no prazo de cinco dias, a contar da declaração da perda da frequência, e só pode ser concedida para o ensino individual ou doméstico.
 
@@ -424,27 +551,27 @@ d) Livro de registo dos diplomas dos professores de ensino particular, com a ass
 
 6. Se a matrícula do aluno houver de transferir-se para outra escola pública, o boletim e as informações a que se refere o n.º 2 do artigo 62.º serão enviados a esta pela escola que o aluno frequentava.
 
-###### Art. 65.º Fora dos prazos fixados no n.º 1 do artigo anterior pode excepcionalmente o Ministro autorizar a transferência de alunos cujas famílias sejam forçadas a deslocar a sua residência.
+Art. 65.º Fora dos prazos fixados no n.º 1 do artigo anterior pode excepcionalmente o Ministro autorizar a transferência de alunos cujas famílias sejam forçadas a deslocar a sua residência.
 
-###### Art. 66.º - 1. Não podem transferir-se de escola os alunos que tenham processos disciplinares pendentes.
+Art. 66.º - 1. Não podem transferir-se de escola os alunos que tenham processos disciplinares pendentes.
 
 2. Os alunos a que se refere o número anterior podem, porém, transferir-se par o ensino particular, sem prejuízo das sanções que lhes sejam aplicáveis.
 
-###### Art. 67.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para todos os alunos internos que ainda não tenham excedido o limite máximo da idade da obrigatoriedade escolar e cujas condições económicas o justifiquem, em termos a definir por despacho do Ministro da Educação Nacional.
+Art. 67.º - 1. O ciclo preparatório ministrado em escolas públicas é sempre gratuito para todos os alunos internos que ainda não tenham excedido o limite máximo da idade da obrigatoriedade escolar e cujas condições económicas o justifiquem, em termos a definir por despacho do Ministro da Educação Nacional.
 
 2. Os alunos não abrangidos pela disposição anterior estão sujeitos ao pagamento das propinas constantes da tabela n.º 4, do [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195); mas os alunos carecidos de suficientes recursos económicos beneficiam de isenção ou redução de propinas.
 
 #### SECÇÃO III — Frequência
 
-###### Art. 68.º - 1. Os alunos matriculados em cada ano serão distribuídos por turmas.
+Art. 68.º - 1. Os alunos matriculados em cada ano serão distribuídos por turmas.
 
 2. A lotação normal de cada turma é de 25 alunos, não devendo a lotação máxima exceder 32.
 
-###### Art. 69.º - 1. A distribuição dos alunos pelas diferentes turmas será feita de acordo com os processos que forem considerados mais aconselháveis, nela colaborando o médico escolar e o serviço de orientação escolar e procurando evitar-se acentuadas diferenças de idade e de desenvolvimento geral entre os alunos de cada turma.
+Art. 69.º - 1. A distribuição dos alunos pelas diferentes turmas será feita de acordo com os processos que forem considerados mais aconselháveis, nela colaborando o médico escolar e o serviço de orientação escolar e procurando evitar-se acentuadas diferenças de idade e de desenvolvimento geral entre os alunos de cada turma.
 
 2. Na organização das turmas do 2.º ano manter-se-ão quanto possível reunidos os alunos que frequentaram as mesmas turmas do 1.º ano.
 
-###### Art. 70.º - 1. Os alunos devem comparecer pontualmente a todos os trabalhos escolares, só se considerando justificadas as faltas dadas por motivo imperioso.
+Art. 70.º - 1. Os alunos devem comparecer pontualmente a todos os trabalhos escolares, só se considerando justificadas as faltas dadas por motivo imperioso.
 
 2. Até o segundo dia de comparecimento às aulas após qualquer falta, o aluno deverá apresentar uma declaração do encarregado de educação em que se indique o motivo da falta.
 
@@ -452,17 +579,17 @@ d) Livro de registo dos diplomas dos professores de ensino particular, com a ass
 
 4. Das faltas não justificadas será dado sempre conhecimento imediato, pela escola, ao encarregado de educação, a quem competirá, no caso de perda de ano de aluno sujeito à escolaridade obrigatória, velar pelo cumprimento desta.
 
-###### Art. 71.º Os alunos dispensados das disciplinas de Moral e Religião, Desenho, Trabalhos Manuais ou Educação Física, nos termos do artigo 11.º, são obrigados à frequência, durante as mesmas horas lectivas, de actividades circum-escolares ou de outras actividades escolares.
+Art. 71.º Os alunos dispensados das disciplinas de Moral e Religião, Desenho, Trabalhos Manuais ou Educação Física, nos termos do artigo 11.º, são obrigados à frequência, durante as mesmas horas lectivas, de actividades circum-escolares ou de outras actividades escolares.
 
-###### Art. 72.º - 1. A frequência dos alunos compreende a presença, o comportamento e o aproveitamento.
+Art. 72.º - 1. A frequência dos alunos compreende a presença, o comportamento e o aproveitamento.
 
 2. O comportamento e o aproveitamento dos alunos são classificados pelo conselho dos professores da turma em reunião ordinária a efectuar no termo de cada período escolar.
 
-###### Art. 73.º - 1. O comportamento dos alunos em cada período escolar será referido aos conjuntos lectivos e abrangerá a compostura e disciplina nas aulas, a correcção de atitudes, a pontualidade, a lealdade, a sinceridade e o esforço no domínio dos impulsos, a diligência no cumprimento dos deveres, a boa vontade e o zelo na cumprimento das indicações dos professores, o cuidado, o interesse na realização das actividades escolares e circum-escolares, o espírito de arrumação, a ordem, limpeza, arranjo e apresentação nos trabalhos, nos cadernos e nos livros, e ainda o espírito de cooperação e ajuda nos trabalhos de grupo.
+Art. 73.º - 1. O comportamento dos alunos em cada período escolar será referido aos conjuntos lectivos e abrangerá a compostura e disciplina nas aulas, a correcção de atitudes, a pontualidade, a lealdade, a sinceridade e o esforço no domínio dos impulsos, a diligência no cumprimento dos deveres, a boa vontade e o zelo na cumprimento das indicações dos professores, o cuidado, o interesse na realização das actividades escolares e circum-escolares, o espírito de arrumação, a ordem, limpeza, arranjo e apresentação nos trabalhos, nos cadernos e nos livros, e ainda o espírito de cooperação e ajuda nos trabalhos de grupo.
 
 2. O comportamento não influi no resultado da frequência; será, porém, considerado pelos serviços de orientação escolar, bem como pelos de acção social escolar, dos centros de actividades circum-escolares.
 
-###### Art. 74.º São deveres do aluno:
+Art. 74.º São deveres do aluno:
 
 a) Cumprir as disposições regulamentares da escola e as instruções gerais que lhe sejam aplicáveis;
 
@@ -480,7 +607,7 @@ g) Tratar com delicadeza todos os colegas e pessoal da escola;
 
 h) Manter, dentro e fora da escola, uma atitude dignificante do estabelecimento de ensino que frequenta.
 
-###### Art. 75.º - 1. Aos alunos com aproveitamento distinto, e aos que pratiquem actos de especial mérito, podem ser atribuídas as seguintes recompensas:
+Art. 75.º - 1. Aos alunos com aproveitamento distinto, e aos que pratiquem actos de especial mérito, podem ser atribuídas as seguintes recompensas:
 
 a) Louvor dado na aula pelo professor;
 
@@ -494,7 +621,7 @@ d) Prémio com louvor publicado no Boletim da Direcção de Serviços.
 
 3. A instituição de prémios destinados a alunos depende de aprovação do Ministro.
 
-###### Art. 76.º - 1. O convívio escolar deve resultar de uma sã acção educativa. Só em caso de ineficácia dessa acção se deve recorrer ao castigo.
+Art. 76.º - 1. O convívio escolar deve resultar de uma sã acção educativa. Só em caso de ineficácia dessa acção se deve recorrer ao castigo.
 
 2. As penas disciplinares aplicáveis aos alunos por faltas praticadas durante as actividades ou fora delas são as seguintes:
 
@@ -532,9 +659,9 @@ d) Prémio com louvor publicado no Boletim da Direcção de Serviços.
 
 13. Para os alunos sujeitos à escolaridade obrigatória a informação dos processos de que resultar a aplicação das penas 5.ª e 6.ª deverá ser submetida ao Gabinete de Orientação Escolar da Inspecção.
 
-###### Art. 77.º Quando a aplicação de uma pena da competência do director da escola resulte perda do ano, haverá recurso para o Ministro, que ouvirá sempre o Conselho Permanente de Acção Educativa.
+Art. 77.º Quando a aplicação de uma pena da competência do director da escola resulte perda do ano, haverá recurso para o Ministro, que ouvirá sempre o Conselho Permanente de Acção Educativa.
 
-###### Art. 78.º - 1. São considerados infracções de disciplina, e por isso puníveis, quaisquer actos ou omissões contrários aos deveres do aluno.
+Art. 78.º - 1. São considerados infracções de disciplina, e por isso puníveis, quaisquer actos ou omissões contrários aos deveres do aluno.
 
 2. A graduação das penas será feita segundo a gravidade das infracções, tendo sempre em vista o carácter paternal e educativo da acção disciplinar.
 
@@ -542,19 +669,19 @@ d) Prémio com louvor publicado no Boletim da Direcção de Serviços.
 
 4. As faltas a aulas, a sessões e a outras actividades, dadas colectivamente, por meio de coligação, são sempre motivo de acção disciplinar.
 
-###### Art. 79.º A aplicação de qualquer pena não envolve necessàriamente a atribuição de nota de mau comportamento em relação a todo o período, mas será sempre comunicada ao conselho do ano ou turma a que o aluno pertencer.
+Art. 79.º A aplicação de qualquer pena não envolve necessàriamente a atribuição de nota de mau comportamento em relação a todo o período, mas será sempre comunicada ao conselho do ano ou turma a que o aluno pertencer.
 
-###### Art. 80.º Se um aluno, por culpa ou negligência, e embora o facto não mereça sanção disciplinar, causar à escola qualquer prejuízo material, é obrigado, por si ou pelo encarregado da sua educação, à competente indemnização, sob pena de suspensão da frequência.
+Art. 80.º Se um aluno, por culpa ou negligência, e embora o facto não mereça sanção disciplinar, causar à escola qualquer prejuízo material, é obrigado, por si ou pelo encarregado da sua educação, à competente indemnização, sob pena de suspensão da frequência.
 
-###### Art. 81.º O aproveitamento dos alunos será referido à seguinte escala: O a 4, Mau; 5 a 9, Medíocre; 10 a 13, Suficiente; 14 e 15, Bom; 16 e 17, Bom com distinção; 18 a 20, Muito bom.
+Art. 81.º O aproveitamento dos alunos será referido à seguinte escala: O a 4, Mau; 5 a 9, Medíocre; 10 a 13, Suficiente; 14 e 15, Bom; 16 e 17, Bom com distinção; 18 a 20, Muito bom.
 
-###### Art. 82.º - 1. A cada aluno é atribuída, em cada uma das disciplinas dos conjuntos A, B, C e E, à excepção de Moral e Religião, uma nota por período, expressa em valores, e uma classificação final, resultante da média arredondada das notas do período.
+Art. 82.º - 1. A cada aluno é atribuída, em cada uma das disciplinas dos conjuntos A, B, C e E, à excepção de Moral e Religião, uma nota por período, expressa em valores, e uma classificação final, resultante da média arredondada das notas do período.
 
 2. Haverá apenas uma nota ou classificação de conjunto, em cada período e no final, quanto a Desenho e Trabalhos Manuais, que funcionarão, para este efeito, como disciplina única.
 
 3. Nas disciplinas de Moral e Religião, Educação Musical e Educação Física serão atribuídas sòmente notas de período não expressas em valores.
 
-###### Art. 83.º - 1. Perde a frequência:
+Art. 83.º - 1. Perde a frequência:
 
 a) O aluno que tiver duas notas inferiores a 5, no mesmo ou em diferentes períodos, na mesma ou em diferentes disciplinas;
 
@@ -566,31 +693,31 @@ d) O aluno que em qualquer disciplina tiver classificação final inferior a 5.
 
 2. Na hipótese da alínea c), o aluno não perderá a frequência se tiver apenas duas classificações finais de 9, em disciplinas que não pertençam ao mesmo conjunto, e em qualquer disciplina tiver, pelo menos, classificação final de 14.
 
-###### Art. 84.º - 1. As notas são dadas, em conferência, pelo conselho de turma, sob proposta dos professores respectivos.
+Art. 84.º - 1. As notas são dadas, em conferência, pelo conselho de turma, sob proposta dos professores respectivos.
 
 2. O conselho ponderará os vários elementos de apreciação do aproveitamento dos alunos, de modo especial nos casos em que sejam propostas nota ou notas de que resulte a perda de frequência.
 
-###### Art. 85.º A aprovação na frequência do 2.º ano do ciclo preparatório constitui habilitação para ser admitido ao exame de aptidão a qualquer dos ramos subsequentes do ensino secundário.
+Art. 85.º A aprovação na frequência do 2.º ano do ciclo preparatório constitui habilitação para ser admitido ao exame de aptidão a qualquer dos ramos subsequentes do ensino secundário.
 
-###### Art. 86.º O aluno aprovado no exame de aptidão a qualquer dos referidos ramos fica tendo, para todos os efeitos legais, a habilitação do ciclo preparatório.
+Art. 86.º O aluno aprovado no exame de aptidão a qualquer dos referidos ramos fica tendo, para todos os efeitos legais, a habilitação do ciclo preparatório.
 
 #### SECÇÃO IV — Exames de fim de ciclo
 
-###### Art. 87.º A habilitação específica do ciclo preparatório é obtida mediante exame de fim de ciclo.
+Art. 87.º A habilitação específica do ciclo preparatório é obtida mediante exame de fim de ciclo.
 
-###### Art. 88.º Podem submeter-se ao exame de fim do ciclo preparatório os alunos que tenham a frequência com aproveitamento do 2.º ano do ciclo complementar do ensino primário.
+Art. 88.º Podem submeter-se ao exame de fim do ciclo preparatório os alunos que tenham a frequência com aproveitamento do 2.º ano do ciclo complementar do ensino primário.
 
-###### Art. 89.º - 1. Os exames de fim de ciclo efectuar-se-ão depois de terminados os exames de aptidão aos ramos subsequentes do ensino secundário.
+Art. 89.º - 1. Os exames de fim de ciclo efectuar-se-ão depois de terminados os exames de aptidão aos ramos subsequentes do ensino secundário.
 
 2. Os exames de fim de ciclo devem ser requeridos até o quinto dia posterior ao termo dos exames de aptidão aos diversos ramos subsequentes do ensino secundário.
 
-###### Art. 90.º Os exames de fim de ciclo constam de provas escritas e orais e versam sobre matérias dos conjuntos A, B e E, à excepção de Moral e Religião.
+Art. 90.º Os exames de fim de ciclo constam de provas escritas e orais e versam sobre matérias dos conjuntos A, B e E, à excepção de Moral e Religião.
 
-###### Art. 91.º As provas escritas têm a duração de 90 minutos; as provas orais não excederão 10 minutos em cada disciplina.
+Art. 91.º As provas escritas têm a duração de 90 minutos; as provas orais não excederão 10 minutos em cada disciplina.
 
-###### Art. 92.º Os júris são constituídos por um mínimo de três professores, um dos quais será o presidente.
+Art. 92.º Os júris são constituídos por um mínimo de três professores, um dos quais será o presidente.
 
-###### Art. 93.º - 1. As provas escritas e orais são apreciadas pelo júri, que atribuirá ao aluno, em cada disciplina, nota expressa em valores.
+Art. 93.º - 1. As provas escritas e orais são apreciadas pelo júri, que atribuirá ao aluno, em cada disciplina, nota expressa em valores.
 
 2. Considera-se excluído nas provas escritas:
 
@@ -602,7 +729,7 @@ b) O aluno que no conjunto das disciplinas tiver média inferior a 9.
 
 3. É dispensado da prestação das provas orais o aluno que no conjunto das provas escritas tiver obtido média não inferior a 13.
 
-###### Art. 94.º Após as provas orais considera-se excluído:
+Art. 94.º Após as provas orais considera-se excluído:
 
 a) O aluno que tiver classificação inferior a 10 em Língua Portuguesa ou em duas outras disciplinas;
 
@@ -610,21 +737,21 @@ b) O aluno que tiver classificação inferior a 5 em qualquer disciplina;
 
 c) O aluno que tiver classificação inferior a 9,5 na média das provas orais ou na média das médias das provas escritas e orais.
 
-###### Art. 95.º Para os candidatos nas condições do artigo 88.º, quando reprovados, o júri poderá decidir considerá-los habilitados ao ingresso no 2.º ano do ciclo preparatório.
+Art. 95.º Para os candidatos nas condições do artigo 88.º, quando reprovados, o júri poderá decidir considerá-los habilitados ao ingresso no 2.º ano do ciclo preparatório.
 
-###### Art. 96.º Os resultados dos exames serão registados no livro de frequência do 2.º ano dos alunos respectivos.
+Art. 96.º Os resultados dos exames serão registados no livro de frequência do 2.º ano dos alunos respectivos.
 
 #### SECÇÃO V — Instrumentos didácticos
 
-###### Art. 97.º - 1. Como instrumentos didácticos são utilizados, no ensino do ciclo, compêndios; livros de texto e outros livros de consulta, quadros, mapas, tabelas, gráficos, exemplares e modelos, instrumentos de observação, medida e traçado, material audiovisual, máquinas, aparelhos e ferramentas, e ainda outro material de trabalho ou demonstração, preparado pelos professores e pelos alunos, ou adquirido.
+Art. 97.º - 1. Como instrumentos didácticos são utilizados, no ensino do ciclo, compêndios; livros de texto e outros livros de consulta, quadros, mapas, tabelas, gráficos, exemplares e modelos, instrumentos de observação, medida e traçado, material audiovisual, máquinas, aparelhos e ferramentas, e ainda outro material de trabalho ou demonstração, preparado pelos professores e pelos alunos, ou adquirido.
 
 2. O Ministro da Educação Nacional pode estabelecer normas mínimas a que deva obedecer o material didáctico.
 
 3. As salas de aula devem ser organizadas, quanto possível, com vista às exigências específicas de cada disciplina, de modo a permitir a utilização fácil dos instrumentos didácticos e dos dispositivos apropriados à realização de um ensino activo e prático.
 
-###### Art. 98.º Os compêndios não devem ser utilizados como meio exclusivo de orientação do ensino.
+Art. 98.º Os compêndios não devem ser utilizados como meio exclusivo de orientação do ensino.
 
-###### Art. 99.º - l. Os compêndios e livros de textos a adoptar, em cada escola, nas diferentes disciplinas, serão anualmente escolhidos pelo respectivo conselho escolar, sobre parecer do conselho de orientação escolar.
+Art. 99.º - l. Os compêndios e livros de textos a adoptar, em cada escola, nas diferentes disciplinas, serão anualmente escolhidos pelo respectivo conselho escolar, sobre parecer do conselho de orientação escolar.
 
 2. A escolha deverá ser feita entre os livros autorizados para o ensino do ciclo pelo Ministro da Educação Nacional.
 
@@ -632,13 +759,13 @@ c) O aluno que tiver classificação inferior a 9,5 na média das provas orais o
 
 4. Os programas das disciplinas podem estabelecer a exigência de cadernos de trabalho, livros de consulta e livros auxiliares, carecendo a sua adopção nas escolas de autorização da Direcção de Serviços do Ciclo Preparatório.
 
-###### Art. 100.º - 1. A apreciação dos livros escolares apresentados para autorização compete à Inspecção do Ciclo Preparatório, enquanto não for criada na Junta Nacional de Educação uma secção relativa a esse ciclo.
+Art. 100.º - 1. A apreciação dos livros escolares apresentados para autorização compete à Inspecção do Ciclo Preparatório, enquanto não for criada na Junta Nacional de Educação uma secção relativa a esse ciclo.
 
 2. Não será considerado o livro que se mostre em desarmonia com a doutrina e moral cristãs tradicionais do País ou com os superiores interesses e valores da Nação Portuguesa.
 
 3. Não poderá ser presente para apreciação qualquer livro cuja autoria pertença, no todo ou em parte, a qualquer dos funcionários da Direcção de Serviços do Ciclo Preparatório.
 
-###### Art. 101.º - 1. A autorização para cada livro, válida por um prazo de cinco anos, será dada por despacho do Ministro da Educação Nacional.
+Art. 101.º - 1. A autorização para cada livro, válida por um prazo de cinco anos, será dada por despacho do Ministro da Educação Nacional.
 
 2. A autorização tornar-se-á definitiva, nos termos do número anterior, quando, depois de impresso, o livro mostre satisfazer às prescrições que tiverem sido determinadas pela Inspecção do Ciclo Preparatório.
 
@@ -646,9 +773,9 @@ c) O aluno que tiver classificação inferior a 9,5 na média das provas orais o
 
 4. A autorização a que se refere o n.º 4 do artigo 104.º será publicada no Diário do Governo, sendo a partir desta data que se contará o prazo consignado no n.º 1.
 
-###### Art. 102.º A autorização dos livros escolares a que se refere o artigo 101.º é feita mediante prévio concurso público nos prazos que forem fixados por despacho ministerial, anunciados no Diário do Governo.
+Art. 102.º A autorização dos livros escolares a que se refere o artigo 101.º é feita mediante prévio concurso público nos prazos que forem fixados por despacho ministerial, anunciados no Diário do Governo.
 
-###### Art. 103.º - 1. Os autores interessados na aprovação dos seus livros apresentarão, nos prazos fixados, requerimento, dirigido ao director de Serviços do Ciclo Preparatório do Ensino Secundário, do qual constem os elementos necessários à sua completa identificação.
+Art. 103.º - 1. Os autores interessados na aprovação dos seus livros apresentarão, nos prazos fixados, requerimento, dirigido ao director de Serviços do Ciclo Preparatório do Ensino Secundário, do qual constem os elementos necessários à sua completa identificação.
 
 2. O requerimento referido deve vir acompanhado de três originais dactilografados ou impressos, encerrados em sobrescrito lacrado e exteriormente identificado.
 
@@ -662,7 +789,7 @@ c) O aluno que tiver classificação inferior a 9,5 na média das provas orais o
 
 7. Os autores concorrentes podem apresentar-se a concurso isoladamente, na qualidade de editores das suas próprias obras, ou em conjunto com empresas editoras e distribuidoras de livros.
 
-###### Art. 104.º - 1. A apreciação dos livros de cada disciplina, apresentados a concurso será feita por dois professores da respectiva especialidade, nomeados pelo presidente da referida secção, que apresentarão, em prazo prèviamente estabelecido, relatório circunstanciado e devidamente fundamentado, dando parecer sobre o mérito científico e pedagógico absoluto e relativo de cada livro, e tendo sempre em vista a sua harmonia com os programas e com o disposto nos n.os 2 e 3 do artigo 100.º
+Art. 104.º - 1. A apreciação dos livros de cada disciplina, apresentados a concurso será feita por dois professores da respectiva especialidade, nomeados pelo presidente da referida secção, que apresentarão, em prazo prèviamente estabelecido, relatório circunstanciado e devidamente fundamentado, dando parecer sobre o mérito científico e pedagógico absoluto e relativo de cada livro, e tendo sempre em vista a sua harmonia com os programas e com o disposto nos n.os 2 e 3 do artigo 100.º
 
 2. Quando um livro revele mérito no seu conjunto, contendo, todavia, omissões ou erros, ou exigindo alguma supressão, o relatório deverá indicar taxativamente as alterações a efectuar.
 
@@ -672,9 +799,9 @@ c) O aluno que tiver classificação inferior a 9,5 na média das provas orais o
 
 5. Não podem tomar parte na apreciação ou exame de um compêndio os autores, proprietários e editores de quaisquer livros escolares, nem os seus parentes e afins até o 4.º grau.
 
-###### Art. 105.º Cada exemplar dos livros autorizados terá impresso dizeres indicativos do período de autorização, do respectivo despacho ministerial e data e número do respectivo Diário do Governo em que o mesmo veio publicado, bem como o preço fixado.
+Art. 105.º Cada exemplar dos livros autorizados terá impresso dizeres indicativos do período de autorização, do respectivo despacho ministerial e data e número do respectivo Diário do Governo em que o mesmo veio publicado, bem como o preço fixado.
 
-###### Art. 106.º - 1. Não é permitido aos professores, quando haja livros autorizados para uma disciplina, orientar o ensino por outros livros ou por apontamentos.
+Art. 106.º - 1. Não é permitido aos professores, quando haja livros autorizados para uma disciplina, orientar o ensino por outros livros ou por apontamentos.
 
 2. É proibido, tanto no ensino público como no particular, o uso de livros denominados auxiliares, epítomes ou resumos de matérias dos programas, e o de paráfrases ou traduções dos livros de texto aprovados para as disciplinas de línguas.
 
@@ -682,15 +809,15 @@ c) O aluno que tiver classificação inferior a 9,5 na média das provas orais o
 
 4. Será sempre movido processo disciplinar ao autor da infracção referida no número anterior quando seja professor do ensino público ou particular ou director de estabelecimento de ensino.
 
-###### Art. 107.º - 1. Poderá ser estabelecida a exigência de autorização para a utilização nas escolas de determinados instrumentos didácticos.
+Art. 107.º - 1. Poderá ser estabelecida a exigência de autorização para a utilização nas escolas de determinados instrumentos didácticos.
 
 2. A indicação dos instrumentos didácticos que devem ser objecto de autorização e a sua apreciação competem à inspecção do Ciclo Preparatório.
 
-###### Art. 108.º Os instrumentos didácticos confeccionados pelos alunos e os trabalhos realizados nas aulas, nos quais se verifiquem motivos que especialmente os recomendem, devem ser conservados, juntamente com outros elementos recolhidos pelos alunos, em trabalhos de observação e pesquisa, e reunidos de forma a constituir-se com eles na escola um ambiente de estímulo cultural.
+Art. 108.º Os instrumentos didácticos confeccionados pelos alunos e os trabalhos realizados nas aulas, nos quais se verifiquem motivos que especialmente os recomendem, devem ser conservados, juntamente com outros elementos recolhidos pelos alunos, em trabalhos de observação e pesquisa, e reunidos de forma a constituir-se com eles na escola um ambiente de estímulo cultural.
 
 #### SECÇÃO VI — Orientação escolar
 
-###### Art. 109.º - 1. Será organizado em cada escola um serviço de orientação escolar, tendo por finalidades:
+Art. 109.º - 1. Será organizado em cada escola um serviço de orientação escolar, tendo por finalidades:
 
 a) Proporcionar aos alunos e aos seus encarregados de educação elementos de informação que os auxiliem na escolha dos estudos subsequentes;
 
@@ -698,13 +825,13 @@ b) Orientar a escola e as famílias nos problemas relativos às dificuldades esc
 
 2. O serviço de orientação escolar entrará em funcionamento à medida que a Inspecção do Ciclo Preparatório o determine.
 
-###### Art. 110.º - 1. A orientação escolar baseia-se na apreciação do aproveitamento e do comportamento do aluno e dos factores que os condicionam, na observação sistemática da sua evolução psicossomática, das manifestações da sua personalidade e das suas reacções aos estímulos dos programas das várias disciplinas.
+Art. 110.º - 1. A orientação escolar baseia-se na apreciação do aproveitamento e do comportamento do aluno e dos factores que os condicionam, na observação sistemática da sua evolução psicossomática, das manifestações da sua personalidade e das suas reacções aos estímulos dos programas das várias disciplinas.
 
 2. Para efeitos do estabelecido no número anterior, poderão ser utilizados os elementos de observação e diagnóstico obtidos através das técnicas psicopedagógicas que se revelem aconselháveis.
 
-###### Art. 111.º Na escolha da carreira ou dos estudos subsequentes, os alunos e os pais e tutores utilizarão, como o julgarem mais conveniente, os elementos de informação e as sugestões oferecidas pela escola, as quais não possuem carácter, vinculativo.
+Art. 111.º Na escolha da carreira ou dos estudos subsequentes, os alunos e os pais e tutores utilizarão, como o julgarem mais conveniente, os elementos de informação e as sugestões oferecidas pela escola, as quais não possuem carácter, vinculativo.
 
-###### Art. 112.º - 1. Em cada escola preparatória haverá um conselho de orientação escolar constituído pelo director, que presidirá, pelo subdirector, quando exista, pelo médico escolar, pelos professores de Moral e Religião e de Educação Física e por outros professores designados pelo conselho escolar, e será secretariado por um destes.
+Art. 112.º - 1. Em cada escola preparatória haverá um conselho de orientação escolar constituído pelo director, que presidirá, pelo subdirector, quando exista, pelo médico escolar, pelos professores de Moral e Religião e de Educação Física e por outros professores designados pelo conselho escolar, e será secretariado por um destes.
 
 2. Ao conselho de orientação escolar compete:
 
@@ -722,15 +849,15 @@ f) Dar parecer sobre a escolha de compêndios, livros de texto e material didác
 
 3. Para as reuniões do conselho de orientação que se ocupem dos assuntos referidos nas alíneas a) e e) deverá ser convocado um representante dos pais dos alunos.
 
-###### Art. 113.º - 1. O serviço de orientação escolar será efectuado através da recolha, sistematização e estudo das observações clínicas, psicológicas e escolares de cada aluno, em que colaborarão os respectivos professores, os médicos escolares e os professores encarregados da organização dos processos individuais.
+Art. 113.º - 1. O serviço de orientação escolar será efectuado através da recolha, sistematização e estudo das observações clínicas, psicológicas e escolares de cada aluno, em que colaborarão os respectivos professores, os médicos escolares e os professores encarregados da organização dos processos individuais.
 
 2. Os serviços de orientação escolar de cada escola podem, com autorização do Gabinete de Orientação Escolar, e dos encarregados de educação e a concordância dos serviços de acção social escolar, solicitar dos serviços psicotécnicos ou de higiene mental e das clínicas médicas especializadas, psicológicas, de orientação, ou outras, as observações que julguem necessárias e excedam as possibilidades técnicas da escola, ficando as respectivas despesas a cargo do serviço de acção social escolar.
 
-###### Art. 114.º - 1. As observações e os demais elementos de informação de interesse individual e social para a orientação escolar de cada aluno serão coligidos e sistematizados em processos individuais.
+Art. 114.º - 1. As observações e os demais elementos de informação de interesse individual e social para a orientação escolar de cada aluno serão coligidos e sistematizados em processos individuais.
 
 2. O processo de orientação escolar de cada aluno será único, acompanhando-o nas turmas e nas escolas preparatórias onde receber o ensino.
 
-###### Art. 115.º - 1. Os serviços de orientação escolar serão organizados, em cada escola, por turmas.
+Art. 115.º - 1. Os serviços de orientação escolar serão organizados, em cada escola, por turmas.
 
 2. O estudo e a elaboração das conclusões dos processos individuais de orientação escolar dos alunos competirão a um grupo de professores da turma, designado pelo conselho de orientação escolar, assistido pelo médico escolar, pelos professores de Moral e Religião e Educação Física e presidido pelo director da turma.
 
@@ -738,45 +865,45 @@ f) Dar parecer sobre a escolha de compêndios, livros de texto e material didác
 
 4. Os professores encarregados de organizar os processos individuais de orientação serão adstritos ao conselho de orientação, se dele não fizerem parte.
 
-###### Art. 116.º Compete aos professores referidos no n.º 3 do artigo anterior:
+Art. 116.º Compete aos professores referidos no n.º 3 do artigo anterior:
 
 a) Reunir e classificar todos os elementos necessários à preparação dos processos individuais dos alunos, solicitando designadamente informações à família, serviços de acção social escolar dos centros de actividades circum-escolares, médico escolar e restantes membros do corpo docente;
 
 b) Proceder ao estudo desses elementos, de modo a elaborar a conclusão dos processos individuais e poder prestar as informações que lhe sejam pedidas pelo conselho de orientação, autoridades escolares e encarregados de educação.
 
-###### Art. 117.º - 1. A escolha dos mencionados professores deve, tanto quanto possível, recair em elementos do corpo docente com preparação psicopedagógica, cultura humanística e mais de 30 anos de idade, estando sujeita a autorização do director de Serviços do Ciclo Preparatório.
+Art. 117.º - 1. A escolha dos mencionados professores deve, tanto quanto possível, recair em elementos do corpo docente com preparação psicopedagógica, cultura humanística e mais de 30 anos de idade, estando sujeita a autorização do director de Serviços do Ciclo Preparatório.
 
 2. É dever desses professores seguirem os cursos de aperfeiçoamento organizados ou autorizados pela Direcção de Serviços.
 
 3. O mesmo professor deverá, em princípio, acompanhar a orientação escolar de cada aluno durante a sua frequência da escola.
 
-###### Art. 118.º Os serviços de orientação escolar efectuarão o estudo dos problemas relativos às dificuldades escolares e educativas dos alunos, tanto de carácter geral como específicas, procurando estabelecer, no que for possível, os respectivos diagnósticos e as normas de acção a aconselhar, quer no que respeita às actividades escolares, quer no que interessa à vida familiar.
+Art. 118.º Os serviços de orientação escolar efectuarão o estudo dos problemas relativos às dificuldades escolares e educativas dos alunos, tanto de carácter geral como específicas, procurando estabelecer, no que for possível, os respectivos diagnósticos e as normas de acção a aconselhar, quer no que respeita às actividades escolares, quer no que interessa à vida familiar.
 
-###### Art. 119.º Nos planos estabelecidos pelo conselho de orientação escolar providenciar-se-á de forma que, estudado cada aluno dentro da sua turma do 1.º ano, o seu processo transite ao ano seguinte até que possa ser resumido numa ficha individual de que constem os elementos úteis de observação relativos às suas aptidões e faculdades, capacidades e rendimento escolar, aspectos caractereológicos, dificuldades especiais, tendências acentuadas e outros aspectos de interesse para a orientação escolar, com as sugestões de conclusão que sejam possível formular.
+Art. 119.º Nos planos estabelecidos pelo conselho de orientação escolar providenciar-se-á de forma que, estudado cada aluno dentro da sua turma do 1.º ano, o seu processo transite ao ano seguinte até que possa ser resumido numa ficha individual de que constem os elementos úteis de observação relativos às suas aptidões e faculdades, capacidades e rendimento escolar, aspectos caractereológicos, dificuldades especiais, tendências acentuadas e outros aspectos de interesse para a orientação escolar, com as sugestões de conclusão que sejam possível formular.
 
-###### Art. 120.º As sugestões de conclusão a que se refere o artigo anterior, consideradas úteis, deverão ser facultadas às famílias no final da frequência de cada ano, sem prejuízo das informações e dos esclarecimentos que às mesmas famílias serão fornecidos quando solicitados.
+Art. 120.º As sugestões de conclusão a que se refere o artigo anterior, consideradas úteis, deverão ser facultadas às famílias no final da frequência de cada ano, sem prejuízo das informações e dos esclarecimentos que às mesmas famílias serão fornecidos quando solicitados.
 
-###### Art. 121.º - 1. As fichas de orientação escolar, bem como os elementos de observação e diagnóstico, quando não obtidos através de informações do domínio comum, consideram-se estritamente confidenciais, sendo obrigados a sigilo os professores, médicos, psicólogos escolares e mais entidades que tenham acesso a esses dados.
+Art. 121.º - 1. As fichas de orientação escolar, bem como os elementos de observação e diagnóstico, quando não obtidos através de informações do domínio comum, consideram-se estritamente confidenciais, sendo obrigados a sigilo os professores, médicos, psicólogos escolares e mais entidades que tenham acesso a esses dados.
 
 2. Salvo nos casos especificados na lei, os dados referidos no número anterior só com autorização dos pais ou tutores dos alunos podem ser levados ao conhecimento de outras pessoas ou entidades, sem prejuízo da sua eventual utilização em trabalhos de investigação científica, realizados segundo as normas deontológicas aplicáveis.
 
-###### Art. 122.º As escolas preparatórias fornecerão, sob sigilo, aos estabelecimentos de ensino em que os alunos posteriormente se matriculem, cópias das fichas individuais de orientação ou de elementos que delas constem, sempre que esses estabelecimentos o solicitem.
+Art. 122.º As escolas preparatórias fornecerão, sob sigilo, aos estabelecimentos de ensino em que os alunos posteriormente se matriculem, cópias das fichas individuais de orientação ou de elementos que delas constem, sempre que esses estabelecimentos o solicitem.
 
-###### Art. 123.º Os serviços de acção social-escolar, dos centros de actividade circum-escolares e os conselhos de turma colaborarão com os serviços de orientação escolar no estudo e resolução dos problemas relativos às dificuldades escolares e educativas dos alunos a que se referem os artigos 19.º e 118.º
+Art. 123.º Os serviços de acção social-escolar, dos centros de actividade circum-escolares e os conselhos de turma colaborarão com os serviços de orientação escolar no estudo e resolução dos problemas relativos às dificuldades escolares e educativas dos alunos a que se referem os artigos 19.º e 118.º
 
 ### CAPÍTULO V — Cursos supletivos do ciclo preparatório
 
 #### SECÇÃO I — Cursos para adolescentes e adultos
 
-###### Art. 124.º - 1. Para os alunos que à data da matrícula no 1.º ano do ciclo preparatório tenham excedido a idade referida no artigo 37.º podem ser organizados cursos supletivos do mesmo ciclo.
+Art. 124.º - 1. Para os alunos que à data da matrícula no 1.º ano do ciclo preparatório tenham excedido a idade referida no artigo 37.º podem ser organizados cursos supletivos do mesmo ciclo.
 
 2. Observar-se-á quanto a estes alunos, no que respeita ao funcionamento das actividades escolares, matrículas, frequência e exames, o que se encontra determinado para os alunos do ciclo, na parte aplicável.
 
-###### Art. 125.º - 1. Os cursos supletivos do ciclo preparatório destinados a alunos menores de dezoito anos podem funcionar em qualquer escola preparatória, dentro do período lectivo diário normal ou em período diferente, devendo no primeiro caso ser separados das classes do ciclo.
+Art. 125.º - 1. Os cursos supletivos do ciclo preparatório destinados a alunos menores de dezoito anos podem funcionar em qualquer escola preparatória, dentro do período lectivo diário normal ou em período diferente, devendo no primeiro caso ser separados das classes do ciclo.
 
 2. Os cursos destinados a alunos maiores de dezoito anos, quando organizados em escolas preparatórias, serão ministrados fora do horário normal do ciclo.
 
-###### Art. 126.º - 1. Os cursos supletivos destinados aos alunos a que se refere o n.º 1 do artigo anterior obedecerão ao plano de estudos e programas do ciclo, mas a orientação do ensino e os métodos devem ser adaptados à idade, ao desenvolvimento e aos interesses dos alunos.
+Art. 126.º - 1. Os cursos supletivos destinados aos alunos a que se refere o n.º 1 do artigo anterior obedecerão ao plano de estudos e programas do ciclo, mas a orientação do ensino e os métodos devem ser adaptados à idade, ao desenvolvimento e aos interesses dos alunos.
 
 2. Os trabalhos manuais terão o carácter politécnico de pré-preparação profissional.
 
@@ -784,7 +911,7 @@ b) Proceder ao estudo desses elementos, de modo a elaborar a conclusão dos proc
 
 4. O serviço de orientação para estes alunos será organizado com as simplificações que a prática aconselhar.
 
-###### Art. 127.º - 1. Os cursos supletivos do ciclo preparatório destinados a alunos maiores de 18 anos obedecerão ao seguinte plano de estudos, com o número de aulas semanais adiante designado, em cada um dos anos:
+Art. 127.º - 1. Os cursos supletivos do ciclo preparatório destinados a alunos maiores de 18 anos obedecerão ao seguinte plano de estudos, com o número de aulas semanais adiante designado, em cada um dos anos:
 
 Conjunto A:
 
@@ -822,41 +949,41 @@ Francês ou Inglês ... 3
 
 5. Os cursos supletivos a que se refere o presente artigo podem também ser frequentados por indivíduos menores de dezoito anos que estejam empregados e não se encontrem já sujeitos à escolaridade obrigatória.
 
-###### Art. 128.º - 1. Aos alunos dos cursos supletivos a que se refere o artigo anterior será facultada a matrícula e a frequência dos mesmos cursos por conjuntos lectivos.
+Art. 128.º - 1. Aos alunos dos cursos supletivos a que se refere o artigo anterior será facultada a matrícula e a frequência dos mesmos cursos por conjuntos lectivos.
 
 2. Considera-se aprovado na frequência de cada conjunto o aluno que nele tenha obtido classificação anual de aproveitamento não inferior a dez valores.
 
 3. A matrícula em qualquer conjunto lectivo no 2.º ano dependerá apenas da aprovação no mesmo conjunto no 1.º ano.
 
-###### Art. 129.º Os livros escolares para o ensino dos cursos supletivos do ciclo preparatório a que se referem os artigos anteriores serão escolhidos pelos conselhos escolares entre os superiormente autorizados para os mesmos cursos; na falta destes, poderão ser escolhidos entre os livros autorizados para o ciclo.
+Art. 129.º Os livros escolares para o ensino dos cursos supletivos do ciclo preparatório a que se referem os artigos anteriores serão escolhidos pelos conselhos escolares entre os superiormente autorizados para os mesmos cursos; na falta destes, poderão ser escolhidos entre os livros autorizados para o ciclo.
 
 #### SECÇÃO II — Ensinos individual e doméstico
 
-###### Art. 130.º Aos alunos que, por motivo de doença ou de distância da sua residência às escolas preparatórias, ou por outro motivo absolutamente justificado, se encontrem impossibilitados de frequentar as mesmas escolas, poderão ser ministrados cursos supletivos do ciclo preparatório.
+Art. 130.º Aos alunos que, por motivo de doença ou de distância da sua residência às escolas preparatórias, ou por outro motivo absolutamente justificado, se encontrem impossibilitados de frequentar as mesmas escolas, poderão ser ministrados cursos supletivos do ciclo preparatório.
 
 2. No ensino doméstico, quando não seja ministrado por alguma das pessoas referidas no n.º 2 da base III da [Lei n.º 2033](https://diariodarepublica.pt/dr/detalhe/lei/2033-1949-260611), de 27 de Junho de 1949, exige-se a habilitação do curso geral dos liceus ou equivalente, competindo sempre a sua responsabilidade aos pais ou tutores dos alunos.
 
 3. O ensino nos termos do n.º 1 pode ser ministrado singularmente ou em grupos que não excedam cinco alunos, em regime itinerante, por professores do ensino particular do ciclo, podendo aquele número ser excedido no caso de alunos internados em estabelecimento hospitalar ou de recuperação de diminuídos físicos.
 
-###### Art. 131.º Os cursos previstos no artigo anterior obedecerão ao plano de estudos e aos programas do ciclo, mas os métodos de ensino deverão ser adaptados às condições em que o ensino se realizar.
+Art. 131.º Os cursos previstos no artigo anterior obedecerão ao plano de estudos e aos programas do ciclo, mas os métodos de ensino deverão ser adaptados às condições em que o ensino se realizar.
 
-###### Art. 132.º Os alunos dos referidos cursos farão a sua inscrição até o dia 30 de Setembro de cada ano numa escola preparatória pública do concelho ou, na falta desta, na escola preparatória pública do mesmo distrito que for designada para esse efeito.
+Art. 132.º Os alunos dos referidos cursos farão a sua inscrição até o dia 30 de Setembro de cada ano numa escola preparatória pública do concelho ou, na falta desta, na escola preparatória pública do mesmo distrito que for designada para esse efeito.
 
-###### Art. 133.º No caso de a doença ou diminuição física do aluno o impossibilitar de se deslocar do lar doméstico ou do estabelecimento hospitalar ou de recuperação onde se encontre internado, poderá prever-se a prestação de provas de exame nesses locais.
+Art. 133.º No caso de a doença ou diminuição física do aluno o impossibilitar de se deslocar do lar doméstico ou do estabelecimento hospitalar ou de recuperação onde se encontre internado, poderá prever-se a prestação de provas de exame nesses locais.
 
 ### CAPÍTULO VI — Direcção e administração das escolas
 
 #### SECÇÃO I — Direcção
 
-###### Art. 134.º A direcção de cada escola preparatória incumbe a um director, o qual é responsável pelo seu funcionamento e pela observância das disposições legais e mais instruções superiores.
+Art. 134.º A direcção de cada escola preparatória incumbe a um director, o qual é responsável pelo seu funcionamento e pela observância das disposições legais e mais instruções superiores.
 
-###### Art. 135.º - 1. Nas escolas públicas, os directores são nomeados pelo Ministro, de entre os professores do ciclo preparatório ou de qualquer ramo de ensino secundário.
+Art. 135.º - 1. Nas escolas públicas, os directores são nomeados pelo Ministro, de entre os professores do ciclo preparatório ou de qualquer ramo de ensino secundário.
 
 2. As nomeações poderão também recair em indivíduos licenciados em Psicologia ou Pedagogia por qualquer escola superior e ainda em indivíduos que se tenham distinguido pela sua especial competência em assuntos pedagógicos.
 
 3. Os directores são nomeados por períodos de três anos, renováveis uma ou mais vezes, e, quando pertencentes aos quadros do Estado, são considerados em comissão de serviço, podendo ser sempre livremente exonerados a todo o tempo.
 
-###### Art. 136.º Compete ao director, além de outras obrigações consignadas no Estatuto:
+Art. 136.º Compete ao director, além de outras obrigações consignadas no Estatuto:
 
 a) Comparecer diàriamente na escola e assegurar o normal funcionamento dos serviços, prestando-lhes assídua assistência e velando pela rigorosa manutenção das condições do convívio escolar;
 
@@ -912,25 +1039,25 @@ cc) Delegar parte das suas funções nos seus auxiliares directos, mediante pré
 
 dd) Dirigir e coordenar as actividades circum-escolares de acordo com o disposto no [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966.
 
-###### Art. 137.º Quando a nomeação de director de escola recair num indivíduo estranho aos quadros docentes do ensino preparatório, nos termos do n.º 2 do artigo 135.º, ser-lhe-á abonado enquanto exercer o cargo, além da gratificação respectiva, o vencimento de professor efectivo sem diuturnidade, pago pelas disponibilidades das verbas de pessoal.
+Art. 137.º Quando a nomeação de director de escola recair num indivíduo estranho aos quadros docentes do ensino preparatório, nos termos do n.º 2 do artigo 135.º, ser-lhe-á abonado enquanto exercer o cargo, além da gratificação respectiva, o vencimento de professor efectivo sem diuturnidade, pago pelas disponibilidades das verbas de pessoal.
 
-###### Art. 138.º - 1. O professor que, por virtude de nomeação como director, tenha de deslocar-se do continente para as ilhas adjacentes ou vice-versa terá direito, na ida, a passagem em 1.ª classe para si, seu cônjuge e filhos a seu cargo, ao transporte de bagagem e ainda a ajudas de custo durante 60 dias, a partir da data do embarque, e às mesmas regalias no regresso, desde que tenha exercido as funções, pelo menos, durante um período de cinco anos, salvo motivo de doença ou força maior devidamente comprovado.
+Art. 138.º - 1. O professor que, por virtude de nomeação como director, tenha de deslocar-se do continente para as ilhas adjacentes ou vice-versa terá direito, na ida, a passagem em 1.ª classe para si, seu cônjuge e filhos a seu cargo, ao transporte de bagagem e ainda a ajudas de custo durante 60 dias, a partir da data do embarque, e às mesmas regalias no regresso, desde que tenha exercido as funções, pelo menos, durante um período de cinco anos, salvo motivo de doença ou força maior devidamente comprovado.
 
 2. O professor que for nomeado director de uma escola de localidade diferente da escola a cujo quadro pertence será abonado das despesas de transporte em 1.ª classe e de ajudas de custo durante 60 dias, desde que tenha entrado em exercício na referida escola.
 
-###### Art. 139.º - 1. O director toma posse do seu lugar na escola perante o director cessante ou o professor encarregado da direcção, dentro dos quinze dias seguintes ao da publicação da sua nomeação no Diário do Governo, se outro prazo lhe não for fixado.
+Art. 139.º - 1. O director toma posse do seu lugar na escola perante o director cessante ou o professor encarregado da direcção, dentro dos quinze dias seguintes ao da publicação da sua nomeação no Diário do Governo, se outro prazo lhe não for fixado.
 
 2. Quando se tratar de nomeação para escola recém-criada, ou onde se não verifiquem as condições indicadas no número anterior, o director tomará posse perante o director de serviços ou delegado seu.
 
 3. O cargo de director é de aceitação obrigatória.
 
-###### Art. 140.º - 1. Os directores das escolas preparatórias particulares são designados pelas entidades proprietárias de entre os professores autorizados para o ensino do ciclo ou de qualquer ramo do ensino secundário.
+Art. 140.º - 1. Os directores das escolas preparatórias particulares são designados pelas entidades proprietárias de entre os professores autorizados para o ensino do ciclo ou de qualquer ramo do ensino secundário.
 
 2. Poderão ainda ser nomeados, mediante prévia autorização ministerial, indivíduos que se encontrem nas condições referidas no n.º 2 do artigo 135.º
 
 3. O Ministro poderá mandar cessar, a todo o tempo, as funções do director de qualquer escola preparatória particular.
 
-###### Art. 141.º - 1. Nas escolas públicas de lotação superior a doze turmas haverá um subdirector, nomeado pelo Ministro, mediante proposta do director.
+Art. 141.º - 1. Nas escolas públicas de lotação superior a doze turmas haverá um subdirector, nomeado pelo Ministro, mediante proposta do director.
 
 2. Ao subdirector compete coadjuvar o director nas suas funções e substituí-lo nos seus impedimentos.
 
@@ -938,7 +1065,7 @@ dd) Dirigir e coordenar as actividades circum-escolares de acordo com o disposto
 
 4. O cargo de subdirector é de aceitação obrigatória.
 
-###### Art. 142.º Compete ao subdirector:
+Art. 142.º Compete ao subdirector:
 
 a) Coadjuvar o director nas suas funções e substituí-lo nos seus impedimentos;
 
@@ -954,15 +1081,15 @@ f) Cumprir e fazer cumprir fielmente as leis, regulamentos e determinações sup
 
 g) Suscitar a activa e permanente cooperação de todos os professores e alunos na obra educativa da escola.
 
-###### Art. 143.º - 1. Existindo na escola mais de um subdirector, o director será substituído nos seus impedimentos pelo mais antigo do mesmo sexo.
+Art. 143.º - 1. Existindo na escola mais de um subdirector, o director será substituído nos seus impedimentos pelo mais antigo do mesmo sexo.
 
 2. Nos impedimentos do director e do subdirector exercerá a direcção o professor para o efeito designado pelo director de Serviços.
 
-###### Art. 144.º - 1. Haverá para cada turma um director de turma, a quem competirá, além de presidir aos conselhos de turma e ao serviço de orientação escolar a que se refere o n.º 2 do artigo 115.º, apreciar os problemas educativos e disciplinares relativos aos alunos da turma e assegurar os contactos com as famílias.
+Art. 144.º - 1. Haverá para cada turma um director de turma, a quem competirá, além de presidir aos conselhos de turma e ao serviço de orientação escolar a que se refere o n.º 2 do artigo 115.º, apreciar os problemas educativos e disciplinares relativos aos alunos da turma e assegurar os contactos com as famílias.
 
 2. Os directores de turma serão designados pelo director da escola, preferentemente de entre os professores das turmas respectivas, podendo ter a seu cargo até quatro turmas.
 
-###### Art. 145.º - 1. Compete ao director de turma:
+Art. 145.º - 1. Compete ao director de turma:
 
 a) Presidir aos conselhos de turma e ao serviço de orientação escolar, quando não estiver presente autoridade superior, apreciar os problemas educativos e disciplinares relativos aos alunos da turma e assegurar os contactos com a família, de harmonia com o disposto no artigo anterior;
 
@@ -980,17 +1107,17 @@ f) Proceder em tudo de harmonia com as instruções superiores, assegurando a ex
 
 2. Este cargo é de aceitação obrigatória.
 
-###### Art. 146.º Sempre que o julgarem conveniente, os directores das escolas poderão propor ao director de Serviços um delegado seu para cada disciplina ou conjunto de disciplinas, ao qual competirá orientar e coordenar o ensino daquela disciplina ou conjunto de disciplinas e a organização de eventuais provas de frequência e exames finais, bem como fiscalizar o serviço de professores provisórios, sobre o qual lhe cumpre prestar informação escrita ao conselho escolar.
+Art. 146.º Sempre que o julgarem conveniente, os directores das escolas poderão propor ao director de Serviços um delegado seu para cada disciplina ou conjunto de disciplinas, ao qual competirá orientar e coordenar o ensino daquela disciplina ou conjunto de disciplinas e a organização de eventuais provas de frequência e exames finais, bem como fiscalizar o serviço de professores provisórios, sobre o qual lhe cumpre prestar informação escrita ao conselho escolar.
 
-###### Art. 147.º O director é assistido nas suas funções pelo conselho escolar.
+Art. 147.º O director é assistido nas suas funções pelo conselho escolar.
 
-###### Art. 148.º - 1. O conselho escolar é constituído pelos professores efectivos da escola, pelos que nela se encontrem em comissão de serviço e pelos directores de turma.
+Art. 148.º - 1. O conselho escolar é constituído pelos professores efectivos da escola, pelos que nela se encontrem em comissão de serviço e pelos directores de turma.
 
 2. Compete ao conselho escolar colaborar ìntimamente com o director e velar pelo prestígio da escola.
 
 3. Poderão ser agregados ao conselho escolar outros professores em serviço na escola, sempre que o director o entender conveniente.
 
-###### Art. 149.º - 1. O conselho escolar reúne ordinàriamente antes do início e depois do termo do ano lectivo e uma vez em cada um dos três períodos escolares e extraordinàriamente sempre que o director da escola o determinar.
+Art. 149.º - 1. O conselho escolar reúne ordinàriamente antes do início e depois do termo do ano lectivo e uma vez em cada um dos três períodos escolares e extraordinàriamente sempre que o director da escola o determinar.
 
 2. O conselho escolar deverá pronunciar-se sobre todos os assuntos de carácter pedagógico ou disciplinar que lhe sejam apresentados pelo director; em particular, cumpre-lhe fixar, na última sessão de cada ano lectivo, as orientações fundamentais a seguir no ano lectivo seguinte. Pode ainda o conselho escolar tomar a iniciativa do estudo de quaisquer assuntos de interesse educativo.
 
@@ -998,21 +1125,21 @@ f) Proceder em tudo de harmonia com as instruções superiores, assegurando a ex
 
 4. As reuniões ordinárias e extraordinárias do conselho escolar, ou das suas secções, poderão prolongar-se por vários dias, em sessão permanente, quando se trate de estudo mais demorado de qualquer assunto.
 
-###### Art. 150.º - 1. Se a maioria dos seus componentes o requerer por escrito, fundamentando o pedido, o conselho escolar será obrigatòriamente convocado pelo director.
+Art. 150.º - 1. Se a maioria dos seus componentes o requerer por escrito, fundamentando o pedido, o conselho escolar será obrigatòriamente convocado pelo director.
 
 2. Para que o conselho escolar possa tomar deliberações é necessária a presença da maioria dos membros que o compõem à data da sessão.
 
-###### Art. 151.º As deliberações são tomadas por maioria de votos dos presentes, tendo o presidente, nos casos de empate, voto de qualidade. O voto é obrigatório para todos os vogais.
+Art. 151.º As deliberações são tomadas por maioria de votos dos presentes, tendo o presidente, nos casos de empate, voto de qualidade. O voto é obrigatório para todos os vogais.
 
-###### Art. 152.º - 1. As sessões do conselho são convocadas por escrito, com antecedência não inferior, em regra, a 24 horas. Dos avisos convocatórios constarão o dia e a hora da sessão e os assuntos a tratar.
+Art. 152.º - 1. As sessões do conselho são convocadas por escrito, com antecedência não inferior, em regra, a 24 horas. Dos avisos convocatórios constarão o dia e a hora da sessão e os assuntos a tratar.
 
 2. As actas das sessões devem incluir, em súmula, as propostas apresentadas ao conselho e as deliberações tomadas, com menção exacta das votações feitas, bem como as declarações de voto de qualquer dos seus membros e, na íntegra, as respectivas justificações, se as houver.
 
-###### Art. 153.º A acta de cada sessão deve ser lida e discutida na sessão imediata e lançada em livro especial logo que se encontre aprovada, sendo autenticada pelas assinaturas do presidente e do secretário do conselho.
+Art. 153.º A acta de cada sessão deve ser lida e discutida na sessão imediata e lançada em livro especial logo que se encontre aprovada, sendo autenticada pelas assinaturas do presidente e do secretário do conselho.
 
-###### Art. 154.º O director da escola pode, quando não se conformar com qualquer deliberação do conselho escolar, suspender a sua execução, levando o facto e os fundamentos da sua discordância à consideração do director de Serviços.
+Art. 154.º O director da escola pode, quando não se conformar com qualquer deliberação do conselho escolar, suspender a sua execução, levando o facto e os fundamentos da sua discordância à consideração do director de Serviços.
 
-###### Art. 155.º Além de outras atribuições expressamente definidas pela lei, compete ao conselho escolar:
+Art. 155.º Além de outras atribuições expressamente definidas pela lei, compete ao conselho escolar:
 
 a) Dar parecer sobre o horário da escola e sobre a organização do serviço de exames, nos aspectos legal e pedagógico, quando solicitado, pelo director;
 
@@ -1030,17 +1157,17 @@ g) Propor à Inspecção a classificação do serviço do pessoal docente provis
 
 h) Estudar e propor os melhores processos de coordenação e de interpenetração do ensino ministrado nas diversas disciplinas e em relação à região servida pela escola, ouvido o parecer do conselho de orientação.
 
-###### Art. 156.º - 1. Sempre que, por motivo de força maior, não se encontrem em exercício numa escola pelo menos dois professores do respectivo quadro, as atribuições consignadas nas alíneas f) e g) do artigo anterior estarão a cargo do director.
+Art. 156.º - 1. Sempre que, por motivo de força maior, não se encontrem em exercício numa escola pelo menos dois professores do respectivo quadro, as atribuições consignadas nas alíneas f) e g) do artigo anterior estarão a cargo do director.
 
 2. Sempre que, por motivo de força maior, do conselho escolar façam parte professores provisórios, não poderão estes estar presentes quando o conselho se pronunciar sobre os assuntos mencionados nas alíneas f) e g) do artigo anterior.
 
-###### Art. 157.º - 1. A competência do conselho escolar em matéria disciplinar é exercida pelo conselho de orientação, que, para o efeito, funcionará como secção do conselho escolar.
+Art. 157.º - 1. A competência do conselho escolar em matéria disciplinar é exercida pelo conselho de orientação, que, para o efeito, funcionará como secção do conselho escolar.
 
 2. O conselho de orientação, como órgão disciplinar, reúne ordinàriamente mediante proposta dos directores das turmas às quais interessem os assuntos a debater e extraordinàriamente sempre que o director da escola o convoque.
 
-###### Art. 158.º O director de turma que requeira a reunião do conselho de orientação para os fins do artigo anterior deve providenciar no sentido de, com a antecedência de, pelo menos, dois dias, ser fornecido a todos os membros do conselho um plano de trabalho, com os assuntos a debater, e os elementos considerados necessários ao estudo da proposta apresentada.
+Art. 158.º O director de turma que requeira a reunião do conselho de orientação para os fins do artigo anterior deve providenciar no sentido de, com a antecedência de, pelo menos, dois dias, ser fornecido a todos os membros do conselho um plano de trabalho, com os assuntos a debater, e os elementos considerados necessários ao estudo da proposta apresentada.
 
-###### Art. 159.º - 1. Em cada escola pública haverá um secretário, nomeado de entre os membros do conselho escolar, ao qual competirá especialmente preparar e secretariar as sessões do mesmo conselho, do conselho administrativo e do conselho de orientação escolar.
+Art. 159.º - 1. Em cada escola pública haverá um secretário, nomeado de entre os membros do conselho escolar, ao qual competirá especialmente preparar e secretariar as sessões do mesmo conselho, do conselho administrativo e do conselho de orientação escolar.
 
 2. Cabe ainda ao secretário:
 
@@ -1054,19 +1181,19 @@ d) Distribuir pelos directores de turma os processos disciplinares instaurados c
 
 3. Este cargo é de aceitação obrigatória.
 
-###### Art. 160.º Nas suas faltas ou impedimentos será o secretário substituído pelo director de turma que há menos tempo for professor do quadro da escola, o qual receberá a gratificação atribuída ao secretário, a não ser que este se encontre impedido em serviço oficial por período não excedente a quinze dias.
+Art. 160.º Nas suas faltas ou impedimentos será o secretário substituído pelo director de turma que há menos tempo for professor do quadro da escola, o qual receberá a gratificação atribuída ao secretário, a não ser que este se encontre impedido em serviço oficial por período não excedente a quinze dias.
 
 #### SECÇÃO II — Administração das escolas
 
-###### Art. 161.º As escolas preparatórias públicas são dotadas de autonomia administrativa, estando a sua administração a cargo de um conselho administrativo constituído pelo director, pelo subdirector e pelo secretário. Assistirá a todas as reuniões o chefe da secretaria, sem voto.
+Art. 161.º As escolas preparatórias públicas são dotadas de autonomia administrativa, estando a sua administração a cargo de um conselho administrativo constituído pelo director, pelo subdirector e pelo secretário. Assistirá a todas as reuniões o chefe da secretaria, sem voto.
 
 2. Não havendo subdirector, deverá ser nomeado um vogal, de entre professores do quadro privativo da escola.
 
 3. O tesoureiro do conselho administrativo será o chefe da secretaria, estando tais funções a cargo do secretário, na falta daquele.
 
-###### Art. 162.º O vogal a que se refere o n.º 2 do artigo 161.º será nomeado pelo Ministro, mediante proposta do director da escola.
+Art. 162.º O vogal a que se refere o n.º 2 do artigo 161.º será nomeado pelo Ministro, mediante proposta do director da escola.
 
-###### Art. 163.º Compete ao conselho administrativo, além de outras atribuições:
+Art. 163.º Compete ao conselho administrativo, além de outras atribuições:
 
 a) A administração económica dos fundos destinados às despesas da escola, quer no Orçamento Geral do Estado, quer nos orçamentos privativos provenientes dos rendimentos de bens entregues à escola, quer ainda provenientes de subsídios ou donativos postos à sua disposição, tudo de acordo com as normas da administração pública;
 
@@ -1094,37 +1221,37 @@ m) Remeter ao Tribunal de Contas, dentro do prazo legal, as contas respeitantes 
 
 n) Organizar o projecto do orçamento da escola e remetê-lo à 10.ª Repartição da Direcção-Geral da Contabilidade Pública no prazo legal.
 
-###### Art. 164.º Compete especialmente ao presidente do conselho administrativo:
+Art. 164.º Compete especialmente ao presidente do conselho administrativo:
 
 a) A assinatura dos documentos necessários para requisitar fundos, adquirir materiais ou autorizar o pagamento das despesas orçamentais, de acordo com os preceitos da contabilidade pública e com as resoluções anteriores do conselho;
 
 b) Outorgar os contratos de arrendamento dos prédios necessários ao funcionamento dos serviços escolares e dos respectivos contratos de seguro.
 
-###### Art. 165.º - 1. O conselho administrativo reúne-se, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes.
+Art. 165.º - 1. O conselho administrativo reúne-se, pelo menos, uma vez em cada mês do ano civil, devendo estar presentes todos os seus componentes.
 
 2. As sessões do conselho administrativo são convocadas pelo presidente com, pelo menos, 24 horas de antecedência, salvo em caso de maior urgência.
 
 3. Qualquer dos membros do conselho administrativo pode requerer ao seu presidente a convocação urgente do conselho, sendo esta obrigatória, salvo motivo especial, que o presidente justificará perante a Direcção de Serviços.
 
-###### Art. 166.º - 1. As resoluções tomadas pelo conselho administrativo serão imediatamente exaradas em acta, no livro especial a cargo do secretário. A acta será em seguida assinada por todos os presentes, não podendo ser dado cumprimento a resoluções que dela não constem nos devidos termos.
+Art. 166.º - 1. As resoluções tomadas pelo conselho administrativo serão imediatamente exaradas em acta, no livro especial a cargo do secretário. A acta será em seguida assinada por todos os presentes, não podendo ser dado cumprimento a resoluções que dela não constem nos devidos termos.
 
 2. As resoluções do conselho administrativo só obrigam, para todos os efeitos, os que as tenham votado, ficando isento das respectivas responsabilidades aquele dos membros que não concorde com qualquer das resoluções tomadas por maioria, desde que faça a competente declaração de voto.
 
 3. O director da escola, quando não se conformar com alguma resolução do conselho administrativo tomada contra sua vontade e acerca da qual tenha feito a correspondente declaração de voto, poderá não lhe dar cumprimento, levando imediatamente ao conhecimento do director de Serviços o motivo da divergência e remetendo cópia da acta ou actas em que tais resoluções foram tomadas.
 
-###### Art. 167.º São da responsabilidade individual dos membros do conselho administrativo as ordens para satisfação de despesas além das verbas que legalmente possam ser despendidas.
+Art. 167.º São da responsabilidade individual dos membros do conselho administrativo as ordens para satisfação de despesas além das verbas que legalmente possam ser despendidas.
 
 #### SECÇÃO III — Serviços e pessoal da secretaria
 
-###### Art. 168.º Em cada escola, a secretaria destina-se a assegurar a execução do expediente relativo aos serviços escolares, circum-escolares e administrativos, à guarda dos livros e processos concernentes aos mesmos serviços e à passagem de certidões e outros documentos, nos termos regulamentares.
+Art. 168.º Em cada escola, a secretaria destina-se a assegurar a execução do expediente relativo aos serviços escolares, circum-escolares e administrativos, à guarda dos livros e processos concernentes aos mesmos serviços e à passagem de certidões e outros documentos, nos termos regulamentares.
 
-###### Art. 169.º O pessoal administrativo de todos os estabelecimentos dependentes da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário constitui um quadro único para efeito de concurso de habilitação, desde que seja exigível, bem como para efeito de ingresso, transferência e promoção.
+Art. 169.º O pessoal administrativo de todos os estabelecimentos dependentes da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário constitui um quadro único para efeito de concurso de habilitação, desde que seja exigível, bem como para efeito de ingresso, transferência e promoção.
 
-###### Art. 170.º - 1. Cada escola terá um quadro próprio de funcionários de secretaria, em conformidade com a sua lotação normal.
+Art. 170.º - 1. Cada escola terá um quadro próprio de funcionários de secretaria, em conformidade com a sua lotação normal.
 
 2. O pessoal das secretarias compreende as categorias de primeiro, segundo e terceiro-oficial e escriturário de 2.ª classe.
 
-###### Art. 171.º - 1. Nas escolas de Lisboa, Porto, Coimbra e Faro, onde funcionar estágio, o pessoal administrativo do quadro, nos termos do artigo anterior, será acrescido dos seguintes elementos:
+Art. 171.º - 1. Nas escolas de Lisboa, Porto, Coimbra e Faro, onde funcionar estágio, o pessoal administrativo do quadro, nos termos do artigo anterior, será acrescido dos seguintes elementos:
 
 Primeiro-oficial ... 1
 
@@ -1142,27 +1269,27 @@ c) Prestar apoio directo na montagem das secretarias das escolas que forem sendo
 
 d) Satisfazer ao que lhe for solicitado pela Inspecção.
 
-###### Art. 172.º - 1. O pessoal administrativo a que se refere o artigo anterior estará na dependência do chefe da secretaria da escola.
+Art. 172.º - 1. O pessoal administrativo a que se refere o artigo anterior estará na dependência do chefe da secretaria da escola.
 
 2. Sempre que o serviço o justifique, e mediante parecer do director da escola, o chefe da secretaria poderá determinar que o referido pessoal preste auxílio nas tarefas do expediente normal.
 
 3. Sempre que se desloquem nas condições da alínea c) do artigo anterior, os funcionários terão direito a transporte e às ajudas de custo que lhes cabem nos termos legais.
 
-###### Art. 173.º O pessoal administrativo a que se refere o n.º 1 do artigo 171.º será nomeado pelo Ministro de entre os funcionários de igual categoria pertencentes ao quadro único do pessoal administrativo a que se refere o artigo 169.º
+Art. 173.º O pessoal administrativo a que se refere o n.º 1 do artigo 171.º será nomeado pelo Ministro de entre os funcionários de igual categoria pertencentes ao quadro único do pessoal administrativo a que se refere o artigo 169.º
 
-###### Art. 174.º - 1. As escolas de Lisboa e Porto onde funcione o estágio contarão a partir do ano lectivo de 1968-1969 com o pessoal administrativo a que se refere o n.º 1 do artigo 171.º
+Art. 174.º - 1. As escolas de Lisboa e Porto onde funcione o estágio contarão a partir do ano lectivo de 1968-1969 com o pessoal administrativo a que se refere o n.º 1 do artigo 171.º
 
 2. À medida que entrar em funcionamento o estágio nas escolas de Coimbra e Faro, observar-se-á o disposto no artigo 171.º
 
-###### Art. 175.º A direcção dos serviços da secretaria compete ao seu chefe, primeiro-oficial ou segundo-oficial do quadro da escola.
+Art. 175.º A direcção dos serviços da secretaria compete ao seu chefe, primeiro-oficial ou segundo-oficial do quadro da escola.
 
-###### Art. 176.º - 1. Os primeiros-oficiais e segundos-oficiais são obrigados, quando na qualidade de tesoureiros do conselho administrativo e, como tais, exactores da Fazenda Nacional, a prestar caução perante a Direcção-Geral da Fazenda Pública.
+Art. 176.º - 1. Os primeiros-oficiais e segundos-oficiais são obrigados, quando na qualidade de tesoureiros do conselho administrativo e, como tais, exactores da Fazenda Nacional, a prestar caução perante a Direcção-Geral da Fazenda Pública.
 
 2. Essa caução será de 5000$00 e de 3500$00, respectivamente para os primeiros-oficiais e segundos-oficiais, podendo ser constituída por dinheiro, títulos de dívida pública, obrigações caucionadas pelo Estado ou seguro de caução.
 
-###### Art. 177.º A secretaria está aberta todos os dias úteis, com um horário estabelecido pelo director, de acordo com as necessidades da escola e as disposições legais aplicáveis.
+Art. 177.º A secretaria está aberta todos os dias úteis, com um horário estabelecido pelo director, de acordo com as necessidades da escola e as disposições legais aplicáveis.
 
-###### Art. 178.º - 1. Haverá na secretaria, além dos livros e registos que a prática e as necessidades do serviço aconselhem:
+Art. 178.º - 1. Haverá na secretaria, além dos livros e registos que a prática e as necessidades do serviço aconselhem:
 
 a) Quanto ao pessoal:
 
@@ -1186,31 +1313,31 @@ Registo de matrículas de alunos internos e externos, organizado por anos escola
 
 Cadastro nominal de cada aluno, interno ou externo, com fotografias, em que será feito o registo das matrículas, classificações, transferências, prémios e louvores concedidos, penas disciplinares sofridas e outras circunstâncias da sua vida escolar;
 
-# Livro de termos de exame;
+Livro de termos de exame;
 
-# Livro de registo de prémios e louvores;
+Livro de registo de prémios e louvores;
 
-# Livro de registo de penas disciplinares;
+Livro de registo de penas disciplinares;
 
-# Livro de registo da entrada de requerimentos;
+Livro de registo da entrada de requerimentos;
 
-# Livro de registo de alvarás para funcionamento de estabelecimentos de ensino particular e dos diplomas dos respectivos directores, com a assinatura destes;
+Livro de registo de alvarás para funcionamento de estabelecimentos de ensino particular e dos diplomas dos respectivos directores, com a assinatura destes;
 
 c) Quanto à secretaria e outros serviços:
 
 Registo da correspondência recebida e da correspondência expedida, organizado por correspondentes e, dentro destes, por assuntos;
 
-# Livro de actas do conselho administrativo;
+Livro de actas do conselho administrativo;
 
-# Livro de autos de posse de todos os funcionários;
+Livro de autos de posse de todos os funcionários;
 
 Registo de todas as receitas arrecadadas, um para cada espécie;
 
 Registo diário de facturas e requisições de material;
 
-# Livro de contas correntes, com as dotações orçamentais;
+Livro de contas correntes, com as dotações orçamentais;
 
-# Livro de caixa;
+## Livro de caixa;
 
 Inventário dos móveis e do material;
 
@@ -1226,7 +1353,7 @@ Registo do movimento do material requisitado pelos diferentes serviços.
 
 5. No caso de extinção ou encerramento de qualquer escola, os respectivos livros de matrícula e frequência serão depositados na escola preparatória pública que for superiormente designada.
 
-###### Art. 179.º Ao chefe da secretaria compete especialmente:
+Art. 179.º Ao chefe da secretaria compete especialmente:
 
 a) Dirigir e fiscalizar o serviço da secretaria e velar pela disciplina dentro dela;
 
@@ -1258,7 +1385,7 @@ o) Efectuar os pagamentos devidamente autorizados;
 
 p) Ter sob a sua guarda o selo da escola e autenticar com ele as suas assinaturas, bem como as do director ou dos professores que colaborem na direcção e administração da escola.
 
-###### Art. 180.º - 1. O pessoal da secretaria coadjuvará o chefe de harmonia com a distribuição do serviço que for determinada, competindo, no entanto, ao subordinado de maior categoria:
+Art. 180.º - 1. O pessoal da secretaria coadjuvará o chefe de harmonia com a distribuição do serviço que for determinada, competindo, no entanto, ao subordinado de maior categoria:
 
 a) Conferir os termos de matrícula, verificando o sua exactidão;
 
@@ -1274,9 +1401,9 @@ f) Escriturar, sob a orientação do chefe da secretaria, os livros de registo d
 
 2. Além do pessoal da secretaria, pode nesta prestar serviço outro pessoal, durante as épocas de maior movimento, competindo ao director, sob proposta do chefe de secretaria, ordenar os respectivos destacamentos, por períodos não superiores a 45 dias, quando daí não possa resultar prejuízo para outro serviço escolar.
 
-###### Art. 181.º O serviço de secretaria deve estar organizado de modo tal que não possa ser prejudicado no seu funcionamento normal pelas faltas ou impedimentos de qualquer dos funcionários, de acordo com a tabela de serviço a que se refere a alínea c) do artigo 179.º
+Art. 181.º O serviço de secretaria deve estar organizado de modo tal que não possa ser prejudicado no seu funcionamento normal pelas faltas ou impedimentos de qualquer dos funcionários, de acordo com a tabela de serviço a que se refere a alínea c) do artigo 179.º
 
-###### Art. 182.º Na correspondência oficial expedida pela secretaria observar-se-á o seguinte:
+Art. 182.º Na correspondência oficial expedida pela secretaria observar-se-á o seguinte:
 
 a) Não deve ser tratado mais de um assunto em cada ofício ou nota de serviço, mas estes podem referir-se a vários indivíduos que se encontrem nas mesmas condições;
 
@@ -1286,19 +1413,19 @@ c) As informações acerca dos requerimentos ou outros documentos que sejam envi
 
 d) Todos os ofícios ou notas de serviço expedidos conterão, ao fundo, as iniciais dos funcionários que os minutaram e dactilografaram.
 
-###### Art. 183.º Nas certidões e demais documentos passados pelas secretarias das escolas a citação da classificação, classes do ciclo, conjuntos e elementos análogos será sempre feita por extenso, devendo ressalvar-se as rasuras, emendas ou entrelinhas.
+Art. 183.º Nas certidões e demais documentos passados pelas secretarias das escolas a citação da classificação, classes do ciclo, conjuntos e elementos análogos será sempre feita por extenso, devendo ressalvar-se as rasuras, emendas ou entrelinhas.
 
-###### Art. 184.º Quanto a faltas, licenças e acção disciplinar, o pessoal das secretarias das escolas está sujeito ao regime estabelecido para os funcionários civis do Estado, devendo, porém, evitar-se a concessão de licenças graciosas durante os períodos de maior movimento.
+Art. 184.º Quanto a faltas, licenças e acção disciplinar, o pessoal das secretarias das escolas está sujeito ao regime estabelecido para os funcionários civis do Estado, devendo, porém, evitar-se a concessão de licenças graciosas durante os períodos de maior movimento.
 
-###### Art. 185.º São isentas de selo, do papel e de emolumentos as certidões destinadas a fins militares obrigatórios, abono de família, assistência, bolsas de estudo e isenções de propinas e as declarações de matrícula para passes e para quaisquer efeitos de assistência e concessão de transportes a alunos.
+Art. 185.º São isentas de selo, do papel e de emolumentos as certidões destinadas a fins militares obrigatórios, abono de família, assistência, bolsas de estudo e isenções de propinas e as declarações de matrícula para passes e para quaisquer efeitos de assistência e concessão de transportes a alunos.
 
-###### Art. 186.º - 1. Os provimentos dos lugares de funcionários das secretarias das escolas são feitos por nomeação vitalícia para os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial e por contrato, celebrado por tempo indeterminado, para os escriturários.
+Art. 186.º - 1. Os provimentos dos lugares de funcionários das secretarias das escolas são feitos por nomeação vitalícia para os lugares de primeiro-oficial, segundo-oficial e terceiro-oficial e por contrato, celebrado por tempo indeterminado, para os escriturários.
 
 2. O primeiro provimento não pode recair em indivíduo com menos de 21 anos, a não ser que seja emancipado, nem com mais de 35 anos, salvo se for já funcionário dos quadros dos serviços dependentes do Ministério da Educação Nacional.
 
-###### Art. 187.º Sempre que ocorra uma vaga na secretaria de qualquer escola, a Direcção de Serviços fará publicar no Diário do Governo um aviso a anunciar a existência dessa vaga.
+Art. 187.º Sempre que ocorra uma vaga na secretaria de qualquer escola, a Direcção de Serviços fará publicar no Diário do Governo um aviso a anunciar a existência dessa vaga.
 
-###### Art. 188.º - 1. Podem requerer o provimento no prazo de quinze dias, a contar do dia imediato ao da publicação do aviso:
+Art. 188.º - 1. Podem requerer o provimento no prazo de quinze dias, a contar do dia imediato ao da publicação do aviso:
 
 a) Os funcionários da mesma categoria com mais de um ano de serviço nas escolas a cujo quadro pertençam e, tratando-se de vagas de primeiro-oficial, os funcionários com mais de dois anos de serviço na categoria imediatamente inferior;
 
@@ -1308,15 +1435,15 @@ b) Os indivíduos aprovados nos concursos de habilitação a que se referem os a
 
 3. Os requerentes que se encontrem nas condições da alínea b) do n.º 1 deste artigo mencionarão nos requerimentos o número do Diário do Governo em que foi publicado o resultado do concurso a que se submeteram, devendo ainda entregar a declaração exigida no número anterior.
 
-###### Art. 189.º Serão excluídos os funcionários a que há menos de dois anos tenha sido aplicada pena disciplinar de advertência ou repreensão e aqueles a que há menos de três anos tenha sido aplicada pena disciplinar superior à de repreensão.
+Art. 189.º Serão excluídos os funcionários a que há menos de dois anos tenha sido aplicada pena disciplinar de advertência ou repreensão e aqueles a que há menos de três anos tenha sido aplicada pena disciplinar superior à de repreensão.
 
-###### Art. 190.º - 1. Dentro dos quinze dias seguintes ao termo do prazo referido no n.º 1 do artigo 188.º, a Direcção de Serviços do Ciclo Preparatório do Ensino Secundário fará publicar no Diário do Governo a relação graduada dos concorrentes admitidos.
+Art. 190.º - 1. Dentro dos quinze dias seguintes ao termo do prazo referido no n.º 1 do artigo 188.º, a Direcção de Serviços do Ciclo Preparatório do Ensino Secundário fará publicar no Diário do Governo a relação graduada dos concorrentes admitidos.
 
 2. A graduação será feita pela ordem decrescente de preferência das alíneas estabelecidas no n.º 1 do artigo 188.º, e, dentro da alínea a), em primeiro lugar pela ordem decrescente do tempo de serviço prestado, e, quanto aos candidatos referidos na alínea b), pela ordem decrescente da classificação obtida no concurso de habilitação.
 
-###### Art. 191.º Nos lugares das escolas de frequência feminina só podem ser providos indivíduos do sexo feminino; quanto às escolas de frequência masculina, gozam de preferência os candidatos do sexo masculino.
+Art. 191.º Nos lugares das escolas de frequência feminina só podem ser providos indivíduos do sexo feminino; quanto às escolas de frequência masculina, gozam de preferência os candidatos do sexo masculino.
 
-###### Art. 192.º - 1. A Direcção de Serviços do Ciclo Preparatório do Ensino Secundário proporá ao Ministro a nomeação ou o contrato do concorrente graduado em primeiro lugar e comunicará à escola e ao interessado o despacho de autorização.
+Art. 192.º - 1. A Direcção de Serviços do Ciclo Preparatório do Ensino Secundário proporá ao Ministro a nomeação ou o contrato do concorrente graduado em primeiro lugar e comunicará à escola e ao interessado o despacho de autorização.
 
 2. O contrato será celebrado dentro dos quinze dias imediatos ao do recebimento da comunicação e será enviado à Direcção de Serviços do Ciclo Preparatório do Ensino Secundário com os documentos exigidos pelo artigo 4.º e seus parágrafos do Decreto-Lei n.º 26341, de 7 de Fevereiro de 1936, com a redacção que lhe foi dada pelo Decreto-Lei n.º 26826, de 25 de Julho do mesmo ano.
 
@@ -1324,23 +1451,23 @@ b) Os indivíduos aprovados nos concursos de habilitação a que se referem os a
 
 4. O contrato pode ser celebrado por procuração.
 
-###### Art. 193.º - 1. O funcionário nomeado ou contratado para a secretaria de qualquer escola deve tomar posse do seu lugar, com observância de todas as disposições legais aplicáveis, dentro dos 30 dias imediatos ao da publicação no Diário do Governo da respectiva portaria ou despacho, sob pena de perder o lugar, de ser exonerado de outro que exerça no Ministério da Educação Nacional e de não poder ser novamente contratado durante dois anos.
+Art. 193.º - 1. O funcionário nomeado ou contratado para a secretaria de qualquer escola deve tomar posse do seu lugar, com observância de todas as disposições legais aplicáveis, dentro dos 30 dias imediatos ao da publicação no Diário do Governo da respectiva portaria ou despacho, sob pena de perder o lugar, de ser exonerado de outro que exerça no Ministério da Educação Nacional e de não poder ser novamente contratado durante dois anos.
 
 2. Se o funcionário residir no continente e for colocado em escola das ilhas adjacentes ou se residir em alguma dessas ilhas e for colocado em escola do continente ou de outra ilha, o prazo será de 90 dias e o funcionário terá direito a transporte gratuito para si e para os seus familiares.
 
 3. No acto da posse o funcionário apresentará o bilhete de identidade e entregará o diploma de funções públicas e a declaração a que se refere o artigo 3.º da [Lei n.º 1901](https://diariodarepublica.pt/dr/detalhe/lei/1901-1935-577495), de 21 de Maio de 1935, observando-se ainda o disposto nos §§ 2.º e 4.º do artigo 4.º do [Decreto n.º 26341](https://diariodarepublica.pt/dr/detalhe/decreto/26341-1936-685439), de 7 de Fevereiro de 1936.
 
-###### Art. 194.º - 1. Enquanto não é feito o provimento de um cargo, nos termos dos artigos anteriores, pode ser feita a nomeação interina por meio de portaria, devendo essa nomeação recair em pessoa idónea, de preferência aprovada em concurso de habilitação, nos termos do presente diploma.
+Art. 194.º - 1. Enquanto não é feito o provimento de um cargo, nos termos dos artigos anteriores, pode ser feita a nomeação interina por meio de portaria, devendo essa nomeação recair em pessoa idónea, de preferência aprovada em concurso de habilitação, nos termos do presente diploma.
 
 2. Nos casos de ausência dos funcionários que se encontrem a cargo da assistência aos funcionários civis tuberculosos, em prestação de serviço militar ou em outra situação que envolva o afastamento do serviço com longa duração, pode ser feita nomeação interina de escriturários de 2.ª classe, observando-se as regras do número anterior.
 
 3. Os vencimentos dos escriturários nomeados nos termos do número anterior serão custeados pelas disponibilidades da dotação global do pessoal dos quadros aprovados por lei.
 
-###### Art. 195.º - 1. Para os lugares de escriturário de 2.ª classe, terceiro-oficial e segundo-oficial que não sejam providos nos termos do artigo 188.º será aberto, pela Direcção de Serviços do Ciclo Preparatório do Ensino Secundário e pelo prazo de 30 dias, concurso de habilitação.
+Art. 195.º - 1. Para os lugares de escriturário de 2.ª classe, terceiro-oficial e segundo-oficial que não sejam providos nos termos do artigo 188.º será aberto, pela Direcção de Serviços do Ciclo Preparatório do Ensino Secundário e pelo prazo de 30 dias, concurso de habilitação.
 
 2. O concurso, segundo as necessidades dos serviços, pode dizer respeito a uma ou mais das três categorias e abranger candidatos dos dois sexos ou de um só, observando-se sempre o disposto no artigo 191.º
 
-###### Art. 196.º - 1. A habilitação exigida aos concorrentes será para os lugares de escriturário de 2.ª classe a do ciclo preparatório do ensino técnico, o 1.º ciclo dos liceus, o ciclo preparatório do ensino secundário ou equivalente, e para os de terceiro-oficial a de qualquer curso completo das escolas comerciais, o 2.º ciclo dos liceus ou equivalente.
+Art. 196.º - 1. A habilitação exigida aos concorrentes será para os lugares de escriturário de 2.ª classe a do ciclo preparatório do ensino técnico, o 1.º ciclo dos liceus, o ciclo preparatório do ensino secundário ou equivalente, e para os de terceiro-oficial a de qualquer curso completo das escolas comerciais, o 2.º ciclo dos liceus ou equivalente.
 
 2. Ao concurso para os lugares de segundo-oficial serão admitidos os terceiros-oficiais em serviço com essa categoria, há mais de três anos, nas secretarias das escolas e que não tenham sofrido penas disciplinares, nos termos do artigo 189.º
 
@@ -1348,11 +1475,11 @@ b) Os indivíduos aprovados nos concursos de habilitação a que se referem os a
 
 4. Os concorrentes aos lugares de segundo-oficial deverão mencionar nos requerimentos a data em que foi publicado no Diário do Governo o seu provimento; os concorrentes aos lugares de escriturário de 2.ª classe e de terceiro-oficial juntarão documento comprovativo de possuírem a habilitação legal.
 
-###### Art. 197.º - 1. O júri do concurso de habilitação para os lugares de segundo-oficial é constituído pelo director de Serviços do Ciclo Preparatório ou seu delegado, o qual será o presidente, pelo chefe da 10.ª Repartição da Direcção-Geral da Contabilidade Pública ou seu delegado e por um professor designado pelo Ministro, que será o secretário.
+Art. 197.º - 1. O júri do concurso de habilitação para os lugares de segundo-oficial é constituído pelo director de Serviços do Ciclo Preparatório ou seu delegado, o qual será o presidente, pelo chefe da 10.ª Repartição da Direcção-Geral da Contabilidade Pública ou seu delegado e por um professor designado pelo Ministro, que será o secretário.
 
 2. Os concursos de habilitação para os lugares de segundo-oficial realizar-se-ão nas escolas para esse efeito designadas pela Direcção de Serviços do Ciclo Preparatório.
 
-###### Art. 198.º - 1. Os concorrentes serão submetidos às seguintes provas:
+Art. 198.º - 1. Os concorrentes serão submetidos às seguintes provas:
 
 a) Prova escrita sobre legislação do ensino do ciclo preparatório;
 
@@ -1368,7 +1495,7 @@ d) Prova oral de contabilidade.
 
 4. O Ministro da Educação Nacional aprovará, em portaria, o regulamento e programas dos concursos de admissão e promoção de pessoal das secretarias das escolas do ciclo preparatório.
 
-###### Art. 199.º - 1. As provas serão classificadas por votação do júri, segundo a escala de valores de O a 20, sendo eliminados os concorrentes a quem for atribuída nota inferior a 10 valores numa ou mais provas e aprovados os restantes.
+Art. 199.º - 1. As provas serão classificadas por votação do júri, segundo a escala de valores de O a 20, sendo eliminados os concorrentes a quem for atribuída nota inferior a 10 valores numa ou mais provas e aprovados os restantes.
 
 2. A classificação dos concorrentes aprovados será a média arredondada das notas atribuídas às diferentes provas.
 
@@ -1376,7 +1503,7 @@ d) Prova oral de contabilidade.
 
 4. O período de validade do concurso é de três anos, a contar da data da publicação dos resultados.
 
-###### Art. 200.º - 1. Os concursos de habilitação para os lugares de terceiro-oficial e de escriturário de 2.ª classe realizar-se-ão nas escolas para esse efeito designadas pela Direcção de Serviços do Ciclo Preparatório do Ensino Secundário e as provas serão prestadas perante júri nomeado pelo Ministro, constituído por um professor, um chefe de secretaria e um mestre de grafias.
+Art. 200.º - 1. Os concursos de habilitação para os lugares de terceiro-oficial e de escriturário de 2.ª classe realizar-se-ão nas escolas para esse efeito designadas pela Direcção de Serviços do Ciclo Preparatório do Ensino Secundário e as provas serão prestadas perante júri nomeado pelo Ministro, constituído por um professor, um chefe de secretaria e um mestre de grafias.
 
 2. Os concorrentes aos lugares de terceiro-oficial prestarão as provas a que se refere o n.º 1 do artigo 198.º e prova de dactilografia; os concorrentes aos lugares de escriturário de 2.ª classe prestarão as das alíneas a) e c) do mesmo número e prova de dactilografia.
 
@@ -1384,57 +1511,57 @@ d) Prova oral de contabilidade.
 
 4. São aplicáveis a estes concursos as disposições dos n.os 2 e 3 do artigo 198.º e à prova de dactilografia as normas em vigor para os exames do correspondente curso prático do ensino técnico profissional.
 
-###### Art. 201.º - 1. As provas serão classificadas por votação do júri, segundo a escala de valores de O a 20, sendo eliminados os concorrentes a quem for atribuída nota inferior a 10 valores em duas ou mais provas ou a 8 valores numa só e aprovados os restantes.
+Art. 201.º - 1. As provas serão classificadas por votação do júri, segundo a escala de valores de O a 20, sendo eliminados os concorrentes a quem for atribuída nota inferior a 10 valores em duas ou mais provas ou a 8 valores numa só e aprovados os restantes.
 
 2. São aplicáveis a estes concursos as disposições dos n.os 2, 3 e 4 do artigo 199.º
 
 #### SECÇÃO IV — Pessoal menor
 
-###### Art. 202.º O pessoal menor de todos os estabelecimentos dependentes da Direcção de Serviços do Ciclo Preparatório constitui um quadro único para efeito de ingresso, transferência e promoção.
+Art. 202.º O pessoal menor de todos os estabelecimentos dependentes da Direcção de Serviços do Ciclo Preparatório constitui um quadro único para efeito de ingresso, transferência e promoção.
 
-###### Art. 203.º O pessoal menor compreende as seguintes categorias: contínuo de 1.ª classe, contínuo de 2.ª classe e servente.
+Art. 203.º O pessoal menor compreende as seguintes categorias: contínuo de 1.ª classe, contínuo de 2.ª classe e servente.
 
-###### Art. 204.º Cada escola terá um quadro próprio de empregados, em conformidade com a sua lotação normal e as condições do edifício.
+Art. 204.º Cada escola terá um quadro próprio de empregados, em conformidade com a sua lotação normal e as condições do edifício.
 
-###### Art. 205.º Mediante proposta do director da escola, o Ministro pode determinar que um dos contínuos desempenhe as funções de chefe do pessoal menor, velando pela disciplina dos empregados e assalariados e fiscalizando o respectivo serviço.
+Art. 205.º Mediante proposta do director da escola, o Ministro pode determinar que um dos contínuos desempenhe as funções de chefe do pessoal menor, velando pela disciplina dos empregados e assalariados e fiscalizando o respectivo serviço.
 
-###### Art. 206.º- 1. O pessoal menor é contratado por tempo indeterminado para os lugares dos quadros privativos das diferentes escolas.
+Art. 206.º- 1. O pessoal menor é contratado por tempo indeterminado para os lugares dos quadros privativos das diferentes escolas.
 
 2. O pessoal menor não pode permutar os seus lugares.
 
 3. Quando os serviços de limpeza e conservação dos edifícios não possam ser convenientemente assegurados pelo pessoal do quadro, podem os directores assalariar para tal efeito serventuários eventuais.
 
-###### Art. 207.º Nos lugares das escolas de frequência feminina só podem ser providos indivíduos do sexo feminino; quanto às escolas de frequência masculina, gozam de preferência os candidatos do sexo masculino.
+Art. 207.º Nos lugares das escolas de frequência feminina só podem ser providos indivíduos do sexo feminino; quanto às escolas de frequência masculina, gozam de preferência os candidatos do sexo masculino.
 
-###### Art. 208.º - 1. O contrato será celebrado dentro dos quinze dias imediatos ao do recebimento da comunicação e será enviado à Direcção de Serviços com os documentos exigidos pelo artigo 4.º e seus parágrafos do Decreto-Lei n.º 26341, de 7 de Fevereiro de 1936, com a redacção que lhe foi dada pelo [Decreto n.º 26826](https://diariodarepublica.pt/dr/detalhe/decreto/26826-1936-360134), de 25 de Julho do mesmo ano.
+Art. 208.º - 1. O contrato será celebrado dentro dos quinze dias imediatos ao do recebimento da comunicação e será enviado à Direcção de Serviços com os documentos exigidos pelo artigo 4.º e seus parágrafos do Decreto-Lei n.º 26341, de 7 de Fevereiro de 1936, com a redacção que lhe foi dada pelo [Decreto n.º 26826](https://diariodarepublica.pt/dr/detalhe/decreto/26826-1936-360134), de 25 de Julho do mesmo ano.
 
 2. Em casos especiais, devidamente justificados, pode o Ministro prorrogar o prazo fixado no número anterior até o máximo de noventa dias.
 
 3. O contrato pode ser celebrado por procuração.
 
-###### Art. 209.º - 1. O funcionário contratado deve tomar posse do seu lugar, com observância de todas as disposições legais aplicáveis, dentro dos quinze dias imediatos ao da publicação no Diário do Governo da aprovação do seu contrato, sob pena de perder o lugar, de ser exonerado de outro que exerça no Ministério da Educação Nacional e de não poder ser novamente contratado durante dois anos.
+Art. 209.º - 1. O funcionário contratado deve tomar posse do seu lugar, com observância de todas as disposições legais aplicáveis, dentro dos quinze dias imediatos ao da publicação no Diário do Governo da aprovação do seu contrato, sob pena de perder o lugar, de ser exonerado de outro que exerça no Ministério da Educação Nacional e de não poder ser novamente contratado durante dois anos.
 
 2. Se o funcionário residir no continente e for colocado em escolas das ilhas adjacentes ou se residir em alguma dessas ilhas e for colocado em escolas do continente ou de outra ilha, o prazo será de 90 dias.
 
-###### Art. 210.º - 1. No acto da posse o funcionário apresentará o bilhete de identidade e entregará o diploma de funções públicas e a declaração a que se refere o artigo 3.º da [Lei n.º 1901](https://diariodarepublica.pt/dr/detalhe/lei/1901-1935-577495), de 21 de Maio de 1935, observando-se ainda o disposto nos §§ 2.º e 4.º do artigo 4.º do [Decreto n.º 26341](https://diariodarepublica.pt/dr/detalhe/decreto/26341-1936-685439), de 7 de Fevereiro de 1936.
+Art. 210.º - 1. No acto da posse o funcionário apresentará o bilhete de identidade e entregará o diploma de funções públicas e a declaração a que se refere o artigo 3.º da [Lei n.º 1901](https://diariodarepublica.pt/dr/detalhe/lei/1901-1935-577495), de 21 de Maio de 1935, observando-se ainda o disposto nos §§ 2.º e 4.º do artigo 4.º do [Decreto n.º 26341](https://diariodarepublica.pt/dr/detalhe/decreto/26341-1936-685439), de 7 de Fevereiro de 1936.
 
 2. A autorização para o contrato não pode recair em indivíduo que não possua como habilitação mínima o exame de instrução primária nem, tratando-se de primeira nomeação, em indivíduo com menos de 21 anos de idade, salvo sendo emancipado, ou mais de 35.
 
-###### Art. 211.º Os candidatos aos lugares de servente apresentarão os seus requerimentos aos directores das escolas, que sobre cada um fornecerão todas as informações que possam colher acerca das suas qualidades e idoneidade para o desempenho do cargo.
+Art. 211.º Os candidatos aos lugares de servente apresentarão os seus requerimentos aos directores das escolas, que sobre cada um fornecerão todas as informações que possam colher acerca das suas qualidades e idoneidade para o desempenho do cargo.
 
-###### Art. 212.º - 1. Sempre que deva ser preenchida uma vaga de contínuo deverá a Direcção de Serviços fazer publicar no Diário do Governo o competente aviso, para que essa vaga possa ser requerida, dentro do prazo de quinze dias, por funcionários da mesma categoria pertencentes ao quadro de qualquer escola.
+Art. 212.º - 1. Sempre que deva ser preenchida uma vaga de contínuo deverá a Direcção de Serviços fazer publicar no Diário do Governo o competente aviso, para que essa vaga possa ser requerida, dentro do prazo de quinze dias, por funcionários da mesma categoria pertencentes ao quadro de qualquer escola.
 
 2. Se, terminado o prazo fixado no número anterior, a vaga não tiver sido requerida por funcionário da mesma categoria, a Direcção de Serviços fará publicar novo aviso no Diário do Governo, anunciando que essa vaga pode ser requerida dentro de novo prazo de quinze dias por funcionário da categoria imediatamente inferior pertencente ao quadro de qualquer escola.
 
-###### Art. 213.º - 1. Os requerimentos são apresentados ao director da escola a cujo quadro os requerentes pertençam e em seguida enviados à Direcção de Serviços com a informação sobre a idoneidade, competência e zelo dos candidatos.
+Art. 213.º - 1. Os requerimentos são apresentados ao director da escola a cujo quadro os requerentes pertençam e em seguida enviados à Direcção de Serviços com a informação sobre a idoneidade, competência e zelo dos candidatos.
 
 2. A autorização para o contrato recairá no requerente que contar mais tempo de serviço dentro da sua categoria, preferindo, em caso de igualdade, o mais velho, salvo se as informações prestadas pelos directores justificarem diversa solução.
 
-###### Art. 214.º - 1. Os empregados menores são abrigados a permanecer no edifício da escola durante oito horas diárias, podendo o director determinar mais longa permanência quando o serviço o exigir.
+Art. 214.º - 1. Os empregados menores são abrigados a permanecer no edifício da escola durante oito horas diárias, podendo o director determinar mais longa permanência quando o serviço o exigir.
 
 2. O pessoal menor deve obediência ao director e aos seus delegados ou co-responsáveis na direcção e administração da escola, cumprindo-lhe igualmente acatar as indicações do pessoal docente em tudo o que se prenda com o serviço das aulas ou das actividades circum-escolares.
 
-###### Art. 215.º - 1. Compete especialmente ao pessoal menor:
+Art. 215.º - 1. Compete especialmente ao pessoal menor:
 
 a) Cuidar do asseio, conservação e boa disposição de todos os artigos de mobiliário, instrumentos, colecções e modelos que estiverem a seu cargo, cumprindo-lhe participar qualquer estrago, ou extravio logo que dele tenha conhecimento;
 
@@ -1458,9 +1585,9 @@ j) Assinar o respectivo registo de presença.
 
 2. Os regulamentos internos das escolas poderão estabelecer outras obrigações especiais dos empregados menores.
 
-###### Art. 216.º Os contínuos e serventes das escolas são obrigados a apresentar-se fardados quando em serviço e têm direito a concessão de fardamento por conta do Estado.
+Art. 216.º Os contínuos e serventes das escolas são obrigados a apresentar-se fardados quando em serviço e têm direito a concessão de fardamento por conta do Estado.
 
-###### Art. 217.º - 1. O pessoal menor das escolas está sujeito, quanto a faltas, licenças e acção disciplinar, à legislação geral aplicável aos funcionários civis do Estado.
+Art. 217.º - 1. O pessoal menor das escolas está sujeito, quanto a faltas, licenças e acção disciplinar, à legislação geral aplicável aos funcionários civis do Estado.
 
 2. O pessoal menor que, fora do período diário de trabalho a que legalmente é obrigado, preste serviço nas secções das escolas que funcionem em liceus, escolas técnicas ou edifícios diferentes das sedes, pode ser remunerado nos termos do artigo 43.º do [Decreto-Lei n.º 26115](https://diariodarepublica.pt/dr/detalhe/decreto-lei/26115-1935-636885), de 23 de Novembro de 1935.
 
@@ -1470,17 +1597,17 @@ j) Assinar o respectivo registo de presença.
 
 #### SECÇÃO I — Categorias
 
-###### Art. 218.º O ensino do ciclo preparatório, público ou particular, só poderá ser ministrado por indivíduos em quem o Estado reconheça, além da natural competência para o mesmo ensino, a indispensável idoneidade moral e cívica.
+Art. 218.º O ensino do ciclo preparatório, público ou particular, só poderá ser ministrado por indivíduos em quem o Estado reconheça, além da natural competência para o mesmo ensino, a indispensável idoneidade moral e cívica.
 
-###### Art. 219.º O pessoal docente das escolas preparatórias públicas é constituído por professores efectivos, por professores auxiliares e por professores provisórios.
+Art. 219.º O pessoal docente das escolas preparatórias públicas é constituído por professores efectivos, por professores auxiliares e por professores provisórios.
 
-###### Art. 220.º - 1. A cada escola preparatória pública é atribuído um quadro privativo de professores efectivos.
+Art. 220.º - 1. A cada escola preparatória pública é atribuído um quadro privativo de professores efectivos.
 
 2. Nas escolas de frequência masculina e nas de frequência mista os lugares dos quadros de professores podem ser providos em indivíduos de um ou de outro sexo; mas nas escolas do primeiro tipo gozarão de preferência os candidatos do sexo masculino. Ressalva-se o disposto no artigo 227.º
 
 3. Nas escolas de frequência feminina, o provimento recairá apenas em candidatos do sexo feminino, o mesmo sucedendo em relação ao quadro privativo da secção feminina das escolas a que se refere o artigo 28.º, n.º 3.
 
-###### Art. 221.º - 1. Os professores auxiliares formam dois quadros gerais, um masculino e outro feminino, constantes da tabela anexa ao presente decreto.
+Art. 221.º - 1. Os professores auxiliares formam dois quadros gerais, um masculino e outro feminino, constantes da tabela anexa ao presente decreto.
 
 2. Os professores auxiliares são colocados temporàriamente, por proposta da Direcção de Serviços, nas escolas onde se tornem necessários os seus serviços, normalmente no mês de Setembro, podendo ser deslocados nos mesmos termos quando a conveniência do ensino o determinar.
 
@@ -1498,7 +1625,7 @@ c) Impossibilidade de serem colocados mais de dois professores auxiliares de cad
 
 6. Os professores auxiliares que forem colocados em escolas de localidade diferente da da sua residência ou que forem deslocados de uma para outra escola terão direito ao abono das despesas de transporte em 1.ª classe.
 
-###### Art. 222.º - 1. Os professores provisórios são nomeados anualmente e destinam-se a suprir as necessidades eventuais resultantes da falta ou impedimento de professores efectivos e auxiliares.
+Art. 222.º - 1. Os professores provisórios são nomeados anualmente e destinam-se a suprir as necessidades eventuais resultantes da falta ou impedimento de professores efectivos e auxiliares.
 
 2. Os professores provisórios são graduados segundo a habilitação que possuírem, conforme o disposto no artigo 256.º
 
@@ -1506,7 +1633,7 @@ c) Impossibilidade de serem colocados mais de dois professores auxiliares de cad
 
 4. A classificação do serviço docente dos professores provisórios é proposta à Inspecção pelo director da escola, ouvido o conselho escolar, segundo a escala: Deficiente, Suficiente, Bom e Muito bom.
 
-###### Art. 223.º - 1. O pessoal docente do ciclo preparatório é distribuído pela forma seguinte, segundo as disciplinas que lhe cumpre normalmente reger:
+Art. 223.º - 1. O pessoal docente do ciclo preparatório é distribuído pela forma seguinte, segundo as disciplinas que lhe cumpre normalmente reger:
 
 Professores do 1.º grupo - Língua Portuguesa, História e Geografia de Portugal;
 
@@ -1532,23 +1659,23 @@ Professores e instrutores de Educação Física.
 
 4. Quando certas actividades circum-escolares o justifiquem, poderá o director do respectivo centro propor à Mocidade Portuguesa ou à Mocidade Portuguesa Feminina, conforme os casos, o contrato de pessoas especialmente qualificadas para o efeito.
 
-###### Art. 224.º - 1. Os quadros dos professores efectivos das escolas preparatórias públicas serão fixados em portaria conjunta dos Ministros das Finanças e da Educação Nacional.
+Art. 224.º - 1. Os quadros dos professores efectivos das escolas preparatórias públicas serão fixados em portaria conjunta dos Ministros das Finanças e da Educação Nacional.
 
 2. De cinco em cinco anos será feito reajustamento dos quadros docentes das escolas públicas, de acordo com as alterações verificadas na lotação ou a introduzir no plano de estudos.
 
-###### Art. 225.º - 1. Nas escolas de frequência masculina e nas de frequência mista, os professores provisórios podem ser de qualquer dos sexos; mas nas escolas do primeiro tipo gozarão de preferência os candidatos do sexo masculino. Ressalva-se o disposto no artigo 227.º
+Art. 225.º - 1. Nas escolas de frequência masculina e nas de frequência mista, os professores provisórios podem ser de qualquer dos sexos; mas nas escolas do primeiro tipo gozarão de preferência os candidatos do sexo masculino. Ressalva-se o disposto no artigo 227.º
 
 Serão exclusivamente do sexo feminino os professores das escolas de frequência feminina e das secções das escolas a que se refere o artigo 28.º, n.º 3.
 
-###### Art. 226.º As nomeações e exonerações dos professores de Moral e Religião serão feitas de harmonia com o regime estabelecido na Concordata com a Santa Sé.
+Art. 226.º As nomeações e exonerações dos professores de Moral e Religião serão feitas de harmonia com o regime estabelecido na Concordata com a Santa Sé.
 
-###### Art. 227.º. O ensino das disciplinas de Trabalhos Manuais e Educação Física será ministrado por professores do mesmo sexo dos alunos.
+Art. 227.º. O ensino das disciplinas de Trabalhos Manuais e Educação Física será ministrado por professores do mesmo sexo dos alunos.
 
-###### Art. 228.º - 1. O serviço obrigatório é de 22 horas por semana para todos os professores, com excepção dos de Trabalhos Manuais. O serviço docente dos professores efectivos será reduzido a 20 e 18 horas no fim de 10 e 20 anos de serviço, respectivamente, prestado no ensino público secundário. Para os professores de Trabalhos Manuais o serviço docente será de 32 horas, reduzindo-se a 28 e 24 horas em condições idênticas às estabelecidas para os restantes professores.
+Art. 228.º - 1. O serviço obrigatório é de 22 horas por semana para todos os professores, com excepção dos de Trabalhos Manuais. O serviço docente dos professores efectivos será reduzido a 20 e 18 horas no fim de 10 e 20 anos de serviço, respectivamente, prestado no ensino público secundário. Para os professores de Trabalhos Manuais o serviço docente será de 32 horas, reduzindo-se a 28 e 24 horas em condições idênticas às estabelecidas para os restantes professores.
 
 2. Quando as necessidades do ensino ou das actividades circum-escolares o justifiquem, podem os professores em exercício nas escolas, bem como os instrutores de educação física contratados nos termos dos n.os 1 e 2 do artigo 1.º do [Decreto-Lei n.º 47342](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47342-1966-477368), de 24 de Novembro de 1966, prestar semanalmente até oito horas de serviço extraordinário remunerado, além das de serviço obrigatório.
 
-###### Art. 229.º - 1. O serviço docente dos professores que exerçam funções de direcção terá as seguintes reduções:
+Art. 229.º - 1. O serviço docente dos professores que exerçam funções de direcção terá as seguintes reduções:
 
 1) Directores de escolas:
 
@@ -1568,19 +1695,19 @@ d) Escolas de mais de 24 turmas - o serviço docente do director será o de reg�
 
 3. As reduções de horário não envolvem diminuição de remuneração.
 
-###### Art. 230.º Os professores efectivos terão direito a aumento de vencimentos ao fim de dez e vinte anos de bom serviço nessa categoria.
+Art. 230.º Os professores efectivos terão direito a aumento de vencimentos ao fim de dez e vinte anos de bom serviço nessa categoria.
 
-###### Art. 231.º - 1. Para todos os efeitos legais, o tempo de serviço prestado nas escolas preparatórias públicas é contado dia a dia, com inclusão de férias, domingos e feriados.
+Art. 231.º - 1. Para todos os efeitos legais, o tempo de serviço prestado nas escolas preparatórias públicas é contado dia a dia, com inclusão de férias, domingos e feriados.
 
 2. Quanto aos professores provisórios, porém, são contados por inteiro os meses de Outubro e Julho, desde que tenham entrado em exercício antes do dia 15 daquele primeiro mês e hajam comparecido nos trabalhos finais do ano de que tenham sido incumbidos.
 
 #### SECÇÃO II — Provimentos
 
-###### Art. 232.º - 1. Dentro de cinco dias após o termo dos Exames de Estado e nos primeiros cinco dias do mês de Fevereiro de cada ano, a Direcção de Serviços do Ciclo Preparatório abrirá concurso, pelo prazo de quinze dias, para o provimento das vagas existentes nos quadros das escolas preparatórias públicas.
+Art. 232.º - 1. Dentro de cinco dias após o termo dos Exames de Estado e nos primeiros cinco dias do mês de Fevereiro de cada ano, a Direcção de Serviços do Ciclo Preparatório abrirá concurso, pelo prazo de quinze dias, para o provimento das vagas existentes nos quadros das escolas preparatórias públicas.
 
 2. A Direcção de Serviços comunicará telegràficamente aos directores das escolas das ilhas adjacentes as vagas que constam do aviso, para que possam requerer o provimento os professores que estejam a prestar serviço nessas escolas. Até o último dia do prazo, os directores comunicarão à Direcção de Serviços, também telegràficamente, quais os professores que requereram.
 
-###### Art. 233.º - 1. O provimento dos lugares de professores efectivos do ciclo preparatório é feito mediante concurso documental, a que podem apresentar-se:
+Art. 233.º - 1. O provimento dos lugares de professores efectivos do ciclo preparatório é feito mediante concurso documental, a que podem apresentar-se:
 
 a) Professores efectivos do ciclo, em exercício ou na situação de licença ilimitada há mais de um ano, que não tenham sido transferidos durante o ano escolar em curso;
 
@@ -1602,7 +1729,7 @@ b) Em segundo lugar, os candidatos que tenham seguido com aproveitamento um curs
 
 4. No requerimento, os professores indicarão as escolas a que desejam concorrer, por ordem de preferência das mesmas.
 
-###### Art. 234.º - 1. Podem concorrer aos lugares de professores auxiliares:
+Art. 234.º - 1. Podem concorrer aos lugares de professores auxiliares:
 
 a) Os professores auxiliares na situação de licença ilimitada há mais de um ano;
 
@@ -1610,7 +1737,7 @@ b) Os indivíduos habilitados com o Exame de Estado para o ciclo preparatório.
 
 2. A graduação dos candidatos é feita pela ordem decrescente da sua classificação profissional, gozando os professores auxiliares de preferência em relação aos demais.
 
-###### Art. 235.º - 1. A classificação profissional dos professores do ciclo preparatório obtém-se somando à classificação obtida no Exame de Estado a valorização de tempo de serviço, prestado como professor, depois da aprovação nesse exame.
+Art. 235.º - 1. A classificação profissional dos professores do ciclo preparatório obtém-se somando à classificação obtida no Exame de Estado a valorização de tempo de serviço, prestado como professor, depois da aprovação nesse exame.
 
 2. A valorização do tempo de serviço é de meio valor por cada período de 365 dias, não podendo, porém, daí resultar um aumento de classificação superior a dez valores.
 
@@ -1618,11 +1745,11 @@ b) Os indivíduos habilitados com o Exame de Estado para o ciclo preparatório.
 
 4. Quanto aos candidatos que tenham prestado serviço nos estabelecimentos do ensino secundário - liceal ou técnico profissional -, esse serviço será contado, para todos os efeitos legais, nos mesmos termos do prestado no ciclo preparatório.
 
-###### Art. 236.º - 1. Os professores de escolas do ciclo preparatório dependentes de outros Ministérios, ou no desempenho de comissões de serviço, devidamente autorizadas, noutro Ministério, ou na situação de licença ilimitada há mais de um ano, podem requerer o provimento nos lugares a que se refere o artigo 233.º, desde que possuam as habilitações exigidas no Estatuto para o exercício do cargo.
+Art. 236.º - 1. Os professores de escolas do ciclo preparatório dependentes de outros Ministérios, ou no desempenho de comissões de serviço, devidamente autorizadas, noutro Ministério, ou na situação de licença ilimitada há mais de um ano, podem requerer o provimento nos lugares a que se refere o artigo 233.º, desde que possuam as habilitações exigidas no Estatuto para o exercício do cargo.
 
 2. Os professores de escolas dependentes de outros Ministérios são classificados na categoria que possuírem no Ministério da Educação Nacional, levando-se-lhes, porém, em conta o serviço que tiverem prestado naquelas escolas, nos termos do artigo anterior.
 
-###### Art. 237.º - 1. Os candidatos ao provimento dos lugares de professores efectivos e auxiliares juntarão aos seus requerimentos:
+Art. 237.º - 1. Os candidatos ao provimento dos lugares de professores efectivos e auxiliares juntarão aos seus requerimentos:
 
 a) Os documentos comprovativos da habilitação legal;
 
@@ -1632,27 +1759,27 @@ c) A declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarep
 
 2. Os candidatos que já tenham requerido o provimento em lugares dos quadros, ao abrigo do presente Estatuto, e apresentado os documentos a que se referem as alíneas a) e b) do número anterior, são dispensados de nova apresentação.
 
-###### Art. 238.º - 1. Os documentos a que se refere o artigo anterior serão enviados à Direcção de Serviços por intermédio da escola onde os requerentes se encontrem a prestar serviço e directamente pelos que não exerçam o ensino em qualquer escola oficial.
+Art. 238.º - 1. Os documentos a que se refere o artigo anterior serão enviados à Direcção de Serviços por intermédio da escola onde os requerentes se encontrem a prestar serviço e directamente pelos que não exerçam o ensino em qualquer escola oficial.
 
 2. A remessa dos documentos será feita pelas escolas, sob registo, no dia imediato ao termo do prazo.
 
 3. As escolas deverão juntar aos documentos um mapa donde conste o tempo de serviço nos últimos três anos.
 
-###### Art. 239.º Os candidatos aos provimentos dos lugares dos quadros não podem desistir depois de expirado o prazo fixado no n.º 1 do artigo 232.º
+Art. 239.º Os candidatos aos provimentos dos lugares dos quadros não podem desistir depois de expirado o prazo fixado no n.º 1 do artigo 232.º
 
-###### Art. 240.º - 1. A classificação da qualidade de serviço dos professores dos quadros pertence à Inspecção da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, nos termos da alínea n) do artigo 343.º
+Art. 240.º - 1. A classificação da qualidade de serviço dos professores dos quadros pertence à Inspecção da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário, nos termos da alínea n) do artigo 343.º
 
 2. A classificação da qualidade de serviço dos professores que exerçam o cargo de director pertence ao director de Serviços.
 
 3. Desde que as escolas não tenham recebido comunicação em contrário, devem considerar qualificado de Bom o serviço prestado pelos professores efectivos, auxiliares e directores.
 
-###### Art. 241.º - 1. A Direcção de Serviços, colhidas as informações necessárias da Inspecção ou da Mocidade Portuguesa, ou da Mocidade Portuguesa Feminina, segundo os casos, fará publicar no Diário do Governo a relação graduada dos candidatos admitidos ao provimento dos lugares de professores efectivos e auxiliares, segundo o disposto nos n.os 2 e 3 do artigo 233.º e no n.º 2 do artigo 234.º, respectivamente.
+Art. 241.º - 1. A Direcção de Serviços, colhidas as informações necessárias da Inspecção ou da Mocidade Portuguesa, ou da Mocidade Portuguesa Feminina, segundo os casos, fará publicar no Diário do Governo a relação graduada dos candidatos admitidos ao provimento dos lugares de professores efectivos e auxiliares, segundo o disposto nos n.os 2 e 3 do artigo 233.º e no n.º 2 do artigo 234.º, respectivamente.
 
 2. A nomeação recairá no candidato graduado em primeiro lugar.
 
 3. Os candidatos apresentarão na Direcção de Serviços, no prazo que lhes for fixado, a documentação necessária para a nomeação exigida pelo artigo 4.º e seus parágrafos do Decreto-Lei n.º 26341, de 7 de Fevereiro de 1936, com a redacção que lhe foi dada pelo Decreto-Lei n.º 26826, de 25 de Julho do mesmo ano.
 
-###### Art. 242.º - 1. Os professores nomeados devem, sob pena de ficar sem efeito a nomeação e de serem exonerados do cargo que antes ocupavam no magistério, tomar posse do lugar dentro dos 30 dias imediatos à publicação no Diário do Governo da portaria da sua nomeação.
+Art. 242.º - 1. Os professores nomeados devem, sob pena de ficar sem efeito a nomeação e de serem exonerados do cargo que antes ocupavam no magistério, tomar posse do lugar dentro dos 30 dias imediatos à publicação no Diário do Governo da portaria da sua nomeação.
 
 2. A posse dos professores efectivos será conferida pelo director da escola e a dos professores auxiliares pelo director de Serviços ou por delegado seu.
 
@@ -1664,7 +1791,7 @@ c) A declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarep
 
 6. No acto da posse o professor entregará o bilhete de identidade, o diploma de funções públicas e a declaração a que se refere o artigo 3.º da [Lei n.º 1901](https://diariodarepublica.pt/dr/detalhe/lei/1901-1935-577495), de 21 de Maio de 1935, observando-se ainda o disposto nos parágrafos 2.º e 4.º do artigo 4.º do [Decreto n.º 26341](https://diariodarepublica.pt/dr/detalhe/decreto/26341-1936-685439), de 7 de Fevereiro de 1936.
 
-###### Art. 243.º - 1. Os professores nomeados para os quadros devem, imediatamente depois da posse, entrar em exercício no cargo em que foram providos, salvo nos casos previstos nos números seguintes.
+Art. 243.º - 1. Os professores nomeados para os quadros devem, imediatamente depois da posse, entrar em exercício no cargo em que foram providos, salvo nos casos previstos nos números seguintes.
 
 2. Se à data do provimento os professores se encontrarem prestando serviço noutra escola, entrarão em exercício na escola a cujo quadro passam a pertencer sòmente no início do ano escolar seguinte.
 
@@ -1672,17 +1799,17 @@ c) A declaração a que se refere o [Decreto-Lei n.º 27003](https://diariodarep
 
 4. Os professores efectivos que durante o ano escolar sejam transferidos do quadro de uma para o de outra escola têm direito ao abono dos vencimentos por aquela onde se encontrem a prestar serviço até o início do ano escolar seguinte.
 
-###### Art. 244.º - 1. Aos professores provisórios com Exame de Estado providos em categoria superior aquela em que estavam prestando serviço à data do provimento, se continuarem em exercício, são devidos os vencimentos correspondentes a nova categoria a partir da data em que tenham tomado posse.
+Art. 244.º - 1. Aos professores provisórios com Exame de Estado providos em categoria superior aquela em que estavam prestando serviço à data do provimento, se continuarem em exercício, são devidos os vencimentos correspondentes a nova categoria a partir da data em que tenham tomado posse.
 
 2. Os professores provisórios com Exame de Estado e os professores auxiliares que, estando a prestar serviço numa escola a cargo das juntas autónomas das ilhas adjacentes, forem nomeados professores efectivos de escola a cargo do Estado, serão abonados da diferença de vencimentos, até o início do ano escolar seguinte, pela escola para cujo quadro forem transferidos.
 
 3. Os professores provisórios com Exame de Estado e os professores auxiliares que, estando a prestar serviço numa escola a cargo do Estado, forem nomeados professores efectivos de escola a cargo das juntas autónomas das ilhas adjacentes, serão abonados da diferença de vencimentos, até o início do ano escolar seguinte, pelas verbas disponíveis do pessoal das escolas a cargo do Estado.
 
-###### Art. 245.º - 1. Podem ser colocados em comissão de serviço nas vagas existentes nas escolas preparatórias públicas professores efectivos do ensino secundário - liceal ou técnico profissional - dos quadros dos estabelecimentos da mesma localidade e ainda professores auxiliares de qualquer desses ramos.
+Art. 245.º - 1. Podem ser colocados em comissão de serviço nas vagas existentes nas escolas preparatórias públicas professores efectivos do ensino secundário - liceal ou técnico profissional - dos quadros dos estabelecimentos da mesma localidade e ainda professores auxiliares de qualquer desses ramos.
 
 2. Os referidos professores serão abonados pelas disponibilidades das dotações das escolas preparatórias e manterão as regalias correspondentes aos quadros a que pertencem, sendo o seu serviço contado, para todos os efeitos, como prestado nos mesmos quadros.
 
-###### Art. 246.º - 1. Durante o mês de Agosto de cada ano, será afixada a relação das escolas públicas onde se tornarão necessários professores provisórios no ano escolar seguinte.
+Art. 246.º - 1. Durante o mês de Agosto de cada ano, será afixada a relação das escolas públicas onde se tornarão necessários professores provisórios no ano escolar seguinte.
 
 2. Os interessados nas nomeações para esses serviços devem apresentar os requerimentos no prazo de quinze dias após a publicação da referida relação.
 
@@ -1702,7 +1829,7 @@ b) Indivíduos com a habilitação académica a que se refere o artigo 256.º e 
 
 8. A Direcção de Serviços do Ciclo Preparatório notificará aos candidatos as escolas para onde foram nomeados.
 
-###### Art. 247.º - 1. Os candidatos aos cargos a que se refere o artigo 246.º juntarão ao requerimento, do qual devem constar os necessários elementos de identificação, bem como a morada e a ordem de preferência das escolas em que pretendem ser colocados:
+Art. 247.º - 1. Os candidatos aos cargos a que se refere o artigo 246.º juntarão ao requerimento, do qual devem constar os necessários elementos de identificação, bem como a morada e a ordem de preferência das escolas em que pretendem ser colocados:
 
 a) Documentos comprovativos das suas habilitações;
 
@@ -1714,9 +1841,9 @@ d) Outros documentos que julguem úteis.
 
 2. Os candidatos admitidos aos concursos do ano imediatamente antecedente são dispensados da apresentação dos documentos referidos nas alíneas a) e b) do número anterior.
 
-###### Art. 248.º As classificações dos candidatos admitidos, devidamente graduados por grupos e categorias, serão publicadas no Diário do Governo.
+Art. 248.º As classificações dos candidatos admitidos, devidamente graduados por grupos e categorias, serão publicadas no Diário do Governo.
 
-###### Art. 249.º - 1. As nomeações dos professores provisórios são feitas por portaria, para todo o ano escolar a que respeitarem.
+Art. 249.º - 1. As nomeações dos professores provisórios são feitas por portaria, para todo o ano escolar a que respeitarem.
 
 2. O prazo de apresentação nas escolas é de três dias, a contar da data em que for recebida a notificação.
 
@@ -1724,25 +1851,25 @@ d) Outros documentos que julguem úteis.
 
 4. Os documentos necessários à organização dos processos de nomeação serão apresentados no prazo que for fixado aos candidatos.
 
-###### Art. 250.º - 1. Os candidatos habilitados com o Exame de Estado que tenham sido admitidos uma vez aos concursos a que se refere o artigo 246.º serão colocados nos anos seguintes, independentemente de novo requerimento e da junção de quaisquer documentos, nas escolas que indiquem e onde se tornem necessários os seus serviços.
+Art. 250.º - 1. Os candidatos habilitados com o Exame de Estado que tenham sido admitidos uma vez aos concursos a que se refere o artigo 246.º serão colocados nos anos seguintes, independentemente de novo requerimento e da junção de quaisquer documentos, nas escolas que indiquem e onde se tornem necessários os seus serviços.
 
 2. Para os efeitos previstos no número anterior será, pela Direcção de Serviços, organizado um cadastro destes professores.
 
-###### Art. 251.º - 1. Os concursos para professores provisórios das escolas das ilhas adjacentes podem, com autorização do Ministro, realizar-se perante as próprias escolas, sem prejuízo dos prazos fixados no presente Estatuto, sendo em tal caso os avisos publicados na imprensa local e as listas de classificação afixadas no átrio da escola durante o período destinado a reclamações.
+Art. 251.º - 1. Os concursos para professores provisórios das escolas das ilhas adjacentes podem, com autorização do Ministro, realizar-se perante as próprias escolas, sem prejuízo dos prazos fixados no presente Estatuto, sendo em tal caso os avisos publicados na imprensa local e as listas de classificação afixadas no átrio da escola durante o período destinado a reclamações.
 
 2. No caso de haver reclamação, será enviada à Direcção de Serviços toda a documentação referente aos candidatos do grupo a que a reclamação respeitar.
 
-###### Art. 252.º Para as escolas e grupos que não forem incluídos nos concursos a que se refere o artigo 246.º e para o serviço que fique disponível por falta de concorrentes, os professores provisórios necessários serão nomeados sob proposta dos directores das escolas.
+Art. 252.º Para as escolas e grupos que não forem incluídos nos concursos a que se refere o artigo 246.º e para o serviço que fique disponível por falta de concorrentes, os professores provisórios necessários serão nomeados sob proposta dos directores das escolas.
 
-###### Art. 253.º - 1. Os professores provisórios cujo serviço for classificado de deficiente não poderão ser admitidos a concurso nem nomeados nos dois anos imediatamente seguintes àquele a que se referir essa classificação.
+Art. 253.º - 1. Os professores provisórios cujo serviço for classificado de deficiente não poderão ser admitidos a concurso nem nomeados nos dois anos imediatamente seguintes àquele a que se referir essa classificação.
 
 2. Ficarão impedidos de concorrer e de ser nomeados aqueles cujo serviço for duas vezes classificado de deficiente.
 
-###### Art. 254.º A sanção estabelecida no artigo anterior será também aplicada aos candidatos que, sem motivo de força maior, como tal reconhecido por despacho do Ministro, não se apresentem nas escolas em que tenham sido colocados e a que tenham concorrido, recusem o horário ou o serviço do seu grupo de disciplinas ou disciplina que lhes tenha sido distribuído, ou abandonem o serviço antes de concluídos os exames.
+Art. 254.º A sanção estabelecida no artigo anterior será também aplicada aos candidatos que, sem motivo de força maior, como tal reconhecido por despacho do Ministro, não se apresentem nas escolas em que tenham sido colocados e a que tenham concorrido, recusem o horário ou o serviço do seu grupo de disciplinas ou disciplina que lhes tenha sido distribuído, ou abandonem o serviço antes de concluídos os exames.
 
 #### SECÇÃO III — Formação dos professores
 
-###### Art. 255.º - 1. A formação profissional completa dos professores do ciclo preparatório público compreende:
+Art. 255.º - 1. A formação profissional completa dos professores do ciclo preparatório público compreende:
 
 a) Habilitação académica;
 
@@ -1754,7 +1881,7 @@ d) Aprovação no respectivo Exame de Estado.
 
 2. O disposto no presente artigo não se aplica aos professores de Moral e Religião, cuja preparação é da responsabilidade das autoridades da Igreja Católica.
 
-###### Art. 256.º - 1. A habilitação académica exigida aos candidatos a professores do ciclo preparatório é uma das seguintes, ou habilitação declarada equivalente:
+Art. 256.º - 1. A habilitação académica exigida aos candidatos a professores do ciclo preparatório é uma das seguintes, ou habilitação declarada equivalente:
 
 a) 1.º, 2.º e 3.º grupos: licenciatura num curso das Faculdades de Letras (antiga ou nova reforma) que inclua a preparação correspondente a, pelo menos, uma disciplina do grupo respectivo; 3.º ano completo de um curso das Faculdades de Letras (antiga ou nova reforma) que inclua a preparação correspondente a, pelo menos, uma disciplina do grupo respectivo; curso para professores adjuntos do 8.º grupo a que se refere o [Decreto n.º 37087](https://diariodarepublica.pt/dr/detalhe/decreto/37087-1948-371067), de 6 de Outubro de 1948;
 
@@ -1776,7 +1903,7 @@ a) Para o 1.º e 4.º grupos e para a docência das disciplinas de Desenho e de 
 
 b) Para a docência das disciplinas de Francês ou Inglês: aprovação num exame ad hoc que revele, além de cultura geral adequada, perfeito conhecimento de uma ou outra dessas línguas, conforme os casos, dispensando-se, todavia, a apreciação da cultura quando esta resulte das habilitações académicas do candidato.
 
-###### Art. 257.º - 1. A cultura pedagógica é comprovada:
+Art. 257.º - 1. A cultura pedagógica é comprovada:
 
 a) Pela aprovação nas disciplinas da Secção de Ciências Pedagógicas das Faculdades de Letras, ou habilitação equivalente;
 
@@ -1788,7 +1915,7 @@ c) Quanto aos Trabalhos Manuais e à Educação Musical, pela aprovação em cur
 
 3. Os estagiários que não possuam a cultura pedagógica a que se refere a alínea a) do n.º 1 do presente artigo, poderão obtê-la durante o 1.º ano de estágio.
 
-###### Art. 258.º - 1. A prática pedagógica é adquirida em estágio realizado em escolas preparatórias de Lisboa, Porto, Coimbra e Faro ou de outras localidades designadas para o efeito.
+Art. 258.º - 1. A prática pedagógica é adquirida em estágio realizado em escolas preparatórias de Lisboa, Porto, Coimbra e Faro ou de outras localidades designadas para o efeito.
 
 2. O estágio tem a duração de dois anos lectivos completados com o serviço de exames de fim do ciclo; mas, quanto aos candidatos a professores de Educação Física, entrar-se-á em linha de conta com o tempo do estágio incluído no respectivo curso.
 
@@ -1796,7 +1923,7 @@ c) Quanto aos Trabalhos Manuais e à Educação Musical, pela aprovação em cur
 
 4. Os estagiários gozam do estatuto de professores provisórios, em tudo o que não for incompatível com a sua específica qualidade, estando obrigados a regência, nos termos do artigo 228.º, n.º 1, e artigo 229.º, n.º 2, e percebendo a correspondente remuneração.
 
-###### Art. 259.º - 1. A abertura do estágio será comunicada por aviso da Direcção de Serviços publicado no Diário do Governo durante o mês de Agosto de cada ano.
+Art. 259.º - 1. A abertura do estágio será comunicada por aviso da Direcção de Serviços publicado no Diário do Governo durante o mês de Agosto de cada ano.
 
 2. Do aviso constarão obrigatòriamente:
 
@@ -1806,7 +1933,7 @@ b) As escolas onde funcionarão os serviços de estágio;
 
 c) As escolas onde se realizarão os exames de admissão.
 
-###### Art. 260.º - 1. O requerimento de exame de admissão ao estágio será instruído com os seguintes elementos:
+Art. 260.º - 1. O requerimento de exame de admissão ao estágio será instruído com os seguintes elementos:
 
 a) Certificado das habilitações a que se refere o artigo 256.º, sem prejuízo do disposto no artigo 257.º;
 
@@ -1834,13 +1961,13 @@ i) Curriculum vitae redigido pelo candidato, com menção de todos os elementos 
 
 5. Do parecer do conselho pedagógico haverá recurso para o Ministro.
 
-###### Art. 261.º - 1. O ingresso no estágio pedagógico será requerido perante a Direcção de Serviços do Ciclo Preparatório, de 1 a 10 de Setembro, por candidatos que comprovem possuir a habilitação académica exigida no artigo 256.º
+Art. 261.º - 1. O ingresso no estágio pedagógico será requerido perante a Direcção de Serviços do Ciclo Preparatório, de 1 a 10 de Setembro, por candidatos que comprovem possuir a habilitação académica exigida no artigo 256.º
 
 2. Os candidatos a professores de Trabalhos Manuais e de Educação Musical apenas têm de comprovar a habilitação académica.
 
 3. A cultura pedagógica exigida no artigo 257.º poderá ser comprovada até o início do 2.º ano de estágio.
 
-###### Art. 262.º - 1. O ingresso no estágio depende da inspecção médica realizada por uma junta, constituída por três médicos escolares e presidida por um inspector do ciclo, com o fim de verificar se o candidato possui as condições de sanidade física e mental indispensáveis para o exercício do magistério do ciclo.
+Art. 262.º - 1. O ingresso no estágio depende da inspecção médica realizada por uma junta, constituída por três médicos escolares e presidida por um inspector do ciclo, com o fim de verificar se o candidato possui as condições de sanidade física e mental indispensáveis para o exercício do magistério do ciclo.
 
 2. A inspecção médica dos candidatos terá início em 15 de Setembro ou no primeiro dia útil seguinte, no local para o efeito designado.
 
@@ -1850,13 +1977,13 @@ i) Curriculum vitae redigido pelo candidato, com menção de todos os elementos 
 
 5. Aos candidatos rejeitados na inspecção médica é facultado recorrer para o Ministro, que poderá mandá-los examinar por nova junta, constituída por cinco médicos. O candidato poderá fazer a prova do exame de admissão condicionalmente, ficando a homologação do resultado dependente do recurso com despacho favorável.
 
-###### Art. 263.º - 1. Para os candidatos a professores do 1.º ao 5.º grupos e de Educação Musical o ingresso no estágio depende de concurso documental, sendo os candidatos graduados de acordo com o disposto no n.º 1 do artigo 269.º
+Art. 263.º - 1. Para os candidatos a professores do 1.º ao 5.º grupos e de Educação Musical o ingresso no estágio depende de concurso documental, sendo os candidatos graduados de acordo com o disposto no n.º 1 do artigo 269.º
 
 2. Quanto aos candidatos a professores de Educação Física, o ingresso no estágio obedece às condições indicadas no número anterior, tendo-se em conta o disposto no n.º 2 do artigo 258.º
 
 3. Quanto aos candidatos a professores de Trabalhos Manuais, o ingresso no estágio é condicionado pela aprovação numa prova de aptidão para a generalidade dos trabalhos manuais, acompanhada do respectivo relatório escrito.
 
-###### Art. 264.º - 1. O júri da prova de ingresso para os candidatos a professores de Trabalhos Manuais será nomeado pelo Ministro e constituído pelo director de Serviços ou delegado seu, que servirá de presidente, por um professor de Desenho e um de Trabalhos Manuais, por cada sexo, e por um professor de Língua Portuguesa.
+Art. 264.º - 1. O júri da prova de ingresso para os candidatos a professores de Trabalhos Manuais será nomeado pelo Ministro e constituído pelo director de Serviços ou delegado seu, que servirá de presidente, por um professor de Desenho e um de Trabalhos Manuais, por cada sexo, e por um professor de Língua Portuguesa.
 
 2. Os professores nomeados não podem recusar-se a este serviço, que prefere a qualquer outro.
 
@@ -1864,7 +1991,7 @@ i) Curriculum vitae redigido pelo candidato, com menção de todos os elementos 
 
 4. O membro do júri que souber da existência de algum candidato nas condições do número anterior é obrigado a comunicar o facto ao presidente do júri, que determinará a sua substituição.
 
-###### Art. 265.º - 1. Logo que tenha sido nomeado o júri a que se refere o artigo anterior, o seu presidente estabelecerá o programa dos trabalhos e fará as respectivas convocatórias.
+Art. 265.º - 1. Logo que tenha sido nomeado o júri a que se refere o artigo anterior, o seu presidente estabelecerá o programa dos trabalhos e fará as respectivas convocatórias.
 
 2. Na primeira reunião, o júri, ouvidos os directores das escolas onde se realizarão os exames, deve estabelecer:
 
@@ -1876,7 +2003,7 @@ c) A distribuição dos vogais pelos respectivos locais de serviço.
 
 3. A prova de aptidão deverá ser anunciada com, pelo menos, 48 horas de antecedência.
 
-###### Art. 266.º - 1. A prova de aptidão terá a duração máxima de oito horas, dividida em duas sessões, seguidas de uma hora para elaboração do respectivo relatório escrito.
+Art. 266.º - 1. A prova de aptidão terá a duração máxima de oito horas, dividida em duas sessões, seguidas de uma hora para elaboração do respectivo relatório escrito.
 
 2. Na prova a que se refere o número anterior procurar-se-á avaliar:
 
@@ -1888,7 +2015,7 @@ c) O sentido estético revelado na realização da prova, quando for caso disso;
 
 d) A correcção e precisão de linguagem na elaboração do relatório escrito.
 
-###### Art. 267.º - 1. Terminadas as provas, serão estas apresentadas ao presidente do júri, que as distribuirá pelos vogais.
+Art. 267.º - 1. Terminadas as provas, serão estas apresentadas ao presidente do júri, que as distribuirá pelos vogais.
 
 2. Os vogais apreciarão as provas de acordo como disposto no n.º 2 do artigo 266.º e proporão a classificação dentro de uma escala de valores de 0 a 20.
 
@@ -1908,13 +2035,13 @@ d) A frequência com aproveitamento de um curso de formação organizada pela Di
 
 6. A lista dos candidatos aprovados, por ordem decrescente de classificação, será tornada pública por aviso afixado na escola e comunicada à Direcção de Serviços, que a fará publicar, no Diário do Governo.
 
-###### Art. 268.º - 1. De todas as sessões do júri se lavrarão actas que, depois de aprovadas, serão assinadas por todos os membros e, no final, enviadas à Direcção de Serviços.
+Art. 268.º - 1. De todas as sessões do júri se lavrarão actas que, depois de aprovadas, serão assinadas por todos os membros e, no final, enviadas à Direcção de Serviços.
 
 2. Todo este serviço é rigorosamente confidencial.
 
 3. Cada um dos membros do júri do exame de admissão ao estágio tem direito à gratificação de acordo com a tabela n.º 3 anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195), por cada candidato que preste provas e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo, quando houver lugar a elas.
 
-###### Art. 269.º - 1. Os concorrentes serão graduados segundo:
+Art. 269.º - 1. Os concorrentes serão graduados segundo:
 
 a) As habilitações exigidas no artigo 256.º pela ordem de preferência aí indicada;
 
@@ -1926,29 +2053,29 @@ d) A frequência com aproveitamento de um curso de formação organizado pela Di
 
 2. A lista dos candidatos admitidos ao estágio será publicada no Diário do Governo.
 
-###### Art. 270.º - 1. A matrícula em qualquer dos anos do estágio realiza-se na secretaria das escolas onde funcionem os serviços de estágio do respectivo grupo de disciplinas ou disciplina dentro dos três dias imediatos à publicação no Diário do Governo da lista dos candidatos admitidos.
+Art. 270.º - 1. A matrícula em qualquer dos anos do estágio realiza-se na secretaria das escolas onde funcionem os serviços de estágio do respectivo grupo de disciplinas ou disciplina dentro dos três dias imediatos à publicação no Diário do Governo da lista dos candidatos admitidos.
 
 2. Os estagiários, sob pena de ficar sem efeito a admissão, devem inutilizar com a sua assinatura, no termo, uma estampilha fiscal de 30$00.
 
 3. Não é permitida a matrícula de estagiários em mais de um grupo.
 
-###### Art. 271.º - 1. A propina devida pela matrícula é de 180$00, sendo paga por meio de selo aposto no termo, em três prestações iguais: no acto da matrícula e no princípio do 2.º e 3.º períodos escolares.
+Art. 271.º - 1. A propina devida pela matrícula é de 180$00, sendo paga por meio de selo aposto no termo, em três prestações iguais: no acto da matrícula e no princípio do 2.º e 3.º períodos escolares.
 
 2. Será concedida isenção de propinas aos estagiários que provem carência de recursos em condições a fixar pelo Ministro da Educação Nacional.
 
 3. A concessão é extensiva ao 2.º ano de estágio.
 
-###### Art. 272.º - 1. A isenção de propinas é requerida no acto da matrícula e a sua concessão é da competência do director da escola.
+Art. 272.º - 1. A isenção de propinas é requerida no acto da matrícula e a sua concessão é da competência do director da escola.
 
 2. Enquanto o requerimento não for despachado, fica suspensa a obrigação do pagamento da propina.
 
-###### Art. 273.º - 1. Podem ser concedidas até 25 bolsas de estudo, de 8000$00 anuais, pagas em 10 prestações mensais, a estagiários que provem ser chefes de família, carência de recursos e não residir habitualmente nas localidades onde se realizam os estágios.
+Art. 273.º - 1. Podem ser concedidas até 25 bolsas de estudo, de 8000$00 anuais, pagas em 10 prestações mensais, a estagiários que provem ser chefes de família, carência de recursos e não residir habitualmente nas localidades onde se realizam os estágios.
 
 2. A concessão é extensiva ao 2.º ano de estágio, se se mantiverem as condições do número anterior.
 
-###### Art. 274.º As bolsas de estudo são requeridas no acto da matrícula e a sua concessão é da competência do Ministro.
+Art. 274.º As bolsas de estudo são requeridas no acto da matrícula e a sua concessão é da competência do Ministro.
 
-###### Art. 275.º - 1. Os requerimentos para isenção de propinas e para bolsas de estudo são entregues ao director da escola, com a documentação necessária.
+Art. 275.º - 1. Os requerimentos para isenção de propinas e para bolsas de estudo são entregues ao director da escola, com a documentação necessária.
 
 2. O director da escola enviará os requerimentos de bolsas de estudo à Direcção de Serviços, com a sua informação fundamentada, para o que prèviamente poderá exigir novos documentos dos requerentes ou requisitar esclarecimentos a quaisquer entidades.
 
@@ -1958,19 +2085,19 @@ d) A frequência com aproveitamento de um curso de formação organizado pela Di
 
 5. Em caso de igualdade de classificações, serão preferidos os mais velhos.
 
-###### Art. 276.º - 1. Os termos de matrícula dos estagiários de cada grupo de disciplinas ou disciplina serão lavrados em livro especial e dispostos por forma que em seguimento do termo de cada estagiário se possa fazer o registo das classificações pelo mesmo obtidas até à conclusão do estágio.
+Art. 276.º - 1. Os termos de matrícula dos estagiários de cada grupo de disciplinas ou disciplina serão lavrados em livro especial e dispostos por forma que em seguimento do termo de cada estagiário se possa fazer o registo das classificações pelo mesmo obtidas até à conclusão do estágio.
 
 2. O conselho dos metodólogos lavrará sempre termo nos casos de desistência ou de perda de estágio por falta de assiduidade.
 
 3. Os livros a que se refere este artigo serão fornecidos pela Direcção de Serviços e aí arquivados depois de completamente preenchidos.
 
-###### Art. 277.º - 1. Se qualquer dos candidatos de um grupo que tenha direito à matrícula não a efectivar no prazo fixado por lei, ou dela disistir, pode o director de serviços, dentro dos dez dias imediatos, autorizar a matrícula de outros candidatos admitidos, segundo a respectiva graduação.
+Art. 277.º - 1. Se qualquer dos candidatos de um grupo que tenha direito à matrícula não a efectivar no prazo fixado por lei, ou dela disistir, pode o director de serviços, dentro dos dez dias imediatos, autorizar a matrícula de outros candidatos admitidos, segundo a respectiva graduação.
 
 2. Da situação prevista no número anterior será dado conhecimento aos interessados por aviso afixado no átrio da escola no dia seguinte ao encerramento do prazo de matrícula.
 
-###### Art. 278.º No dia seguinte ao último do prazo para a matrícula os candidatos inscritos apresentar-se-ão ao director da escola, iniciando-se desde logo os trabalhos de estágio.
+Art. 278.º No dia seguinte ao último do prazo para a matrícula os candidatos inscritos apresentar-se-ão ao director da escola, iniciando-se desde logo os trabalhos de estágio.
 
-###### Art. 279.º - 1. O estágio é dirigido por professores metodólogos, designados pelo Ministro, sob proposta do director de serviços$$$âââââââs1e
+Art. 279.º - 1. O estágio é dirigido por professores metodólogos, designados pelo Ministro, sob proposta do director de serviços$$$âââââââs1e
 
 professores efectivos do ciclo, ou de qualquer dos ramos subsequentes do ensino secundário em comissão de serviço nas escolas preparatórias, e que não exerçam quaisquer funções de direcção das escolas.
 
@@ -1978,17 +2105,17 @@ professores efectivos do ciclo, ou de qualquer dos ramos subsequentes do ensino 
 
 3. Poderá o Ministro encarregar de dirigir o estágio dos candidatos a professores de Trabalhos Manuais e de Educação Musical individualidades nacionais ou estrangeiras que se tenham distinguido pela sua cultura pedagógica nas respectivas matérias.
 
-###### Art. 280.º - 1. Haverá um metodólogo por disciplina nas localidades onde se realizam estágios.
+Art. 280.º - 1. Haverá um metodólogo por disciplina nas localidades onde se realizam estágios.
 
 2. Os metodólogos serão nomeados pelo prazo de três anos, podendo ser reconduzidos uma ou mais vezes por iguais períodos, e livremente exonerados a todo o tempo.
 
 3. Na falta ou impedimento de um professor metodólogo, pode ser feita nomeação interina.
 
-###### Art. 281.º A orientação dos estágios pertence ao director de Serviços do Ciclo Preparatório, o qual poderá delegar a acção executiva num dos inspectores designados para esse efeito.
+Art. 281.º A orientação dos estágios pertence ao director de Serviços do Ciclo Preparatório, o qual poderá delegar a acção executiva num dos inspectores designados para esse efeito.
 
-###### Art. 282.º Os directores das escolas de estágio perceberão uma gratificação equivalente à dos professores metodólogos, independentemente daquela a que têm direito como directores.
+Art. 282.º Os directores das escolas de estágio perceberão uma gratificação equivalente à dos professores metodólogos, independentemente daquela a que têm direito como directores.
 
-###### Art. 283.º - 1. Os professores metodólogos elaborarão em conjunto uma proposta de planificação circunstanciada das actividades do estágio no ano lectivo correspondente, de forma a existir completa coordenação entre os diversos grupos de disciplinas e em todas as escolas onde o estágio funcionar.
+Art. 283.º - 1. Os professores metodólogos elaborarão em conjunto uma proposta de planificação circunstanciada das actividades do estágio no ano lectivo correspondente, de forma a existir completa coordenação entre os diversos grupos de disciplinas e em todas as escolas onde o estágio funcionar.
 
 2. Essa proposta será apresentada ao conselho pedagógico até ao início da 2.ª semana de Outubro.
 
@@ -1996,7 +2123,7 @@ professores efectivos do ciclo, ou de qualquer dos ramos subsequentes do ensino 
 
 4. Deverá igualmente ser estabelecida uma planificação dos cursos de Pedagogia e Didáctica Especial das disciplinas de Trabalhos Manuais e Educação Musical.
 
-###### Art. 284.º - 1. O conselho pedagógico, na reunião a que se refere o artigo anterior, aprovará ainda as rubricas que constituirão matéria de especialização dos estagiários e que serão seguidas em cursos, conferências, seminários, estágios de formação e aperfeiçoamento sobre:
+Art. 284.º - 1. O conselho pedagógico, na reunião a que se refere o artigo anterior, aprovará ainda as rubricas que constituirão matéria de especialização dos estagiários e que serão seguidas em cursos, conferências, seminários, estágios de formação e aperfeiçoamento sobre:
 
 a) Organização escolar;
 
@@ -2012,7 +2139,7 @@ e) Documentação, princípios de biblioteconomia e de museologia, ou outras a a
 
 3. Para efeito de estudo e aplicação das actividades citadas nos números anteriores poderá o director de Serviços autorizar a formação de turmas-piloto.
 
-###### Art. 285.º - 1. Os estagiários podem inscrever-se em uma ou duas das especializações a que se refere o artigo anterior, devendo entre as matérias nelas tratadas escolher um assunto a desenvolver como dissertação para Exame de Estado.
+Art. 285.º - 1. Os estagiários podem inscrever-se em uma ou duas das especializações a que se refere o artigo anterior, devendo entre as matérias nelas tratadas escolher um assunto a desenvolver como dissertação para Exame de Estado.
 
 2. Para efeito do número anterior os estagiários entregarão aos respectivos metodólogos um esquema sucinto do trabalho que pretendem empreender.
 
@@ -2020,7 +2147,7 @@ e) Documentação, princípios de biblioteconomia e de museologia, ou outras a a
 
 4. As entidades que acompanharem a elaboração do trabalho devem fazer parte do júri do Exame de Estado; em caso de manifesta impossibilidade, entregarão um relatório sobre o trabalho, apreciando os seus méritos e, designadamente, a sua originalidade e a capacidade de trabalho e honestidade intelectual que revele.
 
-###### Art. 286.º - 1. O estágio compreende fundamentalmente as seguintes actividades:
+Art. 286.º - 1. O estágio compreende fundamentalmente as seguintes actividades:
 
 a) Assistência a sessões do trabalho sobre preparação e planeamento de lições;
 
@@ -2046,19 +2173,19 @@ l) Estudo prático de administração escolar.
 
 2. O estágio dos candidatos a professores de Trabalhos Manuais compreenderá ainda práticas tendentes ao seu aperfeiçoamento tecnológico.
 
-###### Art. 287.º - 1. A prática pedagógica de cada estagiário é realizada sob orientação directa do metodólogo da disciplina, ou, tratando-se de um grupo, sob orientação comum dos metodólogos respectivos, que acordarão entre si a distribuição das suas funções.
+Art. 287.º - 1. A prática pedagógica de cada estagiário é realizada sob orientação directa do metodólogo da disciplina, ou, tratando-se de um grupo, sob orientação comum dos metodólogos respectivos, que acordarão entre si a distribuição das suas funções.
 
 2. Os metodólogos de cada grupo reúnem-se periòdicamente com os respectivos estagiários para apreciação das actividades do estágio e prática de debate de problemas pedagógicos.
 
-###### Art. 288.º Os metodólogos em serviço em cada localidade reúnem-se mensalmente em conselho, sob a presidência do director da escola, para o estudo de problemas comuns referentes aos estágios.
+Art. 288.º Os metodólogos em serviço em cada localidade reúnem-se mensalmente em conselho, sob a presidência do director da escola, para o estudo de problemas comuns referentes aos estágios.
 
-###### Art. 289.º Para apreciação das qualidades docentes dos estagiários dos diferentes grupos, os metodólogos de cada disciplina devem assistir, no decurso do último período lectivo, a aulas dos estagiários de todas as outras disciplinas.
+Art. 289.º Para apreciação das qualidades docentes dos estagiários dos diferentes grupos, os metodólogos de cada disciplina devem assistir, no decurso do último período lectivo, a aulas dos estagiários de todas as outras disciplinas.
 
-###### Art. 290.º - 1. O conselho dos metodólogos de cada localidade reúne-se, na 2.ª quinzena de Junho, sob a presidência do director de Serviços, ou delegado seu, a fim de proceder à classificação dos estagiários.
+Art. 290.º - 1. O conselho dos metodólogos de cada localidade reúne-se, na 2.ª quinzena de Junho, sob a presidência do director de Serviços, ou delegado seu, a fim de proceder à classificação dos estagiários.
 
 2. Para efeito da classificação de serviço do 1.º ano de estágio, o conselho de metodólogos reunir-se-á depois de terminados os exames de fim de ciclo.
 
-###### Art. 291.º - 1. Nas sessões a que se refere o artigo anterior, os metodólogos apresentarão, em relação a cada um dos estagiários sob a sua orientação, um relatório em que sejam referidos e apreciados:
+Art. 291.º - 1. Nas sessões a que se refere o artigo anterior, os metodólogos apresentarão, em relação a cada um dos estagiários sob a sua orientação, um relatório em que sejam referidos e apreciados:
 
 a) A cultura geral, a competência científica e a capacidade pedagógica reveladas na prática do ensino e mais actividades;
 
@@ -2076,9 +2203,9 @@ g) O curriculum vitae do estagiário.
 
 2. O relatório terminará pela proposta de qualificação segundo a escala: não apto, apto e muito apto.
 
-###### Art. 292.º O conselho de metodólogos, em face dos relatórios a que se refere o artigo anterior e dos mais elementos do conhecimento pessoal de cada um dos seus membros, votará a proposta a que se refere o n.º 2 do mesmo artigo. Em seguida, atribuirá a cada um dos candidatos considerados aptos ou muito aptos, por votação, a classificação do estágio, segundo a escala de 10 a 20.
+Art. 292.º O conselho de metodólogos, em face dos relatórios a que se refere o artigo anterior e dos mais elementos do conhecimento pessoal de cada um dos seus membros, votará a proposta a que se refere o n.º 2 do mesmo artigo. Em seguida, atribuirá a cada um dos candidatos considerados aptos ou muito aptos, por votação, a classificação do estágio, segundo a escala de 10 a 20.
 
-###### Art. 293.º - 1. Consideram-se aprovados no 1.º ano de estágio - os estagiários a quem for atribuída classificação igual ou superior a 10 valores.
+Art. 293.º - 1. Consideram-se aprovados no 1.º ano de estágio - os estagiários a quem for atribuída classificação igual ou superior a 10 valores.
 
 2. Os candidatos que não tenham sido considerados aptos em qualquer dos anos de estágio poderão repeti-lo uma única vez.
 
@@ -2086,27 +2213,27 @@ g) O curriculum vitae do estagiário.
 
 4. Será igualmente facultada a repetição do estágio, por uma vez, aos candidatos considerados aptos que ainda não tenham feito Exame de Estado.
 
-###### Art. 294.º Serão admitidos a Exame de Estado os candidatos que no estágio tenham obtido a qualificação de apto ou muito apto.
+Art. 294.º Serão admitidos a Exame de Estado os candidatos que no estágio tenham obtido a qualificação de apto ou muito apto.
 
-###### Art. 295.º - 1. A admissão ao Exame de Estado é requerida pelos candidatos à Direcção de Serviços do Ciclo Preparatório de 1 a 6 de Julho do ano em que tiverem terminado o estágio ou em qualquer dos dois anos subsequentes.
+Art. 295.º - 1. A admissão ao Exame de Estado é requerida pelos candidatos à Direcção de Serviços do Ciclo Preparatório de 1 a 6 de Julho do ano em que tiverem terminado o estágio ou em qualquer dos dois anos subsequentes.
 
 2. Em cada requerimento será aposta e inutilizada com a assinatura uma estampilha fiscal de 100$00.
 
-###### Art. 296.º Os Exames de Estado realizam-se na 2.ª quinzena de Julho, nas escolas a designar para o efeito.
+Art. 296.º Os Exames de Estado realizam-se na 2.ª quinzena de Julho, nas escolas a designar para o efeito.
 
-###### Art. 297.º - 1. O júri dos Exames de Estado é único para cada grupo, sendo constituído por todos os metodólogos das respectivas disciplinas, sob a presidência de um inspector. Serão igualmente únicos, e constituídos de maneira análoga, os júris de Exame de Estado para o magistério das disciplinas de Desenho, Trabalhos Manuais, Educação Musical e Educação Física.
+Art. 297.º - 1. O júri dos Exames de Estado é único para cada grupo, sendo constituído por todos os metodólogos das respectivas disciplinas, sob a presidência de um inspector. Serão igualmente únicos, e constituídos de maneira análoga, os júris de Exame de Estado para o magistério das disciplinas de Desenho, Trabalhos Manuais, Educação Musical e Educação Física.
 
 2. Fará parte do júri e discutirá a dissertação a entidade a que se refere o n.º 4 do artigo 285.º
 
-###### Art. 298.º - 1. O Exame de Estado consta da discussão e defesa durante cerca de meia hora de um trabalho de investigação ou de um estudo original sobre qualquer assunto pedagógico relacionado com os problemas do ensino do ciclo preparatório, elaborado nas condições do artigo 285.º
+Art. 298.º - 1. O Exame de Estado consta da discussão e defesa durante cerca de meia hora de um trabalho de investigação ou de um estudo original sobre qualquer assunto pedagógico relacionado com os problemas do ensino do ciclo preparatório, elaborado nas condições do artigo 285.º
 
 2. Com o requerimento em que o candidato solicita a admissão ao Exame de Estado devem ser apresentados seis exemplares da dissertação dactilografada ou impressa.
 
-###### Art. 299.º - 1. Terminadas as provas de Exame de Estado de todos os candidatos de cada grupo, ou disciplina, o júri respectivo reunir-se-á para a sua classificação, tomando em conta, relativamente a cada candidato, o merecimento da dissertação apresentada e a capacidade e cultura mostradas na sua discussão e defesa.
+Art. 299.º - 1. Terminadas as provas de Exame de Estado de todos os candidatos de cada grupo, ou disciplina, o júri respectivo reunir-se-á para a sua classificação, tomando em conta, relativamente a cada candidato, o merecimento da dissertação apresentada e a capacidade e cultura mostradas na sua discussão e defesa.
 
 2. A classificação das provas de Exame de Estado que entra no cálculo da classificação do diploma profissional será expressa na escala de 10 a 20 valores para os candidatos aprovados.
 
-###### Art. 300.º - 1. Findos os Exames de Estado, cada júri procederá ao cálculo da classificação do diploma profissional dos candidatos aprovados, a qual será a média, aproximada às décimas, das classificações seguintes:
+Art. 300.º - 1. Findos os Exames de Estado, cada júri procederá ao cálculo da classificação do diploma profissional dos candidatos aprovados, a qual será a média, aproximada às décimas, das classificações seguintes:
 
 a) Classificação referente à habilitação académica;
 
@@ -2122,13 +2249,13 @@ d) Classificação do Exame de Estado.
 
 4. É aplicável ao serviço do Exame de Estado o disposto no n.º 3 do artigo 268.º
 
-###### Art. 301.º Os candidatos reprovados no Exame de Estado poderão repeti-lo apenas uma vez.
+Art. 301.º Os candidatos reprovados no Exame de Estado poderão repeti-lo apenas uma vez.
 
-###### Art. 302.º Os professores do 2.º e 3.º grupos deverão beneficiar, num dos períodos de férias de Verão após o Exame de Estado, de um subsídio para a frequência de um curso de férias em França ou em Inglaterra, conforme o grupo, a fixar em despacho conjunto pelos Ministros das Finanças e da Educação Nacional.
+Art. 302.º Os professores do 2.º e 3.º grupos deverão beneficiar, num dos períodos de férias de Verão após o Exame de Estado, de um subsídio para a frequência de um curso de férias em França ou em Inglaterra, conforme o grupo, a fixar em despacho conjunto pelos Ministros das Finanças e da Educação Nacional.
 
 #### SECÇÃO IV — Atribuições e deveres gerais
 
-###### Art. 303.º São deveres gerais do professor:
+Art. 303.º São deveres gerais do professor:
 
 a) Ser assíduo e pontual, prestando às actividades escolares e circum-escolares o tempo que legalmente lhes é destinado;
 
@@ -2164,11 +2291,11 @@ q) Apresentar os relatórios ou processos que lhe forem solicitados sobre assunt
 
 r) Abster-se de empregar palavras injuriosas ou vexatórias para os alunos ou suas famílias.
 
-###### Art. 304.º - 1. O serviço prestado pelos professores efectivos é classificado de Muito bom, Bom, Suficiente ou Deficiente.
+Art. 304.º - 1. O serviço prestado pelos professores efectivos é classificado de Muito bom, Bom, Suficiente ou Deficiente.
 
 2. A atribuição da classificação de Deficiente em dois anos consecutivos ou três interpolados constitui fundamento para processo disciplinar.
 
-###### Art. 305.º - 1. Em matéria disciplinar, os professores estão sujeitos às disposições do Estatuto Disciplinar dos Funcionários Civis do Estado, sendo da competência dos directores, com recurso para o Ministro, a aplicação das penas dos n.os 1 e 2 do mesmo Estatuto.
+Art. 305.º - 1. Em matéria disciplinar, os professores estão sujeitos às disposições do Estatuto Disciplinar dos Funcionários Civis do Estado, sendo da competência dos directores, com recurso para o Ministro, a aplicação das penas dos n.os 1 e 2 do mesmo Estatuto.
 
 2. A classificação de Suficiente obsta a que o tempo a que respeita seja contado para efeito de melhoria de classificação profissional e para efeito de concessão de diuturnidades.
 
@@ -2176,17 +2303,17 @@ r) Abster-se de empregar palavras injuriosas ou vexatórias para os alunos ou su
 
 #### SECÇÃO V — Vencimentos, diuturnidades, faltas e licenças
 
-###### Art. 306.º - 1. Os vencimentos do pessoal docente são, para as diversas categorias, os que se encontram fixados na tabela n.º 1 anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195).
+Art. 306.º - 1. Os vencimentos do pessoal docente são, para as diversas categorias, os que se encontram fixados na tabela n.º 1 anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195).
 
 2. A remuneração dos professores provisórios, incluindo os professores de Moral e Religião aos quais não seja possível atribuir todo o serviço obrigatório, será calculada conforme a nota citada na referida tabela.
 
-###### Art. 307.º - 1. O pessoal docente dos quadros a quem não for possível distribuir o número total de horas semanais a que é obrigado, nos termos do artigo 228.º, n.º 1, completá-lo-á pela forma que lhe for determinada pelo director da escola.
+Art. 307.º - 1. O pessoal docente dos quadros a quem não for possível distribuir o número total de horas semanais a que é obrigado, nos termos do artigo 228.º, n.º 1, completá-lo-á pela forma que lhe for determinada pelo director da escola.
 
 O pessoal docente referido no número anterior tem direito à totalidade do vencimento, ressalvados os descontos por faltas dadas, embora não preste em algum mês todo o serviço obrigatório.
 
-###### Art. 308.º Nenhum professor pode ser obrigado, no mesmo dia, a fazer serviço docente de manhã, à tarde è à noite.
+Art. 308.º Nenhum professor pode ser obrigado, no mesmo dia, a fazer serviço docente de manhã, à tarde è à noite.
 
-###### Art. 309.º - 1. O tempo de serviço prestado pelos professores de todas as categorias para efeito de valorização da classificação profissional, aumento de vencimentos, concessão de diuturnidades ou preenchimento de condição legal que dependa da duração do mesmo, é contado conforme preceitua o artigo 231.º, n.os 1 e 2.
+Art. 309.º - 1. O tempo de serviço prestado pelos professores de todas as categorias para efeito de valorização da classificação profissional, aumento de vencimentos, concessão de diuturnidades ou preenchimento de condição legal que dependa da duração do mesmo, é contado conforme preceitua o artigo 231.º, n.os 1 e 2.
 
 2. Não são contados aos professores provisórios, para esses efeitos, os dias de faltas correspondentes a:
 
@@ -2196,7 +2323,7 @@ b) Faltas justificadas por participação, por licença ou por doença comprovad
 
 3. Para as faltas dadas a tempo de aula, a redução a dias faz-se nos termos indicados no artigo 322.º
 
-###### Art. 310.º Não será contado, para qualquer efeito, o tempo durante o qual os professores se encontrem em alguma das seguintes situações:
+Art. 310.º Não será contado, para qualquer efeito, o tempo durante o qual os professores se encontrem em alguma das seguintes situações:
 
 a) De licença sem vencimento;
 
@@ -2206,11 +2333,11 @@ c) De assistido pela entidade a cujo cargo está a assistência aos funcionário
 
 d) De comissão de serviço não docente fora da dependência do Ministério da Educação Nacional, excepto quando se trate de cargo para o qual a lei determine a contagem do tempo de serviço para todos os efeitos.
 
-###### Art. 311.º - 1. Aos professores efectivos serão concedidos, a requerimento seu, redução de serviço e aumento de vencimento, nos termos dos artigos 228.º e 230.º, respectivamente.
+Art. 311.º - 1. Aos professores efectivos serão concedidos, a requerimento seu, redução de serviço e aumento de vencimento, nos termos dos artigos 228.º e 230.º, respectivamente.
 
 2. A concessão das regalias referidas no n.º 1 não pode produzir efeito desde data anterior àquela em que o requerimento do interessado é entregue na escola onde estiver prestando serviço.
 
-###### Art. 312.º - 1. As faltas dadas pelos funcionários com serviço docente até dois dias completos em cada mês não originam qualquer desconto nos vencimentos, desde que sejam, nos termos da lei geral, na véspera ou no próprio dia, participadas por escrito e justificadas perante o superior hierárquico e por este seja aceite a justificação.
+Art. 312.º - 1. As faltas dadas pelos funcionários com serviço docente até dois dias completos em cada mês não originam qualquer desconto nos vencimentos, desde que sejam, nos termos da lei geral, na véspera ou no próprio dia, participadas por escrito e justificadas perante o superior hierárquico e por este seja aceite a justificação.
 
 2. Na contagem dos dias de falta observar-se-á o seguinte:
 
@@ -2218,59 +2345,59 @@ a) Se o serviço docente se executa em dias seguidos, a falta a um deles conta-s
 
 b) Se o serviço docente se executa em dias não contíguos, a falta a um deles, seguida de outra falta no dia imediato de serviço, implica a marcação de falta nos dias intermediários, úteis ou não.
 
-###### Art. 313.º Os funcionários com serviço docente podem faltar até três dias seguidos por motivo de falecimento do cônjuge, de parente ou afim na linha recta, ou até o 3.º grau na linha colateral, fazendo a justificação das faltas quando se apresentarem ao serviço. Estas faltas não são contadas para qualquer efeito.
+Art. 313.º Os funcionários com serviço docente podem faltar até três dias seguidos por motivo de falecimento do cônjuge, de parente ou afim na linha recta, ou até o 3.º grau na linha colateral, fazendo a justificação das faltas quando se apresentarem ao serviço. Estas faltas não são contadas para qualquer efeito.
 
-###### Art. 314.º As professoras casadas podem também faltar, até 30 dias seguidos, sem qualquer desconto no tempo ou na remuneração, nos períodos de maternidade, desde que a ausência do serviço tenha sido participada, logo no seu início, ao director da escola.
+Art. 314.º As professoras casadas podem também faltar, até 30 dias seguidos, sem qualquer desconto no tempo ou na remuneração, nos períodos de maternidade, desde que a ausência do serviço tenha sido participada, logo no seu início, ao director da escola.
 
-###### Art. 315.º As faltas a aulas ou outros trabalhos escolares e circum-escolares dadas por motivo de serviço público a que os professores não possam legalmente eximir-se não ocasionam desconto no tempo de serviço prestado, nem na remuneração.
+Art. 315.º As faltas a aulas ou outros trabalhos escolares e circum-escolares dadas por motivo de serviço público a que os professores não possam legalmente eximir-se não ocasionam desconto no tempo de serviço prestado, nem na remuneração.
 
-###### Art. 316.º - 1. Se as faltas dos funcionários docentes forem dadas por motivo de doença e excederem dois dias, a justificação deve ser feita por atestado médico, sob compromisso de honra, sendo a assinatura do médico devidamente reconhecida. A participação de doença deverá ser feita ao director da escola até ao terceiro dia de falta e o atestado será entregue na escola no prazo improrrogável de três dias a contar desse terceiro dia.
+Art. 316.º - 1. Se as faltas dos funcionários docentes forem dadas por motivo de doença e excederem dois dias, a justificação deve ser feita por atestado médico, sob compromisso de honra, sendo a assinatura do médico devidamente reconhecida. A participação de doença deverá ser feita ao director da escola até ao terceiro dia de falta e o atestado será entregue na escola no prazo improrrogável de três dias a contar desse terceiro dia.
 
 2. O primeiro atestado médico justifica as faltas por doença até 30 dias, devendo, porém, quando a doença se prolongar para além do mês em curso, ser apresentado novo atestado até o terceiro dia do mês seguinte.
 
 3. Um atestado não pode referir-se a faltas que não sejam consecutivas.
 
-###### Art. 317.º - 1. O estado de doença do funcionário, comunicado por participação ou comprovado por atestado médico, será sujeito a verificação médica, em qualquer momento, nos termos estabelecidos na lei para os restantes funcionários civis.
+Art. 317.º - 1. O estado de doença do funcionário, comunicado por participação ou comprovado por atestado médico, será sujeito a verificação médica, em qualquer momento, nos termos estabelecidos na lei para os restantes funcionários civis.
 
 2. A verificação a que se refere o número anterior é obrigatória sempre que a doença exceda oito dias.
 
-###### Art. 318.º Não podem ser justificadas por atestado médico faltas dadas além do 60.º dia de doença. Quando a doença se prolongar além desse limite, deverão os funcionários requerer licença, nos termos da lei.
+Art. 318.º Não podem ser justificadas por atestado médico faltas dadas além do 60.º dia de doença. Quando a doença se prolongar além desse limite, deverão os funcionários requerer licença, nos termos da lei.
 
-###### Art. 319.º O pessoal docente de serviço eventual não tem direito a licença por doença e poderá, no caso de as necessidades do serviço o exigirem, ser dispensado antes de completado o 60.º dia de doença.
+Art. 319.º O pessoal docente de serviço eventual não tem direito a licença por doença e poderá, no caso de as necessidades do serviço o exigirem, ser dispensado antes de completado o 60.º dia de doença.
 
-###### Art. 320.º - 1. As faltas devidamente participadas ou justificadas por atestado médico, quando excedam 30 dias em cada ano civil, determinam a perda do vencimento de exercício correspondente.
+Art. 320.º - 1. As faltas devidamente participadas ou justificadas por atestado médico, quando excedam 30 dias em cada ano civil, determinam a perda do vencimento de exercício correspondente.
 
 2. Para efeitos deste artigo não se contam as faltas dadas nos termos dos artigos 313.º e 314.º, nem as que resultem da concessão de licença graciosa.
 
-###### Art. 321.º - 1. Quando as faltas dadas pelos funcionários docentes não se refiram a dias completos, mas sim a tempos lectivos, considera-se falta a um dia a falta de um número de horas igual ao quociente inteiro da divisão por 6 do número de horas de serviço ao mesmo distribuído.
+Art. 321.º - 1. Quando as faltas dadas pelos funcionários docentes não se refiram a dias completos, mas sim a tempos lectivos, considera-se falta a um dia a falta de um número de horas igual ao quociente inteiro da divisão por 6 do número de horas de serviço ao mesmo distribuído.
 
 2. As faltas dadas a reuniões do conselho escolar, ou das suas secções, são contadas como faltas a tempos de serviço, para todos os efeitos legais.
 
-###### Art. 322.º - 1. As faltas não justificadas determinam sempre a perda total do vencimento correspondente.
+Art. 322.º - 1. As faltas não justificadas determinam sempre a perda total do vencimento correspondente.
 
 2. Quando a falta não justificada se refira a horas de serviço não redutíveis a dias completos, o desconto por cada hora é o quociente do vencimento mensal pelo quádruplo do número de horas de serviço semanal distribuído ao funcionário.
 
-###### Art. 323.º - 1. As faltas não justificadas dadas durante o ano escolar que excedam o quádruplo do número total de horas de serviço docente semanal distribuído ao professor constituem fundamento para processo disciplinar.
+Art. 323.º - 1. As faltas não justificadas dadas durante o ano escolar que excedam o quádruplo do número total de horas de serviço docente semanal distribuído ao professor constituem fundamento para processo disciplinar.
 
 2. Se as faltas forem seguidas, considera-se abandonado o lugar e será levantado o correspondente auto, sem audiência do arguido, que será demitido.
 
 3. Sendo as faltas interpoladas, o processo consistirá na verificação do número de faltas e da sua não justificação; será ouvido o arguido, que, se for confirmada a acusação, passará à situação de licença ilimitada, no caso de a ela ter direito, ou será demitido, na hipótese contrária.
 
-###### Art. 324.º - 1. O regime de licenças do pessoal docente é estabelecido pela lei geral, mas a licença graciosa só poderá ser gozada nos períodos de férias.
+Art. 324.º - 1. O regime de licenças do pessoal docente é estabelecido pela lei geral, mas a licença graciosa só poderá ser gozada nos períodos de férias.
 
 2. Poderá o director de Serviços, em caso de reconhecida força maior, autorizar que os funcionários docentes gozem até oito dias de licença graciosa fora dos períodos a que se refere o número anterior, mas nunca nos dias que antecedem ou se sigam imediatamente a qualquer período de férias nem na época de exames.
 
-###### Art. 325.º - 1. A licença ilimitada só pode ser concedida aos professores efectivos que tenham, pelo menos, quatro anos de serviço na sua última categoria e que, como funcionários, estejam quites com a Fazenda Nacional.
+Art. 325.º - 1. A licença ilimitada só pode ser concedida aos professores efectivos que tenham, pelo menos, quatro anos de serviço na sua última categoria e que, como funcionários, estejam quites com a Fazenda Nacional.
 
 2. A prova de quitação com a Fazenda Nacional faz-se por informação do director da escola, lançada no requerimento do interessado.
 
 3. A passagem à situação de licença ilimitada origina a vacatura dos lugares nos respectivos quadros.
 
-###### Art. 326.º As licenças ilimitadas começam a produzir efeitos depois da sua publicação no Diário do Governo, e só com declaração expressa podem referir-se a período de tempo já decorrido.
+Art. 326.º As licenças ilimitadas começam a produzir efeitos depois da sua publicação no Diário do Governo, e só com declaração expressa podem referir-se a período de tempo já decorrido.
 
-###### Art. 327.º As licenças que não sejam concedidas por motivo de doença são sempre revogáveis quando as necessidades do serviço o exijam.
+Art. 327.º As licenças que não sejam concedidas por motivo de doença são sempre revogáveis quando as necessidades do serviço o exijam.
 
-###### Art. 328.º - 1. Ao pessoal pertencente aos quadros permanentes não é permitido durante os períodos de férias ausentar-se por mais de três dias da sede da sua escola ou daquela onde presta serviço sem prévia participação, por escrito, ao director da escola, indicando o lugar para onde se ausenta.
+Art. 328.º - 1. Ao pessoal pertencente aos quadros permanentes não é permitido durante os períodos de férias ausentar-se por mais de três dias da sede da sua escola ou daquela onde presta serviço sem prévia participação, por escrito, ao director da escola, indicando o lugar para onde se ausenta.
 
 2. Para se ausentarem para o estrangeiro carecem os funcionários a que se refere este artigo de autorização do Ministro.
 
@@ -2278,15 +2405,15 @@ b) Se o serviço docente se executa em dias não contíguos, a falta a um deles,
 
 #### SECÇÃO VI — Disposições diversas
 
-###### Art. 329.º - 1. O provimento, por portaria, do pessoal docente eventual considera-se sempre feito por conveniência urgente de serviço público, concedendo o direito à remuneração legal desde o dia da entrada em exercício, conforme o disposto no [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.
+Art. 329.º - 1. O provimento, por portaria, do pessoal docente eventual considera-se sempre feito por conveniência urgente de serviço público, concedendo o direito à remuneração legal desde o dia da entrada em exercício, conforme o disposto no [Decreto-Lei n.º 41645](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41645-1958-353769), de 24 de Maio de 1958.
 
 2. Os professores de serviço eventual tomam posse perante o director da escola, nos termos dos §§ 1.º e 2.º do artigo 1.º do [Decreto n.º 21378](https://diariodarepublica.pt/dr/detalhe/decreto/21378-1932-561028), de 20 de Junho de 1932.
 
 3. Se as conveniências do ensino o exigirem, podem os professores de serviço eventual ser desligados do serviço, por determinação do Ministro, antes do termo do ano escolar.
 
-###### Art. 330.º O pessoal docente a que se refere o artigo anterior, quando tenha prestado serviço no ano antecedente àquele para que seja nomeado, é dispensado da apresentação dos documentos mencionados na alínea d) do artigo 4.º do Decreto-Lei n.º 26341, de 7 de Fevereiro de 1936.
+Art. 330.º O pessoal docente a que se refere o artigo anterior, quando tenha prestado serviço no ano antecedente àquele para que seja nomeado, é dispensado da apresentação dos documentos mencionados na alínea d) do artigo 4.º do Decreto-Lei n.º 26341, de 7 de Fevereiro de 1936.
 
-###### Art. 331.º - 1. Podem ser colocadas em comissão nas escolas de frequência feminina ou mista, com os vencimentos e regalias da sua categoria, professoras efectivas de outras escolas preparatórias, casadas, para prestarem serviço na localidade onde esteja colocado o cônjuge, quando as necessidades de serviço determinarem a chamada de professor provisório do respectivo grupo e o cônjuge seja, por ordem de preferência:
+Art. 331.º - 1. Podem ser colocadas em comissão nas escolas de frequência feminina ou mista, com os vencimentos e regalias da sua categoria, professoras efectivas de outras escolas preparatórias, casadas, para prestarem serviço na localidade onde esteja colocado o cônjuge, quando as necessidades de serviço determinarem a chamada de professor provisório do respectivo grupo e o cônjuge seja, por ordem de preferência:
 
 1.º Professor efectivo do ciclo preparatório;
 
@@ -2296,7 +2423,7 @@ b) Se o serviço docente se executa em dias não contíguos, a falta a um deles,
 
 2. As referidas professoras serão abonadas pelas escolas a cujos quadros pertençam.
 
-###### Art. 332.º - 1. Os funcionários docentes que, por virtude, de nomeação ou colocação, tenham de deslocar-se do continente para as ilhas adjacentes terão direito na ida e no regresso a passagem de 1.ª classe, para si, o seu cônjuge e filhos menores de 18 anos, ao transporte da bagagem e ainda a ajudas de custo durante 30 dias, a partir da data do embarque.
+Art. 332.º - 1. Os funcionários docentes que, por virtude, de nomeação ou colocação, tenham de deslocar-se do continente para as ilhas adjacentes terão direito na ida e no regresso a passagem de 1.ª classe, para si, o seu cônjuge e filhos menores de 18 anos, ao transporte da bagagem e ainda a ajudas de custo durante 30 dias, a partir da data do embarque.
 
 2. Estas despesas serão custeadas pela entidade que tiver a seu cargo a manutenção da escola em que for feita a colocação.
 
@@ -2306,7 +2433,7 @@ b) Se o serviço docente se executa em dias não contíguos, a falta a um deles,
 
 5. Aos professores provisórios habilitados com Exame de Estado que se mantenham nas escolas das ilhas adjacentes em anos consecutivos serão pagos os vencimentos durante os doze meses do ano.
 
-###### Art. 333.º - 1. Os professores efectivos das escolas preparatórias públicas podem, com prévia autorização do Ministro, ser colocados em comissão de serviço público noutros Ministérios ou aí prestar serviço eventual, não tendo, porém, direito, enquanto se conservarem por esse modo impedidos, ao abono de qualquer remuneração pelo Ministério da Educação Nacional nem a que o serviço prestado seja contado como docente para qualquer efeito, salvo, pelo que respeita à contagem de tempo, se se tratar de alguma das situações previstas no número seguinte.
+Art. 333.º - 1. Os professores efectivos das escolas preparatórias públicas podem, com prévia autorização do Ministro, ser colocados em comissão de serviço público noutros Ministérios ou aí prestar serviço eventual, não tendo, porém, direito, enquanto se conservarem por esse modo impedidos, ao abono de qualquer remuneração pelo Ministério da Educação Nacional nem a que o serviço prestado seja contado como docente para qualquer efeito, salvo, pelo que respeita à contagem de tempo, se se tratar de alguma das situações previstas no número seguinte.
 
 2. É contado, para todos os efeitos legais, como serviço docente o que for prestado pelos funcionários referidos no número anterior em qualquer das seguintes situações:
 
@@ -2336,47 +2463,47 @@ m) Exercício noutro Ministério de funções docentes em escolas do ciclo prepa
 
 n) Serviço militar obrigatório.
 
-###### Art. 334.º - 1. A nomeação em comissão de serviço para o exercício, noutro Ministério, de funções não previstas no n.º 2 do artigo anterior, por prazo superior a um ano, determina a passagem à situação de destacado e a vacatura do lugar ocupado.
+Art. 334.º - 1. A nomeação em comissão de serviço para o exercício, noutro Ministério, de funções não previstas no n.º 2 do artigo anterior, por prazo superior a um ano, determina a passagem à situação de destacado e a vacatura do lugar ocupado.
 
 2. Finda a comissão, será o funcionário colocado na escola a cujo quadro pertencia, se neste houver vaga, ou, não havendo, no lugar vago da mesma categoria e de outra escola que preferir, até que possa regressar ao quadro de que tenha sido destacado.
 
-###### Art. 335.º - 1. Os professores dos quadros que, nessa qualidade e em cumprimento de determinação superior, devam prestar serviço fora da localidade da escola a cujo quadro pertençam, serão abonados das despesas de transporte em 1.ª classe e das ajudas de custo durante o tempo em que, motivo de tal serviço, estiverem deslocados.
+Art. 335.º - 1. Os professores dos quadros que, nessa qualidade e em cumprimento de determinação superior, devam prestar serviço fora da localidade da escola a cujo quadro pertençam, serão abonados das despesas de transporte em 1.ª classe e das ajudas de custo durante o tempo em que, motivo de tal serviço, estiverem deslocados.
 
 2. Aos professores cuja deslocação resultar da sua nomeação como professores metodólogos serão abonadas ajudas de custo sòmente durante 30 dias.
 
-###### Art. 336.º Não são autorizadas permutas entre funcionários docentes do ciclo preparatório do ensino secundário, excepto quando pertençam aos quadros de escolas da mesma localidade e ocupem lugares do mesmo grupo, obtenham informação favorável dos respectivos conselhos escolares e não tenham obtido classificação de deficiente num dos dois anos escolares imediatamente anteriores.
+Art. 336.º Não são autorizadas permutas entre funcionários docentes do ciclo preparatório do ensino secundário, excepto quando pertençam aos quadros de escolas da mesma localidade e ocupem lugares do mesmo grupo, obtenham informação favorável dos respectivos conselhos escolares e não tenham obtido classificação de deficiente num dos dois anos escolares imediatamente anteriores.
 
 ### CAPÍTULO VIII — Direcção de Serviços do Ciclo Preparatório
 
 #### SECÇÃO I — Direcção de Serviços
 
-###### Art. 337.º - 1. Os serviços relativos ao ciclo preparatório funcionarão na dependência da Direcção de Serviços do Ciclo Preparatório.
+Art. 337.º - 1. Os serviços relativos ao ciclo preparatório funcionarão na dependência da Direcção de Serviços do Ciclo Preparatório.
 
 2. Enquanto se não proceder à reorganização dos serviços centrais do Ministério da Educação Nacional, a Direcção de Serviços do Ciclo Preparatório ficará directamente subordinada ao Ministro.
 
 3. O director de Serviços do Ciclo Preparatório do Ensino Secundário, como dirigente na dependência imediata do Ministro, tem as mesmas competências conferidas, directamente ou por delegação, nos directores-gerais.
 
-###### Art. 338.º - 1. A Direcção de Serviços do Ciclo Preparatório compreende uma repartição e uma inspecção, a primeira com funções de superintendência administrativa e a segunda de orientação pedagógica e de fiscalização de ensino.
+Art. 338.º - 1. A Direcção de Serviços do Ciclo Preparatório compreende uma repartição e uma inspecção, a primeira com funções de superintendência administrativa e a segunda de orientação pedagógica e de fiscalização de ensino.
 
 2. Integrados na Inspecção do Ciclo Preparatório funcionarão um conselho pedagógico, como órgão de orientação, coordenação e consulta, e um gabinete de orientação escolar, ao qual caberá a organização e coordenação dos serviços de orientação das escolas.
 
-###### Art. 339.º - 1. A Direcção de Serviços do Ciclo Preparatório superintende em todos os serviços administrativos e pedagógicos relativos ao ensino do ciclo preparatório ministrado nas escolas públicas, em harmonia com as disposições legais respectivas.
+Art. 339.º - 1. A Direcção de Serviços do Ciclo Preparatório superintende em todos os serviços administrativos e pedagógicos relativos ao ensino do ciclo preparatório ministrado nas escolas públicas, em harmonia com as disposições legais respectivas.
 
 2. À Direcção de Serviços do Ciclo Preparatório cabe assegurar as relações entre este ensino e os diversos organismos do Ministério da Educação Nacional e de outros departamentos do Estado.
 
-###### Art. 340.º A Repartição da Direcção de Serviços do Ciclo Preparatório, além dos serviços normais a seu cargo, ocupar-se-á do expediente relativo ao funcionamento da Inspecção.
+Art. 340.º A Repartição da Direcção de Serviços do Ciclo Preparatório, além dos serviços normais a seu cargo, ocupar-se-á do expediente relativo ao funcionamento da Inspecção.
 
 #### SECÇÃO II — Inspecção do ensino
 
-###### Art. 341.º A orientação pedagógica e a fiscalização do ensino do ciclo preparatório ministrado nas escolas públicas são asseguradas pela Inspecção do Ciclo Preparatório.
+Art. 341.º A orientação pedagógica e a fiscalização do ensino do ciclo preparatório ministrado nas escolas públicas são asseguradas pela Inspecção do Ciclo Preparatório.
 
-###### Art. 342.º - 1. O conselho pedagógico assiste ao director de Serviços do Ciclo Preparatório, no desempenho da sua competência em assuntos de natureza pedagógica, e será constituído pelo inspector-chefe e cinco inspectores, a designar pelo director de Serviços.
+Art. 342.º - 1. O conselho pedagógico assiste ao director de Serviços do Ciclo Preparatório, no desempenho da sua competência em assuntos de natureza pedagógica, e será constituído pelo inspector-chefe e cinco inspectores, a designar pelo director de Serviços.
 
 2. Poderão ser convocados para assistir às reuniões do conselho pedagógico, a fim de darem parecer nos assuntos sobre que forem consultados, professores do ciclo preparatório ou dos dois ramos subsequentes do ensino secundário, inspectores dos serviços de saúde escolar e da Mocidade Portuguesa e ainda quaisquer individualidades de reconhecida competência nos problemas do ensino do ciclo.
 
 3. Deverá assistir sempre às reuniões do conselho pedagógico o chefe da Repartição da Direcção de Serviços.
 
-###### Art. 343.º Compete à Inspecção do Ciclo Preparatório:
+Art. 343.º Compete à Inspecção do Ciclo Preparatório:
 
 a) Promover a adopção das medidas necessárias à realização das finalidades e dos métodos próprios do ensino do ciclo;
 
@@ -2404,33 +2531,33 @@ m) Dar parecer sobre os livros e outros instrumentos didácticos apresentados pa
 
 n) Classificar o serviço dos professores dos quadros e homologar as classificações dos professores provisórios propostas pelo conselho escolar, de acordo com o disposto na alínea g) do artigo 155.º
 
-###### Art. 344.º A Inspecção do Ciclo Preparatório compreenderá um corpo de inspectores cuja acção se exercerá segundo normas definidas pelo director de Serviços do Ciclo Preparatório.
+Art. 344.º A Inspecção do Ciclo Preparatório compreenderá um corpo de inspectores cuja acção se exercerá segundo normas definidas pelo director de Serviços do Ciclo Preparatório.
 
-###### Art. 345.º - 1. Os inspectores exercerão a orientação e a inspecção directa das escolas, particularmente no que respeita à assistência metodológica e ao aperfeiçoamento pedagógico e da administração escolar, devendo, em princípio, funcionar, rotativamente, nas diversas regiões do território nacional.
+Art. 345.º - 1. Os inspectores exercerão a orientação e a inspecção directa das escolas, particularmente no que respeita à assistência metodológica e ao aperfeiçoamento pedagógico e da administração escolar, devendo, em princípio, funcionar, rotativamente, nas diversas regiões do território nacional.
 
 2. Além das funções a que se refere o número anterior, poderão os inspectores ser designados para quaisquer outros serviços abrangidos na competência da Inspecção do Ciclo Preparatório.
 
 3. Os assuntos de carácter disciplinar relativos aos estabelecimentos públicos competem a um ou mais inspectores, designados especialmente para esse efeito.
 
-###### Art. 346.º Os inspectores deverão, quanto possível, representar todas as disciplinas.
+Art. 346.º Os inspectores deverão, quanto possível, representar todas as disciplinas.
 
-###### Art. 347.º Os inspectores são nomeados pelo Ministro, ouvido o director de Serviços do Ciclo Preparatório, de entre directores de escolas preparatórias e professores do ciclo ou de outros graus de ensino subsequente habilitados com Exame de Estado.
+Art. 347.º Os inspectores são nomeados pelo Ministro, ouvido o director de Serviços do Ciclo Preparatório, de entre directores de escolas preparatórias e professores do ciclo ou de outros graus de ensino subsequente habilitados com Exame de Estado.
 
 ### CAPÍTULO IX — Disposições gerais e transitórias
 
-###### Art. 348.º O ciclo preparatório começará a funcionar no ano escolar de 1968-1969.
+Art. 348.º O ciclo preparatório começará a funcionar no ano escolar de 1968-1969.
 
-###### Art. 349.º - 1. Os alunos que tenham frequentado sem aproveitamento o 1.º ano do ensino liceal ou do ciclo preparatório do ensino técnico profissional ingressarão, no ano escolar de 1968-1969, no 1.º ano do ciclo preparatório.
+Art. 349.º - 1. Os alunos que tenham frequentado sem aproveitamento o 1.º ano do ensino liceal ou do ciclo preparatório do ensino técnico profissional ingressarão, no ano escolar de 1968-1969, no 1.º ano do ciclo preparatório.
 
 2. Os alunos com aproveitamento na frequência do 1.º ano do ensino liceal ou do ciclo preparatório do ensino técnico profissional, que no final do ano escolar de 1968-1969 não tenham obtido aprovação no 2.º ano de qualquer desses ensinos, ingressarão, no ano escolar de 1969-1970, no 2.º ano do ciclo preparatório.
 
 3. O disposto no artigo 36.º, n.º 3, é extensivo aos alunos referidos no n.º 2 do presente artigo que provenham do ensino técnico profissional.
 
-###### Art. 350.º - 1. São criadas escolas preparatórias públicas nas localidades onde presentemente funciona em regime oficial o 1.º ciclo do ensino liceal ou o ciclo preparatório do ensino técnico profissional.
+Art. 350.º - 1. São criadas escolas preparatórias públicas nas localidades onde presentemente funciona em regime oficial o 1.º ciclo do ensino liceal ou o ciclo preparatório do ensino técnico profissional.
 
 2. O referido resultado obtém-se mediante a transformação decretada no artigo seguinte, sem prejuízo do disposto no artigo 26.º
 
-###### Art. 351.º - 1. As escolas preparatórias gozarão de autonomia administrativa, em termos análogos aos liceus.
+Art. 351.º - 1. As escolas preparatórias gozarão de autonomia administrativa, em termos análogos aos liceus.
 
 2. Quando não for possível assegurar às escolas preparatórias ou às suas secções instalações próprias, poderão elas funcionar nos mesmos edifícios onde se ministrem outros cursos do ensino secundário público, nas condições a estabelecer, caso a caso, por despacho do Ministro da Educação Nacional.
 
@@ -2442,33 +2569,33 @@ n) Classificar o serviço dos professores dos quadros e homologar as classifica�
 
 6. Quando nas instalações de determinado estabelecimento de ensino funcionar outro, em harmonia com o previsto no presente artigo, haverá unidade de direcção administrativa e disciplinar, a cargo do primeiro estabelecimento, salvo se o edifício permitir completa separação entre eles.
 
-###### Art. 352.º - 1. Sempre que as condições do edifício o permitam, deverá proceder-se à completa separação material entre as instalações destinadas ao ciclo preparatório e as reservadas para o ensino liceal ou técnico.
+Art. 352.º - 1. Sempre que as condições do edifício o permitam, deverá proceder-se à completa separação material entre as instalações destinadas ao ciclo preparatório e as reservadas para o ensino liceal ou técnico.
 
 2. O Ministro da Educação Nacional criará, por despacho, secções de escolas preparatórias quando as circunstâncias as justificarem.
 
-###### Art. 353.º No ano escolar de 1968-1969 os alunos do 1.º ano do ciclo preparatório matriculados nas escolas públicas serão distribuídos pelos estabelecimentos de cada localidade, segundo as possibilidades dos mesmos estabelecimentos.
+Art. 353.º No ano escolar de 1968-1969 os alunos do 1.º ano do ciclo preparatório matriculados nas escolas públicas serão distribuídos pelos estabelecimentos de cada localidade, segundo as possibilidades dos mesmos estabelecimentos.
 
-###### Art. 354.º - 1. Os reitores dos liceus e os directores das escolas técnicas assegurarão a direcção pedagógica, administrativa e disciplinar das escolas preparatórias do ensino secundário, enquanto estas funcionarem nos estabelecimentos a seu cargo, devendo ser assistidos, para os assuntos respeitantes ao ciclo preparatório, por um director do mesmo ciclo, especialmente nomeado.
+Art. 354.º - 1. Os reitores dos liceus e os directores das escolas técnicas assegurarão a direcção pedagógica, administrativa e disciplinar das escolas preparatórias do ensino secundário, enquanto estas funcionarem nos estabelecimentos a seu cargo, devendo ser assistidos, para os assuntos respeitantes ao ciclo preparatório, por um director do mesmo ciclo, especialmente nomeado.
 
 2. Os reitores dos liceus e os directores das escolas técnicas, assim como os vice-reitores e subdirectores de secções de liceus e de estabelecimentos de ensino técnico profissional onde funcionem escolas de ciclo preparatório, receberão as gratificações previstas na tabela n.º 3 anexa ao [Decreto-Lei n.º 48541](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48541-1968-276195).
 
 3. Ao professor nomeado para assistir aos reitores dos liceus e aos directores das escolas técnicas nos assuntos respeitantes ao ciclo preparatório caberá a gratificação atribuída ao subdirector.
 
-###### Art. 355.º Logo que o Ministro da Educação Nacional o determine, as escolas preparatórias públicas que funcionem nos termos do artigo 352.º, n.º 1, passam a ter direcção própria e autonomia pedagógica, administrativa e disciplinar.
+Art. 355.º Logo que o Ministro da Educação Nacional o determine, as escolas preparatórias públicas que funcionem nos termos do artigo 352.º, n.º 1, passam a ter direcção própria e autonomia pedagógica, administrativa e disciplinar.
 
-###### Art. 356.º - 1. Enquanto as escolas preparatórias não puderem dispor de serviços administrativos próprios, o funcionamento destes serviços será assegurado pelo dos estabelecimentos do ensino liceal ou técnico em que se encontrem integrados ou de que tiverem origem.
+Art. 356.º - 1. Enquanto as escolas preparatórias não puderem dispor de serviços administrativos próprios, o funcionamento destes serviços será assegurado pelo dos estabelecimentos do ensino liceal ou técnico em que se encontrem integrados ou de que tiverem origem.
 
 2. Às escolas preparatórias que se encontrem nas condições do n.º 1 deste artigo será adstrito o pessoal administrativo e menor necessário, nos termos legais.
 
 3. O pessoal referido no número anterior transitará para as escolas preparatórias logo que estas possam dispor de serviços administrativos próprios.
 
-###### Art. 357.º Enquanto numa escola preparatória mista o número total dos alunos matriculados num ano não exceder a lotação legalmente fixada para uma turma deste ensino, poderá ser dispensado transitòriamente o cumprimento do disposto na parte final do n.º 2 do artigo 28.º, salvo no que se refere às disciplinas de Trabalhos Manuais e de Educação Física.
+Art. 357.º Enquanto numa escola preparatória mista o número total dos alunos matriculados num ano não exceder a lotação legalmente fixada para uma turma deste ensino, poderá ser dispensado transitòriamente o cumprimento do disposto na parte final do n.º 2 do artigo 28.º, salvo no que se refere às disciplinas de Trabalhos Manuais e de Educação Física.
 
-###### Art. 358.º Durante os cinco primeiros anos de funcionamento do ciclo preparatório, os programas que forem aprovados serão considerados em regime provisório e experimental, cumprindo aos conselhos escolares estudar a sua execução dentro das possibilidades e sugerir superiormente as alterações que julgarem convenientes em resultado dos ensinamentos colhidos.
+Art. 358.º Durante os cinco primeiros anos de funcionamento do ciclo preparatório, os programas que forem aprovados serão considerados em regime provisório e experimental, cumprindo aos conselhos escolares estudar a sua execução dentro das possibilidades e sugerir superiormente as alterações que julgarem convenientes em resultado dos ensinamentos colhidos.
 
-###### Art. 359.º Enquanto não houver livros superiormente aprovados para o ensino do ciclo preparatório, os conselhos escolares procederão à escolha dos livros de texto e compêndios, de entre os indicados pela Inspecção.
+Art. 359.º Enquanto não houver livros superiormente aprovados para o ensino do ciclo preparatório, os conselhos escolares procederão à escolha dos livros de texto e compêndios, de entre os indicados pela Inspecção.
 
-###### Art. 360.º - 1. Os professores dos quadros das actuais escolas técnicas elementares são automàticamente transferidos, sem necessidade de qualquer formalidade, como diploma de provimento, visto do Tribunal de Contas e posse, para os quadros das correspondentes escolas preparatórias do ensino secundário, em que as primeiras são transformadas, ficando a ocupar nesses outros quadros a posição de professores efectivos dos correspondentes grupos ou especialidades.
+Art. 360.º - 1. Os professores dos quadros das actuais escolas técnicas elementares são automàticamente transferidos, sem necessidade de qualquer formalidade, como diploma de provimento, visto do Tribunal de Contas e posse, para os quadros das correspondentes escolas preparatórias do ensino secundário, em que as primeiras são transformadas, ficando a ocupar nesses outros quadros a posição de professores efectivos dos correspondentes grupos ou especialidades.
 
 2. Os seguintes professores dos quadros de outros estabelecimentos de ensino técnico profissional são automàticamente transferidos, sem necessidade de qualquer formalidade, como diploma de provimento, posse e visto do Tribunal de Contas, para os quadros das escolas preparatórias das mesmas localidades:
 
@@ -2504,27 +2631,27 @@ e) Os habilitados com Exame de Estado dos mencionados ensinos.
 
 10. Aos funcionários transferidos ou colocados na conformidade do presente artigo será contado o tempo de serviço prestado nos quadros a que pertenciam, para todos os efeitos legais.
 
-###### Art. 361.º - 1. Enquanto as escolas não tiverem o número de professores que permita a constituição normal do conselho administrativo este funcionará apenas com dois membros, ou, se o Ministro da Educação Nacional assim o entender, poderá, transitòriamente, fazer parte dele outro funcionário docente ou um oficial da secretaria.
+Art. 361.º - 1. Enquanto as escolas não tiverem o número de professores que permita a constituição normal do conselho administrativo este funcionará apenas com dois membros, ou, se o Ministro da Educação Nacional assim o entender, poderá, transitòriamente, fazer parte dele outro funcionário docente ou um oficial da secretaria.
 
 2. Até à constituição dos respectivos conselhos administrativos, as funções que legalmente lhes competem serão nas novas escolas desempenhadas pelos directores.
 
-###### Art. 362.º O Ministro da Educação Nacional pode determinar que prestem serviço nas escolas preparatórias, total ou parcialmente, quaisquer professores e mestres dos quadros do ensino liceal e técnico em serviço nas mesmas localidades, sendo o serviço considerado, para todos os efeitos, como prestado nos estabelecimentos a cujos quadros pertençam e nas respectivas categorias.
+Art. 362.º O Ministro da Educação Nacional pode determinar que prestem serviço nas escolas preparatórias, total ou parcialmente, quaisquer professores e mestres dos quadros do ensino liceal e técnico em serviço nas mesmas localidades, sendo o serviço considerado, para todos os efeitos, como prestado nos estabelecimentos a cujos quadros pertençam e nas respectivas categorias.
 
-###### Art. 363.º - 1. No orçamento da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário será anualmente inscrito um subsídio destinado ao seu boletim.
+Art. 363.º - 1. No orçamento da Direcção de Serviços do Ciclo Preparatório do Ensino Secundário será anualmente inscrito um subsídio destinado ao seu boletim.
 
 2. A direcção e administração do boletim a que se refere o número anterior ficará, sob a superintendência do director de Serviços, a cargo de uma comissão designada pelo Ministro.
 
 3. À comissão compete arrecadar as receitas próprias do boletim, fazer os pagamentos, contratar com autores, empresas gráficas, editoriais, livrarias ou outras entidades, praticar ou autorizar todos os actos conducentes à publicação e expedição do boletim, organizando a necessária escrituração, prestando contas ao director de Serviços e procedendo em tudo de acordo com as normas gerais da contabilidade pública.
 
-###### Art. 364.º - 1. Nas escolas preparatórias que funcionem nos edifícios dos liceus e das escolas técnicas podem os reitores e directores completar os horários dos professores do ciclo preparatório com serviço docente nas disciplinas do ensino liceal ou técnico ministrados no estabelecimento, e vice-versa, até determinação em contrário do Ministro da Educação Nacional.
+Art. 364.º - 1. Nas escolas preparatórias que funcionem nos edifícios dos liceus e das escolas técnicas podem os reitores e directores completar os horários dos professores do ciclo preparatório com serviço docente nas disciplinas do ensino liceal ou técnico ministrados no estabelecimento, e vice-versa, até determinação em contrário do Ministro da Educação Nacional.
 
 2. Os professores eventuais com serviço docente nas condições do número anterior serão abonados por cada um dos ensinos na proporção das horas semanais correspondentes que lhes tenham sido distribuídas.
 
-###### Art. 365.º O disposto no presente diploma deve entender-se sempre, sem prejuízo do preceituado no [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, considerando-se aplicável ao ciclo preparatório o que nele se estabelece para o 1.º ciclo do ensino liceal e para o ciclo preparatório do ensino técnico profissional.
+Art. 365.º O disposto no presente diploma deve entender-se sempre, sem prejuízo do preceituado no [Decreto-Lei n.º 47311](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47311-1966-479220), de 12 de Novembro de 1966, considerando-se aplicável ao ciclo preparatório o que nele se estabelece para o 1.º ciclo do ensino liceal e para o ciclo preparatório do ensino técnico profissional.
 
-###### Art. 366.º O disposto na [Portaria n.º 22937](https://diariodarepublica.pt/dr/detalhe/portaria/22937-1967-387854), de 2 de Outubro de 1967, mantém-se em vigor no que não é contrariado pelas disposições deste Estatuto.
+Art. 366.º O disposto na [Portaria n.º 22937](https://diariodarepublica.pt/dr/detalhe/portaria/22937-1967-387854), de 2 de Outubro de 1967, mantém-se em vigor no que não é contrariado pelas disposições deste Estatuto.
 
-###### Art. 367.º - 1. Relativamente aos três próximos anos escolares, o Ministro da Educação Nacional tomará, por meio de portarias ou despachos, as providências necessárias para adaptar o regime do ciclo preparatório às circunstâncias que forem ocorrendo.
+Art. 367.º - 1. Relativamente aos três próximos anos escolares, o Ministro da Educação Nacional tomará, por meio de portarias ou despachos, as providências necessárias para adaptar o regime do ciclo preparatório às circunstâncias que forem ocorrendo.
 
 2. As referidas providências deverão ter a concordância do Ministro das Finanças quando se tratar de assuntos de carácter financeiro ou administrativo.
 
@@ -2536,6 +2663,6 @@ TABELA
 
 Quadro de professores auxiliares
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf))](https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/09/21301/13431377.pdf)
 
 Ministério da Educação Nacional, 9 de Setembro de 1968. - O Ministro da Educação Nacional, Inocêncio Galvão Teles.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48575-1968-264731
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1973-07-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: d4b948cec64cb6b707a99691d02b69dddbe32c52bf882eaef61321077334f0de
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8aa6a4b99e30f0e13243585129d3a0f4db69bdabacbec9ad568cf0a4375a1f13
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,15 +72,15 @@ relationships:
   label: Última alteração registada na importação inicial
   source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:51Z'
   warnings: []
   errors: []
 ---
@@ -99,37 +99,37 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição 
 
 ### CAPÍTULO I — Disposições preliminares
 
-###### Artigo 1.º - 1. Aos municípios das províncias ultramarinas cujo desenvolvimento o justifique poderá ser aplicado o regime especial criado por este diploma.
+Artigo 1.º - 1. Aos municípios das províncias ultramarinas cujo desenvolvimento o justifique poderá ser aplicado o regime especial criado por este diploma.
 
 2. Para a aplicação deste regime serão apreciados todos os elementos que possam justificar a medida e, nomeadamente, o número de habitantes, o grau de urbanização adquirido, a importância das actividades industriais comerciais e o volume das receitas.
 
 3. As cidades sedes dos municípios regidos pelo presente diploma dividem-se em bairros e estes em freguesias.
 
-###### Art. 2.º - 1. A aplicação do regime a que se refere o artigo 1.º será feita por portaria do Ministro do Ultramar, sob proposta dos governos provinciais e ouvido o Conselho Ultramarino.
+Art. 2.º - 1. A aplicação do regime a que se refere o artigo 1.º será feita por portaria do Ministro do Ultramar, sob proposta dos governos provinciais e ouvido o Conselho Ultramarino.
 
 2. A portaria a que alude o n.º 1 fixará o número de vereadores de cada corpo administrativo, bem como os seus eleitores.
 
-###### Art. 3.º - 1. Os Municípios de Luanda e de Lourenço Marques passam desde já a reger-se pelo disposto no presente diploma.
+Art. 3.º - 1. Os Municípios de Luanda e de Lourenço Marques passam desde já a reger-se pelo disposto no presente diploma.
 
 2. O número de vereadores será de dez, tanto na Câmara Municipal de Luanda como na de Lourenço Marques.
 
 ### CAPÍTULO II — Da composição das câmaras e da eleição dos vereadores
 
-###### Art. 4.º As câmaras municipais são compostas por um presidente e um vice-presidente, nomeados pelo governador da respectiva província, e por vereadores eleitos.
+Art. 4.º As câmaras municipais são compostas por um presidente e um vice-presidente, nomeados pelo governador da respectiva província, e por vereadores eleitos.
 
-###### Art. 5.º - 1. É de quatro anos o mandato dos vereadores, os quais serão eleitos em dia, mês e hora a designar em cada província por portaria do governador.
+Art. 5.º - 1. É de quatro anos o mandato dos vereadores, os quais serão eleitos em dia, mês e hora a designar em cada província por portaria do governador.
 
 2. A eleição por virtude do termo do mandato de uma vereação terá lugar no primeiro domingo do mês que anteceder o termo do mesmo mandato. No caso de dissolução do corpo administrativo, terá lugar no mais curto espaço de tempo, que, todavia, não deverá exceder 90 dias. A data da nova eleição, no caso de dissolução da câmara, será fixada na portaria que determinar a dissolução.
 
 3. As eleições realizam-se no edifício da câmara municipal, podendo, contudo, estabelecer-se secções de voto, se for julgado conveniente.
 
-###### Art. 6.º - 1. Juntamente com os vereadores efectivos serão eleitos vereadores substitutos em número igual ao daqueles.
+Art. 6.º - 1. Juntamente com os vereadores efectivos serão eleitos vereadores substitutos em número igual ao daqueles.
 
 2. Nos casos de licença, impedimento temporário, exclusão do lugar por aceitação de renúncia, perda do mandato ou falecimento dos vereadores efectivos, serão chamados pelo presidente da câmara os substitutos pela ordem da maior votação da respectiva lista ou pela maior idade quando tenha havido empate na votação.
 
 3. Quando não puder ser completado o número de vereadores, por falta ou impedimento dos respectivos substitutos, as vagas serão preenchidas por nova eleição, que terá lugar dentro do prazo máximo fixado no artigo 5.º, n.º 2.
 
-###### Art. 7.º - 1. Os eleitores das vereações das câmaras municipais são:
+Art. 7.º - 1. Os eleitores das vereações das câmaras municipais são:
 
 a) As juntas locais e as juntas de freguesia eleitas para o quadriénio em que há-de servir a vereação de cuja eleição se trata ou, na falta da coincidência dos períodos do mandato, as juntas de freguesia em exercício à data da eleição; b) Os organismos representativos dos interesses morais e culturais;
 
@@ -143,17 +143,17 @@ e) Os eleitores do concelho inscritos nos cadernos gerais de recenseamento eleit
 
 3. Sempre que a junta de freguesia ou a junta local forem substituídas por uma comissão administrativa, competirá a esta a eleição dos vereadores.
 
-###### Art. 8.º - 1. Para cada eleição serão organizadas pelos serviços distritais de administração civil nas províncias divididas em distritos ou pelos serviços provinciais nas restantes quatro listas de eleitores por sufrágio orgânico, correspondentes aos designados nas alíneas a) e d) do n.º 1 do artigo 7.º
+Art. 8.º - 1. Para cada eleição serão organizadas pelos serviços distritais de administração civil nas províncias divididas em distritos ou pelos serviços provinciais nas restantes quatro listas de eleitores por sufrágio orgânico, correspondentes aos designados nas alíneas a) e d) do n.º 1 do artigo 7.º
 
 2. Se existirem organizações corporativas representativas da mesma actividade ou interesse, com categorias e graus diferentes, só os organismos primários intervirão na eleição.
 
 3. Os cadernos de recenseamento, dos eleitores referidos na alínea e) do n.º 1 do artigo anterior serão remetidos à câmara municipal, em duplicado, pela entidade recenseadora.
 
-###### Art. 9.º Cada um dos grupos referidos nas alíneas do artigo 7.º, n.º 1, elegerá dois vereadores.
+Art. 9.º Cada um dos grupos referidos nas alíneas do artigo 7.º, n.º 1, elegerá dois vereadores.
 
-###### Art. 10.º A eleição dos vereadores das câmaras municipais abrangidas por este diploma reger-se-á, na parte aplicável, pelo que estiver disposto para a eleição dos vogais dos conselhos legislativos.
+Art. 10.º A eleição dos vereadores das câmaras municipais abrangidas por este diploma reger-se-á, na parte aplicável, pelo que estiver disposto para a eleição dos vogais dos conselhos legislativos.
 
-###### Art. 11.º - 1. Não podem ser eleitos vereadores:
+Art. 11.º - 1. Não podem ser eleitos vereadores:
 
 a) Os que não estejam no gozo dos seus direitos civis e políticos;
 
@@ -187,9 +187,9 @@ o) Os que tenham adquirido a nacionalidade portuguesa por naturalização ou cas
 
 2. Não se consideram compreendidos nas alíneas d) e e) os funcionários nas situações de licença ilimitada, aposentados ou reformados, salvo quando dependam da câmara municipal ou sejam pagos pelos seus cofres.
 
-###### Art. 12.º As funções de vereador são obrigatórias e gratuitas.
+Art. 12.º As funções de vereador são obrigatórias e gratuitas.
 
-###### Art. 13.º - 1. Constituem motivo de escusa do cargo de vereador:
+Art. 13.º - 1. Constituem motivo de escusa do cargo de vereador:
 
 a) O exercício das funções de vereador efectivo da mesma câmara no quadriénio anterior, ou de substituto quando tenha sido chamado à efectividade na maior parte do quadriénio;
 
@@ -205,7 +205,7 @@ e) A residência fora da área do concelho.
 
 3. A renúncia posterior à posse, pela ocorrência dos factos previstos nas alíneas b), c) e e) do n.º 1, pode ser pedida a qualquer tempo; o pedido de renúncia pela ocorrência do facto referido na alínea d) terá de ser apresentado nos cinco dias posteriores à sua verificação.
 
-###### Art. 14.º - 1. Perdem o mandato os vereadores:
+Art. 14.º - 1. Perdem o mandato os vereadores:
 
 a) Que adquiram situações que importem inelegibilidade;
 
@@ -219,13 +219,13 @@ e) Que incorrerem na sanção a que se refere o artigo 29.º deste diploma.
 
 2. Nos casos previstos nas alíneas a) a c) do n.º 1, a perda do mandato não será declarada espontaneamente se o vereador, nos cinco dias posteriores à verificação do facto, solicitar a renúncia do cargo. Será sempre declarada a perda do mandato se tiver fundamento em facto desonroso.
 
-###### Art. 15.º Pertencem ao corpo administrativo a aceitação de escusa, a exclusão do lugar por aceitação de renúncia e a declaração de perda de mandato dos vereadores.
+Art. 15.º Pertencem ao corpo administrativo a aceitação de escusa, a exclusão do lugar por aceitação de renúncia e a declaração de perda de mandato dos vereadores.
 
-###### Art. 16.º As funções de vereador não estão sujeitas, a quaisquer outras inelegibilidades ou incompatibilidades além das expressamente designadas nos artigos anteriores.
+Art. 16.º As funções de vereador não estão sujeitas, a quaisquer outras inelegibilidades ou incompatibilidades além das expressamente designadas nos artigos anteriores.
 
 ### CAPÍTULO III — Das atribuições e competências das câmaras
 
-###### Art. 17.º Sem prejuízo das conferidas a outros serviços, as câmaras municipais têm atribuições:
+Art. 17.º Sem prejuízo das conferidas a outros serviços, as câmaras municipais têm atribuições:
 
 a) De administração dos bens próprios do concelho;
 
@@ -239,7 +239,7 @@ e) De salubridade pública;
 
 f) De polícia.
 
-###### Art. 18.º No uso das atribuições de administração de bens próprios do concelho, pertence às câmaras deliberar sobre:
+Art. 18.º No uso das atribuições de administração de bens próprios do concelho, pertence às câmaras deliberar sobre:
 
 a) A plantação e corte de matas e arvoredos municipais, com a assistência técnica dos serviços florestais da província, quando for julgada conveniente;
 
@@ -247,7 +247,7 @@ b) O esgoto de pântanos existentes em terrenos do concelho.
 
 c) Tudo o que respeite à conservação, uso e fruição dos bens próprios do concelho.
 
-###### Art. 19.º No uso das atribuições de fomento, pertence às câmaras deliberar, sobre:
+Art. 19.º No uso das atribuições de fomento, pertence às câmaras deliberar, sobre:
 
 a) A construção, reparação e conservação das estradas e caminhos a seu cargo;
 
@@ -277,7 +277,7 @@ m) A propaganda das belezas naturais e artísticas existentes na área sob a sua
 
 n) A construção e administração de casas e bairros populares;
 
-###### Art. 20.º No uso das atribuições referentes ao abastecimento público, pertence às câmaras deliberar sobre:
+Art. 20.º No uso das atribuições referentes ao abastecimento público, pertence às câmaras deliberar sobre:
 
 a) A captação de águas potáveis e a construção e conservação, limpeza e desobstrução de fontes, reservatórios, aquedutos e condutas;
 
@@ -291,7 +291,7 @@ e) O estabelecimento e instalação de centrais pasteurizadoras ou de centrais l
 
 f) A fiscalização do comércio e venda de produtos alimentares, incluindo o comércio ambulante, com observância da legislação especial sobre a matéria e desde que esta não disponha de outra forma.
 
-###### Art. 21.º No uso das atribuições de cultura, educação e assistência, pertence às câmaras deliberar sobre:
+Art. 21.º No uso das atribuições de cultura, educação e assistência, pertence às câmaras deliberar sobre:
 
 a) O auxílio a conceder a estabelecimentos particulares de cultura, educação, assistência e desporto existentes na área sob a sua jurisdição;
 
@@ -311,7 +311,7 @@ h) A proposta para a fixação do dia do feriado municipal, escolhido entre as d
 
 i) A proposta para a outorga e modificação do brasão de armas, selo e bandeira do município.
 
-###### Art. 22.º No uso das atribuições respeitantes à salubridade pública, pertence às câmaras deliberar sobre:
+Art. 22.º No uso das atribuições respeitantes à salubridade pública, pertence às câmaras deliberar sobre:
 
 a) A protecção de água potável destinada ao consumo público contra causas de inquinação ou de conspurcação;
 
@@ -337,7 +337,7 @@ k) A instalação de obras de saneamento;
 
 l) A fiscalização dos estabelecimentos insalubres, incómodos e perigosos ou tóxicos, nos termos da lei.
 
-###### Art. 23.º No uso das atribuições de polícia, pertence às câmaras deliberar sobre:
+Art. 23.º No uso das atribuições de polícia, pertence às câmaras deliberar sobre:
 
 a) Tudo o que interesse à segurança e comodidade do trânsito nas ruas, praças, cais e mais lugares públicos e não seja das atribuições de outras entidades;
 
@@ -365,9 +365,9 @@ l) A instalação e funcionamento de elevadores de acesso aos andares dos prédi
 
 m) A disciplina dos cortejos fúnebres, enterramentos e exercício da actividade de agências funerárias.
 
-###### Art. 24.º Das medidas previstas nos artigos 18.º a 23.º, e nomeadamente nas alíneas e) e j) do artigo 19.º, b) e c) do artigo 20.º, h) do artigo 22.º e h) do artigo 23.º, poderão, mediante contrato, beneficiar outras divisões administrativas limítrofes.
+Art. 24.º Das medidas previstas nos artigos 18.º a 23.º, e nomeadamente nas alíneas e) e j) do artigo 19.º, b) e c) do artigo 20.º, h) do artigo 22.º e h) do artigo 23.º, poderão, mediante contrato, beneficiar outras divisões administrativas limítrofes.
 
-###### Art. 25.º - 1. Para o desempenho das suas atribuições, compete às câmaras:
+Art. 25.º - 1. Para o desempenho das suas atribuições, compete às câmaras:
 
 a) Fazer, interpretar, alterar e revogar os regulamentos necessários à boa ordem dos serviços e estabelecimentos municipais, bem como as posturas e regulamentos policiais permitidos ou impostos por lei;
 
@@ -427,7 +427,7 @@ z) Modificar e revogar, nos termos da lei, os actos praticados pelos agentes mun
 
 6. Nas acções ou processos administrativos em que sejam parte, as câmaras municipais poderão ser representadas por advogado ou por solicitador, consoante os casos.
 
-###### Art. 26.º Dependem de deliberação tomada em sessão da câmara:
+Art. 26.º Dependem de deliberação tomada em sessão da câmara:
 
 a) A aprovação de posturas ou regulamentos policiais;
 
@@ -467,7 +467,7 @@ r) A federação com outros municípios para a realização de interesses comuns
 
 s) A criação, remodelação e extinção de empregos municipais e sua remuneração.
 
-###### Art. 27.º - 1. Carecem de aprovação para se tornarem executórias as deliberações seguintes:
+Art. 27.º - 1. Carecem de aprovação para se tornarem executórias as deliberações seguintes:
 
 a) Que devam revestir a forma de postura ou de regulamento relativos à polícia sanitária ou ao trânsito na via pública;
 
@@ -505,7 +505,7 @@ b) Nas outras províncias, ao governador de província, ouvido o conselho do gov
 
 ### CAPÍTULO IV — Das sessões camarárias
 
-###### Art. 28.º - 1. As câmaras municipais têm uma sessão ordinária em cada mês e as extraordinárias que forem convocadas pelo presidente, por sua iniciativa ou a pedido da maioria absoluta dos vereadores.
+Art. 28.º - 1. As câmaras municipais têm uma sessão ordinária em cada mês e as extraordinárias que forem convocadas pelo presidente, por sua iniciativa ou a pedido da maioria absoluta dos vereadores.
 
 2. O vice-presidente deverá assistir às sessões da câmara, tendo lugar à direita do presidente, mas com voto consultivo sòmente.
 
@@ -515,13 +515,13 @@ b) Nas outras províncias, ao governador de província, ouvido o conselho do gov
 
 5. Nos casos em que a câmara assim o delibere, a acta será aprovada em minuta, total ou parcialmente, no final da sessão a que respeite e lançada depois no respectivo livro.
 
-###### Art. 29.º Quando um vereador perturbe o funcionamento das sessões, revelando falta de espírito de colaboração, tendo sido chamado anteriormente à ordem por três vezes pelo presidente, poderá ser declarado perdido o seu mandato.
+Art. 29.º Quando um vereador perturbe o funcionamento das sessões, revelando falta de espírito de colaboração, tendo sido chamado anteriormente à ordem por três vezes pelo presidente, poderá ser declarado perdido o seu mandato.
 
 ### CAPÍTULO V — Da presidência das câmaras e dos serviços camarários
 
-###### Art. 30.º O presidente da câmara decide, por despacho, todos os assuntos das atribuições daquela, salvo os indicados no artigo 26.º Quando estiver em exercício de funções de presidente, ao vice-presidente competirão todos os poderes daquele.
+Art. 30.º O presidente da câmara decide, por despacho, todos os assuntos das atribuições daquela, salvo os indicados no artigo 26.º Quando estiver em exercício de funções de presidente, ao vice-presidente competirão todos os poderes daquele.
 
-###### Art. 31.º - 1. O presidente da câmara municipal poderá delegar no vice-presidente quaisquer actos da sua competência, com excepção dos seguintes:
+Art. 31.º - 1. O presidente da câmara municipal poderá delegar no vice-presidente quaisquer actos da sua competência, com excepção dos seguintes:
 
 a) A administração financeira, incluindo a organização do orçamento;
 
@@ -531,11 +531,11 @@ c) A elaboração do relatório e do plano anual da gerência municipal.
 
 2. A administração financeira de que trata a alínea a) não compreende os actos correntes de gestão destinados a assegurar o normal funcionamento dos serviços.
 
-###### Art. 32.º - 1. O presidente da câmara tem competência para aplicação de penas disciplinares até à de suspensão agravada.
+Art. 32.º - 1. O presidente da câmara tem competência para aplicação de penas disciplinares até à de suspensão agravada.
 
 2. Igual competência tem o vice-presidente quando para o efeito nele tenham sido delegados, pelo presidente, os necessários poderes.
 
-###### Art. 33.º - 1. O presidente e o vice-presidente, quando funcionários públicos, exercerão os seus cargos em comissão ordinária de serviço e manterão, nos respectivos quadros, todos os direitos previstos nas leis, inclusive às promoções que lhes caibam e à aposentação.
+Art. 33.º - 1. O presidente e o vice-presidente, quando funcionários públicos, exercerão os seus cargos em comissão ordinária de serviço e manterão, nos respectivos quadros, todos os direitos previstos nas leis, inclusive às promoções que lhes caibam e à aposentação.
 
 2. Sempre que as nomeações do presidente ou da vice-presidente recaiam em funcionários dos quadros comuns ultramarinos, deverá ser obtido o prévio acordo do Ministro do Ultramar.
 
@@ -543,19 +543,19 @@ c) A elaboração do relatório e do plano anual da gerência municipal.
 
 4. A concessão, de licenças ao presidente e ao vice-presidente é da competência do governador da província.
 
-###### Art. 34.º Os serviços municipais distribuem-se por direcções de serviços, que podem compreender repartições e secções.
+Art. 34.º Os serviços municipais distribuem-se por direcções de serviços, que podem compreender repartições e secções.
 
-###### Art. 35.º - 1. Na preparação das suas decisões e na execução de todos os actos de gerência municipal, o presidente da câmara será coadjuvado pelos directores de serviços.
+Art. 35.º - 1. Na preparação das suas decisões e na execução de todos os actos de gerência municipal, o presidente da câmara será coadjuvado pelos directores de serviços.
 
 2. Cada director de serviço terá a seu cargo uma direcção de serviços.
 
-###### Art. 36.º - 1. os lugares de director de serviço dos quadros permanentes das câmaras municipais serão por estas providos, mediante proposta do respectivo presidente, em regime de comissão ordinária de serviço, nos termos gerais fixados no Estatuto do Funcionalismo Ultramarino, podendo a comissão ser renovada por deliberação da câmara nos 60 dias que antecedam o seu termo.
+Art. 36.º - 1. os lugares de director de serviço dos quadros permanentes das câmaras municipais serão por estas providos, mediante proposta do respectivo presidente, em regime de comissão ordinária de serviço, nos termos gerais fixados no Estatuto do Funcionalismo Ultramarino, podendo a comissão ser renovada por deliberação da câmara nos 60 dias que antecedam o seu termo.
 
 2. A nomeação só pode recair em pessoa diplomada com um curso superior adaptável ao cargo, pertencente ou não aos quadros do município e que satisfaça as restantes condições exigidas para os funcionários de igual categoria nos quadros dos serviços públicos.
 
 3. Se a nomeação dever recair em funcionário público dos quadros provinciais, só poderá efectuar-se depois de autorizada pelo governador da província. Se recair em funcionário dos quadros comuns, a autorização pertencerá ao Ministro do Ultramar. Em qualquer dos casos, o funcionário manterá, enquanto se encontrar ao serviço da câmara, todos os direitos como se permanecesse ao serviço do seu próprio quadro, inclusive às promoções legais e à aposentação.
 
-###### Art. 37.º Compete aos directores de serviços:
+Art. 37.º Compete aos directores de serviços:
 
 a) Dirigir os respectivos serviços e superintender nos actos neles praticados e no pessoal a eles afecto;
 
@@ -575,29 +575,29 @@ h) Corresponder-se directamente, em assuntos da sua competência e por delegaç�
 
 i) Assistir às sessões da câmara, quando convocados pelo presidente, para prestarem todas as informações e esclarecimentos que lhes forem pedidos.
 
-###### Art. 38.º - 1. O presidente da câmara pode delegar nos directores de serviços a competência para o despacho de assuntos correntes das respectivas direcções e a admissão, disciplina e despedimento do pessoal assalariado.
+Art. 38.º - 1. O presidente da câmara pode delegar nos directores de serviços a competência para o despacho de assuntos correntes das respectivas direcções e a admissão, disciplina e despedimento do pessoal assalariado.
 
 2. Os directores de serviços poderão, com autorização do presidente da câmara, subdelegar nos chefes de repartição a competência que por aquele lhes tenha sido delegada.
 
 3. Quando se verifique a delegação ou a subdelegação prevista nos n.os 1 e 2, os directores de serviços e os chefes de repartição têm competência para a aplicação de penas disciplinares até à de multa agravada.
 
-###### Art. 39.º Sempre que o vice-presidente esteja impedido de assegurar a substituição do presidente, as funções deste, sob sua proposta e mediante despacho do governador da província respectiva, serão supridas, de preferência, por um dos vereadores ou por um dos directores de serviços. Na mesma hipótese, mas quando o impedimento do presidente resulte de breve ausência, poderá este delegar o despacho de todos os assuntos da sua competência, excepto em matéria disciplinar, no director de serviço que designar.
+Art. 39.º Sempre que o vice-presidente esteja impedido de assegurar a substituição do presidente, as funções deste, sob sua proposta e mediante despacho do governador da província respectiva, serão supridas, de preferência, por um dos vereadores ou por um dos directores de serviços. Na mesma hipótese, mas quando o impedimento do presidente resulte de breve ausência, poderá este delegar o despacho de todos os assuntos da sua competência, excepto em matéria disciplinar, no director de serviço que designar.
 
 ### CAPÍTULO VI — Disposições subsidiárias e transitórias
 
-###### Art. 40.º Em tudo o que não se encontre especialmente previsto neste diploma observar-se-ão as normas reguladoras da administração municipal.
+Art. 40.º Em tudo o que não se encontre especialmente previsto neste diploma observar-se-ão as normas reguladoras da administração municipal.
 
-###### Art. 41.º Transitòriamente consideram-se organismos corporativos, para o efeito declarado no artigo 7.º, n.º 1, alíneas c) e d), as associações ou organismos económicos de actividades afins que, ainda não estando organizado corporativamente, tenham sede ou delegação nas cidades cujas câmaras municipais ficam abrangidas pelo presente diploma e constem da lista a publicar pelo governo da província, nos termos das disposições reguladoras da eleição dos vereadores.
+Art. 41.º Transitòriamente consideram-se organismos corporativos, para o efeito declarado no artigo 7.º, n.º 1, alíneas c) e d), as associações ou organismos económicos de actividades afins que, ainda não estando organizado corporativamente, tenham sede ou delegação nas cidades cujas câmaras municipais ficam abrangidas pelo presente diploma e constem da lista a publicar pelo governo da província, nos termos das disposições reguladoras da eleição dos vereadores.
 
-###### Art. 42.º Nas câmaras municipais abrangidas pelo disposto no presente diploma, as funções das secretarias serão distribuídas pelas direcções de serviços, na forma que os respectivos regulamentos internos determinarem.
+Art. 42.º Nas câmaras municipais abrangidas pelo disposto no presente diploma, as funções das secretarias serão distribuídas pelas direcções de serviços, na forma que os respectivos regulamentos internos determinarem.
 
-###### Art. 43.º - 1. Até à data da entrada em vigor do presente diploma as Câmaras Municipais de Luanda e de Lourenço Marques apresentarão à aprovação dos governadores-gerais de Angola e de Moçambique o projecto de organização dos serviços respectivos, bem como as normas de transição do pessoal dos actuais quadros para os que vierem a ser criados.
+Art. 43.º - 1. Até à data da entrada em vigor do presente diploma as Câmaras Municipais de Luanda e de Lourenço Marques apresentarão à aprovação dos governadores-gerais de Angola e de Moçambique o projecto de organização dos serviços respectivos, bem como as normas de transição do pessoal dos actuais quadros para os que vierem a ser criados.
 
 2. Nas normas a que se refere o número anterior poderão ser dispensados alguns dos requisitos normais para o provimento dos cargos, nomeadamente o das habilitações legais.
 
 3. Na transição do pessoal dos actuais quadros para os que vierem a ser criados não poderão ser atribuídos aos agentes lugares de categoria inferior à da que tinham na altura da transição, nem diminuídos os seus direitos quanto à forma de provimento.
 
-###### Art. 44.º Este diploma entrará em vigor 180 dias após a sua publicação no Diário do Governo.
+Art. 44.º Este diploma entrará em vigor 180 dias após a sua publicação no Diário do Governo.
 
 Publique e cumpra-se como nele se contém.
 

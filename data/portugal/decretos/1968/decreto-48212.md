@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48212-1968-233140
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-01-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a97e01c205632a218720339dab3cd7dd3606deaa00679dc5953f9660e338550c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 52221584128cb86ab822af744b204bfa5c14fdf69af7b26aabc2611d8c727537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:00Z'
   warnings: []
   errors: []
 ---
@@ -92,27 +92,27 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a província de Angola a celebrar com a Standard Eléctrica, S. A. R. L., um contrato em regime de pagamentos diferidos, até ao montante de 65302795$00, para o fornecimento e montagem de diverso equipamento destinado à rede de telecomunicações da província.
+Artigo 1.º É autorizada a província de Angola a celebrar com a Standard Eléctrica, S. A. R. L., um contrato em regime de pagamentos diferidos, até ao montante de 65302795$00, para o fornecimento e montagem de diverso equipamento destinado à rede de telecomunicações da província.
 
 § único. O montante do contrato poderá ser modificado por decisão do Governo-Geral da província de Angola, em função da necessidade de se introduzirem modificações nas características ou quantidades de antenas ou mastros de determinadas estações, nos tipos de emissores-receptores a instalar ou na quantidade de estações, mas dessas alterações não poderão resultar modificações superiores a 20 por cento para mais ou 10 por cento para menos do montante do contrato fixado no corpo do artigo.
 
-###### Art. 2.º A liquidação do montante correspondente ao valor do contrato será feita em vinte prestações semestrais, de acordo com o plano constante do contrato a celebrar.
+Art. 2.º A liquidação do montante correspondente ao valor do contrato será feita em vinte prestações semestrais, de acordo com o plano constante do contrato a celebrar.
 
 § 1.º Sobre o saldo em dívida incidirá a taxa de juro de 6 por cento ao ano.
 
 § 2.º A província poderá proceder à liquidação antecipada, total ou parcial, do saldo em dívida.
 
-###### Art. 3.º Os encargos assumidos serão representados por duas séries de livranças a emitir pelos Serviços dos Correios, Telégrafos e Telefones da província de Angola, sendo uma das séries representativa da amortização do capital e a outra dos juros de 6 por cento ao ano sobre o saldo em dívida.
+Art. 3.º Os encargos assumidos serão representados por duas séries de livranças a emitir pelos Serviços dos Correios, Telégrafos e Telefones da província de Angola, sendo uma das séries representativa da amortização do capital e a outra dos juros de 6 por cento ao ano sobre o saldo em dívida.
 
 § 1.º As livranças serão emitidas em escudos metropolitanos à ordem da Standard Eléctrica, S. A. R. L., sendo a sua circulação circunscrita ao mercado financeiro nacional.
 
 § 2.º As livranças serão endossadas pela Standard Eléctrica, S. A. R. L., ao Banco de Fomento Nacional, que intervirá na execução deste contrato, mediante condições contratuais a estabelecer separadamente.
 
-###### Art. 4.º É autorizado o Governo-Geral da província de Angola a avalizar as livranças emitidas.
+Art. 4.º É autorizado o Governo-Geral da província de Angola a avalizar as livranças emitidas.
 
-###### Art. 5.º Todos os encargos resultantes da celebração do contrato constituirão despesa obrigatória e preferencial da província, devendo, em consequência, ser anualmente inscritas no seu orçamento geral, consignadas aos Serviços dos Correios, Telégrafos e Telefones de Angola, as verbas necessárias à sua liquidação; estes Serviços deverão, por sua vez, inscrever nos capítulos de receita e de despesa do seu orçamento privativo, para o mesmo efeito, as correspondentes dotações.
+Art. 5.º Todos os encargos resultantes da celebração do contrato constituirão despesa obrigatória e preferencial da província, devendo, em consequência, ser anualmente inscritas no seu orçamento geral, consignadas aos Serviços dos Correios, Telégrafos e Telefones de Angola, as verbas necessárias à sua liquidação; estes Serviços deverão, por sua vez, inscrever nos capítulos de receita e de despesa do seu orçamento privativo, para o mesmo efeito, as correspondentes dotações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Janeiro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

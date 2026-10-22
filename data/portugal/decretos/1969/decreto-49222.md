@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49222-1969-214941
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-09-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:09:03Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4df77b9bf6353d8d039ed94f7499488cbfded0ccbb0cb5407cd6ddd65af0c114
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 0388e5fedb9b7a60ee876425da236faa7989c3adbc4bd4400bcd436fc97c8803
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:09:03Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:261960:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:09:03Z'
   warnings: []
   errors: []
 ---
@@ -89,25 +93,25 @@ Por motivo de urgência e tendo em vista o disposto no n.º 1.º do artigo 150.�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São atribuídas as seguintes gratificações mensais aos funcionários dos Serviços Meteorológicos da Guiné, S. Tomé e Príncipe, Moçambique, Macau e Timor que desempenhem as funções que a seguir se indicam:
+Artigo 1.º São atribuídas as seguintes gratificações mensais aos funcionários dos Serviços Meteorológicos da Guiné, S. Tomé e Príncipe, Moçambique, Macau e Timor que desempenhem as funções que a seguir se indicam:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20600/11761177.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20600/11761177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20600/11761177.pdf)
 
 Funções associadas aos estágios para recrutamento e para actualização de conhecimentos de observadores e ajudantes de observador:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/09/20600/11761177.pdf))](https://files.diariodarepublica.pt/1s/1969/09/20600/11761177.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/09/20600/11761177.pdf)
 
-###### Art. 2.º As gratificações mensais indicadas no artigo 1.º são acumuláveis com quaisquer outras gratificações, subsídios ou abonos.
+Art. 2.º As gratificações mensais indicadas no artigo 1.º são acumuláveis com quaisquer outras gratificações, subsídios ou abonos.
 
-###### Art. 3.º É alterado para 3000$00 o quantitativo da gratificação mensal atribuída ao meteorologista director do Serviço Meteorológico de Angola, fixado pelo artigo 1.º do [Decreto n.º 48754](https://diariodarepublica.pt/dr/detalhe/decreto/48754-1968-261960), de 10 de Dezembro de 1968.
+Art. 3.º É alterado para 3000$00 o quantitativo da gratificação mensal atribuída ao meteorologista director do Serviço Meteorológico de Angola, fixado pelo artigo 1.º do [Decreto n.º 48754](https://diariodarepublica.pt/dr/detalhe/decreto/48754-1968-261960), de 10 de Dezembro de 1968.
 
-###### Art. 4.º A atribuição das gratificações a que se referem os artigos anteriores efectuar-se-á à medida que as disponibilidades das respectivas províncias o permitirem, ficando desde já os governadores das províncias autorizados a abrir os créditos necessários à execução do que se estabelece no presente diploma.
+Art. 4.º A atribuição das gratificações a que se referem os artigos anteriores efectuar-se-á à medida que as disponibilidades das respectivas províncias o permitirem, ficando desde já os governadores das províncias autorizados a abrir os créditos necessários à execução do que se estabelece no presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 13 de Agosto de 1969.**
+Promulgado em 13 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 3 de Setembro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

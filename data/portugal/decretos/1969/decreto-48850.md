@@ -51,18 +51,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48850-1969-526850
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:07Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e0f942be63a3173f3212684d59524b2782324dd3f800d616b4ced6621eb92361
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 506476ef7d84f0b9598418aec62815f32954b0d94fe5403cb3af3014049d3020
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:07Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,17 +70,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:140815:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429862:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:470034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487899:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:491402:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:07Z'
   warnings: []
   errors: []
 ---
@@ -101,13 +121,13 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São tornados extensivos à província de Angola, a partir de 1 de Janeiro de 1969, os preceitos do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março de 1964, com a redacção dada ao § 1.º do seu artigo 1.º pelo artigo 4.º do [Decreto n.º 46885](https://diariodarepublica.pt/dr/detalhe/decreto/46885-1966-491402), de 25 de Fevereiro de 1966.
+Artigo 1.º São tornados extensivos à província de Angola, a partir de 1 de Janeiro de 1969, os preceitos do [Decreto n.º 45605](https://diariodarepublica.pt/dr/detalhe/decreto/45605-1964-470034), de 9 de Março de 1964, com a redacção dada ao § 1.º do seu artigo 1.º pelo artigo 4.º do [Decreto n.º 46885](https://diariodarepublica.pt/dr/detalhe/decreto/46885-1966-491402), de 25 de Fevereiro de 1966.
 
-###### Art. 2.º Mantêm-se em vigor as disposições do [Decreto n.º 46958](https://diariodarepublica.pt/dr/detalhe/decreto/46958-1966-487899), de 13 de Abril de 1966, referentes aos serviços autónomos dos correios, telégrafos e telefones das províncias de Angola e Moçambique.
+Art. 2.º Mantêm-se em vigor as disposições do [Decreto n.º 46958](https://diariodarepublica.pt/dr/detalhe/decreto/46958-1966-487899), de 13 de Abril de 1966, referentes aos serviços autónomos dos correios, telégrafos e telefones das províncias de Angola e Moçambique.
 
-###### Art. 3.º Os serviços autónomos, organismos e fundos abrangidos pelo disposto no artigo 1.º do presente diploma elaborarão no ano de 1969 os orçamentos suplementares que forem necessários, utilizando como contrapartida quaisquer recursos, incluindo os saldos das suas contas de exercícios findos, para exacto cumprimento do que fica determinado.
+Art. 3.º Os serviços autónomos, organismos e fundos abrangidos pelo disposto no artigo 1.º do presente diploma elaborarão no ano de 1969 os orçamentos suplementares que forem necessários, utilizando como contrapartida quaisquer recursos, incluindo os saldos das suas contas de exercícios findos, para exacto cumprimento do que fica determinado.
 
-###### Art. 4.º São consideradas prioritárias as despesas com a defesa nacional, devendo os serviços autónomos, organismos de coordenação económica, fundos e serviços especiais fazer entrega nos cofres da Fazenda Nacional, até ao dia 15 de cada mês, do duodécimo correspondente à sua comparticipação, a fim de ser escriturado nos termos do disposto no § 2.º do artigo 1.º do [Decreto n.º 44342](https://diariodarepublica.pt/dr/detalhe/decreto/44342-1962-140815), de 12 de Maio de 1962.
+Art. 4.º São consideradas prioritárias as despesas com a defesa nacional, devendo os serviços autónomos, organismos de coordenação económica, fundos e serviços especiais fazer entrega nos cofres da Fazenda Nacional, até ao dia 15 de cada mês, do duodécimo correspondente à sua comparticipação, a fim de ser escriturado nos termos do disposto no § 2.º do artigo 1.º do [Decreto n.º 44342](https://diariodarepublica.pt/dr/detalhe/decreto/44342-1962-140815), de 12 de Maio de 1962.
 
 § único. A rubrica da receita mencionada no preceito referido no corpo deste artigo passa a ter a seguinte redacção:
 
@@ -115,9 +135,9 @@ Consignação de receitas: comparticipação dos serviços autónomos, organismo
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 9 de Janeiro de 1969.**
+Promulgado em 9 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 24 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

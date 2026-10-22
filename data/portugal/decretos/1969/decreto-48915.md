@@ -50,18 +50,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48915-1969-524839
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-18T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a030024d22a33739c11bbe9513467b579742cd163db4ebf40a80a366ed34a7a9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5599628afde8db6c728f644e04f8f5d20770795dda6890f18c32fd9d4cd4fe94
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,17 +69,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:232374:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:39Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +102,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São autorizados os órgãos legislativos da província de S. Tomé e Príncipe a elevar o vencimento complementar mensal de todos os servidores civis do Estado até ao limite dos seguintes quantitativos para cada uma das letras constantes do artigo 32.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
+Artigo 1.º São autorizados os órgãos legislativos da província de S. Tomé e Príncipe a elevar o vencimento complementar mensal de todos os servidores civis do Estado até ao limite dos seguintes quantitativos para cada uma das letras constantes do artigo 32.º do [Decreto n.º 40709](https://diariodarepublica.pt/dr/detalhe/decreto/40709-1956-232374), de 31 de Julho de 1956:
 
 A ... -$00-
 
@@ -154,15 +158,15 @@ Z' ... 450$00
 
 Z" ... 200$00
 
-###### Art. 2.º As autarquias locais poderão proceder à revisão das remunerações do seu pessoal dentro dos princípios estabelecidos no artigo anterior.
+Art. 2.º As autarquias locais poderão proceder à revisão das remunerações do seu pessoal dentro dos princípios estabelecidos no artigo anterior.
 
-###### Art. 3.º Ficam os órgãos legislativos da província autorizados a integrar nas categorias referidas no artigo 90.º do Estatuto do Funcionalismo Ultramarino todos os agentes do Estado cujo provimento nos respectivos cargos seja da competência do governador da província e que à data da publicação do presente decreto ainda se não encontrem abrangidos pela referida disposição legal.
+Art. 3.º Ficam os órgãos legislativos da província autorizados a integrar nas categorias referidas no artigo 90.º do Estatuto do Funcionalismo Ultramarino todos os agentes do Estado cujo provimento nos respectivos cargos seja da competência do governador da província e que à data da publicação do presente decreto ainda se não encontrem abrangidos pela referida disposição legal.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 10 de Março de 1969.**
+Promulgado em 10 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 18 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/07/17700/09340937.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49158-1969-199079
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1974-09-16T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 50f62ba0dc3dac092565f6f937b332fb945744d7931c78fae96e675980e6873a
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: da26b9483c62153ba6f3be4c6133a72a8b7e3d889d27dd14795ee17bbea327f9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,27 @@ relationships:
   target: pt:dre:473894:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:473894:por
+  label: "Alterados os arts.117.º e o § 2.º do art. 118.º do Regulamento Geral do Serviço de Pilotagem das Barras e Portos\
+    \ do Continente e Ilhas Adjacentes, aprovado pelo Dec 41668 de 10-Jan de 1935, alterados pelo presente diploma, pelo DEC.461/74.16.09.1974.MDN,\
+    \ DG.IS [216] de 16.09.1974\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/461-1974-473894
+  date: '1974-09-16'
+- type: cites
+  target: pt:dre:353078:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:36Z'
   warnings: []
   errors: []
 ---
@@ -91,9 +102,9 @@ Tendo a experiência demonstrado a necessidade de actualizar algumas disposiçõ
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os preceitos legais abaixo indicados do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, e alterado pelos Decretos n.os 44223, de 7 de Março de 1962, 44319, de 30 de Abril de 1962, 44843, de 4 de Janeiro de 1963, 46653, de 19 de Novembro de 1965, e 47073, de 6 de Julho de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os preceitos legais abaixo indicados do Regulamento Geral dos Serviços de Pilotagem das Barras e Portos do Continente e das Ilhas Adjacentes, aprovado pelo [Decreto n.º 41668](https://diariodarepublica.pt/dr/detalhe/decreto/41668-1958-353078), de 7 de Junho de 1958, e alterado pelos Decretos n.os 44223, de 7 de Março de 1962, 44319, de 30 de Abril de 1962, 44843, de 4 de Janeiro de 1963, 46653, de 19 de Novembro de 1965, e 47073, de 6 de Julho de 1966, passam a ter a seguinte redacção:
 
-###### Art. 6.º ...
+Art. 6.º ...
 
 § 1.º Antes da prestação das provas práticas a aptidão física dos concorrentes é apreciada pela Junta de Recrutamento e Selecção da Direcção do Serviço do Pessoal ou por uma junta de saúde, militar ou civil, designada pelo director-geral dos Serviços de Fomento Marítimo.
 
@@ -103,25 +114,25 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 10.º A autorização para a abertura dos concursos e a nomeação dos respectivos júris são da competência do director-geral dos Serviços de Fomento Marítimo, bem como o provimento das vagas ocorridas nas corporações e secções locais.
+Art. 10.º A autorização para a abertura dos concursos e a nomeação dos respectivos júris são da competência do director-geral dos Serviços de Fomento Marítimo, bem como o provimento das vagas ocorridas nas corporações e secções locais.
 
-###### Art. 11.º ...
+Art. 11.º ...
 
 § 1.º Nos portos em que acidentalmente o capitão do porto não seja oficial de marinha, é o mesmo substituído por um oficial de marinha das capitanias limítrofes ou mais próximas.
 
 § 2.º Nos concursos para o preenchimento das vagas da Corporação de Pilotos do Douro e Leixões e da Secção de Pilotos de Faro e Olhão, o capitão do porto será substituído pelo chefe do departamento marítimo respectivo, que presidirá, e, para os concursos da Corporação do Douro e Leixões, o oficial de marinha pelo capitão do Porto de Leixões.
 
-###### Art. 12.º O júri classifica as provas práticas dos concorrentes por valores, em escala até 20, e, depois, em igualdade de valorização, deve atender às preferências estabelecidas pelo artigo 8.º Das reuniões do júri lavrar-se-ão actas, carecendo de homologação do director-geral dos Serviços de Fomento Marítimo as respeitantes à classificação final dos concorrentes.
+Art. 12.º O júri classifica as provas práticas dos concorrentes por valores, em escala até 20, e, depois, em igualdade de valorização, deve atender às preferências estabelecidas pelo artigo 8.º Das reuniões do júri lavrar-se-ão actas, carecendo de homologação do director-geral dos Serviços de Fomento Marítimo as respeitantes à classificação final dos concorrentes.
 
-###### Art. 13.º O provimento das vagas ocorridas nas corporações e secções locais será efectuado pela ordem da classificação dos concorrentes, que serão nomeados por alvará expedido e assinado pelo director-geral dos Serviços de Fomento Marítimo.
+Art. 13.º O provimento das vagas ocorridas nas corporações e secções locais será efectuado pela ordem da classificação dos concorrentes, que serão nomeados por alvará expedido e assinado pelo director-geral dos Serviços de Fomento Marítimo.
 
 ...
 
-###### Art. 16.º A admissão de ajudantes de escrivão e de escrivães faz-se por concurso documental, aberto na capitania do porto respectiva e a que são aplicáveis as normas gerais estabelecidas para os concursos de admissão aos quadros do funcionalismo público, devendo ser exigida aos candidatos a habilitação literária mínima do 2.º ciclo liceal ou equivalente.
+Art. 16.º A admissão de ajudantes de escrivão e de escrivães faz-se por concurso documental, aberto na capitania do porto respectiva e a que são aplicáveis as normas gerais estabelecidas para os concursos de admissão aos quadros do funcionalismo público, devendo ser exigida aos candidatos a habilitação literária mínima do 2.º ciclo liceal ou equivalente.
 
 § único. A admissão de escrivães só terá lugar quando não houver ajudantes de escrivão, nas condições do § 4.º do artigo 19.º, para preenchimento de vagas nas corporações locais.
 
-###### Art. 17.º ...
+Art. 17.º ...
 
 a) Ser já servidor da corporação local;
 
@@ -129,11 +140,11 @@ b) Ter menos idade;
 
 c) Haver servido na Armada.
 
-###### Art. 18.º No funcionamento e validade dos concursos de admissão de escrivães e ajudantes de escrivão e na forma de nomeação dos concorrentes aprovados deve observar-se, na parte aplicável, as disposições anteriormente estabelecidas para os pilotos, excepto quanto à apreciação das condições físicas dos candidatos, a qual sòmente deverá ser efectuada depois de ter sido autorizado o provimento, e quanto à constituição do júri, que é apenas composto pelo capitão do porto, por um oficial de marinha seu adjunto, ou por qualquer outro oficial de marinha, e pelo chefe da corporação local onde se der a vaga.
+Art. 18.º No funcionamento e validade dos concursos de admissão de escrivães e ajudantes de escrivão e na forma de nomeação dos concorrentes aprovados deve observar-se, na parte aplicável, as disposições anteriormente estabelecidas para os pilotos, excepto quanto à apreciação das condições físicas dos candidatos, a qual sòmente deverá ser efectuada depois de ter sido autorizado o provimento, e quanto à constituição do júri, que é apenas composto pelo capitão do porto, por um oficial de marinha seu adjunto, ou por qualquer outro oficial de marinha, e pelo chefe da corporação local onde se der a vaga.
 
 § único. Nos concursos para o preenchimento das vagas da Corporação de Pilotos do Douro e Leixões, o júri será constituído pelo chefe do Departamento Marítimo do Norte, que presidirá, e pelo capitão do Porto de Leixões e o piloto-mor da Corporação, que servirão de vogais.
 
-###### Art. 19.º As vagas de piloto-mor, sota-piloto-mor, cabo-piloto e escrivão são preenchidas nos termos dos parágrafos seguintes, por direito de acesso, concurso documental ou antiguidade, desde que se reconheça terem os interessados as condições mínimas necessárias ao desempenho dos cargos a preencher.
+Art. 19.º As vagas de piloto-mor, sota-piloto-mor, cabo-piloto e escrivão são preenchidas nos termos dos parágrafos seguintes, por direito de acesso, concurso documental ou antiguidade, desde que se reconheça terem os interessados as condições mínimas necessárias ao desempenho dos cargos a preencher.
 
 § 1.º A vaga de piloto-mor é preenchida pelo sota-piloto-mor, se houver só um, ou por concurso documental, aberto entre os sota-pilotos-mores, caso haja mais do que um. Nas corporações onde não haja sota-piloto-mor, a vaga de piloto-mor é preenchida pelo cabo piloto, se houver só um, ou por concurso documental, aberto entre os cabos pilotos, caso haja mais do que um.
 
@@ -143,7 +154,7 @@ c) Haver servido na Armada.
 
 § 4.º A vaga de escrivão é preenchida por ordem de antiguidade entre os ajudantes de escrivão que possuam a habilitação mínima do 2.º ciclo liceal ou outra considerada equivalente.
 
-###### Art. 20.º As condições de preferência para efeitos do artigo anterior, excepto no que se refere ao caso previsto no § 4.º, são, pela ordem da sua enumeração, as seguintes:
+Art. 20.º As condições de preferência para efeitos do artigo anterior, excepto no que se refere ao caso previsto no § 4.º, são, pela ordem da sua enumeração, as seguintes:
 
 a) Aptidão profissional e bom comportamento;
 
@@ -155,11 +166,11 @@ d) Habilitações literárias.
 
 § único. ...
 
-###### Art. 21.º No funcionamento e validade dos concursos e na forma de promoção dos concorrentes aprovados devem observar-se, na parte aplicável, as disposições anteriormente estabelecidas para os concursos de admissão, sendo a constituição do júri a prevista no artigo 18.º e seu § único.
+Art. 21.º No funcionamento e validade dos concursos e na forma de promoção dos concorrentes aprovados devem observar-se, na parte aplicável, as disposições anteriormente estabelecidas para os concursos de admissão, sendo a constituição do júri a prevista no artigo 18.º e seu § único.
 
 ...
 
-###### Art. 25.º ...
+Art. 25.º ...
 
 ...
 
@@ -169,7 +180,7 @@ d) Habilitações literárias.
 
 ...
 
-###### Art. 31.º ...
+Art. 31.º ...
 
 ...
 
@@ -177,7 +188,7 @@ d) Habilitações literárias.
 
 ...
 
-###### Art. 33.º ...
+Art. 33.º ...
 
 ...
 
@@ -185,7 +196,7 @@ d) Habilitações literárias.
 
 ...
 
-###### Art. 38.º Os distintivos são os seguintes:
+Art. 38.º Os distintivos são os seguintes:
 
 Piloto-mor - Duas âncoras cruzadas, bordadas a ouro, assentes numa rodela de pano azul-ferrete, colocadas em cada braço, logo acima da curva; três estrelas bordadas a ouro sobre pano azul-ferrete, dispostas nas mangas em diagonal e distantes entre si de 0,03 m, ficando a primeira à distância de 0,05 m do canhão;
 
@@ -201,7 +212,7 @@ Escrivão e ajudante de escrivão - Uma âncora cruzada com uma pena, ambas bord
 
 § único. ...
 
-###### Art. 39.º ...
+Art. 39.º ...
 
 § 1.º Além destes proventos, o pessoal incorporado e assalariado tem direito ao abono de família nos mesmos termos que vigorarem para o funcionalismo público.
 
@@ -209,7 +220,7 @@ Escrivão e ajudante de escrivão - Uma âncora cruzada com uma pena, ambas bord
 
 ...
 
-###### Art. 53.º A pensão de aposentação do pessoal determina-se pelas seguintes percentagens dos proventos que o aposentado receberia se estivesse no activo:
+Art. 53.º A pensão de aposentação do pessoal determina-se pelas seguintes percentagens dos proventos que o aposentado receberia se estivesse no activo:
 
 Com quinze a vinte anos de serviço - 60 por cento;
 
@@ -223,15 +234,15 @@ Com mais de trinta anos de serviço - 90 por cento, acrescido de 1 por cento por
 
 ...
 
-###### Art. 106.º As embarcações que, por qualquer circunstância, tenham de entrar ou sair dos portos à espia pagam 50 por cento da tabela A por cada dia ou fracção que durar a manobra.
+Art. 106.º As embarcações que, por qualquer circunstância, tenham de entrar ou sair dos portos à espia pagam 50 por cento da tabela A por cada dia ou fracção que durar a manobra.
 
 ...
 
-###### Art. 117.º A Corporação Geral dos Pilotos, considerada como um todo orgânicamente solidário, é dirigida e administrada por uma comissão que funciona na Direcção-Geral dos Serviços de Fomento Marítimo, denominada Comissão Central da Corporação Geral dos Pilotos, e que se compõe do director da Marinha Mercante, que servirá de presidente, dos chefes dos departamentos marítimos, ou de oficiais de marinha seus delegados, do secretário-tesoureiro do Conselho Administrativo da Direcção-Geral dos Serviços de Fomento Marítimo e dos dois pilotos-mores de Lisboa e do Douro e Leixões.
+Art. 117.º A Corporação Geral dos Pilotos, considerada como um todo orgânicamente solidário, é dirigida e administrada por uma comissão que funciona na Direcção-Geral dos Serviços de Fomento Marítimo, denominada Comissão Central da Corporação Geral dos Pilotos, e que se compõe do director da Marinha Mercante, que servirá de presidente, dos chefes dos departamentos marítimos, ou de oficiais de marinha seus delegados, do secretário-tesoureiro do Conselho Administrativo da Direcção-Geral dos Serviços de Fomento Marítimo e dos dois pilotos-mores de Lisboa e do Douro e Leixões.
 
 § único. Sempre que a Comissão Central da Corporação Geral dos Pilotos o julgue conveniente, poderá agregar capitães dos portos ou delegados das corporações ou secções locais.
 
-###### Art. 118.º ...
+Art. 118.º ...
 
 ...
 
@@ -239,7 +250,7 @@ Com mais de trinta anos de serviço - 90 por cento, acrescido de 1 por cento por
 
 ...
 
-###### Art. 122.º ...
+Art. 122.º ...
 
 ...
 
@@ -247,13 +258,13 @@ Com mais de trinta anos de serviço - 90 por cento, acrescido de 1 por cento por
 
 ...
 
-###### Art. 127.º ...
+Art. 127.º ...
 
 ...
 
 § 3.º Logo que seja criado o Cofre de Previdência do Pessoal Incorporado e Assalariado dos Serviços de Pilotagem, as corporações e secções locais de pilotos contribuirão para aquele Cofre com 2 por cento da receita proveniente de taxas de pilotagem por elas cobradas.
 
-###### Art. 128.º ...
+Art. 128.º ...
 
 1.º ...
 
@@ -269,45 +280,45 @@ h) Contribuição para o Cofre de Previdência do Pessoal Incorporado e Assalari
 
 ...
 
-###### Art. 133.º A Corporação tem três estações, dirigidas todas elas pelo piloto-mor, a primeira com sede na Capitania, a segunda com sede no Bom Sucesso e a terceira com sede a bordo de uma embarcação fora da barra, chefiadas, respectivamente, pelo piloto-mor, pelo sota-piloto-mor e por uma cabo piloto nomeado por escala.
+Art. 133.º A Corporação tem três estações, dirigidas todas elas pelo piloto-mor, a primeira com sede na Capitania, a segunda com sede no Bom Sucesso e a terceira com sede a bordo de uma embarcação fora da barra, chefiadas, respectivamente, pelo piloto-mor, pelo sota-piloto-mor e por uma cabo piloto nomeado por escala.
 
 ...
 
-###### Art. 139.º A Corporação tem duas estações, uma com sede na Foz do Douro e outra com sede em Leixões, ambas dirigidas pelo piloto-mor e cada uma delas chefiada, por escala, pelos sota-pilotos-mores.
+Art. 139.º A Corporação tem duas estações, uma com sede na Foz do Douro e outra com sede em Leixões, ambas dirigidas pelo piloto-mor e cada uma delas chefiada, por escala, pelos sota-pilotos-mores.
 
 § 1.º Os sota-pilotos-mores, além da competência que lhes é dada pelo artigo 27.º, têm, também, em relação às estações que chefiam, a definida no artigo 25.º, com excepção do disposto nos seus n.os 10.º e 11.º
 
 § 2.º O pessoal das duas estações está dentro dos respectivos portos, pronto a sair quando for necessário e as condições de tempo e mar o permitam.
 
-###### Art. 140.º O piloto-mor dividirá o pessoal incorporado pelas duas estações, podendo guarnecê-las, mediante prévia aprovação do chefe do Departamento Marítimo do Norte, segundo as escalas que forem mais apropriadas ao serviço.
+Art. 140.º O piloto-mor dividirá o pessoal incorporado pelas duas estações, podendo guarnecê-las, mediante prévia aprovação do chefe do Departamento Marítimo do Norte, segundo as escalas que forem mais apropriadas ao serviço.
 
-###### Art. 141.º Os pilotos que derem saída a embarcações que transitem do porto do Douro para Leixões ou vice-versa desempenhar-se-ão também dos serviços de entrada e completa amarração no outro porto.
+Art. 141.º Os pilotos que derem saída a embarcações que transitem do porto do Douro para Leixões ou vice-versa desempenhar-se-ão também dos serviços de entrada e completa amarração no outro porto.
 
-###### Art. 142.º A Corporação de Pilotos dará inteiro cumprimento às disposições regulamentares e especiais dos portos do Douro e Leixões.
+Art. 142.º A Corporação de Pilotos dará inteiro cumprimento às disposições regulamentares e especiais dos portos do Douro e Leixões.
 
-###### Art. 143.º Os serviços de pilotagem que não estejam previstos no presente diploma serão regulados pelo chefe do Departamento Marítimo do Norte, mediante proposta do piloto-mor.
+Art. 143.º Os serviços de pilotagem que não estejam previstos no presente diploma serão regulados pelo chefe do Departamento Marítimo do Norte, mediante proposta do piloto-mor.
 
-###### Art. 144.º Nas entradas e saídas do rio Douro, o piloto-mor ou sota-piloto-mor, ou quem as suas vezes fizer, assistirá ao movimento da barra em local próprio, donde fará os sinais previstos no artigo 100.º deste Regulamento.
+Art. 144.º Nas entradas e saídas do rio Douro, o piloto-mor ou sota-piloto-mor, ou quem as suas vezes fizer, assistirá ao movimento da barra em local próprio, donde fará os sinais previstos no artigo 100.º deste Regulamento.
 
-###### Art. 145.º Nenhuma embarcação pilotada pode meter à barra do Douro sem que esteja içado qualquer dos sinais apropriados referidos no artigo anterior.
+Art. 145.º Nenhuma embarcação pilotada pode meter à barra do Douro sem que esteja içado qualquer dos sinais apropriados referidos no artigo anterior.
 
-###### Art. 146.º As embarcações que fundearem, após a entrada no porto, antes de poderem atingir o local do destino, ou, na saída depois da largada, antes de passarem a barra, pagam, além do estabelecido na tabela A, mais um serviço de mudança pela tabela B; as que desamarrarem para sair e o não possam fazer, por qualquer motivo estranho ao serviço de pilotagem, pagam pela tabela B.
+Art. 146.º As embarcações que fundearem, após a entrada no porto, antes de poderem atingir o local do destino, ou, na saída depois da largada, antes de passarem a barra, pagam, além do estabelecido na tabela A, mais um serviço de mudança pela tabela B; as que desamarrarem para sair e o não possam fazer, por qualquer motivo estranho ao serviço de pilotagem, pagam pela tabela B.
 
-###### Art. 147.º As embarcações que entrarem em Leixões tão-sòmente para meter piloto ou receber a visita de saúde com o fim de seguirem para o rio Douro, desde que naquele porto se não demorem mais de duas horas, salvo motivo de força maior, ficam isentas do pagamento da taxa de pilotagem em Leixões.
+Art. 147.º As embarcações que entrarem em Leixões tão-sòmente para meter piloto ou receber a visita de saúde com o fim de seguirem para o rio Douro, desde que naquele porto se não demorem mais de duas horas, salvo motivo de força maior, ficam isentas do pagamento da taxa de pilotagem em Leixões.
 
-###### Art. 148.º As estações da Foz e de Leixões farão consultas entre si, sempre que as circunstâncias o aconselharem.
+Art. 148.º As estações da Foz e de Leixões farão consultas entre si, sempre que as circunstâncias o aconselharem.
 
-###### Art. 149.º A competência disciplinar sobre o pessoal da Corporação de Pilotos dos Portos do Douro e Leixões pertence ao chefe do Departamento Marítimo do Norte.
-
-...
-
-###### Art. 152.º A Corporação tem duas estações, uma com sede em Setúbal e outra com sede no Portinho da Arrábida, ambas dirigidas pelo piloto-mor, que acumulará com a chefia da primeira, sendo a segunda chefiada, por escala, por um dos cabos pilotos.
+Art. 149.º A competência disciplinar sobre o pessoal da Corporação de Pilotos dos Portos do Douro e Leixões pertence ao chefe do Departamento Marítimo do Norte.
 
 ...
 
-###### Art. 172.º A pilotagem de entrada ou saída na praia Formosa compreende o percurso entre as bóias de amarração de navios até uma distância não superior a três milhas das mesmas bóias.
+Art. 152.º A Corporação tem duas estações, uma com sede em Setúbal e outra com sede no Portinho da Arrábida, ambas dirigidas pelo piloto-mor, que acumulará com a chefia da primeira, sendo a segunda chefiada, por escala, por um dos cabos pilotos.
 
-###### Art. 173.º A pilotagem de entrada e saída no porto do Funchal e na praia Formosa é remunerada pela verba da tabela A.
+...
+
+Art. 172.º A pilotagem de entrada ou saída na praia Formosa compreende o percurso entre as bóias de amarração de navios até uma distância não superior a três milhas das mesmas bóias.
+
+Art. 173.º A pilotagem de entrada e saída no porto do Funchal e na praia Formosa é remunerada pela verba da tabela A.
 
 § 1.º Quando o serviço dos pilotos consistir apenas em indicar com uma embarcação o local onde os navios devem fundear, sem que os respectivos capitães tenham metido piloto a bordo, as verbas a cobrar serão as da tabela AA.
 
@@ -315,9 +326,9 @@ h) Contribuição para o Cofre de Previdência do Pessoal Incorporado e Assalari
 
 § 3.º As embarcações que escalem o porto do Funchal para meter combustíveis, mantimentos ou aguada, sem fazer qualquer operação comercial, beneficiam da redução de 50 por cento em todas as verbas das tabelas A, AA e B.
 
-###### Art. 2.º São eliminados no Regulamento referido no artigo anterior os artigos 171-A e 171-B.
+Art. 2.º São eliminados no Regulamento referido no artigo anterior os artigos 171-A e 171-B.
 
-###### Art. 3.º São substituídos no Regulamento referido no artigo 1.º as seguintes designações:
+Art. 3.º São substituídos no Regulamento referido no artigo 1.º as seguintes designações:
 
 a) Direcção-Geral da Marinha por Direcção-Geral dos Serviços de Fomento Marítimo;
 
@@ -327,8 +338,8 @@ c) Chefe do Departamento Marítimo dos Portos do Douro e Leixões por chefe do D
 
 Marcello Caetano - Manuel Pereira Crespo.
 
-**Promulgado em 18 de Julho de 1969.**
+Promulgado em 18 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 30 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

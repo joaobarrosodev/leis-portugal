@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48569-1968-265107
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:48Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4fb464c7b93be821415126c5b250797819923a840a2f421ccbcabdb4b89fdffc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c64f53ba27d8bc653ccfc01e8f9687822fcbd436bce4e41def750f5fc075a9ec
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:48Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:48Z'
   warnings: []
   errors: []
 ---
@@ -96,7 +96,7 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique a celebrar com a General Electric Company, de Nova Iorque, Estados Unidos da América, uma apostila ao contrato celebrado em 2 de Março de 1966, em regime de pagamentos diferidos, para o fornecimento de novo grupo de dezasseis locomotivas Diesel eléctricas Fas, Nova Iorque, Estados Unidos da América, no montante de escudos moçambicanos 100667037$00.
+Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique a celebrar com a General Electric Company, de Nova Iorque, Estados Unidos da América, uma apostila ao contrato celebrado em 2 de Março de 1966, em regime de pagamentos diferidos, para o fornecimento de novo grupo de dezasseis locomotivas Diesel eléctricas Fas, Nova Iorque, Estados Unidos da América, no montante de escudos moçambicanos 100667037$00.
 
 § 1.º Este montante será acrescido dos encargos eventualmente resultantes da revisão de preços nos termos contratuais.
 
@@ -108,9 +108,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º A Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique poderá proceder à liquidação antecipada, total ou parcial, do saldo em dívida.
 
-###### Art. 2.º Os pagamentos contratuais a efectuar à General Electric Company, de Nova Iorque, Estados Unidos da América, serão feitos em dólares dos Estados Unidos da América, sendo tais montantes em dólares, quer para os pagamentos iniciais, quer para os diferidos, fixados desde já nos montantes equivalentes a uma taxa de câmbio de escudos moçambicanos 29$11 por dólar dos Estados Unidos da América.
+Art. 2.º Os pagamentos contratuais a efectuar à General Electric Company, de Nova Iorque, Estados Unidos da América, serão feitos em dólares dos Estados Unidos da América, sendo tais montantes em dólares, quer para os pagamentos iniciais, quer para os diferidos, fixados desde já nos montantes equivalentes a uma taxa de câmbio de escudos moçambicanos 29$11 por dólar dos Estados Unidos da América.
 
-###### Art. 3.º Para a satisfação dos compromissos financeiros contratuais especificados nos artigos 2.º e 3.º, intervirá na operação, por conta da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique, o Banco Nacional Ultramarino.
+Art. 3.º Para a satisfação dos compromissos financeiros contratuais especificados nos artigos 2.º e 3.º, intervirá na operação, por conta da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique, o Banco Nacional Ultramarino.
 
 § 1.º A intervenção do Banco Nacional Ultramarino será regulada por acordo a celebrar separadamente, sendo da responsabilidade dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique todos os encargos consequentes da intervenção desse Banco.
 
@@ -122,13 +122,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º Serão da responsabilidade da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique todos os encargos resultantes da eventual variação de câmbio do dólar dos Estados Unidos da América, relativamente ao escudo moçambicano, durante o decorrer da operação e até ao integral reembolso das quantias devidas.
 
-###### Art. 4.º É autorizado o Governo-Geral da província de Moçambique a garantia, junto do Banco Nacional Ultramarino, as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique na execução da presente operação.
+Art. 4.º É autorizado o Governo-Geral da província de Moçambique a garantia, junto do Banco Nacional Ultramarino, as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique na execução da presente operação.
 
-###### Art. 5.º Todos os encargos resultantes da celebração do presente contrato constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco Nacional Ultramarino.
+Art. 5.º Todos os encargos resultantes da celebração do presente contrato constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco Nacional Ultramarino.
 
 § único. Os encargos a liquidar durante o corrente ano serão suportados pelo Fundo de Renovação e pelo Fundo de Melhoramentos do orçamento privativo da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Moçambique.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48445-1968-272040
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:52Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 66631ed66d4750258fa0fc9706c3c0b9511ece1c98eb10d51273906df38f519f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5189ee9c97c458e49fe27c4a875ac8e133a6d1fdea746ee1cd102a72f1b9de8e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:52Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:477374:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:577495:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:52Z'
   warnings: []
   errors: []
 ---
@@ -84,19 +96,19 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo único. É aprovado o Regulamento do Concurso de Admissão aos Lugares de Adido de Embaixada, a que se refere o artigo 43.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
+Artigo único. É aprovado o Regulamento do Concurso de Admissão aos Lugares de Adido de Embaixada, a que se refere o artigo 43.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966, e que baixa assinado pelo Ministro dos Negócios Estrangeiros.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 22 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira.
 
 REGULAMENTO DO CONCURSO DE ADMISSÃO AOS LUGARES DE ADIDO DE EMBAIXADA
 
-###### Artigo 1.º O concurso a que se refere o artigo 25.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966 (Lei Orgânica do Ministério dos Negócios Estrangeiros), será aberto por prazo não inferior a 30 dias, nem superior a 60 dias, a contar da publicação no Diário do Governo do respectivo aviso, que deverá ser assinado pelo secretário-geral do Ministério.
+Artigo 1.º O concurso a que se refere o artigo 25.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966 (Lei Orgânica do Ministério dos Negócios Estrangeiros), será aberto por prazo não inferior a 30 dias, nem superior a 60 dias, a contar da publicação no Diário do Governo do respectivo aviso, que deverá ser assinado pelo secretário-geral do Ministério.
 
 § único. O concurso realizar-se-á sempre que não haja candidatos aprovados em número suficiente para preenchimento das vagas existentes ou prováveis.
 
-###### Art. 2.º Só poderão apresentar-se a este concurso os candidatos nas condições previstas no citado artigo 25.º, os quais deverão entregar dentro do prazo marcado no aviso de abertura do concurso os requerimentos, acompanhados da seguinte documentação:
+Art. 2.º Só poderão apresentar-se a este concurso os candidatos nas condições previstas no citado artigo 25.º, os quais deverão entregar dentro do prazo marcado no aviso de abertura do concurso os requerimentos, acompanhados da seguinte documentação:
 
 1.º Certidão de idade de narrativa completa;
 
@@ -116,21 +128,21 @@ REGULAMENTO DO CONCURSO DE ADMISSÃO AOS LUGARES DE ADIDO DE EMBAIXADA
 
 9.º Facultativamente, quaisquer outros documentos que possam apresentar, comprovativos do seu mérito e aptidão.
 
-###### Art. 3.º Cabe a uma comissão de três membros do Conselho do Ministério, designados por este e presidida pelo secretário-geral, examinar os documentos apresentados pelos concorrentes e verificar, depois de uma prova de apresentação pessoal dos candidatos perante a referida comissão, se estes possuem as condições de virem a pertencer a carreira diplomática, só podendo ser admitidos ao concurso os requerentes que satisfaçam a essas condições.
+Art. 3.º Cabe a uma comissão de três membros do Conselho do Ministério, designados por este e presidida pelo secretário-geral, examinar os documentos apresentados pelos concorrentes e verificar, depois de uma prova de apresentação pessoal dos candidatos perante a referida comissão, se estes possuem as condições de virem a pertencer a carreira diplomática, só podendo ser admitidos ao concurso os requerentes que satisfaçam a essas condições.
 
-###### Art. 4.º Findo o prazo referido no artigo 1.º será organizada a lista dos candidatos e publicada no Diário do Governo.
+Art. 4.º Findo o prazo referido no artigo 1.º será organizada a lista dos candidatos e publicada no Diário do Governo.
 
 § único. A admissão não pode ser condicional e da exclusão não há recurso.
 
-###### Art. 5.º O júri do concurso será presidido pelo embaixador secretário-geral do Ministério ou por um ministro plenipotenciário de 1.ª classe em sua representação, e dele farão parte dois ministros plenipotenciários de 1.ª ou 2.ª classe, como vogais, e dois professores: um de uma das Faculdades de Direito e outro do Instituto Superior de Ciências Económicas e Financeiras ou do Instituto Superior de Ciências Sociais e Política Ultramarina, convidados pelo Ministro dos Negócios Estrangeiros, e que serão os arguentes.
+Art. 5.º O júri do concurso será presidido pelo embaixador secretário-geral do Ministério ou por um ministro plenipotenciário de 1.ª classe em sua representação, e dele farão parte dois ministros plenipotenciários de 1.ª ou 2.ª classe, como vogais, e dois professores: um de uma das Faculdades de Direito e outro do Instituto Superior de Ciências Económicas e Financeiras ou do Instituto Superior de Ciências Sociais e Política Ultramarina, convidados pelo Ministro dos Negócios Estrangeiros, e que serão os arguentes.
 
-###### Art. 6.º As matérias objecto do concurso são as constantes do programa anexo a este Regulamento.
+Art. 6.º As matérias objecto do concurso são as constantes do programa anexo a este Regulamento.
 
 § único. O Ministro poderá, em portaria, aprovar novo programa, mas este só poderá ser exigido em concursos abertos após seis meses da sua publicação.
 
-###### Art. 7.º O concurso constará de provas escritas e orais.
+Art. 7.º O concurso constará de provas escritas e orais.
 
-###### Art. 8.º As provas escritas realizar-se-ão nos dois primeiros dias e nelas deverão os concorrentes:
+Art. 8.º As provas escritas realizar-se-ão nos dois primeiros dias e nelas deverão os concorrentes:
 
 1.º Redigir em francês ou inglês, à sua escolha, uma nota, carta ou outro documento de caracter oficial, tirado a sorte;
 
@@ -142,17 +154,17 @@ REGULAMENTO DO CONCURSO DE ADMISSÃO AOS LUGARES DE ADIDO DE EMBAIXADA
 
 § único. No primeiro dia o candidato prestará às provas dos n.os 1.º, 2.º e 3.º, no prazo máximo de três horas, e no segundo dia fará a exposição escrita a que se refere o n.º 4.º no prazo máximo de quatro horas.
 
-###### Art. 9.º Na hora e dia destinados as provas escritas o ponto será tirado pelo primeiro concorrente na ordem alfabética e entregue ao presidente do júri, que o lerá em voz alta. O ponto ficará patente até ao encerramento dos trabalhos do dia para poder ser examinado por qualquer dos candidatos.
+Art. 9.º Na hora e dia destinados as provas escritas o ponto será tirado pelo primeiro concorrente na ordem alfabética e entregue ao presidente do júri, que o lerá em voz alta. O ponto ficará patente até ao encerramento dos trabalhos do dia para poder ser examinado por qualquer dos candidatos.
 
-###### Art. 10.º Depois de lido o ponto, os candidatos não poderão ter comunicação com pessoa alguma estranha ao acto do concurso, nem entre si. No primeiro dia de provas nenhum livro, documento ou processo poderá ser consultado, a não ser o dicionário português-inglês ou português-francês, conforme a língua escolhida para a prova de redacção em língua estrangeira; nenhum dicionário poderá ser usado para a prova de tradução de língua estrangeira para português. O júri deve providenciar para que no segundo dia de provas, em lugar apropriado da sala, se encontre a legislação ou outros textos oficiais precisos para consulta pelos candidatos; a estes é expressamente proibido servirem-se de quaisquer outros livros ou apontamentos.
+Art. 10.º Depois de lido o ponto, os candidatos não poderão ter comunicação com pessoa alguma estranha ao acto do concurso, nem entre si. No primeiro dia de provas nenhum livro, documento ou processo poderá ser consultado, a não ser o dicionário português-inglês ou português-francês, conforme a língua escolhida para a prova de redacção em língua estrangeira; nenhum dicionário poderá ser usado para a prova de tradução de língua estrangeira para português. O júri deve providenciar para que no segundo dia de provas, em lugar apropriado da sala, se encontre a legislação ou outros textos oficiais precisos para consulta pelos candidatos; a estes é expressamente proibido servirem-se de quaisquer outros livros ou apontamentos.
 
 § único. Os candidatos que infringirem as disposições deste artigo serão excluídos do concurso.
 
-###### Art. 11.º Findas as provas escritas e em dia ou dias fixados pelo júri, serão julgadas estas provas e valorizadas segundo a escala de 0 a 20. Só se consideram admitidos às provas orais os candidatos que obtiverem em cada prova pelo menos 10 valores.
+Art. 11.º Findas as provas escritas e em dia ou dias fixados pelo júri, serão julgadas estas provas e valorizadas segundo a escala de 0 a 20. Só se consideram admitidos às provas orais os candidatos que obtiverem em cada prova pelo menos 10 valores.
 
-###### Art. 12.º Em edital assinado pelo presidente do júri será afixada a lista dos candidatos admitidos às provas orais e serão indicados o dia e a hora em que começam estas provas.
+Art. 12.º Em edital assinado pelo presidente do júri será afixada a lista dos candidatos admitidos às provas orais e serão indicados o dia e a hora em que começam estas provas.
 
-###### Art. 13.º As provas orais constarão:
+Art. 13.º As provas orais constarão:
 
 1.º De uma exposição, durante meia hora, sobre um ponto tirado à sorte quatro horas antes, seguida de interrogatório, também durante meia hora;
 
@@ -164,19 +176,19 @@ REGULAMENTO DO CONCURSO DE ADMISSÃO AOS LUGARES DE ADIDO DE EMBAIXADA
 
 § 2.º As provas serão prestadas pela ordem alfabética dos candidatos admitidos.
 
-###### Art. 14.º Nas quatro horas que antecedem à prova oral a que se refere o n.º 1.º do artigo 13.º cada candidato ficará isolado numa sala, podendo durante esse tempo consultar qualquer livro ou apontamento que trouxer e utilizar para o mesmo efeito a biblioteca do Ministério.
+Art. 14.º Nas quatro horas que antecedem à prova oral a que se refere o n.º 1.º do artigo 13.º cada candidato ficará isolado numa sala, podendo durante esse tempo consultar qualquer livro ou apontamento que trouxer e utilizar para o mesmo efeito a biblioteca do Ministério.
 
-###### Art. 15.º A falta a qualquer acto do concurso, seja qual for o motivo, importa a imediata exclusão do candidato.
+Art. 15.º A falta a qualquer acto do concurso, seja qual for o motivo, importa a imediata exclusão do candidato.
 
-###### Art. 16.º A classificação final dos candidatos será feita pela média dos valores obtidos em cada uma das provas escritas e orais, segundo a escala de 0 a 20, ficando aprovados os que obtiverem, pelo menos, 10 valores.
+Art. 16.º A classificação final dos candidatos será feita pela média dos valores obtidos em cada uma das provas escritas e orais, segundo a escala de 0 a 20, ficando aprovados os que obtiverem, pelo menos, 10 valores.
 
 § único. Na classificação das provas escritas o júri atenderá de modo especial à redacção e aos conhecimentos revelados pelo candidato; na apreciação das provas orais tomará em conta as suas faculdades de exposição e argumentação.
 
-###### Art. 17.º O julgamento das provas será feito por votação motivada e nunca por escrutínio secreto.
+Art. 17.º O julgamento das provas será feito por votação motivada e nunca por escrutínio secreto.
 
-###### Art. 18.º Os nomes dos candidatos aprovados serão publicados com a respectiva classificação no Diário do Governo.
+Art. 18.º Os nomes dos candidatos aprovados serão publicados com a respectiva classificação no Diário do Governo.
 
-###### Art. 19.º As nomeações serão feitas por ordem da classificação, nos termos do artigo 26.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966 (Lei Orgânica do Ministério dos Negócios Estrangeiros).
+Art. 19.º As nomeações serão feitas por ordem da classificação, nos termos do artigo 26.º do [Decreto-Lei n.º 47331](https://diariodarepublica.pt/dr/detalhe/decreto-lei/47331-1966-477374), de 23 de Novembro de 1966 (Lei Orgânica do Ministério dos Negócios Estrangeiros).
 
 Ministério dos Negócios Estrangeiros, 22 de Junho de 1968. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira.
 

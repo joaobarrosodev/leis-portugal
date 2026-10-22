@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48064-1967-400851
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:37Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4c0ab5400babbdc35e60a8f0c5f8835c86443a4fb082e505b92dde4f34882866
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b0d40391523e67817c2a7330faff76925decb740c14f0a758f50264931bab1d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:37Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238459:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:686805:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:37Z'
   warnings: []
   errors: []
 ---
@@ -90,12 +98,12 @@ Considerando que é cada vez mais destacado o número de postos existentes e o d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Para auxílio dos encargos com a rede de postos costeiros radiotelefónicos instalados ou a instalar pelos organismos corporativos das pescas, o Ministro da Marinha poderá fixar por despacho, mediante proposta do delegado do Governo junto dos grémios dos armadores de pesca, os quantitativos e as condições de pagamento de uma avença a atribuir aos proprietários das embarcações de pesca dotadas de equipamentos radiotelefónicos.
+Artigo 1.º Para auxílio dos encargos com a rede de postos costeiros radiotelefónicos instalados ou a instalar pelos organismos corporativos das pescas, o Ministro da Marinha poderá fixar por despacho, mediante proposta do delegado do Governo junto dos grémios dos armadores de pesca, os quantitativos e as condições de pagamento de uma avença a atribuir aos proprietários das embarcações de pesca dotadas de equipamentos radiotelefónicos.
 
 § único. O pagamento da avença será feito ao Grémio dos Armadores da Pesca da Sardinha, que para este efeito representará todos os outros organismos interessados.
 
-###### Art. 2.º A falta de pagamento da avença implica a suspensão da actividade da respectiva embarcação até liquidação da importância em dívida.
+Art. 2.º A falta de pagamento da avença implica a suspensão da actividade da respectiva embarcação até liquidação da importância em dívida.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Quintanilha Mendonça Dias.

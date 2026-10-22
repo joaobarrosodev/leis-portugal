@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48733-1968-262811
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6d804a7ab6657f9e152843bb75d1d9a839baa6fbd9b39a061b22f8bad51ac99e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1e46a3d8ff609bb51f80bb33f00d8d91a0fb0e74f814d1706efe950895846acb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:273238:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 19
-  section_count: 32
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:08Z'
   warnings: []
   errors: []
 ---
@@ -89,7 +109,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -125,17 +145,17 @@ Do artigo 79.º, n.º 2) «Móveis» ... -9000$00
 
 Para o artigo 80.º, n.º 2) «De móveis» ... +9000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 43303099$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais, no montante de 43303099$00, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 2.º «Presidência do Conselho - Junta de Energia Nuclear»:
+Capítulo 2.º «Presidência do Conselho - Junta de Energia Nuclear»:
 
-###### Artigo 68.º, n.º 1) «Para pagamento dos encargos essenciais ...» ... 5000000$00
+Artigo 68.º, n.º 1) «Para pagamento dos encargos essenciais ...» ... 5000000$00
 
-### Capítulo 8.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
+Capítulo 8.º «Departamento da Defesa Nacional - Gabinete do Ministro»:
 
-###### Artigo 120.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal destacado de outros serviços do Estado»:
+Artigo 120.º «Remunerações certas ao pessoal em exercício», n.º 2) «Pessoal destacado de outros serviços do Estado»:
 
 (Durante quatro meses):
 
@@ -145,13 +165,13 @@ Encargos Gerais da Nação
 
 Ministério das Finanças
 
-### Capítulo 1.º «Encargos da dívida pública»:
+Capítulo 1.º «Encargos da dívida pública»:
 
-###### Artigo 7.º «Fundo de regularização da dívida pública», n.º 2), alínea 1 «Produto da remição de foros ...» ... 6000000$00
+Artigo 7.º «Fundo de regularização da dívida pública», n.º 2), alínea 1 «Produto da remição de foros ...» ... 6000000$00
 
-### Capítulo 5.º «Gabinete do Ministro»:
+Capítulo 5.º «Gabinete do Ministro»:
 
-###### Artigo 41.º, n.º 1) «De semoventes», alínea 1 «Veículos como motor»:
+Artigo 41.º, n.º 1) «De semoventes», alínea 1 «Veículos como motor»:
 
 Do Ministro ... 45000$00
 
@@ -159,53 +179,53 @@ Dos dois Subsecretários de Estado ... 95000$00
 
 ... 140000$00
 
-### Capítulo 13.º «Guarda Fiscal»:
+Capítulo 13.º «Guarda Fiscal»:
 
-###### Artigo 162.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 27000$00
+Artigo 162.º, n.º 2) «De semoventes», alínea 1 «Veículos com motor» ... 27000$00
 
 ... 6167000$00
 
 Ministério do Interior
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 9.º, n.º 1) «Gastos confidenciais ...» ... 3000000$00
+Artigo 9.º, n.º 1) «Gastos confidenciais ...» ... 3000000$00
 
 Ministério da Justiça
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 5.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 15000$00
+Artigo 5.º, n.º 1) «De semoventes», alínea 1 «Veículos com motor» ... 15000$00
 
-###### Artigo 7.º, n.º 1)«Luz, ...» ... 5000$00
+Artigo 7.º, n.º 1)«Luz, ...» ... 5000$00
 
-### Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Cadeia Central do Norte»:
+Capítulo 4.º «Direcção-Geral dos Serviços Prisionais - Cadeia Central do Norte»:
 
-###### Artigo 223.º, n.º 1) «Móveis» ... 1605$00
+Artigo 223.º, n.º 1) «Móveis» ... 1605$00
 
-### Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal do Porto»:
+Capítulo 7.º «Serviços médico-legais - Instituto de Medicina Legal do Porto»:
 
-###### Artigo 485.º, n.º 1) «Imóveis», alínea 1 «Prédios urbanos» ... 3500$00
+Artigo 485.º, n.º 1) «Imóveis», alínea 1 «Prédios urbanos» ... 3500$00
 
 ... 25105$00
 
 Ministério dos Negócios Estrangeiros
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços internos»:
+Capítulo 5.º «Direcção-Geral dos Serviços Centrais - Serviços internos»:
 
-###### Artigo 25.º, n.º 4) «Subsídios a cofres ...» ... 5500000$00
+Artigo 25.º, n.º 4) «Subsídios a cofres ...» ... 5500000$00
 
-### Capítulo 9.º «Despesas de anos económicos findos»:
+Capítulo 9.º «Despesas de anos económicos findos»:
 
-###### Artigo 40.º «Despesas de anos económicos findos» ... 23300000$00
+Artigo 40.º «Despesas de anos económicos findos» ... 23300000$00
 
 28800000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 4.º «Despesas de conservação ...»:
+Artigo 4.º «Despesas de conservação ...»:
 
 N.º 1), alínea 1 «Veículos com motor - Despesas com o automóvel do Ministro» ... 20000$00
 
@@ -215,93 +235,93 @@ N.º 2) «De móveis» ... 20000$00
 
 Ministério da Economia
 
-### Capítulo 25.º «III Plano de Fomento»:
+Capítulo 25.º «III Plano de Fomento»:
 
 Educação e investigação
 
-###### Artigo 353.º, n.º 1) «Fomento industrial, ...» ... 150000$00
+Artigo 353.º, n.º 1) «Fomento industrial, ...» ... 150000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º «Aeronáutica civil - Aeroporto da Madeira»:
+Capítulo 4.º «Aeronáutica civil - Aeroporto da Madeira»:
 
-###### Artigo 138.º, n.º 3) «Transportes» ... 20000$00
+Artigo 138.º, n.º 3) «Transportes» ... 20000$00
 
-### Capítulo 8.º «Junta Central de Portos»:
+Capítulo 8.º «Junta Central de Portos»:
 
-###### Artigo 163.º «Despesas com o pessoal» ... 52800$00
+Artigo 163.º «Despesas com o pessoal» ... 52800$00
 
-###### Artigo 165.º «Pagamento de serviços ...» ... 15694$00
+Artigo 165.º «Pagamento de serviços ...» ... 15694$00
 
 ... 88694$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 1.º «Gabinete do Ministro»:
+Capítulo 1.º «Gabinete do Ministro»:
 
-###### Artigo 9.º, n.º 2), alínea 3 «Para pagamento de encargos com recepções ...» ... 26500$00
+Artigo 9.º, n.º 2), alínea 3 «Para pagamento de encargos com recepções ...» ... 26500$00
 
 ... 43303099$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumentos de previsão de receitas e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 18.º «Taxa de salvação nacional» ... 27100000$00
+Capítulo 2.º, artigo 18.º «Taxa de salvação nacional» ... 27100000$00
 
-### Capítulo 2.º, artigo 20.º «Imposto de transacções» ... 5000000$00
+Capítulo 2.º, artigo 20.º «Imposto de transacções» ... 5000000$00
 
-### Capítulo 4.º, artigo 66.º «Diversas receitas não classificadas» ... 150000$00
+Capítulo 4.º, artigo 66.º «Diversas receitas não classificadas» ... 150000$00
 
-### Capítulo 7.º, artigo 199.º «Reembolso das despesas com a Junta Central de Portos (J. C. P.)» ... 68494$00
+Capítulo 7.º, artigo 199.º «Reembolso das despesas com a Junta Central de Portos (J. C. P.)» ... 68494$00
 
-### Capítulo 8.º, artigo 271.º «Remição de foros e venda de bens nacionais» ... 6000000$00
+Capítulo 8.º, artigo 271.º «Remição de foros e venda de bens nacionais» ... 6000000$00
 
 ... 38318494$00
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º, artigo 120.º, n.º 1) ... 6000$00
+Capítulo 8.º, artigo 120.º, n.º 1) ... 6000$00
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 3840000$00
+Capítulo 1.º, artigo 13.º ... 3840000$00
 
-### Capítulo 7.º, artigo 61.º, n.º 1) ... 1000000$00
+Capítulo 7.º, artigo 61.º, n.º 1) ... 1000000$00
 
-### Capítulo 13.º, artigo 157.º, n.º 1) ... 27000$00
+Capítulo 13.º, artigo 157.º, n.º 1) ... 27000$00
 
 ... 4867000$00
 
 Ministério da Justiça
 
-### Capítulo 4.º, artigo 224.º, n.º 1), alínea 2 ... 1605$00
+Capítulo 4.º, artigo 224.º, n.º 1), alínea 2 ... 1605$00
 
-### Capítulo 4.º, artigo 262.º, n.º 1) ...23500$00
+Capítulo 4.º, artigo 262.º, n.º 1) ...23500$00
 
 ... 25105$00
 
 Ministério da Educação Nacional
 
-### Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 40000$00
+Capítulo 2.º, artigo 23.º, n.º 3), alínea 6 ... 40000$00
 
 Ministério das Comunicações
 
-### Capítulo 4.º, artigo 130.º, n.º 1) ... 20000$00
+Capítulo 4.º, artigo 130.º, n.º 1) ... 20000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º, artigo 36.º, n.º 2) ... 11500$00
+Capítulo 2.º, artigo 36.º, n.º 2) ... 11500$00
 
-### Capítulo 5.º, artigo 71.º, n.º 1) ... 10000$00
+Capítulo 5.º, artigo 71.º, n.º 1) ... 10000$00
 
-### Capítulo 5.º, artigo 87.º, n.º 1) ... 5000$00
+Capítulo 5.º, artigo 87.º, n.º 1) ... 5000$00
 
 ... 26500$00
 
 ... 43303099$00
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica no orçamento de Encargos Gerais da Nação:
+Art. 4.º São autorizadas as seguintes alterações de rubrica no orçamento de Encargos Gerais da Nação:
 
 No capítulo 8.º:
 
@@ -349,8 +369,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 25 de Novembro de 1968.**
+Promulgado em 25 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 4 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

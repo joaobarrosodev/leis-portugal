@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48542-1968-265171
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc3b09542623527e8989a7825b7d36acbb57e4083bf4e40494694e231714b70d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 75d880e07da5c5c9ef35befeb69e7247fc5ae163842b600678f3f87bd944081c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537044:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:32Z'
   warnings: []
   errors: []
 ---
@@ -96,9 +108,9 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o Aeroporto de Lisboa abrangidos na planta anexa ao presente diploma e que dela faz parte integrante.
+Artigo 1.º Ficam sujeitos a servidão militar e aeronáutica os terrenos confinantes com o Aeroporto de Lisboa abrangidos na planta anexa ao presente diploma e que dela faz parte integrante.
 
-###### Art. 2.º A área sujeita a servidão compreende as seguintes zonas:
+Art. 2.º A área sujeita a servidão compreende as seguintes zonas:
 
 a) Zona 1 (zona de ocupação). - Área de terreno abrangida pelas instalações actuais do aeroporto e pelas necessárias ao cumprimento do plano director do seu desenvolvimento;
 
@@ -128,7 +140,7 @@ Sector 3A2. - Área de terreno delimitada por um arco de circunferência de 5100
 
 d) Zona 4 (2.ª zona de protecção). - Área de terreno, para além das zonas 1, 2, 3A, 3B, 3C e 3D, limitada exteriormente pelos segmentos que unem os pontos dados pelas seguintes coordenadas rectangulares com origem no ponto central (Melriça):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/20000/12251228.pdf))](https://files.diariodarepublica.pt/1s/1968/08/20000/12251228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/20000/12251228.pdf)
 
 e) Zona 5 (zona de protecção de radioajudas). - Área de terreno delimitada pela projecção vertical de duas semicircunferências horizontais de 2000 m de raio com centros nos pontos de coordenadas rectangulares com origem no ponto central (Melriça) M = - 88002 P = - 99989, M = - 83712 P = - 90051, circunferências estas concordadas por segmentos tangentes;
 
@@ -138,9 +150,9 @@ g) Zona 7 (superfície cónica de transição). - Área de terreno confinante co
 
 h) Zona 8 (plano horizontal exterior). - Área de terreno confinante com a zona 7 e delimitada pela projecção vertical de uma circunferência horizontal com raio de 15000 m e centro nos cruzamentos das pistas 03-21 e 18-36 (M = - 87140,92 P = - 97992,85, de coordenadas rectangulares referidas ao ponto central).
 
-###### Art. 3.º Ficam sujeitos a servidão geral, nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), os terrenos compreendidos nas zonas 1 e 2, nos sectores 3A, 3B, 3C e 3D da zona 3, e na zona 4.
+Art. 3.º Ficam sujeitos a servidão geral, nos termos do artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 4.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), os terrenos compreendidos nas zonas 1 e 2, nos sectores 3A, 3B, 3C e 3D da zona 3, e na zona 4.
 
-###### Art. 4.º Ficam sujeitos a servidão particular, de harmonia com o disposto no artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), os terrenos compreendidos nas zonas abaixo indicadas, carecendo de licença da Direcção-Geral da Aeronáutica Civil a execução dos trabalhos e actividades seguintes:
+Art. 4.º Ficam sujeitos a servidão particular, de harmonia com o disposto no artigo 10.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070) e do artigo 5.º do [Decreto-Lei n.º 45987](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45987-1964-537044), os terrenos compreendidos nas zonas abaixo indicadas, carecendo de licença da Direcção-Geral da Aeronáutica Civil a execução dos trabalhos e actividades seguintes:
 
 1.º Na zona 3:
 
@@ -168,26 +180,26 @@ c) Todas as construções, arborizações ou quaisquer outros obstáculos cuja d
 
 4.º Na zona 7, salvo na parte desta no enfiamento dos canais de operações, carecem de licença prévia da Direcção-Geral da Aeronáutica Civil as construções ou quaisquer outros obstáculos que ultrapassem as cotas definidas para a zona (cotas variáveis a 5 por cento entre 145 m e 245 m).
 
-###### Art. 5.º Nas zonas 1, 2, 3, 4 e 5 fica proibido, sem licença prévia da Direcção-Geral da Aeronáutica Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos de artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterarem as condições de visibilidade.
+Art. 5.º Nas zonas 1, 2, 3, 4 e 5 fica proibido, sem licença prévia da Direcção-Geral da Aeronáutica Civil, o lançamento para o ar de projécteis ou objectos susceptíveis de porem em risco a segurança da navegação aérea (incluindo fogos de artifício e outros), bem como a execução de todas as construções, instalações ou quaisquer actividades que possam conduzir à criação de interferências nas comunicações rádio avião-aeroporto ou produzir poeiras ou fumos susceptíveis de alterarem as condições de visibilidade.
 
-###### Art. 6.º Sem prejuízo do disposto nos artigos antecedentes, carecerá sempre de licença prévia da Direcção-Geral da Aeronáutica Civil qualquer construção, estrutura ou instalação, embora de carácter temporário, que, dentro de uma área circular com centro no ponto de cruzamento das duas pistas do aeroporto (M - 87140,92 e P - 97992,85 de coordenadas rectangulares referidas ao ponto central) e raio de 15000 m, atinja uma altura sobre o nível do solo superior a 30 m e ultrapasse a cota absoluta de 245 m, bem como as linhas aéreas de transporte de energia numa, área circular, concêntrica à anterior, com 8 km de raio.
+Art. 6.º Sem prejuízo do disposto nos artigos antecedentes, carecerá sempre de licença prévia da Direcção-Geral da Aeronáutica Civil qualquer construção, estrutura ou instalação, embora de carácter temporário, que, dentro de uma área circular com centro no ponto de cruzamento das duas pistas do aeroporto (M - 87140,92 e P - 97992,85 de coordenadas rectangulares referidas ao ponto central) e raio de 15000 m, atinja uma altura sobre o nível do solo superior a 30 m e ultrapasse a cota absoluta de 245 m, bem como as linhas aéreas de transporte de energia numa, área circular, concêntrica à anterior, com 8 km de raio.
 
-###### Art. 7.º Nas zonas 1, 2 e 4 e nos sectores 3A, 3B, 3C e 3D da zona 3, carecem também de licença prévia da Direcção-Geral da Aeronáutica Civil a construção de escolas, estabelecimentos de carácter hospitalar e recintos desportivos ou outros susceptíveis de conduzirem à aglomeração de grande público, e a afectação aos fins indicados de edifícios ou recintos existentes.
+Art. 7.º Nas zonas 1, 2 e 4 e nos sectores 3A, 3B, 3C e 3D da zona 3, carecem também de licença prévia da Direcção-Geral da Aeronáutica Civil a construção de escolas, estabelecimentos de carácter hospitalar e recintos desportivos ou outros susceptíveis de conduzirem à aglomeração de grande público, e a afectação aos fins indicados de edifícios ou recintos existentes.
 
-###### Art. 8.º - 1. Compete à Direcção-Geral da Aeronáutica Civil a fiscalização e licenciamento de trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
+Art. 8.º - 1. Compete à Direcção-Geral da Aeronáutica Civil a fiscalização e licenciamento de trabalhos nas zonas sujeitas a servidão, bem como ordenar a demolição de obras nos casos previstos na lei e aplicar administrativamente as multas pelas infracções verificadas.
 
 2. A Direcção-Geral da Aeronáutica Civil terá sempre em atenção os condicionamentos estabelecidos pelas autoridades militares, devendo consultar as mesmas em caso de dúvida.
 
-###### Art. 9.º - 1. As licenças previstas no presente diploma serão requeridas ao director-geral da Aeronáutica Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
+Art. 9.º - 1. As licenças previstas no presente diploma serão requeridas ao director-geral da Aeronáutica Civil, por intermédio das câmaras municipais respectivas, nos termos do disposto no artigo 8.º e seus parágrafos do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043), de 22 de Outubro de 1964.
 
 2. A planta de localização referida na alínea b) do § 1.º do artigo 8.º do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043) deverá ser à escala 1 : 5000, devidamente referenciada por coordenadas.
 
-###### Art. 10.º Das decisões tomadas pela Direcção-Geral da Aeronáutica Civil, quer relativamente à concessão de licenças para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Ministro das Comunicações.
+Art. 10.º Das decisões tomadas pela Direcção-Geral da Aeronáutica Civil, quer relativamente à concessão de licenças para a execução de trabalhos e outras actividades, quer ainda relativamente à demolição de obras, cabe recurso hierárquico para o Ministro das Comunicações.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 24 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Carlos Gomes da Silva Ribeiro - Fernando Alberto de Oliveira.
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/20000/12251228.pdf))](https://files.diariodarepublica.pt/1s/1968/08/20000/12251228.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/20000/12251228.pdf)
 
 Presidência do Conselho e Ministério das Comunicações, 24 de Agosto de 1968. - O Ministro da Defesa Nacional, Manuel Gomes de Araújo. - O Ministro das Comunicações, Carlos Gomes da Silva Ribeiro. - O Secretário de Estado da Aeronáutica, Fernando Alberto de Oliveira.

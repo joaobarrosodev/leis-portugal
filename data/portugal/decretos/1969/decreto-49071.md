@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49071-1969-199872
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94421bfa9a2c5925b6735bbd49a65f1ace77f64e24a11a00537a15c7375ebae9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b70f6ca7723813b16ab3546c7b763fa88f76a30ec7f43556a9ab3523ef89db4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 5
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:51Z'
   warnings: []
   errors: []
 ---
@@ -96,17 +112,17 @@ Considerando o que dispõe o § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado o celebrar, em nome do Estado e em representação da província de Angola, um contrato de concessão com uma sociedade a constituir, que se denominará Diamul - Companhia Ultramarina de Diamantes, S. A. R. L., para pesquisa e exploração de pedras preciosas, em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, fazem parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado o celebrar, em nome do Estado e em representação da província de Angola, um contrato de concessão com uma sociedade a constituir, que se denominará Diamul - Companhia Ultramarina de Diamantes, S. A. R. L., para pesquisa e exploração de pedras preciosas, em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, fazem parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de noventa dias, contados a partir da publicação deste decreto, devendo os seus estatutos ser prèviamente aprovados pelo Ministro do Ultramar.
+Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de noventa dias, contados a partir da publicação deste decreto, devendo os seus estatutos ser prèviamente aprovados pelo Ministro do Ultramar.
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Junho de 1969.**
+Promulgado em 4 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -526,7 +542,7 @@ BASE XXVII
 
 2. Quando para tal for notificada pelo Governo, a sociedade obrigar-se-á a fornecer as pedras preciosas da sua produção necessárias ao satisfatório abastecimento da indústria nacional, nas condições normais de mercado e em igualdade de circunstâncias com as restantes produtoras ultramarinas, tendo-se em atenção a qualidade das pedras preciosas produzidas e o volume das respectivas produções.
 
-### CAPITULO VI
+CAPITULO VI
 
 Disposições diversas
 

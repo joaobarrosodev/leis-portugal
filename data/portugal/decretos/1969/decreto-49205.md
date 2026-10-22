@@ -25,7 +25,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/08/19800/10721076.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -47,40 +47,91 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49205-1969-198681
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1980-07-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:55Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 74db621302cdc844d0d1c60b00f9893320e9ead05ea74c99fa61903a6cdf142b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 540e4ba08c144aa83b377d63cd2ed3ae9f9fc0c14197e0b40a8fdd737ccb876f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:55Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Controlo Sanitário
+- Diploma
+- Ensino Técnico Profissional
+- Estágio de Formação
+- Exame
+- Formação Profissional
+- Gratificação
+- Habilitações Literárias
+- Orientação Profissional
+- Pessoal Docente
+- Qualificação Profissional
+- Remuneração
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:471884:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:228671:por
+  label: "Alterados na parte indicada o art. 3º e o art. 44º pelo DEC.110/70.17.03.1970.MEN, DG.IS [64] de 17.03.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/110-1970-228671
+  date: '1970-03-17'
+- type: cites
+  target: pt:dre:233339:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:256621:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274641:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:384414:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:514074:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:527839:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:471884:por
+  label: "Revogado pelo DEC LEI.217/80.09.07.1980.MECI, DR.IS [156] de 09.07.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/217-1980-471884
+  date: '1980-07-09'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:55Z'
   warnings: []
   errors: []
 ---
@@ -93,9 +144,9 @@ Considerando que tal objectivo só pode eficazmente atingir-se pelo estabelecime
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A formação pedagógica dos professores do 1.º ao 11.º grupos das escolas técnicas profissionais industriais e comerciais continua a ser assegurada pela habilitação da secção de Ciências Pedagógicas das Faculdades de Letras e pelo exercício docente e estudos práticos realizados em estágio profissional durante um ano escolar completo, sob a direcção de professores metodólogos, ficando sujeita a verificação em Exame de Estado.
+Artigo 1.º A formação pedagógica dos professores do 1.º ao 11.º grupos das escolas técnicas profissionais industriais e comerciais continua a ser assegurada pela habilitação da secção de Ciências Pedagógicas das Faculdades de Letras e pelo exercício docente e estudos práticos realizados em estágio profissional durante um ano escolar completo, sob a direcção de professores metodólogos, ficando sujeita a verificação em Exame de Estado.
 
-###### Art. 2.º - 1. Para efeitos de formação pedagógica dos professores e de prestação de serviço docente, as disciplinas do ensino profissional industrial e comercial distribuem-se pelos seguintes grupos:
+Art. 2.º - 1. Para efeitos de formação pedagógica dos professores e de prestação de serviço docente, as disciplinas do ensino profissional industrial e comercial distribuem-se pelos seguintes grupos:
 
 1.º Matemáticas;
 
@@ -129,7 +180,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 2. Os professores do 2.º, do 4.º, do 8.º e do 11.º grupos não podem recusar a regência de qualquer das disciplinas compreendidas no seu grupo; os do 6.º grupo, a regência das disciplinas do 7.º; os do 7.º, a das disciplinas do 6.º; os dos grupos 9.º e 10.º, a da disciplina de Português, e todos, a daquelas para que o director da escola lhes reconheça competência.
 
-###### Art. 3.º Podem concorrer aos estágios pedagógicos os candidatos que, relativamente a cada grupo, a seguir vão indicados:
+Art. 3.º Podem concorrer aos estágios pedagógicos os candidatos que, relativamente a cada grupo, a seguir vão indicados:
 
 1.º grupo: Licenciados em Matemática Pura ou em Matemática Aplicada, em Física, em Ciências Geofísicas ou em Ciências Físico-Químicas, engenheiros geógrafos e bacharéis em Matemática ou em Física;
 
@@ -167,7 +218,7 @@ A - Licenciados e bacharéis em Geografia;
 
 B - Licenciados em Ciências Biológicas ou Ciências Geológicas e bacharéis em Biologia ou em Geologia.
 
-###### Art. 4.º - 1. O Ministro da Educação Nacional poderá, sob parecer da Junta Nacional da Educação, autorizar que, mediante prestação de provas, os estágios sejam frequentados por candidatos titulares de habilitações académicas que, embora diversas das exigidas pelo artigo anterior, possuam nível apropriado e sejam, para o efeito, declaradas suficientes.
+Art. 4.º - 1. O Ministro da Educação Nacional poderá, sob parecer da Junta Nacional da Educação, autorizar que, mediante prestação de provas, os estágios sejam frequentados por candidatos titulares de habilitações académicas que, embora diversas das exigidas pelo artigo anterior, possuam nível apropriado e sejam, para o efeito, declaradas suficientes.
 
 2. As provas a prestar serão indicadas no parecer e incidirão sobre as disciplinas do grupo em causa não compreendidas ou insuficientemente contempladas no curso ou habilitação académica que o interessado possuir.
 
@@ -177,13 +228,13 @@ B - Licenciados em Ciências Biológicas ou Ciências Geológicas e bacharéis e
 
 5. A classificação final obtida nas provas será publicada no Diário do Governo.
 
-###### Art. 5.º - 1. Poderão ingressar no estágio os oficiais das forças armadas com incapacidades físicas contraídas em serviço militar que os não impossibilitem para o magistério, desde que possuam habilitações reconhecidas para o efeito como suficientes.
+Art. 5.º - 1. Poderão ingressar no estágio os oficiais das forças armadas com incapacidades físicas contraídas em serviço militar que os não impossibilitem para o magistério, desde que possuam habilitações reconhecidas para o efeito como suficientes.
 
 2. A admissão destes candidatos fica sujeita ao regime estabelecido no artigo anterior, podendo, porém, quando tal se justifique, ser dispensada a prestação de provas.
 
-###### Art. 6.º Os estágios efectuam-se nas escolas para esse efeito designadas por despacho ministerial e o número de estagiários de um e de outro sexo a admitir anualmente em cada grupo e em cada escola é também fixado, mediante proposta do director-geral, por despacho ministerial, publicando-se no Diário do Governo, durante a segunda quinzena de Junho, o correspondente aviso.
+Art. 6.º Os estágios efectuam-se nas escolas para esse efeito designadas por despacho ministerial e o número de estagiários de um e de outro sexo a admitir anualmente em cada grupo e em cada escola é também fixado, mediante proposta do director-geral, por despacho ministerial, publicando-se no Diário do Governo, durante a segunda quinzena de Junho, o correspondente aviso.
 
-###### Art. 7.º - 1. Os estagiários serão admitidos por concurso documental, devendo a graduação dos candidatos de cada grupo ser feita em conjunto.
+Art. 7.º - 1. Os estagiários serão admitidos por concurso documental, devendo a graduação dos candidatos de cada grupo ser feita em conjunto.
 
 2. Na graduação dos candidatos considerar-se-ão, sucessivamente, como razões de preferência:
 
@@ -199,7 +250,7 @@ c) Aptidão documentada no processo curricular, quando este exista.
 
 5. A graduação dos candidatos será feita por um júri de três inspectores ou professores metodólogos, designados pelo director-geral.
 
-###### Art. 8.º - 1. A admissão será requerida ao director-geral pelos candidatos, até 31 de Julho.
+Art. 8.º - 1. A admissão será requerida ao director-geral pelos candidatos, até 31 de Julho.
 
 2. O requerimento conterá, além dos necessários elementos de identificação do candidato, a indicação da residência, do grupo e, por ordem de preferência, das escolas onde pretende frequentar o estágio.
 
@@ -231,13 +282,13 @@ j) Pelo processo curricular, quando exista.
 
 6. Os requerimentos e documentos podem ser enviados à Direcção-Geral, dentro do prazo, por intermédio dos estabelecimentos de ensino onde os candidatos se encontrem a prestar serviço, sendo feita, em tal caso, pela secretaria do estabelecimento a anotação a que se refere o n.º 4.
 
-###### Art. 9.º - 1. Os candidatos que satisfaçam às condições legais serão submetidos a uma junta de inspecção constituída por três médicos escolares a designar pelo director-geral da Educação Física, Desportos e Saúde Escolar.
+Art. 9.º - 1. Os candidatos que satisfaçam às condições legais serão submetidos a uma junta de inspecção constituída por três médicos escolares a designar pelo director-geral da Educação Física, Desportos e Saúde Escolar.
 
 2. As inspecções médicas realizar-se-ão nos estabelecimentos designados pelo director-geral do Ensino Técnico Profissional, ouvido o da Educação Física, Desportos e Saúde Escolar, e para elas serão convocados os candidatos, por escrito.
 
 3. Quando os estágios se realizem em mais de uma localidade, poderá constituir-se mais de uma junta médica.
 
-###### Art. 10.º - 1. À junta médica compete verificar se os candidatos apresentam deficiência orgânica incompatível com o exercício do magistério e possuem a robustez e as condições de saúde física e mental necessárias àquele exercício.
+Art. 10.º - 1. À junta médica compete verificar se os candidatos apresentam deficiência orgânica incompatível com o exercício do magistério e possuem a robustez e as condições de saúde física e mental necessárias àquele exercício.
 
 2. O parecer da junta, a enviar à Direcção-Geral do Ensino Técnico Profissional, concluirá obrigatòriamente pela admissão ou rejeição de cada um dos candidatos.
 
@@ -245,7 +296,7 @@ j) Pelo processo curricular, quando exista.
 
 4. Os candidatos que faltem à inspecção médica para que hajam sido convocados serão excluídos.
 
-###### Art. 11.º - 1. Até ao dia 15 de Setembro a Direcção-Geral fará publicar no Diário do Governo a lista dos candidatos admitidos em cada grupo e em cada escola, de acordo com o aviso a que se refere o artigo 6.º
+Art. 11.º - 1. Até ao dia 15 de Setembro a Direcção-Geral fará publicar no Diário do Governo a lista dos candidatos admitidos em cada grupo e em cada escola, de acordo com o aviso a que se refere o artigo 6.º
 
 2. Os candidatos efectuarão a sua matrícula nas escolas que lhes houverem sido destinadas, dentro dos oito dias posteriores à publicação da lista.
 
@@ -255,19 +306,19 @@ j) Pelo processo curricular, quando exista.
 
 5. A partir do acto da matrícula os estagiários ficam à disposição do director da escola e dos professores metodólogos para dar início às actividades do estágio.
 
-###### Art. 12.º Se, expirado o prazo estabelecido no n.º 2 do artigo anterior, algum ou alguns dos candidatos com direito à matrícula a não tiverem efectuado, cumpre às escolas informar do facto, no dia imediato, a Direcção-Geral, que, em sua substituição, convocará para o estágio igual número de candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 7.º
+Art. 12.º Se, expirado o prazo estabelecido no n.º 2 do artigo anterior, algum ou alguns dos candidatos com direito à matrícula a não tiverem efectuado, cumpre às escolas informar do facto, no dia imediato, a Direcção-Geral, que, em sua substituição, convocará para o estágio igual número de candidatos do respectivo grupo ainda não admitidos, pela ordem da graduação a que se refere o artigo 7.º
 
-###### Art. 13.º - 1. Os termos de matrícula dos estagiários serão lavrados em livro especial e dispostos por forma que em seguimento do termo de cada estagiário se possa fazer o registo das classificações pelo mesmo obtidas durante o estágio e lavrar o termo do Exame de Estado.
+Art. 13.º - 1. Os termos de matrícula dos estagiários serão lavrados em livro especial e dispostos por forma que em seguimento do termo de cada estagiário se possa fazer o registo das classificações pelo mesmo obtidas durante o estágio e lavrar o termo do Exame de Estado.
 
 2. Dos casos de desistência ou de perda de estágio por falta de assiduidade será também lavrado termo pelo conselho de metodólogos.
 
 3. Os livros a que se refere este artigo serão fornecidos pela Direcção-Geral e aí arquivados depois de completamente preenchidos.
 
-###### Art. 14.º A propina devida pela frequência do estágio é de 300$00, paga por meio de selo aposto no termo, em três prestações iguais: no acto da matrícula e no fim do primeiro e do segundo períodos escolares.
+Art. 14.º A propina devida pela frequência do estágio é de 300$00, paga por meio de selo aposto no termo, em três prestações iguais: no acto da matrícula e no fim do primeiro e do segundo períodos escolares.
 
-###### Art. 15.º A orientação superior dos estágios é da competência do director-geral, coadjuvado, para o efeito, pela Inspecção do Ensino Técnico Profissional. Nos diferentes grupos os estágios são dirigidos pelos respectivos professores metodólogos, cuja acção, no âmbito de cada escola, ao director cabe coordenar.
+Art. 15.º A orientação superior dos estágios é da competência do director-geral, coadjuvado, para o efeito, pela Inspecção do Ensino Técnico Profissional. Nos diferentes grupos os estágios são dirigidos pelos respectivos professores metodólogos, cuja acção, no âmbito de cada escola, ao director cabe coordenar.
 
-###### Art. 16.º - 1. Os professores metodólogos necessários à eficiente direcção dos estágios são nomeados em comissão pelo Ministro da Educação Nacional, de entre professores do respectivo grupo do ensino técnico, sob proposta do director-geral.
+Art. 16.º - 1. Os professores metodólogos necessários à eficiente direcção dos estágios são nomeados em comissão pelo Ministro da Educação Nacional, de entre professores do respectivo grupo do ensino técnico, sob proposta do director-geral.
 
 2. O cargo é exercido pelo período de cinco anos, renovável, dando direito à gratificação estabelecida por lei, e os professores nomeados, caso não pertençam ao quadro da escola onde se realizam os estágios, manterão o direito aos vencimentos do lugar do quadro que ocuparem.
 
@@ -275,7 +326,7 @@ j) Pelo processo curricular, quando exista.
 
 4. O serviço docente obrigatório de professor será reduzido, para os metodólogos, de quatro a dez horas, segundo for fixado, em cada caso, por despacho ministerial.
 
-###### Art. 17.º - 1. Os estágios terão finalidade essencialmente formativa e orientação predominantemente prática, compreendendo:
+Art. 17.º - 1. Os estágios terão finalidade essencialmente formativa e orientação predominantemente prática, compreendendo:
 
 a) Estudo e aplicação de métodos, processos e técnicas do ensino e aprendizagem das disciplinas do respectivo grupo;
 
@@ -289,17 +340,17 @@ e) Participação em actividades culturais complementares e de ar livre.
 
 2. Os estudos mencionados no número anterior e outros que interessem à formação profissional dos estagiários devem ser objecto de frequentes sessões de trabalho, e para elas serão convocados todos os professores em estágio na mesma localidade, aos quais os assuntos versados devam interessar.
 
-###### Art. 18.º - 1. Os professores metodólogos em exercício em cada escola constituem, sob a presidência do director, o conselho de metodólogos, ao qual compete elaborar, antes do início do ano lectivo, o plano das actividades dos estágios em funcionamento, tendo em vista a consecução integral das suas finalidades, e bem assim promover a execução do plano aprovado.
+Art. 18.º - 1. Os professores metodólogos em exercício em cada escola constituem, sob a presidência do director, o conselho de metodólogos, ao qual compete elaborar, antes do início do ano lectivo, o plano das actividades dos estágios em funcionamento, tendo em vista a consecução integral das suas finalidades, e bem assim promover a execução do plano aprovado.
 
 2. Nas localidades em que se realizem estágios em mais de uma escola, fazem parte do conselho, para a elaboração do plano de actividades comuns a todos os grupos, os directores e os professores metodólogos em exercício em todas essas escolas, cabendo ao director mais antigo convocar as reuniões e presidir a elas sempre que não esteja presente um inspector.
 
-###### Art. 19.º - 1. Cada estagiário é obrigado a leccionar todas as disciplinas do seu grupo que sejam ministradas na escola e, sempre que possível, em mais do que um ano dos cursos a que essas disciplinas pertençam, para o que poderá o respectivo professor metodólogo determinar que mude de turma no decurso do ano lectivo.
+Art. 19.º - 1. Cada estagiário é obrigado a leccionar todas as disciplinas do seu grupo que sejam ministradas na escola e, sempre que possível, em mais do que um ano dos cursos a que essas disciplinas pertençam, para o que poderá o respectivo professor metodólogo determinar que mude de turma no decurso do ano lectivo.
 
 2. O estagiário leccionará também as disciplinas mencionadas no n.º 2 do artigo 2.º relativamente ao seu grupo, sempre que o conselho de metodólogos assim o decida.
 
 3. As lições feitas pelos estagiários devem ser frequentemente apreciadas em conferência, sob a presidência do metodólogo, pelos estagiários do mesmo grupo que a elas hajam assistido.
 
-###### Art. 20.º - 1. Os estagiários gozarão do estatuto de professores provisórios.
+Art. 20.º - 1. Os estagiários gozarão do estatuto de professores provisórios.
 
 2. O serviço docente a prestar por cada estagiário fará parte integrante do respectivo estágio e será distribuído segundo as conveniências deste, não devendo, porém, exceder doze horas semanais.
 
@@ -311,9 +362,9 @@ e) Participação em actividades culturais complementares e de ar livre.
 
 6. Para conveniente execução do disposto nos n.os 2 e 3, cumpre aos professores metodólogos auxiliar os directores das escolas na organização das turmas e dos horários do serviço lectivo.
 
-###### Art. 21.º Não podem beneficiar do disposto no artigo anterior os estagiários que não tenham sido aprovados na primeira frequência, salvo se a repetição for motivada pela prestação de serviço militar obrigatório ou por doença verificada por junta médica nomeada nos termos do n.º 1 do artigo 9.º
+Art. 21.º Não podem beneficiar do disposto no artigo anterior os estagiários que não tenham sido aprovados na primeira frequência, salvo se a repetição for motivada pela prestação de serviço militar obrigatório ou por doença verificada por junta médica nomeada nos termos do n.º 1 do artigo 9.º
 
-###### Art. 22.º - 1. Cumpre ao estagiário desempenhar com perfeita assiduidade e pontualidade os serviços que lhe sejam confiados e realizar com diligência os estudos de que seja incumbido.
+Art. 22.º - 1. Cumpre ao estagiário desempenhar com perfeita assiduidade e pontualidade os serviços que lhe sejam confiados e realizar com diligência os estudos de que seja incumbido.
 
 2. Todas as faltas dos estagiários têm de ser justificadas perante o conselho de metodólogos, que poderá relevá-las até ao limite da competência legal do director para justificar as faltas dadas pelos professores.
 
@@ -321,7 +372,7 @@ e) Participação em actividades culturais complementares e de ar livre.
 
 4. Igualmente perde o direito à frequência o estagiário cujas faltas, ainda que justificadas, correspondam a mais de trinta dias.
 
-###### Art. 23.º - 1. Os processos curriculares dos estagiários devem ser constituídos pelos seguintes elementos, além de outros que cada situação particular justifique:
+Art. 23.º - 1. Os processos curriculares dos estagiários devem ser constituídos pelos seguintes elementos, além de outros que cada situação particular justifique:
 
 a) Curriculum vitae escolar e profissional;
 
@@ -337,27 +388,27 @@ f) Informações ou anotações especiais que os professores metodólogos e o di
 
 2. Os processos curriculares dos professores aprovados no Exame de Estado transitarão para as escolas onde prestarem serviço.
 
-###### Art. 24.º A frequência do estágio é incompatível com o exercício do ensino particular, sob pena de imediata exclusão dos infractores.
+Art. 24.º A frequência do estágio é incompatível com o exercício do ensino particular, sob pena de imediata exclusão dos infractores.
 
-###### Art. 25.º - 1. Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competentes ser autorizado o respectivo alojamento em residências universitárias.
+Art. 25.º - 1. Enquanto não funcionarem residências próprias para os estagiários ou a capacidade das mesmas se revelar insuficiente, poderá pelas entidades competentes ser autorizado o respectivo alojamento em residências universitárias.
 
 2. Na metrópole os estagiários ficarão, relativamente ao alojamento em residências universitárias, sujeitos ao regime geral aplicável aos estudantes, com excepção das condições incluídas nas alíneas c) e d) do n.º 1 do artigo 33.º do [Decreto-Lei n.º 46834](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46834-1966-233339), de 11 de Janeiro de 1966, e dos demais preceitos incompatíveis com a natureza da sua situação.
 
-###### Art. 26.º - 1. Após o encerramento das actividades escolares, o conselho de metodólogos, depois de apreciar em conferência as provas de aproveitamento dadas pelos estagiários, procederá a sua classificação, atribuindo a cada um uma nota única da escala geral de 0 a 20 valores.
+Art. 26.º - 1. Após o encerramento das actividades escolares, o conselho de metodólogos, depois de apreciar em conferência as provas de aproveitamento dadas pelos estagiários, procederá a sua classificação, atribuindo a cada um uma nota única da escala geral de 0 a 20 valores.
 
 2. Serão dados como aprovados os estagiários que obtiverem a classificação de 10 valores ou superior.
 
 3. As classificações dos estagiários aprovados serão anunciadas na escola e comunicadas à Direcção-Geral, que as fará publicar no Diário do Governo.
 
-###### Art. 27.º Os estagiários duas vezes eliminados nos termos do artigo anterior não podem ser admitidos de novo à frequência do estágio.
+Art. 27.º Os estagiários duas vezes eliminados nos termos do artigo anterior não podem ser admitidos de novo à frequência do estágio.
 
-###### Art. 28.º - 1. Os estagiários aprovados na frequência podem ser submetidos a Exame de Estado, para o que deverão apresentar os seus requerimentos nas escolas, de 1 a 15 de Setembro do ano em que concluírem o estágio ou em igual prazo do ano seguinte.
+Art. 28.º - 1. Os estagiários aprovados na frequência podem ser submetidos a Exame de Estado, para o que deverão apresentar os seus requerimentos nas escolas, de 1 a 15 de Setembro do ano em que concluírem o estágio ou em igual prazo do ano seguinte.
 
 2. Em cada requerimento será colado e inutilizado com a assinatura do candidato um selo fiscal de 100$00.
 
 3. As provas dos Exames de Estado realizar-se-ão no decurso dos meses de Novembro e Dezembro.
 
-###### Art. 29.º - 1. Podem requerer o Exame de Estado com dispensa de frequência do estágio:
+Art. 29.º - 1. Podem requerer o Exame de Estado com dispensa de frequência do estágio:
 
 a) Os professores extraordinários que satisfaçam as condições fixadas no artigo 17.º do [Decreto-Lei n.º 48807](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48807-1968-256621), de 28 de Dezembro de 1968;
 
@@ -375,7 +426,7 @@ g) Tratando-se dos grupos 2.º, 3.º, 4.º e 6.º, os candidatos que, possuindo 
 
 2. Os candidatos a que se refere o número anterior só poderão ser admitidos ao Exame de Estado quando habilitados com a secção de Ciências Pedagógicas.
 
-###### Art. 30.º - 1. A admissão ao Exame de Estado nos termos do artigo anterior é requerida ao director-geral do Ensino Técnico Profissional de 1 a 20 de Julho de cada ano e os candidatos juntarão ao requerimento documentos comprovativos:
+Art. 30.º - 1. A admissão ao Exame de Estado nos termos do artigo anterior é requerida ao director-geral do Ensino Técnico Profissional de 1 a 20 de Julho de cada ano e os candidatos juntarão ao requerimento documentos comprovativos:
 
 a) Da habilitação legalmente exigida para a matrícula no estágio do grupo a que respeitar o exame;
 
@@ -385,15 +436,15 @@ b) Da actividade profissional exercida e da qualificação que lhe haja sido atr
 
 3. Um dos exemplares da dissertação será arquivado na Direcção-Geral.
 
-###### Art. 31.º - 1. As dissertações dos candidatos admitidos serão objecto de prévia apreciação do júri do respectivo Exame de Estado, o qual, tomando como base o parecer do vogal especialmente encarregado de proceder ao exame de cada uma delas, as aceitará ou rejeitará.
+Art. 31.º - 1. As dissertações dos candidatos admitidos serão objecto de prévia apreciação do júri do respectivo Exame de Estado, o qual, tomando como base o parecer do vogal especialmente encarregado de proceder ao exame de cada uma delas, as aceitará ou rejeitará.
 
 2. Da decisão não haverá recurso e não poderá ser submetido às provas o candidato cuja dissertação não for aceite.
 
 3. A decisão do júri será comunicada ao candidato até 15 de Outubro.
 
-###### Art. 32.º Os candidatos cujas dissertações sejam aceites só poderão iniciar as provas depois de serem dados como aptos na inspecção médica a que se refere o artigo 10.º
+Art. 32.º Os candidatos cujas dissertações sejam aceites só poderão iniciar as provas depois de serem dados como aptos na inspecção médica a que se refere o artigo 10.º
 
-###### Art. 33.º - 1. Os júris dos Exames de Estado são nomeados por portaria e constituídos por cinco membros: um inspector do Ensino Técnico Profissional ou um vogal da Junta Nacional da Educação, que presidirá, os professores metodólogos do grupo e, se necessário, outros professores também do grupo.
+Art. 33.º - 1. Os júris dos Exames de Estado são nomeados por portaria e constituídos por cinco membros: um inspector do Ensino Técnico Profissional ou um vogal da Junta Nacional da Educação, que presidirá, os professores metodólogos do grupo e, se necessário, outros professores também do grupo.
 
 2. O Ministro da Educação Nacional pode determinar que tenham constituição especial os júris dos Exames de Estado requeridos nos termos do artigo 29.º
 
@@ -401,7 +452,7 @@ b) Da actividade profissional exercida e da qualificação que lhe haja sido atr
 
 4. Serão presentes ao júri os processos curriculares dos examinados.
 
-###### Art. 34.º - 1. As provas do Exame de Estado são as seguintes:
+Art. 34.º - 1. As provas do Exame de Estado são as seguintes:
 
 a) Prova escrita sobre os métodos de ensino de um ponto dado do programa de qualquer disciplina do grupo (duas horas);
 
@@ -419,7 +470,7 @@ c) Lição dada a uma turma de alunos do ensino profissional.
 
 6. Terminada a lição, e fora da presença dos alunos, realizar-se-á a apreciação da prova (meia hora).
 
-###### Art. 35.º - 1. O Exame de Estado dos candidatos dispensados de estágio terá constituição especial, compreendendo:
+Art. 35.º - 1. O Exame de Estado dos candidatos dispensados de estágio terá constituição especial, compreendendo:
 
 a) Apresentação e discussão de uma dissertação da autoria do candidato, original na concepção e na forma, sobre tema de pedagogia ou de didáctica do respectivo grupo;
 
@@ -429,13 +480,13 @@ b) Uma segunda lição a alunos.
 
 3. Relativamente a cada candidato, as provas das alíneas a) e b) do n.º 1 do artigo anterior não poderão versar a matéria escolhida para dissertação.
 
-###### Art. 36.º - 1. A cada prova será atribuída pelo júri, em conferência, uma nota da escala geral de 0 a 20 valores, sendo eliminados os candidatos que tiverem em qualquer prova menos de 10 valores.
+Art. 36.º - 1. A cada prova será atribuída pelo júri, em conferência, uma nota da escala geral de 0 a 20 valores, sendo eliminados os candidatos que tiverem em qualquer prova menos de 10 valores.
 
 2. A classificação do Exame de Estado de cada candidato será a média ponderada das notas relativas a cada prova.
 
 3. Serão publicadas na escola as classificações dos candidatos aprovados.
 
-###### Art. 37.º - 1. Findos os Exames de Estado, cada júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média aproximada às décimas, das classificações seguintes, atribuindo-se a cada uma delas o coeficiente indicado:
+Art. 37.º - 1. Findos os Exames de Estado, cada júri procederá ao cálculo da classificação profissional dos candidatos aprovados, a qual será a média aproximada às décimas, das classificações seguintes, atribuindo-se a cada uma delas o coeficiente indicado:
 
 a) Classificação de ingresso no estágio - coeficiente 2;
 
@@ -447,40 +498,40 @@ d) Classificação do Exame de Estado - coeficiente 2.
 
 2. Para os candidatos admitidos ao Exame de Estado com dispensa do estágio, a classificação referida na alínea c) do número anterior será substituída pela classificação da dissertação.
 
-###### Art. 38 - 1. De todas as sessões dos júris, cujo serviço é rigorosamente confidencial, se lavrarão actas, que, depois de aprovadas, serão assinadas e no final enviadas à Direcção-Geral.
+Art. 38 - 1. De todas as sessões dos júris, cujo serviço é rigorosamente confidencial, se lavrarão actas, que, depois de aprovadas, serão assinadas e no final enviadas à Direcção-Geral.
 
 2. A Direcção-Geral fará publicar no Diário do Governo as classificações obtidas no Exame de Estado pelos candidatos aprovados e as correspondentes classificações profissionais.
 
-###### Art. 39.º Cada um dos membros dos júris dos Exames de Estado tem direito à gratificação de 100$00 por cada candidato que preste provas e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo quando tiverem lugar.
+Art. 39.º Cada um dos membros dos júris dos Exames de Estado tem direito à gratificação de 100$00 por cada candidato que preste provas e ao abono das despesas de transporte em 1.ª classe e de ajudas de custo quando tiverem lugar.
 
-###### Art. 40 - 1. A aprovação no Exame de Estado confere direito ao título de professor agregado do ensino técnico profissional e à passagem, pela Direcção-Geral, do correspondente diploma, que será assinado pelo chefe da Repartição dos Serviços Pedagógicos e pelo director-geral e no qual será inscrita a classificação profissional do interessado.
+Art. 40 - 1. A aprovação no Exame de Estado confere direito ao título de professor agregado do ensino técnico profissional e à passagem, pela Direcção-Geral, do correspondente diploma, que será assinado pelo chefe da Repartição dos Serviços Pedagógicos e pelo director-geral e no qual será inscrita a classificação profissional do interessado.
 
 2. Em cada diploma serão colocados e inutilizados selos fiscais no valor de 750$00.
 
-###### Art. 41 - 1. Os professores aprovados em Exame de Estado podem repetir uma vez, sem dependência de novo estágio, as provas desse exame, para o que deverão requerer na época própria, nos termos do presente diploma.
+Art. 41 - 1. Os professores aprovados em Exame de Estado podem repetir uma vez, sem dependência de novo estágio, as provas desse exame, para o que deverão requerer na época própria, nos termos do presente diploma.
 
 2. Das duas classificações obtidas prevalecerá a mais elevada, podendo ser passado aos interessados novo diploma.
 
-###### Art. 42.º - 1. Em ligação com os estágios regulados pelo presente diploma poderão ser organizados estágios complementares de especialização pedagógica cujos programas e regime de funcionamento serão estabelecidos, caso a caso, por despacho ministerial.
+Art. 42.º - 1. Em ligação com os estágios regulados pelo presente diploma poderão ser organizados estágios complementares de especialização pedagógica cujos programas e regime de funcionamento serão estabelecidos, caso a caso, por despacho ministerial.
 
 2. Os estágios a que se refere o número anterior serão dirigidos por professores metodólogos a nomear nas condições previstas para a direcção dos estágios normais.
 
 3. Em nomeações para cargos directivos na administração escolar, a frequência com aproveitamento dos correspondentes estágios complementares será motivo de preferência.
 
-###### Art. 43.º - 1. Os actuais professores efectivos dos grupos 2.º, 4.º, 8.º e 11.º e os habilitados com o correspondente Exame de Estado podem, a todo o tempo, optar por um dos respectivos subgrupos, no qual, a partir desse momento, serão definitivamente integrados.
+Art. 43.º - 1. Os actuais professores efectivos dos grupos 2.º, 4.º, 8.º e 11.º e os habilitados com o correspondente Exame de Estado podem, a todo o tempo, optar por um dos respectivos subgrupos, no qual, a partir desse momento, serão definitivamente integrados.
 
 2. Para efeito de futuros provimentos, os lugares vagos dos grupos 2.º, 4.º, 8.º e 11.º no quadro de cada escola serão atribuídos, mediante despacho ministerial, aos respectivos subgrupos, em correspondência com as necessidades do ensino ministrado.
 
-###### Art. 44.º Os actuais professores com a habilitação do Exame de Estado para o 1.º grupo que sejam licenciados em Ciências Físico-Químicas podem requerer o provimento em lugares do 4.º grupo-A, envolvendo a nomeação a sua transferência definitiva para esse grupo.
+Art. 44.º Os actuais professores com a habilitação do Exame de Estado para o 1.º grupo que sejam licenciados em Ciências Físico-Químicas podem requerer o provimento em lugares do 4.º grupo-A, envolvendo a nomeação a sua transferência definitiva para esse grupo.
 
-###### Art. 45.º Ficam revogados o capítulo XV do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e o artigo 2.º do [Decreto n.º 43231](https://diariodarepublica.pt/dr/detalhe/decreto/43231-1960-514074), de 14 de Outubro de 1960.
+Art. 45.º Ficam revogados o capítulo XV do [Decreto n.º 37029](https://diariodarepublica.pt/dr/detalhe/decreto/37029-1948-384414), de 25 de Agosto de 1948, e o artigo 2.º do [Decreto n.º 43231](https://diariodarepublica.pt/dr/detalhe/decreto/43231-1960-514074), de 14 de Outubro de 1960.
 
-###### Art. 46.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional.
+Art. 46.º As dúvidas que se suscitarem na execução do presente diploma serão resolvidas por despacho do Ministro da Educação Nacional.
 
 Marcello Caetano - José Hermano Saraiva.
 
-**Promulgado em 1 de Agosto de 1969.**
+Promulgado em 1 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 25 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

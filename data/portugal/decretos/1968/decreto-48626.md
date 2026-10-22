@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48626-1968-264098
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19ddcb07fe3b74ad14a75e1d1bf46189a1890094b9375ec2a400327e9904e437
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 5d7a7237e2943cc1a0a977e1b0a46d511916c89347d1370ae9c1ed93fb153ac8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:387837:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:643762:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:19Z'
   warnings: []
   errors: []
 ---
@@ -92,14 +100,14 @@ Considerando que o [Decreto n.º 47986](https://diariodarepublica.pt/dr/detalhe/
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A organização do curso superior de Economia professado na Faculdade de Economia da Universidade do Porto passa a ser a seguinte:
+Artigo 1.º A organização do curso superior de Economia professado na Faculdade de Economia da Universidade do Porto passa a ser a seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15521553.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15521553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15521553.pdf)
 
-###### Art. 2.º Não são consentidas inscrições que não respeitem a seguinte tabela de precedências:
+Art. 2.º Não são consentidas inscrições que não respeitem a seguinte tabela de precedências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15521553.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15521553.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15521553.pdf)
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1968.- AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - José Hermano Saraiva.

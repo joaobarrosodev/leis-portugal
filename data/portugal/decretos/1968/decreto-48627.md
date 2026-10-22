@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48627-1968-264099
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1978-05-31T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5671bb504ed145ecc555f855b801d4ce055fc12cc031449a6f48723eaff17815
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: f157c0580de366c52c9532ece589f7ff282c00a6510b096095a3366f2e34ffce
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,16 +70,35 @@ relationships:
   target: pt:dre:294565:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:294565:por
+  label: Extinto o bacharelato, no âmbito das Faculdades de Letras, a partir do fim do ano escolar de 1978-1979, e no das
+    outras instituições universitárias com ensino de Letras, a partir do fim do ano escolar de 1979-1980 pelo(a) Decreto n.º
+    53/78 - Diário da República n.º 124/1978, Série I de 1978-05-31
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/53-1978-294565
+  date: '1978-05-31'
+- type: cites
+  target: pt:dre:252466:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:265329:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:532624:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:21Z'
   warnings: []
   errors: []
 ---
@@ -98,33 +117,33 @@ Considerando que o mesmo sistema torna possível melhorar as condições de prep
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os planos dos cursos correspondentes aos diversos bacharelatos e licenciaturas das Faculdades de Letras são os seguintes:
+Artigo 1.º Os planos dos cursos correspondentes aos diversos bacharelatos e licenciaturas das Faculdades de Letras são os seguintes:
 
 Filologia Clássica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
 Filologia Romântica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
 Filologia Germânica
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
 História
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
 Geografia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
 Filosofia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
-###### Art. 2.º As disciplinas de opção serão escolhidas pelos alunos do entre as incluídas nos seguintes quadros:
+Art. 2.º As disciplinas de opção serão escolhidas pelos alunos do entre as incluídas nos seguintes quadros:
 
 Para a licenciatura em Filologia Clássica:
 
@@ -370,21 +389,21 @@ Etnologia Geral.
 
 § único. Os quadros constantes deste artigo podem ser alterados por despacho do Ministro da Educação Nacional, sob parecer favorável da Junta Nacional da Educação.
 
-###### Art. 3.º Salvo as excepções impostas pelos planos dos cursos e pelos quadros das disciplinas de opção, não são consentidas inscrições que não respeitem a seguinte tabela de precedências:
+Art. 3.º Salvo as excepções impostas pelos planos dos cursos e pelos quadros das disciplinas de opção, não são consentidas inscrições que não respeitem a seguinte tabela de precedências:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf))](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/10/24100/15531556.pdf)
 
 § único. Relativamente às disciplinas bienais ou trienais, as inscrições na segunda ou terceira parte dependem do aproveitamento na frequência da primeira ou segunda, ressalvadas as excepções impostas pelos próprios planos dos cursos e pelos quadros das disciplinas de opção.
 
-###### Art. 4.º O grau de bacharel corresponde à aprovação nos três primeiros anos dos planos definidos no artigo 1.º
+Art. 4.º O grau de bacharel corresponde à aprovação nos três primeiros anos dos planos definidos no artigo 1.º
 
-###### Art. 5.º A informação final do bacharelato é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo.
+Art. 5.º A informação final do bacharelato é votada pelo conselho escolar, com base nas classificações obtidas nas diferentes disciplinas, especialmente nas do grupo respectivo.
 
 § único. O critério uniforme a seguir pelas Faculdades de Letras para a determinação da informação final do bacharelato será fixado por despacho ministerial, depois de ouvidos os conselhos escolares.
 
-###### Art. 6.º O diploma de bacharel será passado de harmonia com o modelo a aprovar pelo Ministro da Educação Nacional.
+Art. 6.º O diploma de bacharel será passado de harmonia com o modelo a aprovar pelo Ministro da Educação Nacional.
 
-###### Art. 7.º O bacharelato constitui habilitação académica suficiente para:
+Art. 7.º O bacharelato constitui habilitação académica suficiente para:
 
 a) Admissão ao estágio de preparação de professores do ensino liceal, nos termos definidos pela legislação respectiva para as correspondentes licenciaturas;
 
@@ -396,12 +415,12 @@ d) Obtenção dos diplomas para o ensino particular, a que se refere o n.º 1 e 
 
 e) Provimento nos cargos públicos que forem designados por despacho do Ministro da Educação Nacional, proferido sob parecer da Junta Nacional da Educação depois de ouvidos os serviços interessados.
 
-###### Art. 8.º Sempre que ao mesmo cargo público concorrerem doutores, licenciados e bacharéis em Letras, os primeiros terão preferência sobre os restantes e os segundos sobre os últimos.
+Art. 8.º Sempre que ao mesmo cargo público concorrerem doutores, licenciados e bacharéis em Letras, os primeiros terão preferência sobre os restantes e os segundos sobre os últimos.
 
-###### Art. 9.º A Direcção-Geral do Ensino Superior e das Belas-Artes estabelecerá, sob propostas dos directores das Faculdades, as condições de integração dos actuais alunos nos novos planos de estudo.
+Art. 9.º A Direcção-Geral do Ensino Superior e das Belas-Artes estabelecerá, sob propostas dos directores das Faculdades, as condições de integração dos actuais alunos nos novos planos de estudo.
 
-###### Art. 10.º Têm direito ao grau de bacharel aqueles que, segundo os planos de estudos do [Decreto n.º 18003](https://diariodarepublica.pt/dr/detalhe/decreto/18003-1930-532624), de 25 de Fevereiro de 1930, e do [Decreto n.º 41341](https://diariodarepublica.pt/dr/detalhe/decreto/41341-1957-252466), de 30 de Outubro de 1957, obtiveram aprovação em todas as disciplinas do elenco da respectiva licenciatura.
+Art. 10.º Têm direito ao grau de bacharel aqueles que, segundo os planos de estudos do [Decreto n.º 18003](https://diariodarepublica.pt/dr/detalhe/decreto/18003-1930-532624), de 25 de Fevereiro de 1930, e do [Decreto n.º 41341](https://diariodarepublica.pt/dr/detalhe/decreto/41341-1957-252466), de 30 de Outubro de 1957, obtiveram aprovação em todas as disciplinas do elenco da respectiva licenciatura.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 12 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - José Hermano Saraiva.

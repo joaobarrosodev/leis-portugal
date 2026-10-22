@@ -47,40 +47,53 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47884-1967-390609
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-08-14T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 28f8a5b300c8790185746634c9a0aaca2165209dfe0d771844177688896d34b7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2b82971924533c2b927e3813b79ce7272be6f3bebdc7bf771dc378cac6706dff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Profissional
+- Curso de Especialização
+- Enfermagem
+- Pessoal de Enfermagem
 relationships:
 - type: amended_by
   target: pt:dre:397766:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:397766:por
+  label: "Alterado o presente diploma pela PORT.777/82.14.08.1982.MAS, DR.IS [187] de 14.08.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/777-1982-397766
+  date: '1982-08-14'
+- type: cites
+  target: pt:dre:668919:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:18Z'
   warnings: []
   errors: []
 ---
@@ -95,14 +108,14 @@ Nestes termos, ao abrigo do disposto no artigo 7.º do [Decreto-Lei n.º 38884](
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nas escolas de enfermagem oficiais poderão ser criados, por despacho do Ministro da Saúde e Assistência, cursos de especialização obstétrica para enfermeiras e auxiliares de enfermagem.
+Artigo 1.º Nas escolas de enfermagem oficiais poderão ser criados, por despacho do Ministro da Saúde e Assistência, cursos de especialização obstétrica para enfermeiras e auxiliares de enfermagem.
 
-###### Art. 2.º As diplomadas por estes cursos têm a designação de enfermeiras-parteiras ou auxiliares de enfermagem-parteiras, conforme o curso com que se habilitarem.
+Art. 2.º As diplomadas por estes cursos têm a designação de enfermeiras-parteiras ou auxiliares de enfermagem-parteiras, conforme o curso com que se habilitarem.
 
-###### Art. 3.º Os cursos referidos no artigo 1.º têm a duração de um ano escolar e substituem os que até agora eram ministrados pelo Instituto Maternal. As diplomadas por estes últimos podem pedir que nos seus diplomas sejam averbadas as designações a que tenham direito, entre as referidas no artigo 2.º
+Art. 3.º Os cursos referidos no artigo 1.º têm a duração de um ano escolar e substituem os que até agora eram ministrados pelo Instituto Maternal. As diplomadas por estes últimos podem pedir que nos seus diplomas sejam averbadas as designações a que tenham direito, entre as referidas no artigo 2.º
 
-###### Art. 4.º A escola de enfermagem integrada no Centro de Saúde e Assistência Materno-Infantil do Dr. Bissaia Barreto é autorizada a professar os cursos referidos no artigo 1.º e as suas diplomadas beneficiam do disposto no artigo 3.º
+Art. 4.º A escola de enfermagem integrada no Centro de Saúde e Assistência Materno-Infantil do Dr. Bissaia Barreto é autorizada a professar os cursos referidos no artigo 1.º e as suas diplomadas beneficiam do disposto no artigo 3.º
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco Pereira Neto de Carvalho.

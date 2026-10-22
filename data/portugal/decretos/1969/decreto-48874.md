@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48874-1969-527268
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:17Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5518d83fe3493bc01070a10d97ad682018b67d4b43f920671386831a56c51604
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 54cbb586db57c326d77acc0a6f190584a4a62109363dce668ecca83d83a2042b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:17Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:586599:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:615659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:651088:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:17Z'
   warnings: []
   errors: []
 ---
@@ -108,15 +120,15 @@ I
 
 Da Inspecção dos Espectáculos
 
-###### Artigo 1.º São criados no Centro de Informação e Turismo de Angola os Serviços de Espectáculos, aos quais compete a superintendência e fiscalização dos espectáculos e divertimentos públicos e dos recintos a eles destinados, além das demais atribuições complementares.
+Artigo 1.º São criados no Centro de Informação e Turismo de Angola os Serviços de Espectáculos, aos quais compete a superintendência e fiscalização dos espectáculos e divertimentos públicos e dos recintos a eles destinados, além das demais atribuições complementares.
 
-###### Art. 2.º Os Serviços de Espectáculos compreendem os serviços centrais em Luanda, as delegações distritais e as subdelegações concelhias.
+Art. 2.º Os Serviços de Espectáculos compreendem os serviços centrais em Luanda, as delegações distritais e as subdelegações concelhias.
 
 § 1.º Os delegados distritais têm funções de orientação e fiscalização em relação aos subdelegados concelhios das respectivas áreas e exercem, cumulativamente, as funções de subdelegados do concelho sede do distrito.
 
 § 2.º Sempre que circunstâncias especiais assim o aconselharem, poderão as subdelegações concelhias ser elevadas a delegações, sem prejuízo, porém, da função de orientação e fiscalização a praticar pelo respectivo delegado distrital.
 
-###### Art. 3.º Os serviços centrais dividem-se em três secções:
+Art. 3.º Os serviços centrais dividem-se em três secções:
 
 1.º A 1.ª secção (secretaria) compreende:
 
@@ -144,29 +156,29 @@ c) A elaboração e permanente actualização do cadastro dos recintos de espect
 
 d) A elaboração dos mapas das lotações das salas e recintos de espectáculos.
 
-###### Art. 4.º Junto dos serviços centrais funciona um conselho técnico presidido pelo director do Centro de Informação e Turismo, com a constituição que vier a ser definida no seu regulamento interno. Neste conselho deverão estar representados por pessoas qualificadas a Direcção dos Serviços de Obras Públicas, a Direcção dos Serviços de Saúde e Assistência e os bombeiros municipais. Servirá de secretário, sem direito a voto, o chefe da 3.ª secção dos serviços centrais.
+Art. 4.º Junto dos serviços centrais funciona um conselho técnico presidido pelo director do Centro de Informação e Turismo, com a constituição que vier a ser definida no seu regulamento interno. Neste conselho deverão estar representados por pessoas qualificadas a Direcção dos Serviços de Obras Públicas, a Direcção dos Serviços de Saúde e Assistência e os bombeiros municipais. Servirá de secretário, sem direito a voto, o chefe da 3.ª secção dos serviços centrais.
 
 § único. O conselho técnico reunirá sempre que deva exercer qualquer das atribuições que especialmente lhe estão consignadas, ou quando o respectivo presidente, a quem compete a sua convocação, o entender conveniente.
 
-###### Art. 5.º Incumbe especialmente ao conselho técnico:
+Art. 5.º Incumbe especialmente ao conselho técnico:
 
 1.º Dar parecer sobre projectos de construção, reconstrução, adaptação ou alteração dos recintos de espectáculos ou divertimentos públicos e sobre os demais casos que, por disposição legal, lhe devam ser submetidos;
 
 2.º Promover, pela forma que vier a ser regulada, a execução das vistorias necessárias a assegurar as condições técnicas e de segurança exigíveis nos recintos de espectáculos e divertimentos públicos.
 
-###### Art. 6.º Os Serviços de Espectáculos são chefiados por um chefe de serviços, dependente do director do Centro de Informação e Turismo, com o qual despachará.
+Art. 6.º Os Serviços de Espectáculos são chefiados por um chefe de serviços, dependente do director do Centro de Informação e Turismo, com o qual despachará.
 
 § único. O chefe dos Serviços de Espectáculos será nomeado pelo Ministro do Ultramar de entre pessoas que tenham revelado especiais qualidades para o exercício do cargo, de preferência habilitados com curso superior, e terá o vencimento da letra E do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 7.º Os Serviços de Espectáculos terão o pessoal do quadro comum constante do mapa anexo, ficando o governador-geral de Angola autorizado a fixar, em diploma legislativo, o pessoal do quadro privativo.
+Art. 7.º Os Serviços de Espectáculos terão o pessoal do quadro comum constante do mapa anexo, ficando o governador-geral de Angola autorizado a fixar, em diploma legislativo, o pessoal do quadro privativo.
 
-###### Art. 8.º Os lugares do quadro comum dos Serviços de Espectáculos de Angola, cujo provimento não esteja especialmente regulado neste diploma, poderão ser preenchidos, em comissão ordinária de serviço, por quaisquer funcionários dos quadros ultramarinos com categoria de primeiro-oficial e boas informações de serviço, de preferência com curso superior adaptado ao desempenho do cargo, e bem assim por pessoal nas mesmas condições do quadro dos Serviços de Espectáculos da Secretaria de Estado da Informação e Turismo ou dos Serviços de Relações Públicas e Turismo da Agência-Geral do Ultramar.
+Art. 8.º Os lugares do quadro comum dos Serviços de Espectáculos de Angola, cujo provimento não esteja especialmente regulado neste diploma, poderão ser preenchidos, em comissão ordinária de serviço, por quaisquer funcionários dos quadros ultramarinos com categoria de primeiro-oficial e boas informações de serviço, de preferência com curso superior adaptado ao desempenho do cargo, e bem assim por pessoal nas mesmas condições do quadro dos Serviços de Espectáculos da Secretaria de Estado da Informação e Turismo ou dos Serviços de Relações Públicas e Turismo da Agência-Geral do Ultramar.
 
 § 1.º Os lugares de chefe de secção poderão também ser providos por pessoas habilitadas com os cursos superiores de Direito, Letras ou do Instituto Superior de Ciências Sociais e Política Ultramarina.
 
 § 2.º O chefe da 3.ª secção dos serviços centrais deverá ter o curso de agente técnico de engenharia civil.
 
-###### Art. 9.º O provimento dos lugares do quadro privativo deverá obedecer às regras estabelecidas no Estatuto do Funcionalismo Ultramarino.
+Art. 9.º O provimento dos lugares do quadro privativo deverá obedecer às regras estabelecidas no Estatuto do Funcionalismo Ultramarino.
 
 § 1.º A primeira nomeação de pessoal do quadro privativo poderá recair em funcionários que, a qualquer titulo e com boas informações, tenham, prestado ou venham prestando serviço, nos últimos três anos, na 5.ª Repartição da Direcção Provincial dos Serviços de Educação.
 
@@ -176,9 +188,9 @@ II
 
 Dos espectáculos e divertimentos públicos
 
-###### Art. 10.º As empresas exploradores de espectáculos ou divertimentos públicos de qualquer natureza, a abertura e o funcionamento dos recintos em que estes se realizam e a actividade das empresas distribuidoras de filmes ficam sujeitos à superintendência dos Serviços de Espectáculos.
+Art. 10.º As empresas exploradores de espectáculos ou divertimentos públicos de qualquer natureza, a abertura e o funcionamento dos recintos em que estes se realizam e a actividade das empresas distribuidoras de filmes ficam sujeitos à superintendência dos Serviços de Espectáculos.
 
-###### Art. 11.º Para efeitos do presente diploma, consideram-se abrangidos na expressão «espectáculos e divertimentos» as sessões de teatro, cinema, bailados, circo e variedades, as audições musicais, os bailes, as competições desportivas, as touradas, vacadas e garraiadas, as barracas de espelhos e de quiromantes, os divertimentos mecanizados e todas as representações, execuções e diversões de natureza análoga.
+Art. 11.º Para efeitos do presente diploma, consideram-se abrangidos na expressão «espectáculos e divertimentos» as sessões de teatro, cinema, bailados, circo e variedades, as audições musicais, os bailes, as competições desportivas, as touradas, vacadas e garraiadas, as barracas de espelhos e de quiromantes, os divertimentos mecanizados e todas as representações, execuções e diversões de natureza análoga.
 
 § 1.º Não são considerados públicos os espectáculos e divertimentos que se realizem sem fins lucrativos, no âmbito de uma família, para recreio dos seus membros e convidados, quer tenham lugar no próprio lar familiar, quer em recinto acidentalmente obtido para o efeito.
 
@@ -188,39 +200,39 @@ III
 
 Dos recintos
 
-###### Art. 12.º Os recintos de espectáculos e divertimentos públicos, incluindo os das estações emissoras de radiodifusão sonora em que os associados ou o público sejam admitidos a presenciar o espectáculo a radiodifundir, só podem funcionar quando se encontrem licenciados pelos Serviços de Espectáculos, depois de verificadas as suas condições técnicas e de segurança.
+Art. 12.º Os recintos de espectáculos e divertimentos públicos, incluindo os das estações emissoras de radiodifusão sonora em que os associados ou o público sejam admitidos a presenciar o espectáculo a radiodifundir, só podem funcionar quando se encontrem licenciados pelos Serviços de Espectáculos, depois de verificadas as suas condições técnicas e de segurança.
 
 § único. É igualmente obrigatória a licença de recinto para a realização de espectáculos ou divertimentos particulares com a presença de mais de cem pessoas, dependendo a sua concessão apenas de vistoria dos Serviços de Espectáculos.
 
-###### Art. 13.º Exceptuam-se do disposto no artigo anterior:
+Art. 13.º Exceptuam-se do disposto no artigo anterior:
 
 1.º Os recintos onde se faça a recepção pública de emissões de radiodifusão sonora;
 
 2.º Os cafés, restaurantes, hotéis e estabelecimentos similares, com orquestra privativa, mas sem variedades nem baile.
 
-###### Art. 14.º A construção, a reconstrução, a adaptação e todas as alterações de quaisquer recintos de espectáculos ou de divertimentos públicos só podem efectuar-se depois de aprovados os respectivos projectos pelos Serviços de Espectáculos, ouvido o conselho técnico.
+Art. 14.º A construção, a reconstrução, a adaptação e todas as alterações de quaisquer recintos de espectáculos ou de divertimentos públicos só podem efectuar-se depois de aprovados os respectivos projectos pelos Serviços de Espectáculos, ouvido o conselho técnico.
 
 § 1.º Não ficam abrangidos por esta disposição os recintos para os quais não seja exigível a licença a que se refere o artigo 12.º
 
 § 2.º A aprovação, pelas câmaras municipais, de quaisquer projectos relativos a recintos de espectáculos ou divertimentos públicos será condicional até posterior aprovação dada nos termos deste artigo.
 
-###### Art. 15.º Os projectos e outros elementos que, nos termos das leis e regulamentos, os devem acompanhar para apreciação do pedido pelo conselho técnico e pelos demais serviços de Estado serão apresentados nos Serviços de Espectáculos, ficando a cargo dos mesmos a sua ulterior remessa aos serviços competentes.
+Art. 15.º Os projectos e outros elementos que, nos termos das leis e regulamentos, os devem acompanhar para apreciação do pedido pelo conselho técnico e pelos demais serviços de Estado serão apresentados nos Serviços de Espectáculos, ficando a cargo dos mesmos a sua ulterior remessa aos serviços competentes.
 
 § único. Quaisquer comunicações que haja a fazer aos interessados serão sempre efectuadas através dos Serviços de Espectáculos.
 
-###### Art. 16.º Para a instalação de simples estrados, tablados ou palanques fora do concelho de Luanda, a aprovação dos projectos cabe ao delegado ou subdelegado dos Serviços de Espectáculos, que terá em atenção o que a este respeito estiver determinado em legislação ou normas dos serviços técnicos provinciais, e depois de ouvido um engenheiro ou agente técnico de engenharia, que será, quando possível, funcionário camarário.
+Art. 16.º Para a instalação de simples estrados, tablados ou palanques fora do concelho de Luanda, a aprovação dos projectos cabe ao delegado ou subdelegado dos Serviços de Espectáculos, que terá em atenção o que a este respeito estiver determinado em legislação ou normas dos serviços técnicos provinciais, e depois de ouvido um engenheiro ou agente técnico de engenharia, que será, quando possível, funcionário camarário.
 
 § 1.º Na falta de engenheiro ou agente técnico de engenharia, o delegado ou subdelegado consultará pessoa de comprovada competência.
 
 § 2.º Da decisão do delegado ou subdelegado apenas haverá recurso para o respectivo governador de distrito.
 
-###### Art. 17.º As condições técnicas e de segurança dos recintos de espectáculos e divertimentos públicos serão fixadas em regulamento.
+Art. 17.º As condições técnicas e de segurança dos recintos de espectáculos e divertimentos públicos serão fixadas em regulamento.
 
 IV
 
 Da exploração de espectáculos ou divertimentos públicos
 
-###### Art. 18.º Depende de registo prévio nos Serviços de Espectáculos a exploração comercial, por qualquer entidade, de recintos de espectáculos ou divertimentos públicos, bem como o exercício da actividade:
+Art. 18.º Depende de registo prévio nos Serviços de Espectáculos a exploração comercial, por qualquer entidade, de recintos de espectáculos ou divertimentos públicos, bem como o exercício da actividade:
 
 1.º Das empresas exploradoras de espectáculos ou divertimentos públicos, sem recinto próprio;
 
@@ -240,17 +252,17 @@ Da exploração de espectáculos ou divertimentos públicos
 
 § 4.º Nas cidades ou localidades onde se encontrem, ou venham a encontrar, instaladas empresas exploradoras de espectáculos públicos, as autorizações acidentais aludidas no parágrafo anterior não poderão exceder anualmente dez.
 
-###### Art. 19.º Pelos registos será devida uma taxa a fixar em legislação de âmbito provincial, a qual poderá prever ainda um regime de isenções.
+Art. 19.º Pelos registos será devida uma taxa a fixar em legislação de âmbito provincial, a qual poderá prever ainda um regime de isenções.
 
-###### Art. 20.º A realização de espectáculos ou divertimentos públicos com entradas pagas, mesas reservadas, consumo mínimo obrigatório ou utilização de quaisquer outros meios indirectos tendentes ao pagamento do espectáculo ou divertimento, por entidades que não se encontrem para o efeito registadas, depende da autorização dos Serviços de Espectáculos, a qual só poderá ser acidental e tomando em conta o fim a que se destina a receita líquida que for obtida.
+Art. 20.º A realização de espectáculos ou divertimentos públicos com entradas pagas, mesas reservadas, consumo mínimo obrigatório ou utilização de quaisquer outros meios indirectos tendentes ao pagamento do espectáculo ou divertimento, por entidades que não se encontrem para o efeito registadas, depende da autorização dos Serviços de Espectáculos, a qual só poderá ser acidental e tomando em conta o fim a que se destina a receita líquida que for obtida.
 
 V
 
 Da realização dos espectáculos públicos
 
-###### Art. 21.º Os espectáculos ou divertimentos públicos não podem ser anunciados ou realizados, mesmo que não se verifique qualquer das formas de pagamento previstas no artigo anterior, sem visto prévio dos Serviços de Espectáculos ou suas delegações.
+Art. 21.º Os espectáculos ou divertimentos públicos não podem ser anunciados ou realizados, mesmo que não se verifique qualquer das formas de pagamento previstas no artigo anterior, sem visto prévio dos Serviços de Espectáculos ou suas delegações.
 
-###### Art. 22.º O visto é exigido:
+Art. 22.º O visto é exigido:
 
 1.º Nos espectáculos desportivos, de cinema, teatro, variedades, audições musicais, bailes e outros congéneres:
 
@@ -262,9 +274,9 @@ b) Para cada sessão, quando os programas sejam diferentes.
 
 § único. Quando sejam exigidos vários exemplares do documento onde deve ser aposto o visto, apenas um será selado.
 
-###### Art. 23.º O visto não exime de responsabilidade pela prática de quaisquer infracções relativas a matérias constantes dos documentos visados.
+Art. 23.º O visto não exime de responsabilidade pela prática de quaisquer infracções relativas a matérias constantes dos documentos visados.
 
-###### Art. 24.º Não carecem de visto:
+Art. 24.º Não carecem de visto:
 
 1.º Os espectáculos oficiais promovidos pelo governador-geral de Angola;
 
@@ -278,11 +290,11 @@ b) Para cada sessão, quando os programas sejam diferentes.
 
 § único. Os espectáculos a que se refere o n.º 4.º poderão ser interrompidos desde que se verifique que, a carecerem de visto, não poderiam ser autorizados.
 
-###### Art. 25.º Nenhum espectáculo ou divertimento público poderá realizar-se sem a presença de força policial e piquete de bombeiros, excepto os casos admitidos em lei especial.
+Art. 25.º Nenhum espectáculo ou divertimento público poderá realizar-se sem a presença de força policial e piquete de bombeiros, excepto os casos admitidos em lei especial.
 
-###### Art. 26.º Quando o recinto seja de lotação não superior a quinhentos lugares, tenha número de portas suficientes para a sua evacuação rápida e seja constituído por um único pavimento, de material à prova de fogo, poderá ser dispensada a presença do piquete de bombeiros, a requerimento da empresa, dirigido ao director do Centro de Informação e Turismo, se no recinto existirem extintores aptos a funcionar e pessoal habilitado a utilizá-los.
+Art. 26.º Quando o recinto seja de lotação não superior a quinhentos lugares, tenha número de portas suficientes para a sua evacuação rápida e seja constituído por um único pavimento, de material à prova de fogo, poderá ser dispensada a presença do piquete de bombeiros, a requerimento da empresa, dirigido ao director do Centro de Informação e Turismo, se no recinto existirem extintores aptos a funcionar e pessoal habilitado a utilizá-los.
 
-###### Art. 27.º É proibida a publicidade sonora durante a realização ou nos intervalos dos espectáculos e divertimentos públicos em que haja entrada paga, mesas reservadas, consumos mínimos obrigatórios ou qualquer outra forma de pagamento, ainda que indirecta.
+Art. 27.º É proibida a publicidade sonora durante a realização ou nos intervalos dos espectáculos e divertimentos públicos em que haja entrada paga, mesas reservadas, consumos mínimos obrigatórios ou qualquer outra forma de pagamento, ainda que indirecta.
 
 § único. Exceptuam-se do disposto no corpo do artigo:
 
@@ -292,13 +304,13 @@ b) Para cada sessão, quando os programas sejam diferentes.
 
 3.º Os espectáculos radiopublicitários, anunciados como tais.
 
-###### Art. 28.º A efectivação de publicidade sonora fora das condições em que é permitida pelo artigo anterior é punida com multa de 500$00 a 2000$00.
+Art. 28.º A efectivação de publicidade sonora fora das condições em que é permitida pelo artigo anterior é punida com multa de 500$00 a 2000$00.
 
 VI
 
 Do exame e classificação dos diversos elementos do espectáculo
 
-###### Art. 29.º Apenas poderão ser apresentados em espectáculos e divertimentos públicos os filmes, peças de teatro, bailado, canções e números congéneres prèviamente autorizados e classificados pela Comissão de Exame e Classificação dos Espectáculos.
+Art. 29.º Apenas poderão ser apresentados em espectáculos e divertimentos públicos os filmes, peças de teatro, bailado, canções e números congéneres prèviamente autorizados e classificados pela Comissão de Exame e Classificação dos Espectáculos.
 
 § 1.º A autorização pode ser revogada quando os superiores interesses do Estado ou razões de ordem internacional assim o exigirem.
 
@@ -310,9 +322,9 @@ Do exame e classificação dos diversos elementos do espectáculo
 
 § 5.º As infracções ao disposto no § 2.º serão punidas com multas de 1000$00 a 5000$00 e as infracções ao § 3.º com multa de 500$00 a 1000$00.
 
-###### Art. 30.º A Comissão de Exame e Classificação dos Espectáculos não poderá autorizar o licenciamento de filmes, peças de teatro ou quaisquer outros elementos de espectáculos ofensivos dos órgãos de soberania nacional, das instituições vigentes, dos chefes de Estado ou representantes diplomáticos de países estrangeiros, das crenças religiosas e de moral cristã tradicional, dos bons costumes e das pessoas particulares, ou que incitem ao crime ou sejam, por qualquer outra forma, perniciosos à educação do povo.
+Art. 30.º A Comissão de Exame e Classificação dos Espectáculos não poderá autorizar o licenciamento de filmes, peças de teatro ou quaisquer outros elementos de espectáculos ofensivos dos órgãos de soberania nacional, das instituições vigentes, dos chefes de Estado ou representantes diplomáticos de países estrangeiros, das crenças religiosas e de moral cristã tradicional, dos bons costumes e das pessoas particulares, ou que incitem ao crime ou sejam, por qualquer outra forma, perniciosos à educação do povo.
 
-###### Art. 31.º Em circunstâncias excepcionais e mediante despacho do governador-geral, poderá ser autorizada a assistência:
+Art. 31.º Em circunstâncias excepcionais e mediante despacho do governador-geral, poderá ser autorizada a assistência:
 
 1.º De crianças de mais de 6 anos, quando devidamente acompanhados, a espectáculos nocturnos apropriados para a sua idade fora dos casos compreendidos nos §§ 4.º e 5.º do artigo 6.º do [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088).
 
@@ -322,7 +334,7 @@ Do exame e classificação dos diversos elementos do espectáculo
 
 § 2.º O requerimento será sempre apresentado nos Serviços de Espectáculos e para a sua apreciação poderá ser pedido o parecer da Comissão de Literatura e Espectáculos para Menores.
 
-###### Art. 32.º Os Serviços de Espectáculos poderão proibir a entrada de menores de 21 anos nos recintos públicos destinados a bailes ou outras diversões em relação aos quais, pela sua localização, pelo seu ambiente, pela sua frequência habitual ou por quaisquer outras razões, se mostre inconveniente a assistência dos mesmos.
+Art. 32.º Os Serviços de Espectáculos poderão proibir a entrada de menores de 21 anos nos recintos públicos destinados a bailes ou outras diversões em relação aos quais, pela sua localização, pelo seu ambiente, pela sua frequência habitual ou por quaisquer outras razões, se mostre inconveniente a assistência dos mesmos.
 
 § 1.º À inobservância da proibição estabelecida nos termos desta disposição são aplicáveis os artigos 15.º a 17.º do [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088), de 1 de Abril de 1957.
 
@@ -332,11 +344,11 @@ Do exame e classificação dos diversos elementos do espectáculo
 
 § 4.º A infracção do disposto no parágrafo antecedente será punida nos termos do artigo 14.º do [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088).
 
-###### Art. 33.º Sem prejuízo para a íntima e pronta colaboração que deve existir entre os Serviços de Espectáculos e as Comissões de Exame e Classificação dos Espectáculos e de Literatura e Espectáculos para Menores, estas duas Comissões continuam subordinadas aos Serviços de Educação.
+Art. 33.º Sem prejuízo para a íntima e pronta colaboração que deve existir entre os Serviços de Espectáculos e as Comissões de Exame e Classificação dos Espectáculos e de Literatura e Espectáculos para Menores, estas duas Comissões continuam subordinadas aos Serviços de Educação.
 
-###### Art. 34.º O director do Centro de Informação e Turismo será o vice-presidente da Comissão de Exame e Classificação dos Espectáculos e o chefe dos Serviços de Espectáculos será vogal nato da mesma Comissão.
+Art. 34.º O director do Centro de Informação e Turismo será o vice-presidente da Comissão de Exame e Classificação dos Espectáculos e o chefe dos Serviços de Espectáculos será vogal nato da mesma Comissão.
 
-###### Art. 35.º As gratificações a que se refere o artigo 5.º do [Decreto n.º 34491](https://diariodarepublica.pt/dr/detalhe/decreto/34491-1945-615659), de 29 de Dezembro de 1953, fixadas aos membros da Comissão de Exame e Classificação dos Espectáculos de Angola, passam a ser as seguintes:
+Art. 35.º As gratificações a que se refere o artigo 5.º do [Decreto n.º 34491](https://diariodarepublica.pt/dr/detalhe/decreto/34491-1945-615659), de 29 de Dezembro de 1953, fixadas aos membros da Comissão de Exame e Classificação dos Espectáculos de Angola, passam a ser as seguintes:
 
 Ao presidente e ao vice-presidente, 2200$00;
 
@@ -346,11 +358,11 @@ VII
 
 Da reserva de lugares
 
-###### Art. 36.º Em todos os recintos de espectáculos públicos onde existam camarotes será permanentemente reservado um para as autoridades policiais e entidades que exerçam funções de superintendência e fiscalização relativamente aos espectáculos.
+Art. 36.º Em todos os recintos de espectáculos públicos onde existam camarotes será permanentemente reservado um para as autoridades policiais e entidades que exerçam funções de superintendência e fiscalização relativamente aos espectáculos.
 
 § único. Se no recinto não existirem camarotes, mas frisas, será reservada uma destas.
 
-###### Art. 37.º No camarote ou frisa a que se refere o artigo anterior apenas têm entrada:
+Art. 37.º No camarote ou frisa a que se refere o artigo anterior apenas têm entrada:
 
 1.º Um representante dos Serviços de Espectáculos;
 
@@ -364,25 +376,25 @@ Da reserva de lugares
 
 § único. Nas localidades em que à presidência da câmara não compitam funções policiais, o lugar a que se refere o n.º 2.º caberá ao administrador do concelho ou de circunscrição.
 
-###### Art. 38.º Relativamente aos recintos de espectáculos que não possuam camarotes nem frisas, será fixado pelo governador-geral, sob proposta dos Serviços de Espectáculos, o número de lugares, não inferior a dois nem excedente a cinco, que devem ser reservados exclusivamente às entidades a que se refere o artigo anterior.
+Art. 38.º Relativamente aos recintos de espectáculos que não possuam camarotes nem frisas, será fixado pelo governador-geral, sob proposta dos Serviços de Espectáculos, o número de lugares, não inferior a dois nem excedente a cinco, que devem ser reservados exclusivamente às entidades a que se refere o artigo anterior.
 
 § único. Quando o número de lugares reservados seja inferior a cinco, qualquer das entidades a que se refere o artigo anterior poderá requisitar lugar ainda não vendido, se os reservados já se encontrarem ocupados.
 
-###### Art. 39.º Os lugares destinados às autoridades policiais e entidades com funções de superintendência e fiscalização dos espectáculos serão ocupados depois da apresentação do respectivo bilhete, que será levantado na bilheteira, no dia do espectáculo, mediante a identificação do interessado.
+Art. 39.º Os lugares destinados às autoridades policiais e entidades com funções de superintendência e fiscalização dos espectáculos serão ocupados depois da apresentação do respectivo bilhete, que será levantado na bilheteira, no dia do espectáculo, mediante a identificação do interessado.
 
 § 1.º Para efeito do disposto neste artigo, haverá na bilheteira, para cada espectáculo, cinco senhas correspondentes a cada uma das entidades referidas no artigo 37.º, ou tantos bilhetes quantos os lugares reservados nos termos do artigo 38.º
 
 § 2.º Nenhuma entidade que não esteja munida de senha ou bilhete poderá ocupar os lugares referidos, respectivamente, nos artigos 36.º e 38.º
 
-###### Art. 40.º Nos recintos de espectáculos e divertimentos públicos da capital da província será reservado um camarote ou uma frisa para o Governo-Geral da província, só podendo as empresas exploradoras dos recintos disporem deles se não forem requisitados até três horas antes do início do espectáculo. Quando os recintos não possuam camarotes nem frisas, poderão ser requisitados três lugares nas mesmas condições.
+Art. 40.º Nos recintos de espectáculos e divertimentos públicos da capital da província será reservado um camarote ou uma frisa para o Governo-Geral da província, só podendo as empresas exploradoras dos recintos disporem deles se não forem requisitados até três horas antes do início do espectáculo. Quando os recintos não possuam camarotes nem frisas, poderão ser requisitados três lugares nas mesmas condições.
 
-###### Art. 41.º Em Luanda, o governador do distrito, o director do Centro de Informação e Turismo, o chefe dos Serviços de Espectáculos, o comandante da Polícia de Segurança Pública, o director dos Serviços de Fazenda e Contabilidade e o presidente da Comissão de Exame e Classificação dos Espectáculos para Menores poderão também reservar lugar à sua escolha nos espectáculos e divertimentos a que desejem assistir.
+Art. 41.º Em Luanda, o governador do distrito, o director do Centro de Informação e Turismo, o chefe dos Serviços de Espectáculos, o comandante da Polícia de Segurança Pública, o director dos Serviços de Fazenda e Contabilidade e o presidente da Comissão de Exame e Classificação dos Espectáculos para Menores poderão também reservar lugar à sua escolha nos espectáculos e divertimentos a que desejem assistir.
 
 § único. Fora de Luanda, a faculdade concedida por este artigo é extensiva aos respectivos governadores de distrito e representantes das entidades referidas no corpo do artigo.
 
-###### Art. 42.º Nenhum cartão ou título oficial dá direito à livre entrada nos recintos de espectáculos ou divertimentos públicos, salvo o dos agentes legalmente competentes para a fiscalização de actividades ali exercidas que não possa, sem prejuízo, ser levada a efeito fora das horas dos espectáculos ou divertimentos e dos funcionários e agentes policiais que tenham de cumprir missão de serviço.
+Art. 42.º Nenhum cartão ou título oficial dá direito à livre entrada nos recintos de espectáculos ou divertimentos públicos, salvo o dos agentes legalmente competentes para a fiscalização de actividades ali exercidas que não possa, sem prejuízo, ser levada a efeito fora das horas dos espectáculos ou divertimentos e dos funcionários e agentes policiais que tenham de cumprir missão de serviço.
 
-###### Art. 43.º Os funcionários ou agentes que, em serviço, hajam de penetrar em casas ou recintos de espectáculos ou divertimentos públicos, nos termos do artigo anterior, terão apenas acesso aos locais em que as actividades a fiscalizar se verifiquem, sem direito à ocupação de qualquer lugar ou à permanência nos recintos além do tempo estritamente indispensável ao exercício das respectivas funções.
+Art. 43.º Os funcionários ou agentes que, em serviço, hajam de penetrar em casas ou recintos de espectáculos ou divertimentos públicos, nos termos do artigo anterior, terão apenas acesso aos locais em que as actividades a fiscalizar se verifiquem, sem direito à ocupação de qualquer lugar ou à permanência nos recintos além do tempo estritamente indispensável ao exercício das respectivas funções.
 
 § 1.º Durante a sua permanência nos recintos a empresa, sempre que assim o desejar, poderá fazer acompanhar os agentes referidos de representante seu, salvo tratando-se de delegados, subdelegados e agentes de fiscalização dos Serviços de Espectáculos, dos directores, subdirectores, inspectores, subinspectores, chefes de brigada e agentes da Polícia Judiciária e da Polícia Internacional e de Defesa do Estado ou dos agentes do Ministério Público, cuja actividade se exercerá livremente, podendo ocupar qualquer lugar vago quando as necessidades de serviço o justifiquem.
 
@@ -392,11 +404,11 @@ VIII
 
 Da fiscalização e das infracções
 
-###### Art. 44.º A fiscalização do disposto neste decreto e seus regulamentos compete ao pessoal dos Serviços de Espectáculos e a todas as autoridades administrativas e policiais, devendo os autos de notícia ser sempre remetidos aos mesmos Serviços.
+Art. 44.º A fiscalização do disposto neste decreto e seus regulamentos compete ao pessoal dos Serviços de Espectáculos e a todas as autoridades administrativas e policiais, devendo os autos de notícia ser sempre remetidos aos mesmos Serviços.
 
 § único. Os membros da Comissão de Exame e Classificação dos Espectáculos possuem também funções de fiscalização, relativamente ao cumprimento do disposto no artigo 29.º deste diploma.
 
-###### Art. 45.º As infracções ao disposto neste diploma e seu regulamento serão punidas com as seguintes sanções:
+Art. 45.º As infracções ao disposto neste diploma e seu regulamento serão punidas com as seguintes sanções:
 
 1.º Multa até 20000$00;
 
@@ -410,7 +422,7 @@ Da fiscalização e das infracções
 
 § único. Os casos de recusa de abandono dos recintos de espectáculos públicos, quando a saída seja imposta pelas entidades para tanto competentes, e as falsas declarações prestadas aos Serviços de Espectáculos serão punidos nos termos do Código Penal.
 
-###### Art. 46.º Aos Serviços de Espectáculos cabe a aplicação das sanções previstas no corpo do artigo anterior, bem como as sanções a que se refere o artigo 14.º do [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088), de 1 de Abril de 1957.
+Art. 46.º Aos Serviços de Espectáculos cabe a aplicação das sanções previstas no corpo do artigo anterior, bem como as sanções a que se refere o artigo 14.º do [Decreto-Lei n.º 41051](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41051-1957-651088), de 1 de Abril de 1957.
 
 § 1.º O quantitativo das multas será fixado tendo em atenção a importância das empresas, avaliada em função da categoria e da lotação do recinto ou da contribuição industrial colectada, conforme as circunstâncias e a gravidade da infracção.
 
@@ -422,13 +434,13 @@ Da fiscalização e das infracções
 
 § 5.º As sociedades serão solidàriamente responsáveis pelo pagamento das multas aplicadas aos seus representantes.
 
-###### Art. 47.º Os autos de notícia, depois de confirmados, valem como corpo de delito e fazem fé em juízo até prova em contrário.
+Art. 47.º Os autos de notícia, depois de confirmados, valem como corpo de delito e fazem fé em juízo até prova em contrário.
 
 IX
 
 Disposições diversas
 
-###### Art. 48.º Quando os Serviços de Espectáculos entenderem que qualquer cópia de um filme não se encontra em condições de ser exibida, em virtude do seu encurtamento, resultante do uso ou do mau estado da película, poderão proibir a sua exibição em espectáculos públicos de natureza comercial, notificando do facto a respectiva empresa distribuidora.
+Art. 48.º Quando os Serviços de Espectáculos entenderem que qualquer cópia de um filme não se encontra em condições de ser exibida, em virtude do seu encurtamento, resultante do uso ou do mau estado da película, poderão proibir a sua exibição em espectáculos públicos de natureza comercial, notificando do facto a respectiva empresa distribuidora.
 
 § 1.º Esta competência é extensiva aos membros da Comissão de Exame e Classificação dos Espectáculos.
 
@@ -444,27 +456,27 @@ Disposições diversas
 
 § 7.º A inobservância da proibição ordenada nos termos deste artigo será punida com a multa de 2000$00 e a apreensão e perda da cópia, a qual será inutilizada, se a sua conservação não interessar à cinemateca provincial.
 
-###### Art. 49.º Das decisões dos Serviços de Espectáculos, tomadas ao abrigo da competência que lhe é conferida pelos artigos 12.º e 14.º, § 2.º do artigo 18.º e artigo 46.º deste diploma, cabe recurso para o governador-geral, a interpor, no prazo de dez dias, por meio de requerimento, em que se exporão os respectivos fundamentos.
+Art. 49.º Das decisões dos Serviços de Espectáculos, tomadas ao abrigo da competência que lhe é conferida pelos artigos 12.º e 14.º, § 2.º do artigo 18.º e artigo 46.º deste diploma, cabe recurso para o governador-geral, a interpor, no prazo de dez dias, por meio de requerimento, em que se exporão os respectivos fundamentos.
 
 § único. A interposição de recurso sobre a matéria a que respeita o § 1.º do artigo 46.º não interrompe o prazo de pagamento das multas que forem devidas pela infracção.
 
-###### Art. 50.º As pessoas, empresas ou entidades sujeitas a registo ou licenciamento nos termos deste diploma e todos os que organizarem espectáculos ou divertimentos públicos são obrigados a prestar aos Serviços de Espectáculos ou suas delegações as informações que por elas lhes sejam solicitadas em assuntos pertinentes às suas atribuições.
+Art. 50.º As pessoas, empresas ou entidades sujeitas a registo ou licenciamento nos termos deste diploma e todos os que organizarem espectáculos ou divertimentos públicos são obrigados a prestar aos Serviços de Espectáculos ou suas delegações as informações que por elas lhes sejam solicitadas em assuntos pertinentes às suas atribuições.
 
 § 1.º A falta de remessa, no prazo que for fixado, das informações solicitadas pelos Serviços de Espectáculos ou pelas suas delegações em matérias pertinentes às suas atribuições e nos termos do corpo do artigo será punida com a multa de 500$00 a 2000$00.
 
 § 2.º As informações recebidas terão carácter confidencial em tudo quanto respeita à actividade comercial respectiva, apenas podendo ser utilizadas, nessa parte, para efeitos de estatística geral e cadastro.
 
-###### Art. 51.º É proibido o exercício do mister de contratador ou revendedor de bilhetes de entrada em recintos de espectáculos ou divertimentos públicos. É, porém, permitido, em estabelecimentos especiais ou em secções daqueles em que se exerçam outros ramos de comércio, montar agências ou postos de venda de bilhetes de entrada nos diversos recintos de espectáculos ou divertimentos públicos, assim como fazer-se a sua entrega ao domicílio.
+Art. 51.º É proibido o exercício do mister de contratador ou revendedor de bilhetes de entrada em recintos de espectáculos ou divertimentos públicos. É, porém, permitido, em estabelecimentos especiais ou em secções daqueles em que se exerçam outros ramos de comércio, montar agências ou postos de venda de bilhetes de entrada nos diversos recintos de espectáculos ou divertimentos públicos, assim como fazer-se a sua entrega ao domicílio.
 
 § único. O disposto no corpo do artigo não prejudica a obrigação de serem reservados para venda nas bilheteiras das próprias casas ou recintos de espectáculos, pelo menos, 60 por cento de bilhetes de cada categoria.
 
-###### Art. 52.º Pelos bilhetes vendidos nas agências ou postos a que se refere o artigo anterior não poderá cobrar-se quantia superior à do seu custo nas bilheteiras das casas ou recintos dos espectáculos, acrescida de 10 por cento.
+Art. 52.º Pelos bilhetes vendidos nas agências ou postos a que se refere o artigo anterior não poderá cobrar-se quantia superior à do seu custo nas bilheteiras das casas ou recintos dos espectáculos, acrescida de 10 por cento.
 
 § único. No caso de entrega ao domicílio, a importância a que se refere o corpo do artigo poderá ser ainda acrescida de 2$50 por cada bilhete de entrada individual.
 
-###### Art. 53.º A faculdade a que se referem os artigos 51.º e 52.º depende da licença concedida pelo respectivo governador de distrito, que, prèviamente, apreciará a conveniência da localização proposta e as condições de funcionamento do próprio estabelecimento e que, ouvido os Serviços de Espectáculos, fixará as normas que se tornem necessárias para defesa dos interesses do público.
+Art. 53.º A faculdade a que se referem os artigos 51.º e 52.º depende da licença concedida pelo respectivo governador de distrito, que, prèviamente, apreciará a conveniência da localização proposta e as condições de funcionamento do próprio estabelecimento e que, ouvido os Serviços de Espectáculos, fixará as normas que se tornem necessárias para defesa dos interesses do público.
 
-###### Art. 54.º As taxas a cobrar pelos Serviços de Espectáculos constarão das seguintes tabelas, cujos quantitativos serão aprovados por diploma legislativo:
+Art. 54.º As taxas a cobrar pelos Serviços de Espectáculos constarão das seguintes tabelas, cujos quantitativos serão aprovados por diploma legislativo:
 
 a) Tabela I: taxas pela apresentação e apreciação de projectos;
 
@@ -482,19 +494,19 @@ g) Tabela VII: diversos.
 
 § único. Sempre que possível, as taxas serão pagas por meio de estampilha fiscal, que será inutilizada pelo sistema de perfuração.
 
-###### Art. 55.º Logo que entrarem em funcionamento as delegações e subdelegações dos Serviços de Espectáculos, serão extintas as delegações distritais da Comissão de Exame e Classificação dos Espectáculos.
+Art. 55.º Logo que entrarem em funcionamento as delegações e subdelegações dos Serviços de Espectáculos, serão extintas as delegações distritais da Comissão de Exame e Classificação dos Espectáculos.
 
-###### Art. 56.º A Comissão de Exame e Classificação dos Espectáculos e a Comissão de Literatura e Espectáculos para Menores submeterão ao Governo-Geral, no prazo de seis meses, a contar da publicação do presente diploma, projecto do respectivo regulamento interno.
+Art. 56.º A Comissão de Exame e Classificação dos Espectáculos e a Comissão de Literatura e Espectáculos para Menores submeterão ao Governo-Geral, no prazo de seis meses, a contar da publicação do presente diploma, projecto do respectivo regulamento interno.
 
-###### Art. 57.º O governador-geral de Angola fica autorizado a abrir créditos necessários ao cumprimento deste decreto, utilizando-se, como contrapartida, recursos ou disponibilidades da tabela orçamental da despesa em vigor.
+Art. 57.º O governador-geral de Angola fica autorizado a abrir créditos necessários ao cumprimento deste decreto, utilizando-se, como contrapartida, recursos ou disponibilidades da tabela orçamental da despesa em vigor.
 
-###### Art. 58.º Este diploma entra em vigor no dia 1 de Maio de 1969.
+Art. 58.º Este diploma entra em vigor no dia 1 de Maio de 1969.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Fevereiro de 1969.**
+Promulgado em 4 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

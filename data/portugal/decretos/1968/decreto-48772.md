@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48772-1968-262312
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 15040016fa43d67e57e36bcdb971423677a079b282e9499c8f0f41aa71d18fec
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1d6adff2ea9150801b3ad3efe7149349f3d63430e08399924b86617e84e9dc1b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,37 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263559:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263560:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:263561:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 10
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:26Z'
   warnings: []
   errors: []
 ---
@@ -87,29 +107,29 @@ Com fundamento na alínea a) do artigo 35.º do [Decreto n.º 18381](https://dia
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 4868000$00, destinados a prover à realização de despesas não previstas nos orçamentos em vigor dos seguintes Ministérios:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 4868000$00, destinados a prover à realização de despesas não previstas nos orçamentos em vigor dos seguintes Ministérios:
 
 Ministério das Finanças
 
-### Capítulo 8.º «Direcção-Geral da Fazenda Pública - Tesourarias dos concelhos e bairros»:
+Capítulo 8.º «Direcção-Geral da Fazenda Pública - Tesourarias dos concelhos e bairros»:
 
-###### Artigo 80.º «Remunerações certas ao pessoal em exercício»:
+Artigo 80.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»: «Para execução do [Decreto-Lei n.º 48675](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48675-1968-263560), de 11 de Novembro de 1968» ... 260000$00
 
-###### Artigo 82.º «Outras despesas com o pessoal»:
+Artigo 82.º «Outras despesas com o pessoal»:
 
 N.º 3), alínea 1 «Subsídio de residência» ... 25000$00
 
 N.º 4) «Abonos para falhas» ... 10000$00
 
-###### Artigo 85.º, n.º 1), alínea 1 «Subsídio aos tesoureiros para despesas de expediente» ... 1000$00
+Artigo 85.º, n.º 1), alínea 1 «Subsídio aos tesoureiros para despesas de expediente» ... 1000$00
 
-###### Artigo 86.º, n.º 1), alínea 1 «Subsídio aos tesoureiros para despesas com aquecimento, ...» ... 2000$00
+Artigo 86.º, n.º 1), alínea 1 «Subsídio aos tesoureiros para despesas com aquecimento, ...» ... 2000$00
 
-### Capítulo 13.º «Guarda Fiscal»:
+Capítulo 13.º «Guarda Fiscal»:
 
-###### Artigo 157.º «Remunerações certas ao pessoal em exercício»:
+Artigo 157.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»: «Para execução do [Decreto-Lei n.º 48676](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48676-1968-263561), de 11 de Novembro de 1968» ... 500000$00
 
@@ -117,35 +137,35 @@ N.º 1) «Pessoal dos quadros aprovados por lei»: «Para execução do [Decreto
 
 Ministério do Interior
 
-### Capítulo 7.º «Guarda Nacional Republicana»:
+Capítulo 7.º «Guarda Nacional Republicana»:
 
-###### Artigo 94.º «Remunerações certas ao pessoal em exercício»:
+Artigo 94.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 1) «Pessoal dos quadros aprovados por lei»: «Para execução do [Decreto-Lei n.º 48674](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48674-1968-263559), de 11 de Novembro de 1968» ... 4070000$00
 
 ... 4868000$00
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério das Finanças
 
-### Capítulo 8.º, artigo 62.º, n.º 1) ... 50000$00
+Capítulo 8.º, artigo 62.º, n.º 1) ... 50000$00
 
-### Capítulo 8.º, artigo 72.º, n.º 1) ... 20000$00
+Capítulo 8.º, artigo 72.º, n.º 1) ... 20000$00
 
-### Capítulo 8.º, artigo 89.º, n.º 1) ... 30000$00
+Capítulo 8.º, artigo 89.º, n.º 1) ... 30000$00
 
-### Capítulo 8.º, artigo 89.º, n.º 2) ... 138000$00
+Capítulo 8.º, artigo 89.º, n.º 2) ... 138000$00
 
-### Capítulo 8.º, artigo 101.º, n.º 1) ... 60000$00
+Capítulo 8.º, artigo 101.º, n.º 1) ... 60000$00
 
-### Capítulo 12.º, artigo 145.º, n.º 1) ... 500000$00
+Capítulo 12.º, artigo 145.º, n.º 1) ... 500000$00
 
 ... 798000$00
 
 Ministério do Interior
 
-### Capítulo 5.º, artigo 64.º, n.º 1) ... 4070000$00
+Capítulo 5.º, artigo 64.º, n.º 1) ... 4070000$00
 
 ... 4868000$00
 
@@ -153,8 +173,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Manuel Gonçalves Rapazote - João Augusto Dias Rosas.
 
-**Promulgado em 13 de Dezembro de 1968.**
+Promulgado em 13 de Dezembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

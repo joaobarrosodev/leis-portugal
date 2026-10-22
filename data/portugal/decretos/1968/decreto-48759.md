@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48759-1968-261968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: abe192cedc011bc01841568952e4f4a2cbe42ac0a01cb1a56d56d1ae014ea733
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2ddeb5e19c10f772519917b5e1ad17491e4abec6b72551f150dc755737899c5e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:162471:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:21Z'
   warnings: []
   errors: []
 ---
@@ -87,18 +91,18 @@ Considerando haver conveniência em alargar para dois anos o prazo para exporta�
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a importação, sob regime de draubaque, de fibras sintéticas classificadas pelo artigo 51.01.02, destinadas ao fabrico de fios, cabos ou cordas.
+Artigo 1.º É autorizada a importação, sob regime de draubaque, de fibras sintéticas classificadas pelo artigo 51.01.02, destinadas ao fabrico de fios, cabos ou cordas.
 
-###### Art. 2.º Por cada 100 kg (peso real) de fios, cabos ou cordas exportados, restituir-se-ão os direitos referentes a 100 kg (peso real) de fibras sintéticas importadas.
+Art. 2.º Por cada 100 kg (peso real) de fios, cabos ou cordas exportados, restituir-se-ão os direitos referentes a 100 kg (peso real) de fibras sintéticas importadas.
 
-###### Art. 3.º A exportação de fios, cabos e cordas a que se refere o presente decreto deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
+Art. 3.º A exportação de fios, cabos e cordas a que se refere o presente decreto deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
 
-###### Art. 4.º É revogado o [Decreto n.º 44466](https://diariodarepublica.pt/dr/detalhe/decreto/44466-1962-162471), de 17 de Julho de 1962.
+Art. 4.º É revogado o [Decreto n.º 44466](https://diariodarepublica.pt/dr/detalhe/decreto/44466-1962-162471), de 17 de Julho de 1962.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Novembro de 1968.**
+Promulgado em 30 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

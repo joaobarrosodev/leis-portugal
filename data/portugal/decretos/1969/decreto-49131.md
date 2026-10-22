@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49131-1969-199581
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3896c99cc6350115b8599274e49831ad79490b68c65857be30d9004adec268f9
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 97297b9a42ed68e5e5dbd2f428ff6a53d75411d83bf18234aa4ff29a0f8e748c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:236701:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:297866:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:352082:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:652921:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 6
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:20Z'
   warnings: []
   errors: []
 ---
@@ -93,17 +109,17 @@ Ouvida a província de Angola;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Angola, um contrato de concessão com a sociedade Companhia Nacional de Diamantes, S. A. R. L. (Dinaco), para pesquisa e exploração de pedras preciosas em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, fazem parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
+Artigo 1.º É o Ministro do Ultramar autorizado a celebrar, em nome do Estado e em representação da província de Angola, um contrato de concessão com a sociedade Companhia Nacional de Diamantes, S. A. R. L. (Dinaco), para pesquisa e exploração de pedras preciosas em conformidade com as bases anexas a este decreto, que são aprovadas para todos os efeitos, fazem parte integrante dele e baixam assinadas pelo Ministro do Ultramar.
 
-###### Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de noventa dias, contados a partir da data da publicação deste decreto, devendo os seus estatutos ser prèviamente submetidos à aprovação do Ministro do Ultramar.
+Art. 2.º A sociedade a que se refere o artigo 1.º deverá constituir-se dentro do prazo máximo de noventa dias, contados a partir da data da publicação deste decreto, devendo os seus estatutos ser prèviamente submetidos à aprovação do Ministro do Ultramar.
 
-###### Art. 3.º Este decreto entra imediatamente em vigor.
+Art. 3.º Este decreto entra imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Julho de 1969.**
+Promulgado em 4 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

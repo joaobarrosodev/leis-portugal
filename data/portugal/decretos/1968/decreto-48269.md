@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48269-1968-235316
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:25Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 524937b80a436ef16637539a44146171033fe0902f6f5ec0dd05f256f2077bdc
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: cc5b107404a7a1ad89ce14177749733f41ad6cdd0f887db984833cc08d90a83c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:25Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:25Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +99,17 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea b), 12.º e 13.º da [Le
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações da Carreira de Tiro de Setúbal, limitada como segue:
+Artigo 1.º Fica sujeita a servidão militar a área de terreno confinante com as instalações da Carreira de Tiro de Setúbal, limitada como segue:
 
-A sueste, por um alinhamento [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) paralelo e a 30m da estrema da Carreira de Tiro, ficando os pontos A e B equidistantes e a 100m do prolongamento do eixo da mesma Carreira de Tiro;
+A sueste, por um alinhamento [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) paralelo e a 30m da estrema da Carreira de Tiro, ficando os pontos A e B equidistantes e a 100m do prolongamento do eixo da mesma Carreira de Tiro;
 
-A sudoeste, por uma poligonal B C D, em que [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) é um alinhamento de 600 m paralelos e a 100 m do eixo da Carreira de Tiro e [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) um alinhamento que faz um ângulo de 163º com [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf);
+A sudoeste, por uma poligonal B C D, em que [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) é um alinhamento de 600 m paralelos e a 100 m do eixo da Carreira de Tiro e [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) um alinhamento que faz um ângulo de 163º com [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf);
 
-A noroeste, por um alinhamento [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) perpendicular ao prolongamento do eixo da Carreira de Tiro e afastado 250m da linha dos alvos, sendo E simétrico de D, em relação a esse eixo;
+A noroeste, por um alinhamento [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) perpendicular ao prolongamento do eixo da Carreira de Tiro e afastado 250m da linha dos alvos, sendo E simétrico de D, em relação a esse eixo;
 
-A nordeste, por uma poligonal E F A, em que [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) é um alinhamento que faz em E um ângulo de 73º com [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) e [([ver documento original](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf))](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) um alinhamento com a extenção de 600 m, paralelo e a 100 m do eixo da Carreira de Tiro.
+A nordeste, por uma poligonal E F A, em que [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) é um alinhamento que faz em E um ângulo de 73º com [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) e [(ver documento original)](https://files.diariodarepublica.pt/1s/1968/03/05800/03290330.pdf) um alinhamento com a extenção de 600 m, paralelo e a 100 m do eixo da Carreira de Tiro.
 
-###### Art. 2.º A servidão militar que incide na área descrita no artigo anterior é a fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida, sem licença, devidamente condicionada da autoridade militar competente, a execução de quaisquer dos trabalhos ou actividades abaixo indicados:
+Art. 2.º A servidão militar que incide na área descrita no artigo anterior é a fixada pelo artigo 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo nessa área proibida, sem licença, devidamente condicionada da autoridade militar competente, a execução de quaisquer dos trabalhos ou actividades abaixo indicados:
 
 a) Fazer construções de qualquer natureza, mesmo que sejam enterradas ou subterrâneas, ou fazer obras de que resultem alterações nas alturas dos imóveis já existentes;
 
@@ -117,15 +125,15 @@ f) Fazer levantamentos topográficos ou fotográficos;
 
 g) O movimento ou permanência de peões, semoventes ou veículos, durante a realização das sessões de tiro.
 
-###### Art. 3.º Ao governador militar de Lisboa compete. ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
+Art. 3.º Ao governador militar de Lisboa compete. ouvida a Direcção do Serviço de Fortificações e Obras Militares, conceder as licenças a que se faz referência no artigo anterior.
 
-###### Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao director da Carreira de Tiro, à Direcção do Serviço de Fortificações e Obras Militares e ao governador militar de Lisboa.
+Art. 4.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao director da Carreira de Tiro, à Direcção do Serviço de Fortificações e Obras Militares e ao governador militar de Lisboa.
 
-###### Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da competência da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
+Art. 5.º A demolição das obras feitas ilegalmente e a aplicação das multas consequentes serão da competência da delegação do Serviço de Fortificações e Obras Militares no Governo Militar de Lisboa.
 
-###### Art. 6.º Das decisões tomadas nos termos do artigo 3.º, cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita a demolição das obras feitas ilegalmente, cabe recurso para o governador militar de Lisboa.
+Art. 6.º Das decisões tomadas nos termos do artigo 3.º, cabe recurso para o Ministro do Exército; das decisões tomadas no que respeita a demolição das obras feitas ilegalmente, cabe recurso para o governador militar de Lisboa.
 
-###### Art. 7.º A área descrita no artigo 1.º será demarcada na planta da região na escala 1/2000, organizando-se oito colecções com a classificação de «reservado», que terão os seguintes destinos:
+Art. 7.º A área descrita no artigo 1.º será demarcada na planta da região na escala 1/2000, organizando-se oito colecções com a classificação de «reservado», que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional.
 
@@ -141,6 +149,6 @@ Uma ao Ministério das Obras Públicas.
 
 Duas ao Ministério do Interior.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 8 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - José Albino Machado Vaz.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48163-1967-401527
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 264742dc2ab757b2efa747cb3e375cbf3f0a24d6260cbc8d7eccc32d0e305524
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 66d8eb94d5353973748f50e619dd61ca16125b10218fce734b02ac55809d23f0
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:401003:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 4
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:41Z'
   warnings: []
   errors: []
 ---
@@ -103,15 +107,15 @@ Nestes termos e nos do artigo 1.º do Decreto-Lei n.º 27655, de 24 de Abril de 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alteradas as disposições de tarifa geral do transporte de passageiros e de mercadorias, em grande e pequena velocidade, no caminho de ferro, conforme o texto anexo, que faz parte integrante deste decreto e vai assinado pelo Ministro das Comunicações.
+Artigo 1.º São alteradas as disposições de tarifa geral do transporte de passageiros e de mercadorias, em grande e pequena velocidade, no caminho de ferro, conforme o texto anexo, que faz parte integrante deste decreto e vai assinado pelo Ministro das Comunicações.
 
-###### Art. 2.º As alterações a que se refere o artigo anterior começam a vigorar em 1 de Janeiro de 1968.
+Art. 2.º As alterações a que se refere o artigo anterior começam a vigorar em 1 de Janeiro de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 26 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Carlos Gomes da Silva Ribeiro.
 
-## Anexo ao Decreto n.º 48163
+Anexo ao Decreto n.º 48163
 
 Tarifa geral de transportes
 
@@ -175,13 +179,13 @@ Recovagens (excepto os géneros frescos e outras mercadorias adiante designadas)
 
 Por tonelada e quilómetro (base 5.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 Géneros frescos:
 
 Por tonelada e quilómetro (base 6.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 Mínimo de peso por cada remessa: 10 kg.
 
@@ -203,23 +207,23 @@ Por tonelada e quilómetro:
 
 1.ª classe (base 19.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 2.ª classe (base 20.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 3.ª classe (base 21.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 4.ª classe (base 22.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 5.ª classe (base 23.ª):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf))](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/12/29800/24162418.pdf)
 
 Mínimo de distância a taxar: 6 km.
 
@@ -233,13 +237,13 @@ Para o cálculo da taxa de remessa de vagão completo vejam-se os artigos 97.º 
 
 Disposições comuns aos transportes em grande e pequena velocidade
 
-###### Art. 93.º Qualquer que seja a distância percorrida, o mínimo de cobrança pelo transporte de qualquer expedição, quer em grande, quer em pequena velocidade, é de 7$50, quando na presente tarifa não esteja fixado outro mínimo (vide quadro das bases dos preços).
+Art. 93.º Qualquer que seja a distância percorrida, o mínimo de cobrança pelo transporte de qualquer expedição, quer em grande, quer em pequena velocidade, é de 7$50, quando na presente tarifa não esteja fixado outro mínimo (vide quadro das bases dos preços).
 
 Vagões completos a transportes a granel
 
 Mercadorias
 
-###### Art. 97.º Sem prejuízo do estabelecido nos artigos 66.º e 67.º, são considerados carregamentos de vagão completo aqueles que, por cada vagão empregado, atinjam, segundo a mercadoria ou mercadorias que os constituam, o peso mínimo de 5000 kg ou paguem por este mínimo.
+Art. 97.º Sem prejuízo do estabelecido nos artigos 66.º e 67.º, são considerados carregamentos de vagão completo aqueles que, por cada vagão empregado, atinjam, segundo a mercadoria ou mercadorias que os constituam, o peso mínimo de 5000 kg ou paguem por este mínimo.
 
 O mínimo de 5000 kg é substituído pelo exigido na classificação geral de mercadorias quando este último for inferior.
 
@@ -253,8 +257,8 @@ Quando o carregamento seja constituído por mercadorias a que correspondam difer
 
 § 4.º ...
 
-###### Art. 97.º-bis. As remessas de vagão completo transportadas ao abrigo desta tarifa das quais façam parte volumes de peso indivisível superior a 3000 kg ou de comprimento superior ao da caixa do vagão e, bem assim, aquelas cujas operações de carga ou de descarga por qualquer circunstância hajam de ser feitas pelas empresas são taxadas pelos preços que lhes correspondam aumentados de 10 por cento.
+Art. 97.º-bis. As remessas de vagão completo transportadas ao abrigo desta tarifa das quais façam parte volumes de peso indivisível superior a 3000 kg ou de comprimento superior ao da caixa do vagão e, bem assim, aquelas cujas operações de carga ou de descarga por qualquer circunstância hajam de ser feitas pelas empresas são taxadas pelos preços que lhes correspondam aumentados de 10 por cento.
 
-###### Art. 98.º As mercadorias não acondicionadas a que caiba a designação «a granel», isto é, as que possam ser removidas à pá ou se apresentem fragmentadas por forma que não seja prática a contagem dos volumes, as susceptíveis de prejudicar outras que sigam no mesmo vagão ou de com estas se misturarem e as que ocupem a capacidade total do vagão onde forem carregadas, só são aceitas para transporte, pelos preços desta tarifa, por carregamentos de vagão completo do peso mínimo de 5000 kg ou pagando como tal.
+Art. 98.º As mercadorias não acondicionadas a que caiba a designação «a granel», isto é, as que possam ser removidas à pá ou se apresentem fragmentadas por forma que não seja prática a contagem dos volumes, as susceptíveis de prejudicar outras que sigam no mesmo vagão ou de com estas se misturarem e as que ocupem a capacidade total do vagão onde forem carregadas, só são aceitas para transporte, pelos preços desta tarifa, por carregamentos de vagão completo do peso mínimo de 5000 kg ou pagando como tal.
 
 Ministério das Comunicações, 26 de Dezembro de 1967. - O Ministro das Comunicações, Carlos Gomes da silva Ribeiro.

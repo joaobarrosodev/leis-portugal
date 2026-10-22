@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49197-1969-198537
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 47b0c47a3c13ce83e6559415dc72bc7f3721ddacccac4e1eb38a1cfaa5cefe86
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fef94c04389684e3dac44ef869e95c1854beae2ffd8177566a63117e113ad06d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
-  section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:50Z'
   warnings: []
   errors: []
 ---
@@ -88,29 +96,29 @@ Com fundamento no artigo 2.º do [Decreto-Lei n.º 24914](https://diariodarepubl
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Obras Públicas, um crédito especial da quantia de 50000000$00 devendo a mesma importância ser adicionada à verba inscrita no n.º 1) «Construção de 6310 km e reparação de 5960 km de estradas ...» do artigo 105.º «Viação rural», do capítulo 14.º «III Plano de Fomento», do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
+Artigo 1.º É aberto no Ministério das Finanças, a favor do Ministério das Obras Públicas, um crédito especial da quantia de 50000000$00 devendo a mesma importância ser adicionada à verba inscrita no n.º 1) «Construção de 6310 km e reparação de 5960 km de estradas ...» do artigo 105.º «Viação rural», do capítulo 14.º «III Plano de Fomento», do orçamento respeitante ao corrente ano económico do segundo dos mencionados Ministérios.
 
-###### Art. 2.º Para compensação do crédito designado no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 2.º Para compensação do crédito designado no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério das Finanças
 
-### Capítulo 1.º, artigo 13.º ... 20000000$00
+Capítulo 1.º, artigo 13.º ... 20000000$00
 
-### Capítulo 20.º, artigo 217.º ... 10000000$00
+Capítulo 20.º, artigo 217.º ... 10000000$00
 
 ... 30000000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 14.º, artigo 104.º, n.º 2) ... 5000000$00
+Capítulo 14.º, artigo 104.º, n.º 2) ... 5000000$00
 
-### Capítulo 14.º, artigo 110.º, n.º 3) ... 2600000$00
+Capítulo 14.º, artigo 110.º, n.º 3) ... 2600000$00
 
-### Capítulo 14.º, artigo 110.º, n.º 7) ... 3000000$00
+Capítulo 14.º, artigo 110.º, n.º 7) ... 3000000$00
 
-### Capítulo 14.º, artigo 110.º, n.º 9) ... 7000000$00
+Capítulo 14.º, artigo 110.º, n.º 9) ... 7000000$00
 
-### Capítulo 14.º, artigo 110.º, n.º 10) ... 2400000$00
+Capítulo 14.º, artigo 110.º, n.º 10) ... 2400000$00
 
 ... 20000000$00
 
@@ -120,8 +128,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 8 de Agosto de 1969.**
+Promulgado em 8 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 20 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

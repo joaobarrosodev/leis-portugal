@@ -46,40 +46,69 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48366-1968-274847
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1982-09-07T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 85ff482fc7082fb9c7ab08ee88db8845c897f208ad9c37832d2209fc9075557b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 2268ab59f69124ff59698fa82fd64a8f430e7d2fc085562d87d27e27f504fe32
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Comissão Interministerial do Café
+- Definição de Competências
+- Direcção Geral de Economia
+- Ministério do Ultramar
+- Quadro de Pessoal
 relationships:
 - type: amended_by
   target: pt:dre:374239:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:616234:por
+  label: "Substituído o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.1100/80.30.12.1980.PCM, DR.IS\
+    \ [300] de 30.12.1980\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/1100-1980-616234
+  date: '1980-12-30'
+- type: amended_by
+  target: pt:dre:374239:por
+  label: "Substituído o quadro de pessoal constante do mapa anexo ao presente diploma, pela PORT.849/82.07.09.1982.MFP, DR.IS\
+    \ [207] de 07.09.1982\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/849-1982-374239
+  date: '1982-09-07'
+- type: cites
+  target: pt:dre:173969:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:312664:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:534829:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 9
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:11Z'
   warnings: []
   errors: []
 ---
@@ -98,7 +127,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 ### CAPÍTULO I — Das atribuições da Comissão
 
-###### Artigo 1.º A Comissão Interministerial do Café é um órgão destinado ao estudo, em plano nacional e internacional, de todos os problemas relacionados com o café português e da sua promoção nos diversos mercados.
+Artigo 1.º A Comissão Interministerial do Café é um órgão destinado ao estudo, em plano nacional e internacional, de todos os problemas relacionados com o café português e da sua promoção nos diversos mercados.
 
 § 1.º Incumbe, em especial, à Comissão:
 
@@ -132,7 +161,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 #### SECÇÃO II — Da Comissão
 
-###### Art. 2.º A Comissão Interministerial do Café funciona junto da Direcção-Geral de Economia do Ministério do Ultramar, com a seguinte composição:
+Art. 2.º A Comissão Interministerial do Café funciona junto da Direcção-Geral de Economia do Ministério do Ultramar, com a seguinte composição:
 
 1. O director-geral de Economia do Ministério do Ultramar, que presidirá;
 
@@ -154,7 +183,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 § 4.º Servirá de secretário da Comissão o funcionário que chefiar os serviços administrativos e de propaganda.
 
-###### Art. 3.º A Comissão reúne uma vez por mês e, extraordinàriamente, sempre que for convocada pelo respectivo presidente ou quando a convocação for pedida pelos representantes a que se referem os n.os 3 e 4 do corpo do artigo 2.º
+Art. 3.º A Comissão reúne uma vez por mês e, extraordinàriamente, sempre que for convocada pelo respectivo presidente ou quando a convocação for pedida pelos representantes a que se referem os n.os 3 e 4 do corpo do artigo 2.º
 
 § 1.º Poderão assistir, sem voto, às reuniões da Comissão, a convite do respectivo presidente, pessoas que, pelos seus conhecimentos ou especiais qualificações, possam colaborar eficazmente nos seus trabalhos.
 
@@ -164,7 +193,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 #### SECÇÃO II — Do conselho administrativo
 
-###### Art. 4.º A Comissão terá um conselho administrativo incumbido de gerir o Fundo de Fomento e de Propaganda do Café.
+Art. 4.º A Comissão terá um conselho administrativo incumbido de gerir o Fundo de Fomento e de Propaganda do Café.
 
 § 1.º O conselho administrativo será constituído pelo presidente da Comissão, pelo chefe dos serviços de apoio e por um funcionário da Direcção-Geral de Fazenda do Ministério do Ultramar designado pelo Ministro.
 
@@ -174,7 +203,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 § 4.º O funcionário da Direcção-Geral de Fazenda que fizer parte do conselho administrativo terá direito a uma gratificação mensal a fixar por despacho do Ministro do Ultramar.
 
-###### Art. 5.º O conselho administrativo tem competência para autorizar despesas não superiores a 200000$00.
+Art. 5.º O conselho administrativo tem competência para autorizar despesas não superiores a 200000$00.
 
 § 1.º O conselho reunirá, em regra, uma vez por semana, em dia e hora que o presidente designar, e, extraordinàriamente, sempre que a urgência dos assuntos o exija e o presidente o determine.
 
@@ -182,7 +211,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 § 3.º Quando o representante da Direcção-Geral de Fazenda levantar dúvidas sobre a legalidade das despesas, serão estas dúvidas consignadas na acta para serem apreciadas e resolvidas por despacho do Ministro do Ultramar.
 
-###### Art. 6.º O conselho administrativo submeterá à aprovação do Ministro do Ultramar, com o parecer da Comissão, até 30 de Novembro de cada ano, o projecto do orçamento para o ano seguinte, o qual, depois de aprovado, será executado nos termos da lei.
+Art. 6.º O conselho administrativo submeterá à aprovação do Ministro do Ultramar, com o parecer da Comissão, até 30 de Novembro de cada ano, o projecto do orçamento para o ano seguinte, o qual, depois de aprovado, será executado nos termos da lei.
 
 § 1.º O conselho administrativo é obrigado a prestar anualmente contas da sua administração ao Tribunal de Contas nos prazos legalmente estabelecidos.
 
@@ -190,7 +219,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 #### SECÇÃO III — Dos serviços de apoio
 
-###### Art. 7.º Na Direcção-Geral de Economia do Ministério do Ultramar funcionam os serviços de apoio à Comissão.
+Art. 7.º Na Direcção-Geral de Economia do Ministério do Ultramar funcionam os serviços de apoio à Comissão.
 
 § 1.º Os serviços referidos no corpo do artigo são:
 
@@ -200,7 +229,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 § 2.º Por estes serviços poderão correr ainda os assuntos relativos ao chá, cacau e outros.
 
-###### Art. 8.º Os serviços de apoio à Comissão são chefiados por um técnico designado pelo Ministro do Ultramar, sob proposta do director-geral de Economia. Nessa qualidade assistirá às reuniões da Comissão e substituirá o presidente nas suas faltas, impedimentos ou ausências.
+Art. 8.º Os serviços de apoio à Comissão são chefiados por um técnico designado pelo Ministro do Ultramar, sob proposta do director-geral de Economia. Nessa qualidade assistirá às reuniões da Comissão e substituirá o presidente nas suas faltas, impedimentos ou ausências.
 
 § 1.º O presidente, ouvida a Comissão, pode delegar no chefe dos serviços de apoio parte da sua competência.
 
@@ -208,7 +237,7 @@ COMISSÃO INTERMINISTERIAL DO CAFÉ
 
 Dos serviços económicos:
 
-###### Art. 9.º Incumbe, em especial, aos serviços económicos:
+Art. 9.º Incumbe, em especial, aos serviços económicos:
 
 1. A manutenção constante do intercâmbio de informação com os organismos estrangeiros ou internacionais que tratem dos problemas do café nos seus vários aspectos;
 
@@ -234,7 +263,7 @@ Dos serviços económicos:
 
 ##### SUBSECÇÃO II — Dos serviços administrativos e de propaganda
 
-###### Art. 10.º Incumbe, em especial, aos serviços administrativos e de propaganda:
+Art. 10.º Incumbe, em especial, aos serviços administrativos e de propaganda:
 
 1. Dar apoio burocrático à Comissão e aos serviços económicos;
 
@@ -248,9 +277,9 @@ Dos serviços económicos:
 
 ### CAPÍTULO III — Do pessoal
 
-###### Art. 11.º O quadro do pessoal dos serviços de apoio à Comissão é o que consta do mapa anexo a este diploma e que dele faz parte integrante.
+Art. 11.º O quadro do pessoal dos serviços de apoio à Comissão é o que consta do mapa anexo a este diploma e que dele faz parte integrante.
 
-###### Art. 12.º O provimento dos lugares a que se refere o mapa anexo ao presente diploma será feito por contrato, nos termos do Estatuto do Funcionalismo Ultramarino.
+Art. 12.º O provimento dos lugares a que se refere o mapa anexo ao presente diploma será feito por contrato, nos termos do Estatuto do Funcionalismo Ultramarino.
 
 Poderão ainda ser providos por funcionários do Ministério do Ultramar, de preferência da Direcção-Geral de Economia ou do Instituto do Café de Angola, em comissão ordinária de serviço.
 
@@ -258,13 +287,13 @@ Poderão ainda ser providos por funcionários do Ministério do Ultramar, de pre
 
 § 2.º Poderá ser admitido por despacho ministerial, para trabalhos de natureza transitória, outro pessoal em regime de assalariamento ou por tarefa.
 
-###### Art. 13.º O provimento dos lugares de técnico dos serviços económicos será feito da seguinte forma:
+Art. 13.º O provimento dos lugares de técnico dos serviços económicos será feito da seguinte forma:
 
 1. Os lugares de técnico de 3.ª classe serão preenchidos mediante concurso documental ou por nomeação em comissão ordinária de funcionários do Ministério do Ultramar, de preferência da Direcção-Geral de Economia ou do Instituto do Café de Angola, uns e outros diplomados com curso superior adequado ao cargo;
 
 2. Os lugares de técnico de 1.ª e 2.ª classes serão preenchidos por escolha do Ministro de entre, respectivamente, técnicos de 2.ª e 3.ª classes ou por nomeação em comissão.
 
-###### Art. 14.º O provimento dos lugares dos serviços administrativos e de propaganda será feito da seguinte forma:
+Art. 14.º O provimento dos lugares dos serviços administrativos e de propaganda será feito da seguinte forma:
 
 1. O lugar de chefe dos serviços administrativos e de propaganda é provido por escolha do Ministro, em comissão ordinária, entre chefes de secção do Ministério do Ultramar ou do Instituto do Café de Angola, diplomados com curso superior adequado ou por contrato;
 
@@ -276,21 +305,21 @@ Poderão ainda ser providos por funcionários do Ministério do Ultramar, de pre
 
 5. Os lugares de contínuo serão providos por livre escolha do Ministro.
 
-###### Art. 15.º O primeiro provimento dos lugares previsto no n.º II do mapa anexo será feito por livre escolha do Ministro, independentemente de idade e de habilitações legais exigidas por lei, sendo os contratos ou as portarias de nomeação simplesmente anotados pelo Tribunal de Contas.
+Art. 15.º O primeiro provimento dos lugares previsto no n.º II do mapa anexo será feito por livre escolha do Ministro, independentemente de idade e de habilitações legais exigidas por lei, sendo os contratos ou as portarias de nomeação simplesmente anotados pelo Tribunal de Contas.
 
-###### Art. 16.º Aos funcionários nomeados em comissão ordinária será contado como efectivo no seu quadro e categoria, para todos os efeitos legais, e nomeadamente para concursos e para promoção, todo o tempo de serviço prestado em comissão.
+Art. 16.º Aos funcionários nomeados em comissão ordinária será contado como efectivo no seu quadro e categoria, para todos os efeitos legais, e nomeadamente para concursos e para promoção, todo o tempo de serviço prestado em comissão.
 
 ### CAPÍTULO IV — Disposições finais
 
-###### Art. 17.º O Regulamento do Fundo de Fomento e Propaganda do Café será aprovado por portaria do Ministro do Ultramar.
+Art. 17.º O Regulamento do Fundo de Fomento e Propaganda do Café será aprovado por portaria do Ministro do Ultramar.
 
 § 1.º Continuam a reverter para o Fundo de Fomento e Propaganda do Café as taxas cobradas sobre a importação do café estrangeiro na metrópole.
 
 § 2.º As despesas com o funcionamento da Comissão Interministerial do Café e com os respectivos serviços de apoio são suportadas pelo Fundo de Fomento e Propaganda do Café.
 
-###### Art. 18.º O presente diploma entra em vigor no dia 1 de Julho de 1968.
+Art. 18.º O presente diploma entra em vigor no dia 1 de Julho de 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 2 de Maio de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alberto Marciano Gorjão Franco Nogueira - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Fernando Manuel Alves Machado.
 
@@ -298,6 +327,6 @@ Para ser publicado no Boletim Oficial de todas as províncias ultramarinas. - J.
 
 Mapa anexo ao Decreto n.º 48366
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/05/10500/06540657.pdf))](https://files.diariodarepublica.pt/1s/1968/05/10500/06540657.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/05/10500/06540657.pdf)
 
 Ministérios dos Negócios Estrangeiros, do Ultramar e da Economia, 2 de Maio de 1968. - O Ministro dos Negócios Estrangeiros, Alberto Marciano Gorjão Franco Nogueira. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha. - O Ministro da Economia, José Gonçalo da Cunha Sottomayor Correia de Oliveira. - O Secretário de Estado do Comércio, Fernando Manuel Alves Machado.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49165-1969-198745
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-02T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 59ca3c2ef598f3c26440774b7c01cb1028e564ca9e9424f516abd7299183f9ca
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8c521db85c7bbe76256ac9be100ca3a48a616a5cc65bc29f2b6260cdbdfb494d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:201048:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:476880:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:41Z'
   warnings: []
   errors: []
 ---
@@ -94,9 +102,9 @@ Nos termos do disposto na alínea g) do n.º 1.º da base X da Lei Orgânica do 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos 12.º, 15.º, 21.º, 64.º, 65.º, 118.º, 216.º, 217.º, 218.º, 239.º, 245.º, 249.º, 250.º, 251.º, 322.º, 430.º, 432.º e 445.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passam a ter a seguinte redacção:
+Artigo 1.º Os artigos 12.º, 15.º, 21.º, 64.º, 65.º, 118.º, 216.º, 217.º, 218.º, 239.º, 245.º, 249.º, 250.º, 251.º, 322.º, 430.º, 432.º e 445.º do Estatuto do Funcionalismo Ultramarino, aprovado pelo [Decreto n.º 46982](https://diariodarepublica.pt/dr/detalhe/decreto/46982-1966-476880), de 27 de Abril de 1966, passam a ter a seguinte redacção:
 
-###### Art. 12.º ...
+Art. 12.º ...
 
 § 1.º Os indivíduos que tenham completado 35 anos não podem ser providos em lugares de acesso de categoria inferior à do grupo F do artigo 90.º deste diploma.
 
@@ -124,7 +132,7 @@ Este limite não é aplicável:
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º Não obstará, contudo, ao provimento a idade superior em dois anos, no máximo, à permitida por lei se à data do encerramento do concurso o concorrente se encontrava nas condições legais.
 
@@ -132,7 +140,7 @@ Este limite não é aplicável:
 
 ...
 
-###### Art. 21.º ...
+Art. 21.º ...
 
 § 1.º ...
 
@@ -144,19 +152,19 @@ Este limite não é aplicável:
 
 ...
 
-###### Art. 64.º ...
+Art. 64.º ...
 
 § 1.º O Ministro do Ultramar, em caso de conveniência urgente de serviço, ouvidos os governadores ou sob sua proposta, poderá fazer nomeações interinas para cargos dos quadros privativos das respectivas províncias sempre que o recrutamento seja efectuado na metrópole.
 
 § 2.º Em caso de conveniência urgente de serviço, poderão as nomeações interinas da competência do Ministro ser feitas pelos governadores, que as submeterão, pela via mais rápida, ao Ministro, para efeitos de confirmação. O despacho que negue a confirmação produzirá o efeito de exoneração do nomeado.
 
-###### Art. 65.º ...
+Art. 65.º ...
 
 § único. As nomeações feitas pelo Ministro produzirão efeito enquanto durarem as circunstâncias que as justificarem. As feitas pelos governadores, dentro da sua competência normal, caducam ao fim de um ano, salvo as excepções previstas na lei, e podem por eles ser renovadas por igual período quando o interesse da Administração o justifique; findos os dois anos, não será permitida nova nomeação ou recondução, a não ser mediante autorização do Ministro do Ultramar, que só a concederá quando se verifiquem motivos ponderosos, devidamente justificados. As nomeações interinas feitas pelos governadores nos termos do § 2.º do artigo antecedente não terão validade por mais de um ano e só podem ser renovadas com autorização do Ministro.
 
 ...
 
-###### Art. 118.º Além de outro tempo de serviço declarado na lei, conta-se para todos os efeitos, designadamente conversão de nomeação provisória em definitiva, antiguidade e promoção:
+Art. 118.º Além de outro tempo de serviço declarado na lei, conta-se para todos os efeitos, designadamente conversão de nomeação provisória em definitiva, antiguidade e promoção:
 
 1.º O tempo de serviço efectivo prestado pelos interinos, desde que, sem interrupção de funções ou com interrupções por períodos não superiores a sessenta dias e por motivos que não lhes sejam imputáveis, venham a ser providos a título normal em cargo da mesma categoria e classe do mesmo quadro.
 
@@ -172,7 +180,7 @@ Este limite não é aplicável:
 
 § único. São isentos de quaisquer emolumentos e de imposto do selo os requerimentos para a concessão de licença disciplinar e por doença.
 
-###### Art. 217.º ...
+Art. 217.º ...
 
 a) ...
 
@@ -190,7 +198,7 @@ g) Até seis dias úteis seguidos por motivo de casamento, devendo o facto ser c
 
 § único ...
 
-###### Art. 218.º ...
+Art. 218.º ...
 
 § 1.º ...
 
@@ -216,7 +224,7 @@ e) Faltas a que outras disposições legais atribuam o mesmo regime.
 
 ...
 
-###### Art. 239.º As juntas de saúde podem conceder, em regra, por períodos não superiores a trinta dias, licenças até doze meses, findos os quais, se o funcionário não puder ainda, apresentar-se ao serviço, passará, conforme desejar, à situação de aposentado, se a ela tiver direito, ou à situação de licença ilimitada.
+Art. 239.º As juntas de saúde podem conceder, em regra, por períodos não superiores a trinta dias, licenças até doze meses, findos os quais, se o funcionário não puder ainda, apresentar-se ao serviço, passará, conforme desejar, à situação de aposentado, se a ela tiver direito, ou à situação de licença ilimitada.
 
 § 1.º Para efeito de contagem do prazo fixado no corpo do artigo, computar-se-ão sempre, ainda que relativas a anos civis diferentes:
 
@@ -242,11 +250,11 @@ b) A licença por doença não poderá exceder o limite de seis meses.
 
 ...
 
-###### Art. 245.º A licença concedida pela Junta de Saúde do Ultramar nos termos dos artigos anteriores conta-se desde o dia seguinte ao da chegada à metrópole e, na sua totalidade, não poderá exceder doze meses, concedidos, em regra, por períodos não superiores a noventa dias, findos os quais o funcionário passará às situações previstas na parte final do artigo 239.º
+Art. 245.º A licença concedida pela Junta de Saúde do Ultramar nos termos dos artigos anteriores conta-se desde o dia seguinte ao da chegada à metrópole e, na sua totalidade, não poderá exceder doze meses, concedidos, em regra, por períodos não superiores a noventa dias, findos os quais o funcionário passará às situações previstas na parte final do artigo 239.º
 
 ...
 
-###### Art. 249.º Se, esgotado o período máximo de licença para tratamento, concedido nos termos do artigo 247.º, os funcionários, exceptuados os contratados, não forem considerados prontos, poderão pelas juntas de saúde ser declarados, pelo máximo de cento e vinte dias, na situação de incapacidade temporária; findo este tempo, se continuarem doentes, passarão à situação de inactividade fora do quadro.
+Art. 249.º Se, esgotado o período máximo de licença para tratamento, concedido nos termos do artigo 247.º, os funcionários, exceptuados os contratados, não forem considerados prontos, poderão pelas juntas de saúde ser declarados, pelo máximo de cento e vinte dias, na situação de incapacidade temporária; findo este tempo, se continuarem doentes, passarão à situação de inactividade fora do quadro.
 
 § 1.º As situações referidas no corpo do artigo não poderão, na sua totalidade, exceder doze meses, findos os quais o funcionário passará às situações previstas na parte final do artigo 239.º
 
@@ -254,15 +262,15 @@ b) A licença por doença não poderá exceder o limite de seis meses.
 
 § 3.º A situação de incapacidade temporária não se conta para efeito algum, incluindo vencimentos, que só voltarão a ser abonados quando os funcionários sejam declarados prontos para o serviço. Se, porém, durante esta situação, ou a seguir a ela, um funcionário atingir o limite de idade ou for julgado incapaz de todo o serviço, a respectiva pensão provisória ser-lhe-á paga a partir da publicação da portaria da desligação do serviço para efeitos de aposentação.
 
-###### Art. 250.º Se, tendo sido declarado pronto para o serviço e estando a aguardar transporte, um funcionário adoecer, será de novo presente à junta de saúde local, que poderá arbitrar-lhe licença para tratamento ou considerá-lo temporàriamente incapaz no caso de os períodos máximos destas situações não terem sido ainda atingidos; se já tiverem sido atingidos, o funcionário passará às situações previstas na parte final do artigo 239.º
+Art. 250.º Se, tendo sido declarado pronto para o serviço e estando a aguardar transporte, um funcionário adoecer, será de novo presente à junta de saúde local, que poderá arbitrar-lhe licença para tratamento ou considerá-lo temporàriamente incapaz no caso de os períodos máximos destas situações não terem sido ainda atingidos; se já tiverem sido atingidos, o funcionário passará às situações previstas na parte final do artigo 239.º
 
-###### Art. 251.º Os assalariados com mais de um ano de serviço têm direito à licença por doença na própria província durante trinta dias, prorrogáveis até cento e vinte dias.
+Art. 251.º Os assalariados com mais de um ano de serviço têm direito à licença por doença na própria província durante trinta dias, prorrogáveis até cento e vinte dias.
 
 Durante os primeiros trinta dias será abonado o salário por inteiro, mas durante a prorrogação serão abonados apenas 2/3 dele.
 
 ...
 
-###### Art. 322.º ...
+Art. 322.º ...
 
 § 1.º ...
 
@@ -274,7 +282,7 @@ Durante os primeiros trinta dias será abonado o salário por inteiro, mas duran
 
 ...
 
-###### Art. 430.º Têm direito à aposentação todos os funcionários e agentes do Estado, seja qual for a forma de provimento ou a natureza da prestação de serviço, desde que satisfaçam aos seguintes requisitos:
+Art. 430.º Têm direito à aposentação todos os funcionários e agentes do Estado, seja qual for a forma de provimento ou a natureza da prestação de serviço, desde que satisfaçam aos seguintes requisitos:
 
 1.º Tenham satisfeito ou venham a satisfazer os encargos prescritos nos artigos 437.º e seguintes.
 
@@ -296,11 +304,11 @@ Durante os primeiros trinta dias será abonado o salário por inteiro, mas duran
 
 ...
 
-###### Art. 432.º O tempo de serviço prestado na metrópole, incluindo o militar, é contado para efeitos de aposentação no ultramar desde que, pela legislação metropolitana, possa ser levado em conta para esse efeito e o interessado satisfaça ou venha a satisfazer os encargos respectivos.
+Art. 432.º O tempo de serviço prestado na metrópole, incluindo o militar, é contado para efeitos de aposentação no ultramar desde que, pela legislação metropolitana, possa ser levado em conta para esse efeito e o interessado satisfaça ou venha a satisfazer os encargos respectivos.
 
 ...
 
-###### Art. 445.º ...
+Art. 445.º ...
 
 § 1.º ...
 
@@ -314,15 +322,15 @@ Durante os primeiros trinta dias será abonado o salário por inteiro, mas duran
 
 § 6.º Se o funcionário ou agente provar que a média das remunerações recebidas nos últimos dez anos sobre as quais incidiu o desconto da quota é superior ao vencimento base atribuído ao cargo em que se encontra provido, será essa a média que servirá de cálculo à respectiva pensão, tendo em vista que o seu quantitativo não poderá exceder o limite previsto no artigo 154.º em relação ao cargo imediatamente superior e na escala geral o que está previsto para a categoria da letra A a que se refere o § 1.º do artigo 91.º
 
-###### Art. 2.º As normas previstas no Estatuto do Funcionalismo Ultramarino para o regime de assalariamento, com as alterações que lhe são introduzidas neste diploma, passam a ser aplicadas ao pessoal assalariado das missões hidrográficas do ultramar que seja recrutado e preste serviço nas províncias ultramarinas.
+Art. 2.º As normas previstas no Estatuto do Funcionalismo Ultramarino para o regime de assalariamento, com as alterações que lhe são introduzidas neste diploma, passam a ser aplicadas ao pessoal assalariado das missões hidrográficas do ultramar que seja recrutado e preste serviço nas províncias ultramarinas.
 
-###### Art. 3.º Este decreto entra em vigor no dia 1 de Outubro de 1969.
+Art. 3.º Este decreto entra em vigor no dia 1 de Outubro de 1969.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Julho de 1969.**
+Promulgado em 18 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 2 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

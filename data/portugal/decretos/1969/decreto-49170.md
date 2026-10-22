@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49170-1969-198915
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a687e1111a0328ef7aed5e44ae98a3e4789041f03eb3336ae1068fc9c03595b6
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6ac9d9d0e986d76eeb76da3d2b24ea92acaab58ef119973ae206846d0bc2fe10
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,15 +67,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:41Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +92,9 @@ Nestes termos, sob proposta do Governo da província e ouvido o Conselho Ultrama
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O lugar de administrador da Imprensa Nacional de Angola passa a ter a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
+Artigo 1.º O lugar de administrador da Imprensa Nacional de Angola passa a ter a categoria da letra E do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino.
 
-###### Art. 2.º São aumentados aos quadros do pessoal da Imprensa Nacional de Angola os seguintes lugares, com as categorias adiante designadas, do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 2.º São aumentados aos quadros do pessoal da Imprensa Nacional de Angola os seguintes lugares, com as categorias adiante designadas, do § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
 
 a) Quadro I (pessoal dos quadros aprovados por lei):
 
@@ -160,9 +160,9 @@ c) Quadro III (pessoal assalariado):
 
 4 auxiliares técnicos ... Y
 
-###### Art. 3.º No quadro III, os lugares de serralheiro mecânico e de ajudante de serralheiro passam a estar incluídos, respectivamente, nas letras N e S.
+Art. 3.º No quadro III, os lugares de serralheiro mecânico e de ajudante de serralheiro passam a estar incluídos, respectivamente, nas letras N e S.
 
-###### Art. 4.º São extintos os seguintes lugares:
+Art. 4.º São extintos os seguintes lugares:
 
 a) Quadro I (pessoal dos quadros aprovados por lei):
 
@@ -188,29 +188,29 @@ c) Quadro III (pessoal assalariado):
 
 1 ajudante de pedreiro ... Y
 
-###### Art. 5.º São criados os serviços sociais, constituídos por uma assistente social, uma educadora social e duas auxiliares de família, cuja admissão será feita mediante concurso documental aberto entre diplomadas com os cursos respectivos.
+Art. 5.º São criados os serviços sociais, constituídos por uma assistente social, uma educadora social e duas auxiliares de família, cuja admissão será feita mediante concurso documental aberto entre diplomadas com os cursos respectivos.
 
 § 1.º Os serviços sociais serão dirigidos pela assistente social, que dependerá directamente do administrador, sendo substituída, nas suas faltas e impedimentos, pela educadora social.
 
 § 2.º O primeiro provimento dos lugares referidos no corpo do artigo poderá ser feito sob proposta do conselho administrativo, com dispensa das formalidades de concurso, devendo, porém, recair sempre em indivíduos diplomados com as habilitações correspondentes.
 
-###### Art. 6.º O Governo-Geral de Angola publicará no Boletim Oficial uma lista nominal, simplesmente anotada pelo Tribunal Administrativo, integrando nos novos lugares criados e nas vagas que resultarem do movimento os funcionários e outros agentes que à data da publicação deste diploma prestarem serviço na Imprensa Nacional, considerando-se os mesmos empossados nos novos lugares, sem qualquer outra formalidade, a partir da publicação da lista.
+Art. 6.º O Governo-Geral de Angola publicará no Boletim Oficial uma lista nominal, simplesmente anotada pelo Tribunal Administrativo, integrando nos novos lugares criados e nas vagas que resultarem do movimento os funcionários e outros agentes que à data da publicação deste diploma prestarem serviço na Imprensa Nacional, considerando-se os mesmos empossados nos novos lugares, sem qualquer outra formalidade, a partir da publicação da lista.
 
 § único. O pessoal dos actuais quadros continuará em serviço e a ser abonado dos vencimentos e outras remunerações a que tiver direito pelas verbas que actualmente suportam os respectivos encargos até à publicação no Boletim Oficial da lista referida no corpo do artigo.
 
-###### Art. 7.º Ao tesoureiro será concedido um abono mensal para falhas da importância de 500$00.
+Art. 7.º Ao tesoureiro será concedido um abono mensal para falhas da importância de 500$00.
 
-###### Art. 8.º Ao chefe da contabilidade é atribuída a gratificação mensal de 1000$00.
+Art. 8.º Ao chefe da contabilidade é atribuída a gratificação mensal de 1000$00.
 
-###### Art. 9.º Os conferentes de valores selados com mais de dez anos de serviço passam para a letra S.
+Art. 9.º Os conferentes de valores selados com mais de dez anos de serviço passam para a letra S.
 
-###### Art. 10.º O Governo-Geral de Angola fica autorizado a tomar as disposições de ordem financeira necessárias à execução do presente diploma, que fica condicionado às disponibilidades orçamentais do referido serviço.
+Art. 10.º O Governo-Geral de Angola fica autorizado a tomar as disposições de ordem financeira necessárias à execução do presente diploma, que fica condicionado às disponibilidades orçamentais do referido serviço.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 23 de Julho de 1969.**
+Promulgado em 23 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 5 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

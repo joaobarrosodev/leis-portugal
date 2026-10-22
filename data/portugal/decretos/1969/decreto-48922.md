@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48922-1969-524823
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:44Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 0addc86f4ef33b0c85257cf886eea31d14858b3cbb54deec70684c0b5023ff2f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e0afeedb1a3ac05e2a6f3fd8abc8c339a148a25a720a5b5e0a341d656b7a509
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:44Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235286:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:262652:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:44Z'
   warnings: []
   errors: []
 ---
@@ -95,9 +103,9 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. São alterados os artigos 5.º, §§ 1.º e 2.º, 10.º, 17.º, 41.º e 44.º do [Decreto n.º 48272](https://diariodarepublica.pt/dr/detalhe/decreto/48272-1968-235286), de 11 de Março de 1968, que passam a ter a seguinte redacção:
+Artigo único. São alterados os artigos 5.º, §§ 1.º e 2.º, 10.º, 17.º, 41.º e 44.º do [Decreto n.º 48272](https://diariodarepublica.pt/dr/detalhe/decreto/48272-1968-235286), de 11 de Março de 1968, que passam a ter a seguinte redacção:
 
-###### Art. 5.º ...
+Art. 5.º ...
 
 § 1.º As importâncias a que se referem as alíneas e) e g) a k) deverão ser comprovadas por documentos a juntar à declaração modelo n.º 1, ou por relações discriminativas individualizando os documentos pagos, sem o que não serão consideradas como custos para efeitos deste imposto.
 
@@ -105,7 +113,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 10.º Os contribuintes deverão apresentar, até 31 de Maio de 1969, uma declaração, conforme o modelo n.º 1, da qual constem os rendimentos sujeitos
+Art. 10.º Os contribuintes deverão apresentar, até 31 de Maio de 1969, uma declaração, conforme o modelo n.º 1, da qual constem os rendimentos sujeitos
 
 a imposto por eles obtidos no ano de 1968. Tratando-se, porém, de sociedades com sede ou actividade fora da província, ou de contribuintes a quem tenham sido atribuídos ou à disposição dos quais hajam sido colocados rendimentos referidos na alínea e) do artigo 1.º, a declaração poderá ser apresentada até 31 de Julho de 1969.
 
@@ -117,7 +125,7 @@ a imposto por eles obtidos no ano de 1968. Tratando-se, porém, de sociedades co
 
 ...
 
-###### Art. 17.º Sempre que se tenham efectuado quaisquer correcções ao abrigo do artigo 14.º ou quando a matéria colectável haja sido fixada pela comissão referida no artigo 15.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo subdirector dos Serviços de Fazenda e Contabilidade, reclamar, no prazo de quinze dias, contados da notificação, da determinação da matéria colectável, para uma comissão de revisão assim constituída:
+Art. 17.º Sempre que se tenham efectuado quaisquer correcções ao abrigo do artigo 14.º ou quando a matéria colectável haja sido fixada pela comissão referida no artigo 15.º, poderão os contribuintes ou a Fazenda Nacional, representada pelo subdirector dos Serviços de Fazenda e Contabilidade, reclamar, no prazo de quinze dias, contados da notificação, da determinação da matéria colectável, para uma comissão de revisão assim constituída:
 
 Presidente: o director dos Serviços de Fazenda e Contabilidade.
 
@@ -139,7 +147,7 @@ Vogais: um ajudante do procurador da República, um inspector contabilista-chefe
 
 ...
 
-###### Art. 41.º As sociedades anónimas e em comandita por acções e as sociedades civis sob as mesmas formas deverão enviar à Direcção Provincial dos Serviços de Fazenda e Contabilidade, até 31 de Julho de 1969, os seguintes elementos, em duplicado:
+Art. 41.º As sociedades anónimas e em comandita por acções e as sociedades civis sob as mesmas formas deverão enviar à Direcção Provincial dos Serviços de Fazenda e Contabilidade, até 31 de Julho de 1969, os seguintes elementos, em duplicado:
 
 a) Declaração da qual conste a importância dos dividendos votados na última gerência que caiba aos possuidores de acções ao portador não registadas;
 
@@ -153,15 +161,15 @@ c) Um exemplar ou cópia dos documentos comprovativos das entregas de imposto, r
 
 ...
 
-###### Art. 44.º ...
+Art. 44.º ...
 
 § único. As reclamações serão dirigidas ao subdirector dos Serviços de Fazenda e Contabilidade, a quem compete o seu julgamento, com recurso, sem efeito suspensivo, para o Tribunal Administrativo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Março de 1969.**
+Promulgado em 12 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

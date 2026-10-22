@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48280-1968-234888
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-03-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:34Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ffd0b9b2136a94d5039e70e1f83a83bf99dd450ac5899dc29a4bf5e08cb8fa58
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d519c37457ecaec750b4e10dac448fc4a6b87ea237c9166dfc07cf126fc17ca9
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:34Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:528224:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 14
-  section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 1
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:34Z'
   warnings: []
   errors: []
 ---
@@ -91,19 +107,19 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Ministério das Obras Públicas
 
 No capítulo 14.º:
 
-###### Artigo 104.º «Hidráulica agrícola»:
+Artigo 104.º «Hidráulica agrícola»:
 
 Do n.º 1) «Plano de rega do Alentejo», alínea 2 «Início da 2.ª fase» ... -5000000$00
 
 Para o n.º 2) «Outros aproveitamentos hidroagrícolas» ... +5000000$00
 
-###### Artigo 111.º «Educação e investigação ligada ao ensino», n.º 1) «Instalações ...»:
+Artigo 111.º «Educação e investigação ligada ao ensino», n.º 1) «Instalações ...»:
 
 Da alínea 1 «Edifícios do ensino primário ...» ... -5000000$00
 
@@ -111,7 +127,7 @@ Da alínea 5 «Construções diversas» ... -5000000$00
 
 Para a alínea 4 «Instalações e apetrechamento inicial ...» ... +10000000$00
 
-###### Artigo 114.º «Construções hospitalares no País»:
+Artigo 114.º «Construções hospitalares no País»:
 
 Do n.º 1), alínea 1 «Maternidades» ... -200000$00
 
@@ -121,7 +137,7 @@ Ministério da Educação Nacional
 
 No capítulo 12.º:
 
-###### Artigo 957.º «Educação e investigação ligada ao ensino»:
+Artigo 957.º «Educação e investigação ligada ao ensino»:
 
 Do n.º 1) «Instalação e apetrechamento inicial» ... -7000000$00
 
@@ -131,7 +147,7 @@ Ministério da Economia
 
 No capítulo 25.º:
 
-###### Artigo 348.º «Investimentos para a intensificação racional das explorações agrícolas»:
+Artigo 348.º «Investimentos para a intensificação racional das explorações agrícolas»:
 
 Do n.º 9) «Fundo Especial de Reestruturação Fundiária» ... -3000000$00
 
@@ -141,7 +157,7 @@ Ministério das Comunicações
 
 No capítulo 15.º:
 
-###### Artigo 179.º «Transportes aéreos», n.º 1) «Aeroportos, ...»:
+Artigo 179.º «Transportes aéreos», n.º 1) «Aeroportos, ...»:
 
 Da alínea 1 «Aeroporto de Lisboa» ... -4000000$00
 
@@ -161,11 +177,11 @@ Para a alínea 7 «Aeroporto da Horta» ... +4000000$00
 
 Para a alínea 13 «Estudos» ... +1000000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 122265000$00, destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 122265000$00, destinados, quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério das Obras Públicas
 
-### Capítulo 14.º «III Plano de Fomento»:
+Capítulo 14.º «III Plano de Fomento»:
 
 ###### Artigo 109.º «Portos»: — N.º 12) «Viana do Castelo» ... 1000000$00
 
@@ -177,9 +193,9 @@ N.º 14) «Portimão» ... 3000000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 12.º «III Plano de Fomento»:
+Capítulo 12.º «III Plano de Fomento»:
 
-###### Artigo 957.º «Educação e investigação ligada ao ensino»:
+Artigo 957.º «Educação e investigação ligada ao ensino»:
 
 N.º 2) «Actividades» ... 8000000$00
 
@@ -189,63 +205,63 @@ N.º 3) «Reapetrechamento» ... (ver nota a) 50000000$00
 
 Ministério da Economia
 
-### Capítulo 25.º «III Plano de Fomento»:
+Capítulo 25.º «III Plano de Fomento»:
 
-###### Artigo 347.º «Investimentos de maior reprodutividade imediata»:
+Artigo 347.º «Investimentos de maior reprodutividade imediata»:
 
 N.º 1) «Fruticultura, ...» ... 15000000$00
 
 N.º 5) «Melhoramentos agrícolas» ... 15000000$00
 
-###### Artigo 348.º, n.º 1), alínea 1 «Aproveitamento dos regadios» ... 17000000$00
+Artigo 348.º, n.º 1), alínea 1 «Aproveitamento dos regadios» ... 17000000$00
 
 ... 47000000$00
 
 Ministério da Saúde e Assistência
 
-### Capítulo 10.º «III Plano de Fomento»:
+Capítulo 10.º «III Plano de Fomento»:
 
-###### Artigo 83.º «Saúde mental» ... 7020000$00
+Artigo 83.º «Saúde mental» ... 7020000$00
 
-###### Artigo 84.º «Assistência na doença em geral» ... 3335000$00
+Artigo 84.º «Assistência na doença em geral» ... 3335000$00
 
-###### Artigo 86.º «Assistência social» ... 1410000$00
+Artigo 86.º «Assistência social» ... 1410000$00
 
 ... 11765000$00
 
 ... 122265000$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério das Obras Públicas
 
-### Capítulo 14.º, artigo 104.º, n.º 1), alínea 2 ... 30000000$00
+Capítulo 14.º, artigo 104.º, n.º 1), alínea 2 ... 30000000$00
 
-### Capítulo 14.º, artigo 104.º, n.º 3) ... 17000000$00
+Capítulo 14.º, artigo 104.º, n.º 3) ... 17000000$00
 
-### Capítulo 14.º, artigo 109.º, n.º 9) ... 5500000$00
+Capítulo 14.º, artigo 109.º, n.º 9) ... 5500000$00
 
-### Capítulo 14.º, artigo 114.º, n.º 1), alínea 1 ... 1165000$00
+Capítulo 14.º, artigo 114.º, n.º 1), alínea 1 ... 1165000$00
 
-### Capítulo 14.º, artigo 114.º, n.º 2), alínea 2 ... 9600000$00
+Capítulo 14.º, artigo 114.º, n.º 2), alínea 2 ... 9600000$00
 
-### Capítulo 14.º, artigo 114.º, n.º 3), alínea 1 ... 1000000$00
+Capítulo 14.º, artigo 114.º, n.º 3), alínea 1 ... 1000000$00
 
 ... 64265000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 12.º, artigo 958.º, n.º 1) ... 50000000$00
+Capítulo 12.º, artigo 958.º, n.º 1) ... 50000000$00
 
-### Capítulo 12.º, artigo 959.º ... 5500000$00
+Capítulo 12.º, artigo 959.º ... 5500000$00
 
-### Capítulo 12.º, artigo 960.º ... 2500000$00
+Capítulo 12.º, artigo 960.º ... 2500000$00
 
 ... 58000000$00
 
 ... 122265000$00
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério das Finanças
 
@@ -331,6 +347,6 @@ Do Ministério da Saúde e Assistência
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Março de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

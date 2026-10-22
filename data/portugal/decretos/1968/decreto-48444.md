@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48444-1968-272248
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:51Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b6e8458ea0b7d2c601efe2334a2127bc4ccf480126435d60c790faec0260f3a8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7d969e399c03c0b01da73701a22baa546fab6e00516cf649c9ed2a607c96efc5
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:51Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:235286:por
+  label: null
+  source: null
 article_structure:
-  article_count: 2
+  article_count: 1
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:51Z'
   warnings: []
   errors: []
 ---
@@ -99,7 +103,7 @@ Tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, por mot
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo único. Os §§ 1.º e 3.º do artigo 1.º, a alínea c) do artigo 2.º e os artigos 8.º, 16.º e 37.º do [Decreto n.º 48272](https://diariodarepublica.pt/dr/detalhe/decreto/48272-1968-235286), de 11 de Março de 1968, passam a ter a seguinte redacção:
+Artigo único. Os §§ 1.º e 3.º do artigo 1.º, a alínea c) do artigo 2.º e os artigos 8.º, 16.º e 37.º do [Decreto n.º 48272](https://diariodarepublica.pt/dr/detalhe/decreto/48272-1968-235286), de 11 de Março de 1968, passam a ter a seguinte redacção:
 
 ###### Artigo 1.º ...
 
@@ -113,7 +117,7 @@ b) Os juros de suprimentos ou de outros abonos feitos pelos sócios às sociedad
 
 § 3.º Tratando-se de sociedades anónimas e em comandita por acções, abater-se-á ao total dos rendimentos a importância dos lucros atribuídos aos sócios relativamente ao ano de 1967, sujeitos ao presente imposto, não podendo, no entanto, a dedução a efectuar exceder um terço do total dos lucros da sociedade.
 
-###### Art. 2.º O imposto incide:
+Art. 2.º O imposto incide:
 
 ...
 
@@ -121,7 +125,7 @@ c) Quanto aos rendimentos referidos na alínea c) do artigo 1.º, sobre os lucro
 
 ...
 
-###### Art. 8.º Para que os rendimentos referidos no § 1.º do artigo 1.º fiquem sujeitos a imposto é necessário que:
+Art. 8.º Para que os rendimentos referidos no § 1.º do artigo 1.º fiquem sujeitos a imposto é necessário que:
 
 a) Tratando-se de rendimentos referidos na alínea a) do mesmo parágrafo, a sociedade deles devedora tenha na província a direcção efectiva ou aí possua o seu principal estabelecimento ou núcleo de estabelecimentos;
 
@@ -133,7 +137,7 @@ b) Tratando-se de rendimentos referidos na alínea b) do mesmo parágrafo, a soc
 
 ...
 
-###### Art. 16.º Sempre que o entenda conveniente, poderá o governador-geral, por sua iniciativa ou sob proposta do director provincial dos Serviços de Fazenda e Contabilidade, determinar a realização de exame à escrita dos contribuintes.
+Art. 16.º Sempre que o entenda conveniente, poderá o governador-geral, por sua iniciativa ou sob proposta do director provincial dos Serviços de Fazenda e Contabilidade, determinar a realização de exame à escrita dos contribuintes.
 
 § 1.º ...
 
@@ -143,9 +147,9 @@ b) Tratando-se de rendimentos referidos na alínea b) do mesmo parágrafo, a soc
 
 ...
 
-###### Art. 37.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora, ficando a dívida sujeita imediatamente a relaxe.
+Art. 37.º Não sendo pago o imposto no mês do vencimento, começarão a correr imediatamente juros de mora, ficando a dívida sujeita imediatamente a relaxe.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 21 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

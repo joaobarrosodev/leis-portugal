@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49066-1969-199863
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:50Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 8d0e14f622329fa20127f44fec8df82605f9bc01920645e03b4bc3fc8a5c5862
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 016dde955ed95c5e6eb3340b55aac0553d622912bc62e7e9721e272f7c4a37ef
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:50Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:294889:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:50Z'
   warnings: []
   errors: []
 ---
@@ -91,15 +95,15 @@ Por motivo de urgência;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Os artigos do [Decreto n.º 46371](https://diariodarepublica.pt/dr/detalhe/decreto/46371-1965-294889) adiante referidos passam a ter a seguinte redacção:
+Artigo 1.º Os artigos do [Decreto n.º 46371](https://diariodarepublica.pt/dr/detalhe/decreto/46371-1965-294889) adiante referidos passam a ter a seguinte redacção:
 
-###### Art. 28.º São punidas com a multa de 5000$00 a 15000$00 as infracções dos artigos 16.º, 17.º, 21.º ou 23.º, bem como do § único do artigo 14.º ou do corpo do artigo 19.º
+Art. 28.º São punidas com a multa de 5000$00 a 15000$00 as infracções dos artigos 16.º, 17.º, 21.º ou 23.º, bem como do § único do artigo 14.º ou do corpo do artigo 19.º
 
 § único. ...
 
 ...
 
-###### Art. 31.º É punido com seis meses de prisão e multa até 6000$00 todo aquele que, fora dos casos previstos na lei:
+Art. 31.º É punido com seis meses de prisão e multa até 6000$00 todo aquele que, fora dos casos previstos na lei:
 
 1.º ...
 
@@ -107,7 +111,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § único. ...
 
-###### Art. 32.º É punido com prisão de seis meses a dois anos e multa não superior a 30000$00 todo aquele que, fora dos casos previstos na lei, e sem lucro:
+Art. 32.º É punido com prisão de seis meses a dois anos e multa não superior a 30000$00 todo aquele que, fora dos casos previstos na lei, e sem lucro:
 
 1.º Para uso alheio, possuir, transportar ou detiver estupefacientes ou utensilagem própria à sua consumpção;
 
@@ -119,7 +123,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 34.º Incorre na pena de dois a oito anos de prisão maior e em multa até 100000$00 todo aquele que, fora dos casos previstos na lei:
+Art. 34.º Incorre na pena de dois a oito anos de prisão maior e em multa até 100000$00 todo aquele que, fora dos casos previstos na lei:
 
 1.º Por qualquer forma onerosa ou lucrativa, ministrar, vender ou fornecer estupefaciente.
 
@@ -127,7 +131,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 3.º ...
 
-###### Art. 36.º Incorre na pena de oito a doze anos de prisão maior e multa até 200000$00 todo aquele que:
+Art. 36.º Incorre na pena de oito a doze anos de prisão maior e multa até 200000$00 todo aquele que:
 
 1.º ...
 
@@ -139,19 +143,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 ...
 
-###### Art. 39.º Para a punição dos factos contemplados no presente decreto, considera-se verificada a reincidência, aplicando-se as respectivas regras de agravação das penas, sempre que, depois da condenação por sentença com trânsito em julgado, por infracção prevista neste diploma, o mesmo indivíduo se constituir agente de outra infracção da mesma natureza, qualquer que tenha sido o tempo decorrido após a condenação anterior.
+Art. 39.º Para a punição dos factos contemplados no presente decreto, considera-se verificada a reincidência, aplicando-se as respectivas regras de agravação das penas, sempre que, depois da condenação por sentença com trânsito em julgado, por infracção prevista neste diploma, o mesmo indivíduo se constituir agente de outra infracção da mesma natureza, qualquer que tenha sido o tempo decorrido após a condenação anterior.
 
 § único. ...
 
-###### Art. 45.º O mobiliário a que se refere o artigo 41.º será, através do almoxarifado da Fazenda, vendido em hasta pública ou, se for reduzido o seu valor económico, por negociação particular.
+Art. 45.º O mobiliário a que se refere o artigo 41.º será, através do almoxarifado da Fazenda, vendido em hasta pública ou, se for reduzido o seu valor económico, por negociação particular.
 
-###### Art. 2.º As alterações introduzidas pelo presente diploma entram imediatamente em vigor.
+Art. 2.º As alterações introduzidas pelo presente diploma entram imediatamente em vigor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 4 de Junho de 1969.**
+Promulgado em 4 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

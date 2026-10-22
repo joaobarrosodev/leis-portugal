@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48659-1968-263921
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: ce31fcb3fe98289227aab7f72ff96541efcb73d2be682b30f56f356243909a56
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: eca710053fcaa47b8238d60dd371029e061c1145bd2fbf403663a40fc23ddf2c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:43Z'
   warnings: []
   errors: []
 ---
@@ -93,7 +93,7 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Angola a celebrar com a General Electric Company, de Nova Iorque, Estados Unidos da América, um contrato em regime de pagamentos diferidos para o fornecimento de um grupo de cinco locomotivas Diesel eléctricas F. A. S. Nova Iorque, no montante de escudos angolanos 34531183$05.
+Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes da província de Angola a celebrar com a General Electric Company, de Nova Iorque, Estados Unidos da América, um contrato em regime de pagamentos diferidos para o fornecimento de um grupo de cinco locomotivas Diesel eléctricas F. A. S. Nova Iorque, no montante de escudos angolanos 34531183$05.
 
 § 1.º Este montante será acrescido dos encargos eventualmente resultantes da revisão de preços nos termos contratuais.
 
@@ -105,9 +105,9 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º A Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola poderá proceder à liquidação antecipada, total ou parcial, do saldo em dívida.
 
-###### Art. 2.º Os pagamentos contratuais a efectuar à General Electric Company, de Nova Iorque, Estados Unidos da América, serão feitos em dólares dos Estados Unidos da América, sendo tais montantes em dólares, quer para os pagamentos iniciais, quer para os diferidos, fixados desde já nos montantes equivalentes a uma taxa de câmbio de escudos angolanos 29$05 por dólar dos Estados Unidos da América.
+Art. 2.º Os pagamentos contratuais a efectuar à General Electric Company, de Nova Iorque, Estados Unidos da América, serão feitos em dólares dos Estados Unidos da América, sendo tais montantes em dólares, quer para os pagamentos iniciais, quer para os diferidos, fixados desde já nos montantes equivalentes a uma taxa de câmbio de escudos angolanos 29$05 por dólar dos Estados Unidos da América.
 
-###### Art. 3.º Para a satisfação dos compromissos financeiros contratuais especificados nos artigos 2.º e 3.º intervirá na operação por conta da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, o Banco de Angola.
+Art. 3.º Para a satisfação dos compromissos financeiros contratuais especificados nos artigos 2.º e 3.º intervirá na operação por conta da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, o Banco de Angola.
 
 § 1.º A intervenção do Banco de Angola será regulada por acordo a celebrar separadamente, sendo da responsabilidade dos Serviços de Portos, Caminhos de Ferros e Transportes de Angola todos os encargos consequentes da intervenção desse Banco.
 
@@ -119,13 +119,13 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º Serão da responsabilidade da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola todos os encargos resultantes da eventual variação de câmbio do dólar dos Estados Unidos da América, relativamente ao escudo angolano, durante o decorrer da operação e até ao integral reembolso das quantias devidas.
 
-###### Art. 4.º É autorizado o Governo-Geral da província de Angola a garantir junto do Banco de Angola as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola na execução da presente operação.
+Art. 4.º É autorizado o Governo-Geral da província de Angola a garantir junto do Banco de Angola as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola na execução da presente operação.
 
-###### Art. 5.º Todos os encargos resultantes da celebração do presente contrato constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco de Angola.
+Art. 5.º Todos os encargos resultantes da celebração do presente contrato constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola, devendo, em sua consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco de Angola.
 
 § único. Os encargos a liquidar durante o corrente ano serão suportados pelo fundo de melhoramento do orçamento privativo da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Angola.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - Joaquim Moreira da Silva Cunha.
 

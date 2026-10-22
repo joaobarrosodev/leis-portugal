@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48244-1968-235170
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a5804bbd7331bc462b3cf619573837cc262ee1c1b9a4d306cdce056b2daac6f4
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 334d9457262ba86cd8bcd55606a6c7fef30df8efa110274a241f5130a00372eb
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:19Z'
   warnings: []
   errors: []
 ---
@@ -92,8 +92,8 @@ Atendendo a que as estações competentes não vêem inconveniente na sua exclus
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos de § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo único. É excluída do regime florestal parcial a que fora submetida por decreto de 24 de Fevereiro de 1950 e restituída à administração da Câmara Municipal de Mértola, a fim de ser integrada no plano de urbanização, uma parcela de terreno, com a área de 80 ha, pertencente ao perímetro florestal de Coutos de Mértola.
+Artigo único. É excluída do regime florestal parcial a que fora submetida por decreto de 24 de Fevereiro de 1950 e restituída à administração da Câmara Municipal de Mértola, a fim de ser integrada no plano de urbanização, uma parcela de terreno, com a área de 80 ha, pertencente ao perímetro florestal de Coutos de Mértola.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - Domingos Rosado Vitória Pires.

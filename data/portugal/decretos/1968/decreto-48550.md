@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48550-1968-265123
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:38Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5ba8543c16a4227c997f26db8cac79c2b515750821d8f14f363f8e9b32b09f6e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b03b93dbd5cb9e689eee4e3bd12aa07b7bd19963d2152026d6668a61f50effff
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:38Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,17 +68,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:185340:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:437049:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:540274:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:594715:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:38Z'
   warnings: []
   errors: []
 ---
@@ -89,16 +105,16 @@ Tornando-se necessário definir a competência disciplinar das entidades militar
 
 Usando da faculdade conferida no n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Aos oficiais do Exército que nos Serviços Sociais e no Cofre de Previdência da Polícia de Segurança Pública têm as categorias mencionadas no quadro anexo são atribuídos, em relação aos agentes sob as suas ordens directas, os limites de competência disciplinar fixados nos quadros discriminativos a que se refere o artigo 41.º do Regulamento Disciplinar do Pessoal da mesma corporação, aprovado pelo [Decreto n.º 40118](https://diariodarepublica.pt/dr/detalhe/decreto/40118-1955-540274), de 6 de Abril de 1955.
+Artigo 1.º Aos oficiais do Exército que nos Serviços Sociais e no Cofre de Previdência da Polícia de Segurança Pública têm as categorias mencionadas no quadro anexo são atribuídos, em relação aos agentes sob as suas ordens directas, os limites de competência disciplinar fixados nos quadros discriminativos a que se refere o artigo 41.º do Regulamento Disciplinar do Pessoal da mesma corporação, aprovado pelo [Decreto n.º 40118](https://diariodarepublica.pt/dr/detalhe/decreto/40118-1955-540274), de 6 de Abril de 1955.
 
-###### Art. 2.º Aos funcionários civis e outros servidores, não agentes, contratados ou assalariados, que prestam serviço nas instituições referidas no artigo anterior é aplicável o Estatuto Disciplinar dos Funcionários Civis do Estado, aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943.
+Art. 2.º Aos funcionários civis e outros servidores, não agentes, contratados ou assalariados, que prestam serviço nas instituições referidas no artigo anterior é aplicável o Estatuto Disciplinar dos Funcionários Civis do Estado, aprovado pelo [Decreto-Lei n.º 32659](https://diariodarepublica.pt/dr/detalhe/decreto-lei/32659-1943-594715), de 9 de Fevereiro de 1943.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 28 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Alfredo Rodrigues dos Santos Júnior.
 
 Limites de competência disciplinar atribuídas aos oficiais do Exército que nos Serviços Sociais e no Cofre de Previdência da Polícia de Segurança Pública desempenham funções directivas e de chefia
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/08/20300/12491250.pdf))](https://files.diariodarepublica.pt/1s/1968/08/20300/12491250.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/08/20300/12491250.pdf)
 
 Ministério do Interior, 28 de Agosto de 1968. - O Ministro do Interior, Alfredo Rodrigues dos Santos Júnior.

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48585-1968-264715
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 02ad01c730cd93100930bcf682d020a9a7d9e67f566b4d4583d0dca5695ac034
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4ac16f8e53d13d61cab51f1d2fd9fa9d12857dafb5443c4b52087c9902ce8b35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 13
-  section_count: 16
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:56Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
+Artigo 1.º São transferidas as quantias adiante indicadas dentro dos orçamentos seguintes:
 
 Encargos Gerais da Nação
 
@@ -100,7 +116,7 @@ Para o artigo 29.º, 3) «Transportes» ... +4000$00
 
 No capítulo 9.º:
 
-###### Artigo 256.º «Despesas de conservação ...»:
+Artigo 256.º «Despesas de conservação ...»:
 
 Do n.º 4), alínea 3 «Combustíveis, ...» ... -175000$00
 
@@ -134,57 +150,57 @@ No artigo 240.º, n.º 1) «Móveis» ... -3000$00
 
 Para o artigo 242.º, n.º 1) «Matérias-primas ...» ... +3000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 6765200$00 destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 6765200$00 destinados a reforçar verbas insuficientemente dotadas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 1.º «Presidência da República - Secretaria-Geral da Presidência da República»:
+Capítulo 1.º «Presidência da República - Secretaria-Geral da Presidência da República»:
 
-###### Artigo 5.º, n.º 1) «Abonos para despesas de representação, ...» ... 1200$00
+Artigo 5.º, n.º 1) «Abonos para despesas de representação, ...» ... 1200$00
 
-### Capítulo 2.º «Presidência do Conselho - Gabinete dos Ministros de Estado adjuntos»:
+Capítulo 2.º «Presidência do Conselho - Gabinete dos Ministros de Estado adjuntos»:
 
-###### Artigo 30.º, n.º 2) «Pagamento de serviços ...» ... 40000$00
+Artigo 30.º, n.º 2) «Pagamento de serviços ...» ... 40000$00
 
 ... 41200$00
 
 Ministério das Finanças
 
-### Capítulo 9.º «Direcção-Geral da Contabilidade Pública»:
+Capítulo 9.º «Direcção-Geral da Contabilidade Pública»:
 
-###### Artigo 112.º, n.º 1) «Móveis» ... 125000$00
+Artigo 112.º, n.º 1) «Móveis» ... 125000$00
 
-###### Artigo 113.º, n.º 1) «De móveis» ... 12000$00
+Artigo 113.º, n.º 1) «De móveis» ... 12000$00
 
-###### Artigo 114.º, 2) «Artigos de expediente ...» ... 70000$00
+Artigo 114.º, 2) «Artigos de expediente ...» ... 70000$00
 
-###### Artigo 116.º «Despesas de comunicações»:
+Artigo 116.º «Despesas de comunicações»:
 
 N.º 1) «Correios e telégrafos» ... 1000$00
 
 N.º 3) «Transportes» ... 4000$00
 
-### Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
+Capítulo 10.º «Direcção-Geral das Contribuições e Impostos»:
 
-###### Artigo 128.º, n.º 1), alínea 1 «Comissão pela venda de valores selados» ... 5800000$00
+Artigo 128.º, n.º 1), alínea 1 «Comissão pela venda de valores selados» ... 5800000$00
 
 ... 6012000$00
 
 Ministério do Interior
 
-### Capítulo 7.º «Guarda Nacional Republicana»:
+Capítulo 7.º «Guarda Nacional Republicana»:
 
-###### Artigo 100.º, n.º 1) «Munições» ... 300000$00
+Artigo 100.º, n.º 1) «Munições» ... 300000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 6.º «Direcção-Geral do Ensino Primário»:
+Capítulo 6.º «Direcção-Geral do Ensino Primário»:
 
 Ensino primário
 
 Direcção do Distrito Escolar de Leiria
 
-###### Artigo 908.º «Material de consumo corrente»:
+Artigo 908.º «Material de consumo corrente»:
 
 N.º 1 «Impressos», alínea 1 «Direcções dos distritos escolares» ... 8000$00
 
@@ -196,55 +212,55 @@ Ministério da Economia
 
 Secretaria de Estado da Indústria
 
-### Capítulo 17.º «Direcção-Geral dos Serviços Eléctricos»:
+Capítulo 17.º «Direcção-Geral dos Serviços Eléctricos»:
 
-###### Artigo 315.º, n.º 1) «Publicidade ...» ... 40000$00
+Artigo 315.º, n.º 1) «Publicidade ...» ... 40000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 10.º «Despesas de anos económicos findos»:
+Capítulo 10.º «Despesas de anos económicos findos»:
 
-###### Artigo 109.º «Despesas de anos económicos findos» ... 360000$00
+Artigo 109.º «Despesas de anos económicos findos» ... 360000$00
 
 ... 6765200$00
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento de previsão de receita e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 2.º, artigo 17.º «Imposto do selo» ... 5800000$00
+Capítulo 2.º, artigo 17.º «Imposto do selo» ... 5800000$00
 
 Encargos Gerais da Nação
 
-### Capítulo 1.º, artigo 2.º, n.º 1) ... 1200$00
+Capítulo 1.º, artigo 2.º, n.º 1) ... 1200$00
 
-### Capítulo 2.º, artigo 32.º, n.º 1) ... 40000$00
+Capítulo 2.º, artigo 32.º, n.º 1) ... 40000$00
 
 ... 41200$00
 
 Ministério das Finanças
 
-### Capítulo 7.º, artigo 61.º, 1) ... 212000$00
+Capítulo 7.º, artigo 61.º, 1) ... 212000$00
 
 Ministério do Interior
 
-### Capítulo 7.º, artigo 94.º, n.º 1) ... 300000$00
+Capítulo 7.º, artigo 94.º, n.º 1) ... 300000$00
 
 Ministério da Educação Nacional
 
-### Capítulo 6.º, artigo 911.º, n.º 1), alínea 1 ... 12000$00
+Capítulo 6.º, artigo 911.º, n.º 1), alínea 1 ... 12000$00
 
 Ministério da Economia
 
-### Capítulo 17.º, artigo 309.º, n.º 1) ... 40000$00
+Capítulo 17.º, artigo 309.º, n.º 1) ... 40000$00
 
 Ministério das Corporações e Previdência Social
 
-### Capítulo 2.º, artigo 16.º, n.º 1) ... 360000$00
+Capítulo 2.º, artigo 16.º, n.º 1) ... 360000$00
 
 ... 6765200$00
 
-###### Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
+Art. 4.º São autorizadas as seguintes alterações de rubrica nos orçamentos:
 
 Do Ministério da Justiça
 
@@ -260,6 +276,6 @@ Inclui 185555$50 ...
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga Manuel Gomes de Araújo - António Manuel Gonçalves Rapazote - Mário Júlio de Almeida Costa - João Augusto Dias Rosas - José Manuel Bettencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - José Gonçalo da Cunha Sottomayor Correia de Oliveira - José Estêvão Abranches Couceiro do Canto Moniz - José João Gonçalves de Proença - Joaquim de Jesus Santos.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49156-1969-198968
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5810b224743cf3c116e1f866e88a9a1a691e403c1c5cdac535caceea346caf54
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d914173dafe2a113582343ecd2ee3299913e43d2b0f99e287e1003ecdab7795d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155410:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:165413:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:33Z'
   warnings: []
   errors: []
 ---
@@ -91,17 +99,17 @@ Tendo em vista o disposto no n.º 1.º do artigo 150.º da Constituição, por m
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As moedas de 20$00, cuja emissão foi autorizada pelo [Decreto n.º 44545](https://diariodarepublica.pt/dr/detalhe/decreto/44545-1962-165413), de 27 de Agosto de 1962, e cujas características foram fixadas pelo artigo 13.º do [Decreto n.º 44736](https://diariodarepublica.pt/dr/detalhe/decreto/44736-1962-155410), de 28 de Novembro de 1962, passam a ser de níquel e a ter as seguintes características:
+Artigo 1.º As moedas de 20$00, cuja emissão foi autorizada pelo [Decreto n.º 44545](https://diariodarepublica.pt/dr/detalhe/decreto/44545-1962-165413), de 27 de Agosto de 1962, e cujas características foram fixadas pelo artigo 13.º do [Decreto n.º 44736](https://diariodarepublica.pt/dr/detalhe/decreto/44736-1962-155410), de 28 de Novembro de 1962, passam a ser de níquel e a ter as seguintes características:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/07/17500/09130914.pdf))](https://files.diariodarepublica.pt/1s/1969/07/17500/09130914.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/07/17500/09130914.pdf)
 
-###### Art. 2.º As moedas serão serrilhadas e terão numa das faces o escudo nacional sobreposto à esfera armilar com a legenda «República Portuguesa» e a designação da era e na outra face as armas da província com a legenda «Moçambique» e a indicação do valor.
+Art. 2.º As moedas serão serrilhadas e terão numa das faces o escudo nacional sobreposto à esfera armilar com a legenda «República Portuguesa» e a designação da era e na outra face as armas da província com a legenda «Moçambique» e a indicação do valor.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 18 de Julho de 1969.**
+Promulgado em 18 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

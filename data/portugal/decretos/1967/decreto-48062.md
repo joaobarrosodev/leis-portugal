@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48062-1967-400849
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-11-23T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:36Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 38d0a654d90faf6766e9f22edef02e3224b7048b0fba0f4c419a519c3d9623bf
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: c86970ced1724c952c3a11fca8d337b2a8cb2bb8cfaae25278cdd9cf2ef230df
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:36Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:400845:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 5
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:36Z'
   warnings: []
   errors: []
 ---
@@ -87,36 +91,36 @@ Com fundamento no artigo 22.º do [Decreto-Lei n.º 48058](https://diariodarepub
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É aberto no Ministério das Finanças um crédito especial, no montante de 385550$00, destinado a prover à realização de despesas não previstas no orçamento de Encargos Gerais da Nação para o corrente ano económico:
+Artigo 1.º É aberto no Ministério das Finanças um crédito especial, no montante de 385550$00, destinado a prover à realização de despesas não previstas no orçamento de Encargos Gerais da Nação para o corrente ano económico:
 
-### Capítulo 2.º «Presidência do Conselho»:
+Capítulo 2.º «Presidência do Conselho»:
 
 Secretaria-Geral da Presidência do Conselho
 
-###### Artigo 32.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
+Artigo 32.º «Remunerações certas ao pessoal em exercício», n.º 1) «Pessoal dos quadros aprovados por lei»:
 
 (Durante 45 dias):
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/11/27300/20602061.pdf))](https://files.diariodarepublica.pt/1s/1967/11/27300/20602061.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/11/27300/20602061.pdf)
 
-### Capítulo 2.º-A. «Secretariado da Reforma Administrativa»:
+Capítulo 2.º-A. «Secretariado da Reforma Administrativa»:
 
 Pagamento de serviços e diversos encargos:
 
-###### Artigo 68.º-B. «Outros encargos», n.º 1) «Para pagamento de todos os encargos resultantes da instalação e funcionamento do Secretariado da Reforma Administrativa» ... 350000$00
+Artigo 68.º-B. «Outros encargos», n.º 1) «Para pagamento de todos os encargos resultantes da instalação e funcionamento do Secretariado da Reforma Administrativa» ... 350000$00
 
 ... 385550$00
 
-###### Art. 2.º Para compensação do crédito designado no artigo precedente são efectuadas as seguintes reduções nas verbas do mesmo orçamento:
+Art. 2.º Para compensação do crédito designado no artigo precedente são efectuadas as seguintes reduções nas verbas do mesmo orçamento:
 
-### Capítulo 2.º, artigo 17.º, n.º 1) ... 70000$00
+Capítulo 2.º, artigo 17.º, n.º 1) ... 70000$00
 
-### Capítulo 2.º, artigo 32.º, n.º 1) ... 260000$00
+Capítulo 2.º, artigo 32.º, n.º 1) ... 260000$00
 
-### Capítulo 5.º, artigo 93.º, n.º 1) ... 55550$00
+Capítulo 5.º, artigo 93.º, n.º 1) ... 55550$00
 
 ... 385550$00
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da Republica, 23 de Novembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês.

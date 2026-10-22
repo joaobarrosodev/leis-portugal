@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48467-1968-272975
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-04T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:58Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b29f4d77ffe9a7467ed52371d14d19e8daf4a545c8eff2d69d2a8307bdd58ae0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: ea7b7fbe2a73150df30530e0ecb93824b6692089e9d9571820f0fa514bae7713
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:58Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:164260:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:58Z'
   warnings: []
   errors: []
 ---
@@ -94,17 +98,17 @@ Assim, tendo em vista o disposto no § 1.º do artigo 150.º da Constituição, 
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. É autorizado o Governo-Geral de Moçambique a prestar aval a um empréstimo a contrair pelo Instituto dos Cereais de Moçambique no Banco Nacional Ultramarino destinado a facultar os meios financeiros necessários à aquisição de amendoim, milho, arroz e trigo, no âmbito da acção disciplinadora do comércio daqueles produtos, que cabe executar ao Instituto nos termos da legislação vigente.
+Artigo 1.º - 1. É autorizado o Governo-Geral de Moçambique a prestar aval a um empréstimo a contrair pelo Instituto dos Cereais de Moçambique no Banco Nacional Ultramarino destinado a facultar os meios financeiros necessários à aquisição de amendoim, milho, arroz e trigo, no âmbito da acção disciplinadora do comércio daqueles produtos, que cabe executar ao Instituto nos termos da legislação vigente.
 
 2. A responsabilidade da província decorrente do aval não excederá 150000000$00, considerando-se neste total não só o montante do empréstimo como os juros ou quaisquer outros encargos que lhe sejam inerentes.
 
-###### Art. 2.º Na execução do aval observar-se-ão as seguintes normas:
+Art. 2.º Na execução do aval observar-se-ão as seguintes normas:
 
 a) O Instituto dos Cereais de Moçambique, caso não possa efectuar dentro dos prazos fixados os pagamentos avalizados pela província, comunicá-lo-á ao Governo-Geral com a antecedência mínima de dois meses, independentemente das comunicações que deva fazer ao Banco;
 
 b) O Governo-Geral da província, no caso de os pagamentos não poderem ser feitos pelo Instituto dos Cereais de Moçambique, abrirá os créditos necessários ao pagamento das importâncias em dívida ao Banco mutuante.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

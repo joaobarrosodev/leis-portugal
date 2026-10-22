@@ -46,36 +46,43 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49034-1969-201066
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:33Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 844844a57f57c4e54947d09e258ed33852f95ea6c3b603a3b4bbec6ad95788bd
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e67ec65910b9af38f4b56ccb8797964865cd0f278f96ecde6d33f04192ee97af
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:33Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
-relationships: []
+subjects:
+- Fundo de Fomento da Habitação
+- Habitação Social
+- Orgânica
+relationships:
+- type: cites
+  target: pt:dre:201065:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 7
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:33Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +95,7 @@ REGULAMENTO DO FUNDO DE FOMENTO DA HABITAÇÃO
 
 ### CAPÍTULO I — Dos órgãos directivos
 
-###### Artigo 1.º O Fundo de Fomento da Habitação, criado pelo [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, tem como órgãos:
+Artigo 1.º O Fundo de Fomento da Habitação, criado pelo [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, tem como órgãos:
 
 a) O presidente;
 
@@ -96,7 +103,7 @@ b) O conselho directivo;
 
 c) O conselho administrativo.
 
-###### Art. 2.º - 1. Ao presidente do Fundo compete:
+Art. 2.º - 1. Ao presidente do Fundo compete:
 
 a) Presidir às reuniões dos conselhos directivo e administrativo;
 
@@ -112,7 +119,7 @@ d) Representar o Fundo em juízo e fora dele.
 
 4. O presidente terá voto de qualidade nas reuniões a que se refere a alínea a) do n.º 1 deste artigo.
 
-###### Art. 3.º - 1. Além do presidente, constituem o conselho directivo do Fundo:
+Art. 3.º - 1. Além do presidente, constituem o conselho directivo do Fundo:
 
 a) Um representante do Ministério das Finanças;
 
@@ -132,7 +139,7 @@ f) Dois representantes das entidades privadas cuja acção se enquadra nos objec
 
 4. O director dos serviços assistirá às reuniões do conselho directivo, sem voto, sempre que convocado pelo respectivo presidente.
 
-###### Art. 4.º - 1. O conselho directivo reunirá obrigatòriamente de três em três meses e extraordinàriamente sempre que convocado pelo respectivo presidente.
+Art. 4.º - 1. O conselho directivo reunirá obrigatòriamente de três em três meses e extraordinàriamente sempre que convocado pelo respectivo presidente.
 
 2. Compete ao conselho directivo:
 
@@ -152,13 +159,13 @@ g) Autorizar a aquisição e alienação de bens imóveis, bem como aceitar doa�
 
 3. Para o exercício da competência referida nas alíneas b) e d) do n.º 2, o conselho directivo deverá reunir com, pelo menos, dois terços dos seus membros.
 
-###### Art. 5.º - 1. O conselho administrativo é constituído pelo presidente do Fundo, por três vogais, designados nos termos da alínea e) do artigo anterior, e pelo director dos serviços.
+Art. 5.º - 1. O conselho administrativo é constituído pelo presidente do Fundo, por três vogais, designados nos termos da alínea e) do artigo anterior, e pelo director dos serviços.
 
 2. O conselho administrativo reúne ordinàriamente de quinze em quinze dias e extraordinàriamente sempre que convocado pelo respectivo presidente.
 
 3. Às reuniões do conselho administrativo assistirá sempre um delegado do Tribunal de Contas, sem voto.
 
-###### Art. 6.º Compete ao conselho administrativo:
+Art. 6.º Compete ao conselho administrativo:
 
 a) Elaborar e propor ao conselho directivo o orçamento e o plano de actividades referentes ao ano civil seguinte, até 15 de Novembro;
 
@@ -178,11 +185,11 @@ h) Decidir sobre a classificação dos concorrentes e distribuição das habita�
 
 i) Cumprir e fazer cumprir as disposições das leis e dos regulamentos.
 
-###### Art. 7.º - 1. As reuniões dos conselhos directivo e administrativo serão secretariadas pelo chefe da Repartição Administrativa do Fundo, que deverá elaborar as respectivas actas.
+Art. 7.º - 1. As reuniões dos conselhos directivo e administrativo serão secretariadas pelo chefe da Repartição Administrativa do Fundo, que deverá elaborar as respectivas actas.
 
 ### CAPÍTULO II — Dos serviços e do pessoal
 
-###### Art. 8.º O Fundo disporá dos seguintes serviços técnicos e administrativos, directamente subordinados ao director dos serviços:
+Art. 8.º O Fundo disporá dos seguintes serviços técnicos e administrativos, directamente subordinados ao director dos serviços:
 
 a) Gabinete de Estudos e Planeamento;
 
@@ -194,35 +201,35 @@ d) Divisão Técnica Geral;
 
 e) Repartição Administrativa, compreendendo uma Secção de Contabilidade e Tesouraria e uma Secção de Expediente.
 
-###### Art. 9.º Ao director dos serviços compete:
+Art. 9.º Ao director dos serviços compete:
 
 a) Dirigir, em conformidade com as determinações do presidente, os serviços do Fundo;
 
 b) Exercer a competência do presidente que por este lhe seja delegada.
 
-###### Art. 10.º Ao Gabinete de Estudos e Planeamento cabe o estudo sistemático dos princípios informadores da política da habitação a prosseguir pelo Fundo, assente na investigação dos factores nacionais, regionais e locais a ela respeitantes, bem como a realização de estudos aplicados ou de base, de carácter técnico, económico e social.
+Art. 10.º Ao Gabinete de Estudos e Planeamento cabe o estudo sistemático dos princípios informadores da política da habitação a prosseguir pelo Fundo, assente na investigação dos factores nacionais, regionais e locais a ela respeitantes, bem como a realização de estudos aplicados ou de base, de carácter técnico, económico e social.
 
-###### Art. 11.º São aplicáveis ao pessoal do quadro do Fundo as disposições sobre admissão, provimento e promoções em vigor no Ministério das Obras Públicas.
+Art. 11.º São aplicáveis ao pessoal do quadro do Fundo as disposições sobre admissão, provimento e promoções em vigor no Ministério das Obras Públicas.
 
-###### Art. 12.º - 1. O director do Gabinete de Estudos e Planeamento será nomeado mediante escolha do Ministro das Obras Públicas, entre engenheiros civis ou arquitectos-chefes ou de 1.ª classe do quadro de pessoal do Fundo, ou entre engenheiros, arquitectos, licenciados em Direito, licenciados em Economia e licenciados em Finanças de reconhecida competência, estranhos ao quadro.
+Art. 12.º - 1. O director do Gabinete de Estudos e Planeamento será nomeado mediante escolha do Ministro das Obras Públicas, entre engenheiros civis ou arquitectos-chefes ou de 1.ª classe do quadro de pessoal do Fundo, ou entre engenheiros, arquitectos, licenciados em Direito, licenciados em Economia e licenciados em Finanças de reconhecida competência, estranhos ao quadro.
 
 2. O lugar poderá ser exercido em regime de acumulação com outras funções públicas, sendo nesse caso remunerado por gratificação, de montante a fixar pelo Ministro das Obras Públicas, com o acordo do Ministro das Finanças.
 
-###### Art. 13.º Ao pessoal menor do Fundo será distribuído fardamento nos termos da lei geral.
+Art. 13.º Ao pessoal menor do Fundo será distribuído fardamento nos termos da lei geral.
 
 ### CAPÍTULO III — Da distribuição das casas e do regime da sua utilização
 
 #### SECÇÃO I — Dos concursos e admissão de concorrentes
 
-###### Art. 14.º - 1. A distribuição das casas do Fundo de Fomento da Habitação far-se-á mediante concurso, aberto por meio de avisos insertos nos jornais de maior circulação local e divulgados por quaisquer outros meios convenientes.
+Art. 14.º - 1. A distribuição das casas do Fundo de Fomento da Habitação far-se-á mediante concurso, aberto por meio de avisos insertos nos jornais de maior circulação local e divulgados por quaisquer outros meios convenientes.
 
 2. Serão organizados concursos separados para o arrendamento das casas do Fundo e para a sua atribuição em regime de propriedade resolúvel.
 
 3. Dos avisos que declararem abertos os concursos constará obrigatòriamente o número de fogos a distribuir, seus tipos, respectivas rendas e localização, bem como o prazo para apresentação dos requerimentos pelos candidatos e o prazo de validade do concurso.
 
-###### Art. 15.º Podem concorrer à distribuição das casas do Fundo os chefes de família que tenham, juntamente com todos os membros do seu agregado familiar, boa conduta moral e cívica e não possuam habitação própria adequada, nem possam obtê-la mediante denúncia de contrato de arrendamento de casa própria, nos termos da lei geral.
+Art. 15.º Podem concorrer à distribuição das casas do Fundo os chefes de família que tenham, juntamente com todos os membros do seu agregado familiar, boa conduta moral e cívica e não possuam habitação própria adequada, nem possam obtê-la mediante denúncia de contrato de arrendamento de casa própria, nos termos da lei geral.
 
-###### Art. 16.º - 1. Os requerimentos dos concorrentes deverão dar entrada na secretaria da câmara municipal do respectivo concelho no prazo fixado no aviso que tenha declarado aberto o concurso.
+Art. 16.º - 1. Os requerimentos dos concorrentes deverão dar entrada na secretaria da câmara municipal do respectivo concelho no prazo fixado no aviso que tenha declarado aberto o concurso.
 
 2. Os requerimentos deverão ser acompanhados de um questionário preenchido pelos concorrentes, conforme modelos a aprovar por despacho do Ministro das Obras Públicas.
 
@@ -230,7 +237,7 @@ b) Exercer a competência do presidente que por este lhe seja delegada.
 
 4. No prazo de trinta dias após o termo do período estabelecido para entrega dos requerimentos, as câmaras municipais deverão remeter aos serviços do Fundo os documentos referidos no n.º 2, bem como, em relação a cada concorrente, informação sobre a verdade das respostas dadas no questionário, acerca do local de trabalho e residência do agregado familiar, nos dois anos que antecederam a abertura do concurso.
 
-###### Art. 17.º Será excluído do concurso, sem prejuízo de procedimento judicial, o candidato que fraudulentamente:
+Art. 17.º Será excluído do concurso, sem prejuízo de procedimento judicial, o candidato que fraudulentamente:
 
 a) Preste declarações falsas, incompletas ou inexactas;
 
@@ -240,11 +247,11 @@ c) Use de qualquer outro meio doloso para obter casa.
 
 #### SECÇÃO II — Da classificação dos concorrentes
 
-###### Art. 18.º - 1. Recebidos nos serviços do Fundo os documentos a que se refere o artigo 16.º, proceder-se-á, nos trinta dias imediatos, à classificação provisória dos concorrentes.
+Art. 18.º - 1. Recebidos nos serviços do Fundo os documentos a que se refere o artigo 16.º, proceder-se-á, nos trinta dias imediatos, à classificação provisória dos concorrentes.
 
 2. A classificação deverá constar de mapas onde serão indicadas as respectivas condições de preferência.
 
-###### Art. 19.º Na classificação dos concorrentes ao arrendamento das casas do Fundo serão observadas autónoma e sucessivamente as seguintes condições de preferência:
+Art. 19.º Na classificação dos concorrentes ao arrendamento das casas do Fundo serão observadas autónoma e sucessivamente as seguintes condições de preferência:
 
 a) Não ser o candidato ou o seu cônjuge beneficiário de uma caixa de previdência integrada na Habitações Económicas - Federação de Caixas de Previdência ou qualquer outra instituição semelhante;
 
@@ -258,7 +265,7 @@ e) Menor rendimento global;
 
 f) Trabalhar o candidato ou residir o agregado familiar, há mais de dois anos, na localidade onde se situa o bairro, ou na área de influência habitacional do agrupamento, sempre que esta área tenha sido estabelecida.
 
-###### Art. 20.º - 1. A classificação dos concorrentes à atribuição das casas do Fundo em regime de propriedade resolúvel será organizada segundo ordem de preferência que atenda aos elementos seguintes:
+Art. 20.º - 1. A classificação dos concorrentes à atribuição das casas do Fundo em regime de propriedade resolúvel será organizada segundo ordem de preferência que atenda aos elementos seguintes:
 
 a) O concorrente ou o seu cônjuge não serem beneficiários de uma caixa de previdência integrada na Habitações Económicas - Federação de Caixas de Previdência ou de qualquer outra instituição semelhante;
 
@@ -272,21 +279,21 @@ e) Local de trabalho do concorrente ou de residência do seu agregado familiar.
 
 2. A circunstância referida na alínea a) do número anterior constituirá obrigatòriamente motivo de preferência.
 
-###### Art. 21.º Constituem rendimento global do agregado familiar os vencimentos ou salários, subvenções ou suplementos do chefe de família e dos demais componentes e, bem assim, quaisquer outros rendimentos de carácter não eventual, exceptuando ùnicamente o abono de família.
+Art. 21.º Constituem rendimento global do agregado familiar os vencimentos ou salários, subvenções ou suplementos do chefe de família e dos demais componentes e, bem assim, quaisquer outros rendimentos de carácter não eventual, exceptuando ùnicamente o abono de família.
 
-###### Art. 22.º - 1. Na aplicação das condições de preferência atende-se à situação existente à data do encerramento do concurso, quanto aos candidatos a incluir como efectivos na primeira relação de concorrentes a homologar para cada tipo de fogos a distribuir em cada modalidade de concurso. Quanto aos restantes candidatos, atende-se à situação existente na data em que forem homologados como efectivos.
+Art. 22.º - 1. Na aplicação das condições de preferência atende-se à situação existente à data do encerramento do concurso, quanto aos candidatos a incluir como efectivos na primeira relação de concorrentes a homologar para cada tipo de fogos a distribuir em cada modalidade de concurso. Quanto aos restantes candidatos, atende-se à situação existente na data em que forem homologados como efectivos.
 
 2. O número de candidatos a incluir como efectivos na relação de concorrentes a que se refere este artigo é igual ao número de fogos vagos de cada tipo a distribuir. Os candidatos suplentes não deverão ser em número superior ao dos candidatos efectivos.
 
 3. Para os efeitos deste artigo, os concorrentes devem comunicar, em tempo útil, por meio de carta registada, todas as alterações à situação existente na data em que concorreram.
 
-###### Art. 23.º Serão excluídos da classificação:
+Art. 23.º Serão excluídos da classificação:
 
 a) Os concorrentes que pela composição dos respectivos agregados familiares não possam instalar-se sem promiscuidade, em nenhum dos tipos de fogos a distribuir, compatível com o seu rendimento global;
 
 b) Os concorrentes em cujos agregados familiares haja pessoas que sofram de doenças contagiosas.
 
-###### Art. 24.º - 1. Os concorrentes a que forem distribuídas habitações deverão, no prazo de quinze dias, prorrogável em casos excepcionais, juntar declaração, sob compromisso de honra, reconhecida pelo notário, dos rendimentos de todos os componentes do respectivo agregado familiar e os documentos julgados necessários para comprovar os seguintes elementos:
+Art. 24.º - 1. Os concorrentes a que forem distribuídas habitações deverão, no prazo de quinze dias, prorrogável em casos excepcionais, juntar declaração, sob compromisso de honra, reconhecida pelo notário, dos rendimentos de todos os componentes do respectivo agregado familiar e os documentos julgados necessários para comprovar os seguintes elementos:
 
 a) Local de trabalho;
 
@@ -300,31 +307,31 @@ e) Inexistência de doença contagiosa, para os efeitos do disposto na alínea b
 
 2. Serão excluídos do concurso os concorrentes que, sem motivo atendível, não entreguem a documentação exigida no prazo referido no n.º 1.
 
-###### Art. 25.º - 1. Reunidos os elementos referidos nos artigos anteriores e corrigida em face deles a classificação provisória, será elaborada a lista definitiva dos concorrentes efectivos e suplentes.
+Art. 25.º - 1. Reunidos os elementos referidos nos artigos anteriores e corrigida em face deles a classificação provisória, será elaborada a lista definitiva dos concorrentes efectivos e suplentes.
 
 2. Sempre que se verifique a existência de qualquer dos motivos de exclusão do concurso ou da classificação ou a desistência de interessados, serão as habitações atribuídas aos suplentes que, na ordem da classificação, ocupem os lugares imediatos.
 
-###### Art. 26.º - 1. Cada concurso é válido pelo prazo que for fixado aquando da sua abertura, o qual poderá ser prorrogado em casos especiais devidamente justificados.
+Art. 26.º - 1. Cada concurso é válido pelo prazo que for fixado aquando da sua abertura, o qual poderá ser prorrogado em casos especiais devidamente justificados.
 
 2. A distribuição das habitações que vagarem dentro do período de vigência de cada concurso será sempre efectuada de acordo com a ordem de classificação dos concorrentes.
 
-###### Art. 27.º - 1. Das decisões proferidas pelo conselho administrativo do Fundo em matéria de classificação dos concorrentes e distribuição das habitações cabe recurso para o Ministro das Obras Públicas.
+Art. 27.º - 1. Das decisões proferidas pelo conselho administrativo do Fundo em matéria de classificação dos concorrentes e distribuição das habitações cabe recurso para o Ministro das Obras Públicas.
 
 2. O recurso deverá ser interposto pelo candidato no prazo de quinze dias, a contar da data em que tiver conhecimento da decisão que lhe serve de fundamento.
 
 #### SECÇÃO III — Do arrendamento
 
-###### Art. 28.º O arrendamento das casas do Fundo será sempre feito por escrito e pelo prazo de um ano, renovável nos termos das disposições em vigor, não podendo nunca ser exigida antecipação da renda.
+Art. 28.º O arrendamento das casas do Fundo será sempre feito por escrito e pelo prazo de um ano, renovável nos termos das disposições em vigor, não podendo nunca ser exigida antecipação da renda.
 
-###### Art. 29.º - 1. Quando o Fundo pretenda exercer o direito previsto no artigo 21.º do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, deverá avisar o arrendatário, por carta registada com aviso de recepção, pelo menos noventa dias antes do termo do contrato ou de qualquer período de renovação.
+Art. 29.º - 1. Quando o Fundo pretenda exercer o direito previsto no artigo 21.º do [Decreto-Lei n.º 49033](https://diariodarepublica.pt/dr/detalhe/decreto-lei/49033-1969-201065), de 28 de Maio de 1969, deverá avisar o arrendatário, por carta registada com aviso de recepção, pelo menos noventa dias antes do termo do contrato ou de qualquer período de renovação.
 
 2. Se o arrendatário não quiser sujeitar-se ao aumento, deve pôr escritos imediatamente e entregar a casa despejada no fim do período em curso; se o aumento for aceite, terá o Fundo de o fazer averbar no contrato.
 
 #### SECÇÃO IV — Da atribuição de casas em regime de propriedade resolúvel
 
-###### Art. 30.º Os concorrentes a quem hajam sido atribuídas casas em regime de propriedade resolúvel adquirem a sua posse e propriedade mediante a celebração de contrato, em que outorgam o morador-adquirente e o chefe da Repartição Administrativa do Fundo como seu representante.
+Art. 30.º Os concorrentes a quem hajam sido atribuídas casas em regime de propriedade resolúvel adquirem a sua posse e propriedade mediante a celebração de contrato, em que outorgam o morador-adquirente e o chefe da Repartição Administrativa do Fundo como seu representante.
 
-###### Art. 31.º - 1. As prestações devidas pela aquisição de uma casa em regime de propriedade resolúvel são compostas pelos seguintes elementos:
+Art. 31.º - 1. As prestações devidas pela aquisição de uma casa em regime de propriedade resolúvel são compostas pelos seguintes elementos:
 
 a) Uma parcela constante, para cada classe e tipo de casa, correspondente à renda mensal, para pagamento de juros e amortização do capital investido na casa;
 
@@ -334,7 +341,7 @@ c) Uma parcela constante, para cada classe e tipo de casa, correspondente ao pr�
 
 2. A parcela a que se refere a alínea a) do número anterior deverá ser calculada na base da amortização do custo da moradia em vinte e cinco prestações anuais e com uma taxa de juro não superior a 5 por cento.
 
-###### Art. 32.º - 1. As prestações a que se refere o artigo anterior deverão ser pagas sob a forma de renda mensal, as duas primeiras adiantadamente e antes da assinatura do contrato e as demais até ao dia 8 de cada mês, salvo nos casos seguintes:
+Art. 32.º - 1. As prestações a que se refere o artigo anterior deverão ser pagas sob a forma de renda mensal, as duas primeiras adiantadamente e antes da assinatura do contrato e as demais até ao dia 8 de cada mês, salvo nos casos seguintes:
 
 a) Morte do morador-adquirente;
 
@@ -342,12 +349,12 @@ b) Invalidez permanente e absoluta.
 
 2. Em caso de suicídio do morador-adquirente, as suas obrigações transmitem-se ao herdeiro da casa, que fica incumbido do pagamento das prestações em dívida, as quais não sofrem qualquer redução, apesar da caducidade da apólice do seguro de vida.
 
-###### Art. 33.º Os seguros referidos nas alíneas b) e c) do n.º 1 do artigo 31.º serão postos a concurso público pelo Fundo entre as sociedades de seguros nacionais autorizadas a explorar o respectivo ramo.
+Art. 33.º Os seguros referidos nas alíneas b) e c) do n.º 1 do artigo 31.º serão postos a concurso público pelo Fundo entre as sociedades de seguros nacionais autorizadas a explorar o respectivo ramo.
 
 Marcello Caetano - Rui Alves da Silva Sanches.
 
-**Promulgado em 19 de Maio de 1969.**
+Promulgado em 19 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

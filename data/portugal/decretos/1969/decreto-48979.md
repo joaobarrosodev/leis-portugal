@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48979-1969-530263
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:09Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f96b090f375b6cd232398f0199f98da36bddd14b362567b0f61205e7f037d487
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 74f86ee8690b6f4fe36e2f1a7f232de9ca49cf10f1011b8c54ec23962e287901
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:09Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:09Z'
   warnings: []
   errors: []
 ---
@@ -97,9 +97,9 @@ Tendo em vista o § 1.º do artigo 150.º da Constituição, por motivo de urgê
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar um contrato com as empresas Aquitaine Moçambique - Companhia de Petróleos, S. A. R. L., Anmercosa - Companhia de Petróleos de Moçambique, S. A. R. L., e Gelsenkirchener Bergwerks Aktien-Gesellschaft introduzindo alterações em certas disposições do contrato de concessão e seu aditamento, respectivamente de 7 de Dezembro de 1967 e 8 de Maio de 1968, de acordo com as disposições dos artigos 2.º a 11.º do presente decreto.
+Artigo 1.º Fica o Ministro do Ultramar autorizado a celebrar um contrato com as empresas Aquitaine Moçambique - Companhia de Petróleos, S. A. R. L., Anmercosa - Companhia de Petróleos de Moçambique, S. A. R. L., e Gelsenkirchener Bergwerks Aktien-Gesellschaft introduzindo alterações em certas disposições do contrato de concessão e seu aditamento, respectivamente de 7 de Dezembro de 1967 e 8 de Maio de 1968, de acordo com as disposições dos artigos 2.º a 11.º do presente decreto.
 
-###### Art. 2.º O n.º 1 do artigo 2.º do contrato de concessão de 7 de Dezembro de 1967 é substituído pelo seguinte:
+Art. 2.º O n.º 1 do artigo 2.º do contrato de concessão de 7 de Dezembro de 1967 é substituído pelo seguinte:
 
 1. A área da concessão, a dividir em três blocos, na qual se incluem a terra firme, os leitos dos lagos, rios e quaisquer cursos de água, as ilhas da faixa costeira, a zona contígua de 80 m contados a partir da linha de nível da máxima praia-mar na direcção da terra e ainda parcelas da plataforma continental, tal como é definida no n.º 2 deste artigo, é a incluída, para cada bloco, no perímetro definido pelos vértices com as seguintes coordenadas:
 
@@ -293,19 +293,19 @@ Longitude 34º 45' este de Greenwich.
 
 Longitude 35º 00' este de Greenwich.
 
-###### Art. 3.º Ao artigo 3.º do contrato de concessão de 7 de Dezembro de 1967 é acrescentado o seguinte novo n.º 4:
+Art. 3.º Ao artigo 3.º do contrato de concessão de 7 de Dezembro de 1967 é acrescentado o seguinte novo n.º 4:
 
 4. As áreas libertadas pelas concessionárias nos termos do número anterior não poderão determinar, quanto ao bloco C, a que se refere o n.º 1 do artigo 2.º, uma redução superior a 40 por cento da área total desse bloco.
 
-###### Art. 4.º Ao artigo 4.º da contrato de concessão de 7 de Dezembro de 1967 é acrescentado o seguinte novo n.º 4:
+Art. 4.º Ao artigo 4.º da contrato de concessão de 7 de Dezembro de 1967 é acrescentado o seguinte novo n.º 4:
 
 4. As áreas libertadas pelas concessionárias nos termos do número anterior não poderão determinar, quanto ao bloco C, a que se refere o n.º 1 do artigo 2.º, uma redução superior a 75 por cento da área total desse bloco.
 
-###### Art. 5.º Ao n.º 1 do artigo 6.º do contrato de concessão de 7 de Dezembro de 1967 é acrescentado o seguinte novo período:
+Art. 5.º Ao n.º 1 do artigo 6.º do contrato de concessão de 7 de Dezembro de 1967 é acrescentado o seguinte novo período:
 
 Para além dos limites estabelecidos no n.º 4 dos artigos 3.º e 4.º, as reduções voluntárias de área que as concessionárias queiram fazer ao abrigo deste número no bloco C, a que se refere o n.º 1 do artigo 2.º, não poderão efectuar-se sem que nos blocos A ou B também tenham já sido ou sejam feitas reduções voluntárias de áreas iguais.
 
-###### Art. 6.º As alíneas a), b) e c) do n.º 1 do artigo 31.º do contrato de 7 de Dezembro de 1967 são substituídas pelas seguintes:
+Art. 6.º As alíneas a), b) e c) do n.º 1 do artigo 31.º do contrato de 7 de Dezembro de 1967 são substituídas pelas seguintes:
 
 a) Durante o primeiro ano ... 20000000$00
 
@@ -313,31 +313,31 @@ b) Durante o segundo ano ... 80000000$00
 
 c) Durante o terceiro ano ... 160000000$00
 
-###### Art. 7.º As alíneas a) e b) do artigo 36.º do contrato de 7 de Dezembro de 1967 são substituídas pelas seguintes:
+Art. 7.º As alíneas a) e b) do artigo 36.º do contrato de 7 de Dezembro de 1967 são substituídas pelas seguintes:
 
 a) Durante o primeiro período de prorrogação previsto no n.º 2 do artigo 3.º ... 230000000$00
 
 b) Durante o segundo período de prorrogação previsto no n.º 1 do artigo 4.º ... 230000000$00
 
-###### Art. 8.º O n.º 4 do artigo 61.º do contrato de 7 de Dezembro de 1967 é substituído pelo seguinte:
+Art. 8.º O n.º 4 do artigo 61.º do contrato de 7 de Dezembro de 1967 é substituído pelo seguinte:
 
 4. As concessionárias submeterão trienalmente à aprovação do Ministro do Ultramar, e pela primeira vez até um ano após a data da assinatura deste contrato, o programa de especialização do pessoal nacional que pretenderem realizar, podendo, porém, esse programa ser revisto sempre que tal revisão se mostre razoàvelmente necessária.
 
 Durante três anos, a partir de 30 de Setembro de 1969, as concessionárias tomarão a seu cargo a formação de dois engenheiros ou geólogos portugueses em cada ano, por forma a permitir a constituição de um grupo de técnicos portugueses especializados em problemas de exploração petrolífera.
 
-###### Art. 9.º O artigo 63.º do contrato de 7 de Dezembro de 1967 é substituído pelo seguinte:
+Art. 9.º O artigo 63.º do contrato de 7 de Dezembro de 1967 é substituído pelo seguinte:
 
-###### Art. 63.º As concessionárias contribuirão com 2000000$00 anuais para o Fundo de Fomento Mineiro Ultramarino, comparticipando cada uma no pagamento desta importância proporcionalmente ao seu interesse na concessão.
+Art. 63.º As concessionárias contribuirão com 2000000$00 anuais para o Fundo de Fomento Mineiro Ultramarino, comparticipando cada uma no pagamento desta importância proporcionalmente ao seu interesse na concessão.
 
-###### Art. 10.º É acrescentado ao contrato de 7 de Dezembro de 1967 um novo artigo 70.º com a seguinte redacção:
+Art. 10.º É acrescentado ao contrato de 7 de Dezembro de 1967 um novo artigo 70.º com a seguinte redacção:
 
-###### Art. 70.º Tendo em conta as implicações que os trabalhos de prospecção e pesquisa possam ter para a fauna do Parque Nacional da Gorongosa, as operações que de algum modo se reflictam na área do referido Parque não serão efectuadas sem que sejam prèviamente discutidos com os serviços competentes os correspondentes planos de trabalho.
+Art. 70.º Tendo em conta as implicações que os trabalhos de prospecção e pesquisa possam ter para a fauna do Parque Nacional da Gorongosa, as operações que de algum modo se reflictam na área do referido Parque não serão efectuadas sem que sejam prèviamente discutidos com os serviços competentes os correspondentes planos de trabalho.
 
 Em relação às restantes reservas naturais compreendidas na área da concessão, as concessionárias, no cumprimento dos regulamentos em vigor, tomarão as precauções necessárias para evitar causar prejuízos à protecção e conservação da fauna selvagem.
 
-###### Art. 11.º É acrescentado ao contrato de 7 de Dezembro de 1967 um novo artigo 71.º com a seguinte redacção:
+Art. 11.º É acrescentado ao contrato de 7 de Dezembro de 1967 um novo artigo 71.º com a seguinte redacção:
 
-###### Art. 71.º - 1. Poderá associar-se com as concessionárias, relativamente às operações de prospecção, pesquisa, desenvolvimento e exploração de jazigos das substâncias referidas no n.º 1 do artigo 1.º, no bloco C referido no n.º 1 do artigo 2.º, uma sociedade nacional de que a maioria do capital social pertença ao Estado ou a organismo ou empresa pública do Estado, não excedendo a respectiva participação nos direitos e obrigações da associação a percentagem de 10 por cento dos direitos e obrigações emergentes das referidas operações.
+Art. 71.º - 1. Poderá associar-se com as concessionárias, relativamente às operações de prospecção, pesquisa, desenvolvimento e exploração de jazigos das substâncias referidas no n.º 1 do artigo 1.º, no bloco C referido no n.º 1 do artigo 2.º, uma sociedade nacional de que a maioria do capital social pertença ao Estado ou a organismo ou empresa pública do Estado, não excedendo a respectiva participação nos direitos e obrigações da associação a percentagem de 10 por cento dos direitos e obrigações emergentes das referidas operações.
 
 2. O direito de associação a que se refere o número anterior poderá ser exercido pela sociedade nacional relativamente a cada um dos jazigos definitivamente demarcados no bloco C e no prazo de três meses após o pedido de demarcação definitiva. Decorrido este prazo sem que a sociedade portuguesa tenha efectivamente notificado as concessionárias de que deseja exercer o seu direito de associação, entende-se que dele desiste em relação ao jazigo cuja demarcação definitiva haja sido pedida.
 
@@ -351,15 +351,15 @@ A concretização formal da associação da sociedade nacional a que se refere o
 
 Se a sociedade nacional vier a associar-se com as concessionárias, relativamente às operações de um ou mais jazigos no bloco C, essa associação será superiormente dirigida por uma comissão directiva da qual fará parte um representante daquela sociedade.
 
-###### Art. 12.º - 1. As concessionárias pagarão à província de Moçambique, no prazo de três meses, a contar da data da assinatura do contrato autorizado por este decreto, uma importância correspondente a 75$00 por quilómetro quadrado e por ano, relativamente à área do bloco C e ao tempo decorrido entre 7 de Dezembro de 1967 e a data do contrato autorizado pelo presente diploma.
+Art. 12.º - 1. As concessionárias pagarão à província de Moçambique, no prazo de três meses, a contar da data da assinatura do contrato autorizado por este decreto, uma importância correspondente a 75$00 por quilómetro quadrado e por ano, relativamente à área do bloco C e ao tempo decorrido entre 7 de Dezembro de 1967 e a data do contrato autorizado pelo presente diploma.
 
 2. Após a data do contrato autorizado pelo presente diploma serão devidas, em relação a toda a área da concessão, as rendas de superfície a que se refere o artigo 37.º do contrato de 7 de Dezembro de 1967.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 11 de Abril de 1969.**
+Promulgado em 11 de Abril de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 23 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 
@@ -367,17 +367,17 @@ Para ser publicado no Boletim Oficial de Moçambique. - J. da Silva Cunha.
 
 Bases fundamentais do contrato de associação a quer se refere o artigo 11.º do Decreto n.º 48979
 
-###### Base I
+Base I
 
 O contrato de associação será outorgado entre o grupo das sociedades concessionárias - Aquitaine Moçambique - Companhia de Petróleos, S. A. R. L., Anmercosa - Companhia de Petróleos de Moçambique, S. A. R. L., e Gelsenkirchener Bergwerks Aktien-Gesellschaft - como primeiros outorgantes e a sociedade nacional a constituir nos termos do artigo 11.º do Decreto n.º 48979, desta data, como segundo outorgante.
 
-###### Base II
+Base II
 
 A associação terá por objecto a execução das operações a efectuar conjuntamente pelas partes no bloco C, a que se refere o n.º 1 do artigo 2.º, e relativas às substâncias mencionadas no n.º 1 do artigo 1.º, ambos do contrato de 7 de Dezembro de 1967, ou seja, as operações de exploração e, eventualmente, as de prospecção, pesquisa e desenvolvimento, nas quais a sociedade nacional decida participar nas condições previstas na base seguinte.
 
 A associação vigorará enquanto subsistirem as referidas operações conjuntas.
 
-###### Base III
+Base III
 
 O direito de participação atribuído à sociedade nacional será exercido nas seguintes condições:
 
@@ -401,11 +401,11 @@ O prémio de compensação aqui considerado será pago em sete anuidades iguais,
 
 c) A sociedade nacional deverá ainda, além dos reembolsos previstos nas alíneas a) e b) que antecedem, reembolsar as concessionárias das despesas ocorridas entre o pedido de demarcação definitiva de um jazigo e o momento em que decida associar-se às operações desse jazigo. Este reembolso deverá ser feito no momento em que a decisão de se associar seja tomada pela sociedade nacional e será acrescido de um juro equivalente ao prime commercial rate de Nova Iorque.
 
-###### Base IV
+Base IV
 
 A titularidade da concessão continuará a pertencer exclusivamente às concessionárias.
 
-###### Base V
+Base V
 
 A orientação superior da associação será confiada a uma comissão directiva composta por um representante da sociedade nacional e por outro da sociedade Aquitaine Moçambique - Companhia de Petróleos, S. A. R. L., em representação do grupo das concessionárias, tendo cada um deles um direito de voto proporcional à participação que representa na associação.
 
@@ -419,7 +419,7 @@ c) Declaração da conformidade das contas com as regras estabelecidas no manual
 
 d) Cessão de bens que sejam propriedade conjunta das associadas.
 
-###### Base VI
+Base VI
 
 As concessionárias e a sociedade nacional participarão, proporcionalmente ao seu interesse na associação, nos direitos e obrigações relativos às operações conjuntas e nomeadamente:
 
@@ -429,7 +429,7 @@ b) Terão direito à produção dos jazigos explorados em associação;
 
 c) Serão comproprietários dos bens adquiridos em associação.
 
-###### Base VII
+Base VII
 
 O operador de todas as operações conjuntas será a sociedade Aquitaine Moçambique - Companhia de Petróleos, S. A. R. L.
 
@@ -449,31 +449,31 @@ O contrato de associação conterá em anexo um manual de normas de contabilidad
 
 O operador não deverá exceder em mais de 10 por cento as despesas previstas nos orçamentos aprovados. Poderá, todavia, efectuar despesas para além daquele limite em casos de emergência e dando do facto conhecimento às restantes associadas, logo que lhe seja possível.
 
-###### Base VIII
+Base VIII
 
 Se a província de Moçambique exercer o direito de preferência previsto no n.º 1 do artigo 50.º do contrato de 7 de Dezembro de 1967, relativamente à produção do bloco C, as entregas de petróleo bruto que lhe tenham de ser feitas sairão primeiramente da parte que competiria à sociedade nacional e sòmente depois de esgotada esta sairão da parte que couber às concessionárias. Relativamente à produção dos blocos A e B, manter-se-á o direito preferencial de compra da província de Moçambique de um máximo de 37,5 por cento das quantidades produzidas, nos termos previstos no artigo 50.º do contrato de 7 de Dezembro de 1967.
 
-###### Base IX
+Base IX
 
 O grupo das concessionárias obriga-se a comprar à sociedade nacional a totalidade ou parte da sua produção, se esta sociedade lhe fizer tal solicitação.
 
 O preço de compra, neste caso, será igual ao preço médio F. O. B. real obtido pelas concessionárias pela venda da sua própria produção, no decurso do ano considerado, tendo em atenção os diferenciais de qualidade e transportes e deduzido das despesas de comercialização, fixada em 3 por cento do referido preço.
 
-###### Base X
+Base X
 
 No caso de o grupo das concessionárias descobrir no bloco C um jazigo que decida não desenvolver por não o considerar econòmicamente explorável, a sociedade nacional terá o direito, dois anos após a referida decisão, de desenvolver e explorar o mesmo jazigo por sua conta e risco exclusivos.
 
 O grupo das concessionárias, contudo, reserva-se a faculdade de participar nos referidos trabalhos e na exploração do jazigo em questão enquanto a sociedade portuguesa não iniciar efectivamente os trabalhos correspondentes.
 
-###### Base XI
+Base XI
 
 A sociedade nacional e cada uma das sociedades do grupo das concessionárias serão individual e directamente responsáveis perante as instâncias fiscais pelo pagamento dos impostos relativos à sua parte da produção.
 
-###### Base XII
+Base XII
 
 Os diferendos que eventualmente ocorram entre as associações serão dirimidos em juízo arbitral a funcionar em Lisboa de harmonia com a lei processual portuguesa, composto por um árbitro nomeado pela sociedade nacional, outro nomeado pelas concessionárias e um terceiro, com voto de desempate, escolhido por acordo das associadas ou, na falta deste, designado pelo presidente do Supremo Tribunal de Justiça.
 
-###### Base XIII
+Base XIII
 
 O texto do contrato de associação cujas bases fundamentais serão as antecedentes será minutado e rubricado nos termos da alínea 4 do artigo 3.º do Decreto n.º 48979, desta data.
 

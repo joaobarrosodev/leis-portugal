@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48758-1968-261967
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-12-12T00:00:00Z'
+  retrieved_at: '2026-10-22T20:05:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 54364e98dd17e21023da0f1d8bcb4d5f59c3d98d51dde894c73cc99cef5a0e0d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8e2e4322d21185ade534c4fbd4f605712a69fe79c969d40f154f0e5d728ccc5d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:05:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:313603:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:05:18Z'
   warnings: []
   errors: []
 ---
@@ -85,20 +89,20 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É permitida a importação, sob regime de draubaque, de fios simples, de nylon ou de poliéster, destinados ao fabrico de fios texturizados ou de fios texturizados e estabilizados, a exportar ao abrigo do mesmo regime.
+Artigo 1.º É permitida a importação, sob regime de draubaque, de fios simples, de nylon ou de poliéster, destinados ao fabrico de fios texturizados ou de fios texturizados e estabilizados, a exportar ao abrigo do mesmo regime.
 
-###### Art. 2.º Por cada 100 kg (peso real) de fio branco texturizado ou texturizado e estabilizado exportado restituir-se-ão os direitos correspondentes a 100 kg (peso real) do fio simples importado.
+Art. 2.º Por cada 100 kg (peso real) de fio branco texturizado ou texturizado e estabilizado exportado restituir-se-ão os direitos correspondentes a 100 kg (peso real) do fio simples importado.
 
-###### Art. 3.º Por cada 100 kg (peso real) de fio tinto texturizado ou texturizado e estabilizado exportado restituir-se-ão os direitos correspondentes a 93 kg (peso real) do fio simples importado.
+Art. 3.º Por cada 100 kg (peso real) de fio tinto texturizado ou texturizado e estabilizado exportado restituir-se-ão os direitos correspondentes a 93 kg (peso real) do fio simples importado.
 
-###### Art. 4.º A exportação do fio texturizado ou texturizado e estabilizado a que se refere o presente decreto deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
+Art. 4.º A exportação do fio texturizado ou texturizado e estabilizado a que se refere o presente decreto deverá efectuar-se no prazo de dois anos, a contar da data da importação da respectiva matéria-prima.
 
-###### Art. 5.º É revogado o [Decreto n.º 47830](https://diariodarepublica.pt/dr/detalhe/decreto/47830-1967-313603), de 3 de Agosto de 1967.
+Art. 5.º É revogado o [Decreto n.º 47830](https://diariodarepublica.pt/dr/detalhe/decreto/47830-1967-313603), de 3 de Agosto de 1967.
 
 Marcello Caetano - João Augusto Dias Rosas.
 
-**Promulgado em 30 de Novembro de 1968.**
+Promulgado em 30 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Dezembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.

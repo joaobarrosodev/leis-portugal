@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48617-1968-264479
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 6faa6a85d019213845846785345f38423157fcf2607c3c95f799153422f1af19
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fc6f753fe214d82cad3bc4b58016590919c1cb2951d4a2feb878f0767159251e
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:385672:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:593352:por
+  label: null
+  source: null
 article_structure:
-  article_count: 51
-  section_count: 17
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:14Z'
   warnings: []
   errors: []
 ---
@@ -88,51 +104,51 @@ Com fundamento nas disposições do artigo 35.º e sua alínea e) do [Decreto n.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 255305468$70, destinados a reforçar verbas insuficientemente dotadas do orçamento respeitante ao corrente ano económico do Ministério das Comunicações:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais, no montante de 255305468$70, destinados a reforçar verbas insuficientemente dotadas do orçamento respeitante ao corrente ano económico do Ministério das Comunicações:
 
-### Capítulo 3.º «Direcção-Geral de Transportes Terrestres»:
+Capítulo 3.º «Direcção-Geral de Transportes Terrestres»:
 
 Fundo Especial de Transportes Terrestres
 
-###### Artigo 39.º «Despesas com o material» ... 8000000$00
+Artigo 39.º «Despesas com o material» ... 8000000$00
 
-###### Artigo 40.º «Pagamento de serviços ...» ... 147600000$00
+Artigo 40.º «Pagamento de serviços ...» ... 147600000$00
 
-### Capítulo 4.º «Aeronáutica civil»:
+Capítulo 4.º «Aeronáutica civil»:
 
 Aeroporto de Lisboa
 
-###### Artigo 67.º «Despesas com o pessoal» ... 1994125$00
+Artigo 67.º «Despesas com o pessoal» ... 1994125$00
 
-###### Artigo 68.º «Despesas com o material» ... 33194916$70
+Artigo 68.º «Despesas com o material» ... 33194916$70
 
-###### Artigo 69.º «Pagamento de serviços» ... 5735000$00
+Artigo 69.º «Pagamento de serviços» ... 5735000$00
 
-###### Artigo 70.º «Acidentes em serviço» ... 100000$00
+Artigo 70.º «Acidentes em serviço» ... 100000$00
 
-###### Artigo 71.º «Despesas de anos económicos findos» ... 2272427$00
+Artigo 71.º «Despesas de anos económicos findos» ... 2272427$00
 
-### Capitulo 6.º «Administração-Geral do Porto do Lisboa»:
+Capitulo 6.º «Administração-Geral do Porto do Lisboa»:
 
-###### Artigo 153.º «Despesas com o pessoal» ... 880000$00
+Artigo 153.º «Despesas com o pessoal» ... 880000$00
 
-###### Artigo 154.º «Despesas com o material» ... 8710000$00
+Artigo 154.º «Despesas com o material» ... 8710000$00
 
-###### Artigo 155.º «Pagamento do serviços» ... 25910000$O0
+Artigo 155.º «Pagamento do serviços» ... 25910000$O0
 
-### Capítulo 7.º «Administração dos Portos do Douro e Leixões»:
+Capítulo 7.º «Administração dos Portos do Douro e Leixões»:
 
-###### Artigo 158.º «Despesas com o pessoal» ... 2162400$O0
+Artigo 158.º «Despesas com o pessoal» ... 2162400$O0
 
-###### Artigo 159.º «Despesas com o material» ... 950000$00
+Artigo 159.º «Despesas com o material» ... 950000$00
 
-###### Artigo 160.º «Pagamento do serviços ...» ... 10382000$00
+Artigo 160.º «Pagamento do serviços ...» ... 10382000$00
 
-###### Artigo 161.º «Acidentes em serviço» ... 64600$00
+Artigo 161.º «Acidentes em serviço» ... 64600$00
 
-### Capitulo 9.º «Juntas autónomas dos portos»:
+Capitulo 9.º «Juntas autónomas dos portos»:
 
-###### Artigo 168.º, n.º 1) «Subsídios a cofres»:
+Artigo 168.º, n.º 1) «Subsídios a cofres»:
 
 Alínea 1 «Junta Autónoma dos Portos do Norte»:
 
@@ -164,45 +180,45 @@ Alínea 9 «Junta Autónoma dos Portos do Distrito de Angra do Heroísmo» ... 1
 
 ... 255305468$70
 
-###### Art. 2.º Para contrapartida dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas do aumentos de provisão de receitas:
+Art. 2.º Para contrapartida dos créditos designados no artigo anterior são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas do aumentos de provisão de receitas:
 
 Orçamento das receitas do Estado
 
-### Capítulo 5.º, artigo 109.º «Aeroporto de Lisboa» ... 43296468$70
+Capítulo 5.º, artigo 109.º «Aeroporto de Lisboa» ... 43296468$70
 
-### Capítulo 5.º, artigo 115.º «Porto de Lisboa» ... 35500000$00
+Capítulo 5.º, artigo 115.º «Porto de Lisboa» ... 35500000$00
 
-### Capítulo 5.º, artigo 116.º «Portos do Douro e Leixões» ... 13559000$00
+Capítulo 5.º, artigo 116.º «Portos do Douro e Leixões» ... 13559000$00
 
-### Capítulo 8.º, artigo 246.º «Fundo Especial de Transportes Terrestres» ... 155600000$00
+Capítulo 8.º, artigo 246.º «Fundo Especial de Transportes Terrestres» ... 155600000$00
 
-### Capítulo 8.º, artigo 274.º «Junta Autónoma dos Portos do Norte»:
+Capítulo 8.º, artigo 274.º «Junta Autónoma dos Portos do Norte»:
 
 Viana do Castelo ... 1000000$00
 
 Póvoa de Varzim ... 150000$00
 
-### Capítulo 8.º, artigo 275.º «Junta Autónoma do Porto de Aveiro» ... 2200000$00
+Capítulo 8.º, artigo 275.º «Junta Autónoma do Porto de Aveiro» ... 2200000$00
 
-### Capítulo 8.º, artigo 276.º «Junta Autónoma do Porto da Figueira da Foz» ... 550000$00
+Capítulo 8.º, artigo 276.º «Junta Autónoma do Porto da Figueira da Foz» ... 550000$00
 
-### Capítulo 8.º, artigo 277.º «Junta Autónoma do Porto de Setúbal» ... 400000$00
+Capítulo 8.º, artigo 277.º «Junta Autónoma do Porto de Setúbal» ... 400000$00
 
-### Capítulo 8.º, artigo 279.º «Junta Autónoma dos Portos de Sotavento do Algarve»:
+Capítulo 8.º, artigo 279.º «Junta Autónoma dos Portos de Sotavento do Algarve»:
 
 Faro-Olhão ... 1000000$00
 
 Tavira ... 200000$00
 
-### Capítulo 8.º, artigo 280.º «Junta Autónoma dos Portos do Arquipélago da Madeira» ... 150000$00
+Capítulo 8.º, artigo 280.º «Junta Autónoma dos Portos do Arquipélago da Madeira» ... 150000$00
 
-### Capítulo 8.º, artigo 281.º «Junta Autónoma dos Portos do Distrito de Ponta Delgada» ... 700000$O0
+Capítulo 8.º, artigo 281.º «Junta Autónoma dos Portos do Distrito de Ponta Delgada» ... 700000$O0
 
-### Capítulo 8.º, artigo 282.º «Junta Autónoma dos Portos do Distrito de Angra do Heroísmo» ... 1000000$00
+Capítulo 8.º, artigo 282.º «Junta Autónoma dos Portos do Distrito de Angra do Heroísmo» ... 1000000$00
 
 ... 255305468$70
 
-###### Art. 3.º São autorizadas as seguintes alterações aos orçamentos privativos:
+Art. 3.º São autorizadas as seguintes alterações aos orçamentos privativos:
 
 Da Administração-Geral do Porto de Lisboa
 
@@ -210,17 +226,17 @@ Reforços:
 
 Despesa ordinária:
 
-###### Artigo 2.º, n.º 2) «Remunerações por trabalho extraordinário», alínea 2 «Pessoal referido no artigo 77.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672)» ... 500000$00
+Artigo 2.º, n.º 2) «Remunerações por trabalho extraordinário», alínea 2 «Pessoal referido no artigo 77.º do [Decreto-Lei n.º 36976](https://diariodarepublica.pt/dr/detalhe/decreto-lei/36976-1948-385672)» ... 500000$00
 
-###### Artigo 3.º, n.º 4) «Fardamentos, ...»:
+Artigo 3.º, n.º 4) «Fardamentos, ...»:
 
 Alínea 2 «Outro pessoal da administração» ... 260000$00
 
 Alínea 3 «Subsídio para fardamento do pessoal destacado da Polícia de Segurança Pública» ... 120000$00
 
-###### Artigo 4.º, n.º 2) «Móveis» ... 300000$00
+Artigo 4.º, n.º 2) «Móveis» ... 300000$00
 
-###### Artigo 5.º «Despesas de conservação ...»:
+Artigo 5.º «Despesas de conservação ...»:
 
 N.º 1) «De imóveis»:
 
@@ -238,15 +254,15 @@ N.º 2), alínea 2 «Veículos com motor» ... 2000000$00
 
 N.º 3) «De móveis» ... 3000000$00
 
-###### Artigo 6.º «Material de consumo corrente»:
+Artigo 6.º «Material de consumo corrente»:
 
 N.º 3) «Impressos» ... 100000$00
 
 N.º 4) «Artigos de expediente ...» ... 100000$00
 
-###### Artigo 7.º, n.º 2) «Luz, ...» ... 150000$00
+Artigo 7.º, n.º 2) «Luz, ...» ... 150000$00
 
-###### Artigo 11.º «Encargos administrativos»:
+Artigo 11.º «Encargos administrativos»:
 
 N.º 3) «Publicidade ...» ... 120000$00
 
@@ -256,7 +272,7 @@ N.º 6) «Serviços especiais de vigilância» ... 200000$00
 
 N.º 10) «Pensões ao abrigo do [Decreto-Lei n.º 38523](https://diariodarepublica.pt/dr/detalhe/decreto-lei/38523-1951-593352)» ... 30000$00
 
-###### Artigo 12.º «Outros encargos»:
+Artigo 12.º «Outros encargos»:
 
 N.º 1) «Força motriz» ... 500000$00
 
@@ -280,29 +296,29 @@ Receita ordinária:
 
 Receita de exploração:
 
-###### Artigo 4.º «Armazenagem nos entrepostos ...» ... 1600000$00
+Artigo 4.º «Armazenagem nos entrepostos ...» ... 1600000$00
 
-###### Artigo 5.º «Tráfego ...» ... 5500000$00
+Artigo 5.º «Tráfego ...» ... 5500000$00
 
-###### Artigo 7.º «Guindastes, ...» ... 1300000$00
+Artigo 7.º «Guindastes, ...» ... 1300000$00
 
-###### Artigo 13.º «Fornecimento de energia eléctrica» ... 500000$00
+Artigo 13.º «Fornecimento de energia eléctrica» ... 500000$00
 
-###### Artigo 18.º «Ocupação de terrenos ...» ... 3500000$00
+Artigo 18.º «Ocupação de terrenos ...» ... 3500000$00
 
-###### Artigo 20.º «Dragagens» ... 2500000$00
+Artigo 20.º «Dragagens» ... 2500000$00
 
-###### Artigo 22.º «Pessoal» ... 1500000$00
+Artigo 22.º «Pessoal» ... 1500000$00
 
-###### Artigo 24.º «Outras receitas de exploração» ... 2000000$00
+Artigo 24.º «Outras receitas de exploração» ... 2000000$00
 
 Receitas diversas:
 
-###### Artigo 28.º «Diversas receitas não classificadas» ... 6000000$00
+Artigo 28.º «Diversas receitas não classificadas» ... 6000000$00
 
 Receitas destinadas ao fundo de melhoramentos:
 
-###### Artigo 29.º «Fundo de melhoramentos»:
+Artigo 29.º «Fundo de melhoramentos»:
 
 N.º 1) «Venda de terrenos» ... 10300000$00
 
@@ -316,33 +332,33 @@ Reforços:
 
 Despesa ordinária:
 
-###### Artigo 1.º «Remunerações certas ao pessoal em exercício»:
+Artigo 1.º «Remunerações certas ao pessoal em exercício»:
 
 N.º 3), alínea 1 «Pessoal recrutado nos termos do artigo 31.º da lei orgânica» ... 312400$00
 
 N.º 4), alínea. 1 «Pessoal admitido nos termos dos artigos 32.º e 33.º da lei orgânica» ... 1000000$00
 
-###### Artigo 2.º «Remunerações acidentais»:
+Artigo 2.º «Remunerações acidentais»:
 
 N.º 2) «Remunerações por trabalho extraordinário», alínea 2 «Pessoal referido no artigo 59.º da lei orgânica» ... 400000$00
 
 N.º 3) «Abonos por prestação de trabalho nocturno» ... 400000$00
 
-###### Artigo 3.º, n.º 4) «Alimentação ou subsídio em dinheiro » ... 50000$00
+Artigo 3.º, n.º 4) «Alimentação ou subsídio em dinheiro » ... 50000$00
 
-###### Artigo 6.º «Despesas de conservação ...»:
+Artigo 6.º «Despesas de conservação ...»:
 
 N.º 2), alínea 1 «Veículos com motor» ... 500000$00
 
 N.º 3) «De móveis» ... 300000$00
 
-###### Artigo 7.º, n.º 4) «Artigos de expediente ...» ... 150000$00
+Artigo 7.º, n.º 4) «Artigos de expediente ...» ... 150000$00
 
-###### Artigo 10.º, n.º 1) «Rendas de casa» ... 70000$00
+Artigo 10.º, n.º 1) «Rendas de casa» ... 70000$00
 
-###### Artigo 11.º, n.º 5 ) «Aluguer de máquinas ...» ... 50000$00
+Artigo 11.º, n.º 5 ) «Aluguer de máquinas ...» ... 50000$00
 
-###### Artigo 12.º «Outros encargos»:
+Artigo 12.º «Outros encargos»:
 
 N.º 1) «Força motriz» ... 300000$00
 
@@ -352,7 +368,7 @@ N.º 10) «Encargos com obras e instituições de carácter social ...» ... 300
 
 Acidentes em serviço
 
-###### Artigo 13.º, n.º 1) «Para pagamento de despesas com assistência clinica, ...» ... 64600$00
+Artigo 13.º, n.º 1) «Para pagamento de despesas com assistência clinica, ...» ... 64600$00
 
 ... 13559000$00
 
@@ -364,32 +380,32 @@ Taxas de exploração
 
 Serviços marítimos e terrestres:
 
-###### Artigo 4.º «Acostagem» ... 437000$00
+Artigo 4.º «Acostagem» ... 437000$00
 
-###### Artigo 5.º «Armazenagem de mercadorias» ... 875000$00
+Artigo 5.º «Armazenagem de mercadorias» ... 875000$00
 
-###### Artigo 10.º «Guindagem» ... 1200000$00
+Artigo 10.º «Guindagem» ... 1200000$00
 
-###### Artigo 11.º «Pesagens» ... 40000$00
+Artigo 11.º «Pesagens» ... 40000$00
 
-###### Artigo 15.º «Utilização de material automóvel» ... 875000$00
+Artigo 15.º «Utilização de material automóvel» ... 875000$00
 
-###### Artigo 17.º «Utilização de rebocadores ...» ... 180000$00
+Artigo 17.º «Utilização de rebocadores ...» ... 180000$00
 
 Ocupações e alugueres:
 
-###### Artigo 21.º «Aluguer de maquinismos, ...» ... 290000$00
+Artigo 21.º «Aluguer de maquinismos, ...» ... 290000$00
 
 Receitas diversas
 
 Serviços administrativos, técnicos e de exploração:
 
-###### Artigo 31.º «Venda de terrenos sobrantes, ...» ... 9662000$00
+Artigo 31.º «Venda de terrenos sobrantes, ...» ... 9662000$00
 
 ... 13559000$00
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Outubro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - Marcello Caetano - João Augusto Dias Rosas - José Estêvão Abranches Couceiro do Canto Moniz.

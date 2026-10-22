@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48956-1969-526590
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-04-08T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c69d313b504cf96852c5fdc4ae1471602350640bfe812b0543a42252c59c4ffa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 94a13513ca2ac4e49ccec8ac4eb40748e41dbc2ecc6e5023606ca98354cf72ea
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:673217:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:56Z'
   warnings: []
   errors: []
 ---
@@ -93,19 +97,19 @@ Considerando o disposto no § 1.º do artigo 150.º da Constituição, por motiv
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizado o Governo-Geral de Angola a promover a subscrição, pela província, de acções da Hidroeléctrica do Alto Catumbela, S. A. R. L., na próxima emissão de 50000 acções de 1000$00 cada uma, que esta sociedade se propõe realizar, em número que não exceda o valor de 50000000$00.
+Artigo 1.º É autorizado o Governo-Geral de Angola a promover a subscrição, pela província, de acções da Hidroeléctrica do Alto Catumbela, S. A. R. L., na próxima emissão de 50000 acções de 1000$00 cada uma, que esta sociedade se propõe realizar, em número que não exceda o valor de 50000000$00.
 
 § 1.º A liberação das acções que lhe vierem a ser atribuídas será efectivada, no decurso dos anos de 1969 e 1970, na medida das conveniências orçamentais da província.
 
 § 2.º A autorização conferida no corpo do artigo ficará dependente da prévia aprovação, pelo Ministro do Ultramar, da alteração dos estatutos que a sociedade terá de promover.
 
-###### Art. 2.º Fica o Governo-Geral de Angola autorizado desde já a abrir o crédito especial necessário para custear o encargo correspondente ao corrente ano económico, utilizando como contrapartida quaisquer recursos orçamentais.
+Art. 2.º Fica o Governo-Geral de Angola autorizado desde já a abrir o crédito especial necessário para custear o encargo correspondente ao corrente ano económico, utilizando como contrapartida quaisquer recursos orçamentais.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 28 de Março de 1969.**
+Promulgado em 28 de Março de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 8 de Abril de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

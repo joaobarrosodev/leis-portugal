@@ -46,40 +46,99 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48358-1968-274640
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '2002-03-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:08Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 19e1f89bfa63a6e8a8041e1f4f5daa14105ab2bae35eb19c8e6c0d72634de15e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7dfa171a31209add54682bc82ff6b0c6f9913f9cee83f5135356e74540136774
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:08Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Assistência Médica
+- Carreira Médica Hospitalar
+- Estabelecimento Hospitalar
+- Estatuto
+- Gestão Hospitalar
+- Regulamento Geral dos Hospitais
 relationships:
 - type: amended_by
   target: pt:dre:262645:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:216351:por
+  label: "Alargado o âmbito de aplicação do Regulamento pelo DEC LEI.49459.1969.12.24.MSA DG.IS [299]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49459-1969-216351
+  date: '1969-12-24'
+- type: amended_by
+  target: pt:dre:227386:por
+  label: "Tornado extensivo, na parte referente às carreiras de pessoal médico, aos Hospitais das Universidades de Luanda\
+    \ e de Lourenço Marques o Regulamento Geral dos Hospitais, aprovado pelo presente diploma, pelo DEC LEI.44/70.31.01.1970.MU,\
+    \ DG.IS [26] de 31.01.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/44-1970-227386
+  date: '1970-01-31'
+- type: amended_by
+  target: pt:dre:147439:por
+  label: "Alterados os arts. 37º, 38º, 39º, 40º e 41º e o quadro tipo e, revogada a al. a) do nº 2º do art. 12º todos do Regulamento\
+    \ Geral dos Hospitais pelo DEC.499/70.24.10.1970.MSA, DG.IS [247] de 24.10.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/499-1970-147439
+  date: '1970-10-24'
+- type: amended_by
+  target: pt:dre:382461:por
+  label: "Dada nova redacção ao n.º 2 do artigo 20.º do Regulamento aprovado pelo presente diploma, pelo DR.21/79.14.05.1979.MFP,\
+    \ DR.IS [110] de 14.05.1979\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/21-1979-382461
+  date: '1979-05-14'
+- type: amended_by
+  target: pt:dre:380739:por
+  label: "Alterado o nº 2 do art. 20º, pelo DR.98/82.1982.12.28.MAS, DR.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/98-1982-380739
+  date: '1982-12-28'
+- type: amended_by
+  target: pt:dre:382273:por
+  label: "Alterados os arts. 10º, nº 2, e 20º, nºs 1 e 2, pelo DR.52/84.1984.08.06.PCM, DR.IS [181]\0]\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/52-1984-382273
+  date: '1984-08-06'
+- type: amended_by
+  target: pt:dre:262645:por
+  label: "Alterado o art. 10º e revogado o nº 1 do art. 20º, com a redacção dada pelo DR 52/84 de 06-Ago, pelo DR.20/2002.2002.03.22.MS\
+    \ DR.IS-B [69]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/20-2002-262645
+  date: '2002-03-22'
+- type: cites
+  target: pt:dre:236710:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:274639:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:225854:por
+  label: "Revogado o nº3 do art. 26º pelo DEC LEI.151/70.10.04.1970.MSA, DG.IS [84] de 10.04.1970\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/151-1970-225854
+  date: '1970-04-10'
 article_structure:
-  article_count: 2
+  article_count: 0
   section_count: 13
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:08Z'
   warnings: []
   errors: []
 ---
@@ -88,15 +147,15 @@ validation:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Em execução do disposto na artigo 91.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), desta data, é aprovado o Regulamento Geral dos Hospitais, que baixa assinado pelo Ministro da Saúde e Assistência.
+Artigo 1.º Em execução do disposto na artigo 91.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), desta data, é aprovado o Regulamento Geral dos Hospitais, que baixa assinado pelo Ministro da Saúde e Assistência.
 
-###### Art. 2.º - 1. Este Regulamento estabelece a organização e funcionamento das hospitais gerais, aplicando-se aos especializados apenas nos casos nele expressamente indicados.
+Art. 2.º - 1. Este Regulamento estabelece a organização e funcionamento das hospitais gerais, aplicando-se aos especializados apenas nos casos nele expressamente indicados.
 
 2. Serão oportunamente publicados os regulamentas dos hospitais e centros médicos especializados, dos centros de reabilitação, dos hospitais de convalescentes e de internamento prolongado e ainda dos postos de consulta e socorros.
 
 3. O presente Regulamento Geral constitui legislação subsidiária dos regulamentas referidos no n.º 2 deste artigo e entra em vigor com o [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 27 de Abril de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Francisco Pereira Neto de Carvalho.
 
@@ -106,11 +165,11 @@ REGULAMENTO GERAL DOS HOSPITAIS
 
 #### SECÇÃO I — Dos hospitais e sua classificação
 
-###### Artigo 1.º - 1. Os hospitais são serviços de interesse público, instituídos, organizados e administrados com o objectiva de prestar à população assistência médica curativa e de reabilitação. Compete-lhes também colaborar na prevenção da doença, no ensino e na investigação científica.
+Artigo 1.º - 1. Os hospitais são serviços de interesse público, instituídos, organizados e administrados com o objectiva de prestar à população assistência médica curativa e de reabilitação. Compete-lhes também colaborar na prevenção da doença, no ensino e na investigação científica.
 
 2. Os hospitais fazem parte do sistema de combate à doença e promoção da saúde.
 
-###### Art. 2.º Os hospitais podem ser:
+Art. 2.º Os hospitais podem ser:
 
 a) Quanto à área geográfica que servem: centrais, regionais e sub-regionais;
 
@@ -118,11 +177,11 @@ b) Quanto ao esquema dos serviços médicos de que dispõem: gerais e especializ
 
 c) Quanto à responsabilidade da Administração: oficiais e particulares.
 
-###### Art. 3.º - 1. Os hospitais das sedes de zona, sejam gerais ou especializados, têm, em principio, a categoria de hospitais centrais. Podem, no entanto, alguns deles ser designados para exercer funções meramente regionais ou sub-regionais.
+Art. 3.º - 1. Os hospitais das sedes de zona, sejam gerais ou especializados, têm, em principio, a categoria de hospitais centrais. Podem, no entanto, alguns deles ser designados para exercer funções meramente regionais ou sub-regionais.
 
 2. As funções próprias de hospitais centrais, regionais ou sub-regionais podem ser atribuídas a serviços ou hospitais especializados ou não situados fora da sede da zona, região ou sub-região, quando as necessidades de organização o aconselhem, mediante despacho do Ministro da Saúde e Assistência, publicado no Diário do Governo.
 
-###### Art. 4.º - 1. Os hospitais das sedes de região têm a categoria de regionais.
+Art. 4.º - 1. Os hospitais das sedes de região têm a categoria de regionais.
 
 2. Os hospitais regionais classificam-se nos grupos seguintes:
 
@@ -134,7 +193,7 @@ III) Com menos de 300 camas.
 
 3. Estes limites podem sofrer correcções de acordo com o esquema de serviços existentes em cada hospital.
 
-###### Art. 5.º - 1. Os hospitais das sedes de sub-região têm a categoria de sub-regionais. Em casos de reconhecida vantagem, podem os hospitais sub-regionais ser localizados fora da sede das sub-regiões.
+Art. 5.º - 1. Os hospitais das sedes de sub-região têm a categoria de sub-regionais. Em casos de reconhecida vantagem, podem os hospitais sub-regionais ser localizados fora da sede das sub-regiões.
 
 2. Os hospitais sub-regionais classificam-se nos grupos seguintes:
 
@@ -146,25 +205,25 @@ III) Os restantes.
 
 3. É aplicável a esta classificação o disposto no n.º 3 do artigo anterior.
 
-###### Art. 6.º - 1. Os hospitais gerais facultam assistência de medicina e de cirurgia gerais e das especialidades que correspondam ao seu grau na hierarquia hospitalar. Os hospitais especializados destinam-se apenas a uma ou mais especialidades.
+Art. 6.º - 1. Os hospitais gerais facultam assistência de medicina e de cirurgia gerais e das especialidades que correspondam ao seu grau na hierarquia hospitalar. Os hospitais especializados destinam-se apenas a uma ou mais especialidades.
 
 2. Os hospitais especializados agrupam-se de acordo com a especialidade principal, para efeitos de organização hospitalar.
 
-###### Art. 7.º Os hospitais oficiais são administrados pelo Estado e os hospitais particulares pelas Misericórdias e demais instituições de assistência particular.
+Art. 7.º Os hospitais oficiais são administrados pelo Estado e os hospitais particulares pelas Misericórdias e demais instituições de assistência particular.
 
 #### SECÇÃO II — Dos órgãos de administração e dos de direcção técnica
 
-###### Art. 8.º - 1. A composição dos órgãos de administração e de direcção técnica consta dos capítulos II, III e IV deste diploma, que serão completados pelos regulamentos internos, privativos de cada hospital.
+Art. 8.º - 1. A composição dos órgãos de administração e de direcção técnica consta dos capítulos II, III e IV deste diploma, que serão completados pelos regulamentos internos, privativos de cada hospital.
 
 2. O mandato dos membros eleitos ou designados é sempre de três anos, quando os estatutos ou compromissos não disponham diferentemente para os órgãos específicos das Misericórdias ou demais instituições de assistência particular.
 
-###### Art. 9.º - 1. De todas as ordens de serviço ou providências semelhantes de carácter geral e execução permanente emitidas nos hospitais deve ser enviado à direcção da zona hospitalar respectiva um exemplar nos oito dias seguintes ao da emissão.
+Art. 9.º - 1. De todas as ordens de serviço ou providências semelhantes de carácter geral e execução permanente emitidas nos hospitais deve ser enviado à direcção da zona hospitalar respectiva um exemplar nos oito dias seguintes ao da emissão.
 
 2. O Ministro da Saúde e Assistência, quando considere que na referida providência há matéria prejudicial ao funcionamento dos serviços ou à assistência hospitalar, pode suspender a determinação.
 
 #### SECÇÃO III — Dos serviços hospitalares
 
-###### Art. 10.º - 1. Os serviços de um hospital agrupam-se pela forma seguinte:
+Art. 10.º - 1. Os serviços de um hospital agrupam-se pela forma seguinte:
 
 1.º Serviços de assistência:
 
@@ -190,11 +249,11 @@ d) Serviços gerais.
 
 3. A assistência religiosa é assegurada por capelães, designados nos termos da Concordata com a Santa Sé e legislação complementar.
 
-###### Art. 11.º - 1. Cada serviço fica à responsabilidade de um director, chefe ou encarregado, que o orienta em ordem a obter o maior rendimento do hospital.
+Art. 11.º - 1. Cada serviço fica à responsabilidade de um director, chefe ou encarregado, que o orienta em ordem a obter o maior rendimento do hospital.
 
 2. As administrações devem estabelecer escalas de substituição dos responsáveis dos vários serviços, por forma a manter sempre assegurada a sua condução competente e responsável.
 
-###### Art. 12.º - 1. Para estabelecer, a título normal, a ligação entre os serviços que em cada hospital actuam em matérias de interesse comum devem ser constituídos grupos ou comissões interserviços, permanentes ou eventuais.
+Art. 12.º - 1. Para estabelecer, a título normal, a ligação entre os serviços que em cada hospital actuam em matérias de interesse comum devem ser constituídos grupos ou comissões interserviços, permanentes ou eventuais.
 
 2. São desde já previstas as seguintes comissões permanentes:
 
@@ -206,7 +265,7 @@ c) Comissão de recepção de mercadorias.
 
 3. A criação de novas comissões ou grupos interserviços pode resultar de determinação do Ministério da Saúde e Assistência ou de acto interno das administrações dos hospitais.
 
-###### Art. 13.º - 1. As comissões de farmácia e terapêutica funcionam nos hospitais centrais e regionais e também nos sub-regionais, designados pela Direcção-Geral dos Hospitais. Compete a estas comissões:
+Art. 13.º - 1. As comissões de farmácia e terapêutica funcionam nos hospitais centrais e regionais e também nos sub-regionais, designados pela Direcção-Geral dos Hospitais. Compete a estas comissões:
 
 a) Actuar como órgão consultivo e de ligação entre os serviços de acção médica e os farmacêuticos;
 
@@ -220,11 +279,11 @@ e) Elaborar as adendas privativas do formulário de medicamentos e o manual de f
 
 2. As comissões são presididas pelo director clinico e têm vogais médicos e farmacêuticos designados pelo conselho técnico em número igual.
 
-###### Art. 14.º - 1. Nos serviços de aprovisionamento dos hospitais centrais e regionais devem funcionar comissões de escolha e de recepção de mercadorias com a composição fixada nos regulamentos internos.
+Art. 14.º - 1. Nos serviços de aprovisionamento dos hospitais centrais e regionais devem funcionar comissões de escolha e de recepção de mercadorias com a composição fixada nos regulamentos internos.
 
 2. Em principio, nenhum empregado pode fazer parte ao mesmo tempo das comissões de escolha e das de recepção, sem prejuízo de um ou mais membros da comissão de escolha serem chamados a prestar esclarecimentos à comissão de recepção.
 
-###### Art. 15.º - 1. Devem ser estabelecidos nos hospitais sistemas de avaliação regular do funcionamento e eficiência dos serviços.
+Art. 15.º - 1. Devem ser estabelecidos nos hospitais sistemas de avaliação regular do funcionamento e eficiência dos serviços.
 
 2. À Direcção-Geral dos Hospitais cabe organizar igualmente sistemas centrais de avaliação, destinados a apurar, de modo regular, os resultados do funcionamento da organização hospitalar metropolitana e dos elementos que a constituem, para o que os estabelecimentos e serviços lhe prestarão os esclarecimentos necessários.
 
@@ -232,7 +291,7 @@ e) Elaborar as adendas privativas do formulário de medicamentos e o manual de f
 
 ##### SUBSECÇÃO I — Disposições gerais
 
-###### Art. 16.º - 1. O pessoal hospitalar agrupa-se pela forma seguinte:
+Art. 16.º - 1. O pessoal hospitalar agrupa-se pela forma seguinte:
 
 a) Pessoal dirigente;
 
@@ -248,11 +307,11 @@ e) Pessoal menor.
 
 3. O pessoal religioso tem estatuto especial.
 
-###### Art. 17.º - 1. Os quadros dos hospitais administrados por Misericórdias e demais instituições de assistência particular seguirão o esquema aprovado pelo Ministro da Saúde e Assistência, com as adaptações convenientes em cada caso.
+Art. 17.º - 1. Os quadros dos hospitais administrados por Misericórdias e demais instituições de assistência particular seguirão o esquema aprovado pelo Ministro da Saúde e Assistência, com as adaptações convenientes em cada caso.
 
 2. A adaptação dos quadros dos hospitais ao esquema referido será feita gradualmente, à medida que as circunstâncias próprias de cada hospital o permitirem.
 
-###### Art. 18.º - 1. O pessoal dos quadros dos estabelecimentos oficiais é provido mediante portaria e o restante por contrato.
+Art. 18.º - 1. O pessoal dos quadros dos estabelecimentos oficiais é provido mediante portaria e o restante por contrato.
 
 2. O pessoal dos estabelecimentos e serviços pertencentes às Misericórdias e demais instituições de assistência particular é sempre provido mediante contrato.
 
@@ -264,9 +323,9 @@ e) Pessoal menor.
 
 6. O pessoal das Misericórdias e demais instituições de assistência particular actualmente ao serviço que não tenha contrato escrito deve celebrá-lo no prazo de três meses.
 
-###### Art. 19.º O pessoal além dos quadros será contratado ou assalariado, com remuneração idêntica à da categoria correspondente nos respectivos quadros e, não a havendo, a que for fixada no despacho de admissão.
+Art. 19.º O pessoal além dos quadros será contratado ou assalariado, com remuneração idêntica à da categoria correspondente nos respectivos quadros e, não a havendo, a que for fixada no despacho de admissão.
 
-###### Art. 20.º - 1. Salvo disposição expressa, os lugares das diferentes categorias de pessoal dirigente não abrangido por carreiras são providos, por escolha, em indivíduos habilitados com curso superior adequado e de reconhecido mérito para o exercício do cargo. O Ministro pode determinar, quando o entenda conveniente, a abertura de concurso.
+Art. 20.º - 1. Salvo disposição expressa, os lugares das diferentes categorias de pessoal dirigente não abrangido por carreiras são providos, por escolha, em indivíduos habilitados com curso superior adequado e de reconhecido mérito para o exercício do cargo. O Ministro pode determinar, quando o entenda conveniente, a abertura de concurso.
 
 2. Os lugares de chefe de secção e equivalentes são providos de entre diplomados com curso superior adequado ou primeiros-oficiais que hajam revelado qualidades de chefia e tenham cinco anos de serviço na respectiva categoria, com informação de Muito bom.
 
@@ -278,7 +337,7 @@ e) Pessoal menor.
 
 6. Em despacho fundamentado, o Ministro da Saúde e Assistência pode determinar que os concursos para as categorias a que se referem os n.os 4 e 5 sejam meramente documentais.
 
-###### Art. 21.º - 1. Os lugares de ingresso do pessoal técnico superior e médio não abrangidos em carreiras são providos, mediante concurso, de entre diplomados com o curso adequado.
+Art. 21.º - 1. Os lugares de ingresso do pessoal técnico superior e médio não abrangidos em carreiras são providos, mediante concurso, de entre diplomados com o curso adequado.
 
 2. Os lugares de ingresso do pessoal técnico auxiliar são providos, mediante concurso, de entre os habilitados com os respectivos cursos.
 
@@ -290,7 +349,7 @@ e) Pessoal menor.
 
 6. O pessoal menor é admitido de entre indivíduos habilitados com a instrução primária.
 
-###### Art. 22.º - 1. Além dos deveres gerais estabelecidos para os servidores civis do Estado, são deveres especiais do pessoal hospitalar:
+Art. 22.º - 1. Além dos deveres gerais estabelecidos para os servidores civis do Estado, são deveres especiais do pessoal hospitalar:
 
 a) Evitar demoras e adiamentos do serviço que possam repercutir-se prejudicialmente na assistência aos doentes;
 
@@ -312,17 +371,17 @@ c) Comparecer no hospital em caso de catástrofe ou grande desastre, quando não
 
 d) Não abandonar o serviço sem ser rendido, salvo se para isso houver expressa autorização de superior responsável.
 
-###### Art. 23.º - 1. O pessoal hospitalar deve ser tratado com urbanidade pelos superiores hierárquicos.
+Art. 23.º - 1. O pessoal hospitalar deve ser tratado com urbanidade pelos superiores hierárquicos.
 
 2. Pode também receber alimentação no hospital, quando as condições o permitirem e mediante os pagamentos fixados em instruções aprovadas pelo Ministro da Saúde e Assistência. Estas instruções determinarão quais os funcionárias ou empregados que, por exigência do serviço, devam tomar refeições nos locais de trabalho a título gratuito.
 
-###### Art. 24.º Os limites de idade para admissão ao serviço e para cessação de funções do pessoal hospitalar são os estabelecidos para os servidores civis do Estado, com as excepções estabelecidas no artigo 49.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639).
+Art. 24.º Os limites de idade para admissão ao serviço e para cessação de funções do pessoal hospitalar são os estabelecidos para os servidores civis do Estado, com as excepções estabelecidas no artigo 49.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639).
 
-###### Art. 25.º - 1. Nenhuma pessoa estranha ao respectivo quadro pode exercer nos hospitais qualquer função ou efectuar actos de assistência sem autorização escrita da administração respectiva.
+Art. 25.º - 1. Nenhuma pessoa estranha ao respectivo quadro pode exercer nos hospitais qualquer função ou efectuar actos de assistência sem autorização escrita da administração respectiva.
 
 2. Os directores, chefes ou encarregados de cada serviço são responsáveis, disciplinar e civilmente, pela inobservância do que fica disposto no número anterior.
 
-###### Art. 26.º - 1. O regime de trabalho em tempo completo importa a prestação de serviço mínimo de seis a oito horas diárias, conforme for estabelecido para cada caso por despacho do Ministro da Saúde e Assistência. Para o pessoal médico o tempo completo é sempre de seis horas, sem prejuízo do disposto no n.º 3.
+Art. 26.º - 1. O regime de trabalho em tempo completo importa a prestação de serviço mínimo de seis a oito horas diárias, conforme for estabelecido para cada caso por despacho do Ministro da Saúde e Assistência. Para o pessoal médico o tempo completo é sempre de seis horas, sem prejuízo do disposto no n.º 3.
 
 2. O regime de tempo parcial não pode ser inferior a quatro horas seguidas de serviço diário.
 
@@ -330,11 +389,11 @@ d) Não abandonar o serviço sem ser rendido, salvo se para isso houver expressa
 
 4. Não são permitidos horários semanais ou mensais.
 
-###### Art. 27.º - 1. Os profissionais que apenas se obrigam a dar consultas, fazer exames ou realizar conferências e intervenções cirúrgicas em dias determinados não têm horário fixo além do que em cada caso for estabelecido no contrato de prestação de serviço.
+Art. 27.º - 1. Os profissionais que apenas se obrigam a dar consultas, fazer exames ou realizar conferências e intervenções cirúrgicas em dias determinados não têm horário fixo além do que em cada caso for estabelecido no contrato de prestação de serviço.
 
 2. O Ministro da Saúde e Assistência pode autorizar horários especiais para qualquer das categorias profissionais abrangidas por este diploma, a fim de adequar o seu trabalho às necessidades ou conveniências dos serviços.
 
-###### Art. 28.º - 1. Os subsídios de fixação a médicos e enfermeiros só podem ser atribuídos a hospitais situados fora das sedes das zonas hospitalares.
+Art. 28.º - 1. Os subsídios de fixação a médicos e enfermeiros só podem ser atribuídos a hospitais situados fora das sedes das zonas hospitalares.
 
 2. Os subsídios devem ter duração limitada e ser normalmente comparticipados financeiramente pelos hospitais interessados.
 
@@ -342,13 +401,13 @@ d) Não abandonar o serviço sem ser rendido, salvo se para isso houver expressa
 
 4. O recrutamento do pessoal a fixar deve ser efectuado com observância das regras gerais em vigor.
 
-###### Art. 29.º Os incentivos de produtividade obedecerão a índices objectivos de avaliação a aprovar, em cada caso, pela Direcção-Geral dos Hospitais.
+Art. 29.º Os incentivos de produtividade obedecerão a índices objectivos de avaliação a aprovar, em cada caso, pela Direcção-Geral dos Hospitais.
 
-###### Art. 30.º - 1. O pessoal de cada serviço responde solidàriamente pela conservação e guarda do material que lhe for confiado quando não puder ser individualizado o causador do dano.
+Art. 30.º - 1. O pessoal de cada serviço responde solidàriamente pela conservação e guarda do material que lhe for confiado quando não puder ser individualizado o causador do dano.
 
 2. Quando o prejuízo deva ser distribuído por mais de um empregado, as administrações tomarão em conta o grau de responsabilidade e, no caso de igualdade, estabelecer-se-á a proporção com as remunerações respectivas.
 
-###### Art. 31.º - 1. A competência disciplinar dos dirigentes de estabelecimentos e serviços oficiais é a contida no regime geral dos funcionários públicos.
+Art. 31.º - 1. A competência disciplinar dos dirigentes de estabelecimentos e serviços oficiais é a contida no regime geral dos funcionários públicos.
 
 2. Nos estabelecimentos e serviços administrados por Misericórdias e demais instituições de assistência particular a competência disciplinar distribui-se pela forma seguinte:
 
@@ -364,15 +423,15 @@ e) As mesas ou direcções podem delegar no provedor ou no administrador a aplic
 
 3. O exercício do poder disciplinar em relação ao pessoal religioso cabe, em princípio, às autoridades espirituais de que depende, mas os órgãos de administração podem transmitir a essas autoridades os reparos que se lhes ofereçam e solicitar o afastamento dos elementos cuja permanência se mostre desaconselhável.
 
-###### Art. 32.º O funcionário que em dois anos seguidos der mais de 30 faltas por ano com fundamento em doença será obrigatòriamente reinspeccionado para ser averiguada a sua capacidade para o exercício da função. Se não for achado motivo justificativo das faltas, instaurar-se-á processo disciplinar.
+Art. 32.º O funcionário que em dois anos seguidos der mais de 30 faltas por ano com fundamento em doença será obrigatòriamente reinspeccionado para ser averiguada a sua capacidade para o exercício da função. Se não for achado motivo justificativo das faltas, instaurar-se-á processo disciplinar.
 
-###### Art. 33.º - 1. Mediante autorização do Ministro da Saúde e Assistência, podem os hospitais contratar com ordens religiosas, escolas de enfermagem ou outras entidades a execução de determinadas tarefas nos serviços hospitalares. As Misericórdias e demais instituições de assistência particular não carecem de autorização para a celebração destes contratos, mas devem observar as regras gerais que forem fixadas pelo Ministério da Saúde e Assistência, ao qual enviarão cópia dos que forem firmados.
+Art. 33.º - 1. Mediante autorização do Ministro da Saúde e Assistência, podem os hospitais contratar com ordens religiosas, escolas de enfermagem ou outras entidades a execução de determinadas tarefas nos serviços hospitalares. As Misericórdias e demais instituições de assistência particular não carecem de autorização para a celebração destes contratos, mas devem observar as regras gerais que forem fixadas pelo Ministério da Saúde e Assistência, ao qual enviarão cópia dos que forem firmados.
 
 2. O pessoal é livremente escolhido pela ordem religiosa ou entidade interessada, com observância das condições estabelecidas na lei e no contrato, designadamente no que respeita a idoneidade profissional.
 
 3. O pessoal abrangido por estes contratos fica sujeito às regras de disciplina geral vigentes no hospital.
 
-###### Art. 34.º - 1. Nos hospitais centrais e regionais e nos sub-regionais onde se justifique deve funcionar um serviço de saúde do pessoal, ao qual incumbe:
+Art. 34.º - 1. Nos hospitais centrais e regionais e nos sub-regionais onde se justifique deve funcionar um serviço de saúde do pessoal, ao qual incumbe:
 
 a) Efectuar os exames legalmente necessários à admissão e os de vigilância sanitária do pessoal;
 
@@ -388,15 +447,15 @@ d) Verificar a doença para efeitos de justificação de faltas, concessão de l
 
 4. Todo o pessoal hospitalar deve ser examinado mèdicamente uma vez em cada ano. Estes exames serão semestrais e trimestrais para o pessoal que trabalha nos serviços clínicos ou manipula géneros alimentícios, respectivamente. Podem ser ordenados exames avulsos ou com outra periodicidade quando se mostre necessário.
 
-###### Art. 35.º Nos Hospitais Civis de Lisboa os quadros do pessoal são comuns ao grupo, pelo que as dotações dos lugares atribuídos a cada hospital integrado têm carácter de distribuição interna, de alcance puramente administrativo.
+Art. 35.º Nos Hospitais Civis de Lisboa os quadros do pessoal são comuns ao grupo, pelo que as dotações dos lugares atribuídos a cada hospital integrado têm carácter de distribuição interna, de alcance puramente administrativo.
 
-###### Art. 36.º - 1. As remunerações do pessoal dos hospitais regionais abrangido por carreiras são as que constam de quadro-tipo anexo a este Regulamento.
+Art. 36.º - 1. As remunerações do pessoal dos hospitais regionais abrangido por carreiras são as que constam de quadro-tipo anexo a este Regulamento.
 
 2. Estas remunerações efectivar-se-ão caso a caso, através de despacho do Ministro da Saúde e Assistência, à medida que se reúnam as condições de pessoal, de material e de meios financeiros indispensáveis.
 
 ##### SUBSECÇÃO II — Carreira de administração de hospitais
 
-###### Art. 37.º - 1. A carreira do pessoal de administração abrange nos hospitais centrais os graus seguintes:
+Art. 37.º - 1. A carreira do pessoal de administração abrange nos hospitais centrais os graus seguintes:
 
 a) Chefe de serviço administrativo;
 
@@ -410,7 +469,7 @@ d) Provedor.
 
 3. Será fixada em portaria a data a partir da qual passa a ser exigida como habilitação indispensável o curso de administração hospitalar.
 
-###### Art. 38.º - 1. Os concursos de habilitação para chefes de serviços administrativos têm âmbito metropolitano e as provas a prestar são organizadas de acordo com a natureza dos lugares a prover.
+Art. 38.º - 1. Os concursos de habilitação para chefes de serviços administrativos têm âmbito metropolitano e as provas a prestar são organizadas de acordo com a natureza dos lugares a prover.
 
 2. Podem concorrer a estas provas:
 
@@ -428,7 +487,7 @@ a) Nos hospitais centrais, para lugares correspondentes ao título de habilitaç
 
 b) Nos hospitais regionais, para o lugar de administrador.
 
-###### Art. 39.º - 1. Os concursos de habilitação para administradores de hospitais centrais têm âmbito metropolitano e constam de provas práticas e documentais.
+Art. 39.º - 1. Os concursos de habilitação para administradores de hospitais centrais têm âmbito metropolitano e constam de provas práticas e documentais.
 
 2. São admitidos a estas provas:
 
@@ -442,9 +501,9 @@ d) Os técnicos dos serviços de utilização comum dos hospitais que obedeçam 
 
 3. Os aprovados neste concurso podem apresentar-se aos concursos documentais de provimento que forem abertos em hospitais centrais.
 
-###### Art. 40.º Nos hospitais regionais os actuais administradores passam a designar-se gerentes. Só os habilitados com o concurso ou os que actualmente tiverem curso superior podem usar o nome de administrador.
+Art. 40.º Nos hospitais regionais os actuais administradores passam a designar-se gerentes. Só os habilitados com o concurso ou os que actualmente tiverem curso superior podem usar o nome de administrador.
 
-###### Art. 41.º - 1. Os provedores dos hospitais centrais oficiais e os administradores-gerais são escolhidos entre os profissionais da carreira de administração hospitalar ou entre médicos directores de serviços ou de hospitais que tenham revelado particular competência em matéria de administração.
+Art. 41.º - 1. Os provedores dos hospitais centrais oficiais e os administradores-gerais são escolhidos entre os profissionais da carreira de administração hospitalar ou entre médicos directores de serviços ou de hospitais que tenham revelado particular competência em matéria de administração.
 
 2. Quando for julgado conveniente, o Ministro da Saúde e Assistência pode determinar que o provimento se faça mediante concurso documental, em termos que fixará.
 
@@ -452,7 +511,7 @@ d) Os técnicos dos serviços de utilização comum dos hospitais que obedeçam 
 
 ##### SUBSECÇÃO III — Carreira médica hospitalar
 
-###### Art. 42.º - 1. A carreira médica hospitalar é constituída pelos graus seguintes:
+Art. 42.º - 1. A carreira médica hospitalar é constituída pelos graus seguintes:
 
 a) Nos hospitais centrais
 
@@ -482,7 +541,7 @@ b) Nos hospitais regionais:
 
 4. O Ministro da Saúde e Assistência estabelecerá, mediante portaria, os pormenores de aplicação das regras prescritas para as carreiras médicas aos estabelecimentos e serviços pertencentes ou dependentes dos institutos médico-sociais.
 
-###### Art. 43.º - 1. A carreira hospitalar começa pelo internato, que funciona como processo de aperfeiçoamento pós-escolar e constitui, para todos os efeitos, exercício médico hospitalar.
+Art. 43.º - 1. A carreira hospitalar começa pelo internato, que funciona como processo de aperfeiçoamento pós-escolar e constitui, para todos os efeitos, exercício médico hospitalar.
 
 2. O internato deve ter estrutura idêntica em todos os estabelecimentos e serviços onde for autorizado e é constituído por dois períodos: o geral, com a duração de 2 anos, e o complementar, com a duração de 3 anos. O internato geral pode ir até 27 meses, enquanto não funcionar em regime de tempo completo.
 
@@ -492,7 +551,7 @@ b) Nos hospitais regionais:
 
 5. O regulamento do internato constará de portaria do Ministro da Saúde e Assistência.
 
-###### Art. 44.º - 1. Os médicos habilitados com o internato geral podem candidatar-se:
+Art. 44.º - 1. Os médicos habilitados com o internato geral podem candidatar-se:
 
 a) Ao internato complementar;
 
@@ -506,7 +565,7 @@ a) Aos lugares de graduado e assistente dos hospitais centrais;
 
 b) Aos lugares de assistente dos hospitais regionais e dos sub-regionais do grupo I.
 
-###### Art. 45.º - 1. A graduação destina-se a facultar aos médicos uma melhor preparação, sendo a sua duração limitada a cinco anos.
+Art. 45.º - 1. A graduação destina-se a facultar aos médicos uma melhor preparação, sendo a sua duração limitada a cinco anos.
 
 2. Os médicos com a graduação completa podem candidatar-se:
 
@@ -514,13 +573,13 @@ a) Aos lugares de assistente dos hospitais centrais;
 
 b) Aos lugares de assistente e de director de serviço dos hospitais regionais e sub-regionais.
 
-###### Art. 46.º - 1. Os lugares de assistente são de natureza permanente.
+Art. 46.º - 1. Os lugares de assistente são de natureza permanente.
 
 2. Os assistentes dos hospitais centrais podem concorrer a directores de serviço de qualquer hospital.
 
 3. Os assistentes dos hospitais regionais podem concorrer aos lugares de assistente dos hospitais centrais e de director de serviço dos hospitais regionais.
 
-###### Art. 47.º - 1. A admissão nos lugares de graduado e assistente dos hospitais centrais é feita por concurso de provas, realizado nos hospitais interessados.
+Art. 47.º - 1. A admissão nos lugares de graduado e assistente dos hospitais centrais é feita por concurso de provas, realizado nos hospitais interessados.
 
 2. O provimento dos lugares de director de serviço dos mesmos hospitais é realizado por meio de concurso documental, com apreciação de curriculum, sem prejuízo do disposto no artigo 64.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639), quanto aos hospitais escolares. Para o provimento destes lugares, além das qualificações profissionais, interessam, por igual modo, as qualidades de orientação e chefia.
 
@@ -530,25 +589,25 @@ b) Aos lugares de assistente e de director de serviço dos hospitais regionais e
 
 5. Na falta de pessoas habilitadas para os cargos de director de serviço, o lugar pode ser preenchido interinamente.
 
-###### Art. 48.º - 1. A admissão de assistentes nos hospitais regionais e sub-regionais do grupo I faz-se por concurso documental ao qual podem concorrer os médicos com internato complementar e os médicos graduados, tendo preferência os segundos. Entre os médicos graduados e os médicos com internato complementar a ordem obedece à classificação obtida.
+Art. 48.º - 1. A admissão de assistentes nos hospitais regionais e sub-regionais do grupo I faz-se por concurso documental ao qual podem concorrer os médicos com internato complementar e os médicos graduados, tendo preferência os segundos. Entre os médicos graduados e os médicos com internato complementar a ordem obedece à classificação obtida.
 
 2. É realizado por meio de concurso de provas públicas o provimento dos lugares de director de serviço dos hospitais regionais e sub-regionais do grupo I. Nos júris, deve haver sempre vogais dos hospitais centrais e aos concursos podem apresentar-se os assistentes dos hospitais regionais ou assistentes e médicos graduados dos centrais.
 
-###### Art. 49.º - 1. Os directores de serviço que, independentemente das suas qualificações e capacidade profissional, mostrem, no exercício das suas funções, falta de qualidades de orientação e direcção podem ser reconduzidos à sua categoria hospitalar anterior, sem prejuízo do disposto no artigo 64.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639). Não havendo vaga, ficarão como supranumerários.
+Art. 49.º - 1. Os directores de serviço que, independentemente das suas qualificações e capacidade profissional, mostrem, no exercício das suas funções, falta de qualidades de orientação e direcção podem ser reconduzidos à sua categoria hospitalar anterior, sem prejuízo do disposto no artigo 64.º do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639). Não havendo vaga, ficarão como supranumerários.
 
 2. Podem, no entanto, estes funcionários requerer a aposentação, se para ela tiverem tempo bastante.
 
-###### Art. 50.º - 1. A preparação adquirida em serviços médicos estrangeiros por médicos nacionais pode ser equiparada a algum dos graus previstos na carreira por despacho do Ministro da Saúde e Assistência, ouvida a Direcção-Geral dos Hospitais.
+Art. 50.º - 1. A preparação adquirida em serviços médicos estrangeiros por médicos nacionais pode ser equiparada a algum dos graus previstos na carreira por despacho do Ministro da Saúde e Assistência, ouvida a Direcção-Geral dos Hospitais.
 
 2. A equiparação deve ser proposta pelo conselho técnico do hospital interessado ou pela própria Direcção-Geral dos Hospitais.
 
-###### Art. 51.º - 1. No que respeita aos hospitais regionais e sub-regionais, a aplicação das regras que estabelecem a carreira médica deve realizar-se gradualmente, na medida em que se forem reunindo as condições indispensáveis, mas não pode ser admitido, após a publicação deste Regulamento, mais pessoal médico permanente fora dessas mesmas regras.
+Art. 51.º - 1. No que respeita aos hospitais regionais e sub-regionais, a aplicação das regras que estabelecem a carreira médica deve realizar-se gradualmente, na medida em que se forem reunindo as condições indispensáveis, mas não pode ser admitido, após a publicação deste Regulamento, mais pessoal médico permanente fora dessas mesmas regras.
 
 2. O pessoal médico que se encontre ao serviço há mais de um ano será integrado, mediante despacho do Ministro da Saúde e Assistência, logo que se efectue a primeira revisão do quadro, nos lugares que correspondam às funções até agora desempenhadas.
 
 3. São mantidos os direitos de estabilidade e remuneração aos médicos colocados em lugares que, por esta reforma, passem a ser de duração limitada.
 
-###### Art. 52.º - 1. Além dos graus que constituem a carreira, há nos hospitais as seguintes funções médicas:
+Art. 52.º - 1. Além dos graus que constituem a carreira, há nos hospitais as seguintes funções médicas:
 
 a) Nos hospitais centrais:
 
@@ -570,7 +629,7 @@ c) Nos hospitais sub-regionais:
 
 2. Os quadros dos hospitais regionais e sub-regionais do grupo I podem conter lugares para médicos adjuntos.
 
-###### Art. 53.º - 1. Os chefes de serviços de acção médica são nomeados de entre os assistentes, sob proposta do director clínico, ouvida a comissão médica, competindo-lhes:
+Art. 53.º - 1. Os chefes de serviços de acção médica são nomeados de entre os assistentes, sob proposta do director clínico, ouvida a comissão médica, competindo-lhes:
 
 a) Assegurar a chefia permanente do serviço ou da secção que lhes for determinada;
 
@@ -582,19 +641,19 @@ b) Substituir, pela ordem que vier a ser estabelecida, o director de serviço na
 
 4. Os directores clínicos servem por períodos de quatro anos, podendo ser reconduzidos mediante nova designação.
 
-###### Art. 54.º - 1. Os médicos adjuntos são recrutados entre os clínicos residentes na localidade, tendo preferência os habilitados com algum internato e os que tiverem, pelo menos, três anos de exercício de clínica.
+Art. 54.º - 1. Os médicos adjuntos são recrutados entre os clínicos residentes na localidade, tendo preferência os habilitados com algum internato e os que tiverem, pelo menos, três anos de exercício de clínica.
 
 2. Os médicos adjuntos são admitidos mediante inscrição aberta no hospital e, tratando-se de hospital administrado por Misericórdia ou outra instituição de assistência particular, nomeados pela mesa ou direcção, sob informação do director clínico. Quando haja discordância desta informação, a decisão será devidamente justificada.
 
 3. Os médicos adjuntos não têm acesso aos lugares da carreira, salvo se, para tanto, vierem a preencher os requisitos indispensáveis.
 
-###### Art. 55.º - 1. As administrações poderão autorizar o trabalho de médicos voluntários ou de tirocinantes que se preparem para concorrer a títulos de especialidades.
+Art. 55.º - 1. As administrações poderão autorizar o trabalho de médicos voluntários ou de tirocinantes que se preparem para concorrer a títulos de especialidades.
 
 2. A estes médicos poderão ser concedidas gratificações e participações nas verbas do pessoal.
 
 ##### SUBSECÇÃO IV — Carreira farmacêutica hospitalar
 
-###### Art. 56.º - 1. A carreira farmacêutica hospitalar é constituída pelos graus seguintes:
+Art. 56.º - 1. A carreira farmacêutica hospitalar é constituída pelos graus seguintes:
 
 a) Nos hospitais centrais:
 
@@ -624,13 +683,13 @@ b) Nos hospitais regionais:
 
 3. Quando os hospitais regionais tiverem as condições indispensáveis, pode funcionar neles o internato farmacêutico.
 
-###### Art. 57.º - 1. A carreira farmacêutica hospitalar começa pelo internato, que funciona como processo de aperfeiçoamento pós-escolar e constitui, para todos os efeitos, exercício farmacêutico profissional.
+Art. 57.º - 1. A carreira farmacêutica hospitalar começa pelo internato, que funciona como processo de aperfeiçoamento pós-escolar e constitui, para todos os efeitos, exercício farmacêutico profissional.
 
 2. O internato tem estrutura idêntica em todos os hospitais e serviços onde for autorizado e dura dois anos.
 
 3. O regulamento do internato farmacêutico constará de portaria do Ministro da Saúde e Assistência. Aplica-se ao internato farmacêutico, a título subsidiário e com as devidas adaptações, o que estiver disposto para o internato médico.
 
-###### Art. 58.º - 1. A habilitação para os diversos graus da carreira é adquirida em concursos de provas públicas, organizados nas condições genèricamente determinadas pela Direcção-Geral dos Hospitais e realizados entre os profissionais de categoria imediatamente inferior com três anos, pelo menos, de exercício, se os houver nessas condições, ou, por concurso documental, entre os farmacêuticos com o diploma adequado, quando se tratar de ingresso no internato.
+Art. 58.º - 1. A habilitação para os diversos graus da carreira é adquirida em concursos de provas públicas, organizados nas condições genèricamente determinadas pela Direcção-Geral dos Hospitais e realizados entre os profissionais de categoria imediatamente inferior com três anos, pelo menos, de exercício, se os houver nessas condições, ou, por concurso documental, entre os farmacêuticos com o diploma adequado, quando se tratar de ingresso no internato.
 
 2. O provimento depende de concurso documental levado a efeito pelos hospitais interessados.
 
@@ -638,7 +697,7 @@ b) Nos hospitais regionais:
 
 4. Nos concursos a que se refere o número anterior, para além das qualificações profissionais, devem ser apreciadas, igualmente, as qualidades de direcção e chefia.
 
-###### Art. 59.º - 1. A aplicação das regras que estabelecem a carreira farmacêutica será realizada gradualmente, na medida em que se forem reunindo as condições indispensáveis.
+Art. 59.º - 1. A aplicação das regras que estabelecem a carreira farmacêutica será realizada gradualmente, na medida em que se forem reunindo as condições indispensáveis.
 
 2. Nos hospitais centrais, tanto oficiais como de Misericórdias ou outras instituições de assistência particular, não será admitido, após a publicação deste diploma, mais pessoal farmacêutico, a título permanente, fora daquelas regras.
 
@@ -648,7 +707,7 @@ b) Nos hospitais regionais:
 
 #### SECÇÃO V — Da assistência aos doentes
 
-###### Art. 60.º - 1. A assistência hospitalar aos doentes podo ser prestada em regime de internamento, de semi-internamento, de consultas externas e de tratamento no domicílio.
+Art. 60.º - 1. A assistência hospitalar aos doentes podo ser prestada em regime de internamento, de semi-internamento, de consultas externas e de tratamento no domicílio.
 
 2. A assistência urgente pode ser prestada nos hospitais ou nos locais do sinistro ou onde o doente se encontre.
 
@@ -660,17 +719,17 @@ b) Nos hospitais regionais:
 
 6. A assistência domiciliária destina-se a prestar cuidados anteriores ou posteriores ao internamento, quando o estado do doente e as condições do meio o permitam.
 
-###### Art. 61.º - 1. Considera-se médico assistente do doente o que, fora do hospital, estiver a prestar-lhe serviços profissionais relacionados com a afecção que motiva o recurso ao hospital.
+Art. 61.º - 1. Considera-se médico assistente do doente o que, fora do hospital, estiver a prestar-lhe serviços profissionais relacionados com a afecção que motiva o recurso ao hospital.
 
 2. Considera-se médico responsável do doente aquele a quem o director ou chefe de serviço hospitalar confiar a orientação da assistência clinica. O director ou chefe de cada serviço clínico é o médico responsável de todos os doentes aí assistidos, cumulativamente com o referido na primeira parte deste número.
 
-###### Art. 62.º - 1. Os hospitais darão apoio aos médicos de clínica privada, com os quais devem estabelecer ligação técnica e profissional.
+Art. 62.º - 1. Os hospitais darão apoio aos médicos de clínica privada, com os quais devem estabelecer ligação técnica e profissional.
 
 2. Os médicos de clínica privada têm o direito de propor os seus doentes para admissão nos hospitais e de ser informados da evolução da doença.
 
 3. Após a alta, os médicos que hajam proposto a admissão têm direito de receber informação sobre os exames e tratamentos feitos durante o internamento, bem como indicações sobre o estado dos doentes e a continuação do tratamento.
 
-###### Art. 63.º - 1. A admissão dos doentes nos serviços hospitalares pode ser:
+Art. 63.º - 1. A admissão dos doentes nos serviços hospitalares pode ser:
 
 a) Ordinária ou de urgência;
 
@@ -680,19 +739,19 @@ b) A pedido ou compulsiva.
 
 3. É a pedido a admissão concedida por solicitação do próprio doente, dos seus familiares, ou ainda do médico assistente, quer a título individual, quer em nome de alguma organização responsável por assistência médica. É compulsiva a admissão imposta nos casos expressamente previstos na lei.
 
-###### Art. 64.º - 1. As admissões ordinárias só podem ser autorizadas depois de completado o processo administrativo e o estudo clínico do doente, na medida em que for possível realizá-lo em consulta externa ou em regime domiciliário.
+Art. 64.º - 1. As admissões ordinárias só podem ser autorizadas depois de completado o processo administrativo e o estudo clínico do doente, na medida em que for possível realizá-lo em consulta externa ou em regime domiciliário.
 
 2. Nas admissões urgentes é dispensada a apresentação de qualquer documentação, mas os serviços hospitalares promoverão imediatamente a organização do processo clínico e administrativo respectivo.
 
 3. As admissões de urgência podem ser sujeitas a confirmação do director clínico do hospital, sempre que se mostre conveniente. Quando se verificar que as admissões de urgência atingem número excepcional, o director clínico deve averiguar se os critérios utilizados são correctos, podendo chamar para o coadjuvarem os médicos que entender necessários.
 
-###### Art. 65.º - 1. As admissões são determinadas pelos médicos responsáveis dos serviços através dos quais se efectuam.
+Art. 65.º - 1. As admissões são determinadas pelos médicos responsáveis dos serviços através dos quais se efectuam.
 
 2. Os directores clínicos dos hospitais podem também autorizar a admissão de doentes e indicar o modo da sua distribuição pelos vários serviços hospitalares.
 
-###### Art. 66.º Os médicos são disciplinarmente responsáveis pelas admissões efectuadas contra os princípios estabelecidos.
+Art. 66.º Os médicos são disciplinarmente responsáveis pelas admissões efectuadas contra os princípios estabelecidos.
 
-###### Art. 67.º - 1. Os doentes assistidos nos hospitais classificam-se da forma seguinte:
+Art. 67.º - 1. Os doentes assistidos nos hospitais classificam-se da forma seguinte:
 
 a) Quanto à responsabilidade pela sua assistência médica, em doentes comuns e doentes privados;
 
@@ -708,7 +767,7 @@ b) Quanto à comparticipação nos encargos da assistência, em pensionistas, po
 
 6. Os doentes internados nas clínicas abertas são sempre considerados doentes privados.
 
-###### Art. 68.º - 1. Podem ser criadas clínicas abertas, nas quais os médicos não hospitalares que para o efeito se inscrevam sejam autorizados a internar e tratar os seus doentes privados.
+Art. 68.º - 1. Podem ser criadas clínicas abertas, nas quais os médicos não hospitalares que para o efeito se inscrevam sejam autorizados a internar e tratar os seus doentes privados.
 
 2. As clínicas abertas funcionam apenas em hospitais que para isso disponham de instalações adequadas e dependem de autorização do Ministro da Saúde e Assistência.
 
@@ -716,53 +775,53 @@ b) Quanto à comparticipação nos encargos da assistência, em pensionistas, po
 
 4. O número de médicos a inscrever é limitado e a escolha obedecerá a condições a fixar pela Direcção-Geral dos Hospitais.
 
-###### Art. 69.º - 1. Os doentes assistidos em quartos particulares, se não tiverem sido propostos por algum médico autorizado, podem escolhê-lo entre os que trabalham no hospital, em termos a regulamentar.
+Art. 69.º - 1. Os doentes assistidos em quartos particulares, se não tiverem sido propostos por algum médico autorizado, podem escolhê-lo entre os que trabalham no hospital, em termos a regulamentar.
 
 2. Os quartos particulares serão classificados de acordo com as comodidades que ofereçam.
 
-###### Art. 70.º - 1. A organização do processo dos doentes, em qualquer serviço, segue o determinado nos artigos 9.º a 14.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
+Art. 70.º - 1. A organização do processo dos doentes, em qualquer serviço, segue o determinado nos artigos 9.º a 14.º do [Decreto-Lei n.º 46301](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46301-1965-236710).
 
 2. A Direcção-Geral dos Hospitais emitirá as instruções necessárias à organização e funcionamento dos serviços de admissão e às rotinas dos diversos serviços.
 
 3. Os hospitais regionais e sub-regionais devem receber, para continuação de tratamento, quando tiverem vagas, os doentes das suas áreas que tenham tido necessidade de ser assistidos em hospitais de grau superior.
 
-###### Art. 71.º - 1. Em cada serviço hospitalar de internamento deve existir uma lista de espera, na qual serão inscritos os doentes que aguardam admissão ordinária.
+Art. 71.º - 1. Em cada serviço hospitalar de internamento deve existir uma lista de espera, na qual serão inscritos os doentes que aguardam admissão ordinária.
 
 2. A lista de espera registada em livro próprio, de modelo uniforme, ou em modelos de mecanografia aprovados pela Direcção-Geral dos Hospitais.
 
 3. A chamada dos doentes deve ser feita seguindo ordem de inscrição na lista, salvo autorização concedida pelo director clínico do hospital, mediante informação fundamentada do médico responsável do serviço ou da responsável do serviço social.
 
-###### Art. 72.º - 1. A decisão médica para a admissão dos doentes, as prescrições para o estudo e tratamento e a alta clínica devem ser sempre formuladas por escrito e assinadas pelo médico que as proferiu.
+Art. 72.º - 1. A decisão médica para a admissão dos doentes, as prescrições para o estudo e tratamento e a alta clínica devem ser sempre formuladas por escrito e assinadas pelo médico que as proferiu.
 
 2. A execução destas determinações deve ser também anotada no processo respectivo.
 
-###### Art. 73.º - 1. A alta clínica é dada pelo director do serviço respectivo ou pelo médico que, para isso, tiver delegação.
+Art. 73.º - 1. A alta clínica é dada pelo director do serviço respectivo ou pelo médico que, para isso, tiver delegação.
 
 2. A administração deve promover a regularização administrativa do processo de alta, designadamente pelo que respeita ao pagamento dos encargos pela assistência prestada.
 
 3. Quando a alta tiver sido dada por delegação, nos termos do n.º 1, os doentes ou seus representantes podem recorrer da decisão para o director do serviço, que decidirá.
 
-###### Art. 74.º - 1. A documentação clínica dos doentes que hajam pago o seu internamento, referente a exames e análises, ser-lhes-á gratuitamente entregue, se a pedirem. No caso de haver nisso interesse cientifico, podem ser tiradas cópias para ficarem no processo hospitalar. As administrações darão trimestralmente nota à Direcção-Geral dos Hospitais do número de cópias tiradas nestas circunstâncias e encargos decorrentes para o hospital.
+Art. 74.º - 1. A documentação clínica dos doentes que hajam pago o seu internamento, referente a exames e análises, ser-lhes-á gratuitamente entregue, se a pedirem. No caso de haver nisso interesse cientifico, podem ser tiradas cópias para ficarem no processo hospitalar. As administrações darão trimestralmente nota à Direcção-Geral dos Hospitais do número de cópias tiradas nestas circunstâncias e encargos decorrentes para o hospital.
 
 2. O mesmo se fará quando a documentação for pedida pelo organismo de previdência que tenha proposto a admissão ou seja responsável pelos respectivos encargos.
 
-###### Art. 75.º Haverá em cada serviço folhas diárias de movimento de doentes, que o director clínico visará.
+Art. 75.º Haverá em cada serviço folhas diárias de movimento de doentes, que o director clínico visará.
 
-###### Art. 76.º - 1. Podem ser estabelecidos limites máximos à duração do internamento, de acordo com a natureza do serviço em que os doentes são assistidos.
+Art. 76.º - 1. Podem ser estabelecidos limites máximos à duração do internamento, de acordo com a natureza do serviço em que os doentes são assistidos.
 
 2. Quando houver necessidade de prolongar os internamentos para além dos limites fixados, o médico responsável apresentará a justificação ao director clínico do hospital, o qual tomará as medidas que julgar adequadas.
 
-###### Art. 77.º - 1. Em todos os serviços deve haver livros nos quais os doentes ou seus familiares possam lançar as notas que o funcionamento dos serviços lhes sugiram.
+Art. 77.º - 1. Em todos os serviços deve haver livros nos quais os doentes ou seus familiares possam lançar as notas que o funcionamento dos serviços lhes sugiram.
 
 2. Estas notas serão presentes diariamente à administração do hospital.
 
-###### Art. 78.º - 1. As administrações devem favorecer o trabalho voluntário de pessoas ou organizações benévolas que se proponham colaborar na assistência, desde que estas ofereçam garantias seguras de idoneidade e se submetam às regras normais de disciplina e funcionamento dos hospitais.
+Art. 78.º - 1. As administrações devem favorecer o trabalho voluntário de pessoas ou organizações benévolas que se proponham colaborar na assistência, desde que estas ofereçam garantias seguras de idoneidade e se submetam às regras normais de disciplina e funcionamento dos hospitais.
 
 2. A acção destas pessoas ou organizações será orientada e fiscalizada pelo serviço social dos hospitais ou pelo serviço de enfermagem, na falta daquele.
 
 ### CAPÍTULO II — Dos hospitais centrais
 
-###### Art. 79.º - 1. São hospitais centrais gerais:
+Art. 79.º - 1. São hospitais centrais gerais:
 
 a) Em Lisboa: os Hospitais Civis de Lisboa e o Hospital de Santa Maria;
 
@@ -774,11 +833,11 @@ c) Em Coimbra: os Hospitais da Universidade de Coimbra.
 
 3. Os hospitais sub-regionais ou especializados da região sede de zona podem funcionar como prolongamento dos serviços de internamento dos hospitais centrais, nos termos de acordos a aprovar pelo Ministro da Saúde e Assistência.
 
-###### Art. 80.º - 1. Os hospitais centrais têm funções próprias de assistência médica, de ensino e de investigação científica.
+Art. 80.º - 1. Os hospitais centrais têm funções próprias de assistência médica, de ensino e de investigação científica.
 
 2. Compete-lhes também colaborar com os serviços de saúde pública na educação sanitária das populações e nos planos de prevenção da doença.
 
-###### Art. 81.º - 1. Compete aos hospitais centrais assegurar a assistência médica curativa e de reabilitação nas regiões e sub-regiões em cuja sede estejam situados. Cabe-lhes igualmente assistir os doentes que não possam ser diagnosticados ou tratados pelos demais hospitais das suas zonas.
+Art. 81.º - 1. Compete aos hospitais centrais assegurar a assistência médica curativa e de reabilitação nas regiões e sub-regiões em cuja sede estejam situados. Cabe-lhes igualmente assistir os doentes que não possam ser diagnosticados ou tratados pelos demais hospitais das suas zonas.
 
 2. Os hospitais centrais têm responsabilidades de apoio técnico em relação a todos os serviços hospitalares gerais das zonas respectivas.
 
@@ -794,7 +853,7 @@ d) Campos de estágio a oferecer ao pessoal dos hospitais regionais e sub-region
 
 e) Organização de cursos de aperfeiçoamento.
 
-###### Art. 82.º - 1. As funções de ensino dos hospitais centrais consistem em:
+Art. 82.º - 1. As funções de ensino dos hospitais centrais consistem em:
 
 a) Proporcionar às Faculdades de Medicina as condições necessárias ao ensino e à investigação, na parte que lhes respeita;
 
@@ -806,7 +865,7 @@ d) Manter internatos médicos e farmacêuticos;
 
 e) Facultar campo de investigação, demonstração, prática e investigação aos cursos de pessoal administrativo superiormente autorizados.
 
-###### Art. 83.º - 1. Nos hospitais centrais são órgãos de administração:
+Art. 83.º - 1. Nos hospitais centrais são órgãos de administração:
 
 a) O provedor;
 
@@ -824,7 +883,7 @@ c) A comissão médica.
 
 3. O Hospital Geral de Santo António disporá dos mesmos órgãos de administração e de direcção técnica, sem prejuízo de continuar a ser administrado pela Santa Casa da Misericórdia do Porto, nos termos da legislação geral, com as alterações constantes do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639) e do presente Regulamento.
 
-###### Art. 84.º - 1. O provedor é o primeiro responsável pela realização dos fins do hospital e pela sua gerência, de acordo com os meios de que disponha. Compete-lhe orientar, coordenar superiormente e fiscalizar o funcionamento de todos os serviços, bem como promover a criação de estruturas orgânicas adequadas e sua manutenção actualizada.
+Art. 84.º - 1. O provedor é o primeiro responsável pela realização dos fins do hospital e pela sua gerência, de acordo com os meios de que disponha. Compete-lhe orientar, coordenar superiormente e fiscalizar o funcionamento de todos os serviços, bem como promover a criação de estruturas orgânicas adequadas e sua manutenção actualizada.
 
 2. Compete, em especial, ao provedor:
 
@@ -842,7 +901,7 @@ d) Apresentar o relatório anual do hospital.
 
 5. Nas suas faltas e impedimentos, o provedor é substituído pelo administrador-geral ou administrador; no Hospital Geral de Santo António o presidente da comissão administrativa será substituído por um dos vogais da mesma comissão.
 
-###### Art. 85.º O conselho de administração é presidido pelo provedor e, no Hospital Geral de Santo António, pelo presidente da comissão administrativa e tem como vogais:
+Art. 85.º O conselho de administração é presidido pelo provedor e, no Hospital Geral de Santo António, pelo presidente da comissão administrativa e tem como vogais:
 
 a) Nos Hospitais de Santa Maria, S. João e da Universidade de Coimbra: um representante da Faculdade de Medicina, o administrador, o director clínico e seu adjunto, a enfermeira superintendente, o chefe da contabilidade e o chefe da secretaria, que servirá de secretário;
 
@@ -850,7 +909,7 @@ b) Nos Hospitais Civis de Lisboa: o administrador-geral, dois administradores e 
 
 c) No Hospital Geral de Santo António: as entidades indicadas na alínea a), com excepção do representante da Faculdade de Medicina, e os dois vogais da comissão administrativa.
 
-###### Art. 86.º - 1. Compete ao conselho de administração:
+Art. 86.º - 1. Compete ao conselho de administração:
 
 a) Pronunciar-se sobre os planos gerais de actividade que lhe sejam apresentados anualmente pelo provedor, tendo em conta o relatório do conselho técnico sobre o rendimento e eficiência dos serviços;
 
@@ -880,17 +939,17 @@ c) Quanto ao Hospital Geral de Santo António, nos membros da comissão administ
 
 5. No que respeita ao Hospital Geral de Santo António, as competências referidas nas alíneas d) a g) do n.º 1 podem ser exercidas de modo diverso, mediante proposta da mesa, homologada por despacho do Ministro da Saúde e Assistência.
 
-###### Art. 87.º - 1. Ao administrador compete dirigir, coordenar e fiscalizar os serviços de apoio geral, de acordo com o provedor, e substituir este nas funções de provedoria que lhe forem delegadas com autorização superior.
+Art. 87.º - 1. Ao administrador compete dirigir, coordenar e fiscalizar os serviços de apoio geral, de acordo com o provedor, e substituir este nas funções de provedoria que lhe forem delegadas com autorização superior.
 
 2. No Hospital Geral de Santo António o administrador deve exercer a sua acção de acordo com as orientações da comissão administrativa.
 
 3. Nos Hospitais Civis de Lisboa há um administrador-geral para o conjunto dos hospitais e administradores para cada um dos estabelecimentos que integram o grupo.
 
-###### Art. 88.º - 1. O director clínico coordena toda a assistência prestada aos doentes e, em especial, orienta a acção médica.
+Art. 88.º - 1. O director clínico coordena toda a assistência prestada aos doentes e, em especial, orienta a acção médica.
 
 2. Enquanto durar o exercício deste cargo, pode o director clínico ser dispensado das outras funções hospitalares, sendo nelas substituído a título interino.
 
-###### Art. 89.º - 1. O conselho técnico é presidido pelo provedor e, na sua falta, pelo director clínico e tem como vogais:
+Art. 89.º - 1. O conselho técnico é presidido pelo provedor e, na sua falta, pelo director clínico e tem como vogais:
 
 a) O director clínico;
 
@@ -942,7 +1001,7 @@ f) Sugerir o que julgar útil para melhoria técnica dos serviços e para aument
 
 8. O provedor deve convocar o conselho sempre que solicitado pelo director clínico ou pela terça parte dos membros do mesmo conselho ou da comissão médica. Quando entenda que a reunião não é de fazer, submeterá o assunto à decisão do director-geral dos Hospitais.
 
-###### Art. 90.º - 1. A comissão médica é constituída pelos directores de serviços de acção médica de cada hospital, sob a presidência do director clínico.
+Art. 90.º - 1. A comissão médica é constituída pelos directores de serviços de acção médica de cada hospital, sob a presidência do director clínico.
 
 2. Compete à comissão médica:
 
@@ -958,17 +1017,17 @@ e) Dar parecer, quando consultada, sobre as queixas e reclamações que sejam fo
 
 3. A comissão pode funcionar por secções e convocar qualquer médico cujo parecer ou depoimento sejam necessários.
 
-###### Art. 91.º - 1. Nos Hospitais Civis de Lisboa a comissão médica geral funciona sob a presidência do enfermeiro-mor, sempre que este seja médico, e é constituída pelos directores clínicos dos diversos hospitais integrados, dos serviços de urgência e do internato médico. Quando o enfermeiro-mor não for médico, a presidência cabe ao director clínico que for designado pelo Ministro.
+Art. 91.º - 1. Nos Hospitais Civis de Lisboa a comissão médica geral funciona sob a presidência do enfermeiro-mor, sempre que este seja médico, e é constituída pelos directores clínicos dos diversos hospitais integrados, dos serviços de urgência e do internato médico. Quando o enfermeiro-mor não for médico, a presidência cabe ao director clínico que for designado pelo Ministro.
 
 2. Em cada hospital do grupo há uma comissão médica privativa, sob a presidência do respectivo director clínico.
 
-###### Art. 92.º - 1. A competência dos hospitais centrais deve cobrir todas as modalidades de acção médica, incluindo as especialidades de prática não corrente.
+Art. 92.º - 1. A competência dos hospitais centrais deve cobrir todas as modalidades de acção médica, incluindo as especialidades de prática não corrente.
 
 2. Algumas destas especialidades podem ser concentrada apenas em parte dos hospitais centrais, que, nesse caso, darão apoio aos restantes.
 
 3. A acção médica dos hospitais centrais deve ser realizada integradamente por todos os seus sectores e elementos constitutivos e em união de trabalho com os regionais e sub-regionais da sua área.
 
-###### Art. 93.º - 1. Nos hospitais centrais há como serviços de acção médica os seguintes:
+Art. 93.º - 1. Nos hospitais centrais há como serviços de acção médica os seguintes:
 
 a) Serviços de clínica;
 
@@ -978,11 +1037,11 @@ b) Serviços complementares de diagnóstico e terapêutica.
 
 3. Constará dos regulamentos privativos de cada hospital a indicação dos serviços de acção médica que lhe correspondem.
 
-###### Art. 94.º - 1. Os serviços farmacêuticos têm a seu cargo a verificação, preparação, conservação, armazenagem, fornecimento e vigilância dos medicamentos. Compete-lhes também exercer investigação no campo da farmácia hospitalar.
+Art. 94.º - 1. Os serviços farmacêuticos têm a seu cargo a verificação, preparação, conservação, armazenagem, fornecimento e vigilância dos medicamentos. Compete-lhes também exercer investigação no campo da farmácia hospitalar.
 
 2. Estes serviços funcionam em estreita ligação com os serviços de acção médica e os administrativos.
 
-###### Art. 95.º - 1. Os serviços farmacêuticos dos hospitais centrais têm o esquema seguinte:
+Art. 95.º - 1. Os serviços farmacêuticos dos hospitais centrais têm o esquema seguinte:
 
 a) Armazenagem;
 
@@ -998,7 +1057,7 @@ e) Documentação e arquivo.
 
 3. O sector de produção deve funcionar em termos de exploração industrial, com apuramento periódico dos resultados económicos da sua actividade.
 
-###### Art. 96.º - 1. Nos hospitais centrais a enfermagem pode ser geral e especializada.
+Art. 96.º - 1. Nos hospitais centrais a enfermagem pode ser geral e especializada.
 
 2. Compete aos serviços de enfermagem:
 
@@ -1006,7 +1065,7 @@ a) Cuidar dos doentes de harmonia com as prescrições médicas estabelecidas e 
 
 b) Dirigir os serventes, criadas e pessoal equiparado colocados em serviços a seu cargo, quando essas funções não forem atribuídas a outro pessoal.
 
-###### Art. 97.º - 1. Compete ao serviço social nos hospitais centrais:
+Art. 97.º - 1. Compete ao serviço social nos hospitais centrais:
 
 a) Colaborar com os serviços de acção médica no estudo dos doentes, em ordem a determinar as causas e consequências sociais da doença;
 
@@ -1014,7 +1073,7 @@ b) Procurar remediar os estados de crise ou carência dos doentes, estabelecendo
 
 2. O serviço social deve prestar colaboração técnica às iniciativas particulares que se proponham completar ou ampliar a sua acção, orientando-as e fiscalizando-as.
 
-###### Art. 98.º - 1. Os serviços de apoio geral dos hospitais centrais devem corresponder à dimensão e organização próprias de cada unidade hospitalar.
+Art. 98.º - 1. Os serviços de apoio geral dos hospitais centrais devem corresponder à dimensão e organização próprias de cada unidade hospitalar.
 
 2. Em todos os hospitais centrais o esquema geral destes serviços abrange:
 
@@ -1056,19 +1115,19 @@ b) Lavadaria;
 
 c) Salubridade e domésticos.
 
-###### Art. 99.º - 1. Em princípio, o arquivo médico é único e central em cada hospital.
+Art. 99.º - 1. Em princípio, o arquivo médico é único e central em cada hospital.
 
 2. Os directores e chefes de serviços e os médicos responsáveis dos doentes podem designar os elementos dos processos que não devam ser comunicados sem sua autorização.
 
 ### CAPÍTULO III — Dos hospitais regionais
 
-###### Art. 100.º São hospitais regionais todos os das capitais de distrito e os das localidades que forem designadas como sede de região.
+Art. 100.º São hospitais regionais todos os das capitais de distrito e os das localidades que forem designadas como sede de região.
 
-###### Art. 101.º - 1. Os hospitais regionais são unidades intermédias da organização hospitalar geral, situando-se entre os hospitais centrais e os hospitais sub-regionais.
+Art. 101.º - 1. Os hospitais regionais são unidades intermédias da organização hospitalar geral, situando-se entre os hospitais centrais e os hospitais sub-regionais.
 
 2. Estes hospitais exercem a acção curativa e de reabilitação que lhes é própria ou lhes for atribuída e colaboram nas actividades de prevenção, ensino e formação de pessoal que estiverem dentro das suas possibilidades.
 
-###### Art. 102.º - 1. Compete, em especial, aos hospitais regionais:
+Art. 102.º - 1. Compete, em especial, aos hospitais regionais:
 
 a) Cumprir e promover o cumprimento dos planos de acção médico-social nacionais, de zona ou regionais na parte que lhes competir;
 
@@ -1080,11 +1139,11 @@ d) Estabelecer a ligação funcional entre os hospitais sub-regionais das respec
 
 e) Prestar apoio técnico aos hospitais sub-regionais da sua região nos termos indicados para os hospitais centrais, com as devidas adaptações.
 
-###### Art. 103.º - 1. Os hospitais regionais pertencentes às Santas Casas da Misericórdia são por elas administradas de acordo com a legislação geral, tendo em conta as alterações constantes do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639) e do presente Regulamento.
+Art. 103.º - 1. Os hospitais regionais pertencentes às Santas Casas da Misericórdia são por elas administradas de acordo com a legislação geral, tendo em conta as alterações constantes do [Decreto-Lei n.º 48357](https://diariodarepublica.pt/dr/detalhe/decreto-lei/48357-1968-274639) e do presente Regulamento.
 
 2. Quando pertencerem ao Estado, podem ser também confiados, em administração, à Misericórdia da localidade em que se situem. Neste caso, especificar-se-ão os direitos e as responsabilidades das Misericórdias.
 
-###### Art. 104.º - 1. Nos hospitais regionais são órgãos de administração:
+Art. 104.º - 1. Nos hospitais regionais são órgãos de administração:
 
 a) A mesa da Misericórdia;
 
@@ -1102,7 +1161,7 @@ c) A comissão médica.
 
 3. Para efeitos de administração do hospital, são agregados à mesa, com direito de voto, o administrador e o director clínico.
 
-###### Art. 105.º - 1. Compete à mesa da Misericórdia, com a composição indicada no artigo anterior:
+Art. 105.º - 1. Compete à mesa da Misericórdia, com a composição indicada no artigo anterior:
 
 a) Apreciar os planos gerais de actividade que lhe sejam apresentados anualmente pelo provedor, tendo em conta o relatório do conselho técnico sobre o rendimento e eficiência dos serviços, e pronunciar-se sobre eles dentro das normas de actuação prescritas pelo Ministério da Saúde e Assistência;
 
@@ -1126,7 +1185,7 @@ j) Ordenar o que julgar conveniente para conservação dos valores e salvaguarda
 
 2. A competência referida nas alíneas e) e f) pode ser delegada, em conjunto, no provedor, administrador e mesários para tanto designados. Da conferência deve ser lavrado auto, a apresentar na primeira reunião.
 
-###### Art. 106.º - 1. O provedor assume a primeira responsabilidade pela realização dos fins do hospital e pela sua gerência, dentro das orientações gerais da mesa e de acordo com a política geral de saúde estabelecida pelo Ministério da Saúde e Assistência.
+Art. 106.º - 1. O provedor assume a primeira responsabilidade pela realização dos fins do hospital e pela sua gerência, dentro das orientações gerais da mesa e de acordo com a política geral de saúde estabelecida pelo Ministério da Saúde e Assistência.
 
 2. Compete, em especial, ao provedor:
 
@@ -1140,7 +1199,7 @@ d) Exercer a acção disciplinar que lhe for delegada pela mesa, de acordo com o
 
 3. O provedor pode delegar algumas das suas funções no seu substituto normal ou no administrador.
 
-###### Art. 107.º - 1. O administrador, como órgão permanente da administração do hospital, é o executor das deliberações da mesa que não caibam ao provedor e das determinações deste.
+Art. 107.º - 1. O administrador, como órgão permanente da administração do hospital, é o executor das deliberações da mesa que não caibam ao provedor e das determinações deste.
 
 2. Compete-lhe especialmente:
 
@@ -1158,11 +1217,11 @@ f) Velar pela fazenda hospitalar.
 
 3. Quando entender que as decisões da mesa, do provedor ou do director clínico são ilegais ou não se harmonizam com as orientações estabelecidas pelo Ministério da Saúde e Assistência, o administrador deve chamar, para esse facto e por escrito, a atenção de quem houver tomado a decisão.
 
-###### Art. 108.º - 1. O director clínico dos hospitais regionais coordena toda a assistência prestada no hospital e, em especial, orienta a acção médica.
+Art. 108.º - 1. O director clínico dos hospitais regionais coordena toda a assistência prestada no hospital e, em especial, orienta a acção médica.
 
 2. Enquanto durar o exercício deste cargo pode o director clínico ser dispensado das funções anteriores, sendo nelas substituído a título interino.
 
-###### Art. 109.º - 1. O conselho técnico é presidido pelo provedor, sem direito de voto. São vogais do conselho técnico:
+Art. 109.º - 1. O conselho técnico é presidido pelo provedor, sem direito de voto. São vogais do conselho técnico:
 
 a) O director clínico;
 
@@ -1192,19 +1251,19 @@ l) O chefe de serviços de instalações e equipamento, quando existir.
 
 3. O conselho técnico tem competência idêntica ao dos hospitais centrais.
 
-###### Art. 110.º - 1. A comissão médica é constituída por todos os directores de serviços de acção médica do hospital, presididos pelo director clínico.
+Art. 110.º - 1. A comissão médica é constituída por todos os directores de serviços de acção médica do hospital, presididos pelo director clínico.
 
 2. A comissão médica tem competência idêntica à dos hospitais centrais.
 
 3. A comissão pode funcionar por secções e convocar qualquer médico cujo parecer ou depoimento sejam necessários.
 
-###### Art. 111.º Quando suceda que algum hospital regional venha a ser administrado pelo Estado, os órgãos de administração e sua competência serão fixados em portaria do Ministro da Saúde e Assistência, dentro das linhas gerais estabelecidas no presente diploma para os hospitais oficiais.
+Art. 111.º Quando suceda que algum hospital regional venha a ser administrado pelo Estado, os órgãos de administração e sua competência serão fixados em portaria do Ministro da Saúde e Assistência, dentro das linhas gerais estabelecidas no presente diploma para os hospitais oficiais.
 
-###### Art. 112.º - 1. A competência dos hospitais regionais deve cobrir todas as modalidades de acção médica geral e de especialidades correntes.
+Art. 112.º - 1. A competência dos hospitais regionais deve cobrir todas as modalidades de acção médica geral e de especialidades correntes.
 
 2. A acção médica dos hospitais regionais deve ser realizada integradamente por todos os seus sectores e elementos constitutivos e em união de trabalho com os centrais da sua zona e com os sub-regionais da sua região.
 
-###### Art. 113.º - 1. Nos hospitais regionais há como serviços de acção médica os seguintes:
+Art. 113.º - 1. Nos hospitais regionais há como serviços de acção médica os seguintes:
 
 a) Serviços de clínica;
 
@@ -1212,17 +1271,17 @@ b) Serviços complementares de diagnóstico e terapêutica.
 
 2. Constará dos regulamentos privativos de cada hospital a indicação dos serviços de acção médica que lhe correspondem.
 
-###### Art. 114.º - 1. O arquivo médico é único e central em cada hospital.
+Art. 114.º - 1. O arquivo médico é único e central em cada hospital.
 
 2. Os directores e chefes de serviços clínicos e os módicos responsáveis dos doentes podem designar os elementos dos processos que não devam ser comunicados sem sua autorização.
 
-###### Art. 115.º - 1. Aos serviços farmacêuticos dos hospitais regionais é aplicável o que se encontra disposto para os dos hospitais centrais.
+Art. 115.º - 1. Aos serviços farmacêuticos dos hospitais regionais é aplicável o que se encontra disposto para os dos hospitais centrais.
 
 2. Os sectores previstos no esquema destes últimos podem agrupar-se de acordo com as possibilidades materiais e pessoais de cada hospital.
 
-###### Art. 116.º É aplicável aos hospitais regionais o que se encontra disposto quanto aos serviços de enfermagem e social dos hospitais centrais.
+Art. 116.º É aplicável aos hospitais regionais o que se encontra disposto quanto aos serviços de enfermagem e social dos hospitais centrais.
 
-###### Art. 117.º - 1. Os serviços de apoio geral dos hospitais regionais devem corresponder à dimensão de cada unidade hospitalar.
+Art. 117.º - 1. Os serviços de apoio geral dos hospitais regionais devem corresponder à dimensão de cada unidade hospitalar.
 
 2. Consideram-se necessários a todos os hospitais os seguintes:
 
@@ -1254,23 +1313,23 @@ b) Lavadaria;
 
 c) Salubridade e domésticos.
 
-###### Art. 118.º - 1. Os serviços referidos no artigo anterior podem agrupar-se de acordo com o que for estabelecido no regulamento próprio de cada hospital.
+Art. 118.º - 1. Os serviços referidos no artigo anterior podem agrupar-se de acordo com o que for estabelecido no regulamento próprio de cada hospital.
 
 2. Nos hospitais regionais do grupo III devem agrupar-se normalmente num só serviço as aquisições e os armazéns.
 
 ### CAPÍTULO IV — Dos hospitais sub-regionais
 
-###### Art. 119.º - 1. São hospitais sub-regionais os das sedes das sub-regiões e os que, nas sedes das zonas, como tais sejam classificados.
+Art. 119.º - 1. São hospitais sub-regionais os das sedes das sub-regiões e os que, nas sedes das zonas, como tais sejam classificados.
 
 2. Se numa sub-região houver mais do que um hospital, todos terão a categoria de sub-regional, mas os situados fora da sede serão designados por hospitais locais, funcionando como extensão do primeiro ou dos regionais respectivos, conforme for julgado mais conveniente.
 
-###### Art. 120.º - 1. Os hospitais sub-regionais são unidades primárias da organização e asseguram a assistência médica às populações da periferia.
+Art. 120.º - 1. Os hospitais sub-regionais são unidades primárias da organização e asseguram a assistência médica às populações da periferia.
 
 2. Os hospitais sub-regionais do grupo III funcionam como centros de saúde, abertos a todos os médicos com residência na sua área e prestam cuidados de medicina curativa geral, de saúde pública e de cobertura social, sempre que possível em coordenação com as Casas do Povo e dos Pescadores. O mesmo pode ser determinado, por despacho do Ministro da Saúde e Assistência, em relação aos dos restantes grupos, quando nisso houver conveniência.
 
 3. Aos hospitais sub-regionais de maiores dimensões podem ser atribuídas funções e esquemas de serviços semelhantes aos dos hospitais regionais.
 
-###### Art. 121.º Compete, em especial, aos hospitais sub-regionais:
+Art. 121.º Compete, em especial, aos hospitais sub-regionais:
 
 a) Cumprir os planos de acção médico-social nacionais e regionais, na parte que lhes for atribuída;
 
@@ -1278,9 +1337,9 @@ b) Assegurar, na região, assistência de clínica geral, de socorros urgentes e
 
 c) Cooperar na prevenção da doença, designadamente através dos serviços de diagnóstico e terapêutica e dos de natureza dispensarial ou de saúde pública.
 
-###### Art. 122.º Nos hospitais sub-regionais do grupo I serão observadas, com as devidas modificações, as regras de organização e gestão estabelecidas para os hospitais regionais.
+Art. 122.º Nos hospitais sub-regionais do grupo I serão observadas, com as devidas modificações, as regras de organização e gestão estabelecidas para os hospitais regionais.
 
-###### Art. 123.º - 1. Nos hospitais sub-regionais são órgãos de administração:
+Art. 123.º - 1. Nos hospitais sub-regionais são órgãos de administração:
 
 a) A mesa da Misericórdia ou a direcção da instituição;
 
@@ -1298,9 +1357,9 @@ c) A comissão médica.
 
 3. Para efeitos de administração do hospital, são agregados à mesa, ou direcção, com direito a voto, o director clínico e o gerente, quando o houver.
 
-###### Art. 124.º À mesa ou direcção, com a composição indicada no n.º 3 do artigo anterior, e ao provedor são aplicáveis as disposições contidas nos artigos 105.º e 106.º
+Art. 124.º À mesa ou direcção, com a composição indicada no n.º 3 do artigo anterior, e ao provedor são aplicáveis as disposições contidas nos artigos 105.º e 106.º
 
-###### Art. 125.º - 1. O gerente, como órgão de administração do hospital, é o executor das decisões e deliberações da mesa ou direcção que não caibam ao provedor e das determinações deste, na medida em que disso for encarregado.
+Art. 125.º - 1. O gerente, como órgão de administração do hospital, é o executor das decisões e deliberações da mesa ou direcção que não caibam ao provedor e das determinações deste, na medida em que disso for encarregado.
 
 2. Compete-lhe, especialmente:
 
@@ -1318,11 +1377,11 @@ e) Velar pela fazenda hospitalar.
 
 4. Ao gerente e ao cartorário é aplicável o disposto no n.º 3 do artigo 107.º
 
-###### Art. 126.º - 1. O director clinico dos hospitais sub-regionais coordena toda a actividade técnica do hospital e, em especial, orienta a acção médica.
+Art. 126.º - 1. O director clinico dos hospitais sub-regionais coordena toda a actividade técnica do hospital e, em especial, orienta a acção médica.
 
 2. A direcção clínica dos hospitais sub-regionais que funcionem como centros de saúde pode ser confiada ao subdelegado de saúde do concelho, sempre que as circunstâncias o justifiquem.
 
-###### Art. 127.º - 1. O conselho técnico é presidido pelo provedor, sem direito a voto. São vogais do conselho técnico:
+Art. 127.º - 1. O conselho técnico é presidido pelo provedor, sem direito a voto. São vogais do conselho técnico:
 
 a) O director clínico;
 
@@ -1344,21 +1403,21 @@ h) A assistente social, quando a houver.
 
 3. Poderá não haver conselho técnico em hospitais do grupo III.
 
-###### Art. 128.º - 1. A comissão médica é constituída polo director clínico, que presidirá, e por todos os médicos que pertençam ao quadro do hospital ou nele trabalhem, quando se trate de hospitais do grupo III.
+Art. 128.º - 1. A comissão médica é constituída polo director clínico, que presidirá, e por todos os médicos que pertençam ao quadro do hospital ou nele trabalhem, quando se trate de hospitais do grupo III.
 
 2. A competência da comissão médica é idêntica à estabelecida para os hospitais regionais.
 
 3. No exercício das funções de natureza científica, pode a comissão remeter o assunto à comissão médica do hospital regional respectivo, sempre que não se considere tècnicamente habilitada a apreciá-lo.
 
-###### Art. 129.º Quando suceda que algum hospital sub-regional venha a ser administrado pelo Estado, os órgãos de administração e sua competência são fixados em portaria do Ministro da Saúde e Assistência, dentro das linhas gerais estabelecidas no presente diploma para os hospitais oficiais.
+Art. 129.º Quando suceda que algum hospital sub-regional venha a ser administrado pelo Estado, os órgãos de administração e sua competência são fixados em portaria do Ministro da Saúde e Assistência, dentro das linhas gerais estabelecidas no presente diploma para os hospitais oficiais.
 
-###### Art. 130.º - 1. A competência dos hospitais sub-regionais abrange o foro da medicina geral, incluindo a assistência a partos.
+Art. 130.º - 1. A competência dos hospitais sub-regionais abrange o foro da medicina geral, incluindo a assistência a partos.
 
 2. Pode abranger também, havendo justificação e meios bastantes, o exercício da cirurgia geral e de especialidades correntes.
 
 3. As consultas de especialidades podem ser asseguradas por médicos dos hospitais centrais e regionais.
 
-###### Art. 131.º - 1. Nos hospitais sub-regionais há, como serviços de acção médica:
+Art. 131.º - 1. Nos hospitais sub-regionais há, como serviços de acção médica:
 
 a) Serviços da clínica;
 
@@ -1366,15 +1425,15 @@ b) Serviços complementares de diagnóstico e terapêutica.
 
 2. Deve constar dos regulamentos privativos a indicação dos serviços de acção médica que lhes correspondem.
 
-###### Art. 132.º - 1. É aplicável aos hospitais sub-regionais o que se encontre disposto para os de grau superior quanto aos serviços de enfermagem e social, com as necessárias adaptações.
+Art. 132.º - 1. É aplicável aos hospitais sub-regionais o que se encontre disposto para os de grau superior quanto aos serviços de enfermagem e social, com as necessárias adaptações.
 
 2. Em especial ter-se-á em conta a participação destes serviços na acção integrada a realizar nas sub-regiões.
 
-###### Art. 133.º - 1. Os serviços de apoio geral dos hospitais sub-regionais seguem o esquema previsto para os hospitais regionais, mas reduzido de acordo com a dimensão de cada unidade hospitalar.
+Art. 133.º - 1. Os serviços de apoio geral dos hospitais sub-regionais seguem o esquema previsto para os hospitais regionais, mas reduzido de acordo com a dimensão de cada unidade hospitalar.
 
 2. Estes serviços podem ser comuns a todas as actividades da instituição.
 
-###### Art. 134.º - 1. A farmácia dos hospitais sub-regionais tem, essencialmente, função de simples distribuição de medicamentos para os serviços hospitalares e de saúde pública.
+Art. 134.º - 1. A farmácia dos hospitais sub-regionais tem, essencialmente, função de simples distribuição de medicamentos para os serviços hospitalares e de saúde pública.
 
 2. Pode a direcção técnica ser confiada a farmacêutico local, sob a vigilância do chefe dos serviços farmacêuticos do hospital regional respectivo.
 
@@ -1384,6 +1443,6 @@ Quadro-tipo a que se refere o artigo 36.º
 
 Hospitais regionais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/04/10100/06120626.pdf))](https://files.diariodarepublica.pt/1s/1968/04/10100/06120626.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/04/10100/06120626.pdf)
 
 Ministério da Saúde e Assistência, 27 de Abril de 1968. - O Ministro da Saúde e Assistência, Francisco Pereira Neto de Carvalho.

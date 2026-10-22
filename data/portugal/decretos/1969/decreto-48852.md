@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48852-1969-526831
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-01-27T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:11Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 86f846c9253b3ed968adf32a54af6a8072f12b729fedb921888fc686b68de0e3
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 7abfdb6e416ebd138160fc6c2d7fe7e4ac2769d3e570a927a31f9df4fee27537
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:11Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:500441:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:11Z'
   warnings: []
   errors: []
 ---
@@ -90,17 +94,17 @@ Nos termos do disposto no § 1.º do artigo 150.º da Constituição, por motivo
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo seguinte:
 
-###### Artigo único. O artigo 45.º do [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, passa a ter a seguinte redacção:
+Artigo único. O artigo 45.º do [Decreto n.º 43123](https://diariodarepublica.pt/dr/detalhe/decreto/43123-1960-500441), de 18 de Agosto de 1960, passa a ter a seguinte redacção:
 
-###### Art. 45.º No caso do levantamento da mercadoria, o portador do conhecimento de depósito pagará, para satisfação dos encargos decorrentes da armazenagem e do seguro da mercadoria contra incêndio, roubo e danos por assaltos, greves ou tumultos, a importância resultante da aplicação da taxa, a fixar pelo governador-geral, sobre o valor da mercadoria depositada e restituirá os títulos referidos na alínea b) do artigo 32.º
+Art. 45.º No caso do levantamento da mercadoria, o portador do conhecimento de depósito pagará, para satisfação dos encargos decorrentes da armazenagem e do seguro da mercadoria contra incêndio, roubo e danos por assaltos, greves ou tumultos, a importância resultante da aplicação da taxa, a fixar pelo governador-geral, sobre o valor da mercadoria depositada e restituirá os títulos referidos na alínea b) do artigo 32.º
 
 § único. Qualquer modificação, conserto, marcação e, de uma forma geral, toda a beneficiação sofrida pela mercadoria, a requisição do depositante ou exigência dos serviços, será de conta daquele.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Janeiro de 1969.**
+Promulgado em 15 de Janeiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 27 de Janeiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

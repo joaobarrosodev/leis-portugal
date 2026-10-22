@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49015-1969-200829
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-05-21T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 918babc1505be12d86f1fc742b6d6f768f05ad14429c8e599c584e2cc50b6cc7
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 159c78b66b8f2899b4bfb30ee6e8254f4d562ad5b6ca13785c0b121c795673a4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:252055:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:26Z'
   warnings: []
   errors: []
 ---
@@ -97,7 +101,7 @@ Tendo em vista o disposto no n.º 1.º do artigo 150.º da Constituição, por m
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a emissão de moedas metálicas destinadas à província de Timor, no montante de 17500 contos, sendo:
+Artigo 1.º É autorizada a emissão de moedas metálicas destinadas à província de Timor, no montante de 17500 contos, sendo:
 
 700000 moedas de 10$00, no valor de 7000000$00;
 
@@ -113,29 +117,29 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 1000000 de moedas de $10, no valor de 100000$00.
 
-###### Art. 2.º As moedas obedecerão às seguintes características:
+Art. 2.º As moedas obedecerão às seguintes características:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1969/05/12000/05470548.pdf))](https://files.diariodarepublica.pt/1s/1969/05/12000/05470548.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1969/05/12000/05470548.pdf)
 
-###### Art. 3.º As moedas de bronze não serão serrilhadas e terão numa das faces as armas da província com a legenda «Timor» e a designação da era, e na outra a legenda «República Portuguesa» com a indicação do valor.
+Art. 3.º As moedas de bronze não serão serrilhadas e terão numa das faces as armas da província com a legenda «Timor» e a designação da era, e na outra a legenda «República Portuguesa» com a indicação do valor.
 
-###### Art. 4.º As moedas de 2$50 serão serrilhadas e terão numa das faces as armas da província com a legenda «Timor» e a indicação do valor, e na outra os distintivos aprovados para a Ordem do Impérito com a legenda «República Portuguesa» e a designação da era.
+Art. 4.º As moedas de 2$50 serão serrilhadas e terão numa das faces as armas da província com a legenda «Timor» e a indicação do valor, e na outra os distintivos aprovados para a Ordem do Impérito com a legenda «República Portuguesa» e a designação da era.
 
-###### Art. 5.º As moedas de 5$00 e 10$00 serão serrilhadas e terão numa das faces o escudo nacional sobreposto à esfera armilar com a legenda «República Portuguesa» e a designação da era, e na outra as armas da província com a legenda «Timor» e a indicação do valor.
+Art. 5.º As moedas de 5$00 e 10$00 serão serrilhadas e terão numa das faces o escudo nacional sobreposto à esfera armilar com a legenda «República Portuguesa» e a designação da era, e na outra as armas da província com a legenda «Timor» e a indicação do valor.
 
-###### Art. 6.º À medida que as moedas forem recebidas, o Governo de Timor colocá-las-á à disposição do Banco Nacional Ultramarino contra a entrega de notas do correspondente valor nominal ou comunicação de que a respectiva importância foi creditada ao mesmo Governo.
+Art. 6.º À medida que as moedas forem recebidas, o Governo de Timor colocá-las-á à disposição do Banco Nacional Ultramarino contra a entrega de notas do correspondente valor nominal ou comunicação de que a respectiva importância foi creditada ao mesmo Governo.
 
-###### Art. 7.º O Governo de Timor fixará, por meio de portaria, o prazo a partir do qual deixarão de ter curso legal as moedas substituídas.
+Art. 7.º O Governo de Timor fixará, por meio de portaria, o prazo a partir do qual deixarão de ter curso legal as moedas substituídas.
 
-###### Art. 8.º Na Repartição Provincial dos Serviços de Fazenda e Contabilidade de Timor será aberta uma conta de operações de tesouraria sobre a epígrafe «Cunhagem de moeda divisionária», pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e outras despesas efectuadas com a amoedação, tendo como contrapartida as quantias recebidas do Banco Nacional Ultramarino nos termos do artigo 6.º
+Art. 8.º Na Repartição Provincial dos Serviços de Fazenda e Contabilidade de Timor será aberta uma conta de operações de tesouraria sobre a epígrafe «Cunhagem de moeda divisionária», pela qual serão satisfeitos todos os encargos resultantes do custo, frete, despacho, seguro e outras despesas efectuadas com a amoedação, tendo como contrapartida as quantias recebidas do Banco Nacional Ultramarino nos termos do artigo 6.º
 
 § único. Será oportunamente publicada no Boletim Oficial da província de Timor a conta definitiva das operações de tesouraria a que se refere este artigo.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 12 de Maio de 1969.**
+Promulgado em 12 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 21 de Maio de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48555-1968-265144
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-29T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:41Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: e094b35fc812024b784fb76e929f38240b743c8bf01f77644c6de7860f08fea0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e1b07765f25f16609e6ac50d976eccd4bb61d4f833a5456d6d3dd4b74e8dd77b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:41Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,49 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:155234:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:257266:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:471305:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:507855:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:531248:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:535034:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:554816:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:637881:por
+  label: null
+  source: null
 article_structure:
-  article_count: 5
+  article_count: 0
   section_count: 3
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:41Z'
   warnings: []
   errors: []
 ---
@@ -98,15 +130,15 @@ Disposições especiais
 
 A) Cabo Verde
 
-###### Artigo 1.º É atribuída ao funcionário do quadro do pessoal de contabilidade dos Transportes Aéreos de Cabo Verde que desempenha as funções de tesoureiro-pagador a gratificação mensal de 150$00 para falhas.
+Artigo 1.º É atribuída ao funcionário do quadro do pessoal de contabilidade dos Transportes Aéreos de Cabo Verde que desempenha as funções de tesoureiro-pagador a gratificação mensal de 150$00 para falhas.
 
-###### Art. 2.º Fica o Governo da província, observadas as disposições legais aplicáveis, autorizado a abrir um crédito especial da importância de 1050785$50, destinado a reforçar a verba do capítulo 11.º, artigo 312.º «Exercícios findos - Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na província», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos.
+Art. 2.º Fica o Governo da província, observadas as disposições legais aplicáveis, autorizado a abrir um crédito especial da importância de 1050785$50, destinado a reforçar a verba do capítulo 11.º, artigo 312.º «Exercícios findos - Para pagamento das despesas de exercícios findos referidas no artigo 57.º do [Decreto n.º 17881](https://diariodarepublica.pt/dr/detalhe/decreto/17881-1930-531248), de 11 de Janeiro de 1930, e legislação que posteriormente aditou ou alterou tal disposição - A pagar na província», da tabela de despesa ordinária do orçamento geral em vigor, tomando como contrapartida os saldos das contas de exercícios findos.
 
-###### Art. 3.º É ratificada a [Portaria n.º 7572](https://diariodarepublica.pt/dr/detalhe/portaria/7572-1933-257266), de 18 de Junho de 1966, publicada pelo Governo da província.
+Art. 3.º É ratificada a [Portaria n.º 7572](https://diariodarepublica.pt/dr/detalhe/portaria/7572-1933-257266), de 18 de Junho de 1966, publicada pelo Governo da província.
 
 B) Guiné
 
-###### Art. 4.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, os seguintes créditos especiais, tomando como contrapartida os saldos das contas de exercícios findos:
+Art. 4.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, os seguintes créditos especiais, tomando como contrapartida os saldos das contas de exercícios findos:
 
 1.º Um de 5843519$70, a inscrever em adicional à tabela de despesa ordinária do orçamento geral em vigor, destinado à regularização do pagamento feito por operações de tesouraria no ano de 1967 dos encargos respeitantes ao mesmo ano derivados dos empréstimos realizados ao abrigo dos seguintes diplomas:
 
@@ -118,17 +150,17 @@ b) [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/
 
 ### CAPÍTULO 1.º — Dívida da província
 
-###### Artigo 2.º «Amortização e juros da anuidade referentes ao empréstimo do II Plano de Fomento ([Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961)» ... 4100800$00
+Artigo 2.º «Amortização e juros da anuidade referentes ao empréstimo do II Plano de Fomento ([Decreto-Lei n.º 43519](https://diariodarepublica.pt/dr/detalhe/decreto-lei/43519-1961-554816), de 28 de Fevereiro de 1961)» ... 4100800$00
 
-###### Artigo 3.º «Juros de empréstimo do Plano Intercalar de Fomento ([Lei n.º 2123](https://diariodarepublica.pt/dr/detalhe/lei/2123-1964-535034), de 14 de Dezembro de 1964, e [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46683-1965-507855), de 3 de Dezembro de 1965)» ... 2956407$44
+Artigo 3.º «Juros de empréstimo do Plano Intercalar de Fomento ([Lei n.º 2123](https://diariodarepublica.pt/dr/detalhe/lei/2123-1964-535034), de 14 de Dezembro de 1964, e [Decreto-Lei n.º 46683](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46683-1965-507855), de 3 de Dezembro de 1965)» ... 2956407$44
 
 C) Angola
 
-###### Art. 5.º Aos sacerdotes que exerçam as funções de capelães nos hospitais centrais de Benguela, Nova Lisboa e Sá da Bandeira é atribuída uma gratificação mensal de 2000$00.
+Art. 5.º Aos sacerdotes que exerçam as funções de capelães nos hospitais centrais de Benguela, Nova Lisboa e Sá da Bandeira é atribuída uma gratificação mensal de 2000$00.
 
 D) Macau
 
-###### Art. 6.º No quadro dos serviços gerais de saúde e assistência são criados os seguintes lugares, a prover em regime de assalariamento, com o salário correspondente à letra Z a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
+Art. 6.º No quadro dos serviços gerais de saúde e assistência são criados os seguintes lugares, a prover em regime de assalariamento, com o salário correspondente à letra Z a que se refere o § 1.º do artigo 91.º do Estatuto do Funcionalismo Ultramarino:
 
 1 de encarregado de incinerador;
 
@@ -136,11 +168,11 @@ D) Macau
 
 2 de capataz dos Serviços de Saúde e Higiene.
 
-###### Art. 7.º Quando as circunstâncias o exigirem poderá o governador da província autorizar a admissão para os lugares de contínuo e fiscais de cargas e descargas do quadro do pessoal contratado dos serviços de economia de pessoas naturais da província ou nela residentes, mesmo que não satisfaçam às condições previstas nas alíneas a), c) e f) do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
+Art. 7.º Quando as circunstâncias o exigirem poderá o governador da província autorizar a admissão para os lugares de contínuo e fiscais de cargas e descargas do quadro do pessoal contratado dos serviços de economia de pessoas naturais da província ou nela residentes, mesmo que não satisfaçam às condições previstas nas alíneas a), c) e f) do artigo 12.º do Estatuto do Funcionalismo Ultramarino.
 
 E) Timor
 
-###### Art. 8.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 800000$00, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano em curso, tomando como contrapartida o saldo das contas de exercícios findos:
+Art. 8.º Fica o Governo da província autorizado a abrir, observadas as disposições legais aplicáveis, um crédito especial da importância de 800000$00, destinado a reforçar, com as quantias que se indicam, as seguintes verbas da tabela de despesa ordinária do orçamento geral da província para o ano em curso, tomando como contrapartida o saldo das contas de exercícios findos:
 
 ### CAPÍTULO 7.º — Serviços de fomento
 
@@ -148,27 +180,27 @@ Repartição Provincial dos Serviços de Obras Públicas e Transportes
 
 Despesas com o material:
 
-###### Artigo 198.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento - De imóveis - Estradas e obras de arte» ... 500000$00
+Artigo 198.º, n.º 1), alínea a) «Despesas de conservação e aproveitamento - De imóveis - Estradas e obras de arte» ... 500000$00
 
 ### CAPÍTULO 10.º — Encargos gerais
 
-###### Artigo 284.º, n.º 21) «Diversas despesas - Despesas de conservação e aproveitamento de viaturas com motores» ... 300000$00
+Artigo 284.º, n.º 21) «Diversas despesas - Despesas de conservação e aproveitamento de viaturas com motores» ... 300000$00
 
 II
 
 Disposições comuns
 
-###### Art. 9.º O limite de 50 por cento a que se refere o § 5.º do artigo 3.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, com a nova redacção dada pelo artigo 8.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954, deixa de ser aplicável aos corpos administrativos.
+Art. 9.º O limite de 50 por cento a que se refere o § 5.º do artigo 3.º do [Decreto n.º 35770](https://diariodarepublica.pt/dr/detalhe/decreto/35770-1946-155234), de 29 de Julho de 1946, com a nova redacção dada pelo artigo 8.º do [Decreto n.º 39738](https://diariodarepublica.pt/dr/detalhe/decreto/39738-1954-637881), de 23 de Julho de 1954, deixa de ser aplicável aos corpos administrativos.
 
 III
 
 Disposições gerais
 
-###### Art. 10.º No mapa IV anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, no n.º 2) «Ramo de enfermagem», e no n.º 3) «Ramo técnico auxiliar de terapêutica e diagnóstico», as respectivas alíneas a) passam a ter a seguinte redacção:
+Art. 10.º No mapa IV anexo ao [Decreto n.º 45664](https://diariodarepublica.pt/dr/detalhe/decreto/45664-1964-471305), de 15 de Abril de 1964, no n.º 2) «Ramo de enfermagem», e no n.º 3) «Ramo técnico auxiliar de terapêutica e diagnóstico», as respectivas alíneas a) passam a ter a seguinte redacção:
 
 a) Pessoal de nomeação ou contratado.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 29 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

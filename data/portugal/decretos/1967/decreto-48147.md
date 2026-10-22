@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48147-1967-401544
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-23T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:32Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2643678dc5a5979bce887277c091f04feb12f8c79f793cdeca955bec4232ba8c
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 859e7f7ca7d7afab0a72a57ef24cc64dd0338f3c313ff1a74af665af206aed9f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:32Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:255227:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:624998:por
+  label: null
+  source: null
 article_structure:
-  article_count: 7
-  section_count: 14
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:32Z'
   warnings: []
   errors: []
 ---
@@ -88,7 +104,7 @@ Com fundamento no § 1.º do artigo 17.º do [Decreto n.º 16670](https://diario
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Marinha:
+Artigo 1.º É transferida a quantia adiante indicada dentro do orçamento do Ministério da Marinha:
 
 No capítulo 6.º:
 
@@ -96,79 +112,79 @@ Do artigo 249.º, n.º 1) «Reboques, ...» ... -30000$00
 
 Para o artigo 250.º, n.º 1) «Força motriz eléctrica» ... +30000$00
 
-###### Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 7395822$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Art. 2.º São abertos no Ministério das Finanças créditos especiais no montante de 7395822$80, destinados quer a reforçar verbas insuficientemente dotadas, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Ministério da Marinha
 
-### Capítulo 3.º «Superintendência dos Serviços da Armada - Direcção dos Serviços de Electricidade e Comunicações»:
+Capítulo 3.º «Superintendência dos Serviços da Armada - Direcção dos Serviços de Electricidade e Comunicações»:
 
-###### Artigo 118.º, n.º 1) «Luz, ...»:
+Artigo 118.º, n.º 1) «Luz, ...»:
 
 Alínea 1 «Da Direcção dos Serviços de Electricidade e Comunicações» ... 9500$00
 
 Alínea 2 «Iluminação a distribuir, sem reembolso, ...» ... 476200$00
 
-###### Artigo 119.º «Despesas de comunicações»:
+Artigo 119.º «Despesas de comunicações»:
 
 N.º 2) «Telefones» ... 11914$10
 
 N.º 3) «Transportes de pessoal ...» ... 95200$00
 
-### Capítulo 6.º «Base Naval de Lisboa»:
+Capítulo 6.º «Base Naval de Lisboa»:
 
-###### Artigo 250.º, n.º 1) «Força motriz eléctrica» ... 398600$00
+Artigo 250.º, n.º 1) «Força motriz eléctrica» ... 398600$00
 
 ... 991414$10
 
 Ministério das Obras Públicas
 
-### Capítulo 14.º «Plano Intercalar de Fomento»:
+Capítulo 14.º «Plano Intercalar de Fomento»:
 
-###### Artigo 110.º «Obras», n.º 4) «Construção e adaptação de edifícios do ensino superior» ... 5500000$00
+Artigo 110.º «Obras», n.º 4) «Construção e adaptação de edifícios do ensino superior» ... 5500000$00
 
 Ministério das Comunicações
 
-### Capítulo 14.º «Despesas de anos económicos findos»:
+Capítulo 14.º «Despesas de anos económicos findos»:
 
-###### Artigo 177.º «Despesas de anos económicos findos» ... 404408$70
+Artigo 177.º «Despesas de anos económicos findos» ... 404408$70
 
-### Capítulo 15.º «Plano Intercalar de Fomento»:
+Capítulo 15.º «Plano Intercalar de Fomento»:
 
-###### Artigo 179.º «Transportes aéreos», n.º 1) «Aeroportos, instalações e serviços de navegação aérea», alínea 11 «Aeródromo da ilha das Flores» ... 500000$00
+Artigo 179.º «Transportes aéreos», n.º 1) «Aeroportos, instalações e serviços de navegação aérea», alínea 11 «Aeródromo da ilha das Flores» ... 500000$00
 
 ... 904408$70
 
 ... 7395822$80
 
-###### Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento da previsão de receita e de redução em verbas de despesa:
+Art. 3.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de aumento da previsão de receita e de redução em verbas de despesa:
 
 Orçamento das receitas do Estado
 
-### Capítulo 7.º, artigo 200.º «Reembolsos diversos» ... 173414$10
+Capítulo 7.º, artigo 200.º «Reembolsos diversos» ... 173414$10
 
 Ministério da Marinha
 
-### Capítulo 3.º, artigo 37.º, n.º 1) ... 100000$00
+Capítulo 3.º, artigo 37.º, n.º 1) ... 100000$00
 
-### Capítulo 3.º, artigo 37.º, n.º 2) ... 663000$00
+Capítulo 3.º, artigo 37.º, n.º 2) ... 663000$00
 
-### Capítulo 3.º, artigo 40.º, n.º 1) ... 20000$00
+Capítulo 3.º, artigo 40.º, n.º 1) ... 20000$00
 
-### Capítulo 3.º, artigo 41.º, n.º 1), alínea 1 ... 30000$00
+Capítulo 3.º, artigo 41.º, n.º 1), alínea 1 ... 30000$00
 
-### Capítulo 3.º, artigo 41.º, n.º 3) ... 5000$00
+Capítulo 3.º, artigo 41.º, n.º 3) ... 5000$00
 
 ... 818000$00
 
 Ministério das Obras Públicas
 
-### Capítulo 14.º, artigo 113.º, n.º 1), alínea 1 ... 5500000$00
+Capítulo 14.º, artigo 113.º, n.º 1), alínea 1 ... 5500000$00
 
 Ministério das Comunicações
 
-### Capítulo 14.º, artigo 53.º, n.º 1) - Continente ... 404408$70
+Capítulo 14.º, artigo 53.º, n.º 1) - Continente ... 404408$70
 
-### Capítulo 15.º, artigo 179.º, n.º 1), alínea 1 ... 500000$00
+Capítulo 15.º, artigo 179.º, n.º 1), alínea 1 ... 500000$00
 
 ... 904408$70
 
@@ -176,6 +192,6 @@ Ministério das Comunicações
 
 Estas correcções orçamentais foram registadas na Direcção-Geral da Contabilidade Pública, nos termos do § único do artigo 36.º e nos da parte final do artigo 37.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859), de 24 de Maio de 1930, e a minuta do presente decreto foi examinada e visada pelo Tribunal de Contas, como preceitua o aludido § único do artigo 36.º do [Decreto n.º 18381](https://diariodarepublica.pt/dr/detalhe/decreto/18381-1930-224859).
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 23 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - António Jorge Martins da Mota Veiga - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Mário Júlio de Almeida Costa - Ulisses Cruz de Aguiar Cortês - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - Alberto Marciano Gorjão Franco Nogueira - José Albino Machado Vaz - Joaquim Moreira da Silva Cunha - Inocêncio Galvão Teles - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Carlos Gomes da Silva Ribeiro - José João Gonçalves de Proença - Francisco Pereira Neto de Carvalho.

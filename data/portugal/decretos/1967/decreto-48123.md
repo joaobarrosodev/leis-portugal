@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48123-1967-401705
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-12-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:00:14Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b1683432eeb5ac44a59ca82d0de1a755132b859d734d46d36a41984298564592
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 4e13b99eade2e775201bb64aab18a7bdbd5c0c6750e396c1b48c75c6f1c437e3
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:00:14Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:00:14Z'
   warnings: []
   errors: []
 ---
@@ -92,10 +96,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Comissão de Construções Hospitalares a celebrar contrato com Virgílio Campanacho Faria para execução da empreitada de adaptação da antiga Maternidade de Magalhães Coutinho a serviço de ortopedia dos Hospitais Civis de Lisboa (trabalhos de construção civil e electricidade), pela importância de 2858000$00.
+Artigo 1.º É autorizada a Comissão de Construções Hospitalares a celebrar contrato com Virgílio Campanacho Faria para execução da empreitada de adaptação da antiga Maternidade de Magalhães Coutinho a serviço de ortopedia dos Hospitais Civis de Lisboa (trabalhos de construção civil e electricidade), pela importância de 2858000$00.
 
-###### Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Comissão de Construções Hospitalares despender com pagamentos relativos à execução do contrato mais de 1358000$00 em 1967 e 1500000$00, ou o saldo que se apurar, em 1968.
+Art. 2.º Seja qual for o valor dos trabalhos a realizar, não poderá a Comissão de Construções Hospitalares despender com pagamentos relativos à execução do contrato mais de 1358000$00 em 1967 e 1500000$00, ou o saldo que se apurar, em 1968.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 19 de Dezembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Albino Machado Vaz.

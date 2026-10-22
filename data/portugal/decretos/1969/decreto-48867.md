@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48867-1969-527838
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-02-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:13Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: c3507b89bc5176a543ed8c8354b85bea1418a94f55eb846369ce694349217fab
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 430cffa37ba0a4dff6dfb825896b50a54a0badba368f7a2bbe9ee425ed51270c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:13Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:13Z'
   warnings: []
   errors: []
 ---
@@ -88,14 +88,14 @@ Considerando que as Oficinas Gerais de Material Aeronáutico devem satisfazer ao
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam as Oficinas Gerais de Material Aeronáutico autorizadas a entregar ao Fundo de Maneio dos Estabelecimentos Fabris do Ministério do Exército a quantia de 750000$00, para pagamento do empréstimo existente.
+Artigo 1.º Ficam as Oficinas Gerais de Material Aeronáutico autorizadas a entregar ao Fundo de Maneio dos Estabelecimentos Fabris do Ministério do Exército a quantia de 750000$00, para pagamento do empréstimo existente.
 
-###### Art. 2.º As Oficinas Gerais de Material Aeronáutico deverão satisfazer o referido encargo pelo seu orçamento privativo, por conta de dotação a inscrever no ano de 1969.
+Art. 2.º As Oficinas Gerais de Material Aeronáutico deverão satisfazer o referido encargo pelo seu orçamento privativo, por conta de dotação a inscrever no ano de 1969.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Fernando Alberto de Oliveira.
 
-**Promulgado em 4 de Fevereiro de 1969.**
+Promulgado em 4 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Fevereiro de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

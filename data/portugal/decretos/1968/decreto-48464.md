@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48464-1968-272868
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-07-03T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:56Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b190e2d3c0f9adec5a5d25c5de304746934eea8732821da3d0091e283cca04f0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 48201075ee6586fe924e1faf71fed428ca6523625914ad2c151ea08cc9fba63b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:56Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:238070:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:537043:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:687863:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:56Z'
   warnings: []
   errors: []
 ---
@@ -92,7 +104,7 @@ Considerando o disposto nos artigos 1.º, 6.º, alínea a), 6.º, alínea b), 8.
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com o P. O. do grupo Tejo e com a bateria da Laje, do Ministério do Exército, e com o reduto de Gomes Freire, Forte do Areeiro e torre do Forte de S. Julião da Barra, do Ministério da Marinha, e definidos como segue:
+Artigo 1.º Ficam sujeitos a servidão militar os terrenos confinantes com o P. O. do grupo Tejo e com a bateria da Laje, do Ministério do Exército, e com o reduto de Gomes Freire, Forte do Areeiro e torre do Forte de S. Julião da Barra, do Ministério da Marinha, e definidos como segue:
 
 1) Situados no sector limitado pelos alinhamentos tirados pelo ponto trigonométrico 94-Alto do Puxa-Feixe para a torre da igreja da Trafaria e para a Ponta da Rana e o arco do círculo de raio de 300 m com centro naquele ponto;
 
@@ -104,27 +116,27 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 5) Situados na área limitada pelo alinhamento ponto trigonométrico 94-Ponta da Rana e pelo azimute cartográfico de 280º 00 , pelo sul, referido ao reduto de Gomes Freire.
 
-###### Art. 2.º Sobre as áreas descritas nos n.os 1) e 2) do artigo anterior terá aplicação o disposto na alínea d) do artigo 2.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), sendo proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos ou actividades descritos no artigo 9.º da referida lei e ainda a instalação de cabos de transporte de energia eléctrica, aéreos ou subterrâneos.
+Art. 2.º Sobre as áreas descritas nos n.os 1) e 2) do artigo anterior terá aplicação o disposto na alínea d) do artigo 2.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), sendo proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos ou actividades descritos no artigo 9.º da referida lei e ainda a instalação de cabos de transporte de energia eléctrica, aéreos ou subterrâneos.
 
-###### Art. 3.º Na área definida no n.º 3) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo, porém, dispensadas dessa licença as construções cujas alturas não excedam a altura indicada dentro das áreas compreendidas entre os azimutes cartográficos e os arcos de círculo constantes do quadro anexo, mas respeitando-se, contudo, o estabelecido no artigo 6.º e § único do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043).
+Art. 3.º Na área definida no n.º 3) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, sendo, porém, dispensadas dessa licença as construções cujas alturas não excedam a altura indicada dentro das áreas compreendidas entre os azimutes cartográficos e os arcos de círculo constantes do quadro anexo, mas respeitando-se, contudo, o estabelecido no artigo 6.º e § único do [Decreto-Lei n.º 45986](https://diariodarepublica.pt/dr/detalhe/decreto-lei/45986-1964-537043).
 
-###### Art. 4.º Nas áreas definidas no n.º 4) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades a que se referem os artigos 9.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e ainda a instalação de cabos aéreos ou subterrâneos de transporte de energia eléctrica e a montagem de instalações eléctricas, máquinas e aparelhos eléctricos industriais ou comerciais de qualquer natureza.
+Art. 4.º Nas áreas definidas no n.º 4) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades a que se referem os artigos 9.º e 13.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955, e ainda a instalação de cabos aéreos ou subterrâneos de transporte de energia eléctrica e a montagem de instalações eléctricas, máquinas e aparelhos eléctricos industriais ou comerciais de qualquer natureza.
 
-###### Art. 5.º Na área definida no n.º 5) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
+Art. 5.º Na área definida no n.º 5) do artigo 1.º é proibida, sem licença da autoridade militar competente, a execução de quaisquer dos trabalhos e actividades a que se refere o artigo 9.º da [Lei n.º 2078](https://diariodarepublica.pt/dr/detalhe/lei/2078-1955-238070), de 11 de Julho de 1955.
 
-###### Art. 6.º A área definida pelos azimutes 65º 00 e 280º 00 pelo sul, com centro no reduto de Gomes Freire e até à distância de 2500 m, fica sujeita à servidão estabelecida no artigo 4.º, devendo os pedidos de autorização de construção indicar as cotas máximas em relação ao nível médio do mar.
+Art. 6.º A área definida pelos azimutes 65º 00 e 280º 00 pelo sul, com centro no reduto de Gomes Freire e até à distância de 2500 m, fica sujeita à servidão estabelecida no artigo 4.º, devendo os pedidos de autorização de construção indicar as cotas máximas em relação ao nível médio do mar.
 
-###### Art. 7.º A concessão de licenças a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvidos o departamento ou departamentos militares interessados.
+Art. 7.º A concessão de licenças a que se faz referência neste decreto compete ao Secretariado-Geral da Defesa Nacional, depois de ouvidos o departamento ou departamentos militares interessados.
 
 § único. As licenças concedidas nos termos deste artigo, bem como quaisquer condições impostas na sua concessão, são comunicadas pelo Secretariado-Geral da Defesa Nacional ao Ministério do Exército e ao Ministério da Marinha, para efeitos do disposto no artigo seguinte.
 
-###### Art. 8.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do Regimento de Artilharia de Costa, ao Governo Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares, nas áreas respeitantes ao Ministério do Exército, e ao Comando da Defesa Marítima do Porto de Lisboa, nas áreas respeitantes ao Ministério da Marinha.
+Art. 8.º A fiscalização do cumprimento das disposições legais respeitantes à servidão objecto deste decreto, bem como das condições impostas nas licenças, incumbe ao comando do Regimento de Artilharia de Costa, ao Governo Militar de Lisboa e à Direcção do Serviço de Fortificações e Obras Militares, nas áreas respeitantes ao Ministério do Exército, e ao Comando da Defesa Marítima do Porto de Lisboa, nas áreas respeitantes ao Ministério da Marinha.
 
-###### Art. 9.º A demolição das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Delegação do Serviço de Fortificações e Obras Militares do Governo Militar de Lisboa, nas áreas respeitantes ao Ministério do Exército, e da competência do Comando da Defesa Marítima do Porto de Lisboa, nas áreas respeitantes ao Ministério da Marinha.
+Art. 9.º A demolição das obras feitas ilegalmente e a aplicação de multas consequentes são da competência da Delegação do Serviço de Fortificações e Obras Militares do Governo Militar de Lisboa, nas áreas respeitantes ao Ministério do Exército, e da competência do Comando da Defesa Marítima do Porto de Lisboa, nas áreas respeitantes ao Ministério da Marinha.
 
-###### Art. 10.º Das decisões tomadas nos termos do artigo 7.º cabe recurso para o Ministro da Defesa Nacional; das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o Governo Militar de Lisboa ou para o Comando Naval do Continente, consoante o Ministério a que pertença a entidade que haja proferido a decisão recorrida.
+Art. 10.º Das decisões tomadas nos termos do artigo 7.º cabe recurso para o Ministro da Defesa Nacional; das decisões tomadas nos termos do artigo anterior, referentes à demolição das obras feitas ilegalmente, cabe recurso para o Governo Militar de Lisboa ou para o Comando Naval do Continente, consoante o Ministério a que pertença a entidade que haja proferido a decisão recorrida.
 
-###### Art. 11.º As áreas descritas no artigo 1.º serão demarcadas na carta n.º 430 do Serviço Cartográfico do Exército, na escala de 1:25000, organizando-se doze colecções com a classificação de reservado, que terão os seguintes destinos:
+Art. 11.º As áreas descritas no artigo 1.º serão demarcadas na carta n.º 430 do Serviço Cartográfico do Exército, na escala de 1:25000, organizando-se doze colecções com a classificação de reservado, que terão os seguintes destinos:
 
 Uma ao Secretariado-Geral da Defesa Nacional.
 
@@ -148,14 +160,14 @@ Uma ao Ministério das Obras Públicas.
 
 Duas ao Ministério do Interior.
 
-###### Art. 12.º Este decreto revoga o [Decreto n.º 45328](https://diariodarepublica.pt/dr/detalhe/decreto/45328-1963-687863), de 26 de Outubro de 1963, que fixava a servidão militar do P. O. do grupo Tejo e bateria da Laje.
+Art. 12.º Este decreto revoga o [Decreto n.º 45328](https://diariodarepublica.pt/dr/detalhe/decreto/45328-1963-687863), de 26 de Outubro de 1963, que fixava a servidão militar do P. O. do grupo Tejo e bateria da Laje.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 3 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Alfredo Rodrigues dos Santos Júnior - Joaquim da Luz Cunha - Fernando Quintanilha Mendonça Dias - José Albino Machado Vaz.
 
 Quadro anexo ao projecto de decreto
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15600/09470949.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15600/09470949.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15600/09470949.pdf)
 
 Ministérios do Exército e da Marinha, 3 de Julho de 1968. - O Ministro do Exército, Joaquim da Luz Cunha. - O Ministro da Marinha, Fernando Quintanilha Mendonça Dias.

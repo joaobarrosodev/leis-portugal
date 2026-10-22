@@ -26,7 +26,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1969/06/13700/06610662.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49055-1969-200813
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1976-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:43Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 290f60a79e5d3e81651f4b38db89f50562b07137c0210d645999e7cfcedc1906
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: d3fb36a70241ce42845ff26b85881eb7bc45378c33f6bb29d931e212bb970ea8
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:43Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -72,16 +72,29 @@ relationships:
   target: pt:dre:506818:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:650764:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:650765:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:506818:por
+  label: "Revogado pelo DEC LEI.64/76.24.01.1976.MJ, DG.IS [20] de 24.01.1976\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/64-1976-506818
+  date: '1976-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:43Z'
   warnings: []
   errors: []
 ---
@@ -102,7 +115,7 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. A certidão de nascimento que, nos termos do artigo 9.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, deve instruir o pedido de passagem de bilhete de identidade pode ser substituída pela cédula pessoal do interessado, devidamente actualizada.
+Artigo 1.º - 1. A certidão de nascimento que, nos termos do artigo 9.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, deve instruir o pedido de passagem de bilhete de identidade pode ser substituída pela cédula pessoal do interessado, devidamente actualizada.
 
 2. A cédula pessoal deve acompanhar o impresso do pedido, a fim de que neste seja lançada, pelos serviços, a nota de conferência.
 
@@ -114,19 +127,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 6. O disposto nos números anteriores é aplicável, com as necessárias adaptações, ao pedido de averbamento ao bilhete de identidade de qualquer facto que haja de provar-se por elementos extraídos do registo de nascimento.
 
-###### Art. 2.º O bilhete de identidade, além dos elementos que integram o seu actual conteúdo, passa a conter a filiação do titular, mediante a simples menção dos respectivos nomes.
+Art. 2.º O bilhete de identidade, além dos elementos que integram o seu actual conteúdo, passa a conter a filiação do titular, mediante a simples menção dos respectivos nomes.
 
-###### Art. 3.º O registo criminal e policial é organizado por meio de boletins individuais dos modelos superiormente aprovados, competindo ao Arquivo Geral o fornecimento dos respectivos impressos aos serviços dependentes do Ministério da Justiça.
+Art. 3.º O registo criminal e policial é organizado por meio de boletins individuais dos modelos superiormente aprovados, competindo ao Arquivo Geral o fornecimento dos respectivos impressos aos serviços dependentes do Ministério da Justiça.
 
-###### Art. 4.º - 1. Os boletins do registo criminal devem conter a menção do número, data e entidade emitente do bilhete de identidade dos indivíduos a que respeitam, quando estes dele sejam portadores.
+Art. 4.º - 1. Os boletins do registo criminal devem conter a menção do número, data e entidade emitente do bilhete de identidade dos indivíduos a que respeitam, quando estes dele sejam portadores.
 
 2. Se o boletim respeitar a indivíduo que não possua bilhete de identidade, mas que, nos termos do artigo 7.º do [Decreto-Lei n.º 41077](https://diariodarepublica.pt/dr/detalhe/decreto-lei/41077-1957-650764), de 19 de Abril de 1957, esteja obrigado a possuí-lo, o funcionário que preencha o boletim deve participar a juízo a transgressão verificada, para os fins do artigo 8.º do mesmo diploma.
 
 3. À falta de cumprimento do disposto nos números anteriores é aplicável o § 2.º do artigo 36.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957.
 
-###### Art. 5.º Os certificados do registo criminal e policial podem ser expedidos mediante fotocópia dos boletins que integram os cadastros individuais.
+Art. 5.º Os certificados do registo criminal e policial podem ser expedidos mediante fotocópia dos boletins que integram os cadastros individuais.
 
-###### Art. 6.º - 1. Os certificados do registo criminal a que se refere o § 4.º do artigo 52.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, bem como os requisitados ou requeridos para qualquer dos fins previstos no artigo 58.º do mesmo diploma, obrigatòriamente, apenas devem conter:
+Art. 6.º - 1. Os certificados do registo criminal a que se refere o § 4.º do artigo 52.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, bem como os requisitados ou requeridos para qualquer dos fins previstos no artigo 58.º do mesmo diploma, obrigatòriamente, apenas devem conter:
 
 a) Os despachos de pronúncia ou equivalentes, enquanto não tiver sido proferida a decisão final;
 
@@ -136,7 +149,7 @@ b) As sentenças, os acórdãos, as decisões e a indicação dos factos referid
 
 3. Os certificados a que se referem os números anteriores conterão, porém, a transcrição integral do registo criminal, se expressamente forem requisitados com esse conteúdo.
 
-###### Art. 7.º Dos certificados do registo criminal passados nos termos do artigo 57.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, não constarão:
+Art. 7.º Dos certificados do registo criminal passados nos termos do artigo 57.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, não constarão:
 
 a) As condenações por crime ou transgressão amnistiados;
 
@@ -148,20 +161,20 @@ d) As condenações por transgressão, decorridos seis meses após o cumprimento
 
 e) As condenações por qualquer crime em pena não superior a seis meses de prisão ou equivalente, decorridos cinco anos após o cumprimento da pena, desde que o réu não tenha, entretanto, sofrido qualquer outra condenação.
 
-###### Art. 8.º A passagem de certificados requeridos para fins particulares deixa de estar condicionada à apresentação e ao preenchimento do boletim dactiloscópico do interessado.
+Art. 8.º A passagem de certificados requeridos para fins particulares deixa de estar condicionada à apresentação e ao preenchimento do boletim dactiloscópico do interessado.
 
-###### Art. 9.º - 1. Os boletins individuais e os documentos arquivados relativos à passagem de bilhetes de identidade podem ser destruídos, uma vez provado o falecimento das pessoas a que respeitam.
+Art. 9.º - 1. Os boletins individuais e os documentos arquivados relativos à passagem de bilhetes de identidade podem ser destruídos, uma vez provado o falecimento das pessoas a que respeitam.
 
 2. A Direcção-Geral dos Registos e do Notariado pode determinar a destruição de quaisquer outros documentos e papéis arquivados que sejam substituídos por microfilmes.
 
-###### Art. 10.º - 1. O disposto no artigo 21.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, é aplicável à requisição não só de bilhetes de identidade, mas também de certificados de registo criminal.
+Art. 10.º - 1. O disposto no artigo 21.º do [Decreto n.º 41078](https://diariodarepublica.pt/dr/detalhe/decreto/41078-1957-650765), de 19 de Abril de 1957, é aplicável à requisição não só de bilhetes de identidade, mas também de certificados de registo criminal.
 
 2. O emolumento devido pela realização do serviço externo a que se refere o § 1.º do artigo citado no número anterior é elevado para 20$00.
 
 Marcello Caetano - Mário Júlio Brito de Almeida Costa.
 
-**Promulgado em 16 de Maio de 1969.**
+Promulgado em 16 de Maio de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 12 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

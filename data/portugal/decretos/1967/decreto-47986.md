@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47986-1967-387837
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-10-12T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:02Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 04f25b1baba329c3bb37d8745fd263484af09b2dacd96acde95888b93a22e8ee
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 1fe02f9cc9da4ea5923d8e55ae6eddf9c19740c0205e5753eab7b72c7fd8d19c
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:02Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:264098:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:266280:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:02Z'
   warnings: []
   errors: []
 ---
@@ -91,26 +95,26 @@ Atendendo ao que foi solicitado pelo conselho escolar do Instituto Superior de C
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São alteradas pela forma que vai indicada as designações das seguintes disciplinas do plano de estudos do Instituto Superior de Ciências Económicas e Financeiras, aprovado pelo [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), de 17 de Outubro de 1949:
+Artigo 1.º São alteradas pela forma que vai indicada as designações das seguintes disciplinas do plano de estudos do Instituto Superior de Ciências Económicas e Financeiras, aprovado pelo [Decreto n.º 37584](https://diariodarepublica.pt/dr/detalhe/decreto/37584-1949-266280), de 17 de Outubro de 1949:
 
 Cadeiras anuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf))](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
 
 Cursos semestrais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf))](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
 
 Cursos práticos anuais
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf))](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
 
-###### Art. 2.º É criado o 7.º curso semestral - Verificação de Contas -, que passa a fazer parte do 5.º ano do curso superior de Finanças.
+Art. 2.º É criado o 7.º curso semestral - Verificação de Contas -, que passa a fazer parte do 5.º ano do curso superior de Finanças.
 
-###### Art. 3.º A escolaridade das disciplinas abaixo indicadas é fixada pela forma seguinte:
+Art. 3.º A escolaridade das disciplinas abaixo indicadas é fixada pela forma seguinte:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf))](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1967/10/23400/17801780.pdf)
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 7 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Inocêncio Galvão Teles.

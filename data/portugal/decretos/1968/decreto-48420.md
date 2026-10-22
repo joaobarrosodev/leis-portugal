@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48420-1968-272587
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-06-05T00:00:00Z'
+  retrieved_at: '2026-10-22T20:02:39Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 5563c167ea2acbb1cda42ede9bbde3a861d6c8e58ae9f4dc91336dd01f0f69a0
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: fa3b6db411d4eaaf0a2c1f3c85761823bb0fd7ee2216527f32b83aeb4c16a2ca
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:02:39Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -68,15 +68,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:02:39Z'
   warnings: []
   errors: []
 ---
@@ -95,13 +95,13 @@ Ouvido o Conselho Ultramarino;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º A actual Secção Especial de Expediente Sínico, anexa à Repartição Provincial dos Serviços de Administração Civil, passa a denominar-se Secretaria dos Negócios Chineses.
+Artigo 1.º A actual Secção Especial de Expediente Sínico, anexa à Repartição Provincial dos Serviços de Administração Civil, passa a denominar-se Secretaria dos Negócios Chineses.
 
-###### Art. 2.º Na Secretaria dos Negócios Chineses haverá as Secções Técnica e Consultiva e a Escola de Intérpretes-Tradutores.
+Art. 2.º Na Secretaria dos Negócios Chineses haverá as Secções Técnica e Consultiva e a Escola de Intérpretes-Tradutores.
 
-###### Art. 3.º A Secretaria dos Negócios Chineses terá o pessoal constante do mapa anexo ao presente diploma.
+Art. 3.º A Secretaria dos Negócios Chineses terá o pessoal constante do mapa anexo ao presente diploma.
 
-###### Art. 4.º O pessoal da Secção Especial de Expediente Sínico transita, independentemente da forma da respectiva nomeação, para os lugares respectivos da Secretaria dos Negócios Chineses, sem as formalidades de visto e posse.
+Art. 4.º O pessoal da Secção Especial de Expediente Sínico transita, independentemente da forma da respectiva nomeação, para os lugares respectivos da Secretaria dos Negócios Chineses, sem as formalidades de visto e posse.
 
 § 1.º Os actuais línguas com mais de vinte anos de serviço transitam para intérpretes-tradutores de 2.ª classe.
 
@@ -113,11 +113,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição,
 
 § 5.º Os dois amanuenses transitarão para os lugares de letrados auxiliares.
 
-###### Art. 5.º O cargo de secretário dos Negócios Chineses será preenchido, em comissão, pelo Ministro do Ultramar, segundo proposta do Governo da província, entre os intérpretes-tradutores de 1.ª classe ou outros quaisquer funcionários que reúnam os requisitos considerados convenientes para o desempenho da função.
+Art. 5.º O cargo de secretário dos Negócios Chineses será preenchido, em comissão, pelo Ministro do Ultramar, segundo proposta do Governo da província, entre os intérpretes-tradutores de 1.ª classe ou outros quaisquer funcionários que reúnam os requisitos considerados convenientes para o desempenho da função.
 
-###### Art. 6.º O Governo da província deverá publicar no mais curto prazo o regulamento da Secretaria dos Negócios Chineses, ficando autorizado a abrir o crédito especial necessário para a execução deste diploma, observadas as disposições legais aplicáveis e utilizando como contrapartida as disponibilidades orçamentais.
+Art. 6.º O Governo da província deverá publicar no mais curto prazo o regulamento da Secretaria dos Negócios Chineses, ficando autorizado a abrir o crédito especial necessário para a execução deste diploma, observadas as disposições legais aplicáveis e utilizando como contrapartida as disponibilidades orçamentais.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Junho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 
@@ -125,6 +125,6 @@ Para ser publicado no Boletim Oficial de Macau. - J. da Silva Cunha.
 
 Quadro da Secretaria dos Negócios Chineses, a que se refere o artigo 3.º do Decreto n.º 48420
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/06/13400/08590860.pdf))](https://files.diariodarepublica.pt/1s/1968/06/13400/08590860.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/06/13400/08590860.pdf)
 
 Ministério do Ultramar, 5 de Junho de 1968. - O Ministro do Ultramar, Joaquim Moreira da Silva Cunha.

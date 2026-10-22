@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48246-1968-235277
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-02-20T00:00:00Z'
+  retrieved_at: '2026-10-22T20:01:20Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 2ecd1ab841fe7f2466294e407a4e405eb0ebeeb68cda2623383ab1d669960ad8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 8a7fb18f0fae1de52fb5ccc43cff0bdab883f9469584cfe40ffdb8108fb74e35
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:01:20Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,25 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:154983:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:435978:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:01:20Z'
   warnings: []
   errors: []
 ---
@@ -106,13 +114,13 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo, nos termos do § 2.º do artigo 80.º, o seguinte:
 
-###### Artigo 1.º É aditado ao artigo 30.º do Regulamento de Tarifas do Porto de Lisboa, aprovado pelo [Decreto n.º 24831](https://diariodarepublica.pt/dr/detalhe/decreto/24831-1934-435978), de 31 de Dezembro de 1934, um § 3.º, com a seguinte redacção:
+Artigo 1.º É aditado ao artigo 30.º do Regulamento de Tarifas do Porto de Lisboa, aprovado pelo [Decreto n.º 24831](https://diariodarepublica.pt/dr/detalhe/decreto/24831-1934-435978), de 31 de Dezembro de 1934, um § 3.º, com a seguinte redacção:
 
 § 3.º Aos navios nacionais de tráfego local e rebocadores empregados nos serviços correntes do porto e, em geral, aos abrangidos nas alíneas g) e h), com excepção dos considerados no artigo 33.º, é concedida a avença anual para acostagem, quando a requeiram, calculada à razão de 4$00 por tonelada de arqueação bruta.
 
-###### Art. 2.º É alterado o artigo 33.º do Regulamento de Tarifas do Porto de Lisboa, que passa a ter a seguinte redacção:
+Art. 2.º É alterado o artigo 33.º do Regulamento de Tarifas do Porto de Lisboa, que passa a ter a seguinte redacção:
 
-###### Art. 33.º A taxa de acostagem dos navios de tráfego local que se destinem ao transporte de passageiros e veículos é calculada pela forma seguinte:
+Art. 33.º A taxa de acostagem dos navios de tráfego local que se destinem ao transporte de passageiros e veículos é calculada pela forma seguinte:
 
 a) Para os navios que constituam as frotas dos concessionários do serviço de transportes fluviais colectivos a importância a pagar mensalmente por cada navio é determinada pela expressão seguinte:
 
@@ -124,9 +132,9 @@ b) Para os navios de passageiros que se destinam exclusivamente à realização 
 
 § único. Quando os resultados de exploração das empresas concessionárias do serviço de transportes fluviais colectivos o justifiquem e desde que tal medida contribua para assegurar a regularidade do transporte entre as duas margens do rio Tejo, poderá o conselho de administração da Administração-Geral do Porto de Lisboa conceder reduções nas taxas de acostagem estabelecidas neste artigo aos navios afectos àquele serviço.
 
-###### Art. 3.º A redacção dos artigos 55.º e 56.º do Regulamento de Tarifas do Porto de Lisboa passa a ser a seguinte:
+Art. 3.º A redacção dos artigos 55.º e 56.º do Regulamento de Tarifas do Porto de Lisboa passa a ser a seguinte:
 
-###### Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos pagará as seguintes taxas de armazenagem por quintal métrico ou 100 dm3:
+Art. 55.º Toda a mercadoria classificada como carga geral que se ache armazenada a coberto nos entrepostos pagará as seguintes taxas de armazenagem por quintal métrico ou 100 dm3:
 
 Até oito dias ... $41
 
@@ -144,11 +152,11 @@ Os resultados obtidos serão arredondados para dezenas de centavos, por excesso.
 
 § 2.º A taxa de armazenagem nos entrepostos para jóias, metais preciosos e metais amoedados é igual a 7 por mil ad valorem e por mês.
 
-###### Art. 56.º As taxas de armazenagem, a coberto, nos entrepostos que incidem sobre mercadorias classificadas como carga especial, ali depositadas, são triplas das correspondentes para carga geral fixadas no artigo 55.º para os períodos até oito e quinze dias e duplas para as que vão além destes prazos.
+Art. 56.º As taxas de armazenagem, a coberto, nos entrepostos que incidem sobre mercadorias classificadas como carga especial, ali depositadas, são triplas das correspondentes para carga geral fixadas no artigo 55.º para os períodos até oito e quinze dias e duplas para as que vão além destes prazos.
 
-###### Art. 4.º Sobre as taxas fixadas no presente decreto não incide o adicional de 15 por cento lançado em 1961, nos termos do disposto na base VI do [Decreto-Lei n.º 35716](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35716-1946-154983), de 24 de Junho de 1946.
+Art. 4.º Sobre as taxas fixadas no presente decreto não incide o adicional de 15 por cento lançado em 1961, nos termos do disposto na base VI do [Decreto-Lei n.º 35716](https://diariodarepublica.pt/dr/detalhe/decreto-lei/35716-1946-154983), de 24 de Junho de 1946.
 
-###### Art. 5.º A taxa de acostagem fixada no § 3.º, aditado ao artigo 30.º do Regulamento de Tarifas do Porto de Lisboa pelo artigo 1.º deste decreto, será aplicada às avenças que vierem a ser concedidas a partir de 1 de Janeiro de 1969.
+Art. 5.º A taxa de acostagem fixada no § 3.º, aditado ao artigo 30.º do Regulamento de Tarifas do Porto de Lisboa pelo artigo 1.º deste decreto, será aplicada às avenças que vierem a ser concedidas a partir de 1 de Janeiro de 1969.
 
 O novo regime de taxas de acostagem estabelecido na alínea a) do artigo 33.º do Regulamento de Tarifas, com a redacção dada pelo artigo 2.º deste decreto, entrará em vigor em data a fixar por despacho do Ministro das Comunicações.
 
@@ -156,6 +164,6 @@ Os novos regimes de taxas de acostagem e de armazenagem estabelecidos na alínea
 
 § único. As mercadorias recebidas em entreposto antes da entrada em vigor do novo regime de taxas de armazenagem são passíveis das taxas do regime anterior desde que metade ou mais do tempo de armazenagem fique para aquém daquela data.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 20 de Fevereiro de 1968. - ANTÓNIO DE OLIVEIRA SALAZAR - Ulisses Cruz de Aguiar Cortês - Carlos Gomes da Silva Ribeiro.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48692-1968-263202
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-11-19T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:54Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: fc5679d1488df28735fb3ff184392f71501fcd63daf35484768525b5cf1922e8
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 6d22d219527fe8f197aeff858c57d316e0d51ab5ba1c9ef78ef442d227e1bc1f
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:54Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:241049:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:54Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +99,7 @@ Ouvido o Conselho Ultramarino e as províncias de Angola e Moçambique, de harmo
 
 Usando da faculdade conferida pelo n.º 3.º do mesmo artigo, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O pessoal dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e do Instituto do Café de Angola distribui-se pelos seguintes quadros:
+Artigo 1.º O pessoal dos Institutos do Algodão e dos Cereais de Angola e de Moçambique e do Instituto do Café de Angola distribui-se pelos seguintes quadros:
 
 Quadro comum;
 
@@ -107,19 +111,19 @@ Quadro complementar.
 
 § 2.º No quadro complementar se incluem todos os contratados para lugares não incluídos nos quadros permanentes, superiormente aprovados.
 
-###### Art. 2.º O recrutamento do pessoal dos quadros permanentes far-se-á por escolha e por concurso documental ou de provas práticas, devendo o ingresso fazer-se sempre pela categoria mais baixa de cada hierarquia.
+Art. 2.º O recrutamento do pessoal dos quadros permanentes far-se-á por escolha e por concurso documental ou de provas práticas, devendo o ingresso fazer-se sempre pela categoria mais baixa de cada hierarquia.
 
 § único. No caso de não haver candidatos aos concursos de ingresso, poderão ser admitidos sem concurso técnicos de formação universitária ou média, adequada aos lugares a preencher.
 
-###### Art. 3.º Os concursos serão abertos com observância dos preceitos a eles relativos constantes do Estatuto do Funcionalismo Ultramarino.
+Art. 3.º Os concursos serão abertos com observância dos preceitos a eles relativos constantes do Estatuto do Funcionalismo Ultramarino.
 
 § único. Para os lugares a prover por contrato pode o Ministro do Ultramar dispensar a realização de concurso, se nisso houver conveniência.
 
-###### Art. 4.º O provimento poderá fazer-se em comissão, por nomeação, por contrato ou por assalariamento.
+Art. 4.º O provimento poderá fazer-se em comissão, por nomeação, por contrato ou por assalariamento.
 
-###### Art. 5.º Os cargos de director, inspector provincial e de director-adjunto serão providos em comissão ordinária de serviço, por escolha do Ministro do Ultramar entre diplomados com um curso superior, ouvido o respectivo governador-geral.
+Art. 5.º Os cargos de director, inspector provincial e de director-adjunto serão providos em comissão ordinária de serviço, por escolha do Ministro do Ultramar entre diplomados com um curso superior, ouvido o respectivo governador-geral.
 
-###### Art. 6.º A nomeação e promoção do pessoal do quadro comum obedecerá às seguintes regras:
+Art. 6.º A nomeação e promoção do pessoal do quadro comum obedecerá às seguintes regras:
 
 1.ª Chefes de serviço e chefes de serviço-adjuntos - por promoção de funcionários de categoria imediatamente anterior que nela contem um mínimo de três anos de serviço e boas informações;
 
@@ -143,13 +147,13 @@ Quadro complementar.
 
 11.ª Assistente técnico de 3.ª classe - por concurso documental entre diplomados com o curso de regente agrícola.
 
-###### Art. 7.º O ingresso e promoção dentro dos quadros privativos será objecto de regulamentação pelos órgãos legislativos das províncias, bem como o estabelecimento dos respectivos programas de concurso.
+Art. 7.º O ingresso e promoção dentro dos quadros privativos será objecto de regulamentação pelos órgãos legislativos das províncias, bem como o estabelecimento dos respectivos programas de concurso.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 6 de Novembro de 1968.**
+Promulgado em 6 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 19 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

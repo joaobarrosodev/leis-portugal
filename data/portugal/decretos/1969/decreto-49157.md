@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49157-1969-198969
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-07-28T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:35Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 65515fe90ca1c302b881c63b66625806ed65650e6ef5df1958c7d6ca2cf6c54b
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: a725215489c4436dc0643a94d0d8ad38c22735448bde9f71203c187571c9b071
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:35Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -67,17 +67,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:171105:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:429585:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:658594:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:35Z'
   warnings: []
   errors: []
 ---
@@ -90,35 +102,35 @@ Ouvido o Conselho Ultramarino e os governos das províncias ultramarinas;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Nos liceus das províncias ultramarinas, cujos meios pedagógicos o consintam, podem os governadores autorizar o funcionamento das actividades docentes no período nocturno, destinadas a indivíduos que façam prova de não poderem aproveitar a frequência no período diurno, por motivo das suas ocupações.
+Artigo 1.º Nos liceus das províncias ultramarinas, cujos meios pedagógicos o consintam, podem os governadores autorizar o funcionamento das actividades docentes no período nocturno, destinadas a indivíduos que façam prova de não poderem aproveitar a frequência no período diurno, por motivo das suas ocupações.
 
-###### Art. 2.º As actividades docentes permitidas nos termos deste decreto são designadas de «ensino liceal extraordinário» e funcionam segundo os preceitos do Estatuto do Ensino Liceal, observadas as disposições do presente decreto.
+Art. 2.º As actividades docentes permitidas nos termos deste decreto são designadas de «ensino liceal extraordinário» e funcionam segundo os preceitos do Estatuto do Ensino Liceal, observadas as disposições do presente decreto.
 
-###### Art. 3.º A idade mínima exigida para a matrícula no ensino liceal extraordinário é de 16 anos, para o 2.º ciclo, e de 19 anos, para o 3.º ciclo, já completos à data do início do ano lectivo. As habilitações exigidas para a matrícula no ano inicial dos ciclos são as legalmente estabelecidas para o ensino oficial.
+Art. 3.º A idade mínima exigida para a matrícula no ensino liceal extraordinário é de 16 anos, para o 2.º ciclo, e de 19 anos, para o 3.º ciclo, já completos à data do início do ano lectivo. As habilitações exigidas para a matrícula no ano inicial dos ciclos são as legalmente estabelecidas para o ensino oficial.
 
-###### Art. 4.º O serviço docente previsto neste diploma não excederá vinte e uma aulas semanais e obedecerá aos planos constantes do mapa anexo a este decreto.
+Art. 4.º O serviço docente previsto neste diploma não excederá vinte e uma aulas semanais e obedecerá aos planos constantes do mapa anexo a este decreto.
 
-###### Art. 5.º - 1. O ensino liceal extraordinário funciona por disciplinas independentes e o aproveitamento em cada uma é válido para a aquisição total do ano a que ela respeita, se o aluno satisfizer, quanto às demais disciplinas do mesmo ano, as condições regulamentares para o trânsito ou aprovação no ensino liceal normal.
+Art. 5.º - 1. O ensino liceal extraordinário funciona por disciplinas independentes e o aproveitamento em cada uma é válido para a aquisição total do ano a que ela respeita, se o aluno satisfizer, quanto às demais disciplinas do mesmo ano, as condições regulamentares para o trânsito ou aprovação no ensino liceal normal.
 
 2. Aos alunos que obtenham aproveitamento, em qualquer ano que não seja terminal do ciclo, para o trânsito em todas as disciplinas de uma das secções a que se refere o [Decreto n.º 37798](https://diariodarepublica.pt/dr/detalhe/decreto/37798-1950-658594), de 8 de Abril de 1950, será permitida a matrícula no ano imediato, nas mesmas disciplinas, independentemente do aproveitamento obtido nas restantes.
 
-###### Art. 6.º Dos estudos feitos nos termos deste decreto só serão passadas certidões de aproveitamento em qualquer ano de curso ou de aprovação em exames nos casos em que se verifiquem as condições normais de trânsito ou aprovação, de harmonia com o exigido no Estatuto do Ensino Liceal.
+Art. 6.º Dos estudos feitos nos termos deste decreto só serão passadas certidões de aproveitamento em qualquer ano de curso ou de aprovação em exames nos casos em que se verifiquem as condições normais de trânsito ou aprovação, de harmonia com o exigido no Estatuto do Ensino Liceal.
 
-###### Art. 7.º No serviço prestado pelos agentes docentes no período nocturno cada hora é contada como hora e meia.
+Art. 7.º No serviço prestado pelos agentes docentes no período nocturno cada hora é contada como hora e meia.
 
-###### Art. 8.º O serviço docente a que a execução deste decreto der lugar será desempenhado por professores dos quadros ou por eventuais, quando não couber nas possibilidades dos primeiros, e considerado como extraordinário para todos, nos termos do [Decreto n.º 42509](https://diariodarepublica.pt/dr/detalhe/decreto/42509-1959-429585), de 17 de Setembro de 1959, quando exceda a respectiva obrigatoriedade.
+Art. 8.º O serviço docente a que a execução deste decreto der lugar será desempenhado por professores dos quadros ou por eventuais, quando não couber nas possibilidades dos primeiros, e considerado como extraordinário para todos, nos termos do [Decreto n.º 42509](https://diariodarepublica.pt/dr/detalhe/decreto/42509-1959-429585), de 17 de Setembro de 1959, quando exceda a respectiva obrigatoriedade.
 
-###### Art. 9.º Em cada liceu o ensino liceal extraordinário terá um director, nomeado anualmente pelo governador da província e remunerado nos termos em que o são os directores de ciclo.
+Art. 9.º Em cada liceu o ensino liceal extraordinário terá um director, nomeado anualmente pelo governador da província e remunerado nos termos em que o são os directores de ciclo.
 
-###### Art. 10.º Compete aos órgãos legislativos das províncias ultramarinas adoptar as disposições regulamentares respeitantes à execução do presente decreto, fixando as propinas de matrícula e, bem assim, as gratificações ao pessoal cujas presenças ou intervenção sejam necessárias para a mesma execução.
+Art. 10.º Compete aos órgãos legislativos das províncias ultramarinas adoptar as disposições regulamentares respeitantes à execução do presente decreto, fixando as propinas de matrícula e, bem assim, as gratificações ao pessoal cujas presenças ou intervenção sejam necessárias para a mesma execução.
 
-###### Art. 11.º Fica revogado o [Decreto n.º 43688](https://diariodarepublica.pt/dr/detalhe/decreto/43688-1961-171105), de 12 de Maio de 1961.
+Art. 11.º Fica revogado o [Decreto n.º 43688](https://diariodarepublica.pt/dr/detalhe/decreto/43688-1961-171105), de 12 de Maio de 1961.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 15 de Julho de 1969.**
+Promulgado em 15 de Julho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 28 de Julho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

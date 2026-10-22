@@ -24,7 +24,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -46,40 +46,65 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48470-1968-272859
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1990-01-24T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:00Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: a6f9cf5d6bea6f38be4c0e31a9d047fcfff276e4db2a54d0d98dde4746f5f8aa
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 28af33e790ff52b2ff31fd528d43f349c7f73ae552be61efec7fde2332fc9c3b
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:00Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Carreira Militar
+- Concurso
+- Ensino Superior Militar
+- Estatuto do Oficial da Armada
+- Marinha
+- Militar
+- Tempo de Serviço
 relationships:
 - type: amended_by
   target: pt:dre:626423:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:273609:por
+  label: "Alterado o quadro efectivos pela PORT.23501.1968.07.24.MMAR DG.IS [174]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/23501-1968-273609
+  date: '1968-07-24'
+- type: cites
+  target: pt:dre:363715:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:487748:por
+  label: null
+  source: null
+- type: repealed_by
+  target: pt:dre:626423:por
+  label: Revogado pelo DEC LEI.34-A/90.1990.01.24.MDN, DR.IS [20]Supl
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/34-a-1990-626423
+  date: '1990-01-24'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:00Z'
   warnings: []
   errors: []
 ---
@@ -92,11 +117,11 @@ Tendo em conta as novas disposições em vigor sobre os cursos navais de guerra;
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O corpo do artigo 11.º, o § 1.º do artigo 15.º, o corpo do artigo 16.º, o § 2.º do artigo 20.º, o artigo 66.º, o artigo 67.º, o artigo 68.º, o artigo 93.º, o corpo do artigo 94.º, o corpo do artigo 95.º, o artigo 97.º, o artigo 98.º, o artigo 103.º, o artigo 104.º, o artigo 112.º, o artigo 113.º, a alínea a) do artigo 132.º, a alínea a) do § 2.º do artigo 134.º e o § único do artigo 212.º do Estatuto do Oficial da Armada, aprovado pelo [Decreto n.º 46960](https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748), de 14 de Abril de 1966, tomam as redacções seguintes:
+Artigo 1.º O corpo do artigo 11.º, o § 1.º do artigo 15.º, o corpo do artigo 16.º, o § 2.º do artigo 20.º, o artigo 66.º, o artigo 67.º, o artigo 68.º, o artigo 93.º, o corpo do artigo 94.º, o corpo do artigo 95.º, o artigo 97.º, o artigo 98.º, o artigo 103.º, o artigo 104.º, o artigo 112.º, o artigo 113.º, a alínea a) do artigo 132.º, a alínea a) do § 2.º do artigo 134.º e o § único do artigo 212.º do Estatuto do Oficial da Armada, aprovado pelo [Decreto n.º 46960](https://diariodarepublica.pt/dr/detalhe/decreto/46960-1966-487748), de 14 de Abril de 1966, tomam as redacções seguintes:
 
-###### Art. 11.º As classes, e respectivos postos do quadro de oficiais do activo são os seguintes:
+Art. 11.º As classes, e respectivos postos do quadro de oficiais do activo são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
 
 § 1.º ...
 
@@ -104,17 +129,17 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 15.º ...
+Art. 15.º ...
 
 § 1.º Os ramos em que se dividem as subclasses do serviço especial são os seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
 
 § 2.º ...
 
-###### Art. 16.º Para ampliar os conhecimentos profissionais dos oficiais subalternos do quadro de oficiais do activo para o desempenho de determinados cargos, deverão os mesmos frequentar cursos de especialização. As especializações e as classes em que podem ser obtidas são as seguintes:
+Art. 16.º Para ampliar os conhecimentos profissionais dos oficiais subalternos do quadro de oficiais do activo para o desempenho de determinados cargos, deverão os mesmos frequentar cursos de especialização. As especializações e as classes em que podem ser obtidas são as seguintes:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
 
 § 1.º ...
 
@@ -122,7 +147,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 20.º ...
+Art. 20.º ...
 
 a) ...
 
@@ -136,17 +161,17 @@ d) ...
 
 § 2.º ...
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
 
 ...
 
-###### Art. 66.º Os oficiais das reservas naval e marítima escolhidos pelo Ministro da Marinha para ingressarem na classe do serviço especial ingressam nesta classe com o posto de subtenente do mesmo serviço.
+Art. 66.º Os oficiais das reservas naval e marítima escolhidos pelo Ministro da Marinha para ingressarem na classe do serviço especial ingressam nesta classe com o posto de subtenente do mesmo serviço.
 
 § 1.º A data da antiguidade da promoção ao posto de subtenente do serviço especial dos oficiais das reservas naval e marítima que forem transferidos para o mesmo serviço corresponde à do despacho do Ministro da Marinha que determinou a sua escolha para o ingresso nesse serviço.
 
 § 2.º Os oficiais a que se refere este artigo, quando tenham posto superior ao de subtenente, ingressam na classe do serviço especial com o posto de subtenente graduados no posto que alcançaram nas reservas a que pertencem, perdendo esta graduação quando forem promovidos ao mesmo posto do serviço especial.
 
-###### Art. 67.º Na elaboração da escala de antiguidades dos segundos-tenentes e subtenentes será respeitada a ordem cronológica das admissões. Dentro de cada admissão, a posição na escala de antiguidades dos segundos-tenentes e subtenentes do serviço especial é definida da maneira seguinte:
+Art. 67.º Na elaboração da escala de antiguidades dos segundos-tenentes e subtenentes será respeitada a ordem cronológica das admissões. Dentro de cada admissão, a posição na escala de antiguidades dos segundos-tenentes e subtenentes do serviço especial é definida da maneira seguinte:
 
 a) Os oficiais das reservas naval e marítima ficam à direita dos restantes, mantendo entre eles a antiguidade relativa, contada a partir da sua promoção a aspirante das mesmas reservas, desde que tenham sido mantidos no serviço efectivo desde o seu alistamento;
 
@@ -156,7 +181,7 @@ b) Os oficiais que ingressem naquele serviço mediante a frequência dos C. F. O
 
 § 2.º Os sargentos e praças que forem excluídos dos C. F. O. S. E. por falta de saúde e que repitam a frequência destes cursos passam a pertencer, para efeitos de definição da sua posição na escala de antiguidades dos subtenentes do serviço especial, à admissão que corresponde ao curso em que lograram aproveitamento.
 
-###### Art. 68.º O ingresso na classe de fuzileiros do quadro de oficiais do activo é feito no posto de primeiro-tenente, por concurso, entre os primeiros e segundos-tenentes, dos quadros do activo ou de complemento, de qualquer classe, que satisfaçam às seguintes condições:
+Art. 68.º O ingresso na classe de fuzileiros do quadro de oficiais do activo é feito no posto de primeiro-tenente, por concurso, entre os primeiros e segundos-tenentes, dos quadros do activo ou de complemento, de qualquer classe, que satisfaçam às seguintes condições:
 
 a) Ter idade não superior a 31 anos, contados por anos completos, feitos no ano civil do concurso;
 
@@ -192,7 +217,7 @@ d) Apresentar a declaração de estar integrado na ordem social estabelecida pel
 
 ...
 
-###### Art. 93.º Para os fins referidos no artigo anterior existem os seguintes cursos:
+Art. 93.º Para os fins referidos no artigo anterior existem os seguintes cursos:
 
 a) Curso Geral Naval de Guerra (C. G. N. G.);
 
@@ -232,7 +257,7 @@ e) Administração naval.
 
 § 4.º A organização dos cursos navais de guerra é estabelecida no Regulamento do Instituto Superior Naval de Guerra.
 
-###### Art. 94.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) designar, com a maior antecedência possível, os oficiais que devem frequentar o C. G. N. G. e o C. S. N. G., segundo a ordem decrescente das respectivas antiguidades.
+Art. 94.º Compete à Superintendência dos Serviços da Armada (Direcção do Serviço do Pessoal) designar, com a maior antecedência possível, os oficiais que devem frequentar o C. G. N. G. e o C. S. N. G., segundo a ordem decrescente das respectivas antiguidades.
 
 § 1.º ...
 
@@ -248,33 +273,33 @@ d) ...
 
 § 3.º ...
 
-###### Art. 95.º Podem ser dispensados, pelo chefe do Estado-Maior da Armada, da frequência do C. G. N. G. ou do C. S. N. G. os oficiais que, por escrito, solicitarem essa dispensa.
+Art. 95.º Podem ser dispensados, pelo chefe do Estado-Maior da Armada, da frequência do C. G. N. G. ou do C. S. N. G. os oficiais que, por escrito, solicitarem essa dispensa.
 
 § único. ...
 
 ...
 
-###### Art. 97.º Compete ao superintendente dos Serviços da Armada propor ao chefe do Estado-Maior da Armada os oficiais que devem ser designados para frequentar o C. G. N. G., devendo o assunto ser submetido à decisão do Ministro da Marinha por este último oficial general.
+Art. 97.º Compete ao superintendente dos Serviços da Armada propor ao chefe do Estado-Maior da Armada os oficiais que devem ser designados para frequentar o C. G. N. G., devendo o assunto ser submetido à decisão do Ministro da Marinha por este último oficial general.
 
-###### Art. 98.º O oficial que nos cursos navais de guerra for considerado como não apto poderá repetir uma vez o curso se se tratar do curso geral, não o podendo fazer tratando-se dos cursos superior ou complementar.
+Art. 98.º O oficial que nos cursos navais de guerra for considerado como não apto poderá repetir uma vez o curso se se tratar do curso geral, não o podendo fazer tratando-se dos cursos superior ou complementar.
 
 § único. Os cursos navais de guerra poderão ser repetidos pelos oficiais que não os tenham podido completar por motivo de doença ou de imposição de serviço.
 
 ...
 
-###### Art. 103.º O curso de especialização em mergulhador-sapador é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos engenheiros maquinistas navais e de administração naval e por primeiros-tenentes fuzileiros, que sejam qualificados em mergulhador-vigias.
+Art. 103.º O curso de especialização em mergulhador-sapador é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos engenheiros maquinistas navais e de administração naval e por primeiros-tenentes fuzileiros, que sejam qualificados em mergulhador-vigias.
 
-###### Art. 104.º O curso de especialização em educação física é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos médicos navais, dos engenheiros maquinistas navais e de administração naval e por primeiros-tenentes fuzileiros.
-
-...
-
-###### Art. 112.º A admissão à frequência do curso de engenheiro hidrógrafo é feita por concurso entre os primeiros-tenentes e segundos-tenentes da classe de marinha, devendo estes últimos satisfazer às condições especiais de promoção.
-
-###### Art. 113.º A organização do curso de engenheiro hidrógrafo, as condições do concurso e a classificação dos candidatos são fixadas por diplomas próprios.
+Art. 104.º O curso de especialização em educação física é frequentado por primeiros-tenentes ou segundos-tenentes das classes de marinha, dos médicos navais, dos engenheiros maquinistas navais e de administração naval e por primeiros-tenentes fuzileiros.
 
 ...
 
-###### Art. 132.º ...
+Art. 112.º A admissão à frequência do curso de engenheiro hidrógrafo é feita por concurso entre os primeiros-tenentes e segundos-tenentes da classe de marinha, devendo estes últimos satisfazer às condições especiais de promoção.
+
+Art. 113.º A organização do curso de engenheiro hidrógrafo, as condições do concurso e a classificação dos candidatos são fixadas por diplomas próprios.
+
+...
+
+Art. 132.º ...
 
 a) Capitão-de-fragata das seguintes classes: marinha, engenheiros construtores navais, médicos navais, engenheiros maquinistas navais, administração naval, engenheiros de material naval e fuzileiros.
 
@@ -284,7 +309,7 @@ b) ...
 
 ...
 
-###### Art. 134.º ...
+Art. 134.º ...
 
 a) ...
 
@@ -310,11 +335,11 @@ e) ...
 
 ...
 
-###### Art. 212.º ...
+Art. 212.º ...
 
 § único. Os oficiais que ingressarem nas classes dos engenheiros construtores navais, dos engenheiros de material naval e de fuzileiros mantêm os livretes de saúde que já possuíam.
 
-###### Art. 2.º No artigo 25.º do mesmo Estatuto é incluída uma nova alínea com a redacção seguinte:
+Art. 2.º No artigo 25.º do mesmo Estatuto é incluída uma nova alínea com a redacção seguinte:
 
 j) Fuzileiros:
 
@@ -322,18 +347,18 @@ Comando e inspecção das unidades de fuzileiros e de desembarque;
 
 Exercício de outros cargos para que sejam requeridos os conhecimentos profissionais da sua classe.
 
-###### Art. 3.º No artigo 151.º do referido Estatuto é introduzido um novo parágrafo, com a redacção seguinte:
+Art. 3.º No artigo 151.º do referido Estatuto é introduzido um novo parágrafo, com a redacção seguinte:
 
 § 3.º Estas reduções de tempo de embarque e de navegação são igualmente aplicáveis aos primeiros-tenentes e segundos-tenentes que prestem ou tenham prestado serviço em unidades de mergulhadores-sapadores.
 
-###### Art. 4.º No mapa n.º 1, a que se refere o artigo 81.º do Estatuto do Oficial da Armada, é incluída a classe de fuzileiros e estabelecidos os seguintes limites de idade para os diferentes postos da mesma classe:
+Art. 4.º No mapa n.º 1, a que se refere o artigo 81.º do Estatuto do Oficial da Armada, é incluída a classe de fuzileiros e estabelecidos os seguintes limites de idade para os diferentes postos da mesma classe:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
 
-###### Art. 5.º No mapa n.º 3, a que se refere o § único do artigo 146.º do Estatuto do Oficial da Armada, é incluída a classe de fuzileiros e estabelecidas as seguintes condições especiais de promoção para a mesma classe:
+Art. 5.º No mapa n.º 3, a que se refere o § único do artigo 146.º do Estatuto do Oficial da Armada, é incluída a classe de fuzileiros e estabelecidas as seguintes condições especiais de promoção para a mesma classe:
 
-[([ver documento original](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf))](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
+[(ver documento original)](https://files.diariodarepublica.pt/1s/1968/07/15800/09600963.pdf)
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 5 de Julho de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Manuel Gomes de Araújo - Fernando Quintanilha Mendonça Dias.

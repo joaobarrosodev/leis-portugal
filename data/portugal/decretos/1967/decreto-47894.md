@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47894-1967-390576
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-10-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:21Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 3eb4179e6cb863c82c3463b7846dcd4b4206fb83027b938dd950685a3b9f4921
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: e67e8229fbbba9f5985f29f30d8d8c57b0506dba6ce7eeedd4253d598d4c938a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:21Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -71,16 +71,20 @@ relationships:
   target: pt:dre:215117:por
   label: Última alteração registada na importação inicial
   source: null
+- type: cites
+  target: pt:dre:251833:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:21Z'
   warnings: []
   errors: []
 ---
@@ -95,10 +99,10 @@ Tendo em vista o disposto no artigo 22.º e seu § 1.º do [Decreto-Lei n.º 413
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com a Sociedade Portuguesa dos Ascensores Schindler, Lda., para a execução do fornecimento e montagem de ascensores para o edifício dos tribunais cíveis do Palácio da Justiça de Lisboa, pela importância de 3990300$00.
+Artigo 1.º É autorizada a Direcção-Geral dos Edifícios e Monumentos Nacionais a celebrar contrato com a Sociedade Portuguesa dos Ascensores Schindler, Lda., para a execução do fornecimento e montagem de ascensores para o edifício dos tribunais cíveis do Palácio da Justiça de Lisboa, pela importância de 3990300$00.
 
-###### Art. 2.º Seja qual for o valor do fornecimento e montagem a realizar, não poderá a Direcção-Geral dos Edifícios Monumentos Nacionais despender, com pagamentos relativos ao que for executado por virtude do contrato, mais de 2000000$00 no ano de 1968, 1000000$00 no ano do 1969 e 990300$00 ou o que se apurar como saldo, no ano de 1970.
+Art. 2.º Seja qual for o valor do fornecimento e montagem a realizar, não poderá a Direcção-Geral dos Edifícios Monumentos Nacionais despender, com pagamentos relativos ao que for executado por virtude do contrato, mais de 2000000$00 no ano de 1968, 1000000$00 no ano do 1969 e 990300$00 ou o que se apurar como saldo, no ano de 1970.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 4 de Setembro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - José Albino Machado Vaz.

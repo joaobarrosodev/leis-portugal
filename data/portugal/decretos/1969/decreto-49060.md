@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49060-1969-199986
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-06-17T00:00:00Z'
+  retrieved_at: '2026-10-22T20:07:45Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: b15fbbb8d8b63fe4f40b00cedb395885fda2d0dddc182f4b89e9412a4f38891d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 9ff936151ef6d1488b75c730e633b53a8644a855b658962e6f526cd140dfd62a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:07:45Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,33 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:224859:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:467659:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567915:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:567916:por
+  label: null
+  source: null
 article_structure:
-  article_count: 3
-  section_count: 8
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  article_count: 0
+  section_count: 0
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:07:45Z'
   warnings: []
   errors: []
 ---
@@ -87,19 +103,19 @@ Com fundamento no disposto no artigo 2.º do [Decreto-Lei n.º 24914](https://di
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 3781250$00, destinados quer a reforçar verba insuficientemente dotada, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
+Artigo 1.º São abertos no Ministério das Finanças créditos especiais no montante de 3781250$00, destinados quer a reforçar verba insuficientemente dotada, quer a prover à realização de despesas não previstas no Orçamento Geral do Estado em vigor:
 
 Encargos Gerais da Nação
 
-### Capítulo 8.º «Serviços da Secretaria de Estado da Informação e Turismo»:
+Capítulo 8.º «Serviços da Secretaria de Estado da Informação e Turismo»:
 
-###### Artigo 134.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, ...» ... 3000000$00
+Artigo 134.º, n.º 1) «Para satisfação de despesas resultantes da execução do [Decreto-Lei n.º 34133](https://diariodarepublica.pt/dr/detalhe/decreto-lei/34133-1944-567915) e [Decreto n.º 34134](https://diariodarepublica.pt/dr/detalhe/decreto/34134-1944-567916), de 24 de Novembro de 1944, ...» ... 3000000$00
 
 Ministério da Justiça
 
-### Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Escola Profissional de Santa Clara»:
+Capítulo 5.º «Direcção-Geral dos Serviços Tutelares de Menores - Escola Profissional de Santa Clara»:
 
-###### Artigo 432.º «Outros encargos», n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras»:
+Artigo 432.º «Outros encargos», n.º 1) «Subsídios a cofres ou organizações metropolitanas, ultramarinas ou estrangeiras»:
 
 Alínea 2 «Para satisfação de todos os encargos com a alimentação, vestuário e calçado dos internados, nos termos do acordo celebrado entre o Ministério da Justiça e a Província Portuguesa da Sociedade Salesiana» (ver nota c) ... 625000$00
 
@@ -113,27 +129,27 @@ Alínea 3 «Para satisfação das despesas de administração, pessoal directame
 
 (nota d) O subsídio mensal corresponde a 25 por cento do que for autorizado para alimentação, vestuário e calçado.
 
-###### Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
+Art. 2.º Para compensação dos créditos designados no artigo anterior, são efectuadas as seguintes alterações ao Orçamento Geral do Estado em execução, representativas de redução em verbas de despesa:
 
 Ministério das Finanças
 
-### Capítulo 7.º, artigo 61.º, n.º 1) ... 2500000$00
+Capítulo 7.º, artigo 61.º, n.º 1) ... 2500000$00
 
 Ministério da Justiça
 
-### Capítulo 3.º, artigo 100.º, n.º 1) ... 239000$00
+Capítulo 3.º, artigo 100.º, n.º 1) ... 239000$00
 
-### Capítulo 3.º, artigo 107.º, n.º 1) ... 129906$50
+Capítulo 3.º, artigo 107.º, n.º 1) ... 129906$50
 
-### Capítulo 5.º, artigo 432.º, n.º 1), alínea 1 ... 362343$50
+Capítulo 5.º, artigo 432.º, n.º 1), alínea 1 ... 362343$50
 
-### Capítulo 6.º, artigo 463.º, n.º 1) ... 50000$00
+Capítulo 6.º, artigo 463.º, n.º 1) ... 50000$00
 
 ... 781250$00
 
 Ministério da Educação Nacional
 
-### Capítulo 3.º, artigo 525.º, n.º 1), alínea 1 ... 500000$00
+Capítulo 3.º, artigo 525.º, n.º 1), alínea 1 ... 500000$00
 
 ... 3781250$00
 
@@ -141,8 +157,8 @@ Estas correcções orçamentais foram registadas na Direcção-Geral da Contabil
 
 Marcello Caetano - Alfredo de Queirós Ribeiro Vaz Pinto - Horácio José de Sá Viana Rebelo - António Manuel Gonçalves Rapazote - Mário Júlio Brito de Almeida Costa - João Augusto Dias Rosas - José Manuel Bethencourt Conceição Rodrigues - Manuel Pereira Crespo - Alberto Marciano Gorjão Franco Nogueira - Rui Alves da Silva Sanches - Joaquim Moreira da Silva Cunha - José Hermano Saraiva - Fernando Alberto de Oliveira - José João Gonçalves de Proença - Lopo de Carvalho Cancella de Abreu.
 
-**Promulgado em 4 de Junho de 1969.**
+Promulgado em 4 de Junho de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 17 de Junho de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48576-1968-264907
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-09-13T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: f9d91956cc4343afdcbda242359a696883da63fc018ff77ec6153f9de0d7d019
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 35a4d5e6385d5b03061381ea15a82cd35312d8ce5d88f1fa53950244d1ab5be4
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,29 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:503790:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:509216:por
+  label: null
+  source: null
+- type: cites
+  target: pt:dre:512247:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:53Z'
   warnings: []
   errors: []
 ---
@@ -93,28 +105,28 @@ Nesta conformidade:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º As transacções de máquinas-ferramentas destinadas ao trabalho de metais, fabricadas no continente e ilhas adjacentes e sujeitas à obrigatoriedade de recepção e verificação de qualidade, nos termos do artigo 1.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e da [Portaria n.º 22606](https://diariodarepublica.pt/dr/detalhe/portaria/22606-1967-509216), de 1 de Abril do mesmo ano, serão documentadas com os respectivos certificados de recepção passados pelo Centro de Normalização, os quais deverão ficar em poder do adquirente.
+Artigo 1.º As transacções de máquinas-ferramentas destinadas ao trabalho de metais, fabricadas no continente e ilhas adjacentes e sujeitas à obrigatoriedade de recepção e verificação de qualidade, nos termos do artigo 1.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e da [Portaria n.º 22606](https://diariodarepublica.pt/dr/detalhe/portaria/22606-1967-509216), de 1 de Abril do mesmo ano, serão documentadas com os respectivos certificados de recepção passados pelo Centro de Normalização, os quais deverão ficar em poder do adquirente.
 
-###### Art. 2.º Os certificados de recepção respeitantes às máquinas-ferramentas indicadas no artigo anterior, posteriormente transaccionadas, deverão acompanhar as respectivas facturas ou documentos equivalentes.
+Art. 2.º Os certificados de recepção respeitantes às máquinas-ferramentas indicadas no artigo anterior, posteriormente transaccionadas, deverão acompanhar as respectivas facturas ou documentos equivalentes.
 
 § único. As facturas ou documentos equivalentes deverão conter, além de outros elementos legalmente exigíveis, a especificação dos tipos de máquinas e das competentes normas de recepção e, bem assim, o número e data dos certificados de recepção respectivos.
 
-###### Art. 3.º Todas as máquinas-ferramentas fabricadas no continente e ilhas adjacentes, quer sejam ou não passíveis de verificação de qualidade, deverão ter a marca do fabricante e o número de fabrico, de acordo com as regras previstas nos critérios a que se referem os §§ 1.º e 2.º do artigo 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967.
+Art. 3.º Todas as máquinas-ferramentas fabricadas no continente e ilhas adjacentes, quer sejam ou não passíveis de verificação de qualidade, deverão ter a marca do fabricante e o número de fabrico, de acordo com as regras previstas nos critérios a que se referem os §§ 1.º e 2.º do artigo 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967.
 
-###### Art. 4.º As infracções, ao disposto nos artigos 1.º, 2.º e 3.º do presente diploma são puníveis nos termos e com a multa prevista no n.º 4 do artigo 35.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965.
+Art. 4.º As infracções, ao disposto nos artigos 1.º, 2.º e 3.º do presente diploma são puníveis nos termos e com a multa prevista no n.º 4 do artigo 35.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965.
 
-###### Art. 5.º Independentemente da aplicação das penas previstas no artigo anterior, serão seladas as máquinas-ferramentas indicadas no artigo 1.º, que se encontrem instaladas e em condições de laborar, desde que os seus proprietários não estejam munidos dos respectivos certificados de recepção emitidos pelo Centro de Normalização.
+Art. 5.º Independentemente da aplicação das penas previstas no artigo anterior, serão seladas as máquinas-ferramentas indicadas no artigo 1.º, que se encontrem instaladas e em condições de laborar, desde que os seus proprietários não estejam munidos dos respectivos certificados de recepção emitidos pelo Centro de Normalização.
 
 § único. A selagem das máquinas será feita pela Direcção-Geral dos Serviços Industriais, depois de decorrido um prazo, não inferior a quinze dias, a notificar à empresa proprietária da máquina.
 
-###### Art. 6.º Para efeito da concessão dos benefícios legais previstos no artigo 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, caberá ao departamento competente do Ministério das Finanças o recebimento dos processos a instruir, os quais deverão, de acordo com o § 1.º do citado artigo, ser remetidos à Direcção-Geral dos Serviços Industriais.
+Art. 6.º Para efeito da concessão dos benefícios legais previstos no artigo 3.º do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, caberá ao departamento competente do Ministério das Finanças o recebimento dos processos a instruir, os quais deverão, de acordo com o § 1.º do citado artigo, ser remetidos à Direcção-Geral dos Serviços Industriais.
 
-###### Art. 7.º A fiscalização do cumprimento das obrigações impostas por este diploma compete não só às entidades referidas no artigo 33.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, mas ainda aos serviços dependentes da Direcção-Geral das Contribuições e Impostos.
+Art. 7.º A fiscalização do cumprimento das obrigações impostas por este diploma compete não só às entidades referidas no artigo 33.º do [Decreto-Lei n.º 46666](https://diariodarepublica.pt/dr/detalhe/decreto-lei/46666-1965-512247), de 24 de Novembro de 1965, mas ainda aos serviços dependentes da Direcção-Geral das Contribuições e Impostos.
 
 § 1.º A fiscalização a que se refere o corpo deste artigo só respeita às máquinas fabricadas ou importadas depóis da entrada em vigor do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e das portarias que fixem as normas de recepção a adoptar para cada tipo de máquina.
 
 § 2.º Para as máquinas fabricadas ou importadas anteriormente à entrada em vigor do [Decreto n.º 47575](https://diariodarepublica.pt/dr/detalhe/decreto/47575-1967-503790), de 3 de Março de 1967, e das portarias que fixem as normas de recepção a adoptar para cada tipo de máquina serão apresentadas à Direcção-Geral das Contribuições e Impostos relações de máquinas em existência.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 13 de Setembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - João Augusto Dias Rosas - Joaquim Moreira da Silva Cunha - José Gonçalo da Cunha Sottomayor Correia de Oliveira - Fernando Manuel Alves Machado - Manuel Rafael Amaro da Costa.

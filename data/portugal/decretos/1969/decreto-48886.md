@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48886-1969-527589
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-03-01T00:00:00Z'
+  retrieved_at: '2026-10-22T20:06:26Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4830372b98e58a86c719689167f256172d03499ba1172904796b0371f4a818ff
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 44ec99542677f3a72a597b184f48b4ac509b90d2d0c5731435cad775aaa57a4a
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:06:26Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:06:26Z'
   warnings: []
   errors: []
 ---
@@ -92,9 +92,9 @@ Por motivo de urgência e de harmonia com o disposto no § 1.º do artigo 150.º
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique a celebrar com o Banco Nacional Ultramarino um contrato, em regime de pagamentos diferidos, relativo a uma operação de financiamento, no montante 6384000 dólares, destinado à aquisição de dois aviões para a Divisão de Exploração dos Transportes Aéreos.
+Artigo 1.º É autorizada a Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique a celebrar com o Banco Nacional Ultramarino um contrato, em regime de pagamentos diferidos, relativo a uma operação de financiamento, no montante 6384000 dólares, destinado à aquisição de dois aviões para a Divisão de Exploração dos Transportes Aéreos.
 
-###### Art. 2.º O pagamento efectuar-se-á em onze prestações iguais, semestrais e sucessivas, com início em 15 de Dezembro de 1970, tendo lugar a última amortização em 15 de Dezembro de 1975.
+Art. 2.º O pagamento efectuar-se-á em onze prestações iguais, semestrais e sucessivas, com início em 15 de Dezembro de 1970, tendo lugar a última amortização em 15 de Dezembro de 1975.
 
 § 1.º A taxa de juro sobre o capital em dívida será igual à taxa flutuante correspondente ao prime rate de Nova Iorque, acrescida de 1 por cento.
 
@@ -104,19 +104,19 @@ As importâncias pagas adiantadamente poderão ser oneradas com uma taxa de 0,25
 
 § 3.º Sobre a parte do financiamento não utilizada será devida, desde 31 de Janeiro de 1969, uma taxa de compromisso de 0,5 por cento.
 
-###### Art. 3.º As amortizações, juros e encargos relativos à presente operação serão da responsabilidade da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, que entregará, nas datas dos vencimentos, ao Banco Nacional Ultramarino, as importâncias necessárias ao seu pagamento.
+Art. 3.º As amortizações, juros e encargos relativos à presente operação serão da responsabilidade da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, que entregará, nas datas dos vencimentos, ao Banco Nacional Ultramarino, as importâncias necessárias ao seu pagamento.
 
-###### Art. 4.º É autorizado o Governo-Geral da província a garantir, junto do Banco Nacional Ultramarino, as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique na execução da presente operação.
+Art. 4.º É autorizado o Governo-Geral da província a garantir, junto do Banco Nacional Ultramarino, as responsabilidades assumidas pela Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique na execução da presente operação.
 
-###### Art. 5.º Todos os encargos resultantes da celebração da presente operação constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, devendo em consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco Nacional Ultramarino.
+Art. 5.º Todos os encargos resultantes da celebração da presente operação constituirão despesa obrigatória e preferencial da Direcção dos Serviços de Portos, Caminhos de Ferro e Transportes de Moçambique, devendo em consequência, ser anualmente inscritas no seu orçamento privativo as verbas indispensáveis à liquidação dos compromissos assumidos, incluindo os encargos bancários devidos ao Banco Nacional Ultramarino.
 
-###### Art. 6.º Fica autorizado o Ministro do Ultramar a intervir, em nome e representação da província de Moçambique, no contrato a que se refere o presente diploma.
+Art. 6.º Fica autorizado o Ministro do Ultramar a intervir, em nome e representação da província de Moçambique, no contrato a que se refere o presente diploma.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha.
 
-**Promulgado em 14 de Fevereiro de 1969.**
+Promulgado em 14 de Fevereiro de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 1 de Março de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

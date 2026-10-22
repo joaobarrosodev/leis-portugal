@@ -46,18 +46,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/47882-1967-390607
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-08-31T00:00:00Z'
+  retrieved_at: '2026-10-22T19:58:16Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: af205f14d65a58240c1836049c9a18ade51bba98463f9be1e566b3536429bcdb
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 362966922d0be8a3cbe67c93f23cab05a8b8ad89657d747f8444b02cde59904d
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:58:16Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -65,17 +65,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:315703:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:58:16Z'
   warnings: []
   errors: []
 ---
@@ -98,17 +102,17 @@ Nestes termos:
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O Grémio dos Armazenistas e Exportadores de Azeite passa a ser constituído pelas pessoas singulares ou colectivas que exerçam ou venham a exercer as actividades de refinação, armazenagem ou exportação de azeite e de outros óleos directamente comestíveis, exercendo, no que respeita a estas actividades e produtos, as funções que já lhe pertencem pela legislação em vigor em relação ao azeite.
+Artigo 1.º O Grémio dos Armazenistas e Exportadores de Azeite passa a ser constituído pelas pessoas singulares ou colectivas que exerçam ou venham a exercer as actividades de refinação, armazenagem ou exportação de azeite e de outros óleos directamente comestíveis, exercendo, no que respeita a estas actividades e produtos, as funções que já lhe pertencem pela legislação em vigor em relação ao azeite.
 
-###### Art. 2.º Os artigos 4.º, 6.º, 7.º, 10.º, 11.º, 12.º, 13.º, 18.º, 19.º, 25.º e 29.º do [Decreto n.º 32200](https://diariodarepublica.pt/dr/detalhe/decreto/32200-1942-315703), de 15 de Agosto de 1942, passam a ter a seguinte redacção:
+Art. 2.º Os artigos 4.º, 6.º, 7.º, 10.º, 11.º, 12.º, 13.º, 18.º, 19.º, 25.º e 29.º do [Decreto n.º 32200](https://diariodarepublica.pt/dr/detalhe/decreto/32200-1942-315703), de 15 de Agosto de 1942, passam a ter a seguinte redacção:
 
-###### Art. 4.º O Grémio dos Armazenistas e Exportadores de Azeite exerce a sua acção em toda a área do continente e ilhas adjacentes e tem a sua sede em Lisboa.
+Art. 4.º O Grémio dos Armazenistas e Exportadores de Azeite exerce a sua acção em toda a área do continente e ilhas adjacentes e tem a sua sede em Lisboa.
 
 § único ...
 
 ...
 
-###### Art. 6.º O Grémio dos Armazenistas e Exportadores de Azeite é constituído por três secções:
+Art. 6.º O Grémio dos Armazenistas e Exportadores de Azeite é constituído por três secções:
 
 1.ª Refinadores;
 
@@ -120,7 +124,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 7.º No Grémio dos Armazenistas e Exportadores de Azeite ficam obrigatòriamente agrupadas todas as pessoas singulares ou colectivas que exerçam ou venham a exercer a actividade de refinadores, armazenistas e exportadores de azeite e outros óleos directamente comestíveis.
+Art. 7.º No Grémio dos Armazenistas e Exportadores de Azeite ficam obrigatòriamente agrupadas todas as pessoas singulares ou colectivas que exerçam ou venham a exercer a actividade de refinadores, armazenistas e exportadores de azeite e outros óleos directamente comestíveis.
 
 § 1.º Os actuais agremiados, consoante as actividades que exercem, são desde já considerados inscritos na 2.ª e na 3.ª secções, independentemente de qualquer formalidade.
 
@@ -130,7 +134,7 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 10.º Constituem deveres dos agremiados das três secções:
+Art. 10.º Constituem deveres dos agremiados das três secções:
 
 1.º ...
 
@@ -160,19 +164,19 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 § 2.º ...
 
-###### Art. 11.º Constitui obrigação dos agremiados inscritos na 1.ª e 2.ª secções o pagamento de uma taxa, a fixar pelo Secretário de Estado do Comércio, sobre cada quilograma de azeite e outros óleos directamente comestíveis por eles transaccionados, a qual poderá ser cobrada por avença.
+Art. 11.º Constitui obrigação dos agremiados inscritos na 1.ª e 2.ª secções o pagamento de uma taxa, a fixar pelo Secretário de Estado do Comércio, sobre cada quilograma de azeite e outros óleos directamente comestíveis por eles transaccionados, a qual poderá ser cobrada por avença.
 
 § único ...
 
 ...
 
-###### Art. 12.º Constitui obrigação dos agremiados inscritos na 3.ª secção o pagamento da taxa que for fixada pelo Secretário de Estado do Comércio e que incida sobre cada quilograma de azeite ou de outros óleos directamente comestíveis expedido para os países estrangeiros, o ultramar e as ilhas adjacentes ou destinado a mantimentos ou gastos de embarcações.
+Art. 12.º Constitui obrigação dos agremiados inscritos na 3.ª secção o pagamento da taxa que for fixada pelo Secretário de Estado do Comércio e que incida sobre cada quilograma de azeite ou de outros óleos directamente comestíveis expedido para os países estrangeiros, o ultramar e as ilhas adjacentes ou destinado a mantimentos ou gastos de embarcações.
 
 § 1.º ...
 
 § 2.º ...
 
-###### Art. 13.º São direitos privativos dos agremiados:
+Art. 13.º São direitos privativos dos agremiados:
 
 1.º Exercer a actividade de refinação e o comércio armazenista e de exportação do azeite e dos outros óleos directamente comestíveis, conforme as secções em que se encontrarem inscritos.
 
@@ -184,11 +188,11 @@ Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição,
 
 ...
 
-###### Art. 18.º ...
+Art. 18.º ...
 
 § único. São convocados os refinadores, os armazenistas ou os exportadores, conforme se trate de assunto que diga respeito apenas à refinação, ao comércio armazenista ou à exportação.
 
-###### Art. 19.º Para efeito da eleição dos procuradores do conselho geral, haverá as seguintes sessões de voto:
+Art. 19.º Para efeito da eleição dos procuradores do conselho geral, haverá as seguintes sessões de voto:
 
 a) Uma sessão de voto para os refinadores;
 
@@ -202,7 +206,7 @@ c) Uma sessão de voto para os exportadores.
 
 ...
 
-###### Art. 25.º O conselho geral é constituído:
+Art. 25.º O conselho geral é constituído:
 
 a) ...
 
@@ -218,7 +222,7 @@ d) Por oito representantes de cada secção.
 
 ...
 
-###### Art. 29.º ...
+Art. 29.º ...
 
 § 1.º ...
 
@@ -234,6 +238,6 @@ d) Por oito representantes de cada secção.
 
 § 7.º ...
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 31 de Agosto de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Fernando Manuel Alves Machado.

@@ -47,18 +47,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48520-1968-273377
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1968-08-09T00:00:00Z'
+  retrieved_at: '2026-10-22T20:03:19Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 05f554657421d225fb3485c98ca806adbd3d5ca5c8c43f53e40c521f22a70685
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: df06c745a132bbdab479276716a2aa19cbd9a8976287007ef2fbd0e280aac342
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:03:19Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -66,17 +66,21 @@ reuse:
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
 subjects: []
-relationships: []
+relationships:
+- type: cites
+  target: pt:dre:251185:por
+  label: null
+  source: null
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:03:19Z'
   warnings: []
   errors: []
 ---
@@ -87,7 +91,7 @@ De harmonia com o disposto no artigo 79.º do [Decreto-Lei n.º 41473](https://d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º - 1. As promoções nos quadros de pessoal da Direcção-Geral dos Serviços Agrícolas serão feitas mediante concurso.
+Artigo 1.º - 1. As promoções nos quadros de pessoal da Direcção-Geral dos Serviços Agrícolas serão feitas mediante concurso.
 
 2. Os concursos são:
 
@@ -97,7 +101,7 @@ b) Documentais, para os lugares dos restantes quadros.
 
 3. Tratando-se do preenchimento de lugares com destino a determinado ou determinados serviços da Direcção-Geral, não haverá obrigatoriedade de apresentação aos respectivos concursos, ficando a admissão limitada aos funcionários que a requeiram.
 
-###### Art. 2.º - 1. A admissão de analistas, preparadoras e ajudantes de laboratório do quadro auxiliar faz-se por concurso com prestação de provas, sendo o provimento efectuado por meio de contrato, válido por um período mínimo de três anos, considerado de adaptação profissional, findo o qual os funcionários podem ser nomeados definitivamente, desde que tenham boas informações ou dispensados do serviço.
+Art. 2.º - 1. A admissão de analistas, preparadoras e ajudantes de laboratório do quadro auxiliar faz-se por concurso com prestação de provas, sendo o provimento efectuado por meio de contrato, válido por um período mínimo de três anos, considerado de adaptação profissional, findo o qual os funcionários podem ser nomeados definitivamente, desde que tenham boas informações ou dispensados do serviço.
 
 2. O provimento poderá ser feito logo definitivamente, por nomeação, se se tratar de funcionário já provido nesses termos noutro lugar dos quadros da Direcção-Geral.
 
@@ -105,16 +109,16 @@ b) Documentais, para os lugares dos restantes quadros.
 
 4. Enquanto não forem publicados os programas das provas mantêm-se os que estão em vigor.
 
-###### Art. 3.º (transitório) - 1. Ao primeiro concurso para lugares de aspirante que se realize depois da publicação deste diploma poderão concorrer, independentemente das respectivas habilitações literárias, os actuais escriturários de 2.ª classe da Direcção-Geral dos Serviços Agrícolas que sejam remunerados pela classe de «Despesas com o pessoal», incluindo a dos orçamentos de aplicação de verbas globais da «Despesa ordinária», e os dactilógrafos do quadro, uns e outros com um mínimo de cinco anos de bom e efectivo serviço na Direcção-Geral.
+Art. 3.º (transitório) - 1. Ao primeiro concurso para lugares de aspirante que se realize depois da publicação deste diploma poderão concorrer, independentemente das respectivas habilitações literárias, os actuais escriturários de 2.ª classe da Direcção-Geral dos Serviços Agrícolas que sejam remunerados pela classe de «Despesas com o pessoal», incluindo a dos orçamentos de aplicação de verbas globais da «Despesa ordinária», e os dactilógrafos do quadro, uns e outros com um mínimo de cinco anos de bom e efectivo serviço na Direcção-Geral.
 
 2. Os candidatos aprovados serão providos nas vagas de lugares de aspirante abertas até ao termo do prazo de validade do concurso, sendo o provimento feito logo definitivamente desde que tenham três anos de serviço efectivo e boas informações.
 
 3. O pessoal abrangido pelo número anterior terá direito a acesso no quadro até segundo-oficial nas condições legais e independentemente das habilitações exigidas.
 
-###### Art. 4.º - 1. O lugar de adjunto do director-geral dos Serviços Agrícolas será provido, em comissão de serviço, pelo Secretário de Estado da Agricultura, sob proposta do director-geral, de entre os engenheiros agrónomos do quadro técnico.
+Art. 4.º - 1. O lugar de adjunto do director-geral dos Serviços Agrícolas será provido, em comissão de serviço, pelo Secretário de Estado da Agricultura, sob proposta do director-geral, de entre os engenheiros agrónomos do quadro técnico.
 
 2. O funcionário nomeado mantém todos os direitos correspondentes ao efectivo exercício do seu lugar no quadro e na classe a que pertence e o seu lugar só poderá ser preenchido interinamente pelo tempo que dure a comissão.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 9 de Agosto de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Ulisses Cruz de Aguiar Cortês - Domingos Rosado Vitória Pires.

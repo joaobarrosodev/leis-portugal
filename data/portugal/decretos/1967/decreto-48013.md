@@ -48,18 +48,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48013-1967-388668
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1967-10-30T00:00:00Z'
+  retrieved_at: '2026-10-22T19:59:18Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 94badd021d693dce7898045033f3c9275cd750388223beeb13fcd8916533649f
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 23bdeed12a5054ee872bb4bd82485ef92682edf68d71581eba9e1e63cec15865
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T19:59:18Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -69,15 +69,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T19:59:18Z'
   warnings: []
   errors: []
 ---
@@ -90,11 +90,11 @@ Por motivo de urgência, tendo em vista o disposto no § 1.º do artigo 150.º d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 150.º da Constituição, o Ministro do Ultramar decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º O director da Escola Industrial e Comercial de Bissau e os directores de curso do mesmo estabelecimento de ensino passam a ter uma gratificação mensal de 3000$00 e 300$00, respectivamente.
+Artigo 1.º O director da Escola Industrial e Comercial de Bissau e os directores de curso do mesmo estabelecimento de ensino passam a ter uma gratificação mensal de 3000$00 e 300$00, respectivamente.
 
-###### Art. 2.º É ratificado o artigo 10.º do Diploma Legislativo do Governo da província de Macau n.º 1724, de 29 de Outubro de 1966.
+Art. 2.º É ratificado o artigo 10.º do Diploma Legislativo do Governo da província de Macau n.º 1724, de 29 de Outubro de 1966.
 
-**Publique-se e cumpra-se como nele se contém.**
+Publique-se e cumpra-se como nele se contém.
 
 Paços do Governo da República, 30 de Outubro de 1967. - AMÉRICO DEUS RODRIGUES THOMAZ - António de Oliveira Salazar - Joaquim Moreira da Silva Cunha.
 

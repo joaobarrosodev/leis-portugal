@@ -49,18 +49,18 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/49200-1969-198565
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1969-08-22T00:00:00Z'
+  retrieved_at: '2026-10-22T20:08:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: 4f5bc0d9dc9df5c5fdf19c0f408fe7ff405eea688cdfab0902e181662509026e
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: b5e5798cf5bd66d40deb38d8bb784f5b4ff65fc7303ea7ff1f5d4c0fa6f55050
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:08:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
@@ -70,15 +70,15 @@ reuse:
 subjects: []
 relationships: []
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:08:53Z'
   warnings: []
   errors: []
 ---
@@ -89,15 +89,15 @@ Tendo em consideração os fundamentos das exposições que, de vários pontos d
 
 Usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º Na época de exames de Outubro do ano lectivo de 1968-1969 é permitido aos alunos dos estabelecimentos de ensino superior prestar provas de exame em três disciplinas.
+Artigo 1.º Na época de exames de Outubro do ano lectivo de 1968-1969 é permitido aos alunos dos estabelecimentos de ensino superior prestar provas de exame em três disciplinas.
 
-###### Art. 2.º Os alunos do ensino liceal poderão realizar na próxima época de Setembro até três exames de disciplinas do 7.º ano desde que utilizando esta concessão fiquem em condições de concluir uma das alíneas daquele ano.
+Art. 2.º Os alunos do ensino liceal poderão realizar na próxima época de Setembro até três exames de disciplinas do 7.º ano desde que utilizando esta concessão fiquem em condições de concluir uma das alíneas daquele ano.
 
 Marcello Caetano - Joaquim Moreira da Silva Cunha - José Hermano Saraiva.
 
-**Promulgado em 11 de Agosto de 1969.**
+Promulgado em 11 de Agosto de 1969.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 22 de Agosto de 1969. - AMÉRICO DEUS RODRIGUES THOMAZ.
 

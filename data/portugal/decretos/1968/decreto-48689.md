@@ -27,7 +27,7 @@ publication:
   pdf_url: https://files.diariodarepublica.pt/1s/1968/11/27000/16831686.pdf
 entry_into_force_dates: []
 end_of_validity_date: null
-legal_status: repealed
+legal_status: not_in_force
 notes: []
 language: por
 version:
@@ -49,40 +49,101 @@ source:
   metadata_url: null
   content_url: https://diariodarepublica.pt/dr/detalhe/decreto/48689-1968-263031
   consolidated_url: null
-  retrieved_at: '2026-10-21T00:00:00Z'
-  retrieval_method: Importação inicial do texto do DRE; substituído pela recolha direta quando o diploma é recolhido de novo
-  source_modified_at: '1993-02-26T00:00:00Z'
+  retrieved_at: '2026-10-22T20:04:53Z'
+  retrieval_method: Endpoints screenservices (OutSystems) da aplicação web do DRE; não é uma API pública documentada
+  source_modified_at: null
 integrity:
-  source_sha256: bc387468f245ecd1abf304f1fb4c3af9c0bd7383ad719202bf87c87c53cf794d
-  source_sha256_scope: imported_derived_markdown
+  source_sha256: 805ce7b3c2a785ee4ce53e44f01e20930185f93eceb8ecf081ee2cd77db10475
+  source_sha256_scope: official_source_content_bytes
 provenance:
-  collector: leis-portugal importação inicial
+  collector: leis-portugal DRE
   collector_version: 0.1.0
-  generated_by: leis-portugal importação inicial
-  generated_at: '2026-10-21T00:00:00Z'
-  notes: Importação inicial do texto do DRE; ainda não recolhido diretamente.
+  generated_by: leis-portugal collect dre
+  generated_at: '2026-10-22T20:04:53Z'
+  notes: null
 reuse:
   status: permitted
   attribution: Diário da República Eletrónico — Imprensa Nacional-Casa da Moeda
   reference: http://data.dre.pt/eli/dec-lei/83/2016/p/dr/pt/html
   notes: Acesso universal e gratuito ao Diário da República (artigo 3.º do Decreto-Lei n.º 83/2016) e regime de dados abertos
     (Lei n.º 68/2021). A edição eletrónica do DR é a que faz fé.
-subjects: []
+subjects:
+- Arquivo Geral da Marinha
+- Biblioteca Central da Marinha
+- Centro de Estudos Especiais da Armada
+- Comissão Permanente de Coordenação de Públicações Técnicas
+- Comissão Permanente de Normalização de Impressos e Material de Arquivo
+- Comissão Permanente de Uniformes
+- Conselho de Instrução da Armada
+- Farmácia Central da Marinha
+- Marinha
+- Militar
+- Ministério da Marinha
+- Museu de Marinha
+- Orgânica
+- Serviços do Material da Armada
+- Serviços do Pessoal da Armada
+- Superintendente
+- Tribunal Militar
 relationships:
 - type: amended_by
   target: pt:dre:657439:por
   label: Última alteração registada na importação inicial
   source: null
+- type: amended_by
+  target: pt:dre:146027:por
+  label: "Alterada a al. e) e os parágrafos 1.º, 2.º e 3.º do art. 12.º, pelo DEC.651/70.1970.12.28.MMAR DG.IS [298]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/651-1970-146027
+  date: '1970-12-28'
+- type: amended_by
+  target: pt:dre:291792:por
+  label: "Alterados os parag. 2.º e 3.º do art. 1.º, os arts. 5.º, 6.º, 7.º, 8.º e 9.º, o art. 10.º, a al. b) do parag. 1.º\
+    \ do art. 10.º, o art. 11.º, o art. 12.º e seus parags. 1.º, 2.º e 3.º; os arts. 17.º, 19.º, 20.º e 23.º; revogado o parag.\
+    \ 4.º do art. 1.º e o parag. único do art. 17.º; e aditado um art. 20.º-A, pelo DEC.7/72.1972.01.06.MMAR DG.IS [4]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/7-1972-291792
+  date: '1972-01-06'
+- type: amended_by
+  target: pt:dre:383411:por
+  label: "Alterados os arts. 6.º, 7.º e 23.º pela PORT.262/79.1979.06.06.CR DR.IS [130]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/262-1979-383411
+  date: '1979-06-06'
+- type: amended_by
+  target: pt:dre:389781:por
+  label: "Aditado um § único artigo 6.º ( na redacção do Decreto 7/72, de 06 de Janeiro e da Portaria 262/79, de 06 de Junho)\
+    \ do presente diploma, pela PORT.165/81.03.02.1981.CR, DR.IS [28] de 03.02.1981\01\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/165-1981-389781
+  date: '1981-02-03'
+- type: amended_by
+  target: pt:dre:661478:por
+  label: "Alterado o art. 6º pela PORT.108/84.1984.02.18.MDN DR.IS [42]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/portaria/108-1984-661478
+  date: '1984-02-18'
+- type: amended_by
+  target: pt:dre:328986:por
+  label: "Alterado o artigo 4.º pelo DR.4/85.1985.01.15.MDN DR.IS [12]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-regulamentar/4-1985-328986
+  date: '1985-01-15'
+- type: repealed_by
+  target: pt:dre:408551:por
+  label: "Revogados os arts. 10º, 11º, 12º, 14º, 16º, 17º, 18º, 19º, 20º, 20º-A e 23º, na redacção do Dec 7/72, de 06-Jan,\
+    \ pelo DEC.685/76.1976.09.14.CR, DR.IS [216]\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto/685-1976-408551
+  date: '1976-09-14'
+- type: repealed_by
+  target: pt:dre:657439:por
+  label: "Revogado pelo DEC LEI.49/93.26.02.1993.MDN, DR.IS-A [48] de 26.02.1993\0\0"
+  source: https://diariodarepublica.pt/dr/analise-juridica/informacoes-gerais/decreto-lei/49-1993-657439
+  date: '1993-02-26'
 article_structure:
-  article_count: 1
+  article_count: 0
   section_count: 0
-  extraction_method: Cabeçalhos Markdown '###### Artigo'
+  extraction_method: Classes de parágrafo do TextoFormatado do DRE
 derived_material:
   machine_generated: true
-  notes: Markdown convertido a partir do texto do DRE na importação inicial; confirmar na fonte oficial.
+  notes: Markdown convertido do HTML TextoFormatado do DRE; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-21T00:00:00Z'
+  checked_at: '2026-10-22T20:04:53Z'
   warnings: []
   errors: []
 ---
@@ -95,7 +156,7 @@ Nestas condições, com o presente diploma procura-se, sòmente, melhorar nos as
 
 Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da Constituição, o Governo decreta e eu promulgo o seguinte:
 
-###### Artigo 1.º São criados no ramo naval do Ministério da Marinha os cargos de superintendente dos Serviços do Pessoal da Armada e de superintendente dos Serviços do Material da Armada e extinto o cargo de superintendente dos Serviços da Armada.
+Artigo 1.º São criados no ramo naval do Ministério da Marinha os cargos de superintendente dos Serviços do Pessoal da Armada e de superintendente dos Serviços do Material da Armada e extinto o cargo de superintendente dos Serviços da Armada.
 
 § 1.º Os cargos de superintendente dos Serviços do Pessoal da Armada e de superintendente dos Serviços do Material da Armada são exercidos por contra-almirantes.
 
@@ -105,15 +166,15 @@ Nestes termos, usando da faculdade conferida pelo n.º 3.º do artigo 109.º da 
 
 § 4.º Os superintendentes dos Serviços do Pessoal e do Material são vogais do Conselho Superior da Armada e do Conselho Técnico Naval.
 
-###### Art. 2.º Os superintendentes dos Serviços do Pessoal e do Material despacham directamente os assuntos relativos às suas atribuições com o Ministro da Marinha e com o chefe do Estado-Maior da Armada e para o exercício das suas funções:
+Art. 2.º Os superintendentes dos Serviços do Pessoal e do Material despacham directamente os assuntos relativos às suas atribuições com o Ministro da Marinha e com o chefe do Estado-Maior da Armada e para o exercício das suas funções:
 
 a) Utilizam como órgão de trabalho e de estudo as divisões do Estado-Maior da Armada que forem designadas pelo chefe do Estado-Maior da Armada;
 
 b) Dispõe cada um de uma secretaria.
 
-###### Art. 3.º Os superintendentes dos Serviços do Pessoal e do Material têm a competência criminal e disciplinar que era conferida ao superintendente dos Serviços da Armada pelo Regulamento de Disciplina Militar, pelo Código de Justiça Militar e pelo Regulamento para Execução do Código de Justiça da Armada. A delegação de competência do chefe do Estado-Maior da Armada em matéria de administração de justiça, estabelecida na legislação em vigor, recairá no superintendente dos Serviços do Pessoal.
+Art. 3.º Os superintendentes dos Serviços do Pessoal e do Material têm a competência criminal e disciplinar que era conferida ao superintendente dos Serviços da Armada pelo Regulamento de Disciplina Militar, pelo Código de Justiça Militar e pelo Regulamento para Execução do Código de Justiça da Armada. A delegação de competência do chefe do Estado-Maior da Armada em matéria de administração de justiça, estabelecida na legislação em vigor, recairá no superintendente dos Serviços do Pessoal.
 
-###### Art. 4.º Compete ao superintendente dos Serviços do Pessoal da Armada tratar de todos os assuntos relativos ao pessoal que pertence ao Ministério da Marinha, qualquer que seja o ramo em que preste serviço, com excepção das matérias que respeitem a administração financeira, tais como vencimentos, pensões, ajudas de custo e outras de idêntica natureza.
+Art. 4.º Compete ao superintendente dos Serviços do Pessoal da Armada tratar de todos os assuntos relativos ao pessoal que pertence ao Ministério da Marinha, qualquer que seja o ramo em que preste serviço, com excepção das matérias que respeitem a administração financeira, tais como vencimentos, pensões, ajudas de custo e outras de idêntica natureza.
 
 § 1.º Para os fins referidos no corpo deste artigo, o superintendente dos Serviços do Pessoal da Armada exerce autoridade funcional:
 
@@ -123,7 +184,7 @@ b) Em todos os estabelecimentos de ensino do ramo naval do Ministério da Marinh
 
 § 2.º A autoridade funcional do superintendente dos Serviços do Pessoal da Armada é exercida sem interferir nas nomeações e exonerações de pessoal que, de acordo com disposições legais, pertençam ao Ministro da Marinha ou ao chefe do Estado-Maior da Armada.
 
-###### Art. 5.º No exercício das suas funções, o superintendente dos Serviços do Pessoal da Armada dirige a Superintendência dos Serviços do Pessoal (S. S. P.), constituída pelos seguintes organismos:
+Art. 5.º No exercício das suas funções, o superintendente dos Serviços do Pessoal da Armada dirige a Superintendência dos Serviços do Pessoal (S. S. P.), constituída pelos seguintes organismos:
 
 a) Direcção do Serviço do Pessoal;
 
@@ -151,13 +212,13 @@ m) Conselho de Instrução da Armada;
 
 n) Comissão Permanente de Uniformes.
 
-###### Art. 6.º Na Direcção do Serviço do Pessoal, a 4.ª e 5.ª Repartições passam a ter, respectivamente, as designações de Pessoal Civil e de Bem-Estar, com as seguintes atribuições:
+Art. 6.º Na Direcção do Serviço do Pessoal, a 4.ª e 5.ª Repartições passam a ter, respectivamente, as designações de Pessoal Civil e de Bem-Estar, com as seguintes atribuições:
 
 a) 4.ª Repartição (Pessoal Civil) - Tratar de todos os assuntos relativos ao pessoal civil do Ministério de Marinha;
 
 b) Repartição (Bem-Estar) - Tratar dos assuntos respeitantes ao bem-estar do pessoal do Ministério da Marinha e respectivos agregados familiares, no que respeita, designadamente, a facilidades de habitação, assistência médica, cantinas e outros da mesma natureza.
 
-###### Art. 7.º A Direcção do Serviço de Instrução, que é dirigida por um capitão-de-mar-e-guerra, destina-se a tratar de todos os assuntos relativos à instrução do pessoal da Armada, com excepção dos que se referem ao ensino ministrado no Instituto Superior Naval de Guerra, competindo-lhes, especialmente:
+Art. 7.º A Direcção do Serviço de Instrução, que é dirigida por um capitão-de-mar-e-guerra, destina-se a tratar de todos os assuntos relativos à instrução do pessoal da Armada, com excepção dos que se referem ao ensino ministrado no Instituto Superior Naval de Guerra, competindo-lhes, especialmente:
 
 a) Estudar o planeamento anual dos cursos e instruções, incluindo os que são frequentados no estrangeiro:
 
@@ -183,11 +244,11 @@ l) Instruir os processos de nomeação dos professores e dos instrutores;
 
 m) Informar os pedidos de abono de gratificação de instrução e conferir os mapas de abono por acumulação de regências.
 
-###### Art. 8.º O Serviço de Justiça é chefiado por um capitão-de-mar-e-guerra e tem as atribuições que pertenciam à 4.ª Repartição (Justiça) da Direcção do Serviço do Pessoal.
+Art. 8.º O Serviço de Justiça é chefiado por um capitão-de-mar-e-guerra e tem as atribuições que pertenciam à 4.ª Repartição (Justiça) da Direcção do Serviço do Pessoal.
 
-###### Art. 9.º Os organismos da Superintendência dos Serviços do Pessoal referidos na alínea c) e nas alíneas e) a n) do artigo 5.º mantêm a estrutura e atribuições que estão em vigor.
+Art. 9.º Os organismos da Superintendência dos Serviços do Pessoal referidos na alínea c) e nas alíneas e) a n) do artigo 5.º mantêm a estrutura e atribuições que estão em vigor.
 
-###### Art. 10.º Compete ao superintendente dos Serviços do Material da Armada tratar de todos os assuntos de natureza técnica e logística relativos ao material do ramo naval do Ministério da Marinha e às infra-estruturas do mesmo Ministério, com excepção dos que, respeitando à administração financeira, pertençam, de acordo com a legislação em vigor, à Inspecção da Marinha ou à Direcção do Serviço de Administração Naval.
+Art. 10.º Compete ao superintendente dos Serviços do Material da Armada tratar de todos os assuntos de natureza técnica e logística relativos ao material do ramo naval do Ministério da Marinha e às infra-estruturas do mesmo Ministério, com excepção dos que, respeitando à administração financeira, pertençam, de acordo com a legislação em vigor, à Inspecção da Marinha ou à Direcção do Serviço de Administração Naval.
 
 § 1.º Para os fins referidos no corpo deste artigo, o superintendente dos Serviços do Material da Armada exerce autoridade funcional:
 
@@ -199,7 +260,7 @@ c) Em todos os organismos do Ministério da Marinha, no que respeita a infra-est
 
 § 2.º O superintendente dos Serviços do Material delegará normalmente no comandante da Base Naval de Lisboa a sua autoridade funcional, no que se refere a assuntos de logística de material respeitantes ao apoio às unidades estacionadas na área da sua jurisdição e, bem assim, nos respeitantes aos organismos que intervêm nesse apoio e dentro do âmbito do mesmo.
 
-###### Art. 11.º No exercício das suas funções o superintendente dos Serviços do Material da Armada dirige a Superintendência dos Serviços do Material (S. S. M.), constituída pelos seguintes organismos:
+Art. 11.º No exercício das suas funções o superintendente dos Serviços do Material da Armada dirige a Superintendência dos Serviços do Material (S. S. M.), constituída pelos seguintes organismos:
 
 a) Direcção das Construções Navais;
 
@@ -223,7 +284,7 @@ j) Comissão Permanente de Normalização de Impressos e Material de Arquivo;
 
 l) Comissão Permanente de Coordenação de Publicações Técnicas.
 
-###### Art. 12.º A Direcção das Construções Navais, que é dirigida por um comodoro engenheiro construtor naval, destina-se a tratar dos assuntos relativos à construção, modernização e reparação dos navios da Armada, competindo-lhe, especialmente:
+Art. 12.º A Direcção das Construções Navais, que é dirigida por um comodoro engenheiro construtor naval, destina-se a tratar dos assuntos relativos à construção, modernização e reparação dos navios da Armada, competindo-lhe, especialmente:
 
 a) Elaborar os estudos iniciais e projectos preliminares das novas construções e modernizações dos navios da Armada e promover a elaboração dos correspondentes projectos definitivos;
 
@@ -245,13 +306,13 @@ g) Elaborar e manter actualizadas as tabelas de armamento das unidades navais.
 
 § 3.º Em relação a trabalhos de reparação realizados nas oficinas das Direcções de Serviços da Superintendência dos Serviços do Material, nos serviços de assistência oficial dos comandos territoriais e das bases e nas oficinas das estações em terra ou das unidades navais, pode ser dispensado o parecer da Direcção das Construções Navais, de acordo com normas a promulgar por despacho do Ministro da Marinha.
 
-###### Art. 13.º É extinta a Inspecção de Construção Naval, passando todo o seu pessoal, material e instalações para a Direcção das Construções Navais.
+Art. 13.º É extinta a Inspecção de Construção Naval, passando todo o seu pessoal, material e instalações para a Direcção das Construções Navais.
 
-###### Art. 14.º À Direcção do Serviço de Máquinas, além das atribuições que presentemente lhe pertencem, passam a competir os estudos técnicos, informações e normas relativas ao material de limitação de avarias, assuntos que deixam de pertencer á Escola de Limitação de Avarias.
+Art. 14.º À Direcção do Serviço de Máquinas, além das atribuições que presentemente lhe pertencem, passam a competir os estudos técnicos, informações e normas relativas ao material de limitação de avarias, assuntos que deixam de pertencer á Escola de Limitação de Avarias.
 
-###### Art. 15.º É extinta a Direcção do Serviço do Material de Guerra e Tiro Naval, passando todo o seu pessoal, material, instalações e atribuições para a Direcção do Serviço de Armas Navais.
+Art. 15.º É extinta a Direcção do Serviço do Material de Guerra e Tiro Naval, passando todo o seu pessoal, material, instalações e atribuições para a Direcção do Serviço de Armas Navais.
 
-###### Art. 16.º A Direcção das Infra-Estruturas Navais, que é dirigida por um comodoro ou capitão-de-mar-e-guerra, destina-se a tratar dos assuntos relativos à manutenção, reparação e construção de infra-estruturas nacionais do Ministério da Marinha, competindo-lhe, especialmente:
+Art. 16.º A Direcção das Infra-Estruturas Navais, que é dirigida por um comodoro ou capitão-de-mar-e-guerra, destina-se a tratar dos assuntos relativos à manutenção, reparação e construção de infra-estruturas nacionais do Ministério da Marinha, competindo-lhe, especialmente:
 
 a) Estudar e manter actualizado o plano geral de construção de novas infra-estruturas e estudar e propor o plano anual das obras referentes a infra-estruturas e as alterações que no mesmo plano haja necessidade de introduzir;
 
@@ -275,7 +336,7 @@ j) Dirigir o serviço de obras privativo do Ministério da Marinha e distribuir 
 
 § único. Para efeitos do disposto na alínea e) do corpo deste artigo, é criada a Comissão Técnica de Infra-Estruturas Navais, presidida pelo director das Infra-Estruturas Navais e da qual farão parte, como vogais, delegados dos organismos indicados na mesma alínea e os oficiais que forem nomeados pelo Ministro da Marinha mediante proposta do superintendente dos Serviços do Material da Armada.
 
-###### Art. 17.º Quando por despacho do Ministro da Marinha for determinado que a Direcção de Infra-Estruturas Navais entre em funcionamento, são automàticamente extintas:
+Art. 17.º Quando por despacho do Ministro da Marinha for determinado que a Direcção de Infra-Estruturas Navais entre em funcionamento, são automàticamente extintas:
 
 a) A Comissão de Estudo das Instalações do Ministério da Marinha;
 
@@ -285,30 +346,30 @@ c) Os Serviços de património e de obras adstritos ao conselho administrativo d
 
 § único. Quando forem extintos os organismos a que se referem as alíneas a), b) e c) deste artigo, o pessoal, material e instalações dos mesmos organismos são transferidos para a Direcção de Infra-Estruturas Navais.
 
-###### Art. 18.º A Farmácia Central da Marinha é o organismo da Armada produtor e abastecedor central de artigos farmacêuticos, sendo provido para esse efeito com os adequados laboratórios e depósitos.
+Art. 18.º A Farmácia Central da Marinha é o organismo da Armada produtor e abastecedor central de artigos farmacêuticos, sendo provido para esse efeito com os adequados laboratórios e depósitos.
 
 § 1.º A Farmácia Central da Marinha é dirigida por um oficial superior da classe de farmacêuticos navais.
 
 § 2.º Enquanto a Farmácia Central da Marinha não entrar em funcionamento, as funções que lhe pertencerão são exercidas pela farmácia do Hospital da Marinha.
 
-###### Art. 19.º Os organismos da Superintendência dos Serviços do Material referidos nas alíneas d), e), g), h), j) e l) do artigo 11.º mantêm a estrutura e atribuições que estão em vigor, sem prejuízo do disposto no artigo 20.º
+Art. 19.º Os organismos da Superintendência dos Serviços do Material referidos nas alíneas d), e), g), h), j) e l) do artigo 11.º mantêm a estrutura e atribuições que estão em vigor, sem prejuízo do disposto no artigo 20.º
 
-###### Art. 20.º Enquanto não for reorganizado o ramo de administração financeira do Ministério da Marinha, a Direcção do Serviço de Administração Naval passa a ficar na directa dependência do Ministro da Marinha e as atribuições relativas a abastecimentos que pertenciam a esta Direcção passam a competir à Direcção do Serviço de Abastecimento.
+Art. 20.º Enquanto não for reorganizado o ramo de administração financeira do Ministério da Marinha, a Direcção do Serviço de Administração Naval passa a ficar na directa dependência do Ministro da Marinha e as atribuições relativas a abastecimentos que pertenciam a esta Direcção passam a competir à Direcção do Serviço de Abastecimento.
 
-###### Art. 21.º São extintas a Direcção do Serviço de Submersíveis e a Comissão Técnica de Submersíveis, estabelecendo o Ministro da Marinha, por portaria, as entidades ou organismos que passam a desempenhar as funções que pertenciam àqueles organismos.
+Art. 21.º São extintas a Direcção do Serviço de Submersíveis e a Comissão Técnica de Submersíveis, estabelecendo o Ministro da Marinha, por portaria, as entidades ou organismos que passam a desempenhar as funções que pertenciam àqueles organismos.
 
-###### Art. 22.º As messes que presentemente funcionam na dependência da Superintendência dos Serviços da Armada passam a depender dos comandos com jurisdição nas áreas onde estão localizadas, conforme for determinado por despacho do Ministro da Marinha.
+Art. 22.º As messes que presentemente funcionam na dependência da Superintendência dos Serviços da Armada passam a depender dos comandos com jurisdição nas áreas onde estão localizadas, conforme for determinado por despacho do Ministro da Marinha.
 
-###### Art. 23.º A estrutura orgânica e as atribuições dos vários organismos que constituem as Superintendências dos Serviços do Pessoal e do Material podem ser estabelecidas ou alteradas por portaria do Ministro da Marinha e os regulamentos internos dos mesmos organismos são postos em vigor por despacho daquele Ministro.
+Art. 23.º A estrutura orgânica e as atribuições dos vários organismos que constituem as Superintendências dos Serviços do Pessoal e do Material podem ser estabelecidas ou alteradas por portaria do Ministro da Marinha e os regulamentos internos dos mesmos organismos são postos em vigor por despacho daquele Ministro.
 
-###### Art. 24.º As alterações que este diploma introduz na estrutura orgânica da administração central da Marinha entrarão em vigor gradual e parcelarmente, por despacho do Ministro da Marinha, de maneira a não ser perturbado o funcionamento normal dos serviços.
+Art. 24.º As alterações que este diploma introduz na estrutura orgânica da administração central da Marinha entrarão em vigor gradual e parcelarmente, por despacho do Ministro da Marinha, de maneira a não ser perturbado o funcionamento normal dos serviços.
 
-###### Art. 25.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
+Art. 25.º As dúvidas ou casos omissos serão resolvidos por despacho do Ministro da Marinha.
 
 Marcello Caetano - Horácio José de Sá Viana Rebelo - Manuel Pereira Crespo - Rui Alves da Silva Sanches.
 
-**Promulgado em 6 de Novembro de 1968.**
+Promulgado em 6 de Novembro de 1968.
 
-**Publique-se.**
+Publique-se.
 
 Presidência da República, 16 de Novembro de 1968. - AMÉRICO DEUS RODRIGUES THOMAZ.
