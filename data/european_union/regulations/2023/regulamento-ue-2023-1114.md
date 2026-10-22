@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2023-1114.versoes.json
+  count: 1
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2024-01-09'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32023R1114
   eli: http://data.europa.eu/eli/reg/2023/1114/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/01d55833-0660-11ee-b12e-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/92d9c8a8-b47a-11ee-b164-01aa75ed71a1.0020.02/DOC_4
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R1114-20240109
-  retrieved_at: '2026-10-22T02:40:03Z'
+  retrieved_at: '2026-10-22T17:16:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T19:37:19.547+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:03Z'
-  notes: Texto consolidado 02023R1114-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:36Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2023-1114.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -374,35 +383,20 @@ relationships:
   date: '2025-07-01'
 article_structure:
   article_count: 150
-  section_count: 88
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 89
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:03Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:36Z'
+  warnings:
+  - '02023R1114-20230609: versão indisponível (Sem expressão na língua por para CELEX 02023R1114-20230609.)'
   errors: []
 ---
 
 # Regulamento (UE) 2023/1114 do Parlamento Europeu e do Conselho, de 31 de maio de 2023
-
-> 02023R1114 — PT — 09.01.2024 — 001.005
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R1114R%2803%29) — [Rectificação, JO L 90275, 2.5.2024, p. 1 (2023/1114)](http://publications.europa.eu/resource/celex/32023R1114R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R1114R%2804%29) — [Rectificação, JO L 90658, 30.10.2024, p. 1 (2023/1114)](http://publications.europa.eu/resource/celex/32023R1114R%2804%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023R1114R%2805%29) — [Rectificação, JO L 90077, 28.1.2025, p. 1 (2023/1114)](http://publications.europa.eu/resource/celex/32023R1114R%2805%29)
-
-## REGULAMENTO (UE) 2023/1114 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 31 de maio de 2023
 

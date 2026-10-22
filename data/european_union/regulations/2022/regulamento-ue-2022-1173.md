@@ -37,6 +37,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-06'
+version_history:
+  file: regulamento-ue-2022-1173.versoes.json
+  count: 4
+  source_lastmod: '2026-08-06'
+  versions:
+  - date: '2022-07-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-09-08'
+    amending: eu:celex:32024R2202:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2202 DA COMISSÃO de 4 de setembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos para o sistema de pedidos de ajuda
+    - Altera Artigo 8.º — Pedido geoespacial
+    - Altera Artigo 10.º — Sistema de vigilância de superfícies
+    - Altera Artigo 14.º — Revogação
+    - Altera Artigo 15.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32026R0148:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/148 DA COMISSÃO de 21 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos para o sistema de pedidos de ajuda
+    - Altera Artigo 8.º — Pedido geoespacial
+    - Altera Notas
+    - Adita Artigo 2.º — Relatório de avaliação da qualidade
+    - Suprime Artigo 2.º — Relatórios de avaliação da qualidade
+  - date: '2026-08-06'
+    amending: eu:celex:32026R1905:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1905 DA COMISSÃO de 31 de julho de 2026
+    changes:
+    - Altera Artigo 5.º — Requisitos para o sistema de pedidos de ajuda
+    - Altera Artigo 7.º — Alterações ou retiradas de pedidos de ajuda
+    - Altera Artigo 8.º — Pedido geoespacial
+    - Altera Notas
 identifiers:
   celex: 32022R1173
   eli: http://data.europa.eu/eli/reg_impl/2022/1173/oj
@@ -51,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/80529bc7-fe57-11ec-b94a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5b048485-ac80-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1173-20260806
-  retrieved_at: '2026-10-22T03:01:34Z'
+  retrieved_at: '2026-10-22T17:15:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T14:38:21.237+02:00'
 integrity:
@@ -60,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:34Z'
-  notes: Texto consolidado 02022R1173-20260806.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:57Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2022-1173.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -194,31 +233,19 @@ relationships:
   date: '2014-07-31'
 article_structure:
   article_count: 15
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:34Z'
+  checked_at: '2026-10-22T17:15:57Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2022/1173 da Comissão de 31 de maio de 2022
-
-> 02022R1173 — PT — 06.08.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R2202) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2202 DA COMISSÃO de 4 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2202) — L 2202 — 1 — 5.9.2024
-- [►M2](http://publications.europa.eu/resource/celex/32026R0148) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/148 DA COMISSÃO de 21 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0148) — L 148 — 1 — 22.1.2026
-- [►M3](http://publications.europa.eu/resource/celex/32026R1905) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1905 DA COMISSÃO de 31 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1905) — L 1905 — 1 — 3.8.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2022/1173 DA COMISSÃO
 
 de 31 de maio de 2022
 

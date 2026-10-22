@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-03'
+version_history:
+  file: decisao-ue-2026-1425.versoes.json
+  count: 1
+  source_lastmod: '2026-07-03'
+  versions:
+  - date: '2026-07-03'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026D1425
   eli: http://data.europa.eu/eli/dec_impl/2026/1425/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/83c8e500-7678-11f1-bf5e-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1425-20260703
-  retrieved_at: '2026-10-22T03:49:29Z'
+  retrieved_at: '2026-10-22T17:20:05Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-07-03T03:02:17.945+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:49:29Z'
-  notes: Texto consolidado 02026D1425-20260703.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:20:05Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2026-1425.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -143,30 +152,19 @@ relationships:
   date: '2023-12-01'
 article_structure:
   article_count: 12
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:49:29Z'
+  checked_at: '2026-10-22T17:20:05Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/1425 da Comissão, de 30 de junho de 2026
-
-> 02026D1425 — PT — 03.07.2026 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026D1425R%2801%29) — [Rectificação, JO L 90601, 20.7.2026, p. 1 ((UE) 2026/14252026/1425)](http://publications.europa.eu/resource/celex/32026D1425R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32026D1425R%2802%29) — [Rectificação, JO L 90635, 31.7.2026, p. 1 ((UE) 2026/14252026/1425)](http://publications.europa.eu/resource/celex/32026D1425R%2802%29)
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/1425 DA COMISSÃO
 
 de 30 de junho de 2026
 

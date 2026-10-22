@@ -38,6 +38,158 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-28'
+version_history:
+  file: regulamento-ue-2018-1726.versoes.json
+  count: 6
+  source_lastmod: '2025-01-28'
+  versions:
+  - date: '2018-11-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-11'
+    amending: eu:celex:32019R0816:por
+    amending_title: REGULAMENTO (UE) 2019/816 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019; REGULAMENTO (UE)
+      2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019; M3
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º — Qualidade dos dados
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Artigo 2.º
+    - Adita Artigo 3.º
+    - Adita Artigo 4.º
+    - Adita Artigo 5.º
+    - Adita Artigo 6.º
+    - Adita Artigo 7.º
+    - Adita Artigo 8.º
+    - Adita Artigo 8.º-A — Funções relacionadas com o ECRIS-TCN e a aplicação de referência do ECRIS
+    - Adita Artigo 9.º
+    - Adita Artigo 10.º
+    - Adita Artigo 11.º
+    - Adita Artigo 13.º
+    - Adita Artigo 14.º
+    - Adita Artigo 15.º
+    - Adita Artigo 16.º
+    - Adita Artigo 17.º
+    - Adita Artigo 18.º
+    - Adita Artigo 19.º
+    - Adita Artigo 20.º
+    - Adita Artigo 21.º
+    - Adita Artigo 22.º
+    - Adita Artigo 23.º
+    - Adita Artigo 24.º
+    - Adita Artigo 25.º
+    - Adita Artigo 26.º
+    - Adita Artigo 27.º
+    - Adita Artigo 28.º
+    - Adita Artigo 29.º
+    - Adita Artigo 30.º
+    - Adita Artigo 31.º
+    - Adita Artigo 32.º
+    - Adita Artigo 33.º
+    - Adita Artigo 34.º
+    - Adita Artigo 35.º
+    - Adita Artigo 36.º
+    - Adita Artigo 37.º
+  - date: '2022-06-21'
+    amending: eu:celex:32022R0850:por
+    amending_title: REGULAMENTO (UE) 2022/850 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A — Funções relacionadas com o ECRIS-TCN e a aplicação de referência do ECRIS
+    - Altera Artigo 12.º — Qualidade dos dados
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 27.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 50.º
+    - Altera Notas
+    - Adita Artigo 8.º-B — Atribuições relacionadas com o sistema e-CODEX
+  - date: '2023-06-06'
+    amending: eu:celex:32023R0969:por
+    amending_title: REGULAMENTO (UE) 2023/969 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera Artigo 1.º
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A — Funções relacionadas com o ECRIS-TCN e a aplicação de referência do ECRIS
+    - Altera Artigo 8.º-B — Atribuições relacionadas com o sistema e-CODEX
+    - Altera Artigo 12.º — Qualidade dos dados
+    - Altera Artigo 14.º
+    - Altera Artigo 16.º
+    - Altera Artigo 19.º
+    - Altera Artigo 27.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 50.º
+    - Altera Notas
+    - Adita Artigo 8.º-C — Atribuições relativas à plataforma de colaboração das equipas de investigação conjuntas
+  - date: '2024-04-25'
+    amending: eu:celex:32024R0982:por
+    amending_title: REGULAMENTO (UE) 2024/982 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 8.º
+    - Altera Artigo 8.º-A — Funções relacionadas com o ECRIS-TCN e a aplicação de referência do ECRIS
+    - Altera Artigo 8.º-B — Atribuições relacionadas com o sistema e-CODEX
+    - Altera Artigo 8.º-C — Atribuições relativas à plataforma de colaboração das equipas de investigação conjuntas
+    - Altera Artigo 12.º — Qualidade dos dados
+    - Altera Artigo 16.º
+    - Altera Artigo 17.º
+    - Altera Artigo 19.º
+    - Altera Artigo 33.º
+    - Altera Artigo 37.º
+    - Altera Artigo 50.º
+    - Altera Notas
+    - Adita Artigo 8.º-D — Funções relativas ao encaminhador de Prüm II
+  - date: '2025-01-28'
+    amending: eu:celex:32025R0012:por
+    amending_title: REGULAMENTO (UE) 2025/12 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 8.º-A — Funções relacionadas com o ECRIS-TCN e a aplicação de referência do ECRIS
+    - Altera Artigo 8.º-B — Atribuições relacionadas com o sistema e-CODEX
+    - Altera Artigo 8.º-C — Atribuições relativas à plataforma de colaboração das equipas de investigação conjuntas
+    - Altera Artigo 8.º-D — Funções relativas ao encaminhador de Prüm II
+    - Altera Artigo 12.º — Qualidade dos dados
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 2.º — Objetivos
+    - Adita Artigo 3.º — Atribuições relativas ao SIS II
+    - Adita Artigo 4.º — Atribuições relativas ao VIS
+    - Adita Artigo 5.º — Atribuições relativas ao Eurodac
+    - Adita Artigo 6.º — Atribuições relativas ao SES
+    - Adita Artigo 7.º — Atribuições relativas ao ETIAS
+    - Adita Artigo 8.º — Atribuições relativas à DubliNet
+    - Adita Artigo 9.º — Atribuições relativas à conceção, ao desenvolvimento e à gestão operacional de outros sistemas informáticos
+      de grande escala
+    - Adita Artigo 10.º — Soluções técnicas que exigem condições específicas antes da sua aplicação
+    - Adita Artigo 11.º — Atribuições relativas à infraestrutura de comunicação
+    - Adita Artigo 13.º — Interoperabilidade
+    - Adita Artigo 13.º-A — Funções relacionadas com o encaminhador
+    - Adita Artigo 14.º — Acompanhamento de atividades de investigação
+    - Adita Artigo 15.º — Projetos-piloto, provas de conceito e atividades de ensaio
+    - Adita Artigo 16.º — Apoio aos Estados Membros e à Comissão
+    - Adita Artigo 17.º — Estatuto jurídico e sede
+    - Adita Artigo 18.º — Estrutura
+    - Adita Artigo 19.º — Funções do Conselho de Administração
+    - Adita Artigo 20.º — Composição do Conselho de Administração
+    - Adita Artigo 21.º — Presidência do Conselho de Administração
+    - Adita Artigo 22.º — Reuniões do Conselho de Administração
+    - Adita Artigo 23.º — Regras de votação no Conselho de Administração
+    - Adita Artigo 24.º — Competências do diretor-executivo
+    - Adita Artigo 25.º — Nomeação do diretor-executivo
+    - Adita Artigo 26.º — Diretor-executivo adjunto
+    - Adita Artigo 27.º — Grupos consultivos
+    - Adita Artigo 28.º — Pessoal
+    - Adita Artigo 29.º — Interesse público
+    - Adita Artigo 30.º — Acordo de sede e acordos sobre as instalações técnicas
+    - Adita Artigo 31.º — Privilégios e imunidades
+    - Adita Artigo 32.º — Responsabilidade
+    - Adita Artigo 33.º — Regime linguístico
+    - Adita Artigo 34.º — Transparência e comunicação
 identifiers:
   celex: 32018R1726
   eli: http://data.europa.eu/eli/reg/2018/1726/oj
@@ -52,7 +204,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/bac6d1a0-ed62-11e8-b690-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a5a5dd82-e30f-11ef-be2a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1726-20250128
-  retrieved_at: '2026-10-22T03:01:01Z'
+  retrieved_at: '2026-10-22T17:06:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T12:55:56.029+01:00'
 integrity:
@@ -61,9 +213,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:01Z'
-  notes: Texto consolidado 02018R1726-20250128.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:31Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2018-1726.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -483,40 +635,19 @@ relationships:
   date: '2011-11-03'
 article_structure:
   article_count: 63
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:01Z'
+  checked_at: '2026-10-22T17:06:31Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2018/1726 do Parlamento Europeu e do Conselho, de 14 de novembro de 2018
-
-> 02018R1726 — PT — 28.01.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0816) — [REGULAMENTO (UE) 2019/816 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de abril de 2019](http://publications.europa.eu/resource/celex/32019R0816) — L 135 — 1 — 22.5.2019
-- [►M2](http://publications.europa.eu/resource/celex/32019R0817) — [REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0817) — L 135 — 27 — 22.5.2019
-- [M3](http://publications.europa.eu/resource/celex/32019R0818) — [REGULAMENTO (UE) 2019/818 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0818) — L 135 — 85 — 22.5.2019
-- [►M4](http://publications.europa.eu/resource/celex/32022R0850) — [REGULAMENTO (UE) 2022/850 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0850) — L 150 — 1 — 1.6.2022
-- [►M5](http://publications.europa.eu/resource/celex/32023R0969) — [REGULAMENTO (UE) 2023/969 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0969) — L 132 — 1 — 17.5.2023
-- [►M6](http://publications.europa.eu/resource/celex/32024R0982) — [REGULAMENTO (UE) 2024/982 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0982) — L 982 — 1 — 5.4.2024
-- [►M7](http://publications.europa.eu/resource/celex/32025R0012) — [REGULAMENTO (UE) 2025/12 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0012) — L 12 — 1 — 8.1.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0817R%2801%29) — [Rectificação, JO L 010, 15.1.2020, p. 4 (2019/817)](http://publications.europa.eu/resource/celex/32019R0817R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32019R0818R%2801%29) — [Rectificação, JO L 010, 15.1.2020, p. 5 (2019/818)](http://publications.europa.eu/resource/celex/32019R0818R%2801%29)
-
-## REGULAMENTO (UE) 2018/1726 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de novembro de 2018
 

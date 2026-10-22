@@ -36,6 +36,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-24'
+version_history:
+  file: decisao-ue-2026-1706.versoes.json
+  count: 2
+  source_lastmod: '2026-07-24'
+  versions:
+  - date: '2026-07-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-24'
+    amending: eu:celex:32026D1827:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1827 DA COMISSÃO de 23 de julho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º
+    - Adita ANEXO I
+    - 'Adita Parte A: áreas estabelecidas a nível da União como zonas submetidas a restrições, incluindo zonas de proteção
+      e de vigilância, na Croácia'
+    - 'Adita Parte B: áreas definidas como outras zonas submetidas a restrições a nível da União na Croácia'
+    - Adita ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32026D1706
   eli: http://data.europa.eu/eli/dec_impl/2026/1706/oj
@@ -50,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9b559e9e-7e57-11f1-bf5e-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/63694ffe-a0ef-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1706-20260724
-  retrieved_at: '2026-10-22T03:50:40Z'
+  retrieved_at: '2026-10-22T17:20:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-07-13T03:21:35.819+02:00'
 integrity:
@@ -59,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:50:40Z'
-  notes: Texto consolidado 02026D1706-20260724.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:20:22Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2026-1706.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,28 +141,18 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:50:40Z'
+  checked_at: '2026-10-22T17:20:22Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/1706 da Comissão, de 8 de julho de 2026
-
-> 02026D1706 — PT — 24.07.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026D1827) — [DECISÃO DE EXECUÇÃO (UE) 2026/1827 DA COMISSÃO de 23 de julho de 2026](http://publications.europa.eu/resource/celex/32026D1827) — L 1827 — 1 — 24.7.2026
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/1706 DA COMISSÃO
 
 de 8 de julho de 2026
 

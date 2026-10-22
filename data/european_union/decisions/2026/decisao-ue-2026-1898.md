@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-31'
+version_history:
+  file: decisao-ue-2026-1898.versoes.json
+  count: 1
+  source_lastmod: '2026-07-31'
+  versions:
+  - date: '2026-07-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026D1898
   eli: http://data.europa.eu/eli/dec/2026/1898/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/592ed2a8-8c7c-11f1-9262-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/80a5f817-ac8e-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1898-20260731
-  retrieved_at: '2026-10-22T03:55:28Z'
+  retrieved_at: '2026-10-22T17:20:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-08-25T12:09:17.689+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:55:28Z'
-  notes: Texto consolidado 02026D1898-20260731.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:20:41Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2026-1898.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -90,28 +99,18 @@ relationships:
 article_structure:
   article_count: 2
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:55:28Z'
+  checked_at: '2026-10-22T17:20:41Z'
   warnings: []
   errors: []
 ---
 
 # Decisão (UE, Euratom) 2026/1898 do Parlamento Europeu, do Conselho e da Comissão, de 24 de julho de 2026
-
-> 02026D1898 — PT — 31.07.2026 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026D1898R%2801%29) — [Rectificação, JO L 90712, 25.8.2026, p. 1 (2026/1898)](http://publications.europa.eu/resource/celex/32026D1898R%2801%29)
-
-## DECISÃO (UE, Euratom) 2026/1898 DO PARLAMENTO EUROPEU, DO CONSELHO E DA COMISSÃO,
 
 de 24 de julho de 2026,
 

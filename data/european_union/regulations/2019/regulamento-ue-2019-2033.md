@@ -38,6 +38,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2019-2033.versoes.json
+  count: 2
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2019-12-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 9.º — Composição dos fundos próprios
+    - Altera Artigo 15.º — Requisito do fator K e coeficientes aplicáveis
+    - Altera Artigo 43.º — Requisito de liquidez
+    - Altera Artigo 51.º — Políticas e práticas em matéria de remuneração
+    - Altera Artigo 61.º — Alteração do Regulamento (UE) n.º 1093/2010
+    - Altera Artigo 62.º — Alteração do Regulamento (UE) n.º 575/2013
+    - Altera Artigo 63.º — Alteração do Regulamento (UE) n.º 600/2014
+    - Altera Artigo 64.º — Alteração do Regulamento (UE) n.º 806/2014
+    - Altera Notas
+    - Adita Artigo 46.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32019R2033
   eli: http://data.europa.eu/eli/reg/2019/2033/oj
@@ -52,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7b95dd79-1746-11ea-8c1f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/043303c6-b9e7-11ee-b164-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R2033-20240109
-  retrieved_at: '2026-10-22T02:49:25Z'
+  retrieved_at: '2026-10-22T17:10:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T14:17:58.851+01:00'
 integrity:
@@ -61,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:25Z'
-  notes: Texto consolidado 02019R2033-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:06Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2019-2033.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -289,34 +313,19 @@ relationships:
   date: '2026-07-21'
 article_structure:
   article_count: 67
-  section_count: 52
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:25Z'
+  checked_at: '2026-10-22T17:10:06Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/2033 do Parlamento Europeu e do Conselho de 27 de novembro de 2019
-
-> 02019R2033 — PT — 09.01.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R2033R%2802%29) — [Rectificação, JO L 020, 24.1.2020, p. 26 (2019/2033)](http://publications.europa.eu/resource/celex/32019R2033R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R2033R%2805%29) — [Rectificação, JO L 405, 2.12.2020, p. 79 (2019/2033)](http://publications.europa.eu/resource/celex/32019R2033R%2805%29)
-
-## REGULAMENTO (UE) 2019/2033 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de novembro de 2019
 

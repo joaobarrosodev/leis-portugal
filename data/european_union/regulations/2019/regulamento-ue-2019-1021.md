@@ -35,6 +35,207 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-30'
+version_history:
+  file: regulamento-ue-2019-1021.versoes.json
+  count: 15
+  source_lastmod: '2026-09-30'
+  versions:
+  - date: '2019-06-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-04'
+    amending: eu:celex:32020R0784:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/784 DA COMISSÃO de 8 de abril de 2020
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2020-09-07'
+    amending: eu:celex:32020R1203:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/1203 DA COMISSÃO de 9 de junho de 2020; REGULAMENTO DELEGADO (UE) 2020/1204
+      DA COMISSÃO de 9 de junho de 2020
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2021-02-22'
+    amending: eu:celex:32021R0115:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/115 DA COMISSÃO de 27 de novembro de 2020
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2021-03-15'
+    amending: eu:celex:32021R0277:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/277 DA COMISSÃO de 16 de dezembro de 2020
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2022-12-13'
+    amending: eu:celex:32022R2291:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2291 DA COMISSÃO de 8 de setembro de 2022
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2023-06-10'
+    amending: eu:celex:32022R2400:por
+    amending_title: REGULAMENTO (UE) 2022/2400 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+    - Adita Artigo 21.º-A — Disposição transitória
+  - date: '2023-08-18'
+    amending: eu:celex:32023R0866:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/866 DA COMISSÃO de 24 de fevereiro de 2023
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2023-08-28'
+    amending: eu:celex:32023R1608:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1608 DA COMISSÃO de 30 de maio de 2023
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2024-10-17'
+    amending: eu:celex:32024R2555:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2555 DA COMISSÃO de 21 de março de 2024; REGULAMENTO DELEGADO (UE) 2024/2570
+      DA COMISSÃO de 22 de julho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2025-08-04'
+    amending: eu:celex:32025R0718:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/718 DA COMISSÃO de 14 de abril de 2025; REGULAMENTO DELEGADO (UE) 2025/1399
+      DA COMISSÃO de 5 de maio de 2025; REGULAMENTO DELEGADO (UE) 2025/843 DA COMISSÃO de 5 de maio de 2025
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2025-10-15'
+    amending: eu:celex:32025R1930:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1930 DA COMISSÃO de 15 de maio de 2025
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2025-12-03'
+    amending: eu:celex:32025R1482:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1482 DA COMISSÃO de 24 de julho de 2025
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2457:por
+    amending_title: REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Artigo 8.º — Atribuições da Agência e Fórum
+    - Altera Artigo 13.º — Acompanhamento da aplicação
+    - Altera Artigo 15.º — Alteração dos anexos
+    - Altera Artigo 18.º — Exercício da delegação
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
+    - Adita Artigo 21.º-B — Reexame
+  - date: '2026-09-30'
+    amending: eu:celex:32026R1423:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1423 DA COMISSÃO de 30 de junho de 2026
+    changes:
+    - Altera Artigo 5.º — Material acumulado
+    - Altera Artigo 6.º — Redução, minimização e eliminação das libertações
+    - Altera Artigo 7.º — Gestão de resíduos
+    - Altera Substâncias inscritas na Convenção e no Protocolo e substâncias inscritas apenas na Convenção
+    - Altera PARTE B
+    - Altera Lista das substâncias sujeitas às disposições em matéria de gestão de resíduos estabelecidas no artigo 7.º
+    - Altera Eliminação e valorização, nos termos do artigo 7.º, n.º 2
+    - Altera Resíduos e operações aos quais é aplicável o artigo 7.º, n.º 4, alínea b)
+    - Altera Notas
 identifiers:
   celex: 32019R1021
   eli: http://data.europa.eu/eli/reg/2019/1021/oj
@@ -49,7 +250,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f8fff4c0-9712-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ee0b3b7c-b6c2-11f1-81de-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1021-20260930
-  retrieved_at: '2026-10-22T03:19:13Z'
+  retrieved_at: '2026-10-22T17:09:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T22:38:11+01:00'
 integrity:
@@ -58,9 +259,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:13Z'
-  notes: Texto consolidado 02019R1021-20260930.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:14Z'
+  notes: 15 versão(ões); histórico completo em regulamento-ue-2019-1021.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -374,54 +575,19 @@ relationships:
   date: '2019-04-24'
 article_structure:
   article_count: 24
-  section_count: 27
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 28
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:13Z'
+  checked_at: '2026-10-22T17:09:14Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/1021 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019R1021 — PT — 30.09.2026 — 014.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0784) — [REGULAMENTO DELEGADO (UE) 2020/784 DA COMISSÃO de 8 de abril de 2020](http://publications.europa.eu/resource/celex/32020R0784) — L 188I — 1 — 15.6.2020
-- [►M2](http://publications.europa.eu/resource/celex/32020R1203) — [REGULAMENTO DELEGADO (UE) 2020/1203 DA COMISSÃO de 9 de junho de 2020](http://publications.europa.eu/resource/celex/32020R1203) — L 270 — 1 — 18.8.2020
-- [►M3](http://publications.europa.eu/resource/celex/32020R1204) — [REGULAMENTO DELEGADO (UE) 2020/1204 DA COMISSÃO de 9 de junho de 2020](http://publications.europa.eu/resource/celex/32020R1204) — L 270 — 4 — 18.8.2020
-- [►M4](http://publications.europa.eu/resource/celex/32021R0115) — [REGULAMENTO DELEGADO (UE) 2021/115 DA COMISSÃO de 27 de novembro de 2020](http://publications.europa.eu/resource/celex/32021R0115) — L 36 — 7 — 2.2.2021
-- [►M5](http://publications.europa.eu/resource/celex/32021R0277) — [REGULAMENTO DELEGADO (UE) 2021/277 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0277) — L 62 — 1 — 23.2.2021
-- [►M6](http://publications.europa.eu/resource/celex/32022R2291) — [REGULAMENTO DELEGADO (UE) 2022/2291 DA COMISSÃO de 8 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R2291) — L 303 — 19 — 23.11.2022
-- [►M7](http://publications.europa.eu/resource/celex/32022R2400) — [REGULAMENTO (UE) 2022/2400 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2400) — L 317 — 24 — 9.12.2022
-- [►M8](http://publications.europa.eu/resource/celex/32023R0866) — [REGULAMENTO DELEGADO (UE) 2023/866 DA COMISSÃO de 24 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0866) — L 113 — 5 — 28.4.2023
-- [►M9](http://publications.europa.eu/resource/celex/32023R1608) — [REGULAMENTO DELEGADO (UE) 2023/1608 DA COMISSÃO de 30 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1608) — L 198 — 24 — 8.8.2023
-- [►M10](http://publications.europa.eu/resource/celex/32024R2555) — [REGULAMENTO DELEGADO (UE) 2024/2555 DA COMISSÃO de 21 de março de 2024](http://publications.europa.eu/resource/celex/32024R2555) — L 2555 — 1 — 27.9.2024
-- [►M11](http://publications.europa.eu/resource/celex/32024R2570) — [REGULAMENTO DELEGADO (UE) 2024/2570 DA COMISSÃO de 22 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2570) — L 2570 — 1 — 27.9.2024
-- [►M12](http://publications.europa.eu/resource/celex/32025R0718) — [REGULAMENTO DELEGADO (UE) 2025/718 DA COMISSÃO de 14 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0718) — L 718 — 1 — 27.6.2025
-- [►M13](http://publications.europa.eu/resource/celex/32025R1399) — [REGULAMENTO DELEGADO (UE) 2025/1399 DA COMISSÃO de 5 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1399) — L 1399 — 1 — 14.7.2025
-- [►M14](http://publications.europa.eu/resource/celex/32025R0843) — [REGULAMENTO DELEGADO (UE) 2025/843 DA COMISSÃO de 5 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0843) — L 843 — 1 — 15.7.2025
-- [►M15](http://publications.europa.eu/resource/celex/32025R1930) — [REGULAMENTO DELEGADO (UE) 2025/1930 DA COMISSÃO de 15 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1930) — L 1930 — 1 — 25.9.2025
-- [►M16](http://publications.europa.eu/resource/celex/32025R1482) — [REGULAMENTO DELEGADO (UE) 2025/1482 DA COMISSÃO de 24 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1482) — L 1482 — 1 — 28.10.2025
-- [►M17](http://publications.europa.eu/resource/celex/32025R2457) — [REGULAMENTO (UE) 2025/2457 DO PARLAMENTO EUROPEU E DO CONSELHO de 26 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2457) — L 2457 — 1 — 12.12.2025
-- [►M18](http://publications.europa.eu/resource/celex/32026R1423) — [REGULAMENTO DELEGADO (UE) 2026/1423 DA COMISSÃO de 30 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1423) — L 1423 — 1 — 10.9.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1021R%2801%29) — [Rectificação, JO L 179I, 9.6.2020, p. 4 (2019/1021)](http://publications.europa.eu/resource/celex/32019R1021R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020R0784R%2802%29) — [Rectificação, JO L 220, 9.7.2020, p. 11 (2020/784)](http://publications.europa.eu/resource/celex/32020R0784R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32022R2400R%2801%29) — [Rectificação, JO L 328, 22.12.2022, p. 169 (2022/2400)](http://publications.europa.eu/resource/celex/32022R2400R%2801%29)
-- [►C4](http://publications.europa.eu/resource/celex/32022R2400R%2803%29) — [Rectificação, JO L 163, 29.6.2023, p. 104 ((UE) 2022/2400)](http://publications.europa.eu/resource/celex/32022R2400R%2803%29)
-- [►C5](http://publications.europa.eu/resource/celex/32019R1021R%2802%29) — [Rectificação, JO L 90739, 19.11.2024, p. 1 (2019/1021)](http://publications.europa.eu/resource/celex/32019R1021R%2802%29)
-
-## REGULAMENTO (UE) 2019/1021 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

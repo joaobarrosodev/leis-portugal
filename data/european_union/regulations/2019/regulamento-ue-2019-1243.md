@@ -36,6 +36,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-01-12'
+version_history:
+  file: regulamento-ue-2019-1243.versoes.json
+  count: 2
+  source_lastmod: '2023-01-12'
+  versions:
+  - date: '2019-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-12'
+    amending: eu:celex:32022L1999:por
+    amending_title: DIRETIVA (UE) 2022/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022; DIRETIVA (UE) 2022/2561
+      DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita I. REDES DE COMUNICAÇÃO, CONTEÚDOS E TECNOLOGIAS
+    - Adita 1. Regulamento (CE) n.º 733/2002 do Parlamento Europeu e do Conselho, de 22 de abril de 2002, relativo à implementação
+      do domínio de topo.eu ([^1^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0001))
+    - Adita 2. Decisão n.º 626/2008/CE do Parlamento Europeu e do Conselho, de 30 de junho de 2008, relativa à seleção e autorização
+      de sistemas que oferecem serviços móveis por satélite (MSS) ([^2^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0003))
+    - Adita II. AJUDA HUMANITÁRIA E PROTEÇÃO CIVIL
+    - Adita III. EMPREGO, ASSUNTOS SOCIAIS E INCLUSÃO
+    - Adita 1. Diretiva 89/654/CEE do Conselho, de 30 de novembro de 1989, relativa às prescrições mínimas de segurança e
+      de saúde para os locais de trabalho (primeira diretiva especial, na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE)
+      ([^4^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0005))
+    - Adita 2. Diretiva 89/656/CEE do Conselho, de 30 de novembro de 1989, relativa às prescrições mínimas de segurança e
+      de saúde para a utilização pelos trabalhadores de equipamentos de proteção individual no trabalho (terceira diretiva
+      especial, na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE) ([^6^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0008))
+    - Adita 3. Diretiva 90/269/CEE do Conselho, de 29 de maio de 1990, relativa às prescrições mínimas de segurança e de saúde
+      respeitantes à movimentação manual de cargas que comportem riscos, nomeadamente dorso-lombares, para os trabalhadores
+      (quarta diretiva especial na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE) ([^7^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0010)).
+    - Adita 4. Diretiva 90/270/CEE do Conselho, de 29 de maio de 1990, relativa às prescrições mínimas de segurança e de saúde
+      respeitantes ao trabalho com equipamentos dotados de visor (quinta diretiva especial na aceção do artigo 16.º, n.º 1
+      da Diretiva 89/391/CEE) ([^8^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0012))
+    - Adita 5. Diretiva 92/29/CEE do Conselho, de 31 de março de 1992, relativa às prescrições mínimas de segurança e de saúde
+      com vista a promover uma melhor assistência médica a bordo dos navios ([^9^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0014))
+    - Adita 6. Diretiva 92/57/CEE do Conselho, de 24 de junho de 1992, relativa às prescrições mínimas de segurança e de saúde
+      a aplicar nos estaleiros temporários ou móveis (oitava diretiva especial na aceção do artigo 16.º, n.º 1, da Diretiva
+      89/391/CEE) ([^10^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0016))
+    - Adita 7. Diretiva 92/58/CEE do Conselho, de 24 de junho de 1992, relativa às prescrições mínimas para a sinalização
+      de segurança e/ou de saúde no trabalho (nona diretiva especial na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE)
+      ([^11^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0018))
+    - Adita 8. Diretiva 94/33/CE do Conselho, de 22 de junho de 1994, relativa à proteção dos jovens no trabalho ([^12^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0020))
+    - Adita 9. Diretiva 98/24/CE do Conselho, de 7 de abril de 1998, relativa à proteção da segurança e da saúde dos trabalhadores
+      contra os riscos ligados à exposição a agentes químicos no trabalho (décima quarta diretiva especial na aceção do artigo
+      16.º, n.º 1, da Diretiva 89/391/CEE) ([^13^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0022))
+    - Adita 10. Diretiva 2002/44/CE do Parlamento Europeu e do Conselho, de 25 de junho de 2002, relativa às prescrições mínimas
+      de segurança e saúde respeitantes à exposição dos trabalhadores aos riscos devidos aos agentes físicos (vibrações) (décima
+      sexta diretiva especial na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE) ([^14^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0024))
+    - Adita 11. Diretiva 2003/10/CE do Parlamento Europeu e do Conselho, de 6 de fevereiro de 2003, relativa às prescrições
+      mínimas de segurança e de saúde em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (ruído)
+      (décima sétima diretiva especial na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE) ([^15^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0026))
+    - Adita 12. Diretiva 2004/37/CE do Parlamento Europeu e do Conselho, de 29 de abril de 2004, relativa à proteção dos trabalhadores
+      contra riscos ligados à exposição a agentes cancerígenos ou mutagénicos durante o trabalho (sexta diretiva especial
+      nos termos do artigo 16.º, n.º 1, da Diretiva 89/391/CEE do Conselho) ([^16^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0028))
+    - Adita 13. Diretiva 2006/25/CE do Parlamento Europeu e do Conselho, de 5 de abril de 2006, relativa às prescrições mínimas
+      de saúde e segurança em matéria de exposição dos trabalhadores aos riscos devidos aos agentes físicos (radiação ótica
+      artificial) (19.ª diretiva especial na aceção do artigo 16.º, n.º 1, da Diretiva 89/391/CEE) ([^17^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0030))
+    - Adita 14. Diretiva 2009/148/CE do Parlamento Europeu e do Conselho de 30 de novembro de 2009 relativa à proteção dos
+      trabalhadores contra os riscos de exposição ao amianto durante o trabalho ([^18^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0032))
+    - Adita IV. ENERGIA
+    - Adita V. AMBIENTE
+    - Adita 1. Diretiva 94/63/CE do Parlamento Europeu e do Conselho, de 20 de dezembro de 1994, relativa ao controlo das
+      emissões de compostos orgânicos voláteis (COV) resultantes do armazenamento de gasolinas e da sua distribuição dos terminais
+      para as estações de serviço ([^20^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0036))
+    - Adita 2. Diretiva 2002/49/CE do Parlamento Europeu e do Conselho, de 25 de junho de 2002, relativa à avaliação e gestão
+      do ruído ambiente ([^21^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0038)).
+    - Adita 3. Diretiva 2004/42/CE do Parlamento Europeu e do Conselho, de 21 de abril de 2004, relativa à limitação das emissões
+      de compostos orgânicos voláteis resultantes da utilização de solventes orgânicos em determinadas tintas e vernizes e
+      em produtos de retoque de veículos e que altera a Diretiva 1999/13/CE ([^22^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0040))
+    - Adita 4. Regulamento (CE) n.º 166/2006 do Parlamento Europeu e do Conselho, de 18 de janeiro de 2006, relativo à criação
+      do Registo Europeu das Emissões e Transferências de Poluentes e que altera as Diretivas 91/689/CEE e 96/61/CE do Conselho
+      ([^23^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0042))
+    - Adita 5. Regulamento (CE) n.º 1272/2008 do Parlamento Europeu e do Conselho, de 16 de dezembro de 2008, relativo à classificação,
+      rotulagem e embalagem de substâncias e misturas, que altera as Diretivas 67/548/CEE e 1999/45/CE, e o Regulamento (CE)
+      n.º 1907/2006 ([^24^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0044))
+    - Adita 6. Diretiva 2009/126/CE do Parlamento Europeu e do Conselho, de 21 de outubro de 2009, relativa à fase II da recuperação
+      de vapores de gasolina durante o reabastecimento de veículos a motor nas estações de serviço ([^25^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0046))
+    - Adita VI. EUROSTAT
+    - Adita 1. Regulamento (CE) n.º 1893/2006 do Parlamento Europeu e do Conselho, de 20 de dezembro de 2006, que estabelece
+      a nomenclatura estatística das atividades económicas NACE Revisão 2 e que altera o Regulamento (CEE) n.º 3037/90 do
+      Conselho, assim como certos regulamentos CE relativos a domínios estatísticos específicos ([^26^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0048))
+    - Adita 2. Regulamento (CE) n.º 451/2008 do Parlamento Europeu e do Conselho, de 23 de abril de 2008, que estabelece uma
+      nova classificação estatística de produtos por atividade (CPA) e revoga o Regulamento (CEE) n.º 3696/93 do Conselho
+      ([^27^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0050))
+    - Adita VII. MERCADO INTERNO, INDÚSTRIA, EMPREENDEDORISMO E PME
+    - Adita 1. Diretiva 76/211/CEE do Conselho, de 20 de janeiro de 1976, relativa à aproximação das legislações dos Estados-Membros
+      respeitantes ao pré-acondicionamento em massa ou em volume de certos produtos em pré-embalagens ([^28^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0052))
+    - Adita 2. Diretiva 2000/14/CE do Parlamento Europeu e do Conselho, de 8 de maio de 2000, relativa à aproximação das legislações
+      dos Estados-Membros em matéria de emissões sonoras para o ambiente dos equipamentos para utilização no exterior ([^29^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0054)).
+    - Adita 3. Diretiva 2004/9/CE do Parlamento Europeu e do Conselho, de 11 de fevereiro de 2004, relativa à inspeção e verificação
+      das boas práticas de laboratório (BPL) ([^30^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0056))
+    - Adita 4. Diretiva 2006/42/CE do Parlamento Europeu e do Conselho, de 17 de maio de 2006, relativa às máquinas e que
+      altera a Diretiva 95/16/CE ([^31^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0058))
+    - Adita 5. Diretiva 2009/34/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, respeitante às disposições
+      comuns sobre os instrumentos de medição e os métodos de controlo metrológico ([^32^](http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1#E0061))
 identifiers:
   celex: 32019R1243
   eli: http://data.europa.eu/eli/reg/2019/1243/oj
@@ -50,7 +149,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/459946ab-ae8f-11e9-9d01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e203e6b3-b972-11ed-8912-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1243-20230112
-  retrieved_at: '2026-10-22T03:19:17Z'
+  retrieved_at: '2026-10-22T17:09:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T19:18:00.178+01:00'
 integrity:
@@ -59,9 +158,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:17Z'
-  notes: Texto consolidado 02019R1243-20230112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:54Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2019-1243.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -551,34 +650,19 @@ relationships:
   date: '2024-05-02'
 article_structure:
   article_count: 3
-  section_count: 73
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 74
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:17Z'
+  checked_at: '2026-10-22T17:09:54Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/1243 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019R1243 — PT — 12.01.2023 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L1999) — [DIRETIVA (UE) 2022/1999 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022L1999) — L 274 — 1 — 24.10.2022
-- [►M2](http://publications.europa.eu/resource/celex/32022L2561) — [DIRETIVA (UE) 2022/2561 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022L2561) — L 330 — 46 — 23.12.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1243R%2801%29) — [Rectificação, JO L 191, 16.6.2020, p. 5 (2019/1243)](http://publications.europa.eu/resource/celex/32019R1243R%2801%29)
-
-## REGULAMENTO (UE) 2019/1243 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

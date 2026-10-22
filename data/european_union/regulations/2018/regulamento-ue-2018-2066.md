@@ -37,6 +37,234 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-05-27'
+version_history:
+  file: regulamento-ue-2018-2066.versoes.json
+  count: 7
+  source_lastmod: '2025-05-27'
+  versions:
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-01'
+    amending: eu:celex:32022R0388:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/388 DA COMISSÃO de 8 de março de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Integridade da metodologia e do relatório sobre as emissões
+    - Altera Artigo 18.º — Custos excessivos
+    - Altera Artigo 19.º — Classificação das instalações, dos fluxos-fonte e das fontes de emissões
+    - Altera Artigo 38.º — Fluxos-fonte de biomassa
+    - Altera Artigo 39.º — Determinação da fração de biomassa e da fração fóssil
+    - Altera Artigo 43.º — Determinação das emissões
+    - Altera Artigo 47.º — Instalações com um baixo nível de emissões
+    - Altera Artigo 71.º — Acesso à informação
+    - Altera Artigo 73.º — Assegurar a coerência com outras comunicações de informações
+    - Altera 1. CONTEÚDO MÍNIMO DO PLANO DE MONITORIZAÇÃO DAS INSTALAÇÕES
+    - Altera 2. CONTEÚDO MÍNIMO DOS PLANOS DE MONITORIZAÇÃO DAS EMISSÕES DA AVIAÇÃO
+    - Altera 1. DEFINIÇÃO DE NÍVEIS PARA OS DADOS DA ATIVIDADE
+    - Altera 3. DEFINIÇÃO DE NÍVEIS PARA OS FATORES DE CÁLCULO DOS BALANÇOS DE MASSAS
+    - Altera 8. EMISSÕES DE PFC RESULTANTES DA PRODUÇÃO OU TRANSFORMAÇÃO DE ALUMÍNIO PRIMÁRIO ENUMERADAS NO ANEXO I DA DIRETIVA
+      2003/87/CE
+    - Altera Níveis mínimos requeridos para as metodologias baseadas no cálculo envolvendo instalações da categoria A e fatores
+      de cálculo para combustíveis comerciais normalizados utilizados nas instalações das categorias B e C (artigo 26.º, n.º
+      1)
+    - Altera 1. FATORES DE EMISSÃO DE COMBUSTÍVEIS RELACIONADOS COM O PODER CALORÍFICO INFERIOR (PCI)
+    - Altera 1. RELATÓRIOS ANUAIS SOBRE AS EMISSÕES DAS INSTALAÇÕES DE FONTES FIXAS
+    - Altera 2. RELATÓRIOS ANUAIS SOBRE AS EMISSÕES DOS OPERADORES DE AERONAVE
+    - Altera Notas
+    - Adita Artigo 54.º — Disposições específicas relativas aos biocombustíveis
+    - Suprime Artigo 54.º — Disposições específicas aplicáveis à biomassa
+  - date: '2022-08-28'
+    amending: eu:celex:32022R1371:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1371 DA COMISSÃO de 5 de agosto de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Integridade da metodologia e do relatório sobre as emissões
+    - Altera Artigo 18.º — Custos excessivos
+    - Altera Artigo 38.º — Fluxos-fonte de biomassa
+    - Altera Artigo 71.º — Acesso à informação
+    - Altera Artigo 73.º — Assegurar a coerência com outras comunicações de informações
+    - Altera 1. CONTEÚDO MÍNIMO DO PLANO DE MONITORIZAÇÃO DAS INSTALAÇÕES
+    - Altera 1. DEFINIÇÃO DE NÍVEIS PARA OS DADOS DA ATIVIDADE
+    - Altera 8. EMISSÕES DE PFC RESULTANTES DA PRODUÇÃO OU TRANSFORMAÇÃO DE ALUMÍNIO PRIMÁRIO ENUMERADAS NO ANEXO I DA DIRETIVA
+      2003/87/CE
+    - Altera Níveis mínimos requeridos para as metodologias baseadas no cálculo envolvendo instalações da categoria A e fatores
+      de cálculo para combustíveis comerciais normalizados utilizados nas instalações das categorias B e C (artigo 26.º, n.º
+      1)
+    - Altera 1. FATORES DE EMISSÃO DE COMBUSTÍVEIS RELACIONADOS COM O PODER CALORÍFICO INFERIOR (PCI)
+    - Altera Notas
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2122:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2122 DA COMISSÃO de 12 de outubro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º — Integridade da metodologia e do relatório sobre as emissões
+    - Altera Artigo 15.º — Aprovação de alterações do plano de monitorização
+    - Altera Artigo 18.º — Custos excessivos
+    - Altera Artigo 39.º — Determinação da fração de biomassa e da fração fóssil
+    - Altera Artigo 43.º — Determinação das emissões
+    - Altera Artigo 48.º — CO2 inerente
+    - Altera Artigo 51.º — Disposições gerais
+    - Altera Artigo 52.º — Apresentação dos planos de monitorização
+    - Altera Artigo 53.º — Metodologia de monitorização das emissões das atividades da aviação
+    - Altera Artigo 54.º — Disposições específicas relativas aos biocombustíveis
+    - Altera Artigo 55.º — Pequenos emissores
+    - Altera Artigo 58.º — Atividades de fluxo de dados
+    - Altera Artigo 59.º — Sistema de controlo
+    - Altera Artigo 64.º — Correções e medidas corretivas
+    - Altera Artigo 67.º — Registos e documentação
+    - Altera Artigo 68.º — Calendário e obrigações de comunicação de informações
+    - Altera Artigo 69.º — Relatórios sobre melhorias da metodologia de monitorização
+    - Altera Artigo 71.º — Acesso à informação
+    - Altera Artigo 72.º — Arredondamento dos dados
+    - Altera Artigo 73.º — Assegurar a coerência com outras comunicações de informações
+    - Altera Artigo 74.º — Formato eletrónico de intercâmbio de dados
+    - Altera 1. CONTEÚDO MÍNIMO DO PLANO DE MONITORIZAÇÃO DAS INSTALAÇÕES
+    - Altera 1. DEFINIÇÃO DE NÍVEIS PARA OS DADOS DA ATIVIDADE
+    - Altera 2. FATORES DE EMISSÃO PARA COMBUSTÍVEIS NORMALIZADOS
+    - Altera 8. EMISSÕES DE PFC RESULTANTES DA PRODUÇÃO OU TRANSFORMAÇÃO DE ALUMÍNIO PRIMÁRIO ENUMERADAS NO ANEXO I DA DIRETIVA
+      2003/87/CE
+    - Altera 10. PRODUÇÃO DE CAL OU CALCINAÇÃO DA DOLOMITE OU MAGNESITE ENUMERADAS NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera 11. PRODUÇÃO DE VIDRO, FIBRA DE VIDRO OU MATERIAL ISOLANTE DE LÃ MINERAL ENUMERADA NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera Níveis mínimos requeridos para as metodologias baseadas no cálculo envolvendo instalações da categoria A e fatores
+      de cálculo para combustíveis comerciais normalizados utilizados nas instalações das categorias B e C (artigo 26.º, n.º
+      1)
+    - Altera 1. FATORES DE EMISSÃO DE COMBUSTÍVEIS RELACIONADOS COM O PODER CALORÍFICO INFERIOR (PCI)
+    - Altera 1. RELATÓRIOS ANUAIS SOBRE AS EMISSÕES DAS INSTALAÇÕES DE FONTES FIXAS
+    - Altera 2. RELATÓRIOS ANUAIS SOBRE AS EMISSÕES DOS OPERADORES DE AERONAVE
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Adita MONITORIZAÇÃO DAS EMISSÕES DA AVIAÇÃO
+    - Adita Artigo 54.º-A — Disposições específicas para os combustíveis de aviação elegíveis
+    - Adita 2. [►M4](http://publications.europa.eu/resource/celex/32023R2122) CONTEÚDO MÍNIMO DOS PLANOS DE MONITORIZAÇÃO
+      DO SETOR DA AVIAÇÃO◄
+    - Adita Metodologias de monitorização para a aviação (artigo 53.º)
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime MONITORIZAÇÃO DOS DADOS RELATIVOS ÀS EMISSÕES E ÀS TONELADAS-QUILÓMETRO DA AVIAÇÃO
+  - date: '2024-07-01'
+    amending: eu:celex:32024R2493:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2493 DA COMISSÃO de 23 de setembro de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Exaustividade
+    - Altera Artigo 8.º — Integridade da metodologia e do relatório sobre as emissões
+    - Altera Artigo 15.º — Aprovação de alterações do plano de monitorização
+    - Altera Artigo 18.º — Custos excessivos
+    - Altera Artigo 19.º — Classificação das instalações, dos fluxos-fonte e das fontes de emissões
+    - Altera Artigo 24.º — Cálculo das emissões no âmbito da metodologia normalizada
+    - Altera Artigo 25.º — Cálculo das emissões no âmbito da metodologia de balanço de massas
+    - Altera Artigo 30.º — Determinação dos fatores de cálculo
+    - Altera Artigo 37.º — Fatores de oxidação e conversão
+    - Altera Artigo 38.º — Fluxos-fonte de biomassa
+    - Altera Artigo 39.º — Determinação da fração de biomassa e da fração fóssil
+    - Altera Artigo 43.º — Determinação das emissões
+    - Altera Artigo 46.º — Corroboração com cálculo das emissões
+    - Altera Artigo 47.º — Instalações com um baixo nível de emissões
+    - Altera Artigo 48.º — CO2 inerente
+    - Altera Artigo 51.º — Disposições gerais
+    - Altera Artigo 53.º — Metodologia de monitorização das emissões das atividades da aviação
+    - Altera Artigo 55.º — Pequenos emissores
+    - Altera Artigo 69.º — Relatórios sobre melhorias da metodologia de monitorização
+    - Altera Artigo 71.º — Acesso à informação
+    - Altera Artigo 73.º — Assegurar a coerência com outras comunicações de informações
+    - Altera 1. CONTEÚDO MÍNIMO DO PLANO DE MONITORIZAÇÃO DAS INSTALAÇÕES
+    - Altera 2. [►M4](http://publications.europa.eu/resource/celex/32023R2122) CONTEÚDO MÍNIMO DOS PLANOS DE MONITORIZAÇÃO
+      DO SETOR DA AVIAÇÃO◄
+    - Altera 1. DEFINIÇÃO DE NÍVEIS PARA OS DADOS DA ATIVIDADE
+    - Altera 2. DEFINIÇÃO DE NÍVEIS PARA OS FATORES DE CÁLCULO NO QUE DIZ RESPEITO A EMISSÕES DE COMBUSTÃO
+    - Altera 3. DEFINIÇÃO DE NÍVEIS PARA OS FATORES DE CÁLCULO DOS BALANÇOS DE MASSAS
+    - Altera 4. DEFINIÇÃO DE NÍVEIS PARA OS FATORES DE CÁLCULO DAS EMISSÕES DE CO2 DO PROCESSO
+    - Altera 6. PRODUÇÃO OU TRANSFORMAÇÃO DE METAIS FERROSOS E NÃO FERROSOS ENUMERADA NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera 8. EMISSÕES DE PFC RESULTANTES DA PRODUÇÃO OU TRANSFORMAÇÃO DE ALUMÍNIO PRIMÁRIO ENUMERADAS NO ANEXO I DA DIRETIVA
+      2003/87/CE
+    - Altera 20. PRODUÇÃO DE CARBONATO DE SÓDIO E DE BICARBONATO DE SÓDIO ENUMERADA NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera 1. FATORES DE EMISSÃO DE COMBUSTÍVEIS RELACIONADOS COM O PODER CALORÍFICO INFERIOR (PCI)
+    - Altera Frequência mínima das análises (artigo 35.º)
+    - Altera Dados e informações mínimas a conservar em conformidade com o artigo 67.º, n.º 1
+    - Altera 2. RELATÓRIOS ANUAIS SOBRE AS EMISSÕES DOS OPERADORES DE AERONAVE
+    - Altera Notas
+    - Adita Artigo 1.º
+    - Adita Abordagem para a biomassa, os combustíveis sintéticos hipocarbónicos, os CRONB e os CCR
+    - Adita Artigo 39.º-A — Determinação da fração de CRONB ou CCR ou da fração sintética hipocarbónica e da fração de CRONB
+      ou CCR com fator de emissão zero ou da fração sintética hipocarbónica com fator de emissão zero
+  - date: '2025-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Coerência, comparabilidade e transparência
+    - Altera Artigo 11.º — Obrigação geral
+    - Altera Artigo 14.º — Alterações do plano de monitorização
+    - Altera Artigo 15.º — Aprovação de alterações do plano de monitorização
+    - Altera Artigo 18.º — Custos excessivos
+    - Altera Artigo 44.º — Agregação de dados
+    - Altera Artigo 49.º — CO2 transferido
+    - Altera Artigo 51.º — Disposições gerais
+    - Altera Artigo 52.º — Apresentação dos planos de monitorização
+    - Altera Artigo 53.º — Metodologia de monitorização das emissões das atividades da aviação
+    - Altera Artigo 58.º — Atividades de fluxo de dados
+    - Altera Artigo 68.º — Calendário e obrigações de comunicação de informações
+    - Altera Artigo 70.º — Determinação das emissões pela autoridade competente
+    - Altera Artigo 71.º — Acesso à informação
+    - Altera Artigo 72.º — Arredondamento dos dados
+    - Altera Artigo 73.º — Assegurar a coerência com outras comunicações de informações
+    - Altera Artigo 75.º-D — Custos excessivos
+    - Altera Artigo 75.º-L — Determinação do fator do âmbito
+    - Altera Artigo 75.º-T — Garantia de coerência com outras comunicações de informações
+    - Altera 1. CONTEÚDO MÍNIMO DO PLANO DE MONITORIZAÇÃO DAS INSTALAÇÕES
+    - Altera 2. [►M4](http://publications.europa.eu/resource/celex/32023R2122) CONTEÚDO MÍNIMO DOS PLANOS DE MONITORIZAÇÃO
+      DO SETOR DA AVIAÇÃO◄
+    - Altera 1. DEFINIÇÃO DE NÍVEIS PARA OS DADOS DA ATIVIDADE
+    - Altera 8. EMISSÕES DE PFC RESULTANTES DA PRODUÇÃO OU TRANSFORMAÇÃO DE ALUMÍNIO PRIMÁRIO ENUMERADAS NO ANEXO I DA DIRETIVA
+      2003/87/CE
+    - Altera 10. PRODUÇÃO DE CAL OU CALCINAÇÃO DA DOLOMITE OU MAGNESITE ENUMERADAS NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera 17. PRODUÇÃO DE AMONÍACO ENUMERADA NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera 20. PRODUÇÃO DE CARBONATO DE SÓDIO E DE BICARBONATO DE SÓDIO ENUMERADA NO ANEXO I DA DIRETIVA 2003/87/CE
+    - Altera 21. DETERMINAÇÃO DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA PROVENIENTES DE ATIVIDADES DE CAPTURA DE CO2 PARA
+      EFEITOS DE TRANSPORTE E ARMAZENAMENTO GEOLÓGICO NUM LOCAL DE ARMAZENAMENTO AUTORIZADO AO ABRIGO DA DIRETIVA 2009/31/CE
+    - Altera 23. ARMAZENAMENTO GEOLÓGICO DE CO2 NUM LOCAL DE ARMAZENAMENTO AUTORIZADO AO ABRIGO DA DIRETIVA 2009/31/CE
+    - Altera Níveis mínimos exigidos para as metodologias baseadas no cálculo envolvendo instalações da categoria A referidas
+      no artigo 19.º, n.º 2, alínea a), e entidades da categoria A referidas no artigo 75.º-E, n.º 2, alínea a), e fatores
+      de cálculo para combustíveis comerciais normalizados utilizados nas instalações das categorias B e C referidas no artigo
+      19.º, n.º 2, alíneas b) e c), e pelas entidades da categoria B referidas no artigo 75.º-E, n.º 2, alínea b)
+    - Altera 1. FATORES DE EMISSÃO DE COMBUSTÍVEIS RELACIONADOS COM O PODER CALORÍFICO INFERIOR (PCI)
+    - Altera 2. [►M5](http://publications.europa.eu/resource/celex/32024R2493) ELEMENTOS ESPECÍFICOS PARA INSTALAÇÕES FIXAS◄
+    - Altera 3. ELEMENTOS ESPECÍFICOS PARA AS ATIVIDADES DA AVIAÇÃO
+    - Altera Notas
+    - Adita Artigo 4.º
+    - Adita Artigo 8.º
+    - Adita Artigo 49.º-A — Emissões quimicamente ligadas a um produto de forma permanente
+    - Adita MONITORIZAÇÃO DAS EMISSÕES DA AVIAÇÃO E DOS EFEITOS DA AVIAÇÃO NÃO LIGADOS AO CO2
+    - Adita Artigo 56.º-A — Cálculo do equivalente CO2 para os efeitos da aviação não ligados ao CO2
+    - Adita Artigo 56.º -B — Monitorização de dados
+  - date: '2025-05-27'
+    amending: eu:celex:32025R0842:por
+    amending_title: M6
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 8.º
+    - Altera Artigo 18.º — Custos excessivos
+    - Altera Artigo 53.º — Metodologia de monitorização das emissões das atividades da aviação
+    - Altera Artigo 71.º — Acesso à informação
+    - Altera Artigo 72.º — Arredondamento dos dados
+    - Altera Artigo 73.º — Assegurar a coerência com outras comunicações de informações
+    - Altera Artigo 75.º-D — Custos excessivos
+    - Altera Artigo 75.º-L — Determinação do fator do âmbito
+    - Altera Artigo 75.º-T — Garantia de coerência com outras comunicações de informações
+    - Altera 1. CONTEÚDO MÍNIMO DO PLANO DE MONITORIZAÇÃO DAS INSTALAÇÕES
+    - Altera 1. DEFINIÇÃO DE NÍVEIS PARA OS DADOS DA ATIVIDADE
+    - Altera 8. EMISSÕES DE PFC RESULTANTES DA PRODUÇÃO OU TRANSFORMAÇÃO DE ALUMÍNIO PRIMÁRIO ENUMERADAS NO ANEXO I DA DIRETIVA
+      2003/87/CE
+    - Altera Níveis mínimos exigidos para as metodologias baseadas no cálculo envolvendo instalações da categoria A referidas
+      no artigo 19.º, n.º 2, alínea a), e entidades da categoria A referidas no artigo 75.º-E, n.º 2, alínea a), e fatores
+      de cálculo para combustíveis comerciais normalizados utilizados nas instalações das categorias B e C referidas no artigo
+      19.º, n.º 2, alíneas b) e c), e pelas entidades da categoria B referidas no artigo 75.º-E, n.º 2, alínea b)
+    - Altera 1. FATORES DE EMISSÃO DE COMBUSTÍVEIS RELACIONADOS COM O PODER CALORÍFICO INFERIOR (PCI)
+    - Altera 1. [►M5](http://publications.europa.eu/resource/celex/32024R2493) RELATÓRIOS ANUAIS SOBRE AS EMISSÕES DAS INSTALAÇÕES
+      FIXAS◄
+    - Altera Notas
 identifiers:
   celex: 32018R2066
   eli: http://data.europa.eu/eli/reg_impl/2018/2066/oj
@@ -51,7 +279,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6bde809d-0cc7-11e9-81b4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7bbb0f73-61ca-11f0-bf4e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R2066-20250527
-  retrieved_at: '2026-10-22T02:53:39Z'
+  retrieved_at: '2026-10-22T17:07:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T20:31:18.483+01:00'
 integrity:
@@ -60,9 +288,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:39Z'
-  notes: Texto consolidado 02018R2066-20250527.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:16Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2018-2066.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -239,34 +467,20 @@ relationships:
   date: '2012-07-12'
 article_structure:
   article_count: 108
-  section_count: 164
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 166
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:39Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:16Z'
+  warnings:
+  - '02018R2066-20181231: versão indisponível (Sem expressão na língua por para CELEX 02018R2066-20181231.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2018/2066 da Comissão, de 19 de dezembro de 2018
-
-> 02018R2066 — PT — 27.05.2025 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R2085) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2085 DA COMISSÃO de 14 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2085) — L 423 — 37 — 15.12.2020
-- [M2](http://publications.europa.eu/resource/celex/32022R0388) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/388 DA COMISSÃO de 8 de março de 2022](http://publications.europa.eu/resource/celex/32022R0388) — L 79 — 1 — 9.3.2022
-- [►M3](http://publications.europa.eu/resource/celex/32022R1371) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1371 DA COMISSÃO de 5 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1371) — L 206 — 15 — 8.8.2022
-- [►M4](http://publications.europa.eu/resource/celex/32023R2122) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2122 DA COMISSÃO de 12 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2122) — L 2122 — 1 — 18.10.2023
-- [►M5](http://publications.europa.eu/resource/celex/32024R2493) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2493 DA COMISSÃO de 23 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2493) — L 2493 — 1 — 27.9.2024
-- [M6](http://publications.europa.eu/resource/celex/32025R0842) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/842 DA COMISSÃO de 6 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0842) — L 842 — 1 — 7.5.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2018/2066 DA COMISSÃO
 
 de 19 de dezembro de 2018
 

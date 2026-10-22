@@ -41,6 +41,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-14'
+version_history:
+  file: regulamento-ue-2018-1046.versoes.json
+  count: 1
+  source_lastmod: '2022-12-14'
+  versions:
+  - date: '2022-12-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32018R1046
   eli: http://data.europa.eu/eli/reg/2018/1046/oj
@@ -55,7 +64,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e3c1d89-93bd-11e8-8bc1-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/2164dea8-913b-11ed-b508-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1046-20221214
-  retrieved_at: '2026-10-22T02:39:59Z'
+  retrieved_at: '2026-10-22T17:05:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T19:49:26.128+01:00'
 integrity:
@@ -64,9 +73,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:59Z'
-  notes: Texto consolidado 02018R1046-20221214.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:46Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2018-1046.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -712,29 +721,20 @@ relationships:
   date: '2012-12-28'
 article_structure:
   article_count: 283
-  section_count: 180
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 181
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:59Z'
-  warnings: []
+  checked_at: '2026-10-22T17:05:46Z'
+  warnings:
+  - '02018R1046-20180730: versão indisponível (Sem expressão na língua por para CELEX 02018R1046-20180730.)'
   errors: []
 ---
 
 # Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho, de 18 de julho de 2018
-
-> 02018R1046 — PT — 14.12.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R2434) — [REGULAMENTO (UE, Euratom) 2022/2434 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2434) — L 319 — 1 — 13.12.2022
-
-## REGULAMENTO (UE, Euratom) 2018/1046 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de julho de 2018
 

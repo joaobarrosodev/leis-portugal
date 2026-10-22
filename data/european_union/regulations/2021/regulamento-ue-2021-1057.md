@@ -36,6 +36,58 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-09-20'
+version_history:
+  file: regulamento-ue-2021-1057.versoes.json
+  count: 4
+  source_lastmod: '2025-09-20'
+  versions:
+  - date: '2021-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 19.º — Princípios
+    - Altera INDICADORES COMUNS PARA APOIO GERAL DA VERTENTE DO FSE+ EM REGIME DE GESTÃO PARTILHADA
+    - Altera INDICADORES COMUNS PARA AS AÇÕES DO FSE+ QUE VISAM A INCLUSÃO SOCIAL DAS PESSOAS MAIS CARENCIADAS NO ÂMBITO DO
+      OBJETIVO ESPECÍFICO ESTABELECIDO NO ARTIGO 4.º, N.º 1, ALÍNEA L), NOS TERMOS DO ARTIGO 7.º, N.º 5, PRIMEIRO PARÁGRAFO
+    - Altera INDICADORES COMUNS PARA O APOIO DO FSE+ DESTINADO A COMBATER A PRIVAÇÃO MATERIAL
+    - Altera Notas
+    - Adita Artigo 12.º-A — Apoio aos objetivos da STEP
+  - date: '2024-12-24'
+    amending: eu:celex:32024R3236:por
+    amending_title: REGULAMENTO (UE) 2024/3236 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º-A — Apoio aos objetivos da STEP
+    - Altera Artigo 19.º — Princípios
+    - Altera INDICADORES COMUNS PARA APOIO GERAL DA VERTENTE DO FSE+ EM REGIME DE GESTÃO PARTILHADA
+    - Altera INDICADORES COMUNS PARA AS AÇÕES DO FSE+ QUE VISAM A INCLUSÃO SOCIAL DAS PESSOAS MAIS CARENCIADAS NO ÂMBITO DO
+      OBJETIVO ESPECÍFICO ESTABELECIDO NO ARTIGO 4.º, N.º 1, ALÍNEA L), NOS TERMOS DO ARTIGO 7.º, N.º 5, PRIMEIRO PARÁGRAFO
+    - Altera INDICADORES COMUNS PARA O APOIO DO FSE+ DESTINADO A COMBATER A PRIVAÇÃO MATERIAL
+    - Altera Notas
+    - Adita Artigo 12.º-B — Apoio à atenuação das consequências socioeconómicas negativas das catástrofes naturais
+  - date: '2025-09-20'
+    amending: eu:celex:32025R1913:por
+    amending_title: REGULAMENTO (UE) 2025/1913 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 12.º-A — Apoio aos objetivos da STEP
+    - Altera Artigo 12.º-B — Apoio à atenuação das consequências socioeconómicas negativas das catástrofes naturais
+    - Altera Artigo 19.º — Princípios
+    - Altera INDICADORES COMUNS PARA APOIO GERAL DA VERTENTE DO FSE+ EM REGIME DE GESTÃO PARTILHADA
+    - Altera INDICADORES COMUNS PARA AS AÇÕES DO FSE+ QUE VISAM A INCLUSÃO SOCIAL DAS PESSOAS MAIS CARENCIADAS NO ÂMBITO DO
+      OBJETIVO ESPECÍFICO ESTABELECIDO NO ARTIGO 4.º, N.º 1, ALÍNEA L), NOS TERMOS DO ARTIGO 7.º, N.º 5, PRIMEIRO PARÁGRAFO
+    - Altera INDICADORES COMUNS PARA O APOIO DO FSE+ DESTINADO A COMBATER A PRIVAÇÃO MATERIAL
+    - Altera Notas
+    - Adita Artigo 5.º-A — Disposições específicas relacionadas com a revisão intercalar e a flexibilidade correspondentes
+      da vertente do FSE+ em regime de gestão partilhada
+    - Adita Artigo 12.º-C — Apoio ao desenvolvimento de competências no domínio da preparação civil, da indústria da defesa
+      incluindo capacidades de dupla utilização, e da cibersegurança
+    - Adita Artigo 12.º-D — Apoio à adaptação associada à descarbonização
 identifiers:
   celex: 32021R1057
   eli: http://data.europa.eu/eli/reg/2021/1057/oj
@@ -50,7 +102,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9c96cfc0-d98c-11eb-895a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/163f1ca4-a393-11f0-97c8-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1057-20250920
-  retrieved_at: '2026-10-22T02:38:44Z'
+  retrieved_at: '2026-10-22T17:13:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T22:33:09.964+01:00'
 integrity:
@@ -59,9 +111,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:44Z'
-  notes: Texto consolidado 02021R1057-20250920.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:30Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2021-1057.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -406,35 +458,19 @@ relationships:
   date: '2013-12-23'
 article_structure:
   article_count: 47
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:44Z'
+  checked_at: '2026-10-22T17:13:30Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/1057 do Parlamento Europeu e do Conselho de 24 de junho de 2021
-
-> 02021R1057 — PT — 20.09.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-- [►M2](http://publications.europa.eu/resource/celex/32024R3236) — [REGULAMENTO (UE) 2024/3236 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3236) — L 3236 — 1 — 23.12.2024
-- [►M3](http://publications.europa.eu/resource/celex/32025R1913) — [REGULAMENTO (UE) 2025/1913 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1913) — L 1913 — 1 — 19.9.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R1057R%2801%29) — [Rectificação, JO L 421, 26.11.2021, p. 75 (2021/1057)](http://publications.europa.eu/resource/celex/32021R1057R%2801%29)
-
-## REGULAMENTO (UE) 2021/1057 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de junho de 2021
 

@@ -38,6 +38,120 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-12'
+version_history:
+  file: regulamento-ue-2018-1240.versoes.json
+  count: 4
+  source_lastmod: '2026-06-12'
+  versions:
+  - date: '2019-06-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-03'
+    amending: eu:celex:32021R1152:por
+    amending_title: REGULAMENTO (UE) 2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Objetivos do ETIAS
+    - Altera Artigo 6.º — Criação e arquitetura técnica do sistema de informação ETIAS
+    - Altera Artigo 7.º — Unidade central ETIAS
+    - Altera Artigo 12.º — Consulta das bases de dados da Interpol
+    - Altera Artigo 17.º — Formulário de pedido e dados pessoais do requerente
+    - Altera Artigo 20.º — Tratamento automatizado
+    - Altera Artigo 22.º — Verificação pela unidade central ETIAS
+    - Altera Artigo 23.º — Apoio aos objetivos do SIS
+    - Altera Artigo 24.º — Disposições específicas aplicáveis aos membros da família de cidadãos da União ou de outros nacionais
+      de países terceiros que beneficiam do direito de livre circulação ao abrigo do direito da União
+    - Altera Artigo 26.º — Tratamento manual dos pedidos pelas unidades nacionais ETIAS
+    - Altera Artigo 28.º — Consulta de outros Estados-Membros
+    - Altera Artigo 37.º — Recusa de uma autorização de viagem
+    - Altera Artigo 41.º — Revogação de uma autorização de viagem
+    - Altera Artigo 45.º — Acesso aos dados pelas transportadoras para efeitos de verificação
+    - Altera Artigo 46.º — Procedimentos alternativos em caso de impossibilidade técnica de acesso aos dados por parte das
+      transportadoras
+    - Altera Artigo 47.º — Acesso aos dados para fins de verificação nas fronteiras externas
+    - Altera Artigo 64.º — Direito de acesso, de retificação, de completamento, de apagamento de dados pessoais, e de limitação
+      do tratamento
+    - Altera Artigo 65.º — Comunicação de dados pessoais a países terceiros, organizações internacionais e entidades privadas
+    - Altera Artigo 66.º — Supervisão pela autoridade de controlo
+    - Altera Artigo 73.º — Responsabilidades da eu-LISA durante a fase de conceção e desenvolvimento
+    - Altera Artigo 74.º — Responsabilidades da eu-LISA após a entrada em funcionamento do ETIAS
+    - Altera Artigo 78.º — Alteração do Regulamento (UE) n.º 1077/2011
+    - Altera Artigo 79.º — Alteração do Regulamento (UE) n.º 515/2014
+    - Altera Artigo 80.º — Alterações do Regulamento (UE) 2016/399
+    - Altera Artigo 81.º — Alterações do Regulamento (UE) 2016/1624
+    - Altera ETIAS
+    - Altera Artigo 86.º — Receitas
+    - Altera Artigo 88.º — Entrada em funcionamento
+    - Altera Artigo 89.º — Exercício da delegação
+    - Altera Artigo 90.º — Procedimento do Comité
+    - Altera Artigo 92.º — Monitorização e avaliação
+    - Altera Artigo 96.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 11.º — Interoperabilidade com outros sistemas de informação da UE e dados da Europol
+    - Adita Artigo 11.º-B — Apoio aos objetivos do SES
+    - Adita Artigo 11.º-C — Interoperabilidade entre o ETIAS e o SES para efeitos da revogação de uma autorização de viagem
+      ETIAS a pedido do requerente
+    - Adita Artigo 25.º-A — Utilização de outros sistemas de informação da UE para o tratamento manual do pedido pelas unidades
+      nacionais ETIAS
+  - date: '2025-11-18'
+    amending: eu:celex:32025R1411:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1411 DA COMISSÃO de 16 de julho de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Interoperabilidade com outros sistemas de informação da UE e dados da Europol
+    - Altera Artigo 18.º — Taxa de autorização de viagem
+    - Altera Artigo 24.º — Disposições específicas aplicáveis aos membros da família de cidadãos da União ou de outros nacionais
+      de países terceiros que beneficiam do direito de livre circulação ao abrigo do direito da União
+    - Altera Artigo 45.º — Acesso aos dados pelas transportadoras para efeitos de verificação
+    - Altera Artigo 65.º — Comunicação de dados pessoais a países terceiros, organizações internacionais e entidades privadas
+    - Altera Artigo 66.º — Supervisão pela autoridade de controlo
+    - Altera Artigo 74.º — Responsabilidades da eu-LISA após a entrada em funcionamento do ETIAS
+    - Altera Artigo 78.º — Alteração do Regulamento (UE) n.º 1077/2011
+    - Altera Artigo 79.º — Alteração do Regulamento (UE) n.º 515/2014
+    - Altera Artigo 80.º — Alterações do Regulamento (UE) 2016/399
+    - Altera Artigo 81.º — Alterações do Regulamento (UE) 2016/1624
+    - Altera ETIAS
+    - Altera Artigo 86.º — Receitas
+    - Altera Artigo 96.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita « Secção 5
+    - Suprime «Secção 5
+  - date: '2026-06-12'
+    amending: eu:celex:32024R1356:por
+    amending_title: REGULAMENTO (UE) 2024/1356 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024; REGULAMENTO (UE)
+      2024/1358 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Objetivos do ETIAS
+    - Altera Artigo 8.º — Unidades nacionais ETIAS
+    - Altera Artigo 11.º — Interoperabilidade com outros sistemas de informação da UE e dados da Europol
+    - Altera Artigo 13.º — Acesso aos dados armazenados no ETIAS
+    - Altera Artigo 24.º — Disposições específicas aplicáveis aos membros da família de cidadãos da União ou de outros nacionais
+      de países terceiros que beneficiam do direito de livre circulação ao abrigo do direito da União
+    - Altera Artigo 25.º-A — Utilização de outros sistemas de informação da UE para o tratamento manual do pedido pelas unidades
+      nacionais ETIAS
+    - Altera Artigo 45.º — Acesso aos dados pelas transportadoras para efeitos de verificação
+    - Altera Artigo 65.º — Comunicação de dados pessoais a países terceiros, organizações internacionais e entidades privadas
+    - Altera Artigo 66.º — Supervisão pela autoridade de controlo
+    - Altera Artigo 69.º — Conservação de registos
+    - Altera Artigo 74.º — Responsabilidades da eu-LISA após a entrada em funcionamento do ETIAS
+    - Altera Artigo 78.º — Alteração do Regulamento (UE) n.º 1077/2011
+    - Altera Artigo 79.º — Alteração do Regulamento (UE) n.º 515/2014
+    - Altera Artigo 80.º — Alterações do Regulamento (UE) 2016/399
+    - Altera Artigo 81.º — Alterações do Regulamento (UE) 2016/1624
+    - Altera ETIAS
+    - Altera Artigo 86.º — Receitas
+    - Altera Artigo 88.º — Entrada em funcionamento
+    - Altera Artigo 96.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 35.º-A
 identifiers:
   celex: 32018R1240
   eli: http://data.europa.eu/eli/reg/2018/1240/oj
@@ -52,7 +166,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/efa9c4e5-c703-11e8-9424-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/cd778cad-7b20-11f1-bf5e-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1240-20260612
-  retrieved_at: '2026-10-22T03:18:48Z'
+  retrieved_at: '2026-10-22T17:06:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T21:56:18.522+01:00'
 integrity:
@@ -61,9 +175,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:48Z'
-  notes: Texto consolidado 02018R1240-20260612.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:20Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2018-1240.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -383,37 +497,21 @@ relationships:
   date: '2019-11-14'
 article_structure:
   article_count: 100
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:48Z'
-  warnings: []
+  checked_at: '2026-10-22T17:06:20Z'
+  warnings:
+  - '02018R1240-20180919: versão indisponível (Sem expressão na língua por para CELEX 02018R1240-20180919.)'
+  - '02018R1240-20231231: versão indisponível (Sem expressão na língua por para CELEX 02018R1240-20231231.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/1240 do Parlamento Europeu e do Conselho, de 12 de setembro de 2018
-
-> 02018R1240 — PT — 12.06.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0817) — [REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0817) — L 135 — 27 — 22.5.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R1152) — [REGULAMENTO (UE) 2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1152) — L 249 — 15 — 14.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32024R1356) — [REGULAMENTO (UE) 2024/1356 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1356) — L 1356 — 1 — 22.5.2024
-- [►M4](http://publications.europa.eu/resource/celex/32024R1358) — [REGULAMENTO (UE) 2024/1358 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1358) — L 1358 — 1 — 22.5.2024
-- [►M5](http://publications.europa.eu/resource/celex/32025R1411) — [REGULAMENTO DELEGADO (UE) 2025/1411 DA COMISSÃO de 16 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1411) — L 1411 — 1 — 29.10.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R1240R%2803%29) — [Rectificação, JO L 193, 17.6.2020, p. 16 (2018/1240)](http://publications.europa.eu/resource/celex/32018R1240R%2803%29)
-
-## REGULAMENTO (UE) 2018/1240 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de setembro de 2018
 

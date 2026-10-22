@@ -44,6 +44,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-31'
+version_history:
+  file: regulamento-ue-2023-137.versoes.json
+  count: 2
+  source_lastmod: '2025-03-31'
+  versions:
+  - date: '2023-01-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-03-31'
+    amending: eu:celex:32025R0471:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/471 DA COMISSÃO de 2 de setembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita NACE REV. 2, ATUALIZAÇÃO 1 (NACE REV. 2.1)
 identifiers:
   celex: 32023R0137
   eli: http://data.europa.eu/eli/reg_del/2023/137/oj
@@ -58,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/edbdf035-9865-11ed-b508-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/28d9ecb5-0b13-11f0-b1a3-01aa75ed71a1.0020.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R0137-20250331
-  retrieved_at: '2026-10-22T03:20:24Z'
+  retrieved_at: '2026-10-22T17:16:31Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T14:12:54.803+02:00'
 integrity:
@@ -67,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:24Z'
-  notes: Texto consolidado 02023R0137-20250331.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:31Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2023-137.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -196,33 +215,19 @@ relationships:
   date: '2026-08-24'
 article_structure:
   article_count: 3
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:24Z'
+  checked_at: '2026-10-22T17:16:31Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2023/137 da Comissão de 10 de outubro de 2022
-
-> 02023R0137 — PT — 31.03.2025 — 001.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R0471) — [REGULAMENTO DELEGADO (UE) 2025/471 DA COMISSÃO de 2 de setembro de 2024](http://publications.europa.eu/resource/celex/32025R0471) — L 471 — 1 — 11.3.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R0137R%2802%29) — [Rectificação, JO L 90720, 15.11.2024, p. 1 ((UE) 2023/137)](http://publications.europa.eu/resource/celex/32023R0137R%2802%29)
-
-## REGULAMENTO DELEGADO (UE) 2023/137 DA COMISSÃO
 
 de 10 de outubro de 2022
 

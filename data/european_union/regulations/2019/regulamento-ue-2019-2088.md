@@ -39,6 +39,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-02'
+version_history:
+  file: regulamento-ue-2019-2088.versoes.json
+  count: 4
+  source_lastmod: '2026-07-02'
+  versions:
+  - date: '2019-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-07-12'
+    amending: eu:celex:32020R0852:por
+    amending_title: REGULAMENTO (UE) 2020/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de junho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2. — Definições
+    - Altera Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+    - Altera Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+    - Altera Artigo 11. — Transparência da promoção das características ambientais ou sociais e dos investimentos sustentáveis
+      nos relatórios periódicos
+    - Altera Artigo 20. — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 2.º-A — Princípio de «não prejudicar significativamente»
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2. — Definições
+    - Altera Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+    - Altera Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+    - Altera Notas
+    - Adita Artigo 18.º-A — Acessibilidade da informação no ponto de acesso único europeu
+  - date: '2026-07-02'
+    amending: eu:celex:32024R3005:por
+    amending_title: REGULAMENTO (UE) 2024/3005 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 2. — Definições
+    - Altera Artigo 8. — Transparência da promoção de características ambientais ou sociais na divulgação de informações pré‐contratuais
+    - Altera Artigo 9. — Transparência dos investimentos sustentáveis na divulgação de informações pré‐contratuais
+    - Altera Artigo 13. — Comunicações comerciais
+    - Altera Artigo 18.º-A — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Notas
 identifiers:
   celex: 32019R2088
   eli: http://data.europa.eu/eli/reg/2019/2088/oj
@@ -53,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4f50e277-1a53-11ea-8c1f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/1bc0fbfd-69c2-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R2088-20260702
-  retrieved_at: '2026-10-22T03:01:16Z'
+  retrieved_at: '2026-10-22T17:10:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T23:53:52.823+01:00'
 integrity:
@@ -62,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:16Z'
-  notes: Texto consolidado 02019R2088-20260702.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:18Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2019-2088.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -249,31 +290,19 @@ relationships:
   date: '2022-12-01'
 article_structure:
   article_count: 22
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:16Z'
+  checked_at: '2026-10-22T17:10:18Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/2088 do Parlamento Europeu e do Conselho de 27 de novembro de 2019
-
-> 02019R2088 — PT — 02.07.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0852) — [REGULAMENTO (UE) 2020/852 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0852) — L 198 — 13 — 22.6.2020
-- [►M2](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L 2869 — 1 — 20.12.2023
-- [►M3](http://publications.europa.eu/resource/celex/32024R3005) — [REGULAMENTO (UE) 2024/3005 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R3005) — L 3005 — 1 — 12.12.2024
-
-## REGULAMENTO (UE) 2019/2088 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de novembro de 2019
 

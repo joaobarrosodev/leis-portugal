@@ -36,6 +36,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: diretiva-ue-2020-1828.versoes.json
+  count: 7
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2020-12-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-02'
+    amending: eu:celex:32022R1925:por
+    amending_title: REGULAMENTO (UE) 2022/1925 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 26.º — Destinatários
+    - Adita ANEXO I
+    - Adita LISTA DAS DISPOSIÇÕES DO DIREITO DA UNIÃO A QUE SE REFERE O Artigo 2.º, N.º 1
+    - Adita ANEXO II
+    - Adita TABELA DE CORRESPONDÊNCIA
+    - Suprime Notas
+  - date: '2024-02-17'
+    amending: eu:celex:32022R2065:por
+    amending_title: REGULAMENTO (UE) 2022/2065 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera LISTA DAS DISPOSIÇÕES DO DIREITO DA UNIÃO A QUE SE REFERE O Artigo 2.º, N.º 1
+  - date: '2024-07-18'
+    amending: eu:celex:32024R1781:por
+    amending_title: M3
+    changes:
+    - Altera LISTA DAS DISPOSIÇÕES DO DIREITO DA UNIÃO A QUE SE REFERE O Artigo 2.º, N.º 1
+  - date: '2024-12-13'
+    amending: eu:celex:32023R0988:por
+    amending_title: REGULAMENTO (UE) 2023/988 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera LISTA DAS DISPOSIÇÕES DO DIREITO DA UNIÃO A QUE SE REFERE O Artigo 2.º, N.º 1
+  - date: '2025-09-12'
+    amending: eu:celex:32023R2854:por
+    amending_title: M4
+    changes:
+    - Altera LISTA DAS DISPOSIÇÕES DO DIREITO DA UNIÃO A QUE SE REFERE O Artigo 2.º, N.º 1
+  - date: '2026-08-02'
+    amending: eu:celex:32024L1799:por
+    amending_title: M6; REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera LISTA DAS DISPOSIÇÕES DO DIREITO DA UNIÃO A QUE SE REFERE O Artigo 2.º, N.º 1
 identifiers:
   celex: 32020L1828
   eli: http://data.europa.eu/eli/dir/2020/1828/oj
@@ -50,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b5ff45c2-35f4-11eb-b27b-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c58fe0de-7fcd-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020L1828-20260802
-  retrieved_at: '2026-10-22T02:53:47Z'
+  retrieved_at: '2026-10-22T17:10:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T01:35:33.377+02:00'
 integrity:
@@ -59,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:47Z'
-  notes: Texto consolidado 02020L1828-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:47Z'
+  notes: 7 versão(ões); histórico completo em diretiva-ue-2020-1828.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -199,40 +244,18 @@ relationships:
 article_structure:
   article_count: 26
   section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:47Z'
+  checked_at: '2026-10-22T17:10:47Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2020/1828 do Parlamento Europeu e do Conselho de 25 de novembro de 2020
-
-> 02020L1828 — PT — 02.08.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R1925) — [REGULAMENTO (UE) 2022/1925 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1925) — L 265 — 1 — 12.10.2022
-- [►M2](http://publications.europa.eu/resource/celex/32022R2065) — [REGULAMENTO (UE) 2022/2065 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2065) — L 277 — 1 — 27.10.2022
-- [►M3](http://publications.europa.eu/resource/celex/32023R0988) — [REGULAMENTO (UE) 2023/988 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0988) — L 135 — 1 — 23.5.2023
-- [M4](http://publications.europa.eu/resource/celex/32023R2854) — [REGULAMENTO (UE) 2023/2854 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2854) — L 2854 — 1 — 22.12.2023
-- [M5](http://publications.europa.eu/resource/celex/32024R1781) — [REGULAMENTO (UE) 2024/1781 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1781) — L 1781 — 1 — 28.6.2024
-- [M6](http://publications.europa.eu/resource/celex/32024L1799) — [DIRETIVA (UE) 2024/1799 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1799) — L 1799 — 1 — 10.7.2024
-- [►M7](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1781R%2801%29) — [Rectificação, JO L 90493, 7.8.2024, p. 1 (2024/1781)](http://publications.europa.eu/resource/celex/32024R1781R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R2854R%2801%29) — [Rectificação, JO L 90790, 9.12.2024, p. 1 (2023/2854)](http://publications.europa.eu/resource/celex/32023R2854R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32024L1799R%2801%29) — [Rectificação, JO L 90789, 9.12.2024, p. 1 (2024/1799)](http://publications.europa.eu/resource/celex/32024L1799R%2801%29)
-
-## DIRETIVA (UE) 2020/1828 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de novembro de 2020
 

@@ -36,6 +36,60 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-06-30'
+version_history:
+  file: regulamento-ue-2023-955.versoes.json
+  count: 2
+  source_lastmod: '2024-06-30'
+  versions:
+  - date: '2023-05-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-06-30'
+    amending: eu:celex:32023L1791:por
+    amending_title: DIRETIVA (UE) 2023/1791 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Conteúdo dos planos sociais em matéria de clima
+    - Altera Artigo 11.º — Recursos dos programas de gestão partilhada, recursos a estes afetados e utilização dos recursos
+    - Altera Artigo 16.º — Avaliação da Comissão
+    - Altera Artigo 21.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 23.º — Informação, comunicação e notoriedade
+    - Altera Artigo 27.º — Avaliação e revisão do Fundo
+    - Altera Artigo 28.º — Alteração do Regulamento (UE) 2021/1060
+    - Altera Artigo 29.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita METODOLOGIA PARA CALCULAR A DOTAÇÃO FINANCEIRA MÁXIMA PARA CADA ESTADO-MEMBRO AO ABRIGO DO FUNDO NOS TERMOS DO
+      ARTIGO 14.º
+    - Adita ANEXO II
+    - Adita Dotação financeira máxima para cada Estado-Membro ao abrigo do Fundo nos termos dos artigos 10.º e 14.º
+    - Adita ANEXO III
+    - Adita Requisitos-chave para o sistema de controlo interno do Estado-Membro
+    - Adita ANEXO IV
+    - Adita ANEXO V
+    - Adita Modelo para os planos sociais em matéria de clima a que se refere o artigo 6.º, n.º 7
+    - Adita 1. PANORAMA E PROCESSO PARA A CRIAÇÃO DO PLANO SOCIAL EM MATÉRIA DE CLIMA
+    - Adita 1.1. Síntese
+    - Adita 1.2. Panorama da atual situação política
+    - Adita 1.3. Processo de consulta
+    - Adita 2. DESCRIÇÃO DAS MEDIDAS E INVESTIMENTOS, MARCOS E METAS
+    - 'Adita 2.1. COMPONENTE [1][2]: [sector dos edifícios] [sector dos transportes]'
+    - 'Adita 2.2. COMPONENTE [3]: apoio direto ao rendimento'
+    - Adita 2.3. Assistência técnica
+    - Adita 2.4. Transferências para programas de gestão partilhada
+    - Adita 2.5. Custos totais estimados do Plano
+    - Adita 3. ANÁLISE E IMPACTO GERAL
+    - Adita 3.1. Definições
+    - Adita 3.2. Impacto previsto nos grupos vulneráveis
+    - Adita 3.3. Impacto previsto das medidas e investimentos previstos
+    - Adita 4. COMPLEMENTARIDADE, ADICIONALIDADE E EXECUÇÃO DO PLANO
+    - Adita 4.1. Acompanhamento e execução do plano
+    - Adita 4.2. Compatibilidade com outras iniciativas
+    - Adita 4.3. Complementaridade do financiamento
+    - Adita 4.4. Adicionalidade
+    - Adita 4.5. Especificidades geográficas
 identifiers:
   celex: 32023R0955
   eli: http://data.europa.eu/eli/reg/2023/955/oj
@@ -50,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9dd87fa1-f383-11ed-a05c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a91e6b85-388a-11ef-b441-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R0955-20240630
-  retrieved_at: '2026-10-22T02:54:04Z'
+  retrieved_at: '2026-10-22T17:16:34Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T14:44:24.851+02:00'
 integrity:
@@ -59,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:54:04Z'
-  notes: Texto consolidado 02023R0955-20240630.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:34Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2023-955.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -306,29 +360,19 @@ relationships:
   date: '2025-09-19'
 article_structure:
   article_count: 29
-  section_count: 41
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 42
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:54:04Z'
+  checked_at: '2026-10-22T17:16:34Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2023/955 do Parlamento Europeu e do Conselho de 10 de maio de 2023
-
-> 02023R0955 — PT — 30.06.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023L1791) — [DIRETIVA (UE) 2023/1791 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023](http://publications.europa.eu/resource/celex/32023L1791) — L 231 — 1 — 20.9.2023
-
-## REGULAMENTO (UE) 2023/955 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de maio de 2023
 

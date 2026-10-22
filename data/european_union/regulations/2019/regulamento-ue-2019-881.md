@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-04'
+version_history:
+  file: regulamento-ue-2019-881.versoes.json
+  count: 1
+  source_lastmod: '2025-02-04'
+  versions:
+  - date: '2025-02-04'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32019R0881
   eli: http://data.europa.eu/eli/reg/2019/881/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/35e93bb4-8905-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/fdd2eb19-24c9-11f0-ac85-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0881-20250204
-  retrieved_at: '2026-10-22T02:41:53Z'
+  retrieved_at: '2026-10-22T17:08:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T00:57:18.204+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:53Z'
-  notes: Texto consolidado 02019R0881-20250204.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:32Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2019-881.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -301,29 +310,20 @@ relationships:
   date: '2013-06-18'
 article_structure:
   article_count: 71
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 34
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:53Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:32Z'
+  warnings:
+  - '02019R0881-20190607: versão indisponível (Sem expressão na língua por para CELEX 02019R0881-20190607.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/881 do Parlamento Europeu e do Conselho, de 17 de abril de 2019
-
-> 02019R0881 — PT — 04.02.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R0037) — [REGULAMENTO (UE) 2025/37 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0037) — L 37 — 1 — 15.1.2025
-
-## REGULAMENTO (UE) 2019/881 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2019
 

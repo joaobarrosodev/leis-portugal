@@ -35,6 +35,180 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-21'
+version_history:
+  file: regulamento-ue-2021-821.versoes.json
+  count: 8
+  source_lastmod: '2026-09-21'
+  versions:
+  - date: '2022-01-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-05-05'
+    amending: eu:celex:32022R0699:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/699 DA COMISSÃO de 3 de maio de 2022
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera Categoria 2
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
+  - date: '2023-01-12'
+    amending: eu:celex:32023R0066:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/66 DA COMISSÃO de 21 de outubro de 2022
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera Notas gerais, siglas e abreviaturas e definições
+    - Altera Categoria 1
+    - Altera Categoria 2
+    - Altera Categoria 3
+    - Altera Categoria 4
+    - Altera Categoria 5
+    - Altera Categoria 6
+    - Altera Categoria 7
+    - Altera Categoria 9
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
+  - date: '2023-05-26'
+    amending: eu:celex:32023R0996:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/996 DA COMISSÃO de 23 de fevereiro de 2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera Notas gerais, siglas e abreviaturas e definições
+    - Altera Categoria 1
+    - Altera Categoria 2
+    - Altera Categoria 5
+    - Altera Categoria 6
+    - Altera Categoria 7
+    - Altera Categoria 9
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
+  - date: '2023-12-16'
+    amending: eu:celex:32023R2616:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2616 DA COMISSÃO de 15 de setembro de 2023
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera Notas gerais, siglas e abreviaturas e definições
+    - Altera Categoria 1
+    - Altera Categoria 2
+    - Altera Categoria 3
+    - Altera Categoria 4
+    - Altera Categoria 5
+    - Altera Categoria 6
+    - Altera Categoria 7
+    - Altera Categoria 8
+    - Altera Categoria 9
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
+  - date: '2024-11-08'
+    amending: eu:celex:32024R2547:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2547 DA COMISSÃO de 5 de setembro de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 5.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera Notas gerais, siglas e abreviaturas e definições
+    - Altera Categoria 0
+    - Altera Categoria 1
+    - Altera Categoria 2
+    - Altera Categoria 3
+    - Altera Categoria 4
+    - Altera Categoria 5
+    - Altera Categoria 6
+    - Altera Categoria 7
+    - Altera Categoria 8
+    - Altera Categoria 9
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
+    - Adita NOTAS GERAIS DO ANEXO I
+    - Adita NOTA SOBRE TECNOLOGIA NUCLEAR (NTN)
+    - Adita (Ler em conjugação com a Secção E da Categoria 0.)
+    - Adita NOTA GERAL SOBRE TECNOLOGIA (NGT)
+    - Adita (Ler em conjugação com a secção E das categorias 1 a 9.)
+    - Adita NOTA SOBRE O SOFTWARE NUCLEAR (NSN)
+    - Adita (A presente nota revoga todo e qualquer controlo no âmbito da Secção D da categoria 0)
+    - Adita NOTA GERAL SOBRE O SOFTWARE (NGS)
+    - Adita (A presente nota revoga todo e qualquer controlo no âmbito da secção D das categorias 1 a 9)
+    - Adita NOTA GERAL SOBRE "SEGURANÇA DA INFORMAÇÃO" (NGSI)
+    - Adita PRÁTICAS EDITORIAIS NO JORNAL OFICIAL DA UNIÃO EUROPEIA
+    - Adita SIGLAS E ABREVIATURAS UTILIZADAS NO PRESENTE ANEXO
+    - Adita DEFINIÇÕES DOS TERMOS UTILIZADOS NO PRESENTE ANEXO
+    - 'Adita Nota técnica:'
+    - 'Adita Notas técnicas:'
+    - 'Adita Notas:'
+    - Adita CATEGORIA 0 — MATERIAIS, INSTALAÇÕES E EQUIPAMENTOS NUCLEARES
+    - Adita CATEGORIA 1 — MATERIAIS ESPECIAIS E EQUIPAMENTO CONEXO
+    - Adita CATEGORIA 2 — TRATAMENTO DE MATERIAIS
+  - date: '2025-11-15'
+    amending: eu:celex:32025R2003:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2003 DA COMISSÃO de 8 de setembro de 2025
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera NOTAS GERAIS DO ANEXO I
+    - Altera SIGLAS E ABREVIATURAS UTILIZADAS NO PRESENTE ANEXO
+    - Altera DEFINIÇÕES DOS TERMOS UTILIZADOS NO PRESENTE ANEXO
+    - 'Altera Notas técnicas:'
+    - 'Altera Nota técnica:'
+    - Altera CATEGORIA 1 — MATERIAIS ESPECIAIS E EQUIPAMENTO CONEXO
+    - Altera CATEGORIA 2 — TRATAMENTO DE MATERIAIS
+    - Altera CATEGORIA 3 — ELETRÓNICA
+    - Altera CATEGORIA 5 — TELECOMUNICAÇÕES E "SEGURANÇA DA INFORMAÇÃO"
+    - Altera CATEGORIA 6 — SENSORES E LASERS
+    - Altera CATEGORIA 7 — NAVEGAÇÃO E AVIÓNICA
+    - Altera CATEGORIA 8 — ENGENHARIA NAVAL
+    - Altera CATEGORIA 9 — AEROSPAÇO E PROPULSÃO
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
+    - 'Suprime Nota à nota sobre criptografia:'
+  - date: '2026-09-21'
+    amending: eu:celex:32026R1405:por
+    amending_title: M8
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 23.º
+    - Altera Artigo 26.º
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 3.º DO PRESENTE REGULAMENTO
+    - Altera NOTAS GERAIS DO ANEXO I
+    - Altera CATEGORIA 2 — TRATAMENTO DE MATERIAIS
+    - Altera (a que se refere o artigo 12.º, n.º 1, alínea d), do presente regulamento)
+    - Altera (a que se refere o artigo 12.º, n.º 2, do presente regulamento)
+    - Altera (a que se refere o artigo 13.º, n.º 5, do presente regulamento)
+    - Altera LISTA DE PRODUTOS DE DUPLA UTILIZAÇÃO A QUE SE REFERE O ARTIGO 11.º, N.º 1 DO PRESENTE REGULAMENTO
+    - Altera Notas
 identifiers:
   celex: 32021R0821
   eli: http://data.europa.eu/eli/reg/2021/821/oj
@@ -49,7 +223,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d8e79ebf-ca4e-11eb-84ce-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/14ce2965-b119-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0821-20260921
-  retrieved_at: '2026-10-22T03:01:29Z'
+  retrieved_at: '2026-10-22T17:14:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-05-26T08:42:25.806+02:00'
 integrity:
@@ -58,9 +232,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:29Z'
-  notes: Texto consolidado 02021R0821-20260921.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:14:42Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2021-821.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -297,42 +471,20 @@ relationships:
   date: '2020-12-21'
 article_structure:
   article_count: 32
-  section_count: 123
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 124
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:29Z'
-  warnings: []
+  checked_at: '2026-10-22T17:14:42Z'
+  warnings:
+  - '02021R0821-20210611: versão indisponível (Sem expressão na língua por para CELEX 02021R0821-20210611.)'
   errors: []
 ---
 
 # Regulamento (UE) 2021/821 do Parlamento Europeu e do Conselho de 20 de maio de 2021
-
-> 02021R0821 — PT — 21.09.2026 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0001) — [REGULAMENTO DELEGADO (UE) 2022/1 DA COMISSÃO de 20 de outubro de 2021](http://publications.europa.eu/resource/celex/32022R0001) — L 3 — 1 — 6.1.2022
-- [►M2](http://publications.europa.eu/resource/celex/32022R0699) — [REGULAMENTO DELEGADO (UE) 2022/699 DA COMISSÃO de 3 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0699) — L 130I — 1 — 4.5.2022
-- [M3](http://publications.europa.eu/resource/celex/32023R0066) — [REGULAMENTO DELEGADO (UE) 2023/66 DA COMISSÃO de 21 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0066) — L 9 — 1 — 11.1.2023
-- [M4](http://publications.europa.eu/resource/celex/32023R0996) — [REGULAMENTO DELEGADO (UE) 2023/996 DA COMISSÃO de 23 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0996) — L 138 — 1 — 25.5.2023
-- [M5](http://publications.europa.eu/resource/celex/32023R2616) — [REGULAMENTO DELEGADO (UE) 2023/2616 DA COMISSÃO de 15 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2616) — L 2616 — 1 — 15.12.2023
-- [M6](http://publications.europa.eu/resource/celex/32024R2547) — [REGULAMENTO DELEGADO (UE) 2024/2547 DA COMISSÃO de 5 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2547) — L 2547 — 1 — 7.11.2024
-- [►M7](http://publications.europa.eu/resource/celex/32025R2003) — [REGULAMENTO DELEGADO (UE) 2025/2003 DA COMISSÃO de 8 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R2003) — L 2003 — 1 — 14.11.2025
-- [M8](http://publications.europa.eu/resource/celex/32026R1405) — [REGULAMENTO DELEGADO (UE) 2026/1405 DA COMISSÃO de 26 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1405) — L 1405 — 1 — 1.9.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32022R0001R%2801%29) — [Rectificação, JO L 020, 31.1.2022, p. 282 (2022/1)](http://publications.europa.eu/resource/celex/32022R0001R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32021R0821R%2806%29) — [Rectificação, JO L 90305, 2.4.2025, p. 1 (2021/821)](http://publications.europa.eu/resource/celex/32021R0821R%2806%29)
-- [►C3](http://publications.europa.eu/resource/celex/32025R2003R%2803%29) — [Rectificação, JO L 90092, 9.2.2026, p. 1 ((UE) 2025/20032025/2003)](http://publications.europa.eu/resource/celex/32025R2003R%2803%29)
-
-## REGULAMENTO (UE) 2021/821 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2021
 

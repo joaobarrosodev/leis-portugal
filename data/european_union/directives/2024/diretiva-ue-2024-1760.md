@@ -36,6 +36,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-18'
+version_history:
+  file: diretiva-ue-2024-1760.versoes.json
+  count: 2
+  source_lastmod: '2026-03-18'
+  versions:
+  - date: '2025-04-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-03-18'
+    amending: eu:celex:32026L0470:por
+    amending_title: DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Nível de harmonização
+    - Altera Artigo 6.º — Apoio ao dever de diligência a nível do grupo
+    - Altera Artigo 8.º — Identificação e avaliação dos efeitos negativos reais e potenciais
+    - Altera Artigo 9.º — Priorização dos efeitos negativos reais e potenciais identificados
+    - Altera Artigo 10.º — Prevenção de efeitos negativos potenciais
+    - Altera Artigo 11.º — Fazer cessar os efeitos negativos reais
+    - Altera Artigo 13.º — Colaboração construtiva com as partes interessadas
+    - Altera Artigo 15.º — Monitorização
+    - Altera Artigo 16.º — Comunicação
+    - Altera Artigo 17.º — Acessibilidade da informação no ponto de acesso único europeu
+    - Altera Artigo 18.º — Cláusulas contratuais-tipo
+    - Altera Artigo 19.º — Orientações
+    - Altera Artigo 24.º — Autoridades de supervisão
+    - Altera Artigo 25.º — Poderes das autoridades de supervisão
+    - Altera Artigo 27.º — Sanções
+    - Altera Artigo 29.º — Responsabilidade civil das empresas e direito a compensação integral
+    - Altera Artigo 35.º — Procedimento de comité
+    - Altera Artigo 36.º — Reexame e apresentação de relatórios
+    - Altera Artigo 37.º — Transposição
+    - Altera PROIBIÇÕES E OBRIGAÇÕES INCLUÍDAS NOS INSTRUMENTOS NO DOMÍNIO DO AMBIENTE
+    - Suprime Artigo 22.º — Combate às alterações climáticas
 identifiers:
   celex: 32024L1760
   eli: http://data.europa.eu/eli/dir/2024/1760/oj
@@ -50,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a416fd73-3a66-11ef-a1cb-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/9fe96cac-227c-11f1-8c3a-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024L1760-20260318
-  retrieved_at: '2026-10-22T03:20:41Z'
+  retrieved_at: '2026-10-22T17:17:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-07-31T16:34:13.144+02:00'
 integrity:
@@ -59,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:41Z'
-  notes: Texto consolidado 02024L1760-20260318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2024-1760.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -416,34 +453,20 @@ relationships:
   date: '2026-07-03'
 article_structure:
   article_count: 38
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:41Z'
-  warnings: []
+  checked_at: '2026-10-22T17:17:02Z'
+  warnings:
+  - '02024L1760-20240705: versão indisponível (Sem expressão na língua por para CELEX 02024L1760-20240705.)'
   errors: []
 ---
 
 # Diretiva (UE) 2024/1760 do Parlamento Europeu e do Conselho, de 13 de junho de 2024
-
-> 02024L1760 — PT — 18.03.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32025L0794) — [DIRETIVA (UE) 2025/794 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de abril de 2025](http://publications.europa.eu/resource/celex/32025L0794) — L 794 — 1 — 16.4.2025
-- [►M2](http://publications.europa.eu/resource/celex/32026L0470) — [DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026L0470) — L 470 — 1 — 26.2.2026
-
-**Retificada por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32024L1760R%2802%29) — [Rectificação, JO L 90894, 10.11.2025, p. 1 (2024/1760)](http://publications.europa.eu/resource/celex/32024L1760R%2802%29)
-
-## DIRETIVA (UE) 2024/1760 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de junho de 2024
 

@@ -36,6 +36,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-29'
+version_history:
+  file: decisao-ue-2026-522.versoes.json
+  count: 2
+  source_lastmod: '2026-07-29'
+  versions:
+  - date: '2026-03-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-29'
+    amending: eu:celex:32026D1819:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1819 DA COMISSÃO de 27 de julho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6.º — Detentor da autorização
+    - Altera Artigo 8.º — Destinatário
+    - Altera Notas
+    - Adita ANEXO
+    - 'Adita a) Requerente e detentor da autorização:'
+    - 'Adita b) Designação e especificação dos produtos:'
+    - 'Adita c) Rotulagem:'
+    - 'Adita d) Método de deteção:'
+    - 'Adita e) Identificador único:'
+    - 'Adita f) Informações requeridas nos termos do anexo II do Protocolo de Cartagena sobre Segurança Biológica à Convenção
+      sobre a Diversidade Biológica:'
+    - 'Adita g) Condições ou restrições aplicáveis à colocação no mercado, utilização ou manuseamento dos produtos:'
+    - 'Adita h) Plano de monitorização dos efeitos ambientais:'
+    - 'Adita i) Requisitos de monitorização da utilização dos géneros alimentícios para consumo humano após colocação no mercado:'
 identifiers:
   celex: 32026D0522
   eli: http://data.europa.eu/eli/dec_impl/2026/522/oj
@@ -50,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3cc6b506-1db4-11f1-8c3a-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/60fb3a95-a6b3-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D0522-20260729
-  retrieved_at: '2026-10-22T03:31:52Z'
+  retrieved_at: '2026-10-22T17:18:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-03-12T02:49:18.103+01:00'
 integrity:
@@ -59,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:31:52Z'
-  notes: Texto consolidado 02026D0522-20260729.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:18:36Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2026-522.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,29 +149,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/9b51c629-a474-11e9-9d01-01aa75ed71a1
 article_structure:
   article_count: 8
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:31:52Z'
+  checked_at: '2026-10-22T17:18:36Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/522 da Comissão, de 10 de março de 2026
-
-> 02026D0522 — PT — 29.07.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026D1819) — [DECISÃO DE EXECUÇÃO (UE) 2026/1819 DA COMISSÃO de 27 de julho de 2026](http://publications.europa.eu/resource/celex/32026D1819) — L 1819 — 1 — 29.7.2026
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/522 DA COMISSÃO
 
 de 10 de março de 2026
 

@@ -1,0 +1,74 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32023L1526:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023L1526-20230724",
+ "dre_path": null,
+ "source_lastmod": "2023-07-24",
+ "versions": [
+  {
+   "date": "2023-07-24",
+   "future": false,
+   "celex": "02023L1526-20230724",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "07389e5ce6702fe3",
+    "16f090dfef39025f",
+    "459e6aa81aa3f367",
+    "9109a091b79074a2",
+    "2f5f74d06075f822",
+    "1cfa3e8671bba4a5"
+   ]
+  }
+ ],
+ "fragments": {
+  "07389e5ce6702fe3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de maio de 2023\n\nque altera a Diretiva 2011/65/UE do Parlamento Europeu e do Conselho no respeitante a uma isenção aplicável à utilização de chumbo como estabilizador térmico em poli(cloreto de vinilo) utilizado como material de base em sensores usados em dispositivos médicos de diagnóstico *in vitro*\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "16f090dfef39025f": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO anexo IV da Diretiva 2011/65/UE é alterado em conformidade com o anexo da presente diretiva."
+  },
+  "459e6aa81aa3f367": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\n1. Os Estados-Membros devem adotar e publicar, até [**►C1**](http://publications.europa.eu/resource/celex/32023L1526R%2801%29) 31 de janeiro de 2024**◄**, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva. Os Estados-Membros devem comunicar imediatamente à Comissão o texto dessas disposições.\n\nOs Estados-Membros devem aplicar as referidas disposições a partir de [**►C1**](http://publications.europa.eu/resource/celex/32023L1526R%2801%29) 1 de fevereiro de 2024**◄**.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "9109a091b79074a2": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "2f5f74d06075f822": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "1cfa3e8671bba4a5": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nNo anexo IV da Diretiva 2011/65/UE, é aditada a seguinte entrada 41-A:\n\n«41-A. Chumbo como estabilizador térmico no poli(cloreto de vinilo) (PVC) utilizado como material de base em sensores eletroquímicos amperométricos, potenciométricos e condutimétricos usados em dispositivos médicos de diagnóstico *in vitr*o para análise de creatinina e azoto ureico sanguíneo em amostras de sangue integral."
+  }
+ }
+}

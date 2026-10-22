@@ -1,0 +1,308 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D0894:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D0894-20260713",
+ "dre_path": null,
+ "source_lastmod": "2026-07-13",
+ "versions": [
+  {
+   "date": "2026-04-22",
+   "future": false,
+   "celex": "32026D0894",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e50ef9430e12f555",
+    "da49d64b9d919056",
+    "1cfeb6e1039863cc",
+    "623f3feefa9ba2be",
+    "17c36c484cc3eb39",
+    "452aca3557fd826f",
+    "ded0aaef3d7ca386",
+    "95eb717b3785f555",
+    "95baa1b12dcfbec8",
+    "957341ff1c5cef48",
+    "14b0b540a3e1e7c3",
+    "b663e9616104bb74",
+    "3fd0b19579a2bd0a",
+    "172fe2ef537196c5",
+    "3ef14b7670ebe346",
+    "3b4f697b5729259e",
+    "20719c6d72efe139",
+    "b3febfe26bfacef9",
+    "db2a87a16bfc92eb",
+    "751f757fba2aa1b7"
+   ]
+  },
+  {
+   "date": "2026-07-13",
+   "future": false,
+   "celex": "02026D0894-20260713",
+   "acts": [
+    {
+     "id": "eu:celex:32026D1711:por",
+     "title": "DECISÃO (PESC) 2026/1711 DO CONSELHO de 13 de julho de 2026",
+     "published": null,
+     "celex": "32026D1711"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Mandato",
+    "Altera Artigo 10.º — Segurança",
+    "Altera Artigo 13.º — Disposições financeiras",
+    "Altera Artigo 16.º — Divulgações de informações",
+    "Altera Artigo 18.º — Entrada em vigor e vigência",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "6827ea56393a009f",
+    "da49d64b9d919056",
+    "007a9d7a75cc0013",
+    "623f3feefa9ba2be",
+    "17c36c484cc3eb39",
+    "452aca3557fd826f",
+    "ded0aaef3d7ca386",
+    "95eb717b3785f555",
+    "95baa1b12dcfbec8",
+    "957341ff1c5cef48",
+    "beb78849df1a8fba",
+    "b663e9616104bb74",
+    "3fd0b19579a2bd0a",
+    "b57cb363dd65739d",
+    "40de00b3eab13e65",
+    "3b4f697b5729259e",
+    "30689faef80cb6b4",
+    "b3febfe26bfacef9",
+    "0f244cf4e8e2bfdf",
+    "fda0c9dd08d55caf"
+   ]
+  }
+ ],
+ "fragments": {
+  "e50ef9430e12f555": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de abril de 2026\n\nrelativa a uma Missão de Parceria da União Europeia na Arménia (EUPM Arménia)\n\nO CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado da União Europeia, nomeadamente o artigo 42.º, n.º 4, e o artigo 43.º, n.º 2,\n\nTendo em conta a proposta da alta representante da União para os Negócios Estrangeiros e a Política de Segurança,\n\nConsiderando o seguinte:\n\n(1) Em 14 de julho de 2025, o presidente do Conselho Europeu e a presidente da Comissão Europeia reuniram-se com o primeiro-ministro da República da Arménia para reafirmar e fazer avançar a parceria em expansão entre a União e a Arménia.\n\n(2) Em 2 de dezembro de 2025, o Conselho de Parceria UE-Arménia aprovou uma nova Agenda Estratégica da Parceria UE-Arménia. Tendo como base os fundamentos do Acordo de Parceria Abrangente e Reforçado UE-Arménia, a Agenda Estratégica representa um importante passo em frente no aprofundamento das relações numa vasta gama de domínios, nomeadamente no domínio da segurança e defesa.\n\n(3) Por carta de 12 de dezembro de 2025 dirigida à alta representante da União para os Negócios Estrangeiros e a Política de Segurança, o ministro dos Negócios Estrangeiros da República da Arménia convidou a União a destacar uma missão civil na Arménia no âmbito da política comum de segurança e defesa (PCSD).\n\n(4) Em 5 de março de 2026, o Comité Político e de Segurança aprovou um quadro político para a abordagem de crises na República da Arménia.\n\n(5) Em 9 de abril de 2026, o Conselho aprovou um conceito de gestão de crises para uma eventual missão civil da PCSD na República da Arménia. Por conseguinte, deverá ser criada uma missão PCSD.\n\n(6) A missão PCSD na República da Arménia será conduzida no contexto de uma situação que poderá vir a deteriorar-se e obstar à realização dos objetivos da ação externa da União enunciados no artigo 21.º do Tratado da União Europeia,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "da49d64b9d919056": {
+   "fragment_id": "Artigo 1.º — Missão",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Missão\n\nA União cria uma Missão civil de Parceria da União Europeia na República da Arménia (EUPM Arménia) no âmbito da política comum de segurança e defesa."
+  },
+  "1cfeb6e1039863cc": {
+   "fragment_id": "Artigo 2.º — Mandato",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mandato\n\n1. A EUPM Arménia reforça a resiliência da Arménia no domínio das ameaças híbridas por meio da prestação de aconselhamento estratégico, bem como de aconselhamento e apoio a nível operacional às agências pertinentes do setor da segurança, em consonância com uma abordagem de governação integrada e em estreita coordenação com outros intervenientes que partilham as mesmas ideias.\n\n2. Para o efeito, a EUPM Arménia:\n\na) Presta assistência aos ministérios e agências competentes no reforço da resiliência às ameaças híbridas: i) fornecendo aconselhamento estratégico sobre o desenvolvimento de estratégias, políticas e protocolos destinados a combater as ameaças híbridas, nomeadamente a manipulação da informação e ingerência por parte de agentes estrangeiros (FIMI) e no domínio do ciberespaço, bem como os fluxos financeiros ilícitos no contexto eleitoral e político, e reforçando a cibersegurança e a resiliência face à FIMI, ii) apoiando uma abordagem de governação integrada e a coordenação interinstitucional por meio do aconselhamento estratégico sobre ameaças híbridas no que diz respeito à coordenação estruturada, da elaboração de uma avaliação conjunta das ameaças e através da participação sistemática dos ministérios e agências competentes com mandatos para diversos aspetos da luta contra as ameaças híbridas e para a gestão de crises, iii) identificando as necessidades de reforço das capacidades no setor da segurança no que respeita à monitorização, alerta rápido, deteção, identificação, atribuição e resposta a ameaças híbridas, nomeadamente nos domínios da FIMI e do ciberespaço, em conformidade com as metodologias e normas da União;\n\ni) fornecendo aconselhamento estratégico sobre o desenvolvimento de estratégias, políticas e protocolos destinados a combater as ameaças híbridas, nomeadamente a manipulação da informação e ingerência por parte de agentes estrangeiros (FIMI) e no domínio do ciberespaço, bem como os fluxos financeiros ilícitos no contexto eleitoral e político, e reforçando a cibersegurança e a resiliência face à FIMI,\n\nii) apoiando uma abordagem de governação integrada e a coordenação interinstitucional por meio do aconselhamento estratégico sobre ameaças híbridas no que diz respeito à coordenação estruturada, da elaboração de uma avaliação conjunta das ameaças e através da participação sistemática dos ministérios e agências competentes com mandatos para diversos aspetos da luta contra as ameaças híbridas e para a gestão de crises,\n\niii) identificando as necessidades de reforço das capacidades no setor da segurança no que respeita à monitorização, alerta rápido, deteção, identificação, atribuição e resposta a ameaças híbridas, nomeadamente nos domínios da FIMI e do ciberespaço, em conformidade com as metodologias e normas da União;\n\nb) Complementa as atividades acima referidas, prestando aconselhamento a nível operacional aos ministérios e agências competentes em domínios específicos relacionados com as ameaças híbridas, e é apoiada por uma célula de projetos que fornece apoio operacional específico, em consonância com a abordagem integrada das crises e conflitos externos e, na medida do possível, em estreita coordenação com outros intervenientes que partilham as mesmas ideias.\n\n3. O direito internacional humanitário, os direitos humanos e o princípio da igualdade de género, a proteção da população civil e as agendas decorrentes da Resolução do Conselho de Segurança das Nações Unidas 1325 (2000) sobre as Mulheres, a Paz e a Segurança, da Resolução 2250 (2015) sobre a Juventude, a Paz e a Segurança e da Resolução 1612 (2005) sobre as Crianças e os Conflitos Armados devem ser integrados plenamente e de forma proativa no planeamento estratégico e operacional, nas atividades e nos relatórios da EUPM Arménia."
+  },
+  "623f3feefa9ba2be": {
+   "fragment_id": "Artigo 3.º — Cadeia de comando e estrutura",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Cadeia de comando e estrutura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Cadeia de comando e estrutura\n\n1. Enquanto operação de gestão de crises, a EUPM Arménia tem uma cadeia de comando unificada, sob a direção política e estratégica do Comité Político e de Segurança (CPS) e sob a autoridade geral do alto representante da União para os Negócios Estrangeiros e a Política de Segurança («alto representante»).\n\n2. A EUPM Arménia tem o seu quartel-general na Arménia.\n\n3. A EUPM Arménia está estruturada de acordo com os seus documentos de planificação."
+  },
+  "17c36c484cc3eb39": {
+   "fragment_id": "Artigo 4.º — Comandante da operação civil",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Comandante da operação civil",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Comandante da operação civil\n\n1. O diretor-executivo do quartel-general das operações civis (Quartel-General CivOps) é o comandante da operação civil da EUPM Arménia. O Quartel-General CivOps é posto à disposição do comandante da operação civil para efeitos da planificação e condução da EUPM Arménia.\n\n2. O comandante da operação civil exerce o comando e o controlo da EUPM Arménia a nível estratégico, sob o controlo político e a direção estratégica do CPS e sob a autoridade geral do alto representante.\n\n3. O comandante da operação civil assegura a execução adequada e eficaz das decisões do Conselho, assim como das decisões do CPS, no que respeita à condução das operações, designadamente através da emissão de instruções dirigidas ao chefe de missão e da prestação de aconselhamento e apoio técnico a este último.\n\n4. O comandante da operação civil responde perante o Conselho por intermédio do alto representante.\n\n5. A totalidade do pessoal destacado permanece inteiramente sob o comando das autoridades nacionais do Estado que o destacou de acordo com as regras nacionais, ou da instituição da União em causa ou do Serviço Europeu para a Ação Externa (SEAE), respetivamente. Essas autoridades transferem o controlo operacional (OPCON) do seu pessoal para o comandante da operação civil.\n\n6. O comandante da operação civil é globalmente responsável por assegurar que o dever de diligência da União seja corretamente cumprido.\n\n7. O comandante da operação civil e o chefe da Delegação da União na Arménia consultam-se na medida do necessário."
+  },
+  "452aca3557fd826f": {
+   "fragment_id": "Artigo 5.º — Chefe de missão",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Chefe de missão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Chefe de missão\n\n1. O chefe de missão assume a responsabilidade da EUPM Arménia e exerce o comando e o controlo da missão no teatro de operações. O chefe de missão responde diretamente perante o comandante da operação civil e atua de acordo com as instruções deste último.\n\n2. O chefe de missão é o representante da EUPM Arménia no seu domínio de responsabilidade.\n\n3. O chefe de missão exerce a responsabilidade administrativa e logística pela EUPM Arménia, designadamente a responsabilidade no que respeita aos meios, recursos e informações postos à disposição da EUPM Arménia. O chefe de missão pode delegar funções de gestão relacionadas com questões de pessoal e financeiras em membros do pessoal da EUPM Arménia, sob a sua responsabilidade geral.\n\n4. O chefe de missão emite instruções para a condução eficaz da EUPM Arménia no teatro de operações, assumindo a sua coordenação e gestão corrente, segundo as instruções do comandante da operação civil.\n\n5. O chefe de missão é responsável pelo controlo disciplinar do pessoal da EUPM Arménia. No que respeita ao pessoal destacado, a ação disciplinar é exercida pela autoridade nacional do Estado em causa, de acordo com as suas regras nacionais, pela instituição da União em causa ou pelo SEAE, respetivamente.\n\n6. Sem prejuízo da cadeia de comando, o chefe de missão recebe do chefe da Delegação da União na Arménia orientação política a nível local."
+  },
+  "ded0aaef3d7ca386": {
+   "fragment_id": "Artigo 6.º — Pessoal",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Pessoal\n\n1. A EUPM Arménia é predominantemente constituída por pessoal destacado pelos Estados-Membros, pelas instituições da União ou pelo SEAE. Cada Estado-Membro, cada instituição da União e o SEAE suportam os custos relacionados com o pessoal por si destacado, nomeadamente as despesas de deslocação para e do local de destacamento, os vencimentos, a cobertura médica e os subsídios, com exceção das ajudas de custo diárias.\n\n2. O Estado-Membro, a instituição da União ou o SEAE, respetivamente, respondem pelas reclamações relacionadas com o destacamento apresentadas pelo membro do pessoal destacado ou contra este último, e são responsáveis por quaisquer medidas que seja necessário tomar contra essa pessoa.\n\n3. A EUPM Arménia pode recrutar, numa base contratual, pessoal internacional e local, caso as funções requeridas não possam ser asseguradas pelo pessoal destacado pelos Estados-Membros. Excecionalmente, em casos devidamente justificados e caso não existam candidatos qualificados dos Estados-Membros, podem ser recrutados numa base contratual nacionais dos Estados terceiros participantes, se necessário.\n\n4. As condições de emprego, os direitos e as obrigações do pessoal internacional e local são estipulados nos contratos celebrados entre a EUPM Arménia e os membros do pessoal em causa."
+  },
+  "95eb717b3785f555": {
+   "fragment_id": "Artigo 7.º — Estatuto da EUPM Arménia e do seu pessoal",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Estatuto da EUPM Arménia e do seu pessoal",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Estatuto da EUPM Arménia e do seu pessoal\n\nO estatuto da EUPM Arménia e do seu pessoal, incluindo, se for caso disso, os privilégios, as imunidades e outras garantias necessárias à realização e ao bom funcionamento da EUPM Arménia, é objeto de um acordo celebrado em aplicação do artigo 37.º do TUE e em conformidade com o procedimento previsto no artigo 218.º do Tratado sobre o Funcionamento da União Europeia."
+  },
+  "95baa1b12dcfbec8": {
+   "fragment_id": "Artigo 8.º — Controlo político e direção estratégica",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Controlo político e direção estratégica",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Controlo político e direção estratégica\n\n1. O CPS exerce, sob a responsabilidade do Conselho e do alto representante, o controlo político e a direção estratégica da EUPM Arménia. O CPS fica autorizado pelo Conselho a tomar as decisões pertinentes para o efeito nos termos do artigo 38.º, terceiro parágrafo, do TUE. Essa autorização inclui poderes para nomear um chefe de missão, sob proposta do alto representante, e poderes para alterar o plano de operações (OPLAN). Os poderes de decisão relacionados com os objetivos e o termo da EUPM Arménia continuam a ser exercidos pelo Conselho. As decisões do CPS relativas à nomeação do chefe de missão são publicadas no *Jornal Oficial da União Europeia*.\n\n2. O CPS informa periodicamente o Conselho.\n\n3. O CPS é informado, periodicamente e sempre que necessário, pelo comandante da operação civil e pelo chefe de missão sobre matérias dos respetivos domínios de responsabilidade."
+  },
+  "957341ff1c5cef48": {
+   "fragment_id": "Artigo 9.º — Participação de Estados terceiros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Participação de Estados terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Participação de Estados terceiros\n\n1. Sem prejuízo da autonomia de decisão da União e do seu quadro institucional único, podem ser convidados a dar o seu contributo para a EUPM Arménia Estados terceiros, desde que suportem os custos relativos ao pessoal por eles destacado, nomeadamente os vencimentos, os seguros contra todos os riscos, as ajudas de custo diárias e as despesas de deslocação para a Arménia e a partir deste país, e que contribuam de modo adequado para as despesas de funcionamento da EUPM Arménia, consoante as necessidades.\n\n2. Os Estados terceiros que contribuam para a EUPM Arménia têm os mesmos direitos e obrigações que os Estados-Membros em termos de gestão corrente da EUPM Arménia.\n\n3. O CPS fica autorizado pelo Conselho a tomar as decisões pertinentes sobre a aceitação dos contributos propostos e a criar um comité de contribuintes.\n\n4. As regras práticas respeitantes à participação de Estados terceiros devem ser objeto de acordos celebrados nos termos do artigo 37.º do TUE e, se necessário, de acordos técnicos suplementares. Caso a União e um Estado terceiro celebrem ou tenham celebrado um acordo que estabeleça o regime para a participação desse Estado terceiro em operações da União em matéria de gestão de crises, as disposições desse acordo são aplicáveis no contexto da EUPM Arménia."
+  },
+  "14b0b540a3e1e7c3": {
+   "fragment_id": "Artigo 10.º — Segurança",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Segurança\n\n1. O comandante da operação civil dirige o trabalho de planeamento das medidas de segurança a cargo do chefe de missão e assegura a sua aplicação correta e eficaz pela EUPM Arménia, nos termos do artigo 4.º.\n\n2. O chefe de missão é responsável pelo cumprimento do dever de diligência na EUPM Arménia e por assegurar a observância dos requisitos que lhe são aplicáveis, em consonância com a política de segurança e dever de diligência para as missões civis da PCSD, e seus instrumentos de apoio.\n\n3. O chefe de missão é coadjuvado por um funcionário encarregado da segurança da missão, que responde perante o chefe de missão e que mantém igualmente uma estreita relação funcional com o SEAE.\n\n4. Antes de tomar posse, o pessoal da missão deve obrigatoriamente seguir formação em matéria de segurança, de acordo com o OPLAN. Deve ser-lhe também ministrada periodicamente, no teatro de operações, formação de reciclagem organizada pelo funcionário encarregado da segurança da missão.\n\n5. O chefe de missão assegura a proteção das informações classificadas da UE, de acordo com a Decisão 2013/488/UE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/274def84-3de5-11f1-814f-01aa75ed71a1.0019.03/DOC_1#ntr1-L_202600894PT.000101-E0001)."
+  },
+  "b663e9616104bb74": {
+   "fragment_id": "Artigo 11.º — Capacidade de vigilância",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Capacidade de vigilância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Capacidade de vigilância\n\nA capacidade de vigilância é ativada para a EUPM Arménia."
+  },
+  "3fd0b19579a2bd0a": {
+   "fragment_id": "Artigo 12.º — Disposições jurídicas",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Disposições jurídicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Disposições jurídicas\n\nA EUPM Arménia tem a capacidade de adquirir serviços e fornecimentos, celebrar contratos e convénios administrativos, contratar pessoal, ser titular de contas bancárias, adquirir e alienar bens, liquidar obrigações e comparecer em juízo, na medida do que for necessário à execução da presente decisão."
+  },
+  "172fe2ef537196c5": {
+   "fragment_id": "Artigo 13.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições financeiras\n\n1. O montante de referência financeira destinado a cobrir as despesas relativas à EUPM Arménia durante os quatro meses subsequentes à entrada em vigor da presente decisão é de 2 678 230,39 EUR. O montante de referência financeira para os períodos subsequentes é determinado pelo Conselho.\n\n2. Todas as despesas são geridas de acordo com os procedimentos e as regras aplicáveis ao orçamento geral da União. A participação de pessoas singulares e coletivas na adjudicação de contratos pela EUPM Arménia está aberta sem limitações. Além disso, não é aplicável qualquer regra de origem aos produtos adquiridos pela EUPM Arménia. Sob reserva de aprovação da Comissão, a EUPM Arménia pode celebrar com os Estados-Membros, o Estado anfitrião, os Estados terceiros participantes e outros intervenientes internacionais acordos técnicos de fornecimento de equipamento, serviços e instalações à EUPM Arménia.\n\n3. A EUPM Arménia é responsável pela execução do seu orçamento. Para o efeito, assina um acordo com a Comissão. As disposições financeiras respeitam a cadeia de comando prevista nos artigos 3.º, 4.º e 5.º e as necessidades operacionais da EUPM Arménia.\n\n4. Relativamente às atividades financeiras empreendidas no âmbito do acordo a que se refere o n.º 3, a EUPM Arménia informa plenamente perante a Comissão, ficando sujeita à sua supervisão.\n\n5. As despesas relacionadas com a EUPM Arménia são elegíveis a partir da data de adoção da presente decisão."
+  },
+  "3ef14b7670ebe346": {
+   "fragment_id": "Artigo 14.º — Célula de projetos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Célula de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Célula de projetos\n\n1. A EUPM Arménia dispõe de uma célula de projetos para a identificação e execução de projetos em conformidade com o aconselhamento estratégico e operacional prestado de acordo com o seu mandato, tal como estabelecido no artigo 2.º. Na medida do necessário, a EUPM Arménia facilita e presta aconselhamento relativamente a projetos executados pelos Estados-Membros e Estados terceiros, sob a respetiva responsabilidade, em domínios relacionados com a EUPM Arménia e que promovam os seus objetivos.\n\n2. Sob reserva do n.º 3, a EUPM Arménia está autorizada a recorrer a contribuições financeiras dos Estados-Membros ou de países terceiros para a execução de projetos identificados que completem de forma coerente as demais ações da EUPM Arménia nos dois casos seguintes:\n\na) O projeto encontra-se previsto na ficha financeira da presente decisão; ou\n\nb) O projeto é integrado no decurso do mandato mediante alteração da ficha financeira, a pedido do chefe de missão.\n\nA EUPM Arménia celebra um convénio com os Estados contribuintes, que regule, nomeadamente, as modalidades específicas da resposta a dar a todas as queixas apresentadas por terceiros por prejuízos sofridos em virtude de atos ou omissões da EUPM Arménia na utilização dos fundos colocados à sua disposição por esses Estados. Em caso algum a responsabilidade da União ou do alto representante pode ser invocada pelos Estados contribuintes por atos ou omissões da EUPM Arménia na utilização dos fundos dos referidos Estados.\n\n3. As contribuições financeiras de Estados terceiros para a célula de projetos estão sujeitas à aceitação pelo CPS."
+  },
+  "3b4f697b5729259e": {
+   "fragment_id": "Artigo 15.º — Coerência da resposta e coordenação por parte da União",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Coerência da resposta e coordenação por parte da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Coerência da resposta e coordenação por parte da União\n\n1. No que respeita à execução da presente decisão, o alto representante assegura a coerência com a globalidade da ação externa da União, nomeadamente com os seus programas de assistência.\n\n2. Sem prejuízo da cadeia de comando, o chefe da Delegação da União na Arménia dá orientações políticas a nível local ao chefe de missão.\n\n3. O chefe de missão assegura uma estreita coordenação com os representantes dos Estados-Membros e com os parceiros internacionais na República da Arménia."
+  },
+  "20719c6d72efe139": {
+   "fragment_id": "Artigo 16.º — Divulgações de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Divulgações de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divulgações de informações\n\n1. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão, quando adequado e em função das necessidades da EUPM Arménia, informações classificadas da UE até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» elaboradas para efeitos da EUPM Arménia, nos termos da Decisão 2013/488/UE.\n\n2. Em caso de necessidade operacional específica e imediata, o alto representante fica igualmente autorizado a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUPM Arménia, nos termos da Decisão 2013/488/UE. Para esse efeito, são estabelecidas disposições por acordo entre o alto representante e as autoridades competentes do Estado anfitrião.\n\n3. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUPM Arménia e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho [([^2])](http://publications.europa.eu/resource/cellar/274def84-3de5-11f1-814f-01aa75ed71a1.0019.03/DOC_1#ntr2-L_202600894PT.000101-E0002).\n\n4. O alto representante pode delegar os poderes referidos nos n.^os^ 1 a 3, bem como a competência para celebrar os acordos referidos no n.º 2, em pessoas que se encontrem sob a autoridade do alto representante, no comandante da operação civil e no chefe de missão, nos termos do anexo VI, secção VII, da Decisão 2013/488/UE."
+  },
+  "b3febfe26bfacef9": {
+   "fragment_id": "Artigo 17.º — Lançamento da EUPM Arménia",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Lançamento da EUPM Arménia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Lançamento da EUPM Arménia\n\n1. A EUPM Arménia é lançada em momento oportuno através de uma decisão do Conselho após ter atingido a sua capacidade operacional inicial, com base numa recomendação do comandante da operação civil da EUPM Arménia.\n\n2. A equipa central da EUPM Arménia procede aos preparativos necessários para que a EUPM Arménia possa atingir a sua capacidade operacional inicial."
+  },
+  "db2a87a16bfc92eb": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor e vigência",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor e vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. A presente decisão é aplicável por um período de dois anos a contar da data de lançamento da EUPM Arménia.\n\nFeito no Luxemburgo, em 21 de abril de 2026.\n\n***Pelo Conselho***\n\n***A Presidente***\n\n**K. KALLAS**\n\n---"
+  },
+  "751f757fba2aa1b7": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/274def84-3de5-11f1-814f-01aa75ed71a1.0019.03/DOC_1#ntc1-L_202600894PT.000101-E0001) Decisão 2013/488/UE do Conselho, de 23 de setembro de 2013, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE ([JO L 274 de 15.10.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_274_R_TOC), ELI: [http://data.europa.eu/eli/dec/2013/488/oj](http://data.europa.eu/eli/dec/2013/488/oj)).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/274def84-3de5-11f1-814f-01aa75ed71a1.0019.03/DOC_1#ntc2-L_202600894PT.000101-E0002) Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o seu Regulamento Interno ([JO L 325 de 11.12.2009, p. 35](http://publications.europa.eu/resource/oj/JOL_2009_325_R_TOC), ELI: [http://data.europa.eu/eli/dec/2009/937/oj](http://data.europa.eu/eli/dec/2009/937/oj))."
+  },
+  "6827ea56393a009f": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 21 de abril de 2026\n\nrelativa a uma Missão de Parceria da União Europeia na Arménia (EUPM Arménia)"
+  },
+  "007a9d7a75cc0013": {
+   "fragment_id": "Artigo 2.º — Mandato",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Mandato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Mandato\n\n1. A EUPM Arménia reforça a resiliência da Arménia no domínio das ameaças híbridas por meio da prestação de aconselhamento estratégico, bem como de aconselhamento e apoio a nível operacional às agências pertinentes do setor da segurança, em consonância com uma abordagem de governação integrada e em estreita coordenação com outros intervenientes que partilham as mesmas ideias.\n\n2.\n\nPara o efeito, a EUPM Arménia:\n\na) Presta assistência aos ministérios e agências competentes no reforço da resiliência às ameaças híbridas:\n\ni) fornecendo aconselhamento estratégico sobre o desenvolvimento de estratégias, políticas e protocolos destinados a combater as ameaças híbridas, nomeadamente a manipulação da informação e ingerência por parte de agentes estrangeiros (FIMI) e no domínio do ciberespaço, bem como os fluxos financeiros ilícitos no contexto eleitoral e político, e reforçando a cibersegurança e a resiliência face à FIMI,\n\nii) apoiando uma abordagem de governação integrada e a coordenação interinstitucional por meio do aconselhamento estratégico sobre ameaças híbridas no que diz respeito à coordenação estruturada, da elaboração de uma avaliação conjunta das ameaças e através da participação sistemática dos ministérios e agências competentes com mandatos para diversos aspetos da luta contra as ameaças híbridas e para a gestão de crises,\n\niii) identificando as necessidades de reforço das capacidades no setor da segurança no que respeita à monitorização, alerta rápido, deteção, identificação, atribuição e resposta a ameaças híbridas, nomeadamente nos domínios da FIMI e do ciberespaço, em conformidade com as metodologias e normas da União;\n\nb) Complementa as atividades acima referidas, prestando aconselhamento a nível operacional aos ministérios e agências competentes em domínios específicos relacionados com as ameaças híbridas, e é apoiada por uma célula de projetos que fornece apoio operacional específico, em consonância com a abordagem integrada das crises e conflitos externos e, na medida do possível, em estreita coordenação com outros intervenientes que partilham as mesmas ideias.\n\n3. O direito internacional humanitário, os direitos humanos e o princípio da igualdade de género, a proteção da população civil e as agendas decorrentes da Resolução do Conselho de Segurança das Nações Unidas 1325 (2000) sobre as Mulheres, a Paz e a Segurança, da Resolução 2250 (2015) sobre a Juventude, a Paz e a Segurança e da Resolução 1612 (2005) sobre as Crianças e os Conflitos Armados devem ser integrados plenamente e de forma proativa no planeamento estratégico e operacional, nas atividades e nos relatórios da EUPM Arménia."
+  },
+  "beb78849df1a8fba": {
+   "fragment_id": "Artigo 10.º — Segurança",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Segurança\n\n1. O comandante da operação civil dirige o trabalho de planeamento das medidas de segurança a cargo do chefe de missão e assegura a sua aplicação correta e eficaz pela EUPM Arménia, nos termos do artigo 4.º.\n\n2. O chefe de missão é responsável pelo cumprimento do dever de diligência na EUPM Arménia e por assegurar a observância dos requisitos que lhe são aplicáveis, em consonância com a política de segurança e dever de diligência para as missões civis da PCSD, e seus instrumentos de apoio.\n\n3. O chefe de missão é coadjuvado por um funcionário encarregado da segurança da missão, que responde perante o chefe de missão e que mantém igualmente uma estreita relação funcional com o SEAE.\n\n4. Antes de tomar posse, o pessoal da missão deve obrigatoriamente seguir formação em matéria de segurança, de acordo com o OPLAN. Deve ser-lhe também ministrada periodicamente, no teatro de operações, formação de reciclagem organizada pelo funcionário encarregado da segurança da missão.\n\n5. O chefe de missão assegura a proteção das informações classificadas da UE, de acordo com a Decisão 2013/488/UE do Conselho ([^1^](http://publications.europa.eu/resource/cellar/58169850-90a7-11f1-9262-01aa75ed71a1.0022.02/DOC_1#E0001))."
+  },
+  "b57cb363dd65739d": {
+   "fragment_id": "Artigo 13.º — Disposições financeiras",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Disposições financeiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Disposições financeiras\n\n1. O montante de referência financeira destinado a cobrir as despesas relativas à EUPM Arménia para o período compreendido entre 21 de abril de 2026 e 12 de julho de 2028 é de 14 947 077,57 EUR. O montante de referência financeira para os períodos subsequentes é determinado pelo Conselho.\n\n2. Todas as despesas são geridas de acordo com os procedimentos e as regras aplicáveis ao orçamento geral da União. A participação de pessoas singulares e coletivas na adjudicação de contratos pela EUPM Arménia está aberta sem limitações. Além disso, não é aplicável qualquer regra de origem aos produtos adquiridos pela EUPM Arménia. Sob reserva de aprovação da Comissão, a EUPM Arménia pode celebrar com os Estados-Membros, o Estado anfitrião, os Estados terceiros participantes e outros intervenientes internacionais acordos técnicos de fornecimento de equipamento, serviços e instalações à EUPM Arménia.\n\n3. A EUPM Arménia é responsável pela execução do seu orçamento. Para o efeito, assina um acordo com a Comissão. As disposições financeiras respeitam a cadeia de comando prevista nos artigos 3.º, 4.º e 5.º e as necessidades operacionais da EUPM Arménia.\n\n4. Relativamente às atividades financeiras empreendidas no âmbito do acordo a que se refere o n.º 3, a EUPM Arménia informa plenamente perante a Comissão, ficando sujeita à sua supervisão.\n\n5. As despesas relacionadas com a EUPM Arménia são elegíveis a partir da data de adoção da presente decisão."
+  },
+  "40de00b3eab13e65": {
+   "fragment_id": "Artigo 14.º — Célula de projetos",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Célula de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Célula de projetos\n\n1. A EUPM Arménia dispõe de uma célula de projetos para a identificação e execução de projetos em conformidade com o aconselhamento estratégico e operacional prestado de acordo com o seu mandato, tal como estabelecido no artigo 2.º. Na medida do necessário, a EUPM Arménia facilita e presta aconselhamento relativamente a projetos executados pelos Estados-Membros e Estados terceiros, sob a respetiva responsabilidade, em domínios relacionados com a EUPM Arménia e que promovam os seus objetivos.\n\n2.\n\nSob reserva do n.º 3, a EUPM Arménia está autorizada a recorrer a contribuições financeiras dos Estados-Membros ou de países terceiros para a execução de projetos identificados que completem de forma coerente as demais ações da EUPM Arménia nos dois casos seguintes:\n\na) O projeto encontra-se previsto na ficha financeira da presente decisão; ou\n\nb) O projeto é integrado no decurso do mandato mediante alteração da ficha financeira, a pedido do chefe de missão.\n\nA EUPM Arménia celebra um convénio com os Estados contribuintes, que regule, nomeadamente, as modalidades específicas da resposta a dar a todas as queixas apresentadas por terceiros por prejuízos sofridos em virtude de atos ou omissões da EUPM Arménia na utilização dos fundos colocados à sua disposição por esses Estados. Em caso algum a responsabilidade da União ou do alto representante pode ser invocada pelos Estados contribuintes por atos ou omissões da EUPM Arménia na utilização dos fundos dos referidos Estados.\n\n3. As contribuições financeiras de Estados terceiros para a célula de projetos estão sujeitas à aceitação pelo CPS."
+  },
+  "30689faef80cb6b4": {
+   "fragment_id": "Artigo 16.º — Divulgações de informações",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Divulgações de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Divulgações de informações\n\n1. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão, quando adequado e em função das necessidades da EUPM Arménia, informações classificadas da UE até ao nível «CONFIDENTIEL UE/EU CONFIDENTIAL» elaboradas para efeitos da EUPM Arménia, nos termos da Decisão 2013/488/UE.\n\n2. Em caso de necessidade operacional específica e imediata, o alto representante fica igualmente autorizado a comunicar ao Estado anfitrião informações classificadas da UE até ao nível «RESTREINT UE/EU RESTRICTED» elaboradas para efeitos da EUPM Arménia, nos termos da Decisão 2013/488/UE. Para esse efeito, são estabelecidas disposições por acordo entre o alto representante e as autoridades competentes do Estado anfitrião.\n\n3. O alto representante fica autorizado a divulgar aos Estados terceiros associados à presente decisão quaisquer documentos da UE não classificados relacionados com as deliberações do Conselho relativas à EUPM Arménia e abrangidos pela obrigação de sigilo profissional nos termos do artigo 6.º, n.º 1, do Regulamento Interno do Conselho ([^2^](http://publications.europa.eu/resource/cellar/58169850-90a7-11f1-9262-01aa75ed71a1.0022.02/DOC_1#E0002)).\n\n4. O alto representante pode delegar os poderes referidos nos n.^os^ 1 a 3, bem como a competência para celebrar os acordos referidos no n.º 2, em pessoas que se encontrem sob a autoridade do alto representante, no comandante da operação civil e no chefe de missão, nos termos do anexo VI, secção VII, da Decisão 2013/488/UE."
+  },
+  "0f244cf4e8e2bfdf": {
+   "fragment_id": "Artigo 18.º — Entrada em vigor e vigência",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Entrada em vigor e vigência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Entrada em vigor e vigência\n\n1. A presente decisão entra em vigor na data da sua adoção.\n\n2. A presente decisão é aplicável por um período de dois anos a contar da data de lançamento da EUPM Arménia.\n\n---"
+  },
+  "fda0c9dd08d55caf": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> () Decisão 2013/488/UE do Conselho, de 23 de setembro de 2013, relativa às regras de segurança aplicáveis à proteção das informações classificadas da UE (JO L 274 de 15.10.2013, p. 1, ELI: [http://data.europa.eu/eli/dec/2013/488/oj](http://data.europa.eu/eli/dec/2013/488/oj)).\n\n> () Decisão 2009/937/UE do Conselho, de 1 de dezembro de 2009, que adota o seu Regulamento Interno (JO L 325 de 11.12.2009, p. 35, ELI: [http://data.europa.eu/eli/dec/2009/937/oj](http://data.europa.eu/eli/dec/2009/937/oj))."
+  }
+ }
+}

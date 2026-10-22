@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-10-12'
+version_history:
+  file: regulamento-ue-2022-1925.versoes.json
+  count: 1
+  source_lastmod: '2022-10-12'
+  versions:
+  - date: '2022-10-12'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32022R1925
   eli: http://data.europa.eu/eli/reg/2022/1925/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b4326c28-49cd-11ed-92ed-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a23d3ad2-104a-11ee-b12e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1925-20221012
-  retrieved_at: '2026-10-22T02:19:04Z'
+  retrieved_at: '2026-10-22T17:16:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T15:36:40.435+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:19:04Z'
-  notes: Texto consolidado 02022R1925-20221012.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:06Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2022-1925.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -237,29 +246,19 @@ relationships:
   date: '2026-10-01'
 article_structure:
   article_count: 54
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:19:04Z'
+  checked_at: '2026-10-22T17:16:06Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2022/1925 do Parlamento Europeu e do Conselho de 14 de setembro de 2022
-
-> 02022R1925 — PT — 12.10.2022 — 000.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R1925R%2802%29) — [Rectificação, JO L 90024, 10.1.2025, p. 1 (2022/1925)](http://publications.europa.eu/resource/celex/32022R1925R%2802%29)
-
-## REGULAMENTO (UE) 2022/1925 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de setembro de 2022
 

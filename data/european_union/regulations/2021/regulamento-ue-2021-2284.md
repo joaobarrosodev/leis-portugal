@@ -35,6 +35,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-20'
+version_history:
+  file: regulamento-ue-2021-2284.versoes.json
+  count: 2
+  source_lastmod: '2025-11-20'
+  versions:
+  - date: '2021-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-11-20'
+    amending: eu:celex:32025R2159:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2159 DA COMISSÃO de 27 de outubro de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Datas de apresentação das informações
+    - Altera Artigo 5.º — Formato e periodicidade da comunicação de informações por parte das empresas de investimento que
+      não são empresas de investimento de pequena dimensão não interligadas
+    - Altera Artigo 8.º — Exatidão dos dados e informações associadas às apresentações de dados
+    - Altera Artigo 12.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita INFORMAÇÕES RELATIVAS A EMPRESAS DE INVESTIMENTO QUE NÃO SEJAM EMPRESAS DE INVESTIMENTO DE PEQUENA DIMENSÃO E
+      NÃO INTERLIGADAS
+    - Adita I 01.00 - COMPOSIÇÃO DOS FUNDOS PRÓPRIOS (I1)
+    - Adita I 02.01 - REQUISITOS DE FUNDOS PRÓPRIOS (I2.1)
+    - Adita IF 02.02 – RÁCIOS DE FUNDOS PRÓPRIOS (IF 2.2)
+    - Adita I 03.00 - CÁLCULO DO REQUISITO BASEADO NAS DESPESAS GERAIS FIXAS (I3)
+    - Adita I 04.00 - CÁLCULOS DO REQUISITO TOTAL BASEADO NOS FATORES K (I4)
+    - Adita I 05.00 - NÍVEL DE ATIVIDADE - ANÁLISE DOS LIMIARES (I5)
+    - Adita I 06.00 Fatores K - informações adicionais (I 06)
+    - Adita I 06.01 Ativos sob gestão - informações adicionais sobre os ativos sob gestão
+    - Adita I 06.02 Total mensal de ativos sob gestão
+    - Adita I 06.03 Fundos de clientes detidos - informações adicionais sobre os fundos de clientes detidos
+    - Adita I 06.04 Valor médio dos totais diários de fundos de clientes detidos
+    - Adita I 06.05 Ativos objeto de guarda e administração - informações adicionais sobre ativos objeto de guarda e administração
+    - Adita I 06.06 Valor médio dos totais diários de ativos objeto de guarda e administração
+    - Adita I 06.07 Ordens de clientes tratadas - informações adicionais sobre as ordens de clientes tratadas
+    - Adita I 06.08 Valor médio dos totais diários de ordens de clientes tratadas
+    - Adita I 06.09 K-Risco de posição líquida - informações adicionais sobre K-NPR
+    - Adita I 06.10 Margem de compensação concedida - informações adicionais sobre margem de compensação concedida
+    - Adita I 06.11 Incumprimento da contraparte na negociação - informações adicionais sobre incumprimento da contraparte
+      na negociação
+    - Adita I 06.12 Fluxo diário de negociação - informações adicionais sobre fluxos diários de negociação
+    - Adita I 06.13 Valor médio dos totais diários de fluxos de negociação
+    - Adita I 07.00 K-CON - informações adicionais (I7)
+    - Adita I 08.00 - RISCO DE CONCENTRAÇÃO - ARTIGO 54.º DO IFR (I8 )
+    - Adita I 08.01 Nível de risco de concentração - Fundos de clientes detidos
+    - Adita I 08.02 Nível de risco de concentração - Ativos objeto de guarda e administração
+    - Adita I 08.03 Nível de risco de concentração - Total dos depósitos próprios em numerário
+    - Adita I 08.04 Nível de risco de concentração - Receitas totais
+    - Adita I 08.05 Exposições da carteira de negociação
+    - Adita I 08.06 Elementos extra carteira de negociação e elementos extrapatrimoniais
+    - Adita I 09.00 - REQUISITOS DE LIQUIDEZ (I9)
+    - Adita ANEXO II
+    - Adita COMUNICAÇÃO DE INFORMAÇÕES POR PARTE DE EMPRESAS DE INVESTIMENTO QUE NÃO SÃO EMPRESAS DE INVESTIMENTO DE PEQUENA
+      DIMENSÃO NÃO INTERLIGADAS
+    - 'Adita PARTE I: INSTRUÇÕES GERAIS'
 identifiers:
   celex: 32021R2284
   eli: http://data.europa.eu/eli/reg_impl/2021/2284/oj
@@ -49,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6a5d983d-62c9-11ec-a033-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8741922e-0708-11f1-825d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2284-20251120
-  retrieved_at: '2026-10-22T03:19:58Z'
+  retrieved_at: '2026-10-22T17:15:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T11:47:33.479+01:00'
 integrity:
@@ -58,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:58Z'
-  notes: Texto consolidado 02021R2284-20251120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:16Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2021-2284.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -107,29 +164,19 @@ relationships:
   date: '2026-01-15'
 article_structure:
   article_count: 12
-  section_count: 107
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 108
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:58Z'
+  checked_at: '2026-10-22T17:15:16Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2021/2284 da Comissão de 10 de dezembro de 2021
-
-> 02021R2284 — PT — 20.11.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R2159) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2159 DA COMISSÃO de 27 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2159) — L 2159 — 1 — 31.10.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2021/2284 DA COMISSÃO
 
 de 10 de dezembro de 2021
 

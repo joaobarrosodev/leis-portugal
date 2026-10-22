@@ -36,6 +36,129 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-25'
+version_history:
+  file: regulamento-ue-2018-848.versoes.json
+  count: 5
+  source_lastmod: '2025-03-25'
+  versions:
+  - date: '2020-11-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-01-01'
+    amending: eu:celex:32020R0427:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/427 DA COMISSÃO de 13 de janeiro de 2020; M2; REGULAMENTO DELEGADO (UE)
+      2020/1794 DA COMISSÃO de 16 de setembro de 2020; REGULAMENTO DELEGADO (UE) 2021/642 DA COMISSÃO de 30 de outubro de
+      2020; REGULAMENTO DELEGADO (UE) 2021/715 DA COMISSÃO de 20 de janeiro de 2021; REGULAMENTO DELEGADO (UE) 2021/716 DA
+      COMISSÃO de 9 de fevereiro de 2021; REGULAMENTO DELEGADO (UE) 2021/1006 DA COMISSÃO de 12 de abril de 2021; REGULAMENTO
+      DELEGADO (UE) 2021/1691 DA COMISSÃO de 12 de julho de 2021; REGULAMENTO DELEGADO (UE) 2021/1697 DA COMISSÃO de 13 de
+      julho de 2021; REGULAMENTO DELEGADO (UE) 2022/474 DA COMISSÃO de 17 de janeiro de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Proibição de utilização de OGM
+    - Altera Artigo 16.º — Regras de produção de géneros alimentícios transformados
+    - Altera Artigo 26.º — Recolha de dados relativos à disponibilidade no mercado de material de reprodução vegetal biológico
+      e em conversão, de animais de criação biológica e de juvenis de aquicultura biológica
+    - Altera Artigo 29.º — Medidas a tomar em caso de presença de produtos ou substâncias não autorizados
+    - Altera Artigo 34.º — Sistema de certificação
+    - Altera Artigo 36.º — Grupo de operadores
+    - Altera Artigo 43.º — Regras adicionais sobre o intercâmbio de informações
+    - Altera Artigo 46.º — Reconhecimento das autoridades de controlo e dos organismos de controlo
+    - Altera Artigo 48.º — Equivalência ao abrigo do Regulamento (CE) n.º 834/2007
+    - Altera Artigo 49.º — Relatório da Comissão relativo à aplicação dos artigos 47.º e 48.º
+    - Altera Artigo 53.º — Derrogações, autorizações e apresentação de relatórios
+    - Altera Artigo 57.º — Medidas transitórias relativas às autoridades de controlo e aos organismos de controlo reconhecidos
+      ao abrigo do artigo 33.º, n.º 3, do Regulamento (CE) n.º 834/2007
+    - Altera Artigo 60.º — Medidas transitórias relativas às existências de produtos biológicos produzidos em conformidade
+      com o Regulamento (CE) n.º 834/2007
+    - Altera Parte I — Regras aplicáveis à produção vegetal
+    - Altera Parte II — Regras aplicáveis à produção animal
+    - Altera Parte III — Regras aplicáveis à produção de algas e de animais de aquicultura
+    - Altera Parte IV — Regras aplicáveis à produção de géneros alimentícios transformados
+    - Altera Parte V — Regras aplicáveis à produção de alimentos transformados para animais
+    - Altera Parte VI — Vinho
+    - Altera Parte VII — Leveduras utilizadas como géneros alimentícios ou alimentos para animais
+    - Altera 2. Acondicionamento e transporte de produtos para outros operadores ou unidades
+    - Altera Notas
+    - Adita CERTIFICADO NOS TERMOS DO ARTIGO 35.º N.º 1, DO REGULAMENTO (UE) 2018/848 RELATIVO À PRODUÇÃO BIOLÓGICA E À ROTULAGEM
+      DOS PRODUTOS BIOLÓGICOS
+    - 'Adita Parte I: Elementos obrigatórios'
+    - 'Adita Parte II: Elementos facultativos específicos'
+    - Suprime Certificado nos termos do artigo 35.º, n.º 1, do Regulamento (UE) 2018/848 relativo à produção biológica e à
+      rotulagem dos produtos biológicos
+    - Suprime Anexo — Lista dos membros do grupo de operadores, tal como definido no artigo 36.º do Regulamento (UE) 2018/848.
+  - date: '2023-02-21'
+    amending: eu:celex:32023R0207:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/207 DA COMISSÃO de 24 de novembro de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Proibição de utilização de OGM
+    - Altera Artigo 16.º — Regras de produção de géneros alimentícios transformados
+    - Altera Artigo 26.º — Recolha de dados relativos à disponibilidade no mercado de material de reprodução vegetal biológico
+      e em conversão, de animais de criação biológica e de juvenis de aquicultura biológica
+    - Altera Artigo 34.º — Sistema de certificação
+    - Altera Artigo 43.º — Regras adicionais sobre o intercâmbio de informações
+    - Altera Artigo 46.º — Reconhecimento das autoridades de controlo e dos organismos de controlo
+    - Altera Parte II — Regras aplicáveis à produção animal
+    - Altera Parte III — Regras aplicáveis à produção de algas e de animais de aquicultura
+    - Altera Parte IV — Regras aplicáveis à produção de géneros alimentícios transformados
+    - Altera Parte V — Regras aplicáveis à produção de alimentos transformados para animais
+    - Altera Parte VI — Vinho
+    - 'Altera Parte I: Elementos obrigatórios'
+    - 'Altera Parte II: Elementos facultativos específicos'
+    - Altera Notas
+    - Adita Certificado emitido nos termos do artigo 35.º, n.º 1, do Regulamento (UE) 2018/848 relativo à produção biológica
+      e à rotulagem dos produtos biológicos
+    - Suprime CERTIFICADO NOS TERMOS DO ARTIGO 35.º N.º 1, DO REGULAMENTO (UE) 2018/848 RELATIVO À PRODUÇÃO BIOLÓGICA E À
+      ROTULAGEM DOS PRODUTOS BIOLÓGICOS
+  - date: '2024-12-01'
+    amending: eu:celex:32024R2867:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2867 DA COMISSÃO de 2 de setembro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Proibição de utilização de OGM
+    - Altera Artigo 16.º — Regras de produção de géneros alimentícios transformados
+    - Altera Artigo 26.º — Recolha de dados relativos à disponibilidade no mercado de material de reprodução vegetal biológico
+      e em conversão, de animais de criação biológica e de juvenis de aquicultura biológica
+    - Altera Artigo 32.º — Indicações obrigatórias
+    - Altera Artigo 34.º — Sistema de certificação
+    - Altera Artigo 43.º — Regras adicionais sobre o intercâmbio de informações
+    - Altera Artigo 46.º — Reconhecimento das autoridades de controlo e dos organismos de controlo
+    - Altera Parte II — Regras aplicáveis à produção animal
+    - Altera Parte III — Regras aplicáveis à produção de algas e de animais de aquicultura
+    - Altera Parte IV — Regras aplicáveis à produção de géneros alimentícios transformados
+    - Altera Parte V — Regras aplicáveis à produção de alimentos transformados para animais
+    - Altera Parte VI — Vinho
+    - Altera 1. Logótipo
+    - 'Altera Parte I: Elementos obrigatórios'
+    - 'Altera Parte II: Elementos facultativos específicos'
+    - Altera Notas
+  - date: '2025-03-25'
+    amending: eu:celex:32025R0452:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/452 DA COMISSÃO de 19 de dezembro de 2024; REGULAMENTO DELEGADO (UE) 2025/405
+      DA COMISSÃO de 13 de dezembro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 11.º — Proibição de utilização de OGM
+    - Altera Artigo 16.º — Regras de produção de géneros alimentícios transformados
+    - Altera Artigo 26.º — Recolha de dados relativos à disponibilidade no mercado de material de reprodução vegetal biológico
+      e em conversão, de animais de criação biológica e de juvenis de aquicultura biológica
+    - Altera Artigo 34.º — Sistema de certificação
+    - Altera Artigo 43.º — Regras adicionais sobre o intercâmbio de informações
+    - Altera Artigo 46.º — Reconhecimento das autoridades de controlo e dos organismos de controlo
+    - Altera Parte I — Regras aplicáveis à produção vegetal
+    - Altera Parte II — Regras aplicáveis à produção animal
+    - Altera Parte III — Regras aplicáveis à produção de algas e de animais de aquicultura
+    - Altera Parte IV — Regras aplicáveis à produção de géneros alimentícios transformados
+    - Altera Parte VI — Vinho
+    - Altera 2. Acondicionamento e transporte de produtos para outros operadores ou unidades
+    - 'Altera Parte I: Elementos obrigatórios'
+    - 'Altera Parte II: Elementos facultativos específicos'
+    - Altera Notas
 identifiers:
   celex: 32018R0848
   eli: http://data.europa.eu/eli/reg/2018/848/oj
@@ -50,7 +173,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/083834f7-6f9d-11e8-9483-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e53b4885-0f16-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0848-20250325
-  retrieved_at: '2026-10-22T02:37:46Z'
+  retrieved_at: '2026-10-22T17:06:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T17:35:56.414+01:00'
 integrity:
@@ -59,9 +182,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:46Z'
-  notes: Texto consolidado 02018R0848-20250325.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:10Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2018-848.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -601,52 +724,21 @@ relationships:
   date: '2007-06-28'
 article_structure:
   article_count: 61
-  section_count: 57
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 60
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:46Z'
-  warnings: []
+  checked_at: '2026-10-22T17:06:10Z'
+  warnings:
+  - '02018R0848-20180614: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02018R0848-20210101: versão indisponível (Sem expressão na língua por para CELEX 02018R0848-20210101.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/848 do Parlamento Europeu e do Conselho, de 30 de maio de 2018
-
-> 02018R0848 — PT — 25.03.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0427) — [REGULAMENTO DELEGADO (UE) 2020/427 DA COMISSÃO de 13 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0427) — L 87 — 1 — 23.3.2020
-- [M2](http://publications.europa.eu/resource/celex/32021R0269) — Alterado por: [REGULAMENTO DELEGADO (UE) 2021/269 DA COMISSÃO de 4 de dezembro de 2020](http://publications.europa.eu/resource/celex/32021R0269) — L 60 — 24 — 22.2.2021
-- [►M3](http://publications.europa.eu/resource/celex/32020R1693) — [REGULAMENTO (UE) 2020/1693 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de novembro de 2020](http://publications.europa.eu/resource/celex/32020R1693) — L 381 — 1 — 13.11.2020
-- [►M4](http://publications.europa.eu/resource/celex/32020R1794) — [REGULAMENTO DELEGADO (UE) 2020/1794 DA COMISSÃO de 16 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1794) — L 402 — 23 — 1.12.2020
-- [►M5](http://publications.europa.eu/resource/celex/32021R0642) — [REGULAMENTO DELEGADO (UE) 2021/642 DA COMISSÃO de 30 de outubro de 2020](http://publications.europa.eu/resource/celex/32021R0642) — L 133 — 1 — 20.4.2021
-- [►M6](http://publications.europa.eu/resource/celex/32025R0452) — Alterado por: [REGULAMENTO DELEGADO (UE) 2025/452 DA COMISSÃO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0452) — L 452 — 1 — 5.3.2025
-- [►M7](http://publications.europa.eu/resource/celex/32021R0715) — [REGULAMENTO DELEGADO (UE) 2021/715 DA COMISSÃO de 20 de janeiro de 2021](http://publications.europa.eu/resource/celex/32021R0715) — L 151 — 1 — 3.5.2021
-- [►M8](http://publications.europa.eu/resource/celex/32021R0716) — [REGULAMENTO DELEGADO (UE) 2021/716 DA COMISSÃO de 9 de fevereiro de 2021](http://publications.europa.eu/resource/celex/32021R0716) — L 151 — 5 — 3.5.2021
-- [M9](http://publications.europa.eu/resource/celex/32021R1006) — [REGULAMENTO DELEGADO (UE) 2021/1006 DA COMISSÃO de 12 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1006) — L 222 — 3 — 22.6.2021
-- [►M10](http://publications.europa.eu/resource/celex/32021R1691) — [REGULAMENTO DELEGADO (UE) 2021/1691 DA COMISSÃO de 12 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1691) — L 334 — 1 — 22.9.2021
-- [►M11](http://publications.europa.eu/resource/celex/32021R1697) — [REGULAMENTO DELEGADO (UE) 2021/1697 DA COMISSÃO de 13 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1697) — L 336 — 3 — 23.9.2021
-- [►M12](http://publications.europa.eu/resource/celex/32022R0474) — [REGULAMENTO DELEGADO (UE) 2022/474 DA COMISSÃO de 17 de janeiro de 2022](http://publications.europa.eu/resource/celex/32022R0474) — L 98 — 1 — 25.3.2022
-- [►M13](http://publications.europa.eu/resource/celex/32023R0207) — [REGULAMENTO DELEGADO (UE) 2023/207 DA COMISSÃO de 24 de novembro de 2022](http://publications.europa.eu/resource/celex/32023R0207) — L 29 — 6 — 1.2.2023
-- [►M14](http://publications.europa.eu/resource/celex/32024R2867) — [REGULAMENTO DELEGADO (UE) 2024/2867 DA COMISSÃO de 2 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2867) — L 2867 — 1 — 11.11.2024
-- [►M15](http://publications.europa.eu/resource/celex/32025R0405) — [REGULAMENTO DELEGADO (UE) 2025/405 DA COMISSÃO de 13 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0405) — L 405 — 1 — 26.2.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R0848R%2804%29) — [Rectificação, JO L 270, 29.10.2018, p. 37 (2018/848)](http://publications.europa.eu/resource/celex/32018R0848R%2804%29)
-- [►C2](http://publications.europa.eu/resource/celex/32018R0848R%2805%29) — [Rectificação, JO L 305, 26.11.2019, p. 59 (2018/848)](http://publications.europa.eu/resource/celex/32018R0848R%2805%29)
-- [C3](http://publications.europa.eu/resource/celex/32020R1794R%2801%29) — [Rectificação, JO L 439, 29.12.2020, p. 32 (2020/1794)](http://publications.europa.eu/resource/celex/32020R1794R%2801%29)
-- [►C4](http://publications.europa.eu/resource/celex/32018R0848R%2808%29) — [Rectificação, JO L 007, 11.1.2021, p. 53 (2018/848)](http://publications.europa.eu/resource/celex/32018R0848R%2808%29)
-- [►C5](http://publications.europa.eu/resource/celex/32018R0848R%2809%29) — [Rectificação, JO L 204, 10.6.2021, p. 47 (2018/848)](http://publications.europa.eu/resource/celex/32018R0848R%2809%29)
-- [►C6](http://publications.europa.eu/resource/celex/32018R0848R%2826%29) — [Rectificação, JO L 90732, 15.11.2024, p. 1 (2018/848)](http://publications.europa.eu/resource/celex/32018R0848R%2826%29)
-
-## REGULAMENTO (UE) 2018/848 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de maio de 2018
 

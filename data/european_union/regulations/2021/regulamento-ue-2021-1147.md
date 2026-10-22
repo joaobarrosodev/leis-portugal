@@ -36,6 +36,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2021-1147.versoes.json
+  count: 3
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2022-04-12'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-06-11'
+    amending: eu:celex:32024R1350:por
+    amending_title: REGULAMENTO (UE) 2024/1350 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 16.º — Programas dos Estados-Membros
+    - Altera Artigo 19.º — Recursos destinados à reinstalação e à admissão por motivos humanitários
+    - Altera Artigo 20.º — Recursos para a transferência de requerentes ou beneficiários de proteção internacional
+    - Altera Artigo 25.º — Ações da União
+    - Altera Artigo 31.º — Ajuda de emergência
+    - Altera Artigo 38.º — Procedimento de comité
+    - Altera CRITÉRIOS DE ATRIBUIÇÃO DE FINANCIAMENTO AOS PROGRAMAS DOS ESTADOS-MEMBROS
+    - Altera ÂMBITO DE APLICAÇÃO DO APOIO
+    - Altera Indicadores de realizações
+    - Altera Notas
+  - date: '2026-07-01'
+    amending: eu:celex:32024R1351:por
+    amending_title: REGULAMENTO (UE) 2024/1351 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024; REGULAMENTO (UE)
+      2024/1359 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 15.º — Taxas de cofinanciamento
+    - Altera Artigo 16.º — Programas dos Estados-Membros
+    - Altera Artigo 20.º — Recursos para a transferência de requerentes ou beneficiários de proteção internacional
+    - Altera Artigo 25.º — Ações da União
+    - Altera Artigo 31.º — Ajuda de emergência
+    - Altera Artigo 35.º — Relatórios anuais de desempenho
+    - Altera Artigo 38.º — Procedimento de comité
+    - Altera CRITÉRIOS DE ATRIBUIÇÃO DE FINANCIAMENTO AOS PROGRAMAS DOS ESTADOS-MEMBROS
+    - Altera MEDIDAS DE EXECUÇÃO
+    - Altera ÂMBITO DE APLICAÇÃO DO APOIO
+    - Altera TIPOS DE INTERVENÇÃO
+    - Altera Indicadores de realizações
+    - Altera Notas
 identifiers:
   celex: 32021R1147
   eli: http://data.europa.eu/eli/reg/2021/1147/oj
@@ -50,7 +93,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e88fb01f-e505-11eb-a1a5-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e65d382f-53de-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1147-20260701
-  retrieved_at: '2026-10-22T02:49:32Z'
+  retrieved_at: '2026-10-22T17:13:46Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T16:12:19.901+01:00'
 integrity:
@@ -59,9 +102,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:32Z'
-  notes: Texto consolidado 02021R1147-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:46Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2021-1147.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -342,32 +385,20 @@ relationships:
   date: '2022-06-22'
 article_structure:
   article_count: 40
-  section_count: 52
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:32Z'
-  warnings: []
+  checked_at: '2026-10-22T17:13:46Z'
+  warnings:
+  - '02021R1147-20210715: versão indisponível (Sem expressão na língua por para CELEX 02021R1147-20210715.)'
   errors: []
 ---
 
 # Regulamento (UE) 2021/1147 do Parlamento Europeu e do Conselho de 7 de julho de 2021
-
-> 02021R1147 — PT — 01.07.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0585) — [REGULAMENTO (UE) 2022/585 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0585) — L 112 — 1 — 11.4.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R1350) — [REGULAMENTO (UE) 2024/1350 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1350) — L 1350 — 1 — 22.5.2024
-- [►M3](http://publications.europa.eu/resource/celex/32024R1351) — [REGULAMENTO (UE) 2024/1351 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1351) — L 1351 — 1 — 22.5.2024
-- [►M4](http://publications.europa.eu/resource/celex/32024R1359) — [REGULAMENTO (UE) 2024/1359 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1359) — L 1359 — 1 — 22.5.2024
-
-## REGULAMENTO (UE) 2021/1147 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 7 de julho de 2021
 

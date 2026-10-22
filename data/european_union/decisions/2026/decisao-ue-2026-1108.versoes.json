@@ -1,0 +1,366 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1108:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1108-20260914",
+ "dre_path": null,
+ "source_lastmod": "2026-09-14",
+ "versions": [
+  {
+   "date": "2026-05-20",
+   "future": false,
+   "celex": "32026D1108",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b00ffcf1d244b518",
+    "f036819c23af3662",
+    "10e333d417ce4a6b",
+    "b88c543c7d924245",
+    "2d8cc3089ec0aca6"
+   ]
+  },
+  {
+   "date": "2026-06-05",
+   "future": false,
+   "celex": "02026D1108-20260605",
+   "acts": [
+    {
+     "id": "eu:celex:32026D1217:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2026/1217 DA COMISSÃO de 2 de junho de 2026",
+     "published": null,
+     "celex": "32026D1217"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Adita Artigo 1.º-A",
+    "Adita Artigo 1.º-B",
+    "Adita Artigo 1.º-C",
+    "Adita ANEXO I",
+    "Adita Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+    "Adita Parte B: Outras zonas submetidas a restrições",
+    "Adita ANEXO II",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "a66dc2fc23885cb9",
+    "698d484a4ebfb625",
+    "94860a46b66cfb63",
+    "b9c0417b725a85cc",
+    "363cc6302bf9f08a",
+    "10e333d417ce4a6b",
+    "6d4a7df0c978fe51",
+    "d664376e2a8dcecd",
+    "fdb881d953a4f11c",
+    "5db5fa1e078bd4b1",
+    "e254328463296151"
+   ]
+  },
+  {
+   "date": "2026-07-21",
+   "future": false,
+   "celex": "02026D1108-20260721",
+   "acts": [
+    {
+     "id": "eu:celex:32026D1797:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2026/1797 DA COMISSÃO de 16 de julho de 2026",
+     "published": null,
+     "celex": "32026D1797"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 1.º-C",
+    "Altera Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+    "Altera Parte B: Outras zonas submetidas a restrições",
+    "Altera ANEXO II"
+   ],
+   "fragments": [
+    "a66dc2fc23885cb9",
+    "698d484a4ebfb625",
+    "94860a46b66cfb63",
+    "b9c0417b725a85cc",
+    "5115ac7a9bcce35b",
+    "10e333d417ce4a6b",
+    "6d4a7df0c978fe51",
+    "d664376e2a8dcecd",
+    "cdd2239cb4ae4f80",
+    "6045844361a34004",
+    "980f8f535fd2b568"
+   ]
+  },
+  {
+   "date": "2026-08-24",
+   "future": false,
+   "celex": "02026D1108-20260824",
+   "acts": [
+    {
+     "id": "eu:celex:32026D1943:por",
+     "title": "M3",
+     "published": null,
+     "celex": "32026D1943"
+    },
+    {
+     "id": "eu:celex:32026D1956:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2026/1956 DA COMISSÃO de 20 de agosto de 2026",
+     "published": null,
+     "celex": "32026D1956"
+    }
+   ],
+   "changes": [
+    "Altera ANEXO II",
+    "Adita Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+    "Adita Parte B: outras zonas submetidas a restrições",
+    "Suprime Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+    "Suprime Parte B: Outras zonas submetidas a restrições"
+   ],
+   "fragments": [
+    "a66dc2fc23885cb9",
+    "698d484a4ebfb625",
+    "94860a46b66cfb63",
+    "b9c0417b725a85cc",
+    "5115ac7a9bcce35b",
+    "10e333d417ce4a6b",
+    "6d4a7df0c978fe51",
+    "d664376e2a8dcecd",
+    "1298bfe302c4a720",
+    "7b00bb688c46afbd",
+    "f5de6ebbd304e90d"
+   ]
+  },
+  {
+   "date": "2026-09-14",
+   "future": false,
+   "celex": "02026D1108-20260914",
+   "acts": [
+    {
+     "id": "eu:celex:32026D2075:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2026/2075 DA COMISSÃO de 10 de setembro de 2026",
+     "published": null,
+     "celex": "32026D2075"
+    }
+   ],
+   "changes": [
+    "Altera Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+    "Altera Parte B: outras zonas submetidas a restrições",
+    "Altera ANEXO II"
+   ],
+   "fragments": [
+    "a66dc2fc23885cb9",
+    "698d484a4ebfb625",
+    "94860a46b66cfb63",
+    "b9c0417b725a85cc",
+    "5115ac7a9bcce35b",
+    "10e333d417ce4a6b",
+    "6d4a7df0c978fe51",
+    "d664376e2a8dcecd",
+    "5da0ca1799deb4de",
+    "77ae6e749513f476",
+    "24f37186b375ab71"
+   ]
+  }
+ ],
+ "fragments": {
+  "b00ffcf1d244b518": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de maio de 2026\n\nrelativa a determinadas medidas de emergência contra a varíola ovina e caprina na Roménia e que revoga a Decisão de Execução (UE) 2026/1015 e a Decisão de Execução (UE) 2025/2415\n\n*[notificada com o número C(2026) 3323]*\n\n(Apenas faz fé o texto em língua romena)\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho, de 9 de março de 2016, relativo às doenças animais transmissíveis e que altera e revoga determinados atos no domínio da saúde animal («Lei da Saúde Animal») [([^1])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202601108PT.000101-E0001), nomeadamente o artigo 259.º, n.º 1,\n\nConsiderando o seguinte:\n\n(1) A varíola ovina e caprina é uma doença infecciosa viral que afeta os ovinos e caprinos e pode ter um impacto grave na população animal em causa e na rentabilidade das explorações agrícolas, causando perturbações na circulação de remessas desses animais e produtos deles derivados na União e nas exportações para países terceiros. Em caso de foco de varíola ovina e caprina em ovinos ou caprinos, existe um risco importante de propagação dessa doença a outros estabelecimentos que detêm ovinos ou caprinos.\n\n(2) O Regulamento Delegado (UE) 2020/687 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202601108PT.000101-E0002) complementa as regras de controlo das doenças listadas referidas no artigo 9.º, n.º 1, alíneas a), b) e c), do Regulamento (UE) 2016/429 e definidas como doenças de categoria A, B e C no Regulamento de Execução (UE) 2018/1882 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202601108PT.000101-E0003). Em especial, o artigo 21.º e o artigo 22.º do Regulamento Delegado (UE) 2020/687 preveem o estabelecimento de uma zona submetida a restrições em caso de foco de uma doença de categoria A, incluindo a varíola ovina e caprina, e a aplicação nessa zona de determinadas medidas. Ademais, o artigo 21.º, n.º 1, do referido regulamento delegado determina que a zona submetida a restrições deve incluir uma zona de proteção, uma zona de vigilância e, se necessário, outras zonas submetidas a restrições em redor de ou adjacentes às zonas de proteção e de vigilância.\n\n(3) A Decisão de Execução (UE) 2026/1015 da Comissão [([^4])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202601108PT.000101-E0004) foi adotada, em 29 de abril de 2026, no âmbito do Regulamento (UE) 2016/429 e estabelece determinadas medidas de emergência provisórias contra a infeção pelo vírus da varíola ovina e caprina na Roménia.\n\n(4) Mais especificamente, a Decisão de Execução (UE) 2026/1015 dispõe que as zonas de proteção e de vigilância a estabelecer por esse Estado-Membro no seguimento de um foco de varíola ovina e caprina, em conformidade com o Regulamento Delegado (UE) 2020/687, devem englobar, pelo menos, as áreas enumeradas no anexo dessa decisão de execução.\n\n(5) Desde a data de adoção da Decisão de Execução (UE) 2026/1015, a Roménia notificou a Comissão, em 30 de abril de 2026, da ocorrência de um foco adicional de infeção pelo vírus da varíola ovina e caprina num estabelecimento onde são mantidos ovinos e caprinos, localizados no distrito de Murés.\n\n(6) Tendo em conta a situação epidemiológica relativa à varíola ovina e caprina na Roménia e, nomeadamente, tendo em conta este novo foco, as medidas de emergência provisórias previstas na Decisão de Execução (UE) 2026/1015 devem ser ajustadas, tanto a nível espacial como temporal, e continuar a ser aplicadas a fim de impedir a propagação da doença na Roménia ou para o resto da União. A lista atualizada das áreas em que deve ser estabelecida uma zona submetida a restrições na Roménia no que diz respeito à varíola ovina e caprina, bem como a duração prevista dessas zonas, devem, por conseguinte, figurar no anexo da presente decisão.\n\n(7) A dimensão das zonas de proteção e das zonas de vigilância, bem como a duração das medidas a aplicar nessas zonas, baseiam-se nos critérios estabelecidos no artigo 64.º, n.º 1, do Regulamento (UE) 2016/429 e nas regras estabelecidas no Regulamento Delegado (UE) 2020/687. Os critérios aplicados para a escolha da dimensão das zonas de proteção e de vigilância, bem como para a determinação da duração das medidas a aplicar nessas zonas, incluem uma avaliação, não só da situação epidemiológica no que diz respeito à varíola ovina e caprina nas áreas afetadas por essa doença, mas também da situação epidemiológica global da varíola ovina e caprina na totalidade do território da Roménia, bem como do nível de risco de continuação da propagação da doença. Para determinar a duração das medidas, foram também tidas em conta as normas internacionais do Código Sanitário para os Animais Terrestres da Organização Mundial da Saúde Animal [([^5])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202601108PT.000101-E0005).\n\n(8) Por conseguinte, as áreas identificadas na Roménia como zonas de proteção e de vigilância devem ser definidas no anexo da presente decisão, devendo estabelecer-se a duração dessa regionalização. A duração dessa regionalização tem em conta os períodos mínimos das medidas a aplicar nas zonas de proteção e de vigilância em conformidade com o Regulamento Delegado (UE) 2020/687.\n\n(9) Além disso, a Decisão de Execução (UE) 2025/2415 da Comissão [([^6])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr6-L_202601108PT.000101-E0006) foi adotada, em 28 de novembro de 2025, no âmbito do Regulamento (UE) 2016/429 e estabelece determinadas medidas de emergência contra a infeção pelo vírus da varíola ovina e caprina na Roménia.\n\n(10) Na sequência de focos adicionais de varíola ovina e caprina no distrito de Teleormane, na Roménia, o anexo da Decisão de Execução (UE) 2025/2415 foi alterado pela Decisão de Execução (UE) 2025/2534 da Comissão [([^7])](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntr7-L_202601108PT.000101-E0007).\n\n(11) A partir de 1 de fevereiro de 2026, deixou de ser necessário aplicar as medidas de controlo de doenças previstas na Decisão de Execução (UE) 2025/2415, uma vez que, desde a adoção da Decisão de Execução (UE) 2025/2534, não tinham sido comunicados novos focos até 23 de abril de 2026.\n\n(12) As Decisões de Execução (UE) 2026/1015 e (UE) 2025/2415 da Comissão devem, por conseguinte, ser revogadas pela presente decisão.\n\n(13) As medidas previstas na presente decisão estão em conformidade com o parecer do Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "f036819c23af3662": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Roménia assegura que:\n\na) A autoridade competente desse Estado-Membro estabelece de imediato zonas submetidas a restrições que incluem zonas de proteção e de vigilância, em conformidade com o artigo 21.º do Regulamento Delegado (UE) 2020/687 e nas condições estabelecidas nesse artigo;\n\nb) As zonas de proteção e de vigilância referidas na alínea a) englobam, pelo menos, as áreas enumeradas no anexo da presente decisão;\n\nc) As medidas que devem ser aplicadas nas zonas de proteção e de vigilância são aplicadas, pelo menos, até às datas indicadas no anexo da presente decisão."
+  },
+  "10e333d417ce4a6b": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSão revogadas as Decisões de Execução (UE) 2026/1015 e (UE) 2025/2415 da Comissão."
+  },
+  "b88c543c7d924245": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO destinatário da presente decisão é a Roménia.\n\nFeito em Bruxelas, em 13 de maio de 2026.\n\n***Pela Comissão***\n\n**Olivér VÁRHELYI**\n\n***Membro da Comissão***\n\n---"
+  },
+  "2d8cc3089ec0aca6": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202601108PT.000101-E0001) [JO L 84 de 31.3.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_084_R_TOC), ELI: [http://data.europa.eu/eli/reg/2016/429/oj](http://data.europa.eu/eli/reg/2016/429/oj).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202601108PT.000101-E0002) Regulamento Delegado (UE) 2020/687 da Comissão, de 17 de dezembro de 2019, que complementa o Regulamento (UE) 2016/429 do Parlamento Europeu e do Conselho no que se refere às regras de prevenção e controlo de certas doenças listadas ([JO L 174 de 3.6.2020, p. 64](http://publications.europa.eu/resource/oj/JOL_2020_174_R_TOC), ELI: [http://data.europa.eu/eli/reg_del/2020/687/oj](http://data.europa.eu/eli/reg_del/2020/687/oj)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202601108PT.000101-E0003) Regulamento de Execução (UE) 2018/1882 da Comissão, de 3 de dezembro de 2018, relativo à aplicação de determinadas regras de prevenção e controlo de doenças a categorias de doenças listadas e que estabelece uma lista de espécies e grupos de espécies que apresentam um risco considerável de propagação dessas doenças listadas ([JO L 308 de 4.12.2018, p. 21](http://publications.europa.eu/resource/oj/JOL_2018_308_R_TOC), ELI: [http://data.europa.eu/eli/reg_impl/2018/1882/oj](http://data.europa.eu/eli/reg_impl/2018/1882/oj)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202601108PT.000101-E0004) Decisão de Execução (UE) 2026/1015 da Comissão, de 29 de abril de 2026, relativa a determinadas medidas de emergência provisórias contra a varíola ovina e caprina na Roménia ([JO L, 2026/1015, 4.5.2026, ELI: http://data.europa.eu/eli/dec_impl/2026/1015/oj](https://data.europa.eu/eli/dec_impl/2026/1015/oj)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202601108PT.000101-E0005) [https://www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-access/](https://www.woah.org/en/what-we-do/standards/codes-and-manuals/terrestrial-code-online-access/).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc6-L_202601108PT.000101-E0006) Decisão de Execução (UE) 2025/2415 da Comissão, de 25 de novembro de 2025, relativa a determinadas medidas de emergência contra a varíola ovina e caprina na Roménia e que revoga a Decisão de Execução (UE) 2025/1767 ([JO L, 2025/2415, 28.11.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/2415/oj](https://data.europa.eu/eli/dec_impl/2025/2415/oj)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020.03/DOC_1#ntc7-L_202601108PT.000101-E0007) Decisão de Execução (UE) 2025/2534 da Comissão, de 10 de dezembro de 2025, que altera a Decisão de Execução (UE) 2025/2415 relativa a determinadas medidas de emergência contra a varíola ovina e caprina na Roménia ([JO L, 2025/2534, 15.12.2025, ELI: http://data.europa.eu/eli/dec_impl/2025/2534/oj](https://data.europa.eu/eli/dec_impl/2025/2534/oj))."
+  },
+  "a66dc2fc23885cb9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 13 de maio de 2026\n\nrelativa a determinadas medidas de emergência contra a varíola ovina e caprina na Roménia e que revoga a Decisão de Execução (UE) 2026/1015 e a Decisão de Execução (UE) 2025/2415\n\n*[notificada com o número C(2026) 3323]*\n\n(Apenas faz fé o texto em língua romena)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "698d484a4ebfb625": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA Roménia estabelece zonas submetidas a restrições, que incluem zonas de proteção, zonas de vigilância e outra zona submetida a restrições, em conformidade com o artigo 21.º do Regulamento Delegado (UE) 2020/687 e nas condições estabelecidas nesse artigo."
+  },
+  "94860a46b66cfb63": {
+   "fragment_id": "Artigo 1.º-A",
+   "type": "artigo",
+   "heading": "Artigo 1.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-A\n\nA Roménia proíbe, até às datas estabelecidas para as respetivas zonas de proteção, zonas de vigilância e outra zona submetida a restrições enumeradas nas partes A e B do anexo I:\n\na) A circulação de ovinos e caprinos a partir das zonas de proteção e de vigilância para um destino situado fora do perímetro externo de uma outra zona submetida a restrições imediatamente circundante a essas zonas de proteção e de vigilância; bem como\n\nb) A circulação de ovinos e caprinos a partir de uma outra zona submetida a restrições para um destino situado fora do perímetro externo da outra zona submetida a restrições."
+  },
+  "b9c0417b725a85cc": {
+   "fragment_id": "Artigo 1.º-B",
+   "type": "artigo",
+   "heading": "Artigo 1.º-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-B\n\nA Roménia aplica as medidas que são aplicáveis a outras zonas submetidas a restrições, tal como previsto no Regulamento Delegado (UE) 2020/687, nas áreas enumeradas no anexo II da presente decisão e até às datas aí estabelecidas.\n\nA circulação de ovinos e caprinos a partir das áreas enumeradas no anexo II da presente decisão para um destino situado fora do perímetro externo dessas zonas é proibida até às datas estabelecidas nesse anexo."
+  },
+  "363cc6302bf9f08a": {
+   "fragment_id": "Artigo 1.º-C",
+   "type": "artigo",
+   "heading": "Artigo 1.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-C\n\nA Roménia proíbe a circulação de caprinos e ovinos a partir de todo o território da Roménia para um destino situado noutro Estado-Membro ou através do território de outro Estado-Membro até 31 de julho de 2026."
+  },
+  "6d4a7df0c978fe51": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nO destinatário da presente decisão é a Roménia."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "fdb881d953a4f11c": {
+   "fragment_id": "Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "type": "divisao",
+   "heading": "Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado\n\n| Região e número de referência ADIS do foco | Áreas definidas como zonas de proteção e de vigilância, parte da zona submetida a restrições na Roménia, a que se refere o artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- |\n| **Distrito de Murés** RO-CAPRIPOX-2026-00001 RO-CAPRIPOX-2026-00002 RO-CAPRIPOX-2026-00003 RO-CAPRIPOX-2026-00004 | Zona de proteção: Those parts of Mureș County, contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 46.712977, Long. 24.563362 (2026/1); Lat.46.958548, Long. 24.828615 (2026/2); Lat. 24.19311, Long. 46.582799 (2026/3); Lat. 24.704173, Long. 46.842038 (2026/4). | 16.6.2026 |\n| Zona de vigilância: Those parts of Mureș, Bistrița-Năsăud and Cluj Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates Lat. 46.712977, Long. 24.563362 (2026/1); Lat. 46.958548, Long. 24.828615 (2026/2); Lat. 24.19311, Long. 46.582799 (2026/3); Lat. 24.704173, Long. 46.842038 (2026/4), excluding the areas contained in the protection zone. | 26.6.2026 |  |\n| Zona de vigilância: Those parts of Mureș County, contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 46.712977, Long. 24.563362 (2026/1); Lat.46.958548, Long. 24.828615 (2026/2); Lat. 24.19311, Long. 46.582799 (2026/3); Lat. 24.704173, Long. 46.842038 (2026/4). | 17.6.2026-26.6.2026 |  |"
+  },
+  "5db5fa1e078bd4b1": {
+   "fragment_id": "Parte B: Outras zonas submetidas a restrições",
+   "type": "divisao",
+   "heading": "Parte B: Outras zonas submetidas a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Outras zonas submetidas a restrições\n\n| Outra zona submetida a restrições | Região | Áreas incluídas nas outras zonas submetidas a restrições na Roménia, como se refere no artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Outra zona submetida a restrições n.º 1** | **Distrito de Murés** | The entire Mureș, Cluj and Bistrița-Năsăud counties, excluding the areas included in any protection or surveillance zone | 26.6.2026 |\n| **Distrito de Clui** |  |  |  |\n| **Distrito de Bistritsa-Nassaude** |  |  |  |"
+  },
+  "e254328463296151": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Área | Região | Áreas referidas no artigo 1.º-B | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Área n.º 1** | **Distrito de Murés** | The entire Mureș, Cluj and Bistrița-Năsăud counties. | 27.6.2026-31.7.2026 |\n| **Distrito de Clui** |  |  |  |\n| **Distrito de Bistritsa-Nassaude** |  |  |  |"
+  },
+  "5115ac7a9bcce35b": {
+   "fragment_id": "Artigo 1.º-C",
+   "type": "artigo",
+   "heading": "Artigo 1.º-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º-C\n\nA Roménia proíbe a circulação de caprinos e ovinos a partir de todo o território da Roménia para um destino situado noutro Estado-Membro ou através do território de outro Estado-Membro ou país terceiro até 31 de dezembro de 2026."
+  },
+  "cdd2239cb4ae4f80": {
+   "fragment_id": "Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "type": "divisao",
+   "heading": "Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado\n\n| Região e número de referência ADIS do foco | Áreas definidas como zonas de proteção e de vigilância, parte da zona submetida a restrições na Roménia, a que se refere o artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- |\n| **Distrito de Murés** RO-CAPRIPOX-2026-00001 RO-CAPRIPOX-2026-00002 RO-CAPRIPOX-2026-00003 RO-CAPRIPOX-2026-00004 RO-CAPRIPOX-2026-00005 | Zona de proteção: Those parts of Mureș and Buzău Counties, contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 46.713, Long. 24.563 (2026/1); Lat. 46.959, Long. 24.829 (2026/2); Lat. 496.583, Long. 24.193 (2026/3); Lat. 46.842, Long. 24.704 (2026/4); Lat. 44.916, Long. 27.118 (2026/5). | 10.8.2026 |\n| Zona de vigilância: Those parts of Mureș, Bistrița-Năsăud, Cluj, Buzău, Ialomița and Brăila Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 46.713, Long. 24.563 (2026/1); Lat. 46.959, Long. 24.829 (2026/2); Lat. 496.583, Long. 24.193 (2026/3); Lat. 46.842, Long. 24.704 (2026/4); Lat. 44.916, Long. 27.118 (2026/5)., excluding the areas contained in the protection zone. | 28.8.2026 |  |\n| Zona de vigilância: Those parts of Mureș, Bistrița-Năsăud, Cluj, Buzău, Ialomița and Brăila contained within a circle of a radius of 20 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 46.713, Long. 24.563 (2026/1); Lat. 46.959, Long. 24.829 (2026/2); Lat. 496.583, Long. 24.193 (2026/3); Lat. 46.842, Long. 24.704 (2026/4); Lat. 44.916, Long. 27.118 (2026/5). | 11.8.2026-28.8.2026 |  |"
+  },
+  "6045844361a34004": {
+   "fragment_id": "Parte B: Outras zonas submetidas a restrições",
+   "type": "divisao",
+   "heading": "Parte B: Outras zonas submetidas a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Outras zonas submetidas a restrições\n\n| Outra zona submetida a restrições | Região | Áreas incluídas nas outras zonas submetidas a restrições na Roménia, como se refere no artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Outras zonas submetidas a restrições** | **Distrito de Murés** | The entire Mureș, Cluj, Bistrița-Năsăud, Ialomița, Buzău and Brăila counties, excluding the areas included in any protection or surveillance zone | 28.8.2026 |\n| **Distrito de Clui** |  |  |  |\n| **Distrito de Bistritsa-Nassaude** |  |  |  |\n| **Distrito de Ialomitsa** |  |  |  |\n| **Distrito de Buzau** |  |  |  |\n| **Distrito de Braila** |  |  |  |"
+  },
+  "980f8f535fd2b568": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Área | Região | Áreas referidas no artigo 1.º-B | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Áreas** | **Distrito de Murés** | The entire Mureș, Cluj, Bistrița-Năsăud, Ialomița, Buzău and Brăila counties. | 29.8.2026-27.9.2026 |\n| **Distrito de Clui** |  |  |  |\n| **Distrito de Bistritsa-Nassaude** |  |  |  |\n| **Distrito de Ialomitsa** |  |  |  |\n| **Distrito de Buzau** |  |  |  |\n| **Distrito de Braila** |  |  |  |"
+  },
+  "1298bfe302c4a720": {
+   "fragment_id": "Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "type": "divisao",
+   "heading": "Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado\n\n| Região e número de referência ADIS do foco | Áreas definidas como zonas de proteção e de vigilância, parte da zona submetida a restrições na Roménia, a que se refere o artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- |\n| **Distrito de Buzau** RO-CAPRIPOX-2026-00005 | Zona de vigilância: Those of Buzău, Brăila and Ialomița Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 44.916, Long. 27.118 (2026/5). | 28.8.2026 |\n| **Distrito de Iassi** RO-CAPRIPOX-2026-00006 | Zona de proteção: Those parts of **Iași** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 47.173, Long. 27.230 (2026/6). | 16.9.2026 |\n| Zona de vigilância: Those parts of **Iași and Neamț** County, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 47.173, Long. 27.230 (2026/6), excluding the areas contained in the protection zone. | 4.10.2026 |  |\n| Zona de vigilância: Those parts of **Iași** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 47.173, Long. 27.230 (2026/6). | 17.9.2026-4.10.2026 |  |\n| **Distrito de Gorje** RO-CAPRIPOX-2026-00008 RO-CAPRIPOX-2026-00012 | Zona de proteção: Those parts of **Gorj** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.030, Long. 23.327 (2026/8), Lat. 45.055, Long. 23.324 (2026/12). | 29.9.2026 |\n| Zona de vigilância: Those parts of **Gorj** County, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.030, Long. 23.327 (2026/8), Lat. 45.055, Long. 23.324 (2026/12), excluding the areas contained in the protection zone. | 17.10.2026 |  |\n| Zona de vigilância: Those parts of **Gorj** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.030, Long. 23.327 (2026/8), Lat. 45.055, Long. 23.324 (2026/12). | 30.9.2026-17.10.2026 |  |\n| **Distrito de Tulcea** RO-CAPRIPOX-2026-00007 | Zona de proteção: Those parts of **Tulcea** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.017, Long. 29.006 (2026/7). | 22.9.2026 |\n| Zona de vigilância: Those parts of **Tulcea** County, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.017, Long. 29.006 (2026/7), excluding the areas contained in the protection zone. | 10.10.2026 |  |\n| Zona de vigilância: Those parts of **Tulcea** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.017, Long. 29.006 (2026/7). | 23.9.2026-10.10.2026 |  |\n| **Distrito de Valcea** RO-CAPRIPOX-2026-00009 | Zona de proteção: Those parts of **Vâlcea** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.352, Long. 23.652 (2026/9). | 23.9.2026 |\n| Zona de vigilância: Those parts of **Vâlcea, Sibiu, Alba, Hunedoara and Gorj** Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.352, Long. 23.652 (2026/9), excluding the areas contained in the protection zone. | 11.10.2026 |  |\n| Zona de vigilância: Those parts of **Vâlcea** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.352, Long. 23.652 (2026/9). | 24.9.2026-11.10.2026 |  |\n| **Distrito de Constança** RO-CAPRIPOX-2026-00010 RO-CAPRIPOX-2026-00011 | Zona de proteção: Those parts of **Constanța** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 44.522, Long. 28.747 (2026/10) Lat. 44.577, Long. 28.385 (2026/11). | 28.9.2026 |\n|  | Zona de vigilância: Those parts of **Constanța** Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 44.522, Long. 28.747 (2026/10) Lat. 44.577, Long. 28.385 (2026/11), excluding the areas contained in the protection zone. | 16.10.2026 |\n|  | Zona de vigilância: Those parts of **Constanța** County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 44.522, Long. 28.747 (2026/10) Lat. 44.577, Long. 28.385 (2026/11). | 29.9.2026-16.10.2026 |"
+  },
+  "7b00bb688c46afbd": {
+   "fragment_id": "Parte B: outras zonas submetidas a restrições",
+   "type": "divisao",
+   "heading": "Parte B: outras zonas submetidas a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: outras zonas submetidas a restrições\n\n| Outra zona submetida a restrições | Região | Áreas incluídas nas outras zonas submetidas a restrições na Roménia, como se refere no artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Outras zonas submetidas a restrições** | **Distrito de Ialomitsa** | The entire Ialomița, Buzău, Brăila, Iași, Neamț, Gorj, Vâlcea, Hunedoara, Tulcea and Constanța counties, excluding the areas included in any protection or surveillance zone | 17.10.2026 |\n| **Distrito de Buzau** |  |  |  |\n| **Distrito de Braila** |  |  |  |\n| **Distrito de Iassi** |  |  |  |\n| **Distrito de Neamtse** |  |  |  |\n| **Distrito de Gorje** |  |  |  |\n| **Distrito de Valcea** |  |  |  |\n| **Distrito de Tulcea** |  |  |  |\n| **Distrito de Hunedoara** |  |  |  |\n| **Distrito de Constança** |  |  |  |"
+  },
+  "f5de6ebbd304e90d": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Área | Região | Áreas referidas no artigo 1.º-B | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Áreas** | **Distrito de Murés** | The entire Mureș, Cluj, Bistrița-Năsăud, Ialomița, Buzău, Brăila, Iași, Neamț, Gorj, Vâlcea, Tulcea and Constanța counties. | 18.10.2026-15.11.2026 |\n| **Distrito de Clui** |  |  |  |\n| **Distrito de Bistritsa-Nassaude** |  |  |  |\n| **Distrito de Ialomitsa** |  |  |  |\n| **Distrito de Buzau** |  |  |  |\n| **Distrito de Braila** |  |  |  |\n| **Distrito de Iassi** |  |  |  |\n| **Distrito de Neamtse** |  |  |  |\n| **Distrito de Gorje** |  |  |  |\n| **Distrito de Valcea** |  |  |  |\n| **Distrito de Tulcea** |  |  |  |\n| **Distrito de Hunedoara** |  |  |  |\n| **Distrito de Constança** |  |  |  |"
+  },
+  "5da0ca1799deb4de": {
+   "fragment_id": "Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "type": "divisao",
+   "heading": "Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado\n\n| Região e número de referência ADIS do foco | Áreas definidas como zonas de proteção e de vigilância, parte da zona submetida a restrições na Roménia, a que se refere o artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- |\n| **Distrito de Buzau** RO-CAPRIPOX-2026-00005 RO-CAPRIPOX-2026-00022 | Zona de proteção: Those parts of Buzău County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 44.916, Long. 27.118 (2026/5), Lat. 44.979, Long. 27.091 (2026/22). | 19.10.2026 |\n| Zona de vigilância: Those of Buzău, Brăila and Ialomița Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 44.916, Long. 27.118 (2026/5), Lat. 44.979, Long. 27.091 (2026/22). | 6.11.2026 |  |\n| Zona de vigilância: Those of Buzău, Brăila and Ialomița Counties, contained within a circle of a radius of 5 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 44.916, Long. 27.118 (2026/5), Lat. 44.979, Long. 27.091 (2026/22). | 20.10.2026-6.11.2026 |  |\n| **Distrito de Iassi** RO-CAPRIPOX-2026-00006 | Zona de proteção: Those parts of Iași County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 47.173, Long. 27.230 (2026/6). | 16.9.2026 |\n| Zona de vigilância: Those parts of Iași and Neamț County, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 47.173, Long. 27.230 (2026/6). | 4.10.2026 |  |\n| Zona de vigilância: Those parts of Iași County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 47.173, Long. 27.230 (2026/6). | 17.9.2026-4.10.2026 |  |\n| **Distrito de Gorje** RO-CAPRIPOX-2026-00008 RO-CAPRIPOX-2026-00012 RO-CAPRIPOX-2026-00023 | Zona de proteção: Those parts of Gorj County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.030, Long. 23.327 (2026/8), Lat. 45.055, Long. 23.324 (2026/12), Lat. 45.127, Long. 23.638 (2026/23). | 19.10.2026 |\n| Zona de vigilância: Those parts of Gorj County, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.030, Long. 23.327 (2026/8), Lat. 45.055, Long. 23.324 (2026/12), Lat. 45.127, Long. 23.638 (2026/23). | 6.11.2026 |  |\n| Zona de vigilância: Those parts of Gorj County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.030, Long. 23.327 (2026/8), Lat. 45.055, Long. 23.324 (2026/12), Lat. 45.127, Long. 23.638 (2026/23). | 20.10.2026-6.11.2026 |  |\n| **Distrito de Tulcea** RO-CAPRIPOX-2026-00007 RO-CAPRIPOX-2026-00013 RO-CAPRIPOX-2026-00015 RO-CAPRIPOX-2026-00016 | Zona de proteção: Those parts of Tulcea County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.017, Long. 29.006 (2026/7), Lat. 44.997, Long. 28.170 (2026/13), Lat. 45.011, Long. 28.959 (2026/15), Lat. 44.954, Long. 28.173 (2026/16). | 7.10.2026 |\n| Zona de vigilância: Those parts of Tulcea County, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.017, Long. 29.006 (2026/7), excluding the areas contained in the protection zone. | 25.10.2026 |  |\n| Zona de vigilância: Those parts of Tulcea County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.017, Long. 29.006 (2026/7). | 8.10.2026-25.10.2026 |  |\n| **Distrito de Valcea** RO-CAPRIPOX-2026-00009 | Zona de proteção: Those parts of Vâlcea County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.352, Long. 23.652 (2026/9). | 24.9.2026 |\n| Zona de vigilância: Those parts of Vâlcea, Sibiu, Alba, Hunedoara and Gorj Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.352, Long. 23.652 (2026/9), excluding the areas contained in the protection zone. | 12.10.2026 |  |\n| Zona de vigilância: Those parts of Vâlcea County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.352, Long. 23.652 (2026/9). | 25.9.2026-12.10.2026 |  |\n| **Distrito de Constança** RO-CAPRIPOX-2026-00010 RO-CAPRIPOX-2026-00011 | Zona de proteção: Those parts of Constanța County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 44.522, Long. 28.747 (2026/10) Lat. 44.577, Long. 28.385 (2026/11). | 26.9.2026 |\n| Zona de vigilância: Those parts of Constanța Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 44.522, Long. 28.747 (2026/10) Lat. 44.577, Long. 28.385 (2026/11), excluding the areas contained in the protection zone. | 14.10.2026 |  |\n| Zona de vigilância: Those parts of Constanța County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 44.522, Long. 28.747 (2026/10) Lat. 44.577, Long. 28.385 (2026/11). | 27.9.2026-14.10.2026 |  |\n| **Distrito de Braila** RO-CAPRIPOX-2026-00014 RO-CAPRIPOX-2026-00018 RO-CAPRIPOX-2026-00019 RO-CAPRIPOX-2026-00020 RO-CAPRIPOX-2026-00021 RO-CAPRIPOX-2026-00024 | Zona de proteção: Those parts of Brăila County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.416, Long. 27.673 (2026/14) Lat. 45.286, Long. 27.624 (2026/18), Lat. 45.287, Long. 27.626 (2026/19) Lat. 45.283, Long. 27.627 (2026/20), Lat. 45.296, Long. 27.605 (2026/21), Lat. 45.027, Long. 27.829 (2026/24). | 20.10.2026 |\n| Zona de vigilância: Those parts of Brăila Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.416, Long. 27.673 (2026/14), Lat. 45.286, Long. 27.624 (2026/18), Lat. 45.287, Long. 27.626 (2026/19) Lat. 45.283, Long. 27.627 (2026/20), Lat. 45.296, Long. 27.605 (2026/21), Lat. 45.027, Long. 27.829 (2026/24). | 7.11.2026 |  |\n| Zona de vigilância: Those parts of Brăila County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.416, Long. 27.673 (2026/14) Lat. 45.286, Long. 27.624 (2026/18), Lat. 45.287, Long. 27.626 (2026/19) Lat. 45.283, Long. 27.627 (2026/20), Lat. 45.296, Long. 27.605 (2026/21), Lat. 45.027, Long. 27.829 (2026/24). | 21.10.2026-7.11.2026 |  |\n| **Galatsi** RO-CAPRIPOX-2026-00017 | Zona de proteção: Those parts of Galați County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.551, Long. 27.633 (2026/17). | 13.10.2026 |\n| Zona de vigilância: Those parts of Galați Counties, contained within a circle of a radius of 20 kilometres, centred on UTM 30 ETRS89 coordinates excluding the areas included in any protection zone Lat. 45.551, Long. 27.633 (2026/17). | 31.10.2026 |  |\n| Zona de vigilância: Those parts of Galați County contained within a circle of a radius of 5 kilometres, centred on UTM 30, ETRS89 coordinates Lat. 45.551, Long. 27.633 (2026/17). | 14.10.2026-31.10.2026 |  |"
+  },
+  "77ae6e749513f476": {
+   "fragment_id": "Parte B: outras zonas submetidas a restrições",
+   "type": "divisao",
+   "heading": "Parte B: outras zonas submetidas a restrições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: outras zonas submetidas a restrições\n\n| Outra zona submetida a restrições | Região | Áreas incluídas nas outras zonas submetidas a restrições na Roménia, como se refere no artigo 1.º | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Outras zonas submetidas a restrições** | **Distrito de Ialomitsa** | The entire Ialomița, Buzău, Brăila, Iași, Neamț, Gorj, Vâlcea, Hunedoara, Tulcea, Constanța, Galați and Vrancea counties, excluding the areas included in any protection or surveillance zone | 7.11.2026 |\n| **Distrito de Buzau** |  |  |  |\n| **Distrito de Braila** |  |  |  |\n| **Distrito de Iassi** |  |  |  |\n| **Distrito de Neamtse** |  |  |  |\n| **Distrito de Gorje** |  |  |  |\n| **Distrito de Valcea** |  |  |  |\n| **Distrito de Tulcea** |  |  |  |\n| **Distrito de Hunedoara** |  |  |  |\n| **Distrito de Constança** |  |  |  |\n| **Distrito de Galatsi** |  |  |  |\n| **Distrito de Vrancea** |  |  |  |"
+  },
+  "24f37186b375ab71": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n| Área | Região | Áreas referidas no artigo 1.º-B | Data de fim de aplicação |\n| --- | --- | --- | --- |\n| **Áreas** | **Distrito de Murés** | The entire Mureș, Cluj, Bistrița-Năsăud, Ialomița, Buzău, Brăila, Iași, Neamț, Gorj, Vâlcea, Tulcea, Constanța, Galați and Vrancea counties. | 8.11.2026-7.12.2026 |\n| **Distrito de Clui** |  |  |  |\n| **Distrito de Bistritsa-Nassaude** |  |  |  |\n| **Distrito de Ialomitsa** |  |  |  |\n| **Distrito de Buzau** |  |  |  |\n| **Distrito de Braila** |  |  |  |\n| **Distrito de Iassi** |  |  |  |\n| **Distrito de Neamtse** |  |  |  |\n| **Distrito de Gorje** |  |  |  |\n| **Distrito de Valcea** |  |  |  |\n| **Distrito de Tulcea** |  |  |  |\n| **Distrito de Hunedoara** |  |  |  |\n| **Distrito de Constança** |  |  |  |\n| **Distrito de Galatsi** |  |  |  |\n| **Distrito de Vrancea** |  |  |  |"
+  }
+ }
+}

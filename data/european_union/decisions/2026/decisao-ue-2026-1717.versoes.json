@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1717:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1717-20260723",
+ "dre_path": null,
+ "source_lastmod": "2026-07-23",
+ "versions": [
+  {
+   "date": "2026-07-23",
+   "future": false,
+   "celex": "02026D1717-20260723",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6d9622a13e3ad57e",
+    "8dd459d949383d61",
+    "865d822f615fd626",
+    "9683ea999292612c"
+   ]
+  }
+ ],
+ "fragments": {
+  "6d9622a13e3ad57e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de julho de 2026\n\nrelativa às normas harmonizadas aplicáveis aos aquecedores de água a gás elaboradas em apoio do Regulamento (UE) n.º 814/2013"
+  },
+  "8dd459d949383d61": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAs referências das normas harmonizadas relativas aos aquecedores de água elaboradas em apoio do Regulamento (UE) n.º 814/2013 constantes do anexo da presente decisão são publicadas no *Jornal Oficial da União Europeia*."
+  },
+  "865d822f615fd626": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "9683ea999292612c": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO\n\nN.º Normas harmonizadas elaboradas em apoio do Regulamento (UE) n.º 814/2013\n\n1. EN 13203-1:2025 Aparelhos domésticos de produção de água quente a gás — Parte 1: avaliação do desempenho dos fornecimentos de água quente"
+  }
+ }
+}

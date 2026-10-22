@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-07'
+version_history:
+  file: diretiva-ue-2019-879.versoes.json
+  count: 1
+  source_lastmod: '2019-06-07'
+  versions:
+  - date: '2019-06-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32019L0879
   eli: http://data.europa.eu/eli/dir/2019/879/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/5e580fc1-8902-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c70e8f07-db87-11eb-895a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0879-20190607
-  retrieved_at: '2026-10-22T02:49:20Z'
+  retrieved_at: '2026-10-22T17:07:25Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T14:50:20.239+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:20Z'
-  notes: Texto consolidado 02019L0879-20190607.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:25Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2019-879.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -217,28 +226,18 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:20Z'
+  checked_at: '2026-10-22T17:07:25Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2019/879 do Parlamento Europeu e do Conselho, de 20 de maio de 2019
-
-> 02019L0879 — PT — 07.06.2019 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019L0879R%2802%29) — [Rectificação, JO L 283, 31.8.2020, p. 2 (2019/879)](http://publications.europa.eu/resource/celex/32019L0879R%2802%29)
-
-## DIRETIVA (UE) 2019/879 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2019
 

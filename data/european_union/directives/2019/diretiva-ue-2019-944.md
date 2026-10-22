@@ -38,6 +38,61 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-10-12'
+version_history:
+  file: diretiva-ue-2019-944.versoes.json
+  count: 3
+  source_lastmod: '2025-10-12'
+  versions:
+  - date: '2022-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-16'
+    amending: eu:celex:32024L1711:por
+    amending_title: DIRETIVA (UE) 2024/1711 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Livre escolha do comercializador
+    - Altera Artigo 8.º — Procedimento de autorização de novas capacidades
+    - Altera Artigo 10.º — Direitos contratuais de base
+    - Altera Artigo 26.º — Direito à resolução alternativa de litígios
+    - Altera Artigo 27.º — Serviço universal
+    - Altera Artigo 31.º — Funções dos operadores de redes de distribuição
+    - Altera Artigo 33.º — Integração da mobilidade elétrica na rede elétrica
+    - Altera Artigo 46.º — Ativos, equipamento, pessoal e identidade
+    - Altera Artigo 59.º — Obrigações e poderes das entidades reguladoras
+    - Altera Artigo 66.º — Derrogações
+    - Altera Artigo 69.º — Monitorização pela Comissão, reexame e apresentação de relatórios
+    - Altera 1. Informações mínimas contidas na fatura e nas informações sobre a faturação
+    - Altera SISTEMAS DE CONTADORES INTELIGENTES
+    - Altera Notas
+    - Adita Artigo 6.º-A — Acordos de ligação flexíveis
+    - Adita Artigo 11.º
+    - Adita Direito a um contrato de fornecimento de eletricidade a prazo fixo e a preço fixo e a um contrato de eletricidade
+      a preços dinâmicos
+    - Adita Artigo 15.º-A — Direito à partilha de energia
+    - Adita Artigo 18.º-A — Gestão dos riscos dos comercializadores
+    - Adita Artigo 27.º-A — Comercializador de último recurso
+    - Adita Artigo 28.º-A — Proteção contra cortes de ligação
+    - Adita Artigo 66.º-A — Acesso a energia a preços comportáveis durante uma crise dos preços da eletricidade
+    - Suprime Artigo 11.º — Direito a um contrato de eletricidade a preços dinâmicos
+  - date: '2025-10-12'
+    amending: eu:celex:32023L1791:por
+    amending_title: DIRETIVA (UE) 2023/1791 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º-A — Acordos de ligação flexíveis
+    - Altera Artigo 8.º — Procedimento de autorização de novas capacidades
+    - Altera Artigo 10.º — Direitos contratuais de base
+    - Altera Artigo 26.º — Direito à resolução alternativa de litígios
+    - Altera Artigo 31.º — Funções dos operadores de redes de distribuição
+    - Altera Artigo 33.º — Integração da mobilidade elétrica na rede elétrica
+    - Altera Artigo 46.º — Ativos, equipamento, pessoal e identidade
+    - Altera Artigo 59.º — Obrigações e poderes das entidades reguladoras
+    - Altera 1. Informações mínimas contidas na fatura e nas informações sobre a faturação
+    - Altera SISTEMAS DE CONTADORES INTELIGENTES
+    - Altera Notas
+    - Suprime Artigo 70.º — Alteração da Diretiva 2012/27/UE
 identifiers:
   celex: 32019L0944
   eli: http://data.europa.eu/eli/dir/2019/944/oj
@@ -52,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8594f013-8e7c-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/dba44a94-e02e-11f0-8439-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0944-20251012
-  retrieved_at: '2026-10-22T02:36:29Z'
+  retrieved_at: '2026-10-22T17:07:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T21:24:28.887+01:00'
 integrity:
@@ -61,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:29Z'
-  notes: Texto consolidado 02019L0944-20251012.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:39Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2019-944.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -413,35 +468,20 @@ relationships:
   source: null
 article_structure:
   article_count: 79
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 38
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:29Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:39Z'
+  warnings:
+  - '02019L0944-20190614: versão indisponível (Sem expressão na língua por para CELEX 02019L0944-20190614.)'
   errors: []
 ---
 
 # Diretiva (UE) 2019/944 do Parlamento Europeu e do Conselho, de 5 de junho de 2019
-
-> 02019L0944 — PT — 12.10.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0869) — [REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0869) — L 152 — 45 — 3.6.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023L1791) — [DIRETIVA (UE) 2023/1791 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023](http://publications.europa.eu/resource/celex/32023L1791) — L 231 — 1 — 20.9.2023
-- [►M3](http://publications.europa.eu/resource/celex/32024L1711) — [DIRETIVA (UE) 2024/1711 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1711) — L 1711 — 1 — 26.6.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024L1711R%2801%29) — [Rectificação, JO L 90909, 17.11.2025, p. 1 (2024/1711)](http://publications.europa.eu/resource/celex/32024L1711R%2801%29)
-
-## DIRETIVA (UE) 2019/944 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de junho de 2019
 

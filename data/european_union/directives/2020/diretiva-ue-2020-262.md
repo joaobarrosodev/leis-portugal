@@ -35,6 +35,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-26'
+version_history:
+  file: diretiva-ue-2020-262.versoes.json
+  count: 2
+  source_lastmod: '2022-04-26'
+  versions:
+  - date: '2020-02-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-04-26'
+    amending: eu:celex:32022L0543:por
+    amending_title: DIRETIVA (UE) 2022/543 DO CONSELHO de 5 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo
+    - Altera Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países
+      terceiros ou territórios terceiros
+    - Altera Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento
+    - Altera Artigo 45.º — Inutilização e perda
+    - Altera Artigo 48.º — Pequenos produtores de vinho
+    - Altera Notas
 identifiers:
   celex: 32020L0262
   eli: http://data.europa.eu/eli/dir/2020/262/oj
@@ -49,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/15258319-5935-11ea-8b81-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020L0262-20220426
-  retrieved_at: '2026-10-22T02:43:34Z'
+  retrieved_at: '2026-10-22T17:10:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-17T06:56:03.948+02:00'
 integrity:
@@ -58,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:34Z'
-  notes: Texto consolidado 02020L0262-20220426.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:33Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2020-262.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -257,34 +277,19 @@ relationships:
   source: null
 article_structure:
   article_count: 58
-  section_count: 53
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 54
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:34Z'
+  checked_at: '2026-10-22T17:10:33Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2020/262 do Conselho de 19 de dezembro de 2019
-
-> 02020L0262 — PT — 26.04.2022 — 001.005
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L0543) — [DIRETIVA (UE) 2022/543 DO CONSELHO de 5 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0543) — L 107 — 13 — 6.4.2022
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32020L0262R%2802%29) — [Rectificação, JO L 409, 4.12.2020, p. 38 (2020/262)](http://publications.europa.eu/resource/celex/32020L0262R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020L0262R%2809%29) — [Rectificação, JO L 188, 27.7.2023, p. 60 ((UE) 2020/262)](http://publications.europa.eu/resource/celex/32020L0262R%2809%29)
-
-## DIRETIVA (UE) 2020/262 DO CONSELHO
 
 de 19 de dezembro de 2019
 

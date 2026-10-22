@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-11-29'
+version_history:
+  file: regulamento-ue-2021-2082.versoes.json
+  count: 1
+  source_lastmod: '2021-11-29'
+  versions:
+  - date: '2021-11-29'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32021R2082
   eli: http://data.europa.eu/eli/reg_impl/2021/2082/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8a39227f-50b7-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/444c6a22-628a-11ec-a033-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2082-20211129
-  retrieved_at: '2026-10-22T03:19:56Z'
+  retrieved_at: '2026-10-22T17:14:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T08:25:36.264+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:56Z'
-  notes: Texto consolidado 02021R2082-20211129.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:14:18Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2021-2082.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -107,29 +116,19 @@ relationships:
   date: '2021-11-30'
 article_structure:
   article_count: 6
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:56Z'
+  checked_at: '2026-10-22T17:14:18Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2021/2082 da Comissão de 26 de novembro de 2021
-
-> 02021R2082 — PT — 29.11.2021 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R2082R%2801%29) — [Rectificação, JO L 427, 30.11.2021, p. 196 (2021/2082)](http://publications.europa.eu/resource/celex/32021R2082R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2021/2082 DA COMISSÃO
 
 de 26 de novembro de 2021
 

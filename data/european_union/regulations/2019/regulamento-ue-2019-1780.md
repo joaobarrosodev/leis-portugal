@@ -37,6 +37,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-11-01'
+version_history:
+  file: regulamento-ue-2019-1780.versoes.json
+  count: 4
+  source_lastmod: '2024-11-01'
+  versions:
+  - date: '2019-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-12-15'
+    amending: eu:celex:32022R2303:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2303 DA COMISSÃO de 24 de novembro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Revogação
+    - Altera Artigo 4.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 3.º-A — Disposição transitória
+    - Adita ANEXO
+    - Adita INSTRUÇÕES PARA A LEITURA DO QUADRO 1
+    - Adita INSTRUÇÕES PARA A LEITURA DO QUADRO 2
+    - Adita TERMINOLOGIA UTILIZADA NO QUADRO 2
+  - date: '2024-06-01'
+    amending: eu:celex:32023R2884:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2884 DA COMISSÃO de 20 de dezembro de 2023
+    changes:
+    - Altera INSTRUÇÕES PARA A LEITURA DO QUADRO 1
+    - Altera Notas
+    - Adita Artigo 3.º-B — Disposição transitória para novos formulários e alterações
+  - date: '2024-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º-B — Disposição transitória para novos formulários e alterações
+    - Altera INSTRUÇÕES PARA A LEITURA DO QUADRO 1
+    - Altera INSTRUÇÕES PARA A LEITURA DO QUADRO 2
+    - Altera Notas
+    - Adita LEGENDA PARA A LEITURA DO QUADRO 2
+    - Suprime TERMINOLOGIA UTILIZADA NO QUADRO 2
 identifiers:
   celex: 32019R1780
   eli: http://data.europa.eu/eli/reg_impl/2019/1780/oj
@@ -51,7 +90,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dc6aa498-f733-11e9-8c1f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/9b50dcde-b727-11ef-91ed-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1780-20241101
-  retrieved_at: '2026-10-22T02:49:26Z'
+  retrieved_at: '2026-10-22T17:10:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T08:45:29.330+01:00'
 integrity:
@@ -60,9 +99,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:26Z'
-  notes: Texto consolidado 02019R1780-20241101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:23Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2019-1780.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -149,30 +188,19 @@ relationships:
   date: '2015-11-12'
 article_structure:
   article_count: 6
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:26Z'
+  checked_at: '2026-10-22T17:10:23Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2019/1780 da Comissão de 23 de setembro de 2019
-
-> 02019R1780 — PT — 01.11.2024 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R2303) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2303 DA COMISSÃO de 24 de novembro de 2022](http://publications.europa.eu/resource/celex/32022R2303) — L 305 — 12 — 25.11.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R2884) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2884 DA COMISSÃO de 20 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2884) — L 2884 — 1 — 21.12.2023
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2019/1780 DA COMISSÃO
 
 de 23 de setembro de 2019
 

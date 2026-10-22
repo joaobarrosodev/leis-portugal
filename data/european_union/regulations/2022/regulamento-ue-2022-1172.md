@@ -37,6 +37,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2022-1172.versoes.json
+  count: 2
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-01'
+    amending: eu:celex:32026R0149:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/149 DA COMISSÃO de 21 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Sistema de identificação das parcelas agrícolas
+    - Altera Artigo 3.º — Avaliação da qualidade do sistema de identificação das parcelas agrícolas
+    - Altera Artigo 4.º — Avaliação da qualidade do sistema de pedido geoespacial
+    - Altera Artigo 5.º — Avaliação da qualidade do sistema de vigilância de superfícies
+    - Altera Artigo 8.º — Princípios gerais das sanções administrativas
+    - Altera Notas
 identifiers:
   celex: 32022R1172
   eli: http://data.europa.eu/eli/reg_del/2022/1172/oj
@@ -51,7 +71,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/81ef3f63-fe58-11ec-b94a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e54eae82-5ee0-11f1-aa6d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1172-20260101
-  retrieved_at: '2026-10-22T02:49:34Z'
+  retrieved_at: '2026-10-22T17:15:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T21:21:19.513+02:00'
 integrity:
@@ -60,9 +80,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:34Z'
-  notes: Texto consolidado 02022R1172-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:56Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2022-1172.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -179,30 +199,20 @@ relationships:
   date: '2014-06-20'
 article_structure:
   article_count: 14
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:34Z'
-  warnings: []
+  checked_at: '2026-10-22T17:15:56Z'
+  warnings:
+  - '02022R1172-20220708: versão indisponível (Sem expressão na língua por para CELEX 02022R1172-20220708.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2022/1172 da Comissão de 4 de maio de 2022
-
-> 02022R1172 — PT — 01.01.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0744) — [REGULAMENTO DELEGADO (UE) 2023/744 DA COMISSÃO de 2 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0744) — L 99 — 1 — 12.4.2023
-- [►M2](http://publications.europa.eu/resource/celex/32026R0149) — [REGULAMENTO DELEGADO (UE) 2026/149 DA COMISSÃO de 21 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0149) — L 149 — 1 — 26.3.2026
-
-## REGULAMENTO DELEGADO (UE) 2022/1172 DA COMISSÃO
 
 de 4 de maio de 2022
 

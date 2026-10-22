@@ -36,6 +36,140 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-24'
+version_history:
+  file: regulamento-ue-2020-1201.versoes.json
+  count: 8
+  source_lastmod: '2025-11-24'
+  versions:
+  - date: '2020-08-17'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-10-11'
+    amending: eu:celex:32021R1688:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1688 DA COMISSÃO de 20 de setembro de 2021
+    changes:
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera Artigo 33.º — Controlos oficiais aquando da introdução na União
+    - Altera Lista de vegetais conhecidos como suscetíveis a uma ou mais subespécies da praga especificada («vegetais hospedeiros»)
+    - Altera Vegetais especificados suscetíveis a Xylella fastidiosa, subespécie fastidiosa
+    - Altera Vegetais especificados suscetíveis a Xylella fastidiosa, subespécie multiplex
+    - Altera Vegetais especificados suscetíveis a Xylella fastidiosa, subespécie pauca
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera Notas
+    - Adita B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Suprime B. Análises moleculares para a identificação da subespécie de Xylella fastidiosa
+  - date: '2021-12-23'
+    amending: eu:celex:32021R2130:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2130 DA COMISSÃO de 2 de dezembro de 2021
+    changes:
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Altera Notas
+    - Adita Lista de vegetais conhecidos como suscetíveis a uma ou mais subespécies da praga especificada (“vegetais hospedeiros”)
+    - Adita Lista de vegetais conhecidos como suscetíveis a subespécies específicas da praga especificada (“vegetais especificados”)
+    - Suprime Lista de vegetais conhecidos como suscetíveis a uma ou mais subespécies da praga especificada («vegetais hospedeiros»)
+    - Suprime Lista de vegetais conhecidos como suscetíveis a subespécies específicas da praga especificada («vegetais especificados»)
+    - Suprime Vegetais especificados suscetíveis a Xylella fastidiosa, subespécie fastidiosa
+    - Suprime Vegetais especificados suscetíveis a Xylella fastidiosa, subespécie multiplex
+    - Suprime Vegetais especificados suscetíveis a Xylella fastidiosa, subespécie pauca
+  - date: '2023-09-28'
+    amending: eu:celex:32023R1706:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1706 DA COMISSÃO de 7 de setembro de 2023
+    changes:
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera Lista de vegetais conhecidos como suscetíveis a uma ou mais subespécies da praga especificada (“vegetais hospedeiros”)
+    - Altera Lista de vegetais conhecidos como suscetíveis a subespécies específicas da praga especificada (“vegetais especificados”)
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Altera Notas
+    - Adita Vegetais especificados suscetíveis a Xylella fastidiosa subsp. fastidiosa
+    - Adita Vegetais especificados suscetíveis a Xylella fastidiosa subsp. multiplex
+    - Adita Vegetais especificados suscetíveis a Xylella fastidiosa subsp. pauca
+  - date: '2024-06-05'
+    amending: eu:celex:32024R1320:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1320 DA COMISSÃO de 15 de maio de 2024
+    changes:
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera Zona infetada em Itália
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Altera Notas
+  - date: '2024-10-17'
+    amending: eu:celex:32024R2507:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2507 DA COMISSÃO de 26 de setembro de 2024
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Prospeções da praga especificada no território dos Estados-Membros
+    - Altera Artigo 4.º — Estabelecimento de áreas demarcadas
+    - Altera Artigo 5.º — Derrogações ao estabelecimento de áreas demarcadas
+    - Altera Artigo 7.º — Remoção de vegetais
+    - Altera Artigo 8.º — Medidas contra os vetores da praga especificada
+    - Altera Artigo 9.º — Destruição de vegetais
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 14.º — Medidas contra os vetores da praga especificada nas zonas infetadas enumeradas no anexo III
+    - Altera Artigo 15.º — Vigilância anual das zonas infetadas enumeradas no anexo III
+    - Altera Artigo 16.º — Destruição de vegetais
+    - Altera Artigo 18.º — Autorização de plantação de vegetais especificados em zonas infetadas
+    - Altera Artigo 19.º — Circulação para fora de uma área demarcada, e a partir das respetivas zonas infetadas para as zonas-tampão,
+      de vegetais especificados que tenham sido cultivados em locais de produção autorizados situados nessa área demarcada
+    - Altera Artigo 23.º — Circulação dentro das zonas infetadas, dentro das zonas-tampão e a partir das zonas-tampão para
+      as respetivas zonas infetadas, de vegetais especificados que tenham sido cultivados durante uma parte do seu ciclo de
+      vida numa área demarcada
+    - Altera Artigo 24.º — Autorização de locais de produção
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera Artigo 27.º — Passaportes fitossanitários
+    - Altera Artigo 28.º — Introdução na União de vegetais hospedeiros originários de um país terceiro onde se sabe que a
+      praga especificada não está presente
+    - Altera Artigo 29.º — Introdução na União de vegetais hospedeiros originários de uma área indemne da praga de um país
+      infetado
+    - Altera Artigo 30.º — Introdução na União de vegetais hospedeiros originários de um local de produção indemne da praga
+      de um país infetado
+    - Altera Artigo 32.º — Controlos oficiais da circulação de vegetais especificados na União
+    - Altera Artigo 35.º — Relatório sobre as medidas adotadas pelos Estados-Membros
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Altera Notas
+    - Adita PARTE D
+    - Adita Zona infetada em Portugal
+  - date: '2025-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 25.º — Circulação na União de vegetais especificados que nunca foram cultivados dentro de uma área demarcada
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera Artigo 28.º — Introdução na União de vegetais hospedeiros originários de um país terceiro onde se sabe que a
+      praga especificada não está presente
+    - Altera Artigo 29.º — Introdução na União de vegetais hospedeiros originários de uma área indemne da praga de um país
+      infetado
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Altera Notas
+  - date: '2025-11-24'
+    amending: eu:celex:32025R2231:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2231 DA COMISSÃO de 3 de novembro de 2025
+    changes:
+    - Altera Artigo 11.º — Outras medidas pertinentes para a erradicação da praga especificada
+    - Altera Artigo 26.º — Circulação na União de plantas-mãe pré-básicas ou de material pré-básico que tenham sido cultivados
+      fora de uma área demarcada
+    - Altera Artigo 28.º — Introdução na União de vegetais hospedeiros originários de um país terceiro onde se sabe que a
+      praga especificada não está presente
+    - Altera Zona infetada em França
+    - Altera A. Análises para deteção e identificação da presença de Xylella fastidiosa
+    - Altera B. Análises moleculares para a identificação das subespécies de Xylella fastidiosa
+    - Altera Notas
 identifiers:
   celex: 32020R1201
   eli: http://data.europa.eu/eli/reg_impl/2020/1201/oj
@@ -50,7 +184,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cebec0fa-e073-11ea-ad25-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/33446471-ca80-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R1201-20251124
-  retrieved_at: '2026-10-22T02:49:30Z'
+  retrieved_at: '2026-10-22T17:11:56Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T09:01:19.063+02:00'
 integrity:
@@ -59,9 +193,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:30Z'
-  notes: Texto consolidado 02020R1201-20251124.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:11:56Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2020-1201.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -196,38 +330,19 @@ relationships:
   date: '2015-05-21'
 article_structure:
   article_count: 38
-  section_count: 52
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 53
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:30Z'
+  checked_at: '2026-10-22T17:11:56Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2020/1201 da Comissão de 14 de agosto de 2020
-
-> 02020R1201 — PT — 24.11.2025 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1688) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1688 DA COMISSÃO de 20 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1688) — L 332 — 6 — 21.9.2021
-- [M2](http://publications.europa.eu/resource/celex/32021R2130) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2130 DA COMISSÃO de 2 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2130) — L 432 — 19 — 3.12.2021
-- [►M3](http://publications.europa.eu/resource/celex/32023R1706) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1706 DA COMISSÃO de 7 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1706) — L 221 — 14 — 8.9.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R1320) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1320 DA COMISSÃO de 15 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1320) — L 1320 — 1 — 16.5.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R2507) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2507 DA COMISSÃO de 26 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2507) — L 2507 — 1 — 27.9.2024
-- [►M6](http://publications.europa.eu/resource/celex/32025R2231) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2231 DA COMISSÃO de 3 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2231) — L 2231 — 1 — 4.11.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32020R1201R%2801%29) — [Rectificação, JO L 326, 8.10.2020, p. 14 (2020/1201)](http://publications.europa.eu/resource/celex/32020R1201R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2020/1201 DA COMISSÃO
 
 de 14 de agosto de 2020
 

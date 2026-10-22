@@ -36,6 +36,54 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-14'
+version_history:
+  file: decisao-ue-2026-1108.versoes.json
+  count: 5
+  source_lastmod: '2026-09-14'
+  versions:
+  - date: '2026-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-06-05'
+    amending: eu:celex:32026D1217:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1217 DA COMISSÃO de 2 de junho de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Adita Artigo 1.º-A
+    - Adita Artigo 1.º-B
+    - Adita Artigo 1.º-C
+    - Adita ANEXO I
+    - 'Adita Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado'
+    - 'Adita Parte B: Outras zonas submetidas a restrições'
+    - Adita ANEXO II
+    - Suprime Notas
+  - date: '2026-07-21'
+    amending: eu:celex:32026D1797:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1797 DA COMISSÃO de 16 de julho de 2026
+    changes:
+    - Altera Artigo 1.º-C
+    - 'Altera Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado'
+    - 'Altera Parte B: Outras zonas submetidas a restrições'
+    - Altera ANEXO II
+  - date: '2026-08-24'
+    amending: eu:celex:32026D1943:por
+    amending_title: M3; DECISÃO DE EXECUÇÃO (UE) 2026/1956 DA COMISSÃO de 20 de agosto de 2026
+    changes:
+    - Altera ANEXO II
+    - 'Adita Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado'
+    - 'Adita Parte B: outras zonas submetidas a restrições'
+    - 'Suprime Parte A: Zonas de proteção e de vigilância estabelecidas em redor do foco confirmado'
+    - 'Suprime Parte B: Outras zonas submetidas a restrições'
+  - date: '2026-09-14'
+    amending: eu:celex:32026D2075:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/2075 DA COMISSÃO de 10 de setembro de 2026
+    changes:
+    - 'Altera Parte A: zonas de proteção e de vigilância estabelecidas em redor do foco confirmado'
+    - 'Altera Parte B: outras zonas submetidas a restrições'
+    - Altera ANEXO II
 identifiers:
   celex: 32026D1108
   eli: http://data.europa.eu/eli/dec_impl/2026/1108/oj
@@ -50,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/54e923a3-53e4-11f1-b3e2-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/9a11a90f-c1c6-11f1-988f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1108-20260914
-  retrieved_at: '2026-10-22T03:42:07Z'
+  retrieved_at: '2026-10-22T17:19:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-05-20T03:00:18.525+02:00'
 integrity:
@@ -59,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:42:07Z'
-  notes: Texto consolidado 02026D1108-20260914.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:19:41Z'
+  notes: 5 versão(ões); histórico completo em decisao-ue-2026-1108.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -140,32 +188,18 @@ relationships:
 article_structure:
   article_count: 6
   section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:42:07Z'
+  checked_at: '2026-10-22T17:19:41Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/1108 da Comissão, de 13 de maio de 2026
-
-> 02026D1108 — PT — 14.09.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026D1217) — [DECISÃO DE EXECUÇÃO (UE) 2026/1217 DA COMISSÃO de 2 de junho de 2026](http://publications.europa.eu/resource/celex/32026D1217) — L 1217 — 1 — 5.6.2026
-- [►M2](http://publications.europa.eu/resource/celex/32026D1797) — [DECISÃO DE EXECUÇÃO (UE) 2026/1797 DA COMISSÃO de 16 de julho de 2026](http://publications.europa.eu/resource/celex/32026D1797) — L 1797 — 1 — 21.7.2026
-- [M3](http://publications.europa.eu/resource/celex/32026D1943) — [DECISÃO DE EXECUÇÃO (UE) 2026/1943 DA COMISSÃO de 10 de agosto de 2026](http://publications.europa.eu/resource/celex/32026D1943) — L 1943 — 1 — 13.8.2026
-- [M4](http://publications.europa.eu/resource/celex/32026D1956) — [DECISÃO DE EXECUÇÃO (UE) 2026/1956 DA COMISSÃO de 20 de agosto de 2026](http://publications.europa.eu/resource/celex/32026D1956) — L 1956 — 1 — 24.8.2026
-- [►M5](http://publications.europa.eu/resource/celex/32026D2075) — [DECISÃO DE EXECUÇÃO (UE) 2026/2075 DA COMISSÃO de 10 de setembro de 2026](http://publications.europa.eu/resource/celex/32026D2075) — L 2075 — 1 — 14.9.2026
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/1108 DA COMISSÃO
 
 de 13 de maio de 2026
 

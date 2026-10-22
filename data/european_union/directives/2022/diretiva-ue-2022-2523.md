@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-22'
+version_history:
+  file: diretiva-ue-2022-2523.versoes.json
+  count: 1
+  source_lastmod: '2022-12-22'
+  versions:
+  - date: '2022-12-22'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32022L2523
   eli: http://data.europa.eu/eli/dir/2022/2523/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c0f3ca3d-81cb-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/bf5d8c16-accf-11ed-8912-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022L2523-20221222
-  retrieved_at: '2026-10-22T02:46:12Z'
+  retrieved_at: '2026-10-22T17:15:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T18:54:28.107+02:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:12Z'
-  notes: Texto consolidado 02022L2523-20221222.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:41Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2022-2523.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -177,29 +186,19 @@ relationships:
   source: null
 article_structure:
   article_count: 59
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:12Z'
+  checked_at: '2026-10-22T17:15:41Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2022/2523 do Conselho de 14 de dezembro de 2022
-
-> 02022L2523 — PT — 22.12.2022 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022L2523R%2801%29) — [Rectificação, JO L 013, 16.1.2023, p. 9 (2022/2523)](http://publications.europa.eu/resource/celex/32022L2523R%2801%29)
-
-## DIRETIVA (UE) 2022/2523 DO CONSELHO
 
 de [**►C1**](http://publications.europa.eu/resource/celex/32022L2523R%2801%29) 15 de dezembro de 2022**◄**
 

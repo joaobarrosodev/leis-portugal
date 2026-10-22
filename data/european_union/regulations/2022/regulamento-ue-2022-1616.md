@@ -37,6 +37,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-03'
+version_history:
+  file: regulamento-ue-2022-1616.versoes.json
+  count: 3
+  source_lastmod: '2025-12-03'
+  versions:
+  - date: '2022-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-03-16'
+    amending: eu:celex:32025R0351:por
+    amending_title: REGULAMENTO (UE) 2025/351 DA COMISSÃO de 21 de fevereiro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Requisitos aplicáveis aos materiais e objetos de plástico reciclado
+    - Altera Artigo 9.º — Requisitos para o funcionamento dos regimes de reciclagem
+    - Altera Artigo 19.º — Autorização de um processo de reciclagem individual
+    - Altera Tecnologias de reciclagem adequadas nos termos do artigo 3.º
+    - 'Altera 1. Secção 1: identificação'
+    - Altera Declaração de conformidade a utilizar pelos recicladores
+    - Altera Declaração de conformidade a utilizar pelos transformadores se o material de plástico transformado contiver plástico
+      reciclado
+    - Altera Notas
+  - date: '2025-12-03'
+    amending: eu:celex:32025R2269:por
+    amending_title: REGULAMENTO (UE) 2025/2269 DA COMISSÃO de 12 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Requisitos aplicáveis aos materiais e objetos de plástico reciclado
+    - Altera Artigo 5.º — Requisitos em matéria de documentação, instruções e rotulagem
+    - Altera Artigo 9.º — Requisitos para o funcionamento dos regimes de reciclagem
+    - Altera Artigo 10.º — Requisitos para o desenvolvimento de uma tecnologia nova
+    - Altera Artigo 11.º — Condições de funcionamento de equipamentos de reciclagem que aplicam tecnologias novas
+    - Altera Artigo 12.º — Requisitos de informação suplementar sobre os equipamentos de reciclagem que utilizam tecnologias
+      novas
+    - Altera Artigo 14.º — Avaliação de tecnologias novas
+    - Altera Artigo 18.º — Parecer da Autoridade
+    - Altera Artigo 19.º — Autorização de um processo de reciclagem individual
+    - Altera Artigo 22.º — Pedido de alteração de uma autorização apresentado pelo titular da autorização
+    - Altera Artigo 23.º — Alteração, suspensão e revogação da autorização de um processo de reciclagem por iniciativa das
+      autoridades competentes, da Autoridade ou da Comissão
+    - Altera Tecnologias de reciclagem adequadas nos termos do artigo 3.º
+    - 'Altera 1. Secção 1: identificação'
+    - Altera Declaração de conformidade a utilizar pelos recicladores
+    - Altera Declaração de conformidade a utilizar pelos transformadores se o material de plástico transformado contiver plástico
+      reciclado
+    - Altera Notas
 identifiers:
   celex: 32022R1616
   eli: http://data.europa.eu/eli/reg/2022/1616/oj
@@ -51,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9ec45713-3880-11ed-9c68-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/1e829b92-eb37-11f0-8d3c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1616-20251203
-  retrieved_at: '2026-10-22T03:20:14Z'
+  retrieved_at: '2026-10-22T17:16:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T07:23:19.246+02:00'
 integrity:
@@ -60,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:14Z'
-  notes: Texto consolidado 02022R1616-20251203.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:04Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2022-1616.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -151,34 +198,19 @@ relationships:
   date: '2008-03-31'
 article_structure:
   article_count: 33
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 33
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:14Z'
+  checked_at: '2026-10-22T17:16:04Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2022/1616 da Comissão de 15 de setembro de 2022
-
-> 02022R1616 — PT — 03.12.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R0351) — [REGULAMENTO (UE) 2025/351 DA COMISSÃO de 21 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0351) — L 351 — 1 — 24.2.2025
-- [►M2](http://publications.europa.eu/resource/celex/32025R2269) — [REGULAMENTO (UE) 2025/2269 DA COMISSÃO de 12 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2269) — L 2269 — 1 — 13.11.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R1616R%2801%29) — [Rectificação, JO L 244, 21.9.2022, p. 70 (2022/1616)](http://publications.europa.eu/resource/celex/32022R1616R%2801%29)
-
-## REGULAMENTO (UE) 2022/1616 DA COMISSÃO
 
 de 15 de setembro de 2022
 

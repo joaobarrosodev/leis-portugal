@@ -34,6 +34,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-04-01'
+version_history:
+  file: regulamento-ue-2022-1369.versoes.json
+  count: 2
+  source_lastmod: '2023-04-01'
+  versions:
+  - date: '2022-08-08'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-04-01'
+    amending: eu:celex:32023R0706:por
+    amending_title: REGULAMENTO (UE) 2023/706 DO CONSELHO de 30 de março de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Redução voluntária da procura
+    - Altera Artigo 5.º — Redução obrigatória da procura em caso de alerta da União
+    - Altera Artigo 8.º — Monitorização e cumprimento
+    - Altera Artigo 9.º — Reexame
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera Notas
 identifiers:
   celex: 32022R1369
   eli: http://data.europa.eu/eli/reg/2022/1369/oj
@@ -48,7 +69,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6fa4ee8f-1717-11ed-8fa0-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/574a975a-ef58-11ed-a05c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1369-20230401
-  retrieved_at: '2026-10-22T03:20:12Z'
+  retrieved_at: '2026-10-22T17:15:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T04:34:22.425+02:00'
 integrity:
@@ -57,9 +78,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:12Z'
-  notes: Texto consolidado 02022R1369-20230401.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:59Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2022-1369.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -130,29 +151,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/3c516872-e54e-11eb-a1a5-01aa75ed71a1
 article_structure:
   article_count: 10
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:12Z'
+  checked_at: '2026-10-22T17:15:59Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2022/1369 do Conselho de 5 de agosto de 2022
-
-> 02022R1369 — PT — 01.04.2023 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0706) — [REGULAMENTO (UE) 2023/706 DO CONSELHO de 30 de março de 2023](http://publications.europa.eu/resource/celex/32023R0706) — L 93 — 1 — 31.3.2023
-
-## REGULAMENTO (UE) 2022/1369 DO CONSELHO
 
 de 5 de agosto de 2022
 

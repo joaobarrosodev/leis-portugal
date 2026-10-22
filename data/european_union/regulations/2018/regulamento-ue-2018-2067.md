@@ -36,6 +36,152 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-06-22'
+version_history:
+  file: regulamento-ue-2018-2067.versoes.json
+  count: 4
+  source_lastmod: '2025-06-22'
+  versions:
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-14'
+    amending: eu:celex:32024R1321:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1321 DA COMISSÃO de 8 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Fiabilidade da verificação
+    - Altera Artigo 7.º — Obrigações gerais do verificador
+    - Altera Artigo 9.º — Tempo de trabalho
+    - Altera Artigo 10.º — Informações facultadas pelo operador de instalação ou de aeronave
+    - Altera Artigo 11.º — Análise estratégica
+    - Altera Artigo 13.º — Plano de verificação
+    - Altera Artigo 16.º — Verificação dos dados
+    - Altera Artigo 17.º — Verificação da correta aplicação da metodologia de monitorização
+    - Altera Artigo 22.º — Tratamento de inexatidões, não conformidades e situações de incumprimento
+    - Altera Artigo 23.º — Nível de materialidade
+    - Altera Artigo 26.º — Documentação de verificação interna
+    - Altera Artigo 27.º — Relatório de verificação
+    - Altera Artigo 28.º — Limitação do âmbito
+    - Altera Artigo 30.º — Melhoria do processo de monitorização e comunicação de informações
+    - Altera Artigo 32.º — Condições para a dispensa de visitas aos locais
+    - Altera Artigo 33.º — Verificação simplificada para operadores de aeronave
+    - Altera Artigo 44.º — Acreditação
+    - Altera Artigo 45.º — Objetivos da acreditação
+    - Altera Artigo 48.º — Avaliação
+    - Altera Artigo 56.º — Acreditação transfronteiriça
+    - Altera Artigo 58.º — Equipa de avaliação
+    - Altera Artigo 62.º — Reclamações
+    - Altera Artigo 69.º — Intercâmbio eletrónico de dados e utilização de sistemas automatizados
+    - Altera Artigo 71.º — Programa de trabalho e relatório de gestão em matéria de acreditação
+    - Altera Artigo 76.º — Bases de dados de verificadores acreditados
+    - Altera Artigo 77.º — Notificação pelos verificadores
+    - Altera Âmbito da acreditação dos verificadores
+    - Altera Requisitos aplicáveis aos verificadores
+    - Altera Notas
+    - Adita Artigo 2.º — Âmbito
+    - Adita VERIFICAÇÃO DOS RELATÓRIOS DOS OPERADORES DE INSTALAÇÃO OU DE AERONAVE
+    - Adita Artigo 17.º-A — Verificações referentes às recomendações no domínio da eficiência energética
+    - Adita Artigo 17.º-B — Verificação da aplicação das derrogações enumeradas no artigo 22.º-A, n.º 1, segundo parágrafo,
+      do Regulamento Delegado (UE) 2019/331
+    - Adita Artigo 30.º-A — Seguimento de observações referentes à aplicação de recomendações no domínio da eficiência energética
+    - Adita Artigo 34.º-A — Visitas virtuais aos locais para verificação dos relatórios dos operadores de instalação ou de
+      aeronave
+    - Adita Artigo 34.º-B — Visitas virtuais aos locais para verificação dos relatórios sobre as emissões dos operadores de
+      aeronave
+    - Suprime Artigo 2.º — Âmbito de aplicação
+    - Suprime VERIFICAÇÃO
+  - date: '2025-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Presunção de conformidade
+    - Altera Artigo 7.º — Obrigações gerais do verificador
+    - Altera Artigo 16.º — Verificação dos dados
+    - Altera Artigo 17.º — Verificação da correta aplicação da metodologia de monitorização
+    - Altera Artigo 27.º — Relatório de verificação
+    - Altera Artigo 34.º-B — Visitas virtuais aos locais para verificação dos relatórios sobre as emissões dos operadores
+      de aeronave
+    - Altera Artigo 36.º — Processo de manutenção das competências
+    - Altera Artigo 37.º — Equipas de verificação
+    - Altera Artigo 38.º — Requisitos em matéria de competências para os auditores e auditores-chefes CELE
+    - Altera Artigo 73.º — Intercâmbio de informações pela autoridade competente
+    - Altera Artigo 77.º — Notificação pelos verificadores
+    - Altera Requisitos aplicáveis aos verificadores
+    - Altera Notas
+    - Adita CAPÍTULO III-A
+    - Adita VERIFICAÇÃO DOS RELATÓRIOS DAS ENTIDADES REGULAMENTADAS
+    - Adita Artigo 43.º-A — Fiabilidade da verificação dos relatórios das entidades regulamentadas
+    - Adita Artigo 43.º-B — Obrigações gerais do verificador
+    - Adita Artigo 43.º-C — Obrigações pré-contratuais
+    - Adita Artigo 43.º-D — Tempo de trabalho
+    - Adita Artigo 43.º-E — Informações facultadas pela entidade regulamentada
+    - Adita Artigo 43.º-F — Análise estratégica
+    - Adita Artigo 43.º-G — Análise dos riscos
+    - Adita Artigo 43.º-H — Plano de verificação
+    - Adita Artigo 43.º-I — Atividades de verificação
+    - Adita Artigo 43.º-J — Procedimentos analíticos
+    - Adita Artigo 43.º-K — Verificação dos dados
+    - Adita Artigo 43.º-L — Verificação da correta aplicação da metodologia de monitorização
+    - Adita Artigo 43.º-M — Verificação dos métodos aplicados em caso de falta de dados
+    - Adita Artigo 43.º-N — Amostragem
+    - Adita Artigo 43.º-O — Tratamento de inexatidões, não conformidades e situações de incumprimento
+    - Adita Artigo 43.º-P — Nível de materialidade
+    - Adita Artigo 43.º-Q — Conclusões sobre a verificação, reexame independente e registos
+    - Adita Artigo 43.º-R — Relatório de verificação
+    - Adita Artigo 43.º-S — Limitação do âmbito
+    - Adita Artigo 43.º-T — Tratamento das não conformidades não materiais pendentes
+    - Adita Artigo 43.º-U — Melhoria do processo de monitorização e comunicação de informações
+    - Adita Artigo 43.º-V — Visitas aos locais e verificação simplificada
+    - Adita Artigo 43.º-W — Condições para a dispensa de visitas aos locais
+    - Adita Artigo 43.º-X — Plano de verificação simplificado e visitas virtuais aos locais
+  - date: '2025-06-22'
+    amending: eu:celex:32025R1192:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1192 DA COMISSÃO de 18 de junho de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Fiabilidade da verificação
+    - Altera Artigo 7.º — Obrigações gerais do verificador
+    - Altera Artigo 9.º — Tempo de trabalho
+    - Altera Artigo 10.º — Informações facultadas pelo operador de instalação ou de aeronave
+    - Altera Artigo 11.º — Análise estratégica
+    - Altera Artigo 13.º — Plano de verificação
+    - Altera Artigo 14.º — Atividades de verificação
+    - Altera Artigo 16.º — Verificação dos dados
+    - Altera Artigo 17.º — Verificação da correta aplicação da metodologia de monitorização
+    - Altera Artigo 18.º — Verificação dos métodos aplicados em caso de falta de dados
+    - Altera Artigo 21.º — Visitas aos locais
+    - Altera Artigo 22.º — Tratamento de inexatidões, não conformidades e situações de incumprimento
+    - Altera Artigo 23.º — Nível de materialidade
+    - Altera Artigo 24.º — Conclusões sobre as constatações da verificação
+    - Altera Artigo 26.º — Documentação de verificação interna
+    - Altera Artigo 27.º — Relatório de verificação
+    - Altera Artigo 28.º — Limitação do âmbito
+    - Altera Artigo 30.º — Melhoria do processo de monitorização e comunicação de informações
+    - Altera Artigo 31.º — Verificação simplificada de instalações
+    - Altera Artigo 37.º — Equipas de verificação
+    - Altera Artigo 38.º — Requisitos em matéria de competências para os auditores e auditores-chefes CELE
+    - Altera Artigo 43.º — Imparcialidade e independência
+    - Altera Artigo 43.º-L — Verificação da correta aplicação da metodologia de monitorização
+    - Altera Artigo 43.º-W — Condições para a dispensa de visitas aos locais
+    - Altera Artigo 44.º — Acreditação
+    - Altera Artigo 58.º — Equipa de avaliação
+    - Altera Artigo 59.º — Requisitos em matéria de competências para avaliadores
+    - Altera Artigo 60.º — Peritos técnicos
+    - Altera Artigo 69.º — Intercâmbio eletrónico de dados e utilização de sistemas automatizados
+    - Altera Artigo 77.º — Notificação pelos verificadores
+    - Altera Âmbito da acreditação dos verificadores
+    - Altera Notas
+    - Adita Artigo 17.º-C — Verificação do cumprimento de metas e marcos
+    - Adita Artigo 33.º — Verificação simplificada do relatório sobre as emissões do operador de aeronave
+    - Adita Artigo 33.º-A — Verificação simplificada do relatório sobre os efeitos da aviação não ligados ao CO2 do operador
+      de aeronave
+    - Adita Artigo 34.º-B
+    - Adita Visitas virtuais aos locais para verificação dos relatórios do operador de aeronave
+    - Adita Artigo 43.º-X — Plano de verificação simplificado, visitas virtuais aos locais e verificação simplificada
 identifiers:
   celex: 32018R2067
   eli: http://data.europa.eu/eli/reg_impl/2018/2067/oj
@@ -50,7 +196,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4dbe8ecc-0cc7-11e9-81b4-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/929e7199-8800-11f0-9af8-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R2067-20250622
-  retrieved_at: '2026-10-22T02:53:40Z'
+  retrieved_at: '2026-10-22T17:07:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T11:08:17.075+01:00'
 integrity:
@@ -59,9 +205,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:40Z'
-  notes: Texto consolidado 02018R2067-20250622.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:14Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2018-2067.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -189,36 +335,20 @@ relationships:
   date: '2012-07-12'
 article_structure:
   article_count: 113
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 26
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:40Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:14Z'
+  warnings:
+  - '02018R2067-20181231: versão indisponível (Sem expressão na língua por para CELEX 02018R2067-20181231.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2018/2067 da Comissão, de 19 de dezembro de 2018
-
-> 02018R2067 — PT — 22.06.2025 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R2084) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2084 DA COMISSÃO de 14 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2084) — L 423 — 23 — 15.12.2020
-- [►M2](http://publications.europa.eu/resource/celex/32024R1321) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1321 DA COMISSÃO de 8 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1321) — L 1321 — 1 — 13.5.2024
-- [►M3](http://publications.europa.eu/resource/celex/32025R1192) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1192 DA COMISSÃO de 18 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1192) — L 1192 — 1 — 19.6.2025
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32024R1321R%2801%29) — [Rectificação, JO L 90298, 15.5.2024, p. 1 ((UE) 2024/13212024/1321)](http://publications.europa.eu/resource/celex/32024R1321R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32024R1321R%2802%29) — [Rectificação, JO L 90300, 15.5.2024, p. 1 ((UE) 2024/13212024/1321)](http://publications.europa.eu/resource/celex/32024R1321R%2802%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2018/2067 DA COMISSÃO
 
 de 19 de dezembro de 2018
 

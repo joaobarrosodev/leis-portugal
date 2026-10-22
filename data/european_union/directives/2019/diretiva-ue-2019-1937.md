@@ -35,6 +35,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-30'
+version_history:
+  file: diretiva-ue-2019-1937.versoes.json
+  count: 6
+  source_lastmod: '2024-12-30'
+  versions:
+  - date: '2021-11-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-05-02'
+    amending: eu:celex:32022R1925:por
+    amending_title: REGULAMENTO (UE) 2022/1925 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2022
+    changes:
+    - Altera Artigo 20.º — Medidas de apoio
+    - 'Altera J. Artigo 2.º, n.º 1, alínea a), subalínea x) — Proteção da privacidade e dos dados pessoais, e segurança da
+      rede e dos sistemas de informação:'
+    - Altera Notas
+  - date: '2024-03-11'
+    amending: eu:celex:32024R0573:por
+    amending_title: REGULAMENTO (UE) 2024/573 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de fevereiro de 2024
+    changes:
+    - Altera Artigo 20.º — Medidas de apoio
+    - 'Altera E. Artigo 2.º, n.º 1, alínea a), subalínea v) — Proteção do ambiente:'
+    - Altera Notas
+  - date: '2024-07-09'
+    amending: eu:celex:32024L1640:por
+    amending_title: DIRETIVA (UE) 2024/1640 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024
+    changes:
+    - Altera Artigo 20.º — Medidas de apoio
+    - 'Altera A. Artigo 2.º, n.º 1, alínea a), subalínea ii) — Serviços, produtos e mercados financeiros, e prevenção do branqueamento
+      de capitais e do financiamento do terrorismo:'
+    - Altera Notas
+  - date: '2024-07-25'
+    amending: eu:celex:32024L1760:por
+    amending_title: DIRETIVA (UE) 2024/1760 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 20.º — Medidas de apoio
+    - 'Altera E. Artigo 2.º, n.º 1, alínea a), subalínea v) — Proteção do ambiente:'
+    - Altera Notas
+  - date: '2024-12-30'
+    amending: eu:celex:32023R1114:por
+    amending_title: REGULAMENTO (UE) 2023/1114 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023
+    changes:
+    - Altera Artigo 20.º — Medidas de apoio
+    - 'Altera B. Artigo 2.º, n.º 1, alínea a), subalínea ii) — Serviços, produtos e mercados financeiros e prevenção do branqueamento
+      de capitais e do financiamento do terrorismo:'
+    - Altera Notas
 identifiers:
   celex: 32019L1937
   eli: http://data.europa.eu/eli/dir/2019/1937/oj
@@ -49,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cc54a8ef-1036-11ea-8c1f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b5b0ad29-bc8d-11ef-91ed-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L1937-20241230
-  retrieved_at: '2026-10-22T02:38:24Z'
+  retrieved_at: '2026-10-22T17:07:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T21:34:10.958+01:00'
 integrity:
@@ -58,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:24Z'
-  notes: Texto consolidado 02019L1937-20241230.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:51Z'
+  notes: 6 versão(ões); histórico completo em diretiva-ue-2019-1937.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -485,34 +532,20 @@ relationships:
   source: null
 article_structure:
   article_count: 29
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:24Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:51Z'
+  warnings:
+  - '02019L1937-20191126: versão indisponível (Sem expressão na língua por para CELEX 02019L1937-20191126.)'
   errors: []
 ---
 
 # Diretiva (UE) 2019/1937 do Parlamento Europeu e do Conselho, de 23 de outubro de 2019
-
-> 02019L1937 — PT — 30.12.2024 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1503) — [REGULAMENTO (UE) 2020/1503 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R1503) — L 347 — 1 — 20.10.2020
-- [►M2](http://publications.europa.eu/resource/celex/32022R1925) — [REGULAMENTO (UE) 2022/1925 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R1925) — L 265 — 1 — 12.10.2022
-- [►M3](http://publications.europa.eu/resource/celex/32023R1114) — [REGULAMENTO (UE) 2023/1114 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1114) — L 150 — 40 — 9.6.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R0573) — [REGULAMENTO (UE) 2024/573 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0573) — L 573 — 1 — 20.2.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024L1640) — [DIRETIVA (UE) 2024/1640 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1640) — L 1640 — 1 — 19.6.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024L1760) — [DIRETIVA (UE) 2024/1760 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1760) — L 1760 — 1 — 5.7.2024
-
-## DIRETIVA (UE) 2019/1937 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de outubro de 2019
 

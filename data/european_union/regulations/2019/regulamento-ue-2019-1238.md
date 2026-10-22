@@ -36,6 +36,26 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: regulamento-ue-2019-1238.versoes.json
+  count: 2
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2019-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2869:por
+    amending_title: REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Pedido de registo de um PEPP
+    - Altera Artigo 51.º — Resolução extrajudicial de litígios
+    - Altera Artigo 66.º — Colaboração e coerência
+    - Altera Artigo 67.º — Sanções administrativas e outras medidas
+    - Altera Notas
+    - Adita Artigo 70.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32019R1238
   eli: http://data.europa.eu/eli/reg/2019/1238/oj
@@ -50,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/59b7f33d-ae8d-11e9-9d01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/53478b0b-b9e9-11ee-b164-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1238-20240109
-  retrieved_at: '2026-10-22T03:19:16Z'
+  retrieved_at: '2026-10-22T17:09:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T08:52:22.634+01:00'
 integrity:
@@ -59,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:16Z'
-  notes: Texto consolidado 02019R1238-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:22Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2019-1238.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -246,33 +266,19 @@ relationships:
   date: '2024-03-13'
 article_structure:
   article_count: 75
-  section_count: 42
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 43
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:16Z'
+  checked_at: '2026-10-22T17:09:22Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/1238 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019R1238 — PT — 09.01.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2869) — [REGULAMENTO (UE) 2023/2869 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2869) — L — 1 — 20.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1238R%2803%29) — [Rectificação, JO L 140, 19.5.2022, p. 63 (2019/1238)](http://publications.europa.eu/resource/celex/32019R1238R%2803%29)
-
-## REGULAMENTO (UE) 2019/1238 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

@@ -1,0 +1,398 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1425:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1425-20260703",
+ "dre_path": null,
+ "source_lastmod": "2026-07-03",
+ "versions": [
+  {
+   "date": "2026-07-03",
+   "future": false,
+   "celex": "02026D1425-20260703",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "a4c20ba67ddabf58",
+    "e417349e4a825811",
+    "e16a831031340ccd",
+    "9535f1e66d279aeb",
+    "855d0fb99755f94a",
+    "049cfc68dc4b64b5",
+    "2faecb5f3df57456",
+    "3d83ef45fb325621",
+    "8f45ab47b48d4d66",
+    "8a74b82d0ad7e5a6",
+    "df301b4e879a9c2a",
+    "f1fbd70fe045234c",
+    "5d9ff4bd147fc79d",
+    "d664376e2a8dcecd",
+    "eac29eb24e1876f3",
+    "852174729551523b",
+    "7d219f0aee99b1c7",
+    "ee17f406395b976c",
+    "d9c498a84f328143",
+    "720af75c92791b10",
+    "a0f7a5d0f236d874",
+    "8c71c43183c5905d",
+    "77d4f9b820f5d16b",
+    "002f64234ce79beb",
+    "c4f1481f10e212d7",
+    "5d5b5c8558b876d3",
+    "0d89ca6aaf9a8a0b",
+    "a5c032defb15933f",
+    "5c96f81a4112e3cd",
+    "79650b625dfc2362",
+    "2ea22bedc5a0f5ce",
+    "e4c4f475620812f9",
+    "c74f0521356ebc84",
+    "6db4a0a8333239a7",
+    "955af6ab899adecc",
+    "2c2a637dbf066cd9",
+    "ebbfe475f111d680",
+    "64610ae29a6cb67c",
+    "f5c0d9ae50846cac",
+    "b8ec51f6f8b5f0dc",
+    "028b97e4629dc465",
+    "73e42802b8444179"
+   ]
+  }
+ ],
+ "fragments": {
+  "a4c20ba67ddabf58": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de junho de 2026\n\nque estabelece regras de execução da Diretiva (UE) 2019/904 do Parlamento Europeu e do Conselho no respeitante ao cálculo, à verificação e à comunicação de dados relativos ao teor de plástico reciclado das garrafas de plástico de utilização única para bebidas e que revoga a Decisão de Execução (UE) 2023/2683 da Comissão\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "e417349e4a825811": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos da presente decisão, entende-se por:\n\n1) «Plástico reciclado», plástico que era um resíduo plástico pós-consumo antes da reciclagem e que foi produzido por reciclagem (incluindo a triagem), na aceção do artigo 3.º, ponto 17, da Diretiva 2008/98/CE, na União. A partir de 21 de novembro de 2027, esta noção deve também abranger os resíduos plásticos pós-consumo que tenham sido reciclados (incluindo os triados) num:\n\na) País terceiro abrangido pela Decisão da OCDE, a menos que a avaliação efetuada e a decisão adotada nos termos do artigo 45.º, n.^os^ 5 e 6, do Regulamento (UE) 2024/1157 concluam que não cumpre os requisitos de uma gestão ambientalmente correta dos resíduos de plástico;\n\nb) País terceiro com o qual a União tenha celebrado acordos ou convénios para assegurar que o plástico reciclado é obtido a partir de resíduos plásticos pós-consumo que tenham sido tratados em cada equipamento pertinente de forma equivalente às normas da UE relacionadas com os requisitos de proteção da saúde humana e do ambiente por força da legislação da União, nomeadamente a Diretiva 2008/98/CE e o Regulamento (UE) 2025/40, consoante o caso. O país deve também dispor de um quadro de gestão de resíduos abrangente que cubra todo o seu território e demonstre a sua capacidade e vontade de garantir uma gestão ambientalmente correta dos resíduos, tendo em conta, nomeadamente, os seguintes critérios:\n\ni) as medidas, já aplicadas e previstas, para assegurar a gestão ambientalmente correta dos resíduos no seu território, tais como a introdução de um sistema de responsabilidade alargada do produtor ou de um sistema equivalente que aplique o princípio do poluidor-pagador,\n\nii) as medidas, já aplicadas e previstas, para aumentar a proporção de plástico reciclado proveniente de resíduos plásticos pós-consumo, bem como os indicadores para o acompanhamento dessas medidas,\n\niii) as medidas, já aplicadas e previstas, para aumentar a proporção de plástico reciclado proveniente de resíduos plásticos pós-consumo incorporado nos veículos colocados no mercado nacional, bem como os indicadores para o acompanhamento dessas medidas;\n\n2) «Resíduos plásticos pós-consumo», os resíduos provenientes de produtos de plástico que foram:\n\na) Colocados no mercado da União;\n\nb) Colocados no mercado ou fornecidos para distribuição, consumo ou utilização num país terceiro no âmbito de uma atividade comercial, a título oneroso ou gratuito;\n\n3) «Garrafa para bebidas», uma garrafa de plástico de utilização única para bebidas com a capacidade máxima de três litros, incluindo a cápsula ou tampa e, caso exista, o rótulo ou manga, excluindo as seguintes garrafas:\n\na) Garrafas de vidro ou de metal para bebidas cujas cápsulas ou tampas sejam de plástico;\n\nb) Garrafas para bebidas destinadas a alimentos para fins medicinais específicos, na aceção do artigo 2.º, ponto 2, alínea g), do Regulamento (UE) n.º 609/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#E0001)), que se apresentam na forma líquida, e utilizadas para esse fim;\n\n4) «Garrafa de PET», uma garrafa para bebidas fabricada com poli(tereftalato de etileno) como componente principal;\n\n5) «Operador económico», qualquer um dos seguintes operadores que façam parte da cadeia de abastecimento conducente à colocação de garrafas para bebidas no mercado ou que colocam garrafas para bebidas no mercado:\n\na) Um reciclador, na aceção do artigo 2.º, n.º 3, ponto 16, do Regulamento (UE) 2022/1616;\n\nb) Um transformador, na aceção do artigo 2.º, n.º 3, ponto 17, do Regulamento (UE) 2022/1616;\n\nc) Um operador de uma empresa do setor alimentar, na aceção do artigo 3.º, ponto 3, do Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#E0002));\n\nd) Qualquer pessoa singular ou coletiva estabelecida na União que coloque um produto proveniente de um país terceiro no mercado de um Estado-Membro;\n\ne) Qualquer pessoa singular ou coletiva que lida, a título profissional, com a recolha ou o tratamento de resíduos ou ambas;\n\n6) «Tecnologia de reciclagem», uma tecnologia de reciclagem na aceção do artigo 2.º, n.º 3, ponto 1, do Regulamento (UE) 2022/1616;\n\n7) «Materiais elegíveis», os resíduos plásticos pós-consumo e os materiais provenientes de resíduos plásticos pós-consumo;\n\n8) «Cadeia de abastecimento», a série de processos ou atividades envolvidas na produção e distribuição de garrafas para bebidas;\n\n9) «Ponto de cálculo», um ponto da cadeia de abastecimento no qual é determinado o teor de material elegível para um determinado material;\n\n10) «Lote», um lote na aceção do artigo 2.º, n.º 3, ponto 20, do Regulamento (UE) 2022/1616;\n\n11) «Contabilidade do balanço de massas», um conjunto de regras de cálculo utilizadas para determinar a quantidade atribuída ao longo de uma cadeia de abastecimento e nos materiais resultantes, em que os materiais elegíveis são utilizados em conjunto com outros materiais como materiais de partida no processo;\n\n12) «Quantidade atribuída», o peso de material elegível que entra num processo e que é afetado aos materiais resultantes desse processo durante um determinado período;\n\n13) «Categoria de materiais resultantes», uma classificação de materiais resultantes em qualquer das seguintes categorias:\n\n14) «Instalação», uma ou mais unidades de fabrico no mesmo local, sob o controlo de gestão do mesmo operador económico, nas quais se exerce a gestão das atividades, produtos e serviços, incluindo todas as infraestruturas, equipamentos e materiais conexos;\n\n15) «Verificação», o processo pelo qual um verificador atesta que um operador económico cumpre os requisitos respeitantes ao cálculo dos dados relativos ao teor reciclado das garrafas para bebidas;\n\n16) «Verificador», um organismo de avaliação da conformidade na aceção do artigo 2.º, ponto 13, do Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#E0003)), que está acreditado de acordo com esse regulamento;\n\n17) «Percurso de reciclagem», um processo, incluindo as suas diferentes fases, que preserva o potencial de transformação dos materiais elegíveis em materiais da categoria dos não combustíveis;\n\n18) «Reciclagem mecânica», uma tecnologia de reciclagem que permite valorizar os resíduos de plástico recolhidos por processos mecânicos e físicos, incluindo a triagem, a trituração, a lavagem, a separação de materiais, a secagem, a extrusão e a recristalização, para produzir plástico sem alterar a estrutura química dos materiais plásticos de partida;\n\n19) «Ponto de ebulição máximo aceitável», caso os materiais elegíveis ou partes dos mesmos sejam introduzidos numa única fornalha de craqueamento com vapor, o ponto de ebulição máximo aceitável dessa fornalha, ou, caso os materiais elegíveis ou partes dos mesmos sejam processados por diferentes fornalhas de craqueamento com vapor, a média ponderada dos pontos de ebulição máximos aceitáveis de todas as fornalhas consideradas a título individual."
+  },
+  "e16a831031340ccd": {
+   "fragment_id": "Artigo 2.º — Metodologia de cálculo da proporção de plástico reciclado das garrafas de PET",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Metodologia de cálculo da proporção de plástico reciclado das garrafas de PET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Metodologia de cálculo da proporção de plástico reciclado das garrafas de PET\n\n1. A proporção de plástico reciclado das garrafas de PET é calculada dividindo o peso de plástico reciclado das garrafas de PET colocadas no mercado de um Estado-Membro num determinado ano pelo peso de plástico das garrafas de PET colocadas no mercado desse Estado-Membro no mesmo ano. Exprime-se este quociente em percentagem.\n\n2. Os cálculos referidos no n.º 1 são efetuados utilizando as expressões 1 a 3 constantes do anexo I."
+  },
+  "9535f1e66d279aeb": {
+   "fragment_id": "Artigo 3.º — Metodologia de determinação do peso do plástico das garrafas de PET",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Metodologia de determinação do peso do plástico das garrafas de PET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Metodologia de determinação do peso do plástico das garrafas de PET\n\n1. O peso do plástico nas garrafas de PET é igual à soma do peso do plástico nas garrafas de PET colocadas no mercado de um Estado-Membro num determinado ano. Os dados relativos a essas garrafas de PET devem ser recolhidos em conformidade com o artigo 5.º.\n\n2. O peso do plástico nas garrafas de PET colocadas no mercado de um Estado-Membro pode ser ajustado para ter em conta as exportações ou os movimentos de garrafas de PET para outros Estados-Membros. O ajustamento é efetuado aplicando as expressões 4 a 9 constantes do anexo I."
+  },
+  "855d0fb99755f94a": {
+   "fragment_id": "Artigo 4.º — Metodologia de determinação do peso do plástico reciclado das garrafas de PET",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Metodologia de determinação do peso do plástico reciclado das garrafas de PET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Metodologia de determinação do peso do plástico reciclado das garrafas de PET\n\n1. O peso do plástico reciclado nas garrafas de PET é igual à soma do peso do plástico reciclado nas garrafas de PET colocadas no mercado de um Estado-Membro num determinado ano. Os dados relativos a essas garrafas de PET devem ser recolhidos em conformidade com o artigo 5.º.\n\n2. Se o peso do plástico nas garrafas de PET colocadas no mercado for ajustado em conformidade com o artigo 3.º, n.º 2, o peso do plástico reciclado das garrafas de PET também deve ser ajustado para ter em conta as exportações ou os movimentos de garrafas de PET para outros Estados-Membros. O ajustamento é efetuado aplicando a fórmula 4 constante do anexo I."
+  },
+  "049cfc68dc4b64b5": {
+   "fragment_id": "Artigo 5.º — Obrigação de recolher dados junto dos operadores económicos que colocam garrafas de PET no mercado",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Obrigação de recolher dados junto dos operadores económicos que colocam garrafas de PET no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Obrigação de recolher dados junto dos operadores económicos que colocam garrafas de PET no mercado\n\n1. Os Estados-Membros devem recolher, junto dos operadores económicos que colocam garrafas de PET no mercado respetivo, dados sobre o peso do plástico e do plástico reciclado contido nessas garrafas, e devem somar os resultados obtidos para o plástico e para o plástico reciclado de forma separada.\n\n2. Os Estados-Membros devem assegurar que os operadores económicos calculam o peso do plástico reciclado referido no n.º 1 para as diferentes partes das garrafas de PET e somam os resultados, utilizando a metodologia estabelecida no segundo parágrafo.\n\nSe não forem utilizados como materiais de partida outros resíduos de plástico para além dos resíduos plásticos pós-consumo e se todo o plástico reciclado for obtido por meio de uma das seguintes tecnologias de reciclagem:\n\na) Reciclagem mecânica incluída na lista de tecnologias de reciclagem adequadas nos termos do Regulamento (UE) 2022/1616;\n\nb) Qualquer outra tecnologia de reciclagem considerada uma tecnologia de reciclagem adequada ou uma tecnologia nova nos termos do Regulamento (UE) 2022/1616, para a qual seja conhecida a proporção de materiais elegíveis nos materiais resultantes,\n\na percentagem de plástico reciclado, tal como indicada na declaração nos termos da parte C do anexo V que acompanha a declaração de conformidade estabelecida no anexo III do Regulamento (UE) 2022/1616, é multiplicada pelo peso da parte da garrafa correspondente.\n\n3. Se a metodologia estabelecida no n.º 2 do presente artigo não for aplicável, deve ser utilizada a metodologia estabelecida no artigo 6.º.\n\n4. Em relação ao plástico reciclado referido no n.º 1 que é obtido em parte utilizando qualquer uma das tecnologias de reciclagem previstas no n.º 2, alíneas a) e b), e, em parte, por outros métodos de reciclagem, os Estados-Membros devem assegurar que os operadores económicos estabelecidos no seu território aplicam a metodologia estabelecida no artigo 6.º em cada etapa da cadeia de abastecimento, começando pela fase em que ocorre a mistura de métodos de reciclagem. Antes de ocorrer a mistura, aplica-se a metodologia estabelecida nos n.^os^ 2 e 3, respetivamente."
+  },
+  "2faecb5f3df57456": {
+   "fragment_id": "Artigo 6.º — Cálculo do peso do material elegível",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Cálculo do peso do material elegível",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Cálculo do peso do material elegível\n\n1. Devem ser estabelecidos pontos de cálculo sempre que se altere a composição química ou física de materiais provenientes, total ou parcialmente, de resíduos plásticos pós-consumo, incluindo quando misturados com quaisquer outros materiais. O peso do plástico reciclado de uma garrafa de PET é calculado no momento da sua colocação no mercado, com base nos dados obtidos nos pontos de cálculo para cada uma das suas partes.\n\n2. Se forem conhecidas num ponto de cálculo as proporções dos materiais elegíveis nos materiais resultantes, e se não tiver sido anteriormente aplicada a contabilidade do balanço de massas, o peso dos materiais elegíveis é calculado para cada lote de cada material resultante multiplicando a percentagem de materiais elegíveis nos materiais resultantes pelo peso do lote.\n\n3. Se o n.º 2 do presente artigo não for aplicável num ponto de cálculo, aplica-se a contabilidade do balanço de massas, em conformidade com o artigo 7.º."
+  },
+  "3d83ef45fb325621": {
+   "fragment_id": "Artigo 7.º — Contabilidade do balanço de massas",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Contabilidade do balanço de massas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Contabilidade do balanço de massas\n\n1. As quantidades atribuídas são determinadas com base em dados operacionais específicos do processo que são representativos do período considerado, em conformidade com os n.^os^ 2 a 5.\n\n2.\n\nO cálculo do peso dos materiais elegíveis nos materiais de partida é determinado com base numa das seguintes fontes:\n\na) Declarações recebidas de operadores económicos que não o operador económico no ponto de cálculo, em conformidade com o artigo 8.º, n.º 3, quando esses outros operadores económicos fornecem o material elegível;\n\nb) Documentação interna do operador económico no ponto de cálculo.\n\n3. Se o ponto de cálculo for o primeiro localizado no percurso de reciclagem em que todo o material elegível é transformado em combustíveis ou em perdas ou entra numa fornalha de craqueamento com vapor e se os materiais elegíveis utilizados como materiais de partida estiverem na forma líquida, aplica-se o n.º 4.\n\nSe os materiais elegíveis utilizados como materiais de partida estiverem na forma líquida e parte deles, mas não a totalidade, entrar numa fornalha de craqueamento com vapor num ponto de cálculo posterior, enquanto outra parte é posteriormente transformada em propileno sem entrar em tal fornalha, o n.º 4 é aplicável até ao ponto em que os materiais utilizados para a produção de propileno sem entrar em tal fornalha («fluxo do propileno») são separados daqueles que entrarão nessa fornalha («fluxo da fornalha de craqueamento com vapor»).\n\na) Para o fluxo do propileno, a parte de quantidades atribuídas no material resultante deve ser igual à parte de materiais elegíveis no material de partida. Nos pontos de cálculo subsequentes, aplica-se o n.º 5;\n\nb) Para o fluxo da fornalha de craqueamento com vapor, aplica-se o n.º 4 no que diz respeito às restantes etapas.\n\nEm todos os outros casos, aplica-se o n.º 5.\n\n4.\n\nO peso dos materiais elegíveis que são introduzidos numa fornalha de craqueamento com vapor é determinado de acordo com os seguintes passos:\n\na) Estabelecer o ponto de ebulição máximo aceitável;\n\nb) Determinar o peso dos materiais elegíveis utilizados como materiais de partida que são evaporados no ponto de ebulição máximo aceitável, em conformidade com um método de ensaio normalizado de repartição no intervalo de ebulição das frações petrolíferas por cromatografia em fase gasosa, como as normas EN 15199-3: 2021 e EN 15199-4:2021 ou norma equivalente;\n\nc) Determinar o peso total dos materiais de partida, que podem ser constituídos por uma mistura de materiais elegíveis e não elegíveis, que são evaporados no ponto de ebulição máximo aceitável, em conformidade com um método de ensaio normalizado de repartição no intervalo de ebulição das frações petrolíferas por cromatografia em fase gasosa, como as normas EN 15199-3:2021 e EN 15199-4:2021 ou norma equivalente;\n\nd) Se a parte do total dos materiais de partida que não são evaporados no ponto de ebulição máximo aceitável for sujeita a uma fase de transformação após esse ponto de cálculo, e antes de entrar na fornalha de craqueamento com vapor na qual a curva do ponto de ebulição dos materiais de partida é alterada, devem ser realizados os seguintes passos em cada uma dessas fases de transformação:\n\ni) determinar o peso dos materiais elegíveis nos materiais resultantes que são evaporados no ponto de ebulição máximo aceitável, em conformidade com um método de ensaio normalizado de repartição no intervalo de ebulição das frações petrolíferas por cromatografia em fase gasosa, como as normas EN 15199-3:2021 e EN 15199-4:2021 ou norma equivalente, e adicionar esse peso ao peso determinado na alínea b),\n\nii) determinar o peso dos materiais resultantes que são evaporados no ponto de ebulição máximo aceitável, em conformidade com um método de ensaio normalizado de repartição no intervalo de ebulição das frações petrolíferas por cromatografia em fase gasosa, como as normas EN 15199-3:2021 e EN 15199-4:2021 ou norma equivalente, e adicionar esse peso ao peso determinado de acordo com a alínea c);\n\ne) Calcular a razão entre o peso determinado em conformidade com a alínea b) e ajustado de acordo com a alínea d) e o peso determinado em conformidade com a alínea c) e ajustado em conformidade com a alínea d), ou considerar que é igual à razão entre o peso dos materiais elegíveis utilizados como materiais de partida e o peso total dos materiais de partida, caso o operador económico forneça provas verificáveis de que a etapa prevista na alínea b) ou na alínea d), subalínea i), não é tecnicamente viável;\n\nf) Determinar o peso dos materiais que, com base em elementos de prova verificáveis fornecidos pelo operador económico, são introduzidos nessa(s) fornalha(s) de craqueamento com vapor relevantes para a alínea a);\n\ng) Multiplicar a razão determinada na alínea e) pelo peso dos materiais determinado na alínea f), cujo resultado é o peso dos materiais elegíveis que se considera entrarem na(s) fornalha(s) de craqueamento com vapor;\n\nh) O ponto de cálculo seguinte no qual deve ser determinada a atribuição de materiais elegíveis utilizados como materiais de partida que entram na(s) fornalha(s) de craqueamento com vapor aos diferentes materiais resultantes situa-se à saída da(s) fornalha(s) de craqueamento com vapor.\n\n5.\n\nDevem ser realizados os seguintes passos:\n\na) O peso dos materiais elegíveis utilizados como materiais de partida deve ser afetado aos diferentes materiais resultantes, de modo a que a proporção relativa dos materiais elegíveis em cada material resultante seja igual à proporção relativa dos materiais elegíveis nos materiais de partida;\n\nb) Cada material resultante é classificado de acordo com a sua categoria;\n\nc) Para cada material resultante, o peso dos materiais elegíveis afetados utilizados como materiais de partida é multiplicado por um fator de dupla utilização, que representa a parte do material resultante que permanece no percurso de reciclagem, a fim de obter a quantidade atribuída desse material resultante, do seguinte modo:\n\ni) para os materiais resultantes da categoria dos «não combustíveis», o fator de dupla utilização é igual a 1,\n\nii) para os materiais resultantes das categorias dos «combustíveis» e das «perdas», o fator de dupla utilização é igual a 0,\n\niii) para os materiais resultantes da categoria dos «materiais resultantes de dupla utilização», o fator de dupla utilização é:\n\n1) igual a 0, se o material resultante for sólido,\n\n2) igual à parte relativamente à qual o operador económico apresenta elementos de prova verificáveis de que esta permanece no percurso de reciclagem, se o material resultante for líquido ou gasoso.\n\n6.\n\nApós a distribuição das quantidades atribuídas nos termos dos n.^os^ 2 a 5, o operador económico pode reafetar as quantidades atribuídas entre os diferentes materiais resultantes, sob reserva das seguintes condições:\n\na) As quantidades atribuídas são afetadas unicamente aos materiais resultantes relativamente aos quais seja possível demonstrar a existência de um processo químico viável que permite a transformação realista dos materiais elegíveis utilizados como materiais de partida nesses materiais resultantes;\n\nb) A quantidade atribuída de um dado material resultante não excede a proporção dessas partes dos materiais resultantes que podem provir dos materiais elegíveis utilizados como materiais de partida;\n\nc) Nem os materiais de partida nem os materiais resultantes são polímeros.\n\n7. O período máximo durante o qual a contabilidade do balanço de massas pode ser efetuada é de três meses. Um saldo positivo de quantidades atribuídas pode transitar para o período seguinte. Não é permitido em nenhum momento um saldo negativo de quantidades atribuídas.\n\n8. A contabilidade do balanço de massas deve ser aplicada a cada instalação. As quantidades atribuídas não podem ser transferidas entre diferentes instalações de uma empresa ou entre diferentes empresas.\n\n9. O peso do plástico reciclado relativamente ao qual os Estados-Membros recolhem dados junto dos operadores económicos, em conformidade com o artigo 5.º, n.º 1, é igual às quantidades atribuídas que foram afetadas aos materiais utilizados nas garrafas de PET colocadas no mercado."
+  },
+  "8f45ab47b48d4d66": {
+   "fragment_id": "Artigo 8.º — Verificação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Verificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Verificação\n\n1. Cabe aos Estados-Membros verificar os dados recolhidos em conformidade com o artigo 5.º, n.º 1, seguindo uma abordagem baseada no risco, independentemente do local onde os resíduos plásticos pós-consumo tenham sido gerados ou reciclados.\n\n2. Os Estados-Membros só devem comunicar os dados calculados, recolhidos e verificados em conformidade com a presente decisão. Os Estados-Membros são responsáveis pela verificação dos dados que comunicam à Comissão, em conformidade com o artigo 9.º.\n\n3. Os operadores económicos devem disponibilizar uma declaração relativa ao teor de material reciclado, que acompanha cada lote de material fornecido aos seus clientes, emitida em conformidade com o modelo constante das partes A, B ou C do anexo V. Os operadores económicos devem conservar as declarações recebidas dos seus fornecedores por um período mínimo de cinco anos. Os operadores económicos que não alterem a composição química ou física de materiais e que não os misturem com outros materiais não são obrigados a elaborar uma declaração, mas apenas a transmitir aos seus clientes as declarações recebidas dos seus fornecedores.\n\n4. Para os dados calculados em conformidade com o artigo 5.º, n.º 3, ou com o artigo 5.º, n.º 4, aplicam-se os n.^os^ 5 a 10.\n\n5.\n\nOs operadores económicos que transformam materiais não constituídos por polímeros tanto na fase de partida como na fase de resultado e que calculam os dados em conformidade com o artigo 6.º, n.º 3, devem cumprir todos os seguintes requisitos:\n\na) Dispor de um sistema de conservação e revisão de todos os elementos de prova relacionados com os cálculos que efetuam ou nos quais se baseiam;\n\nb) Dispor de um sistema funcional para calcular as quantidades atribuídas, em conformidade com o artigo 6.º, n.º 3;\n\nc) Conservar todos os elementos de prova necessários para demonstrar o cumprimento da presente decisão e da Diretiva (UE) 2019/904 durante um período mínimo de cinco anos, ou mais, se tal for exigido pelo Estado-Membro em causa;\n\nd) Assumir a responsabilidade pela preparação de quaisquer informações relacionadas com a verificação dos elementos de prova referidos na alínea c);\n\ne) Ser objeto de uma verificação anual a nível da instalação efetuada por um verificador, em conformidade com o n.º 6 do presente artigo.\n\nEm derrogação do primeiro parágrafo, alínea e), a verificação deve ser efetuada de três em três anos no caso das micro, pequenas e médias empresas na aceção da Recomendação 2003/361/CE da Comissão ([^4^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#E0004)).\n\n6.\n\nO verificador deve selecionar e nomear uma equipa de verificação. A verificação do cumprimento das regras estabelecidas no artigo 5.º, n.^os^ 3 e 4, deve ser realizada no local e em conformidade com a norma aplicável, cuja referência tenha sido publicada no *Jornal Oficial da União Europeia* nos termos do Regulamento (CE) n.º 765/2008, e deve incluir, pelo menos, os seguintes elementos:\n\na) A identificação das atividades realizadas pelo operador económico pertinentes para o cumprimento da meta;\n\nb) A identificação dos sistemas pertinentes do operador económico e da sua organização geral no que diz respeito ao cumprimento das metas e as verificações da aplicação efetiva dos sistemas de controlo pertinentes;\n\nc) Uma análise dos riscos que possam conduzir a uma inexatidão material, baseada nos conhecimentos profissionais do auditor e nas informações apresentadas pelo operador económico, que tenha em conta o perfil de risco global das atividades, em função do nível de risco do operador económico e da cadeia de abastecimento, em especial no que respeita os riscos nas fases imediatamente a montante e a jusante;\n\nd) Um plano de verificação que corresponda à análise de risco e ao âmbito e complexidade das atividades do operador económico, e que defina os métodos de amostragem a utilizar no que respeita às atividades desse operador;\n\ne) A execução do plano de verificação mediante a recolha de elementos de prova, em conformidade com os métodos de amostragem definidos referidos na alínea d), incluindo todas as provas pertinentes adicionais;\n\nf) Um pedido ao operador para que forneça quaisquer elementos em falta nas pistas de auditoria, uma explicação sobre as variações dos dados ou a revisão de alegações ou de cálculos;\n\ng) Uma lista por instalação de todos os materiais de partida que sejam pertinentes para o cumprimento das metas, bem como uma descrição do material manuseado relevante e os dados de todos os fornecedores;\n\nh) Uma lista por instalação de todos os materiais resultantes que sejam pertinentes para o cumprimento das metas, bem como uma descrição do material manuseado relevante e os dados de todos os clientes;\n\ni) Todas as informações pertinentes sobre a afetação dos materiais elegíveis aos materiais resultantes, nos termos do artigo 7.º;\n\nj) Quaisquer discrepâncias entre o sistema de contabilidade e os materiais de partida, os materiais resultantes e os balanços.\n\n7. A equipa de verificação deve possuir a competência, a experiência e as competências gerais e específicas necessárias para realizar as atividades de verificação, tendo em conta o âmbito da auditoria.\n\n8.\n\nO verificador e a sua equipa devem satisfazer os seguintes requisitos:\n\na) Respeitar os princípios de deontologia profissional, incluindo a integridade, a objetividade, a competência profissional e o dever de diligência;\n\nb) Possuir um conhecimento abrangente das entidades cujos cálculos e declarações anuais são objeto de auditoria;\n\nc) Demonstrar a sua proficiência para avaliar a fiabilidade dos dados e informações subjacentes;\n\nd) Manter a independência em relação ao operador económico sujeito a verificação.\n\n9.\n\nOs certificados emitidos no âmbito da verificação devem apresentar todas as seguintes características:\n\na) Incluir, pelo menos, os elementos previstos no anexo IV;\n\nb) Serem válidos por um ano, exceto no caso das micro, pequenas e médias empresas, na aceção do anexo da Recomendação 2003/361/CE, para as quais são válidos por três anos;\n\nc) Serem reconhecidos por todos os Estados-Membros.\n\n10. Os operadores económicos que transformam materiais não constituídos por polímeros tanto na fase de partida como na fase de resultado devem dar aos clientes diretos uma cópia do certificado a que se refere o n.º 9.\n\nOs operadores económicos que transformam materiais não constituídos por polímeros tanto na fase de partida como na fase de resultado e que tenham recebido uma cópia de um ou vários certificados a que se refere o n.º 9 devem transmitir uma cópia desses certificados aos seus clientes diretos.\n\nOs Estados-Membros devem recolhem junto dos operadores económicos que colocam garrafas de PET no mercado a declaração a que se refere o n.º 3, juntamente com os certificados que esses operadores económicos tenham recebido dos seus fornecedores."
+  },
+  "8a74b82d0ad7e5a6": {
+   "fragment_id": "Artigo 9.º — Recolha e comunicação de dados pelos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Recolha e comunicação de dados pelos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Recolha e comunicação de dados pelos Estados-Membros\n\n1. Os Estados-Membros devem calcular anualmente o peso do plástico das garrafas de PET colocadas no mercado em conformidade com o artigo 3.º, o peso de plástico reciclado das garrafas de PET colocadas no mercado em conformidade com o artigo 4.º e a proporção correspondente de plástico reciclado das garrafas de PET colocadas no mercado em conformidade com o artigo 2.º.\n\n2. Os Estados-Membros devem comunicar os dados a que se refere o n.º 1 respeitando o modelo estabelecido no anexo II da presente decisão e apresentar o relatório de controlo da qualidade referido no artigo 13.º, n.º 2, da Diretiva (UE) 2019/904, no que respeita a esses dados, segundo o modelo estabelecido no anexo III da presente decisão."
+  },
+  "df301b4e879a9c2a": {
+   "fragment_id": "Artigo 10.º — Cláusula de revisão",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Cláusula de revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Cláusula de revisão\n\nA Comissão reexamina a presente decisão até 1 de janeiro de 2030."
+  },
+  "f1fbd70fe045234c": {
+   "fragment_id": "Artigo 11.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Revogação\n\nÉ revogada a Decisão de Execução (UE) 2023/2683.\n\nAs referências à decisão revogada devem entender-se como sendo feitas à presente decisão."
+  },
+  "5d9ff4bd147fc79d": {
+   "fragment_id": "Artigo 12.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Entrada em vigor\n\nA presente decisão entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "eac29eb24e1876f3": {
+   "fragment_id": "Expressões para calcular a proporção de plástico reciclado das garrafas de PET",
+   "type": "divisao",
+   "heading": "Expressões para calcular a proporção de plástico reciclado das garrafas de PET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Expressões para calcular a proporção de plástico reciclado das garrafas de PET\n\nCalcula-se a proporção de plástico reciclado das garrafas de PET colocadas no mercado a que se refere o artigo 2.º aplicando a seguinte expressão:\n\n1. RC = R/W × 100 %\n\nDado que uma garrafa de PET é constituída pelo seu corpo, cápsula ou tampa e, se existir, rótulo ou manga, calcula-se o peso do plástico reciclado utilizado nas garrafas de PET aplicando a seguinte expressão:\n\n2. R = R_b + R_c + R_l\n\nDado que uma garrafa de PET é constituída pelo seu corpo, cápsula ou tampa e, se existir, rótulo ou manga, calcula-se o peso do plástico utilizado nas garrafas de PET aplicando a seguinte expressão:\n\n3. W = W_b + W_c + W_l\n\nSe, a fim de ter em conta exportações ou movimentos para outros Estados-Membros de garrafas de PET, um Estado-Membro ajustar o peso do plástico utilizado nas garrafas de PET colocadas no mercado em conformidade com o artigo 3.º, n.º 2, e o peso de plástico reciclado das garrafas de PET colocadas no mercado em conformidade com o artigo 4.º, n.º 2, as expressões a utilizar são as seguintes:\n\n4. R = R_EM – R_para_outros_EM – R_exportação\n\n5. R_EM = R_fabr_no_EM + R_de_outros_EM + R_importação\n\n6. W = W_EM – W_para_outros_EM – W_exportação\n\n7. W_EM = W_fabr_no_EM + W_de_outros_EM + W_importação\n\nDado que uma garrafa de PET é constituída pelo seu corpo, cápsula ou tampa e, se existir, rótulo ou manga, calculam-se as parcelas das expressões 4 até 7 aplicando as seguintes expressões:\n\n8. R_x = R_x_b + R_x_c + R_x_l\n\n9. W_x = W_x_b + W_x_c + W_x_l"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "7d219f0aee99b1c7": {
+   "fragment_id": "MODELO PARA A COMUNICAÇÃO DE DADOS",
+   "type": "divisao",
+   "heading": "MODELO PARA A COMUNICAÇÃO DE DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO PARA A COMUNICAÇÃO DE DADOS"
+  },
+  "ee17f406395b976c": {
+   "fragment_id": "1. Modelo para comunicação de dados calculados com base na metodologia estabelecida no artigo 3.º",
+   "type": "divisao",
+   "heading": "1. Modelo para comunicação de dados calculados com base na metodologia estabelecida no artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. Modelo para comunicação de dados calculados com base na metodologia estabelecida no artigo 3.º\n\n|  | Garrafas de PET |\n| --- | --- |\n| **PAÍS:** |  |\n| **ANO DE REFERÊNCIA:** |  |\n| **Peso do plástico utilizado nas garrafas de PET colocadas no mercado no Estado-Membro (^1^)** | [obrigatório se não forem comunicados todos os elementos (2) W_fabr no EM, (3) W_de outros EM e (4) W_importação] |\n| **Peso do plástico utilizado nas garrafas de PET fabricadas e colocadas no mercado no Estado-Membro (^2^)** | [obrigatório se não for comunicado (1) W_EM] |\n| **Peso do plástico utilizado nas garrafas de PET provenientes de outros Estados-Membros e colocadas no mercado (^3^)** | [obrigatório se não for comunicado (1) W_EM] |\n| **Peso do plástico utilizado nas garrafas de PET importadas e colocadas no mercado (^4^)** | [obrigatório se não for comunicado (1) W_EM] |\n| **Peso do plástico utilizado nas garrafas de PET transferidas para outros Estados-Membros depois de terem sido colocadas no mercado no Estado-Membro (^5^)** |  |\n| **Peso do plástico utilizado nas garrafas de PET que foram exportadas após terem sido colocadas no mercado no Estado-Membro (^6^)** |  |\n| **Peso ajustado do plástico utilizado nas garrafas de PET colocadas no mercado (^7^)** |  |\n| **Notas:** **Células a cinzento-escuro: comunicação de dados facultativa.** **(1)** **Calculado em conformidade com o artigo 3.º, n.º 1. W_EM** **(2)** **Calculado em conformidade com o artigo 3.º, n.º 1. W_fabr no EM** **(3)** **Calculado em conformidade com o artigo 3.º, n.º 1. W_de outros EM** **(4)** **Calculado em conformidade com o artigo 3.º, n.º 1. W_importação** **(5)** **Calculado em conformidade com o artigo 3.º, n.º 2. W_para outros EM** **(6)** **Calculado em conformidade com o artigo 3.º, n.º 2. W_exportação** **(7)** **Calculado em conformidade com o artigo 3.º, n.º 2. W** |  |"
+  },
+  "d9c498a84f328143": {
+   "fragment_id": "2. Modelo para comunicação de dados calculados com base na metodologia estabelecida no artigo 4.º",
+   "type": "divisao",
+   "heading": "2. Modelo para comunicação de dados calculados com base na metodologia estabelecida no artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. Modelo para comunicação de dados calculados com base na metodologia estabelecida no artigo 4.º\n\n|  | Garrafas de PET |\n| --- | --- |\n| **PAÍS:** |  |\n| **ANO DE REFERÊNCIA:** |  |\n| **Peso do plástico reciclado utilizado nas garrafas de PET colocadas no mercado no Estado-Membro (^1^)** | [obrigatório se não forem comunicados todos os elementos (2) R_fabr no EM, (3) R_de outros EM e (4) R_importação] |\n| **Peso do plástico utilizado nas garrafas de PET fabricadas e colocadas no mercado no Estado-Membro (^2^)** | [obrigatório se não for comunicado (1) R_EM] |\n| **Peso do plástico reciclado utilizado nas garrafas de PET provenientes de outros Estados-Membros e colocadas no mercado (^3^)** | [obrigatório se não for comunicado (1) R_EM] |\n| **Peso do plástico reciclado utilizado nas garrafas de PET importadas e colocadas no mercado (^4^)** | [obrigatório se não for comunicado (1) R_EM] |\n| **Peso do plástico reciclado utilizado nas garrafas de PET transferidas para outros Estados-Membros depois de terem sido colocadas no mercado no Estado-Membro (^5^)** |  |\n| **Peso do plástico reciclado utilizado nas garrafas de PET que foram exportadas após terem sido colocadas no mercado no Estado-Membro (^6^)** |  |\n| **Peso ajustado do plástico reciclado utilizado nas garrafas de PET colocadas no mercado (^7^)** |  |\n| **Proporção de plástico reciclado das garrafas de PET, expressa em percentagem (^8^)** |  |\n| **Notas:** **Células a cinzento-escuro: comunicação de dados facultativa.** **(1)** **Calculado em conformidade com o artigo 4.º, n.º 1. R_EM** **(2)** **Calculado em conformidade com o artigo 3.º, n.º 1. R_fabr no EM** **(3)** **Calculado em conformidade com o artigo 4.º, n.º 2. R_de outros EM** **(4)** **Calculado em conformidade com o artigo 4.º, n.º 2. R_importação** **(5)** **Calculado em conformidade com o artigo 4.º, n.º 2. R_para outros EM** **(6)** **Calculado em conformidade com o artigo 4.º, n.º 2. R_exportação** **(7)** **Calculado em conformidade com o artigo 4.º, n.º 2. R** **(8)** **Calculada em conformidade com o artigo 2.º. RC** |  |"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "a0f7a5d0f236d874": {
+   "fragment_id": "MODELO DE RELATÓRIO DE CONTROLO DA QUALIDADE",
+   "type": "divisao",
+   "heading": "MODELO DE RELATÓRIO DE CONTROLO DA QUALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO DE RELATÓRIO DE CONTROLO DA QUALIDADE"
+  },
+  "8c71c43183c5905d": {
+   "fragment_id": "1. INFORMAÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "1. INFORMAÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 1. INFORMAÇÕES GERAIS\n\n1.1. Estado-Membro:\n\n1.2. Organização que apresenta os dados e o relatório de controlo da qualidade:\n\n1.3. Nome de contacto:\n\n1.4. Endereço eletrónico de contacto:\n\n1.5. Número de telefone de contacto:\n\n1.6. Ano de referência:\n\n1.7. Data de entrega/versão:\n\n1.8. Hiperligação para a página onde o Estado-Membro publica os dados (caso exista):"
+  },
+  "77d4f9b820f5d16b": {
+   "fragment_id": "2. INSTITUIÇÕES ENVOLVIDAS NA RECOLHA DOS DADOS",
+   "type": "divisao",
+   "heading": "2. INSTITUIÇÕES ENVOLVIDAS NA RECOLHA DOS DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 2. INSTITUIÇÕES ENVOLVIDAS NA RECOLHA DOS DADOS\n\nNome da instituição Função e principais responsabilidades da instituição\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "002f64234ce79beb": {
+   "fragment_id": "3. DESCRIÇÃO DOS MÉTODOS UTILIZADOS",
+   "type": "divisao",
+   "heading": "3. DESCRIÇÃO DOS MÉTODOS UTILIZADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 3. DESCRIÇÃO DOS MÉTODOS UTILIZADOS"
+  },
+  "c4f1481f10e212d7": {
+   "fragment_id": "3.1. Incidência do cálculo do teor de plástico reciclado das garrafas de PET contemplada na transposição para o direito nacional",
+   "type": "divisao",
+   "heading": "3.1. Incidência do cálculo do teor de plástico reciclado das garrafas de PET contemplada na transposição para o direito nacional",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.1. Incidência do cálculo do teor de plástico reciclado das garrafas de PET contemplada na transposição para o direito nacional\n\nDescrição do nível ao qual são efetuados os cálculos relativos ao cumprimento da meta estabelecida no artigo 6.º, n.º 5, alínea a), da Diretiva (UE) 2019/904. Por exemplo, a meta pode constituir um requisito obrigatório para cada garrafa de PET colocada no mercado, uma média obrigatória para as garrafas de PET colocadas no mercado por cada operador económico ou uma média obrigatória para as garrafas de PET colocadas no mercado no Estado-Membro.\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "5d5b5c8558b876d3": {
+   "fragment_id": "3.2. Metodologias e fontes para a recolha e compilação de dados",
+   "type": "divisao",
+   "heading": "3.2. Metodologias e fontes para a recolha e compilação de dados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.2. Metodologias e fontes para a recolha e compilação de dados\n\nDescrição das metodologias aplicadas e fontes para recolher e compilar os dados, relativamente a todas as ferramentas utilizadas na recolha de dados.\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "0d89ca6aaf9a8a0b": {
+   "fragment_id": "3.3. Pressupostos adicionais",
+   "type": "divisao",
+   "heading": "3.3. Pressupostos adicionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 3.3. Pressupostos adicionais\n\nDescrição dos pressupostos ou fatores de ajustamento adicionais que tenham sido utilizados nos cálculos, da abordagem utilizada na estimativa dos mesmos e dos elementos comprovativos correspondentes.\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "a5c032defb15933f": {
+   "fragment_id": "4. SISTEMA DE VERIFICAÇÃO E CONTROLO DOS DADOS",
+   "type": "divisao",
+   "heading": "4. SISTEMA DE VERIFICAÇÃO E CONTROLO DOS DADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 4. SISTEMA DE VERIFICAÇÃO E CONTROLO DOS DADOS"
+  },
+  "5c96f81a4112e3cd": {
+   "fragment_id": "4.1. Verificação dos dados relativos ao peso do plástico e do plástico reciclado utilizados nas garrafas de PET",
+   "type": "divisao",
+   "heading": "4.1. Verificação dos dados relativos ao peso do plástico e do plástico reciclado utilizados nas garrafas de PET",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.1. Verificação dos dados relativos ao peso do plástico e do plástico reciclado utilizados nas garrafas de PET\n\n| Procedimentos de verificação e de controlo | Aplicado aos dados relativos ao peso do plástico utilizado nas garrafas de PET colocadas no mercado (sim/não) | Aplicado aos dados relativos ao peso do plástico reciclado utilizado nas garrafas PET colocadas no mercado (sim/não) | Eventuais observações adicionais |\n| --- | --- | --- | --- |\n| Verificações da exaustividade dos dados |  |  |  |\n| Verificações cruzadas |  |  |  |\n| Verificações de séries temporais |  |  |  |\n| Verificações em sede de auditoria |  |  |  |\n| Outros (especificar) |  |  |  |"
+  },
+  "79650b625dfc2362": {
+   "fragment_id": "4.2. Descrição dos principais fatores que afetam a exatidão dos dados comunicados relativos às garrafas de PET colocadas no mercado e ao plástico reciclado utilizado nas garrafas de PET colocadas no mercado",
+   "type": "divisao",
+   "heading": "4.2. Descrição dos principais fatores que afetam a exatidão dos dados comunicados relativos às garrafas de PET colocadas no mercado e ao plástico reciclado utilizado nas garrafas de PET colocadas no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.2. Descrição dos principais fatores que afetam a exatidão dos dados comunicados relativos às garrafas de PET colocadas no mercado e ao plástico reciclado utilizado nas garrafas de PET colocadas no mercado\n\n| Fatores que podem afetar a fiabilidade dos dados | No caso das garrafas de PET colocadas no mercado (sim/não) | No caso do plástico reciclado utilizado nas garrafas de PET colocadas no mercado (sim/não) | Descrição da forma como a exatidão dos dados é afetada | Descrição das metodologias aplicadas para minimizar as consequências de dados inexatos |\n| --- | --- | --- | --- | --- |\n| Erros de amostragem (1) (por exemplo, coeficientes de variação) |  |  |  |  |\n| Erros de cobertura (2) (por exemplo, regras *de minimis*, cobertura regional) |  |  |  |  |\n| Erros de medição (3) (por exemplo, unidade de medida) |  |  |  |  |\n| Instrumentos de testagem da recolha de dados (4) (por exemplo, teste dos questionários) |  |  |  |  |\n| Erros de tratamento (5) (por exemplo, identificação de erros, correção de erros) |  |  |  |  |\n| Erros de não resposta (6) |  |  |  |  |\n| Erros de especificação do modelo (7) |  |  |  |  |\n| Outros (especificar) |  |  |  |  |"
+  },
+  "2ea22bedc5a0f5ce": {
+   "fragment_id": "4.3. Explicação do âmbito e da validade dos inquéritos para recolha de dados relativos às garrafas de PET colocadas no mercado e ao plástico reciclado utilizado nas garrafas de PET colocadas no mercado",
+   "type": "divisao",
+   "heading": "4.3. Explicação do âmbito e da validade dos inquéritos para recolha de dados relativos às garrafas de PET colocadas no mercado e ao plástico reciclado utilizado nas garrafas de PET colocadas no mercado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.3. Explicação do âmbito e da validade dos inquéritos para recolha de dados relativos às garrafas de PET colocadas no mercado e ao plástico reciclado utilizado nas garrafas de PET colocadas no mercado\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "e4c4f475620812f9": {
+   "fragment_id": "4.4. Diferenças em relação aos dados comunicados para os anos de referência anteriores",
+   "type": "divisao",
+   "heading": "4.4. Diferenças em relação aos dados comunicados para os anos de referência anteriores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.4. Diferenças em relação aos dados comunicados para os anos de referência anteriores\n\nEventuais alterações metodológicas significativas do método de cálculo utilizado para o ano de referência em curso em relação ao método de cálculo utilizado para anos de referência anteriores (nomeadamente revisões retroativas, natureza das mesmas e eventual necessidade de assinalar uma quebra na série de dados num determinado ano).\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "c74f0521356ebc84": {
+   "fragment_id": "4.5. Explicação de diferenças de tonelagem",
+   "type": "divisao",
+   "heading": "4.5. Explicação de diferenças de tonelagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### 4.5. Explicação de diferenças de tonelagem\n\nPreencher esta secção se os dados comunicados mostrarem uma variação superior a 10 % relativamente aos dados apresentados para o ano de referência anterior.\n\nRazões da diferença ou causa subjacente às diferenças no peso das garrafas de PET colocadas no mercado ou no peso do plástico reciclado utilizado nas garrafas de PET colocadas no mercado.\n\n| Variações no peso do plástico utilizado nas garrafas de PET colocadas no mercado | Variação (%) | Principal motivo da variação |\n| --- | --- | --- |\n\n*(Acrescentar as linhas necessárias.)*\n\n| Variações no peso do plástico reciclado utilizado nas garrafas para bebidas ou garrafas de PET colocadas no mercado | Variação (%) | Principal motivo da variação |\n| --- | --- | --- |\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "6db4a0a8333239a7": {
+   "fragment_id": "5. CONFIDENCIALIDADE",
+   "type": "divisao",
+   "heading": "5. CONFIDENCIALIDADE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### 5. CONFIDENCIALIDADE\n\nJustificação do pedido para que não se publiquem os dados comunicados ou determinadas informações facultadas no presente relatório, juntamente com uma lista das partes específicas que não se pretende que sejam publicadas.\n\n*(Acrescentar as linhas necessárias.)*"
+  },
+  "955af6ab899adecc": {
+   "fragment_id": "ΑΝΕΧO ΙV",
+   "type": "divisao",
+   "heading": "ΑΝΕΧO ΙV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ΑΝΕΧO ΙV"
+  },
+  "2c2a637dbf066cd9": {
+   "fragment_id": "MODELO DE FORMULÁRIO PARA OS CERTIFICADOS",
+   "type": "divisao",
+   "heading": "MODELO DE FORMULÁRIO PARA OS CERTIFICADOS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### MODELO DE FORMULÁRIO PARA OS CERTIFICADOS"
+  },
+  "ebbfe475f111d680": {
+   "fragment_id": "Certificado de conformidade com a Decisão de Execução (UE) 2026/1425 da Comissão",
+   "type": "divisao",
+   "heading": "Certificado de conformidade com a Decisão de Execução (UE) 2026/1425 da Comissão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Certificado de conformidade com a Decisão de Execução (UE) 2026/1425 da Comissão\n\nO operador económico registado com o número interno XXX satisfaz todos os requisitos estabelecidos no artigo 8.º, n.º 5, da Decisão de Execução (UE) 2026/1425 da Comissão, que estabelece regras de execução da Diretiva (UE) 2019/904 do Parlamento Europeu e do Conselho no respeitante ao cálculo, à verificação e à comunicação de dados relativos ao teor de plástico reciclado das garrafas de plástico de utilização única para bebidas e que revoga a Decisão de Execução (UE) 2023/2683 da Comissão, nos locais indicados no registo deste verificador.\n\nNão foram encontradas provas de incumprimento das regras estabelecidas no artigo 6.º da Decisão de Execução (UE) 2026/1425 da Comissão entre xx/xx/20xx e xx/xx/20xx\n\nPeríodo de validade: [xx/xx/20xx-xx/xx/20xx]\n\nNome do verificador:\n\nEndereço do verificador:\n\n[Assinatura do verificador]"
+  },
+  "64610ae29a6cb67c": {
+   "fragment_id": "ANEXO V",
+   "type": "divisao",
+   "heading": "ANEXO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO V"
+  },
+  "f5c0d9ae50846cac": {
+   "fragment_id": "Parte A: Declaração relativa ao teor de material reciclado a preencher no ponto de origem dos resíduos",
+   "type": "divisao",
+   "heading": "Parte A: Declaração relativa ao teor de material reciclado a preencher no ponto de origem dos resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte A: Declaração relativa ao teor de material reciclado a preencher no ponto de origem dos resíduos\n\n| 1. **Operador económico** |  |\n| --- | --- |\n| 1.1 Nome: |  |\n| 1.2 Endereço da sede: |  |\n| 1.3 Endereço do local de produção: |  |\n| 1.4 Data: |  |\n| 2. **Materiais** |  |\n| 2.1. Denominação ou especificação do material/nome comercial: |  |\n| 2.2. País de origem: |  |\n| 2.3. Código da mercadoria utilizado para a importação (caso o material ao qual a presente declaração se aplica for importado): |  |\n| 2.4. Número do lote: |  |\n| 2.5. Peso total [em kg]: |  |\n| 2.6. Peso dos resíduos de plástico pós-consumo, na aceção do artigo 1.º, ponto 2, da Decisão de Execução (UE) 2026/1425 da Comissão [em kg]: |  |\n| 2.7. Percentagem dos resíduos de plástico pós-consumo, na aceção do artigo 1.º, ponto 2, da Decisão de Execução (UE) 2026/1425 da Comissão [= razão de 2,6 e 2,5]: |  |"
+  },
+  "b8ec51f6f8b5f0dc": {
+   "fragment_id": "Parte B: Declaração relativa ao teor de material reciclado a preencher pelos recicladores, transformadores, operadores de empresas do setor alimentar e importadores para o material ao qual NÃO se aplica o disposto no artigo 5.º, n.º 2, alíneas a) e b)",
+   "type": "divisao",
+   "heading": "Parte B: Declaração relativa ao teor de material reciclado a preencher pelos recicladores, transformadores, operadores de empresas do setor alimentar e importadores para o material ao qual NÃO se aplica o disposto no artigo 5.º, n.º 2, alíneas a) e b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte B: Declaração relativa ao teor de material reciclado a preencher pelos recicladores, transformadores, operadores de empresas do setor alimentar e importadores para o material ao qual NÃO se aplica o disposto no artigo 5.º, n.º 2, alíneas a) e b)\n\n| 1. **Operador económico** |  |  |\n| --- | --- | --- |\n| 1.1. Nome: |  |  |\n| 1.2. Endereço da sede: |  |  |\n| 1.3. Endereço do local de produção: |  |  |\n| 1.4. Data: |  |  |\n| 2. **Materiais** |  |  |\n| 2.1. Denominação ou especificação do material/nome comercial: |  |  |\n| 2.2.1 Nesta etapa da cadeia de abastecimento ou em etapas anteriores há matéria-prima importada de países terceiros? | □Sim | □Não |\n| 2.2.2 Em caso afirmativo, de que países terceiros? |  |  |\n|  | *(Acrescentar as linhas necessárias.)* |  |\n| 2.2.3 Em caso afirmativo, códigos da mercadoria utilizados para as importações: |  |  |\n| *(Acrescentar as linhas necessárias.)* |  |  |\n| 2.3. Número do lote: |  |  |\n| 2.4. Peso total [em kg]: |  |  |\n| 2.5. Peso do material proveniente de resíduos plásticos pós-consumo, na aceção do artigo 1.º, ponto 2, e calculado em conformidade com o artigo 6.º da Decisão de Execução (UE) 2026/1425 da Comissão [em kg], relativamente aos quais todas as fases de reciclagem (incluindo a triagem) tiveram lugar em países abrangidos pelo artigo 1.º, ponto 1, da Decisão de Execução (UE) 2026/1425 da Comissão: |  |  |\n| 2.6. Percentagem do material proveniente de resíduos plásticos pós-consumo, na aceção do artigo 1.º, ponto 2, e calculado em conformidade com o artigo 6.º da Decisão de Execução (UE) 2026/1425 da Comissão [= razão de 2,5 e 2,4], relativamente aos quais todas as fases de reciclagem (incluindo a triagem) tiveram lugar em países abrangidos pelo artigo 1.º, ponto 1, da Decisão de Execução (UE) 2026/1425 da Comissão: |  |  |\n| 3. **Tecnologias de reciclagem** |  |  |\n| 3.1. Tecnologias de reciclagem aplicadas ao material |  |  |\n| Tecnologia de reciclagem: | Percentagem de material resultante desta tecnologia: |  |\n| *(Acrescentar as linhas necessárias.)* |  |  |\n| 3.2. O material é abrangido pelo Regulamento (UE) 2022/1616 da Comissão, de 15 de setembro de 2022, relativo aos materiais e objetos de plástico reciclado destinados a entrar em contacto com os alimentos e que revoga o Regulamento (CE) n.º 282/2008 [(^1^)](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#E0005)? | □Sim | □Não |\n| Em caso afirmativo: Teor de material reciclado existente/real, tal como declarado na respetiva declaração de conformidade nos termos do anexo III do Regulamento (UE) 2022/1616: |  |  |\n| 3.3. O material é abrangido pelo Regulamento (UE) n.º 10/2011 da Comissão, de 14 de janeiro de 2011, relativo aos materiais e objetos de matéria plástica destinados a entrar em contacto com os alimentos [(^2^)](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#E0006)? | □Sim | □Não |\n| 4. **Contabilidade do balanço de massas** |  |  |\n| 4.1. A contabilidade do balanço de massas foi aplicada ao material nesta fase ou em fases anteriores? | □Sim | □Não |\n| 4.2. Em caso afirmativo, preencher o quadro *infra* com as informações dos certificado(s) dos operadores(s) económico(s) que intervieram nesta etapa (se for o caso) ou na etapa anterior da cadeia de abastecimento que foram certificados nos termos do artigo 8.º, n.º 5, da Decisão de Execução (UE) 2026/1425 da Comissão |  |  |\n| Número de registo de verificação do(s) operador(es) económico(s) titular(es) de um certificado: | Identidade do verificador: | Certificado válido até: |\n| *(Acrescentar as linhas necessárias.)* |  |  |\n| (^1^) JO L 243 de 20.9.2022, p. 3, ELI: http://data.europa.eu/eli/reg/2022/1616/oj. (^2^) JO L 12 de 15.1.2011, p. 1, ELI: http://data.europa.eu/eli/reg/2011/10/oj. |  |  |\n\n**Anexos obrigatórios:**\n\n— Cópia da declaração de conformidade nos termos do Regulamento (UE) 2022/1616 ou do Regulamento (UE) n.º 10/2011, consoante o caso;\n\nCaso tenha sido aplicada a contabilidade do balanço de massas, cópias dos certificados do(s) operador(es) económico(s), nos termos do artigo 8.º, n.º 9, da Decisão de Execução (UE) 2026/1425 da Comissão."
+  },
+  "028b97e4629dc465": {
+   "fragment_id": "Parte C: Declaração relativa ao teor de material reciclado a preencher pelos recicladores, transformadores, operadores de empresas do setor alimentar e importadores para o material ao qual se aplica o disposto no artigo 5.º, n.º 2, alíneas a) ou b) (aditamento à respetiva declaração de conformidade constante do anexo III do Regulamento (UE) 2022/1616)",
+   "type": "divisao",
+   "heading": "Parte C: Declaração relativa ao teor de material reciclado a preencher pelos recicladores, transformadores, operadores de empresas do setor alimentar e importadores para o material ao qual se aplica o disposto no artigo 5.º, n.º 2, alíneas a) ou b) (aditamento à respetiva declaração de conformidade constante do anexo III do Regulamento (UE) 2022/1616)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Parte C: Declaração relativa ao teor de material reciclado a preencher pelos recicladores, transformadores, operadores de empresas do setor alimentar e importadores para o material ao qual se aplica o disposto no artigo 5.º, n.º 2, alíneas a) ou b) (aditamento à respetiva declaração de conformidade constante do anexo III do Regulamento (UE) 2022/1616)\n\n| 1. **Operador económico** |  |  |\n| --- | --- | --- |\n| 1.1. Nome: |  |  |\n| 1.2. Endereço da sede: |  |  |\n| 1.3. Endereço do local de produção: |  |  |\n| 1.4. Data: |  |  |\n| 2. **Materiais** |  |  |\n| 2.1 Número do lote: |  |  |\n| 2.2.1 Nesta etapa da cadeia de abastecimento ou em etapas anteriores há matéria-prima importada de países terceiros? | □Sim | □Não |\n| 2.2.2. Em caso afirmativo, de que países terceiros? |  |  |\n| *(Acrescentar as linhas necessárias.)* |  |  |\n| 2.2.3 Em caso afirmativo, códigos da mercadoria utilizados para as importações: |  |  |\n| *(Acrescentar as linhas necessárias.)* |  |  |\n| 2.3. Peso total [em kg]: |  |  |\n| 2.4. Peso do material proveniente de resíduos plásticos pós-consumo, na aceção do artigo 1.º, ponto 2, e calculado em conformidade com o artigo 6.º da Decisão de Execução (UE) 2026/1425 da Comissão [em kg], relativamente aos quais todas as fases de reciclagem (incluindo a triagem) tiveram lugar em países abrangidos pelo artigo 1.º, ponto 1, da Decisão de Execução (UE) 2026/1425 da Comissão: |  |  |\n| 2.5. Percentagem do material proveniente de resíduos plásticos pós-consumo, na aceção do artigo 1.º, ponto 2, e calculado em conformidade com o artigo 6.º da Decisão de Execução (UE) 2026/1425 da Comissão, relativamente aos quais todas as fases de reciclagem (incluindo a triagem) tiveram lugar em países abrangidos pelo artigo 1.º, ponto 1, da Decisão de Execução (UE) 2026/1425 da Comissão[= razão de 2,4 e 2,3]: |  |  |\n\n---"
+  },
+  "73e42802b8444179": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 609/2013 do Parlamento Europeu e do Conselho, de 12 de junho de 2013, relativo aos alimentos para lactentes e crianças pequenas, aos alimentos destinados a fins medicinais específicos e aos substitutos integrais da dieta para controlo do peso e que revoga a Diretiva 92/52/CEE do Conselho, as Diretivas 96/8/CE, 1999/21/CE, 2006/125/CE e 2006/141/CE da Comissão, a Diretiva 2009/39/CE do Parlamento Europeu e do Conselho e os Regulamentos (CE) n.º 41/2009 e (CE) n.º 953/2009 da Comissão (JO L 181 de 29.6.2013, p. 35, ELI: [http://data.europa.eu/eli/reg/2013/609/oj](http://data.europa.eu/eli/reg/2013/609/oj)).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (CE) n.º 178/2002 do Parlamento Europeu e do Conselho, de 28 de janeiro de 2002, que determina os princípios e normas gerais da legislação alimentar, cria a Autoridade Europeia para a Segurança dos Alimentos e estabelece procedimentos em matéria de segurança dos géneros alimentícios (JO L 31 de 1.2.2002, p. 1, ELI: [http://data.europa.eu/eli/reg/2002/178/oj](http://data.europa.eu/eli/reg/2002/178/oj)).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (CE) n.º 765/2008 do Parlamento Europeu e do Conselho, de 9 de julho de 2008, que estabelece os requisitos de acreditação e fiscalização do mercado relativos à comercialização de produtos, e que revoga o Regulamento (CEE) n.º 339/93 (JO L 218 de 13.8.2008, p. 30, ELI: [http://data.europa.eu/eli/reg/2008/765/oj](http://data.europa.eu/eli/reg/2008/765/oj)).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/a815b96d-ac90-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Recomendação 2003/361/CE da Comissão, de 6 de maio de 2003, relativa à definição de micro, pequenas e médias empresas (JO L 124 de 20.5.2003, p. 36, ELI: [http://data.europa.eu/eli/reco/2003/361/oj](http://data.europa.eu/eli/reco/2003/361/oj))."
+  }
+ }
+}

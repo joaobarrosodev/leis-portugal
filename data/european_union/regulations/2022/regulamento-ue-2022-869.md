@@ -36,6 +36,132 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-29'
+version_history:
+  file: regulamento-ue-2022-869.versoes.json
+  count: 5
+  source_lastmod: '2026-04-29'
+  versions:
+  - date: '2022-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-04-28'
+    amending: eu:celex:32024R1041:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1041 DA COMISSÃO de 28 de novembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Critérios de avaliação dos projetos pelos Grupos
+    - Altera Artigo 8.º — Organização do processo de concessão de licenças
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 21.º — Relatórios e avaliação
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Revogação
+    - Altera Artigo 33.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita CORREDORES E DOMÍNIOS PRIORITÁRIOS DAS INFRAESTRUTURAS ENERGÉTICAS
+    - Adita (referidos no artigo 1.º, n.º 1)
+    - Adita 1. CORREDORES PRIORITÁRIOS NO SECTOR DA ELETRICIDADE
+    - Adita 2. CORREDORES PRIORITÁRIOS DAS REDES AO LARGO
+    - Adita 3. CORREDORES PRIORITÁRIOS PARA O HIDROGÉNIO E OS ELETROLISADORES
+    - Adita 4. DOMÍNIOS TEMÁTICOS PRIORITÁRIOS
+    - Adita ANEXO II
+    - Adita CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Adita ANEXO III
+    - Adita LISTAS REGIONAIS DOS PROJETOS
+    - Adita 1. REGRAS APLICÁVEIS AOS GRUPOS
+    - Adita 2. PROCESSO DE ESTABELECIMENTO DE LISTAS REGIONAIS
+    - Adita ANEXO IV
+    - Adita REGRAS E INDICADORES RELATIVOS AOS CRITÉRIOS APLICÁVEIS AOS PROJETOS
+    - Adita ANEXO V
+    - Adita ANÁLISE DE CUSTO-BENEFÍCIO A NÍVEL DO SISTEMA ENERGÉTICO
+    - Adita ANEXO VI
+    - Adita ORIENTAÇÕES EM MATÉRIA DE TRANSPARÊNCIA E DE PARTICIPAÇÃO PÚBLICA
+    - Adita ANEXO VII
+    - Adita LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO («LISTA DA UNIÃO»)
+    - Adita referida no artigo 3.º, n.º 4
+    - Adita A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Adita (1) Agregados de projetos de interesse comum e de projetos de interesse mútuo
+    - Adita (2) Tratamento das subestações e das estações de compressão
+    - Adita (3) Partes não elegíveis dos projetos de interesse comum ou dos projetos de interesse mútuo
+  - date: '2024-08-18'
+    amending: eu:celex:32024R1991:por
+    amending_title: REGULAMENTO (UE) 2024/1991 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Revogação
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera Notas
+  - date: '2025-02-05'
+    amending: eu:celex:32024R1789:por
+    amending_title: REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 12.º — Cenários para os planos decenais de desenvolvimento da rede
+    - Altera Artigo 13.º — Identificação das lacunas em matéria de infraestruturas
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 31.º — Período transitório
+    - Altera Artigo 32.º — Revogação
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera Notas
+  - date: '2026-04-29'
+    amending: eu:celex:32026R0764:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/764 DA COMISSÃO de 1 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Estatuto prioritário dos projetos constantes da lista da União
+    - Altera Artigo 11.º — Análise de custo-benefício a nível de todo o sistema energético
+    - Altera Artigo 16.º — Realização de investimentos com um impacto transfronteiriço
+    - Altera Artigo 26.º — Alteração do Regulamento (UE) 2019/942
+    - Altera Artigo 28.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 29.º — Alteração da Diretiva (UE) 2019/944
+    - Altera Artigo 30.º — Disposições transitórias
+    - Altera Artigo 32.º — Revogação
+    - Altera CATEGORIAS DE INFRAESTRUTURAS ENERGÉTICAS
+    - Altera LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO («LISTA DA UNIÃO»)
+    - Altera A. PRINCÍPIOS APLICADOS NA ELABORAÇÃO DA LISTA DA UNIÃO
+    - Altera B. LISTA DE PROJETOS DE INTERESSE COMUM E DE PROJETOS DE INTERESSE MÚTUO DA UNIÃO
+    - Altera Notas
+    - Adita C. LISTAS DE «PROJETOS QUE DEIXARAM DE SER CONSIDERADOS DE INTERESSE COMUM OU DE INTERESSE MÚTUO» E DE «PROJETOS
+      QUE PASSARAM A FAZER PARTE DE OUTROS PROJETOS DE INTERESSE COMUM OU PROJETOS DE INTERESSE MÚTUO»
+    - Suprime referida no artigo 3.º, n.º 4
+    - Suprime (1) Agregados de projetos de interesse comum e de projetos de interesse mútuo
+    - Suprime (2) Tratamento das subestações e das estações de compressão
+    - Suprime (3) Partes não elegíveis dos projetos de interesse comum ou dos projetos de interesse mútuo
+    - Suprime (4) Projetos de interesse comum cujo número mudou em relação à anterior lista da União
+    - Suprime (1) Interligações Norte-Sul de eletricidade na Europa Ocidental («NSI West Electricity»)
+    - Suprime (2) Interligações Norte-Sul de eletricidade na Europa Centro-Oriental e do Sudeste («NSI East Electricity»)
+    - Suprime (3) Plano de Interligação do Mercado Báltico da Energia no setor da eletricidade («BEMIP Electricity»)
+    - Suprime (4) Redes ao largo nos mares do Norte («NSOG»)
+    - Suprime (5) Plano de Interligação do Mercado Báltico da Energia para as redes ao largo («BEMIP offshore»)
+    - Suprime (6) Redes ao largo meridional e ocidental («SW offshore»)
+    - Suprime (7) Redes ao largo meridional e oriental («SE offshore»)
+    - Suprime (8) Redes ao largo atlânticas
+    - Suprime (9) Interligações para o hidrogénio na Europa Ocidental («HI West»)
+    - Suprime (10) Interligações de hidrogénio na Europa Centro-Oriental e do Sudeste («HI East»)
+    - Suprime (11) Plano de Interligação do Mercado Báltico da Energia no setor do hidrogénio («BEMIP Hydrogen»)
+    - Suprime (12) Domínio temático prioritário «Implantação de Redes Elétricas Inteligentes»
+    - Suprime (13) Domínio temático prioritário «Redes transfronteiras de dióxido de carbono»
+    - Suprime (14) Domínio temático prioritário «Redes de Gás Inteligentes»
+    - Suprime (15) Projetos que mantêm o seu estatuto de projeto de interesse comum (derrogação prevista no artigo 24.º)
 identifiers:
   celex: 32022R0869
   eli: http://data.europa.eu/eli/reg/2022/869/oj
@@ -50,7 +176,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dd62a206-e2d6-11ec-a534-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8a7c3782-7a43-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R0869-20260429
-  retrieved_at: '2026-10-22T03:01:33Z'
+  retrieved_at: '2026-10-22T17:15:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T06:04:58.102+02:00'
 integrity:
@@ -59,9 +185,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:33Z'
-  notes: Texto consolidado 02022R0869-20260429.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:59Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2022-869.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -316,32 +442,19 @@ relationships:
   date: '2013-04-24'
 article_structure:
   article_count: 33
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:33Z'
+  checked_at: '2026-10-22T17:15:59Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2022/869 do Parlamento Europeu e do Conselho de 30 de maio de 2022
-
-> 02022R0869 — PT — 29.04.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32024R1041) — [REGULAMENTO DELEGADO (UE) 2024/1041 DA COMISSÃO de 28 de novembro de 2023](http://publications.europa.eu/resource/celex/32024R1041) — L 1041 — 1 — 8.4.2024
-- [►M2](http://publications.europa.eu/resource/celex/32024R1789) — [REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO **de 13 de junho de 2024**](http://publications.europa.eu/resource/celex/32024R1789) — L 1789 — 1 — 15.7.2024
-- [►M3](http://publications.europa.eu/resource/celex/32024R1991) — [REGULAMENTO (UE) 2024/1991 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1991) — L 1991 — 1 — 29.7.2024
-- [►M4](http://publications.europa.eu/resource/celex/32026R0764) — [REGULAMENTO DELEGADO (UE) 2026/764 DA COMISSÃO de 1 de dezembro de 2025](http://publications.europa.eu/resource/celex/32026R0764) — L 764 — 1 — 9.4.2026
-
-## REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de maio de 2022
 

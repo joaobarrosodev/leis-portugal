@@ -40,6 +40,46 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-23'
+version_history:
+  file: regulamento-ue-2020-2220.versoes.json
+  count: 2
+  source_lastmod: '2024-12-23'
+  versions:
+  - date: '2020-12-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-12-23'
+    amending: eu:celex:32024R3242:por
+    amending_title: REGULAMENTO (UE) 2024/3242 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Prorrogação do período de duração dos programas apoiados pelo Fundo Europeu Agrícola de Desenvolvimento
+      Rural
+    - Altera Artigo 2.º — Continuação da aplicação do Regulamento (UE) n.º 1303/2013 a programas apoiados pelo FEADER
+    - Altera Artigo 6.º — Elegibilidade das despesas incorridas no âmbito do Regulamento (UE) n.º 1305/2013, e de determinados
+      tipos de despesas incorridas no âmbito dos Regulamentos (CE) n.º 1698/2005 e (CE) n.º 1257/1999
+    - Altera Artigo 7.º — Alterações do Regulamento (UE) n.º 1305/2013
+    - Altera Artigo 8. — Alterações do Regulamento (UE) n.º 1306/2013
+    - Altera Artigo 9.º — Alterações do Regulamento (UE) n.º 1307/2013
+    - Altera Artigo 10. — Alterações do Regulamento (UE) n.º 1308/2013
+    - Altera Artigo 11.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 6.º-A — Apoio temporário excecional aos agricultores, proprietários florestais e PME particularmente afetados
+      por catástrofes naturais
+    - Adita Artigo 6.º-B — Disposições aplicáveis ao apoio temporário excecional aos agricultores, proprietários florestais
+      e PME particularmente afetados por catástrofes naturais
+    - Adita Artigo 6.º-C — Casos de força maior
+    - Adita Artigo 6.º-D — Poderes de execução da Comissão
+    - Adita Artigo 6.º-E — Procedimento de comité
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita «ANEXO Ia
+    - Adita REPARTIÇÃO DOS RECURSOS ADICIONAIS POR ESTADO-MEMBRO, COMO REFERIDO NO ARTIGO 58.º-A
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita «ANEXO VI
+    - Adita LIMITES ORÇAMENTAIS PARA OS PROGRAMAS DE APOIO A QUE SE REFERE O Artigo 44.º, N.º 1
 identifiers:
   celex: 32020R2220
   eli: http://data.europa.eu/eli/reg/2020/2220/oj
@@ -54,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/52687a0d-48ae-11eb-b59f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/2074e00f-148d-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R2220-20241223
-  retrieved_at: '2026-10-22T02:40:02Z'
+  retrieved_at: '2026-10-22T17:12:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T20:28:40.047+02:00'
 integrity:
@@ -63,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:02Z'
-  notes: Texto consolidado 02020R2220-20241223.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:12:03Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2020-2220.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -212,29 +252,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/098bd9a1-73e0-11ea-a07e-01aa75ed71a1
 article_structure:
   article_count: 16
-  section_count: 22
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 23
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:02Z'
+  checked_at: '2026-10-22T17:12:03Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2020/2220 do Parlamento Europeu e do Conselho de 23 de dezembro de 2020
-
-> 02020R2220 — PT — 23.12.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R3242) — [REGULAMENTO (UE) 2024/3242 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3242) — L 3242 — 1 — 23.12.2024
-
-## REGULAMENTO (UE) 2020/2220 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de dezembro de 2020
 

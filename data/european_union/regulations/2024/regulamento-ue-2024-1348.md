@@ -37,6 +37,37 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-02-27'
+version_history:
+  file: regulamento-ue-2024-1348.versoes.json
+  count: 2
+  source_lastmod: '2026-02-27'
+  versions:
+  - date: '2024-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-02-27'
+    amending: eu:celex:32026R0463:por
+    amending_title: REGULAMENTO (UE) 2026/463 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026; REGULAMENTO
+      (UE) 2026/464 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 10.º
+    - Altera Artigo 59.º
+    - Altera Artigo 60.º
+    - Altera Artigo 61.º
+    - Altera Artigo 62.º
+    - Altera Artigo 64.º
+    - Altera Artigo 68.º
+    - Altera Artigo 74.º
+    - Altera Artigo 78.º
+    - Altera Artigo 79.º
+    - Altera Notas
+    - Adita Artigo 63.º — Suspensão e retirada da designação de um país terceiro como país terceiro seguro ou como país de
+      origem seguro a nível da União
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Suprime Artigo 63.º
+    - Suprime ANEXO
 identifiers:
   celex: 32024R1348
   eli: http://data.europa.eu/eli/reg/2024/1348/oj
@@ -51,7 +82,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2dad592e-17d6-11ef-a251-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/0867b1a9-3f21-11f1-814f-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024R1348-20260227
-  retrieved_at: '2026-10-22T03:20:49Z'
+  retrieved_at: '2026-10-22T17:17:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-05-22T10:21:09.617+02:00'
 integrity:
@@ -60,9 +91,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:49Z'
-  notes: Texto consolidado 02024R1348-20260227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:12Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2024-1348.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -275,34 +306,19 @@ relationships:
   date: '2013-06-29'
 article_structure:
   article_count: 79
-  section_count: 35
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 36
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:49Z'
+  checked_at: '2026-10-22T17:17:12Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2024/1348 do Parlamento Europeu e do Conselho, de 14 de maio de 2024
-
-> 02024R1348 — PT — 27.02.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R0463) — [REGULAMENTO (UE) 2026/463 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0463) — L 463 — 1 — 26.2.2026
-- [►M2](http://publications.europa.eu/resource/celex/32026R0464) — [REGULAMENTO (UE) 2026/464 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0464) — L 464 — 1 — 26.2.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1348R%2801%29) — [Rectificação, JO L 90922, 25.11.2025, p. 1 (2024/1348)](http://publications.europa.eu/resource/celex/32024R1348R%2801%29)
-
-## REGULAMENTO (UE) 2024/1348 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de maio de 2024
 

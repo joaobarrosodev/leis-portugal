@@ -37,6 +37,172 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-07-09'
+version_history:
+  file: regulamento-ue-2019-631.versoes.json
+  count: 10
+  source_lastmod: '2025-07-09'
+  versions:
+  - date: '2020-11-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-11'
+    amending: eu:celex:32020R2173:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/2173 DA COMISSÃO de 16 de outubro de 2020
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 15.º — Avaliação e relatório
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA VEÍCULOS COMERCIAIS LIGEIROS
+    - Altera Recolha de dados sobre automóveis novos de passageiros e determinação da informação de vigilância das emissões
+      de CO2
+    - Altera Modelos para transmissão dos dados
+    - Altera A. Recolha de dados sobre veículos comerciais ligeiros novos e determinação das informações relativas à vigilância
+      das emissões de CO2
+    - Altera B. Metodologia para determinação das informações relativas à vigilância das emissões de CO2 dos veículos comerciais
+      ligeiros novos
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+    - Suprime 1. Dados pormenorizados
+    - Suprime 1.1. Veículos completos registados na categoria N1
+    - Suprime 1.2. Veículos completados matriculados na categoria N1
+    - Suprime 1.2.1. Dados a comunicar pelos Estados-Membros
+    - Suprime 1.2.1.1. Veículos completados homologados em conformidade com o Regulamento (CE) n.º 692/2008
+    - Suprime 1.2.1.2. Veículos completados da categoria N1 homologados em conformidade com o anexo XXI do Regulamento (UE)
+      2017/1151
+    - Suprime 1.2.2. Dados a comunicar pelos fabricantes
+    - Suprime 1.2.3. Cálculo das emissões médias específicas de CO2 e do objetivo de emissões específicas
+    - Suprime 1.2.4. Cálculo das emissões de CO2 de vigilância no caso dos veículos de base incompletos
+    - Suprime 1.2.5. Representatividade das emissões de CO2 de vigilância
+    - Suprime 1. Número de veículos comerciais ligeiros novos matriculados
+    - Suprime 2. Veículos completados
+  - date: '2021-03-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 15.º — Avaliação e relatório
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera Recolha de dados sobre automóveis novos de passageiros e determinação da informação de vigilância das emissões
+      de CO2
+    - Altera Modelos para transmissão dos dados
+    - Altera A. Recolha de dados sobre veículos comerciais ligeiros novos e determinação das informações relativas à vigilância
+      das emissões de CO2
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+  - date: '2021-12-02'
+    amending: eu:celex:32021R1961:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1961 DA COMISSÃO de 5 de agosto de 2021
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 15.º — Avaliação e relatório
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera Modelos para transmissão dos dados
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+  - date: '2023-05-15'
+    amending: eu:celex:32023R0851:por
+    amending_title: REGULAMENTO (UE) 2023/851 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e objetivos
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Objetivos de emissões específicas
+    - Altera Artigo 7.º — Vigilância e comunicação das emissões médias
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 11.º — Ecoinovação
+    - Altera Artigo 12.º — Emissões de CO2 e consumo de combustível ou de energia em condições reais de utilização
+    - Altera Artigo 13.º — Verificação das emissões de CO2 dos veículos em circulação
+    - Altera Artigo 14.º — Adaptação dos valores de M0 e TM0
+    - Altera Artigo 15.º — Avaliação e relatório
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera Artigo 17.º — Exercício da delegação
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA VEÍCULOS COMERCIAIS LIGEIROS
+    - Altera Modelos para transmissão dos dados
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+    - Adita Artigo 7.º-A — Emissões de CO2 ao longo do ciclo de vida
+    - Adita Artigo 14.º-A — Relatório intercalar
+  - date: '2023-09-05'
+    amending: eu:celex:32023R1634:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1634 DA COMISSÃO de 5 de junho de 2023
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 12.º — Emissões de CO2 e consumo de combustível ou de energia em condições reais de utilização
+    - Altera Artigo 14.º-A — Relatório intercalar
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA VEÍCULOS COMERCIAIS LIGEIROS
+    - Altera Recolha de dados sobre automóveis novos de passageiros e determinação da informação de vigilância das emissões
+      de CO2
+    - Altera Modelos para transmissão dos dados
+    - Altera A. Recolha de dados sobre veículos comerciais ligeiros novos e determinação das informações relativas à vigilância
+      das emissões de CO2
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+    - Suprime B. Metodologia para determinação das informações relativas à vigilância das emissões de CO2 dos veículos comerciais
+      ligeiros novos
+  - date: '2023-12-03'
+    amending: eu:celex:32023R2502:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2502 DA COMISSÃO de 7 de setembro de 2023
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 12.º — Emissões de CO2 e consumo de combustível ou de energia em condições reais de utilização
+    - Altera Artigo 14.º-A — Relatório intercalar
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA VEÍCULOS COMERCIAIS LIGEIROS
+    - Altera Modelos para transmissão dos dados
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+  - date: '2024-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 12.º — Emissões de CO2 e consumo de combustível ou de energia em condições reais de utilização
+    - Altera Artigo 14.º-A — Relatório intercalar
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera Recolha de dados sobre automóveis novos de passageiros e determinação da informação de vigilância das emissões
+      de CO2
+    - Altera Modelos para transmissão dos dados
+    - Altera A. Recolha de dados sobre veículos comerciais ligeiros novos e determinação das informações relativas à vigilância
+      das emissões de CO2
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+  - date: '2025-01-01'
+    amending: eu:celex:32025R0371:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/371 DA COMISSÃO de 16 de dezembro de 2024
+    changes:
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 12.º — Emissões de CO2 e consumo de combustível ou de energia em condições reais de utilização
+    - Altera Artigo 14.º-A — Relatório intercalar
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA VEÍCULOS COMERCIAIS LIGEIROS
+    - Altera Modelos para transmissão dos dados
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
+  - date: '2025-07-09'
+    amending: eu:celex:32025R1214:por
+    amending_title: REGULAMENTO (UE) 2025/1214 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025
+    changes:
+    - Altera Artigo 4.º — Objetivos de emissões específicas
+    - Altera Artigo 6.º — Agrupamentos
+    - Altera Artigo 8.º — Taxa sobre as emissões excedentárias
+    - Altera Artigo 10.º — Derrogações para determinados fabricantes
+    - Altera Artigo 12.º — Emissões de CO2 e consumo de combustível ou de energia em condições reais de utilização
+    - Altera Artigo 14.º-A — Relatório intercalar
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera OBJETIVOS DE EMISSÕES ESPECÍFICAS PARA AUTOMÓVEIS DE PASSAGEIROS
+    - Altera Modelos para transmissão dos dados
+    - Altera C. Modelos para transmissão dos dados
+    - Altera Notas
 identifiers:
   celex: 32019R0631
   eli: http://data.europa.eu/eli/reg/2019/631/oj
@@ -51,7 +217,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2a607219-6757-11e9-9f05-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/fdc193c1-6703-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0631-20250709
-  retrieved_at: '2026-10-22T02:53:42Z'
+  retrieved_at: '2026-10-22T17:08:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T12:15:24.154+01:00'
 integrity:
@@ -60,9 +226,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:42Z'
-  notes: Texto consolidado 02019R0631-20250709.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:28Z'
+  notes: 10 versão(ões); histórico completo em regulamento-ue-2019-631.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -312,37 +478,21 @@ relationships:
   date: '2011-05-31'
 article_structure:
   article_count: 21
-  section_count: 19
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 20
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:42Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:28Z'
+  warnings:
+  - '02019R0631-20190425: versão indisponível (Sem expressão na língua por para CELEX 02019R0631-20190425.)'
+  - '02019R0631-20200121: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/631 do Parlamento Europeu e do Conselho, de 17 de abril de 2019
-
-> 02019R0631 — PT — 09.07.2025 — 011.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0022) — [REGULAMENTO DELEGADO (UE) 2020/22 DA COMISSÃO de 31 de outubro de 2019](http://publications.europa.eu/resource/celex/32020R0022) — L 8 — 2 — 14.1.2020
-- [M2](http://publications.europa.eu/resource/celex/32020R1590) — [REGULAMENTO DELEGADO (UE) 2020/1590 DA COMISSÃO de 19 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1590) — L 360 — 8 — 30.10.2020
-- [►M3](http://publications.europa.eu/resource/celex/32020R2173) — [REGULAMENTO DELEGADO (UE) 2020/2173 DA COMISSÃO de 16 de outubro de 2020](http://publications.europa.eu/resource/celex/32020R2173) — L 433 — 1 — 22.12.2020
-- [►M4](http://publications.europa.eu/resource/celex/32021R1961) — [REGULAMENTO DELEGADO (UE) 2021/1961 DA COMISSÃO de 5 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R1961) — L 400 — 14 — 12.11.2021
-- [►M5](http://publications.europa.eu/resource/celex/32023R0851) — [REGULAMENTO (UE) 2023/851 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0851) — L 110 — 5 — 25.4.2023
-- [►M6](http://publications.europa.eu/resource/celex/32023R1634) — [REGULAMENTO DELEGADO (UE) 2023/1634 DA COMISSÃO de 5 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1634) — L 203 — 1 — 16.8.2023
-- [►M7](http://publications.europa.eu/resource/celex/32023R2502) — [REGULAMENTO DELEGADO (UE) 2023/2502 DA COMISSÃO de 7 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2502) — L 2502 — 1 — 13.11.2023
-- [►M8](http://publications.europa.eu/resource/celex/32025R0371) — [REGULAMENTO DELEGADO (UE) 2025/371 DA COMISSÃO de 16 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0371) — L 371 — 1 — 21.2.2025
-- [►M9](http://publications.europa.eu/resource/celex/32025R1214) — [REGULAMENTO (UE) 2025/1214 DO PARLAMENTO EUROPEU E DO CONSELHO de 17 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1214) — L 1214 — 1 — 19.6.2025
-
-## REGULAMENTO (UE) 2019/631 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2019
 

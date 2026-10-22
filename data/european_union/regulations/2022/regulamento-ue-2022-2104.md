@@ -36,6 +36,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-06-10'
+version_history:
+  file: regulamento-ue-2022-2104.versoes.json
+  count: 2
+  source_lastmod: '2024-06-10'
+  versions:
+  - date: '2023-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-06-10'
+    amending: eu:celex:32024R1401:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1401 DA COMISSÃO de 7 de março de 2024
+    changes:
+    - Altera Artigo 12.º — Indicação exteriormente à lista dos ingredientes da presença de azeite em misturas e géneros alimentícios
+    - Altera A. Características de qualidade
+    - Altera B. Características de pureza
+    - 'Altera Notas:'
+    - Altera Notas
+    - Adita QUADRO DE CORRESPONDÊNCIA
+    - Suprime Apêndice
+    - Suprime Esquemas de decisão
+    - Suprime Quadro de correspondência
 identifiers:
   celex: 32022R2104
   eli: http://data.europa.eu/eli/reg_del/2022/2104/oj
@@ -50,7 +72,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/07cff2c8-5bff-11ed-92ed-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/01330ece-2dad-11ef-a61b-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2104-20240610
-  retrieved_at: '2026-10-22T03:20:15Z'
+  retrieved_at: '2026-10-22T17:16:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-17T01:25:13.080+02:00'
 integrity:
@@ -59,9 +81,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:15Z'
-  notes: Texto consolidado 02022R2104-20240610.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:09Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2022-2104.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -335,34 +357,20 @@ relationships:
   date: '2012-01-16'
 article_structure:
   article_count: 14
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:15Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:09Z'
+  warnings:
+  - '02022R2104-20221104: versão indisponível (Sem expressão na língua por para CELEX 02022R2104-20221104.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2022/2104 da Comissão de 29 de julho de 2022
-
-> 02022R2104 — PT — 10.06.2024 — 002.005
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32023R2598) — [REGULAMENTO DELEGADO (UE) 2023/2598 DA COMISSÃO de 11 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2598) — L 2598 — 1 — 20.11.2023
-- [►M2](http://publications.europa.eu/resource/celex/32024R1401) — [REGULAMENTO DELEGADO (UE) 2024/1401 DA COMISSÃO de 7 de março de 2024](http://publications.europa.eu/resource/celex/32024R1401) — L 1401 — 1 — 21.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1401R%2801%29) — [Rectificação, JO L 90395, 21.5.2026, p. 1 ((UE) 2024/14012024/1401)](http://publications.europa.eu/resource/celex/32024R1401R%2801%29)
-
-## REGULAMENTO DELEGADO (UE) 2022/2104 DA COMISSÃO
 
 de 29 de julho de 2022
 

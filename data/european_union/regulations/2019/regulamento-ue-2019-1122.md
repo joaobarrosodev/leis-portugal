@@ -36,6 +36,268 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-27'
+version_history:
+  file: regulamento-ue-2019-1122.versoes.json
+  count: 7
+  source_lastmod: '2026-04-27'
+  versions:
+  - date: '2019-07-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32019R1124:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2019/1124 DA COMISSÃO de 13 de março de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Registo da União
+    - Altera Artigo 7.º — Administradores nacionais
+    - Altera Artigo 12.º — Abertura das contas geridas pelo administrador central
+    - Altera Artigo 65.º — Suspensão de todos os acessos devido a uma violação da segurança ou a um risco para a segurança
+    - Altera Artigo 70.º — Controlo automático de processos
+    - Altera Artigo 80.º — Confidencialidade
+    - Altera Artigo 87.º — Alterações do Regulamento (UE) n.º 389/2013
+    - Altera Artigo 89.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 27.º-A — Encerramento da conta de conformidade RPE
+    - Adita TÍTULO II-A
+    - Adita DISPOSIÇÕES ESPECÍFICAS RELATIVAS À CONTABILIZAÇÃO DE TRANSAÇÕES AO ABRIGO DOS REGULAMENTOS (UE) 2018/842 E (UE)
+      2018/841
+    - Adita Transações ao abrigo do Regulamento (UE) 2018/842
+    - Adita Artigo 59.º-A — Criação de DAE
+    - Adita Artigo 59.º-B — Unidades de dotação anual de emissões
+    - Adita Artigo 59.º-C — Transferência de DAE para cada conta de conformidade RPE
+    - Adita Artigo 59.º-D — Introdução dos dados pertinentes relativos às emissões de gases com efeito de estufa
+    - Adita Artigo 59.º-E — Cálculo do saldo da conta de conformidade RPE
+    - Adita Artigo 59.º-F — Determinação dos valores do estado de conformidade
+    - Adita Artigo 59.º-G — Aplicação do artigo 9.º, n.º 1, alíneas a) e b), do Regulamento (UE) 2018/842
+    - Adita Artigo 59.º-H — Utilização da flexibilidade prevista no artigo 6.º do Regulamento (UE) 2018/842
+    - Adita Artigo 59.º-I — Antecipação de DAE
+    - Adita Artigo 59.º-J — Acumulação de DAE
+    - Adita Artigo 59.º-K — Utilização de unidades de atenuação das emissões resultantes do uso dos solos
+    - Adita Artigo 59.º-L — Transferências ex ante da dotação anual de emissões de um Estado-Membro
+    - Adita Artigo 59.º-M — Transferências após o cálculo do saldo da conta de conformidade RPE
+    - Adita Artigo 59.º-N — Reserva de segurança
+    - Adita Artigo 59.º-O — Primeira ronda de distribuição da reserva de segurança
+    - Adita Artigo 59.º-P — Segunda ronda de distribuição da reserva de segurança
+    - Adita Artigo 59.º-Q — Ajustamentos
+    - Adita Artigo 59.º-R — Transferências de DAE previamente acumuladas
+    - Adita Artigo 59.º-S — Execução e reversão de transferências
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Adita Termos e condições
+    - Adita Pagamento de taxas
+    - Adita Alteração dos termos e condições principais
+  - date: '2023-09-10'
+    amending: eu:celex:32023R1642:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1642 DA COMISSÃO de 14 de junho de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Diário de Operações da União Europeia
+    - Altera Artigo 7.º — Administradores nacionais
+    - Altera Artigo 23.º — Lista de contas de confiança
+    - Altera Artigo 30.º — Suspensão do acesso a contas
+    - Altera Artigo 53.º — Alterações das tabelas de leilões
+    - Altera Artigo 55.º — Transferência de licenças de emissão
+    - Altera Artigo 62.º — Autenticação do Registo da União
+    - Altera Artigo 65.º — Suspensão de todos os acessos devido a uma violação da segurança ou a um risco para a segurança
+    - Altera Artigo 66.º — Suspensão do acesso a licenças de emissão em caso de suspeita de transação fraudulenta
+    - Altera Artigo 68.º — Suspensão de processos
+    - Altera Artigo 70.º — Controlo automático de processos
+    - Altera Artigo 71.º — Deteção de discrepâncias
+    - Altera Artigo 72.º — Deteção de discrepâncias no Registo da União
+    - Altera Artigo 74.º — Finalização de processos
+    - Altera Artigo 76.º — Gestão das alterações e versões
+    - Altera Artigo 77.º — Tratamento da informação e dos dados pessoais
+    - Altera Artigo 79.º — Comunicação e disponibilidade de informações
+    - Altera Artigo 80.º — Confidencialidade
+    - Altera Artigo 82.º — Interrupção das operações
+    - Altera Informações a apresentar com os pedidos de abertura de conta
+    - Altera Informações a apresentar para a abertura de uma conta de entrega em leilão ou de uma conta de negociação
+    - Altera Informações a apresentar para a abertura de uma conta de depósito de operador
+    - Altera Informações a apresentar para a abertura de uma conta de depósito de operador de aeronave
+    - Altera Informações relativas aos representantes autorizados a apresentar ao administrador da conta
+    - Altera I. Informações sobre o Registo da União relacionadas com o CELE
+    - Altera II. Informações relacionadas com a contabilização de transações no âmbito do título II-A
+    - Altera Notas
+    - Adita Artigo 6.º — Ligações de comunicação entre os registos [►M2](http://publications.europa.eu/resource/celex/32023R1642)
+      —————◄
+    - Adita Artigo 52.º — Introdução das tabelas de leilões no [►M2](http://publications.europa.eu/resource/celex/32023R1642)
+      Registo da União◄
+    - Adita Requisitos Técnicos Do Registo Da União
+    - Adita Artigo 60.º — Disponibilidade e fiabilidade do Registo da União [►M2](http://publications.europa.eu/resource/celex/32023R1642)
+      —————◄
+    - Adita Artigo 73.º — Reconciliação — deteção de inconsistências pelo Registo da União
+    - Adita ANEXO XIV
+    - Suprime Artigo 6.º — Ligações de comunicação entre os registos e o DOUE
+    - Suprime Artigo 52.º — Introdução das tabelas de leilões no DOUE
+    - Suprime Requisitos técnicos do Registo da União e do DOUE
+    - Suprime Artigo 60.º — Disponibilidade e fiabilidade do Registo da União e do DOUE
+    - Suprime Artigo 73.º — Reconciliação — deteção de inconsistências pelo DOUE
+    - Suprime Informações disponíveis ao público
+  - date: '2023-12-30'
+    amending: eu:celex:32023R2904:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2904 DA COMISSÃO de 25 de outubro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Diário de Operações da União Europeia
+    - Altera Artigo 9.º — Estado das contas
+    - Altera Artigo 15.º — Abertura de contas de depósito de operador de aeronave no Registo da União
+    - Altera Artigo 19.º — Recusa de abertura de uma conta ou de registo de um verificador
+    - Altera Artigo 22.º — Atualização de informações relativas às contas ou aos representantes autorizados
+    - Altera Artigo 28.º — Encerramento de contas e remoção de representantes autorizados por iniciativa do administrador
+    - Altera Artigo 30.º — Suspensão do acesso a contas
+    - Altera Artigo 33.º — Cálculo dos valores do estado de conformidade
+    - Altera Artigo 36.º — Natureza das licenças de emissão e caráter definitivo das transações
+    - Altera Artigo 37.º — Criação de licenças de emissão
+    - Altera Artigo 48.º — Atribuição de licenças de emissão gerais a título gratuito
+    - Altera Artigo 49.º — Alterações das tabelas nacionais de atribuição à aviação
+    - Altera Artigo 52.º — Introdução das tabelas de leilões no [►M2](http://publications.europa.eu/resource/celex/32023R1642)
+      Registo da União◄
+    - Altera Artigo 54.º — Venda em leilão de licenças de emissão
+    - Altera Artigo 55.º — Transferência de licenças de emissão
+    - Altera Artigo 56.º — Devolução de licenças
+    - Altera Artigo 58.º — Reversão de processos finalizados iniciados por erro
+    - Altera Artigo 65.º — Suspensão de todos os acessos devido a uma violação da segurança ou a um risco para a segurança
+    - Altera Artigo 68.º — Suspensão de processos
+    - Altera Artigo 76.º — Gestão das alterações e versões
+    - Altera Artigo 77.º — Tratamento da informação e dos dados pessoais
+    - Altera Artigo 80.º — Confidencialidade
+    - Altera ANEXO I
+    - Altera Informações a apresentar com os pedidos de abertura de conta
+    - Altera Formatos para a apresentação de dados relativos às emissões anuais
+    - Altera I. Informações sobre o Registo da União relacionadas com o CELE
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 14.º — Abertura de contas de depósito de instalação fixa no Registo da União
+    - Adita Artigo 15.º-A — Abertura de contas de depósito de operador do setor marítimo no Registo da União
+    - Adita Artigo 15.º-B — Abertura de contas de depósito de entidade regulamentada no Registo da União
+    - Adita Artigo 15.º-C — Abertura de contas de supressão de governo de país terceiro no Registo da União
+    - Adita Artigo 15.º-D — Abertura de contas de supressão por derrogação fiscal no Registo da União
+    - Adita Artigo 24.º-A — Encerramento de contas de supressão de governo de país terceiro
+    - Adita Artigo 25.º
+    - Adita **Encerramento de contas de depósito de instalação fixa**
+    - Adita Artigo 26.º-A — Encerramento de contas de depósito de operador do setor marítimo
+    - Adita Artigo 26.º-B — Encerramento de contas de depósito de entidade regulamentada
+    - Adita Artigo 31.º
+  - date: '2025-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera **Transferência de licenças de emissão gerais para instalações fixas e operadores do setor marítimo a vender
+      em leilão**
+    - Altera **Atribuição de licenças de emissão a título gratuito a operadores de aeronave**
+    - Altera Artigo 55.º — Transferência de licenças de emissão
+    - Altera Artigo 65.º — Suspensão de todos os acessos devido a uma violação da segurança ou a um risco para a segurança
+    - Altera Artigo 80.º — Confidencialidade
+    - Altera Informações a apresentar com os pedidos de abertura de conta
+    - Altera Informações a apresentar para a abertura de uma conta de depósito de operador do setor marítimo
+    - Altera Formatos para a apresentação de dados relativos às emissões anuais
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 40.º — Transferência de licenças de emissão gerais para a aviação a vender em leilão
+    - Adita Artigo 41.º — Transferência de licenças de emissão gerais a atribuir a título gratuito a operadores de aeronave
+    - Suprime Artigo 40.º — Transferência de licenças de emissão da aviação para venda em leilão
+    - Suprime Artigo 41.º — Transferência de licenças de emissão da aviação a atribuir a título gratuito
+    - Suprime Artigo 44.º — Transferência de licenças de emissão da aviação para a conta de quantidade total da aviação da
+      UE
+    - Suprime Artigo 45.º — Supressão de licenças de emissão da aviação
+  - date: '2025-06-26'
+    amending: eu:celex:32025R1253:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1253 DA COMISSÃO de 11 de fevereiro de 2025
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Estado das contas
+    - Altera Artigo 15.º-B — Abertura de contas de depósito de entidade regulamentada no Registo da União
+    - Altera Artigo 20.º — Representantes autorizados
+    - Altera Artigo 22.º — Atualização de informações relativas às contas ou aos representantes autorizados
+    - Altera Artigo 33.º — Cálculo dos valores do estado de conformidade
+    - Altera **Transferência de licenças de emissão gerais para instalações fixas e operadores do setor marítimo a vender
+      em leilão**
+    - Altera Artigo 48.º — Atribuição de licenças de emissão gerais a título gratuito
+    - Altera Artigo 49.º — Alterações das tabelas nacionais de atribuição à aviação
+    - Altera **Atribuição de licenças de emissão a título gratuito a operadores de aeronave**
+    - Altera Artigo 54.º — Venda em leilão de licenças de emissão
+    - Altera Artigo 55.º — Transferência de licenças de emissão
+    - Altera Artigo 58.º — Reversão de processos finalizados iniciados por erro
+    - Altera Artigo 59.º-H — Utilização da flexibilidade prevista no artigo 6.º do Regulamento (UE) 2018/842
+    - Altera Artigo 59.º-I — Antecipação de DAE
+    - Altera Artigo 59.º-J — Acumulação de DAE
+    - Altera Artigo 59.º-K — Utilização de unidades de atenuação das emissões resultantes do uso dos solos
+    - Altera Artigo 59.º-L — Transferências ex ante da dotação anual de emissões de um Estado-Membro
+    - Altera Artigo 59.º-M — Transferências após o cálculo do saldo da conta de conformidade RPE
+    - Altera Artigo 59.º-O — Primeira ronda de distribuição da reserva de segurança
+    - Altera Artigo 65.º — Suspensão de todos os acessos devido a uma violação da segurança ou a um risco para a segurança
+    - Altera Artigo 80.º — Confidencialidade
+    - Altera ANEXO I
+    - Altera Informações a apresentar com os pedidos de abertura de conta
+    - Altera Informações a apresentar para a abertura de uma conta de depósito de operador de aeronave
+    - Altera Informações a apresentar para a abertura de uma conta de depósito de operador do setor marítimo
+    - Altera Formatos para a apresentação de dados relativos às emissões anuais
+    - Altera Tabela nacional de atribuição à aviação
+    - Altera I. Informações sobre o Registo da União relacionadas com o CELE
+    - Altera II. Informações relacionadas com a contabilização de transações no âmbito do título II-A
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 26.º-C — Encerramento de contas de autoridade nacional competente
+    - Adita Artigo 32.º-A — Bloqueio de contas devido à não devolução de emissões
+    - Adita Artigo 40.º — Transferência de licenças de emissão da aviação a vender em leilão
+    - Adita Artigo 58.º-A — Restituição de licenças de emissão
+    - Adita Artigo 59.º--A
+    - Adita Transações autorizadas para contas de supressão de governo de país terceiro
+    - Suprime Artigo 40.º — Transferência de licenças de emissão gerais para a aviação a vender em leilão
+    - Suprime Artigo 59.º-A — Transações autorizadas para contas de supressão de governo de país terceiro
+  - date: '2026-04-27'
+    amending: eu:celex:32026R0081:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/81 DA COMISSÃO de 13 de janeiro de 2026; REGULAMENTO DELEGADO (UE) 2026/109
+      DA COMISSÃO de 14 de janeiro de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Registo da União
+    - Altera Artigo 7.º — Administradores nacionais
+    - Altera Artigo 12.º — Abertura das contas geridas pelo administrador central
+    - Altera **Transferência de licenças de emissão gerais para instalações fixas e operadores do setor marítimo a vender
+      em leilão**
+    - Altera Artigo 40.º — Transferência de licenças de emissão da aviação a vender em leilão
+    - Altera Artigo 49.º — Alterações das tabelas nacionais de atribuição à aviação
+    - Altera Artigo 55.º — Transferência de licenças de emissão
+    - Altera Artigo 58.º-A — Restituição de licenças de emissão
+    - Altera Artigo 59.º-A — Criação de DAE
+    - Altera Artigo 59.º-B — Unidades de dotação anual de emissões
+    - Altera Artigo 59.º-F — Determinação dos valores do estado de conformidade
+    - Altera Artigo 59.º-H — Utilização da flexibilidade prevista no artigo 6.º do Regulamento (UE) 2018/842
+    - Altera Artigo 59.º-I — Antecipação de DAE
+    - Altera Artigo 59.º-J — Acumulação de DAE
+    - Altera Artigo 59.º-L — Transferências ex ante da dotação anual de emissões de um Estado-Membro
+    - Altera Artigo 59.º-M — Transferências após o cálculo do saldo da conta de conformidade RPE
+    - Altera Artigo 59.º-N — Reserva de segurança
+    - Altera Artigo 59.º-O — Primeira ronda de distribuição da reserva de segurança
+    - Altera Artigo 59.º-Q — Ajustamentos
+    - Altera Artigo 65.º — Suspensão de todos os acessos devido a uma violação da segurança ou a um risco para a segurança
+    - Altera Artigo 70.º — Controlo automático de processos
+    - Altera Artigo 80.º — Confidencialidade
+    - Altera ANEXO I
+    - Altera Informações a apresentar com os pedidos de abertura de conta
+    - Altera Informações a apresentar para a abertura de uma conta de depósito de operador do setor marítimo
+    - Altera Formatos para a apresentação de dados relativos às emissões anuais
+    - Altera II. Informações relacionadas com a contabilização de transações no âmbito do título II-A
+    - Altera ANEXO XIV
+    - Altera Notas
+    - Adita Artigo 27.º-B — Encerramento de contas LULUCF
+    - Adita Artigo 59.º-K — Utilização de unidades de remoção no uso do solo (URS)
+    - Adita Artigo 59.º-S
+    - Adita Transações ao abrigo do Regulamento (UE) 2018/841
+    - Adita Artigo 59.º-T — Introdução dos dados pertinentes relativos ao setor LULUCF
+    - Adita Artigo 59.º-U — Cálculo do saldo da conta de conformidade LULUCF do Estado-Membro e da conta de conformidade LULUCF
+      da UE
+    - Adita Artigo 59.º-V — Criação de URS
+    - Adita Artigo 59.º-W — Transferências de URS entre contas de conformidade LULUCF dos Estados-Membros
+    - Adita Artigo 59.º-X — Transferências de URS e de DAE entre contas de conformidade LULUCF dos Estados-Membros e contas
+      de conformidade RPE
 identifiers:
   celex: 32019R1122
   eli: http://data.europa.eu/eli/reg_del/2019/1122/oj
@@ -50,7 +312,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/dec1f30b-9c9a-11e9-9d01-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e6446817-7606-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1122-20260427
-  retrieved_at: '2026-10-22T03:01:13Z'
+  retrieved_at: '2026-10-22T17:09:21Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T02:52:14.098+01:00'
 integrity:
@@ -59,9 +321,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:13Z'
-  notes: Texto consolidado 02019R1122-20260427.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:21Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2019-1122.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -236,39 +498,19 @@ relationships:
   date: '2013-05-02'
 article_structure:
   article_count: 131
-  section_count: 102
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 109
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:13Z'
+  checked_at: '2026-10-22T17:09:21Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2019/1122 da Comissão, de 12 de março de 2019
-
-> 02019R1122 — PT — 27.04.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1124) — [REGULAMENTO DELEGADO (UE) 2019/1124 DA COMISSÃO de 13 de março de 2019](http://publications.europa.eu/resource/celex/32019R1124) — L 177 — 66 — 2.7.2019
-- [►M2](http://publications.europa.eu/resource/celex/32023R1642) — [REGULAMENTO DELEGADO (UE) 2023/1642 DA COMISSÃO de 14 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1642) — L 206 — 1 — 21.8.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R2904) — [REGULAMENTO DELEGADO (UE) 2023/2904 DA COMISSÃO de 25 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2904) — L 2904 — 1 — 29.12.2023
-- [►M4](http://publications.europa.eu/resource/celex/32025R1253) — [REGULAMENTO DELEGADO (UE) 2025/1253 DA COMISSÃO de 11 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R1253) — L 1253 — 1 — 26.6.2025
-- [►M5](http://publications.europa.eu/resource/celex/32026R0081) — [REGULAMENTO DELEGADO (UE) 2026/81 DA COMISSÃO de 13 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0081) — L 81 — 1 — 7.4.2026
-- [►M6](http://publications.europa.eu/resource/celex/32026R0109) — [REGULAMENTO DELEGADO (UE) 2026/109 DA COMISSÃO de 14 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0109) — L 109 — 1 — 7.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1124R%2801%29) — [Rectificação, JO L 90542, 27.6.2025, p. 1 ((UE) 2019/1124)](http://publications.europa.eu/resource/celex/32019R1124R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R2904R%2803%29) — [Rectificação, JO L 90539, 27.6.2025, p. 1 ((UE) 2023/29042023/2904)](http://publications.europa.eu/resource/celex/32023R2904R%2803%29)
-
-## REGULAMENTO DELEGADO (UE) 2019/1122 DA COMISSÃO
 
 de 12 de março de 2019
 

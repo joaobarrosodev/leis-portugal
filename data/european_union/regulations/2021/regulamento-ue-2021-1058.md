@@ -35,6 +35,64 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-09-20'
+version_history:
+  file: regulamento-ue-2021-1058.versoes.json
+  count: 4
+  source_lastmod: '2025-09-20'
+  versions:
+  - date: '2021-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 3.º — Objetivos específicos para o FEDER e o Fundo de Coesão
+    - Altera Artigo 5.º — Âmbito de intervenção do FEDER
+    - Altera Artigo 7.º — Exclusões do âmbito de intervenção do FEDER e do Fundo de Coesão
+    - Altera Artigo 8.º — Indicadores
+    - Altera Artigo 13.º — Investimentos inter-regionais ligados à inovação
+    - Altera CONJUNTO-CHAVE DE INDICADORES DE DESEMPENHO PARA O FEDER E O FUNDO DE COESÃO REFERIDO NO ARTIGO 8.º, N.º 3, A
+      UTILIZAR PELA COMISSÃO EM CUMPRIMENTO DA SUA OBRIGAÇÃO DE PRESTAÇÃO DE INFORMAÇÕES NOS TERMOS DO ARTIGO 41.º, N.º 3,
+      ALÍNEA H), SUBALÍNEA III), DO REGULAMENTO FINANCEIRO
+    - Altera Notas
+    - Adita INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS PARA O FEDER E O FUNDO DE COESÃO — ARTIGO 8.º, N.º 1 ([^8^](http://publications.europa.eu/resource/cellar/9871182b-eb7a-11ee-8e14-01aa75ed71a1.0020.02/DOC_1#E0008))
+    - Suprime INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS PARA O FEDER E O FUNDO DE COESÃO — ARTIGO 8.º, N.º 1 ([^6^](http://publications.europa.eu/resource/cellar/d5e6d010-8913-11ec-8c40-01aa75ed71a1.0020.02/DOC_1#E0006))
+  - date: '2024-12-24'
+    amending: eu:celex:32024R3236:por
+    amending_title: REGULAMENTO (UE) 2024/3236 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 3.º — Objetivos específicos para o FEDER e o Fundo de Coesão
+    - Altera Artigo 5.º — Âmbito de intervenção do FEDER
+    - Altera Artigo 7.º — Exclusões do âmbito de intervenção do FEDER e do Fundo de Coesão
+    - Altera Artigo 8.º — Indicadores
+    - Altera Artigo 13.º — Investimentos inter-regionais ligados à inovação
+    - Altera CONJUNTO-CHAVE DE INDICADORES DE DESEMPENHO PARA O FEDER E O FUNDO DE COESÃO REFERIDO NO ARTIGO 8.º, N.º 3, A
+      UTILIZAR PELA COMISSÃO EM CUMPRIMENTO DA SUA OBRIGAÇÃO DE PRESTAÇÃO DE INFORMAÇÕES NOS TERMOS DO ARTIGO 41.º, N.º 3,
+      ALÍNEA H), SUBALÍNEA III), DO REGULAMENTO FINANCEIRO
+    - Altera Notas
+    - Adita INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS PARA O FEDER E O FUNDO DE COESÃO — ARTIGO 8.º, N.º 1 ([^9^](http://publications.europa.eu/resource/cellar/1d2f4254-e306-11ef-be2a-01aa75ed71a1.0020.02/DOC_1#E0009))
+    - Suprime INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS PARA O FEDER E O FUNDO DE COESÃO — ARTIGO 8.º, N.º 1 ([^8^](http://publications.europa.eu/resource/cellar/9871182b-eb7a-11ee-8e14-01aa75ed71a1.0020.02/DOC_1#E0008))
+  - date: '2025-09-20'
+    amending: eu:celex:32025R1914:por
+    amending_title: REGULAMENTO (UE) 2025/1914 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Objetivos específicos para o FEDER e o Fundo de Coesão
+    - Altera Artigo 4.º — Concentração temática do apoio do FEDER
+    - Altera Artigo 5.º — Âmbito de intervenção do FEDER
+    - Altera Artigo 7.º — Exclusões do âmbito de intervenção do FEDER e do Fundo de Coesão
+    - Altera Artigo 8.º — Indicadores
+    - Altera Artigo 12.º — Iniciativa Urbana Europeia
+    - Altera Artigo 13.º — Investimentos inter-regionais ligados à inovação
+    - Altera CONJUNTO-CHAVE DE INDICADORES DE DESEMPENHO PARA O FEDER E O FUNDO DE COESÃO REFERIDO NO ARTIGO 8.º, N.º 3, A
+      UTILIZAR PELA COMISSÃO EM CUMPRIMENTO DA SUA OBRIGAÇÃO DE PRESTAÇÃO DE INFORMAÇÕES NOS TERMOS DO ARTIGO 41.º, N.º 3,
+      ALÍNEA H), SUBALÍNEA III), DO REGULAMENTO FINANCEIRO
+    - Altera Notas
+    - Adita Artigo 7.º-A — Disposições específicas relacionadas com a revisão intercalar e as flexibilidades conexas
+    - Adita INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS PARA O FEDER E O FUNDO DE COESÃO — ARTIGO 8.º, N.º 1 ([^11^](http://publications.europa.eu/resource/cellar/85bdd5a5-af3a-11f0-89c6-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS PARA O FEDER E O FUNDO DE COESÃO — ARTIGO 8.º, N.º 1 ([^9^](http://publications.europa.eu/resource/cellar/1d2f4254-e306-11ef-be2a-01aa75ed71a1.0020.02/DOC_1#E0009))
 identifiers:
   celex: 32021R1058
   eli: http://data.europa.eu/eli/reg/2021/1058/oj
@@ -49,7 +107,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f6928c31-d98c-11eb-895a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/85bdd5a5-af3a-11f0-89c6-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1058-20250920
-  retrieved_at: '2026-10-22T02:37:34Z'
+  retrieved_at: '2026-10-22T17:13:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T12:57:45.906+01:00'
 integrity:
@@ -58,9 +116,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:34Z'
-  notes: Texto consolidado 02021R1058-20250920.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:36Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2021-1058.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -356,35 +414,19 @@ relationships:
   date: '2022-01-20'
 article_structure:
   article_count: 19
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:34Z'
+  checked_at: '2026-10-22T17:13:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/1058 do Parlamento Europeu e do Conselho de 24 de junho de 2021
-
-> 02021R1058 — PT — 20.09.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-- [►M2](http://publications.europa.eu/resource/celex/32024R3236) — [REGULAMENTO (UE) 2024/3236 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3236) — L 3236 — 1 — 23.12.2024
-- [►M3](http://publications.europa.eu/resource/celex/32025R1914) — [REGULAMENTO (UE) 2025/1914 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1914) — L 1914 — 1 — 19.9.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R1058R%2801%29) — [Rectificação, JO L 013, 20.1.2022, p. 74 (2021/1058)](http://publications.europa.eu/resource/celex/32021R1058R%2801%29)
-
-## REGULAMENTO (UE) 2021/1058 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de junho de 2021
 

@@ -36,6 +36,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-28'
+version_history:
+  file: regulamento-ue-2022-1475.versoes.json
+  count: 3
+  source_lastmod: '2026-07-28'
+  versions:
+  - date: '2023-10-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-26'
+    amending: eu:celex:32024R1962:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1962 DA COMISSÃO de 18 de julho de 2024
+    changes:
+    - Altera Artigo 7.º — Dados e apoio técnico às avaliações
+    - Altera Artigo 8.º — Âmbito dos dados a fornecer pelos Estados-Membros
+    - Altera Artigo 10.º — Dados desagregados sobre os beneficiários
+    - Altera Artigo 15.º — Data e frequência da transmissão dos dados
+    - Altera Artigo 16.º — Transferência de dados
+    - Altera INDICADORES DE IMPACTO REFERIDOS NO ARTIGO 6.º, N.º 5
+    - Altera Comunicação de dados desagregados sobre as intervenções
+    - Altera Comunicação de dados relativos aos beneficiários
+    - Altera Informações relativas a despesas
+    - Altera Dados obrigatórios
+    - Altera Notas
+    - Adita Artigo 11.º-A — Dados sobre derrogações temporárias aos requisitos das normas BCAA
+  - date: '2026-07-28'
+    amending: eu:celex:32026R1752:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1752 DA COMISSÃO de 20 de julho de 2026
+    changes:
+    - Altera Artigo 7.º — Dados e apoio técnico às avaliações
+    - Altera Artigo 8.º — Âmbito dos dados a fornecer pelos Estados-Membros
+    - Altera Artigo 10.º — Dados desagregados sobre os beneficiários
+    - Altera Artigo 16.º — Transferência de dados
+    - Altera INDICADORES DE IMPACTO REFERIDOS NO ARTIGO 6.º, N.º 5
+    - Altera Informações relativas a despesas
+    - Altera Dados obrigatórios
+    - Altera Notas
 identifiers:
   celex: 32022R1475
   eli: http://data.europa.eu/eli/reg_impl/2022/1475/oj
@@ -50,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4a6c62f7-2e4d-11ed-975d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d4bb25d4-95c0-11f1-9262-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R1475-20260728
-  retrieved_at: '2026-10-22T02:38:26Z'
+  retrieved_at: '2026-10-22T17:16:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T06:11:54.609+02:00'
 integrity:
@@ -59,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:26Z'
-  notes: Texto consolidado 02022R1475-20260728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:03Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2022-1475.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -179,31 +216,20 @@ relationships:
   date: '2023-08-31'
 article_structure:
   article_count: 21
-  section_count: 38
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 39
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:26Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:03Z'
+  warnings:
+  - '02022R1475-20220907: versão indisponível (Sem expressão na língua por para CELEX 02022R1475-20220907.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2022/1475 da Comissão de 6 de setembro de 2022
-
-> 02022R1475 — PT — 28.07.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2157) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2157 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2157) — L 2157 — 1 — 18.10.2023
-- [►M2](http://publications.europa.eu/resource/celex/32024R1962) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1962 DA COMISSÃO de 18 de julho de 2024](http://publications.europa.eu/resource/celex/32024R1962) — L 1962 — 1 — 19.7.2024
-- [►M3](http://publications.europa.eu/resource/celex/32026R1752) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1752 DA COMISSÃO de 20 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1752) — L 1752 — 1 — 21.7.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2022/1475 DA COMISSÃO
 
 de 6 de setembro de 2022
 

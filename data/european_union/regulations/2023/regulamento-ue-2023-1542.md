@@ -41,6 +41,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-13'
+version_history:
+  file: regulamento-ue-2023-1542.versoes.json
+  count: 4
+  source_lastmod: '2026-08-13'
+  versions:
+  - date: '2023-07-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-18'
+    amending: eu:celex:32024R1781:por
+    amending_title: M1
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 59.º — Recolha de resíduos de baterias portáteis
+    - Altera Artigo 77.º — Passaporte de bateria
+    - Altera Artigo 91.º — Alteração do Regulamento (UE) 2019/1020
+    - Altera Artigo 92.º — Alteração da Diretiva 2008/98/CE
+    - Altera Parâmetros das baterias recarregáveis
+    - Altera Notas
+  - date: '2025-07-31'
+    amending: eu:celex:32025R1561:por
+    amending_title: REGULAMENTO (UE) 2025/1561 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 32.º — Contestação da competência dos organismos notificados
+    - Altera Artigo 48.º — Políticas de dever de diligência relacionado com as baterias
+    - Altera Artigo 59.º — Recolha de resíduos de baterias portáteis
+    - Altera Artigo 77.º — Passaporte de bateria
+    - Altera Artigo 91.º — Alteração do Regulamento (UE) 2019/1020
+    - Altera Artigo 92.º — Alteração da Diretiva 2008/98/CE
+    - Altera Parâmetros das baterias recarregáveis
+    - Altera 1. INFORMAÇÕES ACESSÍVEIS AO PÚBLICO RELATIVAS AO MODELO DE BATERIA
+    - Altera Notas
+  - date: '2026-08-13'
+    amending: eu:celex:32026R1738:por
+    amending_title: REGULAMENTO (UE) 2026/1738 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 59.º — Recolha de resíduos de baterias portáteis
+    - Altera Artigo 77.º — Passaporte de bateria
+    - Altera Artigo 91.º — Alteração do Regulamento (UE) 2019/1020
+    - Altera Artigo 92.º — Alteração da Diretiva 2008/98/CE
+    - Altera ANEXO I
+    - Altera Parâmetros das baterias recarregáveis
+    - Altera Notas
 identifiers:
   celex: 32023R1542
   eli: http://data.europa.eu/eli/reg/2023/1542/oj
@@ -55,7 +104,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d0065c31-2ce3-11ee-95a2-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d86c4599-ac88-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R1542-20260813
-  retrieved_at: '2026-10-22T03:20:26Z'
+  retrieved_at: '2026-10-22T17:16:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-05-27T10:05:56.671+02:00'
 integrity:
@@ -64,9 +113,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:26Z'
-  notes: Texto consolidado 02023R1542-20260813.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:45Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2023-1542.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -445,38 +494,19 @@ relationships:
   date: '2006-09-27'
 article_structure:
   article_count: 96
-  section_count: 101
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 102
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:26Z'
+  checked_at: '2026-10-22T17:16:45Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2023/1542 do Parlamento Europeu e do Conselho, de 12 de julho de 2023
-
-> 02023R1542 — PT — 13.08.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32024R1781) — [REGULAMENTO (UE) 2024/1781 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1781) — L 1781 — 1 — 28.6.2024
-- [►M2](http://publications.europa.eu/resource/celex/32025R1561) — [REGULAMENTO (UE) 2025/1561 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1561) — L 1561 — 1 — 30.7.2025
-- [►M3](http://publications.europa.eu/resource/celex/32026R1738) — [REGULAMENTO (UE) 2026/1738 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1738) — L 1738 — 1 — 24.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R1542R%2805%29) — [Rectificação, JO L 90243, 17.4.2024, p. 1 (2023/1542)](http://publications.europa.eu/resource/celex/32023R1542R%2805%29)
-- [►C2](http://publications.europa.eu/resource/celex/32024R1781R%2801%29) — [Rectificação, JO L 90493, 7.8.2024, p. 1 (2024/1781)](http://publications.europa.eu/resource/celex/32024R1781R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023R1542R%2811%29) — [Rectificação, JO L 90794, 8.10.2025, p. 1 (2023/1542)](http://publications.europa.eu/resource/celex/32023R1542R%2811%29)
-- [►C4](http://publications.europa.eu/resource/celex/32023R1542R%2813%29) — [Rectificação, JO L 90285, 10.4.2026, p. 1 (2023/1542)](http://publications.europa.eu/resource/celex/32023R1542R%2813%29)
-
-## REGULAMENTO (UE) 2023/1542 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de julho de 2023
 

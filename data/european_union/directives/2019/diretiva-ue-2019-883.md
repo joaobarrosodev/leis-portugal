@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-06-07'
+version_history:
+  file: diretiva-ue-2019-883.versoes.json
+  count: 1
+  source_lastmod: '2019-06-07'
+  versions:
+  - date: '2019-06-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32019L0883
   eli: http://data.europa.eu/eli/dir/2019/883/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cdf57d16-8905-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e99fe3e8-1748-11f1-8870-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0883-20190607
-  retrieved_at: '2026-10-22T02:43:32Z'
+  retrieved_at: '2026-10-22T17:07:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T07:19:17.359+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:32Z'
-  notes: Texto consolidado 02019L0883-20190607.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:28Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2019-883.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -246,29 +255,19 @@ relationships:
   source: null
 article_structure:
   article_count: 26
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:32Z'
+  checked_at: '2026-10-22T17:07:28Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2019/883 do Parlamento Europeu e do Conselho, de 17 de abril de 2019
-
-> 02019L0883 — PT — 07.06.2019 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019L0883R%2801%29) — [Rectificação, JO L 91039, 19.12.2025, p. 1 (2019/883)](http://publications.europa.eu/resource/celex/32019L0883R%2801%29)
-
-## DIRETIVA (UE) 2019/883 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2019
 

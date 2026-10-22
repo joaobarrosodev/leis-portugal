@@ -37,6 +37,34 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-23'
+version_history:
+  file: regulamento-ue-2024-795.versoes.json
+  count: 2
+  source_lastmod: '2025-12-23'
+  versions:
+  - date: '2024-02-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-12-23'
+    amending: eu:celex:32025R2653:por
+    amending_title: REGULAMENTO (UE) 2025/2653 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Objetivos da STEP
+    - Altera Artigo 4.º — Selo de Soberania e financiamento combinado e cumulativo
+    - Altera Artigo 9.º — Alteração da Diretiva 2003/87/CE
+    - Altera Artigo 10.º — Alteração do Regulamento (UE) 2021/1058
+    - Altera Artigo 11.º — Alteração do Regulamento (UE) 2021/1056
+    - Altera Artigo 12.º — Alteração do Regulamento (UE) 2021/1057
+    - Altera Artigo 13.º — Alteração do Regulamento (UE) 2021/1060
+    - Altera Artigo 16.º — Alteração do Regulamento (UE) 2021/523
+    - Altera Artigo 17.º — Alteração do Regulamento (UE) 2021/695
+    - Altera Artigo 18.º — Alteração do Regulamento (UE) 2021/697
+    - Altera Artigo 19.º — Alteração do Regulamento (UE) 2021/241
+    - Altera Artigo 20.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Suprime «Artigo 12.º-A — Apoio aos objetivos da STEP
 identifiers:
   celex: 32024R0795
   eli: http://data.europa.eu/eli/reg/2024/795/oj
@@ -51,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f6746034-d6e9-11ee-b9d9-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/fff00ef1-1cca-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024R0795-20251223
-  retrieved_at: '2026-10-22T02:46:14Z'
+  retrieved_at: '2026-10-22T17:17:06Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-02-29T11:16:21.300+01:00'
 integrity:
@@ -60,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:14Z'
-  notes: Texto consolidado 02024R0795-20251223.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:06Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2024-795.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -304,29 +332,19 @@ relationships:
   date: '2025-11-24'
 article_structure:
   article_count: 20
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:14Z'
+  checked_at: '2026-10-22T17:17:06Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2024/795 do Parlamento Europeu e do Conselho, de 29 de fevereiro de 2024
-
-> 02024R0795 — PT — 23.12.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R2653) — [REGULAMENTO (UE) 2025/2653 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2653) — L 2653 — 1 — 22.12.2025
-
-## REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de fevereiro de 2024
 

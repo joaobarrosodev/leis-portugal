@@ -37,6 +37,140 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-13'
+version_history:
+  file: regulamento-ue-2019-833.versoes.json
+  count: 9
+  source_lastmod: '2025-02-13'
+  versions:
+  - date: '2019-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-19'
+    amending: eu:celex:32021R1231:por
+    amending_title: REGULAMENTO (UE) 2021/1231 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Limitações das capturas e do esforço
+    - Altera Artigo 6.º — Encerramentos de pescarias
+    - Altera Artigo 7.º — Capturas acessórias mantidas a bordo
+    - Altera Artigo 8.º — Ultrapassagem dos limites para as capturas acessórias num lanço
+    - Altera Artigo 10.º — Alabote-da-gronelândia
+    - Altera Artigo 12.º — Conservação e gestão dos tubarões
+    - Altera Artigo 13.º — Malhagens
+    - Altera Artigo 14.º — Utilização de dispositivos de fixação e marcação das artes
+    - Altera Artigo 18.º — Restrições geográficas às atividades de pesca de fundo
+    - Altera Artigo 22.º — Requisitos aplicáveis aos navios
+    - Altera Artigo 23.º — Convénios de afretamento
+    - Altera Artigo 25.º — Monitorização das capturas
+    - Altera Artigo 26.º — Sistema de localização de navios por satélite de navios (VMS)
+    - Altera Artigo 27.º — Programa de observadores
+    - Altera Artigo 28.º — Disposições gerais
+    - Altera Artigo 30.º — Procedimentos de vigilância
+    - Altera Artigo 31.º — Procedimentos de subida a bordo e inspeção para as partes contratantes
+    - Altera Artigo 32.º — Obrigações do capitão do navio durante a inspeção
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 34.º — Procedimentos em caso de infração
+    - Altera Artigo 35.º — Procedimentos adicionais em caso de infrações graves
+    - Altera Artigo 37.º — Relatórios dos Estados-Membros sobre a inspeção, a vigilância e as infrações
+    - Altera Artigo 39.º — Obrigações do Estado-Membro do porto
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Artigo 45.º — Avistamento e inspeção de navios de partes não contratantes na Área de Regulamentação
+    - Altera Artigo 46.º — Entrada no porto e inspeção de navios de partes não contratantes
+    - Altera Artigo 50.º — Procedimento em caso de alterações
+    - Altera Artigo 53.º — Alterações ao Regulamento (UE) 2016/1627
+    - Altera Artigo 54.º
+    - Altera Notas
+    - Adita Artigo 9.º-A — Bacalhau na divisão 3M
+    - Adita ANEXO
+  - date: '2022-07-25'
+    amending: eu:celex:32022R1281:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1281 DA COMISSÃO de 4 de março de 2022
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Navios de investigação
+    - Altera Artigo 10.º — Alabote-da-gronelândia
+    - Altera Artigo 18.º — Restrições geográficas às atividades de pesca de fundo
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Notas
+  - date: '2022-11-14'
+    amending: eu:celex:32022R2037:por
+    amending_title: REGULAMENTO (UE) 2022/2037 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 7.º — Capturas acessórias mantidas a bordo
+    - Altera Artigo 9.º-A — Bacalhau na divisão 3M
+    - Altera Artigo 10.º — Alabote-da-gronelândia
+    - Altera Artigo 29.º — Requisitos de notificação
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 35.º — Procedimentos adicionais em caso de infrações graves
+    - Altera Artigo 36.º — Seguimento dado às infrações
+    - Altera Artigo 40.º — Deveres do Estado-Membro de pavilhão
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Artigo 50.º — Procedimento em caso de alterações
+    - Altera Notas
+  - date: '2023-06-09'
+    amending: eu:celex:32023R1090:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1090 DA COMISSÃO de 24 de janeiro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Navios de investigação
+    - Altera Artigo 9.º-A — Bacalhau na divisão 3M
+    - Altera Artigo 27.º — Programa de observadores
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Notas
+  - date: '2023-10-17'
+    amending: eu:celex:32023R2053:por
+    amending_title: REGULAMENTO (UE) 2023/2053 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Notas
+    - Suprime Artigo 53.º — Alterações ao Regulamento (UE) 2016/1627
+  - date: '2024-01-09'
+    amending: eu:celex:32023R2857:por
+    amending_title: REGULAMENTO (UE) 2023/2857 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Navios de investigação
+    - Altera Artigo 6.º — Encerramentos de pescarias
+    - Altera Artigo 8.º — Ultrapassagem dos limites para as capturas acessórias num lanço
+    - Altera Artigo 12.º — Conservação e gestão dos tubarões
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Artigo 50.º — Procedimento em caso de alterações
+    - Altera Notas
+  - date: '2024-02-24'
+    amending: eu:celex:32024R0636:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/636 DA COMISSÃO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 18.º — Restrições geográficas às atividades de pesca de fundo
+    - Altera Artigo 27.º — Programa de observadores
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Notas
+  - date: '2025-02-13'
+    amending: eu:celex:32025R0282:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/282 DA COMISSÃO de 21 de novembro de 2024
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 13.º — Malhagens
+    - Altera Artigo 33.º — Relatório de inspeção e seguimento
+    - Altera Artigo 44.º — Presunção de pesca INN
+    - Altera Notas
 identifiers:
   celex: 32019R0833
   eli: http://data.europa.eu/eli/reg/2019/833/oj
@@ -51,7 +185,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8ebb1b13-810f-11e9-9f05-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/757888a9-0455-11f0-9503-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0833-20250213
-  retrieved_at: '2026-10-22T03:19:11Z'
+  retrieved_at: '2026-10-22T17:08:36Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T06:18:19.131+01:00'
 integrity:
@@ -60,9 +194,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:11Z'
-  notes: Texto consolidado 02019R0833-20250213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:36Z'
+  notes: 9 versão(ões); histórico completo em regulamento-ue-2019-833.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -245,36 +379,19 @@ relationships:
   date: '2007-12-06'
 article_structure:
   article_count: 54
-  section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 22
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:11Z'
+  checked_at: '2026-10-22T17:08:36Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/833 do Parlamento Europeu e do Conselho, de 20 de maio de 2019
-
-> 02019R0833 — PT — 13.02.2025 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1231) — [REGULAMENTO (UE) 2021/1231 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1231) — L 274 — 32 — 30.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32022R1281) — [REGULAMENTO DELEGADO (UE) 2022/1281 DA COMISSÃO de 4 de março de 2022](http://publications.europa.eu/resource/celex/32022R1281) — L 195 — 21 — 22.7.2022
-- [►M3](http://publications.europa.eu/resource/celex/32022R2037) — [REGULAMENTO (UE) 2022/2037 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2037) — L 275 — 11 — 25.10.2022
-- [►M4](http://publications.europa.eu/resource/celex/32023R1090) — [REGULAMENTO DELEGADO (UE) 2023/1090 DA COMISSÃO de 24 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R1090) — L 146 — 3 — 6.6.2023
-- [►M5](http://publications.europa.eu/resource/celex/32023R2053) — [REGULAMENTO (UE) 2023/2053 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2053) — L 238 — 1 — 27.9.2023
-- [►M6](http://publications.europa.eu/resource/celex/32023R2857) — [REGULAMENTO (UE) 2023/2857 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2857) — L 2857 — 1 — 20.12.2023
-- [►M7](http://publications.europa.eu/resource/celex/32024R0636) — [REGULAMENTO DELEGADO (UE) 2024/636 DA COMISSÃO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R0636) — L 636 — 1 — 21.2.2024
-- [►M8](http://publications.europa.eu/resource/celex/32025R0282) — [REGULAMENTO DELEGADO (UE) 2025/282 DA COMISSÃO de 21 de novembro de 2024](http://publications.europa.eu/resource/celex/32025R0282) — L 282 — 1 — 10.2.2025
-
-## REGULAMENTO (UE) 2019/833 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2019
 

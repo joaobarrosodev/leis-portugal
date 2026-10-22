@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-09-14'
+version_history:
+  file: regulamento-ue-2024-1366.versoes.json
+  count: 1
+  source_lastmod: '2025-09-14'
+  versions:
+  - date: '2025-09-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32024R1366
   eli: http://data.europa.eu/eli/reg_del/2024/1366/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/625f4a41-1968-11ef-a251-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/ce81b89d-9887-11f0-97c8-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024R1366-20250914
-  retrieved_at: '2026-10-22T03:20:51Z'
+  retrieved_at: '2026-10-22T17:17:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-05-24T03:08:20.669+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:51Z'
-  notes: Texto consolidado 02024R1366-20250914.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:16Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2024-1366.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -192,33 +201,20 @@ relationships:
   date: '2026-05-19'
 article_structure:
   article_count: 49
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:51Z'
-  warnings: []
+  checked_at: '2026-10-22T17:17:16Z'
+  warnings:
+  - '02024R1366-20240524: versão indisponível (Sem expressão na língua por para CELEX 02024R1366-20240524.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2024/1366 da Comissão, de 11 de março de 2024
-
-> 02024R1366 — PT — 14.09.2025 — 001.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R1759) — [REGULAMENTO DELEGADO (UE) 2025/1759 DA COMISSÃO de 19 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1759) — L 1759 — 1 — 25.8.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1366R%2804%29) — [Rectificação, JO L 90383, 19.5.2026, p. 1 ((UE) 2024/13662024/1366)](http://publications.europa.eu/resource/celex/32024R1366R%2804%29)
-
-## REGULAMENTO DELEGADO (UE) 2024/1366 DA COMISSÃO
 
 de 11 de março de 2024
 

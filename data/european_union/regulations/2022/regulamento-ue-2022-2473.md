@@ -36,6 +36,43 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-13'
+version_history:
+  file: regulamento-ue-2022-2473.versoes.json
+  count: 2
+  source_lastmod: '2023-12-13'
+  versions:
+  - date: '2023-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-13'
+    amending: eu:celex:32023R2603:por
+    amending_title: REGULAMENTO (UE) 2023/2603 DA COMISSÃO de 22 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º — Âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Efeito de incentivo
+    - Altera Artigo 7.º — Intensidade de auxílio e custos elegíveis
+    - Altera Artigo 11.º — Informação
+    - Altera Artigo 12.º — Avaliação
+    - Altera Artigo 24.º — Auxílios para a limitação do impacto da pesca no ambiente e a adaptação da pesca à proteção das
+      espécies
+    - Altera Artigo 26.º — Auxílios para a proteção e restauração da biodiversidade e dos ecossistemas marinhos e regimes
+      no quadro de atividades de pesca sustentáveis
+    - Altera Artigo 30.º — Auxílios para a pesca interior e a fauna e a flora aquáticas interiores
+    - Altera Artigo 31.º — Condições gerais
+    - Altera Artigo 36.º — Auxílios para o aumento do potencial dos sítios aquícolas
+    - Altera Artigo 38.º — Auxílios para a conversão para sistemas de ecogestão e auditoria e para a aquicultura biológica
+    - Altera Artigo 40.º — Auxílios para medidas de saúde pública
+    - Altera Artigo 42.º — Auxílios destinados à prevenção, ao controlo e à erradicação de doenças
+    - Altera Artigo 45.º — Auxílios a medidas de comercialização
+    - Altera Artigo 47.º — Auxílios à recolha, gestão, utilização e tratamento de dados no setor das pescas
+    - Altera Artigo 52.º — Auxílios aos investimentos destinados a prevenir e atenuar os danos causados por animais protegidos
+    - Altera Artigo 54.º — Auxílios para projetos de DLBC
+    - Altera Artigo 57.º — Continuação da aplicação do Regulamento (UE) n.º 1388/2014
+    - Altera a facultar através do sistema de notificação eletrónica existente da Comissão, tal como previsto no artigo 11.º
+    - Altera Disposições aplicáveis à publicação das informações a que se refere o artigo 9.º, n.º 1
+    - Altera Notas
 identifiers:
   celex: 32022R2473
   eli: http://data.europa.eu/eli/reg/2022/2473/oj
@@ -50,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3a4ff73c-80d2-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/0d70c812-a040-11ee-b164-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2473-20231213
-  retrieved_at: '2026-10-22T03:20:17Z'
+  retrieved_at: '2026-10-22T17:16:13Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T22:07:54.896+02:00'
 integrity:
@@ -59,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:17Z'
-  notes: Texto consolidado 02022R2473-20231213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:13Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2022-2473.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -287,30 +324,20 @@ relationships:
   date: '2024-11-14'
 article_structure:
   article_count: 59
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:17Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:13Z'
+  warnings:
+  - '02022R2473-20221221: versão indisponível (Sem expressão na língua por para CELEX 02022R2473-20221221.)'
   errors: []
 ---
 
 # Regulamento (UE) 2022/2473 da Comissão, de 14 de dezembro de 2022
-
-> 02022R2473 — PT — 13.12.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R1315) — [REGULAMENTO (UE) 2023/1315 DA COMISSÃO de 23 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1315) — L 167 — 1 — 30.6.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023R2603) — [REGULAMENTO (UE) 2023/2603 DA COMISSÃO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2603) — L — 1 — 23.11.2023
-
-## REGULAMENTO (UE) 2022/2473 DA COMISSÃO
 
 de 14 de dezembro de 2022
 

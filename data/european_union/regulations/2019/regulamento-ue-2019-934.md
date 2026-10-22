@@ -38,6 +38,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-29'
+version_history:
+  file: regulamento-ue-2019-934.versoes.json
+  count: 5
+  source_lastmod: '2024-12-29'
+  versions:
+  - date: '2019-06-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-27'
+    amending: eu:celex:32020R0565:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2020/565 DA COMISSÃO de 13 de fevereiro de 2020
+    changes:
+    - Altera Artigo 4.º — Utilização experimental de novas práticas enológicas
+    - Altera Artigo 9.º — Requisitos de pureza e especificações das substâncias utilizadas nas práticas enológicas
+    - Altera Artigo 14.º — Eliminação de subprodutos
+    - Altera Artigo 15.º — Disposições transitórias
+    - Altera PRÁTICAS ENOLÓGICAS AUTORIZADAS
+    - Altera Ácido L-(+) -tartárico e produtos derivados
+    - Altera A. TEOR DE DIÓXIDO DE ENXOFRE DOS VINHOS
+    - Altera Lista das castas que podem ser utilizadas na constituição de vinhos de base destinados à elaboração de vinhos
+      espumantes de qualidade aromáticos e de vinhos espumantes de qualidade aromáticos com denominação de origem protegida
+    - Altera Notas
+  - date: '2022-01-30'
+    amending: eu:celex:32022R0016:por
+    amending_title: M2
+    changes:
+    - Altera Artigo 4.º — Utilização experimental de novas práticas enológicas
+    - Altera Artigo 9.º — Requisitos de pureza e especificações das substâncias utilizadas nas práticas enológicas
+    - Altera Artigo 14.º — Eliminação de subprodutos
+    - Altera PRÁTICAS ENOLÓGICAS AUTORIZADAS
+    - Altera B. LISTA DOS VINHOS LICOROSOS COM DENOMINAÇÃO DE ORIGEM PROTEGIDA CUJA ELABORAÇÃO INCLUI A ADIÇÃO DOS PRODUTOS
+      REFERIDOS NO ANEXO VII, PARTE II, PONTO 3, ALÍNEA f), DO REGULAMENTO (UE) N.º 1308/2013
+    - Altera Notas
+    - Suprime 1. Lista dos vinhos licorosos com denominação de origem protegida cuja elaboração inclui a adição de álcool
+      de vinho ou de uvas secas com título alcoométrico igual ou superior a 95 % vol e igual ou inferior a 96 % vol
+    - Suprime 2. Lista dos vinhos licorosos com denominação de origem protegida cuja elaboração inclui a adição de aguardente
+      vínica ou bagaceira com título alcoométrico igual ou superior a 52 % vol e igual ou inferior a 86 % vol
+    - Suprime 3. Lista dos vinhos licorosos com denominação de origem protegida cuja elaboração inclui a adição de aguardente
+      de uvas secas com título alcoométrico igual ou superior a 52 % vol e inferior a 94,5 % vol
+    - Suprime 4. Lista dos vinhos licorosos com denominação de origem protegida cuja elaboração inclui a adição de mosto de
+      uvas parcialmente fermentado proveniente de uvas passas
+    - Suprime 5. Lista dos vinhos licorosos com denominação de origem protegida cuja elaboração inclui a adição de mosto de
+      uvas concentrado obtido pela ação direta do calor que corresponda, com exceção desta operação, à definição de mosto
+      de uvas concentrado
+    - Suprime 6. Lista dos vinhos licorosos com denominação de origem protegida cuja elaboração inclui a adição de mosto de
+      uvas concentrado
+  - date: '2022-02-08'
+    amending: eu:celex:32022R0068:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/68 DA COMISSÃO de 27 de outubro de 2021
+    changes:
+    - Altera Artigo 4.º — Utilização experimental de novas práticas enológicas
+    - Altera Artigo 9.º — Requisitos de pureza e especificações das substâncias utilizadas nas práticas enológicas
+    - Altera Artigo 14.º — Eliminação de subprodutos
+    - Altera PRÁTICAS ENOLÓGICAS AUTORIZADAS
+    - Altera Ácido L-(+) -tartárico e produtos derivados
+    - Altera 2. REQUISITOS APLICÁVEIS À UTILIZAÇÃO DAS MEMBRANAS
+    - Altera PUREZA
+    - Altera Requisitos aplicáveis ao tratamento de correção do teor alcoólico dos vinhos
+    - Altera Requisitos aplicáveis ao tratamento de vinhos por tecnologia de membranas acopladas a carvão ativado para reduzir
+      o excesso de 4-etilfenol e 4-etilguaiacol
+    - Altera A. TEOR DE DIÓXIDO DE ENXOFRE DOS VINHOS
+    - Altera A. Vinhos licorosos
+    - Altera A. LISTA DOS VINHOS LICOROSOS COM DENOMINAÇÃO DE ORIGEM PROTEGIDA CUJA ELABORAÇÃO INCLUI A UTILIZAÇÃO DE MOSTO
+      DE UVAS OU A MISTURA DESTE PRODUTO COM VINHO
+    - Altera B. LISTA DOS VINHOS LICOROSOS COM DENOMINAÇÃO DE ORIGEM PROTEGIDA CUJA ELABORAÇÃO INCLUI A ADIÇÃO DOS PRODUTOS
+      REFERIDOS NO ANEXO VII, PARTE II, PONTO 3, ALÍNEA f), DO REGULAMENTO (UE) N.º 1308/2013
+    - Altera Lista das castas que podem ser utilizadas na elaboração dos vinhos licorosos com denominação de origem protegida
+      que fazem uso das menções tradicionais específicas «vino dulce natural», «vino dolce naturale», «vinho doce natural»
+      e «οινος γλυκυς φυσικος»
+    - Altera Notas
+    - Adita Artigo 2.º — Zonas vitícolas cujos vinhos podem ter um título alcoométrico total máximo de 20% vol.
+    - Suprime Artigo 2.º — Zonas vitícolas cujos vinhos podem ter um título alcoométrico total máximo de 20 % vol.
+  - date: '2024-12-29'
+    amending: eu:celex:32024R3085:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3085 DA COMISSÃO de 30 de setembro de 2024
+    changes:
+    - Altera Artigo 4.º — Utilização experimental de novas práticas enológicas
+    - Altera Artigo 9.º — Requisitos de pureza e especificações das substâncias utilizadas nas práticas enológicas
+    - Altera Artigo 14.º — Eliminação de subprodutos
+    - Altera PRÁTICAS ENOLÓGICAS AUTORIZADAS
+    - Altera A. TEOR DE DIÓXIDO DE ENXOFRE DOS VINHOS
+    - Altera B. Vinhos licorosos com denominação de origem protegida (disposições não previstas na secção A do presente anexo,
+      relativas a estes vinhos licorosos, em concreto)
+    - Altera A. LISTA DOS VINHOS LICOROSOS COM DENOMINAÇÃO DE ORIGEM PROTEGIDA CUJA ELABORAÇÃO INCLUI A UTILIZAÇÃO DE MOSTO
+      DE UVAS OU A MISTURA DESTE PRODUTO COM VINHO
+    - Altera B. LISTA DOS VINHOS LICOROSOS COM DENOMINAÇÃO DE ORIGEM PROTEGIDA CUJA ELABORAÇÃO INCLUI A ADIÇÃO DOS PRODUTOS
+      REFERIDOS NO ANEXO VII, PARTE II, PONTO 3, ALÍNEA f), DO REGULAMENTO (UE) N.º 1308/2013
+    - Altera Notas
+    - Adita C. LISTA DE VINHOS LICOROSOS COM DENOMINAÇÃO DE ORIGEM PROTEGIDA, CUJO TÍTULO ALCOOMÉTRICO VOLÚMICO ADQUIRIDO
+      DE VINHO ENVELHECIDO SEJA IGUAL OU SUPERIOR A 14 % VOL. E INFERIOR A 15 % VOL.
+    - Adita Lista dos vinhos licorosos com denominação de origem protegida com título alcoométrico volúmico total inferior
+      a 17,5 % vol., mas não inferior a 15 % vol
+    - Suprime Apêndice 10
+    - Suprime Requisitos aplicáveis ao tratamento de vinhos por tecnologia de membranas acopladas a carvão ativado para reduzir
+      o excesso de 4-etilfenol e 4-etilguaiacol
+    - Suprime Lista dos vinhos licorosos com denominação de origem protegida com título alcoométrico volúmico total inferior
+      a 17,5 % vol, mas não inferior a 15 % vol, conforme expressamente previsto na legislação nacional que lhes era aplicável
+      antes de 1 de janeiro de 1985
 identifiers:
   celex: 32019R0934
   eli: http://data.europa.eu/eli/reg_del/2019/934/oj
@@ -52,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c987d15e-88ff-11e9-9369-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/71b1158b-d7e8-11ef-be2a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0934-20241229
-  retrieved_at: '2026-10-22T03:19:13Z'
+  retrieved_at: '2026-10-22T17:08:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T14:21:26.406+01:00'
 integrity:
@@ -61,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:13Z'
-  notes: Texto consolidado 02019R0934-20241229.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:43Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2019-934.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,37 +341,19 @@ relationships:
   date: '2009-07-31'
 article_structure:
   article_count: 17
-  section_count: 71
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 72
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:13Z'
+  checked_at: '2026-10-22T17:08:43Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2019/934 da Comissão, de 12 de março de 2019
-
-> 02019R0934 — PT — 29.12.2024 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0565) — [REGULAMENTO DELEGADO (UE) 2020/565 DA COMISSÃO de 13 de fevereiro de 2020](http://publications.europa.eu/resource/celex/32020R0565) — L 129 — 1 — 24.4.2020
-- [M2](http://publications.europa.eu/resource/celex/32022R0016) — [REGULAMENTO DELEGADO (UE) 2022/16 DA COMISSÃO de 22 de outubro de 2021](http://publications.europa.eu/resource/celex/32022R0016) — L 5 — 1 — 10.1.2022
-- [►M3](http://publications.europa.eu/resource/celex/32022R0068) — [REGULAMENTO DELEGADO (UE) 2022/68 DA COMISSÃO de 27 de outubro de 2021](http://publications.europa.eu/resource/celex/32022R0068) — L 12 — 1 — 19.1.2022
-- [►M4](http://publications.europa.eu/resource/celex/32024R3085) — [REGULAMENTO DELEGADO (UE) 2024/3085 DA COMISSÃO de 30 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R3085) — L 3085 — 1 — 9.12.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0934R%2801%29) — [Rectificação, JO L 195, 23.7.2019, p. 47 (2019/934)](http://publications.europa.eu/resource/celex/32019R0934R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32019R0934R%2802%29) — [Rectificação, JO L 289, 8.11.2019, p. 59 (2019/934)](http://publications.europa.eu/resource/celex/32019R0934R%2802%29)
-
-## REGULAMENTO DELEGADO (UE) 2019/934 DA COMISSÃO
 
 de 12 de março de 2019
 

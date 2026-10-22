@@ -38,6 +38,284 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2019-1241.versoes.json
+  count: 15
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-07-16'
+    amending: eu:celex:32021R1160:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1160 DA COMISSÃO de 12 de maio de 2021
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/ad64ec59-f477-11eb-aeb9-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/b5aa71af-6af5-11eb-aeb5-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2021-12-30'
+    amending: eu:celex:32021R2324:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/2324 DA COMISSÃO de 23 de agosto de 2021
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/b029dd5b-7de1-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/ad64ec59-f477-11eb-aeb9-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2022-02-16'
+    amending: eu:celex:32022R0199:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/199 DA COMISSÃO de 2 de dezembro de 2021; REGULAMENTO DELEGADO (UE) 2022/200
+      DA COMISSÃO de 2 de dezembro de 2021
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/d2d1fca1-aaa7-11ec-83e1-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/b029dd5b-7de1-11ec-8c40-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2022-02-26'
+    amending: eu:celex:32022R0303:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/303 DA COMISSÃO de 15 de dezembro de 2021
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/5f63b57c-db96-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/d2d1fca1-aaa7-11ec-83e1-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2022-06-01'
+    amending: eu:celex:32022R0826:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/826 DA COMISSÃO de 23 de março de 2022
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/cb597901-f1ac-11ec-a534-01aa75ed71a1.0019.02/DOC_2#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/5f63b57c-db96-11ec-a534-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2022-08-06'
+    amending: eu:celex:32022R1357:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1357 DA COMISSÃO de 25 de maio de 2022
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/c73a50e4-29f4-11ed-975d-01aa75ed71a1.0019.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/cb597901-f1ac-11ec-a534-01aa75ed71a1.0019.02/DOC_2#E0011))
+  - date: '2023-01-07'
+    amending: eu:celex:32022R2587:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2587 DA COMISSÃO de 18 de agosto de 2022; REGULAMENTO DELEGADO (UE) 2022/2588
+      DA COMISSÃO de 20 outubro 2022; REGULAMENTO DELEGADO (UE) 2023/56 DA COMISSÃO de 19 de julho de 2022
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/f47afcd3-a74b-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/c73a50e4-29f4-11ed-975d-01aa75ed71a1.0019.02/DOC_1#E0011))
+  - date: '2024-01-01'
+    amending: eu:celex:32024R0491:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/491 DA COMISSÃO de 30 de novembro de 2023; REGULAMENTO DELEGADO (UE) 2024/492
+      DA COMISSÃO de 30 de novembro de 2023
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita “ Secção 4
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/d9d53e60-db0e-11ee-b9d9-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime “Secção 4
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/f47afcd3-a74b-11ed-b508-01aa75ed71a1.0020.02/DOC_1#E0011))
+  - date: '2024-04-09'
+    amending: eu:celex:32024R1060:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1060 DA COMISSÃO de 26 de janeiro de 2024
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/5551b50c-0887-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/d9d53e60-db0e-11ee-b9d9-01aa75ed71a1.0020.02/DOC_1#E0011))
+  - date: '2024-10-11'
+    amending: eu:celex:32024R2594:por
+    amending_title: REGULAMENTO (UE) 2024/2594 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2024
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/3228bf82-cd25-11ef-be2a-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime CAPÍTULO VI
+    - Suprime MEDIDAS TÉCNICAS NA ÁREA DE REGULAMENTAÇÃO DA NEAFC
+    - Suprime Artigo 28.º — Medidas técnicas na área de regulamentação da NEAFC
+    - Suprime MAR DO NORTE ([^7^](http://publications.europa.eu/resource/cellar/5551b50c-0887-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime ANEXO XII
+    - Suprime ÁREA DE REGULAMENTAÇÃO DA NEAFC
+    - Suprime Zonas de proibição da pesca para a proteção dos habitats sensíveis
+  - date: '2025-01-01'
+    amending: eu:celex:32024R3000:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3000 DA COMISSÃO de 19 de julho de 2024; REGULAMENTO DELEGADO (UE) 2024/3089
+      DA COMISSÃO de 30 de setembro de 2024; REGULAMENTO DELEGADO (UE) 2024/3204 DA COMISSÃO de 11 de outubro de 2024; REGULAMENTO
+      DELEGADO (UE) 2025/283 DA COMISSÃO de 28 de novembro de 2024
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera Notas
+    - Adita MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/6d173f22-d9b6-11ef-be2a-01aa75ed71a1.0020.02/DOC_4#E0011))
+    - Adita 4. Medidas especiais no golfo da Biscaia (subzona CIEM 8)
+    - Suprime MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/3228bf82-cd25-11ef-be2a-01aa75ed71a1.0020.02/DOC_1#E0011))
+  - date: '2025-04-09'
+    amending: eu:celex:32024R3093:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3093 DA COMISSÃO de 13 de outubro de 2022
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera 4. Medidas especiais no golfo da Biscaia (subzona CIEM 8)
+    - Altera Notas
+    - Adita MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/ac28c623-6716-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#E0011))
+    - Suprime MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/6d173f22-d9b6-11ef-be2a-01aa75ed71a1.0020.02/DOC_4#E0011))
+  - date: '2025-08-21'
+    amending: eu:celex:32025R1719:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1719 DA COMISSÃO de 28 de maio de 2025
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera 4. Medidas especiais no golfo da Biscaia (subzona CIEM 8)
+    - Altera Notas
+    - Adita MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/33dca659-bf2c-11f0-a612-01aa75ed71a1.0020.02/DOC_2#E0011))
+    - Suprime MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/ac28c623-6716-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#E0011))
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2169:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2169 DA COMISSÃO de 16 de junho de 2025; REGULAMENTO DELEGADO (UE) 2025/2192
+      DA COMISSÃO de 6 de agosto de 2025; REGULAMENTO DELEGADO (UE) 2025/2193 DA COMISSÃO de 8 de agosto de 2025; REGULAMENTO
+      DELEGADO (UE) 2025/1726 DA COMISSÃO de 27 de junho de 2025; REGULAMENTO DELEGADO (UE) 2025/1484 DA COMISSÃO de 24 de
+      julho de 2025; REGULAMENTO DELEGADO (UE) 2025/2593 DA COMISSÃO de 11 de agosto de 2025
+    changes:
+    - Altera Artigo 5.º — Definição das zonas de pesca
+    - Altera Artigo 6.º — Definições
+    - Altera Artigo 13.º — Tamanhos mínimos de referência de conservação
+    - Altera Artigo 35.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 36.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2019/472
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) 2019/1022
+    - Altera Malhagem
+    - Altera Zonas de proibição ou restrição da pesca
+    - Altera Utilização de redes de arrasto com impulsos elétricos nas divisões CIEM 4b, 4c
+    - Altera Cetáceos
+    - Altera 4. Medidas especiais no golfo da Biscaia (subzona CIEM 8)
+    - Altera Notas
+    - Adita MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/2b99c6d4-11ef-11f1-8870-01aa75ed71a1.0020.03/DOC_2#E0011))
+    - Suprime MAR DO NORTE ([^6^](http://publications.europa.eu/resource/cellar/33dca659-bf2c-11f0-a612-01aa75ed71a1.0020.02/DOC_2#E0011))
 identifiers:
   celex: 32019R1241
   eli: http://data.europa.eu/eli/reg/2019/1241/oj
@@ -52,7 +330,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9c00d548-ae8e-11e9-9d01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/2b99c6d4-11ef-11f1-8870-01aa75ed71a1.0020.03/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1241-20260101
-  retrieved_at: '2026-10-22T02:40:01Z'
+  retrieved_at: '2026-10-22T17:10:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-02-06T08:07:21.657+01:00'
 integrity:
@@ -61,9 +339,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:01Z'
-  notes: Texto consolidado 02019R1241-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:15Z'
+  notes: 15 versão(ões); histórico completo em regulamento-ue-2019-1241.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -517,60 +795,20 @@ relationships:
   date: '2006-01-03'
 article_structure:
   article_count: 39
-  section_count: 117
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 118
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:01Z'
-  warnings: []
+  checked_at: '2026-10-22T17:10:15Z'
+  warnings:
+  - '02019R1241-20190725: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/1241 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019R1241 — PT — 01.01.2026 — 015.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R2013) — [REGULAMENTO DELEGADO (UE) 2020/2013 DA COMISSÃO de 21 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R2013) — L 415 — 3 — 10.12.2020
-- [►M2](http://publications.europa.eu/resource/celex/32021R1160) — [REGULAMENTO DELEGADO (UE) 2021/1160 DA COMISSÃO de 12 de maio de 2021](http://publications.europa.eu/resource/celex/32021R1160) — L 250 — 4 — 15.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32021R2324) — [REGULAMENTO DELEGADO (UE) 2021/2324 DA COMISSÃO de 23 de agosto de 2021](http://publications.europa.eu/resource/celex/32021R2324) — L 465 — 1 — 29.12.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R0199) — [REGULAMENTO DELEGADO (UE) 2022/199 DA COMISSÃO de 2 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0199) — L 33 — 1 — 15.2.2022
-- [►M5](http://publications.europa.eu/resource/celex/32022R0200) — [REGULAMENTO DELEGADO (UE) 2022/200 DA COMISSÃO de 2 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0200) — L 33 — 4 — 15.2.2022
-- [►M6](http://publications.europa.eu/resource/celex/32022R0303) — [REGULAMENTO DELEGADO (UE) 2022/303 DA COMISSÃO de 15 de dezembro de 2021](http://publications.europa.eu/resource/celex/32022R0303) — L 46 — 67 — 25.2.2022
-- [►M7](http://publications.europa.eu/resource/celex/32022R0826) — [REGULAMENTO DELEGADO (UE) 2022/826 DA COMISSÃO de 23 de março de 2022](http://publications.europa.eu/resource/celex/32022R0826) — L 147 — 22 — 30.5.2022
-- [►M8](http://publications.europa.eu/resource/celex/32022R1357) — [REGULAMENTO DELEGADO (UE) 2022/1357 DA COMISSÃO de 25 de maio de 2022](http://publications.europa.eu/resource/celex/32022R1357) — L 205 — 4 — 5.8.2022
-- [M9](http://publications.europa.eu/resource/celex/32022R2587) — [REGULAMENTO DELEGADO (UE) 2022/2587 DA COMISSÃO de 18 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R2587) — L 338 — 40 — 30.12.2022
-- [►M10](http://publications.europa.eu/resource/celex/32022R2588) — [REGULAMENTO DELEGADO (UE) 2022/2588 DA COMISSÃO de 20 outubro 2022](http://publications.europa.eu/resource/celex/32022R2588) — L 338 — 44 — 30.12.2022
-- [►M11](http://publications.europa.eu/resource/celex/32023R0056) — [REGULAMENTO DELEGADO (UE) 2023/56 DA COMISSÃO de 19 de julho de 2022](http://publications.europa.eu/resource/celex/32023R0056) — L 5 — 1 — 6.1.2023
-- [M12](http://publications.europa.eu/resource/celex/32024R0491) — [REGULAMENTO DELEGADO (UE) 2024/491 DA COMISSÃO de 30 de novembro de 2023](http://publications.europa.eu/resource/celex/32024R0491) — L 491 — 1 — 13.2.2024
-- [M13](http://publications.europa.eu/resource/celex/32024R0492) — [REGULAMENTO DELEGADO (UE) 2024/492 DA COMISSÃO de 30 de novembro de 2023](http://publications.europa.eu/resource/celex/32024R0492) — L 492 — 1 — 13.2.2024
-- [►M14](http://publications.europa.eu/resource/celex/32024R1060) — [REGULAMENTO DELEGADO (UE) 2024/1060 DA COMISSÃO de 26 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R1060) — L 1060 — 1 — 8.4.2024
-- [►M15](http://publications.europa.eu/resource/celex/32024R2594) — [REGULAMENTO (UE) 2024/2594 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R2594) — L 2594 — 1 — 8.10.2024
-- [►M16](http://publications.europa.eu/resource/celex/32024R3000) — [REGULAMENTO DELEGADO (UE) 2024/3000 DA COMISSÃO de 19 de julho de 2024](http://publications.europa.eu/resource/celex/32024R3000) — L 3000 — 1 — 3.12.2024
-- [M17](http://publications.europa.eu/resource/celex/32024R3089) — [REGULAMENTO DELEGADO (UE) 2024/3089 DA COMISSÃO de 30 de setembro de 2024](http://publications.europa.eu/resource/celex/32024R3089) — L 3089 — 1 — 9.12.2024
-- [►M18](http://publications.europa.eu/resource/celex/32024R3093) — [REGULAMENTO DELEGADO (UE) 2024/3093 DA COMISSÃO de 13 de outubro de 2022](http://publications.europa.eu/resource/celex/32024R3093) — L 3093 — 1 — 10.12.2024
-- [M19](http://publications.europa.eu/resource/celex/32024R3204) — [REGULAMENTO DELEGADO (UE) 2024/3204 DA COMISSÃO de 11 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R3204) — L 3204 — 1 — 31.12.2024
-- [M20](http://publications.europa.eu/resource/celex/32025R0283) — [REGULAMENTO DELEGADO (UE) 2025/283 DA COMISSÃO de 28 de novembro de 2024](http://publications.europa.eu/resource/celex/32025R0283) — L 283 — 1 — 10.2.2025
-- [►M21](http://publications.europa.eu/resource/celex/32025R1719) — [REGULAMENTO DELEGADO (UE) 2025/1719 DA COMISSÃO de 28 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1719) — L 1719 — 1 — 1.8.2025
-- [►M22](http://publications.europa.eu/resource/celex/32025R2169) — [REGULAMENTO DELEGADO (UE) 2025/2169 DA COMISSÃO de 16 de junho de 2025](http://publications.europa.eu/resource/celex/32025R2169) — L 2169 — 1 — 27.10.2025
-- [►M23](http://publications.europa.eu/resource/celex/32025R2192) — [REGULAMENTO DELEGADO (UE) 2025/2192 DA COMISSÃO de 6 de agosto de 2025](http://publications.europa.eu/resource/celex/32025R2192) — L 2192 — 1 — 29.10.2025
-- [►M24](http://publications.europa.eu/resource/celex/32025R2193) — [REGULAMENTO DELEGADO (UE) 2025/2193 DA COMISSÃO de 8 de agosto de 2025](http://publications.europa.eu/resource/celex/32025R2193) — L 2193 — 1 — 29.10.2025
-- [►M25](http://publications.europa.eu/resource/celex/32025R1726) — [REGULAMENTO DELEGADO (UE) 2025/1726 DA COMISSÃO de 27 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1726) — L 1726 — 1 — 30.10.2025
-- [►M26](http://publications.europa.eu/resource/celex/32025R1484) — [REGULAMENTO DELEGADO (UE) 2025/1484 DA COMISSÃO de 24 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1484) — L 1484 — 1 — 23.12.2025
-- [►M27](http://publications.europa.eu/resource/celex/32025R2593) — [REGULAMENTO DELEGADO (UE) 2025/2593 DA COMISSÃO de 11 de agosto de 2025](http://publications.europa.eu/resource/celex/32025R2593) — L 2593 — 1 — 23.12.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1241R%2802%29) — [Rectificação, JO L 231, 6.9.2019, p. 31 (2019/1241)](http://publications.europa.eu/resource/celex/32019R1241R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R1241R%2804%29) — [Rectificação, JO L 90689, 29.8.2025, p. 1 (2019/1241)](http://publications.europa.eu/resource/celex/32019R1241R%2804%29)
-
-## REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

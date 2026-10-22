@@ -37,6 +37,38 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-18'
+version_history:
+  file: diretiva-ue-2022-2464.versoes.json
+  count: 3
+  source_lastmod: '2026-03-18'
+  versions:
+  - date: '2022-12-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-04-17'
+    amending: eu:celex:32025L0794:por
+    amending_title: DIRETIVA (UE) 2025/794 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de abril de 2025
+    changes:
+    - Altera Artigo 1.º — Alteração da Diretiva 2013/34/UE
+    - Altera NORMAS DE RELATO DE SUSTENTABILIDADE
+    - Altera FORMATO ELETRÓNICO ÚNICO DE COMUNICAÇÃO DE INFORMAÇÕES
+    - Altera Artigo 2.º — Alteração da Diretiva 2004/109/CE
+    - Altera Artigo 3.º — Alteração da Diretiva 2006/43/CE
+    - Altera Artigo 5.º — Transposição
+    - Altera Notas
+  - date: '2026-03-18'
+    amending: eu:celex:32026L0470:por
+    amending_title: DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 1.º — Alteração da Diretiva 2013/34/UE
+    - Altera NORMAS DE RELATO DE SUSTENTABILIDADE
+    - Altera FORMATO ELETRÓNICO ÚNICO DE COMUNICAÇÃO DE INFORMAÇÕES
+    - Altera Artigo 2.º — Alteração da Diretiva 2004/109/CE
+    - Altera Artigo 3.º — Alteração da Diretiva 2006/43/CE
+    - Altera Artigo 5.º — Transposição
+    - Altera Artigo 6.º — Revisão e apresentação de relatórios
+    - Altera Notas
 identifiers:
   celex: 32022L2464
   eli: http://data.europa.eu/eli/dir/2022/2464/oj
@@ -51,7 +83,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/59e70288-7ce5-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/37c35a2b-2255-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022L2464-20260318
-  retrieved_at: '2026-10-22T03:20:09Z'
+  retrieved_at: '2026-10-22T17:15:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T23:57:19.819+02:00'
 integrity:
@@ -60,9 +92,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:09Z'
-  notes: Texto consolidado 02022L2464-20260318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:41Z'
+  notes: 3 versão(ões); histórico completo em diretiva-ue-2022-2464.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -391,35 +423,19 @@ relationships:
   date: '2026-07-01'
 article_structure:
   article_count: 8
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:09Z'
+  checked_at: '2026-10-22T17:15:41Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2022/2464 do Parlamento Europeu e do Conselho de 14 de dezembro de 2022
-
-> 02022L2464 — PT — 18.03.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025L0794) — [DIRETIVA (UE) 2025/794 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de abril de 2025](http://publications.europa.eu/resource/celex/32025L0794) — L 794 — 1 — 16.4.2025
-- [►M2](http://publications.europa.eu/resource/celex/32026L0470) — [DIRETIVA (UE) 2026/470 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026L0470) — L 470 — 1 — 26.2.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022L2464R%2801%29) — [Rectificação, JO L 056, 23.2.2023, p. 31 ((UE) 2022/2464)](http://publications.europa.eu/resource/celex/32022L2464R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32022L2464R%2808%29) — [Rectificação, JO L 90790, 8.10.2025, p. 1 (2022/2464)](http://publications.europa.eu/resource/celex/32022L2464R%2808%29)
-
-## DIRETIVA (UE) 2022/2464 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de dezembro de 2022
 

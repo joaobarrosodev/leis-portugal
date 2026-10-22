@@ -36,6 +36,50 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-09'
+version_history:
+  file: regulamento-ue-2020-1056.versoes.json
+  count: 2
+  source_lastmod: '2025-01-09'
+  versions:
+  - date: '2024-05-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-09'
+    amending: eu:celex:32024R2025:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2025 DA COMISSÃO de 15 de julho de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera PARTE A — Requisitos de informações regulamentares a que se refere o artigo 2.º, n.º 1, alínea b)
+    - Altera PARTE B — Direito nacional
+    - Altera Notas
+    - Adita Áustria
+    - Adita Bélgica
+    - Adita Bulgária
+    - Adita Croácia
+    - Adita Chipre
+    - Adita Chéquia
+    - Adita Dinamarca
+    - Adita Estónia
+    - Adita Finlândia
+    - Adita França
+    - Adita Alemanha
+    - Adita Grécia
+    - Adita Hungria
+    - Adita Irlanda
+    - Adita Itália
+    - Adita Letónia
+    - Adita Lituânia
+    - Adita Luxemburgo
+    - Adita Malta
+    - Adita Polónia
+    - Adita Portugal
+    - Adita Roménia
+    - Adita Eslováquia
+    - Adita Eslovénia
+    - Adita Espanha
+    - Adita Suécia
+    - Adita Países Baixos
 identifiers:
   celex: 32020R1056
   eli: http://data.europa.eu/eli/reg/2020/1056/oj
@@ -50,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6a3c7c7d-d2f9-11ea-adf7-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a3535dea-e316-11ef-be2a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R1056-20250109
-  retrieved_at: '2026-10-22T03:19:31Z'
+  retrieved_at: '2026-10-22T17:11:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T23:19:18.876+02:00'
 integrity:
@@ -59,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:31Z'
-  notes: Texto consolidado 02020R1056-20250109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:11:39Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2020-1056.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -206,30 +250,20 @@ relationships:
   date: '2026-02-11'
 article_structure:
   article_count: 18
-  section_count: 47
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:31Z'
-  warnings: []
+  checked_at: '2026-10-22T17:11:39Z'
+  warnings:
+  - '02020R1056-20200731: versão indisponível (Sem expressão na língua por para CELEX 02020R1056-20200731.)'
   errors: []
 ---
 
 # Regulamento (EU) 2020/1056 do Parlamento Europeu e do Conselho, de 15 de julho de 2020
-
-> 02020R1056 — PT — 09.01.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R1157) — [REGULAMENTO (UE) 2024/1157 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1157) — L 1157 — 1 — 30.4.2024
-- [►M2](http://publications.europa.eu/resource/celex/32024R2025) — [REGULAMENTO DELEGADO (UE) 2024/2025 DA COMISSÃO de 15 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2025) — L 2025 — 1 — 20.12.2024
-
-## REGULAMENTO (EU) 2020/1056 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 15 de julho de 2020
 

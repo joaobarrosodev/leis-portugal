@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-18'
+version_history:
+  file: regulamento-ue-2023-2122.versoes.json
+  count: 1
+  source_lastmod: '2023-10-18'
+  versions:
+  - date: '2023-10-18'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32023R2122
   eli: http://data.europa.eu/eli/reg_impl/2023/2122/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9a1ba17a-6d4f-11ee-9220-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/dd3cee91-a5dc-11ee-b164-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R2122-20231018
-  retrieved_at: '2026-10-22T03:20:29Z'
+  retrieved_at: '2026-10-22T17:16:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2023-10-19T14:22:37.126+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:29Z'
-  notes: Texto consolidado 02023R2122-20231018.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:45Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2023-2122.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,29 +194,19 @@ relationships:
   date: '2023-12-19'
 article_structure:
   article_count: 2
-  section_count: 34
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 35
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:29Z'
+  checked_at: '2026-10-22T17:16:45Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2023/2122 da Comissão, de 17 de outubro de 2023
-
-> 02023R2122 — PT — 18.10.2023 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R2122R%2801%29) — [Rectificação, JO L, 19.10.2023, p. 1 ((UE) 2023/21222023/2122)](http://publications.europa.eu/resource/celex/32023R2122R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2023/2122 DA COMISSÃO
 
 de [**►C1**](http://publications.europa.eu/resource/celex/32023R2122R%2801%29) 17 de outubro de 2023 **◄**
 

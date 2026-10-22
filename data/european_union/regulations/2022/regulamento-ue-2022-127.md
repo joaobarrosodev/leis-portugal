@@ -37,6 +37,124 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-07'
+version_history:
+  file: regulamento-ue-2022-127.versoes.json
+  count: 6
+  source_lastmod: '2026-08-07'
+  versions:
+  - date: '2022-01-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-13'
+    amending: eu:celex:32023R0057:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/57 DA COMISSÃO de 31 de outubro de 2022; REGULAMENTO DELEGADO (UE) 2023/1309
+      DA COMISSÃO de 26 de abril de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Condições de acreditação dos organismos pagadores
+    - Altera Artigo 5.º — Incumprimento da data-limite de pagamento
+    - Altera Artigo 16.º — Âmbito de aplicação
+    - Altera Artigo 24.º — Execução de garantias
+    - Altera Artigo 28.º — Liberação de garantias
+    - Altera Artigo 37.º — Determinação da taxa de câmbio
+    - Altera Artigo 39.º — Disposições transitórias
+    - Altera Artigo 40.º — Revogações
+    - Altera Artigo 41.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita CAPÍTULO III-A
+    - Adita Condições específicas para o pagamento de adiantamentos
+    - Adita Artigo 15.º-A — Condições específicas para o pagamento dos adiantamentos a que se refere o artigo 44.º, n.º 3-A,
+      do Regulamento (UE) 2021/2116
+    - Adita Artykuł 27 — Zakres
+    - Adita Artigo 31.º-A — Programas apícolas
+    - Adita ANEXO I
+    - Adita Critérios de acreditação dos organismos pagadores, a que se refere o artigo 1.º, n.º 2
+    - Adita 1. ORGANIZAÇÃO INTERNA
+    - Adita 2. ATIVIDADES DE CONTROLO
+    - Adita 3. INFORMAÇÃO E COMUNICAÇÃO
+    - Adita 4. ACOMPANHAMENTO
+    - Adita ANEXO II
+    - Adita Critérios de acreditação aplicáveis aos organismos de coordenação a que se refere o artigo 2.º, n.º 3, no respeitante
+      à compilação dos relatórios anuais de desempenho
+    - Adita 1. INFORMAÇÃO E COMUNICAÇÃO
+    - Adita ANEXO III
+    - Adita Obrigações dos organismos pagadores, a que se refere o artigo 3.º, n.º 1
+    - Adita I. OBRIGAÇÕES DOS ORGANISMOS PAGADORES
+    - Adita ANEXO IV
+    - Adita Obrigações e princípios gerais relacionados com as responsabilidades dos armazenistas, a incluir no contrato de
+      armazenagem estabelecido entre organismos pagadores e armazenistas, a que se refere o artigo 3.º, n.º 2
+    - Adita I. OBRIGAÇÕES GERAIS DOS ARMAZENISTAS
+    - Adita II. QUALIDADE DOS PRODUTOS
+    - Adita III. QUANTIDADES EM FALTA
+    - Adita IV. DOCUMENTOS COMPROVATIVOS E DECLARAÇÕES MENSAIS E ANUAL
+    - Adita V. CONTABILIDADE INFORMATIZADA DAS EXISTÊNCIAS E DISPONIBILIZAÇÃO DE INFORMAÇÕES
+    - Adita VI. FORMA E TEOR DOS DOCUMENTOS TRANSMITIDOS AO ORGANISMO PAGADOR
+    - Adita VII. CONSERVAÇÃO DE DOCUMENTOS
+    - Adita ANEXO V
+    - Adita Limites de tolerância, a que se refere o artigo 4.º, n.º 2
+    - Suprime Artigo 27.º — Âmbito de aplicação
+  - date: '2023-07-21'
+    amending: eu:celex:32023R1448:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1448 DA COMISSÃO de 10 de maio de 2023
+    changes:
+    - Altera Artigo 1.º — Condições de acreditação dos organismos pagadores
+    - Altera Artigo 16.º — Âmbito de aplicação
+    - Altera Artigo 37.º — Determinação da taxa de câmbio
+    - Altera Artigo 40.º — Revogações
+    - Altera I. OBRIGAÇÕES DOS ORGANISMOS PAGADORES
+    - Altera Notas
+    - Adita Artigo 15.º-B — Condições específicas para o pagamento dos adiantamentos a que se refere o artigo 44.º, n.º 3-B,
+      do Regulamento (UE) 2021/2116
+    - Adita Artigo 28.º
+    - Adita Liberação e execução de garantias
+    - Suprime Artigo 28.º — Liberação de garantias
+  - date: '2025-02-13'
+    amending: eu:celex:32025R0310:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/310 DA COMISSÃO de 5 de dezembro de 2024
+    changes:
+    - Altera Artigo 1.º — Condições de acreditação dos organismos pagadores
+    - Altera Artigo 13.º — Critérios e metodologia para a aplicação de reduções no quadro do apuramento do desempenho
+    - Altera Artigo 14.º — Critérios e metodologia para a aplicação de correções no quadro do procedimento de apuramento da
+      conformidade das despesas não abrangidas pelo Regulamento (UE) 2021/2115 ou para o pagamento específico para o algodão
+      e para o apoio à reforma antecipada
+    - Altera Artigo 15.º — Critérios e metodologia para a aplicação de correções no quadro do procedimento de apuramento da
+      conformidade das despesas no âmbito do Regulamento (UE) 2021/2115
+    - Altera Artigo 16.º — Âmbito de aplicação
+    - Altera Liberação e execução de garantias
+    - Altera Artigo 37.º — Determinação da taxa de câmbio
+    - Altera Artigo 40.º — Revogações
+    - Altera I. OBRIGAÇÕES DOS ORGANISMOS PAGADORES
+    - Altera Notas
+  - date: '2026-03-29'
+    amending: eu:celex:32026R0129:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/129 DA COMISSÃO de 21 de janeiro de 2026
+    changes:
+    - Altera Artigo 1.º — Condições de acreditação dos organismos pagadores
+    - Altera Artigo 2.º — Condições de acreditação dos organismos de coordenação
+    - Altera Artigo 5.º — Incumprimento da data-limite de pagamento
+    - Altera Artigo 16.º — Âmbito de aplicação
+    - Altera Liberação e execução de garantias
+    - Altera Artigo 37.º — Determinação da taxa de câmbio
+    - Altera Artigo 40.º — Revogações
+    - Altera 1. ORGANIZAÇÃO INTERNA
+    - Altera I. OBRIGAÇÕES DOS ORGANISMOS PAGADORES
+    - Altera Notas
+    - Suprime Artigo 11.º — Suspensão de pagamentos no âmbito do apuramento do desempenho
+    - Suprime Artigo 13.º — Critérios e metodologia para a aplicação de reduções no quadro do apuramento do desempenho
+  - date: '2026-08-07'
+    amending: eu:celex:32026R1160:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1160 DA COMISSÃO de 28 de maio de 2026
+    changes:
+    - Altera Artigo 1.º — Condições de acreditação dos organismos pagadores
+    - Altera Artigo 15.º-A — Condições específicas para o pagamento dos adiantamentos a que se refere o artigo 44.º, n.º 3-A,
+      do Regulamento (UE) 2021/2116
+    - Altera Artigo 16.º — Âmbito de aplicação
+    - Altera Liberação e execução de garantias
+    - Altera Artigo 37.º — Determinação da taxa de câmbio
+    - Altera Artigo 40.º — Revogações
+    - Altera I. OBRIGAÇÕES DOS ORGANISMOS PAGADORES
+    - Altera Notas
 identifiers:
   celex: 32022R0127
   eli: http://data.europa.eu/eli/reg_del/2022/127/oj
@@ -51,7 +169,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62410e54-8239-11ec-8c40-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/282c02ec-ac75-11f1-b9e5-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R0127-20260807
-  retrieved_at: '2026-10-22T02:41:56Z'
+  retrieved_at: '2026-10-22T17:15:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T13:47:12.930+02:00'
 integrity:
@@ -60,9 +178,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:56Z'
-  notes: Texto consolidado 02022R0127-20260807.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:53Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2022-127.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -213,35 +331,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/a7c47846-2e80-11e4-8c3c-01aa75ed71a1
   date: '2014-08-28'
 article_structure:
-  article_count: 42
-  section_count: 45
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 41
+  section_count: 48
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:56Z'
+  checked_at: '2026-10-22T17:15:53Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2022/127 da Comissão de 7 de dezembro de 2021
-
-> 02022R0127 — PT — 07.08.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0057) — [REGULAMENTO DELEGADO (UE) 2023/57 DA COMISSÃO de 31 de outubro de 2022](http://publications.europa.eu/resource/celex/32023R0057) — L 5 — 7 — 6.1.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023R1309) — [REGULAMENTO DELEGADO (UE) 2023/1309 DA COMISSÃO de 26 de abril de 2023](http://publications.europa.eu/resource/celex/32023R1309) — L 162 — 3 — 28.6.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R1448) — [REGULAMENTO DELEGADO (UE) 2023/1448 DA COMISSÃO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1448) — L 179 — 2 — 14.7.2023
-- [►M4](http://publications.europa.eu/resource/celex/32025R0310) — [REGULAMENTO DELEGADO (UE) 2025/310 DA COMISSÃO de 5 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0310) — L 310 — 1 — 12.2.2025
-- [►M5](http://publications.europa.eu/resource/celex/32026R0129) — [REGULAMENTO DELEGADO (UE) 2026/129 DA COMISSÃO de 21 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0129) — L 129 — 1 — 26.3.2026
-- [►M6](http://publications.europa.eu/resource/celex/32026R1160) — [REGULAMENTO DELEGADO (UE) 2026/1160 DA COMISSÃO de 28 de maio de 2026](http://publications.europa.eu/resource/celex/32026R1160) — L 1160 — 1 — 6.8.2026
-
-## REGULAMENTO DELEGADO (UE) 2022/127 DA COMISSÃO
 
 de 7 de dezembro de 2021
 

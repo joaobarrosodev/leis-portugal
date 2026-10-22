@@ -38,6 +38,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-08-14'
+version_history:
+  file: regulamento-ue-2020-1070.versoes.json
+  count: 2
+  source_lastmod: '2024-08-14'
+  versions:
+  - date: '2020-07-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-08-14'
+    amending: eu:celex:32024R2000:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2000 DA COMISSÃO de 24 de julho de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 3.º
+    - Altera Artigo 4.º
+    - Altera Artigo 5.º
+    - Adita ANEXO
+    - Adita A. Condições referidas no artigo 3.º, n.º 1, alínea b)
+    - Adita B. Requisitos da norma europeia referidos no artigo 3.º, n.º 1
+    - Suprime Notas
 identifiers:
   celex: 32020R1070
   eli: http://data.europa.eu/eli/reg_impl/2020/1070/oj
@@ -52,7 +74,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/ceee30c5-5f30-11ef-a8ba-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R1070-20240814
-  retrieved_at: '2026-10-22T03:19:31Z'
+  retrieved_at: '2026-10-22T17:11:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T22:02:24.006+02:00'
 integrity:
@@ -61,9 +83,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:31Z'
-  notes: Texto consolidado 02020R1070-20240814.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:11:41Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2020-1070.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -106,28 +128,18 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 3
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:31Z'
+  checked_at: '2026-10-22T17:11:41Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2020/1070 da Comissão de 20 de julho de 2020
-
-> 02020R1070 — PT — 14.08.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R2000) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2000 DA COMISSÃO de 24 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2000) — L 2000 — 1 — 25.7.2024
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2020/1070 DA COMISSÃO
 
 de 20 de julho de 2020
 

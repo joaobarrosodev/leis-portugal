@@ -1,0 +1,83 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D0075:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D0075-20260114",
+ "dre_path": null,
+ "source_lastmod": "2026-01-14",
+ "versions": [
+  {
+   "date": "2026-01-14",
+   "future": false,
+   "celex": "02026D0075-20260114",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "9576cbe93b1db406",
+    "0967f0f578e86759",
+    "d8c2324a576d98d0",
+    "b87fdfe5d2bc19c0",
+    "5448f5adab7d6791",
+    "10220b9774fa9034",
+    "eae1f58a7671ff95"
+   ]
+  }
+ ],
+ "fragments": {
+  "9576cbe93b1db406": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 12 de janeiro de 2026\n\nrelativa à equivalência de material de propagação de fruteiras e de fruteiras, destinados à produção de frutos, produzidos em determinados países terceiros, no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, modalidades de inspeção, rotulagem, selagem e embalagem\n\n*[notificada com o número C(2026) 30]*"
+  },
+  "0967f0f578e86759": {
+   "fragment_id": "Artigo 1.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Definições\n\nPara efeitos da presente decisão, entende-se por:\n\n1) «País terceiro especificado», um país terceiro enumerado no anexo;\n\n2) «Material de propagação especificado», o material de propagação produzido nos países terceiros especificados que tenha sido reconhecido, em relação aos respetivos géneros ou espécies, como equivalente ao material de propagação produzido na União em conformidade com a Diretiva de Execução 2014/98/UE;\n\n3) «Fruteiras especificadas», as fruteiras produzidas nos países terceiros especificados que tenham sido reconhecidas, em relação aos respetivos géneros ou espécies, como equivalentes às fruteiras produzidas na União em conformidade com a Diretiva de Execução 2014/98/UE;\n\n4) «Categoria», a categoria na aceção do artigo 1.º, ponto 10), da Diretiva de Execução 2014/98/UE."
+  },
+  "d8c2324a576d98d0": {
+   "fragment_id": "Artigo 2.º — Equivalência do material de propagação e das fruteiras",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Equivalência do material de propagação e das fruteiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Equivalência do material de propagação e das fruteiras\n\nO material de propagação especificado e as fruteiras especificadas destinados à produção de frutos produzidos nos países terceiros especificados e pertencentes aos respetivos géneros ou espécies e categorias, tal como indicados no anexo, são equivalentes aos materiais de propagação de fruteiras e às fruteiras destinados à produção de frutos produzidos na União e cumprem o disposto na Diretiva 2008/90/CE do Conselho na medida em que oferecem as mesmas garantias no que diz respeito às obrigações do fornecedor, identidade, características, estado fitossanitário, meio de cultura, embalagem, modalidades de inspeção, marcação e selagem, desde que esse material e essas fruteiras produzidos nesses países terceiros continuem a estar conformes com a referida diretiva e os seus atos de execução."
+  },
+  "b87fdfe5d2bc19c0": {
+   "fragment_id": "Artigo 3.º — Requisitos aplicáveis às importações de material de propagação especificado e de fruteiras especificadas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Requisitos aplicáveis às importações de material de propagação especificado e de fruteiras especificadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Requisitos aplicáveis às importações de material de propagação especificado e de fruteiras especificadas\n\n1. O material de propagação especificado e as fruteiras especificadas que tenham sido produzidos nos países terceiros especificados, no que se refere às categorias e aos géneros ou espécies respetivos, tal como enumerados no anexo, só podem ser importados para a União se tiverem sido rotulados, selados e acondicionados de acordo com requisitos equivalentes aos estabelecidos no artigo 9.º da Diretiva 2008/90/CE e na Diretiva de Execução 2014/96/UE em matéria de rotulagem, selagem e acondicionamento, conforme adequado para a respetiva categoria de material pré-básico, material básico, material certificado ou material CAC.\n\n2. Os fornecedores que importam para a União material de propagação especificado e fruteiras especificadas devem informar previamente desse facto o respetivo organismo oficial responsável.\n\n3.\n\nO material de propagação especificado e as fruteiras especificadas importados devem ser acompanhados do seguinte:\n\na) Um rótulo oficial emitido pelo organismo oficial responsável do país terceiro especificado, no caso de material pré-básico, básico ou certificado, ou um documento do fornecedor elaborado pelo fornecedor do país terceiro especificado no caso de material CAC; e\n\nb) Registos que contenham informações pormenorizadas sobre esse material de propagação especificado e essas fruteiras especificadas disponibilizados pelo fornecedor no país terceiro especificado em causa.\n\n4.\n\nApós a importação do material de propagação especificado e das fruteiras especificadas, e antes da comercialização desse material de propagação e dessas fruteiras na União:\n\na) O organismo oficial responsável do Estado-Membro em causa, ou o primeiro fornecedor sob supervisão oficial, deve substituir o rótulo oficial do país terceiro especificado, a que se refere o n.º 3, alínea a), por um novo rótulo oficial, ou apor um novo rótulo oficial em complemento do rótulo do país terceiro especificado;\n\nb) No caso de um documento do fornecedor, o primeiro fornecedor na União deve substituir o documento do fornecedor, a que se refere o n.º 3, alínea a), por um novo documento, ou anexar um novo documento do fornecedor em complemento do documento do fornecedor do país terceiro especificado.\n\n5. O novo rótulo oficial ou o novo documento do fornecedor a que se refere o n.º 4 devem conter, respetivamente, uma referência ao rótulo oficial original ou ao documento original do fornecedor do país terceiro de origem, bem como uma referência a esse país.\n\n6. O material de propagação especificado e as fruteiras especificadas importados devem satisfazer os requisitos pertinentes relativos à identificação da variedade, tal como estabelecido no artigo 7.º da Diretiva 2008/90/CE."
+  },
+  "5448f5adab7d6791": {
+   "fragment_id": "Artigo 4.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Destinatários\n\nOs destinatários da presente decisão são os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "eae1f58a7671ff95": {
+   "fragment_id": "Categorias da União para géneros e espécies de material de propagação de fruteiras originário dos países terceiros especificados e categorias equivalentes correspondentes",
+   "type": "divisao",
+   "heading": "Categorias da União para géneros e espécies de material de propagação de fruteiras originário dos países terceiros especificados e categorias equivalentes correspondentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Categorias da União para géneros e espécies de material de propagação de fruteiras originário dos países terceiros especificados e categorias equivalentes correspondentes\n\n|  | País | Géneros/espécies frutícolas | Categoria da União | Categoria equivalente do país terceiro |\n| --- | --- | --- | --- | --- |\n| 1. | Argentina | *Olea europaea* L. | Material pré-básico Material básico Material certificado Material CAC | [**►C1**](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) Material original/Material de partida Material básico/Material inicial Material certificado Material identificado (indicado) **◄** |\n| 2. | Chile | *Olea europaea* L. *Ribes* L. *Rubus* L. *Vaccinium* L. | Material pré-básico Material básico Material certificado Material CAC | [**►C1**](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) Banco de germoplasma Material inicial, de pré-crescimento e de crescimento Material certificado Material corrente **◄** |\n| 3. | Moldávia | *Cydonia oblonga* Mill. *Fragaria* L. *Juglans regia* L. *Malus* Mill. *Prunus avium* (L.) L. *Prunus armeniaca* L. *Prunus cerasus* L. *Prunus domestica* L. *Prunus persica* (L.) Batsch. *Prunus salicina* Lindley *Pyrus* L. *Ribes* L. *Rubus* L. | Material pré-básico Material básico Material certificado Material CAC | [**►C1**](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) Material pré-básico Material básico Material certificado Material CAC **◄** |\n| 4. | Marrocos | *Cydonia oblonga* Mill. *Fragaria* L. *Olea europaea* L. *Pyrus* L. *Ribes* L. *Rubus* L. *Vaccinium* L. | Material pré-básico Material básico Material certificado Material CAC | [**►C1**](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) Material pré-básico Material básico Material certificado Material não certificado **◄** |\n| 5. | Sérvia | *Corylus avellana* L. *Cydonia oblonga* Mill. *Fragaria* L. *Malus* Mill. *Pyrus* L. *Ribes* L. *Rubus* L. *Vaccinium* L. | Material pré-básico Material básico Material certificado Material CAC | [**►C1**](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) Material pré-básico Material básico Material certificado Material padrão **◄** |\n| 6. | Estados Unidos | *Cydonia* L. *Fragaria* L. *Olea europaea* L. *Pyrus* L. *Ribes* L. *Rubus* L. *Vaccinium* L. | Material pré-básico Plantas-mãe básicas Material básico Material certificado Material CAC | [**►C1**](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) Material G1 Material G2 Material G3 Material G4 Material não certificado **◄** |"
+  }
+ }
+}

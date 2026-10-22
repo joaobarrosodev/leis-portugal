@@ -35,6 +35,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-02-05'
+version_history:
+  file: regulamento-ue-2019-942.versoes.json
+  count: 5
+  source_lastmod: '2025-02-05'
+  versions:
+  - date: '2022-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-07'
+    amending: eu:celex:32024R1106:por
+    amending_title: REGULAMENTO (UE) 2024/1106 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Tipologia dos atos da ACER
+    - Altera Artigo 5.º — Funções da ACER relativas à elaboração e aplicação de códigos de rede e orientações
+    - Altera Artigo 6.º — Funções da ACER relativas às entidades reguladoras
+    - Altera Artigo 8.º — Funções da ACER relativas aos operadores nomeados do mercado da eletricidade
+    - Altera Artigo 11.º — Funções da ACER relativas à infraestrutura
+    - Altera Artigo 12.º — Funções da ACER relativas à integridade e à transparência nos mercados grossistas
+    - Altera Artigo 32.º — Taxas
+    - Altera Artigo 34.º — Execução e controlo orçamental
+    - Altera Artigo 37.º — Luta contra a fraude
+    - Altera Artigo 41.º — Transparência e comunicação
+    - Altera Artigo 42.º — Proteção de informações classificadas e de informações sensíveis não classificadas
+    - Altera Artigo 44.º — Regime linguístico
+    - Altera Notas
+  - date: '2024-07-16'
+    amending: eu:celex:32024R1747:por
+    amending_title: REGULAMENTO (UE) 2024/1747 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Tipologia dos atos da ACER
+    - Altera Artigo 3.º — Funções de caráter geral
+    - Altera Artigo 4.º — Funções da ACER relativas à cooperação dos operadores de redes de transporte e dos operadores de
+      redes de distribuição de eletricidade
+    - Altera Artigo 5.º — Funções da ACER relativas à elaboração e aplicação de códigos de rede e orientações
+    - Altera Artigo 6.º — Funções da ACER relativas às entidades reguladoras
+    - Altera Artigo 8.º — Funções da ACER relativas aos operadores nomeados do mercado da eletricidade
+    - Altera Artigo 11.º — Funções da ACER relativas à infraestrutura
+    - Altera Artigo 15.º — Supervisão e informações sobre o setor da eletricidade e do gás natural
+    - Altera Artigo 34.º — Execução e controlo orçamental
+    - Altera Artigo 37.º — Luta contra a fraude
+    - Altera Artigo 41.º — Transparência e comunicação
+    - Altera Artigo 42.º — Proteção de informações classificadas e de informações sensíveis não classificadas
+    - Altera Artigo 44.º — Regime linguístico
+    - Altera Notas
+  - date: '2024-08-04'
+    amending: eu:celex:32024R1787:por
+    amending_title: REGULAMENTO (UE) 2024/1787 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Tipologia dos atos da ACER
+    - Altera Artigo 5.º — Funções da ACER relativas à elaboração e aplicação de códigos de rede e orientações
+    - Altera Artigo 8.º — Funções da ACER relativas aos operadores nomeados do mercado da eletricidade
+    - Altera Artigo 11.º — Funções da ACER relativas à infraestrutura
+    - Altera Artigo 15.º — Supervisão e informações sobre o setor da eletricidade e do gás natural
+    - Altera Artigo 34.º — Execução e controlo orçamental
+    - Altera Artigo 37.º — Luta contra a fraude
+    - Altera Artigo 41.º — Transparência e comunicação
+    - Altera Artigo 42.º — Proteção de informações classificadas e de informações sensíveis não classificadas
+    - Altera Artigo 44.º — Regime linguístico
+    - Altera Notas
+  - date: '2025-02-05'
+    amending: eu:celex:32024R1789:por
+    amending_title: REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 2.º — Tipologia dos atos da ACER
+    - Altera Artigo 3.º — Funções de caráter geral
+    - Altera Artigo 4.º — Funções da ACER relativas à cooperação dos operadores de redes de transporte e dos operadores de
+      redes de distribuição de eletricidade
+    - Altera Artigo 5.º — Funções da ACER relativas à elaboração e aplicação de códigos de rede e orientações
+    - Altera Artigo 6.º — Funções da ACER relativas às entidades reguladoras
+    - Altera Artigo 8.º — Funções da ACER relativas aos operadores nomeados do mercado da eletricidade
+    - Altera Artigo 11.º — Funções da ACER relativas à infraestrutura
+    - Altera Artigo 14.º — Consultas, transparência e garantias processuais
+    - Altera Artigo 15.º — Supervisão e informações sobre o setor da eletricidade e do gás natural
+    - Altera Artigo 34.º — Execução e controlo orçamental
+    - Altera Artigo 37.º — Luta contra a fraude
+    - Altera Artigo 41.º — Transparência e comunicação
+    - Altera Artigo 42.º — Proteção de informações classificadas e de informações sensíveis não classificadas
+    - Altera Artigo 44.º — Regime linguístico
+    - Altera Notas
 identifiers:
   celex: 32019R0942
   eli: http://data.europa.eu/eli/reg/2019/942/oj
@@ -49,7 +129,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e848b031-8e7b-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/eabc0a85-1470-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0942-20250205
-  retrieved_at: '2026-10-22T03:01:12Z'
+  retrieved_at: '2026-10-22T17:08:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T23:49:03.318+01:00'
 integrity:
@@ -58,9 +138,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:12Z'
-  notes: Texto consolidado 02019R0942-20250205.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:47Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2019-942.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -255,33 +335,20 @@ relationships:
   date: '2009-08-11'
 article_structure:
   article_count: 47
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:12Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:47Z'
+  warnings:
+  - '02019R0942-20190614: versão indisponível (Sem expressão na língua por para CELEX 02019R0942-20190614.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/942 do Parlamento Europeu e do Conselho, de 5 de junho de 2019
-
-> 02019R0942 — PT — 05.02.2025 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0869) — [REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0869) — L 152 — 45 — 3.6.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R1106) — [REGULAMENTO (UE) 2024/1106 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1106) — L 1106 — 1 — 17.4.2024
-- [►M3](http://publications.europa.eu/resource/celex/32024R1747) — [REGULAMENTO (UE) 2024/1747 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1747) — L 1747 — 1 — 26.6.2024
-- [►M4](http://publications.europa.eu/resource/celex/32024R1787) — [REGULAMENTO (UE) 2024/1787 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1787) — L 1787 — 1 — 15.7.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R1789) — [REGULAMENTO (UE) 2024/1789 DO PARLAMENTO EUROPEU E DO CONSELHO **de 13 de junho de 2024**](http://publications.europa.eu/resource/celex/32024R1789) — L 1789 — 1 — 15.7.2024
-
-## REGULAMENTO (UE) 2019/942 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de junho de 2019
 

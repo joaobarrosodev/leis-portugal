@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-05-01'
+version_history:
+  file: regulamento-ue-2018-1805.versoes.json
+  count: 1
+  source_lastmod: '2025-05-01'
+  versions:
+  - date: '2025-05-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32018R1805
   eli: http://data.europa.eu/eli/reg/2018/1805/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/83e4752e-f2e5-11e8-9982-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/4bbdaea4-5149-11f0-a9d0-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1805-20250501
-  retrieved_at: '2026-10-22T03:18:50Z'
+  retrieved_at: '2026-10-22T17:06:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T17:42:26.266+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:50Z'
-  notes: Texto consolidado 02018R1805-20250501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:29Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2018-1805.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -185,33 +194,20 @@ relationships:
   date: '2026-03-17'
 article_structure:
   article_count: 41
-  section_count: 44
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 46
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:50Z'
-  warnings: []
+  checked_at: '2026-10-22T17:06:29Z'
+  warnings:
+  - '02018R1805-20181128: versão indisponível (Sem expressão na língua por para CELEX 02018R1805-20181128.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/1805 do Parlamento Europeu e do Conselho, de 14 de novembro de 2018
-
-> 02018R1805 — PT — 01.05.2025 — 001.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2844) — [REGULAMENTO (UE) 2023/2844 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2844) — L 2844 — 1 — 27.12.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R2844R%2801%29) — [Rectificação, JO L 90629, 1.8.2025, p. 1 (2023/2844)](http://publications.europa.eu/resource/celex/32023R2844R%2801%29)
-
-## REGULAMENTO (UE) 2018/1805 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de novembro de 2018
 

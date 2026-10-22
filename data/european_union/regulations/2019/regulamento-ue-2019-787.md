@@ -40,6 +40,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-05-13'
+version_history:
+  file: regulamento-ue-2019-787.versoes.json
+  count: 3
+  source_lastmod: '2024-05-13'
+  versions:
+  - date: '2021-05-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-15'
+    amending: eu:celex:32022R1303:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1303 DA COMISSÃO de 25 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Definição de bebidas espirituosas e requisitos aplicáveis
+    - Altera Artigo 4.º — Definições e requisitos técnicos
+    - Altera Artigo 5.º — Definição de álcool etílico de origem agrícola e requisitos aplicáveis
+    - Altera Artigo 12.º — Alusões
+    - Altera Artigo 13.º — Regras adicionais relativas à designação, apresentação e rotulagem
+    - Altera Artigo 18.º — Métodos de análise de referência da União
+    - Altera Artigo 36.º — Relação entre marcas e indicações geográficas
+    - Altera Artigo 48.º — Derrogação aos requisitos de quantidades nominais da Diretiva 2007/45/CE
+    - Altera Artigo 49.º — Revogação
+    - Altera Notas
+    - Adita PROCESSO DE ENVELHECIMENTO DINÂMICO OU «CRIADERAS Y SOLERA» OU «SOLERA Y CRIADERAS»
+    - Suprime PROCESSO DE ENVELHECIMENTO DINÂMICO OU « CRIADERAS Y SOLERA » OU « SOLERA Y CRIADERAS »
+  - date: '2024-05-13'
+    amending: eu:celex:32024R1143:por
+    amending_title: REGULAMENTO (UE) 2024/1143 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Definição de bebidas espirituosas e requisitos aplicáveis
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e requisitos técnicos
+    - Altera Artigo 12.º — Alusões
+    - Altera Artigo 13.º — Regras adicionais relativas à designação, apresentação e rotulagem
+    - Altera Artigo 18.º — Métodos de análise de referência da União
+    - Altera Artigo 22.º — Caderno de especificações
+    - Altera Artigo 34.º — Indicações geográficas homónimas
+    - Altera Artigo 42.º — Competências de execução
+    - Altera Artigo 48.º — Derrogação aos requisitos de quantidades nominais da Diretiva 2007/45/CE
+    - Altera Artigo 49.º — Revogação
+    - Altera 33. Licor
+    - Altera Notas
+    - Adita Artigo 23.º — Documento único
+    - Adita 9-A. Aguardente de batata
+    - Adita 13-A. Aguardente de pão
+    - Adita 13-B. Aguardente de seiva de bétula, aguardente de seiva de ácer e aguardente de seiva de bétula e de ácer
+    - Adita PROCESSO DE ENVELHECIMENTO DINÂMICO OU « CRIADERAS Y SOLERA » OU « SOLERA Y CRIADERAS »
+    - Suprime Artigo 16.º — Utilização de um símbolo da União nas indicações geográficas
+    - Suprime Artigo 21.º — Proteção das indicações geográficas
+    - Suprime Artigo 23.º — Conteúdo do pedido de registo de uma indicação geográfica
+    - Suprime Artigo 24.º — Pedido de registo de uma indicação geográfica
+    - Suprime Artigo 25.º — Proteção nacional provisória
+    - Suprime Artigo 26.º — Exame pela Comissão e publicação para fins de oposição
+    - Suprime Artigo 27.º — Procedimento de oposição
+    - Suprime Artigo 28.º — Fundamentos de oposição
+    - Suprime Artigo 29.º — Períodos transitórios para a utilização de indicações geográficas
+    - Suprime Artigo 30.º — Decisão sobre a inscrição no registo
+    - Suprime Artigo 31.º — Alteração do caderno de especificações
+    - Suprime Artigo 32.º — Cancelamento
+    - Suprime Artigo 33.º — Registo das indicações geográficas de bebidas espirituosas
+    - Suprime Artigo 35.º — Motivos específicos de recusa da proteção
+    - Suprime Artigo 36.º — Relação entre marcas e indicações geográficas
+    - Suprime Artigo 38.º — Verificação do cumprimento do caderno de especificações
+    - Suprime Artigo 39.º — Fiscalização da utilização da denominação no mercado
+    - Suprime Artigo 40.º — Procedimentos e requisitos, e planeamento e comunicação das atividades de controlo
+    - Suprime PROCESSO DE ENVELHECIMENTO DINÂMICO OU «CRIADERAS Y SOLERA» OU «SOLERA Y CRIADERAS»
 identifiers:
   celex: 32019R0787
   eli: http://data.europa.eu/eli/reg/2019/787/oj
@@ -54,7 +120,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d641c74-786c-11e9-9f05-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b3ba1f91-1214-11ef-a251-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0787-20240513
-  retrieved_at: '2026-10-22T02:38:24Z'
+  retrieved_at: '2026-10-22T17:08:17Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T02:49:16.929+01:00'
 integrity:
@@ -63,9 +129,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:24Z'
-  notes: Texto consolidado 02019R0787-20240513.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:17Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-787.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -407,40 +473,20 @@ relationships:
   date: '2008-02-14'
 article_structure:
   article_count: 34
-  section_count: 69
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 70
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:24Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:17Z'
+  warnings:
+  - '02019R0787-20190517: versão indisponível (A expressão não tem manifestação XHTML nem HTML.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/787 do Parlamento Europeu e do Conselho, de 17 de abril de 2019
-
-> 02019R0787 — PT — 13.05.2024 — 003.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1096) — [REGULAMENTO DELEGADO (UE) 2021/1096 DA COMISSÃO de 21 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1096) — L 238 — 1 — 6.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32021R1334) — [REGULAMENTO DELEGADO (UE) 2021/1334 DA COMISSÃO de 27 de maio de 2021](http://publications.europa.eu/resource/celex/32021R1334) — L 289 — 1 — 12.8.2021
-- [►M3](http://publications.europa.eu/resource/celex/32021R1335) — [REGULAMENTO DELEGADO (UE) 2021/1335 DA COMISSÃO de 27 de maio de 2021](http://publications.europa.eu/resource/celex/32021R1335) — L 289 — 4 — 12.8.2021
-- [►M4](http://publications.europa.eu/resource/celex/32021R1465) — [REGULAMENTO DELEGADO (UE) 2021/1465 DA COMISSÃO de 6 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1465) — L 321 — 12 — 13.9.2021
-- [►M5](http://publications.europa.eu/resource/celex/32022R1303) — [REGULAMENTO DELEGADO (UE) 2022/1303 DA COMISSÃO de 25 de abril de 2022](http://publications.europa.eu/resource/celex/32022R1303) — L 197 — 71 — 26.7.2022
-- [►M6](http://publications.europa.eu/resource/celex/32024R1143) — [REGULAMENTO (UE) 2024/1143 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1143) — L 1143 — 1 — 23.4.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0787R%2802%29) — [Rectificação, JO L 316I, 6.12.2019, p. 3 (2019/787)](http://publications.europa.eu/resource/celex/32019R0787R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R0787R%2805%29) — [Rectificação, JO L 178, 20.5.2021, p. 4 (2019/787)](http://publications.europa.eu/resource/celex/32019R0787R%2805%29)
-- [►C3](http://publications.europa.eu/resource/celex/32019R0787R%2808%29) — [Rectificação, JO L 90018, 10.1.2025, p. 1 (2019/787)](http://publications.europa.eu/resource/celex/32019R0787R%2808%29)
-
-## REGULAMENTO (UE) 2019/787 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2019
 

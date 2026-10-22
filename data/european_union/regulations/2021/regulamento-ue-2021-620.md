@@ -38,6 +38,642 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-10'
+version_history:
+  file: regulamento-ue-2021-620.versoes.json
+  count: 19
+  source_lastmod: '2026-11-01'
+  versions:
+  - date: '2021-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-06-25'
+    amending: eu:celex:32021R1008:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1008 DA COMISSÃO de 21 de junho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 21.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 2.º — Infeção por Brucella abortus,B. melitensis e B. suis
+    - Adita Artigo 3.º — Infeção pelo complexo Mycobacterium tuberculosis (M. bovis, M. caprae e M. tuberculosis) (CMTB)
+    - Adita ANEXO I
+    - Adita INFEÇÃO POR BRUCELLA ABORTUS, B. MELITENSIS E B. SUIS
+    - Adita PARTE I
+    - Adita Estatuto de indemnidade de infeção por Brucella abortus, B. melitensis e B. suis
+    - Adita CAPÍTULO 1
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Adita CAPÍTULO 2
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Adita PARTE II
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis
+    - Adita ANEXO II
+    - Adita INFEÇÃO PELO COMPLEXO MYCOBACTERIUM TUBERCULOSIS (M. BOVIS, M. CAPRAE E M. TUBERCULOSIS) (CMTB)
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de CMTB
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Adita ANEXO III
+    - Adita INFEÇÃO PELO VÍRUS DA RAIVA (VRAI)
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VRAI
+    - Adita ANEXO IV
+    - Adita LEUCOSE ENZOÓTICA BOVINA (LEB)
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a LEB
+    - Adita ANEXO V
+    - Adita RINOTRAQUEÍTE INFECIOSA BOVINA/VULVOVAGINITE PUSTULOSA INFECIOSA (RIB/VPI)
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de RIB/VPI
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a RIB/VPI
+    - Adita ANEXO VI
+    - Adita VÍRUS DA DOENÇA DE AUJESZKY (VDA)
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VDA
+    - Adita ANEXO VII
+    - Adita DIARREIA VIRAL BOVINA (DVB)
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Adita Estados-Membros ou respetivas zonas com um progr4ama de erradicação aprovado para a DVB
+  - date: '2021-11-07'
+    amending: eu:celex:32021R1911:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1911 DA COMISSÃO de 27 de outubro de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infestação por Varroa spp.
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2022-02-21'
+    amending: eu:celex:32022R0214:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/214 DA COMISSÃO de 17 de fevereiro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Infeção por Brucella abortus,B. melitensis e B. suis
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de CMTB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Suprime Estados-Membros ou respetivas zonas com um progr4ama de erradicação aprovado para a DVB
+  - date: '2022-07-18'
+    amending: eu:celex:32022R1218:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1218 DA COMISSÃO de 14 de julho de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo CMTB
+    - Suprime Estados-Membros ou respetivas zonas com o estatuto de indemnidade de CMTB
+  - date: '2023-01-26'
+    amending: eu:celex:32023R0150:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/150 DA COMISSÃO de 20 de janeiro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2023-06-05'
+    amending: eu:celex:32023R1071:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1071 DA COMISSÃO de 1 de junho de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a RIB/VPI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2023-09-30'
+    amending: eu:celex:32023R2057:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2057 DA COMISSÃO de 26 de setembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2023-11-27'
+    amending: eu:celex:32023R2618:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2618 DA COMISSÃO de 23 de novembro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2024-02-18'
+    amending: eu:celex:32024R0566:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/566 DA COMISSÃO de 14 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2024-05-24'
+    amending: eu:celex:32024R1332:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1332 DA COMISSÃO de 17 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas e compartimentos de Estados-Membros com um programa de erradicação aprovado para a SHV em que a bacia hidrográfica
+      que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas e compartimentos de Estados-Membros com um programa de erradicação aprovado para a NHI em que a bacia hidrográfica
+      que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2024-08-02'
+    amending: eu:celex:32024R2032:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2032 DA COMISSÃO de 29 de julho de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2024-10-21'
+    amending: eu:celex:32024R2692:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2692 DA COMISSÃO de 17 de outubro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2025-02-23'
+    amending: eu:celex:32025R0330:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/330 DA COMISSÃO de 19 de fevereiro de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Compartimentos indemnes de GAAP
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+    - Adita ESTADOS-MEMBROS OU RESPETIVAS ZONAS COM UM PROGRAMA DE ERRADICAÇÃO APROVADO PARA A INFEÇÃO PELO VFCO
+    - Suprime Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+  - date: '2025-07-18'
+    amending: eu:celex:32025R1401:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1401 DA COMISSÃO de 14 de julho de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Compartimentos indemnes de GAAP
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia exitiosa em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+    - Adita Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Suprime ESTADOS-MEMBROS OU RESPETIVAS ZONAS COM UM PROGRAMA DE ERRADICAÇÃO APROVADO PARA A INFEÇÃO PELO VFCO
+  - date: '2026-02-13'
+    amending: eu:celex:32026R0293:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/293 DA COMISSÃO de 9 de fevereiro de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de DVB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a DVB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
+    - Altera Compartimentos indemnes de GAAP
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+  - date: '2026-04-22'
+    amending: eu:celex:32026R0766:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/766 DA COMISSÃO de 8 de abril de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Notas
+    - Adita Artigo 19.º-A — Infestação por Echinococcus multilocularis
+    - Adita ANEXO XIX
+    - Adita INFESTAÇÃO POR ECHINOCOCCUS MULTILOCULARIS
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de doença relativamente à infestação por Echinococcus
+      multilocularis em conformidade com as condições estabelecidas no anexo V, parte V, secção 2, ponto 1, do Regulamento
+      Delegado (UE) 2020/689
+    - Adita Estados-Membros ou respetivas zonas com o estatuto de indemnidade de doença relativamente à infestação por Echinococcus
+      multilocularis em conformidade com as condições estabelecidas no anexo V, parte V, secção 2, ponto 2, do Regulamento
+      Delegado (UE) 2020/689
+  - date: '2026-08-10'
+    amending: eu:celex:32026R1215:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1215 DA COMISSÃO de 11 de junho de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo vírus da doença de Newcastle
+      sem vacinação
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de doença relativamente à infestação por Echinococcus
+      multilocularis em conformidade com as condições estabelecidas no anexo V, parte V, secção 2, ponto 2, do Regulamento
+      Delegado (UE) 2020/689
+    - Altera Notas
+  - date: '2026-11-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de bovinos
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção por Brucella abortus, B. melitensis
+      e B. suis em populações de ovinos e caprinos
+    - Altera Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo CMTB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VRAI
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de LEB
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VDA
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de SHV em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de NHI em que a bacia hidrográfica que
+      abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção pelo VAIS com supressão da
+      HPR em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Marteilia refringens
+      em que a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera zonas ou compartimentos de Estados-Membros com o estatuto de indemnidade de infeção por Bonamia ostreae em que
+      a bacia hidrográfica que abastece essas zonas ou compartimentos do Estado-Membro é partilhada com outro Estado-Membro
+      ou com um país terceiro
+    - Altera Estados-Membros ou respetivas zonas com o estatuto de indemnidade de doença relativamente à infestação por Echinococcus
+      multilocularis em conformidade com as condições estabelecidas no anexo V, parte V, secção 2, ponto 2, do Regulamento
+      Delegado (UE) 2020/689
+    - Altera Notas
+    - Suprime Artigo 9.º — Infeção pelo vírus da febre catarral ovina (serótipos 1-24) (infeção pelo VFCO)
+    - Suprime ANEXO VIII
+    - Suprime INFEÇÃO PELO VÍRUS DA FEBRE CATARRAL OVINA (VFCO)
+    - Suprime Estados-Membros ou respetivas zonas com o estatuto de indemnidade de infeção pelo VFCO
+    - Suprime Estados-Membros ou respetivas zonas com um programa de erradicação aprovado para a infeção pelo VFCO
 identifiers:
   celex: 32021R0620
   eli: http://data.europa.eu/eli/reg_impl/2021/620/oj
@@ -52,7 +688,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9fdee272-9e92-11eb-b85c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/4ee628c2-a635-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0620-20260810
-  retrieved_at: '2026-10-22T03:19:50Z'
+  retrieved_at: '2026-10-22T17:13:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T23:40:07.593+01:00'
 integrity:
@@ -61,9 +697,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:50Z'
-  notes: Texto consolidado 02021R0620-20260810.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:29Z'
+  notes: 19 versão(ões); histórico completo em regulamento-ue-2021-620.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -734,45 +1370,19 @@ relationships:
   date: '2013-10-15'
 article_structure:
   article_count: 22
-  section_count: 141
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 142
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:50Z'
+  checked_at: '2026-10-22T17:13:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2021/620 da Comissão de 15 de abril de 2021
-
-> 02021R0620 — PT — 10.08.2026 — 017.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1008) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1008 DA COMISSÃO de 21 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1008) — L 222 — 12 — 22.6.2021
-- [►M2](http://publications.europa.eu/resource/celex/32021R1911) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1911 DA COMISSÃO de 27 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1911) — L 389 — 2 — 4.11.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R0214) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/214 DA COMISSÃO de 17 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0214) — L 37 — 16 — 18.2.2022
-- [►M4](http://publications.europa.eu/resource/celex/32022R1218) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1218 DA COMISSÃO de 14 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1218) — L 188 — 65 — 15.7.2022
-- [►M5](http://publications.europa.eu/resource/celex/32023R0150) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/150 DA COMISSÃO de 20 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0150) — L 20 — 33 — 23.1.2023
-- [►M6](http://publications.europa.eu/resource/celex/32023R1071) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1071 DA COMISSÃO de 1 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1071) — L 143 — 105 — 2.6.2023
-- [M7](http://publications.europa.eu/resource/celex/32023R2057) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2057 DA COMISSÃO de 26 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2057) — L 238 — 94 — 27.9.2023
-- [►M8](http://publications.europa.eu/resource/celex/32023R2618) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2618 DA COMISSÃO de 23 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2618) — L 2618 — 1 — 24.11.2023
-- [M9](http://publications.europa.eu/resource/celex/32024R0566) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/566 DA COMISSÃO de 14 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0566) — L 566 — 1 — 15.2.2024
-- [►M10](http://publications.europa.eu/resource/celex/32024R1332) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1332 DA COMISSÃO de 17 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1332) — L 1332 — 1 — 21.5.2024
-- [►M11](http://publications.europa.eu/resource/celex/32024R2032) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2032 DA COMISSÃO de 29 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2032) — L 2032 — 1 — 30.7.2024
-- [►M12](http://publications.europa.eu/resource/celex/32024R2692) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2692 DA COMISSÃO de 17 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2692) — L 2692 — 1 — 18.10.2024
-- [►M13](http://publications.europa.eu/resource/celex/32025R0330) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/330 DA COMISSÃO de 19 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0330) — L 330 — 1 — 20.2.2025
-- [►M14](http://publications.europa.eu/resource/celex/32025R1401) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1401 DA COMISSÃO de 14 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1401) — L 1401 — 1 — 15.7.2025
-- [►M15](http://publications.europa.eu/resource/celex/32026R0293) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/293 DA COMISSÃO de 9 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0293) — L 293 — 1 — 10.2.2026
-- [►M16](http://publications.europa.eu/resource/celex/32026R0766) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/766 DA COMISSÃO de 8 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0766) — L 766 — 1 — 16.4.2026
-- [►M17](http://publications.europa.eu/resource/celex/32026R1215) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1215 DA COMISSÃO de 11 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1215) — L 1215 — 1 — 7.8.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2021/620 DA COMISSÃO
 
 de 15 de abril de 2021
 

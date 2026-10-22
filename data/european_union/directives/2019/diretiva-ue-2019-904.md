@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-12'
+version_history:
+  file: diretiva-ue-2019-904.versoes.json
+  count: 1
+  source_lastmod: '2026-08-12'
+  versions:
+  - date: '2026-08-12'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32019L0904
   eli: http://data.europa.eu/eli/dir/2019/904/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ab83570c-8cc8-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/aa7811ec-6f48-11f1-ae88-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0904-20260812
-  retrieved_at: '2026-10-22T02:37:47Z'
+  retrieved_at: '2026-10-22T17:07:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T22:35:47.370+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:47Z'
-  notes: Texto consolidado 02019L0904-20260812.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:27Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2019-904.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -275,29 +284,20 @@ relationships:
   source: null
 article_structure:
   article_count: 19
-  section_count: 17
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 18
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:47Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:27Z'
+  warnings:
+  - '02019L0904-20190612: versão indisponível (Sem expressão na língua por para CELEX 02019L0904-20190612.)'
   errors: []
 ---
 
 # Diretiva (UE) 2019/904 do Parlamento Europeu e do Conselho, de 5 de junho de 2019
-
-> 02019L0904 — PT — 12.08.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R0040) — [REGULAMENTO (UE) 2025/40 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0040) — L 40 — 1 — 22.1.2025
-
-## DIRETIVA (UE) 2019/904 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de junho de 2019
 

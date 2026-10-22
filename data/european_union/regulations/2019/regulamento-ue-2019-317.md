@@ -36,6 +36,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-02'
+version_history:
+  file: regulamento-ue-2019-317.versoes.json
+  count: 3
+  source_lastmod: '2025-11-02'
+  versions:
+  - date: '2021-11-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-01'
+    amending: eu:celex:32024R3128:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/3128 DA COMISSÃO de 16 de dezembro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Prestação de informações e facilitação da monitorização pelos prestadores de serviços de navegação
+      aérea
+    - Altera Indicadores essenciais de desempenho aplicáveis à fixação dos objetivos a nível da União e indicadores de monitorização
+      a nível da União
+    - Altera Indicadores essenciais de desempenho aplicáveis à fixação de objetivos a nível local e indicadores de monitorização
+      a nível local
+    - Altera 3. OBJETIVOS DE DESEMPENHO NACIONAIS OU OBJETIVOS DE DESEMPENHO A NÍVEL DOS BLOCOS FUNCIONAIS DE ESPAÇO AÉREO
+      E MEDIDAS PARA A SUA CONSECUÇÃO
+    - Altera 1. DADOS A FORNECER PELAS AUTORIDADES SUPERVISORAS NACIONAIS
+    - Altera 3. DADOS A FORNECER PELOS OPERADORES DOS AEROPORTOS COM 80 000 OU MAIS MOVIMENTOS DE TRANSPORTE AÉREO IFR POR
+      ANO
+    - Altera Notas
+    - Adita 1. SEGURANÇA
+    - Adita 2. AMBIENTE
+    - Adita 3. CAPACIDADE
+    - Adita 4. RELAÇÃO CUSTO-EFICIÊNCIA
+    - Adita Indicadores essenciais de desempenho aplicáveis à fixação de objetivos e indicadores de monitorização das funções
+      de rede
+    - Adita 2. SEGURANÇA
+    - Adita 3. AMBIENTE
+    - Adita 4. CAPACIDADE
+    - Adita 5. RELAÇÃO CUSTO-EFICIÊNCIA
+    - Suprime Indicadores essenciais de desempenho aplicáveis à fixação de objetivos e indicadores de monitorização das funções
+      da rede
+  - date: '2025-11-02'
+    amending: eu:celex:32025R2045:por
+    amending_title: M3
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Prestação de informações e facilitação da monitorização pelos prestadores de serviços de navegação
+      aérea
+    - Altera 3. OBJETIVOS DE DESEMPENHO NACIONAIS OU OBJETIVOS DE DESEMPENHO A NÍVEL DOS BLOCOS FUNCIONAIS DE ESPAÇO AÉREO
+      E MEDIDAS PARA A SUA CONSECUÇÃO
+    - Altera 1. DADOS A FORNECER PELAS AUTORIDADES SUPERVISORAS NACIONAIS
+    - Altera Notas
 identifiers:
   celex: 32019R0317
   eli: http://data.europa.eu/eli/reg_impl/2019/317/oj
@@ -50,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/348a8167-388c-11e9-8d04-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/087c5bfc-d521-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0317-20251102
-  retrieved_at: '2026-10-22T02:43:38Z'
+  retrieved_at: '2026-10-22T17:08:16Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T15:59:20.208+01:00'
 integrity:
@@ -59,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:38Z'
-  notes: Texto consolidado 02019R0317-20251102.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:16Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-317.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -191,31 +240,20 @@ relationships:
   date: '2013-05-03'
 article_structure:
   article_count: 41
-  section_count: 91
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 92
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:38Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:16Z'
+  warnings:
+  - '02019R0317-20190225: versão indisponível (Sem expressão na língua por para CELEX 02019R0317-20190225.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2019/317 da Comissão, de 11 de fevereiro de 2019
-
-> 02019R0317 — PT — 02.11.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32021R1880) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1880 DA COMISSÃO de 26 de outubro de 2021](http://publications.europa.eu/resource/celex/32021R1880) — L 380 — 1 — 27.10.2021
-- [►M2](http://publications.europa.eu/resource/celex/32024R3128) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/3128 DA COMISSÃO de 16 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3128) — L 3128 — 1 — 17.12.2024
-- [M3](http://publications.europa.eu/resource/celex/32025R2045) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2045 DA COMISSÃO de 10 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2045) — L 2045 — 1 — 13.10.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2019/317 DA COMISSÃO
 
 de 11 de fevereiro de 2019
 

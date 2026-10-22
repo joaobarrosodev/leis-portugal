@@ -40,6 +40,82 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-22'
+version_history:
+  file: regulamento-ue-2022-128.versoes.json
+  count: 4
+  source_lastmod: '2026-07-22'
+  versions:
+  - date: '2023-04-29'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-21'
+    amending: eu:celex:32023R2155:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2155 DA COMISSÃO de 17 de outubro de 2023; REGULAMENTO DE EXECUÇÃO (UE)
+      2023/2773 DA COMISSÃO de 13 de dezembro de 2023
+    changes:
+    - Altera Artigo 5.º — Certificação
+    - Altera Artigo 7.º — Métodos de auditoria
+    - Altera Artigo 12.º — Regras específicas aplicáveis às declarações de despesas de armazenamento público
+    - Altera Artigo 18.º — Datas de registo das despesas, receitas e movimentos de produtos na contabilidade da intervenção
+      pública
+    - Altera Artigo 32.º — Conteúdo das contas anuais
+    - Altera Artigo 33.º — Transmissão de informações
+    - Altera Artigo 37.º — Procedimento de conformidade
+    - Altera Artigo 44.º — Informações a recolher sobre a identificação dos beneficiários
+    - Altera Artigo 48.º — Planos e relatórios anuais de controlo
+    - Altera Artigo 49.º — Âmbito
+    - Altera Artigo 64.º — Revogação
+    - Altera Declaração de gestão — organismo pagador a que se refere o artigo 4.º
+    - Altera ANEXO IX
+    - Altera Notas
+    - Adita INFORMAÇÕES PARA EFEITOS DE TRANSPARÊNCIA, NOS TERMOS DO ARTIGO 58.º [()](http://publications.europa.eu/resource/cellar/021cef97-7d6a-11ee-99ba-01aa75ed71a1.0022.02/DOC_3#E0017)
+    - Suprime INFORMAÇÕES PARA EFEITOS DE TRANSPARÊNCIA, NOS TERMOS DO ARTIGO 58.º [()](http://publications.europa.eu/resource/cellar/2bba3fbf-00b9-11ee-87ec-01aa75ed71a1.0021.02/DOC_2#E0017)
+  - date: '2026-01-25'
+    amending: eu:celex:32026R0165:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/165 DA COMISSÃO de 21 de janeiro de 2026
+    changes:
+    - Altera Artigo 5.º — Certificação
+    - Altera Artigo 7.º — Métodos de auditoria
+    - Altera Artigo 12.º — Regras específicas aplicáveis às declarações de despesas de armazenamento público
+    - Altera Artigo 13.º — Decisão de pagamento da Comissão
+    - Altera Artigo 18.º — Datas de registo das despesas, receitas e movimentos de produtos na contabilidade da intervenção
+      pública
+    - Altera Artigo 28.º — Planos de ação relativos ao acompanhamento plurianual do desempenho
+    - Altera Artigo 32.º — Conteúdo das contas anuais
+    - Altera Artigo 33.º — Transmissão de informações
+    - Altera Artigo 37.º — Procedimento de conformidade
+    - Altera Artigo 44.º — Informações a recolher sobre a identificação dos beneficiários
+    - Altera Artigo 46.º — Controlo pelos Estados-Membros
+    - Altera Artigo 49.º — Âmbito
+    - Altera PLANO DE CONTROLO PROPOSTO PARA O PERÍODO EM CAUSA...
+    - Altera ANEXO IX
+    - Altera Notas
+    - Adita Declaração de gestão — organismo de coordenação a que se refere o artigo 4.º
+    - Adita INFORMAÇÕES PARA EFEITOS DE TRANSPARÊNCIA, NOS TERMOS DO ARTIGO 58.º [()](http://publications.europa.eu/resource/cellar/643bbba0-32bd-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0019)
+    - Suprime Artigo 36.º — Apuramento do desempenho
+    - Suprime Declaração de gestão – organismo de coordenação a que se refere o artigo 4.º
+    - Suprime INFORMAÇÕES PARA EFEITOS DE TRANSPARÊNCIA, NOS TERMOS DO ARTIGO 58.º [()](http://publications.europa.eu/resource/cellar/021cef97-7d6a-11ee-99ba-01aa75ed71a1.0022.02/DOC_3#E0017)
+  - date: '2026-07-22'
+    amending: eu:celex:32026R1906:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1906 DA COMISSÃO de 31 de julho de 2026
+    changes:
+    - Altera Artigo 5.º — Certificação
+    - Altera Artigo 10.º — Comunicação de informações pelos Estados-Membros
+    - Altera Artigo 11.º — Regras gerais aplicáveis à declaração de despesas e às receitas afetadas
+    - Altera Artigo 12.º — Regras específicas aplicáveis às declarações de despesas de armazenamento público
+    - Altera Artigo 18.º — Datas de registo das despesas, receitas e movimentos de produtos na contabilidade da intervenção
+      pública
+    - Altera Artigo 28.º — Planos de ação relativos ao acompanhamento plurianual do desempenho
+    - Altera Artigo 32.º — Conteúdo das contas anuais
+    - Altera Artigo 37.º — Procedimento de conformidade
+    - Altera Artigo 44.º — Informações a recolher sobre a identificação dos beneficiários
+    - Altera Artigo 49.º — Âmbito
+    - Altera PLANO DE CONTROLO PROPOSTO PARA O PERÍODO EM CAUSA...
+    - Altera ANEXO IX
+    - Altera Notas
+    - Adita INFORMAÇÕES PARA EFEITOS DE TRANSPARÊNCIA, NOS TERMOS DO ARTIGO 58.º [()](http://publications.europa.eu/resource/cellar/b6c48676-a63b-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0019)
+    - Suprime INFORMAÇÕES PARA EFEITOS DE TRANSPARÊNCIA, NOS TERMOS DO ARTIGO 58.º [()](http://publications.europa.eu/resource/cellar/643bbba0-32bd-11f1-be39-01aa75ed71a1.0020.02/DOC_1#E0019)
 identifiers:
   celex: 32022R0128
   eli: http://data.europa.eu/eli/reg_impl/2022/128/oj
@@ -54,7 +130,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8c4ce935-8239-11ec-8c40-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b6c48676-a63b-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R0128-20260722
-  retrieved_at: '2026-10-22T02:46:12Z'
+  retrieved_at: '2026-10-22T17:15:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T17:10:06.744+02:00'
 integrity:
@@ -63,9 +139,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:12Z'
-  notes: Texto consolidado 02022R0128-20260722.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:52Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2022-128.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -284,38 +360,20 @@ relationships:
   date: '2014-08-28'
 article_structure:
   article_count: 64
-  section_count: 62
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 63
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:12Z'
-  warnings: []
+  checked_at: '2026-10-22T17:15:52Z'
+  warnings:
+  - '02022R0128-20220131: versão indisponível (Sem expressão na língua por para CELEX 02022R0128-20220131.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2022/128 da Comissão de 21 de dezembro de 2021
-
-> 02022R0128 — PT — 22.07.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0860) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/860 DA COMISSÃO de 25 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0860) — L 111 — 23 — 26.4.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023R2155) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2155 DA COMISSÃO de 17 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2155) — L 2155 — 1 — 18.10.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R2773) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2773 DA COMISSÃO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2773) — L 2773 — 1 — 14.12.2023
-- [►M4](http://publications.europa.eu/resource/celex/32026R0165) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/165 DA COMISSÃO de 21 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0165) — L 165 — 1 — 22.1.2026
-- [►M5](http://publications.europa.eu/resource/celex/32026R1906) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1906 DA COMISSÃO de 31 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1906) — L 1906 — 1 — 3.8.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R0860R%2801%29) — [Rectificação, JO L 154, 15.6.2023, p. 51 ((UE) 2023/860)](http://publications.europa.eu/resource/celex/32023R0860R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32022R0128R%2802%29) — [Rectificação, JO L 90128, 24.11.2023, p. 1 ((UE) 2022/128)](http://publications.europa.eu/resource/celex/32022R0128R%2802%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2022/128 DA COMISSÃO
 
 de 21 de dezembro de 2021
 

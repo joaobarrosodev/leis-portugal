@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1912:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1912-20260804",
+ "dre_path": null,
+ "source_lastmod": "2026-08-04",
+ "versions": [
+  {
+   "date": "2026-08-04",
+   "future": false,
+   "celex": "02026D1912-20260804",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ee0b6bff2fd7564c",
+    "455de70e0cebbf38",
+    "1e53ab6013f7d194",
+    "4bb14f45e2374d64"
+   ]
+  }
+ ],
+ "fragments": {
+  "ee0b6bff2fd7564c": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de julho de 2026\n\nque prorroga a proteção temporária introduzida pela Decisão de Execução (UE) 2022/382"
+  },
+  "455de70e0cebbf38": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nA proteção temporária concedida às pessoas deslocadas da Ucrânia a que se refere o artigo 2.º da Decisão de Execução (UE) 2022/382, e que foi prorrogada pelas Decisões de Execução (UE) 2023/2409, (UE) 2024/1836 e (UE) 2025/1460, é prorrogada por um período adicional de um ano, até 4 de março de 2028."
+  },
+  "1e53ab6013f7d194": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nSem prejuízo do direito da União e dos direitos fundamentais, a proteção temporária a que se refere o artigo 2.º da Decisão de Execução (UE) 2022/382 e prorrogada, se aplicável, pelo artigo 1.º da Decisão de Execução (UE) 2025/1460 ou pelo artigo 1.º da presente decisão, só é concedida às pessoas que cumpram as suas obrigações militares na Ucrânia, mediante apresentação, quando aplicável, das respetivas provas.\n\nO presente artigo não se aplica às pessoas que beneficiem de proteção temporária num determinado Estado-Membro em 4 de agosto de 2026, ou antes dessa data, e que mantenham tal estatuto nesse Estado-Membro após essa data, sem interrupção."
+  },
+  "4bb14f45e2374d64": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\nA presente decisão entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nÉ aplicável a partir de 5 de março de 2027, com exceção do artigo 2.º, que é aplicável a partir de 5 de agosto de 2026."
+  }
+ }
+}

@@ -34,6 +34,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-08-18'
+version_history:
+  file: diretiva-ue-2019-1995.versoes.json
+  count: 2
+  source_lastmod: '2020-08-18'
+  versions:
+  - date: '2019-12-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-18'
+    amending: eu:celex:32020D1109:por
+    amending_title: DECISÃO (UE) 2020/1109 DO CONSELHO de 20 de julho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Suprime Notas
 identifiers:
   celex: 32019L1995
   eli: http://data.europa.eu/eli/dir/2019/1995/oj
@@ -48,7 +66,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1a5adcbf-14e5-11ea-8c1f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/b3275994-d813-11ea-adf7-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L1995-20200818
-  retrieved_at: '2026-10-22T03:01:07Z'
+  retrieved_at: '2026-10-22T17:07:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T04:53:40.822+01:00'
 integrity:
@@ -57,9 +75,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:07Z'
-  notes: Texto consolidado 02019L1995-20200818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:47Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2019-1995.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,28 +153,18 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:07Z'
+  checked_at: '2026-10-22T17:07:47Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2019/1995 do Conselho de 21 de novembro de 2019
-
-> 02019L1995 — PT — 18.08.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020D1109) — [DECISÃO (UE) 2020/1109 DO CONSELHO de 20 de julho de 2020](http://publications.europa.eu/resource/celex/32020D1109) — L 244 — 3 — 29.7.2020
-
-## DIRETIVA (UE) 2019/1995 DO CONSELHO
 
 de 21 de novembro de 2019
 

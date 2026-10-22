@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-14'
+version_history:
+  file: decisao-ue-2026-75.versoes.json
+  count: 1
+  source_lastmod: '2026-01-14'
+  versions:
+  - date: '2026-01-14'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32026D0075
   eli: http://data.europa.eu/eli/dec_impl/2026/75/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/62e73bdd-f0ea-11f0-8d3c-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/ccaf248b-293d-11f1-8803-01aa75ed71a1.0015.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D0075-20260114
-  retrieved_at: '2026-10-22T03:22:14Z'
+  retrieved_at: '2026-10-22T17:17:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-01-14T02:59:17.259+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:22:14Z'
-  notes: Texto consolidado 02026D0075-20260114.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:42Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2026-75.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -107,28 +116,18 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:22:14Z'
+  checked_at: '2026-10-22T17:17:42Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/75 da Comissão, de 12 de janeiro de 2026
-
-> 02026D0075 — PT — 14.01.2026 — 000.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32026D0075R%2802%29) — [Rectificação, JO L 90797, 23.9.2026, p. 1 ((UE) 2026/752026/75)](http://publications.europa.eu/resource/celex/32026D0075R%2802%29)
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/75 DA COMISSÃO
 
 de 12 de janeiro de 2026
 

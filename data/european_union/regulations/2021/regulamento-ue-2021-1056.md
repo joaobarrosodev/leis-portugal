@@ -35,6 +35,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-09-20'
+version_history:
+  file: regulamento-ue-2021-1056.versoes.json
+  count: 3
+  source_lastmod: '2025-09-20'
+  versions:
+  - date: '2021-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Objetivo específico
+    - Altera Artigo 5.º — Mecanismo de premiação ecológica
+    - Altera Artigo 8.º — Âmbito de aplicação do apoio
+    - Altera Artigo 9.º — Exclusão do apoio
+    - Altera Artigo 10.º — Programação dos recursos do FTJ
+    - Altera Notas
+    - Adita INDICADORES COMUNS DE REALIZAÇÕES E INDICADORES COMUNS DE RESULTADOS PARA O FUNDO PARA UMA TRANSIÇÃO JUSTA ([^6^](http://publications.europa.eu/resource/cellar/ad068147-ebb0-11ee-8e14-01aa75ed71a1.0020.02/DOC_1#E0006))
+    - Suprime INDICADORES COMUNS DE REALIZAÇÕES E INDICADORES COMUNS DE RESULTADOS PARA O FUNDO PARA UMA TRANSIÇÃO JUSTA ([^5^](http://publications.europa.eu/resource/cellar/7ff74c81-627d-11ec-a033-01aa75ed71a1.0020.02/DOC_1#E0005))
+  - date: '2025-09-20'
+    amending: eu:celex:32025R1914:por
+    amending_title: REGULAMENTO (UE) 2025/1914 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Objetivo específico
+    - Altera Artigo 5.º — Mecanismo de premiação ecológica
+    - Altera Artigo 8.º — Âmbito de aplicação do apoio
+    - Altera Artigo 9.º — Exclusão do apoio
+    - Altera Artigo 10.º — Programação dos recursos do FTJ
+    - Altera Artigo 11.º — Plano territorial de transição justa
+    - Altera Artigo 12.º — Indicadores
+    - Altera MODELO PARA OS PLANOS TERRITORIAIS DE TRANSIÇÃO JUSTA
+    - Altera Notas
+    - Adita INDICADORES COMUNS DE REALIZAÇÕES E INDICADORES COMUNS DE RESULTADOS PARA O FUNDO PARA UMA TRANSIÇÃO JUSTA ([^7^](http://publications.europa.eu/resource/cellar/e6ae9741-a39d-11f0-97c8-01aa75ed71a1.0020.02/DOC_1#E0007))
+    - Suprime INDICADORES COMUNS DE REALIZAÇÕES E INDICADORES COMUNS DE RESULTADOS PARA O FUNDO PARA UMA TRANSIÇÃO JUSTA ([^6^](http://publications.europa.eu/resource/cellar/ad068147-ebb0-11ee-8e14-01aa75ed71a1.0020.02/DOC_1#E0006))
 identifiers:
   celex: 32021R1056
   eli: http://data.europa.eu/eli/reg/2021/1056/oj
@@ -49,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/3160379f-d98c-11eb-895a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e6ae9741-a39d-11f0-97c8-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1056-20250920
-  retrieved_at: '2026-10-22T02:40:55Z'
+  retrieved_at: '2026-10-22T17:13:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T17:00:39.961+01:00'
 integrity:
@@ -58,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:55Z'
-  notes: Texto consolidado 02021R1056-20250920.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:23Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2021-1056.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,34 +280,19 @@ relationships:
   date: '2021-11-26'
 article_structure:
   article_count: 15
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:55Z'
+  checked_at: '2026-10-22T17:13:23Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/1056 do Parlamento Europeu e do Conselho de 24 de junho de 2021
-
-> 02021R1056 — PT — 20.09.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-- [►M2](http://publications.europa.eu/resource/celex/32025R1914) — [REGULAMENTO (UE) 2025/1914 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1914) — L 1914 — 1 — 19.9.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R1056R%2801%29) — [Rectificação, JO L 421, 26.11.2021, p. 74 (2021/1056)](http://publications.europa.eu/resource/celex/32021R1056R%2801%29)
-
-## REGULAMENTO (UE) 2021/1056 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de junho de 2021
 

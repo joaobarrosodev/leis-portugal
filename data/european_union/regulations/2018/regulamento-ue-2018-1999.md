@@ -39,6 +39,143 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-11-20'
+version_history:
+  file: regulamento-ue-2018-1999.versoes.json
+  count: 5
+  source_lastmod: '2023-11-20'
+  versions:
+  - date: '2018-12-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-01-01'
+    amending: eu:celex:32019D0504:por
+    amending_title: DECISÃO (UE) 2019/504 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Planos nacionais integrados em matéria de energia e de clima
+    - Altera Artigo 4.º — Objetivos, metas e contributos nacionais para as cinco dimensões da União da Energia
+    - Altera Artigo 5.º — Processo de fixação dos contributos dos Estados-Membros no domínio da energia renovável
+    - Altera Artigo 6.º — Processo de fixação dos contributos dos Estados-Membros no domínio da eficiência energética
+    - Altera Artigo 20.º — Apresentação de relatórios integrados sobre energia renovável
+    - Altera Artigo 21.º — Apresentação de relatórios integrados sobre eficiência energética
+    - Altera Artigo 29.º — Avaliação do progresso
+    - Altera Artigo 32.º — Reação aos progressos insuficientes no cumprimento dos objetivos e das metas da União em matéria
+      de energia e de clima
+    - Altera Artigo 47.º — Alteração da Diretiva 98/70/CE
+    - Altera Artigo 51.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 53.º — Alteração da Diretiva 2010/31/UE
+    - Altera Artigo 54.º — Alteração da Diretiva 2012/27/UE
+    - Altera Artigo 55.º — Alteração da Diretiva 2013/30/UE
+    - Altera Artigo 56.º — Alteração da Diretiva (UE) 2015/652
+    - Altera Artigo 59.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita REGIME GERAL PARA OS PLANOS NACIONAIS INTEGRADOS EM MATÉRIA DE ENERGIA E DE CLIMA
+    - Adita Parte 1
+    - Adita Regime geral
+    - Adita Parte 2
+    - Adita Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^28^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0031))
+      ([^29^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0032)) ([^30^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0033))
+      ([^31^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0034))
+    - Adita ANEXO II
+    - Adita CONTRIBUTOS NACIONAIS PARA A QUOTA DE ENERGIA DE FONTES RENOVÁVEIS NO CONSUMO FINAL BRUTO DE ENERGIA EM 2030
+    - Adita ANEXO III
+    - Adita NOTIFICAÇÃO DAS MEDIDAS E METODOLOGIAS DOS ESTADOS-MEMBROS PARA APLICAR O ARTIGO 7.º DA DIRETIVA 2012/27/UE
+    - 'Adita 1. Cálculo do nível do requisito de economias de energia a alcançar em todo o período de 1 de janeiro de 2021
+      a 31 de dezembro de 2030, que mostre o modo como são tidos em consideração os seguintes elementos:'
+    - 'Adita 2. Os Estados-Membros que decidam utilizar uma das possibilidades previstas no artigo 7.º, n.º 2, da Diretiva
+      2012/27/UE devem também notificar o seu cálculo do nível do requisito de economias de energia a alcançar em todo o período
+      de 1 de janeiro de 2021 a 31 de dezembro de 2030, que mostre o modo como são tidos em consideração os seguintes elementos:'
+    - 'Adita 3. Medidas políticas destinadas a cumprir o requisito em matéria de economias a que se refere o artigo 7.º, n.º
+      1, da Diretiva 2012/27/UE:'
+    - 'Adita 4. Metodologia de cálculo para as medidas notificadas no âmbito dos artigos 7.º-A e 7.º-B e do artigo 20.º, n.º
+      6, da Diretiva 2012/27/UE (exceto para as medidas de tributação):'
+    - Adita 5. Monitorização e verificação
+    - Adita ANEXO IV
+    - Adita QUADRO GERAL DAS ESTRATÉGIAS DE LONGO PRAZO
+    - Adita 1. PANORAMA E PROCESSO DE DESENVOLVIMENTO DAS ESTRATÉGIAS
+    - Adita 2. CONTEÚDO
+    - Adita 3. FINANCIAMENTO
+    - Adita 4. AVALIAÇÃO DE IMPACTO DOS ASPETOS SOCIOECONÓMICOS
+    - Adita 5. ANEXOS (conforme necessário)
+  - date: '2021-07-29'
+    amending: eu:celex:32021R1119:por
+    amending_title: REGULAMENTO (UE) 2021/1119 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de junho de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Planos nacionais integrados em matéria de energia e de clima
+    - Altera Artigo 8.º — Base analítica dos planos nacionais integrados em matéria de energia e de clima
+    - Altera Artigo 11.º — Diálogo a vários níveis sobre clima e energia
+    - Altera Artigo 15.º — Estratégias de longo prazo
+    - Altera Artigo 17.º — Relatórios nacionais integrados de progresso em matéria de energia e de clima
+    - Altera Artigo 29.º — Avaliação do progresso
+    - Altera Artigo 32.º — Reação aos progressos insuficientes no cumprimento dos objetivos e das metas da União em matéria
+      de energia e de clima
+    - Altera Artigo 51.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 53.º — Alteração da Diretiva 2010/31/UE
+    - Altera Artigo 55.º — Alteração da Diretiva 2013/30/UE
+    - Altera Regime geral
+    - Altera INFORMAÇÕES SOBRE POLÍTICAS E MEDIDAS NO DOMÍNIO DAS EMISSÕES DE GEE
+    - Altera Notas
+    - Adita Artigo 45.º — Reexame
+    - Adita Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^29^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0032))
+      ([^30^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0033)) ([^31^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0034))
+      ([^32^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0035))
+    - Suprime Artigo 45.º — Análise
+    - Suprime Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^28^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0031))
+      ([^29^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0032)) ([^30^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0033))
+      ([^31^](http://publications.europa.eu/resource/cellar/1a9b7b3a-7615-11eb-9ac9-01aa75ed71a1.0020.02/DOC_1#E0034))
+  - date: '2023-05-16'
+    amending: eu:celex:32023R0839:por
+    amending_title: REGULAMENTO (UE) 2023/839 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023; REGULAMENTO (UE)
+      2023/857 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Objetivos, metas e contributos nacionais para as cinco dimensões da União da Energia
+    - Altera Artigo 9.º — Projetos de planos nacionais integrados em matéria de energia e de clima
+    - Altera Artigo 26.º — Apresentação de relatórios anuais
+    - Altera Artigo 32.º — Reação aos progressos insuficientes no cumprimento dos objetivos e das metas da União em matéria
+      de energia e de clima
+    - Altera Artigo 37.º — Sistemas de inventário da União e nacionais
+    - Altera Artigo 38.º — Análise dos inventários
+    - Altera Artigo 51.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 53.º — Alteração da Diretiva 2010/31/UE
+    - Altera Artigo 55.º — Alteração da Diretiva 2013/30/UE
+    - Altera Regime geral
+    - Altera Metodologias para a monitorização e a comunicação no setor LULUCF
+    - Altera Notas
+    - Adita Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^29^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0032))
+      ([^30^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0033)) ([^31^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0034))
+      ([^32^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0035))
+    - Suprime Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^29^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0032))
+      ([^30^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0033)) ([^31^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0034))
+      ([^32^](http://publications.europa.eu/resource/cellar/bd1d579c-15c5-11ec-b4fe-01aa75ed71a1.0020.02/DOC_1#E0035))
+  - date: '2023-11-20'
+    amending: eu:celex:32023L2413:por
+    amending_title: DIRETIVA (UE) 2023/2413 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Processo de fixação dos contributos dos Estados-Membros no domínio da energia renovável
+    - Altera Artigo 29.º — Avaliação do progresso
+    - Altera Artigo 32.º — Reação aos progressos insuficientes no cumprimento dos objetivos e das metas da União em matéria
+      de energia e de clima
+    - Altera Artigo 51.º — Alteração da Diretiva 2009/73/CE
+    - Altera Artigo 53.º — Alteração da Diretiva 2010/31/UE
+    - Altera Artigo 55.º — Alteração da Diretiva 2013/30/UE
+    - Altera Regime geral
+    - Altera Metodologias para a monitorização e a comunicação no setor LULUCF
+    - Altera Notas
+    - Adita Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^30^](http://publications.europa.eu/resource/cellar/ca94ca2b-8a41-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#E0033))
+      ([^31^](http://publications.europa.eu/resource/cellar/ca94ca2b-8a41-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#E0034)) ([^32^](http://publications.europa.eu/resource/cellar/ca94ca2b-8a41-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#E0035))
+      ([^33^](http://publications.europa.eu/resource/cellar/ca94ca2b-8a41-11ee-99ba-01aa75ed71a1.0020.02/DOC_1#E0036))
+    - Suprime Lista dos parâmetros e variáveis a comunicar na Secção B dos planos nacionais ([^29^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0032))
+      ([^30^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0033)) ([^31^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0034))
+      ([^32^](http://publications.europa.eu/resource/cellar/4d07cf77-eea7-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0035))
 identifiers:
   celex: 32018R1999
   eli: http://data.europa.eu/eli/reg/2018/1999/oj
@@ -53,7 +190,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c6980a60-04e7-11e9-adde-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ca94ca2b-8a41-11ee-99ba-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1999-20231120
-  retrieved_at: '2026-10-22T02:36:38Z'
+  retrieved_at: '2026-10-22T17:06:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-14T07:31:19.895+01:00'
 integrity:
@@ -62,9 +199,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:36:38Z'
-  notes: Texto consolidado 02018R1999-20231120.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:54Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2018-1999.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -444,33 +581,21 @@ relationships:
   date: '2013-06-18'
 article_structure:
   article_count: 59
-  section_count: 78
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 79
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:36:38Z'
-  warnings: []
+  checked_at: '2026-10-22T17:06:54Z'
+  warnings:
+  - '02018R1999-20190413: versão indisponível (Sem expressão na língua por para CELEX 02018R1999-20190413.)'
+  - '02018R1999-20191101: versão indisponível (Sem expressão na língua por para CELEX 02018R1999-20191101.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/1999 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018
-
-> 02018R1999 — PT — 20.11.2023 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019D0504) — [DECISÃO (UE) 2019/504 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de março de 2019](http://publications.europa.eu/resource/celex/32019D0504) — L 85I — 66 — 27.3.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R1119) — [REGULAMENTO (UE) 2021/1119 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1119) — L 243 — 1 — 9.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32023R0839) — [REGULAMENTO (UE) 2023/839 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0839) — L 107 — 1 — 21.4.2023
-- [►M4](http://publications.europa.eu/resource/celex/32023R0857) — [REGULAMENTO (UE) 2023/857 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0857) — L 111 — 1 — 26.4.2023
-- [►M5](http://publications.europa.eu/resource/celex/32023L2413) — [DIRETIVA (UE) 2023/2413 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023](http://publications.europa.eu/resource/celex/32023L2413) — L — 1 — 31.10.2023
-
-## REGULAMENTO (UE) 2018/1999 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de dezembro de 2018
 

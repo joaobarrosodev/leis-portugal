@@ -1,0 +1,145 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019L0068:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0068-20240211",
+ "dre_path": null,
+ "source_lastmod": "2024-02-11",
+ "versions": [
+  {
+   "date": "2019-01-17",
+   "future": false,
+   "celex": "32019L0068",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "27af5af189dc5471",
+    "dee2d2877e3da843",
+    "724dc35bcb503212",
+    "df8bee90b37a5444",
+    "4b214b5b442e8a68",
+    "3141b6e78e090025",
+    "98069336db8ce3e4"
+   ]
+  },
+  {
+   "date": "2024-02-11",
+   "future": false,
+   "celex": "02019L0068-20240211",
+   "acts": [
+    {
+     "id": "eu:celex:32024L0325:por",
+     "title": "DIRETIVA DE EXECUÇÃO (UE) 2024/325 DA COMISSÃO de 19 de janeiro de 2024",
+     "published": null,
+     "celex": "32024L0325"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 5.º — Destinatários",
+    "Adita ANEXO",
+    "Adita Especificações técnicas para marcação de armas de fogo e seus componentes essenciais",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "e3363cd5b28d70a1",
+    "dee2d2877e3da843",
+    "724dc35bcb503212",
+    "df8bee90b37a5444",
+    "4b214b5b442e8a68",
+    "abd2932569a725e8",
+    "10220b9774fa9034",
+    "ef4fb8b96046464b"
+   ]
+  }
+ ],
+ "fragments": {
+  "27af5af189dc5471": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de janeiro de 2019\n\nque estabelece especificações técnicas para a marcação de armas de fogo e dos seus componentes essenciais ao abrigo da Diretiva 91/477/CEE do Conselho relativa ao controlo da aquisição e da detenção de armas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 91/477/CEE do Conselho, de 18 de junho de 1991, relativa ao controlo da aquisição e da detenção de armas [([^1])](http://publications.europa.eu/resource/cellar/c7d97c7b-1a22-11e9-8d04-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019015PT.01001801-E0001), nomeadamente o artigo 4.º, n.º 2-A,\n\nConsiderando o seguinte:\n\n(1) O artigo 4.º, n.º 1, da Diretiva 91/477/CEE obriga os Estados-Membros a assegurar que as armas de fogo e os seus componentes essenciais, façam eles parte integrante da arma de fogo ou sejam colocados separadamente no mercado, sejam marcados com uma marcação única, que seja clara e permanente. O artigo 4.º, n.º 2, da mesma diretiva, define quais as informações a incluir na marcação de modo a aumentar a rastreabilidade das armas de fogo e dos seus componentes essenciais e a facilitar a sua livre circulação. No caso de componentes essenciais de pequenas dimensões, as marcações são limitadas a um número de série, ou a um código alfanumérico ou digital. O artigo 4.º, n.º 4, da diretiva, requer que os Estados-Membros mantenham um ficheiro informatizado de dados e que aí registem todas as informações necessárias para rastrear e identificar as armas de fogo, incluindo dados acerca da marcação aposta à arma de fogo e aos seus componentes essenciais e informações sobre todas as conversões ou modificações a uma arma de fogo que resultem na sua classificação noutra categoria ou subcategoria, tais como dados sobre a entidade que substituiu ou modificou um componente essencial.\n\n(2) Em caso de transferência dos depósitos do Estado com vista a um uso civil permanente, a identificação da entidade que efetuou a transferência também deve ser incluída na marcação. A identidade deve ser incluída sempre que há uma transferência com vista a um uso civil, exceto se já constar na marcação existente.\n\n(3) A Diretiva 91/477/CEE obriga ainda os Estados-Membros a assegurar que cada embalagem de munições completas esteja marcada de forma a indicar o nome do fabricante, o número de identificação do lote, o calibre e o tipo de munição. Em virtude das atuais práticas de embalamento de munições e do atual estado da tecnologia, não é necessário, nesta fase, estabelecer as especificações técnicas para essa marcação. A presente diretiva deverá portanto aplicar-se apenas à marcação das armas de fogo e dos seus componentes essenciais (incluindo componentes essenciais de pequenas dimensões).\n\n(4) É importante que as marcações tenham um tamanho adequado, a fim de preencherem o objetivo do aumento da rastreabilidade das armas de fogo e dos seus componentes essenciais. As especificações técnicas devem, por conseguinte, estabelecer um tamanho mínimo de marcação, que os Estados-Membros devem ser obrigados a respeitar ao definirem o tamanho das marcações no seu direito nacional.\n\n(5) Considerando as Normas Internacionais de Controlo das Armas Ligeiras das Nações Unidas (ISACS), relativas à marcação e à conservação de registos, as carcaças e a caixa da culatra feitas de materiais não-metálicos, de um tipo que possa pôr em causa a clareza e a permanência da marcação (por exemplo, carcaças ou caixa da culatra feitas de determinadas categorias de polímero) deverão ser obrigadas a comportar uma marcação aposta a uma placa metálica permanentemente incorporada no material da carcaça ou da caixa da culatra. Os Estados-Membros devem ter a liberdade de permitir a utilização de outra técnica, como, por exemplo, a gravação a laser de lapidação profunda, que assegure um nível de clareza e permanência equivalente à marcação da carcaça e da caixa da culatra fabricadas de materiais não-metálicos.\n\n(6) Para facilitar a rastreabilidade das armas de fogo e dos seus componentes essenciais nos ficheiros de dados dos Estados-Membros, estes devem ser obrigados a escolher apenas entre o alfabeto latino, cirílico ou grego ao determinar qual o alfabeto a utilizar na marcação de armas de fogo e dos seus componentes essenciais. Da mesma maneira, os sistemas numéricos que podem ser utilizados na marcação de armas de fogo e respetivos componentes essenciais devem restringir-se ao árabe ou ao romano, conforme determinado por cada Estado-Membro.\n\n(7) A presente diretiva aplica-se sem prejuízo do artigo 3.º da Diretiva 91/477/CEE.\n\n(8) Em conformidade com a Declaração Política Conjunta de 28 de setembro de 2011 dos Estados-Membros e da Comissão sobre os documentos explicativos [([^2])](http://publications.europa.eu/resource/cellar/c7d97c7b-1a22-11e9-8d04-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019015PT.01001801-E0002), os Estados-Membros comprometeram-se a fazer acompanhar, em casos justificados, a notificação das medidas nacionais de transposição de um ou mais documentos que expliquem a relação entre os elementos da diretiva e as partes correspondentes dos instrumentos nacionais de transposição.\n\n(9) As medidas previstas na presente diretiva estão em conformidade com o parecer do Comité instituído pelo artigo 13.º-B, n.º 1, da Diretiva 91/477/CEE,\n\nADOTOU A PRESENTE DIRETIVA:"
+  },
+  "dee2d2877e3da843": {
+   "fragment_id": "Artigo 1.º — Âmbito",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Âmbito",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Âmbito\n\nA presente diretiva é aplicável às armas de fogo e aos seus componentes essenciais, mas não se aplica às embalagens de munições completas."
+  },
+  "724dc35bcb503212": {
+   "fragment_id": "Artigo 2.º — Especificações técnicas para marcação de armas de fogo e seus componentes essenciais",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Especificações técnicas para marcação de armas de fogo e seus componentes essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Especificações técnicas para marcação de armas de fogo e seus componentes essenciais\n\nOs Estados-Membros asseguram que a marcação exigida pelo artigo 4.º da Diretiva 91/477/CEE satisfaz as especificações técnicas estabelecidas no anexo da presente diretiva."
+  },
+  "df8bee90b37a5444": {
+   "fragment_id": "Artigo 3.º — Disposições de transposição",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Disposições de transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Disposições de transposição\n\n1. Os Estados-Membros devem pôr em vigor as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento à presente diretiva até 17 de janeiro de 2020. Do facto informam imediatamente a Comissão.\n\nAs disposições adotadas pelos Estados-Membros devem fazer referência à presente diretiva ou ser acompanhadas dessa referência aquando da sua publicação oficial. Os Estados-Membros estabelecem o modo como deve ser feita a referência.\n\n2. Os Estados-Membros devem comunicar à Comissão o texto das principais disposições de direito interno que adotarem no domínio abrangido pela presente diretiva."
+  },
+  "4b214b5b442e8a68": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*."
+  },
+  "3141b6e78e090025": {
+   "fragment_id": "Artigo 5.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros.\n\nFeito em Bruxelas, em 16 de janeiro de 2019.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "98069336db8ce3e4": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/c7d97c7b-1a22-11e9-8d04-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019015PT.01001801-E0001) [JO L 256 de 13.9.1991, p. 51](http://publications.europa.eu/resource/oj/JOL_1991_256_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/c7d97c7b-1a22-11e9-8d04-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019015PT.01001801-E0002) [JO C 369 de 17.12.2011, p. 14](http://publications.europa.eu/resource/oj/JOC_2011_369_R_TOC)."
+  },
+  "e3363cd5b28d70a1": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 16 de janeiro de 2019\n\nque estabelece especificações técnicas para a marcação de armas de fogo e dos seus componentes essenciais ao abrigo da [**►M1**](http://publications.europa.eu/resource/celex/32024L0325) Diretiva (UE) 2021/555 do Parlamento Europeu e do Conselho relativa ao controlo da aquisição e da detenção de armas**◄**\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "abd2932569a725e8": {
+   "fragment_id": "Artigo 5.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "ef4fb8b96046464b": {
+   "fragment_id": "Especificações técnicas para marcação de armas de fogo e seus componentes essenciais",
+   "type": "divisao",
+   "heading": "Especificações técnicas para marcação de armas de fogo e seus componentes essenciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Especificações técnicas para marcação de armas de fogo e seus componentes essenciais\n\n1. O tamanho da marcação deve ser estabelecido pelo Estado-Membro. O tamanho ou o tamanho mínimo fixados por cada Estado-Membro devem ser de pelo menos 1,6 mm. Nos casos que assim o exigirem, pode ser utilizado um tamanho menor para a marcação de componentes essenciais de dimensão demasiado reduzida para serem marcados em conformidade com o artigo 4.º da Diretiva 91/477/CEE.\n\n1A. A profundidade mínima da marcação fixada por cada Estado-Membro é de, pelo menos, 0,0762 milímetros.\n\n2. As carcaças ou caixas da culatra feitas de materiais não-metálicos de um tipo especificado pelo Estado-Membro devem comportar uma marcação numa placa metálica permanentemente incorporada no material da carcaça ou da caixa da culatra, de maneira a que:\n\na) A placa não possa ser fácil ou prontamente removida, e\n\nb) A remoção da placa destrua parcialmente a carcaça ou a caixa da culatra.\n\n3. O alfabeto utilizado na marcação deve ser estabelecido pelo Estado-Membro. O alfabeto ou alfabetos estabelecidos por cada Estado-Membro devem ser o latino, o cirílico ou o grego.\n\n4. O sistema numérico utilizado na marcação deve ser estabelecido pelo Estado-Membro. O sistema numérico ou sistemas numéricos estabelecidos por cada Estado-Membro devem ser o árabe ou o romano."
+  }
+ }
+}

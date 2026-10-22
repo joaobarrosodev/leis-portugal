@@ -36,6 +36,23 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-02'
+version_history:
+  file: regulamento-ue-2023-2859.versoes.json
+  count: 2
+  source_lastmod: '2026-07-02'
+  versions:
+  - date: '2024-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-02'
+    amending: eu:celex:32024R3005:por
+    amending_title: REGULAMENTO (UE) 2024/3005 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024
+    changes:
+    - Altera Artigo 5.º — Funções dos organismos de recolha e responsabilidades das entidades
+    - Altera Artigo 8.º — Acesso às informações no ESAP
+    - Altera PARTE A — REGULAMENTOS
+    - Altera Notas
 identifiers:
   celex: 32023R2859
   eli: http://data.europa.eu/eli/reg/2023/2859/oj
@@ -50,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e3cb73db-9ed8-11ee-b164-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/9693fde7-69c9-11f1-ae88-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R2859-20260702
-  retrieved_at: '2026-10-22T03:01:43Z'
+  retrieved_at: '2026-10-22T17:16:52Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-07-31T18:39:42.102+02:00'
 integrity:
@@ -59,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:43Z'
-  notes: Texto consolidado 02023R2859-20260702.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:52Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2023-2859.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -294,30 +311,20 @@ relationships:
   date: '2024-02-12'
 article_structure:
   article_count: 15
-  section_count: 4
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 5
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:43Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:52Z'
+  warnings:
+  - '02023R2859-20231220: versão indisponível (Sem expressão na língua por para CELEX 02023R2859-20231220.)'
   errors: []
 ---
 
 # Regulamento (UE) 2023/2859 do Parlamento Europeu e do Conselho, de 13 de dezembro de 2023
-
-> 02023R2859 — PT — 02.07.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1760) — [DIRETIVA (UE) 2024/1760 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1760) — L 1760 — 1 — 5.7.2024
-- [►M2](http://publications.europa.eu/resource/celex/32024R3005) — [REGULAMENTO (UE) 2024/3005 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R3005) — L 3005 — 1 — 12.12.2024
-
-## REGULAMENTO (UE) 2023/2859 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de dezembro de 2023
 

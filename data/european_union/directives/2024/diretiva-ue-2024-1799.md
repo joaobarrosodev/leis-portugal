@@ -36,6 +36,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-31'
+version_history:
+  file: diretiva-ue-2024-1799.versoes.json
+  count: 2
+  source_lastmod: '2026-07-31'
+  versions:
+  - date: '2024-07-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-07-31'
+    amending: eu:celex:32026L0074:por
+    amending_title: DIRETIVA DELEGADA (UE) 2026/74 DA COMISSÃO de 12 de janeiro de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 4.º — Formulário europeu de informações sobre as reparações
+    - Altera Artigo 7.º — Plataforma europeia em linha de reparação
+    - Altera Artigo 16.º — Alteração da Diretiva (UE) 2019/771
+    - Altera Artigo 17.º — Alteração da Diretiva (UE) 2020/1828
+    - Altera Artigo 18.º — Alteração do Regulamento (UE) 2017/2394
+    - Altera Artigo 24.º — Destinatários
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita FORMULÁRIO EUROPEU DE INFORMAÇÕES SOBRE AS REPARAÇÕES
+    - Adita Parte I
+    - Adita Identidade e dados de contacto do reparador que presta o serviço de reparação
+    - Adita Parte II
+    - Adita Informações sobre o serviço de reparação
+    - Adita ANEXO II
+    - Adita LISTA DOS ATOS JURÍDICOS DA UNIÃO QUE PREVEEM REQUISITOS DE REPARABILIDADE
 identifiers:
   celex: 32024L1799
   eli: http://data.europa.eu/eli/dir/2024/1799/oj
@@ -50,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c106003f-3e56-11ef-ab8f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e306ac78-a66c-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024L1799-20260731
-  retrieved_at: '2026-10-22T03:20:42Z'
+  retrieved_at: '2026-10-22T17:17:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-07-31T18:47:09.025+02:00'
 integrity:
@@ -59,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:42Z'
-  notes: Texto consolidado 02024L1799-20260731.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:02Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2024-1799.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -245,33 +274,19 @@ relationships:
   date: '2026-10-07'
 article_structure:
   article_count: 24
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:42Z'
+  checked_at: '2026-10-22T17:17:02Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2024/1799 do Parlamento Europeu e do Conselho, de 13 de junho de 2024
-
-> 02024L1799 — PT — 31.07.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026L0074) — [DIRETIVA DELEGADA (UE) 2026/74 DA COMISSÃO de 12 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026L0074) — L 74 — 1 — 20.4.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024L1799R%2801%29) — [Rectificação, JO L 90789, 9.12.2024, p. 1 (2024/1799)](http://publications.europa.eu/resource/celex/32024L1799R%2801%29)
-
-## DIRETIVA (UE) 2024/1799 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de junho de 2024
 

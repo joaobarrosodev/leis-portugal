@@ -1,0 +1,283 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D0521:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D0521-20260729",
+ "dre_path": null,
+ "source_lastmod": "2026-07-29",
+ "versions": [
+  {
+   "date": "2026-03-12",
+   "future": false,
+   "celex": "32026D0521",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4a9427bd91f24208",
+    "1c286493f0959c8a",
+    "4fdd0dc3133f3986",
+    "d77254afe60171bd",
+    "6b68af5532ccef76",
+    "9ea88ad4a32d0f17",
+    "99a40757f8787d51",
+    "640c3d37efe4653b",
+    "7d67883975ffeb40",
+    "60d0736c0eb7c1f9",
+    "76a28c8920d9bd05"
+   ]
+  },
+  {
+   "date": "2026-07-29",
+   "future": false,
+   "celex": "02026D0521-20260729",
+   "acts": [
+    {
+     "id": "eu:celex:32026D1819:por",
+     "title": "DECISÃO DE EXECUÇÃO (UE) 2026/1819 DA COMISSÃO de 27 de julho de 2026",
+     "published": null,
+     "celex": "32026D1819"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 7.º — Detentor da autorização",
+    "Altera Artigo 9.º — Destinatário",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita a) Requerente e detentor da autorização:",
+    "Adita b) Designação e especificação dos produtos:",
+    "Adita c) Rotulagem:",
+    "Adita d) Método de deteção:",
+    "Adita e) Identificador único:",
+    "Adita f) Informações requeridas nos termos do anexo II do Protocolo de Cartagena sobre Segurança Biológica à Convenção sobre a Diversidade Biológica:",
+    "Adita g) Condições ou restrições aplicáveis à colocação no mercado, utilização ou manuseamento dos produtos:",
+    "Adita h) Plano de monitorização dos efeitos ambientais:",
+    "Adita i) Requisitos de monitorização da utilização dos géneros alimentícios para consumo humano após colocação no mercado:"
+   ],
+   "fragments": [
+    "0a9910c4650db5e0",
+    "1c286493f0959c8a",
+    "4fdd0dc3133f3986",
+    "d77254afe60171bd",
+    "6b68af5532ccef76",
+    "9ea88ad4a32d0f17",
+    "99a40757f8787d51",
+    "9ec1e17eebf49048",
+    "7d67883975ffeb40",
+    "b76277012f10b3d8",
+    "10220b9774fa9034",
+    "f1c964659bfebcad",
+    "7cb21f0aa5845258",
+    "f19efc0e4c48b645",
+    "4130254d16de97d9",
+    "161d8f220f597a1d",
+    "826274321f95f63d",
+    "d588b8a8449ba1f0",
+    "fb31304de612ca05",
+    "ef676851369e4dd1",
+    "5fca2dec7753c07a"
+   ]
+  }
+ ],
+ "fragments": {
+  "4a9427bd91f24208": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de março de 2026\n\nque renova a autorização de colocação no mercado de produtos que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado GHB614 × LLCotton25 nos termos do Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho\n\n*[notificada com o número C(2026) 1494]*\n\n(Apenas faz fé o texto em língua alemã)\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo a géneros alimentícios e alimentos para animais geneticamente modificados [([^1])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr1-L_202600521PT.000101-E0001), nomeadamente o artigo 11.º, n.º 3, e o artigo 23.º, n.º 3,\n\nConsiderando o seguinte:\n\n(1) A Decisão de Execução (UE) 2015/690 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr2-L_202600521PT.000101-E0002) autorizou a colocação no mercado de géneros alimentícios e alimentos para animais que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado GHB614 × LLCotton25. O âmbito dessa autorização abrangia igualmente a colocação no mercado de produtos que não sejam géneros alimentícios nem alimentos para animais que contenham ou sejam constituídos por algodão geneticamente modificado GHB614 × LLCotton25 destinado às utilizações habituais do algodão, à exceção do cultivo.\n\n(2) Em 22 de março de 2024, a empresa BASF SE, sediada na Alemanha, apresentou à Comissão, em nome da empresa BASF Agricultural Solutions Seed US LLC, sediada nos Estados Unidos («requerente»), um pedido para a renovação dessa autorização.\n\n(3) Em 7 de agosto de 2025, a Autoridade Europeia para a Segurança dos Alimentos («Autoridade») emitiu um parecer científico favorável relativo ao algodão geneticamente modificado GHB614 × LLCotton25 [([^3])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr3-L_202600521PT.000101-E0003), nos termos dos artigos 6.º e 18.° do Regulamento (CE) n.º 1829/2003. A Autoridade concluiu que o pedido de renovação não continha dados indicativos de quaisquer novos perigos, modificação da exposição ou incertezas científicas que pudessem alterar as conclusões da avaliação dos riscos inicial relativa ao algodão geneticamente modificado GHB614 × LLCotton25, adotada pela Autoridade em 2014 [([^4])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr4-L_202600521PT.000101-E0004).\n\n(4) No seu parecer científico, a Autoridade teve em conta todas as questões e preocupações suscitadas pelos Estados-Membros no contexto da consulta às autoridades nacionais competentes prevista no artigo 6.º, n.º 4, e no artigo 18.º, n.º 4, do Regulamento (CE) n.º 1829/2003.\n\n(5) A Autoridade concluiu igualmente que o plano de monitorização dos efeitos ambientais conforme apresentado pelo requerente, consistindo num plano geral de vigilância, está de acordo com as utilizações previstas dos produtos que contenham ou sejam constituídos por algodão geneticamente modificado GHB614 × LLCotton25.\n\n(6) Por carta de 24 de abril de 2025, a BASF Belgian Coordination Center Comm V, sediada na Bélgica, informou a Comissão de que a BASF Agricultural Solutions Seed US LLC tinha alterado o seu nome para BASF Agricultural Solutions US LLC, com efeitos a partir de 30 de setembro de 2024.\n\n(7) Tendo em conta as conclusões da Autoridade, deve ser renovada a autorização de colocação no mercado de géneros alimentícios e alimentos para animais que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado GHB614 × LLCotton25 e de produtos constituídos por ou que contenham algodão geneticamente modificado GHB614 × LLCotton25 destinados a outras utilizações que não como géneros alimentícios ou alimentos para animais, à exceção do cultivo.\n\n(8) Foi atribuído um identificador único ao algodão geneticamente modificado GHB614 × LLCotton25, em conformidade com o Regulamento de Execução (CE) n.º 65/2004 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr5-L_202600521PT.000101-E0005), no contexto da autorização inicial pela Decisão de Execução (UE) 2015/690. Esse identificador único deve continuar a ser utilizado.\n\n(9) No que diz respeito aos produtos abrangidos pela presente decisão, não parecem ser necessários requisitos de rotulagem específicos além dos estabelecidos no artigo 13.º, n.º 1, e no artigo 25.º, n.º 2, alíneas a) e b), do Regulamento (CE) n.º 1829/2003, bem como no artigo 4.º, n.º 6, do Regulamento (CE) n.º 1830/2003 do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr6-L_202600521PT.000101-E0006). Todavia, a fim de assegurar que a utilização dos produtos que contenham ou sejam constituídos por algodão geneticamente modificado GHB614 × LLCotton25 permanece dentro dos limites da autorização concedida na presente decisão, a rotulagem desses produtos, exceto os alimentos e os ingredientes alimentares, deve conter a indicação clara de que não se destinam ao cultivo.\n\n(10) O detentor da autorização deve apresentar relatórios anuais sobre a execução e os resultados das atividades constantes do plano de monitorização dos efeitos ambientais. Esses resultados devem ser apresentados em conformidade com os requisitos estabelecidos na Decisão 2009/770/CE da Comissão [([^7])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr7-L_202600521PT.000101-E0007).\n\n(11) O parecer da Autoridade não justifica a imposição de condições ou restrições específicas para a colocação no mercado, a utilização e o manuseamento, incluindo requisitos de monitorização após colocação no mercado relativos ao consumo de géneros alimentícios e alimentos para animais que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado GHB614 × LLCotton25, ou para a proteção de determinados ecossistemas ou ambientes e/ou zonas geográficas, tal como previsto no artigo 6.º, n.º 5, alínea e), e no artigo 18.º, n.º 5, alínea e), do Regulamento (CE) n.º 1829/2003.\n\n(12) Todas as informações pertinentes sobre a autorização dos produtos abrangidos pela presente decisão devem ser inscritas no Registo Comunitário dos Géneros Alimentícios e Alimentos para Animais Geneticamente Modificados referido no artigo 28.º, n.º 1, do Regulamento (CE) n.º 1829/2003.\n\n(13) A presente decisão deve ser notificada, através do Centro de Intercâmbio de Informações para a Segurança Biológica, às Partes no Protocolo de Cartagena sobre Segurança Biológica à Convenção sobre a Diversidade Biológica, nos termos do artigo 9.º, n.º 1, e do artigo 15.º, n.º 2, alínea c), do Regulamento (CE) n.º 1946/2003 do Parlamento Europeu e do Conselho [([^8])](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntr8-L_202600521PT.000101-E0008).\n\n(14) O Comité Permanente dos Vegetais, Animais e Alimentos para Consumo Humano e Animal não emitiu parecer no prazo fixado pelo seu presidente. Considerou-se que o presente ato de execução era necessário, e o presidente apresentou-o ao comité de recurso para nova deliberação. O comité de recurso não emitiu parecer,\n\nADOTOU A PRESENTE DECISÃO:"
+  },
+  "1c286493f0959c8a": {
+   "fragment_id": "Artigo 1.º — Organismo geneticamente modificado e identificador único",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Organismo geneticamente modificado e identificador único",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Organismo geneticamente modificado e identificador único\n\nAo algodão (*Gossypium hirsutum* L. e *Gossypium barbadense* L.) geneticamente modificado GHB614 × LLCotton25, tal como se especifica na alínea b) do anexo da presente decisão, é atribuído, em conformidade com o Regulamento (CE) n.º 65/2004, o identificador único BCS-GHØØ2-5 × ACS-GHØØ1-3."
+  },
+  "4fdd0dc3133f3986": {
+   "fragment_id": "Artigo 2.º — Renovação da autorização",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Renovação da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Renovação da autorização\n\nA autorização de colocação no mercado dos seguintes produtos é renovada:\n\na) Géneros alimentícios e ingredientes alimentares que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3;\n\nb) Alimentos para animais que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3;\n\nc) Produtos que contenham ou sejam constituídos por algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3, para outras utilizações que não as indicadas nas alíneas a) e b), à exceção do cultivo."
+  },
+  "d77254afe60171bd": {
+   "fragment_id": "Artigo 3.º — Rotulagem",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Rotulagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Rotulagem\n\n1. Para efeitos dos requisitos de rotulagem estabelecidos no artigo 13.º, n.º 1, e no artigo 25.º, n.º 2, alíneas a) e b), do Regulamento (CE) n.º 1829/2003, bem como no artigo 4.º, n.º 6, do Regulamento (CE) n.º 1830/2003, o nome do organismo é «algodão».\n\n2. A menção «Não se destina ao cultivo» deve constar do rótulo e dos documentos de acompanhamento dos produtos que contenham ou sejam constituídos por algodão geneticamente modificado como referido no artigo 1.º, à exceção dos produtos referidos no artigo 2.º, alínea a)."
+  },
+  "6b68af5532ccef76": {
+   "fragment_id": "Artigo 4.º — Método de deteção",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Método de deteção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Método de deteção\n\nPara a deteção do algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3 é aplicável o método estabelecido na alínea d) do anexo."
+  },
+  "9ea88ad4a32d0f17": {
+   "fragment_id": "Artigo 5.º — Monitorização dos efeitos ambientais",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Monitorização dos efeitos ambientais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Monitorização dos efeitos ambientais\n\n1. O detentor da autorização deve garantir a elaboração e a execução do plano de monitorização dos efeitos ambientais, de acordo com o disposto na alínea h) do anexo.\n\n2. O detentor da autorização deve apresentar à Comissão relatórios anuais sobre a execução e os resultados das atividades constantes do plano de monitorização em conformidade com o modelo que consta da Decisão 2009/770/CE."
+  },
+  "99a40757f8787d51": {
+   "fragment_id": "Artigo 6.º — Registo comunitário",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Registo comunitário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Registo comunitário\n\nAs informações contidas no anexo da presente decisão devem ser inscritas no Registo Comunitário dos Géneros Alimentícios e Alimentos para Animais Geneticamente Modificados referido no artigo 28.º, n.º 1, do Regulamento (CE) n.º 1829/2003."
+  },
+  "640c3d37efe4653b": {
+   "fragment_id": "Artigo 7.º — Detentor da autorização",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Detentor da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Detentor da autorização\n\nO detentor da autorização é a empresa BASF Agricultural Solutions US LLC, Estados Unidos, representada na União pela empresa BASF SE, Alemanha."
+  },
+  "7d67883975ffeb40": {
+   "fragment_id": "Artigo 8.º — Validade",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Validade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Validade\n\nA presente decisão é aplicável por um período de dez anos a contar da data da sua notificação."
+  },
+  "60d0736c0eb7c1f9": {
+   "fragment_id": "Artigo 9.º — Destinatário",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Destinatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destinatário\n\nO destinatário da presente decisão é a empresa BASF Agricultural Solutions US LLC, 100 Park Avenue, Florham Park, NJ 07932, Estados Unidos, representada na União pela empresa BASF SE, Carl-Bosch-Str. 38, D-67063, Ludwigshafen, Alemanha.\n\nFeito em Bruxelas, em 10 de março de 2026.\n\n***Pela Comissão***\n\n**Olivér VÁRHELYI**\n\n***Membro da Comissão***\n\n---"
+  },
+  "76a28c8920d9bd05": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc1-L_202600521PT.000101-E0001) [JO L 268 de 18.10.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC), ELI: [http://data.europa.eu/eli/reg/2003/1829/oj](http://data.europa.eu/eli/reg/2003/1829/oj).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc2-L_202600521PT.000101-E0002) Decisão de Execução (UE) 2015/690 da Comissão, de 24 de abril de 2015, que autoriza a colocação no mercado de produtos que contenham, sejam constituídos por, ou produzidos a partir de algodão geneticamente modificado GHB614xLLCotton25 (BCS-GHØØ2-5xACS-GHØØ1-3) nos termos do Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho ([JO L 112 de 30.4.2015, p. 35](http://publications.europa.eu/resource/oj/JOL_2015_112_R_TOC), ELI: [http://data.europa.eu/eli/dec_impl/2015/690/oj](http://data.europa.eu/eli/dec_impl/2015/690/oj)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc3-L_202600521PT.000101-E0003) Painel OGM da EFSA (Painel dos Organismos Geneticamente Modificados), «Scientific Opinion on the assessment of genetically modified cotton GHB614 × LLCotton25 for renewal authorisation under regulation (EC) No 1829/2003 (dossier GMFF-2024-21890)», *EFSA Journal*, vol. 23, artigo e9572, 2025, [https://doi.org/10.2903/j.efsa.2025.9572](https://doi.org/10.2903/j.efsa.2025.9572).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc4-L_202600521PT.000101-E0004) Painel OGM da EFSA (Painel dos Organismos Geneticamente Modificados), «Scientific Opinion on application (EFSA-GMO-NL-2010-77) for the placing on the market of herbicide-tolerant genetically modified cotton GHB614 × LLCotton25 for food and feed uses, import and processing under Regulation (EC) No 1829/2003 from Bayer CropScience», *EFSA Journal*, vol. 12, n.º 5, artigo 3680, 2014, [https://doi.org/10.2903/j.efsa.2014.3680](https://doi.org/10.2903/j.efsa.2014.3680).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc5-L_202600521PT.000101-E0005) Regulamento (CE) n.º 65/2004 da Comissão, de 14 de janeiro de 2004, que estabelece um sistema para criação e atribuição de identificadores únicos aos organismos geneticamente modificados ([JO L 10 de 16.1.2004, p. 5](http://publications.europa.eu/resource/oj/JOL_2004_010_R_TOC), ELI: [http://data.europa.eu/eli/reg/2004/65/oj](http://data.europa.eu/eli/reg/2004/65/oj)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc6-L_202600521PT.000101-E0006) Regulamento (CE) n.º 1830/2003 do Parlamento Europeu e do Conselho, de 22 de setembro de 2003, relativo à rastreabilidade e rotulagem de organismos geneticamente modificados e à rastreabilidade dos géneros alimentícios e alimentos para animais produzidos a partir de organismos geneticamente modificados e que altera a Diretiva 2001/18/CE ([JO L 268 de 18.10.2003, p. 24](http://publications.europa.eu/resource/oj/JOL_2003_268_R_TOC), ELI: [http://data.europa.eu/eli/reg/2003/1830/oj](http://data.europa.eu/eli/reg/2003/1830/oj)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc7-L_202600521PT.000101-E0007) Decisão 2009/770/CE da Comissão, de 13 de outubro de 2009, que em conformidade com a Diretiva 2001/18/CE do Parlamento Europeu e do Conselho, estabelece os modelos de relatórios normalizados para a apresentação dos resultados da monitorização das libertações deliberadas no ambiente de organismos geneticamente modificados, como produtos ou contidos em produtos destinados a ser colocados no mercado ([JO L 275 de 21.10.2009, p. 9](http://publications.europa.eu/resource/oj/JOL_2009_275_R_TOC), ELI: [http://data.europa.eu/eli/dec/2009/770/oj](http://data.europa.eu/eli/dec/2009/770/oj)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/efc3c78f-1db4-11f1-8c3a-01aa75ed71a1.0020.03/DOC_1#ntc8-L_202600521PT.000101-E0008) Regulamento (CE) n.º 1946/2003 do Parlamento Europeu e do Conselho, de 15 de julho de 2003, relativo ao movimento transfronteiriço de organismos geneticamente modificados ([JO L 287 de 5.11.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_287_R_TOC), ELI: [http://data.europa.eu/eli/reg/2003/1946/oj](http://data.europa.eu/eli/reg/2003/1946/oj))."
+  },
+  "0a9910c4650db5e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 10 de março de 2026\n\nque renova a autorização de colocação no mercado de produtos que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado GHB614 × LLCotton25 nos termos do Regulamento (CE) n.º 1829/2003 do Parlamento Europeu e do Conselho\n\n*[notificada com o número C(2026) 1494]*\n\n(Apenas faz fé o texto em língua alemã)\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "9ec1e17eebf49048": {
+   "fragment_id": "Artigo 7.º — Detentor da autorização",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Detentor da autorização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Detentor da autorização\n\nO detentor da autorização é a empresa BASF Agricultural Solutions US LLC, Estados Unidos, representada na União pela empresa BASF Agricultural Solutions Belgium NV, Bélgica."
+  },
+  "b76277012f10b3d8": {
+   "fragment_id": "Artigo 9.º — Destinatário",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Destinatário",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Destinatário\n\nO destinatário da presente decisão é a empresa BASF Agricultural Solutions US LLC, 2 T.W. Alexander Dr., Durham, NC 27713, Estados Unidos, representada na União pela empresa BASF Agricultural Solutions Belgium NV, Technologiepark-Zwijnaarde 101, 9052 Ghent, Bélgica."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "f1c964659bfebcad": {
+   "fragment_id": "a) Requerente e detentor da autorização:",
+   "type": "divisao",
+   "heading": "a) Requerente e detentor da autorização:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### a) Requerente e detentor da autorização:\n\nNome: BASF Agricultural Solutions US LLC\n\nEndereço: 2 T.W. Alexander Dr., Durham, NC 27713, Estados Unidos\n\nRepresentação na União: BASF Agricultural Solutions Belgium NV, Technologiepark-Zwijnaarde 101, 9052 Ghent, Bélgica."
+  },
+  "7cb21f0aa5845258": {
+   "fragment_id": "b) Designação e especificação dos produtos:",
+   "type": "divisao",
+   "heading": "b) Designação e especificação dos produtos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### b) Designação e especificação dos produtos:\n\n1) Géneros alimentícios e ingredientes alimentares que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3;\n\n2) Alimentos para animais que contenham, sejam constituídos por ou sejam produzidos a partir de algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3;\n\n3) Produtos que contenham ou sejam constituídos por algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3, para outras utilizações que não as indicadas nos pontos 1) e 2), à exceção do cultivo.\n\nO algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3 expressa os genes *pat* e *2mEPSPS*, que conferem tolerância aos herbicidas à base de glufosinato-amónio e à base de glifosato."
+  },
+  "f19efc0e4c48b645": {
+   "fragment_id": "c) Rotulagem:",
+   "type": "divisao",
+   "heading": "c) Rotulagem:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### c) Rotulagem:\n\n1) Para efeitos dos requisitos de rotulagem estabelecidos no artigo 13.º, n.º 1, e no artigo 25.º, n.º 2, alíneas a) e b), do Regulamento (CE) n.º 1829/2003, bem como no artigo 4.º, n.º 6, do Regulamento (CE) n.º 1830/2003, o nome do organismo é «algodão»;\n\n2) A menção «Não se destina ao cultivo» deve constar do rótulo e dos documentos de acompanhamento dos produtos que contenham ou sejam constituídos por algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3, à exceção dos produtos referidos na alínea b), ponto 1)."
+  },
+  "4130254d16de97d9": {
+   "fragment_id": "d) Método de deteção:",
+   "type": "divisao",
+   "heading": "d) Método de deteção:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### d) Método de deteção:\n\n1) Os métodos de deteção por PCR quantitativa do evento específico são os métodos validados individualmente para o algodão geneticamente modificado BCS-GHØØ2-5 e ACS-GHØØ1-3, e verificados adicionalmente na combinação de algodão geneticamente modificado BCS-GHØØ2-5 × ACS-GHØØ1-3;\n\n2) Validado pelo laboratório de referência da UE criado nos termos do Regulamento (CE) n.º 1829/2003, publicado em [https://gmo-crl.jrc.ec.europa.eu/method-validations](https://gmo-crl.jrc.ec.europa.eu/method-validations);\n\n3) Material de referência: AOCS 1108-A (para BCS-GHØØ2-5), AOCS 0306-E (para ACS-GHØØ1-3) e AOCS 0306-A (para a homóloga não geneticamente modificada) acessíveis através da American Oil Chemists Society (AOCS) em [https://www.aocs.org/crm?SSO=True](https://www.aocs.org/crm?SSO=True)."
+  },
+  "161d8f220f597a1d": {
+   "fragment_id": "e) Identificador único:",
+   "type": "divisao",
+   "heading": "e) Identificador único:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### e) Identificador único:\n\nBCS-GHØØ2-5 × ACS-GHØØ1-3"
+  },
+  "826274321f95f63d": {
+   "fragment_id": "f) Informações requeridas nos termos do anexo II do Protocolo de Cartagena sobre Segurança Biológica à Convenção sobre a Diversidade Biológica:",
+   "type": "divisao",
+   "heading": "f) Informações requeridas nos termos do anexo II do Protocolo de Cartagena sobre Segurança Biológica à Convenção sobre a Diversidade Biológica:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### f) Informações requeridas nos termos do anexo II do Protocolo de Cartagena sobre Segurança Biológica à Convenção sobre a Diversidade Biológica:\n\n[Centro de Intercâmbio de Informações para a Segurança Biológica, ID de registo: *publicado no Registo Comunitário dos Géneros Alimentícios e Alimentos para Animais Geneticamente Modificados quando da notificação*]."
+  },
+  "d588b8a8449ba1f0": {
+   "fragment_id": "g) Condições ou restrições aplicáveis à colocação no mercado, utilização ou manuseamento dos produtos:",
+   "type": "divisao",
+   "heading": "g) Condições ou restrições aplicáveis à colocação no mercado, utilização ou manuseamento dos produtos:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### g) Condições ou restrições aplicáveis à colocação no mercado, utilização ou manuseamento dos produtos:\n\nNão aplicável."
+  },
+  "fb31304de612ca05": {
+   "fragment_id": "h) Plano de monitorização dos efeitos ambientais:",
+   "type": "divisao",
+   "heading": "h) Plano de monitorização dos efeitos ambientais:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### h) Plano de monitorização dos efeitos ambientais:\n\nPlano de monitorização dos efeitos ambientais em conformidade com o anexo VII da Diretiva 2001/18/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/5836d043-a6b3-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0001)).\n\n[Ligação: *plano publicado no Registo Comunitário dos Géneros Alimentícios e Alimentos para Animais Geneticamente Modificados*]"
+  },
+  "ef676851369e4dd1": {
+   "fragment_id": "i) Requisitos de monitorização da utilização dos géneros alimentícios para consumo humano após colocação no mercado:",
+   "type": "divisao",
+   "heading": "i) Requisitos de monitorização da utilização dos géneros alimentícios para consumo humano após colocação no mercado:",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### i) Requisitos de monitorização da utilização dos géneros alimentícios para consumo humano após colocação no mercado:\n\nNão aplicável.\n\n*Nota:* *as ligações aos documentos pertinentes podem sofrer alterações ao longo do tempo. Essas alterações serão levadas ao conhecimento do público mediante a atualização do Registo Comunitário dos Géneros Alimentícios e Alimentos para Animais Geneticamente Modificados.*\n\n---"
+  },
+  "5fca2dec7753c07a": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/5836d043-a6b3-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva 2001/18/CE do Parlamento Europeu e do Conselho, de 12 de março de 2001, relativa à libertação deliberada no ambiente de organismos geneticamente modificados e que revoga a Diretiva 90/220/CEE do Conselho (JO L 106 de 17.4.2001, p. 1, ELI: [http://data.europa.eu/eli/dir/2001/18/oj](http://data.europa.eu/eli/dir/2001/18/oj))."
+  }
+ }
+}

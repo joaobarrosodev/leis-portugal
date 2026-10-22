@@ -39,6 +39,48 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-29'
+version_history:
+  file: regulamento-ue-2021-2290.versoes.json
+  count: 4
+  source_lastmod: '2026-01-29'
+  versions:
+  - date: '2021-12-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-10-23'
+    amending: eu:celex:32023R2141:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2141 DA COMISSÃO de 13 de outubro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Notas
+    - Adita ANEXO
+    - Adita MÉTODOS DE CÁLCULO DOS INDICADORES COMUNS DE REALIZAÇÕES E DE RESULTADOS ESTABELECIDOS NO ANEXO I DO REGULAMENTO
+      (UE) 2021/2115
+    - Adita INDICADORES DE REALIZAÇÕES
+    - Adita INDICADORES DE RESULTADOS
+    - Adita Ligação entre objetivos específicos, indicadores de resultados e intervenções
+    - Adita Métodos de cálculo pormenorizados para os indicadores de resultados
+    - Adita Regras para evitar a dupla contabilidade nos indicadores de resultados
+    - Adita Denominadores dos indicadores de resultados
+    - Adita Repartição dos indicadores de resultados para a apresentação de relatórios
+    - Adita Coeficientes de conversão dos animais em cabeças normais
+  - date: '2024-02-16'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera INDICADORES DE REALIZAÇÕES
+    - Altera Métodos de cálculo pormenorizados para os indicadores de resultados
+    - Altera Notas
+  - date: '2026-01-29'
+    amending: eu:celex:32026R0166:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/166 DA COMISSÃO de 21 de janeiro de 2026
+    changes:
+    - Altera INDICADORES DE REALIZAÇÕES
+    - Altera Métodos de cálculo pormenorizados para os indicadores de resultados
+    - Altera Regras para evitar a dupla contabilidade nos indicadores de resultados
+    - Altera Notas
 identifiers:
   celex: 32021R2290
   eli: http://data.europa.eu/eli/reg_impl/2021/2290/oj
@@ -53,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a62a042f-62ca-11ec-a033-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/33acf80b-1ce8-11f1-8c3a-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2290-20260129
-  retrieved_at: '2026-10-22T03:19:58Z'
+  retrieved_at: '2026-10-22T17:15:19Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T16:12:22.124+01:00'
 integrity:
@@ -62,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:58Z'
-  notes: Texto consolidado 02021R2290-20260129.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:19Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2021-2290.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -103,30 +145,19 @@ relationships:
   source: null
 article_structure:
   article_count: 2
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:58Z'
+  checked_at: '2026-10-22T17:15:19Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2021/2290 da Comissão de 21 de dezembro de 2021
-
-> 02021R2290 — PT — 29.01.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2141) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2141 DA COMISSÃO de 13 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2141) — L 2141 — 1 — 16.10.2023
-- [►M2](http://publications.europa.eu/resource/celex/32026R0166) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/166 DA COMISSÃO de 21 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0166) — L 166 — 1 — 22.1.2026
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2021/2290 DA COMISSÃO
 
 de 21 de dezembro de 2021
 

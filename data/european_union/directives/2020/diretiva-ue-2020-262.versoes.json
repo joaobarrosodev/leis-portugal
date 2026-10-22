@@ -1,0 +1,1141 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32020L0262:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020L0262-20220426",
+ "dre_path": null,
+ "source_lastmod": "2022-04-26",
+ "versions": [
+  {
+   "date": "2020-02-27",
+   "future": false,
+   "celex": "02020L0262-20200227",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "b95738f840e86f65",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "fb602b126016e2df",
+    "9b4e68be2e5daf19",
+    "286ed6b4b1263f14",
+    "f4919112fffd5631",
+    "c42d72c4b94b2f22",
+    "f0f8c960bfdbce9b",
+    "4b61cbd629a419d9",
+    "0f5f67a91c3783f4",
+    "1c940b99fc290423",
+    "a9eefce8bb75a88c",
+    "2eff8ec6e570793e",
+    "30d364b6a06c4f8d",
+    "fb6f44d0e53aca8f",
+    "18e5b2282eff7afa",
+    "af9dd419a881fc6b",
+    "7b21fa704c6754a7",
+    "b426821733183e1b",
+    "aa5fd57b7dbc83a9",
+    "2e8305eaef9562cc",
+    "c625375ce55b6031",
+    "25b9a605ceb3e6c5",
+    "1e7a0903d2eed348",
+    "d4d8e0d8e3de4c04",
+    "6f84dfb54e5c4a0d",
+    "5c252b9bad9e6e56",
+    "1ecfc79da3f1ac7f",
+    "29e07c37e310c7d3",
+    "3869c2effa545d25",
+    "7fabed8a0a46afb5",
+    "36dc96ec9f0767fe",
+    "dd9e9c0e6c52fe6d",
+    "523170326b0aff3e",
+    "9fe27139f7f9ad9c",
+    "18e5b2282eff7afa",
+    "1c870f7eed732264",
+    "454dc0250f0a9059",
+    "7667bda42881a4de",
+    "e4441161eb40039b",
+    "8a36fa0c98415941",
+    "2c685704eef5d1c3",
+    "c9ff542b61e697c8",
+    "74c0c365c49bb80a",
+    "044f02560056ab9d",
+    "2f29c6fa47b13475",
+    "2a9d7374ec88e334",
+    "b426821733183e1b",
+    "5f696a8141c83302",
+    "26b12bb652ce4df0",
+    "613c5177931a3467",
+    "40ed6b62e188ac6f",
+    "99089aaa34e2cd1e",
+    "3869c2effa545d25",
+    "e0e8a3f64fcf6238",
+    "eba4668bef58d565",
+    "18e5b2282eff7afa",
+    "f5cd104b031a7d3f",
+    "f0647ce35fddbc5b",
+    "ea767907f63b571c",
+    "887d02353d563a08",
+    "52fa9930106a4671",
+    "3a5e6ecddcaf8709",
+    "5ecc45f1eedc8242",
+    "b6229ec95ca51881",
+    "569b23a4e15bf578",
+    "5b4d01d1edd198b1",
+    "c873242d36b27497",
+    "ca5c2d4c6544e76c",
+    "b426821733183e1b",
+    "ffa2b22f9742e3cc",
+    "8132958b82078d82",
+    "b5d7193d82983e30",
+    "eb78a80087307455",
+    "d2cf95145bb50bab",
+    "744a62350cf0c0fd",
+    "f5bc6f982806e111",
+    "84279d54e8c881ec",
+    "b76d202a844f758e",
+    "7a2adc3444f35855",
+    "3869c2effa545d25",
+    "5ea2e0e35c1562ea",
+    "dea7b6e41f3fcb9b",
+    "18e5b2282eff7afa",
+    "4d241c3f7e83fad2",
+    "0d3201dd254cf8db",
+    "b426821733183e1b",
+    "f91e8193a101381f",
+    "9951b7d2c8aaecc4",
+    "b5d7193d82983e30",
+    "35f5342fa5d56bac",
+    "ac16a97292326c8d",
+    "2cfe7e3884295f86",
+    "8044e6944436e29f",
+    "ac4bb6ec174764d5",
+    "a4193f4cc454bbe6",
+    "99973826fcc02605",
+    "e3caf7c8e973b994",
+    "58e05ebb798d590c",
+    "f0c01651e97a0614",
+    "a37c4210fe22ccd8",
+    "c43fab8f1d55bb72",
+    "22a1b88e54adc399",
+    "3e1e3a6f1b30cfab",
+    "d664376e2a8dcecd",
+    "87cee521b2f0bb1e",
+    "3630bb82f0cedd0d",
+    "6041be3baf7dcb43",
+    "9d38442d6bb38d6c",
+    "852174729551523b",
+    "5c5313a5feb3372a",
+    "cce50b0d34ad3245"
+   ]
+  },
+  {
+   "date": "2022-04-26",
+   "future": false,
+   "celex": "02020L0262-20220426",
+   "acts": [
+    {
+     "id": "eu:celex:32022L0543:por",
+     "title": "DIRETIVA (UE) 2022/543 DO CONSELHO de 5 de abril de 2022",
+     "published": null,
+     "celex": "32022L0543"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo",
+    "Altera Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros",
+    "Altera Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento",
+    "Altera Artigo 45.º — Inutilização e perda",
+    "Altera Artigo 48.º — Pequenos produtores de vinho",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "b95738f840e86f65",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "fb602b126016e2df",
+    "5bcc667b13e9294d",
+    "286ed6b4b1263f14",
+    "f4919112fffd5631",
+    "c42d72c4b94b2f22",
+    "f0f8c960bfdbce9b",
+    "4b61cbd629a419d9",
+    "0f5f67a91c3783f4",
+    "1c940b99fc290423",
+    "a9eefce8bb75a88c",
+    "2eff8ec6e570793e",
+    "30d364b6a06c4f8d",
+    "fb6f44d0e53aca8f",
+    "18e5b2282eff7afa",
+    "af9dd419a881fc6b",
+    "7b21fa704c6754a7",
+    "b426821733183e1b",
+    "aa5fd57b7dbc83a9",
+    "2e8305eaef9562cc",
+    "c625375ce55b6031",
+    "f4aa4f9e0b46af0d",
+    "1e7a0903d2eed348",
+    "d4d8e0d8e3de4c04",
+    "6f84dfb54e5c4a0d",
+    "5c252b9bad9e6e56",
+    "1ecfc79da3f1ac7f",
+    "29e07c37e310c7d3",
+    "3869c2effa545d25",
+    "7fabed8a0a46afb5",
+    "08a541277be3919c",
+    "dd9e9c0e6c52fe6d",
+    "523170326b0aff3e",
+    "9fe27139f7f9ad9c",
+    "18e5b2282eff7afa",
+    "1c870f7eed732264",
+    "454dc0250f0a9059",
+    "7667bda42881a4de",
+    "e4441161eb40039b",
+    "8a36fa0c98415941",
+    "2c685704eef5d1c3",
+    "c9ff542b61e697c8",
+    "74c0c365c49bb80a",
+    "044f02560056ab9d",
+    "2f29c6fa47b13475",
+    "2a9d7374ec88e334",
+    "b426821733183e1b",
+    "5f696a8141c83302",
+    "26b12bb652ce4df0",
+    "613c5177931a3467",
+    "40ed6b62e188ac6f",
+    "99089aaa34e2cd1e",
+    "3869c2effa545d25",
+    "e0e8a3f64fcf6238",
+    "eba4668bef58d565",
+    "18e5b2282eff7afa",
+    "f5cd104b031a7d3f",
+    "f0647ce35fddbc5b",
+    "ea767907f63b571c",
+    "887d02353d563a08",
+    "52fa9930106a4671",
+    "3a5e6ecddcaf8709",
+    "5ecc45f1eedc8242",
+    "b6229ec95ca51881",
+    "569b23a4e15bf578",
+    "5b4d01d1edd198b1",
+    "c873242d36b27497",
+    "ca5c2d4c6544e76c",
+    "b426821733183e1b",
+    "ffa2b22f9742e3cc",
+    "8132958b82078d82",
+    "b5d7193d82983e30",
+    "eb78a80087307455",
+    "040460a05f67936e",
+    "744a62350cf0c0fd",
+    "f5bc6f982806e111",
+    "84279d54e8c881ec",
+    "b76d202a844f758e",
+    "7a2adc3444f35855",
+    "3869c2effa545d25",
+    "5ea2e0e35c1562ea",
+    "dea7b6e41f3fcb9b",
+    "18e5b2282eff7afa",
+    "4d241c3f7e83fad2",
+    "d968e84b0e1ca843",
+    "b426821733183e1b",
+    "f91e8193a101381f",
+    "9951b7d2c8aaecc4",
+    "b5d7193d82983e30",
+    "35f5342fa5d56bac",
+    "ac16a97292326c8d",
+    "2cfe7e3884295f86",
+    "8044e6944436e29f",
+    "ac4bb6ec174764d5",
+    "a4193f4cc454bbe6",
+    "99973826fcc02605",
+    "e3caf7c8e973b994",
+    "58e05ebb798d590c",
+    "f0c01651e97a0614",
+    "a37c4210fe22ccd8",
+    "c43fab8f1d55bb72",
+    "22a1b88e54adc399",
+    "3e1e3a6f1b30cfab",
+    "d664376e2a8dcecd",
+    "87cee521b2f0bb1e",
+    "3630bb82f0cedd0d",
+    "6041be3baf7dcb43",
+    "9d38442d6bb38d6c",
+    "852174729551523b",
+    "5c5313a5feb3372a",
+    "c04013a640ced28c"
+   ]
+  }
+ ],
+ "fragments": {
+  "b95738f840e86f65": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 19 de dezembro de 2019\n\nque estabelece o regime geral dos impostos especiais de consumo\n\n(reformulação)"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "fb602b126016e2df": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\n1.\n\nA presente diretiva estabelece o regime geral dos impostos especiais de consumo que incidem direta ou indiretamente sobre o consumo dos seguintes produtos («produtos sujeitos a impostos especiais de consumo»):\n\na) Produtos energéticos e eletricidade, abrangidos pela Diretiva 2003/96/CE;\n\nb) Álcool e bebidas alcoólicas, abrangidos pelas Diretivas 92/83/CEE e 92/84/CEE;\n\nc) Tabaco manufaturado, abrangido pela Diretiva 2011/64/UE.\n\n2. Os Estados‐Membros podem cobrar, por motivos específicos, outros impostos indiretos sobre os produtos sujeitos a impostos especiais de consumo, desde que esses impostos sejam conformes com as normas fiscais da União aplicáveis ao imposto especial de consumo e ao imposto sobre o valor acrescentado no que diz respeito à determinação da base tributável, à liquidação, à exigibilidade e ao controlo do imposto, regras estas que não incluem as disposições relativas às isenções.\n\n3.\n\nOs Estados‐Membros podem cobrar impostos sobre:\n\na) Produtos não sujeitos a impostos especiais de consumo;\n\nb) Prestações de serviços, incluindo as relativas a produtos sujeitos a impostos especiais de consumo, que não possam ser considerados impostos sobre o volume de negócios.\n\nTodavia, no comércio entre Estados‐Membros, a cobrança dos referidos impostos não pode originar formalidades ligadas à passagem de fronteiras."
+  },
+  "9b4e68be2e5daf19": {
+   "fragment_id": "Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo\n\n1. As formalidades previstas nas disposições aduaneiras da União para a entrada de produtos no território aduaneiro da União são aplicáveis, *mutatis mutandis*, à entrada no território da União de produtos sujeitos a impostos especiais de consumo a partir de um dos territórios referidos no artigo 4.º, n.º 2.\n\n2. As formalidades previstas nas disposições aduaneiras da União para a saída de produtos do território aduaneiro da União são aplicáveis, *mutatis mutandis*, à saída de produtos sujeitos a impostos especiais de consumo do território da União para um dos territórios referidos no artigo 4.º, n.º 2.\n\n3. Em derrogação do disposto nos n.^os^ 1 e 2, a Finlândia fica autorizada, relativamente à circulação de produtos sujeitos a impostos especiais de consumo entre o território desse Estado‐Membro e os territórios referidos no artigo 4.º, n.º 2, alínea c), a aplicar procedimentos idênticos aos aplicados à circulação dentro do território desse Estado‐Membro.\n\n4. Os artigos 14.º a 46.º não são aplicáveis aos produtos sujeitos a impostos especiais de consumo que tenham o estatuto aduaneiro de mercadorias não‐UE, na aceção do artigo 5.º, ponto 24, do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/105ddf7b-1ddc-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0001))."
+  },
+  "286ed6b4b1263f14": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos da presente diretiva, entende‐se por:\n\n1) «Depositário autorizado», a pessoa singular ou coletiva autorizada pelas autoridades competentes de um Estado‐Membro a, no exercício da sua profissão, produzir, transformar, deter, armazenar, receber ou expedir, num entreposto fiscal, produtos sujeitos ao imposto especial de consumo em regime de suspensão do imposto;\n\n2) «Território de um Estado‐Membro», o território de um Estado‐Membro ao qual são aplicáveis os Tratados, nos termos dos artigos 349.º e 355.º do TFUE, com exclusão dos territórios terceiros;\n\n3) «Território da União», os territórios dos Estados‐Membros;\n\n4) «Território terceiro», um dos territórios referidos no artigo 4.º, n.^os^ 2 e 3;\n\n5) «Países terceiros», qualquer Estado ou território aos quais não são aplicáveis os Tratados;\n\n6) «Regime de suspensão do imposto», um regime fiscal aplicável à produção, transformação, detenção, armazenagem ou circulação dos produtos sujeitos ao imposto especial de consumo em que a cobrança do imposto especial de consumo é suspensa;\n\n7) «Importação», a introdução dos produtos em livre prática nos termos do artigo 201.º do Regulamento (UE) n.º 952/2013.\n\n8) «Entrada irregular», a entrada, no território da União, de produtos que não tenham sido introduzidos em livre prática nos termos do artigo 201.º do Regulamento (UE) n.º 952/2013, e para os quais tenha sido constituída uma dívida aduaneira, nos termos do artigo 79.º, n.º 1, do Regulamento (UE), ou teria sido constituída uma dívida aduaneira se os produtos estivessem sujeitos a direitos aduaneiros;\n\n9) «Destinatário registado», a pessoa singular ou coletiva autorizada pelas autoridades competentes do Estado‐Membro de destino a receber, no exercício da sua profissão e nas condições fixadas por essas autoridades, produtos sujeitos a impostos especiais de consumo que circulam em regime de suspensão do imposto, provenientes do território de outro Estado‐Membro;\n\n10) «Expedidor registado», a pessoa singular ou coletiva autorizada pelas autoridades competentes do Estado‐Membro de importação a expedir exclusivamente produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto na sequência da introdução em livre prática nos termos do artigo 201.º do Regulamento (UE) n.º 952/2013, no exercício da sua profissão e nas condições fixadas por essas autoridades;\n\n11) «Entreposto fiscal», o local onde são produzidos, transformados, detidos, armazenados, recebidos ou expedidos pelo depositário autorizado, no exercício da sua profissão, produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, em determinadas condições fixadas pelas autoridades competentes do Estado‐Membro em que está situado o entreposto fiscal;\n\n12) «Expedidor certificado», uma pessoa singular ou coletiva registada junto das autoridades competentes do Estado‐Membro de expedição a fim de expedir, no exercício da sua profissão, produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no território de um Estado‐Membro e posteriormente transportados para o território de outro Estado‐Membro;\n\n13) «Destinatário certificado», uma pessoa singular ou coletiva registada junto das autoridades competentes do Estado‐Membro de destino a fim de receber, no exercício da sua profissão, produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no território de um Estado‐Membro e posteriormente transportados para o território de outro Estado‐Membro;\n\n14) «Estado‐Membro de destino», o Estado‐Membro onde os produtos sujeitos a impostos especiais de consumo deverão ser entregues ou utilizados em conformidade com o disposto na presente diretiva;\n\n15) «Dispensa de pagamento», a dispensa da obrigação de pagamento de um montante de imposto especial de consumo que não tenha sido pago;\n\n16) «Reembolso», a restituição de um montante de imposto especial de consumo que tenha sido pago."
+  },
+  "f4919112fffd5631": {
+   "fragment_id": "Artigo 4.º — Aplicação territorial",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aplicação territorial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aplicação territorial\n\n1. A presente diretiva e as Diretivas 92/83/CEE, 92/84/CEE, 2003/96/CE e 2011/64/UE são aplicáveis no território da União.\n\n2.\n\nA presente diretiva e as Diretivas 92/83/CEE, 92/84/CEE, 2003/96/CE e 2011/64/UE não são aplicáveis nos seguintes territórios, que fazem parte do território aduaneiro da União:\n\na) Ilhas Canárias;\n\nb) Os territórios franceses referidos no artigo 349.º e no artigo 355.º, n.º 1, do TFUE;\n\nc) Ilhas Åland;\n\nd) Ilhas Anglo‐Normandas.\n\n3.\n\nA presente diretiva e as Diretivas 92/83/CEE, 92/84/CEE, 2003/96/CE e 2011/64/UE não são aplicáveis nos territórios abrangidos pelo artigo 355.º, n.º 3, do TFUE, nem nos demais territórios seguintes, que não fazem parte do território aduaneiro da União:\n\na) Ilha de Helgoland;\n\nb) Território de Büsingen;\n\nc) Ceuta;\n\nd) Melilha;\n\ne) Livigno.\n\n4. A Espanha pode notificar, por meio de uma declaração, que a presente diretiva e as Diretivas 92/83/CEE, 92/84/CEE, 2003/96/CE e 2011/64/UE passem a aplicar‐se às ilhas Canárias – sob reserva de medidas de adaptação à situação ultraperiférica desses territórios – para a totalidade ou parte dos produtos sujeitos a impostos especiais de consumo referidos no artigo 1.º, a partir do primeiro dia do segundo mês subsequente ao depósito dessa declaração.\n\n5. A França pode notificar, por meio de uma declaração, que a presente diretiva e as Diretivas 92/83/CEE, 92/84/CEE, 2003/96/CE e 2011/64/UE passem a aplicar‐se aos territórios referidos no n.º 2, alínea b) – sob reserva de medidas de adaptação à sua situação ultraperiférica – para a totalidade ou parte dos produtos sujeitos a impostos especiais de consumo referidos no artigo 1.º, a partir do primeiro dia do segundo mês subsequente ao depósito dessa declaração.\n\n6. As disposições da presente diretiva não obstam a que a Grécia mantenha o estatuto específico concedido ao monte Athos, consignado no artigo 105.º da Constituição Helénica."
+  },
+  "c42d72c4b94b2f22": {
+   "fragment_id": "Artigo 5.º — Estatuto territorial especial",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Estatuto territorial especial",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Estatuto territorial especial\n\n1. Tendo em conta as convenções e tratados celebrados, respetivamente, com a França, com a Itália, com Chipre e com o Reino Unido, o Principado do Mónaco, São Marinho, as zonas de soberania do Reino Unido em Akrotiri e Dhekelia e a ilha de Man, não são considerados, para efeitos da presente diretiva, como países terceiros.\n\n2.\n\nOs Estados‐Membros tomam as medidas necessárias para assegurar que as operações efetuadas a partir de ou com destino:\n\na) Ao Principado do Mónaco sejam tratadas como operações efetuadas a partir de ou com destino à República Francesa;\n\nb) A São Marinho sejam tratadas como operações efetuadas a partir de ou com destino a Itália;\n\nc) Às zonas de soberania do Reino Unido em Akrotiri e Dhekelia sejam tratadas como operações efetuadas a partir de ou com destino a Chipre;\n\nd) À ilha de Man sejam tratadas como operações efetuadas a partir de ou com destino ao Reino Unido.\n\n3. Os Estados‐Membros tomam as medidas necessárias para assegurar que a circulação de produtos sujeitos a impostos especiais de consumo a partir de ou com destino a Jungholz e Mittelberg (Kleines Walsertal) sejam tratadas como operações a partir de ou com destino à Alemanha."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "4b61cbd629a419d9": {
+   "fragment_id": "Disposições processuais gerais",
+   "type": "divisao",
+   "heading": "Disposições processuais gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições processuais gerais"
+  },
+  "0f5f67a91c3783f4": {
+   "fragment_id": "secção 1",
+   "type": "divisao",
+   "heading": "secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## secção 1"
+  },
+  "1c940b99fc290423": {
+   "fragment_id": "Facto gerador de imposto, exigibilidade, irregularidades durante a circulação em regime de suspensão do imposto",
+   "type": "divisao",
+   "heading": "Facto gerador de imposto, exigibilidade, irregularidades durante a circulação em regime de suspensão do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Facto gerador de imposto, exigibilidade, irregularidades durante a circulação em regime de suspensão do imposto"
+  },
+  "a9eefce8bb75a88c": {
+   "fragment_id": "Artigo 6.º — Facto gerador de imposto, data e local de exigibilidade, inutilização e perda irremediável",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Facto gerador de imposto, data e local de exigibilidade, inutilização e perda irremediável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Facto gerador de imposto, data e local de exigibilidade, inutilização e perda irremediável\n\n1.\n\nOs produtos sujeitos a imposto especial de consumo são tributados desse imposto na data:\n\na) Da sua produção, incluindo, se aplicável, da sua extração no território da União;\n\nb) Da sua importação ou entrada irregular no território da União.\n\n2. O imposto especial de consumo torna‐se exigível na data e no Estado‐Membro da introdução no consumo.\n\n3.\n\nPara efeitos da presente diretiva, por «introdução no consumo» entende‐se:\n\na) A saída, mesmo irregular, de produtos sujeitos a impostos especiais de consumo de um regime de suspensão do imposto;\n\nb) A detenção ou armazenagem fora de um regime de suspensão do imposto de produtos sujeitos a impostos especiais de consumo, incluindo casos de irregularidades, caso o imposto especial de consumo não tenha sido cobrado em conformidade com as disposições da União e a legislação nacional aplicáveis;\n\nc) A produção, mesmo irregular, incluindo a transformação, de produtos sujeitos a impostos especiais de consumo fora de um regime de suspensão do imposto;\n\nd) A importação de produtos sujeitos a impostos especiais de consumo, a menos que esses produtos sejam colocados, imediatamente após a importação, num regime de suspensão do imposto, ou a entrada irregular de produtos sujeitos a impostos especiais de consumo, a menos que a dívida aduaneira tenha sido extinta nos termos do artigo 124.º, n.º 1, alíneas e), f), g) e k), do Regulamento (UE) n.º 952/2013. Se a dívida aduaneira tiver sido extinta nos termos do artigo 124.º, n.º 1, alínea e), do Regulamento (UE) n.º 952/2013, os Estados‐Membros podem prever, no seu direito nacional, uma sanção que tenha em conta o montante da dívida de impostos especiais de consumo que teria sido incorrida.\n\n4.\n\nA data de saída de um regime de suspensão do imposto a que se refere o n.º 3, alínea a), deve ser considerada:\n\na) A data da receção dos produtos sujeitos a impostos especiais de consumo pelo destinatário registado nas situações referidas no artigo 16.º, n.º 1, alínea a), subalínea ii);\n\nb) A data da receção dos produtos sujeitos a impostos especiais de consumo pelo destinatário nas situações referidas no artigo 16.º, n.º 1, alínea a), subalínea iv);\n\nc) A data da receção dos produtos sujeitos a impostos especiais de consumo no local da entrega direta nas situações referidas no artigo 16.º, n.º 4.\n\n5. Não é considerada introdução no consumo a inutilização total ou a perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, devido a caso fortuito ou de força maior, ou na sequência de uma autorização para inutilizar os produtos dada pelas autoridades competentes do Estado‐Membro.\n\n6. Para efeitos da presente diretiva, considera‐se que os produtos estão totalmente inutilizados ou irremediavelmente perdidos quando deixem de poder ser utilizados como produtos sujeitos a impostos especiais de consumo.\n\n7. A perda parcial devida à natureza dos produtos que ocorra durante a circulação, em regime de suspensão do imposto, entre Estados‐Membros não é considerada uma introdução no consumo quando o montante da perda seja inferior ao limiar de perda parcial comum para esses produtos sujeitos a impostos especiais de consumo, a menos que um Estado‐Membro tenha motivos razoáveis para suspeitar de fraude ou de irregularidades. A parte de uma perda parcial que exceda o limiar de perda parcial comum para esses produtos sujeitos a impostos especiais de consumo é considerada uma introdução no consumo.\n\n8. Os Estados‐Membros podem definir regras próprias para o tratamento de perdas parciais que ocorram em regime de suspensão do imposto e que não estejam abrangidas pelo n.º 7.\n\n9. Deve fazer‐se prova suficiente da inutilização total ou da perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo referidos no n.º 5 às autoridades competentes do Estado‐Membro em que ocorreu a inutilização total ou a perda irremediável, total ou parcial, ou, quando não for possível determinar o local em que ocorreu a perda, do local em que foi detetada.\n\nCaso se determine a inutilização total ou a perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo, a garantia constituída nos termos do artigo 17.º é liberada, total ou parcialmente, conforme o caso, mediante a apresentação de prova satisfatória.\n\n10. A Comissão adota atos delegados, nos termos do artigo 51.º, que estabeleçam os limiares de perda parcial comuns a que se referem o n.º 7 do presente artigo e o artigo 45.º, n.º 2, tendo em conta, nomeadamente, a natureza dos produtos, as características físicas e químicas dos produtos, a temperatura ambiente durante a circulação, a distância da circulação ou o tempo despendido durante a circulação, e especificando os produtos sujeitos a impostos especiais de consumo, o correspondente limiar de perda parcial comum em percentagem da quantidade total e outros aspetos pertinentes relacionados com o transporte dos produtos.\n\nNa falta de limiares de perda parcial comuns, os Estados‐Membros continuam a aplicar as disposições nacionais."
+  },
+  "2eff8ec6e570793e": {
+   "fragment_id": "Artigo 7.º — Devedor do imposto especial de consumo",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Devedor do imposto especial de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Devedor do imposto especial de consumo\n\n1.\n\nO imposto especial de consumo que se tenha tornado exigível é devido:\n\na) Relativamente à saída de produtos sujeitos a impostos especiais de consumo de um regime de suspensão do imposto a que se refere o artigo 6.º, n.º 3, alínea a):\n\ni) pelo depositário autorizado, pelo destinatário registado ou por qualquer outra pessoa que retire ou por conta da qual sejam retirados os produtos sujeitos a impostos especiais de consumo do regime de suspensão do imposto ou, em caso de saída irregular do entreposto fiscal, por qualquer outra pessoa envolvida nessa saída,\n\nii) em caso de irregularidade durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, tal como definida no artigo 9.º, n.^os^ 1, 2 e 4: pelo depositário autorizado, pelo expedidor registado ou por qualquer outra pessoa que se tenha constituído garante do pagamento nos termos do artigo 17.º, n.^os^ 1 e 3, ou por todas as pessoas que tenham participado na saída irregular e que tenham tido ou devam razoavelmente ter tido conhecimento da natureza irregular dessa saída;\n\nb) Relativamente à detenção ou armazenagem de produtos sujeitos a impostos especiais de consumo a que se refere o artigo 6.º, n.º 3, alínea b): pela pessoa que detenha ou armazene os produtos sujeitos a impostos especiais de consumo ou por qualquer outra pessoa envolvida na sua detenção ou armazenagem, ou por qualquer combinação dessas pessoas em conformidade com o princípio da responsabilidade solidária;\n\nc) Relativamente à produção, incluindo a transformação, de produtos sujeitos a impostos especiais de consumo a que se refere o artigo 6.º, n.º 3, alínea c): pela pessoa que produza os produtos sujeitos a impostos especiais de consumo e, em caso de produção irregular, por qualquer outra pessoa envolvida na sua produção;\n\nd) Relativamente à importação ou entrada irregular de produtos sujeitos a impostos especiais de consumo a que se refere o artigo 6.º, n.º 3, alínea d): pelo declarante, como definido no artigo 5.º, ponto 15, do Regulamento (UE) n.º 952/2013, ou por qualquer outra pessoa, a que se refere o artigo 77.º, n.º 3, desse regulamento, e, em caso de entrada irregular, por qualquer outra pessoa envolvida nessa entrada irregular.\n\n2. Caso existam vários devedores do mesmo imposto especial de consumo, estes ficam obrigados ao pagamento dessa dívida a título solidário."
+  },
+  "30d364b6a06c4f8d": {
+   "fragment_id": "Artigo 8.º — Condições de exigibilidade e taxas do imposto especial de consumo a aplicar",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Condições de exigibilidade e taxas do imposto especial de consumo a aplicar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Condições de exigibilidade e taxas do imposto especial de consumo a aplicar\n\nAs condições de exigibilidade e a taxa do imposto especial de consumo a aplicar são as vigentes na data em que o mesmo se torna exigível no Estado‐Membro em que é efetuada a introdução no consumo.\n\nA perceção, a cobrança, e, se adequado, o reembolso ou a dispensa de pagamento do imposto especial de consumo efetuam‐se segundo as regras estabelecidas por cada Estado‐Membro. Os Estados‐Membros aplicam as mesmas regras aos produtos nacionais e aos produtos provenientes de outros Estados‐Membros.\n\nEm derrogação do primeiro parágrafo, em caso de alteração das taxas do imposto especial de consumo, as existências de produtos sujeitos a impostos especiais de consumo já introduzidos no consumo podem, se for caso disso, ser sujeitas a um aumento ou a uma redução do imposto especial de consumo."
+  },
+  "fb6f44d0e53aca8f": {
+   "fragment_id": "Artigo 9.º — Irregularidades durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Irregularidades durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Irregularidades durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto\n\n1. Caso, durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, tenha ocorrido uma irregularidade que conduza à sua introdução no consumo nos termos do artigo 6.º, n.º 3, alínea a), a introdução no consumo tem lugar no território do Estado‐Membro em que ocorreu a irregularidade.\n\n2. Caso, durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, tenha sido detetada uma irregularidade que conduza à sua introdução no consumo nos termos do artigo 6.º, n.º 3, alínea a), e não seja possível determinar o local em que ocorreu a irregularidade, considera‐se que esta ocorreu no território do Estado‐Membro e na data em que foi detetada.\n\n3. Nas situações a que se referem os n.^os^ 1 e 2, as autoridades competentes do Estado‐Membro em que os produtos foram ou se considera que foram introduzidos no consumo informam as autoridades competentes do Estado‐Membro de expedição.\n\n4. Caso os produtos sujeitos a impostos especiais de consumo que circulam em regime de suspensão do imposto não tenham chegado ao destino e não tenha sido detetada durante a circulação nenhuma irregularidade que conduza à sua introdução no consumo nos termos do artigo 6.º, n.º 3, alínea a), considera‐se que ocorreu uma irregularidade no Estado‐Membro de expedição na data em que teve início a circulação, salvo se, no prazo de quatro meses a contar do início da circulação, nos termos do artigo 19.º, n.º 1, for feita prova suficiente, às autoridades competentes do Estado‐Membro de expedição, do termo da circulação, nos termos do artigo 19.º, n.º 2, ou do local em que ocorreu a irregularidade.\n\nSe a pessoa que constituiu a garantia prevista no artigo 17.º não tiver ou puder não ter tido conhecimento de que os produtos não chegaram ao destino, é‐lhe concedido o prazo de um mês a contar da comunicação dessa informação pelas autoridades competentes do Estado‐Membro de expedição para permitir a essa pessoa apresentar prova do termo da circulação, nos termos do artigo 19.º, n.º 2, ou do local em que ocorreu a irregularidade.\n\n5. Nas situações referidas nos n.^os^ 2 e 4, se, antes do termo de um período de três anos a contar da data de início da circulação nos termos do artigo 19.º, n.º 1, se apurar em que Estado‐Membro ocorreu efetivamente a irregularidade, é aplicável o n.º 1.\n\nAs autoridades competentes do Estado‐Membro em que ocorreu a irregularidade informam as autoridades competentes do Estado‐Membro em que foram cobrados os impostos especiais de consumo, que procedem ao reembolso ou à dispensa de pagamento logo que sejam apresentadas provas da cobrança dos impostos especiais de consumo no outro Estado‐Membro.\n\n6. Para efeitos do presente artigo, entende‐se por «irregularidade» uma situação que ocorra durante a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, com exceção da referida no artigo 6.º, n.^os^ 5 e 6, devido à qual a circulação ou parte da circulação de produtos sujeitos a impostos especiais de consumo não tenha terminado nos termos do artigo 19.º, n.º 2."
+  },
+  "18e5b2282eff7afa": {
+   "fragment_id": "Secção 2",
+   "type": "divisao",
+   "heading": "Secção 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 2"
+  },
+  "af9dd419a881fc6b": {
+   "fragment_id": "Reembolso e dispensa de pagamento",
+   "type": "divisao",
+   "heading": "Reembolso e dispensa de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Reembolso e dispensa de pagamento"
+  },
+  "7b21fa704c6754a7": {
+   "fragment_id": "Artigo 10.º — Reembolso e dispensa de pagamento",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Reembolso e dispensa de pagamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Reembolso e dispensa de pagamento\n\nAlém dos casos referidos no artigo 37.º, n.º 4, no artigo 44.º, n.º 5, e no artigo 46.º, n.º 3, bem como dos casos previstos pelas Diretivas 92/83/CEE, 92/84/CEE, 2003/96/CE e 2011/64/UE, o imposto especial de consumo que incide sobre os produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo pode, a pedido de um interessado, ser reembolsado ou objeto de dispensa de pagamento por parte das autoridades competentes do Estado‐Membro em que os produtos foram introduzidos no consumo nas situações fixadas pelo Estado‐Membro e nas condições que o Estado‐Membro estabeleça a fim de evitar eventuais fraudes ou abusos.\n\nEsse reembolso ou essa dispensa não pode dar origem a outras isenções além das previstas no artigo 11.º ou nas Diretivas, 92/83/CEE, 92/84/CEE, 2003/96/CE ou 2011/64/UE."
+  },
+  "b426821733183e1b": {
+   "fragment_id": "Secção 3",
+   "type": "divisao",
+   "heading": "Secção 3",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 3"
+  },
+  "aa5fd57b7dbc83a9": {
+   "fragment_id": "Isenções",
+   "type": "divisao",
+   "heading": "Isenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Isenções"
+  },
+  "2e8305eaef9562cc": {
+   "fragment_id": "Artigo 11.º — Isenções do pagamento de impostos especiais de consumo",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Isenções do pagamento de impostos especiais de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Isenções do pagamento de impostos especiais de consumo\n\n1.\n\nOs produtos sujeitos a impostos especiais de consumo ficam isentos destes impostos sempre que se destinem a ser utilizados:\n\na) No âmbito das relações diplomáticas ou consulares;\n\nb) Por organizações internacionais reconhecidas como tal pelas autoridades públicas do Estado‐Membro de acolhimento, bem como pelos membros dessas organizações, dentro dos limites e nas condições fixados pelas convenções internacionais que criam essas organizações ou pelos acordos de sede;\n\nc) Pelas forças armadas de qualquer Estado‐Membro que não seja o Estado‐Membro no qual o imposto é exigível, para utilização dessas forças ou do elemento civil que as acompanha, ou para aprovisionamento das suas messes ou cantinas, quando as referidas forças armadas se encontrem afetas a um esforço de defesa realizado para a execução de uma atividade da União no âmbito da política comum de segurança e defesa;\n\nd) Pelas forças armadas de qualquer Estado parte do Tratado do Atlântico Norte que não seja o Estado‐Membro no qual o imposto é exigível, para uso dessas forças ou do elemento civil que as acompanha, ou para aprovisionamento das suas messes ou cantinas;\n\ne) Pelas forças armadas do Reino Unido estacionadas em Chipre, nos termos do Tratado de 16 de agosto de 1960 que cria a República de Chipre, para uso dessas forças ou do elemento civil que as acompanha, ou para aprovisionamento das suas messes ou cantinas;\n\nf) Para consumo no âmbito de um acordo celebrado com países terceiros ou organizações internacionais, desde que esse acordo seja admitido ou autorizado em matéria de isenção do imposto sobre o valor acrescentado.\n\n2. As isenções aplicam‐se nas condições e dentro dos limites fixados pelo Estado‐Membro de acolhimento. Os Estados‐Membros podem conceder a isenção mediante reembolso do imposto especial de consumo."
+  },
+  "c625375ce55b6031": {
+   "fragment_id": "Artigo 12.º — Certificado de isenção",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Certificado de isenção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Certificado de isenção\n\n1. Os produtos sujeitos a impostos especiais de consumo que circulem do território de um Estado‐Membro para o território de outro Estado‐Membro em regime de suspensão do imposto e que estejam sujeitos à isenção referida no artigo 11.º, n.º 1, são acompanhados de um certificado de isenção. O certificado de isenção deve especificar a natureza e a quantidade de produtos sujeitos a impostos especiais de consumo a entregar, o valor dos produtos, a identificação do destinatário isento e o Estado‐Membro de acolhimento que certifica a isenção.\n\n2. Os Estados‐Membros podem utilizar o certificado de isenção referido no n.º 1 para abranger outros domínios da fiscalidade indireta e garantir que o certificado de isenção é compatível com as condições e as limitações para a concessão de isenções constantes da sua legislação nacional.\n\n3. A Comissão adota atos de execução que estabeleçam o formulário a utilizar como certificado de isenção. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 52.º, n.º 2.\n\n4. O procedimento previsto nos artigos 20.º a 27.º não é aplicável à circulação dos produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto com destino às forças armadas a que se refere o artigo 11.º, n.º 1, alínea d), se a circulação tiver lugar no âmbito de um regime diretamente baseado no Tratado do Atlântico Norte.\n\nOs Estados‐Membros podem todavia estabelecer que o procedimento previsto nos artigos 20.º a 27.º seja utilizado para a circulação que decorra integralmente dentro do seu território ou, mediante acordo entre os Estados‐Membros em causa, entre os territórios destes últimos."
+  },
+  "25b9a605ceb3e6c5": {
+   "fragment_id": "Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros\n\n1. Os Estados‐Membros podem isentar do pagamento de impostos especiais de consumo os produtos vendidos em lojas francas que sejam transportados na bagagem pessoal de viajantes para um território terceiro ou um país terceiro efetuando um voo ou uma travessia marítima.\n\n2. Os produtos vendidos a bordo de aeronaves ou navios durante um voo ou uma travessia marítima para um território terceiro ou um país terceiro são equiparados a produtos vendidos em lojas francas.\n\n3. Os Estados‐Membros tomam as medidas necessárias para assegurar a aplicação das isenções previstas nos n.^os^ 1 e 2 de modo a evitar qualquer fraude, evasão ou abuso.\n\n4.\n\nPara efeitos do presente artigo, entende‐se por:\n\na) «Loja franca», qualquer estabelecimento situado num aeroporto ou terminal portuário que cumpra as condições estabelecidas pelas autoridades públicas competentes, em aplicação, nomeadamente, do n.º 3;\n\nb) «Viajante para um território terceiro ou um país terceiro», qualquer passageiro na posse de um título de transporte, por via aérea ou marítima, que mencione como destino final um aeroporto ou um porto situado num território terceiro ou num país terceiro."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "d4d8e0d8e3de4c04": {
+   "fragment_id": "Produção, transformação, detenção e armazenagem",
+   "type": "divisao",
+   "heading": "Produção, transformação, detenção e armazenagem",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Produção, transformação, detenção e armazenagem"
+  },
+  "6f84dfb54e5c4a0d": {
+   "fragment_id": "Artigo 14.º — Disposições gerais",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Disposições gerais\n\n1. Cada Estado‐Membro determina a sua regulamentação em matéria de produção, transformação, detenção e armazenagem de produtos sujeitos a impostos especiais de consumo, sob reserva do disposto na presente diretiva.\n\n2. Caso o imposto especial de consumo a que estão sujeitos os produtos não tenha sido pago, a produção, transformação, detenção e armazenagem desses produtos devem ter lugar num entreposto fiscal."
+  },
+  "5c252b9bad9e6e56": {
+   "fragment_id": "Artigo 15.º — Condições de autorização como depositário autorizado",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Condições de autorização como depositário autorizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Condições de autorização como depositário autorizado\n\n1. A abertura e o funcionamento de um entreposto fiscal por um depositário autorizado devem ser objeto de autorização das autoridades competentes do Estado‐Membro em que está situado o entreposto fiscal.\n\nEssa autorização fica sujeita às condições que as autoridades têm o direito de estabelecer a fim de evitar eventuais fraudes ou abusos.\n\n2.\n\nO depositário autorizado deve:\n\na) Constituir, se necessário, uma garantia destinada a cobrir os riscos inerentes à produção, à transformação, à detenção e à armazenagem dos produtos sujeitos a impostos especiais de consumo;\n\nb) Cumprir as obrigações estabelecidas pelo Estado‐Membro em cujo território se situa o entreposto fiscal;\n\nc) Manter uma contabilidade das existências e dos movimentos de produtos sujeitos a impostos especiais de consumo para cada entreposto fiscal;\n\nd) Introduzir no seu entreposto fiscal e inscrever na sua contabilidade, logo após o termo da circulação, todos os produtos que circulem em regime de suspensão do imposto, a menos que seja aplicável o artigo 16.º, n.º 4;\n\ne) Prestar‐se a qualquer controlo ou inventariação das existências.\n\nAs condições aplicáveis à garantia referida no primeiro parágrafo, alínea a) são estabelecidas pelas autoridades competentes do Estado‐Membro que autoriza o entreposto fiscal."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "29e07c37e310c7d3": {
+   "fragment_id": "Circulação de produtos sujeitos a impostos especiais de consume em regime de suspensão do imposto",
+   "type": "divisao",
+   "heading": "Circulação de produtos sujeitos a impostos especiais de consume em regime de suspensão do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Circulação de produtos sujeitos a impostos especiais de consume em regime de suspensão do imposto"
+  },
+  "3869c2effa545d25": {
+   "fragment_id": "Secção 1",
+   "type": "divisao",
+   "heading": "Secção 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 1"
+  },
+  "36dc96ec9f0767fe": {
+   "fragment_id": "Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento\n\n1.\n\nOs produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto entre os seguintes locais no território da União, mesmo através de um país ou território terceiro:\n\na) De um entreposto fiscal para:\n\ni) outro entreposto fiscal,\n\nii) um destinatário registado,\n\niii) o local em que os produtos sujeitos a impostos especiais de consumo saem do território da União, como referido no artigo 25.º, n.º 1,\n\niv) o destinatário referido no artigo 11.º, n.º 1, se os produtos forem expedidos do território de outro Estado‐Membro,\n\nv) a estância aduaneira de saída, nos casos previstos nos termos do artigo 329.º, n.º 5, do Regulamento de Execução (UE) 2015/2447, que é simultaneamente a estância aduaneira de partida para o regime de trânsito externo, nos casos previstos nos termos do artigo 189.º, n.º 4, do Regulamento Delegado (UE) n.º 2015/2446;\n\nb) Do local de importação para qualquer dos destinos referidos na alínea a), se os produtos forem expedidos por um expedidor registado.\n\nPara efeitos do presente artigo, entende‐se por «local de importação» o local em que os produtos são introduzidos em livre prática nos termos do artigo 201.º do Regulamento (UE) n.º 952/2013.\n\n2.\n\nExceto nos casos em que a importação ocorra no interior de um entreposto fiscal, os produtos sujeitos a impostos especiais de consumo apenas podem ser retirados do local de importação em regime de suspensão do imposto se o declarante ou qualquer pessoa direta ou indiretamente envolvida no cumprimento de formalidades aduaneiras, nos termos do artigo 15.º do Regulamento (UE) n.º 952/2013, apresentar às autoridades competentes do Estado‐Membro de importação os seguintes dados:\n\na) O número único de imposto especial de consumo em conformidade com o artigo 19.º, n.º 2, alínea a), do Regulamento (UE) n.º 389/2012 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/105ddf7b-1ddc-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0002)) que identifica o expedidor registado para o movimento;\n\nb) O número único de imposto especial de consumo em conformidade com o artigo 19.º, n.º 2, alínea a), do Regulamento (UE) n.º 389/2012 que identifica o destinatário dos produtos expedidos;\n\nc) Se for caso disso, a prova de que os bens importados se destinam a ser expedidos do território do Estado‐Membro de importação para o território de outro Estado‐Membro.\n\n3. Os Estados‐Membros podem prever que a prova a que se refere o n.º 2, alínea c), seja apresentada às autoridades competentes apenas mediante pedido.\n\n4. Em derrogação do n.º 1, alínea a), subalíneas i) e ii), e alínea b), do presente artigo, o Estado‐Membro de destino pode, nas condições que vier a fixar, permitir que os produtos sujeitos a impostos especiais de consumo circulem em regime de suspensão do imposto para um local de entrega direta situado no seu território, no caso de este local ter sido designado pelo depositário autorizado no Estado‐Membro de destino ou pelo destinatário registado outro que não um destinatário registado com uma autorização limitada nos termos do artigo 18.º, n.º 3.\n\nEsse depositário autorizado ou esse destinatário registado permanece responsável pela apresentação do relatório de receção referido no artigo 24.º, n.º 1.\n\n5. Os n.^os^ 1, 2 e 4 são igualmente aplicáveis à circulação de produtos sujeitos a impostos especiais de consumo de direito nulo que não tenham sido introduzidos no consumo."
+  },
+  "dd9e9c0e6c52fe6d": {
+   "fragment_id": "Artigo 17.º — Garantia",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Garantia",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Garantia\n\n1. As autoridades competentes do Estado‐Membro de expedição devem exigir, nas condições que vierem a fixar, que os riscos inerentes à circulação em regime de suspensão do imposto especial de consumo sejam cobertos por uma garantia constituída pelo depositário autorizado de expedição ou pelo expedidor registado.\n\n2. Não é exigida qualquer garantia para a circulação de produtos energéticos por condutas fixas, salvo em circunstâncias devidamente justificadas.\n\n3. Em derrogação do n.º 1, as autoridades competentes do Estado‐Membro de expedição podem permitir, nas condições que vierem a fixar, que a garantia a que se refere o n.º 1 seja constituída pelo transportador, pelo proprietário dos produtos, pelo destinatário, ou solidariamente por duas ou mais dessas pessoas e das pessoas mencionadas no n.º 1.\n\n4. A garantia é válida em toda a União.\n\n5.\n\nO Estado‐Membro de expedição pode dispensar da obrigação de constituir a garantia no caso dos seguintes movimentos de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto:\n\na) Movimentos que ocorram integralmente no seu território;\n\nb) Com o acordo dos restantes Estados‐Membros envolvidos, circulação de produtos energéticos na União por via marítima.\n\n6. Os Estados‐Membros devem estabelecer as regras pormenorizadas que regem a concessão e a validade da garantia."
+  },
+  "523170326b0aff3e": {
+   "fragment_id": "Artigo 18.º — Destinatário registado",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Destinatário registado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Destinatário registado\n\n1. Um destinatário registado não pode produzir, transformar, deter, armazenar ou expedir produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto.\n\n2.\n\nO destinatário registado deve cumprir os seguintes requisitos:\n\na) Antes da expedição dos produtos sujeitos a impostos especiais de consumo, garantir o pagamento do imposto especial de consumo nas condições fixadas pelas autoridades competentes do Estado‐Membro de destino;\n\nb) Logo após o termo da circulação, inscrever na sua contabilidade os produtos sujeitos a impostos especiais de consumo recebidos em regime de suspensão do imposto;\n\nc) Prestar‐se a qualquer controlo por forma a que a administração do Estado‐Membro de destino possa certificar‐se da receção efetiva dos produtos.\n\n3. No caso de um destinatário registado que receba apenas ocasionalmente produtos sujeitos a impostos especiais de consumo, a autorização referida no artigo 3.º, ponto 9, limita‐se a uma quantidade específica desses produtos, a um único expedidor e a um período de tempo especificado. Os Estados‐Membros podem limitar a autorização a um único movimento."
+  },
+  "9fe27139f7f9ad9c": {
+   "fragment_id": "Artigo 19.º — Início e termo da circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Início e termo da circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Início e termo da circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto\n\n1.\n\nA circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto tem início:\n\na) Nos casos referidos no artigo 16.º, n.º 1, alínea a), na data em que os produtos sujeitos a impostos especiais de consumo saem do entreposto fiscal de expedição;\n\nb) Nos casos referidos no artigo 16.º, n.º 1, alínea b), na data da sua introdução em livre prática, nos termos do artigo 201.º do Regulamento (UE) n.º 952/2013.\n\n2.\n\nA circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto termina:\n\na) Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas i), ii) e iv), e alínea b) na data em que é feita a entrega ao destinatário dos produtos sujeitos a impostos especiais de consumo;\n\nb) Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalínea iii), na data em que os produtos saem do território da União;\n\nc) Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalínea v), na data em que os produtos são sujeitos ao regime de trânsito externo."
+  },
+  "1c870f7eed732264": {
+   "fragment_id": "Procedimento a seguir na circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto",
+   "type": "divisao",
+   "heading": "Procedimento a seguir na circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimento a seguir na circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto"
+  },
+  "454dc0250f0a9059": {
+   "fragment_id": "Artigo 20.º — Documento administrativo eletrónico",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Documento administrativo eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Documento administrativo eletrónico\n\n1. A circulação dos produtos sujeitos a impostos especiais de consumo apenas poderá ser considerada como tendo lugar em regime de suspensão do imposto se constar de um documento administrativo eletrónico processado nos termos dos n.^os^ 2 e 3.\n\n2. Para efeitos do n.º 1 do presente artigo, o expedidor apresenta um projeto de documento administrativo eletrónico às autoridades competentes do Estado‐Membro de expedição através do sistema informatizado a que se refere o artigo 1.º da Decisão (UE) 2020/263 («sistema informatizado»).\n\n3. As autoridades competentes do Estado‐Membro de expedição verificam, por via eletrónica, os dados fornecidos no projeto de documento administrativo eletrónico.\n\nSe esses dados não forem válidos, o expedidor é imediatamente informado do facto.\n\nSe os dados forem válidos, as autoridades competentes do Estado‐Membro de expedição atribuem ao documento um código de referência administrativo específico e comunicam‐no ao expedidor.\n\n4. Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas i), ii) e iv), e alínea b), e no artigo 16.º, n.º 4, as autoridades competentes do Estado‐Membro de expedição transmitem imediatamente o documento administrativo eletrónico às autoridades competentes do Estado‐Membro de destino, que, por seu turno, o transmitem ao destinatário, se este for um depositário autorizado ou um destinatário registado.\n\nCaso os produtos sujeitos a impostos especiais de consumo se destinem a um depositário autorizado no Estado‐Membro de expedição, as autoridades competentes desse Estado‐Membro transmitem diretamente ao depositário autorizado o documento administrativo eletrónico.\n\n5. O expedidor fornece à pessoa que acompanha os produtos sujeitos a impostos especiais de consumo, ou quando esta não exista, ao transportador, o código de referência administrativo específico. A pessoa que acompanha os produtos sujeitos a impostos especiais de consumo ou o transportador fornece esse código às autoridades competentes sempre que solicitado ao longo de todo o processo de circulação em regime de suspensão do imposto especial de consumo. Todavia, se for caso disso, as autoridades competentes podem solicitar uma cópia impressa do documento administrativo eletrónico ou qualquer outro documento comercial.\n\n6. O expedidor pode cancelar o documento administrativo eletrónico, através do sistema informatizado, enquanto a circulação não tiver sido iniciada nos termos do artigo 19.º, n.º 1.\n\n7. No decurso da circulação em regime de suspensão do imposto especial de consumo, o expedidor pode, através do sistema informatizado, alterar o destino ou o destinatário dos produtos sujeitos a impostos especiais de consumo para um dos destinos indicados no artigo 16.º, n.º 1, alínea a), subalíneas i), ii), iii) ou v), ou, quando aplicável, no artigo 16.º, n.º 4. Para o efeito, o expedidor deve apresentar um projeto de documento eletrónico de alteração do destino às autoridades competentes do Estado‐Membro de expedição através do sistema informatizado."
+  },
+  "7667bda42881a4de": {
+   "fragment_id": "Artigo 21.º — Tratamento do documento administrativo eletrónico para produtos a exportar",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Tratamento do documento administrativo eletrónico para produtos a exportar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Tratamento do documento administrativo eletrónico para produtos a exportar\n\n1. Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas iii) e v), as autoridades competentes do Estado‐Membro de expedição transmitem o documento administrativo eletrónico às autoridades competentes do Estado‐Membro ao qual é apresentada a declaração de exportação nos termos do artigo 221.º, n.º 2, do Regulamento de Execução (UE) 2015/2447 («Estado‐Membro de exportação»), se este for distinto do Estado‐Membro de expedição.\n\n2. O declarante deve apresentar às autoridades competentes do Estado‐Membro de exportação o código de referência administrativo específico indicando os produtos sujeitos a impostos especiais de consumo referidos na declaração de exportação.\n\n3. As autoridades competentes do Estado‐Membro de exportação devem verificar, antes da autorização de saída dos produtos, se os dados do documento administrativo eletrónico correspondem aos constantes da declaração de exportação.\n\n4. Caso existam quaisquer incoerências entre o documento administrativo eletrónico e a declaração de exportação, as autoridades competentes do Estado‐Membro de exportação devem notificar do facto as autoridades competentes do Estado‐Membro de expedição através do sistema informatizado.\n\n5. Quando os produtos deixarem de se destinar a ser retirados fora do território aduaneiro da União, as autoridades competentes do Estado‐Membro de exportação devem notificar do facto as autoridades competentes do Estado‐Membro de expedição, por meio do sistema informatizado, logo que dele tomem conhecimento que os produtos não serão retirados fora do território da União. As autoridades competentes do Estado‐Membro de expedição devem transmitir a notificação ao expedidor sem demora. Após a receção da notificação, o expedidor deve cancelar o documento administrativo eletrónico conforme previsto no artigo 20.º, n.º 6, ou alterar o destino dos produtos conforme previsto no artigo 20.º, n.º 7, consoante o caso."
+  },
+  "e4441161eb40039b": {
+   "fragment_id": "Artigo 22.º — Regimes especiais de circulação de produtos energéticos",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Regimes especiais de circulação de produtos energéticos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Regimes especiais de circulação de produtos energéticos\n\n1. No caso da circulação de produtos energéticos em regime de suspensão do imposto especial de consumo, por via marítima ou via navegável interior, para um destinatário que não seja conhecido com exatidão à data em que o expedidor apresenta o projeto de documento administrativo eletrónico referido no artigo 20.º, n.º 2, as autoridades competentes do Estado‐Membro de expedição podem autorizar o expedidor a omitir, nesse documento, os dados respeitantes ao destinatário.\n\n2. Logo que os dados respeitantes ao destinatário sejam conhecidos, e o mais tardar no termo da circulação, o expedidor transmite‐os às autoridades competentes do Estado‐Membro de expedição segundo o procedimento a que se refere o artigo 20.º, n.º 7.\n\n3. O presente artigo não se aplica aos movimentos referidos no artigo 16.º, n.º 1, alínea a), subalíneas iii) e v)."
+  },
+  "8a36fa0c98415941": {
+   "fragment_id": "Artigo 23.º — Repartição de remessas",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Repartição de remessas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Repartição de remessas\n\n1.\n\nAs autoridades competentes do Estado‐Membro de expedição podem autorizar, nas condições fixadas por esse Estado, que o expedidor reparta a circulação de produtos energéticos em regime de suspensão do imposto especial de consumo em dois ou mais movimentos, desde que estejam preenchidas as seguintes condições:\n\na) Não haja alteração da quantidade total de produtos sujeitos a impostos especiais de consumo;\n\nb) A repartição ocorra no território dos Estados‐Membros que autorizam tal procedimento;\n\nc) As autoridades competentes desse Estado‐Membro sejam informadas do local em que é efetuada a repartição.\n\n2. Os Estados‐Membros informam a Comissão sobre se autorizam a repartição da circulação no seu território e das condições em que o fazem. A Comissão transmite essas informações aos outros Estados‐Membros."
+  },
+  "2c685704eef5d1c3": {
+   "fragment_id": "Artigo 24.º — Formalidades no destino",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Formalidades no destino",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Formalidades no destino\n\n1. Imediatamente após a receção dos produtos sujeitos a impostos especiais de consumo em qualquer dos destinos referidos no artigo 16.º, n.º 1, alínea a), subalíneas i), ii) ou iv), ou no artigo 16.º, n.º 4, o destinatário apresenta às autoridades competentes do Estado‐Membro de destino, sem demora e o mais tardar no prazo de cinco dias úteis após o termo da circulação, salvo em casos devidamente justificados a contento das autoridades competentes, um relatório de receção dos produtos, através do sistema informatizado.\n\n2. As autoridades competentes do Estado‐Membro de destino determinam a forma de apresentação do relatório de receção dos produtos pelos destinatários a que se refere o artigo 11.º, n.º 1.\n\n3. As autoridades competentes do Estado‐Membro de destino verificam, por via eletrónica, os dados fornecidos no relatório de receção.\n\nSe esses dados não forem válidos, o destinatário é imediatamente notificado.\n\nSe os dados forem válidos, as autoridades competentes do Estado‐Membro de destino fornecem ao destinatário uma confirmação do registo do relatório de receção e transmitem a confirmação às autoridades competentes do Estado‐Membro de expedição.\n\n4. As autoridades competentes do Estado‐Membro de expedição transmitem o relatório de receção ao expedidor. Se os locais de expedição e de destino estiverem situados no mesmo Estado‐Membro, as autoridades competentes desse Estado‐Membro transmitem o relatório de receção diretamente ao expedidor."
+  },
+  "c9ff542b61e697c8": {
+   "fragment_id": "Artigo 25.º — Formalidades no termo da circulação de produtos a exportar",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Formalidades no termo da circulação de produtos a exportar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Formalidades no termo da circulação de produtos a exportar\n\n1. Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalínea iii), e, quando aplicável, no artigo 16.º, n.º 1, alínea b), da presente diretiva, as autoridades competentes do Estado‐Membro de exportação preenchem um relatório de exportação baseado nas informações sobre a saída de produtos que recebeu da estância aduaneira de saída nos termos do artigo 329.º do Regulamento de Execução (UE) 2015/2447, ou da estância em que foram cumpridas as formalidades para a saída de produtos do território aduaneiro, a que se refere o artigo 2.º, n.º 2, da presente diretiva, certificando que os produtos sujeitos a impostos especiais de consumo saíram do território da União, através do sistema informatizado.\n\n2. Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalínea v), as autoridades competentes do Estado‐Membro de exportação devem preencher um relatório de exportação baseado nas informações que receberam da estância aduaneira de saída em conformidade com o artigo 329.º, n.º 5, do Regulamento de Execução (UE) 2015/2447.\n\n3. As autoridades competentes do Estado‐Membro de exportação verificam, por via eletrónica, os dados em cuja base o relatório de exportação deve ser completado nos termos dos n.ºs 1 e 2. Após verificados esses dados, e se o Estado‐Membro de expedição for distinto do Estado‐Membro de exportação, as autoridades competentes deste último transmitem o relatório de exportação às autoridades competentes do Estado‐Membro de expedição.\n\nAs autoridades competentes do Estado‐Membro de expedição transmitem o relatório de exportação ao expedidor."
+  },
+  "74c0c365c49bb80a": {
+   "fragment_id": "Artigo 26.º — Indisponibilidade do sistema informatizado",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Indisponibilidade do sistema informatizado",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Indisponibilidade do sistema informatizado\n\n1.\n\nEm derrogação do artigo 20.º, n.º 1, caso o sistema informatizado esteja indisponível no Estado‐Membro de expedição, o expedidor pode iniciar a circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto desde que:\n\na) Os produtos sejam acompanhados de um documento de contingência contendo os mesmos dados que o projeto de documento administrativo eletrónico a que se refere o artigo 20.º, n.º 2;\n\nb) O expedidor informe as autoridades competentes do Estado‐Membro de expedição antes do início da circulação.\n\nO Estado‐Membro de expedição pode ainda exigir ao expedidor uma cópia do documento a que se refere a alínea a) do primeiro parágrafo, a verificação pelo Estado‐Membro de expedição dos dados constantes nessa cópia e, quando a indisponibilidade do sistema informatizado for imputável ao expedidor, informações adequadas sobre as razões dessa indisponibilidade antes do início da circulação.\n\n2. Logo que o sistema informatizado volte a estar disponível, o expedidor apresenta um projeto de documento administrativo eletrónico nos termos do artigo 20.º, n.º 2.\n\nLogo que sejam verificados os dados que constam do projeto de documento administrativo eletrónico, nos termos do artigo 20.º, n.º 3, se esses dados forem válidos, esse documento substitui o documento de contingência mencionado no n.º 1, primeiro parágrafo, alínea a), do presente artigo. São aplicáveis, *mutatis mutandis*, o artigo 20.º, n.º 4, o artigo 21.º, n.º 1, e os artigos 24.º e 25.º.\n\n3. O expedidor deve conservar na respetiva contabilidade uma cópia do documento de contingência referido no n.º 1, primeiro parágrafo, alínea a).\n\n4. Caso o sistema informatizado esteja indisponível no Estado‐Membro de expedição, o expedidor pode mudar o destino dos produtos como referido no artigo 20.º, n.º 7, ou repartir a circulação de produtos energéticos como referido no artigo 23.º e comunica essas informações às autoridades competentes do Estado‐Membro de expedição através de meios de comunicação alternativos. Para tal, o expedidor deve informar as autoridades competentes do Estado‐Membro de expedição antes de ser efetuada a mudança de destino ou a repartição dos movimentos. São aplicáveis, *mutatis mutandis*, os n.^os^ 2 e 3.\n\n5. Caso o sistema informatizado esteja indisponível no Estado‐Membro de expedição, nos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas iii) e v), o expedidor deve fornecer ao declarante uma cópia do documento de contingência referido no n.º 1, primeiro parágrafo, alínea a).\n\nO declarante deve fornecer às autoridades competentes do Estado‐Membro de exportação uma cópia desse documento de contingência, cujo conteúdo deve corresponder aos produtos sujeitos a impostos especiais de consumo declarados na declaração de exportação, ou o identificador único do documento de contingência."
+  },
+  "044f02560056ab9d": {
+   "fragment_id": "Artigo 27.º — Documentos de contingência no destino ou em casos de exportação",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Documentos de contingência no destino ou em casos de exportação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Documentos de contingência no destino ou em casos de exportação\n\n1. Quando, nos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas i), ii) e iv), e alínea b), e no artigo 16.º, n.º 4, o relatório de receção previsto no artigo 24.º, n.º 1, não possa ser apresentado no termo da circulação de produtos sujeitos a impostos especiais de consumo dentro do prazo previsto nesse artigo, quer pelo facto de o sistema informatizado estar indisponível no Estado‐Membro de destino, quer pelo facto de, na situação referida no artigo 26.º, n.º 1, não terem ainda sido cumpridas as formalidades referidas no artigo 26.º, n.º 2, o destinatário apresenta às autoridades competentes do Estado‐Membro de destino, salvo em casos devidamente justificados, um documento de contingência contendo os mesmos dados que o relatório de receção e certificando o termo da circulação.\n\nSalvo no caso de o relatório de receção lhes poder ser apresentado a curto prazo pelo destinatário através do sistema informatizado como previsto no artigo 24.º, n.º 1, ou exceto em casos devidamente justificados, as autoridades competentes do Estado‐Membro de destino enviam cópia do documento de contingência referido no primeiro parágrafo às autoridades competentes do Estado‐Membro de expedição, que a transmitem ao expedidor ou a mantêm à disposição do expedidor. Logo que o sistema informatizado volte a estar disponível no Estado‐Membro de destino ou que tenham sido cumpridas as formalidades referidas no artigo 26.º, n.º 2, o destinatário apresenta um relatório de receção nos termos do artigo 24.º, n.º 1. É aplicável, *mutatis mutandis*, o artigo 24.º, n.^os^ 3 e 4.\n\n2. Quando, no caso referido no artigo 16.º, n.º 1, alínea a), subalíneas iii) ou v), o relatório de exportação previsto no artigo 25.º, n.^os^ 1 e 2, ou a notificação de que os produtos já não serão retirados do território da União, prevista no artigo 21.º, n.º 5, não possa ser preenchido no termo da circulação de produtos sujeitos a impostos especiais de consumo, quer pelo facto de o sistema informatizado estar indisponível no Estado‐Membro de exportação, quer pelo facto de, na situação referida no artigo 26.º, n.º 1, não terem ainda sido cumpridas as formalidades referidas no artigo 26.º, n.º 2, as autoridades competentes do Estado‐Membro de exportação enviam às autoridades competentes do Estado‐Membro de expedição um documento contendo os mesmos dados que o relatório de exportação ou que a notificação e certificando o termo da circulação ou que os produtos não serão retirados do território da União, salvo no caso de o relatório de exportação ou a notificação poder ser preenchido a curto prazo através do sistema informatizado ou em casos devidamente justificados.\n\nAs autoridades competentes do Estado‐Membro de expedição transmitem ao expedidor ou mantêm à disposição do expedidor uma cópia do documento mencionado no primeiro parágrafo.\n\nLogo que o sistema informatizado volte a estar disponível no Estado‐Membro de exportação ou que tenham sido cumpridas as formalidades referidas no artigo 26.º, n.º 2, as autoridades competentes do Estado‐Membro de exportação enviam um relatório de exportação nos termos do artigo 25.º, n.^os^ 1 e 2, ou a notificação prevista no artigo 21.º, n.º 5. É aplicável, *mutatis mutandis*, o artigo 25.º, n.º 3."
+  },
+  "2f29c6fa47b13475": {
+   "fragment_id": "Artigo 28.º — Provas alternativas de receção e prova de saída",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Provas alternativas de receção e prova de saída",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Provas alternativas de receção e prova de saída\n\n1. Não obstante o artigo 27.º, o relatório de receção previsto no artigo 24.º, n.º 1, ou o relatório de exportação previsto no artigo 25.º, n.^os^ 1 e 2, certifica o termo de uma circulação de produtos sujeitos a impostos especiais de consumo nos termos do artigo 19.º, n.º 2.\n\n2. Em derrogação do n.º 1, na falta de relatório de receção ou de relatório de exportação por razões distintas das mencionadas no artigo 27.º, pode também ser apresentada prova alternativa do termo de uma circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, em conformidade com os n.^os^ 3 e 4.\n\n3. Nos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas i), ii) e iv), e alínea b), e no artigo 16.º, n.º 4, pode ser apresentada prova alternativa do termo de uma circulação por meio de uma confirmação das autoridades competentes do Estado‐Membro de destino, baseada em provas adequadas, de que os produtos sujeitos a impostos especiais de consumo chegaram ao ponto de destino.\n\nConstitui prova adequada um documento de contingência a que se refere o artigo 26.º, n.º 1, alínea a).\n\n4.\n\nNos casos referidos no artigo 16.º, n.º 1, alínea a), subalíneas iii) ou v), a fim de determinar se os produtos sujeitos a impostos especiais de consumo nas circunstâncias enunciadas no n.º 2 foram retirados do território da União, as autoridades competentes do Estado‐Membro de expedição:\n\na) Aceitam uma confirmação das autoridades competentes do Estado‐Membro em que se situa a estância aduaneira de saída, certificando que os produtos sujeitos a impostos especiais de consumo saíram do território da União ou certificando que os produtos sujeitos a impostos especiais de consumo foram sujeitos ao regime de trânsito externo em conformidade com o artigo 16.º, n.º 1, alínea a), subalínea v), enquanto prova adequada de que os produtos foram retirados do território da União.\n\nb) Podem ter em conta qualquer combinação dos seguintes elementos de prova:\n\ni) uma nota de entrega,\n\nii) um documento assinado ou autenticado pelo operador económico que retirou os produtos sujeitos a impostos especiais de consumo do território aduaneiro da União que certifique a saída dos produtos,\n\niii) um documento no qual a autoridade aduaneira de um Estado‐Membro ou de um país terceiro certifique a entrega em conformidade com as regras e procedimentos aplicáveis a essa certificação nesse Estado‐Membro ou país,\n\niv) registos de produtos fornecidos a navios, aeronaves ou instalações offshore mantidos pelos operadores económicos,\n\nv) outras provas consideradas aceitáveis pelas autoridades do Estado‐Membro de expedição.\n\n5. Quando forem admitidas pelas autoridades competentes do Estado‐Membro de expedição as provas adequadas, é posto fim à circulação no sistema informatizado."
+  },
+  "2a9d7374ec88e334": {
+   "fragment_id": "Artigo 29.º — Delegação de poderes e atribuição de competências de execução no que respeita aos documentos a trocar em regime de suspensão do imposto",
+   "type": "artigo",
+   "heading": "Artigo 29.º — Delegação de poderes e atribuição de competências de execução no que respeita aos documentos a trocar em regime de suspensão do imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 29.º — Delegação de poderes e atribuição de competências de execução no que respeita aos documentos a trocar em regime de suspensão do imposto\n\n1. A Comissão adota atos delegados nos termos do artigo 51.º que estabeleçam a estrutura e o teor dos documentos administrativos eletrónicos trocados através do sistema informatizado para efeitos dos artigos 20.º a 25.º e dos documentos de contingência referidos nos artigos 26.º e 27.º, no contexto da circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto.\n\n2. A Comissão adota atos de execução que estabeleçam as regras e os procedimentos para o intercâmbio de documentos administrativos eletrónicos através do sistema informatizado, no contexto da circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto, e as regras e os procedimentos para utilização dos documentos de contingência a que se referem os artigos 26.º e 27.º. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 52.º, n.º 2.\n\n3. Cada Estado‐Membro determina as situações em que o sistema informatizado pode ser considerado indisponível e fixa as regras e os procedimentos aplicáveis nessas situações, para efeitos e nos termos dos artigos 26.º e 27.º."
+  },
+  "5f696a8141c83302": {
+   "fragment_id": "Procedimentos simplificados",
+   "type": "divisao",
+   "heading": "Procedimentos simplificados",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimentos simplificados"
+  },
+  "26b12bb652ce4df0": {
+   "fragment_id": "Artigo 30.º — Procedimentos simplificados num único Estado ‐ Membro",
+   "type": "artigo",
+   "heading": "Artigo 30.º — Procedimentos simplificados num único Estado ‐ Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 30.º — Procedimentos simplificados num único Estado ‐ Membro\n\nOs Estados‐Membros podem estabelecer procedimentos simplificados aplicáveis à circulação de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto que ocorra integralmente no seu território, designadamente a possibilidade de renunciar à exigência de fiscalização eletrónica dessa circulação."
+  },
+  "613c5177931a3467": {
+   "fragment_id": "Artigo 31.º — Procedimentos simplificados em dois ou mais Estados ‐ Membros",
+   "type": "artigo",
+   "heading": "Artigo 31.º — Procedimentos simplificados em dois ou mais Estados ‐ Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 31.º — Procedimentos simplificados em dois ou mais Estados ‐ Membros\n\nMediante acordo e nas condições fixadas por todos os Estados‐Membros em causa, podem ser estabelecidos procedimentos simplificados para efeitos da circulação frequente e regular de produtos sujeitos a impostos especiais de consumo em regime de suspensão do imposto que ocorra entre os territórios de dois ou mais Estados‐Membros.\n\nA presente disposição inclui os movimentos através de condutas fixas."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "99089aaa34e2cd1e": {
+   "fragment_id": "Circulação e tributação de produtos sujeitos a impostos especiais de consumo após a introdução no consumo",
+   "type": "divisao",
+   "heading": "Circulação e tributação de produtos sujeitos a impostos especiais de consumo após a introdução no consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Circulação e tributação de produtos sujeitos a impostos especiais de consumo após a introdução no consumo"
+  },
+  "e0e8a3f64fcf6238": {
+   "fragment_id": "Aquisição por particulares",
+   "type": "divisao",
+   "heading": "Aquisição por particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Aquisição por particulares"
+  },
+  "eba4668bef58d565": {
+   "fragment_id": "Artigo 32.º — Aquisição por particulares",
+   "type": "artigo",
+   "heading": "Artigo 32.º — Aquisição por particulares",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 32.º — Aquisição por particulares\n\n1. O imposto especial de consumo sobre produtos sujeitos a impostos especiais de consumo adquiridos por particulares para uso pessoal e transportados entre o território de um Estado‐Membro e o território de outro Estado‐Membro pelos particulares é exigível apenas no Estado‐Membro em que os produtos foram adquiridos.\n\n2.\n\nPara determinar se os produtos sujeitos a impostos especiais de consumo a que se refere o n.º 1 se destinam ao uso pessoal dos particulares, os Estados‐Membros devem ter em conta, pelo menos, o seguinte:\n\na) O estatuto comercial do detentor dos produtos e os motivos para a detenção dos mesmos;\n\nb) O local onde se encontram os produtos ou, se adequado, o modo de transporte utilizado;\n\nc) Qualquer documento respeitante aos produtos;\n\nd) A natureza dos produtos;\n\ne) A quantidade dos produtos.\n\n3.\n\nPara efeitos da aplicação do n.º 2, alínea e), os Estados‐Membros podem, apenas como elemento de prova, estabelecer níveis indicativos. Esses níveis indicativos não podem ser inferiores a:\n\na) Relativamente aos tabacos manufaturados:\n\n— cigarros: 800 unidades,\n\n— cigarrilhas (charutos com um peso máximo de 3 g/unidade): 400 unidades,\n\n— charutos: 200 unidades,\n\n— tabaco para fumar: 1,0 kg;\n\nb) Relativamente às bebidas alcoólicas:\n\n— bebidas espirituosas: 10 l,\n\n— produtos intermédios: 20 l,\n\n— vinhos: 90 l (dos quais 60 l, no máximo, de vinhos espumantes),\n\n— cervejas: 110 l.\n\n4. Os Estados‐Membros podem igualmente prever que o imposto especial de consumo se torne exigível no Estado‐Membro de consumo na data da aquisição de óleos minerais que já tenham sido introduzidos no consumo num outro Estado‐Membro, se os produtos forem transportados por formas de transporte atípicas efetuadas por particulares ou por conta de particulares.\n\nPara efeitos do presente número, entende‐se por «forma de transporte atípica» o transporte de combustível que não se encontre no reservatório de um veículo ou num recipiente de reserva apropriado, bem como o transporte de produtos líquidos para aquecimento que não seja efetuado em camiões‐cisterna utilizados por operadores económicos."
+  },
+  "f5cd104b031a7d3f": {
+   "fragment_id": "Procedimento a seguir na circulação de produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no território de um estado‐membro e que circulem para o território de outro estado‐membro a fim de aí serem entregues para fins comerciais",
+   "type": "divisao",
+   "heading": "Procedimento a seguir na circulação de produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no território de um estado‐membro e que circulem para o território de outro estado‐membro a fim de aí serem entregues para fins comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Procedimento a seguir na circulação de produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no território de um estado‐membro e que circulem para o território de outro estado‐membro a fim de aí serem entregues para fins comerciais"
+  },
+  "f0647ce35fddbc5b": {
+   "fragment_id": "Artigo 33.º — Considerações gerais",
+   "type": "artigo",
+   "heading": "Artigo 33.º — Considerações gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 33.º — Considerações gerais\n\n1. Se os produtos sujeitos a impostos especiais de consumo que tenham sido introduzidos no consumo no território de um Estado‐Membro circularem para o território de outro Estado‐Membro para aí serem entregues para fins comerciais ou serem utilizados, ficam sujeitos ao imposto especial de consumo no Estado‐Membro de destino.\n\nNo âmbito do regime previsto na presente secção, os produtos sujeitos a impostos especiais de consumo só podem ser transferidos de um expedidor certificado para um destinatário certificado.\n\n2. Para efeitos do presente artigo, os produtos sujeitos a impostos especiais de consumo devem ser considerados «entregues para fins comerciais» quando tiverem sido introduzidos no consumo no território de um Estado‐Membro, tiverem sido transferidos desse Estado‐Membro para o território de outro Estado‐Membro e forem entregues ou a uma pessoa que não seja um particular ou a um particular se a circulação não estiver abrangida pelo artigo 32.º ou pelo artigo 44.º. Todavia, os produtos sujeitos a impostos especiais de consumo não são considerados como sendo entregues para fins comerciais quando forem transportados por esse particular para seu uso pessoal, quando circularem a partir do território do outro Estado‐Membro.\n\n3. A circulação de produtos sujeitos a impostos especiais de consumo ao abrigo do presente artigo tem início na data em que os produtos saem das instalações do expedidor certificado ou de qualquer local no Estado‐Membro de expedição que tenha sido notificado antes do início da circulação às autoridades competentes do Estado‐Membro de expedição.\n\n4. A circulação de produtos sujeitos a impostos especiais de consumo ao abrigo do presente artigo termina na data em que é feita a entrega ao destinatário certificado dos produtos sujeitos a impostos especiais de consumo nas suas instalações ou em qualquer local no Estado‐Membro de destino que tenha sido notificado antes do início da circulação às autoridades competentes do Estado‐Membro de destino.\n\n5. As condições de exigibilidade e a taxa do imposto especial de consumo a aplicar são as vigentes na data em que o mesmo se torna exigível no Estado‐Membro de destino."
+  },
+  "ea767907f63b571c": {
+   "fragment_id": "Artigo 34.º — Facto gerador de imposto",
+   "type": "artigo",
+   "heading": "Artigo 34.º — Facto gerador de imposto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 34.º — Facto gerador de imposto\n\n1. O destinatário certificado é o devedor do imposto especial de consumo, que é exigível quando os produtos tenham sido entregues no Estado‐Membro de destino, exceto nos casos em que ocorra uma irregularidade durante a circulação, nos termos do artigo 46.º.\n\n2. Na falta de registo ou certificação de uma ou de todas as pessoas envolvidas na circulação, essas pessoas tornam‐se também elas devedoras do imposto especial de consumo.\n\n3. Os produtos sujeitos a impostos especiais de consumo detidos a bordo de navios ou aeronaves que efetuam travessias ou voos entre os territórios de dois Estados‐Membros, mas que não estão disponíveis para venda quando o navio ou a aeronave se encontra no território de um Estado‐Membro, não estão sujeitos a impostos especiais de consumo nesse Estado‐Membro."
+  },
+  "887d02353d563a08": {
+   "fragment_id": "Artigo 35.º — Condições de circulação de produtos sujeitos a impostos especiais de consumo no âmbito da presente secção",
+   "type": "artigo",
+   "heading": "Artigo 35.º — Condições de circulação de produtos sujeitos a impostos especiais de consumo no âmbito da presente secção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 35.º — Condições de circulação de produtos sujeitos a impostos especiais de consumo no âmbito da presente secção\n\n1. A circulação dos produtos sujeitos a impostos especiais de consumo apenas é considerada como cumprindo os requisitos da presente secção se constar de um documento administrativo simplificado eletrónico processado em conformidade com o artigo 36.º.\n\n2.\n\nO destinatário certificado nos termos do artigo 34.º, n.º 1, deve cumprir todos os seguintes requisitos:\n\na) Antes da expedição dos produtos, prestar uma garantia que cubra os riscos inerentes de não pagamento dos impostos especiais de consumo que possam surgir durante a circulação através dos territórios dos Estados‐Membros de trânsito e no Estado‐Membro de destino;\n\nb) Pagar o imposto especial de consumo devido no Estado‐Membro de destino de acordo com as modalidades previstas por esse Estado‐Membro no fim da circulação dos produtos;\n\nc) Prestar‐se a todos os controlos que permitam às autoridades competentes do Estado‐Membro de destino certificar‐se da receção efetiva dos produtos sujeitos a impostos especiais de consumo, bem como do pagamento do imposto especial de consumo exigível relativamente a esses produtos.\n\n3. Em derrogação do n.º 2, alínea a), as autoridades competentes do Estado‐Membro de destino podem, nas condições por elas fixadas, permitir que a garantia seja constituída pelo transportador, pelo proprietário dos produtos sujeitos a impostos especiais de consumo, pelo expedidor certificado, ou solidariamente por qualquer combinação de duas ou mais dessas pessoas com ou sem o destinatário certificado.\n\n4. A garantia a que se refere o n.º 2, alínea a), é válida em toda a União.\n\n5. Os Estados‐Membros devem estabelecer as regras pormenorizadas que regem a concessão e a validade da garantia.\n\n6. O depositário autorizado ou o expedidor registado pode atuar na qualidade de expedidor certificado para os fins da presente secção após ter notificado as autoridades competentes do Estado‐Membro de expedição.\n\n7. O depositário autorizado ou o destinatário registado pode atuar na qualidade de destinatário certificado para os fins da presente secção após ter notificado as autoridades competentes do Estado‐Membro de destino.\n\n8. No caso de um expedidor certificado ou de um destinatário certificado que envie ou receba produtos apenas ocasionalmente, a certificação referida no artigo 3.º, pontos 12 e 13, limita‐se a uma quantidade específica de produtos sujeitos a impostos especiais de consumo, a um único destinatário ou expedidor e a um período de tempo especificado. Os Estados‐Membros podem limitar a certificação a um único movimento. Não obstante os requisitos do artigo 3.º, pontos 12 e 13, tal certificação temporária pode igualmente, ser concedida a particulares que atuem na qualidade de expedidores ou destinatários quando os produtos sujeitos a impostos especiais de consumo forem entregues para fins comerciais nos termos do artigo 33.º, n.º 2."
+  },
+  "52fa9930106a4671": {
+   "fragment_id": "Artigo 36.º — Documento administrativo simplificado eletrónico",
+   "type": "artigo",
+   "heading": "Artigo 36.º — Documento administrativo simplificado eletrónico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 36.º — Documento administrativo simplificado eletrónico\n\n1. Caso os produtos sujeitos a impostos especiais de consumo circulem ao abrigo da presente secção, o expedidor certificado apresenta um projeto de documento administrativo simplificado eletrónico às autoridades competentes do Estado‐Membro de expedição através do sistema informatizado.\n\n2. As autoridades competentes do Estado‐Membro de expedição verificam, por via eletrónica, os dados fornecidos no projeto de documento administrativo simplificado eletrónico.\n\nSe esses dados não forem válidos, o expedidor certificado é informado do facto sem demora.\n\nSe os dados forem válidos, as autoridades competentes do Estado‐Membro de expedição atribuem ao documento um código de referência administrativo simplificado específico e comunicam‐no ao expedidor certificado.\n\n3. As autoridades competentes do Estado‐Membro de expedição transmitem sem demora o documento administrativo simplificado eletrónico às autoridades competentes do Estado‐Membro de destino, que o transmitem ao destinatário certificado.\n\n4. O expedidor certificado fornece à pessoa que acompanha os produtos sujeitos a impostos especiais de consumo, ou quando não exista qualquer pessoa que acompanha os produtos, ao transportador, o código de referência administrativo simplificado específico. A pessoa que acompanha os produtos sujeitos a impostos especiais de consumo ou o transportador fornece esse código às autoridades competentes, mediante pedido, ao longo do processo de circulação.\n\n5. Durante a circulação de produtos sujeitos a impostos especiais de consumo ao abrigo da presente secção, o expedidor certificado pode, através do sistema informatizado, alterar o destino para outro local de entrega no mesmo Estado‐Membro explorado pelo mesmo destinatário certificado ou para o local de expedição. Para o efeito, o expedidor certificado apresenta um projeto de documento eletrónico de alteração de destino às autoridades competentes do Estado‐Membro de expedição através do sistema informatizado."
+  },
+  "3a5e6ecddcaf8709": {
+   "fragment_id": "Artigo 37.º — Relatório de receção",
+   "type": "artigo",
+   "heading": "Artigo 37.º — Relatório de receção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 37.º — Relatório de receção\n\n1. Após a receção de produtos sujeitos a impostos especiais de consumo, o destinatário certificado apresenta às autoridades competentes do Estado‐Membro de destino, sem demora e o mais tardar no prazo de cinco dias úteis após o termo da circulação, salvo em casos devidamente justificados a contento das autoridades competentes, um relatório de receção, através do sistema informatizado.\n\n2. As autoridades competentes do Estado‐Membro de destino verificam, por via eletrónica, os dados fornecidos no relatório de receção.\n\nSe esses dados não forem válidos, o destinatário certificado é informado do facto sem demora.\n\nSe os dados forem válidos, as autoridades competentes do Estado‐Membro de destino fornecem ao destinatário certificado uma confirmação do registo do relatório de receção e transmitem‐no às autoridades competentes do Estado‐Membro de expedição.\n\nO relatório de receção é considerado prova suficiente de que o destinatário certificado cumpriu todas as formalidades necessárias e efetuou, se for caso disso e salvo se os produtos sujeitos a impostos especiais de consumo estiverem isentos do pagamento do imposto especial de consumo, todos os pagamentos do imposto especial de consumo devido ao Estado‐Membro de destino ou de um regime de suspensão do imposto em conformidade com o capítulo III.\n\n3. As autoridades competentes do Estado‐Membro de expedição transmitem o relatório de receção ao expedidor certificado.\n\n4. O imposto especial de consumo pago no Estado‐Membro de expedição é reembolsado, mediante pedido e com base no relatório de receção referido no n.º 1."
+  },
+  "5ecc45f1eedc8242": {
+   "fragment_id": "Artigo 38.º — Procedimento de contingência e recuperação na expedição",
+   "type": "artigo",
+   "heading": "Artigo 38.º — Procedimento de contingência e recuperação na expedição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 38.º — Procedimento de contingência e recuperação na expedição\n\n1.\n\nEm derrogação do artigo 36.º, caso o sistema informatizado esteja indisponível no Estado‐Membro de expedição, o expedidor certificado pode iniciar a circulação de produtos sujeitos a impostos especiais de consumo desde que:\n\na) Os produtos sejam acompanhados de um documento de contingência que contenha os mesmos dados que o projeto de documento administrativo simplificado eletrónico referido no artigo 35.º, n.º 1;\n\nb) O expedidor certificado informe as autoridades competentes do Estado‐Membro de expedição antes do início da circulação.\n\nO Estado‐Membro de expedição pode exigir do expedidor certificado uma cópia do documento a que se refere o primeiro parágrafo, alínea a), a verificação pelo Estado‐Membro de expedição da data constante nessa cópia e, se a indisponibilidade do sistema informatizado for imputável ao expedidor certificado, informações adequadas sobre as razões dessa indisponibilidade antes do início da circulação.\n\n2. Logo que o sistema informatizado voltar a estar disponível, o expedidor certificado apresenta um projeto de documento administrativo simplificado eletrónico, em conformidade com o artigo 36.º, n.º 1.\n\nLogo que sejam verificados os dados que constam do projeto de documento administrativo simplificado eletrónico, nos termos do artigo 36.º, n.º 2, se esses dados forem válidos, esse documento substitui o documento de contingência mencionado no n.º 1, primeiro parágrafo, alínea a), do presente artigo. São aplicáveis, *mutatis mutandis*, o artigo 36.º, n.º 3, e o artigo 37.º.\n\n3. O expedidor certificado deve conservar na sua contabilidade uma cópia do documento de contingência referido no n.º 1, alínea a).\n\n4. Caso sistema informatizado esteja indisponível no Estado‐Membro de expedição, o expedidor certificado pode alterar o destino dos produtos, tal como previsto no artigo 36.º, n.º 5, e transmite essa informação às autoridades competentes do Estado‐Membro de expedição através de meios de comunicação alternativos. O expedidor certificado informa as autoridades competentes do Estado‐Membro de expedição antes do início da alteração de destino. São aplicáveis, *mutatis mutandis*, os n.^os^ 2 e 3 do presente artigo."
+  },
+  "b6229ec95ca51881": {
+   "fragment_id": "Artigo 39.º — Documentos de contingência e recuperação de dados – relatório de receção",
+   "type": "artigo",
+   "heading": "Artigo 39.º — Documentos de contingência e recuperação de dados – relatório de receção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 39.º — Documentos de contingência e recuperação de dados – relatório de receção\n\nCaso os produtos sujeitos a impostos especiais de consumo circulem ao abrigo da presente secção e o relatório de receção não possa ser apresentado no termo da circulação de produtos sujeitos a impostos especiais de consumo em conformidade com o artigo 37.º, n.º 1, quer por o sistema informatizado estar indisponível no Estado‐Membro de destino, quer por ainda não terem sido efetuados os procedimentos a que se refere o artigo 38.º, n.º 2, o destinatário certificado apresenta às autoridades competentes do Estado‐Membro de destino, salvo em casos devidamente justificados, um documento de contingência que contenha os mesmos dados que o relatório de receção e certifique que a circulação terminou.\n\nSalvo no caso de o relatório de receção poder ser prontamente apresentado pelo destinatário certificado através do sistema informatizado, como previsto no artigo 37.º, n.º 1, ou salvo em casos devidamente justificados, as autoridades competentes do Estado‐Membro de destino enviam uma cópia do documento de contingência referido no primeiro parágrafo às autoridades competentes do Estado‐Membro de expedição. As autoridades competentes do Estado‐Membro de expedição transmitem a cópia ao expedidor certificado ou mantêm‐na à disposição do expedidor certificado.\n\nLogo que o sistema informatizado volte a estar disponível no Estado‐Membro de destino ou que tenham sido efetuados os procedimentos referidos no artigo 38.º, n.º 2, o destinatário certificado apresenta um relatório de receção nos termos do artigo 37.º, n.º 1. É aplicável, *mutatis mutandis*, o artigo 37.º, n.^os^ 2 e 3."
+  },
+  "569b23a4e15bf578": {
+   "fragment_id": "Artigo 40.º — Provas alternativas de receção",
+   "type": "artigo",
+   "heading": "Artigo 40.º — Provas alternativas de receção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 40.º — Provas alternativas de receção\n\n1. Não obstante o artigo 39.º, o relatório de receção previsto no artigo 37.º, n.º 1, constitui a prova de que os produtos sujeitos a impostos especiais de consumo foram entregues ao destinatário certificado.\n\n2. Em derrogação do n.º 1, na falta de relatório de receção por razões distintas das mencionadas no artigo 39.º, pode ser apresentada prova alternativa da entrega de produtos sujeitos a impostos especiais de consumo mediante confirmação das autoridades competentes do Estado‐Membro de destino, baseada em prova adequada, de que os produtos sujeitos a impostos especiais de consumo expedidos chegaram ao seu destino.\n\nConstitui prova adequada para efeitos do primeiro parágrafo do presente número o documento de contingência a que se refere o artigo 39.º, primeiro parágrafo.\n\n3. Quando a confirmação das autoridades competentes do Estado‐Membro de destino tiver sido aceite pelas autoridades competentes do Estado‐Membro de expedição, é considerada prova suficiente de que o destinatário certificado cumpriu todas as formalidades necessárias e efetuou todos os pagamentos do imposto especial de consumo devido ao Estado‐Membro de destino."
+  },
+  "5b4d01d1edd198b1": {
+   "fragment_id": "Artigo 41.º — Derrogação da obrigação de utilizar o sistema informatizado – procedimentos simplificados em dois ou mais Estados ‐ Membros",
+   "type": "artigo",
+   "heading": "Artigo 41.º — Derrogação da obrigação de utilizar o sistema informatizado – procedimentos simplificados em dois ou mais Estados ‐ Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 41.º — Derrogação da obrigação de utilizar o sistema informatizado – procedimentos simplificados em dois ou mais Estados ‐ Membros\n\nMediante acordo e nas condições fixadas por todos os Estados‐Membros em causa, podem ser estabelecidos procedimentos simplificados para efeitos da circulação de produtos sujeitos a impostos especiais de consumo ao abrigo da presente secção que ocorra entre os territórios de dois ou mais Estados‐Membros."
+  },
+  "c873242d36b27497": {
+   "fragment_id": "Artigo 42.º — Circulação de produtos introduzidos no consumo entre dois locais do território do mesmo Estado ‐Membro através do território de outro Estado ‐Membro",
+   "type": "artigo",
+   "heading": "Artigo 42.º — Circulação de produtos introduzidos no consumo entre dois locais do território do mesmo Estado ‐Membro através do território de outro Estado ‐Membro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 42.º — Circulação de produtos introduzidos no consumo entre dois locais do território do mesmo Estado ‐Membro através do território de outro Estado ‐Membro\n\n1.\n\nCaso os produtos sujeitos a impostos especiais de consumo já introduzidos no consumo no território de um Estado‐Membro circulem com destino a um local situado no território desse Estado‐Membro através do território de outro Estado‐Membro, são aplicáveis os seguintes requisitos:\n\na) Essa circulação deve constar do documento administrativo simplificado eletrónico referido no artigo 35.º, n.º 1, seguindo um itinerário adequado;\n\nb) O destinatário certificado certifica a receção dos produtos de acordo com as regras estabelecidas pelas autoridades competentes do local de destino;\n\nc) O expedidor certificado e o destinatário certificado devem prestar‐se a qualquer controlo por forma a que as respetivas autoridades competentes possam certificar‐se da receção efetiva dos produtos.\n\n2. Caso os produtos sujeitos a impostos especiais de consumo circulem com frequência e regularidade nas condições mencionadas no n.º 1, os Estados‐Membros em causa podem, de comum acordo, nas condições que determinarem, simplificar as regras referidas no n.º 1."
+  },
+  "ca5c2d4c6544e76c": {
+   "fragment_id": "Artigo 43.º — Delegação de poderes e atribuição de competências de execução no que diz respeito à circulação de produtos a entregar para fins comerciais",
+   "type": "artigo",
+   "heading": "Artigo 43.º — Delegação de poderes e atribuição de competências de execução no que diz respeito à circulação de produtos a entregar para fins comerciais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 43.º — Delegação de poderes e atribuição de competências de execução no que diz respeito à circulação de produtos a entregar para fins comerciais\n\n1. A Comissão adota atos delegados, nos termos do artigo 51.º, que estabeleçam a estrutura e o teor dos documentos administrativos eletrónicos trocados através do sistema informatizado para efeitos dos artigos 36.º e 37.º [**►C1**](http://publications.europa.eu/resource/celex/32020L0262R%2802%29) e dos documentos de contingência referidos nos artigos 38.º, 39.º e 40.º **◄**, no contexto da circulação de produtos sujeitos a impostos especiais de consumo ao abrigo da presente secção.\n\n2. A Comissão adota atos de execução que estabeleçam as regras e os procedimentos aplicáveis à troca dos documentos administrativos eletrónicos através do sistema informatizado para efeitos dos artigos 36.º e 37.º e as regras e os procedimentos aplicáveis à utilização dos documentos de contingência referidos nos artigos 38.º, 39.º e 40.º, no contexto da circulação de produtos sujeitos a impostos especiais de consumo ao abrigo da presente secção. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 52.º."
+  },
+  "ffa2b22f9742e3cc": {
+   "fragment_id": "Vendas à distância",
+   "type": "divisao",
+   "heading": "Vendas à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Vendas à distância"
+  },
+  "8132958b82078d82": {
+   "fragment_id": "Artigo 44.º — Vendas à distância",
+   "type": "artigo",
+   "heading": "Artigo 44.º — Vendas à distância",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 44.º — Vendas à distância\n\n1. Os produtos sujeitos a impostos especiais de consumo já introduzidos no consumo no território de um Estado‐Membro, que sejam adquiridos por pessoas, que não sejam depositários autorizados, destinatários registados ou destinatários certificados, estabelecidas noutro Estado‐Membro e que não exerçam qualquer atividade económica independente, e sejam expedidos ou transportados para o território de outro Estado‐Membro diretamente ou indiretamente por expedidores que exerçam uma atividade económica independente ou por conta destes ficam sujeitos ao imposto especial de consumo no Estado‐Membro de destino.\n\n2. No caso referido no n.º 1, o imposto especial de consumo torna‐se exigível no Estado‐Membro de destino na data da entrega dos produtos sujeitos a impostos especiais de consumo. As condições de exigibilidade e a taxa do imposto especial de consumo a aplicar são as vigentes na data em que o mesmo se torna exigível.\n\nO imposto especial de consumo é pago segundo o procedimento estabelecido pelo Estado‐Membro de destino.\n\n3. O expedidor é o devedor do imposto especial de consumo no Estado‐Membro de destino.\n\nTodavia, o Estado‐Membro de destino pode autorizar o expedidor a nomear um representante fiscal, estabelecido no Estado‐Membro de destino, como devedor do imposto especial de consumo. O representante fiscal é autorizado pelas autoridades competentes desse Estado‐Membro. Os Estados‐Membros podem estabelecer que, em casos em que o expedidor ou o representante fiscal não tenha observado o disposto no n.º 4, alínea a), o devedor do imposto especial de consumo é o destinatário dos produtos sujeitos a impostos especiais de consumo.\n\n4.\n\nO expedidor ou o representante fiscal deve cumprir os seguintes requisitos:\n\na) Antes da expedição dos produtos sujeitos a impostos especiais de consumo, estar identificado e garantir o pagamento do imposto especial de consumo junto do serviço competente expressamente designado pelo Estado‐Membro de destino e nas condições estabelecidas por esse Estado‐Membro;\n\nb) Pagar o imposto especial de consumo no serviço a que se refere a alínea a) após a entrega dos produtos sujeitos a impostos especiais de consumo;\n\nc) Manter a contabilidade dos fornecimentos de produtos.\n\nOs Estados‐Membros em causa podem, nas condições que determinarem, simplificar estas obrigações com base em acordos bilaterais ou multilaterais.\n\n5. No caso referido no n.º 1, o imposto especial de consumo cobrado no primeiro Estado‐Membro é reembolsado, a pedido do expedidor, se este ou o representante fiscal tiver aplicado os procedimentos estabelecidos no n.º 4.\n\n6. Os Estados‐Membros podem fixar modalidades específicas de aplicação dos n.ºs 1 a 5 aos produtos sujeitos a impostos especiais de consumo que sejam abrangidos por um regime nacional especial em matéria de distribuição."
+  },
+  "b5d7193d82983e30": {
+   "fragment_id": "Secção 4",
+   "type": "divisao",
+   "heading": "Secção 4",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 4"
+  },
+  "eb78a80087307455": {
+   "fragment_id": "Inutilização e perda",
+   "type": "divisao",
+   "heading": "Inutilização e perda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Inutilização e perda"
+  },
+  "d2cf95145bb50bab": {
+   "fragment_id": "Artigo 45.º — Inutilização e perda",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Inutilização e perda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Inutilização e perda\n\n1. Nas situações referidas no artigo 33.º, n.º 1, e no artigo 44.º, n.º 1, em caso de inutilização total ou de perda irremediável dos produtos sujeitos a impostos especiais de consumo, durante o transporte para o território de um Estado‐Membro distinto daquele em que foram introduzidos no consumo, devido a caso fortuito ou de força maior, ou na sequência de uma autorização para inutilizar os produtos das autoridades competentes desse Estado‐Membro, o imposto não é exigível nesse Estado‐Membro.\n\nPara efeitos da presente diretiva, considera‐se que os produtos estão totalmente inutilizados ou irremediavelmente perdidos quando deixem de poder ser utilizados como produtos sujeitos a impostos especiais de consumo.\n\n2. Em caso de perda parcial devida à natureza dos produtos que ocorra durante o respetivo transporte no território de um Estado‐Membro distinto do Estado‐Membro em que foram introduzidos no consumo, o imposto especial de consumo não é exigível nesse Estado‐Membro quando o montante da perda for inferior ao limiar de perda parcial comum para esses produtos sujeitos a impostos especiais de consumo fixado em conformidade com o artigo 6.º, n.º 9, a menos que um Estado‐Membro tenha motivos razoáveis para suspeitar de fraude ou de irregularidades.\n\n3. Deve fazer‐se prova suficiente da inutilização total ou da perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo referidos no n.º 1 às autoridades competentes do Estado‐Membro em que ocorreu a inutilização total ou a perda irremediável, total ou parcial, ou, quando não for possível determinar o local em que ocorreu a perda, do local em que foi detetada.\n\nCaso se determine a inutilização total ou a perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo, a garantia constituída nos termos do artigo 35.º, n.º 2, alínea a), ou do artigo 44.º, n.º 4, alínea a), é liberada, total ou parcialmente, conforme o caso, mediante a apresentação de prova satisfatória."
+  },
+  "744a62350cf0c0fd": {
+   "fragment_id": "Secção 5",
+   "type": "divisao",
+   "heading": "Secção 5",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Secção 5"
+  },
+  "f5bc6f982806e111": {
+   "fragment_id": "Irregularidades durante a circulação dos produtos sujeitos a impostos especiais de consumo",
+   "type": "divisao",
+   "heading": "Irregularidades durante a circulação dos produtos sujeitos a impostos especiais de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Irregularidades durante a circulação dos produtos sujeitos a impostos especiais de consumo"
+  },
+  "84279d54e8c881ec": {
+   "fragment_id": "Artigo 46.º — Irregularidades durante a circulação dos produtos sujeitos a impostos especiais de consumo",
+   "type": "artigo",
+   "heading": "Artigo 46.º — Irregularidades durante a circulação dos produtos sujeitos a impostos especiais de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 46.º — Irregularidades durante a circulação dos produtos sujeitos a impostos especiais de consumo\n\n1. Caso ocorra uma irregularidade durante a circulação de produtos sujeitos a impostos especiais de consumo nos termos do artigo 33.º, n.º 1, ou do artigo 44.º, n.º 1, no território de um Estado‐Membro distinto do território daquele em que foram introduzidos no consumo, os produtos ficam sujeitos ao imposto especial de consumo e o imposto especial de consumo é exigível no Estado‐Membro em que ocorreu a irregularidade.\n\n2. Caso seja detetada uma irregularidade durante a circulação de produtos sujeitos a impostos especiais de consumo nos termos do artigo 33.º, n.º 1, ou do artigo 44.º, n.º 1, no território de um Estado‐Membro distinto do território daquele em que os produtos foram introduzidos no consumo e não for possível determinar o local em que ocorreu a irregularidade, considera‐se que esta ocorreu e que o imposto especial de consumo é exigível no Estado‐Membro em que foi detetada a irregularidade.\n\nTodavia, se, após o termo de um período de três anos a contar da data de aquisição dos produtos sujeitos a impostos especiais de consumo, se apurar o território do Estado‐Membro em que ocorreu efetivamente a irregularidade, é aplicável o disposto no n.º 1.\n\n3. O imposto especial de consumo é devido pela pessoa que garantiu o respetivo pagamento, nos termos do artigo 35.º, n.º 2, alínea a), ou do artigo 44.º, n.º 4, alínea a), ou por todas as pessoas que tenham participado na irregularidade. Quando existirem vários devedores do mesmo imposto especial de consumo, estes ficam obrigados ao pagamento dessa dívida a título solidário.\n\nAs autoridades competentes do Estado‐Membro em que os produtos sujeitos a impostos especiais de consumo foram introduzidos no consumo procedem, sempre que tal seja solicitado, ao reembolso ou à dispensa de pagamento do imposto especial de consumo se este tiver sido cobrado no Estado‐Membro em que a irregularidade ocorreu ou foi detetada. As autoridades competentes do Estado‐Membro de destino liberam a garantia constituída nos termos do artigo 35.º, n.º 2, alínea a), ou do artigo 44.º, n.º 4, alínea a).\n\n4. Para efeitos do presente artigo, entende‐se por «irregularidade» uma situação que ocorra durante a circulação de produtos sujeitos a impostos especiais de consumo ao abrigo do artigo 33.º, n.º 1, ou do artigo 44.º, n.º 1, não abrangida pelo artigo 45.º, devido à qual a circulação ou parte da circulação de produtos sujeitos a impostos especiais de consumo não tenha terminado de forma regular.\n\n5. Considera‐se irregularidade a falta de registo ou certificação de uma ou de todas as pessoas envolvidas na circulação contrariamente ao artigo 33.º n.º 1, ou ao artigo 44.º, n.º 4, alínea a), ou o não respeito do disposto no artigo 35.º, n.º 1. São aplicáveis, em conformidade, os n.ºs 1 a 4, salvo se o destinatário for o devedor do imposto especial de consumo nos termos do artigo 44.º, n.º 3, último período."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "7a2adc3444f35855": {
+   "fragment_id": "Diversos",
+   "type": "divisao",
+   "heading": "Diversos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Diversos"
+  },
+  "5ea2e0e35c1562ea": {
+   "fragment_id": "Marcas",
+   "type": "divisao",
+   "heading": "Marcas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Marcas"
+  },
+  "dea7b6e41f3fcb9b": {
+   "fragment_id": "Artigo 47.º — Marcas",
+   "type": "artigo",
+   "heading": "Artigo 47.º — Marcas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 47.º — Marcas\n\n1. Sem prejuízo do artigo 6.º, n.º 2, os Estados‐Membros podem exigir que os produtos sujeitos a impostos especiais de consumo ostentem marcas fiscais ou marcas nacionais de identificação utilizadas para fins fiscais, na data da introdução no consumo no seu território ou, nos casos previstos no artigo 33.º, n.º 1, e no artigo 44.º, n.º 1, na data da entrada no seu território.\n\n2. Os Estados‐Membros que exijam a utilização das marcas fiscais ou marcas nacionais de identificação a que se refere o n.º 1 devem disponibilizá‐las aos depositários autorizados dos outros Estados‐Membros. No entanto, cada Estado‐Membro pode dispor que essas marcas sejam colocadas à disposição de um representante fiscal autorizado pelas autoridades competentes desse Estado‐Membro.\n\n3. Sem prejuízo de disposições que possam vir a estabelecer, com vista a garantir a correta aplicação do presente artigo e prevenir qualquer fraude, evasão ou abuso, os Estados‐Membros devem providenciar para que as marcas fiscais ou marcas nacionais de identificação a que se refere o n.º 1 não criem obstáculos à livre circulação dos produtos sujeitos a impostos especiais de consumo.\n\nSempre que essas marcas sejam apostas em produtos sujeitos a impostos especiais de consumo, qualquer montante pago, inclusive a título de garantia, para a obtenção das mesmas, com exceção das respetivas despesas de emissão, deve ser reembolsado, objeto de dispensa de pagamento ou liberado pelo Estado‐Membro que as emitiu, caso o imposto especial de consumo se tenha tornado exigível e tenha sido cobrado noutro Estado‐Membro.\n\nO Estado‐Membro que emitiu as marcas pode todavia sujeitar o reembolso, a dispensa ou a liberação do montante pago ou garantido à apresentação de um comprovativo, a contento das autoridades competentes, da retirada ou destruição das mesmas.\n\n4. As marcas fiscais ou as marcas nacionais de identificação a que se refere o n.º 1 são válidas no Estado‐Membro de emissão. Os Estados‐Membros podem, no entanto, proceder a um reconhecimento recíproco dessas marcas."
+  },
+  "4d241c3f7e83fad2": {
+   "fragment_id": "Pequenos produtores de vinho",
+   "type": "divisao",
+   "heading": "Pequenos produtores de vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Pequenos produtores de vinho"
+  },
+  "0d3201dd254cf8db": {
+   "fragment_id": "Artigo 48.º — Pequenos produtores de vinho",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Pequenos produtores de vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Pequenos produtores de vinho\n\n1. Os Estados‐Membros podem dispensar os pequenos produtores de vinho das obrigações a que se referem os artigos 14.º a 31.º, bem como das outras obrigações relacionadas com a circulação e o controlo. Quando esses pequenos produtores efetuarem pessoalmente operações intra‐União, devem informar as respetivas autoridades competentes e respeitar as condições estabelecidas no Regulamento Delegado (UE) 2018/273 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/105ddf7b-1ddc-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#E0003)).\n\n2. Quando os pequenos produtores de vinho estiverem isentos dos requisitos estabelecidos nos termos do n.º 1, o destinatário informa as autoridades competentes do Estado‐Membro de destino, através do documento exigido pelo Regulamento Delegado (UE) 2018/273 ou de uma remissão para o mesmo, das remessas de vinho recebidas.\n\n3. Para efeitos do presente artigo, entende‐se por «pequeno produtor» um produtor que produz, em média, menos de 1 000 hl de vinho por campanha vitivinícola, determinados com base na produção anual média de, pelo menos, três campanhas vitivinícolas consecutivas, em conformidade com o artigo 2.º, n.º 3, do Regulamento Delegado (UE) 2018/273."
+  },
+  "f91e8193a101381f": {
+   "fragment_id": "Aprovisionamento de navios e aeronaves",
+   "type": "divisao",
+   "heading": "Aprovisionamento de navios e aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Aprovisionamento de navios e aeronaves"
+  },
+  "9951b7d2c8aaecc4": {
+   "fragment_id": "Artigo 49.º — Aprovisionamento de navios e aeronaves",
+   "type": "artigo",
+   "heading": "Artigo 49.º — Aprovisionamento de navios e aeronaves",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 49.º — Aprovisionamento de navios e aeronaves\n\nAté que o Conselho aprove disposições da União em matéria de aprovisionamento de navios e aeronaves, os Estados‐Membros podem manter as disposições nacionais sobre isenções relativamente a esse aprovisionamento."
+  },
+  "35f5342fa5d56bac": {
+   "fragment_id": "Medidas especiais",
+   "type": "divisao",
+   "heading": "Medidas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas especiais"
+  },
+  "ac16a97292326c8d": {
+   "fragment_id": "Artigo 50.º — Medidas especiais",
+   "type": "artigo",
+   "heading": "Artigo 50.º — Medidas especiais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 50.º — Medidas especiais\n\nOs Estados‐Membros que tiverem celebrado um acordo sobre a responsabilidade pela construção ou manutenção de uma ponte transfronteiriça podem aprovar medidas de derrogação às disposições da presente diretiva a fim de simplificar o procedimento de coleta do imposto aplicável aos produtos sujeitos a imposto especial de consumo utilizados na construção e manutenção dessa ponte.\n\nPara efeitos das referidas medidas e nos termos do acordo, a ponte e os estaleiros de construção referidos no acordo são considerados parte do território do Estado‐Membro responsável pela construção ou manutenção da ponte.\n\nOs Estados‐Membros em causa notificam essas medidas à Comissão, que informa os demais Estados‐Membros."
+  },
+  "2cfe7e3884295f86": {
+   "fragment_id": "CAPITULO VII",
+   "type": "divisao",
+   "heading": "CAPITULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPITULO VII"
+  },
+  "8044e6944436e29f": {
+   "fragment_id": "Exercício da delegação e procedimento de comité",
+   "type": "divisao",
+   "heading": "Exercício da delegação e procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Exercício da delegação e procedimento de comité"
+  },
+  "ac4bb6ec174764d5": {
+   "fragment_id": "Artigo 51.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 51.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 51.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 6.º, n.º 10, no artigo 29.º, n.º 1, e no artigo 43.º, n.º 1, é conferido à Comissão por tempo indeterminado a contar de 20 de fevereiro de 2020.\n\n3. A delegação de poderes referida no artigo 6.º, n.º 10, no artigo 29.º, n.º 1, e no artigo 43.º, n.º 1, pode ser revogada em qualquer momento pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado‐Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica‐o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 6.º, n.º 10, do artigo 29.º, n.º 1, e do artigo 43.º, n.º 1, só entram em vigor se não tiverem sido formuladas objeções pelo Conselho no prazo de dois meses a contar da notificação do ato ao Conselho, ou se, antes do termo desse prazo, o Conselho tiver informado a Comissão de que não tem objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Conselho."
+  },
+  "a4193f4cc454bbe6": {
+   "fragment_id": "Artigo 52.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 52.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 52.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité dos Impostos Especiais de Consumo. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica‐se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "99973826fcc02605": {
+   "fragment_id": "CAPÍTULO VIII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VIII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VIII"
+  },
+  "e3caf7c8e973b994": {
+   "fragment_id": "Relatórios e disposições transitórias e finais",
+   "type": "divisao",
+   "heading": "Relatórios e disposições transitórias e finais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Relatórios e disposições transitórias e finais"
+  },
+  "58e05ebb798d590c": {
+   "fragment_id": "Artigo 53.º — Relatórios sobre a aplicação da presente diretiva",
+   "type": "artigo",
+   "heading": "Artigo 53.º — Relatórios sobre a aplicação da presente diretiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 53.º — Relatórios sobre a aplicação da presente diretiva\n\nDe cinco em cinco anos, a Comissão deve apresentar um relatório sobre a aplicação da presente diretiva ao Parlamento Europeu e ao Conselho. O primeiro relatório deve ser apresentado três anos após a data de aplicação da presente diretiva, o mais tardar.\n\nEm especial, o primeiro relatório deve avaliar a aplicação e o impacto das disposições nacionais adotadas e aplicadas nos termos do artigo 32.º, tendo em conta elementos pertinentes de prova do impacto destas disposições, em termos de efeitos transfronteiras, fraude, evasão ou abuso, impacto sobre o bom funcionamento do mercado interno e saúde pública.\n\nOs Estados‐Membros apresentam à Comissão, a pedido desta, as informações disponíveis pertinentes necessárias para elaborar o relatório.\n\nO relatório é acompanhado de uma proposta legislativa, se for caso disso."
+  },
+  "f0c01651e97a0614": {
+   "fragment_id": "Artigo 54.º — Disposições transitórias",
+   "type": "artigo",
+   "heading": "Artigo 54.º — Disposições transitórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 54.º — Disposições transitórias\n\nAté 31 de dezembro de 2023, os Estados‐Membros devem autorizar a receção de produtos sujeitos a impostos especiais de consumo ao abrigo das formalidades estabelecidas nos artigos 33.º, 34.º e 35.º da Diretiva 2008/118/CE.\n\nAté 13 de fevereiro de 2024, as notificações referidas no artigo 21.º, n.º 5, da presente diretiva podem ser efetuadas por outros meios que não o sistema informatizado."
+  },
+  "a37c4210fe22ccd8": {
+   "fragment_id": "Artigo 55.º — Transposição",
+   "type": "artigo",
+   "heading": "Artigo 55.º — Transposição",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 55.º — Transposição\n\n1. Os Estados‐Membros adotam e publicam, até 31 de dezembro de 2021, as disposições legislativas, regulamentares e administrativas necessárias para dar cumprimento aos artigos 2.º, 3.º, 6.º, 12.º, 16.º, 17.º, artigos 19.º a 22.º, artigos 25.º a 29.º, artigos 33.º a 46.º, artigos 54.ºe 55.º e artigo 57.º. Os Estados‐Membros comunicam imediatamente à Comissão o texto dessas disposições.\n\nSem prejuízo do disposto no artigo 54.º, os Estados‐Membros aplicam essas disposições a partir de 13 de fevereiro de 2023.\n\nAs disposições adotadas pelos Estados‐Membros fazem referência à presente diretiva ou são acompanhadas dessa referência aquando da sua publicação oficial. Tais disposições mencionam igualmente que as remissões, nas disposições legislativas, regulamentares e administrativas em vigor, para as diretivas revogadas pela presente diretiva se entendem como remissões para a presente diretiva. Os Estados‐Membros estabelecem o modo como é feita a referência e formulada a menção.\n\n2. Os Estados‐Membros comunicam à Comissão o texto das principais disposições de direito interno que adotarem no domínio regulado pela presente diretiva."
+  },
+  "c43fab8f1d55bb72": {
+   "fragment_id": "Artigo 56.º — Revogação",
+   "type": "artigo",
+   "heading": "Artigo 56.º — Revogação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 56.º — Revogação\n\nA Diretiva 2008/118/CE, com a redação que lhe foi dada pelos atos referidos no anexo I, parte A, é revogada com efeitos a partir de 13 de fevereiro de 2023, sem prejuízo das obrigações dos Estados‐Membros no que respeita aos prazos de transposição para o direito interno e às datas de aplicação das diretivas, indicados no anexo I, parte B.\n\nAs remissões para a diretiva revogada entendem‐se como remissões para a presente diretiva e são lidas de acordo com a tabela de correspondência constante do anexo II."
+  },
+  "22a1b88e54adc399": {
+   "fragment_id": "Artigo 57.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 57.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 57.º — Entrada em vigor e aplicação\n\nA presente diretiva entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União* Europeia.\n\nOs artigos 1.º, 4.º, 5.º, os artigos 7.º a 11.º, os artigos 13.º a 15.º, os artigos 18.º, 23.º, 24.º, os artigos 30.º a 32.º, os artigos 47.º a 53.º, o artigo 56.º e o artigo 58.º são aplicáveis a partir de 13 de fevereiro de 2023."
+  },
+  "3e1e3a6f1b30cfab": {
+   "fragment_id": "Artigo 58.º — Destinatários",
+   "type": "artigo",
+   "heading": "Artigo 58.º — Destinatários",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 58.º — Destinatários\n\nOs destinatários da presente diretiva são os Estados‐Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "87cee521b2f0bb1e": {
+   "fragment_id": "PARTE A",
+   "type": "divisao",
+   "heading": "PARTE A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A"
+  },
+  "3630bb82f0cedd0d": {
+   "fragment_id": "DIRETIVA REVOGADA E LISTA DAS SUAS SUCESSIVAS ALTERAÇÕES",
+   "type": "divisao",
+   "heading": "DIRETIVA REVOGADA E LISTA DAS SUAS SUCESSIVAS ALTERAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DIRETIVA REVOGADA E LISTA DAS SUAS SUCESSIVAS ALTERAÇÕES\n\n(referidas no artigo 56.º)\n\nDiretiva 2008/118/CE do Conselho (JO L 9 de 14.1.2009, p. 12)\n\nDiretiva 2010/12/UE do Conselho (JO L 50 de 27.2.2010, p. 1)\n\nTratado de Adesão da Croácia (JO L 112 de 24.4.2012, p. 10)\n\nDiretiva 2013/61/UE do Conselho (JO L 353 de 28.12.2013, p. 5)\n\nDiretiva do Conselho (UE) 2019/2235 (JO L 336 de 30.12.2019, p. 10)"
+  },
+  "6041be3baf7dcb43": {
+   "fragment_id": "PARTE B",
+   "type": "divisao",
+   "heading": "PARTE B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B"
+  },
+  "9d38442d6bb38d6c": {
+   "fragment_id": "PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL E DATA DE APLICAÇÃO",
+   "type": "divisao",
+   "heading": "PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL E DATA DE APLICAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRAZOS DE TRANSPOSIÇÃO PARA O DIREITO NACIONAL E DATA DE APLICAÇÃO\n\n(referidos no artigo 56.º)\n\n| Diretiva | Prazo de transposição | Data de aplicação |\n| --- | --- | --- |\n| 2008/118/CE | 1 de janeiro de 2010 | 1 de abril de 2010 |\n| 2010/12/UE | 1 de janeiro de 2011 |  |\n| 2013/61/UE | 1 de janeiro de 2014 |  |\n| (UE) 2019/2235 | 30 de junho de 2022 | 1 de julho de 2022 |"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "5c5313a5feb3372a": {
+   "fragment_id": "TABELA DE CORRESPONDÊNCIA",
+   "type": "divisao",
+   "heading": "TABELA DE CORRESPONDÊNCIA",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### TABELA DE CORRESPONDÊNCIA\n\nDiretiva 2008/118/CE Presente diretiva\n\nArtigo 1.º Artigo 1.º\n\nArtigo 2.º Artigo 6.º n.º 1\n\nArtigo 3.º, n.^os^ 1, 2 e 3 Artigo 2.º, n.^os^ 1, 2 e 3\n\nArtigo 3.º, n.º 4 _\n\n_ Artigo 2.º, n.º 4\n\nArtigo 4.º, parte introdutória Artigo 3.º, parte introdutória\n\nArtigo 4.º, pontos 1 a 5 Artigo 3.º, pontos 1 a 5\n\nArtigo 4.º, ponto 6 _\n\nArtigo 4.º, ponto 7 Artigo 3.º, ponto 6\n\nArtigo 4.º, ponto 8 Artigo 3.º, ponto 7\n\n- Artigo 3.º, ponto 8\n\nArtigo 4.º, pontos 9 a 11 Artigo 3.º, pontos 9 a 11\n\n_ Artigo 3.º, pontos 12 e 13\n\nArtigo 36.º, n.º 1, segundo parágrafo Artigo 3.º, ponto 14\n\n– Artigo 3.º, pontos 15 e 16\n\nArtigo 5.º, n.^os^ 1 e 2 Artigo 4.º, n.^os^ 1 e 2\n\nArtigo 5.º, n.º 3, parte introdutória Artigo 4.º, n.º 3, parte introdutória\n\nArtigo 5.º, n.º 3, alíneas a) a e) Artigo 4.º, n.º 3, alíneas a) a e)\n\nArtigo 5.º, n.º 3, alíneas f) e g) _\n\nArtigo 5.º, n.^os^ 4, 5 e 6 Artigo 4.º, n.^os^ 4, 5 e 6\n\nArtigo 6.º Artigo 5.º\n\nArtigo 7.º, n.^os^ 1 a 3 Artigo 6.º, n.^os^ 2 a 4\n\nArtigo 7.º, n.º 4, primeiro parágrafo Artigo 6.º, n.º 5\n\nArtigo 7.º, n.º 4, segundo parágrafo Artigo 6.º, n.º 6\n\nArtigo 7.º, n.º 4, terceiro parágrafo Artigo 6.º, n.º 9, primeiro parágrafo\n\nArtigo 7.º, n.º 5 –\n\n– Artigo 6.º, n.º 8\n\n– Artigo 6.º, n.º 7\n\n– Artigo 6.º, n.º 9, segundo parágrafo\n\n– Artigo 6.º, n.º 10\n\nArtigo 8.º Artigos 7.º\n\nArtigo 9.º Artigo 8.º, primeiro e segundo parágrafos\n\nArtigos 10.º a 12.º Artigo 8.º, terceiro parágrafo\n\nArtigos 9.º a 11.º\n\nArtigo 13.º, n.º 1 Artigo 12.º, n.º 1\n\nArtigo 13.º, n.º 2 –\n\n– Artigo 12.º, n.ºs 2 e 3\n\nArtigo 13.º, n.º 3 Artigo 12.º, n.º 4\n\nArtigo 14.º, n.^os^ 1, 2 e 3 Artigo 13.º, n.ºs 1, 2 e 3\n\nArtigo 14.º, n.º 4 –\n\nArtigo 14.º, n.º 5 Artigo 13.º, n.º 4\n\nArtigos 15.º e 16.º Artigos 14.º e 15.º\n\nArtigo 17.º, n.º 1, parte introdutória Artigo 16.º, n.º 1, parte introdutória\n\nArtigo 17.º, n.º 1, alínea a), parte introdutória Artigo 16.º, n.º 1, alínea a), parte introdutória\n\nArtigo 17.º, n.º 1, alínea a), subalíneas i) a iv) Artigo 16.º, n.º 1, alínea a), subalíneas i) a iv)\n\n– Artigo 16.º, n.º 1, alínea a), subalínea v)\n\nArtigo 17.º, n.º 1, alínea b) Artigo 16.º, n.º 1, alínea b)\n\n– Artigo 16.º, n.^os^ 2 e 3\n\nArtigo 17.º, n.º 2 Artigo 16.º, n.º 4\n\nArtigo 17.º, n.º 3 Artigo 16.º, n.º 5\n\nArtigo 18.º, n.º 1 Artigo 17.º, n.º 1\n\n– Artigo 17.º, n.º 2\n\nArtigo 18.º, n.º 2 Artigo 17.º, n.º 3\n\nArtigo 18.°, n.º 3, primeira frase Artigo 17.º, n.º 4\n\nArtigo 18.º, n.º 4 Artigo 17.º, n.º 5\n\nArtigo 18.º, n.º 3, segunda frase Artigo 17.º, n.º 6\n\nArtigo 19.º Artigo 18.º\n\nArtigo 20.º, n.º 1 Artigo 19.º, n.º 1\n\nArtigo 20.º, n.º 2 Artigo 19.º, n.º 2, alíneas a) e b)\n\n– Artigo 19.º, n.º 2, alínea c)\n\nArtigo 21.º, n.^os^ 1 a 4 Artigo 20.º, n.^os^ 1 a 4\n\nArtigo 21.º, n.º 5 Artigo 21.º, n.º 1\n\nArtigo 21.º, n.º 6 Artigo 20.º, n.º 5\n\nArtigo 21.º, n.º 7 Artigo 20.º, n.º 6\n\nArtigo 21.º, n.º 8 Artigo 20.º, n.º 7, primeira frase\n\n– Artigo 20.º, n.º 7, segunda frase\n\n– Artigo 21.º, n.^os^ 2 a 5\n\nArtigo 22.º Artigo 22.º, n.^os^ 1 e 2\n\n– Artigo 22.º, n.º 3\n\nArtigo 23.º, primeiro parágrafo, frase introdutória Artigo 23.º, n.º 1, frase introdutória\n\nArtigo 23.º, primeiro parágrafo, ponto 1 Artigo 23.º, n.º 1, alínea a)\n\nArtigo 23.º, primeiro parágrafo, ponto 2 Artigo 23.º, n.º 1, alínea b)\n\nArtigo 23.º, primeiro parágrafo, ponto 3 Artigo 23.º, n.º 1, alínea c)\n\nArtigo 23.º, segundo parágrafo Artigo 23.º, n.º 2\n\nArtigo 24.º Artigo 24.º\n\nArtigo 25.º, n.º 1 Artigo 25.º, n.º 1\n\n– Artigo 25.º, n.º 2\n\nArtigo 25.º, n.º 2 Artigo 25.º, n.º 3, primeiro parágrafo\n\nArtigo 25.º, n.º 3 Artigo 25.º, n.º 3, segundo parágrafo\n\nArtigo 26.º, n.^os^ 1 e 2 Artigo 26.º, n.^os^ 1 e 2\n\nArtigo 26.º, n.º 3 –\n\nArtigo 26.º, n.^os^ 4 e 5 Artigo 26.º, n.^os^ 3 e 4\n\n– Artigo 26.º, n.º 5\n\nArtigo 27.º Artigo 27.º\n\nArtigo 28.º, n.º 1 Artigo 28.º, n.º 1\n\nArtigo 28.º, n.º 2, primeiro e segundo parágrafos Artigo 28.º, n.^os^ 2 e 3\n\n– Artigo 28.º, n.º 4\n\nArtigo 28.º, n.º 2, terceiro parágrafo Artigo 30.º, n.º 5\n\nArtigo 29.º Artigo 29.º\n\nArtigo 30.º Artigo 30.º\n\nArtigo 31.º Artigo 31.º\n\nArtigo 32.º Artigo 32.º\n\nArtigo 33.º, n.º 1 Artigo 33.º, n.^os^ 1 e 2\n\n– Artigo 33.º, n.^os^ 3 e 4\n\nArtigo 33.º, n.º 2 Artigo 33.º, n.º 5\n\nArtigo 33.º, n.^os^ 3 e 4 –\n\n– Artigo 34.º, n.^os^ 1 e 2\n\nArtigo 33.º, n.º 5 Artigo 34.º, n.º 2\n\nArtigo 33.º, n.º 6 Artigo 37.º, n.º 4\n\nArtigo 34.º, n.º 1 Artigo 35.º, n.º 1\n\nArtigo 34.º, n.º 2, alíneas a), b) e c) Artigo 35.º, n.º 2, alíneas a), b) e c)\n\nArtigo 34.º, n.º 2, segundo parágrafo –\n\n– Artigo 35.º, n.^os^ 3 a 8\n\n– Artigos 36.º a 41.º\n\nArtigo 35.º Artigo 42.º\n\n– Artigo 43.º\n\nArtigo 36.º, n.º 1, primeiro parágrafo Artigo 44.º, n.º 1\n\nArtigo 36.º, n.º 1, segundo parágrafo Artigo 3.º, ponto 14\n\nArtigo 36.º, n.^os^ 2 a 6 Artigo 44.º, n.^os^ 2 a 6\n\nArtigo 37.º, n.º 1, primeiro parágrafo Artigo 45.º, n.º 1, primeiro parágrafo\n\n– Artigo 45.º, n.º 1, segundo parágrafo\n\n– Artigo 45.º, n.º 2\n\nArtigo 37.º, n.º 1, segundo parágrafo Artigo 45.º, n.º 3, primeiro parágrafo\n\nArtigo 37.º, n.º 1, terceiro parágrafo Artigo 45.º, n.º 3, segundo parágrafo\n\nArtigo 37.º, n.º 2 –\n\nArtigo 38.º Artigo 46, n.^os^ 1 a 4\n\n– Artigo 46.º, n.º 3, primeiro parágrafo, segunda frase\n\n– Artigo 46.º, n.º 5\n\nArtigo 39.º Artigo 47.º\n\nArtigo 40.º Artigo 48.º\n\nArtigo 41.º Artigo 49.º\n\nArtigo 42.º Artigo 50.º\n\n– Artigo 51.º\n\nArtigo 43.º Artigo 52.º\n\nArtigo 44.º –\n\n– Artigos 53.º e 54.º\n\nArtigos 45.º e 46.º –\n\nArtigo 47.º Artigo 56.º\n\nArtigo 48.º Artigo 55.º\n\nArtigo 49.º Artigo 57.º\n\nArtigo 50.º Artigo 58.º\n\n– Anexo I\n\n– Anexo II\n\n---"
+  },
+  "cce50b0d34ad3245": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/105ddf7b-1ddc-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1), com a redação que lhe foi dada pelo Regulamento (EU) 2016/2339 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016, que altera o Regulamento (UE) n.° 952/2013 que estabelece o Código Aduaneiro da União, no que se refere às mercadorias que tenham saído temporariamente do território aduaneiro da União por via marítima ou aérea (JO L 354 de 23.12.2016, p. 32).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/105ddf7b-1ddc-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) n.º 389/2012 do Conselho, de 2 de maio de 2012, relativo à cooperação administrativa no domínio dos impostos especiais de consumo e que revoga o Regulamento (CE) n.º 2073/2004 (JO L 121 de 8.5.2012, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/105ddf7b-1ddc-11eb-b57e-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017, que completa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, no respeitante ao regime de autorizações para plantações de vinhas, ao cadastro vitícola, aos documentos de acompanhamento e à certificação, ao registo de entradas e de saídas, às declarações obrigatórias, às comunicações e notificações e à publicação das informações recebidas nesse âmbito, bem como o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, no respeitante à fiscalização e às sanções em causa, que altera os Regulamentos (CE) n.º 555/2008, (CE) n.º 606/2009 e (CE) n.º 607/2009 da Comissão e que revoga o Regulamento (CE) n.º 436/2009 da Comissão e o Regulamento Delegado (UE) 2015/560 da Comissão (JO L 58 de 28.2.2018, p. 1)."
+  },
+  "5bcc667b13e9294d": {
+   "fragment_id": "Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Aplicação do Código Aduaneiro da União aos produtos sujeitos a impostos especiais de consumo\n\n1. As formalidades previstas nas disposições aduaneiras da União para a entrada de produtos no território aduaneiro da União são aplicáveis, *mutatis mutandis*, à entrada no território da União de produtos sujeitos a impostos especiais de consumo a partir de um dos territórios referidos no artigo 4.º, n.º 2.\n\n2. As formalidades previstas nas disposições aduaneiras da União para a saída de produtos do território aduaneiro da União são aplicáveis, *mutatis mutandis*, à saída de produtos sujeitos a impostos especiais de consumo do território da União para um dos territórios referidos no artigo 4.º, n.º 2.\n\n3. Em derrogação do disposto nos n.^os^ 1 e 2, a Finlândia fica autorizada, relativamente à circulação de produtos sujeitos a impostos especiais de consumo entre o território desse Estado‐Membro e os territórios referidos no artigo 4.º, n.º 2, alínea c), a aplicar procedimentos idênticos aos aplicados à circulação dentro do território desse Estado‐Membro.\n\n4. Os artigos 14.º a 46.º não são aplicáveis aos produtos sujeitos a impostos especiais de consumo que tenham o estatuto aduaneiro de mercadorias não‐UE, na aceção do artigo 5.º, ponto 24, do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2#E0001))."
+  },
+  "f4aa4f9e0b46af0d": {
+   "fragment_id": "Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Isenções do pagamento de impostos especiais de consumo para passageiros que viajem para países terceiros ou territórios terceiros\n\n1. Os Estados‐Membros podem isentar do pagamento de impostos especiais de consumo os produtos vendidos em lojas francas que sejam transportados na bagagem pessoal de viajantes para um território terceiro ou um país terceiro efetuando um voo ou uma travessia marítima.\n\n1-A. A isenção prevista no n.º 1 aplica-se igualmente aos produtos sujeitos a impostos especiais de consumo vendidos por lojas francas situadas no terminal francês do túnel do canal da Mancha em Coquelles a passageiros na posse de um título de transporte válido para um trajeto efetuado com destino ao Reino Unido através da ligação fixa do canal da Mancha.\n\n2. Os produtos vendidos a bordo de aeronaves ou navios durante um voo ou uma travessia marítima para um território terceiro ou um país terceiro são equiparados a produtos vendidos em lojas francas.\n\n3. Os Estados-Membros tomam as medidas necessárias para assegurar a aplicação das isenções previstas nos n.^os^ 1, 1-A e 2 de modo a evitar qualquer fraude, evasão ou abuso.\n\n4.\n\nPara efeitos do presente artigo, entende‐se por:\n\na) «Loja franca», qualquer estabelecimento situado num aeroporto ou terminal portuário que cumpra as condições estabelecidas pelas autoridades públicas competentes, em aplicação, nomeadamente, do n.º 3;\n\nb) «Viajante para um território terceiro ou um país terceiro», qualquer passageiro na posse de um título de transporte, por via aérea ou marítima, que mencione como destino final um aeroporto ou um porto situado num território terceiro ou num país terceiro."
+  },
+  "08a541277be3919c": {
+   "fragment_id": "Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Disposições gerais aplicáveis ao local de expedição e de destino do movimento\n\n1.\n\nOs produtos sujeitos a impostos especiais de consumo podem circular em regime de suspensão do imposto entre os seguintes locais no território da União, mesmo através de um país ou território terceiro:\n\na) De um entreposto fiscal para:\n\ni) outro entreposto fiscal,\n\nii) um destinatário registado,\n\niii) o local em que os produtos sujeitos a impostos especiais de consumo saem do território da União, como referido no artigo 25.º, n.º 1,\n\niv) o destinatário referido no artigo 11.º, n.º 1, se os produtos forem expedidos do território de outro Estado‐Membro,\n\nv) a estância aduaneira de saída, nos casos previstos nos termos do artigo 329.º, n.º 5, do Regulamento de Execução (UE) 2015/2447, que é simultaneamente a estância aduaneira de partida para o regime de trânsito externo, nos casos previstos nos termos do artigo 189.º, n.º 4, do Regulamento Delegado (UE) n.º 2015/2446;\n\nb) Do local de importação para qualquer dos destinos referidos na alínea a), se os produtos forem expedidos por um expedidor registado.\n\nPara efeitos do presente artigo, entende‐se por «local de importação» o local em que os produtos são introduzidos em livre prática nos termos do artigo 201.º do Regulamento (UE) n.º 952/2013.\n\n2.\n\nExceto nos casos em que a importação ocorra no interior de um entreposto fiscal, os produtos sujeitos a impostos especiais de consumo apenas podem ser retirados do local de importação em regime de suspensão do imposto se o declarante ou qualquer pessoa direta ou indiretamente envolvida no cumprimento de formalidades aduaneiras, nos termos do artigo 15.º do Regulamento (UE) n.º 952/2013, apresentar às autoridades competentes do Estado‐Membro de importação os seguintes dados:\n\na) O número único de imposto especial de consumo em conformidade com o artigo 19.º, n.º 2, alínea a), do Regulamento (UE) n.º 389/2012 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2#E0002)) que identifica o expedidor registado para o movimento;\n\nb) O número único de imposto especial de consumo em conformidade com o artigo 19.º, n.º 2, alínea a), do Regulamento (UE) n.º 389/2012 que identifica o destinatário dos produtos expedidos;\n\nc) Se for caso disso, a prova de que os bens importados se destinam a ser expedidos do território do Estado‐Membro de importação para o território de outro Estado‐Membro.\n\n3. Os Estados‐Membros podem prever que a prova a que se refere o n.º 2, alínea c), seja apresentada às autoridades competentes apenas mediante pedido.\n\n4. Em derrogação do n.º 1, alínea a), subalíneas i) e ii), e alínea b), do presente artigo, o Estado‐Membro de destino pode, nas condições que vier a fixar, permitir que os produtos sujeitos a impostos especiais de consumo circulem em regime de suspensão do imposto para um local de entrega direta situado no seu território, no caso de este local ter sido designado pelo depositário autorizado no Estado‐Membro de destino ou pelo destinatário registado outro que não um destinatário registado com uma autorização limitada nos termos do artigo 18.º, n.º 3.\n\nEsse depositário autorizado ou esse destinatário registado permanece responsável pela apresentação do relatório de receção referido no artigo 24.º, n.º 1.\n\n5. Os n.^os^ 1, 2 e 4 são igualmente aplicáveis à circulação de produtos sujeitos a impostos especiais de consumo de direito nulo que não tenham sido introduzidos no consumo."
+  },
+  "040460a05f67936e": {
+   "fragment_id": "Artigo 45.º — Inutilização e perda",
+   "type": "artigo",
+   "heading": "Artigo 45.º — Inutilização e perda",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 45.º — Inutilização e perda\n\n1. Nas situações referidas no artigo 33.º, n.º 1, e no artigo 44.º, n.º 1, em caso de inutilização total ou de perda irremediável dos produtos sujeitos a impostos especiais de consumo, durante o transporte para o território de um Estado‐Membro distinto daquele em que foram introduzidos no consumo, devido a caso fortuito ou de força maior, ou na sequência de uma autorização para inutilizar os produtos das autoridades competentes desse Estado‐Membro, o imposto não é exigível nesse Estado‐Membro.\n\nPara efeitos da presente diretiva, considera‐se que os produtos estão totalmente inutilizados ou irremediavelmente perdidos quando deixem de poder ser utilizados como produtos sujeitos a impostos especiais de consumo.\n\n2. Em caso de perda parcial devida à natureza dos produtos que ocorra durante o respetivo transporte no território de um Estado‐Membro distinto do Estado‐Membro em que foram introduzidos no consumo, o imposto especial de consumo não é exigível nesse Estado‐Membro quando o montante da perda for inferior ao limiar de perda parcial comum para esses produtos sujeitos a impostos especiais de consumo [**►C2**](http://publications.europa.eu/resource/celex/32020L0262R%2809%29) fixado em conformidade com o artigo 6.º, n.º 10, a menos que um Estado-Membro tenha motivos razoáveis para suspeitar de fraude ou de irregularidades.**◄**\n\n3. Deve fazer‐se prova suficiente da inutilização total ou da perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo referidos no n.º 1 às autoridades competentes do Estado‐Membro em que ocorreu a inutilização total ou a perda irremediável, total ou parcial, ou, quando não for possível determinar o local em que ocorreu a perda, do local em que foi detetada.\n\nCaso se determine a inutilização total ou a perda irremediável, total ou parcial, dos produtos sujeitos a impostos especiais de consumo, a garantia constituída nos termos do artigo 35.º, n.º 2, alínea a), ou do artigo 44.º, n.º 4, alínea a), é liberada, total ou parcialmente, conforme o caso, mediante a apresentação de prova satisfatória."
+  },
+  "d968e84b0e1ca843": {
+   "fragment_id": "Artigo 48.º — Pequenos produtores de vinho",
+   "type": "artigo",
+   "heading": "Artigo 48.º — Pequenos produtores de vinho",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 48.º — Pequenos produtores de vinho\n\n1. Os Estados‐Membros podem dispensar os pequenos produtores de vinho das obrigações a que se referem os artigos 14.º a 31.º, bem como das outras obrigações relacionadas com a circulação e o controlo. Quando esses pequenos produtores efetuarem pessoalmente operações intra‐União, devem informar as respetivas autoridades competentes e respeitar as condições estabelecidas no Regulamento Delegado (UE) 2018/273 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2#E0003)).\n\n2. Quando os pequenos produtores de vinho estiverem isentos dos requisitos estabelecidos nos termos do n.º 1, o destinatário informa as autoridades competentes do Estado‐Membro de destino, através do documento exigido pelo Regulamento Delegado (UE) 2018/273 ou de uma remissão para o mesmo, das remessas de vinho recebidas.\n\n3. Para efeitos do presente artigo, entende‐se por «pequeno produtor» um produtor que produz, em média, menos de 1 000 hl de vinho por campanha vitivinícola, determinados com base na produção anual média de, pelo menos, três campanhas vitivinícolas consecutivas, em conformidade com o artigo 2.º, n.º 3, do Regulamento Delegado (UE) 2018/273."
+  },
+  "c04013a640ced28c": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2#src.E0001)) Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro da União (JO L 269 de 10.10.2013, p. 1), com a redação que lhe foi dada pelo Regulamento (EU) 2016/2339 do Parlamento Europeu e do Conselho, de 14 de dezembro de 2016, que altera o Regulamento (UE) n.° 952/2013 que estabelece o Código Aduaneiro da União, no que se refere às mercadorias que tenham saído temporariamente do território aduaneiro da União por via marítima ou aérea (JO L 354 de 23.12.2016, p. 32).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2#src.E0002)) Regulamento (UE) n.º 389/2012 do Conselho, de 2 de maio de 2012, relativo à cooperação administrativa no domínio dos impostos especiais de consumo e que revoga o Regulamento (CE) n.º 2073/2004 (JO L 121 de 8.5.2012, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/f995633b-d674-11ec-a95f-01aa75ed71a1.0020.02/DOC_2#src.E0003)) Regulamento Delegado (UE) 2018/273 da Comissão, de 11 de dezembro de 2017, que completa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, no respeitante ao regime de autorizações para plantações de vinhas, ao cadastro vitícola, aos documentos de acompanhamento e à certificação, ao registo de entradas e de saídas, às declarações obrigatórias, às comunicações e notificações e à publicação das informações recebidas nesse âmbito, bem como o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho, no respeitante à fiscalização e às sanções em causa, que altera os Regulamentos (CE) n.º 555/2008, (CE) n.º 606/2009 e (CE) n.º 607/2009 da Comissão e que revoga o Regulamento (CE) n.º 436/2009 da Comissão e o Regulamento Delegado (UE) 2015/560 da Comissão (JO L 58 de 28.2.2018, p. 1)."
+  }
+ }
+}

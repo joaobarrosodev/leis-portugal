@@ -37,6 +37,28 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-08-14'
+version_history:
+  file: regulamento-ue-2019-472.versoes.json
+  count: 2
+  source_lastmod: '2019-08-14'
+  versions:
+  - date: '2019-03-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-08-14'
+    amending: eu:celex:32019R1241:por
+    amending_title: REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 9.º — Medidas técnicas
+    - Altera Artigo 20.º — Alteração do Regulamento (UE) 2016/1139
+    - Altera Artigo 21.º — Alteração do Regulamento (UE) 2018/973
+    - Altera Artigo 23.º — Entrada em vigor
+    - Altera Notas
+    - Adita Declaração comum do Parlamento Europeu e do Conselho
 identifiers:
   celex: 32019R0472
   eli: http://data.europa.eu/eli/reg/2019/472/oj
@@ -51,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f4aa5f62-4ec9-11e9-a8ed-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a18eb174-eb8d-11e9-9c4e-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0472-20190814
-  retrieved_at: '2026-10-22T03:19:09Z'
+  retrieved_at: '2026-10-22T17:07:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T16:11:45.153+01:00'
 integrity:
@@ -60,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:09Z'
-  notes: Texto consolidado 02019R0472-20190814.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:54Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2019-472.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -195,29 +217,19 @@ relationships:
   date: '2008-12-23'
 article_structure:
   article_count: 23
-  section_count: 29
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 30
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:09Z'
+  checked_at: '2026-10-22T17:07:54Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/472 do Parlamento Europeu e do Conselho, de 19 de março de 2019
-
-> 02019R0472 — PT — 14.08.2019 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R1241) — [REGULAMENTO (UE) 2019/1241 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de junho de 2019](http://publications.europa.eu/resource/celex/32019R1241) — L 198 — 105 — 25.7.2019
-
-## REGULAMENTO (UE) 2019/472 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 19 de março de 2019
 

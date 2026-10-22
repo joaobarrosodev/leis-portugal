@@ -37,6 +37,216 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-18'
+version_history:
+  file: regulamento-ue-2021-2115.versoes.json
+  count: 7
+  source_lastmod: '2026-08-18'
+  versions:
+  - date: '2022-04-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-01'
+    amending: eu:celex:32023R0813:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/813 DA COMISSÃO de 8 de fevereiro de 2023
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e condições a estabelecer nos planos estratégicos da PAC
+    - Altera Artigo 15.º — Serviços de aconselhamento agrícola
+    - Altera Artigo 59.º — Assistência financeira da União ao sector vitivinícola
+    - Altera Artigo 73.º — Investimentos
+    - Altera Artigo 74.º — Investimentos em sistemas de irrigação
+    - Altera Artigo 79.º — Seleção das operações
+    - Altera Artigo 99.º — Contribuição voluntária da dotação do FEADER para ações no âmbito do LIFE e Erasmus +
+    - Altera Artigo 107.º — Conteúdo do plano estratégico da PAC
+    - Altera Artigo 143.º — Disposições gerais
+    - Altera Artigo 147.º — Ajuda nacional transitória
+    - Altera Artigo 154.º — Revogações
+    - Altera INDICADORES DE IMPACTO, DE RESULTADOS, DE REALIZAÇÕES E DE CONTEXTO NOS TERMOS DO ARTIGO 7.º
+    - Altera REGRAS DE CONDICIONALIDADE NOS TERMOS DO ARTIGO 12.º
+    - Altera DOTAÇÕES DOS ESTADOS-MEMBROS PARA OS PAGAMENTOS DIRETOS A QUE SE REFERE O ARTIGO 87.º, N.º 1, PRIMEIRO PARÁGRAFO
+    - Altera LISTA DE PRODUTOS A QUE SE REFERE O ARTIGO 42.º, ALÍNEA F)
+    - Altera DOTAÇÕES DOS ESTADOS-MEMBROS PARA PAGAMENTOS DIRETOS COM EXCLUSÃO DO ALGODÃO E ANTES DAS TRANSFERÊNCIAS A QUE
+      SE REFERE O ARTIGO 87.º, N.º 1, TERCEIRO PARÁGRAFO
+    - Altera REPARTIÇÃO DO APOIO DA UNIÃO PARA OS TIPOS DE INTERVENÇÃO NO DOMÍNIO DO DESENVOLVIMENTO RURAL (2023-2027) A QUE
+      SE REFERE O ARTIGO 89.º, N.º 3
+    - Altera Notas
+    - Adita Tipos de intervenção e respetivos indicadores de realizações ([^22^](http://publications.europa.eu/resource/cellar/65c1d4b1-0a05-11ee-b12e-01aa75ed71a1.0020.02/DOC_1#E0025))
+    - Suprime Tipos de intervenção e respetivos indicadores de realizações ([^22^](http://publications.europa.eu/resource/cellar/b3f187ca-ebd3-11ec-a534-01aa75ed71a1.0021.02/DOC_3#E0025))
+  - date: '2024-01-01'
+    amending: eu:celex:32024R0946:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/946 DA COMISSÃO de 18 de janeiro de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e condições a estabelecer nos planos estratégicos da PAC
+    - Altera Artigo 15.º — Serviços de aconselhamento agrícola
+    - Altera Artigo 59.º — Assistência financeira da União ao sector vitivinícola
+    - Altera Artigo 73.º — Investimentos
+    - Altera Artigo 74.º — Investimentos em sistemas de irrigação
+    - Altera Artigo 79.º — Seleção das operações
+    - Altera Artigo 99.º — Contribuição voluntária da dotação do FEADER para ações no âmbito do LIFE e Erasmus +
+    - Altera Artigo 107.º — Conteúdo do plano estratégico da PAC
+    - Altera Artigo 143.º — Disposições gerais
+    - Altera Artigo 147.º — Ajuda nacional transitória
+    - Altera Artigo 154.º — Revogações
+    - Altera INDICADORES DE IMPACTO, DE RESULTADOS, DE REALIZAÇÕES E DE CONTEXTO NOS TERMOS DO ARTIGO 7.º
+    - Altera REGRAS DE CONDICIONALIDADE NOS TERMOS DO ARTIGO 12.º
+    - Altera DOTAÇÕES DOS ESTADOS-MEMBROS PARA OS PAGAMENTOS DIRETOS A QUE SE REFERE O ARTIGO 87.º, N.º 1, PRIMEIRO PARÁGRAFO
+    - Altera LISTA DE PRODUTOS A QUE SE REFERE O ARTIGO 42.º, ALÍNEA F)
+    - Altera DOTAÇÕES DOS ESTADOS-MEMBROS PARA PAGAMENTOS DIRETOS COM EXCLUSÃO DO ALGODÃO E ANTES DAS TRANSFERÊNCIAS A QUE
+      SE REFERE O ARTIGO 87.º, N.º 1, TERCEIRO PARÁGRAFO
+    - Altera Notas
+    - Adita Tipos de intervenção e respetivos indicadores de realizações ([^22^](http://publications.europa.eu/resource/cellar/ff8fed8d-0192-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0025))
+    - Suprime Tipos de intervenção e respetivos indicadores de realizações ([^22^](http://publications.europa.eu/resource/cellar/65c1d4b1-0a05-11ee-b12e-01aa75ed71a1.0020.02/DOC_1#E0025))
+  - date: '2024-05-25'
+    amending: eu:celex:32024R1468:por
+    amending_title: REGULAMENTO (UE) 2024/1468 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e condições a estabelecer nos planos estratégicos da PAC
+    - Altera Artigo 13.º — Obrigações dos Estados-Membros em matéria de boas condições agrícolas e ambientais
+    - Altera Artigo 15.º — Serviços de aconselhamento agrícola
+    - Altera Artigo 31.º — Regimes para o clima, o ambiente e o bem-estar dos animais
+    - Altera Artigo 59.º — Assistência financeira da União ao sector vitivinícola
+    - Altera Artigo 73.º — Investimentos
+    - Altera Artigo 74.º — Investimentos em sistemas de irrigação
+    - Altera Artigo 79.º — Seleção das operações
+    - Altera Artigo 99.º — Contribuição voluntária da dotação do FEADER para ações no âmbito do LIFE e Erasmus +
+    - Altera Artigo 107.º — Conteúdo do plano estratégico da PAC
+    - Altera Artigo 119.º — Alteração do plano estratégico da PAC
+    - Altera Artigo 120.º — Revisão dos planos estratégicos da PAC
+    - Altera Artigo 143.º — Disposições gerais
+    - Altera Artigo 147.º — Ajuda nacional transitória
+    - Altera Artigo 154.º — Revogações
+    - Altera INDICADORES DE IMPACTO, DE RESULTADOS, DE REALIZAÇÕES E DE CONTEXTO NOS TERMOS DO ARTIGO 7.º
+    - Altera REGRAS DE CONDICIONALIDADE NOS TERMOS DO ARTIGO 12.º
+    - Altera LISTA DE PRODUTOS A QUE SE REFERE O ARTIGO 42.º, ALÍNEA F)
+    - Altera Notas
+    - Adita Tipos de intervenção e respetivos indicadores de realizações ([^22^](http://publications.europa.eu/resource/cellar/0108c4f7-2d9a-11ef-a61b-01aa75ed71a1.0020.02/DOC_1#E0025))
+    - Suprime Tipos de intervenção e respetivos indicadores de realizações ([^22^](http://publications.europa.eu/resource/cellar/ff8fed8d-0192-11ef-a251-01aa75ed71a1.0020.02/DOC_1#E0025))
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2649:por
+    amending_title: REGULAMENTO (UE) 2025/2649 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025; REGULAMENTO
+      DELEGADO (UE) 2026/1 DA COMISSÃO de 1 de dezembro de 2025
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e condições a estabelecer nos planos estratégicos da PAC
+    - Altera Artigo 10.º — Apoio interno no contexto da OMC
+    - Altera Artigo 11.º — Aplicação do Memorando de Acordo relativo às Sementes Oleaginosas
+    - Altera Artigo 12.º — Princípios e âmbito de aplicação
+    - Altera Artigo 13.º — Obrigações dos Estados-Membros em matéria de boas condições agrícolas e ambientais
+    - Altera Artigo 15.º — Serviços de aconselhamento agrícola
+    - Altera Artigo 19.º — Contribuição para os instrumentos de gestão dos riscos
+    - Altera Artigo 28.º — Pagamentos aos pequenos agricultores
+    - Altera Artigo 31.º — Regimes para o clima, o ambiente e o bem-estar dos animais
+    - Altera Artigo 49.º — Objetivos no sector das frutas e dos produtos hortícolas
+    - Altera Artigo 52.º — Assistência financeira da União ao sector das frutas e dos produtos hortícolas
+    - Altera Artigo 59.º — Assistência financeira da União ao sector vitivinícola
+    - Altera Artigo 69.º — Tipos de intervenção de desenvolvimento rural
+    - Altera Artigo 70.º — Compromissos em matéria de ambiente e de clima e outros compromissos de gestão
+    - Altera Artigo 72.º — Desvantagens locais específicas decorrentes de determinados requisitos obrigatórios
+    - Altera Artigo 73.º — Investimentos
+    - Altera Artigo 74.º — Investimentos em sistemas de irrigação
+    - Altera Artigo 76.º — Instrumentos de gestão dos riscos
+    - Altera Artigo 77.º — Cooperação
+    - Altera Artigo 79.º — Seleção das operações
+    - Altera Artigo 80.º — Regras específicas para os instrumentos financeiros
+    - Altera Artigo 81.º — Utilização do FEADER por intermédio do InvestEU
+    - Altera Artigo 83.º — Formas das subvenções
+    - Altera Artigo 86.º — Elegibilidade das despesas
+    - Altera Artigo 99.º — Contribuição voluntária da dotação do FEADER para ações no âmbito do LIFE e Erasmus +
+    - Altera Artigo 103.º — Flexibilidade entre dotações para pagamentos diretos e dotações do FEADER
+    - Altera Artigo 107.º — Conteúdo do plano estratégico da PAC
+    - Altera Artigo 111.º — Intervenções
+    - Altera Artigo 122.º — Poderes delegados sobre alterações aos planos estratégicos da PAC
+    - Altera Artigo 124.º — Comité de acompanhamento
+    - Altera Artigo 134.º — Relatórios anuais de desempenho
+    - Altera Artigo 143.º — Disposições gerais
+    - Altera Artigo 147.º — Ajuda nacional transitória
+    - Altera Artigo 154.º — Revogações
+    - Altera Artigo 155.º — Elegibilidade de determinados tipos de despesas relativas ao período de vigência do plano estratégico
+      da PAC
+    - Altera INDICADORES DE IMPACTO, DE RESULTADOS, DE REALIZAÇÕES E DE CONTEXTO NOS TERMOS DO ARTIGO 7.º
+    - Altera APOIO INTERNO NO CONTEXTO DA OMC EM CONFORMIDADE COM O ARTIGO 10.º
+    - Altera REGRAS DE CONDICIONALIDADE NOS TERMOS DO ARTIGO 12.º
+    - Altera DOTAÇÕES DOS ESTADOS-MEMBROS PARA OS PAGAMENTOS DIRETOS A QUE SE REFERE O ARTIGO 87.º, N.º 1, PRIMEIRO PARÁGRAFO
+  - date: '2026-03-18'
+    amending: eu:celex:32026R0471:por
+    amending_title: REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e condições a estabelecer nos planos estratégicos da PAC
+    - Altera Artigo 13.º — Obrigações dos Estados-Membros em matéria de boas condições agrícolas e ambientais
+    - Altera Artigo 15.º — Serviços de aconselhamento agrícola
+    - Altera Artigo 45.º — Poderes delegados relativos aos requisitos adicionais para os tipos de intervenção
+    - Altera Artigo 58.º — Tipos de intervenção no sector vitivinícola
+    - Altera Artigo 59.º — Assistência financeira da União ao sector vitivinícola
+    - Altera Artigo 73.º — Investimentos
+    - Altera Artigo 74.º — Investimentos em sistemas de irrigação
+    - Altera Artigo 76.º — Instrumentos de gestão dos riscos
+    - Altera Artigo 78.º-A — Pagamentos em situações de crise aos agricultores na sequência de catástrofes naturais, fenómenos
+      climáticos adversos ou acontecimentos catastróficos
+    - Altera Artigo 79.º — Seleção das operações
+    - Altera Artigo 99.º — Contribuição voluntária da dotação do FEADER para ações no âmbito do LIFE e Erasmus +
+    - Altera Artigo 107.º — Conteúdo do plano estratégico da PAC
+    - Altera Artigo 143.º — Disposições gerais
+    - Altera Artigo 147.º — Ajuda nacional transitória
+    - Altera Artigo 154.º — Revogações
+    - Altera INDICADORES DE IMPACTO, DE RESULTADOS, DE REALIZAÇÕES E DE CONTEXTO NOS TERMOS DO ARTIGO 7.º
+    - Altera REGRAS DE CONDICIONALIDADE NOS TERMOS DO ARTIGO 12.º
+    - Altera LISTA DE PRODUTOS A QUE SE REFERE O ARTIGO 42.º, ALÍNEA F)
+    - Altera Notas
+    - Adita Tipos de intervenção e respetivos indicadores de realizações ([^26^](http://publications.europa.eu/resource/cellar/ff5a3ccc-27ba-11f1-a7dd-01aa75ed71a1.0020.02/DOC_2#E0029))
+    - Suprime Tipos de intervenção e respetivos indicadores de realizações ([^24^](http://publications.europa.eu/resource/cellar/7a147fa4-1767-11f1-8870-01aa75ed71a1.0021.02/DOC_1#E0027))
+  - date: '2026-08-18'
+    amending: eu:celex:32026R1768:por
+    amending_title: REGULAMENTO (UE) 2026/1768 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2026; REGULAMENTO (UE)
+      2026/1739 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Definições e condições a estabelecer nos planos estratégicos da PAC
+    - Altera Artigo 13.º — Obrigações dos Estados-Membros em matéria de boas condições agrícolas e ambientais
+    - Altera Artigo 15.º — Serviços de aconselhamento agrícola
+    - Altera Artigo 52.º — Assistência financeira da União ao sector das frutas e dos produtos hortícolas
+    - Altera Artigo 58.º — Tipos de intervenção no sector vitivinícola
+    - Altera Artigo 59.º — Assistência financeira da União ao sector vitivinícola
+    - Altera Artigo 62.º — Assistência financeira da União
+    - Altera Artigo 65.º — Assistência financeira da União
+    - Altera Artigo 68.º — Assistência financeira da União
+    - Altera Artigo 69.º — Tipos de intervenção de desenvolvimento rural
+    - Altera Artigo 73.º — Investimentos
+    - Altera Artigo 74.º — Investimentos em sistemas de irrigação
+    - Altera Artigo 78.º-A — Pagamentos em situações de crise aos agricultores na sequência de catástrofes naturais, fenómenos
+      climáticos adversos ou acontecimentos catastróficos
+    - Altera Artigo 79.º — Seleção das operações
+    - Altera Artigo 80.º — Regras específicas para os instrumentos financeiros
+    - Altera Artigo 86.º — Elegibilidade das despesas
+    - Altera Artigo 87.º — Dotações financeiras para os tipos de intervenção sob a forma de pagamentos diretos
+    - Altera Artigo 88.º — Dotações financeiras para certos tipos de intervenção em determinados sectores
+    - Altera Artigo 91.º — Taxas de contribuição do FEADER
+    - Altera Artigo 99.º — Contribuição voluntária da dotação do FEADER para ações no âmbito do LIFE e Erasmus +
+    - Altera Artigo 107.º — Conteúdo do plano estratégico da PAC
+    - Altera Artigo 111.º — Intervenções
+    - Altera Artigo 112.º — Plano-alvo e plano financeiro
+    - Altera Artigo 119.º — Alterações dos planos estratégicos da PAC
+    - Altera Artigo 121.º — Cálculo dos prazos para adoção de medidas pela Comissão
+    - Altera Artigo 143.º — Disposições gerais
+    - Altera Artigo 146.º — Financiamento nacional adicional
+    - Altera Artigo 147.º — Ajuda nacional transitória
+    - Altera Artigo 154.º — Revogações
+    - Altera INDICADORES DE IMPACTO, DE RESULTADOS, DE REALIZAÇÕES E DE CONTEXTO NOS TERMOS DO ARTIGO 7.º
+    - Altera REGRAS DE CONDICIONALIDADE NOS TERMOS DO ARTIGO 12.º
+    - Altera LISTA DE PRODUTOS A QUE SE REFERE O ARTIGO 42.º, ALÍNEA F)
+    - Altera Notas
+    - Adita Artigo 78.º-B — Apoio aos agricultores afetados pelo forte aumento dos preços dos adubos devido à crise no Médio
+      Oriente
+    - Adita Artigo 96.º-A — Dotações financeiras máximas para os pagamentos em situações de crise aos agricultores a que se
+      refere o artigo 78.º-A e para o apoio aos agricultores a que se refere o artigo 78.º-B
+    - Adita Artigo 103.º-A — Dotações destinadas a pagamentos diretos para o ano civil de 2027
+    - Adita Tipos de intervenção e respetivos indicadores de realizações ([^26^](http://publications.europa.eu/resource/cellar/7c2b12df-95b6-11f1-9262-01aa75ed71a1.0020.02/DOC_2#E0029))
+    - Adita Montante máximo por Estado-Membro que pode ser reservado para os pagamentos em situações de crise aos agricultores
+      a que se refere o artigo 78.º-A e para o apoio aos agricultores a que se refere o artigo 78.º-B
+    - Adita ANEXO XVI
 identifiers:
   celex: 32021R2115
   eli: http://data.europa.eu/eli/reg/2021/2115/oj
@@ -51,7 +261,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4a220961-5636-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/7c2b12df-95b6-11f1-9262-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2115-20260818
-  retrieved_at: '2026-10-22T02:23:02Z'
+  retrieved_at: '2026-10-22T17:15:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T12:12:22.685+01:00'
 integrity:
@@ -60,9 +270,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:23:02Z'
-  notes: Texto consolidado 02021R2115-20260818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:03Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2021-2115.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -1039,44 +1249,20 @@ relationships:
   date: '2013-12-23'
 article_structure:
   article_count: 162
-  section_count: 132
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 134
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:23:02Z'
-  warnings: []
+  checked_at: '2026-10-22T17:15:03Z'
+  warnings:
+  - '02021R2115-20211206: versão indisponível (Sem expressão na língua por para CELEX 02021R2115-20211206.)'
   errors: []
 ---
 
 # Regulamento (UE) 2021/2115 do Parlamento Europeu e do Conselho de 2 de dezembro de 2021
-
-> 02021R2115 — PT — 18.08.2026 — 007.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0648) — [REGULAMENTO DELEGADO (UE) 2022/648 DA COMISSÃO de 15 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0648) — L 119 — 1 — 21.4.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R0813) — [REGULAMENTO DELEGADO (UE) 2023/813 DA COMISSÃO de 8 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0813) — L 102 — 1 — 17.4.2023
-- [M3](http://publications.europa.eu/resource/celex/32024R0946) — [REGULAMENTO DELEGADO (UE) 2024/946 DA COMISSÃO de 18 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0946) — L 946 — 1 — 26.3.2024
-- [►M4](http://publications.europa.eu/resource/celex/32024R1468) — [REGULAMENTO (UE) 2024/1468 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1468) — L 1468 — 1 — 24.5.2024
-- [►M5](http://publications.europa.eu/resource/celex/32025R2649) — [REGULAMENTO (UE) 2025/2649 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2649) — L 2649 — 1 — 31.12.2025
-- [►M6](http://publications.europa.eu/resource/celex/32026R0001) — [REGULAMENTO DELEGADO (UE) 2026/1 DA COMISSÃO de 1 de dezembro de 2025](http://publications.europa.eu/resource/celex/32026R0001) — L 1 — 1 — 6.2.2026
-- [►M7](http://publications.europa.eu/resource/celex/32026R0471) — [REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0471) — L 471 — 1 — 26.2.2026
-- [►M8](http://publications.europa.eu/resource/celex/32026R1768) — [REGULAMENTO (UE) 2026/1768 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1768) — L 1768 — 1 — 21.7.2026
-- [►M9](http://publications.europa.eu/resource/celex/32026R1739) — [REGULAMENTO (UE) 2026/1739 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1739) — L 1739 — 1 — 29.7.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32021R2115R%2802%29) — [Rectificação, JO L 181, 7.7.2022, p. 35 (2021/2115)](http://publications.europa.eu/resource/celex/32021R2115R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32021R2115R%2803%29) — [Rectificação, JO L 227, 1.9.2022, p. 136 (2021/2115)](http://publications.europa.eu/resource/celex/32021R2115R%2803%29)
-- [C3](http://publications.europa.eu/resource/celex/32026R0471R%2802%29) — [Rectificação, JO L 90408, 22.5.2026, p. 1 (2026/471)](http://publications.europa.eu/resource/celex/32026R0471R%2802%29)
-- [C4](http://publications.europa.eu/resource/celex/32021R2115R%2812%29) — [Rectificação, JO L 90774, 18.9.2026, p. 1 (2021/2115)](http://publications.europa.eu/resource/celex/32021R2115R%2812%29)
-
-## REGULAMENTO (UE) 2021/2115 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 2 de dezembro de 2021
 

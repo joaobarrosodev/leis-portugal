@@ -38,6 +38,91 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-20'
+version_history:
+  file: regulamento-ue-2018-1724.versoes.json
+  count: 5
+  source_lastmod: '2026-05-20'
+  versions:
+  - date: '2023-09-24'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-23'
+    amending: eu:celex:32024R1252:por
+    amending_title: REGULAMENTO (UE) 2024/1252 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 38.º
+    - Altera Lista dos domínios de informação relevantes para os cidadãos e para as empresas no exercício dos seus direitos
+      no mercado interno a que se refere o artigo 2.º, n.º 2, alínea a)
+    - Altera Procedimentos referidos no artigo 6.º, n.º 1
+    - Altera Lista dos serviços de assistência e de resolução de problemas a que se refere o artigo 2.º, n.º 2, alínea c)
+    - Altera Notas
+  - date: '2024-06-29'
+    amending: eu:celex:32024R1735:por
+    amending_title: REGULAMENTO (UE) 2024/1735 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 38.º
+    - Altera Lista dos domínios de informação relevantes para os cidadãos e para as empresas no exercício dos seus direitos
+      no mercado interno a que se refere o artigo 2.º, n.º 2, alínea a)
+    - Altera Procedimentos referidos no artigo 6.º, n.º 1
+    - Altera Lista dos serviços de assistência e de resolução de problemas a que se refere o artigo 2.º, n.º 2, alínea c)
+    - Altera Notas
+  - date: '2025-01-19'
+    amending: eu:celex:32024R3228:por
+    amending_title: REGULAMENTO (UE) 2024/3228 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Lista dos domínios de informação relevantes para os cidadãos e para as empresas no exercício dos seus direitos
+      no mercado interno a que se refere o artigo 2.º, n.º 2, alínea a)
+    - Altera Procedimentos referidos no artigo 6.º, n.º 1
+    - Altera Lista dos serviços de assistência e de resolução de problemas a que se refere o artigo 2.º, n.º 2, alínea c)
+    - Altera Notas
+    - Adita Artigo 1.º — Objeto
+    - Adita Artigo 2.º — Criação da plataforma digital única
+    - Adita Artigo 3.º — Definições
+    - Adita Artigo 4.º — Acesso à informação
+    - Adita Artigo 5.º — Acesso a informações não incluídas no anexo I
+    - Adita Artigo 6.º — Procedimentos integralmente acessíveis em linha
+    - Adita Artigo 7.º — Acesso aos serviços de assistência e de resolução de problemas
+    - Adita Artigo 8.º — Requisitos de qualidade relacionados com o acesso em linha
+    - Adita Artigo 9.º — Qualidade das informações sobre os direitos, as obrigações e as regras
+    - Adita Artigo 10.º — Qualidade das informações sobre os procedimentos
+    - Adita Artigo 11.º — Qualidade das informações sobre os serviços de assistência e de resolução de problemas
+    - Adita Artigo 12.º — Tradução das informações
+    - Adita Artigo 13.º — Acesso transfronteiriço aos procedimentos em linha
+    - Adita Artigo 14.º — Sistema técnico para o intercâmbio automatizado transfronteiriço de elementos de prova e aplicação
+      do princípio da declaração única
+    - Adita Artigo 15.º — Verificação dos elementos de prova entre os Estados-Membros
+    - Adita Artigo 16.º — Requisitos de qualidade relativos aos serviços de assistência e de resolução de problemas
+    - Adita Artigo 17.º — Controlo da qualidade
+    - Adita Artigo 18.º — Interface comum do utilizador
+    - Adita Artigo 19.º — Repositório de hiperligações
+    - Adita Artigo 20.º — Ferramenta comum de pesquisa de serviços de assistência
+    - Adita Artigo 21.º — Responsabilidade pelas aplicações das tecnologias da informação e comunicação da plataforma
+    - Adita Artigo 22.º — Designação, logótipo e selo de qualidade
+    - Adita Artigo 23.º — Promoção
+    - Adita Artigo 24.º — Estatísticas sobre os utilizadores
+    - Adita Artigo 25.º — Reações dos utilizadores sobre os serviços da plataforma
+    - Adita Artigo 26.º — Informações sobre o funcionamento do mercado interno
+    - Adita Artigo 27.º — Resumos em linha
+    - Adita Artigo 28.º — Coordenadores nacionais
+    - Adita Artigo 29.º — Grupo de coordenação
+    - Adita Artigo 30.º — Funções do grupo de coordenação da plataforma
+    - Adita Artigo 31.º — Programa de trabalho anual
+    - Adita Artigo 32.º — Despesas
+    - Adita Artigo 33.º — Proteção dos dados pessoais
+    - Adita Artigo 34.º — Cooperação com outras redes de informação e assistência
+    - Adita Artigo 35.º — Sistema de Informação do Mercado Interno
+    - Adita Artigo 36.º — Apresentação de relatórios e revisão
+  - date: '2026-05-20'
+    amending: eu:celex:32024R1028:por
+    amending_title: REGULAMENTO (UE) 2024/1028 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 38.º — Alteração do Regulamento (UE) n.º 1024/2012
+    - Altera Lista dos domínios de informação relevantes para os cidadãos e para as empresas no exercício dos seus direitos
+      no mercado interno a que se refere o artigo 2.º, n.º 2, alínea a)
+    - Altera Procedimentos referidos no artigo 6.º, n.º 1
+    - Altera Lista dos serviços de assistência e de resolução de problemas a que se refere o artigo 2.º, n.º 2, alínea c)
+    - Altera Notas
 identifiers:
   celex: 32018R1724
   eli: http://data.europa.eu/eli/reg/2018/1724/oj
@@ -52,7 +137,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/796b405c-ed62-11e8-b690-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/059a5e4e-2d8c-11f1-906d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1724-20260520
-  retrieved_at: '2026-10-22T02:39:58Z'
+  retrieved_at: '2026-10-22T17:06:23Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T11:26:29.637+01:00'
 integrity:
@@ -61,9 +146,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:58Z'
-  notes: Texto consolidado 02018R1724-20260520.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:23Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2018-1724.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -315,33 +400,20 @@ relationships:
   date: '2019-08-05'
 article_structure:
   article_count: 39
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:58Z'
-  warnings: []
+  checked_at: '2026-10-22T17:06:23Z'
+  warnings:
+  - '02018R1724-20181121: versão indisponível (Sem expressão na língua por para CELEX 02018R1724-20181121.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/1724 do Parlamento Europeu e do Conselho, de 2 de outubro de 2018
-
-> 02018R1724 — PT — 20.05.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0868) — [REGULAMENTO (UE) 2022/868 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0868) — L 152 — 1 — 3.6.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R1028) — [REGULAMENTO (UE) 2024/1028 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1028) — L 1028 — 1 — 29.4.2024
-- [►M3](http://publications.europa.eu/resource/celex/32024R1252) — [REGULAMENTO (UE) 2024/1252 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1252) — L 1252 — 1 — 3.5.2024
-- [►M4](http://publications.europa.eu/resource/celex/32024R1735) — [REGULAMENTO (UE) 2024/1735 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1735) — L 1735 — 1 — 28.6.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R3228) — [REGULAMENTO (UE) 2024/3228 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024R3228) — L 3228 — 1 — 30.12.2024
-
-## REGULAMENTO (UE) 2018/1724 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 2 de outubro de 2018
 

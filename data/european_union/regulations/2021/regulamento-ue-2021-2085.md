@@ -35,6 +35,63 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-09-21'
+version_history:
+  file: regulamento-ue-2021-2085.versoes.json
+  count: 2
+  source_lastmod: '2023-09-21'
+  versions:
+  - date: '2021-11-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-09-21'
+    amending: eu:celex:32023R1782:por
+    amending_title: REGULAMENTO (UE) 2023/1782 DO CONSELHO de 25 de julho de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Constituição
+    - Altera Artigo 4.º — Objetivos e princípios
+    - Altera Artigo 10.º — Contribuição financeira da União
+    - Altera Artigo 12.º — Gestão das contribuições dos Estados participantes
+    - Altera Artigo 13.º — Sinergias e eficiência do dispositivo de apoio administrativo
+    - Altera Artigo 21.º — Aconselhamento científico
+    - Altera Artigo 29.º — Compromissos financeiros
+    - Altera Artigo 30.º — Proteção dos interesses financeiros dos membros
+    - Altera Artigo 34.º — Transparência
+    - Altera Artigo 35.º — Tratamento de dados pessoais
+    - Altera Artigo 85.º — Objetivos adicionais da Empresa Comum do Sector Ferroviário Europeu
+    - Altera Artigo 86.º — Funções adicionais da Empresa Comum do Sector Ferroviário Europeu
+    - Altera Artigo 95.º — Grupo de representantes dos Estados
+    - Altera Artigo 98.º — Colaboração com a Agência Ferroviária da União Europeia
+    - Altera Artigo 100.º — Funções adicionais da Empresa Comum de Saúde Mundial EDCTP3
+    - Altera Artigo 127.º — Membros
+    - Altera Artigo 128.º — Contribuição financeira da União
+    - Altera Artigo 129.º — Contribuições de membros que não a União
+    - Altera Artigo 130.º — Âmbito das atividades adicionais
+    - Altera Artigo 132.º — Composição do conselho diretivo
+    - Altera Artigo 133.º — Funcionamento do conselho diretivo
+    - Altera Artigo 135.º — Composição do conselho das autoridades públicas
+    - Altera Artigo 136.º — Funcionamento do conselho das autoridades públicas
+    - Altera Artigo 137.º — Funções do conselho das autoridades públicas
+    - Altera Artigo 138.º — Composição do conselho dos membros privados
+    - Altera Artigo 140.º — Funções do conselho dos membros privados
+    - Altera Artigo 143.º — Funções adicionais da Empresa Comum de Investigação sobre a Gestão do Tráfego Aéreo no Céu Único
+      Europeu 3
+    - Altera Artigo 155.º — Atos de execução para definir a posição da União sobre a alteração do Plano Diretor Europeu de
+      Gestão do Tráfego Aéreo
+    - Altera Artigo 174.º — Revogação e disposições transitórias
+    - Altera Artigo 175.º — Entrada em vigor
+    - Altera Notas
+    - Adita EMPRESA COMUM DOS CIRCUITOS INTEGRADOS
+    - Adita Artigo 126.º — Objetivos adicionais da [►M1](http://publications.europa.eu/resource/celex/32023R1782) Empresa
+      Comum dos Circuitos Integrados◄
+    - Adita Artigo 131.º — Órgãos da [►M1](http://publications.europa.eu/resource/celex/32023R1782) Empresa Comum dos Circuitos
+      Integrados◄
+    - Adita Artigo 133.º-A — Regras aplicáveis às atividades financiadas ao abrigo do Programa Europa Digital
+    - Adita Artigo 134.º — Limitação e condições da participação em ações específicas
+    - Adita Artigo 134.º-A — Funções adicionais do diretor executivo
+    - Adita Artigo 141.º — Taxas de financiamento e regras de participação
 identifiers:
   celex: 32021R2085
   eli: http://data.europa.eu/eli/reg/2021/2085/oj
@@ -49,7 +106,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/16bfbcb0-5184-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/10fdd4c3-7d75-11ee-99ba-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2085-20230921
-  retrieved_at: '2026-10-22T03:19:56Z'
+  retrieved_at: '2026-10-22T17:14:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T15:36:55.103+01:00'
 integrity:
@@ -58,9 +115,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:56Z'
-  notes: Texto consolidado 02021R2085-20230921.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:14:29Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2021-2085.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -379,29 +436,19 @@ relationships:
   date: '2014-06-17'
 article_structure:
   article_count: 177
-  section_count: 64
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 65
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:56Z'
+  checked_at: '2026-10-22T17:14:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/2085 do Conselho de 19 de novembro de 2021
-
-> 02021R2085 — PT — 21.09.2023 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R1782) — [REGULAMENTO (UE) 2023/1782 DO CONSELHO de 25 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1782) — L 229 — 55 — 18.9.2023
-
-## REGULAMENTO (UE) 2021/2085 DO CONSELHO
 
 de 19 de novembro de 2021
 

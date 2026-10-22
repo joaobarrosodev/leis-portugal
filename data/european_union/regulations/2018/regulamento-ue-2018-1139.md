@@ -38,6 +38,118 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: regulamento-ue-2018-1139.versoes.json
+  count: 4
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2021-07-25'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-12-01'
+    amending: eu:celex:32024R2803:por
+    amending_title: REGULAMENTO (UE) 2024/2803 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 41.º — Prestadores de serviços ATM/ANS
+    - Altera Artigo 43.º — Atos de execução relativos a prestadores de serviços ATM/ANS e a organizações envolvidas no projeto,
+      fabrico ou manutenção de sistemas e componentes ATM/ANS
+    - Altera Artigo 56.º — Conformidade das aeronaves não tripuladas
+    - Altera Artigo 62.º — Certificação, supervisão e execução
+    - Altera Artigo 87.º — Proteção ambiental
+    - Altera Artigo 88.º — Interdependências entre a segurança operacional e a segurança contra atos de interferência ilícita
+      no domínio da aviação civil
+    - Altera Artigo 91.º — Gestão de crises no setor da aviação
+    - Altera Artigo 95.º — Pessoal
+    - Altera Artigo 98.º — Competências do Conselho de Administração
+    - Altera Artigo 120.º — Orçamento
+    - Altera Artigo 121.º — Execução e controlo orçamental
+    - Altera Artigo 122.º — Luta contra a fraude
+    - Altera Artigo 123.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 134.º — Alterações do Regulamento (CE) n.º 1008/2008
+    - Altera Artigo 135.º — Alterações do Regulamento (UE) n.º 996/2010
+    - Altera Artigo 136.º — Alterações do Regulamento (UE) n.º 376/2014
+    - Altera Artigo 137.º — Alteração da Diretiva 2014/30/UE
+    - Altera Artigo 138.º — Alteração da Diretiva 2014/53/UE
+    - Altera Artigo 140.º — Disposições transitórias
+    - Altera 2. SERVIÇOS
+    - Altera 5. PRESTADORES DE SERVIÇOS E ORGANIZAÇÕES DE FORMAÇÃO
+    - Altera Notas
+    - Adita Artigo 93.º — Realização do Céu Único Europeu
+    - Adita 7. REQUISITOS EM MATÉRIA DE SOLIDEZ FINANCEIRA, RESPONSABILIDADE, COBERTURA DE SEGURO, PROPRIEDADE E ESTRUTURA
+      ORGANIZATIVA
+    - Suprime Artigo 93.º — Implementação do Céu Único Europeu
+  - date: '2025-05-25'
+    amending: eu:celex:32025R0870:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/870 DA COMISSÃO de 28 de fevereiro de 2025
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Requisitos essenciais
+    - Altera Artigo 56.º — Conformidade das aeronaves não tripuladas
+    - Altera Artigo 87.º — Proteção ambiental
+    - Altera Artigo 88.º — Interdependências entre a segurança operacional e a segurança contra atos de interferência ilícita
+      no domínio da aviação civil
+    - Altera Artigo 91.º — Gestão de crises no setor da aviação
+    - Altera Artigo 95.º — Pessoal
+    - Altera Artigo 98.º — Competências do Conselho de Administração
+    - Altera Artigo 120.º — Orçamento
+    - Altera Artigo 121.º — Execução e controlo orçamental
+    - Altera Artigo 122.º — Luta contra a fraude
+    - Altera Artigo 123.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 134.º — Alterações do Regulamento (CE) n.º 1008/2008
+    - Altera Artigo 135.º — Alterações do Regulamento (UE) n.º 996/2010
+    - Altera Artigo 136.º — Alterações do Regulamento (UE) n.º 376/2014
+    - Altera Artigo 137.º — Alteração da Diretiva 2014/30/UE
+    - Altera Artigo 138.º — Alteração da Diretiva 2014/53/UE
+    - Altera Artigo 140.º — Disposições transitórias
+    - Altera Notas
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024; REGULAMENTO (UE)
+      2026/1744 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Requisitos essenciais
+    - Altera Artigo 17.º — Atos de execução relativos à aeronavegabilidade
+    - Altera Artigo 19.º — Poderes delegados
+    - Altera Artigo 27.º — Atos de execução relativos a formação, exames, verificações e avaliação médica
+    - Altera Artigo 31.º — Medidas de execução para as operações aéreas
+    - Altera Artigo 32.º — Poderes delegados
+    - Altera Artigo 36.º — Atos de execução relativos aos aeródromos e ao equipamento de aeródromo relacionado com a segurança
+    - Altera Artigo 39.º — Poderes delegados
+    - Altera Artigo 43.º — Atos de execução relativos a prestadores de serviços ATM/ANS e a organizações envolvidas no projeto,
+      fabrico ou manutenção de sistemas e componentes ATM/ANS
+    - Altera Artigo 47.º — Poderes delegados
+    - Altera Artigo 50.º — Atos de execução relativos aos controladores de tráfego aéreo
+    - Altera Artigo 53.º — Atos de execução relativos a formação, exames, verificações e avaliação médica
+    - Altera Artigo 56.º — Conformidade das aeronaves não tripuladas
+    - Altera Artigo 57.º — Atos de execução relativos às aeronaves não tripuladas
+    - Altera Artigo 58.º — Poderes delegados
+    - Altera Artigo 87.º — Proteção ambiental
+    - Altera Artigo 88.º — Interdependências entre a segurança operacional e a segurança contra atos de interferência ilícita
+      no domínio da aviação civil
+    - Altera Artigo 91.º — Gestão de crises no setor da aviação
+    - Altera Artigo 95.º — Pessoal
+    - Altera Artigo 98.º — Competências do Conselho de Administração
+    - Altera Artigo 120.º — Orçamento
+    - Altera Artigo 121.º — Execução e controlo orçamental
+    - Altera Artigo 122.º — Luta contra a fraude
+    - Altera Artigo 123.º — Regras de segurança em matéria de proteção das informações classificadas e das informações sensíveis
+      não classificadas
+    - Altera Artigo 134.º — Alterações do Regulamento (CE) n.º 1008/2008
+    - Altera Artigo 135.º — Alterações do Regulamento (UE) n.º 996/2010
+    - Altera Artigo 136.º — Alterações do Regulamento (UE) n.º 376/2014
+    - Altera Artigo 137.º — Alteração da Diretiva 2014/30/UE
+    - Altera Artigo 138.º — Alteração da Diretiva 2014/53/UE
+    - Altera Artigo 140.º — Disposições transitórias
+    - Altera 5. PRESTADORES DE SERVIÇOS E ORGANIZAÇÕES DE FORMAÇÃO
+    - Altera Notas
 identifiers:
   celex: 32018R1139
   eli: http://data.europa.eu/eli/reg/2018/1139/oj
@@ -52,7 +164,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/71e4e668-a5cf-11e8-99ee-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/278bbb76-9078-11f1-9262-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1139-20260802
-  retrieved_at: '2026-10-22T02:37:47Z'
+  retrieved_at: '2026-10-22T17:06:03Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T19:58:17.317+01:00'
 integrity:
@@ -61,9 +173,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:37:47Z'
-  notes: Texto consolidado 02018R1139-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:03Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2018-1139.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -510,37 +622,20 @@ relationships:
   date: '2008-03-19'
 article_structure:
   article_count: 141
-  section_count: 89
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 90
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:37:47Z'
-  warnings: []
+  checked_at: '2026-10-22T17:06:03Z'
+  warnings:
+  - '02018R1139-20180822: versão indisponível (Sem expressão na língua por para CELEX 02018R1139-20180822.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/1139 do Parlamento Europeu e do Conselho, de 4 de julho de 2018
-
-> 02018R1139 — PT — 02.08.2026 — 004.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32021R1087) — [REGULAMENTO DELEGADO (UE) 2021/1087 DA COMISSÃO de 7 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1087) — L 236 — 1 — 5.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-- [►M3](http://publications.europa.eu/resource/celex/32024R2803) — [REGULAMENTO (UE) 2024/2803 DO PARLAMENTO EUROPEU E DO CONSELHO de 23 de outubro de 2024](http://publications.europa.eu/resource/celex/32024R2803) — L 2803 — 1 — 11.11.2024
-- [►M4](http://publications.europa.eu/resource/celex/32025R0870) — [REGULAMENTO DELEGADO (UE) 2025/870 DA COMISSÃO de 28 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0870) — L 870 — 1 — 5.5.2025
-- [►M5](http://publications.europa.eu/resource/celex/32026R1744) — [REGULAMENTO (UE) 2026/1744 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1744) — L 1744 — 1 — 24.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R1139R%2812%29) — [Rectificação, JO L 116, 4.5.2023, p. 30 ((UE) 2018/1139)](http://publications.europa.eu/resource/celex/32018R1139R%2812%29)
-
-## REGULAMENTO (UE) 2018/1139 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 4 de julho de 2018
 

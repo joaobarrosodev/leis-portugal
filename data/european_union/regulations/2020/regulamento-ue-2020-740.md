@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-06-05'
+version_history:
+  file: regulamento-ue-2020-740.versoes.json
+  count: 1
+  source_lastmod: '2020-06-05'
+  versions:
+  - date: '2020-06-05'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32020R0740
   eli: http://data.europa.eu/eli/reg/2020/740/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/c4298078-a6ef-11ea-bb7a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d5de478b-dbd6-11ea-adf7-01aa75ed71a1.0004.02/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R0740-20200605
-  retrieved_at: '2026-10-22T03:19:29Z'
+  retrieved_at: '2026-10-22T17:11:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-09-03T10:09:24.403+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:29Z'
-  notes: Texto consolidado 02020R0740-20200605.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:11:28Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2020-740.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -205,31 +214,19 @@ relationships:
   date: '2009-12-22'
 article_structure:
   article_count: 18
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:29Z'
+  checked_at: '2026-10-22T17:11:28Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2020/740 do Parlamento Europeu e do Conselho, de 25 de maio de 2020
-
-> 02020R0740 — PT — 05.06.2020 — 000.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32020R0740R%2802%29) — [Rectificação, JO L 065, 25.2.2021, p. 61 (2020/740)](http://publications.europa.eu/resource/celex/32020R0740R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020R0740R%2803%29) — [Rectificação, JO L 147, 30.4.2021, p. 23 (2020/740)](http://publications.europa.eu/resource/celex/32020R0740R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32020R0740R%2804%29) — [Rectificação, JO L 382, 28.10.2021, p. 52 (2020/740)](http://publications.europa.eu/resource/celex/32020R0740R%2804%29)
-
-## REGULAMENTO (UE) 2020/740 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 25 de maio de 2020
 

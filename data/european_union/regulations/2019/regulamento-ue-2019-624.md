@@ -37,6 +37,53 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-04-27'
+version_history:
+  file: regulamento-ue-2019-624.versoes.json
+  count: 3
+  source_lastmod: '2025-04-27'
+  versions:
+  - date: '2021-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-12-08'
+    amending: eu:celex:32022R2258:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2258 DA COMISSÃO de 9 de setembro de 2022
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Critérios e condições que determinam os casos em que as inspeções ante mortem em certos matadouros
+      podem ser efetuadas por um auxiliar oficial
+    - Altera Artigo 4.º — Critérios e condições que determinam os casos em que as inspeções ante mortem podem ser efetuadas
+      fora do matadouro em caso de abate de emergência
+    - Altera Artigo 5.º — Critérios e condições gerais que determinam os casos em que as inspeções ante mortem podem ser efetuadas
+      na exploração de proveniência
+    - Altera Artigo 6.º — Critérios e condições específicos que determinam os casos em que as inspeções ante mortem podem
+      ser efetuadas na exploração de proveniência
+    - Altera VETERINÁRIOS OFICIAIS
+    - Altera Notas
+    - Adita Artigo 11.º — Controlos oficiais de Pectinidae, gastrópodes marinhos e equinodermes, que não se alimentam por
+      filtração, apanhados em zonas de produção não classificadas em conformidade com o artigo 18.º, n.º 6, do Regulamento
+      (UE) 2017/625
+    - Suprime Artigo 11.º — Controlos oficiais de Pectinidae e de gastrópodes marinhos e Holothuroidea, que não se alimentam
+      por filtração, apanhados em zonas de produção não classificadas em conformidade com o artigo 18.º, n.º 6, do Regulamento
+      (UE) 2017/625
+  - date: '2025-04-27'
+    amending: eu:celex:32025R0687:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/687 DA COMISSÃO de 30 de janeiro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Critérios e condições que determinam os casos em que as inspeções ante mortem em certos matadouros
+      podem ser efetuadas por um auxiliar oficial
+    - Altera Artigo 4.º — Critérios e condições que determinam os casos em que as inspeções ante mortem podem ser efetuadas
+      fora do matadouro em caso de abate de emergência
+    - Altera Artigo 5.º — Critérios e condições gerais que determinam os casos em que as inspeções ante mortem podem ser efetuadas
+      na exploração de proveniência
+    - Altera Artigo 6.º — Critérios e condições específicos que determinam os casos em que as inspeções ante mortem podem
+      ser efetuadas na exploração de proveniência
+    - Altera Artigo 8.º — Realização de inspeções post mortem pelo veterinário oficial
+    - Altera VETERINÁRIOS OFICIAIS
+    - Altera Notas
 identifiers:
   celex: 32019R0624
   eli: http://data.europa.eu/eli/reg_del/2019/624/oj
@@ -51,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e35c63e8-786a-11e9-9f05-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/6e93b19d-35de-11f0-8a44-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0624-20250427
-  retrieved_at: '2026-10-22T03:01:10Z'
+  retrieved_at: '2026-10-22T17:07:59Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T13:38:37.057+01:00'
 integrity:
@@ -60,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:10Z'
-  notes: Texto consolidado 02019R0624-20250427.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:59Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-624.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -174,31 +221,20 @@ relationships:
   date: '2023-04-27'
 article_structure:
   article_count: 15
-  section_count: 10
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 11
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:10Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:59Z'
+  warnings:
+  - '02019R0624-20190517: versão indisponível (Sem expressão na língua por para CELEX 02019R0624-20190517.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2019/624 da Comissão, de 8 de fevereiro de 2019
-
-> 02019R0624 — PT — 27.04.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32021R1422) — [REGULAMENTO DELEGADO (UE) 2021/1422 DA COMISSÃO de 26 de abril de 2021](http://publications.europa.eu/resource/celex/32021R1422) — L 307 — 1 — 1.9.2021
-- [►M2](http://publications.europa.eu/resource/celex/32022R2258) — [REGULAMENTO DELEGADO (UE) 2022/2258 DA COMISSÃO de 9 de setembro de 2022](http://publications.europa.eu/resource/celex/32022R2258) — L 299 — 5 — 18.11.2022
-- [►M3](http://publications.europa.eu/resource/celex/32025R0687) — [REGULAMENTO DELEGADO (UE) 2025/687 DA COMISSÃO de 30 de janeiro de 2025](http://publications.europa.eu/resource/celex/32025R0687) — L 687 — 1 — 7.4.2025
-
-## REGULAMENTO DELEGADO (UE) 2019/624 DA COMISSÃO
 
 de 8 de fevereiro de 2019
 

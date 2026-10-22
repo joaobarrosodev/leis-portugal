@@ -38,6 +38,40 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-12'
+version_history:
+  file: regulamento-ue-2019-1020.versoes.json
+  count: 3
+  source_lastmod: '2026-08-12'
+  versions:
+  - date: '2024-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-05-23'
+    amending: eu:celex:32024R1252:por
+    amending_title: REGULAMENTO (UE) 2024/1252 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Atribuições dos operadores económicos no que respeita aos produtos sujeitos a determinada legislação
+      de harmonização da União
+    - Altera Artigo 36.º — Atividades de financiamento
+    - Altera Artigo 37.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 38.º — Alteração da Diretiva 2004/42/CE
+    - Altera Lista da legislação de harmonização da União
+    - Altera Notas
+  - date: '2026-08-12'
+    amending: eu:celex:32025R0040:por
+    amending_title: REGULAMENTO (UE) 2025/40 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Atribuições dos operadores económicos no que respeita aos produtos sujeitos a determinada legislação
+      de harmonização da União
+    - Altera Artigo 36.º — Atividades de financiamento
+    - Altera Artigo 37.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 38.º — Alteração da Diretiva 2004/42/CE
+    - Altera Lista da legislação de harmonização da União
+    - Altera Lista da legislação de harmonização da União sem disposições relativas às sanções
+    - Altera Notas
 identifiers:
   celex: 32019R1020
   eli: http://data.europa.eu/eli/reg/2019/1020/oj
@@ -52,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/903d90ee-9712-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ba447ab3-69ab-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1020-20260812
-  retrieved_at: '2026-10-22T02:38:25Z'
+  retrieved_at: '2026-10-22T17:09:02Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T04:45:52.822+01:00'
 integrity:
@@ -61,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:25Z'
-  notes: Texto consolidado 02019R1020-20260812.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:02Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-1020.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -460,35 +494,20 @@ relationships:
   date: '2024-12-18'
 article_structure:
   article_count: 44
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:25Z'
-  warnings: []
+  checked_at: '2026-10-22T17:09:02Z'
+  warnings:
+  - '02019R1020-20190625: versão indisponível (Sem expressão na língua por para CELEX 02019R1020-20190625.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/1020 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019R1020 — PT — 12.08.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R1542) — [REGULAMENTO (UE) 2023/1542 DO PARLAMENTO EUROPEU E DO CONSELHO de 12 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1542) — L 191 — 1 — 28.7.2023
-- [►M2](http://publications.europa.eu/resource/celex/32024R1252) — [REGULAMENTO (UE) 2024/1252 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1252) — L 1252 — 1 — 3.5.2024
-- [►M3](http://publications.europa.eu/resource/celex/32025R0040) — [REGULAMENTO (UE) 2025/40 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0040) — L 40 — 1 — 22.1.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1252R%2802%29) — [Rectificação, JO L 90589, 1.10.2024, p. 1 (2024/1252)](http://publications.europa.eu/resource/celex/32024R1252R%2802%29)
-
-## REGULAMENTO (UE) 2019/1020 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

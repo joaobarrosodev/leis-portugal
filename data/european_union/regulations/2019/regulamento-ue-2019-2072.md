@@ -38,6 +38,609 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-10-15'
+version_history:
+  file: regulamento-ue-2019-2072.versoes.json
+  count: 25
+  source_lastmod: '2026-10-15'
+  versions:
+  - date: '2019-12-10'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-08-16'
+    amending: eu:celex:32020R1199:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1199 DA COMISSÃO de 13 de agosto de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 18.º — Entrada em vigor e aplicação
+    - Adita ANEXO I
+    - Adita Definições tal como referidas no artigo 2.º, n.º 1
+    - Adita PARTE A
+    - Adita Lista de termos
+    - Adita PARTE B
+    - Adita Lista de diretivas e anexos
+    - Adita ANEXO II
+    - Adita PRAGAS CUJA OCORRÊNCIA NO TERRITÓRIO DA UNIÃO NÃO É CONHECIDA
+    - Adita PRAGAS CUJA OCORRÊNCIA NO TERRITÓRIO DA UNIÃO É CONHECIDA
+    - Adita ANEXO III
+    - Adita Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Adita ANEXO IV
+    - Adita Lista de pragas regulamentadas não sujeitas a quarentena (RNQP) da União e vegetais específicos para plantação,
+      com categorias e limiares, tal como referido no artigo 5.º
+    - Adita RNQP relativas a sementes de espécies forrageiras
+    - Adita RNQP relativas a sementes de cereais
+    - Adita PARTE C
+    - Adita RNQP relativas a material de propagação da videira
+    - Adita PARTE D
+    - Adita RNQP relativas a material de propagação de plantas ornamentais e a outros vegetais para plantação destinados a
+      fins ornamentais
+    - Adita PARTE E
+    - Adita RNQP relativas a material florestal de reprodução, com exceção de sementes
+    - Adita PARTE F
+    - Adita RNQP relativas a sementes de espécies hortícolas
+    - Adita PARTE G
+    - Adita RNQP relativas a batata-semente
+    - Adita PARTE H
+    - Adita RNQP relativas a sementes de espécies oleaginosas e fibrosas
+    - Adita PARTE I
+    - Adita RNQP relativas a material de propagação e de plantação de espécies hortícolas, com exceção de sementes
+    - Adita PARTE J
+    - Adita RNQP relativas a material de propagação de fruteiras e de fruteiras destinadas à produção de frutos
+    - Adita PARTE K
+    - Adita RNQP relativas às sementes de Solanum tuberosum L.
+    - Adita PARTE L
+    - Adita RNQP relativas a vegetais destinados à plantação de Humulus lupulus, com exceção de sementes
+    - Adita ANEXO V
+    - Adita Medidas para impedir a presença de RNQP em vegetais específicos para plantação
+    - Adita Medidas para impedir a presença de RNQP em sementes de espécies forrageiras
+  - date: '2020-10-06'
+    amending: eu:celex:32020R1292:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1292 DA COMISSÃO de 15 de setembro de 2020
+    changes:
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+  - date: '2020-12-23'
+    amending: eu:celex:32020R1825:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1825 DA COMISSÃO de 2 de dezembro de 2020
+    changes:
+    - Altera Artigo 7.º — Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados
+      países terceiros é proibida
+    - Altera Artigo 8.º — Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros ou do território
+      da União e requisitos especiais correspondentes para a sua introdução ou circulação no território da União
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies forrageiras
+    - Altera Medidas relativas a sementes de cereais
+    - Altera Medidas para impedir a presença de RNQP em material florestal de reprodução, com exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies oleaginosas e fibrosas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Suprime 1. Inspeção à cultura
+    - Suprime 2. Amostragem e testagem de sementes de espécies forrageiras
+    - Suprime 3. Medidas adicionais para determinadas espécies
+    - Suprime 2. Amostragem e testagem de sementes de cereais
+    - Suprime 3. Medidas adicionais para sementes de Oryza sativa L.
+    - Suprime 1. Inspeções visuais
+    - Suprime 2. Requisitos por género ou espécie e categoria
+    - Suprime 2. Amostragem e testagem de sementes de espécies oleaginosas e fibrosas
+    - Suprime 3. Medidas adicionais para as sementes de espécies oleaginosas e fibrosas
+  - date: '2021-01-01'
+    amending: eu:celex:32020R2210:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/2210 DA COMISSÃO de 22 de dezembro de 2020; REGULAMENTO DE EXECUÇÃO
+      (UE) 2020/2211 DA COMISSÃO de 22 de dezembro de 2020
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Adita Notas
+  - date: '2021-05-13'
+    amending: eu:celex:32021R0759:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/759 DA COMISSÃO de 7 de maio de 2021
+    changes:
+    - Altera Artigo 13.º — Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União
+      é exigido um passaporte fitossanitário
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2021-06-24'
+    amending: eu:celex:32021R0901:por
+    amending_title: M7
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2021-12-16'
+    amending: eu:celex:32021R2069:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2069 DA COMISSÃO de 25 de novembro de 2021
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2022-04-11'
+    amending: eu:celex:32021R2285:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/2285 DA COMISSÃO de 14 de dezembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Lista de diretivas e anexos
+    - Altera ANEXO II
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de pragas regulamentadas não sujeitas a quarentena (RNQP) da União e vegetais específicos para plantação,
+      com categorias e limiares, tal como referido no artigo 5.º
+    - Altera RNQP relativas a material de propagação de plantas ornamentais e a outros vegetais para plantação destinados
+      a fins ornamentais
+    - Altera RNQP relativas a material florestal de reprodução, com exceção de sementes
+    - Altera RNQP relativas a sementes de espécies hortícolas
+    - Altera RNQP relativas a material de propagação de fruteiras e de fruteiras destinadas à produção de frutos
+    - Altera RNQP relativas a vegetais destinados à plantação de Humulus lupulus, com exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em vegetais específicos para plantação
+    - Altera Medidas para impedir a presença de RNQP em material de propagação de plantas ornamentais e outros vegetais para
+      plantação destinados a fins ornamentais
+    - Altera Medidas para impedir a presença de RNQP em material florestal de reprodução, com exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies hortícolas
+    - Altera Medidas para impedir a presença de RNQP em batata-semente
+    - Altera Medidas para impedir a presença de RNQP em vegetais para plantação de Humulus lupulus L., com exceção de sementes
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas
+      protegidas é exigido um passaporte fitossanitário com a menção «PZ»
+    - Altera Notas
+    - Adita Lista de pragas de quarentena da União e respetivos códigos atribuídos pela OEPP
+    - Adita PARTE M
+    - Adita RNQP relativas a material de propagação de fruteiras e a fruteiras destinadas à produção de frutos de Actinidia
+      Lindl., com exceção de sementes
+    - Adita Medidas para impedir a presença de RNQP em material de propagação de fruteiras e em fruteiras destinadas à produção
+      de frutos de Actinidia Lindl., com exceção de sementes
+    - Adita Lista dos vegetais, bem como dos respetivos países terceiros de origem ou de expedição, para os quais, nos termos
+      do artigo 73.º do Regulamento (UE) 2016/2031, são exigidos certificados fitossanitários para a sua introdução no território
+      da União
+    - Suprime PRAGAS CUJA OCORRÊNCIA NO TERRITÓRIO DA UNIÃO NÃO É CONHECIDA
+    - Suprime PRAGAS CUJA OCORRÊNCIA NO TERRITÓRIO DA UNIÃO É CONHECIDA
+    - Suprime Lista dos códigos NC dos vegetais, bem como dos respetivos países terceiros de origem ou de expedição, para
+      os quais, nos termos do n.º 73 do Regulamento (UE) 2016/2031, são exigidos certificados fitossanitários para a sua introdução
+      no território da União
+  - date: '2022-07-14'
+    amending: eu:celex:32022R0853:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/853 DA COMISSÃO de 31 de maio de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/959 DA COMISSÃO de 16 de junho de 2022
+    changes:
+    - Altera Artigo 6.º — Medidas para impedir a presença de RNQP em vegetais específicos para plantação
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies forrageiras
+    - Altera Medidas para impedir a presença de RNQP em material de propagação de plantas ornamentais e outros vegetais para
+      plantação destinados a fins ornamentais
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies hortícolas
+    - Altera Medidas para impedir a presença de RNQP em batata-semente
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies oleaginosas e fibrosas
+    - Altera Medidas para impedir a presença de RNQP em material de propagação e de plantação de espécies hortícolas, com
+      exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em vegetais para plantação de Humulus lupulus L., com exceção de sementes
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2023-01-11'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2023-06-12'
+    amending: eu:celex:32023R1134:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1134 DA COMISSÃO de 8 de junho de 2023
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2023-08-09'
+    amending: eu:celex:32023R1492:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1492 DA COMISSÃO de 19 de julho de 2023
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas
+      protegidas é exigido um passaporte fitossanitário com a menção «PZ»
+    - Altera Notas
+  - date: '2023-10-09'
+    amending: eu:celex:32023R1787:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1787 DA COMISSÃO de 14 de setembro de 2023
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas
+      protegidas é exigido um passaporte fitossanitário com a menção «PZ»
+    - Altera Notas
+  - date: '2024-08-15'
+    amending: eu:celex:32024R2004:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2004 DA COMISSÃO de 23 de julho de 2024
+    changes:
+    - Altera Lista de termos
+    - Altera Lista de diretivas e anexos
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de pragas regulamentadas não sujeitas a quarentena (RNQP) da União e vegetais específicos para plantação,
+      com categorias e limiares, tal como referido no artigo 5.º
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Notas
+    - Adita RNQP relativas a material de propagação de fruteiras e a fruteiras destinadas à produção de frutos
+    - Suprime RNQP relativas a material de propagação de fruteiras e de fruteiras destinadas à produção de frutos
+  - date: '2025-01-26'
+    amending: eu:celex:32024R2970:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2970 DA COMISSÃO de 29 de novembro de 2024
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera RNQP relativas a sementes de espécies hortícolas
+    - Altera RNQP relativas a sementes de espécies oleaginosas e fibrosas
+    - Altera RNQP relativas a material de propagação e de plantação de espécies hortícolas, com exceção de sementes
+    - Altera RNQP relativas a material de propagação de fruteiras e a fruteiras destinadas à produção de frutos
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies hortícolas
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies oleaginosas e fibrosas
+    - Altera Medidas para impedir a presença de RNQP em material de propagação e de plantação de espécies hortícolas, com
+      exceção de sementes
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Notas
+  - date: '2025-02-27'
+    amending: eu:celex:32025R0217:por
+    amending_title: M17
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2025-04-26'
+    amending: eu:celex:32025R0659:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/659 DA COMISSÃO de 3 de abril de 2025
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2025-07-23'
+    amending: eu:celex:32025R1078:por
+    amending_title: M19; REGULAMENTO DE EXECUÇÃO (UE) 2025/1082 DA COMISSÃO de 2 de junho de 2025; REGULAMENTO DE EXECUÇÃO
+      (UE) 2025/1289 DA COMISSÃO de 2 de julho de 2025
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2025-12-01'
+    amending: eu:celex:32025R2294:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2294 DA COMISSÃO de 10 de novembro de 2025
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2026-01-05'
+    amending: eu:celex:32025R1953:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1953 DA COMISSÃO de 29 de setembro de 2025; REGULAMENTO DE EXECUÇÃO
+      (UE) 2025/2521 DA COMISSÃO de 15 de dezembro de 2025
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Notas
+  - date: '2026-04-23'
+    amending: eu:celex:32025R1316:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1316 DA COMISSÃO de 2 de julho de 2025; REGULAMENTO DE EXECUÇÃO (UE)
+      2026/292 DA COMISSÃO de 9 de fevereiro de 2026
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista dos vegetais, bem como dos respetivos países terceiros de origem ou de expedição, para os quais, nos termos
+      do artigo 73.º do Regulamento (UE) 2016/2031, são exigidos certificados fitossanitários para a sua introdução no território
+      da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Notas
+  - date: '2026-05-05'
+    amending: eu:celex:32026R0826:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/826 DA COMISSÃO de 14 de abril de 2026
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista dos vegetais, bem como dos respetivos países terceiros de origem ou de expedição, para os quais, nos termos
+      do artigo 73.º do Regulamento (UE) 2016/2031, são exigidos certificados fitossanitários para a sua introdução no território
+      da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas
+      protegidas é exigido um passaporte fitossanitário com a menção «PZ»
+    - Altera Notas
+  - date: '2026-07-06'
+    amending: eu:celex:32025R2249:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2249 DA COMISSÃO de 10 de novembro de 2025; REGULAMENTO DE EXECUÇÃO
+      (UE) 2026/1110 DA COMISSÃO de 22 de maio de 2026
+    changes:
+    - Altera Artigo 6.º — Medidas para impedir a presença de RNQP em vegetais específicos para plantação
+    - Altera Artigo 13.º — Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União
+      é exigido um passaporte fitossanitário
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera RNQP relativas a sementes de espécies forrageiras
+    - Altera RNQP relativas a sementes de cereais
+    - Altera RNQP relativas a material de propagação de plantas ornamentais e a outros vegetais para plantação destinados
+      a fins ornamentais
+    - Altera RNQP relativas a sementes de espécies hortícolas
+    - Altera RNQP relativas a sementes de espécies oleaginosas e fibrosas
+    - Altera RNQP relativas a material de propagação e de plantação de espécies hortícolas, com exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em vegetais específicos para plantação
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies forrageiras
+    - Altera Medidas para impedir a presença de RNQP em material de propagação de plantas ornamentais e outros vegetais para
+      plantação destinados a fins ornamentais
+    - Altera Medidas para impedir a presença de RNQP em material florestal de reprodução, com exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies hortícolas
+    - Altera Medidas para impedir a presença de RNQP em batata-semente
+    - Altera Medidas para impedir a presença de RNQP em sementes de espécies oleaginosas e fibrosas
+    - Altera Medidas para impedir a presença de RNQP em material de propagação e de plantação de espécies hortícolas, com
+      exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em sementes de Solanum tuberosum L.
+    - Altera Medidas para impedir a presença de RNQP em vegetais para plantação de Humulus lupulus L., com exceção de sementes
+    - Altera Medidas para impedir a presença de RNQP em material de propagação de fruteiras e em fruteiras destinadas à produção
+      de frutos de Actinidia Lindl., com exceção de sementes
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução em determinadas zonas protegidas é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista dos vegetais, bem como dos respetivos países terceiros de origem ou de expedição, para os quais, nos termos
+      do artigo 73.º do Regulamento (UE) 2016/2031, são exigidos certificados fitossanitários para a sua introdução no território
+      da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução e circulação em determinadas zonas
+      protegidas é exigido um passaporte fitossanitário com a menção «PZ»
+    - Altera Notas
+    - Adita Artigo 6.º-A — Isenções dos requisitos aplicáveis às RNQP para sementes específicas
+    - Adita Secção 1. Inspeção à cultura
+    - Adita Secção 2. Amostragem e testagem de sementes de espécies forrageiras
+    - Adita Secção 3. Medidas adicionais para determinadas espécies
+    - Adita Medidas para impedir a presença de RNQP em sementes de cereais
+    - Adita Secção 2. Amostragem e testagem de sementes de cereais
+    - Adita Secção 3. Medidas adicionais para sementes de Oryza sativa L.
+    - Adita Secção 2. Amostragem e testagem de sementes de espécies oleaginosas e fibrosas
+    - Adita Secção 3. Medidas adicionais para as sementes de espécies oleaginosas e fibrosas
+  - date: '2026-10-15'
+    amending: eu:celex:32026R1376:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1376 DA COMISSÃO de 23 de junho de 2026; REGULAMENTO DE EXECUÇÃO (UE)
+      2026/1433 DA COMISSÃO de 3 de julho de 2026
+    changes:
+    - Altera Lista de zonas protegidas e respetivas pragas de quarentena de zonas protegidas e respetivos códigos
+    - Altera Medidas para impedir a presença de RNQP em batata-semente
+    - Altera Lista de vegetais, produtos vegetais e outros objetos cuja introdução na União a partir de determinados países
+      terceiros é proibida
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários de países terceiros e requisitos especiais
+      correspondentes para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos originários do território da União e requisitos especiais
+      correspondentes para a sua circulação no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para introdução ou circulação em zonas protegidas e requisitos
+      especiais correspondentes para as zonas protegidas
+    - Altera Lista de vegetais, produtos vegetais e outros objetos, bem como dos respetivos países terceiros de origem ou
+      de expedição, para os quais, nos termos do artigo 72.º, n.º 1, do Regulamento (UE) 2016/2031, são exigidos certificados
+      fitossanitários para a sua introdução no território da União
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja introdução numa zona protegida a partir de determinados
+      países terceiros de origem ou de expedição é exigido um certificado fitossanitário
+    - Altera Lista de vegetais, produtos vegetais e outros objetos para cuja circulação no território da União é exigido um
+      passaporte fitossanitário
+    - Altera Notas
 identifiers:
   celex: 32019R2072
   eli: http://data.europa.eu/eli/reg_impl/2019/2072/oj
@@ -52,7 +655,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d9915ad5-1b1b-11ea-8c1f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/7c3a0700-95b6-11f1-9262-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R2072-20261015
-  retrieved_at: '2026-10-22T02:53:46Z'
+  retrieved_at: '2026-10-22T17:12:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T20:23:17.318+01:00'
 integrity:
@@ -61,9 +664,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:46Z'
-  notes: Texto consolidado 02019R2072-20261015.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:12:58Z'
+  notes: 25 versão(ões); histórico completo em regulamento-ue-2019-2072.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -420,64 +1023,19 @@ relationships:
   date: '2008-07-22'
 article_structure:
   article_count: 19
-  section_count: 99
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 100
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:46Z'
+  checked_at: '2026-10-22T17:12:58Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2019/2072 da Comissão, de 28 de novembro de 2019
-
-> 02019R2072 — PT — 15.10.2026 — 024.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1199) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1199 DA COMISSÃO de 13 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1199) — L 267 — 3 — 14.8.2020
-- [M2](http://publications.europa.eu/resource/celex/32020R1292) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1292 DA COMISSÃO de 15 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1292) — L 302 — 20 — 16.9.2020
-- [►M3](http://publications.europa.eu/resource/celex/32020R1825) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1825 DA COMISSÃO de 2 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R1825) — L 406 — 58 — 3.12.2020
-- [►M4](http://publications.europa.eu/resource/celex/32020R2210) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2210 DA COMISSÃO de 22 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2210) — L 438 — 28 — 28.12.2020
-- [M5](http://publications.europa.eu/resource/celex/32020R2211) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2211 DA COMISSÃO de 22 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2211) — L 438 — 41 — 28.12.2020
-- [►M6](http://publications.europa.eu/resource/celex/32021R0759) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/759 DA COMISSÃO de 7 de maio de 2021](http://publications.europa.eu/resource/celex/32021R0759) — L 162 — 18 — 10.5.2021
-- [M7](http://publications.europa.eu/resource/celex/32021R0901) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/901 DA COMISSÃO de 3 de junho de 2021](http://publications.europa.eu/resource/celex/32021R0901) — L 197 — 75 — 4.6.2021
-- [►M8](http://publications.europa.eu/resource/celex/32021R2069) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2069 DA COMISSÃO de 25 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R2069) — L 421 — 28 — 26.11.2021
-- [►M9](http://publications.europa.eu/resource/celex/32021R2285) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/2285 DA COMISSÃO de 14 de dezembro de 2021](http://publications.europa.eu/resource/celex/32021R2285) — L 458 — 173 — 22.12.2021
-- [►M10](http://publications.europa.eu/resource/celex/32022R0853) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/853 DA COMISSÃO de 31 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0853) — L 150 — 62 — 1.6.2022
-- [►M11](http://publications.europa.eu/resource/celex/32022R0959) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/959 DA COMISSÃO de 16 de junho de 2022](http://publications.europa.eu/resource/celex/32022R0959) — L 165 — 30 — 21.6.2022
-- [►M12](http://publications.europa.eu/resource/celex/32023R1134) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1134 DA COMISSÃO de 8 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1134) — L 149 — 62 — 9.6.2023
-- [M13](http://publications.europa.eu/resource/celex/32023R1492) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1492 DA COMISSÃO de 19 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1492) — L 183 — 42 — 20.7.2023
-- [►M14](http://publications.europa.eu/resource/celex/32023R1787) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1787 DA COMISSÃO de 14 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1787) — L 230 — 1 — 19.9.2023
-- [►M15](http://publications.europa.eu/resource/celex/32024R2004) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2004 DA COMISSÃO de 23 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2004) — L 2004 — 1 — 26.7.2024
-- [►M16](http://publications.europa.eu/resource/celex/32024R2970) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2970 DA COMISSÃO de 29 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2970) — L 2970 — 1 — 2.12.2024
-- [M17](http://publications.europa.eu/resource/celex/32025R0217) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/217 DA COMISSÃO de 6 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0217) — L 217 — 1 — 7.2.2025
-- [►M18](http://publications.europa.eu/resource/celex/32025R0659) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/659 DA COMISSÃO de 3 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0659) — L 659 — 1 — 4.4.2025
-- [M19](http://publications.europa.eu/resource/celex/32025R1078) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1078 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1078) — L 1078 — 1 — 3.6.2025
-- [M20](http://publications.europa.eu/resource/celex/32025R1082) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1082 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1082) — L 1082 — 1 — 3.6.2025
-- [►M21](http://publications.europa.eu/resource/celex/32025R1289) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1289 DA COMISSÃO de 2 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1289) — L 1289 — 1 — 3.7.2025
-- [►M22](http://publications.europa.eu/resource/celex/32025R1316) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1316 DA COMISSÃO de 2 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1316) — L 1316 — 1 — 3.7.2025
-- [►M23](http://publications.europa.eu/resource/celex/32025R2249) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2249 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2249) — L 2249 — 1 — 11.11.2025
-- [►M24](http://publications.europa.eu/resource/celex/32025R2294) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2294 DA COMISSÃO de 10 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2294) — L 2294 — 1 — 11.11.2025
-- [►M25](http://publications.europa.eu/resource/celex/32025R1953) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1953 DA COMISSÃO de 29 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1953) — L 1953 — 1 — 3.12.2025
-- [►M26](http://publications.europa.eu/resource/celex/32025R2521) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2521 DA COMISSÃO de 15 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2521) — L 2521 — 1 — 16.12.2025
-- [M27](http://publications.europa.eu/resource/celex/32026R0292) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/292 DA COMISSÃO de 9 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0292) — L 292 — 1 — 10.2.2026
-- [►M28](http://publications.europa.eu/resource/celex/32026R0826) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/826 DA COMISSÃO de 14 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0826) — L 826 — 1 — 15.4.2026
-- [►M29](http://publications.europa.eu/resource/celex/32026R1110) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1110 DA COMISSÃO de 22 de maio de 2026](http://publications.europa.eu/resource/celex/32026R1110) — L 1110 — 1 — 26.5.2026
-- [►M30](http://publications.europa.eu/resource/celex/32026R1376) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1376 DA COMISSÃO de 23 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1376) — L 1376 — 1 — 24.6.2026
-- [►M31](http://publications.europa.eu/resource/celex/32026R1433) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1433 DA COMISSÃO de 3 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1433) — L 1433 — 1 — 6.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R2072R%2808%29) — [Rectificação, JO L 227, 1.9.2022, p. 137 (2019/2072)](http://publications.europa.eu/resource/celex/32019R2072R%2808%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R2072R%2810%29) — [Rectificação, JO L 90556, 13.9.2024, p. 1 ((UE) 2019/2072)](http://publications.europa.eu/resource/celex/32019R2072R%2810%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2019/2072 DA COMISSÃO
 
 de 28 de novembro de 2019
 

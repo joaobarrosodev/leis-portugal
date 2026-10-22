@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-07-28'
+version_history:
+  file: regulamento-ue-2023-1543.versoes.json
+  count: 1
+  source_lastmod: '2023-07-28'
+  versions:
+  - date: '2023-07-28'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32023R1543
   eli: http://data.europa.eu/eli/reg/2023/1543/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1b9e472a-2ce3-11ee-95a2-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/357ff89f-fea6-11ef-9503-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R1543-20230728
-  retrieved_at: '2026-10-22T03:20:26Z'
+  retrieved_at: '2026-10-22T17:16:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-28T22:43:30.802+01:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:26Z'
-  notes: Texto consolidado 02023R1543-20230728.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:39Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2023-1543.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -263,29 +272,19 @@ relationships:
   date: '2026-07-13'
 article_structure:
   article_count: 34
-  section_count: 28
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 29
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:26Z'
+  checked_at: '2026-10-22T17:16:39Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2023/1543 do Parlamento Europeu e do Conselho, de 12 de julho de 2023
-
-> 02023R1543 — PT — 28.07.2023 — 000.002
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R1543R%2802%29) — [Rectificação, JO L 90580, 13.7.2026, p. 1 (2023/1543)](http://publications.europa.eu/resource/celex/32023R1543R%2802%29)
-
-## REGULAMENTO (UE) 2023/1543 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de julho de 2023
 

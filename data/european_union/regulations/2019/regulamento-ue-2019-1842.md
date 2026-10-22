@@ -36,6 +36,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2019-1842.versoes.json
+  count: 3
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2019-11-04'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-06-19'
+    amending: eu:celex:32022R0827:por
+    amending_title: M1
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de comunicação de informações
+    - Altera Artigo 6.º — Outras alterações do funcionamento de instalações
+    - Altera Artigo 7.º — Entrada em vigor e aplicação
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R0772:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/772 DA COMISSÃO de 16 de abril de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de comunicação de informações
+    - Altera Artigo 5.º — Ajustamentos na atribuição de licenças de emissão a título gratuito devido a alterações do nível
+      de atividade
+    - Altera Artigo 6.º — Outras alterações do funcionamento de instalações
+    - Altera Notas
+    - Adita Artigo 3.º-A — Recuperação de licenças de emissão objeto de redução em conformidade com o artigo 22.º-A do Regulamento
+      Delegado (UE) 2019/331
+    - Adita Artigo 3.º-B — Relatório sobre a neutralidade climática
+    - Adita Artigo 3.º-C — Atribuição de licenças de emissão objeto de redução em conformidade com o artigo 22.º-B, n.º 1,
+      do Regulamento Delegado (UE) 2019/331
+    - Adita Artigo 3.º-D — Conjunto de 30 % de licenças de emissão adicionais para o aquecimento urbano
+    - Adita Artigo 6.º-A — Limiar absoluto para os ajustamentos
+    - Adita Artigo 6.º-B — Comunicação de informações à Comissão
+    - Adita ANEXO I
+    - Adita Cálculo do nível de atividade previsto
+    - Adita ANEXO II
+    - Adita Conteúdo do relatório sobre a neutralidade climática
+    - Adita 1. DADOS GERAIS DA INSTALAÇÃO
+    - Adita 1.1. Identificação da instalação e do operador
+    - Adita 1.2. Informações do verificador
+    - Adita 1.3. Dados pertinentes relativos ao plano de neutralidade climática
+    - Adita 2. INFORMAÇÕES SOBRE OS MARCOS E AS METAS
 identifiers:
   celex: 32019R1842
   eli: http://data.europa.eu/eli/reg_impl/2019/1842/oj
@@ -50,7 +96,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9e6c8cd2-fecf-11e9-8c1f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/cf5a6ab6-c639-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1842-20260101
-  retrieved_at: '2026-10-22T03:01:15Z'
+  retrieved_at: '2026-10-22T17:10:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T04:14:43.915+01:00'
 integrity:
@@ -59,9 +105,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:15Z'
-  notes: Texto consolidado 02019R1842-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:00Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-1842.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -128,30 +174,19 @@ relationships:
   date: '2025-04-14'
 article_structure:
   article_count: 13
-  section_count: 9
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 10
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:15Z'
+  checked_at: '2026-10-22T17:10:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2019/1842 da Comissão de 31 de outubro de 2019
-
-> 02019R1842 — PT — 01.01.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32022R0827) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/827 DA COMISSÃO de 20 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0827) — L 147 — 25 — 30.5.2022
-- [►M2](http://publications.europa.eu/resource/celex/32025R0772) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/772 DA COMISSÃO de 16 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0772) — L 772 — 1 — 22.4.2025
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2019/1842 DA COMISSÃO
 
 de 31 de outubro de 2019
 

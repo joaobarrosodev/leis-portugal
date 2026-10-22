@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-10'
+version_history:
+  file: regulamento-ue-2024-1620.versoes.json
+  count: 1
+  source_lastmod: '2025-11-10'
+  versions:
+  - date: '2025-11-10'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32024R1620
   eli: http://data.europa.eu/eli/reg/2024/1620/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8e78c1d2-2dd4-11ef-a61b-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/b6ab36aa-cff0-11f0-8da2-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024R1620-20251110
-  retrieved_at: '2026-10-22T03:01:48Z'
+  retrieved_at: '2026-10-22T17:17:18Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-07-31T18:29:45.075+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:48Z'
-  notes: Texto consolidado 02024R1620-20251110.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:18Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2024-1620.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -337,29 +346,20 @@ relationships:
   date: '2025-02-05'
 article_structure:
   article_count: 109
-  section_count: 44
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 45
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:48Z'
-  warnings: []
+  checked_at: '2026-10-22T17:17:18Z'
+  warnings:
+  - '02024R1620-20240619: versão indisponível (Sem expressão na língua por para CELEX 02024R1620-20240619.)'
   errors: []
 ---
 
 # Regulamento (UE) 2024/1620 do Parlamento Europeu e do Conselho, de 31 de maio de 2024
-
-> 02024R1620 — PT — 10.11.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R2088) — [REGULAMENTO (UE) 2025/2088 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2088) — L 2088 — 1 — 21.10.2025
-
-## REGULAMENTO (UE) 2024/1620 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 31 de maio de 2024
 

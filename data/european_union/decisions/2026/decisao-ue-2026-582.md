@@ -35,6 +35,52 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-10-01'
+version_history:
+  file: decisao-ue-2026-582.versoes.json
+  count: 6
+  source_lastmod: '2026-10-01'
+  versions:
+  - date: '2026-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-04-01'
+    amending: eu:celex:32026D0782:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/782 DA COMISSÃO de 27 de março de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Adita Artigo 1.º-A
+    - Adita Artigo 1.º-B
+    - Adita ANEXO
+    - Suprime Notas
+  - date: '2026-04-28'
+    amending: eu:celex:32026D0923:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/923 DA COMISSÃO de 24 de abril de 2026
+    changes:
+    - Altera ANEXO
+    - Adita Zonas de proteção e de vigilância estabelecidas em redor dos focos confirmados
+    - Adita Outra zona submetida a restrições
+    - Adita Zona de vacinação
+  - date: '2026-06-10'
+    amending: eu:celex:32026D1277:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1277 DA COMISSÃO de 5 de junho de 2026
+    changes:
+    - Altera Zonas de proteção e de vigilância estabelecidas em redor dos focos confirmados
+    - Altera Outra zona submetida a restrições
+    - Adita Zonas de proteção, zonas de vigilância, outras zonas submetidas a restrições e zonas de vacinação
+  - date: '2026-07-17'
+    amending: eu:celex:32026D1784:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1784 DA COMISSÃO de 16 de julho de 2026
+    changes:
+    - Altera Zonas de proteção e de vigilância estabelecidas em redor dos focos confirmados
+    - Altera Outra zona submetida a restrições
+  - date: '2026-10-01'
+    amending: eu:celex:32026D2216:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/2216 DA COMISSÃO de 28 de setembro de 2026
+    changes:
+    - Altera Zonas de proteção e de vigilância estabelecidas em redor dos focos confirmados
+    - Altera Outra zona submetida a restrições
 identifiers:
   celex: 32026D0582
   eli: http://data.europa.eu/eli/dec_impl/2026/582/oj
@@ -49,7 +95,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1c884b20-1e7f-11f1-8c3a-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/b87d96ed-ccae-11f1-8b4c-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D0582-20261001
-  retrieved_at: '2026-10-22T03:32:19Z'
+  retrieved_at: '2026-10-22T17:18:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-03-13T03:45:18.127+01:00'
 integrity:
@@ -58,9 +104,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:32:19Z'
-  notes: Texto consolidado 02026D0582-20261001.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:18:48Z'
+  notes: 6 versão(ões); histórico completo em decisao-ue-2026-582.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -119,32 +165,18 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 5
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:32:19Z'
+  checked_at: '2026-10-22T17:18:48Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/582 da Comissão, de 11 de março de 2026
-
-> 02026D0582 — PT — 01.10.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026D0782) — [DECISÃO DE EXECUÇÃO (UE) 2026/782 DA COMISSÃO de 27 de março de 2026](http://publications.europa.eu/resource/celex/32026D0782) — L 782 — 1 — 1.4.2026
-- [M2](http://publications.europa.eu/resource/celex/32026D0923) — [DECISÃO DE EXECUÇÃO (UE) 2026/923 DA COMISSÃO de 24 de abril de 2026](http://publications.europa.eu/resource/celex/32026D0923) — L 923 — 1 — 28.4.2026
-- [M3](http://publications.europa.eu/resource/celex/32026D1277) — [DECISÃO DE EXECUÇÃO (UE) 2026/1277 DA COMISSÃO de 5 de junho de 2026](http://publications.europa.eu/resource/celex/32026D1277) — L 1277 — 1 — 10.6.2026
-- [M4](http://publications.europa.eu/resource/celex/32026D1784) — [DECISÃO DE EXECUÇÃO (UE) 2026/1784 DA COMISSÃO de 16 de julho de 2026](http://publications.europa.eu/resource/celex/32026D1784) — L 1784 — 1 — 17.7.2026
-- [►M5](http://publications.europa.eu/resource/celex/32026D2216) — [DECISÃO DE EXECUÇÃO (UE) 2026/2216 DA COMISSÃO de 28 de setembro de 2026](http://publications.europa.eu/resource/celex/32026D2216) — L 2216 — 1 — 1.10.2026
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/582 DA COMISSÃO
 
 de 11 de março de 2026
 

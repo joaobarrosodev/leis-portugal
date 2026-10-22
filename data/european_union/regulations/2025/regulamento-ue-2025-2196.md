@@ -40,6 +40,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-11-12'
+version_history:
+  file: regulamento-ue-2025-2196.versoes.json
+  count: 1
+  source_lastmod: '2025-11-12'
+  versions:
+  - date: '2025-11-12'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32025R2196
   eli: http://data.europa.eu/eli/reg_impl/2025/2196/oj
@@ -54,7 +63,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4c5cf665-bf68-11f0-a612-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/f4f70a91-1cf2-11f1-8c3a-01aa75ed71a1.0011.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02025R2196-20251112
-  retrieved_at: '2026-10-22T03:21:18Z'
+  retrieved_at: '2026-10-22T17:17:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-11-12T02:52:17.983+01:00'
 integrity:
@@ -63,9 +72,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:21:18Z'
-  notes: Texto consolidado 02025R2196-20251112.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:40Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2025-2196.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -161,29 +170,19 @@ relationships:
   date: '2011-05-02'
 article_structure:
   article_count: 82
-  section_count: 169
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 170
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:21:18Z'
+  checked_at: '2026-10-22T17:17:40Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2025/2196 da Comissão, de 17 de outubro de 2025
-
-> 02025R2196 — PT — 12.11.2025 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32025R2196R%2801%29) — [Rectificação, JO L 91045, 23.12.2025, p. 1 ((UE) 2025/21962025/2196)](http://publications.europa.eu/resource/celex/32025R2196R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2025/2196 DA COMISSÃO
 
 de 17 de outubro de 2025
 

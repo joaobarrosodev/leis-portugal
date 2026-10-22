@@ -34,6 +34,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-03-11'
+version_history:
+  file: decisao-ue-2020-472.versoes.json
+  count: 4
+  source_lastmod: '2025-03-11'
+  versions:
+  - date: '2020-04-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-03-26'
+    amending: eu:celex:32021D0542:por
+    amending_title: DECISÃO (PESC) 2021/542 DO CONSELHO de 26 de março de 2021
+    changes:
+    - Altera Artigo 2.º — Contribuição para a aplicação do embargo ao armamento imposto pelas Nações Unidas contra a Líbia
+    - Altera Artigo 13.º — Disposições financeiras
+    - Altera Artigo 14.º — Comunicação de informações
+    - Altera Artigo 15.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2023-03-20'
+    amending: eu:celex:32023D0653:por
+    amending_title: DECISÃO (PESC) 2023/653 DO CONSELHO de 20 de março de 2023
+    changes:
+    - Altera Artigo 2.º — Contribuição para a aplicação do embargo ao armamento imposto pelas Nações Unidas contra a Líbia
+    - Altera Artigo 13.º — Disposições financeiras
+    - Altera Artigo 14.º — Comunicação de informações
+    - Altera Artigo 15.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+  - date: '2025-03-11'
+    amending: eu:celex:32025D0488:por
+    amending_title: DECISÃO (PESC) 2025/488 DO CONSELHO de 11 de março de 2025
+    changes:
+    - Altera Artigo 2.º — Contribuição para a aplicação do embargo ao armamento imposto pelas Nações Unidas contra a Líbia
+    - Altera Artigo 4.º — Reforço das capacidades e formação da guarda costeira e da marinha líbias
+    - Altera Artigo 13.º — Disposições financeiras
+    - Altera Artigo 14.º — Comunicação de informações
+    - Altera Artigo 15.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+    - Adita Artigo 3.º-A — Contribuição para o conhecimento situacional marítimo sobre outras atividades ilícitas
 identifiers:
   celex: 32020D0472
   eli: http://data.europa.eu/eli/dec/2020/472/oj
@@ -48,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/500fc2b5-73e0-11ea-a07e-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/01d206c8-1486-11f0-b1a3-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020D0472-20250311
-  retrieved_at: '2026-10-22T02:41:53Z'
+  retrieved_at: '2026-10-22T17:10:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T07:51:20.479+02:00'
 integrity:
@@ -57,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:53Z'
-  notes: Texto consolidado 02020D0472-20250311.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:27Z'
+  notes: 4 versão(ões); histórico completo em decisao-ue-2020-472.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -193,35 +231,19 @@ relationships:
   date: '2020-07-10'
 article_structure:
   article_count: 16
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:53Z'
+  checked_at: '2026-10-22T17:10:27Z'
   warnings: []
   errors: []
 ---
 
 # Decisão (PESC) 2020/472 do Conselho de 31 de março de 2020
-
-> 02020D0472 — PT — 11.03.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021D0542) — [DECISÃO (PESC) 2021/542 DO CONSELHO de 26 de março de 2021](http://publications.europa.eu/resource/celex/32021D0542) — L 108 — 57 — 29.3.2021
-- [►M2](http://publications.europa.eu/resource/celex/32023D0653) — [DECISÃO (PESC) 2023/653 DO CONSELHO de 20 de março de 2023](http://publications.europa.eu/resource/celex/32023D0653) — L 81 — 27 — 21.3.2023
-- [►M3](http://publications.europa.eu/resource/celex/32025D0488) — [DECISÃO (PESC) 2025/488 DO CONSELHO de 11 de março de 2025](http://publications.europa.eu/resource/celex/32025D0488) — L 488 — 1 — 12.3.2025
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32020D0472R%2801%29) — [Rectificação, JO L 164, 27.5.2020, p. 62 (2020/472)](http://publications.europa.eu/resource/celex/32020D0472R%2801%29)
-
-## DECISÃO (PESC) 2020/472 DO CONSELHO
 
 de 31 de março de 2020
 

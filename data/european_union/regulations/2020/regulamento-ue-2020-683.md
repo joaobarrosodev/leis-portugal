@@ -37,6 +37,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-01'
+version_history:
+  file: regulamento-ue-2020-683.versoes.json
+  count: 5
+  source_lastmod: '2024-01-01'
+  versions:
+  - date: '2022-03-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-28'
+    amending: eu:celex:32022R1177:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1177 DA COMISSÃO de 7 de julho de 2022
+    changes:
+    - Altera ANEXO I
+    - Altera 2. MASSAS E DIMENSÕES (^9^) (^10^) (^11^)
+    - Altera 3. CONVERSOR DE ENERGIA DE PROPULSÃO (^38^)
+    - Altera 4. TRANSMISSÃO (^76^)
+    - Altera 6. SUSPENSÃO
+    - Altera 7. DIREÇÃO
+    - Altera 8. TRAVÕES
+    - Altera 9. CARROÇARIA
+    - Altera 10. DISPOSITIVOS DE ILUMINAÇÃO E SINALIZAÇÃO LUMINOSA
+    - Altera 12. DIVERSOS
+    - Altera A. Categorias M e N
+    - Altera B. Categoria O
+    - Altera SISTEMA DE NUMERAÇÃO DOS CERTIFICADOS DE HOMOLOGAÇÃO
+    - 'Adita 17. SISTEMA DE CONDUÇÃO AUTOMATIZADA (ADS): sim/não (^4^)'
+    - Adita Notas
+  - date: '2022-08-25'
+    amending: eu:celex:32022R1362:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1362 DA COMISSÃO de 1 de agosto de 2022
+    changes:
+    - Altera ANEXO I
+    - Altera 3. CONVERSOR DE ENERGIA DE PROPULSÃO (^38^)
+    - Altera 12. DIVERSOS
+    - Altera B. Categoria O
+    - Altera Parte 2 do certificado de homologação UE de um veículo individual e do certificado de homologação nacional
+    - Altera VEÍCULOS COMPLETOS E COMPLETADOS
+    - Altera Notas
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera ANEXO I
+    - Altera 3. CONVERSOR DE ENERGIA DE PROPULSÃO (^38^)
+    - Altera 12. DIVERSOS
+    - Altera Parte 2 do certificado de homologação UE de um veículo individual e do certificado de homologação nacional
+    - Altera 2. Resultados dos ensaios relativos às emissões de escape
+    - Altera 3. Resultados dos ensaios de emissões de CO2, consumo de combustível e de energia elétrica e de autonomia elétrica
+    - Altera VEÍCULOS COMPLETOS E COMPLETADOS
+    - Altera VEÍCULOS INCOMPLETOS
+    - Altera Notas
+  - date: '2024-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera ANEXO I
+    - Altera 12. DIVERSOS
+    - Altera VEÍCULOS COMPLETOS E COMPLETADOS
+    - Altera VEÍCULOS INCOMPLETOS
+    - Altera Notas
 identifiers:
   celex: 32020R0683
   eli: http://data.europa.eu/eli/reg_impl/2020/683/oj
@@ -51,7 +112,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1f9190ab-9f1e-11ea-9d2d-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/00577410-a597-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R0683-20240101
-  retrieved_at: '2026-10-22T03:19:31Z'
+  retrieved_at: '2026-10-22T17:11:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-17T07:06:19.053+02:00'
 integrity:
@@ -60,9 +121,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:31Z'
-  notes: Texto consolidado 02020R0683-20240101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:11:47Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2020-683.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -129,32 +190,20 @@ relationships:
   date: '2022-10-13'
 article_structure:
   article_count: 9
-  section_count: 91
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 92
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:31Z'
-  warnings: []
+  checked_at: '2026-10-22T17:11:47Z'
+  warnings:
+  - '02020R0683-20200526: versão indisponível (Sem expressão na língua por para CELEX 02020R0683-20200526.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2020/683 da Comissão de 15 de abril de 2020
-
-> 02020R0683 — PT — 01.01.2024 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0195) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/195 DA COMISSÃO de 11 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0195) — L 31 — 27 — 14.2.2022
-- [M2](http://publications.europa.eu/resource/celex/32022R0799) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/799 DA COMISSÃO de 20 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0799) — L 143 — 1 — 23.5.2022
-- [►M3](http://publications.europa.eu/resource/celex/32022R1177) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1177 DA COMISSÃO de 7 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1177) — L 183 — 54 — 8.7.2022
-- [►M4](http://publications.europa.eu/resource/celex/32022R1362) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1362 DA COMISSÃO de 1 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1362) — L 205 — 145 — 5.8.2022
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2020/683 DA COMISSÃO
 
 de 15 de abril de 2020
 

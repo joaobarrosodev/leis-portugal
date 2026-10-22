@@ -1,0 +1,56 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32026D1781:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1781-20260717",
+ "dre_path": null,
+ "source_lastmod": "2026-07-17",
+ "versions": [
+  {
+   "date": "2026-07-17",
+   "future": false,
+   "celex": "02026D1781-20260717",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "3bf0bb6b7d935500",
+    "004678ad61a25bd4",
+    "23d215660965cdd8",
+    "f6ad5144ece38dda"
+   ]
+  }
+ ],
+ "fragments": {
+  "3bf0bb6b7d935500": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 15 de julho de 2026\n\nrelativa à nomeação do chefe de missão da Missão da União Europeia para o Estado de Direito no Kosovo ([^*3^](http://publications.europa.eu/resource/cellar/4a179a4a-a66e-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0003)) (EULEX KOSOVO) (EULEX KOSOVO/2/2026)"
+  },
+  "004678ad61a25bd4": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nAntero Alfarela OLIVEIRA LOPES é nomeado chefe de missão da Missão da União Europeia para o Estado de Direito no Kosovo (EULEX KOSOVO) pelo período compreendido entre 10 de agosto de 2026 e 14 de junho de 2027."
+  },
+  "23d215660965cdd8": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nA presente decisão entra em vigor na data da sua adoção.\n\n---"
+  },
+  "f6ad5144ece38dda": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/4a179a4a-a66e-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Esta designação não prejudica as posições relativas ao estatuto e está conforme com a Resolução 1244/1999 do CSNU e com o parecer do TIJ sobre a declaração de independência do Kosovo.\n\n> ([^*2^](http://publications.europa.eu/resource/cellar/4a179a4a-a66e-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Esta designação não prejudica as posições relativas ao estatuto e está conforme com a Resolução 1244/1999 do CSNU e com o parecer do TIJ sobre a declaração de independência do Kosovo.\n\n> ([^*3^](http://publications.europa.eu/resource/cellar/4a179a4a-a66e-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Esta designação não prejudica as posições relativas ao estatuto e está conforme com a Resolução 1244/1999 do CSNU e com o parecer do TIJ sobre a declaração de independência do Kosovo."
+  }
+ }
+}

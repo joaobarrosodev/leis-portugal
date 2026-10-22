@@ -37,6 +37,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-24'
+version_history:
+  file: regulamento-ue-2021-695.versoes.json
+  count: 2
+  source_lastmod: '2025-12-24'
+  versions:
+  - date: '2024-03-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-12-24'
+    amending: eu:celex:32025R2653:por
+    amending_title: REGULAMENTO (UE) 2025/2653 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025; REGULAMENTO
+      (UE) 2025/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 18.º — Ações elegíveis e princípios éticos
+    - Altera Artigo 26.º — Contratos pré-comerciais e contratos públicos para soluções inovadoras
+    - Altera Artigo 30.º — Procedimento de revisão da avaliação, pedidos de esclarecimentos e apresentação de queixas
+    - Altera Artigo 37.º — Mecanismo de garantia mútua
+    - Altera Artigo 46.º — Financiamento misto do Horizonte Europa e financiamento misto do CEI
+    - Altera Artigo 48.º — Acelerador
+    - Altera Artigo 49.º — Nomeação de peritos externos independentes
+    - Altera Artigo 53.º — Auditorias
+    - Altera Artigo 57.º — Disposições transitórias
+    - Altera Notas
 identifiers:
   celex: 32021R0695
   eli: http://data.europa.eu/eli/reg/2021/695/oj
@@ -51,7 +76,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8d9e2751-b311-11eb-8aca-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/23d5d1c5-0ce7-11f1-8870-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0695-20251224
-  retrieved_at: '2026-10-22T02:53:54Z'
+  retrieved_at: '2026-10-22T17:13:10Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T19:38:45.991+01:00'
 integrity:
@@ -60,9 +85,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:54Z'
-  notes: Texto consolidado 02021R0695-20251224.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:10Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2021-695.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -358,31 +383,20 @@ relationships:
   date: '2013-12-23'
 article_structure:
   article_count: 58
-  section_count: 30
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 31
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:54Z'
-  warnings: []
+  checked_at: '2026-10-22T17:13:10Z'
+  warnings:
+  - '02021R0695-20210512: versão indisponível (Sem expressão na língua por para CELEX 02021R0695-20210512.)'
   errors: []
 ---
 
 # Regulamento (UE) 2021/695 do Parlamento Europeu e do Conselho de 28 de abril de 2021
-
-> 02021R0695 — PT — 24.12.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-- [►M2](http://publications.europa.eu/resource/celex/32025R2653) — [REGULAMENTO (UE) 2025/2653 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2653) — L 2653 — 1 — 22.12.2025
-- [►M3](http://publications.europa.eu/resource/celex/32025R2005) — [REGULAMENTO (UE) 2025/2005 DO PARLAMENTO EUROPEU E DO CONSELHO de 16 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2005) — L 2005 — 1 — 23.12.2025
-
-## REGULAMENTO (UE) 2021/695 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 28 de abril de 2021
 

@@ -36,6 +36,59 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-21'
+version_history:
+  file: regulamento-ue-2018-574.versoes.json
+  count: 2
+  source_lastmod: '2023-12-21'
+  versions:
+  - date: '2018-04-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-12-21'
+    amending: eu:celex:32023R0448:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/448 DA COMISSÃO de 1 de março de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Emitente de ID
+    - Altera Artigo 7.º — Verificação dos IU unitários
+    - Altera Artigo 8.º — Estrutura dos IU unitários
+    - Altera Artigo 9.º — Pedido e emissão de IU unitários
+    - Altera Artigo 11.º — Estrutura dos IU agregados gerados pelos emitentes de ID
+    - Altera Artigo 12.º — Ligação entre níveis de IU
+    - Altera Artigo 13.º — Pedido e emissão de IU agregados gerados pelos emitentes de ID
+    - Altera Artigo 14.º — Pedido de um código identificador do operador económico
+    - Altera Artigo 15.º — Emissão e registo dos códigos identificadores de operador económico
+    - Altera Artigo 16.º — Pedido de um código identificador da instalação
+    - Altera Artigo 17.º — Emissão e registo dos códigos identificadores da instalação
+    - Altera Artigo 18.º — Pedido de um código identificador da máquina
+    - Altera Artigo 19.º — Emissão e registo dos códigos identificadores de máquinas
+    - Altera Artigo 20.º — Transferência de ficheiros simples em modo fora de linha e de registos
+    - Altera Artigo 21.º — Suportes de dados para os identificadores únicos
+    - Altera Artigo 25.º — Características gerais do sistema de repositórios
+    - Altera Artigo 26.º — Repositórios primários
+    - Altera Artigo 27.º — Repositório secundário
+    - Altera Artigo 28.º — Tarefas de coordenação do fornecedor do repositório secundário
+    - Altera Artigo 29.º — Encaminhador
+    - Altera Artigo 30.º — Custos do sistema de repositórios
+    - Altera Artigo 32.º — Registo e transmissão de informações sobre os movimentos dos produtos
+    - Altera Artigo 33.º — Registo e transmissão de informações sobre transações
+    - Altera Artigo 34.º — Prazo para a transmissão das informações exigidas
+    - Altera Artigo 35.º — Independência
+    - Altera Artigo 36.º — Segurança e interoperabilidade das comunicações e dos dados
+    - Altera Artigo 38.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 36.º-A — Qualidade dos dados
+    - Adita ANEXO I
+    - Adita PROCESSO DE SELEÇÃO DE TERCEIROS INDEPENDENTES FORNECEDORES DE SISTEMAS DE REPOSITÓRIOS
+    - Adita PARTE A
+    - Adita PARTE B
+    - Adita PARTE C
+    - Adita ANEXO II
+    - Adita Principais mensagens a transmitir pelos operadores económicos
+    - Adita DESCRIÇÃO DOS CAMPOS
+    - Adita MENSAGENS
 identifiers:
   celex: 32018R0574
   eli: http://data.europa.eu/eli/reg_impl/2018/574/oj
@@ -50,7 +103,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0327d8e3-4142-11e8-b5fe-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/dadd5630-9e68-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0574-20231221
-  retrieved_at: '2026-10-22T03:18:46Z'
+  retrieved_at: '2026-10-22T17:05:35Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T13:08:28.209+01:00'
 integrity:
@@ -59,9 +112,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:46Z'
-  notes: Texto consolidado 02018R0574-20231221.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:35Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2018-574.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -139,33 +192,19 @@ relationships:
   date: '2025-04-02'
 article_structure:
   article_count: 39
-  section_count: 33
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 34
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:46Z'
+  checked_at: '2026-10-22T17:05:35Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2018/574 da Comissão, de 15 de dezembro de 2017
-
-> 02018R0574 — PT — 21.12.2023 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0448) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/448 DA COMISSÃO de 1 de março de 2023](http://publications.europa.eu/resource/celex/32023R0448) — L 65 — 28 — 2.3.2023
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R0574R%2801%29) — [Rectificação, JO L 252, 8.10.2018, p. 47 (2018/574)](http://publications.europa.eu/resource/celex/32018R0574R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2018/574 DA COMISSÃO
 
 de 15 de dezembro de 2017
 

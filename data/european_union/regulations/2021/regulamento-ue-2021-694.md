@@ -36,6 +36,47 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-23'
+version_history:
+  file: regulamento-ue-2021-694.versoes.json
+  count: 3
+  source_lastmod: '2025-12-23'
+  versions:
+  - date: '2023-09-21'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-02-04'
+    amending: eu:celex:32025R0038:por
+    amending_title: REGULAMENTO (UE) 2025/38 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Objetivo específico n.º 3 — Cibersegurança e confiança
+    - Altera Artigo 8.º-A — Objetivo específico n.º 6 – Semicondutores
+    - Altera Artigo 9.º — Orçamento
+    - Altera Artigo 12.º — Segurança
+    - Altera Artigo 14.º — Execução e formas de financiamento da União
+    - Altera Artigo 19.º — Subvenções
+    - Altera Artigo 33.º — Disposições transitórias
+    - Altera Objetivo específico n.º 3 — Cibersegurança e confiança
+    - Altera Objetivo específico n.º 5 — Implantação e melhor utilização das capacidades digitais e interoperabilidade
+    - Altera Notas
+    - Adita Artigo 16.º-A — Conflitos de regras
+  - date: '2025-12-23'
+    amending: eu:celex:32025R2653:por
+    amending_title: REGULAMENTO (UE) 2025/2653 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Objetivos do Programa
+    - Altera Artigo 4.º — Objetivo específico n.º 1 — Computação de alto desempenho
+    - Altera Artigo 6.º — Objetivo específico n.º 3 — Cibersegurança e confiança
+    - Altera Artigo 8.º — Objetivo específico n.º 5 — Implantação e melhor utilização das capacidades digitais e interoperabilidade
+    - Altera Artigo 8.º-A — Objetivo específico n.º 6 – Semicondutores
+    - Altera Artigo 12.º — Segurança
+    - Altera Artigo 14.º — Execução e formas de financiamento da União
+    - Altera Artigo 20.º — Critérios de concessão
+    - Altera Artigo 33.º — Disposições transitórias
+    - Altera Objetivo específico n.º 5 — Implantação e melhor utilização das capacidades digitais e interoperabilidade
+    - Altera Notas
 identifiers:
   celex: 32021R0694
   eli: http://data.europa.eu/eli/reg/2021/694/oj
@@ -50,7 +91,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d6a2aff1-b1f2-11eb-8aca-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c5461646-1ce1-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0694-20251223
-  retrieved_at: '2026-10-22T02:46:11Z'
+  retrieved_at: '2026-10-22T17:13:08Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T16:25:37.302+01:00'
 integrity:
@@ -59,9 +100,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:11Z'
-  notes: Texto consolidado 02021R0694-20251223.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:08Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2021-694.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -277,35 +318,20 @@ relationships:
   date: '2015-12-04'
 article_structure:
   article_count: 36
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:11Z'
-  warnings: []
+  checked_at: '2026-10-22T17:13:08Z'
+  warnings:
+  - '02021R0694-20210511: versão indisponível (Sem expressão na língua por para CELEX 02021R0694-20210511.)'
   errors: []
 ---
 
 # Regulamento (UE) 2021/694 do Parlamento Europeu e do Conselho de 29 de abril de 2021
-
-> 02021R0694 — PT — 23.12.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R1781) — [REGULAMENTO (UE) 2023/1781 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R1781) — L 229 — 1 — 18.9.2023
-- [►M2](http://publications.europa.eu/resource/celex/32025R0038) — [REGULAMENTO (UE) 2025/38 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0038) — L 38 — 1 — 15.1.2025
-- [►M3](http://publications.europa.eu/resource/celex/32025R2653) — [REGULAMENTO (UE) 2025/2653 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2653) — L 2653 — 1 — 22.12.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32025R0038R%2803%29) — [Rectificação, JO L 90886, 6.11.2025, p. 1 (2025/38)](http://publications.europa.eu/resource/celex/32025R0038R%2803%29)
-
-## REGULAMENTO (UE) 2021/694 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 29 de abril de 2021
 

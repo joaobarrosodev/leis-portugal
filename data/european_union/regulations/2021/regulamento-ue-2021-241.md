@@ -35,6 +35,67 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-03-01'
+version_history:
+  file: regulamento-ue-2021-241.versoes.json
+  count: 3
+  source_lastmod: '2024-03-01'
+  versions:
+  - date: '2021-02-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-03-01'
+    amending: eu:celex:32023R0435:por
+    amending_title: REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023
+    changes:
+    - Altera Artigo 2.° — Definições
+    - Altera Artigo 4.º — Objetivos gerais e específicos
+    - Altera Artigo 5.º — Princípios horizontais
+    - Altera Artigo 8.º — Execução
+    - Altera Artigo 10.º — Medidas que associam o mecanismo a uma boa governação económica
+    - Altera Artigo 14.º — Empréstimos
+    - Altera Artigo 17.° — Elegibilidade
+    - Altera Artigo 18.º — Plano de recuperação e resiliência
+    - Altera Artigo 19.º — Avaliação da Comissão
+    - Altera Artigo 20.º — Proposta da Comissão e decisão de execução do Conselho
+    - Altera Artigo 22.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 23.º — Compromisso da contribuição financeira
+    - Altera Artigo 26.º — Diálogo sobre a recuperação e a resiliência
+    - Altera Artigo 29.º — Acompanhamento da execução
+    - Altera Artigo 30.º — Grelha de avaliação da recuperação e resiliência
+    - Altera Artigo 31.º — Relatório anual
+    - Altera Artigo 32.º — Avaliação e avaliação ex post do mecanismo
+    - Altera ANEXO II
+    - Altera 2. Critérios de avaliação
+    - Altera Metodologia para acompanhamento da ação climática
+    - Altera Metodologia para a etiquetagem digital no âmbito do mecanismo
+    - Altera Notas
+    - Adita CAPÍTULO III-A
+    - Adita REPower EU
+    - Adita Artigo 21.º-A — Receitas do sistema de comércio de emissões sob a Diretiva 2003/87/CE
+    - Adita Artigo 21.º-B — Recursos dos programas de gestão partilhada para apoiar os objetivos REPowerEU
+    - Adita Artigo 21.º-C — Capítulos REPowerEU nos planos de recuperação e resiliência
+    - Adita Artigo 21.º-D — Pré-financiamento REPowerEU
+    - Adita Artigo 25.º-A — Transparência em relação aos destinatários finais
+    - Adita ANEXO IV-A
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 2.° — Definições
+    - Altera Artigo 7.º — Recursos dos programas de gestão partilhada e utilização dos recursos
+    - Altera Artigo 8.º — Execução
+    - Altera Artigo 10.º — Medidas que associam o mecanismo a uma boa governação económica
+    - Altera Artigo 21.º — Alteração do plano de recuperação e resiliência do Estado-Membro
+    - Altera Artigo 21.º-A — Receitas do sistema de comércio de emissões sob a Diretiva 2003/87/CE
+    - Altera Artigo 21.º-B — Recursos dos programas de gestão partilhada para apoiar os objetivos REPowerEU
+    - Altera Artigo 22.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 29.º — Acompanhamento da execução
+    - Altera ANEXO II
+    - Altera ANEXO IV-A
+    - Altera Metodologia para acompanhamento da ação climática
+    - Altera Metodologia para a etiquetagem digital no âmbito do mecanismo
+    - Altera Notas
 identifiers:
   celex: 32021R0241
   eli: http://data.europa.eu/eli/reg/2021/241/oj
@@ -49,7 +110,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/66a2c066-71c5-11eb-9ac9-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/576c8119-e61e-11ee-8b2b-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R0241-20240301
-  retrieved_at: '2026-10-22T02:34:50Z'
+  retrieved_at: '2026-10-22T17:13:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-08-22T08:06:22.146+02:00'
 integrity:
@@ -58,9 +119,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:50Z'
-  notes: Texto consolidado 02021R0241-20240301.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:04Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2021-241.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -521,34 +582,19 @@ relationships:
   date: '2025-12-09'
 article_structure:
   article_count: 41
-  section_count: 32
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 33
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:50Z'
+  checked_at: '2026-10-22T17:13:04Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/241 do Parlamento Europeu e do Conselho de 12 de fevereiro de 2021
-
-> 02021R0241 — PT — 01.03.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0435) — [REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0435) — L 63 — 1 — 28.2.2023
-- [►M2](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R0241R%2804%29) — [Rectificação, JO L 410, 18.11.2021, p. 197 (2021/241)](http://publications.europa.eu/resource/celex/32021R0241R%2804%29)
-
-## REGULAMENTO (UE) 2021/241 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 12 de fevereiro de 2021
 

@@ -1,0 +1,245 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32018R0842:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0842-20230516",
+ "dre_path": null,
+ "source_lastmod": "2023-05-16",
+ "versions": [
+  {
+   "date": "2023-05-16",
+   "future": false,
+   "celex": "02018R0842-20230516",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "41555e960146c092",
+    "7fd155d8bfe9277b",
+    "e9f35a3c0f2f3ff1",
+    "9b2e317c09c77d05",
+    "8f8f0f6dc63c7e75",
+    "517d32ec24644667",
+    "f3ac94d3725dacc8",
+    "17d8d374df86f945",
+    "2096ea004f07833d",
+    "7614f91df021cd2d",
+    "ca519a7c587bc571",
+    "6a71886c497fb076",
+    "9cd126e415afcc0e",
+    "515d0258aa54ac0b",
+    "b52d6a40650e22c7",
+    "f9198cc8d56458e1",
+    "ae68d51238a61337",
+    "67fe83c838f995a4",
+    "6cafacf9ecdee3ce",
+    "d664376e2a8dcecd",
+    "f919c3b54045776c",
+    "c8be52757c126730",
+    "64cf7f435fc255e7",
+    "89e4b38133f317cd",
+    "8d56c444475372bb"
+   ]
+  }
+ ],
+ "fragments": {
+  "41555e960146c092": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de maio de 2018\n\nrelativo às reduções anuais obrigatórias das emissões de gases com efeito de estufa pelos Estados-Membros entre 2021 e 2030 como contributo para a ação climática a fim de cumprir os compromissos assumidos no âmbito do Acordo de Paris e que altera o Regulamento (UE) n.º 525/2013\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "7fd155d8bfe9277b": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece as obrigações dos Estados-Membros relativas aos seus contributos mínimos para o período compreendido entre 2021 e 2030, para atingir a meta da União de uma redução de 40 % das suas emissões de gases com efeito de estufa até 2030, em comparação com os níveis de 2005, nos sectores abrangidos pelo artigo 2.º do presente regulamento. O presente regulamento contribui para o objetivo a longo prazo de neutralidade climática na União o mais tardar até 2050, com vista a alcançar emissões negativas após essa data. Por conseguinte, contribui para a consecução dos objetivos do Regulamento (UE) 2021/1119 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0001)) («Lei europeia em matéria de clima») e do Acordo de Paris. O presente regulamento estabelece também as regras quanto ao modo de determinar as dotações anuais de emissões e quanto à avaliação dos progressos dos Estados-Membros no sentido do cumprimento das suas contribuições mínimas."
+  },
+  "e9f35a3c0f2f3ff1": {
+   "fragment_id": "Artigo 2.º — Âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Âmbito de aplicação\n\n1. O presente regulamento é aplicável às emissões de gases com efeito de estufa provenientes das categorias de fontes do IPCC energia, processos industriais e utilização de produtos, agricultura e resíduos, tal como determinadas nos termos do Regulamento (UE) 2018/1999 do Parlamento Europeu e do Conselho ([^2^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0002)), com exceção das emissões de gases com efeito de estufa resultantes das atividades enumeradas no anexo I da Diretiva 2003/87/CE, que não a atividade «transporte marítimo» nem atividades aí enumeradas apenas para efeitos dos artigos 14.º e 15.° dessa diretiva.\n\n2. Sem prejuízo do disposto no artigo 7.º e no artigo 9.º, n.º 2, do presente regulamento, o presente regulamento não se aplica às emissões e remoções de gases com efeito de estufa abrangidas pelo Regulamento (UE) 2018/841.\n\n3. Para efeitos do presente regulamento, as emissões de CO2 provenientes da categoria de fontes do IPCC «1.A.3.A Aviação civil» devem ser consideradas como iguais a zero."
+  },
+  "9b2e317c09c77d05": {
+   "fragment_id": "Artigo 3.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Emissões de gases com efeito de estufa», as emissões de dióxido de carbono (CO2), metano (CH4), óxido nitroso (N2O), hidrofluorocarbonetos (HFC), perfluorocarbonetos (PFC), trifluoreto de azoto (NF3) e hexafluoreto de enxofre (SF6), expressas em toneladas de CO2 equivalente, determinadas nos termos do Regulamento (UE) n.º 525/2013 e que são abrangidas pelo âmbito de aplicação do presente regulamento;\n\n2) «Dotações anuais de emissões», as emissões máximas de gases com efeito de estufa permitidas por ano, entre 2021 e 2030, determinadas nos termos do artigo 4.º, n.º 3, e do artigo 10.º;\n\n3) «Licença de emissão do CELE», uma «licença de emissão» na aceção do artigo 3.º, alínea a), da Diretiva 2003/87/CE."
+  },
+  "8f8f0f6dc63c7e75": {
+   "fragment_id": "Artigo 4.º — Níveis anuais de emissões para o período compreendido entre 2021 e 2030",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Níveis anuais de emissões para o período compreendido entre 2021 e 2030",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Níveis anuais de emissões para o período compreendido entre 2021 e 2030\n\n1. Os Estados-Membros devem, até 2030, limitar as suas emissões de gases com efeito de estufa de acordo, pelo menos, com a percentagem fixada para cada Estado-Membro na coluna 2 do anexo I, relativamente às suas emissões de gases com efeito de estufa no ano de 2005, determinadas nos termos do n.º 3 do presente artigo.\n\n2.\n\nSem prejuízo das flexibilidades previstas nos artigos 5.º, 6.º e 7.º do presente regulamento e do ajustamento previsto no artigo 10.º, n.º 2, do presente regulamento, e tendo em conta qualquer dedução resultante da aplicação do artigo 7.º da Decisão n.º 406/2009/CE, cada Estado-Membro deve assegurar que as suas emissões de gases com efeito de estufa:\n\na) Não excedam, nos anos de 2021 e 2022, o limite definido por uma trajetória linear, com início ao nível da média das emissões de gases com efeito de estufa desse Estado-Membro nos anos de 2016, 2017 e 2018, determinadas nos termos do n.º 3 do presente artigo, e que termina em 2030 no limite indicado no anexo I, coluna 1, do presente regulamento para o Estado-Membro em causa; a trajetória linear de um Estado-Membro tem início a cinco doze avos da distância entre 2019 e 2020 ou em 2020, consoante o que tiver como resultado uma menor dotação anual de emissões para esse Estado-Membro;\n\nb) Não excedam, nos anos de 2023, 2024 e 2025, o limite definido por uma trajetória linear, com início em 2022 ao nível da dotação anual de emissões para esse Estado-Membro, determinada nos termos do n.º 3 do presente artigo para esse ano, e que termina em 2030 no limite indicado no anexo I, coluna 2, do presente regulamento para o Estado-Membro em causa;\n\nc) Não excedam, nos anos de 2026 a 2030, o limite definido por uma trajetória linear, que tem início ao nível da média das emissões de gases com efeito de estufa desse Estado-Membro em 2021, 2022 e 2023, comunicadas por esse Estado-Membro nos termos do artigo 26.º do Regulamento (UE) 2018/1999 e nos termos do n.º 3 do presente artigo, e que termina em 2030 no limite indicado no anexo I, coluna 2, do presente regulamento para o Estado-Membro em causa; a trajetória linear de um Estado-Membro tem início a nove doze avos da distância entre 2023 e 2024.\n\n3. A Comissão adota atos de execução que fixem as dotações anuais de emissões para cada Estado-Membro para os anos de 2021 a 2030, expressas em toneladas de CO2 equivalente, de acordo com as trajetórias lineares estabelecidas no n.º 2 do presente artigo.\n\nPara os anos de 2021 e 2022, a Comissão determina as dotações anuais de emissões com base numa análise exaustiva dos dados mais recentes constantes dos inventários nacionais para os anos de 2005, 2016, 2017 e 2018, apresentados pelos Estados-Membros nos termos do artigo 7.º do Regulamento (UE) n.º 525/2013, e indicam o valor das emissões de gases com efeito de estufa de cada Estado-Membro para o ano de 2005, utilizado para determinar as referidas dotações anuais de emissões.\n\nPara os anos de 2023, 2024 e 2025, a Comissão determina as dotações anuais de emissões com base no valor das emissões de gases com efeito de estufa de cada Estado-Membro no ano de 2005, indicados nos termos do segundo parágrafo do presente número, e nos valores revistos dos dados constantes dos inventários nacionais para os anos de 2016, 2017 e 2018, mencionados nesse segundo parágrafo.\n\nPara os anos de 2026 a 2030, a Comissão determina as dotações anuais de emissões com base no valor das emissões de gases com efeito de estufa de cada Estado-Membro no ano de 2005, indicada nos termos do segundo parágrafo do presente número e numa análise abrangente dos dados mais recentes constantes dos inventários nacionais para os anos de 2021, 2022 e 2023, apresentados pelos Estados-Membros nos termos do artigo 26.º do Regulamento (UE) 2018/1999.\n\n4. Os atos de execução referidos no n.º 3 especificam também, com base nas percentagens notificadas pelos Estados-Membros nos termos do artigo 6.º, n.^os^ 3, 3-A e 3-B, as quantidades totais que podem ser tidas em conta para fins de verificar a conformidade de um Estado-Membro nos termos do artigo 9.º entre 2021 e 2030. Se a soma das quantidades totais de todos os Estados-Membros exceder o total coletivo de 100 milhões, as quantidades totais para cada Estado-Membro devem ser reduzidas numa base *pro rata* para que o total coletivo não seja excedido.\n\n5. Os referidos atos de execução são adotados pelo procedimento de exame a que se refere o artigo 14.º.\n\n6. Ao empreender ações para limitar as emissões de gases com efeito de estufa nos termos dos n.^os^ 1 e 2, os Estados-Membros têm em conta a necessidade de assegurar uma transição equitativa e socialmente justa para todos. A Comissão pode emitir orientações para apoiar os Estados-Membros a este respeito."
+  },
+  "517d32ec24644667": {
+   "fragment_id": "Artigo 5.º — Flexibilidades por meio de antecipação, acumulação e transferência",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Flexibilidades por meio de antecipação, acumulação e transferência",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Flexibilidades por meio de antecipação, acumulação e transferência\n\n1. No que diz respeito aos anos de 2021 a 2025, um Estado-Membro pode antecipar uma quantidade máxima de 7,5 % da sua dotação anual de emissões referente ao ano seguinte.\n\n2. No que diz respeito aos anos de 2026 a 2029, um Estado-Membro pode antecipar uma quantidade máxima de 5 % da sua dotação anual de emissões referente ao ano seguinte.\n\n3.\n\nOs Estados-Membros cujas emissões de gases com efeito de estufa de um determinado ano sejam inferiores à sua dotação anual de emissões nesse ano, tendo em conta a utilização das flexibilidades previstas no presente artigo e no artigo 6.º, podem:\n\na) Em relação ao ano de 2021, acumular o excedente da sua dotação anual de emissões até ao nível de 75 % da sua dotação anual de emissões de 2021 para os anos seguintes, até 2030; e\n\nb) Em relação aos anos de 2022 a 2029, acumular o excedente da sua dotação anual de emissões até ao nível de 25 % das suas dotações anuais de emissões até ao ano em questão para os anos seguintes, até 2030.\n\n4. Os Estados-Membros podem transferir até 10 % da sua dotação anual de emissões de um determinado ano para outros Estados-Membros em relação aos anos de 2021 a 2025, e até 15 % em relação aos anos de 2026 a 2030. Os Estados-Membros destinatários dessa dotação de emissões podem utilizar essa quantidade para fins de conformidade nos termos do artigo 9.º no ano em questão ou nos anos seguintes até 2030.\n\n5. Os Estados-Membros cujas emissões de gases com efeito de estufa revistas de um determinado ano sejam inferiores à sua dotação anual de emissões nesse ano, tendo em conta a utilização das flexibilidades previstas no presente artigo, n.^os^ 1 a 4, e no artigo 6.º, podem transferir esse excedente da sua dotação anual de emissões para outros Estados-Membros. Os Estados-Membros destinatários das emissões podem utilizar essa quantidade para fins de conformidade nos termos do artigo 9.º no ano em questão ou nos anos seguintes até 2030.\n\n5-A. Antes de qualquer transferência de dotações anuais de emissões nos termos dos n.^os^ 4 e 5, os Estados-Membros informam, em formato eletrónico, o Comité das Alterações Climáticas criado pelo Regulamento (UE) 2018/1999 da sua intenção de transferir uma parte da sua dotação anual de emissões de um determinado ano.\n\n6. Os Estados-Membros devem utilizar as receitas geradas pelas transferências de dotações anuais de emissões nos termos dos n.^os^ 4 e 5, ou o seu equivalente em valor financeiro, para combater as alterações climáticas na União ou em países terceiros. Os Estados-Membros informam a Comissão das ações empreendidas nos termos do presente número e divulgam essas informações publicamente, de forma facilmente acessível.\n\n7. As eventuais transferências de dotações anuais de emissões, nos termos dos n.^os^ 4 e 5, podem ser o resultado de um projeto ou de um programa de mitigação dos gases com efeito de estufa realizado no Estado-Membro vendedor e financiado pelo Estado-Membro destinatário, desde que se evite a dupla contabilização e se garanta a rastreabilidade.\n\n8. Os Estados-Membros podem utilizar créditos de projetos emitidos nos termos do artigo 24.º-A, n.º 1, da Diretiva 2003/87/CE para fins de conformidade nos termos do artigo 9.º do presente regulamento, sem qualquer limite quantitativo, desde que se evite a dupla contabilização."
+  },
+  "f3ac94d3725dacc8": {
+   "fragment_id": "Artigo 6.º — Flexibilidade para determinados Estados-Membros após a redução das licenças de emissão do CELE",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Flexibilidade para determinados Estados-Membros após a redução das licenças de emissão do CELE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Flexibilidade para determinados Estados-Membros após a redução das licenças de emissão do CELE\n\n1. Os Estados-Membros enumerados no anexo II do presente regulamento podem obter a anulação de um número limitado de licenças de emissão do CELE até um máximo de 100 milhões de licenças de emissão do CELE, tidas em conta coletivamente para fins de conformidade com o disposto no presente regulamento. Tal anulação é feita a partir dos volumes de venda em leilão do Estado-Membro em causa nos termos do artigo 10.º da Diretiva 2003/87/CE.\n\n2. As licenças de emissão do CELE tidas em conta nos termos do n.º 1 do presente artigo são consideradas licenças de emissão do CELE em circulação para efeitos do artigo 1.º, n.º 4, da Decisão (UE) 2015/1814.\n\nNa primeira revisão que efetuar ao abrigo do artigo 3.º da referida decisão, a Comissão pondera se a contabilização prevista no primeiro parágrafo do presente número deve ou não ser mantida.\n\n3. Os Estados-Membros enumerados no anexo II devem notificar à Comissão, até 31 de dezembro de 2019, qualquer intenção de recorrer à anulação de um número limitado das licenças de emissão do CELE a que se refere o n.º 1 do presente artigo, até à percentagem referida no anexo II, para cada ano do período compreendido entre 2021 e 2030 para cada Estado-Membro em causa, para fins de conformidade nos termos do artigo 9.º.\n\nOs Estados-Membros enumerados no anexo II têm a possibilidade, uma vez em 2024 e uma vez em 2027, de decidir rever a percentagem notificada. Nesse caso, os Estados-Membros em causa notificam a Comissão dessa decisão até 31 de dezembro de 2024 ou até 31 de dezembro de 2027, respetivamente.\n\n3-A. Malta deve notificar à Comissão, até 31 de dezembro de 2023, qualquer intenção de recorrer à anulação de um número limitado de licenças de emissão do CELE a que se refere o n.º 1 do presente artigo, até à percentagem referida no anexo II, para cada ano do período compreendido entre 2025 e 2030, para fins de conformidade nos termos do artigo 9.º.\n\n3-B. Não obstante o disposto no n.º 3, os Estados-Membros enumerados no anexo II que não tenham notificado à Comissão, até 31 de dezembro de 2019, a intenção de recorrer ou fazer pleno uso da anulação de um número limitado das licenças de emissão do CELE a que se refere o n.º 1 do presente artigo devem notificar à Comissão, até 31 de dezembro de 2023, a sua intenção de recorrer ou fazer um maior uso dessa anulação de um número limitado das licenças de emissão do CELE, até à percentagem referida no anexo II, para cada ano do período compreendido entre 2025 e 2030 para cada Estado-Membro em causa, para fins de conformidade nos termos do artigo 9.º.\n\n4. A pedido de um Estado-Membro, o administrador central designado nos termos do artigo 20.º, n.º 1, da Diretiva 2003/87/CE («administrador central») deve ter em conta uma quantidade até à quantidade total determinada nos termos do artigo 4.º, n.º 4, do presente regulamento, para fins de conformidade desse Estado-Membro nos termos do artigo 9.º do presente regulamento. Um décimo da quantidade total de licenças de emissão do CELE determinada nos termos do artigo 4.º, n.º 4, do presente regulamento deve ser anulado nos termos do artigo 12.º, n.º 4, da Diretiva 2003/87/CE, para cada ano do período compreendido entre 2021 e 2030 para esse Estado-Membro. Um sexto da quantidade total de licenças de emissão do CELE determinada nos termos do artigo 4.º, n.º 4, do presente regulamento deve ser anulado nos termos do artigo 12.º, n.º 4, da Diretiva 2003/87/CE, para cada ano do período compreendido entre 2025 e 2030 para os Estados-Membros que tenham notificado a Comissão nos termos dos n.^os^ 3-A e 3-B do presente artigo.\n\n5. Sempre que um Estado-Membro, em conformidade com o n.º 3, tiver notificado a Comissão da sua decisão de rever a percentagem anteriormente notificada, deve ser anulada uma quantidade proporcionalmente inferior ou superior de licenças de emissão do CELE para esse Estado-Membro relativamente a cada ano de 2026 a 2030 ou de 2028 a 2030, respetivamente."
+  },
+  "17d8d374df86f945": {
+   "fragment_id": "Artigo 7.º",
+   "type": "artigo",
+   "heading": "Artigo 7.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º\n\nUtilização adicional de remoções líquidas provenientes do LULUCF\n\n1.\n\nNa medida em que as emissões de gases com efeito de estufa de um Estado-Membro excedam as suas dotações anuais de emissões para um determinado ano, incluindo eventuais dotações anuais de emissões acumuladas nos termos do artigo 5.º, n.º 3, do presente regulamento, uma quantidade máxima igual à soma do total das remoções líquidas e do total das emissões líquidas provenientes das categorias contabilísticas combinadas de uso do solo incluídas no âmbito do Regulamento (UE) 2018/841 pode ser tida em conta para fins de conformidade nos termos do artigo 9.º do presente regulamento nesse ano, desde que:\n\na) A soma das quantidades tidas em conta para esse Estado-Membro para os anos do período compreendido entre 2021 e 2025 não exceda metade da quantidade máxima do total das remoções líquidas fixada no anexo III do presente regulamento para esse Estado-Membro;\n\na-A) A soma das quantidades tidas em conta para esse Estado-Membro para os anos do período compreendido entre 2026 e 2030 não exceda metade da quantidade máxima do total das remoções líquidas fixada no anexo III do presente regulamento para esse Estado-Membro;\n\nb) Essa quantidade seja superior aos requisitos do Estado-Membro em questão previstos no artigo 4.º do Regulamento (UE) 2018/841;\n\nc) O Estado-Membro não tenha adquirido mais remoções líquidas nos termos do Regulamento (UE) 2018/841 de outros Estados-Membros que aquelas que tenha transferido;\n\nd) O Estado-Membro tenha cumprido o Regulamento (UE) 2018/841; e\n\ne) O Estado-Membro em causa tenha apresentado uma descrição da utilização prevista da flexibilidade disponível ao abrigo do presente número nos termos do artigo 7.º, n.º 1, segundo parágrafo, do Regulamento (UE) n.º 525/2013."
+  },
+  "2096ea004f07833d": {
+   "fragment_id": "Artigo 8.º — Medidas corretivas",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Medidas corretivas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Medidas corretivas\n\n1.\n\nSe a Comissão constatar, após a sua avaliação anual nos termos do artigo 29.º do Regulamento (UE) 2018/1999 e tendo em conta a utilização prevista das flexibilidades a que se referem os artigos 5.º, 6.º e 7.º do presente regulamento, que um Estado-Membro não fez progressos suficientes no cumprimento das obrigações previstas no artigo 4.º do presente regulamento, esse Estado-Membro deve, no prazo de três meses, apresentar à Comissão um plano de medidas corretivas que inclua:\n\na) Uma explicação pormenorizada das razões pelas quais o Estado-Membro em causa não está a fazer progressos suficientes no cumprimento das referidas obrigações;\n\nb) Uma avaliação da forma como o financiamento da União apoiou os esforços envidados pelo Estado-Membro em causa no sentido de cumprir as referidas obrigações e da forma como tenciona utilizar esse financiamento para fazer progressos no cumprimento das mesmas;\n\nc) Medidas adicionais que complementem o plano nacional integrado em matéria de energia e de clima do Estado-Membro em causa, nos termos do Regulamento (UE) 2018/1999, ou reforcem a sua execução, que o Estado-Membro deve executar para cumprir as referidas obrigações, através de políticas e medidas internas e da execução de medidas da União, juntamente com uma avaliação pormenorizada baseada em dados quantitativos, se disponíveis, da redução prevista das emissões de gases com efeito de estufa resultante da execução dessas medidas;\n\nd) Um rigoroso calendário de execução das referidas medidas, que permita a avaliação dos progressos anuais da sua execução.\n\nSe tiver criado um organismo consultivo nacional em matéria de clima, o Estado-Membro pode consultar esse organismo para identificar as medidas necessárias a que se refere a alínea c) do primeiro parágrafo.\n\n2. Em conformidade com o seu programa de trabalho anual, a Agência Europeia do Ambiente deve assistir a Comissão nas suas atividades de avaliação desses planos de medidas corretivas.\n\n3. A Comissão pode emitir parecer sobre a solidez dos planos de medidas corretivas apresentados nos termos do n.º 1 e, nesse caso, deve fazê-lo no prazo de quatro meses a contar da data de receção dos referidos planos. O Estado-Membro em causa deve ter na máxima conta o parecer da Comissão e pode rever o seu plano de medidas corretivas em conformidade. Se não acatar o parecer da Comissão, ou uma parte substancial do mesmo, o Estado-Membro em causa deve apresentar uma justificação à Comissão.\n\n4.\n\nCada Estado-Membro deve disponibilizar ao público o seu plano de medidas corretivas, referido no n.º 1, e eventuais justificações, referidas no n.º 3. A Comissão disponibiliza ao público o seu parecer, referido no n.º 3."
+  },
+  "7614f91df021cd2d": {
+   "fragment_id": "Artigo 9.º — Verificação da conformidade",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Verificação da conformidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Verificação da conformidade\n\n1.\n\nEm 2027 e em 2032, se as emissões de gases com efeito de estufa revistas de um Estado-Membro excederem a sua dotação anual de emissões para um determinado ano do período, tendo em conta o n.º 2 do presente artigo e as flexibilidades utilizadas em conformidade com os artigos 5.º, 6.º e 7.º, são aplicáveis as seguintes medidas:\n\na) Adição ao número de emissões de gases com efeito de estufa do Estado-Membro para o ano seguinte igual à quantidade de emissões de gases com efeito de estufa excedentárias em toneladas de CO2 equivalente, multiplicada por um fator de 1,08, em conformidade com as medidas adotadas nos termos do artigo 12.º; e\n\nb) O Estado-Membro é temporariamente proibido de transferir qualquer parte da sua dotação anual de emissões para outro Estado-Membro até cumprir o disposto no artigo 4.º.\n\nO administrador central deve inscrever a proibição referida na alínea b) do primeiro parágrafo no Registo da União.\n\n2. Se as emissões de gases com efeito de estufa de um Estado-Membro no período compreendido entre 2021 e 2025, referidas no artigo 4.º do Regulamento (UE) 2018/841, excederem as suas remoções, tal como determinado nos termos do artigo 12.º do referido regulamento, o administrador central deduz, das dotações anuais de emissões desse Estado-Membro, uma quantidade igual à dessas emissões de gases com efeito de estufa excedentárias em toneladas de equivalente CO2 para os anos em causa."
+  },
+  "ca519a7c587bc571": {
+   "fragment_id": "Artigo 10.º — Ajustamentos",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Ajustamentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Ajustamentos\n\n1.\n\nA Comissão ajusta as dotações anuais de emissões para cada Estado-Membro nos termos do artigo 4.º do presente regulamento, de modo a refletir:\n\na) Ajustamentos do número de licenças de emissão do CELE emitidas nos termos do artigo 11.º da Diretiva 2003/87/CE que resultaram de uma alteração das fontes abrangidas pelo âmbito de aplicação da referida diretiva, em conformidade com as decisões da Comissão adotadas nos termos dessa diretiva sobre a aprovação final dos planos nacionais de dotação para o período compreendido entre 2008 e 2012;\n\nb) Ajustamentos do número de licenças ou créditos do CELE emitidos, respetivamente, nos termos dos artigos 24.º e 24.º-A da Diretiva 2003/87/CE relativamente às reduções de emissões de gases com efeito de estufa nos Estados-Membros; e\n\nc) Ajustamentos do número de licenças de emissão do CELE relativas a gases com efeito de estufa de instalações excluídas do CELE nos termos do artigo 27.º da Diretiva 2003/87/CE, durante o tempo em que estiverem excluídas.\n\n2. A quantidade constante do anexo IV é aditada à dotação anual de emissões para o ano de 2021 relativamente a cada Estado-Membro mencionado nesse anexo.\n\n3. A Comissão publica os números resultantes dos ajustamentos."
+  },
+  "6a71886c497fb076": {
+   "fragment_id": "Artigo 11.º — Reserva de segurança",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Reserva de segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Reserva de segurança\n\n1. É estabelecida no Registo da União uma reserva de segurança correspondente a uma quantidade máxima de 105 milhões de toneladas de equivalente CO2, sob reserva de ser atingida a meta da União referida no artigo 1.º. A reserva de segurança deve estar disponível em complemento das flexibilidades previstas nos artigos 5.º, 6.º e 7.º.\n\n2.\n\nUm Estado-Membro pode beneficiar da reserva de segurança, desde que estejam preenchidas todas as seguintes condições:\n\na) Ter tido um PIB *per capita*, a preços de mercado em 2013, publicado pelo EUROSTAT em abril de 2016, inferior à média da União;\n\nb) As suas emissões cumulativas de gases com efeito de estufa para os anos de 2013 a 2020 nos setores abrangidos pelo presente regulamento são inferiores às suas dotações anuais de emissões cumulativas para os anos de 2013 a 2020; e\n\nc) As suas emissões ultrapassam as suas dotações anuais de emissões para o período compreendido entre 2026 e 2030, apesar de o Estado-Membro:\n\ni) ter esgotado as flexibilidades previstas no artigo 5.º, n.^os^ 2 e 3;\n\nii) ter utilizado, em toda a medida do possível, as remoções líquidas nos termos do artigo 7.º, mesmo que a quantidade utilizada não atinja o nível fixado no anexo III; e\n\niii) não ter efetuado quaisquer transferências líquidas para outros Estados-Membros nos termos do artigo 5.º.\n\n3. Um Estado-Membro que preencha as condições estabelecidas no n.º 2 do presente artigo recebe uma quantidade adicional da reserva de segurança que corresponde, no máximo, ao valor do seu défice e que deve ser utilizada para fins de conformidade nos termos do artigo 9.º. Essa quantidade não pode exceder 20 % do seu sobre cumprimento global no período compreendido entre 2013 e 2020.\n\nSe a resultante quantidade coletiva a receber por todos os Estados-Membros que satisfaçam as condições estabelecidas no n.º 2 do presente artigo exceder o limite referido no n.º 1 do presente artigo, a quantidade a receber por cada um desses Estados-Membros é reduzida numa base *pro rata*.\n\n4. Qualquer quantidade remanescente na reserva de segurança após a distribuição nos termos do primeiro parágrafo do n.º 3 é distribuída pelos Estados-Membros referidos nesse parágrafo proporcionalmente ao seu défice remanescente, mas sem o exceder. Para cada um desses Estados-Membros, essa quantidade pode acrescer à percentagem referida nesse parágrafo.\n\n5. Após a conclusão da análise referida no artigo 19.º do Regulamento (UE) n.º 525/2013 para 2020, a Comissão publica, relativamente a cada Estado-Membro que satisfaça as condições referidas no n.º 2, alíneas a) e b), do presente artigo, as quantidades correspondentes a 20 % do sobre cumprimento global no período compreendido entre 2013 e 2020, conforme referidas no n.º 3, primeiro parágrafo do presente artigo."
+  },
+  "9cd126e415afcc0e": {
+   "fragment_id": "Artigo 12.º — Registo",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Registo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Registo\n\n1.\n\nA Comissão adota atos delegados, nos termos do artigo 13.º, no que diz respeito a complementar o presente regulamento, a fim de assegurar uma contabilização exata em cumprimento do presente regulamento por meio do Registo da União, no que se refere a:\n\na) Dotações anuais de emissões;\n\nb) Flexibilidades exercidas nos termos dos artigos 5.º, 6.º e 7.º;\n\nc) Verificações de conformidade nos termos do artigo 9.º;\n\nd) Ajustamentos nos termos do artigo 10.º; e\n\ne) Reserva de segurança nos termos do artigo 11.º.\n\n2. O administrador central deve proceder a um controlo automático de cada operação no Registo da União, realizada ao abrigo do presente regulamento e, se necessário, deve proceder ao bloqueamento de operações para assegurar que não se verifiquem irregularidades.\n\n3. As informações referidas no n.º 1, alíneas a) a e), e no n.º 2 devem ser acessíveis ao público."
+  },
+  "515d0258aa54ac0b": {
+   "fragment_id": "Artigo 13.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 7.º, n.º 2, e no artigo 12.º, n.º 1, é conferido à Comissão por um prazo de cinco anos a contar de 9 de julho de 2018. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de cinco anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 7.º, n.º 2, e no artigo 12.º, n.º 1, pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou numa data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro, de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016 sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 7.º, n.º 2, e do artigo 12.º, n.º 1, só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. Esse prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "b52d6a40650e22c7": {
+   "fragment_id": "Artigo 14.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Procedimento de comité\n\n1. A Comissão é assistida pelo Comité das Alterações Climáticas criado pelo Regulamento (UE) n.º 525/2013. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 5.º do Regulamento (UE) n.º 182/2011."
+  },
+  "f9198cc8d56458e1": {
+   "fragment_id": "Artigo 15. — Revisão",
+   "type": "artigo",
+   "heading": "Artigo 15. — Revisão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15. — Revisão\n\n1. O presente regulamento é periodicamente revisto, tendo em conta, nomeadamente, a evolução da situação a nível nacional, o modo como todos os sectores da economia contribuem para a redução das emissões de gases com efeito de estufa, a evolução internacional e os esforços desenvolvidos para alcançar os objetivos de longo prazo do Acordo de Paris e do Regulamento (UE) 2021/1119.\n\n2. A Comissão deve apresentar ao Parlamento Europeu e ao Conselho, no prazo de seis meses após cada balanço global acordado nos termos do artigo 14.º do Acordo de Paris, um relatório sobre o funcionamento do presente regulamento, nomeadamente o equilíbrio entre a oferta e a procura de dotações anuais de emissões, e sobre a adequação das metas nacionais de redução das emissões de gases com efeito de estufa constantes do anexo I do presente regulamento no que diz respeito ao seu contributo para os objetivos da União em matéria de clima nos termos do Regulamento (UE) 2021/1119 e para os objetivos do Acordo de Paris. Esse relatório inclui, em particular, uma avaliação da necessidade de adotar políticas e medidas adicionais da União tendo em vista as necessárias reduções das emissões de gases com efeito de estufa por parte da União e dos seus Estados-Membros num quadro pós-2030. Esse relatório inclui também uma avaliação de uma trajetória de redução das emissões de gases com efeito de estufa abrangidas pelo presente regulamento que seja compatível com o objetivo de alcançar a neutralidade climática até 2050, tendo em conta o projeto de orçamento indicativo da União em matéria de gases com efeito de estufa referido no artigo 4.º, n.º 4, do Regulamento (UE) 2021/1119, bem como a importância de promover a equidade e a solidariedade entre os Estados-Membros e a eficácia em termos de custos na consecução deste objetivo. Esse relatório pode ser acompanhado, se for caso disso, de propostas legislativas.\n\nOs relatórios a que se refere o primeiro parágrafo têm em conta as estratégias de longo prazo dos Estados-Membros elaboradas e apresentadas nos termos do artigo 15.º, n.º 1, do Regulamento (UE) 2018/1999, bem como a avaliação das mesmas efetuada pela Comissão nos termos do artigo 15.º, n.º 9, desse regulamento."
+  },
+  "ae68d51238a61337": {
+   "fragment_id": "Artigo 15.º-A — Aconselhamento científico",
+   "type": "artigo",
+   "heading": "Artigo 15.º-A — Aconselhamento científico",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º-A — Aconselhamento científico\n\nO Conselho Consultivo Científico Europeu sobre as Alterações Climáticas criado ao abrigo do artigo 10.º-A do Regulamento (CE) n.º 401/2009 do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0003)) («Conselho Consultivo») pode, por sua iniciativa, prestar aconselhamento científico ou produzir relatórios sobre as medidas, as metas climáticas, os níveis anuais de emissões e as flexibilidades da União nos termos do presente regulamento. A Comissão tem em conta o aconselhamento e os relatórios pertinentes do Conselho Consultivo, nomeadamente no que diz respeito às medidas futuras destinadas a reduzir ainda mais as emissões de gases com efeito de estufa nos sectores abrangidos pelo presente regulamento."
+  },
+  "67fe83c838f995a4": {
+   "fragment_id": "Artigo 16.º — Alterações do Regulamento (UE) n.º 525/2013",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Alterações do Regulamento (UE) n.º 525/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Alterações do Regulamento (UE) n.º 525/2013\n\nO Regulamento (UE) n.º 525/2013 é alterado do seguinte modo:\n\n1) No artigo 7.º, o n.º 1, é alterado do seguinte modo:\n\na) É inserida a seguinte alínea:\n\n«a-A) A partir de 2023, as suas emissões antropogénicas de gases com efeito de estufa referidas no artigo 2.º do Regulamento (UE) 2018/842 do Parlamento Europeu e do Conselho ([^*1^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#E0004)) em relação ao ano X-2, de acordo com os requisitos de comunicação da CQNUAC;\n\nb) O segundo parágrafo passa a ter a seguinte redação:\n\n«Nos seus relatórios, os Estados-Membros informam, todos os anos, a Comissão, da intenção de recorrer às flexibilidades previstas no artigo 5.º, n.^os^ 4 e 5 e no artigo 7.º do Regulamento (UE) 2018/842, bem como da utilização das receitas nos termos do artigo 5.º, n.º 6, desse regulamento. No prazo de três meses a contar da receção dessa informação dos Estados-Membros, a Comissão faculta essa informação ao comité referido no artigo 26.º do presente regulamento.»;\n\n2) No artigo 13.º n.º 1, à alínea c), é aditada a seguinte subalínea:\n\n«ix) a partir de 2023, informações sobre as políticas e medidas nacionais aplicadas para cumprir as suas obrigações decorrentes do Regulamento (UE) 2018/842, bem como informações sobre as políticas e medidas nacionais suplementares planeadas com vista a limitar as emissões de gases com efeito de estufa para além dos seus compromissos nos termos do referido regulamento;»;\n\n3) Ao artigo 14.º n.º 1, é aditada a seguinte alínea:\n\n«f) A partir de 2023, projeções do total de gases com efeito de estufa, bem como estimativas separadas das projeções de emissões de gases com efeito de estufa provenientes de fontes de emissões abrangidas pelo Regulamento (UE) 2018/842 e pela Diretiva 2003/87/CE.»;\n\n4) Ao artigo 21.º, n.º 1, é aditada a seguinte alínea:\n\n«c) Obrigações decorrentes do artigo 4.º do Regulamento (UE) 2018/842. A avaliação deve ter em conta os progressos realizados a nível das políticas e medidas da União, bem como informações prestadas pelos Estados-Membros. De dois em dois anos, a avaliação deve também incluir os progressos previstos da União na execução das suas contribuições nacionalmente determinadas para o Acordo de Paris, que inclui o compromisso assumido pela União no sentido de reduzir as emissões de gases com efeito de estufa em toda a economia, bem como os progressos previstos dos seus Estados-Membros no cumprimento das suas obrigações decorrentes do referido regulamento.»."
+  },
+  "6cafacf9ecdee3ce": {
+   "fragment_id": "Artigo 17.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "f919c3b54045776c": {
+   "fragment_id": "REDUÇÕES DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA DOS ESTADOS-MEMBROS NOS TERMOS DO Artigo 4.º, N.º 1",
+   "type": "divisao",
+   "heading": "REDUÇÕES DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA DOS ESTADOS-MEMBROS NOS TERMOS DO Artigo 4.º, N.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### REDUÇÕES DAS EMISSÕES DE GASES COM EFEITO DE ESTUFA DOS ESTADOS-MEMBROS NOS TERMOS DO Artigo 4.º, N.º 1\n\n|  | Reduções das emissões de gases com efeito de estufa dos Estados-Membros em 2030, em comparação com os seus níveis de 2005, determinadas em conformidade com o artigo 4.º, n.º 3 |  |\n| --- | --- | --- |\n|  | Coluna 1 | Coluna 2 |\n| Bélgica | -35 % | -47 % |\n| Bulgária | -0 % | -10 % |\n| Chéquia | -14 % | -26 % |\n| Dinamarca | -39 % | -50 % |\n| Alemanha | -38 % | -50 % |\n| Estónia | -13 % | -24 % |\n| Irlanda | -30 % | -42 % |\n| Grécia | -16 % | -22,7 % |\n| Espanha | -26 % | -37,7 % |\n| França | -37 % | -47,5 % |\n| Croácia | -7 % | -16,7 % |\n| Itália | -33 % | -43,7 % |\n| Chipre | -24 % | -32 % |\n| Letónia | -6 % | -17 % |\n| Lituânia | -9 % | -21 % |\n| Luxemburgo | -40 % | -50 % |\n| Hungria | -7 % | -18,7 % |\n| Malta | -19 % | -19 % |\n| Países Baixos | -36 % | -48 % |\n| Áustria | -36 % | -48 % |\n| Polónia | -7 % | -17,7 % |\n| Portugal | -17 % | -28,7 % |\n| Roménia | -2 % | -12,7 % |\n| Eslovénia | -15 % | -27 % |\n| Eslováquia | -12 % | -22,7 % |\n| Finlândia | -39 % | -50 % |\n| Suécia | -40 % | -50 % |"
+  },
+  "c8be52757c126730": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II\n\n|  | Percentagem máxima de emissões de gases com efeito de estufa de 2005, determinada em conformidade com o artigo 4.º, n.º 3 |\n| --- | --- |\n| Bélgica | 2 % |\n| Dinamarca | 2 % |\n| Irlanda | 4 % |\n| Luxemburgo | 4 % |\n| [▼M1](http://publications.europa.eu/resource/celex/32023R0857) |  |\n| Malta | 7 % |\n| [▼B](http://publications.europa.eu/resource/celex/32018R0842) |  |\n| Países Baixos | 2 % |\n| Áustria | 2 % |\n| Finlândia | 2 % |\n| Suécia | 2 % |"
+  },
+  "64cf7f435fc255e7": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III\n\n|  | Quantidade máxima expressa em milhões de toneladas de equivalente CO2 |\n| --- | --- |\n| Bélgica | 3,8 |\n| Bulgária | 4,1 |\n| República Checa | 2,6 |\n| Dinamarca | 14,6 |\n| Alemanha | 22,3 |\n| Estónia | 0,9 |\n| Irlanda | 26,8 |\n| Grécia | 6,7 |\n| Espanha | 29,1 |\n| França | 58,2 |\n| Croácia | 0,9 |\n| Itália | 11,5 |\n| Chipre | 0,6 |\n| Letónia | 3,1 |\n| Lituânia | 6,5 |\n| Luxemburgo | 0,25 |\n| Hungria | 2,1 |\n| Malta | 0,03 |\n| Países Baixos | 13,4 |\n| Áustria | 2,5 |\n| Polónia | 21,7 |\n| Portugal | 5,2 |\n| Roménia | 13,2 |\n| Eslovénia | 1,3 |\n| Eslováquia | 1,2 |\n| Finlândia | 4,5 |\n| Suécia | 4,9 |\n| [▼M1](http://publications.europa.eu/resource/celex/32023R0857) ————— |  |\n| [▼B](http://publications.europa.eu/resource/celex/32018R0842) |  |\n| Total máximo: | [**►M1**](http://publications.europa.eu/resource/celex/32023R0857) 262,2 **◄** |"
+  },
+  "89e4b38133f317cd": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV\n\nToneladas de equivalente CO2\n\nBulgária 1 602 912\n\nRepública Checa 4 440 079\n\nEstónia 145 944\n\nCroácia 1 148 708\n\nLetónia 1 698 061\n\nLituânia 2 165 895\n\nHungria 6 705 956\n\nMalta 774 000\n\nPolónia 7 456 340\n\nPortugal 1 655 253\n\nRoménia 10 932 743\n\nEslovénia 178 809\n\nEslováquia 2 160 210\n\n---"
+  },
+  "8d56c444475372bb": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) 2021/1119 do Parlamento Europeu e do Conselho, de 30 de junho de 2021, que cria o regime para alcançar a neutralidade climática e que altera os Regulamentos (CE) n.º 401/2009 e (UE) 2018/1999 («Lei europeia em matéria de clima») (JO L 243 de 9.7.2021, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Regulamento (UE) 2018/1999 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativo à Governação da União da Energia e da Ação Climática, que altera os Regulamentos (CE) n.º 663/2009 e (CE) n.º 715/2009 do Parlamento Europeu e do Conselho, as Diretivas 94/22/CE, 98/70/CE, 2009/31/CE, 2009/73/CE, 2010/31/UE, 2012/27/UE e 2013/30/UE do Parlamento Europeu e do Conselho, as Diretivas 2009/119/CE e (UE) 2015/652 do Conselho, e revoga o Regulamento (UE) n.º 525/2013 do Parlamento Europeu e do Conselho (JO L 328 de 21.12.2018, p. 1).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Regulamento (CE) n.º 401/2009 do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativo à Agência Europeia do Ambiente e à Rede Europeia de Informação e de Observação do Ambiente (JO L 126 de 21.5.2009, p. 13).\n\n> ([^*1^](http://publications.europa.eu/resource/cellar/9bf6aa2f-ee88-11ed-a05c-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Regulamento (UE) 2018/842 do Parlamento Europeu e do Conselho, de 30 de maio de 2018, relativo às reduções anuais obrigatórias das emissões de gases com efeito de estufa pelos Estados-Membros entre 2021 e 2030 como contributo para a ação climática a fim de cumprir os compromissos assumidos no âmbito do Acordo de Paris e que altera o Regulamento (UE) n.º 525/2013 (JO L 156 de 19.6.2018, p. 26).»;"
+  }
+ }
+}

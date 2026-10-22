@@ -35,6 +35,27 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-04-23'
+version_history:
+  file: decisao-ue-2020-491.versoes.json
+  count: 3
+  source_lastmod: '2021-04-23'
+  versions:
+  - date: '2020-07-27'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-10-29'
+    amending: eu:celex:32020D1573:por
+    amending_title: DECISÃO (UE) 2020/1573 DA COMISSÃO de 28 de outubro de 2020
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
+  - date: '2021-04-23'
+    amending: eu:celex:32021D0660:por
+    amending_title: DECISÃO (UE) 2021/660 DA COMISSÃO de 19 de abril de 2021
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 3.º
 identifiers:
   celex: 32020D0491
   eli: http://data.europa.eu/eli/dec/2020/491/oj
@@ -49,7 +70,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/534193cb-75ad-11ea-a07e-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/f81748bb-b2f1-11eb-8aca-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020D0491-20210423
-  retrieved_at: '2026-10-22T03:19:19Z'
+  retrieved_at: '2026-10-22T17:10:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-17T05:43:19.168+02:00'
 integrity:
@@ -58,9 +79,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:19Z'
-  notes: Texto consolidado 02020D0491-20210423.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:27Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2020-491.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -114,30 +135,19 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:19Z'
-  warnings: []
+  checked_at: '2026-10-22T17:10:27Z'
+  warnings:
+  - '02020D0491-20200403: versão indisponível (Sem expressão na língua por para CELEX 02020D0491-20200403.)'
   errors: []
 ---
 
 # Decisão (UE) 2020/491 da Comissão de 3 de abril de 2020
-
-> 02020D0491 — PT — 23.04.2021 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32020D1101) — [DECISÃO (EU) 2020/1101 DA COMISSÃO de 23 de julho de 2020](http://publications.europa.eu/resource/celex/32020D1101) — L 241 — 36 — 27.7.2020
-- [►M2](http://publications.europa.eu/resource/celex/32020D1573) — [DECISÃO (UE) 2020/1573 DA COMISSÃO de 28 de outubro de 2020](http://publications.europa.eu/resource/celex/32020D1573) — L 359 — 8 — 29.10.2020
-- [►M3](http://publications.europa.eu/resource/celex/32021D0660) — [DECISÃO (UE) 2021/660 DA COMISSÃO de 19 de abril de 2021](http://publications.europa.eu/resource/celex/32021D0660) — L 140 — 10 — 23.4.2021
-
-## DECISÃO (UE) 2020/491 DA COMISSÃO
 
 de 3 de abril de 2020
 

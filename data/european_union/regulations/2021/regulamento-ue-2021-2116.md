@@ -37,6 +37,112 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-18'
+version_history:
+  file: regulamento-ue-2021-2116.versoes.json
+  count: 5
+  source_lastmod: '2026-08-18'
+  versions:
+  - date: '2021-12-06'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-08-26'
+    amending: eu:celex:32022R1408:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1408 DA COMISSÃO de 16 de junho de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Despesas do FEAGA
+    - Altera Artigo 7.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 12.º — Organismos de certificação
+    - Altera Artigo 44.º — Pagamento aos beneficiários
+    - Altera Artigo 59.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 65.º — Âmbito de aplicação e definições relativas ao presente capítulo
+    - Altera Artigo 66.º — Elementos do sistema integrado
+    - Altera Artigo 67.º — Manutenção e partilha de dados
+    - Altera Artigo 83.º — Sistema de controlo da condicionalidade
+    - Altera Artigo 104.º — Revogação
+    - Altera Notas
+  - date: '2024-05-25'
+    amending: eu:celex:32024R1468:por
+    amending_title: REGULAMENTO (UE) 2024/1468 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Despesas do FEAGA
+    - Altera Artigo 7.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 12.º — Organismos de certificação
+    - Altera Artigo 59.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 65.º — Âmbito de aplicação e definições relativas ao presente capítulo
+    - Altera Artigo 66.º — Elementos do sistema integrado
+    - Altera Artigo 67.º — Manutenção e partilha de dados
+    - Altera Artigo 83.º — Sistema de controlo da condicionalidade
+    - Altera Artigo 84.º — Regime de sanções administrativas no âmbito da condicionalidade
+    - Altera Artigo 104.º — Revogação
+    - Altera Notas
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2649:por
+    amending_title: REGULAMENTO (UE) 2025/2649 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Despesas do FEAGA
+    - Altera Artigo 7.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 9.º — Organismos pagadores
+    - Altera Artigo 10.º — Organismos de coordenação
+    - Altera Artigo 12.º — Organismos de certificação
+    - Altera Artigo 21.º — Procedimento para os pagamentos mensais
+    - Altera Artigo 32.º — Pagamentos intercalares
+    - Altera Artigo 40.º — Suspensão dos pagamentos no âmbito do apuramento anual
+    - Altera Artigo 44.º — Pagamento aos beneficiários
+    - Altera Artigo 45.º — Afetação das receitas
+    - Altera Artigo 53.º — Apuramento financeiro anual
+    - Altera Artigo 57.º — Disposições específicas para o FEADER
+    - Altera Artigo 59.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 60.º — Regras relativas aos controlos a efetuar
+    - Altera Artigo 65.º — Âmbito de aplicação e definições relativas ao presente capítulo
+    - Altera Artigo 66.º — Elementos do sistema integrado
+    - Altera Artigo 67.º — Manutenção e partilha de dados
+    - Altera Artigo 68.º — Sistema de identificação das parcelas agrícolas
+    - Altera Artigo 69.º — Sistema de pedido geoespacial e com base nos animais
+    - Altera Artigo 70.º — Sistema de vigilância de superfícies
+    - Altera Artigo 74.º — Poderes delegados da Comissão relacionados com o sistema integrado
+    - Altera Artigo 83.º — Sistema de controlo da condicionalidade
+    - Altera Artigo 84.º — Regime de sanções administrativas no âmbito da condicionalidade
+    - Altera Artigo 102.º — Exercício da delegação
+    - Altera Artigo 103.º — Procedimento de comité
+    - Altera Artigo 104.º — Revogação
+    - Altera Notas
+    - Adita «Artigo 70.º-A
+    - Adita Artigo 72.º
+    - Adita Artigo 75.º
+    - Suprime Artigo 54.º — Apuramento anual do desempenho
+    - Suprime Artigo 72.º — Sistema de controlo e sanções
+    - Suprime Artigo 75.º — Competências de execução em matérias abrangidas pelos artigos 68.º, 69.º e 70.º
+  - date: '2026-08-18'
+    amending: eu:celex:32026R1768:por
+    amending_title: REGULAMENTO (UE) 2026/1768 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2026; REGULAMENTO (UE)
+      2026/1739 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Despesas do FEAGA
+    - Altera Artigo 7.º — Outras despesas, incluindo assistência técnica
+    - Altera Artigo 12.º — Organismos de certificação
+    - Altera Artigo 16.º — Reserva agrícola
+    - Altera Artigo 21.º — Procedimento para os pagamentos mensais
+    - Altera Artigo 35.º — Exercício financeiro agrícola
+    - Altera Artigo 44.º — Pagamento aos beneficiários
+    - Altera Artigo 59.º — Proteção dos interesses financeiros da União
+    - Altera Artigo 65.º — Âmbito de aplicação e definições relativas ao presente capítulo
+    - Altera Artigo 66.º — Elementos do sistema integrado
+    - Altera Artigo 67.º — Manutenção e partilha de dados
+    - Altera Artigo 83.º — Sistema de controlo da condicionalidade
+    - Altera Artigo 104.º — Revogação
+    - Altera Notas
+    - Adita «Artigo 70.º-A — Avaliação da qualidade do sistema de identificação das parcelas agrícolas, do sistema de pedido
+      geoespacial e do sistema de vigilância de superfícies
+    - Adita Artigo 72.º — Sistema de controlo e sanções
+    - Adita Artigo 75.º — Competências de execução em matérias abrangidas pelos artigos 68.º a 70.º-A
+    - Suprime «Artigo 70.º-A
+    - Suprime Artigo 72.º
+    - Suprime Artigo 75.º
 identifiers:
   celex: 32021R2116
   eli: http://data.europa.eu/eli/reg/2021/2116/oj
@@ -51,7 +157,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/91b120e8-5636-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/51c62c72-95bf-11f1-9262-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2116-20260818
-  retrieved_at: '2026-10-22T02:34:40Z'
+  retrieved_at: '2026-10-22T17:15:00Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T23:04:00.975+01:00'
 integrity:
@@ -60,9 +166,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:34:40Z'
-  notes: Texto consolidado 02021R2116-20260818.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:00Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2021-2116.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -626,38 +732,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/1dc2a025-6c04-11e3-9afb-01aa75ed71a1
   date: '2013-12-23'
 article_structure:
-  article_count: 106
-  section_count: 64
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 105
+  section_count: 66
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:34:40Z'
+  checked_at: '2026-10-22T17:15:00Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/2116 do Parlamento Europeu e do Conselho de 2 de dezembro de 2021
-
-> 02021R2116 — PT — 18.08.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R1408) — [REGULAMENTO DELEGADO (UE) 2022/1408 DA COMISSÃO de 16 de junho de 2022](http://publications.europa.eu/resource/celex/32022R1408) — L 216 — 1 — 19.8.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R1468) — [REGULAMENTO (UE) 2024/1468 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1468) — L 1468 — 1 — 24.5.2024
-- [►M3](http://publications.europa.eu/resource/celex/32025R2649) — [REGULAMENTO (UE) 2025/2649 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2649) — L 2649 — 1 — 31.12.2025
-- [►M4](http://publications.europa.eu/resource/celex/32026R1768) — [REGULAMENTO (UE) 2026/1768 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1768) — L 1768 — 1 — 21.7.2026
-- [►M5](http://publications.europa.eu/resource/celex/32026R1739) — [REGULAMENTO (UE) 2026/1739 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1739) — L 1739 — 1 — 29.7.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R2116R%2801%29) — [Rectificação, JO L 029, 10.2.2022, p. 45 (2021/2116)](http://publications.europa.eu/resource/celex/32021R2116R%2801%29)
-
-## REGULAMENTO (UE) 2021/2116 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 2 de dezembro de 2021
 

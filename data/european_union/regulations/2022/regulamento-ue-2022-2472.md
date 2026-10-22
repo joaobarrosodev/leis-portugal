@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-12-13'
+version_history:
+  file: regulamento-ue-2022-2472.versoes.json
+  count: 1
+  source_lastmod: '2023-12-13'
+  versions:
+  - date: '2023-12-13'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32022R2472
   eli: http://data.europa.eu/eli/reg/2022/2472/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aa75cb37-80d1-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/3c9c4ed3-a599-11ee-b164-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2472-20231213
-  retrieved_at: '2026-10-22T02:35:42Z'
+  retrieved_at: '2026-10-22T17:16:12Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T15:10:15.955+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:42Z'
-  notes: Texto consolidado 02022R2472-20231213.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:12Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2022-2472.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -452,29 +461,20 @@ relationships:
   date: '2024-03-20'
 article_structure:
   article_count: 70
-  section_count: 31
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 32
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:42Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:12Z'
+  warnings:
+  - '02022R2472-20221221: versão indisponível (Sem expressão na língua por para CELEX 02022R2472-20221221.)'
   errors: []
 ---
 
 # Regulamento (UE) 2022/2472 da Comissão, de 14 de dezembro de 2022
-
-> 02022R2472 — PT — 13.12.2023 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2607) — [REGULAMENTO (UE) 2023/2607 DA COMISSÃO de 22 de novembro de 2023](http://publications.europa.eu/resource/celex/32023R2607) — L — 1 — 23.11.2023
-
-## REGULAMENTO (UE) 2022/2472 DA COMISSÃO
 
 de 14 de dezembro de 2022
 

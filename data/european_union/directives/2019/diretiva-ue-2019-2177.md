@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2019-12-27'
+version_history:
+  file: diretiva-ue-2019-2177.versoes.json
+  count: 1
+  source_lastmod: '2019-12-27'
+  versions:
+  - date: '2019-12-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32019L2177
   eli: http://data.europa.eu/eli/dir/2019/2177/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/59e709dc-288b-11ea-af81-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/0cc00f52-0d75-11eb-bc07-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L2177-20191227
-  retrieved_at: '2026-10-22T03:01:08Z'
+  retrieved_at: '2026-10-22T17:07:50Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T20:14:16.930+01:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:08Z'
-  notes: Texto consolidado 02019L2177-20191227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:50Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2019-2177.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -166,29 +175,19 @@ relationships:
   date: '2024-06-19'
 article_structure:
   article_count: 6
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:08Z'
+  checked_at: '2026-10-22T17:07:50Z'
   warnings: []
   errors: []
 ---
 
 # Directiva (UE) 2019/2177 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2019
-
-> 02019L2177 — PT — 27.12.2019 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019L2177R%2801%29) — [Rectificação, JO L 303, 17.9.2020, p. 23 (2019/2177)](http://publications.europa.eu/resource/celex/32019L2177R%2801%29)
-
-## DIRECTIVA (UE) 2019/2177 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de dezembro de 2019
 

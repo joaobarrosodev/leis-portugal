@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-02-01'
+version_history:
+  file: regulamento-ue-2022-2578.versoes.json
+  count: 1
+  source_lastmod: '2024-02-01'
+  versions:
+  - date: '2024-02-01'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32022R2578
   eli: http://data.europa.eu/eli/reg/2022/2578/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/29cd111a-874d-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/ff2ed646-ba30-11ee-b164-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2578-20240201
-  retrieved_at: '2026-10-22T03:20:18Z'
+  retrieved_at: '2026-10-22T17:16:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T21:57:21.215+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:18Z'
-  notes: Texto consolidado 02022R2578-20240201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:15Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2022-2578.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,29 +163,20 @@ relationships:
   date: '2024-01-17'
 article_structure:
   article_count: 12
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:18Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:15Z'
+  warnings:
+  - '02022R2578-20221229: versão indisponível (Sem expressão na língua por para CELEX 02022R2578-20221229.)'
   errors: []
 ---
 
 # Regulamento (UE) 2022/2578 do Conselho de 22 de dezembro de 2022
-
-> 02022R2578 — PT — 01.02.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2920) — [REGULAMENTO (UE) 2023/2920 DO CONSELHO de 21 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2920) — L — 1 — 29.12.2023
-
-## REGULAMENTO (UE) 2022/2578 DO CONSELHO
 
 de 22 de dezembro de 2022
 

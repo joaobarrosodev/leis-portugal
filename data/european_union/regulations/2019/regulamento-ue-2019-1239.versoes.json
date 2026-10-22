@@ -1,0 +1,660 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019R1239:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1239-20250815",
+ "dre_path": null,
+ "source_lastmod": "2025-08-15",
+ "versions": [
+  {
+   "date": "2019-07-25",
+   "future": false,
+   "celex": "32019R1239",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "e374a82e9c7f72c3",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d701d6b1a2c10b2b",
+    "50abfaf43c9dbbf8",
+    "f0f8c960bfdbce9b",
+    "765349cd30855503",
+    "a3e9520b00b8b50a",
+    "400ec37e27bab4a7",
+    "1e7a0903d2eed348",
+    "a8eff083217aafdb",
+    "0247a6f0605c411a",
+    "114efb7f0b3ca7aa",
+    "3ac2c9568ee0e3db",
+    "fde69904bc95a6f9",
+    "a690c184b24edb63",
+    "c38ef6183f7d4fc0",
+    "515256a6d3207f78",
+    "1ecfc79da3f1ac7f",
+    "cefea6af77b217cf",
+    "3204cb5f6c98d37a",
+    "2edd9b4e6885a5d0",
+    "846a4d6d23b56ed5",
+    "1b8f73f67381aa05",
+    "daf876bb6fe690b4",
+    "33c72cafbf804561",
+    "40ed6b62e188ac6f",
+    "880cdcca947ed85d",
+    "e5765330f9efcb5b",
+    "5746f1533fd218d5",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "f369ad681094907d",
+    "cab9fe982a020878",
+    "a863574c8da948af",
+    "513f8ba083fef518",
+    "ea2e40adc3d5b07d",
+    "ac70240a2fb79b37",
+    "1883b557ef436c0f",
+    "86461238e9d6a76b"
+   ]
+  },
+  {
+   "date": "2025-08-15",
+   "future": false,
+   "celex": "02019R1239-20250815",
+   "acts": [
+    {
+     "id": "eu:celex:32023R0205:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2023/205 DA COMISSÃO de 7 de novembro de 2022",
+     "published": null,
+     "celex": "32023R0205"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 15.º — Base de dados comum de localização",
+    "Altera Artigo 26.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita ANEXO",
+    "Adita OBRIGAÇÕES DE DECLARAÇÃO",
+    "Adita A. Obrigações de declaração decorrentes de atos jurídicos da União",
+    "Adita A1 - Notificação aplicável aos navios à chegada e/ou à partida de portos dos Estados-Membros",
+    "Adita A2 - Controlos fronteiriços de pessoas",
+    "Adita A3 - Notificação de mercadorias perigosas ou poluentes transportadas a bordo",
+    "Adita A4.1 - Notificação prévia de resíduos",
+    "Adita A4.2 - Nota de recebimento de resíduos",
+    "Adita A5 - Informações de segurança do navio antes da chegada",
+    "Adita A6.1 - Número de pessoas que viajam em navios de passageiros",
+    "Adita A6.2 - Informações sobre as pessoas que viajam em navios de passageiros",
+    "Adita A7 - Formalidades aduaneiras",
+    "Adita A8 - Carga e descarga de navios graneleiros em segurança",
+    "Adita A9 - Notificação de chegada de navios elegíveis para inspeção alargada",
+    "Adita A10 - Estatísticas do transporte marítimo",
+    "Adita B. Documentos FAL e obrigações de declaração decorrentes de instrumentos jurídicos internacionais",
+    "Adita C. Obrigações de declaração decorrentes da legislação e dos requisitos nacionais"
+   ],
+   "fragments": [
+    "91e709320b5592f9",
+    "226c39ffd0a88dad",
+    "e17a2adcfbbdd4cc",
+    "d701d6b1a2c10b2b",
+    "7e0af7bdedac39a9",
+    "f0f8c960bfdbce9b",
+    "765349cd30855503",
+    "a3e9520b00b8b50a",
+    "400ec37e27bab4a7",
+    "1e7a0903d2eed348",
+    "a8eff083217aafdb",
+    "e512ce4c0a35e056",
+    "114efb7f0b3ca7aa",
+    "3ac2c9568ee0e3db",
+    "fde69904bc95a6f9",
+    "a690c184b24edb63",
+    "c38ef6183f7d4fc0",
+    "515256a6d3207f78",
+    "1ecfc79da3f1ac7f",
+    "cefea6af77b217cf",
+    "3204cb5f6c98d37a",
+    "2edd9b4e6885a5d0",
+    "846a4d6d23b56ed5",
+    "0ad95852063b53e3",
+    "daf876bb6fe690b4",
+    "33c72cafbf804561",
+    "40ed6b62e188ac6f",
+    "880cdcca947ed85d",
+    "e5765330f9efcb5b",
+    "5746f1533fd218d5",
+    "b76d202a844f758e",
+    "dde9cf53e9ae6c9a",
+    "f369ad681094907d",
+    "cab9fe982a020878",
+    "a863574c8da948af",
+    "513f8ba083fef518",
+    "ea2e40adc3d5b07d",
+    "ac70240a2fb79b37",
+    "a6073e8751badac1",
+    "10220b9774fa9034",
+    "dcb0842016253ec6",
+    "d4965e8f7fa74108",
+    "c0b5749f60ddf9ab",
+    "2fc3593f11c30018",
+    "bfa6a9795062ccad",
+    "1a31464b4e572844",
+    "2b9cf7b6b088ab30",
+    "e3c0814977f30ad1",
+    "c9fa197364b9897f",
+    "b572e2cba23416be",
+    "51d42040129e9849",
+    "0971e7d3db3cd37a",
+    "fea51cd0cc1baa9e",
+    "46894b995bbe270c",
+    "1745655a9257ac08",
+    "445dffb34d7cb7cc",
+    "8335d5de69d002ef"
+   ]
+  }
+ ],
+ "fragments": {
+  "e374a82e9c7f72c3": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de junho de 2019\n\nque estabelece um ambiente europeu de plataforma única para o setor marítimo e que revoga a Diretiva 2010/65/UE\n\nO PARLAMENTO EUROPEU E O CONSELHO DA UNIÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia, nomeadamente o artigo 100.º, n.º 2,\n\nTendo em conta a proposta da Comissão Europeia,\n\nApós transmissão do projeto de ato legislativo aos parlamentos nacionais,\n\nTendo em conta o parecer do Comité Económico e Social Europeu [([^1])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr1-L_2019198PT.01006401-E0001),\n\nApós consulta ao Comité das Regiões,\n\nDeliberando de acordo com o processo legislativo ordinário [([^2])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr2-L_2019198PT.01006401-E0002),\n\nConsiderando o seguinte:\n\n(1) A Diretiva 2010/65/UE do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr3-L_2019198PT.01006401-E0003) obriga os Estados-Membros a aceitar o cumprimento das obrigações de declaração exigidas aos navios à chegada e à partida dos portos da União em formato eletrónico e a assegurar a sua transmissão através de uma plataforma única para facilitar e acelerar o transporte marítimo.\n\n(2) O transporte marítimo é a espinha dorsal do comércio e das comunicações dentro e fora do mercado único. Com vista a facilitar o transporte marítimo e a reduzir ainda mais os encargos administrativos para as empresas de navegação, os procedimentos de informação para cumprimento das obrigações de declaração impostas às empresas de navegação pelos atos jurídicos da União, por atos jurídicos internacionais e pela legislação nacional dos Estados-Membros deverão ser mais simplificados e harmonizados e deverão ser tecnologicamente neutros, promovendo soluções viáveis a longo prazo para a declaração obrigatória.\n\n(3) Tanto o Parlamento Europeu como o Conselho preconizaram frequentemente uma maior interoperabilidade e uma comunicação e fluxos de informações mais abrangentes e conviviais para melhorar o funcionamento do mercado interno e satisfazer as necessidades dos cidadãos e das empresas.\n\n(4) O objetivo principal do presente regulamento é estabelecer regras harmonizadas para a prestação das informações que são exigidas para as escalas portuárias, em especial assegurando que os mesmos conjuntos de dados possam ser comunicados da mesma forma a cada plataforma nacional única para o setor marítimo. O presente regulamento visa igualmente facilitar a transmissão de informações entre declarantes, autoridades competentes e prestadores de serviços portuários no porto de escala, e outros Estados-Membros. A aplicação do presente regulamento não deverá alterar os prazos nem a substância das obrigações de declaração e não deverá afetar o subsequente armazenamento e tratamento de informações ao nível da União ou ao nível nacional.\n\n(5) As plataformas nacionais únicas para o setor marítimo existentes em cada Estado-Membro deverão ser mantidas como a base para um ambiente europeu de plataforma única para o setor marítimo (EMSWe, do inglês *European Maritime Single Window environment)* tecnologicamente neutro e interoperável. As plataformas nacionais únicas para o setor marítimo deverão constituir para os operadores de transporte marítimo um ponto de acesso global à apresentação de declarações, assegurando as funcionalidades de recolha de dados dos declarantes e de distribuição de dados a todas as autoridades competentes e aos prestadores de serviços portuários.\n\n(6) A fim de aumentar a eficiência das plataformas nacionais únicas para o setor marítimo e de preparar a sua futura evolução, deverá ser possível manter os mecanismos existentes nos Estados-Membros ou criar novos mecanismos para a utilização da plataforma nacional única para o setor marítimo para efeitos da comunicação de informações semelhantes respeitantes a outros modos de transporte.\n\n(7) As interfaces frontais destas plataformas nacionais únicas para o setor marítimo, do lado dos declarantes, deverão ser harmonizadas ao nível da União, para facilitar a apresentação de declarações e reduzir ainda mais os encargos administrativos. Esta harmonização deverá ser conseguida aplicando em cada plataforma nacional única para o setor marítimo um programa informático comum para o intercâmbio de informações entre sistemas, desenvolvido ao nível da União. Os Estados-Membros deverão assumir a responsabilidade pela integração e gestão do módulo de interface, bem como pela atualização regular e atempada do programa quando a Comissão disponibilizar novas versões. A Comissão deverá desenvolver este módulo e disponibilizar atualizações, quando necessário, uma vez que o desenvolvimento das tecnologias digitais está a avançar rapidamente e que qualquer solução tecnológica é suscetível de se tornar rapidamente obsoleta, tendo em conta novos desenvolvimentos.\n\n(8) Outros canais de transmissão disponibilizados pelos Estados-Membros e pelos prestadores de serviços, tais como sistemas de comunidade portuária, poderiam ser mantidos como pontos de entrada facultativos para efeitos de comunicação de informações e deverão poder atuar como prestadores de serviços de dados.\n\n(9) Para não impor encargos administrativos desproporcionados aos Estados-Membros sem litoral, que não têm portos marítimos, tais Estados-Membros deverão ficar dispensados da obrigação de conceber, estabelecer, gerir e disponibilizar uma plataforma nacional única para o setor marítimo. Deste modo, enquanto recorrerem a tal isenção, os referidos Estados-Membros não deverão ser obrigados a cumprir as obrigações associadas à conceção, estabelecimento, gestão e disponibilização da plataforma nacional única para o setor marítimo.\n\n(10) Deverá estar integrada nas plataformas nacionais únicas para o setor marítimo uma interface gráfica convivial com funcionalidades comuns para a inserção manual das declarações pelos declarantes. Os Estados-Membros deverão disponibilizar a interface gráfica de utilizador para a inserção manual dos dados pelos declarantes, nomeadamente por meio do carregamento de folhas de cálculo digitais harmonizadas. Além de assegurarem funcionalidades comuns, a Comissão e os Estados-Membros deverão coordenar esforços no sentido de assegurarem que a experiência de utilizador das diferentes interfaces utilizador gráficas seja o mais similar possível.\n\n(11) As novas tecnologias digitais emergentes apresentam oportunidades crescentes para aumentar a eficiência do setor dos transportes marítimos e reduzir os encargos administrativos. Para que os benefícios dessas novas tecnologias progridam o mais rapidamente possível, a Comissão deverá estar habilitada a alterar as especificações técnicas, as normas e os procedimentos do ambiente de declarações harmonizado, através de atos de execução. Tal deverá conferir aos intervenientes no mercado flexibilidade para desenvolver novas tecnologias digitais e as novas tecnologias também devem ser tidas em conta aquando da reapreciação do presente regulamento.\n\n(12) Os declarantes deverão receber apoio e informações adequados sobre os processos e os requisitos técnicos relacionados com a utilização das plataformas nacionais únicas para o setor marítimo, através de sítios Web nacionais de acesso fácil e intuitivo, que apresentem padrões visuais e de funcionamento comuns.\n\n(13) A Convenção sobre a Facilitação do Tráfego Marítimo Internacional («Convenção FAL») [([^4])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr4-L_2019198PT.01006401-E0004) prevê que as autoridades públicas tenham de exigir sempre apenas as informações de declaração essenciais e reduzir ao mínimo o número de itens. No entanto, as condições locais podem exigir informações específicas para garantir a segurança da navegação.\n\n(14) Para permitir o funcionamento do EMSWe, é necessário estabelecer um conjunto de dados abrangente do EMSWe, que deverá englobar todos os elementos de informação que possam ser solicitados pelas autoridades nacionais ou pelos operadores portuários para fins administrativos ou operacionais, sempre que um navio faz uma escala portuária. Para estabelecer o conjunto de dados do EMSWe, a Comissão deverá ter em conta os trabalhos pertinentes realizados à escala internacional. Como o âmbito das obrigações de declaração varia entre os Estados-Membros, uma plataforma nacional única para o setor marítimo de um determinado Estado-Membro deverá estar preparada para aceitar o conjunto de dados do EMSWe sem qualquer modificação e ignorar as informações que não sejam aplicáveis nesse Estado-Membro.\n\n(15) Em circunstâncias excecionais, os Estados-Membros deverão poder solicitar aos declarantes elementos de dados adicionais. Tais circunstâncias excecionais podem surgir, por exemplo, quando há uma necessidade urgente de defender a ordem e a segurança internas ou de fazer face a uma ameaça grave para a saúde humana ou animal, ou para o ambiente. A noção de circunstâncias excecionais deverá ser interpretada de forma estrita.\n\n(16) As obrigações de declaração aplicáveis contidas nos atos jurídicos internacionais e da União encontram-se indicadas no anexo do presente regulamento. Essas obrigações de declaração deverão constituir a base para o estabelecimento de um conjunto abrangente de dados do EMSWe. O anexo faz ainda referência às categorias das obrigações de declaração aplicáveis no plano nacional e os Estados-Membros deverão poder solicitar à Comissão a alteração do conjunto de dados do EMSWe com base nas obrigações de declaração previstas na respetiva legislação e requisitos nacionais. Os atos jurídicos da União que alteram o conjunto de dados do EMSWe com base numa obrigação de declaração prevista na legislação e nos requisitos nacionais deverão incluir uma referência expressa à legislação e aos requisitos nacionais em questão.\n\n(17) Sempre que as informações das plataformas nacionais únicas para o setor marítimo forem distribuídas às autoridades competentes, a transmissão deverá observar os requisitos de dados, os formatos e os códigos comuns relativos às obrigações e formalidades de declaração previstas nos atos jurídicos da União enumerados no anexo e deverá ser realizada através dos sistemas informáticos aí estabelecidos, tais como as técnicas de processamento eletrónico de dados referidas no artigo 6.º, n.º 1, do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho [([^5])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr5-L_2019198PT.01006401-E0005).\n\n(18) A execução do presente regulamento deverá ter em conta os sistemas SafeSeaNet estabelecidos ao nível nacional e da União, que deverão continuar a facilitar o intercâmbio e a distribuição de informações entre os Estados-Membros recebidas através das plataformas nacionais únicas para o setor marítimo, nos termos da Diretiva 2002/59/CE do Parlamento Europeu e do Conselho [([^6])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr6-L_2019198PT.01006401-E0006).\n\n(19) Os portos não são o destino final das mercadorias. A eficiência das escalas portuárias tem impacto em toda a cadeia logística relacionada com o transporte de mercadorias e de passageiros de e para os portos. Com vista a assegurar a interoperabilidade, a multimodalidade e a fácil integração do transporte marítimo na cadeia logística geral e a fim de facilitar outros modos de transporte, as plataformas nacionais únicas para o setor marítimo deverão prever a possibilidade de intercâmbio de informações necessárias, nomeadamente, horas de chegada e de partida, com enquadramentos idênticos aos desenvolvidos para outros modos de transporte.\n\n(20) A fim de melhorar a eficiência do transporte marítimo e de limitar a duplicação de informações que têm de ser fornecidas para fins operacionais sempre que um navio faz uma escala portuária, as informações fornecidas pelo declarante a uma plataforma nacional única para o setor marítimo deverão ser também partilhadas com outras entidades específicas, como os operadores portuários ou do terminal, se tal for autorizado pelo declarante e tendo em conta a necessidade de respeitar a confidencialidade, a sensibilidade comercial e as restrições de natureza jurídica. O presente regulamento visa melhorar o tratamento de dados, observando o princípio da transmissão única de informações no cumprimento das obrigações de declaração.\n\n(21) O Regulamento (UE) n.º 952/2013 estabelece que os bens que entram no território aduaneiro da União têm de estar cobertos por uma declaração sumária de entrada, que deve ser enviada às autoridades aduaneiras por via eletrónica. Face à importância das informações da declaração sumária de entrada para a gestão dos riscos de segurança e financeiros, está a ser desenvolvido um sistema eletrónico específico para o envio e a gestão das declarações sumárias de entrada no território aduaneiro da União. Não será, portanto, possível apresentar uma declaração sumária de entrada através do módulo de interface de declaração harmonizado. No entanto, considerando que alguns dos elementos de dados enviados com a declaração sumária de entrada são também necessários para o cumprimento de outras obrigações de declaração aduaneiras e marítimas quando um navio faz escala num porto da União, o EMSWe deverá estar habilitado a tratar os elementos de dados da declaração sumária de entrada. Deverá ainda ser equacionada a possibilidade de as plataformas nacionais únicas para o setor marítimo poderem obter informações necessárias já enviadas através da declaração sumária de entrada.\n\n(22) A fim de alcançar uma completa harmonização dos requisitos de comunicação, as autoridades aduaneiras, marítimas e outras autoridades competentes deverão cooperar tanto a nível nacional como a nível da União. Os coordenadores nacionais com responsabilidades específicas deverão reforçar a eficácia desta cooperação e o bom funcionamento das plataformas nacionais únicas para o setor marítimo.\n\n(23) Para permitir a reutilização das informações fornecidas através das plataformas nacionais únicas para o setor marítimo e facilitar o envio de informações pelos declarantes, é necessário criar bases de dados comuns. Deverá ser estabelecida uma base de dados de navios do EMSWe, que inclua uma lista de referência das especificidades dos navios e das respetivas isenções de declaração, conforme comunicado na respetiva plataforma nacional única para o setor marítimo. Para facilitar o envio de informações pelos declarantes, deverá ser estabelecida uma base de dados comum de localizações que contenha uma lista de referência de códigos de localização, incluindo o código das Nações Unidas de locais de comércio e de transporte (UN/LOCODE), os códigos específicos do SafeSeaNet e os códigos das instalações portuárias, conforme registado no Sistema Global Integrado de Informações sobre a Navegação (GISIS, do inglês *Global Integrated Shipping Information System*) da Organização Marítima Internacional (OMI). Além disso, deverá ser estabelecida uma base de dados comum de materiais perigosos que incorpore uma lista das mercadorias perigosas e poluentes que têm de ser notificadas à plataforma nacional única para o setor marítimo, em conformidade com a Diretiva 2002/59/CE e com o formulário 7 do FAL da OMI, tendo em conta os elementos de dados aplicáveis das convenções e códigos da OMI.\n\n(24) O tratamento de dados pessoais no quadro do presente regulamento pelas autoridades competentes deverá cumprir o disposto no Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr7-L_2019198PT.01006401-E0007). O tratamento de dados pessoais pela Comissão no quadro do presente regulamento deverá cumprir o disposto no Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho [([^8])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr8-L_2019198PT.01006401-E0008).\n\n(25) O EMSWe e as plataformas nacionais únicas para o setor marítimo não deverão permitir qualquer outro tratamento de dados pessoais além do necessário para o seu funcionamento e não deverão ser utilizados para conceder quaisquer novos direitos de acesso a dados pessoais.\n\n(26) O poder de adotar atos nos termos do artigo 290.º do Tratado sobre o Funcionamento da União Europeia deverá ser delegado na Comissão, para que esta possa completar o presente regulamento, estabelecendo e alterando o conjunto de dados do EMSWe e determinando as definições, categorias e especificações de dados para os elementos de dados, e para que possa alterar o anexo por forma a incorporar obrigações de declaração existentes ao nível nacional e a contemplar eventuais novas obrigações de declaração adotadas por atos jurídicos da União. A Comissão deverá assegurar a observância dos requisitos de dados, formatos e códigos comuns estabelecidos nos atos jurídicos internacionais e da União indicados no anexo. É particularmente importante que a Comissão proceda às consultas adequadas durante os trabalhos preparatórios, inclusive ao nível dos peritos, e que essas consultas sejam conduzidas de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor [([^9])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr9-L_2019198PT.01006401-E0009). Em particular, a fim de assegurar a igualdade de participação na preparação dos atos delegados, o Parlamento Europeu e o Conselho recebem todos os documentos ao mesmo tempo que os peritos dos Estados-Membros, e os respetivos peritos têm sistematicamente acesso às reuniões dos grupos de peritos da Comissão que tratem da preparação dos atos delegados.\n\n(27) Ao elaborar os atos delegados, a Comissão deverá assegurar que os peritos dos Estados-Membros e a comunidade empresarial sejam consultados de forma transparente e com bastante antecedência.\n\n(28) A fim de assegurar condições uniformes para a execução do presente regulamento, deverão ser atribuídas competências de execução à Comissão. Essas competências deverão ser exercidas nos termos do Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho [([^10])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr10-L_2019198PT.01006401-E0010).\n\n(29) Em especial, deverão ser atribuídas competências de execução à Comissão para estabelecer especificações funcionais e técnicas, mecanismos de controlo de qualidade e procedimentos de execução, manutenção e utilização do módulo de interface harmonizado e dos respetivos elementos harmonizados das plataformas nacionais únicas para o setor marítimo. Deverão ser igualmente atribuídas competências de execução à Comissão para estabelecer especificações técnicas, normas e procedimentos para serviços comuns do EMSWe.\n\n(30) O presente regulamento deverá basear-se no Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho [([^11])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr11-L_2019198PT.01006401-E0011) que define as condições em que um Estado-Membro reconhece e aceita certos meios de identificação eletrónica de pessoas singulares e coletivas no quadro de um sistema de identificação eletrónica notificado de outro Estado-Membro. O Regulamento (UE) n.º 910/2014 estabelece as condições para os utilizadores poderem utilizar os respetivos meios eletrónicos de identificação e autenticação para aceder a serviços públicos em linha, em situações transfronteiriças.\n\n(31) A Comissão deverá proceder a uma avaliação do presente regulamento. Deverão ser recolhidas informações que contribuam para essa avaliação e que permitam avaliar a eficácia do desempenho do presente regulamento em relação aos objetivos pretendidos. A Comissão deverá avaliar igualmente, entre outras opções, o valor acrescentado de estabelecer um sistema de declaração europeu centralizado e harmonizado, como por exemplo uma interface de declaração central.\n\n(32) A Diretiva 2010/65/UE deverá, assim, ser revogada, com efeitos a partir da data de aplicação do presente regulamento.\n\n(33) A Autoridade Europeia para a Proteção de Dados foi consultada em conformidade com o artigo 28.º, n.º 2, do Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho [([^12])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr12-L_2019198PT.01006401-E0012),\n\nADOTARAM O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "e17a2adcfbbdd4cc": {
+   "fragment_id": "DISPOSIÇÕES GERAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES GERAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES GERAIS"
+  },
+  "d701d6b1a2c10b2b": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\nO presente regulamento estabelece um quadro para um ambiente europeu de plataforma única para o setor marítimo (EMSWe) tecnologicamente neutro e interoperável, dotado de interfaces harmonizadas, para facilitar a transmissão eletrónica de informações relacionadas com as obrigações de declaração exigidas aos navios à chegada e à partida de um porto da União, ou que aí permanecem."
+  },
+  "50abfaf43c9dbbf8": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Ambiente europeu de plataforma única para o setor marítimo» (EMSWe), o quadro jurídico e técnico para a transmissão eletrónica de informações relacionadas com as obrigações de declaração nas escalas portuárias na União, composto por uma rede de plataformas nacionais únicas para o setor marítimo dotadas de interfaces de declaração harmonizadas e que inclui o intercâmbio de dados pelo sistema SafeSeaNet e outros sistemas pertinentes, bem como serviços comuns para a gestão do registo e dos acessos dos utilizadores, de endereçamento, a identificação de navios, os códigos de localização e as informações sobre mercadorias perigosas e poluentes e sobre a saúde;\n\n2) «Navio», qualquer embarcação ou navio de mar que opere no meio marinho, sujeito a obrigações de declaração específicas enunciadas no anexo;\n\n3) «Plataforma nacional única para o setor marítimo», uma plataforma técnica estabelecida e gerida à escala nacional, destinada a receber, trocar e transmitir informações por via eletrónica para o cumprimento de obrigações de declaração, que compreende uma gestão dos direitos de acesso definida em comum, um módulo de interface de declaração harmonizado e uma interface gráfica de utilizador para a comunicação com os declarantes, assim como ligações com os sistemas e as bases de dados das autoridades competentes tanto ao nível nacional como ao nível da União, que permite que as mensagens ou avisos de receção que incluem o mais amplo leque de decisões tomadas por todas as autoridades competentes participantes sejam comunicadas aos declarantes, e que também pode permitir, se aplicável, a ligação a outros meios de declaração;\n\n4) «Módulo de interface de declaração harmonizado», uma componente informática mediadora (*middleware*) existente na plataforma nacional única para o setor marítimo, por meio da qual podem ser trocadas informações entre o sistema de informação utilizado pelo declarante e a plataforma nacional única para o setor marítimo;\n\n5) «Obrigação de declaração», as informações exigidas pelos atos jurídicos internacionais e da União indicados no anexo, bem como pela legislação e pelos requisitos nacionais mencionados no anexo, que têm de ser fornecidas no contexto de uma escala portuária;\n\n6) «Escala portuária», a chegada, a permanência e a partida de um navio de um porto marítimo num Estado-Membro;\n\n7) «Elemento de dados», a unidade mínima de informação, com uma definição única e características técnicas precisas, tais como formato, comprimento e tipo de letra;\n\n8) «Conjunto de dados do EMSWe», a lista completa de elementos de dados provenientes das obrigações de declaração;\n\n9) «Interface gráfica de utilizador», uma interface Web destinada à transferência bidirecional em linha de dados utilizador-sistema para uma plataforma nacional única para o setor marítimo, que permite aos declarantes inserir dados manualmente, nomeadamente através de folhas de cálculo digitais harmonizadas e de funções que permitem extrair elementos de dados das declarações a partir dessas folhas de cálculo, e que inclui funcionalidades e características comuns que asseguram um fluxo de navegação comum e uma experiência comum de carregamento de dados aos declarantes;\n\n10) «Serviço comum de endereçamento», um serviço adicional voluntário destinado aos declarantes para iniciarem conexões de dados diretas de sistema a sistema, entre o sistema de um declarante e o módulo de interface de declaração harmonizado da respetiva plataforma nacional única para o setor marítimo;\n\n11) «Declarante», qualquer pessoa singular ou coletiva sujeita às obrigações de declaração ou qualquer pessoa singular ou coletiva devidamente autorizada que atue em nome da primeira, dentro dos limites estabelecidos na obrigação de declaração pertinente;\n\n12) «Autoridades aduaneiras», as autoridades definidas no artigo 5.º, ponto 1) do Regulamento (UE) n.º 952/2013;\n\n13) «Prestador de serviços de dados», uma pessoa singular ou coletiva que presta a um declarante serviços de tecnologia da informação e comunicação relacionados com as obrigações de declaração;\n\n14) «Transmissão eletrónica de informações», o processo de transmissão de informações codificadas digitalmente, mediante a utilização de um formato estruturado passível de revisão que pode ser usado diretamente para armazenamento e tratamento de dados por computador;\n\n15) «Prestador de serviços portuários», qualquer pessoa singular ou coletiva que preste uma ou mais das categorias de serviços portuários enumeradas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/352 do Parlamento Europeu e do Conselho [([^13])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr13-L_2019198PT.01006401-E0013)."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "765349cd30855503": {
+   "fragment_id": "CONJUNTO DE DADOS DO EMSWe",
+   "type": "divisao",
+   "heading": "CONJUNTO DE DADOS DO EMSWe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### CONJUNTO DE DADOS DO EMSWe"
+  },
+  "a3e9520b00b8b50a": {
+   "fragment_id": "Artigo 3.º — Estabelecimento do conjunto de dados do EMSWe",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Estabelecimento do conjunto de dados do EMSWe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Estabelecimento do conjunto de dados do EMSWe\n\n1. A Comissão estabelece e altera o conjunto de dados do EMSWe nos termos do artigo 3.º do presente artigo.\n\n2. Até 15 de fevereiro de 2020, os Estados-Membros notificam a Comissão de quaisquer obrigações de declaração decorrentes da legislação e dos requisitos nacionais que preveem os elementos de dados a incluir no conjunto de dados do EMSWe. Os elementos de dados são identificados com precisão.\n\n3. A Comissão fica habilitada a adotar atos delegados nos termos do artigo 23.º, a fim de alterar o anexo do presente regulamento para efeitos de inclusão, supressão ou adaptação de referências à legislação ou aos requisitos nacionais, a atos jurídicos internacionais ou da União, e a fim de estabelecer e alterar o conjunto de dados do EMSWe.\n\nO primeiro desses atos delegados é adotado até 15 de agosto de 2021.\n\nTal como disposto no n.º 4, um Estado-Membro pode solicitar à Comissão a introdução ou alteração de elementos de dados no conjunto de dados do EMSWe, em conformidade com as obrigações de declaração previstas na legislação e nos requisitos nacionais. Ao determinar se certos elementos de dados são incluídos no conjunto de dados do EMSWe, a Comissão toma em consideração as questões de segurança, bem como os princípios da Convenção FAL, designadamente o princípio de exigir apenas informações de declaração essenciais e reduzir ao mínimo o número de itens.\n\nNo prazo de três meses após a apresentação do pedido, a Comissão decide se insere ou não os elementos de dados no conjunto de dados do EMSWe. A Comissão fundamenta a sua decisão.\n\nO ato delegado que introduzir ou alterar um elemento de dados no conjunto de dados do EMSWe deve incluir uma referência expressa à legislação e aos requisitos nacionais referidos no terceiro parágrafo.\n\nSe a Comissão decidir não introduzir os elementos de dados solicitados, deve fundamentar devidamente a sua recusa, com referência à segurança da navegação e aos princípios da Convenção FAL."
+  },
+  "400ec37e27bab4a7": {
+   "fragment_id": "Artigo 4.º — Alteração do conjunto de dados do EMSWe",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Alteração do conjunto de dados do EMSWe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Alteração do conjunto de dados do EMSWe\n\n1. Sempre que um Estado-Membro pretender alterar uma obrigação de declaração ao abrigo da sua legislação e de acordo com os requisitos nacionais, que envolva o fornecimento de informações diferentes das informações incluídas no conjunto de dados do EMSWe, esse Estado-Membro notifica de imediato a Comissão. Nessa notificação, o Estado-Membro identifica com precisão a informação não contemplada no conjunto de dados do EMSWe e indica o período previsto durante o qual a obrigação de declaração em causa é aplicável.\n\n2. Um Estado-Membro não pode introduzir novas obrigações de declaração a não ser que a Comissão o tenha autorizado, pelo procedimento previsto no artigo 3.º, e que as correspondentes informações tenham sido inseridas no conjunto de dados do EMSWe e aplicadas nas interfaces de declaração harmonizadas.\n\n3. A Comissão avalia a necessidade de alterar o conjunto de dados do EMSWe em conformidade com o artigo 3.º, n.º 3. Salvo em casos devidamente justificados, só são introduzidas alterações no conjunto de dados do EMSWe uma vez por ano.\n\n4. Em circunstâncias excecionais, os Estados-Membros podem solicitar aos declarantes que forneçam elementos de dados adicionais sem necessidade de autorização da Comissão, durante um período inferior a três meses. Os Estados-Membros comunicam sem demora os referidos elementos de dados à Comissão. A Comissão pode autorizar que o Estado-Membro continue a solicitar elementos de dados adicionais por dois períodos adicionais de três meses, se as circunstâncias excecionais persistirem.\n\nO mais tardar um mês antes do termo do último período de três meses referido no primeiro parágrafo, o Estado-Membro pode solicitar à Comissão que os elementos de dados adicionais passem a fazer parte do conjunto de dados do EMSWe, nos termos do artigo 3.º, n.º 3. O Estado-Membro pode continuar a solicitar aos declarantes que forneçam elementos de dados adicionais até a Comissão ter tomado uma decisão e, em caso de decisão favorável, até o conjunto de dados EMSWe alterado ter sido implementado."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "a8eff083217aafdb": {
+   "fragment_id": "PRESTAÇÃO DE INFORMAÇÕES",
+   "type": "divisao",
+   "heading": "PRESTAÇÃO DE INFORMAÇÕES",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PRESTAÇÃO DE INFORMAÇÕES"
+  },
+  "0247a6f0605c411a": {
+   "fragment_id": "Artigo 5.º — Plataforma nacional única para o setor marítimo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Plataforma nacional única para o setor marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plataforma nacional única para o setor marítimo\n\n1. Cada Estado-Membro cria uma plataforma nacional única para o setor marítimo através da qual, em conformidade com o presente regulamento e sem prejuízo dos artigos 7.º e 11.º, são fornecidas uma única vez todas as informações necessárias para o cumprimento das obrigações de declaração por intermédio do conjunto de dados do EMSWe e em conformidade com esse conjunto de dados, utilizando para tal o módulo de interface de declaração harmonizado e a interface gráfica de utilizador a que se refere o artigo 6.º e, se aplicável, outros meios de declaração, conforme disposto no artigo 7.º, para que tais informações sejam disponibilizadas às autoridades relevantes dos Estados-Membros na medida do necessário para que estas possam desempenhar as respetivas funções.\n\nOs Estados-Membros são responsáveis pelo funcionamento das respetivas plataformas nacionais únicas para o setor marítimo.\n\nOs Estados-Membros podem estabelecer uma plataforma única para o setor marítimo em conjunto com um ou mais outros Estados-Membros. Esses Estados-Membros designam essa plataforma única para o setor marítimo como a sua plataforma nacional única para o setor marítimo e são responsáveis pelo seu funcionamento nos termos do presente regulamento.\n\n2. Os Estados-Membros que não tenham portos marítimos estão dispensados da obrigação de conceber, estabelecer, gerir e disponibilizar plataformas nacionais únicas para o setor marítimo tal como disposto no n.º 1.\n\n3. Os Estados-Membros asseguram:\n\na) A compatibilidade da plataforma nacional única para o setor marítimo com o módulo de interface de declaração harmonizado e a observância, por parte da interface gráfica de utilizador da sua plataforma nacional única para o setor marítimo, das funcionalidades comuns em conformidade com o artigo 6.º, n.º 2;\n\nb) A integração atempada das interfaces harmonizadas de declaração de acordo com as datas de execução definidas no ato de execução referido no artigo 6.º e quaisquer atualizações posteriores de acordo com as datas acordadas no plano de execução plurianual (PEP);\n\nc) Uma ligação com os sistemas relevantes das autoridades competentes, para permitir a transferência de dados a comunicar a essas autoridades através da plataforma nacional única para o setor marítimo e para esses sistemas, nos termos dos atos jurídicos da União e da legislação e dos requisitos nacionais e em conformidade com as especificações técnicas desses sistemas;\n\nd) A disponibilização de um serviço de apoio durante os primeiros 12 meses a partir de 15 de agosto de 2025, e de um sítio Web de apoio em linha para a sua plataforma nacional única para o setor marítimo com instruções claras na(s) língua(s) oficial(ais) do Estado-Membro e, sempre que relevante, numa língua que seja utilizada a nível internacional;\n\ne) A prestação de formação adequada e necessária ao pessoal diretamente envolvido no funcionamento da plataforma nacional única para o setor marítimo.\n\n4. Os Estados-Membros asseguram que as informações exigidas chegam às autoridades responsáveis pela aplicação da legislação em questão e estão limitadas às necessidades de cada uma dessas autoridades. Ao fazê-lo, os Estados-Membros asseguram a conformidade com os requisitos legais relacionados com a transmissão de informações previstos nos atos jurídicos da União enumerados no anexo e, se aplicável, utilizam as técnicas de tratamento eletrónico de dados referidas no artigo 6.º, n.º 1, do Regulamento (UE) n.º 952/2013. Os Estados-Membros asseguram igualmente a interoperabilidade com os sistemas de informação utilizados por essas autoridades.\n\n5. A plataforma nacional única para o setor marítimo oferece aos declarantes a possibilidade técnica de disponibilizar, separadamente, aos prestadores de serviços no porto de destino um subconjunto pré-definido ao nível nacional de elementos de dados.\n\n6. Se um Estado-Membro não exigir todos os elementos do conjunto de dados do EMSWe para o cumprimento das obrigações de declaração, a plataforma nacional única para o setor marítimo aceita comunicações limitadas aos elementos de dados exigidos por esse Estado-Membro. A plataforma nacional única para o setor marítimo aceita igualmente as comunicações do declarante que incluam elementos adicionais do conjunto de dados do EMSWe; todavia, não precisa de tratar nem de armazenar esses elementos adicionais.\n\n7. Os Estados-Membros armazenam as informações enviadas para a respetiva plataforma nacional única para o setor marítimo apenas pelo período necessário para assegurar o cumprimento dos requisitos previstos no presente regulamento e para dar cumprimento aos atos jurídicos nacionais, internacionais e da União enumerados no anexo. Os Estados-Membros apagam imediatamente essas informações depois disso.\n\n8. Os Estados-Membros disponibilizam ao público as horas de chegada e de partida, estimadas e reais, dos navios, num formato eletrónico harmonizado ao nível da União, com base nos dados fornecidos pelos declarantes à plataforma nacional única para o setor marítimo. Esta obrigação não se aplica aos navios que transportam mercadorias sensíveis caso a publicação dessa informação pela plataforma nacional única para o setor marítimo possa constituir uma ameaça para a segurança.\n\n9. As plataformas nacionais únicas para o setor marítimo têm um endereço de Internet uniforme.\n\n10. A Comissão adota atos de execução que estabelecem uma estrutura harmonizada do sítio Web de apoio referido no n.º 3, alínea d), as especificações técnicas para disponibilizar as horas de chegada e de partida referidas no n.º 8, e um formato uniforme para os endereços de Internet referidos no n.º 9. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "114efb7f0b3ca7aa": {
+   "fragment_id": "Artigo 6.º — Interfaces de declaração harmonizadas",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Interfaces de declaração harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Interfaces de declaração harmonizadas\n\n1. A Comissão adota, em estreita colaboração com os Estados-Membros, atos de execução que estabelecem as especificações funcionais e técnicas do módulo de interface de declaração harmonizado das plataformas nacionais únicas para o setor marítimo. As especificações funcionais e técnicas destinam-se a facilitar a interoperabilidade com as diferentes tecnologias e sistemas de declaração dos utilizadores.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021.\n\n2. Até 15 de agosto de 2022, a Comissão desenvolve, em estreita colaboração com os Estados-Membros, e posteriormente atualiza, o módulo de interface harmonizada de declaração das plataformas nacionais únicas para o setor marítimo, em conformidade com as especificações a que se referem os n.^os^ 1 e 5 do presente artigo.\n\n3. A Comissão fornece aos Estados-Membros o módulo de interface de declaração harmonizado e todas as informações pertinentes para integração nas respetivas plataformas nacionais únicas para o setor marítimo.\n\n4. A Comissão adota atos de execução que estabelecem as funcionalidades comuns da interface gráfica de utilizador e os modelos das folhas de cálculo digitais harmonizadas referidos no artigo 2.º, n.º 9.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021.\n\n5. A Comissão adota atos de execução que alteram as especificações técnicas, as normas e os procedimentos, de modo a assegurar que as interfaces estejam abertas às futuras tecnologias.\n\n6. Os atos de execução referidos no presente artigo são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2."
+  },
+  "3ac2c9568ee0e3db": {
+   "fragment_id": "Artigo 7.º — Outros meios de declaração",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Outros meios de declaração",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Outros meios de declaração\n\n1. Os Estados-Membros autorizam os declarantes a prestarem, numa base voluntária, informações à plataforma nacional única para o setor marítimo através de prestadores de serviços de dados que cumprem os requisitos do módulo de interface de declaração harmonizado.\n\n2. Os Estados-Membros podem autorizar que os declarantes forneçam as informações através de outros canais de declaração, desde que esses canais sejam facultativos para os declarantes. Nesses casos, os Estados-Membros asseguram que esses outros canais disponibilizam as informações aplicáveis à plataforma nacional única para o setor marítimo.\n\n3. Os Estados-Membros podem recorrer a meios alternativos para o fornecimento de informações em caso de falha temporária de algum dos sistemas eletrónicos referidos nos artigos 5.º e 6.º e nos artigos 12.º a 17.º."
+  },
+  "fde69904bc95a6f9": {
+   "fragment_id": "Artigo 8.º — Princípio de «declaração única»",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Princípio de «declaração única»",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Princípio de «declaração única»\n\n1. Sem prejuízo do artigo 11.º, n.º 1, salvo disposição em contrário no direito da União, os Estados-Membros asseguram que ao declarante é pedido que forneça as informações nos termos do presente regulamento apenas uma vez por escala portuária e que os elementos de dados do conjunto de dados do EMSWe aplicáveis são disponibilizados e reutilizados em conformidade com o n.º 3 do presente artigo.\n\n2. A Comissão assegura que as informações de identificação, as características dos navios e as isenções fornecidas por meio de uma plataforma nacional única para o setor marítimo são registadas na base de dados de navios do EMSWe referida no artigo 14.º e são disponibilizadas para quaisquer escalas portuárias posteriores na União.\n\n3. Os Estados-Membros asseguram que os elementos de dados do conjunto de dados do EMSWe fornecidos à partida de um porto na União são disponibilizados ao declarante para efeitos de cumprimento das obrigações de declaração à chegada ao porto seguinte na União, desde que o navio não faça uma escala portuária fora da União durante o trajeto. O presente número não se aplica a informações recebidas nos termos do Regulamento (UE) n.º 952/2013, a menos que essa possibilidade esteja prevista no referido regulamento.\n\n4. Todos os elementos de dados aplicáveis do conjunto de dados do EMSWe necessários recebidos ao abrigo do presente regulamento são disponibilizados a outras plataformas nacionais únicas para o setor marítimo através do SafeSeaNet.\n\n5. A Comissão adota atos de execução que estabelecem a lista de elementos de dados aplicáveis referidos nos n.^os^ 3 e 4 do presente artigo. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2."
+  },
+  "a690c184b24edb63": {
+   "fragment_id": "Artigo 9.º — Responsabilidade pelas informações comunicadas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Responsabilidade pelas informações comunicadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Responsabilidade pelas informações comunicadas\n\nO declarante é responsável por garantir a comunicação dos elementos de dados, em conformidade com os requisitos legais e técnicos aplicáveis. O declarante permanece responsável pelos dados e por atualizar eventuais informações que sofram alteração após a comunicação à plataforma nacional única para o setor marítimo."
+  },
+  "c38ef6183f7d4fc0": {
+   "fragment_id": "Artigo 10.º — Proteção de dados e confidencialidade",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Proteção de dados e confidencialidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Proteção de dados e confidencialidade\n\n1. O tratamento de dados pessoais pelas autoridades competentes no quadro do presente regulamento cumpre o disposto no Regulamento (UE) 2016/679.\n\n2. O tratamento de dados pessoais efetuado pela Comissão no quadro do presente regulamento cumpre o disposto no Regulamento (UE) 2018/1725.\n\n3. Os Estados-Membros e a Comissão tomam as medidas necessárias, em conformidade com o direito nacional ou da União aplicável, para garantir a confidencialidade das informações comerciais e de outras informações sensíveis partilhadas nos termos do presente regulamento."
+  },
+  "515256a6d3207f78": {
+   "fragment_id": "Artigo 11.º — Disposições suplementares aplicáveis às alfândegas",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Disposições suplementares aplicáveis às alfândegas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Disposições suplementares aplicáveis às alfândegas\n\n1. O presente regulamento não impede o intercâmbio de informações entre autoridades aduaneiras dos Estados-Membros ou entre autoridades aduaneiras e operadores económicos utilizando as técnicas de tratamento eletrónico de dados referidas no artigo 6.º, n.º 1, do Regulamento (UE) n.º 952/2013.\n\n2. Se tal for compatível com a legislação aduaneira da União, as informações aplicáveis da declaração sumária de entrada a que se refere o artigo 127.º do Regulamento (UE) n.º 952/2013 são disponibilizadas às plataformas nacionais únicas para o setor marítimo para referência e, se adequado, reutilizadas para outras obrigações de declaração indicadas no anexo.\n\n3. A Comissão adota atos de execução que estabelecem a lista das informações aplicáveis referidas no n.º 2 do presente artigo. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "cefea6af77b217cf": {
+   "fragment_id": "SERVIÇOS COMUNS",
+   "type": "divisao",
+   "heading": "SERVIÇOS COMUNS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### SERVIÇOS COMUNS"
+  },
+  "3204cb5f6c98d37a": {
+   "fragment_id": "Artigo 12.º — Sistema de gestão do registo e dos acessos dos utilizadores do EMSWe",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Sistema de gestão do registo e dos acessos dos utilizadores do EMSWe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Sistema de gestão do registo e dos acessos dos utilizadores do EMSWe\n\n1. A Comissão estabelece e assegura a disponibilidade de um sistema comum de gestão do registo e dos acessos dos utilizadores aplicável aos declarantes e prestadores de serviços de dados que utilizam as plataformas nacionais únicas para o setor marítimo, bem como para as autoridades nacionais que acedem às plataformas nacionais únicas para o setor marítimo, nos casos em que seja necessária autenticação. Esse sistema comum de gestão do registo permite um registo único de utilizador por meio de um registo existente na União, com reconhecimento ao nível da União, gestão de utilizadores federada e monitorização de utilizadores ao nível da União.\n\n2. Cada Estado-Membro designa uma autoridade nacional responsável pela identificação e registo de novos utilizadores e pela modificação e extinção de contas existentes por meio do sistema a que se refere o n.º 1.\n\n3. Para efeitos de acesso às plataformas nacionais únicas para o setor marítimo nos diferentes Estados-Membros, os declarantes ou prestadores de serviços de dados registados no sistema de registo e gestão de utilizadores e de acessos do EMSWe são considerados registados nas plataformas nacionais únicas para o setor marítimo em todos os Estados-Membros e atuam dentro dos limites dos direitos de acesso concedidos por cada Estado-Membro nos termos das regras nacionais.\n\n4. A Comissão adota atos de execução que estabelecem as especificações técnicas, as normas e os procedimentos para configurar o sistema comum de gestão do registo e dos acessos dos utilizadores referido no n.º 1, incluindo as funcionalidades referidas no n.º 2. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "2edd9b4e6885a5d0": {
+   "fragment_id": "Artigo 13.º — Serviço comum de endereçamento",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Serviço comum de endereçamento",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Serviço comum de endereçamento\n\n1. A Comissão estabelece, em estreita colaboração com os Estados-Membros, um serviço comum de endereçamento adicional e voluntário, desde que tenha sido implementado na íntegra o módulo de interface de declaração harmonizado nos termos do artigo 6.º.\n\n2. A Comissão adota, em estreita colaboração com os Estados-Membros, atos de execução que estabelecem as especificações funcionais e técnicas, os mecanismos de controlo da qualidade e os procedimentos de execução, manutenção e utilização do serviço comum de endereçamento. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2024."
+  },
+  "846a4d6d23b56ed5": {
+   "fragment_id": "Artigo 14.º — Base de dados de navios do EMSWe",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Base de dados de navios do EMSWe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Base de dados de navios do EMSWe\n\n1. Em conformidade com o artigo 8.º, n.º 2, a Comissão cria uma base de dados de navios do EMSWe contendo uma lista de informações de identificação e características dos navios, bem como registos de isenções de declaração dos navios.\n\n2. Os Estados-Membros asseguram o fornecimento dos dados referidos no n.º 1 à base de dados de navios do EMSWe com base nos dados submetidos pelos declarantes à plataforma nacional única para o setor marítimo.\n\n3. A Comissão assegura que a base de dados de navios se encontra à disposição das plataformas nacionais únicas para o setor marítimo, a fim de facilitar a prestação de declarações dos navios.\n\n4. A Comissão adota atos de execução que estabelecem as especificações técnicas, as normas e os procedimentos para a base de dados referida no n.º 1 para a recolha, o armazenamento, a atualização e a prestação de informações de identificação dos navios e sobre as suas características, bem como os registos das respetivas isenções de declaração. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "1b8f73f67381aa05": {
+   "fragment_id": "Artigo 15.º — Base de dados comum de localização",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Base de dados comum de localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Base de dados comum de localização\n\n1. A Comissão cria uma base de dados comum de localização contendo uma lista de referência de códigos de localização [([^14])](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntr14-L_2019198PT.01006401-E0014) e códigos das instalações portuárias, conforme registado na base de dados GISIS da OMI.\n\n2. A Comissão assegura que a base de dados de localização se encontra à disposição das plataformas nacionais únicas para o setor marítimo, a fim de facilitar a prestação de declarações dos navios.\n\n3. Os Estados-Membros disponibilizam ao nível nacional as informações da base de dados de localização através das plataformas nacionais únicas para o setor marítimo.\n\n4. A Comissão adota atos de execução que estabelecem as especificações técnicas, as normas e os procedimentos para configurar a base de dados comum de localização referida no n.º 1 para a recolha, o armazenamento, a atualização e o fornecimento de códigos de localização e das instalações portuárias. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "daf876bb6fe690b4": {
+   "fragment_id": "Artigo 16.º — Base de dados comum de materiais perigosos",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Base de dados comum de materiais perigosos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Base de dados comum de materiais perigosos\n\n1. A Comissão cria uma base de dados comum de materiais perigosos com uma lista das mercadorias perigosas e poluentes que têm de ser notificadas, em conformidade com a Diretiva 2002/59/CE e com o formulário 7 do FAL da OMI, considerando os elementos de dados aplicáveis das convenções e códigos da OMI.\n\n2. A Comissão assegura que a base de dados comum de materiais perigosos se encontra à disposição das plataformas nacionais únicas para o setor marítimo, a fim de facilitar a prestação de declarações dos navios.\n\n3. A base de dados está ligada às entradas relevantes da base de dados MAR-CIS, conforme desenvolvida pela Agência Europeia da Segurança Marítima (EMSA) para informações sobre perigos e riscos associados às mercadorias perigosas e poluentes.\n\n4. A base de dados é utilizada como referência e como ferramenta de verificação, ao nível nacional e da União, durante o processo de declaração através das plataformas nacionais únicas para o setor marítimo.\n\n5. Os Estados-Membros disponibilizam ao nível nacional as informações da base de dados comum de materiais perigosos através das plataformas nacionais únicas para o setor marítimo.\n\n6. A Comissão adota atos de execução que estabelecem as especificações técnicas, as normas e os procedimentos para configurar a base de dados comum de materiais perigosos referida no n.º 1 para a recolha, o armazenamento e o fornecimento de informações de referência sobre materiais perigosos. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "33c72cafbf804561": {
+   "fragment_id": "Artigo 17.º — Base de dados comum relativa à higiene e salubridade dos navios",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Base de dados comum relativa à higiene e salubridade dos navios",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Base de dados comum relativa à higiene e salubridade dos navios\n\n1. A Comissão disponibiliza uma base de dados comum relativa à higiene e salubridade dos navios que pode receber e armazenar dados relacionados com declarações marítimas de saúde nos termos do artigo 37.º do Regulamento Sanitário Internacional 2005 (RSI). Não são conservados, nessa base de dados, dados pessoais referentes às pessoas doentes que se encontrem a bordo.\n\nAs autoridades sanitárias competentes dos Estados-Membros têm acesso à base de dados para efeitos de receção e intercâmbio desses dados.\n\n2. Os Estados-Membros que utilizem a base de dados relativa à higiene e salubridade dos navios informam a Comissão da autoridade nacional responsável pela gestão dos utilizadores relativa a essa base de dados, nomeadamente o registo dos novos utilizadores e a modificação e extinção de contas.\n\n3. A Comissão adota atos de execução que estabelecem as especificações técnicas, as normas e os procedimentos para configurar a base dados referida no n.º 1. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "880cdcca947ed85d": {
+   "fragment_id": "COORDENAÇÃO DAS ATIVIDADES DO EMSWe",
+   "type": "divisao",
+   "heading": "COORDENAÇÃO DAS ATIVIDADES DO EMSWe",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### COORDENAÇÃO DAS ATIVIDADES DO EMSWe"
+  },
+  "e5765330f9efcb5b": {
+   "fragment_id": "Artigo 18.º — Coordenadores nacionais",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Coordenadores nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Coordenadores nacionais\n\nCada Estado-Membro designa uma autoridade nacional competente com um mandato jurídico claro para atuar como coordenador nacional do EMSWe. O coordenador nacional:\n\na) Atua como o ponto de contacto nacional dos utilizadores e da Comissão para todas as questões relacionadas com a execução do presente regulamento;\n\nb) Coordena a aplicação do presente regulamento pelas autoridades nacionais competentes no seio do Estado-Membro e a cooperação entre estas;\n\nc) Coordena as atividades com o objetivo de assegurar a distribuição dos dados e a ligação aos sistemas relevantes das autoridades competentes, tal como referido no artigo 5.º, n.º 3, alínea c)."
+  },
+  "5746f1533fd218d5": {
+   "fragment_id": "Artigo 19.º — Plano de execução plurianual",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Plano de execução plurianual",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Plano de execução plurianual\n\nA fim de facilitar a execução atempada do presente regulamento e de dispor de mecanismos de controlo de qualidade e procedimentos de execução, manutenção e atualização do módulo interface atualizado e dos correspondentes elementos harmonizados do EMSWe, a Comissão adota, e revê anualmente, no seguimento de consultas adequadas com peritos dos Estados-Membros, um plano de execução plurianual, que contemple:\n\na) Um plano de desenvolvimento e atualização das interfaces de declaração harmonizadas e dos correspondentes elementos do EMSWe previsto para os próximos 18 meses;\n\nb) Um plano para a criação do serviço comum de endereçamento até 15 de agosto de 2024;\n\nc) Datas indicativas para a consulta com as partes interessadas pertinentes;\n\nd) Prazos indicativos para os Estados-Membros para a subsequente integração das interfaces de declaração harmonizadas nas plataformas nacionais únicas para o setor marítimo;\n\ne) Prazos indicativos para a criação do serviço comum de endereçamento por parte da Comissão na sequência da implementação do módulo de interface de declaração harmonizado;\n\nf) Períodos de teste para os Estados-Membros e os declarantes testarem a ligação com eventuais novas versões das interfaces de declaração harmonizadas;\n\ng) Períodos de teste para o serviço comum de endereçamento;\n\nh) Prazos indicativos para a descontinuação das versões mais antigas das interfaces de declaração harmonizadas para os Estados-Membros e os declarantes."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "f369ad681094907d": {
+   "fragment_id": "Artigo 20.º — Custos",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Custos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Custos\n\nFicam a cargo do orçamento geral da União Europeia os custos de:\n\na) Desenvolvimento e manutenção, por parte da Comissão e da AESM, das ferramentas informáticas de apoio à aplicação do presente regulamento ao nível da União;\n\nb) Promoção do EMSWe ao nível da União, incluindo entre as partes interessadas pertinentes, e ao nível das organizações internacionais pertinentes."
+  },
+  "cab9fe982a020878": {
+   "fragment_id": "Artigo 21.º — Cooperação com outros sistemas ou serviços de facilitação de transportes e comércio",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Cooperação com outros sistemas ou serviços de facilitação de transportes e comércio",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Cooperação com outros sistemas ou serviços de facilitação de transportes e comércio\n\nSe tiverem sido criados sistemas ou serviços de facilitação de transportes e comércio por outros atos jurídicos da União, a Comissão coordena as atividades relacionadas com esses sistemas ou serviços, com vista a obter sinergias e evitar duplicações."
+  },
+  "a863574c8da948af": {
+   "fragment_id": "Artigo 22.º — Reapreciação e comunicação",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Reapreciação e comunicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Reapreciação e comunicação\n\nOs Estados-Membros acompanham a aplicação do EMSWe e apresentam um relatório das suas conclusões à Comissão. O relatório inclui os seguintes indicadores:\n\na) Utilização do módulo de interface de declaração harmonizado;\n\nb) Utilização da interface gráfica do utilizador;\n\nc) Utilização de outros meios de declaração, conforme referido no artigo 7.º.\n\nOs Estados-Membros devem fornecer esse relatório anualmente à Comissão, utilizando um modelo que será fornecido pela Comissão.\n\nAté 15 de agosto de 2027, a Comissão procede à reavaliação da aplicação do presente regulamento e apresenta ao Parlamento Europeu e ao Conselho um relatório de avaliação sobre o funcionamento do EMSWe com base nos dados e estatísticas recolhidos. O relatório inclui, se necessário, uma avaliação das tecnologias emergentes que possam levar a alterações ou à substituição do módulo de interface de declaração harmonizado."
+  },
+  "513f8ba083fef518": {
+   "fragment_id": "Artigo 23.º — Exercício da delegação",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Exercício da delegação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Exercício da delegação\n\n1. O poder de adotar atos delegados é conferido à Comissão nas condições estabelecidas no presente artigo.\n\n2. O poder de adotar atos delegados referido no artigo 3.º é conferido à Comissão por um prazo de quatro anos a contar de 14 de agosto de 2019. A Comissão elabora um relatório relativo à delegação de poderes pelo menos nove meses antes do final do prazo de quatro anos. A delegação de poderes é tacitamente prorrogada por períodos de igual duração, salvo se o Parlamento Europeu ou o Conselho a tal se opuserem pelo menos três meses antes do final de cada prazo.\n\n3. A delegação de poderes referida no artigo 3.º pode ser revogada em qualquer momento pelo Parlamento Europeu ou pelo Conselho. A decisão de revogação põe termo à delegação dos poderes nela especificados. A decisão de revogação produz efeitos a partir do dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia* ou de uma data posterior nela especificada. A decisão de revogação não afeta os atos delegados já em vigor.\n\n4. Antes de adotar um ato delegado, a Comissão consulta os peritos designados por cada Estado-Membro de acordo com os princípios estabelecidos no Acordo Interinstitucional, de 13 de abril de 2016, sobre legislar melhor.\n\n5. Assim que adotar um ato delegado, a Comissão notifica-o simultaneamente ao Parlamento Europeu e ao Conselho.\n\n6. Os atos delegados adotados nos termos do artigo 3.º só entram em vigor se não tiverem sido formuladas objeções pelo Parlamento Europeu ou pelo Conselho no prazo de dois meses a contar da notificação do ato ao Parlamento Europeu e ao Conselho, ou se, antes do termo desse prazo, o Parlamento Europeu e o Conselho tiverem informado a Comissão de que não têm objeções a formular. O referido prazo é prorrogável por dois meses por iniciativa do Parlamento Europeu ou do Conselho."
+  },
+  "ea2e40adc3d5b07d": {
+   "fragment_id": "Artigo 24.º — Procedimento de comité",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Procedimento de comité",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Procedimento de comité\n\n1. A Comissão é assistida por um Comité de Facilitação Digital dos Transportes e do Comércio. Este comité é um comité na aceção do Regulamento (UE) n.º 182/2011.\n\n2. Caso se remeta para o presente número, aplica-se o artigo 4.º do Regulamento (UE) n.º 182/2011."
+  },
+  "ac70240a2fb79b37": {
+   "fragment_id": "Artigo 25.º — Revogação da Diretiva 2010/65/UE",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Revogação da Diretiva 2010/65/UE",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Revogação da Diretiva 2010/65/UE\n\nA Diretiva 2010/65/UE é revogada com efeitos a partir de 15 de agosto de 2025.\n\nAs remissões para a Diretiva 2010/65/UE entendem-se como remissões para o presente regulamento."
+  },
+  "1883b557ef436c0f": {
+   "fragment_id": "Artigo 26.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O presente regulamento é aplicável a partir de 15 de agosto de 2025.\n\n3. As funcionalidades referidas no artigo 11.º, n.º 2, e as relacionadas com as obrigações aduaneiras de declaração especificadas no ponto 7 da parte A do anexo tornam-se efetivas quando os sistemas eletrónicos referidos no artigo 6.º, n.º 1, do Regulamento (UE) n.º 952/2013 que são necessários para a aplicação dessas obrigações de declaração estiverem operacionais, em conformidade com o programa de trabalho estabelecido pela Comissão por força dos artigos 280.º e 281.º do Regulamento (UE) n.º 952/2013. A Comissão publica a data do cumprimento das condições do presente número na série «C» do *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 20 de junho de 2019.\n\n***Pelo Parlamento Europeu***\n\n***O Presidente***\n\n**A. TAJANI**\n\n***Pelo Conselho***\n\n***O Presidente***\n\n**G. CIAMBA**\n\n---"
+  },
+  "86461238e9d6a76b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc1-L_2019198PT.01006401-E0001) [JO C 62 de 15.2.2019, p. 265](http://publications.europa.eu/resource/oj/JOC_2019_062_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc2-L_2019198PT.01006401-E0002) Posição do Parlamento Europeu de 18 de abril de 2019 (ainda não publicada no Jornal Oficial) e decisão do Conselho de 13 de junho de 2019.\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc3-L_2019198PT.01006401-E0003) Diretiva 2010/65/UE do Parlamento Europeu e do Conselho, de 20 de outubro de 2010, relativa às formalidades de declaração exigidas aos navios à chegada e/ou à partida dos portos dos Estados-Membros e que revoga a Diretiva 2002/6/CE ([JO L 283 de 29.10.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_283_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc4-L_2019198PT.01006401-E0004) Convenção sobre a Facilitação do Tráfego Marítimo Internacional («Convenção FAL») da Organização Marítima Internacional (OMI), aprovada a 9 de abril de 1965 e alterada a 8 de abril de 2016, norma 1.1.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc5-L_2019198PT.01006401-E0005) Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro Comunitário ([JO L 269 de 10.10.2013, p. 1](http://publications.europa.eu/resource/oj/JOL_2013_269_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc6-L_2019198PT.01006401-E0006) Diretiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios e que revoga a Diretiva 93/75/CEE do Conselho ([JO L 208 de 5.8.2002, p. 10](http://publications.europa.eu/resource/oj/JOL_2002_208_R_TOC)).\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc7-L_2019198PT.01006401-E0007) Regulamento (UE) 2016/679 do Parlamento Europeu e do Conselho, de 27 de abril de 2016, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais e à livre circulação desses dados e que revoga a Diretiva 95/46/CE (Regulamento Geral sobre a Proteção de Dados) ([JO L 119 de 4.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_119_R_TOC)).\n\n> [(^8^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc8-L_2019198PT.01006401-E0008) Regulamento (UE) 2018/1725 do Parlamento Europeu e do Conselho, de 23 de outubro de 2018, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos e organismos da União e à livre circulação desses dados, e que revoga o Regulamento (CE) n.º 45/2001 e a Decisão n.º 1247/2002/CE ([JO L 295 de 21.11.2018, p. 39](http://publications.europa.eu/resource/oj/JOL_2018_295_R_TOC)).\n\n> [(^9^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc9-L_2019198PT.01006401-E0009) [JO L 123 de 12.5.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_123_R_TOC).\n\n> [(^10^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc10-L_2019198PT.01006401-E0010) Regulamento (UE) n.º 182/2011 do Parlamento Europeu e do Conselho, de 16 de fevereiro de 2011, que estabelece as regras e os princípios gerais relativos aos mecanismos de controlo pelos Estados-Membros do exercício das competências de execução pela Comissão ([JO L 55 de 28.2.2011, p. 13](http://publications.europa.eu/resource/oj/JOL_2011_055_R_TOC)).\n\n> [(^11^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc11-L_2019198PT.01006401-E0011) Regulamento (UE) n.º 910/2014 do Parlamento Europeu e do Conselho, de 23 de julho de 2014, relativo à identificação eletrónica e aos serviços de confiança para as transações eletrónicas no mercado interno e que revoga a Diretiva 1999/93/CE ([JO L 257 de 28.8.2014, p. 73](http://publications.europa.eu/resource/oj/JOL_2014_257_R_TOC)).\n\n> [(^12^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc12-L_2019198PT.01006401-E0012) Regulamento (CE) n.º 45/2001 do Parlamento Europeu e do Conselho, de 18 de dezembro de 2000, relativo à proteção das pessoas singulares no que diz respeito ao tratamento de dados pessoais pelas instituições e pelos órgãos comunitários e à livre circulação desses dados ([JO L 8 de 12.1.2001, p. 1](http://publications.europa.eu/resource/oj/JOL_2001_008_R_TOC)).\n\n> [(^13^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc13-L_2019198PT.01006401-E0013) Regulamento (UE) 2017/352 do Parlamento Europeu e do Conselho, de 15 de fevereiro de 2017, que estabelece o regime da prestação de serviços portuários e regras comuns relativas à transparência financeira dos portos ([JO L 57 de 3.3.2017, p. 1](http://publications.europa.eu/resource/oj/JOL_2017_057_R_TOC)).\n\n> [(^14^)](http://publications.europa.eu/resource/cellar/b4cf0abe-ae8d-11e9-9d01-01aa75ed71a1.0019.03/DOC_1#ntc14-L_2019198PT.01006401-E0014) «Código ONU de locais de comércio e de transporte»."
+  },
+  "91e709320b5592f9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de junho de 2019\n\nque estabelece um ambiente europeu de plataforma única para o setor marítimo e que revoga a Diretiva 2010/65/UE"
+  },
+  "7e0af7bdedac39a9": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Ambiente europeu de plataforma única para o setor marítimo» (EMSWe), o quadro jurídico e técnico para a transmissão eletrónica de informações relacionadas com as obrigações de declaração nas escalas portuárias na União, composto por uma rede de plataformas nacionais únicas para o setor marítimo dotadas de interfaces de declaração harmonizadas e que inclui o intercâmbio de dados pelo sistema SafeSeaNet e outros sistemas pertinentes, bem como serviços comuns para a gestão do registo e dos acessos dos utilizadores, de endereçamento, a identificação de navios, os códigos de localização e as informações sobre mercadorias perigosas e poluentes e sobre a saúde;\n\n2) «Navio», qualquer embarcação ou navio de mar que opere no meio marinho, sujeito a obrigações de declaração específicas enunciadas no anexo;\n\n3) «Plataforma nacional única para o setor marítimo», uma plataforma técnica estabelecida e gerida à escala nacional, destinada a receber, trocar e transmitir informações por via eletrónica para o cumprimento de obrigações de declaração, que compreende uma gestão dos direitos de acesso definida em comum, um módulo de interface de declaração harmonizado e uma interface gráfica de utilizador para a comunicação com os declarantes, assim como ligações com os sistemas e as bases de dados das autoridades competentes tanto ao nível nacional como ao nível da União, que permite que as mensagens ou avisos de receção que incluem o mais amplo leque de decisões tomadas por todas as autoridades competentes participantes sejam comunicadas aos declarantes, e que também pode permitir, se aplicável, a ligação a outros meios de declaração;\n\n4) «Módulo de interface de declaração harmonizado», uma componente informática mediadora (*middleware*) existente na plataforma nacional única para o setor marítimo, por meio da qual podem ser trocadas informações entre o sistema de informação utilizado pelo declarante e a plataforma nacional única para o setor marítimo;\n\n5) «Obrigação de declaração», as informações exigidas pelos atos jurídicos internacionais e da União indicados no anexo, bem como pela legislação e pelos requisitos nacionais mencionados no anexo, que têm de ser fornecidas no contexto de uma escala portuária;\n\n6) «Escala portuária», a chegada, a permanência e a partida de um navio de um porto marítimo num Estado-Membro;\n\n7) «Elemento de dados», a unidade mínima de informação, com uma definição única e características técnicas precisas, tais como formato, comprimento e tipo de letra;\n\n8) «Conjunto de dados do EMSWe», a lista completa de elementos de dados provenientes das obrigações de declaração;\n\n9) «Interface gráfica de utilizador», uma interface Web destinada à transferência bidirecional em linha de dados utilizador-sistema para uma plataforma nacional única para o setor marítimo, que permite aos declarantes inserir dados manualmente, nomeadamente através de folhas de cálculo digitais harmonizadas e de funções que permitem extrair elementos de dados das declarações a partir dessas folhas de cálculo, e que inclui funcionalidades e características comuns que asseguram um fluxo de navegação comum e uma experiência comum de carregamento de dados aos declarantes;\n\n10) «Serviço comum de endereçamento», um serviço adicional voluntário destinado aos declarantes para iniciarem conexões de dados diretas de sistema a sistema, entre o sistema de um declarante e o módulo de interface de declaração harmonizado da respetiva plataforma nacional única para o setor marítimo;\n\n11) «Declarante», qualquer pessoa singular ou coletiva sujeita às obrigações de declaração ou qualquer pessoa singular ou coletiva devidamente autorizada que atue em nome da primeira, dentro dos limites estabelecidos na obrigação de declaração pertinente;\n\n12) «Autoridades aduaneiras», as autoridades definidas no artigo 5.º, ponto 1) do Regulamento (UE) n.º 952/2013;\n\n13) «Prestador de serviços de dados», uma pessoa singular ou coletiva que presta a um declarante serviços de tecnologia da informação e comunicação relacionados com as obrigações de declaração;\n\n14) «Transmissão eletrónica de informações», o processo de transmissão de informações codificadas digitalmente, mediante a utilização de um formato estruturado passível de revisão que pode ser usado diretamente para armazenamento e tratamento de dados por computador;\n\n15) «Prestador de serviços portuários», qualquer pessoa singular ou coletiva que preste uma ou mais das categorias de serviços portuários enumeradas no artigo 1.º, n.º 2, do Regulamento (UE) 2017/352 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/028a9e3d-720f-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#E0001))."
+  },
+  "e512ce4c0a35e056": {
+   "fragment_id": "Artigo 5.º — Plataforma nacional única para o setor marítimo",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Plataforma nacional única para o setor marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Plataforma nacional única para o setor marítimo\n\n1. Cada Estado-Membro cria uma plataforma nacional única para o setor marítimo através da qual, em conformidade com o presente regulamento e sem prejuízo dos artigos 7.º e 11.º, são fornecidas uma única vez todas as informações necessárias para o cumprimento das obrigações de declaração por intermédio do conjunto de dados do EMSWe e em conformidade com esse conjunto de dados, utilizando para tal o módulo de interface de declaração harmonizado e a interface gráfica de utilizador a que se refere o artigo 6.º e, se aplicável, outros meios de declaração, conforme disposto no artigo 7.º, para que tais informações sejam disponibilizadas às autoridades relevantes dos Estados-Membros na medida do necessário para que estas possam desempenhar as respetivas funções.\n\nOs Estados-Membros são responsáveis pelo funcionamento das respetivas plataformas nacionais únicas para o setor marítimo.\n\nOs Estados-Membros podem estabelecer uma plataforma única para o setor marítimo em conjunto com um ou mais outros Estados-Membros. Esses Estados-Membros designam essa plataforma única para o setor marítimo como a sua plataforma nacional única para o setor marítimo e são responsáveis pelo seu funcionamento nos termos do presente regulamento.\n\n2. Os Estados-Membros que não tenham portos marítimos estão dispensados da obrigação de conceber, estabelecer, gerir e disponibilizar plataformas nacionais únicas para o setor marítimo tal como disposto no n.º 1.\n\n3.\n\nOs Estados-Membros asseguram:\n\na) A compatibilidade da plataforma nacional única para o setor marítimo com o módulo de interface de declaração harmonizado e a observância, por parte da interface gráfica de utilizador da sua plataforma nacional única para o setor marítimo, das funcionalidades comuns em conformidade com o artigo 6.º, n.º 2;\n\nb) A integração atempada das interfaces harmonizadas de declaração de acordo com as datas de execução definidas no ato de execução referido no artigo 6.º e quaisquer atualizações posteriores de acordo com as datas acordadas no plano de execução plurianual (PEP);\n\nc) Uma ligação com os sistemas relevantes das autoridades competentes, para permitir a transferência de dados a comunicar a essas autoridades através da plataforma nacional única para o setor marítimo e para esses sistemas, nos termos dos atos jurídicos da União e da legislação e dos requisitos nacionais e em conformidade com as especificações técnicas desses sistemas;\n\nd) A disponibilização de um serviço de apoio durante os primeiros 12 meses a partir de 15 de agosto de 2025, e de um sítio Web de apoio em linha para a sua plataforma nacional única para o setor marítimo com instruções claras na(s) língua(s) oficial(ais) do Estado-Membro e, sempre que relevante, numa língua que seja utilizada a nível internacional;\n\ne) A prestação de formação adequada e necessária ao pessoal diretamente envolvido no funcionamento da plataforma nacional única para o setor marítimo.\n\n4. Os Estados-Membros asseguram que as informações exigidas chegam às autoridades responsáveis pela aplicação da legislação em questão e estão limitadas às necessidades de cada uma dessas autoridades. Ao fazê-lo, os Estados-Membros asseguram a conformidade com os requisitos legais relacionados com a transmissão de informações previstos nos atos jurídicos da União enumerados no anexo e, se aplicável, utilizam as técnicas de tratamento eletrónico de dados referidas no artigo 6.º, n.º 1, do Regulamento (UE) n.º 952/2013. Os Estados-Membros asseguram igualmente a interoperabilidade com os sistemas de informação utilizados por essas autoridades.\n\n5. A plataforma nacional única para o setor marítimo oferece aos declarantes a possibilidade técnica de disponibilizar, separadamente, aos prestadores de serviços no porto de destino um subconjunto pré-definido ao nível nacional de elementos de dados.\n\n6. Se um Estado-Membro não exigir todos os elementos do conjunto de dados do EMSWe para o cumprimento das obrigações de declaração, a plataforma nacional única para o setor marítimo aceita comunicações limitadas aos elementos de dados exigidos por esse Estado-Membro. A plataforma nacional única para o setor marítimo aceita igualmente as comunicações do declarante que incluam elementos adicionais do conjunto de dados do EMSWe; todavia, não precisa de tratar nem de armazenar esses elementos adicionais.\n\n7. Os Estados-Membros armazenam as informações enviadas para a respetiva plataforma nacional única para o setor marítimo apenas pelo período necessário para assegurar o cumprimento dos requisitos previstos no presente regulamento e para dar cumprimento aos atos jurídicos nacionais, internacionais e da União enumerados no anexo. Os Estados-Membros apagam imediatamente essas informações depois disso.\n\n8. Os Estados-Membros disponibilizam ao público as horas de chegada e de partida, estimadas e reais, dos navios, num formato eletrónico harmonizado ao nível da União, com base nos dados fornecidos pelos declarantes à plataforma nacional única para o setor marítimo. Esta obrigação não se aplica aos navios que transportam mercadorias sensíveis caso a publicação dessa informação pela plataforma nacional única para o setor marítimo possa constituir uma ameaça para a segurança.\n\n9. As plataformas nacionais únicas para o setor marítimo têm um endereço de Internet uniforme.\n\n10. A Comissão adota atos de execução que estabelecem uma estrutura harmonizada do sítio Web de apoio referido no n.º 3, alínea d), as especificações técnicas para disponibilizar as horas de chegada e de partida referidas no n.º 8, e um formato uniforme para os endereços de Internet referidos no n.º 9. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "0ad95852063b53e3": {
+   "fragment_id": "Artigo 15.º — Base de dados comum de localização",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Base de dados comum de localização",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Base de dados comum de localização\n\n1. A Comissão cria uma base de dados comum de localização contendo uma lista de referência de códigos de localização ([^2^](http://publications.europa.eu/resource/cellar/028a9e3d-720f-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#E0002)) e códigos das instalações portuárias, conforme registado na base de dados GISIS da OMI.\n\n2. A Comissão assegura que a base de dados de localização se encontra à disposição das plataformas nacionais únicas para o setor marítimo, a fim de facilitar a prestação de declarações dos navios.\n\n3. Os Estados-Membros disponibilizam ao nível nacional as informações da base de dados de localização através das plataformas nacionais únicas para o setor marítimo.\n\n4. A Comissão adota atos de execução que estabelecem as especificações técnicas, as normas e os procedimentos para configurar a base de dados comum de localização referida no n.º 1 para a recolha, o armazenamento, a atualização e o fornecimento de códigos de localização e das instalações portuárias. Os referidos atos de execução são adotados pelo procedimento consultivo a que se refere o artigo 24.º, n.º 2.\n\nO primeiro desses atos de execução é adotado até 15 de agosto de 2021."
+  },
+  "a6073e8751badac1": {
+   "fragment_id": "Artigo 26.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Entrada em vigor\n\n1. O presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\n2. O presente regulamento é aplicável a partir de 15 de agosto de 2025.\n\n3. As funcionalidades referidas no artigo 11.º, n.º 2, e as relacionadas com as obrigações aduaneiras de declaração especificadas no ponto 7 da parte A do anexo tornam-se efetivas quando os sistemas eletrónicos referidos no artigo 6.º, n.º 1, do Regulamento (UE) n.º 952/2013 que são necessários para a aplicação dessas obrigações de declaração estiverem operacionais, em conformidade com o programa de trabalho estabelecido pela Comissão por força dos artigos 280.º e 281.º do Regulamento (UE) n.º 952/2013. A Comissão publica a data do cumprimento das condições do presente número na série «C» do *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "dcb0842016253ec6": {
+   "fragment_id": "OBRIGAÇÕES DE DECLARAÇÃO",
+   "type": "divisao",
+   "heading": "OBRIGAÇÕES DE DECLARAÇÃO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### OBRIGAÇÕES DE DECLARAÇÃO"
+  },
+  "d4965e8f7fa74108": {
+   "fragment_id": "A. Obrigações de declaração decorrentes de atos jurídicos da União",
+   "type": "divisao",
+   "heading": "A. Obrigações de declaração decorrentes de atos jurídicos da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Obrigações de declaração decorrentes de atos jurídicos da União\n\nEsta categoria de obrigações de declaração inclui as informações a prestar por força das seguintes disposições:"
+  },
+  "c0b5749f60ddf9ab": {
+   "fragment_id": "A1 - Notificação aplicável aos navios à chegada e/ou à partida de portos dos Estados-Membros",
+   "type": "divisao",
+   "heading": "A1 - Notificação aplicável aos navios à chegada e/ou à partida de portos dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A1 - Notificação aplicável aos navios à chegada e/ou à partida de portos dos Estados-Membros\n\nArtigo 4.º, n.º 1, da Diretiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios (JO L 208 de 5.8.2002, p. 10)."
+  },
+  "2fc3593f11c30018": {
+   "fragment_id": "A2 - Controlos fronteiriços de pessoas",
+   "type": "divisao",
+   "heading": "A2 - Controlos fronteiriços de pessoas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A2 - Controlos fronteiriços de pessoas\n\nArtigo 19.º do Regulamento (UE) 2016/399 do Parlamento Europeu e do Conselho, de 9 de março de 2016, que estabelece o código da União relativo ao regime de passagem de pessoas nas fronteiras (Código das Fronteiras Schengen) (JO L 77 de 23.3.2016, p. 1)."
+  },
+  "bfa6a9795062ccad": {
+   "fragment_id": "A3 - Notificação de mercadorias perigosas ou poluentes transportadas a bordo",
+   "type": "divisao",
+   "heading": "A3 - Notificação de mercadorias perigosas ou poluentes transportadas a bordo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A3 - Notificação de mercadorias perigosas ou poluentes transportadas a bordo\n\nArtigo 13.º da Diretiva 2002/59/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2002, relativa à instituição de um sistema comunitário de acompanhamento e de informação do tráfego de navios (JO L 208 de 5.8.2002, p. 10)."
+  },
+  "1a31464b4e572844": {
+   "fragment_id": "A4.1 - Notificação prévia de resíduos",
+   "type": "divisao",
+   "heading": "A4.1 - Notificação prévia de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A4.1 - Notificação prévia de resíduos\n\nArtigo 6.º, n.º 1, da Diretiva (UE) 2019/883 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos meios portuários de receção de resíduos provenientes dos navios, que altera a Diretiva 2010/65/UE e revoga a Diretiva 2000/59/CE (JO L 151 de 7.6.2019, p. 116)."
+  },
+  "2b9cf7b6b088ab30": {
+   "fragment_id": "A4.2 - Nota de recebimento de resíduos",
+   "type": "divisao",
+   "heading": "A4.2 - Nota de recebimento de resíduos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A4.2 - Nota de recebimento de resíduos\n\nArtigo 7.º, n.º 3, da Diretiva (UE) 2019/883 do Parlamento Europeu e do Conselho, de 17 de abril de 2019, relativa aos meios portuários de receção de resíduos provenientes dos navios, que altera a Diretiva 2010/65/UE e revoga a Diretiva 2000/59/CE (JO L 151 de 7.6.2019, p. 116)."
+  },
+  "e3c0814977f30ad1": {
+   "fragment_id": "A5 - Informações de segurança do navio antes da chegada",
+   "type": "divisao",
+   "heading": "A5 - Informações de segurança do navio antes da chegada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A5 - Informações de segurança do navio antes da chegada\n\nArtigo 6.º do Regulamento (CE) n.º 725/2004 do Parlamento Europeu e do Conselho, de 31 de março de 2004, relativo ao reforço da proteção dos navios e das instalações portuárias (JO L 129 de 29.4.2004, p. 6).\n\nÉ utilizado o formulário que figura no apêndice ao presente anexo para a transmissão dos elementos de dados exigidos pelo artigo 6.º do Regulamento (CE) n.º 725/2004."
+  },
+  "c9fa197364b9897f": {
+   "fragment_id": "A6.1 - Número de pessoas que viajam em navios de passageiros",
+   "type": "divisao",
+   "heading": "A6.1 - Número de pessoas que viajam em navios de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A6.1 - Número de pessoas que viajam em navios de passageiros\n\nArtigo 4.º, n.º 2, da Diretiva 98/41/CE do Conselho, de 18 de junho de 1998, relativa ao registo das pessoas que viajam em navios de passageiros que operam a partir de ou para portos dos Estados-Membros da Comunidade (JO L 188 de 2.7.1998, p. 35)."
+  },
+  "b572e2cba23416be": {
+   "fragment_id": "A6.2 - Informações sobre as pessoas que viajam em navios de passageiros",
+   "type": "divisao",
+   "heading": "A6.2 - Informações sobre as pessoas que viajam em navios de passageiros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A6.2 - Informações sobre as pessoas que viajam em navios de passageiros\n\nArtigo 5.º, n.º 2, da Diretiva 98/41/CE do Conselho, de 18 de junho de 1998, relativa ao registo das pessoas que viajam em navios de passageiros que operam a partir de ou para portos dos Estados-Membros da Comunidade (JO L 188 de 2.7.1998, p. 35)."
+  },
+  "51d42040129e9849": {
+   "fragment_id": "A7 - Formalidades aduaneiras",
+   "type": "divisao",
+   "heading": "A7 - Formalidades aduaneiras",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A7 - Formalidades aduaneiras\n\nA7.1 - **Notificação de chegada** [artigo 133.º do Regulamento (UE) n.º 952/2013 do Parlamento Europeu e do Conselho, de 9 de outubro de 2013, que estabelece o Código Aduaneiro Comunitário (JO L 269 de 10.10.2013, p. 1)];\n\nA7.2 - **Apresentação das mercadorias à alfândega** [artigo 139.º do Regulamento (UE) n.º 952/2013];\n\nA7.3 - **Declaração de depósito temporário das mercadorias** [artigo 145.º do Regulamento (UE) n.º 952/2013];\n\nA7.4 - **Estado aduaneiro das mercadorias** [artigos 153.º a 155.º do Regulamento (UE) n.º 952/2013];\n\nA7.5 - **Documentos de transporte eletrónicos utilizados em trânsito** [artigo 233.º, n.º 4, alínea e), do Regulamento (UE) n.º 952/2013];\n\nA7.6 - **Notificação de saída** [artigo 267.º do Regulamento (UE) n.º 952/2013];\n\nA7.7 - **Declaração sumária de saída** [artigos 271.º e 272.º do Regulamento (UE) n.º 952/2013];\n\nA7.8 - **Notificação de reexportação** [artigos 274.º e 275.º do Regulamento (UE) n.º 952/2013]."
+  },
+  "0971e7d3db3cd37a": {
+   "fragment_id": "A8 - Carga e descarga de navios graneleiros em segurança",
+   "type": "divisao",
+   "heading": "A8 - Carga e descarga de navios graneleiros em segurança",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A8 - Carga e descarga de navios graneleiros em segurança\n\nArtigo 7.º, n.º 1, alínea b), da Diretiva 2001/96/CE do Parlamento Europeu e do Conselho, de 4 de dezembro de 2001, que estabelece normas e procedimentos harmonizados para a segurança das operações de carga e descarga de navios graneleiros (JO L 13 de 16.1.2002, p. 9)."
+  },
+  "fea51cd0cc1baa9e": {
+   "fragment_id": "A9 - Notificação de chegada de navios elegíveis para inspeção alargada",
+   "type": "divisao",
+   "heading": "A9 - Notificação de chegada de navios elegíveis para inspeção alargada",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A9 - Notificação de chegada de navios elegíveis para inspeção alargada\n\nArtigo 9.º, n.º 1, da Diretiva 2009/16/CE do Parlamento Europeu e do Conselho, de 23 de abril de 2009, relativa à inspeção de navios pelo Estado do porto (JO L 131 de 28.5.2009, p. 57)."
+  },
+  "46894b995bbe270c": {
+   "fragment_id": "A10 - Estatísticas do transporte marítimo",
+   "type": "divisao",
+   "heading": "A10 - Estatísticas do transporte marítimo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### A10 - Estatísticas do transporte marítimo\n\nArtigo 3.º da Diretiva 2009/42/CE do Parlamento Europeu e do Conselho, de 6 de maio de 2009, relativa ao levantamento estatístico dos transportes marítimos de mercadorias e de passageiros (JO L 141 de 6.6.2009, p. 29)."
+  },
+  "1745655a9257ac08": {
+   "fragment_id": "B. Documentos FAL e obrigações de declaração decorrentes de instrumentos jurídicos internacionais",
+   "type": "divisao",
+   "heading": "B. Documentos FAL e obrigações de declaração decorrentes de instrumentos jurídicos internacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Documentos FAL e obrigações de declaração decorrentes de instrumentos jurídicos internacionais\n\nEsta categoria de obrigações de declaração inclui as informações a prestar nos termos da Convenção FAL e de outros instrumentos jurídicos internacionais aplicáveis.\n\nB1 - Documento FAL n.º 1: Declaração geral\n\nB2 - Documento FAL n.º 2: Declaração de carga\n\nB3 - Documento FAL n.º 3: Declaração de provisões de bordo\n\nB4 - Documento FAL n.º 4: Declaração dos bens da tripulação\n\nB5 - Documento FAL n.º 5: Lista da tripulação\n\nB6 - Documento FAL n.º 6: Lista de passageiros\n\nB7 - Documento FAL n.º 7: Mercadorias perigosas\n\nB8 - Declaração marítima de saúde"
+  },
+  "445dffb34d7cb7cc": {
+   "fragment_id": "C. Obrigações de declaração decorrentes da legislação e dos requisitos nacionais",
+   "type": "divisao",
+   "heading": "C. Obrigações de declaração decorrentes da legislação e dos requisitos nacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### C. Obrigações de declaração decorrentes da legislação e dos requisitos nacionais\n\n---"
+  },
+  "8335d5de69d002ef": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/028a9e3d-720f-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Regulamento (UE) 2017/352 do Parlamento Europeu e do Conselho, de 15 de fevereiro de 2017, que estabelece o regime da prestação de serviços portuários e regras comuns relativas à transparência financeira dos portos (JO L 57 de 3.3.2017, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/028a9e3d-720f-11f0-bf4e-01aa75ed71a1.0020.02/DOC_1#src.E0002)) «Código ONU de locais de comércio e de transporte»."
+  }
+ }
+}

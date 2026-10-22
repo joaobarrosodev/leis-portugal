@@ -37,6 +37,30 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-01-01'
+version_history:
+  file: diretiva-ue-2020-285.versoes.json
+  count: 2
+  source_lastmod: '2025-01-01'
+  versions:
+  - date: '2020-03-02'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-01-01'
+    amending: eu:celex:32022L0542:por
+    amending_title: DIRETIVA (UE) 2022/542 DO CONSELHO de 5 de abril de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1. — Alterações à Diretiva 2006/112/CE
+    - Altera Artigo 2. — Alterações ao Regulamento (UE) n.o 904/2010
+    - Altera Artigo 5. — Destinatários
+    - Adita « Secção –1
+    - Adita Definições
+    - Adita « Secção 2‐A
+    - Adita Simplificação das obrigações das pequenas empresas isentas
+    - Adita « CAPÍTULO X‐A
+    - Adita DISPOSIÇÕES RELATIVAS AO REGIME ESPECIAL PREVISTO NO CAPÍTULO 1 DO TÍTULO XII DA DIRETIVA 2006/112/CE
+    - Suprime Notas
 identifiers:
   celex: 32020L0285
   eli: http://data.europa.eu/eli/dir/2020/285/oj
@@ -51,7 +75,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/95e6b981-5c56-11ea-8b81-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/560acaf1-c21e-11ef-91ed-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020L0285-20250101
-  retrieved_at: '2026-10-22T02:49:27Z'
+  retrieved_at: '2026-10-22T17:10:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-17T08:18:19.214+02:00'
 integrity:
@@ -60,9 +84,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:27Z'
-  notes: Texto consolidado 02020L0285-20250101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:10:33Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2020-285.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -141,28 +165,18 @@ relationships:
 article_structure:
   article_count: 5
   section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:27Z'
+  checked_at: '2026-10-22T17:10:33Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2020/285 do Conselho de 18 de fevereiro de 2020
-
-> 02020L0285 — PT — 01.01.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022L0542) — [DIRETIVA (UE) 2022/542 DO CONSELHO de 5 de abril de 2022](http://publications.europa.eu/resource/celex/32022L0542) — L 107 — 1 — 6.4.2022
-
-## DIRETIVA (UE) 2020/285 DO CONSELHO
 
 de 18 de fevereiro de 2020
 

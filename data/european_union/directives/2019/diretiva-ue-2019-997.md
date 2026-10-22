@@ -34,6 +34,35 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-09'
+version_history:
+  file: diretiva-ue-2019-997.versoes.json
+  count: 2
+  source_lastmod: '2025-12-09'
+  versions:
+  - date: '2019-06-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-12-09'
+    amending: eu:celex:32024L1986:por
+    amending_title: DIRETIVA DELEGADA (UE) 2024/1986 DA COMISSÃO de 6 de maio de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 21.º — Destinatários
+    - Adita ANEXO I
+    - Adita FORMULÁRIO UNIFORME DE TVP DA UE
+    - Adita 1. Modelo e dimensões
+    - 'Adita 2. Página um: página de rosto'
+    - 'Adita 3. Página dois: aposição da vinheta uniforme de TVP da UE'
+    - 'Adita 4. Páginas três e quatro: informações'
+    - 'Adita 5. Páginas cinco e seis: vistos e carimbos de entrada/saída'
+    - Adita 6. Número do formulário uniforme de TVP da UE
+    - Adita ANEXO II
+    - Adita VINHETA UNIFORME DE TVP DA UE
+    - Adita Características da vinheta uniforme de TVP da UE
+    - Adita Secções a preencher
+    - Adita Informações de leitura ótica
+    - Suprime Notas
 identifiers:
   celex: 32019L0997
   eli: http://data.europa.eu/eli/dir/2019/997/oj
@@ -48,7 +77,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/50b89e07-9325-11e9-9369-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/5546c9a2-cfe8-11f0-8da2-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L0997-20251209
-  retrieved_at: '2026-10-22T03:19:05Z'
+  retrieved_at: '2026-10-22T17:07:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T07:28:26.250+01:00'
 integrity:
@@ -57,9 +86,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:05Z'
-  notes: Texto consolidado 02019L0997-20251209.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:32Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2019-997.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -152,28 +181,18 @@ relationships:
 article_structure:
   article_count: 21
   section_count: 21
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:05Z'
+  checked_at: '2026-10-22T17:07:32Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2019/997 do Conselho, de 18 de junho de 2019
-
-> 02019L0997 — PT — 09.12.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1986) — [DIRETIVA DELEGADA (UE) 2024/1986 DA COMISSÃO de 6 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1986) — L 1986 — 1 — 16.7.2024
-
-## DIRETIVA (UE) 2019/997 DO CONSELHO
 
 de 18 de junho de 2019
 

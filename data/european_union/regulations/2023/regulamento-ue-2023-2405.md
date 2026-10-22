@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-10-31'
+version_history:
+  file: regulamento-ue-2023-2405.versoes.json
+  count: 1
+  source_lastmod: '2023-10-31'
+  versions:
+  - date: '2023-10-31'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32023R2405
   eli: http://data.europa.eu/eli/reg/2023/2405/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/23d2f354-778f-11ee-99ba-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/414e2ca9-e623-11ee-8b2b-01aa75ed71a1.0020.02/DOC_3
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R2405-20231031
-  retrieved_at: '2026-10-22T03:01:41Z'
+  retrieved_at: '2026-10-22T17:16:47Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-07-31T17:51:28.104+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:41Z'
-  notes: Texto consolidado 02023R2405-20231031.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:47Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2023-2405.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -207,31 +216,19 @@ relationships:
   date: '2025-10-16'
 article_structure:
   article_count: 18
-  section_count: 6
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 7
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:41Z'
+  checked_at: '2026-10-22T17:16:47Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2023/2405 do Parlamento Europeu e do Conselho, de 18 de outubro de 2023
-
-> 02023R2405 — PT — 31.10.2023 — 000.004
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023R2405R%2801%29) — [Rectificação, JO L 90126, 26.2.2024, p. 1 ((UE) 2023/24052023/2405)](http://publications.europa.eu/resource/celex/32023R2405R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023R2405R%2803%29) — [Rectificação, JO L 90260, 20.3.2025, p. 1 (2023/2405)](http://publications.europa.eu/resource/celex/32023R2405R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32023R2405R%2804%29) — [Rectificação, JO L 90825, 16.10.2025, p. 1 (2023/2405)](http://publications.europa.eu/resource/celex/32023R2405R%2804%29)
-
-## REGULAMENTO (UE) 2023/2405 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 18 de outubro de 2023
 

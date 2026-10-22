@@ -38,6 +38,32 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-18'
+version_history:
+  file: regulamento-ue-2024-1143.versoes.json
+  count: 2
+  source_lastmod: '2026-03-18'
+  versions:
+  - date: '2024-04-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-03-18'
+    amending: eu:celex:32026R0471:por
+    amending_title: REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 5.º — Âmbito de aplicação
+    - Altera Artigo 22.º — Registo das indicações geográficas da União
+    - Altera Artigo 26.º — Proteção das indicações geográficas
+    - Altera Artigo 37.º — Símbolos da União, indicações e abreviaturas
+    - Altera Artigo 82.º — Produto de montanha
+    - Altera Artigo 84.º — Alteração do Regulamento (UE) n.º 1308/2013
+    - Altera Controlos para verificar a conformidade com o caderno de especificações das denominações de origem e indicações
+      geográficas e para verificar a conformidade com a definição e as condições de utilização das menções tradicionais protegidas,
+      bem como relativamente à fiscalização do cumprimento das condições de utilização das menções tradicionais.
+    - Altera Artigo 85.º — Alteração do Regulamento (UE) 2019/787
+    - Altera Artigo 86.º — Alteração do Regulamento (UE) 2019/1753
+    - Altera Notas
 identifiers:
   celex: 32024R1143
   eli: http://data.europa.eu/eli/reg/2024/1143/oj
@@ -52,7 +78,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/309e233d-010c-11ef-a251-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/3fa89264-74c4-11f1-bf5e-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024R1143-20260318
-  retrieved_at: '2026-10-22T03:01:46Z'
+  retrieved_at: '2026-10-22T17:17:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-04-23T03:14:31.245+02:00'
 integrity:
@@ -61,9 +87,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:46Z'
-  notes: Texto consolidado 02024R1143-20260318.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:17:09Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2024-1143.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -302,33 +328,19 @@ relationships:
   date: '2012-11-21'
 article_structure:
   article_count: 97
-  section_count: 38
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 40
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:46Z'
+  checked_at: '2026-10-22T17:17:09Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2024/1143 do Parlamento Europeu e do Conselho, de 11 de abril de 2024
-
-> 02024R1143 — PT — 18.03.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R0471) — [REGULAMENTO (UE) 2026/471 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de fevereiro de 2026](http://publications.europa.eu/resource/celex/32026R0471) — L 471 — 1 — 26.2.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024R1143R%2804%29) — [Rectificação, JO L 90477, 5.6.2025, p. 1 (2024/1143)](http://publications.europa.eu/resource/celex/32024R1143R%2804%29)
-
-## REGULAMENTO (UE) 2024/1143 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 11 de abril de 2024
 

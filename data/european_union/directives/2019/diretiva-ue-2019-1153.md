@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-07-09'
+version_history:
+  file: diretiva-ue-2019-1153.versoes.json
+  count: 1
+  source_lastmod: '2024-07-09'
+  versions:
+  - date: '2024-07-09'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32019L1153
   eli: http://data.europa.eu/eli/dir/2019/1153/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/1ffe5df9-a3b6-11e9-9d01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8d25326d-5440-11ef-acbc-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L1153-20240709
-  retrieved_at: '2026-10-22T03:19:05Z'
+  retrieved_at: '2026-10-22T17:07:41Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T08:56:49.827+01:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:05Z'
-  notes: Texto consolidado 02019L1153-20240709.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:41Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2019-1153.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -187,29 +196,20 @@ relationships:
   date: '2000-11-02'
 article_structure:
   article_count: 27
-  section_count: 12
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 13
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:05Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:41Z'
+  warnings:
+  - '02019L1153-20190711: versão indisponível (Sem expressão na língua por para CELEX 02019L1153-20190711.)'
   errors: []
 ---
 
 # Diretiva (UE) 2019/1153 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019L1153 — PT — 09.07.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1654) — [DIRETIVA (UE) 2024/1654 DO PARLAMENTO EUROPEU E DO CONSELHO de 31 de maio de 2024](http://publications.europa.eu/resource/celex/32024L1654) — L 1654 — 1 — 19.6.2024
-
-## DIRETIVA (UE) 2019/1153 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

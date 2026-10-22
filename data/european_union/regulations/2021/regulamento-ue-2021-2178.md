@@ -41,6 +41,102 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2021-2178.versoes.json
+  count: 3
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2486:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2486 DA COMISSÃO de 27 de junho de 2023
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 8.º — Regras de divulgação comuns a todas as empresas financeiras e não financeiras
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera 1.1. Especificação dos indicadores-chave de desempenho (ICD)
+    - Altera 1.2. Especificação das divulgações que acompanham os ICD das empresas não financeiras
+    - Altera 2. Metodologia para a comunicação dos ICD a divulgar por empresas não financeiras
+    - 'Altera Modelo: Proporção do volume de negócios de produtos ou serviços associados a atividades económicas alinhadas
+      pela taxonomia — divulgação relativa ao ano N'
+    - 'Altera Modelo: Proporção das CapEx de produtos ou serviços associados a atividades económicas alinhadas pela taxonomia
+      — divulgação relativa ao ano N'
+    - Altera 1.1. Numerador
+    - Altera MODELO PARA O ICD DOS GESTORES DE ATIVOS
+    - Altera 1.1. Âmbito dos ICD
+    - Altera 1.2. Teor dos ICD e metodologia
+    - Altera 0. Resumo dos ICD a divulgar pelas instituições de crédito ao abrigo do artigo 8.º do Regulamento Taxonomia
+    - Altera 3. ICD RAE dos stocks
+    - Altera 2.4. Metodologia de cálculo
+    - Altera 3.4. Outras considerações
+    - Altera 0. Resumo dos ICD a divulgar pelas empresas de investimento ao abrigo do artigo 8.º do Regulamento Taxonomia
+    - Altera 1. ICD relacionados com investimentos
+    - Altera 2. ICD relacionados com as atividades de subscrição
+    - 'Altera Modelo: ICD de subscrição para as empresas de seguros e de resseguros não vida'
+    - 'Altera Modelo: Proporção dos investimentos da empresa de seguros ou de resseguros que são direcionados para financiamento
+      ou estão associados a atividades alinhadas pela taxonomia em relação ao total dos investimentos'
+    - Altera Notas
+    - 'Adita Modelo: Proporção das OpEx de produtos ou serviços associados a atividades económicas alinhadas pela taxonomia
+      — divulgação relativa ao ano N'
+    - Adita 1. ICD EI — Serviços de negociação por conta própria
+    - Adita 2. ICD EI — Outros serviços
+    - Adita MODELOS PARA OS ICD DAS EMPRESAS DE SEGUROS E DE RESSEGUROS
+    - 'Suprime Modelo: Proporção de OpEx de produtos ou serviços associados a atividades económicas alinhadas pela taxonomia
+      — divulgação relativa ao ano N'
+    - Suprime 1. ICD EI – Serviços de negociação por conta própria
+    - Suprime 2. ICD EI Outros serviços
+    - Suprime MODELO PARA OS ICD DAS EMPRESAS DE SEGUROS E DE RESSEGUROS
+  - date: '2026-01-01'
+    amending: eu:celex:32026R0073:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/73 DA COMISSÃO de 4 de julho de 2025
+    changes:
+    - Altera Artigo 1.º — Definições
+    - Altera Artigo 2.º — Divulgações pelas empresas não financeiras
+    - Altera Artigo 3.º — Divulgações pelos gestores de ativos
+    - Altera Artigo 4.º — Divulgações pelas instituições de crédito
+    - Altera Artigo 5.º — Divulgações pelas empresas de investimento
+    - Altera Artigo 6.º — Divulgações pelas empresas de seguros e de resseguros
+    - Altera Artigo 7.º — Regras de divulgação comuns a todas as empresas financeiras
+    - Altera Artigo 8.º — Regras de divulgação comuns a todas as empresas financeiras e não financeiras
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera 1.1. Especificação dos indicadores-chave de desempenho (ICD)
+    - Altera 1.2. Especificação das divulgações que acompanham os ICD das empresas não financeiras
+    - Altera 1.1. Numerador
+    - Altera 1.2. Denominador
+    - Altera 2. Metodologia de elaboração e comunicação dos ICD a divulgar pelos gestores de ativos
+    - Altera MODELO PARA O ICD DOS GESTORES DE ATIVOS
+    - Altera 1.1. Âmbito dos ICD
+    - Altera 1.2. Teor dos ICD e metodologia
+    - Altera MODELO PARA OS ICD DAS INSTITUIÇÕES DE CRÉDITO
+    - Altera 0. Resumo dos ICD a divulgar pelas instituições de crédito ao abrigo do artigo 8.º do Regulamento Taxonomia
+    - Altera 3. ICD RAE dos stocks
+    - Altera 4. ICD RAE dos fluxos
+    - Altera 6. ICD das receitas de taxas e comissões provenientes de serviços distintos da concessão de empréstimos e da
+      gestão de ativos
+    - Altera 7. ICD da carteira de negociação
+    - Altera 2.2. Empresas que beneficiam do investimento consideradas
+    - Altera 2.3. Instrumentos de investimento considerados — ativos
+    - Altera 3.2. Clientes considerados
+    - Altera 3.4. Outras considerações
+    - Altera 0. Resumo dos ICD a divulgar pelas empresas de investimento ao abrigo do artigo 8.º do Regulamento Taxonomia
+    - Altera 1. ICD EI — Serviços de negociação por conta própria
+    - Altera 2. ICD EI — Outros serviços
+    - Altera 1. ICD relacionados com investimentos
+    - Altera 2. ICD relacionados com as atividades de subscrição
+    - Altera DIVULGAÇÕES QUALITATIVAS PARA GESTORES DE ATIVOS, INSTITUIÇÕES DE CRÉDITO, EMPRESAS DE INVESTIMENTO E EMPRESAS
+      DE SEGUROS E DE RESSEGUROS
+    - Altera Notas
+    - 'Adita Modelo 1: Proporção do volume de negócios, CapEx e OpEx de produtos ou serviços associados a atividades económicas
+      elegíveis para taxonomia ou alinhadas pela taxonomia — divulgação relativa ao ano (N) (resumo dos ICD)'
+    - 'Adita Notas explicativas do modelo 1:'
+    - 'Adita Modelo 2: Proporção do volume de negócios, CapEx e OpEx de produtos ou serviços associados a atividades económicas
+      elegíveis para taxonomia ou alinhadas pela taxonomia — divulgação relativa ao ano (N) (desagregação por atividade)'
+    - 'Adita Notas explicativas do modelo 2:'
+    - Adita Modelo-padrão para a divulgação exigida nos termos do artigo 8.º do Regulamento (UE) 2020/852 (gestores de ativos)
+    - Adita 1. Ativos para o cálculo do ERA
 identifiers:
   celex: 32021R2178
   eli: http://data.europa.eu/eli/reg_del/2021/2178/oj
@@ -55,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b9a46efd-598b-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/7e925fce-27bd-11f1-a7dd-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2178-20260101
-  retrieved_at: '2026-10-22T03:19:56Z'
+  retrieved_at: '2026-10-22T17:15:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-06-04T15:04:18.497+02:00'
 integrity:
@@ -64,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:56Z'
-  notes: Texto consolidado 02021R2178-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:45Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2021-2178.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,31 +250,20 @@ relationships:
   date: '2024-03-22'
 article_structure:
   article_count: 10
-  section_count: 75
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 76
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:56Z'
-  warnings: []
+  checked_at: '2026-10-22T17:15:45Z'
+  warnings:
+  - '02021R2178-20211210: versão indisponível (Sem expressão na língua por para CELEX 02021R2178-20211210.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2021/2178 da Comissão de 6 de julho de 2021
-
-> 02021R2178 — PT — 01.01.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [M1](http://publications.europa.eu/resource/celex/32022R1214) — [REGULAMENTO DELEGADO (UE) 2022/1214 DA COMISSÃO de 9 de março de 2022](http://publications.europa.eu/resource/celex/32022R1214) — L 188 — 1 — 15.7.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R2486) — [REGULAMENTO DELEGADO (UE) 2023/2486 DA COMISSÃO de 27 de junho de 2023](http://publications.europa.eu/resource/celex/32023R2486) — L 2486 — 1 — 21.11.2023
-- [►M3](http://publications.europa.eu/resource/celex/32026R0073) — [REGULAMENTO DELEGADO (UE) 2026/73 DA COMISSÃO de 4 de julho de 2025](http://publications.europa.eu/resource/celex/32026R0073) — L 73 — 1 — 8.1.2026
-
-## REGULAMENTO DELEGADO (UE) 2021/2178 DA COMISSÃO
 
 de 6 de julho de 2021
 

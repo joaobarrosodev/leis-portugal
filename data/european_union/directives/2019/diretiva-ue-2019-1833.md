@@ -35,6 +35,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2020-06-24'
+version_history:
+  file: diretiva-ue-2019-1833.versoes.json
+  count: 2
+  source_lastmod: '2020-06-24'
+  versions:
+  - date: '2019-10-31'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2020-06-24'
+    amending: eu:celex:32020L0739:por
+    amending_title: DIRETIVA (UE) 2020/739 DA COMISSÃO de 3 de junho de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º
+    - Altera Artigo 4.º
+    - Adita ANEXO
+    - Adita «ANEXO I
+    - Adita LISTA INDICATIVA DE ATIVIDADES PROFISSIONAIS
+    - Adita (artigo 4.º, n.º 2)
+    - Adita NOTA INTRODUTÓRIA
+    - Adita «ANEXO III
+    - Adita CLASSIFICAÇÃO COMUNITÁRIA
+    - Adita (artigo 2.º, segundo parágrafo, e artigo 18.º)
+    - Adita NOTAS INTRODUTÓRIAS
+    - Adita BACTÉRIAS
+    - Adita e afins
+    - Adita VÍRUS ()
+    - Adita AGENTES DE DOENÇAS PRIÓNICAS
+    - Adita PARASITAS
+    - Adita FUNGOS
+    - Adita «ANEXO V
+    - Adita RECOMENDAÇÕES RELATIVAS ÀS MEDIDAS E AOS NÍVEIS DE CONFINAMENTO
+    - Adita [artigo 15.º, n.º 3, e artigo 16.º, n.º 1, alíneas a) e b)]
+    - Adita «ANEXO VI
+    - Adita CONFINAMENTO PARA PROCESSOS INDUSTRIAIS
+    - Adita [artigo 4.º, n.º 1 e artigo 16.º, n.º 2, alínea a)]
+    - Suprime Notas
 identifiers:
   celex: 32019L1833
   eli: http://data.europa.eu/eli/dir/2019/1833/oj
@@ -49,7 +87,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9ef3eab8-fbd2-11e9-8c1f-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/1b605a52-affc-11ea-bb7a-01aa75ed71a1.0019.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L1833-20200624
-  retrieved_at: '2026-10-22T02:49:22Z'
+  retrieved_at: '2026-10-22T17:07:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-14T00:36:19.205+01:00'
 integrity:
@@ -58,9 +96,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:22Z'
-  notes: Texto consolidado 02019L1833-20200624.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:45Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2019-1833.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -154,28 +192,18 @@ relationships:
 article_structure:
   article_count: 4
   section_count: 23
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:22Z'
+  checked_at: '2026-10-22T17:07:45Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2019/1833 da Comissão de 24 de outubro de 2019
-
-> 02019L1833 — PT — 24.06.2020 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020L0739) — [DIRETIVA (UE) 2020/739 DA COMISSÃO de 3 de junho de 2020](http://publications.europa.eu/resource/celex/32020L0739) — L 175 — 11 — 4.6.2020
-
-## DIRETIVA (UE) 2019/1833 DA COMISSÃO
 
 de 24 de outubro de 2019
 

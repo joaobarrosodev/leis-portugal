@@ -39,6 +39,108 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-12'
+version_history:
+  file: regulamento-ue-2019-818.versoes.json
+  count: 6
+  source_lastmod: '2026-06-12'
+  versions:
+  - date: '2019-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-03'
+    amending: eu:celex:32021R1150:por
+    amending_title: M1; REGULAMENTO (UE) 2021/1151 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 7.º — Utilização do portal europeu de pesquisa
+    - Altera Artigo 18.º — Dados do repositório comum de dados de identificação
+    - Altera Artigo 29.º — Verificação manual das diferentes identidades e autoridades responsáveis
+    - Altera Artigo 37.º — Qualidade dos dados
+    - Altera Artigo 59.º — Alteração do Regulamento (UE) 2018/1726
+    - Altera Artigo 60.º — Alteração do Regulamento (UE) 2018/1862
+    - Altera Artigo 61.º — Alteração do Regulamento (UE) 2019/816
+    - Altera Artigo 62.º — Elaboração de relatórios e estatísticas
+    - Altera Artigo 68.º — Início das operações
+    - Altera Notas
+  - date: '2023-12-31'
+    amending: eu:celex:32021R1133:por
+    amending_title: REGULAMENTO (UE) 2021/1133 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 13.º — Armazenamento de modelos biométricos no serviço partilhado de correspondências biométricas
+    - Altera Artigo 18.º — Dados do repositório comum de dados de identificação
+    - Altera Artigo 37.º — Qualidade dos dados
+    - Altera Artigo 59.º — Alteração do Regulamento (UE) 2018/1726
+    - Altera Artigo 60.º — Alteração do Regulamento (UE) 2018/1862
+    - Altera Artigo 61.º — Alteração do Regulamento (UE) 2019/816
+    - Altera Artigo 62.º — Elaboração de relatórios e estatísticas
+    - Altera Artigo 68.º — Início das operações
+    - Altera Notas
+  - date: '2024-04-25'
+    amending: eu:celex:32024R0982:por
+    amending_title: REGULAMENTO (UE) 2024/982 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Portal europeu de pesquisa
+    - Altera Artigo 37.º — Qualidade dos dados
+    - Altera Artigo 39.º — Repositório central para a elaboração de relatórios e estatísticas
+    - Altera Artigo 59.º — Alteração do Regulamento (UE) 2018/1726
+    - Altera Artigo 60.º — Alteração do Regulamento (UE) 2018/1862
+    - Altera Artigo 61.º — Alteração do Regulamento (UE) 2019/816
+    - Altera Artigo 62.º — Elaboração de relatórios e estatísticas
+    - Altera Artigo 68.º — Início das operações
+    - Altera Notas
+  - date: '2025-01-28'
+    amending: eu:celex:32025R0013:por
+    amending_title: REGULAMENTO (UE) 2025/13 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Portal europeu de pesquisa
+    - Altera Artigo 37.º — Qualidade dos dados
+    - Altera Artigo 39.º — Repositório central para a elaboração de relatórios e estatísticas
+    - Altera Artigo 59.º — Alteração do Regulamento (UE) 2018/1726
+    - Altera Artigo 60.º — Alteração do Regulamento (UE) 2018/1862
+    - Altera Artigo 61.º — Alteração do Regulamento (UE) 2019/816
+    - Altera Artigo 62.º — Elaboração de relatórios e estatísticas
+    - Altera Artigo 68.º — Início das operações
+    - Altera Notas
+  - date: '2026-06-12'
+    amending: eu:celex:32024R1352:por
+    amending_title: REGULAMENTO (UE) 2024/1352 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024; REGULAMENTO (UE)
+      2024/1358 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 6.º — Portal europeu de pesquisa
+    - Altera Artigo 7.º — Utilização do portal europeu de pesquisa
+    - Altera Artigo 10.º — Manutenção de registos
+    - Altera Artigo 13.º — Armazenamento de modelos biométricos no serviço partilhado de correspondências biométricas
+    - Altera Artigo 14.º — Pesquisar dados biométricos utilizando o serviço partilhado de correspondências biométricas
+    - Altera Artigo 16.º — Manutenção de registos
+    - Altera Artigo 17.º — Repositório comum de dados de identificação
+    - Altera Artigo 18.º — Dados do repositório comum de dados de identificação
+    - Altera Artigo 23.º — Conservação de dados no repositório comum de dados de identificação
+    - Altera Artigo 24.º — Manutenção de registos
+    - Altera Artigo 26.º — Acesso ao detetor de identidades múltiplas
+    - Altera Artigo 27.º — Deteção de identidades múltiplas
+    - Altera Artigo 29.º — Verificação manual das diferentes identidades e autoridades responsáveis
+    - Altera Artigo 37.º — Qualidade dos dados
+    - Altera Artigo 39.º — Repositório central para a elaboração de relatórios e estatísticas
+    - Altera Artigo 47.º — Direito à informação
+    - Altera Artigo 50.º — Comunicação de dados pessoais a países terceiros, organizações internacionais e entidades privadas
+    - Altera Artigo 59.º — Alteração do Regulamento (UE) 2018/1726
+    - Altera Artigo 60.º — Alteração do Regulamento (UE) 2018/1862
+    - Altera Artigo 61.º — Alteração do Regulamento (UE) 2019/816
+    - Altera Artigo 62.º — Elaboração de relatórios e estatísticas
+    - Altera Artigo 68.º — Início das operações
+    - Altera Notas
+    - Adita Artigo 20.º-A — Acesso ao repositório comum de dados de identificação para fins de identificação ou verificação
+      da identidade nos termos do Regulamento (UE) 2024/1356
 identifiers:
   celex: 32019R0818
   eli: http://data.europa.eu/eli/reg/2019/818/oj
@@ -53,7 +155,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6692765c-7c60-11e9-9f05-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/2b976f77-853d-11f1-bf5e-01aa75ed71a1.0021.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0818-20260612
-  retrieved_at: '2026-10-22T03:19:11Z'
+  retrieved_at: '2026-10-22T17:08:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T06:17:13.890+01:00'
 integrity:
@@ -62,9 +164,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:11Z'
-  notes: Texto consolidado 02019R0818-20260612.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:27Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2019-818.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -372,43 +474,19 @@ relationships:
   date: '2024-03-15'
 article_structure:
   article_count: 76
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:11Z'
+  checked_at: '2026-10-22T17:08:27Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2019/818 do Parlamento Europeu e do Conselho, de 20 de maio de 2019
-
-> 02019R0818 — PT — 12.06.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1133) — [REGULAMENTO (UE) 2021/1133 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1133) — L 248 — 1 — 13.7.2021
-- [M2](http://publications.europa.eu/resource/celex/32021R1150) — [REGULAMENTO (UE) 2021/1150 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1150) — L 249 — 1 — 14.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32021R1151) — [REGULAMENTO (UE) 2021/1151 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1151) — L 249 — 7 — 14.7.2021
-- [►M4](http://publications.europa.eu/resource/celex/32024R0982) — [REGULAMENTO (UE) 2024/982 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R0982) — L 982 — 1 — 5.4.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R1352) — [REGULAMENTO (UE) 2024/1352 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1352) — L 1352 — 1 — 22.5.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024R1358) — [REGULAMENTO (UE) 2024/1358 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1358) — L 1358 — 1 — 22.5.2024
-- [►M7](http://publications.europa.eu/resource/celex/32025R0013) — [REGULAMENTO (UE) 2025/13 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de dezembro de 2024](http://publications.europa.eu/resource/celex/32025R0013) — L 13 — 1 — 8.1.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0818R%2801%29) — [Rectificação, JO L 010, 15.1.2020, p. 5 (2019/818)](http://publications.europa.eu/resource/celex/32019R0818R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32019R0818R%2803%29) — [Rectificação, JO L 013, 20.1.2022, p. 78 (2019/818)](http://publications.europa.eu/resource/celex/32019R0818R%2803%29)
-- [►C3](http://publications.europa.eu/resource/celex/32019R0818R%2804%29) — [Rectificação, JO L 335, 29.12.2022, p. 112 (2019/818)](http://publications.europa.eu/resource/celex/32019R0818R%2804%29)
-- [C4](http://publications.europa.eu/resource/celex/32019R0818R%2805%29) — [Rectificação, JO L 90189, 15.3.2024, p. 1 ((UE) 2019/818)](http://publications.europa.eu/resource/celex/32019R0818R%2805%29)
-- [►C5](http://publications.europa.eu/resource/celex/32024R1358R%2801%29) — [Rectificação, JO L 90925, 25.11.2025, p. 1 (2024/1358)](http://publications.europa.eu/resource/celex/32024R1358R%2801%29)
-
-## REGULAMENTO (UE) 2019/818 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de maio de 2019
 

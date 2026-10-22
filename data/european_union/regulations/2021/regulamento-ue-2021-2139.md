@@ -39,6 +39,254 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2021-2139.versoes.json
+  count: 6
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2021-12-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-01-01'
+    amending: eu:celex:32022R1214:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1214 DA COMISSÃO de 9 de março de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Altera Notas
+    - Adita Artigo 2.º-A — Revisão
+    - Adita ANEXO I
+    - Adita Critérios técnicos de avaliação para determinar em que condições uma atividade económica é qualificada como contribuindo
+      substancialmente para a mitigação das alterações climáticas e estabelecer se essa atividade económica não prejudica
+      significativamente o cumprimento de nenhum dos outros objetivos ambientais
+    - Adita 1. SILVICULTURA
+    - Adita 1.1. Florestação
+    - Adita 1.2. Reabilitação e recuperação de florestas, incluindo a reflorestação e a regeneração natural da floresta na
+      sequência de fenómenos extremos
+    - Adita 1.3. Gestão florestal
+    - Adita 1.4. Silvicultura de conservação
+    - Adita 2. ATIVIDADES LIGADAS À PROTEÇÃO E À RECUPERAÇÃO DO AMBIENTE
+    - Adita 2.1. Recuperação de zonas húmidas
+    - Adita 3. INDÚSTRIAS TRANSFORMADORAS
+    - Adita 3.1. Fabrico de tecnologias para energia de fontes renováveis
+    - Adita 3.2. Fabrico de equipamento para produção e utilização de hidrogénio
+    - Adita 3.3. Fabrico de tecnologias hipocarbónicas para transportes
+    - Adita 3.4. Fabrico de baterias
+    - Adita 3.5. Fabrico de equipamentos dotados de eficiência energética para edifícios
+    - Adita 3.6. Fabrico de outras tecnologias hipocarbónicas
+    - Adita 3.7. Produção de cimento
+    - Adita 3.8. Produção de alumínio
+    - Adita 3.9. Produção de ferro e de aço
+    - Adita 3.10. Produção de hidrogénio
+    - Adita 3.11. Produção de negro de fumo
+    - Adita 3.12. Produção de carbonato de sódio
+    - Adita 3.13. Produção de cloro
+    - Adita 3.14. Fabrico de produtos químicos orgânicos de base
+    - Adita 3.15. Produção de amoníaco anidro
+    - Adita 3.16. Produção de ácido nítrico
+    - Adita 3.17. Produção de plásticos sob formas primárias
+    - Adita 4. ENERGIA
+    - Adita 4.1. Produção de eletricidade a partir da tecnologia solar fotovoltaica
+    - Adita 4.2. Produção de eletricidade a partir da tecnologia de energia solar concentrada
+    - Adita 4.3. Produção de eletricidade a partir de energia eólica
+    - Adita 4.4. Produção de eletricidade a partir de tecnologias de energia oceânica
+    - Adita 4.5. Produção de eletricidade a partir de energia hidroelétrica
+    - Adita 4.6. Produção de eletricidade a partir de energia geotérmica
+    - Adita 4.7. Produção de eletricidade a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Adita 4.8. Produção de eletricidade a partir de bioenergia
+  - date: '2024-01-01'
+    amending: eu:celex:32023R2485:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2485 DA COMISSÃO de 27 de junho de 2023
+    changes:
+    - Altera 1.1. Florestação
+    - Altera 1.2. Reabilitação e recuperação de florestas, incluindo a reflorestação e a regeneração natural da floresta na
+      sequência de fenómenos extremos
+    - Altera 1.3. Gestão florestal
+    - Altera 1.4. Silvicultura de conservação
+    - Altera 2.1. Recuperação de zonas húmidas
+    - Altera 3.3. Fabrico de tecnologias hipocarbónicas para transportes
+    - Altera 3.4. Fabrico de baterias
+    - Altera 3.5. Fabrico de equipamentos dotados de eficiência energética para edifícios
+    - Altera 3.6. Fabrico de outras tecnologias hipocarbónicas
+    - Altera 3.7. Produção de cimento
+    - Altera 3.8. Produção de alumínio
+    - Altera 3.9. Produção de ferro e de aço
+    - Altera 3.10. Produção de hidrogénio
+    - Altera 3.11. Produção de negro de fumo
+    - Altera 3.12. Produção de carbonato de sódio
+    - Altera 3.13. Produção de cloro
+    - Altera 3.14. Fabrico de produtos químicos orgânicos de base
+    - Altera 3.15. Produção de amoníaco anidro
+    - Altera 3.16. Produção de ácido nítrico
+    - Altera 3.17. Produção de plásticos sob formas primárias
+    - Altera 4.3. Produção de eletricidade a partir de energia eólica
+    - Altera 4.4. Produção de eletricidade a partir de tecnologias de energia oceânica
+    - Altera 4.5. Produção de eletricidade a partir de energia hidroelétrica
+    - Altera 4.6. Produção de eletricidade a partir de energia geotérmica
+    - Altera 4.7. Produção de eletricidade a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.8. Produção de eletricidade a partir de bioenergia
+    - Altera 4.9. Transporte e distribuição de eletricidade
+    - Altera 4.12. Armazenamento de hidrogénio
+    - Altera 4.13. Produção de biogás e biocombustíveis para transportes e de biolíquidos
+    - Altera 4.14. Redes de transporte e distribuição de gases renováveis e hipocarbónicos
+    - Altera 4.16. Instalação e exploração de bombas de calor elétricas
+    - Altera 4.17. Cogeração de calor / frio e de eletricidade a partir de energia solar
+    - Altera 4.18. Cogeração de calor / frio e de eletricidade a partir de energia geotérmica
+    - Altera 4.19. Cogeração de calor / frio e de eletricidade a partir de combustíveis renováveis não fósseis líquidos e
+      gasosos
+    - Altera 4.20. Cogeração de calor / frio e de eletricidade a partir de bioenergia
+    - Altera 4.23. Produção de calor / frio a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.24. Produção de calor / frio a partir de bioenergia
+    - Altera 4.26. Fases pré-comerciais de tecnologias avançadas para produzir energia a partir de processos nucleares com
+      um mínimo de resíduos provenientes do ciclo do combustível
+    - Altera 4.27. Construção e exploração segura de novas centrais nucleares para a produção de eletricidade ou calor, incluindo
+      para a produção de hidrogénio, utilizando as melhores tecnologias disponíveis
+    - Altera 4.28. Produção de eletricidade a partir de energia nuclear em instalações existentes
+  - date: '2025-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera 1.1. Florestação
+    - Altera 1.2. Reabilitação e recuperação de florestas, incluindo a reflorestação e a regeneração natural da floresta na
+      sequência de fenómenos extremos
+    - Altera 1.3. Gestão florestal
+    - Altera 1.4. Silvicultura de conservação
+    - Altera 2.1. Recuperação de zonas húmidas
+    - Altera 3.3. Fabrico de tecnologias hipocarbónicas para transportes
+    - Altera 3.4. Fabrico de baterias
+    - Altera 3.5. Fabrico de equipamentos dotados de eficiência energética para edifícios
+    - Altera 3.6. Fabrico de outras tecnologias hipocarbónicas
+    - Altera 3.7. Produção de cimento
+    - Altera 3.8. Produção de alumínio
+    - Altera 3.9. Produção de ferro e de aço
+    - Altera 3.10. Produção de hidrogénio
+    - Altera 3.11. Produção de negro de fumo
+    - Altera 3.12. Produção de carbonato de sódio
+    - Altera 3.13. Produção de cloro
+    - Altera 3.14. Fabrico de produtos químicos orgânicos de base
+    - Altera 3.15. Produção de amoníaco anidro
+    - Altera 3.16. Produção de ácido nítrico
+    - Altera 3.17. Produção de plásticos sob formas primárias
+    - Altera 3.18. Fabrico de componentes automóveis e de mobilidade
+    - Altera 3.20. Fabrico, instalação e prestação de assistência a equipamento elétrico de alta, média e baixa tensão para
+      o transporte e distribuição de eletricidade que ofereça ou permita um contributo substancial para a mitigação das alterações
+      climáticas
+    - Altera 3.21. Fabrico de aeronaves
+    - Altera 4.3. Produção de eletricidade a partir de energia eólica
+    - Altera 4.4. Produção de eletricidade a partir de tecnologias de energia oceânica
+    - Altera 4.5. Produção de eletricidade a partir de energia hidroelétrica
+    - Altera 4.6. Produção de eletricidade a partir de energia geotérmica
+    - Altera 4.7. Produção de eletricidade a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.8. Produção de eletricidade a partir de bioenergia
+    - Altera 4.9. Transporte e distribuição de eletricidade
+    - Altera 4.12. Armazenamento de hidrogénio
+    - Altera 4.13. Produção de biogás e biocombustíveis para transportes e de biolíquidos
+    - Altera 4.14. Redes de transporte e distribuição de gases renováveis e hipocarbónicos
+    - Altera 4.16. Instalação e exploração de bombas de calor elétricas
+    - Altera 4.17. Cogeração de calor / frio e de eletricidade a partir de energia solar
+    - Altera 4.18. Cogeração de calor / frio e de eletricidade a partir de energia geotérmica
+    - Altera 4.19. Cogeração de calor / frio e de eletricidade a partir de combustíveis renováveis não fósseis líquidos e
+      gasosos
+    - Altera 4.20. Cogeração de calor / frio e de eletricidade a partir de bioenergia
+    - Altera 4.23. Produção de calor / frio a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.24. Produção de calor / frio a partir de bioenergia
+  - date: '2025-01-08'
+    amending: eu:celex:32024R3215:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/3215 DA COMISSÃO de 28 de junho de 2024
+    changes:
+    - Altera Artigo 1.º
+    - Altera 1.1. Florestação
+    - Altera 1.2. Reabilitação e recuperação de florestas, incluindo a reflorestação e a regeneração natural da floresta na
+      sequência de fenómenos extremos
+    - Altera 1.3. Gestão florestal
+    - Altera 1.4. Silvicultura de conservação
+    - Altera 2.1. Recuperação de zonas húmidas
+    - Altera 3.3. Fabrico de tecnologias hipocarbónicas para transportes
+    - Altera 3.4. Fabrico de baterias
+    - Altera 3.5. Fabrico de equipamentos dotados de eficiência energética para edifícios
+    - Altera 3.6. Fabrico de outras tecnologias hipocarbónicas
+    - Altera 3.7. Produção de cimento
+    - Altera 3.8. Produção de alumínio
+    - Altera 3.9. Produção de ferro e de aço
+    - Altera 3.10. Produção de hidrogénio
+    - Altera 3.11. Produção de negro de fumo
+    - Altera 3.12. Produção de carbonato de sódio
+    - Altera 3.13. Produção de cloro
+    - Altera 3.14. Fabrico de produtos químicos orgânicos de base
+    - Altera 3.15. Produção de amoníaco anidro
+    - Altera 3.16. Produção de ácido nítrico
+    - Altera 3.17. Produção de plásticos sob formas primárias
+    - Altera 3.18. Fabrico de componentes automóveis e de mobilidade
+    - Altera 3.20. Fabrico, instalação e prestação de assistência a equipamento elétrico de alta, média e baixa tensão para
+      o transporte e distribuição de eletricidade que ofereça ou permita um contributo substancial para a mitigação das alterações
+      climáticas
+    - Altera 3.21. Fabrico de aeronaves
+    - Altera 4.3. Produção de eletricidade a partir de energia eólica
+    - Altera 4.4. Produção de eletricidade a partir de tecnologias de energia oceânica
+    - Altera 4.5. Produção de eletricidade a partir de energia hidroelétrica
+    - Altera 4.6. Produção de eletricidade a partir de energia geotérmica
+    - Altera 4.7. Produção de eletricidade a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.8. Produção de eletricidade a partir de bioenergia
+    - Altera 4.9. Transporte e distribuição de eletricidade
+    - Altera 4.12. Armazenamento de hidrogénio
+    - Altera 4.13. Produção de biogás e biocombustíveis para transportes e de biolíquidos
+    - Altera 4.14. Redes de transporte e distribuição de gases renováveis e hipocarbónicos
+    - Altera 4.16. Instalação e exploração de bombas de calor elétricas
+    - Altera 4.17. Cogeração de calor / frio e de eletricidade a partir de energia solar
+    - Altera 4.18. Cogeração de calor / frio e de eletricidade a partir de energia geotérmica
+    - Altera 4.19. Cogeração de calor / frio e de eletricidade a partir de combustíveis renováveis não fósseis líquidos e
+      gasosos
+    - Altera 4.20. Cogeração de calor / frio e de eletricidade a partir de bioenergia
+    - Altera 4.23. Produção de calor / frio a partir de combustíveis renováveis não fósseis líquidos e gasosos
+  - date: '2026-01-01'
+    amending: eu:celex:32026R0073:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/73 DA COMISSÃO de 4 de julho de 2025
+    changes:
+    - Altera 1.1. Florestação
+    - Altera 1.2. Reabilitação e recuperação de florestas, incluindo a reflorestação e a regeneração natural da floresta na
+      sequência de fenómenos extremos
+    - Altera 1.3. Gestão florestal
+    - Altera 1.4. Silvicultura de conservação
+    - Altera 2.1. Recuperação de zonas húmidas
+    - Altera 3.3. Fabrico de tecnologias hipocarbónicas para transportes
+    - Altera 3.4. Fabrico de baterias
+    - Altera 3.5. Fabrico de equipamentos dotados de eficiência energética para edifícios
+    - Altera 3.6. Fabrico de outras tecnologias hipocarbónicas
+    - Altera 3.7. Produção de cimento
+    - Altera 3.8. Produção de alumínio
+    - Altera 3.9. Produção de ferro e de aço
+    - Altera 3.10. Produção de hidrogénio
+    - Altera 3.11. Produção de negro de fumo
+    - Altera 3.12. Produção de carbonato de sódio
+    - Altera 3.13. Produção de cloro
+    - Altera 3.14. Fabrico de produtos químicos orgânicos de base
+    - Altera 3.15. Produção de amoníaco anidro
+    - Altera 3.16. Produção de ácido nítrico
+    - Altera 3.17. Produção de plásticos sob formas primárias
+    - Altera 3.18. Fabrico de componentes automóveis e de mobilidade
+    - Altera 3.20. Fabrico, instalação e prestação de assistência a equipamento elétrico de alta, média e baixa tensão para
+      o transporte e distribuição de eletricidade que ofereça ou permita um contributo substancial para a mitigação das alterações
+      climáticas
+    - Altera 3.21. Fabrico de aeronaves
+    - Altera 4.3. Produção de eletricidade a partir de energia eólica
+    - Altera 4.4. Produção de eletricidade a partir de tecnologias de energia oceânica
+    - Altera 4.5. Produção de eletricidade a partir de energia hidroelétrica
+    - Altera 4.6. Produção de eletricidade a partir de energia geotérmica
+    - Altera 4.7. Produção de eletricidade a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.8. Produção de eletricidade a partir de bioenergia
+    - Altera 4.9. Transporte e distribuição de eletricidade
+    - Altera 4.12. Armazenamento de hidrogénio
+    - Altera 4.13. Produção de biogás e biocombustíveis para transportes e de biolíquidos
+    - Altera 4.14. Redes de transporte e distribuição de gases renováveis e hipocarbónicos
+    - Altera 4.16. Instalação e exploração de bombas de calor elétricas
+    - Altera 4.17. Cogeração de calor / frio e de eletricidade a partir de energia solar
+    - Altera 4.18. Cogeração de calor / frio e de eletricidade a partir de energia geotérmica
+    - Altera 4.19. Cogeração de calor / frio e de eletricidade a partir de combustíveis renováveis não fósseis líquidos e
+      gasosos
+    - Altera 4.20. Cogeração de calor / frio e de eletricidade a partir de bioenergia
+    - Altera 4.23. Produção de calor / frio a partir de combustíveis renováveis não fósseis líquidos e gasosos
+    - Altera 4.24. Produção de calor / frio a partir de bioenergia
 identifiers:
   celex: 32021R2139
   eli: http://data.europa.eu/eli/reg_del/2021/2139/oj
@@ -53,7 +301,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/fb7cb8f7-58c1-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/7e7d2677-2238-11f1-8c3a-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R2139-20260101
-  retrieved_at: '2026-10-22T02:53:58Z'
+  retrieved_at: '2026-10-22T17:15:29Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T14:38:13.597+01:00'
 integrity:
@@ -62,9 +310,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:58Z'
-  notes: Texto consolidado 02021R2139-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:29Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2021-2139.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -180,32 +428,19 @@ relationships:
   date: '2023-08-31'
 article_structure:
   article_count: 4
-  section_count: 255
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 256
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:58Z'
+  checked_at: '2026-10-22T17:15:29Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2021/2139 da Comissão, de 4 de junho de 2021
-
-> 02021R2139 — PT — 01.01.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R1214) — [REGULAMENTO DELEGADO (UE) 2022/1214 DA COMISSÃO de 9 de março de 2022](http://publications.europa.eu/resource/celex/32022R1214) — L 188 — 1 — 15.7.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R2485) — [REGULAMENTO DELEGADO (UE) 2023/2485 DA COMISSÃO de 27 de junho de 2023](http://publications.europa.eu/resource/celex/32023R2485) — L 2485 — 1 — 21.11.2023
-- [►M3](http://publications.europa.eu/resource/celex/32024R3215) — [REGULAMENTO DELEGADO (UE) 2024/3215 DA COMISSÃO de 28 de junho de 2024](http://publications.europa.eu/resource/celex/32024R3215) — L 3215 — 1 — 19.12.2024
-- [►M4](http://publications.europa.eu/resource/celex/32026R0073) — [REGULAMENTO DELEGADO (UE) 2026/73 DA COMISSÃO de 4 de julho de 2025](http://publications.europa.eu/resource/celex/32026R0073) — L 73 — 1 — 8.1.2026
-
-## REGULAMENTO DELEGADO (UE) 2021/2139 DA COMISSÃO
 
 de 4 de junho de 2021
 

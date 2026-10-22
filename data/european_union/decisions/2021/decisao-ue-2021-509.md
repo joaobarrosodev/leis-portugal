@@ -34,6 +34,117 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-12-16'
+version_history:
+  file: decisao-ue-2021-509.versoes.json
+  count: 5
+  source_lastmod: '2024-12-16'
+  versions:
+  - date: '2023-03-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-06-26'
+    amending: eu:celex:32023D1304:por
+    amending_title: DECISÃO (PESC) 2023/1304 DO CONSELHO de 26 de junho de 2023
+    changes:
+    - Altera Artigo 10.º — Órgãos de gestão e quadro de pessoal
+    - Altera Artigo 11.º — Comité do Mecanismo
+    - Altera Artigo 14.º — Disposições gerais aplicáveis aos administradores, aos contabilistas e ao pessoal
+    - Altera Artigo 16.º — Responsabilidade
+    - Altera Artigo 26.º — Determinação das contribuições
+    - Altera Artigo 69.º — Regras de segurança para a proteção de informações classificadas
+    - Altera Artigo 70.º — Proteção de dados pessoais
+    - Altera Artigo 71.º — Acesso do público aos documentos
+    - Altera Artigo 73.º — Medidas transitórias
+    - Altera LIMITES FINANCEIROS MÁXIMOS ANUAIS
+    - Altera Notas
+    - Adita Artigo 2.º
+    - Suprime Artigo 2.º — Limite máximo financeiro
+  - date: '2024-03-18'
+    amending: eu:celex:32024D0890:por
+    amending_title: DECISÃO (PESC) 2024/890 DO CONSELHO de 18 de março de 2024
+    changes:
+    - Altera Artigo 2.º
+    - Altera Artigo 10.º — Órgãos de gestão e quadro de pessoal
+    - Altera Artigo 11.º — Comité do Mecanismo
+    - Altera Artigo 14.º — Disposições gerais aplicáveis aos administradores, aos contabilistas e ao pessoal
+    - Altera Artigo 16.º — Responsabilidade
+    - Altera Artigo 26.º — Determinação das contribuições
+    - Altera Artigo 69.º — Regras de segurança para a proteção de informações classificadas
+    - Altera Artigo 70.º — Proteção de dados pessoais
+    - Altera Artigo 71.º — Acesso do público aos documentos
+    - Altera Artigo 73.º — Medidas transitórias
+    - Altera Notas
+    - Adita LIMITES FINANCEIROS ANUAIS
+    - Suprime LIMITES FINANCEIROS MÁXIMOS ANUAIS
+  - date: '2024-11-05'
+    amending: eu:celex:32024D2846:por
+    amending_title: DECISÃO (PESC) 2024/2846 DO CONSELHO de 5 de novembro de 2024
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 10.º — Órgãos de gestão e quadro de pessoal
+    - Altera Artigo 11.º — Comité do Mecanismo
+    - Altera Artigo 14.º — Disposições gerais aplicáveis aos administradores, aos contabilistas e ao pessoal
+    - Altera Artigo 16.º — Responsabilidade
+    - Altera Artigo 26.º — Determinação das contribuições
+    - Altera Artigo 44.º — Definição dos custos comuns e períodos de elegibilidade
+    - Altera Artigo 45.º — Exercícios
+    - Altera Artigo 69.º — Regras de segurança para a proteção de informações classificadas
+    - Altera Artigo 70.º — Proteção de dados pessoais
+    - Altera Artigo 71.º — Acesso do público aos documentos
+    - Altera Artigo 73.º — Medidas transitórias
+    - Altera 2. Custos incrementais incorridos com a prestação de apoio à força no seu conjunto
+    - Altera CUSTOS COMUNS A CARGO DO MECANISMO, A PEDIDO DO COMANDANTE DA OPERAÇÃO E APROVAÇÃO DO COMITÉ
+    - Altera Notas
+    - Adita 3. Custos incrementais específicos da Capacidade de Projeção Rápida da UE, incluindo o agrupamento tático da UE,
+      os facilitadores estratégicos e módulos
+    - Suprime 3. Custos incrementais específicos para os agrupamentos táticos da UE
+  - date: '2024-12-16'
+    amending: eu:celex:32024D3185:por
+    amending_title: DECISÃO (PESC) 2024/3185 DO CONSELHO de 16 de dezembro de 2024
+    changes:
+    - Altera Artigo 4.º — Definições
+    - Altera Artigo 5.º — Participação nas decisões e contribuição para o financiamento de operações e de medidas de assistência
+    - Altera Artigo 7.º — Base jurídica para o financiamento das operações e medidas de assistência da União ao abrigo do
+      Mecanismo
+    - Altera Artigo 9.º — Prioridades e orientações estratégicas
+    - Altera Artigo 11.º — Comité do Mecanismo
+    - Altera Artigo 14.º — Disposições gerais aplicáveis aos administradores, aos contabilistas e ao pessoal
+    - Altera Artigo 15.º — Comandantes da operação
+    - Altera Artigo 16.º — Responsabilidade
+    - Altera Artigo 18.º — Orçamento anual
+    - Altera Artigo 20.º — Transferências de dotações
+    - Altera Artigo 21.º — Transição de dotações
+    - Altera Artigo 25.º — Previsão prévia
+    - Altera Artigo 26.º — Determinação das contribuições
+    - Altera Artigo 29.º — Cobrança de contribuições
+    - Altera Artigo 33.º — Modos de execução
+    - Altera Artigo 40.º — Regras gerais aplicáveis aos controlos
+    - Altera Artigo 41.º — Auditoria interna do Mecanismo
+    - Altera Artigo 42.º — Auditoria externa do Mecanismo
+    - Altera Artigo 43.º — Apresentação das contas anuais e resultado da execução orçamental
+    - Altera Artigo 51.º — Custos comuns durante a fase ativa de uma operação
+    - Altera Artigo 52.º — Destino final dos equipamentos e infraestruturas financiados em comum
+    - Altera Artigo 56.º — Objetivos e princípios
+    - Altera Artigo 57.º — Fase preparatória
+    - Altera Artigo 62.º — Acordos com os beneficiários
+    - Altera Artigo 66.º — Avaliação da capacidade dos responsáveis pela execução executarem as despesas financiadas ao abrigo
+      do Mecanismo
+    - Altera Artigo 69.º — Regras de segurança para a proteção de informações classificadas
+    - Altera Artigo 70.º — Proteção de dados pessoais
+    - Altera Artigo 71.º — Acesso do público aos documentos
+    - Altera Artigo 73.º — Medidas transitórias
+    - Altera (quer estejam diretamente associados ou não a uma operação ou a uma medida de assistência)
+    - Altera Notas
+    - Adita Artigo 10.º — Gestão do Mecanismo
+    - Adita Artigo 21.º-A — Reutilização de dotações
+    - Adita Artigo 24.º-A — Tipos de contribuições
+    - Adita Artigo 28.º — Financiamento prévio
+    - Adita Artigo 38.º — Relatórios financeiros periódicos
+    - Adita Artigo 58.º — Processo acelerado para dar início a uma medida de assistência
+    - Adita Artigo 63.º — Comunicação e acompanhamento
+    - Suprime Artigo 10.º — Órgãos de gestão e quadro de pessoal
+    - Suprime Artigo 28. — Financiamento prévio
 identifiers:
   celex: 32021D0509
   eli: http://data.europa.eu/eli/dec/2021/509/oj
@@ -48,7 +159,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b02dc8bf-8c43-11eb-b85c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c99eb0d9-f91e-11ef-b7db-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021D0509-20241216
-  retrieved_at: '2026-10-22T02:49:29Z'
+  retrieved_at: '2026-10-22T17:12:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T22:52:21.953+01:00'
 integrity:
@@ -57,9 +168,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:29Z'
-  notes: Texto consolidado 02021D0509-20241216.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:12:14Z'
+  notes: 5 versão(ões); histórico completo em decisao-ue-2021-509.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -243,34 +354,20 @@ relationships:
   date: '2015-03-28'
 article_structure:
   article_count: 78
-  section_count: 54
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 55
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:29Z'
-  warnings: []
+  checked_at: '2026-10-22T17:12:14Z'
+  warnings:
+  - '02021D0509-20210324: versão indisponível (Sem expressão na língua por para CELEX 02021D0509-20210324.)'
   errors: []
 ---
 
 # Decisão (PESC) 2021/509 do Conselho de 22 de março de 2021
-
-> 02021D0509 — PT — 16.12.2024 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023D0577) — [DECISÃO (PESC) 2023/577 DO CONSELHO de 13 de março de 2023](http://publications.europa.eu/resource/celex/32023D0577) — L 75 — 23 — 14.3.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023D0994) — [DECISÃO (PESC) 2023/994 DO CONSELHO de 22 de maio de 2023](http://publications.europa.eu/resource/celex/32023D0994) — L 135 — 120 — 23.5.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023D1304) — [DECISÃO (PESC) 2023/1304 DO CONSELHO de 26 de junho de 2023](http://publications.europa.eu/resource/celex/32023D1304) — L 161 — 66 — 27.6.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024D0890) — [DECISÃO (PESC) 2024/890 DO CONSELHO de 18 de março de 2024](http://publications.europa.eu/resource/celex/32024D0890) — L 890 — 1 — 19.3.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024D2846) — [DECISÃO (PESC) 2024/2846 DO CONSELHO de 5 de novembro de 2024](http://publications.europa.eu/resource/celex/32024D2846) — L 2846 — 1 — 6.11.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024D3185) — [DECISÃO (PESC) 2024/3185 DO CONSELHO de 16 de dezembro de 2024](http://publications.europa.eu/resource/celex/32024D3185) — L 3185 — 1 — 17.12.2024
-
-## DECISÃO (PESC) 2021/509 DO CONSELHO
 
 de 22 de março de 2021
 

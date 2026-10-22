@@ -35,6 +35,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-07'
+version_history:
+  file: regulamento-ue-2021-1119.versoes.json
+  count: 1
+  source_lastmod: '2026-04-07'
+  versions:
+  - date: '2026-04-07'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32021R1119
   eli: http://data.europa.eu/eli/reg/2021/1119/oj
@@ -49,7 +58,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/365a2e8e-e04f-11eb-895a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/cf20dd06-48af-11f1-8095-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1119-20260407
-  retrieved_at: '2026-10-22T02:40:02Z'
+  retrieved_at: '2026-10-22T17:13:39Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T16:01:25.036+01:00'
 integrity:
@@ -58,9 +67,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:02Z'
-  notes: Texto consolidado 02021R1119-20260407.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:13:39Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2021-1119.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -208,29 +217,20 @@ relationships:
   date: '2025-10-16'
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:02Z'
-  warnings: []
+  checked_at: '2026-10-22T17:13:39Z'
+  warnings:
+  - '02021R1119-20210709: versão indisponível (Sem expressão na língua por para CELEX 02021R1119-20210709.)'
   errors: []
 ---
 
 # Regulamento (UE) 2021/1119 do Parlamento Europeu e do Conselho de 30 de junho de 2021
-
-> 02021R1119 — PT — 07.04.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R0667) — [REGULAMENTO (UE) 2026/667 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de março de 2026](http://publications.europa.eu/resource/celex/32026R0667) — L 667 — 1 — 18.3.2026
-
-## REGULAMENTO (UE) 2021/1119 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de junho de 2021
 

@@ -38,6 +38,105 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2019-1009.versoes.json
+  count: 8
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2022-07-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-10-03'
+    amending: eu:celex:32022R1519:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/1519 DA COMISSÃO de 5 de maio de 2022
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera REQUISITOS DE ROTULAGEM ESPECÍFICOS DOS PRODUTOS
+    - Altera REGRAS DE TOLERÂNCIA
+    - Altera APLICAÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^39^](http://publications.europa.eu/resource/cellar/34194e22-55d2-11ed-92ed-01aa75ed71a1.0020.02/DOC_1#E0042))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^44^](http://publications.europa.eu/resource/cellar/abefb3f5-7e4c-11ec-8c40-01aa75ed71a1.0020.02/DOC_3#E0046))
+  - date: '2023-03-16'
+    amending: eu:celex:32023R0409:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/409 DA COMISSÃO de 18 de novembro de 2022
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera APLICAÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^39^](http://publications.europa.eu/resource/cellar/8b796380-c7f0-11ed-a05c-01aa75ed71a1.0020.02/DOC_2#E0042))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^39^](http://publications.europa.eu/resource/cellar/34194e22-55d2-11ed-92ed-01aa75ed71a1.0020.02/DOC_1#E0042))
+  - date: '2024-07-03'
+    amending: eu:celex:32024R1682:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1682 DA COMISSÃO de 4 de março de 2024
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/2fe78614-3e07-11ef-ab8f-01aa75ed71a1.0020.02/DOC_1#E0043))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^39^](http://publications.europa.eu/resource/cellar/8b796380-c7f0-11ed-a05c-01aa75ed71a1.0020.02/DOC_2#E0042))
+  - date: '2024-11-17'
+    amending: eu:celex:32024R2770:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2770 DA COMISSÃO de 15 de julho de 2024
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/ad76ef1b-ac62-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0043))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/2fe78614-3e07-11ef-ab8f-01aa75ed71a1.0020.02/DOC_1#E0043))
+  - date: '2024-11-20'
+    amending: eu:celex:32024R2786:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/2786 DA COMISSÃO de 23 de julho de 2024; REGULAMENTO DELEGADO (UE) 2024/2787
+      DA COMISSÃO de 23 de julho de 2024
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera REGRAS DE TOLERÂNCIA
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/d76059eb-e89d-11ef-b5e9-01aa75ed71a1.0020.02/DOC_1#E0043))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/ad76ef1b-ac62-11ef-acb1-01aa75ed71a1.0020.02/DOC_1#E0043))
+  - date: '2025-12-30'
+    amending: eu:celex:32025R1421:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1421 DA COMISSÃO de 17 de julho de 2025
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/715d5c48-fb98-11f0-8da5-01aa75ed71a1.0020.02/DOC_2#E0043))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/d76059eb-e89d-11ef-b5e9-01aa75ed71a1.0020.02/DOC_1#E0043))
+  - date: '2026-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 46.º — Alterações do Regulamento (CE) n.º 1069/2009
+    - Altera REQUISITOS RELATIVOS ÀS CFP
+    - Altera REQUISITOS RELATIVOS ÀS CMC
+    - Altera REQUISITOS GERAIS DE ROTULAGEM
+    - Altera DESCRIÇÃO DOS PROCEDIMENTOS DE AVALIAÇÃO DA CONFORMIDADE
+    - Altera Notas
+    - Adita Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/8c6c6988-907e-11f1-9262-01aa75ed71a1.0020.02/DOC_1#E0043))
+    - Suprime Declaração UE de conformidade (n.º XXX) ([^38^](http://publications.europa.eu/resource/cellar/715d5c48-fb98-11f0-8da5-01aa75ed71a1.0020.02/DOC_2#E0043))
 identifiers:
   celex: 32019R1009
   eli: http://data.europa.eu/eli/reg/2019/1009/oj
@@ -52,7 +151,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e351eb07-9713-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/8c6c6988-907e-11f1-9262-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1009-20260701
-  retrieved_at: '2026-10-22T02:49:25Z'
+  retrieved_at: '2026-10-22T17:09:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T22:22:41.491+01:00'
 integrity:
@@ -61,9 +160,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:25Z'
-  notes: Texto consolidado 02019R1009-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:51Z'
+  notes: 8 versão(ões); histórico completo em regulamento-ue-2019-1009.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -432,49 +531,20 @@ relationships:
   date: '2003-11-21'
 article_structure:
   article_count: 53
-  section_count: 44
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 45
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:25Z'
-  warnings: []
+  checked_at: '2026-10-22T17:09:51Z'
+  warnings:
+  - '02019R1009-20190625: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/1009 do Parlamento Europeu e do Conselho de 5 de junho de 2019
-
-> 02019R1009 — PT — 01.07.2026 — 008.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1768) — [REGULAMENTO DELEGADO (UE) 2021/1768 DA COMISSÃO de 23 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1768) — L 356 — 8 — 8.10.2021
-- [►M2](http://publications.europa.eu/resource/celex/32021R2086) — [REGULAMENTO DELEGADO (UE) 2021/2086 DA COMISSÃO de 5 de julho de 2021](http://publications.europa.eu/resource/celex/32021R2086) — L 427 — 120 — 30.11.2021
-- [►M3](http://publications.europa.eu/resource/celex/32021R2087) — [REGULAMENTO DELEGADO (UE) 2021/2087 DA COMISSÃO de 6 de julho de 2021](http://publications.europa.eu/resource/celex/32021R2087) — L 427 — 130 — 30.11.2021
-- [►M4](http://publications.europa.eu/resource/celex/32021R2088) — [REGULAMENTO DELEGADO (UE) 2021/2088 DA COMISSÃO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R2088) — L 427 — 140 — 30.11.2021
-- [►M5](http://publications.europa.eu/resource/celex/32022R1171) — [REGULAMENTO DELEGADO (UE) 2022/1171 DA COMISSÃO de 22 de março de 2022](http://publications.europa.eu/resource/celex/32022R1171) — L 183 — 2 — 8.7.2022
-- [►M6](http://publications.europa.eu/resource/celex/32022R1519) — [REGULAMENTO DELEGADO (UE) 2022/1519 DA COMISSÃO de 5 de maio de 2022](http://publications.europa.eu/resource/celex/32022R1519) — L 236 — 5 — 13.9.2022
-- [►M7](http://publications.europa.eu/resource/celex/32023R0409) — [REGULAMENTO DELEGADO (UE) 2023/409 DA COMISSÃO de 18 de novembro de 2022](http://publications.europa.eu/resource/celex/32023R0409) — L 59 — 1 — 24.2.2023
-- [►M8](http://publications.europa.eu/resource/celex/32024R1682) — [REGULAMENTO DELEGADO (UE) 2024/1682 DA COMISSÃO de 4 de março de 2024](http://publications.europa.eu/resource/celex/32024R1682) — L 1682 — 1 — 13.6.2024
-- [M9](http://publications.europa.eu/resource/celex/32024R2770) — [REGULAMENTO DELEGADO (UE) 2024/2770 DA COMISSÃO de 15 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2770) — L 2770 — 1 — 28.10.2024
-- [►M10](http://publications.europa.eu/resource/celex/32024R2786) — [REGULAMENTO DELEGADO (UE) 2024/2786 DA COMISSÃO de 23 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2786) — L 2786 — 1 — 31.10.2024
-- [►M11](http://publications.europa.eu/resource/celex/32024R2787) — [REGULAMENTO DELEGADO (UE) 2024/2787 DA COMISSÃO de 23 de julho de 2024](http://publications.europa.eu/resource/celex/32024R2787) — L 2787 — 1 — 31.10.2024
-- [►M12](http://publications.europa.eu/resource/celex/32025R1421) — [REGULAMENTO DELEGADO (UE) 2025/1421 DA COMISSÃO de 17 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1421) — L 1421 — 1 — 10.12.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R1009R%2801%29) — [Rectificação, JO L 302, 22.11.2019, p. 129 (2019/1009)](http://publications.europa.eu/resource/celex/32019R1009R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32021R1768R%2801%29) — [Rectificação, JO L 373, 21.10.2021, p. 96 (2021/1768)](http://publications.europa.eu/resource/celex/32021R1768R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32019R1009R%2809%29) — [Rectificação, JO L 161, 16.6.2022, p. 121 (2019/1009)](http://publications.europa.eu/resource/celex/32019R1009R%2809%29)
-- [►C4](http://publications.europa.eu/resource/celex/32019R1009R%2813%29) — [Rectificação, JO L 90030, 16.10.2023, p. 1 ((UE) 2019/1009)](http://publications.europa.eu/resource/celex/32019R1009R%2813%29)
-- [C5](http://publications.europa.eu/resource/celex/32025R1421R%2801%29) — [Rectificação, JO L 91029, 15.12.2025, p. 1 ((UE) 2025/14212025/1421)](http://publications.europa.eu/resource/celex/32025R1421R%2801%29)
-- [►C6](http://publications.europa.eu/resource/celex/32024R2770R%2801%29) — [Rectificação, JO L 90234, 24.3.2026, p. 1 ((UE) 2024/27702024/2770)](http://publications.europa.eu/resource/celex/32024R2770R%2801%29)
-
-## REGULAMENTO (UE) 2019/1009 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de junho de 2019
 

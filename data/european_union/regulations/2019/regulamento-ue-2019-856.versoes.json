@@ -1,0 +1,1030 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019R0856:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0856-20231121",
+ "dre_path": null,
+ "source_lastmod": "2023-11-21",
+ "versions": [
+  {
+   "date": "2019-05-28",
+   "future": false,
+   "celex": "32019R0856",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "4df51f813b18bfb6",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "86c37b77a600dd57",
+    "5ef2fe698bc32811",
+    "9348d8c612dfdabf",
+    "3ab7e5f7e47677fd",
+    "f0f8c960bfdbce9b",
+    "5216c2a9ca1d0998",
+    "f73524a96fbc1f7d",
+    "c3b57834607ee828",
+    "d4b7ae57f7f96985",
+    "a46eeb3716d28417",
+    "af1bbe1e36de5404",
+    "be4b8986ece00688",
+    "1778fa972a1f3d99",
+    "ae56f37600ac0977",
+    "347e4c3d7b7a1ead",
+    "1e7a0903d2eed348",
+    "22ce22c1199eaef7",
+    "41f39e929ad24ded",
+    "0397627898b309f6",
+    "1ecfc79da3f1ac7f",
+    "186af11c67a80b98",
+    "eec2bc518ddf138c",
+    "c8dcf7cb5f2e6019",
+    "04e90ec47bfa10d5",
+    "afe589f642d23b90",
+    "f0542544d9dd4e47",
+    "82443a95a6763c45",
+    "3a265fa5b0d002d5",
+    "40ed6b62e188ac6f",
+    "e1c2f45a29dcd4ab",
+    "13a7325f6aa04765",
+    "c5f90b6c3579886f",
+    "b76d202a844f758e",
+    "59cb4dfd1f124213",
+    "a3c668393ba868a0",
+    "bb74e7f55afea3d8",
+    "c824950d130cba3b",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "b235df7384a54d8e",
+    "a12b4fc8c39c2a5f"
+   ]
+  },
+  {
+   "date": "2021-08-11",
+   "future": false,
+   "celex": "02019R0856-20210811",
+   "acts": [
+    {
+     "id": "eu:celex:32021R1204:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2021/1204 DA COMISSÃO de 10 de maio de 2021",
+     "published": null,
+     "celex": "32021R1204"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 9.º — Convites à apresentação de propostas",
+    "Altera Artigo 10.º — Procedimento de candidatura",
+    "Altera Artigo 13.º — Assistência ao desenvolvimento de projetos",
+    "Altera Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+    "Altera Artigo 21.º — Papel dos Estados-Membros",
+    "Altera Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+    "Altera Artigo 28.º — Data de entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 12.º",
+    "Adita Procedimento de seleção relativo ao processo de candidatura em duas fases",
+    "Adita Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase",
+    "Adita Artigo 12.º-B — Procedimento de seleção para projetos de pequena escala",
+    "Suprime Artigo 12.º — Procedimento de seleção"
+   ],
+   "fragments": [
+    "218b061937d6bae7",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "86c37b77a600dd57",
+    "5ef2fe698bc32811",
+    "9348d8c612dfdabf",
+    "3ab7e5f7e47677fd",
+    "f0f8c960bfdbce9b",
+    "5216c2a9ca1d0998",
+    "f73524a96fbc1f7d",
+    "51abcb1e1a8b97ae",
+    "d4b7ae57f7f96985",
+    "a46eeb3716d28417",
+    "d7815bc3cbe0495e",
+    "d29b468c69851ec8",
+    "479ece43dc6b0a59",
+    "22d7efb2e686a893",
+    "e241d3af0ed0a0fb",
+    "f864ab70a502c437",
+    "25c1aee680cc1a03",
+    "a26d6b019a237c10",
+    "1e7a0903d2eed348",
+    "22ce22c1199eaef7",
+    "41f39e929ad24ded",
+    "0397627898b309f6",
+    "1ecfc79da3f1ac7f",
+    "186af11c67a80b98",
+    "eec2bc518ddf138c",
+    "c8dcf7cb5f2e6019",
+    "04e90ec47bfa10d5",
+    "2dfd142fe90a237f",
+    "f0542544d9dd4e47",
+    "7a9e3f2711d5caf3",
+    "3a265fa5b0d002d5",
+    "40ed6b62e188ac6f",
+    "e1c2f45a29dcd4ab",
+    "e46efc2b318ad4b2",
+    "c5f90b6c3579886f",
+    "b76d202a844f758e",
+    "59cb4dfd1f124213",
+    "a3c668393ba868a0",
+    "bb74e7f55afea3d8",
+    "69e18a6b3e2bd85f",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "2fb65f775ad4a735",
+    "d1835a33d02e613e"
+   ]
+  },
+  {
+   "date": "2023-11-21",
+   "future": false,
+   "celex": "02019R0856-20231121",
+   "acts": [
+    {
+     "id": "eu:celex:32023R2537:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2023/2537 DA COMISSÃO de 15 de setembro de 2023",
+     "published": null,
+     "celex": "32023R2537"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Objetivos operacionais",
+    "Altera Artigo 4.º — Formas de apoio do Fundo de Inovação",
+    "Altera Artigo 5.º — Custos pertinentes",
+    "Altera Artigo 6.º — Desembolso das subvenções",
+    "Altera Artigo 9.º — Convites à apresentação de propostas",
+    "Altera Artigo 10.º — Procedimento de candidatura",
+    "Altera Artigo 13.º — Assistência ao desenvolvimento de projetos",
+    "Altera Artigo 18.º — Funções do organismo de execução",
+    "Altera Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+    "Altera Artigo 20.º — Gestão das receitas do Fundo de Inovação",
+    "Altera Artigo 21.º — Papel dos Estados-Membros",
+    "Altera Artigo 23.º — Acompanhamento e prestação de informações",
+    "Altera Artigo 24.º — Avaliação",
+    "Altera Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+    "Altera Notas",
+    "Adita Disposições específicas aplicáveis às subvenções que não sejam concedidas com base nos capítulos II-A, II-B ou II-C",
+    "Adita Artigo 11.º",
+    "Adita Critérios de concessão",
+    "Adita Procedimento de seleção respeitante ao processo de candidatura em duas fases",
+    "Adita Artigo 12.º-A",
+    "Adita Procedimento de seleção respeitante ao processo de candidatura numa só fase",
+    "Adita Capítulo II-A",
+    "Adita Assistência ao desenvolvimento de projetos",
+    "Adita Capítulo II-B",
+    "Adita Disposições específicas aplicáveis aos procedimentos de concurso competitivos",
+    "Adita Artigo 13.º-A — Conceção e princípios do procedimento de concurso competitivo",
+    "Adita Artigo 13.º-B — Convites à apresentação de propostas",
+    "Adita Artigo 13.º-C — Requisitos de qualificação",
+    "Adita Artigo 13.º-D — Procedimento de classificação",
+    "Adita Artigo 13.º-E — Cumulação",
+    "Adita Artigo 13.º-F — Depósitos",
+    "Adita Capítulo II-C",
+    "Adita Disposições específicas aplicáveis à assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva",
+    "Adita Artigo 13.º-G — Assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva",
+    "Adita Disposições específicas aplicáveis a outras formas de apoio do Fundo de Inovação",
+    "Suprime Disposições específicas aplicáveis às subvenções",
+    "Suprime Artigo 11.º — Critérios de seleção",
+    "Suprime Procedimento de seleção relativo ao processo de candidatura em duas fases",
+    "Suprime Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase",
+    "Suprime Disposições específicas aplicáveis às formas de apoio do Fundo de Inovação que não sejam subvenções"
+   ],
+   "fragments": [
+    "218b061937d6bae7",
+    "226c39ffd0a88dad",
+    "7fabed8a0a46afb5",
+    "86c37b77a600dd57",
+    "54bd76f5a058dbed",
+    "d6eb1ce7b6e0e355",
+    "877793ea7242aa8c",
+    "f0f8c960bfdbce9b",
+    "9be47ac7a2f65138",
+    "61d2ae49c792e59f",
+    "0a0101c805952b0d",
+    "d4b7ae57f7f96985",
+    "a46eeb3716d28417",
+    "0967a6f333750c5f",
+    "859a1698b39c3e90",
+    "80b391d1bece5f52",
+    "a6b96d021721b59a",
+    "22d7efb2e686a893",
+    "4caef4e724e5a249",
+    "1e431fc4df5b7ab8",
+    "6192a4092aeb7b66",
+    "25c1aee680cc1a03",
+    "f10193a6c15e52e6",
+    "289ad3cddc07e081",
+    "d2cb15a5d019a5bb",
+    "5d131422fbc24f52",
+    "99944529797fb7c4",
+    "ea838abcafe11f66",
+    "4fbc60c231fcd0dc",
+    "586d277d55f56a3c",
+    "621f96d09bb60f74",
+    "4309ae0a3cea017e",
+    "cfd0bf8225765a00",
+    "177690fcb492dd2c",
+    "57ae999c0a0d7331",
+    "4abffa1d87fbfa3a",
+    "1e7a0903d2eed348",
+    "bf6a74a21b5af345",
+    "41f39e929ad24ded",
+    "0397627898b309f6",
+    "1ecfc79da3f1ac7f",
+    "186af11c67a80b98",
+    "eec2bc518ddf138c",
+    "c8dcf7cb5f2e6019",
+    "b702ca67eb743546",
+    "a6c7055e906dafdc",
+    "e3f11a1968ba033b",
+    "4105a2a0b675f37c",
+    "3a265fa5b0d002d5",
+    "40ed6b62e188ac6f",
+    "e1c2f45a29dcd4ab",
+    "861f924d934700bc",
+    "1811493b191d82ab",
+    "b76d202a844f758e",
+    "59cb4dfd1f124213",
+    "a3c668393ba868a0",
+    "bb74e7f55afea3d8",
+    "983ac4420a9dbe74",
+    "7fd045ac4f655f13",
+    "dde9cf53e9ae6c9a",
+    "2fb65f775ad4a735",
+    "8f7eea519f321ab2"
+   ]
+  }
+ ],
+ "fragments": {
+  "4df51f813b18bfb6": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de fevereiro de 2019\n\nque complementa a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho no que respeita ao funcionamento do Fundo de Inovação\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho, de 13 de outubro de 2003, relativa à criação de um sistema de comércio de licenças de emissão de gases com efeito de estufa na União e que altera a Diretiva 96/61/CE do Conselho [([^1])](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2019140PT.01000601-E0001), nomeadamente o artigo 10.º-A, n.º 8, quarto parágrafo,\n\nConsiderando o seguinte:\n\n(1) Afigura-se necessário estabelecer regras pormenorizadas sobre o funcionamento do Fundo de Inovação, criado pela Diretiva 2003/87/CE e executado com base na Decisão 2010/670/UE da Comissão [([^2])](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2019140PT.01000601-E0002), tendo em conta os ensinamentos retirados do programa NER300 e, nomeadamente, as conclusões do relatório do Tribunal de Contas [([^3])](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2019140PT.01000601-E0003).\n\n(2) A fim de cobrir a menor rendibilidade e os riscos tecnológicos mais elevados dos projetos elegíveis, em comparação com as tecnologias convencionais, uma parte significativa do financiamento do Fundo de Inovação deverá ser concedida sob a forma de subvenções. Por conseguinte, é conveniente estabelecer regras pormenorizadas sobre o desembolso das subvenções.\n\n(3) Uma vez que os riscos e a rendibilidade dos projetos elegíveis podem diferir entre setores e atividades e podem também evoluir com o tempo, convém permitir que uma parte do apoio do Fundo de Inovação seja prestada por intermédio de contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União, bem como de outras formas previstas no Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2019140PT.01000601-E0004) («Regulamento Financeiro»).\n\n(4) Para efeitos de financiamento ao abrigo do Fundo de Inovação, a diferença entre os custos totais de um projeto elegível e os custos totais de um projeto equivalente que utilize tecnologias convencionais deverá ser considerada como parte dos custos pertinentes. No entanto, a fim de evitar encargos administrativos excessivos para os projetos de pequena escala e de dar resposta às suas dificuldades específicas no acesso ao financiamento, os custos pertinentes de um projeto de pequena escala deverão corresponder ao custo total das despesas de capital desse projeto.\n\n(5) A fim de disponibilizar atempadamente recursos financeiros adequados aos projetos elegíveis, o desembolso das subvenções deverá basear-se nos objetivos intermédios alcançados. Para todos os projetos, esses objetivos intermédios deverão incluir o encerramento financeiro e a entrada em funcionamento. Uma vez que alguns projetos poderão necessitar que o apoio seja desembolsado num momento diferente, convém prever a possibilidade de definir objetivos intermédios adicionais na documentação contratual.\n\n(6) A fim de aumentar a probabilidade de êxito dos projetos, deverá ser prevista a possibilidade de desembolso de uma parte da subvenção antes da entrada em funcionamento de um projeto. O desembolso das subvenções deverá, em princípio, começar aquando do encerramento financeiro e prosseguir durante o desenvolvimento e o funcionamento do projeto.\n\n(7) A maior parte do apoio do Fundo de Inovação deverá depender da prevenção verificada de emissões de gases com efeito de estufa. Um mau desempenho significativo no que diz respeito à prevenção prevista de emissões de gases com efeito de estufa deverá, por conseguinte, conduzir à redução e à recuperação do montante do apoio dependente dessa prevenção. O mecanismo de redução e recuperação deverá, no entanto, ser suficientemente flexível para ter em conta a natureza inovadora dos projetos apoiados pelo Fundo de Inovação.\n\n(8) As subvenções no âmbito do Fundo de Inovação deverão ser atribuídas na sequência de um processo de seleção concorrencial, mediante convites à apresentação de propostas. A fim de reduzir os encargos administrativos para os proponentes dos projetos, deverá ser estabelecido um processo de candidatura em duas fases, consistindo na manifestação de interesse e na apresentação da candidatura completa.\n\n(9) Os projetos candidatos ao apoio do Fundo de Inovação deverão ser avaliados com base em critérios qualitativos e quantitativos. A combinação destes critérios deverá garantir uma avaliação completa do projeto em termos do seu potencial tecnológico e comercial. Para garantir uma seleção justa e baseada no mérito, os projetos deverão ser selecionados com base nos mesmos critérios de seleção, mas avaliados e classificados, em primeiro lugar, em relação a outros projetos no mesmo setor e, subsequentemente, em relação a projetos noutros setores.\n\n(10) Os projetos cujo planeamento, modelo de negócio e estrutura financeira e jurídica não se afigurem suficientemente maduros, nomeadamente considerando a eventual falta de apoio por parte dos Estados-Membros em causa ou das necessárias autorizações nacionais, não deverão ser selecionados para apoio do Fundo de Inovação. Apesar disso, tais projetos podem ser promissores. Por conseguinte, afigura-se adequado prever a possibilidade de conceder assistência ao desenvolvimento desses projetos. A assistência ao desenvolvimento de projetos deverá beneficiar, em especial, projetos de pequena escala e projetos localizados em Estados-Membros com rendimentos mais baixos, a fim de contribuir para uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação.\n\n(11) É importante assegurar uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação. A fim de evitar situações de cobertura insuficiente de alguns Estados-Membros, deverá ser prevista a possibilidade de estabelecer critérios de seleção adicionais com vista a alcançar o equilíbrio geográfico num segundo convite à apresentação de propostas ou em convites posteriores.\n\n(12) A Comissão deverá assegurar a execução do Fundo de Inovação. No entanto, a Comissão deverá estar habilitada a delegar algumas das tarefas de execução, tais como a organização do convite à apresentação de propostas, a pré-seleção de projetos ou a gestão contratual das subvenções, em organismos de execução.\n\n(13) As receitas do Fundo de Inovação, incluindo as provenientes das licenças monetizadas na plataforma comum de leilões, em conformidade com o Regulamento (UE) n.º 1031/2010 da Comissão [([^5])](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2019140PT.01000601-E0005), deverão ser geridas em conformidade com os objetivos da Diretiva 2003/87/CE. Esta tarefa deverá, por conseguinte, ser desempenhada pela própria Comissão, que deverá estar habilitada a delegá-la no Banco Europeu de Investimento.\n\n(14) A Comissão deverá aplicar regras diferentes em função do modo de execução do Fundo de Inovação. Nos casos em que o Fundo de Inovação seja executado em regime de gestão direta, as disposições do presente regulamento deverão ser totalmente alinhadas com as disposições do Regulamento Financeiro.\n\n(15) Os Estados-Membros deverão desempenhar um papel importante na execução do Fundo de Inovação. Em especial, a Comissão deverá consultar os Estados-Membros sobre as principais decisões de execução, bem como sobre o desenvolvimento do Fundo de Inovação.\n\n(16) O Fundo de Inovação deverá ser executado em conformidade com os princípios da boa gestão financeira estabelecidos no Regulamento Financeiro.\n\n(17) É importante estabelecer disposições claras em matéria de apresentação de relatórios, responsabilização e controlo financeiro, a fim de assegurar que a Comissão receba informações completas e atempadas sobre o avanço dos projetos apoiados pelo Fundo de Inovação, que as entidades gestoras do Fundo de Inovação apliquem princípios de boa gestão financeira e que os Estados-Membros sejam atempadamente informados sobre a execução do Fundo de Inovação,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "7fabed8a0a46afb5": {
+   "fragment_id": "Disposições gerais",
+   "type": "divisao",
+   "heading": "Disposições gerais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições gerais"
+  },
+  "86c37b77a600dd57": {
+   "fragment_id": "Artigo 1.º — Objeto",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto\n\nO presente regulamento estabelece regras pormenorizadas que complementam a Diretiva 2003/87/CE no que se refere aos seguintes aspetos:\n\na) Os objetivos operacionais do Fundo de Inovação criado pelo artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE;\n\nb) As formas de apoio concedido no âmbito do Fundo de Inovação;\n\nc) O procedimento de candidatura ao apoio do Fundo de Inovação;\n\nd) O procedimento e os critérios de seleção de projetos no âmbito do Fundo de Inovação;\n\ne) O desembolso do apoio do Fundo de Inovação;\n\nf) A governação do Fundo de Inovação;\n\ng) A apresentação de relatórios, o acompanhamento, a avaliação, o controlo e a publicidade relativos ao funcionamento do Fundo de Inovação."
+  },
+  "5ef2fe698bc32811": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Encerramento financeiro», o momento do ciclo de desenvolvimento do projeto em que todos os contratos relativos ao projeto e ao financiamento estão assinados e todos os requisitos neles estabelecidos se encontram cumpridos;\n\n2) «Entrada em funcionamento», o momento do ciclo de desenvolvimento do projeto em que se encontram testados todos os elementos e sistemas necessários para o funcionamento do projeto e se iniciaram as atividades que conduzem a uma prevenção efetiva de emissões de gases com efeito de estufa;\n\n3) «Projeto de pequena escala», um projeto cujo total de despesas de capital não exceda 7 500 000 EUR."
+  },
+  "9348d8c612dfdabf": {
+   "fragment_id": "Artigo 3.º — Objetivos operacionais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objetivos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos operacionais\n\nO Fundo de Inovação tem os seguintes objetivos operacionais:\n\na) Apoiar projetos que demonstrem tecnologias, processos ou produtos altamente inovadores, suficientemente maduros e com um potencial significativo de redução das emissões de gases com efeito de estufa;\n\nb) Prestar apoio financeiro adaptado às necessidades do mercado e aos perfis de risco dos projetos elegíveis, atraindo simultaneamente recursos públicos e privados adicionais;\n\nc) Assegurar que as receitas do Fundo de Inovação sejam geridas em consonância com os objetivos da Diretiva 2003/87/CE."
+  },
+  "3ab7e5f7e47677fd": {
+   "fragment_id": "Artigo 4.º — Formas de apoio do Fundo de Inovação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Formas de apoio do Fundo de Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formas de apoio do Fundo de Inovação\n\nO apoio do Fundo de Inovação ao projeto pode assumir as seguintes formas:\n\na) Subvenções;\n\nb) Contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União;\n\nc) Quando necessário para alcançar os objetivos da Diretiva 2003/87/CE, financiamento sob qualquer das outras formas previstas no Regulamento (UE, Euratom) 2018/1046 («Regulamento Financeiro»), em especial prémios e contratos públicos."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "5216c2a9ca1d0998": {
+   "fragment_id": "Disposições específicas aplicáveis às subvenções",
+   "type": "divisao",
+   "heading": "Disposições específicas aplicáveis às subvenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas aplicáveis às subvenções"
+  },
+  "f73524a96fbc1f7d": {
+   "fragment_id": "Artigo 5.º — Custos pertinentes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Custos pertinentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos pertinentes\n\n1. Para efeitos do artigo 10.º-A, n.º 8, terceiro parágrafo, quarto período, da Diretiva 2003/87/CE, os custos pertinentes são os custos adicionais suportados pelo proponente do projeto em resultado da aplicação da tecnologia inovadora relacionada com a redução ou a prevenção de emissões de gases com efeito de estufa. Os custos pertinentes são calculados como a diferença entre a melhor estimativa do total das despesas de capital, do valor líquido atual dos custos de exploração e dos benefícios gerados durante 10 anos após a entrada em funcionamento do projeto, em comparação com o resultado do mesmo cálculo para uma produção convencional com a mesma capacidade em termos de produção efetiva do respetivo produto final.\n\nCaso não exista uma produção convencional, tal como referida no primeiro parágrafo, os custos pertinentes correspondem à melhor estimativa do total das despesas de capital e do valor líquido atual dos custos de exploração e dos benefícios gerados durante 10 anos após a entrada em funcionamento do projeto.\n\n2. Os custos pertinentes de um projeto de pequena escala correspondem ao custo total das despesas de capital desse projeto."
+  },
+  "c3b57834607ee828": {
+   "fragment_id": "Artigo 6.º — Desembolso das subvenções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Desembolso das subvenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Desembolso das subvenções\n\n1. O apoio do Fundo de Inovação sob a forma de subvenções é desembolsado quando são alcançados os objetivos intermédios predeterminados.\n\n2. Para todos os projetos, os objetivos intermédios referidos no n.º 1 baseiam-se no ciclo de desenvolvimento do projeto e incluem, pelo menos, as etapas seguintes:\n\na) Encerramento financeiro;\n\nb) Entrada em funcionamento.\n\n3. Tendo em conta a tecnologia utilizada e as circunstâncias específicas do setor ou dos setores em que está a ser utilizada, podem ser definidos objetivos intermédios adicionais nos documentos contratuais.\n\n4. Até 40 % do montante total do apoio do Fundo de Inovação, incluindo a assistência ao desenvolvimento de projetos, atribuído a um projeto específico é desembolsado aquando do encerramento financeiro ou quando for alcançado um objetivo intermédio específico anterior ao encerramento financeiro, caso tenha sido definido em conformidade com o n.º 3.\n\n5. A quota-parte do montante total do apoio do Fundo de Inovação atribuído a um projeto específico que não tiver sido desembolsada nos termos do n.º 4 é desembolsada após o encerramento financeiro, podendo sê-lo parcialmente antes da entrada em funcionamento e em prestações anuais após a entrada em funcionamento.\n\n6. Para efeitos dos n.^os^ 4 e 5, o montante total do apoio do Fundo de Inovação atribuído a um projeto específico inclui o montante concedido sob a forma de assistência ao desenvolvimento do projeto, em conformidade com o artigo 13.º."
+  },
+  "d4b7ae57f7f96985": {
+   "fragment_id": "Artigo 7.º — Regras gerais de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Regras gerais de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Regras gerais de recuperação\n\n1. No quadro da execução das atividades financiadas ao abrigo do presente regulamento, a Comissão toma medidas adequadas que garantam a proteção dos interesses financeiros do Fundo de Inovação, mediante a aplicação de medidas preventivas contra a fraude, a corrupção e quaisquer outras atividades ilícitas, a realização de verificações eficazes e, caso sejam detetadas irregularidades, a recuperação dos montantes pagos indevidamente, bem como, se for caso disso, a aplicação de sanções administrativas e financeiras efetivas, proporcionadas e dissuasivas.\n\n2. As recuperações são executadas em conformidade com o Regulamento Financeiro.\n\n3. Os motivos para a recuperação, bem como os respetivos procedimentos são especificados na documentação contratual."
+  },
+  "a46eeb3716d28417": {
+   "fragment_id": "Artigo 8.º — Regras especiais de recuperação",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Regras especiais de recuperação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Regras especiais de recuperação\n\n1. O montante do apoio do Fundo de Inovação desembolsado, em conformidade com o disposto no artigo 6.º, n.º 5, após o encerramento financeiro depende da prevenção de emissões de gases com efeito de estufa verificada com base nos relatórios anuais apresentados pelo proponente do projeto, durante um período compreendido entre três e dez anos após a entrada em funcionamento. O relatório anual final apresentado pelo proponente do projeto deve incluir a quantidade total de emissões de gases com efeito de estufa evitadas durante todo o período de referência.\n\n2. Se a quantidade total de emissões de gases com efeito de estufa evitadas durante todo o período de referência for inferior a 75 % do total de emissões de gases com efeito de estufa que se previa evitar, o montante pago ou a pagar ao proponente do projeto, em conformidade com o artigo 6.º, n.º 5, deve ser proporcionalmente recuperado ou reduzido.\n\n3. Se o projeto não entrar em funcionamento no prazo predeterminado ou se o proponente do projeto não conseguir demonstrar qualquer prevenção efetiva de emissões de gases com efeito de estufa, o montante pago após o encerramento financeiro, em conformidade com o artigo 6.º, n.º 5, deve ser integralmente recuperado.\n\n4. Se as situações referidas nos n.^os^ 2 e 3 ocorrerem devido a circunstâncias extraordinárias que escapam ao controlo do proponente do projeto e este demonstrar o potencial do projeto para evitar emissões de gases com efeito de estufa além do montante comunicado, ou demonstrar que o projeto pode gerar benefícios significativos em termos de inovação com baixas emissões de carbono, a Comissão pode decidir não executar os mecanismos de recuperação como previsto nos n.^os^ 2 e 3.\n\n5. Os motivos para a recuperação, bem como os respetivos procedimentos devem ser especificados na documentação contratual.\n\n6. As regras estabelecidas nos n.^os^ 3 e 4 do presente artigo não prejudicam as regras gerais de recuperação estabelecidas nos termos do artigo 7.º."
+  },
+  "af1bbe1e36de5404": {
+   "fragment_id": "Artigo 9.º — Convites à apresentação de propostas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Convites à apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Convites à apresentação de propostas\n\n1. Os proponentes dos projetos são convidados a candidatar-se ao apoio do Fundo de Inovação através de convites públicos à apresentação de propostas lançados pela Comissão.\n\nAntes de adotar uma decisão de lançamento de um convite à apresentação de propostas, a Comissão consulta os Estados-Membros sobre o projeto de decisão.\n\n2. A decisão da Comissão relativa ao lançamento dos convites à apresentação de propostas inclui, pelo menos, os seguintes elementos:\n\na) O montante global de apoio do Fundo de Inovação disponível para o convite;\n\nb) O montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos;\n\nc) Os tipos de projetos ou setores solicitados;\n\nd) Uma descrição do processo de candidatura e uma lista pormenorizada das informações e da documentação a apresentar em cada fase do processo de candidatura;\n\ne) Informações pormenorizadas sobre o processo de seleção, incluindo a metodologia de avaliação e classificação;\n\nf) Caso sejam aplicados procedimentos específicos de candidatura e seleção, em conformidade com o artigo 10.º, n.º 4, e o artigo 12.º, n.º 6, para projetos de pequena escala, as regras relativas a esses procedimentos específicos;\n\ng) Caso a Comissão reserve uma parte do montante total de apoio do Fundo de Inovação disponível para projetos de pequena escala, o montante dessa parte;\n\nh) Caso sejam aplicados critérios de seleção adicionais com vista a alcançar uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação, em conformidade com o artigo 11.º, n.º 2, os critérios em causa."
+  },
+  "be4b8986ece00688": {
+   "fragment_id": "Artigo 10.º — Procedimento de candidatura",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de candidatura\n\n1. O organismo de execução recolhe as candidaturas e organiza o processo de candidatura em duas fases subsequentes:\n\na) A manifestação de interesse;\n\nb) A apresentação da candidatura completa.\n\n2. Na fase de manifestação de interesse, o proponente do projeto deve apresentar uma descrição das principais características do projeto, em conformidade com os requisitos estabelecidos no respetivo convite à apresentação de propostas, incluindo a descrição da eficácia, do grau de inovação e da maturidade do projeto, conforme especificado no artigo 11.º, n.º 1, alíneas a), b) e c).\n\n3. Na fase de apresentação da candidatura completa, o proponente do projeto deve apresentar uma descrição pormenorizada do projeto e todos os documentos comprovativos, incluindo o plano de partilha de conhecimentos.\n\n4. Aos projetos de pequena escala poderá aplicar-se um procedimento simplificado de candidatura."
+  },
+  "1778fa972a1f3d99": {
+   "fragment_id": "Artigo 11.º — Critérios de seleção",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Critérios de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de seleção\n\n1. A seleção de projetos para apoio do Fundo de Inovação baseia-se nos seguintes critérios:\n\na) Eficácia em termos de potencial de prevenção de emissões de gases com efeito de estufa, quando aplicável, em comparação com os parâmetros de referência definidos no artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE;\n\nb) Grau de inovação dos projetos em comparação com o estado da técnica;\n\nc) Maturidade do projeto em termos de planeamento, modelo de negócio, estrutura financeira e jurídica, bem como perspetivas de encerramento financeiro num prazo predefinido não superior a quatro anos após a decisão de seleção;\n\nd) Potencial técnico e de mercado para a aplicação ou replicação generalizada, ou para futuras reduções de custos;\n\ne) Eficiência em termos dos custos pertinentes do projeto deduzidos de qualquer contribuição para estes custos por parte do proponente do projeto, a dividir pela quantidade total prevista de emissões de gases com efeito de estufa a evitar ou de energia a produzir ou armazenar ou de CO2 a armazenar nos primeiros dez anos de funcionamento.\n\n2. Para efeitos de seleção dos projetos, podem ainda aplicar-se critérios adicionais com vista a alcançar uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação."
+  },
+  "ae56f37600ac0977": {
+   "fragment_id": "Artigo 12.º — Procedimento de seleção",
+   "type": "artigo",
+   "heading": "Artigo 12.º — Procedimento de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º — Procedimento de seleção\n\n1. Com base nas propostas recebidas na fase de manifestação de interesse, o organismo de execução afere a elegibilidade de cada projeto, em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE. O organismo de execução procede então à seleção dos projetos elegíveis de acordo com o disposto nos n.^os^ 2 e 3 do presente artigo.\n\n2. Com base nas propostas recebidas na fase de manifestação de interesse, o organismo de execução elabora uma lista dos projetos que cumprem os critérios de seleção estabelecidos no artigo 11.º, n.º 1, alíneas a), b) e c), e convida os proponentes desses projetos a apresentarem uma candidatura completa.\n\nSe concluir que determinado projeto cumpre os critérios de seleção estabelecidos no artigo 11.º, n.º 1, alíneas a) e b), mas não cumpre o critério previsto no artigo 11.º, n.º 1, alínea c), o organismo de execução determina se esse projeto tem potencial para satisfazer todos os critérios de seleção se for aperfeiçoado. Se o projeto possuir esse potencial, o organismo de execução pode conceder-lhe assistência ao desenvolvimento do projeto ou, se essa tarefa estiver a cargo da Comissão, propor à Comissão a concessão de assistência ao desenvolvimento do projeto.\n\n3. Com base na candidatura completa recebida em conformidade com o n.º 2 do presente artigo, o organismo de execução procede à avaliação e à classificação do projeto com base em todos os critérios de seleção estabelecidos no artigo 11.º. Para efeitos dessa avaliação, o organismo de execução compara os projetos com projetos no mesmo setor, bem como com projetos de outros setores, e elabora uma lista de projetos pré-selecionados.\n\n4. A lista de projetos pré-selecionados referida no n.º 3 e, se for caso disso, a proposta a que se refere o n.º 2, segundo parágrafo, são comunicadas à Comissão e incluem, pelo menos, os seguintes elementos:\n\na) Uma confirmação do cumprimento dos critérios de elegibilidade e de seleção;\n\nb) Pormenores sobre a avaliação e a classificação dos projetos;\n\nc) Custos totais dos projetos e custos pertinentes referidos no artigo 5.º, em euros;\n\nd) O total do pedido de apoio do Fundo de Inovação, em euros;\n\ne) A quantidade prevista de emissões de gases com efeito de estufa a evitar;\n\nf) A quantidade prevista de energia a produzir ou armazenar;\n\ng) A quantidade prevista de CO2 a armazenar;\n\nh) Informações sobre a forma jurídica do apoio do Fundo de Inovação solicitado pelo proponente do projeto.\n\n5. Com base nos elementos comunicados nos termos do n.º 4 do presente artigo, a Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, adota a decisão de atribuição que especifica o apoio aos projetos selecionados e, se for caso disso, estabelece uma lista de reserva.\n\n6. Aos projetos de pequena escala poderá aplicar-se um procedimento de seleção específico."
+  },
+  "347e4c3d7b7a1ead": {
+   "fragment_id": "Artigo 13.º — Assistência ao desenvolvimento de projetos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Assistência ao desenvolvimento de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Assistência ao desenvolvimento de projetos\n\n1. A Comissão determina, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, alínea c), o montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos.\n\n2. A assistência ao desenvolvimento de projetos é concedida pela Comissão ou pelo organismo de execução, em conformidade com o artigo 12.º, n.º 2, sob a forma de uma subvenção.\n\n3. A assistência ao desenvolvimento de projetos poderá servir para financiar as seguintes atividades:\n\na) Melhoria e desenvolvimento da documentação do projeto ou de componentes da conceção do projeto, a fim de assegurar um nível suficiente de maturidade do projeto;\n\nb) Análise da viabilidade do projeto, incluindo estudos técnicos e económicos;\n\nc) Aconselhamento sobre a estrutura financeira e jurídica do projeto;\n\nd) Reforço das capacidades do proponente do projeto.\n\n4. Para efeitos da assistência ao desenvolvimento de projetos, são considerados custos pertinentes todos os custos relacionados com o desenvolvimento do projeto. O Fundo de Inovação pode financiar até 100 % dos custos pertinentes."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "22ce22c1199eaef7": {
+   "fragment_id": "Disposições específicas aplicáveis às formas de apoio do Fundo de Inovação que não sejam subvenções",
+   "type": "divisao",
+   "heading": "Disposições específicas aplicáveis às formas de apoio do Fundo de Inovação que não sejam subvenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas aplicáveis às formas de apoio do Fundo de Inovação que não sejam subvenções"
+  },
+  "41f39e929ad24ded": {
+   "fragment_id": "Artigo 14.º — Prestação de apoio do Fundo de Inovação por meio de contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União",
+   "type": "artigo",
+   "heading": "Artigo 14.º — Prestação de apoio do Fundo de Inovação por meio de contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 14.º — Prestação de apoio do Fundo de Inovação por meio de contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União\n\n1. Sempre que a Comissão decida desembolsar o apoio do Fundo de Inovação por meio de contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União, o apoio do Fundo de Inovação é executado em conformidade com as regras aplicáveis ao instrumento de apoio ao investimento da União. Contudo, a elegibilidade dos projetos é determinada em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE.\n\n2. A Comissão adota, após consulta dos Estados-Membros, uma decisão que especifica se a contribuição para as operações de financiamento misto reveste a forma de apoio não reembolsável ou de apoio reembolsável, ou ambas, e indica o montante de apoio do Fundo de Inovação disponível para desembolso através do instrumento de apoio ao investimento da União."
+  },
+  "0397627898b309f6": {
+   "fragment_id": "Artigo 15.º — Prestação de apoio do Fundo de Inovação sob qualquer outra forma prevista no Regulamento Financeiro",
+   "type": "artigo",
+   "heading": "Artigo 15.º — Prestação de apoio do Fundo de Inovação sob qualquer outra forma prevista no Regulamento Financeiro",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 15.º — Prestação de apoio do Fundo de Inovação sob qualquer outra forma prevista no Regulamento Financeiro\n\n1. Se decidir desembolsar o apoio do Fundo de Inovação sob qualquer outra forma prevista no Regulamento Financeiro que não subvenções, a Comissão adota, após consulta dos Estados-Membros, uma decisão que indica o montante de apoio do Fundo de Inovação disponível para desembolso sob essa forma, bem como as regras aplicáveis à candidatura a esse apoio, à seleção dos projetos e ao desembolso do apoio.\n\n2. Os projetos que beneficiem do apoio do Fundo de Inovação nos termos do presente artigo devem respeitar as regras da União em matéria de auxílios estatais."
+  },
+  "1ecfc79da3f1ac7f": {
+   "fragment_id": "CAPÍTULO IV",
+   "type": "divisao",
+   "heading": "CAPÍTULO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO IV"
+  },
+  "186af11c67a80b98": {
+   "fragment_id": "Governação",
+   "type": "divisao",
+   "heading": "Governação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Governação"
+  },
+  "eec2bc518ddf138c": {
+   "fragment_id": "Artigo 16.º — Execução do Fundo de Inovação",
+   "type": "artigo",
+   "heading": "Artigo 16.º — Execução do Fundo de Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 16.º — Execução do Fundo de Inovação\n\n1. A Comissão executa o Fundo de Inovação em regime de gestão direta, em conformidade com as disposições aplicáveis dos artigos 125.º a 153.º do Regulamento Financeiro, ou de gestão indireta, por intermédio dos organismos a que se refere o artigo 62.º, n.º 1, alínea c), do Regulamento Financeiro.\n\n2. Os custos incorridos com as atividades de execução do Fundo de Inovação, incluindo os custos administrativos e de gestão, são financiados pelo Fundo de Inovação."
+  },
+  "c8dcf7cb5f2e6019": {
+   "fragment_id": "Artigo 17.º — Designação de organismos de execução",
+   "type": "artigo",
+   "heading": "Artigo 17.º — Designação de organismos de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 17.º — Designação de organismos de execução\n\n1. Se decidir delegar determinadas tarefas relacionadas com a execução do Fundo de Inovação num organismo de execução, a Comissão adota uma decisão que designa esse organismo de execução.\n\nA Comissão e o organismo de execução designado celebram um acordo que estabelece as modalidades e condições específicas em que o organismo de execução deve desempenhar as suas funções.\n\n2. Se executar o Fundo de Inovação em regime de gestão direta e decidir delegar determinadas tarefas de execução num organismo de execução, a Comissão designa uma agência de execução como organismo de execução.\n\n3. Se executar o Fundo de Inovação em regime de gestão indireta, a Comissão designa como organismo de execução um organismo referido no artigo 62.º, n.º 1, alínea c), do Regulamento Financeiro.\n\n4. A Comissão executa as tarefas relacionadas com a execução do Fundo de Inovação que não sejam delegadas num organismo de execução."
+  },
+  "04e90ec47bfa10d5": {
+   "fragment_id": "Artigo 18.º — Funções do organismo de execução",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Funções do organismo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funções do organismo de execução\n\nO organismo de execução designado nos termos do artigo 17.º, n.º 1, poderá ser incumbido da gestão global do convite à apresentação de propostas, do desembolso do apoio do Fundo de Inovação e do acompanhamento da execução dos projetos selecionados. Para o efeito, podem ser confiadas ao organismo de execução as seguintes tarefas:\n\na) Organização do convite à apresentação de propostas;\n\nb) Organização do processo de candidatura, incluindo a recolha das candidaturas e a análise de todos os documentos comprovativos;\n\nc) Organização da seleção de projetos, incluindo a avaliação dos projetos ou a análise prévia e a classificação;\n\nd) Aconselhamento da Comissão sobre os projetos que deverão receber apoio do Fundo de Inovação e sobre os projetos a incluir na lista de reserva;\n\ne) Atribuição ou prestação de assistência ao desenvolvimento de projetos;\n\nf) Assinatura das convenções de subvenção e outros contratos, consoante a forma de apoio do Fundo de Inovação;\n\ng) Preparação e gestão da documentação contratual relativa aos projetos selecionados;\n\nh) Verificação do cumprimento das condições para o financiamento e desembolso das receitas do Fundo de Inovação aos proponentes dos projetos;\n\ni) Acompanhamento da execução do projeto;\n\nj) Comunicação com os proponentes dos projetos;\n\nk) Apresentação de relatórios à Comissão, incluindo sobre orientações gerais para o futuro desenvolvimento do Fundo de Inovação;\n\nl) Apresentação de relatórios financeiros;\n\nm) Ações de informação, comunicação e promoção, incluindo a criação de materiais de promoção e a conceção do logótipo do Fundo de Inovação;\n\nn) Gestão da partilha de conhecimentos;\n\no) Apoio aos Estados-Membros nos seus esforços para promover o Fundo de Inovação e comunicar com os proponentes dos projetos;\n\np) Quaisquer outras tarefas relacionadas com a execução do Fundo de Inovação."
+  },
+  "afe589f642d23b90": {
+   "fragment_id": "Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta\n\n1. Se a Comissão designar uma agência de execução como organismo de execução nos termos do artigo 17.º, n.º 1, do presente regulamento, essa decisão da Comissão fica sujeita ao resultado da análise de custos/benefícios referida no artigo 3.º do Regulamento (CE) n.º 58/2003 do Conselho [([^6])](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2019140PT.01000601-E0006), e o acordo referido no artigo 17.º, n.º 1, segundo parágrafo, do presente regulamento assume a forma de um ato de delegação em conformidade com o Regulamento (CE) n.º 58/2003.\n\n2. Em caso de recuperação, nos termos dos artigos 7.º e 8.º do presente regulamento, de montantes desembolsados em regime de gestão direta, os montantes recuperados constituem receitas afetadas nos termos do artigo 21.º do Regulamento Financeiro e são utilizados para financiar as operações do Fundo de Inovação.\n\n3. No que diz respeito a todas as tarefas de execução realizadas pela Comissão, incluindo por intermédio de uma agência de execução, as receitas do Fundo de Inovação constituem receitas afetadas externas na aceção do artigo 21.º, n.^os^ 1 e 5, do Regulamento Financeiro. Essas receitas afetadas cobrem igualmente todos os custos administrativos relacionados com a execução do Fundo de Inovação. A Comissão pode utilizar até 5 % da dotação do Fundo de Inovação para cobrir as suas despesas de gestão.\n\n4. Um projeto que tenha beneficiado do apoio do Fundo de Inovação pode beneficiar igualmente de uma contribuição a título de qualquer outro programa da União, incluindo fundos em gestão partilhada, desde que as contribuições não digam respeito às mesmas despesas. O financiamento cumulativo não pode exceder o montante total dos custos elegíveis do projeto e o apoio a título dos diferentes programas da União pode ser calculado numa base *pro rata*."
+  },
+  "f0542544d9dd4e47": {
+   "fragment_id": "Artigo 20.º — Gestão das receitas do Fundo de Inovação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Gestão das receitas do Fundo de Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Gestão das receitas do Fundo de Inovação\n\n1. A Comissão assegura que as licenças de emissão reservadas para o Fundo de Inovação são leiloadas em conformidade com os princípios e as modalidades estabelecidas no artigo 10.º, n.º 4, da Diretiva 2003/87/CE e gere as receitas do Fundo de Inovação em consonância com os objetivos da Diretiva 2003/87/CE.\n\n2. A Comissão zela por que as receitas referidas no n.º 1 sejam transferidas para o organismo de execução, em tempo útil, para financiar os custos relacionados com as atividades de execução e o desembolso aos projetos selecionados.\n\n3. A Comissão pode delegar no Banco Europeu de Investimento (BEI) a monetização das licenças de emissão e a gestão das receitas do Fundo de Inovação. Caso se verifique essa delegação, a Comissão e o BEI celebram um acordo que estabelece as modalidades e condições específicas em que o BEI deve desempenhar as suas funções relacionadas com a gestão das receitas do Fundo de Inovação.\n\n4. Sem prejuízo do disposto na Diretiva 2003/87/CE, as receitas do Fundo de Inovação remanescentes no final do período de elegibilidade dos projetos apoiados são utilizadas para apoiar novos projetos que cumpram os critérios de elegibilidade estabelecidos no artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE, até que todas as receitas tenham sido utilizadas para a concretização dos objetivos do Fundo de Inovação. Estes novos projetos são selecionados por meio de novos convites à apresentação de propostas nos termos do artigo 9.º ou apoiados em conformidade com os artigos 14.º ou 15.º."
+  },
+  "82443a95a6763c45": {
+   "fragment_id": "Artigo 21.º — Papel dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Papel dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Papel dos Estados-Membros\n\n1. No quadro da execução do Fundo de Inovação, a Comissão consulta os Estados-Membros e estes prestam-lhe assistência.\n\n2. Os Estados-Membros são consultados sobre:\n\na) A lista dos projetos pré-selecionados, incluindo a lista de reserva, e a lista de projetos propostos para assistência ao desenvolvimento de projetos, em conformidade com o artigo 12.º, n.º 2, antes da concessão do apoio;\n\nb) Os projetos de decisões da Comissão a que se referem o artigo 9.º, n.º 1, o artigo 14.º, n.º 2, e o artigo 15.º, n.º 1;\n\nc) O montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos.\n\n3. A pedido da Comissão, os Estados-Membros prestam-lhe aconselhamento e assistência:\n\na) Na definição de orientações gerais para o Fundo de Inovação;\n\nb) Na resolução de problemas novos ou existentes relacionados com a execução dos projetos;\n\nc) No tratamento de qualquer outra questão relacionada com a execução dos projetos.\n\n4. A Comissão apresenta aos Estados-Membros um relatório sobre os progressos realizados na execução do presente regulamento, nomeadamente sobre a execução das decisões de atribuição a que se refere o artigo 12.º, n.º 5."
+  },
+  "3a265fa5b0d002d5": {
+   "fragment_id": "Artigo 22.º — Papel das partes interessadas",
+   "type": "artigo",
+   "heading": "Artigo 22.º — Papel das partes interessadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 22.º — Papel das partes interessadas\n\nA Comissão pode envolver as partes interessadas nos debates relativos à execução do Fundo de Inovação, nomeadamente sobre as questões enumeradas no artigo 21.º, n.º 3."
+  },
+  "40ed6b62e188ac6f": {
+   "fragment_id": "CAPÍTULO V",
+   "type": "divisao",
+   "heading": "CAPÍTULO V",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO V"
+  },
+  "e1c2f45a29dcd4ab": {
+   "fragment_id": "Acompanhamento, prestação de informações e avaliação",
+   "type": "divisao",
+   "heading": "Acompanhamento, prestação de informações e avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Acompanhamento, prestação de informações e avaliação"
+  },
+  "13a7325f6aa04765": {
+   "fragment_id": "Artigo 23.º — Acompanhamento e prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Acompanhamento e prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acompanhamento e prestação de informações\n\n1. O organismo de execução acompanha o funcionamento do Fundo de Inovação, incluindo os montantes de apoio do Fundo de Inovação desembolsados.\n\n2. A fim de assegurar uma recolha eficiente, eficaz e atempada dos dados necessários ao acompanhamento referido no n.º 1 e dos resultados, os proponentes dos projetos poderão ser sujeitos a obrigações de prestação de informações proporcionadas. Os relatórios dos proponentes dos projetos devem incluir informações sobre as ações de partilha de conhecimentos realizadas em conformidade com o artigo 27.º.\n\n3. O organismo de execução informa regularmente a Comissão sobre o desempenho das suas funções.\n\n4. O organismo de execução presta informações à Comissão sobre o ciclo completo de desembolso do apoio e, em especial, sobre a organização dos convites à apresentação de propostas e a assinatura de contratos com os proponentes dos projetos.\n\n5. Após a conclusão de cada convite à apresentação de propostas, a Comissão apresenta aos Estados-Membros um relatório sobre a execução desse convite à apresentação de propostas.\n\n6. A Comissão apresenta anualmente ao Conselho e ao Parlamento Europeu um relatório sobre os progressos realizados na execução do Fundo de Inovação.\n\n7. Os organismos de execução que não sejam agências de execução e as entidades nas quais tenha sido delegada a gestão das receitas do Fundo de Inovação, de acordo com o artigo 20.º, n.º 3, fornecem à Comissão os seguintes elementos:\n\na) Até 15 de fevereiro, as demonstrações financeiras não auditadas relativas ao exercício anterior, com início em 1 de janeiro e termo em 31 de dezembro, no respeitante às atividades delegadas nesses organismos de execução e nessas entidades;\n\nb) Até 15 de março do ano de apresentação das demonstrações financeiras não auditadas, as demonstrações financeiras auditadas relativas ao exercício anterior, com início em 1 de janeiro e termo em 31 de dezembro, no que diz respeito às atividades delegadas nesses organismos de execução e nessas entidades.\n\nA Comissão elabora as contas anuais do Fundo de Inovação relativas a cada exercício, com início em 1 de janeiro e termo em 31 de dezembro, com base nas demonstrações financeiras apresentadas nos termos do primeiro parágrafo. Essas contas são objeto de uma auditoria externa independente.\n\nAs demonstrações financeiras e as contas apresentadas nos termos do presente número são elaboradas em conformidade com as regras contabilísticas referidas no artigo 80.º do Regulamento Financeiro."
+  },
+  "c5f90b6c3579886f": {
+   "fragment_id": "Artigo 24.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação\n\n1. Em 2025 e, posteriormente, de cinco em cinco anos, a Comissão realiza uma avaliação do funcionamento do Fundo de Inovação. A avaliação incide, entre outros, na apreciação das sinergias entre o Fundo de Inovação e outros programas relevantes da União, bem como no procedimento de desembolso do apoio do Fundo de Inovação.\n\n2. Com base nos resultados das avaliações referidas no n.º 1 do presente artigo, a Comissão apresenta, se for caso disso, propostas para assegurar que o Fundo de Inovação progrida no sentido da consecução dos seus objetivos previstos na Diretiva 2003/87/CE e no artigo 3.º do presente regulamento.\n\n3. Uma vez concluída a execução do Fundo de Inovação, o mais tardar em 2035, a Comissão realiza uma avaliação final do funcionamento do Fundo de Inovação.\n\n4. A Comissão divulga publicamente os resultados das avaliações realizadas nos termos dos n.^os^ 1, 2 e 3."
+  },
+  "b76d202a844f758e": {
+   "fragment_id": "CAPÍTULO VI",
+   "type": "divisao",
+   "heading": "CAPÍTULO VI",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VI"
+  },
+  "59cb4dfd1f124213": {
+   "fragment_id": "Auditorias, publicidade e partilha de conhecimentos",
+   "type": "divisao",
+   "heading": "Auditorias, publicidade e partilha de conhecimentos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Auditorias, publicidade e partilha de conhecimentos"
+  },
+  "a3c668393ba868a0": {
+   "fragment_id": "Artigo 25.º — Auditorias",
+   "type": "artigo",
+   "heading": "Artigo 25.º — Auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 25.º — Auditorias\n\n1. As auditorias à utilização do apoio do Fundo de Inovação realizadas por auditores externos independentes, incluindo por auditores não mandatados pelas instituições ou organismos da União, constituem a base da garantia global a que se refere o artigo 26.º.\n\n2. As pessoas ou entidades que recebem apoio do Fundo de Inovação acordam, por escrito, na concessão dos direitos e do acesso necessários previstos no artigo 129.º do Regulamento Financeiro."
+  },
+  "bb74e7f55afea3d8": {
+   "fragment_id": "Artigo 26.º — Recurso mútuo a auditorias",
+   "type": "artigo",
+   "heading": "Artigo 26.º — Recurso mútuo a auditorias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 26.º — Recurso mútuo a auditorias\n\nSem prejuízo das possibilidades existentes de realizar novas auditorias, caso um auditor independente tenha realizado, com base em normas de auditoria internacionalmente aceites, uma auditoria às demonstrações financeiras e aos relatórios sobre a utilização de uma contribuição da União que forneça uma garantia razoável, essa auditoria constitui a base da garantia global, tal como previsto mais pormenorizadamente, se for caso disso, nas regras setoriais, desde que haja provas suficientes da independência e da competência do auditor. O relatório do auditor independente e a respetiva documentação de auditoria são disponibilizados, mediante pedido, ao Parlamento Europeu, à Comissão, ao Tribunal de Contas e às autoridades de auditoria dos Estados-Membros."
+  },
+  "c824950d130cba3b": {
+   "fragment_id": "Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade\n\n1. Os proponentes dos projetos disponibilizam de forma proativa e sistemática ao público, nos seus sítios Web, informações sobre os projetos apoiados ao abrigo do presente regulamento. Essas informações devem incluir uma referência explícita ao apoio recebido do Fundo de Inovação.\n\n2. Os proponentes dos projetos asseguram a prestação de informações coerentes, eficazes e específicas sobre o apoio que receberam do Fundo de Inovação, adequadas a vários tipos de destinatários, incluindo os meios de comunicação social e o público em geral.\n\n3. O logótipo do Fundo de Inovação ou outros elementos promocionais exigidos na documentação contratual são utilizados em todas as atividades de comunicação e partilha de conhecimentos e figuram em painéis informativos colocados em locais estratégicos, visíveis para o público.\n\n4. Os proponentes dos projetos apresentam informações pormenorizadas sobre as ações previstas em conformidade com os n.^os^ 1 e 2 do presente artigo no plano de partilha de conhecimentos apresentado em conformidade com o artigo 10.º, n.º 3.\n\n5. O organismo de execução realiza ações de informação, comunicação e promoção relacionadas com o apoio e os resultados do Fundo de Inovação. O organismo de execução organiza seminários específicos, sessões de trabalho ou, se for caso disso, outros tipos de atividades destinadas a facilitar o intercâmbio de experiências, conhecimentos e melhores práticas no que respeita à conceção, preparação e execução de projetos, bem como à eficácia do financiamento concedido sob a forma de assistência ao desenvolvimento de projetos."
+  },
+  "7fd045ac4f655f13": {
+   "fragment_id": "CAPÍTULO VII",
+   "type": "divisao",
+   "heading": "CAPÍTULO VII",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO VII"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "b235df7384a54d8e": {
+   "fragment_id": "Artigo 28.º — Data de entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Data de entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Data de entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 26 de fevereiro de 2019.\n\n***Pela Comissão***\n\n***O Presidente***\n\n**Jean-Claude JUNCKER**\n\n---"
+  },
+  "a12b4fc8c39c2a5f": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2019140PT.01000601-E0001) [JO L 275 de 25.10.2003, p. 32](http://publications.europa.eu/resource/oj/JOL_2003_275_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2019140PT.01000601-E0002) Decisão 2010/670/UE da Comissão, de 3 de novembro de 2010, que estabelece critérios e medidas para o financiamento de projetos de demonstração comercial tendo em vista a captura e o armazenamento geológico de CO2 em condições de segurança ambiental, bem como de projetos de demonstração de tecnologias inovadoras de aproveitamento de energias renováveis no contexto do regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade estabelecido pela Diretiva 2003/87/CE do Parlamento Europeu e do Conselho ([JO L 290 de 6.11.2010, p. 39](http://publications.europa.eu/resource/oj/JOL_2010_290_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2019140PT.01000601-E0003) Relatório Especial n.º 24/2018, de 5 de setembro de 2018: «Demonstração da captura e armazenamento de dióxido de carbono e de energias renováveis inovadoras a uma escala comercial na UE: os progressos pretendidos não foram alcançados na última década», disponível no sítio do Tribunal de Contas no seguinte endereço: https://www.eca.europa.eu/Lists/ECADocuments/SR18_24/SR_CCS_PT.pdf.\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2019140PT.01000601-E0004) Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho, de 18 de julho de 2018, relativo às disposições financeiras aplicáveis ao orçamento geral da União, que altera os Regulamentos (UE) n.º 1296/2013, (UE) n.º 1301/2013, (UE) n.º 1303/2013, (UE) n.º 1304/2013, (UE) n.º 1309/2013, (UE) n.º 1316/2013, (UE) n.º 223/2014 e (UE) n.º 283/2014, e a Decisão n.º 541/2014/UE, e revoga o Regulamento (UE, Euratom) n.º 966/2012 ([JO L 193 de 30.7.2018, p. 1](http://publications.europa.eu/resource/oj/JOL_2018_193_R_TOC)).\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2019140PT.01000601-E0005) Regulamento (UE) n.º 1031/2010 da Comissão, de 12 de novembro de 2010, relativo ao calendário, administração e outros aspetos dos leilões de licenças de emissão de gases com efeito de estufa, nos termos da Diretiva 2003/87/CE do Parlamento Europeu e do Conselho relativa à criação de um regime de comércio de licenças de emissão de gases com efeito de estufa na Comunidade ([JO L 302 de 18.11.2010, p. 1](http://publications.europa.eu/resource/oj/JOL_2010_302_R_TOC)).\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2019140PT.01000601-E0006) Regulamento (CE) n.º 58/2003 do Conselho, de 19 de dezembro de 2002, que define o estatuto das agências de execução encarregadas de determinadas funções de gestão de programas comunitários ([JO L 11 de 16.1.2003, p. 1](http://publications.europa.eu/resource/oj/JOL_2003_011_R_TOC))."
+  },
+  "218b061937d6bae7": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 26 de fevereiro de 2019\n\nque complementa a Diretiva 2003/87/CE do Parlamento Europeu e do Conselho no que respeita ao funcionamento do Fundo de Inovação\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "51abcb1e1a8b97ae": {
+   "fragment_id": "Artigo 6.º — Desembolso das subvenções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Desembolso das subvenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Desembolso das subvenções\n\n1. O apoio do Fundo de Inovação sob a forma de subvenções é desembolsado quando são alcançados os objetivos intermédios predeterminados.\n\n2.\n\nPara todos os projetos, os objetivos intermédios referidos no n.º 1 baseiam-se no ciclo de desenvolvimento do projeto e incluem, pelo menos, as etapas seguintes:\n\na) Encerramento financeiro;\n\nb) Entrada em funcionamento.\n\n3. Tendo em conta a tecnologia utilizada e as circunstâncias específicas do setor ou dos setores em que está a ser utilizada, podem ser definidos objetivos intermédios adicionais nos documentos contratuais.\n\n4. Até 40 % do montante total do apoio do Fundo de Inovação, incluindo a assistência ao desenvolvimento de projetos, atribuído a um projeto específico é desembolsado aquando do encerramento financeiro ou quando for alcançado um objetivo intermédio específico anterior ao encerramento financeiro, caso tenha sido definido em conformidade com o n.º 3.\n\n5. A quota-parte do montante total do apoio do Fundo de Inovação atribuído a um projeto específico que não tiver sido desembolsada nos termos do n.º 4 é desembolsada após o encerramento financeiro, podendo sê-lo parcialmente antes da entrada em funcionamento e em prestações anuais após a entrada em funcionamento.\n\n6. Para efeitos dos n.^os^ 4 e 5, o montante total do apoio do Fundo de Inovação atribuído a um projeto específico inclui o montante concedido sob a forma de assistência ao desenvolvimento do projeto, em conformidade com o artigo 13.º."
+  },
+  "d7815bc3cbe0495e": {
+   "fragment_id": "Artigo 9.º — Convites à apresentação de propostas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Convites à apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Convites à apresentação de propostas\n\n1. Os proponentes dos projetos são convidados a candidatar-se ao apoio do Fundo de Inovação através de convites públicos à apresentação de propostas lançados pela Comissão.\n\nAntes de adotar uma decisão de lançamento de um convite à apresentação de propostas, a Comissão consulta os Estados-Membros sobre o projeto de decisão.\n\n2.\n\nA decisão da Comissão relativa ao lançamento dos convites à apresentação de propostas inclui, pelo menos, os seguintes elementos:\n\na) O montante global de apoio do Fundo de Inovação disponível para o convite;\n\nb) O montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos;\n\nc) Os tipos de projetos ou setores solicitados;\n\nd) Uma descrição do processo de candidatura, especificando se este decorrerá numa só fase ou em duas fases, bem como uma lista pormenorizada das informações e documentação a apresentar juntamente com a candidatura;\n\ne) Informações pormenorizadas sobre o processo de seleção, incluindo a metodologia de avaliação e classificação;\n\nf) No caso de projetos de pequena escala sujeitos a um procedimento simplificado de candidatura nos termos do artigo 10.º, n.º 4, e a um procedimento de seleção específico nos termos do artigo 12.º-B, as regras desses procedimentos;\n\ng) Caso a Comissão reserve uma parte do montante total de apoio do Fundo de Inovação disponível para projetos de pequena escala, o montante dessa parte;\n\nh) Caso sejam aplicados critérios de seleção adicionais com vista a alcançar uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação, em conformidade com o artigo 11.º, n.º 2, os critérios em causa."
+  },
+  "d29b468c69851ec8": {
+   "fragment_id": "Artigo 10.º — Procedimento de candidatura",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de candidatura\n\n1. O organismo de execução recolhe as candidaturas e organiza o processo de candidatura como determinado nos termos do artigo 9.º, n.º 2, alínea d).\n\n2.\n\nO processo de candidatura em duas fases compreende as seguintes fases sucessivas:\n\na) a fase de manifestação de interesse;\n\nb) a fase de apresentação da candidatura completa.\n\nNa fase de manifestação de interesse, o proponente do projeto deve apresentar uma descrição das principais características do projeto, em conformidade com os requisitos estabelecidos no convite à apresentação de propostas respetivo, incluindo a descrição da eficácia, do grau de inovação e da maturidade do projeto, conforme especificado no artigo 11.º, n.º 1, alíneas a), b) e c).\n\nNa fase de apresentação da candidatura completa, o proponente do projeto deve apresentar uma descrição pormenorizada do projeto e todos os documentos comprovativos, incluindo o plano de partilha de conhecimentos.\n\n3. No caso do processo de candidatura numa só fase, o proponente do projeto deve apresentar uma candidatura completa como é descrito no n.º 2, terceiro parágrafo.\n\n4. Aos projetos de pequena escala poderá aplicar-se um procedimento simplificado de candidatura."
+  },
+  "479ece43dc6b0a59": {
+   "fragment_id": "Artigo 11.º — Critérios de seleção",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Critérios de seleção",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Critérios de seleção\n\n1.\n\nA seleção de projetos para apoio do Fundo de Inovação baseia-se nos seguintes critérios:\n\na) Eficácia em termos de potencial de prevenção de emissões de gases com efeito de estufa, quando aplicável, em comparação com os parâmetros de referência definidos no artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE;\n\nb) Grau de inovação dos projetos em comparação com o estado da técnica;\n\nc) Maturidade do projeto em termos de planeamento, modelo de negócio, estrutura financeira e jurídica, bem como perspetivas de encerramento financeiro num prazo predefinido não superior a quatro anos após a decisão de seleção;\n\nd) Potencial técnico e de mercado para a aplicação ou replicação generalizada, ou para futuras reduções de custos;\n\ne) Eficiência em termos dos custos pertinentes do projeto deduzidos de qualquer contribuição para estes custos por parte do proponente do projeto, a dividir pela quantidade total prevista de emissões de gases com efeito de estufa a evitar ou de energia a produzir ou armazenar ou de CO2 a armazenar nos primeiros dez anos de funcionamento.\n\n2. Para efeitos de seleção dos projetos, podem ainda aplicar-se critérios adicionais com vista a alcançar uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação."
+  },
+  "22d7efb2e686a893": {
+   "fragment_id": "Artigo 12.º",
+   "type": "artigo",
+   "heading": "Artigo 12.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º"
+  },
+  "e241d3af0ed0a0fb": {
+   "fragment_id": "Procedimento de seleção relativo ao processo de candidatura em duas fases",
+   "type": "divisao",
+   "heading": "Procedimento de seleção relativo ao processo de candidatura em duas fases",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Procedimento de seleção relativo ao processo de candidatura em duas fases\n\n1. Com base nas propostas recebidas na fase de manifestação de interesse, o organismo de execução afere a elegibilidade de cada projeto, em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE. O organismo de execução procede então à seleção dos projetos elegíveis de acordo com o disposto nos n.^os^ 2 e 3 do presente artigo.\n\n2. Com base nas propostas recebidas na fase de manifestação de interesse, o organismo de execução elabora uma lista dos projetos que cumprem os critérios de seleção estabelecidos no artigo 11.º, n.º 1, alíneas a), b) e c), e convida os proponentes desses projetos a apresentarem uma candidatura completa.\n\nSe concluir que determinado projeto cumpre os critérios de seleção estabelecidos no artigo 11.º, n.º 1, alíneas a) e b), mas não cumpre o critério previsto no artigo 11.º, n.º 1, alínea c), o organismo de execução determina se esse projeto tem potencial para satisfazer todos os critérios de seleção se for aperfeiçoado. Se o projeto possuir esse potencial, o organismo de execução pode conceder-lhe assistência ao desenvolvimento do projeto ou, se essa tarefa estiver a cargo da Comissão, propor à Comissão a concessão de assistência ao desenvolvimento do projeto.\n\n3. Com base na candidatura completa recebida em conformidade com o n.º 2 do presente artigo, o organismo de execução procede à avaliação e à classificação do projeto com base em todos os critérios de seleção estabelecidos no artigo 11.º. Para efeitos dessa avaliação, o organismo de execução compara os projetos com projetos no mesmo setor, bem como com projetos de outros setores, e elabora uma lista de projetos pré-selecionados.\n\n4.\n\nA lista de projetos pré-selecionados referida no n.º 3 e, se for caso disso, a proposta a que se refere o n.º 2, segundo parágrafo, são comunicadas à Comissão e incluem, pelo menos, os seguintes elementos:\n\na) Uma confirmação do cumprimento dos critérios de elegibilidade e de seleção;\n\nb) Pormenores sobre a avaliação e a classificação dos projetos;\n\nc) Custos totais dos projetos e custos pertinentes referidos no artigo 5.º, em euros;\n\nd) O total do pedido de apoio do Fundo de Inovação, em euros;\n\ne) A quantidade prevista de emissões de gases com efeito de estufa a evitar;\n\nf) A quantidade prevista de energia a produzir ou armazenar;\n\ng) A quantidade prevista de CO2 a armazenar;\n\nh) Informações sobre a forma jurídica do apoio do Fundo de Inovação solicitado pelo proponente do projeto.\n\n5. Com base nos elementos comunicados nos termos do n.º 4 do presente artigo, a Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, adota a decisão de atribuição que especifica o apoio aos projetos selecionados e, se for caso disso, estabelece uma lista de reserva."
+  },
+  "f864ab70a502c437": {
+   "fragment_id": "Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase\n\n1. Com base nas propostas recebidas, o organismo de execução afere a elegibilidade de cada projeto, em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE. O organismo de execução procede em seguida à seleção dos projetos elegíveis de acordo com o disposto nos n.^os^ 2 e 3 do presente artigo.\n\n2. Com base nas propostas recebidas, o organismo de execução elabora uma lista dos projetos que cumprem os critérios de seleção estabelecidos no artigo 11.º e procede à avaliação e classificação dos projetos com base nos critérios de seleção estabelecidos nesse artigo. Para efeitos dessa avaliação, o organismo de execução compara os projetos com projetos no mesmo setor, bem como com projetos de outros setores. No final da avaliação, elabora uma lista dos projetos pré-selecionados.\n\n3. Se concluir que determinado projeto cumpre os critérios de seleção estabelecidos no artigo 11.º, n.º 1, alíneas a), b), d) e e), e o critério de seleção eventualmente estabelecido em conformidade com o artigo 11.º, n.º 2, mas não o critério previsto no artigo 11.º, n.º 1, alínea c), o organismo de execução determina se esse projeto tem potencial para satisfazer o critério de seleção em causa, se for aperfeiçoado. Se o projeto possuir esse potencial, o organismo de execução pode conceder-lhe assistência ao desenvolvimento ou, se a Comissão conceder assistência ao desenvolvimento de projetos, propor à Comissão que conceda essa assistência ao projeto em causa.\n\n4.\n\nA lista de projetos pré-selecionados referida no n.º 2 e, se for caso disso, a proposta a que se refere o n.º 3 são comunicadas à Comissão e devem incluir, pelo menos, os seguintes elementos:\n\na) uma confirmação do cumprimento dos critérios de elegibilidade e de seleção;\n\nb) pormenores sobre a avaliação e a classificação dos projetos;\n\nc) custos totais dos projetos e custos pertinentes referidos no artigo 5.º, em euros;\n\nd) o total do pedido de apoio do Fundo de Inovação, em euros;\n\ne) a quantidade prevista de emissões de gases com efeito de estufa a evitar;\n\nf) a quantidade prevista de energia a produzir ou armazenar;\n\ng) a quantidade prevista de CO2 a armazenar;\n\nh) informações sobre a forma jurídica do apoio do Fundo de Inovação solicitado pelo proponente do projeto.\n\n5. Com base nos elementos comunicados nos termos do n.º 4 do presente artigo, a Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, adota a decisão de atribuição que especifica o apoio aos projetos selecionados e, se for caso disso, estabelece uma lista de reserva."
+  },
+  "25c1aee680cc1a03": {
+   "fragment_id": "Artigo 12.º-B — Procedimento de seleção para projetos de pequena escala",
+   "type": "artigo",
+   "heading": "Artigo 12.º-B — Procedimento de seleção para projetos de pequena escala",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-B — Procedimento de seleção para projetos de pequena escala\n\nEm derrogação dos artigos 12.º e 12.º-A, pode ser aplicado um procedimento de seleção específico aos projetos de pequena escala."
+  },
+  "a26d6b019a237c10": {
+   "fragment_id": "Artigo 13.º — Assistência ao desenvolvimento de projetos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Assistência ao desenvolvimento de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Assistência ao desenvolvimento de projetos\n\n1. A Comissão determina, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, alínea c), o montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos.\n\n2. A assistência ao desenvolvimento de projetos é concedida pela Comissão ou pelo organismo de execução, em conformidade com o artigo 12.º, n.º 2, ou o artigo 12.º-A, n.º 3, sob a forma de subvenção ou de assistência técnica.\n\n3.\n\nA assistência ao desenvolvimento de projetos poderá servir para financiar as seguintes atividades:\n\na) Melhoria e desenvolvimento da documentação do projeto ou de componentes da conceção do projeto, a fim de assegurar um nível suficiente de maturidade do projeto;\n\nb) Análise da viabilidade do projeto, incluindo estudos técnicos e económicos;\n\nc) Aconselhamento sobre a estrutura financeira e jurídica do projeto;\n\nd) Reforço das capacidades do proponente do projeto.\n\n4. Para efeitos da assistência ao desenvolvimento de projetos, são considerados custos pertinentes todos os custos relacionados com o desenvolvimento do projeto. O Fundo de Inovação pode financiar até 100 % dos custos pertinentes."
+  },
+  "2dfd142fe90a237f": {
+   "fragment_id": "Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta\n\n1. Se a Comissão designar uma agência de execução como organismo de execução nos termos do artigo 17.º, n.º 1, do presente regulamento, essa decisão da Comissão fica sujeita ao resultado da análise de custos/benefícios referida no artigo 3.º do Regulamento (CE) n.º 58/2003 do Conselho ([^1^](http://publications.europa.eu/resource/cellar/e5e9a114-fa3b-11eb-b520-01aa75ed71a1.0019.02/DOC_1#E0001)), e o acordo referido no artigo 17.º, n.º 1, segundo parágrafo, do presente regulamento assume a forma de um ato de delegação em conformidade com o Regulamento (CE) n.º 58/2003.\n\n2. Em caso de recuperação, nos termos dos artigos 7.º e 8.º do presente regulamento, de montantes desembolsados em regime de gestão direta, os montantes recuperados constituem receitas afetadas nos termos do artigo 21.º do Regulamento Financeiro e são utilizados para financiar as operações do Fundo de Inovação.\n\n3. No que diz respeito a todas as tarefas de execução realizadas pela Comissão, incluindo por intermédio de uma agência de execução, as receitas do Fundo de Inovação constituem receitas afetadas externas na aceção do artigo 21.º, n.^os^ 1 e 5, do Regulamento Financeiro. Essas receitas afetadas cobrem igualmente todos os custos administrativos relacionados com a execução do Fundo de Inovação. A Comissão pode utilizar até 5 % da dotação do Fundo de Inovação para cobrir as suas despesas de gestão.\n\n4. Um projeto que tenha beneficiado do apoio do Fundo de Inovação pode beneficiar igualmente de uma contribuição a título de qualquer outro programa da União, incluindo fundos em gestão partilhada, desde que as contribuições não digam respeito às mesmas despesas. O financiamento cumulativo não pode exceder o montante total dos custos elegíveis do projeto e o apoio a título dos diferentes programas da União pode ser calculado numa base *pro rata*."
+  },
+  "7a9e3f2711d5caf3": {
+   "fragment_id": "Artigo 21.º — Papel dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Papel dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Papel dos Estados-Membros\n\n1. No quadro da execução do Fundo de Inovação, a Comissão consulta os Estados-Membros e estes prestam-lhe assistência.\n\n2.\n\nOs Estados-Membros são consultados sobre:\n\na) a lista dos projetos pré-selecionados, incluindo a lista de reserva, e a lista de projetos propostos para assistência ao desenvolvimento de projetos, em conformidade com o artigo 12.º, n.º 2, segundo parágrafo, ou o artigo 12.º-A, n.º 3, antes da concessão do apoio;\n\nb) Os projetos de decisões da Comissão a que se referem o artigo 9.º, n.º 1, o artigo 14.º, n.º 2, e o artigo 15.º, n.º 1;\n\nc) O montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos.\n\n3.\n\nA pedido da Comissão, os Estados-Membros prestam-lhe aconselhamento e assistência:\n\na) Na definição de orientações gerais para o Fundo de Inovação;\n\nb) Na resolução de problemas novos ou existentes relacionados com a execução dos projetos;\n\nc) No tratamento de qualquer outra questão relacionada com a execução dos projetos.\n\n4. A Comissão apresenta aos Estados-Membros um relatório sobre os progressos realizados na execução do presente regulamento, nomeadamente sobre a execução das decisões de atribuição a que se referem o artigo 12.º, n.º 5, e o artigo 12.º-A, n.º 5."
+  },
+  "e46efc2b318ad4b2": {
+   "fragment_id": "Artigo 23.º — Acompanhamento e prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Acompanhamento e prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acompanhamento e prestação de informações\n\n1. O organismo de execução acompanha o funcionamento do Fundo de Inovação, incluindo os montantes de apoio do Fundo de Inovação desembolsados.\n\n2. A fim de assegurar uma recolha eficiente, eficaz e atempada dos dados necessários ao acompanhamento referido no n.º 1 e dos resultados, os proponentes dos projetos poderão ser sujeitos a obrigações de prestação de informações proporcionadas. Os relatórios dos proponentes dos projetos devem incluir informações sobre as ações de partilha de conhecimentos realizadas em conformidade com o artigo 27.º.\n\n3. O organismo de execução informa regularmente a Comissão sobre o desempenho das suas funções.\n\n4. O organismo de execução presta informações à Comissão sobre o ciclo completo de desembolso do apoio e, em especial, sobre a organização dos convites à apresentação de propostas e a assinatura de contratos com os proponentes dos projetos.\n\n5. Após a conclusão de cada convite à apresentação de propostas, a Comissão apresenta aos Estados-Membros um relatório sobre a execução desse convite à apresentação de propostas.\n\n6. A Comissão apresenta anualmente ao Conselho e ao Parlamento Europeu um relatório sobre os progressos realizados na execução do Fundo de Inovação.\n\n7.\n\nOs organismos de execução que não sejam agências de execução e as entidades nas quais tenha sido delegada a gestão das receitas do Fundo de Inovação, de acordo com o artigo 20.º, n.º 3, fornecem à Comissão os seguintes elementos:\n\na) Até 15 de fevereiro, as demonstrações financeiras não auditadas relativas ao exercício anterior, com início em 1 de janeiro e termo em 31 de dezembro, no respeitante às atividades delegadas nesses organismos de execução e nessas entidades;\n\nb) Até 15 de março do ano de apresentação das demonstrações financeiras não auditadas, as demonstrações financeiras auditadas relativas ao exercício anterior, com início em 1 de janeiro e termo em 31 de dezembro, no que diz respeito às atividades delegadas nesses organismos de execução e nessas entidades.\n\nA Comissão elabora as contas anuais do Fundo de Inovação relativas a cada exercício, com início em 1 de janeiro e termo em 31 de dezembro, com base nas demonstrações financeiras apresentadas nos termos do primeiro parágrafo. Essas contas são objeto de uma auditoria externa independente.\n\nAs demonstrações financeiras e as contas apresentadas nos termos do presente número são elaboradas em conformidade com as regras contabilísticas referidas no artigo 80.º do Regulamento Financeiro."
+  },
+  "69e18a6b3e2bd85f": {
+   "fragment_id": "Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade\n\n1. Os proponentes dos projetos disponibilizam de forma proativa e sistemática ao público, nos seus sítios Web, informações sobre os projetos apoiados ao abrigo do presente regulamento. Essas informações devem incluir uma referência explícita ao apoio recebido do Fundo de Inovação.\n\n2. Os proponentes dos projetos asseguram a prestação de informações coerentes, eficazes e específicas sobre o apoio que receberam do Fundo de Inovação, adequadas a vários tipos de destinatários, incluindo os meios de comunicação social e o público em geral.\n\n3. O logótipo do Fundo de Inovação ou outros elementos promocionais exigidos na documentação contratual são utilizados em todas as atividades de comunicação e partilha de conhecimentos e figuram em painéis informativos colocados em locais estratégicos, visíveis para o público.\n\n4. Os proponentes dos projetos apresentam informações pormenorizadas sobre as ações previstas em conformidade com os n.^os^ 1 e 2 do presente artigo no plano de partilha de conhecimentos apresentado em conformidade com o artigo 10.º, n.º 2, terceiro parágrafo.\n\n5. O organismo de execução realiza ações de informação, comunicação e promoção relacionadas com o apoio e os resultados do Fundo de Inovação. O organismo de execução organiza seminários específicos, sessões de trabalho ou, se for caso disso, outros tipos de atividades destinadas a facilitar o intercâmbio de experiências, conhecimentos e melhores práticas no que respeita à conceção, preparação e execução de projetos, bem como à eficácia do financiamento concedido sob a forma de assistência ao desenvolvimento de projetos."
+  },
+  "2fb65f775ad4a735": {
+   "fragment_id": "Artigo 28.º — Data de entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 28.º — Data de entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 28.º — Data de entrada em vigor\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "d1835a33d02e613e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/e5e9a114-fa3b-11eb-b520-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (CE) n.º 58/2003 do Conselho, de 19 de dezembro de 2002, que define o estatuto das agências de execução encarregadas de determinadas funções de gestão de programas comunitários (JO L 11 de 16.1.2003, p. 1)."
+  },
+  "54bd76f5a058dbed": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Encerramento financeiro», o momento do ciclo de desenvolvimento do projeto em que todos os contratos relativos ao projeto e ao financiamento estão assinados e todos os requisitos neles estabelecidos se encontram cumpridos;\n\n2) «Entrada em funcionamento», o momento do ciclo de desenvolvimento do projeto em que se encontram testados todos os elementos e sistemas necessários para o funcionamento do projeto e se iniciaram as atividades que conduzem a uma prevenção efetiva de emissões de gases com efeito de estufa;\n\n3) «Projeto de pequena escala», um projeto cujo total de despesas de capital não excede 20 000 000 EUR;\n\n4) «Projeto de média escala», um projeto com um total de despesas de capital superior a 20 000 000 EUR e inferior ou igual a 100 000 000 EUR;\n\n5) «Decisão de lançamento de um convite à apresentação de propostas», uma decisão de financiamento pela qual a Comissão permite o financiamento de um convite à apresentação de propostas nos termos do artigo 110.º do Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/27f6a9fd-990f-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0001)) («Regulamento Financeiro»);\n\n6) «Procedimento de concurso competitivo», um procedimento através do qual produtores de produtos com emissões baixas ou nulas de carbono que solicitaram apoio do Fundo de Inovação são selecionados com base na proposta mais competitiva, em conformidade com o artigo 13.º-D do presente regulamento;\n\n7) «Requisito de qualificação», uma condição que um proponente num procedimento de concurso competitivo deve preencher para que a sua proposta seja classificada;\n\n8) «Critério de classificação», o critério utilizado nos procedimentos de concurso competitivos para classificar as propostas que cumprem os requisitos de qualificação. O critério de classificação é sempre o preço de oferta, colocado em relação direta com o produto ou objetivo que constitui o objeto do procedimento de concurso competitivo, mas pode, excecionalmente, ser complementado por outros critérios de classificação;\n\n9) «Conceção do procedimento de concurso competitivo», a descrição dos principais parâmetros económicos de um procedimento de concurso competitivo que influenciam diretamente a estrutura de incentivos e a dinâmica de oferta dos proponentes de projetos;\n\n10) «Preço de equilíbrio», o preço da oferta marginal que cumpre os requisitos de qualificação aplicáveis num procedimento de concurso competitivo."
+  },
+  "d6eb1ce7b6e0e355": {
+   "fragment_id": "Artigo 3.º — Objetivos operacionais",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Objetivos operacionais",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Objetivos operacionais\n\nO Fundo de Inovação tem os seguintes objetivos operacionais:\n\na) Apoiar projetos que demonstrem tecnologias, processos ou produtos altamente inovadores, suficientemente maduros e com um potencial significativo de redução das emissões de gases com efeito de estufa;\n\na-A) Apoiar projetos suficientemente maduros, com um potencial significativo de redução das emissões de gases com efeito de estufa e que visem expandir tecnologias, processos ou produtos inovadores, para alcançar a sua implantação comercial abrangente em toda a UE;\n\nb) Prestar apoio financeiro adaptado às necessidades do mercado e aos perfis de risco dos projetos elegíveis, atraindo simultaneamente recursos públicos e privados adicionais;\n\nc) Assegurar que as receitas do Fundo de Inovação sejam geridas em consonância com os objetivos da Diretiva 2003/87/CE."
+  },
+  "877793ea7242aa8c": {
+   "fragment_id": "Artigo 4.º — Formas de apoio do Fundo de Inovação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Formas de apoio do Fundo de Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Formas de apoio do Fundo de Inovação\n\nO apoio do Fundo de Inovação pode assumir as seguintes formas:\n\na) Subvenções;\n\nb) Contribuições para operações de financiamento misto no âmbito do instrumento de apoio ao investimento da União;\n\nc) Quando necessário para alcançar os objetivos da Diretiva 2003/87/CE, financiamento sob qualquer das outras formas previstas no Regulamento Financeiro, em especial prémios e contratos públicos."
+  },
+  "9be47ac7a2f65138": {
+   "fragment_id": "Disposições específicas aplicáveis às subvenções que não sejam concedidas com base nos capítulos II-A, II-B ou II-C",
+   "type": "divisao",
+   "heading": "Disposições específicas aplicáveis às subvenções que não sejam concedidas com base nos capítulos II-A, II-B ou II-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas aplicáveis às subvenções que não sejam concedidas com base nos capítulos II-A, II-B ou II-C"
+  },
+  "61d2ae49c792e59f": {
+   "fragment_id": "Artigo 5.º — Custos pertinentes",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Custos pertinentes",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Custos pertinentes\n\nPara efeitos do artigo 10.º-A, n.º 8, décimo sexto parágrafo, quinto período, da Diretiva 2003/87/CE, os custos pertinentes são os sobrecustos líquidos suportados pelo proponente do projeto em resultado da aplicação da tecnologia inovadora relacionada com a redução ou a prevenção de emissões de gases com efeito de estufa.\n\nOs sobrecustos líquidos são calculados como a diferença entre: i) a melhor estimativa dos custos económicos (abrangendo o investimento e o funcionamento), das receitas económicas e dos benefícios operacionais, e ii) a melhor estimativa dos custos e das receitas económicas e dos benefícios operacionais de um projeto que utilize uma tecnologia convencional com a mesma capacidade em termos de produção efetiva do produto final análogo.\n\nA Comissão pode igualmente decidir que os custos pertinentes são os sobrecustos líquidos calculados como a diferença entre a melhor estimativa: i) dos custos económicos (abrangendo o investimento e o funcionamento) e ii) das receitas económicas e dos benefícios operacionais."
+  },
+  "0a0101c805952b0d": {
+   "fragment_id": "Artigo 6.º — Desembolso das subvenções",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Desembolso das subvenções",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Desembolso das subvenções\n\n1. As subvenções são desembolsadas quando são alcançados os objetivos intermédios predeterminados.\n\n2.\n\nPara todos os projetos, os objetivos intermédios referidos no n.º 1 baseiam-se no ciclo de desenvolvimento do projeto e incluem, pelo menos, as etapas seguintes:\n\na) Encerramento financeiro;\n\nb) Entrada em funcionamento.\n\n3. Tendo em conta a tecnologia utilizada e as circunstâncias específicas do setor ou dos setores em que está a ser utilizada, podem ser definidos objetivos intermédios adicionais nos documentos contratuais.\n\n4. Até 40 % do montante total da subvenção concedida a um projeto específico é desembolsado no encerramento financeiro ou quando for alcançado um objetivo intermédio específico anterior ao encerramento financeiro, caso tenha sido definido em conformidade com o n.º 3.\n\n5. O remanescente do montante total da subvenção é desembolsado após o encerramento financeiro. Esta quota-parte pode ser parcialmente desembolsada antes da entrada em funcionamento e em prestações anuais após a entrada em funcionamento."
+  },
+  "0967a6f333750c5f": {
+   "fragment_id": "Artigo 9.º — Convites à apresentação de propostas",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Convites à apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Convites à apresentação de propostas\n\n1. Os proponentes dos projetos são convidados a candidatar-se a subvenções através de convites públicos à apresentação de propostas lançados pela Comissão. Antes de adotar uma decisão de lançamento de um convite à apresentação de propostas, a Comissão consulta os Estados-Membros sobre o projeto de decisão.\n\n2.\n\nA decisão da Comissão relativa ao lançamento dos convites à apresentação de propostas inclui, pelo menos, os seguintes elementos:\n\na) O montante global de apoio do Fundo de Inovação disponível para o convite;\n\nc) Os tipos de projetos ou setores solicitados;\n\nd) Uma descrição do processo de candidatura, especificando se este decorrerá numa só fase ou em duas fases e pormenorizando as informações e documentação a apresentar com a candidatura;\n\ne) Informações pormenorizadas sobre o processo de seleção, incluindo a metodologia de avaliação e classificação;\n\nf) No caso de projetos de pequena escala sujeitos a um procedimento simplificado de candidatura nos termos do artigo 10.º, n.º 4, e a um procedimento de seleção específico nos termos do artigo 12.º-B, as regras desses procedimentos;\n\ng) Se a Comissão reservar uma parte do montante total de apoio do Fundo de Inovação disponível para projetos de pequena escala ou projetos de média escala, o montante dessa parte;\n\nh) Informação sobre a eventual aplicação de critérios de concessão adicionais em conformidade com o artigo 11.º, n.^os^ 2 e 3."
+  },
+  "859a1698b39c3e90": {
+   "fragment_id": "Artigo 10.º — Procedimento de candidatura",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Procedimento de candidatura",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Procedimento de candidatura\n\n1. O organismo de execução recolhe as candidaturas e organiza o processo de candidatura como determinado nos termos do artigo 9.º, n.º 2, alínea d).\n\n2.\n\nSe for aplicado o processo de candidatura em duas fases, este deve compreender as seguintes fases consecutivas:\n\na) A fase de manifestação de interesse;\n\nb) A fase de apresentação da candidatura completa.\n\n3. Se for aplicado o processo de candidatura numa só fase, o proponente do projeto deve apresentar uma candidatura completa, conforme descrito no n.º 2, terceiro parágrafo.\n\n4. Aos projetos de pequena escala poderá aplicar-se um procedimento simplificado de candidatura."
+  },
+  "80b391d1bece5f52": {
+   "fragment_id": "Artigo 11.º",
+   "type": "artigo",
+   "heading": "Artigo 11.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º"
+  },
+  "a6b96d021721b59a": {
+   "fragment_id": "Critérios de concessão",
+   "type": "divisao",
+   "heading": "Critérios de concessão",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Critérios de concessão\n\n1.\n\nAs subvenções são concedidas com base nos seguintes critérios:\n\na) Eficácia dos projetos propostos em termos de potencial de prevenção de emissões de gases com efeito de estufa e em termos de redução do impacto climático global, utilizando, se for caso disso, os parâmetros de referência a que se refere o artigo 10.º-A, n.º 2, da Diretiva 2003/87/CE;\n\nb) Grau de inovação dos projetos propostos em comparação com o estado da técnica;\n\nc) Maturidade do projeto em termos de planeamento, modelo de negócio, estrutura financeira e jurídica, bem como perspetivas de encerramento financeiro num prazo predefinido não superior a quatro anos após a decisão de concessão;\n\nd) Potencial técnico e de mercado dos projetos propostos para aplicação ou replicação generalizada, ou para futuras reduções de custos, e potencial dos projetos propostos para fazer face a múltiplos impactos ambientais, bem como o seu contributo para os objetivos da UE de poluição zero e circularidade;\n\ne) Eficiência em termos do montante solicitado de subvenção do Fundo de Inovação, acrescido de qualquer outro apoio público que faça parte do modelo financeiro do projeto, dividido pela quantidade total prevista de emissões de gases com efeito de estufa a evitar nos primeiros dez anos de funcionamento.\n\n2. Para efeitos de concessão de subvenções aos projetos selecionados, podem também ser incluídos no convite à apresentação de propostas critérios de concessão adicionais destinados a alcançar uma distribuição geograficamente equilibrada do apoio do Fundo de Inovação.\n\n3. Caso a Comissão lance um convite à apresentação de propostas setorial ou preveja um tema setorial no âmbito de um convite à apresentação de propostas, os documentos do convite à apresentação de propostas podem incluir critérios de concessão ou requisitos adicionais para avaliar o potencial contributo dos projetos propostos para os objetivos e prioridades do Pacto Ecológico Europeu. Esses critérios de concessão ou requisitos adicionais podem incluir o potencial contributo dos projetos propostos para o acesso da UE a um aprovisionamento seguro e sustentável de tecnologias de impacto zero necessárias para salvaguardar a resiliência do sistema energético da UE e contribuir para a criação de empregos de qualidade."
+  },
+  "4caef4e724e5a249": {
+   "fragment_id": "Procedimento de seleção respeitante ao processo de candidatura em duas fases",
+   "type": "divisao",
+   "heading": "Procedimento de seleção respeitante ao processo de candidatura em duas fases",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Procedimento de seleção respeitante ao processo de candidatura em duas fases\n\n1. Com base nas propostas recebidas durante a fase de manifestação de interesse, o organismo de execução afere a elegibilidade de cada projeto proposto, em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE. O organismo de execução seleciona então os projetos elegíveis em conformidade com o procedimento previsto nos n.^os^ 2 e 3 do presente artigo.\n\n2. Com base nas propostas recebidas na fase de manifestação de interesse, o organismo de execução elabora uma lista dos projetos que cumprem os critérios de concessão estabelecidos no artigo 11.º, n.º 1, alíneas a), b) e c), e convida os proponentes desses projetos a apresentarem uma candidatura completa.\n\n3. Com base na candidatura completa recebida em conformidade com o n.º 2, o organismo de execução procede à avaliação e à classificação do projeto fundamentando-se em todos os critérios de concessão estabelecidos no artigo 11.º. As candidaturas são apreciadas por um comité de avaliação, que pode ser total ou parcialmente composto por peritos externos independentes. No final da avaliação, o organismo de execução elabora uma lista de projetos pré-selecionados.\n\n4.\n\nA lista de projetos pré-selecionados referida no n.º 3 é comunicada à Comissão e inclui, pelo menos, os seguintes elementos:\n\na) Uma confirmação do cumprimento dos critérios de elegibilidade e de concessão;\n\nb) Pormenores sobre a avaliação e a classificação dos projetos;\n\nc) Custos totais dos projetos e custos pertinentes referidos no artigo 5.º, em euros;\n\nd) O montante da subvenção solicitada, em euros;\n\ne) A quantidade prevista de emissões de gases com efeito de estufa a evitar.\n\n5. Com base nos elementos comunicados nos termos do n.º 4, a Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, adota a decisão de concessão que especifica o apoio a prestar aos projetos selecionados e, se for caso disso, elabora uma lista de reserva.\n\n6. O organismo de execução apresenta à Comissão as candidaturas que satisfazem os critérios estabelecidos no artigo 11.º, n.º 1, alíneas a) e b), mas que não foram pré-selecionadas. Se os candidatos concordarem, a Comissão pode remeter essas candidaturas para a entidade responsável pela concessão da assistência ao desenvolvimento de projetos em conformidade com o artigo 13.º."
+  },
+  "1e431fc4df5b7ab8": {
+   "fragment_id": "Artigo 12.º-A",
+   "type": "artigo",
+   "heading": "Artigo 12.º-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 12.º-A"
+  },
+  "6192a4092aeb7b66": {
+   "fragment_id": "Procedimento de seleção respeitante ao processo de candidatura numa só fase",
+   "type": "divisao",
+   "heading": "Procedimento de seleção respeitante ao processo de candidatura numa só fase",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "##### Procedimento de seleção respeitante ao processo de candidatura numa só fase\n\n1. Com base nas propostas recebidas, o organismo de execução afere a elegibilidade de cada projeto, em conformidade com o artigo 10.º-A, n.º 8, da Diretiva 2003/87/CE. O organismo de execução procede em seguida à seleção dos projetos elegíveis de acordo com o disposto nos n.^os^ 2 e 3 do presente artigo.\n\n2. Com base nas propostas recebidas, o organismo de execução elabora uma lista dos projetos que cumprem os critérios de concessão estabelecidos no artigo 11.º e procede à avaliação e classificação dos projetos com base nos critérios de concessão estabelecidos nesse artigo. As candidaturas são apreciadas por um comité de avaliação, que pode ser total ou parcialmente composto por peritos externos independentes. No final da avaliação, o organismo de execução elabora uma lista de projetos pré-selecionados.\n\n3. O organismo de execução apresenta à Comissão as candidaturas que satisfazem os critérios estabelecidos no artigo 11.º, n.º 1, alíneas a) e b), mas que não foram pré-selecionadas. Se os candidatos concordarem, a Comissão pode remeter essas candidaturas para a entidade responsável pela concessão da assistência ao desenvolvimento de projetos em conformidade com o artigo 13.º.\n\n4.\n\nA lista de projetos pré-selecionados referida no n.º 2 é comunicada à Comissão e inclui, pelo menos, os seguintes elementos:\n\na) Uma confirmação do cumprimento dos critérios de elegibilidade e de concessão;\n\nb) Pormenores sobre a avaliação e a classificação dos projetos;\n\nc) Custos totais dos projetos e custos pertinentes referidos no artigo 5.º, em euros;\n\nd) O montante da subvenção solicitada, em euros;\n\ne) A quantidade prevista de emissões de gases com efeito de estufa a evitar.\n\n5. Com base nos elementos comunicados nos termos do n.º 4 do presente artigo, a Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, adota a decisão de atribuição que especifica o apoio aos projetos selecionados e, se for caso disso, estabelece uma lista de reserva."
+  },
+  "f10193a6c15e52e6": {
+   "fragment_id": "Capítulo II-A",
+   "type": "divisao",
+   "heading": "Capítulo II-A",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo II-A"
+  },
+  "289ad3cddc07e081": {
+   "fragment_id": "Assistência ao desenvolvimento de projetos",
+   "type": "divisao",
+   "heading": "Assistência ao desenvolvimento de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Assistência ao desenvolvimento de projetos"
+  },
+  "d2cb15a5d019a5bb": {
+   "fragment_id": "Artigo 13.º — Assistência ao desenvolvimento de projetos",
+   "type": "artigo",
+   "heading": "Artigo 13.º — Assistência ao desenvolvimento de projetos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º — Assistência ao desenvolvimento de projetos\n\n1. A Comissão determina, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, alínea c), o montante máximo de apoio do Fundo de Inovação disponível para assistência ao desenvolvimento de projetos.\n\n2. A Comissão pode conceder assistência ao desenvolvimento de projetos sob a forma de assistência técnica a qualquer projeto abrangido pelo âmbito do Fundo de Inovação, como estabelecido no artigo 10.º-A, n.º 8, primeiro e sexto parágrafos, da Diretiva 2003/87/CE.\n\n3.\n\nA assistência ao desenvolvimento de projetos poderá servir para financiar as seguintes atividades:\n\na) Melhoria e desenvolvimento da documentação do projeto ou de componentes da conceção do projeto, a fim de assegurar um nível suficiente de maturidade do projeto;\n\nb) Análise da viabilidade do projeto, incluindo estudos técnicos e económicos;\n\nc) Aconselhamento sobre a estrutura financeira e jurídica do projeto;\n\nd) Reforço das capacidades do proponente do projeto.\n\n4. Se a assistência ao desenvolvimento de projetos for executada em regime de gestão indireta, a entidade de execução realiza o procedimento de seleção e toma a decisão de conceder assistência ao desenvolvimento de projetos, após consulta da Comissão. Os critérios de concessão têm em conta o grau de inovação em comparação com o estado da técnica, o potencial para reduzir significativamente os impactos climáticos e apoiar a aplicação generalizada, a maturidade e o equilíbrio geográfico e setorial em relação à carteira de projetos financiados."
+  },
+  "5d131422fbc24f52": {
+   "fragment_id": "Capítulo II-B",
+   "type": "divisao",
+   "heading": "Capítulo II-B",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo II-B"
+  },
+  "99944529797fb7c4": {
+   "fragment_id": "Disposições específicas aplicáveis aos procedimentos de concurso competitivos",
+   "type": "divisao",
+   "heading": "Disposições específicas aplicáveis aos procedimentos de concurso competitivos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas aplicáveis aos procedimentos de concurso competitivos"
+  },
+  "ea838abcafe11f66": {
+   "fragment_id": "Artigo 13.º-A — Conceção e princípios do procedimento de concurso competitivo",
+   "type": "artigo",
+   "heading": "Artigo 13.º-A — Conceção e princípios do procedimento de concurso competitivo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-A — Conceção e princípios do procedimento de concurso competitivo\n\n1. A Comissão define a conceção do procedimento de concurso competitivo em conformidade com os princípios de abertura, clareza, transparência e não discriminação.\n\n2. Os procedimentos de concurso competitivos são concebidos de modo que minimize o risco de ofertas especulativas.\n\n3. Todos os procedimentos de concurso competitivos têm um orçamento ou um volume máximo que funciona como uma restrição vinculativa. Os procedimentos de concurso competitivos que receberem poucas propostas são adaptados para restabelecer uma concorrência efetiva nos procedimentos de concurso competitivos subsequentes.\n\n4. A conceção do procedimento de concurso competitivo é publicada com antecedência suficiente em relação à publicação do convite à apresentação de propostas, a fim de permitir uma concorrência efetiva."
+  },
+  "4fbc60c231fcd0dc": {
+   "fragment_id": "Artigo 13.º-B — Convites à apresentação de propostas",
+   "type": "artigo",
+   "heading": "Artigo 13.º-B — Convites à apresentação de propostas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-B — Convites à apresentação de propostas\n\n1. Os proponentes de projetos são convidados a candidatar-se a um procedimento de concurso competitivo através de convites públicos à apresentação de propostas lançados pela Comissão.\n\n2. Antes de adotar uma decisão de lançamento de um convite à apresentação de propostas, a Comissão consulta os Estados-Membros sobre o projeto de decisão.\n\n3.\n\nA decisão da Comissão relativa ao lançamento dos convites à apresentação de propostas indica claramente os seguintes elementos:\n\na) Os objetivos estratégicos visados pelo convite;\n\nb) A definição precisa e os requisitos do produto com emissões baixas ou nulas de carbono ao qual pode ser concedido apoio;\n\nc) O orçamento disponibilizado pelo Fundo de Inovação;\n\nd) Se é aplicável um preço máximo ou um volume máximo por oferta;\n\ne) Se serão aplicadas restrições à cumulação ou combinação do apoio concedido com base num procedimento de concurso competitivo com medidas de apoio da UE ou nacionais;\n\nf) Se serão aplicados outros critérios, para lá do preço da oferta, a fim de classificar as propostas;\n\ng) A duração máxima do apoio concedido com base no procedimento de concurso competitivo;\n\nh) Uma descrição dos processos de candidatura e de seleção."
+  },
+  "586d277d55f56a3c": {
+   "fragment_id": "Artigo 13.º-C — Requisitos de qualificação",
+   "type": "artigo",
+   "heading": "Artigo 13.º-C — Requisitos de qualificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-C — Requisitos de qualificação\n\n1. Apenas as propostas que satisfazem os requisitos de qualificação são consideradas para efeitos do procedimento de classificação previsto no artigo 13.º-D.\n\n2. Os requisitos de qualificação devem ter por objetivo assegurar que os proponentes de projetos que participam no procedimento de concurso competitivo podem concluir o projeto proposto em conformidade com a conceção do procedimento de concurso competitivo, com os termos do convite à apresentação de propostas e com os objetivos previstos no artigo 3.º, bem como com a legislação da UE.\n\n3. Os requisitos de qualificação devem limitar-se ao necessário para alcançar os objetivos do procedimento de concurso competitivo e assegurar o mais elevado grau de concorrência e qualidade das propostas apresentadas.\n\n4. Os requisitos de qualificação podem ser critérios de elegibilidade, seleção e adjudicação na aceção do Regulamento Financeiro."
+  },
+  "621f96d09bb60f74": {
+   "fragment_id": "Artigo 13.º-D — Procedimento de classificação",
+   "type": "artigo",
+   "heading": "Artigo 13.º-D — Procedimento de classificação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-D — Procedimento de classificação\n\n1. As propostas que satisfazem os requisitos de qualificação são classificadas segundo a ordem ascendente do preço proposto, salvo se forem aplicados critérios adicionais nos termos do n.º 2.\n\n2. A Comissão pode decidir, em casos excecionais, aplicar critérios adicionais para classificar as propostas, desde que o preço da oferta, colocado em relação direta com o produto ou objetivo que constitui o objeto do procedimento de concurso competitivo, represente, pelo menos, 70 % da ponderação dos critérios de classificação. A aplicação de critérios adicionais deve ser claramente prevista no convite à apresentação de propostas e justificada pela natureza do produto objeto de leilão, bem como pelos objetivos do convite.\n\n3.\n\nO organismo de execução elabora a lista de propostas pré-selecionadas e comunica-a à Comissão. Esta lista inclui:\n\na) Uma confirmação do cumprimento dos requisitos de qualificação;\n\nb) Pormenores sobre a classificação;\n\nc) O montante de apoio solicitado;\n\nd) O volume previsto do produto objeto de leilão.\n\n4. A pedido da Comissão, o organismo de execução comunica igualmente a classificação das propostas que satisfazem os requisitos de qualificação, mas cujo preço é superior ao preço de equilíbrio.\n\n5. Com base nos elementos comunicados nos termos do n.º 3, a Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, adota a decisão de concessão que especifica o apoio a prestar às propostas selecionadas e, se for caso disso, elabora uma lista de reserva."
+  },
+  "4309ae0a3cea017e": {
+   "fragment_id": "Artigo 13.º-E — Cumulação",
+   "type": "artigo",
+   "heading": "Artigo 13.º-E — Cumulação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-E — Cumulação\n\n1. A Comissão pode decidir restringir, relativamente a cada procedimento de concurso competitivo, a possibilidade do proponente de um projeto cumular o apoio concedido com base num procedimento de concurso competitivo com financiamento da UE ou apoio público nacional.\n\n2. As restrições adotadas nos termos do n.º 1 devem limitar-se ao necessário para assegurar condições de concorrência equitativas e alcançar os objetivos do procedimento de concurso competitivo.\n\n3. O âmbito e a fundamentação das restrições a que se refere o n.º 1 devem ser claramente definidos no projeto de decisão apresentado aos Estados-Membros nos termos do artigo 13.º-B, n.º 2, bem como na publicação dos elementos de conceção do procedimento de concurso competitivo a que se refere o artigo 13.º-A, n.º 4."
+  },
+  "cfd0bf8225765a00": {
+   "fragment_id": "Artigo 13.º-F — Depósitos",
+   "type": "artigo",
+   "heading": "Artigo 13.º-F — Depósitos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-F — Depósitos\n\n1. A Comissão pode solicitar depósitos, em conformidade com o artigo 10.º-A, n.º 8-A, da Diretiva 2003/87/CE, sob a forma de garantia financeira, a fim de atenuar o risco de ofertas especulativas ou de incentivar os proponentes de projetos a realizarem o projeto proposto dentro do prazo e em conformidade com a proposta.\n\n2. Os depósitos retidos revertem para o Fundo de Inovação como receitas afetadas externas, nos termos do artigo 21.º, n.º 5, do Regulamento Financeiro."
+  },
+  "177690fcb492dd2c": {
+   "fragment_id": "Capítulo II-C",
+   "type": "divisao",
+   "heading": "Capítulo II-C",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Capítulo II-C"
+  },
+  "57ae999c0a0d7331": {
+   "fragment_id": "Disposições específicas aplicáveis à assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva",
+   "type": "divisao",
+   "heading": "Disposições específicas aplicáveis à assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas aplicáveis à assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva"
+  },
+  "4abffa1d87fbfa3a": {
+   "fragment_id": "Artigo 13.º-G — Assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva",
+   "type": "artigo",
+   "heading": "Artigo 13.º-G — Assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 13.º-G — Assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva\n\n1. Os Estados-Membros com o mais baixo rácio entre o apoio do Fundo de Inovação recebido por projetos no seu território e a sua quota de emissões verificadas no âmbito do CELE em 2013-2020 podem ser elegíveis para beneficiar de assistência técnica prestada pela Comissão nos termos do artigo 10.º-A, n.º 8, décimo quarto parágrafo, da Diretiva 2003/87/CE.\n\n2. Cabe à Comissão, após consulta dos Estados-Membros em conformidade com o artigo 21.º, n.º 2, alínea d), determinar o montante máximo do apoio do Fundo de Inovação disponível para assistência técnica, bem como a lista dos Estados-Membros elegíveis para beneficiar da mesma. Posteriormente, a lista dos Estados-Membros elegíveis é atualizada, pelo menos, uma vez de dois em dois anos."
+  },
+  "bf6a74a21b5af345": {
+   "fragment_id": "Disposições específicas aplicáveis a outras formas de apoio do Fundo de Inovação",
+   "type": "divisao",
+   "heading": "Disposições específicas aplicáveis a outras formas de apoio do Fundo de Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Disposições específicas aplicáveis a outras formas de apoio do Fundo de Inovação"
+  },
+  "b702ca67eb743546": {
+   "fragment_id": "Artigo 18.º — Funções do organismo de execução",
+   "type": "artigo",
+   "heading": "Artigo 18.º — Funções do organismo de execução",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 18.º — Funções do organismo de execução\n\n[**►M2**](http://publications.europa.eu/resource/celex/32023R2537) O organismo de execução designado nos termos do artigo 17.º, n.º 1, do presente regulamento para executar o Fundo de Inovação em conformidade com o artigo 17.º, n.º 2, pode ser incumbido da gestão global dos convites à apresentação de propostas, do desembolso do apoio do Fundo de Inovação e do acompanhamento da execução dos projetos selecionados.**◄** Para o efeito, podem ser confiadas ao organismo de execução as seguintes tarefas:\n\na) Organização do convite à apresentação de propostas;\n\nb) Organização do processo de candidatura, incluindo a recolha das candidaturas e a análise de todos os documentos comprovativos;\n\nc) Organização do processo de seleção, incluindo a avaliação e a classificação das propostas;\n\nd) Aconselhamento da Comissão sobre os projetos que deverão receber apoio do Fundo de Inovação e sobre os projetos a incluir na lista de reserva;\n\ne) Atribuição ou prestação de assistência ao desenvolvimento de projetos;\n\nf) Assinatura das convenções de subvenção e outros contratos, consoante a forma de apoio do Fundo de Inovação;\n\ng) Preparação e gestão da documentação contratual relativa aos projetos selecionados;\n\nh) Verificação do cumprimento das condições para o financiamento e desembolso das receitas do Fundo de Inovação aos proponentes dos projetos;\n\ni) Acompanhamento da execução do projeto;\n\nj) Comunicação com os proponentes dos projetos;\n\nk) Apresentação de relatórios à Comissão, incluindo sobre orientações gerais para o futuro desenvolvimento do Fundo de Inovação;\n\nl) Apresentação de relatórios financeiros;\n\nm) Ações de informação, comunicação e promoção, incluindo a criação de materiais de promoção;\n\nn) Gestão da partilha de conhecimentos;\n\no) Apoio aos Estados-Membros nos seus esforços para promover o Fundo de Inovação e comunicar com os proponentes dos projetos;\n\no-A) Promover sinergias entre o Fundo de Inovação e outros programas de financiamento da UE (incluindo o Horizonte Europa);\n\np) Quaisquer outras tarefas relacionadas com a execução do Fundo de Inovação.\n\nApós o encerramento de cada convite à apresentação de propostas organizado nos termos dos artigos 9.º e 10.º, o organismo de execução partilha com os Estados-Membros informações sobre os candidatos, os projetos, os dados de contacto, o montante das subvenções solicitadas, o potencial de prevenção de emissões de gases com efeito de estufa e as datas previstas de encerramento financeiro e de entrada em funcionamento.\n\nApós o encerramento de cada convite à apresentação de propostas organizado nos termos do artigo 13.º-B, o organismo de execução partilha com os Estados-Membros informações sobre os proponentes dos projetos, os projetos, os dados de contacto, o montante de apoio do Fundo de Inovação solicitado e, se for caso disso, as datas previstas de encerramento financeiro e de entrada em funcionamento.\n\nA partilha de informações a que se referem os segundo e terceiro parágrafos está sujeita ao consentimento dos proponentes do projeto e ao disposto na legislação da UE."
+  },
+  "a6c7055e906dafdc": {
+   "fragment_id": "Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+   "type": "artigo",
+   "heading": "Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta\n\n1. Se a Comissão designar uma agência de execução como organismo de execução nos termos do artigo 17.º, n.º 1, do presente regulamento, essa decisão da Comissão fica sujeita ao resultado da análise de custos/benefícios referida no artigo 3.º do Regulamento (CE) n.º 58/2003 do Conselho ([^2^](http://publications.europa.eu/resource/cellar/27f6a9fd-990f-11ee-b164-01aa75ed71a1.0019.02/DOC_1#E0002)), e o acordo referido no artigo 17.º, n.º 1, segundo parágrafo, do presente regulamento assume a forma de um ato de delegação em conformidade com o Regulamento (CE) n.º 58/2003.\n\n2. Em caso de recuperação, nos termos dos artigos 7.º e 8.º do presente regulamento, de montantes desembolsados, os montantes recuperados constituem receitas afetadas externas nos termos do artigo 21.º do Regulamento Financeiro e são utilizados para financiar as operações do Fundo de Inovação.\n\n3. No que diz respeito a todas as tarefas de execução realizadas pela Comissão, incluindo por intermédio de uma agência de execução, as receitas do Fundo de Inovação constituem receitas afetadas externas na aceção do artigo 21.º, n.^os^ 1 e 5, do Regulamento Financeiro. As receitas do Fundo de Inovação cobrem todos os custos administrativos e de gestão relacionados com a sua execução. A Comissão pode utilizar, no máximo, 5 % da dotação do Fundo de Inovação para cobrir as suas despesas de gestão.\n\n4. Um projeto que tenha beneficiado do apoio do Fundo de Inovação pode beneficiar igualmente de uma contribuição de qualquer outro programa da UE, incluindo fundos em regime de gestão partilhada, desde que tais contribuições não cubram os mesmos custos e que não tenham sido introduzidas restrições em conformidade com o artigo 13.-E, n.º 1. O financiamento cumulativo não pode exceder o montante total dos custos elegíveis do projeto e o apoio a título dos diferentes programas da UE pode ser calculado numa base *pro rata*."
+  },
+  "e3f11a1968ba033b": {
+   "fragment_id": "Artigo 20.º — Gestão das receitas do Fundo de Inovação",
+   "type": "artigo",
+   "heading": "Artigo 20.º — Gestão das receitas do Fundo de Inovação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 20.º — Gestão das receitas do Fundo de Inovação\n\n1. A Comissão assegura que as licenças de emissão reservadas para o Fundo de Inovação são leiloadas em conformidade com os princípios e as modalidades estabelecidas no artigo 10.º, n.º 4, da Diretiva 2003/87/CE e gere as receitas do Fundo de Inovação em consonância com os objetivos da Diretiva 2003/87/CE.\n\n2. A Comissão zela por que as receitas referidas no n.º 1 sejam transferidas para o organismo de execução, em tempo útil, para financiar os custos relacionados com as atividades de execução e o desembolso aos projetos selecionados.\n\n3. A Comissão pode delegar no Banco Europeu de Investimento (BEI) a monetização das licenças de emissão e a gestão das receitas do Fundo de Inovação. Caso se verifique essa delegação, a Comissão e o BEI celebram um acordo que estabelece as modalidades e condições específicas em que o BEI deve desempenhar as suas funções relacionadas com a gestão das receitas do Fundo de Inovação.\n\n4. Sem prejuízo do disposto na Diretiva 2003/87/CE, as receitas do Fundo de Inovação remanescentes no final do período de elegibilidade dos projetos apoiados são utilizadas para apoiar novos projetos que cumpram os critérios de elegibilidade estabelecidos no artigo 10.º-A, n.º 8, dessa diretiva, até que todas as receitas tenham sido utilizadas para a concretização dos objetivos do Fundo de Inovação."
+  },
+  "4105a2a0b675f37c": {
+   "fragment_id": "Artigo 21.º — Papel dos Estados-Membros",
+   "type": "artigo",
+   "heading": "Artigo 21.º — Papel dos Estados-Membros",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 21.º — Papel dos Estados-Membros\n\n1. No quadro da execução do Fundo de Inovação, a Comissão consulta os Estados-Membros e estes prestam-lhe assistência.\n\n2.\n\nOs Estados-Membros são consultados sobre:\n\na) A lista de propostas pré-selecionadas, incluindo a lista de reserva, estabelecida em conformidade com os artigos 12.º, 12.º-A e 13.º-D;\n\nb) Os projetos de decisões da Comissão a que se referem o artigo 9.º, n.º 1, o artigo 13.º-B, o artigo 14.º, n.º 2, e o artigo 15.º, n.º 1;\n\nc) O montante máximo de apoio do Fundo de Inovação a disponibilizar para assistência ao desenvolvimento de projetos em conformidade com o artigo 13.º;\n\nd) O montante máximo de apoio do Fundo de Inovação a disponibilizar para assistência técnica e a lista de Estados-Membros com um baixo nível de participação efetiva, em conformidade com o artigo 13.º-G.\n\n3.\n\nA pedido da Comissão, os Estados-Membros prestam-lhe aconselhamento e assistência:\n\na) Na definição de orientações gerais para o Fundo de Inovação;\n\nb) Na resolução de problemas novos ou existentes relacionados com a execução dos projetos;\n\nc) No tratamento de qualquer outra questão relacionada com a execução dos projetos.\n\n4. A Comissão apresenta aos Estados-Membros um relatório sobre os progressos realizados na execução do presente regulamento, nomeadamente sobre a execução das decisões de atribuição a que se referem o artigo 12.º, n.º 5, e o artigo 12.º-A, n.º 5."
+  },
+  "861f924d934700bc": {
+   "fragment_id": "Artigo 23.º — Acompanhamento e prestação de informações",
+   "type": "artigo",
+   "heading": "Artigo 23.º — Acompanhamento e prestação de informações",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 23.º — Acompanhamento e prestação de informações\n\n1. O organismo de execução acompanha o funcionamento do Fundo de Inovação, incluindo os montantes de apoio do Fundo de Inovação desembolsados.\n\n2. A fim de assegurar uma recolha eficiente, eficaz e atempada dos dados necessários ao acompanhamento referido no n.º 1 e dos resultados, os proponentes dos projetos poderão ser sujeitos a obrigações de prestação de informações proporcionadas. Os relatórios dos proponentes dos projetos devem incluir informações sobre as ações de partilha de conhecimentos realizadas em conformidade com o artigo 27.º.\n\n3. O organismo de execução informa regularmente a Comissão sobre o desempenho das suas funções.\n\n4. O organismo de execução presta informações à Comissão sobre o ciclo completo de desembolso do apoio e, em especial, sobre a organização dos convites à apresentação de propostas e a assinatura de contratos com os proponentes dos projetos.\n\n7.\n\nOs organismos de execução que não sejam agências de execução e as entidades nas quais tenha sido delegada a gestão das receitas do Fundo de Inovação, de acordo com o artigo 20.º, n.º 3, fornecem à Comissão os seguintes elementos:\n\na) Até 15 de fevereiro, as demonstrações financeiras não auditadas relativas ao exercício anterior, com início em 1 de janeiro e termo em 31 de dezembro, no respeitante às atividades delegadas nesses organismos de execução e nessas entidades;\n\nb) Até 15 de março do ano de apresentação das demonstrações financeiras não auditadas, as demonstrações financeiras auditadas relativas ao exercício anterior, com início em 1 de janeiro e termo em 31 de dezembro, no que diz respeito às atividades delegadas nesses organismos de execução e nessas entidades.\n\nA Comissão elabora as contas anuais do Fundo de Inovação relativas a cada exercício, com início em 1 de janeiro e termo em 31 de dezembro, com base nas demonstrações financeiras apresentadas nos termos do primeiro parágrafo. Essas contas são objeto de uma auditoria externa independente.\n\nAs demonstrações financeiras e as contas apresentadas nos termos do presente número são elaboradas em conformidade com as regras contabilísticas referidas no artigo 80.º do Regulamento Financeiro."
+  },
+  "1811493b191d82ab": {
+   "fragment_id": "Artigo 24.º — Avaliação",
+   "type": "artigo",
+   "heading": "Artigo 24.º — Avaliação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 24.º — Avaliação\n\n1. Em 2025 e, posteriormente, de cinco em cinco anos, a Comissão realiza uma avaliação do funcionamento do Fundo de Inovação. A avaliação incide, entre outros, na apreciação das sinergias entre o Fundo de Inovação e outros programas pertinentes da UE, nomeadamente o Programa-Quadro de Investigação e Inovação da UE (incluindo o Horizonte Europa e o Horizonte 2020), bem como no procedimento de desembolso do apoio do Fundo de Inovação.\n\n2. Com base nos resultados das avaliações referidas no n.º 1 do presente artigo, a Comissão apresenta, se for caso disso, propostas para assegurar que o Fundo de Inovação progrida no sentido da consecução dos seus objetivos previstos na Diretiva 2003/87/CE e no artigo 3.º do presente regulamento.\n\n3. Uma vez concluída a execução do Fundo de Inovação, o mais tardar em 2035, a Comissão realiza uma avaliação final do funcionamento do Fundo de Inovação.\n\n4. A Comissão divulga publicamente os resultados das avaliações realizadas nos termos dos n.^os^ 1, 2 e 3."
+  },
+  "983ac4420a9dbe74": {
+   "fragment_id": "Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+   "type": "artigo",
+   "heading": "Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade\n\n1. Os proponentes dos projetos promovem de forma proativa e sistemática os projetos apoiados ao abrigo do presente regulamento, bem como os respetivos resultados e impactos, disponibilizando ao público informações pertinentes através de todos os canais de comunicação disponíveis, incluindo os seus sítios Web e contas nas redes sociais. Essas informações devem incluir uma referência explícita ao apoio recebido do Fundo de Inovação. Os proponentes dos projetos designam um ponto focal responsável pela comunicação do projeto e informam o organismo de execução com bastante antecedência antes de participarem em atividades específicas de comunicação ou divulgação do projeto com um impacto potencialmente significativo nos meios de comunicação social.\n\n2. Os proponentes dos projetos asseguram a prestação de informações coerentes, eficazes e específicas sobre o apoio que receberam do Fundo de Inovação, adequadas a vários tipos de destinatários, incluindo os meios de comunicação social e o público em geral.\n\n3. A menção «(co)financiado pelo Sistema de Comércio de Licenças de Emissão da UE (Fundo de Inovação)», o emblema da União e outros elementos promocionais obrigatórios devem ser utilizados em todas as atividades de comunicação e partilha de conhecimentos e figurar em painéis informativos colocados em locais estratégicos visíveis para o público, em conformidade com os requisitos contratuais associados ao apoio do Fundo de Inovação.\n\n4. Os proponentes dos projetos apresentam informações pormenorizadas sobre as ações previstas, em conformidade com os n.^os^ 1 e 2, nos seus planos de partilha de conhecimentos, comunicação e divulgação. Os proponentes dos projetos devem acompanhar e, se for caso disso, rever regularmente a aplicação desses planos.\n\n5. O organismo de execução realiza ações de informação, comunicação e promoção relacionadas com o apoio e os resultados do Fundo de Inovação. O organismo de execução organiza seminários específicos, sessões de trabalho ou, se for caso disso, outros tipos de atividades destinadas a facilitar o intercâmbio de experiências, conhecimentos e melhores práticas no que respeita à conceção, preparação e execução de projetos, bem como à eficácia do financiamento concedido sob a forma de assistência ao desenvolvimento de projetos."
+  },
+  "8f7eea519f321ab2": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/27f6a9fd-990f-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento (UE, Euratom) 2018/1046 do Parlamento Europeu e do Conselho, de 18 de julho de 2018, relativo às disposições financeiras aplicáveis ao orçamento geral da União, que altera os Regulamentos (UE) n.º 1296/2013, (UE) n.º 1301/2013, (UE) n.º 1303/2013, (UE) n.º 1304/2013, (UE) n.º 1309/2013, (UE) n.º 1316/2013, (UE) n.º 223/2014 e (UE) n.º 283/2014, e a Decisão n.º 541/2014/UE, e revoga o Regulamento (UE, Euratom) n.º 966/2012 (JO L 193 de 30.7.2018, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/27f6a9fd-990f-11ee-b164-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento (CE) n.º 58/2003 do Conselho, de 19 de dezembro de 2002, que define o estatuto das agências de execução encarregadas de determinadas funções de gestão de programas comunitários (JO L 11 de 16.1.2003, p. 1)."
+  }
+ }
+}

@@ -35,6 +35,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-06-24'
+version_history:
+  file: regulamento-ue-2019-945.versoes.json
+  count: 3
+  source_lastmod: '2025-06-24'
+  versions:
+  - date: '2020-08-09'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-05-01'
+    amending: eu:celex:32024R1108:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1108 DA COMISSÃO de 13 de março de 2024
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 17.º — Documentação técnica
+    - Altera Artigo 35.º — Fiscalização do mercado e controlo dos produtos que entram no mercado da União
+    - Altera Artigo 40.º
+    - Altera Requisitos para um sistema de aeronave não tripulada da classe C1
+    - Altera Requisitos para um sistema de aeronave não tripulada da classe C2
+    - Altera Requisitos para um sistema de aeronave não tripulada da classe C3
+    - Altera Exame UE de tipo
+    - Altera Notas
+  - date: '2025-06-24'
+    amending: eu:celex:32025R1130:por
+    amending_title: M4
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 35.º — Fiscalização do mercado e controlo dos produtos que entram no mercado da União
+    - Altera Artigo 40.º
+    - Altera Notas
 identifiers:
   celex: 32019R0945
   eli: http://data.europa.eu/eli/reg_del/2019/945/oj
@@ -49,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b686e4e7-8c1b-11e9-9369-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/97fd9b52-9372-11f0-97c8-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0945-20250624
-  retrieved_at: '2026-10-22T03:01:13Z'
+  retrieved_at: '2026-10-22T17:08:57Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T22:27:42.576+01:00'
 integrity:
@@ -58,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:13Z'
-  notes: Texto consolidado 02019R0945-20250624.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:57Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-945.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -207,37 +237,20 @@ relationships:
   date: '2026-01-12'
 article_structure:
   article_count: 42
-  section_count: 64
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 65
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:13Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:57Z'
+  warnings:
+  - '02019R0945-20190611: versão indisponível (Sem expressão na língua por para CELEX 02019R0945-20190611.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2019/945 da Comissão, de 12 de março de 2019
-
-> 02019R0945 — PT — 24.06.2025 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R1058) — [REGULAMENTO DELEGADO (UE) 2020/1058 DA COMISSÃO de 27 de abril de 2020](http://publications.europa.eu/resource/celex/32020R1058) — L 232 — 1 — 20.7.2020
-- [M2](http://publications.europa.eu/resource/celex/32022R0851) — [REGULAMENTO DELEGADO (UE) 2022/851 DA COMISSÃO de 22 de março de 2022](http://publications.europa.eu/resource/celex/32022R0851) — L 150 — 21 — 1.6.2022
-- [►M3](http://publications.europa.eu/resource/celex/32024R1108) — [REGULAMENTO DELEGADO (UE) 2024/1108 DA COMISSÃO de 13 de março de 2024](http://publications.europa.eu/resource/celex/32024R1108) — L 1108 — 1 — 23.5.2024
-- [M4](http://publications.europa.eu/resource/celex/32025R1130) — [REGULAMENTO DELEGADO (UE) 2025/1130 DA COMISSÃO de 18 de março de 2025](http://publications.europa.eu/resource/celex/32025R1130) — L 1130 — 1 — 4.6.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0945R%2804%29) — [Rectificação, JO L 002, 6.1.2022, p. 10 (2019/945)](http://publications.europa.eu/resource/celex/32019R0945R%2804%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020R1058R%2802%29) — [Rectificação, JO L 002, 6.1.2022, p. 22 (2020/1058)](http://publications.europa.eu/resource/celex/32020R1058R%2802%29)
-
-## REGULAMENTO DELEGADO (UE) 2019/945 DA COMISSÃO
 
 de 12 de março de 2019
 

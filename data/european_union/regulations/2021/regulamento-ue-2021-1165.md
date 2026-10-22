@@ -39,6 +39,121 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-01'
+version_history:
+  file: regulamento-ue-2021-1165.versoes.json
+  count: 4
+  source_lastmod: '2026-01-01'
+  versions:
+  - date: '2023-02-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2023-11-15'
+    amending: eu:celex:32023R2229:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2229 DA COMISSÃO de 25 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Substâncias ativas utilizáveis em produtos fitofarmacêuticos
+    - Altera Artigo 2.º — Fertilizantes, corretivos do solo e nutrientes
+    - Altera Artigo 3.º — Matérias-primas não biológicas para alimentação animal, de origem vegetal ou animal ou provenientes
+      de algas ou de leveduras, ou matérias-primas para alimentação animal de origem microbiana ou mineral
+    - Altera Artigo 4.º — Aditivos para alimentação animal e auxiliares tecnológicos
+    - Altera Artigo 6.º — Aditivos alimentares e auxiliares tecnológicos
+    - Altera Artigo 9.º — Produtos e substâncias destinados a ser utilizados na produção biológica de vinho
+    - Altera Artigo 10.º — Procedimento de concessão de autorizações específicas para utilização de produtos e substâncias
+      em determinadas zonas de países terceiros
+    - Altera Artigo 12.º — Disposições transitórias
+    - Altera Artigo 13.º — Entrada em vigor e aplicação
+    - Altera Substâncias ativas presentes em produtos fitofarmacêuticos cuja utilização na produção biológica é autorizada
+      referidas no artigo 24.º, n.º 1, alínea a), do Regulamento (UE) 2018/848
+    - Altera 1. Substâncias de base
+    - Altera 2. Substâncias ativas de baixo risco
+    - Altera 4. Substâncias ativas não integradas nas categorias acima
+    - Altera Fertilizantes, corretivos do solo e nutrientes autorizados referidos no artigo 24.º, n.º 1, alínea b), do Regulamento
+      (UE) 2018/848
+    - Altera 1) MATÉRIAS-PRIMAS DE ORIGEM MINERAL PARA ALIMENTAÇÃO ANIMAL
+    - Altera 2) OUTRAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL
+    - Altera 3) ADITIVOS NUTRICIONAIS
+    - Altera SECÇÃO A1 – ADITIVOS ALIMENTARES, INCLUINDO AGENTES DE TRANSPORTE
+    - Altera SECÇÃO A2 – AUXILIARES TECNOLÓGICOS E OUTROS PRODUTOS QUE PODEM SER UTILIZADOS NA TRANSFORMAÇÃO DE INGREDIENTES
+      DE ORIGEM AGRÍCOLA DE PRODUÇÃO BIOLÓGICA
+    - Altera Notas
+  - date: '2025-06-15'
+    amending: eu:celex:32025R0973:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/973 DA COMISSÃO de 23 de maio de 2025
+    changes:
+    - Altera Artigo 1.º — Substâncias ativas utilizáveis em produtos fitofarmacêuticos
+    - Altera Artigo 2.º — Fertilizantes, corretivos do solo e nutrientes
+    - Altera Artigo 3.º — Matérias-primas não biológicas para alimentação animal, de origem vegetal ou animal ou provenientes
+      de algas ou de leveduras, ou matérias-primas para alimentação animal de origem microbiana ou mineral
+    - Altera Artigo 4.º — Aditivos para alimentação animal e auxiliares tecnológicos
+    - Altera Artigo 6.º — Aditivos alimentares e auxiliares tecnológicos
+    - Altera Artigo 9.º — Produtos e substâncias destinados a ser utilizados na produção biológica de vinho
+    - Altera Artigo 10.º — Procedimento de concessão de autorizações específicas para utilização de produtos e substâncias
+      em determinadas zonas de países terceiros
+    - Altera Substâncias ativas presentes em produtos fitofarmacêuticos cuja utilização na produção biológica é autorizada
+      referidas no artigo 24.º, n.º 1, alínea a), do Regulamento (UE) 2018/848
+    - Altera 1. Substâncias de base
+    - Altera 2. Substâncias ativas de baixo risco
+    - Altera 4. Substâncias ativas não integradas nas categorias acima
+    - Altera Fertilizantes, corretivos do solo e nutrientes autorizados referidos no artigo 24.º, n.º 1, alínea b), do Regulamento
+      (UE) 2018/848
+    - Altera 1) MATÉRIAS-PRIMAS DE ORIGEM MINERAL PARA ALIMENTAÇÃO ANIMAL
+    - Altera 2) OUTRAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL
+    - Altera 1) ADITIVOS TECNOLÓGICOS
+    - Altera 3) ADITIVOS NUTRICIONAIS
+    - Altera 4) ADITIVOS ZOOTÉCNICOS
+    - Altera Auxiliares tecnológicos e outros produtos autorizados na produção de leveduras e de produtos à base de leveduras
+      a que se refere o artigo 24.º, n.º 2, alínea c), do Regulamento (UE) 2018/848
+    - Altera Produtos e substâncias autorizados na produção e conservação de produtos biológicos do setor vitivinícola a que
+      se refere o anexo II, parte VI, ponto 2.2, do Regulamento (UE) 2018/848
+    - Altera ANEXO VI
+    - Altera Notas
+    - Adita Artigo 10.º-A — Procedimento de concessão de autorizações específicas para utilização de produtos e substâncias
+      nas regiões ultraperiféricas da União
+    - Adita 5) AUXILIARES TECNOLÓGICOS
+    - Adita Aditivos alimentares e auxiliares tecnológicos autorizados a que se refere o artigo 24.º, n.º 2, alínea a), do
+      Regulamento (UE) 2018/848, incluindo agentes de transporte e outras substâncias utilizadas da mesma forma e com o mesmo
+      objetivo que os auxiliares tecnológicos
+    - Adita Produtos e substâncias cuja utilização é autorizada na produção biológica em países terceiros e nas regiões ultraperiféricas
+      da União, nos termos do artigo 45.º, n.º 2, do Regulamento (UE) 2018/848
+    - Adita Produtos e substâncias autorizados para utilização na produção biológica em países terceiros
+    - Adita Substâncias ativas utilizáveis em produtos fitofarmacêuticos
+    - Adita Produtos e substâncias autorizados para utilização na produção biológica nas regiões ultraperiféricas da União
+    - Suprime Aditivos alimentares e auxiliares tecnológicos autorizados a que se refere o artigo 24.º, n.º 2, alínea a),
+      do Regulamento (UE) 2018/848
+    - Suprime SECÇÃO A1 – ADITIVOS ALIMENTARES, INCLUINDO AGENTES DE TRANSPORTE
+    - Suprime SECÇÃO A2 – AUXILIARES TECNOLÓGICOS E OUTROS PRODUTOS QUE PODEM SER UTILIZADOS NA TRANSFORMAÇÃO DE INGREDIENTES
+      DE ORIGEM AGRÍCOLA DE PRODUÇÃO BIOLÓGICA
+  - date: '2026-01-01'
+    amending: eu:celex:32025R2501:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2501 DA COMISSÃO de 11 de dezembro de 2025
+    changes:
+    - Altera Artigo 1.º — Substâncias ativas utilizáveis em produtos fitofarmacêuticos
+    - Altera Artigo 2.º — Fertilizantes, corretivos do solo e nutrientes
+    - Altera Artigo 3.º — Matérias-primas não biológicas para alimentação animal, de origem vegetal ou animal ou provenientes
+      de algas ou de leveduras, ou matérias-primas para alimentação animal de origem microbiana ou mineral
+    - Altera Artigo 4.º — Aditivos para alimentação animal e auxiliares tecnológicos
+    - Altera Artigo 6.º — Aditivos alimentares e auxiliares tecnológicos
+    - Altera Artigo 9.º — Produtos e substâncias destinados a ser utilizados na produção biológica de vinho
+    - Altera Artigo 10.º — Procedimento de concessão de autorizações específicas para utilização de produtos e substâncias
+      em determinadas zonas de países terceiros
+    - Altera Artigo 11.º — Revogação
+    - Altera Artigo 12.º — Disposições transitórias
+    - Altera Artigo 13.º — Entrada em vigor e aplicação
+    - Altera Substâncias ativas presentes em produtos fitofarmacêuticos cuja utilização na produção biológica é autorizada
+      referidas no artigo 24.º, n.º 1, alínea a), do Regulamento (UE) 2018/848
+    - Altera 1. Substâncias de base
+    - Altera 2. Substâncias ativas de baixo risco
+    - Altera 4. Substâncias ativas não integradas nas categorias acima
+    - Altera Fertilizantes, corretivos do solo e nutrientes autorizados referidos no artigo 24.º, n.º 1, alínea b), do Regulamento
+      (UE) 2018/848
+    - Altera 1) MATÉRIAS-PRIMAS DE ORIGEM MINERAL PARA ALIMENTAÇÃO ANIMAL
+    - Altera 2) OUTRAS MATÉRIAS-PRIMAS PARA ALIMENTAÇÃO ANIMAL
+    - Altera Aditivos alimentares e auxiliares tecnológicos autorizados a que se refere o artigo 24.º, n.º 2, alínea a), do
+      Regulamento (UE) 2018/848, incluindo agentes de transporte e outras substâncias utilizadas da mesma forma e com o mesmo
+      objetivo que os auxiliares tecnológicos
+    - Altera Substâncias ativas utilizáveis em produtos fitofarmacêuticos
+    - Altera Notas
 identifiers:
   celex: 32021R1165
   eli: http://data.europa.eu/eli/reg_impl/2021/1165/oj
@@ -53,7 +168,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/9ccc3922-e5d0-11eb-a1a5-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5c4ff2fd-e60a-11f0-8d3c-01aa75ed71a1.0020.03/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1165-20260101
-  retrieved_at: '2026-10-22T03:19:54Z'
+  retrieved_at: '2026-10-22T17:14:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T19:18:19.176+01:00'
 integrity:
@@ -62,9 +177,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:54Z'
-  notes: Texto consolidado 02021R1165-20260101.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:14:04Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2021-1165.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -314,36 +429,20 @@ relationships:
   date: '2008-09-22'
 article_structure:
   article_count: 14
-  section_count: 48
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 49
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:54Z'
-  warnings: []
+  checked_at: '2026-10-22T17:14:04Z'
+  warnings:
+  - '02021R1165-20210716: versão indisponível (Sem expressão na língua por para CELEX 02021R1165-20210716.)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2021/1165 da Comissão de 15 de julho de 2021
-
-> 02021R1165 — PT — 01.01.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0121) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/121 DA COMISSÃO de 17 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0121) — L 16 — 24 — 18.1.2023
-- [►M2](http://publications.europa.eu/resource/celex/32023R2229) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2229 DA COMISSÃO de 25 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2229) — L 2229 — 1 — 26.10.2023
-- [►M3](http://publications.europa.eu/resource/celex/32025R0973) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/973 DA COMISSÃO de 23 de maio de 2025](http://publications.europa.eu/resource/celex/32025R0973) — L 973 — 1 — 26.5.2025
-- [►M4](http://publications.europa.eu/resource/celex/32025R2501) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2501 DA COMISSÃO de 11 de dezembro de 2025](http://publications.europa.eu/resource/celex/32025R2501) — L 2501 — 1 — 12.12.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32025R0973R%2801%29) — [Rectificação, JO L 90673, 25.8.2025, p. 1 (2025/9732025/973)](http://publications.europa.eu/resource/celex/32025R0973R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2021/1165 DA COMISSÃO
 
 de 15 de julho de 2021
 

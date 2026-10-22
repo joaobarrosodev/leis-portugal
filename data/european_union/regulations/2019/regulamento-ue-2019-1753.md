@@ -35,6 +35,36 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-12-01'
+version_history:
+  file: regulamento-ue-2019-1753.versoes.json
+  count: 2
+  source_lastmod: '2025-12-01'
+  versions:
+  - date: '2024-05-13'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-12-01'
+    amending: eu:celex:32023R2411:por
+    amending_title: REGULAMENTO (UE) 2023/2411 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Inscrição de indicações geográficas no registo internacional
+    - Altera Artigo 3.º — Cancelamento de uma indicação geográfica que seja originária de um Estado-Membro e esteja inscrita
+      no registo internacional
+    - Altera Artigo 4.º — Publicação das indicações geográficas de países terceiros inscritas no registo internacional
+    - Altera Artigo 5.º — Avaliação das indicações geográficas de países terceiros inscritas no registo internacional
+    - Altera Artigo 6.º — Procedimento de oposição para indicações geográficas de países terceiros inscritas no registo internacional
+    - Altera Artigo 7.º — Decisão de proteção, na União, de indicações geográficas de países terceiros inscritas no registo
+      internacional
+    - Altera Artigo 8.º — Utilização de indicações geográficas
+    - Altera Artigo 9.º — Anulação dos efeitos, na União, de uma indicação geográfica de um país terceiro inscrita no registo
+      internacional
+    - Altera Artigo 10.º — Relação com marcas comerciais
+    - Altera Artigo 11.º — Disposições transitórias para denominações de origem originárias de Estados-Membros já registadas
+      ao abrigo do Acordo de Lisboa
+    - Altera Artigo 15.º — Procedimento de comité
+    - Altera Notas
 identifiers:
   celex: 32019R1753
   eli: http://data.europa.eu/eli/reg/2019/1753/oj
@@ -49,7 +79,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/32697f5a-f672-11e9-8c1f-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/011fe3cb-d512-11f0-8da2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1753-20251201
-  retrieved_at: '2026-10-22T03:01:15Z'
+  retrieved_at: '2026-10-22T17:09:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T15:04:35.332+01:00'
 integrity:
@@ -58,9 +88,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:15Z'
-  notes: Texto consolidado 02019R1753-20251201.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:54Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2019-1753.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -165,30 +195,20 @@ relationships:
   date: '2020-11-19'
 article_structure:
   article_count: 17
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:15Z'
-  warnings: []
+  checked_at: '2026-10-22T17:09:54Z'
+  warnings:
+  - '02019R1753-20191024: versão indisponível (Sem expressão na língua por para CELEX 02019R1753-20191024.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/1753 do Parlamento Europeu e do Conselho, de 23 de outubro de 2019
-
-> 02019R1753 — PT — 01.12.2025 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R2411) — [REGULAMENTO (UE) 2023/2411 DO PARLAMENTO EUROPEU E DO CONSELHO de 18 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2411) — L 2411 — 1 — 27.10.2023
-- [►M2](http://publications.europa.eu/resource/celex/32024R1143) — [REGULAMENTO (UE) 2024/1143 DO PARLAMENTO EUROPEU E DO CONSELHO de 11 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1143) — L 1143 — 1 — 23.4.2024
-
-## REGULAMENTO (UE) 2019/1753 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 23 de outubro de 2019
 

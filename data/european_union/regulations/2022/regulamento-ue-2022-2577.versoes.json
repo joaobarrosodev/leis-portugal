@@ -1,0 +1,233 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32022R2577:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2577-20240701",
+ "dre_path": null,
+ "source_lastmod": "2024-07-01",
+ "versions": [
+  {
+   "date": "2024-01-11",
+   "future": false,
+   "celex": "02022R2577-20240111",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "af8d96d40331fcb9",
+    "0b993f8e3ae28cbd",
+    "eb2ddc420f8ca334",
+    "5a25fdf7dc1c9643",
+    "74c20fd2bde3d58b",
+    "5a7705cef07c0a37",
+    "503db88068ca5c4c",
+    "f1747636ecf1aa4b",
+    "af6183a124b70206",
+    "49221b1a6e17c7fd",
+    "c1e43f803b927e1d",
+    "60fbff0d0430da06",
+    "c612a8be06372fc0"
+   ]
+  },
+  {
+   "date": "2024-07-01",
+   "future": false,
+   "celex": "02022R2577-20240701",
+   "acts": [],
+   "changes": [
+    "Altera Artigo 1.º — Objeto e âmbito de aplicação",
+    "Altera Artigo 2.º — Definições",
+    "Altera Artigo 3.º — Interesse público prevalecente",
+    "Altera Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável",
+    "Altera Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema",
+    "Altera Artigo 10.º — Entrada em vigor e aplicação",
+    "Altera Notas",
+    "Adita Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável ao reequipamento de centrais de produção de eletricidade renovável em zonas específicas de energia renovável ou da rede referidas no artigo 6.º",
+    "Suprime Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável à instalação de equipamentos de energia solar, ao reequipamento de centrais de produção de eletricidade renovável e à implantação de bombas de calor"
+   ],
+   "fragments": [
+    "af8d96d40331fcb9",
+    "c081fe3e5cd46a48",
+    "fbb79683a687cf03",
+    "8ae26b22afa12177",
+    "74c20fd2bde3d58b",
+    "5a7705cef07c0a37",
+    "9f10a40629c1da92",
+    "ef1787040065850c",
+    "af6183a124b70206",
+    "5e9e1d1f6602f830",
+    "c1e43f803b927e1d",
+    "2b7060dabc9952d4",
+    "4fe0a62caf22d02e"
+   ]
+  }
+ ],
+ "fragments": {
+  "af8d96d40331fcb9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 22 de dezembro de 2022\n\nque estabelece um regime para acelerar a implantação das energias renováveis"
+  },
+  "0b993f8e3ae28cbd": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\nO presente regulamento estabelece regras temporárias de emergência para acelerar o procedimento de concessão de licenças aplicável à produção de energia a partir de fontes de energia renováveis, com especial ênfase em tecnologias específicas ou tipos de projetos de energias renováveis capazes de acelerar a curto prazo o ritmo de implantação das energias renováveis na União.\n\nO presente regulamento é aplicável a todos os procedimentos de licenciamento que tenham início durante o seu período de aplicação e não prejudica as disposições nacionais que determinam prazos mais curtos do que os estabelecidos nos artigos 4.º, 5.º e 7.º.\n\nOs Estados-Membros podem também aplicar o presente regulamento aos procedimentos de concessão de licenças em curso que não tenham resultado numa decisão final antes de 30 de dezembro de 2022, desde que tal encurte o procedimento de concessão de licenças e que sejam preservados os direitos legais preexistentes de terceiros."
+  },
+  "eb2ddc420f8ca334": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições estabelecidas no artigo 2.º da Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#E0001)). Além disso, entende-se por:\n\n1) «Procedimento de concessão de licenças», o procedimento:\n\na) Que inclui todas as licenças administrativas pertinentes emitidas para fins de construção, reequipamento e exploração de centrais de produção de energia de fontes renováveis, incluindo bombas de calor, instalações de armazenamento de energia colocalizado e ativos necessários para a sua ligação à rede, incluindo as licenças de ligação à rede e as avaliações de impacto ambiental, sempre que forem necessárias; e\n\nb) Que inclui todas as fases administrativas desde o aviso de receção do pedido completo pela autoridade competente até à notificação da decisão final sobre o resultado do procedimento por parte da autoridade competente;\n\n2) «Equipamento de energia solar», equipamento que converte energia do sol em energia térmica ou elétrica, em especial equipamento solar térmico e equipamento solar fotovoltaico."
+  },
+  "5a25fdf7dc1c9643": {
+   "fragment_id": "Artigo 3.º — Interesse público prevalecente",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Interesse público prevalecente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Interesse público prevalecente\n\n1. No contexto da ponderação dos interesses jurídicos em cada caso concreto, é de presumir que o planeamento, a construção e a exploração de centrais e instalações de produção de energia de fontes renováveis, a sua ligação à rede e a própria rede conexa, bem como os ativos de armazenamento, são de interesse público prevalecente e importantes para a saúde e a segurança públicas para efeitos do artigo 6.º, n.º 4, e do artigo 16.º, n.º 1, alínea c), da Diretiva 92/43/CEE ([^2^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#E0002)), do artigo 4.º, n.º 7, da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#E0003)), e do artigo 9.º, n.º 1, alínea a), da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#E0004)). Os Estados-Membros podem restringir a aplicação destas disposições a algumas partes do seu território, bem como a determinados tipos de tecnologias ou projetos com determinadas características técnicas, em conformidade com as prioridades estabelecidas nos seus planos nacionais integrados em matéria de energia e de clima.\n\n2. Os Estados-Membros asseguram, pelo menos para os projetos reconhecidos como sendo de interesse público prevalecente, que, no âmbito do procedimento de planeamento e concessão de licenças e ao ponderar os interesses jurídicos em cada caso concreto, seja dada prioridade à construção e exploração de centrais e instalações para produção de energia de fontes renováveis e ao desenvolvimento da infraestrutura de rede conexa. No que diz respeito à proteção das espécies, a frase anterior só é aplicável se e na medida em que forem tomadas medidas adequadas de conservação das espécies que contribuam para a manutenção ou o restabelecimento das populações da espécie num estado de conservação favorável e se forem disponibilizados recursos financeiros suficientes, bem como zonas para esse efeito."
+  },
+  "74c20fd2bde3d58b": {
+   "fragment_id": "Artigo 3.º-A — Ausência de soluções alternativas ou satisfatórias",
+   "type": "artigo",
+   "heading": "Artigo 3.º-A — Ausência de soluções alternativas ou satisfatórias",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º-A — Ausência de soluções alternativas ou satisfatórias\n\n1. Ao avaliar se não existem soluções alternativas satisfatórias a um projeto relativo a uma central ou instalação de produção de energia a partir de fontes renováveis e à sua ligação à rede para efeitos do artigo 6.º, n.º 4, e do artigo 16.º, n.º 1, da Diretiva 92/43/CEE, do artigo 4.º, n.º 7, da Diretiva 2000/60/CE e do artigo 9.º, n.º 1, da Diretiva 2009/147/CE, esta condição pode ser considerada preenchida se não existirem soluções alternativas satisfatórias capazes de alcançar o mesmo objetivo do projeto em causa, nomeadamente em termos de desenvolvimento da mesma capacidade de produção de energia a partir de fontes renováveis, recorrendo à mesma tecnologia energética, respeitando o mesmo prazo ou um prazo semelhante e sem implicar custos significativamente mais elevados.\n\n2. Ao avaliar se não existem soluções alternativas satisfatórias a um projeto de infraestruturas de rede necessário para integrar as energias renováveis no sistema elétrico, para efeitos do artigo 6.º, n.º 4, e do artigo 16.º, n.º 1, da Diretiva 92/43/CEE do Conselho, do artigo 4.º, n.º 7, da Diretiva 2000/60/CE e do artigo 9.º, n.º 1, da Diretiva 2009/147/CE, esta condição pode ser considerada preenchida se não existirem soluções alternativas satisfatórias que permitam alcançar o mesmo objetivo do projeto em causa, no mesmo prazo ou num prazo semelhante e sem implicar custos significativamente mais elevados.\n\n3. Na aplicação de medidas de compensação no caso de um projeto relativo a uma central ou instalação de produção de energia de fontes renováveis, ou à infraestrutura de rede conexa que é necessária para integrar as energias renováveis no sistema elétrico, para efeitos do artigo 6.º, n.º 4, da Diretiva 92/43/CEE, os Estados-Membros podem permitir que tais medidas de compensação sejam aplicadas em paralelo com a execução do projeto, a menos que existam provas claras de que um projeto específico afeta de forma irreversível os processos ecológicos essenciais para a manutenção da estrutura e das funções do sítio e compromete a coerência global da rede Natura 2000 antes da introdução de medidas de compensação. Os Estados-Membros podem permitir que essas medidas de compensação sejam adaptadas ao longo do tempo, consoante se preveja que os efeitos negativos significativos surjam a curto, médio ou longo prazo."
+  },
+  "5a7705cef07c0a37": {
+   "fragment_id": "Artigo 4.º — Aceleração do procedimento de concessão de licenças para a instalação de equipamentos de energia solar",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Aceleração do procedimento de concessão de licenças para a instalação de equipamentos de energia solar",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Aceleração do procedimento de concessão de licenças para a instalação de equipamentos de energia solar\n\n1. O procedimento de concessão de licenças para a instalação de equipamentos de energia solar e de ativos de armazenamento de energia colocalizado — incluindo instalações solares integradas em edifícios e equipamentos de energia solar em telhados de edifícios —, em estruturas artificiais existentes ou futuras, excluindo as superfícies de massas de água artificiais, não pode exceder três meses, desde que o objetivo principal dessas estruturas não seja a produção de energia solar. Em derrogação do artigo 4.º, n.º 2, da Diretiva 2011/92/UE, e do anexo II, ponto 3, alíneas a) e b), isoladamente ou em conjugação com o anexo II, ponto 13, alínea a), dessa diretiva, a instalação de tais equipamentos de energia solar fica isenta da obrigação, se aplicável, de determinar a necessidade de submeter o projeto a uma avaliação de impacto ambiental, ou da obrigação de realizar uma avaliação específica do impacto ambiental.\n\n2. Os Estados-Membros podem excluir determinadas zonas ou estruturas do disposto no n.º 1, por razões de proteção do património cultural ou histórico, por razões relacionadas com interesses de defesa nacional ou de segurança.\n\n3. No caso do procedimento de concessão de licença para instalação, por autoconsumidores de energia renovável, de equipamento de energia solar com capacidade igual ou inferior a 50 kW, a falta de resposta por parte das autoridades ou entidades competentes no prazo de um mês a contar da apresentação do pedido dá lugar a que a licença seja considerada concedida, desde que a capacidade do equipamento de energia solar não exceda a capacidade existente de ligação à rede de distribuição.\n\n4. Se a aplicação do limiar de capacidade referido no n.º 3 implicar encargos administrativos significativos ou condicionamentos ao funcionamento da rede elétrica, os Estados-Membros podem aplicar um limiar inferior, desde que se mantenha acima de 10,8 kW.\n\n5. Todas as decisões resultantes dos procedimentos de concessão de licenças referidos no n.º 1 são tornadas públicas em conformidade com as obrigações existentes."
+  },
+  "503db88068ca5c4c": {
+   "fragment_id": "Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável\n\n1. O procedimento de concessão de licenças para o reequipamento de projetos, incluindo as licenças relacionadas com a modernização dos ativos necessários para ligar o projeto à rede nos casos em que o reequipamento dê origem a um aumento da capacidade, não pode exceder seis meses, incluindo-se neste prazo a realização de avaliações de impacto ambiental, sempre que exigidas pela legislação aplicável.\n\n2. Se o reequipamento não der origem a um aumento da capacidade da central de produção de energia renovável superior a 15 %, e sem afetar a necessidade de avaliar quaisquer potenciais impactos ambientais nos termos do n.º 3 do presente artigo, as licenças para as ligações à rede de transporte ou de distribuição são concedidas no prazo de três meses a contar da apresentação do pedido à entidade competente, a menos que haja preocupações de segurança justificadas ou uma incompatibilidade técnica dos componentes do sistema.\n\n3. Se o reequipamento de uma central de produção de energia renovável ou a modernização de uma infraestrutura de rede conexa necessária para integrar a energia renovável no sistema elétrico estiver sujeito à obrigação de determinar a necessidade de submeter o projeto a um processo de avaliação de impacto ambiental ou de realizar uma avaliação de impacto ambiental nos termos do artigo 4.º da Diretiva 2011/92/UE, essa determinação prévia e/ou essa avaliação de impacto ambiental limita-se aos potenciais impactos significativos resultantes da mudança ou da expansão relativamente ao projeto original.\n\n4. Se o reequipamento de instalações solares não implicar a utilização de espaço adicional e cumprir as medidas de mitigação ambiental aplicáveis estabelecidas para a instalação original, o projeto fica isento da obrigação, se aplicável, de determinar a necessidade de ser submetido a uma avaliação de impacto ambiental nos termos do artigo 4.º da Diretiva 2011/92/UE.\n\n5. Todas as decisões resultantes dos procedimentos de concessão de licenças referidos nos n.^os^ 1 e 2 são tornadas públicas em conformidade com as obrigações existentes."
+  },
+  "f1747636ecf1aa4b": {
+   "fragment_id": "Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema\n\nNo que diz respeito aos projetos no domínio das energias renováveis, bem como aos projetos de armazenamento de energia e projetos relacionados com a rede elétrica que sejam necessários para integrar a energia renovável no sistema elétrico, os Estados-Membros podem conceder isenções relativamente às avaliações de impacto ambiental previstas no artigo 2.º, n.º 1, da Diretiva 2011/92/UE e às avaliações de proteção das espécies previstas no artigo 12.º, n.º 1, da Diretiva 92/43/CEE, bem como no artigo 5.º da Diretiva 2009/147/CE, desde que o projeto esteja localizado numa zona específica de energia renovável ou numa zona específica da rede da infraestrutura de rede conexa que seja necessária para integrar a energia renovável no sistema elétrico, se os Estados-Membros tiverem definido alguma zona específica de energia renovável ou alguma zona específica da rede da infraestrutura de rede conexa, e desde que a zona tenha sido objeto de uma avaliação ambiental estratégica nos termos da Diretiva 2001/42/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#E0005)). Com base nos dados existentes, a autoridade competente assegura que sejam aplicadas medidas de mitigação adequadas e proporcionadas para garantir a conformidade com o artigo 12.º, n.º 1, da Diretiva 92/43/CEE e o artigo 5.º da Diretiva 2009/147/CEE. Caso essas medidas não estejam disponíveis, a autoridade competente assegura que o operador custeie uma compensação monetária para programas de proteção de espécies, a fim de assegurar ou melhorar o estado de conservação da espécie afetada."
+  },
+  "af6183a124b70206": {
+   "fragment_id": "Artigo 7.º — Aceleração da implantação de bombas de calor",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Aceleração da implantação de bombas de calor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Aceleração da implantação de bombas de calor\n\n1. O procedimento de concessão de licenças para a instalação de bombas de calor abaixo de 50 MW não pode exceder um mês, enquanto no caso de bombas de calor geotérmicas não pode exceder três meses.\n\n2.\n\nA menos que haja preocupações de segurança justificadas, que sejam necessários trabalhos adicionais para conexões de rede ou que haja incompatibilidade técnica dos componentes do sistema, as de ligações à rede de transporte ou de distribuição devem ser autorizadas, após notificação da entidade competente, no respeitante a:\n\na) Bombas de calor com capacidade elétrica igual ou inferior a 12 kW; e\n\nb) Bombas de calor instaladas por um autoconsumidor de energia renovável […] com capacidade elétrica igual ou inferior a 50 kW, desde que a capacidade da instalação de produção de eletricidade renovável do autoconsumidor de energia renovável corresponda a, pelo menos, 60 % da capacidade da bomba de calor,\n\n3. Os Estados Membros podem excluir determinadas zonas ou estruturas do disposto no presente artigo por razões de proteção do património cultural ou histórico, ou por razões relacionadas com interesses de defesa nacional ou de segurança.\n\n4. Todas as decisões resultantes dos procedimentos de concessão de licenças referidos nos n.^os^ 1 e 2 são tornadas públicas em conformidade com as obrigações existentes."
+  },
+  "49221b1a6e17c7fd": {
+   "fragment_id": "Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável à instalação de equipamentos de energia solar, ao reequipamento de centrais de produção de eletricidade renovável e à implantação de bombas de calor",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável à instalação de equipamentos de energia solar, ao reequipamento de centrais de produção de eletricidade renovável e à implantação de bombas de calor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável à instalação de equipamentos de energia solar, ao reequipamento de centrais de produção de eletricidade renovável e à implantação de bombas de calor\n\nNa aplicação dos prazos referidos nos artigos 4.º, 5.º e 7.º não são computados os seguintes períodos de tempo, exceto nos casos em que coincidam com outras fases administrativas do procedimento de concessão de licenças:\n\na) O período durante o qual as instalações, as suas ligações à rede e — com vista a garantir a estabilidade da rede, a fiabilidade da rede e a segurança da rede — a respetiva infraestrutura de rede necessária estão a ser construídas ou reequipadas; e\n\nb) O período de duração das fases administrativas necessárias para proceder às modernizações significativas da rede requeridas para garantir a estabilidade, fiabilidade e segurança da rede."
+  },
+  "c1e43f803b927e1d": {
+   "fragment_id": "Artigo 9.º — Reexame",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Reexame",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Reexame\n\nAté 31 de dezembro de 2023 o mais tardar, a Comissão procede ao reexame do presente regulamento, tendo em conta a evolução da segurança do aprovisionamento e dos preços da energia, bem como a necessidade de acelerar ainda mais a implantação das energias renováveis. A Comissão apresenta ao Conselho um relatório com as principais conclusões desse reexame. Com base nesse relatório, a Comissão pode propor a prorrogação da vigência do presente regulamento."
+  },
+  "60fbff0d0430da06": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável por um período de 18 meses a contar da sua entrada em vigor.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "c612a8be06372fc0": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativa à promoção da utilização de energia de fontes renováveis (JO L 328 de 21.12.2018, p. 82).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (JO L 206 de 22.7.1992, p. 7).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água (JO L 327 de 22.12.2000, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens (JO L 20 de 26.1.2010, p. 7).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/7e41e1ee-c57b-11ee-95d9-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Diretiva 2001/42/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2001, relativa à avaliação dos efeitos de determinados planos e programas no ambiente (JO L 197 de 21.7.2001, p. 30)."
+  },
+  "c081fe3e5cd46a48": {
+   "fragment_id": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Objeto e âmbito de aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Objeto e âmbito de aplicação\n\nO presente regulamento estabelece regras temporárias de emergência para acelerar o procedimento de concessão de licenças aplicável à produção de energia a partir de fontes de energia renováveis, com especial ênfase em tecnologias específicas ou tipos de projetos de energias renováveis capazes de acelerar a curto prazo o ritmo de implantação das energias renováveis na União.\n\nO presente regulamento é aplicável a todos os procedimentos de concessão de licenças que tenham início durante o seu período de aplicação e não prejudica as disposições nacionais que determinam prazos mais curtos do que os estabelecidos no artigo 5.º, n.º 1.\n\nOs Estados-Membros podem também aplicar o presente regulamento aos procedimentos de concessão de licenças em curso que não tenham resultado numa decisão final antes de 30 de dezembro de 2022, desde que tal encurte o procedimento de concessão de licenças e que sejam preservados os direitos legais preexistentes de terceiros."
+  },
+  "fbb79683a687cf03": {
+   "fragment_id": "Artigo 2.º — Definições",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Definições",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Definições\n\nPara efeitos do presente regulamento, aplicam-se as definições estabelecidas no artigo 2.º da Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#E0001)). Além disso, entende-se por:\n\n1) «Procedimento de concessão de licenças», o procedimento:\n\na) Que inclui todas as licenças administrativas pertinentes emitidas para fins de construção, reequipamento e exploração de centrais de produção de energia de fontes renováveis, incluindo bombas de calor, instalações de armazenamento de energia colocalizado e ativos necessários para a sua ligação à rede, incluindo as licenças de ligação à rede e as avaliações de impacto ambiental, sempre que forem necessárias; e\n\nb) Que inclui todas as fases administrativas desde o aviso de receção do pedido completo pela autoridade competente até à notificação da decisão final sobre o resultado do procedimento por parte da autoridade competente;\n\n2) «Equipamento de energia solar», equipamento que converte energia do sol em energia térmica ou elétrica, em especial equipamento solar térmico e equipamento solar fotovoltaico."
+  },
+  "8ae26b22afa12177": {
+   "fragment_id": "Artigo 3.º — Interesse público prevalecente",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Interesse público prevalecente",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Interesse público prevalecente\n\n1. No contexto da ponderação dos interesses jurídicos em cada caso concreto, é de presumir que o planeamento, a construção e a exploração de centrais e instalações de produção de energia de fontes renováveis, a sua ligação à rede e a própria rede conexa, bem como os ativos de armazenamento, são de interesse público prevalecente e importantes para a saúde e a segurança públicas para efeitos do artigo 6.º, n.º 4, e do artigo 16.º, n.º 1, alínea c), da Diretiva 92/43/CEE ([^2^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#E0002)), do artigo 4.º, n.º 7, da Diretiva 2000/60/CE do Parlamento Europeu e do Conselho ([^3^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#E0003)), e do artigo 9.º, n.º 1, alínea a), da Diretiva 2009/147/CE do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#E0004)). Os Estados-Membros podem restringir a aplicação destas disposições a algumas partes do seu território, bem como a determinados tipos de tecnologias ou projetos com determinadas características técnicas, em conformidade com as prioridades estabelecidas nos seus planos nacionais integrados em matéria de energia e de clima.\n\n2. Os Estados-Membros asseguram, para os projetos reconhecidos como sendo de interesse público prevalecente, que, no âmbito do procedimento de planeamento e concessão de licenças e ao ponderar os interesses jurídicos em cada caso concreto, seja dada prioridade à construção e exploração de centrais e instalações para produção de energia de fontes renováveis e ao desenvolvimento da infraestrutura de rede conexa.\n\nNo que diz respeito à proteção das espécies, o primeiro parágrafo só é aplicável se e na medida em que forem tomadas medidas adequadas de conservação das espécies que contribuam para a manutenção ou o restabelecimento das populações da espécie num estado de conservação favorável e se forem disponibilizados recursos financeiros suficientes, bem como zonas, para esse efeito."
+  },
+  "9f10a40629c1da92": {
+   "fragment_id": "Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável\n\n1. O procedimento de concessão de licenças para o reequipamento de projetos no domínio das energias renováveis, localizados nas zonas específicas de energia renovável ou da rede a que se refere o artigo 6.º, incluindo as licenças relacionadas com a modernização dos ativos necessários para ligar o projeto à rede nos casos em que o reequipamento dê origem a um aumento da capacidade, não pode exceder seis meses, incluindo-se neste prazo a realização de avaliações de impacto ambiental, sempre que exigidas pela legislação aplicável.\n\n2. Se o reequipamento não der origem a um aumento da capacidade da central de produção de energia renovável superior a 15 %, e sem afetar a necessidade de avaliar quaisquer potenciais impactos ambientais nos termos do n.º 3 do presente artigo, as licenças para as ligações à rede de transporte ou de distribuição são concedidas no prazo de três meses a contar da apresentação do pedido à entidade competente, a menos que haja preocupações de segurança justificadas ou uma incompatibilidade técnica dos componentes do sistema.\n\n3. Se o reequipamento de uma central de produção de energia renovável ou a modernização de uma infraestrutura de rede conexa necessária para integrar a energia renovável no sistema elétrico estiver sujeito à obrigação de determinar a necessidade de submeter o projeto a um processo de avaliação de impacto ambiental ou de realizar uma avaliação de impacto ambiental nos termos do artigo 4.º da Diretiva 2011/92/UE, essa determinação prévia e/ou essa avaliação de impacto ambiental limita-se aos potenciais impactos significativos resultantes da mudança ou da expansão relativamente ao projeto original.\n\n4. Se o reequipamento de instalações solares não implicar a utilização de espaço adicional e cumprir as medidas de mitigação ambiental aplicáveis estabelecidas para a instalação original, o projeto fica isento da obrigação, se aplicável, de determinar a necessidade de ser submetido a uma avaliação de impacto ambiental nos termos do artigo 4.º da Diretiva 2011/92/UE.\n\n5. Todas as decisões resultantes dos procedimentos de concessão de licenças referidos nos n.^os^ 1 e 2 são tornadas públicas em conformidade com as obrigações existentes."
+  },
+  "ef1787040065850c": {
+   "fragment_id": "Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema\n\nNo que diz respeito aos projetos no domínio das energias renováveis, bem como aos projetos de armazenamento de energia e projetos relacionados com a rede elétrica que sejam necessários para integrar a energia renovável no sistema elétrico, os Estados-Membros podem conceder isenções relativamente às avaliações de impacto ambiental previstas no artigo 2.º, n.º 1, da Diretiva 2011/92/UE e às avaliações de proteção das espécies previstas no artigo 12.º, n.º 1, da Diretiva 92/43/CEE, bem como no artigo 5.º da Diretiva 2009/147/CE, desde que o projeto esteja localizado numa zona específica de energia renovável ou numa zona específica da rede da infraestrutura de rede conexa que seja necessária para integrar a energia renovável no sistema elétrico, se os Estados-Membros tiverem definido alguma zona específica de energia renovável ou alguma zona específica da rede da infraestrutura de rede conexa, e desde que a zona tenha sido objeto de uma avaliação ambiental estratégica nos termos da Diretiva 2001/42/CE do Parlamento Europeu e do Conselho ([^5^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#E0005)). Com base nos dados existentes, a autoridade competente assegura que sejam aplicadas medidas de mitigação adequadas e proporcionadas para garantir a conformidade com o artigo 12.º, n.º 1, da Diretiva 92/43/CEE e o artigo 5.º da Diretiva 2009/147/CEE. Caso essas medidas não estejam disponíveis, a autoridade competente assegura que o operador custeie uma compensação monetária para programas de proteção de espécies, a fim de assegurar ou melhorar o estado de conservação da espécie afetada."
+  },
+  "5e9e1d1f6602f830": {
+   "fragment_id": "Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável ao reequipamento de centrais de produção de eletricidade renovável em zonas específicas de energia renovável ou da rede referidas no artigo 6.º",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável ao reequipamento de centrais de produção de eletricidade renovável em zonas específicas de energia renovável ou da rede referidas no artigo 6.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável ao reequipamento de centrais de produção de eletricidade renovável em zonas específicas de energia renovável ou da rede referidas no artigo 6.º\n\nNa aplicação dos prazos referidos no artigo 5.º, n.º 1, não são computados os seguintes períodos, exceto nos casos em que coincidam com outras fases administrativas do procedimento de concessão de licenças:\n\na) O período durante o qual as centrais, as suas ligações à rede e, com vista a garantir a estabilidade da rede, a fiabilidade e a segurança da rede, a respetiva infraestrutura de rede necessária estão a ser construídas ou reequipadas; e\n\nb) O período de duração das fases administrativas necessárias para proceder às modernizações significativas da rede necessárias para garantir a estabilidade da rede, a fiabilidade da rede e a segurança da rede."
+  },
+  "2b7060dabc9952d4": {
+   "fragment_id": "Artigo 10.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável por um período de 18 meses a contar da sua entrada em vigor.\n\nNo entanto, o artigo 1.º, o artigo 2.º, ponto 1, o artigo 3.º, n.º 2, o artigo 3.º-A, o artigo 5.º, n.º 1, o artigo 6.º e o artigo 8.º são aplicáveis até 30 de junho de 2025.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "4fe0a62caf22d02e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#src.E0001)) Diretiva (UE) 2018/2001 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, relativa à promoção da utilização de energia de fontes renováveis (JO L 328 de 21.12.2018, p. 82).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#src.E0002)) Diretiva 92/43/CEE do Conselho, de 21 de maio de 1992, relativa à preservação dos habitats naturais e da fauna e da flora selvagens (JO L 206 de 22.7.1992, p. 7).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#src.E0003)) Diretiva 2000/60/CE do Parlamento Europeu e do Conselho, de 23 de outubro de 2000, que estabelece um quadro de ação comunitária no domínio da política da água (JO L 327 de 22.12.2000, p. 1).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#src.E0004)) Diretiva 2009/147/CE do Parlamento Europeu e do Conselho, de 30 de novembro de 2009, relativa à conservação das aves selvagens (JO L 20 de 26.1.2010, p. 7).\n\n> ([^5^](http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1#src.E0005)) Diretiva 2001/42/CE do Parlamento Europeu e do Conselho, de 27 de junho de 2001, relativa à avaliação dos efeitos de determinados planos e programas no ambiente (JO L 197 de 21.7.2001, p. 30)."
+  }
+ }
+}

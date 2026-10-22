@@ -34,6 +34,44 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-12'
+version_history:
+  file: decisao-ue-2021-1143.versoes.json
+  count: 3
+  source_lastmod: '2026-05-12'
+  versions:
+  - date: '2024-05-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-09-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Missão
+    - Altera Artigo 2.º — Nomeação do comandante da Missão da UE e do comandante da Missão de Força da UE
+    - Altera Artigo 3.º — Designação do quartel-general da Missão
+    - Altera Artigo 5.º — Controlo político e direção estratégica
+    - Altera Artigo 6.º — Direção militar
+    - Altera Artigo 7.º — Coerência da resposta e da coordenação da União
+    - Altera Artigo 8.º — Participação de Estados terceiros
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 11.º — Célula de projetos
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
+    - Adita Artigo 4.º — Planeamento e lançamento da [►M1](http://publications.europa.eu/resource/celex/32024D1354) EUMAM
+      Moçambique◄
+    - Suprime Artigo 4.º — Planeamento e lançamento da EUTM Moçambique
+  - date: '2026-05-12'
+    amending: eu:celex:32026D1084:por
+    amending_title: DECISÃO (PESC) 2026/1084 DO CONSELHO de 12 de maio de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 10.º — Disposições financeiras
+    - Altera Artigo 12.º — Comunicação de informações
+    - Altera Artigo 13.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
 identifiers:
   celex: 32021D1143
   eli: http://data.europa.eu/eli/dec/2021/1143/oj
@@ -48,7 +86,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6f3adf7c-e375-11eb-895a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/382b5595-657c-11f1-9b18-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021D1143-20260512
-  retrieved_at: '2026-10-22T02:40:55Z'
+  retrieved_at: '2026-10-22T17:12:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T15:26:20.936+01:00'
 integrity:
@@ -57,9 +95,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:55Z'
-  notes: Texto consolidado 02021D1143-20260512.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:12:27Z'
+  notes: 3 versão(ões); histórico completo em decisao-ue-2021-1143.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -164,34 +202,20 @@ relationships:
   date: '2021-09-09'
 article_structure:
   article_count: 13
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:55Z'
-  warnings: []
+  checked_at: '2026-10-22T17:12:27Z'
+  warnings:
+  - '02021D1143-20210713: versão indisponível (Sem expressão na língua por para CELEX 02021D1143-20210713.)'
   errors: []
 ---
 
 # Decisão (PESC) 2021/1143 do Conselho de 12 de julho de 2021
-
-> 02021D1143 — PT — 12.05.2026 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024D1354) — [DECISÃO (PESC) 2024/1354 DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024D1354) — L 1354 — 1 — 15.5.2024
-- [►M2](http://publications.europa.eu/resource/celex/32026D1084) — [DECISÃO (PESC) 2026/1084 DO CONSELHO de 12 de maio de 2026](http://publications.europa.eu/resource/celex/32026D1084) — L 1084 — 1 — 13.5.2026
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32024D1354R%2803%29) — [Rectificação, JO L 90416, 27.5.2026, p. 1 (2024/1354)](http://publications.europa.eu/resource/celex/32024D1354R%2803%29)
-
-## DECISÃO (PESC) 2021/1143 DO CONSELHO
 
 de 12 de julho de 2021
 

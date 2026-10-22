@@ -1,0 +1,146 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32020R2151:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R2151-20201218",
+ "dre_path": null,
+ "source_lastmod": "2020-12-18",
+ "versions": [
+  {
+   "date": "2020-12-18",
+   "future": false,
+   "celex": "02020R2151-20201218",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "21a559ecc26e89bc",
+    "24d8a3a952c315a6",
+    "9ecc244b2364ff89",
+    "eb6ef60fc08f76e6",
+    "61d9bb112633bf14",
+    "d664376e2a8dcecd",
+    "8e029adbe90dc2ab",
+    "852174729551523b",
+    "f8b56904fe3bf230",
+    "720af75c92791b10",
+    "8387ab9159f08ac8",
+    "e03a0eb4d5b2eef3",
+    "a236b99e81748d2d",
+    "067bac89e2662248"
+   ]
+  }
+ ],
+ "fragments": {
+  "21a559ecc26e89bc": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de dezembro de 2020\n\nque estabelece regras sobre as especificações de marcação harmonizadas dos produtos de plástico de utilização única enumerados na parte D do anexo da Diretiva (UE) 2019/904 do Parlamento Europeu e do Conselho relativa à redução do impacto de determinados produtos de plástico no ambiente\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "24d8a3a952c315a6": {
+   "fragment_id": "Artigo 1.º — Embalagens",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Embalagens",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Embalagens\n\nPara efeitos do presente regulamento, entende-se por «embalagem» uma embalagem de venda e uma embalagem grupada na aceção do artigo 3.º, n.º 1, da Diretiva 94/62/CE do Parlamento Europeu e do Conselho ([^1^](http://publications.europa.eu/resource/cellar/114c1b6b-acf4-11eb-9767-01aa75ed71a1.0018.02/DOC_1#E0001))."
+  },
+  "9ecc244b2364ff89": {
+   "fragment_id": "Artigo 2.º — Especificações de marcação harmonizadas",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Especificações de marcação harmonizadas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Especificações de marcação harmonizadas\n\n1. As especificações de marcação harmonizadas para pensos higiénicos e tampões e respetivos aplicadores são estabelecidas no anexo I.\n\n2. As especificações de marcação harmonizadas para toalhetes húmidos, ou seja, toalhetes pré-humedecidos para higiene pessoal e para uso doméstico, são estabelecidas no anexo II.\n\n3. As especificações de marcação harmonizadas para produtos do tabaco com filtros e filtros comercializados para uso em combinação com produtos do tabaco são estabelecidas no anexo III.\n\n4. As especificações de marcação harmonizadas para copos para bebidas são estabelecidas no anexo IV."
+  },
+  "eb6ef60fc08f76e6": {
+   "fragment_id": "Artigo 3.º — Línguas",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Línguas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Línguas\n\nO texto informativo da marcação deve ser redigido na língua oficial ou nas línguas oficiais do Estado-Membro ou dos Estados-Membros em que o produto de plástico de utilização única é colocado no mercado."
+  },
+  "61d9bb112633bf14": {
+   "fragment_id": "Artigo 4.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nA presente decisão é aplicável a partir de 3 de julho de 2021.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "d664376e2a8dcecd": {
+   "fragment_id": "ANEXO I",
+   "type": "divisao",
+   "heading": "ANEXO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO I"
+  },
+  "8e029adbe90dc2ab": {
+   "fragment_id": "Especificações de marcação harmonizadas para pensos higiénicos e tampões e respetivos aplicadores",
+   "type": "divisao",
+   "heading": "Especificações de marcação harmonizadas para pensos higiénicos e tampões e respetivos aplicadores",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Especificações de marcação harmonizadas para pensos higiénicos e tampões e respetivos aplicadores\n\n1. As embalagens de pensos higiénicos com uma superfície igual ou superior a 10 cm^2^ devem ostentar a marcação impressa seguinte:\n\n| *Nota* | : | A linha preta que cinge a marcação não faz parte da mesma. O seu único objetivo é destacar do fundo branco da página o fino limite branco da marcação. |\n| --- | --- | --- |\n\n2. As embalagens de tampões e respetivos aplicadores com uma superfície igual ou superior a 10 cm^2^ devem ostentar a marcação impressa seguinte:\n\n| *Nota* | : | A linha preta que cinge a marcação não faz parte da mesma. O seu único objetivo é destacar do fundo branco da página o fino limite branco da marcação. |\n| --- | --- | --- |\n\n3. A marcação estabelecida nos pontos 1 e 2 deve cumprir os requisitos estabelecidos no presente ponto.\n\na. Posição da marcação\n\nb. Dimensão da marcação\n\nc. Desenho da marcação\n\n— Branco: C = 0/M = 0/Y = 0/K = 0\n\n— Preto: C = 0/M = 0/Y = 0/K = 100\n\n— Vermelho: C = 0/M = 90/Y = 60/K = 0\n\n— Azul: C = 60/M = 0/Y = 0/K = 0"
+  },
+  "852174729551523b": {
+   "fragment_id": "ANEXO II",
+   "type": "divisao",
+   "heading": "ANEXO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO II"
+  },
+  "f8b56904fe3bf230": {
+   "fragment_id": "Especificações de marcação harmonizadas para toalhetes húmidos",
+   "type": "divisao",
+   "heading": "Especificações de marcação harmonizadas para toalhetes húmidos",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Especificações de marcação harmonizadas para toalhetes húmidos\n\n1. As embalagens de toalhetes húmidos (ou seja, toalhetes pré-humedecidos para higiene pessoal e para uso doméstico) com uma superfície igual ou superior a 10 cm^2^ devem ostentar a marcação impressa seguinte:\n\n| *Nota* | : | A linha preta que cinge a marcação não faz parte da mesma. O seu único objetivo é destacar do fundo branco da página o fino limite branco da marcação. |\n| --- | --- | --- |\n\n2. A marcação deve cumprir os requisitos estabelecidos no presente ponto.\n\na. Posição da marcação\n\nb. Dimensão da marcação\n\nc. Desenho da marcação\n\n— Branco: C = 0/M = 0/Y = 0/K = 0\n\n— Preto: C = 0/M = 0/Y = 0/K = 100\n\n— Vermelho: C = 0/M = 90/Y = 60/K = 0\n\n— Azul: C = 60/M = 0/Y = 0/K = 0"
+  },
+  "720af75c92791b10": {
+   "fragment_id": "ANEXO III",
+   "type": "divisao",
+   "heading": "ANEXO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO III"
+  },
+  "8387ab9159f08ac8": {
+   "fragment_id": "Especificações de marcação harmonizadas para produtos do tabaco com filtros e filtros comercializados para uso em combinação com produtos do tabaco",
+   "type": "divisao",
+   "heading": "Especificações de marcação harmonizadas para produtos do tabaco com filtros e filtros comercializados para uso em combinação com produtos do tabaco",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Especificações de marcação harmonizadas para produtos do tabaco com filtros e filtros comercializados para uso em combinação com produtos do tabaco\n\n1. As embalagens individuais, na aceção do artigo 2.º, ponto 30, da Diretiva 2014/40/CE («embalagem individual»), e as embalagens exteriores, na aceção do artigo 2.º, ponto 29, da Diretiva 2014/40/CE («embalagem exterior»), para produtos do tabaco com filtros com uma superfície igual ou superior a 10 cm^2^, bem como as embalagens para filtros comercializados para uso em combinação com produtos do tabaco com uma superfície de 10 cm^2^ ou mais, devem ostentar a marcação impressa seguinte:\n\n| *Nota* | : | A linha preta que cinge a marcação não faz parte da mesma. O seu único objetivo é destacar do fundo branco da página o fino limite branco da marcação. |\n| --- | --- | --- |\n\n2. A marcação deve cumprir os requisitos estabelecidos no presente ponto.\n\na. Posição da marcação\n\ni. Produtos do tabaco com filtros\n\nii. Filtros comercializados para uso em combinação com produtos do tabaco\n\nb. Dimensão da marcação\n\ni. Produtos do tabaco com filtros\n\nii. Filtros comercializados para uso em combinação com produtos do tabaco\n\nc. Desenho da marcação\n\n— Branco: C = 0/M = 0/Y = 0/K = 0\n\n— Preto: C = 0/M = 0/Y = 0/K = 100\n\n— Vermelho: C = 0/M = 90/Y = 60/K = 0\n\n— Azul: C = 60/M = 0/Y = 0/K = 0"
+  },
+  "e03a0eb4d5b2eef3": {
+   "fragment_id": "ANEXO IV",
+   "type": "divisao",
+   "heading": "ANEXO IV",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO IV"
+  },
+  "a236b99e81748d2d": {
+   "fragment_id": "Especificações de marcação harmonizadas para copos para bebidas",
+   "type": "divisao",
+   "heading": "Especificações de marcação harmonizadas para copos para bebidas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Especificações de marcação harmonizadas para copos para bebidas\n\n1. Os copos para bebidas fabricados parcialmente em plástico devem ostentar a marcação impressa seguinte:\n\n| *Nota* | : | A linha preta que cinge a marcação não faz parte da mesma. O seu único objetivo é destacar do fundo branco da página o fino limite branco da marcação. |\n| --- | --- | --- |\n\nEm derrogação da primeira frase do presente ponto, a marcação dos copos para bebidas fabricados parcialmente em plástico colocados no mercado antes de 4 de julho de 2022 pode ser aposta por meio de autocolantes.\n\n2. Os copos para bebidas fabricados totalmente em plástico devem ostentar a seguinte marcação impressa ou a seguinte marcação gravada ou colocada em relevo:\n\n| *Nota* | : | A linha preta que cinge a marcação não faz parte da mesma. O seu único objetivo é criar um contraste com a página branca. |\n| --- | --- | --- |\n\n| *Nota* | : | A linha preta que cinge a marcação e o fundo cinzento não fazem parte da mesma. O seu único objetivo é criar um contraste com a página branca. |\n| --- | --- | --- |\n\n3. A marcação para copos para bebidas fabricados parcialmente em plástico deve cumprir os requisitos estabelecidos no presente ponto.\n\na. Posição da marcação\n\ni. Copos tradicionais:\n\nii. Taças de champanhe:\n\nb. Dimensão da marcação\n\nc. Desenho da marcação\n\n— Branco: C = 0/M = 0/Y = 0/K = 0\n\n— Preto: C = 0/M = 0/Y = 0/K = 100\n\n— Vermelho: C = 0/M = 90/Y = 60/K = 0\n\n— Azul: C = 60/M = 0/Y = 0/K = 0\n\n4. A marcação para copos para bebidas fabricados totalmente em plástico deve cumprir os requisitos estabelecidos no presente ponto.\n\na. Posição da marcação\n\ni. Copos tradicionais:\n\nii. Taças de champanhe:\n\nb. Dimensão da marcação\n\nc. Desenho da marcação\n\ni. Impressa:\n\n— Branco: C = 0/M = 0/Y = 0/K = 0\n\n— Preto: C = 0/M = 0/Y = 0/K = 100\n\n— Vermelho: C = 0/M = 90/Y = 60/K = 0\n\n— Azul: C = 60/M = 0/Y = 0/K = 0\n\nii. Gravada ou colocada em relevo\n\n— Branco: C = 0/M = 0/Y = 0/K = 0\n\n— Preto: C = 0/M = 0/Y = 0/K = 100.\n\n---"
+  },
+  "067bac89e2662248": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/114c1b6b-acf4-11eb-9767-01aa75ed71a1.0018.02/DOC_1#src.E0001)) Diretiva 94/62/CE do Parlamento Europeu e do Conselho, de 20 de dezembro de 1994, relativa a embalagens e resíduos de embalagens (JO L 365 de 31.12.1994, p. 10)."
+  }
+ }
+}

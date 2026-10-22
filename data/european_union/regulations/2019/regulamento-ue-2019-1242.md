@@ -36,6 +36,85 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-10'
+version_history:
+  file: regulamento-ue-2019-1242.versoes.json
+  count: 4
+  source_lastmod: '2026-09-10'
+  versions:
+  - date: '2024-07-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2025-08-14'
+    amending: eu:celex:32025R1045:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1045 DA COMISSÃO de 20 de maio de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e objetivos
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-E — Garantir cadeias de abastecimento sustentáveis e resilientes para autocarros urbanos através de
+      processos de contratação pública
+    - Altera Artigo 7.º-A — Atribuição de veículos pesados a fabricantes
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera Artigo 18.º — Alteração do Regulamento (CE) n.º 595/2009
+    - Altera Artigo 19.º — Alteração do Regulamento (UE) 2018/956
+    - Altera Artigo 20.º — Alteração da Diretiva 96/53/CE
+    - Altera 1.1. Para efeitos do presente regulamento, é definido um subgrupo de veículos sg para cada veículo pesado novo.
+    - Altera 2.1. Cálculo das emissões específicas de CO2 de veículos pesados novos
+    - Altera 2.5. Valores de carga útil, números de passageiros e volumes de carga
+    - Altera 2.6. Cálculo do fator de ponderação da quilometragem e da carga útil ou número de passageiros
+    - Altera 4.3. Objetivos de redução das emissões de CO2 e percentagens de veículos pesados com nível nulo de emissões
+    - 'Altera PARTE A: DADOS A VIGIAR E A COMUNICAR PELOS ESTADOS-MEMBROS'
+    - 'Altera PARTE B: DADOS A COMUNICAR PELOS FABRICANTES E POR OUTRAS ENTIDADES'
+    - Altera 2. COMUNICAÇÃO PELOS FABRICANTES
+    - Altera Notas
+  - date: '2026-05-27'
+    amending: eu:celex:32026R1046:por
+    amending_title: REGULAMENTO (UE) 2026/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e objetivos
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-E — Garantir cadeias de abastecimento sustentáveis e resilientes para autocarros urbanos através de
+      processos de contratação pública
+    - Altera Artigo 7.º — Créditos de emissões e débitos de emissões
+    - Altera Artigo 7.º-A — Atribuição de veículos pesados a fabricantes
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera Artigo 18.º — Alteração do Regulamento (CE) n.º 595/2009
+    - Altera Artigo 19.º — Alteração do Regulamento (UE) 2018/956
+    - Altera Artigo 20.º — Alteração da Diretiva 96/53/CE
+    - Altera 1.1. Para efeitos do presente regulamento, é definido um subgrupo de veículos sg para cada veículo pesado novo.
+    - Altera 2.1. Cálculo das emissões específicas de CO2 de veículos pesados novos
+    - Altera 2.5. Valores de carga útil, números de passageiros e volumes de carga
+    - Altera 2.6. Cálculo do fator de ponderação da quilometragem e da carga útil ou número de passageiros
+    - Altera 5.2. Cálculo dos créditos e débitos de emissões em cada período de referência
+    - 'Altera PARTE A: DADOS A VIGIAR E A COMUNICAR PELOS ESTADOS-MEMBROS'
+    - 'Altera PARTE B: DADOS A COMUNICAR PELOS FABRICANTES E POR OUTRAS ENTIDADES'
+    - Altera 2. COMUNICAÇÃO PELOS FABRICANTES
+    - Altera Notas
+  - date: '2026-09-10'
+    amending: eu:celex:32026R1282:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/1282 DA COMISSÃO de 12 de junho de 2026
+    changes:
+    - Altera Artigo 1.º — Objeto e objetivos
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 3.º-E — Garantir cadeias de abastecimento sustentáveis e resilientes para autocarros urbanos através de
+      processos de contratação pública
+    - Altera Artigo 7.º-A — Atribuição de veículos pesados a fabricantes
+    - Altera Artigo 16.º — Procedimento de comité
+    - Altera Artigo 18.º — Alteração do Regulamento (CE) n.º 595/2009
+    - Altera Artigo 19.º — Alteração do Regulamento (UE) 2018/956
+    - Altera Artigo 20.º — Alteração da Diretiva 96/53/CE
+    - Altera 1.1. Para efeitos do presente regulamento, é definido um subgrupo de veículos sg para cada veículo pesado novo.
+    - Altera 2.1. Cálculo das emissões específicas de CO2 de veículos pesados novos
+    - Altera 2.5. Valores de carga útil, números de passageiros e volumes de carga
+    - Altera 2.6. Cálculo do fator de ponderação da quilometragem e da carga útil ou número de passageiros
+    - 'Altera PARTE A: DADOS A VIGIAR E A COMUNICAR PELOS ESTADOS-MEMBROS'
+    - 'Altera PARTE B: DADOS A COMUNICAR PELOS FABRICANTES E POR OUTRAS ENTIDADES'
+    - 'Altera PARTE C: INTERVALOS DE VARIAÇÃO DOS VALORES DE RESISTÊNCIA AERODINÂMICA (CdxA) PARA EFEITOS DE PUBLICAÇÃO NOS
+      TERMOS DO ARTIGO 13.º-C'
+    - Altera 1. COMUNICAÇÃO PELOS ESTADOS-MEMBROS
+    - Altera 2. COMUNICAÇÃO PELOS FABRICANTES
+    - Altera 3. TRATAMENTO DOS DADOS
+    - Altera Notas
 identifiers:
   celex: 32019R1242
   eli: http://data.europa.eu/eli/reg/2019/1242/oj
@@ -50,7 +129,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e99bedda-ae8e-11e9-9d01-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/23c9721d-abe9-11f1-b9e5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R1242-20260910
-  retrieved_at: '2026-10-22T02:49:25Z'
+  retrieved_at: '2026-10-22T17:09:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T12:29:29.050+01:00'
 integrity:
@@ -59,9 +138,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:25Z'
-  notes: Texto consolidado 02019R1242-20260910.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:09:48Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2019-1242.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -242,38 +321,20 @@ relationships:
   date: '2024-06-06'
 article_structure:
   article_count: 36
-  section_count: 51
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 52
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:25Z'
-  warnings: []
+  checked_at: '2026-10-22T17:09:48Z'
+  warnings:
+  - '02019R1242-20190725: versão indisponível (Sem expressão na língua por para CELEX 02019R1242-20190725.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/1242 do Parlamento Europeu e do Conselho, de 20 de junho de 2019
-
-> 02019R1242 — PT — 10.09.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R1610) — [REGULAMENTO (UE) 2024/1610 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1610) — L 1610 — 1 — 6.6.2024
-- [►M2](http://publications.europa.eu/resource/celex/32025R1045) — [REGULAMENTO DELEGADO (UE) 2025/1045 DA COMISSÃO de 20 de maio de 2025](http://publications.europa.eu/resource/celex/32025R1045) — L 1045 — 1 — 25.7.2025
-- [►M3](http://publications.europa.eu/resource/celex/32026R1046) — [REGULAMENTO (UE) 2026/1046 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de abril de 2026](http://publications.europa.eu/resource/celex/32026R1046) — L 1046 — 1 — 7.5.2026
-- [►M4](http://publications.europa.eu/resource/celex/32026R1282) — [REGULAMENTO DELEGADO (UE) 2026/1282 DA COMISSÃO de 12 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1282) — L 1282 — 1 — 21.8.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32024R1610R%2801%29) — [Rectificação, JO L 90661, 29.10.2024, p. 1 (2024/1610)](http://publications.europa.eu/resource/celex/32024R1610R%2801%29)
-- [►C2](http://publications.europa.eu/resource/celex/32024R1610R%2802%29) — [Rectificação, JO L 90294, 31.3.2025, p. 1 (2024/1610)](http://publications.europa.eu/resource/celex/32024R1610R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32024R1610R%2803%29) — [Rectificação, JO L 90892, 7.11.2025, p. 1 (2024/1610)](http://publications.europa.eu/resource/celex/32024R1610R%2803%29)
-
-## REGULAMENTO (UE) 2019/1242 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 20 de junho de 2019
 

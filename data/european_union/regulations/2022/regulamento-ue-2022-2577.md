@@ -34,6 +34,31 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-07-01'
+version_history:
+  file: regulamento-ue-2022-2577.versoes.json
+  count: 2
+  source_lastmod: '2024-07-01'
+  versions:
+  - date: '2024-01-11'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Interesse público prevalecente
+    - Altera Artigo 5.º — Reequipamento de centrais de produção de eletricidade renovável
+    - Altera Artigo 6.º — Aceleração do procedimento de concessão de licenças a projetos no domínio das energias renováveis
+      e para a infraestrutura de rede conexa necessários para integrar a energia renovável no sistema
+    - Altera Artigo 10.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável ao reequipamento de centrais de
+      produção de eletricidade renovável em zonas específicas de energia renovável ou da rede referidas no artigo 6.º
+    - Suprime Artigo 8.º — Calendário para o procedimento de concessão de licenças aplicável à instalação de equipamentos
+      de energia solar, ao reequipamento de centrais de produção de eletricidade renovável e à implantação de bombas de calor
 identifiers:
   celex: 32022R2577
   eli: http://data.europa.eu/eli/reg/2022/2577/oj
@@ -48,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/cbbbf379-874c-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/cc39ef6e-3300-11ef-b441-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2577-20240701
-  retrieved_at: '2026-10-22T03:20:17Z'
+  retrieved_at: '2026-10-22T17:16:15Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T13:55:15.651+02:00'
 integrity:
@@ -57,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:20:17Z'
-  notes: Texto consolidado 02022R2577-20240701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:15Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2022-2577.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -142,29 +167,20 @@ relationships:
   date: '2023-03-02'
 article_structure:
   article_count: 11
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:20:17Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:15Z'
+  warnings:
+  - '02022R2577-20221229: versão indisponível (Sem expressão na língua por para CELEX 02022R2577-20221229.)'
   errors: []
 ---
 
 # Regulamento (UE) 2022/2577 do Conselho de 22 de dezembro de 2022
-
-> 02022R2577 — PT — 01.07.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024R0223) — [REGULAMENTO (UE) 2024/223 DO CONSELHO de 22 de dezembro de 2023](http://publications.europa.eu/resource/celex/32024R0223) — L 223 — 1 — 10.1.2024
-
-## REGULAMENTO (UE) 2022/2577 DO CONSELHO
 
 de 22 de dezembro de 2022
 

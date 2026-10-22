@@ -36,6 +36,55 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-07-16'
+version_history:
+  file: regulamento-ue-2019-943.versoes.json
+  count: 2
+  source_lastmod: '2024-07-16'
+  versions:
+  - date: '2022-06-23'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-07-16'
+    amending: eu:celex:32024R1747:por
+    amending_title: REGULAMENTO (UE) 2024/1747 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Mercados para o dia seguinte e intradiário
+    - Altera Artigo 8.º — Comércio nos mercados para o dia seguinte e intradiário
+    - Altera Artigo 9.º — Mercados a prazo
+    - Altera Artigo 12.º — Despacho da produção e resposta da procura
+    - Altera Artigo 18.º — Tarifas de acesso às redes, utilização de redes e reforço
+    - Altera Artigo 19.º — Receitas de congestionamentos
+    - Altera Artigo 21.º — Princípios gerais dos mecanismos de capacidade
+    - Altera Artigo 22.º — Princípios para a conceção dos mecanismos de capacidade
+    - Altera Artigo 23.º — Avaliação europeia da adequação dos recursos
+    - Altera Artigo 33.º — Custos
+    - Altera Artigo 35.º — Criação e missão dos centros de coordenação regionais
+    - Altera Artigo 37.º — Funções dos centros de coordenação regionais
+    - Altera Artigo 50.º — Prestação de informações
+    - Altera Artigo 57.º — Cooperação entre os operadores de redes de distribuição e os operadores de redes de transporte
+    - Altera Artigo 59.º — Estabelecimento de códigos de rede
+    - Altera Artigo 63.º — Novas interligações
+    - Altera Artigo 64.º — Derrogações
+    - Altera Artigo 69.º — Reexame e relatórios da Comissão
+    - Altera 1. Cálculo coordenado da capacidade
+    - Altera Notas
+    - Adita Artigo 7.º-A — Produto de corte de pontas
+    - Adita Artigo 7.º-B — Dispositivo de medição específico
+    - Adita CAPÍTULO III-A
+    - Adita INCENTIVOS AO INVESTIMENTO ESPECÍFICOS PARA ALCANÇAR OS OBJETIVOS DE DESCARBONIZAÇÃO DA UNIÃO
+    - Adita Artigo 19.º-A — Contratos de aquisição de eletricidade
+    - Adita Artigo 19.º-B — Modelos voluntários para os CAE e monitorização dos CAE
+    - Adita Artigo 19.º-C — Medidas a nível da União para contribuir para o cumprimento da quota adicional de energia de fontes
+      renováveis
+    - Adita Artigo 19.º-D — Regimes de apoio direto ao preço sob a forma de contratos por diferenças bidirecionais para investimento
+    - Adita Artigo 19.º-E — Avaliação das necessidades de flexibilidade
+    - Adita Artigo 19.º-F — Objetivo nacional indicativo em matéria de flexibilidade não fóssil
+    - Adita Artigo 19.º-G — Regimes de apoio à flexibilidade não fóssil
+    - Adita Artigo 19.º-H — Princípios de conceção dos regimes de apoio à flexibilidade não fóssil
+    - Adita Artigo 69.º-A — Interação com os atos jurídicos financeiros da União
 identifiers:
   celex: 32019R0943
   eli: http://data.europa.eu/eli/reg/2019/943/oj
@@ -50,7 +99,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/48b32722-8e7c-11e9-9369-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/70071ff1-502d-11ef-acbc-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0943-20240716
-  retrieved_at: '2026-10-22T02:46:10Z'
+  retrieved_at: '2026-10-22T17:08:45Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T19:56:37.658+01:00'
 integrity:
@@ -59,9 +108,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:10Z'
-  notes: Texto consolidado 02019R0943-20240716.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:45Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2019-943.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -278,30 +327,20 @@ relationships:
   date: '2009-08-11'
 article_structure:
   article_count: 82
-  section_count: 44
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 45
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:10Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:45Z'
+  warnings:
+  - '02019R0943-20190614: versão indisponível (Sem expressão na língua por para CELEX 02019R0943-20190614.)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/943 do Parlamento Europeu e do Conselho, de 5 de junho de 2019
-
-> 02019R0943 — PT — 16.07.2024 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R0869) — [REGULAMENTO (UE) 2022/869 DO PARLAMENTO EUROPEU E DO CONSELHO de 30 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0869) — L 152 — 45 — 3.6.2022
-- [►M2](http://publications.europa.eu/resource/celex/32024R1747) — [REGULAMENTO (UE) 2024/1747 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1747) — L 1747 — 1 — 26.6.2024
-
-## REGULAMENTO (UE) 2019/943 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 5 de junho de 2019
 

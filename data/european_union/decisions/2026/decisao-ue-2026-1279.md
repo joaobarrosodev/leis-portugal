@@ -36,6 +36,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-09-04'
+version_history:
+  file: decisao-ue-2026-1279.versoes.json
+  count: 2
+  source_lastmod: '2026-09-04'
+  versions:
+  - date: '2026-06-16'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-09-04'
+    amending: eu:celex:32026D1971:por
+    amending_title: DECISÃO DE EXECUÇÃO (UE) 2026/1971 DA COMISSÃO de 3 de setembro de 2026
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º
+    - Adita ANEXO I
+    - Adita ANEXO II
+    - Suprime Notas
 identifiers:
   celex: 32026D1279
   eli: http://data.europa.eu/eli/dec_impl/2026/1279/oj
@@ -50,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/ae220177-6920-11f1-9b18-01aa75ed71a1.0020
   content_url: http://publications.europa.eu/resource/cellar/8d29e34d-c736-11f1-a77b-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02026D1279-20260904
-  retrieved_at: '2026-10-22T03:46:35Z'
+  retrieved_at: '2026-10-22T17:19:53Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2026-06-16T03:39:14.469+02:00'
 integrity:
@@ -59,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:46:35Z'
-  notes: Texto consolidado 02026D1279-20260904.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:19:53Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2026-1279.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -120,28 +138,18 @@ relationships:
 article_structure:
   article_count: 3
   section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:46:35Z'
+  checked_at: '2026-10-22T17:19:53Z'
   warnings: []
   errors: []
 ---
 
 # Decisão de Execução (UE) 2026/1279 da Comissão, de 12 de junho de 2026
-
-> 02026D1279 — PT — 04.09.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026D1971) — [DECISÃO DE EXECUÇÃO (UE) 2026/1971 DA COMISSÃO de 3 de setembro de 2026](http://publications.europa.eu/resource/celex/32026D1971) — L 1971 — 1 — 4.9.2026
-
-## DECISÃO DE EXECUÇÃO (UE) 2026/1279 DA COMISSÃO
 
 de 12 de junho de 2026
 

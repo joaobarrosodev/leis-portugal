@@ -36,6 +36,29 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-01-09'
+version_history:
+  file: diretiva-ue-2019-2162.versoes.json
+  count: 2
+  source_lastmod: '2024-01-09'
+  versions:
+  - date: '2019-12-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-01-09'
+    amending: eu:celex:32023L2864:por
+    amending_title: DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 6. — Ativos de cobertura elegíveis
+    - Altera Artigo 17. — Condições para as estruturas de prazos de vencimento prorrogáveis
+    - Altera Artigo 25. — Obrigações de cooperação
+    - Altera Artigo 27. — Marca
+    - Altera Artigo 28. — Alteração da Diretiva 2009/65/CE
+    - Altera Artigo 29. — Alteração da Diretiva 2014/59/UE
+    - Altera Artigo 34. — Destinatários
+    - Altera Notas
+    - Adita Artigo 26.º-A — Acessibilidade da informação no ponto de acesso único europeu
 identifiers:
   celex: 32019L2162
   eli: http://data.europa.eu/eli/dir/2019/2162/oj
@@ -50,7 +73,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/63e9c933-2174-11ea-95ab-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/364e6d14-c57c-11ee-95d9-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019L2162-20240109
-  retrieved_at: '2026-10-22T03:19:09Z'
+  retrieved_at: '2026-10-22T17:07:51Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T19:24:18.788+01:00'
 integrity:
@@ -59,9 +82,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:09Z'
-  notes: Texto consolidado 02019L2162-20240109.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:51Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2019-2162.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -170,29 +193,19 @@ relationships:
   source: null
 article_structure:
   article_count: 35
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 21
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:09Z'
+  checked_at: '2026-10-22T17:07:51Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2019/2162 do Parlamento Europeu e do Conselho de 27 de novembro de 2019
-
-> 02019L2162 — PT — 09.01.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023L2864) — [DIRETIVA (UE) 2023/2864 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023L2864) — L — 1 — 20.12.2023
-
-## DIRETIVA (UE) 2019/2162 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 27 de novembro de 2019
 

@@ -37,6 +37,49 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-05'
+version_history:
+  file: diretiva-ue-2023-1791.versoes.json
+  count: 2
+  source_lastmod: '2026-08-05'
+  versions:
+  - date: '2023-09-20'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-08-05'
+    amending: eu:celex:32024L1788:por
+    amending_title: DIRETIVA (UE) 2024/1788 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Princípio da prioridade à eficiência energética
+    - Altera Artigo 7.º — Contratação pública
+    - Altera Artigo 9.º — Regimes de obrigação de eficiência energética
+    - Altera Artigo 21.º — Direitos contratuais básicos relativos ao aquecimento, ao arrefecimento e à água quente para uso
+      doméstico
+    - Altera Artigo 22.º — Informação e sensibilização
+    - Altera Artigo 25.º — Avaliação e planeamento do aquecimento e arrefecimento
+    - Altera Artigo 28.º — Disponibilidade de regimes de qualificação, acreditação e certificação
+    - Altera Artigo 30.º — Fundo nacional de eficiência energética, financiamento e apoio técnico
+    - Altera Artigo 37.º — Alteração do Regulamento (UE) 2023/955
+    - Altera Artigo 39.º — Entrada em vigor e aplicação
+    - Altera Tecnologias de cogeração abrangidas pela presente diretiva
+    - Altera MÉTODOS E PRINCÍPIOS COMUNS DE CÁLCULO DO IMPACTO DOS REGIMES DE OBRIGAÇÃO DE EFICIÊNCIA ENERGÉTICA OU DE OUTRAS
+      MEDIDAS POLÍTICAS, ESTABELECIDOS NOS TERMOS DOS ARTIGOS 8.º, 9.º E 10.º E DO ARTIGO 30.º, N.º 14
+    - Altera PANORÂMICA DO SETOR DO AQUECIMENTO E ARREFECIMENTO
+    - Altera ANÁLISE DO POTENCIAL ECONÓMICO DA EFICIÊNCIA NO AQUECIMENTO E ARREFECIMENTO
+    - Altera NOVAS ESTRATÉGIAS E MEDIDAS POLÍTICAS A PONDERAR
+    - Altera Notas
+    - Suprime Artigo 17.º — Informações sobre a faturação de gás natural
+    - Suprime Artigo 19.º — Custo do acesso às informações sobre contagem e faturação de gás natural
+    - Suprime ANEXO VIII
+    - Suprime REQUISITOS MÍNIMOS EM MATÉRIA DE FATURAÇÃO E INFORMAÇÕES SOBRE A FATURAÇÃO COM BASE NO CONSUMO EFETIVO DE GÁS
+      NATURAL
+    - Suprime 1. Requisitos mínimos em matéria de faturação
+    - Suprime 1.1. Faturação com base no consumo efetivo
+    - Suprime 1.2. Informações mínimas contidas na fatura
+    - Suprime 1.3. Conselhos em matéria de eficiência energética que acompanham as faturas e outras informações destinadas
+      aos clientes finais
 identifiers:
   celex: 32023L1791
   eli: http://data.europa.eu/eli/dir/2023/1791/oj
@@ -51,7 +94,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0e432499-5752-11ee-9220-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/4ffe3c6c-69b3-11f1-ae88-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023L1791-20260805
-  retrieved_at: '2026-10-22T02:49:35Z'
+  retrieved_at: '2026-10-22T17:16:28Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-28T21:32:20.265+01:00'
 integrity:
@@ -60,9 +103,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:35Z'
-  notes: Texto consolidado 02023L1791-20260805.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:28Z'
+  notes: 2 versão(ões); histórico completo em diretiva-ue-2023-1791.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -426,33 +469,19 @@ relationships:
   source: null
 article_structure:
   article_count: 38
-  section_count: 68
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 69
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:35Z'
+  checked_at: '2026-10-22T17:16:28Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2023/1791 do Parlamento Europeu e do Conselho de 13 de setembro de 2023
-
-> 02023L1791 — PT — 05.08.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024L1788) — [DIRETIVA (UE) 2024/1788 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024L1788) — L 1788 — 1 — 15.7.2024
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023L1791R%2804%29) — [Rectificação, JO L 90782, 3.10.2025, p. 1 (2023/1791)](http://publications.europa.eu/resource/celex/32023L1791R%2804%29)
-
-## DIRETIVA (UE) 2023/1791 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de setembro de 2023
 

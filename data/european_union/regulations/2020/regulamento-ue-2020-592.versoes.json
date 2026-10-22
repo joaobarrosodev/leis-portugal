@@ -1,0 +1,585 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32020R0592:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R0592-20211016",
+ "dre_path": null,
+ "source_lastmod": "2021-10-16",
+ "versions": [
+  {
+   "date": "2020-05-04",
+   "future": false,
+   "celex": "32020R0592",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "0b1d24a76d312e5e",
+    "226c39ffd0a88dad",
+    "537d99d68df39451",
+    "90aaa873e007776a",
+    "f0f8c960bfdbce9b",
+    "0a8ddaf8ebad2a1a",
+    "9b406af514eb9164",
+    "59b370f6aad3ec48",
+    "d1f3378db60c78af",
+    "25e6ce0cbb83c066",
+    "c842426a3ec8692f",
+    "c42c0c2b3cabd519",
+    "d50f265e47e85d5a",
+    "2e190598e2e68aeb",
+    "8690c9fbc4565b26",
+    "19426db68193b54a",
+    "087ed719b5d14b62",
+    "e5f4679ef3c9b57b",
+    "9d597d3534219cfc",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "5571268f506ef43e",
+    "ed8b44ad8dea5269"
+   ]
+  },
+  {
+   "date": "2020-09-14",
+   "future": false,
+   "celex": "02020R0592-20200914",
+   "acts": [
+    {
+     "id": "eu:celex:32020R1275:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2020/1275 DA COMISSÃO de 6 de julho de 2020",
+     "published": null,
+     "celex": "32020R1275"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 3.º — Destilação de vinho em caso de crise",
+    "Altera Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+    "Altera Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+    "Altera Artigo 11.º — Entrada em vigor",
+    "Altera Notas",
+    "Adita Artigo 1.º — Derrogações temporárias dos artigos 33.º, n.º 3, e 34.º, n.º 1, do Regulamento (UE) n.º 1308/2013",
+    "Adita Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+    "Adita Artigo 5.º-A — Derrogação do artigo 45.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+    "Suprime Artigo 1.º — Derrogação temporária do artigo 33.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+    "Suprime Artigo 2.º — Derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013"
+   ],
+   "fragments": [
+    "054e44acc424d9e0",
+    "226c39ffd0a88dad",
+    "537d99d68df39451",
+    "e74634577e106aa5",
+    "f0f8c960bfdbce9b",
+    "0a8ddaf8ebad2a1a",
+    "9b406af514eb9164",
+    "59b370f6aad3ec48",
+    "6226c83d71a00fcf",
+    "27bf9c09b6e01552",
+    "5800966d45d8c397",
+    "c42c0c2b3cabd519",
+    "d50f265e47e85d5a",
+    "2e190598e2e68aeb",
+    "f5bd4842daae35b6",
+    "09bd2889f045a57a",
+    "2735cf511260846e",
+    "3f8e52a0eaba686b",
+    "b5c5625527adf0c9",
+    "cc5a5e5d3007c36b",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "3e48da34bbc8c41a",
+    "70c488cfd7bbe05e"
+   ]
+  },
+  {
+   "date": "2020-10-16",
+   "future": false,
+   "celex": "02020R0592-20201016",
+   "acts": [
+    {
+     "id": "eu:celex:32021R0095:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2021/95 DA COMISSÃO de 28 de janeiro de 2021",
+     "published": null,
+     "celex": "32021R0095"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 3.º — Destilação de vinho em caso de crise",
+    "Altera Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "054e44acc424d9e0",
+    "226c39ffd0a88dad",
+    "537d99d68df39451",
+    "e74634577e106aa5",
+    "f0f8c960bfdbce9b",
+    "0a8ddaf8ebad2a1a",
+    "9b406af514eb9164",
+    "59b370f6aad3ec48",
+    "501728fa892f4644",
+    "b9ed63b2c8dd05d8",
+    "a594016301737052",
+    "c42c0c2b3cabd519",
+    "d50f265e47e85d5a",
+    "2e190598e2e68aeb",
+    "f5bd4842daae35b6",
+    "09bd2889f045a57a",
+    "b7b7ad7eea6a6484",
+    "207dad0b246d8551",
+    "3073bf0e55ce405e",
+    "91f73a371934ea00",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "3e48da34bbc8c41a",
+    "b06e8b323f603364"
+   ]
+  },
+  {
+   "date": "2021-10-16",
+   "future": false,
+   "celex": "02020R0592-20211016",
+   "acts": [
+    {
+     "id": "eu:celex:32021R2026:por",
+     "title": "REGULAMENTO DELEGADO (UE) 2021/2026 DA COMISSÃO de 13 de setembro de 2021",
+     "published": null,
+     "celex": "32021R2026"
+    }
+   ],
+   "changes": [
+    "Altera Artigo 3.º — Destilação de vinho em caso de crise",
+    "Altera Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+    "Altera Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+    "Altera Notas"
+   ],
+   "fragments": [
+    "054e44acc424d9e0",
+    "226c39ffd0a88dad",
+    "537d99d68df39451",
+    "e74634577e106aa5",
+    "f0f8c960bfdbce9b",
+    "0a8ddaf8ebad2a1a",
+    "9b406af514eb9164",
+    "59b370f6aad3ec48",
+    "501728fa892f4644",
+    "e48673d1165aba0c",
+    "a594016301737052",
+    "c42c0c2b3cabd519",
+    "d50f265e47e85d5a",
+    "2e190598e2e68aeb",
+    "f5bd4842daae35b6",
+    "09bd2889f045a57a",
+    "b7b7ad7eea6a6484",
+    "f02b6eee165afd8f",
+    "d8c09ba3d382c21a",
+    "ba9526cec1a01975",
+    "1e7a0903d2eed348",
+    "dde9cf53e9ae6c9a",
+    "3e48da34bbc8c41a",
+    "718f1d135cbea9fe"
+   ]
+  }
+ ],
+ "fragments": {
+  "0b1d24a76d312e5e": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de abril de 2020\n\nque estabelece medidas excecionais de caráter temporário em derrogação de certas disposições do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, para fazer face às perturbações do mercado nos setores hortofrutícola e vitivinícola causadas pela pandemia de Covid-19 e pelas medidas adotadas para a conter\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, de 17 de dezembro de 2013, que estabelece uma organização comum dos mercados dos produtos agrícolas e que revoga os Regulamentos (CEE) n.º 922/72, (CEE) n.º 234/79, (CE) n.º 1037/2001 e (CE) n.º 1234/2007 do Conselho [([^1])](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntr1-L_2020140PT.01000601-E0001), nomeadamente o artigo 219.º, n.º 1, em conjugação com o artigo 228.º,\n\nConsiderando o seguinte:\n\n(1) A atual pandemia de Covid-19 tem causado perturbações significativas nos mercados hortofrutícola e vitivinícola em toda a União. As medidas adotadas pelos Estados‐Membros para conter a pandemia, em especial as fortes restrições à circulação e as medidas de distanciamento social, causaram perturbações nas cadeias de abastecimento, o encerramento temporário de mercados importantes para os produtos dos setores hortofrutícola e vitivinícola, tanto ao nível grossista como retalhista, assim como no setor da restauração, nomeadamente o encerramento dos restaurantes, cantinas, bares e hotéis. Essas medidas têm igualmente causado problemas logísticos que afetam com particular gravidade estes dois setores. As medidas adotadas em virtude da pandemia de Covid-19 também criam dificuldades na colheita da fruta e dos produtos hortícolas e em todas as tarefas associadas à produção de vinho, dada a falta de mão-de-obra e a dificuldade em abastecer os consumidores, em virtude da perturbação das cadeias de abastecimento, da logística e do encerramento temporário dos principais mercados. Estas circunstâncias têm afetado gravemente os setores hortofrutícola e vitivinícola em toda a União. Os agricultores destes setores têm-se confrontado com dificuldades financeiras e problemas de liquidez.\n\n(2) Atendendo à duração das restrições impostas pelos Estados-Membros para conter a pandemia de Covid-19 e a sua provável manutenção em vigor, as perturbações a longo prazo das cadeias de abastecimento e da logística, assim como o forte impacto económico nos principais mercados dos setores hortofrutícola e vitivinícola, respetivamente, a nível grossista e retalhista e na restauração, a grave perturbação de ambos estes mercados e os seus efeitos são suscetíveis de persistir no tempo e de vir a agravar-se ainda mais.\n\n(3) Dada a perturbação do mercado e a combinação de circunstâncias inéditas, os agricultores de todos os Estados-Membros deparam-se com enormes dificuldades em matéria de planeamento e aplicação dos regimes de ajuda previstos nos artigos 32.º a 38.º do Regulamento (UE) n.º 1308/2013, no que se refere ao setor hortofrutícola, e nos artigos 39.º a 54.º do referido regulamento, no que se refere ao setor vitivinícola. Importa, por conseguinte, procurar atenuar essas dificuldades derrogando algumas dessas disposições.\n\n(4) As organizações de produtores e as associações de organizações de produtores reconhecidas podem aplicar, no âmbito dos seus programas operacionais aprovados, medidas de prevenção e gestão de crises no setor hortofrutícola, a fim de aumentar a resiliência às perturbações do mercado. Contudo, nos termos do artigo 33.º, n.º 3, quarto parágrafo, do Regulamento (UE) n.º 1308/2013, tais medidas de prevenção e gestão de crises não devem representar mais de um terço das despesas do programa operacional. A fim de proporcionar maior flexibilidade às organizações de produtores, permitindo-lhes concentrar os recursos no âmbito dos programas operacionais para enfrentar as perturbações do mercado causadas pelas medidas impostas em virtude da pandemia de Covid-19, essa regra não deve ser aplicada durante o ano de 2020.\n\n(5) Estima-se que o encerramento dos hotéis, bares e restaurantes afete diretamente 30 % dos volumes, correspondendo a 50 % do valor dos produtos vitivinícolas consumidos na União. Observa-se igualmente que o consumo de vinho no domicílio não tem compensado a diminuição do consumo no exterior. Além disso, deixaram de ser permitidas as celebrações e reuniões em que habitualmente se consome vinho, como as festas de aniversário ou os feriados nacionais. Existe igualmente o risco de as atividades turísticas e de enoturismo poderem não vir a ter lugar este verão. Por tudo isto, têm aumentado os excedentes de vinho no mercado. Por outro lado, a falta de mão-de-obra e as dificuldades logísticas causadas pela pandemia têm pressionado os viticultores e todo o setor vitivinícola. Os produtores de vinho enfrentam cada vez mais problemas com a próxima colheita: preços baixos, redução do consumo, dificuldades de transporte e de comercialização.\n\n(6) Ao mesmo tempo, o mercado vitivinícola da União já se tinha confrontado com condições desfavoráveis ao longo de 2019, tendo as existências atingido o seu nível mais elevado desde 2009. Esta evolução deve-se principalmente à combinação de uma colheita recorde em 2018 com a diminuição geral do consumo de vinho na União. Além disso, a imposição pelos EUA, principal mercado de exportação dos vinhos da União, de novos direitos de importação sobre os vinhos da UE repercutiu‐se nas exportações. A pandemia de Covid-19 veio dar novo golpe num setor já fragilizado e que não conseguia comercializar ou distribuir os seus produtos eficazmente, principalmente devido ao encerramento de alguns dos principais mercados de exportação e às medidas tomadas para garantir o isolamento e o confinamento, nomeadamente a interrupção de todas as atividades de restauração e a impossibilidade de abastecer os clientes habituais. As dificuldades sentidas no aprovisionamento dos fatores de produção essenciais, como as rolhas e garrafas necessárias à produção de vinho, também pressionam as atividades dos produtores, impedindo-os de comercializar o vinho pronto para venda.\n\n(7) Retirar do mercado da União uma parte do vinho que não está a ser comercializado e que não pode ser armazenado ajudaria a fazer face às graves perturbações sentidas no mercado vitivinícola. Consequentemente, deve ser temporariamente autorizada, enquanto medida elegível para apoio no âmbito dos programas de apoio ao setor vitivinícola, a destilação de vinho por motivos relacionados com a crise causada pela pandemia de Covid-19, a fim de ajudar a melhorar o desempenho económico dos produtores. A fim de prevenir distorções da concorrência, a utilização do álcool assim obtido deve ser excluída da indústria alimentar e das bebidas e limitar-se a fins industriais, nomeadamente produtos de desinfeção e fármacos, assim como a fins energéticos.\n\n(8) A concessão de ajuda ao armazenamento de vinho em situação de crise é outra medida que permitiria retirar temporariamente do mercado algum vinho, ajudando a gerir o regresso gradual a uma situação de mercado mais favorável. Por conseguinte, os auxílios ao armazenamento de vinho em situação de crise deverão ser considerados temporariamente elegíveis para beneficiar de apoio no âmbito dos programas de apoio ao setor vitivinícola. A fim de impedir que possa ser concedido apoio duas vezes à mesma quantidade de vinho retirada do mercado, os beneficiários do apoio a este tipo de armazenamento não poderão receber ajudas à destilação de vinho em caso de crise no âmbito dos programas de apoio ao setor vitivinícola nem beneficiar de subvenções nacionais à destilação de vinho em caso de crise.\n\n(9) A fim de ajudar os produtores a fazer face às atuais circunstâncias excecionais e dar resposta a esta situação imprevisível e precária, convém proporcionar maior flexibilidade na aplicação de certas medidas ao abrigo do Regulamento (UE) n.º 1308/2013.\n\n(10) Mais concretamente, a fim de permitir aos Estados-Membros apoiar os produtores mais gravemente afetados pela crise, importa derrogar o artigo 44.º, n.º 2, do Regulamento (UE) n.º 1308/2013 no que se refere à medida relativa aos fundos mutualistas a que se refere o artigo 48.º do regulamento, permitindo que as despesas incorridas ao abrigo de operações que se encontrem no quarto ano de execução em 2020 sejam elegíveis mesmo que tenham sido incorridas antes da apresentação pelo Estado-Membro do projeto de programa de apoio em causa. Isto permitiria aos Estados-Membros conceder apoio suplementar para cobrir os custos administrativos dos fundos mutualistas já criados durante mais 12 meses durante o exercício de 2020. De modo a proporcionar um apoio economicamente adequado, em derrogação do disposto no artigo 48.º, n.º 2, o apoio concedido deve ser não degressivo e corresponder ao financiamento concedido no terceiro ano de execução.\n\n(11) É também necessário, enquanto medida excecional, prever uma derrogação dos artigos 46.º, n.º 6, 47.º, n.º 1 e 3, 49.º, n.º 2, e 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013, aumentando temporariamente a contribuição máxima da União para as seguintes medidas: «reestruturação e reconversão de vinhas», «colheita em verde», «seguros de colheita» e «investimentos». Estas medidas temporárias mostram-se necessárias na medida em que, devido à pandemia de Covid-19, os produtores têm sofrido, e continuarão a sofrer, fortes perdas de rendimento, havendo igualmente custos adicionais resultantes das perturbações do mercado e da produção. O aumento da contribuição da União para as medidas em causa e a consequente redução da contribuição dos beneficiários poderia proporcionar a estes algum alívio financeiro.\n\n(12) A flexibilidade introduzida pelo aumento da contribuição da União representa uma forma de apoio financeiro que não implica qualquer financiamento adicional da União, uma vez que se continuam a aplicar os limites orçamentais previstos para os programas nacionais de apoio ao setor vitivinícola previstos no anexo VI do Regulamento (UE) n.º 1308/2013. Os Estados-Membros podem, por conseguinte, atribuir montantes mais elevados às medidas em causa unicamente no âmbito do orçamento anual previsto no referido anexo. Consequentemente, o aumento das taxas de financiamento visa, em primeiro lugar, apoiar o setor numa situação concreta de instabilidade do mercado, sem ser necessário mobilizar fundos adicionais.\n\n(13) O instrumento preventivo «seguro de colheita» é elegível para apoio ao abrigo dos programas de apoio ao setor vitivinícola, a fim de incentivar uma abordagem responsável das situações de crise. O artigo 49.º do Regulamento (UE) n.º 1308/2013 prevê que o apoio aos seguros de colheita contribua para salvaguardar os rendimentos dos produtores quando se registem prejuízos resultantes de catástrofes naturais, fenómenos climáticos adversos, doenças ou pragas. Atendendo às consequências dramáticas da pandemia de Covid-19 para os rendimentos dos produtores de vinho e dadas as dificuldades, por vezes insuperáveis, que surgiram em todas as fases da produção e comercialização de vinho, convém alargar o apoio da União de modo a cobrir os seguros de colheitas quando as perdas sejam consequência da pandemia. É igualmente adequado aumentar temporariamente a taxa de apoio da União para 60 % em tais casos, a fim de proporcionar algum alívio financeiro aos produtores.\n\n(14) A colheita em verde prevista no artigo 47.º do Regulamento (UE) n.º 1308/2013 é utilizada como medida de gestão do mercado quando se prevê uma produção excessiva de uvas. O referido artigo exige que, para poderem beneficiar do apoio da União, os cachos de uvas sejam destruídos ou removidos na totalidade da exploração. Nas circunstâncias atuais, os viticultores enfrentam dificuldades inéditas para mobilizar os trabalhadores necessários para uma operação tão complexa. Importa, por conseguinte, introduzir uma derrogação desta obrigação, autorizando a destruição ou remoção de cachos de uvas antes da maturação em apenas uma parte da exploração agrícola, desde que essa operação seja efetuada em parcelas inteiras.\n\n(15) Por imperativos de urgência, nomeadamente a atual perturbação do mercado, as suas graves consequências nos setores hortofrutícola e vitivinícola, assim como a provável continuação e eventual agravamento da situação, convém adotar, com caráter imediato e urgente, medidas para atenuar os seus efeitos negativos. O adiamento das medidas imediatamente necessárias para resolver as perturbações do mercado agravaria ainda mais as perturbações sentidas em ambos os setores, prejudicando a produção e as condições de mercado dos mesmos. Tendo em conta o que antecede, o presente regulamento deve ser adotado pelo procedimento de urgência previsto no artigo 228.º do Regulamento (UE) n.º 1308/2013.\n\n(16) Dada a necessidade de adotar medidas imediatas, o presente regulamento deve entrar em vigor no dia seguinte ao da sua publicação no Jornal Oficial da União Europeia,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "226c39ffd0a88dad": {
+   "fragment_id": "CAPÍTULO I",
+   "type": "divisao",
+   "heading": "CAPÍTULO I",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO I"
+  },
+  "537d99d68df39451": {
+   "fragment_id": "FRUTA E PRODUTOS HORTÍCOLAS",
+   "type": "divisao",
+   "heading": "FRUTA E PRODUTOS HORTÍCOLAS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### FRUTA E PRODUTOS HORTÍCOLAS"
+  },
+  "90aaa873e007776a": {
+   "fragment_id": "Artigo 1.º — Derrogação temporária do artigo 33.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Derrogação temporária do artigo 33.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Derrogação temporária do artigo 33.º, n.º 3, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 33.º, n.º 3, quarto parágrafo, do Regulamento (UE) n.º 1308/2013, o limite de um terço das despesas do programa operacional para as medidas de prevenção e gestão de crises referido nessa disposição não é aplicável em 2020."
+  },
+  "f0f8c960bfdbce9b": {
+   "fragment_id": "CAPÍTULO II",
+   "type": "divisao",
+   "heading": "CAPÍTULO II",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO II"
+  },
+  "0a8ddaf8ebad2a1a": {
+   "fragment_id": "VINHO",
+   "type": "divisao",
+   "heading": "VINHO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### VINHO"
+  },
+  "9b406af514eb9164": {
+   "fragment_id": "SECÇÃO 1",
+   "type": "divisao",
+   "heading": "SECÇÃO 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 1"
+  },
+  "59b370f6aad3ec48": {
+   "fragment_id": "Medidas de apoio durante a crise",
+   "type": "divisao",
+   "heading": "Medidas de apoio durante a crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Medidas de apoio durante a crise"
+  },
+  "d1f3378db60c78af": {
+   "fragment_id": "Artigo 2.º — Derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013, as medidas previstas nos artigos 3.º e 4.º do presente regulamento podem ser financiadas ao abrigo de programas de apoio ao setor vitivinícola durante o exercício financeiro de 2020."
+  },
+  "25e6ce0cbb83c066": {
+   "fragment_id": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destilação de vinho em caso de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio à destilação de vinho. Esse apoio deve ser proporcionado.\n\n2. A fim de prevenir distorções de concorrência, o álcool resultante da destilação apoiada nos termos do n.º 1 deverá ser utilizado exclusivamente para fins industriais, nomeadamente produtos de desinfeção ou fármacos, ou para fins energéticos.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, as organizações interprofissionais ou os destiladores de produtos vitivinícolas.\n\n4. Só beneficiam de apoio os custos do abastecimento de vinho aos destiladores e a destilação do mesmo.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6. Os Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá contemplar regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das disposições relativas às ações elegíveis e aos custos a que se refere o n.º 4, assim como dos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis.\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n7. Os Estados-Membros devem estabelecer o montante do apoio a conceder aos beneficiários com base em critérios objetivos e não discriminatórios.\n\n8. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais, nos termos das normas da União em matéria de auxílios estatais, para as medidas previstas no presente artigo.\n\n9. Os artigos 1.º e 2.º, o artigo 43.º, os artigos 48.º a 54.º e o artigo 56.º, do Regulamento Delegado (UE) n.º 2016/1149 da Comissão [([^2])](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntr2-L_2020140PT.01000601-E0002), assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, os artigos 25.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) n.º 2016/1150 da Comissão [([^3])](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntr3-L_2020140PT.01000601-E0003) aplicam-se *mutatis mutandis* ao apoio à destilação de vinho em caso de crise."
+  },
+  "c842426a3ec8692f": {
+   "fragment_id": "Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio ao armazenamento de vinho em situação de crise.\n\n2. Para impedir que possa ser concedido apoio duas vezes à mesma quantidade de vinho retirada do mercado, os beneficiários que recebam apoio a armazenamento em situação de crise para uma determinada quantidade de vinho não poderão receber apoio para essa mesma quantidade de vinho para destilação em caso de crise, a título do artigo 3.º do presente regulamento, ou pagamentos nacionais para a destilação de vinho em caso de crise, a título do artigo 216.º do Regulamento (UE) n.º 1308/2013.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, ou as organizações interprofissionais.\n\n4. Os Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá incluir regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das condições de apoio estabelecidas no presente artigo e das disposições relativas aos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis;\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, de modo a poder atribuir preferência a certos beneficiários, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6. Os Estados-Membros devem analisar os pedidos em função da descrição pormenorizada das ações propostas pelo requerente e dos prazos propostos para a sua execução.\n\n7. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais, nos termos das normas da União em matéria de auxílios estatais, para as medidas previstas no presente artigo.\n\n8. Os artigos 1.º e 2.º, o artigo 43.º, os artigos 48.º a 54.º e o artigo 56.º, do Regulamento Delegado (UE) n.º 2016/1149 da Comissão, assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, os artigos 25.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) n.º 2016/1150 da Comissão aplicam-se *mutatis mutandis* ao apoio ao armazenamento de vinho em situação de crise."
+  },
+  "c42c0c2b3cabd519": {
+   "fragment_id": "SECÇÃO 2",
+   "type": "divisao",
+   "heading": "SECÇÃO 2",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## SECÇÃO 2"
+  },
+  "d50f265e47e85d5a": {
+   "fragment_id": "Derrogações de medidas de apoio específicas",
+   "type": "divisao",
+   "heading": "Derrogações de medidas de apoio específicas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Derrogações de medidas de apoio específicas"
+  },
+  "2e190598e2e68aeb": {
+   "fragment_id": "Artigo 5.º — Derrogação dos artigos 44.º, n.º 2, e 48.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 5.º — Derrogação dos artigos 44.º, n.º 2, e 48.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º — Derrogação dos artigos 44.º, n.º 2, e 48.º, n.º 2, do Regulamento (UE) n.º 1308/2013\n\n1. Em derrogação do artigo 44.º, n.º 2, do Regulamento (UE) n.º 1308/2013, no exercício financeiro de 2020, pode ser concedido apoio à criação dos fundos mutualistas a que se refere o artigo 48.º do mesmo regulamento para as despesas incorridas antes da apresentação dos projetos de programas de apoio pertinentes relativamente a operações que, em 2019, tenham terminado o seu terceiro ano de execução.\n\n2. Em derrogação do artigo 48.º, n.º 2, do Regulamento (UE) n.º 1308/2013, o apoio à criação de fundos mutualistas em relação a operações que, em 2019, tenham terminado o seu terceiro ano de execução pode ser concedido sob a forma de uma ajuda não degressiva para cobrir os custos administrativos dos fundos, devendo ser equivalente ao financiamento concedido no terceiro ano de execução."
+  },
+  "8690c9fbc4565b26": {
+   "fragment_id": "Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013, a contribuição da União para os custos reais de reestruturação e reconversão de vinhas não pode exceder 60 %. Nas regiões menos desenvolvidas, a contribuição da União para os custos de reestruturação e reconversão não pode exceder 80 %."
+  },
+  "19426db68193b54a": {
+   "fragment_id": "Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013\n\n1. Em derrogação do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013, durante o ano de 2020, entende-se por «colheita em verde» a destruição ou remoção total dos cachos de uvas antes da maturação, em toda a exploração ou apenas parte dela, desde que a colheita em verde seja efetuada em parcelas inteiras.\n\n2. Em derrogação do artigo 47.º, n.º 3, segundo período, do Regulamento (UE) n.º 1308/2013, o apoio concedido à colheita em verde não pode exceder 60 % da soma dos custos diretos da destruição ou remoção dos cachos de uvas e da perda de receitas relacionadas com essa destruição ou remoção."
+  },
+  "087ed719b5d14b62": {
+   "fragment_id": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 49.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013, a participação financeira da União no apoio aos seguros de colheitas não pode exceder 60 % do custo dos prémios pagos pelos produtores por seguros contraídos contra:\n\na) os prejuízos a que se refere o artigo 49.º, n.º 2, alínea a), do Regulamento (UE) n.º 1308/2013 e outros prejuízos causados por fenómenos climáticos adversos;\n\nb) os prejuízos causados por animais, doenças das plantas ou pragas;\n\nc) os prejuízos causados por uma pandemia humana."
+  },
+  "e5f4679ef3c9b57b": {
+   "fragment_id": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013, são aplicáveis à contribuição da União as seguintes taxas de ajuda máximas para os custos de investimento elegíveis:\n\na) 60 % nas regiões menos desenvolvidas;\n\nb) 50 % nas regiões que não sejam regiões menos desenvolvidas;\n\nc) 80 % nas regiões ultraperiféricas referidas no artigo 349.º do Tratado;\n\nd) 75 % nas ilhas menores do mar Egeu, definidas no artigo 1.º, n.º 2, do Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho [([^4])](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntr4-L_2020140PT.01000601-E0004)."
+  },
+  "9d597d3534219cfc": {
+   "fragment_id": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação do aumento temporário da contribuição da União\n\nOs artigos 6.º, 7.º, n.º 2, 8.º e 9.º são aplicáveis às operações selecionadas pelas autoridades competentes dos Estados-Membros a partir da data de entrada em vigor do presente regulamento e, o mais tardar, em 15 de outubro de 2020."
+  },
+  "1e7a0903d2eed348": {
+   "fragment_id": "CAPÍTULO III",
+   "type": "divisao",
+   "heading": "CAPÍTULO III",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## CAPÍTULO III"
+  },
+  "dde9cf53e9ae6c9a": {
+   "fragment_id": "DISPOSIÇÕES FINAIS",
+   "type": "divisao",
+   "heading": "DISPOSIÇÕES FINAIS",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### DISPOSIÇÕES FINAIS"
+  },
+  "5571268f506ef43e": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 30 de abril de 2020.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "ed8b44ad8dea5269": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntc1-L_2020140PT.01000601-E0001) [JO L 347 de 20.12.2013, p. 671](http://publications.europa.eu/resource/oj/JOL_2013_347_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntc2-L_2020140PT.01000601-E0002) Regulamento Delegado (UE) 2016/1149 da Comissão, de 15 de abril de 2016, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito aos programas de apoio nacionais no setor vitivinícola e que altera o Regulamento (CE) n.º 555/2008 da Comissão ([JO L 190 de 15.7.2016, p. 1](http://publications.europa.eu/resource/oj/JOL_2016_190_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntc3-L_2020140PT.01000601-E0003) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola ([JO L 190 de 15.7.2016, p. 23](http://publications.europa.eu/resource/oj/JOL_2016_190_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/fa04223c-8dea-11ea-812f-01aa75ed71a1.0018.02/DOC_1#ntc4-L_2020140PT.01000601-E0004) Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio agrícola a favor das ilhas menores do mar Egeu e revoga o Regulamento (CE) n.º 1405/2006 do Conselho ([JO L 78 de 20.3.2013, p. 41](http://publications.europa.eu/resource/oj/JOL_2013_078_R_TOC))."
+  },
+  "054e44acc424d9e0": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 30 de abril de 2020\n\nque estabelece medidas excecionais de caráter temporário em derrogação de certas disposições do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho, para fazer face às perturbações do mercado nos setores hortofrutícola e vitivinícola causadas pela pandemia de Covid-19 e pelas medidas adotadas para a conter"
+  },
+  "e74634577e106aa5": {
+   "fragment_id": "Artigo 1.º — Derrogações temporárias dos artigos 33.º, n.º 3, e 34.º, n.º 1, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Derrogações temporárias dos artigos 33.º, n.º 3, e 34.º, n.º 1, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Derrogações temporárias dos artigos 33.º, n.º 3, e 34.º, n.º 1, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 33.º, n.º 3, quarto parágrafo, do Regulamento (UE) n.º 1308/2013, o limite de um terço das despesas do programa operacional para as medidas de prevenção e gestão de crises referido nessa disposição não é aplicável em 2020.\n\nEm derrogação do artigo 34.º, n.º 1, do Regulamento (UE) n.º 1308/2013, a assistência financeira da União para o fundo operacional em 2020 não pode exceder o montante da contribuição financeira da União para os fundos operacionais aprovados pelos Estados-Membros para este ano e será limitada a 70% das despesas efetivamente suportadas."
+  },
+  "6226c83d71a00fcf": {
+   "fragment_id": "Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013, as medidas previstas nos artigos 3.º e 4.º do presente regulamento podem ser financiadas ao abrigo de programas de apoio ao setor vitivinícola através de adiantamentos ou pagamentos durante o exercício financeiro de 2020."
+  },
+  "27bf9c09b6e01552": {
+   "fragment_id": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destilação de vinho em caso de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio à destilação de vinho. Esse apoio deve ser proporcionado.\n\n2. A fim de prevenir distorções de concorrência, o álcool resultante da destilação apoiada nos termos do n.º 1 deverá ser utilizado exclusivamente para fins industriais, nomeadamente produtos de desinfeção ou fármacos, ou para fins energéticos.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, as organizações interprofissionais ou os destiladores de produtos vitivinícolas.\n\n4. Só beneficiam de apoio os custos do abastecimento de vinho aos destiladores e a destilação do mesmo.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6. Os Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá contemplar regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das disposições relativas às ações elegíveis e aos custos a que se refere o n.º 4, assim como dos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis.\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n7. Os Estados-Membros devem estabelecer o montante do apoio a conceder aos beneficiários com base em critérios objetivos e não discriminatórios.\n\n7-A. Os beneficiários de apoio ao abrigo do presente artigo podem solicitar aos organismos pagadores competentes o pagamento de um adiantamento, se essa opção estiver prevista no programa de apoio nacional em conformidade com o artigo 49.º do Regulamento Delegado (UE) 2016/1149 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#E0001)). O montante dos adiantamentos será de 100% da contribuição da União. Para que o adiantamento seja pago, o beneficiário terá de constituir previamente uma garantia bancária ou uma caução equivalente em favor do Estado-Membro envolvido num montante pelo menos igual a 110% do adiantamento, em conformidade com o capítulo IV do Regulamento Delegado (UE) n.º 907/2014 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#E0002)). A garantia deve ser libertada assim que o organismo pagador competente determinar que o montante das despesas reais correspondentes à contribuição da União para as operações em causa atingiu o montante do adiantamento.\n\n8. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais adicionais para as medidas previstas no presente artigo.\n\n9. Os artigos 1.º e 2.º, o artigo 43.º e os artigos 48.º a 54.º e o artigo 56.º do Regulamento Delegado (UE) 2016/1149, assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, o artigo 25.º, os artigos 27.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) 2016/1150 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#E0003)) aplicam-se *mutatis mutandis* ao apoio à destilação de vinho em caso de crise."
+  },
+  "5800966d45d8c397": {
+   "fragment_id": "Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio ao armazenamento de vinho em situação de crise.\n\n2. Para impedir que possa ser concedido apoio duas vezes à mesma quantidade de vinho retirada do mercado, os beneficiários que recebam apoio a armazenamento em situação de crise para uma determinada quantidade de vinho não poderão receber apoio para essa mesma quantidade de vinho para destilação em caso de crise, a título do artigo 3.º do presente regulamento, ou pagamentos nacionais para a destilação de vinho em caso de crise, a título do artigo 216.º do Regulamento (UE) n.º 1308/2013.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, ou as organizações interprofissionais.\n\n4. Os Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá incluir regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das condições de apoio estabelecidas no presente artigo e das disposições relativas aos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis;\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, de modo a poder atribuir preferência a certos beneficiários, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6. Os Estados-Membros devem analisar os pedidos em função da descrição pormenorizada das ações propostas pelo requerente e dos prazos propostos para a sua execução.\n\n6-A. Os beneficiários de apoio ao abrigo do presente artigo podem solicitar aos organismos pagadores competentes o pagamento de um adiantamento, se essa opção estiver prevista no programa de apoio nacional em conformidade com o artigo 49.º do Regulamento Delegado (UE) 2016/1149. O montante dos adiantamentos será de 100% da contribuição da União. Para que o adiantamento seja pago, o beneficiário terá de constituir previamente uma garantia bancária ou uma caução equivalente em favor do Estado-Membro envolvido num montante pelo menos igual a 110% do adiantamento, em conformidade com o capítulo IV do Regulamento Delegado (UE) n.º 907/2014. A garantia deve ser libertada assim que o organismo pagador competente determinar que o montante das despesas reais correspondentes à contribuição da União para as operações em causa atingiu o montante do adiantamento.\n\n7. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais adicionais para as medidas previstas no presente artigo.\n\n8. Os artigos 1.º e 2.º, o artigo 43.º e os artigos 48.º a 54.º e o artigo 56.º do Regulamento Delegado (UE) 2016/1149, assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, o artigo 25.º, os artigos 27.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) 2016/1150 da Comissão aplicam-se *mutatis mutandis* ao apoio ao armazenamento de vinho em situação de crise."
+  },
+  "f5bd4842daae35b6": {
+   "fragment_id": "Artigo 5.º-A — Derrogação do artigo 45.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 5.º-A — Derrogação do artigo 45.º, n.º 3, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º-A — Derrogação do artigo 45.º, n.º 3, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 45.º, n.º 3, do Regulamento (UE) n.º 1308/2013, a contribuição da União para as medidas de informação ou promoção não pode exceder 70% das despesas elegíveis."
+  },
+  "09bd2889f045a57a": {
+   "fragment_id": "Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 6.º — Derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 46.º, n.º 6, do Regulamento (UE) n.º 1308/2013, a contribuição da União para os custos reais de reestruturação e reconversão de vinhas não pode exceder 70%. Nas regiões menos desenvolvidas, a contribuição da União para os custos de reestruturação e reconversão não pode exceder 90%."
+  },
+  "2735cf511260846e": {
+   "fragment_id": "Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013\n\n1. Em derrogação do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013, durante o ano de 2020, entende-se por «colheita em verde» a destruição ou remoção total dos cachos de uvas antes da maturação, em toda a exploração ou apenas parte dela, desde que a colheita em verde seja efetuada em parcelas inteiras.\n\n2. Em derrogação do artigo 47.º, n.º 3, segundo período, do Regulamento (UE) n.º 1308/2013, o apoio concedido à colheita em verde não pode exceder 70% da soma dos custos diretos da destruição ou remoção dos cachos de uvas e da perda de receitas relacionadas com essa destruição ou remoção."
+  },
+  "3f8e52a0eaba686b": {
+   "fragment_id": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013\n\n[**►M1**](http://publications.europa.eu/resource/celex/32020R1275) Em derrogação do artigo 49.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013, a participação financeira da União no apoio aos seguros de colheitas não pode exceder 70% do custo dos prémios pagos pelos produtores por seguros contraídos contra:**◄**\n\na) os prejuízos a que se refere o artigo 49.º, n.º 2, alínea a), do Regulamento (UE) n.º 1308/2013 e outros prejuízos causados por fenómenos climáticos adversos;\n\nb) os prejuízos causados por animais, doenças das plantas ou pragas;\n\nc) os prejuízos causados por uma pandemia humana."
+  },
+  "b5c5625527adf0c9": {
+   "fragment_id": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013, são aplicáveis à contribuição da União as seguintes taxas de ajuda máximas para os custos de investimento elegíveis:\n\na) 70% nas regiões menos desenvolvidas;\n\nb) 60% nas regiões que não sejam regiões menos desenvolvidas;\n\nc) 90% nas regiões ultraperiféricas referidas no artigo 349.º do Tratado;\n\nd) 85% nas ilhas menores do mar Egeu, como definidas no artigo 1.º, n.º 2, do Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#E0004))."
+  },
+  "cc5a5e5d3007c36b": {
+   "fragment_id": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação do aumento temporário da contribuição da União\n\nOs artigos 5.º-A, 6.º, 7.º, n.º 2, 8.º e 9.º são aplicáveis às operações selecionadas pelas autoridades competentes dos Estados-Membros a partir da data de entrada em vigor do presente regulamento e, o mais tardar, em 15 de outubro de 2020."
+  },
+  "3e48da34bbc8c41a": {
+   "fragment_id": "Artigo 11.º — Entrada em vigor",
+   "type": "artigo",
+   "heading": "Artigo 11.º — Entrada em vigor",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 11.º — Entrada em vigor\n\nO presente regulamento entra em vigor no dia da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\n---"
+  },
+  "70c488cfd7bbe05e": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Regulamento Delegado (UE) 2016/1149 da Comissão, de 15 de abril de 2016, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito aos programas de apoio nacionais no setor vitivinícola e que altera o Regulamento (CE) n.º 555/2008 da Comissão (JO L 190 de 15.7.2016, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#src.E0002)) Regulamento Delegado (UE) n.º 907/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro (JO L 255 de 28.8.2014, p. 18).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#src.E0003)) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola (JO L 190 de 15.7.2016, p. 23).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/7a2c02b4-0291-11eb-8919-01aa75ed71a1.0019.03/DOC_1#src.E0004)) Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio agrícola a favor das ilhas menores do mar Egeu e revoga o Regulamento (CE) n.º 1405/2006 do Conselho (JO L 78 de 20.3.2013, p. 41)."
+  },
+  "501728fa892f4644": {
+   "fragment_id": "Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Derrogações do artigo 43.º do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 43.º do Regulamento (UE) n.º 1308/2013, as medidas previstas nos artigos 3.º e 4.º do presente regulamento podem ser financiadas ao abrigo de programas de apoio ao setor vitivinícola por meio de adiantamentos ou pagamentos durante os exercícios financeiros de 2020 e 2021."
+  },
+  "b9ed63b2c8dd05d8": {
+   "fragment_id": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destilação de vinho em caso de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio à destilação de vinho. Esse apoio deve ser proporcionado.\n\n2. A fim de prevenir distorções de concorrência, o álcool resultante da destilação apoiada nos termos do n.º 1 deverá ser utilizado exclusivamente para fins industriais, nomeadamente produtos de desinfeção ou fármacos, ou para fins energéticos.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, as organizações interprofissionais ou os destiladores de produtos vitivinícolas.\n\n4. Só beneficiam de apoio os custos do abastecimento de vinho aos destiladores e a destilação do mesmo.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6.\n\nOs Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá contemplar regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das disposições relativas às ações elegíveis e aos custos a que se refere o n.º 4, assim como dos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis.\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n7. Os Estados-Membros devem estabelecer o montante do apoio a conceder aos beneficiários com base em critérios objetivos e não discriminatórios.\n\n7-A. Os beneficiários de apoio ao abrigo do presente artigo podem solicitar aos organismos pagadores competentes o pagamento de um adiantamento, se essa opção estiver prevista no programa de apoio nacional em conformidade com o artigo 49.º do Regulamento Delegado (UE) 2016/1149 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0001)). O montante dos adiantamentos será de 100% da contribuição da União. Para que o adiantamento seja pago, o beneficiário terá de constituir previamente uma garantia bancária ou uma caução equivalente em favor do Estado-Membro envolvido num montante pelo menos igual a 110% do adiantamento, em conformidade com o capítulo IV do Regulamento Delegado (UE) n.º 907/2014 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0002)). A garantia deve ser libertada assim que o organismo pagador competente determinar que o montante das despesas reais correspondentes à contribuição da União para as operações em causa atingiu o montante do adiantamento.\n\n8. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais adicionais para as medidas previstas no presente artigo.\n\n9. Os artigos 1.º e 2.º, o artigo 43.º e os artigos 48.º a 54.º e o artigo 56.º do Regulamento Delegado (UE) 2016/1149, assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, o artigo 25.º, os artigos 27.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) 2016/1150 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0003)) aplicam-se *mutatis mutandis* ao apoio à destilação de vinho em caso de crise."
+  },
+  "a594016301737052": {
+   "fragment_id": "Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+   "type": "artigo",
+   "heading": "Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º — Apoio ao armazenamento de vinho em situação de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio ao armazenamento de vinho em situação de crise.\n\n2. Para impedir que possa ser concedido apoio duas vezes à mesma quantidade de vinho retirada do mercado, os beneficiários que recebam apoio a armazenamento em situação de crise para uma determinada quantidade de vinho não poderão receber apoio para essa mesma quantidade de vinho para destilação em caso de crise, a título do artigo 3.º do presente regulamento, ou pagamentos nacionais para a destilação de vinho em caso de crise, a título do artigo 216.º do Regulamento (UE) n.º 1308/2013.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, ou as organizações interprofissionais.\n\n4.\n\nOs Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá incluir regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das condições de apoio estabelecidas no presente artigo e das disposições relativas aos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis;\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, de modo a poder atribuir preferência a certos beneficiários, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6. Os Estados-Membros devem analisar os pedidos em função da descrição pormenorizada das ações propostas pelo requerente e dos prazos propostos para a sua execução.\n\n6-A. Os beneficiários de apoio ao abrigo do presente artigo podem solicitar aos organismos pagadores competentes o pagamento de um adiantamento, se essa opção estiver prevista no programa de apoio nacional em conformidade com o artigo 49.º do Regulamento Delegado (UE) 2016/1149. O montante dos adiantamentos será de 100% da contribuição da União. Para que o adiantamento seja pago, o beneficiário terá de constituir previamente uma garantia bancária ou uma caução equivalente em favor do Estado-Membro envolvido num montante pelo menos igual a 110% do adiantamento, em conformidade com o capítulo IV do Regulamento Delegado (UE) n.º 907/2014. A garantia deve ser libertada assim que o organismo pagador competente determinar que o montante das despesas reais correspondentes à contribuição da União para as operações em causa atingiu o montante do adiantamento.\n\n7. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais adicionais para as medidas previstas no presente artigo.\n\n8. Os artigos 1.º e 2.º, o artigo 43.º e os artigos 48.º a 54.º e o artigo 56.º do Regulamento Delegado (UE) 2016/1149, assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, o artigo 25.º, os artigos 27.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) 2016/1150 da Comissão aplicam-se *mutatis mutandis* ao apoio ao armazenamento de vinho em situação de crise."
+  },
+  "b7b7ad7eea6a6484": {
+   "fragment_id": "Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 7.º — Derrogação do artigo 47.º, n.^os^ 1 e 3, do Regulamento (UE) n.º 1308/2013\n\n1. Em derrogação do artigo 47.º, n.º 1, do Regulamento (UE) n.º 1308/2013, durante os anos de 2020 e 2021, entende-se por «colheita em verde» a destruição ou remoção total dos cachos de uvas antes da maturação, em toda a exploração ou apenas parte dela, desde que a colheita em verde seja efetuada em parcelas inteiras.\n\n2. Em derrogação do artigo 47.º, n.º 3, segundo período, do Regulamento (UE) n.º 1308/2013, o apoio concedido à colheita em verde não pode exceder 70% da soma dos custos diretos da destruição ou remoção dos cachos de uvas e da perda de receitas relacionadas com essa destruição ou remoção."
+  },
+  "207dad0b246d8551": {
+   "fragment_id": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 49.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013, a participação financeira da União no apoio aos seguros de colheitas não pode exceder 70% do custo dos prémios pagos pelos produtores por seguros contraídos contra:\n\na) os prejuízos a que se refere o artigo 49.º, n.º 2, alínea a), do Regulamento (UE) n.º 1308/2013 e outros prejuízos causados por fenómenos climáticos adversos;\n\nb) os prejuízos causados por animais, doenças das plantas ou pragas;\n\nc) os prejuízos causados por uma pandemia humana."
+  },
+  "3073bf0e55ce405e": {
+   "fragment_id": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013, são aplicáveis à contribuição da União as seguintes taxas de ajuda máximas para os custos de investimento elegíveis:\n\na) 70% nas regiões menos desenvolvidas;\n\nb) 60% nas regiões que não sejam regiões menos desenvolvidas;\n\nc) 90% nas regiões ultraperiféricas referidas no artigo 349.º do Tratado;\n\nd) 85% nas ilhas menores do mar Egeu, como definidas no artigo 1.º, n.º 2, do Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#E0004))."
+  },
+  "91f73a371934ea00": {
+   "fragment_id": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação do aumento temporário da contribuição da União\n\nOs artigos 5.º-A e 6.º, o artigo 7.º, n.º 2, e os artigos 8.º e 9.° são aplicáveis às operações selecionadas pelas autoridades competentes dos Estados-Membros desde a data de entrada em vigor do presente regulamento até, o mais tardar, 15 de outubro de 2021."
+  },
+  "b06e8b323f603364": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0001)) Regulamento Delegado (UE) 2016/1149 da Comissão, de 15 de abril de 2016, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito aos programas de apoio nacionais no setor vitivinícola e que altera o Regulamento (CE) n.º 555/2008 da Comissão (JO L 190 de 15.7.2016, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0002)) Regulamento Delegado (UE) n.º 907/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro (JO L 255 de 28.8.2014, p. 18).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0003)) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola (JO L 190 de 15.7.2016, p. 23).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/41790828-708e-11eb-9ac9-01aa75ed71a1.0019.02/DOC_1#src.E0004)) Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio agrícola a favor das ilhas menores do mar Egeu e revoga o Regulamento (CE) n.º 1405/2006 do Conselho (JO L 78 de 20.3.2013, p. 41)."
+  },
+  "e48673d1165aba0c": {
+   "fragment_id": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Destilação de vinho em caso de crise",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Destilação de vinho em caso de crise\n\n1. Em conformidade com as condições estabelecidas no presente artigo, pode ser concedido apoio à destilação de vinho. Esse apoio deve ser proporcionado.\n\n2. A fim de prevenir distorções de concorrência, o álcool resultante da destilação apoiada nos termos do n.º 1 deverá ser utilizado exclusivamente para fins industriais, nomeadamente produtos de desinfeção ou fármacos, ou para fins energéticos.\n\n3. Os beneficiários do apoio referido no n.º 1 são as empresas vitivinícolas que produzem ou comercializam os produtos referidos no anexo VII, parte II, do Regulamento (UE) n.º 1308/2013, as organizações de produtores de vinho, as associações de dois ou mais produtores, as organizações interprofissionais ou os destiladores de produtos vitivinícolas.\n\n4. Só beneficiam de apoio os custos do abastecimento de vinho aos destiladores e a destilação do mesmo.\n\n5. Os Estados-Membros podem estabelecer critérios de prioridade, indicando-os no programa de apoio. Esses critérios devem basear-se na estratégia e objetivos específicos estabelecidos no programa de apoio, devendo ser objetivos e não discriminatórios.\n\n6.\n\nOs Estados-Membros devem definir o procedimento aplicável ao pedido de apoio a que se refere o n.º 1, que deverá contemplar regras sobre:\n\na) as pessoas singulares e coletivas que podem apresentar pedidos;\n\nb) a apresentação e a seleção de candidaturas, em que se indiquem, no mínimo, os prazos para a sua apresentação, para a apreciação da adequação de cada ação proposta e para a comunicação dos resultados do procedimento de seleção aos operadores;\n\nc) a verificação do cumprimento das disposições relativas às ações elegíveis e aos custos a que se refere o n.º 4, assim como dos critérios de prioridade, se aplicáveis;\n\nd) a seleção das candidaturas, incluindo, no mínimo, a ponderação atribuída aos critérios de prioridade, se aplicáveis.\n\ne) o pagamento de adiantamentos e a constituição de garantias.\n\n7. Os Estados-Membros devem estabelecer o montante do apoio a conceder aos beneficiários com base em critérios objetivos e não discriminatórios.\n\n7-A. Os beneficiários de apoio ao abrigo do presente artigo podem solicitar aos organismos pagadores competentes o pagamento de um adiantamento, se essa opção estiver prevista no programa de apoio nacional em conformidade com o artigo 49.º do Regulamento Delegado (UE) 2016/1149 da Comissão ([^1^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#E0001)). O montante dos adiantamentos será de 100% da contribuição da União. Para que o adiantamento seja pago, o beneficiário terá de constituir previamente uma garantia bancária ou uma caução equivalente em favor do Estado-Membro envolvido num montante pelo menos igual a 110% do adiantamento, em conformidade com o capítulo IV do Regulamento Delegado (UE) n.º 907/2014 da Comissão ([^2^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#E0002)). A garantia deve ser libertada assim que o organismo pagador competente determinar que o montante das despesas reais correspondentes à contribuição da União para as operações em causa atingiu o montante do adiantamento.\n\n8. Em derrogação do artigo 44.º, n.º 3, do Regulamento (UE) n.º 1308/2013, os Estados-Membros podem conceder pagamentos nacionais adicionais para as medidas previstas no presente artigo.\n\n9. Os artigos 1.º e 2.º, o artigo 43.º e os artigos 48.º a 54.º e o artigo 56.º do Regulamento Delegado (UE) 2016/1149, assim como os artigos 1.º, 2.º e 3.º, os artigos 19.º a 23.º, o artigo 25.º, os artigos 27.º a 31.º, o artigo 32.º, n.º 1, segundo parágrafo, e os artigos 33.º a 40.º do Regulamento de Execução (UE) 2016/1150 da Comissão ([^3^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#E0003)) aplicam-se *mutatis mutandis* ao apoio à destilação de vinho em caso de crise."
+  },
+  "f02b6eee165afd8f": {
+   "fragment_id": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 8.º — Derrogação do artigo 49.º, n.º 2, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 49.º, n.º 2, alínea b), do Regulamento (UE) n.º 1308/2013, no caso das operações selecionadas entre 4 de maio de 2020 e 15 de outubro de 2021, a participação financeira da União no apoio aos seguros de colheitas não pode exceder 70% do custo dos prémios pagos pelos produtores por seguros contraídos contra:\n\na) os prejuízos a que se refere o artigo 49.º, n.º 2, alínea a), do Regulamento (UE) n.º 1308/2013 e outros prejuízos causados por fenómenos climáticos adversos;\n\nb) os prejuízos causados por animais, doenças das plantas ou pragas;\n\nc) os prejuízos causados por uma pandemia humana.\n\nNo caso das operações selecionadas entre 16 de outubro de 2021 e 15 de outubro de 2023, a participação financeira da União no apoio aos seguros de colheitas não pode exceder 80% do custo desses prémios."
+  },
+  "d8c09ba3d382c21a": {
+   "fragment_id": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "type": "artigo",
+   "heading": "Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 9.º — Derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013\n\nEm derrogação do artigo 50.º, n.º 4, do Regulamento (UE) n.º 1308/2013, são aplicáveis à contribuição da União as seguintes taxas de ajuda máximas para os custos de investimento elegíveis:\n\na) 70% nas regiões menos desenvolvidas;\n\nb) 60% nas regiões que não sejam regiões menos desenvolvidas;\n\nc) 90% nas regiões ultraperiféricas referidas no artigo 349.º do Tratado;\n\nd) 85% nas ilhas menores do mar Egeu, como definidas no artigo 1.º, n.º 2, do Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho ([^4^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#E0004))."
+  },
+  "ba9526cec1a01975": {
+   "fragment_id": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "type": "artigo",
+   "heading": "Artigo 10.º — Aplicação do aumento temporário da contribuição da União",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 10.º — Aplicação do aumento temporário da contribuição da União\n\nO artigo 5.º-A, o artigo 6.º, o artigo 7.º, n.º 2, e o artigo 9.º são aplicáveis às operações selecionadas pelas autoridades competentes dos Estados-Membros desde a data de entrada em vigor do presente regulamento até, o mais tardar, 15 de outubro de 2022."
+  },
+  "718f1d135cbea9fe": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#src.E0001)) Regulamento Delegado (UE) 2016/1149 da Comissão, de 15 de abril de 2016, que complementa o Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que diz respeito aos programas de apoio nacionais no setor vitivinícola e que altera o Regulamento (CE) n.º 555/2008 da Comissão (JO L 190 de 15.7.2016, p. 1).\n\n> ([^2^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#src.E0002)) Regulamento Delegado (UE) n.º 907/2014 da Comissão, de 11 de março de 2014, que completa o Regulamento (UE) n.º 1306/2013 do Parlamento Europeu e do Conselho no que se refere aos organismos pagadores e outros organismos, à gestão financeira, ao apuramento das contas, às garantias e à utilização do euro (JO L 255 de 28.8.2014, p. 18).\n\n> ([^3^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#src.E0003)) Regulamento de Execução (UE) 2016/1150 da Comissão, de 15 de abril de 2016, que estabelece as normas de execução do Regulamento (UE) n.º 1308/2013 do Parlamento Europeu e do Conselho no que se refere aos programas de apoio nacionais ao setor vitivinícola (JO L 190 de 15.7.2016, p. 23).\n\n> ([^4^](http://publications.europa.eu/resource/cellar/b9b2b702-5d1b-11ec-9c6c-01aa75ed71a1.0021.02/DOC_2#src.E0004)) Regulamento (UE) n.º 229/2013 do Parlamento Europeu e do Conselho, de 13 de março de 2013, que estabelece medidas específicas no domínio agrícola a favor das ilhas menores do mar Egeu e revoga o Regulamento (CE) n.º 1405/2006 do Conselho (JO L 78 de 20.3.2013, p. 41)."
+  }
+ }
+}

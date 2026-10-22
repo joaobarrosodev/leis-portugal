@@ -38,6 +38,141 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-19'
+version_history:
+  file: regulamento-ue-2019-627.versoes.json
+  count: 6
+  source_lastmod: '2026-07-19'
+  versions:
+  - date: '2021-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-10-14'
+    amending: eu:celex:32021R1709:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1709 DA COMISSÃO de 23 de setembro de 2021
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos que devem ser objeto de auditoria
+    - Altera Artigo 10.º — Obrigações do veterinário oficial no que se refere aos controlos dos documentos
+    - Altera Artigo 13.º — Derrogação relativa ao prazo da inspeção post mortem
+    - Altera Artigo 18.º — Bovinos jovens
+    - Altera Artigo 19.º — Outros bovinos
+    - Altera Artigo 20.º — Ovinos e caprinos domésticos jovens e ovinos sem incisivos definitivos
+    - Altera Artigo 21.º — Outros ovinos e caprinos domésticos
+    - Altera Artigo 22.º — Solípedes domésticos
+    - Altera Artigo 23.º — Suínos domésticos
+    - Altera Artigo 24.º — Indicações de possíveis riscos para a saúde humana, a saúde animal ou o bem-estar dos animais em
+      bovinos domésticos, ovinos e caprinos domésticos, solípedes domésticos e suínos domésticos
+    - Altera Artigo 27.º — Disposições práticas para a inspeção post mortem de caça de criação
+    - Altera Artigo 35.º — Disposições práticas para os controlos oficiais das salmonelas
+    - Altera Artigo 39.º — Medidas relativas à comunicação dos resultados dos controlos oficiais
+    - Altera Artigo 44.º — Medidas em caso de incumprimento dos requisitos respeitantes ao bem-estar dos animais
+    - Altera Artigo 48.º — Requisitos técnicos da marca de salubridade e disposições práticas para a sua aplicação
+    - Altera 2. Resultados do exame ante mortem
+    - Altera 3. Resultados do exame post mortem
+    - Altera DISPOSIÇÕES PRÁTICAS RELATIVAS À MARCA DE SALUBRIDADE EM CONFORMIDADE COM O ARTIGO 48.º
+    - Altera MÉTODO DE DETEÇÃO DAS TOXINAS PARALISANTES
+    - Altera MÉTODOS DE DETEÇÃO DAS TOXINAS LIPOFÍLICAS
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera Notas
+  - date: '2023-01-09'
+    amending: eu:celex:32022R2503:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/2503 DA COMISSÃO de 19 de dezembro de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos que devem ser objeto de auditoria
+    - Altera Artigo 10.º — Obrigações do veterinário oficial no que se refere aos controlos dos documentos
+    - Altera Artigo 13.º — Derrogação relativa ao prazo da inspeção post mortem
+    - Altera Artigo 35.º — Disposições práticas para os controlos oficiais das salmonelas
+    - Altera Artigo 39.º — Medidas relativas à comunicação dos resultados dos controlos oficiais
+    - Altera Artigo 45.º — Medidas em caso de incumprimento dos requisitos respeitantes à carne fresca
+    - Altera Artigo 51.º — Exclusões
+    - Altera Artigo 71.º — Decisões na sequência dos controlos
+    - Altera Artigo 72.º — Requisitos relativos aos controlos oficiais dos produtos da pesca capturados por navios que arvoram
+      pavilhão de um Estado-Membro e que são introduzidos na União após terem sido transferidos em países terceiros, com ou
+      sem armazenagem
+    - Altera 2. Resultados do exame ante mortem
+    - Altera 3. Resultados do exame post mortem
+    - Altera DISPOSIÇÕES PRÁTICAS RELATIVAS À MARCA DE SALUBRIDADE EM CONFORMIDADE COM O ARTIGO 48.º
+    - Altera MÉTODO DE DETEÇÃO DAS TOXINAS PARALISANTES
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera Notas
+  - date: '2025-08-10'
+    amending: eu:celex:32025R1447:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1447 DA COMISSÃO de 18 de julho de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos que devem ser objeto de auditoria
+    - Altera Artigo 7.º — Requisitos adicionais aplicáveis às auditorias em estabelecimentos que manuseiam carne fresca
+    - Altera Artigo 10.º — Obrigações do veterinário oficial no que se refere aos controlos dos documentos
+    - Altera Artigo 13.º — Derrogação relativa ao prazo da inspeção post mortem
+    - Altera Artigo 18.º — Bovinos jovens
+    - Altera Artigo 19.º — Outros bovinos
+    - Altera Artigo 20.º — Ovinos e caprinos domésticos jovens e ovinos sem incisivos definitivos
+    - Altera Artigo 21.º — Outros ovinos e caprinos domésticos
+    - Altera Artigo 22.º — Solípedes domésticos
+    - Altera Artigo 23.º — Suínos domésticos
+    - Altera Artigo 27.º — Disposições práticas para a inspeção post mortem de caça de criação
+    - Altera Artigo 33.º — Disposições práticas para os controlos oficiais da tuberculose durante a inspeção post mortem
+    - Altera Artigo 34.º — Disposições práticas para os controlos oficiais da brucelose durante a inspeção post mortem
+    - Altera Artigo 35.º — Disposições práticas para os controlos oficiais das salmonelas
+    - Altera Artigo 39.º — Medidas relativas à comunicação dos resultados dos controlos oficiais
+    - Altera Artigo 40.º — Medidas em caso de incumprimento dos requisitos respeitantes às informações sobre a cadeia alimentar
+    - Altera Artigo 42.º — Medidas em caso de informações enganosas sobre a cadeia alimentar
+    - Altera Artigo 45.º — Medidas em caso de incumprimento dos requisitos respeitantes à carne fresca
+    - Altera Artigo 48.º — Requisitos técnicos da marca de salubridade e disposições práticas para a sua aplicação
+    - Altera 2. Resultados do exame ante mortem
+    - Altera 3. Resultados do exame post mortem
+    - Altera DISPOSIÇÕES PRÁTICAS RELATIVAS À MARCA DE SALUBRIDADE EM CONFORMIDADE COM O ARTIGO 48.º
+    - Altera MÉTODO DE DETEÇÃO DAS TOXINAS PARALISANTES
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera CONTROLOS DO AZOTO BÁSICO VOLÁTIL TOTAL (ABVT)
+    - Altera Notas
+    - Adita Artigo 9.º — Obrigações das autoridades competentes no que se refere aos controlos dos documentos, que não os
+      controlos das informações relativas à cadeia alimentar a que se refere o artigo 10.º, n.º 1
+    - Suprime Artigo 9.º — Obrigações das autoridades competentes no que se refere aos controlos dos documentos
+  - date: '2025-11-26'
+    amending: eu:celex:32025R2241:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2241 DA COMISSÃO de 5 de novembro de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos que devem ser objeto de auditoria
+    - Altera Artigo 10.º — Obrigações do veterinário oficial no que se refere aos controlos dos documentos
+    - Altera Artigo 13.º — Derrogação relativa ao prazo da inspeção post mortem
+    - Altera Artigo 18.º — Bovinos jovens
+    - Altera Artigo 19.º — Outros bovinos
+    - Altera Artigo 21.º — Outros ovinos e caprinos domésticos
+    - Altera Artigo 35.º — Disposições práticas para os controlos oficiais das salmonelas
+    - Altera Artigo 39.º — Medidas relativas à comunicação dos resultados dos controlos oficiais
+    - Altera Artigo 45.º — Medidas em caso de incumprimento dos requisitos respeitantes à carne fresca
+    - Altera 2. Resultados do exame ante mortem
+    - Altera 3. Resultados do exame post mortem
+    - Altera DISPOSIÇÕES PRÁTICAS RELATIVAS À MARCA DE SALUBRIDADE EM CONFORMIDADE COM O ARTIGO 48.º
+    - Altera MÉTODO DE DETEÇÃO DAS TOXINAS PARALISANTES
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera Notas
+    - Adita Artigo 20.º
+    - Adita Ovinos e caprinos domésticos jovens
+    - Suprime Artigo 20.º — Ovinos e caprinos domésticos jovens e ovinos sem incisivos definitivos
+  - date: '2026-07-19'
+    amending: eu:celex:32026R1406:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/1406 DA COMISSÃO de 26 de junho de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos que devem ser objeto de auditoria
+    - Altera Artigo 10.º — Obrigações do veterinário oficial no que se refere aos controlos dos documentos
+    - Altera Artigo 13.º — Derrogação relativa ao prazo da inspeção post mortem
+    - Altera Artigo 18.º — Bovinos jovens
+    - Altera Artigo 35.º — Disposições práticas para os controlos oficiais das salmonelas
+    - Altera Artigo 39.º — Medidas relativas à comunicação dos resultados dos controlos oficiais
+    - Altera Artigo 45.º — Medidas em caso de incumprimento dos requisitos respeitantes à carne fresca
+    - Altera Artigo 56.º — Requisitos relativos a um estudo sanitário
+    - Altera 2. Resultados do exame ante mortem
+    - Altera 3. Resultados do exame post mortem
+    - Altera DISPOSIÇÕES PRÁTICAS RELATIVAS À MARCA DE SALUBRIDADE EM CONFORMIDADE COM O ARTIGO 48.º
+    - Altera MÉTODO DE DETEÇÃO DAS TOXINAS PARALISANTES
+    - Altera DISPOSIÇÕES GERAIS
+    - Altera Notas
 identifiers:
   celex: 32019R0627
   eli: http://data.europa.eu/eli/reg_impl/2019/627/oj
@@ -52,7 +187,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/87e87482-786c-11e9-9f05-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/cf0eb4d1-8588-11f1-bf5e-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0627-20260719
-  retrieved_at: '2026-10-22T03:01:11Z'
+  retrieved_at: '2026-10-22T17:08:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T15:10:30.328+01:00'
 integrity:
@@ -61,9 +196,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:11Z'
-  notes: Texto consolidado 02019R0627-20260719.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:09Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2019-627.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -305,38 +440,20 @@ relationships:
   date: '2023-03-02'
 article_structure:
   article_count: 75
-  section_count: 81
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 83
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:11Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:09Z'
+  warnings:
+  - '02019R0627-20190517: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2019/627 da Comissão, de 15 de março de 2019
-
-> 02019R0627 — PT — 19.07.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R2108) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/2108 DA COMISSÃO de 16 de dezembro de 2020](http://publications.europa.eu/resource/celex/32020R2108) — L 427 — 1 — 17.12.2020
-- [►M2](http://publications.europa.eu/resource/celex/32021R1709) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1709 DA COMISSÃO de 23 de setembro de 2021](http://publications.europa.eu/resource/celex/32021R1709) — L 339 — 84 — 24.9.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R2503) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/2503 DA COMISSÃO de 19 de dezembro de 2022](http://publications.europa.eu/resource/celex/32022R2503) — L 325 — 58 — 20.12.2022
-- [►M4](http://publications.europa.eu/resource/celex/32025R1447) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1447 DA COMISSÃO de 18 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1447) — L 1447 — 1 — 21.7.2025
-- [►M5](http://publications.europa.eu/resource/celex/32025R2241) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2241 DA COMISSÃO de 5 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2241) — L 2241 — 1 — 6.11.2025
-- [►M6](http://publications.europa.eu/resource/celex/32026R1406) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/1406 DA COMISSÃO de 26 de junho de 2026](http://publications.europa.eu/resource/celex/32026R1406) — L 1406 — 1 — 29.6.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0627R%2802%29) — [Rectificação, JO L 325, 16.12.2019, p. 183 (2019/627)](http://publications.europa.eu/resource/celex/32019R0627R%2802%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2019/627 DA COMISSÃO
 
 de 15 de março de 2019
 

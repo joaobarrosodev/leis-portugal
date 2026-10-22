@@ -37,6 +37,77 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-11'
+version_history:
+  file: regulamento-ue-2018-841.versoes.json
+  count: 3
+  source_lastmod: '2023-05-11'
+  versions:
+  - date: '2018-06-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-03-14'
+    amending: eu:celex:32021R0268:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/268 DA COMISSÃO de 28 de outubro de 2020
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 18.º — Alteração do Regulamento (UE) n.º 525/2013
+    - Altera Artigo 20.º — Entrada em vigor
+    - Altera Notas
+    - Adita ANEXO I
+    - Adita GASES COM EFEITO DE ESTUFA E DEPÓSITOS DE CARBONO
+    - Adita ANEXO II
+    - Adita ANEXO III
+    - Adita ANEXO IV
+    - Adita PLANO DE CONTABILIDADE FLORESTAL NACIONAL COM NÍVEL DE REFERÊNCIA FLORESTAL ATUALIZADO DO ESTADO-MEMBRO
+    - Adita A. Critérios e orientações para determinar os níveis de referência florestais
+    - Adita B. Elementos do plano de contabilidade florestal nacional
+    - Adita C. Níveis de referência florestais a aplicar pelos Estados-Membros para o período de 2021 a 2025
+    - Adita ANEXO V
+    - Adita FUNÇÃO DE DEGRADAÇÃO DE PRIMEIRA ORDEM E METODOLOGIAS E VALORES DE SEMIVIDA DEFINIDOS POR DEFEITO PARA OS PRODUTOS
+      DE MADEIRA ABATIDA
+    - Adita ANEXO VI
+    - Adita CÁLCULO DOS NÍVEIS DE BASE DAS PERTURBAÇÕES NATURAIS
+    - Adita ANEXO VII
+  - date: '2023-05-11'
+    amending: eu:celex:32023R0839:por
+    amending_title: REGULAMENTO (UE) 2023/839 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Regras contabilísticas gerais
+    - Altera Artigo 6.º — Contabilização dos solos florestados e desflorestados
+    - Altera Artigo 7.º — Contabilização dos solos agrícolas geridos, das pastagens geridas e das zonas húmidas geridas
+    - Altera Artigo 8.º — Contabilização dos solos florestais geridos
+    - Altera Artigo 10.º — Contabilização das perturbações naturais
+    - Altera Artigo 12.º — Flexibilidades gerais
+    - Altera Artigo 14.º — Verificação da conformidade
+    - Altera Artigo 15.º — Registo
+    - Altera Artigo 18.º — Alteração do Regulamento (UE) n.º 525/2013
+    - Altera GASES COM EFEITO DE ESTUFA E DEPÓSITOS DE CARBONO
+    - Altera ANEXO II
+    - Altera ANEXO III
+    - Altera C. Níveis de referência florestais a aplicar pelos Estados-Membros para o período de 2021 a 2025
+    - Altera CÁLCULO DOS NÍVEIS DE BASE DAS PERTURBAÇÕES NATURAIS
+    - Altera ANEXO VII
+    - Altera Notas
+    - Adita Artigo1.º — Objeto
+    - Adita Artigo 4.º — Compromissos e metas
+    - Adita Artigo 11.º — Flexibilidades e governação
+    - Adita Artigo 13.º — Flexibilidade dos solos florestais geridos
+    - Adita Artigo 13.º-A — Compensações adicionais
+    - Adita Artigo 13.º-B — Mecanismo de uso do solo para o período de 2026 a 2030
+    - Adita Artigo 13.º-C — Governação
+    - Adita Artigo 13.º-D — Medidas corretivas
+    - Adita Artigo 16.º-A — Procedimento de comité
+    - Adita Artigo 17.º — Reexame
+    - Adita ANEXO II-A
+    - Suprime Artigo 1.º — Objeto
+    - Suprime Artigo 4.º — Compromissos
+    - Suprime Artigo 11.º — Flexibilidades
+    - Suprime Artigo 13.º — Flexibilidade para os solos florestais geridos
+    - Suprime Artigo 17.º — Revisão
 identifiers:
   celex: 32018R0841
   eli: http://data.europa.eu/eli/reg/2018/841/oj
@@ -51,7 +122,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/f4bb0d04-737f-11e8-9483-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c43008f0-ef39-11ed-a05c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0841-20230511
-  retrieved_at: '2026-10-22T03:00:57Z'
+  retrieved_at: '2026-10-22T17:05:40Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-14T00:04:17.113+01:00'
 integrity:
@@ -60,9 +131,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:00:57Z'
-  notes: Texto consolidado 02018R0841-20230511.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:40Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2018-841.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -181,31 +252,20 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/6aa8a29f-7e2d-11f0-9af8-01aa75ed71a1
   date: '2025-08-21'
 article_structure:
-  article_count: 25
-  section_count: 15
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  article_count: 24
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:00:57Z'
+  checked_at: '2026-10-22T17:05:40Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2018/841 do Parlamento Europeu e do Conselho, de 30 de maio de 2018
-
-> 02018R0841 — PT — 11.05.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R0268) — [REGULAMENTO DELEGADO (UE) 2021/268 DA COMISSÃO de 28 de outubro de 2020](http://publications.europa.eu/resource/celex/32021R0268) — L 60 — 21 — 22.2.2021
-- [►M2](http://publications.europa.eu/resource/celex/32023R0839) — [REGULAMENTO (UE) 2023/839 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de abril de 2023](http://publications.europa.eu/resource/celex/32023R0839) — L 107 — 1 — 21.4.2023
-
-## REGULAMENTO (UE) 2018/841 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de maio de 2018
 

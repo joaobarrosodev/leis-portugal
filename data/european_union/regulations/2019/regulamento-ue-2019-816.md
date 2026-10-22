@@ -37,6 +37,72 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-06-12'
+version_history:
+  file: regulamento-ue-2019-816.versoes.json
+  count: 3
+  source_lastmod: '2026-06-12'
+  versions:
+  - date: '2019-05-22'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-03'
+    amending: eu:celex:32019R0818:por
+    amending_title: REGULAMENTO (UE) 2019/818 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019; REGULAMENTO (UE)
+      2021/1151 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Arquitetura técnica do ECRIS-TCN
+    - Altera Artigo 5.º — Introdução de dados no ECRIS-TCN
+    - Altera Artigo 7.º — Utilização do ECRIS-TCN para determinar o Estado-Membro ou Estados-Membros que possuem informações
+      sobre registos criminais
+    - Altera Artigo 8.º — Período de conservação dos dados armazenados
+    - Altera Artigo 9.º — Alteração e apagamento de dados
+    - Altera Artigo 10.º — Adoção de atos de execução pela Comissão
+    - Altera Artigo 11.º — Desenvolvimento e gestão operacional do ECRIS-TCN
+    - Altera Artigo 12.º — Responsabilidades dos Estados-Membros
+    - Altera Artigo 13.º — Responsabilidade pela utilização dos dados
+    - Altera Artigo 23.º — Responsável pelo tratamento de dados e subcontratante
+    - Altera Artigo 24.º — Finalidade do tratamento de dados pessoais
+    - Altera Artigo 32.º — Utilização de dados para a elaboração de relatórios e estatísticas
+    - Altera Artigo 33.º — Custos
+    - Altera Artigo 40.º — Alterações do Regulamento (UE) 2018/1726
+    - Altera Artigo 41.º — Aplicação e disposições transitórias
+    - Altera Artigo 42.º — Entrada em vigor
+    - Altera Notas
+    - Adita Artigo 7.º-B — Utilização do ECRIS-TCN para verificações ETIAS
+    - Adita Artigo 31.º-B — Conservação de registos para efeitos de interoperabilidade com o ETIAS
+    - Adita ANEXO
+    - Adita FORMULÁRIO NORMALIZADO DE PEDIDO DE INFORMAÇÕES, NOS TERMOS DO ARTIGO 17.º, N.º 1, DO REGULAMENTO (UE) 2019/816,
+      A FIM DE OBTER INFORMAÇÕES SOBRE QUAL O ESTADO-MEMBRO DA UE, SE ALGUM HOUVER, QUE POSSUI INFORMAÇÕES SOBRE OS REGISTOS
+      CRIMINAIS DE UM NACIONAL DE UM PAÍS TERCEIRO
+    - Adita ANEXO II
+    - Adita Tabela de correspondência
+  - date: '2026-06-12'
+    amending: eu:celex:32021R1133:por
+    amending_title: REGULAMENTO (UE) 2021/1133 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021; REGULAMENTO (UE)
+      2024/1352 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 5.º — Introdução de dados no ECRIS-TCN
+    - Altera Artigo 7.º — Utilização do ECRIS-TCN para determinar o Estado-Membro ou Estados-Membros que possuem informações
+      sobre registos criminais
+    - Altera Artigo 8.º — Período de conservação dos dados armazenados
+    - Altera Artigo 11.º — Desenvolvimento e gestão operacional do ECRIS-TCN
+    - Altera Artigo 24.º — Finalidade do tratamento de dados pessoais
+    - Altera Artigo 40.º — Alterações do Regulamento (UE) 2018/1726
+    - Altera FORMULÁRIO NORMALIZADO DE PEDIDO DE INFORMAÇÕES, NOS TERMOS DO ARTIGO 17.º, N.º 1, DO REGULAMENTO (UE) 2019/816,
+      A FIM DE OBTER INFORMAÇÕES SOBRE QUAL O ESTADO-MEMBRO DA UE, SE ALGUM HOUVER, QUE POSSUI INFORMAÇÕES SOBRE OS REGISTOS
+      CRIMINAIS DE UM NACIONAL DE UM PAÍS TERCEIRO
+    - Altera Notas
+    - Adita Artigo 7.º-A — Utilização do ECRIS-TCN para verificações VIS
+    - Adita Artigo 7.º-C — Utilização do ECRIS-TCN para efeitos de triagem
+    - Adita Artigo 31.º-A — Conservação de registos para efeitos de interoperabilidade com o VIS
 identifiers:
   celex: 32019R0816
   eli: http://data.europa.eu/eli/reg/2019/816/oj
@@ -51,7 +117,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d2837a44-7c5f-11e9-9f05-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/666f3f74-43be-11f1-8095-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0816-20260612
-  retrieved_at: '2026-10-22T03:01:11Z'
+  retrieved_at: '2026-10-22T17:08:24Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T14:12:35.937+01:00'
 integrity:
@@ -60,9 +126,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:11Z'
-  notes: Texto consolidado 02019R0816-20260612.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:24Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-816.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -226,32 +292,20 @@ relationships:
   date: '2023-06-01'
 article_structure:
   article_count: 47
-  section_count: 16
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 17
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:11Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:24Z'
+  warnings:
+  - '02019R0816-20190611: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2019/816 do Parlamento Europeu e do Conselho, de 17 de abril de 2019
-
-> 02019R0816 — PT — 12.06.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0818) — [REGULAMENTO (UE) 2019/818 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0818) — L 135 — 85 — 22.5.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R1133) — [REGULAMENTO (UE) 2021/1133 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1133) — L 248 — 1 — 13.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32021R1151) — [REGULAMENTO (UE) 2021/1151 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1151) — L 249 — 7 — 14.7.2021
-- [►M4](http://publications.europa.eu/resource/celex/32024R1352) — [REGULAMENTO (UE) 2024/1352 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1352) — L 1352 — 1 — 22.5.2024
-
-## REGULAMENTO (UE) 2019/816 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 17 de abril de 2019
 

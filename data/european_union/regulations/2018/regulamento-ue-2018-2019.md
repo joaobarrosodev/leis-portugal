@@ -38,6 +38,218 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-30'
+version_history:
+  file: regulamento-ue-2018-2019.versoes.json
+  count: 32
+  source_lastmod: '2026-04-30'
+  versions:
+  - date: '2018-12-19'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-12-14'
+    amending: eu:celex:32019R2072:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2019/2072 DA COMISSÃO de 28 de novembro de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Entrada em vigor e aplicação
+    - Adita ANEXO I
+    - Adita Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do Regulamento
+      (UE) 2016/2031
+    - Suprime Artigo 2.º — Certificado fitossanitário para a introdução de determinados vegetais na União
+    - Suprime Notas
+  - date: '2020-08-27'
+    amending: eu:celex:32020R1214:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1214 DA COMISSÃO de 21 de agosto de 2020
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Adita ANEXO
+    - Suprime ANEXO I
+  - date: '2020-10-04'
+    amending: eu:celex:32020R1361:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2020/1361 DA COMISSÃO de 30 de setembro de 2020
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2021-03-13'
+    amending: eu:celex:32021R0419:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/419 DA COMISSÃO de 9 de março de 2021
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2021-11-13'
+    amending: eu:celex:32021R1936:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2021/1936 DA COMISSÃO de 9 de novembro de 2021
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-02-24'
+    amending: eu:celex:32022R0230:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/230 DA COMISSÃO de 18 de fevereiro de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-03-31'
+    amending: eu:celex:32022R0490:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/490 DA COMISSÃO de 25 de março de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-06-04'
+    amending: eu:celex:32022R0853:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/853 DA COMISSÃO de 31 de maio de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-07-30'
+    amending: eu:celex:32022R1309:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1309 DA COMISSÃO de 26 de julho de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-08-20'
+    amending: eu:celex:32022R1404:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1404 DA COMISSÃO de 16 de agosto de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-10-13'
+    amending: eu:celex:32022R1916:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1916 DA COMISSÃO de 7 de outubro de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2022-10-17'
+    amending: eu:celex:32022R1942:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/1942 DA COMISSÃO de 13 de outubro de 2022
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2023-01-27'
+    amending: eu:celex:32023R0158:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/158 DA COMISSÃO de 23 de janeiro de 2023
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2023-03-22'
+    amending: eu:celex:32023R0446:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/446 DA COMISSÃO de 27 de fevereiro de 2023
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2023-06-19'
+    amending: eu:celex:32023R1174:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/1174 DA COMISSÃO de 15 de junho de 2023
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2023-07-29'
+    amending: eu:celex:32023R1203:por
+    amending_title: M16; REGULAMENTO DE EXECUÇÃO (UE) 2023/1511 DA COMISSÃO de 20 de julho de 2023; REGULAMENTO DE EXECUÇÃO
+      (UE) 2023/1535 DA COMISSÃO de 24 de julho de 2023
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2023-11-06'
+    amending: eu:celex:32023R2458:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2458 DA COMISSÃO de 31 de outubro de 2023
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2023-12-14'
+    amending: eu:celex:32023R2743:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2023/2743 DA COMISSÃO de 8 de dezembro de 2023
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2024-01-29'
+    amending: eu:celex:32024R0377:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/377 DA COMISSÃO de 25 de janeiro de 2024
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2024-03-25'
+    amending: eu:celex:32024R0879:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/879 DA COMISSÃO de 21 de março de 2024
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2024-05-13'
+    amending: eu:celex:32024R1162:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1162 DA COMISSÃO de 22 de abril de 2024
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2024-06-01'
+    amending: eu:celex:32024R1436:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1436 DA COMISSÃO de 24 de maio de 2024; M25; REGULAMENTO DE EXECUÇÃO
+      (UE) 2024/1457 DA COMISSÃO de 27 de maio de 2024
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2024-07-21'
+    amending: eu:celex:32024R1958:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1958 DA COMISSÃO de 17 de julho de 2024
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2024-12-01'
+    amending: eu:celex:32024R2931:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/2931 DA COMISSÃO de 27 de novembro de 2024
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+  - date: '2025-02-20'
+    amending: eu:celex:32025R0312:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/312 DA COMISSÃO de 14 de fevereiro de 2025
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Adita Notas
+  - date: '2025-06-23'
+    amending: eu:celex:32025R1088:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1088 DA COMISSÃO de 2 de junho de 2025; REGULAMENTO DE EXECUÇÃO (UE)
+      2025/1091 DA COMISSÃO de 2 de junho de 2025
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Altera Notas
+  - date: '2025-08-03'
+    amending: eu:celex:32025R1545:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1545 DA COMISSÃO de 30 de julho de 2025
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Altera Notas
+  - date: '2025-10-03'
+    amending: eu:celex:32025R1949:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/1949 DA COMISSÃO de 29 de setembro de 2025
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Altera Notas
+  - date: '2025-11-20'
+    amending: eu:celex:32025R2298:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2025/2298 DA COMISSÃO de 14 de novembro de 2025
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Altera Notas
+  - date: '2026-02-12'
+    amending: eu:celex:32026R0152:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/152 DA COMISSÃO de 22 de janeiro de 2026
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Altera Notas
+  - date: '2026-04-30'
+    amending: eu:celex:32026R0790:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2026/790 DA COMISSÃO de 9 de abril de 2026
+    changes:
+    - Altera Lista de vegetais, produtos vegetais ou outros objetos de risco elevado, na aceção do artigo 42.º, n.º 1, do
+      Regulamento (UE) 2016/2031
+    - Altera Notas
 identifiers:
   celex: 32018R2019
   eli: http://data.europa.eu/eli/reg_impl/2018/2019/oj
@@ -52,7 +264,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/aff82247-0367-11e9-adde-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/e84e9c5f-43ba-11f1-8095-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R2019-20260430
-  retrieved_at: '2026-10-22T03:18:52Z'
+  retrieved_at: '2026-10-22T17:07:09Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T21:51:26.101+01:00'
 integrity:
@@ -61,9 +273,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:18:52Z'
-  notes: Texto consolidado 02018R2019-20260430.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:09Z'
+  notes: 32 versão(ões); histórico completo em regulamento-ue-2018-2019.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -281,68 +493,19 @@ relationships:
   date: '2025-02-24'
 article_structure:
   article_count: 2
-  section_count: 2
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 3
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:18:52Z'
+  checked_at: '2026-10-22T17:07:09Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2018/2019 da Comissão, de 18 de dezembro de 2018
-
-> 02018R2019 — PT — 30.04.2026 — 031.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R2072) — [REGULAMENTO DE EXECUÇÃO (UE) 2019/2072 DA COMISSÃO de 28 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2072) — L 319 — 1 — 10.12.2019
-- [►M2](http://publications.europa.eu/resource/celex/32020R1214) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1214 DA COMISSÃO de 21 de agosto de 2020](http://publications.europa.eu/resource/celex/32020R1214) — L 275 — 12 — 24.8.2020
-- [M3](http://publications.europa.eu/resource/celex/32020R1361) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/1361 DA COMISSÃO de 30 de setembro de 2020](http://publications.europa.eu/resource/celex/32020R1361) — L 317 — 1 — 1.10.2020
-- [►M4](http://publications.europa.eu/resource/celex/32021R0419) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/419 DA COMISSÃO de 9 de março de 2021](http://publications.europa.eu/resource/celex/32021R0419) — L 83 — 6 — 10.3.2021
-- [►M5](http://publications.europa.eu/resource/celex/32021R1936) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1936 DA COMISSÃO de 9 de novembro de 2021](http://publications.europa.eu/resource/celex/32021R1936) — L 396 — 27 — 10.11.2021
-- [M6](http://publications.europa.eu/resource/celex/32022R0230) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/230 DA COMISSÃO de 18 de fevereiro de 2022](http://publications.europa.eu/resource/celex/32022R0230) — L 39 — 11 — 21.2.2022
-- [►M7](http://publications.europa.eu/resource/celex/32022R0490) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/490 DA COMISSÃO de 25 de março de 2022](http://publications.europa.eu/resource/celex/32022R0490) — L 100 — 10 — 28.3.2022
-- [►M8](http://publications.europa.eu/resource/celex/32022R0853) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/853 DA COMISSÃO de 31 de maio de 2022](http://publications.europa.eu/resource/celex/32022R0853) — L 150 — 62 — 1.6.2022
-- [M9](http://publications.europa.eu/resource/celex/32022R1309) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1309 DA COMISSÃO de 26 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1309) — L 198 — 4 — 27.7.2022
-- [►M10](http://publications.europa.eu/resource/celex/32022R1404) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1404 DA COMISSÃO de 16 de agosto de 2022](http://publications.europa.eu/resource/celex/32022R1404) — L 214 — 3 — 17.8.2022
-- [►M11](http://publications.europa.eu/resource/celex/32022R1916) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1916 DA COMISSÃO de 7 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R1916) — L 263 — 3 — 10.10.2022
-- [►M12](http://publications.europa.eu/resource/celex/32022R1942) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/1942 DA COMISSÃO de 13 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R1942) — L 268 — 16 — 14.10.2022
-- [M13](http://publications.europa.eu/resource/celex/32023R0158) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/158 DA COMISSÃO de 23 de janeiro de 2023](http://publications.europa.eu/resource/celex/32023R0158) — L 22 — 15 — 24.1.2023
-- [M14](http://publications.europa.eu/resource/celex/32023R0446) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/446 DA COMISSÃO de 27 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0446) — L 65 — 11 — 2.3.2023
-- [►M15](http://publications.europa.eu/resource/celex/32023R1174) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1174 DA COMISSÃO de 15 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1174) — L 155 — 33 — 16.6.2023
-- [M16](http://publications.europa.eu/resource/celex/32023R1203) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1203 DA COMISSÃO de 21 de junho de 2023](http://publications.europa.eu/resource/celex/32023R1203) — L 159 — 65 — 22.6.2023
-- [M17](http://publications.europa.eu/resource/celex/32023R1511) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1511 DA COMISSÃO de 20 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1511) — L 184 — 25 — 21.7.2023
-- [M18](http://publications.europa.eu/resource/celex/32023R1535) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/1535 DA COMISSÃO de 24 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1535) — L 187 — 1 — 26.7.2023
-- [►M19](http://publications.europa.eu/resource/celex/32023R2458) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2458 DA COMISSÃO de 31 de outubro de 2023](http://publications.europa.eu/resource/celex/32023R2458) — L 2458 — 1 — 3.11.2023
-- [►M20](http://publications.europa.eu/resource/celex/32023R2743) — [REGULAMENTO DE EXECUÇÃO (UE) 2023/2743 DA COMISSÃO de 8 de dezembro de 2023](http://publications.europa.eu/resource/celex/32023R2743) — L 2743 — 1 — 11.12.2023
-- [M21](http://publications.europa.eu/resource/celex/32024R0377) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/377 DA COMISSÃO de 25 de janeiro de 2024](http://publications.europa.eu/resource/celex/32024R0377) — L 377 — 1 — 26.1.2024
-- [►M22](http://publications.europa.eu/resource/celex/32024R0879) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/879 DA COMISSÃO de 21 de março de 2024](http://publications.europa.eu/resource/celex/32024R0879) — L 879 — 1 — 22.3.2024
-- [►M23](http://publications.europa.eu/resource/celex/32024R1162) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1162 DA COMISSÃO de 22 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1162) — L 1162 — 1 — 23.4.2024
-- [►M24](http://publications.europa.eu/resource/celex/32024R1436) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1436 DA COMISSÃO de 24 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1436) — L 1436 — 1 — 27.5.2024
-- [M25](http://publications.europa.eu/resource/celex/32024R1437) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1437 DA COMISSÃO de 24 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1437) — L 1437 — 1 — 27.5.2024
-- [M26](http://publications.europa.eu/resource/celex/32024R1457) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1457 DA COMISSÃO de 27 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1457) — L 1457 — 1 — 29.5.2024
-- [►M27](http://publications.europa.eu/resource/celex/32024R1958) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1958 DA COMISSÃO de 17 de julho de 2024](http://publications.europa.eu/resource/celex/32024R1958) — L 1958 — 1 — 18.7.2024
-- [M28](http://publications.europa.eu/resource/celex/32024R2931) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/2931 DA COMISSÃO de 27 de novembro de 2024](http://publications.europa.eu/resource/celex/32024R2931) — L 2931 — 1 — 28.11.2024
-- [►M29](http://publications.europa.eu/resource/celex/32025R0312) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/312 DA COMISSÃO de 14 de fevereiro de 2025](http://publications.europa.eu/resource/celex/32025R0312) — L 312 — 1 — 17.2.2025
-- [►M30](http://publications.europa.eu/resource/celex/32025R1088) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1088 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1088) — L 1088 — 1 — 3.6.2025
-- [M31](http://publications.europa.eu/resource/celex/32025R1091) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1091 DA COMISSÃO de 2 de junho de 2025](http://publications.europa.eu/resource/celex/32025R1091) — L 1091 — 1 — 3.6.2025
-- [►M32](http://publications.europa.eu/resource/celex/32025R1545) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1545 DA COMISSÃO de 30 de julho de 2025](http://publications.europa.eu/resource/celex/32025R1545) — L 1545 — 1 — 31.7.2025
-- [►M33](http://publications.europa.eu/resource/celex/32025R1949) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/1949 DA COMISSÃO de 29 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R1949) — L 1949 — 1 — 30.9.2025
-- [►M34](http://publications.europa.eu/resource/celex/32025R2298) — [REGULAMENTO DE EXECUÇÃO (UE) 2025/2298 DA COMISSÃO de 14 de novembro de 2025](http://publications.europa.eu/resource/celex/32025R2298) — L 2298 — 1 — 17.11.2025
-- [►M35](http://publications.europa.eu/resource/celex/32026R0152) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/152 DA COMISSÃO de 22 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0152) — L 152 — 1 — 23.1.2026
-- [►M36](http://publications.europa.eu/resource/celex/32026R0790) — [REGULAMENTO DE EXECUÇÃO (UE) 2026/790 DA COMISSÃO de 9 de abril de 2026](http://publications.europa.eu/resource/celex/32026R0790) — L 790 — 1 — 10.4.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R2019R%2801%29) — [Rectificação, JO L 90152, 24.2.2025, p. 1 ((UE) 2018/2019)](http://publications.europa.eu/resource/celex/32018R2019R%2801%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2018/2019 DA COMISSÃO
 
 de 18 de dezembro de 2018
 

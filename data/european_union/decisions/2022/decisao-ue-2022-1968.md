@@ -34,6 +34,25 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2024-11-16'
+version_history:
+  file: decisao-ue-2022-1968.versoes.json
+  count: 2
+  source_lastmod: '2024-11-16'
+  versions:
+  - date: '2022-10-18'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-11-16'
+    amending: eu:celex:32024D2876:por
+    amending_title: DECISÃO (PESC) 2024/2876 DO CONSELHO de 8 de novembro de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 7.º — Coerência da resposta da União e coordenação
+    - Altera Artigo 11.º — Disposições financeiras
+    - Altera Artigo 13.º — Comunicação de informações
+    - Altera Artigo 14.º — Entrada em vigor e cessação da vigência
+    - Altera Notas
 identifiers:
   celex: 32022D1968
   eli: http://data.europa.eu/eli/dec/2022/1968/oj
@@ -48,7 +67,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/8cd2db66-4e81-11ed-92ed-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5254fe9c-b170-11ef-acb1-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022D1968-20241116
-  retrieved_at: '2026-10-22T02:53:57Z'
+  retrieved_at: '2026-10-22T17:15:27Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T09:27:22.452+02:00'
 integrity:
@@ -57,9 +76,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:57Z'
-  notes: Texto consolidado 02022D1968-20241116.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:27Z'
+  notes: 2 versão(ões); histórico completo em decisao-ue-2022-1968.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -135,29 +154,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/b02dc8bf-8c43-11eb-b85c-01aa75ed71a1
 article_structure:
   article_count: 14
-  section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 1
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:57Z'
+  checked_at: '2026-10-22T17:15:27Z'
   warnings: []
   errors: []
 ---
 
 # Decisão (PESC) 2022/1968 do Conselho de 17 de outubro de 2022
-
-> 02022D1968 — PT — 16.11.2024 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32024D2876) — [DECISÃO (PESC) 2024/2876 DO CONSELHO de 8 de novembro de 2024](http://publications.europa.eu/resource/celex/32024D2876) — L 2876 — 1 — 11.11.2024
-
-## DECISÃO (PESC) 2022/1968 DO CONSELHO
 
 de 17 de outubro de 2022
 

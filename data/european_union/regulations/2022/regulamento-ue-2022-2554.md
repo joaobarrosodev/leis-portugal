@@ -37,6 +37,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-12-27'
+version_history:
+  file: regulamento-ue-2022-2554.versoes.json
+  count: 1
+  source_lastmod: '2022-12-27'
+  versions:
+  - date: '2022-12-27'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32022R2554
   eli: http://data.europa.eu/eli/reg/2022/2554/oj
@@ -51,7 +60,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/0caf473a-85bd-11ed-9887-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/d142a739-1048-11ee-b12e-01aa75ed71a1.0011.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R2554-20221227
-  retrieved_at: '2026-10-22T02:39:17Z'
+  retrieved_at: '2026-10-22T17:16:14Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T13:52:19.606+02:00'
 integrity:
@@ -60,9 +69,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:39:17Z'
-  notes: Texto consolidado 02022R2554-20221227.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:14Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2022-2554.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -353,29 +362,19 @@ relationships:
   date: '2025-11-21'
 article_structure:
   article_count: 64
-  section_count: 27
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 28
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:39:17Z'
+  checked_at: '2026-10-22T17:16:14Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2022/2554 do Parlamento Europeu e do Conselho de 14 de dezembro de 2022
-
-> 02022R2554 — PT — 27.12.2022 — 000.007
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R2554R%2807%29) — [Rectificação, JO L 90620, 30.7.2025, p. 1 (2022/2554)](http://publications.europa.eu/resource/celex/32022R2554R%2807%29)
-
-## REGULAMENTO (UE) 2022/2554 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 14 de dezembro de 2022
 

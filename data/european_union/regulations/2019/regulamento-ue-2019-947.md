@@ -39,6 +39,51 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-05-01'
+version_history:
+  file: regulamento-ue-2019-947.versoes.json
+  count: 3
+  source_lastmod: '2025-05-01'
+  versions:
+  - date: '2021-08-05'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-04-04'
+    amending: eu:celex:32022R0425:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2022/425 DA COMISSÃO de 14 de março de 2022; REGULAMENTO DE EXECUÇÃO (UE)
+      2022/525 DA COMISSÃO de 1 de abril de 2022
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Regras e procedimentos para a operação de UAS
+    - Altera Artigo 11.º — Regras de realização de uma avaliação do risco operacional
+    - Altera Artigo 12.º — Autorização de operações na categoria «específica»
+    - Altera Artigo 20.º — Disposições particulares relativas à utilização de determinados UAS na categoria «aberta»
+    - Altera Artigo 22.º
+    - Altera Artigo 23.º
+    - Altera UAS.STS-01.040 Responsabilidades do [►C2](http://publications.europa.eu/resource/celex/32020R0639R%2803%29) piloto
+      remoto◄
+    - Altera Requisitos adicionais para entidades reconhecidas pela autoridade competente e operadores de UAS que realizem
+      a formação e avaliação prática de [►C2](http://publications.europa.eu/resource/celex/32020R0639R%2803%29) pilotos remotos◄
+      para operações abrangidas por STS
+    - Altera Notas
+  - date: '2025-05-01'
+    amending: eu:celex:32024R1110:por
+    amending_title: REGULAMENTO DE EXECUÇÃO (UE) 2024/1110 DA COMISSÃO de 10 de abril de 2024
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 7.º — Regras e procedimentos para a operação de UAS
+    - Altera Artigo 12.º — Autorização de operações na categoria «específica»
+    - Altera Artigo 14.º — Registo de operadores de UAS e de UAS certificados
+    - Altera Artigo 19.º — Informações em matéria de segurança operacional
+    - Altera Artigo 20.º — Disposições particulares relativas à utilização de determinados UAS na categoria «aberta»
+    - Altera Artigo 22.º
+    - Altera UAS.SPEC.100 Utilização de equipamentos certificados e aeronaves não tripuladas certificadas
+    - Altera UAS.STS-01.040 Responsabilidades do [►C2](http://publications.europa.eu/resource/celex/32020R0639R%2803%29) piloto
+      remoto◄
+    - Altera UAS.STS-02.040 Responsabilidades do [►C2](http://publications.europa.eu/resource/celex/32020R0639R%2803%29) piloto
+      remoto◄
+    - Altera Notas
 identifiers:
   celex: 32019R0947
   eli: http://data.europa.eu/eli/reg_impl/2019/947/oj
@@ -53,7 +98,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/819291ca-8c1c-11e9-9369-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/709b3112-2aa3-11f0-8a44-01aa75ed71a1.0020.02/DOC_2
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0947-20250501
-  retrieved_at: '2026-10-22T03:01:13Z'
+  retrieved_at: '2026-10-22T17:08:54Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T21:21:18.878+01:00'
 integrity:
@@ -62,9 +107,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:13Z'
-  notes: Texto consolidado 02019R0947-20250501.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:54Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-947.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -209,41 +254,22 @@ relationships:
   date: '2026-10-14'
 article_structure:
   article_count: 23
-  section_count: 61
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 62
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:13Z'
-  warnings: []
+  checked_at: '2026-10-22T17:08:54Z'
+  warnings:
+  - '02019R0947-20190611: versão indisponível (Sem expressão na língua por para CELEX 02019R0947-20190611.)'
+  - '02019R0947-20200602: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
+  - '02019R0947-20200606: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento de Execução (UE) 2019/947 da Comissão, de 24 de maio de 2019
-
-> 02019R0947 — PT — 01.05.2025 — 005.003
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32020R0639) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/639 DA COMISSÃO de 12 de maio de 2020](http://publications.europa.eu/resource/celex/32020R0639) — L 150 — 1 — 13.5.2020
-- [►M2](http://publications.europa.eu/resource/celex/32020R0746) — [REGULAMENTO DE EXECUÇÃO (UE) 2020/746 DA COMISSÃO de 4 de junho de 2020](http://publications.europa.eu/resource/celex/32020R0746) — L 176 — 13 — 5.6.2020
-- [M3](http://publications.europa.eu/resource/celex/32021R1166) — [REGULAMENTO DE EXECUÇÃO (UE) 2021/1166 DA COMISSÃO de 15 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1166) — L 253 — 49 — 16.7.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R0425) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/425 DA COMISSÃO de 14 de março de 2022](http://publications.europa.eu/resource/celex/32022R0425) — L 87 — 20 — 15.3.2022
-- [►M5](http://publications.europa.eu/resource/celex/32022R0525) — [REGULAMENTO DE EXECUÇÃO (UE) 2022/525 DA COMISSÃO de 1 de abril de 2022](http://publications.europa.eu/resource/celex/32022R0525) — L 105 — 3 — 4.4.2022
-- [►M6](http://publications.europa.eu/resource/celex/32024R1110) — [REGULAMENTO DE EXECUÇÃO (UE) 2024/1110 DA COMISSÃO de 10 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1110) — L 1110 — 1 — 23.5.2024
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R0947R%2803%29) — [Rectificação, JO L 002, 6.1.2022, p. 18 (2019/947)](http://publications.europa.eu/resource/celex/32019R0947R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32020R0639R%2803%29) — [Rectificação, JO L 002, 6.1.2022, p. 12 (2020/639)](http://publications.europa.eu/resource/celex/32020R0639R%2803%29)
-- [C3](http://publications.europa.eu/resource/celex/32021R1166R%2801%29) — [Rectificação, JO L 002, 6.1.2022, p. 21 (2021/1166)](http://publications.europa.eu/resource/celex/32021R1166R%2801%29)
-- [►C4](http://publications.europa.eu/resource/celex/32019R0947R%2809%29) — [Rectificação, JO L 90856, 3.11.2025, p. 1 ((UE) 2019/947)](http://publications.europa.eu/resource/celex/32019R0947R%2809%29)
-
-## REGULAMENTO DE EXECUÇÃO (UE) 2019/947 DA COMISSÃO
 
 de 24 de maio de 2019
 

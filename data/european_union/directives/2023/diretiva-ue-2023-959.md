@@ -38,6 +38,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-05-16'
+version_history:
+  file: diretiva-ue-2023-959.versoes.json
+  count: 1
+  source_lastmod: '2023-05-16'
+  versions:
+  - date: '2023-05-16'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32023L0959
   eli: http://data.europa.eu/eli/dir/2023/959/oj
@@ -52,7 +61,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7477bc6a-f384-11ed-a05c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/0c30b3ea-9b72-11ef-a130-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023L0959-20230516
-  retrieved_at: '2026-10-22T02:43:41Z'
+  retrieved_at: '2026-10-22T17:16:22Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T16:21:29.824+02:00'
 integrity:
@@ -61,9 +70,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:43:41Z'
-  notes: Texto consolidado 02023L0959-20230516.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:22Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2023-959.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -356,30 +365,19 @@ relationships:
   source: null
 article_structure:
   article_count: 6
-  section_count: 18
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 19
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:43:41Z'
+  checked_at: '2026-10-22T17:16:22Z'
   warnings: []
   errors: []
 ---
 
 # Diretiva (UE) 2023/959 do Parlamento Europeu e do Conselho de 10 de maio de 2023
-
-> 02023L0959 — PT — 16.05.2023 — 000.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Retificada por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32023L0959R%2803%29) — [Rectificação, JO L 90176, 22.3.2024, p. 1 ((UE) 2023/959)](http://publications.europa.eu/resource/celex/32023L0959R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32023L0959R%2804%29) — [Rectificação, JO L 90308, 24.5.2024, p. 1 (2023/959)](http://publications.europa.eu/resource/celex/32023L0959R%2804%29)
-
-## DIRETIVA (UE) 2023/959 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de maio de 2023
 

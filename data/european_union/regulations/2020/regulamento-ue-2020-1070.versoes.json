@@ -1,0 +1,182 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32020R1070:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R1070-20240814",
+ "dre_path": null,
+ "source_lastmod": "2024-08-14",
+ "versions": [
+  {
+   "date": "2020-07-21",
+   "future": false,
+   "celex": "32020R1070",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "6cb271997f78601a",
+    "b24df54fc410735e",
+    "dec29cdd20e4cd1f",
+    "6a9f11c0ad33cfc8",
+    "c52308b980060ffb",
+    "c48a243b46ec8573",
+    "cb9ac72f518f665b"
+   ]
+  },
+  {
+   "date": "2024-08-14",
+   "future": false,
+   "celex": "02020R1070-20240814",
+   "acts": [
+    {
+     "id": "eu:celex:32024R2000:por",
+     "title": "REGULAMENTO DE EXECUÇÃO (UE) 2024/2000 DA COMISSÃO de 24 de julho de 2024",
+     "published": null,
+     "celex": "32024R2000"
+    }
+   ],
+   "changes": [
+    "Altera preambulo",
+    "Altera Artigo 1.º",
+    "Altera Artigo 3.º",
+    "Altera Artigo 4.º",
+    "Altera Artigo 5.º",
+    "Adita ANEXO",
+    "Adita A. Condições referidas no artigo 3.º, n.º 1, alínea b)",
+    "Adita B. Requisitos da norma europeia referidos no artigo 3.º, n.º 1",
+    "Suprime Notas"
+   ],
+   "fragments": [
+    "122141ffe05710e9",
+    "6b772b8dbf8aed89",
+    "dec29cdd20e4cd1f",
+    "664770ad79c5f594",
+    "5a2a21231d2c872a",
+    "363dcb546bac17de",
+    "10220b9774fa9034",
+    "ef7526416487ba23",
+    "84910a913bdf44f4"
+   ]
+  }
+ ],
+ "fragments": {
+  "6cb271997f78601a": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de julho de 2020\n\nque especifica as características dos pontos de acesso sem fios de área reduzida nos termos do artigo 57.º, n.º 2, da Diretiva (UE) 2018/1972 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, que estabelece o Código Europeu das Comunicações Eletrónicas\n\n(Texto relevante para efeitos do EEE)\n\nA COMISSÃO EUROPEIA,\n\nTendo em conta o Tratado sobre o Funcionamento da União Europeia,\n\nTendo em conta a Diretiva (UE) 2018/1972 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, que estabelece o Código Europeu das Comunicações Eletrónicas [([^1])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr1-L_2020234PT.01001101-E0001), nomeadamente o artigo 57.º, n.º 2,\n\nConsiderando o seguinte:\n\n(1) Como é reconhecido na Diretiva (UE) 2018/1972, dado que os pontos de acesso sem fios de área reduzida e baixa potência podem ter um impacte positivo na utilização do espetro de radiofrequências e no desenvolvimento das comunicações sem fios na União, a implantação de pontos de acesso sem fios de área reduzida deve ser facilitada por meio de um regime de implantação que não exija licenciamento.\n\n(2) Um ponto de acesso sem fios de área reduzida inclui vários elementos operacionais, como uma unidade de processamento de sinais, uma unidade de radiofrequências, um sistema de antena, cabos de ligação e o invólucro. Em alguns casos, o sistema de antena, ou partes deste, pode(m) ser instalado(s) separadamente dos restantes elementos do ponto de acesso sem fios de área reduzida e ser ligado(s) por intermédio de um ou mais cabos específicos. Esta configuração é utilizada por sistemas de antena distribuídos ou sistemas de rádio distribuído utilizados por um ou vários operadores. Um ponto de acesso sem fios de área reduzida pode ser concebido para servir dois ou mais utilizadores do espetro de radiofrequências.\n\n(3) A fim de assegurar a aceitação pública e uma implantação sustentável, os pontos de acesso sem fios de área reduzida abrangidos pelo artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972 devem ter impacte visual mínimo. Para o efeito, devem ser invisíveis para o público em geral ou ser montados na sua estrutura de suporte de forma visualmente não intrusiva. O seu funcionamento deve igualmente assegurar um elevado nível de proteção da saúde pública, como estabelecido na Recomendação 1999/519/CE do Conselho [([^2])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr2-L_2020234PT.01001101-E0002).\n\n(4) A Diretiva 2014/53/UE do Parlamento Europeu e do Conselho [([^3])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr3-L_2020234PT.01001101-E0003) prevê que os equipamentos de rádio, incluindo os pontos de acesso sem fios de área reduzida, sejam construídos de modo a assegurar a proteção da saúde e da segurança das pessoas.\n\n(5) As características físicas e técnicas dos pontos de acesso sem fios de área reduzida abrangidos pelo artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972 devem, portanto, ser definidas em termos de volume máximo, restrições de peso e potência de emissão máxima. O volume máximo definido para limitar o impacte visual dos pontos de acesso sem fios de área reduzida deve permitir que a conceção desses pontos seja flexível e adaptável às características físicas e técnicas da estrutura de suporte.\n\n(6) O estudo «Light Deployment Regime for Small-Area Wireless Access Points (SAWAPs)» [([^4])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr4-L_2020234PT.01001101-E0004) realizado para a Comissão demonstra que um volume limitado a 30 litros será suficiente para conter os principais elementos de um ponto de acesso sem fios de área reduzida, assegurando simultaneamente o caráter não intrusivo do mesmo. Este volume máximo deve ser aplicável a qualquer implantação de um ponto de acesso sem fios de área reduzida que sirva um ou mais utilizadores do espetro de radiofrequências, bem como de vários pontos de acesso sem fios de área reduzida, integrados em infraestruturas de pequena superfície (por exemplo postes de iluminação, semáforos, painéis publicitários ou paragens de autocarro) que, devido às suas dimensões físicas e/ou densidade numa determinada zona, possam gerar poluição visual.\n\n(7) Os pontos de acesso sem fios de área reduzida devem ser conformes com a norma europeia EN 62232:2017 [([^5])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr5-L_2020234PT.01001101-E0005) — «Determinação da intensidade do campo de RF, densidade de potência e taxa de absorção específica de energia (SAR) nas imediações de estações de base de radiocomunicações com a finalidade de avaliar a exposição humana», que estabelece uma metodologia para a instalação de estações de base, tendo em conta a potência de emissão destas, com a finalidade de avaliar a exposição humana aos campos eletromagnéticos, em conformidade com os limites estabelecidos na Recomendação 1999/519/CE. Esta norma é igualmente referida na secção 6.1 da norma europeia harmonizada EN 50401:2017, «Norma do produto para demonstrar a conformidade do equipamento da estação de base com os limites de exposição a campos eletromagnéticos de radiofrequência (110 MHz-100 GHz), quando colocado em funcionamento», no contexto da avaliação da conformidade de um ponto de acesso sem fios, colocado em funcionamento no seu ambiente operacional, com os limites de exposição aos campos eletromagnéticos estabelecidos na Recomendação 1999/519/CE.\n\n(8) A norma EN 62232:2017 é aplicável a todos os tipos de estações de base, que se encontram divididas em cinco classes de instalação correspondentes aos vários limites de potência radiada isotropicamente equivalente (p.r.i.e.): alguns miliwatts (classe E0); 2 watts (classe E2), 10 watts (classe E10), 100 watts (classe E100) e acima de 100 watts (classe E+). Destas classes, tendo em conta as distâncias de segurança de instalação a respeitar de acordo com a referida norma e dado que a Diretiva (UE) 2018/1972 estabelece que os pontos de acesso sem fios de área reduzida devem ser equipamentos de baixa potência, o presente regulamento apenas se aplica às classes de instalação E0, E2 e E10. O quadro 2 do ponto 6.2.4 da norma EN 62232:2017 exige que o elemento radiante mais baixo das antenas da classe E10 esteja localizado a, pelo menos, 2,2 metros acima da via pública pedonal, de molde a assegurar uma distância de, pelo menos, 20 cm entre o lóbulo principal da antena e o corpo de uma pessoa de 2 m de altura [([^6])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr6-L_2020234PT.01001101-E0006).\n\n(9) Por razões estéticas, a instalação interior de pontos de acesso sem fios de área reduzida da classe E10, suscetíveis de utilizar o volume máximo de 30 litros, deve ser permitida apenas em espaços interiores de grande dimensão, com pé-direito de, pelo menos, 4 metros (por exemplo museus, estádios, centros de congressos, aeroportos, estações de metro ou ferroviárias ou centros comerciais).\n\n(10) Um ponto de acesso sem fios de área reduzida não deve pôr em causa a estabilidade da estrutura de suporte na qual é instalado, pelo que não pode exigir, devido ao seu peso ou à sua forma, o reforço estrutural da estrutura de suporte utilizada.\n\n(11) A fim de permitir a supervisão e a monitorização por parte das autoridades competentes, nomeadamente nos casos em que vários pontos de acesso sem fios de área reduzida ocupam localizações adjacentes ou compartilham uma localização, os operadores que tenham implantado pontos de acesso sem fios de área reduzida das classes E2 ou E10 conformes com as características estabelecidas no presente regulamento devem comunicar atempadamente à autoridade competente a instalação dos mesmos. Para o efeito, o mais tardar duas semanas após a instalação, o operador deve comunicá-la à autoridade competente, indicando a localização e as características técnicas dos pontos de acesso em causa e fazendo acompanhar essa comunicação de uma declaração de conformidade da instalação com as disposições do presente regulamento. A fim de simplificar o processo em todos os Estados-Membros, esta comunicação deve ser efetuada a um ponto de informação único, como o estabelecido nos termos da Diretiva 2014/61/UE do Parlamento Europeu e do Conselho [([^7])](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntr7-L_2020234PT.01001101-E0007).\n\n(12) O presente regulamento não prejudica a competência dos Estados-Membros para determinar os níveis agregados de campos eletromagnéticos resultantes de localizações compartilhadas ou de agregações numa área local de pontos de acesso sem fios de área reduzida abrangidos pelo artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972, bem como de outros tipos de estações de base, a fim de assegurarem, por meios que não licenças individuais para a implantação de pontos de acesso sem fios de área reduzida, que esses níveis respeitam os limites de exposição agregada aplicáveis nos termos do direito da União.\n\n(13) Se, em virtude da prevista evolução das normas aplicáveis, estas passarem a abranger pontos de acesso sem fios de área reduzida que utilizem sistemas de antena ativa, esses pontos de acesso devem, nesta fase, ser excluídos do regime de implantação sem licenciamento.\n\n(14) A aplicação do presente regulamento deve ser acompanhada regularmente, de modo a facilitar a revisão do mesmo tendo em conta eventuais atualizações da norma europeia EN 62232 ou outros esforços de normalização pertinentes, em particular no respeitante à utilização de sistemas de antena ativa, a evolução da tecnologia de ponta no domínio dos pontos de acesso sem fios de área reduzida, a necessidade de permitir bandas múltiplas e soluções partilhadas (múltiplos operadores), bem como eventuais atualizações da Recomendação 1999/519/CE.\n\n(15) O presente regulamento não prejudica as medidas nacionais relativas à segurança, ao fornecimento de serviços de utilidade pública, ao respeito da propriedade privada, incluindo o direito de os proprietários determinarem a utilização dos seus bens, e aos direitos de passagem relacionados com a ligação dos pontos de acesso sem fios de área reduzida à rede de área alargada em conformidade com o direito da União.\n\n(16) O presente regulamento não prejudica a aplicação, a nível nacional, de regimes menos restritivos para a implantação de pontos de acesso sem fios de área reduzida.\n\n(17) Dado que a Diretiva (UE) 2018/1972 será aplicável a partir de 21 de dezembro de 2020, o presente regulamento deve ser aplicável a partir da mesma data.\n\n(18) As medidas previstas no presente regulamento estão em conformidade com o parecer do Comité das Comunicações,\n\nADOTOU O PRESENTE REGULAMENTO:"
+  },
+  "b24df54fc410735e": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as características físicas e técnicas dos pontos de acesso sem fios de área reduzida a que se refere o artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972.\n\nO presente regulamento não é aplicável a pontos de acesso sem fios de área reduzida com sistemas de antena ativa."
+  },
+  "dec29cdd20e4cd1f": {
+   "fragment_id": "Artigo 2.º",
+   "type": "artigo",
+   "heading": "Artigo 2.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º\n\nPara efeitos do presente regulamento, entende-se por:\n\n1) «Potência radiada isotropicamente equivalente (p.r.i.e.)»: o produto da potência fornecida à antena e do ganho da antena numa dada direção relativamente a uma antena isotrópica (ganho absoluto ou isotrópico);\n\n2) «Sistema de antena»: o componente físico do ponto de acesso sem fios de área reduzida que radia energia de radiofrequências a fim de oferecer conectividade sem fios a utilizadores finais;\n\n3) «Sistema de antena ativa»: um sistema de antena no qual a amplitude e/ou a fase entre os elementos da antena é ajustada/são ajustadas em contínuo, daí resultando um diagrama de antena que vai variando em resposta às breves alterações do ambiente radioelétrico. Estão excluídas conformações permanentes do feixe, como a inclinação elétrica fixa para a frente. Nos pontos de acesso sem fios de área reduzida equipados com sistema de antena ativa, este último está integrado no ponto de acesso;\n\n4) «Espaço interior»: qualquer espaço, incluindo veículos de transporte, que possua teto ou cobertura, ou qualquer estrutura ou dispositivo fixo ou móvel capaz de o cobrir na totalidade, e que, à exceção de portas, janelas e passagens de circulação, seja integralmente rodeado por paredes ou lados, de forma permanente ou temporária, independentemente do tipo de material utilizado para o teto, as paredes ou os lados e do caráter permanente ou temporário da estrutura;\n\n5) «Espaço exterior»: qualquer espaço que não seja um espaço interior."
+  },
+  "6a9f11c0ad33cfc8": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1. Os pontos de acesso sem fios de área reduzida a que se refere o artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972 devem satisfazer os requisitos da norma europeia estabelecidos no ponto B do anexo do presente regulamento e:\n\na) ser integrados de forma completa e segura na estrutura de suporte, ficando invisíveis para o público em geral; ou\n\nb) respeitar as condições enunciadas no ponto A do anexo do presente regulamento.\n\n2. O n.º 1 não prejudica a competência dos Estados-Membros para determinar os níveis agregados de campos eletromagnéticos resultantes de localizações compartilhadas ou de agregações numa área local de pontos de acesso sem fios de área reduzida nem para assegurarem, por meios que não licenças individuais para a implantação de pontos de acesso sem fios de área reduzida, o respeito dos limites de exposição agregada a campos eletromagnéticos aplicáveis nos termos do direito da União.\n\n3. Os operadores que tenham implantado pontos de acesso sem fios de área reduzida da classe E2 ou E10 que satisfaçam as condições enunciadas no n.º 1 devem comunicar a instalação às autoridades nacionais competentes, no prazo máximo de duas semanas a contar da implantação de cada ponto, indicando a localização dos pontos de acesso em causa e os requisitos que os mesmos satisfazem nos termos do referido número."
+  },
+  "c52308b980060ffb": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros devem acompanhar com regularidade a aplicação do presente regulamento e apresentar periodicamente à Comissão um relatório anual dessa aplicação, fazendo-o pela primeira vez até 31 de dezembro de 2021, nomeadamente no tocante à aplicação do artigo 3.º, n.º 1, e referindo as tecnologias utilizadas pelos pontos de acesso sem fios de área reduzida implantados."
+  },
+  "c48a243b46ec8573": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 21 de dezembro de 2020.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros.\n\nFeito em Bruxelas, em 20 de julho de 2020.\n\n***Pela Comissão***\n\n***A Presidente***\n\n**Ursula VON DER LEYEN**\n\n---"
+  },
+  "cb9ac72f518f665b": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> [(^1^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc1-L_2020234PT.01001101-E0001) [JO L 321 de 17.12.2018, p. 36](http://publications.europa.eu/resource/oj/JOL_2018_321_R_TOC).\n\n> [(^2^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc2-L_2020234PT.01001101-E0002) Recomendação 1999/519/CE do Conselho, de 12 de julho de 1999, relativa à limitação da exposição da população aos campos eletromagnéticos (0 Hz-300 GHz) ([JO L 199 de 30.7.1999, p. 59](http://publications.europa.eu/resource/oj/JOL_1999_199_R_TOC)).\n\n> [(^3^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc3-L_2020234PT.01001101-E0003) Diretiva 2014/53/UE do Parlamento Europeu e do Conselho, de 16 de abril de 2014, relativa à harmonização da legislação dos Estados-Membros respeitante à disponibilização de equipamentos de rádio no mercado e que revoga a Diretiva 1999/5/CE ([JO L 153 de 22.5.2014, p. 62](http://publications.europa.eu/resource/oj/JOL_2014_153_R_TOC)).\n\n> [(^4^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc4-L_2020234PT.01001101-E0004) Número Smart 2018/0017, https://op.europa.eu/en/publication-detail/-/publication/463e2d3d-1d8f-11ea-95ab-01aa75ed71a1/language-en/format-PDF/source-112125706.\n\n> [(^5^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc5-L_2020234PT.01001101-E0005) Aplicável na gama de frequências de 110 MHz-100 GHz.\n\n> [(^6^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc6-L_2020234PT.01001101-E0006) Anexo C.3 da norma EN 62232:2017.\n\n> [(^7^)](http://publications.europa.eu/resource/cellar/4d1a8063-cb17-11ea-adf7-01aa75ed71a1.0018.03/DOC_1#ntc7-L_2020234PT.01001101-E0007) Diretiva 2014/61/UE do Parlamento Europeu e do Conselho, de 15 de maio de 2014, relativa a medidas destinadas a reduzir o custo da implantação de redes de comunicações eletrónicas de elevado débito ([JO L 155 de 23.5.2014, p. 1](http://publications.europa.eu/resource/oj/JOL_2014_155_R_TOC))."
+  },
+  "122141ffe05710e9": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 20 de julho de 2020\n\nque especifica as características dos pontos de acesso sem fios de área reduzida nos termos do artigo 57.º, n.º 2, da Diretiva (UE) 2018/1972 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, que estabelece o Código Europeu das Comunicações Eletrónicas\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "6b772b8dbf8aed89": {
+   "fragment_id": "Artigo 1.º",
+   "type": "artigo",
+   "heading": "Artigo 1.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º\n\nO presente regulamento estabelece as características físicas e técnicas dos pontos de acesso sem fios de área reduzida a que se refere o artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972."
+  },
+  "664770ad79c5f594": {
+   "fragment_id": "Artigo 3.º",
+   "type": "artigo",
+   "heading": "Artigo 3.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º\n\n1.\n\nOs pontos de acesso sem fios de área reduzida a que se refere o artigo 57.º, n.º 1, segundo parágrafo, da Diretiva (UE) 2018/1972 devem satisfazer os requisitos da norma europeia estabelecidos no ponto B do anexo do presente regulamento e:\n\na) ser integrados de forma completa e segura na estrutura de suporte, ficando invisíveis para o público em geral; ou\n\nb) respeitar as condições enunciadas no ponto A do anexo do presente regulamento.\n\n2. O n.º 1 não prejudica a competência dos Estados-Membros para determinar os níveis agregados de campos eletromagnéticos resultantes de localizações compartilhadas ou de agregações numa área local de pontos de acesso sem fios de área reduzida nem para assegurarem, por meios que não licenças individuais para a implantação de pontos de acesso sem fios de área reduzida, o respeito dos limites de exposição agregada a campos eletromagnéticos aplicáveis nos termos do direito da União.\n\n3. Os operadores que tenham implantado pontos de acesso sem fios de áreas reduzidas das classes E2 ou E10 que satisfaçam as condições enunciadas no n.º 1 devem, no prazo máximo de 1 mês a contar da implantação de cada ponto de acesso, notificar a autoridade nacional competente da instalação e localização desses pontos de acesso, bem como da conformidade desses pontos de acesso com os requisitos estabelecidos no n.º 1, alíneas a) ou b)."
+  },
+  "5a2a21231d2c872a": {
+   "fragment_id": "Artigo 4.º",
+   "type": "artigo",
+   "heading": "Artigo 4.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 4.º\n\nOs Estados-Membros devem acompanhar com regularidade a aplicação do presente regulamento e apresentar à Comissão um relatório sobre a sua aplicação, em especial do artigo 3.º, n.º 1, incluindo sobre as tecnologias utilizadas pelos pontos de acesso sem fios de área reduzida implantados, pela primeira vez até 31 de dezembro de 2021, subsequentemente, anualmente até 31 de dezembro de 2023. A partir de 1 de janeiro de 2024, os Estados-Membros devem apresentar um relatório à Comissão de dois em dois anos, pela primeira vez até 31 de março de 2026. Estes relatórios abrangem um período de 2 anos civis e são apresentados à Comissão até 31 de março do ano seguinte ao final do período de referência."
+  },
+  "363dcb546bac17de": {
+   "fragment_id": "Artigo 5.º",
+   "type": "artigo",
+   "heading": "Artigo 5.º",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 5.º\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 21 de dezembro de 2020.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "ef7526416487ba23": {
+   "fragment_id": "A. Condições referidas no artigo 3.º, n.º 1, alínea b)",
+   "type": "divisao",
+   "heading": "A. Condições referidas no artigo 3.º, n.º 1, alínea b)",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### A. Condições referidas no artigo 3.º, n.º 1, alínea b)\n\n1. O volume da parte visível para o público em geral de um ponto de acesso sem fios de área reduzida que sirva um ou mais utilizadores do espetro de radiofrequências não excede 30 litros.\n\n2. O volume total das partes visíveis para o público em geral de vários pontos de acesso sem fios de área reduzida que compartilham a mesma infraestrutura de uma superfície individual delimitada (por exemplo postes de iluminação, semáforos, painéis publicitários ou paragens de autocarro) não excede 30 litros.\n\n3. Se o sistema de antena ou outros elementos do ponto de acesso sem fios de área reduzida (por exemplo, uma unidade de radiofrequências, um processador digital, uma unidade de armazenamento, um sistema de arrefecimento, uma fonte de alimentação, cabos de ligação, elementos intermédios ou elementos de ligação à terra ou de fixação) forem instalados separadamente, as partes que excederiam o limite de 30 litros são instaladas de forma a serem invisíveis para o público em geral.\n\n4. O ponto de acesso sem fios de área reduzida apresenta coerência visual com a estrutura de suporte e dimensões proporcionadas comparativamente às dimensões globais da estrutura de suporte, uma forma coerente, cores neutras semelhantes ou harmonizadas com as da estrutura de suporte e cabos escondidos e, em conjunto com outros pontos de acesso sem fios de área reduzida já instalados no mesmo local ou em locais adjacentes, não gera poluição visual agregada.\n\n5. O peso e a forma do ponto de acesso sem fios de área reduzida não exigem reforço estrutural da estrutura de suporte.\n\n6. Os pontos de acesso sem fios de área reduzida da classe de instalação E10 só podem ser implantados em espaços exteriores ou em espaços interiores de grande dimensão, com pé-direito de, pelo menos, 4 metros."
+  },
+  "84910a913bdf44f4": {
+   "fragment_id": "B. Requisitos da norma europeia referidos no artigo 3.º, n.º 1",
+   "type": "divisao",
+   "heading": "B. Requisitos da norma europeia referidos no artigo 3.º, n.º 1",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### B. Requisitos da norma europeia referidos no artigo 3.º, n.º 1\n\n1. A implantação de pontos de acesso sem fios de área reduzida deve ser conforme com as classes de instalação E0, E2 e E10 previstas no quadro 2 do ponto 6.2.5 da norma europeia EN 62232:2022 — «Determinação da intensidade do campo de RF, densidade de potência e SAR nas imediações de estações de base com a finalidade de avaliar a exposição humana».\n\n2. Nos casos em que vários sistemas de antena (ou partes dos mesmos) pertencentes a um ou mais pontos de acesso sem fios de área reduzida abrangidos pelo presente regulamento compartilham determinada localização, os critérios para a p.i.r.e. definidos na norma referida no ponto 1 aplicam-se à soma da p.i.r.e. de todos os sistemas de antena (ou partes dos mesmos) que compartilham a localização em causa. No caso de implantação colocalizada de sistemas de antena, ou de partes dos mesmos, a comprovação da conformidade da p.i.r.e. agregada pode ser apresentada conjuntamente pelas entidades que procedem à implantação, salvo disposição em contrário da legislação nacional"
+  }
+ }
+}

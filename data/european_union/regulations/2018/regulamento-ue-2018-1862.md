@@ -40,6 +40,86 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-08-01'
+version_history:
+  file: regulamento-ue-2018-1862.versoes.json
+  count: 4
+  source_lastmod: '2022-08-01'
+  versions:
+  - date: '2018-12-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-11'
+    amending: eu:celex:32019R0818:por
+    amending_title: REGULAMENTO (UE) 2019/818 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Arquitetura técnica e modo de funcionamento do SIS
+    - Altera Artigo 7.º — Serviço N.SIS e Gabinete SIRENE
+    - Altera Artigo 9.º — Conformidade técnica e funcional
+    - Altera Artigo 12.º — Manutenção de registos a nível nacional
+    - Altera Artigo 20.º — Categorias de dados
+    - Altera Artigo 32.º — Objetivos e condições para a introdução de indicações
+    - Altera Artigo 44.º. — Autoridades nacionais competentes com direito de acesso aos dados no SIS
+    - Altera Artigo 45.º — Serviços de registo automóvel
+    - Altera Artigo 49.º — Acesso da Eurojust aos dados do SIS
+    - Altera Artigo 55.º — Supressão das indicações
+    - Altera Artigo 74.º — Controlo e estatísticas
+    - Altera Artigo 77.º — Alteração da Decisão 2007/533/JAI
+    - Altera Artigo 79.º — Entrada em vigor, entrada em funcionamento e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita TABELA DE CORRESPONDÊNCIA
+  - date: '2021-08-03'
+    amending: eu:celex:32021R1150:por
+    amending_title: REGULAMENTO (UE) 2021/1150 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Conformidade técnica e funcional
+    - Altera Artigo 36.º — Objetivos e condições para a introdução de indicações
+    - Altera Artigo 37.º — Execução das medidas a tomar com base numa indicação
+    - Altera Artigo 44.º. — Autoridades nacionais competentes com direito de acesso aos dados no SIS
+    - Altera Artigo 45.º — Serviços de registo automóvel
+    - Altera Artigo 47.º — Serviços de registo de armas de fogo
+    - Altera Artigo 49.º — Acesso da Eurojust aos dados do SIS
+    - Altera Artigo 55.º — Supressão das indicações
+    - Altera Artigo 77.º — Alteração da Decisão 2007/533/JAI
+    - Altera Notas
+    - Adita Artigo 18.º-B — Conservação de registos para efeitos de interoperabilidade com o ETIAS
+    - Adita Indicações relativas a pessoas e objetos para efeitos de controlo discreto, controlo de verificação ou controlo
+      específico
+    - Adita Artigo 49.º-A — Acesso da unidade central ETIAS aos dados no SIS
+    - Adita Artigo 50.º-B — Interoperabilidade com o ETIAS
+    - Suprime Indicações relativas a pessoas e objetos para efeitos de vigilância discreta, controlo de verificação ou controlo
+      específico
+  - date: '2022-08-01'
+    amending: eu:celex:32022R1190:por
+    amending_title: REGULAMENTO (UE) 2022/1190 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de julho de 2022
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Conformidade técnica e funcional
+    - Altera Artigo 18.º-B — Conservação de registos para efeitos de interoperabilidade com o ETIAS
+    - Altera Artigo 20.º — Categorias de dados
+    - Altera Artigo 24.º — Disposições gerais sobre a aposição de referências
+    - Altera Artigo 43.º — Regras específicas para a verificação ou consulta com recurso a fotografias, imagens faciais, dados
+      dactiloscópicos e perfis de ADN
+    - Altera Artigo 44.º. — Autoridades nacionais competentes com direito de acesso aos dados no SIS
+    - Altera Artigo 45.º — Serviços de registo automóvel
+    - Altera Artigo 48.º — Acesso da Europol aos dados no SIS
+    - Altera Artigo 49.º — Acesso da Eurojust aos dados do SIS
+    - Altera Artigo 53.º — Prazo de revisão das indicações relativas a pessoas
+    - Altera Artigo 54.º — Prazo de revisão das indicações relativas a objetos
+    - Altera Artigo 55.º — Supressão das indicações
+    - Altera Artigo 56.º — Tratamento dos dados do SIS
+    - Altera Artigo 74.º — Controlo e estatísticas
+    - Altera Artigo 77.º — Alteração da Decisão 2007/533/JAI
+    - Altera Artigo 79.º — Entrada em vigor, entrada em funcionamento e aplicação
+    - Altera Notas
+    - Adita CAPÍTULO IX-A
+    - Adita Indicações de informação relativas a nacionais de países terceiros no interesse da União
+    - Adita Artigo 37.º-A — Objetivos e condições para a introdução de indicações
+    - Adita Artigo 37.º-B — Execução das medidas a tomar com base numa indicação de informação
 identifiers:
   celex: 32018R1862
   eli: http://data.europa.eu/eli/reg/2018/1862/oj
@@ -54,7 +134,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/75ca2f4f-f9ed-11e8-a96d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e392bb56-335e-11ed-975d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1862-20220801
-  retrieved_at: '2026-10-22T02:46:08Z'
+  retrieved_at: '2026-10-22T17:06:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T04:46:53.260+01:00'
 integrity:
@@ -63,9 +143,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:08Z'
-  notes: Texto consolidado 02018R1862-20220801.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:42Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2018-1862.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -382,35 +462,19 @@ relationships:
   date: '2010-05-06'
 article_structure:
   article_count: 84
-  section_count: 40
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 41
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:08Z'
+  checked_at: '2026-10-22T17:06:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2018/1862 do Parlamento Europeu e do Conselho, de 28 de novembro de 2018
-
-> 02018R1862 — PT — 01.08.2022 — 003.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0818) — [REGULAMENTO (UE) 2019/818 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0818) — L 135 — 85 — 22.5.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R1150) — [REGULAMENTO (UE) 2021/1150 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1150) — L 249 — 1 — 14.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32022R1190) — [REGULAMENTO (UE) 2022/1190 DO PARLAMENTO EUROPEU E DO CONSELHO de 6 de julho de 2022](http://publications.europa.eu/resource/celex/32022R1190) — L 185 — 1 — 12.7.2022
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32018R1862R%2804%29) — [Rectificação, JO L 013, 20.1.2022, p. 76 (2018/1862)](http://publications.europa.eu/resource/celex/32018R1862R%2804%29)
-
-## REGULAMENTO (UE) 2018/1862 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 28 de novembro de 2018
 

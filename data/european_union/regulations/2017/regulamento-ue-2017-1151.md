@@ -38,6 +38,202 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-13'
+version_history:
+  file: regulamento-ue-2017-1151.versoes.json
+  count: 5
+  source_lastmod: '2026-08-13'
+  versions:
+  - date: '2017-07-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2017-07-27'
+    amending: eu:celex:32017R1154:por
+    amending_title: REGULAMENTO (UE) 2017/1154 DA COMISSÃO de 7 de junho de 2017; REGULAMENTO (UE) 2017/1347 DA COMISSÃO de
+      13 de julho de 2017
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de homologação
+    - Altera Artigo 5.º — Pedido de homologação CE de um modelo de veículo no que respeita às emissões e ao acesso à informação
+      relativa à reparação e manutenção de veículos
+    - Altera Artigo 10.º — Dispositivos de controlo da poluição
+    - Altera Artigo 15.º — Disposições transitórias
+    - Altera Artigo 17.º — Alteração do Regulamento (CE) n.º 692/2008
+    - Altera Artigo 20.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 18.º — Alterações do Regulamento (UE) n.º 1230/2012 da Comissão ([^4^](http://publications.europa.eu/resource/cellar/8f58e3ad-3d68-4a95-b83d-d2835e9f3d4b.0015.02/DOC_786#E0006))
+    - Adita Artigo 18.º-A — Veículos híbridos e veículos híbridos elétricos recarregáveis
+    - Adita LISTA DE ANEXOS
+    - Adita ANEXO I
+    - Adita DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE
+    - Adita 1. REQUISITOS ADICIONAIS PARA A CONCESSÃO DA HOMOLOGAÇÃO CE
+    - Adita 1.1. Requisitos adicionais para os veículos monocombustível a gás e para os veículos bicombustível a gás
+    - Adita 1.2. Requisitos adicionais para os veículos multicombustível.
+    - Adita 2. ENSAIOS E REQUISITOS TÉCNICOS ADICIONAIS
+    - Adita 2.1. Pequenos fabricantes
+    - Adita 2.2. Entradas dos reservatórios de combustível
+    - Adita 2.3. Disposições para a segurança do sistema eletrónico
+    - Adita 2.4. Realização dos ensaios
+    - Adita 3. EXTENSÃO DAS HOMOLOGAÇÕES
+    - Adita 3.1. Extensões relativas às emissões de escape (ensaios dos tipos 1 e 2)
+    - Adita 3.2. Extensões relativas às emissões por evaporação (ensaio de tipo 4)
+    - Adita 3.3. Extensões relativas à durabilidade dos dispositivos de controlo da poluição (ensaio de tipo 5)
+    - Adita 3.4. Extensões relativas ao sistema de diagnóstico a bordo
+    - Adita 3.5. Extensões relativas ao ensaio a baixa temperatura (ensaio do tipo 6)
+    - Adita 3.5.1. Veículos com massas de referência diferentes
+    - Adita 3.5.2. Veículos com relações globais de transmissão diferentes
+    - Adita 3.5.3. Veículos com massas de referência e relações de transmissão diferentes
+    - Adita 4. CONFORMIDADE DA PRODUÇÃO
+    - Adita 4.1. Introdução
+    - Adita 4.2. Controlo da conformidade do veículo no que respeita ao ensaio do tipo 1
+    - Adita 4.3. PEV
+    - Adita 4.4. OVC-HEV
+    - Adita 4.5. Controlo da conformidade do veículo no que respeita ao ensaio do tipo 3
+    - Adita 4.6. Controlo da conformidade do veículo no que respeita ao ensaio do tipo 4
+    - Adita 4.7. Controlo da conformidade do veículo no que respeita aos sistemas de diagnóstico a bordo (OBD)
+    - Adita Apêndice 1
+  - date: '2019-01-01'
+    amending: null
+    amending_title: null
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de homologação
+    - Altera Artigo 4.º — Requisitos de homologação relativamente ao sistema OBD
+    - Altera Artigo 5.º — Pedido de homologação CE de um modelo de veículo no que respeita às emissões e ao acesso à informação
+      relativa à reparação e manutenção de veículos
+    - Altera Artigo 8.º — Conformidade da produção
+    - Altera Artigo 9.º — Conformidade em circulação
+    - Altera Artigo 10.º — Dispositivos de controlo da poluição
+    - Altera Artigo 11.º — Pedido de homologação CE de um tipo de dispositivo de substituição para controlo da poluição enquanto
+      unidade técnica
+    - Altera Artigo 12.º — Disposições administrativas relativas à homologação CE de dispositivos de substituição para controlo
+      da poluição enquanto unidades técnicas
+    - Altera Artigo 13.º — Acesso à informação relativa ao sistema OBD e à reparação e manutenção dos veículos
+    - Altera Artigo 15.º — Disposições transitórias
+    - Altera Artigo 20.º — Entrada em vigor e aplicação
+    - Adita Artigo 4.º-A — Requisitos de homologação no que diz respeito aos dispositivos de monitorização do consumo de combustível
+      e/ou de energia elétrica
+    - Adita Artigo 6.º
+    - Adita Artigo 14.º
+    - Adita Artigo 17.º — Alteração do Regulamento (CE) n.o 692/2008
+    - Adita Artigo 18.º
+    - Adita ANEXO I — DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE
+    - Adita SECÇÃO I
+    - Adita PARTE I
+    - Adita PARTE II
+    - Adita ANEXO II — [▼M3](http://publications.europa.eu/resource/celex/32018R1832)
+    - Adita PARTE A — [▼B](http://publications.europa.eu/resource/celex/32017R1151)
+    - Adita PARTE B — NOVA METODOLOGIA DE CONFORMIDADE EM CIRCULAÇÃO
+    - Adita TÍTULO — Breve panorâmica e principais conclusões
+    - Adita ANEXO III — Reservado
+    - Adita ANEXO III-A — VERIFICAÇÃO DAS EMISSÕES EM CONDIÇÕES REAIS DE CONDUÇÃO
+    - 'Adita Anexo: — [▼B](http://publications.europa.eu/resource/celex/32017R1151)'
+    - Adita ANEXO IV — DADOS RELATIVOS ÀS EMISSÕES NECESSÁRIOS NA HOMOLOGAÇÃO PARA FINS DE INSPEÇÃO TÉCNICA
+    - Adita ANEXO V — CONTROLO DAS EMISSÕES DE GASES DO CÁRTER
+    - Adita ANEXO VI — DETERMINAÇÃO DAS EMISSÕES POR EVAPORAÇÃO
+    - Adita ANEXO VII — VERIFICAÇÃO DA DURABILIDADE DOS DISPOSITIVOS DE CONTROLO DA POLUIÇÃO
+    - Adita ANEXO VIII — ENSAIO DE EMISSÕES MÉDIAS A BAIXAS TEMPERATURAS AMBIENTES
+    - Adita ANEXO IX — ESPECIFICAÇÕES DOS COMBUSTÍVEIS DE REFERÊNCIA
+    - Adita ANEXO X — Reservado
+    - Adita ANEXO XI — SISTEMAS DE DIAGNÓSTICO A BORDO (OBD) DE VEÍCULOS A MOTOR
+    - Adita ANEXO XII — [▼M3](http://publications.europa.eu/resource/celex/32018R1832)
+    - Adita ANEXO XIII — HOMOLOGAÇÃO CE DE DISPOSITIVOS DE SUBSTITUIÇÃO PARA CONTROLO DA POLUIÇÃO ENQUANTO UNIDADES TÉCNICAS
+    - Adita SECÇÃO II
+  - date: '2023-09-01'
+    amending: eu:celex:32018R1832:por
+    amending_title: REGULAMENTO (UE) 2018/1832 DA COMISSÃO de 5 de novembro de 2018; M4; REGULAMENTO (UE) 2023/443 DA COMISSÃO
+      de 8 de fevereiro de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Requisitos de homologação
+    - Altera Artigo 4.º — Requisitos de homologação relativamente ao sistema OBD
+    - Altera Artigo 4.º-A — Requisitos de homologação no que diz respeito aos dispositivos de monitorização do consumo de
+      combustível e/ou de energia elétrica
+    - Altera Artigo 6.º
+    - Altera Artigo 7.º — Alteração das homologações
+    - Altera Artigo 8.º — Conformidade da produção
+    - Altera Artigo 10.º — Dispositivos de controlo da poluição
+    - Altera Artigo 11.º — Pedido de homologação CE de um tipo de dispositivo de substituição para controlo da poluição enquanto
+      unidade técnica
+    - Altera Artigo 12.º — Disposições administrativas relativas à homologação CE de dispositivos de substituição para controlo
+      da poluição enquanto unidades técnicas
+    - Altera Artigo 15.º — Disposições transitórias
+    - Altera Artigo 20.º — Entrada em vigor e aplicação
+    - Altera PARTE I
+    - Altera PARTE II
+    - Adita Artigo 5.º
+    - Adita Pedido de homologação CE de um veículo no que respeita às emissões
+    - Adita Disposições administrativas para a homologação CE de um veículo no que respeita às emissões
+    - Adita Artigo 9.º
+    - Adita Conformidade em circulação
+    - Adita Artigo 17.º — Alteração do Regulamento (CE) n.º 692/2008
+    - Adita Artigo 18.º — Alterações do Regulamento (UE) n.º 1230/2012 da Comissão ([^10^](http://publications.europa.eu/resource/cellar/6fdb9c69-d659-11ed-a05c-01aa75ed71a1.0015.02/DOC_1#E0012))
+    - Adita LISTA DE ANEXOS
+    - Adita ANEXO I
+    - Adita DISPOSIÇÕES ADMINISTRATIVAS RELATIVAS À HOMOLOGAÇÃO CE
+    - Adita 1. REQUISITOS ADICIONAIS PARA A CONCESSÃO DA HOMOLOGAÇÃO CE
+    - Adita 2. ENSAIOS E REQUISITOS TÉCNICOS ADICIONAIS
+    - Adita 3. EXTENSÃO DAS HOMOLOGAÇÕES
+    - Adita 4. CONFORMIDADE DA PRODUÇÃO
+    - Adita Apêndice 3
+    - Adita MODELO
+    - Adita DE FICHA DE INFORMAÇÕES N.º …
+    - Adita RELATIVA À HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO NO QUE RESPEITA ÀS EMISSÕES
+    - Adita Apêndice 3-A
+    - Adita DOSSIÊS
+    - Adita Dossiê oficial
+    - Adita Dossiê alargado
+    - Adita Dossiê alargado para aplicação da AES n.º YYY/OEM em conformidade com o Regulamento (UE) 2017/1151
+    - Adita Apêndice 3-B
+    - Adita Metodologia para a avaliação da AES
+  - date: '2026-08-13'
+    amending: eu:celex:32026R1791:por
+    amending_title: REGULAMENTO (UE) 2026/1791 DA COMISSÃO de 23 de julho de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Disposições administrativas para a homologação CE de um veículo no que respeita às emissões
+    - Altera Conformidade em circulação
+    - Altera Artigo 10.º — Dispositivos de controlo da poluição
+    - Altera Artigo 15.º — Disposições transitórias
+    - Altera Artigo 17.º — Alteração do Regulamento (CE) n.º 692/2008
+    - Altera 2. ENSAIOS E REQUISITOS TÉCNICOS ADICIONAIS
+    - Altera 4. CONFORMIDADE DA PRODUÇÃO
+    - Altera RELATIVA À HOMOLOGAÇÃO CE DE UM MODELO DE VEÍCULO NO QUE RESPEITA ÀS EMISSÕES
+    - Altera Metodologia para a avaliação da AES
+    - Altera 1. INFORMAÇÃO COMPLEMENTAR
+    - Altera 2.1. Resultados do ensaio de emissões de escape
+    - Altera 2.5. Resultados do ensaio de emissões de CO2 e consumo de combustível
+    - 'Altera 4.2. Unidade(s) de tração elétrica(s):'
+    - Altera Sistema de numeração dos certificados de homologação CE
+    - Altera Apêndice 7
+    - Altera PARTE I
+    - Altera PARTE II
+    - Altera 2. DESCRIÇÃO DOS VEÍCULOS ENSAIADOS
+    - Altera 5. ENSAIOS ISC
+    - Altera 2. DEFINIÇÕES
+    - Altera 3.3. Seleção de veículos para ensaios PEMS
+    - Altera 3.4. Validação de uma família de ensaio PEMS
+    - Altera 3.5. Comunicação de informações para homologação
+    - Altera 5.3. Estado e funcionamento do veículo
+    - Altera 5.5. Óleo lubrificante, combustível e reagente
+    - Altera Avaliação da validade do percurso — esquema (ou seja, não estão incluídos todos os pormenores nas etapas da figura,
+      consultar os apêndices pertinentes para mais pormenores)
+    - Altera 6. PROCEDIMENTOS PÓS-ENSAIO
+    - Altera 3. VERIFICAÇÃO DA LINEARIDADE
+    - Altera 8. SENSORES E EQUIPAMENTO AUXILIAR
+    - Altera 3. PROCEDIMENTO DE VALIDAÇÃO DO PEMS
+    - Altera 5. CORREÇÃO DOS VALORES MEDIDOS
+    - Altera 7. DETERMINAÇÃO DO CAUDAL MÁSSICO DAS EMISSÕES DE ESCAPE
+    - Altera 8. CÁLCULO DAS EMISSÕES MÁSSICAS INSTANTÂNEAS DOS COMPONENTES GASOSOS
+    - Altera 3. JANELAS DE CÁLCULO DAS MÉDIAS MÓVEIS
+    - Altera 4. AVALIAÇÃO DA VALIDADE DO PERCURSO
+    - Altera 3. ESPECIFICAÇÕES E ENSAIOS
+    - Altera B. COMBUSTÍVEIS DE REFERÊNCIA PARA O ENSAIO DE EMISSÕES A BAIXAS TEMPERATURAS AMBIENTES — ENSAIO DO TIPO 6
+    - Altera relativa à homologação CE de dispositivos de substituição para controlo da poluição
+    - Altera Alterações do anexo II da Diretiva 2007/46/CE
 identifiers:
   celex: 32017R1151
   eli: http://data.europa.eu/eli/reg/2017/1151/oj
@@ -52,7 +248,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7d1c640d-62d8-11e7-b2f2-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/b81680ab-ccc2-11f1-8b4c-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02017R1151-20260813
-  retrieved_at: '2026-10-22T02:49:20Z'
+  retrieved_at: '2026-10-22T17:05:32Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-10T23:37:23.301+01:00'
 integrity:
@@ -61,9 +257,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:20Z'
-  notes: Texto consolidado 02017R1151-20260813.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:05:32Z'
+  notes: 5 versão(ões); histórico completo em regulamento-ue-2017-1151.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -295,40 +491,20 @@ relationships:
   date: '2008-08-01'
 article_structure:
   article_count: 19
-  section_count: 295
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 299
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:20Z'
-  warnings: []
+  checked_at: '2026-10-22T17:05:32Z'
+  warnings:
+  - '02017R1151-20200125: versão indisponível (Tipo de conteúdo inesperado para o XHTML: image/jpeg)'
   errors: []
 ---
 
 # Regulamento (UE) 2017/1151 da Comissão, de 1 de junho de 2017
-
-> 02017R1151 — PT — 13.08.2026 — 005.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32017R1154) — [REGULAMENTO (UE) 2017/1154 DA COMISSÃO de 7 de junho de 2017](http://publications.europa.eu/resource/celex/32017R1154) — L 175 — 708 — 7.7.2017
-- [►M2](http://publications.europa.eu/resource/celex/32017R1347) — [REGULAMENTO (UE) 2017/1347 DA COMISSÃO de 13 de julho de 2017](http://publications.europa.eu/resource/celex/32017R1347) — L 192 — 1 — 24.7.2017
-- [►M3](http://publications.europa.eu/resource/celex/32018R1832) — [REGULAMENTO (UE) 2018/1832 DA COMISSÃO de 5 de novembro de 2018](http://publications.europa.eu/resource/celex/32018R1832) — L 301 — 1 — 27.11.2018
-- [M4](http://publications.europa.eu/resource/celex/32020R0049) — [REGULAMENTO (UE) 2020/49 DA COMISSÃO de 21 de janeiro de 2020](http://publications.europa.eu/resource/celex/32020R0049) — L 17 — 1 — 22.1.2020
-- [►M5](http://publications.europa.eu/resource/celex/32023R0443) — [REGULAMENTO (UE) 2023/443 DA COMISSÃO de 8 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0443) — L 66 — 1 — 2.3.2023
-- [►M6](http://publications.europa.eu/resource/celex/32026R1791) — [REGULAMENTO (UE) 2026/1791 DA COMISSÃO de 23 de julho de 2026](http://publications.europa.eu/resource/celex/32026R1791) — L 1791 — 1 — 24.7.2026
-
-**Retificado por:**
-
-- [C1](http://publications.europa.eu/resource/celex/32017R1154R%2801%29) — [Rectificação, JO L 256, 4.10.2017, p. 11 (2017/1154)](http://publications.europa.eu/resource/celex/32017R1154R%2801%29)
-- [C2](http://publications.europa.eu/resource/celex/32017R1151R%2802%29) — [Rectificação, JO L 056, 28.2.2018, p. 66 (2017/1151)](http://publications.europa.eu/resource/celex/32017R1151R%2802%29)
-- [►C3](http://publications.europa.eu/resource/celex/32018R1832R%2805%29) — [Rectificação, JO L 263, 16.10.2019, p. 41 (2018/1832)](http://publications.europa.eu/resource/celex/32018R1832R%2805%29)
-
-## REGULAMENTO (UE) 2017/1151 DA COMISSÃO
 
 de 1 de junho de 2017
 

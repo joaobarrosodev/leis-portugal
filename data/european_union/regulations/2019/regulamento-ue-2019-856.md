@@ -36,6 +36,79 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2023-11-21'
+version_history:
+  file: regulamento-ue-2019-856.versoes.json
+  count: 3
+  source_lastmod: '2023-11-21'
+  versions:
+  - date: '2019-05-28'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-08-11'
+    amending: eu:celex:32021R1204:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1204 DA COMISSÃO de 10 de maio de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 9.º — Convites à apresentação de propostas
+    - Altera Artigo 10.º — Procedimento de candidatura
+    - Altera Artigo 13.º — Assistência ao desenvolvimento de projetos
+    - Altera Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta
+    - Altera Artigo 21.º — Papel dos Estados-Membros
+    - Altera Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade
+    - Altera Artigo 28.º — Data de entrada em vigor
+    - Altera Notas
+    - Adita Artigo 12.º
+    - Adita Procedimento de seleção relativo ao processo de candidatura em duas fases
+    - Adita Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase
+    - Adita Artigo 12.º-B — Procedimento de seleção para projetos de pequena escala
+    - Suprime Artigo 12.º — Procedimento de seleção
+  - date: '2023-11-21'
+    amending: eu:celex:32023R2537:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/2537 DA COMISSÃO de 15 de setembro de 2023
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 3.º — Objetivos operacionais
+    - Altera Artigo 4.º — Formas de apoio do Fundo de Inovação
+    - Altera Artigo 5.º — Custos pertinentes
+    - Altera Artigo 6.º — Desembolso das subvenções
+    - Altera Artigo 9.º — Convites à apresentação de propostas
+    - Altera Artigo 10.º — Procedimento de candidatura
+    - Altera Artigo 13.º — Assistência ao desenvolvimento de projetos
+    - Altera Artigo 18.º — Funções do organismo de execução
+    - Altera Artigo 19.º — Disposições específicas aplicáveis à execução do Fundo de Inovação em regime de gestão direta
+    - Altera Artigo 20.º — Gestão das receitas do Fundo de Inovação
+    - Altera Artigo 21.º — Papel dos Estados-Membros
+    - Altera Artigo 23.º — Acompanhamento e prestação de informações
+    - Altera Artigo 24.º — Avaliação
+    - Altera Artigo 27.º — Comunicação, partilha de conhecimentos e publicidade
+    - Altera Notas
+    - Adita Disposições específicas aplicáveis às subvenções que não sejam concedidas com base nos capítulos II-A, II-B ou
+      II-C
+    - Adita Artigo 11.º
+    - Adita Critérios de concessão
+    - Adita Procedimento de seleção respeitante ao processo de candidatura em duas fases
+    - Adita Artigo 12.º-A
+    - Adita Procedimento de seleção respeitante ao processo de candidatura numa só fase
+    - Adita Capítulo II-A
+    - Adita Assistência ao desenvolvimento de projetos
+    - Adita Capítulo II-B
+    - Adita Disposições específicas aplicáveis aos procedimentos de concurso competitivos
+    - Adita Artigo 13.º-A — Conceção e princípios do procedimento de concurso competitivo
+    - Adita Artigo 13.º-B — Convites à apresentação de propostas
+    - Adita Artigo 13.º-C — Requisitos de qualificação
+    - Adita Artigo 13.º-D — Procedimento de classificação
+    - Adita Artigo 13.º-E — Cumulação
+    - Adita Artigo 13.º-F — Depósitos
+    - Adita Capítulo II-C
+    - Adita Disposições específicas aplicáveis à assistência técnica prestada aos Estados-Membros com um baixo nível de participação
+      efetiva
+    - Adita Artigo 13.º-G — Assistência técnica prestada aos Estados-Membros com um baixo nível de participação efetiva
+    - Adita Disposições específicas aplicáveis a outras formas de apoio do Fundo de Inovação
+    - Suprime Disposições específicas aplicáveis às subvenções
+    - Suprime Artigo 11.º — Critérios de seleção
+    - Suprime Procedimento de seleção relativo ao processo de candidatura em duas fases
+    - Suprime Artigo 12.º-A — Procedimento de seleção relativo ao processo de candidatura numa só fase
 identifiers:
   celex: 32019R0856
   eli: http://data.europa.eu/eli/reg_del/2019/856/oj
@@ -50,7 +123,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/b6d43f0e-8115-11e9-9f05-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/27f6a9fd-990f-11ee-b164-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R0856-20231121
-  retrieved_at: '2026-10-22T03:19:12Z'
+  retrieved_at: '2026-10-22T17:08:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-13T08:27:28.326+01:00'
 integrity:
@@ -59,9 +132,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:19:12Z'
-  notes: Texto consolidado 02019R0856-20231121.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:08:30Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2019-856.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -121,30 +194,19 @@ relationships:
   source: http://publications.europa.eu/resource/cellar/8ad79802-db58-11e8-afb3-01aa75ed71a1
 article_structure:
   article_count: 37
-  section_count: 20
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 24
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:19:12Z'
+  checked_at: '2026-10-22T17:08:30Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2019/856 da Comissão, de 26 de fevereiro de 2019
-
-> 02019R0856 — PT — 21.11.2023 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R1204) — [REGULAMENTO DELEGADO (UE) 2021/1204 DA COMISSÃO de 10 de maio de 2021](http://publications.europa.eu/resource/celex/32021R1204) — L 261 — 4 — 22.7.2021
-- [►M2](http://publications.europa.eu/resource/celex/32023R2537) — [REGULAMENTO DELEGADO (UE) 2023/2537 DA COMISSÃO de 15 de setembro de 2023](http://publications.europa.eu/resource/celex/32023R2537) — L — 1 — 20.11.2023
-
-## REGULAMENTO DELEGADO (UE) 2019/856 DA COMISSÃO
 
 de 26 de fevereiro de 2019
 

@@ -1,0 +1,110 @@
+{
+ "schema": "leis-portugal/versoes/1",
+ "id": "eu:celex:32019R2243:por",
+ "consolidated_url": "https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02019R2243-20191230",
+ "dre_path": null,
+ "source_lastmod": "2019-12-30",
+ "versions": [
+  {
+   "date": "2019-12-30",
+   "future": false,
+   "celex": "02019R2243-20191230",
+   "acts": [],
+   "changes": [],
+   "fragments": [
+    "ba6b7e9e9a3109ee",
+    "90f2031c7d854ece",
+    "8edc84664631d846",
+    "88dfee62140dcd7d",
+    "10220b9774fa9034",
+    "d7f56723ac76b55d",
+    "24f6a152db75b30a",
+    "2f706f3e987dc82d",
+    "01e0736ce755591a",
+    "5e3ce28e6ad3db25"
+   ]
+  }
+ ],
+ "fragments": {
+  "ba6b7e9e9a3109ee": {
+   "fragment_id": "preambulo",
+   "type": "preambulo",
+   "heading": null,
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "de 17 de dezembro de 2019\n\nque estabelece um modelo para o resumo do contrato a utilizar pelos fornecedores de serviços de comunicações eletrónicas acessíveis ao público nos termos da Diretiva (UE) 2018/1972 do Parlamento Europeu e do Conselho\n\n(Texto relevante para efeitos do EEE)"
+  },
+  "90f2031c7d854ece": {
+   "fragment_id": "Artigo 1.º — Modelo de resumo do contrato",
+   "type": "artigo",
+   "heading": "Artigo 1.º — Modelo de resumo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 1.º — Modelo de resumo do contrato\n\nOs fornecedores de serviços de comunicações eletrónicas acessíveis ao público, que não os serviços de transmissão utilizados para a prestação de serviços máquina a máquina, devem usar o modelo estabelecido na parte A do anexo para disponibilizarem o resumo do contrato, seguindo, para tal, as instruções fornecidas na parte B do anexo."
+  },
+  "8edc84664631d846": {
+   "fragment_id": "Artigo 2.º — Apresentação do conteúdo",
+   "type": "artigo",
+   "heading": "Artigo 2.º — Apresentação do conteúdo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 2.º — Apresentação do conteúdo\n\n1. O resumo do contrato não pode, salvo casos devidamente justificados, exceder o equivalente a uma página A4 impressa. Se um contrato agrupar serviços ou serviços e equipamento terminal, incluindo, pelo menos, um serviço de acesso à Internet ou um serviço de comunicações interpessoais com base em números acessível ao público, o resumo do contrato não pode, salvo casos devidamente justificados, exceder o equivalente a três páginas A4 impressas.\n\n2. As informações incluídas no resumo do contrato devem ser apresentadas de acordo com a ordem de rubricas que consta do anexo, em formato vertical. O tipo de letra utilizado deve permitir a fácil leitura do texto. O tamanho da letra não pode ser inferior a dez pontos. Em casos devidamente justificados, o tamanho da letra pode ser reduzido; nesses casos, deve ser prevista a possibilidade de ampliar o resumo do contrato por via eletrónica ou de o receber num tamanho de letra não inferior a dez pontos, mediante pedido.\n\n3. O conteúdo do resumo do contrato deve ser facilmente legível, apresentando um contraste suficiente entre o tipo de letra e o fundo, em especial se forem utilizadas cores. Os elementos visuais não podem sobrepor-se ao texto.\n\n4. O resumo do contrato deve ser redigido numa linguagem de fácil leitura e compreensão pelos consumidores e centrar-se nas informações essenciais de que os consumidores necessitam para comparar propostas e tomar decisões informadas.\n\n5. As rubricas devem ser claramente distinguíveis do restante texto."
+  },
+  "88dfee62140dcd7d": {
+   "fragment_id": "Artigo 3.º — Entrada em vigor e aplicação",
+   "type": "artigo",
+   "heading": "Artigo 3.º — Entrada em vigor e aplicação",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "###### Artigo 3.º — Entrada em vigor e aplicação\n\nO presente regulamento entra em vigor no vigésimo dia seguinte ao da sua publicação no *Jornal Oficial da União Europeia*.\n\nO presente regulamento é aplicável a partir de 21 de dezembro de 2020.\n\nO presente regulamento é obrigatório em todos os seus elementos e diretamente aplicável em todos os Estados-Membros."
+  },
+  "10220b9774fa9034": {
+   "fragment_id": "ANEXO",
+   "type": "divisao",
+   "heading": "ANEXO",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## ANEXO"
+  },
+  "d7f56723ac76b55d": {
+   "fragment_id": "Modelo de resumo do contrato",
+   "type": "divisao",
+   "heading": "Modelo de resumo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### Modelo de resumo do contrato"
+  },
+  "24f6a152db75b30a": {
+   "fragment_id": "PARTE A — Modelo",
+   "type": "divisao",
+   "heading": "PARTE A — Modelo",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE A — Modelo\n\n[Nome do serviço] [Fornecedor/logótipo do fornecedor] [Contacto]"
+  },
+  "2f706f3e987dc82d": {
+   "fragment_id": "Resumo do contrato",
+   "type": "divisao",
+   "heading": "Resumo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "#### Resumo do contrato\n\n**Serviço** *s e equipamento*\n\n[…]\n\n*Débitos do serviço de Internet e medidas corretivas*\n\n[…]\n\n**Preços**\n\n[…]\n\n**Duração, renovação e cessação do contrato**\n\n[…]\n\n**Funcionalidades para os utilizadores finais com deficiência**\n\n[…]\n\n*Outras informações importantes*\n\n[…]"
+  },
+  "01e0736ce755591a": {
+   "fragment_id": "PARTE B — Instruções de preenchimento do modelo de resumo do contrato",
+   "type": "divisao",
+   "heading": "PARTE B — Instruções de preenchimento do modelo de resumo do contrato",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "### PARTE B — Instruções de preenchimento do modelo de resumo do contrato\n\nO serviço ou a designação comercial do(s) serviço(s) de comunicações eletrónicas oferecido(s) deve ser indicado imediatamente acima do título «Resumo do contrato». O nome do fornecedor deve ser indicado imediatamente a seguir ao nome do(s) serviço(s) de comunicações eletrónicas. O fornecedor pode inserir o seu logótipo à direita do título «Resumo do contrato». As três frases introdutórias são parte integrante do resumo do contrato e não podem ser alteradas.\n\nO nome, o endereço e as informações de contacto direto do fornecedor de serviço e, se forem diferentes, as informações de contacto direto para quaisquer reclamações devem ser incluídas abaixo do nome do fornecedor. O resumo do contrato deve ser datado.\n\nSe o contrato não incluir a disponibilização de equipamento terminal, a referência a equipamento sob o título «Serviço(s) e equipamento» deve ser suprimida ou assinalada como não aplicável. Se o contrato não incluir serviço de acesso à Internet, a secção «Débito do serviço de acesso à Internet e medidas corretivas» deve ser suprimida ou assinalada como não aplicável. Se não forem fornecidas outras informações, a secção «Outras informações pertinentes» deve ser suprimida ou assinalada como não aplicável.\n\nNa parte A é utilizado um tipo de letra em itálico para esclarecer que as rubricas e informações conexas acima mencionadas não possuem sempre caráter obrigatório. Os parêntesis retos utilizados na parte A devem ser substituídos pela informação exigida.\n\nSecção «Serviços e equipamento»\n\nSecção «Débitos do serviço de Internet e medidas corretivas»\n\nSecção «Preços»\n\nSecção «Duração, renovação e cessação do contrato»\n\nSecção «Funcionalidades para os utilizadores finais com necessidades especiais»\n\nSecção «Outras informações pertinentes»\n\n---"
+  },
+  "5e3ce28e6ad3db25": {
+   "fragment_id": "Notas",
+   "type": "divisao",
+   "heading": "Notas",
+   "in_force_from": null,
+   "changed_by": [],
+   "markdown": "## Notas\n\n> ([^1^](http://publications.europa.eu/resource/cellar/afba3f51-64dd-11ea-b735-01aa75ed71a1.0019.03/DOC_1#src.E0001)) Artigo 102.º, n.º 3, da Diretiva (UE) 2018/1972 do Parlamento Europeu e do Conselho, de 11 de dezembro de 2018, que estabelece o Código Europeu das Comunicações Eletrónicas (JO L 321 de 17.12.2018, p. 36)."
+  }
+ }
+}

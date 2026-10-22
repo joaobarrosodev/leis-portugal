@@ -39,6 +39,45 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2021-08-03'
+version_history:
+  file: regulamento-ue-2018-1861.versoes.json
+  count: 3
+  source_lastmod: '2021-08-03'
+  versions:
+  - date: '2018-12-07'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2019-06-11'
+    amending: eu:celex:32019R0817:por
+    amending_title: REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 4.º — Arquitetura técnica e modo de funcionamento do SIS
+    - Altera Artigo 7.º — Serviço N.SIS e Gabinete SIRENE
+    - Altera Artigo 9.º — Conformidade técnica e funcional
+    - Altera Artigo 12.º — Manutenção de registos a nível nacional
+    - Altera Artigo 20.º — Categorias de dados
+    - Altera Artigo 34.º. — Autoridades nacionais competentes com direito de acesso aos dados no SIS
+    - Altera Artigo 60.º — Controlo e estatísticas
+    - Altera Artigo 63.º — Alteração do Regulamento (CE) n.º 1987/2006
+    - Altera Artigo 66.º — Entrada em vigor, entrada em funcionamento e aplicação
+    - Altera Notas
+    - Adita ANEXO
+    - Adita TABELA DE CORRESPONDÊNCIA
+  - date: '2021-08-03'
+    amending: eu:celex:32021R1152:por
+    amending_title: REGULAMENTO (UE) 2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021
+    changes:
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 9.º — Conformidade técnica e funcional
+    - Altera Artigo 34.º. — Autoridades nacionais competentes com direito de acesso aos dados no SIS
+    - Altera Artigo 63.º — Alteração do Regulamento (CE) n.º 1987/2006
+    - Altera Notas
+    - Adita Artigo 18.º-B — Conservação de registos para efeitos de interoperabilidade com o ETIAS
+    - Adita Artigo 36.º-B — Acesso aos dados do SIS pela unidade central do ETIAS
+    - Adita Artigo 36.º-C — Interoperabilidade com o ETIAS
 identifiers:
   celex: 32018R1861
   eli: http://data.europa.eu/eli/reg/2018/1861/oj
@@ -53,7 +92,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e4787e73-f9ec-11e8-a96d-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e2f961c0-00fe-11ec-8f47-01aa75ed71a1.0018.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R1861-20210803
-  retrieved_at: '2026-10-22T02:46:07Z'
+  retrieved_at: '2026-10-22T17:06:37Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T18:34:17.291+01:00'
 integrity:
@@ -62,9 +101,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:46:07Z'
-  notes: Texto consolidado 02018R1861-20210803.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:06:37Z'
+  notes: 3 versão(ões); histórico completo em regulamento-ue-2018-1861.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -334,30 +373,19 @@ relationships:
   date: '2006-12-20'
 article_structure:
   article_count: 69
-  section_count: 24
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 25
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:46:07Z'
+  checked_at: '2026-10-22T17:06:37Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2018/1861 do Parlamento Europeu e do Conselho, de 28 de novembro de 2018
-
-> 02018R1861 — PT — 03.08.2021 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R0817) — [REGULAMENTO (UE) 2019/817 DO PARLAMENTO EUROPEU E DO CONSELHO de 20 de maio de 2019](http://publications.europa.eu/resource/celex/32019R0817) — L 135 — 27 — 22.5.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R1152) — [REGULAMENTO (UE) 2021/1152 DO PARLAMENTO EUROPEU E DO CONSELHO de 7 de julho de 2021](http://publications.europa.eu/resource/celex/32021R1152) — L 249 — 15 — 14.7.2021
-
-## REGULAMENTO (UE) 2018/1861 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 28 de novembro de 2018
 

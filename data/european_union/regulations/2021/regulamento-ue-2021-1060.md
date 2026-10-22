@@ -38,6 +38,314 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-07-01'
+version_history:
+  file: regulamento-ue-2021-1060.versoes.json
+  count: 7
+  source_lastmod: '2026-07-01'
+  versions:
+  - date: '2021-06-30'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-10-26'
+    amending: eu:celex:32022R2039:por
+    amending_title: REGULAMENTO (UE) 2022/2039 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Tratamento e proteção de dados pessoais
+    - Altera Artigo 19.º — Medidas que estabelecem uma ligação entre a eficácia dos Fundos e uma boa governação económica
+    - Altera Artigo 20.º — Medidas temporárias relativas à utilização dos Fundos em resposta a circunstâncias excecionais
+      ou invulgares
+    - Altera Artigo 21.º — Elaboração e apresentação de programas
+    - Altera Artigo 49.º — Responsabilidades da autoridade de gestão
+    - Altera Artigo 55.º — Custos diretos com pessoal no quadro de subvenções
+    - Altera Artigo 73.º — Seleção das operações pela autoridade de gestão
+    - Altera Artigo 90.º — Pré-financiamento
+    - Altera Artigo 93.º — Disposições comuns em matéria de pagamentos
+    - Altera Artigo 109.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 112.º — Determinação das taxas de cofinanciamento
+    - Altera DIMENSÕES E CÓDIGOS DOS TIPOS DE INTERVENÇÃO DO FEDER, DO FSE+, DO FUNDO DE COESÃO E DO FTJ – ARTIGO 22.º, N.º
+      5
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea f), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea c), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea h), e artigo 110.º do RDC'
+    - 'Altera Referência: artigo 6.º, n.º 2, e artigo 11.º, n.º 1, alínea d), do RDC'
+    - Altera CONDIÇÕES HABILITADORAS HORIZONTAIS – ARTIGO 15.º, N.º 1
+    - Altera CONDIÇÕES HABILITADORAS TEMÁTICAS APLICÁVEIS AO FEDER, AO FSE+ E AO FUNDO DE COESÃO – ARTIGO 15.º, N.º 1
+    - Altera MODELO PARA OS PROGRAMAS APOIADOS PELO FEDER (OBJETIVO DE INVESTIMENTO NO EMPREGO E NO CRESCIMENTO), PELO FSE+,
+      PELO FUNDO DE COESÃO, PELO FTJ E PELO FEAMPA – ARTIGO 21.º, N.º 3
+    - Altera 2.1. Prioridades que não a assistência técnica (AT)
+    - Altera 3.3. Transferências entre categorias de região resultantes da revisão intercalar
+    - Altera 3.5. Dotações financeiras por ano
+    - Altera 3.6. Dotações financeiras totais por fundo e cofinanciamento nacional
+    - Altera 5. Autoridades do programa
+    - Altera A. Resumo dos principais elementos
+    - Altera B. Dados por tipo de operação (a preencher para cada tipo de operação)
+    - Altera D. Financiamento adicional para a execução da compensação dos custos adicionais (auxílios de estado)
+    - Altera MODELO DE PROGRAMA PARA O FAMI, O FSI E O IGFV – ARTIGO 21.º, N.º 3
+    - Altera PREVISÃO DO MONTANTE PARA O QUAL O ESTADO-MEMBRO PREVÊ APRESENTAR PEDIDOS DE PAGAMENTO PARA O ANO CIVIL EM CURSO
+      E PARA O ANO CIVIL SUBSEQUENTE (ARTIGO 69.º, N.º 10)
+    - Altera REQUISITOS-CHAVE DOS SISTEMAS DE GESTÃO E DE CONTROLO E CLASSIFICAÇÃO DESSES SISTEMAS – ARTIGO 69.º, N.º 1
+    - Altera 1.1. Irregularidades a comunicar
+    - Altera Modelo para a comunicação eletrónica de irregularidades através do Sistema de Gestão de Irregularidades (SGI)
+    - Altera SISTEMAS ELETRÓNICOS DE INTERCÂMBIO DE DADOS ENTRE AS AUTORIDADES DO PROGRAMA E OS BENEFICIÁRIOS – ARTIGO 69.º,
+      N.º 8
+    - Altera 1. Responsabilidades da Comissão
+    - Altera DADOS A REGISTAR E ARMAZENAR ELETRONICAMENTE PARA CADA OPERAÇÃO – ARTIGO 72.º, N.º 1, ALÍNEA E)
+    - Altera MODELO DE DECLARAÇÃO DE GESTÃO – ARTIGO 74.º, N.º 1, ALÍNEA F)
+    - Altera 1. INTRODUÇÃO
+  - date: '2023-03-01'
+    amending: eu:celex:32023R0435:por
+    amending_title: REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Tratamento e proteção de dados pessoais
+    - Altera Artigo 19.º — Medidas que estabelecem uma ligação entre a eficácia dos Fundos e uma boa governação económica
+    - Altera Artigo 20.º — Medidas temporárias relativas à utilização dos Fundos em resposta a circunstâncias excecionais
+      ou invulgares
+    - Altera Artigo 21.º — Elaboração e apresentação de programas
+    - Altera Artigo 22.º — Conteúdo dos programas
+    - Altera Artigo 24.º — Alteração dos programas
+    - Altera Artigo 39.º — Composição do comité de acompanhamento
+    - Altera Artigo 49.º — Responsabilidades da autoridade de gestão
+    - Altera Artigo 55.º — Custos diretos com pessoal no quadro de subvenções
+    - Altera Artigo 73.º — Seleção das operações pela autoridade de gestão
+    - Altera Artigo 93.º — Disposições comuns em matéria de pagamentos
+    - Altera Artigo 109.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 118.º-A — Condições aplicáveis às operações sujeitas a execução faseada selecionadas para apoio antes
+      de 29 de junho de 2022 ao abrigo do Regulamento (UE) n.º 1303/2013
+    - Altera DIMENSÕES E CÓDIGOS DOS TIPOS DE INTERVENÇÃO DO FEDER, DO FSE+, DO FUNDO DE COESÃO E DO FTJ – ARTIGO 22.º, N.º
+      5
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea f), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea c), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea h), e artigo 110.º do RDC'
+    - 'Altera Referência: artigo 6.º, n.º 2, e artigo 11.º, n.º 1, alínea d), do RDC'
+    - Altera CONDIÇÕES HABILITADORAS HORIZONTAIS – ARTIGO 15.º, N.º 1
+    - Altera CONDIÇÕES HABILITADORAS TEMÁTICAS APLICÁVEIS AO FEDER, AO FSE+ E AO FUNDO DE COESÃO – ARTIGO 15.º, N.º 1
+    - Altera MODELO PARA OS PROGRAMAS APOIADOS PELO FEDER (OBJETIVO DE INVESTIMENTO NO EMPREGO E NO CRESCIMENTO), PELO FSE+,
+      PELO FUNDO DE COESÃO, PELO FTJ E PELO FEAMPA – ARTIGO 21.º, N.º 3
+    - Altera 2.1. Prioridades que não a assistência técnica (AT)
+    - Altera 3. Plano de financiamento
+    - Altera 3.3. Transferências entre categorias de região resultantes da revisão intercalar
+    - Altera 3.5. Dotações financeiras por ano
+    - Altera 3.6. Dotações financeiras totais por fundo e cofinanciamento nacional
+    - Altera 5. Autoridades do programa
+    - Altera A. Resumo dos principais elementos
+    - Altera B. Dados por tipo de operação (a preencher para cada tipo de operação)
+    - Altera D. Financiamento adicional para a execução da compensação dos custos adicionais (auxílios de estado)
+    - Altera MODELO DE PROGRAMA PARA O FAMI, O FSI E O IGFV – ARTIGO 21.º, N.º 3
+    - Altera PREVISÃO DO MONTANTE PARA O QUAL O ESTADO-MEMBRO PREVÊ APRESENTAR PEDIDOS DE PAGAMENTO PARA O ANO CIVIL EM CURSO
+      E PARA O ANO CIVIL SUBSEQUENTE (ARTIGO 69.º, N.º 10)
+    - Altera REQUISITOS-CHAVE DOS SISTEMAS DE GESTÃO E DE CONTROLO E CLASSIFICAÇÃO DESSES SISTEMAS – ARTIGO 69.º, N.º 1
+    - Altera 1.1. Irregularidades a comunicar
+    - Altera Modelo para a comunicação eletrónica de irregularidades através do Sistema de Gestão de Irregularidades (SGI)
+    - Altera SISTEMAS ELETRÓNICOS DE INTERCÂMBIO DE DADOS ENTRE AS AUTORIDADES DO PROGRAMA E OS BENEFICIÁRIOS – ARTIGO 69.º,
+      N.º 8
+    - Altera 1. Responsabilidades da Comissão
+    - Altera DADOS A REGISTAR E ARMAZENAR ELETRONICAMENTE PARA CADA OPERAÇÃO – ARTIGO 72.º, N.º 1, ALÍNEA E)
+  - date: '2024-03-01'
+    amending: eu:celex:32024R0795:por
+    amending_title: REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Tratamento e proteção de dados pessoais
+    - Altera Artigo 6.º — Metas climáticas e mecanismo de ajustamento climático
+    - Altera Artigo 13.º — Alteração do acordo de parceria
+    - Altera Artigo 14.º — Utilização do FEDER, do FSE+, do Fundo de Coesão e do FEAMPA por intermédio do Programa InvestEU
+    - Altera Artigo 19.º — Medidas que estabelecem uma ligação entre a eficácia dos Fundos e uma boa governação económica
+    - Altera Artigo 20.º — Medidas temporárias relativas à utilização dos Fundos em resposta a circunstâncias excecionais
+      ou invulgares
+    - Altera Artigo 21.º — Elaboração e apresentação de programas
+    - Altera Artigo 22.º — Conteúdo dos programas
+    - Altera Artigo 24.º — Alteração dos programas
+    - Altera Artigo 49.º — Responsabilidades da autoridade de gestão
+    - Altera Artigo 55.º — Custos diretos com pessoal no quadro de subvenções
+    - Altera Artigo 73.º — Seleção das operações pela autoridade de gestão
+    - Altera Artigo 93.º — Disposições comuns em matéria de pagamentos
+    - Altera Artigo 109.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 118.º-A — Condições aplicáveis às operações sujeitas a execução faseada selecionadas para apoio antes
+      de 29 de junho de 2022 ao abrigo do Regulamento (UE) n.º 1303/2013
+    - Altera DIMENSÕES E CÓDIGOS DOS TIPOS DE INTERVENÇÃO DO FEDER, DO FSE+, DO FUNDO DE COESÃO E DO FTJ – ARTIGO 22.º, N.º
+      5
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea f), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea c), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea h), e artigo 110.º do RDC'
+    - 'Altera Referência: artigo 6.º, n.º 2, e artigo 11.º, n.º 1, alínea d), do RDC'
+    - Altera CONDIÇÕES HABILITADORAS HORIZONTAIS – ARTIGO 15.º, N.º 1
+    - Altera CONDIÇÕES HABILITADORAS TEMÁTICAS APLICÁVEIS AO FEDER, AO FSE+ E AO FUNDO DE COESÃO – ARTIGO 15.º, N.º 1
+    - Altera MODELO PARA OS PROGRAMAS APOIADOS PELO FEDER (OBJETIVO DE INVESTIMENTO NO EMPREGO E NO CRESCIMENTO), PELO FSE+,
+      PELO FUNDO DE COESÃO, PELO FTJ E PELO FEAMPA – ARTIGO 21.º, N.º 3
+    - Altera 2.1. Prioridades que não a assistência técnica (AT)
+    - Altera 3.3. Transferências entre categorias de região resultantes da revisão intercalar
+    - Altera 3.5. Dotações financeiras por ano
+    - Altera 3.6. Dotações financeiras totais por fundo e cofinanciamento nacional
+    - Altera 5. Autoridades do programa
+    - Altera A. Resumo dos principais elementos
+    - Altera B. Dados por tipo de operação (a preencher para cada tipo de operação)
+    - Altera D. Financiamento adicional para a execução da compensação dos custos adicionais (auxílios de estado)
+    - Altera MODELO DE PROGRAMA PARA O FAMI, O FSI E O IGFV – ARTIGO 21.º, N.º 3
+    - Altera PREVISÃO DO MONTANTE PARA O QUAL O ESTADO-MEMBRO PREVÊ APRESENTAR PEDIDOS DE PAGAMENTO PARA O ANO CIVIL EM CURSO
+      E PARA O ANO CIVIL SUBSEQUENTE (ARTIGO 69.º, N.º 10)
+    - Altera REQUISITOS-CHAVE DOS SISTEMAS DE GESTÃO E DE CONTROLO E CLASSIFICAÇÃO DESSES SISTEMAS – ARTIGO 69.º, N.º 1
+    - Altera 1.1. Irregularidades a comunicar
+    - Altera Modelo para a comunicação eletrónica de irregularidades através do Sistema de Gestão de Irregularidades (SGI)
+    - Altera SISTEMAS ELETRÓNICOS DE INTERCÂMBIO DE DADOS ENTRE AS AUTORIDADES DO PROGRAMA E OS BENEFICIÁRIOS – ARTIGO 69.º,
+      N.º 8
+    - Altera 1. Responsabilidades da Comissão
+  - date: '2024-06-30'
+    amending: eu:celex:32023R0955:por
+    amending_title: REGULAMENTO (UE) 2023/955 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023
+    changes:
+    - Altera preambulo
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Tratamento e proteção de dados pessoais
+    - Altera Artigo 14.º — Utilização do FEDER, do FSE+, do Fundo de Coesão e do FEAMPA por intermédio do Programa InvestEU
+    - Altera Artigo 19.º — Medidas que estabelecem uma ligação entre a eficácia dos Fundos e uma boa governação económica
+    - Altera Artigo 20.º — Medidas temporárias relativas à utilização dos Fundos em resposta a circunstâncias excecionais
+      ou invulgares
+    - Altera Artigo 21.º — Elaboração e apresentação de programas
+    - Altera Artigo 22.º — Conteúdo dos programas
+    - Altera Artigo 49.º — Responsabilidades da autoridade de gestão
+    - Altera Artigo 55.º — Custos diretos com pessoal no quadro de subvenções
+    - Altera Artigo 73.º — Seleção das operações pela autoridade de gestão
+    - Altera Artigo 93.º — Disposições comuns em matéria de pagamentos
+    - Altera Artigo 109.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 118.º-A — Condições aplicáveis às operações sujeitas a execução faseada selecionadas para apoio antes
+      de 29 de junho de 2022 ao abrigo do Regulamento (UE) n.º 1303/2013
+    - Altera DIMENSÕES E CÓDIGOS DOS TIPOS DE INTERVENÇÃO DO FEDER, DO FSE+, DO FUNDO DE COESÃO E DO FTJ – ARTIGO 22.º, N.º
+      5
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea f), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea c), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea h), e artigo 110.º do RDC'
+    - 'Altera Referência: artigo 6.º, n.º 2, e artigo 11.º, n.º 1, alínea d), do RDC'
+    - Altera CONDIÇÕES HABILITADORAS HORIZONTAIS – ARTIGO 15.º, N.º 1
+    - Altera CONDIÇÕES HABILITADORAS TEMÁTICAS APLICÁVEIS AO FEDER, AO FSE+ E AO FUNDO DE COESÃO – ARTIGO 15.º, N.º 1
+    - Altera MODELO PARA OS PROGRAMAS APOIADOS PELO FEDER (OBJETIVO DE INVESTIMENTO NO EMPREGO E NO CRESCIMENTO), PELO FSE+,
+      PELO FUNDO DE COESÃO, PELO FTJ E PELO FEAMPA – ARTIGO 21.º, N.º 3
+    - Altera 2.1. Prioridades que não a assistência técnica (AT)
+    - Altera 3.3. Transferências entre categorias de região resultantes da revisão intercalar
+    - Altera 3.5. Dotações financeiras por ano
+    - Altera 3.6. Dotações financeiras totais por fundo e cofinanciamento nacional
+    - Altera 5. Autoridades do programa
+    - Altera A. Resumo dos principais elementos
+    - Altera B. Dados por tipo de operação (a preencher para cada tipo de operação)
+    - Altera D. Financiamento adicional para a execução da compensação dos custos adicionais (auxílios de estado)
+    - Altera MODELO DE PROGRAMA PARA O FAMI, O FSI E O IGFV – ARTIGO 21.º, N.º 3
+    - Altera PREVISÃO DO MONTANTE PARA O QUAL O ESTADO-MEMBRO PREVÊ APRESENTAR PEDIDOS DE PAGAMENTO PARA O ANO CIVIL EM CURSO
+      E PARA O ANO CIVIL SUBSEQUENTE (ARTIGO 69.º, N.º 10)
+    - Altera REQUISITOS-CHAVE DOS SISTEMAS DE GESTÃO E DE CONTROLO E CLASSIFICAÇÃO DESSES SISTEMAS – ARTIGO 69.º, N.º 1
+    - Altera 1.1. Irregularidades a comunicar
+    - Altera Modelo para a comunicação eletrónica de irregularidades através do Sistema de Gestão de Irregularidades (SGI)
+    - Altera SISTEMAS ELETRÓNICOS DE INTERCÂMBIO DE DADOS ENTRE AS AUTORIDADES DO PROGRAMA E OS BENEFICIÁRIOS – ARTIGO 69.º,
+      N.º 8
+    - Altera 1. Responsabilidades da Comissão
+    - Altera DADOS A REGISTAR E ARMAZENAR ELETRONICAMENTE PARA CADA OPERAÇÃO – ARTIGO 72.º, N.º 1, ALÍNEA E)
+    - Altera MODELO DE DECLARAÇÃO DE GESTÃO – ARTIGO 74.º, N.º 1, ALÍNEA F)
+  - date: '2025-10-25'
+    amending: eu:celex:32025R2190:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/2190 DA COMISSÃO de 22 de setembro de 2025
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Tratamento e proteção de dados pessoais
+    - Altera Artigo 19.º — Medidas que estabelecem uma ligação entre a eficácia dos Fundos e uma boa governação económica
+    - Altera Artigo 20.º — Medidas temporárias relativas à utilização dos Fundos em resposta a circunstâncias excecionais
+      ou invulgares
+    - Altera Artigo 21.º — Elaboração e apresentação de programas
+    - Altera Artigo 22.º — Conteúdo dos programas
+    - Altera Artigo 26.º-B — Recursos transferidos do Fundo Social em matéria de Clima
+    - Altera Artigo 49.º — Responsabilidades da autoridade de gestão
+    - Altera Artigo 55.º — Custos diretos com pessoal no quadro de subvenções
+    - Altera Artigo 73.º — Seleção das operações pela autoridade de gestão
+    - Altera Artigo 93.º — Disposições comuns em matéria de pagamentos
+    - Altera Artigo 109.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 118.º-A — Condições aplicáveis às operações sujeitas a execução faseada selecionadas para apoio antes
+      de 29 de junho de 2022 ao abrigo do Regulamento (UE) n.º 1303/2013
+    - Altera DIMENSÕES E CÓDIGOS DOS TIPOS DE INTERVENÇÃO DO FEDER, DO FSE+, DO FUNDO DE COESÃO E DO FTJ – ARTIGO 22.º, N.º
+      5
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea f), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea c), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea h), e artigo 110.º do RDC'
+    - 'Altera Referência: artigo 6.º, n.º 2, e artigo 11.º, n.º 1, alínea d), do RDC'
+    - Altera CONDIÇÕES HABILITADORAS HORIZONTAIS – ARTIGO 15.º, N.º 1
+    - Altera CONDIÇÕES HABILITADORAS TEMÁTICAS APLICÁVEIS AO FEDER, AO FSE+ E AO FUNDO DE COESÃO – ARTIGO 15.º, N.º 1
+    - Altera MODELO PARA OS PROGRAMAS APOIADOS PELO FEDER (OBJETIVO DE INVESTIMENTO NO EMPREGO E NO CRESCIMENTO), PELO FSE+,
+      PELO FUNDO DE COESÃO, PELO FTJ E PELO FEAMPA – ARTIGO 21.º, N.º 3
+    - Altera 2.1. Prioridades que não a assistência técnica (AT)
+    - Altera 3.3. Transferências entre categorias de região resultantes da revisão intercalar
+    - Altera 3.5. Dotações financeiras por ano
+    - Altera 3.6. Dotações financeiras totais por fundo e cofinanciamento nacional
+    - Altera 5. Autoridades do programa
+    - Altera A. Resumo dos principais elementos
+    - Altera B. Dados por tipo de operação (a preencher para cada tipo de operação)
+    - Altera D. Financiamento adicional para a execução da compensação dos custos adicionais (auxílios de estado)
+    - Altera MODELO DE PROGRAMA PARA O FAMI, O FSI E O IGFV – ARTIGO 21.º, N.º 3
+    - Altera PREVISÃO DO MONTANTE PARA O QUAL O ESTADO-MEMBRO PREVÊ APRESENTAR PEDIDOS DE PAGAMENTO PARA O ANO CIVIL EM CURSO
+      E PARA O ANO CIVIL SUBSEQUENTE (ARTIGO 69.º, N.º 10)
+    - Altera REQUISITOS-CHAVE DOS SISTEMAS DE GESTÃO E DE CONTROLO E CLASSIFICAÇÃO DESSES SISTEMAS – ARTIGO 69.º, N.º 1
+    - Altera 1.1. Irregularidades a comunicar
+    - Altera Modelo para a comunicação eletrónica de irregularidades através do Sistema de Gestão de Irregularidades (SGI)
+    - Altera SISTEMAS ELETRÓNICOS DE INTERCÂMBIO DE DADOS ENTRE AS AUTORIDADES DO PROGRAMA E OS BENEFICIÁRIOS – ARTIGO 69.º,
+      N.º 8
+    - Altera 1. Responsabilidades da Comissão
+    - Altera DADOS A REGISTAR E ARMAZENAR ELETRONICAMENTE PARA CADA OPERAÇÃO – ARTIGO 72.º, N.º 1, ALÍNEA E)
+    - Altera MODELO DE DECLARAÇÃO DE GESTÃO – ARTIGO 74.º, N.º 1, ALÍNEA F)
+    - Altera 1. INTRODUÇÃO
+  - date: '2026-07-01'
+    amending: eu:celex:32024R1351:por
+    amending_title: REGULAMENTO (UE) 2024/1351 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 1.º — Objeto e âmbito de aplicação
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 4.º — Tratamento e proteção de dados pessoais
+    - Altera Artigo 19.º — Medidas que estabelecem uma ligação entre a eficácia dos Fundos e uma boa governação económica
+    - Altera Artigo 20.º — Medidas temporárias relativas à utilização dos Fundos em resposta a circunstâncias excecionais
+      ou invulgares
+    - Altera Artigo 21.º — Elaboração e apresentação de programas
+    - Altera Artigo 22.º — Conteúdo dos programas
+    - Altera Artigo 26.º-B — Recursos transferidos do Fundo Social em matéria de Clima
+    - Altera Artigo 36.º — Assistência técnica dos Estados-Membros
+    - Altera Artigo 49.º — Responsabilidades da autoridade de gestão
+    - Altera Artigo 55.º — Custos diretos com pessoal no quadro de subvenções
+    - Altera Artigo 63.º — Elegibilidade
+    - Altera Artigo 73.º — Seleção das operações pela autoridade de gestão
+    - Altera Artigo 93.º — Disposições comuns em matéria de pagamentos
+    - Altera Artigo 109.º — Recursos para a coesão económica, social e territorial
+    - Altera Artigo 118.º-A — Condições aplicáveis às operações sujeitas a execução faseada selecionadas para apoio antes
+      de 29 de junho de 2022 ao abrigo do Regulamento (UE) n.º 1303/2013
+    - Altera DIMENSÕES E CÓDIGOS DOS TIPOS DE INTERVENÇÃO DO FEDER, DO FSE+, DO FUNDO DE COESÃO E DO FTJ – ARTIGO 22.º, N.º
+      5
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea f), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea c), do RDC'
+    - 'Altera Referência: artigo 11.º, n.º 1, alínea h), e artigo 110.º do RDC'
+    - 'Altera Referência: artigo 6.º, n.º 2, e artigo 11.º, n.º 1, alínea d), do RDC'
+    - Altera CONDIÇÕES HABILITADORAS HORIZONTAIS – ARTIGO 15.º, N.º 1
+    - Altera CONDIÇÕES HABILITADORAS TEMÁTICAS APLICÁVEIS AO FEDER, AO FSE+ E AO FUNDO DE COESÃO – ARTIGO 15.º, N.º 1
+    - Altera MODELO PARA OS PROGRAMAS APOIADOS PELO FEDER (OBJETIVO DE INVESTIMENTO NO EMPREGO E NO CRESCIMENTO), PELO FSE+,
+      PELO FUNDO DE COESÃO, PELO FTJ E PELO FEAMPA – ARTIGO 21.º, N.º 3
+    - Altera 2.1. Prioridades que não a assistência técnica (AT)
+    - Altera 3.3. Transferências entre categorias de região resultantes da revisão intercalar
+    - Altera 3.5. Dotações financeiras por ano
+    - Altera 3.6. Dotações financeiras totais por fundo e cofinanciamento nacional
+    - Altera 5. Autoridades do programa
+    - Altera A. Resumo dos principais elementos
+    - Altera B. Dados por tipo de operação (a preencher para cada tipo de operação)
+    - Altera D. Financiamento adicional para a execução da compensação dos custos adicionais (auxílios de estado)
+    - Altera MODELO DE PROGRAMA PARA O FAMI, O FSI E O IGFV – ARTIGO 21.º, N.º 3
+    - Altera PREVISÃO DO MONTANTE PARA O QUAL O ESTADO-MEMBRO PREVÊ APRESENTAR PEDIDOS DE PAGAMENTO PARA O ANO CIVIL EM CURSO
+      E PARA O ANO CIVIL SUBSEQUENTE (ARTIGO 69.º, N.º 10)
+    - Altera REQUISITOS-CHAVE DOS SISTEMAS DE GESTÃO E DE CONTROLO E CLASSIFICAÇÃO DESSES SISTEMAS – ARTIGO 69.º, N.º 1
+    - Altera 1.1. Irregularidades a comunicar
+    - Altera Modelo para a comunicação eletrónica de irregularidades através do Sistema de Gestão de Irregularidades (SGI)
+    - Altera SISTEMAS ELETRÓNICOS DE INTERCÂMBIO DE DADOS ENTRE AS AUTORIDADES DO PROGRAMA E OS BENEFICIÁRIOS – ARTIGO 69.º,
+      N.º 8
+    - Altera 1. Responsabilidades da Comissão
+    - Altera DADOS A REGISTAR E ARMAZENAR ELETRONICAMENTE PARA CADA OPERAÇÃO – ARTIGO 72.º, N.º 1, ALÍNEA E)
 identifiers:
   celex: 32021R1060
   eli: http://data.europa.eu/eli/reg/2021/1060/oj
@@ -52,7 +360,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/a0dfa793-d98d-11eb-895a-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/c7c93f2c-4e49-11f1-b3e2-01aa75ed71a1.0022.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021R1060-20260701
-  retrieved_at: '2026-10-22T02:35:31Z'
+  retrieved_at: '2026-10-22T17:14:42Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-07-08T08:22:01.113+02:00'
 integrity:
@@ -61,9 +369,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:35:31Z'
-  notes: Texto consolidado 02021R1060-20260701.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:14:42Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2021-1060.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -630,40 +938,19 @@ relationships:
   date: '2026-07-29'
 article_structure:
   article_count: 122
-  section_count: 298
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 299
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:35:31Z'
+  checked_at: '2026-10-22T17:14:42Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento (UE) 2021/1060 do Parlamento Europeu e do Conselho de 24 de junho de 2021
-
-> 02021R1060 — PT — 01.07.2026 — 006.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022R2039) — [REGULAMENTO (UE) 2022/2039 DO PARLAMENTO EUROPEU E DO CONSELHO de 19 de outubro de 2022](http://publications.europa.eu/resource/celex/32022R2039) — L 275 — 23 — 25.10.2022
-- [►M2](http://publications.europa.eu/resource/celex/32023R0435) — [REGULAMENTO (UE) 2023/435 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de fevereiro de 2023](http://publications.europa.eu/resource/celex/32023R0435) — L 63 — 1 — 28.2.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R0955) — [REGULAMENTO (UE) 2023/955 DO PARLAMENTO EUROPEU E DO CONSELHO de 10 de maio de 2023](http://publications.europa.eu/resource/celex/32023R0955) — L 130 — 1 — 16.5.2023
-- [►M4](http://publications.europa.eu/resource/celex/32024R0795) — [REGULAMENTO (UE) 2024/795 DO PARLAMENTO EUROPEU E DO CONSELHO de 29 de fevereiro de 2024](http://publications.europa.eu/resource/celex/32024R0795) — L 795 — 1 — 29.2.2024
-- [►M5](http://publications.europa.eu/resource/celex/32024R1351) — [REGULAMENTO (UE) 2024/1351 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1351) — L 1351 — 1 — 22.5.2024
-- [►M6](http://publications.europa.eu/resource/celex/32025R2190) — [REGULAMENTO DELEGADO (UE) 2025/2190 DA COMISSÃO de 22 de setembro de 2025](http://publications.europa.eu/resource/celex/32025R2190) — L 2190 — 1 — 24.10.2025
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32021R1060R%2802%29) — [Rectificação, JO L 450, 16.12.2021, p. 161 (2021/1060)](http://publications.europa.eu/resource/celex/32021R1060R%2802%29)
-- [►C2](http://publications.europa.eu/resource/celex/32021R1060R%2805%29) — [Rectificação, JO L 241, 19.9.2022, p. 16 (2021/1060)](http://publications.europa.eu/resource/celex/32021R1060R%2805%29)
-- [►C3](http://publications.europa.eu/resource/celex/32021R1060R%2807%29) — [Rectificação, JO L 065, 2.3.2023, p. 59 ((UE) 2021/1060)](http://publications.europa.eu/resource/celex/32021R1060R%2807%29)
-
-## REGULAMENTO (UE) 2021/1060 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de junho de 2021
 

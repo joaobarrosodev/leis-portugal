@@ -37,6 +37,73 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-03-27'
+version_history:
+  file: regulamento-ue-2022-126.versoes.json
+  count: 4
+  source_lastmod: '2026-03-27'
+  versions:
+  - date: '2023-01-01'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2024-04-27'
+    amending: eu:celex:32024R1235:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2024/1235 DA COMISSÃO de 12 de março de 2024
+    changes:
+    - Altera Artigo 2.º — Requisitos de elegibilidade adicionais
+    - Altera Artigo 11.º — Investimentos em ativos corpóreos e incorpóreos
+    - Altera Artigo 14.º — Promoção, comunicação e comercialização
+    - Altera Artigo 16.º — Replantação de pomares, olivais ou vinhas na sequência do arranque obrigatório
+    - Altera Artigo 29.º — Normas de comercialização dos produtos retirados
+    - Altera Artigo 32.º-A — Regras aplicáveis aos tipos de intervenções executadas por organizações transnacionais de produtores
+      e associações transnacionais de organizações de produtores
+    - Altera Artigo 44.º — Reposição do efetivo de animais após abate obrigatório por razões sanitárias ou na sequência de
+      perdas resultantes de catástrofes naturais
+    - Altera Artigo 45.º — Conservação, utilização sustentável e desenvolvimento de recursos genéticos na agricultura e na
+      silvicultura
+    - Altera Artigo 47.º — Regimes de qualidade
+    - Altera Artigo 48.º — Regras relativas ao rácio para a norma 1 das BCAA
+    - Altera Notas
+  - date: '2025-06-13'
+    amending: eu:celex:32025R1159:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/1159 DA COMISSÃO de 31 de março de 2025
+    changes:
+    - Altera Artigo 2.º — Requisitos de elegibilidade adicionais
+    - Altera Artigo 11.º — Investimentos em ativos corpóreos e incorpóreos
+    - Altera Artigo 14.º — Promoção, comunicação e comercialização
+    - Altera Artigo 16.º — Replantação de pomares, olivais ou vinhas na sequência do arranque obrigatório
+    - Altera Artigo 29.º — Normas de comercialização dos produtos retirados
+    - Altera Artigo 31.º — Base de cálculo do valor da produção comercializada
+    - Altera Artigo 32.º-A — Regras aplicáveis aos tipos de intervenções executadas por organizações transnacionais de produtores
+      e associações transnacionais de organizações de produtores
+    - Altera Artigo 44.º — Reposição do efetivo de animais após abate obrigatório por razões sanitárias ou na sequência de
+      perdas resultantes de catástrofes naturais
+    - Altera Artigo 45.º — Conservação, utilização sustentável e desenvolvimento de recursos genéticos na agricultura e na
+      silvicultura
+    - Altera Artigo 47.º — Regimes de qualidade
+    - Altera Artigo 48.º — Regras relativas ao rácio para a norma 1 das BCAA
+    - Altera Notas
+  - date: '2026-03-27'
+    amending: eu:celex:32026R0177:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/177 DA COMISSÃO de 21 de janeiro de 2026
+    changes:
+    - Altera Artigo 2.º — Requisitos de elegibilidade adicionais
+    - Altera Artigo 3.º — Verificação das variedades de cânhamo e determinação quantitativa do teor de THC
+    - Altera Artigo 11.º — Investimentos em ativos corpóreos e incorpóreos
+    - Altera Artigo 14.º — Promoção, comunicação e comercialização
+    - Altera Artigo 16.º — Replantação de pomares, olivais ou vinhas na sequência do arranque obrigatório
+    - Altera Artigo 29.º — Normas de comercialização dos produtos retirados
+    - Altera Artigo 32.º-A — Regras aplicáveis aos tipos de intervenções executadas por organizações transnacionais de produtores
+      e associações transnacionais de organizações de produtores
+    - Altera Artigo 44.º — Reposição do efetivo de animais após abate obrigatório por razões sanitárias ou na sequência de
+      perdas resultantes de catástrofes naturais
+    - Altera Artigo 45.º — Conservação, utilização sustentável e desenvolvimento de recursos genéticos na agricultura e na
+      silvicultura
+    - Altera Artigo 47.º — Regimes de qualidade
+    - Altera Artigo 48.º — Regras relativas ao rácio para a norma 1 das BCAA
+    - Altera 1.1. Procedimento A
+    - Altera 1.2. Procedimento B
+    - Altera Notas
 identifiers:
   celex: 32022R0126
   eli: http://data.europa.eu/eli/reg_del/2022/126/oj
@@ -51,7 +118,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6f2cd09d-8238-11ec-8c40-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/e540f2e1-5ee0-11f1-aa6d-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02022R0126-20260327
-  retrieved_at: '2026-10-22T02:38:25Z'
+  retrieved_at: '2026-10-22T17:15:48Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T21:38:32.899+02:00'
 integrity:
@@ -60,9 +127,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:38:25Z'
-  notes: Texto consolidado 02022R0126-20260327.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:15:48Z'
+  notes: 4 versão(ões); histórico completo em regulamento-ue-2022-126.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -253,36 +320,20 @@ relationships:
   date: '2026-02-24'
 article_structure:
   article_count: 50
-  section_count: 72
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 73
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:38:25Z'
-  warnings: []
+  checked_at: '2026-10-22T17:15:48Z'
+  warnings:
+  - '02022R0126-20220131: versão indisponível (Sem expressão na língua por para CELEX 02022R0126-20220131.)'
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2022/126 da Comissão de 7 de dezembro de 2021
-
-> 02022R0126 — PT — 27.03.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32023R0330) — [REGULAMENTO DELEGADO (UE) 2023/330 DA COMISSÃO de 22 de novembro de 2022](http://publications.europa.eu/resource/celex/32023R0330) — L 44 — 1 — 14.2.2023
-- [►M2](http://publications.europa.eu/resource/celex/32024R1235) — [REGULAMENTO DELEGADO (UE) 2024/1235 DA COMISSÃO de 12 de março de 2024](http://publications.europa.eu/resource/celex/32024R1235) — L 1235 — 1 — 26.4.2024
-- [►M3](http://publications.europa.eu/resource/celex/32025R1159) — [REGULAMENTO DELEGADO (UE) 2025/1159 DA COMISSÃO de 31 de março de 2025](http://publications.europa.eu/resource/celex/32025R1159) — L 1159 — 1 — 12.6.2025
-- [►M4](http://publications.europa.eu/resource/celex/32026R0177) — [REGULAMENTO DELEGADO (UE) 2026/177 DA COMISSÃO de 21 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0177) — L 177 — 1 — 26.3.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32022R0126R%2805%29) — [Rectificação, JO L 132, 17.5.2023, p. 89 ((UE) 2022/126)](http://publications.europa.eu/resource/celex/32022R0126R%2805%29)
-
-## REGULAMENTO DELEGADO (UE) 2022/126 DA COMISSÃO
 
 de 7 de dezembro de 2021
 

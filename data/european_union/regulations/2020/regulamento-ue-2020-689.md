@@ -38,6 +38,157 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-04-22'
+version_history:
+  file: regulamento-ue-2020-689.versoes.json
+  count: 6
+  source_lastmod: '2026-11-01'
+  versions:
+  - date: '2020-06-03'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2021-04-21'
+    amending: eu:celex:32021R0881:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/881 DA COMISSÃO de 23 de março de 2021
+    changes:
+    - Altera preambulo
+    - Altera Artigo 3.º — Conceção da vigilância
+    - Altera Artigo 4.º — População animal visada
+    - Altera Artigo 6.º — Métodos de diagnóstico
+    - Altera Artigo 8.º — Critérios para a confirmação oficial de doenças listadas, com exceção das doenças de categoria A,
+      e de determinadas doenças emergentes e subsequente confirmação de focos
+    - Altera Artigo 12.º — Estratégia de controlo de doenças para a erradicação de doenças de categoria B e de categoria C
+      dos animais terrestres
+    - Altera Artigo 18.º — Obrigações dos operadores relativamente aos programas de erradicação para determinadas doenças
+    - Altera Artigo 21.º — Medidas de controlo de doenças em caso de suspeita de determinadas doenças
+    - Altera Artigo 27.º — Realização de testes aos animais e retirada de animais dos estabelecimentos infetados
+    - Altera Artigo 34.º — Obrigações da autoridade competente no contexto dos programas de erradicação para a infeção pelo
+      VRAI
+    - Altera Artigo 36.º — Medidas de controlo da doença em caso de confirmação de infeção pelo VRAI
+    - Altera Artigo 37.º — Estratégia de controlo de doenças dos programas de erradicação para a infeção pelo VFCO
+    - Altera Artigo 43.º — Circulação de animais detidos e de produtos germinais da população animal visada para Estados-Membros
+      ou zonas abrangidos por programas de erradicação para a infeção pelo VFCO
+    - Altera Artigo 66.º — Critérios para a concessão do estatuto de indemnidade de doença
+    - Altera Artigo 70.º — Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância
+    - Altera Artigo 73.º — Critérios para a concessão do estatuto de indemnidade de doença aos compartimentos que mantêm animais
+      de aquicultura
+    - Altera Artigo 84.º — Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes
+    - Altera Artigo 86.º — Revogação
+    - Altera Artigo 87.º — Entrada em vigor e aplicação
+    - Altera Notas
+    - Adita Artigo 83.º — Derrogações da aprovação pela Comissão para determinados estatutos de indemnidade de doença e determinados
+      programas de erradicação relativos a doenças dos animais aquáticos
+    - Adita ANEXO I
+    - Adita DEFINIÇÕES ESPECÍFICAS DE CASOS DE DOENÇAS DE ANIMAIS TERRESTRES
+    - Adita Gripe aviária de alta patogenicidade (GAAP)
+    - Adita Infeção pelos vírus da gripe aviária de baixa patogenicidade (VGABP)
+    - Adita Infeção pelo vírus da doença de Newcastle (VDN)
+    - Adita ANEXO II
+    - Adita PROGRAMA DE VIGILÂNCIA NA UNIÃO
+    - Adita VIGILÂNCIA DA GRIPE AVIÁRIA EM AVES DE CAPOEIRA E AVES SELVAGENS
+    - Adita ANEXO III
+    - Adita MÉTODOS DE DIAGNÓSTICO PARA A CONCESSÃO E MANUTENÇÃO DO ESTATUTO DE INDEMNIDADE DE DOENÇA PARA DETERMINADAS DOENÇAS
+      DE ANIMAIS TERRESTRES
+    - Adita Infeção por Brucella abortus, B. melitensis E B. suis
+    - Adita Infeção pelo complexo Mycobacterium tuberculosis
+    - Adita Leucose enzoótica bovina
+    - Adita Rinotraqueíte infeciosa bovina/vulvovaginite pustulosa infeciosa
+    - Adita Secção 5
+    - Adita Infeção pelo vírus da doença de aujeszky
+    - Adita Secção 6
+    - Adita Diarreia viral bovina (DVB)
+    - Adita ANEXO IV
+  - date: '2023-08-20'
+    amending: eu:celex:32023R1570:por
+    amending_title: M2
+    changes:
+    - Altera Artigo 6.º — Métodos de diagnóstico
+    - Altera Artigo 70.º — Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância
+    - Altera Artigo 84.º — Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes
+    - Altera Rinotraqueíte infeciosa bovina/vulvovaginite pustulosa infeciosa
+    - Altera Infeção pelo vírus da doença de aujeszky
+    - Altera INFEÇÃO PELO VÍRUS DA RAIVA
+    - Altera INFEÇÃO PELO VÍRUS DA FEBRE CATARRAL OVINA (SERÓTIPOS 1-24)
+    - Altera REQUISITOS ESPECÍFICOS POR DOENÇA NO QUE RESPEITA AO ESTATUTO DE INDEMNIDADE DE DOENÇA DOS ANIMAIS AQUÁTICOS
+    - Altera REQUISITOS PARA DEMONSTRAR A APLICAÇÃO DE PROGRAMAS DE VIGILÂNCIA DE DOENÇAS DE CATEGORIA C E PARA REINICIAR
+      ESSES PROGRAMAS APÓS UM FOCO DE DOENÇA
+    - Altera Notas
+  - date: '2023-10-11'
+    amending: eu:celex:32023R1798:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2023/1798 DA COMISSÃO de 10 de julho de 2023
+    changes:
+    - Altera Artigo 4.º — População animal visada
+    - Altera Artigo 6.º — Métodos de diagnóstico
+    - Altera Artigo 70.º — Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância
+    - Altera Artigo 76.º — Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância
+    - Altera Artigo 84.º — Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes
+    - Altera Rinotraqueíte infeciosa bovina/vulvovaginite pustulosa infeciosa
+    - Altera Infeção pelo vírus da doença de aujeszky
+    - Altera INFEÇÃO PELO VÍRUS DA RAIVA
+    - Altera INFEÇÃO PELO VÍRUS DA FEBRE CATARRAL OVINA (SERÓTIPOS 1-24)
+    - Altera ESTATUTO DE INDEMNE DE INFEÇÃO PELO VÍRUS DA DOENÇA DE NEWCASTLE — SEM VACINAÇÃO
+    - Altera REQUISITOS ESPECÍFICOS POR DOENÇA NO QUE RESPEITA AO ESTATUTO DE INDEMNIDADE DE DOENÇA DOS ANIMAIS AQUÁTICOS
+    - Altera REQUISITOS PARA DEMONSTRAR A APLICAÇÃO DE PROGRAMAS DE VIGILÂNCIA DE DOENÇAS DE CATEGORIA C E PARA REINICIAR
+      ESSES PROGRAMAS APÓS UM FOCO DE DOENÇA
+    - Altera Notas
+    - Adita VIGILÂNCIA DA GRIPE AVIÁRIA EM ANIMAIS
+    - Suprime VIGILÂNCIA DA GRIPE AVIÁRIA EM AVES DE CAPOEIRA E AVES SELVAGENS
+  - date: '2026-04-22'
+    amending: eu:celex:32026R0134:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/134 DA COMISSÃO de 20 de janeiro de 2026
+    changes:
+    - Altera Artigo 6.º — Métodos de diagnóstico
+    - Altera Artigo 70.º — Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância
+    - Altera Artigo 72.º — Requisitos específicos de cada doença para a concessão do estatuto de indemnidade de doença
+    - Altera Artigo 81.º — Critérios específicos em matéria de vigilância e de medidas de bioproteção para a manutenção do
+      estatuto de indemnidade de doença
+    - Altera Artigo 84.º — Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes
+    - Altera Rinotraqueíte infeciosa bovina/vulvovaginite pustulosa infeciosa
+    - Altera Infeção pelo vírus da doença de aujeszky
+    - Altera INFEÇÃO PELO VÍRUS DA RAIVA
+    - Altera INFEÇÃO PELO VÍRUS DA FEBRE CATARRAL OVINA (SERÓTIPOS 1-24)
+    - Altera REQUISITOS ESPECÍFICOS POR DOENÇA NO QUE RESPEITA AO ESTATUTO DE INDEMNIDADE DE DOENÇA DOS ANIMAIS AQUÁTICOS
+    - Altera REQUISITOS PARA DEMONSTRAR A APLICAÇÃO DE PROGRAMAS DE VIGILÂNCIA DE DOENÇAS DE CATEGORIA C E PARA REINICIAR
+      ESSES PROGRAMAS APÓS UM FOCO DE DOENÇA
+    - Altera Notas
+    - Adita Secção 7
+    - Adita Infestação por Echinococcus multilocularis
+    - Adita INFESTAÇÃO POR ECHINOCOCCUS MULTILOCULARIS
+  - date: '2026-11-01'
+    amending: eu:celex:32026R0797:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2026/797 DA COMISSÃO de 27 de março de 2026
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 6.º — Métodos de diagnóstico
+    - Altera Artigo 12.º — Estratégia de controlo de doenças para a erradicação de doenças de categoria B e de categoria C
+      dos animais terrestres
+    - Altera Artigo 66.º — Critérios para a concessão do estatuto de indemnidade de doença
+    - Altera Artigo 70.º — Estatuto de indemnidade de doença com base em dados históricos e dados de vigilância
+    - Altera Artigo 72.º — Requisitos específicos de cada doença para a concessão do estatuto de indemnidade de doença
+    - Altera Artigo 81.º — Critérios específicos em matéria de vigilância e de medidas de bioproteção para a manutenção do
+      estatuto de indemnidade de doença
+    - Altera Artigo 84.º — Disposições transitórias respeitantes aos estatutos de indemnidade de doença existentes
+    - Altera Rinotraqueíte infeciosa bovina/vulvovaginite pustulosa infeciosa
+    - Altera Infeção pelo vírus da doença de aujeszky
+    - Altera INFEÇÃO PELO VÍRUS DA RAIVA
+    - Altera REQUISITOS ESPECÍFICOS POR DOENÇA NO QUE RESPEITA AO ESTATUTO DE INDEMNIDADE DE DOENÇA DOS ANIMAIS AQUÁTICOS
+    - Altera REQUISITOS PARA DEMONSTRAR A APLICAÇÃO DE PROGRAMAS DE VIGILÂNCIA DE DOENÇAS DE CATEGORIA C E PARA REINICIAR
+      ESSES PROGRAMAS APÓS UM FOCO DE DOENÇA
+    - Altera Notas
+    - Suprime Disposições aplicáveis aos programas de erradicação para a infeção pelo VFCO
+    - Suprime Artigo 37.º — Estratégia de controlo de doenças dos programas de erradicação para a infeção pelo VFCO
+    - Suprime Artigo 38.º — Populações animais visadas e adicionais para os programas de erradicação para a infeção pelo VFCO
+    - Suprime Artigo 39.º — Obrigações dos operadores no contexto dos programas de erradicação para a infeção pelo VFCO
+    - Suprime Artigo 40.º — Obrigações da autoridade competente no contexto dos programas de erradicação para a infeção pelo
+      VFCO
+    - Suprime Artigo 41.º — Medidas de controlo da doença em caso de suspeita de infeção pelo VFCO
+    - Suprime Artigo 42.º — Medidas de controlo da doença em caso de confirmação de infeção pelo VFCO
+    - Suprime Artigo 43.º — Circulação de animais detidos e de produtos germinais da população animal visada para Estados-Membros
+      ou zonas abrangidos por programas de erradicação para a infeção pelo VFCO
+    - Suprime Artigo 44.º — Estabelecimento protegido de vetores
+    - Suprime Artigo 45.º — Circulação de animais através de Estados-Membros ou zonas abrangidos por programas de erradicação
+      para a infeção pelo VFCO
+    - Suprime INFEÇÃO PELO VÍRUS DA FEBRE CATARRAL OVINA (SERÓTIPOS 1-24)
 identifiers:
   celex: 32020R0689
   eli: http://data.europa.eu/eli/reg_del/2020/689/oj
@@ -52,7 +203,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/4938ea7d-a568-11ea-bb7a-01aa75ed71a1.0018
   content_url: http://publications.europa.eu/resource/cellar/a4ddfd6a-3de6-11f1-814f-01aa75ed71a1.0019.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02020R0689-20260422
-  retrieved_at: '2026-10-22T03:01:20Z'
+  retrieved_at: '2026-10-22T17:11:20Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-15T20:40:25.826+02:00'
 integrity:
@@ -61,9 +212,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:20Z'
-  notes: Texto consolidado 02020R0689-20260422.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:11:20Z'
+  notes: 6 versão(ões); histórico completo em regulamento-ue-2020-689.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -286,32 +437,19 @@ relationships:
   date: '2015-09-23'
 article_structure:
   article_count: 87
-  section_count: 102
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 103
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:20Z'
+  checked_at: '2026-10-22T17:11:20Z'
   warnings: []
   errors: []
 ---
 
 # Regulamento Delegado (UE) 2020/689 da Comissão, de 17 de dezembro de 2019
-
-> 02020R0689 — PT — 22.04.2026 — 004.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32021R0881) — [REGULAMENTO DELEGADO (UE) 2021/881 DA COMISSÃO de 23 de março de 2021](http://publications.europa.eu/resource/celex/32021R0881) — L 194 — 10 — 2.6.2021
-- [M2](http://publications.europa.eu/resource/celex/32023R1570) — [REGULAMENTO DELEGADO (UE) 2023/1570 DA COMISSÃO de 23 de maio de 2023](http://publications.europa.eu/resource/celex/32023R1570) — L 192 — 9 — 31.7.2023
-- [►M3](http://publications.europa.eu/resource/celex/32023R1798) — [REGULAMENTO DELEGADO (UE) 2023/1798 DA COMISSÃO de 10 de julho de 2023](http://publications.europa.eu/resource/celex/32023R1798) — L 233 — 24 — 21.9.2023
-- [►M4](http://publications.europa.eu/resource/celex/32026R0134) — [REGULAMENTO DELEGADO (UE) 2026/134 DA COMISSÃO de 20 de janeiro de 2026](http://publications.europa.eu/resource/celex/32026R0134) — L 134 — 1 — 27.3.2026
-
-## REGULAMENTO DELEGADO (UE) 2020/689 DA COMISSÃO
 
 de 17 de dezembro de 2019
 

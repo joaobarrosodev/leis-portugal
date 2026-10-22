@@ -36,6 +36,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-05-24'
+version_history:
+  file: diretiva-ue-2024-1275.versoes.json
+  count: 1
+  source_lastmod: '2026-05-24'
+  versions:
+  - date: '2026-05-24'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32024L1275
   eli: http://data.europa.eu/eli/dir/2024/1275/oj
@@ -50,7 +59,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/2b15980c-0cd4-11ef-a251-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/fdad316f-53e8-11f1-b3e2-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02024L1275-20260524
-  retrieved_at: '2026-10-22T03:01:44Z'
+  retrieved_at: '2026-10-22T17:16:58Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-05-08T03:09:50.070+02:00'
 integrity:
@@ -59,9 +68,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T03:01:44Z'
-  notes: Texto consolidado 02024L1275-20260524.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:58Z'
+  notes: 1 versão(ões); histórico completo em diretiva-ue-2024-1275.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -329,29 +338,20 @@ relationships:
   source: null
 article_structure:
   article_count: 38
-  section_count: 36
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 37
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T03:01:44Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:58Z'
+  warnings:
+  - '02024L1275-20240508: versão indisponível (Sem expressão na língua por para CELEX 02024L1275-20240508.)'
   errors: []
 ---
 
 # Diretiva (UE) 2024/1275 do Parlamento Europeu e do Conselho, de 24 de abril de 2024
-
-> 02024L1275 — PT — 24.05.2026 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32026R0052) — [REGULAMENTO DELEGADO (UE) 2026/52 DA COMISSÃO de 16 de dezembro de 2025](http://publications.europa.eu/resource/celex/32026R0052) — L 52 — 1 — 4.5.2026
-
-## DIRETIVA (UE) 2024/1275 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 24 de abril de 2024
 

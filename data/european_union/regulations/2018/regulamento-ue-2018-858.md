@@ -38,6 +38,190 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-08-02'
+version_history:
+  file: regulamento-ue-2018-858.versoes.json
+  count: 7
+  source_lastmod: '2026-08-02'
+  versions:
+  - date: '2021-09-26'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2022-07-06'
+    amending: eu:celex:32019R2144:por
+    amending_title: REGULAMENTO (UE) 2019/2144 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Obrigações dos Estados-Membros
+    - Altera Artigo 12.º — Intercâmbio de dados em linha
+    - Altera Artigo 35.º — Caducidade
+    - Altera Artigo 66.º — Fórum de Acesso às Informações sobre Veículos
+    - Altera Definições e disposições gerais
+    - Altera Critérios para modelos, variantes e versões de veículos
+    - Altera 6. Condições de ensaio e critério de aprovação ou rejeição
+    - Altera Atos regulamentares para efeitos de homologação UE de veículos produzidos em séries ilimitadas
+    - Altera Notas explicativas
+    - Altera Lista de Regulamentos da ONU reconhecidos como alternativa às diretivas ou regulamentos referidos na parte I
+    - Altera Apêndice 3
+    - Altera Apêndice 4
+    - Altera Apêndice 5
+    - Altera Apêndice 6
+    - Altera 3. Lista de atos regulamentares e restrições
+    - Altera Notas
+  - date: '2022-12-06'
+    amending: eu:celex:32022R2236:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2022/2236 DA COMISSÃO de 20 de junho de 2022
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Obrigações dos Estados-Membros
+    - Altera Artigo 12.º — Intercâmbio de dados em linha
+    - Altera Artigo 35.º — Caducidade
+    - Altera Artigo 66.º — Fórum de Acesso às Informações sobre Veículos
+    - Altera Definições e disposições gerais
+    - Altera Critérios para modelos, variantes e versões de veículos
+    - Altera Definições de tipos de carroçaria
+    - Altera 6. Condições de ensaio e critério de aprovação ou rejeição
+    - Altera Algarismos utilizados para complementar os códigos a utilizar nos diversos tipos de carroçaria
+    - Altera Atos regulamentares para efeitos de homologação UE de veículos produzidos em séries ilimitadas
+    - Altera Lista de Regulamentos da ONU reconhecidos como alternativa às diretivas ou regulamentos referidos na parte I
+    - Altera Lista dos atos regulamentares que estabelecem os requisitos de homologação UE dos veículos para fins especiais
+    - Altera Apêndice 3
+    - Altera Apêndice 4
+    - Altera Apêndice 5
+    - Altera Apêndice 6
+    - Altera A. LIMITES QUANTITATIVOS ANUAIS DAS PEQUENAS SÉRIES
+    - Altera Notas
+    - Adita Autocaravanas, ambulâncias e carros funerários
+    - Adita Veículos blindados
+    - Adita Veículos acessíveis em cadeira de rodas
+    - Adita Outros veículos para fins especiais
+    - Adita (incluindo grupo especial, veículos transportadores de equipamento diverso e caravanas)
+    - Adita Gruas móveis
+    - Adita Veículos para transportar cargas excecionais
+    - Adita 5. Disposições relativas à atualização do software
+    - Suprime Notas explicativas
+  - date: '2023-07-30'
+    amending: eu:celex:32021R1244:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2021/1244 DA COMISSÃO de 20 de maio de 2021
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Obrigações dos Estados-Membros
+    - Altera Artigo 12.º — Intercâmbio de dados em linha
+    - Altera Artigo 35.º — Caducidade
+    - Altera Artigo 66.º — Fórum de Acesso às Informações sobre Veículos
+    - Altera Definições e disposições gerais
+    - Altera Critérios para modelos, variantes e versões de veículos
+    - Altera Definições de tipos de carroçaria
+    - Altera 6. Condições de ensaio e critério de aprovação ou rejeição
+    - Altera Lista de Regulamentos da ONU reconhecidos como alternativa às diretivas ou regulamentos referidos na parte I
+    - Altera A. LIMITES QUANTITATIVOS ANUAIS DAS PEQUENAS SÉRIES
+    - Altera 3. Lista de atos regulamentares e restrições
+    - Altera 2. Acesso às informações do sistema OBD do veículo e às informações relativas à reparação e à manutenção de veículos.
+    - Altera 6. Requisitos
+    - Altera Notas
+    - Adita Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança dos
+      veículos ([^20^](http://publications.europa.eu/resource/cellar/a4f08b28-2b11-11ee-839d-01aa75ed71a1.0020.02/DOC_1#E0024))
+    - Adita 1. Âmbito de aplicação
+    - Adita 2. Definições e abreviaturas
+    - Adita 2.1. Definições
+    - Adita 3. Acreditação dos organismos de avaliação da conformidade (CAB), aprovação dos OI e autorização dos empregados
+      dos OI
+    - Adita 3.1. Síntese do acesso às IRM relacionadas com a segurança
+    - Adita 4. Regras pormenorizadas para o acesso às IRM relacionadas com a segurança
+    - Adita 4.1. O papel do SERMI
+    - Adita 4.2. O papel dos ONA
+    - Adita 4.3. O papel dos CAB
+    - Adita 4.4. Papel dos OI
+    - Adita 4.5. Papel dos empregados dos OI
+    - Adita 4.6. Papel do centro de confiança
+    - Adita 4.7. Papel dos fabricantes de veículos
+  - date: '2024-05-28'
+    amending: eu:celex:32024R1257:por
+    amending_title: REGULAMENTO (UE) 2024/1257 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 6.º — Obrigações dos Estados-Membros
+    - Altera Artigo 12.º — Intercâmbio de dados em linha
+    - Altera Artigo 35.º — Caducidade
+    - Altera Artigo 66.º — Fórum de Acesso às Informações sobre Veículos
+    - Altera Artigo 84.º — Sanções
+    - Altera Definições e disposições gerais
+    - Altera Critérios para modelos, variantes e versões de veículos
+    - Altera 6. Condições de ensaio e critério de aprovação ou rejeição
+    - Altera Lista de Regulamentos da ONU reconhecidos como alternativa às diretivas ou regulamentos referidos na parte I
+    - Altera 2. Acesso às informações do sistema OBD do veículo e às informações relativas à reparação e à manutenção de veículos.
+    - Altera 6. Requisitos
+    - Altera 4.1. O papel do SERMI
+    - Altera Notas
+    - Adita Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança dos
+      veículos ([^20^](http://publications.europa.eu/resource/cellar/67c29c68-281b-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0024))
+    - Suprime Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança
+      dos veículos ([^20^](http://publications.europa.eu/resource/cellar/a4f08b28-2b11-11ee-839d-01aa75ed71a1.0020.02/DOC_1#E0024))
+  - date: '2024-07-01'
+    amending: eu:celex:32024R1610:por
+    amending_title: REGULAMENTO (UE) 2024/1610 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 3.º — Definições
+    - Altera Artigo 6.º — Obrigações dos Estados-Membros
+    - Altera Artigo 12.º — Intercâmbio de dados em linha
+    - Altera Artigo 35.º — Caducidade
+    - Altera Artigo 66.º — Fórum de Acesso às Informações sobre Veículos
+    - Altera Definições e disposições gerais
+    - Altera Critérios para modelos, variantes e versões de veículos
+    - Altera 6. Condições de ensaio e critério de aprovação ou rejeição
+    - Altera Lista de Regulamentos da ONU reconhecidos como alternativa às diretivas ou regulamentos referidos na parte I
+    - Altera 2. Acesso às informações do sistema OBD do veículo e às informações relativas à reparação e à manutenção de veículos.
+    - Altera 6. Requisitos
+    - Altera 4.1. O papel do SERMI
+    - Altera Notas
+    - Adita Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança dos
+      veículos ([^20^](http://publications.europa.eu/resource/cellar/2a27c131-5f2d-11ef-a8ba-01aa75ed71a1.0020.02/DOC_1#E0024))
+    - Suprime Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança
+      dos veículos ([^20^](http://publications.europa.eu/resource/cellar/67c29c68-281b-11ef-a195-01aa75ed71a1.0020.02/DOC_1#E0024))
+  - date: '2026-08-02'
+    amending: eu:celex:32024R1689:por
+    amending_title: REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024; REGULAMENTO DELEGADO
+      (UE) 2026/1188 DA COMISSÃO de 23 de março de 2026; REGULAMENTO DELEGADO (UE) 2026/699 DA COMISSÃO de 23 de março de
+      2026
+    changes:
+    - Altera Artigo 2.º — Âmbito de aplicação
+    - Altera Artigo 5.º — Requisitos técnicos
+    - Altera Artigo 6.º — Obrigações dos Estados-Membros
+    - Altera Artigo 12.º — Intercâmbio de dados em linha
+    - Altera Artigo 35.º — Caducidade
+    - Altera Artigo 66.º — Fórum de Acesso às Informações sobre Veículos
+    - Altera Definições e disposições gerais
+    - Altera Critérios para modelos, variantes e versões de veículos
+    - Altera 6. Condições de ensaio e critério de aprovação ou rejeição
+    - Altera Atos regulamentares para efeitos de homologação UE de veículos produzidos em séries ilimitadas
+    - Altera Lista de Regulamentos da ONU reconhecidos como alternativa às diretivas ou regulamentos referidos na parte I
+    - Altera Autocaravanas, ambulâncias e carros funerários
+    - Altera Veículos blindados
+    - Altera Veículos acessíveis em cadeira de rodas
+    - Altera (incluindo grupo especial, veículos transportadores de equipamento diverso e caravanas)
+    - Altera Gruas móveis
+    - Altera Veículos para transportar cargas excecionais
+    - Altera Processo de validação
+    - Altera 1. Introdução
+    - Altera 2. Acesso às informações do sistema OBD do veículo e às informações relativas à reparação e à manutenção de veículos.
+    - Altera 6. Requisitos
+    - Altera 7. Requisitos de homologação
+    - Altera Certificado do fabricante respeitante ao acesso às informações do sistema OBD do veículo e às informações relativas
+      à reparação e à manutenção de veículos
+    - Altera Informações do sistema OBD do veículo
+    - Altera 2.1. Definições
+    - Altera 3. Acreditação dos organismos de avaliação da conformidade (CAB), aprovação dos OI e autorização dos empregados
+      dos OI
+    - Altera 4.1. O papel do SERMI
+    - Altera 4.4. Papel dos OI
+    - Altera 4.5. Papel dos empregados dos OI
+    - Altera Notas
+    - Adita Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança dos
+      veículos ([^22^](http://publications.europa.eu/resource/cellar/79552902-a698-11f1-b25c-01aa75ed71a1.0020.02/DOC_1#E0053))
+    - Adita Condições e procedimento de acesso à informação do sistema OBD do veículo
+    - Suprime Procedimento de aprovação e autorização dos operadores independentes para aceder aos elementos de segurança
+      dos veículos ([^20^](http://publications.europa.eu/resource/cellar/2a27c131-5f2d-11ef-a8ba-01aa75ed71a1.0020.02/DOC_1#E0024))
 identifiers:
   celex: 32018R0858
   eli: http://data.europa.eu/eli/reg/2018/858/oj
@@ -52,7 +236,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/d828c80f-6f9d-11e8-9483-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/79552902-a698-11f1-b25c-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02018R0858-20260802
-  retrieved_at: '2026-10-22T02:40:01Z'
+  retrieved_at: '2026-10-22T17:07:04Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2025-02-12T12:13:18.385+01:00'
 integrity:
@@ -61,9 +245,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:40:01Z'
-  notes: Texto consolidado 02018R0858-20260802.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:07:04Z'
+  notes: 7 versão(ões); histórico completo em regulamento-ue-2018-858.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -469,43 +653,20 @@ relationships:
   date: '2007-09-05'
 article_structure:
   article_count: 91
-  section_count: 188
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 189
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:40:01Z'
-  warnings: []
+  checked_at: '2026-10-22T17:07:04Z'
+  warnings:
+  - '02018R0858-20180614: versão indisponível (Sem expressão na língua por para CELEX 02018R0858-20180614.)'
   errors: []
 ---
 
 # Regulamento (UE) 2018/858 do Parlamento Europeu e do Conselho, de 30 de maio de 2018
-
-> 02018R0858 — PT — 02.08.2026 — 007.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32019R2144) — [REGULAMENTO (UE) 2019/2144 DO PARLAMENTO EUROPEU E DO CONSELHO de 27 de novembro de 2019](http://publications.europa.eu/resource/celex/32019R2144) — L 325 — 1 — 16.12.2019
-- [►M2](http://publications.europa.eu/resource/celex/32021R1244) — [REGULAMENTO DELEGADO (UE) 2021/1244 DA COMISSÃO de 20 de maio de 2021](http://publications.europa.eu/resource/celex/32021R1244) — L 272 — 16 — 30.7.2021
-- [►M3](http://publications.europa.eu/resource/celex/32021R1445) — [REGULAMENTO DELEGADO (UE) 2021/1445 DA COMISSÃO de 23 de junho de 2021](http://publications.europa.eu/resource/celex/32021R1445) — L 313 — 4 — 6.9.2021
-- [►M4](http://publications.europa.eu/resource/celex/32022R2236) — [REGULAMENTO DELEGADO (UE) 2022/2236 DA COMISSÃO de 20 de junho de 2022](http://publications.europa.eu/resource/celex/32022R2236) — L 296 — 1 — 16.11.2022
-- [►M5](http://publications.europa.eu/resource/celex/32024R1257) — [REGULAMENTO (UE) 2024/1257 DO PARLAMENTO EUROPEU E DO CONSELHO de 24 de abril de 2024](http://publications.europa.eu/resource/celex/32024R1257) — L 1257 — 1 — 8.5.2024
-- [►M6](http://publications.europa.eu/resource/celex/32024R1610) — [REGULAMENTO (UE) 2024/1610 DO PARLAMENTO EUROPEU E DO CONSELHO de 14 de maio de 2024](http://publications.europa.eu/resource/celex/32024R1610) — L 1610 — 1 — 6.6.2024
-- [►M7](http://publications.europa.eu/resource/celex/32024R1689) — [REGULAMENTO (UE) 2024/1689 DO PARLAMENTO EUROPEU E DO CONSELHO de 13 de junho de 2024](http://publications.europa.eu/resource/celex/32024R1689) — L 1689 — 1 — 12.7.2024
-- [►M8](http://publications.europa.eu/resource/celex/32026R1188) — [REGULAMENTO DELEGADO (UE) 2026/1188 DA COMISSÃO de 23 de março de 2026](http://publications.europa.eu/resource/celex/32026R1188) — L 1188 — 1 — 2.6.2026
-- [►M9](http://publications.europa.eu/resource/celex/32026R0699) — [REGULAMENTO DELEGADO (UE) 2026/699 DA COMISSÃO de 23 de março de 2026](http://publications.europa.eu/resource/celex/32026R0699) — L 699 — 1 — 3.6.2026
-
-**Retificado por:**
-
-- [►C1](http://publications.europa.eu/resource/celex/32019R2144R%2803%29) — [Rectificação, JO L 398, 11.11.2021, p. 29 (2019/2144)](http://publications.europa.eu/resource/celex/32019R2144R%2803%29)
-- [►C2](http://publications.europa.eu/resource/celex/32022R2236R%2801%29) — [Rectificação, JO L 304, 24.11.2022, p. 103 (2022/2236)](http://publications.europa.eu/resource/celex/32022R2236R%2801%29)
-- [►C3](http://publications.europa.eu/resource/celex/32026R0699R%2802%29) — [Rectificação, JO L 90479, 17.6.2026, p. 1 ((UE) 2026/6992026/699)](http://publications.europa.eu/resource/celex/32026R0699R%2802%29)
-
-## REGULAMENTO (UE) 2018/858 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 30 de maio de 2018
 

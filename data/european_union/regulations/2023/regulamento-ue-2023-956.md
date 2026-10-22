@@ -40,6 +40,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2025-10-20'
+version_history:
+  file: regulamento-ue-2023-956.versoes.json
+  count: 1
+  source_lastmod: '2025-10-20'
+  versions:
+  - date: '2025-10-20'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32023R0956
   eli: http://data.europa.eu/eli/reg/2023/956/oj
@@ -54,7 +63,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/e5587bf5-f383-11ed-a05c-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/a61c0d38-bf6a-11f0-a612-01aa75ed71a1.0001.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R0956-20251020
-  retrieved_at: '2026-10-22T02:49:35Z'
+  retrieved_at: '2026-10-22T17:16:33Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-10-16T15:06:48.974+02:00'
 integrity:
@@ -63,9 +72,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:49:35Z'
-  notes: Texto consolidado 02023R0956-20251020.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:33Z'
+  notes: 1 versão(ões); histórico completo em regulamento-ue-2023-956.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -272,29 +281,20 @@ relationships:
   date: '2025-09-19'
 article_structure:
   article_count: 39
-  section_count: 60
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 61
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:49:35Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:33Z'
+  warnings:
+  - '02023R0956-20230516: versão indisponível (Sem expressão na língua por para CELEX 02023R0956-20230516.)'
   errors: []
 ---
 
 # Regulamento (UE) 2023/956 do Parlamento Europeu e do Conselho de 10 de maio de 2023
-
-> 02023R0956 — PT — 20.10.2025 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R2083) — [REGULAMENTO (UE) 2025/2083 DO PARLAMENTO EUROPEU E DO CONSELHO de 8 de outubro de 2025](http://publications.europa.eu/resource/celex/32025R2083) — L 2083 — 1 — 17.10.2025
-
-## REGULAMENTO (UE) 2023/956 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 10 de maio de 2023
 

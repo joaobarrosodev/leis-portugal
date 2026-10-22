@@ -34,6 +34,15 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2022-04-21'
+version_history:
+  file: decisao-ue-2021-2032.versoes.json
+  count: 1
+  source_lastmod: '2022-04-21'
+  versions:
+  - date: '2022-04-21'
+    amending: null
+    amending_title: null
+    changes: []
 identifiers:
   celex: 32021D2032
   eli: http://data.europa.eu/eli/dec/2021/2032/oj
@@ -48,7 +57,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/7621abff-4b39-11ec-91ac-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/32ac2abe-e662-11ec-a534-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02021D2032-20220421
-  retrieved_at: '2026-10-22T02:53:51Z'
+  retrieved_at: '2026-10-22T17:12:30Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-05T19:01:23.364+01:00'
 integrity:
@@ -57,9 +66,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:53:51Z'
-  notes: Texto consolidado 02021D2032-20220421.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:12:30Z'
+  notes: 1 versão(ões); histórico completo em decisao-ue-2021-2032.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -133,28 +142,19 @@ relationships:
 article_structure:
   article_count: 8
   section_count: 0
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:53:51Z'
-  warnings: []
+  checked_at: '2026-10-22T17:12:30Z'
+  warnings:
+  - '02021D2032-20211122: versão indisponível (Sem expressão na língua por para CELEX 02021D2032-20211122.)'
   errors: []
 ---
 
 # Decisão (PESC) 2021/2032 do Conselho de 19 de novembro de 2021
-
-> 02021D2032 — PT — 21.04.2022 — 001.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterada por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32022D0668) — [DECISÃO (PESC) 2022/668 DO CONSELHO de 21 de abril de 2022](http://publications.europa.eu/resource/celex/32022D0668) — L 121 — 44 — 22.4.2022
-
-## DECISÃO (PESC) 2021/2032 DO CONSELHO
 
 de 19 de novembro de 2021
 

@@ -36,6 +36,24 @@ version:
   label: Versão consolidada (EUR-Lex), sem valor jurídico
   language: por
   consolidation_date: '2026-01-08'
+version_history:
+  file: regulamento-ue-2023-1804.versoes.json
+  count: 2
+  source_lastmod: '2026-01-08'
+  versions:
+  - date: '2025-04-14'
+    amending: null
+    amending_title: null
+    changes: []
+  - date: '2026-01-08'
+    amending: eu:celex:32025R0656:por
+    amending_title: REGULAMENTO DELEGADO (UE) 2025/656 DA COMISSÃO de 2 de abril de 2025
+    changes:
+    - Altera Artigo 2.º — Definições
+    - Altera Artigo 14.º — Quadros de ação nacionais
+    - Altera Artigo 20.° — Disposições relativas aos dados
+    - Altera Especificações técnicas
+    - Altera Notas
 identifiers:
   celex: 32023R1804
   eli: http://data.europa.eu/eli/reg/2023/1804/oj
@@ -50,7 +68,7 @@ source:
   metadata_url: http://publications.europa.eu/resource/cellar/6337734c-58e4-11ee-9220-01aa75ed71a1.0019
   content_url: http://publications.europa.eu/resource/cellar/5a6f6fd4-fbaa-11f0-8da5-01aa75ed71a1.0020.02/DOC_1
   consolidated_url: https://eur-lex.europa.eu/legal-content/PT/TXT/?uri=CELEX%3A02023R1804-20260108
-  retrieved_at: '2026-10-22T02:41:56Z'
+  retrieved_at: '2026-10-22T17:16:43Z'
   retrieval_method: CELLAR RDF + SPARQL + negociação de conteúdo XHTML
   source_modified_at: '2024-11-28T22:45:18.844+01:00'
 integrity:
@@ -59,9 +77,9 @@ integrity:
 provenance:
   collector: leis-portugal EUR-Lex/CELLAR
   collector_version: 0.1.0
-  generated_by: leis-portugal collect eurlex
-  generated_at: '2026-10-22T02:41:56Z'
-  notes: Texto consolidado 02023R1804-20260108.
+  generated_by: leis-portugal collect eurlex-consolidated
+  generated_at: '2026-10-22T17:16:43Z'
+  notes: 2 versão(ões); histórico completo em regulamento-ue-2023-1804.versoes.json.
 reuse:
   status: permitted_with_conditions
   attribution: União Europeia, EUR-Lex / Publicações da União Europeia
@@ -293,30 +311,20 @@ relationships:
   date: '2021-09-06'
 article_structure:
   article_count: 26
-  section_count: 8
-  extraction_method: Classes XHTML do CELLAR (oj-ti-art / title-article-norm)
+  section_count: 9
+  extraction_method: Fragmentos por cabeçalho do texto consolidado do EUR-Lex
 derived_material:
   machine_generated: true
   notes: O Markdown é uma conversão derivada do XHTML do CELLAR; o conteúdo-fonte é identificado pelo URL e SHA-256.
 validation:
   status: validated
-  checked_at: '2026-10-22T02:41:56Z'
-  warnings: []
+  checked_at: '2026-10-22T17:16:43Z'
+  warnings:
+  - '02023R1804-20230922: versão indisponível (Sem expressão na língua por para CELEX 02023R1804-20230922.)'
   errors: []
 ---
 
 # Regulamento (UE) 2023/1804 do Parlamento Europeu e do Conselho de 13 de setembro de 2023
-
-> 02023R1804 — PT — 08.01.2026 — 002.001
-
-> Este texto constitui um instrumento de documentação e não tem qualquer efeito jurídico. As Instituições da União não assumem qualquer responsabilidade pelo respetivo conteúdo. As versões dos atos relevantes que fazem fé, incluindo os respetivos preâmbulos, são as publicadas no Jornal Oficial da União Europeia e encontram-se disponíveis no EUR-Lex. É possível aceder diretamente a esses textos oficiais através das ligações incluídas no presente documento
-
-**Alterado por:**
-
-- [►M1](http://publications.europa.eu/resource/celex/32025R0656) — [REGULAMENTO DELEGADO (UE) 2025/656 DA COMISSÃO de 2 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0656) — L 656 — 1 — 18.6.2025
-- [►M2](http://publications.europa.eu/resource/celex/32025R0671) — [REGULAMENTO DELEGADO (UE) 2025/671 DA COMISSÃO de 2 de abril de 2025](http://publications.europa.eu/resource/celex/32025R0671) — L 671 — 1 — 18.6.2025
-
-## REGULAMENTO (UE) 2023/1804 DO PARLAMENTO EUROPEU E DO CONSELHO
 
 de 13 de setembro de 2023
 
